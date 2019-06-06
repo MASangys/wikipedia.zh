@@ -693,7 +693,8 @@ COMICS〉、全1卷
       - [全部成為F 〜THE PERFECT INSIDER
         〜](https://web.archive.org/web/20090723183439/http://www.kid-game.jp/kid/game/game_coolkid/f/index.html)
   - 電視劇
-      - [全部成為F - 富士電視台](http://www.fujitv.co.jp/F/)
+      - [全部成為F -
+        富士電視台](https://web.archive.org/web/20140826113931/http://www.fujitv.co.jp/F/)
 
       -
   - 電視動畫

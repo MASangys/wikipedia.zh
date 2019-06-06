@@ -1,5 +1,5 @@
 **Rain**（），本名“**鄭智薰**”（
-為[韓國著名男歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")、[演員](https://zh.wikipedia.org/wiki/演員 "wikilink")、製作人，出生於[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[忠清南道](../Page/忠清南道.md "wikilink")[瑞山市](../Page/瑞山市.md "wikilink")，是韓國樂壇天王級歌手、演員、音樂製作人。以高熱度動作舞蹈最為著名。
+為[韓國著名男歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")、[演員](../Page/演員.md "wikilink")、製作人，出生於[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[忠清南道](../Page/忠清南道.md "wikilink")[瑞山市](../Page/瑞山市.md "wikilink")，是韓國樂壇天王級歌手、演員、音樂製作人。以高熱度動作舞蹈最為著名。
 
 2002年以藝名Rain發行個人首張專輯《First Drop》。其後發行了《Rain 2》、《It's Raining》、《Rain's
 World》、《Rainism》等專輯，榮獲Mnet亞洲音樂大獎、首爾歌謠大賞、金唱片大賞等韓國音樂獎項 。
@@ -175,18 +175,19 @@ Company](https://zh.wikipedia.org/wiki/R.A.I.N._Company "wikilink")。
 
 ### 電視劇
 
-| 年份        | 電視台                                                                                                         | 劇名                                                              | 飾演      | 性質    |
-| --------- | ----------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | ------- | ----- |
-| 2002年     | [SBS](../Page/SBS_\(韓國\).md "wikilink")                                                                     | 《[Orange](https://zh.wikipedia.org/wiki/Orange "wikilink")》     | 小雨      | 第一男主角 |
-| 2003年     | [KBS](../Page/韓國放送公社.md "wikilink")                                                                         | 《[小爸爸上學去](../Page/小爸爸上學去.md "wikilink")》                        | 車尚道     |       |
-| 2004年     | 《[浪漫滿屋](https://zh.wikipedia.org/wiki/浪漫滿屋 "wikilink")》                                                     | 李英宰                                                             |         |       |
-| 2005年     | 《[這該死的愛情](../Page/這該死的愛情.md "wikilink")》                                                                    | 姜賦九                                                             |         |       |
-| 2010年     | 《[逃亡者Plan.B](../Page/逃亡者Plan.B.md "wikilink")》                                                              | 智愚                                                              |         |       |
-| 2014年     | SBS                                                                                                         | 《[對我而言可愛的她](../Page/對我而言可愛的她.md "wikilink")》                    | 李賢旭     |       |
-| 2015年     | [浙江衛視](https://zh.wikipedia.org/wiki/浙江衛視 "wikilink")/[安徽衛視](https://zh.wikipedia.org/wiki/安徽衛視 "wikilink") | 《[克拉戀人](https://zh.wikipedia.org/wiki/克拉戀人 "wikilink")》         | 蕭亮      |       |
-| 2016年     | SBS                                                                                                         | 《[回來吧大叔](../Page/回來吧大叔.md "wikilink")》                          | 金英洙/李海俊 |       |
-| 2018年     | [JTBC](../Page/JTBC.md "wikilink")                                                                          | 《[Sketch](../Page/Sketch_\(韓國電視劇\).md "wikilink")》              | 姜東洙     |       |
-| 2018年(待播) | 待定                                                                                                          | 《[八月未央](https://zh.wikipedia.org/wiki/八月未央_\(電視劇\) "wikilink")》 | 沈八月     |       |
+| 年份        | 電視台                                                                                                         | 劇名                                                                          | 飾演      | 性質    |
+| --------- | ----------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | ------- | ----- |
+| 2002年     | [SBS](../Page/SBS_\(韓國\).md "wikilink")                                                                     | 《[Orange](https://zh.wikipedia.org/wiki/Orange "wikilink")》                 | 小雨      | 第一男主角 |
+| 2003年     | [KBS](../Page/韓國放送公社.md "wikilink")                                                                         | 《[小爸爸上學去](../Page/小爸爸上學去.md "wikilink")》                                    | 車尚道     |       |
+| 2004年     | 《[浪漫滿屋](https://zh.wikipedia.org/wiki/浪漫滿屋 "wikilink")》                                                     | 李英宰                                                                         |         |       |
+| 2005年     | 《[這該死的愛情](../Page/這該死的愛情.md "wikilink")》                                                                    | 姜賦九                                                                         |         |       |
+| 2010年     | 《[逃亡者Plan.B](../Page/逃亡者Plan.B.md "wikilink")》                                                              | 智愚                                                                          |         |       |
+| 2014年     | SBS                                                                                                         | 《[對我而言可愛的她](../Page/對我而言可愛的她.md "wikilink")》                                | 李賢旭     |       |
+| 2015年     | [浙江衛視](https://zh.wikipedia.org/wiki/浙江衛視 "wikilink")/[安徽衛視](https://zh.wikipedia.org/wiki/安徽衛視 "wikilink") | 《[克拉戀人](https://zh.wikipedia.org/wiki/克拉戀人 "wikilink")》                     | 蕭亮      |       |
+| 2016年     | SBS                                                                                                         | 《[回來吧大叔](../Page/回來吧大叔.md "wikilink")》                                      | 金英洙/李海俊 |       |
+| 2018年     | [JTBC](../Page/JTBC.md "wikilink")                                                                          | 《[Sketch](../Page/Sketch_\(韓國電視劇\).md "wikilink")》                          | 姜東洙     |       |
+| 2018年(待播) | 待定                                                                                                          | 《[八月未央](https://zh.wikipedia.org/wiki/八月未央_\(電視劇\) "wikilink")》             | 沈八月     |       |
+| 2019年     | MBC                                                                                                         | 《[Welcome 2 life](https://zh.wikipedia.org/wiki/Welcome_2_life "wikilink")》 |         |       |
 
 ### 電影
 
@@ -195,10 +196,10 @@ Company](https://zh.wikipedia.org/wiki/R.A.I.N._Company "wikilink")。
 | 2007年 | 《[賽柏格之戀](https://zh.wikipedia.org/wiki/賽柏格之戀 "wikilink")》                     | 朴一順                | 第一男主角 |
 | 2008年 | 《[極速賽車手](../Page/極速賽車手.md "wikilink")》                                        | 天速(Taejo Togokhan) |       |
 | 2009年 | 《[忍者刺客](../Page/忍者刺客.md "wikilink")》                                          | 雷藏                 | 第一男主角 |
-| 2012年 | 《》                                                                            | 鄭泰勳                | 第一男主角 |
+| 2012年 | 《》                                                                            | 鄭泰勳                |       |
 | 2014年 | 《[無間救援 The Prince](https://zh.wikipedia.org/wiki/無間救援_The_Prince "wikilink")》 | 馬克                 | 反派    |
 | 2014年 | 《[露水红颜](../Page/露水红颜.md "wikilink")》                                          | 徐承勛                | 第一男主角 |
-| 2018年 | 《》                                                                            | 嚴福童                | 第一男主角 |
+| 2018年 | 《》                                                                            | 嚴福童                |       |
 |       |                                                                               |                    |       |
 
 ## 作品

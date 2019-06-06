@@ -79,7 +79,7 @@ Helmand province, Afghanistan, April 9, 2013
         CQBR-SS”，在原枪基础上加装[双弹匣](https://zh.wikipedia.org/wiki/弹匣并联 "wikilink")，在两次更换弹匣周期的第一次动作中会切换为第二个弹匣并按枪机释放钮上膛，第二次动作则是直接更换新弹匣并拉动拉机柄上膛。
   - 2010年—《[荣誉勋章](https://zh.wikipedia.org/wiki/荣誉勋章2010 "wikilink")》（Medal
     of
-    Honor）：只在故事模式中登場。被AFO海神所屬的[美國海軍特種作戰研究大隊隊員](https://zh.wikipedia.org/wiki/美國海軍特種作戰研究大隊 "wikilink")（包括“野免”）所使用。
+    Honor）：只在故事模式中登場。被AFO海神所屬的[美國海軍特種作戰開發組隊員](../Page/美國海軍特種作戰開發組.md "wikilink")（包括“野免”）所使用。
   - 2012年—《[-{zh-hans:反恐精英：全球攻势;
     zh-hant:絕對武力：全球攻勢;}-](https://zh.wikipedia.org/wiki/絕對武力：全球攻勢 "wikilink")》（Counter-Strike:
     Global Offensive）：命名為「M4A4」，為反恐小組的可用武器。

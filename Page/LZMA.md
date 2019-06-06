@@ -153,7 +153,7 @@ slots 0−3直接编码了0−3.
   - [Nullsoft Installer uses LZMA](http://nsis.sourceforge.net/)
   - [Inno Setup supports LZMA](http://www.jrsoftware.org/isinfo.php)
   - [Compress home
-    page](http://www.fromconcentratesoftware.com/Compress/)
+    page](https://web.archive.org/web/20060903100509/http://www.fromconcentratesoftware.com/Compress/)
   - [LZMA support for cramfs
     filesystem](http://babel.ls.fi.upm.es/~aacosta/twiki/bin/view/Projects/CramfsPatches)（dead）
   - [LZMA utils](http://tukaani.org/lzma/)

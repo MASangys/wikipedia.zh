@@ -1,5 +1,5 @@
 **Berkeley
-DB**（BDB）是一个高效的嵌入式[数据库编程库](../Page/数据库.md "wikilink")，[C语言](https://zh.wikipedia.org/wiki/C语言 "wikilink")、[C++](../Page/C++.md "wikilink")、[Java](../Page/Java.md "wikilink")、[Perl](../Page/Perl.md "wikilink")、[Python](../Page/Python.md "wikilink")、[Tcl以及其他很多语言都有其对应的API](../Page/Tcl.md "wikilink")。Berkeley
+DB**（BDB）是一个高效的嵌入式[数据库和](../Page/数据库.md "wikilink")[键-值数据库编程库](https://zh.wikipedia.org/wiki/键-值数据库 "wikilink")，[C语言](https://zh.wikipedia.org/wiki/C语言 "wikilink")、[C++](../Page/C++.md "wikilink")、[Java](../Page/Java.md "wikilink")、[Perl](../Page/Perl.md "wikilink")、[Python](../Page/Python.md "wikilink")、[Tcl以及其他很多语言都有其对应的API](../Page/Tcl.md "wikilink")。Berkeley
 DB可以保存任意类型的键/值对（Key/Value Pair），而且可以为一个键保存多个数据。Berkeley
 DB支持让数千的并发线程同时操作数据库，支持最大256TB的数据，广泛用于各种操作系统，其中包括大多数[类Unix操作系统](https://zh.wikipedia.org/wiki/Unix-like "wikilink")、[Windows操作系统以及](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[实时操作系统](../Page/实时操作系统.md "wikilink")。
 

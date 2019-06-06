@@ -32,7 +32,7 @@ PartitionMagic在PowerQuest時代保持定期的版本更新，持續添加有�
   - [Partition Magic home
     page](http://www.symantec.com/home_homeoffice/products/overview.jsp?pcid=sp&pvid=pm80)
 
-[Category:Partitions_managers](https://zh.wikipedia.org/wiki/Category:Partitions_managers "wikilink")
+[Category:硬盘分区软件](https://zh.wikipedia.org/wiki/Category:硬盘分区软件 "wikilink")
 [Category:賽門鐵克軟件](https://zh.wikipedia.org/wiki/Category:賽門鐵克軟件 "wikilink")
 [Category:Windows軟體](https://zh.wikipedia.org/wiki/Category:Windows軟體 "wikilink")
 [Category:付費軟體](https://zh.wikipedia.org/wiki/Category:付費軟體 "wikilink")

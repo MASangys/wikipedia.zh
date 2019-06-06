@@ -22,7 +22,7 @@ LHC@home的Sixtrack程序一般每次模拟60个粒子绕加速器环运行100,0
   - [LHC@home中文官方论坛](http://www.equn.com/forum/)
   - [LHC@home中文详细介绍](http://www.equn.com/distributed/ap-science.html#lhcathome)
   - [伯克利开放式网络计算平台（BOINC）](http://boinc.equn.com/)
-  - [BOINC计算平台使用详解](http://www.equn.com/forum/viewthread.php?tid=5753)
+  - [BOINC计算平台使用详解](https://web.archive.org/web/20060327080441/http://www.equn.com/forum/viewthread.php?tid=5753)
   - [LHC@home中国分布式计算总站](http://equn.com/wiki/LHC@home)
 
 ## 参见

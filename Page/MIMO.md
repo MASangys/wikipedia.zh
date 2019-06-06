@@ -26,7 +26,7 @@ fading
 channels）兼用時最佳，以降低接收端通道等化器之複雜度及維持接收端的低功率耗損，也因此MIMO多半與[OFDM結合為複合技術](https://zh.wikipedia.org/wiki/OFDM "wikilink")。MIMO-OFDM同時為[IEEE
 802.16及](https://zh.wikipedia.org/wiki/IEEE_802.16 "wikilink")[IEEE
 802.11n
-HT](../Page/IEEE_802.11n.md "wikilink")（High-Throughput）的採用標準之一。[WCDMA的系統](https://zh.wikipedia.org/wiki/WCDMA "wikilink")，如[HSDPA](https://zh.wikipedia.org/wiki/HSDPA "wikilink")，亦進行將MIMO技術標準化的動作。
+HT](../Page/IEEE_802.11n.md "wikilink")（High-Throughput）的採用標準之一。[WCDMA的系統](https://zh.wikipedia.org/wiki/WCDMA "wikilink")，如[HSDPA](https://zh.wikipedia.org/wiki/HSDPA "wikilink")，亦進行將MIMO技術標準化。
 
 ## 技术分类
 

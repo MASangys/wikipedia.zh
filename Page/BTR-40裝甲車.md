@@ -95,7 +95,7 @@ BTR-40由[GAZ-63改進而成](https://zh.wikipedia.org/wiki/GAZ-63 "wikilink")�
 
   - —[armoured.vif2.ru的BTR-40圖片及介紹](https://web.archive.org/web/20051027060422/http://armoured.vif2.ru/btr40.htm)
 
-  - —[legion.wplus.net的BTR-40圖片及介紹](http://legion.wplus.net/guide/army/ta/btr40.shtml)
+  - —[legion.wplus.net的BTR-40圖片及介紹](https://web.archive.org/web/20110716073107/http://legion.wplus.net/guide/army/ta/btr40.shtml)
 
 [Category:裝甲偵察車](https://zh.wikipedia.org/wiki/Category:裝甲偵察車 "wikilink")
 [Category:裝甲運兵車](https://zh.wikipedia.org/wiki/Category:裝甲運兵車 "wikilink")

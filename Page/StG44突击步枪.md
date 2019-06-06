@@ -213,6 +213,8 @@ Kulmbach公司推出了Mkb](https://zh.wikipedia.org/wiki/HZA_Kulmbach公司 "wi
     Mechanics](https://www.youtube.com/watch?v=HnXBshjGFo8)
   - [Sturmgewehr MP-44 Part II: History &
     Implementation](https://www.youtube.com/watch?v=8sRRn37PDaQ)
+  - [How does stg.44 work in 3D animation WWII
+    weapon](https://www.youtube.com/watch?v=1NFbDO86Lbw)
 
 [Category:自動步槍](https://zh.wikipedia.org/wiki/Category:自動步槍 "wikilink")
 [Category:突擊步槍](https://zh.wikipedia.org/wiki/Category:突擊步槍 "wikilink")

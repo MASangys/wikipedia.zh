@@ -11,6 +11,4 @@ NGC 6(NGC
 ## 外部链接
 
   -
-[kk:NGC 6](https://zh.wikipedia.org/wiki/kk:NGC_6 "wikilink")
-
 [Category:仙女座NGC天体](https://zh.wikipedia.org/wiki/Category:仙女座NGC天体 "wikilink")

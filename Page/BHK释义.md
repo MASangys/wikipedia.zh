@@ -29,7 +29,7 @@ interpretation）或**BHK释义**是由[魯伊茲·布勞威爾](https://zh.wiki
 --
 这裡的a是P的证明，而b是把P的证明变换成\(\bot\)的证明的一个函数。函数\(f(\langle a, b \rangle) = b(a)\)证明了无矛盾律，不管P是什么。
 
-在另一方面，[排中律](https://zh.wikipedia.org/wiki/排中律 "wikilink")\(P \vee (\neg P)\)展开为\(P \vee (P \to \bot)\)，而一般没有证明。
+在另一方面，[排中律](../Page/排中律.md "wikilink")\(P \vee (\neg P)\)展开为\(P \vee (P \to \bot)\)，而一般没有证明。
 
 ## 什么是荒谬？
 

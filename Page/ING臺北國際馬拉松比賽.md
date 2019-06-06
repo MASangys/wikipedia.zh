@@ -92,14 +92,10 @@ Run健康路跑組的報名，特別在比賽前一個月進行「團體搶衫�
 
 ### 登上國際認證
 
-<center>
-
 [File:2006INGTaipeiMarathon-014.jpg|工業技術研究院引進的晶片計時系統，必須跟專用的「冠軍晶片」配合使用，且須小心架設，以免成績錯誤導致選手抗議](File:2006INGTaipeiMarathon-014.jpg%7C工業技術研究院引進的晶片計時系統，必須跟專用的「冠軍晶片」配合使用，且須小心架設，以免成績錯誤導致選手抗議)。
 [File:2006INGTaipeiMarathon-046.jpg|這是菁英選手的起跑，在地面上有一段紅色地毯擺設的區塊，就是晶片感應區。由於考量到安全問題，除了參賽者、工作人員以外，閒雜人等是不能任意進入的](File:2006INGTaipeiMarathon-046.jpg%7C這是菁英選手的起跑，在地面上有一段紅色地毯擺設的區塊，就是晶片感應區。由於考量到安全問題，除了參賽者、工作人員以外，閒雜人等是不能任意進入的)。
 <File:2007INGTaipeiMarathon> ChampionChip
 TheSensoringChip.jpg|自2005年起至今採用的「冠軍晶片」，已成為台灣各大馬拉松比賽仿效的重要對象。
-
-</center>
 
 [台灣在國際](https://zh.wikipedia.org/wiki/台灣 "wikilink")[體育界的能見度算是中低的](https://zh.wikipedia.org/wiki/體育 "wikilink")，由於[IAAF國際裁判在首屆來台參觀時](https://zh.wikipedia.org/wiki/IAAF "wikilink")，看見競賽組成果感到滿意，在[國際田徑總會](https://zh.wikipedia.org/wiki/IAAF "wikilink")、路跑協會、ING安泰人壽、[中華民國田徑協會](../Page/中華民國.md "wikilink")、行政院體育委員會商討後，於2005年將該比賽納入國際認證的比賽。
 

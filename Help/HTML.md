@@ -188,38 +188,36 @@ This is a paragraph.
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><code>&lt;font&gt;</code></p></td>
-<td><p><code>&lt;span&gt;</code></p></td>
+<td><div class="sourceCode" id="cb1"><pre class="sourceCode html"><code class="sourceCode html"><a class="sourceLine" id="cb1-1" title="1"><span class="kw">&lt;font&gt;</span></a></code></pre></div></td>
+<td><div class="sourceCode" id="cb2"><pre class="sourceCode html"><code class="sourceCode html"><a class="sourceLine" id="cb2-1" title="1"><span class="kw">&lt;span&gt;</span></a></code></pre></div></td>
 <td><p>定義文本样式。</p></td>
 </tr>
 <tr class="even">
-<td><p><code>&lt;s&gt;</code></p></td>
-<td><p><code>&lt;del&gt;</code></p></td>
+<td><div class="sourceCode" id="cb3"><pre class="sourceCode html"><code class="sourceCode html"><a class="sourceLine" id="cb3-1" title="1"><span class="kw">&lt;s&gt;</span></a></code></pre></div></td>
+<td><div class="sourceCode" id="cb4"><pre class="sourceCode html"><code class="sourceCode html"><a class="sourceLine" id="cb4-1" title="1"><span class="kw">&lt;del&gt;</span></a></code></pre></div></td>
 <td><p>定义加删除线的文本。</p></td>
 </tr>
 <tr class="odd">
-<td><p><code>&lt;s&gt;</code></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><code>&lt;center&gt;文本&lt;/center&gt;</code></p></td>
+<td><div class="sourceCode" id="cb5"><pre class="sourceCode html"><code class="sourceCode html"><a class="sourceLine" id="cb5-1" title="1"><span class="kw">&lt;center&gt;</span>文本<span class="kw">&lt;/center&gt;</span></a></code></pre></div></td>
 <td><p>您應該使用來表現把文字置中的效果。</p>
-<p><code>&lt;div class="center" style="width: auto; margin-left: auto; margin-right: auto;"&gt;文本&lt;/div&gt;</code></p></td>
+<div class="sourceCode" id="cb6"><pre class="sourceCode html"><code class="sourceCode html"><a class="sourceLine" id="cb6-1" title="1"><span class="kw">&lt;div</span><span class="ot"> class=</span><span class="st">&quot;center&quot;</span><span class="ot"> style=</span><span class="st">&quot;width: auto; margin-left: auto; margin-right: auto;&quot;</span><span class="kw">&gt;</span>文本<span class="kw">&lt;/div&gt;</span></a></code></pre></div></td>
 <td><p>將文本水平置中在區塊內。</p></td>
 </tr>
-<tr class="odd">
-<td><p><code>&lt;big&gt;</code></p></td>
-<td><p>純粹放大文本：<code>&lt;span style="font-size:large"&gt;</code><br />
-強調文本：<code>&lt;strong&gt; / &lt;em&gt;</code></p></td>
+<tr class="even">
+<td><div class="sourceCode" id="cb7"><pre class="sourceCode html"><code class="sourceCode html"><a class="sourceLine" id="cb7-1" title="1"><span class="kw">&lt;big&gt;</span></a></code></pre></div></td>
+<td><p>純粹放大文本：</p>
+<div class="sourceCode" id="cb8"><pre class="sourceCode html"><code class="sourceCode html"><a class="sourceLine" id="cb8-1" title="1"><span class="kw">&lt;span</span><span class="ot"> style=</span><span class="st">&quot;font-size:large&quot;</span><span class="kw">&gt;</span></a></code></pre></div>
+<p><br />
+強調文本：</p>
+<div class="sourceCode" id="cb9"><pre class="sourceCode html"><code class="sourceCode html"><a class="sourceLine" id="cb9-1" title="1"><span class="kw">&lt;strong&gt;</span> / <span class="kw">&lt;em&gt;</span></a></code></pre></div></td>
 <td><p>定义大号文本。</p></td>
 </tr>
-<tr class="even">
-<td><p><code>&lt;u&gt;</code></p></td>
-<td><p>N/A</p></td>
+<tr class="odd">
+<td><div class="sourceCode" id="cb10"><pre class="sourceCode html"><code class="sourceCode html"><a class="sourceLine" id="cb10-1" title="1"><span class="kw">&lt;u&gt;</span></a></code></pre></div></td>
+<td></td>
 <td><p>非<a href="https://zh.wikipedia.org/wiki/超連結" title="wikilink">超連結文字不宜加底線</a>。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -238,7 +236,7 @@ This is a paragraph.
 
 接下来从[OutputPage.php](http://cvs.sourceforge.net/viewcvs.py/wikipedia/phpwiki/newcodebase/OutputPage.php)摘录的源代码附加的说明了什么属性是可用的。
 
-```
+``` html
  /* private */ function removeHTMLtags( $text )
  {
   wfProfileIn( "OutputPage::removeHTMLtags" );
@@ -277,14 +275,15 @@ This is a paragraph.
   );
 ```
 
-比如元素`<a>`在维基代码中被禁止使用，因此
+比如元素`<`**<span style="color:green;">`a`</span>**`>`在维基代码中被禁止使用，因此
 
-<a href="<nowiki>http://meta.wikimedia.org/wiki/Main_Page</nowiki>">`Main
-Page`</a>
+``` html
+<a href="https://meta.wikimedia.org/wiki/Main_Page">Main Page</a>
+```
 
-生成HTML代码
+生成
 
-> `<a href="http://meta.wikimedia.org/wiki/Main_Page">Main Page</a>`
+> <a href="https://meta.wikimedia.org/wiki/Main_Page">`Main Page`</a>
 
 是文字而不是链接。
 
@@ -295,16 +294,16 @@ Parser tags are included in MediaWiki whereas extension tags are added
 by optional software extensions.
 [Special:版本信息列有所有标签](https://zh.wikipedia.org/wiki/Special:版本信息 "wikilink")。解析器标签由扩展程序提供；所以欲知标签用法，可在[Special:版本信息搜索对应的扩展程序](https://zh.wikipedia.org/wiki/Special:版本信息 "wikilink")，或者点击下面的链接。
 
-  - Parser tags : \<gallery\>, \<nowiki\>, \<pre\>
+  - Parser tags :
 
-<!-- end list -->
+\<gallery\>, \<nowiki\>, \<pre\>
 
   - 扩展标签：
 
-\<categorytree\>, \<charinsert\>, \<hiero\>,
-\<[imagemap](https://zh.wikipedia.org/wiki/mw:Extension:ImageMap "wikilink")\>,
-\<inputbox\>, \<math\>, \<poem\>, \<ref\>, \<references\>,
-\<[syntaxhighlight](https://zh.wikipedia.org/wiki/mw:Extension:SyntaxHighlight "wikilink")\>
+\<categorytree\>, \<charinsert\>,
+\<hiero\>,\<[imagemap](https://zh.wikipedia.org/wiki/mw:Extension:ImageMap "wikilink")\>,\<inputbox\>,
+\<math\>, \<poem\>, \<ref\>,
+\<references\>,\<[syntaxhighlight](https://zh.wikipedia.org/wiki/mw:Extension:SyntaxHighlight "wikilink")\>
 （也可写作\<source\>）, \<timeline\>
 
 ## 外部链接

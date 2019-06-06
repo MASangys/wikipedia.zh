@@ -80,7 +80,7 @@ Gaal）出任，2005-06球季始上位，以第三名完成，成績大有進步
 
   - [球迷網站](http://www.azfanpage.nl/)
 
-  - [球迷網站](http://www.forza-az.nl/)
+  - [球迷網站](https://web.archive.org/web/20100801014730/http://forza-az.nl/)
 
   - [阿爾克馬爾電視](http://www.az.tv/)
 

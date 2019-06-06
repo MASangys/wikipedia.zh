@@ -1,4 +1,5 @@
 ，[縮寫為](../Page/縮寫.md "wikilink")，全名為，中文翻译为**安全数位卡**\[1\]\[2\]，為一種[記憶卡](../Page/記憶卡.md "wikilink")，被廣泛地於攜帶型裝置上使用，例如[數碼相機](https://zh.wikipedia.org/wiki/數碼相機 "wikilink")、[個人數碼助理和](https://zh.wikipedia.org/wiki/個人數碼助理 "wikilink")[多媒體播放器等](https://zh.wikipedia.org/wiki/多媒體播放器 "wikilink")。SD卡的技術是建基於[MultiMedia卡格式上](https://zh.wikipedia.org/wiki/MultiMedia卡 "wikilink")。SD卡有比較高的資料傳送速度，而且不斷更新標準。大部份SD卡的側面設有写保护控制，以避免一些資料意外地寫入，而少部分的SD卡甚至支援[數位版權管理的技術](https://zh.wikipedia.org/wiki/數位版權管理 "wikilink")。SD卡的大小為32mm×24mm×2.1mm，但官方標準亦有記載「薄版」1.4mm厚度，與MMC卡相同。
+中文界有时会把SD卡称为****\[3\]\[4\]，但此“”与“”其实是两个完全不同的概念。
 
 ### "×" 速率
 
@@ -159,7 +160,7 @@ UHS-I到III的匯流排標準其硬體針腳規格並不相同，但可以向下
 <td><p><a href="https://zh.wikipedia.org/wiki/File:UHS-II.png" title="fig:UHS-II.png">UHS-II.png</a></p></td>
 <td><p>156MB/s（FD156）<br />
 312MB/s（HD312）</p></td>
-<td><p>4.00/4.10[3]</p></td>
+<td><p>4.00/4.10[5]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -167,7 +168,7 @@ UHS-I到III的匯流排標準其硬體針腳規格並不相同，但可以向下
 <td><p><a href="https://zh.wikipedia.org/wiki/File:UHS-III.png" title="fig:UHS-III.png">UHS-III.png</a></p></td>
 <td><p>312 MByte/s (FD312)<br />
 624 MByte/s (FD624)</p></td>
-<td><p>6.0[4]</p></td>
+<td><p>6.0[6]</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -508,12 +509,15 @@ SD卡内嵌的[数字版权保护方案是按](https://zh.wikipedia.org/wiki/dig
     Layer標準，版本2.0](https://web.archive.org/web/20100707074356/http://www.sdcard.org/developers/tech/sdcard/pls/Simplified_Physical_Layer_Spec.pdf)
 
 [Category:記憶卡](https://zh.wikipedia.org/wiki/Category:記憶卡 "wikilink")
+[Category:日本發明](https://zh.wikipedia.org/wiki/Category:日本發明 "wikilink")
 
 1.  [快閃記憶卡商機
     封測廠搶進](http://www.libertytimes.com.tw/2007/new/jun/29/today-e3.htm)
 
 2.  [金士頓擴大外包
     華泰樂翻](http://tw.nextmedia.com/applenews/article/art_id/32129654/IssueID/20091201)
-3.  [SD Bus Speed](https://www.sdcard.org/consumers/speed/bus_speed/)
-    SD Association
+3.
 4.
+5.  [SD Bus Speed](https://www.sdcard.org/consumers/speed/bus_speed/)
+    SD Association
+6.

@@ -120,7 +120,7 @@ Landscape Garden 2007.jpg|主題園景地帶 <File:Union> Square Fountain
   - 第六期：[天璽](../Page/天璽_\(香港\).md "wikilink")
       - 組成：兩座約270米，高62層的雙子大廈 (Tower 20, 21)
       - 用途：五星級[酒店](../Page/酒店.md "wikilink")（[W
-        Hotel](https://zh.wikipedia.org/wiki/W_Hotel "wikilink")）、服務式出租[住宅](../Page/住宅.md "wikilink")（[港景匯](https://zh.wikipedia.org/wiki/港景匯 "wikilink")）及豪華[住宅](../Page/住宅.md "wikilink")
+        Hotel](../Page/香港W酒店.md "wikilink")）、服務式出租[住宅](../Page/住宅.md "wikilink")（[港景匯](https://zh.wikipedia.org/wiki/港景匯 "wikilink")）及豪華[住宅](../Page/住宅.md "wikilink")
       - 面積：200萬[平方呎](https://zh.wikipedia.org/wiki/平方呎 "wikilink")
       - 特色：其中一幢是全[香港最高的純](../Page/香港.md "wikilink")[住宅建築物](../Page/住宅.md "wikilink")。
       - 狀況：已開幕 (港景匯及[香港W酒店](../Page/香港W酒店.md "wikilink"))、已入-{伙}-(豪宅部分)

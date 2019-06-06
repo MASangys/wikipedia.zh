@@ -11,7 +11,7 @@ WordNet的数据库及相应的软件工具的发放遵照[BSD许可证书](../P
 
 ## WordNet内部结构
 
-在WordNet中，[名词](https://zh.wikipedia.org/wiki/名词 "wikilink")，[动词](https://zh.wikipedia.org/wiki/动词 "wikilink")，[形容词和](../Page/形容词.md "wikilink")[副词各自被组织成一个同义词的网络](https://zh.wikipedia.org/wiki/副词 "wikilink")，每个同义词集合都代表一个基本的语义概念，并且这些集合之间也由各种关系连接。（一个多义词将出现在它的每个意思的同义词集合中）。在WordNet的第一版中（标记为1.x），四种不同词性的网络之间并无连接。WordNet的名词网络是第一个发展起来的。
+在WordNet中，[名词](https://zh.wikipedia.org/wiki/名词 "wikilink")，[动词](../Page/动词.md "wikilink")，[形容词和](../Page/形容词.md "wikilink")[副词各自被组织成一个同义词的网络](https://zh.wikipedia.org/wiki/副词 "wikilink")，每个同义词集合都代表一个基本的语义概念，并且这些集合之间也由各种关系连接。（一个多义词将出现在它的每个意思的同义词集合中）。在WordNet的第一版中（标记为1.x），四种不同词性的网络之间并无连接。WordNet的名词网络是第一个发展起来的。
 
 名词网络的主干是蕴涵关系的层次（上位／下位关系），它占据了关系中的将近80%。层次中的最顶层是11个抽象概念，称为基本类别始点（unique
 beginners），例如实体（entity，“有生命的或无生命的具体存在”），心理特征（psychological

@@ -88,4 +88,4 @@ Gygax）配音。
 [Category:雅达利游戏](https://zh.wikipedia.org/wiki/Category:雅达利游戏 "wikilink")
 [Category:Codemasters遊戲](https://zh.wikipedia.org/wiki/Category:Codemasters遊戲 "wikilink")
 [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:盛大游戏](https://zh.wikipedia.org/wiki/Category:盛大游戏 "wikilink")
+[Category:盛趣遊戲](https://zh.wikipedia.org/wiki/Category:盛趣遊戲 "wikilink")

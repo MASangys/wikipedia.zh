@@ -35,8 +35,6 @@ km/s。\[3\]
 
 [中華民國中央氣象局全球資訊網](http://www.cwb.gov.tw/index.htm)
 
-[da:P-bølger](https://zh.wikipedia.org/wiki/da:P-bølger "wikilink")
-
 [Category:地球物理学](https://zh.wikipedia.org/wiki/Category:地球物理学 "wikilink")
 [Category:地震學](https://zh.wikipedia.org/wiki/Category:地震學 "wikilink")
 

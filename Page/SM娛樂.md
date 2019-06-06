@@ -210,6 +210,7 @@ Entertainment](https://zh.wikipedia.org/wiki/Woollim_Entertainment "wikilink")\[
   - [太妍](../Page/太妍.md "wikilink")
   - [Luna](../Page/朴善英.md "wikilink")
   - [孝淵](https://zh.wikipedia.org/wiki/孝淵 "wikilink")
+  - [潤娥](https://zh.wikipedia.org/wiki/潤娥 "wikilink")
   - [Victoria](../Page/宋茜.md "wikilink")
   - [俞利](../Page/俞利.md "wikilink")
 
@@ -669,7 +670,7 @@ Entertainment](https://zh.wikipedia.org/wiki/Woollim_Entertainment "wikilink")\[
 
   - [郭明振](https://zh.wikipedia.org/wiki/郭时暘 "wikilink")（藝名為**郭时暘**）
   - [李鍾硕](https://zh.wikipedia.org/wiki/李鍾硕 "wikilink")
-  - [李準基](https://zh.wikipedia.org/wiki/李準基 "wikilink")
+  - [李準基](../Page/李準基.md "wikilink")
 
 <small>**歌手**</small>
 
@@ -678,15 +679,15 @@ Entertainment](https://zh.wikipedia.org/wiki/Woollim_Entertainment "wikilink")\[
   - [許永生](../Page/許永生.md "wikilink")（[SS501](../Page/SS501.md "wikilink")、[SS301](https://zh.wikipedia.org/wiki/SS301 "wikilink")）
   - [侯明昊](https://zh.wikipedia.org/wiki/侯明昊 "wikilink")
   - [黃仁虎](https://zh.wikipedia.org/wiki/黃仁虎 "wikilink")（[IN2IT](../Page/IN2IT.md "wikilink")）
-  - 池韓率（NewKidd）
+  - 池韓率（[NewKidd](../Page/NewKidd.md "wikilink")）
   - [趙珍虎](../Page/趙珍虎.md "wikilink")（[PENTAGON](../Page/Pentagon_\(男子組合\).md "wikilink")）
   - [鄭丙熙](../Page/G.O.md "wikilink")（[MBLAQ](https://zh.wikipedia.org/wiki/MBLAQ "wikilink")，藝名為**G.O**）
   - [金力燦](https://zh.wikipedia.org/wiki/金力燦 "wikilink")
-  - [金仁性](https://zh.wikipedia.org/wiki/仁誠 "wikilink")（[SF9](https://zh.wikipedia.org/wiki/SF9 "wikilink")）
+  - [金仁誠](https://zh.wikipedia.org/wiki/仁誠 "wikilink")（[SF9](https://zh.wikipedia.org/wiki/SF9 "wikilink")）
   - [金振煥](../Page/金振煥.md "wikilink")（[iKON](https://zh.wikipedia.org/wiki/iKON "wikilink")，藝名為**Jay**）
   - [金鍾旼](../Page/金鍾旼.md "wikilink")（[高耀太](../Page/高耀太.md "wikilink")）
   - 金文奎（[HOTSHOT](../Page/HOTSHOT.md "wikilink")，藝名為**Timoteo**）
-  - 金湘訓（藝名為**C:ODE**）
+  - 金湘訓（[AlphaBAT](../Page/AlphaBAT.md "wikilink")， 藝名為**C:ODE**）
   - 金宇珍（[Stray
     Kids](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")）
   - 權宰煥（[N-SONIC](../Page/N-SONIC.md "wikilink")，藝名為**J-Heart**）
@@ -705,6 +706,8 @@ Entertainment](https://zh.wikipedia.org/wiki/Woollim_Entertainment "wikilink")\[
     NINE](https://zh.wikipedia.org/wiki/MIX_NINE "wikilink")》）
   - [朴容主](../Page/朴容主.md "wikilink")（《星動亞洲》 S1 & S2、《[The
     Fan](https://zh.wikipedia.org/wiki/The_Fan "wikilink")》）
+  - 朴俞里（《[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")》）
+  - 尹瑞彬（《[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")》）
   - 周彥辰（《[偶像練習生](https://zh.wikipedia.org/wiki/偶像練習生 "wikilink")》）
 
 <!-- end list -->
@@ -727,16 +730,13 @@ Entertainment](https://zh.wikipedia.org/wiki/Woollim_Entertainment "wikilink")\[
 
 <small>**歌手**</small>
 
-  - [程瀟](https://zh.wikipedia.org/wiki/程瀟 "wikilink")（[宇宙少女](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")）
   - [崔智秀](../Page/崔智秀.md "wikilink")（[ITZY](../Page/ITZY.md "wikilink")，藝名為**Lia**）
   - [咸𤨒晶](../Page/咸𤨒晶.md "wikilink")（[T-ara](https://zh.wikipedia.org/wiki/T-ara "wikilink")，除本名另有藝名**Elsie**）
   - 張知秀（[七學年一班](../Page/七學年一班.md "wikilink")，藝名為**白世熙**）
   - 趙河朗（藝名為**趙敏雅**）
-  - [金知妍](../Page/苞娜.md "wikilink")（[宇宙少女](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")，藝名為**苞娜**）
   - 金容媛（[C-REAL](../Page/C-REAL.md "wikilink")，藝名為**Chemi**）
   - [李孝利](../Page/李孝利.md "wikilink")
   - 李欢熙
-  - [李露多](https://zh.wikipedia.org/wiki/李露多 "wikilink")（[宇宙少女](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")）
   - [李宣美](https://zh.wikipedia.org/wiki/李宣美 "wikilink")
   - 权志晏（藝名為**率悲**）
   - [吳惠麟](../Page/Raina.md "wikilink")（[After
@@ -746,7 +746,6 @@ Entertainment](https://zh.wikipedia.org/wiki/Woollim_Entertainment "wikilink")\[
   - [朴昭妍](../Page/朴昭妍.md "wikilink")
   - [沈泫京](../Page/沈泫京.md "wikilink")
   - [宋多惠](https://zh.wikipedia.org/wiki/宋多惠 "wikilink")
-  - [俞延靜](https://zh.wikipedia.org/wiki/俞璉靜 "wikilink")（[宇宙少女](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")，藝名為**璉靜**）
 
 <small>**參賽者**</small>
 

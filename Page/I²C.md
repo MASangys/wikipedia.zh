@@ -9,9 +9,9 @@ I²C只使用兩條雙向[漏极开路](https://zh.wikipedia.org/wiki/漏极开�
 Drain）（-{zh:串列;zh-hant:串列;zh-hans:串行}-資料（SDA）及-{zh:串列;zh-hant:串列;zh-hans:串行}-時脈（SCL））並利用[電阻將電位上拉](https://zh.wikipedia.org/wiki/電阻 "wikilink")。I²C允許相當大的工作電壓範圍，但典型的電壓準位為+3.3V或+5v。
 
 I²C的參考設計使用一個7位元長度的[位址空間但保留了](https://zh.wikipedia.org/wiki/位址空間 "wikilink")16個位址，所以在一組匯流排最多可和112個節點通訊。常見的I²C匯流排依傳輸速率的不同而有不同的模式：*標準模式*（100
-Kbit/s）、*低速模式*（10
-Kbit/s），但時脈頻率可被允許下降至零，這代表可以暫停通訊。而新一代的I²C匯流排可以和更多的節點（支援10位元長度的位址空間）以更快的速率通訊：*快速模式*（400
-Kbit/s）、*高速模式*（3.4 Mbit/s）。
+kbit/s）、*低速模式*（10
+kbit/s），但時脈頻率可被允許下降至零，這代表可以暫停通訊。而新一代的I²C匯流排可以和更多的節點（支援10位元長度的位址空間）以更快的速率通訊：*快速模式*（400
+kbit/s）、*高速模式*（3.4 Mbit/s）*超高速模式*（5 Mbit/s）。
 
 雖然最大的節點數目是被位址空間所限制住，但實際上也會被匯流排上的總[電容所限制住](../Page/電容.md "wikilink")，一般而言為400
 pF。
@@ -154,9 +154,10 @@ I²C的另一個強大用途在於[微控制器的應用](https://zh.wikipedia.o
   - [I2C Bus Technical Overview and Frequently Asked
     Questions](http://www.esacademy.com/faq/i2c/)
   - [The I2C Faq
-    Version 2.0](http://www.kar.elf.stuba.sk/predmety/mmp/i2c/i2cindex.htm)
+    Version 2.0](https://web.archive.org/web/20070102155852/http://www.kar.elf.stuba.sk/predmety/mmp/i2c/i2cindex.htm)
   - [The Bus Buffer Resource. For 2-wire buses such as I2C, SMBus,
-    PMBus, IPMB & IPMI](http://www.bus-buffer.com/)
+    PMBus, IPMB &
+    IPMI](https://web.archive.org/web/20161013012648/http://www.bus-buffer.com/)
   - [I2C Licensing
     Information](https://web.archive.org/web/20110929112725/http://www.nxp.com/products/interface_control/i2c/licensing/)
 

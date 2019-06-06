@@ -1,4 +1,4 @@
-**J.D. Edwards**是一家軟體公司。
+**J.D. Edwards**是[軟體公司](https://zh.wikipedia.org/wiki/軟體 "wikilink")。
 
 ## 历史
 

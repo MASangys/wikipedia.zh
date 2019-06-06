@@ -73,11 +73,11 @@ demo），預設以上下左右控制方向，Z鍵開火、X鍵轟炸，該彩�
 
 [Category:媒体播放器](https://zh.wikipedia.org/wiki/Category:媒体播放器 "wikilink")
 
-1.  <http://www.kmplayer.com/forums/showthread.php?t=141>
+1.
 2.  <http://www.kmplayer.com/forums/showthread.php?t=8931>
 3.
 4.  <http://sourceforge.net/forum/forum.php?forum_id=462894>
-5.  <http://www.kmplayer.com/forums/showthread.php?t=141>
+5.
 6.  <http://www.kmplayer.com/forums/showthread.php?t=140>
 7.
 8.  [Kang Media Player violates FFmpeg's

@@ -36,7 +36,7 @@ GUNDAM中，擁有高度Newtype能力的人被抽象的表現出身邊放出如�
 ## 強化人
 
 本意強化人意指以藥物、外科手術或是洗腦等人工手段來製造出具有精神感應能力的「人造NEWTYPE」。但後來出現了把NEWTYPE強化後也統稱強化人，只是這種非必要的做法似乎為了加速其熟悉專用機，如[機動戰士GUNDAM
-NT的主角三人組](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_NT "wikilink")，所以以下特意早期的意義上的強化人。
+NT的主角三人組中的莉塔](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_NT "wikilink")·貝爾納，所以以下特意早期的意義上的強化人。
 
 強化人一樣能使用感應波，也能驅動精神感應裝置，但是這樣的能力並非與生俱來的，因此強化人的身體及心理往往會因為承受相當大的負擔，而產生各方面的問題。
 
@@ -126,7 +126,7 @@ Attacks。唯[GUNDAM
 W和](https://zh.wikipedia.org/wiki/GUNDAM_W "wikilink")[鐵血的孤兒並未出現類似的武器](https://zh.wikipedia.org/wiki/鐵血的孤兒 "wikilink")。
 
   - 感應炮,
-    全寫精神感應炮，也有時稱作浮遊炮，是一組從主機發射的無線控制和自帶電源用[火箭推進的小型光束炮台](../Page/火箭.md "wikilink")，一般大小和[空對空導彈相仿](https://zh.wikipedia.org/wiki/空對空導彈 "wikilink")。是[宇宙世紀](../Page/宇宙世紀.md "wikilink")0080年代中後期起，和一部分其他相似設定的作品中([GUNDAM
+    全寫精神感應炮，也有時稱作浮遊炮，是一組從主機發射的無線控制和自帶電源用[火箭推進的小型光束炮台](../Page/火箭.md "wikilink")，一般大小和[空對空導彈相仿](https://zh.wikipedia.org/wiki/空對空導彈 "wikilink")[無人戰鬥航空載具](../Page/無人戰鬥航空載具.md "wikilink")，原始設計是在太空使用但間有在地球表面使用的戰例。是[宇宙世紀](../Page/宇宙世紀.md "wikilink")0080年代中後期起，和一部分其他相似設定的作品中([GUNDAM
     X](https://zh.wikipedia.org/wiki/GUNDAM_X "wikilink")、[GUNDAM
     00](https://zh.wikipedia.org/wiki/GUNDAM_00 "wikilink")、[GUNDAM
     AGE](https://zh.wikipedia.org/wiki/GUNDAM_AGE "wikilink"))的武器，是一種利用新人類(含NEWTYPE、INNOVATOR、X-ROUNDER)的強大精神力,以及對米諾夫斯基或GN粒子的影響對遠距離的無人武裝子機作出控制的兵器，這種兵裝在宇宙世紀中稱為Funnel在其他系列(GUNDAM
@@ -158,7 +158,7 @@ W和](https://zh.wikipedia.org/wiki/GUNDAM_W "wikilink")[鐵血的孤兒並未�
 
 <!-- end list -->
 
-  - 龍騎兵系統，同世界觀中亦有線控炮稱為**炮筒**。全稱為「分離式統合制御高速機動兵裝群網絡系統」，是[宇宙紀元中獨有的一種武器技術](https://zh.wikipedia.org/wiki/宇宙紀元 "wikilink")，是利用量子瞬移效果的通訊：量子通訊來作出遠端遙控的武器系統，雖然原理不同，但在操作方面與感應炮並無區別，仍然屌於感應使用者的腦波，優點的是使用的難度較低。參見[機動戰士技術相關部分](../Page/機動戰士技術.md "wikilink")。
+  - 龍騎兵系統，同世界觀中亦有線控炮稱為**炮筒**。全稱為「分離式統合制御高速機動兵裝群網絡系統」，是[宇宙紀元中獨有的一種武器技術](https://zh.wikipedia.org/wiki/宇宙紀元 "wikilink")，是利用量子瞬移效果的通訊：量子通訊來作出遠端遙控的武器系統，雖然原理不同，但在操作方面與感應炮並無區別，仍然屬於感應使用者的腦波，優點的是使用的難度較低。參見[機動戰士技術相關部分](../Page/機動戰士技術.md "wikilink")。
 
 <!-- end list -->
 

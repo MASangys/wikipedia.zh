@@ -36,7 +36,8 @@ Birdy一般用15－30秒钟就可以折叠完毕\[1\]，体积大约是79x61x36c
 
 Birdy不同区域的厂商：
 
-  - [Riese und Müller](https://www.r-m.de/en-us/folding-bike/)，欧洲；
+  - [Riese und
+    Müller](https://web.archive.org/web/20161220174939/https://www.r-m.de/en-us/folding-bike/)，欧洲；
   - [太平洋自行車](http://www.pacific-cycles.com.tw/)，臺灣；
   - [Pacific Cycles Japan](http://pacific-cycles-japan.com/)，日本；
   - [Sanbada

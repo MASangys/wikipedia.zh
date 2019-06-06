@@ -1435,7 +1435,7 @@ Susanna之客人<br />
 <td><p><strong><a href="../Page/廖啟智.md" title="wikilink">廖啟智</a></strong></p></td>
 <td><p><strong>王英年</strong></p></td>
 <td><p>於7年前曾為私家偵探山之客戶<br />
-变态，曾暗戀楊志美<br />
+曾暗戀楊志美<br />
 間接陷害孫靜君導致其終身癱瘓<br />
 殺害楊志美、趙錫佳<br />
 於第19集險溺水身亡<br />

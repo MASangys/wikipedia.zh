@@ -61,8 +61,8 @@ Premium**（）是[日本廣播協會](../Page/日本廣播協會.md "wikilink")
     World Premium. \[2016-09-19\] .
 2.  [NHKワールドプレミアム](https://www3.nhk.or.jp/nhkworld/ja/premium/)，NHK
 3.
-4.  [我國衛星電視產業92-94年度營運調查期末報告](http://neverland.km.nccu.edu.tw/xms/read_attach.php?id=1953).
-    [國立政治大學新聞學系](https://zh.wikipedia.org/wiki/國立政治大學新聞學系 "wikilink").
+4.  [我國衛星電視產業92-94年度營運調查期末報告](http://neverland.km.nccu.edu.tw/xms/read_attach.php?id=1953)
+    . [國立政治大學新聞學系](https://zh.wikipedia.org/wiki/國立政治大學新聞學系 "wikilink").
     [國家通訊傳播委員會九十四年度委託研究計畫](https://zh.wikipedia.org/wiki/國家通訊傳播委員會 "wikilink").
     2006-10. 第127頁. \[2016-02-06\] .
 5.  . 廣播與電視. 1996-01. \[2012-08-27\] . 海外稱「NHK

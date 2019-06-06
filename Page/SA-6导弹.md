@@ -72,6 +72,8 @@ SA-6出口到28个国家：
 
 在1973年[第四次中东战争初期](https://zh.wikipedia.org/wiki/第四次中东战争 "wikilink")，[以色列飞机上的](../Page/以色列.md "wikilink")[雷达警告接收器不能识别](https://zh.wikipedia.org/wiki/雷达警告接收器 "wikilink")[阿拉伯军队的SA](https://zh.wikipedia.org/wiki/阿拉伯 "wikilink")-6雷达信号，95枚导弹击落了64架以色列飞机。
 
+1999年5月2日，南斯拉夫聯盟發射SA-6防空飛彈，擊落一架美軍F-16C野鼬機。
+
 ## 型号发展
 
 1977年2K12的发射-雷达一体化新系统（美国命名为SA-6B）定型，它在另一种履带底盘上安装三枚3M9M1导弹，底盘前部还装有一部"毁灭之火Fire

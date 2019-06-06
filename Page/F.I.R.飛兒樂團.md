@@ -1,6 +1,5 @@
-飛兒樂團（F.I.R），為華語樂壇少見一女二男三人組合樂團，由現任主唱Lydia（*韓睿）、*吉他手REAL
-阿沁（*黃漢青*）、鍵盤手IAN（*陳建寧*）組成。Faye 飛（*詹雯婷已離團*）為樂團前主唱
-。
+**飛兒樂團（F.I.R.）**，為華語樂壇少見一女二男三人組合樂團，由現任主唱Lydia（*韓睿）、*吉他手REAL
+阿沁（*黃漢青*）、鍵盤手IAN（*陳建寧*）組成。Faye 飛（*詹雯婷已離團*）為樂團前主唱 。
 
 ## 樂團歷程
 
@@ -19,11 +18,14 @@ Away》兩首歌也曾經被韓國與日本藝人翻唱。F.I.R.出道至今，�
 
 2015年6月16日宣布加盟[華研國際音樂](../Page/華研國際音樂.md "wikilink")\[5\]。
 
+2018年2月22日主唱Faye對於F.I.R.即將發新專輯卻未告知她，且她也未參與專輯製作，因此在臉書發文表示已是F.I.R.局外人，發出聲明避免混淆
+\[6\]；團員阿沁對主唱飛「被退團」表示自己不知情 \[7\]。
+
 2018年8月22日發表鬥魚電影主題曲（星火），MV突破3000萬點閱。
 
-2018年10月24日前樂團主唱Faye宣布以本名詹雯婷加盟亞神音樂 \[6\]。
+2018年10月24日前樂團主唱Faye宣布以本名詹雯婷加盟亞神音樂 \[8\]。
 
-2018年10月25日 飛兒樂團在北京舉辦記者會，宣佈由22歲的中國籍新人韓睿（Lydia）接棒擔任樂團新主唱\[7\]。
+2018年10月25日 飛兒樂團在北京舉辦記者會，公佈由22歲的大陸籍新人韓睿（Lydia）接棒擔任樂團新主唱\[9\]。
 
 2019年4月1日 飛兒樂團發布睽違近六年的新專輯首支影片，預告回歸樂壇。
 
@@ -397,13 +399,13 @@ Band目前的團員由F.I.R.第五張專輯開始加入，成員包含了來自�
 <td><p>rowspan ="2"|F.I.R.飛兒樂團</p></td>
 <td><ul>
 <li>台北市健康城市主題曲</li>
-<li>此歌曲有三種版本，分別為陽光搖滾版（飛兒樂團獨立演奏）、抒情合唱版（台北市愛樂合唱團、馬英九、飛兒樂團三方合唱）、抒情飛兒版（飛兒樂團、馬英九共同合唱）</li>
+<li>此歌曲有三種版本，分別為陽光搖滾版（F.I.R.飛兒樂團獨立演奏）、抒情合唱版（台北市愛樂合唱團、馬英九、F.I.R.飛兒樂團三方合唱）、抒情飛兒版（F.I.R.飛兒樂團、馬英九共同合唱）</li>
 <li>沒有對外販售，<a href="https://zh.wikipedia.org/wiki/台北市" title="wikilink">台北市政府曾免費贈送該音碟</a>，不過已經贈罄。</li>
 <li>目前在KTV已經點得到該首歌，<a href="https://web.archive.org/web/20060706193410/http://healthycity.taipei.gov.tw/video.asp">台北市政府健康城市陽光台北</a>網頁上也有該首歌的MV播放。</li>
 </ul></td>
 </tr>
 <tr class="even">
-<td><p>2007年10月14日</p></td>
+<td><p>2007</p></td>
 <td><p><strong>時空寄情</strong></p></td>
 <td><ul>
 <li>收錄於<a href="../Page/馬兆駿.md" title="wikilink">馬兆駿追思音樂會</a></li>
@@ -414,17 +416,17 @@ Band目前的團員由F.I.R.第五張專輯開始加入，成員包含了來自�
 <tr class="odd">
 <td><p>2008</p></td>
 <td><p><strong>相親相愛</strong></p></td>
-<td><p>F.I.R.飛兒樂團、<a href="../Page/老狼.md" title="wikilink">老狼</a>、<a href="../Page/金海心.md" title="wikilink">金海心</a>、<a href="../Page/張菲.md" title="wikilink">張菲</a>、<a href="../Page/5566.md" title="wikilink">5566</a>、<a href="../Page/七朵花.md" title="wikilink">七朵花</a>、<a href="https://zh.wikipedia.org/wiki/美美" title="wikilink">美美</a>、<a href="https://zh.wikipedia.org/wiki/183CLUB" title="wikilink">183CLUB</a>、<a href="../Page/蔡淳佳.md" title="wikilink">蔡淳佳</a>、<a href="https://zh.wikipedia.org/wiki/方大同" title="wikilink">方大同</a>、<a href="../Page/辛曉琪.md" title="wikilink">辛曉琪</a>、<a href="../Page/徐若瑄.md" title="wikilink">徐若瑄</a>、<a href="https://zh.wikipedia.org/wiki/陳偉聯" title="wikilink">陳偉聯</a>、<a href="https://zh.wikipedia.org/wiki/郭采潔" title="wikilink">郭采潔</a>、<a href="https://zh.wikipedia.org/wiki/薛凱琪" title="wikilink">薛凱琪</a>、<a href="../Page/蕭敬騰.md" title="wikilink">蕭敬騰</a>、<a href="../Page/黑Girl.md" title="wikilink">黑Girl</a></p></td>
+<td><p>F.I.R.飛兒樂團、<a href="../Page/老狼.md" title="wikilink">老狼</a>、<a href="../Page/金海心.md" title="wikilink">金海心</a>、<a href="../Page/張菲.md" title="wikilink">張菲</a>、<a href="../Page/5566.md" title="wikilink">5566</a>、<a href="../Page/七朵花.md" title="wikilink">七朵花</a>、<a href="https://zh.wikipedia.org/wiki/美美" title="wikilink">美美</a>、<a href="https://zh.wikipedia.org/wiki/183CLUB" title="wikilink">183CLUB</a>、<a href="../Page/蔡淳佳.md" title="wikilink">蔡淳佳</a>、<a href="https://zh.wikipedia.org/wiki/方大同" title="wikilink">方大同</a>、<a href="../Page/辛曉琪.md" title="wikilink">辛曉琪</a>、<a href="../Page/徐若瑄.md" title="wikilink">徐若瑄</a>、<a href="https://zh.wikipedia.org/wiki/陳偉聯" title="wikilink">陳偉聯</a>、<a href="../Page/郭采潔.md" title="wikilink">郭采潔</a>、<a href="https://zh.wikipedia.org/wiki/薛凱琪" title="wikilink">薛凱琪</a>、<a href="../Page/蕭敬騰.md" title="wikilink">蕭敬騰</a>、<a href="../Page/黑Girl.md" title="wikilink">黑Girl</a></p></td>
 <td><ul>
 <li>為<a href="https://zh.wikipedia.org/wiki/四川" title="wikilink">四川大地震演唱</a></li>
-<li>原唱者為<a href="../Page/飛碟唱片.md" title="wikilink">飛碟唱片眾歌手</a>：<a href="../Page/呂方.md" title="wikilink">呂方</a>、<a href="../Page/伊能靜.md" title="wikilink">伊能靜</a>、<a href="https://zh.wikipedia.org/wiki/姜育恆" title="wikilink">姜育恆</a>、<a href="../Page/葉歡.md" title="wikilink">葉歡</a>、<a href="../Page/溫兆倫.md" title="wikilink">溫兆倫</a>、<a href="https://zh.wikipedia.org/wiki/任潔玲" title="wikilink">任潔玲</a>、<a href="https://zh.wikipedia.org/wiki/劉漢強" title="wikilink">劉漢強</a>、<a href="../Page/潘越雲.md" title="wikilink">潘越雲</a>、<a href="../Page/鄭華娟.md" title="wikilink">鄭華娟</a>、<a href="https://zh.wikipedia.org/wiki/李碧華" title="wikilink">李碧華</a>、<a href="https://zh.wikipedia.org/wiki/錢薇娟" title="wikilink">錢薇娟</a>,<a href="../Page/蕭福德.md" title="wikilink">蕭福德</a>、<a href="https://zh.wikipedia.org/wiki/陶晶瑩" title="wikilink">陶晶瑩</a>、<a href="https://zh.wikipedia.org/wiki/張小雯" title="wikilink">張小雯</a>、<a href="https://zh.wikipedia.org/wiki/林濛" title="wikilink">林濛</a>、<a href="../Page/關德輝.md" title="wikilink">關德輝</a>、<a href="https://zh.wikipedia.org/wiki/郭嘉欣" title="wikilink">郭嘉欣等</a>17位歌手</li>
+<li>原唱者為<a href="../Page/飛碟唱片.md" title="wikilink">飛碟唱片眾歌手</a>：<a href="../Page/呂方.md" title="wikilink">呂方</a>、<a href="../Page/伊能靜.md" title="wikilink">伊能靜</a>、<a href="https://zh.wikipedia.org/wiki/姜育恆" title="wikilink">姜育恆</a>、<a href="../Page/葉歡.md" title="wikilink">葉歡</a>、<a href="../Page/溫兆倫.md" title="wikilink">溫兆倫</a>、任潔玲、劉漢強、<a href="../Page/潘越雲.md" title="wikilink">潘越雲</a>、<a href="../Page/鄭華娟.md" title="wikilink">鄭華娟</a>、<a href="https://zh.wikipedia.org/wiki/李碧華" title="wikilink">李碧華</a>、<a href="https://zh.wikipedia.org/wiki/錢薇娟" title="wikilink">錢薇娟</a>,<a href="../Page/蕭福德.md" title="wikilink">蕭福德</a>、<a href="https://zh.wikipedia.org/wiki/陶晶瑩" title="wikilink">陶晶瑩</a>、張小雯、林濛、<a href="../Page/關德輝.md" title="wikilink">關德輝</a>、郭嘉欣等17位歌手</li>
 </ul></td>
 </tr>
 <tr class="even">
 <td><p><strong>希望的種子</strong></p></td>
-<td><p><a href="../Page/劉畊宏.md" title="wikilink">劉畊宏</a>、<a href="https://zh.wikipedia.org/wiki/王婉霏" title="wikilink">王婉霏</a>、<a href="https://zh.wikipedia.org/wiki/阿沁" title="wikilink">阿沁</a>、<a href="https://zh.wikipedia.org/wiki/陳熙" title="wikilink">陳熙</a>、<a href="https://zh.wikipedia.org/wiki/羅文裕" title="wikilink">羅文裕</a>、<a href="https://zh.wikipedia.org/wiki/陳威全" title="wikilink">陳威全</a>、<a href="https://zh.wikipedia.org/wiki/Fio" title="wikilink">Fio</a>、<a href="../Page/魏如萱.md" title="wikilink">魏如萱</a>（娃娃）、<a href="https://zh.wikipedia.org/wiki/小壞" title="wikilink">小壞</a>、<a href="https://zh.wikipedia.org/wiki/季欣霈" title="wikilink">季欣霈</a>、<a href="https://zh.wikipedia.org/wiki/Raymond" title="wikilink">Raymond</a>、<a href="https://zh.wikipedia.org/wiki/大成" title="wikilink">大成</a>、<a href="https://zh.wikipedia.org/wiki/大衡" title="wikilink">大衡</a>、<a href="https://zh.wikipedia.org/wiki/仲維軍" title="wikilink">仲維軍</a>、<a href="https://zh.wikipedia.org/wiki/吳兆" title="wikilink">吳兆</a>、<a href="https://zh.wikipedia.org/wiki/小光" title="wikilink">小光</a>、<a href="https://zh.wikipedia.org/wiki/李易" title="wikilink">李易等</a>17位歌手演唱</p></td>
+<td><p><a href="../Page/劉畊宏.md" title="wikilink">劉畊宏</a>、王婉霏、<a href="https://zh.wikipedia.org/wiki/阿沁" title="wikilink">阿沁</a>、<a href="https://zh.wikipedia.org/wiki/陳熙" title="wikilink">陳熙</a>、<a href="https://zh.wikipedia.org/wiki/羅文裕" title="wikilink">羅文裕</a>、<a href="https://zh.wikipedia.org/wiki/陳威全" title="wikilink">陳威全</a>、Fio、<a href="../Page/魏如萱.md" title="wikilink">魏如萱</a>（娃娃）、小壞、季欣霈、Raymond、<a href="https://zh.wikipedia.org/wiki/大成" title="wikilink">大成</a>、大衡、仲維軍、吳兆、<a href="https://zh.wikipedia.org/wiki/小光" title="wikilink">小光</a>、<a href="https://zh.wikipedia.org/wiki/李易" title="wikilink">李易等</a>17位歌手演唱</p></td>
 <td><ul>
-<li>收錄於台北新生命小組教會的<a href="https://zh.wikipedia.org/wiki/愛‧希望‧祝福" title="wikilink">愛‧希望‧祝福專輯</a></li>
+<li>收錄於台北新生命小組教會的《愛‧希望‧祝福》專輯</li>
 </ul></td>
 <td></td>
 </tr>
@@ -432,17 +434,17 @@ Band目前的團員由F.I.R.第五張專輯開始加入，成員包含了來自�
 <td><p><strong>彩色羽翼</strong></p></td>
 <td><p>F.I.R.飛兒樂團</p></td>
 <td><ul>
-<li>收錄於台北新生命小組教會的<a href="https://zh.wikipedia.org/wiki/愛‧希望‧祝福" title="wikilink">愛‧希望‧祝福專輯</a></li>
-<li>新版歌名改為<strong>讓我們一起微笑吧</strong>收錄於<a href="../Page/讓我們一起微笑吧.md" title="wikilink">讓我們一起微笑吧專輯</a></li>
+<li>收錄於台北新生命小組教會的《愛‧希望‧祝福》專輯</li>
+<li>新版歌名改為「<strong>讓我們一起微笑吧</strong>」並收錄於《<a href="../Page/讓我們一起微笑吧.md" title="wikilink">讓我們一起微笑吧</a>》專輯</li>
 </ul></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><strong>伸出手</strong></p></td>
-<td><p>*由<a href="https://zh.wikipedia.org/wiki/阿沁" title="wikilink">阿沁</a>、<a href="../Page/劉畊宏.md" title="wikilink">劉畊宏</a>、<a href="https://zh.wikipedia.org/wiki/王婉霏" title="wikilink">王婉霏</a>、<a href="https://zh.wikipedia.org/wiki/羅文裕" title="wikilink">羅文裕</a>、<a href="https://zh.wikipedia.org/wiki/陳威全" title="wikilink">陳威全</a>、<a href="https://zh.wikipedia.org/wiki/Fio" title="wikilink">Fio</a>、<a href="../Page/沈懿.md" title="wikilink">沈懿</a>、<a href="https://zh.wikipedia.org/wiki/小壞" title="wikilink">小壞</a>、<a href="https://zh.wikipedia.org/wiki/李星蕾" title="wikilink">李星蕾</a>、<a href="https://zh.wikipedia.org/wiki/Behigh" title="wikilink">Behigh等</a>10位歌手演唱</p></td>
+<td><p>*由<a href="https://zh.wikipedia.org/wiki/阿沁" title="wikilink">阿沁</a>、<a href="../Page/劉畊宏.md" title="wikilink">劉畊宏</a>、王婉霏、<a href="https://zh.wikipedia.org/wiki/羅文裕" title="wikilink">羅文裕</a>、<a href="https://zh.wikipedia.org/wiki/陳威全" title="wikilink">陳威全</a>、Fio、<a href="../Page/沈懿.md" title="wikilink">沈懿</a>、小壞、李星蕾、Behigh等10位歌手演唱</p></td>
 <td><ul>
-<li>收錄於台北新生命小組教會的<a href="https://zh.wikipedia.org/wiki/愛‧希望‧祝福" title="wikilink">愛‧希望‧祝福專輯</a></li>
-<li>於<a href="../Page/2008年4月.md" title="wikilink">2008年4月發行</a></li>
+<li>收錄於台北新生命小組教會的《愛‧希望‧祝福》專輯</li>
+<li>於2008年發行</li>
 <li><a href="https://zh.wikipedia.org/wiki/阿沁" title="wikilink">阿沁詞</a>、曲創作</li>
 </ul></td>
 <td></td>
@@ -450,7 +452,7 @@ Band目前的團員由F.I.R.第五張專輯開始加入，成員包含了來自�
 <tr class="odd">
 <td><p>2011</p></td>
 <td><p><strong>Believe（相信愛）</strong></p></td>
-<td><p><a href="../Page/馬英九.md" title="wikilink">馬英九旁白</a>，其他群星合唱。[8]</p></td>
+<td><p><a href="../Page/馬英九.md" title="wikilink">馬英九旁白</a>，其他群星合唱。[10]</p></td>
 <td><ul>
 <li>《相信希望fight &amp; smile》日本311大地震募款賑災晚會主題曲。</li>
 <li>陳建寧、謝宥慧作詞，陳建寧作曲</li>
@@ -459,22 +461,22 @@ Band目前的團員由F.I.R.第五張專輯開始加入，成員包含了來自�
 <tr class="even">
 <td><p>2012</p></td>
 <td><p><strong>愛永遠</strong></p></td>
-<td><p>飛兒樂團、<a href="../Page/黃小琥.md" title="wikilink">黃小琥</a>、<a href="../Page/蕭煌奇.md" title="wikilink">蕭煌奇</a>、<a href="../Page/于美人.md" title="wikilink">于美人</a>、<a href="../Page/楊培安.md" title="wikilink">楊培安</a>、<a href="../Page/王彩樺.md" title="wikilink">王彩樺</a>、<a href="../Page/柯震東.md" title="wikilink">柯震東</a>、<a href="../Page/Dream_Girls.md" title="wikilink">Dream Girls</a>、<a href="../Page/安心亞.md" title="wikilink">安心亞</a>、<a href="https://zh.wikipedia.org/wiki/豆花妹" title="wikilink">豆花妹</a>、<a href="https://zh.wikipedia.org/wiki/賴雅妍" title="wikilink">賴雅妍</a>、<a href="../Page/孫協志.md" title="wikilink">孫協志</a>、<a href="../Page/王傳一.md" title="wikilink">王傳一</a>、<a href="../Page/馬念先.md" title="wikilink">馬念先</a>、<a href="../Page/陳思函.md" title="wikilink">陳思函</a>、<a href="../Page/解偉苓.md" title="wikilink">解偉苓</a></p></td>
+<td><p>F.I.R.飛兒樂團、<a href="../Page/黃小琥.md" title="wikilink">黃小琥</a>、<a href="../Page/蕭煌奇.md" title="wikilink">蕭煌奇</a>、<a href="../Page/于美人.md" title="wikilink">于美人</a>、<a href="../Page/楊培安.md" title="wikilink">楊培安</a>、<a href="../Page/王彩樺.md" title="wikilink">王彩樺</a>、<a href="../Page/柯震東.md" title="wikilink">柯震東</a>、<a href="../Page/Dream_Girls.md" title="wikilink">Dream Girls</a>、<a href="../Page/安心亞.md" title="wikilink">安心亞</a>、<a href="https://zh.wikipedia.org/wiki/豆花妹" title="wikilink">豆花妹</a>、<a href="https://zh.wikipedia.org/wiki/賴雅妍" title="wikilink">賴雅妍</a>、<a href="../Page/孫協志.md" title="wikilink">孫協志</a>、<a href="../Page/王傳一.md" title="wikilink">王傳一</a>、<a href="../Page/馬念先.md" title="wikilink">馬念先</a>、<a href="../Page/陳思函.md" title="wikilink">陳思函</a>、<a href="../Page/解偉苓.md" title="wikilink">解偉苓</a></p></td>
 <td><ul>
 <li>門諾醫院 壽豐護理之家 2012募款主題曲，由<a href="../Page/陳建寧.md" title="wikilink">陳建寧老師發起</a>。</li>
 <li>由<a href="../Page/陳建寧.md" title="wikilink">陳建寧作詞作曲</a>。</li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p>2015年6月2日</p></td>
+<td><p>2015</p></td>
 <td><p><strong>心之火</strong></p></td>
 <td><p><a href="../Page/彭佳慧.md" title="wikilink">彭佳慧</a>、F.I.R.飛兒樂團</p></td>
 <td><ul>
-<li>中國連續劇<a href="../Page/花千骨.md" title="wikilink">花千骨前</a>25集片頭曲</li>
+<li>中國仙俠連續劇「<a href="../Page/花千骨.md" title="wikilink">花千骨</a>」前24集片頭曲</li>
 </ul></td>
 </tr>
 <tr class="even">
-<td><p>2018年</p></td>
+<td><p>2018</p></td>
 <td><p><strong>星火</strong></p></td>
 <td><p>F.I.R.飛兒樂團</p></td>
 <td><ul>
@@ -482,16 +484,28 @@ Band目前的團員由F.I.R.第五張專輯開始加入，成員包含了來自�
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p>2019年4月9日</p></td>
-<td><p>愛上屬於你的天空</p></td>
+<td><p>2018</p></td>
+<td><p><strong>功夫狂潮</strong></p></td>
 <td><p>F.I.R.飛兒樂團</p></td>
-<td><p>2019全新專輯首波主打歌</p></td>
+<td><ul>
+<li>電影「<a href="https://zh.wikipedia.org/wiki/功夫聯盟" title="wikilink">功夫聯盟</a>」宣傳曲</li>
+</ul></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>2018</p></td>
+<td><p><strong>愛我所愛</strong></p></td>
+<td><p><a href="../Page/動力火車.md" title="wikilink">動力火車</a>、F.I.R.飛兒樂團</p></td>
+<td><ul>
+<li>北京交通廣播25週年主題曲</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p>2018</p></td>
+<td><p><strong>聲音之城</strong></p></td>
+<td><p>F.I.R.飛兒樂團</p></td>
+<td><ul>
+<li>北京交通廣播25週年推廣曲</li>
+</ul></td>
 </tr>
 </tbody>
 </table>
@@ -521,7 +535,7 @@ Band目前的團員由F.I.R.第五張專輯開始加入，成員包含了來自�
 | 《愛情旅程》            | [張韶涵](../Page/張韶涵.md "wikilink")                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | 潘朵拉                                                          |                                      |
 | **2007年**         | 《其實很愛你》                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | 夢裡花                                                          |                                      |
 | 《我不會唱歌》           | [羅志祥](../Page/羅志祥.md "wikilink")                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | 舞所不在                                                         |                                      |
-| 《愛情定格》            | [郭-{采}-潔](https://zh.wikipedia.org/wiki/郭采潔 "wikilink")                                                                                                                                                                                                                                                                                                                                                                                                                                           | 隱形超人                                                         |                                      |
+| 《愛情定格》            | [郭-{采}-潔](../Page/郭采潔.md "wikilink")                                                                                                                                                                                                                                                                                                                                                                                                                                                              | 隱形超人                                                         |                                      |
 | 《I Need To Pray》  | [黃漢青](https://zh.wikipedia.org/wiki/黃漢青 "wikilink")                                                                                                                                                                                                                                                                                                                                                                                                                                               | 信心地圖                                                         |                                      |
 | 《How I Love You》  | [WOW頭號人物](https://zh.wikipedia.org/wiki/WOW頭號人物 "wikilink")                                                                                                                                                                                                                                                                                                                                                                                                                                       | 頭號人物                                                         |                                      |
 | 《Just Be My Love》 | [何耀珊](../Page/何耀珊.md "wikilink")                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | 擁抱                                                           |                                      |
@@ -773,7 +787,7 @@ Band目前的團員由F.I.R.第五張專輯開始加入，成員包含了來自�
 <td><p>2010年3月27日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/北展劇場" title="wikilink">北京展覽館劇場</a></p></td>
 <td><p>售票</p></td>
-<td><p>嘉賓：<a href="https://zh.wikipedia.org/wiki/郭采潔" title="wikilink">郭采潔</a></p></td>
+<td><p>嘉賓：<a href="../Page/郭采潔.md" title="wikilink">郭采潔</a></p></td>
 </tr>
 <tr class="even">
 <td><p>《創‧世紀》It's My Live<br />
@@ -1134,7 +1148,7 @@ Light Up The Way<br />
 
   - 10.10 新竹南寮漁港 國慶演火演唱會壓軸
 
-## 廣告代言\[9\]
+## 廣告代言\[11\]
 
   - 台灣啤酒（2012）
   - 勁王休閒鞋（2011）
@@ -1174,9 +1188,12 @@ Light Up The Way<br />
 4.  [光合之旅 Light Up The Way
     世界巡迴演唱會](https://www.youtube.com/watch?v=jym7FEUodRk)
 5.  [F.I.R.加盟華研 飛兒樂團全方位發展拓展](http://www.him.com.tw/newscon.php?nid=280)
-6.  [Faye詹雯婷花落亞神
+6.  [飛自爆被踢出F.I.R.
+    出新歌被瞞鼓裡](https://tw.appledaily.com/new/realtime/20180222/1302333)
+7.  [主唱飛慘遭退團 阿沁：我也不知道](https://today.line.me/TW/article/WGKvrL)
+8.  [Faye詹雯婷花落亞神
     搖滾女王楊乃文驚喜現身](http://www.asiamuse.com.tw/news.php?id=163)
-7.  [1](https://stars.udn.com/star/story/10092/3441677)
-8.  [陳建寧創作主題曲 江蕙金嗓幫腔慰災民](http://www.warnermusic.com.tw/node/38)
-9.  [F.I.R星檔案|udn
+9.  [1](https://stars.udn.com/star/story/10092/3441677)
+10. [陳建寧創作主題曲 江蕙金嗓幫腔慰災民](http://www.warnermusic.com.tw/node/38)
+11. [F.I.R星檔案|udn
     聯合追星網](http://stars.udn.com/newstars/star/StarPage.do?sid=1406#ixzz1SngiAJbW)

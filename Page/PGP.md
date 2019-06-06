@@ -127,7 +127,7 @@ iOS或Android平台上的OpenPGP应用程序有iPGMail\[6\] ，OpenKeychain\[7\]
 
 ## 外部链接
 
-  - [PGP公司网站](http://www.pgp.com/)
+  - [PGP公司网站](https://web.archive.org/web/20041230152556/http://www.pgp.com/)
   - [The International PGP Home Page](http://www.pgpi.org/)
   - [Web-based PGP Encryption Software](http://www.ezpgp.com)
 

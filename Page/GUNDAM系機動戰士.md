@@ -285,27 +285,28 @@ GUNDAM在故事開始以前就持有「傳說中的救世主」的稱號。故�
     /伊卡洛斯型](https://zh.wikipedia.org/wiki/高達TR-1\(海茲爾\)W_/伊卡洛斯型 "wikilink")(**Gundam
     TR-1\[Hazel Custom\]w/Icarus Unit, RX-121-1**)
     [高達TR-1
-    (海茲爾,拉赫)](https://zh.wikipedia.org/wiki/高達TR-1_\(海茲爾,拉赫\) "wikilink")(**Gundam
+    (海茲勒)](https://zh.wikipedia.org/wiki/高達TR-1_\(海茲勒\) "wikilink")(**Gundam
     TR-1 \[Hazel-Rah\], RX-121-1+FA-X29A**)
     [高達TR-1
-    (海茲爾,偵察)第二型態](https://zh.wikipedia.org/wiki/高達TR-1_\(海茲爾,偵察\)第二型態 "wikilink")(**Gundam
+    (海茲勒)第二型態](https://zh.wikipedia.org/wiki/高達TR-1_\(海茲勒\)第二型態 "wikilink")(**Gundam
     TR-1 \[Hazel-Rah\] Second Form, RX-121-1+FA-X29A**)
     [高達TR-1 (海茲爾
     II)三重推進器搭載型](https://zh.wikipedia.org/wiki/高達TR-1_\(海茲爾_II\)三重推進器搭載型 "wikilink")(**Gundam
     TR1(Hazel II), RX-121-2**)
     [高達TR-1
-    (海茲爾,奧斯華)](https://zh.wikipedia.org/wiki/高達TR-1_\(海茲爾,奧斯華\) "wikilink")(**Gundam
+    (海茲爾,奧斯拿)](https://zh.wikipedia.org/wiki/高達TR-1_\(海茲爾,奧斯拿\) "wikilink")(**Gundam
     TR-1 \[Hazel Owsla\], , RX-121-2**)
-    [高達TR-1 (海茲爾,奧斯華)
-    巨人型](https://zh.wikipedia.org/wiki/高達TR-1_\(海茲爾,奧斯華\)_巨人型 "wikilink")(**Gundam
+    [高達TR-1 (海茲爾,奧斯拿)
+    巨人型](https://zh.wikipedia.org/wiki/高達TR-1_\(海茲爾,奧斯拿\)_巨人型 "wikilink")(**Gundam
     TR-1 \[Hazel Owsla\] w/Gigantic Arm Unit, RX-121-1**)
     [高達TR-1
-    進階型](https://zh.wikipedia.org/wiki/高達TR-1_進階型 "wikilink")(**Gundam
+    進階型海茲爾](https://zh.wikipedia.org/wiki/高達TR-1_進階型海茲爾 "wikilink")(**Gundam
     TR-1 \[Advanced Hazel\], RX-121-2A**)
     [高達TR-1
     哈慎斯利](https://zh.wikipedia.org/wiki/高達TR-1_哈慎斯利 "wikilink")(**Gundam
     TR-1 \[Hyzenthlay\], RX-121-3C**)
-    [TR-6高達強化型](https://zh.wikipedia.org/wiki/TR-6高達強化型 "wikilink")(**TR-6
+    [TR-6
+    伍德渥特](https://zh.wikipedia.org/wiki/TR-6_伍德渥特 "wikilink")(**TR-6
     \[Woundwort\] High-Speed Fighter Form, RX-124**)
 
 ### Advance of Ζ: 時代的反抗者
@@ -1194,7 +1195,7 @@ GUNDAM在故事開始以前就持有「傳說中的救世主」的稱號。故�
     重武裝型](https://zh.wikipedia.org/wiki/高達Ez-8_重武裝型 "wikilink")(**Gundam
     Ez8 Heavy Arms Custom, RX-79Ez-8/HAC**)
 
-### 基連的野望
+### 基連的野心
 
   - [吉翁高達](https://zh.wikipedia.org/wiki/吉翁高達 "wikilink")(**Zeon's
     Gundam, RX-78-Z1**)

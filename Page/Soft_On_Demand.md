@@ -19,6 +19,7 @@ OPEN」作品競賽，並集合500位男女集體性愛拍攝成作品，同時�
   - 時間停止系列
   - 魔術鏡系列
   - 我的皮可系列
+  - SOD 加藤海系列
 
 ## 主要子公司與相關公司
 
@@ -131,7 +132,7 @@ OPEN」作品競賽，並集合500位男女集體性愛拍攝成作品，同時�
       - [Hunter](http://www.hunter-pp.jp/)
       - [GARCON](http://www.garcon-web.com/)
       - [ROCKET](http://www.rocket-inc.net/)
-      - [人間考察](http://www.ningenkousatsu.com/)
+      - [人間考察](https://web.archive.org/web/20140102035543/http://ningenkousatsu.com/)
       - [KEU](http://keu-av.com/index02.html)
       - [NEW
         SEXUAL](https://web.archive.org/web/20131228010757/http://www.new-sexual.jp/)

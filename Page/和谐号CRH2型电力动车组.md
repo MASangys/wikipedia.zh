@@ -83,7 +83,7 @@ CRH380A”。后来四方又在该系列上研制了通勤车辆[CRH6型动车�
 
 由于列车直接由日本引入，因此CRH2系列外观与日本新干线E2系除部分设计有差别外其余均与后者相同，本系列采用了[铝合金空心型材车体](https://zh.wikipedia.org/wiki/铝合金 "wikilink")，并采用[双皮层构造](https://zh.wikipedia.org/wiki/双皮层构造 "wikilink")。
 
-另外，在前期制造的列车中，头尾的驾駛拖车顶部均装有多种信号天线，这是日本本土的同型车所没有的。头车正面下部裙裾部分安裝大面积的除雪翼，在行驶時能把线路上的积雪快速清除。除16节编组的8节编组列车中，头尾两端均设有重联控制系统和自动开闭式车钩盖供列车重联。另外在部分衍生车型中，2B、2C、2E的头车处设有丹凤眼前灯，部分2C的挡风玻璃处的雨刮亦与CRH2系列车型有所不同。在CRH2A统型版上，首、尾两节车厢的驾驶员专用车门改用玻璃，将驾驶室的门改设于首、尾两节车厢的通道口。
+另外，在前期制造的列车中，头尾的驾駛拖车顶部均装有多种信号天线，这是日本本土的同型车所没有的。头车正面下部裙裾部分安裝大面积的除雪翼，在行驶時能把线路上的积雪快速清除。除16节编组的8节编组列车中，头尾两端均设有重联控制系统和自动开闭式车钩盖供列车重联。另外在部分衍生车型中，2B、2C、2E的头车处设有丹凤眼前灯，部分2C的挡风玻璃处的雨刮亦与CRH2系列车型有所不同。在CRH2A及2B统型版上，首、尾两节车厢的驾驶员专用车门改用玻璃，将驾驶室的门改设于首、尾两节车厢的通道口；而統型CRH2B更取消了丹鳳眼車燈。
 
 车辆下部的机器由底架横向吊挂支撑，为减低噪音和防止积雪障害，车底进行平滑化处理。转向架部分不完全覆盖而下面露出。车体连结部分方面，除初期制造的CRH2A型之外的其余车型装备了车身间减震器，以及车端耦合减振（车端阻尼器），外幌采用了压缩式的侧縮幌（[风挡](https://zh.wikipedia.org/wiki/风挡 "wikilink")）结构。
 
@@ -503,15 +503,15 @@ ZE 2xxx00</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/广州局集团" title="wikilink">广州局集团</a></p></td>
-<td><p>14</p></td>
-<td><p>2330、2380、2416、2473～2475、2487、2497、4001、4003、4004、4055、4063、4066</p></td>
+<td><p>16</p></td>
+<td><p>2330、2350、2380、2416、2428、2473～2475、2487、2497、4001、4003、4004、4055、4063、4066</p></td>
 <td><p>广州南</p></td>
 <td><p><a href="../Page/遂成铁路.md" title="wikilink">遂成铁路</a>、<a href="../Page/遂渝铁路.md" title="wikilink">遂渝铁路</a>、<a href="https://zh.wikipedia.org/wiki/渝貴铁路" title="wikilink">渝貴铁路</a>、<a href="https://zh.wikipedia.org/wiki/貴廣高速铁路" title="wikilink">貴廣高速铁路</a>、<a href="../Page/南广铁路.md" title="wikilink">南广铁路</a>、<a href="https://zh.wikipedia.org/wiki/柳南客运专线" title="wikilink">柳南客运专线</a>、<a href="https://zh.wikipedia.org/wiki/南钦铁路" title="wikilink">南钦铁路</a>、<a href="../Page/钦北铁路.md" title="wikilink">钦北铁路</a>、<a href="../Page/南昆客运专线.md" title="wikilink">南昆客运专线</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>30</p></td>
-<td><p>2274、2320、2329、2331、2341、2343、2344、2349、2350、2372、2379、2388、2403、2408、2409、2428、2448、2496、4005、4019、4028～4030、4056、4060～4062、4064、4065、4067</p></td>
+<td><p>28</p></td>
+<td><p>2274、2320、2329、2331、2341、2343、2344、2349、2372、2379、2388、2403、2408、2409、2448、2496、4005、4019、4028～4030、4056、4060～4062、4064、4065、4067</p></td>
 <td><p>佛山（客专场）</p></td>
 <td><p><a href="../Page/贵广客运专线.md" title="wikilink">贵广客运专线</a>、<a href="../Page/南广铁路.md" title="wikilink">南广铁路</a>、<a href="https://zh.wikipedia.org/wiki/柳南客运专线" title="wikilink">柳南客运专线</a>、<a href="https://zh.wikipedia.org/wiki/南钦铁路" title="wikilink">南钦铁路</a>、<a href="../Page/钦北铁路.md" title="wikilink">钦北铁路</a>、<a href="../Page/南昆客运专线.md" title="wikilink">南昆客运专线</a></p></td>
 <td></td>
@@ -587,10 +587,12 @@ ZE 2xxx00</p></td>
 
 CRH2A-2010（CRH<sub>2</sub>-010A）为配属中国铁路总公司的综合检测列车之一，亦是首列国产化CRH2A型列车。安装了[ATP](../Page/列车自动保护系统.md "wikilink")、信号参数、无线[场强](https://zh.wikipedia.org/wiki/场强 "wikilink")、弓网关系、轨道几何形态、动力学及加速度检测的设备和线路监视系统\[36\]，主要负责时速200—250公里级的新建高速铁路和既有提速干线的轨道几何状态、动力学、接触网、信号、ATP、无线通信、线路环境等，每月进行三次周期性检测，平均每月检测约4.5万公里，其检测结果即时发送到铁路总公司主管部门和相关铁路局维修部门。
 
-### CRH2B
+### CRH2B/CRH2B統型
 
 [CRH2B_near_Houshan,Wuxi.JPG](https://zh.wikipedia.org/wiki/File:CRH2B_near_Houshan,Wuxi.JPG "fig:CRH2B_near_Houshan,Wuxi.JPG")上\]\]
 CRH2B在CRH2A基礎上扩编至16节，总数量有10列。列车最大的亮点在于头车车身加装了两侧类似丹凤眼的车灯。CRH2B型列车设有3节一等座车、12节二等座车和1节餐车，其中一等座及二等座座椅均可旋转，全列车定员增加至1230人，并在一等座车车厢内加装了电视屏幕影视系统。编组方式是8节动车配8节拖车（8M8T），每4节为一个单元，牵引功率为9600千瓦，最高营运时速为250公里，标称时速200公里。列车装有四副DSA250型[集電弓](../Page/集電弓.md "wikilink")。CRH2B型长大编组动车组取消了重联控制系统，因此无法两车重联运行。
+
+後期製造的統型CRH2B，與統型CRH2A一樣取消駕駛室往站台方向的獨立小門，駕駛員座位由原來靠左的位置改在中間位置，駕駛台佈局與CRH380A相同。駕駛拖車車廂頂部的天線及車頭的「丹鳳眼」車燈取消，所以頭型及外觀與統型CRH2A一樣。
 
 截至2017年12月，共有27列CRH2B型列車出廠。
 
@@ -772,7 +774,8 @@ ZE 2xxx00</p></td>
 <td><p>2466～2472、4096～4105</p></td>
 <td><p>漢口</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/合宁铁路" title="wikilink">合宁铁路</a>、<a href="../Page/合武铁路.md" title="wikilink">合武铁路</a>、<a href="../Page/汉宜铁路.md" title="wikilink">汉宜铁路</a>、<a href="https://zh.wikipedia.org/wiki/沪宁高速铁路" title="wikilink">沪宁高速铁路</a></p></td>
-<td><p>2466～2472原為CRH2E段號</p></td>
+<td><p>2466～2472原為CRH2E段號<br />
+4096起為統型車</p></td>
 </tr>
 <tr class="odd">
 <td></td>

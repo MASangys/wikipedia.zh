@@ -214,7 +214,8 @@
 <tr class="odd">
 <td><p><a href="../Page/郭卓樺.md" title="wikilink">郭卓樺</a></p></td>
 <td><p>超</p></td>
-<td><p>探員</p></td>
+<td><p>探員<br />
+第1集被劫匪射殺殉職</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/蔣克.md" title="wikilink">蔣　克</a></p></td>

@@ -1,7 +1,7 @@
-**Wine**是一個在[x86](https://zh.wikipedia.org/wiki/x86 "wikilink")、[x86-64上容許](https://zh.wikipedia.org/wiki/x86-64 "wikilink")[类Unix操作系统在](../Page/类Unix系统.md "wikilink")[X
+**Wine**是在[x86](https://zh.wikipedia.org/wiki/x86 "wikilink")、[x86-64容許](https://zh.wikipedia.org/wiki/x86-64 "wikilink")[类Unix操作系统在](../Page/类Unix系统.md "wikilink")[X
 Window
-System下運行](https://zh.wikipedia.org/wiki/X_Window_System "wikilink")[Microsoft
-Windows程式的軟體](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。另外，Wine也提供一个[程序运行库](https://zh.wikipedia.org/wiki/程式庫 "wikilink")（Winelib）来帮助计算机程序设计师将Windows程序移植到类Unix系统上。也有不少软件经过Wine测试后发布，比如[Picasa](../Page/Picasa.md "wikilink")，[uTorrent](https://zh.wikipedia.org/wiki/uTorrent "wikilink")，[MediaCoder](../Page/MediaCoder.md "wikilink")。
+System運行](https://zh.wikipedia.org/wiki/X_Window_System "wikilink")[Microsoft
+Windows程式的軟體](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。另外，Wine也提供[程序运行库](https://zh.wikipedia.org/wiki/程式庫 "wikilink")（Winelib）来帮助计算机程序设计师将Windows程序移植到类Unix系统；也有不少软件经过Wine测试后发布，比如[Picasa](../Page/Picasa.md "wikilink")、[uTorrent](https://zh.wikipedia.org/wiki/uTorrent "wikilink")、[MediaCoder](../Page/MediaCoder.md "wikilink")。
 
 Wine通过提供一个兼容层来将Windows的系统调用转换成与POSIX标准的系统调用。它还提供了Windows系统运行库的替代品和一些系统组件的替代品。为了避免版权问题，Wine主要使用黑箱测试逆向工程来编写。
 

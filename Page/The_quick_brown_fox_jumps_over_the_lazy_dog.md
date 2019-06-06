@@ -18,7 +18,7 @@ Word](https://zh.wikipedia.org/wiki/Microsoft_Office_Word "wikilink")
 ## 参见
 
   - [全字母句](../Page/全字母句.md "wikilink")
-  - [英语](../Page/英语.md "wikilink")
+  - [千字文](../Page/千字文.md "wikilink")
 
 [Category:印刷](https://zh.wikipedia.org/wiki/Category:印刷 "wikilink")
 [Category:语言](https://zh.wikipedia.org/wiki/Category:语言 "wikilink")

@@ -1,4 +1,4 @@
-**LSAT**（），即[法學院入學](https://zh.wikipedia.org/wiki/法學院 "wikilink")[考試](https://zh.wikipedia.org/wiki/考試 "wikilink")。它是由位於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[賓西法尼亞州的](https://zh.wikipedia.org/wiki/賓西法尼亞州 "wikilink")[法學院入學委員會](https://zh.wikipedia.org/wiki/法學院入學委員會 "wikilink")（）負責主辦的法學院人學資格考試。\[1\]幾乎所有的美國和加拿大法學院都要求申請人參加LSAT考試。LSAT考試共有五個部分（包含一個不記分的供入學委員會評估用的評測部分），包括三個方面的內容，每部分時間為35分鐘，另加30分鐘的寫作。
+**LSAT**（），即**[法學院入學](https://zh.wikipedia.org/wiki/法學院 "wikilink")[考試](https://zh.wikipedia.org/wiki/考試 "wikilink")**。它是由位於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[賓西法尼亞州的](https://zh.wikipedia.org/wiki/賓西法尼亞州 "wikilink")[法學院入學委員會](https://zh.wikipedia.org/wiki/法學院入學委員會 "wikilink")（）負責主辦的法學院人學資格考試。\[1\]幾乎所有的美國和加拿大法學院都要求申請人參加LSAT考試。LSAT考試共有五個部分（包含一個不記分的供入學委員會評估用的評測部分），包括三個方面的內容，每部分時間為35分鐘，另加30分鐘的寫作。
 
 ## LSAT考試時間及評價標準
 

@@ -45,7 +45,7 @@ say 'Hello, world';
 vs. Perl
 6的可能性反而是最大的。[CPAN上排名第一名](https://zh.wikipedia.org/wiki/CPAN "wikilink")，同時也是Perl
 6的開發者的[唐鳳](../Page/唐鳳.md "wikilink")（Audrey）就這麼說過：「Ruby就是『沒有到處打廣告的Perl
-6』」\[1\]。Ruby的創始者——[松本行弘在接受](../Page/松本行弘.md "wikilink")[O'Reilly的訪問時](https://zh.wikipedia.org/wiki/O'Reilly "wikilink")\[2\]，也提到「Ruby借用了很多Perl的東西……，Python遠比Perl要少……」。從Ruby的命名也可以看出Matz遠大的企圖心：「Pearl（珍珠）是六月的[誕生石](../Page/誕生石.md "wikilink")\[3\]，而Ruby是七月的誕生石，我認為Ruby這個名字作為Perl之後的一門語言的名字真是再恰當不過了。」\[4\]
+6』」\[1\]。Ruby的創始者[松本行弘](../Page/松本行弘.md "wikilink")（Matz）在接受[O'Reilly的訪問時](https://zh.wikipedia.org/wiki/O'Reilly "wikilink")\[2\]，也提到「Ruby借用了很多Perl的東西……，Python遠比Perl要少……」。從Ruby的命名也可以看出Matz遠大的企圖心：「Pearl（珍珠）是六月的[誕生石](../Page/誕生石.md "wikilink")\[3\]，而Ruby是七月的誕生石，我認為Ruby這個名字作為Perl之後的一門語言的名字真是再恰當不過了。」\[4\]
 
 Perl之父[拉里·沃尔在](../Page/拉里·沃尔.md "wikilink")《*Larry Wall On Perl,
 Religion, and……*》\[5\]
@@ -86,15 +86,13 @@ Religion, and……*》\[5\]
 
   - [Planet
     Perl 6](https://web.archive.org/web/20070306200607/http://planetsix.perl.org/)
-  - [Perl 6::Perl 5::Differences](http://perlcabal.org/syn/Differences.html)
-
-## 参见
-
-  - [Perl](../Page/Perl.md "wikilink")
+  - [Perl 6::Perl 5::Differences](https://web.archive.org/web/20070707003455/http://perlcabal.org/syn/Differences.html)
 
 {{-}}
 
+[Category:程序设计语言](https://zh.wikipedia.org/wiki/Category:程序设计语言 "wikilink")
 [Category:Perl](https://zh.wikipedia.org/wiki/Category:Perl "wikilink")
+[Category:自由編譯器與直譯器](https://zh.wikipedia.org/wiki/Category:自由編譯器與直譯器 "wikilink")
 
 1.  [日本的Perl社群名人——宮川達彥專訪。](http://www.OpenFoundry.org/index.php?option=com_content&Itemid=1&id=188)
 2.  [訪問Matz。](http://www.linuxforum.net/forum/showflat.php?Cat=&Board=python&Number=567208&page=18&view=collapsed&sb=5&o=&fpart=)

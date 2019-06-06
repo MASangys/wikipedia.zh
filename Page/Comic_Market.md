@@ -380,7 +380,7 @@ Market（例如不在東京舉辦的Comic Market）沒有編號。
 ## 參見
 
   - [同人誌即賣會](../Page/同人誌即賣會.md "wikilink")
-  - [同人](https://zh.wikipedia.org/wiki/同人 "wikilink")
+  - [同人 (ACG)](../Page/同人_\(ACG\).md "wikilink")
 
 ## 外部連結
 

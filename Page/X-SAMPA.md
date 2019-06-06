@@ -1,6 +1,6 @@
 **拓展音标字母评估法**（）是[SAMPA的一種變體](../Page/SAMPA.md "wikilink")，最先於1995年由[倫敦大學的語言學教授](../Page/倫敦大學.md "wikilink")[約翰·克利斯多佛·威爾斯](https://zh.wikipedia.org/wiki/約翰·克利斯多佛·威爾斯 "wikilink")（John
 C.
-Wells）提出。X-SAMPA是為了統一各種SAMPA字母表而產生的，並且擴展至包含所有[國際音標符號](https://zh.wikipedia.org/wiki/國際音標 "wikilink")，能夠把所有音標轉寫成七位元的[ASCII碼](../Page/ASCII.md "wikilink")。
+Wells）提出。X-SAMPA是為了統一各種SAMPA字母表而產生的，並且擴展至包含所有[國際音標符號](../Page/國際音標.md "wikilink")，能夠把所有音標轉寫成七位元的[ASCII碼](../Page/ASCII.md "wikilink")。
 
 ## 概要
 
@@ -1307,7 +1307,7 @@ Wells）提出。X-SAMPA是為了統一各種SAMPA字母表而產生的，並且
 <td></td>
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/前元音" title="wikilink">前</a></strong></p></td>
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/次前元音" title="wikilink">次前</a></strong></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/央元音" title="wikilink">央</a></strong></p></td>
+<td><p><strong><a href="../Page/央元音.md" title="wikilink">央</a></strong></p></td>
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/次後元音" title="wikilink">次後</a></strong></p></td>
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/後元音" title="wikilink">後</a></strong></p></td>
 </tr>
@@ -1438,7 +1438,7 @@ Wells）提出。X-SAMPA是為了統一各種SAMPA字母表而產生的，並且
 
 ## 參見
 
-  - [國際音標](https://zh.wikipedia.org/wiki/國際音標 "wikilink")（IPA）
+  - [國際音標](../Page/國際音標.md "wikilink")（IPA）
   - [英語國際音標列表](https://zh.wikipedia.org/wiki/英語國際音標列表 "wikilink")
   - [SAMPA是X](../Page/SAMPA.md "wikilink")-SAMPA的前身，帶有不同的語言版本，互不相容
   - [英語SAMPA表](../Page/英語SAMPA表.md "wikilink")

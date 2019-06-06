@@ -1,6 +1,6 @@
 [Iccard.gif](https://zh.wikipedia.org/wiki/File:Iccard.gif "fig:Iccard.gif")
 
-**iPASS一卡通**（）是[臺灣的一家作為](../Page/臺灣.md "wikilink")[電子票證的](../Page/電子貨幣.md "wikilink")[智慧卡品牌](../Page/智慧卡.md "wikilink")，由[一卡通票證公司發行](../Page/一卡通票證公司.md "wikilink")，於2007年12月正式發卡，是台灣第二家具規模的電子票證支付卡。一卡通產品的口號是「一卡在手，讓你四通八達；讓生活簡單自由」。目前發行量約為1,600萬張，每日交易筆數約100萬筆。\[1\]。
+**iPASS一卡通**（）是[臺灣的一家作為](../Page/臺灣.md "wikilink")[電子票證的](../Page/電子貨幣.md "wikilink")[智慧卡品牌](../Page/智慧卡.md "wikilink")，由[一卡通票證公司發行](../Page/一卡通票證公司.md "wikilink")，於2007年12月正式發卡，是台灣第二家具規模的電子票證支付卡。一卡通產品的口號是「一卡在手，讓你四通八達；讓生活簡單自由」。目前發行量約為2100萬張，每日交易筆數約115萬筆。\[1\]。
 
 ## 簡介
 
@@ -1521,7 +1521,7 @@ Snoopy 65週年巡迴特展紀念一卡通</p></td>
 
 <!-- end list -->
 
-  - [高雄捷運](../Page/高雄捷運.md "wikilink")、[臺北捷運](https://zh.wikipedia.org/wiki/臺北捷運 "wikilink")（不含[貓空纜車](../Page/貓空纜車.md "wikilink")）、[桃園捷運](https://zh.wikipedia.org/wiki/桃園捷運 "wikilink")、<font color="#888888">[臺中捷運](../Page/臺中捷運.md "wikilink")</font>
+  - [高雄捷運](../Page/高雄捷運.md "wikilink")、[臺北捷運](../Page/臺北捷運.md "wikilink")（不含[貓空纜車](../Page/貓空纜車.md "wikilink")）、[桃園捷運](https://zh.wikipedia.org/wiki/桃園捷運 "wikilink")、<font color="#888888">[臺中捷運](../Page/臺中捷運.md "wikilink")</font>
 
 <!-- end list -->
 
@@ -1811,7 +1811,7 @@ Snoopy 65週年巡迴特展紀念一卡通</p></td>
 **購卡**
 
   - [高雄捷運各車站服務台](../Page/高雄捷運.md "wikilink")
-  - [臺北捷運各車站服務台](https://zh.wikipedia.org/wiki/臺北捷運 "wikilink")
+  - [臺北捷運各車站服務台](../Page/臺北捷運.md "wikilink")
   - [桃園捷運各車站服務台](https://zh.wikipedia.org/wiki/桃園捷運 "wikilink")
   - [桃園捷運各車站售卡](https://zh.wikipedia.org/wiki/桃園捷運 "wikilink")/加值機
   - [統一超商（7-11）](../Page/統一超商.md "wikilink")、[全家便利商店](../Page/全家便利商店.md "wikilink")、[萊爾富](../Page/萊爾富.md "wikilink")、[OK超商所有門市](../Page/OK超商.md "wikilink")
@@ -1900,7 +1900,7 @@ Snoopy 65週年巡迴特展紀念一卡通</p></td>
   - [高雄捷運](../Page/高雄捷運.md "wikilink")
       - 持一卡通，85折優惠。
       - 捷運轉乘[高雄市公車優惠](../Page/高雄市公車.md "wikilink")(僅單向)：刷電子票證搭捷運後，2小時內轉乘公車，且搭公車時扣電子錢包金額，享有折扣3元之優惠\[21\]。
-  - [臺北捷運](https://zh.wikipedia.org/wiki/臺北捷運 "wikilink")
+  - [臺北捷運](../Page/臺北捷運.md "wikilink")
       - 持一卡通，8折優惠。
       - 雙向轉乘[臺北市市區公車](../Page/臺北市市區公車.md "wikilink")、[新北市市區公車享有轉乘優惠](../Page/新北市公車.md "wikilink")。
 
@@ -2027,7 +2027,7 @@ Card）的[宏碁團隊歷經十四次談判後宣告票證整合失敗](../Page
 | 2015年6月30日  | 臺鐵加入中部地區和宜蘭線，西部幹線與宜蘭線全面貫通，可一路使用於屏東-基隆、八堵-蘇澳間及各支線。                                                                                                          |
 | 2015年7月1日   | 彰化以南之[台亞加油站加入一卡通服務行列](https://zh.wikipedia.org/wiki/台亞加油站 "wikilink")，為首間加入一卡通服務的加油站。                                                                      |
 | 2015年7月8日   | 正式開通電子發票服務，並於[7-ELEVEN啟用](https://zh.wikipedia.org/wiki/7-ELEVEN "wikilink")。同日同步開放於[7-ELEVEN發票中獎儲值服務](https://zh.wikipedia.org/wiki/7-ELEVEN "wikilink")。 |
-| 2015年9月1日   | [臺北捷運全線車站開放無障礙閘門多卡通使用一卡通](https://zh.wikipedia.org/wiki/臺北捷運 "wikilink")。                                                                                  |
+| 2015年9月1日   | [臺北捷運全線車站開放無障礙閘門多卡通使用一卡通](../Page/臺北捷運.md "wikilink")。                                                                                                     |
 | 2015年9月1日   | 開放使用[臺北市](https://zh.wikipedia.org/wiki/臺北市公共自行車租賃系統 "wikilink")、[新北市YouBike微笑單車](../Page/新北市公共自行車租賃系統.md "wikilink")。\[32\]                               |
 | 2015年10月1日  | 全台最大連鎖超市-[全聯福利中心全面啟用一卡通支付服務](../Page/全聯福利中心.md "wikilink")。                                                                                                |
 | 2015年10月15日 | 臺鐵多卡通範圍由屏東延伸至潮州。\[33\]                                                                                                                                     |
@@ -2037,7 +2037,7 @@ Card）的[宏碁團隊歷經十四次談判後宣告票證整合失敗](../Page
 | 2016年3月1日   | 臺鐵多卡通範圍由蘇澳延伸至花蓮。                                                                                                                                           |
 | 2016年6月28日  | 臺鐵多卡通範圍由吉安延伸至加祿。                                                                                                                                           |
 |             |                                                                                                                                                            |
-| 2016年7月1日   | [臺北捷運全線車站開放全部閘門多卡通使用一卡通](https://zh.wikipedia.org/wiki/臺北捷運 "wikilink")。                                                                                   |
+| 2016年7月1日   | [臺北捷運全線車站開放全部閘門多卡通使用一卡通](../Page/臺北捷運.md "wikilink")。                                                                                                      |
 |             |                                                                                                                                                            |
 | 2016年8月     | 一卡通發卡量突破1,000萬張。                                                                                                                                           |
 | 2016年12月22日 | 一卡通與[全家便利商店開通](../Page/全家便利商店.md "wikilink")「電子發票」功能                                                                                                       |
@@ -2088,6 +2088,7 @@ LIMITED）於2017年底投資一卡通票證公司三成股份，成為最大股
 
 ## 相關條目
 
+  - [LINE Pay](../Page/LINE_Pay.md "wikilink")
   - [一卡通聯名卡](../Page/一卡通聯名卡.md "wikilink")
   - [桃園市市民卡](../Page/桃園市市民卡.md "wikilink")
   - [臺南市市民卡](../Page/臺南市市民卡.md "wikilink")

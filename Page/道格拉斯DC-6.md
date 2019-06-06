@@ -61,7 +61,6 @@ DC-6的[美国空军军用型号是](../Page/美国空军.md "wikilink")**C-118�
 
 [DC-6_G-APSA.jpg](https://zh.wikipedia.org/wiki/File:DC-6_G-APSA.jpg "fig:DC-6_G-APSA.jpg")
 [DC6-Redbull.jpg](https://zh.wikipedia.org/wiki/File:DC6-Redbull.jpg "fig:DC6-Redbull.jpg")的DC-6B在[萨尔斯堡降落](https://zh.wikipedia.org/wiki/萨尔斯堡 "wikilink")\]\]
-[ROCAF_C-118_in_Military_Airplanes_Display_Area_20111015.jpg](https://zh.wikipedia.org/wiki/File:ROCAF_C-118_in_Military_Airplanes_Display_Area_20111015.jpg "fig:ROCAF_C-118_in_Military_Airplanes_Display_Area_20111015.jpg")的C-118（岡山[空軍官校軍機展示場](../Page/中華民國空軍軍官學校.md "wikilink")）\]\]
 
   - 现存的DC-6用户:
 
@@ -88,19 +87,23 @@ DC-6的[美国空军军用型号是](../Page/美国空军.md "wikilink")**C-118�
 
 <!-- end list -->
 
-  - **机组：**3人，机长、副机长、飞航工程师，根据旅客数目搭乘空中服务员
-  - **旅客数：**54到102人
-  - **机身长度：**32.18米
-  - **翼展：**35.81米
-  - **高：**8.66米
-  - **翼面积：**135.9平方米
-  - **空重：**25,110千克
-  - **[最大起飞重量](../Page/最大起飞重量.md "wikilink")：**48,500千克
-  - **动力源：**4× 普惠 R-2800-CB-17星型活塞发动机
-  - **[巡航速度](https://zh.wikipedia.org/wiki/巡航速度 "wikilink")：**507千米/时
-  - **[航程](https://zh.wikipedia.org/wiki/航程 "wikilink")：**4,840千米
-  - **[实用升限](https://zh.wikipedia.org/wiki/实用升限 "wikilink")：**7,600米
-  - **[爬升率](../Page/爬升率.md "wikilink")：**5.44米/秒
+  -   - **机组：**3人，机长、副机长、飞航工程师，根据旅客数目搭乘空中服务员
+      - **旅客数：**54到102人
+      - **机身长度：**32.18米
+      - **翼展：**35.81米
+      - **高：**8.66米
+      - **翼面积：**135.9平方米
+      - **空重：**25,110千克
+      - **[最大起飞重量](../Page/最大起飞重量.md "wikilink")：**48,500千克
+      - **动力源：**4× 普惠 R-2800-CB-17星型活塞发动机
+      - **[巡航速度](https://zh.wikipedia.org/wiki/巡航速度 "wikilink")：**507千米/时
+      - **[航程](https://zh.wikipedia.org/wiki/航程 "wikilink")：**4,840千米
+      - **[实用升限](https://zh.wikipedia.org/wiki/实用升限 "wikilink")：**7,600米
+      - **[爬升率](../Page/爬升率.md "wikilink")：**5.44米/秒
+
+[ROCAF_C-118_in_Military_Airplanes_Display_Area_20111015.jpg](https://zh.wikipedia.org/wiki/File:ROCAF_C-118_in_Military_Airplanes_Display_Area_20111015.jpg "fig:ROCAF_C-118_in_Military_Airplanes_Display_Area_20111015.jpg")
+
+  - 第二代[中美號道格拉斯DC](../Page/中美號.md "wikilink")-6B現停放於[空軍軍史館前](https://zh.wikipedia.org/wiki/空軍軍史館 "wikilink")[空軍軍機展示場露天展示](https://zh.wikipedia.org/wiki/空軍軍史館 "wikilink")。
 
 ## 参考文献
 

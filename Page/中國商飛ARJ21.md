@@ -110,7 +110,7 @@ ARJ21使用了1960年代[麦克唐纳·道格拉斯轉移的](https://zh.wikiped
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/成都航空.md" title="wikilink">成都航空</a></p></td>
-<td><p>2019-02-22</p></td>
+<td><p>2019-05-09</p></td>
 <td><p>11</p></td>
 <td></td>
 <td></td>
@@ -120,7 +120,7 @@ ARJ21使用了1960年代[麦克唐纳·道格拉斯轉移的](https://zh.wikiped
 </tr>
 <tr class="even">
 <td><p><a href="../Page/天骄航空.md" title="wikilink">天骄航空</a></p></td>
-<td><p>2019-02-22</p></td>
+<td><p>2019-05-09</p></td>
 <td><p>1</p></td>
 <td></td>
 <td></td>
@@ -129,13 +129,13 @@ ARJ21使用了1960年代[麦克唐纳·道格拉斯轉移的](https://zh.wikiped
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/乌鲁木齐航空" title="wikilink">乌鲁木齐航空</a></p></td>
+<td><p><a href="../Page/烏魯木齊航空.md" title="wikilink">乌鲁木齐航空</a></p></td>
+<td><p>2019-05-09</p></td>
+<td><p>1</p></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>1</p></td>
 <td></td>
 </tr>
 <tr class="even">

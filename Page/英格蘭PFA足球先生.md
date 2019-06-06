@@ -8,9 +8,7 @@ zh-hk:簡東拿;}-](../Page/埃里克·坎通纳.md "wikilink")，於1994年贏�
 1977年的[-{zh-hans:安迪·格雷;
 zh-hk:安迪·格雷;}-和](https://zh.wikipedia.org/wiki/安迪·格雷 "wikilink")2007年的[-{zh-hans:克里斯蒂亚诺·罗纳尔多;zh-hk:基斯坦奴·朗拿度;zh-tw:克里斯蒂亞諾·羅納度;}-於同年獲得](../Page/基斯坦奴·朗拿度.md "wikilink")[PFA年度最佳青年球員](../Page/PFA年度最佳青年球員.md "wikilink")。
 
-英格兰足坛年度大奖還有[FWA足球先生](https://zh.wikipedia.org/wiki/FWA足球先生 "wikilink")，由[英格兰足球记者协会](https://zh.wikipedia.org/wiki/英格兰足球记者协会 "wikilink")（[Football
-Writers'
-Association](https://zh.wikipedia.org/wiki/:en:Football_Writers'_Association "wikilink")）评选，始于1948年。另一個大獎則為[英格蘭年度球員](../Page/英格蘭年度球員.md "wikilink")，由[英格蘭足總](https://zh.wikipedia.org/wiki/英格蘭足總 "wikilink")（The
+英格兰足坛年度大奖還有[FWA足球先生](https://zh.wikipedia.org/wiki/FWA足球先生 "wikilink")，由[英格兰足球记者协会](https://zh.wikipedia.org/wiki/英格兰足球记者协会 "wikilink")（）评选，始于1948年。另一個大獎則為[英格蘭年度球員](../Page/英格蘭年度球員.md "wikilink")，由[英格蘭足總](https://zh.wikipedia.org/wiki/英格蘭足總 "wikilink")（The
 Football
 Association）頒發，獲選者為[英格蘭足球代表隊的最佳球員](https://zh.wikipedia.org/wiki/英格蘭足球代表隊 "wikilink")，在足總的官方網站theFA.com經球迷選出。
 

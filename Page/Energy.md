@@ -253,8 +253,6 @@
 
   - [目前所屬之天熹經紀公司另闢官方部落格](https://web.archive.org/web/20091230124527/http://ilovesuper.com/blog/index.php?blogId=10)
 
-[id:Energy](https://zh.wikipedia.org/wiki/id:Energy "wikilink")
-
 [Category:已解散的男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的男子演唱團體 "wikilink")
 [Category:臺灣男子演唱團體](https://zh.wikipedia.org/wiki/Category:臺灣男子演唱團體 "wikilink")
 [Category:華語流行音樂團體](https://zh.wikipedia.org/wiki/Category:華語流行音樂團體 "wikilink")

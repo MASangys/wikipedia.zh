@@ -46,147 +46,22 @@ The Movie），或稱「**电影版**」、「**大長篇電影**」、「**超�
 
 ### 水田山葵版（2006\~）
 
-<table>
-<thead>
-<tr class="header">
-<th><p>序號</p></th>
-<th><p>片名</p></th>
-<th><p>日本上映日期</p></th>
-<th><p>票房收入</p></th>
-<th><p>日本观影人數</p></th>
-<th><p>導演</p></th>
-<th><p>編劇</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>26</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/新·大雄的恐龍" title="wikilink">新·大雄的恐龍</a></p></td>
-<td><p>2006年3月4日</p></td>
-<td><p>32.8億日圓</p></td>
-<td><p>297萬人</p></td>
-<td><p><a href="../Page/渡邊步.md" title="wikilink">渡邊步</a></p></td>
-<td><p>渡邊步、<a href="../Page/楠葉宏三.md" title="wikilink">楠葉宏三</a></p></td>
-</tr>
-<tr class="even">
-<td><p>27</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/大雄的新魔界大冒險" title="wikilink">大雄的新魔界大冒險</a>~7人之魔法師~</p></td>
-<td><p>2007年3月10日</p></td>
-<td><p>35.4億日圓</p></td>
-<td><p>326萬人</p></td>
-<td><p>寺本幸代</p></td>
-<td><p>真保裕一</p></td>
-</tr>
-<tr class="odd">
-<td><p>28</p></td>
-<td><p><strong><a href="../Page/大雄與綠之巨人傳.md" title="wikilink">大雄與綠之巨人傳</a></strong></p></td>
-<td><p>2008年3月8日</p></td>
-<td><p>33.7億日圓</p></td>
-<td><p>313萬人</p></td>
-<td><p>渡邊步</p></td>
-<td><p><a href="../Page/大野木寬.md" title="wikilink">大野木寬</a></p></td>
-</tr>
-<tr class="even">
-<td><p>29</p></td>
-<td><p><a href="../Page/新·大雄的宇宙開拓史.md" title="wikilink">新·大雄的宇宙開拓史</a></p></td>
-<td><p>2009年3月7日</p></td>
-<td><p>24.5億日圓</p></td>
-<td><p>230萬人</p></td>
-<td><p><a href="../Page/腰繁男.md" title="wikilink">腰繁男</a></p></td>
-<td><p>真保裕一</p></td>
-</tr>
-<tr class="odd">
-<td><p>30</p></td>
-<td><p><strong><a href="../Page/大雄的人魚大海戰.md" title="wikilink">大雄的人魚大海戰</a></strong></p></td>
-<td><p>2010年3月6日</p></td>
-<td><p>31.6億日圓</p></td>
-<td></td>
-<td><p>楠葉宏三</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>31</p></td>
-<td><p><a href="../Page/新·大雄與鐵人兵團.md" title="wikilink">新·大雄與鐵人兵團</a> ~振翅吧 天使們~</p></td>
-<td><p>2011年3月5日</p></td>
-<td><p>24.6億日圓 (受311大地震影響)</p></td>
-<td></td>
-<td><p>寺本幸代</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/清水東" title="wikilink">清水東</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>32</p></td>
-<td><p><strong><a href="../Page/大雄與奇跡之島.md" title="wikilink">大雄與奇跡之島</a></strong></p></td>
-<td><p>2012年3月3日</p></td>
-<td><p>36.2億日圓</p></td>
-<td><p>331萬人</p></td>
-<td><p><a href="../Page/楠葉宏三.md" title="wikilink">楠葉宏三</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>33</p></td>
-<td><p><strong><a href="../Page/大雄的秘密道具博物館.md" title="wikilink">大雄的秘密道具博物館</a></strong></p></td>
-<td><p>2013年3月9日</p></td>
-<td><p>39.8億日圓</p></td>
-<td><p>365萬人</p></td>
-<td><p>寺本幸代</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>34</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/新大雄的大魔境" title="wikilink">新大雄的大魔境</a> ~扁扁與5人之探險隊~</p></td>
-<td><p>2014年3月8日</p></td>
-<td><p>35.8億日圓</p></td>
-<td></td>
-<td><p><a href="../Page/八锹新之介.md" title="wikilink">八锹新之介</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>35</p></td>
-<td><p><strong><a href="../Page/大雄之宇宙英雄記.md" title="wikilink">大雄之宇宙英雄記</a></strong></p></td>
-<td><p>2015年3月7日</p></td>
-<td><p>39.3億日圓</p></td>
-<td></td>
-<td><p>大杉宜弘</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>36</p></td>
-<td><p><a href="../Page/新·大雄的日本誕生.md" title="wikilink">新·大雄的日本誕生</a></p></td>
-<td><p>2016年3月5日</p></td>
-<td><p>41.2億日圓</p></td>
-<td><p>133萬7126人</p></td>
-<td><p>八鍬新之介</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>37</p></td>
-<td><p><strong><a href="../Page/大雄的南極冰天雪地大冒險.md" title="wikilink">大雄的南極冰天雪地大冒險</a></strong></p></td>
-<td><p>2017年3月4日</p></td>
-<td><p>44.3亿日圆</p></td>
-<td><p>370萬2143人</p></td>
-<td><p><a href="../Page/高橋敦史.md" title="wikilink">高橋敦史</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>38</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/:大雄的金銀島" title="wikilink">:大雄的金銀島</a></strong></p></td>
-<td><p>2018年3月3日</p></td>
-<td><p><strong>53.3亿日圆</strong></p></td>
-<td><p>470万人'''</p></td>
-<td><p>今井一曉</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>39</p></td>
-<td><p><strong><a href="../Page/大雄的月球探測記.md" title="wikilink">大雄的月球探測記</a></strong></p></td>
-<td><p>2019年3月1日</p></td>
-<td><p>目前47.4亿日圓(截至4月21日)</p></td>
-<td><p>目前414万0人(截至4月21日)</p></td>
-<td><p>八锹新之介</p></td>
-<td><p><a href="../Page/辻村深月.md" title="wikilink">辻村深月</a></p></td>
-</tr>
-</tbody>
-</table>
+| 序號 | 片名                                                                        | 日本上映日期     | 票房收入                | 日本观影人數           | 導演                                   | 編劇                                                    |
+| -- | ------------------------------------------------------------------------- | ---------- | ------------------- | ---------------- | ------------------------------------ | ----------------------------------------------------- |
+| 26 | [新·大雄的恐龍](https://zh.wikipedia.org/wiki/新·大雄的恐龍 "wikilink")               | 2006年3月4日  | 32.8億日圓             | 297萬人            | [渡邊步](../Page/渡邊步.md "wikilink")     | 渡邊步、[楠葉宏三](../Page/楠葉宏三.md "wikilink")                |
+| 27 | [大雄的新魔界大冒險](https://zh.wikipedia.org/wiki/大雄的新魔界大冒險 "wikilink")\~7人之魔法師\~ | 2007年3月10日 | 35.4億日圓             | 326萬人            | 寺本幸代                                 | 真保裕一                                                  |
+| 28 | **[大雄與綠之巨人傳](../Page/大雄與綠之巨人傳.md "wikilink")**                            | 2008年3月8日  | 33.7億日圓             | 313萬人            | 渡邊步                                  | [大野木寬](../Page/大野木寬.md "wikilink")                    |
+| 29 | [新·大雄的宇宙開拓史](../Page/新·大雄的宇宙開拓史.md "wikilink")                            | 2009年3月7日  | 24.5億日圓             | 230萬人            | [腰繁男](../Page/腰繁男.md "wikilink")     | 真保裕一                                                  |
+| 30 | **[大雄的人魚大海戰](../Page/大雄的人魚大海戰.md "wikilink")**                            | 2010年3月6日  | 31.6億日圓             |                  | 楠葉宏三                                 |                                                       |
+| 31 | [新·大雄與鐵人兵團](../Page/新·大雄與鐵人兵團.md "wikilink") \~振翅吧 天使們\~                  | 2011年3月5日  | 24.6億日圓 (受311大地震影響) |                  | 寺本幸代                                 | [清水東](https://zh.wikipedia.org/wiki/清水東 "wikilink")   |
+| 32 | **[大雄與奇跡之島](../Page/大雄與奇跡之島.md "wikilink")**                              | 2012年3月3日  | 36.2億日圓             | 331萬人            | [楠葉宏三](../Page/楠葉宏三.md "wikilink")   |                                                       |
+| 33 | **[大雄的秘密道具博物館](../Page/大雄的秘密道具博物館.md "wikilink")**                        | 2013年3月9日  | 39.8億日圓             | 365萬人            | 寺本幸代                                 |                                                       |
+| 34 | [新大雄的大魔境](https://zh.wikipedia.org/wiki/新大雄的大魔境 "wikilink") \~扁扁與5人之探險隊\~ | 2014年3月8日  | 35.8億日圓             |                  | [八锹新之介](../Page/八锹新之介.md "wikilink") |                                                       |
+| 35 | **[大雄之宇宙英雄記](../Page/大雄之宇宙英雄記.md "wikilink")**                            | 2015年3月7日  | 39.3億日圓             |                  | 大杉宜弘                                 |                                                       |
+| 36 | [新·大雄的日本誕生](../Page/新·大雄的日本誕生.md "wikilink")                              | 2016年3月5日  | 41.2億日圓             | 133萬7126人        | 八鍬新之介                                |                                                       |
+| 37 | **[大雄的南極冰天雪地大冒險](../Page/大雄的南極冰天雪地大冒險.md "wikilink")**                    | 2017年3月4日  | 44.3亿日圆             | 370萬2143人        | [高橋敦史](../Page/高橋敦史.md "wikilink")   |                                                       |
+| 38 | **[:大雄的金銀島](https://zh.wikipedia.org/wiki/:大雄的金銀島 "wikilink")**           | 2018年3月3日  | **53.3亿日圆**         | 470万人'''         | 今井一曉                                 | [川村元气](https://zh.wikipedia.org/wiki/川村元气 "wikilink") |
+| 39 | **[大雄的月球探測記](../Page/大雄的月球探測記.md "wikilink")**                            | 2019年3月1日  | 目前49.5亿日圓(截至5月12日)  | 目前432万人(截至5月12日) | 八锹新之介                                | [辻村深月](../Page/辻村深月.md "wikilink")                    |
 
 ### 3D電影
 

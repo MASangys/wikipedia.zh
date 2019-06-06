@@ -160,7 +160,7 @@
 
 :\*S82 [家畜](../Page/家畜.md "wikilink")
 
-:\*S83 [家禽](https://zh.wikipedia.org/wiki/家禽 "wikilink")
+:\*S83 [家禽](../Page/家禽.md "wikilink")
 
 :\*S85
 [动物医学](https://zh.wikipedia.org/wiki/动物医学 "wikilink")（[兽医学](../Page/兽医学.md "wikilink")）

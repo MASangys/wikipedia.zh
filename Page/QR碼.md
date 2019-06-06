@@ -1,6 +1,6 @@
 [QRcode_image.svg](https://zh.wikipedia.org/wiki/File:QRcode_image.svg "fig:QRcode_image.svg")
 **QR圖碼**（全稱為**快速響應矩陣圖碼**；）是[二維條碼的一種](https://zh.wikipedia.org/wiki/二維條碼 "wikilink")，於1994年由[日本](../Page/日本.md "wikilink")[DENSO
-WAVE公司](../Page/電裝.md "wikilink")[發明](https://zh.wikipedia.org/wiki/發明 "wikilink")。QR來自英文的縮寫，即快速反應，因為發明者希望QR碼可以快速解碼其內容\[1\]。QR碼使用四種標準化編碼模式（數字、字母數字、字節（二進制）和漢字）來存儲數據。QR碼常見於[日本](../Page/日本.md "wikilink")，為目前日本最通用的二維空間條碼，在世界各國廣泛運用於[手機讀碼操作](https://zh.wikipedia.org/wiki/手機 "wikilink")，而[中國也普遍使用](../Page/中國.md "wikilink")\[2\]。QR碼比普通[一維條碼具有快速讀取和更大的儲存資料容量](https://zh.wikipedia.org/wiki/一維條碼 "wikilink")，也無需要像一維條碼般在掃描時需要直線對準掃描器。因此其應用範圍已經擴展到包括產品跟踪，物品識別，文檔管理，庫存營銷等方面。
+WAVE公司](../Page/電裝.md "wikilink")[發明](https://zh.wikipedia.org/wiki/發明 "wikilink")。QR來自英文的縮寫，即快速反應，因為發明者希望QR碼可以快速解碼其內容\[1\]。QR碼使用四種標準化編碼模式（數字、字母數字、字節（二進制）和日文([Shift_JIS](../Page/Shift_JIS.md "wikilink"))）來存儲數據。QR碼常見於[日本](../Page/日本.md "wikilink")，為目前日本最通用的二維空間條碼，在世界各國廣泛運用於[手機讀碼操作](https://zh.wikipedia.org/wiki/手機 "wikilink")\[2\]。QR碼比普通[一維條碼具有快速讀取和更大的儲存資料容量](https://zh.wikipedia.org/wiki/一維條碼 "wikilink")，也無需要像一維條碼般在掃描時需要直線對準掃描器。因此其應用範圍已經擴展到包括產品跟踪，物品識別，文檔管理，庫存營銷等方面。
 
 ## 格式
 
@@ -66,7 +66,7 @@ QR碼最早在汽車製造廠為了便於追蹤零件而使用，今日QR碼已�
 
 ### 日本
 
-近年來，日本的行動電話公司開始在有[相機的](https://zh.wikipedia.org/wiki/相機 "wikilink")[行動電話加入QR碼讀取](https://zh.wikipedia.org/wiki/行動電話 "wikilink")[軟件](https://zh.wikipedia.org/wiki/軟件 "wikilink")，為QR碼帶來更廣泛、更新穎的消費者相關用途。主要能讓使用者減少在手機上輸入文字等資料的麻煩。最早設有QR碼閱讀功能的行動電話是「J-PHONE」（今[SoftBank](https://zh.wikipedia.org/wiki/SoftBank "wikilink")）的「J-SH09」。
+近年來，日本的行動電話公司開始在有[相機的](https://zh.wikipedia.org/wiki/相機 "wikilink")[行動電話加入QR碼讀取](https://zh.wikipedia.org/wiki/行動電話 "wikilink")[軟件](https://zh.wikipedia.org/wiki/軟件 "wikilink")，為QR碼帶來更廣泛、更新穎的消費者相關用途。主要能讓使用者減少在手機上輸入文字等資料的麻煩。最早設有QR碼閱讀功能的行動電話是「[SoftBank](https://zh.wikipedia.org/wiki/SoftBank "wikilink")」（J-PHONE）的「J-SH09」。
 
 使用QR碼來儲存商店地址及[網址](https://zh.wikipedia.org/wiki/網址 "wikilink")，在日本的[雜誌及](https://zh.wikipedia.org/wiki/雜誌 "wikilink")[廣告上越來越流行](../Page/廣告.md "wikilink")。而在[名片上加入QR碼亦逐漸成為趨勢](../Page/名片.md "wikilink")，
 這讓將對方個人資料輸入手機的工作變得更簡單。除個人聯絡資料外，使用相機手機掃瞄車站海報、商店型錄等地方上的QR條碼之後，就能立即連至條碼所在的產品[網頁](../Page/網頁.md "wikilink")，並了解訂購與該人物的資訊，或藉由撥打電話號碼來讓使用者取得該商品的優惠。而大型的日本網站如[Yahoo\!等也有應用QR碼](https://zh.wikipedia.org/wiki/Yahoo! "wikilink")，為消費者提供網址及優惠等資訊。
@@ -78,9 +78,9 @@ QR碼最早在汽車製造廠為了便於追蹤零件而使用，今日QR碼已�
 在台灣，[中華電信是最早應用QR碼作為介面的電信公司之一](https://zh.wikipedia.org/wiki/中華電信 "wikilink")。其emome
 636影城通服務也是一種利用手機直接訂購電影票，並以MMS簡訊傳送附有QR碼的訂位記錄給訂購者。訂票人只需在開場前至櫃臺出示手機中的QR碼，即可確認訂位記錄。因此又稱作「[行動條碼](https://zh.wikipedia.org/wiki/行動電話 "wikilink")」。
 
-中華民國行政院[農委會推廣生產履歷](https://zh.wikipedia.org/wiki/行政院農業委員會 "wikilink")\[4\]的機制，民眾可藉由生鮮產品上面所附有的QR碼E標誌，用自己的照相手機一照，再藉由手機內建的QR碼解碼功能，便能看到生鮮產品的生產資訊。
-
 [台灣高鐵在](../Page/台灣高鐵.md "wikilink")2010年2月時所推出的高鐵超商取票服務，於付款完成後所取得的高鐵車票在票面上印有QR碼，在搭乘高鐵列車時可直接持該車票，將印有QR碼的一面朝下對準高鐵各車站驗票閘門的條碼掃描區，利用感應方式即可通過閘門。2011年10月28日起，以智慧型手機購票後下載條碼，開啟後即可以手機畫面感應通關，免持紙票使得購票與搭車流程更為流暢。
+
+行政院[農委會推廣生產履歷](https://zh.wikipedia.org/wiki/行政院農業委員會 "wikilink")\[4\]的機制，民眾可藉由生鮮產品上面所附有的QR碼E標誌，用自己的照相手機一照，再藉由手機內建的QR碼解碼功能，便能看到生鮮產品的生產資訊。
 
 ### 中國大陸
 

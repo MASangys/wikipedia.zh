@@ -493,7 +493,7 @@ Labs ～未早！～》裡。
 
   - [立花慎之介](../Page/立花慎之介.md "wikilink")（現所屬：代表）
 
-  - （移籍Kenyu Office之後於在籍中死去）
+  - [立壁和也](../Page/立壁和也.md "wikilink")（移籍Kenyu Office之後於在籍中死去）
 
   -
   - [長](https://zh.wikipedia.org/wiki/長_\(日本配音員\) "wikilink")（舊藝名：長島雄一，現所屬：東京俳優生活協同組合）
@@ -884,7 +884,7 @@ Labs ～未早！～》裡。
 
 2.
 3.  [野澤雅子](../Page/野澤雅子.md "wikilink")「第2章 優『野雅子』誕生\!\! 青二」《我是聲優。》，[Opto
-    Communications](http://www.optocomm.co.jp/)出版，1995年11月19日發行，第78頁
+    Communications](http://www.optocomm.co.jp/) 出版，1995年11月19日發行，第78頁
     ISBN 4-07-217886-1
 
 4.  「VOICE

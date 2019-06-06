@@ -151,9 +151,8 @@ ID，便可同時參與Yahoo Answers ，方便各用戶進行知識交流。
 4.  [知識+說明](http://help.cc.hk.yahoo.com/frame_sub_category.html?prodid=8&catyname=%B7s%A4%E2%A4W%B8%F4&id=1831&funclass=%BB%7B%C3%D1%AA%BE%C3%D1%A1%CF)
 5.  [知識+說明
     我想發問](http://help.cc.hk.yahoo.com/frame_sub_category.html?prodid=8&catyname=%AA%BE%C3%D1%B0%DD%B5%AA&id=1405&funclass=%A7%DA%B7Q%B5o%B0%DD)
-6.  [Yahoo奇摩服務中心\>知識+說明](http://tw.help.cc.yahoo.com/frame_sub_category.html?prodid=16&catyname=知識問答&id=877&funclass=發問知識)
-7.  [Yahoo奇摩服務中心\>知識+說明
-    可以延長發問天數嗎？](http://tw.help.cc.yahoo.com/frame_sub_category.html?prodid=16&catyname=知識問答&funclass=發問知識&id=897)
+6.
+7.
 8.  Thu Hiền. [Yahoo\! tăng tốc tại Việt
     Nam](http://www.thesaigontimes.vn/ArticleDetails.aspx?id=991). Ngày
     25 tháng 10 năm 2007 \[Ngày 27 tháng 8 năm 2013\].

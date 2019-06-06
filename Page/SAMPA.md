@@ -1,4 +1,4 @@
-**音標字母評估法**（****）是一種電腦可讀的音標符號，它是以[國際音標為基礎](https://zh.wikipedia.org/wiki/國際音標 "wikilink")，並且只使用7位元中的可列印符號。
+**音標字母評估法**（****）是一種電腦可讀的音標符號，它是以[國際音標為基礎](../Page/國際音標.md "wikilink")，並且只使用7位元中的可列印符號。
 
 這種轉寫法是源自[歐洲共同體為六種歐洲語言](../Page/欧洲共同体.md "wikilink")，於1980年代展開的[歐洲資訊科技研究策略計劃中的資訊科技研究及發展項目](https://zh.wikipedia.org/wiki/歐洲資訊科技研究策略計劃 "wikilink")。如果國際音標的寫法和ASCII中的字母相同，就直接取用，否則就使用其他ASCII符號代替，例如\[`@`\]用來代表[schwa](https://zh.wikipedia.org/wiki/schwa "wikilink")（國際音標：），\[`2`\]則代表法語「deux」中的元音（國際音標：），而\[`9`\]便代表法語「neuf」中的元音（國際音標：）。
 
@@ -52,14 +52,14 @@
 
 ## SAMPA的問題
 
-SAMPA表有多種語言版本，每種版本設計時都只針對該語言所用到的音標，因此不同版本的SAMPA表並不兼容而產生衝突，所以SAMPA並不適合代表全部的國際音標。由於SAMPA表並不能全面地把整張[IPA表轉寫成ASCII符號](https://zh.wikipedia.org/wiki/國際音標 "wikilink")，於是便設計了[X-SAMPA這種可以代表所有國際音標的單一代碼表](../Page/X-SAMPA.md "wikilink")，不用再考慮不同語言的問題。
+SAMPA表有多種語言版本，每種版本設計時都只針對該語言所用到的音標，因此不同版本的SAMPA表並不兼容而產生衝突，所以SAMPA並不適合代表全部的國際音標。由於SAMPA表並不能全面地把整張[IPA表轉寫成ASCII符號](../Page/國際音標.md "wikilink")，於是便設計了[X-SAMPA這種可以代表所有國際音標的單一代碼表](../Page/X-SAMPA.md "wikilink")，不用再考慮不同語言的問題。
 
 ## 參見
 
   - 簡明的[英語SAMPA表](../Page/英語SAMPA表.md "wikilink")。
   - 一張較完整、能代表歐洲大部分語音的[SAMPA表](../Page/SAMPA表.md "wikilink")。
   - [基爾斯漢邦](https://zh.wikipedia.org/wiki/基爾斯漢邦 "wikilink")（Kirshenbaum）有時也稱作ASCII-IPA，是另一種[ASCII音標字母](../Page/ASCII.md "wikilink")。
-  - [國際音標](https://zh.wikipedia.org/wiki/國際音標 "wikilink")
+  - [國際音標](../Page/國際音標.md "wikilink")
   - [X-SAMPA和SAMPA類似](../Page/X-SAMPA.md "wikilink")，但沒有不同語言版本之分，包含了整張國際音標表中的所有音標。
 
 ## 外部連結

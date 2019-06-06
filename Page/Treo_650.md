@@ -70,7 +70,7 @@ Treo
 
 ## 外部链接
 
-  - [Palm公司提供的Treo 650拆机示意图](http://www.palm.com/us/support/contact/environment/disassem_inst_Treo650.pdf)
+  - [Palm公司提供的Treo 650拆机示意图](https://web.archive.org/web/20090206095742/http://www.palm.com/us/support/contact/environment/disassem_inst_Treo650.pdf)
 
 [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink")
 [Category:Palm公司](https://zh.wikipedia.org/wiki/Category:Palm公司 "wikilink")

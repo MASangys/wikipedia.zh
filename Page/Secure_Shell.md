@@ -1,14 +1,15 @@
 **Secure
-Shell**（安全外壳协议，简称**SSH**）是一种加密的[网络传输协议](../Page/网络传输协议.md "wikilink")，可在不安全的网络中为网络服务提供安全的传输环境\[1\]。SSH通过在网络中建立来实现SSH客户端与服务器之间的连接\[2\]。虽然任何网络服务都可以通过SSH实现安全传输，SSH最常见的用途是远程登录系统，人们通常利用SSH来传输[命令行界面和远程执行命令](../Page/命令行界面.md "wikilink")。使用频率最高的场合[类Unix系统](../Page/类Unix系统.md "wikilink")，但是[Windows操作系统也能有限度地使用SSH](https://zh.wikipedia.org/wiki/Windows "wikilink")。2015年，微软宣布将在未来的操作系统中提供原生SSH协议支持\[3\]。
+Shell**（安全外壳协议，简称**SSH**）是一种加密的[网络传输协议](../Page/网络传输协议.md "wikilink")，可在不安全的网络中为网络服务提供安全的传输环境\[1\]。SSH通过在网络中建立来实现SSH客户端与服务器之间的连接\[2\]。虽然任何网络服务都可以通过SSH实现安全传输，SSH最常见的用途是远程登录系统，人们通常利用SSH来传输[命令行界面和远程执行命令](../Page/命令行界面.md "wikilink")。使用频率最高的场合[类Unix系统](../Page/类Unix系统.md "wikilink")，但是[Windows操作系统也能有限度地使用SSH](https://zh.wikipedia.org/wiki/Windows "wikilink")。2015年，微软宣布将在未来的操作系统中提供原生SSH协议支持\[3\]，[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")
+10 1809 版本已提供可手動安裝的 [OpenSSH工具](../Page/OpenSSH.md "wikilink")\[4\]。
 
 在设计上，SSH是[Telnet和非安全](../Page/Telnet.md "wikilink")[shell的替代品](../Page/Unix_shell.md "wikilink")。Telnet和Berkeley
-、[rsh](../Page/远程外壳.md "wikilink")、等协议采用[明文传输](https://zh.wikipedia.org/wiki/明文 "wikilink")，使用不可靠的密码，容易遭到监听、[嗅探和](../Page/數據包分析器.md "wikilink")[中间人攻击](../Page/中间人攻击.md "wikilink")\[4\]。SSH旨在保证非安全网络环境（例如[互联网](../Page/互联网.md "wikilink")）中信息加密完整可靠。
+、[rsh](../Page/远程外壳.md "wikilink")、等协议采用[明文传输](https://zh.wikipedia.org/wiki/明文 "wikilink")，使用不可靠的密码，容易遭到监听、[嗅探和](../Page/數據包分析器.md "wikilink")[中间人攻击](../Page/中间人攻击.md "wikilink")\[5\]。SSH旨在保证非安全网络环境（例如[互联网](../Page/互联网.md "wikilink")）中信息加密完整可靠。
 
-不过，SSH也被指出有被嗅探甚至解密的漏洞。早在2011年，[中國的網際網路審查機構已經有能力針對SSH連線的刺探及干擾](https://zh.wikipedia.org/wiki/中華人民共和國網絡審查 "wikilink")。\[5\]\[6\]而後[爱德华·斯诺登泄露的文件也指出](../Page/爱德华·斯诺登.md "wikilink")，[美国国家安全局有时能够把SSH协议传输的信息解密出来](../Page/美国国家安全局.md "wikilink")，从而读出SSH会话的传输内容\[7\]。2017年7月6日，非营利组织[維基解密确认](../Page/維基解密.md "wikilink")[美国中央情报局已经开发出能够在](https://zh.wikipedia.org/wiki/美国中央情报局 "wikilink")[Windows或](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Linux操作系统中窃取SSH会话的工具](../Page/Linux.md "wikilink")。\[8\]
+不过，SSH也被指出有被嗅探甚至解密的漏洞。早在2011年，[中國的網際網路審查機構已經有能力針對SSH連線的刺探及干擾](https://zh.wikipedia.org/wiki/中華人民共和國網絡審查 "wikilink")。\[6\]\[7\]而後[爱德华·斯诺登泄露的文件也指出](../Page/爱德华·斯诺登.md "wikilink")，[美国国家安全局有时能够把SSH协议传输的信息解密出来](../Page/美国国家安全局.md "wikilink")，从而读出SSH会话的传输内容\[8\]。2017年7月6日，非营利组织[維基解密确认](../Page/維基解密.md "wikilink")[美国中央情报局已经开发出能够在](https://zh.wikipedia.org/wiki/美国中央情报局 "wikilink")[Windows或](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Linux操作系统中窃取SSH会话的工具](../Page/Linux.md "wikilink")。\[9\]
 
 ## 概述
 
-SSH以[非对称加密实现](https://zh.wikipedia.org/wiki/非对称加密 "wikilink")[身份验证](https://zh.wikipedia.org/wiki/身份验证 "wikilink")\[9\]。身份验证有多种途径，例如其中一种方法是使用自动生成的公钥-私钥对来简单地加密网络连接，随后使用密码认证进行登录；另一种方法是人工生成一对公钥和私钥，通过生成的密钥进行认证，这样就可以在不输入密码的情况下登录。任何人都可以自行生成密钥。公钥需要放在待访问的电脑之中，而对应的私钥需要由用户自行保管。认证过程基于生成出来的私钥，但整个认证过程中私钥本身不会传输到网络中。
+SSH以[非对称加密实现](https://zh.wikipedia.org/wiki/非对称加密 "wikilink")[身份验证](https://zh.wikipedia.org/wiki/身份验证 "wikilink")\[10\]。身份验证有多种途径，例如其中一种方法是使用自动生成的公钥-私钥对来简单地加密网络连接，随后使用密码认证进行登录；另一种方法是人工生成一对公钥和私钥，通过生成的密钥进行认证，这样就可以在不输入密码的情况下登录。任何人都可以自行生成密钥。公钥需要放在待访问的电脑之中，而对应的私钥需要由用户自行保管。认证过程基于生成出来的私钥，但整个认证过程中私钥本身不会传输到网络中。
 
 SSH协议有两个主要版本，分别是SSH-1和SSH-2。无论是哪个版本，核实未知密钥来源都是重要的事情，因为SSH只验证提供用户是否拥有与公钥相匹配的私钥，只要接受公钥而且密钥匹配服务器就会授予许可。这样的话，一旦接受了恶意攻击者的公钥，那么系统也会把攻击者视为合法用户。
 
@@ -16,41 +17,41 @@ SSH协议有两个主要版本，分别是SSH-1和SSH-2。无论是哪个版本�
 
 在[类Unix系统中](../Page/类Unix系统.md "wikilink")，已许可登录的公钥通常保存在用户 /home 目录的
 \~/.ssh/authorized_keys
-文件中\[10\]，该文件只由SSH使用。当远程机器持有公钥，而本地持有对应私钥时，登录过程不再需要手动输入密码。另外为了额外的安全性，私钥本身也能用密码保护。
+文件中\[11\]，该文件只由SSH使用。当远程机器持有公钥，而本地持有对应私钥时，登录过程不再需要手动输入密码。另外为了额外的安全性，私钥本身也能用密码保护。
 
-私钥会保存在固定位置，也可以通过命令行参数指定（例如ssh命令的“-i”选项）。是生成密钥的工具之一。
+私钥会保存在固定位置，也可以通过命令行参数指定（例如ssh命令的“-i”选项）。[ssh-keygen是生成密钥的工具之一](https://zh.wikipedia.org/wiki/ssh-keygen "wikilink")。
 
 SSH也支持基于密码的身份验证，此时密钥是自动生成的。若客户端和服务端从未进行过身份验证，SSH未记录服务器端所使用的密钥，那么攻击者可以模仿服务器端请求并获取密码，即[中间人攻击](../Page/中间人攻击.md "wikilink")。但是密码认证可以禁用，而且SSH客户端在发现新密钥或未知服务器时会向用户发出警告。
 
 ## 使用
 
-SSH的经典用途是登录到远程电脑中执行命令。除此之外，SSH也支持[隧道协议](../Page/隧道协议.md "wikilink")、[端口映射和](https://zh.wikipedia.org/wiki/端口映射 "wikilink")[X11连接](../Page/X_Window系統.md "wikilink")。借助[SFTP或](../Page/SSH文件传输协议.md "wikilink")[SCP协议还可以传输文件](../Page/安全复制.md "wikilink")\[11\]。
+SSH的经典用途是登录到远程电脑中执行命令。除此之外，SSH也支持[隧道协议](../Page/隧道协议.md "wikilink")、[端口映射和](https://zh.wikipedia.org/wiki/端口映射 "wikilink")[X11连接](../Page/X_Window系統.md "wikilink")。借助[SFTP或](../Page/SSH文件传输协议.md "wikilink")[SCP协议还可以传输文件](../Page/安全复制.md "wikilink")\[12\]。
 
-SSH使用[客户端-服务器模型](../Page/主從式架構.md "wikilink")。服务器端需要开启SSH[守护进程以便接受远端的连接](../Page/守护进程.md "wikilink")，而用户需要使用SSH客户端与其建立连接。标准端口中的22端口分配给了SSH服务\[12\]。
+SSH使用[客户端-服务器模型](../Page/主從式架構.md "wikilink")。服务器端需要开启SSH[守护进程以便接受远端的连接](../Page/守护进程.md "wikilink")，而用户需要使用SSH客户端与其建立连接。标准端口中的22端口分配给了SSH服务\[13\]。
 
 大多数现代操作系统（包括[macOS](https://zh.wikipedia.org/wiki/macOS "wikilink")、大部分[Linux](../Page/Linux.md "wikilink")、[OpenBSD](../Page/OpenBSD.md "wikilink")、[FreeBSD](../Page/FreeBSD.md "wikilink")、[Solaris等系统](../Page/Solaris.md "wikilink")）都提供了SSH，但Windows系统未自带SSH程序。Windows用户可以使用[Cygwin来建立SSH服务](../Page/Cygwin.md "wikilink")。SSH客户端种类很多，包括[专有软件](../Page/专有软件.md "wikilink")、[免費軟體和](../Page/免費軟體.md "wikilink")[开源软件](../Page/开源软件.md "wikilink")，例如[PuTTY和传输文件专用的](../Page/PuTTY.md "wikilink")[WinSCP等](../Page/WinSCP.md "wikilink")。
 
-从[云计算的角度上讲](https://zh.wikipedia.org/wiki/云计算 "wikilink")，SSH能够阻止一些因直接暴露在互联网而产生的安全问题，在解决连接问题上发挥了重要作用。SSH隧道可以在互联网、[防火墙和虚拟机之间提供一个安全的通道](../Page/防火墙.md "wikilink")\[13\]。
+从[云计算的角度上讲](https://zh.wikipedia.org/wiki/云计算 "wikilink")，SSH能够阻止一些因直接暴露在互联网而产生的安全问题，在解决连接问题上发挥了重要作用。SSH隧道可以在互联网、[防火墙和虚拟机之间提供一个安全的通道](../Page/防火墙.md "wikilink")\[14\]。
 
 ## 历史
 
 ### 1.x版本
 
 芬兰[赫尔辛基理工大学的](../Page/赫尔辛基理工大学.md "wikilink")[塔图·于勒宁发现自己学校存在嗅探密码的网络攻击](../Page/塔图·于勒宁.md "wikilink")，便于1995年编写了一套保护信息传输的程序，并称其为“secure
-shell”，简称SSH\[14\]，设计目标是取代先前的、[Telnet](../Page/Telnet.md "wikilink")、[FTP](https://zh.wikipedia.org/wiki/FTP "wikilink")\[15\]和[rsh等安全性不足的协议](../Page/远程外壳.md "wikilink")。1995年7月，于勒宁以[免費軟體的形式将其发布](../Page/免費軟體.md "wikilink")。程序很快流行起来，截至1995年底，SSH的用户数已经达到两万，遍布五十个国家。
+shell”，简称SSH\[15\]，设计目标是取代先前的、[Telnet](../Page/Telnet.md "wikilink")、[FTP](https://zh.wikipedia.org/wiki/FTP "wikilink")\[16\]和[rsh等安全性不足的协议](../Page/远程外壳.md "wikilink")。1995年7月，于勒宁以[免費軟體的形式将其发布](../Page/免費軟體.md "wikilink")。程序很快流行起来，截至1995年底，SSH的用户数已经达到两万，遍布五十个国家。
 
 1995年12月，于勒宁创立了SSH通信安全公司来继续开发和销售SSH。SSH的早期版本用到了很多[自由软件](../Page/自由软件.md "wikilink")，例如[GNU
 libgmp](../Page/GNU多重精度运算库.md "wikilink")，但后来由SSH公司发布的版本逐渐变成了[专有软件](../Page/专有软件.md "wikilink")。
 
-截至2000年，已经有两百万用户使用SSH。\[16\]
+截至2000年，已经有两百万用户使用SSH。\[17\]
 
 ### OpenSSH和OSSH
 
 1999年，开发者们希望使用自由版本的SSH，于是重新使用较旧的1.2.12版本，这也是最后一个采用[开放源代码许可的版本](../Page/开放源代码.md "wikilink")。随后瑞典程序员Björn
 Grönvall基于这个版本开发了OSSH。不久之后，[OpenBSD的开发者又在Grönvall版本的基础上进行了大量修改](../Page/OpenBSD.md "wikilink")，形成了[OpenSSH](../Page/OpenSSH.md "wikilink")，并于OpenBSD
-2.6一起发行。从该版本开始，OpenSSH又逐渐移植到了其他操作系统上面。\[17\]
+2.6一起发行。从该版本开始，OpenSSH又逐渐移植到了其他操作系统上面。\[18\]
 
-截至2005年，OpenSSH是唯一一种最流行的SSH实现，而且成为了大量操作系统的默认组件，而OSSH已经过时\[18\]。OpenSSH仍在维护，而且已经支持SSH-2协议。从7.6版开始，OpenSSH不再支持SSH-1协议。
+截至2005年，OpenSSH是唯一一种最流行的SSH实现，而且成为了大量操作系统的默认组件，而OSSH已经过时\[19\]。OpenSSH仍在维护，而且已经支持SSH-2协议。从7.6版开始，OpenSSH不再支持SSH-1协议。
 
 ### 2.x版本
 
@@ -59,7 +60,7 @@ Grönvall基于这个版本开发了OSSH。不久之后，[OpenBSD的开发者�
 ### 1.99版
 
 RFC
-4253规定支持2.0及以前版本SSH的SSH服务器应将其原始版本标为“1.99”\[19\]。“1.99”并不是实际的软件版本号，而是为了表示[向下兼容](../Page/向下兼容.md "wikilink")。
+4253规定支持2.0及以前版本SSH的SSH服务器应将其原始版本标为“1.99”\[20\]。“1.99”并不是实际的软件版本号，而是为了表示[向下兼容](../Page/向下兼容.md "wikilink")。
 
 ## 基本架構
 
@@ -109,11 +110,11 @@ SSH协议框架中设计了大量可扩展的冗余能力，比如用户自定�
 
 3.
 
-4.  [SSH Hardens the Secure
+4.
+
+5.  [SSH Hardens the Secure
     Shell](http://www.serverwatch.com/news/print.php/3551081),
     Serverwatch.com
-
-5.
 
 6.
 
@@ -122,12 +123,12 @@ SSH协议框架中设计了大量可扩展的冗余能力，比如用户自定�
 8.
 
 9.
-10. [SSH setup
+
+10.
+11. [SSH setup
     manual](http://wiki.qnap.com/wiki/How_To_Set_Up_Authorized_Keys)
 
-11.
 12.
-
 13.
 
 14.
@@ -141,3 +142,5 @@ SSH协议框架中设计了大量可扩展的冗余能力，比如用户自定�
 18.
 
 19.
+
+20.

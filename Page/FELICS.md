@@ -52,7 +52,5 @@ FELICS 的改进包括根据前面的数据块搜索 Rice 的参数 k 的方法�
 2.  \[<http://www.compression-links.info/Link/1321_FELICS_Fast_and_Efficient_Lossless_Image_Compression.htm>,
     Compression-Links.Info\]。
 
-[fr:JPEG-LS](https://zh.wikipedia.org/wiki/fr:JPEG-LS "wikilink")
-
 [Category:无损压缩算法](https://zh.wikipedia.org/wiki/Category:无损压缩算法 "wikilink")
 [Category:有损压缩算法](https://zh.wikipedia.org/wiki/Category:有损压缩算法 "wikilink")

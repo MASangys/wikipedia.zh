@@ -51,7 +51,8 @@ SVK 使用 [Subversion](../Page/Subversion.md "wikilink") 的檔案系統，但�
 
 ## 外部連結
 
-  - [SVK Homepage](http://svk.bestpractical.com/)
+  - [SVK
+    Homepage](https://web.archive.org/web/20061028100034/http://svk.bestpractical.com/)
   - [Best Practical](http://bestpractical.com/)
   - [Perl.com article on
     SVK](http://www.perl.com/pub/a/2004/03/03/svk.html)

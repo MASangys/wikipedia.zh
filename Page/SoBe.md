@@ -1,5 +1,5 @@
 [Logo_sobe.gif](https://zh.wikipedia.org/wiki/File:Logo_sobe.gif "fig:Logo_sobe.gif")
-**SoBe**是一個由[百事公司生產與銷售的](../Page/百事公司.md "wikilink")[茶](../Page/茶.md "wikilink")、[elixir與](https://zh.wikipedia.org/wiki/elixir "wikilink")[能量飲料品牌](https://zh.wikipedia.org/wiki/能量飲料 "wikilink")。SoBe的正確讀法為"so-bee"（[IPA](https://zh.wikipedia.org/wiki/國際音標 "wikilink")：\[sobi\]），全寫為"South
+**SoBe**是一個由[百事公司生產與銷售的](../Page/百事公司.md "wikilink")[茶](../Page/茶.md "wikilink")、[elixir與](https://zh.wikipedia.org/wiki/elixir "wikilink")[能量飲料品牌](https://zh.wikipedia.org/wiki/能量飲料 "wikilink")。SoBe的正確讀法為"so-bee"（[IPA](../Page/國際音標.md "wikilink")：\[sobi\]），全寫為"South
 Beach Beverage Co.（南海灘飲料公司）"。
 
 ## 公司歷史

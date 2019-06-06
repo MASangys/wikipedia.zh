@@ -533,7 +533,7 @@
 <td><p>EHT</p></td>
 <td></td>
 <td></td>
-<td><p>，<a href="https://zh.wikipedia.org/wiki/康涅狄格州" title="wikilink">康涅狄格州</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/東哈特福德_(康涅狄格州)" title="wikilink">東哈特福德</a>，<a href="https://zh.wikipedia.org/wiki/康涅狄格州" title="wikilink">康涅狄格州</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -588,7 +588,7 @@
 <tr class="odd">
 <td><p>EIN</p></td>
 <td><p>EHEH</p></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/埃因霍溫機場" title="wikilink">埃因霍溫機場</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/埃因霍溫" title="wikilink">埃因霍溫</a>，<a href="../Page/北布拉班特省.md" title="wikilink">北布拉班特省</a></p></td>
 <td></td>
 </tr>

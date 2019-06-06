@@ -668,6 +668,9 @@ eleven惡搞了](https://zh.wikipedia.org/wiki/Keroro_eleven "wikilink")[少林�
 
 ### 插曲
 
+1.「僕らの合言葉」（我們的暗號；358集）
+編曲：山本隆二（僅旋律）
+
 ### DVD
 
 出版名字：**Keroro軍曹 7th Season**

@@ -86,7 +86,7 @@ Linux的使用者也可以透過PKGBUILD來取得Xgl](../Page/Arch_Linux.md "wik
   - [Announcement of Xgl on the xorg mailing
     list](http://lists.freedesktop.org/pipermail/xorg/2004-November/004358.html)
   - [Accelerated X flame wars\!—Maybe
-    not](http://www.freesoftwaremagazine.com/articles/accelerated_x)
+    not](https://web.archive.org/web/20060903151727/http://www.freesoftwaremagazine.com/articles/accelerated_x)
     一篇說明 AIGLX 和 Xgl 有什麼差別的文章。
 
 ### 安裝和使用說明、論壇、尋求支援

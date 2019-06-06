@@ -49,7 +49,7 @@ MythTV軟體支援完全相容於[Video4Linux或Video](../Page/Video4Linux.md "w
   - [Official website](http://www.mythtv.org/)
 
   - [MythTV against other FLOSS Media Centers in Comparison
-    Chart](http://www.telematicsfreedom.org/en/flossmediacenter)
+    Chart](https://web.archive.org/web/20120910004110/http://telematicsfreedom.org/en/flossmediacenter)
 
 [Category:自由軟體](https://zh.wikipedia.org/wiki/Category:自由軟體 "wikilink")
 [Category:Linux軟體](https://zh.wikipedia.org/wiki/Category:Linux軟體 "wikilink")

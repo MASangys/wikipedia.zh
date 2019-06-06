@@ -548,7 +548,7 @@ Android</p></td>
 [Category:多人線上競速遊戲](https://zh.wikipedia.org/wiki/Category:多人線上競速遊戲 "wikilink")
 [Category:卡通渲染风格电子游戏](https://zh.wikipedia.org/wiki/Category:卡通渲染风格电子游戏 "wikilink")
 [Category:韩国开发电子游戏](https://zh.wikipedia.org/wiki/Category:韩国开发电子游戏 "wikilink")
-[Category:盛大游戏](https://zh.wikipedia.org/wiki/Category:盛大游戏 "wikilink")
+[Category:盛趣遊戲](https://zh.wikipedia.org/wiki/Category:盛趣遊戲 "wikilink")
 
 1.  [RHAON Talesrunner頁面](http://www.rhaon.co.kr/games/talesrunner.php)
 2.  [韓服“超級跑跑”續約10年2代後續作開發中](http://ol.tgbus.com/news/newgame/hr/201603/13780549.shtml)，著名人如Leo

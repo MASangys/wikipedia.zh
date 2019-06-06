@@ -8,9 +8,9 @@
 2015年10月15日[FamilyMart以每](../Page/FamilyMart.md "wikilink")0.138股換取生活創庫（Uny
 Group）一股的比例，斥資1710億日圓（折合約111.98億港元）收購生活創庫，令FamilyMart成為日本第二大連鎖便利店經營商。
 
-2016年9月1日：[FamilyMart和Circle](../Page/FamilyMart.md "wikilink") K
-Sunkus（OK便利店）母公司UNY今日正式合併成Uny FamilyMart Holdings，旗下的「Circle
-K」和「Sunkus」2個便利店品牌統一改用「FamilyMart」。
+2016年9月1日：FamilyMart與的母公司進行業務與股權合併，UGHD與FamilyMart合併為「」，Circle K
+Sunkus的公司法人則同時更名為「株式會社FamilyMart」（第2代）。原屬Circle K Sunkus旗下的“[Circle
+K](../Page/OK便利店.md "wikilink")”和“”2个便利店品牌统一改用「FamilyMart」品牌。
 
 2017年，[唐吉訶德 (企業)与](../Page/唐吉訶德_\(企業\).md "wikilink") FamilyMart UNY
 控股达成合作，获得 UNY 40% 的股份，双方联合以「唐吉軻德全家便利商店（MEGA Don Quijote
@@ -50,7 +50,7 @@ APITA[太古城店由](../Page/太古城中心.md "wikilink")1987年開業的舊
 
 ### 私と生活
 
-私と生活是UNY旗下的生活雜貨店，大部分貨品向日本100円雜貨店Seria（セリア）取貨並以12元發售。設有一間分店，位於UNY樂富店。
+私と生活是UNY旗下的生活雜貨店，大部分貨品向日本100円雜貨店Seria（セリア）取貨並以12元發售。全部分店已經結業。
 
 ## 上海分店
 

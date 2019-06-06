@@ -35,7 +35,5 @@ Pro*為基礎的低成本顯示解決方案。這晶片用於很多低端的顯�
 
 根本上，這款晶片是*Rage Pro*的晶粒縮小版，優化成價錢低廉的解決方案，所以只提供基本的顯示輸出。
 
-[en:ATI Rage](https://zh.wikipedia.org/wiki/en:ATI_Rage "wikilink")
-
 [Category:顯示卡](https://zh.wikipedia.org/wiki/Category:顯示卡 "wikilink")
 [Category:冶天科技](https://zh.wikipedia.org/wiki/Category:冶天科技 "wikilink")

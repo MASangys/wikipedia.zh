@@ -801,12 +801,13 @@ Portable用軟件](../Page/PlayStation_Portable.md "wikilink")，2006年2月23�
   - [台灣衛視中文台《舞-HiME》相關介紹](http://www.startv.com.tw/chs/prog.asp?forid=769&nouse=1549)
 
 
+\[\[Category:日本漫畫作品\]
+
 [Category:舞-HiME_Project](https://zh.wikipedia.org/wiki/Category:舞-HiME_Project "wikilink")
 [Category:2004年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2004年東京電視網動畫 "wikilink")
 [Category:東京電視台深夜動畫](https://zh.wikipedia.org/wiki/Category:東京電視台深夜動畫 "wikilink")
 [Category:日昇動畫](https://zh.wikipedia.org/wiki/Category:日昇動畫 "wikilink")
 [Category:週刊少年Champion](https://zh.wikipedia.org/wiki/Category:週刊少年Champion "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
 [Category:魔法少女](https://zh.wikipedia.org/wiki/Category:魔法少女 "wikilink")
 [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
 [Category:死亡遊戲題材作品](https://zh.wikipedia.org/wiki/Category:死亡遊戲題材作品 "wikilink")

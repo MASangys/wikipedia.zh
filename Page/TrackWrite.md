@@ -23,5 +23,4 @@ TrackWrite鍵盤分成兩個約略為[三角形的部份](../Page/三角形.md "
     Again](http://www.zdnet.com.au/news/business/0,39023166,20280272,00.htm)
 
 [Category:鍵盤](https://zh.wikipedia.org/wiki/Category:鍵盤 "wikilink")
-[Category:IBM](https://zh.wikipedia.org/wiki/Category:IBM "wikilink")
-[Category:筆記型電腦](https://zh.wikipedia.org/wiki/Category:筆記型電腦 "wikilink")
+[Category:IBM笔记本电脑](https://zh.wikipedia.org/wiki/Category:IBM笔记本电脑 "wikilink")

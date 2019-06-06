@@ -100,7 +100,7 @@
 </tr>
 <tr class="even">
 <td><p>TCG</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/塔城机场" title="wikilink">塔城机场</a></p></td>
+<td><p><a href="../Page/塔城机场.md" title="wikilink">塔城机场</a></p></td>
 <td><p><a href="../Page/塔城市.md" title="wikilink">塔城市</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/中華人民共和國" title="wikilink">中華人民共和國</a></p></td>
 </tr>

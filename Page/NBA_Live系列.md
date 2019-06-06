@@ -105,8 +105,7 @@ LIVE系列在短時間之內不會在PC平台上推出新作。\[10\]\[11\]\[12\
 6.
 7.  [【E3 17】《勁爆美國職籃 18》亮相 預定今年 8
     月開放試玩](https://gnn.gamer.com.tw/7/148127.html)
-8.  [受肯定！Harden成《NBA
-    LIVE 18》封面人物，大鬍子：我感到很榮幸](http://www.dongtw.com/nba/20170811/552600.html)
+8.
 9.  ['NBA LIVE 18' Cover Athlete And Art
     Revealed](https://www.forbes.com/sites/brianmazique/2017/08/10/nba-live-18-cover-athlete-and-art-revealed)
 10. [9年了！NBA

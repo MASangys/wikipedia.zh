@@ -1,5 +1,7 @@
+
+
 **OKWAP千里**是[英華達的子公司](https://zh.wikipedia.org/wiki/英華達 "wikilink")，成立於2000年，基地分佈於[台北](https://zh.wikipedia.org/wiki/台北 "wikilink")、[中國](../Page/中國.md "wikilink")[上海和](https://zh.wikipedia.org/wiki/上海 "wikilink")[南京](https://zh.wikipedia.org/wiki/南京 "wikilink")，負責各種軟體及硬體的技術研發及製造。2014年，開始有穿戴式電子設備以及網路家電的產品，專注於打造以健康為核心的社交網路平台。\[1\]\[2\]\[3\]
-手機代言由[Twins](https://zh.wikipedia.org/wiki/Twins "wikilink")、[S.H.E作代言](../Page/S.H.E.md "wikilink")。
+手機代言由[蜜雪薇琪](../Page/蜜雪薇琪.md "wikilink")[、Twins](https://zh.wikipedia.org/wiki/Twins "wikilink")、[S.H.E作代言](../Page/S.H.E.md "wikilink")。
 
 ## 參考文獻
 

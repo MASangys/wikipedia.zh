@@ -187,7 +187,7 @@ AKS-74U在蘇軍和俄軍服役期間經常被士兵暱稱為“Kysusha”（К�
   - 2012年—《[-{zh-hans:荣誉勋章：战士;
     zh-hant:榮譽勳章：鐵血悍將;}-](https://zh.wikipedia.org/wiki/榮譽勳章：鐵血悍將 "wikilink")》（Medal
     of Honor:
-    Warfighter）：型號為AKMSU，命名為「AKS-74U」，故事模式中被黑鳥特遣隊所屬的[OGA隊員](../Page/中央情報局特別行動科.md "wikilink")“老媽”和“牧師”，OGA臥底人員“Argyrus”及所有敵軍所使用。聯機模式當中為[俄羅斯](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")[阿爾法小組的可用武器](../Page/阿爾法小組.md "wikilink")，並能夠按用戶需求而作自定義改裝。
+    Warfighter）：型號為AKMSU，命名為「AKS-74U」，故事模式中被黑鳥特遣隊所屬的[OGA隊員](https://zh.wikipedia.org/wiki/中央情報局特别活動中心 "wikilink")“老媽”和“牧師”，OGA臥底人員“Argyrus”及所有敵軍所使用。聯機模式當中為[俄羅斯](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")[阿爾法小組的可用武器](../Page/阿爾法小組.md "wikilink")，並能夠按用戶需求而作自定義改裝。
   - 2013年—《[-{zh-hans:地铁：最后的曙光;
     zh-hant:戰慄深隧：最後光芒;}-](https://zh.wikipedia.org/wiki/戰慄深隧：最後光芒 "wikilink")》（Metro:
     Last Light）
@@ -212,7 +212,8 @@ AKS-74U在蘇軍和俄軍服役期間經常被士兵暱稱為“Kysusha”（К�
     of Duty: Modern Warfare
     Remastered）：外觀比前作更為精細，並修正至使用橙色AK-74彈匣，配用黑色[護木和握把](https://zh.wikipedia.org/wiki/護木 "wikilink")，但槍托仍然是[AKMS樣式](../Page/AKM突擊步槍.md "wikilink")。
   - 2016年—《[少女前線](https://zh.wikipedia.org/wiki/少女前線 "wikilink")》：2018年夏季活動【有序紊流】登場的[萌擬人化少女戰術人形](../Page/萌擬人化.md "wikilink")，名稱為AK-74U，被歸類為衝鋒槍。
-  - 2016年—《[逃離塔科夫](https://zh.wikipedia.org/wiki/逃離塔科夫 "wikilink")》:型號分別為AKS-74U、AKS-74UB、AKS-74UN，可更改槍口、槍管、槍托、握把、彈夾、瞄準器等等的配件
+  - 2016年—《》（Escape From
+    Tarkov）：型號為AK-12。:型號分別為AKS-74U、AKS-74UB、AKS-74UN，可更改槍口、槍管、槍托、握把、彈匣、瞄準器等配件。
 
 ### [動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")
 

@@ -1,7 +1,8 @@
-**gcin**是一個在[类Unix](https://zh.wikipedia.org/wiki/类Unix "wikilink")[作業系統上運行的中文](https://zh.wikipedia.org/wiki/作業系統 "wikilink")[輸入法平台](https://zh.wikipedia.org/wiki/輸入法平台 "wikilink")（目前亦有[gcin
+**gcin**
+是用於[类Unix](https://zh.wikipedia.org/wiki/类Unix "wikilink")[作業系統運行的中文](https://zh.wikipedia.org/wiki/作業系統 "wikilink")[輸入法平台](https://zh.wikipedia.org/wiki/輸入法平台 "wikilink")（目前亦有[gcin
 for windows](http://hyperrate.com/dir.php?eid=215)與[gcin for
 android](http://hyperrate.com/?eid=255)），是目前[台灣最常用的輸入法平台之一](https://zh.wikipedia.org/wiki/台灣 "wikilink")。gcin作者為Edward
-Liu，是原xcin的開發者之一，gcin開發的目標是取代舊有的[xcin](https://zh.wikipedia.org/wiki/xcin "wikilink")，讓[繁體中文的](https://zh.wikipedia.org/wiki/繁體中文 "wikilink")[GNU/Linux使用者在使用中文輸入法時能有更多的選擇](https://zh.wikipedia.org/wiki/GNU/Linux "wikilink")。
+Liu，是原[xcin的開發者之一](https://zh.wikipedia.org/wiki/xcin "wikilink")，gcin開發的目標是取代舊有的xcin，讓[繁體中文的](https://zh.wikipedia.org/wiki/繁體中文 "wikilink")[GNU/Linux使用者在使用中文輸入法時能有更多的選擇](https://zh.wikipedia.org/wiki/GNU/Linux "wikilink")。
 
 目前gcin仍在持續開發中，可從[gcin更動紀錄](http://hyperrate.com/gcin-source/Changelog.html)查詢各版本所新增功能或細節。
 

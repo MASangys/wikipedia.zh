@@ -36,8 +36,6 @@ miniSD卡的容量由16[MB至](https://zh.wikipedia.org/wiki/MB "wikilink")8[GB]
   - [miniSD 轉接器，miniSD卡，Memory Stick Duo 和
     MMC卡的相片](http://img493.imageshack.us/img493/4533/cimg4308custom3kh.jpg)
 
-[en:Secure
-Digital](https://zh.wikipedia.org/wiki/en:Secure_Digital "wikilink")
 [fi:Secure
 Digital\#miniSD](https://zh.wikipedia.org/wiki/fi:Secure_Digital#miniSD "wikilink")
 

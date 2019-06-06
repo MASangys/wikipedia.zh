@@ -83,7 +83,9 @@ def bogo_sort(my_list):
 Random random = new Random();
 
 public void bogoSort(int[] n) {
-    while(!inOrder(n))shuffle(n);
+    while(!inOrder(n)){
+        shuffle(n);
+    }
 }
 
 public void shuffle(int[] n) {
@@ -97,7 +99,9 @@ public void shuffle(int[] n) {
 
 public boolean inOrder(int[] n) {
     for (int i = 0; i < n.length-1; i++) {
-        if (n[i] > n[i+1]) return false;
+        if (n[i] > n[i+1]) {
+            return false;
+        }
     }
     return true;
 }

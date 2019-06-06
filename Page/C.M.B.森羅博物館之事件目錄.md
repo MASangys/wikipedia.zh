@@ -1003,7 +1003,7 @@ ISBN 9789863173595</p></td>
 <references />
 
 3\. 皇帝紋黃蝶，由封底附上之學名（Colias Imperialis）可找到其資料，頁面顯示自1860年紀錄上只出現過11隻，推測已滅種
-<https://theholoceneextinctionevent.wordpress.com/tag/colias-imperialis-butler/>
+<https://web.archive.org/web/20180404135018/https://theholoceneextinctionevent.wordpress.com/tag/colias-imperialis-butler/>
 
 ## 参见
 

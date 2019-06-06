@@ -5,7 +5,7 @@ Boy平台的](../Page/Virtual_Boy.md "wikilink")《[马里奥网球](../Page/马
 游戏包含了五種[運動模擬遊戲](https://zh.wikipedia.org/wiki/體育類遊戲 "wikilink")，主要是為了向新玩家展示Wii遊樂器的動作感應功能，運動項目包含網球、棒球、保齡球、高爾夫球和拳擊。玩家能使用[Wii手柄做出與真實生活中的運動類似之動作](https://zh.wikipedia.org/wiki/Wii_Remote "wikilink")，例如揮動網球拍、丟擲保齡球等。\[4\]每種運動遊戲的規則都經過簡化，讓剛接觸的玩者容易上手。\[5\]游戏还拥有练习模式和监测玩家运动进展的体力测定模式。\[6\]
 
 《Wii
-Sports》获得了媒體的较高评价，并赢得了游戏和娱乐业的多个奖项。游戏含同捆版達到了8,286万套\[7\]的全球销量，成为史上[第四畅销的电子游戏](https://zh.wikipedia.org/wiki/最畅销电子游戏列表 "wikilink")，仅次于《[俄罗斯方块](https://zh.wikipedia.org/wiki/俄罗斯方块 "wikilink")》、《[我的世界](../Page/我的世界.md "wikilink")》和《[俠盜獵車手V](../Page/俠盜獵車手V.md "wikilink")》，同时也是單一遊戲主機平台上最为畅销的电子游戏。\[8\]现在，《Wii
+Sports》获得了媒體的较高评价，并赢得了游戏和娱乐业的多个奖项。游戏含同捆版達到了8,287万套\[7\]的全球销量，成为史上[第四畅销的电子游戏](https://zh.wikipedia.org/wiki/最畅销电子游戏列表 "wikilink")，仅次于《[-{zh-cn:我的世界;zh-tw:當個創世神;zh-hk:當個創世神;}-](../Page/我的世界.md "wikilink")》、《[俄罗斯方块](https://zh.wikipedia.org/wiki/俄罗斯方块 "wikilink")》和《[俠盜獵車手V](../Page/俠盜獵車手V.md "wikilink")》，同时也是單一遊戲主機平台上最为畅销的电子游戏。\[8\]现在，《Wii
 Sports》已成为电视商业广告、新闻报道和其他节目中Wii的象徵性代表，\[9\]\[10\]\[11\]\[12\]更成为各年龄层玩家聚会和竞赛的流行方式。\[13\]\[14\]\[15\]
 
 ## 游戏要素
@@ -115,7 +115,7 @@ Simone Nash）更是在广告休息之後用舞台大屏幕大玩《Wii Sports�
   - [《Wii Sports》日本官方網站](http://www.nintendo.co.jp/wii/rspj/)
 
   - [《Wii
-    Sports》美國官方網站](http://www.nintendo.com/games/detail/1OTtO06SP7M52gi5m8pD6CnahbW8CzxE)
+    Sports》美國官方網站](https://web.archive.org/web/20090724172836/http://www.nintendo.com//games//detail//1OTtO06SP7M52gi5m8pD6CnahbW8CzxE)
 
   -
 

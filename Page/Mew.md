@@ -470,7 +470,7 @@ That Time On The Ledge</p></td>
   - 1994年擔任丹麥導演*Laurits Munch-Petersen*的短片《A Woman In Every
     Town》\[[http://www.laurits.com/titles/awoman.html\]音效](http://www.laurits.com/titles/awoman.html%5D音效)。
   - 2004年擔任丹麥導演*Rune Schjøtt*的短片《Pandasyndromet》（英譯：The Panda
-    Syndrome）[13](https://web.archive.org/web/20070210050309/http://www.dfi.dk/english/Danish+films/ShortByReleaseYear/filmFact.htm?FilmID=16546)\[[http://www.dr.dk/tv-drama/TV-Drama+Nyt/Visninger/20070206124006.htm\]配樂，並在劇中演出一角](http://www.dr.dk/tv-drama/TV-Drama+Nyt/Visninger/20070206124006.htm%5D配樂，並在劇中演出一角)。
+    Syndrome）\[<https://web.archive.org/web/20070210050309/http://www.dfi.dk/english/Danish+films/ShortByReleaseYear/filmFact.htm?FilmID=16546%5D%5Bhttp%3A%2F%2Fwww.dr.dk%2Ftv-drama%2FTV-Drama+Nyt%2FVisninger%2F20070206124006.htm%5D%E9%85%8D%E6%A8%82%EF%BC%8C%E4%B8%A6%E5%9C%A8%E5%8A%87%E4%B8%AD%E6%BC%94%E5%87%BA%E4%B8%80%E8%A7%92>。
   - 2005年與*Mauri Sumén*共同擔任芬蘭導演*Pekka Lehto*的電影《Game
     Over》\[[https://web.archive.org/web/20070314194349/http://www.gameover.fi/\]配樂，除兩人共同譜寫的全新配樂以外，另使用](https://web.archive.org/web/20070314194349/http://www.gameover.fi/%5D配樂，除兩人共同譜寫的全新配樂以外，另使用){{〈}}156{{〉}}、{{〈}}Snow
     Brigade{{〉}}、{{〈}}Eight Flew Over, One Was Destroyed{{〉}}、{{〈}}She
@@ -480,14 +480,14 @@ That Time On The Ledge</p></td>
 ##### 繪畫
 
   - 2001年製作*Future
-    3*團員的[GIF動畫](../Page/GIF.md "wikilink")[14](https://web.archive.org/web/20070928013324/http://www.systemf3.com/animation.html)。
-  - 2006年於丹麥藝術設計雜誌《Wonderland》[15](https://web.archive.org/web/20060306074908/http://www.wonderland-mag.dk/%5D第二輯中發表一作品%5Bhttp://www.wonderland-mag.dk/Files/Upload/20060920_003656_17.jpg)。
+    3*團員的[GIF動畫](../Page/GIF.md "wikilink")[13](https://web.archive.org/web/20070928013324/http://www.systemf3.com/animation.html)。
+  - 2006年於丹麥藝術設計雜誌《Wonderland》[14](https://web.archive.org/web/20060306074908/http://www.wonderland-mag.dk/%5D第二輯中發表一作品%5Bhttp://www.wonderland-mag.dk/Files/Upload/20060920_003656_17.jpg)。
 
 ##### 製片
 
   - 其製作的一些短片曾在丹麥電視頻道中播放。
   - 1991年拍攝以**Bo Madsen**及**Johan
-    Wohlert**為主角的短片[16](http://mfile.akamai.com/1689/wmv/bmguk.download.akamai.com/1689/mew/lsd_high.asx)。
+    Wohlert**為主角的短片[15](http://mfile.akamai.com/1689/wmv/bmguk.download.akamai.com/1689/mew/lsd_high.asx)。
   - 2001年於芬蘭導演*Pekka Lehto*的電影《Tango Kabaree》（英譯：Tango Cabaret）中擔任視覺效果。
   - 2001年於丹麥導演*Nikolaj Arcel*的短片《Woyzecks Sidste Symfoni》（英譯：Woyzeck's
     Last Symphony）中擔任視覺效果。

@@ -16,7 +16,7 @@ Languages**)是20世纪70年代由[美国](../Page/美国.md "wikilink")[空军�
     IDEF5 : 实体描述获取（Ontology Description Capture
     [6](http://www.idef.com/IDEF5.html)）
     IDEF6 : 设计理论获取（Design Rationale Capture
-    [7](https://web.archive.org/web/20070402035120/http://stinet.dtic.mil/oai/oai?&verb=getRecord&metadataPrefix=html&identifier=ADA261594)）
+    \[<https://web.archive.org/web/20070402035120/http://stinet.dtic.mil/oai/oai?&verb=getRecord&metadataPrefix=html&identifier=ADA261594%5D%EF%BC%89>
     IDEF7 : 信息系统审核（Information System Auditing）
     IDEF8 : 人－系统交互界面设计（User Interface Modeling）
     IDEF9 : 场景驱动信息系统设计（Scenario-Driven IS Design）

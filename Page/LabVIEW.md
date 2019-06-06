@@ -1,11 +1,8 @@
-**LabVIEW**（**Lab**oratory **V**irtual **I**nstrumentation
-**E**ngineering
-**W**orkbench，实验室虚拟仪器工程平台）是由美國[國家儀器公司所開發的圖形化程式編譯平台](../Page/國家儀器.md "wikilink")，發明者為傑夫·考度斯基（Jeff
+**LabVIEW**（，实验室虚拟仪器工程平台）是由美國[國家儀器公司所開發的圖形化程式編譯平台](../Page/國家儀器.md "wikilink")，發明者為傑夫·考度斯基（Jeff
 Kodosky），程式最初於1986年在蘋果電腦上發表。LabVIEW早期是為了儀器自動控制所設計，至今轉變成為一種逐漸成熟的高階程式語言。圖形化程式與傳統程式語言之不同點在於程式流程採用"資料流"之概念打破傳統之思維模式，使得程式設計者在流程圖構思完畢的同時也完成了程式的撰寫。
 
-LabVIEW率先引入了特別的虛擬儀表的概念，使用者可透過人機介面直接控制自行開發之儀器。此外LabVIEW提供的函式庫包含：訊號擷取、訊號分析、機器視覺、數值運算、[邏輯運算](https://zh.wikipedia.org/wiki/邏輯運算 "wikilink")、聲音震動分析、資料儲存...等。目前可支援[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")，[UNIX](../Page/UNIX.md "wikilink")，[Linux](../Page/Linux.md "wikilink")，[Mac
-OS等作業系統](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")。由於LabVIEW特殊的圖形程式簡單易懂的開發介面，縮短了開發原型的速度以及方便日後的軟體維護，因此逐漸受到系統開發及研究人員的喜愛。目前廣泛的被應用於工業自動化之領域上。LabVIEW預設以
-多线程執行程式，對於程式設計者更是一大利器。此外LabVIEW通訊介面方面支援：[GPIB](https://zh.wikipedia.org/wiki/GPIB "wikilink")，[USB](../Page/USB.md "wikilink")，[IEEE1394](https://zh.wikipedia.org/wiki/IEEE1394 "wikilink")，[MODBUS](https://zh.wikipedia.org/wiki/MODBUS "wikilink")，[串列埠](https://zh.wikipedia.org/wiki/串列埠 "wikilink")，[並行埠](https://zh.wikipedia.org/wiki/並行埠 "wikilink")，[IrDA](https://zh.wikipedia.org/wiki/IrDA "wikilink")，[TCP](https://zh.wikipedia.org/wiki/TCP "wikilink")，[UDP](https://zh.wikipedia.org/wiki/UDP "wikilink")，[Bluetooth](https://zh.wikipedia.org/wiki/Bluetooth "wikilink")，[.NET](https://zh.wikipedia.org/wiki/.NET "wikilink")，[ActiveX](../Page/ActiveX.md "wikilink")，[SMTP](https://zh.wikipedia.org/wiki/SMTP "wikilink")...等介面。
+LabVIEW率先引入了特別的虛擬儀表的概念，使用者可透過人機介面直接控制自行開發之儀器。此外LabVIEW提供的函式庫包含：訊號擷取、訊號分析、機器視覺、數值運算、[邏輯運算](https://zh.wikipedia.org/wiki/邏輯運算 "wikilink")、聲音震動分析、資料儲存等。目前可支援[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")，[UNIX](../Page/UNIX.md "wikilink")，[Linux](../Page/Linux.md "wikilink")，[macOS等作業系統](https://zh.wikipedia.org/wiki/macOS "wikilink")。由於LabVIEW特殊的圖形程式簡單易懂的開發介面，縮短了開發原型的速度以及方便日後的軟體維護，因此逐漸受到系統開發及研究人員的喜愛。目前廣泛的被應用於工業自動化之領域上。LabVIEW預設以
+多线程執行程式，對於程式設計者更是一大利器。此外LabVIEW通訊介面方面支援：[GPIB](https://zh.wikipedia.org/wiki/GPIB "wikilink")，[USB](../Page/USB.md "wikilink")，[IEEE1394](https://zh.wikipedia.org/wiki/IEEE1394 "wikilink")，[MODBUS](https://zh.wikipedia.org/wiki/MODBUS "wikilink")，[串列埠](https://zh.wikipedia.org/wiki/串列埠 "wikilink")，[並行埠](https://zh.wikipedia.org/wiki/並行埠 "wikilink")，[IrDA](https://zh.wikipedia.org/wiki/IrDA "wikilink")，[TCP](https://zh.wikipedia.org/wiki/TCP "wikilink")，[UDP](https://zh.wikipedia.org/wiki/UDP "wikilink")，[Bluetooth](https://zh.wikipedia.org/wiki/Bluetooth "wikilink")，[.NET](https://zh.wikipedia.org/wiki/.NET "wikilink")，[ActiveX](../Page/ActiveX.md "wikilink")，[SMTP等介面](https://zh.wikipedia.org/wiki/SMTP "wikilink")。
 
 近年來 LabVIEW 除了可以在 PC 上面撰寫之外，另外支援即時系統（Real-time OS）以及可程式邏輯閘陣列（Field
 Programmable Gate Array, FPGA）。使用者可以透過 LabVIEW
@@ -105,42 +102,7 @@ NI LabVIEW 2010 MathScript RT模块特性
 
 ## 外部連結
 
-  - [Official Home Page](http://www.ni.com/labview/) - The National
-    Instruments web site for the LabVIEW product line.
-      - [LabVIEW
-        Help](http://zone.ni.com/reference/en-XX/help/371361B-01/) -
-        NI's entire set of online help documentation for LabVIEW 8.20.
-      - [Official LabVIEW Community Home
-        Page](http://arquivo.pt/wayback/20091228082756/http%3A//zone.ni.com/devzone/cda/tut/p/id/5053)
-        - NI's "LabVIEW Zone" web site.
-  - [LAVA (LabVIEW Advanced Virtual Architects)](http://www.lavag.org/)
-    - Independent community, with discussion forums and a code
-    repository.
-  - [LabVIEW Pro 專業論壇 (LabVIEW Pro)](http://labviewpro.net/) - 最專業的
-    LabVIEW 討論學習平台 (Sponsored by NI)
-  - [LabVIEW360 (LabVIEW360 Community)](http://labview360.com/) -
-    華文地區LabVIEW專業研討社群
-  - [Info-LabVIEW](http://www.info-labview.org) - A LabVIEW [electronic
-    mailing
-    list](https://zh.wikipedia.org/wiki/electronic_mailing_list "wikilink")
-  - [OpenG](https://web.archive.org/web/20090118000856/http://openg.org/)
-    -
-    [Open-source](https://zh.wikipedia.org/wiki/Open-source "wikilink")
-    LabVIEW utilities.
-  - [The LabVIEW Wiki](http://wiki.lavag.org/) - A user editable LabVIEW
-    knowledge base powered by
-    [MediaWiki](../Page/MediaWiki.md "wikilink")。
-  - [Free, online LabVIEW programming
-    course](http://cnx.org/content/col10241/latest/) - This course was
-    authored by NI, and is hosted by
-    [Connexions](https://zh.wikipedia.org/wiki/Connexions "wikilink")。
-  - [LabVIEW user interfaces
-    Gallery](https://web.archive.org/web/20080706125835/http://forums.lavag.org/Carlos-Calderon-user8339-album77.html)
-    - These applications were designed and developed by [Carlos
-    Calderón](https://web.archive.org/web/20080804001628/http://forums.lavag.org/CarlosCalderon-m8339.html)
-  - [NI
-    LabVIEW 2010发行详情](http://www.ni.com/labview/release-archive/2010/zhs/)
-    - LabVIEW2010发行详情
+  - , National Instruments
 
 [Category:跨平台軟體](https://zh.wikipedia.org/wiki/Category:跨平台軟體 "wikilink")
 [Category:數值軟體](https://zh.wikipedia.org/wiki/Category:數值軟體 "wikilink")

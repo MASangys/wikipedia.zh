@@ -82,9 +82,9 @@ FamilyMart是以藍色和綠色作為品牌識別基調，主要傳達的印象�
 
 ### 非現金付款機制
 
-  - 日本：可以使用[樂天Edy卡](https://zh.wikipedia.org/wiki/Edy "wikilink")、[WAON卡和](../Page/永旺集團.md "wikilink")[Suica卡與](../Page/Suica.md "wikilink")[信用卡和](../Page/信用卡.md "wikilink")[银联卡結帳](../Page/中国银联.md "wikilink")（包括在
+  - 日本：可以使用[樂天Edy卡](https://zh.wikipedia.org/wiki/Edy "wikilink")、[WAON卡和](../Page/永旺集團.md "wikilink")[Suica卡與](../Page/Suica.md "wikilink")[信用卡結帳](../Page/信用卡.md "wikilink")（包括在
     [Apple Pay](https://zh.wikipedia.org/wiki/Apple_Pay "wikilink") 上绑定的
-    Suica）以及，微信扫码支付；[支付宝手机扫码支付](../Page/支付宝.md "wikilink")。
+    Suica）
   - 台灣：可以使用[悠遊卡](../Page/悠遊卡.md "wikilink")、[一卡通](https://zh.wikipedia.org/wiki/一卡通_\(台灣\) "wikilink")、[信用卡](../Page/信用卡.md "wikilink")(有限定銀行)、感應金融卡以及[中国银联以及結帳](../Page/中国银联.md "wikilink")；手機條碼支付。
   - 南韓：可以使用[T-money卡結帳](../Page/T-money.md "wikilink")。
   - 中国大陸：\[4\]

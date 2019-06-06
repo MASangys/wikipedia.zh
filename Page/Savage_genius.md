@@ -286,6 +286,7 @@ Project](https://zh.wikipedia.org/wiki/Solo_Project "wikilink")(單人組)。
 [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
 [Category:勝利娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:勝利娛樂旗下藝人 "wikilink")
 [Category:Flying_DOG旗下藝人](https://zh.wikipedia.org/wiki/Category:Flying_DOG旗下藝人 "wikilink")
+[Category:前研音所屬藝人](https://zh.wikipedia.org/wiki/Category:前研音所屬藝人 "wikilink")
 
 1.  OVA「機動戦士ガンダム MS-IGLOO2 重力戦線」主題歌
 2.  savage genius演唱的ＣＤ先行發售。

@@ -1,5 +1,4 @@
-**伯克利軟件套件**（，縮寫為BSD），也被稱為**伯克利Unix**（{{ lang|en|Berkeley
-Unix}}），是一個衍生自[Unix](https://zh.wikipedia.org/wiki/Unix "wikilink")（[類Unix](https://zh.wikipedia.org/wiki/類Unix "wikilink")）的[操作系统](../Page/操作系统.md "wikilink")，1970年代由[伯克利加州大學的學生](https://zh.wikipedia.org/wiki/伯克利加州大學 "wikilink")[比爾·喬伊](https://zh.wikipedia.org/wiki/比爾·喬伊 "wikilink")（Bill
+**伯克利軟件套件**（，縮寫：**BSD**；也被稱為**伯克利Unix**或）是一個衍生自[Unix](https://zh.wikipedia.org/wiki/Unix "wikilink")（[類Unix](https://zh.wikipedia.org/wiki/類Unix "wikilink")）的[操作系统](../Page/操作系统.md "wikilink")，1970年代由[伯克利加州大學的學生](https://zh.wikipedia.org/wiki/伯克利加州大學 "wikilink")[比爾·喬伊](https://zh.wikipedia.org/wiki/比爾·喬伊 "wikilink")（Bill
 Joy）開創，也被用來代表其衍生出的各種套件。
 
 [BSD许可证非常地寬鬆](../Page/BSD许可证.md "wikilink")，因此BSD常被當作[工作站級別的Unix系統](../Page/工作站.md "wikilink")，許多1980年代成立的計算機公司都從BSD中獲益，比較著名的例子如[DEC的](https://zh.wikipedia.org/wiki/DEC "wikilink")[Ultrix](https://zh.wikipedia.org/wiki/Ultrix "wikilink")，以及[Sun公司的](https://zh.wikipedia.org/wiki/昇陽 "wikilink")[SunOS](../Page/SunOS.md "wikilink")。
@@ -119,7 +118,7 @@ layer），在BSD操作系统上，可以運行相同構架下其他操作系统
       - [pfSense](http://www.pfsense.com/)
       - [FreeNAS](../Page/FreeNAS.md "wikilink")，一個基於FreeBSD的輕量級[NAS](../Page/網路附加儲存.md "wikilink")[伺服器](https://zh.wikipedia.org/wiki/伺服器 "wikilink")
       - [FreeSBIE項目](https://zh.wikipedia.org/wiki/FreeSBIE "wikilink")，提供FreeBSD各個發行版本的[Live
-        CD](../Page/Live_CD.md "wikilink")，類似於基於Linux的[Knoppix項目](https://zh.wikipedia.org/wiki/Knoppix "wikilink")
+        CD](../Page/Live_CD.md "wikilink")，類似於基於Linux的[Knoppix項目](../Page/Knoppix.md "wikilink")
       - Frenzy LiveCD，基於FreeBSD的Live CD項目，主要針對俄語用戶
       - BSDeviant，一個FreeBSD的Live CD項目，產生可以存在一張迷你CD-R上的系統
       - [m0n0wall是一個基於FreeBSD的](https://zh.wikipedia.org/wiki/m0n0wall "wikilink")[防火牆項目](https://zh.wikipedia.org/wiki/防火牆 "wikilink")

@@ -102,7 +102,8 @@ traversal）涉及[TCP/IP](https://zh.wikipedia.org/wiki/TCP/IP "wikilink")[网�
 
 ## 外部連結
 
-  - [NAT-Traversal Test](http://nattest.net.in.tum.de)
+  - [NAT-Traversal
+    Test](https://web.archive.org/web/20180817001123/http://nattest.net.in.tum.de/)
   - [How Skype & Co. get round
     firewalls](http://www.heise-online.co.uk/security/How-Skype-Co-get-round-firewalls--/features/82481)
   - [NAT

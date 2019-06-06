@@ -100,8 +100,6 @@ Lumiere）**」的發展型，同系統的基礎技術為民間非軍事組織D.
 
 ## 外部链接
 
-[ja:ストライクフリーダムガンダム](https://zh.wikipedia.org/wiki/ja:ストライクフリーダムガンダム "wikilink")
-
 [Category:C.E.兵器](https://zh.wikipedia.org/wiki/Category:C.E.兵器 "wikilink")
 
 1.  ガンダム パーフェクトファイル（デアゴスティーニ･ジャパン）

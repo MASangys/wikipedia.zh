@@ -265,13 +265,9 @@ Alt-F4 可關閉視窗），判定哪一個應用程式在啟動時執行等等�
     Managers*](https://web.archive.org/web/20070504233626/http://uebb.cs.tu-berlin.de/~magr/wm-review.en.html)
     - list of window managers with minimal comments (2004)
   - [*Software List:Window
-    Managers*](http://www.linuxsoft.cz/en/sw_list.php?id_kategory=5) -
-    list of window managers with summaries
+    Managers*](https://web.archive.org/web/20061210081721/http://www.linuxsoft.cz/en/sw_list.php?id_kategory=5)
+    - list of window managers with summaries
   - [名詞解釋：Matchbox](https://web.archive.org/web/20070927213651/http://www.emb-kb.com/doku.php/%E8%A9%9E%E8%A7%A3/matchbox)
-
-[cs:Window
-manager](https://zh.wikipedia.org/wiki/cs:Window_manager "wikilink")
-[fi:Ikkunointiohjelma](https://zh.wikipedia.org/wiki/fi:Ikkunointiohjelma "wikilink")
 
 [Category:X_視窗管理器](https://zh.wikipedia.org/wiki/Category:X_視窗管理器 "wikilink")
 [Category:X_Window系統](https://zh.wikipedia.org/wiki/Category:X_Window系統 "wikilink")

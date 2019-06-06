@@ -20,6 +20,7 @@ Lobby
 ## 交通
 
   - [首爾地鐵2號線](../Page/首爾地鐵2號線.md "wikilink")[三成站](../Page/三成站.md "wikilink")
+  - [首爾地鐵9號線](../Page/首爾地鐵9號線.md "wikilink")[奉恩寺站](../Page/奉恩寺站.md "wikilink")
 
 ## 參考資料
 

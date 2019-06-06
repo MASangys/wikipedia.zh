@@ -21,7 +21,7 @@ EIST技術由作業系統執行CPU頻率的調整，Windows XP及以上均提供
 \(P = C V^2 f.\)
 
   - P = Power（消耗功率）
-  - C = Current （電流）
+  - C = Capacitance（電容率）
   - V = Voltage （電壓）
   - f = frequency （頻率）
 

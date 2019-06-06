@@ -1,4 +1,4 @@
-**易安信公司**（；）為[美国一家跨国](../Page/美国.md "wikilink")[資訊科技企业](https://zh.wikipedia.org/wiki/資訊科技 "wikilink")，主要提供[数据存储](https://zh.wikipedia.org/wiki/数据存储 "wikilink")、[資訊安全](https://zh.wikipedia.org/wiki/資訊安全 "wikilink")、[虚拟化](https://zh.wikipedia.org/wiki/虚拟化 "wikilink")、[云计算等用于存储](https://zh.wikipedia.org/wiki/云计算 "wikilink")、管理、保护和分析大量数据的产品和服务。EMC公司创建于1979年，总部设在[马萨诸塞州](https://zh.wikipedia.org/wiki/马萨诸塞州 "wikilink")[霍普金顿市](https://zh.wikipedia.org/wiki/霍普金顿市 "wikilink")。
+**易安信公司**（；）為[美国一家跨国](../Page/美国.md "wikilink")[資訊科技企业](https://zh.wikipedia.org/wiki/資訊科技 "wikilink")，主要提供[数据存储](https://zh.wikipedia.org/wiki/云端储存 "wikilink")、[資訊安全](https://zh.wikipedia.org/wiki/資訊安全 "wikilink")、[虚拟化](https://zh.wikipedia.org/wiki/虚拟化 "wikilink")、[云计算等用于存储](https://zh.wikipedia.org/wiki/云计算 "wikilink")、管理、保护和分析大量数据的产品和服务。EMC公司创建于1979年，总部设在[马萨诸塞州](https://zh.wikipedia.org/wiki/马萨诸塞州 "wikilink")[霍普金顿市](https://zh.wikipedia.org/wiki/霍普金顿市 "wikilink")。
 
 2015年10月12日，易安信和[戴尔双方证实](https://zh.wikipedia.org/wiki/戴尔 "wikilink")，[迈克尔·戴尔](../Page/迈克尔·戴尔.md "wikilink")、MSD合伙公司（MSD
 Partners，迈克尔的家族公司）、银湖（Silver

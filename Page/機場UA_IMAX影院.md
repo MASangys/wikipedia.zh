@@ -26,7 +26,7 @@ Screen）由[香港機場管理局](../Page/香港機場管理局.md "wikilink")
 
   - 開幕儀式
 
-影館於2007年3月30日正式開幕，當日由[香港旅遊發展局主席](../Page/香港旅遊發展局.md "wikilink")[周梁淑怡和](../Page/周梁淑怡.md "wikilink")[演員](https://zh.wikipedia.org/wiki/演員 "wikilink")[莫文蔚等嘉賓戴上特製眼鏡觀看立體電影](../Page/莫文蔚.md "wikilink")。
+影館於2007年3月30日正式開幕，當日由[香港旅遊發展局主席](../Page/香港旅遊發展局.md "wikilink")[周梁淑怡和](../Page/周梁淑怡.md "wikilink")[演員](../Page/演員.md "wikilink")[莫文蔚等嘉賓戴上特製眼鏡觀看立體電影](../Page/莫文蔚.md "wikilink")。
 
 當日香港旅遊發展局主席周梁淑怡認為該影院是繼[香港迪士尼樂園和](../Page/香港迪士尼樂園.md "wikilink")[東涌](https://zh.wikipedia.org/wiki/東涌 "wikilink")[纜車](https://zh.wikipedia.org/wiki/纜車 "wikilink")[昂坪360後](../Page/昂坪360.md "wikilink")，另一個[大嶼山的旅遊新景點](../Page/大嶼山.md "wikilink")，相信能夠吸引更多市民及旅客來訪。香港國際機場機場地產業務總經理楊嘉倫認為，影館可吸引旅客在轉機和候機途中花上15分鐘入場。同時認為現時通往機場的交通十分方便，影館亦可吸引市民到翔天廊。
 

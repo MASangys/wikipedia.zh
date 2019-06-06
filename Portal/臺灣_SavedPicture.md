@@ -78,7 +78,7 @@
 [Taipei_Metro_official_map_2018_optimised.png](https://zh.wikipedia.org/wiki/File:Taipei_Metro_official_map_2018_optimised.png "fig:Taipei_Metro_official_map_2018_optimised.png")
 **臺北都會區大眾捷運系統**，簡稱**臺北捷運**、**北捷**，是服務[臺北都會區的](../Page/臺北都會區.md "wikilink")[大眾捷運系統](../Page/城市軌道交通.md "wikilink")，路網範圍涵蓋[臺北市](../Page/臺北市.md "wikilink")、[新北市與](https://zh.wikipedia.org/wiki/新北市 "wikilink")[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")，為[臺灣第一座投入營運](../Page/臺灣.md "wikilink")、也是規模最大的[捷運系統](../Page/捷運.md "wikilink")，主要功能為紓解[臺北交通長期以來的](https://zh.wikipedia.org/wiki/臺北交通 "wikilink")[交通堵塞問題](../Page/交通堵塞.md "wikilink")，並藉以改善都市動線和機能，促進[臺北市區和其周邊](https://zh.wikipedia.org/wiki/臺北市區 "wikilink")[衛星市鎮繁榮發展](../Page/衛星城市.md "wikilink")。營運單位為[臺北捷運公司](https://zh.wikipedia.org/wiki/臺北捷運公司 "wikilink")，工程興建單位則是由[臺北市政府捷運工程局負責](https://zh.wikipedia.org/wiki/臺北市政府捷運工程局 "wikilink")，新北市境內部分路線另由[新北市政府捷運工程局負責規劃](../Page/新北市政府捷運工程局.md "wikilink")。自1996年3月28日開始營運以來，目前共有5條主要路線與2條單站支線，路線里程136.6公里、營運里程131.1公里，營運車站共117站，乃臺北都會區的[交通骨幹](../Page/交通.md "wikilink")。圖為臺北捷運營運路線圖。
 
-[了解更多...](https://zh.wikipedia.org/wiki/臺北捷運 "wikilink")
+[了解更多...](../Page/臺北捷運.md "wikilink")
 
 ## 2015年4月4日
 

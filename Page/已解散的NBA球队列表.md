@@ -185,7 +185,7 @@ League，簡稱：**NPBL**）。巴尔的摩子弹是最后离开NBA的球队，
 <tr class="odd">
 <td><p><a href="../Page/滑铁卢老鹰.md" title="wikilink">滑铁卢老鹰</a></p></td>
 <td><p>Waterloo Hawks</p></td>
-<td><p><a href="../Page/艾奥瓦州.md" title="wikilink">艾奥瓦州</a><a href="https://zh.wikipedia.org/wiki/滑铁卢_(艾奥瓦州)" title="wikilink">滑铁卢</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/愛荷華州" title="wikilink">愛荷華州</a><a href="https://zh.wikipedia.org/wiki/滑铁卢_(愛荷華州)" title="wikilink">滑铁卢</a></p></td>
 <td><p>1949–1950</p></td>
 <td><p>1</p></td>
 <td><p>19–43</p></td>

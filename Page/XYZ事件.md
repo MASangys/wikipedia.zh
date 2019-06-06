@@ -12,11 +12,12 @@
 ## 经过
 
 [Talleyrand-perigord.jpg](https://zh.wikipedia.org/wiki/File:Talleyrand-perigord.jpg "fig:Talleyrand-perigord.jpg")
-1797年10月，美国外交代表团来到巴黎，但[法国督政府的外交部长](https://zh.wikipedia.org/wiki/法国督政府 "wikilink")[塔列朗避而不见](https://zh.wikipedia.org/wiki/塔列朗 "wikilink")，而是安排三个法国代理人Jean
+1797年10月，美国外交[使節團来到巴黎](https://zh.wikipedia.org/wiki/使節團 "wikilink")，但[法国督政府的外交部长](https://zh.wikipedia.org/wiki/法国督政府 "wikilink")[塔列朗避而不见](https://zh.wikipedia.org/wiki/塔列朗 "wikilink")，而是安排三个法国代理人Jean
 Conrad Hottinguer、Pierre Bellamy和Lucien
-Hauteval与其见面。这三个法国代理人向美国代表团索取5万英镑的巨额贿赂，以换取他们與塔列朗会谈的机会；又要求美国提供3200万[荷兰盾](../Page/荷兰盾.md "wikilink")（约合1200万美元）的巨额贷款，资助法国在欧洲的战争，作为继续谈判的条件；他们还要求亚当斯对他批评法国大革命的言论进行正式道歉\[1\]。查尔斯·科茨沃斯·平克尼、约翰·马歇尔和埃尔布里奇·格里拒绝了这些带有侮辱性质的条件，并向[亚当斯回函进行了详细汇报](../Page/约翰·亚当斯.md "wikilink")。面对法国代理人的傲慢无礼，美国代表回复道：“六便士也不会给”（英语：*Not
-a sixpence*），当时的报纸报道“宁可花费百万防御，也不贿赂一分！”（英语：*Millions for defense, but not
-one cent for
+Hauteval与其见面。这三个法国代理人向美国代表团索取5万英镑的巨额贿赂，以换取他们與塔列朗会谈的机会；又要求美国提供3200万[荷兰盾](../Page/荷兰盾.md "wikilink")（當時，1荷兰盾約等於0.385美元，约合1232万美元，1美元約等於1[銀圓](../Page/銀圓.md "wikilink")）的巨额贷款，资助法国在欧洲的战争，作为继续谈判的条件；他们还要求亚当斯对他批评法国大革命的言论进行正式道歉\[1\]。查尔斯·科茨沃斯·平克尼、约翰·马歇尔和埃尔布里奇·格里拒绝了这些带有侮辱性质的条件，并向[亚当斯回函进行了详细汇报](../Page/约翰·亚当斯.md "wikilink")。面对法国代理人的傲慢无礼，美国代表回复道：“連一枚[六便士硬幣也不会给](../Page/六便士.md "wikilink")”（六便士，英语：*Not
+a
+sixpence*，相當於0.025英鎊），当时的报纸报道“宁可花個幾百萬來防備，也不花一[分來行贿](https://zh.wikipedia.org/wiki/分_\(貨幣單位\) "wikilink")！”（英语：*Millions
+for defense, but not one cent for
 tribute\!*）\[2\]。在谈判中，美国提供给法国以英国在杰伊条约中相同的待遇，但作为回应，法国却中止了谈判并将平克尼和马歇尔送回了美国，格里留在法国试图阻止战争的爆发，但他并没有得到进一步正式谈判的机会。
 
 谈判失败后，包括副总统[杰斐逊在内的反对对法宣战的民主共和党人](../Page/托马斯·杰斐逊.md "wikilink")，认为代表团应当对谈判的失败承担责任，又认为亚当斯是在夸大这一事件，以作为对法国宣战的借口，他们要求阅读外交代表团的回函，为了避嫌，亚当斯不得不在1798年4月公开了这些保密的外交文件，只是在给国会的咨文中将三个法国代理人分别称为X、Y和Z，此外交事件因而得名“XYZ事件”。

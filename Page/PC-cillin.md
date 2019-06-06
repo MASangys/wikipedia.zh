@@ -198,9 +198,6 @@ PC-cillin 雲端版是由[趨勢科技Trend Micro](../Page/趨勢科技.md "wiki
     下載](https://www.trendmicro.com/zh_tw/forHome/trial.html)
   - [主動式雲端截毒技術](http://www.trendmicro.com.tw/spn/index.asp)
 
-[fa:شرکت ترند ماکرو - پی سی
-سیلین](https://zh.wikipedia.org/wiki/fa:شرکت_ترند_ماکرو_-_پی_سی_سیلین "wikilink")
-
 [Category:安全軟體](https://zh.wikipedia.org/wiki/Category:安全軟體 "wikilink")
 [Category:防火牆軟體](https://zh.wikipedia.org/wiki/Category:防火牆軟體 "wikilink")
 [Category:雲端運算](https://zh.wikipedia.org/wiki/Category:雲端運算 "wikilink")

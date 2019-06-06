@@ -2,7 +2,7 @@
 
 ## 概要
 
-1984年6月1日，由身兼[演員](https://zh.wikipedia.org/wiki/演員 "wikilink")、[聲優的](../Page/聲優.md "wikilink")**[內海賢二](../Page/內海賢二.md "wikilink")**代表創辦，而內海的妻子——聲優**[野村道子](../Page/野村道子.md "wikilink")**也是該經紀公司的職員。後來，內海辭去賢Production社長轉任主席，現任社長由兒子[內海賢太郎就任](https://zh.wikipedia.org/wiki/內海賢太郎 "wikilink")。
+1984年6月1日，由身兼[演員](../Page/演員.md "wikilink")、[聲優的](../Page/聲優.md "wikilink")**[內海賢二](../Page/內海賢二.md "wikilink")**代表創辦，而內海的妻子——聲優**[野村道子](../Page/野村道子.md "wikilink")**也是該經紀公司的職員。後來，內海辭去賢Production社長轉任主席，現任社長由兒子[內海賢太郎就任](https://zh.wikipedia.org/wiki/內海賢太郎 "wikilink")。
 
 2007年9月1日，賢Production從有限公司登記成為[株式會社](https://zh.wikipedia.org/wiki/株式會社 "wikilink")（股份有限公司）。
 

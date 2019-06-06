@@ -1,14 +1,14 @@
-是[日本](../Page/日本.md "wikilink")[世嘉在](../Page/世嘉.md "wikilink")1988年推出的16-bit家用遊戲機，1989年在美國推出。
+是[世嘉在](../Page/世嘉.md "wikilink")1988年推出的[16-bit家用遊戲機](https://zh.wikipedia.org/wiki/16-bit "wikilink")，1989年在[美國推出](https://zh.wikipedia.org/wiki/美國 "wikilink")。
 
 Mega
-Drive在全球共售出3075万台。此外[Tectoy在巴西售出大约](https://zh.wikipedia.org/wiki/Tectoy "wikilink")300万台授权的兼容机。Majesco估計在美国共售出150万台授权的兼容机。
+Drive在全球共售出3075万台。此外[Tectoy在](https://zh.wikipedia.org/wiki/Tectoy "wikilink")[巴西售出大约](../Page/巴西.md "wikilink")300万台授权的兼容机。Majesco估計在美国共售出150万台授权的兼容机。
 
 ## 历史
 
 [JP_MegaDrive_Logo.gif](https://zh.wikipedia.org/wiki/File:JP_MegaDrive_Logo.gif "fig:JP_MegaDrive_Logo.gif")
 
-1988年10月29日，世嘉在日本地区发行了Mega
-Drive。尽管推出之时，被一周前任天堂发行的《[超級瑪利歐兄弟3](../Page/超級瑪利歐兄弟3.md "wikilink")》的风头所遮盖，但是《Fami通》和《Beep\!》杂志的正面评价而使Mega
+1988年10月29日，世嘉在日[本地区发行了Mega](https://zh.wikipedia.org/wiki/本 "wikilink")
+Drive。尽管推出之时，被一周前[任天堂发行的](../Page/任天堂.md "wikilink")《[超級瑪利歐兄弟3](../Page/超級瑪利歐兄弟3.md "wikilink")》的风头所遮盖，但是《[Fami通](../Page/Fami通.md "wikilink")》和《Beep\!》杂志的正面评价而使Mega
 Drive得以继续。不过发行的第一年，世嘉仅售出40万台。
 
 ## 技术规格
@@ -17,10 +17,11 @@ Drive得以继续。不过发行的第一年，世嘉仅售出40万台。
 [Mega_Drive_mboard.jpg](https://zh.wikipedia.org/wiki/File:Mega_Drive_mboard.jpg "fig:Mega_Drive_mboard.jpg")\]\]
 [SMD2mobo.jpg](https://zh.wikipedia.org/wiki/File:SMD2mobo.jpg "fig:SMD2mobo.jpg")\]\]
 
-游戏机的主处理器是一个16/32位，时钟频率7.67MHz的[摩托罗拉
+游戏机的主处理器是一个16/[32位](https://zh.wikipedia.org/wiki/32位 "wikilink")，時脈7.67MHz的[摩托罗拉
 68000CPU](../Page/摩托罗拉_68000.md "wikilink")。\[1\]此外还使用Zilog
-Z80次处理器(時脈3.58MHz)。主要是用来控制声音硬件和用来向下兼容世嘉Master System。系统拥有72kB RAM和64
-kB显存。能够一次从512个调色板中显示最多至61个颜色。\[2\]游戏是卡带模式，可以从上面插入。
+Z80次处理器(時脈3.58MHz)。主要是用来控制声音硬件和用来向下兼容世嘉Master
+System。系统拥有72kB
+[RAM和](https://zh.wikipedia.org/wiki/隨機存取記憶體 "wikilink")64kB[显存](../Page/显存.md "wikilink")。能够一次从512个[调色板中显示最多至](https://zh.wikipedia.org/wiki/調色盤_\(電腦圖形學\) "wikilink")61个颜色。\[2\]游戏是[卡带模式](https://zh.wikipedia.org/wiki/卡带 "wikilink")，可以从上面插入。
 
 ### 解析度
 

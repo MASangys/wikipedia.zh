@@ -142,7 +142,7 @@ SK曾经在下面的比赛中取得过前三名：
 
   - Nils "niLssoN" Nolting
 
-### 絕對武力：全球攻勢<已轉至miBR戰隊>
+### 絕對武力：全球攻勢<已轉至MIBR戰隊>
 
   - Gabriel "FalleN" Toledo
 
@@ -150,9 +150,9 @@ SK曾经在下面的比赛中取得过前三名：
 
   - Marcelo "coldzera" David
 
-  - Jacky "Stewie2K" Yip
+  - Epitacio "TACO" de Melo
 
-  - Ricardo "boltz" Prass
+  - João "felps" Vasconcellos
 
 ## 著名隊員
 

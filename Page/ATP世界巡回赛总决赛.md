@@ -650,7 +650,7 @@ RR: Round Robin</span>
 ## 外部链接
 
   - [官方網站](http://www.barclaysatpworldtourfinals.com/)
-  - [ATP球星](http://www.taimo.cn/star.html)
+  - [ATP球星](https://web.archive.org/web/20111122151028/http://www.taimo.cn/star.html)
 
 [Category:ATP世界巡迴賽總決賽](https://zh.wikipedia.org/wiki/Category:ATP世界巡迴賽總決賽 "wikilink")
 [Category:ATP巡迴賽](https://zh.wikipedia.org/wiki/Category:ATP巡迴賽 "wikilink")

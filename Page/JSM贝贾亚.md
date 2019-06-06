@@ -4,6 +4,7 @@ de l'Unité Maghrébine）。
 
 ## 外部链接
 
-  - [Official Site](http://www.jsmbejaia.com)
+  - [Official
+    Site](https://web.archive.org/web/20190419115036/http://jsmbejaia.com/)
 
 [Category:阿尔及利亚足球俱乐部](https://zh.wikipedia.org/wiki/Category:阿尔及利亚足球俱乐部 "wikilink")

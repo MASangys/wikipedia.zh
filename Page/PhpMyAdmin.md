@@ -84,8 +84,9 @@ Server伺服器](https://zh.wikipedia.org/wiki/SQL_Server "wikilink")。
   - [Documentation and
     FAQ](https://github.com/phpmyadmin/phpmyadmin/wiki) (official Wiki)
   - [PhpMyAdmin
-    Tutorials](http://www.webhosting.uk.com/phpmyadmin-tutorials.php) -
-    Learn how to use this database management system to manage the DBs.
+    Tutorials](https://web.archive.org/web/20080119183202/http://www.webhosting.uk.com/phpmyadmin-tutorials.php)
+    - Learn how to use this database management system to manage the
+    DBs.
   - [phpMyAdmin WEB DEMO線上展示](https://www.phpmyadmin.net/try/)
 
 {{-}}

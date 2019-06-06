@@ -121,7 +121,7 @@ WAPI产业联盟成立于2006年3月7日。\[16\]
 17. [理事成员](http://www.wapia.org/members/default.shtml). WAPI产业联盟
 18. [WiFi圈地之战](http://www.infzm.com/content/62143)  -
     [南方周末](../Page/南方周末.md "wikilink")
-19. [WAPI是什么？WAPI和WIFI是否兼容？](http://www.tompda.com/article/?9440) -
+19. [WAPI是什么？WAPI和WIFI是否兼容？](http://www.tompda.com/article/?9440)  -
     TOMPDA
 20. [邢胜才在《中国知识产权报》记者（通联）站工作会议上的讲话](http://www.sipo.gov.cn/mtjj/2006/200804/t20080401_361961.html)
 

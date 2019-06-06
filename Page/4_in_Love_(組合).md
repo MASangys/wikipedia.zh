@@ -2,7 +2,7 @@
 Love**是[台灣的四人女子組合](https://zh.wikipedia.org/wiki/台灣 "wikilink")，於2000年成軍，成員包括[冷嘉琳](https://zh.wikipedia.org/wiki/冷嘉琳 "wikilink")、[黃小柔](../Page/黃小柔.md "wikilink")、[楊丞琳和](../Page/楊丞琳.md "wikilink")[張棋惠](../Page/張棋惠.md "wikilink")，共發行過兩張專輯，於2002年宣布解散。
 
 2018年2月，在楊丞琳《青春住了誰》世界巡迴演唱香港站演出。這是解散16年後，4 in
-Love在香港[紅館再度同台演出](https://zh.wikipedia.org/wiki/紅館 "wikilink")。也是冷嘉琳自2002年退出演藝圈後第一次踏上舞台。\[1\]
+Love在香港\[\[紅館再度同台演出。也是冷嘉琳自2002年退出演藝圈後第一次踏上舞台。\[1\]
 
 ## 成員列表
 

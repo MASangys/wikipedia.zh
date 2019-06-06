@@ -55,11 +55,6 @@ Moden　編曲：[長岡成貢](https://zh.wikipedia.org/wiki/長岡成貢 "wiki
 </tbody>
 </table>
 
-[en:Signal (KAT-TUN
-song)](https://zh.wikipedia.org/wiki/en:Signal_\(KAT-TUN_song\) "wikilink")
-[ja:SIGNAL
-(KAT-TUNの曲)](https://zh.wikipedia.org/wiki/ja:SIGNAL_\(KAT-TUNの曲\) "wikilink")
-
 [Category:2006年單曲](https://zh.wikipedia.org/wiki/Category:2006年單曲 "wikilink")
 [Category:KAT-TUN歌曲](https://zh.wikipedia.org/wiki/Category:KAT-TUN歌曲 "wikilink")
 [Category:廣告歌曲](https://zh.wikipedia.org/wiki/Category:廣告歌曲 "wikilink")

@@ -91,8 +91,6 @@ MAG](../Page/FN_MAG通用機槍.md "wikilink")（[M240](../Page/M240通用機槍
   -
   -
   -
-  - ：Zastava M84通用機槍
-
   -
   -
   -
@@ -108,6 +106,8 @@ MAG](../Page/FN_MAG通用機槍.md "wikilink")（[M240](../Page/M240通用機槍
   -
   -
   - ：82式通用機槍
+
+  - ：包括Zastava M84通用機槍
 
   -
   -

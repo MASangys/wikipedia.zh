@@ -72,6 +72,12 @@ libevent提供了一組[應用程序編程接口](https://zh.wikipedia.org/wiki/
     similar
     library](http://libev.schmorp.de/bench.html)，libevent与一个类似的库libev之间比较的基准测试程序
 
+## 替代品
+
+  - [libev](http://software.schmorp.de/pkg/libev.html)
+  - [libuv](https://zh.wikipedia.org/wiki/libuv "wikilink")
+  - [inotify](https://zh.wikipedia.org/wiki/inotify "wikilink")
+
 [Category:事件_(计算机)](https://zh.wikipedia.org/wiki/Category:事件_\(计算机\) "wikilink")
 [Category:自由發展元件與函式庫](https://zh.wikipedia.org/wiki/Category:自由發展元件與函式庫 "wikilink")
 [Category:C函式庫](https://zh.wikipedia.org/wiki/Category:C函式庫 "wikilink")

@@ -53,7 +53,8 @@ Desktop 02（於2005年12月23日）基於GNOME 2.12。
 
   - [Sun Java Desktop
     System](https://web.archive.org/web/20041215060534/http://wwws.sun.com/software/javadesktopsystem/)
-  - [Java.net上的Java Desktop社群](http://www.javadesktop.org/)
+  - [Java.net上的Java
+    Desktop社群](https://web.archive.org/web/20070425210441/http://www.javadesktop.org/)
   - [OpenSolaris上的Java Desktop
     System社群](https://archive.is/20121209032612/http://www.opensolaris.org/os/community/desktop/communities/jds/)
   - [OS News的評論](http://www.osnews.com/story.php?news_id=5286)－2003年12月

@@ -1,7 +1,7 @@
 **KdV方程**是1895年由荷兰数学家和共同发现的一种[偏微分方程](../Page/偏微分方程.md "wikilink")（也有人称之为**科特韦格-德弗里斯方程**，但一般都习惯直接叫KdV方程）。关于实自变量*x*
 和*t* 的[函数φ所满足的KdV方程形式如下](../Page/函数.md "wikilink")：
 
-\[\partial_t\phi+6\phi\partial_x\phi+\partial^3_x\phi=0\]
+\[\partial_t\phi-6\phi\partial_x\phi+\partial^3_x\phi=0\]
 
 KdV方程的解为簇集的[孤立子](https://zh.wikipedia.org/wiki/孤立子 "wikilink")（又称**孤子**，**孤波**）。
 

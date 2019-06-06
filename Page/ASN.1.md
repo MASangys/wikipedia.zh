@@ -26,7 +26,7 @@ ASN.1
 描述它们交互的[协议数据单元](https://zh.wikipedia.org/wiki/PDU "wikilink")。在[UMTS的接入和非接入层也有广泛的应用](https://zh.wikipedia.org/wiki/UMTS "wikilink")。
 ASN.1的其他应用领域参见此处[1](https://web.archive.org/web/20051023024910/http://asn1.elibel.tm.fr/en/uses/index.htm)。
 
-这里\[[http://asn1.elibel.tm.fr/links/\#tools\]列举了很多ASN.1的自由或者商业的工具](http://asn1.elibel.tm.fr/links/#tools%5D列举了很多ASN.1的自由或者商业的工具)。
+这里\[[https://web.archive.org/web/20051023025313/http://asn1.elibel.tm.fr/links/\#tools\]列举了很多ASN.1的自由或者商业的工具](https://web.archive.org/web/20051023025313/http://asn1.elibel.tm.fr/links/#tools%5D列举了很多ASN.1的自由或者商业的工具)。
 
 ## 範例
 
@@ -147,7 +147,7 @@ octets:
   - [ASN.1
     相关站点](https://web.archive.org/web/20051213194224/http://asn1.elibel.tm.fr/)
   - [参考资料](https://web.archive.org/web/20051023030019/http://asn1.elibel.tm.fr/fr/biblio/index.htm)
-  - [其他](http://asn1.elibel.tm.fr/links/)
+  - [其他](https://web.archive.org/web/20051023025313/http://asn1.elibel.tm.fr/links/)
   - [ASN.1教程](https://web.archive.org/web/20051023025752/http://asn1.elibel.tm.fr/en/tools/tutorial/)
   - [微軟知識庫 《XGEN: A 简短简介 BER 和
     ASN 1》](http://support.microsoft.com/?scid=kb%3Bzh-cn%3B252648&x=12&y=9)

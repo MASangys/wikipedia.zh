@@ -112,7 +112,7 @@ TVBS新聞部位於TVBS「[內湖大樓](../Page/TVBS企業總部.md "wikilink")
 | [畢倩涵](https://zh.wikipedia.org/wiki/畢倩涵 "wikilink") |
 |        \-{[藍于洺](../Page/藍于洺.md "wikilink")}-        |
 | [呂蓓君](https://zh.wikipedia.org/wiki/呂蓓君 "wikilink") |
-|                                                     |
+| [韋家齊](https://zh.wikipedia.org/wiki/韋家齊 "wikilink") |
 
 ## 前任TVBS新聞部人員
 
@@ -154,7 +154,7 @@ TVBS新聞部位於TVBS「[內湖大樓](../Page/TVBS企業總部.md "wikilink")
   - [黃凱聖](https://zh.wikipedia.org/wiki/黃凱聖 "wikilink")
   - [王雅麗](https://zh.wikipedia.org/wiki/王雅麗 "wikilink")
   - [張恆芝](https://zh.wikipedia.org/wiki/張恆芝 "wikilink")
-  - [李晶玉](../Page/李晶玉.md "wikilink")（曾任[民視新聞台](../Page/民視新聞台.md "wikilink")[政經看民視主持人](../Page/政經看民視.md "wikilink"))
+  - [李晶玉](../Page/李晶玉.md "wikilink")（現任網路節目[政經關不了主持人](../Page/政經關不了.md "wikilink"))
   - [王淑麗](../Page/王淑麗.md "wikilink")（現任[東森新聞台當家氣象主播](../Page/東森新聞台.md "wikilink")）
   - [王薇](../Page/王薇_\(台灣主播\).md "wikilink")（前[華視](https://zh.wikipedia.org/wiki/華視 "wikilink")、[三立](https://zh.wikipedia.org/wiki/三立 "wikilink")、[東森主播](https://zh.wikipedia.org/wiki/東森 "wikilink")）
   - [蔡郁潔](https://zh.wikipedia.org/wiki/蔡郁潔 "wikilink")（前華視、東森主播）

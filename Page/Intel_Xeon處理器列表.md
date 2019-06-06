@@ -8350,6 +8350,42 @@ G0</p></td>
 </tbody>
 </table>
 
+## 基於Cascade Laket微架構的Xeon
+
+### "Cascade Lake-SP" (14 nm) 效能
+
+  - 支援12條
+    [DIMM的](../Page/DIMM.md "wikilink")[DDR4](https://zh.wikipedia.org/wiki/DDR4 "wikilink")
+    記憶體
+  - Xeon Platinum 支援單一主板八枚; Xeon Gold支援四枚; Xeon Silver 和 Bronze 支援兩枚
+  - No suffix letter: 超過 1.5TB DDR4 記憶體定址能力(每一CPU)
+  - \-M: 中等 DDR 記憶體 tier支援(超 2.0TB)
+  - \-L: 大型DDR 記憶體 tier支援 (超4.5TB)
+  - \-N: Network & NFV specialized
+  - \-T: High thermal-case and extended reliability
+  - \-Y: 速度可選
+  - \-V: VM density value specialized
+  - \-S: Search value specialized
+  - \-U: Uniprocessor
+
+#### Xeon Gold (uniprocessor)
+
+#### Xeon Bronze 和 Silver (雙處理器)
+
+#### Xeon Gold (四處理器)
+
+#### Xeon Platinum (八处理器)
+
+### "Cascade Lake-AP" (14 nm) 高效能
+
+  - 支援單一主板两枚
+  - 每一封装有双实体处理器
+
+#### Xeon Platinum (双处理器)
+
+These processors are not available to purchase individually and are
+offered as apart of complete systems by Intel.\[65\]
+
 ## 參考來源
 
 ## 外部連結
@@ -8499,3 +8535,5 @@ G0</p></td>
 
 64. (2016, Jun). Retrieved September 27, 2016, from
     <http://intel.com/content/www/us/en/processors/core/desktop-6th-gen-core-family-spec-update.html>
+
+65.

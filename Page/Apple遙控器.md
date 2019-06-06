@@ -92,7 +92,7 @@ Apple Remote 直至听到咔嚓声即可。
   - [Apple — iMac — Front
     Row](https://web.archive.org/web/20061017103154/http://www.apple.com/imac/frontrow.html)
   - [Apple — Mac mini — Front
-    Row](http://www.apple.com/macmini/frontrow.html)
+    Row](https://web.archive.org/web/20090301231916/http://www.apple.com/macmini/frontrow.html)
   - [Apple — MacBook Pro — Front
     Row](http://www.apple.com/macbookpro/frontrow.html)
   - [Apple — MacBook — Front

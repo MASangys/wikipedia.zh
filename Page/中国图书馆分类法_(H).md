@@ -7,7 +7,7 @@
 ::\*H019
 [朗诵法](https://zh.wikipedia.org/wiki/朗诵法 "wikilink")、[演讲术](https://zh.wikipedia.org/wiki/演讲术 "wikilink")
 
-:\*H02 [文字学](https://zh.wikipedia.org/wiki/文字学 "wikilink")
+:\*H02 [文字学](../Page/文字学.md "wikilink")
 
 :\*H03
 [语义学](../Page/语义学.md "wikilink")、[词汇学](https://zh.wikipedia.org/wiki/词汇学 "wikilink")、[词义学](https://zh.wikipedia.org/wiki/词义学 "wikilink")
@@ -39,7 +39,7 @@
 :\*H11
 [语音](https://zh.wikipedia.org/wiki/语音 "wikilink")（[音韵学](https://zh.wikipedia.org/wiki/音韵学 "wikilink")）
 
-:\*H12 [文字学](https://zh.wikipedia.org/wiki/文字学 "wikilink")
+:\*H12 [文字学](../Page/文字学.md "wikilink")
 
 :::\*H125.4 拼音读物
 

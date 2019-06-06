@@ -55,3 +55,4 @@ coherency的問題](https://zh.wikipedia.org/wiki/Cache_coherency "wikilink")。
 
 [Category:开放源代码](https://zh.wikipedia.org/wiki/Category:开放源代码 "wikilink")
 [Category:電腦記憶體](https://zh.wikipedia.org/wiki/Category:電腦記憶體 "wikilink")
+[Category:键-值数据库](https://zh.wikipedia.org/wiki/Category:键-值数据库 "wikilink")

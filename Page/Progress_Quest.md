@@ -103,8 +103,9 @@ Generator）](http://terror.snm-hgkz.ch/pq/?mode=generate)。
   - [Progress Quest
     Companion](https://archive.is/20121130051028/http://64.33.111.19/pq/)
     — Fan site (out of date)
-  - [Progress Quest Stats Macro Tool](http://www.acdev.org/pqsmt/) — For
-    rolling character stats
+  - [Progress Quest Stats Macro
+    Tool](https://web.archive.org/web/20070928045516/http://www.acdev.org/pqsmt/)
+    — For rolling character stats
   - [Progress Quest spell
     conversions](http://www.zen27196.zen.co.uk/dmtools/pq_spells.html)
     for use with [Dungeons &

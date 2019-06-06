@@ -60,7 +60,7 @@ fork的一些版本，即Opera
 
 [Category:2003年軟體](https://zh.wikipedia.org/wiki/Category:2003年軟體 "wikilink")
 [Category:網際網路的歷史](https://zh.wikipedia.org/wiki/Category:網際網路的歷史 "wikilink")
-[Category:Opera_Software](https://zh.wikipedia.org/wiki/Category:Opera_Software "wikilink")
+[Category:Opera浏览器](https://zh.wikipedia.org/wiki/Category:Opera浏览器 "wikilink")
 [Category:排版引擎](https://zh.wikipedia.org/wiki/Category:排版引擎 "wikilink")
 
 1.

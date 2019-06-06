@@ -153,7 +153,7 @@ Lau為技術總監，是一位熱心義工，他在[投資銀行工作](https://
 今晚開你波(暫代主持)<br />
 毓民射馬<br />
 那些年（已完結）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/時事評論員" title="wikilink">時事評論員</a>、<a href="../Page/癲狗日報.md" title="wikilink">癲狗日報</a>、<a href="../Page/普羅政治學苑.md" title="wikilink">普羅政治學苑創辦人</a>[20]及校長[21]。曾任<a href="https://zh.wikipedia.org/wiki/立法會議員" title="wikilink">立法會議員</a>(2008-2016)。並為<a href="../Page/人民力量.md" title="wikilink">人民力量創黨主席</a>（已退黨）、<a href="../Page/社會民主連線.md" title="wikilink">社會民主連線創黨主席</a>（已退黨）。</p></td>
+<td><p><a href="../Page/中國國民黨.md" title="wikilink">中國國民黨黨員</a>、<a href="https://zh.wikipedia.org/wiki/時事評論員" title="wikilink">時事評論員</a>、<a href="../Page/癲狗日報.md" title="wikilink">癲狗日報</a>、<a href="../Page/普羅政治學苑.md" title="wikilink">普羅政治學苑創辦人</a>[20]及校長[21]。曾任<a href="https://zh.wikipedia.org/wiki/立法會議員" title="wikilink">立法會議員</a>(2008-2016)。並為<a href="../Page/人民力量.md" title="wikilink">人民力量創黨主席</a>（已退黨）、<a href="../Page/社會民主連線.md" title="wikilink">社會民主連線創黨主席</a>（已退黨）。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/梁錦祥.md" title="wikilink">梁錦祥</a>（台長）</p></td>
@@ -191,7 +191,7 @@ MyUniversity<br />
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/宋景輝" title="wikilink">宋景輝</a></p></td>
 <td><p>天天天藍</p></td>
-<td><p>中國國民黨黨員。前屯門<a href="https://zh.wikipedia.org/wiki/區議員" title="wikilink">區議員</a>。</p></td>
+<td><p>中國國民黨黨員、前屯門<a href="https://zh.wikipedia.org/wiki/區議員" title="wikilink">區議員</a>。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/張三_(香港)" title="wikilink">張三</a></p></td>
@@ -234,13 +234,13 @@ MyUniversity<br />
 <td><p><a href="../Page/陳浩天.md" title="wikilink">陳浩天</a></p></td>
 <td><p>合眾唯識(已完結)<br />
 本土最前線</p></td>
-<td><p><a href="../Page/香港民族黨.md" title="wikilink">香港民族黨召集人</a></p></td>
+<td><p>前<a href="../Page/香港民族黨.md" title="wikilink">香港民族黨召集人</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/周浩輝.md" title="wikilink">周浩輝</a></p></td>
 <td><p>合眾唯識(已完結)<br />
 本土最前線</p></td>
-<td><p><a href="../Page/香港民族黨.md" title="wikilink">香港民族黨發言人</a></p></td>
+<td><p>前<a href="../Page/香港民族黨.md" title="wikilink">香港民族黨發言人</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>

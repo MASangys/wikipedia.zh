@@ -88,6 +88,7 @@ VLC在[聖誕節的前後各一週](https://zh.wikipedia.org/wiki/聖誕節 "wik
 [Category:自由軟體](https://zh.wikipedia.org/wiki/Category:自由軟體 "wikilink")
 [Category:跨平台軟體](https://zh.wikipedia.org/wiki/Category:跨平台軟體 "wikilink")
 [Category:自由跨平台軟體](https://zh.wikipedia.org/wiki/Category:自由跨平台軟體 "wikilink")
+[Category:使用LGPL许可证的软件](https://zh.wikipedia.org/wiki/Category:使用LGPL许可证的软件 "wikilink")
 [Category:使用Qt的軟體](https://zh.wikipedia.org/wiki/Category:使用Qt的軟體 "wikilink")
 [Category:苹果设计奖获奖作品](https://zh.wikipedia.org/wiki/Category:苹果设计奖获奖作品 "wikilink")
 [Category:多媒体框架](https://zh.wikipedia.org/wiki/Category:多媒体框架 "wikilink")

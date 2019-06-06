@@ -102,7 +102,7 @@ Ronald Aylmer Fisher）发扬光大，為了感謝戈塞的功勞，費雪将此
 
 ## 学生*t*-分布置信区间的推导
 
-假设数量*A*在当*T*呈*t*-分布（*T*的[自由度为](https://zh.wikipedia.org/wiki/自由度 "wikilink")*n* − 1）满足
+假设数量*A*在当*T*呈*t*-分布（*T*的[自由度为](../Page/自由度_\(统计学\).md "wikilink")*n* − 1）满足
 
 \[\Pr(-A < T < A)=0.90\,\]
 

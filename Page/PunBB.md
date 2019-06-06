@@ -35,8 +35,8 @@ PunBB 1.0在2003年8月释出。
 
 ### 官方
 
-  - [PunBB](http://www.punbb.org/)
-  - [PunBB支持论坛](http://forums.punbb.org/)
+  - [PunBB](https://web.archive.org/web/20060402212156/http://punbb.org/)
+  - [PunBB支持论坛](https://web.archive.org/web/20060405012008/http://forums.punbb.org/)
   - [PunBB开发](https://web.archive.org/web/20060404230813/http://dev.punbb.org/)
 
 ### 非官方

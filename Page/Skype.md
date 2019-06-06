@@ -492,7 +492,7 @@ MSN連絡人群組匯入工具。\[98\]\[99\]
 
 48.
 
-49. [SILK](http://developer.skype.com/silk)
+49.
 
 50. [SILK Speech Codec](http://tools.ietf.org/html/draft-vos-silk-02)
 

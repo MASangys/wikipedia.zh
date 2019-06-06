@@ -25,10 +25,10 @@ Express」。
 
 2001年，機構餐務部曾於[龍翔中心開設東南亞菜快餐](https://zh.wikipedia.org/wiki/龍翔中心 "wikilink")「泰知味」，但於一年後結業。
 
-2004年，美心請來[李永銓將](https://zh.wikipedia.org/wiki/李永銓 "wikilink")「美心快餐」改變形象，商標以「加多一點點」為題，用簡單心型線條及一點為標誌，主調為綠色。同年，推出即食微波爐飯盒及小菜，分別於[7-11便利店及](https://zh.wikipedia.org/wiki/7-11便利店 "wikilink")[惠康超級市場發售](https://zh.wikipedia.org/wiki/惠康超級市場 "wikilink")。
+2004年，由[李永銓為](https://zh.wikipedia.org/wiki/李永銓 "wikilink")「美心快餐」改變形象，商標以「加多一點點」為題，用簡單心型線條及一點為標誌，主調為綠色，不過只維持了一年多。同年，推出即食微波爐飯盒及小菜，分別於[7-11便利店及](https://zh.wikipedia.org/wiki/7-11便利店 "wikilink")[惠康超級市場發售](https://zh.wikipedia.org/wiki/惠康超級市場 "wikilink")。
 
 2005年起，「美心快餐」、「Cafe
-Express」及「美心美食」開始陸續全部革新為「**美心MX**」，由[陳幼堅設計新標誌及](../Page/陳幼堅.md "wikilink")[梁志天執手室內設計](../Page/梁志天.md "wikilink")，請來多位名家為店內添上畫像，並獲多個室內設計雜誌社及組織多個獎項，包括：美國紐約室內設計雜誌《Hospitality
+Express」及「美心美食」開始陸續全部革新為「**美心MX**」，由[陳幼堅設計新標誌](../Page/陳幼堅.md "wikilink")，主調為紅色，以及[梁志天執手室內設計](../Page/梁志天.md "wikilink")，請來多位名家為店內添上畫像，並獲多個室內設計雜誌社及組織多個獎項，包括：美國紐約室內設計雜誌《Hospitality
 Design》快餐組金獎。首間位於[鰂魚涌的分店試行設有](../Page/鰂魚涌.md "wikilink")「Grab n
 Go」攤位，提供三文治、焗飯、薄餅、小食等，及設「**千燒百味**」攤位，於2007年結束。但微波爐即食食品則繼續沿用「美心快餐」品牌。
 
@@ -38,7 +38,7 @@ Go」攤位，提供三文治、焗飯、薄餅、小食等，及設「**千燒�
 
 2010年5月，在[鴨脷洲](../Page/鴨脷洲.md "wikilink")[海怡半島開設](../Page/海怡半島.md "wikilink")[美心香港地茶餐廳](../Page/美心香港地.md "wikilink")，同年10月及12月再分別於[小西灣](../Page/小西灣.md "wikilink")[小西灣廣場及](https://zh.wikipedia.org/wiki/小西灣廣場 "wikilink")[上水](../Page/上水.md "wikilink")[上水廣場增加分店](../Page/上水廣場.md "wikilink")，及後再開設更多分店。
 
-2015年5月，[紅磡](../Page/紅磡.md "wikilink")[黃埔花園美心MX全面翻新](../Page/黃埔花園.md "wikilink")，改為「**MX**」品牌，使用黑底黃字標誌，並更改原本食譜，引入自助點餐機，但裝潢及定位較一般美心MX高級，同年再分別為[鰂魚涌](../Page/鰂魚涌.md "wikilink")[康怡商場](https://zh.wikipedia.org/wiki/康怡商場 "wikilink")、[中環](../Page/中環.md "wikilink")[干諾道中](https://zh.wikipedia.org/wiki/干諾道中 "wikilink")、[葵涌](../Page/葵涌.md "wikilink")[新葵興商場](https://zh.wikipedia.org/wiki/新葵興商場 "wikilink")、[天水圍](../Page/天水圍.md "wikilink")[置富嘉湖及](../Page/置富嘉湖.md "wikilink")[青衣](https://zh.wikipedia.org/wiki/青衣 "wikilink")[長發商場等分店升格](https://zh.wikipedia.org/wiki/長發商場 "wikilink")。
+2015年5月，[紅磡](../Page/紅磡.md "wikilink")[黃埔花園美心MX全面翻新](../Page/黃埔花園.md "wikilink")，改為「**MX**」品牌，新標誌主調為黑底黃字，並更改原本食譜，引入自助點餐機，但裝潢及定位較一般「美心MX」高級。現時部分分店仍保留「美心MX」裝潢。
 
 2018年起，在一些新分店安裝自助點餐[觸控屏](https://zh.wikipedia.org/wiki/觸控屏 "wikilink")。
 

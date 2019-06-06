@@ -2,7 +2,7 @@
 
 ## 任务成员
 
-  - **[布鲁斯特·肖](https://zh.wikipedia.org/wiki/布鲁斯特·肖 "wikilink")**（，曾执行、以及任务），指令长
+  - **[布鲁斯特·肖](../Page/布鲁斯特·肖.md "wikilink")**（，曾执行、以及任务），指令长
   - **[布莱恩·欧康诺尔](https://zh.wikipedia.org/wiki/布莱恩·欧康诺尔 "wikilink")**（，曾执行以及任务），飞行员
   - **[玛丽·克利夫](https://zh.wikipedia.org/wiki/玛丽·克利夫 "wikilink")**（，曾执行以及任务），任务专家
   - **[谢伍德·斯普林](https://zh.wikipedia.org/wiki/谢伍德·斯普林 "wikilink")**（，曾执行任务），任务专家

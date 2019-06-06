@@ -68,7 +68,7 @@ Screen可以看作是[窗口管理器的命令行界面版本](https://zh.wikipe
   - [Screenie——一个Screen会话处理器（前端）](https://web.archive.org/web/20060408210957/http://freshmeat.net/projects/screenie)
 
   - [GNU
-    Screen：初学者入门](http://jmcpherson.org/screen.html)（原文发表于[Kuro5hin](https://zh.wikipedia.org/wiki/Kuro5hin "wikilink")）
+    Screen：初学者入门](https://web.archive.org/web/20080509054407/http://jmcpherson.org/screen.html)（原文发表于[Kuro5hin](https://zh.wikipedia.org/wiki/Kuro5hin "wikilink")）
 
   - [GNU
     Screen快速入门](https://web.archive.org/web/20070502201148/http://gustaf.symbiandiaries.com/weblog/comp/Screen-quickstart.html)

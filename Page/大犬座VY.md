@@ -35,7 +35,7 @@ VLBI 搭配 SiO [邁射量到的距離則是](https://zh.wikipedia.org/wiki/邁�
 
 ## 體積
 
-[Rho_Cassiopeiae_Sol_VY_Canis_Majoris.png](https://zh.wikipedia.org/wiki/File:Rho_Cassiopeiae_Sol_VY_Canis_Majoris.png "fig:Rho_Cassiopeiae_Sol_VY_Canis_Majoris.png")、[手槍星](../Page/手槍星.md "wikilink")、黃特超巨星[仙后座ρ](../Page/螣蛇十二.md "wikilink")、[参宿四和](https://zh.wikipedia.org/wiki/参宿四 "wikilink")**大犬座VY**\]\]
+[Rho_Cassiopeiae_Sol_VY_Canis_Majoris_-_2019-05-14.svg](https://zh.wikipedia.org/wiki/File:Rho_Cassiopeiae_Sol_VY_Canis_Majoris_-_2019-05-14.svg "fig:Rho_Cassiopeiae_Sol_VY_Canis_Majoris_-_2019-05-14.svg")、[手槍星](../Page/手槍星.md "wikilink")、黃特超巨星[仙后座ρ](../Page/螣蛇十二.md "wikilink")、[参宿四和](https://zh.wikipedia.org/wiki/参宿四 "wikilink")**大犬座VY**\]\]
 [Star-sizes.jpg](https://zh.wikipedia.org/wiki/File:Star-sizes.jpg "fig:Star-sizes.jpg")[行星與其他知名恆星的比較](../Page/行星.md "wikilink")，包含大犬座VY\]\]：
 1\. [水星](../Page/水星.md "wikilink") \< [火星](../Page/火星.md "wikilink") \<
 [金星](../Page/金星.md "wikilink") \< [地球](../Page/地球.md "wikilink")

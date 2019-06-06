@@ -14,7 +14,7 @@
 
 ## 限制
 
-2.4GHz和5GHz都可自由選擇20MHz或40MHz[頻寬](https://zh.wikipedia.org/wiki/頻寬 "wikilink")，但一些裝置只允許在5GHz下使用40MHz頻寬，例如[MacBook](../Page/MacBook.md "wikilink")。如果用家購買一台只支援2.4GHz的150Mbps路由器，就只能使到72Mbps，即是20MHz頻寬下的最快速度。
+2.4GHz和5GHz都可自由選擇20MHz或40MHz[頻寬](https://zh.wikipedia.org/wiki/頻寬 "wikilink")，但一些裝置只允許在5GHz下使用40MHz頻寬，例如[MacBook](../Page/MacBook.md "wikilink")。如果用家購買一台只支援2.4GHz的150Mbps路由器，則最多只能使用72Mbps，即20MHz頻寬下的最快速度。
 
 ## 802.11网络标准
 

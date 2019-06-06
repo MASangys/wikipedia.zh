@@ -1,7 +1,7 @@
 [Wifly-logo.gif](https://zh.wikipedia.org/wiki/File:Wifly-logo.gif "fig:Wifly-logo.gif")
 **Wifly**是由[安源資訊公司建置](https://zh.wikipedia.org/wiki/安源資訊 "wikilink")，於[台北市大部份區域及連鎖餐廳提供的付費式](https://zh.wikipedia.org/wiki/台北市 "wikilink")[無線網路服務](https://zh.wikipedia.org/wiki/無線網路 "wikilink")。其服務是採用[802.11系列標準之](https://zh.wikipedia.org/wiki/802.11 "wikilink")[無線區域網路](https://zh.wikipedia.org/wiki/無線區域網路 "wikilink")（Wireless
 Local Area Network / Wireless LAN;
-WLAN）。目前總共在台北市佈建4000顆[AP](https://zh.wikipedia.org/wiki/AP "wikilink")（無線接取器），人口覆蓋率達90％，區域覆蓋率也有48％。
+WLAN）。目前總共在台北市佈建4000顆[AP](https://zh.wikipedia.org/wiki/AP "wikilink")（無線接取器），人口覆蓋率達90％，區域覆蓋率也有48％。[Wifly服務已於](../Page/Wifly.md "wikilink")[民國107年](https://zh.wikipedia.org/wiki/民國107年 "wikilink")([2018年](../Page/2018年.md "wikilink"))[3月31日終止服務](../Page/3月31日.md "wikilink")。\[1\]
 
 ## 佈建範圍
 
@@ -59,7 +59,13 @@ WIFLY 無線網路設備主要為Nortel Wireless Mesh Network。以Wireless Gate
 [File:Wifly-card-time110.jpg|110分鐘計時制預付卡](File:Wifly-card-time110.jpg%7C110分鐘計時制預付卡)
 [File:Wifly-card-time300.JPG|300分鐘計時制預付卡](File:Wifly-card-time300.JPG%7C300分鐘計時制預付卡)
 
-## 其他服務
+## 服務終止
+
+因業務調整，[安源通訊將自民國](https://zh.wikipedia.org/wiki/安源通訊 "wikilink")107年3月31日起停止「[Wifly無線上網](../Page/Wifly.md "wikilink")」服務。
+即日起，已購買安源通訊「[Wifly預付卡](../Page/Wifly.md "wikilink")」之用戶，請於107年6月30日前，
+憑尚未使用完畢之卡片或序號，填寫退費申請表並寄回安源通訊，即可申請退還未使用之餘額。 造成您的不便，敬請見諒。
+
+如有任何問題，請洽安源通訊客服專線: 0809-010-008。
 
 ## 參考資料
 
@@ -73,4 +79,6 @@ WIFLY 無線網路設備主要為Nortel Wireless Mesh Network。以Wireless Gate
   - [WIFLY](https://web.archive.org/web/20080516121207/http://www.wifly.com.tw/)
   - [Qon無線網路熱點搜尋](http://www.qon.com.tw/hotsearch/)
 
-[Category:无线网络](https://zh.wikipedia.org/wiki/Category:无线网络 "wikilink")
+[Category:無線網路](https://zh.wikipedia.org/wiki/Category:無線網路 "wikilink")
+
+1.  <https://www.fetnet.net/others/wifi/home.html>

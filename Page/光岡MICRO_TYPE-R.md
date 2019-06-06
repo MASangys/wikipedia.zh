@@ -55,5 +55,7 @@ TYPE-R」為已組裝完成，才販售的車輛。
 [Category:微型車](https://zh.wikipedia.org/wiki/Category:微型車 "wikilink")
 [Category:復古車](https://zh.wikipedia.org/wiki/Category:復古車 "wikilink")
 
-1.  [光岡が新型マイクロカーを披露、来春発売予定](http://kakaku.com/kuruma/news/2006/10/news01_newcar/20061002_01_mitsuoka-micro.htm)，〈価格.com〉
-2.  [光岡自動車、大蛇の次に放つのはマイクロカー「ＴＹＰＥ－Ｒ」](http://www.carview.co.jp/news/0/id22985)，〈carview.co.jp〉
+1.  [光岡が新型マイクロカーを披露、来春発売予定](http://kakaku.com/kuruma/news/2006/10/news01_newcar/20061002_01_mitsuoka-micro.htm)
+    ，〈価格.com〉
+2.  [光岡自動車、大蛇の次に放つのはマイクロカー「ＴＹＰＥ－Ｒ」](http://www.carview.co.jp/news/0/id22985)
+    ，〈carview.co.jp〉

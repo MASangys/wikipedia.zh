@@ -10,7 +10,7 @@ Doomsday)，加入了[第三次世界大战剧情及编辑器](https://zh.wikipe
 
 此游戏的操作十分特殊。
 
-你所扮演的是一个国家的元首，操纵着一切有关于这个国家的大事小情，本作更加的真实化，ai比《钢铁雄心》更加的智能，更真实地模拟了二战时的国际局势。
+你所扮演的是一个国家的元首，操纵着一切有关于这个国家的大事小情，本作更加的真实化，AI比《钢铁雄心》更加的智能，更真实地模拟了二战时的国际局势。
 
 较之[钢铁雄心](https://zh.wikipedia.org/wiki/钢铁雄心 "wikilink")，本作的经济系统更为简单。你所在国家的生产能力与领土大小和生产各种货物的能力以及工厂的数量有关。你所在的领土能给你带来油料、能量、金属和稀有材料等资源。工厂可以使用这些资源生产工业点，然后可用以建造、供应以及替换。剩余的点还可以产生现金，这些可用以技术上的研究和外交。而且产品的供应的与连结的系统的仓库都能够得到玩家的监控。你可以选择连续或者间歇性地生产你所需的商品，然后就能获得一定的奖励。不过在生产方面不能够搞极端，因为你的人民还需要食品供给有待你去生产。同样，你的军队也能够得以升级。与前作形成鲜明对比的是，本作的生产方面的自动化大大地提高了。这样玩家可以将注意力更多地集中在军事策略上。
 
@@ -241,10 +241,11 @@ Schutzstaffel 缩写，意即党卫军。）
 
   - [Paradox Entertainment](http://www.paradoxplaza.com/)
   - [Hearts of Iron 2
-    demo](http://www.gamershell.com/download_7840.shtml)
+    demo](https://web.archive.org/web/20080219033343/http://www.gamershell.com/download_7840.shtml)
   - [Hearts of Iron 2
     Wiki](http://www.paradoxian.org/hoi2wiki/index.php/Main_Page)
-  - [N Gaming review](http://www.ngaming.co.uk/game-review/67/)
+  - [N Gaming
+    review](https://web.archive.org/web/20070505000615/http://www.ngaming.co.uk/game-review/67/)
   - [Mac OS X
     version](http://www.vpltd.com/index.php?main_page=product_info&products_id=202)
 

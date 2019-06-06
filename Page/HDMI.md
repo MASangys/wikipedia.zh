@@ -1,4 +1,4 @@
-**高畫質多媒體介面**（，簡稱**HDMI**）是一種全[數位化](https://zh.wikipedia.org/wiki/數位 "wikilink")[影像和](https://zh.wikipedia.org/wiki/影像 "wikilink")[聲音傳送介面](https://zh.wikipedia.org/wiki/聲音 "wikilink")，可以傳送未[壓縮的](https://zh.wikipedia.org/wiki/數位壓縮 "wikilink")[音訊及](https://zh.wikipedia.org/wiki/音頻 "wikilink")[視訊訊號](https://zh.wikipedia.org/wiki/視頻 "wikilink")。HDMI可用於[機上盒](https://zh.wikipedia.org/wiki/機上盒 "wikilink")、[DVD播放機](https://zh.wikipedia.org/wiki/DVD播放機 "wikilink")、[個人電腦](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")、[電視遊樂器](https://zh.wikipedia.org/wiki/電視遊樂器 "wikilink")、綜合擴大機、數位音響與[電視機等設備](https://zh.wikipedia.org/wiki/電視機 "wikilink")。HDMI可以同時傳送音訊和視訊訊號，由於音訊和視訊訊號採用同一條線材，大大簡化系統線路的安裝難度。
+**高畫質多媒體介面**（，缩写：**HDMI**）是一種全[數位化](https://zh.wikipedia.org/wiki/數位 "wikilink")[影像和](https://zh.wikipedia.org/wiki/影像 "wikilink")[聲音傳送介面](https://zh.wikipedia.org/wiki/聲音 "wikilink")，可以傳送未[壓縮的](https://zh.wikipedia.org/wiki/數位壓縮 "wikilink")[音訊及](https://zh.wikipedia.org/wiki/音頻 "wikilink")[視訊訊號](https://zh.wikipedia.org/wiki/視頻 "wikilink")。HDMI可用於[機上盒](https://zh.wikipedia.org/wiki/機上盒 "wikilink")、[DVD播放機](https://zh.wikipedia.org/wiki/DVD播放機 "wikilink")、[個人電腦](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")、[電視遊樂器](https://zh.wikipedia.org/wiki/電視遊樂器 "wikilink")、綜合擴大機、數位音響與[電視機等設備](https://zh.wikipedia.org/wiki/電視機 "wikilink")。HDMI可以同時傳送音訊和視訊訊號，由於音訊和視訊訊號採用同一條線材，大大簡化系統線路的安裝難度。
 
 ## 簡述
 
@@ -26,7 +26,7 @@ B HDMI接頭也將向下相容於Dual-link DVI介面。
 [HDMI組織的發起者包括各大](https://zh.wikipedia.org/wiki/HDMI組織 "wikilink")[消費電子產品製造商](../Page/消費電子產品.md "wikilink")，如[日立製作所](../Page/日立製作所.md "wikilink")、[松下電器](../Page/松下電器.md "wikilink")、[Quasar](https://zh.wikipedia.org/wiki/Quasar "wikilink")、[飛利浦](../Page/飛利浦.md "wikilink")、[索尼](../Page/索尼.md "wikilink")、[湯姆生RCA](https://zh.wikipedia.org/wiki/湯姆生RCA "wikilink")、[東芝](https://zh.wikipedia.org/wiki/東芝 "wikilink")、[Silicon
 Image](https://zh.wikipedia.org/wiki/Silicon_Image "wikilink")。[數位內容保護公司](https://zh.wikipedia.org/wiki/數位內容保護公司 "wikilink")（Digital
 Content Protection,
-LLC）\[1\]提供HDMI介面相關的防拷保護技術。此外，HDMI也受到各主要電影製作公司如[20世紀福斯](https://zh.wikipedia.org/wiki/20世紀福斯 "wikilink")、[華納兄弟](https://zh.wikipedia.org/wiki/華納兄弟 "wikilink")、[迪士尼](https://zh.wikipedia.org/wiki/迪士尼 "wikilink")，包括[三星電子在內的各大消費電子產品製造商](../Page/三星電子.md "wikilink")，以及多家[有線電視系統業者的支援](https://zh.wikipedia.org/wiki/有線電視 "wikilink")。
+LLC）\[1\]提供HDMI介面相關的防拷保護技術。此外，HDMI也受到各主要電影製作公司如[20世紀福斯](https://zh.wikipedia.org/wiki/20世紀福斯 "wikilink")、[華納兄弟](https://zh.wikipedia.org/wiki/華納兄弟 "wikilink")、[迪士尼](https://zh.wikipedia.org/wiki/迪士尼 "wikilink")、[環球](https://zh.wikipedia.org/wiki/環球 "wikilink")，包括[三星電子在內的各大消費電子產品製造商](../Page/三星電子.md "wikilink")，以及多家[有線電視系統業者的支援](https://zh.wikipedia.org/wiki/有線電視 "wikilink")。
 
 ## 規格
 

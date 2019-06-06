@@ -25,7 +25,8 @@ TV](https://zh.wikipedia.org/wiki/now_TV "wikilink")。
   - 第630頻道：**Now Sports Prime**
   - 第631頻道：**Now Sports 1**（羽毛球 / 田徑）
   - 第632頻道：**beIN - Now Sports 2**（西甲）
-  - 第633頻道：**Now Sports 3**（WTA / 分流現場直播西甲賽事)
+  - 第633頻道：**Now Sports 3**（WTA / 分流現場直播西甲賽事 /
+    分流現場直播[英超同步進行賽事](https://zh.wikipedia.org/wiki/英超 "wikilink"))
   - 第634頻道：**Now Sports 4**（羽毛球 / ATP）
   - 第635頻道：**Now Sports 5**（NFL）
   - 第636頻道：**Now Sports 6**（網球）
@@ -37,8 +38,8 @@ TV](https://zh.wikipedia.org/wiki/now_TV "wikilink")。
   - 第643頻道：**beIN SPORTS Max**
   - 第644頻道：**beIN SPORTS Max 2**
   - 第645頻道：**beIN SPORTS Max 3**
-  - 第650頻道：**now 650**（預留頻道，為按賽事付費頻道）
-  - 第651頻道：**now 651**（預留頻道，為按賽事付費頻道）
+  - 第650頻道：**Now Sports 650**（預留頻道，為按賽事付費頻道）
+  - 第651頻道：**Now Sports 651**（預留頻道，為按賽事付費頻道）
   - 第668頻道：**[now668](https://zh.wikipedia.org/wiki/now668 "wikilink")**
   - 第670頻道：**[FOX SPORTS](../Page/FOX體育台.md "wikilink")**
   - 第671頻道：**[FOX SPORTS 2](../Page/FOX體育二台.md "wikilink")**
@@ -46,8 +47,8 @@ TV](https://zh.wikipedia.org/wiki/now_TV "wikilink")。
   - 第674頻道：**STAR Cricket**
   - 第675頻道：**STAR Cricket+**（分流現場直播賽事）
   - 第679頻道：**Setanta Sports Channel**
-  - 第680頻道：**ASN**（原稱 **Illustrated Sports**）
-  - 第681頻道：**Now 681**（預留頻道，為按賽事付費頻道）
+  - 第680頻道：**Now Sports 680**（NFL美式足球）
+  - 第681頻道：**Now Sports 681**（預留頻道，為按賽事付費頻道）
   - 第682頻道：**Now Golf 1**
   - 第683頻道：**Now Golf 2**
   - 第684頻道：**Now Golf 3**
@@ -81,7 +82,7 @@ now 英超 1台於賽季期間24小時播放，全程直播英超賽事，其餘
 
 now 英超 2-6台為後備頻道，分流現場直播英超賽事。
 
-（部分時段與[ViuTV](../Page/ViuTV.md "wikilink")、[ViuTVsix同步播出](../Page/ViuTVsix.md "wikilink")）
+（部分時段與[ViuTV](../Page/ViuTV.md "wikilink")、[ViuTVsix同步播出](../Page/ViuTVsix.md "wikilink")，唯各頻道同步直播英超賽事時將繼續沿用自身頻道之台徽，）
 
 ### 頻道歷史
 

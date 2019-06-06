@@ -1,10 +1,8 @@
 **PPPoE**（），[以太网上的点对点协议](../Page/以太网.md "wikilink")，是将[点对点协议](../Page/点对点协议.md "wikilink")（PPP）封装在[以太网](../Page/以太网.md "wikilink")（Ethernet）框架中的一种网络隧道协议。由于协议中集成PPP协议，所以实现出传统[以太网不能提供的](../Page/以太网.md "wikilink")[身份验证](https://zh.wikipedia.org/wiki/身份验证 "wikilink")、[加密以及](https://zh.wikipedia.org/wiki/加密 "wikilink")[压缩等功能](../Page/数据压缩.md "wikilink")，也可用于[纜線數據機](https://zh.wikipedia.org/wiki/纜線數據機 "wikilink")（cable
 modem）和[数位用户线路](https://zh.wikipedia.org/wiki/数位用户线路 "wikilink")（DSL）等以[以太网协议向用户提供](../Page/以太网.md "wikilink")[接入服务的协议体系](https://zh.wikipedia.org/wiki/網路存取 "wikilink")。
+本质上，它是一个允许在以太网[广播域中的两个以太网接口间建立点对点隧道的协议](https://zh.wikipedia.org/wiki/广播域 "wikilink")。
 
-本质上，它是一个允许在以太网
-[广播域中的两个以太网接口间建立点对点隧道的协议](https://zh.wikipedia.org/wiki/广播域 "wikilink")。
-
-以[Linux系统常用的](../Page/Linux.md "wikilink")[pppd为例](https://zh.wikipedia.org/wiki/pppd "wikilink")，支持[PPP接口上面的](../Page/点对点协议.md "wikilink")[IP](https://zh.wikipedia.org/wiki/IP "wikilink")、[IPv6和](../Page/IPv6.md "wikilink")[IPX网络层协议](https://zh.wikipedia.org/wiki/IPX "wikilink")。
+以[Linux系统常用的](../Page/Linux.md "wikilink")[pppd为例](https://zh.wikipedia.org/wiki/pppd "wikilink")，支持[PPP接口上面的](../Page/点对点协议.md "wikilink")[IP](../Page/网际协议.md "wikilink")、[IPv6和](../Page/IPv6.md "wikilink")[IPX网络层协议](../Page/IP交换.md "wikilink")。
 
 它使用传统的基于PPP的软件来管理一个不是使用串行线路而是使用类似于以太网的有向分组网络的连接。这种有登陆和口令的标准连接，方便了接入供应商的记费。并且，连接的另一端仅当PPPoE连接接通时才分配IP地址，所以允许IP地址的动态复用。
 
@@ -18,8 +16,7 @@ PPPoE分为两个阶段：
 
 ### PPPoE发现
 
-由于传统的PPP连接是建立在串行链路或拨号时建立的ATM虚电路连接上的，所有的PPP-{zh-hans:帧;
-zh-hant:訊框}-都可以确保通过电缆到达对端。但是以太网是多路存取的，每一个节点都可以相互访问。乙太帧包含目的节点的物理地址（[MAC地址](../Page/MAC地址.md "wikilink")），这使得该帧可以到达预期的目的节点。
+由于传统的PPP连接是建立在串行链路或拨号时建立的ATM虚电路连接上的，所有的PPP-{zh-hans:帧;zh-hant:訊框}-都可以确保通过电缆到达对端。但是以太网是多路存取的，每一个节点都可以相互访问。乙太帧包含目的节点的物理地址（[MAC地址](../Page/MAC地址.md "wikilink")），这使得该帧可以到达预期的目的节点。
 因此，为了在以太网上建立连接而交换PPP控制报文之前，两个端点都必须知道对端的MAC地址，这样才可以在控制报文中携带MAC地址。PPPoE发现阶段做的就是这件事。除此之外，在此阶段还将建立一个会话ID，以供后面交换报文使用。
 
 ### PPP会话

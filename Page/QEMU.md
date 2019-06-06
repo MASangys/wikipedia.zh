@@ -7,7 +7,7 @@ virtualization）开源托管[虚拟机](https://zh.wikipedia.org/wiki/虚拟机
 QEMU是一个托管的虚拟机镜像，它通过动态的二进制转换，模拟[CPU](https://zh.wikipedia.org/wiki/CPU "wikilink")，并且提供一组设备模型，使它能够运行多种未修改的客户机OS，可以通过与[KVM](https://zh.wikipedia.org/wiki/KVM "wikilink")（kernel-based
 virtual machine开源加速器）一起使用进而接近本地速度运行虚拟机（接近真实电脑的速度）。
 
-QEMU还可以为user-level的进程执行CPU仿真，进而允许了为一种架构编译的程序在另外一中架构上面运行（藉由VMM的形式）。
+QEMU还可以为user-level的进程执行CPU仿真，进而允许了为一种架构编译的程序在另外一种架构上面运行（藉由VMM的形式）。
 
 __TOC__
 

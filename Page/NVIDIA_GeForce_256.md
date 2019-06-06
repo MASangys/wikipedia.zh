@@ -1,13 +1,15 @@
 **GeForce
 256**（核心代號**NV10**）是由NVIDIA研發的第五代[顯示核心](https://zh.wikipedia.org/wiki/顯示核心 "wikilink")。此核心常簡稱為**GeForce**，这亦是[NVIDIA第一个以](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")"[GeForce](../Page/GeForce.md "wikilink")"為名的顯示核心。NVIDIA於1999年8月發佈\[1\]。GeForce
 256與前代（[RIVA
-TNT2](https://zh.wikipedia.org/wiki/RIVA_TNT2 "wikilink")）相比增加了Pixel
+TNT2](https://zh.wikipedia.org/wiki/RIVA_TNT2 "wikilink")）相比增加Pixel
 Shader流水線的數目，支援硬体[T\&L引擎](https://zh.wikipedia.org/wiki/T&L "wikilink")，亦支援[MPEG-2硬体影象加速](../Page/MPEG-2.md "wikilink")。GeForce
-256憑著它的功能和速度，在各路廠商的競爭中取得了很好銷量，令NVIDIA的电腦图形工業霸主地位更堅固。NVIDIA的成功，使[3dfx](https://zh.wikipedia.org/wiki/3dfx "wikilink")，[Matrox和](../Page/Matrox.md "wikilink")[S3
-Graphics都成了犧牲品](../Page/S3_Graphics.md "wikilink")。就在GeForce
-256發佈後的幾个月，競爭对手S3亦發佈了 [Savage 2000 Diamond Viper
-II](https://zh.wikipedia.org/wiki/S3_Savage#Savage_2000 "wikilink")。此產品內建了硬体T\&L，價格比GeForce
-256便宜。但是，有缺陷的驅动使T\&L不能正常運作，而S3亦不打算对此修正。一年後，只有[ATi的](https://zh.wikipedia.org/wiki/ATi "wikilink")[Radeon顯卡能有實力孤軍作戰](../Page/Radeon.md "wikilink")。
+256憑著它的功能和速度，在各路廠商的競爭中取得很好銷量，令NVIDIA的电腦图形工業霸主地位更堅固。
+
+NVIDIA的成功，使[3dfx](https://zh.wikipedia.org/wiki/3dfx "wikilink")，[Matrox和](../Page/Matrox.md "wikilink")[S3
+Graphics都變成犧牲品](../Page/S3_Graphics.md "wikilink")。就在GeForce
+256發佈後的幾个月，競爭对手S3亦發佈[Savage 2000 Diamond Viper
+II](https://zh.wikipedia.org/wiki/S3_Savage#Savage_2000 "wikilink")。此產品內建硬体T\&L，價格比GeForce
+256便宜。但是，驅动帶有缺陷，使T\&L不能正常運作，而S3亦不打算对此修正。一年後，剩下[ATi的](https://zh.wikipedia.org/wiki/ATi "wikilink")[Radeon顯示卡還能孤軍作戰](../Page/Radeon.md "wikilink")。
 
 NVIDIA在產品宣傳中，稱GeForce
 256為世界上第一个[GPU](https://zh.wikipedia.org/wiki/GPU "wikilink")，這是NVIDIA首創的詞匯，GPU即是Graphics

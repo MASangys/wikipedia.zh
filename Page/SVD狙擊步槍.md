@@ -247,7 +247,6 @@ SVD的早期版本使用镂空的木质[槍托](../Page/槍托.md "wikilink")、
   -
   -
   -
-  -
   - ：使用中國製**85式狙擊步槍**。
 
       -
@@ -258,6 +257,7 @@ SVD的早期版本使用镂空的木质[槍托](../Page/槍托.md "wikilink")、
   -
   -   - [朝鮮人民軍](https://zh.wikipedia.org/wiki/朝鮮人民軍 "wikilink")
 
+  -
   -
   -
   - ：由中國提供的85式狙擊步槍。
@@ -339,13 +339,16 @@ SVD的早期版本使用镂空的木质[槍托](../Page/槍托.md "wikilink")、
 
   - 2000年—《[-{zh-hans:秘密潜入;
     zh-hant:核武浩劫;}-](../Page/秘密潜入.md "wikilink")》
+  - 2002年—《[-{zh-tw:刺客任務2：無聲殺手}-](../Page/杀手2：沉默刺客.md "wikilink")》
   - 2003年—《[-{zh-hans:秘密潜入2：隐秘行动;
     zh-hant:核武浩劫2;}-](https://zh.wikipedia.org/wiki/核武浩劫2 "wikilink")》
   - 2004年—《[-{zh-hans:合金装备3 食蛇者; zh-hant:潛龍諜影3
     食蛇者;}-](../Page/潛龍諜影3_食蛇者.md "wikilink")》
+  - 2004年—《》
   - 2007年—《[-{zh-hans:潜行者：切尔诺贝利的阴影;
     zh-hant:浩劫殺陣：車諾比之影;}-](../Page/浩劫殺陣：車諾比之影.md "wikilink")》：命名為「SVDm2」，武器模組採用鏡像佈局（拉機柄、拋殼口及保險裝置都在左邊）。
   - 2005年—《[-{zh-hans:战地2; zh-hant:戰地風雲2;}-](../Page/战地2.md "wikilink")》
+  - 2006年—《[-{zh-tw:刺客任務：黑錢交易}-](../Page/杀手：血钱.md "wikilink")》
   - 2007年—《[-{zh-hans:反恐精英Online;
     zh-hant:絕對武力Online;}-](../Page/絕對武力Online.md "wikilink")》：隨遊戲登場武器，型號為SVD-M，命名為「SVD」，為[恐怖份子可用武器](https://zh.wikipedia.org/wiki/恐怖份子 "wikilink")，奇怪地沒有空倉掛機功能，瞄準鏡也不是使用[PSO-1的內部分劃](../Page/PSO-1光學瞄準鏡.md "wikilink")。武器模組採用鏡像佈局（右手持槍時拉機柄、拋殼口及保險裝置都在左邊）。
       - SVDEX：殭屍模式III中由男英雄使用的反殭屍改進版本。改進之處包括：裝上類似[反器材步槍的](../Page/反器材步槍.md "wikilink")[槍口制退器](../Page/砲口制動器.md "wikilink")、透過在機匣頂部添加的[皮卡汀尼導軌上裝上奇怪的没有电池匣的](../Page/皮卡汀尼導軌.md "wikilink")[EOTech全息瞄準鏡](https://zh.wikipedia.org/wiki/全息瞄準鏡 "wikilink")（無法使用）、在護木下裝上[M203榴彈發射器](../Page/M203榴彈發射器.md "wikilink")（可用）及採用20發彈匣。
@@ -355,6 +358,9 @@ SVD的早期版本使用镂空的木质[槍托](../Page/槍托.md "wikilink")、
   - 2008年—《[-{zh-cn:孤島求生2;
     zh-tw:極地戰嚎2;}-](https://zh.wikipedia.org/wiki/孤島驚魂2 "wikilink")》：命名為“SVD”，具備[PSL狙擊步槍的特徵](../Page/PSL狙擊步槍.md "wikilink")，而且没有空倉掛機。武器模組採用鏡像佈局（拋殼口、拉機柄和保險裝置都在左邊）。
   - 2008年—《[AVA Online](../Page/戰地之王.md "wikilink")》
+  - 2008年—《[潛龍諜影4
+    愛國者之槍](../Page/潛龍諜影4_愛國者之槍.md "wikilink")》：南美的反政府游擊隊有使用，在該地的倉庫，與Shadow
+    Moses島的軍火庫內可獲得。
   - 2009年—《[-{zh-cn:神秘海域2：纵横四海;
     zh-tw:秘境探險2：盜亦有道;}-](../Page/秘境探險2：盜亦有道.md "wikilink")》：遊戲中唯一的狙擊步槍，命名為「龍式狙擊步槍」，奇怪地只有敵人使用時才有並且使用[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")。
   - 2009年—《[-{zh-hans:生化危机;
@@ -381,6 +387,7 @@ SVD的早期版本使用镂空的木质[槍托](../Page/槍托.md "wikilink")、
   - 2014年—《[-{zh-hans:孤岛惊魂4;
     zh-hant:極地戰嚎;}-4](https://zh.wikipedia.org/wiki/極地戰嚎4 "wikilink")》：型號為SVD-M，命名為「SVD」，使用5發彈匣，普遍的被友方和敵方狙擊手所使用。在單機模式和多人模式登場，無法進行改裝。武器模組採用鏡像佈局（拉機柄、拋殼口及保險裝置都在左邊），奇怪地沒有空倉掛機功能。
   - 2016年—《[湯姆克蘭西：全境封鎖](../Page/湯姆克蘭西：全境封鎖.md "wikilink")》
+  - 2016年—《》（Escape From Tarkov）：型號為SVDS。
   - 2016年—《[少女前线](../Page/少女前线.md "wikilink")》：SVD为四星战术人形，可由建造获得
   - 2016年—《[-{zh:決勝時刻：現代戰爭;zh-hans:使命召唤：现代战争;zh-hant:決勝時刻：現代戰爭;zh-cn:使命召唤：现代战争;zh-tw:決勝時刻：現代戰爭;zh-hk:使命召喚：現代戰爭;zh-mo:使命召喚：現代戰爭;}-重製版](../Page/決勝時刻4：現代戰爭.md "wikilink")》：型號為SVD，外觀比前作更為精細，但仍然沒有空倉掛機功能，瞄準鏡亦沒有使用[PSO-1的內部分劃](../Page/PSO-1光學瞄準鏡.md "wikilink")。
   - 2017年—《[-{zh-hans:幽灵行动：荒野;
@@ -409,8 +416,13 @@ SVD的早期版本使用镂空的木质[槍托](../Page/槍托.md "wikilink")、
 ### 輕小說
 
   - 2008年—《[-{zh-hans:绯弹的亚里亚;zh-hant:緋彈的亞莉亞;}-](../Page/緋彈的亞莉亞.md "wikilink")》：被巴斯克維爾（小隊）隊員蕾姬（レキ，[聲優](../Page/聲優.md "wikilink")：[石原夏織](../Page/石原夏織.md "wikilink")）所使用，瞄準鏡內藏有設置為在狙擊瞬間把看到的情景記錄下來的照相機（輕小說第六卷及第十二卷的封面即是蕾姬拿SVD的的全身像。）
+  - 2011年—《[黑色子彈](../Page/黑色子彈.md "wikilink")》：蒂娜·斯普萊特曾使用過。
   - 2014年—《[刀劍神域外傳Gun Gale
     Online](../Page/刀劍神域外傳Gun_Gale_Online.md "wikilink")》：型號為SVD，被“SHINC”小隊的“杜馬”和“安娜”所使用。
+
+### 漫畫
+
+  - 2000年—《[闇之盾](../Page/闇之盾.md "wikilink")》
 
 ## 參考文獻
 

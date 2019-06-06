@@ -135,6 +135,10 @@ S.A.S.](https://zh.wikipedia.org/wiki/AmuseLantis_Europe_S.A.S. "wikilink")\[4\]
   -
   - [ChouCho](../Page/ChouCho.md "wikilink")
 
+  - [田所梓](../Page/田所梓.md "wikilink")
+
+  - [大橋彩香](../Page/大橋彩香.md "wikilink")
+
 ### kiramune所属者
 
   - （[岩田光央](../Page/岩田光央.md "wikilink")・[鈴村健一](../Page/鈴村健一.md "wikilink")）

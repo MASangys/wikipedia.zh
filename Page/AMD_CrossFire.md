@@ -223,7 +223,6 @@ HD 7750實作Dual Graphics，但效能提升相較於Radeon HD 6670的要不明�
 [Category:AMD技术](https://zh.wikipedia.org/wiki/Category:AMD技术 "wikilink")
 [Category:冶天科技](https://zh.wikipedia.org/wiki/Category:冶天科技 "wikilink")
 
-1.  [Crossfire X destekli P45 yonga
-    seti](http://www.donanimhaber.com/Intel_kazanan_kombinasyon_Crossfire_X/6771/haber.htm)
+1.
 2.  [3月来\!探寻CrossFireX背后的一些秘密](http://diybbs.zol.com.cn/8/198_71819.html)
 3.

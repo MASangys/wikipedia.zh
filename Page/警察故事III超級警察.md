@@ -84,17 +84,6 @@
 
 《警察故事3超級警察》在香港戲院票房為32,609,783港幣，尽管本土成绩远远不及[周星驰的](https://zh.wikipedia.org/wiki/周星驰 "wikilink")《[审死官](../Page/審死官_\(1992年電影\).md "wikilink")》，但台湾的票房创下3.1亿新台币票房纪录，直到2008年才被《[海角7号](https://zh.wikipedia.org/wiki/海角7号 "wikilink")》打破。之後在《[紅番區](../Page/紅番區.md "wikilink")》於[北美票房的成功](https://zh.wikipedia.org/wiki/北美 "wikilink")，《警察故事3超級警察》也在北美地區於1996年7月25日上映，總共獲得1627万美元票房。
 
-## 警察故事系列
-
-警察故事的成功使其多次開拍續集。
-
-  - **[警察故事](../Page/警察故事.md "wikilink")**（1985年）
-  - **[警察故事續集](../Page/警察故事續集.md "wikilink")**（1988年）
-  - **[警察故事3超級警察](https://zh.wikipedia.org/wiki/警察故事3超級警察 "wikilink")**（1992年）
-  - **[警察故事4之簡單任務](../Page/警察故事4之簡單任務.md "wikilink")**（1996年）
-  - **[新警察故事](../Page/新警察故事.md "wikilink")**（2004年）
-  - **[警察故事2013](../Page/警察故事2013.md "wikilink")**（2013年）
-
 ## 外部連結
 
   - {{@movies|fShk00104558}}

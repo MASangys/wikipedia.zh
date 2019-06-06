@@ -24,7 +24,7 @@ zh-hk:羅比·科拿;zh-tw:羅比·福勒;}-和](../Page/罗比·福勒.md "wiki
 <thead>
 <tr class="header">
 <th><p>賽季</p></th>
-<th><p>獲獎球員的國籍</p></th>
+<th><p>國籍</p></th>
 <th><p>球員</p></th>
 <th><p>球會</p></th>
 <th><p>同時獲得[9]</p></th>

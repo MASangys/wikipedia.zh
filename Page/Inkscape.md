@@ -1,10 +1,10 @@
-****是一套[向量圖形編輯器](https://zh.wikipedia.org/wiki/矢量圖形 "wikilink")，以[自由軟體授權發佈與使用](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")。該[軟體的開發目標是成為一套強力的](https://zh.wikipedia.org/wiki/軟體 "wikilink")[繪圖軟體](https://zh.wikipedia.org/wiki/繪圖軟體 "wikilink")，且能完全遵循與支持[XML](../Page/XML.md "wikilink")、[SVG及](https://zh.wikipedia.org/wiki/SVG "wikilink")[CSS等開放性的標準格式](https://zh.wikipedia.org/wiki/CSS "wikilink")。Inkscape是一套[跨平台性的應用程式](https://zh.wikipedia.org/wiki/跨平台 "wikilink")，[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Mac
+****是[向量圖形編輯器](https://zh.wikipedia.org/wiki/矢量圖形 "wikilink")，以[自由軟體授權發佈與使用](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")。該[軟體的開發目標是成為強大的](https://zh.wikipedia.org/wiki/軟體 "wikilink")[繪圖軟體](https://zh.wikipedia.org/wiki/繪圖軟體 "wikilink")，且能完全遵循與支持[XML](../Page/XML.md "wikilink")、[SVG及](https://zh.wikipedia.org/wiki/SVG "wikilink")[CSS等開放性的標準格式](https://zh.wikipedia.org/wiki/CSS "wikilink")，而且是[跨平台的應用程式](https://zh.wikipedia.org/wiki/跨平台 "wikilink")，支援[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Mac
 OS
 X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")、[Linux及](../Page/Linux.md "wikilink")[類UNIX版等作業系統](https://zh.wikipedia.org/wiki/Unix-like "wikilink")。
 
 ## 發展過程
 
-Inkscape始於2003年，最初是[Sodipodi的一個分支](https://zh.wikipedia.org/wiki/Sodipodi "wikilink")、[分線發展](https://zh.wikipedia.org/wiki/分線發展 "wikilink")（fork），Sodipodi自身則是在1999年以Raph
+Inkscape的開發始於2003年，最初是[Sodipodi的分支](https://zh.wikipedia.org/wiki/Sodipodi "wikilink")、[分線發展](https://zh.wikipedia.org/wiki/分線發展 "wikilink")（fork），Sodipodi自身則是在1999年以Raph
 Levien的Gill為基礎開始。
 
 此一分線發展的主導來自一個四人團隊，這四人之前為Sodipodi的開發人員，他們分別是Ted Gould、Bryce

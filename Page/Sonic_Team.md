@@ -5,7 +5,7 @@ Team」，名稱取自他們開發出的著名遊戲《[音速小子](https://zh
 Team 一度成為世嘉的獨立子公司（株式会社ソニックチーム），隨後在2004年7月1日又重新與世嘉公司整合，成為旗下的一個開發部門至今。
 
 Sonic Team
-原本是由知名遊戲設計師、製作人和程式設計師[中裕司主導](https://zh.wikipedia.org/wiki/中裕司 "wikilink")。在中的帶領下，Sonic
+原本是由知名遊戲設計師、製作人和程式設計師[中裕司主導](../Page/中裕司.md "wikilink")。在中的帶領下，Sonic
 Team
 創造出了多款知名的暢銷遊戲，包括《[音速小子大冒險](https://zh.wikipedia.org/wiki/音速小子大冒險 "wikilink")》（*Sonic
 Adventure*）、《[飛天幽夢](../Page/飛天幽夢.md "wikilink")》（*NiGHTS into

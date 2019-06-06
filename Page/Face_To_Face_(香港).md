@@ -1,4 +1,4 @@
-**Face to Face**
+**Face To Face**
 是一隊已經解散的[香港](../Page/香港.md "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，由[蔡慧玲和](https://zh.wikipedia.org/wiki/蔡慧玲_\(香港\) "wikilink")[吳少芳組成](https://zh.wikipedia.org/wiki/吳少芳 "wikilink")。
 
 ## 成員
@@ -40,15 +40,15 @@
 
 ## 音樂事業
 
-Face to Face在1990年出道。與
-[Echo](../Page/Echo_\(香港\).md "wikilink")（另一隊同期二人女子組合）一樣是注重形象包裝，[歌曲路線兩者也大致相近](../Page/歌曲.md "wikilink")。但
-Face to Face
-的歌格調較柔和，[音樂類型也多樣化](https://zh.wikipedia.org/wiki/音樂 "wikilink")，因此也頗受歡迎。以《一些》、《蝶夢》和《情迷Milano》較為熟悉。
+Face To Face在1990年出道。與
+[Echo](../Page/Echo_\(香港\).md "wikilink")（另一隊同期二人女子組合）一樣是注重形象包裝，[歌曲路線兩者也大致相近](../Page/歌曲.md "wikilink")。但Face
+To
+Face的歌格調較柔和，[音樂類型也多樣化](https://zh.wikipedia.org/wiki/音樂 "wikilink")，因此也頗受歡迎。以《一些》、《蝶夢》和《情迷Milano》較為熟悉。
 
 ## 交通意外
 
-1992年，成員吳少芳（Jodi）和其[經理人駕車返回](https://zh.wikipedia.org/wiki/經紀人 "wikilink")[將軍澳寓所](../Page/將軍澳.md "wikilink")，在距離寓所還有3分鐘車程的地方與一架泥頭車相撞。這次撞車令吳少芳四肢癱瘓，其經理人亦逝世，蔡慧玲在事故後宣佈退出，Face
-to Face亦隨之解散。
+1992年，成員吳少芳（Jodi）和其[經理人駕車返回](https://zh.wikipedia.org/wiki/經紀人 "wikilink")[將軍澳寓所](../Page/將軍澳.md "wikilink")，在距離寓所還有3分鐘車程的地方與一架泥頭車相撞。這次撞車令吳少芳四肢癱瘓，其經理人亦逝世，蔡慧玲（Connie）在事故後宣佈退出，Face
+To Face亦隨之解散。
 
 2013年1月4日，Face To Face再次亮相舞台演出，成員吳少芳復出坐輪椅獻唱，晚會為全癱病人籌款，故她義不容辭獻唱。\[2\]
 
@@ -106,7 +106,7 @@ to Face亦隨之解散。
 <li>Face To Face</li>
 <li>一些</li>
 <li>新人類</li>
-<li>失意，得意，又一次</li>
+<li>失意、得意、又一次</li>
 <li>一梯一火</li>
 <li>擺動</li>
 <li>好想給你知</li>
@@ -145,8 +145,8 @@ to Face亦隨之解散。
 <td style="text-align: left;"><p>曲目</p>
 <ol>
 <li>In My Dreams</li>
-<li>擺動（擺東擺西，擺左擺右，千祈咪擺埋版）</li>
-<li>情迷Milano（情暖，情醉Mix）</li>
+<li>擺動（擺東擺西、擺左擺右、千祈咪擺埋版）</li>
+<li>情迷Milano（情暖、情醉Mix）</li>
 <li>唏！吔！Hoo！</li>
 <li>絕代卡門'92</li>
 <li>被禁的緣份</li>
@@ -165,10 +165,10 @@ to Face亦隨之解散。
 <td style="text-align: left;"><p>曲目</p>
 <ol>
 <li>一些</li>
-<li>情迷 Milano</li>
+<li>情迷Milano</li>
 <li>好想給你知</li>
 <li>蝶夢</li>
-<li>失意，得意，又一次</li>
+<li>失意、得意、又一次</li>
 <li>一梯一火</li>
 <li>Falling In Love的女子</li>
 <li>他是誰</li>
@@ -176,7 +176,7 @@ to Face亦隨之解散。
 <li>傾倒眾生</li>
 <li>追夢</li>
 <li>被禁的緣份</li>
-<li>情迷 Milano（Radio Mix）</li>
+<li>情迷Milano（Radio Mix）</li>
 <li>Face To Face</li>
 <li>新人類</li>
 <li>擺動</li>

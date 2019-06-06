@@ -1,4 +1,4 @@
-**Hibernate**是一种[Java语言下的](../Page/Java.md "wikilink")[对象关系映射解决方案](../Page/对象关系映射.md "wikilink")。它是使用[GNU宽通用公共许可证发行的](../Page/GNU宽通用公共许可证.md "wikilink")[自由](../Page/自由软件.md "wikilink")、[开源的软件](../Page/开源软件.md "wikilink")。它为[面向对象的](https://zh.wikipedia.org/wiki/面向对象 "wikilink")[领域模型到传统的](https://zh.wikipedia.org/wiki/领域模型 "wikilink")[关系型数据库的映射](../Page/关系数据库.md "wikilink")，提供了一个使用方便的框架。
+**Hibernate**是一种[Java语言下的](../Page/Java.md "wikilink")[对象关系映射解决方案](../Page/对象关系映射.md "wikilink")。它是使用[GNU宽通用公共许可证发行的](../Page/GNU宽通用公共许可证.md "wikilink")[自由](../Page/自由软件.md "wikilink")、[开源的软件](../Page/开源软件.md "wikilink")。它为[面向对象的](https://zh.wikipedia.org/wiki/面向对象 "wikilink")[领域模型到传统的](https://zh.wikipedia.org/wiki/领域模型 "wikilink")[关系型数据库的映射](../Page/关系数据库.md "wikilink")，提供了一个使用方便的[持久化框架](https://zh.wikipedia.org/wiki/持久化框架 "wikilink")。
 
 ## 概览
 

@@ -5,7 +5,8 @@
 
 ## ICE-1與ICE-2的分別
 
-[ICE2_007_Köln_Bonn_Airport_Steuerwagen.jpg](https://zh.wikipedia.org/wiki/File:ICE2_007_Köln_Bonn_Airport_Steuerwagen.jpg "fig:ICE2_007_Köln_Bonn_Airport_Steuerwagen.jpg")／波恩國際機場火車站\]\]ICE-1（型號：401）與ICE-2（型號：402）外觀很相似，但亦可以從車頭蓋子分辨出來。
+[ICE2_007_Köln_Bonn_Airport_Steuerwagen.jpg](https://zh.wikipedia.org/wiki/File:ICE2_007_Köln_Bonn_Airport_Steuerwagen.jpg "fig:ICE2_007_Köln_Bonn_Airport_Steuerwagen.jpg")
+ICE-1（型號：401）與ICE-2（型號：402）外觀很相似，但亦可以從車頭蓋子分辨出來。
 
 ICE-1的車頭蓋子是原個鑄造，前方只有一個小孔給引擎組；ICE-2的卻是分開兩邊製造，當需要與另一輛ICE-2合體時、車頭蓋子會分開突出接合器。ICE-2動力車頭的前方（車頭蓋子的下方）亦有一條保護裙邊。Bordbistro或Bordrestaurant字樣只會在ICE-2的車身印上。ICE-2亦加設了一個吸煙車廂。
 

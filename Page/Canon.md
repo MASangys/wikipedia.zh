@@ -41,7 +41,7 @@
 
 ## 企業
 
-  - [佳能](../Page/佳能.md "wikilink")（Canon），[日本佳能公司](../Page/日本.md "wikilink")，以經營[光學](https://zh.wikipedia.org/wiki/光學 "wikilink")、辦公自動化產品產品等相關業務為主。
+  - [佳能](../Page/佳能.md "wikilink")（Canon），[日本佳能公司](../Page/日本.md "wikilink")，以經營[光學](https://zh.wikipedia.org/wiki/光學 "wikilink")、辦公自動化產品產品，光學設備等相關業務為主。
 
 ## 其它
 

@@ -37,7 +37,7 @@ zh-hant:鐵必制;}-的设计建造计划也进入了研讨阶段](https://zh.wi
   - 两艘[希佩爾海軍上將級重巡洋艦](https://zh.wikipedia.org/wiki/希佩爾海軍上將級重巡洋艦 "wikilink")：（Seydlitz）和（）
   - 四艘[“M级”轻巡洋舰](../Page/M級輕巡洋艦.md "wikilink")
   - 两艘“改进型M级”轻巡洋舰
-  - 六艘“远洋侦查级”大型[驱逐舰](../Page/驱逐舰.md "wikilink")
+  - 六艘[“远洋侦察级”大型驱逐舰](../Page/遠洋偵察級輕巡洋艦.md "wikilink")
 
 第一个航空母舰[齐柏林伯爵号](../Page/齊柏林伯爵號航空母艦.md "wikilink")（Graf
 Zeppelin）建造开始于1936年，同级二号舰定于1938年开工。到了1939年中旬，随着俾斯麦号和提尔皮茨号的下水，三艘改良型战列舰（[H级战列舰](../Page/H级战列舰.md "wikilink")）开始铺设龙骨。与此同时，[Bf

@@ -190,7 +190,8 @@ Center）已经开发出了一个低成本的火星任务设想，在这一设�
 <strong>FT</strong>:6,806<br />
 <strong>v1.1</strong>:5,885<br />
 <strong>v1.0</strong>:4,940</p></td>
-<td><p>22,819</p></td>
+<td><p><strong>Block 4</strong>:22,819<br />
+<strong>Block 5</strong>:25,500</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>-{zh-hans:质量; zh-hant:質量;}-</strong><br />
@@ -207,14 +208,14 @@ Center）已经开发出了一个低成本的火星任务设想，在这一设�
 (<a href="https://zh.wikipedia.org/wiki/近地軌道" title="wikilink">LEO</a>; <a href="https://zh.wikipedia.org/wiki/公斤" title="wikilink">kg</a>)</p></td>
 <td><p>570</p></td>
 <td><p>22,800</p></td>
-<td><p>54,400</p></td>
+<td><p>63,800</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>有效载荷</strong><br />
 (<a href="https://zh.wikipedia.org/wiki/GTO" title="wikilink">GTO</a>; <a href="https://zh.wikipedia.org/wiki/公斤" title="wikilink">kg</a>)</p></td>
 <td><p> —</p></td>
 <td><p>8,300</p></td>
-<td><p>22,200</p></td>
+<td><p>26,700</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>價格</strong><br />
@@ -228,7 +229,7 @@ Center）已经开发出了一个低成本的火星任务设想，在这一设�
 (成功次數/發射次數)</p></td>
 <td><p>2/5</p></td>
 <td><p>29/30</p></td>
-<td><p>1/1</p></td>
+<td><p>2/2</p></td>
 </tr>
 </tbody>
 </table>

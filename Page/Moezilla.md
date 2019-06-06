@@ -49,7 +49,5 @@ Eng所建議而創造出來的[Opera瀏覽器擬人化](https://zh.wikipedia.org
       - <https://web.archive.org/web/20060613082918/http://cornervalley.net/illust/pbbs/20050424.htm>
       - <http://www.pandora.nu/tempo-depot/notes/The_other_side/Graffiti/d050422.htm>
 
-[en:Moezilla](https://zh.wikipedia.org/wiki/en:Moezilla "wikilink")
-
 [Category:電腦吉祥物](https://zh.wikipedia.org/wiki/Category:電腦吉祥物 "wikilink")
 [Category:萌擬人化](https://zh.wikipedia.org/wiki/Category:萌擬人化 "wikilink")

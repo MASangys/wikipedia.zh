@@ -95,7 +95,8 @@ Negroponte）於[瑞士](https://zh.wikipedia.org/wiki/瑞士 "wikilink")[達沃
 <!-- end list -->
 
   - 《今週刊》No.499：林百里、郭台銘都看好的人海商機，做40億人生意。低價電腦產生，只要100美元，2006.07.17
-  - 龐文真，[{{〈}}一百美元買到一台電腦不是夢{{〉}}](http://marketing.chinatimes.com/itemdetailpage/maincontent/05MediaContent.aspx?MMMediaType=BusinessNext&offset=324&MMContentNoID=24625)，出自《數位時代雙週》。
+  - 龐文真，\[<http://marketing.chinatimes.com/itemdetailpage/maincontent/05MediaContent.aspx?MMMediaType=BusinessNext&offset=324&MMContentNoID=24625>
+    {{〈}}一百美元買到一台電腦不是夢{{〉}}\]，出自《數位時代雙週》。
   - [100美元筆記電腦明年問世](https://web.archive.org/web/20070101060028/http://taiwan.cnet.com/news/ce/0,2000062982,20102585,00.htm)，CNET.com,
     2005.11.17
   - [未履行「一學童一筆電」承諾

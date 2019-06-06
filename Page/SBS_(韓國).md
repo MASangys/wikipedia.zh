@@ -176,7 +176,6 @@ make Delight），這個口號從2015年起使用到現在。
   - [SBS晨間連續劇](../Page/SBS晨間連續劇.md "wikilink")
   - [SBS月火連續劇](../Page/SBS月火連續劇.md "wikilink")
   - [SBS特別劇](../Page/SBS特別劇.md "wikilink")
-  - [SBS週末連續劇](../Page/SBS週末連續劇.md "wikilink")
 
 #### 過去時段
 
@@ -184,6 +183,7 @@ make Delight），這個口號從2015年起使用到現在。
   - [SBS金曜連續劇](../Page/SBS金曜連續劇.md "wikilink")
   - [SBS週末劇場](https://zh.wikipedia.org/wiki/SBS週末劇場 "wikilink")
   - [SBS週末特別計劃劇](../Page/SBS週末特別計劃劇.md "wikilink")
+  - [SBS週末連續劇](../Page/SBS週末連續劇.md "wikilink")
 
 #### 不特定時段
 

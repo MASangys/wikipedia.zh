@@ -43,7 +43,7 @@ Renalias**所建立的，他原來建立這個專案的目的只是因為他需�
 
 ## 外部連結
 
-  - [Lifetype官方網站（英）](http://www.lifetype.net)
+  - [Lifetype官方網站（英）](https://web.archive.org/web/20060428072140/http://www.lifetype.net/)
   - [Lifetype官方網站（中）](http://www.lifetype.org.tw)
   - [Lifetype官方論壇（英）](http://forums.lifetype.net)
   - [Lifetype官方論壇（中）](http://forum.lifetype.org.tw)

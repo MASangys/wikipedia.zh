@@ -1,5 +1,5 @@
 [Cristo_crucificado.jpg](https://zh.wikipedia.org/wiki/File:Cristo_crucificado.jpg "fig:Cristo_crucificado.jpg")画家[委拉斯开兹作品](https://zh.wikipedia.org/wiki/迪亚哥·委拉斯开兹 "wikilink")\]\]
-[La_descente_de_croix_Rubens.jpg](https://zh.wikipedia.org/wiki/File:La_descente_de_croix_Rubens.jpg "fig:La_descente_de_croix_Rubens.jpg")画家[鲁本斯作品](https://zh.wikipedia.org/wiki/彼得·保罗·鲁本斯 "wikilink")\]\]
+[La_descente_de_croix_Rubens.jpg](https://zh.wikipedia.org/wiki/File:La_descente_de_croix_Rubens.jpg "fig:La_descente_de_croix_Rubens.jpg")画家[鲁本斯作品](../Page/彼得·保罗·鲁本斯.md "wikilink")\]\]
 
 “**[耶稣](../Page/耶稣.md "wikilink")，[拿撒勒人](../Page/拿撒勒.md "wikilink")，[犹太人的](../Page/犹太人.md "wikilink")[君王](https://zh.wikipedia.org/wiki/犹太君主列表 "wikilink")**”（），是中的一个短语，常缩写为。
 

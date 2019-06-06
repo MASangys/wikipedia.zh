@@ -449,7 +449,7 @@
 <td><p>BCM</p></td>
 <td><p>LRBC</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/巴克烏縣" title="wikilink">巴克烏縣</a><a href="https://zh.wikipedia.org/wiki/巴克烏" title="wikilink">巴克烏</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/巴克烏縣" title="wikilink">巴克烏縣</a><a href="../Page/巴克烏.md" title="wikilink">巴克烏</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

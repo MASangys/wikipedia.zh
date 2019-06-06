@@ -43,7 +43,8 @@ FX平台的晶片組，名為"[RD790](https://zh.wikipedia.org/wiki/RD790 "wikil
   - [AMD Press
     Release](http://www.amd.com/us-en/Corporate/VirtualPressRoom/0,,51_104_543~114483,00.html)
   - [AMD官方公佈（簡體中文）](http://www.amd.com.cn/CHCN/Corporate/VirtualPressRoom/newsshow.asp-TypeId=8&NewsId=425.htm)
-  - [Cnet report](http://reviews.cnet.com/4531-10921_7-6536370.html)
+  - [Cnet
+    report](https://web.archive.org/web/20060813233415/http://reviews.cnet.com/4531-10921_7-6536370.html)
   - [Hardware Secrets report](http://www.hardwaresecrets.com/news/1182)
   - [A+E Interactive
     report](https://web.archive.org/web/20070929140542/http://blogs.mercurynews.com/aei/2006/06/amd_puts_pressu.html#more)
@@ -67,8 +68,8 @@ FX平台的晶片組，名為"[RD790](https://zh.wikipedia.org/wiki/RD790 "wikil
 
 5.
 
-6.  [The Inquirer report on "[nForce
-    680a](https://zh.wikipedia.org/wiki/nForce_600 "wikilink")"](http://www.theinquirer.net/default.aspx?article=35334)
+6.  [The Inquirer report on
+    "nForce 680a"](http://www.theinquirer.net/default.aspx?article=35334)
 
 
 7.  [ASUS is the sole 4x4 chipset motherboard maker

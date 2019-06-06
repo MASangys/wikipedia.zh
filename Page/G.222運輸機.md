@@ -53,7 +53,8 @@ G.222設計採用了運輸機的常見構型：高單翼，雙[渦輪旋槳發�
 
 ## 外部連結
 
-  - [Alenia Canadian website advocating C-27J](http://www.c-27j.ca)
+  - [Alenia Canadian website advocating
+    C-27J](https://web.archive.org/web/20040806003149/http://www.c-27j.ca/)
   - [GMAS website promoting C-27J for the U.S. Army and Air Force JCA
     Program](https://web.archive.org/web/20070617224327/http://www.c-27j.com/)
   - [CdnMilitary.ca Article on the C-27J

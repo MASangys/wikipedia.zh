@@ -52,7 +52,7 @@ tvbuddy首見於2007年1月29日無綫電視的[新年宣傳片](https://zh.wiki
 
   - [tvbuddy 官方網頁](http://jade.tvb.com/special/tvbuddy/)
 
-[Category:電視廣播有限公司人物](https://zh.wikipedia.org/wiki/Category:電視廣播有限公司人物 "wikilink")
+[Category:無綫電視](https://zh.wikipedia.org/wiki/Category:無綫電視 "wikilink")
 [Category:吉祥物](https://zh.wikipedia.org/wiki/Category:吉祥物 "wikilink")
 
 1.  「Tvbuddy」的標誌寫法為小寫「tvbuddy」。但根據《[TVB周刊](../Page/TVB周刊.md "wikilink")》第507期封面和內文，大都使用「TVBuddy」，可見兩者通用。

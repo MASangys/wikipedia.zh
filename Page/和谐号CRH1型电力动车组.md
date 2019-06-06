@@ -55,7 +55,7 @@ BSP在2007年10月31日再獲得铁道部20列16节编组动车组新訂单，�
 ### CRH1E
 
 而2007年10月31日签订的合同中另外20列动车组（CRH1E-1061～CRH1E-1080）以龐巴迪新研發的[ZEFIRO
-250系列為基礎](https://zh.wikipedia.org/wiki/ZEFIRO系列電動車組 "wikilink")，为16节车厢的大編組卧铺动车组，每组包括10節動車配6節拖車（10M6T），最高运营速度为250公里/小时，車標示為200公里/小時，成为世界上第一种能达到200-250公里/小时的高速卧铺动车组。現時主要負責[動臥及中短途班次](https://zh.wikipedia.org/wiki/動臥 "wikilink")，在一般情況下，列車在夜間行駛如[杭福深客運專線時速為](../Page/杭福深客運專線.md "wikilink")200公里/小時，而在[沪昆高铁和](https://zh.wikipedia.org/wiki/沪昆高铁 "wikilink")[广深港高铁則可運行至](https://zh.wikipedia.org/wiki/广深港高铁 "wikilink")250公里/小時。
+250系列為基礎](https://zh.wikipedia.org/wiki/ZEFIRO系列電動車組 "wikilink")，为16节车厢的大編組卧铺动车组，每组包括10節動車配6節拖車（10M6T），最高运营速度为250公里/小时，車標示為200公里/小時，成为世界上第一种能达到200-250公里/小时的高速卧铺动车组。現時主要負責[動臥及中短途班次](https://zh.wikipedia.org/wiki/動臥 "wikilink")，在一般情況下，列車在夜間行駛如[杭福深客運專線時速為](../Page/杭福深客運專線.md "wikilink")200公里/小時，而在[沪昆高铁](https://zh.wikipedia.org/wiki/沪昆高铁 "wikilink")、[京广高铁及](https://zh.wikipedia.org/wiki/京广高铁 "wikilink")[广深港高铁則可運行至](https://zh.wikipedia.org/wiki/广深港高铁 "wikilink")250公里/小時。
 
 列車所使用的龐巴迪MITRAC牽引系統由龐巴迪CPC牽引系統公司（龐巴迪在[常州设立的中外合資公司](https://zh.wikipedia.org/wiki/常州 "wikilink")）和龐巴迪在歐洲的工廠生產\[12\]。首12列CRH1E型动车组编组中有1节豪华软卧车（WG）、12节软卧车（WR）、2节二等座车（ZE）和1节餐车（CA），全列定员618人。其中位于10号车厢的高级软卧车每车定员16人，设8个包厢，每个包厢2个铺位，每个包厢中均有沙发和衣柜，但没有独立卫生间，车厢一端设有带转角式沙发的休息室。但由第13列动车组（CRH1E-1073）起取消了高级软卧车，并以软卧车代替，全列定员增加至642人。
 
@@ -99,23 +99,23 @@ CRH1E-NG设计为[卧铺动车组](https://zh.wikipedia.org/wiki/高铁动卧 "w
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/广州局集團" title="wikilink">广州局集團</a></p></td>
-<td><p>16</p></td>
-<td><p>1001、1002、1004～1007、1011～1020</p></td>
+<td><p>17</p></td>
+<td><p>1001、1002、1005～1009、1011～1020</p></td>
 <td><p>广州東</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/广深铁路" title="wikilink">广深铁路</a>、<a href="https://zh.wikipedia.org/wiki/杭福深客运专线" title="wikilink">杭福深铁路</a>、<a href="../Page/广梅汕铁路.md" title="wikilink">广梅汕铁路</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>35</p></td>
-<td><p>1003、1008～1010、1086～1090、1094～1104、1106～1109、1117～1119、1123﹑1124﹑1141～1143、1154、1165、1166</p></td>
+<td><p>32</p></td>
+<td><p>1003、1086～1090、1094～1104、1106～1109、1117～1119、1123﹑1124﹑1141～1143、1154、1165、1166</p></td>
 <td><p>深圳北</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/杭福深客运专线" title="wikilink">杭福深铁路</a>、<a href="../Page/广梅汕铁路.md" title="wikilink">广梅汕铁路</a></p></td>
-<td><p>1003、1008～1010定員668；1123及更大数值的，定员649；其余定员645。</p></td>
+<td><p>1003定員668；1123及更大数值的，定员649；其余定员645。</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2</p></td>
-<td><p>1167、1168</p></td>
+<td><p>4</p></td>
+<td><p>1004、1010、1167、1168</p></td>
 <td><p>佛山（客專場）</p></td>
 <td><p><a href="../Page/贵广客运专线.md" title="wikilink">贵广客运专线</a>、<a href="https://zh.wikipedia.org/wiki/廣珠城際鐵路" title="wikilink">廣珠城際鐵路</a>、<a href="https://zh.wikipedia.org/wiki/深湛鐵路" title="wikilink">深湛鐵路</a></p></td>
 <td></td>
@@ -221,16 +221,16 @@ CRH1E-NG设计为[卧铺动车组](https://zh.wikipedia.org/wiki/高铁动卧 "w
 <td><p>担当杭深线涉港车次中由广州局集团值乘的部分</p></td>
 </tr>
 <tr class="odd">
-<td><p>20</p></td>
-<td><p>1171、1177～1184、1209～1216、1237、1248、1250</p></td>
+<td><p>18</p></td>
+<td><p>1171、1177～1184、1209～1214、1216、1250、1260</p></td>
 <td><p>三亞</p></td>
 <td><p><a href="../Page/海南东环铁路.md" title="wikilink">海南东环铁路</a>、<a href="../Page/海南西环高速铁路.md" title="wikilink">海南西环高速铁路</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>29</p></td>
-<td><p>1170、1219～1228、1238～1242、1244～1246、1251～1260</p></td>
+<td><p>31</p></td>
+<td><p>1170、1215、1219～1228、1237～1242、1244～1246、1248、1251～1259</p></td>
 <td><p>佛山（客專場）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/貴廣客运专线" title="wikilink">貴廣客运专线</a>、<a href="https://zh.wikipedia.org/wiki/南廣鐵路" title="wikilink">南廣鐵路</a>、<a href="../Page/渝贵铁路.md" title="wikilink">渝贵铁路</a>、<a href="https://zh.wikipedia.org/wiki/沪汉蓉客运专线" title="wikilink">沪汉蓉客运专线</a>、<a href="https://zh.wikipedia.org/wiki/成渝高铁" title="wikilink">成渝高铁</a></p></td>
 <td></td>

@@ -1400,8 +1400,12 @@ Gary之前女友<br />
     烈火雄心II](http://www.tvb.com/tvbi/program/flameII/index.html)
   - [《烈火雄心II》 GOTV
     第1集重溫](https://web.archive.org/web/20140222162413/http://gotv.tvb.com/programme/102437/151492/)
+  - [烈火雄心II - myTV
+    SUPER](https://programme.mytvsuper.com/tc/102437/%E7%83%88%E7%81%AB%E9%9B%84%E5%BF%83ii)
 
 ## 電視節目的變遷
+
+首播 重播
 
 [Category:烈火雄心系列](https://zh.wikipedia.org/wiki/Category:烈火雄心系列 "wikilink")
 [Category:2002年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2002年無綫電視劇集 "wikilink")

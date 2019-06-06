@@ -9,7 +9,8 @@ Office](../Page/Microsoft_Office.md "wikilink")，SQL Server
 **Windows Update**及**Microsoft
 Update**能夠提供一个下载重要[系统组件更新](https://zh.wikipedia.org/wiki/系统组件 "wikilink")、[服务升级包](https://zh.wikipedia.org/wiki/服务升级包 "wikilink")（）、hotfix程序（）、[补丁以及內建系統程序的更新](https://zh.wikipedia.org/wiki/补丁 "wikilink")，會自动查詢使用者的[硬件并提供能使用的](https://zh.wikipedia.org/wiki/计算机硬件 "wikilink")[驱动程序更新](../Page/驱动程序.md "wikilink")，又或者提供一些[微软](../Page/微软.md "wikilink")[程序的](../Page/计算机程序.md "wikilink")[測試](https://zh.wikipedia.org/wiki/測試 "wikilink")[版本](https://zh.wikipedia.org/wiki/版本 "wikilink")。
 
-大多数的更新和补丁会在它们被发布后出现在Windows Update。修补程序和更新通常能够在Microsoft 下載中心上手动下载。
+大多数的更新和[补丁会发布后出现在Windows](https://zh.wikipedia.org/wiki/补丁 "wikilink")
+Update，也通常能够在Microsoft下載中心上手动下载。
 
 大部分运行Microsoft
 Windows的[办公网络和](https://zh.wikipedia.org/wiki/办公网络 "wikilink")[服务器可能会发现使用](../Page/服务器.md "wikilink")[Windows
@@ -23,11 +24,11 @@ Explorer或者Internet](../Page/Internet_Explorer.md "wikilink")
 Explorer外掛代替。同样，它被使用微软的[脚本语言](../Page/脚本语言.md "wikilink")[VBScript和](../Page/VBScript.md "wikilink")[JScript编码](../Page/JScript.md "wikilink")。它和使用IE核心的瀏覽器(例如：Netscape
 8.0)相容。
 
-在2005年，微软介绍了一款選用的Microsoft
+在2005年，微软介绍了一款選装的Microsoft
 Update，它可将受支持的[作業系统](https://zh.wikipedia.org/wiki/作業系统 "wikilink")，包含[Microsoft
 Office](../Page/Microsoft_Office.md "wikilink")（Office 2007和Office
 2010，仅支持所有用户安装模式），[Exchange和](../Page/Microsoft_Exchange_Server.md "wikilink")[SQL
-Server的更新递送](https://zh.wikipedia.org/wiki/SQL_Server "wikilink")。这对许多抱怨很难从微软产品网站中得到所有Microsoft產品重要更新的用户作出了回应。
+Server的更新递送](https://zh.wikipedia.org/wiki/SQL_Server "wikilink")。这是对许多用户抱怨很难从微软产品网站中得到所有重要更新的一个回应。
 
 ## 历史
 
@@ -91,7 +92,7 @@ Update除了出現在控制台(Control Panel)，另外也出現在Windows新推�
 在[Windows
 10中](../Page/Windows_10.md "wikilink")，改成只出現在\[設定\](Settings)的\[更新與安全性\](Update
 and
-Security)下，更新設定不再讓使用者選擇(家用版完全無法延後更新)，改成在使用者使用電腦或行動裝置時背景自動下載與安裝，並要求使用者重新啟動裝置。
+Security)下，更新設定不再允許使用者設定自動更新(家用版完全無法延後更新)，而改成在使用者使用電腦或行動裝置運行時背景自動下載與安裝，並要求使用者重新啟動裝置。
 
 ## 微软“正版增值”计划
 

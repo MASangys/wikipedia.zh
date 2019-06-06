@@ -119,7 +119,7 @@ API的顶端。 技术为管理组件状态提供一个丰富的体系机构、�
     JSF tutorials, Code Examples, Best Practices
 
   - [JSF Tutorials, Examples and Articles
-    catalog](http://www.jsftutorials.net)
+    catalog](https://web.archive.org/web/20180720072828/http://www.jsftutorials.net/)
 
   - [JSR 276](http://www.jcp.org/en/jsr/detail?id=276) Design-Time
     [Metadata](https://zh.wikipedia.org/wiki/Metadata "wikilink") for

@@ -19,7 +19,7 @@ Love美式餐廳」\[19\]。2018年1月，他和好友[歐漢聲合夥開設花�
 
 ## 個人生活
 
-「NONO」這個小名來自父母在NONO年幼時怕他被人拐跑，告訴他如果遇到陌生人要說「NO！NO！」。其軍旅生涯在[憲兵單位服役](../Page/中華民國憲兵.md "wikilink")（忠貞435梯次），以[上兵軍階退伍](https://zh.wikipedia.org/wiki/上兵 "wikilink")。NONO多次在節目中表示，1991年（[中華民國](../Page/中華民國.md "wikilink")80年）[雙十國慶](https://zh.wikipedia.org/wiki/雙十國慶 "wikilink")[閱兵大典](https://zh.wikipedia.org/wiki/閱兵 "wikilink")（演習代號：華統演習）中，他曾擔任閱兵指揮部掌旗禮兵，負責執掌[空軍軍旗](../Page/中華民國空軍.md "wikilink")。
+「NONO」這個小名來自父母在NONO年幼時怕他被人拐跑，告訴他如果遇到陌生人要說「NO！NO！」。其軍旅生涯在[中華民國憲兵單位服役](../Page/中華民國憲兵.md "wikilink")（忠貞435梯次），以[上兵軍階退伍](https://zh.wikipedia.org/wiki/上兵 "wikilink")。NONO多次在節目中表示，[中華民國建國八十年雙十節國慶閱兵大典](../Page/1991年中華民國國慶閱兵.md "wikilink")（演習代號：華統演習）中，他曾擔任閱兵指揮部掌旗禮兵，負責執掌[中華民國空軍](../Page/中華民國空軍.md "wikilink")[軍旗](https://zh.wikipedia.org/wiki/軍旗 "wikilink")。
 
 2011年11月3日，NONO在[台南棒球場](https://zh.wikipedia.org/wiki/台南棒球場 "wikilink")「2011明星公益棒球賽」上向交往2年多的女友歌手朱海君下跪求婚，而朱海君亦答應\[26\]。然而因朱海君的媽媽見女兒事業剛起步，不宜過早結婚而反對，兩人暫時分開四個月。最終NONO經師父許效舜和好友[曾國城等人的助陣到朱家提親成功](../Page/曾國城.md "wikilink")\[27\]，兩人在2013年7月12日結婚，伴郎是[歐漢聲和](../Page/歐漢聲.md "wikilink")[吳克羣](https://zh.wikipedia.org/wiki/吳克羣 "wikilink")，伴娘是[果凍姐姐和](https://zh.wikipedia.org/wiki/果凍姐姐 "wikilink")[愷樂](../Page/簡愷樂.md "wikilink")，媒人是[王彩樺](../Page/王彩樺.md "wikilink")\[28\]\[29\]。2014年3月2日，長女誕生，暱稱「NO妹」；2015年證實[乾爹是](https://zh.wikipedia.org/wiki/乾爹 "wikilink")[阿杜](https://zh.wikipedia.org/wiki/阿杜 "wikilink")\[30\]。
 

@@ -3,18 +3,33 @@ Inc）成立於1988年，是EDA(電子設計自動化)軟體與工程服務的�
 
 ## 历史
 
-Cadence是由SDA
-Systems和ECAD兩家公司於1988年合併而成立的，從1990年代起，透過內部開發以及多項併購行動，逐步建構包含佈線、合成、以及硬體模擬等完整的設計解決方案，例如1998年收購Ambit
-Design System、1999年收購Quickturn、2002年收購IBM的硬體模擬業務、以及2003年收購Get2Chip等。
+### 公司起源
 
-此外，Cadence自2010年起強化IP業務，當年度收購片上記憶體IP領先廠商Denali以及2013年收購可配置處理器IP廠商Tensilica最為重要，後陸續收購包括Cosmic
+1988年，SDA Systems和ECAD兩家公司於此年合併組成’’’益華電腦股份有限公司（Cadence Design Systems,
+Inc）’’’。同年還收購了Ambit Design System。
+
+自1990年代起，透過內部開發以及多項併購行動，逐步建構包含佈線、合成、以及硬體模擬等完整的設計解決方案。
+
+### 併購計劃
+
+1999年，公司收購了Quickturn。
+
+2002年，收購IBM的硬體模擬業務；2003年，又收購了Get2Chip等業務。
+
+2009年，陳立武(Lip-Bu Tan)成為現任的執行長。
+
+2010年起，公司開始強化IP業務，當年度收購片上記憶體IP領先廠商Denali。
+
+### 近年發展
+
+2013年，收購可配置處理器IP廠商Tensilica最為重要，後陸續收購包括Cosmic
 Circuits、Evatronix的IP部門、以及Transwitch的HIS部門，建立完整IP產品組合。
 
 因應智慧聯網系統的快速發展，Cadence近年積極朝系統實現(System Design
 Enablement)方向移轉，於2014年收購高階合成(HLS)業者Forte
 Design System以及形式驗證業者Jasper Design Automation。
 
-現任執行長陳立武(Lip-Bu Tan)於2009年上任迄今，該公司已於2015年起連續三年，被財星雜誌列為「百大最佳職場」。
+2015年起，公司連續三年，被[財星雜誌列為](https://zh.wikipedia.org/wiki/財星雜誌 "wikilink")「百大最佳職場」。
 
 ## 產品
 

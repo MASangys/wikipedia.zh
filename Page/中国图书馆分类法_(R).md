@@ -118,7 +118,7 @@
 
 :\*R45 [治疗学](https://zh.wikipedia.org/wiki/治疗学 "wikilink")
 
-:\*R47 [护理学](https://zh.wikipedia.org/wiki/护理学 "wikilink")
+:\*R47 [护理学](../Page/护理学.md "wikilink")
 
 :\*R48 [临终关怀学](https://zh.wikipedia.org/wiki/临终关怀学 "wikilink")
 

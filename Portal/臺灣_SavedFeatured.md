@@ -14,9 +14,19 @@
 
 <!-- end list -->
 
-  - [新中橫公路](../Page/新中橫公路.md "wikilink") -
+  - [強震即時警報](../Page/強震即時警報.md "wikilink") -
+    [桃園捷運](https://zh.wikipedia.org/wiki/桃園捷運 "wikilink") -
     [中華民國陸軍軍官學校](../Page/中華民國陸軍軍官學校.md "wikilink")
-    - [鄧福如](../Page/鄧福如.md "wikilink")
+
+## 2018年11月26日
+
+[Map_of_the_Current_New_Central_Cross-Island_Highway_(Traditional_Chinese).png](https://zh.wikipedia.org/wiki/File:Map_of_the_Current_New_Central_Cross-Island_Highway_\(Traditional_Chinese\).png "fig:Map_of_the_Current_New_Central_Cross-Island_Highway_(Traditional_Chinese).png")
+
+**新中橫公路**，又稱**新中部橫貫公路**，為連接[臺灣東部與西部的一條橫貫公路](../Page/臺灣.md "wikilink")，位於[臺灣島中央地帶](https://zh.wikipedia.org/wiki/台灣地理#台灣島 "wikilink")，介於[中橫公路和](../Page/中橫公路.md "wikilink")[南橫公路之間](../Page/南橫公路.md "wikilink")，以[玉山為中心](../Page/玉山.md "wikilink")，分出：[嘉義—玉山](https://zh.wikipedia.org/wiki/新中橫公路#嘉義玉山線 "wikilink")、[水里—玉山](https://zh.wikipedia.org/wiki/新中橫公路#水里玉山線 "wikilink")、[玉里—玉山](https://zh.wikipedia.org/wiki/新中橫公路#玉里玉山線 "wikilink")，由此三線構成丫字狀路網。雖然是以玉山為中心，實際的交會點卻是於沙里溪頭，歷經數次變更，最後將交會點設於東埔山埡口，如今則被稱[塔塔加為新中橫公路最高點](../Page/塔塔加.md "wikilink")，海拔2,610公尺。
+
+1970年代，正值[十大建設的實行之際](../Page/十大建設.md "wikilink")，中華民國政府計畫新闢三條橫貫公路，並列為[十二項建設計畫之一](../Page/十二項建設.md "wikilink")。1980年代，已經開工的新中橫公路，因生態保育的意識逐漸抬頭，以及[玉山國家公園劃設於新中橫公路通過之路線](../Page/玉山國家公園.md "wikilink")，形成公路開發與生態保育之間的轉捩點，政策有六年時間游移不定，一度允許榮工處（今[榮民工程公司](https://zh.wikipedia.org/wiki/榮民工程公司 "wikilink")）繼續向西闢建至[大分](../Page/大分_\(花蓮縣\).md "wikilink")，最後在[環境影響評估審查下](../Page/环境影响评价.md "wikilink")，由[行政院下達放棄興建之行政命令](../Page/行政院.md "wikilink")，全線於1991年1月1日通車，形成一條「沒有橫貫」的公路。
+
+[了解更多...](../Page/新中橫公路.md "wikilink")
 
 ## 2018年10月22日
 

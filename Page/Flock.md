@@ -28,6 +28,7 @@ Mail等](../Page/Yahoo!_Mail.md "wikilink")。當[登入到任一支援的社群
 [Category:Gecko衍生軟體](https://zh.wikipedia.org/wiki/Category:Gecko衍生軟體 "wikilink")
 [Category:Webkit衍生軟體](https://zh.wikipedia.org/wiki/Category:Webkit衍生軟體 "wikilink")
 [Category:基於Mozilla_Firefox的網頁瀏覽器](https://zh.wikipedia.org/wiki/Category:基於Mozilla_Firefox的網頁瀏覽器 "wikilink")
+[Category:基于Chromium的浏览器](https://zh.wikipedia.org/wiki/Category:基于Chromium的浏览器 "wikilink")
 
 1.  [Flock Browser – Built on Mozilla's
     Firefox](http://www.flock.com/mozilla)

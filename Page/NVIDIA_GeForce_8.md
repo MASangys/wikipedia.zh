@@ -163,7 +163,7 @@ GS把記憶體頻寬降至64bit，更不支援PureVideo功能。
 #### GeForce 8400系列
 
 起初8400 GS(G86)的PureVideo HD是不可以支援VC-1硬體解碼。之後，NVIDIA推出了採用新核心的8400
-GS顯示卡。核心代號是G98，是繼G92後的第二款採用65nm工藝製造的顯示核心。核心由台联电生產，核心頻率是567MHz。新的核心，已新增支援VC-1硬體解碼。所以，新的8400
+GS顯示卡。核心代號是G98，是繼G92後的第二款採用65nm工藝製造的顯示核心。核心由[聯電生產](https://zh.wikipedia.org/wiki/聯電 "wikilink")，核心頻率是567MHz。新的核心，已新增支援VC-1硬體解碼。所以，新的8400
 GS已完整支援，[H.264和VC](https://zh.wikipedia.org/wiki/H.264 "wikilink")-1解碼。但是，HDCP
 Key
 Rom仍然未整合到顯示核心中，須要另加晶片支援。[HDMI方面](../Page/HDMI.md "wikilink")，音頻信號須透過[SPIDF輸入](https://zh.wikipedia.org/wiki/SPIDF "wikilink")，顯示核心仍然不像HD系列顯示卡般，能直接處理音頻信號。另外，新版本的8400

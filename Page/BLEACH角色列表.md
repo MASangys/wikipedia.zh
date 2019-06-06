@@ -600,7 +600,6 @@ DIE」。千年血戰篇雪緒利用此能力和結合莉露卡的能力，製�
   - [更木劍八](../Page/更木劍八.md "wikilink")（十一番隊 隊長）
   - [涅繭利](../Page/涅繭利.md "wikilink")（十二番隊 隊長）
   - [朽木露琪亞](../Page/朽木露琪亞.md "wikilink")（十三番隊 隊長；原十三番隊 副隊長）
-  - [阿散井恋次](https://zh.wikipedia.org/wiki/阿散井恋次 "wikilink")（六番隊 副隊長）
 
 前擔任成員：
 
@@ -1738,12 +1737,14 @@ Pattern）」將對方的靈壓漏洞的靈子溢出而癱瘓。曾中了此能�
   -
     聲優：[津田健次郎](../Page/津田健次郎.md "wikilink")（BLEACH: Brave Souls）
     四大名门「綱彌代」家族的現任當家。殺害东仙要的友人歌匡的兇手與丈夫。
+    斬魄刀:九天鏡谷
 
 <!-- end list -->
 
   -
     聲優：[村瀨步](../Page/村瀨步.md "wikilink")（BLEACH: Brave Souls）
     綱彌代時灘的徒弟，同時有著死神、虚以及灭却师力量的少年。與黑崎一護一樣擁有成為靈王候選人的資格。
+    斬魄刀:已已巳已巴
 
 <!-- end list -->
 
@@ -2400,6 +2401,12 @@ Ryūga: Homura）** || 天貝最強的招式，卍解下技能，從「雷火豪
   -
     聲優：[川野剛稔](https://zh.wikipedia.org/wiki/川野剛稔 "wikilink")（日本）；[黃天佑](../Page/黃天佑.md "wikilink")（台灣）
     僅於動畫第311話登場。
+
+<!-- end list -->
+
+  -
+    聲優：[木村雅史](https://zh.wikipedia.org/wiki/木村雅史 "wikilink")（日本）
+    僅於動畫第313話登場。
 
 <!-- end list -->
 

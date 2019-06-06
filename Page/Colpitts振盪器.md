@@ -109,6 +109,10 @@ Circuit Design: The Designer's Companion, Part 1
 
 这种近似的结果也适用于采用不同有源器件的振荡器，如[MOSFET和](https://zh.wikipedia.org/wiki/MOSFET "wikilink")[真空管](../Page/真空管.md "wikilink")。
 
+## 參見
+
+  - [皮爾斯晶體震盪電路](../Page/皮爾斯震盪器.md "wikilink")
+
 ## 参考文献
 
 ## 延伸阅读

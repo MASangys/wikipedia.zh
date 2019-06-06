@@ -110,34 +110,45 @@ Mobile FeliCa 芯片，增加了容量且通信功能加強。使用此種芯片
 ## 相關條目
 
   - [RFID](https://zh.wikipedia.org/wiki/RFID "wikilink")
-  - [おサイフケータイ](https://zh.wikipedia.org/wiki/おサイフケータイ "wikilink")
-  - ICカード乗車券
-      - [Suica](../Page/Suica.md "wikilink")
+
+  - [MIFARE](https://zh.wikipedia.org/wiki/MIFARE "wikilink")
+
+  -
+  -   - [Suica](../Page/Suica.md "wikilink")
+
       - [TOICA](../Page/TOICA.md "wikilink")
+
       - [ICOCA](../Page/ICOCA.md "wikilink")
-      - [せたまる](https://zh.wikipedia.org/wiki/せたまる "wikilink")
+
+      -
       - [PASMO](../Page/PASMO.md "wikilink")
-      - [LuLuCa](https://zh.wikipedia.org/wiki/LuLuCa "wikilink")
-      - [NICE
-        PASS](https://zh.wikipedia.org/wiki/ナイスパス_\(遠州鉄道\) "wikilink")
-      - [ayuca](https://zh.wikipedia.org/wiki/ayuca "wikilink")
-      - [Passca](https://zh.wikipedia.org/wiki/Passca "wikilink")
-      - [ICa](https://zh.wikipedia.org/wiki/ICa "wikilink")
-      - [CI-CA](https://zh.wikipedia.org/wiki/CI-CA "wikilink")
-      - [NicoPa](https://zh.wikipedia.org/wiki/NicoPa "wikilink")
+
+      -
+      -
+      -
+      -
+      -
+      -
+      -
       - [PiTaPa](../Page/PiTaPa.md "wikilink")
-      - [Hareca](https://zh.wikipedia.org/wiki/Hareca "wikilink")
-      - [IruCa](https://zh.wikipedia.org/wiki/IruCa "wikilink")
-      - [ICい～カード](https://zh.wikipedia.org/wiki/ICい～カード "wikilink")
-      - [長崎スマートカード](https://zh.wikipedia.org/wiki/長崎スマートカード "wikilink")
-      - [宮交バスカ](https://zh.wikipedia.org/wiki/宮交バスカ "wikilink")
-      - [いわさきICカード](https://zh.wikipedia.org/wiki/いわさきICカード "wikilink")
-      - [RapiCa](https://zh.wikipedia.org/wiki/RapiCa "wikilink")
+
+      -
+      -
+      -
+      -
+      -
+      -
+      -
   - [Edy](https://zh.wikipedia.org/wiki/Edy "wikilink")
+
   - [nanaco](https://zh.wikipedia.org/wiki/nanaco "wikilink")
+
   - [八達通](../Page/八達通.md "wikilink")
+
   - [深圳通](../Page/深圳通.md "wikilink")（现只有「互通行」卡有使用FeliCa）
-  - [QUICPay](https://zh.wikipedia.org/wiki/QUICPay "wikilink")（JCB）
+
+  - （JCB）
+
   - [長安通](https://zh.wikipedia.org/wiki/長安通 "wikilink")
 
 ## 外部連結

@@ -20,7 +20,7 @@ Zeitung》称布坎南展示了政治家如何破坏公平和简单的税收制�
 
 ## 思想
 
-布坎南的研究重心集中在公共财政，公共债务，投票，宏观经济学，宪法经济学和自由主义理论等领域。
+布坎南的研究重心集中在[公共财政](https://zh.wikipedia.org/wiki/公共财政 "wikilink")，公共债务，[投票](../Page/投票.md "wikilink")，[宏观经济学](../Page/宏观经济学.md "wikilink")，宪法经济学和[自由主义理论等领域](../Page/自由主义.md "wikilink")。
 
 布坎南在1962年與[戈登·圖洛克合著的](../Page/戈登·圖洛克.md "wikilink")《同意的計算》（*The Calculus
 of

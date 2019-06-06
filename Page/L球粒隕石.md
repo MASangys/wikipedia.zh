@@ -32,8 +32,6 @@ L球粒隕石中含有最多的[礦物為](../Page/礦物.md "wikilink")[橄欖�
 
   -
   -
-[fi:L-kondriitti](https://zh.wikipedia.org/wiki/fi:L-kondriitti "wikilink")
-
 [Category:陨石](https://zh.wikipedia.org/wiki/Category:陨石 "wikilink")
 [Category:隕石類型](https://zh.wikipedia.org/wiki/Category:隕石類型 "wikilink")
 

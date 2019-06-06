@@ -89,8 +89,8 @@ Identity。
 
 ### 隐蔽重定向漏洞(Covert Redirect)
 
-2014年5月，新加坡南洋理工大学一位名叫王晶(Wang
-Jing)的物理和数学科学学院博士生\[4\]，发现了[OAuth和](https://zh.wikipedia.org/wiki/OAuth "wikilink")**OpenID**开源登录工具的"[隐蔽重定向漏洞](https://zh.wikipedia.org/wiki/隐蔽重定向漏洞 "wikilink")"\[5\]\[6\]\[7\]。
+2014年5月，新加坡南洋理工大学一位名叫王晶（Wang
+Jing）的物理和数学科学学院博士生\[4\]，发现了[OAuth和](https://zh.wikipedia.org/wiki/OAuth "wikilink")**OpenID**开源登录工具的"[隐蔽重定向漏洞](https://zh.wikipedia.org/wiki/隐蔽重定向漏洞 "wikilink")"\[5\]\[6\]\[7\]。
 
 其实漏洞不是出现在OpenID这个协议本身，这个协议本身是没有问题的，之所以存在问题是因为各个厂商没有严格參照官方文档，只是实现了简版。问题的原因在于OpenID的提供方提供OpenID授权过程中没有对回调的URL进行校验，从而导致可以被赋值为非原定的回调URL\[8\]\[9\]。
 

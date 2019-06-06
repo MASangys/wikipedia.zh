@@ -167,7 +167,7 @@
 
 :::\*I246.7 [新体短篇小说](https://zh.wikipedia.org/wiki/新体短篇小说 "wikilink")
 
-:::\*I246.8 [故事](https://zh.wikipedia.org/wiki/故事 "wikilink")
+:::\*I246.8 [故事](../Page/故事.md "wikilink")
 
 ::\*I247 当代作品（1949年－）
 
@@ -196,7 +196,7 @@
 :::\*I247.7 新体[短篇小说](https://zh.wikipedia.org/wiki/短篇小说 "wikilink")
 
 :::\*I247.8
-[故事](https://zh.wikipedia.org/wiki/故事 "wikilink")、[微型小说](https://zh.wikipedia.org/wiki/微型小说 "wikilink")
+[故事](../Page/故事.md "wikilink")、[微型小说](https://zh.wikipedia.org/wiki/微型小说 "wikilink")
 
 :\*I25 [报告文学](../Page/报告文学.md "wikilink")
 

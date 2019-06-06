@@ -53,8 +53,7 @@ Line Interleave
     V8（图）](http://tech.icxo.com/htmlnews/2003/12/09/42128.htm)
 2.  [XGI Volari Duo V8
     Ultra零售版实物抢先看](http://www.pc6.com/infoview/Article_7590.html)
-3.  [双GPU－－Volari Duo V8
-    Ultra性能大公開](http://bak1.beareyes.com.cn/2/lib/200401/23/20040123003.htm)
+3.
 4.  [XGI Volari V8 Duo显示卡抢先测试](http://news.mydrivers.com/1/17/17307.htm)
 5.  [圖誠科技 Volari G6 H264
     播放能力](http://www.youtube.com/watch?v=rqv5oOPtzgE)

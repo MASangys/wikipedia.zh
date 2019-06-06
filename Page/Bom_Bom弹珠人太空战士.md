@@ -333,12 +333,12 @@ Bom彈珠人太空戰士》，星期一至五於翡翠台《[放學ICU](../Page/
 
 ## 外部連結
 
-  - [動畫「ボンバーマンジェッターズ」](http://www.hudson.co.jp/gamenavi/gamedb/softinfo/bomb_jetters/anime/)
+  - [動畫「ボンバーマンジェッターズ」](https://web.archive.org/web/20031204145818/http://www.hudson.co.jp/gamenavi/gamedb/softinfo/bomb_jetters/anime/)
   - [ボンバーマンジェッターズ（ＧＣ）](http://www.hudson.co.jp/gamenavi/gamedb/softinfo/bomb_jetters/)
   - [ボンバーマンジェッターズ
     ゲームコレクション（ＧＢＡ）](http://www.hudson.co.jp/gamenavi/gamedb/softinfo/bombj_collection/)
   - [ボンバーマンジェッターズ
-    伝説のボンバーマン（ＧＢＡ）](http://www.hudson.co.jp/gamenavi/gamedb/softinfo/bomb_jetters/top.html)
+    伝説のボンバーマン（ＧＢＡ）](https://web.archive.org/web/20040805173221/http://www.hudson.co.jp/gamenavi/gamedb/softinfo/bomb_jetters/top.html)
   - [Ani-Kraze英文字幕社](https://web.archive.org/web/20070306104533/http://www.anime-kraze.org/)
 
 [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")

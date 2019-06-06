@@ -289,12 +289,18 @@ Research Services的附屬公司，
 <td><p><a href="../Page/仁川國際機場.md" title="wikilink">仁川國際機場</a></p></td>
 <td><p><a href="../Page/東京國際機場.md" title="wikilink">東京國際機場</a></p></td>
 </tr>
+<tr class="even">
+<td><p>2019[47]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/新加坡樟宜機場" title="wikilink">新加坡樟宜機場</a></p></td>
+<td><p><a href="../Page/東京國際機場.md" title="wikilink">東京國際機場</a></p></td>
+<td><p><a href="../Page/仁川國際機場.md" title="wikilink">仁川國際機場</a></p></td>
+</tr>
 </tbody>
 </table>
 
 ### 五星级機場
 
-至2018年，Skytrax 共給予下列9座機場五星級評價。\[47\]
+至2018年，Skytrax 共給予下列9座機場五星級評價。\[48\]
 
 #### 亞洲
 
@@ -397,8 +403,7 @@ Research Services的附屬公司，
 29.
 
 30.
-31. [HKIA wins top
-    accolades](http://www.hktrader.net/200405/trade/product-bestairport200405.htm)
+31.
 
 32. [Airport of the
     Year 2005](http://www.airlinequality.com/2005/airport-05-ent.htm)
@@ -448,4 +453,6 @@ Research Services的附屬公司，
 
 46. [5](http://www.worldairportawards.com/Awards/world_airport_rating.html)
 
-47.
+47. [6](http://www.worldairportawards.com/Awards/world_airport_rating.html)
+
+48.

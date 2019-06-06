@@ -1,10 +1,10 @@
-《**GOSICK**》是日本[直木賞作家](https://zh.wikipedia.org/wiki/直木賞 "wikilink")[櫻庭一樹的系列](../Page/櫻庭一樹.md "wikilink")[推理小說](../Page/推理小說.md "wikilink")，並改編成電視動畫。
+《**GOSICK**》是日本[直木賞作家](../Page/直木賞.md "wikilink")[櫻庭一樹的系列](../Page/櫻庭一樹.md "wikilink")[推理小說](../Page/推理小說.md "wikilink")，並改編成電視動畫。
 
 ## 概要
 
 最初在2003年以短篇的形式參加[龍皇杯](https://zh.wikipedia.org/wiki/龍皇杯 "wikilink")，但最終無緣連載，不過為了回應讀者的支持，2003年底開始於[富士見書房的](../Page/富士見書房.md "wikilink")《[富士見Mystery文庫](../Page/富士見Mystery文庫.md "wikilink")》（現已廢刊）以輕小說的形式出版[文庫本](../Page/文庫本.md "wikilink")，插圖作者為[武田日向](../Page/武田日向.md "wikilink")（該版本中文版由[台灣角川代理](../Page/台灣角川.md "wikilink")）。
 
-在經歷過2007年《富士見Mystery文庫》的廢刊、短篇連載雜誌的停刊以及2008年作者獲得[直木賞](https://zh.wikipedia.org/wiki/直木賞 "wikilink")，《**GOSICK**》的版權自富士見書房轉移至[角川書店](../Page/角川書店.md "wikilink")，從[2009年9月開始以隔月發行的形式由](../Page/2009年9月.md "wikilink")[角川文庫以一般小說的形式發行既刊新裝版](https://zh.wikipedia.org/wiki/角川文庫 "wikilink")，角川文庫版刪除原先所有的插圖（長篇5以及短篇集1、2中的部份解說性插圖予以保留，例如“小馬拼圖”）和後記，但增加解說、重新編排登場人物簡介，調整了長篇第4卷和短篇集第1卷的發售順序，並進行相當程度的改筆修訂。續作則隨後推出
+在經歷過2007年《富士見Mystery文庫》的廢刊、短篇連載雜誌的停刊以及2008年作者獲得[直木賞](../Page/直木賞.md "wikilink")，《**GOSICK**》的版權自富士見書房轉移至[角川書店](../Page/角川書店.md "wikilink")，從[2009年9月開始以隔月發行的形式由](../Page/2009年9月.md "wikilink")[角川文庫以一般小說的形式發行既刊新裝版](https://zh.wikipedia.org/wiki/角川文庫 "wikilink")，角川文庫版刪除原先所有的插圖（長篇5以及短篇集1、2中的部份解說性插圖予以保留，例如“小馬拼圖”）和後記，但增加解說、重新編排登場人物簡介，調整了長篇第4卷和短篇集第1卷的發售順序，並進行相當程度的改筆修訂。續作則隨後推出
 雖然一度稱已完結，但在2013年11月27日根據作者推特的最新消息，最新作《GOSICK RED》將於12月25日發售。
 
 漫畫版的作者是女性畫家[天乃咲哉](../Page/天乃咲哉.md "wikilink")，中文版由台灣角川代理。此外，角川文庫版發售的同年，《**GOSICK**》系列由角川書店旗下的女性向文庫[角川Beans文庫發行新裝輕小說版](../Page/角川Beans文庫.md "wikilink")。Beans文庫版的《GOSICKsII》中收錄未發表全新插圖\[1\]。
@@ -143,7 +143,7 @@
 
 <!-- end list -->
 
-  - [奧地利少年](https://zh.wikipedia.org/wiki/奥匈帝国 "wikilink")
+  - [奧地利少年](../Page/奥匈帝国.md "wikilink")
     高大而肌肉發達。與德國少年脫離隊伍。後來因被鎖於升降機內，升降機墮落而死。
 
 <!-- end list -->

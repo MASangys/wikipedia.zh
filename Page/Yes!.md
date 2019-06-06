@@ -69,21 +69,21 @@ Breakazine！》(2009年)。
 
 #### 2000年代
 
-| 期數 | 封面1 | 封面2 | 封面3 | 備註 |
-| -- | --- | --- | --- | -- |
-|    |     |     |     |    |
+##### 2000年
 
-| 期數 | 封面1 | 封面2 | 封面3 | 備註 |
-| -- | --- | --- | --- | -- |
-|    |     |     |     |    |
+##### 2001年
 
-| 期數 | 封面1 | 封面2 | 封面3 | 備註 |
-| -- | --- | --- | --- | -- |
-|    |     |     |     |    |
+##### 2002年
 
-| 期數 | 封面1 | 封面2 | 封面3 | 備註 |
-| -- | --- | --- | --- | -- |
-|    |     |     |     |    |
+##### 2003年
+
+##### 2004年
+
+##### 2005年
+
+##### 2006年
+
+##### 2007年
 
 <table>
 <thead>
@@ -98,28 +98,205 @@ Breakazine！》(2009年)。
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>801</p></td>
-<td><p>鄧麗欣</p></td>
+<td><p>825</p></td>
+<td><p>方力申</p></td>
+<td><p>吳雨霏</p></td>
+<td><p>Morning娘</p></td>
 <td><p> </p></td>
-<td><p> </p></td>
-<td><p>一書兩冊，兩個封面均為鄧麗欣<ref>[<a href="https://live.staticflickr.com/2496/4063518420_f5e3c20810_b.jpg">https://live.staticflickr.com/2496/4063518420_f5e3c20810_b.jpg</a> 801期YES</p></td>
-<td><p>封面]</ref><br />
-本期開始易名為《YES</p></td>
+<td></td>
 </tr>
 <tr class="even">
-<td><p>804</p></td>
-<td><p>詹瑞文</p></td>
-<td><p>一書兩冊，兩個封面均為詹瑞文</p></td>
+<td><p>826</p></td>
+<td><p>Twins</p></td>
+<td><p>Rain</p></td>
+<td><p> </p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>827</p></td>
+<td><p>古巨基</p></td>
+<td><p>關智斌</p></td>
+<td><p>何韻詩</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>828</p></td>
+<td><p>鄧麗欣</p></td>
+<td><p>羅志祥</p></td>
+<td><p> </p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>829</p></td>
+<td><p>Twins</p></td>
+<td><p>本期只有一個封面</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>830</p></td>
+<td><p>方力申、鄧麗欣</p></td>
+<td><p>楊愛瑾</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>811</p></td>
+<td><p>831</p></td>
+<td><p>薛凱琪、方大同</p></td>
+<td><p>賀軍翔</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>832</p></td>
+<td><p>周麗淇</p></td>
+<td><p>飛輪海</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>833</p></td>
+<td><p>衛詩</p></td>
+<td><p>側田</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>834</p></td>
+<td><p>衛蘭</p></td>
+<td><p>8人男女</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>835</p></td>
+<td><p>吳尊</p></td>
+<td><p>唐禹哲</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>836</p></td>
+<td><p>薛凱琪</p></td>
+<td><p>蔡卓妍、古巨基</p></td>
+<td><p>封面2為電影《<a href="../Page/甜心粉絲王.md" title="wikilink">甜心粉絲王</a>》的兩位主角</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>837</p></td>
+<td><p>方力申、鄧麗欣、楊愛瑾</p></td>
+<td><p>本期只有一個封面</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>838</p></td>
+<td><p>楊丞琳</p></td>
+<td><p><a href="../Page/松山研一.md" title="wikilink">松山研一</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>839</p></td>
+<td><p>Sun Boyz</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>860</p></td>
+<td><p>Twins</p></td>
+<td><p>本期只有一個封面</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>861</p></td>
 <td><p>鄧麗欣</p></td>
-<td><p>LEGO Skeleton</p></td>
-<td><p>一書兩冊<ref>[<a href="https://live.staticflickr.com/2435/4062770481_34aaf77d16_b.jpg">https://live.staticflickr.com/2435/4062770481_34aaf77d16_b.jpg</a> 811期YES</p></td>
-<td><p>封面]</ref></p></td>
+<td><p>唐禹哲</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>862</p></td>
+<td><p>Twins</p></td>
+<td><p>本期只有一個封面</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>863</p></td>
+<td><p>傅穎</p></td>
+<td><p>飛輪海</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>864</p></td>
+<td><p>棒棒堂</p></td>
+<td><p>本期只有一個封面</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>865</p></td>
+<td><p>泳兒</p></td>
+<td><p>唐禹哲</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>866</p></td>
+<td><p>黑澀會美眉</p></td>
+<td><p>本期只有一個封面</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>867</p></td>
+<td><p>EO2、關楚耀、鍾舒漫<br />
+泳兒、方力申、傅穎、周麗淇</p></td>
+<td><p>本期只有一個封面<br />
+為2007年秋冬School Tour</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>868</p></td>
+<td><p>方力申、唐嫣</p></td>
+<td><p>蔡依林</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>869</p></td>
+<td><p>鄧麗欣</p></td>
+<td><p>Hotcha</p></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -178,8 +355,27 @@ Breakazine！》(2009年)。
 <td><p>裕美</p></td>
 <td></td>
 </tr>
+</tbody>
+</table>
+
+##### 2008年
+
+<table>
+<thead>
+<tr class="header">
+<th><p>期數</p></th>
+<th><p>日期</p></th>
+<th><p>封面1</p></th>
+<th><p>封面2</p></th>
+<th><p>封面3</p></th>
+<th><p>封面4</p></th>
+<th><p>備註</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td><p>877</p></td>
+<td><p>2008年1月4日</p></td>
 <td><p>吳雨霏</p></td>
 <td><p>周杰倫</p></td>
 <td><p> </p></td>
@@ -188,6 +384,7 @@ Breakazine！》(2009年)。
 </tr>
 <tr class="even">
 <td><p>878</p></td>
+<td><p>2008年1月11日</p></td>
 <td><p>林峯</p></td>
 <td><p>S.H.E.</p></td>
 <td></td>
@@ -196,6 +393,7 @@ Breakazine！》(2009年)。
 </tr>
 <tr class="odd">
 <td><p>879</p></td>
+<td><p>2008年1月18日</p></td>
 <td><p>飛輪海</p></td>
 <td><p>本期只有一個封面</p></td>
 <td></td>
@@ -204,6 +402,7 @@ Breakazine！》(2009年)。
 </tr>
 <tr class="even">
 <td><p>880</p></td>
+<td><p>2008年1月25日</p></td>
 <td><p>蔡卓妍</p></td>
 <td><p>羅志祥</p></td>
 <td></td>
@@ -212,6 +411,7 @@ Breakazine！》(2009年)。
 </tr>
 <tr class="odd">
 <td><p>881</p></td>
+<td><p>2008年2月1日</p></td>
 <td><p>傅穎</p></td>
 <td><p>楊丞琳</p></td>
 <td></td>
@@ -220,6 +420,7 @@ Breakazine！》(2009年)。
 </tr>
 <tr class="even">
 <td><p>882</p></td>
+<td><p>2008年2月8日</p></td>
 <td><p>吳雨霏</p></td>
 <td><p>Hotcha</p></td>
 <td></td>
@@ -228,6 +429,7 @@ Breakazine！》(2009年)。
 </tr>
 <tr class="odd">
 <td><p>883</p></td>
+<td><p>2008年2月15日</p></td>
 <td><p>洪卓立、江若琳</p></td>
 <td><p>鄭元暢、林依晨</p></td>
 <td></td>
@@ -236,6 +438,7 @@ Breakazine！》(2009年)。
 </tr>
 <tr class="even">
 <td><p>884</p></td>
+<td><p>2008年2月22日</p></td>
 <td><p>棒棒堂</p></td>
 <td><p>本期只有一個封面</p></td>
 <td></td>
@@ -244,6 +447,7 @@ Breakazine！》(2009年)。
 </tr>
 <tr class="odd">
 <td><p>885</p></td>
+<td><p>2008年2月29日</p></td>
 <td><p>方力申、鄧麗欣</p></td>
 <td><p>余文樂</p></td>
 <td></td>
@@ -252,6 +456,7 @@ Breakazine！》(2009年)。
 </tr>
 <tr class="even">
 <td><p>886</p></td>
+<td><p>2008年3月7日</p></td>
 <td><p>薛凱琪</p></td>
 <td><p>黑澀會美眉</p></td>
 <td></td>
@@ -260,6 +465,7 @@ Breakazine！》(2009年)。
 </tr>
 <tr class="odd">
 <td><p>887</p></td>
+<td><p>2008年3月14日</p></td>
 <td><p>楊愛瑾</p></td>
 <td><p>汪東城</p></td>
 <td><p>辰亦儒</p></td>
@@ -268,6 +474,7 @@ Breakazine！》(2009年)。
 </tr>
 <tr class="even">
 <td><p>888</p></td>
+<td><p>2008年3月21日</p></td>
 <td><p>棒棒堂</p></td>
 <td><p> </p></td>
 <td><p>本期只有一個封面</p></td>
@@ -276,6 +483,7 @@ Breakazine！》(2009年)。
 </tr>
 <tr class="odd">
 <td><p>889</p></td>
+<td><p>2008年3月28日</p></td>
 <td><p>方力申</p></td>
 <td><p>黑澀會美眉</p></td>
 <td></td>
@@ -284,6 +492,7 @@ Breakazine！》(2009年)。
 </tr>
 <tr class="even">
 <td><p>890</p></td>
+<td><p>2008年4月4日</p></td>
 <td><p>鄧麗欣</p></td>
 <td><p>江若琳</p></td>
 <td></td>
@@ -292,6 +501,7 @@ Breakazine！》(2009年)。
 </tr>
 <tr class="odd">
 <td><p>891</p></td>
+<td><p>2008年4月11日</p></td>
 <td><p>黃宗澤</p></td>
 <td><p>鄭希怡、洪卓立<br />
 鍾舒漫、周柏豪<br />
@@ -302,6 +512,7 @@ Breakazine！》(2009年)。
 </tr>
 <tr class="even">
 <td><p>892</p></td>
+<td><p>2008年4月18日</p></td>
 <td><p>Hotcha、裕美、傅穎<br />
 衛詩、薛凱琪、鍾舒漫、周麗淇</p></td>
 <td><p>本期只有一個封面<br />
@@ -312,6 +523,7 @@ Breakazine！》(2009年)。
 </tr>
 <tr class="odd">
 <td><p>893</p></td>
+<td><p>2008年4月25日</p></td>
 <td><p>薛凱琪</p></td>
 <td><p>飛輪海</p></td>
 <td></td>
@@ -320,6 +532,7 @@ Breakazine！》(2009年)。
 </tr>
 <tr class="even">
 <td><p>894</p></td>
+<td><p>2008年5月2日</p></td>
 <td><p>阿緯、小傑</p></td>
 <td><p>威廉、敖犬</p></td>
 <td><p>小煜、王子</p></td>
@@ -329,6 +542,7 @@ Breakazine！》(2009年)。
 </tr>
 <tr class="odd">
 <td><p>895</p></td>
+<td><p>2008年5月9日</p></td>
 <td><p>江若琳</p></td>
 <td><p>鍾舒漫</p></td>
 <td><p>裕美</p></td>
@@ -337,6 +551,7 @@ Breakazine！》(2009年)。
 </tr>
 <tr class="even">
 <td><p>896</p></td>
+<td><p>2008年5月16日</p></td>
 <td><p>棒棒堂</p></td>
 <td><p> </p></td>
 <td><p>本期只有一個封面</p></td>
@@ -345,6 +560,7 @@ Breakazine！》(2009年)。
 </tr>
 <tr class="odd">
 <td><p>897</p></td>
+<td><p>2008年5月23日</p></td>
 <td><p>唐禹哲、卓文萱<br />
 汪東城</p></td>
 <td><p>唐禹哲、汪東城</p></td>
@@ -355,6 +571,7 @@ Breakazine！》(2009年)。
 </tr>
 <tr class="even">
 <td><p>898</p></td>
+<td><p>2008年5月30日</p></td>
 <td><p>余文樂</p></td>
 <td><p>賀軍翔、Hebe</p></td>
 <td><p>封面2為劇集《<a href="../Page/鬥牛，要不要.md" title="wikilink">鬥牛，要不要</a>》的兩位主角</p></td>
@@ -363,6 +580,7 @@ Breakazine！》(2009年)。
 </tr>
 <tr class="odd">
 <td><p>899</p></td>
+<td><p>2008年6月6日</p></td>
 <td><p>鬼鬼、炎亞綸</p></td>
 <td><p>本期只有一個封面<br />
 為劇集《<a href="../Page/霹靂MIT.md" title="wikilink">霹靂MIT</a>》的兩位主角</p></td>
@@ -370,13 +588,283 @@ Breakazine！》(2009年)。
 <td></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>900</p></td>
+<td><p>2008年6月13日</p></td>
+<td><p>周慧敏</p></td>
+<td><p>古巨基</p></td>
+<td><p>周慧敏、古巨基</p></td>
+<td><p>二人各有一個單人封面, 及一個雙人封面</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>901</p></td>
+<td><p>2008年6月20日</p></td>
+<td><p>周柏豪</p></td>
+<td><p>傅穎</p></td>
+<td><p> </p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>902</p></td>
+<td><p>2008年6月27日</p></td>
+<td><p>w-inds</p></td>
+<td><p>唐禹哲、林依晨<br />
+鄭元暢</p></td>
+<td><p>封面2為劇集《<a href="../Page/惡作劇2吻.md" title="wikilink">惡作劇2吻</a>》的三位主角</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>903</p></td>
+<td><p>2008年7月4日</p></td>
+<td><p>鍾嘉欣</p></td>
+<td><p>飛輪海</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>904</p></td>
+<td><p>2008年7月11日</p></td>
+<td><p>鄧麗欣</p></td>
+<td><p>林宥嘉、潘裕文<br />
+許仁杰、周定緯</p></td>
+<td><p>封面2為「星光四少」的四位男歌手</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>905</p></td>
+<td><p>2008年7月18日</p></td>
+<td><p>江若琳</p></td>
+<td><p>賈曉晨</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>906</p></td>
+<td><p>2008年7月25日</p></td>
+<td><p>黑澀會美眉</p></td>
+<td><p>Hotcha</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>907</p></td>
+<td><p>2008年8月1日</p></td>
+<td><p>吳雨霏</p></td>
+<td><p>吳尊</p></td>
+<td><p>汪東城</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>908</p></td>
+<td><p>2008年8月8日</p></td>
+<td><p>鄧麗欣</p></td>
+<td><p>陳偉霆</p></td>
+<td><p> </p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>909</p></td>
+<td><p>2008年8月15日</p></td>
+<td><p>唐禹哲、汪東城</p></td>
+<td><p>文詠珊</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>910</p></td>
+<td><p>2008年8月22日</p></td>
+<td><p>張敬軒</p></td>
+<td><p>江若琳、吳卓羲</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>911</p></td>
+<td><p>2008年8月29日</p></td>
+<td><p>飛輪海</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/松本潤" title="wikilink">松本潤</a>、<a href="../Page/井上真央.md" title="wikilink">井上真央</a><br />
+<a href="../Page/小栗旬.md" title="wikilink">小栗旬</a>、<a href="../Page/松田翔太.md" title="wikilink">松田翔太</a><br />
+<a href="../Page/阿部力.md" title="wikilink">阿部力</a></p></td>
+<td><p>封面2為電影《<a href="../Page/花樣男子F.md" title="wikilink">花樣男子F</a>》的五位主角</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>912</p></td>
+<td><p>2008年9月5日</p></td>
+<td><p>阮經天</p></td>
+<td><p>林宥嘉、潘裕文<br />
+許仁杰、周定緯</p></td>
+<td><p>封面2為「星光四少」的四位男歌手</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>913</p></td>
+<td><p>2008年9月12日</p></td>
+<td><p>黑澀會美眉</p></td>
+<td><p>本期只有一個封面</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>914</p></td>
+<td><p>2008年9月19日</p></td>
+<td><p>王友良</p></td>
+<td><p>林峯</p></td>
+<td><p>蔡卓妍、吳尊</p></td>
+<td><p>封面3為電影《<a href="../Page/武俠梁祝.md" title="wikilink">武俠梁祝</a>》的兩位主角</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>915</p></td>
+<td><p>2008年9月26日</p></td>
+<td><p>洪卓立、陳家樂</p></td>
+<td><p>鄧麗欣</p></td>
+<td><p> </p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>916</p></td>
+<td><p>2008年10月3日</p></td>
+<td><p>江若琳</p></td>
+<td><p>S.H.E.</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>917</p></td>
+<td><p>2008年10月10日</p></td>
+<td><p>蔡卓妍</p></td>
+<td><p>周柏豪</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>918</p></td>
+<td><p>2008年10月17日</p></td>
+<td><p>張敬軒</p></td>
+<td><p>鍾嘉欣</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>919</p></td>
+<td><p>2008年10月24日</p></td>
+<td><p>洪卓立</p></td>
+<td><p>文詠珊</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>920</p></td>
+<td><p>2008年10月31日</p></td>
+<td><p>賈曉晨、江若琳、洪卓立、衛詩、鍾舒漫</p></td>
+<td><p>本期只有一個封面<br />
+為2008年秋冬School Tour</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>921</p></td>
+<td><p>2008年11月7日</p></td>
+<td><p>Hotcha</p></td>
+<td><p>S.H.E.</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>922</p></td>
+<td><p>2008年11月14日</p></td>
+<td><p>江若琳</p></td>
+<td><p>羅志祥</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>923</p></td>
+<td><p>2008年11月21日</p></td>
+<td><p>林依晨、鄭元暢</p></td>
+<td><p>鄧麗欣</p></td>
+<td><p>張敬軒</p></td>
+<td><p>洪卓立、陳偉霆</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>924</p></td>
+<td><p>2008年11月28日</p></td>
+<td><p>鄧麗欣、吳雨霏</p></td>
+<td><p>黃宗澤</p></td>
+<td><p> </p></td>
+<td><p> </p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>925</p></td>
+<td><p>2008年12月5日</p></td>
+<td><p>衛蘭</p></td>
+<td><p>Super Junior-M</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>926</p></td>
+<td><p>2008年12月12日</p></td>
+<td><p>吳尊</p></td>
+<td><p>胡杏兒</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>927</p></td>
+<td><p>2008年12月19日</p></td>
+<td><p>江若琳</p></td>
+<td><p>炎亞綸</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>928</p></td>
+<td><p>2008年12月26日</p></td>
+<td><p>林峯</p></td>
+<td><p>鍾嘉欣</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
+
+##### 2009年
 
 <table>
 <thead>
 <tr class="header">
 <th><p>期數</p></th>
+<th><p>日期</p></th>
 <th><p>封面1</p></th>
 <th><p>封面2</p></th>
 <th><p>封面3</p></th>
@@ -386,381 +874,161 @@ Breakazine！》(2009年)。
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>900</p></td>
-<td><p>周慧敏</p></td>
-<td><p>古巨基</p></td>
-<td><p>周慧敏、古巨基</p></td>
-<td><p> </p></td>
-<td><p>二人各有一個單人封面, 及一個雙人封面</p></td>
-</tr>
-<tr class="even">
-<td><p>901</p></td>
-<td><p>周柏豪</p></td>
-<td><p>傅穎</p></td>
-<td><p> </p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>902</p></td>
-<td><p>w-inds</p></td>
-<td><p>唐禹哲、林依晨<br />
-鄭元暢</p></td>
-<td><p>封面2為劇集《<a href="../Page/惡作劇2吻.md" title="wikilink">惡作劇2吻</a>》的三位主角</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>903</p></td>
-<td><p>鍾嘉欣</p></td>
-<td><p>飛輪海</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>904</p></td>
-<td><p>鄧麗欣</p></td>
-<td><p>林宥嘉、潘裕文<br />
-許仁杰、周定緯</p></td>
-<td><p>封面2為「星光四少」的四位男歌手</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>905</p></td>
-<td><p>江若琳</p></td>
-<td><p>賈曉晨</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>906</p></td>
-<td><p>黑澀會美眉</p></td>
-<td><p>Hotcha</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>907</p></td>
-<td><p>吳雨霏</p></td>
-<td><p>吳尊</p></td>
-<td><p>汪東城</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>908</p></td>
-<td><p>鄧麗欣</p></td>
-<td><p>陳偉霆</p></td>
-<td><p> </p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>909</p></td>
-<td><p>唐禹哲、汪東城</p></td>
-<td><p>文詠珊</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>910</p></td>
-<td><p>張敬軒</p></td>
-<td><p>江若琳、吳卓羲</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>911</p></td>
-<td><p>飛輪海</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/松本潤" title="wikilink">松本潤</a>、<a href="../Page/井上真央.md" title="wikilink">井上真央</a><br />
-<a href="../Page/小栗旬.md" title="wikilink">小栗旬</a>、<a href="../Page/松田翔太.md" title="wikilink">松田翔太</a><br />
-<a href="../Page/阿部力.md" title="wikilink">阿部力</a></p></td>
-<td><p>封面2為電影《<a href="../Page/花樣男子F.md" title="wikilink">花樣男子F</a>》的五位主角</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>912</p></td>
-<td><p>阮經天</p></td>
-<td><p>林宥嘉、潘裕文<br />
-許仁杰、周定緯</p></td>
-<td><p>封面2為「星光四少」的四位男歌手</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>913</p></td>
-<td><p>黑澀會美眉</p></td>
-<td><p>本期只有一個封面</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>914</p></td>
-<td><p>王友良</p></td>
-<td><p>林峯</p></td>
-<td><p>蔡卓妍、吳尊</p></td>
-<td><p>封面3為電影《<a href="../Page/武俠梁祝.md" title="wikilink">武俠梁祝</a>》的兩位主角</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>915</p></td>
-<td><p>洪卓立、陳家樂</p></td>
-<td><p>鄧麗欣</p></td>
-<td><p> </p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>916</p></td>
-<td><p>江若琳</p></td>
-<td><p>S.H.E.</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>917</p></td>
-<td><p>蔡卓妍</p></td>
-<td><p>周柏豪</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>918</p></td>
-<td><p>張敬軒</p></td>
-<td><p>鍾嘉欣</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>919</p></td>
-<td><p>洪卓立</p></td>
-<td><p>文詠珊</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>920</p></td>
-<td><p>賈曉晨、江若琳、洪卓立、衛詩、鍾舒漫</p></td>
-<td><p>本期只有一個封面<br />
-為2008年秋冬School Tour</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>921</p></td>
-<td><p>Hotcha</p></td>
-<td><p>S.H.E.</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>922</p></td>
-<td><p>江若琳</p></td>
-<td><p>羅志祥</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>923</p></td>
-<td><p>林依晨、鄭元暢</p></td>
-<td><p>鄧麗欣</p></td>
-<td><p>張敬軒</p></td>
-<td><p>洪卓立、陳偉霆</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>924</p></td>
-<td><p>鄧麗欣、吳雨霏</p></td>
-<td><p>黃宗澤</p></td>
-<td><p> </p></td>
-<td><p> </p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>925</p></td>
-<td><p>衛蘭</p></td>
-<td><p>Super Junior-M</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>926</p></td>
-<td><p>吳尊</p></td>
-<td><p>胡杏兒</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>927</p></td>
-<td><p>江若琳</p></td>
-<td><p>炎亞綸</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>928</p></td>
-<td><p>林峯</p></td>
-<td><p>鍾嘉欣</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p>929</p></td>
+<td><p>2009年1月2日</p></td>
 <td><p>謝安琪</p></td>
 <td><p>張敬軒</p></td>
-<td></td>
-<td></td>
+<td><p> </p></td>
+<td><p> </p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>930</p></td>
+<td><p>2009年1月9日</p></td>
 <td><p>飛輪海</p></td>
 <td><p>本期只有一個封面</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>931</p></td>
+<td><p>2009年1月16日</p></td>
 <td><p>林宥嘉</p></td>
 <td><p>唐禹哲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>932</p></td>
+<td><p>2009年1月23日</p></td>
 <td><p>鄧麗欣</p></td>
 <td><p>王祖藍</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>933</p></td>
+<td><p>2009年1月30日</p></td>
 <td><p>GEM鄧紫棋</p></td>
 <td><p>陳偉霆</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>934</p></td>
+<td><p>2009年2月6日</p></td>
 <td><p>蔡卓妍</p></td>
 <td><p>唐禹哲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>935</p></td>
+<td><p>2009年2月13日</p></td>
 <td><p>薛凱琪、方大同</p></td>
 <td><p>楊丞琳、汪東城</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>936</p></td>
+<td><p>2009年2月20日</p></td>
 <td><p>鄧麗欣</p></td>
 <td><p>江若琳</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>937</p></td>
+<td><p>2009年2月27日</p></td>
 <td><p>傅穎</p></td>
 <td><p>飛輪海</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>938</p></td>
+<td><p>2009年3月6日</p></td>
 <td><p>謝安琪</p></td>
 <td><p>羅志祥</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>939</p></td>
+<td><p>2009年3月13日</p></td>
 <td><p>GEM鄧紫棋</p></td>
 <td><p>江若琳、吳卓羲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>940</p></td>
+<td><p>2009年3月20日</p></td>
 <td><p>傅穎</p></td>
 <td><p>鍾嘉欣</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>941</p></td>
+<td><p>2009年3月27日</p></td>
 <td><p>楊丞琳</p></td>
 <td><p>古巨基</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>942</p></td>
+<td><p>2009年4月3日</p></td>
 <td><p>HotCha</p></td>
 <td><p>張敬軒</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>943</p></td>
+<td><p>2009年4月10日</p></td>
 <td><p>蔡卓妍</p></td>
 <td><p>鄭元暢</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>944</p></td>
+<td><p>2009年4月17日</p></td>
 <td><p>GEM鄧紫棋</p></td>
 <td><p>五月天</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>945</p></td>
+<td><p>2009年4月24日</p></td>
 <td><p>吳尊</p></td>
 <td><p>S.H.E.</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>946</p></td>
+<td><p>2009年5月1日</p></td>
 <td><p>農夫、陳偉霆、洪卓立、周柏豪、狄易達<br />
 Hotcha、吳雨霏、薛凱琪、GEM鄧紫棋</p></td>
 <td><p>本期只有一個封面<br />
@@ -769,128 +1037,144 @@ Hotcha、吳雨霏、薛凱琪、GEM鄧紫棋</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>947</p></td>
+<td><p>2009年5月8日</p></td>
 <td><p>方力申</p></td>
 <td><p>陳嘉樺</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>948</p></td>
+<td><p>2009年5月15日</p></td>
 <td><p>GEM鄧紫棋</p></td>
 <td><p>林峯</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>949</p></td>
+<td><p>2009年5月22日</p></td>
 <td><p>鄧麗欣</p></td>
 <td><p>張敬軒</p></td>
 <td><p>側田</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>950</p></td>
+<td><p>2009年5月29日</p></td>
 <td><p>HotCha</p></td>
 <td><p>吳卓羲</p></td>
 <td><p> </p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>951</p></td>
+<td><p>2009年6月5日</p></td>
 <td><p>吳雨霏</p></td>
 <td><p>洪卓立</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>952</p></td>
+<td><p>2009年6月12日</p></td>
 <td><p>江若琳</p></td>
 <td><p>By2</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>953</p></td>
+<td><p>2009年6月19日</p></td>
 <td><p>GEM鄧紫棋</p></td>
 <td><p>鬼鬼</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>954</p></td>
+<td><p>2009年6月26日</p></td>
 <td><p>S.H.E.</p></td>
 <td><p>林峯</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>955</p></td>
+<td><p>2009年7月3日</p></td>
 <td><p>Hotcha</p></td>
 <td><p>周柏豪</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>956</p></td>
+<td><p>2009年7月10日</p></td>
 <td><p>飛輪海</p></td>
 <td><p>SS501</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>957</p></td>
+<td><p>2009年7月17日</p></td>
 <td><p>鄧麗欣</p></td>
 <td><p>林依晨</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>958</p></td>
+<td><p>2009年7月24日</p></td>
 <td><p>鍾嘉欣</p></td>
 <td><p>江若琳</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>959</p></td>
+<td><p>2009年7月31日</p></td>
 <td><p>GEM鄧紫棋</p></td>
 <td><p>By2</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>960</p></td>
+<td><p>2009年8月7日</p></td>
 <td><p>Hotcha</p></td>
 <td><p>黑Girl</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>961</p></td>
+<td><p>2009年8月14日</p></td>
 <td><p>傅穎</p></td>
 <td><p>洪卓立</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>962</p></td>
+<td><p>2009年8月21日</p></td>
 <td><p>蔡卓妍</p></td>
 <td><p>李敏鎬、金汎<br />
 金賢重、金俊</p></td>
@@ -898,72 +1182,81 @@ Hotcha、吳雨霏、薛凱琪、GEM鄧紫棋</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>963</p></td>
+<td><p>2009年8月28日</p></td>
 <td><p>鄧麗欣</p></td>
 <td><p>林峯</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>964</p></td>
+<td><p>2009年9月4日</p></td>
 <td><p>GEM鄧紫棋</p></td>
 <td><p>炎亞綸</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>965</p></td>
+<td><p>2009年9月11日</p></td>
 <td><p>HotCha</p></td>
 <td><p>林依晨</p></td>
 <td><p>Super Junior</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>966</p></td>
+<td><p>2009年9月18日</p></td>
 <td><p>S.H.E.</p></td>
 <td><p>SS501</p></td>
 <td><p> </p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>967</p></td>
+<td><p>2009年9月25日</p></td>
 <td><p>鬼鬼</p></td>
 <td><p>江若琳</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>968</p></td>
+<td><p>2009年10月2日</p></td>
 <td><p>賀軍翔、蔡卓妍</p></td>
 <td><p>徐子珊</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>969</p></td>
+<td><p>2009年10月9日</p></td>
 <td><p>鍾嘉欣</p></td>
 <td><p>By2</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>970</p></td>
+<td><p>2009年10月16日</p></td>
 <td><p>張敬軒</p></td>
 <td><p>GEM鄧紫棋</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>971</p></td>
+<td><p>2009年10月23日</p></td>
 <td><p>Hotcha、狄易達、鄭融<br />
 GEM鄧紫棋、江若琳、鍾舒漫、洪卓立</p></td>
 <td><p>本期只有一個封面<br />
@@ -972,72 +1265,81 @@ GEM鄧紫棋、江若琳、鍾舒漫、洪卓立</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>972</p></td>
+<td><p>2009年10月30日</p></td>
 <td><p>吳雨霏</p></td>
 <td><p>江若琳</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>973</p></td>
+<td><p>2009年11月6日</p></td>
 <td><p>Hey!Say!Jump</p></td>
 <td><p>w-inds</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>974</p></td>
+<td><p>2009年11月13日</p></td>
 <td><p><a href="../Page/Rain.md" title="wikilink">Rain</a></p></td>
 <td><p>SS501<ref>[<a href="https://ss501fighting.files.wordpress.com/2009/11/850ed682c3df4f0b0a559ad6ea509a23.jpg">https://ss501fighting.files.wordpress.com/2009/11/850ed682c3df4f0b0a559ad6ea509a23.jpg</a> 974期YES</p></td>
 <td><p>封面]</ref></p></td>
 <td><p><a href="../Page/T-Max.md" title="wikilink">T-Max</a></p></td>
 <td><p>19周年誌慶月</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>975</p></td>
+<td><p>2009年11月20日</p></td>
 <td><p>鄧麗欣</p></td>
 <td><p>江若琳</p></td>
 <td><p>Hotcha</p></td>
 <td><p>洪卓立、陳偉霆</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>976</p></td>
+<td><p>2009年11月27日</p></td>
 <td><p>鬼鬼</p></td>
 <td><p>By2</p></td>
 <td><p>大牙</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>977</p></td>
+<td><p>2009年12月4日</p></td>
 <td><p>鍾嘉欣</p></td>
 <td><p>鄭元暢</p></td>
 <td><p> </p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>978</p></td>
+<td><p>2009年12月11日</p></td>
 <td><p>張敬軒</p></td>
 <td><p>楊丞琳、羅志祥</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>979</p></td>
+<td><p>2009年12月18日</p></td>
 <td><p>GEM鄧紫棋</p></td>
 <td><p>瑤瑤</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>980</p></td>
+<td><p>2009年12月25日</p></td>
 <td><p>棒棒堂</p></td>
 <td><p>鬼鬼</p></td>
 <td><p>2009年聖誕節當天推出，2000年代最後一期</p></td>
@@ -1053,136 +1355,7 @@ GEM鄧紫棋、江若琳、鍾舒漫、洪卓立</p></td>
 <thead>
 <tr class="header">
 <th><p>期數</p></th>
-<th><p>封面1</p></th>
-<th><p>封面2</p></th>
-<th><p>備註</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>981</p></td>
-<td><p>Hotcha</p></td>
-<td><p>小薰、丫頭、勇兔<br />
-糖果、溫家恒</p></td>
-<td><p>2010年元旦當天推出，2010年代第一期</p></td>
-</tr>
-<tr class="even">
-<td><p>982</p></td>
-<td><p>飛輪海</p></td>
-<td><p>江若琳</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>983</p></td>
-<td><p>鄧麗欣</p></td>
-<td><p>本期只有一個封面</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>984</p></td>
-<td><p>黑Girl</p></td>
-<td><p>本期只有一個封面</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>985</p></td>
-<td><p>鍾嘉欣</p></td>
-<td><p>Circus</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>986</p></td>
-<td><p>HotCha</p></td>
-<td><p>Mr.</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>987</p></td>
-<td><p>鍾舒漫、洪卓立<br />
-泳兒</p></td>
-<td><p>汪東城、王心凌<br />
-辰亦儒</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>988</p></td>
-<td><p>GEM鄧紫棋</p></td>
-<td><p>羅志祥</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>989</p></td>
-<td><p>棒棒堂</p></td>
-<td><p>SHINee</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>990</p></td>
-<td><p>江若琳</p></td>
-<td><p>FTIsland</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>991</p></td>
-<td><p>楊丞琳</p></td>
-<td><p>w-inds</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>992</p></td>
-<td><p>洪卓立</p></td>
-<td><p>鬼鬼</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>993</p></td>
-<td><p>蔡卓妍</p></td>
-<td><p>羅志祥</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>994</p></td>
-<td><p>飛輪海</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李民浩" title="wikilink">李民浩</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>995</p></td>
-<td><p>GEM鄧紫棋</p></td>
-<td><p>小薰、丫頭</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>996</p></td>
-<td><p>鄧麗欣</p></td>
-<td><p>By2</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>997</p></td>
-<td><p>School Tour</p></td>
-<td><p>本期只有一個封面</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>998</p></td>
-<td><p>Wonder Girls</p></td>
-<td><p>羅志祥</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>999</p></td>
-<td><p>Hotcha</p></td>
-<td><p>王子、毛弟和小杰</p></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-<table>
-<thead>
-<tr class="header">
-<th><p>期數</p></th>
+<th><p>日期</p></th>
 <th><p>封面1</p></th>
 <th><p>封面2</p></th>
 <th><p>封面3</p></th>
@@ -1192,47 +1365,227 @@ GEM鄧紫棋、江若琳、鍾舒漫、洪卓立</p></td>
 </thead>
 <tbody>
 <tr class="odd">
+<td><p>981</p></td>
+<td><p>2010年1月1日</p></td>
+<td><p>Hotcha</p></td>
+<td><p>小薰、丫頭、勇兔<br />
+糖果、溫家恒</p></td>
+<td><p> </p></td>
+<td><p> </p></td>
+<td><p>2010年元旦當天推出，2010年代第一期</p></td>
+</tr>
+<tr class="even">
+<td><p>982</p></td>
+<td><p>2010年1月8日</p></td>
+<td><p>飛輪海</p></td>
+<td><p>江若琳</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>983</p></td>
+<td><p>2010年1月15日</p></td>
+<td><p>鄧麗欣</p></td>
+<td><p>本期只有一個封面</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>984</p></td>
+<td><p>2010年1月22日</p></td>
+<td><p>黑Girl</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>985</p></td>
+<td><p>2010年1月29日</p></td>
+<td><p>鍾嘉欣</p></td>
+<td><p>Circus</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>986</p></td>
+<td><p>2010年2月5日</p></td>
+<td><p>HotCha</p></td>
+<td><p>Mr.</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>987</p></td>
+<td><p>2010年2月12日</p></td>
+<td><p>鍾舒漫、洪卓立<br />
+泳兒</p></td>
+<td><p>汪東城、王心凌<br />
+辰亦儒</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>988</p></td>
+<td><p>2010年2月19日</p></td>
+<td><p>GEM鄧紫棋</p></td>
+<td><p>羅志祥</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>989</p></td>
+<td><p>2010年2月26日</p></td>
+<td><p>棒棒堂</p></td>
+<td><p>SHINee</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>990</p></td>
+<td><p>2010年3月5日</p></td>
+<td><p>江若琳</p></td>
+<td><p>FTIsland</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>991</p></td>
+<td><p>2010年3月12日</p></td>
+<td><p>楊丞琳</p></td>
+<td><p>w-inds</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>992</p></td>
+<td><p>2010年3月19日</p></td>
+<td><p>洪卓立</p></td>
+<td><p>鬼鬼</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>993</p></td>
+<td><p>2010年3月26日</p></td>
+<td><p>蔡卓妍</p></td>
+<td><p>羅志祥</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>994</p></td>
+<td><p>2010年4月2日</p></td>
+<td><p>飛輪海</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李民浩" title="wikilink">李民浩</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>995</p></td>
+<td><p>2010年4月9日</p></td>
+<td><p>GEM鄧紫棋</p></td>
+<td><p>小薰、丫頭</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>996</p></td>
+<td><p>2010年4月16日</p></td>
+<td><p>鄧麗欣</p></td>
+<td><p>By2</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>997</p></td>
+<td><p>2010年4月23日</p></td>
+<td><p>School Tour</p></td>
+<td><p>本期只有一個封面</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>998</p></td>
+<td><p>2010年4月30日</p></td>
+<td><p>Wonder Girls</p></td>
+<td><p>羅志祥</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>999</p></td>
+<td><p>2010年5月7日</p></td>
+<td><p>Hotcha</p></td>
+<td><p>王子、毛弟和小杰</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>1000</p></td>
+<td><p>2010年5月14日</p></td>
 <td><p>鄭秀文</p></td>
 <td><p>Twins</p></td>
 <td><p><a href="../Page/Big_Four.md" title="wikilink">Big Four</a></p></td>
 <td><p>農夫、歐陽靖</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1001</p></td>
+<td><p>2010年5月21日</p></td>
 <td><p>S.H.E</p></td>
 <td><p><a href="../Page/超級巨聲.md" title="wikilink">超級巨聲</a></p></td>
 <td><p> </p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1002</p></td>
+<td><p>2010年5月28日</p></td>
 <td><p>Super Junior</p></td>
 <td><p>鍾欣桐</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1003</p></td>
+<td><p>2010年6月4日</p></td>
 <td><p>林峯</p></td>
 <td><p>F.CUZ</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1004</p></td>
+<td><p>2010年6月11日</p></td>
 <td><p>鍾嘉欣</p></td>
 <td><p>黑Girl</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1005</p></td>
+<td><p>2010年6月18日</p></td>
 <td><p>王子、洪詩<br />
 小傑、玉兔</p></td>
 <td><p>江若琳</p></td>
@@ -1240,168 +1593,189 @@ GEM鄧紫棋、江若琳、鍾舒漫、洪卓立</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1006</p></td>
+<td><p>2010年6月25日</p></td>
 <td><p>Hotcha</p></td>
 <td><p>By2</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1007</p></td>
+<td><p>2010年7月2日</p></td>
 <td><p>GEM鄧紫棋</p></td>
 <td><p>蔡卓妍</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1008</p></td>
+<td><p>2010年7月9日</p></td>
 <td><p>鄧麗欣</p></td>
 <td><p>方力申、鍾欣桐</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1009</p></td>
+<td><p>2010年7月16日</p></td>
 <td><p>FTIsland</p></td>
 <td><p>鬼鬼</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1010</p></td>
+<td><p>2010年7月23日</p></td>
 <td><p>林峯</p></td>
 <td><p>汪東城</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1011</p></td>
+<td><p>2010年7月30日</p></td>
 <td><p>鍾嘉欣</p></td>
 <td><p>羅志祥、黃鴻升</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1012</p></td>
+<td><p>2010年8月6日</p></td>
 <td><p>野仔</p></td>
 <td><p>大牙、小傑、Apple</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1013</p></td>
+<td><p>2010年8月13日</p></td>
 <td><p>鄧麗欣</p></td>
 <td><p>江若琳、小龍鳳</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1014</p></td>
+<td><p>2010年8月20日</p></td>
 <td><p>FTIsland</p></td>
 <td><p>衛蘭、文詠珊</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1015</p></td>
+<td><p>2010年8月27日</p></td>
 <td><p>王子、小傑、毛弟、鮪魚</p></td>
 <td><p>金賢重</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1016</p></td>
+<td><p>2010年9月3日</p></td>
 <td><p>周柏豪</p></td>
 <td><p>CNBLUE</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1017</p></td>
+<td><p>2010年9月10日</p></td>
 <td><p>洪卓立</p></td>
 <td><p>By2</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1018</p></td>
+<td><p>2010年9月17日</p></td>
 <td><p>鍾舒漫</p></td>
 <td><p>飛輪海</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1019</p></td>
+<td><p>2010年9月24日</p></td>
 <td><p>楊丞琳</p></td>
 <td><p>林欣彤</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1020</p></td>
+<td><p>2010年10月1日</p></td>
 <td><p>鍾嘉欣</p></td>
 <td><p>AK</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1021</p></td>
+<td><p>2010年10月8日</p></td>
 <td><p>GEM</p></td>
 <td><p>校花校草選舉</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1022</p></td>
+<td><p>2010年10月15日</p></td>
 <td><p>陳柏宇</p></td>
 <td><p>蔡卓妍</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1023</p></td>
+<td><p>2010年10月22日</p></td>
 <td><p>少女時代</p></td>
 <td><p>江若琳</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1024</p></td>
+<td><p>2010年10月29日</p></td>
 <td><p>JYJ</p></td>
 <td><p>周麗淇</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1025</p></td>
+<td><p>2010年11月5日</p></td>
 <td><p>飛輪海</p></td>
 <td><p>School Tour</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1026</p></td>
+<td><p>2010年11月12日</p></td>
 <td><p>GEM</p></td>
 <td><p>小傑、王子、毛弟<br />
 鮪魚、筱婕、meimei</p></td>
@@ -1409,587 +1783,65 @@ GEM鄧紫棋、江若琳、鍾舒漫、洪卓立</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1027</p></td>
+<td><p>2010年11月19日</p></td>
 <td><p>少女時代</p></td>
 <td><p>蔡卓妍</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1028</p></td>
+<td><p>2010年11月26日</p></td>
 <td><p>FTIsland</p></td>
 <td><p>鍾欣桐</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1029</p></td>
+<td><p>2010年12月3日</p></td>
 <td><p>鍾嘉欣</p></td>
 <td><p>陳偉霆</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1030</p></td>
+<td><p>2010年12月10日</p></td>
 <td><p>鄧麗欣</p></td>
 <td><p>炎亞綸、辰亦儒</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1031</p></td>
+<td><p>2010年12月17日</p></td>
 <td><p>GEM</p></td>
 <td><p>狄易達</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1032</p></td>
+<td><p>2010年12月24日</p></td>
 <td><p>汪東城</p></td>
 <td><p>江若琳</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1033</p></td>
+<td><p>2010年12月31日</p></td>
 <td><p>BEAST</p></td>
 <td><p>AK</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1034</p></td>
-<td><p>Kara</p></td>
-<td><p>小傑、王子、毛弟<br />
-鮪魚、筱婕、meimei</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1035</p></td>
-<td><p>羅力威</p></td>
-<td><p>Lollopop@F</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1036</p></td>
-<td><p>楊丞琳</p></td>
-<td><p>蔡卓妍</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1037</p></td>
-<td><p>Hotcha</p></td>
-<td><p>羅志祥</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1038</p></td>
-<td><p>洪卓立</p></td>
-<td><p>江若琳</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1039</p></td>
-<td><p>鍾嘉欣</p></td>
-<td><p>鄧麗欣</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1040</p></td>
-<td><p>林峯</p></td>
-<td><p>4Minute</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1041</p></td>
-<td><p>GEM</p></td>
-<td><p>朴政珉</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1042</p></td>
-<td><p>林峯</p></td>
-<td><p>糖妹</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1043</p></td>
-<td><p>Hotcha</p></td>
-<td><p>江若琳</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1044</p></td>
-<td><p>Super Junior-M</p></td>
-<td><p>炎亞綸</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1045</p></td>
-<td><p>鍾嘉欣</p></td>
-<td><p>蔡卓妍</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1046</p></td>
-<td><p>GEM</p></td>
-<td><p>張根碩</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1047</p></td>
-<td><p>少女時代</p></td>
-<td><p>王子</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1048</p></td>
-<td><p>張敬軒</p></td>
-<td><p>江若琳</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1049</p></td>
-<td><p>文詠珊</p></td>
-<td><p>Justin Bieber</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1050</p></td>
-<td><p>AKB48</p></td>
-<td><p>朴政珉</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1051</p></td>
-<td><p>School Tour</p></td>
-<td><p>炎亞綸</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1052</p></td>
-<td><p>鍾嘉欣</p></td>
-<td><p>黑Girl</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1053</p></td>
-<td><p>洪卓立</p></td>
-<td><p>Justin Bieber</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1054</p></td>
-<td><p>FTIsland</p></td>
-<td><p>林峯</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1055</p></td>
-<td><p>2AM</p></td>
-<td><p>羅志祥</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1056</p></td>
-<td><p>少女時代</p></td>
-<td><p>Circus</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1057</p></td>
-<td><p>2PM</p></td>
-<td><p>Twins</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1058</p></td>
-<td><p>金賢重</p></td>
-<td><p>GEM</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1059</p></td>
-<td><p>韓庾</p></td>
-<td><p>Twins</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1060</p></td>
-<td><p>井柏然</p></td>
-<td><p>Lady Gaga</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1061</p></td>
-<td><p>鄭容和</p></td>
-<td><p>楊丞琳</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1062</p></td>
-<td><p>林峯</p></td>
-<td><p>金亨俊</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1063</p></td>
-<td><p>GEM</p></td>
-<td><p>羅志祥</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1064</p></td>
-<td><p>Super Junior</p></td>
-<td><p>小鬼</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1065</p></td>
-<td><p>敖犬</p></td>
-<td><p>江若琳</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1066</p></td>
-<td><p>少女時代</p></td>
-<td><p>楊丞琳</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1067</p></td>
-<td><p>Hotcha</p></td>
-<td><p>汪東城</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1068</p></td>
-<td><p>糖妹</p></td>
-<td><p>f(x)</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1069</p></td>
-<td><p>2PM</p></td>
-<td><p>JPM</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1070</p></td>
-<td><p>Super Junior</p></td>
-<td><p>吳尊</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1071</p></td>
-<td><p>林峯</p></td>
-<td><p>AK</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1072</p></td>
-<td><p>鍾嘉欣</p></td>
-<td><p>張根碩</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1073</p></td>
-<td><p>SHINee</p></td>
-<td><p>Lollopop@F</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1074</p></td>
-<td><p>黑Girl</p></td>
-<td><p>AKB48</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1075</p></td>
-<td><p>少女時代</p></td>
-<td><p>W-inds</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1076</p></td>
-<td><p>羅志祥</p></td>
-<td><p>School Tour</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1077</p></td>
-<td><p>GEM</p></td>
-<td><p>Justin Bieber</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1078</p></td>
-<td><p>林欣彤</p></td>
-<td><p>洪卓立、陳偉霆</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1079</p></td>
-<td><p>羅志祥</p></td>
-<td><p>Lollopop@F</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1080</p></td>
-<td><p>JPM</p></td>
-<td><p>黑Girl</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1081</p></td>
-<td><p>少女時代</p></td>
-<td><p>Lollopop@F</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1082</p></td>
-<td><p>林峯</p></td>
-<td><p>Kara</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1083</p></td>
-<td><p>柯震東</p></td>
-<td><p>Taylor Lautner、Kristen Stewart、Robert Pattinson</p></td>
-<td><p>封面2為《<a href="../Page/暮光之城4：破曉.md" title="wikilink">吸血新世紀4：破曉傳奇上集</a>》的三位主角</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1084</p></td>
-<td><p>JPM</p></td>
-<td><p>黑Girl、東-{于}-哲</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1085</p></td>
-<td><p>少女時代</p></td>
-<td><p>江若琳</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1086</p></td>
-<td><p>鍾嘉欣</p></td>
-<td><p>許廷鏗</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1087</p></td>
-<td><p>林峯</p></td>
-<td><p>CNBLUE</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1088</p></td>
-<td><p>糖妹</p></td>
-<td><p>JPM</p></td>
-<td><p>板野友美</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1089</p></td>
-<td><p><a href="../Page/C_AllStar.md" title="wikilink">C AllStar</a></p></td>
-<td><p>蔡卓妍</p></td>
-<td><p> </p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1090</p></td>
-<td><p>2PM</p></td>
-<td><p>羅志祥</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1091</p></td>
-<td><p>鍾一憲、麥貝夷</p></td>
-<td><p>黑Girl、東-{于}-哲</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1092</p></td>
-<td><p>鍾嘉欣</p></td>
-<td><p>AKB48</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1093</p></td>
-<td><p>少女時代</p></td>
-<td><p>Hey!Say!Jump</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1094</p></td>
-<td><p>洪卓立</p></td>
-<td><p>W-inds</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1095</p></td>
-<td><p>Super Junior</p></td>
-<td><p>吳雨霏</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1096</p></td>
-<td><p>2PM</p></td>
-<td><p>AK</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1097</p></td>
-<td><p>BIGBANG</p></td>
-<td><p>羅志祥</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1098</p></td>
-<td><p>JPM</p></td>
-<td><p>BEAST</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1099</p></td>
-<td><p>SHINee</p></td>
-<td><p>陳妍希、陳漢典</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2001,6 +1853,819 @@ GEM鄧紫棋、江若琳、鍾舒漫、洪卓立</p></td>
 <thead>
 <tr class="header">
 <th><p>期數</p></th>
+<th><p>日期</p></th>
+<th><p>封面1</p></th>
+<th><p>封面2</p></th>
+<th><p>備註</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1034</p></td>
+<td><p>2011年1月7日</p></td>
+<td><p>Kara</p></td>
+<td><p>小傑、王子、毛弟<br />
+鮪魚、筱婕、meimei</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1035</p></td>
+<td><p>2011年1月14日</p></td>
+<td><p>羅力威</p></td>
+<td><p>Lollopop@F</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1036</p></td>
+<td><p>2011年1月21日</p></td>
+<td><p>楊丞琳</p></td>
+<td><p>蔡卓妍</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1037</p></td>
+<td><p>2011年1月26日</p></td>
+<td><p>Hotcha</p></td>
+<td><p>羅志祥</p></td>
+<td><p>原訂出版日子是1月28日，因應農曆新年假期，提前兩日出版</p></td>
+</tr>
+<tr class="odd">
+<td><p>1038</p></td>
+<td><p>2011年1月31日</p></td>
+<td><p>洪卓立</p></td>
+<td><p>江若琳</p></td>
+<td><p>原訂出版日子是2月4日，因應農曆新年假期，提前四日出版</p></td>
+</tr>
+<tr class="even">
+<td><p>1039</p></td>
+<td><p>2011年2月11日</p></td>
+<td><p>鍾嘉欣</p></td>
+<td><p>鄧麗欣</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1040</p></td>
+<td><p>2011年2月18日</p></td>
+<td><p>林峯</p></td>
+<td><p>4Minute</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1041</p></td>
+<td><p>2011年2月25日</p></td>
+<td><p>GEM</p></td>
+<td><p>朴政珉</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1042</p></td>
+<td><p>2011年3月4日</p></td>
+<td><p>林峯</p></td>
+<td><p>糖妹</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1043</p></td>
+<td><p>2011年3月11日</p></td>
+<td><p>Hotcha</p></td>
+<td><p>江若琳</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1044</p></td>
+<td><p>2011年3月18日</p></td>
+<td><p>Super Junior-M</p></td>
+<td><p>炎亞綸</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1045</p></td>
+<td><p>2011年3月25日</p></td>
+<td><p>鍾嘉欣</p></td>
+<td><p>蔡卓妍</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1046</p></td>
+<td><p>2011年4月1日</p></td>
+<td><p>GEM</p></td>
+<td><p>張根碩</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1047</p></td>
+<td><p>2011年4月8日</p></td>
+<td><p>少女時代</p></td>
+<td><p>王子</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1048</p></td>
+<td><p>2011年4月15日</p></td>
+<td><p>張敬軒</p></td>
+<td><p>江若琳</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1049</p></td>
+<td><p>2011年4月22日</p></td>
+<td><p>文詠珊</p></td>
+<td><p>Justin Bieber</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1050</p></td>
+<td><p>2011年4月29日</p></td>
+<td><p>AKB48</p></td>
+<td><p>朴政珉</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1051</p></td>
+<td><p>2011年5月6日</p></td>
+<td><p>School Tour</p></td>
+<td><p>炎亞綸</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1052</p></td>
+<td><p>2011年5月13日</p></td>
+<td><p>鍾嘉欣</p></td>
+<td><p>黑Girl</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1053</p></td>
+<td><p>2011年5月20日</p></td>
+<td><p>洪卓立</p></td>
+<td><p>Justin Bieber</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1054</p></td>
+<td><p>2011年5月27日</p></td>
+<td><p>FTIsland</p></td>
+<td><p>林峯</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1055</p></td>
+<td><p>2011年6月3日</p></td>
+<td><p>2AM</p></td>
+<td><p>羅志祥</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1056</p></td>
+<td><p>2011年6月10日</p></td>
+<td><p>少女時代</p></td>
+<td><p>Circus</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1057</p></td>
+<td><p>2011年6月17日</p></td>
+<td><p>2PM</p></td>
+<td><p>Twins</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1058</p></td>
+<td><p>2011年6月24日</p></td>
+<td><p>金賢重</p></td>
+<td><p>GEM</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1059</p></td>
+<td><p>2011年7月1日</p></td>
+<td><p>韓庾</p></td>
+<td><p>Twins</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1060</p></td>
+<td><p>2011年7月8日</p></td>
+<td><p>井柏然</p></td>
+<td><p>Lady Gaga</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1061</p></td>
+<td><p>2011年7月15日</p></td>
+<td><p>鄭容和</p></td>
+<td><p>楊丞琳</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1062</p></td>
+<td><p>2011年7月22日</p></td>
+<td><p>林峯</p></td>
+<td><p>金亨俊</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1063</p></td>
+<td><p>2011年7月29日</p></td>
+<td><p>GEM</p></td>
+<td><p>羅志祥</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1064</p></td>
+<td><p>2011年8月5日</p></td>
+<td><p>Super Junior</p></td>
+<td><p>小鬼</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1065</p></td>
+<td><p>2011年8月12日</p></td>
+<td><p>敖犬</p></td>
+<td><p>江若琳</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1066</p></td>
+<td><p>2011年8月19日</p></td>
+<td><p>少女時代</p></td>
+<td><p>楊丞琳</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1067</p></td>
+<td><p>2011年8月26日</p></td>
+<td><p>Hotcha</p></td>
+<td><p>汪東城</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1068</p></td>
+<td><p>2011年9月2日</p></td>
+<td><p>糖妹</p></td>
+<td><p>f(x)</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1069</p></td>
+<td><p>2011年9月9日</p></td>
+<td><p>2PM</p></td>
+<td><p>JPM</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1070</p></td>
+<td><p>2011年9月16日</p></td>
+<td><p>Super Junior</p></td>
+<td><p>吳尊</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1071</p></td>
+<td><p>2011年9月23日</p></td>
+<td><p>林峯</p></td>
+<td><p>AK</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1072</p></td>
+<td><p>2011年9月30日</p></td>
+<td><p>鍾嘉欣</p></td>
+<td><p>張根碩</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1073</p></td>
+<td><p>2011年10月7日</p></td>
+<td><p>SHINee</p></td>
+<td><p>Lollopop@F</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1074</p></td>
+<td><p>2011年10月14日</p></td>
+<td><p>黑Girl</p></td>
+<td><p>AKB48</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1075</p></td>
+<td><p>2011年10月21日</p></td>
+<td><p>少女時代</p></td>
+<td><p>W-inds</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1076</p></td>
+<td><p>2011年10月28日</p></td>
+<td><p>羅志祥</p></td>
+<td><p>School Tour</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1077</p></td>
+<td><p>2011年11月4日</p></td>
+<td><p>GEM</p></td>
+<td><p>Justin Bieber</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1078</p></td>
+<td><p>2011年11月11日</p></td>
+<td><p>林欣彤</p></td>
+<td><p>洪卓立、陳偉霆</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1079</p></td>
+<td><p>2011年11月18日</p></td>
+<td><p>羅志祥</p></td>
+<td><p>Lollopop@F</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1080</p></td>
+<td><p>2011年11月25日</p></td>
+<td><p>JPM</p></td>
+<td><p>黑Girl</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1081</p></td>
+<td><p>2011年12月2日</p></td>
+<td><p>少女時代</p></td>
+<td><p>Lollopop@F</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1082</p></td>
+<td><p>2011年12月9日</p></td>
+<td><p>林峯</p></td>
+<td><p>Kara</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1083</p></td>
+<td><p>2011年12月16日</p></td>
+<td><p>柯震東</p></td>
+<td><p>Taylor Lautner、Kristen Stewart、Robert Pattinson</p></td>
+<td><p>封面2為《<a href="../Page/暮光之城4：破曉.md" title="wikilink">吸血新世紀4：破曉傳奇上集</a>》的三位主角</p></td>
+</tr>
+<tr class="odd">
+<td><p>1084</p></td>
+<td><p>2011年12月23日</p></td>
+<td><p>JPM</p></td>
+<td><p>黑Girl、東-{于}-哲</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1085</p></td>
+<td><p>2011年12月30日</p></td>
+<td><p>少女時代</p></td>
+<td><p>江若琳</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr class="header">
+<th><p>期數</p></th>
+<th><p>日期</p></th>
+<th><p>封面1</p></th>
+<th><p>封面2</p></th>
+<th><p>封面3</p></th>
+<th><p>備註</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1086</p></td>
+<td><p>2012年1月6日</p></td>
+<td><p>鍾嘉欣</p></td>
+<td><p>許廷鏗</p></td>
+<td><p> </p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1087</p></td>
+<td><p>2012年1月13日</p></td>
+<td><p>林峯</p></td>
+<td><p>CNBLUE</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1088</p></td>
+<td><p>2012年1月20日</p></td>
+<td><p>糖妹</p></td>
+<td><p>JPM</p></td>
+<td><p>板野友美</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1089</p></td>
+<td><p>2012年1月27日</p></td>
+<td><p><a href="../Page/C_AllStar.md" title="wikilink">C AllStar</a></p></td>
+<td><p>蔡卓妍</p></td>
+<td><p> </p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1090</p></td>
+<td><p>2012年2月3日</p></td>
+<td><p>2PM</p></td>
+<td><p>羅志祥</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1091</p></td>
+<td><p>2012年2月10日</p></td>
+<td><p>鍾一憲、麥貝夷</p></td>
+<td><p>黑Girl、東-{于}-哲</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1092</p></td>
+<td><p>2012年2月17日</p></td>
+<td><p>鍾嘉欣</p></td>
+<td><p>AKB48</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1093</p></td>
+<td><p>2012年2月24日</p></td>
+<td><p>少女時代</p></td>
+<td><p>Hey!Say!Jump</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1094</p></td>
+<td><p>2012年3月2日</p></td>
+<td><p>洪卓立</p></td>
+<td><p>W-inds</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1095</p></td>
+<td><p>2012年3月9日</p></td>
+<td><p>Super Junior</p></td>
+<td><p>吳雨霏</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1096</p></td>
+<td><p>2012年3月16日</p></td>
+<td><p>2PM</p></td>
+<td><p>AK</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1097</p></td>
+<td><p>2012年3月23日</p></td>
+<td><p>BIGBANG</p></td>
+<td><p>羅志祥</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1098</p></td>
+<td><p>2012年3月30日</p></td>
+<td><p>JPM</p></td>
+<td><p>BEAST</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1099</p></td>
+<td><p>2012年4月6日</p></td>
+<td><p>SHINee</p></td>
+<td><p>陳妍希、陳漢典</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1100</p></td>
+<td><p>2012年4月13日</p></td>
+<td><p>羅志祥</p></td>
+<td><p>林欣彤</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1101</p></td>
+<td><p>2012年4月20日</p></td>
+<td><p>2PM</p></td>
+<td><p>柯震東</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1102</p></td>
+<td><p>2012年4月27日</p></td>
+<td><p>AKB48</p></td>
+<td><p>School Tour</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1103</p></td>
+<td><p>2012年5月4日</p></td>
+<td><p>陳柏宇</p></td>
+<td><p>Sistar、Miss A<br />
+MBLAQ、FTIsland<br />
+4minute</p></td>
+<td><p>封面2為節目<a href="https://zh.wikipedia.org/wiki/M_Countdown" title="wikilink">M Countdown的五隊南韓組合</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1104</p></td>
+<td><p>2012年5月11日</p></td>
+<td><p>少女時代</p></td>
+<td><p>羅志祥</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1105</p></td>
+<td><p>2012年5月18日</p></td>
+<td><p><a href="../Page/金賢重.md" title="wikilink">金賢重</a></p></td>
+<td><p>賀軍翔、陳嘉樺</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1106</p></td>
+<td><p>2012年5月25日</p></td>
+<td><p>FTIsland</p></td>
+<td><p>鍾嘉欣</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1107</p></td>
+<td><p>2012年6月1日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/One_Direction" title="wikilink">One Direction</a></p></td>
+<td><p><a href="../Page/鍾一憲.md" title="wikilink">鍾一憲</a>、<a href="../Page/麥貝夷.md" title="wikilink">麥貝夷</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1108</p></td>
+<td><p>2012年6月8日</p></td>
+<td><p><a href="../Page/Kara.md" title="wikilink">Kara</a></p></td>
+<td><p>羅志祥</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1109</p></td>
+<td><p>2012年6月15日</p></td>
+<td><p>BIGBANG</p></td>
+<td><p>AKB48</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1110</p></td>
+<td><p>2012年6月22日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Justin_Bieber" title="wikilink">Justin Bieber</a></p></td>
+<td><p>少女時代</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1111</p></td>
+<td><p>2012年6月29日</p></td>
+<td><p><a href="../Page/S.H.E.md" title="wikilink">S.H.E</a></p></td>
+<td><p>GEM鄧紫棋</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1112</p></td>
+<td><p>2012年7月6日</p></td>
+<td><p>Super Junior</p></td>
+<td><p>林峯</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1113</p></td>
+<td><p>2012年7月13日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Greyson_Chance" title="wikilink">Greyson Chance</a></p></td>
+<td><p>炎亞綸</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1114</p></td>
+<td><p>2012年7月20日</p></td>
+<td><p>FTIsland</p></td>
+<td><p>鍾嘉欣</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1115</p></td>
+<td><p>2012年7月27日</p></td>
+<td><p>BEAST</p></td>
+<td><p>楊丞琳</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1116</p></td>
+<td><p>2012年8月3日</p></td>
+<td><p>AKB48</p></td>
+<td><p>羅志祥</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1117</p></td>
+<td><p>2012年8月10日</p></td>
+<td><p>SHINee</p></td>
+<td><p>吳雨霏</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1118</p></td>
+<td><p>2012年8月17日</p></td>
+<td><p>金秀賢</p></td>
+<td><p>Lollipop@F</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1119</p></td>
+<td><p>2012年8月24日</p></td>
+<td><p>Taylor Swift</p></td>
+<td><p>林峯</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1120</p></td>
+<td><p>2012年8月31日</p></td>
+<td><p>鍾嘉欣</p></td>
+<td><p><a href="../Page/Boyfriend_(男子团体).md" title="wikilink">Boyfriend</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1121</p></td>
+<td><p>2012年9月7日</p></td>
+<td><p>GEM鄧紫棋</p></td>
+<td><p>汪東城</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1122</p></td>
+<td><p>2012年9月14日</p></td>
+<td><p>少女時代</p></td>
+<td><p>羅志祥</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1123</p></td>
+<td><p>2012年9月21日</p></td>
+<td><p>楊丞琳</p></td>
+<td><p>T-ara</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1124</p></td>
+<td><p>2012年9月28日</p></td>
+<td><p>SHINee</p></td>
+<td><p>林峯</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1125</p></td>
+<td><p>2012年10月5日</p></td>
+<td><p>BIGBANG</p></td>
+<td><p>糖妹</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1126</p></td>
+<td><p>2012年10月12日</p></td>
+<td><p>少女時代</p></td>
+<td><p>炎亞綸</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1127</p></td>
+<td><p>2012年10月19日</p></td>
+<td><p>鍾嘉欣</p></td>
+<td><p>JPM</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1128</p></td>
+<td><p>2012年10月26日</p></td>
+<td><p>Super Junior</p></td>
+<td><p>School Tour</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1129</p></td>
+<td><p>2012年11月2日</p></td>
+<td><p>SHINee</p></td>
+<td><p>羅志祥</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1130</p></td>
+<td><p>2012年11月9日</p></td>
+<td><p>少女時代</p></td>
+<td><p>汪東城</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1131</p></td>
+<td><p>2012年11月16日</p></td>
+<td><p>鍾嘉欣</p></td>
+<td><p>炎亞綸</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1132</p></td>
+<td><p>2012年11月23日</p></td>
+<td><p>BIGBANG</p></td>
+<td><p>林峯</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1133</p></td>
+<td><p>2012年11月30日</p></td>
+<td><p><a href="../Page/Super_Junior-K.R.Y..md" title="wikilink">Super Junior-K.R.Y.</a></p></td>
+<td><p>羅志祥、楊丞琳</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1134</p></td>
+<td><p>2012年12月7日</p></td>
+<td><p>SHINee</p></td>
+<td><p>GEM鄧紫棋</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1135</p></td>
+<td><p>2012年12月14日</p></td>
+<td><p>少女時代</p></td>
+<td><p>許廷鏗</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1136</p></td>
+<td><p>2012年12月21日</p></td>
+<td><p>Taylor Swift</p></td>
+<td><p>炎亞綸</p></td>
+<td><p>最後一次以歐美女明星作封面人物</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1137</p></td>
+<td><p>2012年12月28日</p></td>
+<td><p>Super Junior</p></td>
+<td><p>周杰倫</p></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr class="header">
+<th><p>期數</p></th>
+<th><p>日期</p></th>
 <th><p>封面1</p></th>
 <th><p>封面2</p></th>
 <th><p>封面3</p></th>
@@ -2010,321 +2675,17 @@ GEM鄧紫棋、江若琳、鍾舒漫、洪卓立</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>1100</p></td>
-<td><p>羅志祥</p></td>
-<td><p>林欣彤</p></td>
-<td><p> </p></td>
-<td><p> </p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1101</p></td>
-<td><p>2PM</p></td>
-<td><p>柯震東</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1102</p></td>
-<td><p>AKB48</p></td>
-<td><p>School Tour</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1103</p></td>
-<td><p>陳柏宇</p></td>
-<td><p>Sistar、Miss A<br />
-MBLAQ、FTIsland<br />
-4minute</p></td>
-<td><p>封面2為節目<a href="https://zh.wikipedia.org/wiki/M_Countdown" title="wikilink">M Countdown的五隊南韓組合</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1104</p></td>
-<td><p>少女時代</p></td>
-<td><p>羅志祥</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1105</p></td>
-<td><p><a href="../Page/金賢重.md" title="wikilink">金賢重</a></p></td>
-<td><p>賀軍翔、陳嘉樺</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1106</p></td>
-<td><p>FTIsland</p></td>
-<td><p>鍾嘉欣</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1107</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/One_Direction" title="wikilink">One Direction</a></p></td>
-<td><p><a href="../Page/鍾一憲.md" title="wikilink">鍾一憲</a>、<a href="../Page/麥貝夷.md" title="wikilink">麥貝夷</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1108</p></td>
-<td><p><a href="../Page/Kara.md" title="wikilink">Kara</a></p></td>
-<td><p>羅志祥</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1109</p></td>
-<td><p>BIGBANG</p></td>
-<td><p>AKB48</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1110</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Justin_Bieber" title="wikilink">Justin Bieber</a></p></td>
-<td><p>少女時代</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1111</p></td>
-<td><p><a href="../Page/S.H.E.md" title="wikilink">S.H.E</a></p></td>
-<td><p>GEM鄧紫棋</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1112</p></td>
-<td><p>Super Junior</p></td>
-<td><p>林峯</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1113</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Greyson_Chance" title="wikilink">Greyson Chance</a></p></td>
-<td><p>炎亞綸</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1114</p></td>
-<td><p>FTIsland</p></td>
-<td><p>鍾嘉欣</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1115</p></td>
-<td><p>BEAST</p></td>
-<td><p>楊丞琳</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1116</p></td>
-<td><p>AKB48</p></td>
-<td><p>羅志祥</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1117</p></td>
-<td><p>SHINee</p></td>
-<td><p>吳雨霏</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1118</p></td>
-<td><p>金秀賢</p></td>
-<td><p>Lollipop@F</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1119</p></td>
-<td><p>Taylor Swift</p></td>
-<td><p>林峯</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1120</p></td>
-<td><p>鍾嘉欣</p></td>
-<td><p><a href="../Page/Boyfriend_(男子团体).md" title="wikilink">Boyfriend</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1121</p></td>
-<td><p>GEM鄧紫棋</p></td>
-<td><p>汪東城</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1122</p></td>
-<td><p>少女時代</p></td>
-<td><p>羅志祥</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1123</p></td>
-<td><p>楊丞琳</p></td>
-<td><p>T-ara</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1124</p></td>
-<td><p>SHINee</p></td>
-<td><p>林峯</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1125</p></td>
-<td><p>BIGBANG</p></td>
-<td><p>糖妹</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1126</p></td>
-<td><p>少女時代</p></td>
-<td><p>炎亞綸</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1127</p></td>
-<td><p>鍾嘉欣</p></td>
-<td><p>JPM</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1128</p></td>
-<td><p>Super Junior</p></td>
-<td><p>School Tour</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1129</p></td>
-<td><p>SHINee</p></td>
-<td><p>羅志祥</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1130</p></td>
-<td><p>少女時代</p></td>
-<td><p>汪東城</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1131</p></td>
-<td><p>鍾嘉欣</p></td>
-<td><p>炎亞綸</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1132</p></td>
-<td><p>BIGBANG</p></td>
-<td><p>林峯</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1133</p></td>
-<td><p><a href="../Page/Super_Junior-K.R.Y..md" title="wikilink">Super Junior-K.R.Y.</a></p></td>
-<td><p>羅志祥、楊丞琳</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1134</p></td>
-<td><p>SHINee</p></td>
-<td><p>GEM鄧紫棋</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1135</p></td>
-<td><p>少女時代</p></td>
-<td><p>許廷鏗</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1136</p></td>
-<td><p>Taylor Swift</p></td>
-<td><p>炎亞綸</p></td>
-<td><p>最後一次以歐美女明星作封面人物</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1137</p></td>
-<td><p>Super Junior</p></td>
-<td><p>周杰倫</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>1138</p></td>
+<td><p>2013年1月4日</p></td>
 <td><p>少女時代</p></td>
 <td><p>JPM</p></td>
-<td></td>
-<td></td>
+<td><p> </p></td>
+<td><p> </p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1139</p></td>
+<td><p>2013年1月11日</p></td>
 <td><p>Super Junior-M</p></td>
 <td><p>Lollipop@F</p></td>
 <td></td>
@@ -2333,6 +2694,7 @@ MBLAQ、FTIsland<br />
 </tr>
 <tr class="odd">
 <td><p>1140</p></td>
+<td><p>2013年1月18日</p></td>
 <td><p><a href="../Page/山田涼介.md" title="wikilink">山田涼介</a></p></td>
 <td><p>S.H.E</p></td>
 <td><p>最後一次以日本男明星作封面人物</p></td>
@@ -2341,6 +2703,7 @@ MBLAQ、FTIsland<br />
 </tr>
 <tr class="even">
 <td><p>1141</p></td>
+<td><p>2013年1月25日</p></td>
 <td><p>Justin Bieber</p></td>
 <td><p>林峯</p></td>
 <td><p>最後一次以歐美男明星作封面人物</p></td>
@@ -2349,6 +2712,7 @@ MBLAQ、FTIsland<br />
 </tr>
 <tr class="odd">
 <td><p>1142</p></td>
+<td><p>2013年2月1日</p></td>
 <td><p>少女時代</p></td>
 <td><p>GEM鄧紫棋</p></td>
 <td></td>
@@ -2357,6 +2721,7 @@ MBLAQ、FTIsland<br />
 </tr>
 <tr class="even">
 <td><p>1143</p></td>
+<td><p>2013年2月8日</p></td>
 <td><p>羅志祥</p></td>
 <td><p>糖妹</p></td>
 <td></td>
@@ -2365,6 +2730,7 @@ MBLAQ、FTIsland<br />
 </tr>
 <tr class="odd">
 <td><p>1144</p></td>
+<td><p>2013年2月15日</p></td>
 <td><p>楊丞琳</p></td>
 <td><p>鍾嘉欣</p></td>
 <td></td>
@@ -2373,6 +2739,7 @@ MBLAQ、FTIsland<br />
 </tr>
 <tr class="even">
 <td><p>1145</p></td>
+<td><p>2013年2月22日</p></td>
 <td><p>SHINee</p></td>
 <td><p>炎亞綸</p></td>
 <td></td>
@@ -2381,6 +2748,7 @@ MBLAQ、FTIsland<br />
 </tr>
 <tr class="odd">
 <td><p>1146</p></td>
+<td><p>2013年3月1日</p></td>
 <td><p>B.A.P</p></td>
 <td><p>羅志祥</p></td>
 <td></td>
@@ -2389,6 +2757,7 @@ MBLAQ、FTIsland<br />
 </tr>
 <tr class="even">
 <td><p>1147</p></td>
+<td><p>2013年3月8日</p></td>
 <td><p>少女時代</p></td>
 <td><p>江若琳</p></td>
 <td></td>
@@ -2397,6 +2766,7 @@ MBLAQ、FTIsland<br />
 </tr>
 <tr class="odd">
 <td><p>1148</p></td>
+<td><p>2013年3月15日</p></td>
 <td><p>Super Junior</p></td>
 <td><p>羅力威、洪卓立</p></td>
 <td></td>
@@ -2405,6 +2775,7 @@ MBLAQ、FTIsland<br />
 </tr>
 <tr class="even">
 <td><p>1149</p></td>
+<td><p>2013年3月22日</p></td>
 <td><p>G-Dragon</p></td>
 <td><p>林峯</p></td>
 <td></td>
@@ -2413,6 +2784,7 @@ MBLAQ、FTIsland<br />
 </tr>
 <tr class="odd">
 <td><p>1150</p></td>
+<td><p>2013年3月29日</p></td>
 <td><p>INFINITE</p></td>
 <td><p>GEM鄧紫棋</p></td>
 <td></td>
@@ -2421,6 +2793,7 @@ MBLAQ、FTIsland<br />
 </tr>
 <tr class="even">
 <td><p>1151</p></td>
+<td><p>2013年4月5日</p></td>
 <td><p>EXO</p></td>
 <td><p>鍾嘉欣</p></td>
 <td></td>
@@ -2429,6 +2802,7 @@ MBLAQ、FTIsland<br />
 </tr>
 <tr class="odd">
 <td><p>1152</p></td>
+<td><p>2013年4月12日</p></td>
 <td><p>CNBLUE</p></td>
 <td><p>炎亞綸</p></td>
 <td></td>
@@ -2437,6 +2811,7 @@ MBLAQ、FTIsland<br />
 </tr>
 <tr class="even">
 <td><p>1153</p></td>
+<td><p>2013年4月19日</p></td>
 <td><p>少女時代</p></td>
 <td><p>HKT48</p></td>
 <td></td>
@@ -2445,6 +2820,7 @@ MBLAQ、FTIsland<br />
 </tr>
 <tr class="odd">
 <td><p>1154</p></td>
+<td><p>2013年4月26日</p></td>
 <td><p>G-Dragon</p></td>
 <td><p>School Tour</p></td>
 <td></td>
@@ -2453,6 +2829,7 @@ MBLAQ、FTIsland<br />
 </tr>
 <tr class="even">
 <td><p>1155</p></td>
+<td><p>2013年5月3日</p></td>
 <td><p>SHINee</p></td>
 <td><p>AKB48</p></td>
 <td></td>
@@ -2461,6 +2838,7 @@ MBLAQ、FTIsland<br />
 </tr>
 <tr class="odd">
 <td><p>1156</p></td>
+<td><p>2013年5月10日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/2PM" title="wikilink">2PM</a></p></td>
 <td><p><a href="../Page/程予希.md" title="wikilink">程予希</a>、<a href="../Page/汪東城.md" title="wikilink">汪東城</a><br />
 <a href="https://zh.wikipedia.org/wiki/蔡旻佑" title="wikilink">蔡旻佑</a>、<a href="https://zh.wikipedia.org/wiki/黃仁德" title="wikilink">黃仁德</a></p></td>
@@ -2470,6 +2848,7 @@ MBLAQ、FTIsland<br />
 </tr>
 <tr class="even">
 <td><p>1157</p></td>
+<td><p>2013年5月17日</p></td>
 <td><p>CNBLUE</p></td>
 <td><p><a href="../Page/Jessica_(韓國歌手).md" title="wikilink">Jessica</a></p></td>
 <td></td>
@@ -2478,6 +2857,7 @@ MBLAQ、FTIsland<br />
 </tr>
 <tr class="odd">
 <td><p>1158</p></td>
+<td><p>2013年5月24日</p></td>
 <td><p>G-Dragon</p></td>
 <td><p>EXO</p></td>
 <td></td>
@@ -2486,6 +2866,7 @@ MBLAQ、FTIsland<br />
 </tr>
 <tr class="even">
 <td><p>1159</p></td>
+<td><p>2013年5月31日</p></td>
 <td><p><a href="../Page/銀赫.md" title="wikilink">銀赫</a>、<a href="../Page/東海_(藝人).md" title="wikilink">東海</a></p></td>
 <td><p>炎亞綸</p></td>
 <td></td>
@@ -2494,6 +2875,7 @@ MBLAQ、FTIsland<br />
 </tr>
 <tr class="odd">
 <td><p>1160</p></td>
+<td><p>2013年6月7日</p></td>
 <td><p>少女時代</p></td>
 <td><p>黃鴻升</p></td>
 <td></td>
@@ -2502,6 +2884,7 @@ MBLAQ、FTIsland<br />
 </tr>
 <tr class="even">
 <td><p>1161</p></td>
+<td><p>2013年6月14日</p></td>
 <td><p>BIGBANG</p></td>
 <td><p>羅志祥</p></td>
 <td></td>
@@ -2510,6 +2893,7 @@ MBLAQ、FTIsland<br />
 </tr>
 <tr class="odd">
 <td><p>1162</p></td>
+<td><p>2013年6月21日</p></td>
 <td><p>Super Junior</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/金鍾國" title="wikilink">金鍾國</a>、<a href="../Page/Haha.md" title="wikilink">Haha</a><br />
 <a href="https://zh.wikipedia.org/wiki/池石鎮" title="wikilink">池石鎮</a>、<a href="../Page/Gary_(韓國歌手).md" title="wikilink">Gary</a></p></td>
@@ -2519,6 +2903,7 @@ MBLAQ、FTIsland<br />
 </tr>
 <tr class="even">
 <td><p>1163</p></td>
+<td><p>2013年6月28日</p></td>
 <td><p>SHINee</p></td>
 <td><p><a href="../Page/B1A4.md" title="wikilink">B1A4</a></p></td>
 <td></td>
@@ -2527,6 +2912,7 @@ MBLAQ、FTIsland<br />
 </tr>
 <tr class="odd">
 <td><p>1164</p></td>
+<td><p>2013年7月5日</p></td>
 <td><p>EXO</p></td>
 <td><p>鍾嘉欣</p></td>
 <td></td>
@@ -2535,6 +2921,7 @@ MBLAQ、FTIsland<br />
 </tr>
 <tr class="even">
 <td><p>1165</p></td>
+<td><p>2013年7月12日</p></td>
 <td><p>Super Junior</p></td>
 <td><p><a href="../Page/After_School.md" title="wikilink">After School</a></p></td>
 <td></td>
@@ -2543,6 +2930,7 @@ MBLAQ、FTIsland<br />
 </tr>
 <tr class="odd">
 <td><p>1166</p></td>
+<td><p>2013年7月19日</p></td>
 <td><p><a href="../Page/劉憲華.md" title="wikilink">Henry</a></p></td>
 <td><p>Henry本期佔有兩個封面</p></td>
 <td></td>
@@ -2551,6 +2939,7 @@ MBLAQ、FTIsland<br />
 </tr>
 <tr class="even">
 <td><p>1167</p></td>
+<td><p>2013年7月26日</p></td>
 <td><p>少女時代</p></td>
 <td><p>INFINITE</p></td>
 <td></td>
@@ -2559,6 +2948,7 @@ MBLAQ、FTIsland<br />
 </tr>
 <tr class="odd">
 <td><p>1168</p></td>
+<td><p>2013年8月2日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/f(x)_(組合)" title="wikilink">f(x)</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/金秀賢" title="wikilink">金秀賢</a></p></td>
 <td><p>黃鴻升</p></td>
@@ -2567,6 +2957,7 @@ MBLAQ、FTIsland<br />
 </tr>
 <tr class="even">
 <td><p>1169</p></td>
+<td><p>2013年8月9日</p></td>
 <td><p>EXO</p></td>
 <td><p><a href="../Page/B.A.P.md" title="wikilink">B.A.P</a></p></td>
 <td><p>楊丞琳</p></td>
@@ -2575,6 +2966,7 @@ MBLAQ、FTIsland<br />
 </tr>
 <tr class="odd">
 <td><p>1170</p></td>
+<td><p>2013年8月16日</p></td>
 <td><p>Super Junior</p></td>
 <td><p>T-ara</p></td>
 <td><p> </p></td>
@@ -2583,6 +2975,7 @@ MBLAQ、FTIsland<br />
 </tr>
 <tr class="even">
 <td><p>1171</p></td>
+<td><p>2013年8月23日</p></td>
 <td><p><a href="../Page/起範.md" title="wikilink">起範</a></p></td>
 <td><p>INFINITE</p></td>
 <td></td>
@@ -2591,6 +2984,7 @@ MBLAQ、FTIsland<br />
 </tr>
 <tr class="odd">
 <td><p>1172</p></td>
+<td><p>2013年8月30日</p></td>
 <td><p>G-Dragon</p></td>
 <td><p>Jessica</p></td>
 <td></td>
@@ -2599,6 +2993,7 @@ MBLAQ、FTIsland<br />
 </tr>
 <tr class="even">
 <td><p>1173</p></td>
+<td><p>2013年9月6日</p></td>
 <td><p>EXO</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/BEAST" title="wikilink">BEAST</a></p></td>
 <td></td>
@@ -2607,6 +3002,7 @@ MBLAQ、FTIsland<br />
 </tr>
 <tr class="odd">
 <td><p>1174</p></td>
+<td><p>2013年9月13日</p></td>
 <td><p>少女時代</p></td>
 <td><p><a href="../Page/張惠雅.md" title="wikilink">Regan</a></p></td>
 <td></td>
@@ -2615,6 +3011,7 @@ MBLAQ、FTIsland<br />
 </tr>
 <tr class="even">
 <td><p>1175</p></td>
+<td><p>2013年9月20日</p></td>
 <td><p>G-Dragon</p></td>
 <td><p>Super Junior</p></td>
 <td></td>
@@ -2623,6 +3020,7 @@ MBLAQ、FTIsland<br />
 </tr>
 <tr class="odd">
 <td><p>1176</p></td>
+<td><p>2013年9月27日</p></td>
 <td><p>SHINee</p></td>
 <td><p><a href="../Page/宋智孝.md" title="wikilink">宋智孝</a></p></td>
 <td></td>
@@ -2631,6 +3029,7 @@ MBLAQ、FTIsland<br />
 </tr>
 <tr class="even">
 <td><p>1177</p></td>
+<td><p>2013年10月4日</p></td>
 <td><p>少女時代</p></td>
 <td><p><a href="../Page/崔真理.md" title="wikilink">Sulli</a></p></td>
 <td></td>
@@ -2639,6 +3038,7 @@ MBLAQ、FTIsland<br />
 </tr>
 <tr class="odd">
 <td><p>1178</p></td>
+<td><p>2013年10月11日</p></td>
 <td><p>羅志祥</p></td>
 <td><p>AKB48</p></td>
 <td></td>
@@ -2647,6 +3047,7 @@ MBLAQ、FTIsland<br />
 </tr>
 <tr class="even">
 <td><p>1179</p></td>
+<td><p>2013年10月18日</p></td>
 <td><p>SHINee</p></td>
 <td><p>EXO</p></td>
 <td></td>
@@ -2655,6 +3056,7 @@ MBLAQ、FTIsland<br />
 </tr>
 <tr class="odd">
 <td><p>1180</p></td>
+<td><p>2013年10月25日</p></td>
 <td><p>Jessica、<a href="../Page/鄭秀晶.md" title="wikilink">Krystal</a></p></td>
 <td><p>林峯</p></td>
 <td></td>
@@ -2663,6 +3065,7 @@ MBLAQ、FTIsland<br />
 </tr>
 <tr class="even">
 <td><p>1181</p></td>
+<td><p>2013年11月1日</p></td>
 <td><p>B.A.P</p></td>
 <td><p>黃鴻升</p></td>
 <td></td>
@@ -2671,6 +3074,7 @@ MBLAQ、FTIsland<br />
 </tr>
 <tr class="odd">
 <td><p>1182</p></td>
+<td><p>2013年11月8日</p></td>
 <td><p><a href="../Page/Super_Junior-M.md" title="wikilink">Super Junior-M</a></p></td>
 <td><p>羅志祥</p></td>
 <td></td>
@@ -2679,6 +3083,7 @@ MBLAQ、FTIsland<br />
 </tr>
 <tr class="even">
 <td><p>1183</p></td>
+<td><p>2013年11月15日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/朴信惠" title="wikilink">朴信惠</a>、<a href="https://zh.wikipedia.org/wiki/李敏鎬" title="wikilink">李敏鎬</a></p></td>
 <td><p>少女時代</p></td>
 <td><p>封面1為劇集《<a href="../Page/繼承者們.md" title="wikilink">繼承者們</a>》的兩位主角<br />
@@ -2689,6 +3094,7 @@ MBLAQ、FTIsland<br />
 </tr>
 <tr class="odd">
 <td><p>1184</p></td>
+<td><p>2013年11月22日</p></td>
 <td><p>G-Dragon</p></td>
 <td><p>宋智孝</p></td>
 <td><p> </p></td>
@@ -2697,6 +3103,7 @@ MBLAQ、FTIsland<br />
 </tr>
 <tr class="even">
 <td><p>1185</p></td>
+<td><p>2013年11月29日</p></td>
 <td><p>EXO</p></td>
 <td><p><a href="../Page/Crayon_Pop.md" title="wikilink">Crayon Pop</a></p></td>
 <td></td>
@@ -2705,6 +3112,7 @@ MBLAQ、FTIsland<br />
 </tr>
 <tr class="odd">
 <td><p>1186</p></td>
+<td><p>2013年12月6日</p></td>
 <td><p>少女時代</p></td>
 <td><p>金鍾國</p></td>
 <td></td>
@@ -2713,6 +3121,7 @@ MBLAQ、FTIsland<br />
 </tr>
 <tr class="even">
 <td><p>1187</p></td>
+<td><p>2013年12月13日</p></td>
 <td><p>BIGBANG</p></td>
 <td><p><a href="../Page/李鍾碩.md" title="wikilink">李鍾碩</a></p></td>
 <td></td>
@@ -2721,6 +3130,7 @@ MBLAQ、FTIsland<br />
 </tr>
 <tr class="odd">
 <td><p>1188</p></td>
+<td><p>2013年12月20日</p></td>
 <td><p>Super Junior-M</p></td>
 <td><p>EXO</p></td>
 <td></td>
@@ -2729,90 +3139,10 @@ MBLAQ、FTIsland<br />
 </tr>
 <tr class="even">
 <td><p>1189</p></td>
+<td><p>2013年12月27日</p></td>
 <td><p>AKB48</p></td>
 <td><p>Gary</p></td>
 <td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1190</p></td>
-<td><p>SHINee</p></td>
-<td><p><a href="../Page/Miss_A.md" title="wikilink">Miss A</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1191</p></td>
-<td><p>G-Dragon</p></td>
-<td><p>INFINITE</p></td>
-<td><p>FTIsland</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1192</p></td>
-<td><p>CNBLUE</p></td>
-<td><p>B1A4</p></td>
-<td><p>朴信惠</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1193</p></td>
-<td><p><a href="../Page/SISTAR.md" title="wikilink">SISTAR</a></p></td>
-<td><p>Gary</p></td>
-<td><p> </p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1194</p></td>
-<td><p><a href="../Page/吳千語.md" title="wikilink">吳千語</a>、<a href="../Page/林德信.md" title="wikilink">林德信</a></p></td>
-<td><p><a href="../Page/吳若希.md" title="wikilink">吳若希</a>、<a href="../Page/鄭欣宜.md" title="wikilink">鄭欣宜</a><br />
-<a href="https://zh.wikipedia.org/wiki/胡鴻鈞" title="wikilink">胡鴻鈞</a>、<a href="https://zh.wikipedia.org/wiki/許廷鏗" title="wikilink">許廷鏗</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1195</p></td>
-<td><p>糖妹</p></td>
-<td><p>宋智孝</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1196</p></td>
-<td><p>銀赫、東海</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/4Minute" title="wikilink">4Minute</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1197</p></td>
-<td><p>金秀賢、全智賢</p></td>
-<td><p>羅志祥</p></td>
-<td><p>封面1為劇集《<a href="../Page/來自星星的你.md" title="wikilink">來自星星的你</a>》的兩位主角</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1198</p></td>
-<td><p>少女時代</p></td>
-<td><p><a href="../Page/金宇彬.md" title="wikilink">金宇彬</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1199</p></td>
-<td><p>EXO</p></td>
-<td><p><a href="../Page/2NE1.md" title="wikilink">2NE1</a></p></td>
-<td><p>EXO本期佔有兩個封面</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -2823,6 +3153,7 @@ MBLAQ、FTIsland<br />
 <thead>
 <tr class="header">
 <th><p>期數</p></th>
+<th><p>日期</p></th>
 <th><p>封面1</p></th>
 <th><p>封面2</p></th>
 <th><p>封面3</p></th>
@@ -2831,7 +3162,89 @@ MBLAQ、FTIsland<br />
 </thead>
 <tbody>
 <tr class="odd">
+<td><p>1190</p></td>
+<td><p>2014年1月3日</p></td>
+<td><p>SHINee</p></td>
+<td><p><a href="../Page/Miss_A.md" title="wikilink">Miss A</a></p></td>
+<td><p> </p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1191</p></td>
+<td><p>2014年1月10日</p></td>
+<td><p>G-Dragon</p></td>
+<td><p>INFINITE</p></td>
+<td><p>FTIsland</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1192</p></td>
+<td><p>2014年1月17日</p></td>
+<td><p>CNBLUE</p></td>
+<td><p>B1A4</p></td>
+<td><p>朴信惠</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1193</p></td>
+<td><p>2014年1月24日</p></td>
+<td><p><a href="../Page/SISTAR.md" title="wikilink">SISTAR</a></p></td>
+<td><p>Gary</p></td>
+<td><p> </p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1194</p></td>
+<td><p>2014年1月31日</p></td>
+<td><p><a href="../Page/吳千語.md" title="wikilink">吳千語</a>、<a href="../Page/林德信.md" title="wikilink">林德信</a></p></td>
+<td><p><a href="../Page/吳若希.md" title="wikilink">吳若希</a>、<a href="../Page/鄭欣宜.md" title="wikilink">鄭欣宜</a><br />
+<a href="https://zh.wikipedia.org/wiki/胡鴻鈞" title="wikilink">胡鴻鈞</a>、<a href="https://zh.wikipedia.org/wiki/許廷鏗" title="wikilink">許廷鏗</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1195</p></td>
+<td><p>2014年2月7日</p></td>
+<td><p>糖妹</p></td>
+<td><p>宋智孝</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1196</p></td>
+<td><p>2014年2月14日</p></td>
+<td><p>銀赫、東海</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/4Minute" title="wikilink">4Minute</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1197</p></td>
+<td><p>2014年2月21日</p></td>
+<td><p>金秀賢、全智賢</p></td>
+<td><p>羅志祥</p></td>
+<td><p>封面1為劇集《<a href="../Page/來自星星的你.md" title="wikilink">來自星星的你</a>》的兩位主角</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1198</p></td>
+<td><p>2014年2月28日</p></td>
+<td><p>少女時代</p></td>
+<td><p><a href="../Page/金宇彬.md" title="wikilink">金宇彬</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1199</p></td>
+<td><p>2014年3月7日</p></td>
+<td><p>EXO</p></td>
+<td><p><a href="../Page/2NE1.md" title="wikilink">2NE1</a></p></td>
+<td><p>EXO本期佔有兩個封面</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>1200</p></td>
+<td><p>2014年3月14日</p></td>
 <td><p>少女時代</p></td>
 <td><p>Hero籃球隊</p></td>
 <td><p> </p></td>
@@ -2839,6 +3252,7 @@ MBLAQ、FTIsland<br />
 </tr>
 <tr class="even">
 <td><p>1201</p></td>
+<td><p>2014年3月21日</p></td>
 <td><p>金秀賢</p></td>
 <td><p>G-Dragon</p></td>
 <td></td>
@@ -2846,6 +3260,7 @@ MBLAQ、FTIsland<br />
 </tr>
 <tr class="odd">
 <td><p>1202</p></td>
+<td><p>2014年3月28日</p></td>
 <td><p>Super Junior-M</p></td>
 <td><p>宋智孝</p></td>
 <td></td>
@@ -2853,6 +3268,7 @@ MBLAQ、FTIsland<br />
 </tr>
 <tr class="even">
 <td><p>1203</p></td>
+<td><p>2014年4月4日</p></td>
 <td><p>李敏鎬</p></td>
 <td><p>李鍾碩</p></td>
 <td></td>
@@ -2860,6 +3276,7 @@ MBLAQ、FTIsland<br />
 </tr>
 <tr class="odd">
 <td><p>1204</p></td>
+<td><p>2014年4月11日</p></td>
 <td><p><a href="../Page/EXO.md" title="wikilink">EXO</a> [8][9]</p></td>
 <td><p>朴信惠</p></td>
 <td><p>EXO本期佔有兩個封面</p></td>
@@ -2867,6 +3284,7 @@ MBLAQ、FTIsland<br />
 </tr>
 <tr class="even">
 <td><p>1205</p></td>
+<td><p>2014年4月18日</p></td>
 <td><p><a href="../Page/CNBLUE.md" title="wikilink">CNBLUE</a></p></td>
 <td><p><a href="../Page/Toheart.md" title="wikilink">Toheart</a></p></td>
 <td><p> </p></td>
@@ -2874,6 +3292,7 @@ MBLAQ、FTIsland<br />
 </tr>
 <tr class="odd">
 <td><p>1206</p></td>
+<td><p>2014年4月25日</p></td>
 <td><p>金秀賢</p></td>
 <td><p>EXO</p></td>
 <td></td>
@@ -2881,6 +3300,7 @@ MBLAQ、FTIsland<br />
 </tr>
 <tr class="even">
 <td><p>1207</p></td>
+<td><p>2014年5月2日</p></td>
 <td><p>少女時代</p></td>
 <td><p><a href="../Page/AKB48.md" title="wikilink">AKB48</a></p></td>
 <td></td>
@@ -2888,6 +3308,7 @@ MBLAQ、FTIsland<br />
 </tr>
 <tr class="odd">
 <td><p>1208</p></td>
+<td><p>2014年5月9日</p></td>
 <td><p><a href="../Page/SHINee.md" title="wikilink">SHINee</a>、f(x)</p></td>
 <td><p>李鍾碩</p></td>
 <td><p>Lollipop@F</p></td>
@@ -2895,6 +3316,7 @@ MBLAQ、FTIsland<br />
 </tr>
 <tr class="even">
 <td><p>1209</p></td>
+<td><p>2014年5月16日</p></td>
 <td><p><a href="../Page/INFINITE.md" title="wikilink">INFINITE</a></p></td>
 <td><p>EXO</p></td>
 <td><p> </p></td>
@@ -2902,6 +3324,7 @@ MBLAQ、FTIsland<br />
 </tr>
 <tr class="odd">
 <td><p>1210</p></td>
+<td><p>2014年5月23日</p></td>
 <td><p>CNBLUE</p></td>
 <td><p>宋智孝</p></td>
 <td></td>
@@ -2909,6 +3332,7 @@ MBLAQ、FTIsland<br />
 </tr>
 <tr class="even">
 <td><p>1211</p></td>
+<td><p>2014年5月30日</p></td>
 <td><p>EXO</p></td>
 <td><p>2NE1</p></td>
 <td></td>
@@ -2916,6 +3340,7 @@ MBLAQ、FTIsland<br />
 </tr>
 <tr class="odd">
 <td><p>1212</p></td>
+<td><p>2014年6月6日</p></td>
 <td><p>金秀賢</p></td>
 <td><p><a href="../Page/炎亞綸.md" title="wikilink">炎亞綸</a></p></td>
 <td></td>
@@ -2923,6 +3348,7 @@ MBLAQ、FTIsland<br />
 </tr>
 <tr class="even">
 <td><p>1213</p></td>
+<td><p>2014年6月13日</p></td>
 <td><p>少女時代</p></td>
 <td><p><a href="../Page/Gary_(韓國歌手).md" title="wikilink">Gary</a></p></td>
 <td><p>汪東城</p></td>
@@ -2930,6 +3356,7 @@ MBLAQ、FTIsland<br />
 </tr>
 <tr class="odd">
 <td><p>1214</p></td>
+<td><p>2014年6月20日</p></td>
 <td><p>B.A.P</p></td>
 <td><p>李鍾碩、<a href="../Page/朴海鎮.md" title="wikilink">朴海鎮</a><br />
 <a href="../Page/陳世娫.md" title="wikilink">陳世娫</a>、<a href="../Page/姜素拉.md" title="wikilink">姜素拉</a></p></td>
@@ -2938,6 +3365,7 @@ MBLAQ、FTIsland<br />
 </tr>
 <tr class="even">
 <td><p>1215</p></td>
+<td><p>2014年6月27日</p></td>
 <td><p><a href="../Page/GOT7.md" title="wikilink">GOT7</a></p></td>
 <td><p>BEAST</p></td>
 <td></td>
@@ -2945,6 +3373,7 @@ MBLAQ、FTIsland<br />
 </tr>
 <tr class="odd">
 <td><p>1216</p></td>
+<td><p>2014年7月4日</p></td>
 <td><p>李敏鎬</p></td>
 <td><p><a href="../Page/EXO-K.md" title="wikilink">EXO-K</a></p></td>
 <td></td>
@@ -2952,6 +3381,7 @@ MBLAQ、FTIsland<br />
 </tr>
 <tr class="even">
 <td><p>1217</p></td>
+<td><p>2014年7月11日</p></td>
 <td><p>f(x)</p></td>
 <td><p>Super Junior-M</p></td>
 <td></td>
@@ -2959,6 +3389,7 @@ MBLAQ、FTIsland<br />
 </tr>
 <tr class="odd">
 <td><p>1218</p></td>
+<td><p>2014年7月18日</p></td>
 <td><p>少女時代</p></td>
 <td><p>Lollipop@F</p></td>
 <td></td>
@@ -2966,6 +3397,7 @@ MBLAQ、FTIsland<br />
 </tr>
 <tr class="even">
 <td><p>1219</p></td>
+<td><p>2014年7月25日</p></td>
 <td><p>Super Junior-M</p></td>
 <td><p>板野友美</p></td>
 <td><p>江若琳</p></td>

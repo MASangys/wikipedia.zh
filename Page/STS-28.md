@@ -2,7 +2,7 @@
 
 ## 任务成员
 
-  - **[布鲁斯特·肖](https://zh.wikipedia.org/wiki/布鲁斯特·肖 "wikilink")**（，曾执行、以及任务），指令长
+  - **[布鲁斯特·肖](../Page/布鲁斯特·肖.md "wikilink")**（，曾执行、以及任务），指令长
   - **[理查德·理查兹](https://zh.wikipedia.org/wiki/理查德·理查兹 "wikilink")**（，曾执行、、以及任务），飞行员
   - **[詹姆斯·亚当森](https://zh.wikipedia.org/wiki/詹姆斯·亚当森 "wikilink")**（，曾执行以及任务），任务专家
   - **[大卫·里茨马](https://zh.wikipedia.org/wiki/大卫·里茨马 "wikilink")**（，曾执行、以及任务），任务专家

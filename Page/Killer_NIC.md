@@ -47,7 +47,7 @@ NIC網絡卡的後續產品。接口改為使用[PCI-E](https://zh.wikipedia.org
 
 <references/>
 
-## 外部鏈接
+## 外部連結
 
   - [Bigfoot Networks官網](http://www.bigfootnetworks.com/)
   - [革命还是炒作？280美元天价Killer网卡详评](https://web.archive.org/web/20061128024224/http://hardware.mydrivers.com/pages/200611241452_85930.htm)

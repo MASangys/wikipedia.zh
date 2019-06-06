@@ -7,7 +7,7 @@
 Trax因此誕生。
 
 Avex Trax的首位簽約藝人是樂團[TRF](../Page/TRF.md "wikilink")，由於他們發展成功，使Avex
-Trax搖身一變成為藝人的收容所，其中包括一些與舊東家結束合約的藝人（例：[安室奈美惠](../Page/安室奈美惠.md "wikilink")）、希望更換唱片公司的藝人（例：[Gackt](https://zh.wikipedia.org/wiki/Gackt "wikilink")）、以及被舊東家棄用的藝人（例：[濱崎步](../Page/濱崎步.md "wikilink")）。
+Trax搖身一變成為藝人的收容所，其中包括一些與舊東家結束合約的藝人（例：[安室奈美惠](../Page/安室奈美惠.md "wikilink")、[濱崎步](../Page/濱崎步.md "wikilink")）、希望更換唱片公司的藝人（例：[Gackt](https://zh.wikipedia.org/wiki/Gackt "wikilink")）。
 
 ## 概略
 

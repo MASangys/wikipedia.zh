@@ -68,13 +68,14 @@ Dash
     8–102，编号ZK-NEY）由[奧克蘭飛往](../Page/奧克蘭機場.md "wikilink")[北帕莫斯顿](https://zh.wikipedia.org/wiki/北帕莫斯顿 "wikilink")，在惡劣天氣中降落時墜毀於塔拉魯瓦嶺以西（北帕莫斯頓機場以東16公里處），导致4人死亡。\[10\]
   - 2000年2月22日，[中航](https://zh.wikipedia.org/wiki/中国民航 "wikilink")[浙江航空公司一架Dash](../Page/浙江航空.md "wikilink")
     8担当杭州飞往温州的F65576次航班在[笕桥机场起飞](https://zh.wikipedia.org/wiki/笕桥机场 "wikilink")15分钟、爬升至3300米后左侧发动机内部滑油泄漏，引起发动机失效自动停车。飞机随后紧急返回笕桥机场并安全降落\[11\]\[12\]。
-  - 2009年2月12日，[大陆航空快运3407号班机](https://zh.wikipedia.org/wiki/科爾根航空3407號班機 "wikilink")（编号为N200WQ的Q400）由纽瓦克飞往布法罗，在降落前失速坠毁，导致机上49人及地面1人遇难。\[13\]\[14\]\[15\]\[16\]
+  - 2009年2月12日，[大陸連接航空3407號班機](../Page/大陸連接航空3407號班機空難.md "wikilink")（编号为N200WQ的Q400）由纽瓦克飞往布法罗，在降落前失速坠毁，导致机上49人及地面1人遇难。\[13\]\[14\]\[15\]\[16\]
   - 2018年2月17日，[加拿大航空快运8585号班机事故中](https://zh.wikipedia.org/wiki/加拿大航空快运8585号班机事故 "wikilink")，一架隶属于加拿大航空快运的庞巴迪Dash
     8 Q400在萨斯卡通起飞后引擎突然起火，最终紧急返回萨斯卡通并成功迫降，机上人员无一伤亡\[17\]。
   - 2018年3月12日，一架载有71人的[美國-孟加拉航空211號班機在](https://zh.wikipedia.org/wiki/美國-孟加拉航空211號班機空難 "wikilink")[加德满都](https://zh.wikipedia.org/wiki/加德满都 "wikilink")[特里布萬國際機場冲出跑道并迅速爆炸起火](https://zh.wikipedia.org/wiki/特里布萬國際機場 "wikilink")，49人遇难。\[18\]
   - 2018年8月10日，一名（Horizon
     Air）的地勤人員擅自自[西雅圖機場開走一架Dash](https://zh.wikipedia.org/wiki/西雅圖機場 "wikilink")-8-Q400客機，逼迫機場航管人員暫停整座機場的飛機起降。[北美空防司令部](../Page/北美空防司令部.md "wikilink")（NORAD）派出兩架[F-15鷹式戰鬥機升空追查](../Page/F-15鷹式戰鬥機.md "wikilink")，客機在進行了一些類似[特技飛行般的動作之後墜毀於西雅圖機場南方約](https://zh.wikipedia.org/wiki/特技飛行 "wikilink")40英里的（Ketron
     Island, WA）上之樹林中。29歲飛機師死亡\[19\]。
+  - 2019年5月8日，一架编号为S2-AGO的Q400在执行[孟加拉航空60号班机于](https://zh.wikipedia.org/wiki/孟加拉航空60号班机事故 "wikilink")[沙阿贾拉勒国际机场降落时冲出跑道](../Page/沙阿贾拉勒国际机场.md "wikilink")，机身断为三截。机上全部33人全部生还，但均有受伤。
 
 ### 起落架故障
 
@@ -102,8 +103,7 @@ Dash
 [Category:支线客机](https://zh.wikipedia.org/wiki/Category:支线客机 "wikilink")
 [Category:加拿大航空器](https://zh.wikipedia.org/wiki/Category:加拿大航空器 "wikilink")
 
-1.  [商用飞机系列介绍 - 庞巴迪
-    (中国)的官方网页](http://cn.bombardier.com/cn/products_ba_CommercialAircraft.htm)
+1.
 
 2.  [冲八-400型飞机失事事故调查 -
     中国民用航空局](http://www.caac.gov.cn/dev/ICAO/GZDT/201005/t20100526_32711.html)

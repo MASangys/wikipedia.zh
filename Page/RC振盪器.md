@@ -26,10 +26,5 @@
 \=== 非正弦波振盪器 === 有不少RC振盪器輸出的訊號不是弦波，許多非正弦波RC振盪器只使用一組RC電路。 如：
 [複振器](../Page/複振器.md "wikilink")
 [555振盪電路](https://zh.wikipedia.org/wiki/555振盪電路 "wikilink")
-[da:Elektronisk
-oscillator](https://zh.wikipedia.org/wiki/da:Elektronisk_oscillator "wikilink")
-[de:Oszillatorschaltung](https://zh.wikipedia.org/wiki/de:Oszillatorschaltung "wikilink")
-[pt:Oscilador
-electrónico](https://zh.wikipedia.org/wiki/pt:Oscilador_electrónico "wikilink")
 
 [Category:振荡器](https://zh.wikipedia.org/wiki/Category:振荡器 "wikilink")

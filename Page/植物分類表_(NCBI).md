@@ -327,7 +327,7 @@ NCBI是[美国国家生物技术信息中心](../Page/美国国家生物技术�
       - [卷柏目](https://zh.wikipedia.org/wiki/卷柏目 "wikilink")（Selaginellales）
           - [卷柏科](https://zh.wikipedia.org/wiki/卷柏科 "wikilink")（Selaginellaceae）
 
-## [有節植物門](https://zh.wikipedia.org/wiki/有節植物門 "wikilink")(Equisetophyta)
+## [節蕨植物門](https://zh.wikipedia.org/wiki/節蕨植物門 "wikilink")(Equisetophyta)
 
 ### [楔葉綱](https://zh.wikipedia.org/wiki/楔葉綱 "wikilink")(Sphenopsida)
 

@@ -44,11 +44,12 @@ UH-1直升機大量装备美军，在越南战争中成为美军不可或缺的�
   - **UH-1H**：UH-1D後的改進版本，裝有XT-53L13发动机（最大功率1029千瓦），采用俗称“跷跷板”式的主旋翼，1968年首批UH-1H开始交付美军，共交付了5435架。
       - **CUH-1H**：[加拿大軍隊對UH](../Page/加拿大軍隊.md "wikilink")-1H通用直升機命名為CUH-1H，後來又改為**CH-118**
         \[1\]。
-      - **EH-1H**：二十二架加裝AN/ARQ-33（四架）及ARQ-33A無線電裝置及具HF/VHF截聽、VHF干擾能力的版本，在1983年[急怒行動時被](https://zh.wikipedia.org/wiki/急怒行動 "wikilink")[美國陸軍第82空降師及](https://zh.wikipedia.org/wiki/美國陸軍第82空降師 "wikilink")[第2裝甲師採用](https://zh.wikipedia.org/wiki/美軍第2裝甲師 "wikilink")，後被EH-60A取代。
+      - **EH-1H**：二十二架加裝AN/ARQ-33（4架）及ARQ-33A無線電裝置及具HF/VHF截聽、VHF干擾能力的版本，在1983年[急怒行動時被](https://zh.wikipedia.org/wiki/急怒行動 "wikilink")[美國陸軍第82空降師及](https://zh.wikipedia.org/wiki/美國陸軍第82空降師 "wikilink")[第2裝甲師採用](https://zh.wikipedia.org/wiki/美軍第2裝甲師 "wikilink")，後被EH-60A取代。
       - **HH-1H**：UH-1H的醫療運輸（MEDEVAC）直升機版本，美國空軍的救援任務版本更裝有吊索。
       - **JUH-1H**：五架加裝SOTAS戰場監視系統（假想敵部隊）的UH-1H，外型故意模仿俄羅斯的[Mi-24](https://zh.wikipedia.org/wiki/Mi-24 "wikilink")。
       - **TH-1H**：美國空軍以UH-1H運兵直升機改裝，用於基本訓練用的教練機版本。
-  - **UH-1J**：由[日本](../Page/日本.md "wikilink")[富士重工業合法生產的UH](https://zh.wikipedia.org/wiki/富士重工業 "wikilink")-1H改進版，日本命名為UH-1J。
+  - **UH-1J**：由[日本](../Page/日本.md "wikilink")[富士重工業授權生產的UH](https://zh.wikipedia.org/wiki/富士重工業 "wikilink")-1H改良版，原名「UH-1改」，1989至2007年間量產，總計產製130架，每架單價12億日圓。UH-1J換用了和AH-1S相同的T53-K-703渦輪軸發動機（輸出功率1,800匹軸馬力／1342
+    kW），飛機零件80%以日本國產品製造，駕駛儀表板更換可被[夜視鏡觀看](../Page/夜視鏡.md "wikilink")，使J型具備有限度夜間操縱能力。民用型稱為貝爾205B。
   - **HH-1K**：以UH-1B发展的[美國海軍的救援任務版本](../Page/美國海軍.md "wikilink")。1970年首批交付美国海军，共交付了27架。
   - **TH-1L**：美國海軍以HH-1K改裝成教練機的版本。
       - **UH-1L**：TH-1L的通用直升機版本。

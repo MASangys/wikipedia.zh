@@ -163,7 +163,7 @@ Windows
 
 内核模式由虚拟机管理器（VMM）、Installable File
 System（[IFSHLP](https://zh.wikipedia.org/wiki/IFSHLP "wikilink")）及配置管理器所组成。在Windows
-Me及之后的版本中，又加入了[WDM驱动管理器](https://zh.wikipedia.org/wiki/WDM "wikilink")（NTKERN）。身为32位操作系统，Windows
+98及之后的版本中，又加入了[WDM驱动管理器](https://zh.wikipedia.org/wiki/WDM "wikilink")（NTKERN）。身为32位操作系统，Windows
 9x中的每一个进程都有4GB的虚拟内存空间：前2GB给内核而后2GB给应用程序。
 
 ### 注册表

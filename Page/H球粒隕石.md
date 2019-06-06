@@ -30,8 +30,6 @@ H球粒隕石中最豐富的礦物為[古銅輝石](https://zh.wikipedia.org/wik
 
   -
   -
-[fi:H-kondriitti](https://zh.wikipedia.org/wiki/fi:H-kondriitti "wikilink")
-
 [Category:陨石](https://zh.wikipedia.org/wiki/Category:陨石 "wikilink")
 [Category:隕石類型](https://zh.wikipedia.org/wiki/Category:隕石類型 "wikilink")
 

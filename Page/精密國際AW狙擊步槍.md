@@ -297,7 +297,7 @@ AI公司底盘系统）可把北美流行的各种[雷明登700步枪更换到AW
   - 2013年—《[-{zh-hans:战地4;zh-hant:戰地風雲4;}-](../Page/戰地風雲4.md "wikilink")》（Battlefield
     4）：[资料片](https://zh.wikipedia.org/wiki/资料片 "wikilink")「中國崛起」（China
     Rising）武器之一。型號為AWM-F，命名為「L115」（中文版則命名為「L115狙擊步槍」），使用泥色槍身，5+1發彈匣。聯機模式時於完成任務「一個就夠」以後才能解鎖，被歸類為[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")，被偵察兵所使用。
-  - 2013-2018年—《[-{zh-hans:反恐精英; zh-hant:絕對武力;}-Online
+  - 2013年—《[-{zh-hans:反恐精英; zh-hant:絕對武力;}-Online
     2](https://zh.wikipedia.org/wiki/絕對武力Online_2 "wikilink")》：先後推出正式的AWP和AWM，其外觀可從槍管、槍身長度（AWP較短；AWM較長）、腳架（AWP是向槍身方向摺合；AWM就向槍管方向摺合）。但遊戲內並沒有詳細的彈藥資料。兩槍可透過合成和開啟武器箱獲得不同等級（C-SS+）的外觀，也不因為外觀而在競技模式（PvP）有特別數值加乘，也只限於在非競技模式（PvE）有數值加乘，特殊攻擊只限特定PvP模式在局中獲分數解鎖使用，而局中敵對方也有相應能抗衡的解鎖能力，完局後重置。
   - 2015年—《[-{zh-hans:战地：硬仗;
     zh-hant:戰地風雲：強硬路線;}-](https://zh.wikipedia.org/wiki/戰地風雲：強硬派系 "wikilink")》（Battlefield
@@ -314,9 +314,9 @@ AI公司底盘系统）可把北美流行的各种[雷明登700步枪更换到AW
         M4S](../Page/Aimpoint_Comp_M4紅點鏡.md "wikilink")、[M145](../Page/C79光學瞄準鏡.md "wikilink")（放大3.4倍）、PO（放大3.5倍）
         、[ACOG](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（放大4倍）、[PSO-1](../Page/PSO-1光學瞄準鏡.md "wikilink")（放大4倍）、[IRNV](https://zh.wikipedia.org/wiki/夜視儀 "wikilink")（放大1倍）、[FLIR](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")（放大2倍）、TA
         648（放大6倍）、PKS-07（放大7倍）、步槍瞄準鏡（放大8倍）、獵人（放大14倍））及附加配件（傾斜式[機械瞄具](../Page/機械瞄具.md "wikilink")、傾斜式紅點鏡、延長彈匣（增至10+1發）、[電筒](https://zh.wikipedia.org/wiki/電筒 "wikilink")、[戰術燈](../Page/戰術燈.md "wikilink")、[激光瞄準器](https://zh.wikipedia.org/wiki/激光指示器 "wikilink")、[直拉式槍機](../Page/手動槍機.md "wikilink")。
-  - 2017年-«[絕地求生](../Page/絕地求生.md "wikilink")»型號:AWM，空投武器，使用[.300麥格農子彈](https://zh.wikipedia.org/wiki/.300麥格農子彈 "wikilink"),可裝備狙擊槍消音器、消焰器、補償器;
-    紅點、全息、二倍、三倍、四倍、六倍、八倍、十五倍瞄準鏡; 狙擊槍快速、擴容以及快速擴容彈夾;狙擊槍托腮版;
-    殺傷力非常高，可一槍爆頭，打身體也僅需兩發;成為與[毛瑟Kar98K齊名的狙擊槍](https://zh.wikipedia.org/wiki/毛瑟Kar98K "wikilink")。
+  - 2017年—《[絕地求生](../Page/絕地求生.md "wikilink")》：型號為AWM，空投武器，使用[.300麥格農子彈](https://zh.wikipedia.org/wiki/.300麥格農子彈 "wikilink")，可裝備狙擊槍消音器、消焰器、補償器;
+    紅點、全息、二倍、三倍、四倍、六倍、八倍、十五倍瞄準鏡;
+    狙擊槍快速、擴容以及快速擴容彈匣；狙擊槍托腮版。殺傷力非常高，可一槍爆頭，打身體也僅需兩發，成為與[毛瑟Kar98K齊名的狙擊槍](https://zh.wikipedia.org/wiki/毛瑟Kar98K "wikilink")。
   - 2017年—《[-{zh-hans:幽灵行动：荒野;
     zh-hant:火線獵殺：野境;}-](../Page/火線獵殺：野境.md "wikilink")》：
     型號為L115A3

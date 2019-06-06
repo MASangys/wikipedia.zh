@@ -37,7 +37,9 @@ smelter)加工，而武器匠(weaponsmith)可以把它打造成武器。运到�
 
 ## 外部链接
 
-  - [The Settlers III](http://www.settlers3.com) 官方网站
+  - [The Settlers
+    III](https://www.webcitation.org/67OTLWUqp?url=http://www.settlers3.com/)
+    官方网站
 
 [Category:1998年电子游戏](https://zh.wikipedia.org/wiki/Category:1998年电子游戏 "wikilink")
 [Category:即时战略游戏](https://zh.wikipedia.org/wiki/Category:即时战略游戏 "wikilink")

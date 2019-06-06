@@ -44,7 +44,7 @@ Hangame從2005年開始推出廣告。
 
   - [K-Tai Hangame](http://k-tai.hangame.co.jp/index.php)（手提電話用）
 
-  - [NHN](http://www.nhncorp.com/)
+  - [NHN](https://web.archive.org/web/20100208134118/http://www.nhncorp.com/)
 
   - [NHN Japan](http://www.nhncorp.jp/)
 

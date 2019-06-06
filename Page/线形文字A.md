@@ -47,3 +47,4 @@ Younger维护的网站\[[http://www.people.ku.edu/\~jyounger/LinearA/\]保留了
 [Category:古希腊](https://zh.wikipedia.org/wiki/Category:古希腊 "wikilink")
 [Category:未解读文字](https://zh.wikipedia.org/wiki/Category:未解读文字 "wikilink")
 [Category:青銅時代文字](https://zh.wikipedia.org/wiki/Category:青銅時代文字 "wikilink")
+[Category:已廢棄的書寫系統](https://zh.wikipedia.org/wiki/Category:已廢棄的書寫系統 "wikilink")

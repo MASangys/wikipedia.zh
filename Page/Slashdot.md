@@ -6,7 +6,9 @@ Slashdot](https://zh.wikipedia.org/wiki/Ask_Slashdot "wikilink")。
 matters."
 [Slashdot效应是指當成众多的Slashdot讀者访问某一在Slashdot公佈的網址時](../Page/Slashdot效应.md "wikilink")，該網址服务器不堪重负而癱瘓的情況。
 
-"Slashdot"這個名字的字面含义是"/."——这也是该网站的标志，创始人有意选择了这个容易让人和[URL混淆的名称](../Page/统一资源定位符.md "wikilink")，因为http://slashdot.org/读起来就会成为：h-t-t-p-colon-slash-slash-slash-dot-dot-org。\[1\]
+"Slashdot"這個名字的字面含义是"/."——这也是该网站的标志，创始人有意选择了这个容易让人和[URL混淆的名称](../Page/统一资源定位符.md "wikilink")，因为http://slashdot.org/读起来就会成为：h-t-t-p-colon-slash-slash-slash-dot-dot-org。\<ref\>[Slashdot
+FAQ: What does the name "Slashdot"
+mean?](http://slashdot.org/faq/slashmeta.shtml#sm150)</ref>
 
 ## 管理
 
@@ -25,7 +27,7 @@ Group所有](https://zh.wikipedia.org/wiki/Open_Source_Technology_Group "wikilin
 Slashdot的核心讀者群包括[Linux與](../Page/Linux.md "wikilink")[開放原始碼運動的狂熱份子](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")，顯然也包含支持Windows的讀者群。在一次Slashdot的投票中顯示有幾乎半數投票者使用[Microsoft
 Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，三分之一使用Linux,
 [Mac OS
-X使用者則大概佔了](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")10%左右。但最有意思的可能在於一定數目的跨平台使用者，也就是不只使用一種上述提到之作業系統的使用者。\[2\]
+X使用者則大概佔了](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")10%左右。但最有意思的可能在於一定數目的跨平台使用者，也就是不只使用一種上述提到之作業系統的使用者。\[1\]
 
 如同大多數網際網路上的相似活動，Slashdot上的投票亦著名地不可信賴。甚至蒐集來的瀏覽器類別資訊都較投票可靠，此結果顯示Microsoft的客戶遠小於一般網際網路上的量，而Linux與Mac使用者則高出許多。然而，很多Slashdot的訊息都與[Microsoft
 Windows之遊戲](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、應用程式或是安全臭蟲有關。關於Slashdot為Linux導向的臆測則因著名的[比尔·盖茨](../Page/比尔·盖茨.md "wikilink")“[博格](https://zh.wikipedia.org/wiki/博格人 "wikilink")”圖示不脛而走。此外，在判斷Slashdot使用者作業系統結果傾斜方面，一個事實是很多Slashdot使用者在日常工作中接觸此網站，而在只有在家裡他們才使用Linux。
@@ -59,7 +61,5 @@ exploration projects）的NASA工程師。
 [Category:網站](https://zh.wikipedia.org/wiki/Category:網站 "wikilink")
 [Category:1997年建立的网站](https://zh.wikipedia.org/wiki/Category:1997年建立的网站 "wikilink")
 
-1.  [Slashdot FAQ: What does the name "Slashdot"
-    mean?](http://slashdot.org/faq/slashmeta.shtml#sm150)
-2.  [Slashdot Poll: My Main Computer
+1.  [Slashdot Poll: My Main Computer
     Runs...](http://slashdot.org/pollBooth.pl?qid=848&aid=-1) (2002)

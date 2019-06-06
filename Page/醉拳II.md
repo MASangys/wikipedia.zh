@@ -31,11 +31,6 @@
 
   - [成龍](../Page/成龍.md "wikilink")《醉拳》
 
-## 相關
-
-  - [醉拳](../Page/醉拳.md "wikilink")
-  - [醉拳III](../Page/醉拳III.md "wikilink")
-
 ## 参考资料
 
 ## 外部連結

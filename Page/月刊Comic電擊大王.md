@@ -1,4 +1,4 @@
-《**月刊Comic電擊大王**》是[日本](../Page/日本.md "wikilink")[MediaWorks公司所發行的一本少年取向的](../Page/MediaWorks.md "wikilink")[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")。
+是[日本](../Page/日本.md "wikilink")[MediaWorks公司所發行的一本少年取向的](../Page/MediaWorks.md "wikilink")[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")。
 
 原先是以[萬代所發行的漫畫雑誌](../Page/萬代.md "wikilink")《Cyber Comics》作為開端，接著成為《Media
 Comics

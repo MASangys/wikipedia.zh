@@ -3,7 +3,7 @@
 I.G便是在他們兩人共同出資之下而創立，創立初期名稱為**IG龍之子**（），是從[龍之子製作公司分拆出來的](../Page/龍之子製作公司.md "wikilink")。2007年母公司化並改名為「」，由內部另外成立現在的新Production
 I.G，為I.G Port的旗下子公司。
 
-代表作有[攻殼機動隊系列](../Page/攻殼機動隊.md "wikilink")、[PSYCHO-PASS系列](../Page/PSYCHO-PASS.md "wikilink")、[罪惡王冠](../Page/罪惡王冠.md "wikilink")、[影子籃球員](https://zh.wikipedia.org/wiki/影子籃球員 "wikilink")、[排球少年！！](../Page/排球少年！！.md "wikilink")、[進擊的巨人](../Page/進擊的巨人.md "wikilink")（支援製作）、[鑽石王牌](https://zh.wikipedia.org/wiki/鑽石王牌 "wikilink")（共同製作）等。
+代表作有[攻殼機動隊系列](../Page/攻殼機動隊.md "wikilink")、[PSYCHO-PASS系列](../Page/PSYCHO-PASS.md "wikilink")、[罪惡王冠](../Page/罪惡王冠.md "wikilink")、[影子籃球員](https://zh.wikipedia.org/wiki/影子籃球員 "wikilink")（又稱為幻影籃球王或黑子的籃球）、[排球少年！！](../Page/排球少年！！.md "wikilink")、[進擊的巨人](../Page/進擊的巨人.md "wikilink")（支援製作）、[鑽石王牌](../Page/鑽石王牌.md "wikilink")（共同製作）等。
 [PRODUCTION_I.G_STUDIO.jpg](https://zh.wikipedia.org/wiki/File:PRODUCTION_I.G_STUDIO.jpg "fig:PRODUCTION_I.G_STUDIO.jpg")
 
 ## 沿革
@@ -178,7 +178,7 @@ I.G，為I.G Port的旗下子公司。
   - [新網球王子](../Page/網球王子_\(動畫\).md "wikilink")（）（與共同製作，2012年）
   - [精靈寶可夢 THE
     ORIGIN](../Page/精靈寶可夢_THE_ORIGIN.md "wikilink")（）（與[OLM](../Page/OLM.md "wikilink")、XEBEC共同製作，2013年）
-  - [鑽石王牌系列](https://zh.wikipedia.org/wiki/鑽石王牌 "wikilink")（）（與[MADHOUSE共同製作](../Page/MADHOUSE.md "wikilink")）
+  - [鑽石王牌系列](../Page/鑽石王牌.md "wikilink")（）（與[MADHOUSE共同製作](../Page/MADHOUSE.md "wikilink")）
       - 第1期（2013年－2015年）
       - 第2期（2015年－2016年）
   - 皮卡蟲（）（與OLM共同製作，2014年）

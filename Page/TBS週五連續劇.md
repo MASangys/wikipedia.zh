@@ -1,4 +1,4 @@
-**週五連續劇**（），簡稱「Kindora」（），是[日本](../Page/日本.md "wikilink")[TBS電視台从](../Page/TBS電視台.md "wikilink")1972年起每逢星期五22:00起播放的[電視連續劇時段](../Page/电视剧.md "wikilink")。推出作品多以年輕題材為主，並以較受矚目或受歡迎的年輕[演員來擔綱演出](https://zh.wikipedia.org/wiki/演員 "wikilink")，是TBS重要的電視劇節目時段。
+**週五連續劇**（），簡稱「Kindora」（），是[日本](../Page/日本.md "wikilink")[TBS電視台从](../Page/TBS電視台.md "wikilink")1972年起每逢星期五22:00起播放的[電視連續劇時段](../Page/电视剧.md "wikilink")。推出作品多以年輕題材為主，並以較受矚目或受歡迎的年輕[演員來擔綱演出](../Page/演員.md "wikilink")，是TBS重要的電視劇節目時段。
 
 隨著電視劇的低迷化，加上抵不過新聞報導強化的潮流，1987年TBS電視台一度讓新聞節目進駐原週五連續劇之時段，一直到1989年才以《[比雨更溫柔](https://zh.wikipedia.org/wiki/比雨更溫柔 "wikilink")》恢復週五連續劇的播出。
 
@@ -646,6 +646,17 @@
     原作：[朱戸青](https://zh.wikipedia.org/wiki/朱戸青 "wikilink")《破案神手》
     主演：[山下智久](../Page/山下智久.md "wikilink")
     劇本：[吉田康弘](https://zh.wikipedia.org/wiki/吉田康弘 "wikilink")
+
+<!-- end list -->
+
+  - 7月－9月：**[凪的新生活](https://zh.wikipedia.org/wiki/凪的新生活 "wikilink")**（）
+
+<!-- end list -->
+
+  -
+    原作：《凪的新生活》
+    主演：[黑木華](../Page/黑木華.md "wikilink")
+    劇本：[大島里美](https://zh.wikipedia.org/wiki/大島里美 "wikilink")
 
 ## 放送局
 

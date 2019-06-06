@@ -1,6 +1,4 @@
-[KOS-MOS_XS1.jpg](https://zh.wikipedia.org/wiki/File:KOS-MOS_XS1.jpg "fig:KOS-MOS_XS1.jpg")
-
-**KOS-MOS**是[PS2遊戲系列](https://zh.wikipedia.org/wiki/PS2 "wikilink")[Xenosaga中的一個主要角色](https://zh.wikipedia.org/wiki/Xenosaga "wikilink")。
+是[PS2遊戲系列](https://zh.wikipedia.org/wiki/PS2 "wikilink")[異域傳說系列中的一個主要角色](../Page/異域傳說系列.md "wikilink")。
 
 ## 基本資訊
 

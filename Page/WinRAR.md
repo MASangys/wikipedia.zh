@@ -2,7 +2,7 @@
 
 ## 功能
 
-  - 完全支援[RAR與](../Page/RAR.md "wikilink")[ZIP壓縮檔案](https://zh.wikipedia.org/wiki/ZIP_\(檔案格式\) "wikilink")，並且能解壓縮[CAB](../Page/CAB.md "wikilink")、[ARJ](https://zh.wikipedia.org/wiki/ARJ "wikilink")、[LZH](https://zh.wikipedia.org/wiki/LZH "wikilink")、[TAR](https://zh.wikipedia.org/wiki/tar_\(檔案格式\) "wikilink")，[GZ](../Page/Gzip.md "wikilink")、[ACE](../Page/ACE_\(文件格式\).md "wikilink")、[UUE](https://zh.wikipedia.org/wiki/uuencode "wikilink")、[BZ2](https://zh.wikipedia.org/wiki/bzip2 "wikilink")、[JAR](https://zh.wikipedia.org/wiki/Jar_\(檔案格式\) "wikilink")，[ISO](../Page/ISO_9660.md "wikilink")、[7z](../Page/7z.md "wikilink")
+  - 完全支援[RAR與](../Page/RAR.md "wikilink")[ZIP壓縮檔案](https://zh.wikipedia.org/wiki/ZIP_\(檔案格式\) "wikilink")，並且能解壓縮[CAB](../Page/CAB.md "wikilink")、[ARJ](https://zh.wikipedia.org/wiki/ARJ "wikilink")、[LZH](../Page/LHA_\(檔案格式\).md "wikilink")、[TAR](https://zh.wikipedia.org/wiki/tar_\(檔案格式\) "wikilink")，[GZ](../Page/Gzip.md "wikilink")、[ACE](../Page/ACE_\(文件格式\).md "wikilink")、[UUE](https://zh.wikipedia.org/wiki/uuencode "wikilink")、[BZ2](https://zh.wikipedia.org/wiki/bzip2 "wikilink")、[JAR](https://zh.wikipedia.org/wiki/Jar_\(檔案格式\) "wikilink")，[ISO](../Page/ISO_9660.md "wikilink")、[7z](../Page/7z.md "wikilink")
     和 [ZIP壓縮檔案](https://zh.wikipedia.org/wiki/ZIP_\(檔案格式\) "wikilink")。
   - 可使用[AES进行](../Page/高级加密标准.md "wikilink")128位[加密](https://zh.wikipedia.org/wiki/加密 "wikilink")。
   - 文件最高支持8,589,000,000TB的大小。
@@ -18,13 +18,13 @@
   - 从3.50开始，WinRAR支持[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")
     64位系统。
   - 從3.60開始，WinRAR支援多[线程壓縮](../Page/线程.md "wikilink")／解壓縮
-  - 從4.01開始，新增支援[TAR壓縮檔中以二進位型式記錄的檔案大小](https://zh.wikipedia.org/wiki/TAR "wikilink")。有些[TAR壓縮檔處理大於](https://zh.wikipedia.org/wiki/TAR "wikilink")
+  - 從4.01開始，新增支援[TAR壓縮檔中以二進位型式記錄的檔案大小](https://zh.wikipedia.org/wiki/Tar_\(计算机科学\) "wikilink")。有些[TAR壓縮檔處理大於](https://zh.wikipedia.org/wiki/Tar_\(计算机科学\) "wikilink")
     8 GB 檔案時改用二進位大小格式。
   - 从5.00 beta 1开始，加入了新的RAR 5.0归档格式，旧版本的WinRAR无法解压缩RAR 5.0的文件
   - 從5.10開始，加入[7z分割檔解壓縮支援](../Page/7z.md "wikilink")，如 (.7z.001,
     .7z.002, ...)。
   - 從5.11開始，WinRAR 能解壓縮資料夾含有 pax
-    延伸檔頭的[TAR壓縮檔](https://zh.wikipedia.org/wiki/TAR "wikilink")、對[7-Zip壓縮檔支援](../Page/7-Zip.md "wikilink")
+    延伸檔頭的[TAR壓縮檔](https://zh.wikipedia.org/wiki/Tar_\(计算机科学\) "wikilink")、對[7-Zip壓縮檔支援](../Page/7-Zip.md "wikilink")
     \[保留毀損的檔案\] 解壓縮選項。
   - 從5.20 beta 1開始，\[保留毀損檔案\] 解壓縮選項支援 bzip2 壓縮檔、可以使用 WinRAR.ini 檔案來儲存
     WinRAR 設定，而不使用機碼，方便安裝 WinRAR 在移動式媒體中。

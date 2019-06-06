@@ -1,6 +1,6 @@
 **ICE-3列车**（）是[德国铁路](../Page/德国铁路.md "wikilink")[ICE](https://zh.wikipedia.org/wiki/ICE列车 "wikilink")[高速列车家族中的一个](https://zh.wikipedia.org/wiki/高速列车 "wikilink")[电力动车组类别](https://zh.wikipedia.org/wiki/电力动车组 "wikilink")。伴随着最高速度可达330公里/小时的适航许可证，它们成为[德国运行速度最快的](../Page/德国.md "wikilink")[动车组](https://zh.wikipedia.org/wiki/动车组 "wikilink")。在常规运营中，列车于德国境内的定期服务可达300公里/小时，于[法国境内则为](https://zh.wikipedia.org/wiki/法国 "wikilink")320公里/小时。每列全长200.8米的动车组共由八节[车厢构成](https://zh.wikipedia.org/wiki/车厢 "wikilink")，自2000年7月起投入载客运营。它们代表着ICE领域的技术飞跃，并已获得多项技术创新。
 
-在全部67组ICE-3列车中，有50组为单电压制式的[403型](../Page/德国铁路403型电力动车组.md "wikilink")，它们可在德国国内及邻近的[巴塞尔巴登车站之间运行](../Page/巴塞尔巴登车站.md "wikilink")；17组（包括[荷兰铁路持有](https://zh.wikipedia.org/wiki/荷兰铁路 "wikilink")4组）为兼容多电压制式的[406型](../Page/德国铁路406型电力动车组.md "wikilink")（ICE-3M），可以运行前往[荷兰及](../Page/荷兰.md "wikilink")[比利时](../Page/比利时.md "wikilink")；6组406型又在2007年改造为406F型（ICE-3MF），以满足法国的跨境运输需求。此外，德国铁路在2008年订购的[407型动车组](../Page/德国铁路407型电力动车组.md "wikilink")（Velaro
+在全部67组ICE-3列车中，有50组为单电压的[403型](../Page/德国铁路403型电力动车组.md "wikilink")，它们可在德国国内及邻近的[巴塞尔巴登车站之间运行](../Page/巴塞尔巴登车站.md "wikilink")；17组（包括[荷兰铁路持有](https://zh.wikipedia.org/wiki/荷兰铁路 "wikilink")4组）为兼容多电压的[406型](../Page/德国铁路406型电力动车组.md "wikilink")（ICE-3M），可以前往[荷兰及](../Page/荷兰.md "wikilink")[比利时](../Page/比利时.md "wikilink")；6组406型又在2007年改造为406F型（ICE-3MF），以满足法国的跨境运输需求。此外，德国铁路在2008年订购的[407型动车组](../Page/德国铁路407型电力动车组.md "wikilink")（Velaro
 D）也作为“新ICE-3列车”而被纳入ICE-3类别\[1\]。所有ICE-3列车在企业内部都统称为**ICE-W**（W代表[涡流制动](../Page/涡流制动.md "wikilink")）。
 
 ## 历史

@@ -7146,6 +7146,7 @@
 <th><p>中文譯名</p></th>
 <th><p>日文原名</p></th>
 <th><p>說明</p></th>
+<th><p>備註</p></th>
 </tr>
 </thead>
 <tbody>
@@ -7153,9 +7154,11 @@
 <td><p>棘手轉移棒</p></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>害怕製作機</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -7163,9 +7166,11 @@
 <td><p>不能恨的藥</p></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>日光苔</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -7173,14 +7178,17 @@
 <td><p>隨意日曆</p></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>搬運用行李</p></td>
 <td></td>
 <td><p>《<a href="../Page/大雄與白金迷宮.md" title="wikilink">大雄與白金迷宮</a>》中用到，供飯店服務生搬運的無意義行李。</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>人形自動化音波</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -7188,9 +7196,11 @@
 <td><p>操縱人的機器</p></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>人體照相機</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -7198,9 +7208,11 @@
 <td><p>人力火車頭</p></td>
 <td></td>
 <td><p>外表像一個蒸汽火車上的煙囪，只要戴上並吃下專用的煤炭和水之後便能發揮像火車般的馬力，速度如同蒸氣火車，另備有乘客專用的火車繩索。而在水田版動畫中亦有出現速度更快、能跑出高速鐵路速度的線性馬達版本。</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>人類磁鐵帶</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -7208,19 +7220,23 @@
 <td><p>人類製造機</p></td>
 <td></td>
 <td><p>只要把適量人體所含的元素放進機內，該機便會自動製造出一個嬰兒來。然而由於設計出現問題，所造出來的嬰兒擁有超能力，且會自行使用該機大量製造出超能嬰兒。最後未來世界要出動軍隊才能把那些超能嬰兒全部消滅。</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>人體切斷機</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>人類撲滿製造機</p></td>
 <td></td>
-<td></td>
+<td><p>外型是如同陶笛一樣的光線發射器，對著某人射出光線後對方就會變成存錢筒，只有一分鐘的時間可以把錢放入，設定好密碼後除非當事人說出正確的密碼否則拿不出零錢</p></td>
+<td><p>大山版動畫與水田版動畫的密碼設定與大雄的媽媽如何在無意之間解開密碼的情節有極大的不同。</p></td>
 </tr>
 <tr class="odd">
 <td><p>人的書套</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -7228,14 +7244,17 @@
 <td><p>人類程式痣</p></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>人類用定時開關</p></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>遙控人</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -7243,9 +7262,11 @@
 <td><p>遙控人</p></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>忍者修行組合</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>

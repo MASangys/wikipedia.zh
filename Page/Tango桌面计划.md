@@ -10,7 +10,7 @@ Specification](http://freedesktop.org/wiki/Standards/icon-theme-spec)及積極�
 Icon Naming
 Specification](http://standards.freedesktop.org/icon-naming-spec/icon-naming-spec-latest.html)來定義最常見圖示的名稱與其使用象徵。
 
-許多自由軟體計劃，如[GIMP](../Page/GIMP.md "wikilink")、[Scribus與](../Page/Scribus.md "wikilink")[GNOME已開始在它們的圖示上遵循](../Page/GNOME.md "wikilink")[Tango樣式的指示](http://tango.freedesktop.org/Tango_Icon_Theme_Guidelines)。
+許多自由軟體計劃，如[GIMP](../Page/GIMP.md "wikilink")、[Scribus與](../Page/Scribus.md "wikilink")[GNOME已開始在它們的圖示上遵循](../Page/GNOME.md "wikilink")[Tango樣式的指示](https://web.archive.org/web/20160202102503/http://tango.freedesktop.org/Tango_Icon_Theme_Guidelines)。
 
 ## 外部連結
 

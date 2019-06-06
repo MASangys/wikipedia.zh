@@ -557,4 +557,4 @@ Hunter IV的1.5补丁中也可操作U型潜艇。
 
 [Category:德国海军](https://zh.wikipedia.org/wiki/Category:德国海军 "wikilink")
 [Category:德國潛艦](https://zh.wikipedia.org/wiki/Category:德國潛艦 "wikilink")
-[Category:傳統動力潛艦](https://zh.wikipedia.org/wiki/Category:傳統動力潛艦 "wikilink")
+[Category:柴電潛艇](https://zh.wikipedia.org/wiki/Category:柴電潛艇 "wikilink")

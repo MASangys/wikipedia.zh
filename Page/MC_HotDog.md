@@ -177,6 +177,28 @@ EP+<a href="../Page/VCD.md" title="wikilink">VCD</a></p></td>
 專輯</p></td>
 <td style="text-align: left;"></td>
 </tr>
+<tr class="even">
+<td style="text-align: left;"><p>《廢物》</p></td>
+<td style="text-align: left;"><ol>
+<li>嘻哈沒有派對</li>
+<li>改變</li>
+<li>讓子彈飛</li>
+<li>流星小夜曲</li>
+<li>失眠是一種病</li>
+<li>厭世吉娃娃</li>
+<li>夢幻照相機</li>
+<li>寂寞の水怪</li>
+<li>怨偶</li>
+<li>再見</li>
+<li>我是魯蛇</li>
+<li>Do You Remember</li>
+<li>嘻哈沒有派對（Trap Metal Version）</li>
+</ol></td>
+<td style="text-align: left;"><p>滾石唱片<br />
+2019年6月5日<br />
+專輯</p></td>
+<td style="text-align: left;"></td>
+</tr>
 </tbody>
 </table>
 
@@ -235,12 +257,14 @@ EP+<a href="../Page/VCD.md" title="wikilink">VCD</a></p></td>
 
 限定組合
 
-| 年份     | 作詞/作曲     | 作品          |
-| ------ | --------- | ----------- |
-| 2019年  | MC HotDog | Hip-hop沒有派對 |
-| 失眠是一種病 |           |             |
-| 改變     |           |             |
-|        |           |             |
+| 年份              | 作詞/作曲     | 作品          |
+| --------------- | --------- | ----------- |
+| 2019年           | MC HotDog | Hip-hop沒有派對 |
+| 失眠是一種病          |           |             |
+| 改變              |           |             |
+| Do You Remember |           |             |
+| 非贏不可？           |           |             |
+|                 |           |             |
 
 [我是唱作人創作單曲](../Page/我是唱作人.md "wikilink")
 

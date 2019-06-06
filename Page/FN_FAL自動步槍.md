@@ -173,10 +173,6 @@ FAL將在後備軍及民防團服役。
 
   - －本土生產。\[5\]
 
-  - －本土生產，命名為**L1A1**，已被[斯泰爾AUG所取代](https://zh.wikipedia.org/wiki/斯泰爾AUG "wikilink")。
-
-  - －已被[斯泰爾AUG所取代](https://zh.wikipedia.org/wiki/斯泰爾AUG "wikilink")。
-
   -
   - \[6\]
 
@@ -184,15 +180,20 @@ FAL將在後備軍及民防團服役。
 
   - \[8\]
 
-  - －已被[FN FNC所取代](../Page/FN_FNC突擊步槍.md "wikilink")。\[9\]
+  - \[9\]
 
+  -
+  -
   - \[10\]
 
   -
-  -
   - \[11\]
 
-  -
+  - —本土生產，命名為“IMBEL M964”。
+
+      - [巴西武裝部隊](https://zh.wikipedia.org/wiki/巴西軍事 "wikilink")
+      - [巴西聯邦警察](https://zh.wikipedia.org/wiki/巴西聯邦警察 "wikilink")
+
   - \[12\]
 
   -
@@ -200,24 +201,22 @@ FAL將在後備軍及民防團服役。
 
   - \[14\]
 
+  -
   - \[15\]
 
-  - －已被[C7所取代](../Page/C7突擊步槍.md "wikilink")。
-
-  -
   - \[16\]
 
   - \[17\]
 
+  -
   - \[18\]
 
-  -
   - \[19\]
 
+  -
+  -
   - \[20\]
 
-  -
-  -
   - \[21\]
 
   - \[22\]
@@ -228,41 +227,35 @@ FAL將在後備軍及民防團服役。
 
   - \[25\]
 
+  -
+  - ：大部份已被[斯泰爾AUG所取代](../Page/斯泰爾AUG突擊步槍.md "wikilink")。
+
   - \[26\]
 
   -
-  - －大部份已被[斯泰爾AUG所取代](https://zh.wikipedia.org/wiki/斯泰爾AUG "wikilink")。
-
   - \[27\]
 
   -
   - \[28\]
 
-  -
-  - －在1950年代初期以**G1**的名義裝備[德國聯邦國防軍](../Page/德國聯邦國防軍.md "wikilink")，後來被[HK
-    G3所取代](https://zh.wikipedia.org/wiki/HK_G3 "wikilink")。部份退役的FAL被轉交給土耳其。
+  - －已退役。
 
   - \[29\]
 
-  - －已退役。
-
   - \[30\]
 
-  - \[31\]
-
-  - －已被[INSAS所取代](https://zh.wikipedia.org/wiki/INSAS突擊步槍 "wikilink")。
-
   - －已退役。
 
   -
-  - －\[32\]已被[斯泰爾AUG所取代](https://zh.wikipedia.org/wiki/斯泰爾AUG "wikilink")，但現在仍有用作[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")。\[33\]
+  - \[31\]
 
-  - －已被[IMI
-    Galil和](https://zh.wikipedia.org/wiki/IMI_Galil "wikilink")[M16所取代](../Page/M16突擊步槍.md "wikilink")。
+      - [愛爾蘭國防軍](../Page/愛爾蘭國防軍.md "wikilink")：目前已普遍被[斯泰爾AUG所取代](../Page/斯泰爾AUG突擊步槍.md "wikilink")，但部份仍用作[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")。\[32\]
 
-  - \[34\]
+  - \[33\]
 
   -
+  - \[34\]
+
   - \[35\]
 
   - \[36\]
@@ -273,115 +266,143 @@ FAL將在後備軍及民防團服役。
 
   - \[39\]
 
-  - －被[斯泰爾AUG所取代](https://zh.wikipedia.org/wiki/斯泰爾AUG "wikilink")。\[40\]
+  - \[40\]
 
-  - \[41\]
+  -
+  - －本土生產。\[41\]
 
-  - －使用[英国仿制的FN](https://zh.wikipedia.org/wiki/英国 "wikilink") FAL (L1A1
-    SLR),之后被[M16及](../Page/M16突擊步槍.md "wikilink")[斯泰爾AUG所取代](https://zh.wikipedia.org/wiki/斯泰爾AUG "wikilink")。\[42\]
+  - \[42\]
 
   - \[43\]
 
-  -
-  - －本土生產。\[44\]
+  - \[44\]
 
   - \[45\]
 
-  - \[46\]
+  -
+  - －本土生產。\[46\]
 
   - \[47\]
 
   - \[48\]
 
-  - －已被[C7所取代](../Page/C7突擊步槍.md "wikilink")。
+  - \[49\]
 
-  - －已被[斯泰爾AUG所取代](https://zh.wikipedia.org/wiki/斯泰爾AUG "wikilink")。
-
-  -
-  - －本土生產。\[49\]
-
-  - \[50\]
+  - —使用[澳洲製造的L](https://zh.wikipedia.org/wiki/澳洲 "wikilink")1A1。\[50\]
 
   - \[51\]
 
   - \[52\]
 
-  - －使用[澳洲製造的L](https://zh.wikipedia.org/wiki/澳洲 "wikilink")1A1。\[53\]
+  -
+  -
+  - \[53\]
 
   - \[54\]
 
+  -
   - \[55\]
 
   -
-  -
   - \[56\]
 
+  -
+  -
+  -
+  - —本土生產，命名為**R1**。
+
+      - [南非國防軍](../Page/南非國防軍.md "wikilink")：目前於前線部隊已普遍的被[R4所取代](../Page/R4突擊步槍.md "wikilink")，但仍有部份被改裝成特等射手步槍繼續服役。
+
+  -
+  -
   - \[57\]
 
-  -
   - \[58\]
 
-  -
   - \[59\]
 
-  -
-  - \- 曾使用L1A1 SLR，現已退役。
-
-  -
-  -
-  - －本土生產，命名為**R1**，現在前線部隊已普遍的被[R4所取代](../Page/R4突擊步槍.md "wikilink")，但仍有部份被改裝成特等射手步槍繼續服役。
-
-  -
-  - －曾使用L1A1 SLR，已被[56式自動步槍所取代](../Page/56式自動步槍.md "wikilink")。
-
-  -
   - \[60\]
 
+  -
   - \[61\]
 
   - \[62\]
 
   - \[63\]
 
-  -
   - \[64\]
 
   - \[65\]
 
   - \[66\]
 
-  - －大部份從西德接收，已被[HK
-    G3所取代](https://zh.wikipedia.org/wiki/HK_G3 "wikilink")，但現在仍有用作訓練用途。
-
   - \[67\]
 
   - \[68\]
 
-  - －本土生產，命名為**L1A1**，已被[SA80所取代](../Page/SA80突擊步槍.md "wikilink")。
-
-  - －根据许可生产。\[69\]
-
-  - \[70\]
-
-  - －正被[AK-103所取代](https://zh.wikipedia.org/wiki/AK-103突擊步槍 "wikilink")。
-
-  - \[71\]
-
-  - \[72\]
-
-  - \[73\]
+  - \[69\]
 
 ### 前使用國
 
-  - [英屬香港](../Page/英屬香港.md "wikilink")－L1A1
-    SLR曾是[駐港英軍](../Page/駐港英軍.md "wikilink")、[皇家香港警察](https://zh.wikipedia.org/wiki/皇家香港警察 "wikilink")、[香港海關及](../Page/香港海關.md "wikilink")[皇家香港軍團的制式步槍](https://zh.wikipedia.org/wiki/皇家香港軍團 "wikilink")。
+  - —本土生產L1A1 SLR。
 
-  - －於1960年代起採用。\[74\]
+      - [澳洲國防軍](https://zh.wikipedia.org/wiki/澳洲國防軍 "wikilink")：目前已被[F88
+        Austeyr所取代](../Page/斯泰爾AUG突擊步槍.md "wikilink")。
+
+  -   - [奥地利聯邦軍](https://zh.wikipedia.org/wiki/奥地利聯邦軍 "wikilink")：目前已被[斯泰爾AUG所取代](../Page/斯泰爾AUG突擊步槍.md "wikilink")。
+
+  -   - ：目前已被[FN FNC所取代](../Page/FN_FNC突擊步槍.md "wikilink")。
+
+  -   - [加拿大軍隊](https://zh.wikipedia.org/wiki/加拿大軍事 "wikilink")：目前已被[C7所取代](../Page/C7突擊步槍.md "wikilink")。
+
+  -   - [德國聯邦國防軍](../Page/德國聯邦國防軍.md "wikilink")：在1950年代初期以**G1**的名義裝備部隊，後來因FN原廠拒絕西德當局在本土授權生產而被[HK
+        G3所取代](../Page/HK_G3自動步槍.md "wikilink")。部份退役的FAL被轉交給土耳其。
+
+  - [英屬香港](../Page/英屬香港.md "wikilink")：採用L1A1 SLR。
+
+      - [駐港英軍](../Page/駐港英軍.md "wikilink")
+      - [皇家香港軍團](https://zh.wikipedia.org/wiki/皇家香港軍團 "wikilink")
+      - [皇家香港警察](https://zh.wikipedia.org/wiki/皇家香港警察 "wikilink")
+      - [香港海關](../Page/香港海關.md "wikilink")
+
+  - —本土生產L1A1 SLR。
+
+      - [印度武裝部隊](../Page/印度武裝部隊.md "wikilink")：目前已被[INSAS所取代](../Page/英薩斯突擊步槍.md "wikilink")。
+
+  -   - [以色列國防軍](../Page/以色列國防軍.md "wikilink")：被[IMI加利爾和](../Page/IMI_Galil突擊步槍.md "wikilink")[M16所取代](../Page/M16突擊步槍.md "wikilink")。
+
+  -   - [盧森堡大公國軍](../Page/盧森堡軍事.md "wikilink")：目前已被[斯泰爾AUG所取代](../Page/斯泰爾AUG突擊步槍.md "wikilink")。\[70\]
+
+  - ：採用L1A1 SLR。
+
+      - [馬來西亞武裝部隊](https://zh.wikipedia.org/wiki/馬來西亞武裝部隊 "wikilink")：目前已被[M16及](../Page/M16突擊步槍.md "wikilink")[斯泰爾AUG所取代](../Page/斯泰爾AUG突擊步槍.md "wikilink")。\[71\]
+
+  -   - [荷蘭武裝部隊](https://zh.wikipedia.org/wiki/荷蘭軍事 "wikilink")：目前已被[C7所取代](../Page/C7突擊步槍.md "wikilink")。
+
+  -   - ：目前已被[斯泰爾AUG所取代](../Page/斯泰爾AUG突擊步槍.md "wikilink")。
+
+  -   - ：於1960年代起採用。\[72\]
+
+  - —採用L1A1 SLR。
+
+      - [新加坡武裝部隊](../Page/新加坡武裝部隊.md "wikilink")：被[M16所取代](../Page/M16突擊步槍.md "wikilink")。
+
+  - ：採用L1A1 SLR。
+
+      - ：目前已被[56式自動步槍所取代](../Page/56式自動步槍.md "wikilink")。
+
+  -   - [土耳其武裝部隊](https://zh.wikipedia.org/wiki/土耳其軍事 "wikilink")：大部份從西德接收，目前已被[HK
+        G3所取代](../Page/HK_G3自動步槍.md "wikilink")，但現在仍有用於訓練。
+
+  - －本土生產，命名為**L1A1 SLR**。
+
+      - [英國武裝部隊](https://zh.wikipedia.org/wiki/英國軍事 "wikilink")：目前已被[SA80所取代](../Page/SA80突擊步槍.md "wikilink")。
+
+  -   - [委內瑞拉玻利瓦國民軍](../Page/委內瑞拉軍事.md "wikilink")：目前已普遍被[AK-103所取代](https://zh.wikipedia.org/wiki/AK-103突擊步槍 "wikilink")。
 
 ### 非國家團體的採用
 
-  - [莫洛民族解放陣線](https://zh.wikipedia.org/wiki/莫洛民族解放陣線 "wikilink")－從[利比亞獲得](https://zh.wikipedia.org/wiki/利比亞 "wikilink")1000
-    多支FAL。
+  - [莫洛民族解放陣線](https://zh.wikipedia.org/wiki/莫洛民族解放陣線 "wikilink")－從[利比亞獲得](https://zh.wikipedia.org/wiki/利比亞 "wikilink")1000多枝FAL。
   - [莫洛伊斯蘭解放陣線](../Page/莫洛伊斯蘭解放陣線.md "wikilink")－同上。
   - [哥倫比亞革命武裝力量](https://zh.wikipedia.org/wiki/哥倫比亞革命武裝力量 "wikilink")
   - [科索沃解放軍](../Page/科索沃解放軍.md "wikilink")
@@ -406,6 +427,8 @@ FAL自動步槍**在圣朗贝尔广场附近一个面包屋屋顶向購物人群
   - 2008年—《[-{zh-cn:孤島求生2;
     zh-tw:極地戰嚎2;}-](https://zh.wikipedia.org/wiki/孤島驚魂2 "wikilink")》：命名為“FN
     FAL”，使用黑色塑料製[護木](https://zh.wikipedia.org/wiki/護木 "wikilink")、手槍握把和[槍托](../Page/槍托.md "wikilink")。武器模組採用鏡像佈局（拋殼口在左邊但拉機柄卻在右邊）。
+  - 2008年—《[戰地之王](../Page/戰地之王.md "wikilink")》遊戲中命名為「SA58
+    para」，使用25發彈匣，可改裝[槍管](../Page/槍管.md "wikilink")、握把、扳機、[槍托](../Page/槍托.md "wikilink")，以高後座力及強大的火力著稱。
   - 2009年—《[-{zh-hans:使命召唤：现代战争; zh-hk:決勝時刻：現代戰爭;
     zh-tw:決勝時刻：現代戰爭;}-2](../Page/決勝時刻：現代戰爭2.md "wikilink")》（Call
     of Duty: Modern Warfare 2）：型號為DSA SA58
@@ -465,12 +488,12 @@ FAL自動步槍**在圣朗贝尔广场附近一个面包屋屋顶向購物人群
     OSW的[護木和拉機柄](https://zh.wikipedia.org/wiki/護木 "wikilink")，只於聯機模式登場，可全自動射擊，30發[彈匣](../Page/彈匣.md "wikilink")，初始攜彈量為60發（聯機模式），最高攜彈量為180發（聯機模式）。聯機模式時可以使用[榴彈發射器](../Page/M203榴彈發射器.md "wikilink")、[紅點鏡](../Page/紅點鏡.md "wikilink")、[消音器及](../Page/抑制器.md "wikilink")[ACOG光學瞄準鏡](https://zh.wikipedia.org/wiki/ACOG光學瞄準鏡 "wikilink")。
   - 2016年（臺版2017年）—
     《[少女前線](../Page/少女前线.md "wikilink")》：命名為FAL，為五星戰術人形，可透過工廠製造。
-  - 2016年—《[逃離塔科夫](https://zh.wikipedia.org/wiki/逃離塔科夫 "wikilink")》:型號為SA-58
-    OSW，可更改槍口、槍管、槍托、握把、彈夾、瞄準器等等的配件
-  - 2018年 —
-    《[绝地求生](https://zh.wikipedia.org/wiki/绝地求生 "wikilink")》：命名为“自动装填步枪”（英文："SLR"），为半自动版本。雖然名為自動裝填步槍，實則是被定位成一把精確射手步槍（Designated
+  - 2016年—《》（Escape From Tarkov）：型號為SA-58 OSW，可更改槍口、槍管、槍托、握把、彈匣、瞄準器等配件。
+  - 2017年—《[绝地求生](https://zh.wikipedia.org/wiki/绝地求生 "wikilink")》（Player
+    Unknown's
+    Battleground）：命名为“自动装填步枪”（英文："SLR"），为半自动版本。雖然名為自動裝填步槍，實則是被定位成一把精確射手步槍（Designated
     Marksman
-    Rifle，簡稱：DMR），使用7.62mm口徑子彈，可配備：所有步槍槍口及彈匣、所有瞄具、托腮板。有10、20發彈匣（後者為使用擴容彈匣）
+    Rifle，簡稱：DMR），使用7.62mm口徑子彈，可配備：所有步槍槍口及彈匣、所有瞄具、托腮板。可以10發或20發彈匣（後者為使用擴容彈匣）供彈。
 
 ### [輕小說](../Page/輕小說.md "wikilink")
 
@@ -547,9 +570,9 @@ FAL自動步槍**在圣朗贝尔广场附近一个面包屋屋顶向購物人群
 17.
 18.
 19.
-20.
-21. <http://books.google.com/books?id=cchLfXrXpH4C&pg=PA62&lpg=PA62>
+20. <http://books.google.com/books?id=cchLfXrXpH4C&pg=PA62&lpg=PA62>
 
+21.
 22.
 23.
 24.
@@ -561,15 +584,15 @@ FAL自動步槍**在圣朗贝尔广场附近一个面包屋屋顶向購物人群
 30.
 31.
 32.
-33.
 
+33.
 34.
 35.
 36.
 37.
 38.
-39.
 
+39.
 40.
 41.
 42.
@@ -579,16 +602,16 @@ FAL自動步槍**在圣朗贝尔广场附近一个面包屋屋顶向購物人群
 46.
 47.
 48.
+
 49.
 50.
 51.
-
 52.
 53.
+
 54.
 55.
 56.
-
 57.
 58.
 59.
@@ -601,10 +624,7 @@ FAL自動步槍**在圣朗贝尔广场附近一个面包屋屋顶向購物人群
 66.
 67.
 68.
-69. [1](https://m.youtube.com/watch?v=jlyi-iLpgmI)
-
+69.
 70.
 71.
-72.
-73.
-74. <http://www.thefreelibrary.com/The+military+rifle+cartridges+of+Rhodesia+Zimbabwe%3A+from+Cecil+Rhodes>...-a0234316416
+72. <http://www.thefreelibrary.com/The+military+rifle+cartridges+of+Rhodesia+Zimbabwe%3A+from+Cecil+Rhodes>...-a0234316416

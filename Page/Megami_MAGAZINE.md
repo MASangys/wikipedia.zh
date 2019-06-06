@@ -203,7 +203,7 @@ H's](https://zh.wikipedia.org/wiki/Comp_H's "wikilink")》（[角川書店](../P
   - 153號：[出包王女DARKNESS](../Page/出包王女.md "wikilink")（金色之暗、提亚悠・鲁纳提克）画：[冈勇一](https://zh.wikipedia.org/wiki/冈勇一 "wikilink")
   - 154号：[少女&坦克](https://zh.wikipedia.org/wiki/少女&坦克 "wikilink")（西住美穗）画：[杉本功](https://zh.wikipedia.org/wiki/杉本功 "wikilink")
   - 155號：[Vividred
-    Operation](../Page/Vividred_Operation.md "wikilink")（一色茜）画：[高瀬智章](https://zh.wikipedia.org/wiki/高瀬智章 "wikilink")
+    Operation](../Page/Vividred_Operation.md "wikilink")（一色茜）画：[高濑智章](https://zh.wikipedia.org/wiki/高濑智章 "wikilink")
   - 156号：[少女&坦克](https://zh.wikipedia.org/wiki/少女&坦克 "wikilink")（西住美穗&武部沙织&五十铃华&秋山优花里&冷泉麻子）画：[杉本功](https://zh.wikipedia.org/wiki/杉本功 "wikilink")
   - 157号：[变态王子与不笑猫](https://zh.wikipedia.org/wiki/变态王子与不笑猫 "wikilink")（筒隐月子）画：[监督](https://zh.wikipedia.org/wiki/监督_\(插画家\) "wikilink")
   - 158号：[少女&坦克](https://zh.wikipedia.org/wiki/少女&坦克 "wikilink")（西住美穗&安丘比）画：[伊藤岳史](https://zh.wikipedia.org/wiki/伊藤岳史 "wikilink")
@@ -305,7 +305,10 @@ H's](https://zh.wikipedia.org/wiki/Comp_H's "wikilink")》（[角川書店](../P
   - 226号：[佐贺偶像是传奇](https://zh.wikipedia.org/wiki/佐贺偶像是传奇 "wikilink")（）画：
   - 227号：刀剑神域
     Alicization（结城明日奈）画：[横田拓己](https://zh.wikipedia.org/wiki/横田拓己 "wikilink")
-  - 228号：[五等分的花嫁](https://zh.wikipedia.org/wiki/五等分的花嫁 "wikilink")（）画：[](https://zh.wikipedia.org/wiki/ "wikilink")
+  - 228号：[五等分的花嫁](https://zh.wikipedia.org/wiki/五等分的花嫁 "wikilink")（中野一花、二乃、三久、四葉、五月）画：野口孝行
+  - 229号：[吹响吧！上低音号
+    \~誓言的终章\~](https://zh.wikipedia.org/wiki/吹响吧！上低音号 "wikilink")（黄前久美子、久石奏）画：[池田晶子](../Page/池田晶子.md "wikilink")
+  - 230号：噬血狂袭Ⅲ（姬柊雪菜）画：[佐野隆雄](https://zh.wikipedia.org/wiki/佐野隆雄 "wikilink")
 
 ## 增刊號
 

@@ -373,7 +373,7 @@
 
 综合预选赛于2012年4月18-24日在首尔举行，出线棋手：
 
-  - ：[连笑](https://zh.wikipedia.org/wiki/连笑 "wikilink")、[檀啸](../Page/檀啸.md "wikilink")、[李轩豪](../Page/李轩豪.md "wikilink")、[牛雨田](../Page/牛雨田.md "wikilink")、[周鹤洋](https://zh.wikipedia.org/wiki/周鹤洋 "wikilink")、[孟泰龄](https://zh.wikipedia.org/wiki/孟泰龄 "wikilink")、[彭立峣](https://zh.wikipedia.org/wiki/彭立峣 "wikilink")、[刘星](https://zh.wikipedia.org/wiki/刘星_\(围棋棋手\) "wikilink")、[李康](../Page/李康_\(围棋棋手\).md "wikilink")、[党毅飞](../Page/党毅飞.md "wikilink")、[孔杰](../Page/孔杰.md "wikilink")、[邬光亚](https://zh.wikipedia.org/wiki/邬光亚 "wikilink")，
+  - ：[连笑](https://zh.wikipedia.org/wiki/连笑 "wikilink")、[檀啸](../Page/檀啸.md "wikilink")、[李轩豪](../Page/李轩豪.md "wikilink")、[牛雨田](../Page/牛雨田.md "wikilink")、[周鹤洋](https://zh.wikipedia.org/wiki/周鹤洋 "wikilink")、[孟泰龄](https://zh.wikipedia.org/wiki/孟泰龄 "wikilink")、[彭立峣](../Page/彭立峣.md "wikilink")、[刘星](https://zh.wikipedia.org/wiki/刘星_\(围棋棋手\) "wikilink")、[李康](../Page/李康_\(围棋棋手\).md "wikilink")、[党毅飞](../Page/党毅飞.md "wikilink")、[孔杰](../Page/孔杰.md "wikilink")、[邬光亚](../Page/邬光亚.md "wikilink")，
 
   - ：[李映九](https://zh.wikipedia.org/wiki/李映九 "wikilink")、[朴承华](https://zh.wikipedia.org/wiki/朴承华 "wikilink")、[崔基勋](https://zh.wikipedia.org/wiki/崔基勋 "wikilink")、[罗玄](https://zh.wikipedia.org/wiki/罗玄 "wikilink")
 

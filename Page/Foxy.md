@@ -59,7 +59,7 @@ PC](https://zh.wikipedia.org/wiki/Virtual_PC "wikilink")、[VMware等](../Page/V
 
 ## 參考來源
 
-  - [{{〈}}小心使用P2P軟體，以免你的個人檔案也分享出去{{〉}}](http://www.cib.gov.tw/news/news02_2.aspx?no=289)，內政部警政署刑事警察局科技犯罪防制中心，2006年11月27日
+  - [{{〈}}小心使用P2P軟體，以免你的個人檔案也分享出去{{〉}}](https://web.archive.org/web/20070928080515/http://www.cib.gov.tw/news/news02_2.aspx?no=289)，內政部警政署刑事警察局科技犯罪防制中心，2006年11月27日
   - {{〈}}Foxy案情擴大專家建議立刻移除{{〉}}，Taiwan.[CNET](../Page/CNET.md "wikilink").com新聞專區，2007年4月13日
   - {{〈}}惡意程式、內容冒充外洩筆錄鑽進Foxy用戶PC{{〉}}，Taiwan.CNET.com新聞專區，2007年4月18日
   - [{{〈}}用FOXY抓檔\!?三思而後行\!（更新）{{〉}}](https://web.archive.org/web/20070705090927/http://www.twbbs.net.tw/1663888.html)，[台灣論壇](../Page/台灣論壇.md "wikilink")（原作者：莫斯科指揮官），2007年4月9日

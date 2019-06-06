@@ -42,9 +42,6 @@ box”，由安装在载车四周的四根探测天线组成，实现360度全�
 
 1983年11月，叙利亚的一个9K31导弹连击落了一架美国海军的[A-6](https://zh.wikipedia.org/wiki/A-6 "wikilink")"入侵者"飞机。
 
-[en:SA-9
-Gaskin](https://zh.wikipedia.org/wiki/en:SA-9_Gaskin "wikilink")
-
 [Category:蘇聯面對空飛彈](https://zh.wikipedia.org/wiki/Category:蘇聯面對空飛彈 "wikilink")
 [Category:點防禦防空飛彈](https://zh.wikipedia.org/wiki/Category:點防禦防空飛彈 "wikilink")
 [Category:俄羅斯飛彈](https://zh.wikipedia.org/wiki/Category:俄羅斯飛彈 "wikilink")

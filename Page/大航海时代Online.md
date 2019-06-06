@@ -106,9 +106,9 @@
 
 [加勒比海](../Page/加勒比海.md "wikilink")、[中美洲](../Page/中美洲.md "wikilink")、[南美洲東岸和](../Page/南美洲.md "wikilink")[東南亞地方開放](https://zh.wikipedia.org/wiki/東南亞 "wikilink")。
 
-  - 第一章 阿茲特克
-  - 第二章 吳哥王朝
-  - 第三章 香料群島
+  - 第一章 [阿茲特克](../Page/阿茲特克.md "wikilink")
+  - 第二章 [吳哥王朝](https://zh.wikipedia.org/wiki/吳哥王朝 "wikilink")
+  - 第三章 [香料群島](https://zh.wikipedia.org/wiki/香料群島 "wikilink")
 
 ### Cruz del Sur
 

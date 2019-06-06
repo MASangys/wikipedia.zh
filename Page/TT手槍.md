@@ -219,7 +219,8 @@ TT-33成為了[二戰中廣為蘇軍使用的手槍](https://zh.wikipedia.org/wi
     ：主人公Joker在異世界中默認的遠程武器就是TT手槍（托卡列夫）。
   - 2016年—《[少女前線](https://zh.wikipedia.org/wiki/少女前線 "wikilink")》（Girls'
     Frontline）：以托卡列夫的名稱登場。
-  - 2017年—《Rising Storm 2: Vietnam》：為越共陣營使用的手槍。
+  - 2016年—《》（Escape From Tarkov）：型號為TT-33。
+  - 2017年—《》：為越共陣營使用的手槍。
 
 ### 動畫
 

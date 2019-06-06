@@ -2,6 +2,8 @@
 
 ## 事件
 
+[vivo_mobile_logo.png](https://zh.wikipedia.org/wiki/File:vivo_mobile_logo.png "fig:vivo_mobile_logo.png")
+
   - 2009年，Vivo於全球註冊。
   - 2011年，Vivo進軍智能手機領域。
   - 2012年11月 ，Vivo發布智能手機Vivo X1。
@@ -113,6 +115,7 @@ vivo已经在马来西亚建成接近2000家销售点，售后服务中心也达
   - Z系列
       - [vivo Z1](https://zh.wikipedia.org/wiki/vivo_Z1 "wikilink")
       - [vivo Z3](https://zh.wikipedia.org/wiki/vivo_Z3 "wikilink")
+      - [vivo Z5X](https://zh.wikipedia.org/wiki/vivo_Z5X "wikilink")
   - S系列
       - [vivo S1](https://zh.wikipedia.org/wiki/vivo_S1 "wikilink")
   - NEX系列

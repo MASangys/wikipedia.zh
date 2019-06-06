@@ -186,3 +186,4 @@ draw four"牌，而被下位玩家挑戰並檢查紙牌確認，則須罰牌4張
   - [《DOS》相關規則](https://drive.google.com/file/d/1SIy1Gb94jVqOAu2H2MkC0DvCp3-DzI2W/view?usp=sharing)
 
 [Category:牌類遊戲](https://zh.wikipedia.org/wiki/Category:牌類遊戲 "wikilink")
+[Category:1971年面世](https://zh.wikipedia.org/wiki/Category:1971年面世 "wikilink")

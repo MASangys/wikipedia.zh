@@ -38,10 +38,5 @@ IS](https://zh.wikipedia.org/wiki/Canon_PowerShot_S2_IS "wikilink")。
 
 |- |colspan="3" style="text-align:center;"|**佳能 "长焦" 消费数码相机** |-
 
-[en:Canon PowerShot S3
-IS](https://zh.wikipedia.org/wiki/en:Canon_PowerShot_S3_IS "wikilink")
-[pl:Canon PowerShot S3
-IS](https://zh.wikipedia.org/wiki/pl:Canon_PowerShot_S3_IS "wikilink")
-
 [Category:佳能相機](https://zh.wikipedia.org/wiki/Category:佳能相機 "wikilink")
 [Category:2006年面世的相機](https://zh.wikipedia.org/wiki/Category:2006年面世的相機 "wikilink")
