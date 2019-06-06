@@ -11,7 +11,7 @@ A.希恩斯的父親是[英國人](https://zh.wikipedia.org/wiki/英國人 "wiki
 
 ## 榮譽
 
-  - **[香港特區政府嘉獎](../Page/香港特別行政區政府.md "wikilink")**
+  - [香港特區政府嘉獎](../Page/香港特別行政區政府.md "wikilink")
 
 <!-- end list -->
 
@@ -19,10 +19,6 @@ A.希恩斯的父親是[英國人](https://zh.wikipedia.org/wiki/英國人 "wiki
     [行政長官社區服務獎狀](https://zh.wikipedia.org/wiki/行政長官社區服務獎狀 "wikilink")（2011年）
 
 ## 參考資料
-
-## 外部連結
-
-## 資料來源
 
 [Category:香港欖球運動員](https://zh.wikipedia.org/wiki/Category:香港欖球運動員 "wikilink")
 [Category:2010年亞洲運動會銀牌得主](https://zh.wikipedia.org/wiki/Category:2010年亞洲運動會銀牌得主 "wikilink")

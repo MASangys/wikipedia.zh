@@ -60,7 +60,7 @@ A隊長的高橋南擔任電視紀錄片[旁白](https://zh.wikipedia.org/wiki/�
 
 ## 外部連結
 
-  - [紀錄電影官方網站](http://www.2010-akb48.jp/index.html)
+  - [紀錄電影官方網站](https://web.archive.org/web/20120718024447/http://www.2010-akb48.jp/index.html)
 
   - [導演寒竹百合的訪問](http://news.mynavi.jp/articles/2011/02/14/dakb/index.html)（MyNavi）
 

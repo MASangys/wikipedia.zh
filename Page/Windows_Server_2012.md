@@ -17,11 +17,11 @@ Server 2012的这些功能收到很多正面评价。
 Windows Server 2012的升级版Windows Server 2012
 R2。于2013年6月3日发布预览版，2013年10月17日发布正式版。
 
-## 升級
+## 更新
 
-支援從 Windows Server 2008 和 Windows Server 2008 R2 升级到 Windows Server 2012
-，但是並沒有支援 Windows Server 2008 之前版本的升級。\[2\] 也就是說，最低只能從 Windows Server
-2008 升級上去，而更早期的版本（如：Windows Server 2003）就不能升級了。
+本次更新支援從[Windows Server
+2008和Windows](../Page/Windows_Server_2008.md "wikilink") Server 2008
+R2升级至Windows Server 2012 ，低於此版本的作業系統（如：Windows Server 2003）則無法進行更新。\[2\]
 
 ## 系統需求
 

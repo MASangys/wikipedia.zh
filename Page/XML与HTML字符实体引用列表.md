@@ -2380,10 +2380,6 @@ Notes:
   - [HTML entities quick reference
     table](https://web.archive.org/web/20120328093353/http://www.html-entities.com/)
 
-[ko:문자 참조](https://zh.wikipedia.org/wiki/ko:문자_참조 "wikilink") [nl:Lijst
-van
-HTML-entiteiten](https://zh.wikipedia.org/wiki/nl:Lijst_van_HTML-entiteiten "wikilink")
-
 [Category:XHTML](https://zh.wikipedia.org/wiki/Category:XHTML "wikilink")
 [Category:HTML](https://zh.wikipedia.org/wiki/Category:HTML "wikilink")
 [Category:XML](https://zh.wikipedia.org/wiki/Category:XML "wikilink")

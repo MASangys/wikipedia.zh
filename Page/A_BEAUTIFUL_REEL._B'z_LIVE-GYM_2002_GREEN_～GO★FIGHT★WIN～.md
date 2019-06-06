@@ -10,7 +10,7 @@
 
 ### 支援樂手
 
-  - [增田隆宣](../Page/增田隆宣.md "wikilink")：[電子琴](../Page/電子琴.md "wikilink")
+  - [增田隆宣](../Page/增田隆宣.md "wikilink")：[鍵盤](../Page/鍵盤樂器.md "wikilink")
 
   - ：[貝斯](https://zh.wikipedia.org/wiki/貝斯 "wikilink")
 
@@ -73,7 +73,7 @@ Angel)，在HALL公演上的「[ながい愛](https://zh.wikipedia.org/wiki/Brot
 11. **[DEVIL](https://zh.wikipedia.org/wiki/DEVIL#收錄曲 "wikilink")**
       -
         自舞台前方及後方噴出火焰，亦從組成人形的11座巨大[桁架](../Page/桁架_\(工程\).md "wikilink")『ROCK
-        MAN』（）身上噴出火花。此外，在樂曲結尾加入了來自[增田隆宣的電子琴SOLO演奏](../Page/增田隆宣.md "wikilink")。
+        MAN』（）身上噴出火花。此外，在樂曲結尾加入了來自[增田隆宣的](../Page/增田隆宣.md "wikilink")[鍵盤SOLO演奏](../Page/鍵盤樂器.md "wikilink")。
 12. **[Everlasting](https://zh.wikipedia.org/wiki/GREEN_\(B'z專輯\)#收錄曲 "wikilink")**
 13. **[FIREBALL](../Page/FIREBALL.md "wikilink")**
       -

@@ -408,8 +408,7 @@ PlotData =
 
 46.
 
-47. [Joiz ist geschlossen dir könnten die folgenden Inhalte
-    gefallen](http://www.joiz.ch/show/swissmusicawards/joiz-pre-show-swiss-music-awards#!video=sma-6-tom-odell-kuert-den-best-live-act-national)
+47.
 
 48.
 
@@ -442,7 +441,8 @@ PlotData =
 63. Transit Magazine, n°47, été 2009, Eluveitie, interview of Christian
     Glanzmann by Dave, 第28頁
 
-64. [eluveitie countdown](http://eluveitie.ch/countdown/) \[2017-06-15\]
+64. [eluveitie countdown](http://eluveitie.ch/countdown/)
+    \[2017-06-15\]
 
 65.
 66.

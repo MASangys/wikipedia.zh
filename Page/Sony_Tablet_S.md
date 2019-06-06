@@ -54,7 +54,7 @@ Apps，可以在執行程式時呼叫出[計算機](https://zh.wikipedia.org/wik
 
 1.  <http://chinese.engadget.com/2011/11/23/sony-tablet-s-review/>
 2.  <http://news.sel.sony.com/en/press_room/consumer/computer_peripheral/release/60727.html>
-3.  <http://discover.store.sony.com/tablet/>
+3.
 4.  <http://www.sonyrumors.net/2011/08/31/sony-tablet-s-and-the-tablet-p-get-officially-unveiled-we-have-specs-details-and-a-preview-for-you/>
 5.  <http://chinese.engadget.com/2011/11/23/sony-tablet-s-review/>
 6.
