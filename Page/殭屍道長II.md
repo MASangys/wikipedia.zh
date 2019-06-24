@@ -34,7 +34,7 @@
   - [佘文炳](https://zh.wikipedia.org/wiki/佘文炳 "wikilink") 飾 牛大叔
   - [饒芷昀](https://zh.wikipedia.org/wiki/饒芷昀 "wikilink") 飾 牛大媽
   - [陳　銳](https://zh.wikipedia.org/wiki/陳銳_\(演員\) "wikilink") 飾 阿　忠
-  - [李俊德](https://zh.wikipedia.org/wiki/李俊德 "wikilink") 飾 阿　邦
+  - [李俊德](../Page/李俊德.md "wikilink") 飾 阿　邦
   - [黃清河](https://zh.wikipedia.org/wiki/黃清河 "wikilink") 飾 父　老
   - [陳靖允](../Page/陳靖允.md "wikilink") 飾
     [慈　禧](https://zh.wikipedia.org/wiki/慈禧 "wikilink")

@@ -309,5 +309,6 @@ Entertainment。通常場景為「2D動畫」、但在跳舞場合時則是用�
 [Category:魔法少女題材遊戲](https://zh.wikipedia.org/wiki/Category:魔法少女題材遊戲 "wikilink")
 [Category:時尚題材作品](https://zh.wikipedia.org/wiki/Category:時尚題材作品 "wikilink")
 [Category:東森電視外購動畫](https://zh.wikipedia.org/wiki/Category:東森電視外購動畫 "wikilink")
+[Category:魔女题材作品](https://zh.wikipedia.org/wiki/Category:魔女题材作品 "wikilink")
 
 1.

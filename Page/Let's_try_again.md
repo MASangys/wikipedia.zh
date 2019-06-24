@@ -80,7 +80,7 @@ Para風格的舞蹈](../Page/Para_Para.md "wikilink")。\[2\]4月20日開放網�
   - [MONOBRIGHT](https://zh.wikipedia.org/wiki/MONOBRIGHT "wikilink")
   - [森雪之丞](https://zh.wikipedia.org/wiki/森雪之丞 "wikilink")
   - [吉高由里子](../Page/吉高由里子.md "wikilink")
-  - [ONE OK ROCK](https://zh.wikipedia.org/wiki/ONE_OK_ROCK "wikilink")
+  - [ONE OK ROCK](../Page/ONE_OK_ROCK.md "wikilink")
 
 ## 參考資料
 

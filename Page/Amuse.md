@@ -47,7 +47,7 @@ S.A.S.](https://zh.wikipedia.org/wiki/AmuseLantis_Europe_S.A.S. "wikilink")
   - [加賀美聖良](https://zh.wikipedia.org/wiki/加賀美聖良 "wikilink")
   - [賀来賢人](https://zh.wikipedia.org/wiki/賀来賢人 "wikilink")
   - [風間由次郎](https://zh.wikipedia.org/wiki/風間由次郎 "wikilink")
-  - [株元英彰](https://zh.wikipedia.org/wiki/株元英彰 "wikilink")
+  - [株元英彰](../Page/株元英彰.md "wikilink")
   - [神木隆之介](https://zh.wikipedia.org/wiki/神木隆之介 "wikilink")
   - [岸谷五朗](../Page/岸谷五朗.md "wikilink")
   - [清原果耶](../Page/清原果耶.md "wikilink")
@@ -144,7 +144,7 @@ S.A.S.](https://zh.wikipedia.org/wiki/AmuseLantis_Europe_S.A.S. "wikilink")
 <!-- end list -->
 
   - [渡部秀](../Page/渡部秀.md "wikilink")
-  - [ONE OK ROCK](https://zh.wikipedia.org/wiki/ONE_OK_ROCK "wikilink")
+  - [ONE OK ROCK](../Page/ONE_OK_ROCK.md "wikilink")
 
 <!-- end list -->
 

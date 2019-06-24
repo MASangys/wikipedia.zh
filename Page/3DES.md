@@ -29,7 +29,7 @@ DES”和“DES”。该标准中互换的使用“数据加密算法”（DEA�
 
 ## 算法
 
-3DES使用“密钥包”，其包含3个DES[密钥](https://zh.wikipedia.org/wiki/密钥 "wikilink")，K<sub>1</sub>，K<sub>2</sub>和K<sub>3</sub>，均为56位（除去[奇偶校验位](../Page/奇偶校验位.md "wikilink")）。加密算法为：
+3DES使用“密钥包”，其包含3个DES[密钥](../Page/密钥.md "wikilink")，K<sub>1</sub>，K<sub>2</sub>和K<sub>3</sub>，均为56位（除去[奇偶校验位](../Page/奇偶校验位.md "wikilink")）。加密算法为：
 
   -
     密文 = E<sub>K3</sub>(D<sub>K2</sub>(E<sub>K1</sub>(明文)))

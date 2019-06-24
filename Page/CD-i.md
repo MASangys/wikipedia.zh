@@ -81,7 +81,7 @@ Shopping是最早利用TeleCD-i銷售他們產品的公司。CDMATICS也開發�
 
   - [Commodore
     CDTV](https://zh.wikipedia.org/wiki/Commodore_CDTV "wikilink")
-  - [先锋LaserActive](https://zh.wikipedia.org/wiki/先锋LaserActive "wikilink")
+  - [Pioneer LaserActive](../Page/Pioneer_LaserActive.md "wikilink")
   - [3DO](../Page/3DO.md "wikilink")
   - [Tandy Video Information
     System](https://zh.wikipedia.org/wiki/Tandy_Video_Information_System "wikilink")
@@ -112,7 +112,7 @@ Harris的史上最差游戏手柄排行榜中排行第五。\[11\]
   - [SNES CD-ROM at Gamers
     Graveyard](http://www.gamersgraveyard.com/repository/snes/history/snescdrom.html)
 
-[Category:飞利浦](https://zh.wikipedia.org/wiki/Category:飞利浦 "wikilink")
+[Category:飞利浦产品](https://zh.wikipedia.org/wiki/Category:飞利浦产品 "wikilink")
 [Category:影像儲存](https://zh.wikipedia.org/wiki/Category:影像儲存 "wikilink")
 [Category:1991年面世的產品](https://zh.wikipedia.org/wiki/Category:1991年面世的產品 "wikilink")
 [Category:網路迷因](https://zh.wikipedia.org/wiki/Category:網路迷因 "wikilink")

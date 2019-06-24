@@ -56,7 +56,7 @@ Show以上，Kel-Tec推出了KSG-25，可說是與巡邏型和戰術型思維相
 ## 使用國
 
   -   -
-  -   - [法國國家警察干預隊](https://zh.wikipedia.org/wiki/國家警察干預隊 "wikilink")
+  -   - [法國國家警察干預組](../Page/國家警察干預組.md "wikilink")
 
       -
   -   - [大韓民國陸軍](https://zh.wikipedia.org/wiki/大韓民國陸軍 "wikilink")[707特别任務營](../Page/大韓民國第707特殊任務營.md "wikilink")\[2\]\[3\]

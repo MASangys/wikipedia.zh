@@ -18,9 +18,10 @@ Windows上\[3\]。
 
 ## 歷史
 
+[缩略图](https://zh.wikipedia.org/wiki/File:Wordperfect-5.1-dos.png "fig:缩略图")
 1980年，Satellite Software International（SSI）為小型電腦Data
 General開發軟體WordPerfect 1.0 for Data General\[4\]。
-
+[缩略图](https://zh.wikipedia.org/wiki/File:Compaq_Portable_and_Wordperfect.JPG "fig:缩略图")
 1983年10月，SSI發佈WordPerfect 3.0 for DOS\[5\]。
 
 1986年5月，Satellite Software International更名為WordPerfect Corporation\[6\]。
@@ -41,7 +42,7 @@ PerfectOffice，WordPerfect，Quattro Pro以及其他相關軟體\[10\]\[11\]。
 
 ## 功能
 
-WordPerfect X5的主要功能包括\[13\]：
+WordPerfect 進入windows時代後主要功能包括\[13\]：
 
   - 輕鬆製作具有專業水準的文檔，信件，標籤，傳真封面，小冊子，報告，簡歷和其他文檔；
 
@@ -113,6 +114,10 @@ WordPerfect版本\[20\]\[21\]\[22\]\[23\]\[24\]\[25\]\[26\]\[27\]\[28\]
 | 2006 |     |      |           | X3              |       |
 | 2008 |     |      |           | X4              |       |
 | 2010 |     |      |           | X5              |       |
+| 2012 |     |      |           | X6              |       |
+| 2014 |     |      |           | X7              |       |
+| 2016 |     |      |           | X8              |       |
+| 2018 |     |      |           | X9              |       |
 
 ## 支持格式
 

@@ -4,8 +4,8 @@
 
 ## 歷史
 
-Beatport 於 2004年1月[7日](https://zh.wikipedia.org/wiki/7日 "wikilink")
-推出它們的 Beatport 1.0 網上商店, 當中的音樂目錄包含了來自 79 間電子音樂唱片公司的歌曲.
+Beatport 於 2004年1月7日 推出它們的 Beatport 1.0 網上商店, 當中的音樂目錄包含了來自 79
+間電子音樂唱片公司的歌曲.
 
 在 2005年1月, 改版的 Beatport 2.0 推出, 當中的音樂目錄富含 100,000 首來自 2,700
 間電子音樂唱片公司的單曲. Beatport 更同時推出了內建於 [Native
@@ -14,8 +14,8 @@ Instruments](https://zh.wikipedia.org/wiki/Native_Instruments "wikilink")
 Studio](https://zh.wikipedia.org/wiki/Traktor_DJ_Studio "wikilink")
 的小形版本, 可在軟件內即時閱取 Beatport 網站上的內容.
 
-在 2006年8月[7日](https://zh.wikipedia.org/wiki/7日 "wikilink") Beatport
-推出了第三代網上商店的更新版本 Beatport 3.0, 當中的新功能包括更佳的導覽體驗、自訂訂閱內容的 My
+在 2006年8月7日 Beatport 推出了第三代網上商店的更新版本 Beatport 3.0,
+當中的新功能包括更佳的導覽體驗、自訂訂閱內容的 My
 Beatport及額外新的付款選項.
 
 於 2007年2月 Beatport 推出了 Beatport Player, 用於在網上推廣藝人, 唱片公司,
@@ -28,25 +28,22 @@ Flash](../Page/Adobe_Flash.md "wikilink") 及
 於 2007年8月, Beatport 推出了社區群型的音樂網站 - Beatportal, 而它們標致著的使命是
 "...使音樂愛好者得到最新的全球電子音樂資訊"
 
-於 2008年3月[18日](https://zh.wikipedia.org/wiki/18日 "wikilink"), Beatport
-舉辦了 [Beatport
+於 2008年3月18日, Beatport 舉辦了 [Beatport
 音樂大獎](http://www.beatportal.com/tags/tag/beatport+music+awards/).
 Beatport 的用戶每年可以投選他們認為最佳的電子音樂藝人. The BMAs 分成 19 個類別, 包括最佳藝人(每個音樂類別),
 最佳混音以及最佳單曲. 被提名人仕都是基於他們在 Beatport 中的銷售額.
 
-Beatport's 的一個更新版本, The New Beatport, 於
-2009年1月[21日](https://zh.wikipedia.org/wiki/21日 "wikilink") 推出.
+Beatport's 的一個更新版本, The New Beatport, 於 2009年1月21日 推出.
 
-於 2010年4月[9日](https://zh.wikipedia.org/wiki/9日 "wikilink"), Beatport's
-的免費 iPhone 應用程式推出, 程式讓用戶瀏覽、收聽目錄當中旳樂曲, 以及把樂曲加進購物車.
+於 2010年4月9日, Beatport's 的免費 iPhone 應用程式推出, 程式讓用戶瀏覽、收聽目錄當中旳樂曲,
+以及把樂曲加進購物車.
 
-於 2011年3月[21日](https://zh.wikipedia.org/wiki/21日 "wikilink"), Beatport
-把所有收益都撥捐至
+於 2011年3月21日, Beatport 把所有收益都撥捐至
 [2011年日本東北地方太平洋近海地震](../Page/2011年日本東北地方太平洋近海地震.md "wikilink")
 的有關方面.
 
-於 2011年7月[14日](https://zh.wikipedia.org/wiki/14日 "wikilink"), Beatport
-推出了 HTML 5 技術的網站, 續漸取代舊有的 Flash 版本, 當中新追加的功能包括波形圖顯示、BPM 顯示及音調顯示.
+於 2011年7月14日, Beatport 推出了 HTML 5 技術的網站, 續漸取代舊有的 Flash 版本,
+當中新追加的功能包括波形圖顯示、BPM 顯示及音調顯示.
 
 ## 音樂目錄
 

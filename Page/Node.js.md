@@ -10,7 +10,7 @@ Server或](../Page/Apache_HTTP_Server.md "wikilink")[IIS](https://zh.wikipedia.o
 
 Node.js允许通过[JavaScript和一系列模块来编写](../Page/JavaScript.md "wikilink")[服务器端应用和网络相关的应用](../Page/服务器.md "wikilink")。\[16\]\[17\]\[18\]核心模块包括[文件系统I](../Page/文件系统.md "wikilink")/O、网络（[HTTP](https://zh.wikipedia.org/wiki/HTTP "wikilink")、[TCP](../Page/传输控制协议.md "wikilink")、[UDP](../Page/用户数据报协议.md "wikilink")、[DNS](https://zh.wikipedia.org/wiki/DNS "wikilink")、[TLS/SSL等](https://zh.wikipedia.org/wiki/傳輸層安全協議 "wikilink")）、[二进制数据流](https://zh.wikipedia.org/wiki/二进制 "wikilink")、[加密算法](https://zh.wikipedia.org/wiki/加密 "wikilink")、[数据流等等](https://zh.wikipedia.org/wiki/数据流 "wikilink")。\[19\]\[20\]Node模块的API形式简单，降低了编程的复杂度。\[21\]
 
-使用框架可以加速开发。常用的框架有、[Socket.IO和Connect等](../Page/Socket.IO.md "wikilink")。\[22\]Node.js的程序可以在[Microsoft
+使用框架可以加速开发。常用的框架有[Express.js](../Page/Express.js.md "wikilink")、[Socket.IO和Connect等](../Page/Socket.IO.md "wikilink")。\[22\]Node.js的程序可以在[Microsoft
 Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Linux](../Page/Linux.md "wikilink")、[Unix](https://zh.wikipedia.org/wiki/Unix "wikilink")、[Mac
 OS
 X等服务器上运行](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")。Node.js也可以使用[CoffeeScript](../Page/CoffeeScript.md "wikilink")（一种旨在简化JavaScript的替代语言，其代码可按照一定规则转化为合法的JavaScript代码）、[TypeScript](../Page/TypeScript.md "wikilink")（微软开发的强化了数据类型的JavaScript变体）、[Dart语言](../Page/Dart.md "wikilink")，以及其他能够编译成JavaScript的语言编程。\[23\]\[24\]
@@ -165,7 +165,7 @@ Node.js将其注册到操作系统中，这样可以及时注意到新连接的�
 
 <!-- end list -->
 
-  - 服务器端框架：[Express.js](https://zh.wikipedia.org/wiki/Express.js "wikilink"),
+  - 服务器端框架：[Express.js](../Page/Express.js.md "wikilink"),
     [Socket.IO](../Page/Socket.IO.md "wikilink"),
     [Koa.js](http://koajs.com/), [Hapi.js](http://hapijs.com/),
     Total.js\[53\]\[54\]

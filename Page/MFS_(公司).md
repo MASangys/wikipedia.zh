@@ -1,12 +1,14 @@
 **MFS** (**M**asterminded **F**or **S**uccess)
-是來自[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[柏林的一個獨立電子舞曲音樂廠牌](../Page/柏林.md "wikilink")。活躍年限為1990-2008
-(MFS 現階段狀態為暫停發行唱片，廠牌仍未解散)。 來自英國的**[馬克·雷德](../Page/馬克·雷德.md "wikilink")**
-(Mark Reeder)在1990年開創成立。
-冷戰時期東德國有的德意志唱片公司在1993年解散前曾資助此廠牌，成為東德第一家獨立舞曲廠牌。此後，雷德獨立經營MFS，也持續發行電子舞曲音樂唱片。
+是來自[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[柏林的一個獨立電子舞曲音樂廠牌](../Page/柏林.md "wikilink")。來自英國的**[馬克·雷德](../Page/馬克·雷德.md "wikilink")**
+(Mark
+Reeder)在1990年開創成立。廠牌活躍年限為1990-2008，2008-2018期間暫停發行唱片，廠牌仍未解散，2018年馬克·雷德開始與中國成都的電子搖滾樂團STOLEN合作，並製作其最新專輯
+《Fragment/東方碎片》之後，雷德決定重啟MFS，特別為STOLEN在歐洲發行唱片，並擔任樂團經紀人。
+
+冷戰時期屬東德國有德意志唱片公司在1993年解散前曾資助此廠牌，成為東德第一間獨立舞曲廠牌。此後，雷德獨立經營MFS，也持續發行電子舞曲音樂唱片。
 
 MFS被樂界公認為迷幻電音廠牌的創始先驅，且是第一個將[Trance](https://zh.wikipedia.org/wiki/Trance "wikilink")
 music “迷幻音樂曲風” 一詞成功定位的地下音樂廠牌。 MFS早期主要鎖定發行迷幻音樂風格，爾後也推出不同類型的電子音樂。
-MFS幫助很多當時默默無名的DJ成功發跡，開創事業。如:
+MFS幫助許多當時默默無名的DJ成功發跡，開創事業。如:
 [保羅凡戴克](https://zh.wikipedia.org/wiki/保羅凡戴克 "wikilink")，[Harald
 Blüchel](https://zh.wikipedia.org/wiki/Harald_Blüchel "wikilink"), Mijk
 van Dijk, [Gerret
@@ -23,7 +25,7 @@ German Latinos", "Neutron 9000" 。
 
 MFS很快的以創作[Trance迷幻曲風聞名](https://zh.wikipedia.org/wiki/Trance "wikilink")。在1991年簽下DJ
 Mijk van Dijk, Cosmic Baby, Humate 和保羅凡戴克。雷德對創作出旋律及節奏輕快Techno的遠見，在Cosmic
-Baby發行的專輯中精彩詮釋了他的概念。MFS令大家最耳熟能詳的專輯為《The Visions of Shiva》 由Harald
+Baby發行的專輯中精彩詮釋了他的概念。MFS令大家最耳熟能詳的專輯為 《The Visions of Shiva》 由Harald
 Blüchel 和 Paul van Dyk 連合創作。他們在1993年解散之前，一起發行了 《Perfect day》和《How Much
 Can You Take?》。 MFS發行過另一張知名專輯為Humate的《Love stimulation》，保羅凡戴克也製作此同名混音單曲。
 1992年MFS發行了第一張由Cosmic Baby & Mijk van Dijk製作的混音合輯，名為 《Tranceformed From
@@ -52,10 +54,16 @@ Da Hool、[無信念樂團](https://zh.wikipedia.org/wiki/無信念樂團 "wikil
 “Assorted Lovetoys”創下在瑞士被禁止發售的紀錄。Flesh廠牌，發行了許多經典的舞曲 如: *Young People*,
 *Pounds & Penz*, *Pornoground*, *Crystal* 和 *I Like It 69*。還有Wet &
 Hard曲風的合輯 ("*Wet\&Hard*", "*Flesh For Fantasy*" 和 "*Feel*")。以及DJ
-Corvin Dalak的專輯 *"I am a Dalak"*，雷德和Corvin Dalak
-因為此專輯，兩人展開世界巡迴演出，足跡遍布哥倫比亞、中國、美國、
-墨西哥、英國… 等。可惜的是，因歐洲許多主要黑膠壓製供應商倒閉，在2008年廠牌老闆雷德決定回到以往製作電子搖滾音樂，將MFS 和
+Corvin Dalak的專輯 *"I am a Dalak"*，雷德和Corvin Dalek
+為這張專輯展開世界巡迴演出，足跡遍布哥倫比亞、中國、美國、墨西哥、英國…
+等。可惜的是，因歐洲許多主要黑膠壓製供應商倒閉，在2008年廠牌老闆雷德決定回到以往製作電子搖滾音樂，將MFS 和
 Flesh暫時冷凍並且取消廠牌所有活動。\[1\]
+
+## 廠牌重啟
+
+2017年春天，雷德在中國為他的音樂紀錄片 “B級片:地下柏林” (B-Movie: Lust in Sound in West
+Berlin)\[2\]
+做宣傳巡演時，當地友人倪兵推薦雷德一隻來自成都的電子樂團‘STOLEN秘密行動’，雷德初次看到STOLEN的現場演出時，對其極具爆發力與台下樂迷瘋狂的氛圍感到驚嘆不已。很快的他們一起在成都花三天的時間錄製一張同名EP。\[3\]
 
 ## 相關條目
 
@@ -66,9 +74,7 @@ Flesh暫時冷凍並且取消廠牌所有活動。\[1\]
 
 ## 外部連結
 
-  - [MFS Official Website
-    官方網站](https://archive.is/20120908070651/http://www.mfs-berlin.de/)
-    (英文)
+  - [MFS Official Website 官方網站](http://www.mfsberlin.com/) (英文)
   - [馬克·雷德的MySpace音樂社交網站](http://www.myspace.com/markreedermfsflesh/)
     (英文)
   - [馬克·雷德的臉書粉絲團](https://www.facebook.com/markreedermusic/)
@@ -76,3 +82,5 @@ Flesh暫時冷凍並且取消廠牌所有活動。\[1\]
 [Category:德國唱片公司](https://zh.wikipedia.org/wiki/Category:德國唱片公司 "wikilink")
 
 1.  [Flesh & MFS](http://www.discogs.com/label/Flesh).*discogs.com*.
+2.  [B級片:地下柏林](https://zaomengshe.com/c/679648/).*zaomengshe.com*.
+3.  [MFS官網](https://mfsberlin.com/).*mfsberlin.com*.

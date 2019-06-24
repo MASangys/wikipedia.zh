@@ -176,7 +176,7 @@ Reacher: Never Go Back》的首映會的表演嘉賓。
 
 10月27日，LOVEY DOVEY X INFINITE限定版聯名香水上市。\[40\]
 
-### 2019年：數位單曲《CLOCK》、東雨solo出道、成烈與東雨入伍
+### 2019年：數位單曲《CLOCK》、東雨solo出道、成烈與東雨入伍、優鉉迷你三輯
 
 2月13日，發行數位單曲《CLOCK》。
 
@@ -184,6 +184,9 @@ Reacher: Never Go Back》的首映會的表演嘉賓。
 
 3月26日，[成烈現役入伍](https://zh.wikipedia.org/wiki/成烈 "wikilink")。\[42\]
 4月15日，[東雨現役入伍](https://zh.wikipedia.org/wiki/東雨 "wikilink")。\[43\]
+
+5月8日，[優鉉發行個人第三張迷你專輯](https://zh.wikipedia.org/wiki/優鉉 "wikilink")《A NEW
+JOURNEY》以主打歌〈Hold On Me〉活動。
 
 ## 成員列表
 
@@ -1082,6 +1085,15 @@ PlotData =
 <li>發行日期：2018年12月21日</li>
 </ul></td>
 <td><p>突然出現的護士OST</p></td>
+</tr>
+<tr class="odd">
+<td><p>2019年</p></td>
+<td><p>L</p></td>
+<td><p>L - <strong>널 그리는 밤</strong></p>
+<ul>
+<li>發行日期：2019年6月5日</li>
+</ul></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS第2頻道" title="wikilink">KBS2</a>《<a href="../Page/僅此一次的愛情.md" title="wikilink">僅此一次的愛情</a>》OST Part. 3</p></td>
 </tr>
 </tbody>
 </table>

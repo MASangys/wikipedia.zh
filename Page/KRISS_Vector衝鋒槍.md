@@ -297,6 +297,8 @@ Vector同時出現在[电影](../Page/电影.md "wikilink")、多個[電視劇](
   - 2018年—《[-{zh-hans:孤岛惊魂;
     zh-hant:極地戰嚎;}-5](https://zh.wikipedia.org/wiki/極地戰嚎5 "wikilink")》（Far
     Cry 5）：型號為Vector衝鋒槍型，命名為「Vector .45 ACP」。
+  - 2018年—《[无限法则](https://zh.wikipedia.org/wiki/無限法則 "wikilink")》（Ring
+    of Elysium）
   - 2019年—《[-{zh-hans:孤岛惊魂：新曙光;
     zh-hant:極地戰嚎：破曉;}-](../Page/孤岛惊魂：新曙光.md "wikilink")》（Far
     Cry: New Dawn）

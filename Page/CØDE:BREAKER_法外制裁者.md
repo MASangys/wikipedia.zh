@@ -778,7 +778,7 @@ ISBN 978-4-06-358411-0（限定版）</p></td>
   - 音響監督：[若林和弘](../Page/若林和弘.md "wikilink")
   - 音響效果：石野貴久（[SOUND
     RING](https://zh.wikipedia.org/wiki/SOUND_RING "wikilink")）
-  - 音樂：[服部隆之](https://zh.wikipedia.org/wiki/服部隆之 "wikilink")
+  - 音樂：[服部隆之](../Page/服部隆之.md "wikilink")
   - 音樂製作：[Lantis](../Page/Lantis.md "wikilink")
   - 動畫製作：[KINEMA
     CITRUS](https://zh.wikipedia.org/wiki/KINEMA_CITRUS "wikilink")
@@ -794,7 +794,7 @@ ISBN 978-4-06-358411-0（限定版）</p></td>
   - 片尾曲「」
     作詞、歌：[鈴村健一](../Page/鈴村健一.md "wikilink")，作曲、編曲：[渡邊拓也](https://zh.wikipedia.org/wiki/渡邊拓也 "wikilink")
   - OAD片尾曲「」
-    作詞：[上条明峰](../Page/上条明峰.md "wikilink")，作曲、編曲：[服部隆之](https://zh.wikipedia.org/wiki/服部隆之 "wikilink")，歌：[伊藤加奈惠](../Page/伊藤加奈惠.md "wikilink")
+    作詞：[上条明峰](../Page/上条明峰.md "wikilink")，作曲、編曲：[服部隆之](../Page/服部隆之.md "wikilink")，歌：[伊藤加奈惠](../Page/伊藤加奈惠.md "wikilink")
 
 ### 各話列表
 

@@ -251,7 +251,7 @@ ZE xxxx00</p></td>
 
 ### CRH6A-A（200km/h）
 
-[CRH6A-A_at_Xipu_Railway_Station.jpg](https://zh.wikipedia.org/wiki/File:CRH6A-A_at_Xipu_Railway_Station.jpg "fig:CRH6A-A_at_Xipu_Railway_Station.jpg")上的CRH6A-A于[犀浦站](https://zh.wikipedia.org/wiki/犀浦站 "wikilink")\]\]
+[Chengdu-Ya’an_Railway_EMU_Train_at_Ya’an_Station.jpeg](https://zh.wikipedia.org/wiki/File:Chengdu-Ya’an_Railway_EMU_Train_at_Ya’an_Station.jpeg "fig:Chengdu-Ya’an_Railway_EMU_Train_at_Ya’an_Station.jpeg")上的CRH6A-A于[雅安站](../Page/雅安站.md "wikilink")\]\]
 CRH6A-A车型为CRH6A的4辆小编组版本，最大载客量达688人。该车型针对城际铁路站间距小的特点，提升了加减速能力，能够像地铁列车一样“快起快停”。列车还采用大宽度的双开塞拉门，并增加车门数量，保障乘客可以快速上下车，缩短了停站时间。车厢连接处贯通道的宽度达到1.1米，而且座椅采用“2+2”布置，可以使车内的通行空间更加宽敞。此外，CRH6A-A还设有[Wi-Fi接入](../Page/Wi-Fi.md "wikilink")。该车型既可实现4辆编组单独运营，也可实现8辆编组重联运行\[10\]。
 
 <File:CRH6A-A> Handler.jpg|车厢内的扶手 <File:CRH6A-A> PIDS.jpg|车厢内乘客信息显示系统

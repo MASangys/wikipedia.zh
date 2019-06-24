@@ -8,4 +8,4 @@ Telescope**（以下縮寫為**WWT**）是[微軟所推出的一款](https://zh.
   - [WorldWide Telescope官方網站](http://www.worldwidetelescope.org)
 
 [Category:天文软件](https://zh.wikipedia.org/wiki/Category:天文软件 "wikilink")
-[Category:微軟](https://zh.wikipedia.org/wiki/Category:微軟 "wikilink")
+[Category:微软研究院](https://zh.wikipedia.org/wiki/Category:微软研究院 "wikilink")

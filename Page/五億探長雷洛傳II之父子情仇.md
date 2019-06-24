@@ -4,11 +4,11 @@
 
 故事承接上部，前面几分钟简要回顾了上部的一些主要情节。
 
-1959年，[油麻地的英籍](../Page/油麻地.md "wikilink")[探长](https://zh.wikipedia.org/wiki/探长 "wikilink")「其里夫」退休，此肥缺引起雷洛与颜同的争夺。颜同不惜勾结全香港各大[捞家甚至](https://zh.wikipedia.org/wiki/捞家 "wikilink")[毒枭](https://zh.wikipedia.org/wiki/毒枭 "wikilink")，务求登上宝座。而雷洛透過岳父的幫助，亦不甘示弱，从奉承[警务处處长好赌的夫人身上下手](https://zh.wikipedia.org/wiki/警务处處长 "wikilink")，也因此得到处长对雷洛的器重。最终颜同虽然得到油麻地探长的位置，但是雷洛却被提拔为新设的[总华探长之职](https://zh.wikipedia.org/wiki/总华探长 "wikilink")，居于颜同之上。雷洛上任后，重整偏门秩序，各大捞家争相拥戴，声势如日中天；相反的，颜同则一落千丈，令他对雷洛更加痛恨。为此颜同找来老虎蟹的人去暗杀雷洛，雷洛躲过一劫。为避免雷洛查出暗杀是他主谋的，颜同又亲手杀了老虎蟹以其灭口。
+1959年，[油麻地的英籍](../Page/油麻地.md "wikilink")[探长](https://zh.wikipedia.org/wiki/探长 "wikilink")「祁利夫」退休，此肥缺引起雷洛与颜同的争夺。颜同不惜勾结全香港各大[捞家甚至](https://zh.wikipedia.org/wiki/捞家 "wikilink")[毒枭](https://zh.wikipedia.org/wiki/毒枭 "wikilink")，务求登上宝座。而雷洛透過岳父的幫助，亦不甘示弱，从奉承[警务处處长好赌的夫人身上下手](https://zh.wikipedia.org/wiki/警务处處长 "wikilink")，也因此得到处长对雷洛的器重。最终颜同虽然得到油麻地探长的位置，但是雷洛却被提拔为新设的[总华探长之职](https://zh.wikipedia.org/wiki/总华探长 "wikilink")，居于颜同之上。雷洛上任后，重整偏门秩序，各大捞家争相拥戴，声势如日中天；相反的，颜同则一落千丈，令他对雷洛更加痛恨。为此颜同找来老虎蟹的人去暗杀雷洛，雷洛躲过一劫。为避免雷洛查出暗杀是他主谋的，颜同又亲手杀了老虎蟹以其灭口。
 
-1960年代，雷洛权势強大滔天，不仅控制着全港的[警务运作](https://zh.wikipedia.org/wiki/警务 "wikilink")，还积极投资房地产和娱乐场所等多项商业领域，成为叱咤一时的风云人物，估計其财富超过5亿[港元](../Page/港元.md "wikilink")（[購買力平價](https://zh.wikipedia.org/wiki/購買力平價 "wikilink")，等同今日五千多億港元）。
+1960年代，雷洛呼風喚雨、叱咤風雲，不仅控制着全港的[警务运作](https://zh.wikipedia.org/wiki/警务 "wikilink")，还积极投资房地产和娱乐场所等多项商业领域，估計其财富超过5亿[港元](../Page/港元.md "wikilink")（[購買力平價](https://zh.wikipedia.org/wiki/購買力平價 "wikilink")，等同今日五千多億港元），富可敵國。
 
-1972年，英国派[薛基夫来港任新](../Page/薛畿輔.md "wikilink")[警务处处长](https://zh.wikipedia.org/wiki/警务处处长 "wikilink")。他发觉[香港警界极其腐败](https://zh.wikipedia.org/wiki/香港警界 "wikilink")，黃賭毒猖獗，使得整个[香港社会是罪恶的大温床](https://zh.wikipedia.org/wiki/香港社会 "wikilink")，于是决心积极打击各种犯罪活动。这令雷洛等人感到棘手。
+1972年，[英国政府派](https://zh.wikipedia.org/wiki/英国政府 "wikilink")[薛基夫来港任新](../Page/薛畿輔.md "wikilink")[警务处处长](https://zh.wikipedia.org/wiki/警务处处长 "wikilink")。他发觉[香港警界极其腐败](https://zh.wikipedia.org/wiki/香港警界 "wikilink")，黃賭毒猖獗，使得整个[香港社会是罪恶的大温床](https://zh.wikipedia.org/wiki/香港社会 "wikilink")，于是决心积极打击各种犯罪活动。这令雷洛等人感到棘手。
 
 1974年，雷洛獲得[殖民地警員勳章](https://zh.wikipedia.org/wiki/殖民地警察獎章 "wikilink")，並被英方破格升為[幫辦](https://zh.wikipedia.org/wiki/幫辦 "wikilink")，事實上卻是剝奪其探長的權力，由顏同與藍江繼位[總華探長](https://zh.wikipedia.org/wiki/總華探長 "wikilink")。另外，直属于[香港總督的](../Page/香港總督.md "wikilink")[廉政公署成立](../Page/廉政公署_\(香港\).md "wikilink")，致力于打击各种腐败行为，这让雷洛选择提早退休，并选择转移全部资产于[加拿大](../Page/加拿大.md "wikilink")，准备全家移民。
 

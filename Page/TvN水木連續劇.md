@@ -1,7 +1,7 @@
 **tvN水木連續劇**（），是逢[星期三](https://zh.wikipedia.org/wiki/星期三 "wikilink")、[星期四韓國晚間在](https://zh.wikipedia.org/wiki/星期四 "wikilink")[tvN電視台播映的電視劇](https://zh.wikipedia.org/wiki/tvN "wikilink")。
 2017年7月起重新恢復此時段。\[1\] \[2\]
 
-## 播出期間
+## 播出時間
 
 | 檔期                      | 播出日期                   | 播出時間                                                                            | 播出長度                                                                                                            | 劇集                                       |
 | ----------------------- | ---------------------- | ------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
@@ -315,7 +315,7 @@
 <td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="../Page/李棟旭.md" title="wikilink">李棟旭</a>、<a href="https://zh.wikipedia.org/wiki/劉仁娜" title="wikilink">劉仁娜</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/朴俊和.md" title="wikilink">朴俊和</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李明淑" title="wikilink">李明淑</a>、<a href="https://zh.wikipedia.org/wiki/崔寶琳" title="wikilink">崔寶琳</a></p></td>
+<td style="text-align: center;"><p>李明淑、崔寶琳</p></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
@@ -332,12 +332,12 @@
 <tr class="odd">
 <td style="text-align: center;"><p>2019年6月5日－<br />
 2019年7月25日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/請輸入搜索詞：WWW" title="wikilink">請輸入搜索詞：WWW</a><br />
+<td style="text-align: center;"><p><a href="../Page/請輸入檢索詞WWW.md" title="wikilink">請輸入檢索詞WWW</a><br />
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="../Page/林秀晶.md" title="wikilink">林秀晶</a>、<a href="../Page/張基龍.md" title="wikilink">張基龍</a>、<a href="../Page/李多熙_(演員).md" title="wikilink">李多熙</a>、<a href="../Page/全慧珍.md" title="wikilink">全慧珍</a></p></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;"><p>鄭志賢</p></td>
+<td style="text-align: center;"><p>權度恩</p></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
@@ -347,8 +347,30 @@
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="../Page/鄭敬淏.md" title="wikilink">鄭敬淏</a>、<a href="https://zh.wikipedia.org/wiki/朴星雄" title="wikilink">朴星雄</a>、<a href="../Page/李雪.md" title="wikilink">李雪</a>、<a href="../Page/李伊.md" title="wikilink">李伊</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/閔鎮基" title="wikilink">閔鎮基</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/盧惠英" title="wikilink">盧惠英</a></p></td>
+<td style="text-align: center;"><p>閔鎮基</p></td>
+<td style="text-align: center;"><p>盧惠英</p></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>2019年9月－<br />
+2019年</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李小姐" title="wikilink">李小姐</a><br />
+</p></td>
+<td style="text-align: center;"><p>16</p></td>
+<td style="text-align: center;"><p><a href="../Page/惠利.md" title="wikilink">惠利</a>、<a href="../Page/嚴賢璟.md" title="wikilink">嚴賢璟</a>、<a href="https://zh.wikipedia.org/wiki/李昌燁" title="wikilink">李昌燁</a></p></td>
+<td style="text-align: center;"><p>韓東和</p></td>
+<td style="text-align: center;"><p>朴正華</p></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>2019年11月－<br />
+2019年</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/精神變態日記" title="wikilink">精神變態日記</a><br />
+</p></td>
+<td style="text-align: center;"><p>16</p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"><p>李忠載</p></td>
+<td style="text-align: center;"><p>劉勇在</p></td>
 <td style="text-align: center;"></td>
 </tr>
 </tbody>

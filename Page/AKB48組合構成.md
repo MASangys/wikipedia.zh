@@ -2319,6 +2319,42 @@ Team 4选秀研究生 多田京加昇格至所属队伍</p></td>
 <td><p>24<br />
 (6/2/3)</p></td>
 </tr>
+<tr class="odd">
+<td><p>5月30日</p></td>
+<td><p>Team 8・K 中野郁海畢業</p></td>
+<td><p>-1</p></td>
+<td><p>106</p></td>
+<td><p>90</p></td>
+<td><p>24<br />
+(6/2/3)</p></td>
+</tr>
+<tr class="even">
+<td><p>5月31日</p></td>
+<td><p>Team 8・A 谷川聖畢業</p></td>
+<td><p>-1</p></td>
+<td><p>105</p></td>
+<td><p>89</p></td>
+<td><p>23<br />
+(5/2/3)</p></td>
+</tr>
+<tr class="odd">
+<td><p>6月7日</p></td>
+<td><p>Team 8・B 佐藤栞畢業</p></td>
+<td><p>-1</p></td>
+<td><p>104</p></td>
+<td><p>88</p></td>
+<td><p>23<br />
+(5/2/3)</p></td>
+</tr>
+<tr class="even">
+<td><p>6月22日</p></td>
+<td><p>Team 8・K 山田菜菜美畢業</p></td>
+<td><p>-1</p></td>
+<td><p>103</p></td>
+<td><p>87</p></td>
+<td><p>23<br />
+(5/2/3)</p></td>
+</tr>
 </tbody>
 </table>
 

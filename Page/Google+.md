@@ -101,7 +101,7 @@ Hangouts，但谷歌同时也对部分国家做出了限制，即当用户处于
 2013年8月开始，Google+可以间歇性在部分网络直接访问。如果将ISP提供的DNS服务器更改为公众[DNS](../Page/域名系统.md "wikilink")（如[Google
 Public DNS](../Page/Google_Public_DNS.md "wikilink")）就可正常浏览。
 
-2014年5月27日，开始，Google+连同[Google其他服务被中國大陆封锁至今](../Page/Google.md "wikilink")。
+2014年5月27日开始，Google+连同[Google其他服务被中國大陆封锁至今](../Page/Google.md "wikilink")。
 
 ## 参考資料
 

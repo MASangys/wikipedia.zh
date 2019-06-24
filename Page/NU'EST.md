@@ -258,25 +258,25 @@ Song For You）〉，打響NU'EST即將正式回歸韓語樂壇的第一步。
 
 作為完整體回歸專輯的先行曲，4月3日18時發行旼炫的SOLO單曲〈Universe〉。4月12至14日在[首爾奧林匹克體操競技場舉行](../Page/首尔奥林匹克体操竞技场.md "wikilink")〈Segno〉演唱會，為NU'EST第一次在韓國的完全體五人單獨演唱會，出道七年後終於踏入韓國偶像指標性演唱會場地，三場演唱會共動員3萬6千名粉絲，同時於末場演唱會中正式公布4月29日NU'EST將以第六張迷你專輯《[Happily
 Ever
-After](../Page/Happily_Ever_After.md "wikilink")》正式回歸韓國樂壇。4月28日17時09分，出道曲〈FACE〉MV在Youtube的觀看次數突破一億點擊，為韓國現存男團出道曲YouTube觀看數記錄達一億次首位者\[124\]。5月5日為韓國兒童節，NU'EST於官方YouTube頻道上驚喜公開〈BLESSING〉全曲音源，作為送給粉絲的兒童節禮物，該曲為2011年錄製的出道候選曲，在〈Segno〉首爾演唱會中場橋段時曾表演片段\[125\]。
+After](../Page/Happily_Ever_After.md "wikilink")》正式回歸韓國樂壇。4月28日17時09分，出道曲〈FACE〉MV在Youtube的觀看次數突破一億點擊，為韓國現存男團出道曲YouTube觀看數記錄達一億次首位者\[124\]。5月5日為韓國兒童節，NU'EST於官方YouTube頻道上驚喜公開〈BLESSING〉全曲音源\[125\]，作為送給粉絲的兒童節禮物，該曲為2011年錄製的出道候選曲，在〈Segno〉首爾演唱會中場橋段時曾表演片段\[126\]。
 
 第六張迷你專輯《Happily Ever After》主打歌〈BET BET〉音源於4月29日18時公開後，在Mnet、NAVER
 MUSIC、Soribada、Bugs取得四榜實時一位的佳績。並在十三個海外國家iTunes
-Top專輯排行榜獲得一位，發行後僅一天便登上全世界iTunes專輯排行榜四位，成為前五名當中唯一的韓國專輯\[126\]。同時，美國權威音樂雜誌[Billboard](https://zh.wikipedia.org/wiki/Billboard "wikilink")
+Top專輯排行榜獲得一位，發行後僅一天便登上全世界iTunes專輯排行榜四位，成為前五名當中唯一的韓國專輯\[127\]。同時，美國權威音樂雜誌[Billboard](https://zh.wikipedia.org/wiki/Billboard "wikilink")
 News以「NU'EST以'BET
-BET'王者回歸」為題，詳細介紹此次專輯的音樂風格與音樂錄影帶\[127\]。首週實體專輯銷售成績於HANTEO銷量榜為221,364張，打破分隊銷量最高紀錄並且成為韓國2019年第三組首週實體專輯銷量超過20萬張的藝人\[128\]。第二周（2019.05.06\~2019.05.12）實體專輯銷售成績於HANTEO銷量榜為21,215張，首度登上實體專輯銷售兩周冠軍<sup>[\[37](https://zh.wikipedia.org/wiki/Happily_Ever_After#cite%20note-37 "wikilink")\]</sup>。因此次實體專輯銷售量創下自身新高，Billboard
+BET'王者回歸」為題，詳細介紹此次專輯的音樂風格與音樂錄影帶\[128\]。首週實體專輯銷售成績於HANTEO銷量榜為221,364張，打破分隊銷量最高紀錄並且成為韓國2019年第三組首週實體專輯銷量超過20萬張的藝人\[129\]。第二周（2019.05.06\~2019.05.12）實體專輯銷售成績於HANTEO銷量榜為21,215張，首度登上實體專輯銷售兩周冠軍<sup>[\[37](https://zh.wikipedia.org/wiki/Happily_Ever_After#cite%20note-37 "wikilink")\]</sup>。因此次實體專輯銷售量創下自身新高，Billboard
 News特別報導截至5月11日，《Happily Ever
-After》為世界專輯榜第8名，這是NU'EST首次進入前10名，也是至今在美國一周銷售量最高的紀錄\[129\]。並在Billboard
-Korea K-Pop 100中，成為二位\[130\]。此外，《Happily Ever
+After》為世界專輯榜第8名，這是NU'EST首次進入前10名，也是至今在美國一周銷售量最高的紀錄\[130\]。並在Billboard
+Korea K-Pop 100中，成為二位\[131\]。此外，《Happily Ever
 After》分別登上2019年第18週（2019.04.28\~2019.05.04）Gaon
-Chart專輯榜、單曲榜及音源下載排行榜的首位，成為三冠王\[131\]。
+Chart專輯榜、單曲榜及音源下載排行榜的首位，成為三冠王\[132\]。
 
 5月8日NU'EST於MBC《SHOW CHAMPION》憑 〈BET
-BET〉奪得出道八年來第一個完整體音樂節目一位，以2611天成為出道最長時間獲得一位的韓國團體\[132\]\[133\]。5月9日，於Mnet《M
-Countdown》藉滿分11,000分成為該節目第五組以滿分獲得一位的藝人\[134\]。5月10日，在KBS《Music
-Bank》取得本次回歸第三個一位，也是完整體的第一個無線台一位，使得此獎項意義更加重大\[135\]。宣傳期結束後，〈BET
+BET〉奪得出道八年來第一個完整體音樂節目一位，以2611天成為出道最長時間獲得一位的韓國團體\[133\]\[134\]。5月9日，於Mnet《M
+Countdown》藉滿分11,000分成為該節目第五組以滿分獲得一位的藝人\[135\]。5月10日，在KBS《Music
+Bank》取得本次回歸第三個一位，也是完整體的第一個無線台一位，使得此獎項意義更加重大\[136\]。宣傳期結束後，〈BET
 BET〉再度於5月22日的MBC《SHOW
-CHAMPION》榮膺一位，成為NU'EST第一首三台冠軍歌曲與雙周冠軍歌曲，以四個一位在競爭激烈的韓國樂壇中展現亮眼的優異成績\[136\]。
+CHAMPION》榮膺一位，成為NU'EST第一首三台冠軍歌曲與雙周冠軍歌曲，以四個一位在競爭激烈的韓國樂壇中展現亮眼的優異成績\[137\]。
 
 ## 音樂作品
 
@@ -300,7 +300,6 @@ CHAMPION》榮膺一位，成為NU'EST第一首三台冠軍歌曲與雙周冠軍
   - 2012年：[FACE](../Page/FACE_\(NU'EST單曲\).md "wikilink")
   - 2015年：[I'm Bad](https://zh.wikipedia.org/wiki/I'm_Bad "wikilink")
   - 2019年：A Song For You
-  - 2019年：I Don't Care (with Spoonz)
 
 #### 綜藝節目
 
@@ -386,7 +385,7 @@ One\#廣告代言](https://zh.wikipedia.org/wiki/Wanna_One#.E5.BB.A3.E5.91.8A.E4
 | 2018年10月              | Spoonz                               | 合作單曲及MV                     |                |
 | 2018年11月-             | NeNe炸雞                               | 與SEVENTEEN共同代言 2018年11月電視廣告 |                |
 | 2018年12月-             | SUGARLOLO 슈가로로                       |                             |                |
-| 2018年12月-             | CHC                                  |                             |                |
+| 2018年12月-2019年6月      | CHC                                  |                             |                |
 | 2019年3月-              | HANG TEN                             | 全體                          | 韓國區全品牌代言       |
 | 2019年4月-              | Spoonz                               |                             |                |
 
@@ -960,3 +959,4 @@ One\#廣告代言](https://zh.wikipedia.org/wiki/Wanna_One#.E5.BB.A3.E5.91.8A.E4
 134.
 135.
 136.
+137.

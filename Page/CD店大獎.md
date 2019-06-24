@@ -182,7 +182,7 @@ EARTH（<a href="https://zh.wikipedia.org/wiki/世界的終結" title="wikilink"
 <p>（）<br />
 （）<br />
 <a href="../Page/LEVEL3.md" title="wikilink">LEVEL3</a>（<a href="https://zh.wikipedia.org/wiki/Perfume" title="wikilink">Perfume</a>）<br />
-<a href="../Page/人生×僕=.md" title="wikilink">人生×僕=</a>（<a href="https://zh.wikipedia.org/wiki/ONE_OK_ROCK" title="wikilink">ONE OK ROCK</a>）<br />
+<a href="../Page/人生×僕=.md" title="wikilink">人生×僕=</a>（<a href="../Page/ONE_OK_ROCK.md" title="wikilink">ONE OK ROCK</a>）<br />
 （<a href="../Page/星野源.md" title="wikilink">星野源</a>）<br />
 <a href="https://zh.wikipedia.org/wiki/sakanaction" title="wikilink">sakanaction</a>（<a href="../Page/魚韻.md" title="wikilink">魚韻</a>）<br />
 <a href="../Page/Delight.md" title="wikilink">Delight</a>（<a href="https://zh.wikipedia.org/wiki/miwa" title="wikilink">miwa</a>）</p>

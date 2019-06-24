@@ -6,11 +6,10 @@ SC](https://zh.wikipedia.org/wiki/KDE_Software_Compilation "wikilink")，Unity�
 Unity是Aytana項目的一部分，而Aytana項目為提昇使用者對Ubuntu的體驗而設\[2\]。
 
 2017年4月，[Mark
-Shuttleworth](https://zh.wikipedia.org/wiki/Mark_Shuttleworth "wikilink")
-宣布將會在2018年轉回使用GNOME。 Ubuntu 17.04 是最後一個預載 Unity
+Shuttleworth宣布將會在](https://zh.wikipedia.org/wiki/Mark_Shuttleworth "wikilink")2018年轉回使用GNOME。
+Ubuntu 17.04是最後一個預載 Unity
 桌面環境的版本。[Canonical公司放棄原本桌面手機合一的路線](https://zh.wikipedia.org/wiki/Canonical公司 "wikilink")，並將其重心轉移至[雲端運算和](../Page/雲端運算.md "wikilink")[物聯網](https://zh.wikipedia.org/wiki/物聯網 "wikilink")。\[3\]\[4\]
- 創始人 Marius Gripsgård 宣布將會接手 Unity 的開發。\[5\] Unity 8 現由 UBports
-開發及發佈。\[6\]
+創始人Marius Gripsgård宣布將會接手Unity的開發。\[5\] Unity 8現由UBports開發及發佈。\[6\]
 
 ## 使用者介面
 

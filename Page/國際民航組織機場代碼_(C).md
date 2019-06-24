@@ -60,7 +60,7 @@
   - **CYCZ**-[費爾蒙特溫泉機場](https://zh.wikipedia.org/wiki/費爾蒙特溫泉機場 "wikilink")-[英屬哥倫比亞省](https://zh.wikipedia.org/wiki/英屬哥倫比亞省 "wikilink")[費爾蒙特溫泉](https://zh.wikipedia.org/wiki/費爾蒙特溫泉 "wikilink")
   - **CYDA**-[道森市機場](https://zh.wikipedia.org/wiki/道森市機場 "wikilink")-[育空地區](../Page/育空地區.md "wikilink")[道森市](../Page/道森市.md "wikilink")
   - **CYDB**-[伯沃什機場](https://zh.wikipedia.org/wiki/伯沃什機場 "wikilink")-[育空地區](../Page/育空地區.md "wikilink")[伯沃什蘭丁](https://zh.wikipedia.org/wiki/伯沃什蘭丁 "wikilink")
-  - **CYDC**-[普林斯頓機場](https://zh.wikipedia.org/wiki/普林斯頓機場_\(英屬哥倫比亞省\) "wikilink")-[英屬哥倫比亞省](https://zh.wikipedia.org/wiki/英屬哥倫比亞省 "wikilink")[普林斯頓](https://zh.wikipedia.org/wiki/普林斯頓 "wikilink")
+  - **CYDC**-[普林斯頓機場](https://zh.wikipedia.org/wiki/普林斯頓機場_\(英屬哥倫比亞省\) "wikilink")-[英屬哥倫比亞省](https://zh.wikipedia.org/wiki/英屬哥倫比亞省 "wikilink")[普林斯頓](../Page/普林斯頓.md "wikilink")
   - **CYDF**-[鹿湖機場](https://zh.wikipedia.org/wiki/鹿湖機場_\(紐芬蘭-拉布拉多省\) "wikilink")-[紐芬蘭-拉布拉多省](https://zh.wikipedia.org/wiki/紐芬蘭-拉布拉多省 "wikilink")
   - **CYDN**-[多芬機場](https://zh.wikipedia.org/wiki/多芬機場 "wikilink")-[馬尼托巴省](https://zh.wikipedia.org/wiki/馬尼托巴省 "wikilink")[多芬](../Page/多芬.md "wikilink")
   - **CYDO**-[多爾博-聖菲利西機場](https://zh.wikipedia.org/wiki/多爾博-聖菲利西機場 "wikilink")-[魁北克省](../Page/魁北克省.md "wikilink")[多爾博
@@ -405,7 +405,7 @@
   - **CZMN**-[皮奎托內機場](https://zh.wikipedia.org/wiki/皮奎托內機場 "wikilink")-[馬尼托巴省](https://zh.wikipedia.org/wiki/馬尼托巴省 "wikilink")[皮奎托內](https://zh.wikipedia.org/wiki/皮奎托內 "wikilink")
   - **CZMT**-[馬塞特機場](https://zh.wikipedia.org/wiki/馬塞特機場 "wikilink")-[英屬哥倫比亞省](https://zh.wikipedia.org/wiki/英屬哥倫比亞省 "wikilink")[馬塞特](https://zh.wikipedia.org/wiki/馬塞特 "wikilink")
   - **CZNG**-[白楊河機場](https://zh.wikipedia.org/wiki/白楊河機場 "wikilink")-[馬尼托巴省](https://zh.wikipedia.org/wiki/馬尼托巴省 "wikilink")[白楊河](https://zh.wikipedia.org/wiki/白楊河 "wikilink")
-  - **CZNL**-[尼爾森機場](https://zh.wikipedia.org/wiki/尼爾森機場 "wikilink")-[英屬哥倫比亞省](https://zh.wikipedia.org/wiki/英屬哥倫比亞省 "wikilink")[尼爾森](https://zh.wikipedia.org/wiki/尼爾森 "wikilink")
+  - **CZNL**-[尼爾森機場](https://zh.wikipedia.org/wiki/尼爾森機場 "wikilink")-[英屬哥倫比亞省](https://zh.wikipedia.org/wiki/英屬哥倫比亞省 "wikilink")[尼爾森](../Page/尼爾森.md "wikilink")
   - **CZPB**-[薩奇戈湖機場](https://zh.wikipedia.org/wiki/薩奇戈湖機場 "wikilink")-[安大略省](../Page/安大略省.md "wikilink")[薩奇戈湖](https://zh.wikipedia.org/wiki/薩奇戈湖 "wikilink")
   - **CZPC**-[平徹克里克機場](https://zh.wikipedia.org/wiki/平徹克里克機場 "wikilink")-[艾伯塔省](../Page/艾伯塔省.md "wikilink")[平徹克里克](https://zh.wikipedia.org/wiki/平徹克里克 "wikilink")
   - **CZPO**-[Pinehouse湖機場](https://zh.wikipedia.org/wiki/Pinehouse湖機場 "wikilink")-[薩斯喀徹溫省](https://zh.wikipedia.org/wiki/薩斯喀徹溫省 "wikilink")[Pinehouse湖](https://zh.wikipedia.org/wiki/Pinehouse湖 "wikilink")

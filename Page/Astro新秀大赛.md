@@ -64,7 +64,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/张栋梁" title="wikilink">张栋梁</a></p></td>
 <td><p><a href="../Page/张英胜.md" title="wikilink">张英胜</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/杨爱芳" title="wikilink">杨爱芳</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/叶潮明（叶朝明）" title="wikilink">叶潮明（叶朝明）</a></p></td>
+<td></td>
 <td></td>
 <td><p>最佳才艺表演奖: <a href="https://zh.wikipedia.org/wiki/叶朝明" title="wikilink">叶朝明</a></p></td>
 </tr>
@@ -91,9 +91,9 @@
 <td><p><a href="../Page/曾国珲.md" title="wikilink">曾国珲</a>（<a href="https://zh.wikipedia.org/wiki/曾国辉" title="wikilink">曾国辉</a>）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/符琼音" title="wikilink">符琼音</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/刘洁琪" title="wikilink">刘洁琪</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/许亮宁" title="wikilink">许亮宁</a></p></td>
-<td><p>最佳才艺表演奖: <a href="https://zh.wikipedia.org/wiki/刘洁琪" title="wikilink">刘洁琪</a></p></td>
 <td></td>
+<td></td>
+<td><p>最佳才艺表演奖: <a href="https://zh.wikipedia.org/wiki/刘洁琪" title="wikilink">刘洁琪</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>2006年</strong></p></td>
@@ -102,7 +102,8 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/许慧珊" title="wikilink">许慧珊</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/林智勇" title="wikilink">林智勇</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/董美玲" title="wikilink">董美玲</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/庄靖毅" title="wikilink">庄靖毅</a></p></td>
+<td><p>第六名: <a href="https://zh.wikipedia.org/wiki/庄靖毅" title="wikilink">庄靖毅</a><br />
+我的至爱新秀: <a href="https://zh.wikipedia.org/wiki/郑伟康" title="wikilink">郑伟康</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>2007年</strong></p></td>

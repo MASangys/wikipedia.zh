@@ -1,9 +1,11 @@
-**iPod touch
-4**是[蘋果公司設計開發的第四代的](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[可攜式媒體播放器](../Page/可攜式媒體播放器.md "wikilink")，也是屬於[iPod系列的一部份](https://zh.wikipedia.org/wiki/iPod "wikilink")，2010年9月1日由當時的蘋果的首席執行官[史蒂夫·賈伯斯在舊金山的發佈會中推出](https://zh.wikipedia.org/wiki/史蒂夫·賈伯斯 "wikilink")。蘋果於2011年10月5日的發佈會中推出白色版。蘋果于2012年9月12日的[iPhone
-5發佈會上推出了iPod](https://zh.wikipedia.org/wiki/iPhone_5 "wikilink") touch
-4的16GB版本，與此同時，不再販售8GB與64GB版本，32GB版本降價並繼續販售。2013年5月底，苹果公司将iPod touch
-4從官網上撤下，換上16GB的第五代iPod touch播放器，從此iPod touch 4結束了它的使命。iPod touch
-4最後支援的操作系統版本為iOS 6.1.6，無法升級[iOS
+**第四代[iPod
+touch](https://zh.wikipedia.org/wiki/iPod_touch "wikilink")**（其正式名称仅为**iPod
+touch**，而**iPod touch 4**或**iTouch
+4**为俗称）是[蘋果公司設計開發的第四代的](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[可攜式媒體播放器](../Page/可攜式媒體播放器.md "wikilink")，也是屬於[iPod系列的一部份](https://zh.wikipedia.org/wiki/iPod "wikilink")，2010年9月1日由當時的蘋果的首席執行官[史蒂夫·賈伯斯在舊金山的發佈會中推出](https://zh.wikipedia.org/wiki/史蒂夫·賈伯斯 "wikilink")。蘋果於2011年10月5日的發佈會中推出白色版。蘋果于2012年9月12日的[iPhone
+5發佈會上推出了第四代iPod](https://zh.wikipedia.org/wiki/iPhone_5 "wikilink")
+touch的16GB版本，與此同時，不再販售8GB與64GB版本，32GB版本降價並繼續販售。2013年5月底，苹果公司将第四代iPod
+touch從官網上撤下，換上16GB的第五代iPod touch播放器，從此第四代iPod touch結束了它的使命。第四代iPod
+touch最後支援的操作系統版本為iOS 6.1.6，無法升級至[iOS
 7](https://zh.wikipedia.org/wiki/iOS_7 "wikilink")。
 
 ## 硬體
@@ -29,8 +31,8 @@ touch發佈於同年九月，而他們處理器同為蘋果A4處理器,同樣配
 touch只要稍稍偏離螢幕中央便會明顯偏色，飽和度上也稍遜於同世代iPhone。處理器方面，同為蘋果自己設計的A4芯片，但是在iPhone
 4上內置了512MB的動態記憶體，而iPod touch上則配備與第一代iPad相同的256MB動態記憶體，在單任務方面表現基本與iPhone
 4相同，但是多任務切換時，則遠遠遜色與iPhone 4。攝像頭方面，iPhone
-4主攝像頭為500萬畫素并支持自動對焦的背照式傳感器，而iPod
-touch 4G則只配備了一枚69萬畫素不支持自動對焦的攝像頭，此外iPhone 4還配新增了閃光燈，差距非常明顯。
+4主攝像頭為500萬畫素并支持自動對焦的背照式傳感器，而第四代iPod
+touch則只配備了一枚69萬畫素不支持自動對焦的攝像頭，此外iPhone 4還配新增了閃光燈，差距非常明顯。
 
 ## 参考资料
 

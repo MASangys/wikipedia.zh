@@ -6,7 +6,8 @@
 影片串流、線上DVD與[藍光DVD出租](../Page/藍光光碟.md "wikilink")
 |services= | revenue = （2018年）<ref name="ir.netflix.com">
 [Netflix_booth_(36079051696).jpg](https://zh.wikipedia.org/wiki/File:Netflix_booth_\(36079051696\).jpg "fig:Netflix_booth_(36079051696).jpg")上的Netflix展台，漫画展在举办。\]\]
-**Netflix**（官方中文名：**網飛**）是一間在世界多國提供網路-{zh-tw:[隨選](../Page/隨選視訊.md "wikilink")[串流影片](https://zh.wikipedia.org/wiki/串流技術 "wikilink");zh-cn:[视频点播](https://zh.wikipedia.org/wiki/视频点播 "wikilink")}-的[OTT服务公司](../Page/OTT服务.md "wikilink")\[3\]，並同時在[美國經營](https://zh.wikipedia.org/wiki/美國 "wikilink")[單一費率郵寄DVD出租服務](https://zh.wikipedia.org/wiki/單一費率 "wikilink")。該服務是使用回郵信封寄送[DVD和](https://zh.wikipedia.org/wiki/DVD "wikilink")[Blu-ray出租光碟片至消費者指定的收件地址](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")。公司由[里德·哈斯廷斯和](../Page/里德·哈斯廷斯.md "wikilink")在1997年8月29日成立，总部位于[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")[洛斯盖图](https://zh.wikipedia.org/wiki/洛斯盖图 "wikilink")，1999年開始推出訂閱制的服務。到了2009年，Netflix已可提供超過10萬部電影[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")，訂閱者數超過1000萬人\[4\]。
+**Netflix**（
+官方中文名：**網飛**）是一間在世界多國提供網路-{zh-tw:[隨選](../Page/隨選視訊.md "wikilink")[串流影片](https://zh.wikipedia.org/wiki/串流技術 "wikilink");zh-cn:[视频点播](https://zh.wikipedia.org/wiki/视频点播 "wikilink")}-的[OTT服务公司](../Page/OTT服务.md "wikilink")\[3\]，並同時在[美國經營](https://zh.wikipedia.org/wiki/美國 "wikilink")[單一費率郵寄DVD出租服務](https://zh.wikipedia.org/wiki/單一費率 "wikilink")。該服務是使用回郵信封寄送[DVD和](https://zh.wikipedia.org/wiki/DVD "wikilink")[Blu-ray出租光碟片至消費者指定的收件地址](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")。公司由[里德·哈斯廷斯和](../Page/里德·哈斯廷斯.md "wikilink")在1997年8月29日成立，总部位于[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")[洛斯盖图](https://zh.wikipedia.org/wiki/洛斯盖图 "wikilink")，1999年開始推出訂閱制的服務。到了2009年，Netflix已可提供超過10萬部電影[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")，訂閱者數超過1000萬人\[4\]。
 
 2007年2月25日，Netflix宣布已寄出第10亿份DVD。\[5\]2011年4月，Netflix在美國有超過2300萬名訂閱者，在世界其他國家共有超過2600萬名訂閱者。\[6\]在2011年，Netflix的數位總營收超過了150億美元。\[7\]然而在2012年10月23日，Netflix宣布當年度第三季的營收下滑了88%\[8\]。2013年1月，Netflix宣佈在2012年第四季期間在美國增加了200萬名訂閱者，美國的串流服務總訂閱者數達到2710萬，世界其他國家則共有2940萬名串流服務訂閱者。此外，在同一期間，Netflix的營收提升了8%，達到9.45億美元。\[9\]
 
@@ -84,7 +85,6 @@ Netflix在2014年11月19日宣佈，《[西鎮警魂](https://zh.wikipedia.org/w
 
 ##### 日本
 
-[Godzilla(2017)_right_front_view_in_Namba_Marui_August_20,_2017.jpg](https://zh.wikipedia.org/wiki/File:Godzilla\(2017\)_right_front_view_in_Namba_Marui_August_20,_2017.jpg "fig:Godzilla(2017)_right_front_view_in_Namba_Marui_August_20,_2017.jpg")是Netflix原创节目，图中是为电影中的巨型怪兽“[哥斯拉](https://zh.wikipedia.org/wiki/哥斯拉#惑星哥吉拉（第十三代） "wikilink")”制作的雕塑。\]\]
 日本Netflix的網路影片串流服務在2015年9月1日晚間上線，並提供給日本市場的原創內容。包括與[富士電視台合作推出新一季的](../Page/富士電視台.md "wikilink")《[雙層公寓](https://zh.wikipedia.org/wiki/雙層公寓 "wikilink")》，以及由[桐谷美玲主演的原創電視劇](../Page/桐谷美玲.md "wikilink")《》（、Underwear）\[46\]。Netflix也宣佈將在2016年推出改編自[芥川獎獲獎小說](../Page/芥川龍之介獎.md "wikilink")《[火花](../Page/火花_\(小說\).md "wikilink")》的原創作品，並在日本及其他國家市場推出\[47\]。
 
 ##### 韩国
@@ -94,7 +94,7 @@ Netflix在2014年11月19日宣佈，《[西鎮警魂](https://zh.wikipedia.org/w
 
 ##### 香港
 
-2016年1月7日，Netflix正式在香港上線。2018年2月2日，網絡劇集《[反黑](https://zh.wikipedia.org/wiki/反黑 "wikilink")》在香港播映完畢後在Netflix上架，成為首套香港網絡劇集於Netflix上架；同年12月22日，由[Astro投資的原創恐怖懸疑推理電視劇](../Page/Astro集團.md "wikilink")《》，在同年8月11日起於[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[Astro華麗台播映完畢後在Netflix上架](../Page/Astro華麗台.md "wikilink")；2019年4月30日，[HMV數碼中國集團原創網絡劇集](../Page/HMV數碼中國集團.md "wikilink")《》在同年4月18日於[hmvod推出後在Netflix上架](../Page/HMV數碼中國集團.md "wikilink")，成為首套[hmvod網絡劇集於Netflix上架](../Page/HMV數碼中國集團.md "wikilink")；同年5月10日，[電視廣播有限公司於同年](../Page/電視廣播有限公司.md "wikilink")4月8日宣布與[企鵝影視合拍劇集](https://zh.wikipedia.org/wiki/騰訊視頻 "wikilink")《[鐵探](https://zh.wikipedia.org/wiki/鐵探 "wikilink")》在香港播映完畢後在Netflix上架，成為首套無綫電視劇集於Netflix上架。
+2016年1月7日，Netflix正式在香港上線。2018年2月2日，網絡劇集《[反黑](https://zh.wikipedia.org/wiki/反黑 "wikilink")》在香港播映完畢後在Netflix上架，成為首套香港網絡劇集於Netflix上架；同年12月22日，由[Astro投資的原創恐怖懸疑推理電視劇](../Page/Astro集團.md "wikilink")《》，在同年8月11日起於[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[Astro華麗台播映完畢後在Netflix上架](../Page/Astro華麗台.md "wikilink")；2019年4月30日，[HMV數碼中國集團原創網絡劇集](../Page/HMV數碼中國集團.md "wikilink")《[向西聞記](../Page/向西聞記.md "wikilink")》在同年4月18日於[hmvod推出後在Netflix上架](../Page/HMV數碼中國集團.md "wikilink")，成為首套[hmvod網絡劇集於Netflix上架](../Page/HMV數碼中國集團.md "wikilink")；同年5月10日，[電視廣播有限公司於同年](../Page/電視廣播有限公司.md "wikilink")4月8日宣布與[企鵝影視合拍劇集](https://zh.wikipedia.org/wiki/騰訊視頻 "wikilink")《[鐵探](https://zh.wikipedia.org/wiki/鐵探 "wikilink")》在香港播映完畢後在Netflix上架，成為首套無綫電視劇集於Netflix上架；同年7月16日，[HMV數碼中國集團另一套原創網絡劇集](../Page/HMV數碼中國集團.md "wikilink")《》於[hmvod推出後在Netflix上架](../Page/HMV數碼中國集團.md "wikilink")。
 
 ##### 臺灣
 

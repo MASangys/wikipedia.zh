@@ -75,6 +75,8 @@ Mnet Media 的一員。
   - [GOT7的Hard Carry
     2](https://zh.wikipedia.org/wiki/GOT7的Hard_Carry_2 "wikilink")（[GOT7](../Page/GOT7.md "wikilink")）
   - [Hit The Stage](../Page/Hit_The_Stage.md "wikilink")
+  - [NU'EST ROAD](https://zh.wikipedia.org/wiki/NU'EST_ROAD "wikilink")
+  - [PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")
 
 ## 相關公司
 

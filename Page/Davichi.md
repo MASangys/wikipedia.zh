@@ -388,7 +388,7 @@ CHORD」（），CHORD是「合音」之意。
 <td><p>2009年5月6日</p></td>
 <td><p>女性時代</p></td>
 <td><p>여성시대</p></td>
-<td><p>Davichi ＆ <a href="../Page/SeeYa.md" title="wikilink">SeeYa</a> + <a href="https://zh.wikipedia.org/wiki/T-ara" title="wikilink">T-ara</a>（<a href="https://zh.wikipedia.org/wiki/朴芝妍" title="wikilink">朴芝妍</a>）</p></td>
+<td><p>Davichi ＆ <a href="../Page/SeeYa.md" title="wikilink">SeeYa</a> + <a href="https://zh.wikipedia.org/wiki/T-ara" title="wikilink">T-ara</a>（<a href="../Page/朴芝妍.md" title="wikilink">朴芝妍</a>）</p></td>
 <td><p>《女性時代·永遠的愛》</p></td>
 </tr>
 <tr class="even">
@@ -508,7 +508,7 @@ From Me To You</p></td>
 <td><p>2011年12月22日</p></td>
 <td><p>我們不是相愛嗎</p></td>
 <td><p>우리사랑했잖아</p></td>
-<td><p>Davichi ＆ <a href="https://zh.wikipedia.org/wiki/T-ara" title="wikilink">T-ara</a>（<a href="../Page/朴昭妍.md" title="wikilink">朴昭妍</a>、<a href="../Page/朴孝敏.md" title="wikilink">朴孝敏</a>、<a href="https://zh.wikipedia.org/wiki/朴芝妍" title="wikilink">朴芝妍</a>、<a href="../Page/柳和榮.md" title="wikilink">柳和榮</a>）</p></td>
+<td><p>Davichi ＆ <a href="https://zh.wikipedia.org/wiki/T-ara" title="wikilink">T-ara</a>（<a href="../Page/朴昭妍.md" title="wikilink">朴昭妍</a>、<a href="../Page/朴孝敏.md" title="wikilink">朴孝敏</a>、<a href="../Page/朴芝妍.md" title="wikilink">朴芝妍</a>、<a href="../Page/柳和榮.md" title="wikilink">柳和榮</a>）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/T-ara" title="wikilink">T-ara</a>《FUNKY TOWN》</p></td>
 </tr>
 <tr class="odd">
@@ -1718,6 +1718,14 @@ That's my fault</p></td>
 <td></td>
 <td></td>
 <td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年</p></td>
+<td><p>6月9日</p></td>
+<td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
+<td><p>沒能對你說出口的最後一句話</p></td>
+<td><p>1位</p></td>
 </tr>
 </tbody>
 </table>

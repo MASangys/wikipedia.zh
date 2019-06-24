@@ -376,9 +376,7 @@ Router Firmware quotas.png|Gargoyle
 
 ## 硬件兼容性
 
-OpenWrt運行許多不同的路由器，並在其網站上包括一個兼容硬件表。\[25\]在其買家指南中，它建議高通 [Qualcomm
-Atheros](https://zh.wikipedia.org/wiki/Qualcomm_Atheros "wikilink") 芯片超過
-[Broadcom](https://zh.wikipedia.org/wiki/Broadcom "wikilink") 芯片。\[26\]
+OpenWrt運行許多不同的路由器，並在其網站上包括一個兼容硬件表。\[25\]在其買家指南中，比起博通，他们更建议购买高通Atheros芯片设备。\[26\]
 
 ## 正式採用
 
@@ -442,9 +440,7 @@ OpenWrt，特別是其Buildroot構建系統，已經採用了很多次：
   - [OpenWrt支持的无线路由器列表](https://wiki.openwrt.org/toh/start)
   - [OpenWrt Wiki 中文](https://wiki.openwrt.org/zh-cn/start)
   - [OpenWrt中文站](https://web.archive.org/web/20100309161603/http://www.openwrt.org.cn/)
-  - [OpenWrt脱机离线下载](http://www.ytyzx.net/index.php?title=%E8%B7%AF%E7%94%B1%E5%99%A8OpenWrt%E5%A6%82%E4%BD%95%E8%84%B1%E6%9C%BA\(%E7%A6%BB%E7%BA%BF\)%E4%B8%8B%E8%BD%BDBT%E6%96%87%E4%BB%B6)
-
-|}
+  - [OpenWrt脱机下载BT文件](http://www.ytyzx.net/index.php?title=%E8%B7%AF%E7%94%B1%E5%99%A8OpenWrt%E5%A6%82%E4%BD%95%E8%84%B1%E6%9C%BA\(%E7%A6%BB%E7%BA%BF\)%E4%B8%8B%E8%BD%BDBT%E6%96%87%E4%BB%B6)
 
 [Category:Linux發行版](https://zh.wikipedia.org/wiki/Category:Linux發行版 "wikilink")
 [Category:自由路由軟體](https://zh.wikipedia.org/wiki/Category:自由路由軟體 "wikilink")

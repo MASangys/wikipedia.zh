@@ -53,7 +53,8 @@ S4等手机的模拟速度更快](../Page/三星Galaxy_S4.md "wikilink")，但�
 2014年间，Dolphin模拟的精确度取得了很大的提升，实现了光盘加载模拟，原生GameCube控制器支持，\[24\]接近完美的音频模拟，\[25\]并修复了不少问题错误。\[26\][内存管理单元的改进使得之前许多无法运行的游戏首次启动并正常工作](../Page/内存管理单元.md "wikilink")。\[27\]至于Android设备，Dolphin能在当时使用[NVIDIA
 Tegra处理器的设备上运行](../Page/图睿.md "wikilink")，不过有一些困难。\[28\]
 
-通过与[VisualBoyAdvance-M模拟器的开发人员合作](../Page/Visual_Boy_Advance.md "wikilink")，Dolphin开发者在2015年3月提供了功能。\[29\]\[30\]
+通过与[VisualBoyAdvance-M模拟器的开发人员合作](../Page/Visual_Boy_Advance.md "wikilink")，Dolphin开发者在2015年3月提供了[GameCube与Game
+Boy Advance的联动功能](../Page/GBA傳輸線.md "wikilink")。\[29\]\[30\]
 
 2015年5月25日，Dolphin成功将代码从“GPLv2”重新授权为“GPLv2+”许可，改进了与其他[自由及开放源代码软件项目的](../Page/自由及开放源代码软件.md "wikilink")[许可证兼容性](../Page/许可证兼容性.md "wikilink")，以便共享交换代码。\[31\]
 

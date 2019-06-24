@@ -29,7 +29,7 @@ Musopen网站采用类似于商业内容提供者的经营模式，即一部分�
     多音轨高保真WAV格式\]（不適用於最終用戶）
 
 [Category:音樂網站](https://zh.wikipedia.org/wiki/Category:音樂網站 "wikilink")
-[Category:公有領域音樂](https://zh.wikipedia.org/wiki/Category:公有領域音樂 "wikilink")
+[Category:公有领域音乐数据库](https://zh.wikipedia.org/wiki/Category:公有领域音乐数据库 "wikilink")
 [Category:Kickstarter計劃](https://zh.wikipedia.org/wiki/Category:Kickstarter計劃 "wikilink")
 
 1.  [Raising Money To Put Famous Classical Music Recordings Into The

@@ -111,7 +111,9 @@ zone，於2011年結成。
   - 6月13日，第16張單曲《[F.L.Y. BOYS F.L.Y.
     GIRLS](https://zh.wikipedia.org/wiki/F.L.Y._BOYS_F.L.Y._GIRLS "wikilink")》發行。
   - 10月31日，第17張單曲《[少年](https://zh.wikipedia.org/wiki/少年 "wikilink")》發行。
-  - 12月19日，數位單曲《G-ENERGY》發行。
+  - 12月19日，數字單曲《G-ENERGY》發行。
+
+### 2019年: BETTLE OF TOKYO、少年chronic
 
 ## 成員
 

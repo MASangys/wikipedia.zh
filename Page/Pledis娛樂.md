@@ -32,8 +32,11 @@ Record娱乐，正式接管[IZ\*ONE和](../Page/IZ*ONE.md "wikilink")[fromis_9�
 <!-- end list -->
 
   - [Raina](https://zh.wikipedia.org/wiki/吳慧潾 "wikilink")
+  - [NaNa](https://zh.wikipedia.org/wiki/林珍兒 "wikilink")
+  - [E-Young](https://zh.wikipedia.org/wiki/盧俐英 "wikilink")
+  - [李佳恩](https://zh.wikipedia.org/wiki/李佳恩 "wikilink")
   - [周潔瓊](../Page/周潔瓊.md "wikilink")
-  - Yehana
+  - 金譽媛
   - 裵成嬿
 
 ### 組合
@@ -115,20 +118,6 @@ Record娱乐，正式接管[IZ\*ONE和](../Page/IZ*ONE.md "wikilink")[fromis_9�
 
 ## 練習生
 
-  - 男
-
-<!-- end list -->
-
-  - 陳柏凱（[青春有你](../Page/青春有你.md "wikilink")）
-
-<!-- end list -->
-
-  - 女
-
-<!-- end list -->
-
-  - 許胤珍（[PRODUCE 48](../Page/PRODUCE_48.md "wikilink")）
-
 ## 昔日練習生
 
   - 男
@@ -139,8 +128,9 @@ Record娱乐，正式接管[IZ\*ONE和](../Page/IZ*ONE.md "wikilink")[fromis_9�
   - [張道允](https://zh.wikipedia.org/wiki/張道允_\(韓國\) "wikilink")（演員）
   - [Samuel](https://zh.wikipedia.org/wiki/金Samuel "wikilink")（SOLO）
   - [申東振](https://zh.wikipedia.org/wiki/申東振 "wikilink")
-  - [姚明明](https://zh.wikipedia.org/wiki/姚明明 "wikilink")（[UNINE](https://zh.wikipedia.org/wiki/UNINE "wikilink")）
+  - [姚明明](https://zh.wikipedia.org/wiki/姚明明 "wikilink")（[UNINE](../Page/UNINE.md "wikilink")）
   - [吕焕雄](https://zh.wikipedia.org/wiki/吕焕雄 "wikilink")（[ONEUS](https://zh.wikipedia.org/wiki/ONEUS "wikilink")）
+  - Aaron Bell
 
 <!-- end list -->
 

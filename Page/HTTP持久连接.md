@@ -1,6 +1,4 @@
-**HTTP持久连接**（**HTTP persistent connection**，也称作**HTTP
-keep-alive**或**HTTP connection
-reuse**）是使用同一个[TCP连接来发送和接收多个HTTP请求](../Page/传输控制协议.md "wikilink")/应答，而不是为每一个新的请求/应答打开新的连接的方法。
+**HTTP持久连接**（，也称作或）是使用同一个[TCP连接来发送和接收多个HTTP请求](../Page/传输控制协议.md "wikilink")/应答，而不是为每一个新的请求/应答打开新的连接的方法。
 
 ## 操作
 

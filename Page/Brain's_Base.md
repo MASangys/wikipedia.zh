@@ -421,7 +421,7 @@ Vision**」。
 <td></td>
 </tr>
 <tr class="even">
-<td><p>未定</p></td>
+<td><p>2020年</p></td>
 <td><p><a href="../Page/虛構推理.md" title="wikilink">虛構推理</a></p></td>
 <td></td>
 <td><p>漫畫</p></td>

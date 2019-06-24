@@ -1,7 +1,5 @@
 也作《醉拳3》，是1994年首映的一部[香港](../Page/香港.md "wikilink")[喜剧](https://zh.wikipedia.org/wiki/喜剧 "wikilink")[动作片](https://zh.wikipedia.org/wiki/动作片 "wikilink")，由[劉家良執導](https://zh.wikipedia.org/wiki/劉家良 "wikilink")，[李嘉欣](../Page/李嘉欣.md "wikilink")、[季天笙](https://zh.wikipedia.org/wiki/季天笙 "wikilink")、[鄭少秋](../Page/鄭少秋.md "wikilink")、[劉德華](../Page/劉德華.md "wikilink")、[任達華及劉家良等人共同演出](../Page/任達華.md "wikilink")。
 
-## 剧情简介
-
 ## 演员表
 
 |                                                     |                                                     |

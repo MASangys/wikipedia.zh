@@ -48,7 +48,7 @@ B級系列是於2005年3月推出。
 
 ## 外部連結
 
-  - [平治香港官方網站](http://www.mercedes-benz.com.hk/content/hongkong/mpc/mpc_hongkong_website/zh/home_mpc/passengercars/home/new_cars/models/b-class/w246.flash.html)
+  - [平治香港官方網站](https://web.archive.org/web/20120615155815/http://www.mercedes-benz.com.hk/content/hongkong/mpc/mpc_hongkong_website/zh/home_mpc/passengercars/home/new_cars/models/b-class/w246.flash.html)
 
 [Category:梅賽德斯-賓士車輛](https://zh.wikipedia.org/wiki/Category:梅賽德斯-賓士車輛 "wikilink")
 [Category:緊湊型轎車](https://zh.wikipedia.org/wiki/Category:緊湊型轎車 "wikilink")

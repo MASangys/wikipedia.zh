@@ -40,7 +40,7 @@
   - 韓國男子團體[BIGBANG](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")《**MADE
     SERIES**》單曲中的《**[M](../Page/M_\(BIGBANG單曲\).md "wikilink")**》
   - 日本女歌手[濱崎步的單曲](../Page/濱崎步.md "wikilink")《**[M](../Page/M_\(濱崎步單曲\).md "wikilink")**》
-  - [詹姆斯·邦德系列电影中的](https://zh.wikipedia.org/wiki/詹姆斯·邦德系列电影 "wikilink")[M](https://zh.wikipedia.org/wiki/M_\(詹姆斯·邦德\) "wikilink")
+  - [詹姆斯·邦德系列电影中的](https://zh.wikipedia.org/wiki/詹姆斯·邦德系列电影 "wikilink")[M](../Page/M_\(詹姆斯·邦德\).md "wikilink")
 
 [ca:M\#Significats de la
 M](https://zh.wikipedia.org/wiki/ca:M#Significats_de_la_M "wikilink")

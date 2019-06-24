@@ -1,4 +1,4 @@
-**Mozilla公司**（，縮寫：**MoCo**）成立於2005年8月3日，由非營利組織[Mozilla基金會所設立的全資子公司](../Page/Mozilla基金會.md "wikilink")，它將會專注把[Firefox和](../Page/Firefox.md "wikilink")[Thunderbird帶到](https://zh.wikipedia.org/wiki/Thunderbird "wikilink")[終端用戶](https://zh.wikipedia.org/wiki/終端用戶 "wikilink")，和監督產品的推廣和資助。Mozilla公司所獲得的利潤將全數投入到Mozilla基金會\[1\]。Mozilla公司宣稱的目標是努力實現Mozilla基金會的公共利益，以“促進互聯網上的選擇權和創新”\[2\]。
+**Mozilla公司**（，縮寫：**MoCo**）成立於2005年8月3日，由非營利組織[Mozilla基金會所設立的全資子公司](../Page/Mozilla基金會.md "wikilink")，負責[Firefox和](../Page/Firefox.md "wikilink")[Thunderbird的推廣和運作](https://zh.wikipedia.org/wiki/Thunderbird "wikilink")。Mozilla公司所獲得的利潤將全數投入到Mozilla基金會\[1\]。Mozilla公司宣稱的目標是努力實現Mozilla基金會的公共利益，以“促進互聯網上的選擇權和創新”\[2\]。
 
 正如一文所述：
 

@@ -469,7 +469,7 @@
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p>2019年7月 - 2019年9月</p></td>
+<td style="text-align: center;"><p>2019年7月22日 - 2019年9月</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/十八的瞬間" title="wikilink">十八的瞬間</a><br />
 </p></td>
 <td style="text-align: center;"><p>16</p></td>

@@ -1,5 +1,5 @@
 **Redis**是一个使用[ANSI
-C编写的](../Page/ANSI_C.md "wikilink")[开源](https://zh.wikipedia.org/wiki/开源 "wikilink")、支持[网络](https://zh.wikipedia.org/wiki/电脑网络 "wikilink")、基于[内存](https://zh.wikipedia.org/wiki/内存 "wikilink")、可选的。从2015年6月开始，Redis的开发由赞助，而2013年5月至2015年6月期间，其开发由[Pivotal赞助](../Page/Pivotal.md "wikilink")。\[1\]在2013年5月之前，其开发由[VMware赞助](../Page/VMware.md "wikilink")。\[2\]\[3\]根据月度排行网站DB-Engines.com的数据，Redis是最流行的键值对存储数据库。\[4\]
+C编写的](../Page/ANSI_C.md "wikilink")[开源](https://zh.wikipedia.org/wiki/开源 "wikilink")、支持[网络](https://zh.wikipedia.org/wiki/电脑网络 "wikilink")、基于[内存](https://zh.wikipedia.org/wiki/内存 "wikilink")、可选的[键值对存储数据库](https://zh.wikipedia.org/wiki/键值-值数据库 "wikilink")。从2015年6月开始，Redis的开发由赞助，而2013年5月至2015年6月期间，其开发由[Pivotal赞助](../Page/Pivotal.md "wikilink")。\[1\]在2013年5月之前，其开发由[VMware赞助](../Page/VMware.md "wikilink")。\[2\]\[3\]根据月度排行网站DB-Engines.com的数据，Redis是最流行的键值对存储数据库。\[4\]
 
 ## 支持语言
 

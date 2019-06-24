@@ -1,5 +1,5 @@
 《**模型戰士鋼彈模型製作家
-起始G**》（）2010年為GUNDAM模型30周年記念的[日本](../Page/日本.md "wikilink")[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")，共3部。
+起始G**》（）2010年為GUNDAM模型30周年記念的[日本](../Page/日本.md "wikilink")[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")，共3集。
 
 ## 概要
 

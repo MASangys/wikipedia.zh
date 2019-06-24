@@ -5,7 +5,7 @@
 ### 三立財經台
 
   - 2011年5月3日，**三立財經台**開播，部分時段與[三立新聞台同步播出](../Page/三立新聞台.md "wikilink")（《0900整點新聞》、《[早安新鮮聞](https://zh.wikipedia.org/wiki/早安新鮮聞 "wikilink")》、《[1600
-    iNEWS](https://zh.wikipedia.org/wiki/1600_iNEWS "wikilink")》、《[台灣大頭條](https://zh.wikipedia.org/wiki/台灣大頭條 "wikilink")》）。。
+    iNEWS](https://zh.wikipedia.org/wiki/1600_iNEWS "wikilink")》、《[台灣大頭條](../Page/台灣大頭條.md "wikilink")》）。。
   - 2012年6月1日中午12點，三立財經台與[創意頻道](https://zh.wikipedia.org/wiki/創意頻道 "wikilink")（今[三立綜合台](../Page/三立綜合台.md "wikilink")）在[中華電信MOD上架](../Page/中華電信MOD.md "wikilink")，三立財經台定頻於第54頻道，創意頻道定頻於第85頻道，兩者都是付費高畫質頻道，此為三立電視首度加入中華電信MOD。\[1\]
   - 2013年1月1日凌晨0點，三立財經台於[凱擘和](../Page/凱擘公司.md "wikilink")[台灣固網系統定頻於第](../Page/台灣固網.md "wikilink")88頻道播出。
   - 2013年6月5日凌晨0點，三立財經台於[中嘉網路系統定頻於第](../Page/中嘉網路.md "wikilink")88頻道播出。
@@ -19,26 +19,20 @@
 
 ### 三立iNEWS
 
-  - 2017年6月26日18:00，**三立財經新聞台**正式更名為《**SETiNEWS**》，SETiNEWS將是全新不一樣的財經新聞台，但仍以財經為主，內容將用最新的新媒體科技，並用貼近年輕人的方式及語言來介紹財經。
-
-部分時段則會與[三立新聞台同步播出](../Page/三立新聞台.md "wikilink")（平日**1600
-iNEWS**、**新聞夜現場**、假日0700/0800**早安新鮮聞**、假日1200**正午新聞**、1300**午新聞**、**新聞夜現場**）\[5\]。
-
+  - 2017年6月26日18:00，**三立財經新聞台**更名為《**SETiNEWS**》。部分時段則會與[三立新聞台同步播出](../Page/三立新聞台.md "wikilink")。
   - 2017年8月中旬起 假日新聞 最下方
     [跑馬燈](https://zh.wikipedia.org/wiki/新聞跑馬燈 "wikilink")
     與[三立新聞台相同](../Page/三立新聞台.md "wikilink")
-
-<!-- end list -->
-
-  - 2017年12月5日於iNEWS晚報起\[6\]，啟用全新百萬攝影棚並擁有全台最大直立式大電視牆。\[7\] \[8\]
-  - 2018年1月**三立iNEWS**大改版，另外[鄭弘儀將正式回歸](../Page/鄭弘儀.md "wikilink")，新節目《[鄭知道了](../Page/鄭知道了.md "wikilink")》於2018年1月22日開播。
-  - 2018年1月10日，《**iNEWS錢進大頭條**》、《**iNEWS大世界**》和《**iNEWS最政新聞**》更換新聞片頭。
-  - 2018年1月22日，週一至週五22:00-24:00時段異動，停播[林楚茵的](https://zh.wikipedia.org/wiki/林楚茵 "wikilink")《iNEWS夜報》，改播[鄭弘儀主持的](../Page/鄭弘儀.md "wikilink")《[鄭知道了](../Page/鄭知道了.md "wikilink")》。
+  - 2017年12月5日於iNEWS晚報起\[5\]，啟用全新百萬攝影棚並擁有全台最大直立式大電視牆。\[6\] \[7\]
+  - 2018年1月三立iNEWS改版，[鄭弘儀回歸](../Page/鄭弘儀.md "wikilink")，節目《[鄭知道了](../Page/鄭知道了.md "wikilink")》於2018年1月22日開播。
+  - 2018年1月10日，《iNEWS錢進大頭條》、《iNEWS大世界》和《iNEWS最政新聞》更換新聞片頭。
+  - 2018年1月22日，停播[林楚茵的](https://zh.wikipedia.org/wiki/林楚茵 "wikilink")《iNEWS夜報》，改播[鄭弘儀主持的](../Page/鄭弘儀.md "wikilink")《[鄭知道了](../Page/鄭知道了.md "wikilink")》。
   - 2018年3月1日，[台灣大寬頻](../Page/台灣固網.md "wikilink")、[凱擘大寬頻升級高畫質播出](https://zh.wikipedia.org/wiki/凱擘大寬頻 "wikilink")。
-  - 2018年5月12日，週末21:00-23:00時段異動，停播《iStar全球新勢力》、《台灣亮起來》、《新聞深一度》、《360大世界》，改播《[鄭知道了](../Page/鄭知道了.md "wikilink")》。
-  - 2018年12月24日，平日17:00-18:00時段異動，停播《iNEWS錢進大頭條》，改播《[iNEWS17NOW新聞](https://zh.wikipedia.org/wiki/iNEWS17NOW新聞 "wikilink")》
-  - 2019年1月21日，平日21:00-22:00時段異動，停播《[iNEWS最政新聞](https://zh.wikipedia.org/wiki/iNEWS最政新聞 "wikilink")》，改播《[iNEWS21知識線](https://zh.wikipedia.org/wiki/iNEWS21知識線 "wikilink")》
-  - 2019年1月25日起，每週五晚間九點半至十點推出『全民金融通』（目前已停播）。
+  - 2018年5月12日，停播《iStar全球新勢力》、《台灣亮起來》、《新聞深一度》、《360大世界》，改播《[鄭知道了](../Page/鄭知道了.md "wikilink")》。
+  - 2018年12月24日，停播《iNEWS錢進大頭條》，改播《[iNEWS17NOW新聞](https://zh.wikipedia.org/wiki/iNEWS17NOW新聞 "wikilink")》
+  - 2019年1月21日，停播《[iNEWS最政新聞](https://zh.wikipedia.org/wiki/iNEWS最政新聞 "wikilink")》，改播《[iNEWS21知識線](https://zh.wikipedia.org/wiki/iNEWS21知識線 "wikilink")》
+  - 2019年1月25日起，推出『全民金融通』（已停播）。
+  - 2019年6月2日起，推出『爆賺公社』。
 
 ## 三立iNEWS主播群
 
@@ -64,8 +58,8 @@ iNEWS**、**新聞夜現場**、假日0700/0800**早安新鮮聞**、假日1200*
 (<a href="https://zh.wikipedia.org/wiki/我們一家人" title="wikilink">我們一家人</a>)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/苑曉琬" title="wikilink">苑曉琬</a><br />
-(<a href="https://zh.wikipedia.org/wiki/薪動大未來" title="wikilink">薪動大未來</a>)</p></td>
+<td><p><a href="../Page/解婕翎.md" title="wikilink">解婕翎</a>、<a href="https://zh.wikipedia.org/wiki/小周師" title="wikilink">小周師</a><br />
+(<a href="https://zh.wikipedia.org/wiki/爆賺公社" title="wikilink">爆賺公社</a>)</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -174,9 +168,8 @@ audio1 = | audio2 = | audio3 = }}
 2.  [VeeTIME大台中數位有線電視官方網站](http://www.veetime.com/page2.aspx?c=42)
 3.
 4.
-5.  若遇到颱風、地震等突發重大事件，**三立iNEWS**的部分節目則會暫停播出，改播[三立新聞台整點新聞](../Page/三立新聞台.md "wikilink")
-6.  下午四點先於[三立新聞Facebook直播](https://zh.wikipedia.org/wiki/三立新聞 "wikilink")
-7.  [Dear 大家，千呼萬喚始出來，我們
+5.  下午四點先於[三立新聞Facebook直播](https://zh.wikipedia.org/wiki/三立新聞 "wikilink")
+6.  [Dear 大家，千呼萬喚始出來，我們
     iNEWS的新棚今天終於要登場啦！！！(將將將將](https://www.facebook.com/permalink.php?story_fbid=264443054081440&id=193541957838217)三立
     INEWS 主播 李文儀 Facebook.2017-12-04
-8.  [獨家直擊！三立全新百萬棚景](https://www.facebook.com/setnews/videos/1618219511595964/).三立新聞Facebook.2017-12-05
+7.  [獨家直擊！三立全新百萬棚景](https://www.facebook.com/setnews/videos/1618219511595964/).三立新聞Facebook.2017-12-05

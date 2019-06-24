@@ -7,17 +7,9 @@ JIRA是一个商业软件，按照活动用户数进行授权，价格随活动�
 
 ## 历史
 
-  - JIRA 3:
-      - 3.0, released 24 August, 2004\[2\]
-      - 3.13, released 9 September 2008\[3\]
-  - JIRA 4:
-      - 4.0, released 6 October, 2009\[4\]
-      - 4.1, released 7 April, 2010
-      - 4.2, released 21 October, 2010\[5\]
-      - 4.3, released 16 March, 2011\[6\]
-      - 4.4, released 2 August, 2011\[7\]
-  - JIRA 5:
-      - 5.0, released 23 Feb, 2012\[8\]
+\[2\] |row2=3.13{{\!\!}}\[3\] |row3=4.0{{\!\!}}\[4\] |row4=4.1{{\!\!}}
+|row5=4.2{{\!\!}}\[5\] |row6=4.3{{\!\!}}\[6\] |row7=4.4{{\!\!}}\[7\]
+|row8=5.0{{\!\!}}\[8\] }}
 
 ## 架构
 
@@ -63,11 +55,7 @@ XFire](https://zh.wikipedia.org/wiki/Codehaus_XFire "wikilink")\[18\]和
 
 ## 安全性
 
-In April 2010 an [XSS
-vulnerability](https://zh.wikipedia.org/wiki/Cross-site_scripting "wikilink")
-in JIRA was the stepping stone to the compromise of key [Apache Software
-Foundation](https://zh.wikipedia.org/wiki/Apache_Software_Foundation "wikilink")
-servers.\[22\]
+在2010年4月，一個JIRA的[XXS漏洞成為了存取關鍵的](../Page/跨網站指令碼.md "wikilink")[Apache軟體基金會](https://zh.wikipedia.org/wiki/Apache軟體基金會 "wikilink")[伺服器替代方案的跳板](https://zh.wikipedia.org/wiki/伺服器 "wikilink")。\[22\]
 
 ## 参考文献
 
@@ -75,10 +63,10 @@ servers.\[22\]
 
   - [Atlassian
     Seraph](https://zh.wikipedia.org/wiki/Atlassian_Seraph "wikilink")
-  - [Comparison of issue tracking
-    systems](https://zh.wikipedia.org/wiki/Comparison_of_issue_tracking_systems "wikilink")
-  - [Confluence](https://zh.wikipedia.org/wiki/:en:Confluence_\(software\) "wikilink")
 
+  - [事務跟蹤管理系統的](https://zh.wikipedia.org/wiki/事務跟蹤管理系統 "wikilink")
+
+  -
 {{-}}
 
 [Category:程序设计工具](https://zh.wikipedia.org/wiki/Category:程序设计工具 "wikilink")

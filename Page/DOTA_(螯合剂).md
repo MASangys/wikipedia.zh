@@ -6,8 +6,7 @@
 
 多种衍生物已为人所知，例如DOTATOC和DOTATATE。
 
-[File:DOTATOC.png|DOTATOC是由DOTA取代一个羧基得到的](File:DOTATOC.png%7CDOTATOC是由DOTA取代一个羧基得到的)。
-[File:90Y-DOTATOC.png|DOTATOC用于和](File:90Y-DOTATOC.png%7CDOTATOC用于和)[钇-90形成螯合物](https://zh.wikipedia.org/wiki/钇-90 "wikilink")。
+[File:Edotreotide.svg|DOTATOC是由DOTA取代一个羧基得到的](File:Edotreotide.svg%7CDOTATOC是由DOTA取代一个羧基得到的)。
 
 ## 参考资料
 

@@ -4,7 +4,7 @@ Wonder**是2005年7月10日创立的[网络社区](../Page/网络社区.md "wiki
 其前身是2003年创办的[博德之门专题站](../Page/博德之门.md "wikilink")——骷髅柱\[1\]。
 
 该社区讨论一切与[奇幻有关的内容](https://zh.wikipedia.org/wiki/奇幻 "wikilink")，从[游戏到](../Page/游戏.md "wikilink")[文化](../Page/文化.md "wikilink")，都有涉及，话题基于但不限于以下内容：
-[Bioware公司出品的](https://zh.wikipedia.org/wiki/Bioware "wikilink")[CRPG与](../Page/电脑游戏.md "wikilink")[威世智公司出品的](https://zh.wikipedia.org/wiki/威世智 "wikilink")[TRPG](https://zh.wikipedia.org/wiki/桌上角色扮演游戏 "wikilink")、[白狼公司出品的](../Page/White_Wolf.md "wikilink")[黑暗世界](../Page/黑暗世界.md "wikilink")，及[洛夫克拉夫特创作的](https://zh.wikipedia.org/wiki/霍华德·菲利普·洛夫克拉夫特 "wikilink")[克苏鲁神话等](https://zh.wikipedia.org/wiki/克苏鲁神话 "wikilink")。
+[Bioware公司出品的](https://zh.wikipedia.org/wiki/Bioware "wikilink")[CRPG与](../Page/电脑游戏.md "wikilink")[威世智公司出品的](../Page/威世智.md "wikilink")[TRPG](https://zh.wikipedia.org/wiki/桌上角色扮演游戏 "wikilink")、[白狼公司出品的](../Page/White_Wolf.md "wikilink")[黑暗世界](../Page/黑暗世界.md "wikilink")，及[洛夫克拉夫特创作的](https://zh.wikipedia.org/wiki/霍华德·菲利普·洛夫克拉夫特 "wikilink")[克苏鲁神话等](https://zh.wikipedia.org/wiki/克苏鲁神话 "wikilink")。
 [论坛遵循](https://zh.wikipedia.org/wiki/论坛 "wikilink")“宁缺毋滥”的严格管理方针，彻底否定时下流行的[灌水](https://zh.wikipedia.org/wiki/灌水 "wikilink")、版聊风气，亦不接受任何[政治与](../Page/政治.md "wikilink")[色情话题](../Page/色情.md "wikilink")。
 2006年7月开设了以[无冬之夜2为主要内容的维基](https://zh.wikipedia.org/wiki/无冬之夜 "wikilink")。当初使用的是[MediaWiki系统](../Page/MediaWiki.md "wikilink")，后因[服务器变更](../Page/服务器.md "wikilink")，导致[数据库出错](../Page/数据库.md "wikilink")，而改为不需要数据库支持的[DokuWiki系统](../Page/DokuWiki.md "wikilink")。
 2007年1月，论坛注册用户超过了10000名。2014年6月底，论坛注册用户超过了60000名。

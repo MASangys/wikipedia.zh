@@ -7,7 +7,6 @@ Cha》**是[葉蒨文第三張粵語專輯](../Page/葉蒨文.md "wikilink")，�
 
   - 我要活下去
   - Cha Cha Cha
-  - 阿信的故事
 
 [Category:葉蒨文音樂專輯](https://zh.wikipedia.org/wiki/Category:葉蒨文音樂專輯 "wikilink")
 [Category:1986年音樂專輯](https://zh.wikipedia.org/wiki/Category:1986年音樂專輯 "wikilink")

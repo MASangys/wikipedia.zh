@@ -21,7 +21,7 @@ SAW雖然具有可便攜性和高火力容量，它在該用途上卻較為沉�
 2005年7月14日，步兵自動步槍計劃正式開始，而當時的海軍陸戰隊亦試圖從生產商尋求信息。\[7\]。所尋求的武器目標包括：便攜性和可操作性；減少敵人對於自動武器的視覺識別性；加強反叛亂的情況下機槍手的參與；和保持高火力容積。而對於最少具有100發容量的彈匣（或供彈具）的初始要求則被取消並且被普遍贊成以30發[STANAG彈匣取代](../Page/STANAG彈匣.md "wikilink")，因為在測試開始時，可使用的100發容量彈匣（或供彈具）都是不可靠的。它必須是使用5.56×45毫米[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")，而且不使用[彈鏈供彈](../Page/彈鏈.md "wikilink")，以實現與[制式步槍之間的供用性](../Page/各國軍隊制式步槍列表.md "wikilink")。\[8\]\[9\]
 
 2006年，向[FN](https://zh.wikipedia.org/wiki/Fabrique_Nationale "wikilink")（推出一種[FN
-SCAR-L的IAR](../Page/FN_SCAR突擊步槍.md "wikilink")[衍生型](https://zh.wikipedia.org/wiki/FN_SCAR突擊步槍#FN_IAR "wikilink")，會自動地以溫度來調整[閉鎖](https://zh.wikipedia.org/wiki/閉鎖式槍機 "wikilink")／[開放式槍機兩種的槍機操作模式](../Page/開放式槍機.md "wikilink")）、[黑克勒-科赫](../Page/黑克勒&科赫.md "wikilink")（推出一種[HK416的IAR](../Page/HK416突擊步槍.md "wikilink")[衍生型](https://zh.wikipedia.org/wiki/HK416突擊步槍#衍生型 "wikilink")，是16.5英吋重槍管[自动步枪版本](../Page/自动步枪.md "wikilink")）和[柯爾特](../Page/塞缪尔·柯尔特.md "wikilink")[防務公司](https://zh.wikipedia.org/wiki/柯爾特防務公司 "wikilink")（推出了兩種相互競爭的設計）批出其樣槍的合同。其他企圖加入競標測試的公司，包括：[陸戰資源公司](https://zh.wikipedia.org/wiki/陸戰資源公司 "wikilink")（，推出一種[M6的IAR衍生型](../Page/LWRC_M6突擊步槍.md "wikilink")：[M6A4
+SCAR-L的IAR](../Page/FN_SCAR突擊步槍.md "wikilink")[衍生型](https://zh.wikipedia.org/wiki/FN_SCAR突擊步槍#FN_IAR "wikilink")，會自動地以溫度來調整[閉鎖](https://zh.wikipedia.org/wiki/閉鎖式槍栓 "wikilink")／[開放式槍栓兩種的槍機操作模式](../Page/開放式槍栓.md "wikilink")）、[黑克勒-科赫](../Page/黑克勒&科赫.md "wikilink")（推出一種[HK416的IAR](../Page/HK416突擊步槍.md "wikilink")[衍生型](https://zh.wikipedia.org/wiki/HK416突擊步槍#衍生型 "wikilink")，是16.5英吋重槍管[自动步枪版本](../Page/自动步枪.md "wikilink")）和[柯爾特](../Page/塞缪尔·柯尔特.md "wikilink")[防務公司](https://zh.wikipedia.org/wiki/柯爾特防務公司 "wikilink")（推出了兩種相互競爭的設計）批出其樣槍的合同。其他企圖加入競標測試的公司，包括：[陸戰資源公司](https://zh.wikipedia.org/wiki/陸戰資源公司 "wikilink")（，推出一種[M6的IAR衍生型](../Page/LWRC_M6突擊步槍.md "wikilink")：[M6A4
 IAR](https://zh.wikipedia.org/wiki/LWRC_M6突擊步槍#M6A4 "wikilink")）\[10\]\[11\]、[愛國者軍械廠](https://zh.wikipedia.org/wiki/愛國者軍械廠 "wikilink")（）\[12\]和[通用動力武器與技術產品公司](../Page/通用动力.md "wikilink")（）為（，簡稱：ST
 Kinetics）代理[Ultimax 100 Mk
 5](https://zh.wikipedia.org/wiki/Ultimax_100輕機槍#改進型 "wikilink")（並命名為GDATP
@@ -157,8 +157,8 @@ IAR的為沿用自[HK416上自行設計的手槍握把](../Page/HK416突擊步�
 
 ### 供彈方式
 
-M27 IAR的供彈具與AR-15／M16系列步槍一樣，為[STANAG
-4179標準的](../Page/STANAG彈匣.md "wikilink")30發[彈匣](../Page/彈匣.md "wikilink")（即是M16突擊步槍的彈匣）。[彈匣插座口部帶有裙邊](https://zh.wikipedia.org/wiki/彈匣插座 "wikilink")，讓彈匣更容易插入武器，也為供彈具的後續改進留下更多發展空間。
+M27 IAR的供彈具與AR-15／M16系列步槍一樣，為[STANAG](../Page/标准化协议.md "wikilink")
+[4179標準的](../Page/STANAG彈匣.md "wikilink")30發[彈匣](../Page/彈匣.md "wikilink")（即是M16突擊步槍的彈匣）。[彈匣插座口部帶有裙邊](https://zh.wikipedia.org/wiki/彈匣插座 "wikilink")，讓彈匣更容易插入武器，也為供彈具的後續改進留下更多發展空間。
 
 M27 IAR可以使用任何STANAG
 4179標準的可拆卸式彈匣、100發可拆卸式[C-Mag](../Page/C-Mag彈鼓.md "wikilink")[彈鼓](https://zh.wikipedia.org/wiki/彈鼓 "wikilink")（尤其是預計將此槍當作一挺[轻机枪使用](../Page/轻机枪.md "wikilink")）甚至將來可能用上Armatac工業公司生產的150發可拆卸式[CL-Mag](https://zh.wikipedia.org/wiki/CL-Mag彈鼓 "wikilink")[彈鼓](https://zh.wikipedia.org/wiki/彈鼓 "wikilink")。\[39\]由於它的角色，50至100發之間的各式大容量供彈具都曾被探索。\[40\]M27已經成功使用Armatac
@@ -195,8 +195,8 @@ IAR在[機匣及自由浮動式](https://zh.wikipedia.org/wiki/機匣 "wikilink"
 
 [美国海军陆战队給M](../Page/美国海军陆战队.md "wikilink")27
 IAR使用的標準瞄準鏡是在2009年與[Trijicon公司簽約](https://zh.wikipedia.org/wiki/Trijicon公司 "wikilink")，原為[M249
-SAW使用的](../Page/M249班用自動武器.md "wikilink")**ACOG
-TA11SDO光學瞄準鏡**（SDO，全稱：，意為：班用日間瞄準鏡），美軍使用的正式編號是SU-258/PVQ。這是一種3.5×35毫米機槍用日間光學瞄準鏡，搭配裝在其頂部的[RMR
+SAW使用的](../Page/M249班用自動武器.md "wikilink")[ACOG
+TA11SDO光學瞄準鏡](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（SDO，全稱：，意為：班用日間瞄準鏡），美軍使用的正式編號是SU-258/PVQ。這是一種3.5×35毫米機槍用日間光學瞄準鏡，搭配裝在其頂部的[RMR
 RM05紅點鏡](https://zh.wikipedia.org/wiki/Trijicon_RMR小型紅點鏡 "wikilink")（RMR，全稱：，意為：加固型微型反射式瞄準鏡）所組成的光學瞄準組合。
 
 前者通過帶有雙卡箏扳動式拉魯（）戰術快拆式瞄準鏡座裝在[MIL-STD-1913戰術導軌上](../Page/皮卡汀尼導軌.md "wikilink")，在目鏡口和物鏡口上都裝上了翻起式保護蓋子，並在物鏡口上裝上了蜂巢式防反光網罩（，簡稱：ARD）。而由於本來是為M249

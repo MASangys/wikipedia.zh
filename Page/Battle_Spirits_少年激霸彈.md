@@ -4,7 +4,7 @@
 ## 作品概要
 
 《[Battle Spirits
-少年突破馬神](../Page/Battle_Spirits_少年突破馬神.md "wikilink")》的後繼作品，不過，本篇作品的背景及人物等均為重新設計，而且本作的KEY
+少年突破馬神](../Page/Battle_Spirits_少年突破馬神.md "wikilink")》之後的作品，不過，本篇作品的背景及人物等均為重新設計，所以跟少年突破馬神沒有關係。而且本作的KEY
 SPIRITS不再是X稀有卡，而是稀有度為M的卡（MASTER
 RARE）。前作是採用4:3[播放比例](../Page/長寬比_\(影像\).md "wikilink")。
 

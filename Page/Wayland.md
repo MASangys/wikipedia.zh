@@ -24,8 +24,8 @@ Server开发者](../Page/X.Org_Server.md "wikilink")，曾参与过和的开发�
 group邮件组](https://zh.wikipedia.org/wiki/Google_group "wikilink")，用于讨论项目的开发。
 
 Wayland是[自由软件](../Page/自由软件.md "wikilink")，它的库(libwayland-server和libwayland-client)以[MIT
-License授权](https://zh.wikipedia.org/wiki/MIT_License "wikilink")，示例程序和Compositor一开始以GPLv2授权。现在整个Project都是以[MIT
-License授权的了](https://zh.wikipedia.org/wiki/MIT_License "wikilink")。直到2010年11月份，Wayland还仅仅只能在[Intel](https://zh.wikipedia.org/wiki/Intel "wikilink")、[Nvidia和](https://zh.wikipedia.org/wiki/Nvidia "wikilink")[AMD的开源驱动上运行](https://zh.wikipedia.org/wiki/AMD "wikilink")。
+License授权](https://zh.wikipedia.org/wiki/MIT_License "wikilink")，示例程序和Compositor一开始以GPLv2授权。现在整个项目都是以[MIT
+License授权](https://zh.wikipedia.org/wiki/MIT_License "wikilink")。直到2010年11月份，Wayland还仅仅只能在[Intel](https://zh.wikipedia.org/wiki/Intel "wikilink")、[Nvidia和](https://zh.wikipedia.org/wiki/Nvidia "wikilink")[AMD的开源驱动上运行](https://zh.wikipedia.org/wiki/AMD "wikilink")。
 
 ## 设计
 
@@ -90,7 +90,7 @@ Shell崩潰的可恢復性更換為X.Org Server。\[13\]\[14\]
 ### Fedora
 
 [Fedora](../Page/Fedora.md "wikilink") 25整合了​GNOME桌​面​最​新​版​本​
-3.22，并将GNOME桌面的版本的显示后端切换至预设为**Wayland**。
+3.22，并将GNOME桌面的版本的显示后端切换至预设为Wayland。
 
 ### Qt
 

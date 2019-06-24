@@ -2252,7 +2252,7 @@
 2019年</p></td>
 <td style="text-align: center;"><p><a href="../Page/春夜.md" title="wikilink">春夜</a><br />
 </p></td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;"><p>32</p></td>
 <td style="text-align: center;"><p><a href="../Page/丁海寅.md" title="wikilink">丁海寅</a>、<a href="../Page/韓志旼.md" title="wikilink">韓志旼</a>、<a href="https://zh.wikipedia.org/wiki/金準韓" title="wikilink">金準韓</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/安畔錫.md" title="wikilink">安畔錫</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金恩" title="wikilink">金恩</a></p></td>
@@ -2272,12 +2272,12 @@
 <tr class="odd">
 <td style="text-align: center;"><p>2019年9月－<br />
 2019年</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/偶然發現的七月" title="wikilink">偶然發現的七月</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/偶然發現的一天" title="wikilink">偶然發現的一天</a><br />
 </p></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金允惠" title="wikilink">金允惠</a>、<a href="https://zh.wikipedia.org/wiki/金路雲" title="wikilink">金路雲</a>、<a href="https://zh.wikipedia.org/wiki/李在旭" title="wikilink">李在旭</a>、<a href="https://zh.wikipedia.org/wiki/李娜恩" title="wikilink">李娜恩</a>、<a href="https://zh.wikipedia.org/wiki/鄭乾柱" title="wikilink">鄭乾柱</a>、<a href="../Page/李泰利.md" title="wikilink">李泰利</a>、<a href="https://zh.wikipedia.org/wiki/金永大" title="wikilink">金永大</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金尚葉" title="wikilink">金尚葉</a></p></td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/印智慧" title="wikilink">印智慧</a>、<a href="https://zh.wikipedia.org/wiki/宋荷英" title="wikilink">宋荷英</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
 </tbody>

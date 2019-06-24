@@ -93,9 +93,9 @@ Yolinda**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md 
 <tr class="odd">
 <td><p>10</p></td>
 <td><p>水長流</p></td>
-<td><p>佚名</p></td>
+<td><p>米山正夫</p></td>
 <td><p><a href="../Page/盧國沾.md" title="wikilink">盧國沾</a></p></td>
-<td><p>盧國沾</p></td>
+<td><p>卢东尼</p></td>
 <td><p>電影《<a href="../Page/四大探長_(電影).md" title="wikilink">四大探長</a>》主題曲</p></td>
 </tr>
 </tbody>

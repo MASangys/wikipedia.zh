@@ -5,7 +5,7 @@ Pay**是[Google的](../Page/Google.md "wikilink")[行動支付服務](../Page/�
 的單一行動支付服務(Pay with Google)。
 
 Google Wallet是Google較早發展的支付工具，可用於實體及網路消費付款以及個人之間的交易，後來推出了全球通行的Android
-Pay，則調整為個人間的收付、轉帳功能，而且綁定美國銀行帳戶而以美國市場為主。\[1\] Android Pay更名並重新命名為Google
+Pay，則調整為個人間的收付、轉帳功能，而且連結美國銀行帳戶而以美國市場為主。\[1\] Android Pay更名並重新命名為Google
 Pay。Google Pay將擁有Android Pay的所有功能，而Google Wallet功能（例如請求和發送資金）將出現在[Google
 Pay
 Send中](../Page/Google_Pay_Send.md "wikilink")，該功能目前是一個單獨的應用程序。\[2\]\[3\]

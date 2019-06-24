@@ -35,7 +35,7 @@ successor = [iPad
 (第三代)](https://zh.wikipedia.org/wiki/iPad_\(第三代\) "wikilink")
 | related = [IOS設備清單](https://zh.wikipedia.org/wiki/iOS设备列表 "wikilink")
 }}   **iPad
-2**是苹果公司[设计](https://zh.wikipedia.org/wiki/设计 "wikilink")[开发并](https://zh.wikipedia.org/wiki/开发 "wikilink")[销售的](https://zh.wikipedia.org/wiki/销售 "wikilink")[平板電腦](../Page/平板電腦.md "wikilink")，是一個视听媒体，图书、期刊、电影、音乐、游戏和网络内容的平台，大小和重量介于市面上的[智能手机和](../Page/智能手机.md "wikilink")[笔记本电脑之间](https://zh.wikipedia.org/wiki/笔记本电脑 "wikilink")。2011年3月2日上午10点（[PST](../Page/太平洋时区.md "wikilink")：18点），苹果公司在[耶尔巴布埃纳艺术中心](https://zh.wikipedia.org/wiki/耶尔巴布埃纳艺术中心 "wikilink")（Yerba
+2**是[苹果公司](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[设计](https://zh.wikipedia.org/wiki/设计 "wikilink")[开发并](https://zh.wikipedia.org/wiki/开发 "wikilink")[销售的](https://zh.wikipedia.org/wiki/销售 "wikilink")[平板電腦](../Page/平板電腦.md "wikilink")，是一個视听媒体，图书、期刊、电影、音乐、游戏和网络内容的平台，大小和重量介于市面上的[智能手机和](../Page/智能手机.md "wikilink")[笔记本电脑之间](https://zh.wikipedia.org/wiki/笔记本电脑 "wikilink")。2011年3月2日上午10点（[PST](../Page/太平洋时区.md "wikilink")：18点），苹果公司在[耶尔巴布埃纳艺术中心](https://zh.wikipedia.org/wiki/耶尔巴布埃纳艺术中心 "wikilink")（Yerba
 Buena Center for the
 Arts）发布了这款产品。\[3\]\[4\]\[5\]在iPad 2正式发布前，有许多媒体对它的功能有各种预测。\[6\]
 

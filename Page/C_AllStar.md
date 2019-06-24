@@ -1717,7 +1717,7 @@ C AllStar</strong></p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>2011年1月27，28日</p></td>
+<td><p>2011年1月27-28日</p></td>
 <td><center>
 <p><strong>側田 Around the World Tour 2011</strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/紅磡香港體育館" title="wikilink">紅磡香港體育館</a></p></td>
@@ -1752,7 +1752,7 @@ Y綜藝館</p></td>
 <td><p>/</p></td>
 </tr>
 <tr class="odd">
-<td><p>2014年9月12，13日</p></td>
+<td><p>2014年9月12-13日</p></td>
 <td><center>
 <p><strong>迪士尼90周年音樂會</strong></p></td>
 <td><p><a href="../Page/香港會議展覽中心.md" title="wikilink">香港會議展覽中心</a><br />
@@ -1878,6 +1878,24 @@ Y綜藝館</p></td>
 <td><p>十戒歌 (DJ King EDM Remix 版)</p></td>
 <td><p>釗峰缺席<br />
 第二場嘉賓</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年6月14-15日</p></td>
+<td><center>
+<p><strong>側田My Beautiful Curse演唱會2019</strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/紅磡香港體育館" title="wikilink">紅磡香港體育館</a></p></td>
+<td><p>活多一次</p></td>
+<td><p>King和釗峰為首場嘉賓，<br />
+On仔與Jase為尾場嘉賓</p></td>
+</tr>
+<tr class="odd">
+<td><p>2019年6月21-22日</p></td>
+<td><center>
+<p><strong>蘇永康ALL THAT JAZZ &amp; POP LIVE 2019</strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/紅磡香港體育館" title="wikilink">紅磡香港體育館</a></p></td>
+<td><p>關不掉的收音機、All That Jazz</p></td>
+<td><p>(<a href="../Page/吳崇銘.md" title="wikilink">King</a>)<br />
+負責現場打碟部分</p></td>
 </tr>
 </tbody>
 </table>
@@ -2136,7 +2154,7 @@ C AllStar</p></td>
 </tr>
 <tr class="odd">
 <td><p>2019</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/小Q" title="wikilink">小Q</a>[43]</strong></p></td>
+<td><p><strong><a href="../Page/小Q.md" title="wikilink">小Q</a>[43]</strong></p></td>
 <td><p><a href="../Page/吳崇銘.md" title="wikilink">吳崇銘</a>（客串）<br />
 <a href="../Page/梁釗峰.md" title="wikilink">梁釗峰</a>（客串）</p></td>
 <td><p>講述聰明伶俐的拉布拉多獵犬小Q從出生到訓練成為導盲犬，後遇上牠生命中唯一的主人中年失明、孤僻又壞脾氣的天才糕點師李寶庭，故事記錄著小Q與主人共同生活的一點一滴，並終其一生為主人服務。[44]</p></td>
@@ -2318,6 +2336,51 @@ in Concert 2014》<br />
 <td><p>4集</p></td>
 <td><p>主持</p></td>
 <td><p>C AllStar 休團前最後一個拍攝的旅遊節目</p></td>
+</tr>
+</tbody>
+</table>
+
+### 電台節目
+
+<table>
+<thead>
+<tr class="header">
+<th><p>首播日期</p></th>
+<th><p>節目名稱</p></th>
+<th><p>電台頻道</p></th>
+<th><p>角色</p></th>
+<th><p>節目類型</p></th>
+<th><p>播放時段</p></th>
+<th><p>備註</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2018年<br />
+3月3日</p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/:zh-yue:聽𠵱啲Music" title="wikilink">聽𠵱啲Music</a></strong><br />
+[54]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/商業電台" title="wikilink">商業電台</a><a href="../Page/叱咤903.md" title="wikilink">叱咤903</a></p></td>
+<td><p>主持，歌曲Remix，Live Set<br />
+'''(<a href="../Page/吳崇銘.md" title="wikilink">DJ King</a>)</p></td>
+<td><p>音樂(EDM)</p></td>
+<td><p>逢星期六<br />
+19:00-20:00</p></td>
+<td><p>拍檔為<strong><a href="../Page/唐劍康.md" title="wikilink">DJ Donald @ ILUB</a></strong></p>
+<hr>
+<p>由2019年5月18日起，由DJ King 獨自主持</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年5月6日</p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Good_Monday_平衡號" title="wikilink">Good Monday 平衡號</a></strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/新城知訊台" title="wikilink">新城知訊台</a></p></td>
+<td><p>主持<br />
+'''(<a href="../Page/陳健安.md" title="wikilink">陳健安</a>) '''</p></td>
+<td><p>音樂</p></td>
+<td><p>逢星期一<br />
+22:00-23:00</p></td>
+<td><p>5月專題節目，<br />
+一共四集</p></td>
 </tr>
 </tbody>
 </table>
@@ -2933,7 +2996,7 @@ K歌之王</p></td>
 <tr class="odd">
 <td><p>2014年</p></td>
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/大英雄聯盟" title="wikilink">大英雄聯盟</a><br />
-(Big Hero 6)[54]</strong></p></td>
+(Big Hero 6)[55]</strong></p></td>
 <td><p><strong><a href="../Page/吳崇銘.md" title="wikilink">吳崇銘</a>-濱田廣<br />
 <a href="../Page/梁釗峰.md" title="wikilink">梁釗峰</a>-醫神<br />
 <a href="../Page/陳健安.md" title="wikilink">陳健安</a>-費德<br />
@@ -2945,7 +3008,7 @@ K歌之王</p></td>
 <tr class="even">
 <td><p>2018年</p></td>
 <td><p>'''<a href="https://zh.wikipedia.org/wiki/臥底巨星" title="wikilink">臥底巨星</a><br />
-[55]</p></td>
+[56]</p></td>
 <td><p><strong><a href="../Page/梁釗峰.md" title="wikilink">梁釗峰</a>-鐵柱<br />
 (<a href="../Page/李榮浩.md" title="wikilink">李榮浩飾</a>)</strong></p></td>
 <td><p>動作喜劇</p></td>
@@ -2990,43 +3053,7 @@ King<br />
 <p><a href="https://zh.wikipedia.org/wiki/商業電台" title="wikilink">商業電台</a></p></td>
 <td><center>
 <p><strong><a href="../Page/譚詠麟.md" title="wikilink">譚詠麟</a></strong><br />
-入行40週年紀念廣播劇[56]</p></td>
-</tr>
-</tbody>
-</table>
-
-### 電台節目
-
-<table>
-<thead>
-<tr class="header">
-<th><p>首播年份</p></th>
-<th><p>節目名稱</p></th>
-<th><p>電台頻道</p></th>
-<th><p>角色</p></th>
-<th><p>類型</p></th>
-<th><p>備註</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>2018年</p></td>
-<td><p><strong>《<a href="https://zh.wikipedia.org/wiki/聽𠵱啲Music" title="wikilink">聽𠵱啲Music</a>》</strong><br />
-[57]</p></td>
-<td><p><a href="../Page/叱咤903.md" title="wikilink">叱咤903</a></p></td>
-<td><p>主持<br />
-'''(<a href="https://zh.wikipedia.org/wiki/DJ_King" title="wikilink">DJ King</a>) '''</p></td>
-<td><p>音樂(EDM)</p></td>
-<td><p>節目由<strong><a href="https://zh.wikipedia.org/wiki/DJ_King" title="wikilink">DJ King</a></strong>與<strong><a href="../Page/唐劍康.md" title="wikilink">DJ Donald</a></strong> 二人主持</p></td>
-</tr>
-<tr class="even">
-<td><p>2019年</p></td>
-<td><p><strong>《<a href="https://zh.wikipedia.org/wiki/Good_Monday_平衡號" title="wikilink">Good Monday 平衡號</a>》</strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/新城知訊台" title="wikilink">新城知訊台</a></p></td>
-<td><p>主持<br />
-'''(<a href="../Page/陳健安.md" title="wikilink">陳健安</a>) '''</p></td>
-<td><p>音樂</p></td>
-<td></td>
+入行40週年紀念廣播劇[57]</p></td>
 </tr>
 </tbody>
 </table>

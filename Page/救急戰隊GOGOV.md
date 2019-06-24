@@ -56,7 +56,7 @@ V**正式成軍。
 <tbody>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/西岡龍一朗" title="wikilink"><font color="White">西岡龍一朗</font></a></p></td>
-<td><p>巽纏Matoi Tatsumi</p></td>
+<td><p>巽纏</p></td>
 <td><p>長兄</p></td>
 <td><p>Go Red</p></td>
 <td><p>高岩成二</p></td>
@@ -84,7 +84,7 @@ V**正式成軍。
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/谷口賢志" title="wikilink"><font color="White">谷口賢志</font></a></p></td>
-<td><p>巽流水Nagare Tatsumi</p></td>
+<td><p>巽流水</p></td>
 <td><p>次兄</p></td>
 <td><p>Go Blue</p></td>
 <td><p>日下秀昭</p></td>
@@ -113,7 +113,7 @@ V**正式成軍。
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/原田篤" title="wikilink"><font color="White">原田篤</font></a></p></td>
-<td><p>巽鐘Shou Tatsumi</p></td>
+<td><p>巽鐘</p></td>
 <td><p>三弟</p></td>
 <td><p>Go Green</p></td>
 <td><p>竹內康博</p></td>
@@ -142,7 +142,7 @@ V**正式成軍。
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/柴田賢志" title="wikilink"><font color="black">柴田賢志</font></a></p></td>
-<td><p>巽大門Daimon Tatsumi</p></td>
+<td><p>巽大門</p></td>
 <td><p>四弟</p></td>
 <td><p>Go Yellow</p></td>
 <td><p>蜂須賀祐一</p></td>
@@ -171,7 +171,7 @@ V**正式成軍。
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/坂口望二香" title="wikilink"><font color="White">坂口望二香</font></a></p></td>
-<td><p>巽祭Matsuri Tatsumi</p></td>
+<td><p>巽祭</p></td>
 <td><p>小妹</p></td>
 <td><p>Go Pink</p></td>
 <td><p>中川素州</p></td>
@@ -187,15 +187,13 @@ V**正式成軍。
 </tbody>
 </table>
 
-**巽世界Mondo Tatsumi／巽防災研究所所長**（[マイク
-眞木](https://zh.wikipedia.org/wiki/マイク_眞木 "wikilink")）
+巽世界／巽防災研究所所長（[マイク 眞木飾](https://zh.wikipedia.org/wiki/マイク_眞木 "wikilink")）
 
 他是救急戰隊GOGO V的大家長，他從基地上的電腦得知，宇宙上的行星形成Grand
 Cross的時候，災魔即將降臨這個地球，於是他準備開始對抗災魔的計畫，花了十年所建造完成的灣岸領域55，是救急戰隊GOGO
 V的前線基地，當時巽兄妹並不知情就準備進行各項救援與抵抗災魔的任務。
 
-**巽律子Ritsuko
-Tatsumi**（[吉澤京子](https://zh.wikipedia.org/wiki/吉澤京子 "wikilink")）
+巽律子（[吉澤京子飾](https://zh.wikipedia.org/wiki/吉澤京子 "wikilink")）
 
 她是巽兄妹的母親，也是巽世界的妻子。她在巽兄妹十歲左右，剛好是八年前，突然離家行蹤不明，令人擔心。
 

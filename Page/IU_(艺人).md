@@ -1253,13 +1253,13 @@ HJ. Lee表示她很尊重IU的工作能力與音樂才華，「我希望她對�
 
 150.
 
-151. [1](http://kpopn.niusnews.com/=K3pjiju1)
+151. [1](https://star.ettoday.net/news/287533)
 
 152. [2](http://star.ettoday.net/news/591267)
 
-153. [3](https://news.mingpao.com/pns/dailynews/web_tc/article/20151107/s00016/1446833102244)
+153. [3](https://www.setn.com/News.aspx?NewsID=104859)
 
-154. [4](http://kpopn.niusnews.com/=K1cyxcd5)
+154. [4](https://star.ettoday.net/news/614024)
 
 155. <https://www.instagram.com/p/BsXjAsnn_gk/>
 

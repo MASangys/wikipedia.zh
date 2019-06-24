@@ -35,7 +35,7 @@ Cloud），提供機構或企業內各部門共享資源。
 ## 廠商支援
 
 [CiscoOpenStack.JPG](https://zh.wikipedia.org/wiki/File:CiscoOpenStack.JPG "fig:CiscoOpenStack.JPG")
-現時已表示支持OpenStack計畫的大型硬件廠商包括：[AMD](https://zh.wikipedia.org/wiki/AMD "wikilink")、[Intel](https://zh.wikipedia.org/wiki/Intel "wikilink")、[华为](../Page/华为.md "wikilink")、[惠普](https://zh.wikipedia.org/wiki/惠普公司 "wikilink"),和[戴爾等](../Page/戴爾.md "wikilink")。\[6\]
+現時已表示支持OpenStack計畫的大型硬件廠商包括：[研華科技](../Page/研華科技.md "wikilink")、[AMD](https://zh.wikipedia.org/wiki/AMD "wikilink")、[Intel](https://zh.wikipedia.org/wiki/Intel "wikilink")、[华为](../Page/华为.md "wikilink")、[惠普](https://zh.wikipedia.org/wiki/惠普公司 "wikilink"),和[戴爾等](../Page/戴爾.md "wikilink")。\[6\]
 
 [微軟在](https://zh.wikipedia.org/wiki/微軟 "wikilink")2010年10月表示支持OpenStack與[Windows
 Server 2008 R2的整合](../Page/Windows_Server_2008_R2.md "wikilink")。\[7\]

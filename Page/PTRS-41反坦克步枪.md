@@ -48,6 +48,8 @@ PTRS-41以[氣動式退膛原理運作](https://zh.wikipedia.org/wiki/氣動式 
   - 2017年—《[-{zh-hans:使命召唤：二战;zh-hant:決勝時刻：二戰;}-](https://zh.wikipedia.org/wiki/決勝時刻：二戰 "wikilink")》（Call
     of Duty: WWII）：只於聯機模式中登場。
 
+2019年-英雄與將軍 蘇軍第三支反坦克武器
+
 ## 參考資料
 
 <references/>

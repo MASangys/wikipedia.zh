@@ -56,6 +56,7 @@ MultiCam使用七種色調，因應不同環境、季節、海拔和亮度變化
   -   - [澳洲國防軍特種作戰指揮部](https://zh.wikipedia.org/wiki/澳大利亞國防軍 "wikilink")
       - [澳洲聯邦警察警察戰術小組](https://zh.wikipedia.org/wiki/澳洲聯邦警察 "wikilink")
       - 維多利亞警察局特別行動組
+      - 昆士蘭警察局緊急應變單位
 
   -   - 奧地利陸軍狩獵突擊隊
 
@@ -169,6 +170,7 @@ MultiCam使用七種色調，因應不同環境、季節、海拔和亮度變化
 
   -   - [美國陸軍](https://zh.wikipedia.org/wiki/美國陸軍 "wikilink")（採用OCP）
       - [美國空軍](https://zh.wikipedia.org/wiki/美國空軍 "wikilink")
+      - [美國海軍陸戰隊](https://zh.wikipedia.org/wiki/美國海軍陸戰隊 "wikilink")
       - [美國特種作戰司令部](https://zh.wikipedia.org/wiki/美國特種作戰司令部 "wikilink")
       - [美國國土安全部](../Page/美國國土安全部.md "wikilink")
           - [美國海岸警衛隊](https://zh.wikipedia.org/wiki/美國海岸警衛隊 "wikilink")

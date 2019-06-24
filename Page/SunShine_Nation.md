@@ -26,7 +26,7 @@ Boyz**》，參赛資格是16－25歲的亞裔少年。
 
 ### 《Sunshine Nation》（2006年－現今）
 
-由2006年開始AM1470和\[FM96.1再把此項選美活動演變為一個男、女混合的選美活動並與台灣的「可米製作/流星花園製作公司」合辫。此項選美活動從此易名為《**Sunshine
+由2006年開始AM1470和FM96.1再把此項選美活動演變為一個男、女混合的選美活動並與台灣的「可米製作/流星花園製作公司」合辦。此項選美活動從此易名為《**Sunshine
 Nation**》，參赛資格是16－25歲的亞裔少年男女，而男、女兩方各自產生一個冠軍。
 
 ## 著名人物
@@ -201,10 +201,12 @@ Nation**》，參赛資格是16－25歲的亞裔少年男女，而男、女兩�
 自從2002年《**Sunshine Boyz**》時期以至2006年《**Sunshine
 Nation**》時期到目前為止。縱使此項活動的各主辦機構、策劃、工作人員、參賽者以及觀眾絕大部分皆為華人，但多年來主辨單位似乎從沒有意向為《Sunshine
 Boyz》或《Sunshine
-Nation》取一個中文的官方名字。原因估計是因為坊間被稱為「陽光少年或少女」的比賽實在太多而不想被混淆。事實上主辨單位多年來都没有解釋為何《Sunshine
+Nation》取一個中文的官方名字。原因估計是因為坊間被稱為「陽光少年或少女」的比賽實在太多而不想被混淆。事實上主辦單位多年來都沒有解釋為何《Sunshine
 Boyz》或《Sunshine
 Nation》沒有一個正式的中文譯名。所以到目前為止各大小傳媒報導有關是項活動時，大都會直接稱呼為《Sunshine
-Boyz》、《Sunshine Girlz》、《Sunshine Nation》或《SSN》。
+Boyz》、《Sunshine Girlz》、《Sunshine
+Nation》或《SSN》。但另一方面，同樣由新時代集團籌辦，在多倫多的同類型活動《Sunshine
+Generations》卻有中文名稱《[陽光世代](../Page/陽光世代選舉.md "wikilink")》。
 
 ## 歷屆得獎者
 
@@ -259,7 +261,7 @@ Boyz》、《Sunshine Girlz》、《Sunshine Nation》或《SSN》。
 <td><p>8月31日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/陳奕儒" title="wikilink">陳奕儒</a></p></td>
 <td><p><a href="../Page/商皓翔.md" title="wikilink">商皓翔</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李昂霖" title="wikilink">李昂霖</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李昂霖_(Sunshine_Boyz)" title="wikilink">李昂霖</a></p></td>
 <td><p>陽光大使：<a href="https://zh.wikipedia.org/wiki/容世龍" title="wikilink">容世龍</a><br />
 至型至Cool大獎：<a href="https://zh.wikipedia.org/wiki/常毅" title="wikilink">常毅</a><br />
 才藝大獎:<a href="https://zh.wikipedia.org/wiki/余浩然" title="wikilink">余浩然</a><br />
@@ -310,7 +312,7 @@ Boyz》、《Sunshine Girlz》、《Sunshine Nation》或《SSN》。
 <tr class="even">
 <td><p>2008年</p></td>
 <td><p>8月29日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/陳超" title="wikilink">陳超</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳超_(Sunshine_Boyz)" title="wikilink">陳超</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/吳安娜" title="wikilink">吳安娜</a></p></td>
 <td><p>才藝大獎：<a href="https://zh.wikipedia.org/wiki/王瑩瑩" title="wikilink">王瑩瑩</a><br />
 網上我最喜愛Sunshine大獎：王瑩瑩<br />
@@ -348,13 +350,13 @@ Boyz》、《Sunshine Girlz》、《Sunshine Nation》或《SSN》。
 
 ### Sunshine Boyz時期
 
-| **年份**                                                                                                                                             | 參賽號數                                                | \!width="50" rowspan="2" |表演嘉賓                      | \!width="50" rowspan="2" |司儀                        | \!width="50" rowspan="2" |比賽地點                      |
-| -------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | --------------------------------------------------- | --------------------------------------------------- | --------------------------------------------------- |
-| 1號                                                                                                                                                 | 2號                                                  | 3號                                                  | 4號                                                  | 5號                                                  |
-| 2002年 [2](https://web.archive.org/web/20020815150011/http://www.funfun2.com/funfun/html/ent/show/200206/03_sunshine_boy/info_page_chinese_bk2.asp) | [梁振智](https://zh.wikipedia.org/wiki/梁振智 "wikilink") | [趙君豪](https://zh.wikipedia.org/wiki/趙君豪 "wikilink") | [周聘豪](https://zh.wikipedia.org/wiki/周聘豪 "wikilink") | [曹偉傑](https://zh.wikipedia.org/wiki/曹偉傑 "wikilink") |
-| 2003年[3](https://web.archive.org/web/20090927034923/http://www.funfun2.com/funfun/html/ent/show/200306/02_sunshineboyz/boy_profiles.asp)           | [常毅](https://zh.wikipedia.org/wiki/常毅 "wikilink")   | [李紹賢](../Page/李紹賢.md "wikilink")                    | [勞俊文](https://zh.wikipedia.org/wiki/勞俊文 "wikilink") | [鍾耀昌](https://zh.wikipedia.org/wiki/鍾耀昌 "wikilink") |
-| 2004年 [4](https://web.archive.org/web/20090924033507/http://www.funfun2.com/funfun/html/ent/show/200406/02_sunshine_boy/index.asp)                 | [馮啓豪](https://zh.wikipedia.org/wiki/馮啓豪 "wikilink") | [黄子翔](https://zh.wikipedia.org/wiki/黄子翔 "wikilink") | [鄧佑剛](https://zh.wikipedia.org/wiki/鄧佑剛 "wikilink") | [容世龍](https://zh.wikipedia.org/wiki/容世龍 "wikilink") |
-| 2005年                                                                                                                                              | [謝展基](../Page/謝展基.md "wikilink")                    | [節樂米](https://zh.wikipedia.org/wiki/節樂米 "wikilink") | [李北岳](../Page/李北岳.md "wikilink")                    | [武燁](https://zh.wikipedia.org/wiki/武燁 "wikilink")   |
+| **年份**                                                                                                                                             | 參賽號數                                                                | \!width="50" rowspan="2" |表演嘉賓                                        | \!width="50" rowspan="2" |司儀                        | \!width="50" rowspan="2" |比賽地點                      |
+| -------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | --------------------------------------------------------------------- | --------------------------------------------------- | --------------------------------------------------- |
+| 1號                                                                                                                                                 | 2號                                                                  | 3號                                                                    | 4號                                                  | 5號                                                  |
+| 2002年 [2](https://web.archive.org/web/20020815150011/http://www.funfun2.com/funfun/html/ent/show/200206/03_sunshine_boy/info_page_chinese_bk2.asp) | [梁振智](https://zh.wikipedia.org/wiki/梁振智 "wikilink")                 | [趙君豪](https://zh.wikipedia.org/wiki/趙君豪 "wikilink")                   | [周聘豪](https://zh.wikipedia.org/wiki/周聘豪 "wikilink") | [曹偉傑](https://zh.wikipedia.org/wiki/曹偉傑 "wikilink") |
+| 2003年[3](https://web.archive.org/web/20090927034923/http://www.funfun2.com/funfun/html/ent/show/200306/02_sunshineboyz/boy_profiles.asp)           | [常毅](https://zh.wikipedia.org/wiki/常毅_\(Sunshine_Boyz\) "wikilink") | [李紹賢](https://zh.wikipedia.org/wiki/李紹賢_\(Sunshine_Boyz\) "wikilink") | [勞俊文](https://zh.wikipedia.org/wiki/勞俊文 "wikilink") | [鍾耀昌](https://zh.wikipedia.org/wiki/鍾耀昌 "wikilink") |
+| 2004年 [4](https://web.archive.org/web/20090924033507/http://www.funfun2.com/funfun/html/ent/show/200406/02_sunshine_boy/index.asp)                 | [馮啓豪](https://zh.wikipedia.org/wiki/馮啓豪 "wikilink")                 | [黄子翔](https://zh.wikipedia.org/wiki/黄子翔 "wikilink")                   | [鄧佑剛](https://zh.wikipedia.org/wiki/鄧佑剛 "wikilink") | [容世龍](https://zh.wikipedia.org/wiki/容世龍 "wikilink") |
+| 2005年                                                                                                                                              | [謝展基](../Page/謝展基.md "wikilink")                                    | [節樂米](https://zh.wikipedia.org/wiki/節樂米 "wikilink")                   | [李北岳](../Page/李北岳.md "wikilink")                    | [武燁](https://zh.wikipedia.org/wiki/武燁 "wikilink")   |
 
 ### Sunshine Nation時期
 

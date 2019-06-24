@@ -13,7 +13,7 @@
   - [KIWI姐姐](../Page/KIWI姐姐.md "wikilink")
   - [番茄姐姐](../Page/番茄姐姐.md "wikilink")
   - [天竺鼠姐姐](https://zh.wikipedia.org/wiki/天竺鼠姐姐 "wikilink")
-  - [羚羊哥哥](https://zh.wikipedia.org/wiki/羚羊哥哥 "wikilink")
+  - [羚羊哥哥](../Page/羚羊哥哥.md "wikilink")
   - [浣熊哥哥](https://zh.wikipedia.org/wiki/浣熊哥哥 "wikilink")
   - [梅花鹿哥哥](https://zh.wikipedia.org/wiki/梅花鹿哥哥 "wikilink")
 
@@ -28,7 +28,7 @@
   - [蝴蝶姐姐](https://zh.wikipedia.org/wiki/蝴蝶姐姐 "wikilink")
   - [鳳梨哥哥](https://zh.wikipedia.org/wiki/鳳梨哥哥 "wikilink")
   - [葡萄姐姐](https://zh.wikipedia.org/wiki/葡萄姐姐 "wikilink")
-  - [星星哥哥](https://zh.wikipedia.org/wiki/星星哥哥 "wikilink")
+  - [星星哥哥](../Page/星星哥哥.md "wikilink")
   - [彩虹姐姐](https://zh.wikipedia.org/wiki/彩虹姐姐 "wikilink")
   - [黑皮哥哥](https://zh.wikipedia.org/wiki/黑皮哥哥 "wikilink")
   - [雲朵姐姐](https://zh.wikipedia.org/wiki/雲朵姐姐 "wikilink")

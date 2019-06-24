@@ -71,7 +71,7 @@ GPX文件內的點，至少要包含经纬度座标兩項資訊；其它欄位�
 
 ## 参考
 
-[Category:文件格式](https://zh.wikipedia.org/wiki/Category:文件格式 "wikilink")
+[Category:GIS文件格式](https://zh.wikipedia.org/wiki/Category:GIS文件格式 "wikilink")
 [Category:基于XML的标准](https://zh.wikipedia.org/wiki/Category:基于XML的标准 "wikilink")
 [Category:置标语言](https://zh.wikipedia.org/wiki/Category:置标语言 "wikilink")
 [Category:全球定位系统](https://zh.wikipedia.org/wiki/Category:全球定位系统 "wikilink")

@@ -17,7 +17,7 @@ BMPT设计基于[T-72主战坦克的底盘](../Page/T-72主戰坦克.md "wikilin
 
 ### 火力
 
-BMPT的炮塔装备了两门[史普诺夫2A42式30毫米自动炮](../Page/希普諾夫2A42機炮.md "wikilink")，这种双供弹自动炮能使用[高爆曳光弹](https://zh.wikipedia.org/wiki/炮弹#高爆弹_\(HE\) "wikilink")（HE-T）、[脱壳穿甲弹](https://zh.wikipedia.org/wiki/脱壳穿甲弹 "wikilink")（APDS）、[杀伤爆破弹](https://zh.wikipedia.org/wiki/杀伤爆破弹 "wikilink")（HE-FRAG）以及[穿甲曳光弹（AP-T）](https://zh.wikipedia.org/wiki/炮弹#穿甲弹（AP） "wikilink")，并有200\~300发/分钟的低射速或者550发/分钟两种射速可调。这种自动炮能有效损伤1500米内的轻装甲单位和2500米内的人员。备弹850发。双炮的上方有一挺PKTM（[PKT同轴机枪改进型](../Page/PK通用機槍.md "wikilink")）7.62毫米口径机枪，备有电子机械传动装置和PHK瞄准仪以及2,000发子弹。炮塔两侧装有左右各2组（北约代号：AT-9“螺旋-2”）发射器，4组发射器中各常备1枚处于常备状态，其装备的[穿甲榴弹](../Page/高爆反坦克彈.md "wikilink")（HEAT）射程为6公里。炮塔上仰角为45°，下俯角5°，能360°旋转。\[8\]\[9\]
+BMPT的炮塔装备了两门[史普诺夫2A42式30毫米自动炮](../Page/希普諾夫2A42機炮.md "wikilink")，这种双供弹自动炮能使用[高爆曳光弹](https://zh.wikipedia.org/wiki/炮弹#高爆弹_\(HE\) "wikilink")（HE-T）、[脱壳穿甲弹](https://zh.wikipedia.org/wiki/脱壳穿甲弹 "wikilink")（APDS）、[杀伤爆破弹](https://zh.wikipedia.org/wiki/杀伤爆破弹 "wikilink")（HE-FRAG）以及[穿甲曳光弹（AP-T）](https://zh.wikipedia.org/wiki/炮弹#穿甲弹（AP） "wikilink")，并有200\~300发/分钟的低射速或者550发/分钟两种射速可调。这种自动炮能有效损伤1500米内的轻装甲单位和2500米内的人员。备弹850发。双炮的上方有一挺PKTM（[PKT同轴机枪改进型](../Page/PK通用機槍.md "wikilink")）7.62毫米口径机枪，备有电子机械传动装置和PHK瞄准仪以及2,000发子弹。炮塔两侧装有左右各2组[9M120反坦克導彈](../Page/9M120反坦克導彈.md "wikilink")（北约代号：AT-9“螺旋-2”）发射器，4组发射器中各常备1枚处于常备状态，其装备的[穿甲榴弹](../Page/高爆反坦克彈.md "wikilink")（HEAT）射程为6公里。炮塔上仰角为45°，下俯角5°，能360°旋转。\[8\]\[9\]
 
 车上有两门[AGS-17D型](../Page/AGS-17烈火自動榴彈發射器.md "wikilink")30mm自动榴弹发射器分置驾驶舱左右，各由一名乘员操纵。主要打击敌方中、近距离火力支援人员及无装甲目标，比如[卡车](https://zh.wikipedia.org/wiki/卡车 "wikilink")、通信设施等。这种使用30x29毫米口径榴弹的自动发射器能使用[VOG-17M和](https://zh.wikipedia.org/wiki/VOG-17M "wikilink")[VOG-30两种榴弹](https://zh.wikipedia.org/wiki/VOG-30 "wikilink")。
 

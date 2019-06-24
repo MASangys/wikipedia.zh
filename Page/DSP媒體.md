@@ -56,7 +56,7 @@ Media**（）是1991年所成立的[韓國綜合娛樂公司](https://zh.wikiped
 <table>
 <tbody>
 <tr class="odd">
-<td><p>出道日期</p></td>
+<td><p>出道年份</p></td>
 <td><p>組合名稱</p></td>
 <td><p>成員</p></td>
 <td><p>隊長</p></td>
@@ -65,25 +65,16 @@ Media**（）是1991年所成立的[韓國綜合娛樂公司](https://zh.wikiped
 <td><p>備註</p></td>
 </tr>
 <tr class="even">
-<td><p>1999</p></td>
-<td></td>
-<td><p>、、<a href="../Page/吳鐘赫.md" title="wikilink">吳鐘赫</a>、、、、</p></td>
-<td></td>
-<td><p>NIZI</p></td>
-<td><p>綠色</p></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>2015</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/APRIL_(女子團體)" title="wikilink">APRIL</a></p></td>
 <td><p><a href="../Page/彩暻.md" title="wikilink">彩暻</a>、 <a href="https://zh.wikipedia.org/wiki/金採媛" title="wikilink">採媛</a>、<a href="https://zh.wikipedia.org/wiki/李娜恩" title="wikilink">娜恩</a>、<a href="https://zh.wikipedia.org/wiki/梁睿娜" title="wikilink">睿娜</a>、Rachel、<a href="https://zh.wikipedia.org/wiki/李真率" title="wikilink">真率</a></p></td>
-<td><p>-</p></td>
+<td><p><a href="../Page/彩暻.md" title="wikilink">彩暻</a>（非官方）</p></td>
 <td><p>FINEAPPLE</p></td>
 <td><p>未公佈</p></td>
 <td><p>2015年<a href="https://zh.wikipedia.org/wiki/昭珉" title="wikilink">昭珉退出組合</a><br />
-2016年<a href="../Page/李玹珠.md" title="wikilink">玹珠退出組合</a>，同年11月<a href="https://zh.wikipedia.org/wiki/尹彩暻" title="wikilink">彩暻</a>、Rachel加入</p></td>
+2016年<a href="../Page/李玹珠.md" title="wikilink">玹珠退出組合</a>，同年11月<a href="../Page/彩暻.md" title="wikilink">彩暻</a>、Rachel加入</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2016（未正式出道）<br />
 2017（正式出道）</p></td>
 <td><p><a href="../Page/KARD.md" title="wikilink">KARD</a></p></td>
@@ -105,46 +96,25 @@ Media**（）是1991年所成立的[韓國綜合娛樂公司](https://zh.wikiped
 <td><p>年份</p></td>
 <td><p>姓名</p></td>
 <td><p>型態</p></td>
+<td><p>前所屬組合</p></td>
 </tr>
 <tr class="even">
 <td><p>1999</p></td>
 <td><p><a href="../Page/吳鐘赫.md" title="wikilink">吳鐘赫</a></p></td>
 <td><p>歌手、演員</p></td>
-</tr>
-<tr class="odd">
-<td><p>2012</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/朴成民" title="wikilink">Royal</a></p></td>
-<td><p>歌手</p></td>
-</tr>
-<tr class="even">
-<td><p>2013</p></td>
-<td><p>宋燦益</p></td>
-<td><p>演員</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2014</p></td>
-<td></td>
+<td><p><a href="../Page/許齡智.md" title="wikilink">許齡智</a></p></td>
+<td><p><a href="../Page/Kara.md" title="wikilink">Kara</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/許齡智.md" title="wikilink">許齡智</a></p></td>
-<td><p>歌手、演員</p></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>2015</p></td>
 <td><p><a href="../Page/李玹珠.md" title="wikilink">李玹珠</a></p></td>
 <td><p>演員</p></td>
-</tr>
-<tr class="even">
-<td><p>2016</p></td>
-<td><p>崔陪榮</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Kasper</p></td>
-<td><p>歌手</p></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/APRIL_(女子團體)" title="wikilink">APRIL</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -291,6 +261,14 @@ Media**（）是1991年所成立的[韓國綜合娛樂公司](https://zh.wikiped
 <td><p>單飛</p></td>
 </tr>
 <tr class="even">
+<td><p>1999</p></td>
+<td><p>2006</p></td>
+<td></td>
+<td><p>、、<a href="../Page/吳鐘赫.md" title="wikilink">吳鐘赫</a>、、、、</p></td>
+<td><p>2006年解散，2011年、2015年重組</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>2003</p></td>
 <td><p>2004</p></td>
 <td><p>2shai</p></td>
@@ -298,7 +276,7 @@ Media**（）是1991年所成立的[韓國綜合娛樂公司](https://zh.wikiped
 <td><p>2004年解散</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2004</p></td>
 <td><p>2006</p></td>
 <td></td>
@@ -306,7 +284,7 @@ Media**（）是1991年所成立的[韓國綜合娛樂公司](https://zh.wikiped
 <td><p>2006年解散</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2005</p></td>
 <td><p>2010</p></td>
 <td><p><a href="../Page/SS501.md" title="wikilink">SS501</a></p></td>
@@ -315,7 +293,7 @@ Media**（）是1991年所成立的[韓國綜合娛樂公司](https://zh.wikiped
 <td><p>2010年成員單飛，组合不解散</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2007</p></td>
 <td><p>2016</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KARA" title="wikilink">KARA</a></p></td>
@@ -326,7 +304,7 @@ Media**（）是1991年所成立的[韓國綜合娛樂公司](https://zh.wikiped
 2016年因原始三位成員不續約，组合解散。</p></td>
 <td><p>解散</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2008</p></td>
 <td><p>2009</p></td>
 <td></td>
@@ -335,7 +313,7 @@ Media**（）是1991年所成立的[韓國綜合娛樂公司](https://zh.wikiped
 <td><p>2009年全體成員各自发展，組合解散。</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2009</p></td>
 <td><p>2016</p></td>
 <td><p><a href="../Page/Rainbow_(音樂團體).md" title="wikilink">Rainbow</a></p></td>
@@ -344,7 +322,7 @@ Media**（）是1991年所成立的[韓國綜合娛樂公司](https://zh.wikiped
 <td><p>2016年全體成員不續約，組合解散。</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2012</p></td>
 <td><p>2014</p></td>
 <td><p><a href="../Page/PURETTY.md" title="wikilink">PURETTY</a></p></td>
@@ -355,13 +333,13 @@ Media**（）是1991年所成立的[韓國綜合娛樂公司](https://zh.wikiped
 而、<a href="../Page/彩暻.md" title="wikilink">彩暻參加</a><a href="../Page/PRODUCE_101.md" title="wikilink">PRODUCE 101</a>，節目完結後，<a href="../Page/彩暻.md" title="wikilink">彩暻先後以</a><a href="../Page/C.I.V.A.md" title="wikilink">C.I.V.A</a>、<a href="../Page/I.B.I.md" title="wikilink">I.B.I</a>、<a href="https://zh.wikipedia.org/wiki/APRIL_(女子團體)" title="wikilink">APRIL成員身份活動</a>。</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2012</p></td>
 <td><p>2019</p></td>
 <td><p><a href="../Page/A-JAX.md" title="wikilink">A-JAX</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/徐在亨" title="wikilink">徐在亨</a>、<a href="https://zh.wikipedia.org/wiki/文智厚" title="wikilink">文智厚</a>、金導慪、孟允永<br />
-咸升辰、李承燁、趙重熙、朴成民</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/徐在亨" title="wikilink">徐在亨</a>、<a href="https://zh.wikipedia.org/wiki/文智厚" title="wikilink">文智厚</a>2016年約滿，不續約<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/徐在亨" title="wikilink">徐在亨</a>、<a href="https://zh.wikipedia.org/wiki/文智厚" title="wikilink">文智厚</a>、<a href="https://zh.wikipedia.org/wiki/朴成民" title="wikilink">朴成民</a>、金導慪、孟允永<br />
+咸升辰、李承燁、趙重熙</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/徐在亨" title="wikilink">徐在亨</a>、<a href="https://zh.wikipedia.org/wiki/文智厚" title="wikilink">文智厚</a>、<a href="https://zh.wikipedia.org/wiki/朴成民" title="wikilink">朴成民</a>2016年約滿，不續約<br />
 全體成員2019年約滿，不續約</p></td>
 <td></td>
 </tr>
@@ -443,28 +421,42 @@ Media**（）是1991年所成立的[韓國綜合娛樂公司](https://zh.wikiped
 <td><p>活動中</p></td>
 </tr>
 <tr class="odd">
-<td><p>2007</p></td>
-<td><p>2008</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td><p>2008年約滿</p></td>
-<td><p>活動中</p></td>
-</tr>
-<tr class="even">
 <td><p>2006</p></td>
 <td><p>2008</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td><p>2008年約滿</p></td>
-<td><p>活動中</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2007</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2016</p></td>
+<td><p>2018</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>2018年約滿</p></td>
+<td></td>
 </tr>
 </tbody>
 </table>
 
 ### 演員
 
+  - \-{[朴素賢](../Page/朴素賢.md "wikilink")}-
+
+  - [吳賢慶](../Page/吳賢慶.md "wikilink")
+
+  -
   -
   - 趙雅羅
 
@@ -477,6 +469,11 @@ Media**（）是1991年所成立的[韓國綜合娛樂公司](https://zh.wikiped
   - 朴鍾燦\[5\]
 
   - 朴鍾爀
+
+  - 宋燦益
+
+  -
+  - 崔陪榮
 
 ### 練習生
 
@@ -525,7 +522,7 @@ Media**（）是1991年所成立的[韓國綜合娛樂公司](https://zh.wikiped
   - 李準模（本在導演組練習）
 
   - （前[Baby
-    Kara成員](../Page/Baby_Kara.md "wikilink")，現為女團[Apple.B隊長](https://zh.wikipedia.org/wiki/Apple.B "wikilink")）
+    Kara](../Page/Baby_Kara.md "wikilink")、[Apple.B成員](https://zh.wikipedia.org/wiki/Apple.B "wikilink")，現為女團[3YE隊長](../Page/3YE.md "wikilink")）
 
   - [安素真](../Page/Baby_Kara.md "wikilink")（*已逝*，前[Baby
     Kara成員](../Page/Baby_Kara.md "wikilink")）
@@ -540,7 +537,7 @@ Media**（）是1991年所成立的[韓國綜合娛樂公司](https://zh.wikiped
 
   - [白世熙](https://zh.wikipedia.org/wiki/白世熙 "wikilink")（[七學年一班](../Page/七學年一班.md "wikilink")，前[Rainbow預備成員](../Page/Rainbow_\(音樂團體\).md "wikilink")\[6\]）
 
-  - [李主儐](../Page/李珠彬.md "wikilink")\[7\](前譯李珠彬)（前[Rainbow預備成員](../Page/Rainbow_\(音樂團體\).md "wikilink")）
+  - [李主儐](../Page/李珠彬.md "wikilink")\[7\]（前譯李珠彬，前[Rainbow預備成員](../Page/Rainbow_\(音樂團體\).md "wikilink")）
 
   - 閔知睿（又譯作閔智慧，前[Rainbow預備成員](../Page/Rainbow_\(音樂團體\).md "wikilink")\[8\]）
 
@@ -569,6 +566,10 @@ Media**（）是1991年所成立的[韓國綜合娛樂公司](https://zh.wikiped
   - 朴洮儁（[The Rose](../Page/The_Rose_\(樂團\).md "wikilink")）
 
   - 朴泰彬（前[BLK](../Page/BLK.md "wikilink")）
+
+  - [Daisy](https://zh.wikipedia.org/wiki/Daisy "wikilink")（[MOMOLAND](../Page/MOMOLAND.md "wikilink")）
+
+  - [Juniel](../Page/Juniel.md "wikilink")
 
 ## 製作影視項目
 

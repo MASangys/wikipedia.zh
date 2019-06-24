@@ -43,7 +43,7 @@ Sage的功能包括\[1\]
 威廉.斯坦在设计Sage时意识到了有不同的语言（包括有[C](https://zh.wikipedia.org/wiki/C语言 "wikilink")
 、[C++](../Page/C++.md "wikilink")、[Fortran和](../Page/Fortran.md "wikilink")[Python](../Page/Python.md "wikilink")）编写的大量现成的大型开源数学软件可用。
 
-因此，Sage（用[Python和](../Page/Python.md "wikilink")[Cython实现的](https://zh.wikipedia.org/wiki/Cython "wikilink")）将所有专用的数学软件集成到一个通用的接口而不是从头开发。用户只需要了解[Python](../Page/Python.md "wikilink")。
+因此，Sage（用[Python和](../Page/Python.md "wikilink")[Cython实现的](../Page/Cython.md "wikilink")）将所有专用的数学软件集成到一个通用的接口而不是从头开发。用户只需要了解[Python](../Page/Python.md "wikilink")。
 
 Sage由学生和专业人士开发。Sage的开发由志愿工作和赠款支持。 \[4\]
 

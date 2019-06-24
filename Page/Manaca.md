@@ -1,4 +1,4 @@
-**manaca**（）為可重複加值、非接觸式的[智慧卡](../Page/智慧卡.md "wikilink")（IC卡）形式之乘車票證。已於2011年2月11日啟用，並可適用在[名古屋鐵道](../Page/名古屋鐵道.md "wikilink")、、[名古屋臨海高速鐵道](https://zh.wikipedia.org/wiki/名古屋臨海高速鐵道 "wikilink")（[青波線](https://zh.wikipedia.org/wiki/西名古屋港線 "wikilink")）、、[豐橋鐵道等公司的路線上](https://zh.wikipedia.org/wiki/豐橋鐵道 "wikilink")。
+**manaca**（）為可重複加值、非接觸式的[智慧卡](../Page/智慧卡.md "wikilink")（IC卡）形式之乘車票證。已於2011年2月11日啟用，並可適用在[名古屋鐵道](../Page/名古屋鐵道.md "wikilink")、、[名古屋臨海高速鐵道](https://zh.wikipedia.org/wiki/名古屋臨海高速鐵道 "wikilink")（[青波線](https://zh.wikipedia.org/wiki/西名古屋港線 "wikilink")）、[名古屋導向巴士](https://zh.wikipedia.org/wiki/名古屋導軌巴士 "wikilink")、[豐橋鐵道等公司的路線上](https://zh.wikipedia.org/wiki/豐橋鐵道 "wikilink")。
 
 ## 簡介
 

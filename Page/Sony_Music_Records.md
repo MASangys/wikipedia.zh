@@ -1,6 +1,6 @@
 **Sony Music
 Records**（）是[日本索尼音樂娛樂](../Page/日本索尼音樂娛樂.md "wikilink")（SME）旗下的[唱片公司](../Page/唱片公司.md "wikilink")，1968年以「CBS/Sony」為名與SME同時成立，是SME旗下歷史最悠久的唱片公司。之後曾以SME旗下[子公司的方式經營](../Page/子公司.md "wikilink")，2014年3月31日後改以[分公司制成為SME旗下專責唱片品牌的子公司](../Page/分公司制.md "wikilink")「索尼音樂品牌」（）的一部分。目前擁有Sony
-Records、gr8\!records、MASTERSIX FOUNDATION、N46Div.、K46Div等5個唱片品牌。
+Records、gr8\!records、MASTERSIX FOUNDATION、N46Div.等4個唱片品牌。
 
 ## 沿革
 

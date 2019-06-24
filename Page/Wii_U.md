@@ -2,7 +2,7 @@
 內建[快閃記憶體](https://zh.wikipedia.org/wiki/快閃記憶體 "wikilink")
 [SD記憶卡](https://zh.wikipedia.org/wiki/SD記憶卡 "wikilink")、[SDHC](../Page/SDHC.md "wikilink")
 [USB儲存裝置](../Page/USB.md "wikilink") | controllers = [Wii
-U控制器](https://zh.wikipedia.org/wiki/Wii_U控制器 "wikilink")
+U控制器](../Page/Wii_U控制器.md "wikilink")
 [Wii遙控器](../Page/Wii遙控器.md "wikilink")
 [傳統控制器](https://zh.wikipedia.org/wiki/傳統控制器 "wikilink")
 [Wii平衡器](https://zh.wikipedia.org/wiki/Wii平衡器 "wikilink")
@@ -90,8 +90,7 @@ b/g](../Page/IEEE_802.11.md "wikilink")[/n](https://zh.wikipedia.org/wiki/IEEE_8
 
 ### 控制器
 
-Wii U的主要控制器是[Wii
-U控制器](https://zh.wikipedia.org/wiki/Wii_U控制器 "wikilink")，每台主機最多可與兩台Wii
+Wii U的主要控制器是[Wii U控制器](../Page/Wii_U控制器.md "wikilink")，每台主機最多可與兩台Wii
 U控制器連結\[28\]。此外，主機也同時支援最多四支[Wii遙控器](../Page/Wii遙控器.md "wikilink")（包括[Plus](https://zh.wikipedia.org/wiki/Wii遙控器Plus "wikilink")、[雙節棍控制器和](https://zh.wikipedia.org/wiki/雙節棍控制器 "wikilink")）或[Wii
 U Pro控制器](https://zh.wikipedia.org/wiki/#Wii_U_Pro控制器 "wikilink")\[29\]。
 主機亦支援和其他所有的Wii官方週邊產品（例如方向盤或光線槍等）。《[任天堂明星大亂鬥3DS/Wii

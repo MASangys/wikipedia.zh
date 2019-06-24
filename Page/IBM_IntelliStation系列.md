@@ -1,4 +1,4 @@
-[IBMZPRO6221.jpg](https://zh.wikipedia.org/wiki/File:IBMZPRO6221.jpg "fig:IBMZPRO6221.jpg")
+[IBM_IntelliStation_Z_Pro_6221-49U_20100926.jpg](https://zh.wikipedia.org/wiki/File:IBM_IntelliStation_Z_Pro_6221-49U_20100926.jpg "fig:IBM_IntelliStation_Z_Pro_6221-49U_20100926.jpg")
 **IBM IntelliStation系列**( IBM
 IntelliStation)是[國際商業機器公司](https://zh.wikipedia.org/wiki/國際商業機器公司 "wikilink")(IBM)推出的企業用[工作站系列](../Page/工作站.md "wikilink")，於1997-2009年間生產。多數內建有NVIDIA
 [Quadro或ATI](../Page/Quadro.md "wikilink")

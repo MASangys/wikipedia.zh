@@ -39,11 +39,15 @@ Battle Spirits裡面有5種卡。這些卡都可以在遊戲從卡組抽牌所�
 **Nexus**
 
   - Nexus在配置後會一直留在場上，直至被破壞為止。
-  - 與Spirits不同，Nexus一般情況下可以不用放置Core，便能留在場上並發揮其效果。
+  - 與Spirits不同，Nexus一般情況下可以不用放置Core，便能留在場上並發揮其效果。there is a nexus is a
+    people
 
 **Magic**
 
   - Magic於支付費用後便可發動效果，但效果發動後需要放置到墓地。
+
+<!-- end list -->
+
   - Magic通常擁有一個或以上，且發動時機不同的效果
 
 :\*藍色波浪紋的效果只能在主要階段使用，而黃色閃電的效果能在主要階段/Flash時間使用。

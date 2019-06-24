@@ -1,5 +1,6 @@
-**M.I.A.**（本名：**Mathangi "Maya"
-Arulpragasam**，，），英國[創作歌手](../Page/創作歌手.md "wikilink")、[饒舌歌手及](https://zh.wikipedia.org/wiki/饒舌歌手 "wikilink")[音樂製作人](../Page/音樂製作人.md "wikilink")。生於[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")。
+**馬森吉·「瑪雅」·阿拉爾普瑞蓋薩姆**，[MBE](https://zh.wikipedia.org/wiki/英帝國官佐勳章 "wikilink")（本名：**Mathangi
+"Maya"
+Arulpragasam**，，），藝名**M.I.A.**，英國[創作歌手](../Page/創作歌手.md "wikilink")、[饒舌歌手及](https://zh.wikipedia.org/wiki/饒舌歌手 "wikilink")[音樂製作人](../Page/音樂製作人.md "wikilink")。生於[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")。
 
 M.I.A.
 於2000年在西倫敦從事視覺藝術，製片及設計師工作。她於2002年展開了其音樂製作工作，之後於2004年憑單曲Sunshowers及Galang登上加拿大及英國的排行榜並登上美國
@@ -36,3 +37,4 @@ M.I.A.為其唱片公司N.E.E.T.的創辦人。第四張專輯Matangi 於2013年
 [Category:亞洲裔英國人](https://zh.wikipedia.org/wiki/Category:亞洲裔英國人 "wikilink")
 [Category:倫敦人](https://zh.wikipedia.org/wiki/Category:倫敦人 "wikilink")
 [Category:泰米爾人](https://zh.wikipedia.org/wiki/Category:泰米爾人 "wikilink")
+[Category:MBE勳銜](https://zh.wikipedia.org/wiki/Category:MBE勳銜 "wikilink")

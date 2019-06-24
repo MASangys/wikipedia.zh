@@ -10,9 +10,9 @@ School畢業](../Page/After_School.md "wikilink")，而後轉至[Yuleum娛樂](.
     Girls前成員](../Page/Wonder_Girls.md "wikilink")[金婑斌的好友](https://zh.wikipedia.org/wiki/金婑斌 "wikilink")，出現在MBC綜藝節目《介紹明星朋友》中，讓網友為之驚嘆，怎麼會有這麼漂亮的女孩，隨後人氣飆升。\[5\]
   - 2009年4月，以第二期成員身份加入女團[After
     School](../Page/After_School.md "wikilink")，在發行數位單曲《DIVA》正式入團，成為團體裡人氣最高的一位，她以健美的大腿和完美的身材著稱，而且被男明星選為理想型。\[6\]
-  - 2009年，出演電視劇《[原來是美男](../Page/原來是美男_\(韓國電視劇\).md "wikilink")》飾演柳惠妮(Uhey)獲得評價兩極，有影迷表示不喜歡Uhey這個角色，覺得編劇把這個“國民妖精”寫得太壞了，甚至被觀眾和媒體認為U-IE現實生活中就是這個樣子。U-IE對此表示遺憾，以為自己能夠博得觀眾喜愛，沒想到卻遭到觀眾的罵聲。當然也有部分影迷表示U-IE把這個人物演的淋漓盡致，覺得Uhey是一個讓人又恨又愛的女孩子。
+  - 2009年，出演電視劇《[原來是美男](../Page/原來是美男_\(韓國電視劇\).md "wikilink")》飾演柳惠妮(Uhey)，獲得兩極評價。有影迷表示不喜歡Uhey這個角色，覺得編劇把這個“國民妖精”寫得太壞了，甚至被觀眾和媒體認為U-IE現實生活中就是這個樣子。U-IE對此表示遺憾，以為自己能夠博得觀眾喜愛，沒想到卻遭到觀眾的罵聲。當然也有部分影迷表示U-IE把這個人物演的淋漓盡致，覺得Uhey是一個讓人又恨又愛的女孩子。
   - 2011年，U-IE在演戲唱歌皆有特別的表現，發行了個人首張數位單曲《U-ie的SokSokSok
-    》，還主演[KBS電視劇](https://zh.wikipedia.org/wiki/KBS "wikilink")《[烏鵲橋兄弟](../Page/烏鵲橋兄弟.md "wikilink")》，獲得了KBS演技大賞新人獎、\[7\]百想藝術大賞電視類新人獎。\[8\]當時走到哪都有人叫她劇中的名字『白子恩』，讓她感覺彷彿都走不出角色的影子，尤其拍戲的時間與劇組演員長時間聚下來，像是多了很多家人般，所以戲拍完要解散時，也讓她非常依依不捨。劇中周元為Uie買咖啡而催化兩人的戀情，戲外，有咖啡廠商看上他們的人氣魅力，還找他們以情侶身分拍攝咖啡廣告。
+    》，還在[KBS電視劇](https://zh.wikipedia.org/wiki/KBS "wikilink")《[烏鵲橋兄弟](../Page/烏鵲橋兄弟.md "wikilink")》中首次擔演女主角，獲得了KBS演技大賞新人獎、\[7\]百想藝術大賞電視類新人獎。\[8\]當時走到哪都有人叫她劇中的名字『白子恩』，讓她感覺彷彿都走不出角色的影子，尤其拍戲的時間與劇組演員長時間聚下來，像是多了很多家人般，所以戲拍完要解散時，也讓她非常依依不捨。劇中周元為Uie買咖啡而催化兩人的戀情，戲外，有咖啡廠商看上他們的人氣魅力，還找他們以情侶身分拍攝咖啡廣告。
   - 2012年，與[李章宇主持KBS](../Page/李章宇.md "wikilink")《[音乐银行](https://zh.wikipedia.org/wiki/音乐银行 "wikilink")》，主持長達一年五個月。\[9\]
   - 2013年4月，开始主持户外综艺节目《[赤脚的朋友们](https://zh.wikipedia.org/wiki/赤脚的朋友们 "wikilink")》搭档[姜虎东](https://zh.wikipedia.org/wiki/姜虎东 "wikilink")，[金贤重](https://zh.wikipedia.org/wiki/金贤重 "wikilink")，[银赫](https://zh.wikipedia.org/wiki/银赫 "wikilink")，[尹施允](../Page/尹施允.md "wikilink")，[金范秀等藝人](https://zh.wikipedia.org/wiki/金范秀 "wikilink")。
   - 2013年11月，参演MBC周末剧《[黄金彩虹](https://zh.wikipedia.org/wiki/黄金彩虹 "wikilink")》，U-IE饰演乐观直率的金百元，以进步的演技抓住观众的心，夺得2013年MBC演技大赏特别部门女子最佳演技奖。

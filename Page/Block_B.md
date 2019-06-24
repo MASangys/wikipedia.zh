@@ -227,6 +227,7 @@ B，之後的活動相關還沒有確定。」\[109\]
 | [朴經](../Page/朴經.md "wikilink")                               |
 | [Zico](https://zh.wikipedia.org/wiki/Zico_\(歌手\) "wikilink") |
 | [P.O](../Page/P.O.md "wikilink")                             |
+|                                                              |
 
 ## 影視作品
 
@@ -642,6 +643,7 @@ EP 1－20、EP 30－33</p></td>
 | 2018年1月29日  | 《[Radio Romance](../Page/Radio_Romance.md "wikilink")》      | KBS2    | [有權](https://zh.wikipedia.org/wiki/有權 "wikilink") | 姜Minu  | 客串第1集  |
 | 2018年10月31日 | 《[心動警報](../Page/心動警報.md "wikilink")》                        | MBN     | [P.O](../Page/P.O.md "wikilink")                  | 尹柳俊    |        |
 | 2018年11月28日 | 《[男朋友](https://zh.wikipedia.org/wiki/男朋友 "wikilink")》       | tvN     | [P.O](../Page/P.O.md "wikilink")                  | 金振明    |        |
+| 2019年7月13日  | 《[德魯納酒店](../Page/德魯納酒店.md "wikilink")》                      | tvN     | [P.O](../Page/P.O.md "wikilink")                  | 池賢宇    |        |
 
 ### 電影
 

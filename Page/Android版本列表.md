@@ -236,7 +236,7 @@ Android最初的版本是於2007年11月5日發行的Android
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Android_Ice_Cream_Sandwich" title="wikilink">Android Ice Cream Sandwich</a><br />
+<td><p><a href="../Page/Android_Ice_Cream_Sandwich.md" title="wikilink">Android Ice Cream Sandwich</a><br />
 基于Linux Kernel 3.0.1</p></td>
 <td><p>Android 4.0（Ice Cream Sandwich冰淇淋三文治）於2011年4月在<a href="https://zh.wikipedia.org/wiki/Google_I/O" title="wikilink">Google I/O大會上首次被宣布</a>[56]</ref>，並且於2011年10月19日正式發布Android 4.0“冰淇淋三明治”作業系統和搭載Android 4.0的<a href="../Page/Galaxy_Nexus.md" title="wikilink">Galaxy Nexus智能手機</a>[57]。Android 4.0.1的軟體開發包於2011年10月19日正式發布[58]。谷歌公司的發言人加布·科恩（Gabe Cohen）指出，Android 4.0“理論上”與任何一個當前市面上搭載了Android 2.3.x版本的設備兼容[59]。關於Android 4.0的<a href="https://zh.wikipedia.org/wiki/原始碼" title="wikilink">原始碼已於</a>2011年11月14日正式公佈[60]。<a href="https://zh.wikipedia.org/wiki/File:Android-4.0.png" title="fig:Android-4.0.png">Android-4.0.png</a>該版本的主要更新內容如下[61][62][63]：</p>
 <ul>

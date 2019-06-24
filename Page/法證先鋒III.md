@@ -2,7 +2,7 @@
 
 ## 故事大綱
 
-一連串的離奇命案將[法證部](https://zh.wikipedia.org/wiki/法證部 "wikilink")[高級化驗師布國棟](https://zh.wikipedia.org/wiki/高級化驗師 "wikilink")（[黎耀祥飾](../Page/黎耀祥.md "wikilink")）、[法醫部](https://zh.wikipedia.org/wiki/法醫部 "wikilink")[高級法醫鍾學心](https://zh.wikipedia.org/wiki/高級法醫 "wikilink")（[張可頤飾](https://zh.wikipedia.org/wiki/張可頤 "wikilink")）、[重案組](https://zh.wikipedia.org/wiki/重案組 "wikilink")[高級督察淩倩兒](../Page/高級督察.md "wikilink")（[徐子珊飾](../Page/徐子珊.md "wikilink")）和[警長李展風](../Page/警長.md "wikilink")（[吳卓羲飾](../Page/吳卓羲.md "wikilink")）等人聯繫起來。國棟與學心因性情相近合作多年，一種難以言喻的默契漸漸滋長，故當國棟與妻子周奕霏（[胡定欣飾](https://zh.wikipedia.org/wiki/胡定欣 "wikilink")）的婚姻破裂之後，才明白最瞭解自己的是學心；而倩兒與展風於重案組合作無間出生入死，造就了一段真摯的愛情。這群專業的人員，從[鑑證](https://zh.wikipedia.org/wiki/鑑證 "wikilink")、[化驗](https://zh.wikipedia.org/wiki/化驗 "wikilink")、[邏輯](https://zh.wikipedia.org/wiki/邏輯 "wikilink")、[心理](https://zh.wikipedia.org/wiki/心理 "wikilink")、[醫學及](https://zh.wikipedia.org/wiki/醫學 "wikilink")[科學等不同範疇](https://zh.wikipedia.org/wiki/科學 "wikilink")，跨部門聯合破案緝兇，竭力維護法紀。
+一連串的離奇命案將[法證部](https://zh.wikipedia.org/wiki/法證部 "wikilink")[高級化驗師布國棟](https://zh.wikipedia.org/wiki/高級化驗師 "wikilink")（[黎耀祥飾](../Page/黎耀祥.md "wikilink")）、[法醫部](https://zh.wikipedia.org/wiki/法醫部 "wikilink")[高級醫生鍾學心](https://zh.wikipedia.org/wiki/高級醫生 "wikilink")（[張可頤飾](https://zh.wikipedia.org/wiki/張可頤 "wikilink")）、[重案組](https://zh.wikipedia.org/wiki/重案組 "wikilink")[高級督察淩倩兒](../Page/高級督察.md "wikilink")（[徐子珊飾](../Page/徐子珊.md "wikilink")）和[警長李展風](../Page/警長.md "wikilink")（[吳卓羲飾](../Page/吳卓羲.md "wikilink")）等人聯繫起來。國棟與學心因性情相近合作多年，一種難以言喻的默契漸漸滋長，故當國棟與妻子周奕霏（[胡定欣飾](https://zh.wikipedia.org/wiki/胡定欣 "wikilink")）的婚姻破裂之後，才明白最瞭解自己的是學心；而倩兒與展風於重案組合作無間出生入死，造就了一段真摯的愛情。這群專業的人員，從[鑑證](https://zh.wikipedia.org/wiki/鑑證 "wikilink")、[化驗](https://zh.wikipedia.org/wiki/化驗 "wikilink")、[邏輯](https://zh.wikipedia.org/wiki/邏輯 "wikilink")、[心理](https://zh.wikipedia.org/wiki/心理 "wikilink")、[醫學及](https://zh.wikipedia.org/wiki/醫學 "wikilink")[科學等不同範疇](https://zh.wikipedia.org/wiki/科學 "wikilink")，跨部門聯合破案緝兇，竭力維護法紀。
 
 ## 演員表
 
@@ -1540,7 +1540,7 @@ Oscar之孿生弟弟，後反目<br />
 有<a href="https://zh.wikipedia.org/wiki/心理疾患" title="wikilink">心理變態</a>，因年幼時被繼母虐打而對三十餘歲的女士特別憎恨，尤其是搽白色指甲油、穿鸭屎绿高跟鞋的女士<br />
 于30年前殺害陳文娟、馮曉靜，重傷钟志邦<br />
 于29年前企圖殺害梁翠嫻使其毀容，但被其刺傷導致癱瘓<br />
-於第29集為救趙貴德企圖槍殺何正民，卻反槍伤蔣卓君<br />
+於第29集為救趙貴德企圖槍殺何正民，卻反錯手槍殺蔣卓君<br />
 于第30集被捕後在拘留所自殺身亡</p></td>
 </tr>
 <tr class="even">
@@ -1554,12 +1554,12 @@ Oscar之孿生弟弟，後反目<br />
 於第28集殺害周奕霏<br />
 有<a href="https://zh.wikipedia.org/wiki/心理疾患" title="wikilink">心理變態</a>，因年幼時被陳文娟虐打而對三十餘歲的女士特別憎恨，尤其是搽白色指甲油、穿鸭屎绿高跟鞋的女士<br />
 于30年前因乱玩蛇吓人而被馮曉靜、梁翠嫻骂过<br />
-於第30集縱火企圖烧死布国栋、钟学心，最後被李展風用槍射中頭部擊斃</p></td>
+於第30集縱火企圖烧死布国栋、钟学心，最後被李展風開槍射中頭部擊斃</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/陳茵媺.md" title="wikilink">陳茵媺</a></strong></p></td>
 <td><p><strong>蔣卓君</strong></p></td>
-<td><p>于第29集被趙大龍槍傷，後死亡<br />
+<td><p>于第29集為了保護何正民而被趙大龍槍傷，後死亡<br />
 參見<strong><a href="https://zh.wikipedia.org/wiki/#法證事務部" title="wikilink">法證事務部</a></strong></p></td>
 </tr>
 <tr class="even">

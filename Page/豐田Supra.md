@@ -69,7 +69,7 @@ mph)。第一代车型上选装的自动天气控制改为标配。天窗、双�
 
 ## 第四代 (1993-2002)
 
-[<File:White_Supra.JPG>](https://zh.wikipedia.org/wiki/File:White_Supra.JPG "fig:File:White_Supra.JPG")
+[White_Supra.JPG](https://zh.wikipedia.org/wiki/File:White_Supra.JPG "fig:White_Supra.JPG")
 原廠代號為**JZA80**，生產年份為1993至2002，美規左駕自1998年停止生產及出口販售。區分為自然進氣及渦輪增壓兩版本搭載3.0L直列六缸引擎，自排變速箱為Aisin打造，手排變速箱則由GETRAG來提供。最高時速Top
 speed(electronically limited) 250 kph (155 mph)
 自然進氣搭載引擎代號2JZ-GE，
@@ -93,9 +93,9 @@ GZ版本出現，雙渦輪引擎搭配4速自排，主要增加了許多如較�
 
 ## 第五代 (2019年3月至今)
 
-[<File:Supra_(46373214984).jpg>](https://zh.wikipedia.org/wiki/File:Supra_\(46373214984\).jpg "fig:File:Supra_(46373214984).jpg")
-全新的Supra在2019年三月开始销售。Toyota
-Supra跟BMW新Z4共用引擎、變速箱和底盤，於奧地利製造，全車系搭載**8**速自排變速箱，50：50前後車身重量比、前置**後驅**、電子循跡與穩態系統、連續可變阻尼式懸吊。車長/寬/高分別為4,380x1,865x1295mm，軸距則為2,470mm、原廠電子限速(electronically
+[Supra_(46373214984).jpg](https://zh.wikipedia.org/wiki/File:Supra_\(46373214984\).jpg "fig:Supra_(46373214984).jpg")
+全新的Supra在2019年三月开始销售。第五代Supra跟第六代[BMW
+Z4共用引擎](https://zh.wikipedia.org/wiki/BMW_Z4 "wikilink")、變速箱和底盤，於[奧地利](https://zh.wikipedia.org/wiki/奧地利 "wikilink")[格拉茨製造](https://zh.wikipedia.org/wiki/格拉茨 "wikilink")，全車系搭載**8**速自排變速箱，50：50前後車身重量比、前置**後驅**、電子循跡與穩態系統、連續可變阻尼式懸吊。車長/寬/高分別為4,380x1,865x1295mm，軸距則為2,470mm、原廠電子限速(electronically
 limited)Top speed 時速250 kph (155 mph) 。
 
   - RZ頂級版0-60

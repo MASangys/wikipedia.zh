@@ -807,6 +807,17 @@
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金泰姬" title="wikilink">金泰姬</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
+<tr class="odd">
+<td style="text-align: center;"><p>2019年8月－<br />
+2019年8月</p></td>
+<td style="text-align: center;"><p><a href="../Page/抓住幽靈.md" title="wikilink">抓住幽靈</a><br />
+</p></td>
+<td style="text-align: center;"><p>16</p></td>
+<td style="text-align: center;"><p><a href="../Page/文瑾瑩.md" title="wikilink">文瑾瑩</a>、<a href="../Page/金善浩.md" title="wikilink">金善浩</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/申允燮" title="wikilink">申允燮</a></p></td>
+<td style="text-align: center;"><p>蘇媛、李英珠</p></td>
+<td style="text-align: center;"></td>
+</tr>
 </tbody>
 </table>
 

@@ -1,6 +1,6 @@
 **JNC**（）為[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")6人舞蹈團體，經紀公司為Kiss
 Entertainment。2004年以正規專輯《The New History
-Begins》出道。團體成員分別由與兩組正在活動中的團體組合而成。
+Begins》出道。團體成員分別由[J-Walk與](https://zh.wikipedia.org/wiki/J-Walk "wikilink")兩組正在活動中的團體組合而成。
 
 ## 簡歷
 

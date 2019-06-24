@@ -238,7 +238,7 @@ Saiga霰彈槍系列同時出現在多個[电影](../Page/电影.md "wikilink")�
   - 2017年—《[硝云弹雨](https://zh.wikipedia.org/wiki/硝云弹雨 "wikilink")》（Ballistic
     Overkill）：型号为Saiga-12S-EXP，作为“坦克”职业初始武器之姿出现，命名为“鼬”，使用5发[弹匣供弹](https://zh.wikipedia.org/wiki/弹匣 "wikilink")。
   - 2017年— 《[絕地求生](../Page/絕地求生.md "wikilink")》（PlayersUnknown's
-    BattleGrounds）：型號為Saiga-12K，命名為「S12K」（中文：「S12K霰彈槍」），作為半自動霰彈槍，5發[彈匣](../Page/彈匣.md "wikilink")（如有擴容彈匣的有是8發），可以裝備的配件：所有步槍槍口配件、所有步槍彈匣、紅點瞄準鏡、全息瞄準鏡、6倍及以下高倍瞄準鏡。
+    BattleGrounds）：型號為Saiga-12K，命名為「S12K」（中文：「S12K霰彈槍」），作為半自動霰彈槍，5發[彈匣](../Page/彈匣.md "wikilink")（裝備擴容彈匣後提升至8發），可以裝備的配件：所有步槍槍口配件、所有步槍彈匣、紅點瞄準鏡、全息瞄準鏡、6倍及以下高倍瞄準鏡。
 
 ## 參見
 

@@ -16,7 +16,8 @@ Shao，后转为普林斯顿大学教授) —
 
   - 可帮助用户键入常用命令选项及参数的可编程，自带对数百条命令的支持
   - 可与任意Shell共享
-  - 可在无需运行外部程序（如）的情况下通过 匹配文件
+  - 可在无需运行外部程序（如[find](https://zh.wikipedia.org/wiki/find "wikilink")）的情况下通过
+    匹配文件
   - 改进[变量](../Page/变量_\(程序设计\).md "wikilink")/[数组处理方式](../Page/数组.md "wikilink")
   - 在单缓冲区内编辑多行命令
   - [拼寫檢查](https://zh.wikipedia.org/wiki/拼寫檢查 "wikilink")

@@ -64,16 +64,16 @@ Champion進行回歸舞台](../Page/Show_Champion.md "wikilink")。
 And Clyde）》的MV通過更豐富的劇情，詮釋出屬於Trouble
 Maker的故事。\[14\]11月10日的[人氣歌謠更是首位拿到該節目改制後滿分](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")(11000分)的藝人。\[15\]
 
-### 爭議
+## 爭議
 
-Trouble Maker舞蹈被指太過性感
+### Trouble Maker舞蹈被指太過性感
 
 身穿酒紅色西服的賢勝和銀色超迷你短裙的泫雅，兩人若即若離欲擒故縱的表演和誇張的熱吻十分引人矚目。而吹口哨的聲音令人印象深刻。不過賢勝摸索泫雅身體或者將手停留在她臀部的伴舞多少讓人覺得有點過分。並且對於泫雅露骨的身體動作和性感的表情也讓人覺得有點尷尬。\[16\]
 
 看到節目的網友紛紛留言表示：『伴舞雖然很好，但是有些過分了\~』、『太性感了，讓人感到尷尬\~』等。為此Trouble
 Maker減少了一些肢體接觸的舞蹈動作，只要網友有提出來的意見全部接納，進而一步下去改編。\[17\]
 
-「日本軍旗裝」爭議
+### 「日本軍旗裝」爭議
 
 Trouble Maker刊登在有線頻道SBS MTV《The
 Show》官方推特(twitter)上的一張照片，掀起了‘日本軍旗裝’的爭議。對此，Trouble
@@ -267,6 +267,7 @@ Maker的娛樂公司表示：「那張襯衫上面的圖案並非旭日升天旗
 [Category:Cube娛樂旗下團體](https://zh.wikipedia.org/wiki/Category:Cube娛樂旗下團體 "wikilink")
 [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
 [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
+[Category:期間限定團體](https://zh.wikipedia.org/wiki/Category:期間限定團體 "wikilink")
 [Category:2011年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2011年成立的音樂團體 "wikilink")
 [Category:4minute](https://zh.wikipedia.org/wiki/Category:4minute "wikilink")
 [Category:2018年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2018年解散的音樂團體 "wikilink")

@@ -7,7 +7,7 @@ DoCoMo興建及使用](https://zh.wikipedia.org/wiki/NTT_DoCoMo "wikilink")。�
 NTT
 DoCoMo代代木大厦拥有像[帝国大厦等](../Page/帝国大厦.md "wikilink")[美国](../Page/美国.md "wikilink")[纽约的摩天大楼的设计外观](../Page/纽约.md "wikilink")。与一般商业大楼不同，它是[NTT
 DoCoMo的业务用大楼](https://zh.wikipedia.org/wiki/NTT_DoCoMo "wikilink")，僅限公司相關人员进入。大楼北侧设有直径约15米的大時钟，是在2002年為紀念NTT
-DoCoMo成立十周年而設置，由集團旗下的CITIZEN
+DoCoMo成立十周年而設置，由[星辰表集團旗下的CITIZEN](https://zh.wikipedia.org/wiki/星辰表 "wikilink")
 TIC設計，在2012年[麥加皇家鐘塔飯店落成前](https://zh.wikipedia.org/wiki/麥加皇家鐘塔飯店 "wikilink")，曾是世界最高的[鐘樓](https://zh.wikipedia.org/wiki/钟楼_\(西式\) "wikilink")。
 
 需要注意的是，雖然該大樓是東京最高的建築之一，但NTT

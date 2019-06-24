@@ -9,11 +9,11 @@ PROJECT-KARA The
 Beginning》成為KARA新成員，團體人數增至四人。8月18日，KARA加入新成員[齡智後](../Page/許齡智.md "wikilink")，帶著第六張迷你專輯《Day
 & Night》回歸。2015年5月26日，KARA睽違九個月帶著第七張迷你專輯《IN LOVE》回歸。
 
-2016年1月15日，[奎利](../Page/朴奎利.md "wikilink")、[昇延](../Page/韓昇延.md "wikilink")、[荷拉在本月尾的合約到期後決定不再續約](https://zh.wikipedia.org/wiki/具荷拉 "wikilink")，而[齡智則會繼續留在公司發展個人活動](../Page/許齡智.md "wikilink")。
+2016年1月15日，[奎利](../Page/朴奎利.md "wikilink")、[昇延](../Page/韓昇延.md "wikilink")、[荷拉在本月尾的合約到期後決定不再續約](https://zh.wikipedia.org/wiki/具荷拉 "wikilink")，而[齡智則會繼續留在公司發展個人活動](../Page/許齡智.md "wikilink")、目前组合已经解散、虽然队长奎利已经提到了有望复出的可能性，但截至到至今尚未有任何KARA复出的消息。\[3\]\[4\]
 
 ## 團名由來
 
-團體名稱**KARA**取自[希臘語chara](https://zh.wikipedia.org/wiki/希臘語 "wikilink")（）為喜樂之意，意味著這個團體希望用美妙的聲音把喜悅帶給大家。\[3\]**KARA**的官方應援顏色為珍珠桃色（近似皮膚上的肉色），歌迷的官方名稱為「KAMILIA」，意思為：KARA
+團體名稱**KARA**取自[希臘語chara](https://zh.wikipedia.org/wiki/希臘語 "wikilink")（）為喜樂之意，意味著這個團體希望用美妙的聲音把喜悅帶給大家。\[5\]**KARA**的官方應援顏色為珍珠桃色（近似皮膚上的肉色），歌迷的官方名稱為「KAMILIA」，意思為：KARA
 + FAMILIA
 ，FAMILIA亦是取自希臘語，意思是FAMILY（家庭），把兩字合併稱作KAMILIA即為KARA跟KARA的FAMILIY，代表著「KARA和歌迷是一體」之意。官方應援物為珍珠桃色氣球。
 
@@ -42,7 +42,7 @@ Beginning》成為KARA新成員，團體人數增至四人。8月18日，KARA加
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/具荷拉" title="wikilink">荷拉</a>[4]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/具荷拉" title="wikilink">荷拉</a>[6]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/鄭龍珠.md" title="wikilink">妮可</a></p></td>
@@ -203,10 +203,10 @@ PlotData =
 
 **成員退出、重組**
 
-  - 1月14日，DSP經紀公司發表聲明[妮可正式宣布退出](../Page/鄭龍珠.md "wikilink")**Kara**。\[5\]
-  - 4月5日，DSP經紀公司發表聲明[知英正式宣布退出](https://zh.wikipedia.org/wiki/姜知英 "wikilink")**Kara**。\[6\]
-  - 7月1日，DSP經紀公司發表聲明[齡智正式宣佈加入](../Page/許齡智.md "wikilink")**Kara**。\[7\]
-  - 7月11日，DSP經紀公司發表聲明重新整合的4人女团KARA将于8月回归韩国乐坛。\[8\]
+  - 1月14日，DSP經紀公司發表聲明[妮可正式宣布退出](../Page/鄭龍珠.md "wikilink")**Kara**。\[7\]
+  - 4月5日，DSP經紀公司發表聲明[知英正式宣布退出](https://zh.wikipedia.org/wiki/姜知英 "wikilink")**Kara**。\[8\]
+  - 7月1日，DSP經紀公司發表聲明[齡智正式宣佈加入](../Page/許齡智.md "wikilink")**Kara**。\[9\]
+  - 7月11日，DSP經紀公司發表聲明重新整合的4人女团KARA将于8月回归韩国乐坛。\[10\]
   - 7月24日，根據韓國DSP經紀公司消息，Kara加入新成員[齡智後將於](../Page/許齡智.md "wikilink")8月18日帶著第六張迷你專輯\<\<Day
     & Night\>\>回歸。
   - 7月23日，KARA官方facebook網頁公開第六張迷你專輯的名稱《Day & Night》。
@@ -226,28 +226,30 @@ PlotData =
 #### 2015年
 
   - 4月14日，經紀公司 DSP Media 透露，繼去年8月6日發表的第六張迷你專輯《Day & Night》後，時隔歌壇9個月的
-    KARA，預計五月推出第七張迷你專輯回歸\[9\]。
+    KARA，預計五月推出第七張迷你專輯回歸\[11\]。
   - 5月14日，睽違9個月的時間，KARA 將於5月26日推出第七張迷你專輯《IN
-    LOVE》回歸！專輯預告照14日透過官方臉書公開\[10\]。
-  - 5月15日，KARA 透過官方臉書、推特等社群平台公開第七張迷你專輯《IN LOVE》的封面照片\[11\]。
-  - 5月18日，KARA 齡智《CUPID》預告公開\[12\]。
-  - 5月19日，KARA 奎利《CUPID》預告公開\[13\]。
-  - 5月20日，KARA 昇延《CUPID》預告公開\[14\]。
-  - 5月21日，KARA 荷拉《CUPID》預告公開\[15\]。
-  - 5月22日，KARA 迷你七輯《IN LOVE》曲目、音源試聽公開，專輯當中總共收錄六首歌曲\[16\]。並在同日釋出
+    LOVE》回歸！專輯預告照14日透過官方臉書公開\[12\]。
+  - 5月15日，KARA 透過官方臉書、推特等社群平台公開第七張迷你專輯《IN LOVE》的封面照片\[13\]。
+  - 5月18日，KARA 齡智《CUPID》預告公開\[14\]。
+  - 5月19日，KARA 奎利《CUPID》預告公開\[15\]。
+  - 5月20日，KARA 昇延《CUPID》預告公開\[16\]。
+  - 5月21日，KARA 荷拉《CUPID》預告公開\[17\]。
+  - 5月22日，KARA 迷你七輯《IN LOVE》曲目、音源試聽公開，專輯當中總共收錄六首歌曲\[18\]。並在同日釋出
     KARA《CUPID》團體預告。另外，KARA 將會參加5月23日在首爾世界盃競技場舉行的《[Dream
     Concert](../Page/夢想演唱會.md "wikilink")》，並且表演新歌《CUPID》，接著專輯發行當日(5月26日)
     晚上八點 (韓國時間)，她們會在 Blue Squre Samsung Card Hall 舉辦迷你七輯回歸
-    SHOWCASE\[17\]。
+    SHOWCASE\[19\]。
   - 5月26日，KARA 透過官方 YouTube 頻道公開主打歌《CUPID》的 MV 。《CUPID》是作曲家 e.one 與
-    EJ.SHOW 為 KARA 量身打造的歌曲，並於同日公開 MV 和概念照拍攝花絮\[18\]。
+    EJ.SHOW 為 KARA 量身打造的歌曲，並於同日公開 MV 和概念照拍攝花絮\[20\]。
   - 6月4日，KARA 於6月2日透過官方 YouTube 頻道公開第七張迷你專輯《IN LOVE》主打歌《CUPID》的練習室版
-    MV\[19\]。
+    MV\[21\]。
 
 #### 2016年
 
   - 1月15日，原始成員奎利、昇延、荷拉於月底約滿，三人皆不續約，只有齡智因為尚有合約，仍然留在DSP
-    Media，不過齡智現時仍為DSP旗下藝人、但未宣布组合解散。\[20\]
+    Media，不過齡智現時仍為DSP旗下藝人、目前组合已经解散、虽然队长奎利已经提到了有望复出的可能性，但截至到至今尚未有任何KARA复出的消息。\[22\]<ref>\[<https://www.koreastardaily.com/sc/news/76790>
+
+KARA复出有望？奎利「我们并非解散」\] 2016年4月14日</ref>
 
 ### 日本
 
@@ -332,9 +334,9 @@ PlotData =
   - 2月14日，在新高輪王子飯店舉行粉絲情人節派對。
   - 3月23日，KARA 第十二張日文單曲發行確定。為迎接在日本出道五周年，KARA
     選在5月5日推出共有三首主打歌的第十二張日文單曲《サマー☆ジック
-    / Sunshine Miracle / SUNNY DAYS》。\[21\]
-  - 3月26日，KARA 第12張日文單曲封面照公開。\[22\]
-  - 4月5日，KARA 第12張日文單曲主打歌之一《SUMMER☆GIC (サマー☆ジック) 》MV 公開。\[23\]
+    / Sunshine Miracle / SUNNY DAYS》。\[23\]
+  - 3月26日，KARA 第12張日文單曲封面照公開。\[24\]
+  - 4月5日，KARA 第12張日文單曲主打歌之一《SUMMER☆GIC (サマー☆ジック) 》MV 公開。\[25\]
 
 ## 音樂作品
 
@@ -782,44 +784,50 @@ PlotData =
 
 1.
 2.
-3.
+3.  [KARA正式宣布解散！　「具荷拉等3人各自活動」](http://star.ettoday.net/news/631225)
+    2016年1月15日
 
-4.  **하라**為純韓文，但為了讓中國粉絲能用漢字稱呼**하라**，所以負責代理的[華納音樂為](../Page/華納音樂_\(台灣\).md "wikilink")**Kara**正名時，便將**하라**譯為**荷拉**。
+4.  [KARA复出有望？奎利「我们并非解散」](https://www.koreastardaily.com/sc/news/76790)
+    2016年4月14日
 
 5.
 
-6.
+6.  **하라**為純韓文，但為了讓中國粉絲能用漢字稱呼**하라**，所以負責代理的[華納音樂為](../Page/華納音樂_\(台灣\).md "wikilink")**Kara**正名時，便將**하라**譯為**荷拉**。
 
 7.
 
 8.
-9.  [KARA 預計五月回歸](http://kpopn.com/2015/04/14/270576/) 2015年4月14日
 
-10. [KARA 5/26 回歸！](http://kpopn.com/2015/05/14/275533/) 2015年5月14日
+9.
 
-11. [KARA 迷你七輯封面,概念照](http://kpopn.com/2015/05/15/275741/) 2015年5月15日
+10.
+11. [KARA 預計五月回歸](http://kpopn.com/2015/04/14/270576/) 2015年4月14日
 
-12. [KARA 新曲預告：齡智](http://kpopn.com/2015/05/18/276133/) 2015年5月18日
+12. [KARA 5/26 回歸！](http://kpopn.com/2015/05/14/275533/) 2015年5月14日
 
-13. [KARA 回歸預告：奎利](http://kpopn.com/2015/05/19/276277/) 2015年5月19日
+13. [KARA 迷你七輯封面,概念照](http://kpopn.com/2015/05/15/275741/) 2015年5月15日
 
-14. [KARA 回歸預告：昇延](http://kpopn.com/2015/05/20/276480/) 2015年5月20日
+14. [KARA 新曲預告：齡智](http://kpopn.com/2015/05/18/276133/) 2015年5月18日
 
-15. [KARA 新曲預告：荷拉](http://kpopn.com/2015/05/21/276786/) 2015年5月21日
+15. [KARA 回歸預告：奎利](http://kpopn.com/2015/05/19/276277/) 2015年5月19日
 
-16. [KARA 新輯曲目、試聽](http://kpopn.com/2015/05/22/276907/) 2015年5月22日
+16. [KARA 回歸預告：昇延](http://kpopn.com/2015/05/20/276480/) 2015年5月20日
 
-17. [KARA《CUPID》團體預告](http://kpopn.com/2015/05/22/276991/) 2015年5月22日
+17. [KARA 新曲預告：荷拉](http://kpopn.com/2015/05/21/276786/) 2015年5月21日
 
-18. [KARA《CUPID》MV](http://kpopn.com/2015/05/26/277543/) 2015年5月26日
+18. [KARA 新輯曲目、試聽](http://kpopn.com/2015/05/22/276907/) 2015年5月22日
 
-19. [KARA《CUPID》練習室版](http://kpopn.com/2015/06/04/278797/) 2015年6月4日
+19. [KARA《CUPID》團體預告](http://kpopn.com/2015/05/22/276991/) 2015年5月22日
 
-20. [KARA正式宣布解散！　「具荷拉等3人各自活動」](http://star.ettoday.net/news/631225)
+20. [KARA《CUPID》MV](http://kpopn.com/2015/05/26/277543/) 2015年5月26日
+
+21. [KARA《CUPID》練習室版](http://kpopn.com/2015/06/04/278797/) 2015年6月4日
+
+22. [KARA正式宣布解散！　「具荷拉等3人各自活動」](http://star.ettoday.net/news/631225)
     2016年1月15日
 
-21. [KARA 5/5 推出新日單](http://kpopn.com/2015/03/23/267073/) 2015年3月23日
+23. [KARA 5/5 推出新日單](http://kpopn.com/2015/03/23/267073/) 2015年3月23日
 
-22. [KARA 第12張日單封面照](http://kpopn.com/2015/03/26/267793/) 2015年3月26日
+24. [KARA 第12張日單封面照](http://kpopn.com/2015/03/26/267793/) 2015年3月26日
 
-23. [KARA 新日單 MV 公開](http://kpopn.com/2015/04/05/269219/) 2015年4月5日
+25. [KARA 新日單 MV 公開](http://kpopn.com/2015/04/05/269219/) 2015年4月5日

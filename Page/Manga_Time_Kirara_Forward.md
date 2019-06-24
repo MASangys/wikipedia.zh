@@ -395,14 +395,13 @@ Kirara](../Page/Manga_Time_Kirara.md "wikilink")》的內容。
   - [ほおばれ\!草食女子](https://zh.wikipedia.org/wiki/ほおばれ!草食女子 "wikilink")（[あらたまい](https://zh.wikipedia.org/wiki/あらたまい "wikilink")、2015年8月號
     - 2017年12月號）※自2017年4月號起隔月連載（偶數月號掲載）
 
-  - [双角カンケイ。](https://zh.wikipedia.org/wiki/双角カンケイ。 "wikilink")（[Tachi](https://zh.wikipedia.org/wiki/Tachi "wikilink")、2015年9月號
+  - [双角カンケイ。](https://zh.wikipedia.org/wiki/双角カンケイ。 "wikilink")（[Tachi](../Page/Tachi.md "wikilink")、2015年9月號
     - 2017年2月號）
 
   - [メイデンス・オーダー](https://zh.wikipedia.org/wiki/メイデンス・オーダー "wikilink")（、2016年4月號
     - 2017年5月號）
 
-  - （[雅秋乃](https://zh.wikipedia.org/wiki/雅秋乃 "wikilink")、2016年5月號 -
-    2018年12月號）
+  - （[雅秋乃](../Page/雅秋乃.md "wikilink")、2016年5月號 - 2018年12月號）
 
 <!-- end list -->
 

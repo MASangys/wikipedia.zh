@@ -152,19 +152,21 @@ lemongrass 馬來喇沙.海南雞飯專門店 、 菜菜鍋
   - [中國工商銀行(亞洲)](https://zh.wikipedia.org/wiki/中國工商銀行\(亞洲\) "wikilink")
   - [大新銀行](https://zh.wikipedia.org/wiki/大新銀行 "wikilink")
 
-`周邊食肆`
+`周圍食肆`
 
   - [德興小廚](https://zh.wikipedia.org/wiki/德興小廚 "wikilink")
+  - [龍門冰室](https://zh.wikipedia.org/wiki/龍門冰室 "wikilink")
+  - [榮記車仔麵](https://zh.wikipedia.org/wiki/榮記車仔麵 "wikilink")
 
-` 周圍娛樂`
+` 周邊娛樂`
 
   - 24/7 Fitness Hong Kong(24小時)
 
-周邊零售
+周圍零售
 
   - 大生生活超市
 
-周圍運動服裝鞋店
+周邊運動服裝店
 
   - Columbia Sportswear Company
 

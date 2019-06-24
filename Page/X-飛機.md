@@ -394,7 +394,7 @@ DARPA, USAF</p></td>
 <td><p><a href="../Page/無人戰鬥航空載具.md" title="wikilink">無人戰鬥航空載具</a>。[47]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/X-46無人機" title="wikilink">X-46</a></p></td>
+<td><p><a href="../Page/X-46無人機.md" title="wikilink">X-46</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/波音公司" title="wikilink">波音公司</a><br />
 DARPA, USN</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:X46.jpg" title="fig:X46.jpg">X46.jpg</a></p></td>

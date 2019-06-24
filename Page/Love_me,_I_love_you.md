@@ -4,7 +4,7 @@ you**》，是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedi
 ## 簡介
 
 《love me, I love
-you》被用作[萩原健一主演的](https://zh.wikipedia.org/wiki/萩原健一 "wikilink")[朝日電視台](../Page/朝日電視台.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")《[外科医柊又三郎](https://zh.wikipedia.org/wiki/外科医柊又三郎 "wikilink")》的[主題曲](../Page/主題曲.md "wikilink")。
+you》被用作[萩原健一主演的](../Page/萩原健一.md "wikilink")[朝日電視台](../Page/朝日電視台.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")《[外科医柊又三郎](https://zh.wikipedia.org/wiki/外科医柊又三郎 "wikilink")》的[主題曲](../Page/主題曲.md "wikilink")。
 
 在1995年7月7日星期五發行，比同週其它單曲的統計時間少了兩天，所以出動銷量比前作少，不過依然取得首週的[Oricon公信榜單曲週榜冠軍](../Page/Oricon公信榜.md "wikilink")，並蟬聯兩週。
 

@@ -41,7 +41,7 @@ depan).JPG Image:Mazda MX6 Turbo (14164976079).jpg Image:Mazda MX6 Turbo
 1992年 -
 1月進行大改款，不但加大車身尺碼，外型也改得更為流線圓潤，符合其[轎跑車格調的定位](../Page/轎跑車.md "wikilink")。[底盤採用全新的GE平台](https://zh.wikipedia.org/wiki/底盤 "wikilink")，與五款兄弟車以及雙生車種和[福特Telstar共用](../Page/福特Telstar.md "wikilink")[引擎](../Page/发动机.md "wikilink")、[變速箱](../Page/变速器.md "wikilink")、[懸吊系統](../Page/懸吊系統.md "wikilink")、[煞車制動系統](../Page/煞車.md "wikilink")、轉向系統等主要元件。該款車在全球市場可區分為三種型式：
 
-  - A規：此規格僅供應[北美洲市場](../Page/北美洲.md "wikilink")，值得注意的是在[加拿大的車名為](../Page/加拿大.md "wikilink")「**馬自達MX-6
+  - A規：此規格僅供應[北美洲市場](../Page/北美洲.md "wikilink")，台灣導入為此規,值得注意的是在[加拿大的車名為](../Page/加拿大.md "wikilink")「**馬自達MX-6
     Mystère**」。其中分成三種級距：
 
 <!-- end list -->
@@ -55,14 +55,14 @@ depan).JPG Image:Mazda MX6 Turbo (14164976079).jpg Image:Mazda MX6 Turbo
 
 <!-- end list -->
 
-  - E規：供應[臺灣](../Page/臺灣.md "wikilink")、[香港](../Page/香港.md "wikilink")、[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")、[紐西蘭與](https://zh.wikipedia.org/wiki/紐西蘭 "wikilink")[歐洲等市場](https://zh.wikipedia.org/wiki/歐洲 "wikilink")。與A規相較之下，其頭燈採雙片式投射以獲得更佳的照明，前後保險桿形式也不盡相同。方向側燈之位置在前輪之後的葉子板上，而A規的則在前保險桿側邊。E規也可選購皮椅內裝和4WS四輪轉向系統（但[英國市場沒有此配備](https://zh.wikipedia.org/wiki/英國 "wikilink")），且搭載了2.5L
+  - E規：供應[香港](../Page/香港.md "wikilink")、[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")、[紐西蘭與](https://zh.wikipedia.org/wiki/紐西蘭 "wikilink")[歐洲等市場](https://zh.wikipedia.org/wiki/歐洲 "wikilink")。與A規相較之下，其頭燈採雙片式投射以獲得更佳的照明，前後保險桿形式也不盡相同。方向側燈之位置在前輪之後的葉子板上，而A規的則在前保險桿側邊。E規也可選購皮椅內裝和4WS四輪轉向系統（但[英國市場沒有此配備](https://zh.wikipedia.org/wiki/英國 "wikilink")），且搭載了2.5L
     DOHC
     V型六缸[KL-DE型引擎](https://zh.wikipedia.org/wiki/馬自達K族引擎#KL型 "wikilink")。
   - J規：配備跟E規近似，不過頭燈為單片式投射，方向燈與霧燈整合在同一個地方，後保險桿的形式也不太一樣。其他還包括4WS四輪轉向系統、數位式恆溫空調、電動摺疊後照鏡，以及[Mazdaspeed版空力套件](../Page/Mazdaspeed.md "wikilink")。動力來源有兩種：最大馬力達200hp的2.5L
     DOHC
-    V型六缸[KL-ZE型引擎和最大馬力](https://zh.wikipedia.org/wiki/馬自達K族引擎#KL型 "wikilink")159hp的2.5L
+    V型六缸[KL-ZE型引擎和最大馬力](https://zh.wikipedia.org/wiki/馬自達K族引擎#KL型 "wikilink")159hp的2.0L
     DOHC
-    V型六缸[KL-DE型引擎](https://zh.wikipedia.org/wiki/馬自達K族引擎#KL型 "wikilink")；此規格車型供應[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")、[紐西蘭](https://zh.wikipedia.org/wiki/紐西蘭 "wikilink")、[英國與](https://zh.wikipedia.org/wiki/英國 "wikilink")[歐洲等市場](https://zh.wikipedia.org/wiki/歐洲 "wikilink")。
+    V型六缸[KF-ZE型引擎](https://zh.wikipedia.org/wiki/馬自達K族引擎#KF型 "wikilink")；此規格車型供應[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")、[紐西蘭](https://zh.wikipedia.org/wiki/紐西蘭 "wikilink")、[英國與](https://zh.wikipedia.org/wiki/英國 "wikilink")[歐洲等市場](https://zh.wikipedia.org/wiki/歐洲 "wikilink")。
 
 Image:Mazda MX-6 Mystere.jpg|MX-6 Mystère車頭（加拿大） Image:Mazda MX-6
 GE.JPG|車頭（加拿大） Image:1991-1994 Mazda MX-6 (GE) coupe 01.jpg|車尾（澳洲）

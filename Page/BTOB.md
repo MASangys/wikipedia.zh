@@ -346,7 +346,7 @@ WITH MELODY」的特別展覽。\[152\]
 
 2019年5月4日，成員鎰勳的親姊姊歌手[JOO舉行婚禮](../Page/JOO.md "wikilink")，BTOB為其擔任伴郎並演唱祝歌。\[155\]
 
-2019年5月13日，Peniel發行首張個人數位單曲《B.O.D》，由Peniel的姊夫作曲家KAIROS製作、Peniel參與填詞。\[156\]\[157\]
+2019年5月13日，Peniel發行首張個人數位單曲《B.O.D》，由Peniel的姊夫、作曲家KAIROS製作、Peniel參與填詞。\[156\]\[157\]
 
 ## 音樂作品
 

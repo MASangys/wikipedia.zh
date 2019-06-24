@@ -1,4 +1,4 @@
-**MBC日日連續劇**（），亦稱**MBC日日劇**，[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC電視台每逢週一至週五晚間播放的](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")[電視連續劇系列](https://zh.wikipedia.org/wiki/電視連續劇 "wikilink")，創立於1969年8月。
+**MBC日日連續劇**（），亦稱**MBC日日劇**，[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC電視台每逢週一至週五晚間播放的](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")[電視連續劇系列](https://zh.wikipedia.org/wiki/電視連續劇 "wikilink")，創立於1969年8月。播出50年直至2019年7月11日廢止。
 
 ## 播映時間
 

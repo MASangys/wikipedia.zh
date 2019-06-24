@@ -1,5 +1,5 @@
 **開機管理程式**（）是從[Windows
-Vista開始引進的新一代開機管理程式](../Page/Windows_Vista.md "wikilink")，用以取代[`NTLDR`](../Page/NTLDR.md "wikilink")。當電腦執行完[POST後](https://zh.wikipedia.org/wiki/加电自检 "wikilink")，傳統型[BIOS會根據](../Page/BIOS.md "wikilink")[啟動磁區尋找開機硬碟中標記](https://zh.wikipedia.org/wiki/啟動磁區 "wikilink")"啟動"分割區下的`BOOTMGR`檔案；若是[UEFI則是ESP分割區中的](https://zh.wikipedia.org/wiki/UEFI "wikilink")`Bootmgfw.efi`檔案（即UEFI中的「Windows
+Vista開始引進的新一代開機管理程式](../Page/Windows_Vista.md "wikilink")，用以取代[`NTLDR`](../Page/NTLDR.md "wikilink")。當電腦執行完[POST後](https://zh.wikipedia.org/wiki/加电自检 "wikilink")，傳統型[BIOS會根據](../Page/BIOS.md "wikilink")[啟動磁區尋找開機硬碟中標記](https://zh.wikipedia.org/wiki/啟動磁區 "wikilink")"啟動"分割區下的`BOOTMGR`檔案；[UEFI則是ESP分割區中的](https://zh.wikipedia.org/wiki/UEFI "wikilink")`Bootmgfw.efi`檔案（即UEFI中的「Windows
 Boot Manager」開機裝置）或`bootx64.efi`檔案，接著Windows Boot
 Manager會讀取開機組態資料庫（，）下的啟動資料，接著根據其中的資料載入與預設或使用者所選擇的[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。如果選擇啟動Windows
 NT 5.x系列作業系統（Windows 2000/XP/2003），則BOOTMGR會先啟動NTLDR檔案，再由NTLDR啟動Windows
@@ -35,7 +35,7 @@ BIOS開機方式的電腦上，有可能儲存在系统分割區下的"`\Boot"�
 ### winrsume.exe
 
 当电脑从休眠模式恢复至正常模式时，`bootmgr`則调用`winresume.exe`。并使用与以往有别的启动模式和页面（Windows 7
-系统则显示「恢复Windows」）以快速恢复系统先前並的工作进度。在UEFI系统中，應用程序套件名为`winresume.exe`或`winresume.efi`，通常位于`\windows\system32\boot`
+系统则显示「正在恢复Windows」）以快速恢复系统先前並的工作进度。在UEFI系统中，應用程序套件名为`winresume.efi`，通常位于`\windows\system32\boot`
 。
 
 ## 进阶启动

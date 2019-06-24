@@ -9,7 +9,7 @@ Vevo提供三家唱片大廠商的音樂影片。\[5\]\[6\]
 VEVO的核心理念被稱為音樂錄像界的[Hulu](../Page/Hulu.md "wikilink")，\[7\]而VEVO把網站設計成這樣，目的是由吸引更多高端廣告客戶投資以增加收益。\[8\]
 為此，VEVO會因為錄像語言的關係而對錄像內容進行審查。使它能被和[麥當勞規模相等的合作者接受](https://zh.wikipedia.org/wiki/麥當勞 "wikilink")。\[9\]網站的另一個收入來源包括量販店\[10\]，以及讓訪客到[亞馬遜和](https://zh.wikipedia.org/wiki/亞馬遜 "wikilink")[iTunes上購買歌曲的推薦連結](https://zh.wikipedia.org/wiki/iTunes "wikilink")。\[11\]環球唱片公司在2008年11月20日收購了域名vevo.com，而[索尼音樂娛樂則於](../Page/索尼音樂娛樂.md "wikilink")2009年6月決定把自己的內容添進VEVO網站中。\[12\]此網站於2009年11月8日正式運營，並於同一月份中超越[Myspace](../Page/Myspace.md "wikilink")\[13\]成為美國瀏覽量最大的音乐服务类網站。\[14\]
 
-成立之初VEVO提供音樂廠牌“四大巨頭”中三家的音樂錄像，它們是[環球唱片](https://zh.wikipedia.org/wiki/環球唱片 "wikilink")、[索尼音樂娛樂及](../Page/索尼音樂娛樂.md "wikilink")[EMI](../Page/EMI.md "wikilink")。\[15\][華納音樂集團曾在先前被報導可能是內容提供商之一](../Page/華納音樂集團.md "wikilink")，\[16\]但隨後卻是與它的對手[音樂電視網結盟](../Page/音樂電視網.md "wikilink")。\[17\]而[EMI則在沒有擁有股份的情況下授權VEVO使用其內容](../Page/EMI.md "wikilink")。\[18\]後來EMI公司被環球、索尼收購而消滅。
+成立之初VEVO提供音樂廠牌“四大巨頭”中三家的音樂錄像，它們是[環球音樂集團](../Page/环球音乐集团.md "wikilink")、[索尼音樂娛樂及](../Page/索尼音樂娛樂.md "wikilink")[EMI](../Page/EMI.md "wikilink")。\[15\][華納音樂集團曾在先前被報導可能是內容提供商之一](../Page/華納音樂集團.md "wikilink")，\[16\]但隨後卻是與它的對手[音樂電視網結盟](../Page/音樂電視網.md "wikilink")。\[17\]而[EMI則在沒有擁有股份的情況下授權VEVO使用其內容](../Page/EMI.md "wikilink")。\[18\]後來EMI公司被環球、索尼收購而消滅。
 
 到了2016年，前述四大廠牌之一的華納音樂集團也開始與VEVO合作。\[19\]也就是說，音樂廠牌三大巨頭全都與VEVO合作。
 
@@ -33,18 +33,18 @@ TV以及](../Page/Google_TV.md "wikilink")[Boxee上亦開設了自己的頻道](
 
 VEVO認證獎是一個獎勵制度，以獎勵YouTube上瀏覽次數逾1億次的影片。\[32\]
 
-  - 首個獲得認證的音樂錄像帶為加拿大女歌手[艾薇兒·拉維尼的歌曲](../Page/艾薇兒·拉維尼.md "wikilink")《[女朋友](../Page/女朋友_\(艾薇兒·拉維尼歌曲\).md "wikilink")》（*Girlfriend*）。
+  - 首個獲得認證的音樂錄像帶為加拿大歌手[艾薇兒·拉維尼的歌曲](../Page/艾薇兒·拉維尼.md "wikilink")《[女朋友](../Page/女朋友_\(艾薇兒·拉維尼歌曲\).md "wikilink")》（*Girlfriend*）。
 
 <!-- end list -->
 
-  - 首個獲得認證的歌詞版音樂錄像帶為美国樂隊[魔力紅和歌手](../Page/魔力紅.md "wikilink")[维兹·卡利法的歌曲](../Page/维兹·卡利法.md "wikilink")《[公共電話](https://zh.wikipedia.org/wiki/公共電話_\(歌曲\) "wikilink")》（*Payphone*）。
+  - 首個獲得認證的歌詞版音樂錄像帶為美国樂團[魔力紅和美國饒舌歌手](../Page/魔力紅.md "wikilink")[维兹·卡利法的歌曲](../Page/维兹·卡利法.md "wikilink")《[公共電話](https://zh.wikipedia.org/wiki/公共電話_\(歌曲\) "wikilink")》（*Payphone*）。
 
 <!-- end list -->
 
   - 首個獲得認證的音頻音樂錄像帶為法国樂團[傻瓜龐克和美国歌手](https://zh.wikipedia.org/wiki/傻瓜龐克 "wikilink")[法瑞尔·威廉姆斯的歌曲](../Page/法瑞尔·威廉姆斯.md "wikilink")《*[Get
     Lucky](https://zh.wikipedia.org/wiki/Get_Lucky "wikilink")*》。
 
-### 认证艺人
+### 认证歌手/團體
 
 <table>
 <thead>

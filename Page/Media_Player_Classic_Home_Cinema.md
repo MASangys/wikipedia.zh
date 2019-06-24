@@ -52,7 +52,7 @@ clsid2 接替更新1.7.13後版本\[2\]。
 
 <!-- end list -->
 
-  - 拥有转换[BT601与](https://zh.wikipedia.org/wiki/BT.601 "wikilink")[BT709的像素着色器](https://zh.wikipedia.org/wiki/Rec._709 "wikilink")
+  - 拥有转换[BT601与](../Page/BT.601.md "wikilink")[BT709的像素着色器](https://zh.wikipedia.org/wiki/Rec._709 "wikilink")
 
 <!-- end list -->
 

@@ -678,14 +678,6 @@ B；至於主要由3期生組成、創立時的Team B，則經常被稱為「元
 <td><p>未加入</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/佐藤栞" title="wikilink">佐藤栞</a></p></td>
-<td><p>2014年4月3日</p></td>
-<td><p>心意告示牌</p></td>
-<td><p>-</p></td>
-<td><p>未加入</p></td>
-<td><p>未加入</p></td>
-</tr>
-<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/清水麻璃亞" title="wikilink">清水麻璃亞</a></p></td>
 <td><p>2014年4月3日</p></td>
 <td><p>心意告示牌</p></td>
@@ -693,7 +685,7 @@ B；至於主要由3期生組成、創立時的Team B，則經常被稱為「元
 <td><p>未加入</p></td>
 <td><p>未加入</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/山本瑠香" title="wikilink">山本瑠香</a></p></td>
 <td><p>2014年4月3日</p></td>
 <td><p>心意告示牌</p></td>
@@ -701,7 +693,7 @@ B；至於主要由3期生組成、創立時的Team B，則經常被稱為「元
 <td><p>未加入</p></td>
 <td><p>未加入</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/吉川七瀬" title="wikilink">吉川七瀬</a></p></td>
 <td><p>2014年4月3日</p></td>
 <td><p>心意告示牌</p></td>
@@ -709,7 +701,7 @@ B；至於主要由3期生組成、創立時的Team B，則經常被稱為「元
 <td><p>未加入</p></td>
 <td><p>未加入</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/服部有菜" title="wikilink">服部有菜</a></p></td>
 <td><p>2014年7月27日</p></td>
 <td><p>希望無限</p></td>
@@ -717,7 +709,7 @@ B；至於主要由3期生組成、創立時的Team B，則經常被稱為「元
 <td><p>未加入</p></td>
 <td><p>未加入</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/川原美咲" title="wikilink">川原美咲</a></p></td>
 <td><p>2017年8月8日</p></td>
 <td><p>紅唇Be My Baby</p></td>
@@ -725,7 +717,7 @@ B；至於主要由3期生組成、創立時的Team B，則經常被稱為「元
 <td><p>未加入</p></td>
 <td><p>未加入</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/奧原妃奈子" title="wikilink">奧原妃奈子</a></p></td>
 <td><p>2017年11月19日</p></td>
 <td><p>Teacher Teacher</p></td>
@@ -733,7 +725,7 @@ B；至於主要由3期生組成、創立時的Team B，則經常被稱為「元
 <td><p>未加入</p></td>
 <td><p>未加入</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2018年12月8日自研究生升格</p></td>
 <td></td>
 <td></td>
@@ -741,7 +733,7 @@ B；至於主要由3期生組成、創立時的Team B，則經常被稱為「元
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/大盛真步" title="wikilink">大盛真步</a></p></td>
 <td><p>选秀 3期</p></td>
 <td><p>NO WAY MAN</p></td>
@@ -1208,12 +1200,12 @@ B；至於主要由3期生組成、創立時的Team B，則經常被稱為「元
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/新潟縣" title="wikilink">新潟</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/佐藤栞" title="wikilink">佐藤栞</a></p></td>
-<td><p>2014年4月3日</p></td>
-<td><p>心意告示牌</p></td>
-<td><p>-</p></td>
-<td><p>圈外</p></td>
-<td><p>圈外</p></td>
+<td><p>（徵選中）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/山梨縣" title="wikilink">山梨</a></p></td>
@@ -4516,7 +4508,7 @@ Team B第五任隊長<br />
 <td><p>圈外</p></td>
 <td><p>rowspan="8|AKS</p></td>
 <td><p>2月2日</p></td>
-<td><p>rowspan="6|畢業</p></td>
+<td><p>rowspan="7|畢業</p></td>
 <td><p>畢業前兼任Team A[245][246]</p></td>
 </tr>
 <tr class="odd">
@@ -4584,7 +4576,7 @@ Team B第五任隊長<br />
 <td><p>佐藤栞</p></td>
 <td><p>-</p></td>
 <td><p>6月8日</p></td>
-<td><p>rowspan="2|畢業（預定）畢業前兼任Team B[253]</p></td>
+<td><p>畢業前兼任Team B[253]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4596,8 +4588,8 @@ Team B第五任隊長<br />
 <td><p>山田菜菜美</p></td>
 <td><p>-</p></td>
 <td><p>6月22日</p></td>
+<td><p>畢業（預定）</p></td>
 <td><p>畢業前兼任Team K[254]</p></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>

@@ -1,6 +1,6 @@
 **索尼Xperia**是[索尼旗下](../Page/索尼.md "wikilink")[索尼行動通訊消費電子產品系列的品牌](https://zh.wikipedia.org/wiki/索尼行動通訊 "wikilink")。
 
-## 功能手機
+## 功能型手機
 
 ### 索尼愛立信
 
@@ -16,9 +16,9 @@
 
 #### 2008年
 
-| 名稱                                                                   | 型號 | 發布日期 | 顯示屏          | SIM卡配置      | 處理器                      | 主相機   | 前置攝像頭 | 操作系统                                                       |
-| -------------------------------------------------------------------- | -- | ---- | ------------ | ----------- | ------------------------ | ----- | ----- | ---------------------------------------------------------- |
-| [Xperia X1](https://zh.wikipedia.org/wiki/索尼愛立信Xperia_X1 "wikilink") |    | 10月  | 3in/WVGA/TFT | 單卡/Mini SIM | Qualcomm MSM7200A 528MHz | 320MP |       | [Windows Mobile 6.1](../Page/Windows_Mobile.md "wikilink") |
+| 名稱                                                         | 型號 | 發布日期 | 顯示屏          | SIM卡配置      | 處理器                      | 主相機   | 前置攝像頭 | 操作系统                                                       |
+| ---------------------------------------------------------- | -- | ---- | ------------ | ----------- | ------------------------ | ----- | ----- | ---------------------------------------------------------- |
+| [Xperia X1](../Page/Sony_Ericsson_Xperia_X1.md "wikilink") |    | 10月  | 3in/WVGA/TFT | 單卡/Mini SIM | Qualcomm MSM7200A 528MHz | 320MP |       | [Windows Mobile 6.1](../Page/Windows_Mobile.md "wikilink") |
 
 -----
 
@@ -55,7 +55,7 @@
 | [Xperia NX](https://zh.wikipedia.org/wiki/索尼愛立信Xperia_NX "wikilink")           | SO-02D | 1月   | 4.3in/HD/TFT/Mobile Bravia Engine | 單卡/Micro SIM | Qualcomm Snapdragon S3 MSM8260 1.5GHz | 1210MP/Exmor R Sensor for Mobile | 130MP | [Android 2.3−Android 4.1](../Page/Android.md "wikilink") |
 | [Xperia Acro HD](https://zh.wikipedia.org/wiki/索尼愛立信Xperia_Acro_HD "wikilink") | SO-03D | 1月   | 4.3in/HD/TFT/Mobile Bravia Engine | 單卡/Mini SIM  | Qualcomm Snapdragon S3 MSM8260 1.5GHz | 1210MP/Exmor R Sensor for Mobile | 130MP | [Android 2.3−Android 4.1](../Page/Android.md "wikilink") |
 
-### 索尼移動通信
+### 索尼行動通信
 
 #### 2012年
 
@@ -173,7 +173,7 @@
 
 ## 平板電腦
 
-### 索尼移動通信
+### 索尼行動通信
 
 #### 2012年
 
@@ -202,7 +202,7 @@
 
 ## 其他設備
 
-### 索尼移動通信
+### 索尼行動通信
 
 #### 2012年
 
@@ -679,5 +679,5 @@
 
 [Category:平板電腦](https://zh.wikipedia.org/wiki/Category:平板電腦 "wikilink")
 [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink")
-[Category:索尼移動通信](https://zh.wikipedia.org/wiki/Category:索尼移動通信 "wikilink")
+[Category:索尼移动通信](https://zh.wikipedia.org/wiki/Category:索尼移动通信 "wikilink")
 [Category:好設計獎](https://zh.wikipedia.org/wiki/Category:好設計獎 "wikilink")

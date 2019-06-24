@@ -667,27 +667,155 @@ TOCT-45051(通常盤)</p></td>
 <td></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>19th</p></td>
+<td><p>2017年2月22日</p></td>
+<td><p>君の名は。 (アルバム)|君の名は。English edition</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:cebter;">
+<p>全27曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li>夢灯籠</li>
+<li>三葉の通学</li>
+<li>糸守高校</li>
+<li>はじめての、東京</li>
+<li>憧れカフェ</li>
+<li>奥寺先輩のテーマ</li>
+<li>ふたりの異変</li>
+<li>前前前世 (movie ver.)</li>
+<li>御神体</li>
+<li>デート</li>
+<li>秋祭り</li>
+<li>記憶を呼び起こす瀧</li>
+<li>飛騨探訪</li>
+<li>消えた町</li>
+<li>図書館</li>
+<li>旅館の夜</li>
+<li>御神体へ再び</li>
+<li>口噛み酒トリップ</li>
+<li>作戦会議</li>
+<li>町長説得</li>
+<li>三葉のテーマ</li>
+<li>見えないふたり</li>
+<li>かたわれ時</li>
+<li>スパークル (movie ver.)」</li>
+<li>デート2</li>
+<li>なんでもないや (movie edit.)</li>
+<li>なんでもないや (movie ver.)
+</div>
+</div></li>
+</ol></td>
+<td><p>CD</p></td>
+<td><p>UPCH-80465</p></td>
+<td><p>6位</p></td>
+<td><p>君の名は。 (アルバム)|Your name. (deluxe edition)</p></td>
+</tr>
+<tr class="odd">
+<td><p>20th</p></td>
+<td><p>2017年5月10日</p></td>
+<td><p>サイハテアイニ/洗脳</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:cebter;">
+<p>全3曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li>サイハテアイニ</li>
+<li>洗脳</li>
+<li>棒人間 [Strings ver.]</li>
+</ol></td>
+<td><p>CD</p></td>
+<td><p>UPCH-89333(初回限定盤)<br />
+UPCH-80470(通常盤)</p></td>
+<td><p>2位</p></td>
+<td><p>ANTI ANTI GENERATION</p></td>
+</tr>
+<tr class="even">
+<td><p>21st</p></td>
+<td><p>2018年2月21日</p></td>
+<td><p>Mountain Top/Shape Of Miracle</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:cebter;">
+<p>全2曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li>Mountain Top</li>
+<li>Shape Of Miracle</li>
+</ol></td>
+<td><p>CD</p></td>
+<td><p>UPCH-80415</p></td>
+<td><p>10位</p></td>
+<td><p>ANTI ANTI GENERATION /（未収録）</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/レコード" title="wikilink">アナログレコード</a></p></td>
+<td><p>UPKH-30001</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>22nd</p></td>
+<td><p>2018年6月6日</p></td>
+<td><p>カタルシスト</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:cebter;">
+<p>全2曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li>カタルシスト</li>
+<li>HINOMARU</li>
+</ol></td>
+<td><p>CD+グッズ</p></td>
+<td><p>UPCH-89375(初回限定盤)</p></td>
+<td><p>5位</p></td>
+<td><p>ANTI ANTI GENERATION</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/レコード" title="wikilink">アナログレコード</a></p></td>
+<td><p>UPCH-80489(通常盤)</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
 ### 專輯
 
-  - 独立时期
-
 <table>
 <thead>
 <tr class="header">
 <th><p> </p></th>
-<th><p>発売日</p></th>
-<th><p>タイトル</p></th>
-<th><p>収録曲</p></th>
+<th><p>發售日期</p></th>
+<th><p>標題</p></th>
+<th><p>收錄曲</p></th>
 <th><p>規格</p></th>
 <th><p>規格品番</p></th>
-<th><p>順位</p></th>
+<th><p>最高排名</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
+<td><p>獨立時期</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>1st</p></td>
 <td><p>2003年7月2日</p></td>
 <td><p>RADWIMPS</p></td>
@@ -717,7 +845,7 @@ TOCT-45051(通常盤)</p></td>
 <td><p>YYCF-101</p></td>
 <td><p>86位</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2nd</p></td>
 <td><p>2005年3月8日</p></td>
 <td><p>RADWIMPS 2 〜発展途上〜</p></td>
@@ -748,8 +876,8 @@ TOCT-45051(通常盤)</p></td>
 <td><p>NTRW-0105</p></td>
 <td><p>80位</p></td>
 </tr>
-<tr class="odd">
-<td></td>
+<tr class="even">
+<td><p>主流時期</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -757,24 +885,6 @@ TOCT-45051(通常盤)</p></td>
 <td></td>
 <td></td>
 </tr>
-</tbody>
-</table>
-
-  - 主流時期
-
-<table>
-<thead>
-<tr class="header">
-<th><p> </p></th>
-<th><p>発売日</p></th>
-<th><p>タイトル</p></th>
-<th><p>収録曲</p></th>
-<th><p>規格</p></th>
-<th><p>規格品番</p></th>
-<th><p>順位</p></th>
-</tr>
-</thead>
-<tbody>
 <tr class="odd">
 <td><p>3rd</p></td>
 <td><p>2006年2月15日</p></td>
@@ -932,50 +1042,6 @@ TYCT-60021(通常盤)</p></td>
 </tr>
 <tr class="even">
 <td><p>8th</p></td>
-<td><p>2016年8月24日</p></td>
-<td><p><a href="../Page/你的名字。_(專輯).md" title="wikilink">君の名は。</a></p></td>
-<td><div class="NavFrame" style="clear:both;border:0;">
-<div class="NavHead" style="text-align:cebter;">
-<p>全27曲</p>
-</div>
-<div class="NavContent" style="text-align:left;">
-<ol>
-<li>夢灯籠</li>
-<li>三葉の通学</li>
-<li>糸守高校</li>
-<li>はじめての、東京</li>
-<li>憧れカフェ</li>
-<li>奥寺先輩のテーマ</li>
-<li>ふたりの異変</li>
-<li><a href="../Page/前前前世.md" title="wikilink">前前前世</a> (movie ver.)</li>
-<li>御神体</li>
-<li>デート</li>
-<li>秋祭り</li>
-<li>記憶を呼び起こす瀧</li>
-<li>飛騨探訪</li>
-<li>消えた町</li>
-<li>図書館</li>
-<li>旅館の夜</li>
-<li>御神体へ再び</li>
-<li>口噛み酒トリップ</li>
-<li>作戦会議</li>
-<li>町長説得</li>
-<li>三葉のテーマ</li>
-<li>見えないふたり</li>
-<li>かたわれ時</li>
-<li>スパークル (movie ver.)</li>
-<li>デート２</li>
-<li>なんでもないや (movie edit.)</li>
-<li>なんでもないや (movie ver.)</li>
-</ol></td>
-<td><p>CD+DVD+BOOK<br />
-CD</p></td>
-<td><p>UPCH-29222(初回限定盤)<br />
-UPCH-20423(通常盤)</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>9th</p></td>
 <td><p>2016年11月23日</p></td>
 <td><p><a href="../Page/人間開花.md" title="wikilink">人間開花</a></p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -1022,6 +1088,90 @@ UPCH-20423(通常盤)</p></td>
 </ol></td>
 <td><p>CD+DVD</p></td>
 <td><p>UPCH-29241(初回限定盤)</p></td>
+<td><p>1位</p></td>
+</tr>
+<tr class="odd">
+<td><p>9th</p></td>
+<td><p>2018年12月12日</p></td>
+<td></td>
+<td></td>
+<td><p>CD+DVD<br />
+CD<br />
+レコード</p></td>
+<td><p>UPCH-29313（初回限定盤）<br />
+UPCH-20503（通常盤）<br />
+UPJH-20010/1</p></td>
+<td><p>1位</p></td>
+</tr>
+</tbody>
+</table>
+
+### 原聲帶
+
+<table>
+<thead>
+<tr class="header">
+<th><p> </p></th>
+<th><p>發售日期</p></th>
+<th><p>標題</p></th>
+<th><p>收錄曲</p></th>
+<th><p>規格</p></th>
+<th><p>規格品番</p></th>
+<th><p>最高排名</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1st</p></td>
+<td><p>2016年8月24日</p></td>
+<td><p><a href="../Page/你的名字。_(專輯).md" title="wikilink">你的名字。</a></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:cebter;">
+<p>全27曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li>夢灯籠</li>
+<li>三葉の通学</li>
+<li>糸守高校</li>
+<li>はじめての、東京</li>
+<li>憧れカフェ</li>
+<li>奥寺先輩のテーマ</li>
+<li>ふたりの異変</li>
+<li><a href="../Page/前前前世.md" title="wikilink">前前前世</a> (movie ver.)</li>
+<li>御神体</li>
+<li>デート</li>
+<li>秋祭り</li>
+<li>記憶を呼び起こす瀧</li>
+<li>飛騨探訪</li>
+<li>消えた町</li>
+<li>図書館</li>
+<li>旅館の夜</li>
+<li>御神体へ再び</li>
+<li>口噛み酒トリップ</li>
+<li>作戦会議</li>
+<li>町長説得</li>
+<li>三葉のテーマ</li>
+<li>見えないふたり</li>
+<li>かたわれ時</li>
+<li>スパークル (movie ver.)</li>
+<li>デート２</li>
+<li>なんでもないや (movie edit.)</li>
+<li>なんでもないや (movie ver.)</li>
+</ol></td>
+<td><p>CD+DVD+BOOK<br />
+CD</p></td>
+<td><p>UPCH-29222(初回限定盤)<br />
+UPCH-20423(通常盤)</p></td>
+<td><p>1位</p></td>
+</tr>
+<tr class="even">
+<td><p>2nd</p></td>
+<td><p>2019年7月19日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/天氣之子_(專輯)" title="wikilink">天氣之子</a></p></td>
+<td></td>
+<td><p>CD</p></td>
+<td><p>UPCH-20520</p></td>
 <td></td>
 </tr>
 </tbody>

@@ -177,8 +177,7 @@ RS-274-D格式已被弃用。\[38\]
 
 [在線查看 Gerber圖型](https://gerber-viewer.ucamco.com)
 
-[Gerber X2
-视频](https://archive.is/20150107154344/http://www.ucamco.com/cn/software/cam/ucamx/demo)
+[Gerber X2 视频](https://www.ucamco.com/cn/gerber/demo-1)
 
 [Gerber文件格式规格及与文件格式相关的各种文档](http://www.ucamco.com/cn/guest/downloads)
 

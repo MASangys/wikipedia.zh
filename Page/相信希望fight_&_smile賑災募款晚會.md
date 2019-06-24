@@ -1,5 +1,5 @@
 《**相信希望fight &
-smile賑災募款晚會**》（），是[台灣的](https://zh.wikipedia.org/wiki/台灣 "wikilink")[日本311大地震賑災特別節目](../Page/2011年日本東北地方太平洋近海地震.md "wikilink")，由[華視](https://zh.wikipedia.org/wiki/華視 "wikilink")、[中視](https://zh.wikipedia.org/wiki/中視 "wikilink")、[公視基金會](https://zh.wikipedia.org/wiki/公視基金會 "wikilink")、[中華民國紅十字會等共同製作](https://zh.wikipedia.org/wiki/中華民國紅十字會 "wikilink")。\[1\]
+smile賑災募款晚會**》（），是[台灣的](https://zh.wikipedia.org/wiki/台灣 "wikilink")[日本311大地震賑災特別節目](../Page/2011年日本東北地方太平洋近海地震.md "wikilink")，由[華視](../Page/中華電視公司.md "wikilink")、[中視](https://zh.wikipedia.org/wiki/中國電視公司 "wikilink")、[公視基金會](https://zh.wikipedia.org/wiki/公共電視文化事業基金會 "wikilink")、[中華民國紅十字會等共同製作](https://zh.wikipedia.org/wiki/中華民國紅十字會 "wikilink")。\[1\]
 
 ## 提要
 
@@ -88,7 +88,7 @@ AEC](../Page/Astro_AEC.md "wikilink")…等近二十多個頻道。
 
 1.   蘋果日報|newspaper=蘋果日報|accessdate=2017-08-28|language=zh-TW}}
 2.  [TVBS新聞台官網](http://www.tvbs.com.tw/index/index.html)
-3.  [原住民電視台官網](http://www.titv.org.tw/)
+3.
 4.  [王偉忠30萬「直購」中田英壽戰鞋　網友怒嗆：幹鞋哥！2011/03/19 NOWnews
     今日新聞網](http://www.nownews.com/2011/03/19/91-2698031.htm)
 5.  [中時電子報](http://showbiz.chinatimes.com/showbiz/130511/132011031901019.html)

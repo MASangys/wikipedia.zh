@@ -1262,7 +1262,7 @@
 ## 外部連結
 
   - [爆丸 BAKUGAN](http://www.bakugan.jp/)
-  - [「爆TECH！爆丸」アニメ公式サイト](http://www.shopro.co.jp/tv/baku-tech/)
+  - [「爆TECH！爆丸」アニメ公式サイト](https://web.archive.org/web/20170505215718/http://www.shopro.co.jp/tv/baku-tech/)
   - [テレビ東京・あにてれ　爆TECH！爆丸](http://www.tv-tokyo.co.jp/anime/baku-tech/)
   - [Bakugan Wiki: BakuTech\!
     Bakugan](http://bakugan.wikia.com/wiki/BakuTech!_Bakugan)

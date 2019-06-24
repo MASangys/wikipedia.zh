@@ -1,6 +1,6 @@
-**STARSHIP娛樂**（）是韩国的娱乐公司。当前旗下艺人有女子音乐组合[宇宙少女](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")、[DAYDREAMER](https://zh.wikipedia.org/wiki/DAYDREAMER "wikilink")，男子音乐组合[MONSTA
+**STARSHIP娛樂**（）是韩国的娱乐公司。当前旗下艺人有女子音乐组合[宇宙少女](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")，男子音乐组合[MONSTA
 X](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")、[MIND
-U](https://zh.wikipedia.org/wiki/MIND_U "wikilink")、[DUETTO以及獨唱歌手](https://zh.wikipedia.org/wiki/DUETTO "wikilink")[K.Will](https://zh.wikipedia.org/wiki/K.Will "wikilink")、[鄭世雲](https://zh.wikipedia.org/wiki/鄭世雲 "wikilink")、[韶宥等](https://zh.wikipedia.org/wiki/韶宥 "wikilink")。
+U](https://zh.wikipedia.org/wiki/MIND_U "wikilink")、[DUETTO以及獨唱歌手](https://zh.wikipedia.org/wiki/DUETTO "wikilink")[K.Will](https://zh.wikipedia.org/wiki/K.Will "wikilink")、[鄭世雲](https://zh.wikipedia.org/wiki/鄭世雲 "wikilink")、[韶宥](https://zh.wikipedia.org/wiki/韶宥 "wikilink")、[金娜恩等](https://zh.wikipedia.org/wiki/金娜恩 "wikilink")。
 
 ## 歷史
 
@@ -12,7 +12,7 @@ X以及](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")[宇宙少女](https:
 
 2011年5月26日，STARSHIP娱乐推出第一组男子团体[BOYFRIEND](../Page/Boyfriend_\(男子团体\).md "wikilink")。
 
-2013年12月18日，[LOEN娛樂宣佈決定投資STARSHIP娛樂的](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")70％股份，成為旗下獨立品牌\[2\]\[3\]。
+2013年12月18日，[LOEN娛樂宣佈決定投資STARSHIP娛樂的](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")64.83％股份，成為旗下獨立品牌\[2\]\[3\]。
 
 2014年12月10日，当天起每周三在有线台Mnet中播出《[NO.MERCY](https://zh.wikipedia.org/wiki/NO_MERCY "wikilink")》(共10集)，STARSHIP娱乐真人选秀节目，最后一集中选出7人，以[MONSTA
 X組合成員出道](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")。
@@ -30,102 +30,26 @@ Kong by STARSHIP，以綜合經紀公司體系進行事業發展。\[7\]。
 
 2017年1月17日，STARSHIP娛樂於旗下藝人官方FanCafe公告，公司由原址搬遷至[首爾特別市](https://zh.wikipedia.org/wiki/首爾特別市 "wikilink")[江南區](../Page/江南區_\(首爾\).md "wikilink")151號4樓。
 
-## 相关公司
-
-### 母公司
-
-#### Kakao M
-
-### 子公司
-
-#### STARSHIP X
-
-  - Brother Su
-  - \#GUN
-  - [周永](../Page/周永_\(歌手\).md "wikilink")
-
-#### King Kong娛樂
-
-#### House Of Music
-
-  -
-### 合作公司
-
-#### 乐华娱乐
-
-#### Brand New Music
-
 ## 旗下藝人
 
 ### 个人歌手
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p>出道日期</p></td>
-<td><p>名稱</p></td>
-<td><p>性別</p></td>
-<td><p>备注</p></td>
-</tr>
-<tr class="even">
-<td><p>2007年3月6日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/K.Will" title="wikilink">K.Will</a></p></td>
-<td><p>男</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2010年</p></td>
-<td></td>
-<td><p>子公司<a href="https://zh.wikipedia.org/wiki/STARSHIP_X" title="wikilink">STARSHIP X娱乐歌手</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2010年12月7日</p></td>
-<td><p><a href="../Page/周永_(歌手).md" title="wikilink">周永</a></p></td>
-<td><p>子公司<a href="https://zh.wikipedia.org/wiki/STARSHIP_X" title="wikilink">STARSHIP X娱乐歌手</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2013年10月22日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/柳昇佑" title="wikilink">柳昇佑</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2016年7月28日</p></td>
-<td><p>#GUN</p></td>
-<td><p>子公司<a href="https://zh.wikipedia.org/wiki/STARSHIP_X" title="wikilink">STARSHIP X娱乐歌手</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2016年3月31日</p></td>
-<td></td>
-<td><p>女</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2010年6月3日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/韶宥" title="wikilink">韶宥</a></p></td>
-<td><p><a href="../Page/SISTAR.md" title="wikilink">SISTAR解散后</a>，2017年6月13日与公司续约以獨唱歌手身份活动</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2017年8月31日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鄭世雲" title="wikilink">鄭世雲</a></p></td>
-<td><p>男</p></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+|             |                                                           |    |                                                                      |
+| ----------- | --------------------------------------------------------- | -- | -------------------------------------------------------------------- |
+| 出道日期        | 名稱                                                        | 性別 | 备注                                                                   |
+| 2007年3月6日   | [K.Will](https://zh.wikipedia.org/wiki/K.Will "wikilink") | 男  |                                                                      |
+| 2013年10月22日 | [柳昇佑](https://zh.wikipedia.org/wiki/柳昇佑 "wikilink")       | 男  |                                                                      |
+| 2010年6月3日   | [韶宥](https://zh.wikipedia.org/wiki/韶宥 "wikilink")         | 女  | [SISTAR解散后](../Page/SISTAR.md "wikilink")，2017年6月13日与公司续约以solo歌手身份活动 |
+| 2017年8月31日  | [鄭世雲](https://zh.wikipedia.org/wiki/鄭世雲 "wikilink")       | 男  |                                                                      |
+| 2018年9月1日   | [金娜恩](https://zh.wikipedia.org/wiki/金娜恩 "wikilink")       | 女  |                                                                      |
 
 ### 组合
 
-|            |                                                                   |                                                           |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |    |         |
-| ---------- | ----------------------------------------------------------------- | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -- | ------- |
-| 出道／签约日期    | 組合名稱                                                              | 隊長                                                        | 成員                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | 性別 | 官方粉絲名稱  |
-| 2015年5月14日 | [MONSTA X](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")     | [SHOWNU](../Page/孫賢祐.md "wikilink")                       | [SHOWNU](../Page/孫賢祐.md "wikilink")、[元虎](../Page/李虎錫.md "wikilink")、[民赫](https://zh.wikipedia.org/wiki/民赫 "wikilink")、[基賢](https://zh.wikipedia.org/wiki/劉基賢 "wikilink")、[亨元](../Page/亨元.md "wikilink")、[周憲](../Page/李周憲.md "wikilink")、[I.M](../Page/任創均.md "wikilink")                                                                                                                                                                                                                                                             | 男  | MONBEBE |
-| 2016年2月25日 | [宇宙少女](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")             | [EXY](../Page/EXY.md "wikilink")                          | [雪娥](../Page/雪娥.md "wikilink")、[宣儀](https://zh.wikipedia.org/wiki/宣儀 "wikilink")、[苞娜](../Page/苞娜.md "wikilink")、[EXY](../Page/EXY.md "wikilink")、[秀斌](../Page/秀斌.md "wikilink")、[Luda](https://zh.wikipedia.org/wiki/李露多 "wikilink")、[多願](https://zh.wikipedia.org/wiki/多願 "wikilink")、[恩熙](../Page/恩熙_\(歌手\).md "wikilink")、[程瀟](https://zh.wikipedia.org/wiki/程瀟 "wikilink")、[美岐](https://zh.wikipedia.org/wiki/美岐 "wikilink")、[夏天](../Page/夏天_\(歌手\).md "wikilink")、[多榮](../Page/多荣.md "wikilink")、[璉靜](../Page/璉靜.md "wikilink") | 女  | UJUNG   |
-| 2019年      | [DAYDREAMER](https://zh.wikipedia.org/wiki/DAYDREAMER "wikilink") | [秀雅](https://zh.wikipedia.org/wiki/DAYDREAMER "wikilink") | [Hana](https://zh.wikipedia.org/wiki/DAYDREAMER "wikilink")、[娜恩](https://zh.wikipedia.org/wiki/DAYDREAMER "wikilink")、[秀雅](https://zh.wikipedia.org/wiki/DAYDREAMER "wikilink")、[芳芸](https://zh.wikipedia.org/wiki/DAYDREAMER "wikilink")、[Stacy](https://zh.wikipedia.org/wiki/DAYDREAMER "wikilink")                                                                                                                                                                                                                               | 女  |         |
+|            |                                                               |                                     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |    |         |
+| ---------- | ------------------------------------------------------------- | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -- | ------- |
+| 出道／签约日期    | 組合名稱                                                          | 隊長                                  | 成員                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | 性別 | 官方粉絲名稱  |
+| 2015年5月14日 | [MONSTA X](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink") | [SHOWNU](../Page/孫賢祐.md "wikilink") | [SHOWNU](../Page/孫賢祐.md "wikilink")、[元虎](../Page/李虎錫.md "wikilink")、[民赫](https://zh.wikipedia.org/wiki/民赫 "wikilink")、[基賢](https://zh.wikipedia.org/wiki/劉基賢 "wikilink")、[亨元](../Page/亨元.md "wikilink")、[周憲](../Page/李周憲.md "wikilink")、[I.M](../Page/任創均.md "wikilink")                                                                                                                                                                                                                                                             | 男  | MONBEBE |
+| 2016年2月25日 | [宇宙少女](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")         | [EXY](../Page/EXY.md "wikilink")    | [雪娥](../Page/雪娥.md "wikilink")、[宣儀](https://zh.wikipedia.org/wiki/宣儀 "wikilink")、[苞娜](../Page/苞娜.md "wikilink")、[EXY](../Page/EXY.md "wikilink")、[秀斌](../Page/秀斌.md "wikilink")、[Luda](https://zh.wikipedia.org/wiki/李露多 "wikilink")、[多願](https://zh.wikipedia.org/wiki/多願 "wikilink")、[恩熙](../Page/恩熙_\(歌手\).md "wikilink")、[程瀟](https://zh.wikipedia.org/wiki/程瀟 "wikilink")、[美岐](https://zh.wikipedia.org/wiki/美岐 "wikilink")、[夏天](../Page/夏天_\(歌手\).md "wikilink")、[多榮](../Page/多荣.md "wikilink")、[璉靜](../Page/璉靜.md "wikilink") | 女  | UJUNG   |
 
 ### 企划组合
 
@@ -167,22 +91,8 @@ Kong by STARSHIP，以綜合經紀公司體系進行事業發展。\[7\]。
 <td><p><a href="../Page/雪娥.md" title="wikilink">雪娥</a>、<a href="../Page/Luda.md" title="wikilink">Luda</a>、<a href="../Page/磪有情.md" title="wikilink">有情</a>、<a href="../Page/金度延.md" title="wikilink">度延</a></p></td>
 <td><p>與<a href="../Page/Fantagio.md" title="wikilink">Fantagio合作</a></p></td>
 </tr>
-<tr class="even">
-<td><p>2019年4月11日</p></td>
-<td><p><a href="../Page/Eunha.md" title="wikilink">Eunha</a> x <a href="https://zh.wikipedia.org/wiki/金元植" title="wikilink">RAVI</a></p></td>
-<td><p>混合</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金元植" title="wikilink">RAVI</a>、<a href="../Page/Eunha.md" title="wikilink">Eunha</a>、<a href="https://zh.wikipedia.org/wiki/GroovyRoom" title="wikilink">GroovyRoom</a></p></td>
-<td><p>與<a href="../Page/Jellyfish娛樂.md" title="wikilink">Jellyfish娱乐</a>、<a href="https://zh.wikipedia.org/wiki/Source_Music" title="wikilink">Source Music</a>、<a href="https://zh.wikipedia.org/wiki/H1ghr_music" title="wikilink">H1ghr Music合作</a></p></td>
-</tr>
 </tbody>
 </table>
-
-### 其它艺人
-
-#### House of Music
-
-  -
-  - H.ONE
 
 ## 過去旗下藝人
 
@@ -203,16 +113,14 @@ Kong by STARSHIP，以綜合經紀公司體系進行事業發展。\[7\]。
 
 **个人**
 
-|                                                   |    |            |                                                                                                                 |
-| ------------------------------------------------- | -- | ---------- | --------------------------------------------------------------------------------------------------------------- |
-| 名称                                                | 性別 | 解约日期       | 备注                                                                                                              |
-| [李贤智](../Page/李賢智.md "wikilink")                  | 女  |            |                                                                                                                 |
-| [寶拉](https://zh.wikipedia.org/wiki/寶拉 "wikilink") | 女  | 2017年6月3日  | [SISTAR解散后](../Page/SISTAR.md "wikilink")，2017年6月13日改投[Hook娱乐](https://zh.wikipedia.org/wiki/Hook娱乐 "wikilink") |
-| [孝琳](../Page/孝琳.md "wikilink")                    | 女  | 2017年6月3日  | [SISTAR解散后](../Page/SISTAR.md "wikilink")，2017年9月9日正式宣佈不續約，后創建bridge娛樂                                          |
-| 多顺                                                | 女  | 2017年6月3日  | [SISTAR解散后](../Page/SISTAR.md "wikilink")，加入子公司[King Kong娛樂](../Page/King_Kong娛樂.md "wikilink")，以演员身份活动         |
-| [鄭基高](../Page/鄭基高.md "wikilink")                  | 男  | 2018年5月19日 | 子公司STARSHIP X娱乐歌手                                                                                               |
-| [Mad Clown](../Page/Mad_Clown.md "wikilink")      | 男  | 2018年9月29日 | 子公司STARSHIP X娱乐歌手                                                                                               |
-| MoonMoon                                          | 男  | 2018年      | 子公司House of Music歌手                                                                                             |
+|                                                     |    |           |                                                                                                                 |
+| --------------------------------------------------- | -- | --------- | --------------------------------------------------------------------------------------------------------------- |
+| 名称                                                  | 性別 | 解约日期      | 备注                                                                                                              |
+| [李贤智](https://zh.wikipedia.org/wiki/李贤智 "wikilink") | 女  |           |                                                                                                                 |
+| [寶拉](https://zh.wikipedia.org/wiki/寶拉 "wikilink")   | 女  | 2017年6月3日 | [SISTAR解散后](../Page/SISTAR.md "wikilink")，2017年6月13日改投[Hook娱乐](https://zh.wikipedia.org/wiki/Hook娱乐 "wikilink") |
+| [孝琳](../Page/孝琳.md "wikilink")                      | 女  | 2017年6月3日 | [SISTAR解散后](../Page/SISTAR.md "wikilink")，2017年9月9日正式宣佈不續約，后創建bridge娛樂                                          |
+| 多顺                                                  | 女  | 2017年6月3日 | [SISTAR解散后](../Page/SISTAR.md "wikilink")，加入子公司[King Kong娛樂](../Page/King_Kong娛樂.md "wikilink")，以演员身份活动         |
+| MoonMoon                                            | 男  | 2018年     | 子公司House of Music歌手                                                                                             |
 
 ## 練習生
 
@@ -234,11 +142,11 @@ Kong by STARSHIP，以綜合經紀公司體系進行事業發展。\[7\]。
   - 朴宣（[偶像學校](https://zh.wikipedia.org/wiki/偶像學校 "wikilink")）
   - [姜敏喜](https://zh.wikipedia.org/wiki/姜敏喜 "wikilink")（[PRODUCE X
     101](../Page/PRODUCE_X_101.md "wikilink")）
-  - [具振模](https://zh.wikipedia.org/wiki/具振模 "wikilink")（[PRODUCE X
+  - [具正模](https://zh.wikipedia.org/wiki/具正模 "wikilink")（[PRODUCE X
     101](../Page/PRODUCE_X_101.md "wikilink")）
   - [文玄彬](https://zh.wikipedia.org/wiki/文玄彬 "wikilink")（[PRODUCE X
     101](../Page/PRODUCE_X_101.md "wikilink")）
-  - [宋亨俊](https://zh.wikipedia.org/wiki/宋亨俊 "wikilink")（[PRODUCE X
+  - [宋亨俊](../Page/宋亨俊.md "wikilink")（[PRODUCE X
     101](../Page/PRODUCE_X_101.md "wikilink")）
   - [咸元进](https://zh.wikipedia.org/wiki/咸元进 "wikilink")（[PRODUCE X
     101](../Page/PRODUCE_X_101.md "wikilink")）
@@ -256,8 +164,10 @@ Kong by STARSHIP，以綜合經紀公司體系進行事業發展。\[7\]。
   - 崔連壽（[BOYFRIEND預備成員](../Page/Boyfriend_\(男子团体\).md "wikilink")，前[AlphaBAT成員](../Page/AlphaBAT.md "wikilink")）
   - 金秀燁（[BOYFRIEND預備成員](../Page/Boyfriend_\(男子团体\).md "wikilink")，前[AlphaBAT成員](../Page/AlphaBAT.md "wikilink")）
   - 鄭永勳（[HALO](../Page/HALO_\(韓國組合\).md "wikilink")）
-  - 朴珉均（[ONF](https://zh.wikipedia.org/wiki/ONF "wikilink")）
-  - 盧允浩（[VAV](../Page/VAV.md "wikilink")）
+  - 朴珉均（[MONSTA
+    X預備成員](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")，現為[ONF成員](https://zh.wikipedia.org/wiki/ONF "wikilink")）
+  - 盧允浩（[MONSTA
+    X預備成員](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")，現為[VAV成員](../Page/VAV.md "wikilink")）
 
 **女练习生**
 
@@ -403,13 +313,87 @@ Starship Planet的計劃於2011年開始，每年的冬季會推出一首歌曲�
 
 ### 百事可乐企划
 
-|            |                 |                                                                                             |                                                                   |    |
-| ---------- | --------------- | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | -- |
-| **发布日期**   | 歌曲名称            | **演唱者**                                                                                     | 歌曲制作人                                                             | 备注 |
-| 2018年4月5日  | LOVE IT LIVE IT | [YDPP](../Page/YDPP.md "wikilink")                                                          |                                                                   |    |
-| 2018年6月1日  | STRONG          | [宇宙Meki](../Page/宇宙Meki.md "wikilink")                                                      |                                                                   |    |
-| 2019年4月11日 | BLOSSOM         | [Eunha](../Page/Eunha.md "wikilink") x [RAVI](https://zh.wikipedia.org/wiki/金元植 "wikilink") | [GroovyRoom](https://zh.wikipedia.org/wiki/GroovyRoom "wikilink") |    |
-| 2019年      |                 | [邕圣祐](https://zh.wikipedia.org/wiki/邕聖祐 "wikilink")                                         | [Flow Blow](../Page/Flow_Blow.md "wikilink")                      |    |
+|            |                 |                                                                                             |                                                                   |                                                                                                                                                                                               |
+| ---------- | --------------- | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **发布日期**   | 歌曲名称            | **演唱者**                                                                                     | 歌曲制作人                                                             | 备注                                                                                                                                                                                            |
+| 2018年4月5日  | LOVE IT LIVE IT | [YDPP](../Page/YDPP.md "wikilink")                                                          |                                                                   | 與[Brand New Music合作](../Page/Brand_New_Music.md "wikilink")                                                                                                                                   |
+| 2018年6月1日  | STRONG          | [宇宙Meki](../Page/宇宙Meki.md "wikilink")                                                      |                                                                   | 與[Fantagio合作](../Page/Fantagio.md "wikilink")                                                                                                                                                 |
+| 2019年4月11日 | BLOSSOM         | [Eunha](../Page/Eunha.md "wikilink") x [RAVI](https://zh.wikipedia.org/wiki/金元植 "wikilink") | [GroovyRoom](https://zh.wikipedia.org/wiki/GroovyRoom "wikilink") | 與[Jellyfish娱乐](../Page/Jellyfish娛樂.md "wikilink")、[Source Music](https://zh.wikipedia.org/wiki/Source_Music "wikilink")、[H1ghr Music合作](https://zh.wikipedia.org/wiki/H1ghr_music "wikilink") |
+| 2019年6月11日 | HEART SIGN      | [邕圣祐](https://zh.wikipedia.org/wiki/邕聖祐 "wikilink")                                         | [Flow Blow](../Page/Flow_Blow.md "wikilink")                      | 與[Fantagio合作](../Page/Fantagio.md "wikilink")                                                                                                                                                 |
+
+## 相关公司
+
+### 母公司
+
+#### Kakao M
+
+### 子公司
+
+#### STARSHIP X
+
+**旗下藝人**
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>出道日期</p></td>
+<td><p>名稱</p></td>
+<td><p>性別</p></td>
+<td><p>职业</p></td>
+<td><p>备注</p></td>
+</tr>
+<tr class="even">
+<td><p>2010年</p></td>
+<td></td>
+<td><p>男</p></td>
+<td><p>歌手</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2010年12月7日</p></td>
+<td><p><a href="../Page/周永_(歌手).md" title="wikilink">周永</a></p></td>
+<td><p>男</p></td>
+<td><p>歌手</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2016年7月28日</p></td>
+<td><p>#GUN</p></td>
+<td><p>男</p></td>
+<td><p>歌手</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+**過去旗下藝人**
+
+|                                              |    |    |            |    |
+| -------------------------------------------- | -- | -- | ---------- | -- |
+| 名称                                           | 性別 | 职业 | 解约日期       | 备注 |
+| [鄭基高](../Page/鄭基高.md "wikilink")             | 男  | 歌手 | 2018年5月19日 |    |
+| [Mad Clown](../Page/Mad_Clown.md "wikilink") | 男  | 歌手 | 2018年9月29日 |    |
+
+#### King Kong娛樂
+
+#### HIGHLINE娛樂
+
+| 名称                                                      | 职业                                                        | 出道                                   | 备注                                                                 |
+| ------------------------------------------------------- | --------------------------------------------------------- | ------------------------------------ | ------------------------------------------------------------------ |
+| [DJ 소다](https://zh.wikipedia.org/wiki/DJ_소다 "wikilink") | [DJ](https://zh.wikipedia.org/wiki/디스크_자키 "wikilink")     | [2013年](../Page/2013年.md "wikilink") |                                                                    |
+| [키겐](https://zh.wikipedia.org/wiki/키겐 "wikilink")       | [PD](https://zh.wikipedia.org/wiki/制片人 "wikilink")        | [2007年](../Page/2007年.md "wikilink") |                                                                    |
+| dress                                                   | [PD](https://zh.wikipedia.org/wiki/制片人 "wikilink")        | [2015年](../Page/2015年.md "wikilink") |                                                                    |
+| DJ Vanto                                                | [DJ](https://zh.wikipedia.org/wiki/디스크_자키 "wikilink")     | [2018年](../Page/2018年.md "wikilink") |                                                                    |
+| 장석훈                                                     | [歌手](../Page/歌手.md "wikilink")                            | [2017年](../Page/2017年.md "wikilink") |                                                                    |
+| leon                                                    | [PD](https://zh.wikipedia.org/wiki/制作人 "wikilink")        | [2017年](../Page/2017年.md "wikilink") |                                                                    |
+| fka                                                     | [PD](https://zh.wikipedia.org/wiki/制作人 "wikilink")        | [2018年](../Page/2018年.md "wikilink") |                                                                    |
+| Pluma(宋民载)                                              | [rapper](https://zh.wikipedia.org/wiki/rapper "wikilink") | [2019年](../Page/2019年.md "wikilink") | [高等Rapper3](https://zh.wikipedia.org/wiki/高等Rapper3 "wikilink") 选手 |
+
+### 合作公司
+
+#### 乐华娱乐
+
+#### Brand New Music
 
 ## 參考資料
 
@@ -420,6 +404,9 @@ Starship Planet的計劃於2011年開始，每年的冬季會推出一首歌曲�
   -
   -
   -
+[Category:STARSHIP娛樂](https://zh.wikipedia.org/wiki/Category:STARSHIP娛樂 "wikilink")
+[Category:Kakao_M](https://zh.wikipedia.org/wiki/Category:Kakao_M "wikilink")
+[Category:韓國藝人經紀公司](https://zh.wikipedia.org/wiki/Category:韓國藝人經紀公司 "wikilink")
 [Category:STARSHIP娛樂](https://zh.wikipedia.org/wiki/Category:STARSHIP娛樂 "wikilink")
 [Category:Kakao_M](https://zh.wikipedia.org/wiki/Category:Kakao_M "wikilink")
 [Category:韓國藝人經紀公司](https://zh.wikipedia.org/wiki/Category:韓國藝人經紀公司 "wikilink")

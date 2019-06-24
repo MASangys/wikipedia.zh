@@ -43,7 +43,7 @@
 <td><p><a href="../Page/呂頌賢.md" title="wikilink">呂頌賢</a></p></td>
 <td><p>狄　信</p></td>
 <td><p>劉妙蓮男友，後丈夫<br />
-張天鼎之手下</p></td>
+張天鼎之手下，後來投靠屠天龍</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/伍詠薇.md" title="wikilink">伍詠薇</a></p></td>
@@ -94,9 +94,10 @@
 <td><p><a href="../Page/方剛_(演員).md" title="wikilink">方　剛</a></p></td>
 <td><p>屠天龍</p></td>
 <td><p>原名：屠雄<br />
-賭博機械人，實力無人能敵<br />
-石志康親父<br />
-<em>於第25集出現</em></p></td>
+賭博機-{械}-人，實力無人能敵<br />
+曾與聶萬龍及張天鼎二人結拜為兄弟<br />
+石志康之親父<br />
+<em>於第25集出場</em></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/李香琴.md" title="wikilink">李香琴</a></p></td>

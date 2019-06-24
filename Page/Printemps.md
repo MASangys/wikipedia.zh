@@ -5,16 +5,16 @@ Like Magic》，張國榮更特意唱出國語版和日文版。
 
 ## Music Videos
 
-| 歌名                                                             | 導演   |
-| -------------------------------------------------------------- | ---- |
-| [取暖](http://www.youtube.com/watch?v=8Y-dMPEEwkU/)              |      |
-| [My God](http://www.youtube.com/watch?v=BiSWdBs8yPY/)          |      |
-| [Love Like Magic](http://www.youtube.com/watch?v=4nKmwIYx5dc/) |      |
-| [Everybody](http://www.youtube.com/watch?v=sXI9H9lVp9k/)       | 马宜中| |
-| [真相](http://www.youtube.com/watch?v=Of5iQLpRrgE/)              |      |
-| [作伴](http://www.youtube.com/watch?v=lUOLGRGFdmI/)              |      |
-| [被愛](http://www.youtube.com/watch?v=u7GnmqX-1ok/)              |      |
-| [マシュマロ](http://www.youtube.com/watch?v=Wz7onhDjYHI/)           |      |
+| 歌名                                                             | 導演  |
+| -------------------------------------------------------------- | --- |
+| [取暖](http://www.youtube.com/watch?v=8Y-dMPEEwkU/)              | 马宜中 |
+| [My God](http://www.youtube.com/watch?v=BiSWdBs8yPY/)          | 马宜中 |
+| [Love Like Magic](http://www.youtube.com/watch?v=4nKmwIYx5dc/) | 马宜中 |
+| [Everybody](http://www.youtube.com/watch?v=sXI9H9lVp9k/)       | 马宜中 |
+| [真相](http://www.youtube.com/watch?v=Of5iQLpRrgE/)              | 马宜中 |
+| [作伴](http://www.youtube.com/watch?v=lUOLGRGFdmI/)              | 马宜中 |
+| [被愛](http://www.youtube.com/watch?v=u7GnmqX-1ok/)              | 林锦和 |
+| [マシュマロ](http://www.youtube.com/watch?v=Wz7onhDjYHI/)           | 马宜中 |
 
 ## 專輯派台歌曲成績
 

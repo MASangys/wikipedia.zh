@@ -50,7 +50,6 @@ PS)。后者主要用于城间巴士和[铰接巴士](https://zh.wikipedia.org/w
 
 ## 新版本
 
-[Mercedes_citaro_lu.jpg](https://zh.wikipedia.org/wiki/File:Mercedes_citaro_lu.jpg "fig:Mercedes_citaro_lu.jpg")
 在2005年，Mercedes-Benz/EvoBus发布了一个新版本的Citaro，同时引进了符合欧盟四、五、EEV[废气排放标准的发动机](../Page/欧洲汽车尾气排放标准.md "wikilink")。除了较小的技术变更之外，主要考虑容纳新一代的发动机。外观设计也有所更改，新款造型看上去比旧款造型有了更少的棱角，与此同时，内饰也做了相应的更改。旧版本的产品在2006年秋天停产。同时发布Citaro
 LE和Citaro LE Ü两款型号，这两款型号在老款设计里从未被发表过。
 [Citaro_SSB_7141.jpg](https://zh.wikipedia.org/wiki/File:Citaro_SSB_7141.jpg "fig:Citaro_SSB_7141.jpg")[斯图加特](https://zh.wikipedia.org/wiki/斯图加特 "wikilink")\]\]

@@ -152,6 +152,87 @@ API函数SendMessage是个](../Page/Windows_API.md "wikilink")[同步调用](../
 
 异步发送或投寄消息的函数，如PostMessage、SendMessageCallback、SendNotifyMessage，消息参数中不能使用指针，否则函数调用失败。
 
+## GetMessage伪算法
+
+``` cpp
+BOOL GetMessage(MSG *lpMsg, HWND hWnd , UINT wMsgFilterMin, UINT wMsgFilterMax)
+{
+         //查看QS_SENDMESSAGE标志，如果有的话循环处理，直到没有消息位置
+         DWORD dwRetVal = 0;
+         ThreadInfo threadInfo;
+
+FLAG_SENDPROCLOOP:
+         GetThreadInfo(GetCurrentThreadId(), &threadInfo);
+         while (threadInfo.QS_SENDMESSAGE == QS_SIGNALSET) {
+                   //从发送消息队列中获取消息
+                   dwReturnVal = GetMsgFromQueue(QUEUE_SEND, lpMsg, hWnd,wMsgFilterMin, wMsgFilterMax);
+                   //判断是否取到消息,有则调用窗口函数，无则复为QS_SENDMESSAGE标志
+                   If (dwReturnVal == GETMESSAGE_HASMESSAGE) {
+                            //调用指定窗口的窗口函数
+                            CallWindowProc(hWnd, &threadInfo, lpMsg);
+                   }
+                   else {
+                            QS_SENDMESSAGE = QS_SIGNALRESET;
+                            break;
+                   }
+         }
+         //在继续处理之前再次检查发送消息队列
+         if (threadInfo.QS_SENDMESSAGE == QS_SIGNALSET) goto FLAG_SENDPROCLOOP;
+         //检查发送消息队列, 如果有消息则取发送消息
+         //判断是否还有发送消息，没有了则复位QS_POSTMESSAGE标志
+         if (threadInfo.QS_POSTMESSAGE == QS_SIGNALSET) {
+                   dwReturnVal = GetMsgFromQueue(QUEUE_POST, lpMsg, hWnd, wMsgFilterMin, wMsgFilterMax);
+                   if (dwReturnVal == GETMESSAGE_LASTMESSAGE)
+                            threadInfo.QS_POSTMESSAGE = QS_SIGNALRESET;
+
+                   return TRUE;
+         }
+
+         //如果退出标志被置位
+         if (threadInfo.QS_QUIT == QS_SIGNALSET) {
+                   threadInfo.QS_QUIT = QS_SIGNALRESET;
+                   FillMessage(lpMsg, MESSAGE_QUIT);
+                   return FALSE;
+         }
+
+         //检查输入消息队列
+         if (threadInfo.QS_INPUT == QS_SIGNALSET) {
+                   DWORD dwRetVal = GetMessageFromQueue(QUEUE_INPUT, lpMsg, hWnd, wMsgFilterMin, wMsgFilterMax);
+                   //检查是否有键盘，鼠标消息
+                   if (Test(dwRetVal, QS_KEY) == QS_LASTMOUSEKEYMESSAGE)
+                            threadInfo.QS_KEY = QS_SIGNALRESET;
+                   if (Test(dwRetVal, QS_MOUSEBUTTON) == QS_LASTMOUSEMESSAGE)
+                            threadInfo.QS_MOUSEBUTTON = QS_SIGNALRESET;
+
+                   return TRUE;
+         }
+
+         //测试QS_PAINT
+         if (threadInfo.QS_PAINT == QS_SIGNALSET) {
+                   //填充MSG，如果没有窗口过程确认窗口，则复位QS_PAINT标志
+                   //...
+                   //返回TRUE
+                   threadInfo.QS_PAINT = QS_SIGNALRESET;
+                   return TRUE;
+         }
+
+         if (threadInfo.QS_TIMER == QS_SIGNALSET) {
+                   //填充MSG，如果没有定时器报时，则复位QS_TIMER标志
+                   //...
+                   //返回TRUE
+                   return TRUE;
+         }
+
+         //等待有消息到达
+         dwRetVal = MsgWaitForMultipleObjectsEx(...);
+         if (...)
+                   goto FLAG_SENDPROCLOOP;
+
+         //等待失败
+         return FALSE;
+}
+```
+
 ## 參考資料
 
 <div class="references-small">

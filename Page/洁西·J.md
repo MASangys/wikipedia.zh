@@ -92,11 +92,11 @@ Leonti編寫\[41\]\[42\]並與Tha Vil合作的电影主题曲《My Supersta》�
 
 2017年8月11日，潔西·J为[M\&M's的广告活动发布了一首新单曲](../Page/M&M's.md "wikilink")《》。\[43\]
 
-2017年9月15日发行《》四首单曲之一《Think About
-That》，\[44\]代表实现（realisation），10月6日发行第二首单曲《Not
-My Ex》，代表着迷（obsession），\[45\]11月17日发行第三首单曲《Queen》，代表權力（empowerment）。
+2017年9月15日发行《》四首单曲之主打单曲《Think About
+That》，\[44\]代表实现（realisation），10月6日发行《Not My
+Ex》，代表着迷（obsession），\[45\]11月17日发行《Queen》，代表权力（empowerment）。
 
-2018年5月25日發布專輯《》，專輯分成四部份，R（Realisations/領悟）、O（Obsession/沉迷）、S（Sex/性）、E（Empowerment/釋放），此专辑远离了过去的音乐風格，而采用[R\&B风格](https://zh.wikipedia.org/wiki/R&B "wikilink")。\[46\]
+2018年5月25日發布專輯《》，並將專輯分成四個部份，R（Realisations/領悟）、O（Obsession/沉迷）、S（Sex/性）、E（Empowerment/釋放），此专辑远离了过去的音乐風格，而采用[R\&B风格](https://zh.wikipedia.org/wiki/R&B "wikilink")。\[46\]
 
 2018年10月26日她發行\[47\]第一张[圣诞节专辑](../Page/圣诞节.md "wikilink")，名为《》。
 
@@ -127,20 +127,22 @@ USA》，以及像凱蒂·佩芮，[克莉絲汀·錢諾維斯和](../Page/克�
 在她*Heartbeat
 Tour*之后，潔西·J称她的粉丝們为“heartbeats”。她曾说过：“粉絲们很棒，人们都知道我是谁而粉絲們是我参加[VMA的唯一原因](../Page/MTV音樂錄影帶大獎.md "wikilink")，粉絲们支持我并购买我的专辑和单曲，粉絲们站在酒店的外面，粉絲们来看演出，粉絲們记住我的歌词和纹身，粉絲们把頭髮剪得像我一样。你必须爱你的粉丝。这就是为什么我把粉絲们为叫做我的“heartbeats”，因为没有粉絲們的支持我就不可能于此出現”。\[58\]
 
-## 个人生活
+## 私生活
 
-2014年，因為想把傳媒焦點集中在她的工作，她移居洛杉磯。她曾声称自己为双性恋\[59\]\[60\]，后来放弃。\[61\]2014年11月她和美国歌手约会,\[62\]2015年10月他们分手，但仍是好友。2018年10月起，她與美國演員[查寧·塔圖約會](https://zh.wikipedia.org/wiki/查尼·泰坦 "wikilink")\[63\]。她认为自己是[女权主义者](https://zh.wikipedia.org/wiki/女权主义 "wikilink")，并认为平等权利应該成為常态，也认为作为一名女性的責任包括“要有信心，不要因為任何的指責而使自尊心受到傷害”。\[64\]
+2014年，因為想把傳媒焦點集中在她的工作，她移居洛杉磯。她曾称自己为双性恋\[59\]\[60\]，后来放弃。\[61\]2014年11月她和美国歌手约会，\[62\]2015年10月他们分手，但仍是好友。2018年10月起，她與美國演員[查寧·塔圖約會](https://zh.wikipedia.org/wiki/查尼·泰坦 "wikilink")\[63\]。她认为自己是[女权主义者](https://zh.wikipedia.org/wiki/女权主义 "wikilink")，并认为平等权利应該成為常态，也认为作为一名女性的責任包括“要有信心，不要因為任何的指責而使自尊心受到傷害”。\[64\]
+
+2014年，Jessie J被诊断出无法生育，并且需要立即切除子宫，不过当时拒绝。\[65\]
 
 ## 慈善活动
 
 她出现在英国主要的慈善电视节目，[BBC的](../Page/英国广播公司.md "wikilink")《》和《[喜劇救濟](https://zh.wikipedia.org/wiki/喜劇救濟 "wikilink")》中。
 
-2011年11月，她在[曼徹斯特競技場举办的名為](https://zh.wikipedia.org/wiki/曼徹斯特競技場 "wikilink")《》的慈善音乐会上演唱《》为2011年《》筹集资金。\[65\]\[66\]J
+2011年11月，她在[曼徹斯特競技場举办的名為](https://zh.wikipedia.org/wiki/曼徹斯特競技場 "wikilink")《》的慈善音乐会上演唱《》为2011年《》筹集资金。\[66\]\[67\]J
 
 2012年7月，她与一名患有[白血病的](https://zh.wikipedia.org/wiki/白血病 "wikilink")7岁粉丝丹尼尔·沙利文（Daniel
-Sullivan）一起在舞台上演出了《》，丹尼尔将在四个月后去世。\[67\]
+Sullivan）一起在舞台上演出了《》，丹尼尔将在四个月后去世。\[68\]
 
-2013年3月15日，洁西·J的头发在期间剃光了，为了帮助《[喜劇救濟](https://zh.wikipedia.org/wiki/喜劇救濟 "wikilink")》筹集资金。\[68\]\[69\]
+2013年3月15日，洁西·J的头发在期间剃光了，为了帮助《[喜劇救濟](https://zh.wikipedia.org/wiki/喜劇救濟 "wikilink")》筹集资金。\[69\]\[70\]
 
 ## 作品
 
@@ -150,10 +152,8 @@ Sullivan）一起在舞台上演出了《》，丹尼尔将在四个月后去世
   - 2013年：《[存在](../Page/存在_\(潔西_J專輯\).md "wikilink")》（Alive）
   - 2014年：《[甜言蜜語](https://zh.wikipedia.org/wiki/甜言蜜語_\(婕茜·J專輯\) "wikilink")》（Sweet
     Talker）
-  - 2018年：《[玫瑰](https://zh.wikipedia.org/wiki/玫瑰_（潔西_J專輯） "wikilink")》（R.O.S.E）
-  - 2018年：《[This Christmas
-    Day](https://zh.wikipedia.org/wiki/This_Christmas_Day_（潔西_J專輯） "wikilink")》（This
-    Christmas Day）
+  - 2018年：《》
+  - 2018年：《》
 
 ### 影视作品
 
@@ -227,8 +227,8 @@ Sullivan）一起在舞台上演出了《》，丹尼尔将在四个月后去世
 
   - (2017–2018)
 
-  - The Lasty Tour (2019)\[70\]（4月起歐亞，紀念她2018年12月去世的密友兼保鏢Dave
-    Last“Lasty”）
+  - The Lasty Tour (2019)\[71\]（4月起歐亞，紀念她2018/12去世的密友兼保鏢Dave
+    Last“Lasty”\[72\]）
 
 ### 开场
 
@@ -249,6 +249,7 @@ Sullivan）一起在舞台上演出了《》，丹尼尔将在四个月后去世
 
   - [官方網站](http://jessiejofficial.com)
 
+[Category:潔西·J](https://zh.wikipedia.org/wiki/Category:潔西·J "wikilink")
 [Category:英格蘭女歌手](https://zh.wikipedia.org/wiki/Category:英格蘭女歌手 "wikilink")
 [Category:英格蘭流行音樂歌手](https://zh.wikipedia.org/wiki/Category:英格蘭流行音樂歌手 "wikilink")
 [Category:英格蘭歌曲作家](https://zh.wikipedia.org/wiki/Category:英格蘭歌曲作家 "wikilink")
@@ -356,5 +357,7 @@ Sullivan）一起在舞台上演出了《》，丹尼尔将在四个月后去世
 67.
 68.
 69.
-70.  Zermatt Switzerland 🇨🇭 \#thelastytour \#crewlove \#family 📸 :
+70.
+71.  Zermatt Switzerland 🇨🇭 \#thelastytour \#crewlove \#family 📸 :
     @nickpopemedia”|url=[https://www.instagram.com/p/BwM_-Ksn0_-/|language=en|website=Instagram|access-date=2019-04-29](https://www.instagram.com/p/BwM_-Ksn0_-/%7Clanguage=en%7Cwebsite=Instagram%7Caccess-date=2019-04-29)}}
+72.

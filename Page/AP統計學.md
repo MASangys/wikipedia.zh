@@ -38,7 +38,7 @@
 ### 大纲
 
 [Black_cherry_tree_histogram.svg](https://zh.wikipedia.org/wiki/File:Black_cherry_tree_histogram.svg "fig:Black_cherry_tree_histogram.svg")，分析其性质，包括[中位数](https://zh.wikipedia.org/wiki/中位数 "wikilink")，统计离差，离群值，簇，间隙等\[27\]\]\]
-课程重点不在于具体数学计算，而是对概念理解与解释。\[28\]课程大纲分为四大部分：第一部分为数据分析，占考试的\[29\]20–30%。学生应该使用绘图计算器来分析数据分布，包括单变量、双变量数据，和分类数据。\[30\]第二部分包括[试验设计占考试的](https://zh.wikipedia.org/wiki/试验设计 "wikilink")10–15%。学生必须学会通过[抽樣或](../Page/抽樣.md "wikilink")[实验来进行数据收集](https://zh.wikipedia.org/wiki/实验 "wikilink")，并从中得出结论。\[31\]第三部分为[概率论](https://zh.wikipedia.org/wiki/概率论 "wikilink")，包括预测数据分布。该部分占考试的20–30%。\[32\]第四部分占考试的30–40%，包括基于点估算的[推論統計學](../Page/推論統計學.md "wikilink")、、[置信区间](../Page/置信区间.md "wikilink")、[显著性差异等](../Page/显著性差异.md "wikilink")。\[33\]
+课程重点不在于具体数学计算，而是对概念理解与解释。\[28\]课程大纲分为四大部分：第一部分为数据分析，占考试的\[29\]20–30%。学生应该使用绘图计算器来分析数据分布，包括单变量、双变量数据，和分类数据。\[30\]第二部分包括[试验设计占考试的](https://zh.wikipedia.org/wiki/试验设计 "wikilink")10–15%。学生必须学会通过[抽樣或](../Page/抽樣.md "wikilink")[实验来进行数据收集](https://zh.wikipedia.org/wiki/实验 "wikilink")，并从中得出结论。\[31\]第三部分为[概率论](https://zh.wikipedia.org/wiki/概率论 "wikilink")，包括预测数据分布。该部分占考试的20–30%。\[32\]第四部分占考试的30–40%，包括基于点估算的[推論統計學](../Page/推論統計學.md "wikilink")、[置信区间](../Page/置信区间.md "wikilink")、[显著性差异等](../Page/显著性差异.md "wikilink")。\[33\]
 
 ## 考试
 

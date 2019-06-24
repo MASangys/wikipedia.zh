@@ -29,7 +29,6 @@ MISIA首次取得[Oricon公信榜單曲週榜冠軍](../Page/Oricon公信榜.md 
 
 ## 參考資料
 
-[Category:日本流行音樂歌手](https://zh.wikipedia.org/wiki/Category:日本流行音樂歌手 "wikilink")
 [Category:2000年單曲](https://zh.wikipedia.org/wiki/Category:2000年單曲 "wikilink")
 [Category:富士月九劇主題曲](https://zh.wikipedia.org/wiki/Category:富士月九劇主題曲 "wikilink")
 [Category:食品廣告歌曲](https://zh.wikipedia.org/wiki/Category:食品廣告歌曲 "wikilink")

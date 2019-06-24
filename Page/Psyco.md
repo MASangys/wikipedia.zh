@@ -48,7 +48,7 @@ psyco.full()
 
 ## 相关信息
 
-  - [Cython](https://zh.wikipedia.org/wiki/Cython "wikilink")
+  - [Cython](../Page/Cython.md "wikilink")
   - [PyPy](../Page/PyPy.md "wikilink")
   - [Unladen
     Swallow](https://zh.wikipedia.org/wiki/Unladen_Swallow "wikilink")

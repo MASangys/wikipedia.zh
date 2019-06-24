@@ -1,5 +1,5 @@
 **尼奇坤·布克·霍爾韋古爾**（\[1\]，；），藝名**Nichkhun**（，），美泰雙籍K-POP歌手，出生于美国加利福尼亚州。父親是泰國人，母親為[華裔美國人](https://zh.wikipedia.org/wiki/華裔美國人 "wikilink")。2006年在美国洛杉矶陪友人看韩流巡演时被韩国[JYP娛樂工作人员相中](../Page/JYP娛樂.md "wikilink")，同时相中他的还有韩国著名电影公司CJE\&M（CJ
-Entertainment\&Media）公司，最后选择進入JYP娛樂旗下當练习生。出道前还曾在参演电视节目《SuperStarSurvival》。2008年1月至3月参加真人实境节目《热血男儿》，透过此节目被选定为可出道的成员。9月4日以组合“[2PM](https://zh.wikipedia.org/wiki/2PM "wikilink")”成员正式出道。韓國音樂著作權家協會登記編號為10009316
+Entertainment\&Media）公司，最后选择進入JYP娛樂旗下當练习生。出道前还曾在参演电视节目《SuperStarSurvival》。2008年1月至3月参加真人实境节目《热血男儿》，透过此节目被选定为可出道的成员。9月4日以组合“[2PM](https://zh.wikipedia.org/wiki/2PM "wikilink")”成员正式出道。韓國音樂著作權家協會登記編號為10009316。
 
 ## 簡歷
 
@@ -51,6 +51,9 @@ Entertainment\&Media）公司，最后选择進入JYP娛樂旗下當练习生。
   - 2018年
     [中國騰訊](https://zh.wikipedia.org/wiki/中國騰訊 "wikilink")《[勇往直前戀上你](https://zh.wikipedia.org/wiki/勇往直前戀上你 "wikilink")》飾演
     姜軼男
+  - 2019年
+    [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")《[阿斯达年代记](https://zh.wikipedia.org/wiki/阿斯达年代记 "wikilink")》
+    饰演
 
 ### 電影
 

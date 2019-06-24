@@ -2,7 +2,7 @@
 
 ## 加密
 
-用户可以使用管理密码，密钥文件，或者Windows用户帐户作为[密钥](https://zh.wikipedia.org/wiki/密钥 "wikilink")。
+用户可以使用管理密码，密钥文件，或者Windows用户帐户作为[密钥](../Page/密钥.md "wikilink")。
 
 软件对密码数据库采用256位[AES算法加密](https://zh.wikipedia.org/wiki/AES "wikilink")。用户还可以设置密钥被加密的次数，增加该数值来加大被[猜解的难度](https://zh.wikipedia.org/wiki/猜解 "wikilink")。
 

@@ -1,4 +1,4 @@
-****是一個由[Google公司所研發的](https://zh.wikipedia.org/wiki/Google公司 "wikilink")[键-值存储](https://zh.wikipedia.org/wiki/键-值存储 "wikilink")[嵌入式](https://zh.wikipedia.org/wiki/嵌入式系統 "wikilink")[數據庫管理系統編程庫](https://zh.wikipedia.org/wiki/數據庫管理系統 "wikilink")，\[1\]
+****是一個由[Google公司所研發的](https://zh.wikipedia.org/wiki/Google公司 "wikilink")[键-值存储](../Page/键-值存储.md "wikilink")[嵌入式](https://zh.wikipedia.org/wiki/嵌入式系統 "wikilink")[數據庫管理系統編程庫](https://zh.wikipedia.org/wiki/數據庫管理系統 "wikilink")，\[1\]
 以[開源的](https://zh.wikipedia.org/wiki/開源軟體 "wikilink")[BSD許可證發佈](https://zh.wikipedia.org/wiki/BSD許可證 "wikilink")。\[2\]
 
 ## 特徵

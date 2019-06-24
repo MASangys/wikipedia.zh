@@ -31,7 +31,7 @@ PRODUCTIONS**（）主辦。SUMMER SONIC自2000年開始舉辦。形式類似英
 <li><a href="https://zh.wikipedia.org/wiki/Fall_Out_Boy" title="wikilink">Fall Out Boy</a></li>
 <li></li>
 <li><a href="../Page/Maximum_The_Hormone.md" title="wikilink">Maximum The Hormone</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/ONE_OK_ROCK" title="wikilink">ONE OK ROCK</a> (只限千葉)</li>
+<li><a href="../Page/ONE_OK_ROCK.md" title="wikilink">ONE OK ROCK</a> (只限千葉)</li>
 <li></li>
 </ul></td>
 <td><ul>

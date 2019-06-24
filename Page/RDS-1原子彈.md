@@ -1,11 +1,11 @@
 [RDS-1.jpg](https://zh.wikipedia.org/wiki/File:RDS-1.jpg "fig:RDS-1.jpg")的內爆型核武，RDS-1的前方表面上像眼睛的東西是雷達[近接信管](https://zh.wikipedia.org/wiki/近接信管 "wikilink")。\]\]
 
 **RDS-1**（****），是[蘇聯第一個](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[核試驗武器](https://zh.wikipedia.org/wiki/核試驗 "wikilink")。在西方，它的代號是**Joe-1**，參考自苏联领导人[史太林名字](https://zh.wikipedia.org/wiki/史太林 "wikilink")[約瑟夫的昵称](https://zh.wikipedia.org/wiki/約瑟夫 "wikilink")。
-經過高度機密的[研究開發後](../Page/研究開發.md "wikilink")，RDS-1在1949年8月29日於[哈薩克的](https://zh.wikipedia.org/wiki/哈薩克蘇維埃社會主義共和國 "wikilink")[塞米巴拉金斯克試驗場第一次試爆](https://zh.wikipedia.org/wiki/塞米巴拉金斯克基地 "wikilink")\[1\]。RDS-1是所構思的，當時官方稱其為實驗室第二號，但自1946年4月起內部文件將它定性為與辦公室或基地一樣的事物。1948年，[鈾-235工廠在](../Page/鈾-235.md "wikilink")[車里雅賓斯克附近建成](../Page/車里雅賓斯克.md "wikilink")\[2\]。
+經過高度機密的[研究開發後](../Page/研究開發.md "wikilink")，RDS-1在1949年8月29日於[哈薩克的](https://zh.wikipedia.org/wiki/哈薩克蘇維埃社會主義共和國 "wikilink")[塞米巴拉金斯克試驗場第一次試爆](../Page/塞米巴拉金斯克基地.md "wikilink")\[1\]。RDS-1是所構思的，當時官方稱其為實驗室第二號，但自1946年4月起內部文件將它定性為與辦公室或基地一樣的事物。1948年，[鈾-235工廠在](../Page/鈾-235.md "wikilink")[車里雅賓斯克附近建成](../Page/車里雅賓斯克.md "wikilink")\[2\]。
 
 ## 測試前後
 
-RDS-1爆炸產生了[2.2万噸的威力](https://zh.wikipedia.org/wiki/爆炸當量 "wikilink")，與美國的[小工具和](https://zh.wikipedia.org/wiki/小工具 "wikilink")[胖子原子彈類似](https://zh.wikipedia.org/wiki/胖子原子彈 "wikilink")。，RDS-1才開始研發。與胖子原子彈一樣，RDS-1是一種內爆型核武器，核心是固體的[鈈](https://zh.wikipedia.org/wiki/鈈 "wikilink")。
+RDS-1爆炸產生了[2.2万噸的威力](https://zh.wikipedia.org/wiki/爆炸當量 "wikilink")，與美國的[小工具和](https://zh.wikipedia.org/wiki/小工具 "wikilink")[胖子原子彈類似](../Page/胖子原子彈.md "wikilink")。，RDS-1才開始研發。與胖子原子彈一樣，RDS-1是一種內爆型核武器，核心是固體的[鈈](https://zh.wikipedia.org/wiki/鈈 "wikilink")。
 
 為了檢驗RDS-1的效果，工人在試驗場附近建造由木材和磚頭搭建的房屋，以及橋樑，並且仿製了[城市軌道交通系統](https://zh.wikipedia.org/wiki/城市軌道交通系統 "wikilink")。試驗場亦放有軍事用的防護鋼板、大約50架飛機和1,
 500隻動物，以圖測試RDS-1所帶來的威力\[3\]。數據結果顯示，RDS-1爆炸所帶來的威力比工程師原先估計的還要高出50%\[4\]。

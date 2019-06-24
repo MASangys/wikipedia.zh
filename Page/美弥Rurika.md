@@ -1,5 +1,5 @@
 美弥
-るりか（9月12日）是[寶塚歌劇團](../Page/寶塚歌劇團.md "wikilink")[月組男役](https://zh.wikipedia.org/wiki/月組 "wikilink")。身高168cm、血液型是O型。茨城縣古河市、櫻丘女子高等學校出身。愛稱是「るりか
+るりか（9月12日）是前[寶塚歌劇團](../Page/寶塚歌劇團.md "wikilink")[月組男役](https://zh.wikipedia.org/wiki/月組 "wikilink")。身高168cm、血液型是O型。茨城縣古河市、櫻丘女子高等學校出身。愛稱是「るりか
 (RURIKA)」、「みやちゃん」\[1\]。
 
 ## 簡介
@@ -18,6 +18,7 @@
   - 2013年、於梅田藝術劇場MainHall公演『ME AND MY GIRL』與同期凪七瑠海役替飾演ジャッキー和ジェラルド兩角。
   - 2014年7月、於日本青年館和梅田藝術劇場Theatre Drama City公演『THE KINGDOM』與同期凪七瑠海雙主演。
   - 2016年1月、破例特別出演星組[紅ゆずる的晚餐秀中](https://zh.wikipedia.org/wiki/紅ゆずる "wikilink")「紅5」的環節。
+  - 2019年6月9日、於東京寶塚劇場公演『夢見無雙』『Krung Thep』千秋樂後退團。
 
 ## 主要舞台
 

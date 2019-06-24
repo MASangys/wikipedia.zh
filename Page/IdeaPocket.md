@@ -15,30 +15,17 @@ IDEAPOCKET**」系列開始，超過25名AV女優發行過這個系列，較著�
 
 ## 主要品牌
 
-  - HIGH SCHOOL PINK
-  - ANGEL
-  - SUPREME
-  - TISSUE
+### 現在
 
-## 主要系列
+  - TISSUE
 
 ### 過去
 
+  - HIGH SCHOOL PINK
   - ANGEL
-  - 素人にこんなコトさせちゃいました☆
-  - Spermania
-  - MAX MOSAIC
-  - FELLATIO FESTIVAL
-  - 誘惑授業
-  - 100発の精子飲む
-  - めちゃカワご奉仕メイド
-  - 家庭教師
-  - ヴァーチャルデート
-  - 汗だくSEX
-  - 瞬殺\!一撃バズーカ顔射
-  - 痴漢電車
-  - 秘密女捜査官
-  - 世界最高級ソープへようこそ
+  - SUPREME
+
+## 主要系列
 
 ### 現在
 
@@ -58,6 +45,29 @@ IDEAPOCKET**」系列開始，超過25名AV女優發行過這個系列，較著�
   - 噂の本番できちゃうおっパブ店
   - 中年好きな文学美少女に身動きできない状態でじっくりねっとり痴女られる
   - おじさん大好き痴女美少女が中年チ○ポを射精へ誘う焦らし寸止め舐めまくり性交
+  - 中年オヤジと制服美少女の汗だく唾液みどろ特濃ベロキス性交
+  - 出張先相部屋NTR
+  - 絶頂後にぶっちぎりの追撃ピストン
+  - 絶倫お姉さんの追撃中出し騎乗位ピストン
+  - 1ヶ月間禁欲し彼女のいない数日間に
+
+### 過去
+
+  - ANGEL
+  - 素人にこんなコトさせちゃいました☆
+  - Spermania
+  - MAX MOSAIC
+  - FELLATIO FESTIVAL
+  - 誘惑授業
+  - 100発の精子飲む
+  - めちゃカワご奉仕メイド
+  - 家庭教師
+  - ヴァーチャルデート
+  - 汗だくSEX
+  - 瞬殺\!一撃バズーカ顔射
+  - 痴漢電車
+  - 秘密女捜査官
+  - 世界最高級ソープへようこそ
 
 ## 專屬女優
 
@@ -102,40 +112,64 @@ IDEAPOCKET**」系列開始，超過25名AV女優發行過這個系列，較著�
 <td><p>2016年9月19日</p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="../Page/明里紬.md" title="wikilink">明里紬</a></p></td>
+<td><p>FIRST IMPRESSION 113</p></td>
+<td></td>
+<td><p>2017年3月19日</p></td>
+</tr>
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/櫻空桃" title="wikilink">櫻空桃</a></p></td>
 <td><p>FIRST IMPRESSION 115</p></td>
 <td></td>
 <td><p>2017年5月1日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/岬奈奈美.md" title="wikilink">岬奈奈美</a></p></td>
 <td><p>FIRST IMPRESSION 121</p></td>
 <td></td>
 <td><p>2017年11月1日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/益坂美亞" title="wikilink">益坂美亞</a></p></td>
 <td><p>FIRST IMPRESSION 125</p></td>
 <td></td>
 <td><p>2018年5月19日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/結城乃乃.md" title="wikilink">結城乃乃</a></p></td>
 <td><p>FIRST IMPRESSION 126</p></td>
 <td></td>
 <td><p>2018年6月19日</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/亞矢瀨萌奈.md" title="wikilink">亞矢瀨萌奈</a></p></td>
-<td><p>FIRST IMPRESSION 129</p></td>
-<td><p>出生年月日不明</p></td>
-<td><p>2018年10月13日</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/楓可憐" title="wikilink">楓可憐</a></p></td>
 <td><p>FIRST IMPRESSION 130</p></td>
 <td></td>
 <td><p>2018年12月13日</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/優月心菜" title="wikilink">優月心菜</a></p></td>
+<td><p>FIRST IMPRESSION 131</p></td>
+<td></td>
+<td><p>2019年2月1日</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/森澤理紗" title="wikilink">森澤理紗</a></p></td>
+<td><p>FIRST IMPRESSION 132</p></td>
+<td><p>出生年月日不明</p></td>
+<td><p>2019年2月13日</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/大原向葵" title="wikilink">大原向葵</a></p></td>
+<td><p>FIRST IMPRESSION 133</p></td>
+<td><p>出生年月日不明</p></td>
+<td><p>2019年5月13日</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/知花凛" title="wikilink">知花凛</a></p></td>
+<td><p>FIRST IMPRESSION 134</p></td>
+<td><p>出生年月日不明</p></td>
+<td><p>2019年7月13日</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -163,40 +197,40 @@ IDEAPOCKET**」系列開始，超過25名AV女優發行過這個系列，較著�
 <td><p>2018年11月13日</p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="../Page/亞矢瀨萌奈.md" title="wikilink">亞矢瀨萌奈</a></p></td>
+<td><p>FIRST IMPRESSION 129</p></td>
+<td><p>出生年月日不明</p></td>
+<td><p>2018年10月13日</p></td>
+</tr>
+<tr class="even">
 <td><p><a href="../Page/日乃原杏.md" title="wikilink">日乃原杏</a></p></td>
 <td><p>FIRST IMPRESSION 128</p></td>
 <td><p>出生年月日不明</p></td>
 <td><p>2018年8月19日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/七實里菜.md" title="wikilink">七實里菜</a></p></td>
 <td><p>FIRST IMPRESSION 127</p></td>
 <td></td>
 <td><p>2018年7月19日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/松永紗奈" title="wikilink">松永紗奈</a></p></td>
 <td><p>FIRST IDEAPOCKET 電撃參戦！</p></td>
 <td></td>
 <td><p>2018年4月13日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/有原步美.md" title="wikilink">有原步美</a></p></td>
 <td><p>FIRST IMPRESSION 116</p></td>
 <td></td>
 <td><p>2017年6月13日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/渚光莉" title="wikilink">渚光莉</a></p></td>
 <td><p>FIRST IMPRESSION 114</p></td>
 <td></td>
 <td><p>2017年4月19日</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/明里紬.md" title="wikilink">明里紬</a></p></td>
-<td><p>FIRST IMPRESSION 113</p></td>
-<td></td>
-<td><p>2017年3月19日</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/柚月向日葵.md" title="wikilink">柚月向日葵</a></p></td>
@@ -385,10 +419,11 @@ IDEAPOCKET**」系列開始，超過25名AV女優發行過這個系列，較著�
 
 ## 外部連結
 
-  - [公式サイト](http://www.ideapocket.com/) - アイデアポケット
+  - [公式サイト](https://www.ideapocket.com/) - アイデアポケット
 
   - （2013年8月2日 - ）
 
+  -
 [Category:2002年成立的公司](https://zh.wikipedia.org/wiki/Category:2002年成立的公司 "wikilink")
 [Category:日本色情片公司](https://zh.wikipedia.org/wiki/Category:日本色情片公司 "wikilink")
 [Category:IDEAPOCKET女優](https://zh.wikipedia.org/wiki/Category:IDEAPOCKET女優 "wikilink")

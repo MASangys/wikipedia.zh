@@ -1,4 +1,5 @@
-**第一代iPad**是[蘋果公司執行長](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[史蒂夫·乔布斯於](../Page/史蒂夫·乔布斯.md "wikilink")2010年1月27日首次發表的[平板電腦](../Page/平板電腦.md "wikilink")，是蘋果[iPad系列的第一代產品](https://zh.wikipedia.org/wiki/iPad "wikilink")，提供瀏覽[網際網路](https://zh.wikipedia.org/wiki/網際網路 "wikilink")、收發[電子郵件](https://zh.wikipedia.org/wiki/電子郵件 "wikilink")、觀看[電子書](../Page/電子書.md "wikilink")、播放[音訊或](https://zh.wikipedia.org/wiki/音訊 "wikilink")[視訊](https://zh.wikipedia.org/wiki/視訊 "wikilink")、玩[遊戲等功能](https://zh.wikipedia.org/wiki/遊戲 "wikilink")\[1\]。
+**iPad**（技术上为**第一代iPad**，而**iPad
+1**为俗称）是[蘋果公司執行長](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[史蒂夫·乔布斯於](../Page/史蒂夫·乔布斯.md "wikilink")2010年1月27日首次發表的[平板電腦](../Page/平板電腦.md "wikilink")，是蘋果[iPad系列的第一代產品](https://zh.wikipedia.org/wiki/iPad "wikilink")，提供瀏覽[網際網路](https://zh.wikipedia.org/wiki/網際網路 "wikilink")、收發[電子郵件](https://zh.wikipedia.org/wiki/電子郵件 "wikilink")、觀看[電子書](../Page/電子書.md "wikilink")、播放[音訊或](https://zh.wikipedia.org/wiki/音訊 "wikilink")[視訊](https://zh.wikipedia.org/wiki/視訊 "wikilink")、玩[遊戲等功能](https://zh.wikipedia.org/wiki/遊戲 "wikilink")\[1\]。
 
 最初发布的iPad，只有黑色型號，無相機鏡頭。2011年3月，蘋果公司发布命名為“[iPad
 2](https://zh.wikipedia.org/wiki/iPad_2 "wikilink")”的机型，用以取代最初的iPad。

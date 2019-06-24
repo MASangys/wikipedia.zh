@@ -4,7 +4,7 @@ MGP系列是為了秘魯海軍（）而生產。\[3\]儘管MGP系列被歸類為
 
 ## 概述
 
-MGP系列衝鋒槍的設計是比較簡單的[反沖作用](../Page/反沖作用_\(槍械\).md "wikilink")，以[開放式槍機射擊](../Page/開放式槍機.md "wikilink")。他們配備了折疊[槍托](../Page/槍托.md "wikilink")，以便對更遠的距離射擊時武器更穩定。MGP系列所有的衝鋒槍都可以安裝[消聲器](../Page/抑制器.md "wikilink")，並且可以使用[烏茲衝鋒槍的可拆卸式](../Page/烏茲衝鋒槍.md "wikilink")[彈匣](../Page/彈匣.md "wikilink")。\[4\]
+MGP系列衝鋒槍的設計是比較簡單的[反沖作用](../Page/反沖作用_\(槍械\).md "wikilink")，以[開放式槍栓射擊](../Page/開放式槍栓.md "wikilink")。他們配備了折疊[槍托](../Page/槍托.md "wikilink")，以便對更遠的距離射擊時武器更穩定。MGP系列所有的衝鋒槍都可以安裝[消聲器](../Page/抑制器.md "wikilink")，並且可以使用[烏茲衝鋒槍的可拆卸式](../Page/烏茲衝鋒槍.md "wikilink")[彈匣](../Page/彈匣.md "wikilink")。\[4\]
 
 ## 衍生型
 

@@ -25,4 +25,4 @@ Mathematics包含的功能，旨在幫助教育用戶解決數學、科學和技
     Math主页](https://web.archive.org/web/20080503095553/http://www.microsoft.com/math/default.mspx)
 
 [Category:数学软件](https://zh.wikipedia.org/wiki/Category:数学软件 "wikilink")
-[Category:教育軟件](https://zh.wikipedia.org/wiki/Category:教育軟件 "wikilink")
+[Category:科學教育軟體](https://zh.wikipedia.org/wiki/Category:科學教育軟體 "wikilink")

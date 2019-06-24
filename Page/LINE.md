@@ -69,15 +69,14 @@ Out服務。
 
 ### Line Shopping
 
-  - [LINE
-    Shopping](https://zh.wikipedia.org/wiki/LINE_Shopping "wikilink")
-    為購物回饋服務，提供消費者在各大購物網站比價功能及提供額外回饋，如消費特定商家即可獲得 LINE POINTS
-    點數回饋等機制。
+  - [LINE Shopping](../Page/LINE_Shopping.md "wikilink")
+    為購物回饋服務，提供消費者在各大購物網站比價功能及提供額外回饋，如消費特定商家即可獲得
+    LINE POINTS 點數回饋等機制。
 
 ### Line Travel
 
-  - [LINE旅遊](https://zh.wikipedia.org/wiki/LINE旅遊 "wikilink") (LINE
-    Travel) 是一個LINE提供的旅遊電商平台，使用者能在LINE旅遊線上訂房、購買機票、訂購一日遊等，並獲得LINE
+  - [LINE旅遊](../Page/LINE旅遊.md "wikilink") (LINE Travel)
+    是一個LINE提供的旅遊電商平台，使用者能在LINE旅遊線上訂房、購買機票、訂購一日遊等，並獲得LINE
     POINTS回饋。除此之外，即將出遊的使用者還能閱讀世界各地的旅行資訊、並用行程規劃工具和旅伴一起安排行程。
 
 ### 動畫
@@ -360,7 +359,7 @@ CREATORS」，與韓國偶像團體[防彈少年團及中國偶像](../Page/防�
 
 ## 彩蛋
 
-LINE在每年兩個固定節日中會有彩蛋出現。每年[4月1日](../Page/4月1日.md "wikilink")[愚人節時在聊天室介面內會有櫻花飄零的特效](https://zh.wikipedia.org/wiki/愚人節 "wikilink")；而每年[12月25日](../Page/12月25日.md "wikilink")[耶誕節時則能在聊天室內看到飄雪的景象](https://zh.wikipedia.org/wiki/耶誕節 "wikilink")。
+LINE在每年兩個固定節日中會有彩蛋出現。每年4月時在聊天室介面內會有[櫻花飄散的特效](https://zh.wikipedia.org/wiki/櫻花 "wikilink")；而每年[12月25日](../Page/12月25日.md "wikilink")[耶誕節時則能在聊天室內看到](https://zh.wikipedia.org/wiki/耶誕節 "wikilink")[雪花飄散的景象](../Page/雪.md "wikilink")。
 
 ## 爭議
 

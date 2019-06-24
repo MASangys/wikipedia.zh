@@ -588,7 +588,7 @@ Entertainment旗下藝人們到夏威夷的20週年員工旅行。後來Tiffany�
 
 ### 個人演唱會
 
-  - 《[WEEKEND－TIFFANY](https://zh.wikipedia.org/wiki/WEEKEND－TIFFANY "wikilink")》演唱會
+  - 《[WEEKEND－TIFFANY](../Page/WEEKEND－TIFFANY.md "wikilink")》演唱會
 
 |                |        |               |
 | -------------- | ------ | ------------- |

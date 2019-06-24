@@ -98,8 +98,7 @@ LLVM项目包含一个C++标准库的实现，具有[MIT许可证和](https://zh
 ## 另見
 
   - [Clang C/C++編譯器](https://zh.wikipedia.org/wiki/clang "wikilink")
-  - [GNU
-    lightning](https://zh.wikipedia.org/wiki/GNU_lightning "wikilink")
+  - [GNU lightning](../Page/GNU_lightning.md "wikilink")
   - [GNU Compiler Collection](../Page/GCC.md "wikilink")（GCC）
   - [OpenGL](../Page/OpenGL.md "wikilink")
 

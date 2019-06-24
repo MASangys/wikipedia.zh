@@ -4031,7 +4031,7 @@ PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(动画\) "wikilink")》集数�
 </tr>
 <tr class="even">
 <td><p>501</p></td>
-<td><p>被釋放的火焰 不確定之物終點站的危機</p></td>
+<td><p>被燃放的火焰 灰色車站的危機</p></td>
 <td><p>園田誠</p></td>
 <td><p>川村敦子</p></td>
 <td><p>白石美穗</p></td>
@@ -4109,7 +4109,7 @@ PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(动画\) "wikilink")》集数�
 </tr>
 <tr class="odd">
 <td><p>512</p></td>
-<td><p>傳達給夥伴！到處散發的大新聞！</p></td>
+<td><p>傳達給伙伴 傳遍各地的大新聞</p></td>
 <td><p>上坂浩彥</p></td>
 <td><p>中島豐</p></td>
 <td><p>井上榮作</p></td>
@@ -4123,7 +4123,7 @@ PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(动画\) "wikilink")》集数�
 </tr>
 <tr class="odd">
 <td><p>514</p></td>
-<td><p>在地獄活下去！香吉士賭上男人尊嚴戰鬥</p></td>
+<td><p>在地獄活下去！香吉士賭上男人尊嚴的戰鬥</p></td>
 <td><p>田中仁</p></td>
 <td><p>小牧文</p></td>
 <td><p>川村敦子</p></td>
@@ -7035,7 +7035,7 @@ PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(动画\) "wikilink")》集数�
 </tr>
 <tr class="even">
 <td><p>882</p></td>
-<td><p>頂上戰爭 繼承海賊王的意向</p></td>
+<td><p>頂點戰爭 海賊王被繼承的意志</p></td>
 <td></td>
 <td><p>伊藤聡伺</p></td>
 <td><p>出口としお</p></td>
@@ -7083,18 +7083,58 @@ PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(动画\) "wikilink")》集数�
 <td><p>所勝美</p></td>
 </tr>
 <tr class="odd">
-<td><p>890</p></td>
+<td><p>889</p></td>
+<td><p>終於開幕 陰謀湧動的世界會議</p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>田中仁</p></td>
+<td><p>上田芳裕</p></td>
 </tr>
 <tr class="even">
+<td><p>890</p></td>
+<td><p>馬可！白鬍子遺留之物的守護者</p></td>
+<td></td>
+<td><p>冨岡淳広</p></td>
+<td><p>鈴木裕介</p></td>
+</tr>
+<tr class="odd">
 <td><p>891</p></td>
+<td><p>登上瀑布！和之國海域的大航海！</p></td>
 <td></td>
+<td><p>中山-{}-智博</p></td>
+<td><p>深澤敏則</p></td>
+</tr>
+</tbody>
+</table>
+
+## 最後之海 新世界篇〔第二部〕【下】
+
+### 21st 和之國篇
+
+<table>
+<thead>
+<tr class="header">
+<th><p>話數</p></th>
+<th><p>各話標題</p></th>
+<th><p>製作人員</p></th>
+<th><p>首播日期</p></th>
+<th><p>對應原作</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>中文</p></td>
+<td><p>日文</p></td>
+<td><p>劇本</p></td>
+<td><p>(分鏡)<br />
+演出</p></td>
+<td><p>作畫監督</p></td>
+</tr>
+<tr class="even">
+<td><p>892</p></td>
+<td><p>和之國！向著櫻花飛舞的武士之國</p></td>
 <td></td>
-<td></td>
-<td></td>
+<td><p>米村正二</p></td>
+<td><p>長峯達也</p></td>
 </tr>
 </tbody>
 </table>

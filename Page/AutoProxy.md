@@ -52,7 +52,7 @@ Plus](../Page/Adblock_Plus.md "wikilink")，因此继承了其很多特性，包
   - [Github上GFWlist的專案](https://github.com/gfwlist/gfwlist)
 
 [Category:Firefox_附加组件](https://zh.wikipedia.org/wiki/Category:Firefox_附加组件 "wikilink")
-[Category:破网软件](https://zh.wikipedia.org/wiki/Category:破网软件 "wikilink")
+[Category:翻墙软件](https://zh.wikipedia.org/wiki/Category:翻墙软件 "wikilink")
 
 1.
 2.

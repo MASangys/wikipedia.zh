@@ -3,7 +3,7 @@ Hünig命名的](https://zh.wikipedia.org/wiki/Siegfried_Hünig "wikilink")。
 
 ## 制备
 
-Hünig碱为商业可售试剂，它可通过[二异丙胺和](https://zh.wikipedia.org/wiki/二异丙胺 "wikilink")[硫酸二乙酯反应制备](../Page/硫酸二乙酯.md "wikilink")。\[1\]
+Hünig碱为商业可售试剂，它可通过[二异丙胺和](../Page/二异丙胺.md "wikilink")[硫酸二乙酯反应制备](../Page/硫酸二乙酯.md "wikilink")。\[1\]
 
 ## 反应
 

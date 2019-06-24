@@ -35,7 +35,7 @@ TS协议的一个实际应用的例子：日本地面数字电视[ISDB-T](https:
 <tbody>
 <tr class="odd">
 <td><p>ES/Table</p></td>
-<td><p>MPEG-2 视频（<a href="https://zh.wikipedia.org/wiki/H.262" title="wikilink">H.262</a>）<br />
+<td><p>MPEG-2 视频（<a href="../Page/H.262.md" title="wikilink">H.262</a>）<br />
 （ISO/IEC 13818-2）</p></td>
 </tr>
 <tr class="even">

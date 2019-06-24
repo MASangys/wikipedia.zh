@@ -357,7 +357,7 @@ Cube娛樂，常用外號為**United Cube**。
     LEGEND](../Page/THE_LEGEND.md "wikilink")）
   - [李昌宣](../Page/THE_LEGEND.md "wikilink")（[THE
     LEGEND](../Page/THE_LEGEND.md "wikilink")）
-  - [金昇勳](../Page/金昇勳.md "wikilink")（《[YG寶石盒](../Page/YG寶石盒.md "wikilink")》、[CIX](https://zh.wikipedia.org/wiki/CIX "wikilink")）
+  - [金昇勳](../Page/金昇勳.md "wikilink")（《[YG寶石盒](../Page/YG寶石盒.md "wikilink")》、[CIX](../Page/CIX.md "wikilink")）
   - [崔連準](../Page/崔延俊.md "wikilink")（[TXT](../Page/TXT_\(組合\).md "wikilink")）
   - [李希侃](../Page/李希侃.md "wikilink")（公開練習生、《[偶像練習生](https://zh.wikipedia.org/wiki/偶像練習生 "wikilink")》）\[126\]
   - \-{余}-明君（《[偶像練習生](https://zh.wikipedia.org/wiki/偶像練習生 "wikilink")》）\[127\]\[128\]

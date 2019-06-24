@@ -21,7 +21,7 @@ OGLE-TR-122b的半径大约为0.12[太阳半径](../Page/太阳半径.md "wikili
 
 ## 相关条目
 
-  - [OGLE-TR-123](https://zh.wikipedia.org/wiki/OGLE-TR-123 "wikilink")
+  - [OGLE-TR-123](../Page/OGLE-TR-123.md "wikilink")
 
 [Category:船底座](https://zh.wikipedia.org/wiki/Category:船底座 "wikilink")
 [Category:联星](https://zh.wikipedia.org/wiki/Category:联星 "wikilink")

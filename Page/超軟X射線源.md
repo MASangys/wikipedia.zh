@@ -155,11 +155,7 @@ erg/s，軌道週期為1.2306天\[57\]。
     |archivedate=2009-07-03 }}
 
 3.
-4.  {{ cite journal |author=Kahabka P |title=Supersoft X-ray sources
-    |journal=Adv Space Res. |volume=38 |issue=12 |pages=2836–9
-    |url=<http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6V3S-4MBT29S-2&_user=10&_origUdi=B6V3S-3YN948T-5&_fmt=high&_coverDate=12%2F31%2F2006&_rdoc=1&_orig=article&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=3a3d0440365be046b322ab561aae9230>
-    |doi=10.1016/j.asr.2005.10.058 |bibcode=2006AdSpR..38.2836K|date=Dec
-    2006}}
+4.
 
 5.
 6.

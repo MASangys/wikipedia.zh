@@ -161,7 +161,7 @@ Espacio”（）做为备用剧场。新專屬劇場預計將在2020年春季於
 
 ### 2020年
 
-  - HKT48劇場（新劇場）預定於春季開幕\[62\]\[63\]。
+  - HKT48劇場「福岡新劇場」（暫定名稱）預定春季於福岡市中央區「E・ZO FUKUOKA」7樓開幕\[62\]\[63\]。
 
 ## 成員
 
@@ -234,28 +234,6 @@ TII**、另外具有預備成員功能的**研究生**。原定於于2014年春�
 <td><p>AKS</p></td>
 <td></td>
 <td><p>46</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/兒玉遙.md" title="wikilink">兒玉遙</a></p></td>
-<td></td>
-<td></td>
-<td><p>1期</p></td>
-<td><p>2012年3月4日</p></td>
-<td><p>AKS</p></td>
-<td><p>曾兼任<a href="../Page/AKB48.md" title="wikilink">AKB48</a> Team K<br />
-2017年12月27日起暫停活動[66]</p></td>
-<td><p>9</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/駒田京伽" title="wikilink">駒田京伽</a></p></td>
-<td></td>
-<td></td>
-<td><p>2期</p></td>
-<td><p>2014年1月11日</p></td>
-<td><p>AKS</p></td>
-<td><p>預定於2019年6月17日畢業<br />
-當日畢業公演[67][68][69]</p></td>
-<td><p>60</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/坂口理子_(HKT48)" title="wikilink">坂口理子</a></p></td>
@@ -364,16 +342,6 @@ TII**、另外具有預備成員功能的**研究生**。原定於于2014年春�
 <td><p>90</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/岩花詩乃" title="wikilink">岩花詩乃</a></p></td>
-<td></td>
-<td></td>
-<td><p>2期</p></td>
-<td><p>2014年3月21日</p></td>
-<td><p>AKS</p></td>
-<td><p>預定畢業[70][71]</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="odd">
 <td><p><a href="../Page/植木南央.md" title="wikilink">植木南央</a></p></td>
 <td></td>
 <td></td>
@@ -382,10 +350,10 @@ TII**、另外具有預備成員功能的**研究生**。原定於于2014年春�
 <td><p>AKS</p></td>
 <td><p>原Team H<br />
 獲得<a href="../Page/唐津市_(日本).md" title="wikilink">唐津青少年音楽祭</a>2009的<br />
-<a href="https://zh.wikipedia.org/wiki/西尾芳彦" title="wikilink">西尾芳彦音乐奖</a>[72]</p></td>
+<a href="https://zh.wikipedia.org/wiki/西尾芳彦" title="wikilink">西尾芳彦音乐奖</a>[66]</p></td>
 <td><p>54</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/運上弘菜" title="wikilink">運上弘菜</a></p></td>
 <td></td>
 <td></td>
@@ -395,7 +363,7 @@ TII**、另外具有預備成員功能的**研究生**。原定於于2014年春�
 <td></td>
 <td><p>84</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/熊澤世莉奈" title="wikilink">熊澤世莉奈</a></p></td>
 <td></td>
 <td></td>
@@ -403,10 +371,10 @@ TII**、另外具有預備成員功能的**研究生**。原定於于2014年春�
 <td><p>2012年3月4日</p></td>
 <td><p>AKS</p></td>
 <td><p>原Team H<br />
-DANCE SCHOOL S.S.M出身[73]</p></td>
+DANCE SCHOOL S.S.M出身[67]</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/下野由貴.md" title="wikilink">下野由貴</a></p></td>
 <td></td>
 <td></td>
@@ -416,7 +384,7 @@ DANCE SCHOOL S.S.M出身[73]</p></td>
 <td><p>原Team H</p></td>
 <td><p>85</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/地頭江音音" title="wikilink">地頭江音音</a></p></td>
 <td></td>
 <td></td>
@@ -426,7 +394,7 @@ DANCE SCHOOL S.S.M出身[73]</p></td>
 <td></td>
 <td><p>117</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/朝長美櫻.md" title="wikilink">朝長美櫻</a></p></td>
 <td></td>
 <td></td>
@@ -436,7 +404,7 @@ DANCE SCHOOL S.S.M出身[73]</p></td>
 <td><p>曾兼任AKB48 Team 4</p></td>
 <td><p>21</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/馬場彩華" title="wikilink">馬場彩華</a></p></td>
 <td></td>
 <td></td>
@@ -447,7 +415,7 @@ DANCE SCHOOL S.S.M出身[73]</p></td>
 <td><p>第三屆選秀會議Team KIV第一輪指名</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/深川舞子" title="wikilink">深川舞子</a></p></td>
 <td></td>
 <td></td>
@@ -457,7 +425,7 @@ DANCE SCHOOL S.S.M出身[73]</p></td>
 <td></td>
 <td><p>91</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/渕上舞_(歌手)" title="wikilink">渕上舞</a></p></td>
 <td></td>
 <td></td>
@@ -467,19 +435,19 @@ DANCE SCHOOL S.S.M出身[73]</p></td>
 <td></td>
 <td><p>31</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/村重杏奈.md" title="wikilink">村重杏奈</a></p></td>
 <td></td>
 <td></td>
 <td><p>1期</p></td>
 <td><p>2012年3月4日</p></td>
-<td><p>AKS</p></td>
+<td><p><a href="../Page/TWIN_PLANET.md" title="wikilink">TWIN PLANET</a>（暂定）</p></td>
 <td><p>原Team H<br />
 原<a href="../Page/NMB48.md" title="wikilink">NMB48</a> Team N兼任<br />
 第25期生</p></td>
 <td><p>67</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong><a href="../Page/本村碧唯.md" title="wikilink">本村碧唯</a></strong></p></td>
 <td><p><strong></strong></p></td>
 <td></td>
@@ -490,7 +458,7 @@ DANCE SCHOOL S.S.M出身[73]</p></td>
 隊長</p></td>
 <td><p>36</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/森保圓.md" title="wikilink">森保圓</a><br />
 （）</p></td>
 <td></td>
@@ -501,7 +469,7 @@ DANCE SCHOOL S.S.M出身[73]</p></td>
 <td><p>原Team H</p></td>
 <td><p>25</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -667,7 +635,7 @@ DANCE SCHOOL S.S.M出身[73]</p></td>
 <td><p>4期</p></td>
 <td><p>2017年11月26日</p></td>
 <td><p>AKS</p></td>
-<td><p>妹妹為<a href="../Page/SUPER☆GiRLS.md" title="wikilink">SUPER☆GiRLS成員松本愛花</a>[74]</p></td>
+<td><p>妹妹為<a href="../Page/SUPER☆GiRLS.md" title="wikilink">SUPER☆GiRLS成員松本愛花</a>[68]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -865,7 +833,7 @@ DANCE SCHOOL S.S.M出身[73]</p></td>
 
 ### IZ\*ONE專任成員
 
-2018年10月29日起專任[IZ\*ONE成員](../Page/IZ*ONE.md "wikilink")\[75\]。
+2018年10月29日起專任[IZ\*ONE成員](../Page/IZ*ONE.md "wikilink")\[69\]。
 
 <table>
 <thead>
@@ -952,7 +920,7 @@ DANCE SCHOOL S.S.M出身[73]</p></td>
 <td><p>H</p></td>
 <td><p>2012年8月18日</p></td>
 <td><p>City娛樂<a href="https://web.archive.org/web/20150701032406/https://aruaru-enter.com/%E3%82%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88/">1</a></p></td>
-<td><p>請辭[76]</p></td>
+<td><p>請辭[70]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -982,10 +950,10 @@ DANCE SCHOOL S.S.M出身[73]</p></td>
 <td></td>
 <td></td>
 <td><p>2期</p></td>
-<td><p>无[77]</p></td>
+<td><p>无[71]</p></td>
 <td><p>2014年4月22日</p></td>
 <td></td>
-<td><p>移籍到SKE48 Team E[78]</p></td>
+<td><p>移籍到SKE48 Team E[72]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -996,7 +964,7 @@ DANCE SCHOOL S.S.M出身[73]</p></td>
 <td><p>H</p></td>
 <td><p>2014年4月22日</p></td>
 <td><p>AKS</p></td>
-<td><p>移籍到AKB48 Team A[79]</p></td>
+<td><p>移籍到AKB48 Team A[73]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -1007,7 +975,7 @@ DANCE SCHOOL S.S.M出身[73]</p></td>
 <td><p>KIV</p></td>
 <td><p>2015年4月30日</p></td>
 <td><p>-</p></td>
-<td><p>畢業[80]</p></td>
+<td><p>畢業[74]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -1032,7 +1000,7 @@ DANCE SCHOOL S.S.M出身[73]</p></td>
 <td><p>KIV</p></td>
 <td><p>2015年10月31日</p></td>
 <td><p>-</p></td>
-<td><p>畢業[81][82]</p></td>
+<td><p>畢業[75][76]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -1043,7 +1011,7 @@ DANCE SCHOOL S.S.M出身[73]</p></td>
 <td><p>H</p></td>
 <td><p>2015年12月31日</p></td>
 <td><p>-</p></td>
-<td><p>畢業[83]</p></td>
+<td><p>畢業[77]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -1076,7 +1044,7 @@ DANCE SCHOOL S.S.M出身[73]</p></td>
 <td><p>H</p></td>
 <td><p>2016年8月1日</p></td>
 <td><p>-</p></td>
-<td><p>畢業[84]<br />
+<td><p>畢業[78]<br />
 曾為Team H隊長</p></td>
 <td><p>33</p></td>
 </tr>
@@ -1116,7 +1084,7 @@ DANCE SCHOOL S.S.M出身[73]</p></td>
 <td><p>H</p></td>
 <td><p>2017年5月8日</p></td>
 <td></td>
-<td><p>當日畢業公演[85]</p></td>
+<td><p>當日畢業公演[79]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -1127,7 +1095,7 @@ DANCE SCHOOL S.S.M出身[73]</p></td>
 <td><p>TII</p></td>
 <td><p>2017年5月29日</p></td>
 <td><p>-</p></td>
-<td><p>當日畢業公演[86][87]</p></td>
+<td><p>當日畢業公演[80][81]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -1138,7 +1106,7 @@ DANCE SCHOOL S.S.M出身[73]</p></td>
 <td><p>H</p></td>
 <td><p>2017年6月12日</p></td>
 <td><p>-</p></td>
-<td><p>當日畢業公演[88]</p></td>
+<td><p>當日畢業公演[82]</p></td>
 <td><p>48</p></td>
 </tr>
 <tr class="even">
@@ -1149,7 +1117,7 @@ DANCE SCHOOL S.S.M出身[73]</p></td>
 <td><p>KIV</p></td>
 <td><p>2018年2月27日</p></td>
 <td><p>-</p></td>
-<td><p>|當日畢業公演[89][90]</p></td>
+<td><p>|當日畢業公演[83][84]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -1160,7 +1128,7 @@ DANCE SCHOOL S.S.M出身[73]</p></td>
 <td><p>H</p></td>
 <td><p>2018年3月21日</p></td>
 <td><p>-</p></td>
-<td><p>當日畢業公演[91]</p></td>
+<td><p>當日畢業公演[85]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -1171,7 +1139,7 @@ DANCE SCHOOL S.S.M出身[73]</p></td>
 <td><p>H</p></td>
 <td><p>2018年4月19日</p></td>
 <td></td>
-<td><p>當日畢業公演[92][93]</p></td>
+<td><p>當日畢業公演[86][87]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -1183,7 +1151,7 @@ DANCE SCHOOL S.S.M出身[73]</p></td>
 <td><p>H</p></td>
 <td><p>2018年5月21日</p></td>
 <td><p>-</p></td>
-<td><p>當日畢業公演[94]</p></td>
+<td><p>當日畢業公演[88]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -1196,7 +1164,7 @@ DANCE SCHOOL S.S.M出身[73]</p></td>
 <td><p>2018年12月27日</p></td>
 <td><p>-</p></td>
 <td><p>第三屆選秀會議Team TII第一輪指名<br />
-請辭[95]</p></td>
+請辭[89]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -1207,7 +1175,7 @@ DANCE SCHOOL S.S.M出身[73]</p></td>
 <td><p>KIV</p></td>
 <td><p>2019年3月30日</p></td>
 <td><p>-</p></td>
-<td><p>當日畢業公演[96]</p></td>
+<td><p>當日畢業公演[90]</p></td>
 <td><p>38</p></td>
 </tr>
 <tr class="even">
@@ -1224,19 +1192,43 @@ DANCE SCHOOL S.S.M出身[73]</p></td>
 原AKB48 Team B（初代）<br />
 原AKB48 Team A（高橋）<br />
 2012年6月16日移籍<br />
-當日畢業演唱会[97]</p></td>
+當日畢業演唱会[91]</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="../Page/兒玉遙.md" title="wikilink">兒玉遙</a></p></td>
 <td></td>
 <td></td>
+<td><p>1期</p></td>
+<td><p>H</p></td>
+<td><p>2019年6月9日</p></td>
+<td><p>-</p></td>
+<td><p>曾兼任<a href="../Page/AKB48.md" title="wikilink">AKB48</a> Team K<br />
+2017年12月27日起暫停活動[92]<br />
+畢業[93]</p></td>
+<td><p>9</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/駒田京伽" title="wikilink">駒田京伽</a></p></td>
 <td></td>
 <td></td>
+<td><p>2期</p></td>
+<td><p>H</p></td>
+<td><p>2019年6月17日</p></td>
+<td><p>-</p></td>
+<td><p>當日畢業公演[94][95][96]</p></td>
+<td><p>60</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/岩花詩乃" title="wikilink">岩花詩乃</a></p></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>2期</p></td>
+<td><p>KIV</p></td>
+<td><p>2019年6月21日</p></td>
+<td><p>－</p></td>
+<td><p>當日畢業公演[97][98]</p></td>
+<td><p>-</p></td>
 </tr>
 </tbody>
 </table>
@@ -1263,7 +1255,7 @@ DANCE SCHOOL S.S.M出身[73]</p></td>
 <td><p>1期</p></td>
 <td><p>2012年8月18日</p></td>
 <td><p>-</p></td>
-<td><p>請辭[98]</p></td>
+<td><p>請辭[99]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/仲西彩佳" title="wikilink">仲西彩佳</a></p></td>
@@ -1280,7 +1272,7 @@ DANCE SCHOOL S.S.M出身[73]</p></td>
 <td></td>
 <td><p>2014年2月23日</p></td>
 <td><p>福岡模特兒事務所</p></td>
-<td><p>2013年12月30日畢業公演[99]<br />
+<td><p>2013年12月30日畢業公演[100]<br />
 曾隸屬九州兒童模特兒經紀公司<br />
 舊藝名為「長瀬月渚」<br />
 畢業</p></td>
@@ -1367,7 +1359,7 @@ DANCE SCHOOL S.S.M出身[73]</p></td>
 </tr>
 <tr class="odd">
 <td><p>7月5日</p></td>
-<td><p>指原莉乃加入Team H[100]</p></td>
+<td><p>指原莉乃加入Team H[101]</p></td>
 <td></td>
 <td><p>22</p></td>
 <td><p>17</p></td>
@@ -1376,7 +1368,7 @@ DANCE SCHOOL S.S.M出身[73]</p></td>
 <tr class="even">
 <td><p>8月18日</p></td>
 <td><p>Team H古森結衣、菅本裕子、谷口愛理請辭<br />
-研究生江藤彩也香、仲西彩佳請辭[101]</p></td>
+研究生江藤彩也香、仲西彩佳請辭[102]</p></td>
 <td><p>-5</p></td>
 <td><p>17</p></td>
 <td><p>14</p></td>
@@ -1736,6 +1728,30 @@ Team H中西智代梨移籍至AKB48 Team A<br />
 <td><p>13</p></td>
 </tr>
 <tr class="even">
+<td><p>6月9日</p></td>
+<td><p>Team H兒玉遙畢業</p></td>
+<td><p>-1</p></td>
+<td><p>59</p></td>
+<td><p>43</p></td>
+<td><p>12</p></td>
+</tr>
+<tr class="odd">
+<td><p>6月17日</p></td>
+<td><p>Team H駒田京伽畢業</p></td>
+<td><p>-1</p></td>
+<td><p>58</p></td>
+<td><p>42</p></td>
+<td><p>11</p></td>
+</tr>
+<tr class="even">
+<td><p>6月21日</p></td>
+<td><p>Team KIV岩花詩乃畢業</p></td>
+<td><p>-1</p></td>
+<td><p>57</p></td>
+<td><p>41</p></td>
+<td><p>11</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -1776,7 +1792,8 @@ Team H中西智代梨移籍至AKB48 Team A<br />
 古森結衣、菅本裕子、谷口愛理在2012年8月18日請辭（升格成员中首位請辭成員）。<br />
 植木南央、熊澤世莉奈、下野由貴、宮脇咲良、村重杏奈、本村碧唯、森保圆在2014年4月23日异动至Team KIV。<br />
 中西智代梨在2014年4月23日移籍至AKB48。<br />
-若田部遙於2017年2月5日畢業。</p></td>
+若田部遙於2017年2月5日畢業。<br />
+兒玉遙於2019年6月9日畢業。</p></td>
 </tr>
 <tr class="odd">
 <td><p>植木南央</p></td>
@@ -1906,7 +1923,8 @@ Team H中西智代梨移籍至AKB48 Team A<br />
 井上由莉耶於2017年6月12日畢業。<br />
 田中優香於2018年2月27日畢業。<br />
 山田麻莉奈於2018年4月19日畢業。<br />
-冨吉明日香於2019年3月30日畢業。</p></td>
+冨吉明日香於2019年3月30日畢業。<br />
+駒田京伽於2019年6月17日畢業。</p></td>
 </tr>
 <tr class="even">
 <td><p>井上由莉耶</p></td>
@@ -2059,7 +2077,8 @@ Team H中西智代梨移籍至AKB48 Team A<br />
 <td><p>進入所屬隊伍的正式日期為新編組實行的4月23日。<br />
 至此2期研究生全部升格。<br />
 伊藤來笑於2016年2月29日畢業。<br />
-宇井真白於2018年3月21日畢業。</p></td>
+宇井真白於2018年3月21日畢業。<br />
+岩花詩乃於2019年6月21日畢業。</p></td>
 </tr>
 <tr class="odd">
 <td><p>上野遥</p></td>
@@ -2288,12 +2307,12 @@ Team H中西智代梨移籍至AKB48 Team A<br />
 | Team H                                     | Team KIV               | Team TII               | 參考資料 |
 | ------------------------------------------ | ---------------------- | ---------------------- | ---- |
 | 隊長                                         | 副隊長                    | 隊長                     | 副隊長  |
-| 穴井千尋                                       | （尚未設置）                 | Team H成立\[102\]        |      |
+| 穴井千尋                                       | （尚未設置）                 | Team H成立\[103\]        |      |
 | [第一次組閣](../Page/AKB48集團大組閣祭.md "wikilink") |                        |                        |      |
 | 穴井千尋                                       | 松岡菜摘                   | 多田愛佳                   | 宮脇咲良 |
-| 山下艾米麗                                      | 外薗葉月                   | Team TII成立\[103\]      |      |
-| 松岡菜摘                                       | （懸缺）                   | 穴井千尋畢業並指名松岡菜摘接任\[104\] |      |
-| 本村碧唯                                       | 多田愛佳畢業並指名本村碧唯接任\[105\] |                        |      |
+| 山下艾米麗                                      | 外薗葉月                   | Team TII成立\[104\]      |      |
+| 松岡菜摘                                       | （懸缺）                   | 穴井千尋畢業並指名松岡菜摘接任\[105\] |      |
+| 本村碧唯                                       | 多田愛佳畢業並指名本村碧唯接任\[106\] |                        |      |
 | （懸缺）                                       | 宮脇咲良暫停活動並專任IZ\*ONE成員   |                        |      |
 
 ## 唱片
@@ -2845,7 +2864,7 @@ VPBF-10974</p></td>
 <tr class="even">
 <td><p>《现在是第一》<br />
 （）</p></td>
-<td><p>電視廣告曲：美食城（）《一之市》、《周日之市》、《夠意思日》、《特别之日》、《周四之日》篇[106]</p></td>
+<td><p>電視廣告曲：美食城（）《一之市》、《周日之市》、《夠意思日》、《特别之日》、《周四之日》篇[107]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2889,12 +2908,12 @@ VPBF-10974</p></td>
 
 HKT48劇場設於福岡市中央區地行濱的（Hawks Town
 Mall）內，於2011年11月26日開幕，可容納300名觀眾，是當時AKB48集團的姊妹團體中專屬劇場的容納人数最多者。入場票的販賣是與AKB48系列團體的劇場同樣是事前應募制，140張是一般抽選，120張是HKT48
-Mobile会員\[107\]，[福岡](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")、[佐賀](https://zh.wikipedia.org/wiki/佐賀縣 "wikilink")、[熊本](../Page/熊本縣.md "wikilink")3縣以外的都道府縣居住者作為「從遠方來的顧客」有20張，「以家庭、情侶身分來的顧客」有10張，「女性、小學、初中學生的顧客」有10張各自分派。入場票的應募受理是在該次劇場公演日的前3日（「遠方」是前5日）前的0時至20時之間獲取通知，目前與AKB48系列團體同樣透過AKB48集團售票中心網站申購。票價方面，一般男性為2,000日圓、一般女性與中小學生為1,000日圓，劇場初日2011年11月26日公演的時候入場票費用全部席1,000日圓\[108\]。
+Mobile会員\[108\]，[福岡](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")、[佐賀](https://zh.wikipedia.org/wiki/佐賀縣 "wikilink")、[熊本](../Page/熊本縣.md "wikilink")3縣以外的都道府縣居住者作為「從遠方來的顧客」有20張，「以家庭、情侶身分來的顧客」有10張，「女性、小學、初中學生的顧客」有10張各自分派。入場票的應募受理是在該次劇場公演日的前3日（「遠方」是前5日）前的0時至20時之間獲取通知，目前與AKB48系列團體同樣透過AKB48集團售票中心網站申購。票價方面，一般男性為2,000日圓、一般女性與中小學生為1,000日圓，劇場初日2011年11月26日公演的時候入場票費用全部席1,000日圓\[109\]。
 與其他AKB48系列團體的劇場不同的是，HKT48劇場的兒童座、女子座和遠方座設在最前3排，而不是AKB48劇場的最後3排。
 
-由於HKT48劇場所处的福岡海鷹城在2016年3月結束營業，HKT48劇場亦同步停業；而HKT48公演的場地則轉移至位於福岡[天神的商場](https://zh.wikipedia.org/wiki/天神_\(福岡市\) "wikilink")「」內的「西鐵表演廳」（）\[109\]。現除西铁表演厅之外，也同时使用位於福岡市博多區千代的「Papillon
+由於HKT48劇場所处的福岡海鷹城在2016年3月結束營業，HKT48劇場亦同步停業；而HKT48公演的場地則轉移至位於福岡[天神的商場](https://zh.wikipedia.org/wiki/天神_\(福岡市\) "wikilink")「」內的「西鐵表演廳」（）\[110\]。現除西铁表演厅之外，也同时使用位於福岡市博多區千代的「Papillon
 24 gas hall」（）及中央区渡辺通的“Skala
-Espacio”（）做为备用剧场。新專屬劇場預計將在2020年春季於[福岡巨蛋旁](../Page/福岡巨蛋.md "wikilink")、靠近劇場原址的新建大樓1樓啟用\[110\]。
+Espacio”（）做为备用剧场。新專屬劇場預計將在2020年春季於[福岡巨蛋旁](../Page/福岡巨蛋.md "wikilink")、靠近劇場原址的新建大樓1樓啟用\[111\]。
 
 ### 公演内容
 
@@ -2918,7 +2937,7 @@ Espacio”（）做为备用剧场。新專屬劇場預計將在2020年春季於
 
 #### 研究生
 
-1.  [手牽手](https://zh.wikipedia.org/wiki/Team_S_2nd_Stage「手牽手」#HKT48_1st_Stage「手牽手」公演 "wikilink")\[111\]：2011年11月26日
+1.  [手牽手](https://zh.wikipedia.org/wiki/Team_S_2nd_Stage「手牽手」#HKT48_1st_Stage「手牽手」公演 "wikilink")\[112\]：2011年11月26日
     - 2012年3月2日（76公演、其後以Team H 1st stage進行）
 2.  [PARTY开始了](https://zh.wikipedia.org/wiki/Team_A_1st_Stage「PARTY开始了」#HKT48_研究生公演“PARTY开始了” "wikilink")（）：2012年9月30日
     - 2013年11月5日（218公演）
@@ -3136,19 +3155,19 @@ H與安陪恭加、今田美奈、仲西彩佳、深川舞子等研究生。
 ### 電視廣告
 
   - [九州旅客鉄道](https://zh.wikipedia.org/wiki/九州旅客鉄道 "wikilink")（JR九州）
-    「[SUGOCA冬キャンペーン](../Page/SUGOCA.md "wikilink")2011\!」\[112\]（2011年12月23日
+    「[SUGOCA冬キャンペーン](../Page/SUGOCA.md "wikilink")2011\!」\[113\]（2011年12月23日
     - 2012年1月9日）
   - [西日本シティ銀行](https://zh.wikipedia.org/wiki/西日本シティ銀行 "wikilink")
-    「新生活応援キャンペーン」\[113\]（2012年2月1日 - 5月31日）
+    「新生活応援キャンペーン」\[114\]（2012年2月1日 - 5月31日）
   - 福岡県春の交通安全県民運動（2012年4月6日 - 15日）
   - [ダイエー](https://zh.wikipedia.org/wiki/ダイエー "wikilink")（2012年6月30日 -
-    、九州地区\[114\]）
+    、九州地区\[115\]）
   - [スペースワールド](https://zh.wikipedia.org/wiki/スペースワールド "wikilink")「Muna」（2012年7月
     - 9月2日）
   - [エステー](https://zh.wikipedia.org/wiki/エステー "wikilink")『ムシューダ』・『かおりムシューダ』「虫喰ってる」篇・「HKT48」篇・「かけ声」篇（2012年9月17日
-    - \[115\]） - Team H（除指原）
+    - \[116\]） - Team H（除指原）
   - [讀賣新聞西部本社](https://zh.wikipedia.org/wiki/讀賣新聞西部本社 "wikilink")（2012年9月29日
-    - ）\[116\]
+    - ）\[117\]
 
 ## 書籍
 
@@ -3187,10 +3206,10 @@ H與安陪恭加、今田美奈、仲西彩佳、深川舞子等研究生。
 :\* 最終審査－於2011年7月10日在舉行舞蹈與唱歌審查（合格者24名）
 
   - 合格名單：
-    穴井千尋、安陪恭加、**今田美奈**、**植木南央**、江藤彩也香、**熊澤世莉奈**、**兒玉遙**、古森結衣、**下野由貴**
+    穴井千尋、安陪恭加、**今田美奈**、**植木南央**、江藤彩也香、**熊澤世莉奈**、兒玉遙、古森結衣、**下野由貴**
     、菅本裕子、**田中菜津美**、谷口愛理、仲西彩佳、中西智代梨、**深川舞子**、**松岡菜摘**、**宮脇咲良**、**村重杏奈**、**本村碧唯**、**森保圓**、若田部遙（另外有三名在正式披露前辭退）
   - 主要不合格名單：
-    **岩花詩乃**（2期生）、**豐永阿紀**（4期生）、**外薗葉月**（3期生）、山田麻莉奈（2期生）
+    岩花詩乃（2期生）、**豐永阿紀**（4期生）、**外薗葉月**（3期生）、山田麻莉奈（2期生）
 
 ### HKT48二期生徵選
 
@@ -3211,7 +3230,7 @@ H與安陪恭加、今田美奈、仲西彩佳、深川舞子等研究生。
 :\* 最終審査－於2012年6月23日在爾頓－福岡海鷹飯店舉行舞蹈與唱歌審查（準合格者34名）
 
   - 合格名單：
-    **秋吉優花**、伊藤來笑、井上由莉耶、岩花詩乃、宇井真白、**上野遙**、梅本泉、岡田栞奈、岡本尚子、草場愛、**神志那結衣**、後藤泉、**駒田京伽**、**坂口理子**、**田島芽瑠**、田中優香、谷真理佳、冨吉明日香、**朝長美櫻**、**淵上舞**、山田麻莉奈
+    **秋吉優花**、伊藤來笑、井上由莉耶、岩花詩乃、宇井真白、**上野遙**、梅本泉、岡田栞奈、岡本尚子、草場愛、**神志那結衣**、後藤泉、駒田京伽、**坂口理子**、**田島芽瑠**、田中優香、谷真理佳、冨吉明日香、**朝長美櫻**、**淵上舞**、山田麻莉奈
   - 主要不合格名單：
     東李苑（前SKE48）、**荒卷美咲**（3期生）
 
@@ -3236,13 +3255,13 @@ H與安陪恭加、今田美奈、仲西彩佳、深川舞子等研究生。
   - 合格名單：
     **荒巻美咲**、**栗原紗英**、**坂本愛玲菜**、**田中美久**、筒井莉子、**外薗葉月**、**矢吹奈子**、**山內祐奈**、**山下艾米麗**
   - 主要暫定合格名單：
-    [倉野尾成美](../Page/倉野尾成美.md "wikilink")\[117\]（AKB48）
+    [倉野尾成美](../Page/倉野尾成美.md "wikilink")\[118\]（AKB48）
 
 ### HKT48四期生徵選
 
   - 徵選内容
 
-:; 徵選資格：\[118\]\[119\]\[120\]
+:; 徵選資格：\[119\]\[120\]\[121\]
 
 :\# 經驗不拘
 
@@ -3265,15 +3284,15 @@ H與安陪恭加、今田美奈、仲西彩佳、深川舞子等研究生。
   - 合格名單：
     **運上弘菜**、**小田彩加**、**堺萌香**、**清水梨央**、**武田智加**、**地頭江音音**、**月足天音**、**豐永阿紀**、**松本日向**、**宮崎想乃**
   - 取消資格名單：
-    音嶋莉沙\[121\]（[=LOVE](../Page/=LOVE.md "wikilink")）\[122\]
+    音嶋莉沙\[122\]（[=LOVE](../Page/=LOVE.md "wikilink")）\[123\]
   - 主要不合格名單：
-    市岡愛弓\[123\]（STU48）、土路生優里\[124\]（STU48）
+    市岡愛弓\[124\]（STU48）、土路生優里\[125\]（STU48）
 
 ### HKT48五期生徵選
 
   - 徵選内容
 
-:; 徵選資格：\[125\]\[126\]
+:; 徵選資格：\[126\]\[127\]
 
 :\# 經驗不拘
 
@@ -3286,12 +3305,12 @@ H與安陪恭加、今田美奈、仲西彩佳、深川舞子等研究生。
 :\* 徵選期間：2018年5月27日－7月1日
 
 :\*
-HKT48講座：2018年6月24日（地點：福岡市Espacio）－獲選報名者可無條件通過二次審査\[127\]。出席成員：松岡菜摘、本村碧唯、山下艾米麗、今村麻莉愛、坂口理子、田中菜津美、田中美久、豐永阿紀。主持人：小雪
+HKT48講座：2018年6月24日（地點：福岡市Espacio）－獲選報名者可無條件通過二次審査\[128\]。出席成員：松岡菜摘、本村碧唯、山下艾米麗、今村麻莉愛、坂口理子、田中菜津美、田中美久、豐永阿紀。主持人：小雪
 
 :\*
-[SHOWROOM部門](../Page/SHOWROOM.md "wikilink")：2018年8月20日17時00分－8月28日19時59分\[128\]
+[SHOWROOM部門](../Page/SHOWROOM.md "wikilink")：2018年8月20日17時00分－8月28日19時59分\[129\]
 
-:\* 最終審査－舞蹈、歌唱：2018年9月2日\[129\]
+:\* 最終審査－舞蹈、歌唱：2018年9月2日\[130\]
 
   - 合格名單：
     **石橋颯**、**市村愛里**、**小川紗奈**、**上島楓**、**川平聖**、**工藤陽香**、**栗山梨奈**、**後藤陽菜乃**、**坂本梨乃**、**竹本胡桃**、**田中伊櫻莉**、**長野雅**、**水上凜巳花**、**村上和叶**
@@ -3316,8 +3335,8 @@ HKT48講座：2018年6月24日（地點：福岡市Espacio）－獲選報名者�
 
 :\* Team KIV：**今村麻莉愛**（1）
 
-::\* 本屆選秀會議的3位入選者未編入原指名分隊\[130\]，2016年3月30日與3期生全體成員共同編入HKT48新成立的Team
-TII，並直接昇格為正式成員\[131\]。
+::\* 本屆選秀會議的3位入選者未編入原指名分隊\[131\]，2016年3月30日與3期生全體成員共同編入HKT48新成立的Team
+TII，並直接昇格為正式成員\[132\]。
 
 #### 第三屆
 
@@ -3498,36 +3517,36 @@ TII，並直接昇格為正式成員\[131\]。
 64.
 
 65.
-66.
+66. [唐津ジュニア音楽祭 ２８組が熱唱―「たんこぶちん」グランプリ
+    佐賀新聞 2009年02月23日](http://www.saga-s.co.jp/news/machi-wadai.0.1188234.article.html)
 
-67.
+
+67. [「HKT48 熊沢 世莉奈
+    をよろしくお願いいたします！」さおブロ 2011年11月30日](http://ameblo.jp/dance-ssm/entry-11094069130.html)
 
 68.
 
 69.
 
-70.
+70. [【お知らせ】](http://ameblo.jp/hkt48/entry-11331501203.html) - HKT48
+    オフィシャルブログ 2012年8月18日
 
-71.
+71. 升格后原定配属至Team KIV，但在之后被宣布移籍至SKE48，因此未成为Team KIV正式成员
 
-72. [唐津ジュニア音楽祭 ２８組が熱唱―「たんこぶちん」グランプリ
-    佐賀新聞 2009年02月23日](http://www.saga-s.co.jp/news/machi-wadai.0.1188234.article.html)
-
-
-73. [「HKT48 熊沢 世莉奈
-    をよろしくお願いいたします！」さおブロ 2011年11月30日](http://ameblo.jp/dance-ssm/entry-11094069130.html)
-
+72.
+73.
 74.
 
 75.
 
-76. [【お知らせ】](http://ameblo.jp/hkt48/entry-11331501203.html) - HKT48
-    オフィシャルブログ 2012年8月18日
+76.
 
-77. 升格后原定配属至Team KIV，但在之后被宣布移籍至SKE48，因此未成为Team KIV正式成员
+77.
 
 78.
+
 79.
+
 80.
 
 81.
@@ -3551,7 +3570,6 @@ TII，並直接昇格為正式成員\[131\]。
 90.
 
 91.
-
 92.
 
 93.
@@ -3563,51 +3581,52 @@ TII，並直接昇格為正式成員\[131\]。
 96.
 
 97.
-98.
-99.
 
+98.
+
+99.
 100.
 
 101.
-102.
 
+102.
 103.
 
 104.
 
 105.
 
-106. 九州地区限定播放。广告分别由「Team 一之市（兒玉、森保、田島、朝長）」、「Team
+106.
+
+107. 九州地区限定播放。广告分别由「Team 一之市（兒玉、森保、田島、朝長）」、「Team
      周日之市（指原、下野、宮脇、若田部）」、「Team
      特别之日（穴井、植木、中西、村重）」、「Team 周四之市（周四之日）」演出。
 
-107. 初次公演以後，260張分配給一般抽選，[至2012年5月10日開始HKT48
+108. 初次公演以後，260張分配給一般抽選，[至2012年5月10日開始HKT48
      Mobile會員制度後，改為現行制度](http://www.hkt48.jp/news/2012/05/10a.html)
      。同月12日至14日因休演，同月15日公演起適用。
 
-108. [HKT48オフィシャルウェブサイト チケット](http://www.hkt48.jp/ticket.html)
+109. [HKT48オフィシャルウェブサイト チケット](http://www.hkt48.jp/ticket.html)
 
-109.
 110.
-111. 官方網站內是「1st Stage 公演」。
-
-112.
+111.
+112. 官方網站內是「1st Stage 公演」。
 
 113.
 
-114. [九州地区のダイエーがイメージキャラクターに『HKT48』
+114.
+
+115. [九州地区のダイエーがイメージキャラクターに『HKT48』
      を起用\!\!](http://www.daiei.co.jp/corporate/index.php/release/lists/detail/789)
      ダイエー企業情報 ニュースリリース 2012年6月
 
-115. [「ムシューダ」新CM ムッシュ熊雄シリーズ “虫喰ってる”篇を制作
+116. [「ムシューダ」新CM ムッシュ熊雄シリーズ “虫喰ってる”篇を制作
      今回は話題のHKT48と共演 2012年9月17日（月）から全国でオンエア開始](http://www.st-c.co.jp/topics/2012/000470.html)
       エステー株式会社 プレスリリース 2012年9月14日付
 
-116. [西部本社公式サポーター HKT48
+117. [西部本社公式サポーター HKT48
      CMに登場\!](https://archive.is/20130501080952/kyushu.yomiuri.co.jp/hkt/movie/index.htm)
      YOMIURI ONLINE
-
-117.
 
 118.
 
@@ -3636,3 +3655,5 @@ TII，並直接昇格為正式成員\[131\]。
 130.
 
 131.
+
+132.

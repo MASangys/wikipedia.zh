@@ -31,8 +31,8 @@ DJ OZMA](http://ja.wikipedia.org/wiki/DJ_OZMA)2006年的「アゲ♂アゲ♂EVE
 
 1.  DJ. DOC, 1994
 2.  머피의 법칙, 1995
-3.  겨울 이야기, 1995
-4.  4th ALBUM, 1998
+3.  겨울 이야기, 1996
+4.  4th ALBUM, 1997
 5.  The Life... Doc Blues 5%, 2000
 6.  Love & Sex & Happiness, 2004
 7.  풍류, 2010

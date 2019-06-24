@@ -171,7 +171,7 @@ Music合作](https://zh.wikipedia.org/wiki/Sony_Music "wikilink")，展開「Niz
     Music](https://zh.wikipedia.org/wiki/Sony_Music "wikilink"))旗下版權流通公司[The
     Orchard達成全球流通業務代理的合作協議](https://zh.wikipedia.org/wiki/The_Orchard_\(company\) "wikilink")（不包含中國大陸地區），階段性任務告結而結束營業。
 
-## 旗下藝人
+## 旗下藝人、創作者及製作人
 
   - **組合**
 
@@ -672,7 +672,7 @@ Han Shin Young</p></td>
 </tbody>
 </table>
 
-## 已離開公司藝人
+## 已離開公司藝人、創作者及製作人
 
   - 已離開歌手
 
@@ -687,7 +687,9 @@ Han Shin Young</p></td>
 
   - [朴志胤](../Page/朴志胤.md "wikilink")（2000 － 2003）
 
-  - Noel（2002 - 2006）
+  - （2000 - 2004）
+
+  - （2002 - 2006）
 
   - [Star](../Page/Star_\(韓國歌手\).md "wikilink")（2002 - 2006）
 
@@ -724,7 +726,7 @@ Han Shin Young</p></td>
       - [李善美](https://zh.wikipedia.org/wiki/善美 "wikilink")（2006 - 2017）
       - [朴譽恩](https://zh.wikipedia.org/wiki/譽恩 "wikilink")（2006 - 2017）
   - [G.Soul](../Page/G.Soul.md "wikilink")（2015 - 2017）
-  - [2AM](../Page/2AM.md "wikilink")（2008 - 2015）
+  - [2AM](../Page/2AM.md "wikilink")（2008 - 2015，未宣布解散）
       - [李昶旻](../Page/李昶旻.md "wikilink")（2008 - 2015）
       - [任瑟雍](https://zh.wikipedia.org/wiki/任瑟雍 "wikilink")（2008 - 2015）
       - [鄭珍雲](https://zh.wikipedia.org/wiki/鄭珍雲 "wikilink")（2008 - 2015）
@@ -747,6 +749,14 @@ Han Shin Young</p></td>
   - [金叡園](../Page/金叡園.md "wikilink")（2015 - 2018）
   - [崔宇植](../Page/崔宇植.md "wikilink")（2012 - 2018）
   - [宋昰昀](https://zh.wikipedia.org/wiki/宋昰昀 "wikilink")（2013 - 2019）
+
+<!-- end list -->
+
+  - 已離開詞曲創作者、製作人
+
+<!-- end list -->
+
+  - [房時爀](../Page/房時爀.md "wikilink")（1997 - 2005）
 
 ### 已離開練習生（選秀後未簽約入社者不計）
 
@@ -807,6 +817,8 @@ Han Shin Young</p></td>
   - [Pentagon](../Page/Pentagon_\(男子組合\).md "wikilink")
       - [李會澤](../Page/李會澤.md "wikilink")
       - [安達祐人](https://zh.wikipedia.org/wiki/安達祐人 "wikilink")
+  - [R1SE](https://zh.wikipedia.org/wiki/R1SE "wikilink")
+      - [周震南](../Page/周震南.md "wikilink")
   - [RAINZ](../Page/RAINZ.md "wikilink")
       - 李基遠
   - [U-KISS](../Page/U-KISS.md "wikilink")
@@ -848,7 +860,7 @@ Han Shin Young</p></td>
 
   - [EVERGLOW](../Page/EVERGLOW.md "wikilink")
 
-      - [許庚琳](../Page/EVERGLOW.md "wikilink")
+      - [許庾琳](../Page/EVERGLOW.md "wikilink")
 
   - [EXID](https://zh.wikipedia.org/wiki/EXID "wikilink")
 
@@ -939,6 +951,8 @@ Han Shin Young</p></td>
   - [金請夏](https://zh.wikipedia.org/wiki/金請夏 "wikilink")
 
   -
+  - [刘维](../Page/刘维.md "wikilink")
+
 <!-- end list -->
 
   - 演員
@@ -975,12 +989,6 @@ Han Shin Young</p></td>
 
   - 《熱血男兒》
       - 林代憲
-  - 《[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")》
-      - 黃金率
-      - 尹瑞彬
-      - 李美談
-      - 姜碩華
-      - Steven Kim
   - 《[SIXTEEN](https://zh.wikipedia.org/wiki/SIXTEEN "wikilink")》
       - 宋敏英
       - 金恩序（《[偶像學校](https://zh.wikipedia.org/wiki/偶像學校 "wikilink")》）
@@ -991,8 +999,12 @@ Han Shin Young</p></td>
       - [陳芳語](https://zh.wikipedia.org/wiki/陳芳語 "wikilink")
   - 《[青春有你](../Page/青春有你.md "wikilink")》
       - [文鄴辰](https://zh.wikipedia.org/wiki/文鄴辰 "wikilink")
-  - 《[創造營2019](../Page/創造營2019.md "wikilink")》
-      - [姚琛](https://zh.wikipedia.org/wiki/姚琛 "wikilink")
+  - 《[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")》
+      - 黃金率
+      - 尹瑞彬
+      - [李美談](../Page/李美談.md "wikilink")
+      - 姜碩華
+      - Steven Kim
 
 ## JYP Nation
 

@@ -6,7 +6,8 @@ OpenEmbedded建置系統基於BitBake建置工具，其操作行為與Gentoo Lin
 
   - [BitBake](../Page/BitBake.md "wikilink")
 
-  -
+  - [Buildroot](../Page/Buildroot.md "wikilink")
+
   -
   - [Familiar Linux](../Page/Familiar_Linux.md "wikilink")
 

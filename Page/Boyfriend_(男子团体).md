@@ -54,7 +54,7 @@ day等歌手的](https://zh.wikipedia.org/wiki/Girl's_day "wikilink")[日本娛�
 8月9日，发行第五張迷你專輯《Never End》**。**8月27日，消息透露BOYFRIEND將出演KBS選秀節目《[The
 Unit](../Page/The_Unit.md "wikilink")》，並正在調整日程。\[5\]9月19日，官方推特發佈新聞網址，出演KBS選秀節目《[The
 Unit](../Page/The_Unit.md "wikilink")》的成員名單：東玄、正珉、光旻、珉玗。\[6\]
-结果只有队长[東玄成功入选選秀節目](https://zh.wikipedia.org/wiki/東玄 "wikilink")《The
+最终只有队长[東玄成功入选選秀節目](https://zh.wikipedia.org/wiki/東玄 "wikilink")《The
 Unit》。
 
 ### 2018年：選秀節目《The Unit》结束、出道七年
@@ -65,7 +65,7 @@ Debut 7th Anniversary Fan Meeting \[Time Capsule\] - 並肩走來的七枚足跡
 
 ### 2019年：團體解散
 
-5月17日， [STARSHIP娛樂宣布合約結束](../Page/STARSHIP娛樂.md "wikilink")，團體解散。
+5月17日，[STARSHIP娛樂宣布合約結束](../Page/STARSHIP娛樂.md "wikilink")，團體解散；6月19日，成員正珉加入ARA娛樂（），以單曲專輯《NEARBY》（）Solo出道。
 
 ## 成員資料
 
@@ -86,8 +86,7 @@ Debut 7th Anniversary Fan Meeting \[Time Capsule\] - 並肩走來的七枚足跡
 
   - 允浩（现为[A
     team娱乐旗下](https://zh.wikipedia.org/wiki/A_team娱乐 "wikilink")[VAV组合成员Ayno](../Page/VAV.md "wikilink")）
-  - TNT（現為[SM
-    娛樂旗下](https://zh.wikipedia.org/wiki/SM_娛樂 "wikilink")[NCT成員](../Page/NCT.md "wikilink")）
+  - TNT（現為[SM娛樂旗下](../Page/SM娛樂.md "wikilink")[NCT成員](../Page/NCT.md "wikilink")）
 
 ## 影视作品
 

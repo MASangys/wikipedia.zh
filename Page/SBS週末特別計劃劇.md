@@ -107,7 +107,7 @@
 <td style="text-align: center;"><p>20</p></td>
 <td style="text-align: center;"><p><a href="../Page/獨孤永宰.md" title="wikilink">獨孤永宰</a>、<a href="https://zh.wikipedia.org/wiki/鄭鍾浚" title="wikilink">鄭鍾浚</a>、<a href="https://zh.wikipedia.org/wiki/金星元" title="wikilink">金星元</a>、<a href="../Page/高斗心.md" title="wikilink">高斗心</a>、<a href="../Page/趙卿煥.md" title="wikilink">趙卿煥</a>、<a href="../Page/政旭.md" title="wikilink">政旭</a>、<a href="https://zh.wikipedia.org/wiki/李英河" title="wikilink">李英河</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/高植滿" title="wikilink">高植滿</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李永新" title="wikilink">李永新</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/李永新.md" title="wikilink">李永新</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
 </tbody>
@@ -224,7 +224,7 @@
 <td style="text-align: center;"><p>26</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/柳仁村" title="wikilink">柳仁村</a>、<a href="../Page/吉用祐.md" title="wikilink">吉用祐</a>、<a href="../Page/鄭東煥.md" title="wikilink">鄭東煥</a>、<a href="https://zh.wikipedia.org/wiki/林采茂" title="wikilink">林采茂</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/高植萬" title="wikilink">高植萬</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李永新" title="wikilink">李永新</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/李永新.md" title="wikilink">李永新</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
 </tbody>

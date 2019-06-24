@@ -56,6 +56,7 @@ Girls勇敢追夢之旅》。
   - 2014年《[喜歡·一個人](../Page/喜歡·一個人.md "wikilink")》（飾演杜凱琪）
   - 2016年《[滾石愛情故事](https://zh.wikipedia.org/wiki/滾石愛情故事 "wikilink")-我是真的付出我的愛》（飾演程思艾）
   - 2016年《[相愛穿梭千年2：月光下的交換](https://zh.wikipedia.org/wiki/相愛穿梭千年2：月光下的交換 "wikilink")》（飾方紫儀）
+  - 2019年《[我們不能是朋友](../Page/我們不能是朋友.md "wikilink")》（飾周惟惟）
   - 待播《[我曾愛過你，想起就心酸](https://zh.wikipedia.org/wiki/我曾愛過你，想起就心酸 "wikilink")》（飾演楊沫）
   - 待播《[朝歌](https://zh.wikipedia.org/wiki/朝歌_\(電視劇\) "wikilink")》（飾演燕久）
   - 待播《[一見不傾心](https://zh.wikipedia.org/wiki/一見不傾心 "wikilink")》（飾演李芸熙）

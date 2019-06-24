@@ -667,6 +667,8 @@ Card中（召喚「豪族亂舞」）。生前的因為是蘇我氏的緣故，�
   - [東方Project第13弾　東方神霊廟　～ Ten
     Desires.](http://kourindou.exblog.jp/14332117/)
   - [台北霞海城隍廟](http://www.tpecitygod.org/)
+  - [steam上的《東方神霊廟 〜 Ten
+    Desires.》](https://store.steampowered.com/app/1043230)
 
 [Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink")
 [Category:道教題材作品](https://zh.wikipedia.org/wiki/Category:道教題材作品 "wikilink")

@@ -697,15 +697,6 @@ Kyla</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>Graciella Ruth Wiranto</p></td>
-<td><p>Ciel</p></td>
-<td></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p>Shalza Grasita</p></td>
 <td><p>Shalza</p></td>
 <td></td>
@@ -714,7 +705,7 @@ Kyla</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Gita Sekar Andarini</p></td>
 <td><p>Gita</p></td>
 <td></td>
@@ -723,7 +714,7 @@ Kyla</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Aiko Harumi Nangin</p></td>
 <td><p>Aiko</p></td>
 <td></td>
@@ -732,7 +723,7 @@ Kyla</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Angelina Christy</p></td>
 <td><p>Christy</p></td>
 <td></td>
@@ -741,7 +732,7 @@ Kyla</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Aurel Mayori</p></td>
 <td><p>Yori</p></td>
 <td></td>
@@ -750,7 +741,7 @@ Kyla</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Azizi Asadel</p></td>
 <td><p>Zee</p></td>
 <td></td>
@@ -759,7 +750,7 @@ Kyla</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Dhea Angelia</p></td>
 <td><p>Dey</p></td>
 <td></td>
@@ -768,7 +759,7 @@ Kyla</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Febi Komaril</p></td>
 <td><p>Febi</p></td>
 <td></td>
@@ -777,7 +768,7 @@ Kyla</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Febrina Diponegoro</p></td>
 <td><p>Bri</p></td>
 <td></td>
@@ -786,7 +777,7 @@ Kyla</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Febriola Sinambela</p></td>
 <td><p>Olla</p></td>
 <td></td>
@@ -795,7 +786,7 @@ Kyla</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Freyana Jayawardana</p></td>
 <td><p>Freya</p></td>
 <td></td>
@@ -804,7 +795,7 @@ Kyla</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Gabriel Angelina</p></td>
 <td><p>Brielle</p></td>
 <td></td>
@@ -813,7 +804,7 @@ Kyla</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Helisma Putri</p></td>
 <td><p>Eli</p></td>
 <td></td>
@@ -822,7 +813,7 @@ Kyla</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Jessica Chandra</p></td>
 <td><p>Jessi</p></td>
 <td></td>
@@ -831,7 +822,7 @@ Kyla</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Mutiara Azzahra</p></td>
 <td><p>Muthe</p></td>
 <td></td>
@@ -840,7 +831,7 @@ Kyla</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Nabila Fitriana</p></td>
 <td><p>Lala</p></td>
 <td></td>
@@ -849,7 +840,7 @@ Kyla</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Rifa Fatmasari</p></td>
 <td><p>Rifa</p></td>
 <td></td>
@@ -858,7 +849,7 @@ Kyla</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Viona Fadrin</p></td>
 <td><p>Vivi</p></td>
 <td></td>
@@ -867,11 +858,74 @@ Kyla</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Yessica Tamara</p></td>
 <td><p>Chika</p></td>
 <td></td>
 <td><p>預定於2019年7月21日昇格至Team KIII</p></td>
+<td><p>-</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Amanina Afiqah</p></td>
+<td><p>Afiqah</p></td>
+<td></td>
+<td><p>8期</p></td>
+<td><p>2019年5月26日</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="odd">
+<td><p>Cornelia Vanisa</p></td>
+<td><p>Onil</p></td>
+<td></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Eriena Kartika</p></td>
+<td><p>Erichan</p></td>
+<td></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Gabriela Stefany</p></td>
+<td><p>Vany</p></td>
+<td></td>
+<td><p>2019年6月</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Lulu Salsabila</p></td>
+<td><p>Lulu</p></td>
+<td></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Pamela Krysanthe</p></td>
+<td><p>Pamela</p></td>
+<td></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Zahra Nur</p></td>
+<td><p>Ara</p></td>
+<td></td>
+<td><p>-</p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
@@ -905,34 +959,18 @@ Kyla</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>Amanina Afiqah</p></td>
-<td><p>Afiqah</p></td>
+<td><p>Amirah Fatin</p></td>
+<td><p>Mira</p></td>
 <td></td>
 <td><p>8期</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>Amirah Fatin</p></td>
-<td><p>Mira</p></td>
-<td></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>Cindy Nugroho</p></td>
 <td><p>Nunu</p></td>
 <td></td>
 <td><p>AKB48集團最年少</p></td>
-<td><p>-</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Cornelia Vanisa</p></td>
-<td><p>Onil</p></td>
-<td></td>
-<td><p>-</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
@@ -945,14 +983,6 @@ Kyla</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Eriena Kartika</p></td>
-<td><p>Erichan</p></td>
-<td></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>Fiony Alveria</p></td>
 <td><p>Fiony</p></td>
 <td></td>
@@ -960,17 +990,9 @@ Kyla</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Flora Shafiq</p></td>
 <td><p>Flora</p></td>
-<td></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Gabriela Stefany</p></td>
-<td><p>Vany</p></td>
 <td></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
@@ -985,14 +1007,6 @@ Kyla</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Lulu Salsabila</p></td>
-<td><p>Lulu</p></td>
-<td></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p>Nyimas Ratu Rafa</p></td>
 <td><p>Ratu</p></td>
 <td></td>
@@ -1000,33 +1014,9 @@ Kyla</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p>Pamela Krysanthe</p></td>
-<td><p>Pamela</p></td>
-<td></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td></td>
-</tr>
 <tr class="even">
-<td><p>Reva Adriana</p></td>
-<td><p>Reva</p></td>
-<td></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>Reva Fidela</p></td>
 <td><p>Adel</p></td>
-<td></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Salma Annisa</p></td>
-<td><p>Alma</p></td>
 <td></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
@@ -1041,14 +1031,6 @@ Kyla</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Zahra Nur</p></td>
-<td><p>Ara</p></td>
-<td></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -1978,6 +1960,24 @@ Kyla</p></td>
 <td></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>Graciella Ruth Wiranto</p></td>
+<td></td>
+<td><p>6期</p></td>
+<td><p>Class A</p></td>
+<td><p>2019年6月15日</p></td>
+<td><p>請辭[75]</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -2187,7 +2187,7 @@ Kyla</p></td>
 </tr>
 <tr class="even">
 <td><p>2月23日</p></td>
-<td><p>研究生Jennifer Rachel Natasya、Thalia Ivanka Elizabeth升格至Team J[75]</p></td>
+<td><p>研究生Jennifer Rachel Natasya、Thalia Ivanka Elizabeth升格至Team J[76]</p></td>
 <td></td>
 <td><p>42</p></td>
 <td><p>37</p></td>
@@ -2246,7 +2246,7 @@ Priscillia Sari Dewi、Saktia Oktapyani升格至Team KIII</p></td>
 </tr>
 <tr class="odd">
 <td><p>11月22日</p></td>
-<td><p>研究生 Kezia Putri Andinta、Milenia Christien Glory Goenawan 辞退[76]</p></td>
+<td><p>研究生 Kezia Putri Andinta、Milenia Christien Glory Goenawan 辞退[77]</p></td>
 <td><p>-2</p></td>
 <td><p>69</p></td>
 <td><p>41</p></td>
@@ -2262,7 +2262,7 @@ Priscillia Sari Dewi、Saktia Oktapyani升格至Team KIII</p></td>
 </tr>
 <tr class="odd">
 <td><p>12月26日</p></td>
-<td><p>研究生Zebi Magnolia Fawwaz 辞退[77]</p></td>
+<td><p>研究生Zebi Magnolia Fawwaz 辞退[78]</p></td>
 <td><p>-1</p></td>
 <td><p>67</p></td>
 <td><p>40</p></td>
@@ -2956,12 +2956,28 @@ Team T Made Devi Ranita Ningtara畢業</p></td>
 <td><p>13</p></td>
 </tr>
 <tr class="odd">
+<td><p>5月26日</p></td>
+<td><p>Class B的5名成員晉級至Class A</p></td>
 <td></td>
+<td><p>83</p></td>
+<td><p>42</p></td>
+<td><p>13</p></td>
+</tr>
+<tr class="even">
+<td><p>6月</p></td>
+<td><p>Class B的4名成員晉級至Class A</p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>83</p></td>
+<td><p>42</p></td>
+<td><p>13</p></td>
+</tr>
+<tr class="odd">
+<td><p>6月15日</p></td>
+<td><p>Class A Graciella Ruth Wiranto請辭</p></td>
+<td><p>-1</p></td>
+<td><p>82</p></td>
+<td><p>42</p></td>
+<td><p>13</p></td>
 </tr>
 </tbody>
 </table>
@@ -3659,7 +3675,7 @@ Music Card</p></td>
   - 《[警部补
     矢部谦三2](https://zh.wikipedia.org/wiki/警部补_矢部谦三#第二季（2013年） "wikilink")》（2013年7月5日
     - 8月30日、[朝日电视台](https://zh.wikipedia.org/wiki/朝日电视台 "wikilink")） -
-    Nabilah\[78\]
+    Nabilah\[79\]
 
 ### CM
 
@@ -3833,9 +3849,9 @@ Music Card</p></td>
 1.  [恋愛禁止条例](https://zh.wikipedia.org/wiki/Team_A_5th_Stage「恋愛禁止条例」#JKT48_Team_J_1st_Stage“恋爱禁止条例”公演 "wikilink")（Aturan
     Anti Cinta）：2012年12月26日 - 2013年12月28日（132公演）
 2.  [为了谁](https://zh.wikipedia.org/wiki/Team_A_3rd_Stage「为了谁」#JKT48_Team_J_2nd_Stage“为了谁”公演 "wikilink")（Demi
-    Seseorang）：2014年1月18日\[79\] - 2015年4月26日\[80\]（117公演）
+    Seseorang）：2014年1月18日\[80\] - 2015年4月26日\[81\]（117公演）
 3.  [剧场的女神](https://zh.wikipedia.org/wiki/Team_B_5th_Stage「剧场的女神」#JKT48_Team_J_3rd_Stage「剧场的女神」公演 "wikilink")（Dewi
-    Theater）：2015年5月17日\[81\] - 2016年11月27日
+    Theater）：2015年5月17日\[82\] - 2016年11月27日
 4.  B•E•L•I•E•V•E：2016年12月9日 - 2017年5月14日
 5.  [正在恋爱中](../Page/Team_A_4th_Stage“正在恋爱中”.md "wikilink")（Sekarang
     Sedang Jatuh Cinta）：2017年5月19日 -
@@ -3854,9 +3870,9 @@ Music Card</p></td>
 #### Team KIII
 
 1.  [我的太阳](https://zh.wikipedia.org/wiki/向日葵组_1st_Stage“我的太阳”#JKT48_Team_KIII_1st_Stage“我的太阳”公演 "wikilink")（Matahari
-    Milikku）：2013年6月28日 - 2014年2月22日\[82\]（107公演）
+    Milikku）：2013年6月28日 - 2014年2月22日\[83\]（107公演）
 2.  [青春女孩](https://zh.wikipedia.org/wiki/Team_K_2nd_Stage「青春女孩」#JKT48_Team_KIII_2nd_Stage「青春女孩」 "wikilink")（Gadis-Gadis
-    Remaja）：2014年3月8日\[83\] - 2015年3月14日\[84\]（113公演）
+    Remaja）：2014年3月8日\[84\] - 2015年3月14日\[85\]（113公演）
 3.  [最终钟声鸣响](https://zh.wikipedia.org/wiki/Team_K_4th_Stage「最终钟声鸣响」#JKT48_Team_KIII_3rd_Stage「最终钟声鸣响」公演 "wikilink")（Bel
     Terakhir Berbunyi）：2015年8月1日 - 2016年11月27日
 4.  B•E•L•I•E•V•E：2016年12月8日 - 2018年2月27日（130公演）
@@ -3870,7 +3886,7 @@ Music Card</p></td>
 <!-- end list -->
 
 1.  [恋愛禁止条例](https://zh.wikipedia.org/wiki/TeamA_5th_Stage「恋愛禁止条例」#JKT48_TeamKIII「恋愛禁止条例」公演 "wikilink")（Aturan
-    Anti Cinta）\[85\]：2013年12月26日 - 28日（3公演）
+    Anti Cinta）\[86\]：2013年12月26日 - 28日（3公演）
 2.  [睡衣兜风](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage「睡衣兜风」 "wikilink")（Pajama
     Drive）
       - 2014年9月2日、4日（2公演）
@@ -3879,9 +3895,9 @@ Music Card</p></td>
 #### Team T
 
 1.  [睡衣兜风](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage「睡衣兜风」#Team_T "wikilink")（Pajama
-    Drive）：2015年1月31日 - 2015年3月6日\[86\]（9公演）
+    Drive）：2015年1月31日 - 2015年3月6日\[87\]（9公演）
 2.  [手牵手](https://zh.wikipedia.org/wiki/Team_S_2nd_Stage「手牵手」#JKT48_Team_T_2nd_Stage「手牵手」 "wikilink")（Sambil
-    Menggenggam Erat Tanganku）：2015年3月15日\[87\] - 2016年11月26日
+    Menggenggam Erat Tanganku）：2015年3月15日\[88\] - 2016年11月26日
 3.  [恋愛禁止条例](https://zh.wikipedia.org/wiki/Team_A_5th_Stage「恋愛禁止条例」 "wikilink")（Aturan
     Anti Cinta）：2016年12月7日 - 2017年5月22日
 4.  [我的太阳](../Page/向日葵组_1st_Stage“我的太阳”.md "wikilink")（Matahari
@@ -3900,7 +3916,7 @@ Music Card</p></td>
 3.  [我的太阳](https://zh.wikipedia.org/wiki/向日葵组_1st_Stage“我的太阳”#JKT48_研究生公演“我的太阳” "wikilink")（Matahari
     Milikku）：2013年5月17日 - 6月25日（27公演）
 4.  [睡衣兜风](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage「睡衣兜风」#3期生 "wikilink")（Pajama
-    Drive、3期生）：2014年5月24日\[88\] - 2015年1月17日（延续为Team T继续表演）（88公演）
+    Drive、3期生）：2014年5月24日\[89\] - 2015年1月17日（延续为Team T继续表演）（88公演）
 5.  [睡衣兜风](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage「睡衣兜风」 "wikilink")（Pajama
     Drive、4期生+5期生）：2016年8月7日 - 10月19日
 
@@ -4217,11 +4233,11 @@ Music Card</p></td>
 75.
 
 76.
-77.
-78. 作为剧中人物[秋葉
-    原人所推成员以照片形式登场](../Page/圈套_\(電視劇\).md "wikilink")。剧中也使用了其他JKT48相关物品。
 
-79.
+77.
+78.
+79. 作为剧中人物[秋葉
+    原人所推成员以照片形式登场](../Page/圈套_\(電視劇\).md "wikilink")。剧中也使用了其他JKT48相关物品。
 
 80.
 
@@ -4240,3 +4256,5 @@ Music Card</p></td>
 87.
 
 88.
+
+89.

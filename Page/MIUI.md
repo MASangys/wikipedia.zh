@@ -71,7 +71,7 @@ Patchrom将该固件移植至其他手机品牌的智能手机上。
     F1](https://zh.wikipedia.org/wiki/小米Pocophone_F1 "wikilink")
   - [小米Play](https://zh.wikipedia.org/wiki/小米Play "wikilink")
 
-#### 红米
+#### 红米(Redmi)
 
   - [紅米手機](https://zh.wikipedia.org/wiki/紅米手機 "wikilink")
   - [紅米手機1S](../Page/紅米手機1S.md "wikilink")
@@ -105,16 +105,19 @@ Patchrom将该固件移植至其他手机品牌的智能手机上。
   - [紅米Note 6 Pro](../Page/紅米Note_6_Pro.md "wikilink")
   - [紅米Pro](../Page/紅米Pro.md "wikilink")
   - [紅米自拍手機S2](../Page/紅米自拍手機S2.md "wikilink")
-  - [紅米Note 7](../Page/紅米Note_7.md "wikilink")
-  - [紅米7](https://zh.wikipedia.org/wiki/紅米7 "wikilink")
+  - [Redmi Note
+    7](https://zh.wikipedia.org/wiki/Redmi_Note_7 "wikilink")
+  - [Redmi Note 7
+    Pro](https://zh.wikipedia.org/wiki/Redmi_Note_7_Pro "wikilink")
+  - [Redmi 7](../Page/Redmi_7.md "wikilink")
+  - [Redmi 7A](https://zh.wikipedia.org/wiki/Redmi_7A "wikilink")
+  - [Redmi K20
+    Pro](https://zh.wikipedia.org/wiki/Redmi_K20_Pro "wikilink")
+  - [Redmi K20](https://zh.wikipedia.org/wiki/Redmi_K20 "wikilink")
 
-<!-- end list -->
-
-  -
 #### POCOPHONE
 
-  - [POCOPHONE
-    F1](https://zh.wikipedia.org/wiki/POCOPHONE_F1 "wikilink")
+  - [POCOPHONE F1](../Page/POCOPHONE_F1.md "wikilink")
 
 ### 平板
 

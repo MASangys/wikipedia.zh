@@ -24,8 +24,7 @@ N777號文件](http://www.cse.cuhk.edu.hk/~irg/irg/N777_CJK_B_CoverNote.pdf)，�
     的第4至7和15平面所收錄的30,177個漢字；
   - 越南
     [TCVN](https://zh.wikipedia.org/wiki/TCVN "wikilink")、[VHN](https://zh.wikipedia.org/wiki/VHN "wikilink")
-    01:1998 和 VHN 02:1998
-    所收錄的4,232個[喃字](https://zh.wikipedia.org/wiki/喃字 "wikilink")；
+    01:1998 和 VHN 02:1998 所收錄的4,232個[喃字](../Page/喃字.md "wikilink")；
 
 這些漢字中重複的漢字有不少，所以經過整理之後，實際總數只有42,711個漢字。
 
@@ -72,7 +71,7 @@ N777號文件](http://www.cse.cuhk.edu.hk/~irg/irg/N777_CJK_B_CoverNote.pdf)，�
 
   - [中日韩统一表意文字](https://zh.wikipedia.org/wiki/中日韩统一表意文字 "wikilink")
 
-## 參考文獻
+## 參考資料
 
 ### 引-{}-用
 

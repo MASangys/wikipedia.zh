@@ -488,6 +488,8 @@ Café》主持，但只為替更性質。
 | 421 | 5月18日  | 謝東閔、安俊豪、李晧軒　大男孩的音樂夢        | [謝東閔](../Page/謝東閔_\(香港\).md "wikilink")、[安俊豪](../Page/安俊豪.md "wikilink")、[李晧軒](../Page/李晧軒.md "wikilink")                                                |
 | 422 | 5月25日  | 吳若希、朱紫嬈　出道十年新大計            | [吳若希](../Page/吳若希.md "wikilink")、[朱紫嬈](../Page/朱紫嬈.md "wikilink")                                                                                        |
 | 423 | 6月1日   | 鍾舒祺、黃浩邦　忠於自己的音樂            | [鍾舒祺](../Page/鍾舒祺.md "wikilink")、[黃浩邦](../Page/黃浩邦.md "wikilink")                                                                                        |
+| 424 | 6月8日   | 陳嘉茵、吳嘉熙　跳唱歌手苦與樂            | [陳嘉茵](https://zh.wikipedia.org/wiki/陳嘉茵 "wikilink")、[吳嘉熙](../Page/吳嘉熙.md "wikilink")                                                                     |
+| 425 | 6月15日  | 戴祖儀、林穎彤　新歌宣傳靠威嚇？           | [戴祖儀](../Page/戴祖儀.md "wikilink")、[林穎彤](../Page/林穎彤.md "wikilink")                                                                                        |
 
 ## 記事
 

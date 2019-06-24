@@ -276,9 +276,6 @@ Flower），想合謀把世界引向黑暗！如果虹色之花枯萎的話，�
   - [光之美少女 All Stars DX3
     傳達到未來！連結世界☆虹色之花](http://www.toei-anim.co.jp/movie/2011_precure_allstars/)
 
-[en:Pretty Cure All Stars
-DX](https://zh.wikipedia.org/wiki/en:Pretty_Cure_All_Stars_DX "wikilink")
-
 [Category:大塚隆史電影](https://zh.wikipedia.org/wiki/Category:大塚隆史電影 "wikilink")
 [Category:2011年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2011年日本劇場動畫 "wikilink")
 [Category:光之美少女](https://zh.wikipedia.org/wiki/Category:光之美少女 "wikilink")

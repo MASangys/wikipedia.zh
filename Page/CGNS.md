@@ -1,6 +1,8 @@
 **CGNS**是**CFD General
 Notation**的缩写，它是一个面向[CFD数据存储和检索](../Page/计算流体力学.md "wikilink")，通用、轻便并且可扩展的标准。它包含一系列的约定，和实现这些约定的[免费开放的软件](../Page/开源软件.md "wikilink")。它具有自描述性，[跨平台并且和机器无关](https://zh.wikipedia.org/wiki/跨平台 "wikilink")，由国际指导委员会编写文档并且管理。它也是由[AIAA所推荐的一个标准](https://zh.wikipedia.org/wiki/AIAA "wikilink")。1994年在美国[波音公司和](../Page/波音.md "wikilink")[NASA的共同努力下](https://zh.wikipedia.org/wiki/NASA "wikilink")，[CGNS项目](http://www.cgns.org)产生。到如今，世界范围内许多组织都对它的发展有做出了贡献。1999年，CGNS的控制权完全移交至一个公共的社团——[CGNS指导委员会](http://www.cgns.org/steering.html)。这个委员会由世界范围内的来自政府和私人企业的代表组成。
 
+## 介绍
+
 CGNS项目包含两个部分：（1）一个记录数据的标准格式，称为标准接口数据结构（Standard Interface Data
 Structure），简称SIDS；（2）用来读取、输出和修改这种格式的数据的软件。这种格式是由文档所建立的概念上的实体，软件则是提供给开发者们用来获取和产生用那种格式记录的数据的物理上的产品。
 

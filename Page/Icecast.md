@@ -1,5 +1,5 @@
 **icecast**是以[自由软件形式由](../Page/自由软件.md "wikilink")[Xiph.Org基金會发布的](../Page/Xiph.Org基金會.md "wikilink")[流媒体项目](../Page/流媒体.md "wikilink")。它也可以专门指代其[服务器程序](../Page/服务器.md "wikilink")。icecast是由杰克·莫菲特和Barath
-Raghavan于1998年12月至1999年1月，开发的一个音频流媒体服务器。该服务器开放源代码，任何人都可以修改，使用或者捣鼓。Alexander
+Raghavan于1998年12月至1999年1月，开发的一个音频流媒体服务器。该服务器开放源代码，任何人都可以修改，使用或者加工。Alexander
 Haväng也曾经是该产品的首席架构师。第2版于2001年开始重写，旨在支持多种流媒体格式（最初的目标只是对[Ogg](../Page/Ogg.md "wikilink")
 [Vorbis的支持](https://zh.wikipedia.org/wiki/Vorbis "wikilink")）和提高可扩展性。
 

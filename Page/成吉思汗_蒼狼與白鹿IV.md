@@ -12,7 +12,7 @@
 
 本作的特色之一，是「[寶物](../Page/寶物.md "wikilink")」系統的設定。寶物對文化（包括：[農耕](https://zh.wikipedia.org/wiki/農耕 "wikilink")、[畜牧](https://zh.wikipedia.org/wiki/畜牧 "wikilink")、[武器](../Page/武器.md "wikilink")、[戰術](https://zh.wikipedia.org/wiki/戰術 "wikilink")、[航海](https://zh.wikipedia.org/wiki/航海 "wikilink")、[建築](https://zh.wikipedia.org/wiki/建築 "wikilink")、[學術](https://zh.wikipedia.org/wiki/學術 "wikilink")、[藝術](https://zh.wikipedia.org/wiki/藝術 "wikilink")、[醫術及](https://zh.wikipedia.org/wiki/醫術 "wikilink")[工藝等](https://zh.wikipedia.org/wiki/工藝 "wikilink")10個範疇）有不同程度的加成影響，部分寶物亦會影響國王的子女出生率（朝鲜人参）、獲取特別兵種等。在遊戲開始時，部分城市已擁有若-{干}-寶物。玩家可以透過攻佔[城市](../Page/城市.md "wikilink")、[外交贈送等方法](../Page/外交.md "wikilink")，獲取別國的寶物。
 
-本作承接上代的生子系統，玩家可透過舉辦[宴會](https://zh.wikipedia.org/wiki/宴會 "wikilink")，邀請[王妃參與](../Page/王妃.md "wikilink")（邀請武將參加宴會，能提升其忠誠度），並有機會與王妃共渡良宵。及後，有一定機率產下[兒子](https://zh.wikipedia.org/wiki/兒子 "wikilink")（能成為[武將](https://zh.wikipedia.org/wiki/武將 "wikilink")）或女兒（能成為[公主](https://zh.wikipedia.org/wiki/公主 "wikilink")），玩家能夠將之改名，亦能將武將委托-{付}-與於王族進行[教育](../Page/教育.md "wikilink")。
+本作承接上代的生子系統，玩家可透過舉辦[宴會](https://zh.wikipedia.org/wiki/宴會 "wikilink")，邀請[王妃參與](../Page/王妃.md "wikilink")（邀請武將參加宴會，能提升其忠誠度），並有機會與王妃共渡良宵。及後，有一定機率產下[兒子](https://zh.wikipedia.org/wiki/兒子 "wikilink")（能成為[武將](https://zh.wikipedia.org/wiki/武將 "wikilink")）或女兒（能成為[公主](../Page/公主.md "wikilink")），玩家能夠將之改名，亦能將武將委托-{付}-與於王族進行[教育](../Page/教育.md "wikilink")。
 
 ## 各篇章
 

@@ -35,6 +35,7 @@ AMOLED具有自發光性、廣視角、高對比、反應速度快等优点。AM
   - AMOLED各色衰退速率不同，因此長期使用後會有[色偏](https://zh.wikipedia.org/wiki/色偏 "wikilink")。
   - 在過去，AMOLED由于制造工艺上的相对不成熟，导致其良品率与相对成熟的[IPS面板来讲依然偏低](https://zh.wikipedia.org/wiki/IPS面板 "wikilink")，成本較高。
   - 由於只有小尺寸可以量產及壽命短的特性，因此目前AMOLED只能在淘汰速度快又只使用小螢幕的[智能手機及](https://zh.wikipedia.org/wiki/智能手機 "wikilink")[智能手錶上廣泛使用](https://zh.wikipedia.org/wiki/智能手錶 "wikilink")。
+  - AMOLED面板非常脆弱，几乎一碰即碎，导致手机的耐用度降低。
 
 ## 爭議
 

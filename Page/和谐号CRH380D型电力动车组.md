@@ -66,8 +66,8 @@ of CRH380D.jpg|二等座内饰
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>20</p></td>
-<td><p>1511、1512、1515、1517、1545～1547、1549、1554、1556、1558、1560、1563、1568、1571、1572、1578、1581～1583</p></td>
+<td><p>23</p></td>
+<td><p>1511、1512、1515、1517、1525、1526、1545～1547、1549、1554、1556、1558、1560、1563、1568、1571、1572、1578、1581～1583、1585</p></td>
 <td><p>成都东</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/成渝客专" title="wikilink">成渝客专</a></p></td>
 <td></td>
@@ -75,13 +75,12 @@ of CRH380D.jpg|二等座内饰
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/上海局集团" title="wikilink">上海局集团</a></p></td>
-<td><p>44</p></td>
+<td><p>41</p></td>
 <td><p>1501～1510、<br />
-1513、1514、1516、1518～1536、1561、1562、1565、1566、1569、1570、1573～1577、1585</p></td>
+1513、1514、1516、1518～1524、1527～1536、1561、1562、1565、1566、1569、1570、1573～1577</p></td>
 <td><p>上海南翔</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/宁杭高铁" title="wikilink">宁杭高铁</a>、<a href="https://zh.wikipedia.org/wiki/沪宁高铁" title="wikilink">沪宁高铁</a>、<a href="https://zh.wikipedia.org/wiki/杭福深客运专线" title="wikilink">杭福深铁路</a>、<a href="https://zh.wikipedia.org/wiki/沪昆高铁" title="wikilink">沪昆高铁</a></p></td>
 <td><p>1513以后为统型车。<br />
-部分统型车即将转配<a href="https://zh.wikipedia.org/wiki/成都局集团" title="wikilink">成都局集团</a>。<br />
 1502前為<a href="https://zh.wikipedia.org/wiki/廣州局集團" title="wikilink">廣州局集團</a>，用作實地試驗。</p></td>
 </tr>
 <tr class="odd">

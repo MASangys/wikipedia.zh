@@ -700,7 +700,7 @@
 </tr>
 <tr class="even">
 <td><p>AKB48集團 重溫時間 最佳曲目100 2017</p></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Max朱鷺315號" title="wikilink">Max朱鷺315號</a></p></td>
 <td><p>去47個美麗城市</p></td>
 <td><p>紅色高跟鞋與教授</p></td>
 <td></td>

@@ -1,4 +1,4 @@
-**KKBOX風雲榜**（）是亞洲數位音樂品牌[KKBOX依據其會員於站內點播歌曲紀錄](../Page/KKBOX.md "wikilink")，進行統計而成的年度綜合排行榜。開辦於2006年，原名「KKBOX數位音樂風雲榜」，於第九屆時更名為「KKBOX風雲榜」\[1\]。歷屆頒獎典禮約於農曆新年前舉辦，第12屆風雲榜開始訂為每年一月的第三週周末舉辦\[2\]。頒獎典禮近幾年均由[黃子佼主持](../Page/黃子佼.md "wikilink")。2018年第13屆KKBOX風雲榜首度南下大規模移師到高雄舉辦，並舉辦戶外的嘻哈電音派對「風雲榜前夜祭」及「未來風雲之星成果發表會」。
+**KKBOX風雲榜**（）是亞洲數位音樂品牌[KKBOX依據其會員於站內點播歌曲紀錄](../Page/KKBOX.md "wikilink")，進行統計而成的年度綜合排行榜。開辦於2006年，原名「KKBOX數位音樂風雲榜」，於第九屆時更名為「KKBOX風雲榜」\[1\]。歷屆頒獎典禮約於農曆新年前舉辦，第12屆風雲榜開始訂為每年一月的第三週周末舉辦\[2\]。頒獎典禮近幾年均由[黃子佼主持](../Page/黃子佼.md "wikilink")。2018年第13屆KKBOX風雲榜首度南下大規模移師到高雄舉辦，並舉辦戶外的嘻哈電音派對「風雲榜前夜祭」及「未來風雲之星成果發表會」，2019年適逢KKBOX香港邁入10週年，2019年3月12號首度於香港舉辦「KKBOX香港風雲榜」。
 
 [KKBOX_風雲榜歷屆主持人－黃子佼.jpg](https://zh.wikipedia.org/wiki/File:KKBOX_風雲榜歷屆主持人－黃子佼.jpg "fig:KKBOX_風雲榜歷屆主持人－黃子佼.jpg")
 [第十三屆_KKBOX_風雲榜－高雄巨蛋.jpg](https://zh.wikipedia.org/wiki/File:第十三屆_KKBOX_風雲榜－高雄巨蛋.jpg "fig:第十三屆_KKBOX_風雲榜－高雄巨蛋.jpg")
@@ -162,8 +162,7 @@
       - 年度最佳電影原聲帶單曲：[魏如昀](../Page/魏如昀.md "wikilink")《聽見下雨的聲音》
       - 年度粵語歌手：[陳奕迅](../Page/陳奕迅.md "wikilink")
       - 年度西洋歌手：[艾薇兒](https://zh.wikipedia.org/wiki/艾薇兒 "wikilink")
-      - 年度日語歌手：[ONE OK
-        ROCK](https://zh.wikipedia.org/wiki/ONE_OK_ROCK "wikilink")
+      - 年度日語歌手：[ONE OK ROCK](../Page/ONE_OK_ROCK.md "wikilink")
       - 年度韓語歌手：[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")
 
 ### 第十屆 2015
@@ -179,8 +178,7 @@
       - 年度粵語歌手：[鄧紫棋](https://zh.wikipedia.org/wiki/鄧紫棋 "wikilink")
       - 年度西洋歌手：[Maroon
         5](https://zh.wikipedia.org/wiki/Maroon_5 "wikilink")
-      - 年度日語歌手：[ONE OK
-        ROCK](https://zh.wikipedia.org/wiki/ONE_OK_ROCK "wikilink")
+      - 年度日語歌手：[ONE OK ROCK](../Page/ONE_OK_ROCK.md "wikilink")
       - 年度韓語歌手：[Super Junior](../Page/Super_Junior.md "wikilink")
 
 ### 第十一屆 2016
@@ -195,8 +193,7 @@
       - 年度台語歌手：[江蕙](../Page/江蕙.md "wikilink")
       - 年度粵語歌手：[陳奕迅](../Page/陳奕迅.md "wikilink")
       - 年度西洋歌手：[威茲·哈利法](https://zh.wikipedia.org/wiki/威茲·哈利法 "wikilink")
-      - 年度日語歌手：[ONE OK
-        ROCK](https://zh.wikipedia.org/wiki/ONE_OK_ROCK "wikilink")
+      - 年度日語歌手：[ONE OK ROCK](../Page/ONE_OK_ROCK.md "wikilink")
       - 年度韓語歌手：[BIGBANG](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")
 
 ### 第十二屆 2017
@@ -242,30 +239,49 @@
       - 年度創作精神獎：[熊仔](../Page/熊仔.md "wikilink")
       - 年度最佳新人：[茄子蛋](../Page/茄子蛋.md "wikilink")
       - ETtoday星光雲KKBOX唱作歌手獎：[蕭秉治](../Page/蕭秉治.md "wikilink")
-      - 年度最佳華語單曲：
-      - 年度最佳西洋單曲：
-      - 年度最佳韓語單曲：
-      - 年度最佳日語單曲：
+      - 華語年度單曲累積榜 TOP1：[-{于}-文文](../Page/于文文.md "wikilink")《體面》
+      - 西洋年度單曲累積榜 TOP1：[Camila
+        Cabello](https://zh.wikipedia.org/wiki/Camila_Cabello "wikilink"),[Young
+        Thug](https://zh.wikipedia.org/wiki/Young_Thug "wikilink")《Havana》
+      - 韓語年度單曲累積榜 TOP1：[Super
+        Junior](../Page/Super_Junior.md "wikilink"),[Leslie
+        Grace](https://zh.wikipedia.org/wiki/Leslie_Grace "wikilink")《Lo
+        Siento》
+      - 日語年度單曲累積榜 TOP1：[米津玄師](../Page/米津玄師.md "wikilink") 《Lemon》
+
+### 香港第一屆 2019
+
+  - 風雲大使
+      - [蔡健雅](https://zh.wikipedia.org/wiki/蔡健雅 "wikilink")、[盧廣仲](../Page/盧廣仲.md "wikilink")、[Supper
+        Moment](https://zh.wikipedia.org/wiki/Supper_Moment "wikilink")、[謝安琪](../Page/謝安琪.md "wikilink")
+  - 年度風雲歌手
+      - [江海迦](../Page/江海迦.md "wikilink")、[C
+        AllStar](../Page/C_AllStar.md "wikilink")、[陳奕迅](../Page/陳奕迅.md "wikilink")、[李幸倪](../Page/李幸倪.md "wikilink")、[HANA菊梓喬](https://zh.wikipedia.org/wiki/HANA菊梓喬 "wikilink")、[張敬軒](https://zh.wikipedia.org/wiki/張敬軒 "wikilink")、[胡鴻鈞](https://zh.wikipedia.org/wiki/胡鴻鈞 "wikilink")、[陳柏宇](../Page/陳柏宇.md "wikilink")、[容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")、[楊千嬅](../Page/楊千嬅.md "wikilink")
+  - 年度風雲獎項
+      - 年度編輯推薦歌手：[鄧小巧](https://zh.wikipedia.org/wiki/鄧小巧 "wikilink")
+      - 年度最佳新人：[曾樂彤](../Page/曾樂彤.md "wikilink")
+      - 表演嘉賓：[SHAUN](https://zh.wikipedia.org/wiki/SHAUN "wikilink")
 
 ## 歷屆風雲榜舉辦概況
 
-| 屆數 | 日期         | 主持人                                                   | 表演歌手                                                                                        | 主題音樂                                                | 舉辦地點                                                    |
-| -- | ---------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------- |
-| 1  | 2006/02/17 | [蔡康永](../Page/蔡康永.md "wikilink")                      | 王力宏、蔡依林、楊丞琳、 F.I.R.、王心凌、梁靜茹、Machi、李玖哲、羅志祥、柯有綸、吳克群、張棟樑、李聖傑、黃義達、信樂團、南拳媽媽                      | N/A                                                 | MOS                                                     |
-| 2  | 2007/2/2   | [陶晶瑩](https://zh.wikipedia.org/wiki/陶晶瑩 "wikilink")   | Machi、蘇打綠、陳珊妮、林冠吟、王心凌、SHE、卓文萱、曹格、黃立行、蔡旻佑、南拳媽媽、楊丞琳、范瑋琪、羅志祥、蔡依林、胡德夫、張韶涵、張懸、Tank               | N/A                                                 | MOS                                                     |
-| 3  | 2008       | 僅於網站公布獎項                                              |                                                                                             |                                                     |                                                         |
-| 4  | 2009       | 僅於網站公布獎項                                              |                                                                                             |                                                     |                                                         |
-| 5  | 2010/1/24  | [黃子佼](../Page/黃子佼.md "wikilink")                      | 五月天、梁靜茹、蔡依林、蕭敬騰、黃小琥、庾澄慶、方大同、丁噹、郭靜、張芸京、蛋堡、F.I.R飛兒樂團、林健輝                                      | MGMT- Kids                                          | TVBS攝影棚                                                 |
-| 6  | 2011/1/16  | 黃子佼、[楊千霈](../Page/楊千霈.md "wikilink")                  | 郭靜、丁噹、劉若英、羅志祥、陳奕迅、吳克群、蕭亞軒、嚴爵、黃大瑋、A-Lin、五月天                                                  | Robert W Fredere - Drivin' Fast and Eatin' Barbeque | 新莊體育館                                                   |
-| 7  | 2012/1/15  | DJ Dennis 丹尼斯                                         | 張惠妹、羅志祥、田馥甄、蕭敬騰、蕭亞軒、五月天、任賢齊、嚴爵、 A-Lin、丁噹、鄧福如、胡夏、林凡、郁可唯、Tizzy Bac                            | David Guetta feat. Usher- Without You               | 臺大體育館                                                   |
-| 8  | 2013/1/19  | 黃子佼                                                   | 五月天、韋禮安、陳奕迅、MP魔幻力量、叮噹、蔡依林、林俊傑、Che'Nelle香奈兒、蕭敬騰、蕭煌奇、林宥嘉、嚴爵、舒米恩、Kimberley、方炯鑌、A-Lin、白安、家家、李佳薇 | Calvin Harris- Feel So Close                        | [臺北小巨蛋](https://zh.wikipedia.org/wiki/臺北小巨蛋 "wikilink") |
-| 9  | 2014/1/22  | 黃子佼                                                   | 林俊傑、蘇打綠、朱俐靜、畢書盡、陳勢安、魏如昀、徐佳瑩、嚴爵、王大文、王詩安、丁噹、家家、楊乃文、董事長樂團、A-Lin、小宇、蕭敬騰、Perfume                 | Capital Cities- Safe And Sound                      | 臺北小巨蛋                                                   |
-| 10 | 2015/2/8   | 黃子佼                                                   | 張學友、A-Lin、丁噹、蔡依林、梁文音、莫文蔚、MP魔幻力量、白安、李佳薇、李榮浩、周興哲、陳彥允、畢書盡、陳勢安、李玉璽、滅火器、林俊傑、May J、VIXX           | Calvin Harris-Outside                               | 臺北小巨蛋                                                   |
-| 11 | 2016/1/24  | 黃子佼                                                   | Apink、TOR+、SpeXial、世界末日、丁噹、楊丞琳、畢書盡、林俊傑、韋禮安、蕭敬騰、曾沛慈、A-Lin、吳汶芳                                | Axwell /\\ Ingrosso- Something New                  | 臺北小巨蛋                                                   |
-| 12 | 2017/1/21  | 黃子佼、[任家萱](../Page/任家萱.md "wikilink")                  | 田馥甄、五月天、林俊傑、容祖兒、陳勢安、李佳薇、兄弟本色、玖壹壹、韋禮安、周興哲、鄧紫棋、草東沒有派對、Under Lover、郭靜、八三夭、信、孫盛希、Erika、吳克群、鼓鼓   | Cash Cash feat. Bebe Rexha- Take Me Home            | 臺北小巨蛋                                                   |
-| 13 | 2018/1/20  | 黃子佼                                                   | 張惠妹、葛仲珊、小宇、謝霆鋒、安那、J.Sheon、楊丞琳、鄧紫棋、黃明志、謝和弦、畢書盡、林俊傑、盧廣仲、周湯豪、陳奕迅                               | 深白色二人組, 陳傑瑞（Jeric T）－ ALL ABOUT YOU                 | [高雄巨蛋](https://zh.wikipedia.org/wiki/高雄巨蛋 "wikilink")   |
-| 14 | 2019/1/26  | [Lulu](https://zh.wikipedia.org/wiki/Lulu "wikilink") | 蕭敬騰、莫文蔚、吳卓源、周興哲、SUPER JUNIOR、茄子蛋、乃木坂46、熊仔、-{于}-文文、畢書盡、黃子佼、謝和弦、八三夭、Alan Walker、蔡依林           | Kygo & Imagine Dragons- Born To Be Yours            | [臺北小巨蛋](https://zh.wikipedia.org/wiki/臺北小巨蛋 "wikilink") |
-|    |            |                                                       |                                                                                             |                                                     |                                                         |
+| 屆數 | 日期         | 主持人                                                                                  | 表演歌手                                                                                        | 主題音樂                                                | 舉辦地點                                                    |
+| -- | ---------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------- |
+| 1  | 2006/02/17 | [蔡康永](../Page/蔡康永.md "wikilink")                                                     | 王力宏、蔡依林、楊丞琳、 F.I.R.、王心凌、梁靜茹、Machi、李玖哲、羅志祥、柯有綸、吳克群、張棟樑、李聖傑、黃義達、信樂團、南拳媽媽                      | N/A                                                 | MOS                                                     |
+| 2  | 2007/2/2   | [陶晶瑩](https://zh.wikipedia.org/wiki/陶晶瑩 "wikilink")                                  | Machi、蘇打綠、陳珊妮、林冠吟、王心凌、SHE、卓文萱、曹格、黃立行、蔡旻佑、南拳媽媽、楊丞琳、范瑋琪、羅志祥、蔡依林、胡德夫、張韶涵、張懸、Tank               | N/A                                                 | MOS                                                     |
+| 3  | 2008       | 僅於網站公布獎項                                                                             |                                                                                             |                                                     |                                                         |
+| 4  | 2009       | 僅於網站公布獎項                                                                             |                                                                                             |                                                     |                                                         |
+| 5  | 2010/1/24  | [黃子佼](../Page/黃子佼.md "wikilink")                                                     | 五月天、梁靜茹、蔡依林、蕭敬騰、黃小琥、庾澄慶、方大同、丁噹、郭靜、張芸京、蛋堡、F.I.R飛兒樂團、林健輝                                      | MGMT- Kids                                          | TVBS攝影棚                                                 |
+| 6  | 2011/1/16  | 黃子佼、[楊千霈](../Page/楊千霈.md "wikilink")                                                 | 郭靜、丁噹、劉若英、羅志祥、陳奕迅、吳克群、蕭亞軒、嚴爵、黃大瑋、A-Lin、五月天                                                  | Robert W Fredere - Drivin' Fast and Eatin' Barbeque | 新莊體育館                                                   |
+| 7  | 2012/1/15  | DJ Dennis 丹尼斯                                                                        | 張惠妹、羅志祥、田馥甄、蕭敬騰、蕭亞軒、五月天、任賢齊、嚴爵、 A-Lin、丁噹、鄧福如、胡夏、林凡、郁可唯、Tizzy Bac                            | David Guetta feat. Usher- Without You               | 臺大體育館                                                   |
+| 8  | 2013/1/19  | 黃子佼                                                                                  | 五月天、韋禮安、陳奕迅、MP魔幻力量、叮噹、蔡依林、林俊傑、Che'Nelle香奈兒、蕭敬騰、蕭煌奇、林宥嘉、嚴爵、舒米恩、Kimberley、方炯鑌、A-Lin、白安、家家、李佳薇 | Calvin Harris- Feel So Close                        | [臺北小巨蛋](https://zh.wikipedia.org/wiki/臺北小巨蛋 "wikilink") |
+| 9  | 2014/1/22  | 黃子佼                                                                                  | 林俊傑、蘇打綠、朱俐靜、畢書盡、陳勢安、魏如昀、徐佳瑩、嚴爵、王大文、王詩安、丁噹、家家、楊乃文、董事長樂團、A-Lin、小宇、蕭敬騰、Perfume                 | Capital Cities- Safe And Sound                      | 臺北小巨蛋                                                   |
+| 10 | 2015/2/8   | 黃子佼                                                                                  | 張學友、A-Lin、丁噹、蔡依林、梁文音、莫文蔚、MP魔幻力量、白安、李佳薇、李榮浩、周興哲、陳彥允、畢書盡、陳勢安、李玉璽、滅火器、林俊傑、May J、VIXX           | Calvin Harris-Outside                               | 臺北小巨蛋                                                   |
+| 11 | 2016/1/24  | 黃子佼                                                                                  | Apink、TOR+、SpeXial、世界末日、丁噹、楊丞琳、畢書盡、林俊傑、韋禮安、蕭敬騰、曾沛慈、A-Lin、吳汶芳                                | Axwell /\\ Ingrosso- Something New                  | 臺北小巨蛋                                                   |
+| 12 | 2017/1/21  | 黃子佼、[任家萱](../Page/任家萱.md "wikilink")                                                 | 田馥甄、五月天、林俊傑、容祖兒、陳勢安、李佳薇、兄弟本色、玖壹壹、韋禮安、周興哲、鄧紫棋、草東沒有派對、Under Lover、郭靜、八三夭、信、孫盛希、Erika、吳克群、鼓鼓   | Cash Cash feat. Bebe Rexha- Take Me Home            | 臺北小巨蛋                                                   |
+| 13 | 2018/1/20  | 黃子佼                                                                                  | 張惠妹、葛仲珊、小宇、謝霆鋒、安那、J.Sheon、楊丞琳、鄧紫棋、黃明志、謝和弦、畢書盡、林俊傑、盧廣仲、周湯豪、陳奕迅                               | 深白色二人組, 陳傑瑞（Jeric T）－ ALL ABOUT YOU                 | [高雄巨蛋](https://zh.wikipedia.org/wiki/高雄巨蛋 "wikilink")   |
+| 14 | 2019/1/26  | [Lulu](https://zh.wikipedia.org/wiki/Lulu "wikilink")                                | 蕭敬騰、莫文蔚、吳卓源、周興哲、SUPER JUNIOR、茄子蛋、乃木坂46、熊仔、-{于}-文文、畢書盡、黃子佼、謝和弦、八三夭、Alan Walker、蔡依林           | Kygo & Imagine Dragons- Born To Be Yours            | [臺北小巨蛋](https://zh.wikipedia.org/wiki/臺北小巨蛋 "wikilink") |
+| 香港 | 2019/3/12  | [繆浩昌](../Page/繆浩昌.md "wikilink")、[林二汶](https://zh.wikipedia.org/wiki/林二汶 "wikilink") | 蔡健雅、盧廣仲、Supper Moment、謝安琪、SHAUN、曾樂彤、 鄧小巧、張敬軒、C AllStar、菊梓喬、AGA江海迦、胡鴻鈞、李幸倪、陳柏宇、容祖兒           | Kygo & Imagine Dragons- Born To Be Yours            | 香港灣仔會議展覽中心                                              |
+|    |            |                                                                                      |                                                                                             |                                                     |                                                         |
 
 ## 風雲榜系列活動
 

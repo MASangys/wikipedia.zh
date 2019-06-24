@@ -100,7 +100,7 @@ RCR Wireless News命名Sequans为最佳移动芯片公司，并授予生态系�
   - <http://www.sequans.com>
 
 [Category:2003年成立的公司](https://zh.wikipedia.org/wiki/Category:2003年成立的公司 "wikilink")
-[Category:科技公司](https://zh.wikipedia.org/wiki/Category:科技公司 "wikilink")
+[Category:法国科技公司](https://zh.wikipedia.org/wiki/Category:法国科技公司 "wikilink")
 [Category:巴黎公司](https://zh.wikipedia.org/wiki/Category:巴黎公司 "wikilink")
 
 1.

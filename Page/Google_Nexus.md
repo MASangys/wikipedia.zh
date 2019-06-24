@@ -205,7 +205,7 @@ Marshmallow](../Page/Android_Marshmallow.md "wikilink")，支援升級至[Androi
 <td><p>預裝<a href="../Page/操作系统.md" title="wikilink">操作系统</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Android_Eclair" title="wikilink">2.1 Eclair</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Android_Gingerbread" title="wikilink">2.3 Gingerbread</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Android_Ice_Cream_Sandwich" title="wikilink">4.0 Ice Cream Sandwich</a></p></td>
+<td><p><a href="../Page/Android_Ice_Cream_Sandwich.md" title="wikilink">4.0 Ice Cream Sandwich</a></p></td>
 <td><p><a href="../Page/Android_Jelly_Bean.md" title="wikilink">4.2 Jelly Bean</a></p></td>
 <td><p><a href="../Page/Android_KitKat.md" title="wikilink">4.4 KitKat</a></p></td>
 <td><p><a href="../Page/Android_Lollipop.md" title="wikilink">5.0 Lollipop</a></p></td>

@@ -97,17 +97,33 @@ Unknown"）的歌词中找到。\[10\]
 
 ### 专辑
 
-| 名称                                                                                  | 录制时间             | 发行时间          |
-| ----------------------------------------------------------------------------------- | ---------------- | ------------- |
-| *[Burzum](https://zh.wikipedia.org/wiki/Burzum_\(album\) "wikilink")*               | 1992年1月          | 1992年3月       |
-| *[Aske](https://zh.wikipedia.org/wiki/Aske_\(album\) "wikilink")*                   | 1992年12月         | 1993年3月       |
-| *[Det som engang var](https://zh.wikipedia.org/wiki/Det_som_engang_var "wikilink")* | 1992年4月          | 1993年8月       |
-| *[Hvis lyset tar oss](https://zh.wikipedia.org/wiki/Hvis_lyset_tar_oss "wikilink")* | 1992年9月          | 1994年5月       |
-| *[Filosofem](https://zh.wikipedia.org/wiki/Filosofem "wikilink")*                   | 1993年3月          | 1996年1月       |
-| *[Dauði Baldrs](https://zh.wikipedia.org/wiki/Dauði_Baldrs "wikilink")*             | 1994–1995年 (在狱中) | 1997年10月      |
-| *[Hliðskjálf](https://zh.wikipedia.org/wiki/Hliðskjálf_\(album\) "wikilink")*       | 1998年 (在狱中)      | 1999年4月       |
-| *[Belus](https://zh.wikipedia.org/wiki/Belus_\(album\) "wikilink")*                 | 2009–2010年       | 2010年3月\[11\] |
-| *[Fallen](https://zh.wikipedia.org/wiki/Fallen_\(Burzum_album\) "wikilink")*        | 2010年11月         | 2011年3月\[12\] |
+| 名称                                                                                                    | 录制时间             | 发行时间          |
+| ----------------------------------------------------------------------------------------------------- | ---------------- | ------------- |
+| *[Burzum](https://zh.wikipedia.org/wiki/Burzum_\(album\) "wikilink")*                                 | 1992年1月          | 1992年3月       |
+| *[Aske](https://zh.wikipedia.org/wiki/Aske_\(album\) "wikilink")*                                     | 1992年12月         | 1993年3月       |
+| *[Det som engang var](https://zh.wikipedia.org/wiki/Det_som_engang_var "wikilink")*                   | 1992年4月          | 1993年8月       |
+| *[Hvis lyset tar oss](https://zh.wikipedia.org/wiki/Hvis_lyset_tar_oss "wikilink")*                   | 1992年9月          | 1994年5月       |
+| *[Filosofem](https://zh.wikipedia.org/wiki/Filosofem "wikilink")*                                     | 1993年3月          | 1996年1月       |
+| *[Dauði Baldrs](https://zh.wikipedia.org/wiki/Dauði_Baldrs "wikilink")*                               | 1994–1995年 (在狱中) | 1997年10月      |
+| *[Hliðskjálf](https://zh.wikipedia.org/wiki/Hliðskjálf_\(album\) "wikilink")*                         | 1998年 (在狱中)      | 1999年4月       |
+| *[Belus](https://zh.wikipedia.org/wiki/Belus_\(album\) "wikilink")*                                   | 2009–2010年       | 2010年3月\[11\] |
+| *[Fallen](https://zh.wikipedia.org/wiki/Fallen_\(Burzum_album\) "wikilink")*                          | 2010年11月         | 2011年3月\[12\] |
+| *[From the Depths of Darkness](https://zh.wikipedia.org/wiki/From_the_Depths_of_Darkness "wikilink")* | 2010年3月          | 2011年11月      |
+| *[Umskiptar](https://zh.wikipedia.org/wiki/Umskiptar "wikilink")*                                     | 2011年9月          | 2012年5月       |
+| *[Sôl austan, Mâni vestan](https://zh.wikipedia.org/wiki/Sôl_austan,_Mâni_vestan "wikilink")*         | 2012             | 2013年5月\[13\] |
+| *[The Ways of Yore](https://zh.wikipedia.org/wiki/The_Ways_of_Yore "wikilink")*                       | 2013–2014        | 2014六月        |
+|                                                                                                       |                  |               |
+
+### EPs
+
+  - *[Aske](https://zh.wikipedia.org/wiki/Aske_\(EP\) "wikilink")*
+    (1993)
+
+### 单曲
+
+  - *Mythic Dawn* (2015)
+  - *Forgotten Realms* (2015)
+  - *Thulean Mysteries* (2015)
 
 ### 样片
 
@@ -218,3 +234,5 @@ Unknown"）的歌词中找到。\[10\]
     "Belus" 2010](http://www.burzum.org/eng/discography/official/2010_belus.shtml)
 
 12. <http://www.metalunderground.com/news/details.cfm?newsid=64077>
+
+13.

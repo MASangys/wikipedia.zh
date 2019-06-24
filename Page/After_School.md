@@ -4,7 +4,7 @@
 }}
 
 **After
-School**（；，在日本以**AFTERSCHOOL**名義活動），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Pledis娛樂公司旗下的女子流行音樂團體](../Page/Pledis娛樂.md "wikilink")，她們亦是唯一具有畢業及入學制度的韓國團體，每次發表新作時都隨之有成員的變化。出道時成員包含[嘉熙](https://zh.wikipedia.org/wiki/朴嘉熙 "wikilink")、[正雅](https://zh.wikipedia.org/wiki/正雅 "wikilink")、[珠妍](https://zh.wikipedia.org/wiki/珠妍 "wikilink")、[小英](../Page/劉小英.md "wikilink")、，而目前成員為[Raina](../Page/Raina.md "wikilink")、[Nana](https://zh.wikipedia.org/wiki/林珍兒 "wikilink")、[E-Young和](https://zh.wikipedia.org/wiki/E-Young "wikilink")[佳恩](../Page/佳恩_\(1994年出生\).md "wikilink")。
+School**（；，在日本以**AFTERSCHOOL**名義活動），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Pledis娛樂公司旗下的女子流行音樂團體](../Page/Pledis娛樂.md "wikilink")，她們亦是唯一具有畢業及入學制度的韓國團體，每次發表新作時都隨之有成員的變化。出道時成員包含[嘉熙](https://zh.wikipedia.org/wiki/朴嘉熙 "wikilink")、[正雅](https://zh.wikipedia.org/wiki/正雅 "wikilink")、[珠妍](https://zh.wikipedia.org/wiki/珠妍 "wikilink")、[小英](../Page/劉小英.md "wikilink")、，而目现成員為[Raina](../Page/Raina.md "wikilink")、[Nana](https://zh.wikipedia.org/wiki/林珍兒 "wikilink")、[E-Young和](https://zh.wikipedia.org/wiki/E-Young "wikilink")[佳恩](../Page/佳恩_\(1994年出生\).md "wikilink")。
 
 After
 School最早在2008年與同門藝人[孫淡妃一同亮相過](../Page/孫淡妃.md "wikilink")。2009年1月17日，以首張單曲《New

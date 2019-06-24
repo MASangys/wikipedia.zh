@@ -1,5 +1,5 @@
 **MBK娛樂**（；），前身是金光洙代表的**Core Contents
-Media**。旗下藝人包括[Shannon](../Page/Shannon_\(韓國歌手\).md "wikilink")、[DIA](https://zh.wikipedia.org/wiki/DIA "wikilink")，於2014年10月在
+Media**。旗下藝人包括[DIA](https://zh.wikipedia.org/wiki/DIA "wikilink")，於2014年10月在
 MBK 成立的契機統合成了一個大家庭。現任代表為工人仲介公司出身的高健錫。MBK為「**M**usic **B**eyond
 **K**orea」的縮寫有超越韓國音樂的意思，表示公司未來將不僅是著力於韓國市場，而是朝全球化邁進。
 
@@ -42,7 +42,7 @@ MBK 成立的契機統合成了一個大家庭。現任代表為工人仲介公�
 
 ### 2014
 
-  - 2014年5月20日，[T-ara成員](https://zh.wikipedia.org/wiki/T-ara "wikilink")[芝妍以Solo身分出道](https://zh.wikipedia.org/wiki/朴芝妍 "wikilink")。
+  - 2014年5月20日，[T-ara成員](https://zh.wikipedia.org/wiki/T-ara "wikilink")[芝妍以Solo身分出道](../Page/朴芝妍.md "wikilink")。
   - 2014年6月30日，T-ara成員[孝敏以Solo身分出道](https://zh.wikipedia.org/wiki/朴宣映 "wikilink")。
   - 2014年9月，被MBK Ent.收購合併。
   - 2014年10月1日，Core Contents Media正式改名為MBK Entertainment。\[1\]
@@ -61,14 +61,14 @@ MBK 成立的契機統合成了一個大家庭。現任代表為工人仲介公�
   - 2015年4月，MBK娛樂與化妝品牌[Syndrome
     Cosmetic](http://kpopn.com/2015/04/21/271485/)合作，推出化妝產品、跨足美容界，首次推出的產品是
     CB 霜，預計將會在本月中透過網路發售，並把產品推向中華地區。
-  - 2015年4月16日，所屬社MBK娛樂相關人員表示，[玟京將在今年秋天與圈外男友結婚](https://zh.wikipedia.org/wiki/玟京 "wikilink")，婚後不會退出組合。
+  - 2015年4月16日，所屬社MBK娛樂相關人員表示，[玟京將在今年秋天與圈外男友結婚](https://zh.wikipedia.org/wiki/宋玟京 "wikilink")，婚後不會退出組合。
   - 2015年5月7日，T-ara成員[𤨒晶以藝名](../Page/咸𤨒晶.md "wikilink")「Elsie」Solo身份出道。
   - 2015年6月12日，宣佈與《Super Star K6》出身的高那瑛簽約。
   - 2015年6月29日，宣佈與資深演員[文熙景簽約](../Page/文熙景.md "wikilink")。
   - 2015年7月6日，[High Brow出道](../Page/High_Brow.md "wikilink")。
   - 2015年9月14日，[DIA正式出道](https://zh.wikipedia.org/wiki/DIA "wikilink")。
   - 2015年12月17日，前[T-ara
-    N4成員](../Page/T-ara_N4.md "wikilink")[Dani](../Page/金岱妮.md "wikilink")、[DIA成員Cathy](https://zh.wikipedia.org/wiki/DIA "wikilink")（以本名[喜賢](https://zh.wikipedia.org/wiki/喜賢 "wikilink")）和[彩娟參與](../Page/彩娟.md "wikilink")[Mnet製作的企劃女團節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[PRODUCE
+    N4成員](../Page/T-ara_N4.md "wikilink")[Dani](../Page/金岱妮.md "wikilink")、[DIA成員Cathy](https://zh.wikipedia.org/wiki/DIA "wikilink")（以本名[熙賢](../Page/奇熙賢.md "wikilink")）和[彩娟參與](../Page/彩娟.md "wikilink")[Mnet製作的企劃女團節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[PRODUCE
     101](../Page/PRODUCE_101.md "wikilink")》，DIA改為五人體制進行活動。
 
 ### 2016
@@ -86,62 +86,92 @@ MBK 成立的契機統合成了一個大家庭。現任代表為工人仲介公�
 
   - 2017年4月5日，MBK娛樂宣布[DIA加入兩名新成員主恩](https://zh.wikipedia.org/wiki/DIA "wikilink")、順伊。
   - 2017年5月15日，T-ara成員[寶藍](https://zh.wikipedia.org/wiki/寶藍 "wikilink")、[昭妍合約到期](https://zh.wikipedia.org/wiki/昭妍 "wikilink")，離開公司。
-  - 2017年下半年，MBK娛樂宣布[IM66正式出道](../Page/IM66.md "wikilink")。
+  - 2017年9月1日，MBK娛樂宣布[IM66子團IM正式出道](../Page/IM66.md "wikilink")，並將參與[The
+    Unit](../Page/The_Unit.md "wikilink")。
   - 2017年10月28日，與[KBS合作製作](../Page/韓國放送公社.md "wikilink")[The
-    Unit](../Page/The_Unit.md "wikilink")，及負責管理出道組的演藝活動。\[3\]
+    Unit](../Page/The_Unit.md "wikilink")，及負責管理出道組[UNB](../Page/UNB.md "wikilink")、[UNI.T的演藝活動](../Page/UNI.T.md "wikilink")。\[3\]
   - 2017年12月31日，T-ara成員[居麗](https://zh.wikipedia.org/wiki/居麗 "wikilink")、[𤨒晶](https://zh.wikipedia.org/wiki/𤨒晶 "wikilink")、[孝敏](https://zh.wikipedia.org/wiki/孝敏 "wikilink")、[芝妍合約到期](https://zh.wikipedia.org/wiki/芝妍 "wikilink")，離開公司。
 
 ### 2018
 
-  - 2018年5月7日，[DIA成員](https://zh.wikipedia.org/wiki/DIA "wikilink")[恩真因舞台恐慌症而退出團體](https://zh.wikipedia.org/wiki/恩真 "wikilink")。
+  - 2018年5月7日，[DIA成員](https://zh.wikipedia.org/wiki/DIA_\(韓國音樂團體\) "wikilink")[恩真因舞台恐慌症而退出團體](https://zh.wikipedia.org/wiki/恩真 "wikilink")。
+
+<!-- end list -->
+
+  - 2018年11月3日，與MBC合作製作[Under
+    Nineteen](https://zh.wikipedia.org/wiki/Under_Nineteen "wikilink")，及負責管理出道組[1THE9的演藝活動](https://zh.wikipedia.org/wiki/1THE9 "wikilink")。
+
+### 2019
+
+  - 2019年5月3日，[道賢](../Page/南道賢.md "wikilink")、[IM66成員](../Page/IM66.md "wikilink")[翰潔和志鎬](../Page/李翰潔.md "wikilink")（以本名**金永尚**）參與[Mnet製作的企劃男團節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[PRODUCE
+    X 101](../Page/PRODUCE_X_101.md "wikilink")》。
+
+<!-- end list -->
+
+  - 2019年5月9日，[IM66的社交媒體帳號都改名為](../Page/IM66.md "wikilink")「[MBK
+    BOYS](https://zh.wikipedia.org/wiki/MBK_BOYS "wikilink")」，並刪除了以前的帖文，因此可得知組合已經改組為[MBK
+    BOYS](https://zh.wikipedia.org/wiki/MBK_BOYS "wikilink")。
 
 ## 旗下藝人
 
 ### 組合
 
-| 出道日期       | 組合名稱                                                          | 性別 | 成員                                                                                                                                               | 隊長                              | 官方粉絲名 | 官方應援色 | 官方應援物 |
-| ---------- | ------------------------------------------------------------- | -- | ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------- | ----- | ----- | ----- |
-| 2013年10月8日 | Nutaz                                                         | 男  | Naino（劉炳吉）、Venimun（孫京民）                                                                                                                          | —                               | —     | －     | －     |
-| 2015年7月6日  | [High Brow](../Page/High_Brow.md "wikilink")                  | 男  | 李周憲、金形桂                                                                                                                                          | 李周憲                             |       |       |       |
-| 2015年9月14日 | [DIA](https://zh.wikipedia.org/wiki/DIA "wikilink")           | 女  | Eunice、主恩、[熙賢](../Page/奇熙賢.md "wikilink")、Jenny、[豫彬](../Page/白豫彬.md "wikilink")、[彩娟](../Page/彩娟.md "wikilink")、[恩彩](../Page/恩彩.md "wikilink")、順伊 | [熙賢](../Page/奇熙賢.md "wikilink") | AID   |       |       |
-| 未知         | [MBK BOYS](https://zh.wikipedia.org/wiki/MBK_BOYS "wikilink") | 男  | 基重、俊玗、在億                                                                                                                                         | —                               | —     |       |       |
-
-### Solo
-
-<table style="width:85%;">
+<table style="width:90%;">
 <colgroup>
-<col style="width: 12%" />
-<col style="width: 14%" />
-<col style="width: 14%" />
-<col style="width: 14%" />
-<col style="width: 14%" />
-<col style="width: 14%" />
+<col style="width: 10%" />
+<col style="width: 13%" />
+<col style="width: 13%" />
+<col style="width: 13%" />
+<col style="width: 13%" />
+<col style="width: 13%" />
+<col style="width: 13%" />
 </colgroup>
 <thead>
 <tr class="header">
 <th><p>出道日期</p></th>
-<th><p>名稱</p></th>
+<th><p>組合名稱</p></th>
 <th><p>性別</p></th>
-<th><p>所屬組合</p></th>
+<th><p>成員</p></th>
+<th><p>隊長</p></th>
 <th><p>官方粉絲名</p></th>
 <th><p>官方應援色</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>未知</p></td>
-<td><p><a href="../Page/金岱妮.md" title="wikilink">Dani</a></p></td>
-<td><p>女</p></td>
-<td><p><a href="../Page/T-ara_N4.md" title="wikilink">T-ara N4</a>（前）</p></td>
+<td><p>2015年7月6日</p></td>
+<td><p><a href="../Page/High_Brow.md" title="wikilink">High Brow</a></p></td>
+<td><p>男</p></td>
+<td><p>李周憲、金形桂</p></td>
+<td><p>李周憲</p></td>
 <td><p>—</p></td>
-<td><p>—</p></td>
+<td><p>－</p></td>
 </tr>
 <tr class="even">
-<td></td>
+<td><p>2015年9月14日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/DIA" title="wikilink">DIA</a></p></td>
 <td><p>女</p></td>
-<td><p><a href="../Page/GP_Basic.md" title="wikilink">GP Basic</a>（前）<br />
-<a href="../Page/D-Unit.md" title="wikilink">D-Unit</a>（前）</p></td>
-<td></td>
+<td><p>Eunice、主恩、<a href="../Page/奇熙賢.md" title="wikilink">熙賢</a>、Jenny、<a href="../Page/白豫彬.md" title="wikilink">豫彬</a>、<a href="../Page/彩娟.md" title="wikilink">彩娟</a>、<a href="../Page/恩彩.md" title="wikilink">恩彩</a>、順伊</p></td>
+<td><p><a href="../Page/奇熙賢.md" title="wikilink">熙賢</a></p></td>
+<td><p>AID</p></td>
+<td><p>AIDBLUE<br />
+DIARED</p></td>
+</tr>
+<tr class="odd">
+<td><p>2019年4月13日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1THE9" title="wikilink">1THE9</a></p></td>
+<td><p>男</p></td>
+<td><p>劉勇河、金兌祐、李昇奐、 申藝燦、金俊抒、全暏炎、丁真成、鄭澤玄、朴成原</p></td>
+<td><p>劉勇河</p></td>
+<td><p>Wonderland</p></td>
+<td><p>－</p></td>
+</tr>
+<tr class="even">
+<td><p>未知</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MBK_BOYS" title="wikilink">MBK BOYS</a></p></td>
+<td><p>基重、俊玗、在億、<a href="../Page/李翰潔.md" title="wikilink">翰潔</a>、<a href="../Page/南道賢.md" title="wikilink">道賢</a>、永尚</p></td>
+<td><p>—</p></td>
+<td><p>—</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -154,7 +184,6 @@ MBK 成立的契機統合成了一個大家庭。現任代表為工人仲介公�
 | ----------- | -------------------------------------------------------------- | --------------------------------------------------- | -- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2016年12月29日 | [彬彩賢斯順](https://zh.wikipedia.org/wiki/彬彩賢斯順 "wikilink")（BCHCS） | [DIA](https://zh.wikipedia.org/wiki/DIA "wikilink") | 女  | [Eunice](https://zh.wikipedia.org/wiki/許秀娟 "wikilink")、[熙賢](../Page/奇熙賢.md "wikilink")、[豫彬](../Page/白豫彬.md "wikilink")、[彩娟](../Page/彩娟.md "wikilink")、順伊 |
 | 2016年12月31日 | [L.U.B](https://zh.wikipedia.org/wiki/L.U.B "wikilink")        | [DIA](https://zh.wikipedia.org/wiki/DIA "wikilink") | 女  | 主恩、再妮、[恩彩](../Page/恩彩.md "wikilink")                                                                                                                     |
-| 2017年9月1日   | IM                                                             | [IM66](../Page/IM66.md "wikilink")                  | 男  | 棋釋、翰潔、太垠、基重                                                                                                                                              |
 
 ### 限定/企劃組合
 
@@ -166,78 +195,10 @@ MBK 成立的契機統合成了一個大家庭。現任代表為工人仲介公�
 
 ### 演員/藝人
 
-<table style="width:85%;">
-<colgroup>
-<col style="width: 12%" />
-<col style="width: 24%" />
-<col style="width: 24%" />
-<col style="width: 24%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p>出道 / 加入日期</p></th>
-<th><p>名稱</p></th>
-<th><p>性別</p></th>
-<th><p>備註</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>1994年</p></td>
-<td><p><a href="../Page/文熙景.md" title="wikilink">文熙景</a></p></td>
-<td><p>女</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1998年</p></td>
-<td><p>尹蘇柆[4]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2012年</p></td>
-<td><p>全載賢[5]（Esther）</p></td>
-<td><p>女</p></td>
-<td><p>前<a href="../Page/Gangkiz.md" title="wikilink">Gangkiz成員</a></p></td>
-</tr>
-<tr class="even">
-<td><p>金敏形[6]</p></td>
-<td><p>男</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2013年</p></td>
-<td></td>
-<td><p>前<a href="../Page/SPEED_(韓國音樂團體).md" title="wikilink">SPEED成員</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>金裕桓[7]</p></td>
-<td><p>現任<a href="../Page/SPEED_(韓國音樂團體).md" title="wikilink">SPEED成員</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>朴尚元[8]</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2014年</p></td>
-<td><p>金敏蔡[9]</p></td>
-<td><p>女</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2016年</p></td>
-<td><p>（Viki）</p></td>
-<td><p>前<a href="../Page/Dal★Shabet.md" title="wikilink">Dal★Shabet成員兼隊長</a></p></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| 出道 / 加入日期 | 名稱                                    | 性別 | 備註                                                 |
+| --------- | ------------------------------------- | -- | -------------------------------------------------- |
+| 2013年     | 金裕桓\[4\]                              | 男  | 前[SPEED成員](../Page/SPEED_\(韓國音樂團體\).md "wikilink") |
+| 朴尚元\[5\]  | 前[IM66成員](../Page/IM66.md "wikilink") |    |                                                    |
 
 ### 練習生
 
@@ -253,66 +214,10 @@ MBK 成立的契機統合成了一個大家庭。現任代表為工人仲介公�
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>Dani</p></td>
-<td><p><a href="../Page/金岱妮.md" title="wikilink">Danielle Kim</a></p></td>
-<td><p><a href="../Page/T-ara_N4.md" title="wikilink">T-ara N4</a></p></td>
-<td><p>女</p></td>
-<td><p>《<a href="../Page/PRODUCE_101.md" title="wikilink">PRODUCE 101</a>》</p></td>
-</tr>
-<tr class="even">
-<td><p>KI-O</p></td>
-<td><p>吳勝利</p></td>
-<td><p><a href="../Page/SPEED_(韓國音樂團體).md" title="wikilink">SPEED</a></p></td>
-<td><p>男</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>尚禹</p></td>
-<td><p>朴尚元</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>盛採</p></td>
-<td><p>鄭盛採</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>俊赫</p></td>
-<td><p>金亨國</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p>Raphael</p></td>
 <td><p>Raphael Jolly</p></td>
 <td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>志鎬</p></td>
-<td><p>金永尚</p></td>
-<td></td>
-<td><p>《<a href="../Page/PRODUCE_X_101.md" title="wikilink">PRODUCE X 101</a>》</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>允亨</p></td>
-<td><p>趙允亨</p></td>
-<td></td>
-<td><p>《<a href="../Page/少年24.md" title="wikilink">少年24</a>》</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>道賢</p></td>
-<td><p>南道賢</p></td>
-<td></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/Under_Nineteen" title="wikilink">Under Nineteen</a>》、《<a href="../Page/PRODUCE_X_101.md" title="wikilink">PRODUCE X 101</a>》</p></td>
+<td><p>男</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -322,16 +227,108 @@ MBK 成立的契機統合成了一個大家庭。現任代表為工人仲介公�
 
 ### 個人
 
-| 出道/加入年分 | 名稱                                                  | 性別 | 退出年分  |
-| ------- | --------------------------------------------------- | -- | ----- |
-| 1999年   | [金奎吏](../Page/金奎吏.md "wikilink")                    | 女  | 2016年 |
-| 2005年   | [河錫辰](../Page/河錫辰.md "wikilink")                    | 男  | 2015年 |
-| 2007年   | [洪真英](../Page/洪真英.md "wikilink")                    | 女  | 2012年 |
-| 2007年   | Yangpa                                              | 女  | 2013年 |
-| 2007年   | [孫浩俊](https://zh.wikipedia.org/wiki/孫浩俊 "wikilink") | 男  | 2016年 |
-| 2010年   | [魯敏宇](https://zh.wikipedia.org/wiki/魯敏宇 "wikilink") | 男  | 2012年 |
-| 2015年   | 高那瑛                                                 | 女  | 2015年 |
-|         |                                                     |    |       |
+<table>
+<thead>
+<tr class="header">
+<th><p>出道/加入年分</p></th>
+<th><p>名稱</p></th>
+<th><p>性別</p></th>
+<th><p>退出年分</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1999年</p></td>
+<td><p><a href="../Page/金奎吏.md" title="wikilink">金奎吏</a></p></td>
+<td><p>女</p></td>
+<td><p>2016年</p></td>
+</tr>
+<tr class="even">
+<td><p>2005年</p></td>
+<td><p><a href="../Page/河錫辰.md" title="wikilink">河錫辰</a></p></td>
+<td><p>男</p></td>
+<td><p>2015年</p></td>
+</tr>
+<tr class="odd">
+<td><p>2007年</p></td>
+<td><p><a href="../Page/洪真英.md" title="wikilink">洪真英</a></p></td>
+<td><p>女</p></td>
+<td><p>2012年</p></td>
+</tr>
+<tr class="even">
+<td><p>Yangpa</p></td>
+<td><p>2013年</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2007年</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/孫浩俊" title="wikilink">孫浩俊</a></p></td>
+<td><p>男</p></td>
+<td><p>2016年</p></td>
+</tr>
+<tr class="even">
+<td><p>2010年</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/魯敏宇" title="wikilink">魯敏宇</a></p></td>
+<td><p>2012年</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2011年</p></td>
+<td><p><a href="../Page/Shannon_(韓國歌手).md" title="wikilink">Shannon</a></p></td>
+<td><p>女</p></td>
+<td><p>2019年</p></td>
+</tr>
+<tr class="even">
+<td><p>2012年</p></td>
+<td><p><a href="../Page/金岱妮.md" title="wikilink">Dani</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2014年</p></td>
+<td><p>Kwang Toh</p></td>
+<td><p>男</p></td>
+<td><p>2015年</p></td>
+</tr>
+<tr class="even">
+<td><p>金敏蔡[6]</p></td>
+<td><p>女</p></td>
+<td><p>2017年</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>尹蘇柆[7]</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>金敏形[8]</p></td>
+<td><p>男</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2015年</p></td>
+<td><p>高那瑛</p></td>
+<td><p>女</p></td>
+<td><p>2015年</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/文熙景.md" title="wikilink">文熙景</a></p></td>
+<td><p>2017年</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2016年</p></td>
+<td></td>
+<td><p>2016年</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ### 團體
 
@@ -363,7 +360,7 @@ MBK 成立的契機統合成了一個大家庭。現任代表為工人仲介公�
 <tr class="odd">
 <td><p>2007年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Black_Pearl" title="wikilink">Black Pearl</a></p></td>
-<td></td>
+<td><p>娜美、輝恩、英珠、Mikka、廷敏</p></td>
 <td><p>2012年</p></td>
 <td></td>
 </tr>
@@ -394,7 +391,7 @@ MBK 成立的契機統合成了一個大家庭。現任代表為工人仲介公�
 <td><p>2010年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/T-ara" title="wikilink">T-ara</a></p></td>
 <td><p><a href="../Page/柳和榮.md" title="wikilink">和榮</a></p></td>
-<td><p>2012年</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -435,7 +432,7 @@ MBK 成立的契機統合成了一個大家庭。現任代表為工人仲介公�
 <tr class="odd">
 <td><p><a href="../Page/Gangkiz.md" title="wikilink">Gangkiz</a></p></td>
 <td><p><a href="../Page/黃智賢_(韓國).md" title="wikilink">智賢</a>、、素敏、恩星</p></td>
-<td><p>2014年</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -447,7 +444,7 @@ MBK 成立的契機統合成了一個大家庭。現任代表為工人仲介公�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/金佳花" title="wikilink">金佳花</a>[10]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金佳花" title="wikilink">金佳花</a>[9]、全載賢[10]（Esther）</p></td>
 <td><p>2017年</p></td>
 <td></td>
 <td></td>
@@ -478,7 +475,7 @@ MBK 成立的契機統合成了一個大家庭。現任代表為工人仲介公�
 <td><p><a href="../Page/The_SeeYa.md" title="wikilink">The SeeYa</a><br />
 <a href="../Page/F-VE_DOLLS.md" title="wikilink">F-VE DOLLS</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/連卿" title="wikilink">連卿</a></p></td>
-<td><p>2017年</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -505,15 +502,65 @@ MBK 成立的契機統合成了一個大家庭。現任代表為工人仲介公�
 <td></td>
 </tr>
 <tr class="odd">
+<td></td>
+<td><p>2018年</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>2013年<br />
 2015年</p></td>
 <td><p><a href="../Page/F-VE_DOLLS.md" title="wikilink">F-VE DOLLS</a><br />
 <a href="https://zh.wikipedia.org/wiki/DIA" title="wikilink">DIA</a></p></td>
 <td><p>女</p></td>
-<td><p><a href="../Page/曺承希.md" title="wikilink">承希</a><br />
-<a href="https://zh.wikipedia.org/wiki/恩真" title="wikilink">恩真</a></p></td>
-<td><p>2016年<br />
-2018年</p></td>
+<td><p><a href="../Page/曺承希.md" title="wikilink">承希</a></p></td>
+<td><p>2016年</p></td>
+</tr>
+<tr class="odd">
+<td><p>2014年</p></td>
+<td><p>Nutaz</p></td>
+<td><p>男</p></td>
+<td><p>Naino（劉炳吉）、Venimun（孫京民）</p></td>
+<td><p>2017年</p></td>
+</tr>
+<tr class="even">
+<td><p>2015年</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/DIA" title="wikilink">DIA</a><br />
+L.U.B</p></td>
+<td><p>女</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/恩真" title="wikilink">恩真</a></p></td>
+<td><p>2018年</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/SPEED_(韓國音樂團體).md" title="wikilink">SPEED</a><br />
+<a href="../Page/IM66.md" title="wikilink">IM66</a></p></td>
+<td><p>男</p></td>
+<td><p>KI-O</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2017年</p></td>
+<td><p><a href="../Page/IM66.md" title="wikilink">IM66</a><br />
+IM</p></td>
+<td><p>棋釋、太垠</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2018年</p></td>
+<td><p><a href="../Page/UNB.md" title="wikilink">UNB</a></p></td>
+<td><p><a href="../Page/李宜縝.md" title="wikilink">宜縝</a>、、<a href="https://zh.wikipedia.org/wiki/MADTOWN" title="wikilink">大元</a>、Marco、<a href="../Page/HOTSHOT.md" title="wikilink">鎬廷</a>、<a href="../Page/NewKidd.md" title="wikilink">韓率</a>、<a href="../Page/李濬榮.md" title="wikilink">Jun</a>、<a href="https://zh.wikipedia.org/wiki/A.C.E" title="wikilink">Chan</a>、<a href="../Page/IM66.md" title="wikilink">基重</a></p></td>
+<td><p>2019年</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/UNI.T.md" title="wikilink">UNI.T</a></p></td>
+<td><p>女</p></td>
+<td><p><a href="../Page/楊知元.md" title="wikilink">知元</a>、<a href="../Page/優熙.md" title="wikilink">優熙</a>、<a href="../Page/慎胤祖.md" title="wikilink">胤祖</a>、<a href="../Page/ZN_(LABOUM).md" title="wikilink">ZN</a>、<a href="../Page/NC.A.md" title="wikilink">NC.A</a>、<a href="../Page/宜珍_(SONAMOO).md" title="wikilink">宜珍</a>、<a href="../Page/白豫彬.md" title="wikilink">豫彬</a>、<a href="../Page/李玹珠.md" title="wikilink">玹珠</a>、<a href="https://zh.wikipedia.org/wiki/李繡至" title="wikilink">繡至</a></p></td>
+<td><p>2018年</p></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -574,7 +621,7 @@ MBK 成立的契機統合成了一個大家庭。現任代表為工人仲介公�
 <td><p>LINA</p></td>
 <td><p>方賢雅</p></td>
 <td><p>Zenith媒體</p></td>
-<td><p>WANNA.B<br />
+<td><p><a href="../Page/WANNA.B.md" title="wikilink">WANNA.B</a><br />
 BELLA4（前）</p></td>
 <td></td>
 </tr>
@@ -582,7 +629,7 @@ BELLA4（前）</p></td>
 <td><p>炫周</p></td>
 <td><p>白炫周</p></td>
 <td><p>KRAZY娛樂</p></td>
-<td><p>SEEART<br />
+<td><p>OHASIS<br />
 <a href="https://zh.wikipedia.org/wiki/Aqua_(組合)" title="wikilink">AQUA</a></p></td>
 <td></td>
 </tr>
@@ -632,8 +679,8 @@ BELLA4（前）</p></td>
 <td><p>Coco</p></td>
 <td><p>Coco Chanel Lee</p></td>
 <td><p>歌手</p></td>
-<td><p>MOLE娛樂</p></td>
-<td><p><a href="../Page/CocoSori.md" title="wikilink">CocoSori</a><br />
+<td></td>
+<td><p><a href="../Page/CocoSori.md" title="wikilink">CocoSori</a>（前）<br />
 <a href="../Page/BLADY.md" title="wikilink">BLADY</a>（前）</p></td>
 </tr>
 <tr class="even">
@@ -679,8 +726,44 @@ BELLA4（前）</p></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>賢眞</p></td>
+<td><p>金賢眞</p></td>
+<td><p>Block Berry Creative</p></td>
+<td><p><a href="../Page/本月少女.md" title="wikilink">本月少女</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>邊陞美</p></td>
+<td><p>練習生</p></td>
+<td></td>
+<td><p><a href="../Page/GP_Basic.md" title="wikilink">GP Basic</a>（前）<br />
+<a href="../Page/D-Unit.md" title="wikilink">D-Unit</a>（前）</p></td>
+</tr>
+<tr class="even">
+<td><p>智賢</p></td>
+<td><p>崔智賢</p></td>
+<td></td>
+<td><p><a href="../Page/F-VE_DOLLS.md" title="wikilink">F-VE DOLLS</a>（前）</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>盛採</p></td>
+<td><p>鄭盛採</p></td>
 <td></td>
 <td></td>
+<td><p><a href="../Page/IM66.md" title="wikilink">IM66</a>（前）</p></td>
+</tr>
+<tr class="even">
+<td><p>俊赫</p></td>
+<td><p>金亨國</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>允亨</p></td>
+<td><p>趙允亨</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -714,10 +797,10 @@ BELLA4（前）</p></td>
 1.
 2.  [采妍、Cathy重返DIA，預計六月回歸](http://kpopn.niusnews.com/=K2puupj8)
 3.
-4.  [YOON SO RA](http://www.mbk-ent.com/main_ysr)
-5.  [JUN JAE HYUN](http://www.mbk-ent.com/main_jjh)
-6.  [KIM MIN HYUNG](http://www.mbk-ent.com/main_kmh)
-7.  [KIM YU HWAN](http://www.mbk-ent.com/main_kyh)
-8.  [PARK SANG WON](http://www.mbk-ent.com/main_psw)
-9.  [KIM MIN CHAE](http://www.mbk-ent.com/main_kmc)
-10. [KIM GA HWA](http://www.mbk-ent.com/main_kgh)
+4.  [KIM YU HWAN](http://www.mbk-ent.com/main_kyh)
+5.  [PARK SANG WON](http://www.mbk-ent.com/main_psw)
+6.  [KIM MIN CHAE](http://www.mbk-ent.com/main_kmc)
+7.  [YOON SO RA](http://www.mbk-ent.com/main_ysr)
+8.  [KIM MIN HYUNG](http://www.mbk-ent.com/main_kmh)
+9.  [KIM GA HWA](http://www.mbk-ent.com/main_kgh)
+10. [JUN JAE HYUN](http://www.mbk-ent.com/main_jjh)

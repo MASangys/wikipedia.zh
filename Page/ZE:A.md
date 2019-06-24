@@ -517,7 +517,7 @@ Star》節目中更親自證實團體並未解散，只是每個人都換了公�
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2018年</p></td>
+<td><p>2019年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/陪審員們" title="wikilink">陪審員們</a></p></td>
 <td><p>炯植</p></td>
 <td><p>權南宇</p></td>
