@@ -9,3 +9,5 @@
 * 未处理多语言的 wikitext 语法
 
 本项目目前只有接受对 `Script` 目录的 PR，里面是 [pandoc](https://github.com/chinapedia/pandoc) 用到的过滤器脚本。也可以给 [mediawiki-to-gfm](https://github.com/chinapedia/mediawiki-to-gfm) 发 PR，改进数据生成工具。
+
+如果你有意见或者建议，欢迎加入Telegram讨论群[Chinapedia](https://t.me/chinapedia)。
