@@ -460,7 +460,7 @@ Monophosphate）主要是供应饲料加工业。其它特殊用途的维生素C
   - [Dr. Rath Health Foundation](http://www.dr-rath-stiftung.de)
 
   - Sale [Calcium
-    Ascorbate](http://www.foodchem.com/Antioxidants/Calcium_Ascorbate)
+    Ascorbate](https://web.archive.org/web/20110814215517/http://www.foodchem.com/Antioxidants/Calcium_Ascorbate)
     for lower price.
 
 {{-}}
@@ -685,7 +685,7 @@ Monophosphate）主要是供应饲料加工业。其它特殊用途的维生素C
     acid, and dehydroascorbic acid concentrations in plasma of
     critically ill patients. Am J Clin Nutr 1996; 63:760–765.
 
-90. [食再多維他命C皮膚都無改善？問題癥結原來在於…](https://mings.mpweekly.com/mings-beauty/20180702-85777)
+90.
 
 91.
 

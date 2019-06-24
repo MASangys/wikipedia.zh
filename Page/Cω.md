@@ -13,5 +13,6 @@
 
   - [Cω在微軟研究所的簡介](http://research.microsoft.com/Comega/)
 
+[Category:微软研究院](https://zh.wikipedia.org/wiki/Category:微软研究院 "wikilink")
 [Category:C語言](https://zh.wikipedia.org/wiki/Category:C語言 "wikilink")
 [Category:C語言家族](https://zh.wikipedia.org/wiki/Category:C語言家族 "wikilink")

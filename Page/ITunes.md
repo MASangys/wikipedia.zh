@@ -22,6 +22,9 @@ Vista](../Page/Windows_Vista.md "wikilink")，與iTunes有數個已知的相容�
 
 iTunes可從蘋果的網站免費下載取得，[麥金塔電腦和一些iPod產品也有附帶此軟體](../Page/麥金塔.md "wikilink")。它也曾是蘋果[iLife多媒體應用程式套件的一部分](https://zh.wikipedia.org/wiki/iLife "wikilink")。
 
+2019年6月4日，苹果宣布不再在后续macOS、iOS等系统中提供iTunes，转而将其拆分为包含原Apple Music和iTunes
+Store的“音乐”、包含原电视节目的“TV”和包含原播客的“播客”三款应用。
+
 ## 歷史
 
 iTunes是從[SoundJam

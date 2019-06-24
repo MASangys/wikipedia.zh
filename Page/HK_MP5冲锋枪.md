@@ -199,6 +199,9 @@ MP5\]\]
 
   -   - 特警單位
 
+  -   - [柬埔寨王家陸軍](../Page/柬埔寨王家陸軍.md "wikilink")[911特種部隊](../Page/911特種部隊.md "wikilink")
+      - 保鏢單位
+
   -
   -   - [加拿大皇家騎警](https://zh.wikipedia.org/wiki/加拿大皇家騎警 "wikilink")
       - 特警單位
@@ -255,7 +258,7 @@ MP5\]\]
       - [希臘武裝部隊](https://zh.wikipedia.org/wiki/希臘軍事 "wikilink")
 
   -
-  - （2017年11月16日，根据消息人士透露，制造商黑克勒-科赫公司拒絕了香港警方在年初购买一批MP5衝鋒槍和配件的请求。有报道指出，德國媒體DPA于2016年11月曾引用一名黑克勒-科赫不具名高層的话，他说公司希望只向[民主且非](../Page/民主.md "wikilink")[腐敗的政府售賣槍械](https://zh.wikipedia.org/wiki/政治腐败 "wikilink")，而它們必須是[北約成員國或其盟友](https://zh.wikipedia.org/wiki/北約 "wikilink")。一些观点认为，这或与香港近年[人权和和平](../Page/人权.md "wikilink")[集会权利受损有关](https://zh.wikipedia.org/wiki/集会 "wikilink")。[香港保安局局長李家超拒绝就报道发布评论](https://zh.wikipedia.org/wiki/香港保安局 "wikilink")，并表示市场仍有很多选择，此事不会影响执法机构运作。\[9\]\[10\]\[11\]\[12\]）
+  - （2017年11月16日，根据消息人士透露，制造商黑克勒-科赫公司拒絕了香港警方在年初购买一批MP5衝鋒槍和配件的请求。有报道指出，德國媒體DPA于2016年11月曾引用一名黑克勒-科赫不具名高層的话，他说公司希望只向[民主且非](../Page/民主.md "wikilink")[腐敗的政府售賣槍械](https://zh.wikipedia.org/wiki/政治腐败 "wikilink")，而它們必須是[北約成員國或其盟友](https://zh.wikipedia.org/wiki/北約 "wikilink")。一些观点认为，这或与香港近年[人权和和平](../Page/人权.md "wikilink")[集会权利受损有关](https://zh.wikipedia.org/wiki/集会 "wikilink")。[香港保安局局長李家超拒绝就报道发布评论](https://zh.wikipedia.org/wiki/香港保安局 "wikilink")，并表示市场仍有很多选择，此事不会影响执法机构运作\[9\]\[10\]\[11\]\[12\]。）
 
       - [香港警務處](../Page/香港警務處.md "wikilink")（[衝鋒隊](../Page/衝鋒隊_\(香港\).md "wikilink")、[水警總區](../Page/水警總區.md "wikilink")、[小艇分區](../Page/小艇分區.md "wikilink")、[有組織罪案及三合會調查科](../Page/有組織罪案及三合會調查科.md "wikilink")、[毒品調查科](../Page/毒品調查科.md "wikilink")、[刑事情報科](../Page/刑事情報科.md "wikilink")、[跟蹤支援隊](../Page/跟蹤支援隊.md "wikilink")、[保護證人組](../Page/保護證人組.md "wikilink")、[要員保護組](../Page/要員保護組.md "wikilink")、[機場特警組](../Page/機場特警組.md "wikilink")、[反恐特勤隊及](../Page/反恐特勤隊.md "wikilink")[特別任務連](../Page/特別任務連.md "wikilink")）
       - [香港海關](../Page/香港海關.md "wikilink")

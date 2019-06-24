@@ -1,5 +1,5 @@
 **马绍尔·布鲁斯·马瑟斯三世**（，），以藝名**阿姆**（英語：）較為人知\[1\]，是一位美國著名[饒舌歌手](https://zh.wikipedia.org/wiki/饒舌歌手 "wikilink")、[詞曲作家](../Page/詞曲作家.md "wikilink")、[唱片製作人](../Page/音樂製作人.md "wikilink")、演員及電影製作人。他在1997年被饒舌歌手兼製作人[Dr.
-Dre發掘](../Page/Dr._Dre.md "wikilink")，其後簽約至所屬的唱片公司。在其音樂生涯中，至今共獲得十五次格萊美獎，以及[奧斯卡最佳電影歌曲獎項](https://zh.wikipedia.org/wiki/奧斯卡金像獎 "wikilink")。他一直被認為是嘻哈史上最偉大，最有影響力的饒舌歌手之一。
+Dre發掘](../Page/Dr._Dre.md "wikilink")，其後簽約至所屬的唱片公司。在其音樂生涯中，至今共獲得十五次格萊美獎，以及[奧斯卡最佳電影歌曲獎項](https://zh.wikipedia.org/wiki/奧斯卡金像獎 "wikilink")。他一直被認為是嘻哈史上最偉大，最有影響力的饒舌歌手之一
 
 阿姆是美國2000年代最暢銷的饒舌歌手。在他的職業生涯中，他在Billboard 200上有九張專輯，在Billboard Hot
 100上有五張單曲。他是唯一一位在Billboard 200
@@ -173,6 +173,32 @@ LP》狂放不羈的形象,連頭髮再度染成金色。
 
 ### 2017 - 現在：《Revival》 和 《Kamikaze》
 
+## 影響
+
+許多藝術家都認為阿姆具有影響力，包括Regina Spektor，The Weeknd，Crooked I，Tech
+N9ne，Logic，Lil Wayne，Nicki Minaj，TI，BoB，JhenéAiko，50 Cent，Usher，Earl
+Sweatshirt，Ab-Soul，Freddie Gibbs，Kendrick Lamar，Ed Sheeran，Lana Del Rey，
+Big Sean，J. Cole，Skylar Gray，Bubba Sparxxx，Asher Roth，Phresher，BlocBoy
+JB，Machine Gun Kelly，Yelawolf，Hopsin，Tyler，The Creator，Hollywood
+Undead，Kiiara，Chris Webby，Charles Hamilton，Chance the Rapper，Jon
+Connor，Snow Tha Product，Stalley，Royce da 5'9“，Joyner Lucas，Joe
+Budden，Tony Yayo，The Game，Juice WRLD，和BTS。
+
+說唱歌手David Banner，Tech N9ne，Hopsin，G-Eazy，Boosie Badazz，Wiz Khalifa，Kevin
+Gates，Drake，50 Cent，Talib Kweli，Kool G. Rap，Charles Hamilton， King
+Los，Logic，J. Cole，Redman，Kurupt，E-40，Dr。Dre，Ice Cube，Nas，Young
+Jeezy，NORE，Joe Budden，Ab-Soul，Big Sean， Kendrick Lamar， Fabolous，Jon
+Connor， Royce Da 5'9“， Big Daddy Kane，Rakim， TI， Kanye West，Masta
+Ace，Bow Wow，Joyner Lucas， B-Real， Willie D， Busta Rhymes， Phresher，
+Akon，Stalley，The Game，Dave East，MI Abaga，Chuck D，Joell Ortiz，Crooked
+I，Jadakiss，Fat Joe， Twista， Lil B，Lupe Fiasco，Cormega，Flavor Flav，
+Remy Ma，Russ，Nick Cannon，The DOC， CeeLo Green， Pharoahe Monch， Ty Dolla
+Sign，Machine Gun Kelly，Yelawolf，和 Jay-Z 各自稱Eminem是有史以來最偉大的說唱歌手之一。
+
+【 世界紀錄 】
+
+  - Rap God《饒舌之神》一曲，創下「最多文字的流行歌曲」的金氏世界紀錄
+
 ## 作品
 
 ### 专辑
@@ -296,11 +322,6 @@ Eminem 的經典歌曲“Stan”。
 | '' - ''    | **The ringer**                                         | *-*                   | '' - ''                              | '' - ''                 | '' - ''        |
 | '' 2019 '' | **Homicide**(Logic featuring Eminem )                  | *-*                   | '' - ''                              | '' - ''                 | '' - ''        |
 |            |                                                        |                       |                                      |                         |                |
-
-【 世界紀錄 】
-
-  - 專輯總銷售量超過9000萬以上，是饒舌專輯賣最多的歌手
-  - Rap God《饒舌之神》一曲，創下「最多文字的流行歌曲」的金氏世界紀錄
 
 ## 注釋
 

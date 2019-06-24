@@ -1683,3 +1683,10 @@ body.ns-4.action-submit\[class\*=" page-Wikipedia_檔案存廢討論_"\] h3 {
 `   font-weight: bold;`
 
 }
+
+/\* MediaWiki:Tag-jimmy-bot-non-free \*/ .tag-jimmy-bot-non-free {
+
+`   color: red;`
+`   font-size: 1.143em;`
+
+}

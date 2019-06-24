@@ -322,6 +322,7 @@ OpenGL同時推出了3.3和4.0版本，同年7月26日又发布了4.1版本。20
 [Category:应用程序接口](https://zh.wikipedia.org/wiki/Category:应用程序接口 "wikilink")
 [Category:计算机图形学](https://zh.wikipedia.org/wiki/Category:计算机图形学 "wikilink")
 [Category:三维计算机图形学](https://zh.wikipedia.org/wiki/Category:三维计算机图形学 "wikilink")
+[Category:图形标准](https://zh.wikipedia.org/wiki/Category:图形标准 "wikilink")
 [Category:OpenGL](https://zh.wikipedia.org/wiki/Category:OpenGL "wikilink")
 [Category:繪圖函式庫](https://zh.wikipedia.org/wiki/Category:繪圖函式庫 "wikilink")
 

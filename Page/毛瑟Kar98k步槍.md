@@ -129,7 +129,7 @@ S及](https://zh.wikipedia.org/wiki/8_x_68_S "wikilink")[9.3 x
   -   - [德意志國防軍](../Page/德意志國防軍.md "wikilink")：於1935年成為制式步槍，取代了[Gewehr
         98步槍](../Page/Gewehr_98步槍.md "wikilink")。
       - [武裝黨衛軍](https://zh.wikipedia.org/wiki/武裝黨衛軍 "wikilink")
-      - [秩序警察](https://zh.wikipedia.org/wiki/秩序警察 "wikilink")
+      - [秩序警察](../Page/秩序警察.md "wikilink")
       - [黨衛隊保安處](../Page/黨衛隊保安處.md "wikilink")
       - [希特拉青年團](../Page/希特拉青年團.md "wikilink")
       - [人民衝鋒隊](https://zh.wikipedia.org/wiki/人民衝鋒隊 "wikilink")

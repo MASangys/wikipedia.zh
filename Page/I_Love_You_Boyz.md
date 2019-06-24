@@ -1,5 +1,5 @@
 **I Love You
-Boyz**（簡稱“ILUB”，又作**艾粒**或**艾粒仔**），是[香港一隊](../Page/香港.md "wikilink")「[搞笑](https://zh.wikipedia.org/wiki/搞笑 "wikilink")」二人男子組合，由分別化名「[陸加俊](https://zh.wikipedia.org/wiki/陸家俊 "wikilink")」和「[蔡輕麟](../Page/蔡興麟.md "wikilink")」的兩位[叱咤903](https://zh.wikipedia.org/wiki/叱咤903 "wikilink")[唱片騎師](https://zh.wikipedia.org/wiki/唱片騎師 "wikilink")[少爺占及](../Page/少爺占.md "wikilink")[Donald組成](../Page/唐劍康.md "wikilink")。
+Boyz**（簡稱“ILUB”，又作**艾粒**或**艾粒仔**），是[香港一隊](../Page/香港.md "wikilink")「[搞笑](https://zh.wikipedia.org/wiki/搞笑 "wikilink")」二人男子組合，由分別化名「[陸加俊](https://zh.wikipedia.org/wiki/陸家俊 "wikilink")」和「[蔡輕麟](../Page/蔡興麟.md "wikilink")」的兩位[叱咤903](../Page/叱咤903.md "wikilink")[唱片騎師](https://zh.wikipedia.org/wiki/唱片騎師 "wikilink")[少爺占及](../Page/少爺占.md "wikilink")[Donald組成](../Page/唐劍康.md "wikilink")。
 
 ## 組成過程
 
@@ -39,7 +39,7 @@ Boyz成立15周年實在非常難得及感恩，並指這場演唱會為艾粒�
 
 《艾粒Boom 紅館激戰》演唱會最終於2019年4月5-6日成功舉行，演唱會分別有[Supper
 Moment](https://zh.wikipedia.org/wiki/Supper_Moment "wikilink")（4月5日）、[C
-AllStar](../Page/C_AllStar.md "wikilink")（4月6日）和[BOY'Z](https://zh.wikipedia.org/wiki/BOY'Z "wikilink")（4月5-6日）擔任嘉賓。當奴與少爺占更於台上即場表演吞下他們恐懼的食物：少爺占於4月5日吞下[納豆](../Page/納豆.md "wikilink")、當奴於4月6日吞下[榴槤](https://zh.wikipedia.org/wiki/榴槤 "wikilink")，寓意為演藝生涯寫下光輝一頁。\[7\]
+AllStar](../Page/C_AllStar.md "wikilink")（4月6日）和[BOY'Z](https://zh.wikipedia.org/wiki/BOY'Z "wikilink")（4月5-6日）擔任嘉賓，為二人的演藝生涯寫下光輝一頁。\[7\]
 
 ## 派台歌曲與成績
 
@@ -96,10 +96,10 @@ AllStar](../Page/C_AllStar.md "wikilink")（4月6日）和[BOY'Z](https://zh.wik
 |                                                                                         |
 |                                                                                         |
 
-| **各台冠軍歌總數**                                             |
-| ------------------------------------------------------- |
-| [叱咤903](https://zh.wikipedia.org/wiki/叱咤903 "wikilink") |
-| **4**                                                   |
+| **各台冠軍歌總數**                          |
+| ------------------------------------ |
+| [叱咤903](../Page/叱咤903.md "wikilink") |
+| **4**                                |
 
   - 上榜中（\*）
   - **粗體顯示**為冠軍歌曲

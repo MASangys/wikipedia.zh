@@ -1,6 +1,6 @@
 《**鋼彈系列**》為[富野由悠季自](../Page/富野由悠季.md "wikilink")1979年所制作[機動戰士GUNDAM一作所派生出來的一連串續作](../Page/機動戰士GUNDAM.md "wikilink")、外傳及其他系列的總稱。ガンダム（GUN-{}-DAM）在中國大陸一般譯為高-{}-達或敢-{}-達、港澳譯為高-{}-達，臺灣譯為鋼-{}-彈。
 
-這個由[日本動畫公司](../Page/日本.md "wikilink")[日昇](https://zh.wikipedia.org/wiki/日昇 "wikilink")（Sunrise）之下制作的系列[SF](https://zh.wikipedia.org/wiki/科幻 "wikilink")[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")，对以日本為首的世界全球次文化界产生重大的影响。除了[动画以外](../Page/动画.md "wikilink")，作品还广泛出现在[电影](../Page/电影.md "wikilink")、[OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")、[漫画](https://zh.wikipedia.org/wiki/漫画 "wikilink")、[小说](../Page/小说.md "wikilink")、[电子游戏](../Page/电子游戏.md "wikilink")、[特摄](https://zh.wikipedia.org/wiki/特摄 "wikilink")、[模型等](https://zh.wikipedia.org/wiki/模型 "wikilink")。本身品牌市值據估計逾500億日元。\[1\]
+這個由[日本動畫公司](../Page/日本.md "wikilink")[日昇](../Page/日昇.md "wikilink")（Sunrise）之下制作的系列[SF](https://zh.wikipedia.org/wiki/科幻 "wikilink")[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")，对以日本為首的世界全球次文化界产生重大的影响。除了[动画以外](../Page/动画.md "wikilink")，作品还广泛出现在[电影](../Page/电影.md "wikilink")、[OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")、[漫画](https://zh.wikipedia.org/wiki/漫画 "wikilink")、[小说](../Page/小说.md "wikilink")、[电子游戏](../Page/电子游戏.md "wikilink")、[特摄](https://zh.wikipedia.org/wiki/特摄 "wikilink")、[模型等](https://zh.wikipedia.org/wiki/模型 "wikilink")。本身品牌市值據估計逾500億日元。\[1\]
 
 之前的巨大[机器人动画只是](https://zh.wikipedia.org/wiki/机器人动画 "wikilink")[单元劇和](https://zh.wikipedia.org/wiki/单元劇 "wikilink")[善惡二元論色彩重的](https://zh.wikipedia.org/wiki/善惡二元論 "wikilink")（[超級機器人](https://zh.wikipedia.org/wiki/超級機器人 "wikilink")），而**机动战士GUNDAM**则是在固定的[世界观中对](../Page/世界观.md "wikilink")[国家](../Page/国家.md "wikilink")、[战争](../Page/战争.md "wikilink")、[人物有著深層的描繪](https://zh.wikipedia.org/wiki/人物 "wikilink")。其中被称为**机动战士**的人型机器人作为武器和道具，被称为“*[寫實机器人](https://zh.wikipedia.org/wiki/寫實机器人 "wikilink")*”，其后类似的机器人动画因為鋼彈系列的影響也進化真實系[科幻类作品](https://zh.wikipedia.org/wiki/科幻 "wikilink")。
 
@@ -23,7 +23,7 @@ Universe，當中包括不同的[紀元](https://zh.wikipedia.org/wiki/紀元 "w
 ### 其他[軍事](../Page/軍事.md "wikilink")[硬科幻派動畫](../Page/硬科幻.md "wikilink")
 
 首先見於[G
-GUNDAM](https://zh.wikipedia.org/wiki/G_GUNDAM "wikilink")，和宇宙世紀一樣是正經地拍一個有關政治和軍事的故事，但屬於一部完成的簡化的以地球中心的近未來科幻動畫。因為其制作出來的的總片長和集數都超過了宇宙世紀系列，所以可以說是在非宇宙世紀的正統鋼彈系列。而其特色是和宇宙世紀一樣，都是從一部電視動畫而來，制作的[導演擁有使用全新的背景設定](https://zh.wikipedia.org/wiki/導演 "wikilink")，所以不重覆使舊作相似的人物組織機械等，而這類作品都是出於日昇另一主要部門第三工作室之手，有別於第一工作室的作畫風格，但也形成了自己的固定觀眾而足和宇宙世紀系列分庭抗禮。
+GUNDAM](https://zh.wikipedia.org/wiki/G_GUNDAM "wikilink")，和宇宙世紀一樣是正經地拍一個有關政治和軍事的故事，但屬於一部完成的簡化的以地球中心的近未來科幻動畫。因為其制作出來的的總片長和集數都超過了宇宙世紀系列，所以可以說是在非宇宙世紀的正統鋼彈系列。而其特色是和宇宙世紀一樣，都是從一部電視動畫而來，制作的[導演擁有使用全新的背景設定](https://zh.wikipedia.org/wiki/導演 "wikilink")，所以不重覆使舊作相似的人物組織機械等，而這類作品多是出於日昇另一主要部門第三工作室之手，有別於第一工作室的作畫風格，但也形成了自己的固定觀眾而足和宇宙世紀系列分庭抗禮。
 
 雖則各紀元名義上可組成一條完整時間線，但作品皆僅是一至兩季，每季也是半至一年，集中在單一場戰爭發展到結束。集中描述人類在某一紀元進入宇宙時代後的狀況。而這些作品較少有續集外傳等，鮮有使用電視以外的發行方式，其電影動畫和[OVA或](https://zh.wikipedia.org/wiki/OVA "wikilink")[網絡動畫產量很少的](https://zh.wikipedia.org/wiki/網絡動畫 "wikilink")。
 
@@ -114,7 +114,7 @@ GUNDAM](https://zh.wikipedia.org/wiki/SD_GUNDAM "wikilink")、[高達創戰者](
 <tr class="header">
 <th><p>未来時代設定</p></th>
 <th><p>作品</p></th>
-<th><p>主人公</p></th>
+<th><p>主人公所屬的群體</p></th>
 <th><p>对立派</p></th>
 </tr>
 </thead>
@@ -160,7 +160,7 @@ GUNDAM](https://zh.wikipedia.org/wiki/SD_GUNDAM "wikilink")、[高達創戰者](
 <td><p>吉翁公国(ジオン帝国)</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong>宇宙世纪0079年</strong></p></td>
+<td><p><strong>宇宙世纪0080年</strong></p></td>
 <td><p>《<a href="../Page/機動戰士GUNDAM_0080：口袋裡的戰爭.md" title="wikilink">機動戰士GUNDAM 0080</a>》(1989年)</p></td>
 <td><p>吉翁公国(ジオン帝国)</p></td>
 <td><p>E.F.S.F.(地球聯邦軍)</p></td>
@@ -483,7 +483,7 @@ E.S.F.(地球联邦)</p></td>
 
 ## 模型
 
-在動畫播映结束後，才開始推出的商品的GUNDAM模型（有縮寫音譯[鋼普拉](https://zh.wikipedia.org/wiki/鋼普拉 "wikilink")），至今已推出了SD、FG、HG、RE、MG、PG、RG等系列，與1/144、1/100、1/60、1:48
+在動畫播映结束後，才開始推出的商品的GUNDAM模型（有縮寫音譯[鋼普拉](https://zh.wikipedia.org/wiki/鋼普拉 "wikilink")），至今已推出了SD、FG、HG、RE、MG、PG、RG等系列，與1/144、1/100、1/60、1/48
 等比例，着重於可動性與造型各方面，在當时可说劃時代，因此大受歡迎。
 
 ## 参见

@@ -25,7 +25,7 @@ DOCOMO投資印度塔塔電信2670億日圓，共計持有26.5％股權，但投
 2018年，NTT
 DOCOMO擁有[W-CDMA](https://zh.wikipedia.org/wiki/W-CDMA "wikilink")、[HSPA服務品牌](https://zh.wikipedia.org/wiki/HSPA "wikilink")「**[FOMA](https://zh.wikipedia.org/wiki/FOMA "wikilink")**」（[3G](../Page/3G.md "wikilink")、[3.5G](https://zh.wikipedia.org/wiki/3.5G "wikilink")，2001年開始服務）、[LTE服務品牌](https://zh.wikipedia.org/wiki/LTE "wikilink")「****」（3.9G，2010年開始服務）、[LTE-Advanced服務品牌](../Page/進階長期演進技術.md "wikilink")「****」（[4G](../Page/4G.md "wikilink")，2015年開始服務）等行動電話業務。過去推出的「[PHS服務](https://zh.wikipedia.org/wiki/PHS "wikilink")」已在2008年1月7日\[8\]結束服務，使用[PDC的服務品牌](../Page/PDC.md "wikilink")「」、「」（[2G](../Page/2G.md "wikilink")）也在2012年3月31日\[9\]結束服務。
 
-## 沿革
+## 历史
 
 [NTT_DoCoMo_logo.svg](https://zh.wikipedia.org/wiki/File:NTT_DoCoMo_logo.svg "fig:NTT_DoCoMo_logo.svg")
 DOCOMO公司的歷史可追溯至[電電公社及NTT的](../Page/日本電信電話公社.md "wikilink")[移動通信事業](https://zh.wikipedia.org/wiki/移動通信 "wikilink")。
@@ -620,6 +620,8 @@ NTT DoCoMo持有以下電訊公司權益：（括號內為股權比例）
 ## 外部連結
 
   - [NTTドコモ ホーム](https://www.nttdocomo.co.jp)
+
+[Category:1998年IPO](https://zh.wikipedia.org/wiki/Category:1998年IPO "wikilink")
 
 [Category:日本通信公司](https://zh.wikipedia.org/wiki/Category:日本通信公司 "wikilink")
 [Category:移动电话运营商](https://zh.wikipedia.org/wiki/Category:移动电话运营商 "wikilink")

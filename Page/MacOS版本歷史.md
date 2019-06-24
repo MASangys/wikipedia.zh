@@ -85,6 +85,8 @@ OS X 10.4 ("Tiger")，於2007年10月26日發行推出Mac OS X v10.5 ("Leopard")
 Leopard"於2009年9月份發行，[2011年7月](../Page/2011年7月.md "wikilink")20日推出
 Mac OS X 10.7 "Lion"。
 
+## 历代版本
+
   - [Mac OS X
     公開測試版](https://zh.wikipedia.org/wiki/Mac_OS_X_公開測試版 "wikilink")
   - [Mac OS X v10.0](../Page/Mac_OS_X_v10.0.md "wikilink") "Cheetah"
@@ -120,6 +122,9 @@ Mac OS X 10.7 "Lion"。
   - [macOS
     v10.14](https://zh.wikipedia.org/wiki/macOS_Mojave "wikilink")
     "Mojave"
+  - [macOS
+    v10.15](https://zh.wikipedia.org/wiki/MacOS_Catalina "wikilink")
+    "Catalina"
 
 ## 時間線
 

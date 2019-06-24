@@ -51,7 +51,7 @@ Desktop Environment”*。而这个意涵最终亦被废止，由于重塑品牌
 
 ### 產品發布
 
-[KDE_4.png](https://zh.wikipedia.org/wiki/File:KDE_4.png "fig:KDE_4.png")
+[KDE_Plasma_5.png](https://zh.wikipedia.org/wiki/File:KDE_Plasma_5.png "fig:KDE_Plasma_5.png")
 Mathias
 Ettrich選擇使用[Qt程式庫開發](../Page/Qt.md "wikilink")桌面系統，很快地他和其他志願開發人員於1997年初發佈了一些應用程序。\[16\]
 
@@ -374,7 +374,7 @@ KDE还和各类组织、公司进行合作，如Google、维基媒体基金會�
 14. {{ cite newsgroup |title=New Project: Kool Desktop Environment (KDE)
     |url=<http://groups.google.com/group/de.comp.os.linux.misc/msg/cb4b2d67ffc3ffce>
     |first= Matthias |last=Ettrich |newsgroup= de.comp.os.linux.misc
-    |id=53tkvv$b4j@newsserv.zdv.uni-tuebingen.de |date=14 October 1996
+    |id=53tkvv$b4j@newsserv.zdv.uni-tuebingen.de |date=1996-10-14
     |accessdate=2006-12-29}}
 
 15.

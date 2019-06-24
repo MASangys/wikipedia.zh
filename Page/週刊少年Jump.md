@@ -30,9 +30,9 @@
 
 ### 1990年代
 
-連載《[-{zh-hans:灌篮高手;zh-tw:灌籃高手;zh-hk:男兒當入樽}-](https://zh.wikipedia.org/wiki/灌篮高手 "wikilink")》、《[幽遊白書](https://zh.wikipedia.org/wiki/幽遊白書 "wikilink")》大流行。1991年，發行銷量突破600萬本。當年連載的作品有《[花之慶次](../Page/花之慶次.md "wikilink")》（1990年～）、《[靈異教師神眉](https://zh.wikipedia.org/wiki/靈異教師神眉 "wikilink")》、《[忍空](../Page/忍空.md "wikilink")》、《[幸運超人](https://zh.wikipedia.org/wiki/幸運超人 "wikilink")》（1993年～1997年）、《[-{zh-hans:浪客剑心;zh-tw:神劍闖江湖;zh-hk:浪客劍心}-](../Page/浪客剑心.md "wikilink")》、《[熱鬥小馬](../Page/熱鬥小馬.md "wikilink")》（1994年～1998年）。
+連載《[-{zh-hans:灌篮高手;zh-tw:灌籃高手;zh-hk:男兒當入樽}-](../Page/灌篮高手.md "wikilink")》、《[幽遊白書](https://zh.wikipedia.org/wiki/幽遊白書 "wikilink")》大流行。1991年，發行銷量突破600萬本。當年連載的作品有《[花之慶次](../Page/花之慶次.md "wikilink")》（1990年～）、《[靈異教師神眉](https://zh.wikipedia.org/wiki/靈異教師神眉 "wikilink")》、《[忍空](../Page/忍空.md "wikilink")》、《[幸運超人](https://zh.wikipedia.org/wiki/幸運超人 "wikilink")》（1993年～1997年）、《[-{zh-hans:浪客剑心;zh-tw:神劍闖江湖;zh-hk:浪客劍心}-](../Page/浪客剑心.md "wikilink")》、《[熱鬥小馬](../Page/熱鬥小馬.md "wikilink")》（1994年～1998年）。
 
-發行銷量1995年3-4號653萬本最高紀錄達成。1996年27號《[-{zh-hans:灌篮高手;zh-tw:灌籃高手;zh-hk:男兒當入樽}-](https://zh.wikipedia.org/wiki/灌篮高手 "wikilink")》連載結束。
+發行銷量1995年3-4號653萬本最高紀錄達成。1996年27號《[-{zh-hans:灌篮高手;zh-tw:灌籃高手;zh-hk:男兒當入樽}-](../Page/灌篮高手.md "wikilink")》連載結束。
 
 從1996年開始的發行量減少，到1997年減少至約230萬，也被稱作週刊少年Jump的黑暗期。在這段期間由《[-{zh-hans:浪客剑心;zh-tw:神劍闖江湖;zh-hk:浪客劍心}-](../Page/浪客剑心.md "wikilink")》、《[封神演義](../Page/封神演義_\(漫畫\).md "wikilink")》等作品支撐整個週刊的銷售量，成為這個時期的代表作。另一方面《[遊戲王](../Page/遊戲王.md "wikilink")》（1996年～）《[ONE
 PIECE](../Page/ONE_PIECE.md "wikilink")》（1997年～）、《[獵人](https://zh.wikipedia.org/wiki/獵人_\(動漫\) "wikilink")》（1998年～）、《[火影忍者](../Page/火影忍者.md "wikilink")》（1999年～2014年）等熱門少年漫畫開始連載。這些作品成為2000年代的Jump週刊的代表性角色。
@@ -51,7 +51,7 @@ DANCE](../Page/SKET_DANCE.md "wikilink")》（2007～2013年）、《[妖怪少�
 
 ### 2010年代
 
-而《[影子籃球員](https://zh.wikipedia.org/wiki/影子籃球員 "wikilink")》（2009年～2014年）、《[惡魔奶爸](../Page/惡魔奶爸.md "wikilink")》（2009年～2014年）、《[偽戀](../Page/偽戀.md "wikilink")》（2011年～2016年）、《[排球少年\!\!](https://zh.wikipedia.org/wiki/排球少年!! "wikilink")》（2012年～）《[齊木楠雄的Ψ難](https://zh.wikipedia.org/wiki/齊木楠雄的Ψ難 "wikilink")》（2012年～2018年）、《[暗殺教室](https://zh.wikipedia.org/wiki/暗殺教室 "wikilink")》（2012年～2016年）、《[食戟之靈](https://zh.wikipedia.org/wiki/食戟之靈 "wikilink")》（2012年～）、《[境界觸發者](../Page/境界觸發者.md "wikilink")》（2013年～）、《[我的英雄學院](../Page/我的英雄學院.md "wikilink")》（2014年～）、《[黑色五葉草](https://zh.wikipedia.org/wiki/黑色五葉草 "wikilink")》（2015年～）被稱作強勢新生代的中軸。
+而《[影子籃球員](https://zh.wikipedia.org/wiki/影子籃球員 "wikilink")》（2009年～2014年）、《[惡魔奶爸](../Page/惡魔奶爸.md "wikilink")》（2009年～2014年）、《[偽戀](../Page/偽戀.md "wikilink")》（2011年～2016年）、《[排球少年\!\!](https://zh.wikipedia.org/wiki/排球少年!! "wikilink")》（2012年～）《[齊木楠雄的Ψ難](https://zh.wikipedia.org/wiki/齊木楠雄的Ψ難 "wikilink")》（2012年～2018年）、《[暗殺教室](https://zh.wikipedia.org/wiki/暗殺教室 "wikilink")》（2012年～2016年）、《[食戟之靈](https://zh.wikipedia.org/wiki/食戟之靈 "wikilink")》（2012年～2019年）、《[境界觸發者](../Page/境界觸發者.md "wikilink")》（2013年～）、《[我的英雄學院](../Page/我的英雄學院.md "wikilink")》（2014年～）、《[黑色五葉草](https://zh.wikipedia.org/wiki/黑色五葉草 "wikilink")》（2015年～）被稱作強勢新生代的中軸。
 
 JUMP多部知名大作（[暗殺教室](https://zh.wikipedia.org/wiki/暗殺教室 "wikilink")、[偽戀](../Page/偽戀.md "wikilink")、[BLEACH](../Page/BLEACH.md "wikilink")、[烏龍派出所](../Page/烏龍派出所.md "wikilink")、[美食獵人](https://zh.wikipedia.org/wiki/美食獵人 "wikilink")）都陸續的結束連載。
 
@@ -180,16 +180,6 @@ NEXT》連載數集完結篇，緩和爛尾的問題，除此之外還有許多�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/BORUTO-火影新世代-NARUTO_NEXT_GENERATIONS-" title="wikilink">-{zh-hant:BORUTO-火影新世代-<br />
-NARUTO NEXT GENERATIONS-;zh-hans:博人传-火影次世代}-</a></p></td>
-<td></td>
-<td><p><a href="../Page/池本幹雄.md" title="wikilink">池本幹雄</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/岸本齊史" title="wikilink">岸本齊史</a><br />
-</p></td>
-<td><p>2016年23號</p></td>
-<td><p>每月一話連載</p></td>
-</tr>
-<tr class="odd">
 <td><p><a href="../Page/約定的夢幻島.md" title="wikilink">約定的夢幻島</a></p></td>
 <td></td>
 <td></td>
@@ -197,7 +187,7 @@ NARUTO NEXT GENERATIONS-;zh-hans:博人传-火影次世代}-</a></p></td>
 <td><p>2016年35號</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/我們真的學不來！.md" title="wikilink">我們真的學不來！</a></p></td>
 <td></td>
 <td></td>
@@ -205,7 +195,7 @@ NARUTO NEXT GENERATIONS-;zh-hans:博人传-火影次世代}-</a></p></td>
 <td><p>2017年10號</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/Dr.STONE_新石紀.md" title="wikilink">Dr.STONE 新石紀</a></p></td>
 <td></td>
 <td><p><a href="../Page/Boichi.md" title="wikilink">Boichi</a></p></td>
@@ -213,7 +203,7 @@ NARUTO NEXT GENERATIONS-;zh-hans:博人传-火影次世代}-</a></p></td>
 <td><p>2017年14號</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/演員夜凪景_act-age.md" title="wikilink">act-age 新世代演員</a></p></td>
 <td></td>
 <td></td>
@@ -221,7 +211,7 @@ NARUTO NEXT GENERATIONS-;zh-hans:博人传-火影次世代}-</a></p></td>
 <td><p>2018年8號</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/咒術迴戰.md" title="wikilink">咒術迴戰</a></p></td>
 <td></td>
 <td><p>芥見下下</p></td>
@@ -229,7 +219,7 @@ NARUTO NEXT GENERATIONS-;zh-hans:博人传-火影次世代}-</a></p></td>
 <td><p>2018年14號</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -237,7 +227,7 @@ NARUTO NEXT GENERATIONS-;zh-hans:博人传-火影次世代}-</a></p></td>
 <td><p>2019年01號</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/最後的西遊記" title="wikilink">最後的西遊記</a></p></td>
 <td></td>
 <td></td>
@@ -245,7 +235,7 @@ NARUTO NEXT GENERATIONS-;zh-hans:博人传-火影次世代}-</a></p></td>
 <td><p>2019年14號</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/梳扎頭髮的神緒結衣" title="wikilink">梳扎頭髮的神緒結衣</a></p></td>
 <td></td>
 <td><p><a href="../Page/椎橋寬.md" title="wikilink">椎橋寬</a></p></td>
@@ -253,7 +243,7 @@ NARUTO NEXT GENERATIONS-;zh-hans:博人传-火影次世代}-</a></p></td>
 <td><p>2019年15號</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/SAMURAI8～機侍_八丸傳" title="wikilink">SAMURAI8～機侍 八丸傳</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/大久保彰" title="wikilink">大久保彰</a></p></td>
@@ -261,7 +251,7 @@ NARUTO NEXT GENERATIONS-;zh-hans:博人传-火影次世代}-</a></p></td>
 <td><p>2019年24號</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/福田健太郎" title="wikilink">福田健太郎</a></p></td>
@@ -269,7 +259,7 @@ NARUTO NEXT GENERATIONS-;zh-hans:博人传-火影次世代}-</a></p></td>
 <td><p>2019年25號</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/Beast_Children" title="wikilink">Beast Children</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/寺坂研人" title="wikilink">寺坂研人</a></p></td>
@@ -277,7 +267,7 @@ NARUTO NEXT GENERATIONS-;zh-hans:博人传-火影次世代}-</a></p></td>
 <td><p>2019年26號</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/東京忍者小隊" title="wikilink">東京忍者小隊</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/松浦健人" title="wikilink">松浦健人</a></p></td>

@@ -2,20 +2,20 @@
 
 ## 事故概述
 
-事故發生地點位於JR西日本福知山線上[塚口與](https://zh.wikipedia.org/wiki/塚口站 "wikilink")[尼崎間](../Page/尼崎站_\(JR西日本\).md "wikilink")，一個位於[兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")[尼崎市久久知](../Page/尼崎市.md "wikilink")（<span lang="ja">久々知</span>），塚口以南約1公里的彎道區間上（彎位曲線半徑304公尺）。一列由[寶塚駛往](https://zh.wikipedia.org/wiki/寶塚車站 "wikilink")[同志社前](https://zh.wikipedia.org/wiki/同志社前站 "wikilink")（[JR東西線](../Page/JR東西線.md "wikilink")，別稱「JR學研都市線」）的上行[快速電車](https://zh.wikipedia.org/wiki/快速電車 "wikilink")（車型為[JR西日本207系0·1000番台](../Page/JR西日本207系電力動車組.md "wikilink")，七節車廂編組，班次代號5418M，之後班次代號停用）在行經該路段時，前五節車廂突然出軌，其中二節甚至撞擊鐵路旁9層樓公寓大樓一樓室內停車場的外部結構，[不鏽鋼製車廂嚴重變形](../Page/不鏽鋼.md "wikilink")，車內乘客傷亡慘重。截至4月28日下午現場的搜救工作結束為止，共有107人死亡（包括23歲的[司機高見隆二郎](https://zh.wikipedia.org/wiki/司機 "wikilink")，死者中有59人為[男性](../Page/男性.md "wikilink")，48人為[女性](../Page/女性.md "wikilink")），562人受傷。
+事故發生地點位於JR西日本福知山線上[塚口與](https://zh.wikipedia.org/wiki/塚口站 "wikilink")[尼崎間](../Page/尼崎站_\(JR西日本\).md "wikilink")，一個位於[兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")[尼崎市久久知](../Page/尼崎市.md "wikilink")（<span lang="ja">久々知</span>），塚口以南約1公里的彎道區間上（彎位曲線半徑304公尺）。一列由[寶塚駛往](https://zh.wikipedia.org/wiki/寶塚車站 "wikilink")[同志社前](https://zh.wikipedia.org/wiki/同志社前站 "wikilink")（[JR東西線](../Page/JR東西線.md "wikilink")，別稱「JR學研都市線」）的上行[快速電車](https://zh.wikipedia.org/wiki/快速電車 "wikilink")（車型為[JR西日本207系0·1000番台](../Page/JR西日本207系電力動車組.md "wikilink")，七節車廂編組，班次代號5418M，之後班次代號停用）在行經該路段時，前五節車廂突然出軌，其中二節甚至撞擊鐵路旁9層樓公寓大樓一樓室內停車場的外部結構，不鏽鋼製車廂嚴重變形，車內乘客傷亡慘重。截至4月28日下午現場的搜救工作結束為止，共有107人死亡（包括23歲的司機高見隆二郎，死者中有59人為男性，48人為女性），562人受傷。
 
 肇事列車是一列混編列車，由前面的四節車廂與後面的三節車廂組成，預計在中途的[京田邊分離](https://zh.wikipedia.org/wiki/京田邊站 "wikilink")。列車從行駛方向數去的前四節車廂（207型0番台）與後三節車廂（207型1000番台）是不同時期製造，其中較新穎的後三節車廂最前端（也就是列車的第五節車廂）上，裝置有一個能在緊急煞車系統啟動5秒後開始紀錄電車速度的「監視控制器」（）。根據[國土交通省](../Page/國土交通省.md "wikilink")[航空與鐵道事故調查委員會事後分析控制器裡面的速度紀錄](../Page/航空、鐵道事故調查委員會_\(日本\).md "wikilink")，得知第五節車廂在出軌事件發生當時的車速曾高達每小時108公里，而到達事發地點前，肇事電車以時速120公里通過前一站的[塚口](https://zh.wikipedia.org/wiki/塚口站 "wikilink")，並以時速116公里通過失事彎道。
 
-列車出軌後，一號車廂立即翻倒撞進[鐵路旁公寓大樓一樓的](../Page/鐵路.md "wikilink")中，而二號車廂則是以車側橫撞上建築物卡在外壁上，並且被隨後追撞上來的三號車廂擠壓成「L」字形嚴重受損。由於撞進停車場中的一號車廂也撞及部分停在建物裡的[汽車導致車輛漏油](https://zh.wikipedia.org/wiki/汽車 "wikilink")，為避免引發火災，搜救人員不敢隨意動用[噴焊槍或](https://zh.wikipedia.org/wiki/噴焊槍 "wikilink")[電鋸之類的設備](https://zh.wikipedia.org/wiki/電鋸 "wikilink")，因而提升了救援作業的困難度。搜救人員從三號車開始依序將車廂切開救出裡面受困的乘客，在24小時不停休的搶救之下，搜救工作於3天後的4月28日下午，在尋獲被卡在列車最前端年輕司機的遺體後，宣告結束。
+列車出軌後，一號車廂立即翻倒撞進鐵路旁公寓大樓一樓的中，而二號車廂則是以車側橫撞上建築物卡在外壁上，並且被隨後追撞上來的三號車廂擠壓成「L」字形嚴重受損。由於撞進停車場中的一號車廂也撞及部分停在建物裡的汽車導致車輛漏油，為避免引發火災，搜救人員不敢隨意動用[噴焊槍或](https://zh.wikipedia.org/wiki/噴焊槍 "wikilink")[電鋸之類的設備](https://zh.wikipedia.org/wiki/電鋸 "wikilink")，因而提升了救援作業的困難度。搜救人員從三號車開始依序將車廂切開救出裡面受困的乘客，在24小時不停休的搶救之下，搜救工作於3天後的4月28日下午，在尋獲被卡在列車最前端年輕司機的遺體後，宣告結束。
 
 事故發生時，下行方向(與涉事列車相反方向)有一列從新大阪開往城崎溫泉站的特急列車「[北近畿3號](https://zh.wikipedia.org/wiki/北近畿號列車 "wikilink")」接近現場，居民按下平交道的緊急按鈕，使得該列車司機員察覺而在100米外緊急停車，避免了二次事故。
 
-由於遭列車撞擊的建築物有倒塌的危險，因此JR西日本安排受影響的42戶人家暫時入住[旅館避難](https://zh.wikipedia.org/wiki/旅館 "wikilink")。
+由於遭列車撞擊的建築物有倒塌的危險，因此JR西日本安排受影響的42戶人家暫時入住旅館避難。
 
-此事故震驚日本國內及海外，成為了不少傳媒報章的頭條。[法國總統](https://zh.wikipedia.org/wiki/法國 "wikilink")[-{zh-hans:希拉克;
+此事故震驚日本國內及海外，成為了不少傳媒報章的頭條。法國總統[-{zh-hans:希拉克;
 zh-hant:席哈克;}-](https://zh.wikipedia.org/wiki/希拉克 "wikilink")、[德國外長](https://zh.wikipedia.org/wiki/德國 "wikilink")[-{zh-hans:菲舍尔;
 zh-hant:費雪;}-](https://zh.wikipedia.org/wiki/約書卡·費雪 "wikilink")、[美國國務卿](https://zh.wikipedia.org/wiki/美國國務卿 "wikilink")[-{zh-hans:赖斯;
-zh-hant:萊斯;}-及](https://zh.wikipedia.org/wiki/康多莉扎·賴斯 "wikilink")[中國駐日大使](../Page/中國.md "wikilink")[王毅均對日本政府就事件表示慰問](../Page/王毅.md "wikilink")。
+zh-hant:萊斯;}-及中國駐日大使](https://zh.wikipedia.org/wiki/康多莉扎·賴斯 "wikilink")[王毅均對日本政府就事件表示慰問](../Page/王毅.md "wikilink")。
 
 ## 原因
 

@@ -19,7 +19,7 @@
 在[威爾斯語裡](https://zh.wikipedia.org/wiki/威爾斯語 "wikilink")，**ll**
 代表一種[清齒齦邊擦音](../Page/清齒齦邊擦音.md "wikilink")，國際音標將它拼為一個帶有結的
 l（），這個音在許多地名中都會出現，因為威爾斯語的 *llan* 正是「教堂」的意思（如
-*Llanelli*「聖艾利[教堂](../Page/教堂.md "wikilink")」），也因此這些地名常很糟糕地被英語使用者發錯，尤其是那些不是住在[英國本島的人](https://zh.wikipedia.org/wiki/英國 "wikilink")。\[1\]
+*[Llanelli](https://zh.wikipedia.org/wiki/拉內利 "wikilink")*「聖艾利[教堂](../Page/教堂.md "wikilink")」），也因此這些地名常很糟糕地被英語使用者發錯，尤其是那些不是住在[英國本島的人](https://zh.wikipedia.org/wiki/英國 "wikilink")。\[1\]
 
 ## 其它語言
 

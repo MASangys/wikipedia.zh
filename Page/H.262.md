@@ -1,0 +1,18 @@
+| released = | latest_release_version = | latest_release_date = |
+genre = [Video compression
+format](https://zh.wikipedia.org/wiki/Video_compression_format "wikilink")
+| contained_by = | extended_from =
+[H.261](../Page/H.261.md "wikilink"), [MPEG-1
+Video](../Page/MPEG-1.md "wikilink") | extended_to =
+[H.263](../Page/H.263.md "wikilink"), [MPEG-4
+Visual](https://zh.wikipedia.org/wiki/MPEG-4_Visual "wikilink") |
+standards = ISO/IEC {{\#statements:ISO standard}},  | free = Yes | url =
+{{\#statements:official website}} }} **H.262**
+是[ITU-T的一个](https://zh.wikipedia.org/wiki/ITU-T "wikilink")[数字视频编码标准](../Page/数字视频.md "wikilink")，属于[视频编解码器](../Page/视频编解码器.md "wikilink")。H.262在技术内容上和[ISO](https://zh.wikipedia.org/wiki/ISO "wikilink")／[IEC的](https://zh.wikipedia.org/wiki/IEC "wikilink")[MPEG-2视频标准](../Page/MPEG-2.md "wikilink")（正式名称是ISO/IEC
+13818-2）一致。
+
+H.262是由[ITU-T的](https://zh.wikipedia.org/wiki/ITU-T "wikilink")[VCEG组织和](https://zh.wikipedia.org/wiki/VCEG "wikilink")[ISO](https://zh.wikipedia.org/wiki/ISO "wikilink")／[IEC的](https://zh.wikipedia.org/wiki/IEC "wikilink")[MPEG组织联合制定的](../Page/MPEG.md "wikilink")，所以制定完成后分别成为了两个组织的标准，正式名称是"ITU-T建议H.262"和"ISO/IEC
+13818-2"。这两个标准在所有的文字叙述上都是相同的（也许除了封面和标价之外）。大家所熟知的DVD就是采用了该技术。
+
+[Category:视频编解码器](https://zh.wikipedia.org/wiki/Category:视频编解码器 "wikilink")
+[Category:ITU-T标准](https://zh.wikipedia.org/wiki/Category:ITU-T标准 "wikilink")

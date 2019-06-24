@@ -85,5 +85,6 @@ Express产品](https://zh.wikipedia.org/wiki/XNA_Game_Studio_Express "wikilink")
 
   - [F\#](http://www.fsharp.net)
 
+[Category:微软研究院](https://zh.wikipedia.org/wiki/Category:微软研究院 "wikilink")
 [Category:.NET编程语言](https://zh.wikipedia.org/wiki/Category:.NET编程语言 "wikilink")
 [Category:ML語言家族](https://zh.wikipedia.org/wiki/Category:ML語言家族 "wikilink")

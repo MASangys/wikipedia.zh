@@ -37,9 +37,9 @@ Mojave于](https://zh.wikipedia.org/wiki/macOS_Mojave "wikilink")2018年9月25�
 它以[Mach](../Page/Mach.md "wikilink")[內核為基礎](../Page/内核.md "wikilink")，加入[UNIX的](../Page/UNIX.md "wikilink")[BSD實作](../Page/BSD.md "wikilink")，再整合到[NeXTSTEP當中](../Page/NeXTSTEP.md "wikilink")（NeXTSTEP為當時[史蒂夫·喬布斯](https://zh.wikipedia.org/wiki/史蒂夫·喬布斯 "wikilink")（Steve
 Jobs）於1985年被迫離開蘋果後，到[NeXT公司所發展的](../Page/NeXT.md "wikilink")）。\[4\]
 
-同時，蘋果電腦企圖創造一個獨家擁有的「新世代」作業系統，但只有少部份成功。最後NeXT的作業系統（在當時稱作[NeXTSTEP](../Page/NeXTSTEP.md "wikilink")）被選為蘋果下個作業系統的基礎形式，然後蘋果電腦將NeXT全部買下來，並重新聘僱喬布斯。
+同時，蘋果電腦企圖創造一個獨家擁有的「新世代」作業系統，但只有少部份成功。最後[NeXT的作業系統](../Page/NeXT.md "wikilink")（在當時稱作[NeXTSTEP](../Page/NeXTSTEP.md "wikilink")）被選為蘋果下個作業系統的基礎形式，然後蘋果電腦將[NeXT全部買下來](../Page/NeXT.md "wikilink")，並重新聘僱喬布斯。
 
-喬布斯重回蘋果的領導階層後，帶領著蘋果公司把原本傾向便利程式設計師的OPENSTEP，轉換到蘋果電腦主要銷售的家用市場，以及受到專業人士歡迎的[Rhapsody系統上](../Page/Rhapsody.md "wikilink")。經歷過打擊Mac
+喬布斯重回蘋果的領導階層後，帶領著蘋果公司把原本傾向便利程式設計師的[OPENSTEP](https://zh.wikipedia.org/wiki/OPENSTEP "wikilink")，轉換到蘋果電腦主要銷售的家用市場，以及受到專業人士歡迎的[Rhapsody系統上](../Page/Rhapsody.md "wikilink")。經歷過打擊Mac
 OS獨立開發者忠誠度的失算策略、Mac OS 9轉換到新系統，減輕轉變之後，Rhapsody演化為macOS。
 
 ## 描述
@@ -512,6 +512,20 @@ Intel 64</p></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/macOS_Catalina" title="wikilink">macOS 10.15</a></p></td>
+<td><p>Catalina<br />
+(圣卡塔利娜岛)</p></td>
+<td><p>2019年6月</p></td>
+<td><p>2019年6月</p></td>
+<td><p>10.15 (19A471t)<br />
+(2019年6月)</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>版本</p></td>
 <td><p>代號</p></td>
 <td><p>固件支援</p></td>
@@ -523,7 +537,7 @@ Intel 64</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Boot_Camp" title="wikilink">Boot Camp</a></p></td>
 <td><p>宣布日期</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>CPU架構</p></td>
 <td></td>
 <td></td>
@@ -737,6 +751,8 @@ App Store](../Page/Mac_App_Store.md "wikilink")、Continuity
 多裝置無縫連結、提升Mac安全性，Metal讓Mac在執行3D遊戲時更為順暢、Create
 ML開發人員工具，而APFS亦在此版本macOS正式支援Fusion
 Drive。[WWDC](https://zh.wikipedia.org/wiki/WWDC "wikilink")2018首日2018年6月4日发布了首个开发者测试版，正式版已於2018年9月25日發佈\[16\]。
+
+#### macOS 10.15 Catalina
 
 ## Unix認證
 

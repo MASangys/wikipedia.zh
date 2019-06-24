@@ -43,7 +43,7 @@
 <p>O型</p>
 </div></td>
 <td><div style="text-align: center;">
-<p><strong>隊長</strong> -新聞節目主播（News Caste）</p>
+<p><strong>隊長</strong> -新聞節目主播（News Caster）</p>
 </div></td>
 </tr>
 <tr class="odd">
@@ -144,7 +144,7 @@
 <p>A型</p>
 </div></td>
 <td><div style="text-align: center;">
-<p>2003年12月退社以及退团NEWS，現為日本樂團<a href="https://zh.wikipedia.org/wiki/ONE_OK_ROCK" title="wikilink">ONE OK ROCK的主唱</a></p>
+<p>2003年12月退社以及退团NEWS，現為日本樂團<a href="../Page/ONE_OK_ROCK.md" title="wikilink">ONE OK ROCK的主唱</a></p>
 </div></td>
 </tr>
 <tr class="odd">

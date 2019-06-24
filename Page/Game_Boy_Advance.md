@@ -48,7 +48,7 @@ Boy Micro
 
 ## 遊戲
 
-  - [精灵宝可梦](https://zh.wikipedia.org/wiki/精灵宝可梦 "wikilink")
+  - [精灵宝可梦](../Page/精灵宝可梦.md "wikilink")
   - [薩爾達傳說](https://zh.wikipedia.org/wiki/薩爾達傳說 "wikilink")
   - [-{zh-hans:马里奥;zh-hant:瑪利歐}-](https://zh.wikipedia.org/wiki/瑪俐歐 "wikilink")
   - [火焰之纹章](https://zh.wikipedia.org/wiki/火焰之纹章 "wikilink")

@@ -76,6 +76,7 @@ BayStars）**，是一支隸屬[日本職棒](https://zh.wikipedia.org/wiki/日�
   - [橫濱海灣之星官方網站](http://www.baystars.co.jp/index.php)
 
 [Category:紀錄模板](https://zh.wikipedia.org/wiki/Category:紀錄模板 "wikilink")
+[Category:橫濱DeNA海灣之星](https://zh.wikipedia.org/wiki/Category:橫濱DeNA海灣之星 "wikilink")
 [Category:日本職棒球隊](https://zh.wikipedia.org/wiki/Category:日本職棒球隊 "wikilink")
 [Category:中區_(橫濱市)](https://zh.wikipedia.org/wiki/Category:中區_\(橫濱市\) "wikilink")
 [Category:1950年建立](https://zh.wikipedia.org/wiki/Category:1950年建立 "wikilink")

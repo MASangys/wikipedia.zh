@@ -5,11 +5,7 @@ RealPlayer的第一個版本在1995年4月面世，是[互聯網上首個](https
 G2」，第9版改名為「RealOne Player」，第12版改名為「RealPlayer
 SP」。RealPlayer一直以來都為客戶提供兩個不同的版本：分別為免費的基本版和需付費的Plus高級版，付費版本提供額外的功能。在14版，RealPlayer新增一個「捆綁服務」（SuperPass），是整合基本版和Plus高級版的一項服務，有提供14天的免費體驗，但需要註冊RealNetworks的帳戶。此外，在Windows推出的第9版曾附載有[RealJukebox](https://zh.wikipedia.org/wiki/RealJukebox "wikilink")。
 
-RealPlayer第11版的Windows版本在[2007年11月推出](../Page/2007年11月.md "wikilink")，而[Mac
-OS
-X則遲至](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[2008年5月才推出](../Page/2008年5月.md "wikilink")。此外，現時RealPlayer在以下各個平台皆有播放版本：[Mac
-OS
-X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")、[Linux](../Page/Linux.md "wikilink")、[Unix](https://zh.wikipedia.org/wiki/Unix "wikilink")、[Palm
+RealPlayer第11版的Windows版本在[2007年11月推出](../Page/2007年11月.md "wikilink")，而[macOS則遲至](https://zh.wikipedia.org/wiki/macOS "wikilink")[2008年5月才推出](../Page/2008年5月.md "wikilink")。此外，現時RealPlayer在以下各個平台皆有播放版本：[macOS](https://zh.wikipedia.org/wiki/macOS "wikilink")、[Linux](../Page/Linux.md "wikilink")、[Unix](https://zh.wikipedia.org/wiki/Unix "wikilink")、[Palm
 OS](../Page/Palm_OS.md "wikilink")、[Windows
 Mobile](../Page/Windows_Mobile.md "wikilink")、[Symbian
 OS及](https://zh.wikipedia.org/wiki/Symbian_OS "wikilink")[Android](../Page/Android.md "wikilink")\[3\]。有指程式是以一個開源軟體[Helix作為其核心](https://zh.wikipedia.org/wiki/Helix_project "wikilink")\[4\]，但亦有指-{只}-有Linux版本才是使用Helix架構。而從RealPlayer
@@ -115,22 +111,20 @@ RealPlayer备有很广阔功能的插件。这些插件的部份会在RealPlayer
 
 ### Windows版本的RealPlayer
 
-### Mac OS X的RealPlayer
+### macOS的RealPlayer
 
-RealPlayer的Mac OS
-X版本的用戶界面是一個從新開發的[Cocoa程序](../Page/Cocoa.md "wikilink")。它既包括了用于解码Real
-Audio和Real Audio的Real Helix回放引擎，也包括了对其它文件和流媒体进行解码的苹果公司的Quick Time。Mac OS
-X系统的RealPlayer
+RealPlayer的macOS版本的用戶界面是一個從新開發的[Cocoa程序](../Page/Cocoa.md "wikilink")。它既包括了用于解码Real
+Audio和Real Audio的Real Helix回放引擎，也包括了对其它文件和流媒体进行解码的苹果公司的Quick
+Time。macOS系统的RealPlayer
 10是免费发放的。它包括了十段均衡器和用于RealMedia回放调整的视频控制工具，一个用于视频回放的全屏、可重调大小的“剧院模式”，还有许多其它在Windows版所拥有的功能。
 
-用于Mac OS
-X系统的RealPlayer通过苹果的[WebKit浏览网络](../Page/WebKit.md "wikilink")，这意味着RealPlayer和[Safari共享cookies](../Page/Safari.md "wikilink")。RealPlayer
+用于macOS系统的RealPlayer通过苹果的[WebKit浏览网络](../Page/WebKit.md "wikilink")，这意味着RealPlayer和[Safari共享cookies](../Page/Safari.md "wikilink")。RealPlayer
 10.1是一个[Universal
 binary程序](https://zh.wikipedia.org/wiki/Universal_binary "wikilink")。
 
 RealPlayer提供一个[AppleScript词典和通过](../Page/AppleScript.md "wikilink")[Bonjour分享的本地资源共享](https://zh.wikipedia.org/wiki/Bonjour_\(software\) "wikilink")。
 
-现在Mac OS X上运行的稳定版本是第11版。
+现在macOS上运行的稳定版本是第11版。
 
 ### Linux/Unix版的RealPlayer
 

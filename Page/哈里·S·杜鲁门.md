@@ -11,7 +11,7 @@ you can't stand the heat, get out of the kitchen.）\[1\]\[2\]
 ## 家庭背景
 
 [Harry-S-Truman-82-152.jpg](https://zh.wikipedia.org/wiki/File:Harry-S-Truman-82-152.jpg "fig:Harry-S-Truman-82-152.jpg")
-1884年5月8日，杜魯門出生於[密苏里州](../Page/密蘇里州.md "wikilink")[拉马尔](https://zh.wikipedia.org/wiki/拉马尔_\(密苏里州\) "wikilink")，是-{zh-hans:约翰·安德森·杜鲁门;
+1884年5月8日，杜魯門出生於[密苏里州](../Page/密蘇里州.md "wikilink")[拉马尔](../Page/拉马尔_\(密苏里州\).md "wikilink")，是-{zh-hans:约翰·安德森·杜鲁门;
 zh-hk:約翰·安德遜·杜魯門;}-（John Anderson Truman）和-{zh-hans:马莎·埃伦·扬·杜鲁门;
 zh-hk:瑪莎·艾倫·楊·杜魯門;}-（Martha Ellen Young
 Truman）的長子。杜魯門有一个弟弟和一个妹妹，分別叫-{zh-hans:约翰·维维安·杜鲁门;
@@ -210,7 +210,7 @@ zh-hk:華爾頓縣;}-附近被殺害](https://zh.wikipedia.org/wiki/沃尔顿县
 
 1949年8月5日，美國國務院發表《[中美關係白皮書](../Page/中美關係白皮書.md "wikilink")》，美國為辯護其對華靜觀政策。白皮書嚴詞批蔣，表示中華民國在國共內戰的失敗，是國民政府本身的領導問題，與美國無關，美國在戰後中國情勢已盡力而為，最後失敗應由國民黨負起全責。該書發表後，美國停止對中華民國軍事援助，但也不承認中共，嚴重打擊國府戰鬥士氣。
 
-不久，國民政府遷台，1950年1月5日（隔年），美國總統杜魯門於發表「不介入台灣海峽爭端」聲明。
+不久，國民政府遷台，美國總統杜魯門於1950年1月5日（隔年）發表「不介入台灣海峽爭端」聲明。
 
 另外，受民主黨传统[左翼思想影响](../Page/左派和右派.md "wikilink")，杜魯門对中國共產黨一度抱有幻想，认为中國共產黨具有[民族主义性质](https://zh.wikipedia.org/wiki/民族主义 "wikilink")，可以容纳[資本主義思想](https://zh.wikipedia.org/wiki/資本主義 "wikilink")，认为有可能将中華人民共和國拉出[苏联阵营](../Page/苏联.md "wikilink")，更试图在1949年與中華人民共和國建交。但1950年初，中国与苏联正式签订了新的《中苏友好同盟条约》，中国投入[苏联怀抱](../Page/苏联.md "wikilink")。1950年1月5日，杜魯門發表聲明，「美國將不以任何方式干預中國目前局勢，或進行足以使美國牽涉於中國內爭的措施。」美國不擬在中國使用武裝力量，不以任何方式干預中國內爭，不予國民政府軍事援助和勸告，但美國政府將繼續給國民政府有限經濟援助。\[30\]
 
@@ -385,7 +385,7 @@ Kefauver）的帶領下，對政府高級官員受賄進行調查，當中發現
 
   - ：包括在獨立城達拉威街219號的**華萊士大廈**和在密蘇里州格蘭威的**家族農場**。（但大部份的農地早已轉售他人發展）
 
-  - ：位於[密蘇里州](../Page/密蘇里州.md "wikilink")[拉馬爾](https://zh.wikipedia.org/wiki/拉马尔_\(密苏里州\) "wikilink")，杜魯門在那裡出生，曾在那裡小住了11個月。
+  - ：位於[密蘇里州](../Page/密蘇里州.md "wikilink")[拉馬爾](../Page/拉马尔_\(密苏里州\).md "wikilink")，杜魯門在那裡出生，曾在那裡小住了11個月。
 
   - [杜魯門圖書館及博物館](https://zh.wikipedia.org/wiki/杜魯門圖書館及博物館 "wikilink")：位於獨立城的[總統圖書館](https://zh.wikipedia.org/wiki/總統圖書館 "wikilink")。
 
@@ -428,7 +428,8 @@ Young）而起的，因此字母「S」同時代表了「施（普）」（Shipp
 
   - [布莱尔宾馆](../Page/布莱尔宫.md "wikilink")
 
-  -
+  - [1944年美國總統選舉](https://zh.wikipedia.org/wiki/1944年美國總統選舉 "wikilink")
+
   - [1948年美國總統選舉](https://zh.wikipedia.org/wiki/1948年美國總統選舉 "wikilink")
 
   - [美國歷史

@@ -52,21 +52,9 @@
 
 ## 歌曲列表
 
-1.  "Ring Ring" ([Stig
-    Anderson](https://zh.wikipedia.org/wiki/Stig_Anderson "wikilink")，Andersson,
-    Cody, Sedaka, Ulvaeus) - 3:03
-2.  "Another Town, Another Train" (Andersson, Ulvaeus) - 3:10
-3.  "Disillusion" (Faltskog, Ulvaeus) - 3:05
-4.  "People Need Love" (Andersson, Ulvaeus) - 2:43
-5.  "I Saw It in the Mirror" (Andersson, Ulvaeus) - 2:33
-6.  "Nina Pretty Ballerina" (Andersson, Ulvaeus) - 2:52
-7.  "Love Isn't Easy (But It Sure Is Hard Enough)" (Andersson, Ulvaeus)
-    - 2:52
-8.  "Me and Bobby and Bobby's Brother" (Andersson, Ulvaeus) - 2:49
-9.  "He Is Your Brother" (Andersson, Ulvaeus) - 3:17
-10. "She's My Kind of Girl" (Andersson, Ulvaeus) - 2:39
-11. "I Am Just a Girl" (Andersson, Anderson, Ulvaeus) - 3:02
-12. "Rock & Roll Band" (Andersson, Ulvaeus) - 3:07
+**備註**
+
+  - 所有再版皆維國際版曲目順序。
 
 ## 创作人员
 

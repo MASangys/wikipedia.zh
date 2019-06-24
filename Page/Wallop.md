@@ -64,6 +64,7 @@ Network）。登入後左上方頭像圓圈外將顯示好友雷達內情形，�
   - [MyWallop](https://web.archive.org/web/20100114211452/http://mywallop.com/)
   - [Wallop](https://web.archive.org/web/20100114154713/http://wallop.com/)
 
+[Category:微软研究院](https://zh.wikipedia.org/wiki/Category:微软研究院 "wikilink")
 [Category:社群網站](https://zh.wikipedia.org/wiki/Category:社群網站 "wikilink")
 [Category:虛擬社群](https://zh.wikipedia.org/wiki/Category:虛擬社群 "wikilink")
 [Category:微軟網站](https://zh.wikipedia.org/wiki/Category:微軟網站 "wikilink")

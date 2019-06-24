@@ -6,71 +6,12 @@ PIECE**」和成為「**海賊王**」的[故事](../Page/故事.md "wikilink")�
 
 ## 作品概述
 
-財富、名聲、勢力、擁有世界上的一切的[「海賊王」哥爾·D·羅傑在即將遭到處刑前說了一段話](../Page/哥爾·D·羅傑.md "wikilink")：「想要我的財寶嗎？想要的話可以全部給你。去找吧！我把所有的財寶都放在那裡」！後來世界上的人們將這個寶藏稱作「大秘寶」（ONE
-PIECE），為了爭奪大秘寶「ONE
-PIECE」，而先後爭相出海成為[海賊](https://zh.wikipedia.org/wiki/海賊 "wikilink")，因此造就了「大海賊時代」。主角蒙其·D·魯夫為了要實現與[“紅髮”傑克的約定而出海](https://zh.wikipedia.org/wiki/“紅髮”傑克 "wikilink")，在遙遠的路途上找尋著志同道合的夥伴，進入「偉大的航道」，目標是得到「ONE
-PIECE」與成為「海賊王」。
-
-本作品連載多年來以宏偉壯大的世界觀與精心設計的故事為特色，除了擁有熱血的冒險故事以及戰鬥，背後也涵蓋許多反諷元素及現實觀點，包括“[戰爭的殘酷](https://zh.wikipedia.org/wiki/戰爭 "wikilink")、種族[歧視問題](../Page/歧視.md "wikilink")、[世界政府的黑暗](https://zh.wikipedia.org/wiki/ONE_PIECE用語列表#世界政府 "wikilink")、人性善惡”……等；至於故事中龐大豐富的架空世界，含有許多[童話](../Page/童話.md "wikilink")、[神話和](https://zh.wikipedia.org/wiki/神話 "wikilink")[魔幻元素在其中](https://zh.wikipedia.org/wiki/魔幻 "wikilink")：[天空中夢幻的](../Page/天.md "wikilink")[神域](https://zh.wikipedia.org/wiki/神域 "wikilink")“[空島](../Page/空島.md "wikilink")”、充滿[夢魘的](https://zh.wikipedia.org/wiki/夢魘 "wikilink")“[魔鬼三角地帶](https://zh.wikipedia.org/wiki/魔鬼三角地帶 "wikilink")”、魚人及[人魚的](../Page/人魚.md "wikilink")[世界](../Page/世界.md "wikilink")“[魚人島](../Page/魚人島.md "wikilink")”、愛與激情的[玩具之國](../Page/玩具.md "wikilink")“[多雷斯羅薩](../Page/多雷斯羅薩.md "wikilink")”、[動物](https://zh.wikipedia.org/wiki/動物 "wikilink")[王國](../Page/王國.md "wikilink")“[佐烏](../Page/佐烏.md "wikilink")”、滿是甜食的國度“托特蘭王國”、[武士的國度](https://zh.wikipedia.org/wiki/武士 "wikilink")“[和之國](../Page/和之國.md "wikilink")”
-等，大部分敵人設定性格殘忍，不擇手段。
-
 在日本漫畫雜誌《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》中長期佔據人氣榜的第一名；單行本在日本以外，亦已有30多個[翻譯版本發行](https://zh.wikipedia.org/wiki/翻譯 "wikilink")2012年5月10日《ONE
 PIECE》成為日本[Oricon排行榜從](../Page/Oricon.md "wikilink")2008年4月開始統計漫畫銷量以來，在該榜中首個總銷量破億冊的漫畫\[1\]。目前全世界總發行量已經突破**4億3,000萬本**（2017年10月）。
 
 在2015年6月15日，[尾田榮一郎以本作品發行量打破世界紀錄](https://zh.wikipedia.org/wiki/尾田榮一郎 "wikilink")，獲得獲頒「單一作者創作發行量最多的漫畫」的[金氏世界紀錄](https://zh.wikipedia.org/wiki/金氏世界紀錄 "wikilink")\[2\]，尾田榮一郎獲得這獎項因此還畫了張魯夫拿著金氏世界紀錄的證書。
 
 改編的動畫於1999年[富士電視台播出大獲好評](../Page/富士電視台.md "wikilink")，也是[東映動畫製作動畫作品中時間最長的作品](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")。從2010年起，陸續與許多個[公司實施合作](../Page/公司.md "wikilink")，並在日本全國各地舉辦各種活動，也逐漸拓展在[日本海外國家及地區](../Page/日本.md "wikilink")（[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")、[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[香港等](../Page/香港.md "wikilink")）舉辦相關活動。
-
-## 歷史沿革
-
-  - 1996年，在《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》1996年41号和《[週刊少年Jump的增刊號](../Page/週刊少年Jump的增刊號.md "wikilink")》刊載本作的原型作品《[ROMANCE
-    DAWN](../Page/ONE_PIECE_ROMANCE_DAWN_STORY.md "wikilink")》。
-  - 1997年
-      - 7月22日，於《週刊少年Jump》1997年34号（8月4日號）正式連載開始。
-      - 12月，漫畫單行本第1冊出版发行。
-  - 1998年，初次动画作品《[打倒！海賊強薩克！](https://zh.wikipedia.org/wiki/ONE_PIECE_打倒！海贼强萨克！ "wikilink")》於[Jump
-    Festa放映](../Page/Jump_Festa.md "wikilink")。
-  - 1999年10月，由[東映動畫製作的同名电视动画版開始播放](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")。
-  - 2000年
-      - 3月，劇場版第1作《[黃金島大冒險](../Page/ONE_PIECE_黃金島大冒險.md "wikilink")》上映。
-      - 7月，第1個家用游戏《ONE PIECE 〜めざせ海賊王\!〜》发售。
-  - 2001年7月，第1本画集《ONE PIECE 尾田栄一郎画集 COLOR WALK》发售。
-  - 2002年7月，單行本第24冊的初版发行量漫畫最高紀錄初版252萬本（更新中）。
-  - 2005年2月，單行本累計發行量在日本漫畫歷史中最快超過1億冊（第36冊）。
-  - 2006年12月，《週刊少年Jump》2007年4·5合并号，刊載與[鳥山明](../Page/鳥山明.md "wikilink")《[龍珠](https://zh.wikipedia.org/wiki/龍珠 "wikilink")》的合作作品《CROSS
-    EPOCH》。
-  - 2007年7月，周刊少年JUMP增刊連載十週年舉辦慶祝活动。
-  - 2009年12月，劇場版第10作《[ONE PIECE FILM STRONG
-    WORLD](https://zh.wikipedia.org/wiki/ONE_PIECE_FILM_STRONG_WORLD "wikilink")》公映，為当時劇場版系列歴代最高的票房纪录：48億日元。
-  - 2010年
-      - 3月，單行本第57巻初版發行量日本出版史上最高纪錄初版300萬本（以後更新中）。
-      - 8月，《週刊少年Jump》2010年39號刊載的第597話原作第1部結束，到目前為止的故事用《生存之海
-        超新星篇》作為副標题。4週的休刊期間後，44號（10月4日發售）新篇章《最后之海
-        新世界篇》開始。
-      - 11月，單行本累計發行量超過2億冊（60巻）\[3\]。
-  - 2011年4月，《週刊少年Jump》2011年17号，与[島袋光年作](../Page/島袋光年.md "wikilink")《[美食的俘虏](https://zh.wikipedia.org/wiki/美食的俘虏 "wikilink")》的合作作品《开吃！恶魔果实！！》刊载。
-  - 2012年
-      - 3月，為記念連載15周年，初次举办展覧《尾田栄一郎監修 ONE PIECE展 〜原画×映像×体感的海贼王》。
-      - 12月，劇場版第12作《[ONE PIECE FILM
-        Z](https://zh.wikipedia.org/wiki/ONE_PIECE_FILM_Z "wikilink")》公映，為劇場版系列歴代最高的票房纪录：68.7億日元。
-  - 2013年
-      - 11月，單行本累計發行量超過3億冊（第72冊），為歷史上發行量最多的日本漫畫系列。
-      - 11月，尾田榮一郎公認的官方公式網站『ONE PIECE.com』正式啟動。
-  - 2014年
-      - 8月，電視動畫15周年特別篇《[ONE PIECE “3D2Y” 跨越艾斯之死\!
-        魯夫與夥伴的誓言](../Page/ONE_PIECE_“3D2Y”_跨越艾斯之死!_魯夫與夥伴的誓言.md "wikilink")》。空白的兩年的故事，魯夫經歷了什麼樣的艱苦霸氣修煉？
-      - 12月，單行本累計銷量已突破3億冊，改編成動畫後，木棉花推出『海賊王 航向2015』新年特別企劃。
-  - 2015年
-      - 8月，電視動畫製作啟動特別篇《[ONE PIECE 薩波特別篇 〜3兄弟的羈絆
-        奇跡的再會和被繼承的意志〜](../Page/ONE_PIECE_薩波特別篇_〜3兄弟的羈絆_奇跡的再會和被繼承的意志〜.md "wikilink")》。將從頂點戰爭的兩年後開始講起。
-      - 10月，「超級歌舞伎2 ONE PIECE」公演開幕。
-  - 2016年
-      - 7月，劇場版第13作《[ONE PIECE FILM
-        GOLD](../Page/ONE_PIECE_FILM_GOLD.md "wikilink")》公映。
-      - 11月，為了支援熊本地震災害，開始啟動熊本復興企劃實施中。
-  - 2017年
-      - 7月，本作品已達20周年，陸續推出20周年企畫的相關活動。
-      - 7月，為記念連載20周年、將連載開始日的7月22日設為「ONE PIECE日」。
 
 ## 劇情大綱
 
@@ -1828,7 +1769,7 @@ Switch</p></td>
 ### 真人版美劇
 
 隨著《ONE
-PIECE》漫畫連載20週年的來臨，於2017年7月21日宣布製作成美國電視劇\[4\]，由知名美劇《[越獄風雲](https://zh.wikipedia.org/wiki/越獄風雲 "wikilink")》導演馬蒂·阿德爾斯坦（[Marty
+PIECE》漫畫連載20週年的來臨，於2017年7月21日宣布製作成美國電視劇\[3\]，由知名美劇《[越獄風雲](https://zh.wikipedia.org/wiki/越獄風雲 "wikilink")》導演馬蒂·阿德爾斯坦（[Marty
 Adelstein](https://zh.wikipedia.org/wiki/Marty_Adelstein "wikilink")）所主導，製作公司為[好萊塢Tomorrow](https://zh.wikipedia.org/wiki/好萊塢 "wikilink")
 studios。
 
@@ -1987,39 +1928,39 @@ PIECE》粉絲，而今次集英社及作者尾田榮一郎將真人化的重任
 ### 其他
 
   -
-    於2015年3月13日開始在[東京鐵塔開辦的大型主題公園](https://zh.wikipedia.org/wiki/東京鐵塔 "wikilink")。公園內有許多設施，如每個角色主題的景點和商店/餐廳\[5\]。
+    於2015年3月13日開始在[東京鐵塔開辦的大型主題公園](https://zh.wikipedia.org/wiki/東京鐵塔 "wikilink")。公園內有許多設施，如每個角色主題的景點和商店/餐廳\[4\]。
 
 <!-- end list -->
 
   -
     活動期間為2015年7月18日至8月31日，在「お台場夢大陸〜 ドリームメガナツマツリ
     〜」在超技師人口隆重舉行與“團隊實驗室”合作。於2016年7月16日至7月31日，在LaLaport
-    Fujimi舉行\[6\]。
+    Fujimi舉行\[5\]。
 
 <!-- end list -->
 
   -
-    活動期間為2016年3月20日，在[沖繩縣](../Page/沖繩縣.md "wikilink")[北谷町舉辦的路跑活動](../Page/北谷町.md "wikilink")。最初是2015年5月在台灣舉行的反向企劃\[7\]。
+    活動期間為2016年3月20日，在[沖繩縣](../Page/沖繩縣.md "wikilink")[北谷町舉辦的路跑活動](../Page/北谷町.md "wikilink")。最初是2015年5月在台灣舉行的反向企劃\[6\]。
       - 官方網站：[ONE PIECE RUN in 沖繩](http://onepiece-run.jp/)
 
 <!-- end list -->
 
   -
-    活動期間為2016年4月29日至8月31日，在沖繩縣[恩納村](../Page/恩納村.md "wikilink")「琉球村」舉辦展覽。展示篇章為「推進城〜頂上戰爭篇」\[8\]。
+    活動期間為2016年4月29日至8月31日，在沖繩縣[恩納村](../Page/恩納村.md "wikilink")「琉球村」舉辦展覽。展示篇章為「推進城〜頂上戰爭篇」\[7\]。
 
 <!-- end list -->
 
   -
-    活動期間為2017年8月26日至10月18日，在馬來西亞·吉隆坡的伊勢丹舉辦的企畫展覽會\[9\]。後來於2018年4月28日至5月13日在日本國內的札幌市舉辦\[10\]。
+    活動期間為2017年8月26日至10月18日，在馬來西亞·吉隆坡的伊勢丹舉辦的企畫展覽會\[8\]。後來於2018年4月28日至5月13日在日本國內的札幌市舉辦\[9\]。
 
 <!-- end list -->
 
   -
     活動期間為2017年10月7日至10月22日，本次是《ONE
-    PIECE》連載20週年與日本京都市合作的紀念特展\[11\]\[12\]，並推出「ONE
+    PIECE》連載20週年與日本京都市合作的紀念特展\[10\]\[11\]，並推出「ONE
     PIECE ART NUE
-    大覺寺《魔獸與公主與誓言之花》」\[13\]\[14\]，近日並公開了將展出的日本畫一部分，由原作漫畫家尾田榮一郎所繪製的角色設定圖\[15\]。
-    這是「京都草帽一夥道中記～另一個和之國～」的特別篇故事\[16\]\[17\]，將以大覺寺作為舞台來設計整個展覽的故事。除此之外，還有《ONE
+    大覺寺《魔獸與公主與誓言之花》」\[12\]\[13\]，近日並公開了將展出的日本畫一部分，由原作漫畫家尾田榮一郎所繪製的角色設定圖\[14\]。
+    這是「京都草帽一夥道中記～另一個和之國～」的特別篇故事\[15\]\[16\]，將以大覺寺作為舞台來設計整個展覽的故事。除此之外，還有《ONE
     PIECE》與日本畫的合作，以水墨畫、繪卷等各種創作方式來呈現《航海王》的世界。
       - 官方網站：[航海王20th × KYOTO
         京都草帽一夥道中記～另一個和之國～](https://sp.shonenjump.com/j/op-20th-anniv/article/page_18.html)
@@ -2029,7 +1970,7 @@ PIECE》粉絲，而今次集英社及作者尾田榮一郎將真人化的重任
   -
     活動期間為2018年1月20日至2月25日（全90場公演），在劇場「DMM VR
     THEATER」上演，以全3D全息投影技術為應用方式來呈現出《ONE
-    PIECE》世界\[18\]\[19\]。本次故事為原創的劇本，並有新的惡魔果實能力者登場。
+    PIECE》世界\[17\]\[18\]。本次故事為原創的劇本，並有新的惡魔果實能力者登場。
       - 官方網站：[航海王戲劇舞台 THE METAL
         ～追憶的馬林福特～](https://vr-theater.dmm.com/schedule/onepiece-vr)
 
@@ -2037,7 +1978,7 @@ PIECE》粉絲，而今次集英社及作者尾田榮一郎將真人化的重任
 
   -
     活動期間為2018年8月12日至9月2日（全28場公演），在[東京國際論壇大樓上演全球首場的](https://zh.wikipedia.org/wiki/東京國際論壇大樓 "wikilink")「Brass
-    Entertainment」，以音樂和表演合為一體的新奇表演藝術體現方式來呈現出《ONE PIECE》世界\[20\]。「Brass
+    Entertainment」，以音樂和表演合為一體的新奇表演藝術體現方式來呈現出《ONE PIECE》世界\[19\]。「Brass
     Entertainment」指以銅管樂器和敲擊樂器為中心，樂隊成員會在台上邊奏邊跳，提供視聽的雙重享受。本次活動表演的是「東海篇」。
       - 官方網站：[航海王音宴 ～東海篇～](https://otoutage.com/)
 
@@ -2099,9 +2040,9 @@ PIECE》粉絲，而今次集英社及作者尾田榮一郎將真人化的重任
 
 在日本漫畫雜誌《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》中長期佔據人氣榜的第一名；單行本在日本以外，亦已有30多個翻譯版本發行
 2012年5月10日《ONE
-PIECE》成為日本[Oricon排行榜從](../Page/Oricon.md "wikilink")2008年4月開始統計漫畫銷量以來，在該榜中首個總銷量破億冊的漫畫\[21\]。
+PIECE》成為日本[Oricon排行榜從](../Page/Oricon.md "wikilink")2008年4月開始統計漫畫銷量以來，在該榜中首個總銷量破億冊的漫畫\[20\]。
 
-2012年8月漫畫單行本第67卷初版發行量高達405萬冊，第九次刷新日本初版發行量紀錄\[22\]。2014年《ONE
+2012年8月漫畫單行本第67卷初版發行量高達405萬冊，第九次刷新日本初版發行量紀錄\[21\]。2014年《ONE
 PIECE》漫畫單行本的累計發行量在日本當地超過3億2,000萬冊（第76卷出版後）。第76卷漫畫初版發行量達到了400萬冊。這是自2011年11月發行的第64卷後，連續13卷單卷發行量達到400萬册。
 
 《ONE
@@ -2135,7 +2076,7 @@ PIECE》漫畫的單行本在日本的初版發行數量在第57卷（2010年3�
 <td><p>日本漫畫家協會獎</p></td>
 <td><p>第41回</p></td>
 <td><p>大獎</p></td>
-<td><p>[23]</p></td>
+<td><p>[22]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2152,7 +2093,7 @@ PIECE》漫畫的單行本在日本的初版發行數量在第57卷（2010年3�
 （Anime &amp; Manga 19th Grand Prix）</p></td>
 <td><p>第19回</p></td>
 <td><p>漫畫部門最佳少年漫畫獎</p></td>
-<td><p>[24]</p></td>
+<td><p>[23]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2167,7 +2108,7 @@ PIECE》漫畫的單行本在日本的初版發行數量在第57卷（2010年3�
 <td><p>第5回</p></td>
 <td><p>AM神戶獎（主題歌獎）</p></td>
 <td><p>ウィーアー!（We Are!）</p></td>
-<td><p>[25]</p></td>
+<td><p>[24]</p></td>
 </tr>
 <tr class="odd">
 <td><p>東京動畫片獎</p></td>
@@ -2181,13 +2122,13 @@ PIECE》漫畫的單行本在日本的初版發行數量在第57卷（2010年3�
 <td><p>第22回</p></td>
 <td><p>年度最佳動畫專輯</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE_SUPER_BEST" title="wikilink">ONE PIECE SUPER BEST</a></p></td>
-<td><p>[26]</p></td>
+<td><p>[25]</p></td>
 </tr>
 <tr class="odd">
 <td><p>第25回</p></td>
 <td><p>年度最佳動畫專輯</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE_MEMORIAL_BEST" title="wikilink">ONE PIECE MEMORIAL BEST</a></p></td>
-<td><p>[27]</p></td>
+<td><p>[26]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2196,13 +2137,13 @@ PIECE》漫畫的單行本在日本的初版發行數量在第57卷（2010年3�
 <td><p>全方位的銷售部門<br />
 動畫部</p></td>
 <td><p>電視動畫</p></td>
-<td><p>[28]</p></td>
+<td><p>[27]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/亞洲電視大獎" title="wikilink">亞洲電視大獎</a></p></td>
 <td><p>（2012年）</p></td>
 <td><p>動畫部門 大獎</p></td>
-<td><p>[29]</p></td>
+<td><p>[28]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2238,20 +2179,20 @@ PIECE》漫畫的單行本在日本的初版發行數量在第57卷（2010年3�
 <td><p><a href="https://zh.wikipedia.org/wiki/第32回日本電影金像獎" title="wikilink">第32回</a></p></td>
 <td><p>優秀動畫作品獎</p></td>
 <td><p><a href="../Page/ONE_PIECE_THE_MOVIE_喬巴身世之謎：冬季綻放、奇跡的櫻花.md" title="wikilink">喬巴身世之謎：冬季綻放、奇蹟的櫻花</a></p></td>
-<td><p>[30]</p></td>
+<td><p>[29]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/第34回日本電影金像獎" title="wikilink">第34回</a></p></td>
 <td><p>優秀動畫作品獎</p></td>
 <td><p>『ONE PIECE FILM STRONG WORLD』</p></td>
-<td><p>[31]</p></td>
+<td><p>[30]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/第36回日本電影金像獎" title="wikilink">第36回</a></p></td>
 <td><p>優秀動畫作品獎</p></td>
 <td><p>ONE PIECE FILM Z</p></td>
-<td><p>[32]</p></td>
+<td><p>[31]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2266,7 +2207,7 @@ PIECE》漫畫的單行本在日本的初版發行數量在第57卷（2010年3�
 <td><p>第65回</p></td>
 <td><p>動畫部門</p></td>
 <td><p><a href="../Page/ONE_PIECE_3D_追逐草帽大冒險.md" title="wikilink">ONE PIECE 3D 追逐草帽大冒險</a></p></td>
-<td><p>[33]</p></td>
+<td><p>[32]</p></td>
 </tr>
 <tr class="odd">
 <td><p>PlayStation Awards</p></td>
@@ -2274,20 +2215,20 @@ PIECE》漫畫的單行本在日本的初版發行數量在第57卷（2010年3�
 <td><p>金質獎</p></td>
 <td><p>ONE PIECE 盛大對戰!<br />
 ONE PIECE 盛大對戰! 2</p></td>
-<td><p>[34]</p></td>
+<td><p>[33]</p></td>
 </tr>
 <tr class="even">
 <td><p>（2012年）</p></td>
 <td><p>金質獎</p></td>
 <td><p><a href="../Page/ONE_PIECE_海賊無雙.md" title="wikilink">ONE PIECE 海賊無雙</a></p></td>
-<td><p>[35]</p></td>
+<td><p>[34]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>（2013年）</p></td>
 <td><p>金質獎</p></td>
 <td><p><a href="../Page/ONE_PIECE_海賊無雙2.md" title="wikilink">ONE PIECE 海賊無雙2</a></p></td>
-<td><p>[36]</p></td>
+<td><p>[35]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2295,14 +2236,14 @@ ONE PIECE 盛大對戰! 2</p></td>
 <td><p>（2012年）</p></td>
 <td><p>優秀獎</p></td>
 <td><p>ONE PIECE 海賊無雙</p></td>
-<td><p>[37]</p></td>
+<td><p>[36]</p></td>
 </tr>
 <tr class="odd">
 <td><p>GREE Platform Award</p></td>
 <td><p>（2014年）</p></td>
 <td><p>優秀賞</p></td>
 <td><p>ONE PIECE 冒險日誌</p></td>
-<td><p>[38]</p></td>
+<td><p>[37]</p></td>
 </tr>
 <tr class="even">
 <td><p>年度許可</p></td>
@@ -2322,7 +2263,7 @@ ONE PIECE 盛大對戰! 2</p></td>
 <tr class="even">
 <td><p>促銷許可獎</p></td>
 <td><p>ONE PIECE 千雪姬號</p></td>
-<td><p>[39]</p></td>
+<td><p>[38]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -2338,13 +2279,13 @@ ONE PIECE 盛大對戰! 2</p></td>
 <td><p>第10回</p></td>
 <td><p>市場營銷部門 入獎</p></td>
 <td><p>羅森ARG 海賊王 收集圖章活動的應用</p></td>
-<td><p>[40]</p></td>
+<td><p>[39]</p></td>
 </tr>
 <tr class="odd">
 <td><p>東京互動廣告獎</p></td>
 <td><p>第9回</p></td>
 <td><p>申請部門 移動式應用 入賞</p></td>
-<td><p>[41]</p></td>
+<td><p>[40]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2352,14 +2293,14 @@ ONE PIECE 盛大對戰! 2</p></td>
 <td><p>第31回</p></td>
 <td><p>顯示器産業激勵獎</p></td>
 <td><p>尾田栄一郎監修 ONE PIECE展〜原画×映像×体感的海賊王</p></td>
-<td><p>[42]</p></td>
+<td><p>[41]</p></td>
 </tr>
 <tr class="odd">
 <td><p>日本商品化權協會獎</p></td>
 <td><p>（2012年）</p></td>
 <td></td>
 <td><p>『ONE PIECE』（東映動畫）</p></td>
-<td><p>[43]</p></td>
+<td><p>[42]</p></td>
 </tr>
 <tr class="even">
 <td><p>讀賣新聞出版廣告獎</p></td>
@@ -2367,20 +2308,20 @@ ONE PIECE 盛大對戰! 2</p></td>
 <td><p>金賞</p></td>
 <td><p>ONE PIECE 漫畫3億冊突破記念運動<br />
 「日本縱向! OPJ47 巡航」</p></td>
-<td><p>[44]</p></td>
+<td><p>[43]</p></td>
 </tr>
 <tr class="odd">
 <td><p>新聞廣告獎</p></td>
 <td><p>第34回</p></td>
 <td><p>廣告主部門 大獎</p></td>
-<td><p>[45]</p></td>
+<td><p>[44]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>廣告電通獎</p></td>
 <td><p>第67回</p></td>
 <td><p>新聞廣告 企畫部門 最優秀獎</p></td>
-<td><p>[46]</p></td>
+<td><p>[45]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2389,7 +2330,7 @@ ONE PIECE 盛大對戰! 2</p></td>
 <td><p>現場娛樂傑出部門<br />
 最佳整體表現製作獎</p></td>
 <td><p>海賊王 尊貴展</p></td>
-<td><p>[47]</p></td>
+<td><p>[46]</p></td>
 </tr>
 </tbody>
 </table>
@@ -2400,7 +2341,7 @@ ONE PIECE 盛大對戰! 2</p></td>
 
 ## 爭議
 
-  - 第89冊日文版的封面摺頁，嘲諷[横井軍曹](../Page/橫井庄一.md "wikilink")，出現爭議\[48\]。台灣中文版因此刪去封面摺頁，摺頁為空白。
+  - 第89冊日文版的封面摺頁，嘲諷[横井軍曹](../Page/橫井庄一.md "wikilink")，出現爭議\[47\]。台灣中文版因此刪去封面摺頁，摺頁為空白。
 
 ## 參考資料
 
@@ -2487,49 +2428,48 @@ ONE PIECE 盛大對戰! 2</p></td>
 17.
 18.
 19.
-20.
-21. [PIECE』、累計売上1億部突破](http://www.oricon.co.jp/news/ranking/2011350『ONE)
+20. [PIECE』、累計売上1億部突破](http://www.oricon.co.jp/news/ranking/2011350『ONE)
 
-22.
-23. [過去的獲獎者（日本漫畫家協會獎和文化，體育，科學和技術部長獎）](http://www.nihonmangakakyokai.or.jp/award.php)
+21.
+22. [過去的獲獎者（日本漫畫家協會獎和文化，體育，科學和技術部長獎）](http://www.nihonmangakakyokai.or.jp/award.php)
     日本漫畫家協會
-24. FRA
-25. [第五屆動畫 神戶獎的決定](http://www.anime-kobe.jp/archive/2000/) 動畫神戶
-26. [第二十二屆日本金唱片大獎](http://www.golddisc.jp/award/22/Prize_4.html#gd22_22)
+23. FRA
+24. [第五屆動畫 神戶獎的決定](http://www.anime-kobe.jp/archive/2000/) 動畫神戶
+25. [第二十二屆日本金唱片大獎](http://www.golddisc.jp/award/22/Prize_4.html#gd22_22)
     THE JAPAN GOLD DISC AWARD2008 官方網站
-27. [第二十五屆日本金唱片大獎](http://www.golddisc.jp/award/25/Prize_2.html#gd25_12)THE
+26. [第二十五屆日本金唱片大獎](http://www.golddisc.jp/award/25/Prize_2.html#gd25_12)THE
     JAPAN GOLDDISC AWARD2011　官方網站
-28. [GyaO！最薪資輸送有很多的獎項揭曉一年一度的“海賊王”](http://animeanime.jp/article/2012/11/18/12100.html)動畫片！動畫片！2012年11月18日
-29. \[ フ大獎得主在節目富士電視台製作的亞洲電視大獎！ ！
+27. [GyaO！最薪資輸送有很多的獎項揭曉一年一度的“海賊王”](http://animeanime.jp/article/2012/11/18/12100.html)動畫片！動畫片！2012年11月18日
+28. \[ フ大獎得主在節目富士電視台製作的亞洲電視大獎！ ！
     [富士電視台](../Page/富士電視台.md "wikilink")、2012年12月10日
-30. [第32回日本電影金像獎](http://www.japan-academy-prize.jp/prizes/?t=32#title27)
+29. [第32回日本電影金像獎](http://www.japan-academy-prize.jp/prizes/?t=32#title27)
      [日本電影金像獎官方網站](https://zh.wikipedia.org/wiki/日本電影金像獎 "wikilink")
-31. [第34回日本電影金像獎](http://www.japan-academy-prize.jp/prizes/?t=34#title27)
+30. [第34回日本電影金像獎](http://www.japan-academy-prize.jp/prizes/?t=34#title27)
     [日本電影金像獎官方網站](https://zh.wikipedia.org/wiki/日本電影金像獎 "wikilink")
-32. [第36回日本電影金像獎](http://www.japan-academy-prize.jp/prizes/?t=36)
+31. [第36回日本電影金像獎](http://www.japan-academy-prize.jp/prizes/?t=36)
     [日本電影金像獎官方網站](https://zh.wikipedia.org/wiki/日本電影金像獎 "wikilink")
-33. [映像技術獎　受獎一覧](http://www.mpte.jp/outline/kennsyou/eg.html) 日本電影電視技術協會
+32. [映像技術獎　受獎一覧](http://www.mpte.jp/outline/kennsyou/eg.html) 日本電影電視技術協會
+33.
 34.
 35.
-36.
-37. [日本遊戲大獎2012](http://awards.cesa.or.jp/prize/prize_01.html)
+36. [日本遊戲大獎2012](http://awards.cesa.or.jp/prize/prize_01.html)
     [計算機娛樂供應商協會](https://zh.wikipedia.org/wiki/計算機娛樂供應商協會 "wikilink")
-38.
-39. [日本玩具大賞2011](http://www.toys.or.jp/toyshow/toyshow2011/omocha_taisyou2011.html)
+37.
+38. [日本玩具大賞2011](http://www.toys.or.jp/toyshow/toyshow2011/omocha_taisyou2011.html)
     日本玩具協会
-40. [第10回（2011年）
+39. [第10回（2011年）
     受獎作品](http://www.mobileadawards.com/archive2011/work03.html#win02)
      移動式廣告大獎
-41. [第9回東京互動廣告獎
+40. [第9回東京互動廣告獎
     受獎作品發表](http://tokyo.interactive.ad.awards.jp/Results11/info/34.html)
     [東京インタラクティブ·アド·アワード](https://zh.wikipedia.org/wiki/東京インタラクティブ·アド·アワード "wikilink")
-42. [第31回顯示器行業大獎（2012）入獎作品](http://www.display.or.jp/zzaward/s2012/index02.html)
+41. [第31回顯示器行業大獎（2012）入獎作品](http://www.display.or.jp/zzaward/s2012/index02.html)
     日本顯示器業團體連合會
-43. [日本商品化權協會獎　選出3人物角色](http://www.sankeibiz.jp/business/news/130206/bsj1302060503000-n1.htm)
+42. [日本商品化權協會獎　選出3人物角色](http://www.sankeibiz.jp/business/news/130206/bsj1302060503000-n1.htm)
 
     [SankeiBiz](https://zh.wikipedia.org/wiki/SankeiBiz "wikilink")、2013年2月6日
+43.
 44.
 45.
 46.
 47.
-48.

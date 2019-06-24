@@ -42,11 +42,14 @@ Source引擎的中心思想就是模块性。Source引擎针对第一代引擎�
 Valve在2015年3月举办的[游戏开发者大会上公布了Source](../Page/游戏开发者大会.md "wikilink")
 2引擎，同时表示会提供[Vulkan支持](../Page/Vulkan_\(API\).md "wikilink")，并将对开发者免费开放。\[3\]\[4\]此外，Valve还证实他们将会使用自主研发的[物理引擎Rubikon](https://zh.wikipedia.org/wiki/物理引擎 "wikilink")。\[5\]2015年6月17日，[Dota
 2发布了名为](../Page/Dota_2.md "wikilink")“Reborn”的Beta更新，成为首个使用Source
-2引擎的游戏。\[6\]同年9月，原Source引擎客户端停止使用，Dota 2正式采用Source 2引擎。\[7\]
+2引擎的游戏。\[6\]\[7\]后来的和刀塔霸业也采用了Source
+2引擎，并增加了[Android与](../Page/Android.md "wikilink")[iOS支持](https://zh.wikipedia.org/wiki/iOS "wikilink")。\[8\]
 
-## 使用Source引擎的游戏
+## 游戏
 
-### Valve开发
+### Source
+
+#### Valve开发
 
   - [异形丛生](https://zh.wikipedia.org/wiki/异形丛生 "wikilink") （Alien Swarm）
   - [反恐精英：起源](https://zh.wikipedia.org/wiki/反恐精英：起源 "wikilink")
@@ -75,9 +78,8 @@ Valve在2015年3月举办的[游戏开发者大会上公布了Source](../Page/�
   - [惡靈勢力](https://zh.wikipedia.org/wiki/惡靈勢力 "wikilink") （Left 4 Dead）
   - [惡靈勢力2](https://zh.wikipedia.org/wiki/惡靈勢力2 "wikilink") （Left 4 Dead
     2）
-  - [Dota 2](../Page/Dota_2.md "wikilink")
 
-### 其他开发者游戏
+#### 其他开发者游戏
 
   - [吸血鬼之避世–血族](../Page/吸血鬼之避世–血族.md "wikilink")(2004)
   - [盖瑞模组](https://zh.wikipedia.org/wiki/盖瑞模组 "wikilink")(2004)
@@ -99,8 +101,17 @@ Valve在2015年3月举办的[游戏开发者大会上公布了Source](../Page/�
   - [泰坦降臨2](../Page/泰坦降臨2.md "wikilink")(2016)
   - [基建危機](../Page/基建危機.md "wikilink")(2016)
   - [恥辱之日](https://zh.wikipedia.org/wiki/恥辱之日 "wikilink")(2017)
-  - [獵殺佛里曼](https://zh.wikipedia.org/wiki/獵殺佛里曼 "wikilink")(2018)
   - [Apex英雄](../Page/Apex英雄.md "wikilink")(2019)
+
+### Source 2
+
+  - [Dota 2](../Page/Dota_2.md "wikilink")（2015年由Source引擎移植而来）
+
+  - （The Lab）
+
+  -
+  - [刀塔霸业](https://zh.wikipedia.org/wiki/刀塔霸业 "wikilink")（Dota
+    Underlords）
 
 ## 参考文献
 
@@ -124,3 +135,4 @@ Valve在2015年3月举办的[游戏开发者大会上公布了Source](../Page/�
 5.
 6.
 7.
+8.

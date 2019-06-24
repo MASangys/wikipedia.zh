@@ -67,7 +67,7 @@
 ### [卤代烃](https://zh.wikipedia.org/wiki/卤代烃 "wikilink")·[醚](../Page/醚.md "wikilink")
 
 1.  [卤代烃命名以相应烃作为母体](../Page/卤素.md "wikilink")，卤原子作为取代基。
-2.  如有碳链取代基，根据顺序规则碳链要写在卤原子的後面；如有多种卤原子，列出次序为[溴](../Page/溴.md "wikilink")、[氯](../Page/氯.md "wikilink")、[氟](../Page/氟.md "wikilink")、[碘](../Page/碘.md "wikilink")。
+2.  如有碳链取代基，根据顺序规则碳链要写在卤原子的後面；如有多种卤原子，列出次序为[碘](../Page/碘.md "wikilink")、[溴](../Page/溴.md "wikilink")、[氯](../Page/氯.md "wikilink")、[氟](../Page/氟.md "wikilink")。
 3.  醚的命名以碳链较长的一端为母体，另一端和氧原子合起来作为取代基，称烃氧基。
 
 ### [醇](../Page/醇.md "wikilink") （\(\mathrm{C_nH_{2n+1}OH}\)）

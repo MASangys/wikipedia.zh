@@ -52,7 +52,7 @@ QR分解的实际计算有很多方法，例如[Givens旋转](https://zh.wikiped
     \(Q\mathbf{x} = (\alpha, 0, \cdots, 0)^T.\,\)
 
 利用Householder矩阵，可以将一个\(m \times n\)的矩阵\(A'\)变换为上三角矩阵。
-首先，我们将A左乘通过选取矩阵的第一行得到行向量\(x\)的Householder矩阵\(Q_1\)。这样，我们得到的矩阵\(Q_1 A\)的第一行将全部为0（第一列除外）：
+首先，我们将A左乘通过选取矩阵的第一行得到行向量\(x\)的Householder矩阵\(Q_1\)。这样，我们得到的矩阵\(Q_1 A\)的第一列将全部为0（第一行除外）：
 
 \[Q_1A = \begin{bmatrix}
                    \alpha_1&\star&\dots&\star\\

@@ -527,6 +527,15 @@ aiko的國民度和好感度甚高。日本知名音樂排行榜服務公司[Ori
 <td><p>345,540</p></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>3rd</p></td>
+<td><p>2019年6月5日</p></td>
+<td></td>
+<td><p><strong></strong></p></td>
+<td><p>1位</p></td>
+<td><p>（TBA）</p></td>
+<td><p>（TBA）</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -900,11 +909,11 @@ aiko的國民度和好感度甚高。日本知名音樂排行榜服務公司[Ori
   - [<span lang="ja">aiko - ORICON STYLE WM
     ミュージック</span>](http://www.oricon.co.jp/artists/27083/)（日本）
 
-[分類:日本流行音樂歌手](https://zh.wikipedia.org/wiki/分類:日本流行音樂歌手 "wikilink")
-
 [Category:Aiko](https://zh.wikipedia.org/wiki/Category:Aiko "wikilink")
 [Category:日本創作歌手](https://zh.wikipedia.org/wiki/Category:日本創作歌手 "wikilink")
 [Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink")
+[Category:日本流行音樂歌手](https://zh.wikipedia.org/wiki/Category:日本流行音樂歌手 "wikilink")
+[Category:NHK紅白歌合戰出场歌手](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰出场歌手 "wikilink")
 [Category:20世纪歌手](https://zh.wikipedia.org/wiki/Category:20世纪歌手 "wikilink")
 [Category:21世纪歌手](https://zh.wikipedia.org/wiki/Category:21世纪歌手 "wikilink")
 [Category:日本作詞家](https://zh.wikipedia.org/wiki/Category:日本作詞家 "wikilink")

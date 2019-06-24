@@ -33,7 +33,7 @@ ML中类似的函數式程式設計工具](https://zh.wikipedia.org/wiki/Standar
 雖然Python可能被粗略地分類為「[腳本語言](https://zh.wikipedia.org/wiki/腳本語言 "wikilink")」，但實際上一些大規模軟體開發計划例如[Zope](../Page/Zope.md "wikilink")、Mnet及[BitTorrent](../Page/BitTorrent_\(软件\).md "wikilink")，[Google也广泛地使用它](../Page/Google.md "wikilink")。Python的支持者較喜歡稱它為一種高階動態程式語言，原因是「腳本語言」泛指僅作簡單程式設計任務的語言，如shell
 script、[VBScript等](../Page/VBScript.md "wikilink")-{只}-能處理簡單任務的程式語言，並不能與Python相提並論。
 
-Python本身被設計為可擴充的。並非所有的特性和功能都集成到語言核心。Python提供了豐富的[API和工具](https://zh.wikipedia.org/wiki/API "wikilink")，以便程式設計師能够輕鬆地使用[C](https://zh.wikipedia.org/wiki/C语言 "wikilink")、[C++](../Page/C++.md "wikilink")、[Cython來編寫擴充模組](https://zh.wikipedia.org/wiki/Cython "wikilink")。Python編譯器本身也可以被集成到其它需要腳本語言的程式内。因此，有很多人把Python作为一種「[膠水語言](https://zh.wikipedia.org/wiki/膠水語言 "wikilink")」使用。使用Python將其他語言編寫的程式進行集成和封裝。在[Google内部的很多项目](../Page/Google.md "wikilink")，例如[Google應用服務引擎使用](../Page/Google應用服務引擎.md "wikilink")[C++編寫性能要求極高的部分](../Page/C++.md "wikilink")，然后用Python或[Java](../Page/Java.md "wikilink")/[Go調用相應的模組](../Page/Go.md "wikilink")。\[2\]《Python技术手册》的作者马特利（Alex
+Python本身被設計為可擴充的。並非所有的特性和功能都集成到語言核心。Python提供了豐富的[API和工具](https://zh.wikipedia.org/wiki/API "wikilink")，以便程式設計師能够輕鬆地使用[C](https://zh.wikipedia.org/wiki/C语言 "wikilink")、[C++](../Page/C++.md "wikilink")、[Cython來編寫擴充模組](../Page/Cython.md "wikilink")。Python編譯器本身也可以被集成到其它需要腳本語言的程式内。因此，有很多人把Python作为一種「[膠水語言](https://zh.wikipedia.org/wiki/膠水語言 "wikilink")」使用。使用Python將其他語言編寫的程式進行集成和封裝。在[Google内部的很多项目](../Page/Google.md "wikilink")，例如[Google應用服務引擎使用](../Page/Google應用服務引擎.md "wikilink")[C++編寫性能要求極高的部分](../Page/C++.md "wikilink")，然后用Python或[Java](../Page/Java.md "wikilink")/[Go調用相應的模組](../Page/Go.md "wikilink")。\[2\]《Python技术手册》的作者马特利（Alex
 Martelli）說：“這很難講，不過，2004年，Python已在Google內部使用，Google召募許多Python高手，但在這之前就已決定使用Python。他們的目的是尽量使用Python，在不得已时改用C++；在操控硬體的場合使用C++，在快速開發時候使用Python。”\[3\]
 
 Python的設計哲學是“優雅”、“明確”、“簡單”。Python開發者的哲學是“用一種方法，最好是只有一種方法來做一件事”，也因此它和擁有明顯個人風格的其他語言很不一樣。在設計Python語言時，如果面臨多種選擇，Python開發者一般會拒绝花俏的語法，而選擇明確没有或者很少有歧義的語法。這些準則被稱為「**Python格言**」。在Python解釋器内運行`import
@@ -689,6 +689,7 @@ Python是一门跨平台的脚本语言，Python规定了一个Python语法规�
 
   - [Eclipse](../Page/Eclipse.md "wikilink") + pydev插件，目前对Python
     3.X只支持到3.0
+  - [IntelliJ IDEA](../Page/IntelliJ_IDEA.md "wikilink") + Python 插件
   - [emacs](https://zh.wikipedia.org/wiki/emacs "wikilink") +插件
   - [NetBeans](../Page/NetBeans.md "wikilink") +插件
   - [SlickEdit](https://zh.wikipedia.org/wiki/SlickEdit "wikilink")

@@ -1,8 +1,8 @@
 **Final Cut
 Pro**是一款由[Macromedia](../Page/Macromedia.md "wikilink")（现已被[Adobe收购](../Page/Adobe.md "wikilink")）推出，之後由[蘋果公司接手研發](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")、銷售的[非線性影片剪輯](../Page/非線性剪輯.md "wikilink")[軟體](https://zh.wikipedia.org/wiki/軟體 "wikilink")。最新版本為Final
-Cut Pro X，能在裝載英特爾處理器和[OS
+Cut Pro X，能在裝載英特爾處理器和[Mac OS
 X](https://zh.wikipedia.org/wiki/OS_X "wikilink")
-10.6.7以後版本的麥金塔電腦上運行。本軟體能讓使用者將影片記錄和傳輸至硬碟上（內建或外接），之後進行編輯、剪輯、處理和輸出成多種格式。
+10.6.7以後版本的mac電腦上運行。本軟體能讓使用者將影片記錄和傳輸至硬碟上（內建或外接），之後進行編輯、剪輯、處理和輸出成多種格式。
 
 ## 历史
 

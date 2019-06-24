@@ -372,6 +372,13 @@ Award**），原名NBA总决赛最有价值球员奖，是從1968-69球季開始
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/金州勇士队" title="wikilink">金州勇士队</a></p></td>
 </tr>
+<tr class="odd">
+<td><p>2019年</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/科怀·伦纳德" title="wikilink">科怀·伦纳德</a>（2）</p></td>
+<td></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/多倫多暴龍队" title="wikilink">多倫多暴龍队</a></p></td>
+</tr>
 </tbody>
 </table>
 

@@ -53,7 +53,7 @@ McIlroy），和[喬伊·歐桑納于](https://zh.wikipedia.org/wiki/喬伊·歐
 
 1991年，[林納斯·托瓦茲在](../Page/林纳斯·托瓦兹.md "wikilink")[赫爾辛基大學上學时](https://zh.wikipedia.org/wiki/赫爾辛基大學 "wikilink")，對作業系統很好奇\[13\]。他對[MINIX只允許在教育上使用很不滿](../Page/MINIX.md "wikilink")（在当时MINIX不允許被用作任何商業使用），於是他便開始寫他自己的作業系統，這就是後來的[Linux核心](https://zh.wikipedia.org/wiki/Linux核心 "wikilink")。
 
-[林納斯·托瓦茲開始在](../Page/林纳斯·托瓦兹.md "wikilink")[MINIX上開發](../Page/MINIX.md "wikilink")[Linux內核](https://zh.wikipedia.org/wiki/Linux內核 "wikilink")，為[MINIX寫的軟體也可以在](../Page/MINIX.md "wikilink")[Linux內核上使用](https://zh.wikipedia.org/wiki/Linux內核 "wikilink")。\[14\]后来使用GNU軟體代替MINIX的軟體，因為使用從GNU系統來的原始碼可以自由使用，這對Linux的发展是有益。使用GNU
+[林納斯·托瓦茲開始在](../Page/林纳斯·托瓦兹.md "wikilink")[MINIX上開發](../Page/MINIX.md "wikilink")[Linux內核](https://zh.wikipedia.org/wiki/Linux內核 "wikilink")，為[MINIX寫的軟體也可以在](../Page/MINIX.md "wikilink")[Linux內核上使用](https://zh.wikipedia.org/wiki/Linux內核 "wikilink")。\[14\]后来使用GNU軟體代替MINIX的軟體，因為使用從GNU系統來的原始碼可以自由使用，這對Linux的发展有益。使用GNU
 GPL協議的原始碼可以被其他項目所使用，只要這些項目使用同樣的協議發布。為了讓Linux可以在商業上使用，[林納斯·托瓦茲決定更改他原來的協議](https://zh.wikipedia.org/wiki/林納斯·托瓦茲 "wikilink")（這個協議會限制商業使用），以GNU
 GPL協議來代替。\[15\]之后许多開發者致力融合GNU元素到Linux中，做出一個有完整功能的、自由的作業系統。\[16\]
 
@@ -66,7 +66,7 @@ Lemmke}-發佈在[Internet上](https://zh.wikipedia.org/wiki/網際網路 "wikil
 > system (just a hobby, won't be big and professional like gnu) for
 > 386(486) AT clones.
 
-Linux的[標誌和](https://zh.wikipedia.org/wiki/標誌 "wikilink")[吉祥物是一隻名字叫做](https://zh.wikipedia.org/wiki/吉祥物 "wikilink")[Tux的](../Page/Tux.md "wikilink")[企鵝](../Page/企鵝.md "wikilink")，標誌的由來是因為Linus在澳洲時曾被一隻動物園裡的企鵝咬了一口，便選擇企鵝作為Linux的標誌。更容易被接受的說法是：企鵝代表南極，而南極又是全世界所共有的一塊陸地。這也就代表Linux是所有人的Linux。
+Linux的[標誌和](https://zh.wikipedia.org/wiki/標誌 "wikilink")[吉祥物是一隻名字叫做](https://zh.wikipedia.org/wiki/吉祥物 "wikilink")[Tux的](../Page/Tux.md "wikilink")[企鵝](../Page/企鵝.md "wikilink")，標誌的由來有一說是因為Linus在澳洲時曾被一隻動物園裡的企鵝咬了一口，便選擇企鵝作為Linux的標誌，但更容易被接受的說法是：企鵝代表南極，而南極又是全世界所共有的一塊陸地。這也就代表Linux是所有人的Linux。
 
 ### 发展现状
 
@@ -106,14 +106,14 @@ Window系統和上层的](../Page/X_Window系統.md "wikilink")[桌面環境等]
 
 很多發行版含有[LiveCD的方式](../Page/Live_CD.md "wikilink")，就是不需要安裝，放入系统光碟或其它介质進行启动，就能够在不改变现有系统的情况下使用。比較著名的有[Damn
 Small
-Linux](https://zh.wikipedia.org/wiki/Damn_Small_Linux "wikilink")，[Knoppix等](https://zh.wikipedia.org/wiki/Knoppix "wikilink")。[LiveCD的相關技術進步至此](../Page/Live_CD.md "wikilink")，很多的發行版本身的安裝光碟也有[LiveCD的功能](../Page/Live_CD.md "wikilink")。
+Linux](https://zh.wikipedia.org/wiki/Damn_Small_Linux "wikilink")，[Knoppix等](../Page/Knoppix.md "wikilink")。[LiveCD的相關技術進步至此](../Page/Live_CD.md "wikilink")，很多的發行版本身的安裝光碟也有[LiveCD的功能](../Page/Live_CD.md "wikilink")。
 
 ## Linux的应用
 
 今天各種場合都有使用各種Linux套件，從嵌入式設備到超級電腦（Super
-Computer），\[20\]\[21\]並且在伺服器領域確定了地位，通常伺服器使用[LAMP組合](../Page/LAMP.md "wikilink")。\[22\]在家庭與企業中使用Linux套件的情況越來越多。\[23\]\[24\]\[25\]\[26\]\[27\]\[28\]\[29\]並且在政府中也很受歡迎，巴西聯邦政府由於支持Linux而世界聞名。\[30\]\[31\]有新聞報道俄羅斯軍隊自己製造的Linux發行版的，做為G.H.ost項目已經取得成果.\[32\]印度的[喀拉拉邦計劃在向全聯邦的高中推廣使用Linux](../Page/喀拉拉邦.md "wikilink")。\[33\]\[34\]中華人民共和國為取得技術獨立，在[龍芯過程中排他性地使用Linux](https://zh.wikipedia.org/wiki/龍芯 "wikilink")。\[35\]
+Computer），\[20\]\[21\]並且在伺服器領域確定了地位，通常伺服器使用[LAMP組合](../Page/LAMP.md "wikilink")。\[22\]在家庭與企業中使用Linux套件的情況越來越多。\[23\]\[24\]\[25\]\[26\]\[27\]\[28\]\[29\]並且在政府中也很受歡迎，巴西聯邦政府因支持Linux而世界聞名。\[30\]\[31\]有新聞報導俄羅斯軍隊自己製造的Linux發行版，做為G.H.ost項目已經取得成果。\[32\]印度的[喀拉拉邦計劃在向全聯邦的高中推廣使用Linux](../Page/喀拉拉邦.md "wikilink")。\[33\]\[34\]中華人民共和國為取得技術獨立，在[龍芯過程中排他性地使用Linux](https://zh.wikipedia.org/wiki/龍芯 "wikilink")。\[35\]
 在西班牙的一些地區開發了自己的Linux發行版，並且在政府與教育領域廣泛使用，如[埃斯特雷马杜拉地區的](../Page/埃斯特雷马杜拉.md "wikilink")[gnuLinEx和](https://zh.wikipedia.org/wiki/gnuLinEx "wikilink")[安達盧西亞地區的](../Page/安達盧西亞.md "wikilink")[Guadalinex](https://zh.wikipedia.org/wiki/Guadalinex "wikilink")。[葡萄牙同樣使用自己的Linux發行版](../Page/葡萄牙.md "wikilink")[Caixa
-Mágica](https://zh.wikipedia.org/wiki/Caixa_Mágica "wikilink")，用於Magalh?es筆記型電腦\[36\]和e-escola政府軟體。\[37\]法國和德國同樣開始逐步採用Linux。\[38\]
+Mágica](https://zh.wikipedia.org/wiki/Caixa_Mágica "wikilink")，用於Magalhães筆記型電腦\[36\]和e-escola政府軟體。\[37\]法國和德國同樣開始逐步採用Linux。\[38\]
 
 傳統的Linux使用者一般都是專業人士。他們願意安裝並設置自己的作業系統，往往比其他作業系統的用戶花更多的時間在安裝並設置自己的作業系統。這些用戶有時被稱作「[駭客](../Page/黑客.md "wikilink")」或是「[極客](../Page/极客.md "wikilink")」。
 

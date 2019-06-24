@@ -14,7 +14,7 @@ shell是由[肯·汤普逊](../Page/肯·汤普逊.md "wikilink")，仿效Multic
 ### Bourne shell兼容
 
   - [Bourne
-    shell](../Page/Bourne_shell.md "wikilink")（sh）[史蒂夫·伯恩在](https://zh.wikipedia.org/wiki/史蒂夫·伯恩 "wikilink")[贝尔实验室时编写](../Page/贝尔实验室.md "wikilink")。1978年随[Version
+    shell](../Page/Bourne_shell.md "wikilink")（sh）[史蒂夫·伯恩在](../Page/史蒂夫·伯恩.md "wikilink")[贝尔实验室时编写](../Page/贝尔实验室.md "wikilink")。1978年随[Version
     7
     Unix首次发布](https://zh.wikipedia.org/wiki/Version_7_Unix "wikilink")。
       - [Almquist shell](../Page/Almquist_shell.md "wikilink")（ash）

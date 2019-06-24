@@ -572,8 +572,6 @@ Language*对Pascal提出了严厉的抨击。\[4\]
 
 ## 參考資料
 
-<references/>
-
 ## 外部連結
 
   - [Pascal Language

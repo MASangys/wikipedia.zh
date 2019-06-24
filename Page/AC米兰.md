@@ -891,7 +891,7 @@ AC米蘭進球
   -
     \* *2004-2005賽季歐冠首回合米蘭德比統計為歐足聯判定米蘭進球數3，實際進球數為1*
 
-## 球員名單（2018/19）
+## 球員名單（2019/20）
 
 ### 目前效力
 
@@ -1019,26 +1019,6 @@ AC米蘭進球
 <td><p>2500万欧元</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>17</strong></p></td>
-<td></td>
-<td><p><a href="../Page/克里斯蒂安·萨帕塔.md" title="wikilink">-{zh-hans:萨帕塔;zh-hk:沙柏達;zh-tw:薩帕塔;}-</a>（Cristián Zapata）</p></td>
-<td><p>中后卫</p></td>
-<td></td>
-<td><p>2012年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/比利亞雷阿爾足球俱樂部" title="wikilink">比利亞雷阿爾</a></p></td>
-<td><p>600萬歐元</p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>20</strong></p></td>
-<td></td>
-<td><p><a href="../Page/伊尼亚齐奥·阿巴特.md" title="wikilink">-{zh-hans:阿巴特;zh-hk:阿比迪;zh-tw:阿巴特;}-</a>（Ignazio Abate）<a href="https://zh.wikipedia.org/wiki/File:Vice_Captain_Sports.gif" title="fig:Vice_Captain_Sports.gif">Vice_Captain_Sports.gif</a></p></td>
-<td><p>右后卫</p></td>
-<td></td>
-<td><p>2009年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/拖連奴足球會" title="wikilink">-{zh-hans:都灵;zh-hk:拖連奴;zh-tw:杜里諾;}-</a></p></td>
-<td><p>280萬歐元</p></td>
-</tr>
-<tr class="even">
 <td><p><strong>22</strong></p></td>
 <td></td>
 <td><p><a href="../Page/马特奥·穆萨基奥.md" title="wikilink">-{zh-hk:梅沙基奧;zh-hans:穆萨基奥;}-</a>（Mateo Musacchio）</p></td>
@@ -1089,16 +1069,6 @@ AC米蘭進球
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong>4</strong></p></td>
-<td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/何塞·毛里" title="wikilink">-{zh-hans:毛里;zh-hk:莫利}-</a>（José Mauri）</p></td>
-<td><p>中場</p></td>
-<td></td>
-<td><p>2015年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/帕尔马足球俱乐部" title="wikilink">帕尔马</a></p></td>
-<td><p>自由转会</p></td>
-</tr>
-<tr class="even">
 <td><p><strong>5</strong></p></td>
 <td></td>
 <td><p><a href="../Page/賈科莫·博納文圖拉.md" title="wikilink">-{zh-hans:博纳文图拉; zh-hk:邦拿雲度拉;zh-tw:博納文圖拉;}-</a>（Giacomo Bonaventura）</p></td>
@@ -1108,7 +1078,7 @@ AC米蘭進球
 <td><p><a href="../Page/亞特蘭大足球俱樂部.md" title="wikilink">亞特蘭大</a></p></td>
 <td><p>700萬歐元</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>10</strong></p></td>
 <td></td>
 <td><p><a href="../Page/哈坎·恰尔汗奥卢.md" title="wikilink">-{zh-hans:恰尔汗奥卢;zh-hk:查漢奴古;}-</a>（Hakan Çalhanoğlu）</p></td>
@@ -1118,47 +1088,7 @@ AC米蘭進球
 <td><p><a href="https://zh.wikipedia.org/wiki/勒沃库森足球俱乐部" title="wikilink">勒沃库森</a></p></td>
 <td><p>2200萬歐元</p></td>
 </tr>
-<tr class="even">
-<td><p><strong>14</strong></p></td>
-<td></td>
-<td><p><a href="../Page/蒂莫埃·巴卡約科.md" title="wikilink">-{zh-hans:巴卡約科;zh-hk:巴卡約高;zh-tw:巴卡約科}-</a>（Tiémoué Bakayoko）</p></td>
-<td><p>防守中場／正中場</p></td>
-<td></td>
-<td><p>2018年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/車路士" title="wikilink">-{zh-cn:切尔西;zh-hk:車路士;zh-tw:切爾西;}-</a></p></td>
-<td><p>500萬歐元（一季租借費）</p></td>
-</tr>
 <tr class="odd">
-<td><p><strong>16</strong></p></td>
-<td></td>
-<td><p><a href="../Page/安德烈亞·貝爾托拉奇.md" title="wikilink">-{zh-hans:贝尔托拉奇;zh-hk:貝圖拉斯}-</a>（Andrea Bertolacci）</p></td>
-<td><p>中場</p></td>
-<td></td>
-<td><p>2015年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/热那亚板球与足球俱樂部" title="wikilink">-{zh-hans:热那亚;zh-hk:熱拿亞}-</a></p></td>
-<td><p>2000萬歐元</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>18</strong></p></td>
-<td></td>
-<td><p><a href="../Page/列卡度·蒙度利禾.md" title="wikilink">-{zh-hans:蒙托利沃;zh-hk:蒙度利禾;zh-tw:蒙托利沃;}-</a>（Riccardo Montolivo）</p></td>
-<td><p>防守中場</p></td>
-<td></td>
-<td><p>2012年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/佛羅倫薩足球俱乐部" title="wikilink">-{zh-hans:佛罗伦萨;zh-hk:費倫天拿;zh-tw:佛羅倫薩;}-</a></p></td>
-<td><p>自由轉會</p></td>
-</tr>
-<tr class="even">
 <td><p><strong>21</strong></p></td>
 <td></td>
 <td><p><a href="../Page/卢卡斯·比格利亚.md" title="wikilink">-{zh-hans:比格利亚;zh-hk:碧基亞;zh-tw:比格利亞}-</a>（Lucas Biglia）</p></td>
@@ -1168,7 +1098,7 @@ AC米蘭進球
 <td><p><a href="https://zh.wikipedia.org/wiki/拉齐奥足球俱乐部" title="wikilink">拉齐奥</a></p></td>
 <td><p>1700萬歐元</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>79</strong></p></td>
 <td></td>
 <td><p><a href="../Page/弗兰克·凯西.md" title="wikilink">-{zh-hans:凯西; zh-hk:基斯爾;}-</a>（Franck Kessié）</p></td>
@@ -1176,19 +1106,19 @@ AC米蘭進球
 <td></td>
 <td><p>2017年</p></td>
 <td><p><a href="../Page/亞特蘭大足球俱樂部.md" title="wikilink">亞特蘭大</a></p></td>
-<td><p>800萬歐元（外借兩季）</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>2,400萬歐元</p></td>
 </tr>
 <tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><strong>93</strong></p></td>
 <td></td>
 <td><p><a href="../Page/迭戈·拉克索爾特.md" title="wikilink">-{zh-hans:拉克索尔特;zh-hk:拿索特;zh-tw:拉克索爾特}-</a>（Diego Laxalt）</p></td>
@@ -1198,7 +1128,7 @@ AC米蘭進球
 <td><p><a href="https://zh.wikipedia.org/wiki/热那亚板球与足球俱樂部" title="wikilink">-{zh-hans:热那亚;zh-hk:熱拿亞}-</a></p></td>
 <td><p>1400萬歐元</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><font color="#FF0000"><strong>前 鋒</strong></p></td>
 <td></td>
 <td></td>
@@ -1208,7 +1138,7 @@ AC米蘭進球
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>7</strong></p></td>
 <td></td>
 <td><p><a href="../Page/萨穆·卡斯蒂列霍.md" title="wikilink">-{zh-hans:卡斯蒂列霍;zh-hk:卡斯迪利祖;}-</a>（Samu Castillejo）</p></td>
@@ -1218,7 +1148,7 @@ AC米蘭進球
 <td><p><a href="https://zh.wikipedia.org/wiki/比利亞雷阿爾足球俱樂部" title="wikilink">-{zh-hans:比利亞雷阿爾 ;zh-hk:維拉利爾 }-</a></p></td>
 <td><p>2500万欧元</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>8</strong></p></td>
 <td></td>
 <td><p><a href="../Page/蘇素.md" title="wikilink">-{zh-hans:苏索; zh-hk:蘇索;}-</a> （Jesús Fernández Sáenz 'Suso'）</p></td>
@@ -1228,7 +1158,7 @@ AC米蘭進球
 <td><p><a href="https://zh.wikipedia.org/wiki/利物浦足球俱樂部" title="wikilink">利物浦</a></p></td>
 <td><p>130万欧元</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>11</strong></p></td>
 <td></td>
 <td><p><a href="../Page/法比奧·博里尼.md" title="wikilink">-{zh-hans:博里尼; zh-hk:波連尼;}-</a>（Fabio Borini）</p></td>
@@ -1238,17 +1168,17 @@ AC米蘭進球
 <td><p><a href="https://zh.wikipedia.org/wiki/桑德兰足球俱乐部" title="wikilink">-{zh-hans:桑德兰;zh-hk:新特蘭;}-</a></p></td>
 <td><p>550萬歐元</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>19</strong></p></td>
 <td></td>
-<td><p>'''<a href="../Page/克日什托夫·皮亚特克.md" title="wikilink">-{zh-hans:皮亚特克; zh-hk:比亞迪克;}-</a>（Krzysztof Piątek）</p></td>
+<td><p><a href="../Page/克日什托夫·皮亚特克.md" title="wikilink">-{zh-hans:皮亚特克; zh-hk:比亞迪克;}-</a>（Krzysztof Piątek）</p></td>
 <td><p>前鋒</p></td>
 <td></td>
 <td><p>2019年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/热那亚板球与足球俱樂部" title="wikilink">-{zh-hans:热那亚;zh-hk:熱拿亞}-</a></p></td>
 <td><p>3500萬歐元</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>63</strong></p></td>
 <td></td>
 <td><p><a href="../Page/帕特里克·库特罗内.md" title="wikilink">-{zh-cn:库特罗内; zh-hk:古度尼;}-</a>（Patrick Cutrone）</p></td>
@@ -1321,16 +1251,6 @@ AC米蘭進球
 <td><p>18/19球季</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>73</strong></p></td>
-<td></td>
-<td><p><a href="../Page/曼努埃尔·洛卡特利.md" title="wikilink">-{zh-cn:洛卡特利;zh-hk:盧卡迪利;zh-tw:洛卡特利;}-</a>（Manuel Locatelli）</p></td>
-<td><p>后腰</p></td>
-<td></td>
-<td><p>2016年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/萨索罗足球俱乐部" title="wikilink">-{zh-hans:萨索洛;zh-hk:薩斯索羅;}-</a></p></td>
-<td><p>18/19球季</p></td>
-</tr>
-<tr class="odd">
 <td><p><strong>77</strong></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/阿倫·夏利洛域" title="wikilink">-{zh-hans:哈利洛维奇; zh-hk:夏利洛域}-</a>（Alen Halilović）</p></td>
@@ -1340,7 +1260,7 @@ AC米蘭進球
 <td><p><a href="https://zh.wikipedia.org/wiki/标准列日" title="wikilink">标准列日</a></p></td>
 <td><p>18/20球季</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -1380,136 +1300,6 @@ AC米蘭進球
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><font color="#FF0000"><strong>2018年夏季轉會窗</strong></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>1</strong></p></td>
-<td></td>
-<td><p><a href="../Page/加布里埃尔·瓦斯康塞洛斯·费雷拉.md" title="wikilink">-{zh-hans:加布里埃尔;zh-hk:基比爾;zh-tw:加布裡埃爾;}-</a>（Gabriel）</p></td>
-<td><p>門將</p></td>
-<td></td>
-<td><p>2012年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/佩魯賈足球會" title="wikilink">佩魯賈</a></p></td>
-<td><p>自由轉會</p></td>
-</tr>
-<tr class="even">
-<td><p><strong>7</strong></p></td>
-<td></td>
-<td><p><a href="../Page/尼古拉·卡利尼奇.md" title="wikilink">-{zh-hans:卡利尼奇; zh-hk:卡連歷}-</a>（Nikola Kalinić）</p></td>
-<td><p>前鋒</p></td>
-<td></td>
-<td><p>2017年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/马德里竞技俱乐部" title="wikilink">-{zh-hans:马德里竞技; zh-tw:馬德里競技; zh-hk:馬德里體育會; zh-mo:馬德里體育; zh-sg: 体育马德里;}-</a></p></td>
-<td><p>1,450萬歐元</p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>9</strong></p></td>
-<td></td>
-<td><p><a href="../Page/詹卢卡·拉帕杜拉.md" title="wikilink">拉帕杜拉</a>（Gianluca Lapadula）</p></td>
-<td><p>中锋</p></td>
-<td></td>
-<td><p>2016年</p></td>
-<td><p><a href="../Page/热那亚板球与足球俱乐部.md" title="wikilink">热那亚</a></p></td>
-<td><p>1,100万欧元</p></td>
-</tr>
-<tr class="even">
-<td><p><strong>19</strong></p></td>
-<td></td>
-<td><p><a href="../Page/莱昂纳多·博努奇.md" title="wikilink">-{zh-hans:博努奇; zh-hk:邦路斯;zh-tw:博努奇}-</a>（Leonardo Bonucci）<a href="https://zh.wikipedia.org/wiki/File:Captain_sports.svg" title="fig:Captain_sports.svg">Captain_sports.svg</a></p></td>
-<td><p>中后卫</p></td>
-<td></td>
-<td><p>2017年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/尤文圖斯" title="wikilink">-{zh-hans:尤文图斯;zh-hk:祖雲達斯;zh-tw:尤文圖斯;}-</a></p></td>
-<td><p>球員交換</p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>23</strong></p></td>
-<td></td>
-<td><p><a href="../Page/何塞·索萨.md" title="wikilink">-{zh-hans:索萨;zh-hk:蘇沙}-</a>（José Sosa）</p></td>
-<td><p>中場</p></td>
-<td></td>
-<td><p>2016年</p></td>
-<td><p><a href="../Page/特拉布宗体育.md" title="wikilink">特拉布宗体育</a></p></td>
-<td><p>340萬歐元</p></td>
-</tr>
-<tr class="even">
-<td><p><strong>29</strong></p></td>
-<td></td>
-<td><p><a href="../Page/加布里埃爾·帕萊塔.md" title="wikilink">-{zh-hans:帕莱塔;zh-hk:柏列達}-</a>（Gabriel Paletta）</p></td>
-<td><p>中后卫</p></td>
-<td></td>
-<td><p>2015年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/江苏苏宁足球俱乐部" title="wikilink">-{zh-hans:江苏苏宁; zh-hk:江蘇蘇寧;}-</a></p></td>
-<td><p>自由轉會</p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>30</strong></p></td>
-<td></td>
-<td><p><a href="../Page/馬高·史度拉利.md" title="wikilink">-{zh-hans:斯托拉里;zh-hk:史度拉利}-</a>（Marco Storari）</p></td>
-<td><p>門將</p></td>
-<td></td>
-<td><p>2017年</p></td>
-<td><p>-</p></td>
-<td><p>自由轉會</p></td>
-</tr>
-<tr class="even">
-<td><p><strong>31</strong></p></td>
-<td></td>
-<td><p><a href="../Page/盧卡·安東內利.md" title="wikilink">-{zh-hans:安東內利;zh-hk:安東尼利;}-</a>（Luca Antonelli）</p></td>
-<td><p>左后卫</p></td>
-<td></td>
-<td><p>2015年</p></td>
-<td><p><a href="../Page/恩波利足球俱乐部.md" title="wikilink">-{zh-hans:恩波利;zh-hk:安玻里;zh-tw:恩波利;}-</a></p></td>
-<td><p>自由轉會</p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>70</strong></p></td>
-<td></td>
-<td><p><a href="../Page/卡路士·巴卡.md" title="wikilink">-{zh-hans:卡洛斯·巴卡 ;zh-hk:卡路士·巴卡 }-</a>（Carlos Bacca）</p></td>
-<td><p>中鋒</p></td>
-<td></td>
-<td><p>2015年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/比利亞雷阿爾足球俱樂部" title="wikilink">-{zh-hans:比利亞雷阿爾 ;zh-hk:維拉利爾 }-</a></p></td>
-<td><p>700万欧元</p></td>
-</tr>
-<tr class="even">
-<td><p><strong>94</strong></p></td>
-<td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/麥比耶利安" title="wikilink">-{zh-hans:尼昂; zh-hk:尼安}-</a>（M'Baye Niang）</p></td>
-<td><p>左边锋</p></td>
-<td></td>
-<td><p>2012年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/都灵足球俱樂部" title="wikilink">都灵</a></p></td>
-<td><p>1,200万欧元</p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>--</strong></p></td>
-<td></td>
-<td><p><a href="../Page/詹馬爾科·齊格尼.md" title="wikilink">-{zh-hans:齐格尼 ;zh-hk:齊格尼 }-</a>（Gianmarco Zigoni）</p></td>
-<td><p>中鋒</p></td>
-<td></td>
-<td><p>2011年</p></td>
-<td><p><a href="../Page/威尼斯足球俱樂部.md" title="wikilink">威尼斯</a></p></td>
-<td><p>40万欧元</p></td>
-</tr>
-<tr class="even">
 <td><p><font color="#FF0000"><strong>2019年冬季轉會窗</strong></p></td>
 <td></td>
 <td></td>
@@ -1519,6 +1309,36 @@ AC米蘭進球
 <td></td>
 <td></td>
 </tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>9</strong></p></td>
+<td></td>
+<td><p><a href="../Page/冈萨洛·伊瓜因.md" title="wikilink">-{zh-hans:伊瓜因; zh-tw:伊瓜因; zh-hk:希古恩}-</a>（Gonzalo Higuaín）</p></td>
+<td><p>中鋒</p></td>
+<td></td>
+<td><p>2018年</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/尤文圖斯" title="wikilink">-{zh-hans:尤文图斯;zh-hk:祖雲達斯;zh-tw:尤文圖斯;}-</a></p></td>
+<td><p>租借歸還</p></td>
+</tr>
+<tr class="even">
+<td><p><font color="#FF0000"><strong>2019年夏季轉會窗</strong></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 <tr class="odd">
 <td></td>
 <td></td>
@@ -1530,14 +1350,74 @@ AC米蘭進球
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong>9</strong></p></td>
+<td><p><strong>4</strong></p></td>
 <td></td>
-<td><p><a href="../Page/冈萨洛·伊瓜因.md" title="wikilink">-{zh-hans:伊瓜因; zh-tw:伊瓜因; zh-hk:希古恩}-</a>（Gonzalo Higuaín）</p></td>
-<td><p>中鋒</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/何塞·毛里" title="wikilink">-{zh-hans:毛里;zh-hk:莫利}-</a>（José Mauri）</p></td>
+<td><p>中場</p></td>
+<td></td>
+<td><p>2015年</p></td>
+<td><p>'''待定</p></td>
+<td><p>自由轉會</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>14</strong></p></td>
+<td></td>
+<td><p><a href="../Page/蒂莫埃·巴卡約科.md" title="wikilink">-{zh-hans:巴卡約科;zh-hk:巴卡約高;zh-tw:巴卡約科}-</a>（Tiémoué Bakayoko）</p></td>
+<td><p>防守中場／正中場</p></td>
 <td></td>
 <td><p>2018年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/尤文圖斯" title="wikilink">-{zh-hans:尤文图斯;zh-hk:祖雲達斯;zh-tw:尤文圖斯;}-</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/車路士" title="wikilink">-{zh-cn:切尔西;zh-hk:車路士;zh-tw:切爾西;}-</a></p></td>
 <td><p>租借歸還</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>16</strong></p></td>
+<td></td>
+<td><p><a href="../Page/安德烈亞·貝爾托拉奇.md" title="wikilink">-{zh-hans:贝尔托拉奇;zh-hk:貝圖拉斯}-</a>（Andrea Bertolacci）</p></td>
+<td><p>中場</p></td>
+<td></td>
+<td><p>2015年</p></td>
+<td><p>'''待定</p></td>
+<td><p>自由轉會</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>17</strong></p></td>
+<td></td>
+<td><p><a href="../Page/克里斯蒂安·萨帕塔.md" title="wikilink">-{zh-hans:萨帕塔;zh-hk:沙柏達;zh-tw:薩帕塔;}-</a>（Cristián Zapata）</p></td>
+<td><p>中后卫</p></td>
+<td></td>
+<td><p>2012年</p></td>
+<td><p>'''待定</p></td>
+<td><p>自由轉會</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>18</strong></p></td>
+<td></td>
+<td><p><a href="../Page/列卡度·蒙度利禾.md" title="wikilink">-{zh-hans:蒙托利沃;zh-hk:蒙度利禾;zh-tw:蒙托利沃;}-</a>（Riccardo Montolivo）</p></td>
+<td><p>防守中場</p></td>
+<td></td>
+<td><p>2012年</p></td>
+<td><p>'''待定</p></td>
+<td><p>自由轉會</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>20</strong></p></td>
+<td></td>
+<td><p><a href="../Page/伊尼亚齐奥·阿巴特.md" title="wikilink">-{zh-hans:阿巴特;zh-hk:阿比迪;zh-tw:阿巴特;}-</a>（Ignazio Abate）<a href="https://zh.wikipedia.org/wiki/File:Vice_Captain_Sports.gif" title="fig:Vice_Captain_Sports.gif">Vice_Captain_Sports.gif</a></p></td>
+<td><p>右后卫</p></td>
+<td></td>
+<td><p>2009年</p></td>
+<td><p>'''待定</p></td>
+<td><p>自由轉會</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>73</strong></p></td>
+<td></td>
+<td><p><a href="../Page/曼努埃尔·洛卡特利.md" title="wikilink">-{zh-cn:洛卡特利;zh-hk:盧卡迪利;zh-tw:洛卡特利;}-</a>（Manuel Locatelli）</p></td>
+<td><p>后腰</p></td>
+<td></td>
+<td><p>2016年</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/萨索罗足球俱乐部" title="wikilink">-{zh-hans:萨索洛;zh-hk:薩斯索羅;}-</a></p></td>
+<td><p>1000萬歐元</p></td>
 </tr>
 </tbody>
 </table>

@@ -1,5 +1,5 @@
 **Beyond**，[香港](../Page/香港.md "wikilink")[搖滾樂隊](https://zh.wikipedia.org/wiki/搖滾樂隊 "wikilink")，1983年成立，早年被視為地下樂隊，1987年加入香港主流樂壇，是[華人樂壇上最具代表性的搖滾樂隊之一](https://zh.wikipedia.org/wiki/華人 "wikilink")。
-樂隊自成立以來一直堅持本地原創及積極採用[粵語歌詞取代當時香港以](https://zh.wikipedia.org/wiki/粵語 "wikilink")[英語為主流的搖滾樂](https://zh.wikipedia.org/wiki/英語 "wikilink")，將在香港被視為「地下音樂」的[重金属搖滾樂帶到主流樂壇](../Page/重金属.md "wikilink")，並通过重新包装使其普及。樂隊無論在作曲、填詞、編曲、演奏及監製等，大部分均由各成員包辦，而作品內容多以寫實為主，當中包括：樂隊成員對未來的憧憬和盼望、表達追求理想與現實世界之間的矛盾、反映社會狀況及諷刺時弊、宣揚和平與愛，還有各成員對世界周邊事情的所見所感等。
+樂隊自成立以來一直堅持本地原創及積極採用[粵語歌詞取代當時香港以](https://zh.wikipedia.org/wiki/粵語 "wikilink")[英語為主流的搖滾樂](https://zh.wikipedia.org/wiki/英語 "wikilink")，將在香港被視為「地下音樂」的[重金属搖滾樂帶到主流樂壇](https://zh.wikipedia.org/wiki/重金屬音樂 "wikilink")，並通过重新包装使其普及。樂隊無論在作曲、填詞、編曲、演奏及監製等，大部分均由各成員包辦，而作品內容多以寫實為主，當中包括：樂隊成員對未來的憧憬和盼望、表達追求理想與現實世界之間的矛盾、反映社會狀況及諷刺時弊、宣揚和平與愛，還有各成員對世界周邊事情的所見所感等。
 2004年末，樂隊宣佈解散，並於2005年舉行《Beyond The Story Live
 2005》告別演唱會，之後各成員各自繼續發展自己的音樂事業。
 
@@ -528,11 +528,13 @@ Beyond崇尚理想和自由的歌曲，如《[海闊天空](../Page/海闊天空
 
 2008年[汶川大地震](../Page/汶川大地震.md "wikilink")，[香港演藝人協會選用](https://zh.wikipedia.org/wiki/香港演藝人協會 "wikilink")《[海闊天空](../Page/海闊天空_\(Beyond歌曲\).md "wikilink")》作為了中國版的《[We
 Are the
-World](../Page/天下一家.md "wikilink")》——[劉德華為這首歌譜寫了國語版歌詞](../Page/劉德華.md "wikilink")，取名為《[承諾](https://zh.wikipedia.org/wiki/承諾 "wikilink")》，成為[兩岸三地影視明星為災民打氣的慈善歌曲](../Page/兩岸三地.md "wikilink")。
+World](../Page/天下一家.md "wikilink")》——[劉德華為這首歌譜寫了國語版歌詞](../Page/劉德華.md "wikilink")，取名《[承諾](https://zh.wikipedia.org/wiki/承諾 "wikilink")》，並於「[演藝界512關愛行動](../Page/演藝界512關愛行動.md "wikilink")」由[兩岸三地群星演唱](../Page/兩岸三地.md "wikilink")，作為籌款賑災的主題曲之用。
 
 同年[北京奧運會](https://zh.wikipedia.org/wiki/2008年夏季奥林匹克运动会 "wikilink")，[劉翔因傷退賽時](https://zh.wikipedia.org/wiki/劉翔 "wikilink")，場內突然播起《海闊天空》；2013和2015年，廣州恆大足球隊兩次奪得亞冠聯賽錦標時，天河體育場內都唱起了它。
 
 2017年，有[香港人在足球賽事前播放國歌時喝倒采](../Page/香港人.md "wikilink")\[22\]，指出《海闊天空》在「雨傘運動」時曾試過萬人大合唱，產生共鳴，認為《[義勇軍進行曲](https://zh.wikipedia.org/wiki/義勇軍進行曲 "wikilink")》不能代表香港，建議應以《海闊天空》或另一位歌手[羅文的](../Page/羅文.md "wikilink")《[獅子山下](../Page/獅子山下_\(歌曲\).md "wikilink")》代替，反映《海闊天空》在已被大眾推崇為「[香港精神](../Page/香港核心價值.md "wikilink")」的代表曲之一。
+
+同年，有關搖滾夢想主題的[中國電影](https://zh.wikipedia.org/wiki/中國電影 "wikilink")《[縫紉機樂隊](https://zh.wikipedia.org/wiki/縫紉機樂隊 "wikilink")》在最後一場戲中找來了千人現場合唱歌曲《[不再猶豫](../Page/猶豫.md "wikilink")》來致敬，葉世榮和黃貫中亦有客串參與。
 
 ## 音樂作品
 
@@ -812,7 +814,7 @@ Beyond曾發行過[粵語](https://zh.wikipedia.org/wiki/粵語 "wikilink")、[�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>1996年6月</p></td>
+<td><p>1996年2月</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Beyond得精彩" title="wikilink">Beyond得精彩</a></p></td>
 <td><p><a href="../Page/滾石唱片.md" title="wikilink">滾石唱片</a></p></td>
 <td></td>

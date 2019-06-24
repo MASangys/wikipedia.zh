@@ -1,25 +1,34 @@
-《**機動戰士GUNDAM SEED DESTINY**》是《[機動戰士GUNDAM
-SEED](../Page/機動戰士GUNDAM_SEED.md "wikilink")》的續篇，機動戰士鋼彈系列之一。[MBS製作](../Page/每日放送.md "wikilink")，[TBS系播放](../Page/TBS電視台.md "wikilink")，2004年10月9日至2005年10月1日逢週六下午六時播出。台灣版權由[博英社取得](../Page/博英社.md "wikilink")，並於2005年10月8日起於[中國電視公司逢週六播放](https://zh.wikipedia.org/wiki/中國電視公司 "wikilink")。[香港](../Page/香港.md "wikilink")[無線電視則譯為](../Page/電視廣播有限公司.md "wikilink")《**機動戰士特種命運**》，自2006年6月24日至2007年7月7日於[無線電視](../Page/電視廣播有限公司.md "wikilink")[翡翠台播放](../Page/翡翠台.md "wikilink")；香港[AXN亦有播放](../Page/AXN.md "wikilink")。
+是一部由[日本](../Page/日本.md "wikilink")[日昇動畫制作的电视](../Page/日昇動畫.md "wikilink")[动画连续剧](https://zh.wikipedia.org/wiki/电视动画 "wikilink")，既是《[机动战士高达SEED](https://zh.wikipedia.org/wiki/机动战士高达SEED "wikilink")》（下文简称〈SEED〉或者‘前作’）的[续集](https://zh.wikipedia.org/wiki/续集 "wikilink")，也是[高达系列第十部长篇动画连续剧](../Page/GUNDAM系列作品.md "wikilink")。本剧保留了大部分参与过《SEED》制作的工作人员，包括导演[福田己津央](../Page/福田己津央.md "wikilink")。故事发生在《SEED》两年之后，主人公是一名新登场角色——[ZAFT军士兵](https://zh.wikipedia.org/wiki/機動戰士鋼彈SEED系列世界觀與設定#ZAFT "wikilink")[真·飞鸟](https://zh.wikipedia.org/wiki/真·飞鸟 "wikilink")。作为一名出生前就经过[基因改造的](https://zh.wikipedia.org/wiki/基因改造 "wikilink")“”，真·飞鸟随ZAFT军深入了新的战争，对抗由未经基因改造的“”。本剧还刻画了前作各个回归角色在战争中的活跃参与。本剧首次播映一共50集，从2004年10月9日到2005年10月1日，在[日本新闻网络电视台](../Page/日本新聞網_\(TBS\).md "wikilink")[东京广播系统和](../Page/東京放送控股.md "wikilink")[每日放送电视台播出](../Page/每日放送.md "wikilink")。
 
-2002年《[機動戰士GUNDAM
-SEED](../Page/機動戰士GUNDAM_SEED.md "wikilink")》獲得空前成功，據監督[福田己津央表示](../Page/福田己津央.md "wikilink")，本來的預定是要循《[新機動戰記鋼彈
-W](https://zh.wikipedia.org/wiki/新機動戰記鋼彈_W "wikilink")》的操作手法，接著推出劇場版；但後來在各方期待下變成再做一部TV續篇。距離前作完結僅一年的時間，本作《**機動戰士GUNDAM
-SEED
-DESTINY**》即問世，銜接之快可說是前所未有的。兩部TV動畫構成次於[U.C.紀元的第二大世界觀](https://zh.wikipedia.org/wiki/U.C. "wikilink")[C.E.紀元](../Page/宇宙纪元.md "wikilink")，同時也是繼[U.C.紀元之後](https://zh.wikipedia.org/wiki/U.C. "wikilink")，第二个擁有的系列。
+2005年12月，日昇動畫播出了一集特别剧情，尝试重构了原本电视台播映时的最后一集剧情。由电视剧版主线剧情改编的4集特别篇也已经在日本等地区上映。《机动战士高达SEED
+Destiny》（下文简称〈SEED
+Destiny〉）被改编成各种[漫画和](https://zh.wikipedia.org/wiki/漫画 "wikilink")[轻小说](https://zh.wikipedia.org/wiki/轻小说 "wikilink")，分别由[讲谈社和](../Page/讲谈社.md "wikilink")[角川书店出版](https://zh.wikipedia.org/wiki/角川书店 "wikilink")。[万代娱乐被授权在北美地区发行](https://zh.wikipedia.org/wiki/万代娱乐 "wikilink")《SEED
+Destiny》并已出版了数套DVD。本剧也曾在香港、加拿大等地的电视台播出，同时还以DVD的形式发行了名为《特别版》的合集影片。北美地区由Del
+Rey漫画授权出版了由本剧改编的漫画。版权方还发行了各种相关产品，包括音乐CD和各种视频游戏。
 
-## 故事簡介
+《SEED
+Destiny》在日本地区十分流行，已经售出超过100万张DVD和原声碟。在2004年和2005年的民意调查中，本剧都是“”的冠军作品。另一方面，围绕人物的结局，对《SEED
+Destiny》的也有不少批评。
 
-[C.E.](https://zh.wikipedia.org/wiki/C.E. "wikilink")70年，由於「**血腥情人節**」的慘劇，[地球聯合與](https://zh.wikipedia.org/wiki/地球聯合 "wikilink")[P.L.A.N.T.爆發了全面的武裝衝突](https://zh.wikipedia.org/wiki/P.L.A.N.T. "wikilink")，被稱為「**雅金‧杜威戰役**（或稱血腥情人節戰爭）」。在這場戰爭中，[真·飛鳥家族被捲入](../Page/真·飛鳥.md "wikilink")[大西洋聯邦對](https://zh.wikipedia.org/wiki/大西洋聯邦 "wikilink")[奧布的侵攻](https://zh.wikipedia.org/wiki/奧布 "wikilink")，撤離途中受到流彈波及，其雙親和胞妹葬身在自己眼前。緊握著唯一的遺物‧妹妹的行動電話，抬頭望著呼嘯飛去的[自由鋼彈](../Page/ZGMF-X10A_Freedom.md "wikilink")，真對於戰爭的憎惡以及自身的無力發出悲痛欲絕的嘶吼，失意的他隨後被遣送[P.L.A.N.T.](https://zh.wikipedia.org/wiki/P.L.A.N.T. "wikilink")。
+## 剧情
 
-為時一年半的戰爭直至**第二次[雅金·杜威攻防戰](https://zh.wikipedia.org/wiki/雅金·杜威 "wikilink")**落幕，雙方締結「**尤尼烏斯條約**」後方才平息；然而，一紙停戰條約並無法消除[自然人與](https://zh.wikipedia.org/wiki/自然人 "wikilink")[調整者之間紛爭的火種](https://zh.wikipedia.org/wiki/調整者 "wikilink")。停戰後兩年，[C.E.](https://zh.wikipedia.org/wiki/C.E. "wikilink")73年10月2日。為了和[P.L.A.N.T.最高評議會議長](https://zh.wikipedia.org/wiki/P.L.A.N.T. "wikilink")[吉伯特·杜蘭朵的非正式會談](https://zh.wikipedia.org/wiki/吉伯特·杜蘭朵 "wikilink")，以及[Z.A.F.T.新造艦](https://zh.wikipedia.org/wiki/Z.A.F.T. "wikilink")[智慧女神號的下水儀式](https://zh.wikipedia.org/wiki/LHM-BB01_Minerva "wikilink")，[奧布聯合首長國代表首長](https://zh.wikipedia.org/wiki/奧布 "wikilink")[卡嘉莉·由拉·阿斯哈與其護衛](https://zh.wikipedia.org/wiki/卡嘉莉·由拉·阿斯哈 "wikilink")[阿斯蘭·薩拉一行參訪](https://zh.wikipedia.org/wiki/阿斯蘭·薩拉 "wikilink")[P.L.A.N.T.位於L](https://zh.wikipedia.org/wiki/P.L.A.N.T. "wikilink")7的資源[衛星](../Page/衛星.md "wikilink")[殖民地](../Page/殖民地.md "wikilink")。然而突如其來地，[Z.A.F.T.位於軍械庫一號的新型](https://zh.wikipedia.org/wiki/Z.A.F.T. "wikilink")[MS三機遭身分不明者強奪](https://zh.wikipedia.org/wiki/MS "wikilink")，周圍陷入一片混亂。最後從天而降阻止這一切的是一台全新的[GUNDAM](../Page/GUNDAM.md "wikilink")，其駕駛員見到陷入火海的四周，憤怒地大喊：「又想要挑起戰爭了嗎！？你們這些人！！」他正是成為[Z.A.F.T.戰士的](https://zh.wikipedia.org/wiki/Z.A.F.T. "wikilink")[真·飛鳥](../Page/真·飛鳥.md "wikilink")……！
+《SEED
+Destiny》的故事发生在《SEED》故事的两年后。起于领导人[卡嘉莉·尤拉·阿斯哈与](../Page/卡嘉莉·尤拉·阿斯哈.md "wikilink")[PLANT时任](https://zh.wikipedia.org/wiki/機動戰士鋼彈SEED系列世界觀與設定#P.L.A.N.T "wikilink")[议长](https://zh.wikipedia.org/wiki/议长 "wikilink")[吉伯特·杜蘭朵在PLANT殖民卫星的会面](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_SEED系列角色列表#第二季登場角色 "wikilink")。当双方讨论到[战时流落到PLANT的欧普技术人员的去向问题时](../Page/機動戰士GUNDAM_SEED.md "wikilink")，同一殖民卫星中发生了[机动战士抢夺事件](../Page/机动战士.md "wikilink")，[三架新造机动战士被名为](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_SEED系列機體列表#第二世代ZGMF-X系列試作MS "wikilink")“”的神秘武装组织派特工潜入并成功抢夺走，该组织由名为“”的极端组织所操控。此时身份为卡嘉莉保镖的[阿斯兰·萨拉加入PLANT武装部队](../Page/阿斯兰·萨拉.md "wikilink")[ZAFT飞行员](https://zh.wikipedia.org/wiki/機動戰士鋼彈SEED系列世界觀與設定#ZAFT "wikilink")[真·飞鸟他们的队伍](https://zh.wikipedia.org/wiki/真·飞鸟 "wikilink")，搭乘ZAFT战舰[“密涅瓦”号一同追讨被抢夺走的几架机动战士](https://zh.wikipedia.org/wiki/机动战士GUNDAM_SEED系列舰船及其他兵器列表#Z.A.F.T. "wikilink")\[1\]。在战斗中，“密涅瓦”号奉命摧毁一个殖民卫星残骸，以防止它撞上地球。他们发现一部分流亡的ZAFT军士兵控制了殖民卫星残骸以便让它直接撞击地球\[2\]。在未能完全破坏坠往地球表面的殖民卫星残骸之后，ZAFT军士兵导致的殖民卫星坠落地球的消息传开了，这导致了地球联盟和ZAFT军派系之间爆发了第二次战争。中立国欧普联合和地球联盟结盟，前者也同时加入了“蓝色宇宙”。这一系列突变导致了这三方之间与ZAFT军发生了数次交火，与此同时阿斯兰也暨由这一连串事件而返回了PLANT并加入ZAFT军。
 
-## 登場角色
+在战争的后期，[“大天使”号加入战局干涉ZAFT与地球联合之间的战斗](../Page/LCAM-01XA_Archangel.md "wikilink")。尽管与“大天使”号组成了联盟，但是卡嘉莉仍然未能阻止她的国家陷入战争，并同时使得“大天使”号也被卷入其中。在杜蘭朵议长将“大天使”号以及阿斯兰的好友[基拉·大和定为敌人](../Page/基拉·大和.md "wikilink")，并命令阿斯兰击毁击毁他们之后，阿斯兰开始对议长无法信任。当杜蘭朵把他定性为叛徒之后，阿斯兰选择和[美鈴·霍克一起从ZAFT叛逃出来](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_SEED系列角色列表#第二季登場角色_2 "wikilink")。卡嘉莉最终从欧普联合[傀儡政府手中夺回领导权](https://zh.wikipedia.org/wiki/傀儡政府 "wikilink")，这导致了被庇护的“蓝色宇宙”成员逃亡至太空。“蓝色宇宙”的领袖[洛德·吉布列下令发射轨道间全方位战略炮](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_SEED系列角色列表#第二季登場角色 "wikilink")“[镇魂曲](https://zh.wikipedia.org/wiki/机动战士GUNDAM_SEED系列舰船及其他兵器列表#大规模杀伤性武器 "wikilink")”，摧毁了PLANT的许多太空殖民地，导致许多人死亡。在“密涅瓦”号成功杀死吉布列并夺取“镇魂曲”后，杜蘭朵公布了旨在以[基因工程为基础分配人的工作和未来的](../Page/基因工程.md "wikilink")“”，并使用“镇魂曲”清除所有的反对计划者。这使得真和“密涅瓦”号上的船员与“大天使”号以及ZAFT其他部队发生了直接冲突。基拉·大和和阿斯兰分别搭乘他们各自的新机动战士ZGMF-X20A“攻击自由”和ZGMF-X19A“无限正义”，与其他盟友一起击败了“密涅瓦”号以及“镇魂曲”的其他守军。杜蘭朵最终死在他自己的追随者[雷·札·巴雷爾手上](https://zh.wikipedia.org/wiki/雷·札·巴雷爾 "wikilink")。
 
-## 登場機體
+本剧的结尾在原版动画以及最后一部汇编“特别篇”中都有所扩展\[3\]。杜蘭朵死后不久，在拉克斯·克莱恩的带领下地球同盟、PLANT和欧普联合会谈结束战争。在经过了数次对战后，基拉和真第二次面对面，并互相承诺会携手共创更美好的未来。
 
-## 登场舰船及其他兵器
+## 制作
 
-## 製作陣容
+《SEED
+Destiny》早在2004年7月的日本杂志上被首次公布。更早些的时候，配音演员[关智一曾表示](https://zh.wikipedia.org/wiki/关智一 "wikilink")，他正在为一部将会很受欢迎的动画片工作，粉丝们被暗示这部动画片与《SEED》有很大关联\[4\]。一个月后，本剧的第一部预告片在其官方网站上发布\[5\]。在本剧首映之前，作画监督椛岛洋介曾暗示了主人公真·飞鸟的人物特征，他说《SEED
+Destiny》的主角将是一个前传中没有出现过的角色，他的外表更显单薄\[6\]。前作的主要制作人员包括导演福田己津央都回归参加《SEED
+Destiny》的制作\[7\]。本剧在日本首播时，福田导演曾表示，与前作《SEED》不同，续集《SEED
+Destiny》将不会关注基拉和阿斯兰的关系，而是更多的关注真·飞鸟参与到战争中的情况。真所代表的角色是为了与基拉在整部剧中的角色进行对比，但是和基拉一样，他的角色在剧中也经历了一段重大发展的过程\[8\]。关于本剧的单集作画张数，2011年5月8日在举办的“とことんSDガンダム\!\!
+in ロフトプラスワン”上，制片人佐藤弘幸曾表示，第50集达到最高的4800张\[9\]\[10\]。
+
+### 製作陣容
 
   - 企畫：[SUNRISE](../Page/日昇動畫.md "wikilink")
   - 原作：[矢立肇](https://zh.wikipedia.org/wiki/矢立肇 "wikilink")、[富野由悠季](../Page/富野由悠季.md "wikilink")
@@ -43,849 +52,115 @@ DESTINY**》即問世，銜接之快可說是前所未有的。兩部TV動畫構
   - 協助製作：創通Agency/[ADK](https://zh.wikipedia.org/wiki/ADK "wikilink")
   - 製作：每日放送、SUNRISE
 
-## 主題曲
+## 媒体作品
 
-### 原版
+### 动画
 
-  - 片頭曲
+2004年10月9日下午6点，《SEED
+Destiny》在日本新闻网络电视台东京广播系统和每日放送电视台首播，接替此前刚播放结束的《[钢之炼金术师](https://zh.wikipedia.org/wiki/鋼之鍊金術師_\(動畫\) "wikilink")》，并于2005年10月1日结束播映。2005年12月，日本地区播出了一期名为《被选择的未来》的特别节目。这一集主要是对第50集的补充，延长了该剧的结局部分。从2005年2月24日到2005年2月24日，这一系列被收录在一共十三卷DVD中，在日本地区发行\[11\]\[12\]。2010年4月9日，本剧发行了DVD盒装版\[13\]。
 
-<!-- end list -->
+该剧由万代娱乐授权在北美市场播放。英语改编版是由万代娱乐与合作制作的，英语配音在海洋工作室录制。本剧在2006年3月14日至2008年1月8日期间，在北美以未删减的双语格式发行了12张DVD\[14\]\[15\]。《Final
+Plus》一集在2007年7月得到版权方授权许可\[16\]，于2008年4月15日发售了单张DVD\[17\]。两卷“动漫传奇版”DVD盒装"分别在2009年1月13日，2009年5月19日发售\[18\]\[19\]。
 
-1.  「**ignited -イグナイテッド-**」**（PHASE-01 - PHASE-13）**
-      -
-        作詞：[井上秋緒](https://zh.wikipedia.org/wiki/井上秋緒 "wikilink") /
-        作曲、編曲：[淺倉大介](https://zh.wikipedia.org/wiki/淺倉大介 "wikilink")
-        / 主唱：[T.M.Revolution](../Page/T.M.Revolution.md "wikilink")
-2.  「**PRIDE**」**（PHASE-14 - PHASE-24）**
-      -
-        作詞、作曲、編曲、主唱：[HIGH and MIGHTY
-        COLOR](https://zh.wikipedia.org/wiki/HIGH_and_MIGHTY_COLOR "wikilink")
-3.  「**我們的去向**」（）**（PHASE-25 - PHASE-37）**
-      -
-        作詞：[Yuta
-        Nakano](https://zh.wikipedia.org/wiki/中野雄太 "wikilink")+[shungo.](https://zh.wikipedia.org/wiki/shungo. "wikilink")
-        / 作曲、編曲：Yuta Nakano / 主唱：[高橋瞳](../Page/高橋瞳.md "wikilink")
-4.  「**Wings of Words**」**（PHASE-38 - FINAL PHASE）**
-      -
-        作詞：[森雪之丞](https://zh.wikipedia.org/wiki/森雪之丞 "wikilink") /
-        作曲：[葛谷葉子](https://zh.wikipedia.org/wiki/葛谷葉子 "wikilink")、谷口尚久
-        / 編曲：谷口尚久 / 主唱：[CHEMISTRY](../Page/化學超男子.md "wikilink")
-5.  「**vestige -ヴェスティージ-**」**（FINAL PLUS）**
-      -
-        作詞：井上秋緒 / 作曲、編曲：淺倉大介 / 主唱：T.M.Revolution
+《SEED Destiny》于2007年3月9日晚上9:30在的节目中开始在加拿大播出\[20\]。2008年1月11日，《SEED
+Destiny》的播出时间改为10:30，原时段改为播出《[BLEACH](../Page/BLEACH_\(動畫\).md "wikilink")》。2008年3月28日，结束了第一次播映。2007年5月到6月，由在美国提供[有线点播](../Page/隨選視訊.md "wikilink")\[21\]。7月时仅有1至22集上线可供点播，被认为是由于康卡斯特有线的原因而被停播，但是在9月又再次以英语配音版上线。康卡斯特有线电视台在2008年2月底上线了第50集配音版，但由于万代娱乐在加拿大结束运营，这个版本已经绝版。2014年10月11日，在2014年小组会议上，Sunrise宣布他们将发布所有GUNDAM系列作品，包括从2015年春季开始由在北美地区分销的《SEED
+Destiny》\[22\]。Sunrise将在北美发布《SEED》的高清重制版，并将推出由制作的全新英文配音\[23\]。2012年11月，Sunrise在最后一集的《SEED高清重制版》后宣布了《SEED
+Destiny》也将被高清重制的消息\[24\]。不久之后，导演福田在他的推特账户中宣布，《SEED
+Destiny》高清重制发行的最后一集将结合原始结局与特别篇中的元素\[25\]。
 
-<!-- end list -->
+《机动战士Gundam SEED C.E. 73：Stargazer》是《SEED
+Destiny》的[原创网络动画](https://zh.wikipedia.org/wiki/原创网络动画 "wikilink")，于2006年7月14日开始在网络串流发布，而包含所有三集的DVD于2006年11月24日在日本发行\[26\]。
 
-  - 片尾曲
+### 特别篇
 
-<!-- end list -->
+电视动画的四部剧情汇编版被命名为《机动战士高达SEED
+Destiny：特别篇》，每一部都以约90分钟的片长由电视版动画配合新添加的片段来讲述《SEED
+Destiny》的主线剧情。与《》不同的是，《SEED
+Destiny：特别篇》以[阿斯兰·萨拉为主要](../Page/阿斯兰·萨拉.md "wikilink")来展开讲述。这四部特别篇在2006年5月25日至2007年2月23日间以DVD格式发布\[27\]\[28\]。《SEED：特别篇》和《SEED
+Destiny：特别篇》的合辑于2010年2月25日再日本发行\[29\]。《SEED：特别篇》在北美由万代娱乐获得许可，并于2008年6月17日至2009年1月13日期间以双语DVD发行\[30\]\[31\]。Sunrise将于2015年开始与Right
+Stuf Inc.合作发布《SEED Destiny：特别篇》\[32\]。
 
-1.  「**Reason**」**（PHASE-01 - PHASE-13）**
-      -
-        作詞：[shungo.](https://zh.wikipedia.org/wiki/shungo. "wikilink") /
-        作曲：[y@suo otani](https://zh.wikipedia.org/wiki/大谷靖夫 "wikilink")
-        / 編曲：[ats-](https://zh.wikipedia.org/wiki/ats- "wikilink") /
-        主唱：[玉置成實](../Page/玉置成實.md "wikilink")
-2.  「**Life Goes On**」**（PHASE-14 - PHASE-25）**
-      -
-        作詞、主唱：[有坂美香](https://zh.wikipedia.org/wiki/有坂美香 "wikilink") /
-        作曲：[梶浦由記](../Page/梶浦由記.md "wikilink") /
-        編曲：梶浦由記、[西川進](https://zh.wikipedia.org/wiki/西川進 "wikilink")
-3.  「**I Wanna Go To A Place...**」**（PHASE-26 - PHASE-37）**
-      -
-        作詞、作曲、主唱：[Rie fu](../Page/Rie_fu.md "wikilink") / 編曲：SNORKEL
-4.  「****」（你與我相似）**（PHASE-38 - FINAL PLUS、Special Edition IV 自由的代價）**
-      -
-        作詞：石川智晶 / 作曲、編曲：梶浦由記 /
-        主唱：[See-Saw](../Page/See-Saw.md "wikilink")
-5.  「**Result**」**（Special Edition I 破碎的世界）**
-      -
-        作詞：shungo. /
-        作曲：[藤末樹](https://zh.wikipedia.org/wiki/藤末樹 "wikilink")
-        / 編曲：[齋藤真也](https://zh.wikipedia.org/wiki/齋藤真也 "wikilink") /
-        主唱：玉置成實
-6.  「**tears**」**（Special Edition II 各自的劍）**
-      -
-        作詞、作曲：[小峰理紗](../Page/小峰理紗.md "wikilink") /
-        編曲：[江口貴勅](../Page/江口貴勅.md "wikilink") /
-        主唱：[lisa](../Page/小峰理紗.md "wikilink")
-7.  「****」**（Special Edition III 命運的業火）**
-      -
-        作词、作曲、编曲、主唱：HIGH and MIGHTY COLOR
+### 剧场版电影
 
-<!-- end list -->
+即便剧情大纲已经写好，但是《SEED Destiny》剧场版电影的制作并没有继续进行下去。这原本将是继1991年《[机动战士GUNDAM
+F91](https://zh.wikipedia.org/wiki/机动战士GUNDAM_F91 "wikilink")》之后，高达系列的第一部[长篇](https://zh.wikipedia.org/wiki/長篇_\(電影術語\) "wikilink")[动画电影](https://zh.wikipedia.org/wiki/动画电影 "wikilink")\[33\]\[34\]，但由于制作时机不断的推迟，最终被《[机动战士GUNDAM
+OO](https://zh.wikipedia.org/wiki/机动战士GUNDAM_OO "wikilink")》的[剧场版所取代](../Page/劇場版_機動戰士GUNDAM00_-A_wakening_of_the_Trailblazer-.md "wikilink")。这部影片于2006年5月6日在“2006索尼音乐动漫展”上首次发布了一则简短的片段，主角是真·飞鸟、卡嘉莉·尤拉·阿斯哈、拉克丝·克莱因等。展会后，日升也在官网上发布了这段片段\[35\]。
 
-  - 插入曲
+剧中角色史黛拉·鲁西耶的配音演员[桑岛法子在她的](../Page/桑岛法子.md "wikilink")“SEED俱乐部博客”中表示该角色也将在电影中以某种形式出现。拉克丝、伊扎克·玖尔和迪亚哥·艾尔斯曼将作为PLANT最高评议会成员回归，基拉、真和露娜玛丽亚·霍克也将成为ZAFT军一员\[36\]。
 
-<!-- end list -->
+在2008年4月版的《[Animage](../Page/Animage.md "wikilink")》上，编剧两泽千晶解释说，虽然她已经设法完成了情节大纲，但是由于她身患疾病需要持续治疗，这个项目被无限期推迟。两泽千晶最终于2016年2月19日去世\[37\]。
 
-1.  「**Fields of hope**」**（PHASE-7、PHASE-20、PHASE-41、破碎的世界、自由的代價）**
-      -
-        作詞、作曲、編曲：梶浦由記 /
-        主唱：[拉克絲·克萊因](../Page/拉克絲·克萊因.md "wikilink")（[田中理惠](../Page/田中理惠_\(聲優\).md "wikilink")）
-2.  「****」**（PHASE-10、PHASE-19、破碎的世界）**
-      -
-        作詞、作曲、編曲：梶浦由記 / 主唱：拉克絲·克萊因（田中理惠）
-3.  「**Quiet Night C.E.73**」**（PHASE-17、PHASE-19、PHASE-24、PHASE-26）**
-      -
-        作詞：梶浦由記 / 作曲：佐橋俊彦 / 編曲：鈴木Daichi秀行 /
-        主唱：[蜜雅·坎貝爾](https://zh.wikipedia.org/wiki/蜜雅·坎貝爾 "wikilink")（田中理惠）
-4.  「****」（深海的孤獨）**（PHASE-21、PHASE-26、PHASE-30、PHASE-33、命運的業火）**
-      -
-        作詞、作曲、編曲：梶浦由記 /
-        主唱：[桑島法子](https://zh.wikipedia.org/wiki/桑島法子 "wikilink")
-5.  「**Meteor -ミーティア-**」**（PHASE-23、各自的劍，HD重制版PHASE-23、PHASE-41）**
-      -
-        作詞：井上秋緒 / 作曲、編曲：淺倉大介 / 主唱：T.M.Revolution
-6.  「**vestige
-    -ヴェスティージ-**」**（PHASE-39、PHASE-41、PHASE-42、PHASE-49、命運的業火）**
-      -
-        作詞：井上秋緒 / 作曲、編曲：淺倉大介 / 主唱：T.M.Revolution
-7.  「****」**（PHASE-40、PHASE-44 - PHASE-49）**
-      -
-        作詞、作曲、編曲：[梶浦由記](../Page/梶浦由記.md "wikilink") /
-        主唱：[FictionJunction
-        YUUKA](../Page/FictionJunction.md "wikilink")
-        PHASE-44之后在次回预告中使用。
-8.  「**EMOTION**」**（PHASE-47、各自的劍）**
-      -
-        作詞：清水しょうこ/ 作曲、編曲：鈴木Daichi秀行 / 主唱：蜜雅·坎貝爾（田中理惠）
-9.  「**Zips（[UNDER:COVER](https://zh.wikipedia.org/wiki/UNDER:COVER "wikilink")
-    ver.）**」**（破碎的世界）**
-      -
-        作詞：井上秋緒 / 作曲：淺倉大介 / 編曲：鈴木覚 / 主唱：T.M.Revolution
+### 音乐
 
-### HD Remaster
+[胜利娱乐为本剧发行了大量配乐和角色印象](https://zh.wikipedia.org/wiki/胜利娱乐 "wikilink")[CD](../Page/CD.md "wikilink")。在2004到2005年期间，音乐公司发行了创作的三张配乐专辑。这几张配乐专辑以《机动战士高达SEED
+Destiny原声大碟》为名并以[罗马数字为序号](../Page/罗马数字.md "wikilink")，从[I到](../Page/I.md "wikilink")[III](https://zh.wikipedia.org/wiki/III "wikilink")。《[原声大碟I](https://zh.wikipedia.org/wiki/机动战士高达SEED系列音乐#机动战士高达SEED_DESTINY_ORIGINAL_SOUNDTRACK_I "wikilink")》收录了田中理惠的新歌并于2004年12月6日发行\[38\]，《[原声大碟II](https://zh.wikipedia.org/wiki/机动战士高达SEED系列音乐#机动战士高达SEED_DESTINY_ORIGINAL_SOUNDTRACK_II "wikilink")》收录了桑岛法子的新歌并于2005年4月21日发行\[39\]，《[原声大碟III](https://zh.wikipedia.org/wiki/机动战士高达SEED系列音乐#机动战士高达SEED_DESTINY_ORIGINAL_SOUNDTRACK_III "wikilink")》收录了梶浦由记制作的系列主题曲并于2005年8月24日发行\[40\]。此外，2006年2月2日发行了第四张配乐专辑《[机动战士高达SEED
+Destiny原声大碟IV](https://zh.wikipedia.org/wiki/机动战士高达SEED系列音乐#机动战士高达SEED_DESTINY_ORIGINAL_SOUNDTRACK_IV "wikilink")》收录了剧中的精选音乐\[41\]。四张专辑的首发版都包含一个豪华的塑料收纳盒。2005年12月16日发行了一张名为《[交响组曲
+机动战士高达SEED
+Destiny](https://zh.wikipedia.org/wiki/机动战士高达SEED系列音乐#Symphony_SEED_DESTINY_-Symphonic_Suit_机动战士高达SEED_DESTINY- "wikilink")》的精选[管弦乐专辑](https://zh.wikipedia.org/wiki/管弦乐 "wikilink")，由[伦敦交响乐团演出](../Page/伦敦交响乐团.md "wikilink")\[42\]。除了配乐外，版权方还发行了6支角色定制CD单曲，其中包括歌曲和广播剧节目。这几张CD同时也被作为《SEED》时期发行的6张CD的后续系列冠以顺接的序号\[43\]\[44\]。
 
-  - 片頭曲
+《SEED
+Destiny》共使用了四套片头和片尾主题曲。与最初的在《SEED》中类似，这些歌曲由高调和崭露头角的艺术家们所演绎。同样的，其中一些很有特色歌曲成为了顶级单曲，如[T.M.Revolution的](../Page/T.M.Revolution.md "wikilink")《》\[45\]。第三支片头主题《[我们的去向](https://zh.wikipedia.org/wiki/我们的去向 "wikilink")》由十五岁的新人[高桥瞳演绎](https://zh.wikipedia.org/wiki/高桥瞳 "wikilink")，并于2005年4月13日发行\[46\]。曾在前作实力演绎第三支片头主题曲的[玉置成实](https://zh.wikipedia.org/wiki/玉置成实 "wikilink")，也在本作再次倾力奉献\[47\]。此外，《SEED
+Destiny》中使用的两首插曲大受欢迎并创造了很高的销量，分别是由[FictionJunction
+YUUKA演绎的](https://zh.wikipedia.org/wiki/FictionJunction_YUUKA "wikilink")《》\[48\]以及T.M.Revolution的《》\[49\]。
 
-<!-- end list -->
+两张收录了片头片尾曲和插曲，包含《SEED》的部分歌曲在内的汇编专辑被发行。第一张专辑《[机动战士高达SEED DESTINY COMPLETE
+BEST](https://zh.wikipedia.org/wiki/机动战士高达SEED系列音乐#机动战士高达SEED_DESTINY_COMPLETE_BEST "wikilink")》，于2006年5月7日发行，其中收录了两剧全部8支主题曲\[50\]。
+另一张是名为《[机动战士高达SEED \~ SEED DESTINY BEST
+"THE_BRIDGE"](https://zh.wikipedia.org/wiki/机动战士高达SEED系列音乐#机动战士高达SEED_~_SEED_DESTINY_BEST_"THE_BRIDGE"_Across_the_Songs_from_GUNDAM_SEED_&_SEED_DESTINY "wikilink")》的双碟专辑，包含两剧的片尾曲、插曲和角色单曲，并于2006年11月22日发行。首发版还包括有一个小册子、艺术卡和海报\[51\]。
 
-1.  「**ignited -イグナイテッド-**」**（HD重制版PHASE-01 - PHASE-13）**
-      -
-        作词：[井上秋緒](https://zh.wikipedia.org/wiki/井上秋緒 "wikilink") /
-        作曲、編曲：[淺倉大介](https://zh.wikipedia.org/wiki/淺倉大介 "wikilink")
-        / 主唱：[T.M.Revolution](../Page/T.M.Revolution.md "wikilink")
-2.  「**PRIDE**」**（HD重制版PHASE-14 - PHASE-24）**
-      -
-        作词、作曲、編曲、主唱：[HIGH and MIGHTY
-        COLOR](https://zh.wikipedia.org/wiki/HIGH_and_MIGHTY_COLOR "wikilink")
-3.  「**我們的去向**」（）**（HD重制版PHASE-25 - PHASE-37）**
-      -
-        作词：[Yuta
-        Nakano](https://zh.wikipedia.org/wiki/中野雄太 "wikilink")+[shungo.](https://zh.wikipedia.org/wiki/shungo. "wikilink")
-        / 作曲、編曲：Yuta Nakano / 主唱：[高橋瞳](../Page/高橋瞳.md "wikilink")
-4.  「**vestige -ヴェスティージ-**」**（HD重制版PHASE-38 - FINAL PHASE）**
-      -
-        作词：井上秋緒 / 作曲、編曲：淺倉大介 / 主唱：T.M.Revolution
+### 漫画
 
-<!-- end list -->
+目前已经发行有多部由《SEED
+Destiny》改编的[漫画](https://zh.wikipedia.org/wiki/漫画 "wikilink")。第一部同名漫画由岩濑昌嗣绘画，连载于2004年11月26日至2006年4月26日。2005年4月22日到2006年6月23日，[讲谈社将这部漫画集结为](../Page/讲谈社.md "wikilink")4卷[单行本出版](https://zh.wikipedia.org/wiki/单行本 "wikilink")\[52\]\[53\]。Del
+Rey漫画于2005年12月得到这部漫画的授权在北美发行\[54\]，最终于2006年6月27日至2007年7月31日出版\[55\]\[56\]。
 
-  - 片尾曲
+也绘有《机动战士高达SEED
+Destiny：边缘》，从阿斯兰·萨拉的视角讲述动画中的事件，由角川书店在2005年4月26日至2006年10月26日期间分5卷出版\[57\]\[58\]。再这个系列结束后，久織又绘制了另外几卷，名为《机动战士高达SEED
+Destiny：边缘欲望》，重点介绍了系列中的其他人物。第一卷于2007年6月26日出版，第二卷则于2008年2月26日出版\[59\]\[60\]。外传漫画《机动战士高达SEED
+DESTINY
+ASTRAY》由千叶智弘负责剧本、[時田洸一负责绘制](../Page/時田洸一.md "wikilink")，在《[GUNDAM
+ACE](../Page/GUNDAM_ACE.md "wikilink")》杂志上连载并于2005年1月25日至2006年6月26日集结成4册单行本发行\[61\]\[62\]。
 
-<!-- end list -->
+### 电子游戏
 
-1.  「**Reason**」**（HD重制版PHASE-01 - PHASE-11）**
-      -
-        作词：[shungo.](https://zh.wikipedia.org/wiki/shungo. "wikilink") /
-        作曲：[y@suo otani](https://zh.wikipedia.org/wiki/大谷靖夫 "wikilink")
-        / 編曲：[ats-](https://zh.wikipedia.org/wiki/ats- "wikilink") /
-        主唱：[玉置成實](../Page/玉置成實.md "wikilink")
-2.  「**Result**」**（HD重制版PHASE-12 - PHASE-13）**
-      -
-        作词：shungo. /
-        作曲：[藤末樹](https://zh.wikipedia.org/wiki/藤末樹 "wikilink")
-        / 編曲：[齋藤真也](https://zh.wikipedia.org/wiki/齋藤真也 "wikilink") /
-        主唱：玉置成實
-3.  「**Life Goes On 〜ReMix2013**」**（HD重制版PHASE-14 - PHASE-25）**
-      -
-        作词、主唱：[有坂美香](https://zh.wikipedia.org/wiki/有坂美香 "wikilink") /
-        作曲：[梶浦由記](../Page/梶浦由記.md "wikilink") /
-        編曲：梶浦由記、[西川進](https://zh.wikipedia.org/wiki/西川進 "wikilink")
-4.  「**I Wanna Go To A Place...**」**（HD重制版PHASE-26 - PHASE-27、PHASE-29 -
-    PHASE-31、PHASE-33 - PHASE-37）**
-      -
-        作词、作曲、主唱：[Rie fu](../Page/Rie_fu.md "wikilink") / 編曲：SNORKEL
-5.  「**tears 〜ReMix2013**」**（HD重制版PHASE-28）**
-      -
-        作词、作曲：[小峰理紗](../Page/小峰理紗.md "wikilink") /
-        編曲：[江口貴勅](../Page/江口貴勅.md "wikilink") /
-        主唱：[コミネリサ](../Page/小峰理紗.md "wikilink")
-6.  「****」**（HD重制版PHASE-32）**
-      -
-        作词、作曲、編曲：梶浦由記 /
-        主唱：[桑島法子](https://zh.wikipedia.org/wiki/桑島法子 "wikilink")
-7.  「****」**（HD重制版PHASE-41）**
-      -
-        作词、作曲、编曲、主唱：HIGH and MIGHTY COLOR
-8.  「****」（你与我相似〜ReMix2013）**（HD重制版PHASE-38 - PHASE-40、PHASE-42 - FINAL
-    PHASE）**
-      -
-        作詞：石川智晶 / 作曲、編曲：梶浦由記 /
-        主唱：[See-Saw](../Page/See-Saw.md "wikilink")
+有多部根据《SEED
+Destiny》改编的[游戏已经被制作和发售](https://zh.wikipedia.org/wiki/视频游戏 "wikilink")，其中包括[PS2](../Page/PlayStation_2.md "wikilink")[平台的](https://zh.wikipedia.org/wiki/PlayStation_2游戏列表 "wikilink")《》\[63\]\[64\]，而《》原本是以《机动战士高达SEED
+DESTINY
+连合vs.Z.A.F.T.II》之名在[街机平台上发售](../Page/街机.md "wikilink")，之后移植到PS2平台上，于2006年12月7日发售\[65\]。[PSP](../Page/PlayStation_Portable.md "wikilink")[平台发行有](../Page/PlayStation_Portable游戏列表.md "wikilink")《》\[66\]，而[GBA](../Page/Game_Boy_Advance.md "wikilink")[平台则于](https://zh.wikipedia.org/wiki/Game_Boy_Advance游戏列表 "wikilink")2004年11月25日发行有同名游戏\[67\]。[PSV](../Page/PlayStation_Vita.md "wikilink")[平台上则发行有](https://zh.wikipedia.org/wiki/PlayStation_Vita游戏列表 "wikilink")《》\[68\]。
 
-<!-- end list -->
+来自《SEED
+Destiny》的人物也出现在多部[跨界游戏中](../Page/跨界作品.md "wikilink")。这其中包括高达系列游戏《[高达无双](https://zh.wikipedia.org/wiki/高达无双 "wikilink")》、《[高达无双2](https://zh.wikipedia.org/wiki/高达无双2 "wikilink")》\[69\]、《》\[70\]以及《》\[71\]和[《SD
+GUNDAM》系列](../Page/SD_GUNDAM系列.md "wikilink")\[72\]等。其他还包括[《超级机器人大战》系列](https://zh.wikipedia.org/wiki/超级机器人大战系列 "wikilink")，首次登陆的作品是《[超级机器人大战Z](https://zh.wikipedia.org/wiki/超级机器人大战Z "wikilink")》\[73\]。另外剧中机体还在游戏《[异世纪机器人大战：R](../Page/異世紀機器人大戰：R.md "wikilink")》中[客串登场](https://zh.wikipedia.org/wiki/客串 "wikilink")\[74\]。
 
-  - 插入曲
+### 其他商品
 
-<!-- end list -->
+这部动画已经被改编成五部[轻小说](https://zh.wikipedia.org/wiki/轻小说 "wikilink")，作者是后藤柳，他也曾将《SEED》改编为小说并由[角川书店出版](https://zh.wikipedia.org/wiki/角川书店 "wikilink")。第一卷于2005年3月1日发行，最后一卷于2006年4月1日发行\[75\]\[76\]。讲谈社还在《OFFICIAL
+FILE》的名下出版了三本杂志，重点分析[剧中人物和](../Page/機動戰士GUNDAM_SEED系列角色列表.md "wikilink")[机动兵器](../Page/機動戰士GUNDAM_SEED系列機體列表.md "wikilink")\[77\]\[78\]\[79\]。
 
-1.  「**Meteor -ミーティア-**」**（HD重制版PHASE-23、PHASE-41）**
-      -
-        作詞：井上秋緒 / 作曲、編曲：淺倉大介 / 主唱：T.M.Revolution
-2.  「**Fields of hope 〜ReTracks**」**（HD重制版PHASE-7、PHASE-20、FINAL
-    PHASE）**
-      -
-        作词、作曲、编曲：梶浦由記 /
-        主唱：[拉克絲·克萊因](../Page/拉克絲·克萊因.md "wikilink")（[田中理惠](../Page/田中理惠_\(聲優\).md "wikilink")）
-3.  「****」**（HD重制版PHASE-10、PHASE-29）**
-      -
-        作词、作曲、编曲：梶浦由記 /
-        主唱：[拉克絲·克萊因](../Page/拉克絲·克萊因.md "wikilink")（[田中理惠](../Page/田中理惠_\(聲優\).md "wikilink")）
-4.  「**Quiet Night C.E.73
-    〜ReTracks**」**（HD重制版PHASE-17、PHASE-19、PHASE-24、PHASE-26）**
-      -
-        作词：梶浦由記 / 作曲：佐橋俊彦 / 编曲：鈴木Daichi秀行 /
-        主唱：[蜜雅·坎貝爾](https://zh.wikipedia.org/wiki/蜜雅·坎貝爾 "wikilink")（[田中理惠](../Page/田中理惠_\(聲優\).md "wikilink")）
-5.  「****」**（HD重制版PHASE-21、PHASE-26、PHASE-30）**
-      -
-        作词、作曲、编曲：梶浦由記 /
-        主唱：[桑島法子](https://zh.wikipedia.org/wiki/桑島法子 "wikilink")
-6.  「****」**（HD重制版PHASE-40）**
-      -
-        作词、作曲、编曲：[梶浦由記](../Page/梶浦由記.md "wikilink") /
-        主唱：[FictionJunction
-        YUUKA](../Page/FictionJunction.md "wikilink")
-7.  「**EMOTION 〜ReTracks**」**（HD重制版PHASE-46、PHASE-47）**
-      -
-        作词：清水しょうこ/ 作曲、编曲：鈴木Daichi秀行 / 主唱：蜜雅·坎貝爾（田中理惠）
+## 评价
 
-## 各話標題
+《SEED
+Destiny》在日本非常受欢迎，在2004年和2005年《[Animage](../Page/Animage.md "wikilink")》杂志民意调查中都获得了“Anime
+Grand Prix”奖。在这两年的调查中，阿斯兰·萨拉、基拉 ·
+大和和拉克丝·克莱因都位居最受欢迎角色类别榜首，最终集和OVA也分别在各自类别里占据榜首位置\[80\]\[81\]。在高达系列40周年之际，goo网站收集3000张投票后发现史汀娜·露茜被网民选为“高达历史上最不幸的悲剧女性角色”\[82\]\[83\]。本剧的DVD销售情况良好，都曾出现在各类不同的日本官方排行榜中\[84\]。2005年11月，[万代影视宣布](https://zh.wikipedia.org/wiki/万代影视 "wikilink")《SEED
+Destiny》在日本已累计售出超过100万张DVD\[85\]。因T.M.Revolution演绎的新主题曲以及玉置成实的榜首单曲等的推动作用，本剧的配乐专辑在发售期间也大受欢迎\[86\]\[87\]\[88\]。在[日本唱片業協會奖中](https://zh.wikipedia.org/wiki/日本唱片業協會 "wikilink")，《SEED
+Destiny》是动画专辑类别的获胜者\[89\]。在Anime Nation最畅销DVD榜单中，《SEED
+Destiny》第9卷DVD最高排名第22位\[90\]。
 
-<table>
-<thead>
-<tr class="header">
-<th><p>話數</p></th>
-<th><p>日文原名</p></th>
-<th><p>香港官方譯名[1]</p></th>
-<th><p>台灣中文譯名[2]</p></th>
-<th><p>腳本</p></th>
-<th><p>| 分鏡</p></th>
-<th><p>| 演出</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>1</p></td>
-<td></td>
-<td><p>憤怒的目光</p></td>
-<td><p>憤怒之眼</p></td>
-<td><p><a href="../Page/兩澤千晶.md" title="wikilink">兩澤千晶</a></p></td>
-<td><p><a href="../Page/福田己津央.md" title="wikilink">福田己津央</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鳥羽聰" title="wikilink">鳥羽聰</a></p></td>
-</tr>
-<tr class="even">
-<td><p>2</p></td>
-<td></td>
-<td><p>招來戰爭之物</p></td>
-<td><p>招來戰爭之物</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/山口晋" title="wikilink">山口晋</a><br />
-福田己津央</p></td>
-<td><p>山口晋</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>3</p></td>
-<td></td>
-<td><p>預兆的砲火</p></td>
-<td><p>預兆的砲火</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/西澤晋" title="wikilink">西澤晋</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/高田昌宏" title="wikilink">高田昌宏</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>4</p></td>
-<td></td>
-<td><p>群星的戰場</p></td>
-<td><p>星屑的戰場</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/兵頭一歩" title="wikilink">兵頭一歩</a><br />
-兩澤千晶</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/西山明樹彥" title="wikilink">西山明樹彥</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>5</p></td>
-<td></td>
-<td><p>無法癒合的傷痕</p></td>
-<td><p>無法癒合的傷痕</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/野村祐一" title="wikilink">野村祐一</a><br />
-兩澤千晶</p></td>
-<td><p>鳥羽聰</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>6</p></td>
-<td></td>
-<td><p>世界終結之時</p></td>
-<td><p>當世界終結之時</p></td>
-<td><p><a href="../Page/下田正美.md" title="wikilink">下田正美</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/吉村章" title="wikilink">吉村章</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>7</p></td>
-<td></td>
-<td><p>混亂的大地</p></td>
-<td><p>混亂的大地</p></td>
-<td><p><a href="../Page/大野木寬.md" title="wikilink">大野木寬</a><br />
-兩澤千晶</p></td>
-<td><p>西澤晋</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/谷田部勝義" title="wikilink">谷田部勝義</a></p></td>
-</tr>
-<tr class="even">
-<td><p>8</p></td>
-<td></td>
-<td><p>匯合</p></td>
-<td><p>匯集點</p></td>
-<td><p>兵頭一歩<br />
-兩澤千晶</p></td>
-<td><p>下田正美</p></td>
-<td><p>高田昌宏</p></td>
-</tr>
-<tr class="odd">
-<td><p>9</p></td>
-<td></td>
-<td><p>驕傲之牙</p></td>
-<td><p>傲慢的獠牙</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/森田繁" title="wikilink">森田繁</a><br />
-兩澤千晶</p></td>
-<td><p>西澤晋</p></td>
-<td><p>西山明樹彥</p></td>
-</tr>
-<tr class="even">
-<td><p>10</p></td>
-<td></td>
-<td><p>父親的咒縛</p></td>
-<td><p>父親的束縛</p></td>
-<td><p>野村祐一<br />
-兩澤千晶</p></td>
-<td><p>鳥羽聰</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>11</p></td>
-<td></td>
-<td><p>選擇的道路</p></td>
-<td><p>選擇的道路</p></td>
-<td><p>西澤晋</p></td>
-<td><p>吉村章</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>12</p></td>
-<td></td>
-<td><p>血染大海</p></td>
-<td><p>血染大海</p></td>
-<td><p>大野木寬<br />
-兩澤千晶</p></td>
-<td><p>高田昌宏</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>13</p></td>
-<td></td>
-<td><p>甦醒之翼</p></td>
-<td><p>甦醒之翼</p></td>
-<td><p>兵頭一歩<br />
-兩澤千晶</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/米たにヨシトモ" title="wikilink">米たにヨシトモ</a></p></td>
-<td><p>谷田部勝義</p></td>
-</tr>
-<tr class="even">
-<td><p>14</p></td>
-<td></td>
-<td><p>向明日出航</p></td>
-<td><p>航向明日</p></td>
-<td><p>森田繁<br />
-兩澤千晶</p></td>
-<td><p>西澤晋</p></td>
-<td><p>鳥羽聰</p></td>
-</tr>
-<tr class="odd">
-<td><p>15</p></td>
-<td></td>
-<td><p>重返戰場</p></td>
-<td><p>重返戰場</p></td>
-<td><p>大野木寛<br />
-兩澤千晶</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/須永司" title="wikilink">須永司</a></p></td>
-<td><p>西山明樹彥</p></td>
-</tr>
-<tr class="even">
-<td><p>16</p></td>
-<td></td>
-<td><p>印度洋的死鬥</p></td>
-<td><p>印度洋的死鬥</p></td>
-<td><p>野村祐一<br />
-兩澤千晶</p></td>
-<td><p>西澤晋</p></td>
-<td><p>高田昌宏</p></td>
-</tr>
-<tr class="odd">
-<td><p>17</p></td>
-<td></td>
-<td><p>戰士的條件</p></td>
-<td><p>戰士的條件</p></td>
-<td><p>兵頭一歩<br />
-兩澤千晶</p></td>
-<td><p>米たにヨシトモ</p></td>
-<td><p>吉村章</p></td>
-</tr>
-<tr class="even">
-<td><p>18</p></td>
-<td></td>
-<td><p>討伐堂懷室！</p></td>
-<td><p>討伐羅安格林砲台!</p></td>
-<td><p>森田繁<br />
-兩澤千晶</p></td>
-<td><p>西澤晋</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/西村大樹" title="wikilink">西村大樹</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>19</p></td>
-<td></td>
-<td><p>看不見的真實！</p></td>
-<td><p>看不見的真實</p></td>
-<td><p><a href="../Page/吉野弘幸.md" title="wikilink">吉野弘幸</a><br />
-兩澤千晶</p></td>
-<td><p>鳥羽聰</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>20</p></td>
-<td></td>
-<td><p>過去</p></td>
-<td><p>PAST</p></td>
-<td><p>兩澤千晶</p></td>
-<td><p>高田昌宏</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>21</p></td>
-<td></td>
-<td><p>迷惘的眼神</p></td>
-<td><p>迷惘的眼神</p></td>
-<td><p>西澤晋</p></td>
-<td><p>西山明樹彥</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>22</p></td>
-<td></td>
-<td><p>蒼天之劍</p></td>
-<td><p>蒼天之劍</p></td>
-<td><p>大野木寬<br />
-兩澤千晶</p></td>
-<td><p>谷田部勝義</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>23</p></td>
-<td></td>
-<td><p>戰火的陰影</p></td>
-<td><p>戰火的陰影</p></td>
-<td><p>西澤晋<br />
-福田己津央</p></td>
-<td><p>高田昌宏</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>24</p></td>
-<td></td>
-<td><p>錯過的視線</p></td>
-<td><p>錯過的視線</p></td>
-<td><p>吉野弘幸<br />
-兩澤千晶</p></td>
-<td><p>西澤晋</p></td>
-<td><p>吉村章</p></td>
-</tr>
-<tr class="odd">
-<td><p>25</p></td>
-<td></td>
-<td><p>罪惡的所在</p></td>
-<td><p>罪惡的所在</p></td>
-<td><p>鳥羽聰</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>26</p></td>
-<td></td>
-<td><p>約定</p></td>
-<td><p>約束</p></td>
-<td><p>野村祐一</p></td>
-<td><p>西澤晋</p></td>
-<td><p>西村大樹</p></td>
-</tr>
-<tr class="odd">
-<td><p>27</p></td>
-<td></td>
-<td><p>無法傳達的思念</p></td>
-<td><p>無法傳遞的思緒</p></td>
-<td><p>森田繁<br />
-兩澤千晶</p></td>
-<td><p>米たにヨシトモ<br />
-鳥羽聰</p></td>
-<td><p>西山明樹彥</p></td>
-</tr>
-<tr class="even">
-<td><p>28</p></td>
-<td></td>
-<td><p>殘存與消逝的生命</p></td>
-<td><p>殘存的生命 消散的生命</p></td>
-<td><p>野村祐一<br />
-兩澤千晶</p></td>
-<td><p>西澤晋</p></td>
-<td><p>谷田部勝義</p></td>
-</tr>
-<tr class="odd">
-<td><p>29</p></td>
-<td></td>
-<td><p>FATES</p></td>
-<td><p>FATES</p></td>
-<td><p>兩澤千晶</p></td>
-<td><p>米たにヨシトモ<br />
-高田昌宏</p></td>
-<td><p>高田昌宏</p></td>
-</tr>
-<tr class="even">
-<td><p>30</p></td>
-<td></td>
-<td><p>剎那之夢</p></td>
-<td><p>刹那之夢</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/高橋ナツコ" title="wikilink">高橋ナツコ</a><br />
-兩澤千晶</p></td>
-<td><p>西澤晋</p></td>
-<td><p>鳥羽聰</p></td>
-</tr>
-<tr class="odd">
-<td><p>31</p></td>
-<td></td>
-<td><p>未明之夜</p></td>
-<td><p>不明之夜</p></td>
-<td><p>大野木寬<br />
-兩澤千晶</p></td>
-<td><p>鳥羽聰<br />
-米たにヨシトモ</p></td>
-<td><p>西村大樹</p></td>
-</tr>
-<tr class="even">
-<td><p>32</p></td>
-<td></td>
-<td><p>-{史汀娜}-</p></td>
-<td><p>-{史黛菈}-</p></td>
-<td><p>吉野弘幸<br />
-兩澤千晶</p></td>
-<td><p>高田昌宏<br />
-西澤晋</p></td>
-<td><p>高田昌宏</p></td>
-</tr>
-<tr class="odd">
-<td><p>33</p></td>
-<td></td>
-<td><p>被展現的世界</p></td>
-<td><p>被揭發的世界</p></td>
-<td><p>森田繁<br />
-兩澤千晶</p></td>
-<td><p>米たにヨシトモ<br />
-須永司</p></td>
-<td><p>西山明樹彥</p></td>
-</tr>
-<tr class="even">
-<td><p>34</p></td>
-<td></td>
-<td><p>惡夢</p></td>
-<td><p>惡夢</p></td>
-<td><p>野村祐一<br />
-兩澤千晶</p></td>
-<td><p>西澤晋</p></td>
-<td><p>吉村章</p></td>
-</tr>
-<tr class="odd">
-<td><p>35</p></td>
-<td></td>
-<td><p>混沌之初</p></td>
-<td><p>混沌的前兆</p></td>
-<td><p>高橋ナツコ<br />
-兩澤千晶</p></td>
-<td><p>鳥羽聰<br />
-米たにヨシトモ</p></td>
-<td><p>鳥羽聰</p></td>
-</tr>
-<tr class="even">
-<td><p>36</p></td>
-<td></td>
-<td><p>-{亞斯蘭}-逃亡</p></td>
-<td><p>-{阿斯蘭}-脫逃</p></td>
-<td><p>大野木寬<br />
-兩澤千晶</p></td>
-<td><p>西澤晋</p></td>
-<td><p>西村大樹</p></td>
-</tr>
-<tr class="odd">
-<td><p>37</p></td>
-<td></td>
-<td><p>雷鳴的黑夜</p></td>
-<td><p>雷鳴之夜</p></td>
-<td><p>大野木寬<br />
-吉野弘幸<br />
-兩澤千晶</p></td>
-<td><p>米たにヨシトモ<br />
-鳥羽聰</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/久保山英一" title="wikilink">久保山英一</a></p></td>
-</tr>
-<tr class="even">
-<td><p>38</p></td>
-<td></td>
-<td><p>新的旗號</p></td>
-<td><p>新的旗幟</p></td>
-<td><p>吉野弘幸<br />
-兩澤千晶</p></td>
-<td><p>西澤晋</p></td>
-<td><p>高田昌宏</p></td>
-</tr>
-<tr class="odd">
-<td><p>39</p></td>
-<td></td>
-<td><p>天空的-{基拉}-</p></td>
-<td><p>天空的-{煌}-</p></td>
-<td><p>森田繁<br />
-兩澤千晶</p></td>
-<td><p>鳥羽聰<br />
-米たにヨシトモ<br />
-福田己津央</p></td>
-<td><p>西山明樹彥</p></td>
-</tr>
-<tr class="even">
-<td><p>40</p></td>
-<td></td>
-<td><p>黃金的意志</p></td>
-<td><p>黃金的意志</p></td>
-<td><p>野村祐一<br />
-兩澤千晶</p></td>
-<td><p>西澤晋<br />
-高田昌宏</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/いとがしんたろー" title="wikilink">いとがしんたろー</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>41</p></td>
-<td></td>
-<td><p>抑制</p></td>
-<td><p>Refrain</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/小倉史科" title="wikilink">小倉史科</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>42</p></td>
-<td></td>
-<td><p>自由與正義</p></td>
-<td><p>自由與正義</p></td>
-<td><p>大野木寬<br />
-兩澤千晶</p></td>
-<td><p>鳥羽聰<br />
-西澤晋<br />
-福田己津央</p></td>
-<td><p>鳥羽聰</p></td>
-</tr>
-<tr class="odd">
-<td><p>43</p></td>
-<td></td>
-<td><p>反擊之聲</p></td>
-<td><p>反擊的聲音</p></td>
-<td><p>大野木寬<br />
-高橋ナツコ<br />
-兩澤千晶</p></td>
-<td><p>米たにヨシトモ<br />
-西澤晋<br />
-福田己津央</p></td>
-<td><p>西村大樹</p></td>
-</tr>
-<tr class="even">
-<td><p>44</p></td>
-<td></td>
-<td><p>兩個-{莉古絲}-</p></td>
-<td><p>兩個-{拉克絲}-</p></td>
-<td><p>吉野弘幸<br />
-兩澤千晶</p></td>
-<td><p>鳥羽聰<br />
-西澤晋<br />
-福田己津央</p></td>
-<td><p>久保山英一</p></td>
-</tr>
-<tr class="odd">
-<td><p>45</p></td>
-<td></td>
-<td><p>變革的序曲</p></td>
-<td><p>變革的序曲</p></td>
-<td><p>森田繁<br />
-兩澤千晶</p></td>
-<td><p>鳥羽聰<br />
-西澤晋<br />
-米たにヨシトモ<br />
-福田己津央</p></td>
-<td><p>吉村章</p></td>
-</tr>
-<tr class="even">
-<td><p>46</p></td>
-<td></td>
-<td><p>真實之歌</p></td>
-<td><p>真實之歌</p></td>
-<td><p>野村祐一<br />
-兩澤千晶</p></td>
-<td><p>鳥羽聰<br />
-西澤晋<br />
-福田己津央</p></td>
-<td><p>高田昌宏</p></td>
-</tr>
-<tr class="odd">
-<td><p>47</p></td>
-<td></td>
-<td><p>-{美雅}-</p></td>
-<td><p>-{蜜雅}-</p></td>
-<td><p>兩澤千晶</p></td>
-<td><p>西澤晋<br />
-高田昌宏<br />
-福田己津央</p></td>
-<td><p>西山明樹彥</p></td>
-</tr>
-<tr class="even">
-<td><p>48</p></td>
-<td></td>
-<td><p>往新的世界</p></td>
-<td><p>邁向新世界</p></td>
-<td><p>吉野弘幸<br />
-兩澤千晶</p></td>
-<td><p>高田昌宏<br />
-鳥羽聰<br />
-西澤晋<br />
-福田己津央</p></td>
-<td><p>西村大樹</p></td>
-</tr>
-<tr class="odd">
-<td><p>49</p></td>
-<td></td>
-<td><p>-{尼爾}-</p></td>
-<td><p>-{雷}-</p></td>
-<td><p>鳥羽聰<br />
-西澤晋<br />
-米たにヨシトモ<br />
-福田己津央</p></td>
-<td><p>鳥羽聰</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>50</p></td>
-<td></td>
-<td><p>最後的力量</p></td>
-<td><p>最後之力</p></td>
-<td><p>兩澤千晶</p></td>
-<td><p>西澤晋<br />
-米たにヨシトモ<br />
-鳥羽聰<br />
-高田昌宏<br />
-福田己津央</p></td>
-<td><p>福田己津央<br />
-高田昌宏</p></td>
-</tr>
-<tr class="odd">
-<td><p>Final Plus</p></td>
-<td></td>
-<td><p>機動戰士終極特種命運</p></td>
-<td><p>被選擇的未来</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-## FINAL PLUS
-
-在2005年10月1日，原作最終回播放完畢後，觀眾批評草草了事，當時亦有傳出完整的結局含在[DVD推出](https://zh.wikipedia.org/wiki/DVD "wikilink")。2005年12月25日播出本作的特别节目《FINAL
-PLUS》，在原先的最終回PHASE-50基礎上再多出約15分鐘內容，主要交代[真·飛鳥與](../Page/真·飛鳥.md "wikilink")[煌·大和的握手言和](https://zh.wikipedia.org/wiki/煌·大和 "wikilink")，其中同行的[阿斯蘭·薩拉身旁的女伴為](https://zh.wikipedia.org/wiki/阿斯蘭·薩拉 "wikilink")[美玲·霍克](https://zh.wikipedia.org/wiki/美玲·霍克 "wikilink")，以及[拉克絲·克萊因步入PLANT最高評議會等新結局引發不少討論](../Page/拉克絲·克萊因.md "wikilink")。[香港地區](../Page/香港.md "wikilink")[無綫電視則譯為](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")《**機動戰士終極特種命運**》，2007年7月14日和2007年7月21日於[無綫電視翡翠台播放](https://zh.wikipedia.org/wiki/無綫電視翡翠台 "wikilink")。台灣地區則未曾播映過。之後推出的總集編第四部「自由的代償」中，結局又增加些許新內容。
-
-## 特別版四部作
-
-「機動戦士ガンダム SEED DESTINY SPECIAL
-EDITION」將全51話的原作再剪輯並追加新作畫面而成全四部的OVA總集編，包括特別版I《破碎的世界》、特別版II《各自的劍》、特別版III《命運的業火》和特別版IV《自由的代價》。結局部份新增身著ZAFT軍白衣登場的煌‧大和。
-
-| 話數     | 日文原名   | 香港官方譯名  | 台灣中文譯名 |
-| ------ | ------ | ------- | ------ |
-| 特別版I   | 砕かれた世界 | 破碎的世界   | 破碎的世界  |
-| 特別版II  | それぞれの剣 | 他們各自的劍  | 他們各自的劍 |
-| 特別版III | 運命の業火  | 命運的地獄之火 | 命運的業火  |
-| 特別版IV  | 自由の代償  | 自由的代價   | 自由的代價  |
-
-## HD Remaster
-
-為迎接機動戰士鋼彈SEED十周年的2012年，官方於2011年8月26日啟動「HD Remaster
-Project（高畫質再製企劃）」。2012年11月25日機動戰士GUNDAM
-SEED的HD版在最終回播映完畢後，同時宣布機動戰士Gundam SEED DESTINY HD
-Remaster正式啟動。官方網站亦發表一張有著「DESTINY IS
-COMING」字樣的宣傳圖；真·飛鳥立於正中，背後是熊熊烈焰幻化而成的命運鋼彈臉部特寫。
-
-網路放送於2013年3月29日開始，TV則於2013年4月7日起在日本BS11開始播映。HD
-Remaster版刪除原本TV版撥放的第41話，原本42～50話的編號減1，Final
-Plus成為第50話完結篇。Blu-ray版會在HD Remaster電視版方面再進行新規作畫修正。
-
-## 爭議
-
-### 主人翁定位的問題
-
-### 兼用卡與總集編氾濫的問題
-
-SEED系列作品中擔任劇本、系列構成等重要工作的兩澤千晶，於前作後期（2002年）發現卵巢與子宮頸的腫瘤，本作製作開始（2004年）後在劇組和醫院之間頻繁往返；早被業界認為寫稿緩慢、遲筆的兩澤更無法如期繳出劇本。據稱本作每一集的製作經費達3300萬日幣，但因劇本完成後僅有8週時間進行繪製作業（正常為16週左右），為了趕上播映時間只好犧牲製作細節，在繪製和分鏡方面被迫選擇大量使用重複動作模組的剪輯鏡頭（兼用CUT，俗稱[兼用卡](https://zh.wikipedia.org/wiki/兼用卡 "wikilink")）。另外由於監督不周，一些兼用卡錯置的情況也引人詬病；特別是本作的戰鬥畫面大半以兼用卡剪接而成，同時總集編（整整一集內容泰半以兼用卡配上旁白後，重新編輯成類似回憶錄的演出）的次數之多令人髮指，亦嚴重打擊本作收視率。直至本作於2013年推出HD
-Remaster版本，部份使用過量的集數，才以新作畫面代替兼用卡。
-
-### 沿用舊作品機械設定的問題
-
-本作以向UC時代致敬為另一賣點，除了以聲演「赤之彗星」[夏亞·阿茲納布爾為人熟悉](../Page/夏亞·阿茲納布爾.md "wikilink")[池田秀一聲演吉伯特](../Page/池田秀一.md "wikilink")·杜蘭朵、曾聲演[基絲莉亞·薩比的](../Page/薩比家.md "wikilink")[小山茉美聲演妲莉雅](../Page/小山茉美.md "wikilink")·古拉迪斯，機械設定也大量沿用過去不同年代的舊[GUNDAM系列作品機體設定](../Page/GUNDAM系列作品.md "wikilink")，例如：
-
-  - [U.C.纪元的](https://zh.wikipedia.org/wiki/U.C. "wikilink")[ZAKU](https://zh.wikipedia.org/wiki/MS-05系列机动战士 "wikilink")、[ZAKU
-    II及](../Page/MS-06系列机动战士.md "wikilink")[-{zh-hans:古夫;zh-hk:老虎;zh-tw:古夫;}-均經過外觀上的修改](../Page/MS-07系列机动战士.md "wikilink")，成了[-{zh-hans:扎古;zh-hk:渣古;zh-tw:薩克;}-戰士](https://zh.wikipedia.org/wiki/Zaku_\(Cosmic_Era\) "wikilink")、-{zh-hans:扎古;zh-hk:渣古;zh-tw:薩克;}-幽靈及[古夫烈燄等以新機體的形式登場](https://zh.wikipedia.org/wiki/ZGMF-2000_Gouf_Ignited "wikilink")。
-  - [ZGMF-XX09T Dom
-    Trooper的外觀及名稱沿自](https://zh.wikipedia.org/wiki/ZGMF-XX09T_Dom_Trooper "wikilink")「Dom
-    Tropen」，其使用的「喷射气流攻击」战術名稱也直接移植(攻擊方法不同，UC系的德姆是交叉波狀攻勢，本作則是真的噴出粒子氣流)。
-  - [曉肩上的](https://zh.wikipedia.org/wiki/ORB-01_Akatsuki "wikilink")[漢字](https://zh.wikipedia.org/wiki/漢字 "wikilink")、金色外觀等獨特外觀與百式類似。
-  - [GFAS-X1 DESTROY
-    GUNDAM的外觀與](https://zh.wikipedia.org/wiki/GFAS-X1_DESTROY_GUNDAM "wikilink")[MRX-009
-    Psycho
-    Gundam相似](https://zh.wikipedia.org/wiki/MRX-009_Psycho_Gundam "wikilink")、MA型態也與[MA-08
-    Big
-    Zam相近](https://zh.wikipedia.org/wiki/MA-08_Big_Zam "wikilink")。本機處女戰在德國漢堡大肆破壞，也和[MRX-009
-    Psycho
-    Gundam在新香港](https://zh.wikipedia.org/wiki/MRX-009_Psycho_Gundam "wikilink")(屯門)在市區開戰的情節有相當程度上的雷同。
-  - [MVF-M11C
-    Murasame村雨鋼彈](https://zh.wikipedia.org/wiki/MVF-M11C_Murasame "wikilink")'的變形機構與[MSZ-006系列機動戰士相似](https://zh.wikipedia.org/wiki/MSZ-006系列機動戰士 "wikilink");
-    「村雨」一名來自[機動戰士Z
-    GUNDAM迪坦斯的新類人研究中心](../Page/機動戰士Z_GUNDAM.md "wikilink")「村雨研究所」（不過正式設定上是取自日本名刀的名稱）。
-
-作為機體設計者的大河原邦男在之後的訪談中被問及為什麼不作創新時，曾說明自己也想要創新，但監督堅持要沿用與U.C.系列機體類似的外觀風格，創新設計只能是次要機體（例如Windam與巴比）。
-
-## 其他資料
-
-「GUNDAM
-SEED」監製[福田己津央](../Page/福田己津央.md "wikilink")，曾負責多部動畫作品，例如[GEAR戰士電童](../Page/GEAR戰士電童.md "wikilink")、[閃電霹靂車等作品](../Page/閃電霹靂車.md "wikilink")，在「SEED」中亦曾多次引用這些作品的設定。
-
-「DESTINY」第8集中，阿斯蘭所駕駛的跑車、以及第21集飛鳥真駕駛的機車，分別為[閃電霹靂車SIN中跑車](../Page/閃電霹靂車.md "wikilink")「GSX-Neo」及「[閃電霹靂車](../Page/閃電霹靂車.md "wikilink")」主角風見隼人的機車。而第8集中亦有出現「閃電霹靂車」曾出現過的別墅。第35集更出現了風見隼人同Asurada
-AFK-11贏得2016年世界冠軍的海報。
+《SEED Destiny》的总体评价是趋向于积极的，但经常被拿来同《SEED》作比较。《SEED》的背景故事被认为是对《SEED
+Destiny》的情节发展所必不可少的，以至于Maria
+Lin认为需要提前完整观看完前者以完全理解本剧\[91\]\[92\]。由于和《SEED》中出现的情况很相似，雷·札·巴雷爾和尼歐·羅安那克之间的关系引起了人们关于他们真实身份的猜测\[93\]\[94\]。然而，由于叛逆的性格以及一些新的以及角色或来自前作的回归角色的加入，使得主角真·飞鸟在剧中的作用黯然失色，对他的反响变得喜忧参半\[95\]\[96\]。虽然在某些方面，真·飞鸟的角色和关系被认为很意思\[97\]\[98\]，但UK
+Anime的Ross Liversidge更看重前作在本作中回归的角色基拉·大和在本作中扮演的重要角色\[99\]。
 
 ### 播放電視台
 
-## 參考文獻
+## 脚注
 
-## 外部連結
+### 注释和译注
+
+### 出处
+
+## 外部链接
 
   - [(Gundam Seed Destiny日文官方網站)](http://www.gundam-seed-d.net/)
 
@@ -896,6 +171,14 @@ AFK-11贏得2016年世界冠軍的海報。
 
   - [高达中文机体资料库](https://web.archive.org/web/20150518074701/http://985.so/j7Ah)
 
+  - [Official Website of Mobile Suit Gundam SEED Destiny: Generation of
+    C.E.](http://www.bandaigames.channel.or.jp/list/ps2_seed_destiny/)
+
+<!-- end list -->
+
+  -
+  -
+  -
 [Category:GUNDAM_SEED](https://zh.wikipedia.org/wiki/Category:GUNDAM_SEED "wikilink")
 [Category:2004年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2004年日本電視動畫 "wikilink")
 [Category:中視外購動畫](https://zh.wikipedia.org/wiki/Category:中視外購動畫 "wikilink")
@@ -908,7 +191,194 @@ AFK-11贏得2016年世界冠軍的海報。
 [Category:月刊Magazine_Z](https://zh.wikipedia.org/wiki/Category:月刊Magazine_Z "wikilink")
 [Category:GUNDAM系列](https://zh.wikipedia.org/wiki/Category:GUNDAM系列 "wikilink")
 
-1.  [Gundam World Web
-    (HK)](http://g-world.com.hk//default/revamp/library/seeddestiny.jsp)
+1.
 
-2.  博英社DVD
+2.
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+10.
+
+11.
+
+12.
+
+13.
+
+14.
+
+15.
+
+16.
+
+17.
+
+18.
+
+19.
+
+20.
+
+21.
+
+22.
+
+23.
+
+24.
+
+25.
+
+26.
+
+27.
+
+28.
+
+29.
+
+30.
+
+31.
+
+32.
+33.
+34.
+
+35.
+
+36.
+
+37.
+
+38.
+
+39.
+
+40.
+
+41.
+
+42.
+
+43.
+
+44.
+
+45.
+
+46.
+
+47.
+
+48.
+
+49.
+
+50.
+
+51.
+
+52.
+
+53.
+
+54.
+
+55.
+
+56.
+
+57.
+
+58.
+
+59.
+
+60.
+
+61.
+
+62.
+
+63.
+
+64.
+
+65.
+
+66.
+
+67.
+
+68.
+
+69.
+
+70.
+
+71.
+
+72.
+
+73.
+
+74.
+
+75.
+
+76.
+
+77.
+
+78.
+
+79.
+
+80.
+
+81.
+
+82.
+
+83.
+
+84.
+
+85.
+
+86.
+
+87.
+
+88.
+
+89.
+
+90.
+
+91.
+
+92.
+93.
+94.
+
+95.
+
+96.
+
+97.
+
+98.
+99.

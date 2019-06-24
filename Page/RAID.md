@@ -242,11 +242,12 @@ RAID4有應用在某些商用機器上，像是NetApp公司設計的NAS系統就
   - 軟體磁碟陣列（Software RAID）：
     主要由CPU處理陣列儲存作業，缺點為耗損較多CPU資源運算RAID，優點則是價格偏低。分類有3種：
       - 基於主機板的磁碟陣列：只需要主機板支援即可（通常是[晶片組內建的RAID功能](https://zh.wikipedia.org/wiki/晶片組 "wikilink")，如Intel
-        Matrix RAID），不需要任何磁碟陣列卡。若主機板損壞，可能難以購買同款主機板重建RAID。
+        Matrix RAID，Intel Rapid Storage
+        Technology），不需要任何磁碟陣列卡。若主機板損壞，可能難以購買同款主機板重建RAID。
       - 硬體輔助磁碟陣列（Hardware-Assisted RAID）：需要一張基於Fake
         RAID的RAID卡，以及廠商所提供的[驅動程式](https://zh.wikipedia.org/wiki/驅動程式 "wikilink")，但此類RAID卡仍然通過CPU進行運算。這款RAID較易遷移到其他電腦。RAID功能靠執行於作業系統的廠商驅動程式和CPU運算提供。
-      - 作業系統的RAID功能：[Linux](../Page/Linux.md "wikilink")、[FreeBSD](../Page/FreeBSD.md "wikilink")、[Windows
-        Server等作業系統內建RAID功能](../Page/Windows_Server.md "wikilink")，部分桌面版本的Windows也支援RAID功能。
+      - 作業系統的RAID功能：如[Linux](../Page/Linux.md "wikilink")、[FreeBSD](../Page/FreeBSD.md "wikilink")、[Windows
+        Server等作業系統內建RAID功能](../Page/Windows_Server.md "wikilink")。
 
 <!-- end list -->
 

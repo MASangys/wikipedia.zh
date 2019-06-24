@@ -1,12 +1,12 @@
-**梅赛德斯-奔驰S级**（[德语](../Page/德语.md "wikilink")：Mercedes-Benz
-S-Class）是[梅赛德斯-奔驰旗下主力的頂級](https://zh.wikipedia.org/wiki/梅赛德斯-奔驰 "wikilink")[轎車系列](https://zh.wikipedia.org/wiki/轎車 "wikilink")，於1954年首度推出，定位於大型豪華車型。其主要竞争对手为[BMW
+**梅赛德斯-賓士S级**（[德语](../Page/德语.md "wikilink")：Mercedes-Benz
+S-Class）是[梅赛德斯-賓士旗下主力的頂級](https://zh.wikipedia.org/wiki/梅赛德斯-賓士 "wikilink")[轎車系列](https://zh.wikipedia.org/wiki/轎車 "wikilink")，於1954年首度推出，定位於大型豪華車型。其主要竞争对手为[BMW
 7系列](../Page/BMW_7系列.md "wikilink")（1977年上市）、[Audi
 A8](https://zh.wikipedia.org/wiki/Audi_A8 "wikilink")
 （2002年上市）、凌志LS、勞斯萊斯古斯特、賓利Mulsanne、本田里程、豐田皇冠和捷豹XJ等。
 
-S系列在過去逾半個世紀是平治旗下的旗艦車型，許多奔馳最先進的技術都是率先被應用於S系列內，也是世界最暢銷之豪華轎車。在大多數人眼中，S系列都被視為是身份、地位的象徵，包括很多對汽車不熟悉的人。在中國更有**大奔**的綽號，以示有別於[A系或](../Page/梅赛德斯-奔驰A级.md "wikilink")[B系等同門的小巧](../Page/梅赛德斯-奔驰B级.md "wikilink")[大眾車型](https://zh.wikipedia.org/wiki/大眾車 "wikilink")。
+S系列在過去逾半個世紀是賓士旗下的旗艦車型，許多賓士最先進的技術都是率先被應用於S系列內，也是世界最暢銷之豪華轎車。在大多數人眼中，S系列都被視為是身份、地位的象徵，包括很多對汽車不熟悉的人。在中國更有**大奔**的綽號，以示有別於[A系或](https://zh.wikipedia.org/wiki/梅赛德斯-賓士A级 "wikilink")[B系等同門的小巧](https://zh.wikipedia.org/wiki/梅赛德斯-賓士B级 "wikilink")[大眾車型](https://zh.wikipedia.org/wiki/大眾車 "wikilink")。
 
-值得注意的是對於平治本身來說S車系不一定是最高級的車系，僅在上世紀八十年代到新世紀初的近三十年間S系就身兼平治的最高車系，而和初代S系同期的**W-100車系**或現在的[邁巴赫才是在其時平治最高的車系](../Page/邁巴赫.md "wikilink")，可這些限量生產的車型少得路人不識的，即使最新的第二代新邁巴赫都是使用了平治S的名號。
+值得注意的是對於賓士本身來說S車系不一定是最高級的車系，僅在上世紀八十年代到新世紀初的近三十年間S系就身兼賓士的最高車系，而和初代S系同期的**W-100車系**或現在的[邁巴赫才是在其時賓士最高的車系](../Page/邁巴赫.md "wikilink")，可這些限量生產的車型少得路人不識的，即使最新的第二代新邁巴赫都是使用了賓士S的名號。
 
 ## 型號命名
 

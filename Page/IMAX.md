@@ -610,7 +610,7 @@ IMAX公司全球第1000家IMAX®影院</p></td>
 <td><p>大连万达影城(经开万达广场店)</p></td>
 <td><p>新一代IMAX激光</p></td>
 <td><p>2015年8月29日<br />
-预计2019年6月1日</p></td>
+2019年6月1日</p></td>
 <td><p>21.62<br />
 22.01</p></td>
 <td><p>11.51<br />
@@ -622,6 +622,17 @@ IMAX公司全球第1000家IMAX®影院</p></td>
 <td><p>12聲道音響系統</p></td>
 </tr>
 <tr class="odd">
+<td><p>北京英皇电影城(英皇中心店)</p></td>
+<td><p>新一代IMAX激光</p></td>
+<td><p>2018年4月29日<br />
+预计2019年6月28日</p></td>
+<td><p>22.19</p></td>
+<td><p>11.76</p></td>
+<td><p>260.9544</p></td>
+<td><p>354</p></td>
+<td><p>12聲道音響系統</p></td>
+</tr>
+<tr class="even">
 <td><p>包头万达影城（青山万达广场店）</p></td>
 <td><p>新一代IMAX激光</p></td>
 <td><p>2011年11月10日<br />
@@ -632,7 +643,7 @@ IMAX公司全球第1000家IMAX®影院</p></td>
 <td><p>314</p></td>
 <td><p>12聲道音響系統</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>绵阳万达影城（涪城万达广场店）</p></td>
 <td><p>新一代IMAX激光</p></td>
 <td><p>2012年12月21日<br />
@@ -643,7 +654,7 @@ IMAX公司全球第1000家IMAX®影院</p></td>
 <td><p>347</p></td>
 <td><p>12聲道音響系統</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>宁波万达影城（鄞州万达广场店）</p></td>
 <td><p>新一代IMAX激光</p></td>
 <td><p>2011年7月21日<br />
@@ -654,7 +665,7 @@ IMAX公司全球第1000家IMAX®影院</p></td>
 <td><p>336</p></td>
 <td><p>12聲道音響系統</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>沖縄県浦添市-ユナイテッド・シネマ PARCO CITY 浦添</p></td>
 <td><p>新一代IMAX激光</p></td>
 <td><p>预计2019年7月</p></td>
@@ -664,7 +675,7 @@ IMAX公司全球第1000家IMAX®影院</p></td>
 <td></td>
 <td><p>12聲道音響系統</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>北京万达影城（通州万达广场店）</p></td>
 <td><p>新一代IMAX激光</p></td>
 <td><p>2014年11月29日<br />
@@ -675,7 +686,7 @@ IMAX公司全球第1000家IMAX®影院</p></td>
 <td><p>424</p></td>
 <td><p>12聲道音響系統</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>北京万达影城（石景山万达广场店）</p></td>
 <td><p>新一代IMAX激光</p></td>
 <td><p>2009年1月1日<br />
@@ -686,7 +697,7 @@ IMAX公司全球第1000家IMAX®影院</p></td>
 <td><p>433</p></td>
 <td><p>12聲道音響系統</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>天津万达影城（河东万达广场店）</p></td>
 <td><p>新一代IMAX激光</p></td>
 <td><p>2011年11月8日<br />
@@ -698,7 +709,7 @@ IMAX公司全球第1000家IMAX®影院</p></td>
 <td><p>398</p></td>
 <td><p>12聲道音響系統</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>石家庄万达影城（裕华万达广场店）</p></td>
 <td><p>新一代IMAX激光</p></td>
 <td><p>2011年9月23日<br />
@@ -710,7 +721,7 @@ IMAX公司全球第1000家IMAX®影院</p></td>
 <td><p>385</p></td>
 <td><p>12聲道音響系統</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>长沙万达影城(解放路悦荟广场店)</p></td>
 <td><p>新一代IMAX激光</p></td>
 <td><p>2008年7月10日<br />
@@ -722,7 +733,7 @@ IMAX公司全球第1000家IMAX®影院</p></td>
 <td><p>12聲道音響系統<br />
 IMAX中國第8家IMAX影院</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>青岛万达影城(CBD万达广场店)</p></td>
 <td><p>新一代IMAX激光</p></td>
 <td><p>2011年2月1日<br />
@@ -737,7 +748,7 @@ IMAX中國第8家IMAX影院</p></td>
 <td><p>374</p></td>
 <td><p>12聲道音響系統</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -957,8 +968,6 @@ Lawrence表示](https://zh.wikipedia.org/wiki/Francis_Lawrence "wikilink"):「IM
 
   - [波士顿科技博物馆的](../Page/科学博物馆_\(波士顿\).md "wikilink")[Mugar Omni
     Theater](https://zh.wikipedia.org/wiki/Mugar_Omni_Theater "wikilink")：（银幕直径21.9米）
-
-  - 印度：（银幕高21.9米，宽28.9米）
 
   - IMAX Theatre
     Sydney：位于澳大利亚[悉尼](../Page/悉尼.md "wikilink")[达令港](https://zh.wikipedia.org/wiki/达令港 "wikilink")，（银幕高29.57米，宽35.72米）（已经停止胶片IMAX系统放映，已经拆除即将在2019年重新改造为IMAX激光放映系统）。

@@ -476,6 +476,9 @@ Show）的擁躉都會身披該影片中的角色的服飾出席該影片的放�
 
 在[澳大利亚](../Page/澳大利亚.md "wikilink")，这种趋势反映了不仅仅源于日本动漫的这一类美式服装。来源是提供了鲜明的人物形象和服装的任何东西，包括美国漫画、电脑游戏、科幻/奇幻小说、电影和电视秀、动画短片、戏剧、小说。通常来说，Cosplay并非完全展现了历史、游戏的准确性。总的来说，澳大利亚的Cosplay常常出现在有很多人的地方，例如首都和城市中心。因为这些庞大的人口支撑着边缘文化的多样性。尽管对于优秀的Cosplayer而言，在整个澳大利亚的大型赛事中进行表演是十分寻常的，但Cosplay展示不因此而局限于大型赛事。除了一些大型表演活动外，许多地方的小团体也会举行他们自己的Cosplay赛事。\[21\]
 
+[Aria_H._Kanzaki_by_結佳梨Yukari_03.jpg](https://zh.wikipedia.org/wiki/File:Aria_H._Kanzaki_by_結佳梨Yukari_03.jpg "fig:Aria_H._Kanzaki_by_結佳梨Yukari_03.jpg")偽娘coser扮演[緋彈的亞莉亞中的女主角Aria](../Page/緋彈的亞莉亞.md "wikilink")
+H. Kanzaki\]\]
+
 ### 法国
 
 在[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")，Cosplay是一種在動漫展覽中普遍的節目，大型展覽如「[日本博覽會](../Page/日本博覽會.md "wikilink")」（Japan

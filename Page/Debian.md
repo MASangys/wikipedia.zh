@@ -19,7 +19,7 @@ Debian以其堅守[Unix和](https://zh.wikipedia.org/wiki/Unix "wikilink")[自�
 作为一個大的系統組織框架，Debian旗下有多種不同作業系統核心的分支計劃，主要为採用[Linux核心的Debian](https://zh.wikipedia.org/wiki/Linux核心 "wikilink")
 GNU/Linux系統，其他还有採用[GNU Hurd核心的](../Page/GNU_Hurd.md "wikilink")[Debian
 GNU/Hurd系統](https://zh.wikipedia.org/wiki/Debian_GNU/Hurd "wikilink")、採用[FreeBSD核心的](../Page/FreeBSD.md "wikilink")[Debian
-GNU/kFreeBSD系統等](https://zh.wikipedia.org/wiki/Debian_GNU/kFreeBSD "wikilink")。眾多知名的Linux發行版，例如[Ubuntu](../Page/Ubuntu.md "wikilink")、[Knoppix和](https://zh.wikipedia.org/wiki/Knoppix "wikilink")[Deepin](https://zh.wikipedia.org/wiki/Deepin "wikilink")，也都建基於Debian
+GNU/kFreeBSD系統等](https://zh.wikipedia.org/wiki/Debian_GNU/kFreeBSD "wikilink")。眾多知名的Linux發行版，例如[Ubuntu](../Page/Ubuntu.md "wikilink")、[Knoppix和](../Page/Knoppix.md "wikilink")[Deepin](https://zh.wikipedia.org/wiki/Deepin "wikilink")，也都建基於Debian
 GNU/Linux。
 
 ## 歷史
@@ -134,7 +134,7 @@ Debian
 
 ## 使用領域
 
-Debian以穩定性聞名，所以很多[伺服器都使用Debian作為其作業系統](https://zh.wikipedia.org/wiki/伺服器 "wikilink")；而很多Linux的[LiveCD亦以Debian為基礎改寫](https://zh.wikipedia.org/wiki/LiveCD "wikilink")，最為著名的例子為[Knoppix](https://zh.wikipedia.org/wiki/Knoppix "wikilink")。而在桌面領域，Debian的一個修改版[Ubuntu
+Debian以穩定性聞名，所以很多[伺服器都使用Debian作為其作業系統](https://zh.wikipedia.org/wiki/伺服器 "wikilink")；而很多Linux的[LiveCD亦以Debian為基礎改寫](https://zh.wikipedia.org/wiki/LiveCD "wikilink")，最為著名的例子為[Knoppix](../Page/Knoppix.md "wikilink")。而在桌面領域，Debian的一個修改版[Ubuntu
 Linux就獲得了很多Linux使用者的支持](../Page/Ubuntu.md "wikilink")，在
 [DistroWatch.com瀏覽排名](https://web.archive.org/web/20160601200956/http://distrowatch.com/)
 裡排名一直很前面。而很多信息學競賽亦採用Debian作為操作系统\[23\]。
@@ -179,7 +179,7 @@ Debian的管理也被批評為過於混亂，導致開發進度緩慢，決策�
 
   - ——[LiveCD及Debian安裝程式](https://zh.wikipedia.org/wiki/LiveCD "wikilink")。
 
-  - [Knoppix](https://zh.wikipedia.org/wiki/Knoppix "wikilink")——LiveCD，同時亦有數個分支，包括Morphix、、[Whoppix及Xfld](https://zh.wikipedia.org/wiki/Whoppix "wikilink")。
+  - [Knoppix](../Page/Knoppix.md "wikilink")——LiveCD，同時亦有數個分支，包括Morphix、、[Whoppix及Xfld](https://zh.wikipedia.org/wiki/Whoppix "wikilink")。
 
   - [Stanix](http://stanix.sf.net)——介面像[微軟](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Windows的LiveCD](https://zh.wikipedia.org/wiki/Windows "wikilink")。
 

@@ -976,7 +976,7 @@ MATSUMOTO的名義發售了作為Solo Project的邦樂翻唱專輯「THE HIT PAR
 </tr>
 <tr class="odd">
 <td><p><small>5th album</small></p></td>
-<td><p><small>BGDH-1014</small></p></td>
+<td><p><small>BGCH-1014</small></p></td>
 <td><p><small>1994年6月4日</small></p></td>
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/OH_MY_LOVE" title="wikilink">OH MY LOVE</a></strong><br />
 </p></td>

@@ -1,5 +1,5 @@
 **Adobe
-Photoshop**，简称“****PS'''”，是一个由Adobe开发和发行的[图像处理](../Page/图像处理.md "wikilink")[软件](../Page/软件.md "wikilink")。该软件发布在[Windows和](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Mac
+Photoshop**，简称“**PS**”，是一个由Adobe开发和发行的[图像处理](../Page/图像处理.md "wikilink")[软件](../Page/软件.md "wikilink")。该软件发布在[Windows和](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Mac
 OS上](../Page/麦金塔操作系统.md "wikilink")。
 
 Photoshop由和[约翰·诺尔在](../Page/约翰·诺尔.md "wikilink")1988年首次发布新版本。自那时起，它已经在位图成为受欢迎的标准，到这时，Photoshop已成为一个通用商标，导致它逐渐演变成俚语，如“to

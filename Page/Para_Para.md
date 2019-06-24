@@ -33,21 +33,7 @@ Para Para 集體運動\]\]
     Para Para 聚會人數實在太多，故一直無法申請成功。2003年，Para Para在香港的熱潮已過，愛好者的聚會數目亦愈來愈少。
   - 2001年，香港ParaPara舞蹈總會 (Hong Kong Para Para Dance
     Association/HKPPDA)\]成立。稍後亦設立了Facebook專頁。及後每年的11月左右會舉行一年一度的「香港
-    ParaPara 教學週年慶祝活動」，此項活動延續至今仍繼續舉行(香港ParaPara教學十二週年活動)。
-  - 2011年，LoVin'ToNIte於1月1日成立，並於每月第三個星期六舉辦ParaPara活動「LoVin'ToNIte」。該組織亦於不同的場合舉行ParaPara活動，諸如小學、社區會堂及持牌Disco等。創辦兼主理人DJ
-    News熟悉日本ParaPara文化，與日本交流頻繁。於2012年9月29日更衝出香港，於臺灣臺南舉行LoVin'ToNIte@臺南。[LoVin'ToNIte@台南.jpg](https://zh.wikipedia.org/wiki/File:LoVin'ToNIte@台南.jpg "fig:LoVin'ToNIte@台南.jpg")
-  - 2011年，12月17日，ParaPara舞蹈組織C4
-    SQuare舉辦「快閃@旺角行人專用區」，活動內容是預先公佈歌曲，以表演形式於鬧市表演ParaPara，經過8個月時間完成5次活動。直至2012年的7月止，暫時無再舉辦類似活動。
-  - 2012年，5月5日，由Paralist YGT所舉辦的「香港Ori-Para活動」誕生，於活動內教授香港原創ParaPara舞步。
-  - 2012年，6月3日，LoVin'ToNIte分支TechPara'ToNIte舉辦第一個以TechPara為主的活動。
-  - 2012年，6月27日，集合香港活躍Paralist組成的ParaPara表演團體「Fantastic-P」成立。
-  - 2013年, 2月2日，日本著名ParaPara/TechPara團體「SEF
-    DELUXE」應LoVin'ToNIte邀請來港舉辦「SEF DX 香港Tour 2013」。
-
-日本SEF DELUXE來賓包括：
-DJ：DJ GUN
-Dancer：MANAMI まなみ
-Dancer：KAIHEI かいへー
+    ParaPara 教學週年慶祝活動」，此項活動終止於2014年。
 
 ## 參见
 

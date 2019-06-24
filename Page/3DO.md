@@ -45,6 +45,7 @@ CD和“现实计划”（即[任天堂64](../Page/任天堂64.md "wikilink")）
 
 ## 参考资料
 
+[Category:LG电子](https://zh.wikipedia.org/wiki/Category:LG电子 "wikilink")
 [Category:1990年代玩具](https://zh.wikipedia.org/wiki/Category:1990年代玩具 "wikilink")
 [Category:第五世代遊戲機](https://zh.wikipedia.org/wiki/Category:第五世代遊戲機 "wikilink")
 [Category:家用游戏机](https://zh.wikipedia.org/wiki/Category:家用游戏机 "wikilink")

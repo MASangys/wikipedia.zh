@@ -144,6 +144,7 @@ UGO.com还称移植版是原版副本的次品，其呈现反过来有碍对整�
 [Category:时间旅行游戏](https://zh.wikipedia.org/wiki/Category:时间旅行游戏 "wikilink")
 [Category:科学奇幻电子游戏](https://zh.wikipedia.org/wiki/Category:科学奇幻电子游戏 "wikilink")
 [Category:女性反派电子游戏](https://zh.wikipedia.org/wiki/Category:女性反派电子游戏 "wikilink")
+[Category:魔女题材作品](https://zh.wikipedia.org/wiki/Category:魔女题材作品 "wikilink")
 
 1.  <http://store.jp.square-enix.com/item/SEDL_1021.html>
 

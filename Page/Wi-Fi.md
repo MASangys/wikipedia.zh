@@ -1,6 +1,6 @@
 [WiFi_Logo.svg](https://zh.wikipedia.org/wiki/File:WiFi_Logo.svg "fig:WiFi_Logo.svg")
 
-**Wi-Fi**（\[1\]\[2\]\[3\]），在[中文裡又稱作](https://zh.wikipedia.org/wiki/中文 "wikilink")「無線熱點」，是[Wi-Fi聯盟製造商的](https://zh.wikipedia.org/wiki/Wi-Fi聯盟 "wikilink")[商標做為產品的品牌認證](https://zh.wikipedia.org/wiki/商標 "wikilink")，是一個建立於[IEEE
+**Wi-Fi**（\[1\]\[2\]\[3\]），在[中文裡又稱作](https://zh.wikipedia.org/wiki/中文 "wikilink")「無線熱點」，是Wi-Fi聯盟製造商的[商標做為產品的品牌認證](https://zh.wikipedia.org/wiki/商標 "wikilink")，是一個建立於[IEEE
 802.11標準的](../Page/IEEE_802.11.md "wikilink")[無線局域網技術](https://zh.wikipedia.org/wiki/無線局域網 "wikilink")。基於兩套系統的密切相關，也常有人把Wi-Fi當做IEEE
 802.11標準的同义術語。「Wi-Fi」常被寫成「**WiFi**」或「**Wifi**」，但是它們並沒有被Wi-Fi聯盟認可。
 
@@ -144,8 +144,7 @@ Wi-Fi部署區網（LAN）可讓客戶端設備無需使用電線，降低網絡
 根據Wi-Fi聯盟指定，“Wi-Fi認證”是向後相容的。它指定一套全球統一標準：不同於行動電話，任何Wi –
 Fi標準設備將在世界上任何地方正確執行。
 
-Wi –
-Fi已在22萬個以上公開熱點和幾千萬戶家庭、公司及世界各地的大學校園中使用。2010年，Wi-Fi保護訪問加密(WPA2)被認定安全，能讓用戶使用強大的密碼。新協議的Wi-Fi
+Wi-Fi已在22萬個以上公開熱點和幾千萬戶家庭、公司及世界各地的大學校園中使用。2010年，Wi-Fi保護訪問加密(WPA2)被認定安全，能讓用戶使用強大的密碼。新協議的Wi-Fi
 Multimedia（WMM）說明Wi-Fi更適合於延遲敏感型應用（如語音和視頻），此外，WMM的省電機制能提高電池效率。
 
 ### 限制

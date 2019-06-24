@@ -140,9 +140,11 @@ XWB以及20架選擇購買權。其首席執行官（CEO）[周俊成於聲明�
 
 2018年12月4日﹐空中巴士交付了首架A350-900予[中國東方航空](https://zh.wikipedia.org/wiki/中國東方航空 "wikilink")\[23\]
 
+2019年6月2日，空中巴士交付了首架A350-900予[日本航空](../Page/日本航空.md "wikilink")
+
 ## 型號
 
-A350WXB的細部型號於2006年啟動，計畫於2013年投入運行，但在2011年[巴黎航展上](https://zh.wikipedia.org/wiki/巴黎航展 "wikilink")，[空中巴士將A](https://zh.wikipedia.org/wiki/空中巴士 "wikilink")350-1000的投入日期延到2017年中期。2012年7月，再將A350-900的投入日期延到2014下半年。
+A350XWB的細部型號於2006年啟動，計畫於2013年投入運行，但在2011年[巴黎航展上](https://zh.wikipedia.org/wiki/巴黎航展 "wikilink")，[空中巴士將A](https://zh.wikipedia.org/wiki/空中巴士 "wikilink")350-1000的投入日期延到2017年中期。2012年7月，再將A350-900的投入日期延到2014下半年。
 
   - A350-800（沒有生產）：設計規格為長，三級艙等配置276個座位，航程
     ，最大起飛重量（MTOW）。\[24\]主要竞争对手为[波音787系列](../Page/波音787.md "wikilink")，也可用于替代[A330系列](https://zh.wikipedia.org/wiki/A330 "wikilink")，原預計於2014年投入服務。由[勞斯萊斯新一代遄达](https://zh.wikipedia.org/wiki/勞斯萊斯股份有限公司 "wikilink")（Next
@@ -293,8 +295,8 @@ XWB將配備更大的[窗戶](../Page/窗.md "wikilink")，機艙內氣壓會被
 <td><p><strong>10</strong></p></td>
 <td></td>
 <td><p><strong>10</strong></p></td>
-<td><p><strong>8</strong></p></td>
-<td><p>其中B-1083采用“多彩世园号”彩绘，將於2019年交付完畢</p></td>
+<td><p><strong>10</strong></p></td>
+<td><p>其中B-1083采用“多彩世园号”彩绘，2019年5月交付完畢</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -382,7 +384,7 @@ XWB將配備更大的[窗戶](../Page/窗.md "wikilink")，機艙內氣壓會被
 <td><p><strong>9</strong></p></td>
 <td><p><strong>30</strong></p></td>
 <td><p><strong>6</strong></p></td>
-<td></td>
+<td><p>A350-1000預計於2020年起交付。</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -425,7 +427,7 @@ XWB將配備更大的[窗戶](../Page/窗.md "wikilink")，機艙內氣壓會被
 <td><p><strong>28</strong></p></td>
 <td><p><strong>20</strong></p></td>
 <td><p><strong>48</strong></p></td>
-<td><p><strong>33</strong></p></td>
+<td><p><strong>34</strong></p></td>
 <td><p>原始訂購30架A350-900[45][46]， 2012年1月20日追加六架[47]，2012年8月8日將16架轉為A350-1000且另外加定10架[48][49]。2017年9月13日將6架A350-1000轉為A350-900</p></td>
 </tr>
 <tr class="even">
@@ -459,7 +461,7 @@ XWB將配備更大的[窗戶](../Page/窗.md "wikilink")，機艙內氣壓會被
 <td></td>
 <td><p><strong>20</strong></p></td>
 <td></td>
-<td></td>
+<td><p>2019年至2022年交付</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -486,7 +488,7 @@ XWB將配備更大的[窗戶](../Page/窗.md "wikilink")，機艙內氣壓會被
 <tr class="odd">
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/阿聯酋航空" title="wikilink">阿聯酋航空</a></p></td>
-<td><p>2019</p></td>
+<td><p>TBA</p></td>
 <td></td>
 <td><p><strong>30</strong></p></td>
 <td></td>
@@ -519,7 +521,7 @@ XWB將配備更大的[窗戶](../Page/窗.md "wikilink")，機艙內氣壓會被
 <tr class="even">
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/芬蘭航空" title="wikilink">芬蘭航空</a></p></td>
-<td><p>2015</p></td>
+<td><p>2016</p></td>
 <td></td>
 <td><p><strong>19</strong></p></td>
 <td></td>
@@ -601,8 +603,8 @@ XWB將配備更大的[窗戶](../Page/窗.md "wikilink")，機艙內氣壓會被
 <td><p><strong>31</strong></p></td>
 <td><p><strong>13</strong></p></td>
 <td><p><strong>44</strong></p></td>
-<td></td>
-<td></td>
+<td><p><strong>1</strong></p></td>
+<td><p>首架A350-900已於2019年6月2日交付，A350-1000預計2019年6月交付</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -679,7 +681,7 @@ XWB將配備更大的[窗戶](../Page/窗.md "wikilink")，機艙內氣壓會被
 <td></td>
 <td><p><strong>6</strong></p></td>
 <td><p><strong>1</strong></p></td>
-<td></td>
+<td><p>預計2019年交付完畢</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -690,7 +692,7 @@ XWB將配備更大的[窗戶](../Page/窗.md "wikilink")，機艙內氣壓會被
 <td><p><strong>37</strong></p></td>
 <td><p><strong>78</strong></p></td>
 <td><p><strong>30</strong></p></td>
-<td><p>首次訂購時包含20架A350-800[66][67]，於2012年12月3日轉換為3架A350-900及17架A350-1000[68]。卡達航空同時為A350-900及A350-1000啟動客戶，並於2015年1月15日開始首條A350-900商業航班服務。</p></td>
+<td><p>首次訂購時包含20架A350-800[66][67]，於2012年12月3日轉換為3架A350-900及17架A350-1000[68]。卡達航空同時為A350-900及A350-1000啟動客戶，並於2015年1月15日開始首條A350-900商業航班服務,首架A350-1000已於2018年2月21日交付並已於2018年2月24日A350-1000商業航班服務,首航倫敦希斯路</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -719,10 +721,10 @@ XWB將配備更大的[窗戶](../Page/窗.md "wikilink")，機艙內氣壓會被
 <td><p><a href="../Page/四川航空.md" title="wikilink">四川航空</a></p></td>
 <td><p>2018</p></td>
 <td></td>
-<td><p><strong>16</strong></p></td>
+<td><p><strong>14</strong></p></td>
 <td></td>
-<td><p><strong>16</strong></p></td>
-<td><p><strong>3</strong></p></td>
+<td><p><strong>14</strong></p></td>
+<td><p><strong>4</strong></p></td>
 <td><p>斯里兰卡航空取消全部四架订单后将其订单全部转交给四川航空；后四川航空加购10架;</p></td>
 </tr>
 <tr class="odd">
@@ -799,8 +801,8 @@ XWB將配備更大的[窗戶](../Page/窗.md "wikilink")，機艙內氣壓會被
 <td><p><strong>14</strong></p></td>
 <td></td>
 <td><p><strong>14</strong></p></td>
-<td><p><strong>12</strong></p></td>
-<td></td>
+<td><p><strong>13</strong></p></td>
+<td><p>預計於2020年交付完畢</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -840,10 +842,10 @@ XWB將配備更大的[窗戶](../Page/窗.md "wikilink")，機艙內氣壓會被
 <td></td>
 <td></td>
 <td><p>—</p></td>
-<td><p>686</p></td>
-<td><p>188</p></td>
-<td><p>854</p></td>
-<td><p>240</p></td>
+<td><p>769</p></td>
+<td><p>185</p></td>
+<td><p>954</p></td>
+<td><p>250</p></td>
 <td></td>
 </tr>
 </tbody>

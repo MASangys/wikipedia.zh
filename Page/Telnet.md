@@ -15,7 +15,7 @@ Telnet在1969年開發出來，在 RFC 15 定義， RFC 854
 
   - [圖書館利用Telnet及](https://zh.wikipedia.org/wiki/圖書館 "wikilink")[全球資訊網供讀者進行續借](https://zh.wikipedia.org/wiki/全球資訊網 "wikilink")、預約及查詢記錄的服務。
   - 多數的純文字式[BBS仍使用Telnet](../Page/BBS.md "wikilink")，部分甚至提供SSH服務，以提升安全性。
-  - [路由器](../Page/路由器.md "wikilink")、[交換器及大部份的](https://zh.wikipedia.org/wiki/交換器 "wikilink")[電信設備仍提供Telnet及SSH介面](https://zh.wikipedia.org/wiki/電信設備 "wikilink")，以讓管理者連入進行設定及維護。
+  - [路由器](../Page/路由器.md "wikilink")、[交換器及大部份的](../Page/網路交換器.md "wikilink")[電信設備仍提供Telnet及SSH介面](https://zh.wikipedia.org/wiki/電信設備 "wikilink")，以讓管理者連入進行設定及維護。
 
 [Microsoft
 Windows從](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Vista開始](https://zh.wikipedia.org/wiki/Vista "wikilink")，不再預先安裝Telnet客戶端，使用者需要手動從程式集裡啟動才可使用。而在之前的版本，只要電腦啟動了TCP/IP服務，Telnet客戶端便可隨時使用。

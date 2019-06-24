@@ -4,6 +4,9 @@ Tiger作業系統中的應用程式](https://zh.wikipedia.org/wiki/Mac_OS_X_v10.
 
 當Dashboard啟動時，使用者的桌面會變暗，而widgets則會漸入出現於前景中。如同一般的應用程式視窗，widgets可以被四處移動、重新配置、關閉，以及重複開啟（因此能夠同時開啟多個相同的widget，並且針對每一個做出不同的設定）。可使用選單列開啟新的widget，只需點選或拖曳widget的圖示至畫面上即可。等待widget載入後就能立即使用。
 
+最新的作業系統版本[macOS
+Catalina不再支援](https://zh.wikipedia.org/wiki/macOS_Catalina "wikilink")**Dashboard。**
+
 ## 製作Widgets
 
 開發者可以利用[超文件標示語言](https://zh.wikipedia.org/wiki/超文件標示語言 "wikilink")（HTML）、[層疊樣式表](https://zh.wikipedia.org/wiki/層疊樣式表 "wikilink")（CSS）和[JavaScript製作Dashboard](../Page/JavaScript.md "wikilink")

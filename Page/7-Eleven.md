@@ -1,4 +1,4 @@
-**7-Eleven**是一間[跨國](../Page/跨國公司.md "wikilink")[連鎖](../Page/連鎖店.md "wikilink")[便利店集團](https://zh.wikipedia.org/wiki/便利店 "wikilink")，源於[美國企業](https://zh.wikipedia.org/wiki/美國 "wikilink")[南方公司從冰品商店特許經營起家](https://zh.wikipedia.org/wiki/南方公司 "wikilink")，後來被[日本](../Page/日本.md "wikilink")[7\&I控股公司收購](../Page/7&I控股.md "wikilink")，目前為其旗下全資[子公司](../Page/子公司.md "wikilink")。公司總部設於日本[东京的](https://zh.wikipedia.org/wiki/东京都 "wikilink")[千代田区](https://zh.wikipedia.org/wiki/千代田区 "wikilink")[二番町](../Page/二番町_\(千代田區\).md "wikilink")8-8號，現任會長是[鈴木敏文](https://zh.wikipedia.org/wiki/鈴木敏文 "wikilink")。\[1\]。
+**7-Eleven**是一間[跨國](../Page/跨國公司.md "wikilink")[連鎖](../Page/連鎖店.md "wikilink")[便利店集團](https://zh.wikipedia.org/wiki/便利店 "wikilink")，源於[美國企業](https://zh.wikipedia.org/wiki/美國 "wikilink")[南方公司從冰品商店特許經營起家](https://zh.wikipedia.org/wiki/南方公司 "wikilink")，後來被[日本](../Page/日本.md "wikilink")[7\&I控股公司收購](../Page/7&I控股.md "wikilink")，目前為其旗下全資[子公司](../Page/子公司.md "wikilink")。公司總部設於日本[東京都](../Page/東京都.md "wikilink")[千代田区](https://zh.wikipedia.org/wiki/千代田区 "wikilink")[二番町](../Page/二番町_\(千代田區\).md "wikilink")8-8號，現任會長是[鈴木敏文](https://zh.wikipedia.org/wiki/鈴木敏文 "wikilink")。\[1\]。
 
 截至2018年8月，7-Eleven全球門店總數達66,581家\[2\]，分佈於全球17個國家和地區，包括日本、美國、[加拿大](../Page/加拿大.md "wikilink")、[墨西哥](../Page/墨西哥.md "wikilink")、[香港](../Page/香港.md "wikilink")、[中国大陸](https://zh.wikipedia.org/wiki/中国大陸 "wikilink")、[澳大利亞](https://zh.wikipedia.org/wiki/澳大利亞 "wikilink")、[澳門](../Page/澳門.md "wikilink")、[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")、[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")、[菲律賓](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")、[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")、[挪威](../Page/挪威.md "wikilink")、[瑞典](../Page/瑞典.md "wikilink")、[丹麥](https://zh.wikipedia.org/wiki/丹麥 "wikilink")、[越南與](https://zh.wikipedia.org/wiki/越南 "wikilink")[阿聯酋](../Page/阿拉伯联合酋长国.md "wikilink")。與[FamilyMart](../Page/FamilyMart.md "wikilink")、[Lawson](https://zh.wikipedia.org/wiki/Lawson "wikilink")、[Circle
 K等便利店互相競爭](https://zh.wikipedia.org/wiki/Circle_K "wikilink")。
@@ -333,7 +333,7 @@ Pay功能在北京的7-ELEVEn店铺中一直无法正常使用。而天津地区
   - 大部分的熟食（如[三明治](../Page/三明治.md "wikilink")，[麵包](../Page/麵包.md "wikilink")）等貨物均為由馬來西亞運輸的商品。
   - 新加坡多數7-Eleven由兩位店員值班，一般情況下可以使用流利的[華語以及](https://zh.wikipedia.org/wiki/華語 "wikilink")[英語甚至是使用](https://zh.wikipedia.org/wiki/英語 "wikilink")[馬來語和](https://zh.wikipedia.org/wiki/馬來語 "wikilink")[泰米爾語與顧客溝通](https://zh.wikipedia.org/wiki/泰米爾語 "wikilink")。
   - 儘管大部分設立於地鐵站中的7-Eleven會由於地鐵的開放時間限制而無法24小時營業，但亦有小部分設立於地鐵站外卻在地下的7-Eleven實行24小時營業。
-  - 作為政府的[講華語運動之一](../Page/講華語運動.md "wikilink")，新加坡7-Eleven與地鐵站一樣會在每日早上上班時期免費提供[TODAY和](https://zh.wikipedia.org/wiki/TODAY "wikilink")[我报這兩種英語及華語的報紙](../Page/我报.md "wikilink")。
+  - 新加坡7-Eleven與地鐵站一樣會在每日早上上班時期免費提供英語報紙（曾免費提供[我报](../Page/我报.md "wikilink")，2016年12月1日起改為提供《新報》）。
 
 ### 韓國
 
@@ -348,7 +348,7 @@ Pay功能在北京的7-ELEVEn店铺中一直无法正常使用。而天津地区
 
 #### 特色
 
-[Taipei_Bridge_Station_7-ELEVEN.jpg](https://zh.wikipedia.org/wiki/File:Taipei_Bridge_Station_7-ELEVEN.jpg "fig:Taipei_Bridge_Station_7-ELEVEN.jpg")[台北橋站的](https://zh.wikipedia.org/wiki/台北橋站 "wikilink")7-Eleven\]\]
+[Taipei_Bridge_Station_7-ELEVEN.jpg](https://zh.wikipedia.org/wiki/File:Taipei_Bridge_Station_7-ELEVEN.jpg "fig:Taipei_Bridge_Station_7-ELEVEN.jpg")[台北橋站的](https://zh.wikipedia.org/wiki/台北橋站 "wikilink")7-Eleven（已於2012年結束營業）\]\]
 [Slurpee_Machine.jpg](https://zh.wikipedia.org/wiki/File:Slurpee_Machine.jpg "fig:Slurpee_Machine.jpg")
 
   - 臺灣在門市總數上僅次於美國、日本、韩国與泰國，但在土地平均分店密度方面，臺灣遙遙領先在美日之前，在人口平均分店密度方面，臺灣則以每4,900人一家分店的平均密度，世界排名第一。
@@ -368,7 +368,7 @@ Pay功能在北京的7-ELEVEn店铺中一直无法正常使用。而天津地区
   - 2008年，統一集團有鑑於「7-Eleven」（[統一超商](../Page/統一超商.md "wikilink")）為臺灣最知名之統一集團關係企業，因而將「7-ELEVEn」加入至集團旗下的棒球隊名當中，成為中華職棒首次有企業品牌名稱加入隊名的球隊。
   - 2008年9月於[桃園縣設立第一家附設自助加油站的門市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")。
   - 2010年4月，開始接受[悠遊卡小額消費](../Page/悠遊卡.md "wikilink")。
-  - 2015年1月16日，開放使用「[一卡通票證公司](../Page/一卡通票證公司.md "wikilink")」[一卡通小額消費](https://zh.wikipedia.org/wiki/一卡通_\(台灣\) "wikilink")。
+  - 2015年1月16日，開放使用「[一卡通票證公司](../Page/一卡通票證公司.md "wikilink")」[一卡通小額消費](../Page/IPASS一卡通.md "wikilink")。
   - 2018年1月29日，全球首家7-Eleven無人便利店「X-STORE」今天在在台北市東興路統一超商總部1樓開業。
 
 ## 各地分店圖片

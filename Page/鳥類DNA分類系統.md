@@ -4,7 +4,7 @@ Sibley）利用以[DNA交杂之](https://zh.wikipedia.org/wiki/DNA交杂 "wikili
 Classification of the Living Birds of the World Based on DNA-DNA
 Hybridization》，提出DNA分类系统。在此一分类系统對各種[鳥類分佈提供了解釋](https://zh.wikipedia.org/wiki/鳥類 "wikilink")，同一地區的鳥類多半被歸在一起。
 
-近年被全新的[鸟类全基因组测序分类系统取代](https://zh.wikipedia.org/wiki/鸟类分类系统 "wikilink")。
+近年被全新的[鸟类全基因组测序分类系统取代](../Page/鸟类分类系统.md "wikilink")。
 
 [Avesboom_(zh).jpg](https://zh.wikipedia.org/wiki/File:Avesboom_\(zh\).jpg "fig:Avesboom_(zh).jpg")
 
@@ -576,7 +576,7 @@ Hybridization》，提出DNA分类系统。在此一分类系统對各種[鳥類
 ## 参见
 
   - [鸟类传统分类系统](../Page/鸟类传统分类系统.md "wikilink")
-  - 2014年[鸟类全基因组测序分类系统](https://zh.wikipedia.org/wiki/鸟类分类系统 "wikilink")
+  - 2014年[鸟类全基因组测序分类系统](../Page/鸟类分类系统.md "wikilink")
 
 [Category:鸟类](https://zh.wikipedia.org/wiki/Category:鸟类 "wikilink")
 [Category:生物分類學](https://zh.wikipedia.org/wiki/Category:生物分類學 "wikilink")

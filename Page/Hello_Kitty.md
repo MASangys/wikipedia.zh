@@ -22,7 +22,7 @@ Kitty沒有嘴巴，在[網路上亦有](https://zh.wikipedia.org/wiki/網路 "w
 ## 周边产品
 
 虽然Hello
-Kitty最初的设计著重於女性市场，但至今該吉祥物商品已經涉及[玩具](../Page/玩具.md "wikilink")、[钱包](https://zh.wikipedia.org/wiki/钱包 "wikilink")、[电视](../Page/电视.md "wikilink")、[衣服](https://zh.wikipedia.org/wiki/衣服 "wikilink")、[按摩器](https://zh.wikipedia.org/wiki/按摩器 "wikilink")、[计算机](https://zh.wikipedia.org/wiki/计算机 "wikilink")[硬件甚至](../Page/硬件.md "wikilink")[性玩具](https://zh.wikipedia.org/wiki/性玩具 "wikilink")。問世以來，Hello
+Kitty最初的设计著重於女性市场，但至今該吉祥物商品已經涉及[玩具](../Page/玩具.md "wikilink")、[钱包](https://zh.wikipedia.org/wiki/钱包 "wikilink")、[电视](../Page/电视.md "wikilink")、[衣服](https://zh.wikipedia.org/wiki/衣服 "wikilink")、[按摩器](../Page/按摩器.md "wikilink")、[计算机](https://zh.wikipedia.org/wiki/计算机 "wikilink")[硬件甚至](../Page/硬件.md "wikilink")[性玩具](https://zh.wikipedia.org/wiki/性玩具 "wikilink")。問世以來，Hello
 Kitty就深受消費者喜歡，尤其在亞洲，相關產品更受到熱烈的欢迎。
 
 1974年11月1日問世，1976年註冊的Hello Kitty，在不久之後，也成為卡通的主角。該部以兒童為收視群設計的Hello
@@ -206,6 +206,17 @@ Kitty共同策劃[發行跨品牌商品](http://www.damanwoo.com/node/55805)。
   - [日本动画](../Page/日本动画.md "wikilink")
 
 ## 外部链接
+
+  - [日本SANRIO HELLO
+    KITTY官方介紹](https://www.sanrio.co.jp/character/hellokitty/)
+
+  - [HELLO KITTY CHANNEL
+    官方YouTube網站](https://www.youtube.com/channel/UCyof-1Ko_jy2sOtivyTpc4Q)
+
+  - [GUNDAM vs. HELLO KITTY 官方網站](https://www.gundamvskitty.com/)
+
+  - [GUNDAM vs. HELLO KITTY PROJECT
+    官方YouTube網站](https://www.youtube.com/channel/UCUWCwmYec08m5aHTYVVZkXQ)
 
   - [Hello Kitty](http://www.sanrio.com/)
 

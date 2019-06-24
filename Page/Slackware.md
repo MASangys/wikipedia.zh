@@ -63,17 +63,15 @@ x86发布历史
 
 Slackware主要为[x86](https://zh.wikipedia.org/wiki/x86 "wikilink")
 [PC开发](../Page/PC.md "wikilink")。然而曾经存在一些官方的[移植](https://zh.wikipedia.org/wiki/移植_\(軟體\) "wikilink")，像针对[DEC
-Alpha和](../Page/DEC_Alpha.md "wikilink")[SPARC架构的](../Page/SPARC.md "wikilink")。从2005年起，开始出现针对[System/390架构的官方移植](https://zh.wikipedia.org/wiki/zSeries "wikilink")。同时也存在一些非官方的移植，[ARM](https://zh.wikipedia.org/wiki/ARM "wikilink")，[DEC
-Alpha](../Page/DEC_Alpha.md "wikilink")，SPARC和[PowerPC](../Page/PowerPC.md "wikilink")。
+Alpha和](../Page/DEC_Alpha.md "wikilink")[SPARC架构的](../Page/SPARC.md "wikilink")。从2005年起，开始出现针对[System/390架构的官方移植](https://zh.wikipedia.org/wiki/zSeries "wikilink")。同时也存在一些非官方的移植：[ARM](https://zh.wikipedia.org/wiki/ARM "wikilink")、[DEC
+Alpha](../Page/DEC_Alpha.md "wikilink")、SPARC和[PowerPC](../Page/PowerPC.md "wikilink")。
 
-Slackware针对x86的最新稳定发布版本是14.2（2016年7月1日），其中包括了4.4.14版本内核，以及[KDE
+Slackware针对x86的最新稳定发布版本是14.2（2016年7月1日），其中包括了4.4.14版本内核、以及[KDE
 SC](../Page/KDE_Software_Compilation_4.md "wikilink")
-4.14.32（内有[Amarok](../Page/Amarok.md "wikilink")2.8.0媒体播放器）,
-[XFCE](https://zh.wikipedia.org/wiki/XFCE "wikilink")
-4.12.1，最新版本的[Firefox和](../Page/Firefox.md "wikilink")[Thunderbird](https://zh.wikipedia.org/wiki/Thunderbird "wikilink")，[glibc](https://zh.wikipedia.org/wiki/glibc "wikilink")-2.23,
-[gcc](https://zh.wikipedia.org/wiki/gcc "wikilink")-5.3.0以及其它常用软件。
+4.14.32（内有[Amarok](../Page/Amarok.md "wikilink")2.8.0媒体播放器）、[XFCE](https://zh.wikipedia.org/wiki/XFCE "wikilink")
+4.12.1、最新版本的[Firefox和](../Page/Firefox.md "wikilink")[Thunderbird](https://zh.wikipedia.org/wiki/Thunderbird "wikilink")、[glibc](https://zh.wikipedia.org/wiki/glibc "wikilink")-2.23、[gcc](https://zh.wikipedia.org/wiki/gcc "wikilink")-5.3.0以及其它常用软件。
 
-Slackware的测试／开发版本称为 '-current'，这是为了可以使用更多超前的配置。
+Slackware的测试／开发版本称为 -current，这是为了可以使用更多超前的配置。
 
 Slackware 13.0，官方首次提供64位的版本下载。
 

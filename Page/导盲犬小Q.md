@@ -1,4 +1,4 @@
-《**再見了，可魯**》是[日本作家](https://zh.wikipedia.org/wiki/日本作家 "wikilink")[石黑谦吾和](https://zh.wikipedia.org/wiki/石黑谦吾 "wikilink")[攝影師](https://zh.wikipedia.org/wiki/攝影師 "wikilink")[秋元良平根據真人實事所合著的](https://zh.wikipedia.org/wiki/秋元良平 "wikilink")[小說](https://zh.wikipedia.org/wiki/小說 "wikilink")。並改编為同名[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，於2003年6月在[NHK播出](https://zh.wikipedia.org/wiki/NHK "wikilink")；同名[电影于](../Page/电影.md "wikilink")2004年3月13日在[日本上映](../Page/日本.md "wikilink")，并于2004年9月25日发行了DVD。2019年香港根據小說改編拍攝電影《[小Q](https://zh.wikipedia.org/wiki/小Q "wikilink")》。
+《**再見了，可魯**》是[日本作家](https://zh.wikipedia.org/wiki/日本作家 "wikilink")[石黑谦吾和](https://zh.wikipedia.org/wiki/石黑谦吾 "wikilink")[攝影師](https://zh.wikipedia.org/wiki/攝影師 "wikilink")[秋元良平根據真人實事所合著的](https://zh.wikipedia.org/wiki/秋元良平 "wikilink")[小說](https://zh.wikipedia.org/wiki/小說 "wikilink")。並改编為同名[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，於2003年6月在[NHK播出](https://zh.wikipedia.org/wiki/NHK "wikilink")；同名[电影于](../Page/电影.md "wikilink")2004年3月13日在[日本上映](../Page/日本.md "wikilink")，并于2004年9月25日发行了DVD。2019年香港根據小說改編拍攝電影《[小Q](../Page/小Q.md "wikilink")》。
 
 ## 剧情介绍
 

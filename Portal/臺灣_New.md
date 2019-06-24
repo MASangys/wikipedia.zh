@@ -2,8 +2,8 @@
 
 <!-- end list -->
 
-  - 臺灣[澎湖群島](../Page/澎湖群島.md "wikilink")**[哪間廟宇](https://zh.wikipedia.org/wiki/虎井觀音廟 "wikilink")**，為[虎井嶼漁村的地方公廟](../Page/虎井嶼.md "wikilink")，並主祀[觀世音菩薩](../Page/觀世音菩薩.md "wikilink")？
-  - **[哪一種小型豬種](https://zh.wikipedia.org/wiki/蘭嶼豬 "wikilink")**是原產於蘭嶼，並且為台灣唯一的小型豬種原？
+  - 臺灣[澎湖群島](../Page/澎湖群島.md "wikilink")**[哪間廟宇](../Page/虎井觀音廟.md "wikilink")**，為[虎井嶼漁村的地方公廟](../Page/虎井嶼.md "wikilink")，並主祀[觀世音菩薩](../Page/觀世音菩薩.md "wikilink")？
+  - **[哪一種小型豬種](../Page/蘭嶼豬.md "wikilink")**是原產於蘭嶼，並且為台灣唯一的小型豬種原？
   - [臺灣](../Page/臺灣.md "wikilink")[屏東縣](../Page/屏東縣.md "wikilink")[新埤鄉的](https://zh.wikipedia.org/wiki/新埤鄉 "wikilink")**[哪一處眷村](../Page/玉環新村.md "wikilink")**以[浙江省](../Page/浙江省.md "wikilink")[玉環縣的](https://zh.wikipedia.org/wiki/玉環縣 "wikilink")[披山島移民為人口大宗](https://zh.wikipedia.org/wiki/披山島 "wikilink")？
   - [臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[東勢區](../Page/東勢區.md "wikilink")**[哪座廟宇](../Page/東勢巧聖仙師祖廟.md "wikilink")**被視為臺灣主祀[魯班的開基祖廟](https://zh.wikipedia.org/wiki/魯班 "wikilink")？
   - 台灣工地工程師[林立青在](../Page/林立青_\(作家\).md "wikilink")2017年推出**[哪一本描寫台灣勞工的散文集](../Page/做工的人.md "wikilink")**，不但獲得優異的銷量，還被改編為電視劇？
@@ -864,7 +864,7 @@
   - 每日，[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[台北車站的憲兵會去擦拭](https://zh.wikipedia.org/wiki/台北車站 "wikilink")**[哪位殉職憲兵](../Page/楊榮華_\(憲兵\).md "wikilink")**的紀念牌，據說過去還有一位神秘女郎會在12月13日來此獻花？
   - 在[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[高雄市](../Page/高雄市.md "wikilink")[苓雅區有](../Page/苓雅區.md "wikilink")**[哪間廟宇](../Page/聖公媽廟.md "wikilink")**，其主神神像不予公開，多有當地的風塵女子前來祭拜？
   - [聖嚴法師曾在](https://zh.wikipedia.org/wiki/聖嚴法師 "wikilink")**[哪間臺灣佛寺](../Page/朝元寺_\(美濃\).md "wikilink")**閉關兩次，在那寫出《聖嚴文集》、《正信的佛教》、《戒律學綱要》？
-  - [台北捷運](https://zh.wikipedia.org/wiki/台北捷運 "wikilink")[淡水線](https://zh.wikipedia.org/wiki/淡水線 "wikilink")[雙連站附近有尊銅像](https://zh.wikipedia.org/wiki/雙連站 "wikilink")，是紀念為拯救一整車公車乘客而殉職的**[哪位台鐵員工](../Page/高施傳.md "wikilink")**？
+  - [台北捷運](https://zh.wikipedia.org/wiki/台北捷運 "wikilink")[淡水線](../Page/淡水線.md "wikilink")[雙連站附近有尊銅像](https://zh.wikipedia.org/wiki/雙連站 "wikilink")，是紀念為拯救一整車公車乘客而殉職的**[哪位台鐵員工](../Page/高施傳.md "wikilink")**？
   - 截止自2016年11月，**[哪座位於曾文水庫的導水隧道](../Page/曾文水庫防淤隧道.md "wikilink")**是[全臺灣最大的地下水利工程](../Page/臺灣.md "wikilink")，也是全球首座使用象鼻鋼管工法的排砂導水隧道？
   - **[哪一位臺灣女性人物](../Page/姜民權.md "wikilink")**是[國立臺灣大學物理學系首名女學生](../Page/國立臺灣大學物理學系.md "wikilink")，曾在[臺灣白色恐怖時期遭判](../Page/臺灣白色恐怖時期.md "wikilink")「參加叛亂組織」罪名，入獄服刑近十年？
   - **[哪一个民國時期企業家](../Page/關頌聲.md "wikilink")**的公司設計了[南京中央體育場等建築](https://zh.wikipedia.org/wiki/南京中央體育場 "wikilink")，抵臺後推廣田徑，資助[楊傳廣](../Page/楊傳廣.md "wikilink")、[紀政成為奧運銀](../Page/紀政.md "wikilink")、銅牌得主，被譽為「臺灣田徑之父」？
@@ -1687,7 +1687,7 @@
 
 #### 5月
 
-  - **[哪位臺灣人](../Page/邱永漢.md "wikilink")**曾參與[台灣獨立運動](../Page/台灣獨立運動.md "wikilink")，並以相關經歷見聞寫成小說而榮獲日本文學界大獎[直木賞](https://zh.wikipedia.org/wiki/直木賞 "wikilink")，還被譽為「日本股神」？
+  - **[哪位臺灣人](../Page/邱永漢.md "wikilink")**曾參與[台灣獨立運動](../Page/台灣獨立運動.md "wikilink")，並以相關經歷見聞寫成小說而榮獲日本文學界大獎[直木賞](../Page/直木賞.md "wikilink")，還被譽為「日本股神」？
   - **[哪一位政府官員](../Page/周德偉.md "wikilink")**的公家宿舍〈紫藤廬〉成為50年代[台北](https://zh.wikipedia.org/wiki/台北 "wikilink")[自由主義學者的聚會場所](https://zh.wikipedia.org/wiki/自由主義 "wikilink")？
   - **[哪一位中華民國旅美分子生物學家](../Page/周芷.md "wikilink")**2012年當選[美國國家科學院外籍院士](https://zh.wikipedia.org/wiki/美國國家科學院 "wikilink")？
   - [台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[新竹地區館藏量最多的是](https://zh.wikipedia.org/wiki/新竹 "wikilink")'''[哪一個大學圖書館](../Page/國立清華大學圖書館.md "wikilink")？

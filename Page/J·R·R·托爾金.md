@@ -279,9 +279,8 @@ Club）為傲——在俱樂部裡，大學生可以自由地閱讀古斯堪的�
     Christmas Letters）
   - 1977年 《[精靈寶鑽](../Page/精靈寶鑽.md "wikilink")》（The Silmarillion*）*（\*
     中文繁體版，2002年，台灣[聯經出版公司出版](../Page/聯經出版.md "wikilink")-{[ISBN：9789570825244](https://www.linkingbooks.com.tw/LNB/book/Book.aspx?ID=87015)）
-  - 1981年
-    《[J·R·R·托尔金的信件](https://zh.wikipedia.org/wiki/J·R·R·托尔金的信件 "wikilink")》（The
-    Letters of J. R. R. Tolkien）
+  - 1981年 《[托爾金書信集](../Page/托爾金書信集.md "wikilink")》（The Letters of J.R.R.
+    Tolkien）
   - 1982年 《[幸福先生](../Page/幸福先生.md "wikilink")》（Mr. Bliss）（\*
     中文繁體版，2013年12月，台灣[聯經出版公司出版](../Page/聯經出版.md "wikilink")
     [ISBN：9789570843040](https://www.linkingbooks.com.tw/LNB/book/Book.aspx?ID=1100549)）

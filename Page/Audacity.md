@@ -74,9 +74,8 @@ Muchmore給其打3.5/5顆星，並說：「儘管不如Adobe、Sony、M-Audio旗
 [Category:使用GPL许可证的软件](https://zh.wikipedia.org/wiki/Category:使用GPL许可证的软件 "wikilink")
 [Category:自由跨平台軟體](https://zh.wikipedia.org/wiki/Category:自由跨平台軟體 "wikilink")
 
-1.  [Project of the Month](http://sourceforge.net/potm/potm-2004-07.php)
-2.  [2007 Community Choice
-    Awards](http://sourceforge.net/community/index.php/landing-pages/cca07/)
+1.
+2.
 3.
 4.
 5.

@@ -10,6 +10,9 @@ NXC公司過半持有。
   - [Nexon
     Korea](https://zh.wikipedia.org/wiki/Nexon_Korea "wikilink")（總部設於[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[首爾](../Page/首爾.md "wikilink")）
   - [Nexon
+    Taiwan](https://zh.wikipedia.org/wiki/Nexon_Taiwan "wikilink")
+    （總部設於[中華民國](../Page/中華民國.md "wikilink")[臺灣](../Page/臺灣.md "wikilink")[臺北](../Page/臺北.md "wikilink")）
+  - [Nexon
     Europe](https://zh.wikipedia.org/wiki/Nexon_Europe "wikilink")（總部設於[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[倫敦](https://zh.wikipedia.org/wiki/倫敦 "wikilink")）
   - [Nexon
     America](https://zh.wikipedia.org/wiki/Nexon_America "wikilink")（總部設於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[洛杉磯](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")）
@@ -163,7 +166,8 @@ NXC公司過半持有。
 
 由Nexon Taiwan經營。
 
-  - 天涯明月刀
+  - [天涯明月刀](https://zh.wikipedia.org/wiki/天涯明月刀 "wikilink")
+  - [新瑪奇英雄傳](https://zh.wikipedia.org/wiki/新瑪奇英雄傳 "wikilink")
 
 ### 手機遊戲
 
@@ -174,10 +178,12 @@ NXC公司過半持有。
   - [暗黑復仇者3](https://zh.wikipedia.org/wiki/暗黑復仇者3 "wikilink")
   - [楓之谷突擊](https://zh.wikipedia.org/wiki/楓之谷突擊 "wikilink")
   - [楓之谷M](https://zh.wikipedia.org/wiki/楓之谷M "wikilink")
+  - [HIT：英雄之戰](https://zh.wikipedia.org/wiki/HIT：英雄之戰 "wikilink")
   - [AxE：背水一戰](https://zh.wikipedia.org/wiki/AxE：背水一戰 "wikilink")
   - [LYN : 光之使者](https://zh.wikipedia.org/wiki/LYN_:_光之使者 "wikilink")
   - [爆爆王M](https://zh.wikipedia.org/wiki/爆爆王M "wikilink")
   - [Durango：野生之地](https://zh.wikipedia.org/wiki/Durango：野生之地 "wikilink")
+  - [OVERHIT](https://zh.wikipedia.org/wiki/OVERHIT "wikilink")
 
 ## 相關電視節目
 

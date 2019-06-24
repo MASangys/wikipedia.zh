@@ -1,10 +1,10 @@
-**CLAMP**（）是[日本](../Page/日本.md "wikilink")[漫畫家組合](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")，是個著名和多產的漫畫家團體。作品有：華麗風格的《[聖傳](../Page/聖傳_\(漫畫\).md "wikilink")》、《[東京巴比倫](https://zh.wikipedia.org/wiki/東京巴比倫 "wikilink")》、《[X](../Page/X_\(漫畫\).md "wikilink")》、《[魔法騎士雷阿斯](https://zh.wikipedia.org/wiki/魔法騎士 "wikilink")》；清新風格的《[Wish](../Page/Wish_\(漫畫\).md "wikilink")》、《[少女情懷總是詩](https://zh.wikipedia.org/wiki/少女情懷總是詩 "wikilink")》、《喜歡，所以喜歡》《[CLOVER](../Page/CLOVER_\(漫畫\).md "wikilink")》、《[奇蹟少女KOBATO.](../Page/奇蹟少女KOBATO..md "wikilink")》；童真風格的《[百變小櫻](https://zh.wikipedia.org/wiki/百變小櫻 "wikilink")》、《[ANGELIC
+**CLAMP**（）是[日本](../Page/日本.md "wikilink")[漫畫家組合](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")，是個知名和多作品的漫畫家團體。漫畫作品有：華麗風格的《[聖傳](../Page/聖傳_\(漫畫\).md "wikilink")》、《[東京巴比倫](https://zh.wikipedia.org/wiki/東京巴比倫 "wikilink")》、《[X](../Page/X_\(漫畫\).md "wikilink")》、《[魔法騎士雷阿斯](https://zh.wikipedia.org/wiki/魔法騎士 "wikilink")》；清新風格的《[Wish](../Page/Wish_\(漫畫\).md "wikilink")》、《[少女情懷總是詩](https://zh.wikipedia.org/wiki/少女情懷總是詩 "wikilink")》、《喜歡，所以喜歡》《[CLOVER](../Page/CLOVER_\(漫畫\).md "wikilink")》、《[奇蹟少女KOBATO.](../Page/奇蹟少女KOBATO..md "wikilink")》；童真風格的《[百變小櫻](https://zh.wikipedia.org/wiki/百變小櫻 "wikilink")》、《[ANGELIC
 LAYER
 天使領域](../Page/ANGELIC_LAYER_天使領域.md "wikilink")》；奇幻風格的《[迷幻藥局](https://zh.wikipedia.org/wiki/迷幻藥局 "wikilink")》；可愛風格的《[Chobits](../Page/Chobits.md "wikilink")》；少年風格的《[TSUBASA翼](https://zh.wikipedia.org/wiki/TSUBASA翼 "wikilink")》、《[xxxHOLiC](https://zh.wikipedia.org/wiki/xxxHOLiC "wikilink")》、《[xxxHOLiC·戻](https://zh.wikipedia.org/wiki/xxxHOLiC·戻 "wikilink")》、《[DRUG\&DROP](https://zh.wikipedia.org/wiki/DRUG&DROP "wikilink")》等。
 
 ## 歷史
 
-最初是由一些女性漫画同好者组成的漫画工作室，在1985年开始以CLAMP（源於[胡桃鉗](https://zh.wikipedia.org/wiki/胡桃鉗 "wikilink")）的笔名开始活动。1989年5月正式出道，第一次结成时的人员为七人，人数曾一度多达十一人，但随着部分成员獨立發展及人员精简，組織已经浓缩成四人，以其构思巧妙的劇情及精緻華麗的画风大受歡迎。
+最初是由一些女性漫画同好者组成的漫画工作室，在1985年开始以CLAMP（源於[胡桃鉗](https://zh.wikipedia.org/wiki/胡桃鉗 "wikilink")）的笔名开始活动。1989年5月正式出道，第一次结成时的人员为七人，人数曾一度多达十一人，但随着部分成员獨立發展及人员精简，組織已经增減為四人，以其构思有深度的劇情及細膩華麗的画风而大受歡迎。
 
 CLAMP率先把組織化、企業化的手法帶入同人志社群中，為同人志界的超級巨星。1989年，首度在[新書館漫畫雜誌](../Page/新書館.md "wikilink")《WINGS》連載《聖傳》。作品一炮而紅，由同人志作者團體一躍而晉升為職業漫畫家組織。其受歡迎程度在當時新書館有「[高河弓建倉庫](../Page/高河弓.md "wikilink")，CLAMP蓋公司大樓」（「高河ゆんで倉庫を建て、CLAMPで本社ビルを建てた」）的說法。
 但成員仍醉心同人模式的製作，有許多作品都集成了過去的角色。此外，成員都得到大學文憑，在當時整體學歷不高的日本漫畫業界中相當少見。
@@ -14,7 +14,7 @@ CLAMP率先把組織化、企業化的手法帶入同人志社群中，為同人
 現時領袖大川七瀨負責劇本，五十岚寒月負責制作進行、設計和原稿方面的總指揮，Mokona
 Apapa負責分格和作畫，貓井椿則負責監督作畫及最後修正。
 
-一部作品的画材量统一由大川七瀨负责指定。常用的画材是[麦克笔](https://zh.wikipedia.org/wiki/麦克笔 "wikilink")、非耐水性颜料墨水、透明[水彩](https://zh.wikipedia.org/wiki/水彩 "wikilink")、白色修正液等。
+一部作品的画材量统一由大川七瀨负责指定。常用的画材是copic[麦克笔](https://zh.wikipedia.org/wiki/麦克笔 "wikilink")、非耐水性颜料墨水、透明[水彩](https://zh.wikipedia.org/wiki/水彩 "wikilink")、白色修正液等。
 
 ## 作品特色
 

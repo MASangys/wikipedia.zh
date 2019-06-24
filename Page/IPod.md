@@ -12,7 +12,7 @@ touch则早已采用[-{zh-hans:闪存;zh-hant:快閃記憶體}-](../Page/闪存.
 ## 历史
 
 发明iPod是在[iTunes之后](https://zh.wikipedia.org/wiki/iTunes "wikilink")，2000年，当时人们因为[Napster网站的关系](../Page/Napster.md "wikilink")，已经有了从网络下载音乐再刻录的习惯，苹果电脑執行長[乔布斯](https://zh.wikipedia.org/wiki/乔布斯 "wikilink")（Steve
-Jobs）觉得刻录太麻烦，他开始构思通过iTunes软件和iPod硬件传输歌曲的一种流程个项目。当时市面上已经有了类似的播放器，但是大多数都很差，播放歌曲也少得可怜，待机时间短。乔布斯任命[喬恩·魯賓斯坦](https://zh.wikipedia.org/wiki/喬恩·魯賓斯坦 "wikilink")（Jon
+Jobs）觉得刻录太麻烦，他开始构思透过iTunes软件和iPod硬件传输歌曲的一种流程个项目。当时市面上已经有了类似的播放器，但是大多数都很差，播放歌曲也少得可怜，待机时间短。乔布斯任命[喬恩·魯賓斯坦](https://zh.wikipedia.org/wiki/喬恩·魯賓斯坦 "wikilink")（Jon
 Rubinstein）开发这个项目。鲁宾斯坦收购了[东芝最新的](../Page/东芝.md "wikilink")1.8英寸5GB的小硬盘的专利，并且确定了电池和屏幕等重要原件。再雇来了另外一位iPod之父[托尼·法戴爾](../Page/托尼·法戴爾.md "wikilink")（Tony
 Fadell）。此人在加入苹果之前已经做着一些[MP3播放器的工作](https://zh.wikipedia.org/wiki/MP3播放器 "wikilink")。
 
@@ -37,11 +37,11 @@ Audio](https://zh.wikipedia.org/wiki/WMA "wikilink")（WMA）或[RealAudio文件
 
 除了[iPod
 shuffle和第](https://zh.wikipedia.org/wiki/iPod_shuffle "wikilink")6、7代[iPod
-nano外](https://zh.wikipedia.org/wiki/iPod_nano "wikilink")，所有的iPod都帶有遊戲，或者可以通過[iTunes
+nano外](https://zh.wikipedia.org/wiki/iPod_nano "wikilink")，所有的iPod都帶有遊戲，或者可以透過[iTunes
 Store安裝遊戲](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")（iPod
 touch）。一代和二代有稱為「Brick」的遊戲，複製自蘋果電腦的共同創造者[斯蒂夫·沃茲尼亞克編寫的](https://zh.wikipedia.org/wiki/斯蒂夫·沃茲尼亞克 "wikilink")[Breakout遊戲](../Page/Breakout_\(遊戲\).md "wikilink")。三代之後至五代之前（含）的機型（Shuffle除外）除了「Brick」外還擁有有三個其他遊戲：
 
-  - Parachute：用戶控制一座炮塔擊落像素直升機和上面跳下來的傘兵。Parachute克隆自[馬克·艾倫為](https://zh.wikipedia.org/wiki/馬克·艾倫 "wikilink")[Apple
+  - Parachute：用戶控制一座炮塔擊落像素直升機和上面跳下來的傘兵。Parachute克隆自[馬克·艾倫為](../Page/馬克·艾倫.md "wikilink")[Apple
     II製作的](../Page/Apple_II.md "wikilink")「Sabotage」遊戲。
   - Solitaire：類似單人紙牌遊戲「Klondike」的簡單紙牌遊戲。
   - Music Quiz：從iPod mini和四代iPod開始增加為標準遊戲，並成為三代iPod的免費更新。「Music
@@ -58,7 +58,7 @@ Store上購買到以下遊戲：
   - Vortex：Brick的升級版，類似打磚塊的遊戲，但把原來的地面改成環繞狀以貼近iPod的操作。共有五大階段可供選擇，每階段皆有10個關卡，玩家還可以選擇打磚塊的板子位置是否要與手指間在旋轉盤的位置一致。
 
 第5代的iPod
-nano將iQuiz改為以通过倾斜播放器使鋼珠向低处滚动走[迷宮獲得寶物為目標的Maze](../Page/迷路園.md "wikilink")，因为该代nano拥有重力感应系统。此外Klondike和Vortex仍然保存。
+nano將iQuiz改為以透过倾斜播放器使鋼珠向低处滚动走[迷宮獲得寶物為目標的Maze](../Page/迷路園.md "wikilink")，因为该代nano拥有重力感应系统。此外Klondike和Vortex仍然保存。
 
 ### 硬件
 
@@ -296,7 +296,7 @@ shuffle，保留第三代的“电源——顺序播放——随机播放”設�
 
 在2005年9月7日，苹果电脑发布iPod mini的继任者，iPod
 nano。用[闪存代替](../Page/闪存.md "wikilink")[硬盘](../Page/硬盘.md "wikilink")，iPod
-nano是0.27英寸（0.685厘米）厚，1.5盎司（42克）重，体积比前辈小了62%。它使用32768色屏幕，能显示照片，并通过[USB](https://zh.wikipedia.org/wiki/通用串行总线 "wikilink")
+nano是0.27英寸（0.685厘米）厚，1.5盎司（42克）重，体积比前辈小了62%。它使用32768色屏幕，能显示照片，并透过[USB](https://zh.wikipedia.org/wiki/通用串行总线 "wikilink")
 2.0与电脑连接。耳机插口放在底部。它保留标准30针的底座连接口，以兼容第三方周边。这是首部不能使用[火线连线与任何PC](https://zh.wikipedia.org/wiki/iEEE_1394 "wikilink")（Windows或Mac）同步的iPod。
 
 iPod
@@ -408,6 +408,13 @@ touch，较前者缺少了后置摄像头，且内存容量减少为16GB。
 2015年7月15日，蘋果公司推出第六代iPod
 touch，顯示器仍是4英寸，但改用A8處理器，iSight相機升級成800萬像素，並增加128GB容量款式。
 
+#### 第七代
+
+2019年5月28日，苹果公司在官方网站推出第七代iPod touch。其处理器升级为[A10
+Fusion](https://zh.wikipedia.org/wiki/Apple_A10 "wikilink")，搭载[iOS
+12操作系统](https://zh.wikipedia.org/wiki/iOS_12 "wikilink")，提供32GB、128GB、256GB三种容量规格。但其螢幕、相机、设计、主螢幕按钮等方面皆与第六代iPod
+touch相同。
+
 ### (PRODUCT) <sup>RED</sup>
 
 部分國家有推出「[Product Red](../Page/Product_Red.md "wikilink")（紅色特別版）」。iPod
@@ -429,7 +436,7 @@ nano電池惹火，政府曾經多次要求蘋果就iPod爆炸解釋。\[15\]
 ## iTunes整合
 
 [iTunes是唯一官方的与iPod同步软件](https://zh.wikipedia.org/wiki/iTunes "wikilink")，虽然有其他非官方的軟體使iPod与其他播放器同步。其中最知名的要属[Winamp的插件](../Page/Winamp.md "wikilink")[ml
-iPod](https://zh.wikipedia.org/wiki/ml_iPod "wikilink")，让用户能通过Winamp管理iPod上的音乐，而且还支持一些iTunes不提供的功能，包括把非iTunes
+iPod](https://zh.wikipedia.org/wiki/ml_iPod "wikilink")，让用户能透过Winamp管理iPod上的音乐，而且还支持一些iTunes不提供的功能，包括把非iTunes
 Store购买音乐拷出iPod。
 
 ### iTunes音乐商店
@@ -442,14 +449,14 @@ Store）是为了推销iPod而建立的网络音乐销售商店，界面整合�
 
 斯蒂夫·乔布斯认为这种iTMS上的限制只是为了增加iPod的销量，他说：“我们希望（在iTunes音乐商店里）收支相抵或稍微亏一点，因为它始终不是赚钱的地方。”用户要繞开限制，可以先把受保护的文件刻录到非压缩的音乐[CD](../Page/CD.md "wikilink")，然后重新截取，并把音乐编码为不受保护的文件。这个过程很繁琐，而且每次转换会导致音频质量损失。（这可能会违反了[數位千禧年著作權法](https://zh.wikipedia.org/wiki/數位千禧年著作權法 "wikilink")）
 
-就其本身而言，苹果电脑小心地控制使用FairPlay编码的iTMS音乐文件的授权，而且iPod不支持其他DRM保护格式文件（如DRM保护版的[WMA](../Page/Windows_Media_Audio.md "wikilink")），所以iPod用户想在线购买受DRM保护的音乐必须通过iTunes，否则就只能从其他地方下载繞开DRM的文件（这可能构成犯法的行为）。从其他商店购买的受保护音乐不能在iPod上播放。
+就其本身而言，苹果电脑小心地控制使用FairPlay编码的iTMS音乐文件的授权，而且iPod不支持其他DRM保护格式文件（如DRM保护版的[WMA](../Page/Windows_Media_Audio.md "wikilink")），所以iPod用户想在线购买受DRM保护的音乐必须透过iTunes，否则就只能从其他地方下载繞开DRM的文件（这可能构成犯法的行为）。从其他商店购买的受保护音乐不能在iPod上播放。
 
 iTunes音乐商店最近售出了超过10亿首歌曲\[16\]。至2007年8月1日蘋果公司宣布透過iTunes音乐商店所銷售的歌曲突破30[億首](../Page/億.md "wikilink")\[17\]、\[18\]、\[19\]。
 
 2006年10月，在15岁时破解了[DVD光盘所使用的CSS防拷贝技术而获得](https://zh.wikipedia.org/wiki/DVD "wikilink")“[DVD
 Jon](https://zh.wikipedia.org/wiki/DVD_Jon "wikilink")”尊称的[挪威黑客](../Page/挪威.md "wikilink")[乔·雷赫·约翰森](https://zh.wikipedia.org/wiki/約恩·萊克·約翰森 "wikilink")（Jon
 Lech
-Johansen），又成功破解了苹果公司针对iTunes和iPod歌曲播放的限制措施，通过模拟iPod及其FairPlay加密技术的内部工作原理，来欺骗iPod认为它在播放从iTunes上购买的音乐。促使他破解iPod加密技术的动力是用户有权在他们拥有的任何设备上播放合法购买的音乐。他不喜欢封闭的系统，而iTunes-iPod组合排斥其他技术。\[20\]
+Johansen），又成功破解了苹果公司针对iTunes和iPod歌曲播放的限制措施，透过模拟iPod及其FairPlay加密技术的内部工作原理，来欺骗iPod认为它在播放从iTunes上购买的音乐。促使他破解iPod加密技术的动力是用户有权在他们拥有的任何设备上播放合法购买的音乐。他不喜欢封闭的系统，而iTunes-iPod组合排斥其他技术。\[20\]
 
 ### 其他选择
 
@@ -504,7 +511,7 @@ iPod创造了一个巨大和持续增长的零件市场辅助配件行业，在2
   - 由Altec Lansing制造的[inMotion
     Speakers可以作为iPod的充电站](https://zh.wikipedia.org/wiki/inMotion_Speakers "wikilink")，也能让iPod变为音响系统。设计师也制作了iMmini，以配合[iPod
     mini](https://zh.wikipedia.org/wiki/iPod_mini "wikilink")。
-  - [宝马发布了首个由汽车制造商制造的iPod汽车界面](https://zh.wikipedia.org/wiki/bMW "wikilink")。界面允许驾驶者在之后的BMW生产的汽车中通过内建于方向盘上和收音机上的按键控制他们的iPod。在汽车的储物柜中有保护iPod的安全带。
+  - [宝马发布了首个由汽车制造商制造的iPod汽车界面](https://zh.wikipedia.org/wiki/bMW "wikilink")。界面允许驾驶者在之后的BMW生产的汽车中透过内建于方向盘上和收音机上的按键控制他们的iPod。在汽车的储物柜中有保护iPod的安全带。
   - 在2005年1月的Macworld
     Expo裏，包括[奔驰和](https://zh.wikipedia.org/wiki/梅塞德斯-朋馳 "wikilink")[法拉利等更多的制造商宣布从](../Page/法拉利汽車.md "wikilink")2005年春季开始推出类似的系统。
   - 此外还有大量的第三方配件，而且差不多每天都有新产品出现。从录音到游戏，且还有其他基于iPod的连接设备和适配器。

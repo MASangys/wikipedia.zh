@@ -42,7 +42,8 @@ Enterprise的产品基础。该内核版本更新了所有的应用程序的版�
 Havana将近400个新的功能点等\[2\]。
 
 2011年4月Attachmate集團購併了[網威](../Page/Novell.md "wikilink")，連帶購併了SUSE，但該集團將SUSE分立成一個獨立的事業單位，之後2014年10月Micro
-Focus國際購併了Attachmate集團，連帶擁有網威與SUSE，但SUSE依然維持獨立事業單位。
+Focus國際購併了Attachmate集團，連帶擁有網威與SUSE，但SUSE依然維持獨立事業單位。 2018年7月2日，Micro
+Focus國際將 SUSE 出售給 EQT Partners。
 
 ## 功能
 

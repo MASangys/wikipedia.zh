@@ -105,7 +105,7 @@ DVD和装在U盘的Live USB。
     使用[KDE桌面的](../Page/KDE.md "wikilink")[Ubuntu](../Page/Ubuntu.md "wikilink")。
   - [Linux
     Mint](../Page/Linux_Mint.md "wikilink")，从[Ubuntu衍生并与Ubuntu兼容的系统](../Page/Ubuntu.md "wikilink")。
-  - [Knoppix](https://zh.wikipedia.org/wiki/Knoppix "wikilink")，第一个[Live
+  - [Knoppix](../Page/Knoppix.md "wikilink")，第一个[Live
     CD发行版](../Page/Live_CD.md "wikilink")，可以从[可移动介质运行](https://zh.wikipedia.org/wiki/可移动介质 "wikilink")，Debian的衍生版。
   - [OpenGEU](https://zh.wikipedia.org/wiki/OpenGEU "wikilink")，Ubuntu的衍生版。
   - [Elementary

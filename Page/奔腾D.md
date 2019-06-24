@@ -28,6 +28,7 @@ D處理器起初必須使用以i945/955/975或nVidia nForce
 
 ### Presler
 
+[缩略图](https://zh.wikipedia.org/wiki/File:Asus_P5PL2_-_Intel_Pentium_D_\(SL94R\)-93718.jpg "fig:缩略图")
 為英特爾推出的第二代雙核心處理器核心，由兩顆[Cedar
 Mill核心組成](https://zh.wikipedia.org/wiki/Cedar_Mill "wikilink")，使用65[奈米技術製成](https://zh.wikipedia.org/wiki/奈米 "wikilink")。Presler核心可於各支援Smithfield核心之主機板上使用，並與Smithfield核心一樣，使用200MHz（QDR，即800MHz）外頻。
 

@@ -241,7 +241,7 @@ QQ推出接近两年后（2001年2月10日），腾讯QQ最高同时在线用户
 <td><p><a href="https://zh.wikipedia.org/wiki/手机" title="wikilink">手机</a></p></td>
 <td><p><a href="../Page/Android.md" title="wikilink">Android</a></p></td>
 <td></td>
-<td><p>7.9.0</p></td>
+<td><p>8.0.5</p></td>
 <td></td>
 <td><p>简体中文</p></td>
 <td><p>手机QQ Android版第一版于2010年3月30日推出[38]。运行环境：Android 4.0.3 及以上。</p></td>
@@ -971,7 +971,7 @@ Preview\[67\]。QQ群与[QQ校友里的班级绑定后](https://zh.wikipedia.org
 <td><p>2007年4月5日[83]</p></td>
 <td><p>2005年6月13日</p></td>
 <td><p>2010年11月16日</p></td>
-<td><p>成长加成、免费吃洗看病复活、每天/周/月礼包、离线挂机、购物打折、粉钻标志、贴心宝贝。2018年09月30日，由于QQ宠物下线，故腾讯暂停了此服务的开通</p></td>
+<td><p>成长加成、免费吃洗看病复活、每天/周/月礼包、离线挂机、购物打折、粉钻标志、贴心宝贝。2018年9月30日，由于QQ宠物下线，故腾讯暂停了此服务的开通</p></td>
 </tr>
 <tr class="odd">
 <td><p>寻仙VIP</p></td>

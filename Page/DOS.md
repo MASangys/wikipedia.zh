@@ -69,7 +69,7 @@ Program / (for) Microcomputers）啟發而完成的。CP/M是當時使用[Intel
 在1980年的時候，IBM使用[Intel
 8088微處理器](../Page/Intel_8088.md "wikilink")，開發出了他們的第一台[微電腦](https://zh.wikipedia.org/wiki/微電腦 "wikilink")。他們需要一套能夠在這台微電腦上使用的作業系統。IBM在找一套能和Intel
 8088
-(1979-1982)相容的CPU，一開始找上了[微軟](https://zh.wikipedia.org/wiki/微軟 "wikilink")（Microsoft）的執行長[比爾·蓋茨](https://zh.wikipedia.org/wiki/比爾·蓋茨 "wikilink")（可能是因為當時微軟開發出了讓CP/M可以在[Apple
+(1979-1982)相容的CP/M，一開始找上了[微軟](https://zh.wikipedia.org/wiki/微軟 "wikilink")（Microsoft）的執行長[比爾·蓋茨](https://zh.wikipedia.org/wiki/比爾·蓋茨 "wikilink")（可能是因為當時微軟開發出了讓CP/M可以在[Apple
 II上執行的](../Page/Apple_II.md "wikilink")[Z-80
 SoftCard](https://zh.wikipedia.org/wiki/Z-80_SoftCard "wikilink")，所以IBM相信微軟擁有CP/M\[10\]）。IBM被轉介到Digital
 Research，並且舉行了相關的會議。然而，關於CP/M的使用權的初次談判破裂了—因為Digital

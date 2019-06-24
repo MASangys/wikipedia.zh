@@ -2,7 +2,7 @@
 X、Mac OS
 X）的[網頁瀏覽器](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")。Safari在2003年1月7日首度發行測試版\[1\]，並從[Mac
 OS X Panther開始成為Mac](../Page/Mac_OS_X_Panther.md "wikilink") OS
-X的預設瀏覽器，也是[iOS內建的預設瀏覽器](https://zh.wikipedia.org/wiki/iOS "wikilink")。[Windows版本的首個測試版在](https://zh.wikipedia.org/wiki/Windows "wikilink")2007年6月11日推出，支援[Windows
+X的預設瀏覽器，也是[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[IpadOS內建的預設瀏覽器](https://zh.wikipedia.org/wiki/IPadOS "wikilink")。[Windows版本的首個測試版在](https://zh.wikipedia.org/wiki/Windows "wikilink")2007年6月11日推出，支援[Windows
 XP](../Page/Windows_XP.md "wikilink")、[Windows
 Vista和](../Page/Windows_Vista.md "wikilink")[Windows
 7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")\[2\]，並在2008年3月18日推出正式版，但蘋果已於2012年7月25日停止開發Windows版的Safari\[3\]。

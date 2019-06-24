@@ -131,7 +131,7 @@ OF ZIPANGU](../Page/信長KING_OF_ZIPANGU.md "wikilink")》
 (Akō Rōshi)</p></td>
 <td><p>1964年1月5日<br />
 1964年12月27日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/大佛次郎" title="wikilink">大佛次郎</a></p></td>
+<td><p><a href="../Page/大佛次郎.md" title="wikilink">大佛次郎</a></p></td>
 <td></td>
 <td><p><a href="../Page/芥川也寸志.md" title="wikilink">芥川也寸志</a></p></td>
 <td><p><a href="../Page/長谷川一夫.md" title="wikilink">長谷川一夫</a></p></td>
@@ -174,7 +174,7 @@ OF ZIPANGU](../Page/信長KING_OF_ZIPANGU.md "wikilink")》
 (San Shimai)</p></td>
 <td><p>1967年1月1日<br />
 1967年12月24日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/大佛次郎" title="wikilink">大佛次郎</a></p></td>
+<td><p><a href="../Page/大佛次郎.md" title="wikilink">大佛次郎</a></p></td>
 <td></td>
 <td></td>
 <td><p><br />
@@ -629,7 +629,7 @@ OF ZIPANGU](../Page/信長KING_OF_ZIPANGU.md "wikilink")》
 <a href="../Page/原田知世.md" title="wikilink">原田知世</a><br />
 <a href="../Page/小林旭.md" title="wikilink">小林旭</a><br />
 <a href="../Page/江守徹.md" title="wikilink">江守徹</a><br />
-<a href="https://zh.wikipedia.org/wiki/萩原健一" title="wikilink">萩原健一</a></p></td>
+<a href="../Page/萩原健一.md" title="wikilink">萩原健一</a></p></td>
 <td><p>＊「浪漫大河劇」之第一部。<br />
 ＊講述<a href="https://zh.wikipedia.org/wiki/江戶時代" title="wikilink">江戶時代的</a><a href="../Page/第二尚氏.md" title="wikilink">琉球王朝</a>。</p></td>
 </tr>
@@ -848,7 +848,7 @@ OF ZIPANGU](../Page/信長KING_OF_ZIPANGU.md "wikilink")》
 2004年12月12日</p></td>
 <td><p><a href="../Page/三谷幸喜.md" title="wikilink">三谷幸喜</a></p></td>
 <td><p>三谷幸喜</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/服部隆之" title="wikilink">服部隆之</a></p></td>
+<td><p><a href="../Page/服部隆之.md" title="wikilink">服部隆之</a></p></td>
 <td><p><a href="../Page/香取慎吾.md" title="wikilink">香取慎吾</a><br />
 <a href="../Page/山本耕史.md" title="wikilink">山本耕史</a><br />
 <a href="../Page/藤原龍也.md" title="wikilink">藤原龍也</a><br />
@@ -1112,7 +1112,7 @@ OF ZIPANGU](../Page/信長KING_OF_ZIPANGU.md "wikilink")》
 2016年12月18日</p></td>
 <td><p><a href="../Page/三谷幸喜.md" title="wikilink">三谷幸喜</a></p></td>
 <td><p>三谷幸喜</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/服部隆之" title="wikilink">服部隆之</a></p></td>
+<td><p><a href="../Page/服部隆之.md" title="wikilink">服部隆之</a></p></td>
 <td><p><a href="../Page/堺雅人.md" title="wikilink">堺雅人</a><br />
 <a href="../Page/大泉洋.md" title="wikilink">大泉洋</a><br />
 <a href="https://zh.wikipedia.org/wiki/長澤雅美" title="wikilink">長澤雅美</a><br />

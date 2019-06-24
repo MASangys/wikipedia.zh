@@ -1,6 +1,6 @@
 [ABBA_Member.jpg](https://zh.wikipedia.org/wiki/File:ABBA_Member.jpg "fig:ABBA_Member.jpg")
 
-**ABBA**（乐队标志：**ᗅᗺᗷᗅ**，中文：**阿巴**）是[瑞典著名](../Page/瑞典.md "wikilink")[流行樂團](https://zh.wikipedia.org/wiki/流行樂團 "wikilink")。字母缩写（ABBA）源自于乐队成员姓名的[首字母](https://zh.wikipedia.org/wiki/首字母 "wikilink")（字母的排列顺序并无规定）。少数时候被记为**Abba**。在1976以前的乐队的宣传材料中，乐队[标志中的第一个](../Page/标志.md "wikilink")“B”字母就已经被反转过来了。乐队在1970前後重組，乐队成员是[比約恩·奧瓦爾斯](../Page/比約恩·奧瓦爾斯.md "wikilink")、、[昂內塔·費爾特斯科格和](../Page/昂內塔·費爾特斯科格.md "wikilink")[安妮-弗瑞德·林斯塔德](../Page/安妮-弗瑞德·林斯塔德.md "wikilink")（绰号"Frida"）。他们凭借歌曲《[滑铁卢](https://zh.wikipedia.org/wiki/滑铁卢_\(歌曲\) "wikilink")》在[1974年歐洲歌唱大賽中获胜](../Page/1974年歐洲歌唱大賽.md "wikilink")，他们从此广泛地为人所知。ABBA於1982年解散。經典名曲包括《》（）和《》（）。
+**ABBA**（乐队标志：**ᗅᗺᗷᗅ**，中文：**阿巴**）是[瑞典著名](../Page/瑞典.md "wikilink")[流行樂團](https://zh.wikipedia.org/wiki/流行樂團 "wikilink")。字母缩写（ABBA）源自于乐队成员姓名的[首字母](https://zh.wikipedia.org/wiki/首字母 "wikilink")（字母的排列顺序并无规定）。少数时候被记为**Abba**。在1976以前的乐队的宣传材料中，乐队[标志中的第一个](../Page/标志.md "wikilink")“B”字母就已经被反转过来了。乐队在1970前後重組，乐队成员是[比約恩·奧瓦爾斯](../Page/比約恩·奧瓦爾斯.md "wikilink")、、[昂內塔·費爾特斯科格和](../Page/昂內塔·費爾特斯科格.md "wikilink")[安妮-弗瑞德·林斯塔德](../Page/安妮-弗瑞德·林斯塔德.md "wikilink")（绰号"Frida"）。他们凭借歌曲《[滑铁卢](https://zh.wikipedia.org/wiki/滑铁卢_\(歌曲\) "wikilink")》在[1974年歐洲歌唱大賽中获胜](../Page/1974年歐洲歌唱大賽.md "wikilink")，他们从此广泛地为人所知。ABBA於1982年解散。經典名曲包括《》（）和《[舞后](https://zh.wikipedia.org/wiki/舞后_\(歌曲\) "wikilink")》（）。
 
 ## 前缘
 

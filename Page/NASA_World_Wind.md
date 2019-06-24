@@ -59,3 +59,4 @@ marble数据现在包含的初始安装内](../Page/藍色彈珠.md "wikilink")�
 
 [Category:虛擬地球](https://zh.wikipedia.org/wiki/Category:虛擬地球 "wikilink")
 [Category:开放源代码](https://zh.wikipedia.org/wiki/Category:开放源代码 "wikilink")
+[Category:地球科學圖形軟體](https://zh.wikipedia.org/wiki/Category:地球科學圖形軟體 "wikilink")

@@ -1,12 +1,5 @@
-[MaplesoftCorporateHeadquarters.jpg](https://zh.wikipedia.org/wiki/File:MaplesoftCorporateHeadquarters.jpg "fig:MaplesoftCorporateHeadquarters.jpg")
-**Maple**是一个通用型的商用计算机代数系統。**Maple**起源于1988年，由[加拿大](../Page/加拿大.md "wikilink")[安大略](https://zh.wikipedia.org/wiki/安大略 "wikilink")[滑铁卢的一家公司](https://zh.wikipedia.org/wiki/滑铁卢 "wikilink")，Waterloo
-Maple
-Inc.（亦称[Maplesoft枫软](https://zh.wikipedia.org/wiki/Maplesoft "wikilink")）进行开发和商业销售。最新版是Maple
-2018。它的主要竞争者是[Mathematica](https://zh.wikipedia.org/wiki/Mathematica "wikilink")。
-
-目前共有五個版本：Personal（個人版），Professional（專業版），Academic（學術版），Government（政府版）和Student（學生版）。
-
-2009年，枫软被日本软件商Cybernet Systems收购。
+\[\[[File:MaplesoftCorporateHeadquarters.jpg|thumb|300px|加拿大](File:MaplesoftCorporateHeadquarters.jpg%7Cthumb%7C300px%7C加拿大)
+MAPLE是一個通用计算机
 
 ## 總覽
 

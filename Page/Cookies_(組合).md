@@ -1,13 +1,17 @@
-**Cookies**是[香港的一隊](../Page/香港.md "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，由[鄧麗欣](../Page/鄧麗欣.md "wikilink")、[傅穎](https://zh.wikipedia.org/wiki/傅穎 "wikilink")、[楊愛瑾和](../Page/楊愛瑾.md "wikilink")[吳雨霏](../Page/吳雨霏.md "wikilink")4名成員組成，其[經理人為](https://zh.wikipedia.org/wiki/經理人 "wikilink")[黃柏高](https://zh.wikipedia.org/wiki/黃柏高 "wikilink")，由[金牌娛樂事業有限公司出版](https://zh.wikipedia.org/wiki/金牌娛樂事業有限公司 "wikilink")[唱片](https://zh.wikipedia.org/wiki/唱片 "wikilink")。Cookies於2002年成立，最初由9人組成，期間被譽為香港的[早安少女組](https://zh.wikipedia.org/wiki/早安少女組 "wikilink")。2003年將規模縮小至四人組合，坊間稱為**Mini
-Cookies**，重組後的四人備受各界好評。而被淘汰的5名成員則被[香港傳媒戲稱為](../Page/香港傳媒.md "wikilink")「餅碎」。
+**Cookies**是[香港的一隊](../Page/香港.md "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，由[鄧麗欣](../Page/鄧麗欣.md "wikilink")、[傅穎](https://zh.wikipedia.org/wiki/傅穎 "wikilink")、[楊愛瑾和](../Page/楊愛瑾.md "wikilink")[吳雨霏](../Page/吳雨霏.md "wikilink")4名成員組成，其[經理人為](https://zh.wikipedia.org/wiki/經理人 "wikilink")[黃柏高](https://zh.wikipedia.org/wiki/黃柏高 "wikilink")，由[金牌娛樂事業有限公司出版](https://zh.wikipedia.org/wiki/金牌娛樂事業有限公司 "wikilink")[唱片](https://zh.wikipedia.org/wiki/唱片 "wikilink")。Cookies於2002年成立，最初由9人組成，期間曾被譽為港版[Morning娘](https://zh.wikipedia.org/wiki/Morning娘 "wikilink")。\[1\]2003年將規模縮小至四人組合，坊間稱為**Mini
+Cookies**或**四餅**\[2\]，重組後的四人備受各界好評。而被淘汰的5名成員則被[香港傳媒戲稱為](../Page/香港傳媒.md "wikilink")「餅碎」。
 
-2005年3月，Cookies成員宣佈各自發展，但強調絕不會拆夥。個人發展後的四位成員均發展不俗，[鄧麗欣](../Page/鄧麗欣.md "wikilink")、[吳雨霏及](../Page/吳雨霏.md "wikilink")[傅穎繼續往音樂方向發展](https://zh.wikipedia.org/wiki/傅穎 "wikilink")，而[楊愛瑾則轉型為電影演員](../Page/楊愛瑾.md "wikilink")。個人發展後的她們已經較少合作，但是同屬一間公司的她們還是會偶爾合體演出。2009年，成員[楊愛瑾與](../Page/楊愛瑾.md "wikilink")[傅穎先後轉投其他經理人公司](https://zh.wikipedia.org/wiki/傅穎 "wikilink")，隨著成員的離開，傳媒都指出Cookies已經名存實亡。2011年[吳雨霏及](../Page/吳雨霏.md "wikilink")[鄧麗欣亦轉投其他經理人公司](../Page/鄧麗欣.md "wikilink")，現時Cookies已經沒有任何成員仍然屬於[金牌大風](../Page/金牌大風.md "wikilink")，並且四位成員都屬於不同的經理人公司。
+2005年3月，Cookies成員宣佈各自發展，但強調絕不會拆夥。\[3\]個人發展後的四位成員均發展不俗，[鄧麗欣](../Page/鄧麗欣.md "wikilink")、[吳雨霏及](../Page/吳雨霏.md "wikilink")[傅穎繼續往音樂方向發展](https://zh.wikipedia.org/wiki/傅穎 "wikilink")，而[楊愛瑾則轉型為電影演員](../Page/楊愛瑾.md "wikilink")。個人發展後的她們已經較少合作，但是同屬一間公司的她們還是會偶爾合體演出。
 
-2010年8月11日，4名前成員[陳素瑩](https://zh.wikipedia.org/wiki/陳素瑩 "wikilink")、[何綺玲](https://zh.wikipedia.org/wiki/何綺玲 "wikilink")、[區文詩和](../Page/區文詩.md "wikilink")[馬思恆於](https://zh.wikipedia.org/wiki/馬思恆 "wikilink")[九龍灣展貿中心舉行](https://zh.wikipedia.org/wiki/九龍灣展貿中心 "wikilink")[演唱會](https://zh.wikipedia.org/wiki/演唱會 "wikilink")，四餅中的[楊愛瑾和](../Page/楊愛瑾.md "wikilink")[吳雨霏與已經退出](../Page/吳雨霏.md "wikilink")[娛樂圈的餅碎](https://zh.wikipedia.org/wiki/娛樂圈 "wikilink")[蒲茜兒均有到場支持](https://zh.wikipedia.org/wiki/蒲茜兒 "wikilink")，[傅穎及](https://zh.wikipedia.org/wiki/傅穎 "wikilink")[鄧麗欣亦均有為到前隊友打氣](../Page/鄧麗欣.md "wikilink")；前者則送上了花牌，後者則在[微博為她們打氣](../Page/微博.md "wikilink")。
+2009年，[楊愛瑾與](../Page/楊愛瑾.md "wikilink")[傅穎先後轉投其他經理人公司](https://zh.wikipedia.org/wiki/傅穎 "wikilink")\[4\]，隨著成員的離開，傳媒都指出Cookies已經名存實亡。
 
-2012年8月3日，[楊愛瑾](../Page/楊愛瑾.md "wikilink")、[吳雨霏](../Page/吳雨霏.md "wikilink")、[鄧麗欣以及](../Page/鄧麗欣.md "wikilink")4名前成員[何綺玲](https://zh.wikipedia.org/wiki/何綺玲 "wikilink")、[陳素瑩](https://zh.wikipedia.org/wiki/陳素瑩 "wikilink")、[馬思恆及](https://zh.wikipedia.org/wiki/馬思恆 "wikilink")[區文詩為同期出道的組合](../Page/區文詩.md "wikilink")[Shine於](../Page/Shine.md "wikilink")[九龍灣展貿中心舉行的SHINE](https://zh.wikipedia.org/wiki/九龍灣展貿中心 "wikilink")
+2010年8月11日，4名舊成員於[九龍灣展貿中心舉行](https://zh.wikipedia.org/wiki/九龍灣展貿中心 "wikilink")[演唱會](https://zh.wikipedia.org/wiki/演唱會 "wikilink")，[楊愛瑾及](../Page/楊愛瑾.md "wikilink")[吳雨霏結伴到場支持](../Page/吳雨霏.md "wikilink")，[傅穎及](https://zh.wikipedia.org/wiki/傅穎 "wikilink")[鄧麗欣亦有為前隊友打氣](../Page/鄧麗欣.md "wikilink")；前者則送上了花牌，後者則在[微博為她們打氣](../Page/微博.md "wikilink")。\[5\]
+
+2011年，隨著[楊愛瑾與](../Page/楊愛瑾.md "wikilink")[傅穎已離開金牌大風兩年](https://zh.wikipedia.org/wiki/傅穎 "wikilink")，[吳雨霏及](../Page/吳雨霏.md "wikilink")[鄧麗欣先後離開金牌大風](../Page/鄧麗欣.md "wikilink")，轉投其他經理人公司\[6\]\[7\]，Cookies已經沒有任何成員仍然屬於[金牌大風](../Page/金牌大風.md "wikilink")，並且四位成員都屬於不同的經理人公司。
+
+2012年8月3日，[楊愛瑾](../Page/楊愛瑾.md "wikilink")、[吳雨霏](../Page/吳雨霏.md "wikilink")、[鄧麗欣連同](../Page/鄧麗欣.md "wikilink")4名舊成員為同期出道的組合[Shine於](../Page/Shine.md "wikilink")[九龍灣展貿中心舉行的SHINE](https://zh.wikipedia.org/wiki/九龍灣展貿中心 "wikilink")
 AGAIN
-2012演唱會擔任嘉賓，唱出心急人上。[鄧麗欣表示](../Page/鄧麗欣.md "wikilink")[傅穎正在台灣參與電視劇集演出而無法出席](https://zh.wikipedia.org/wiki/傅穎 "wikilink")，已經退出[娛樂圈的](https://zh.wikipedia.org/wiki/娛樂圈 "wikilink")[蒲茜兒因為身在加拿大安胎而未能夠出席](https://zh.wikipedia.org/wiki/蒲茜兒 "wikilink")。
+2012演唱會擔任嘉賓，演唱《心急人上》。[鄧麗欣表示](../Page/鄧麗欣.md "wikilink")[傅穎正在台灣參與電視劇集演出而無法出席](https://zh.wikipedia.org/wiki/傅穎 "wikilink")。\[8\]
 
 ## 發展歷程
 
@@ -43,28 +47,33 @@ AGAIN
 
 <!-- end list -->
 
-  - [鄧麗欣](../Page/鄧麗欣.md "wikilink")（Stephy），出道前是兼職模特兒，後被模特兒公司[Talent
-    Bang推薦加入](https://zh.wikipedia.org/wiki/Talent_Bang "wikilink")[EMI而被選入Cookies](../Page/EMI.md "wikilink")，亦是九人時期的隊長。同時，Stephy也是第一個作獨立發展推出個人專輯的成員。獨立發展初期是以唱歌爲主，推出多張個人專輯。2007年年尾舉行首次個人演唱會，是Cookies成員中第一位舉辦個人演唱會的一人。唱歌的同時亦參與多部電影的拍攝。2011年約滿[金牌大風](../Page/金牌大風.md "wikilink")，並簽約[北京](https://zh.wikipedia.org/wiki/北京 "wikilink")[海潤影視作爲經理人公司](https://zh.wikipedia.org/wiki/海潤影視 "wikilink")，正式開始進軍內地發展，主要拍攝內地電視劇以及電影，暫別樂壇，並於2012年推出兩首國語單曲。2013年回歸香港樂壇，推出粵語新歌。與男友[方力申自](../Page/方力申.md "wikilink")[獨家試愛起相戀](../Page/獨家試愛.md "wikilink")10年，但已分手。
+  - [鄧麗欣](../Page/鄧麗欣.md "wikilink")（Stephy
+    Tang，1983年10月15日出生），出道前是兼職模特兒，與隊友傅穎同屬模特兒公司[Talent
+    Bang](https://zh.wikipedia.org/wiki/Talent_Bang "wikilink")，並一同被推薦加入[EMI](../Page/EMI.md "wikilink")，通過訓練後而入選Cookies，亦是九人時期的隊長。2005年推出首張個人專輯，是Cookies中第一個推出個人專輯的成員。2007年年尾舉行首次個人演唱會，亦是Cookies成員中舉辦個人演唱會的第一人。2011年約滿[金牌大風](../Page/金牌大風.md "wikilink")，並簽約[北京](https://zh.wikipedia.org/wiki/北京 "wikilink")[海潤影視作爲經理人公司](https://zh.wikipedia.org/wiki/海潤影視 "wikilink")，正式開始進軍內地發展，主要拍攝內地電視劇以及電影，暫別樂壇，並於2012年推出兩首國語單曲。2014年回歸香港發展，簽約[太陽娛樂文化](../Page/太陽娛樂文化.md "wikilink")，主要拍攝電影。2016年與相戀10年的[方力申宣佈和平分手](../Page/方力申.md "wikilink")。2017年簽約香港凱藝國際。2018年，憑着電影《[空手道](../Page/空手道_\(電影\).md "wikilink")》，奪得[香港電影評論學會大獎最佳女演員一獎](../Page/香港電影評論學會大獎.md "wikilink")，演技備受肯定。
 
 <!-- end list -->
 
-  - [吳雨霏](../Page/吳雨霏.md "wikilink")（Kary），出道前因參加《903 Clean and
+  - [傅穎](https://zh.wikipedia.org/wiki/傅穎 "wikilink")（Theresa
+    Fu，1984年9月22日出生），出道前是兼職模特兒，與隊友鄧麗欣同屬模特兒公司[Talent
+    Bang](https://zh.wikipedia.org/wiki/Talent_Bang "wikilink")，並一同被推薦加入[EMI](../Page/EMI.md "wikilink")，通過訓練後而入選Cookies。獨立發展初期以拍廣告及電影爲主，2007年再戰樂壇，發佈張個人專輯，是Cookies中第三位推出個人專輯的成員。2009年與金牌大風解約，2010年簽約香港[星皓娛樂爲經理人公司](https://zh.wikipedia.org/wiki/星皓娛樂 "wikilink")，並同年推出新專輯。2011年8月自爆曾與同公司男藝人[羅仲謙相戀](../Page/羅仲謙.md "wikilink")，並曾被對方虐打，事後傅穎被星皓娛樂老闆[王海峰下令雪藏](https://zh.wikipedia.org/wiki/王海峰 "wikilink")。事件淡化後，傅穎正式進軍內地發展，拍攝電影及電視劇為主，暫別樂壇。除熒幕上的作品外，自2006年起，每年[香港書展她都會推出新書](../Page/香港書展.md "wikilink")，現已推出八本個人著作。2016年6月回歸樂壇推出廣東單曲《最好是你》，首次參與填詞。隔月再推出國語單曲《最近好嗎》。
+
+<!-- end list -->
+
+  - [楊愛瑾](../Page/楊愛瑾.md "wikilink")（Miki
+    Yeung，1985年2月21日出生），出道前是兼職模特兒，後被模特兒公司[Starz
+    People推薦加入EMI而被選入Cookies](https://zh.wikipedia.org/wiki/Starz_People "wikilink")。獨立發展之後，全面轉型爲電影演員，參與多部電影的拍攝。2005年憑藉電影《[B420](https://zh.wikipedia.org/wiki/B420 "wikilink")》在日本獲得第19屆福岡亞洲電影節大賞。2009年約滿金牌大風，同年重新簽約模特兒公司[Starz
+    People](https://zh.wikipedia.org/wiki/Starz_People "wikilink")，以模特兒工作及商業演出爲主，電影作品大幅減少。2012年簽約[TVB部頭合約](https://zh.wikipedia.org/wiki/TVB "wikilink")，拍攝電視劇及擔任節目主持。2012年年尾簽約電影公司[悅目映畫](https://zh.wikipedia.org/wiki/悅目映畫 "wikilink")。2013年推出文字相集《Mikitopia》及廣東單曲《綿羊》，該歌曲是她獨立發展以來第一首個人單曲。於2016年與郭永淳結婚，2017年3月30日誕下兒子Luken。2019年3月18日誕下女兒Emma。
+
+<!-- end list -->
+
+  - [吳雨霏](../Page/吳雨霏.md "wikilink")（Kary Ng，1986年6月9日出生），出道前因參加《903
+    Clean and
     Clear手牽手大行動》被EMI發掘而被選加入Cookies，是Cookies中第二位推出個人專輯的成員。2004年，她曾擔任搖滾樂隊[Ping
-    Pung的主唱](../Page/Ping_Pung.md "wikilink")，是Cookies成員中唯一同屬兩團的成員，但一切工作以Cookies爲先。樂隊推出一張專輯後便解散，隨後Cookies眾人也開始獨立發展。獨立發展後，她一直以唱歌事業爲主，期間推出多張個人專輯。2011年約滿金牌大風，同年簽約[環球唱片旗下的](https://zh.wikipedia.org/wiki/環球唱片 "wikilink")[新藝寶唱片](https://zh.wikipedia.org/wiki/新藝寶 "wikilink")，並迅速推出多張專輯及單曲，成爲新藝寶力捧歌手。Kary曾舉行多次個人演唱會，是Cookies中舉辦過最多演唱會的成員，亦是Cookies之中第一位及唯一一位在[紅磡香港體育館舉辦過個人演唱會的成員](https://zh.wikipedia.org/wiki/紅磡香港體育館 "wikilink")。於2015年承認與[洪立熙已婚](../Page/洪立熙.md "wikilink")。
-
-<!-- end list -->
-
-  - [傅穎](https://zh.wikipedia.org/wiki/傅穎 "wikilink")（Theresa），出道前是兼職模特兒，與鄧麗欣同樣被選入Cookies，是Cookies中第三位推出個人專輯的成員。獨立發展初期以拍廣告及電影爲主，2007年再戰樂壇，先後發佈4張個人專輯。2009年與金牌大風解約，2010年簽約香港[星皓娛樂爲經理人公司](https://zh.wikipedia.org/wiki/星皓娛樂 "wikilink")，並同年推出新專輯。2011年起正式進軍內地發展，拍攝電影及電視劇為主，暫別樂壇。除熒幕上的作品外，自2006年起，每年[香港書展她都會推出新書](../Page/香港書展.md "wikilink")，現已推出八本個人著作。2016年6月回歸樂壇推出新歌《最好是你》，首次參與填詞。隔月再推出國語單曲《最近好嗎》。
-
-<!-- end list -->
-
-  - [楊愛瑾](../Page/楊愛瑾.md "wikilink")（Miki），出道前是兼職模特兒，後被模特兒公司[Starz
-    People推薦加入EMI而被選入Cookies](https://zh.wikipedia.org/wiki/Starz_People "wikilink")。獨立發展之後，全面轉型爲電影演員，參與多部電影的拍攝。2009年約滿金牌大風，同年重新簽約模特兒公司[Starz
-    People](https://zh.wikipedia.org/wiki/Starz_People "wikilink")，以模特兒工作及商業演出爲主，電影作品大幅減少。2012年簽約[TVB部頭合約](https://zh.wikipedia.org/wiki/TVB "wikilink")，拍攝電視劇及擔任節目主持。2012年年尾簽約電影公司[悅目映畫](https://zh.wikipedia.org/wiki/悅目映畫 "wikilink")，再次在影壇上發展。2013年推出新書《Mikitopia》，以及個人發展以來的第一首單曲《綿羊》。2016年與男友郭永淳結婚，2017年誕下兒子Luken。
+    Pung的主唱](../Page/Ping_Pung.md "wikilink")，是Cookies成員中唯一同屬兩團的成員，但一切工作以Cookies爲先。樂隊推出一張專輯後便解散，隨後Cookies眾人也開始獨立發展。獨立發展後，她一直以唱歌事業爲主，期間推出多張個人專輯。2011年約滿金牌大風，同年簽約[環球唱片旗下的](https://zh.wikipedia.org/wiki/環球唱片 "wikilink")[新藝寶唱片](https://zh.wikipedia.org/wiki/新藝寶 "wikilink")，並迅速推出多張專輯及單曲，成爲新藝寶力捧歌手。Kary曾舉行多次個人演唱會，是Cookies中舉辦過最多演唱會的成員，亦是Cookies之中第一位及唯一一位在[紅磡香港體育館舉辦過個人演唱會的成員](https://zh.wikipedia.org/wiki/紅磡香港體育館 "wikilink")。於2015年與[洪立熙結婚](../Page/洪立熙.md "wikilink")，2018年6月19日誕下兒子Asher。
 
 ## 舊成員
 
-  - [區文詩](../Page/區文詩.md "wikilink")（*Angela*）（已於2003年4月退出，2003年起加入了[香港電台第二台成為電台DJ](../Page/香港電台.md "wikilink")。2010年簽約唱片公司[MusicNEXT成為旗下歌手](https://zh.wikipedia.org/wiki/MusicNEXT "wikilink")，先後發表兩張個人專輯《Angelicious》、同名專輯《Angela區文詩》，以及單曲《盲婚論嫁》，成為Cookies第4位發表個人專輯的成員。2013年與唱片公司解約，2015年簽約經紀公司[天立娛樂](https://zh.wikipedia.org/wiki/天立娛樂 "wikilink")。）
+  - [區文詩](../Page/區文詩.md "wikilink")（*Angela*）（已於2003年4月退出，2003年起加入了[香港電台第二台成為電台DJ](../Page/香港電台.md "wikilink")。2010年簽約唱片公司[MusicNEXT](https://zh.wikipedia.org/wiki/MusicNEXT "wikilink")，2015年簽約經紀公司[天立娛樂](https://zh.wikipedia.org/wiki/天立娛樂 "wikilink")）
   - [何綺玲](https://zh.wikipedia.org/wiki/何綺玲 "wikilink")（*Elaine*）（已於2003年4月退出，出生於[澳門](../Page/澳門.md "wikilink")，亦是唯一來自[澳門的成員](../Page/澳門.md "wikilink")。2014年3月19日於澳門舉行婚禮，於2015年初誕下女兒）
   - [陳素瑩](https://zh.wikipedia.org/wiki/陳素瑩 "wikilink")（*Gloria*）（已於2003年4月退出，在[英國修畢](https://zh.wikipedia.org/wiki/英國 "wikilink")[金融和](../Page/金融.md "wikilink")[會計](https://zh.wikipedia.org/wiki/會計 "wikilink")[課程及於](https://zh.wikipedia.org/wiki/課程 "wikilink")[曼徹斯特商學院](../Page/曼徹斯特商學院.md "wikilink")(Manchester
     Business School)
@@ -113,7 +122,9 @@ AGAIN
 
 ### 動畫歌曲
 
-  - 2003年：信心爆棚（動畫《[音樂小彗星](https://zh.wikipedia.org/wiki/音樂小彗星 "wikilink")》粵語片頭曲，內地電台南方生活廣播「流行南方粵語兒歌大匯」冠軍歌曲）
+  - 2003年：信心爆棚（動畫《[音樂小彗星](https://zh.wikipedia.org/wiki/音樂小彗星 "wikilink")》粵語片頭曲（內地電台南方生活廣播「流行南方粵語兒歌大匯」冠軍歌曲）
+  - 2004年：Wonderful
+    Life（動畫《[大頭狗仔隊](https://zh.wikipedia.org/wiki/大頭狗仔隊 "wikilink")》粵語片頭曲）
 
 ## 派台歌曲成績
 
@@ -301,3 +312,19 @@ AGAIN
 [Category:粵語流行音樂團體](https://zh.wikipedia.org/wiki/Category:粵語流行音樂團體 "wikilink")
 [Category:2002年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2002年成立的音樂團體 "wikilink")
 [Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink")
+
+1.  [誓創港版Morning娘神話
+    Cookies日練舞技七小時](https://hk.entertainment.appledaily.com/entertainment/daily/article/20020712/2709630)
+2.  [五棄將自我增值靜待時機
+    縮水Cookies精選四餅再戰](https://hk.entertainment.appledaily.com/entertainment/daily/article/20030428/3258428)
+3.  [換血重組歌影任發揮
+    Cookies四女各奔東西](https://hk.entertainment.appledaily.com/entertainment/daily/article/20050328/4767640)
+4.  [楊愛瑾重回舊東家
+    跑步備戰求翻身](http://ent.sina.com.cn/y/2009-10-05/09062721064.shtml)
+5.  [鄧麗欣、傅穎冇眼睇
+    餅碎開騷咪嘴口都唔郁](https://hk.entertainment.appledaily.com/entertainment/daily/article/20100813/14339726)
+6.  [吳雨霏過檔新藝寶
+    買樓贈興](https://orientaldaily.on.cc/cnt/entertainment/20110906/00282_014.html)
+7.  [小方Stephy
+    北上發展賺千萬](https://orientaldaily.on.cc/cnt/entertainment/20120103/00282_003.html)
+8.  [Cookies再現 缺傅穎Serena](http://www.mediachinese.com/node/61349)

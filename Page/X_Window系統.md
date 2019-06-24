@@ -7,10 +7,8 @@ Window系统為基礎建構成的。
 Release
 7.7（簡稱：X11R7.7），而此專案由[X.Org基金会所領導](../Page/X.Org基金会.md "wikilink")，且是以[MIT授權和相似的授權許可的](../Page/MIT許可證.md "wikilink")[自由軟體](../Page/自由软件.md "wikilink")。\[1\]
 
-[KDE_4.png](https://zh.wikipedia.org/wiki/File:KDE_4.png "fig:KDE_4.png")
-4\]\]
-[Gnome-screenshot-full.jpg](https://zh.wikipedia.org/wiki/File:Gnome-screenshot-full.jpg "fig:Gnome-screenshot-full.jpg")
-2\]\]
+[GNOME_3.32.1.png](https://zh.wikipedia.org/wiki/File:GNOME_3.32.1.png "fig:GNOME_3.32.1.png")
+3.32\]\]
 
 ## X的C/S模式和网络透明性
 

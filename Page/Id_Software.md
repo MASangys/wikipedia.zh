@@ -1,9 +1,7 @@
-[Doom-boxart.jpg](https://zh.wikipedia.org/wiki/File:Doom-boxart.jpg "fig:Doom-boxart.jpg")
 **id
 Software**是一家在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[得克薩斯州的](https://zh.wikipedia.org/wiki/得克薩斯州 "wikilink")[電子遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")[開發公司](https://zh.wikipedia.org/wiki/開發 "wikilink")。公司除了從事[電腦遊戲的開發以外](https://zh.wikipedia.org/wiki/電腦遊戲 "wikilink")，亦有自行研發[遊戲引擎](https://zh.wikipedia.org/wiki/遊戲引擎 "wikilink")。知名的[第一人稱射擊遊戲大作早期版的](https://zh.wikipedia.org/wiki/第一人稱射擊遊戲 "wikilink")《[戰慄時空](https://zh.wikipedia.org/wiki/戰慄時空 "wikilink")》和早期版的《[反恐精英](../Page/反恐精英.md "wikilink")》（*Counter-Strike*，簡稱CS）就是利用[Quake的引擎制作的](https://zh.wikipedia.org/wiki/Quake "wikilink")。該公司在1993年推出的作品《[毀滅戰士](https://zh.wikipedia.org/wiki/毀滅戰士 "wikilink")》（*DOOM*）徹底改變了電腦遊戲產業，在當時有著里程碑的意義。在2004年該公司推出的作品《[毀滅戰士III](https://zh.wikipedia.org/wiki/毀滅戰士III "wikilink")》在[E3遊戲大展上一鳴驚人](https://zh.wikipedia.org/wiki/E3 "wikilink")，包攬了5項大獎。
 
-公司於2009年6月24日被[貝塞斯達軟件公司](https://zh.wikipedia.org/wiki/貝塞斯達軟件公司 "wikilink")（Bethesda
-Software）的母公司[ZeniMax
+公司於2009年6月24日被[貝塞斯達軟件的母公司](https://zh.wikipedia.org/wiki/貝塞斯達軟件 "wikilink")[ZeniMax
 Media收歸其下](../Page/ZeniMax_Media.md "wikilink")，成為其子公司。\[1\]
 
 ## 公司歷史
@@ -26,17 +24,16 @@ Software的徽標是英文大寫，但在毀滅戰士出版時是小寫的「id�
 有人認為“id”跟德文單詞「idee」（同英文idea，主意、念頭）很像，但這已經被證不屬實。也有人認為是英文的“Die”（死亡）的反寫“eiD”而來的。但此猜測也不屬實，因為id
 Software從來就沒有以混寫過「iD」。此猜測基於id Software的遊戲都是第一人稱射擊遊戲，所以此聯想較合理。
 
-在傳記[Masters of
-Doom裡提到](https://zh.wikipedia.org/wiki/Masters_of_Doom "wikilink")，id
-Software是從英文「in demand」的縮寫而來的。
+在傳記《[Doom启世录](../Page/Doom启世录.md "wikilink")》裡提到，id Software是從英文「in
+demand」的縮寫而來的。
 
 ## 公司關鍵人物
 
 公司的固定員工只有十幾人，但他們每個人都有至少一輛法拉利停在公司樓下。約翰·卡馬克曾經把自己一輛法拉利作為該公司舉辦的[電子競技比賽獲胜者的獎品](https://zh.wikipedia.org/wiki/電子競技 "wikilink")。
 
-兩千零三年的[Masters of
-Doom的傳記書述說了id](https://zh.wikipedia.org/wiki/Masters_of_Doom "wikilink")
-Software起家過程，其書有提到約翰·卡馬克和約翰·羅梅洛性格和兩人的互動。以下是有為id Software的成功付出貢獻的關鍵人物。
+2003年的傳記《[Doom启世录](../Page/Doom启世录.md "wikilink")》述說了id
+Software起家過程，其書有提到約翰·卡馬克和約翰·羅梅洛性格和兩人的互動。以下是有為id
+Software的成功付出貢獻的關鍵人物。
 
 ### 約翰·卡馬克
 
@@ -77,7 +74,7 @@ Software舉辦了一個週末講座給一些預期的買家﹐其中包括了[�
 Software授權出了指揮官基恩遊戲引擎、德軍總部3D遊戲引擎、暗影法師遊戲引擎\[4\]、毀滅戰士遊戲引擎、雷神之鎚I、II、III遊戲引擎和毀滅戰士III中使用的技術。這些遊戲引擎被編用在許多的遊戲中﹐其中最成功的是毀滅戰士III的遊戲引擎。
 
 約翰·卡馬克有公開分享源碼的習慣。卡馬克透過[GPL公開分享了大部份id](https://zh.wikipedia.org/wiki/GNU通用公共許可證 "wikilink")
-Software的遊戲引擎。以之前來看，卡馬克都是在其遊戲引擎問世五年以後公開分享遊戲的源碼。借著因為卡馬克這樣的分享，許多私家工程就慢慢出現。導致此遊戲引擎被移殖至不同的平台，像[掌上型電腦](https://zh.wikipedia.org/wiki/掌上型電腦 "wikilink")、[iPod](https://zh.wikipedia.org/wiki/iPod "wikilink")、[PlayStation
+Software的遊戲引擎。以之前來看，卡馬克都是在其遊戲引擎問世五年以後公開分享遊戲的源碼。借著因為卡馬克這樣的分享，許多私家工程就慢慢出現。導致此遊戲引擎被移植至不同的平台，像[掌上型電腦](https://zh.wikipedia.org/wiki/掌上型電腦 "wikilink")、[iPod](https://zh.wikipedia.org/wiki/iPod "wikilink")、[PlayStation
 Portable和](../Page/PlayStation_Portable.md "wikilink")[任天堂DS等等](../Page/任天堂DS.md "wikilink")。其他加強像是[Dark
 Places在雷神之鎚遊戲引擎中增加](https://zh.wikipedia.org/wiki/Dark_Places "wikilink")[陰影體特效和更有效率的](https://zh.wikipedia.org/wiki/陰影體 "wikilink")[網絡傳輸協議方式](https://zh.wikipedia.org/wiki/網絡傳輸協議 "wikilink")。還有[ioquake3](https://zh.wikipedia.org/wiki/ioquake3 "wikilink")，難其目標是[id
 Tech
@@ -97,13 +94,13 @@ Tech 1.
 ## 遊戲以外
 
 id
-Software從的毀滅戰士的小說發表出版後就一直有著出版小說的發展。但從兩千零八年又從新開始出版小說，從[馬修·科斯特洛的毀滅戰士III的](https://zh.wikipedia.org/wiki/馬修·科斯特洛 "wikilink")[毀滅戰士III:火燒全世界和](https://zh.wikipedia.org/wiki/毀滅戰士III:火燒全世界 "wikilink")[毀滅戰士III:漩渦小說從新開始](https://zh.wikipedia.org/wiki/毀滅戰士III:漩渦 "wikilink")。
+Software從的毀滅戰士的小說發表出版後就一直有著出版小說的發展。但從2008年又從新開始出版小說，從[馬修·科斯特洛的毀滅戰士III的](https://zh.wikipedia.org/wiki/馬修·科斯特洛 "wikilink")[毀滅戰士III:火燒全世界和](https://zh.wikipedia.org/wiki/毀滅戰士III:火燒全世界 "wikilink")[毀滅戰士III:漩渦小說從新開始](https://zh.wikipedia.org/wiki/毀滅戰士III:漩渦 "wikilink")。
 
 id
-Software從兩千零五年毀滅戰士的電影就有電影製作的參與。托德·雷普洛格爾在兩千零七2007年八月的雷神之錘大會發表說重返德軍總部的電影正在製作當中。其電影的作家和監製是當年拍製[寂靜嶺的](https://zh.wikipedia.org/wiki/寂靜嶺_\(電影\) "wikilink")[羅傑·艾法瑞和](https://zh.wikipedia.org/wiki/羅傑·艾法瑞 "wikilink")[塞繆爾·哈帝達](https://zh.wikipedia.org/wiki/塞繆爾·哈帝達 "wikilink")。
+Software從2005年毀滅戰士的電影就有電影製作的參與。托德·雷普洛格爾在2007年8月的雷神之錘大會發表說重返德軍總部的電影正在製作當中。其電影的作家和監製是當年拍製[寂靜嶺的](https://zh.wikipedia.org/wiki/寂靜嶺_\(電影\) "wikilink")[羅傑·艾法瑞和](https://zh.wikipedia.org/wiki/羅傑·艾法瑞 "wikilink")[塞繆爾·哈帝達](https://zh.wikipedia.org/wiki/塞繆爾·哈帝達 "wikilink")。
 
-2013年8月7日，John Carmack加入[Oculus
-Rift](../Page/Oculus_Rift.md "wikilink")\[[http://en.wikipedia.org/wiki/Oculus_Rift\]任CTO](http://en.wikipedia.org/wiki/Oculus_Rift%5D任CTO)。[1](http://www.theverge.com/2013/8/7/4597678/doom-and-quake-id-software-john-carmack-joins-oculus-as-cto)[2](http://www.36kr.com/p/205271.html)
+2013年8月7日，約翰·卡馬克加入[Oculus
+Rift任CTO](../Page/Oculus_Rift.md "wikilink")。\[8\]\[9\]
 
 ## 爭議
 
@@ -150,7 +147,7 @@ Guide”表示說為什麼可以開槍射人和老鼠可是不可以射狗？因
     [重返狼穴3D](https://zh.wikipedia.org/wiki/重返狼穴3D "wikilink")）（1992年）
       - [命運之矛(電腦遊戲)](https://zh.wikipedia.org/wiki/命運之矛\(電腦遊戲\) "wikilink")（1992年）
   - [毀滅戰士](https://zh.wikipedia.org/wiki/毀滅戰士 "wikilink")（1993年）
-      - [究極毀滅戰士](https://zh.wikipedia.org/wiki/究極毀滅戰士 "wikilink")（1995年）\[8\]
+      - [究極毀滅戰士](https://zh.wikipedia.org/wiki/究極毀滅戰士 "wikilink")（1995年）\[10\]
   - [毀滅戰士II](https://zh.wikipedia.org/wiki/毀滅戰士II "wikilink")（1994年）
       - [毀滅戰士II加強關卡](https://zh.wikipedia.org/wiki/毀滅戰士II加強關卡 "wikilink")（1995年）
       - [最後的毀滅戰士](https://zh.wikipedia.org/wiki/最後的毀滅戰士 "wikilink")（1996年）
@@ -163,14 +160,14 @@ Guide”表示說為什麼可以開槍射人和老鼠可是不可以射狗？因
   - [毀滅戰士:收藏版](https://zh.wikipedia.org/wiki/毀滅戰士:收藏版 "wikilink")（2001年）
   - [毀滅戰](https://zh.wikipedia.org/wiki/毀滅戰 "wikilink")（2004年）
   - [現場雷神之錘](../Page/Quake_Live.md "wikilink")（2009年 - 外測）
-  - [經典德軍總部3D](../Page/德軍總部3D.md "wikilink")（2009年）\[9\]
-  - [經典毀滅戰士](https://zh.wikipedia.org/wiki/毀滅戰士 "wikilink")（2009年）\[10\]
-  - [狂怒煉獄﹕高清版](https://zh.wikipedia.org/wiki/狂怒煉獄﹕高清版 "wikilink")（2010年）\[11\]
+  - [經典德軍總部3D](../Page/德軍總部3D.md "wikilink")（2009年）\[11\]
+  - [經典毀滅戰士](https://zh.wikipedia.org/wiki/毀滅戰士 "wikilink")（2009年）\[12\]
+  - [狂怒煉獄﹕高清版](https://zh.wikipedia.org/wiki/狂怒煉獄﹕高清版 "wikilink")（2010年）\[13\]
   - [狂怒煉獄](https://zh.wikipedia.org/wiki/狂怒煉獄 "wikilink")（2011年）
   - [毀滅戰士3: BFG
     Edition](https://zh.wikipedia.org/wiki/毀滅戰士3 "wikilink")（2012年）
   - [毁灭战士](https://zh.wikipedia.org/wiki/毁灭战士_\(2016年电子游戏\) "wikilink")（2016年）
-  - [狂怒煉獄2](https://zh.wikipedia.org/wiki/狂怒煉獄2 "wikilink")（TAB）
+  - [狂怒煉獄2](../Page/狂怒煉獄2.md "wikilink")（2019年）
 
 ### 監製/出版
 
@@ -180,7 +177,7 @@ Guide”表示說為什麼可以開槍射人和老鼠可是不可以射狗？因
     Software（1995年）
   - [毀滅巫師II](https://zh.wikipedia.org/wiki/毀滅巫師II "wikilink") - Raven
     Software（1997年）
-  - 烏黑之塔：超越異教徒和毀滅巫師（1997年）\[12\]
+  - 烏黑之塔：超越異教徒和毀滅巫師（1997年）\[14\]
   - 雷神之錘加強版
       - 雷神之錘外加任務I阿瑪鋼的災害 - Ritual Entertainment（1997年）
       - 雷神之錘外加任務II永恆的解化 - Rogue Entertainment（1997年）
@@ -209,12 +206,11 @@ Guide”表示說為什麼可以開槍射人和老鼠可是不可以射狗？因
     Escalation Studios（2009年）
   - [德軍總部：黑曜陰謀](../Page/德軍總部：黑曜陰謀.md "wikilink") - Raven Software（2009年）
 
-## 外部連結
-
-  - [id software](http://www.idsoftware.com/)
-
 ## 參考文獻
 
+## 外部連結
+
+  -
 [Category:美國電子遊戲公司](https://zh.wikipedia.org/wiki/Category:美國電子遊戲公司 "wikilink")
 [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
 [Category:1991年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1991年開業電子遊戲公司 "wikilink")
@@ -231,11 +227,14 @@ Guide”表示說為什麼可以開槍射人和老鼠可是不可以射狗？因
     from Cubed3
 7.
 8.
-9.  [Announcement of *Wolfenstein 3D
+9.
+    让创业更简单|url=[https://36kr.com/|accessdate=2019-06-11|work=36kr.com](https://36kr.com/%7Caccessdate=2019-06-11%7Cwork=36kr.com)}}
+10.
+11. [Announcement of *Wolfenstein 3D
     Classic*](http://www.idsoftware.com/wolfenstein3dclassic/)  from
     official id home page
-10. [Announcement of *Doom Classic*
+12. [Announcement of *Doom Classic*
     progress](http://www.idsoftware.com/iphone-doom-classic-progress/)
     from official id home page
-11. from official id home page
-12.
+13. from official id home page
+14.

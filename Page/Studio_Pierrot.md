@@ -78,7 +78,7 @@ Ltd.，皮乐中国），進軍中國大陸授權市場\[15\]。
 <tr class="even">
 <td><p>1982年</p></td>
 <td><p>1983年</p></td>
-<td></td>
+<td><p><a href="../Page/太陽之子.md" title="wikilink">太陽之子</a></p></td>
 <td></td>
 <td><p>原創</p></td>
 <td><p>與法國動畫公司DIC共同製作。</p></td>
@@ -784,7 +784,7 @@ Ltd.，皮乐中国），進軍中國大陸授權市場\[15\]。
 </tr>
 <tr class="odd">
 <td><p>2015年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/晨曦公主" title="wikilink">晨曦公主</a></p></td>
+<td><p><a href="../Page/晨曦公主.md" title="wikilink">晨曦公主</a></p></td>
 <td></td>
 <td></td>
 <td></td>

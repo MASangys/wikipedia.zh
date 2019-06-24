@@ -6,7 +6,7 @@
 [SAP_AG_Headquarter_1200.jpg](https://zh.wikipedia.org/wiki/File:SAP_AG_Headquarter_1200.jpg "fig:SAP_AG_Headquarter_1200.jpg")
 SAP公司於1972年在[德國創立](https://zh.wikipedia.org/wiki/德國 "wikilink")。五位創始人（Dietmar
 Hopp、Hans-Werner Hector、Hasso
-Plattner（[哈索·普拉特納](https://zh.wikipedia.org/wiki/哈索·普拉特納 "wikilink")）、Klaus
+Plattner（[哈索·普拉特納](../Page/哈索·普拉特納.md "wikilink")）、Klaus
 Tschira與Claus
 Wellenreuther）於德國[魏恩海姆](../Page/魏恩海姆.md "wikilink")（）初創時，公司名為「」（系統分析與程式開發），後根據「」（資料處理的系統、應用與產品）將公司名稱縮寫為SAP。
 

@@ -44,8 +44,7 @@
 <td><center>
 <p><font color=pink>粉紅</font></p>
 </center></td>
-<td><p>擔任主唱。<br />
-赤西仁退團前，代表字母為K</p></td>
+<td><p>赤西仁退團前，代表字母為K</p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/上田龍也.md" title="wikilink">上田龍也</a></strong> (うえだ たつや)</p></td>
@@ -105,8 +104,7 @@
 <td><center>
 <p><font color=red>紅色</font></p>
 </center></td>
-<td><p>與龜梨和也擔任雙主唱。<br />
-2010年8月31日退團。<br />
+<td><p>2010年8月31日退團。<br />
 2014年约满不续約退出杰尼斯事务所。</p></td>
 </tr>
 <tr class="even">

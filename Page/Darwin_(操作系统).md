@@ -194,7 +194,7 @@ Mac OS X for <a href="../Page/Apple_TV.md" title="wikilink">Apple TV</a> <small>
 <tr class="odd">
 <td><p>14.0.0</p></td>
 <td><p>2014年9月18日</p></td>
-<td><p><a href="../Page/OS_X_Yosemite.md" title="wikilink">OS X Yosemite</a><a href="https://zh.wikipedia.org/wiki/iOS_7" title="wikilink">iOS 7</a>, <a href="https://zh.wikipedia.org/wiki/iOS_8" title="wikilink">iOS 8</a></p></td>
+<td><p><a href="../Page/OS_X_Yosemite.md" title="wikilink">OS X Yosemite</a> <a href="https://zh.wikipedia.org/wiki/iOS_7" title="wikilink">iOS 7</a> <a href="https://zh.wikipedia.org/wiki/iOS_8" title="wikilink">iOS 8</a></p></td>
 <td><p>OS X v10.10.0</p></td>
 </tr>
 <tr class="even">

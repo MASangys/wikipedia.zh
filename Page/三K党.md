@@ -117,11 +117,12 @@ Klansman I am（我是三K党）。
 
 ## 艺术中的三K党
 
-三K党往往是艺术中[极端主义的代名词](https://zh.wikipedia.org/wiki/极端主义 "wikilink")。他们在[英国的](https://zh.wikipedia.org/wiki/英国 "wikilink")[音乐剧](https://zh.wikipedia.org/wiki/音乐剧 "wikilink")《[杰瑞·斯普林格歌剧](https://zh.wikipedia.org/wiki/杰瑞·斯普林格歌剧 "wikilink")》（Jerry
-Springer）中出现过。
-在[玛格利特·米切尔的](https://zh.wikipedia.org/wiki/玛格利特·米切尔 "wikilink")《[飘](https://zh.wikipedia.org/wiki/飘 "wikilink")》中出现过，不过被视为正义的象征。
-三K党还在[阿瑟·柯南·道尔的](../Page/阿瑟·柯南·道尔.md "wikilink")《[福尔摩斯探案](../Page/福尔摩斯探案.md "wikilink")》之短篇集《冒险史》之一，《五个桔核》中出现过，作为严重的暴力犯罪团伙，三K党成员谋杀了一名美国移民的后代（实际上根据[福尔摩斯的调查](https://zh.wikipedia.org/wiki/福尔摩斯 "wikilink")，受害者的伯父、父亲应均为三K党所害）。
-三K党还在电影《[中华英雄](https://zh.wikipedia.org/wiki/中華英雄_\(1999年電影\) "wikilink")》出现过。
+  - 三K党往往是艺术中[极端主义的代名词](https://zh.wikipedia.org/wiki/极端主义 "wikilink")。他们在[英国的](https://zh.wikipedia.org/wiki/英国 "wikilink")[音乐剧](https://zh.wikipedia.org/wiki/音乐剧 "wikilink")《[杰瑞·斯普林格歌剧](https://zh.wikipedia.org/wiki/杰瑞·斯普林格歌剧 "wikilink")》（Jerry
+    Springer）中出现过。
+  - 在[玛格利特·米切尔的](https://zh.wikipedia.org/wiki/玛格利特·米切尔 "wikilink")《[飘](https://zh.wikipedia.org/wiki/飘 "wikilink")》中出现过，不过被视为正义的象征。
+  - 三K党还在[阿瑟·柯南·道尔的](../Page/阿瑟·柯南·道尔.md "wikilink")《[福尔摩斯探案](../Page/福尔摩斯探案.md "wikilink")》之短篇集《冒险史》之一，《五个桔核》中出现过，作为严重的暴力犯罪团伙，三K党成员谋杀了一名美国移民的后代（实际上根据[福尔摩斯的调查](https://zh.wikipedia.org/wiki/福尔摩斯 "wikilink")，受害者的伯父、父亲应均为三K党所害）。
+  - 三K党还在电影《[中华英雄](https://zh.wikipedia.org/wiki/中華英雄_\(1999年電影\) "wikilink")》出现过。
+  - [黑色黨徒](../Page/黑色黨徒.md "wikilink")
 
 ## 3K党与各宗教的关系
 

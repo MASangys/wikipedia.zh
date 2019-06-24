@@ -227,6 +227,14 @@
 <td><p>2019年19號</p></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/墨繪今生" title="wikilink">墨繪今生</a></p></td>
+<td></td>
+<td><p>堀內厚德</p></td>
+<td><p>砥上裕將</p></td>
+<td><p>2019年29號</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

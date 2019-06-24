@@ -56,7 +56,7 @@ ADSL2+还可以支持线路bonding的方式，也就是给终端用户提供多�
 
 ### 网络登录标准
 
-APPLE通常提供三种网络登录方式：
+ADSL通常提供三种网络登录方式：
 
   - [桥接](https://zh.wikipedia.org/wiki/桥接 "wikilink")，直接提供静态[IP](https://zh.wikipedia.org/wiki/IP "wikilink")
   - [PPPoA](https://zh.wikipedia.org/wiki/PPPoA "wikilink")，基于ATM的-{zh-hans:端对端;

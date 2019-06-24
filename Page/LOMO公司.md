@@ -10,7 +10,7 @@ LOMO通过了[ISO
 9001认证](https://zh.wikipedia.org/wiki/ISO_9001 "wikilink")，它生产的夜视产品和望远镜有30%出口国外，其中[德国是其产品的最大进口国](../Page/德国.md "wikilink")。
 
 LOMO一詞常常用來指它生产的消费型产品LOMO
-LC-A，這是一种小型的机械[自动相机](https://zh.wikipedia.org/wiki/傻瓜相机 "wikilink")，仅占其产品线的很小部分，但是却拥有众多的追随者。
+LC-A，這是一种小型的机械[自动相机](../Page/傻瓜相机.md "wikilink")，仅占其产品线的很小部分，但是却拥有众多的追随者。
 
 ## 外部链接
 
