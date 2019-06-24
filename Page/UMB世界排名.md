@@ -1,4 +1,4 @@
-**UMB世界排名**，是由[世界撞球聯盟針對](https://zh.wikipedia.org/wiki/世界撞球聯盟 "wikilink")[開侖選手所作的世界排名](../Page/開侖.md "wikilink")。
+**UMB世界排名**，是由[世界撞球聯盟針對](../Page/世界撞球聯盟.md "wikilink")[開侖選手所作的世界排名](../Page/開侖.md "wikilink")。
 
 ## 排名
 
@@ -34,31 +34,31 @@
 </tr>
 <tr class="even">
 <td><p>4</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/塞米赫·賽吉納" title="wikilink">塞米赫·賽吉納</a></p></td>
+<td><p><a href="../Page/塞米赫·賽吉納.md" title="wikilink">塞米赫·賽吉納</a></p></td>
 <td></td>
 <td><p>303</p></td>
 </tr>
 <tr class="odd">
 <td><p>5</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/艾迪·莫克斯_(撞球運動員)" title="wikilink">艾迪·莫克斯</a></p></td>
+<td><p><a href="../Page/艾迪·莫克斯_(撞球運動員).md" title="wikilink">艾迪·莫克斯</a></p></td>
 <td></td>
 <td><p>268</p></td>
 </tr>
 <tr class="even">
 <td><p>6</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/泰范·塔什德米爾" title="wikilink">泰范·塔什德米爾</a></p></td>
+<td><p><a href="../Page/泰范·塔什德米爾.md" title="wikilink">泰范·塔什德米爾</a></p></td>
 <td></td>
 <td><p>267</p></td>
 </tr>
 <tr class="odd">
 <td><p>7</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/趙在浩" title="wikilink">趙在浩</a></p></td>
+<td><p><a href="../Page/趙在浩.md" title="wikilink">趙在浩</a></p></td>
 <td></td>
 <td><p>247</p></td>
 </tr>
 <tr class="even">
 <td><p>8</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/穆拉特·納齊·喬克魯" title="wikilink">穆拉特·納齊·喬克魯</a></p></td>
+<td><p><a href="../Page/穆拉特·納齊·喬克魯.md" title="wikilink">穆拉特·納齊·喬克魯</a></p></td>
 <td></td>
 <td><p>242</p></td>
 </tr>
@@ -88,13 +88,13 @@
 </tr>
 <tr class="odd">
 <td><p>13</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/吳廷奈" title="wikilink">吳廷奈</a></p></td>
+<td><p><a href="../Page/吳廷奈.md" title="wikilink">吳廷奈</a></p></td>
 <td></td>
 <td><p>179</p></td>
 </tr>
 <tr class="even">
 <td><p>14</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/許正漢" title="wikilink">許正漢</a></p></td>
+<td><p><a href="../Page/許正漢.md" title="wikilink">許正漢</a></p></td>
 <td></td>
 <td><p>175</p></td>
 </tr>
@@ -106,7 +106,7 @@
 </tr>
 <tr class="even">
 <td><p>16</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/丹尼爾·桑切斯" title="wikilink">丹尼爾·桑切斯</a></p></td>
+<td><p><a href="../Page/丹尼爾·桑切斯.md" title="wikilink">丹尼爾·桑切斯</a></p></td>
 <td></td>
 <td><p>160</p></td>
 </tr>
@@ -124,7 +124,7 @@
 </tr>
 <tr class="odd">
 <td><p>19</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/趙明優" title="wikilink">趙明優</a></p></td>
+<td><p><a href="../Page/趙明優.md" title="wikilink">趙明優</a></p></td>
 <td></td>
 <td><p>158</p></td>
 </tr>

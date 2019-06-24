@@ -542,8 +542,12 @@ Return》，민대홍於2014年離開。
 
 ## 外部連結
 
-  - [Buzz的官方Facebook](https://www.facebook.com/buzzcomeback/)
+  -
+  - [Buzz的V Live專頁](https://channels.vlive.tv/F211A3/home)
 
+  -
+  -
+  -
 ## 参考文献
 
 <references />

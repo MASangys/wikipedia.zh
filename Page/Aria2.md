@@ -1,4 +1,4 @@
-Aria2是一款[自由](../Page/自由软件.md "wikilink")、[跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink")[命令行界面的](../Page/命令行界面.md "wikilink")，该软件根据[GPLv2](https://zh.wikipedia.org/wiki/GPLv2 "wikilink")[许可证进行分发](../Page/软件许可证.md "wikilink")。支持的下载协议有：[HTTP](https://zh.wikipedia.org/wiki/HTTP "wikilink")、[HTTPS](https://zh.wikipedia.org/wiki/HTTPS "wikilink")、[FTP](https://zh.wikipedia.org/wiki/FTP "wikilink")、[Bittorrent和](../Page/BitTorrent_\(协议\).md "wikilink")。
+Aria2是一款[自由](../Page/自由软件.md "wikilink")、[跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink")[命令行界面的](../Page/命令行界面.md "wikilink")[下载管理器](https://zh.wikipedia.org/wiki/下载管理器 "wikilink")，该软件根据[GPLv2](https://zh.wikipedia.org/wiki/GPLv2 "wikilink")[许可证进行分发](../Page/软件许可证.md "wikilink")。支持的下载协议有：[HTTP](https://zh.wikipedia.org/wiki/HTTP "wikilink")、[HTTPS](https://zh.wikipedia.org/wiki/HTTPS "wikilink")、[FTP](https://zh.wikipedia.org/wiki/FTP "wikilink")、[Bittorrent和](../Page/BitTorrent_\(协议\).md "wikilink")。
 
 ## 特性
 

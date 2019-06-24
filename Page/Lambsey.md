@@ -43,6 +43,7 @@ by u”作词，并于2009年荣获唱片大奖优秀作品作词奖。
 
   -
   -
+[Category:2004年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2004年成立的音樂團體 "wikilink")
 [Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink")
 
 1.  [ラムジ、来年3月の解散を発表　ボーカル山下は活動休止へ](http://www.oricon.co.jp/news/2020043/full/)

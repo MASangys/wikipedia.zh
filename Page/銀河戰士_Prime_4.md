@@ -25,7 +25,6 @@ Studios負責重新開發的工作。高橋伸也表示，遊戲的開發成果�
 [Category:銀河戰士系列](https://zh.wikipedia.org/wiki/Category:銀河戰士系列 "wikilink")
 [Category:科幻电子游戏](https://zh.wikipedia.org/wiki/Category:科幻电子游戏 "wikilink")
 [Category:動作冒險遊戲](https://zh.wikipedia.org/wiki/Category:動作冒險遊戲 "wikilink")
-[Category:任天堂电子游戏系列](https://zh.wikipedia.org/wiki/Category:任天堂电子游戏系列 "wikilink")
 [Category:任天堂Switch獨占遊戲](https://zh.wikipedia.org/wiki/Category:任天堂Switch獨占遊戲 "wikilink")
 
 1.

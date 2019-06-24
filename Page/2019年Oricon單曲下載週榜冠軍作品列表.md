@@ -168,6 +168,27 @@
 <td></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>6月10日</p></td>
+<td><p>4.0</p></td>
+<td><p>[18]</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>6月17日</p></td>
+<td></td>
+<td><p>米津玄師</p></td>
+<td><p>12.6</p></td>
+<td><p>[19]</p></td>
+</tr>
+<tr class="odd">
+<td><p>6月24日</p></td>
+<td><p>5.2</p></td>
+<td><p>[20]</p></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -214,3 +235,8 @@
 16. [菅田将暉、米津玄師プロデュース曲で初のデジタル1位「自分の曲にすることが一生涯の務め」【オリコンランキング】](https://www.oricon.co.jp/news/2135950/full/)
 17. [乃木坂46、デジタルALが自身初の1位
     シングルでは菅田将暉が2週連続首位【オリコンランキング】](https://www.oricon.co.jp/news/2136420/full/)
+18. [6/10付週間デジタルシングル(単曲)ランキング1位は菅田将暉の「まちがいさがし」](https://www.oricon.co.jp/news/2136975/)
+19. [米津玄師、映画『海獣の子供』主題歌が1位
+    初週DL数は今年度最高【オリコンランキング】](https://www.oricon.co.jp/news/2137417/)
+20. [東方神起・ユンホ、デジタルALが1位
+    米津玄師がデジタルSGで2週連続1位【オリコンランキング】](https://www.oricon.co.jp/news/2137973/)

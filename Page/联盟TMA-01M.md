@@ -13,12 +13,12 @@
 <tbody>
 <tr class="odd">
 <td><p>指令长</p></td>
-<td><p></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/亚历山大·卡莱利" title="wikilink">亚历山大·卡莱利</a></p></td>
 <td><p>第5次</p></td>
 </tr>
 <tr class="even">
 <td><p>飞行工程师1</p></td>
-<td><p></p></td>
+<td><p><a href="../Page/奥列格·斯克里波奇卡.md" title="wikilink">奥列格·斯克里波奇卡</a></p></td>
 <td><p>第1次</p></td>
 </tr>
 <tr class="odd">

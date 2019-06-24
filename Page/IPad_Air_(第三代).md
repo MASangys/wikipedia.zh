@@ -1,20 +1,22 @@
-**iPad Air**（理論上为**第三代 iPad
-Air**）是[苹果在](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")2019年3月18日在其官网更新发布的一款10.5英寸屏幕中端[iPad](https://zh.wikipedia.org/wiki/iPad "wikilink")[平板电脑](https://zh.wikipedia.org/wiki/平板电脑 "wikilink")。虽然名属Air系列，但它与iPad
+**第三代iPad Air**（正式名称仅为**iPad Air**，而**iPad Air
+3**为俗称）是[苹果在](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")2019年3月18日在其官网更新发布的一款10.5英吋螢幕中端[iPad](https://zh.wikipedia.org/wiki/iPad "wikilink")[平板电脑](../Page/平板電腦.md "wikilink")，存在着不同的称呼（**第三代iPad
+Air**，或者**iPad Air 2019**）。虽然名属Air系列，但它与iPad
 Air的[第一代和](../Page/IPad_Air.md "wikilink")[第二代并无技术上的直接继承关系](../Page/IPad_Air_2.md "wikilink")。相反，第三代iPad
 Air使用了[iPad Pro](../Page/IPad_Pro.md "wikilink")
 10.5英寸版本的外形（但厚度依然与前代iPad
 Air相同，同时苹果下架[iPad
 Pro](https://zh.wikipedia.org/wiki/iPad_Pro "wikilink")10.5英寸版本），搭载[Apple
 A12
-Bionic和M](../Page/Apple_A12_Bionic.md "wikilink")12协处理器，10.5英寸的[视网膜屏幕支持P](https://zh.wikipedia.org/wiki/视网膜显示屏 "wikilink")3广色域和原彩显示，但不具备ProMotion自适应屏幕刷新率技术。第三代[iPad
-Air支持](https://zh.wikipedia.org/wiki/iPad_Air "wikilink")[Apple
-Pencil第一代和智能键盘保护盖](../Page/Apple_Pencil.md "wikilink")。
+Bionic处理器](../Page/Apple_A12_Bionic.md "wikilink")，10.5英寸的[Retina显示螢幕支援P](../Page/Retina显示屏.md "wikilink")3广色域和原彩显示，但不具备ProMotion自适应螢幕刷新率技术。第三代[iPad
+Air支援](https://zh.wikipedia.org/wiki/iPad_Air "wikilink")[Apple
+Pencil第一代和聰穎键盘保护盖](../Page/Apple_Pencil.md "wikilink")。
 
 ## 大事记
 
-  - 2019年3月18日，苹果于官网更新[IPad mini
-    (第五代)](../Page/IPad_mini_\(第五代\).md "wikilink")、[IPad
-    Air](../Page/IPad_Air.md "wikilink") (第三代)等产品。
+  - 2019年3月18日，苹果于官网更新[iPad mini
+    (第五代)](https://zh.wikipedia.org/wiki/iPad_mini_\(第五代\) "wikilink")、[iPad
+    Air
+    (第三代)等产品](https://zh.wikipedia.org/wiki/iPad_Air_\(第三代\) "wikilink")。
 
 ## 顏色
 
@@ -47,7 +49,7 @@ Pencil第一代和智能键盘保护盖](../Page/Apple_Pencil.md "wikilink")。
 <table>
 <thead>
 <tr class="header">
-<th><p>Model</p></th>
+<th><p>機型</p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/iPad_Air" title="wikilink">iPad Air</a></p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/iPad_Air_2" title="wikilink">iPad Air 2</a></p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/iPad_Air_(第三代)" title="wikilink">iPad Air (第三代)</a></p></th>
@@ -55,7 +57,7 @@ Pencil第一代和智能键盘保护盖](../Page/Apple_Pencil.md "wikilink")。
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>colspan=2 |Picture</p></td>
+<td><p>colspan=2 |圖片</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:IPad_Air.png" title="fig:IPad_Air.png">IPad_Air.png</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:IPad_Air_2.png" title="fig:IPad_Air_2.png">IPad_Air_2.png</a></p></td>
 <td></td>
@@ -154,7 +156,7 @@ Pencil第一代和智能键盘保护盖](../Page/Apple_Pencil.md "wikilink")。
 <td></td>
 </tr>
 <tr class="even">
-<td><p>colspan=2 |音頻解碼器</p></td>
+<td><p>colspan=2 |音訊解碼器</p></td>
 <td><p>Cirrus Logic CS42L61[2][3]</p></td>
 <td><p>Cirrus Logic CS42L63[4]</p></td>
 <td></td>
@@ -173,7 +175,7 @@ Pencil第一代和智能键盘保护盖](../Page/Apple_Pencil.md "wikilink")。
 </tr>
 <tr class="odd">
 <td><p>colspan=2 rowspan=2 |電池</p></td>
-<td><p>内置锂電池</p></td>
+<td><p>内建锂電池</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -187,9 +189,12 @@ Pencil第一代和智能键盘保护盖](../Page/Apple_Pencil.md "wikilink")。
 <td><p>colspan=2 |電池續航力</p></td>
 <td><p>上網: 10小時(Wi-Fi); 9小時(3G or 4G)<br />
 音樂 : 140小時<br />
-視頻：10小時<br />
+影片：10小時<br />
 待機 : 1個月</p></td>
-<td></td>
+<td><p>上網：10小時(Wi-Fi); 9小時(3G or 4G)</p>
+<p>音樂：10小時</p>
+<p>影片：10小時<br />
+</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -242,7 +247,7 @@ Wi-Fi + 4G model: </p></td>
 
 [Category:IPad](https://zh.wikipedia.org/wiki/Category:IPad "wikilink")
 [Category:平板電腦](https://zh.wikipedia.org/wiki/Category:平板電腦 "wikilink")
-[Category:2014年面世的平板電腦](https://zh.wikipedia.org/wiki/Category:2014年面世的平板電腦 "wikilink")
+[Category:2019年面世的平板電腦](https://zh.wikipedia.org/wiki/Category:2019年面世的平板電腦 "wikilink")
 
 1.  [全新 iPad 功能特色](http://www.apple.com/hk/ipad/features/)
 2.

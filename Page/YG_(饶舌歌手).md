@@ -18,13 +18,7 @@ Brazy》，好评依旧。2018年8月3日，YG发布了普遍好评的第三张�
 
 YG于1990年出生于[加利福尼亚州康普顿](https://zh.wikipedia.org/wiki/康普顿_\(加利福尼亚州\) "wikilink")。\[4\]\[5\]
 他的艺名YG意为“Young
-Gangster”（年轻的匪徒）。\[6\]2006年，16岁的YG加入了[血帮](https://zh.wikipedia.org/wiki/血幫 "wikilink")。\[7\]他的父亲因涉嫌税务欺诈而入狱。\[8\]
-
-## 音乐生涯
-
-## 其他企业
-
-## 个人生活
+Gangster”（年轻的匪徒）。\[6\]2006年，16岁的YG加入了[血帮](../Page/血幫.md "wikilink")。\[7\]他的父亲因涉嫌税务欺诈而入狱。\[8\]
 
 ## 争议
 
@@ -93,7 +87,7 @@ Flockers），其中有段歌词为：
 <td><p>民众票选冠军奖 (People's Champ Award)</p></td>
 <td><p>单曲"My Nigga (Remix)"<br />
 <br />
-<small>(与<a href="../Page/小韋恩.md" title="wikilink">李尔·韦恩</a>、<a href="https://zh.wikipedia.org/wiki/妮琪·米娜" title="wikilink">妮琪·米娜</a>、<a href="https://zh.wikipedia.org/wiki/米克·米尔" title="wikilink">米克·米尔和</a><a href="https://zh.wikipedia.org/wiki/Rich_Homie_Quan" title="wikilink">Rich Homie Quan</a>)</small></p></td>
+<small>(与<a href="../Page/小韋恩.md" title="wikilink">李尔·韦恩</a>、<a href="https://zh.wikipedia.org/wiki/妮琪·米娜" title="wikilink">妮琪·米娜</a>、<a href="../Page/米克·米尔.md" title="wikilink">米克·米尔和</a><a href="https://zh.wikipedia.org/wiki/Rich_Homie_Quan" title="wikilink">Rich Homie Quan</a>)</small></p></td>
 <td></td>
 <td></td>
 <td></td>

@@ -56,29 +56,30 @@
 <tr class="odd">
 <td style="text-align: center;"><p>2019年7月19日－<br />
 2019年9月</p></td>
-<td style="text-align: center;"><p><a href="../Page/Doctor_Room.md" title="wikilink">Doctor Room</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/痛症醫師車耀漢" title="wikilink">痛症醫師車耀漢</a><br />
 </p></td>
-<td style="text-align: center;"><p>40</p></td>
+<td style="text-align: center;"><p>32</p></td>
 <td style="text-align: center;"><p><a href="../Page/池晟.md" title="wikilink">池晟</a>、<a href="../Page/李世榮_(韓國).md" title="wikilink">李世榮</a>、<a href="../Page/李奎炯.md" title="wikilink">李奎炯</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/趙秀沅.md" title="wikilink">趙秀沅</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金智允" title="wikilink">金智允</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p>2019年9月－<br />
-2019年月</p></td>
+<td style="text-align: center;"><p>2019年9月日－<br />
+2019年月日</p></td>
 <td style="text-align: center;"><p>-{<a href="../Page/VAGABOND_(電視劇).md" title="wikilink">VAGABOND</a>}-<br />
 </p></td>
-<td style="text-align: center;"><p>48</p></td>
+<td style="text-align: center;"><p>32</p></td>
 <td style="text-align: center;"><p><a href="../Page/李昇基.md" title="wikilink">李昇基</a>、<a href="https://zh.wikipedia.org/wiki/裴秀智" title="wikilink">裴秀智</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/劉仁植.md" title="wikilink">劉仁植</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/張英哲.md" title="wikilink">張英哲</a>、<a href="https://zh.wikipedia.org/wiki/鄭景順" title="wikilink">鄭景順</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p>2019年月－ 2019年月</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/浪漫醫生金師傅2" title="wikilink">浪漫醫生金師傅2</a></p>
-<p>낭만닥터 김사부2</p></td>
+<td style="text-align: center;"><p>2019年月日－<br />
+2019年月日</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/浪漫醫生金師傅2" title="wikilink">浪漫醫生金師傅2</a><br />
+</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
@@ -86,8 +87,8 @@
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p>2019年月－<br />
-2019年月</p></td>
+<td style="text-align: center;"><p>2019年月日－<br />
+2019年月日</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/調查官" title="wikilink">調查官</a><br />
 </p></td>
 <td style="text-align: center;"></td>
@@ -97,8 +98,8 @@
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p>2019年月－<br />
-2020年月</p></td>
+<td style="text-align: center;"><p>2019年月日－<br />
+2020年月日</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/誰也不知道_(電視劇)" title="wikilink">誰也不知道</a><br />
 </p></td>
 <td style="text-align: center;"></td>

@@ -1,12 +1,12 @@
 [Simple_Periodic_Table_Chart-en.svg](https://zh.wikipedia.org/wiki/File:Simple_Periodic_Table_Chart-en.svg "fig:Simple_Periodic_Table_Chart-en.svg")
 
-**元素周期表**是依[原子序数](../Page/原子序数.md "wikilink")、[核外电子排布情况和](https://zh.wikipedia.org/wiki/核外电子排布规律 "wikilink")[化学性质的相似性来排列](https://zh.wikipedia.org/wiki/化学性质 "wikilink")[化学元素的表格](../Page/化學元素.md "wikilink")。一如其名，元素周期表的结构展现了元素性质的某些周期性规律。周期表的一个横行称作一个[周期](https://zh.wikipedia.org/wiki/元素周期 "wikilink")，纵列则称作一个[族](../Page/族_\(化学\).md "wikilink")。一般而言，在同一周期内，金属元素位于表的左端，非金属位于右端，具有相似化学性质的元素则位于同一族内。周期表中的六个族具有单独的别名，包括第17族（VII
+**元素周期表**是依[原子序数](../Page/原子序数.md "wikilink")、[核外电子排布情况和](https://zh.wikipedia.org/wiki/核外电子排布规律 "wikilink")[化学性质的相似性来排列](https://zh.wikipedia.org/wiki/化学性质 "wikilink")[化学元素的表格](../Page/化學元素.md "wikilink")。一如其名，元素周期表的排列展现了元素性质的周期性趋势。周期表的横行被称作[周期](https://zh.wikipedia.org/wiki/元素周期 "wikilink")，纵列则被称作[族](../Page/族_\(化学\).md "wikilink")。一般而言，在同一周期内，金属元素位于表的左端，非金属位于右端；同族的元素则大多具有相似化学性质。周期表中，其中六个族具有单独的别名，包括第17族（VII
 A
-族）称[卤素](../Page/卤素.md "wikilink")，第18族（0族）称[稀有气体](../Page/稀有气体.md "wikilink")。此外，周期表中的四块基本为矩形的区域与[原子轨道的排布情况密切相关](../Page/原子轨道.md "wikilink")。
+族）别名为[卤素](../Page/卤素.md "wikilink")，第18族（0族）被称为[稀有气体](../Page/稀有气体.md "wikilink")。此外，[原子轨道的排布情况与表中周期的排列密切相关](../Page/原子轨道.md "wikilink")。
 
-可用元素周期表的排列方式推演元素之间性质的联系，也可用于预测新发现或合成的元素的性质与行为。最早的元素周期表由俄罗斯化学家[德米特里·门捷列夫发布于](../Page/德米特里·伊万诺维奇·门捷列夫.md "wikilink")1869年，主要用于展现当时已知的元素之间的周期性规律，但他也借此基本成功预测了当时尚未发现的、位于周期表空位中的元素的相当一部分性质。随着新元素的发现和化学性质预测的理论模型的健全，门捷列夫的思想也在不断得以完善。现代的元素周期表不仅为分析[化学反应提供了有用的框架](../Page/化学反应.md "wikilink")，也在其他[化学领域乃至](../Page/化學.md "wikilink")[核物理学中得到广泛应用](https://zh.wikipedia.org/wiki/核物理 "wikilink")。
+因为元素周期表排列的周期性趋势，它可用于推演不同元素间性质的关系，也可用于预测未发现或新合成的元素的性质。最早的元素周期表由俄罗斯化学家[德米特里·门捷列夫发布于](../Page/德米特里·伊万诺维奇·门捷列夫.md "wikilink")1869年，主要用于表现当时已知的元素之间的周期性规律，但他也借此基本成功预测了当时尚未发现的、位于周期表空位中元素的相当一部分性质。随着新元素的发现和化学性质理论模型的健全，门捷列夫的思想也在不断得以完善。现代的元素周期表不仅为分析[化学反应提供了有用的框架](../Page/化学反应.md "wikilink")，也在其他[化学领域乃至](../Page/化學.md "wikilink")[核物理学中得到广泛应用](https://zh.wikipedia.org/wiki/核物理 "wikilink")。
 
-自原子序数为1的元素（氢）至原子序数为118的元素（鿫，Oganesson）均已被发现或成功合成，并填满了周期表的前七个周期。\[1\]\[2\]自然界中天然存在的仅有前98种元素，且部分仅有痕量存在；其余的元素都是在实验室中合成的。原子序数99号至118号的元素目前仅在实验室或反应堆中经合成得到过。\[3\]下一个合成的新元素将会开启第八周期，因此有大量工作都在往这方面努力。并有理论结果指出了可能的候选元素。此外，实验室中也合成了很多种天然元素的[放射性同位素](../Page/放射性同位素.md "wikilink")。
+自原子序数为1的元素（氢）至原子序数为118的元素（鿫，Oganesson）均已被发现或成功合成，并填满了周期表的前七个周期。\[1\]\[2\]在自然界中天然存在的仅有前98种元素，且部分仅有痕量存在；其余的元素都是在实验室中合成的。原子序数99号至118号的元素目前仅在实验室或核反应堆中经合成得到过。\[3\]下一个合成的新元素将会开启周期表的第八周期，因此大量工作都在往这方面努力，且已有理论指出了可能的新元素。此外，实验室中也合成了多种元素的[放射性同位素](../Page/放射性同位素.md "wikilink")。
 
 ## 概述
 
@@ -43,7 +43,7 @@ B族）的底端，电负性就反而增大。\[21\]
 
 [Periodic_table_blocks_spdf_(32_column).svg](https://zh.wikipedia.org/wiki/File:Periodic_table_blocks_spdf_\(32_column\).svg "fig:Periodic_table_blocks_spdf_(32_column).svg")
 周期表中，依最后填充的电子亚层而划分的矩形块被称作**区**。每个区的名字就是最后被填充的亚层的符号\[26\]。[s区由前两族](https://zh.wikipedia.org/wiki/S区元素 "wikilink")（碱金属和碱土金属）外加氢和氦元素组成，[p区则包含最后六个族](https://zh.wikipedia.org/wiki/P区元素 "wikilink")，即13\~18族（III
-A至0族）。所有的[类金属都落在p区的范围内](https://zh.wikipedia.org/wiki/类金属 "wikilink")。[d区包含第](https://zh.wikipedia.org/wiki/D区元素 "wikilink")3至第12族（III
+A至0族）。所有的[类金属都落在p区的范围内](https://zh.wikipedia.org/wiki/类金属 "wikilink")。[d区包含第](../Page/D区元素.md "wikilink")3至第12族（III
 B至II
 B），所有的[过渡金属都位于此区域](../Page/过渡金属.md "wikilink")。[f区通常被单独放在周期表的最下方](https://zh.wikipedia.org/wiki/F区元素 "wikilink")，不冠以族序号。镧系和锕系位于这个区域。\[27\]
 
@@ -181,24 +181,18 @@ to have a p electron.\[66\]|group=n}}
 [ShortPT20b.png](https://zh.wikipedia.org/wiki/File:ShortPT20b.png "fig:ShortPT20b.png")
 1871年，门捷列夫出版了新格式的元素周期表。新格式的周期表把性质相似的元素排在同一纵列当中，以此取代了此前按行排列的方式，并且按照常见氧化态将几组元素纵列标记了I到VIII的编号。对于几种他此前认为理应存在但尚未发现的元素，门捷列夫也详细地给出了他预测的元素性质。\[94\]随着科学家发现了更多自然存在的元素，周期表中的空白也逐渐被填补。\[95\]例如元素[钫](../Page/钫.md "wikilink")（之前被[门捷列夫称为銫下元素](https://zh.wikipedia.org/wiki/门捷列夫 "wikilink")，eka-caesium）于1939年被法国科学家[玛格丽特·佩里发现](../Page/玛格丽特·佩里.md "wikilink")，也是最后一个在自然界中发现的元素；\[96\]元素[钚于](../Page/钚.md "wikilink")1940年合成生产，于1971年被证实微量存在于自然环境中。\[97\]
 
-現時流行的\[98\]週期表佈局，也稱為通用或標準形式（as shown at various other points in this
-article），is attributable to Horace Groves
-Deming。1923年，美國化學家Deming發表了短身版本（[門捷列夫式](http://www.meta-synthesis.com/webbook/35_pt/pt_database.php?PT_id=456)）和中等版本（[18列](http://www.meta-synthesis.com/webbook/35_pt/pt_database.php?PT_id=360)）形式的周期表\[99\]{{\#tag:ref|An
-antecedent of Deming's 18-column table may be seen in [Adams' 16-column
-Periodic Table
-of 1911](http://www.meta-synthesis.com/webbook/35_pt/pt_database.php?PT_id=67).
+現時流行的\[98\]週期表佈局，也稱為通用或標準形式（如本文中多处所示），是由霍勒斯·戴明(Horace Groves
+Deming)确定的。1923年，美國化學家戴明發表了短版本（[門捷列夫式](http://www.meta-synthesis.com/webbook/35_pt/pt_database.php?PT_id=456)）和中等版本（[18列](http://www.meta-synthesis.com/webbook/35_pt/pt_database.php?PT_id=360)）形式的周期表\[99\]{{\#tag:ref|Deming的18列周期表的一种原型可在此处找到：[1911年Adams的16列周期表](http://www.meta-synthesis.com/webbook/35_pt/pt_database.php?PT_id=67).
 Adams omits the rare earths and the "radioactive elements" (i.e. the
 actinides) from the main body of his table and instead shows them as
 being "[careted](https://zh.wikipedia.org/wiki/wikt:caret "wikilink") in
 only to save space" (rare earths between Ba and eka-Yt; radioactive
 elements between eka-Te and eka-I). See: Elliot Q. A. (1911). "A
 modification of the periodic table". *Journal of the American Chemical
-Society*. **33**(5): 684–688 (687).|group=n}}。Merck and Company prepared
-a handout form of Deming's 18-column medium table, in 1928, which was
-widely circulated in American schools. By the 1930s Deming's table was
-appearing in handbooks and encyclopaedias of chemistry. It was also
-distributed for many years by the Sargent-Welch Scientific
-Company.\[100\]\[101\]\[102\]
+Society*. **33**(5): 684–688
+(687).|group=n}}。1928年，Merck和Company发布了戴明的中等版本的18列周期表的讲义版，此版在美国的学校广为流传。
+到了1930年，戴明的周期表已经出现在化学手册和百科全书中。多年来，Sargent-Welch Scientific
+Company也发行此版本。\[100\]\[101\]\[102\]
 
 隨著現代[量子力学對原子內](../Page/量子力学.md "wikilink")[电子排序理論的發展](../Page/电子.md "wikilink")，便能推論出表中每個週期（行）實際對應著[電子層的電子填充](../Page/電子層.md "wikilink")。較大的原子有更多的電子亞層，因此後來的週期表需要更長的族表示元素\[103\]。
 
@@ -218,24 +212,18 @@ Elsevier. p. 315–316, .|group=n}}。
 
 尽管少量的[超铀元素会自然产生](../Page/超铀元素.md "wikilink")，\[106\]
 但是这类元素一开始是在实验室中发现的。它们的产生极大地拓宽了周期表的范围，1939年人类成功合成了第一个[超铀元素](../Page/超铀元素.md "wikilink")：[镎](../Page/镎.md "wikilink")。\[107\]
-由于许多[超铀元素非常不稳定且很快衰变](../Page/超铀元素.md "wikilink")，所以即使合成成功，探测和描述其性质就成了很大的挑战。There
-have been  concerning the acceptance of competing discovery claims for
-some elements, requiring independent review to determine which party has
-priority, and hence naming rights.\[108\]
+由于许多[超铀元素非常不稳定且很快衰变](../Page/超铀元素.md "wikilink")，所以即使合成成功，探测和描述其性质就成了很大的挑战。对某些发现新元素的声明存在，因此需要独立审查。（首先发现某元素的一方拥有命名权。）\[108\]
 2010年，在[莫斯科州的](../Page/莫斯科州.md "wikilink")[杜布纳](https://zh.wikipedia.org/wiki/杜布纳 "wikilink")，一个美俄联合科学团队声称已经合成了六个[Ts](https://zh.wikipedia.org/wiki/Ts "wikilink")（Tennessine,
-117号元素）原子，这是最近的发表声明的发现。[Ts](https://zh.wikipedia.org/wiki/Ts "wikilink")（117号元素）和[鉨](https://zh.wikipedia.org/wiki/鉨 "wikilink")（113号元素）、[镆](../Page/镆.md "wikilink")（115号元素）以及[Og](https://zh.wikipedia.org/wiki/Og "wikilink")（118号元素），都是最近命名的四个元素，2016年11月28日，这四个元素都得到了官方承认。\[109\]
+117号元素）原子，这是最近的发表声明的发现。[鿬](../Page/鿬.md "wikilink")（117号元素）和[鉨](https://zh.wikipedia.org/wiki/鉨 "wikilink")（113号元素）、[镆](../Page/镆.md "wikilink")（115号元素）以及[鿫](../Page/鿫.md "wikilink")（118号元素），都是最近命名的四个元素，2016年11月28日，这四个元素都得到了官方承认。\[109\]
 
 ## 其他种类的元素周期表
 
 ### 长式周期表（32列周期表）
 
-[upright=2.95](https://zh.wikipedia.org/wiki/File:32-column_periodic_table-a.png "wikilink")
-现代周期表有时会通过恢复被注释的f区元素的自然位置（在s和d区元素之间），拓展为长式周期表（32列周期表）。与18列周期表不同的是，这样的排列使得「在递增的原子序列中没有间断」。\[110\]在周期表中f区元素和其他区元素的关系也会更加容易看出。\[111\]
-由于担心镧系和锕系可能会被认定为是可以被疏离、忽略的，不重要的元素，提倡32列周期表。\[112\] Despite these
-advantages the 32-column form is generally avoided by editors on account
-of its undue rectangular ratio (compared to a book page ratio),\[113\]
-and the familiarity of chemists with the modern form (as introduced by
-Seaborg).\[114\]
+现代周期表有时会将f区元素恢复到其自然位置（在s和d区元素之间），拓展为长式周期表（32列周期表）。与18列周期表不同的是，这样的排列使得「在递增的原子序列中没有间断」。\[110\]在周期表中f区元素和其他区元素的关系也会更加容易看出。\[111\]
+由于担心镧系和锕系可能会被认定为是可以被疏离、忽略的，不重要的元素，提倡32列周期表。\[112\]
+尽管有这些优点，长式周期表仍因其过高的长宽比\[113\]
+及化学家对（由西博格引入的）现有形式更熟悉\[114\]未被广泛使用。
 
 ### 其它结构的周期表
 
@@ -249,31 +237,30 @@ variants.|group=n}}如圓形、立方體、圓柱、建築物、螺旋形、[双
 [Elementspiral_(polyatomic).svg](https://zh.wikipedia.org/wiki/File:Elementspiral_\(polyatomic\).svg "fig:Elementspiral_(polyatomic).svg")
 在1960年製作的元素週期表是一個受歡迎的替代版本。\[118\]表中的元素被安排成連續的螺旋狀，氫元素位於中央，而過渡元素、鑭系及錒系元素則位於圖中突出的「半島」部分。\[119\]
 
-多數元素週期表皆為二維的，\[120\]而三維的元素週期表最早可追溯至1862年（較門得列夫的二維週期表的1869年為早）。較晚出現的三維週期表包含Courtines'
-Periodic Classification（1925年）、\[121\] Wringley's Lamina System
-（1949年）、\[122\] 的 Periodic helix（1965年）、\[123\]及Dufour's
-Periodic Tree （1996年）。\[124\]甚至有人曾建立出「四維」的週期表，如Stowe's Physicist's
-Periodic Table（1989年）\[125\]就是一個例子，包含三個空間維度和一個色彩維度。\[126\]
+多數元素週期表皆為二維的，\[120\]而三維的元素週期表最早可追溯至1862年（較門得列夫的二維週期表的1869年為早）。較晚出現的三維週期表包含库尔蒂纳的周期表分类(Courtines'
+Periodic Classification)（1925年）、\[121\] Wringley分层系统(Wringley's Lamina
+System) （1949年）、\[122\] 的螺旋型周期表(Periodic
+helix)（1965年）、\[123\]及杜福尔树状周期表(Dufour's
+Periodic
+Tree)（1996年）。\[124\]甚至有人曾建立出「四維」的週期表，如斯托（Stowe）的“物理学家的周期表”(Physicist's
+Periodic Table）（1989年）\[125\]就是一個例子，包含三個空間維度和一個色彩維度。\[126\]
 
-The various forms of periodic tables can be thought of as lying on a
-chemistry–physics continuum.\[127\] Towards the chemistry end of the
-continuum can be found, as an example, Rayner-Canham's "unruly"\[128\]
-Inorganic Chemist's Periodic Table (2002),\[129\] which emphasizes
-trends and patterns, and unusual chemical relationships and properties.
-Near the physics end of the continuum is 's Left-Step Periodic Table
-(1928). This has a structure that shows a closer connection to the order
-of electron-shell filling and, by association,
-[量子力学](../Page/量子力学.md "wikilink").\[130\] A somewhat
-similar approach has been taken by Alper,\[131\] albeit criticized by
-as disregarding the need to display chemical and physical
-periodicity.\[132\] Somewhere in the middle of the continuum is the
-ubiquitous common or standard form of periodic table. This is regarded
-as better expressing empirical trends in physical state, electrical and
-thermal conductivity, and oxidation numbers, and other properties easily
-inferred from traditional techniques of the chemical laboratory.\[133\]
-Its popularity is thought to be a result of this layout having a good
-balance of features in terms of ease of construction and size, and its
-depiction of atomic order and periodic trends.\[134\]\[135\]
+各式週期表可以依照其所強調的性質將他們分類到物理-化學光譜上。\[127\]例如在光譜上化學一端可以找到雷那・崁漢(Rayner
+Canham)的「不規矩」\[128\] 無機化學家的元素週期表(Inorganic Chemist's Periodic Table)
+(2002年)，\[129\]強調趨勢與規律，以及元素不尋常的化學關係與性質。接近物理一端則有的左階元素週期表（Left-Step
+Periodic Table） (1928年)。 This has a structure that shows a closer
+connection to the order of electron-shell filling and, by association,
+[量子力学](../Page/量子力学.md "wikilink").\[130\] A somewhat similar approach
+has been taken by Alper,\[131\] albeit criticized by  as disregarding
+the need to display chemical and physical periodicity.\[132\] Somewhere
+in the middle of the continuum is the ubiquitous common or standard form
+of periodic table. This is regarded as better expressing empirical
+trends in physical state, electrical and thermal conductivity, and
+oxidation numbers, and other properties easily inferred from traditional
+techniques of the chemical laboratory.\[133\] Its popularity is thought
+to be a result of this layout having a good balance of features in terms
+of ease of construction and size, and its depiction of atomic order and
+periodic trends.\[134\]\[135\]
 
 ## 争议与待解决的问题
 
@@ -364,28 +351,13 @@ al. (2006). *Shriver & Atkins Inorganic Chemistry* (4th ed.). Oxford:
 Oxford University Press • Myers et al. (2004). *Holt Chemistry*.
 Orlando: Holt, Rinehart & Winston •  (2000). *Essential Chemistry* (2nd
 ed.). Boston:
-McGraw-Hill|group=n}}有人提出这种布局随着依赖于元素的电子构型和区分电子的概念的周期表的出现而起源于20世纪40年代。
+McGraw-Hill|group=n}}有人提出，随着依赖于元素的电子构型和区分电子的概念的周期表的出现，这种布局起源于20世纪40年代。
 [铯](../Page/铯.md "wikilink")、[钡和镧的构型是](../Page/钡.md "wikilink")\[Xe\]6s<sup>1</sup>、\[Xe\]6s<sup>2</sup>和\[Xe\]5d<sup>1</sup>6s<sup>2</sup>。因此，镧具有5d分化电子，这使其“在第3组中作为第6周期的d区的第一个成员”。\[152\]
 然后在第3组中可以看到一组一致的电子构型： [钪](../Page/钪.md "wikilink")
 \[Ar\]3d<sup>1</sup>4s<sup>2</sup>、钇
-\[Kr\]4d<sup>1</sup>5s<sup>2</sup>和镧\[Xe\]5d<sup>1</sup>6s<sup>2</sup>。还是在第六周期中，[镱](../Page/镱.md "wikilink")
-was assigned an electron configuration of
-\[Xe\]4f<sup>13</sup>5d<sup>1</sup>6s<sup>2</sup> and
-[镥](../Page/镥.md "wikilink")
-\[Xe\]4f<sup>14</sup>5d<sup>1</sup>6s<sup>2</sup>, "resulting in a 4f
-differentiating electron for lutetium and firmly establishing it as the
-last member of the f-block for period 6".\[153\] Later  work found that
-the electron configuration of ytterbium was in fact
-\[Xe\]4f<sup>14</sup>6s<sup>2</sup>. This meant that ytterbium and
-lutetium—the latter with
-\[Xe\]4f<sup>14</sup>5d<sup>1</sup>6s<sup>2</sup>—both had 14
-f-electrons, "resulting in a d- rather than an f- differentiating
-electron" for lutetium and making it an "equally valid candidate" with
-\[Xe\]5d<sup>1</sup>6s<sup>2</sup> lanthanum, for the group 3 periodic
-table position below yttrium.\[154\] Lanthanum has the advantage of
-incumbency since the 5d<sup>1</sup> electron appears for the first time
-in its structure whereas it appears for the third time in lutetium,
-having also made a brief second appearance in gadolinium.\[155\]
+\[Kr\]4d<sup>1</sup>5s<sup>2</sup>和镧\[Xe\]5d<sup>1</sup>6s<sup>2</sup>。还是在第六周期中，[镱被赋予](../Page/镱.md "wikilink")\[Xe\]4f<sup>13</sup>5d<sup>1</sup>6s<sup>2</sup>的电子构型，而[镥为](../Page/镥.md "wikilink")\[Xe\]4f<sup>14</sup>5d<sup>1</sup>6s<sup>2</sup>，“导致4f的电子分化，并且将镥牢固地确定为第6周期的f-区块的最后一个成员”。\[153\]
+后来的发现，镱的电子构型实际上是\[Xe\]4f<sup>14</sup>6s<sup>2</sup>。这意味着镱和镥——后者为\[Xe\]4f<sup>14</sup>5d<sup>1</sup>6s<sup>2</sup>——都有14个f电子，对于镥来说“导致d-而不是f-分化电子”，使其成为钇下第3族周期表位的镧（\[Xe\]5d<sup>1</sup>6s<sup>2</sup>）的“同等有效候选者”。\[154\]
+镧具有在此位的优势，因为5d<sup>1</sup>电子在其结构中首次出现，而它在镥中第三次出现，也在钆中短暂地第二次出现。\[155\]
 
 In terms of chemical behaviour,\[156\] and trends going down group 3 for
 properties such as melting point, electronegativity and ionic
@@ -473,141 +445,91 @@ Chemistry* (3rd ed.). Harlow: Pearson Education • Halliday et al.
 Wiley & Sons • Nebergall et. al. (1980). *General Chemistry* (6th ed.).
 Lexington: D. C. Heath and Company|group=n}}
 
-### 过渡族元素
+### 过渡元素
 
-IUPAC对[过渡金属元素给出了定义](../Page/过渡金属.md "wikilink")，即an element whose atom
-has an incomplete d sub-shell, or which can give rise to cations with an
-incomplete d sub-shell.\[170\] By this definition all of the elements in
-groups 3–11 are transition metals. The IUPAC definition therefore
-excludes group 12, comprising zinc, cadmium and mercury, from the
-transition metals category.
+按照[IUPAC的定义](../Page/國際純化學和應用化學聯合會.md "wikilink")，[过渡金属](../Page/过渡金属.md "wikilink")（即过渡元素）是指其原子或阳离子含未充满的d亚层的元素。
+\[170\]
+此定义下，第3\~11族的元素是过渡金属，而[第12族的锌](../Page/12族元素.md "wikilink")、镉、汞和鿔不是。
 
-Some chemists treat the categories "[元素分区](../Page/元素分区.md "wikilink")
-elements" and "transition metals" interchangeably, thereby including
-groups 3–12 among the transition metals. In this instance the group 12
-elements are treated as a special case of transition metal in which the
-d electrons are not ordinarily involved in chemical bonding. The 2007
-report of [四氟化汞](../Page/四氟化汞.md "wikilink") (HgF<sub>4</sub>), a
-compound in which mercury would use its d electrons for bonding, has
-prompted some commentators to suggest that mercury can be regarded as a
-transition metal.\[171\] Other commentators, such as Jensen,\[172\] have
-argued that the formation of a compound like HgF<sub>4</sub> can occur
-only under highly abnormal conditions; indeed, its existence is
-currently disputed. As such, mercury could not be regarded as a
-transition metal by any reasonable interpretation of the ordinary
-meaning of the term.\[173\]
+部分化学家认为“[d区元素](https://zh.wikipedia.org/wiki/d区元素 "wikilink")”和“过渡金属”是同义词。按此定义，过渡金属包括3\~12列的所有元素。这时12族的元素就成了过渡金属中的特例——他们的d电子通常并不参与成键。
+2007年，有报告称在[四氟化汞](../Page/四氟化汞.md "wikilink")
+（HgF<sub>4</sub>）中，汞使用其d电子成键，部分人因而认为汞可被视为过渡元素。
+\[171\]
+也有人，如詹森，认为想HgF<sub>4</sub>这样的化合物只能在极端条件下存在——实际上其存在性尚有争议——因此汞在通常状况下不能被合理地视为过渡元素。.
+\[172\]
 
-Still other chemists further exclude the
-[3族元素s](../Page/3族元素.md "wikilink") from the definition of a
-transition metal. They do so on the basis that the group 3 elements do
-not form any ions having a partially occupied d shell and do not
-therefore exhibit any properties characteristic of transition metal
-chemistry.\[174\] In this case, only groups 4–11 are regarded as
-transition metals. Though the group 3 elements show few of the
-characteristic chemical properties of the transition metals, they do
-show some of their characteristic physical properties (on account of the
-presence in each atom of a single d electron).\[175\]
+还有部分化学家将[3族元素从过渡金属的定义中排除出去](../Page/3族元素.md "wikilink")。
+其理由是3族元素所形成的阳离子的d亚层是全空的（而典型的过渡金属则是部分填充的），因此3族元素没有表现出过渡金属特有的化学性质。
+\[173\]
+此时只有4\~11族被视为过渡金属。尽管3族元素的化学性质与典型的过渡金属不尽相同，他们的物理性质却较相似。（因其每个原子上有且仅有1个d电子）
+\[174\]
 
 ### 化学性质未知的元素
 
-Although all elements up to oganesson have been discovered, of the
-elements above [𨭆](../Page/𨭆.md "wikilink") (element 108), only
-[鎶](../Page/鎶.md "wikilink") (element 112),
-[鉨](https://zh.wikipedia.org/wiki/鉨 "wikilink") (element 113), and
-[鈇](../Page/鈇.md "wikilink") (element 114) have known chemical
-properties, and only for copernicium is there enough evidence for a
-conclusive categorisation at present. The other elements may behave
-differently from what would be predicted by extrapolation, due to
-[相对论量子化学](../Page/相对论量子化学.md "wikilink") effects; for
-example, flerovium has been predicted to possibly exhibit some
-noble-gas-like properties, even though it is currently placed in the
-[碳族元素](../Page/碳族元素.md "wikilink").\[176\] The current
-experimental evidence still leaves open the question of whether
-flerovium behaves more like a metal or a noble gas.\[177\]
+[鿫](../Page/鿫.md "wikilink")（118号）及其之前的元素均已发现，然而目前为止，在[𨭆](../Page/𨭆.md "wikilink")
+（108号）之后的10个元素中，我们只对[鎶](../Page/鎶.md "wikilink")（112号）、[鉨](https://zh.wikipedia.org/wiki/鉨 "wikilink")
+（113号）和[鈇](../Page/鈇.md "wikilink")（114号）的化学性质略知一二，而鿔是唯一足够了解，可以进行归类的元素。
+其他元素可能因[相对论效应而表现出与目前的预测](../Page/相对论量子化学.md "wikilink")（用[外推法得到](https://zh.wikipedia.org/wiki/外推 "wikilink")）不同的性质。
+例如，尽管𫓧位于[碳族](../Page/碳族元素.md "wikilink")，它被预测拥有与稀有气体类似的性质。 \[175\]
+但目前的观测尚不能确定𫓧的性质更接近金属还是稀有气体。 \[176\]
 
 ### 周期表的后续扩展
 
 <div style="float: right; margin-left: 20px; font-size:85%;">
 
+{{ Periodic table (micro)|number=172|caption=Periodic table with eight
+rows, extended to element 172 \[177\]。黑框標記的為172號元素的位置。 }}
+
 </div>
 
-It is unclear whether new elements will continue the pattern of the
-current periodic table as [扩展元素周期表](../Page/扩展元素周期表.md "wikilink"), or
-require further adaptations or adjustments.
-[格倫·西奧多·西博格](../Page/格倫·西奧多·西博格.md "wikilink")
-expected the eighth period to follow the previously established pattern
-exactly, so that it would include a two-element s-block for elements
-[Uue](../Page/Uue.md "wikilink") and [Ubn](../Page/Ubn.md "wikilink"), a
-new [扩展元素周期表](../Page/扩展元素周期表.md "wikilink") for the next 18 elements,
-and 30 additional elements continuing the current f-, d-, and p-blocks,
-culminating in element 168, the next noble gas.\[178\] More recently,
-physicists such as  have theorized that these additional elements do not
-follow the [構造原理](../Page/構造原理.md "wikilink"), which predicts how
-electron shells are filled and thus affects the appearance of the
-present periodic table. There are currently several competing
-theoretical models for the placement of the elements of atomic number
-less than or equal to 172. In all of these it is element 172, rather
-than element 168, that emerges as the next noble gas after oganesson,
-although these must be regarded as speculative as no complete
-calculations have been done beyond element 122.\[179\]
+目前并不确定第八周期的元素是否会延续现有的周期律。
+[西博格预计第八周期的元素会按现有规律](../Page/格倫·西奧多·西博格.md "wikilink")，
+[119号和](../Page/Uue.md "wikilink")[120号两个元素填充s区](../Page/Ubn.md "wikilink")，接下来的18个元素填充[g区](../Page/扩展元素周期表.md "wikilink")，后面的30个元素填充现有的f区、d区和p区，第八周期结束于下一个稀有气体，168号。
+\[178\]
+后来，物理学家等人建立了新理论，认为之后的元素不再满足现有的[構造原理](../Page/構造原理.md "wikilink")。
+现在对172号内的元素的电子排布有若干种彼此竞争的理论。
+不论如何，所有这些理论都预测下一个稀有气体元素并不是168号，而是172号。但所有这些多还只是推测，目前还没有对123号后的元素的详尽计算。
+\[179\]
 
 ### 原子序数最大的元素
 
-The number of possible elements is not known. A very early suggestion
-made by Elliot Adams in 1911, and based on the arrangement of elements
-in each horizontal periodic table row, was that elements of atomic
-weight greater than circa 256 (which would equate to between elements 99
-and 100 in modern-day terms) did not exist.\[180\] A higher—more
-recent—estimate is that the periodic table may end soon after the
-[稳定岛](../Page/稳定岛.md "wikilink"),\[181\] which is expected to
-centre around [扩展元素周期表](../Page/扩展元素周期表.md "wikilink"), as the extension
-of the periodic and nuclides tables is restricted by proton and neutron
-[原子核滴线](https://zh.wikipedia.org/wiki/原子核滴线 "wikilink").\[182\] Other
-predictions of an end to the periodic table include at element 128 by
-[约翰·埃姆斯利](../Page/约翰·埃姆斯利.md "wikilink"),\[183\] at element 137 by
-[理查德·費曼](../Page/理查德·費曼.md "wikilink"),\[184\] and at element 155 by
-Albert Khazan.\[185\]{{\#tag:ref|Karol (2002, p. 63) contends that
-gravitational effects would become significant when atomic numbers
-become astronomically large, thereby overcoming other super-massive
-nuclei instability phenomena, and that [中子星s](../Page/中子星.md "wikilink")
-(with atomic numbers on the order of 10<sup>21</sup>) can arguably be
-regarded as representing the heaviest known elements in the universe.
-See: Karol P. J. (2002). "The Mendeleev–Seaborg periodic table: Through
-Z = 1138 and beyond". *Journal of Chemical Education* **79** (1):
-60–63.|group=n}}
+尚不确定所有可能的元素的总数。 早在1911年，亚当斯(Elliot
+Adams)就基于每个周期中元素的排布给出了一种估计：原子质量在256以上（约相当于原子序数99\~100）的元素无法存在。
+\[180\] 后来有了更高的推测：元素周期表可能在[稳定岛后不久结束](../Page/稳定岛.md "wikilink")。 \[181\]
+（所谓稳定岛是指以[126号元素Ubh为中心的](../Page/扩展元素周期表.md "wikilink")、被质子[滴线和中子滴线所限制的](https://zh.wikipedia.org/wiki/原子核滴线 "wikilink")，周期表和[核素表的扩展](https://zh.wikipedia.org/wiki/核素表 "wikilink")。）
+\[182\] 其他关于周期表终点的预测包括：
+128号（[约翰·埃姆斯利](../Page/约翰·埃姆斯利.md "wikilink")）\[183\]；
+137号（[理查德·費曼](../Page/理查德·費曼.md "wikilink")）\[184\]； 146号（Yogendra
+Gambhir）；\[185\] 155号（艾伯特·卡赞，Albert Khazan）。\[186\]{{\#tag:ref|Karol
+(2002, p. 63) contends that gravitational effects would become
+significant when atomic numbers become astronomically large, thereby
+overcoming other super-massive nuclei instability phenomena, and that
+[中子星s](../Page/中子星.md "wikilink") (with atomic numbers on the order
+of 10<sup>21</sup>) can arguably be regarded as representing the
+heaviest known elements in the universe. See: Karol P. J. (2002). "The
+Mendeleev–Seaborg periodic table: Through Z=1138 and beyond". *Journal
+of Chemical Education* **79** (1): 60–63.|group=n}}
 
-  - 玻尔模型
+#### 玻尔模型
 
-The [玻尔模型](../Page/玻尔模型.md "wikilink") exhibits difficulty for atoms
-with atomic number greater than 137, as any element with an atomic
-number greater than 137 would require 1s electrons to be travelling
-faster than *c*, the [光速](../Page/光速.md "wikilink").\[186\] Hence the
-non-relativistic Bohr model is inaccurate when applied to such an
-element.
+非[相对论性的](../Page/狭义相对论.md "wikilink")[玻尔模型对](../Page/玻尔模型.md "wikilink")137号以上的元素失效，因为此处1s电子的速率超过了[光速](../Page/光速.md "wikilink")。\[187\]
+因此波尔模型对这些元素并不准确。
 
-  - Relativistic Dirac equation
+#### 狄拉克方程
 
-The [相对论](../Page/相对论.md "wikilink") Dirac equation has problems for
-elements with more than 137 protons. For such elements, the wave
-function of the Dirac ground state is oscillatory rather than bound, and
-there is no gap between the positive and negative energy spectra, as in
-the .\[187\] More accurate calculations taking into account the effects
-of the finite size of the nucleus indicate that the binding energy first
-exceeds the limit for elements with more than 173 protons. For heavier
-elements, if the innermost orbital (1s) is not filled, the electric
-field of the nucleus will pull an electron out of the vacuum, resulting
-in the [正电子发射](../Page/正电子发射.md "wikilink").\[188\] This does not happen
-if the innermost orbital is filled, so that element 173 is not
-necessarily the end of the periodic table.\[189\]
+相对论性的狄拉克方程不适用于有多于137个质子的元素。这些元素的基态的波函数震荡（oscillatory）而非[束缚](https://zh.wikipedia.org/wiki/束缚态 "wikilink")，其正负能谱是连续的。这称为。
+\[188\] 更精确的、考虑到了原子核尺寸的计算显示结合能在有超过173个质子的原子中超过上限。
+如果更重的原子的最内层轨道中没有电子，原子核的电场将从真空中创造出电子，并[发射出正电子](../Page/正电子发射.md "wikilink")。
+\[189\] 不过如果1s轨道被电子填充，这就不会发生，因此173号元素不一定是元素周期表的终点。 \[190\]
 
 ### 最优排列方式
 
-各种不同格式的周期表使人们产生了以下问题：是否存在一个最理想的或有确切格式的周期表。\[190\]
+各种不同格式的周期表使人们产生了以下问题：是否存在一个最理想的或有确切格式的周期表。\[191\]
 一般认为，这个问题的答案取决于元素的化学周期性是否基于某种规则，与宇宙的联系是否紧密高效，或者说这些周期性都只是基于人类观察者的环境、信仰和偏好所主观解释的产物。化学周期性的一个客观标准将解决有关氢和氦的位置与III族组成的问题。这种未被证实的理论即使存在也被认为仍未被发现。在其缺失的情况下，各种不同格式的周期表可以看作是化学周期性主题的变化，每一种周期表都探究并强调了这些元素之间特征、性质、属性和关系的不同。{{\#tag:ref|,
 one of the foremost authorities on the history of the periodic
-table,\[191\] favoured the concept of an optimal form of periodic table
+table,\[192\] favoured the concept of an optimal form of periodic table
 but has recently changed his mind and now supports the value of a
-plurality of periodic tables.\[192\]|group=n}}
+plurality of periodic tables.\[193\]|group=n}}
 
 ## 请参阅
 
@@ -998,9 +920,10 @@ plurality of periodic tables.\[192\]|group=n}}
 172.
 
 173.
-174.
 
-175. Greenwood & Earnshaw, p. 947
+174. Greenwood & Earnshaw, p. 947
+
+175.
 
 176.
 
@@ -1019,15 +942,17 @@ plurality of periodic tables.\[192\]|group=n}}
 183.
 184.
 185.
-186.
 
+186.
 187.
 
-188. , and references therein.
+188.
 
-189.
+189. , and references therein.
 
 190.
-191.
 
+191.
 192.
+
+193.

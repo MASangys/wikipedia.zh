@@ -163,10 +163,31 @@
 </tr>
 <tr class="even">
 <td><p>6月3日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Sing_Out!" title="wikilink">Sing Out! (Special Edition)</a></p></td>
+<td><p><a href="../Page/Sing_Out!.md" title="wikilink">Sing Out! (Special Edition)</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/乃木坂46" title="wikilink">乃木坂46</a></p></td>
 <td><p>0.4</p></td>
 <td><p>[18]</p></td>
+</tr>
+<tr class="odd">
+<td><p>6月10日</p></td>
+<td></td>
+<td><p><a href="../Page/椎名林檎.md" title="wikilink">椎名林檎</a></p></td>
+<td><p>0.9</p></td>
+<td><p>[19]</p></td>
+</tr>
+<tr class="even">
+<td><p>6月17日</p></td>
+<td></td>
+<td><p><a href="../Page/艾維奇.md" title="wikilink">艾維奇</a></p></td>
+<td><p>0.5</p></td>
+<td><p>[20]</p></td>
+</tr>
+<tr class="odd">
+<td><p>6月24日</p></td>
+<td><p>True Colors</p></td>
+<td><p><a href="../Page/鄭允浩.md" title="wikilink">U-KNOW</a></p></td>
+<td><p>0.3</p></td>
+<td><p>[21]</p></td>
 </tr>
 </tbody>
 </table>
@@ -213,3 +234,8 @@
 17. [菅田将暉、米津玄師プロデュース曲で初のデジタル1位「自分の曲にすることが一生涯の務め」【オリコンランキング】](https://www.oricon.co.jp/news/2135950/full/)
 18. [乃木坂46、デジタルALが自身初の1位
     シングルでは菅田将暉が2週連続首位【オリコンランキング】](https://www.oricon.co.jp/news/2136420/full/)
+19. [6/10付週間デジタルシングル(単曲)ランキング1位は菅田将暉の「まちがいさがし」](https://www.oricon.co.jp/news/2136975/)
+20. [アヴィーチーさん、アルバム通算2作目の1位
+    坂本九さん「上を向いて歩こう」サンプリング楽曲も収録【オリコンランキング】](https://www.oricon.co.jp/news/2137419/)
+21. [東方神起・ユンホ、デジタルALが1位
+    米津玄師がデジタルSGで2週連続1位【オリコンランキング】](https://www.oricon.co.jp/news/2137973/)

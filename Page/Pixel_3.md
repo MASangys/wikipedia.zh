@@ -3,7 +3,7 @@ XL**是由[Google於](../Page/Google.md "wikilink")2018年10月9日發佈的[And
 2和Pixel 2
 XL的后继机型](../Page/Pixel_2.md "wikilink")\[1\]\[2\]。2019年5月7日，Google在I/O大会公布了Pixel
 3的中端机型[Pixel 3a和Pixel 3a
-XL](https://zh.wikipedia.org/wiki/Pixel_3a "wikilink")，这两款手机于同日在美国发售\[3\]\[4\]。
+XL](../Page/Pixel_3a.md "wikilink")，这两款手机于同日在美国发售\[3\]\[4\]。
 
 ## 参考文献
 

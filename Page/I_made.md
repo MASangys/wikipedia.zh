@@ -34,8 +34,6 @@ made](../Page/I_made.md "wikilink")》全輯音源及主打《Senorita》，並�
 
 ### 音源榜排行
 
-  - 2017年5月15日開始，iChart將移除Olleh Music、Monkey3的計分，Naver 比分雙倍。
-
 <table>
 <tbody>
 <tr class="odd">
@@ -123,7 +121,7 @@ made](../Page/I_made.md "wikilink")》全輯音源及主打《Senorita》，並�
 <li>「[1]」：三星期冠軍</li>
 </ul>
 <ul>
-<li>取得《M! Countdown》、《人氣歌謠》及《Show Champion》三週一位後，排名自動除外</li>
+<li>取得《THE SHOW》、《Show Champion》、《M Countdown》、及《人氣歌謠》三週一位後，排名自動除外</li>
 </ul></td>
 </tr>
 </tbody>

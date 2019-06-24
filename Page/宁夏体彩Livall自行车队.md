@@ -1,8 +1,10 @@
-**宁夏体彩Livall高士特自行车队**（），是一支[中国](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")[公路自行车队](https://zh.wikipedia.org/wiki/公路自行车 "wikilink")，在[国际自行车联盟级別中属](https://zh.wikipedia.org/wiki/国际自行车联盟 "wikilink")[亞洲洲际车队](../Page/UCI洲際巡迴賽.md "wikilink")。
+**宁夏体彩Livall高士特自行车队**（），是一支[中国](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")[公路自行车队](https://zh.wikipedia.org/wiki/公路自行车 "wikilink")，在[国际自行车联盟级別中属](https://zh.wikipedia.org/wiki/国际自行车联盟 "wikilink")[亞洲洲际车队](../Page/UCI洲際巡迴賽.md "wikilink")\[1\]。
 
 ## 队员名单
 
 ### 2019年
+
+  - 尤利明于2019年5月20日起加入。
 
 ### 2018年
 
@@ -16,6 +18,8 @@
 
     [环辛卡拉克公路自行车赛第](https://zh.wikipedia.org/wiki/环辛卡拉克公路自行车赛 "wikilink")2赛段（[亚历山大·波罗沃达](https://zh.wikipedia.org/wiki/亚历山大·波罗沃达 "wikilink")）
 
+## 参考资料
+
 ## 外部链接
 
   - [宁夏体彩Livall高士特自行车队
@@ -26,3 +30,6 @@
 [Category:UCI洲際車隊](https://zh.wikipedia.org/wiki/Category:UCI洲際車隊 "wikilink")
 [Category:中国自行车队](https://zh.wikipedia.org/wiki/Category:中国自行车队 "wikilink")
 [Category:宁夏体育](https://zh.wikipedia.org/wiki/Category:宁夏体育 "wikilink")
+
+1.  [Ningxia Sports Lottery - Livall Cycling
+    team](https://www.procyclingstats.com/team/2458)

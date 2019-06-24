@@ -119,7 +119,7 @@ PROJECT NOTE2. 2019》演唱會。\[2\]
 <td><p>專輯</p></td>
 </tr>
 <tr class="even">
-<td><p>2018年</p></td>
+<td><p>2019年</p></td>
 </tr>
 <tr class="odd">
 <td><p>FLY HIGH PROJECT #2 'ROOFTOP'</p></td>

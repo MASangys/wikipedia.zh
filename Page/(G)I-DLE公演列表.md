@@ -33,17 +33,18 @@
 | 11月4日  |
 | 11月23日 |
 
-| 2019年  |
-| ------ |
-| 演出日期   |
-| 2月3日   |
-| 3月1日   |
-| 3月5日   |
-| 3月23日  |
-| 5月18日  |
-| 5月26日  |
-| 7月6/7日 |
-| 9月     |
+| 2019年 |
+| ----- |
+| 演出日期  |
+| 2月3日  |
+| 3月1日  |
+| 3月5日  |
+| 3月23日 |
+| 5月18日 |
+| 5月26日 |
+| 7月7日  |
+| 9月1日  |
+| 9月    |
 
 ## 公演活动
 
@@ -206,8 +207,20 @@
 </tr>
 <tr class="even">
 <td><p>6月8日</p></td>
-<td><p>世界咖啡庆典</p></td>
-<td><p><a href="../Page/加平郡.md" title="wikilink">加平鳖岛</a></p></td>
+<td><p>第10届儿童糖尿病日纪念庆典</p></td>
+<td><p>首尔<a href="../Page/乐天世界.md" title="wikilink">乐天世界</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>6月9日</p></td>
+<td><p>第14届亚洲模特奖颁奖典礼</p></td>
+<td><p>首尔<a href="https://zh.wikipedia.org/wiki/奥林匹克公园_(首尔)" title="wikilink">奥林匹克公园</a></p></td>
+<td><p>2019年6月9日BeMyTV</p></td>
+</tr>
+<tr class="even">
+<td><p>6月15日</p></td>
+<td><p>K-pop Artist Festival</p></td>
+<td><p><a href="../Page/果川市.md" title="wikilink">果川</a><a href="https://zh.wikipedia.org/wiki/首尔大公园" title="wikilink">首尔大公园东门</a></p></td>
 <td></td>
 </tr>
 </tbody>

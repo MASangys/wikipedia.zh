@@ -101,7 +101,7 @@ LOHAS對開的日出康城5期[MALIBU基座設有永久的公共運輸交匯處]
 ## 有蓋行人通道網絡
 
 日出康城全區建有24小時開放的有蓋行人通道網絡，現時已經局部落成；全數住宅落成後，整個行人通道網絡將以港鐵[康城站及大型商場](https://zh.wikipedia.org/wiki/康城站 "wikilink")[THE
-LOHAS為中心](https://zh.wikipedia.org/wiki/THE_LOHAS "wikilink")，連接各座住宅大廈及區內公園及其他設施。這可以讓所有日出康城住客無需擔心日曬雨淋，而且避免過馬路，達致“人車分隔”的城市設計理念。而第7期([MONTARA](../Page/MONTARA.md "wikilink"))、第11期及第12期住宅由於位處港鐵商場上蓋，因此無需經行人天橋連接，可以由獨立住宅大堂直達商場及港鐵站。
+LOHAS為中心](../Page/THE_LOHAS.md "wikilink")，連接各座住宅大廈及區內公園及其他設施。這可以讓所有日出康城住客無需擔心日曬雨淋，而且避免過馬路，達致“人車分隔”的城市設計理念。而第7期([MONTARA](../Page/MONTARA.md "wikilink"))、第11期及第12期住宅由於位處港鐵商場上蓋，因此無需經行人天橋連接，可以由獨立住宅大堂直達商場及港鐵站。
 
 [LOHAS_Park_Temporary_Access_200908.jpg](https://zh.wikipedia.org/wiki/File:LOHAS_Park_Temporary_Access_200908.jpg "fig:LOHAS_Park_Temporary_Access_200908.jpg")連接康城站的24小時臨時有蓋行人通道\]\]
 THE LOHAS落成後，將設7條24小時有蓋行人通道，分別前往：

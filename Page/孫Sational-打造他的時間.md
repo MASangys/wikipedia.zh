@@ -31,7 +31,7 @@
 </tr>
 <tr class="even">
 <td><p>所有節目</p></td>
-<td><p>綜藝節目</p></td>
+<td><p>時事教養</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -42,17 +42,17 @@
 <tr class="even">
 <td><p>2</p></td>
 <td><p>2019/06/07</p></td>
-<td><p>%</p></td>
+<td><p>3.260%</p></td>
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
 <td><p>2019/06/14</p></td>
-<td><p>%</p></td>
+<td><p>2.554%</p></td>
 </tr>
 <tr class="even">
 <td><p>4</p></td>
 <td><p>2019/06/21</p></td>
-<td><p>%</p></td>
+<td><p>2.188%</p></td>
 </tr>
 <tr class="odd">
 <td><p>5</p></td>

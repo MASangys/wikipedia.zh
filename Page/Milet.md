@@ -44,7 +44,7 @@ SECL-2400（普通盘）</p></td>
 <td><p>SECL-2431～2432（首发限量盘）<br />
 SECL-2433（普通盘）<br />
 SECL-2434～2435（期間限量盘）</p></td>
-<td><p>TBA</p></td>
+<td><p>18位</p></td>
 </tr>
 </tbody>
 </table>

@@ -1,5 +1,5 @@
 **UMB世界三顆星國家隊錦標賽**（UMB World Three-cushion Championship for National
-Teams），是一個[開侖撞球職業錦標賽](../Page/開侖.md "wikilink")，採取[三顆星賽制](../Page/三顆星.md "wikilink")，由兩名選手組成國家隊。前三屆的比賽地點與時間並未固定，其後[世界撞球聯盟](https://zh.wikipedia.org/wiki/世界撞球聯盟 "wikilink")（UMB）決定改為每年一次，並且固定在[德國的](https://zh.wikipedia.org/wiki/德國 "wikilink")[菲爾森舉辦](../Page/菲爾森.md "wikilink")。
+Teams），是一個[開侖撞球職業錦標賽](../Page/開侖.md "wikilink")，採取[三顆星賽制](../Page/三顆星.md "wikilink")，由兩名選手組成國家隊。前三屆的比賽地點與時間並未固定，其後[世界撞球聯盟](../Page/世界撞球聯盟.md "wikilink")（UMB）決定改為每年一次，並且固定在[德國的](https://zh.wikipedia.org/wiki/德國 "wikilink")[菲爾森舉辦](../Page/菲爾森.md "wikilink")。
 
 ## 各屆優勝名單
 
@@ -35,14 +35,14 @@ Teams），是一個[開侖撞球職業錦標賽](../Page/開侖.md "wikilink")�
 <a href="https://zh.wikipedia.org/wiki/小森純一" title="wikilink">小森純一</a></p></td>
 <td><p>1.311</p></td>
 <td><p><br />
-<a href="https://zh.wikipedia.org/wiki/托比昂·布隆達爾" title="wikilink">托比昂·布隆達爾</a><br />
+<a href="../Page/托比昂·布隆達爾.md" title="wikilink">托比昂·布隆達爾</a><br />
 <a href="https://zh.wikipedia.org/wiki/連納特·布隆達爾" title="wikilink">連納特·布隆達爾</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1987</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/馬德里" title="wikilink">馬德里</a></p></td>
 <td><p><br />
-<a href="https://zh.wikipedia.org/wiki/托比昂·布隆達爾" title="wikilink">托比昂·布隆達爾</a><br />
+<a href="../Page/托比昂·布隆達爾.md" title="wikilink">托比昂·布隆達爾</a><br />
 <a href="https://zh.wikipedia.org/wiki/連納特·布隆達爾" title="wikilink">連納特·布隆達爾</a></p></td>
 <td><p>1.017</p></td>
 <td><p><br />
@@ -57,14 +57,14 @@ Teams），是一個[開侖撞球職業錦標賽](../Page/開侖.md "wikilink")�
 <a href="https://zh.wikipedia.org/wiki/吉原良男" title="wikilink">吉原良男</a></p></td>
 <td><p>1.114</p></td>
 <td><p><br />
-<a href="https://zh.wikipedia.org/wiki/托比昂·布隆達爾" title="wikilink">托比昂·布隆達爾</a><br />
+<a href="../Page/托比昂·布隆達爾.md" title="wikilink">托比昂·布隆達爾</a><br />
 <a href="https://zh.wikipedia.org/wiki/連納特·布隆達爾" title="wikilink">連納特·布隆達爾</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1991</p></td>
 <td><p><a href="../Page/菲爾森.md" title="wikilink">菲爾森</a></p></td>
 <td><p><br />
-<a href="https://zh.wikipedia.org/wiki/托比昂·布隆達爾" title="wikilink">托比昂·布隆達爾</a><br />
+<a href="../Page/托比昂·布隆達爾.md" title="wikilink">托比昂·布隆達爾</a><br />
 <a href="https://zh.wikipedia.org/wiki/連納特·布隆達爾" title="wikilink">連納特·布隆達爾</a></p></td>
 <td><p>1.246</p></td>
 <td><p><br />
@@ -146,7 +146,7 @@ Teams），是一個[開侖撞球職業錦標賽](../Page/開侖.md "wikilink")�
 <td><p>1.540</p></td>
 <td><p><br />
 <a href="https://zh.wikipedia.org/wiki/哈維爾·明奎爾" title="wikilink">哈維爾·明奎爾</a><br />
-<a href="https://zh.wikipedia.org/wiki/丹尼爾·桑切斯" title="wikilink">丹尼爾·桑切斯</a></p></td>
+<a href="../Page/丹尼爾·桑切斯.md" title="wikilink">丹尼爾·桑切斯</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1999</p></td>
@@ -156,14 +156,14 @@ Teams），是一個[開侖撞球職業錦標賽](../Page/開侖.md "wikilink")�
 <a href="../Page/狄克·雅斯柏斯.md" title="wikilink">狄克·雅斯柏斯</a></p></td>
 <td><p>1.478</p></td>
 <td><p><br />
-<a href="https://zh.wikipedia.org/wiki/托比昂·布隆達爾" title="wikilink">托比昂·布隆達爾</a><br />
+<a href="../Page/托比昂·布隆達爾.md" title="wikilink">托比昂·布隆達爾</a><br />
 <a href="https://zh.wikipedia.org/wiki/麥可·尼爾森" title="wikilink">麥可·尼爾森</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2000</p></td>
 <td><p><a href="../Page/菲爾森.md" title="wikilink">菲爾森</a></p></td>
 <td><p><br />
-<a href="https://zh.wikipedia.org/wiki/托比昂·布隆達爾" title="wikilink">托比昂·布隆達爾</a><br />
+<a href="../Page/托比昂·布隆達爾.md" title="wikilink">托比昂·布隆達爾</a><br />
 <a href="https://zh.wikipedia.org/wiki/麥可·尼爾森" title="wikilink">麥可·尼爾森</a></p></td>
 <td><p>1.553</p></td>
 <td><p><br />
@@ -174,7 +174,7 @@ Teams），是一個[開侖撞球職業錦標賽](../Page/開侖.md "wikilink")�
 <td><p>2001</p></td>
 <td><p><a href="../Page/菲爾森.md" title="wikilink">菲爾森</a></p></td>
 <td><p><br />
-<a href="https://zh.wikipedia.org/wiki/托比昂·布隆達爾" title="wikilink">托比昂·布隆達爾</a><br />
+<a href="../Page/托比昂·布隆達爾.md" title="wikilink">托比昂·布隆達爾</a><br />
 <a href="https://zh.wikipedia.org/wiki/麥可·尼爾森" title="wikilink">麥可·尼爾森</a></p></td>
 <td><p>1.546</p></td>
 <td><p><br />
@@ -196,8 +196,8 @@ Teams），是一個[開侖撞球職業錦標賽](../Page/開侖.md "wikilink")�
 <td><p>2003</p></td>
 <td><p><a href="../Page/菲爾森.md" title="wikilink">菲爾森</a></p></td>
 <td><p><br />
-<a href="https://zh.wikipedia.org/wiki/塞米赫·賽吉納" title="wikilink">塞米赫·賽吉納</a><br />
-<a href="https://zh.wikipedia.org/wiki/泰范·塔什德米爾" title="wikilink">泰范·塔什德米爾</a></p></td>
+<a href="../Page/塞米赫·賽吉納.md" title="wikilink">塞米赫·賽吉納</a><br />
+<a href="../Page/泰范·塔什德米爾.md" title="wikilink">泰范·塔什德米爾</a></p></td>
 <td><p>1.412</p></td>
 <td><p><br />
 <a href="https://zh.wikipedia.org/wiki/菲利普斯·卡西多寇斯塔斯" title="wikilink">菲利普斯·卡西多寇斯塔斯</a><br />
@@ -214,8 +214,8 @@ Teams），是一個[開侖撞球職業錦標賽](../Page/開侖.md "wikilink")�
 <td><p>2004</p></td>
 <td><p><a href="../Page/菲爾森.md" title="wikilink">菲爾森</a></p></td>
 <td><p><br />
-<a href="https://zh.wikipedia.org/wiki/塞米赫·賽吉納" title="wikilink">塞米赫·賽吉納</a><br />
-<a href="https://zh.wikipedia.org/wiki/泰范·塔什德米爾" title="wikilink">泰范·塔什德米爾</a></p></td>
+<a href="../Page/塞米赫·賽吉納.md" title="wikilink">塞米赫·賽吉納</a><br />
+<a href="../Page/泰范·塔什德米爾.md" title="wikilink">泰范·塔什德米爾</a></p></td>
 <td><p>1.514</p></td>
 <td><p><br />
 <a href="https://zh.wikipedia.org/wiki/弗雷德里克·高德隆" title="wikilink">弗雷德里克·高德隆</a><br />
@@ -234,7 +234,7 @@ Teams），是一個[開侖撞球職業錦標賽](../Page/開侖.md "wikilink")�
 <td><p>2005</p></td>
 <td><p><a href="../Page/菲爾森.md" title="wikilink">菲爾森</a></p></td>
 <td><p><br />
-<a href="https://zh.wikipedia.org/wiki/托比昂·布隆達爾" title="wikilink">托比昂·布隆達爾</a><br />
+<a href="../Page/托比昂·布隆達爾.md" title="wikilink">托比昂·布隆達爾</a><br />
 <a href="https://zh.wikipedia.org/wiki/麥可·尼爾森" title="wikilink">麥可·尼爾森</a></p></td>
 <td><p>1.414</p></td>
 <td><p><br />
@@ -254,7 +254,7 @@ Teams），是一個[開侖撞球職業錦標賽](../Page/開侖.md "wikilink")�
 <td><p>2006</p></td>
 <td><p><a href="../Page/菲爾森.md" title="wikilink">菲爾森</a></p></td>
 <td><p><br />
-<a href="https://zh.wikipedia.org/wiki/托比昂·布隆達爾" title="wikilink">托比昂·布隆達爾</a><br />
+<a href="../Page/托比昂·布隆達爾.md" title="wikilink">托比昂·布隆達爾</a><br />
 <a href="https://zh.wikipedia.org/wiki/麥可·尼爾森" title="wikilink">麥可·尼爾森</a></p></td>
 <td><p>1.421</p></td>
 <td><p><br />
@@ -263,7 +263,7 @@ Teams），是一個[開侖撞球職業錦標賽](../Page/開侖.md "wikilink")�
 </tr>
 <tr class="even">
 <td><p><br />
-<a href="https://zh.wikipedia.org/wiki/塞米赫·賽吉納" title="wikilink">塞米赫·賽吉納</a><br />
+<a href="../Page/塞米赫·賽吉納.md" title="wikilink">塞米赫·賽吉納</a><br />
 <a href="https://zh.wikipedia.org/wiki/艾德南·尤克塞爾" title="wikilink">艾德南·尤克塞爾</a></p></td>
 <td><p>1.531</p></td>
 <td></td>
@@ -274,7 +274,7 @@ Teams），是一個[開侖撞球職業錦標賽](../Page/開侖.md "wikilink")�
 <td><p>2007</p></td>
 <td><p><a href="../Page/菲爾森.md" title="wikilink">菲爾森</a></p></td>
 <td><p><br />
-<a href="https://zh.wikipedia.org/wiki/托比昂·布隆達爾" title="wikilink">托比昂·布隆達爾</a><br />
+<a href="../Page/托比昂·布隆達爾.md" title="wikilink">托比昂·布隆達爾</a><br />
 <a href="https://zh.wikipedia.org/wiki/麥可·尼爾森" title="wikilink">麥可·尼爾森</a></p></td>
 <td><p>1.537</p></td>
 <td><p><br />
@@ -294,7 +294,7 @@ Teams），是一個[開侖撞球職業錦標賽](../Page/開侖.md "wikilink")�
 <td><p>2008</p></td>
 <td><p><a href="../Page/菲爾森.md" title="wikilink">菲爾森</a></p></td>
 <td><p><br />
-<a href="https://zh.wikipedia.org/wiki/托比昂·布隆達爾" title="wikilink">托比昂·布隆達爾</a><br />
+<a href="../Page/托比昂·布隆達爾.md" title="wikilink">托比昂·布隆達爾</a><br />
 <a href="https://zh.wikipedia.org/wiki/麥可·尼爾森" title="wikilink">麥可·尼爾森</a></p></td>
 <td><p>1.664</p></td>
 <td><p><br />
@@ -304,7 +304,7 @@ Teams），是一個[開侖撞球職業錦標賽](../Page/開侖.md "wikilink")�
 <tr class="even">
 <td><p><br />
 <a href="https://zh.wikipedia.org/wiki/里卡多·加齊亞" title="wikilink">里卡多·加齊亞</a><br />
-<a href="https://zh.wikipedia.org/wiki/丹尼爾·桑切斯" title="wikilink">丹尼爾·桑切斯</a></p></td>
+<a href="../Page/丹尼爾·桑切斯.md" title="wikilink">丹尼爾·桑切斯</a></p></td>
 <td><p>1.549</p></td>
 <td></td>
 <td></td>
@@ -314,12 +314,12 @@ Teams），是一個[開侖撞球職業錦標賽](../Page/開侖.md "wikilink")�
 <td><p>2009</p></td>
 <td><p><a href="../Page/菲爾森.md" title="wikilink">菲爾森</a></p></td>
 <td><p><br />
-<a href="https://zh.wikipedia.org/wiki/托比昂·布隆達爾" title="wikilink">托比昂·布隆達爾</a><br />
+<a href="../Page/托比昂·布隆達爾.md" title="wikilink">托比昂·布隆達爾</a><br />
 <a href="https://zh.wikipedia.org/wiki/麥可·尼爾森" title="wikilink">麥可·尼爾森</a></p></td>
 <td><p>1.769</p></td>
 <td><p><br />
 <a href="https://zh.wikipedia.org/wiki/羅蘭·佛索米" title="wikilink">羅蘭·佛索米</a><br />
-<a href="https://zh.wikipedia.org/wiki/艾迪·莫克斯_(撞球運動員)" title="wikilink">艾迪·莫克斯</a></p></td>
+<a href="../Page/艾迪·莫克斯_(撞球運動員).md" title="wikilink">艾迪·莫克斯</a></p></td>
 </tr>
 <tr class="even">
 <td><p><br />
@@ -334,12 +334,12 @@ Teams），是一個[開侖撞球職業錦標賽](../Page/開侖.md "wikilink")�
 <td><p>2010</p></td>
 <td><p><a href="../Page/菲爾森.md" title="wikilink">菲爾森</a></p></td>
 <td><p><br />
-<a href="https://zh.wikipedia.org/wiki/穆拉特·納齊·喬克魯" title="wikilink">穆拉特·納齊·喬克魯</a><br />
+<a href="../Page/穆拉特·納齊·喬克魯.md" title="wikilink">穆拉特·納齊·喬克魯</a><br />
 <a href="https://zh.wikipedia.org/wiki/艾德南·尤克塞爾" title="wikilink">艾德南·尤克塞爾</a></p></td>
 <td><p>1.689</p></td>
 <td><p><br />
 <a href="https://zh.wikipedia.org/wiki/魯本·列加茲皮" title="wikilink">魯本·列加茲皮</a><br />
-<a href="https://zh.wikipedia.org/wiki/丹尼爾·桑切斯" title="wikilink">丹尼爾·桑切斯</a></p></td>
+<a href="../Page/丹尼爾·桑切斯.md" title="wikilink">丹尼爾·桑切斯</a></p></td>
 </tr>
 <tr class="even">
 <td><p><br />
@@ -355,11 +355,11 @@ Teams），是一個[開侖撞球職業錦標賽](../Page/開侖.md "wikilink")�
 <td><p><a href="../Page/菲爾森.md" title="wikilink">菲爾森</a></p></td>
 <td><p><br />
 <a href="https://zh.wikipedia.org/wiki/呂特菲·切內特" title="wikilink">呂特菲·切內特</a><br />
-<a href="https://zh.wikipedia.org/wiki/泰范·塔什德米爾" title="wikilink">泰范·塔什德米爾</a></p></td>
+<a href="../Page/泰范·塔什德米爾.md" title="wikilink">泰范·塔什德米爾</a></p></td>
 <td><p>1.510</p></td>
 <td><p><br />
 <a href="https://zh.wikipedia.org/wiki/艾迪·列朋斯" title="wikilink">艾迪·列朋斯</a><br />
-<a href="https://zh.wikipedia.org/wiki/艾迪·莫克斯_(撞球運動員)" title="wikilink">艾迪·莫克斯</a></p></td>
+<a href="../Page/艾迪·莫克斯_(撞球運動員).md" title="wikilink">艾迪·莫克斯</a></p></td>
 </tr>
 <tr class="even">
 <td><p><br />
@@ -375,7 +375,7 @@ Teams），是一個[開侖撞球職業錦標賽](../Page/開侖.md "wikilink")�
 <td><p><a href="../Page/菲爾森.md" title="wikilink">菲爾森</a></p></td>
 <td><p><br />
 <a href="https://zh.wikipedia.org/wiki/弗雷德里克·高德隆" title="wikilink">弗雷德里克·高德隆</a><br />
-<a href="https://zh.wikipedia.org/wiki/艾迪·莫克斯_(撞球運動員)" title="wikilink">艾迪·莫克斯</a></p></td>
+<a href="../Page/艾迪·莫克斯_(撞球運動員).md" title="wikilink">艾迪·莫克斯</a></p></td>
 <td><p>1.884</p></td>
 <td><p><br />
 <a href="https://zh.wikipedia.org/wiki/史蒂凡·加拉" title="wikilink">史蒂凡·加拉</a><br />
@@ -395,7 +395,7 @@ Teams），是一個[開侖撞球職業錦標賽](../Page/開侖.md "wikilink")�
 <td><p><a href="../Page/菲爾森.md" title="wikilink">菲爾森</a></p></td>
 <td><p><br />
 <a href="https://zh.wikipedia.org/wiki/弗雷德里克·高德隆" title="wikilink">弗雷德里克·高德隆</a><br />
-<a href="https://zh.wikipedia.org/wiki/艾迪·莫克斯_(撞球運動員)" title="wikilink">艾迪·莫克斯</a></p></td>
+<a href="../Page/艾迪·莫克斯_(撞球運動員).md" title="wikilink">艾迪·莫克斯</a></p></td>
 <td><p>1.640</p></td>
 <td><p><br />
 <a href="https://zh.wikipedia.org/wiki/馬汀·霍恩" title="wikilink">馬汀·霍恩</a><br />
@@ -403,7 +403,7 @@ Teams），是一個[開侖撞球職業錦標賽](../Page/開侖.md "wikilink")�
 </tr>
 <tr class="even">
 <td><p><br />
-<a href="https://zh.wikipedia.org/wiki/許正漢" title="wikilink">許正漢</a><br />
+<a href="../Page/許正漢.md" title="wikilink">許正漢</a><br />
 <a href="https://zh.wikipedia.org/wiki/金京律" title="wikilink">金京律</a></p></td>
 <td><p>1.397</p></td>
 <td></td>
@@ -415,7 +415,7 @@ Teams），是一個[開侖撞球職業錦標賽](../Page/開侖.md "wikilink")�
 <td><p><a href="../Page/菲爾森.md" title="wikilink">菲爾森</a></p></td>
 <td><p><br />
 <a href="https://zh.wikipedia.org/wiki/弗雷德里克·高德隆" title="wikilink">弗雷德里克·高德隆</a><br />
-<a href="https://zh.wikipedia.org/wiki/艾迪·莫克斯_(撞球運動員)" title="wikilink">艾迪·莫克斯</a></p></td>
+<a href="../Page/艾迪·莫克斯_(撞球運動員).md" title="wikilink">艾迪·莫克斯</a></p></td>
 <td><p>2.295</p></td>
 <td><p><br />
 <a href="../Page/狄克·雅斯柏斯.md" title="wikilink">狄克·雅斯柏斯</a><br />
@@ -423,7 +423,7 @@ Teams），是一個[開侖撞球職業錦標賽](../Page/開侖.md "wikilink")�
 </tr>
 <tr class="even">
 <td><p><br />
-<a href="https://zh.wikipedia.org/wiki/泰范·塔什德米爾" title="wikilink">泰范·塔什德米爾</a><br />
+<a href="../Page/泰范·塔什德米爾.md" title="wikilink">泰范·塔什德米爾</a><br />
 <a href="https://zh.wikipedia.org/wiki/托爾加漢·奇拉茲" title="wikilink">托爾加漢·奇拉茲</a></p></td>
 <td><p>1.314</p></td>
 <td></td>
@@ -435,11 +435,11 @@ Teams），是一個[開侖撞球職業錦標賽](../Page/開侖.md "wikilink")�
 <td><p><a href="../Page/菲爾森.md" title="wikilink">菲爾森</a></p></td>
 <td><p><br />
 <a href="https://zh.wikipedia.org/wiki/弗雷德里克·高德隆" title="wikilink">弗雷德里克·高德隆</a><br />
-<a href="https://zh.wikipedia.org/wiki/艾迪·莫克斯_(撞球運動員)" title="wikilink">艾迪·莫克斯</a></p></td>
+<a href="../Page/艾迪·莫克斯_(撞球運動員).md" title="wikilink">艾迪·莫克斯</a></p></td>
 <td><p>1.968</p></td>
 <td><p><br />
-<a href="https://zh.wikipedia.org/wiki/許正漢" title="wikilink">許正漢</a><br />
-<a href="https://zh.wikipedia.org/wiki/趙在浩" title="wikilink">趙在浩</a></p></td>
+<a href="../Page/許正漢.md" title="wikilink">許正漢</a><br />
+<a href="../Page/趙在浩.md" title="wikilink">趙在浩</a></p></td>
 </tr>
 <tr class="even">
 <td><p><br />
@@ -458,7 +458,7 @@ Teams），是一個[開侖撞球職業錦標賽](../Page/開侖.md "wikilink")�
 <a href="https://zh.wikipedia.org/wiki/吉恩·凡厄普" title="wikilink">吉恩·凡厄普</a></p></td>
 <td><p>1.675</p></td>
 <td><p><br />
-<a href="https://zh.wikipedia.org/wiki/塞米赫·賽吉納" title="wikilink">塞米赫·賽吉納</a><br />
+<a href="../Page/塞米赫·賽吉納.md" title="wikilink">塞米赫·賽吉納</a><br />
 <a href="https://zh.wikipedia.org/wiki/呂特菲·切內特" title="wikilink">呂特菲·切內特</a></p></td>
 </tr>
 <tr class="even">
@@ -514,7 +514,7 @@ Teams），是一個[開侖撞球職業錦標賽](../Page/開侖.md "wikilink")�
 <td><p>2019</p></td>
 <td><p><a href="../Page/菲爾森.md" title="wikilink">菲爾森</a></p></td>
 <td><p><br />
-<a href="https://zh.wikipedia.org/wiki/穆拉特·納齊·喬克魯" title="wikilink">穆拉特·納齊·喬克魯</a><br />
+<a href="../Page/穆拉特·納齊·喬克魯.md" title="wikilink">穆拉特·納齊·喬克魯</a><br />
 <a href="https://zh.wikipedia.org/wiki/呂特菲·切內特" title="wikilink">呂特菲·切內特</a></p></td>
 <td><p>1.803</p></td>
 <td><p><br />
@@ -524,7 +524,7 @@ Teams），是一個[開侖撞球職業錦標賽](../Page/開侖.md "wikilink")�
 <tr class="even">
 <td><p><br />
 <a href="https://zh.wikipedia.org/wiki/弗雷德里克·高德隆" title="wikilink">弗雷德里克·高德隆</a><br />
-<a href="https://zh.wikipedia.org/wiki/艾迪·莫克斯_(撞球運動員)" title="wikilink">艾迪·莫克斯</a></p></td>
+<a href="../Page/艾迪·莫克斯_(撞球運動員).md" title="wikilink">艾迪·莫克斯</a></p></td>
 <td><p>1.713</p></td>
 <td></td>
 <td></td>

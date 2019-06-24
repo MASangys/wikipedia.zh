@@ -54,8 +54,7 @@ Area世界巡迴演唱會將持續至2020年\[19\]。除了日本巨蛋巡演之
 1.  [Ddu-Du
     Ddu-Du](https://zh.wikipedia.org/wiki/Ddu-Du_Ddu-Du "wikilink")
 
-2.  Forever Young
-
+2.
 3.  [Stay](https://zh.wikipedia.org/wiki/Stay_\(BLACKPINK歌曲\) "wikilink")（[重混版](https://zh.wikipedia.org/wiki/重混 "wikilink")）
 
 4.  Sure Thing<small>（）</small>（翻唱）
@@ -70,7 +69,7 @@ Area世界巡迴演唱會將持續至2020年\[19\]。除了日本巨蛋巡演之
     [Attention](https://zh.wikipedia.org/wiki/Attention_\(查理·普斯歌曲\) "wikilink")<small>（[查理·普斯](../Page/查理·普斯.md "wikilink")）</small>（翻跳；[Lisa](../Page/Lisa_\(泰國歌手\).md "wikilink")
     Solo）
 
-8.  [順其自然](../Page/Let_It_Be.md "wikilink")<small>（[披頭四](../Page/披頭四樂隊.md "wikilink")）</small>
+8.  [順其自然](../Page/Let_It_Be_\(歌曲\).md "wikilink")<small>（[披頭四](../Page/披頭四樂隊.md "wikilink")）</small>
     + You & I<small>（[朴春](../Page/朴春.md "wikilink")）</small> +
     只看著我<small>（[太陽](../Page/太陽_\(歌手\).md "wikilink")）</small>（翻唱；[Rosé](../Page/Rosé_\(韓國歌手\).md "wikilink")
     Solo）
@@ -139,26 +138,42 @@ Area世界巡迴演唱會將持續至2020年\[19\]。除了日本巨蛋巡演之
 <!-- end list -->
 
 1.  Ddu-Du Ddu-Du
+
 2.  Forever Young
+
 3.  Stay（重混版）
+
 4.  口哨
+
 5.  順其自然<small>（披頭四）</small> + You & I<small>（朴春）</small> +
     只看著我<small>（太陽）</small>（翻唱；Rosé Solo）
+
 6.  Take Me<small>（MISO）</small> +
     Swalla<small>（-{zh-hans:杰森·德鲁罗;zh-hk:積森·狄路羅;zh-tw:傑森德魯羅;}-主唱，妮姬·米娜和Ty
     Dolla $ign伴唱）</small>（翻跳；Lisa Solo）
+
 7.  澄澈<small>（捷德）</small>（翻唱；Jisoo Solo）
+
 8.  Solo（Jennie Solo）
+
 9.  [Kill This
     Love](https://zh.wikipedia.org/wiki/Kill_This_Love_\(歌曲\) "wikilink")
-10. Don't Know What To Do
+
+10.
 11. Kiss and Make Up
+
 12. Really
+
 13. See U Later
+
 14. Playing with Fire
+
 15. Kick It
+
 16. Hope Not
+
 17. Boombayah
+
 18. As If It's Your Last
 
 <!-- end list -->
@@ -364,7 +379,7 @@ Area世界巡迴演唱會將持續至2020年\[19\]。除了日本巨蛋巡演之
 <td><p>2019年5月5日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/亞特蘭大" title="wikilink">亞特蘭大</a></p></td>
 <td></td>
-<td><p>—</p></td>
+<td><p>9,180[32]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -397,14 +412,14 @@ Area世界巡迴演唱會將持續至2020年\[19\]。除了日本巨蛋巡演之
 <td><p><a href="https://zh.wikipedia.org/wiki/曼徹斯特" title="wikilink">曼徹斯特</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/曼徹斯特競技場" title="wikilink">曼徹斯特競技場</a></p></td>
-<td><p>—</p></td>
+<td><p>5,424[33]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2019年5月22日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/倫敦" title="wikilink">倫敦</a></p></td>
 <td><p><a href="../Page/溫布利體育館.md" title="wikilink">溫布利體育館</a></p></td>
-<td><p>12,500[32]</p></td>
+<td><p>9,968[34]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -413,7 +428,7 @@ Area世界巡迴演唱會將持續至2020年\[19\]。除了日本巨蛋巡演之
 <td><p><a href="../Page/柏林.md" title="wikilink">柏林</a></p></td>
 <td></td>
 <td></td>
-<td><p>10,000[33]</p></td>
+<td><p>10,000[35]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -421,7 +436,7 @@ Area世界巡迴演唱會將持續至2020年\[19\]。除了日本巨蛋巡演之
 <td><p><a href="../Page/巴黎.md" title="wikilink">巴黎</a></p></td>
 <td></td>
 <td></td>
-<td><p>7,000[34]</p></td>
+<td><p>7,000[36]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -429,7 +444,7 @@ Area世界巡迴演唱會將持續至2020年\[19\]。除了日本巨蛋巡演之
 <td><p><a href="https://zh.wikipedia.org/wiki/巴塞羅那" title="wikilink">巴塞羅那</a></p></td>
 <td></td>
 <td><p><a href="../Page/聖喬治宮體育館.md" title="wikilink">聖喬治宮體育館</a></p></td>
-<td><p>10,000[35]</p></td>
+<td><p>10,000[37]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -445,7 +460,7 @@ Area世界巡迴演唱會將持續至2020年\[19\]。除了日本巨蛋巡演之
 <td></td>
 <td><p><a href="../Page/金光綜藝館.md" title="wikilink">金光綜藝館</a></p></td>
 <td></td>
-<td><p>—</p></td>
+<td><p>10,000[38]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -461,15 +476,15 @@ Area世界巡迴演唱會將持續至2020年\[19\]。除了日本巨蛋巡演之
 <td><p><a href="https://zh.wikipedia.org/wiki/墨爾本" title="wikilink">墨爾本</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/羅德·拉沃競技場" title="wikilink">羅德·拉沃競技場</a></p></td>
-<td></td>
+<td><p>rowspan="2" </p></td>
 <td><p>—</p></td>
 </tr>
 <tr class="even">
 <td><p>2019年6月15日</p></td>
 <td><p><a href="../Page/悉尼.md" title="wikilink">悉尼</a></p></td>
 <td><p><a href="../Page/庫多斯銀行體育館.md" title="wikilink">庫多斯銀行體育館</a></p></td>
-<td></td>
 <td><p>—</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -510,7 +525,7 @@ Area世界巡迴演唱會將持續至2020年\[19\]。除了日本巨蛋巡演之
 <td></td>
 <td><p><a href="../Page/東京巨蛋.md" title="wikilink">東京巨蛋</a></p></td>
 <td></td>
-<td><p>205,000[36]</p></td>
+<td><p>205,000[39]</p></td>
 </tr>
 <tr class="even">
 <td><p>2020年1月4日</p></td>
@@ -538,7 +553,7 @@ Area世界巡迴演唱會將持續至2020年\[19\]。除了日本巨蛋巡演之
 </tr>
 <tr class="odd">
 <td><p>總計</p></td>
-<td><p>430,917</p></td>
+<td><p>452,989</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -570,9 +585,12 @@ Area世界巡迴演唱會將持續至2020年\[19\]。除了日本巨蛋巡演之
 
 ## 票房數據
 
-| 城市                                                                                                   | 舉行地點   | 已售門票 / 總門票             | 票房收入（美元）         |
-| ---------------------------------------------------------------------------------------------------- | ------ | ---------------------- | ---------------- |
-| 美國[伊利諾州](https://zh.wikipedia.org/wiki/伊利諾州 "wikilink")[庫克郡芝加哥](../Page/庫克縣_\(伊利諾伊州\).md "wikilink") | 好事達體育館 | 11,417 / 11,417 (100%) | $1,815,062\[37\] |
+| 城市                                                                                                   | 舉行地點    | 已售門票 / 總門票             | 票房收入（美元）         |
+| ---------------------------------------------------------------------------------------------------- | ------- | ---------------------- | ---------------- |
+| 美國[伊利諾州](https://zh.wikipedia.org/wiki/伊利諾州 "wikilink")[庫克郡芝加哥](../Page/庫克縣_\(伊利諾伊州\).md "wikilink") | 好事達體育館  | 11,417 / 11,417 (100%) | $1,815,062\[40\] |
+| 美國[佐治亚州亞特蘭大](https://zh.wikipedia.org/wiki/佐治亚州 "wikilink")                                          | 無限能源中心  | 9,180 / 9,339 (99%)    | $1,518,063\[41\] |
+| [英格蘭曼徹斯特](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")                                              | 曼徹斯特競技場 | 5,424 / 6,121 (89%)    | $682,256\[42\]   |
+| 英國倫敦                                                                                                 | 溫布利體育館  | 9,968 / 10,074 (99%)   | $1,421,480\[43\] |
 
 ## 人事
 
@@ -727,11 +745,18 @@ Area世界巡迴演唱會將持續至2020年\[19\]。除了日本巨蛋巡演之
 32.
 
 33.
-
 34.
-
 35.
 
 36.
 
 37.
+
+38.
+
+39.
+
+40.
+41.
+42.
+43.

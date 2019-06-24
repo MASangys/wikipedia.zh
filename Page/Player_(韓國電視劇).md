@@ -156,7 +156,7 @@ Asia於新加坡](https://zh.wikipedia.org/wiki/tvN_Asia "wikilink")、馬來西
 <td></td>
 <td><p>秋延熙</p></td>
 <td><p>醫院院長。幾次幫助赫利處理因事故而受害的傷者。赫利的舊識，也是秋元啟的女兒。</p></td>
-<td></td>
+<td><p><a href="../Page/王夢華.md" title="wikilink">王夢華</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -198,7 +198,7 @@ Asia於新加坡](https://zh.wikipedia.org/wiki/tvN_Asia "wikilink")、馬來西
 <td><p><a href="../Page/王智慧.md" title="wikilink">王智慧</a></p></td>
 <td><p>柳賢子</p></td>
 <td><p>金勝振議員的老婆，管理金勝振議員的秘密資金、黑衣人士和打手。在梁蕙珠被性騷擾後，曾打電話威脅梁蕙珠不要聲張。</p></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梁瑞芬" title="wikilink">梁瑞芬</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/郭子衡" title="wikilink">郭子衡</a></p></td>
@@ -264,14 +264,14 @@ Asia於新加坡](https://zh.wikipedia.org/wiki/tvN_Asia "wikilink")、馬來西
 <td><p>崔賢基</p></td>
 <td><p>崔秀赫(姜赫利)的爸爸。檢察官。</p></td>
 <td><p>4,5</p></td>
-<td></td>
+<td><p><a href="../Page/杜景煜.md" title="wikilink">杜景煜</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>南社長</p></td>
 <td><p>非法交易車輛社長</p></td>
 <td></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳啟幟" title="wikilink">陳啟幟</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/趙在允.md" title="wikilink">趙在允</a></p></td>
@@ -285,7 +285,7 @@ Asia於新加坡](https://zh.wikipedia.org/wiki/tvN_Asia "wikilink")、馬來西
 <td><p>陳勇俊</p></td>
 <td><p>律師</p></td>
 <td></td>
-<td></td>
+<td><p><a href="../Page/鄧燦陽.md" title="wikilink">鄧燦陽</a></p></td>
 </tr>
 <tr class="even">
 <td></td>

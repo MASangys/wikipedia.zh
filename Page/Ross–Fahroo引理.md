@@ -1,21 +1,21 @@
 **Ross–Fahroo引理**（Ross–Fahroo
 lemma）得名自和，是[最优控制理論中的引理](https://zh.wikipedia.org/wiki/最优控制 "wikilink")\[1\]\[2\]\[3\]\[4\]。
-該引理提到一般而言，對偶化和[离散化不能交換](https://zh.wikipedia.org/wiki/离散化 "wikilink")。若配合，才能交換這二個運算\[5\]。
+該引理提到一般而言，對偶化和[离散化不能交換](https://zh.wikipedia.org/wiki/离散化 "wikilink")。若配合[伴隨向量映射原理](https://zh.wikipedia.org/wiki/伴隨向量映射原理 "wikilink")，才能交換這二個運算\[5\]。
 
 ## 引理的敘述
 
 連續時間的最佳控制問題有豐富的資訊。針對特定問題，應用[庞特里亚金最大化原理或](../Page/庞特里亚金最大化原理.md "wikilink")[哈密顿-雅可比-贝尔曼方程可以找到計多有趣的性質](../Page/哈密顿-雅可比-贝尔曼方程.md "wikilink")。這些定理其有用到其變化量相對時間的連續性\[6\]。若最佳控制問題離散化時，Ross–Fahroo引理指出在本質上就少了一些資訊。減少的資料可能是在邊界點控制量的值\[7\]\[8\]，也有可能是對偶變數在漢米爾頓量中的值。為了解決資訊減少問題，Ross和Fahroo引進了「閉合條件」（closure
-condition）的概念，讓已知的減少資訊可以再加回去。這是透過達到的\[9\]。
+condition）的概念，讓已知的減少資訊可以再加回去。這是透過[伴隨向量映射原理達到的](https://zh.wikipedia.org/wiki/伴隨向量映射原理 "wikilink")\[9\]。
 
 ## 在擬譜最佳控制中的應用
 
-當擬譜法用在離散最佳控制時，其中隱含的Ross–Fahroo引理在離散的伴隨向量中，看起來似乎是將微分矩陣的轉置加以離散化\[10\]\[11\]\[12\]。若應用了，即為伴隨矩陣的轉換。此轉換的應用產生了\[13\]\[14\]。
+當擬譜法用在離散最佳控制時，其中隱含的Ross–Fahroo引理在離散的伴隨向量中，看起來似乎是將微分矩陣的轉置加以離散化\[10\]\[11\]\[12\]。若應用了[伴隨向量映射原理](https://zh.wikipedia.org/wiki/伴隨向量映射原理 "wikilink")，即為伴隨矩陣的轉換。此轉換的應用產生了[Ross–Fahroo擬譜法](../Page/Ross–Fahroo擬譜法.md "wikilink")\[13\]\[14\]。
 
 ## 相關條目
 
   - [羅斯π引理](../Page/羅斯π引理.md "wikilink")
+  - [Ross–Fahroo擬譜法](../Page/Ross–Fahroo擬譜法.md "wikilink")
 
-  -
 ## 參考資料
 
 [Category:最佳控制](https://zh.wikipedia.org/wiki/Category:最佳控制 "wikilink")

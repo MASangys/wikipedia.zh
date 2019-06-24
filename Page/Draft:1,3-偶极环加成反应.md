@@ -1,0 +1,1100 @@
+**1,3-偶极环加成反应**是一种发生在[1,3-偶极体和一个](../Page/1,3-偶极体.md "wikilink")**亲偶极体**之间的[化学反应来形成五元环](../Page/化学反应.md "wikilink")。
+The earliest 1,3-偶极环加成反应 were described in the late 19th century to the
+early 20th century, following the discovery of 1,3-dipoles.
+[反应机理](../Page/反应机理.md "wikilink") investigation and
+[有机合成](../Page/有机合成.md "wikilink") application were established
+in the 1960s, primarily through the work of .\[1\] Hence, the reaction
+is sometimes referred to as the **Huisgen cycloaddition** (this term is
+often used to specifically describe the
+[Huisgen叠氮化物-炔烃环加成反应](https://zh.wikipedia.org/wiki/Huisgen叠氮化物-炔烃环加成反应 "wikilink")
+ between an organic [叠氮化合物](../Page/叠氮化合物.md "wikilink") and an
+[炔烃](../Page/炔烃.md "wikilink") to generate
+[1,2,3-triazole](https://zh.wikipedia.org/wiki/1,2,3-triazole "wikilink")).
+1,3-偶极环加成反应 is an important route to the
+[区域选择性](https://zh.wikipedia.org/wiki/区域选择性 "wikilink") and
+[立体选择性](https://zh.wikipedia.org/wiki/立体选择性 "wikilink") synthesis of
+five-membered [杂环化合物](../Page/杂环化合物.md "wikilink") and their ring-opened
+acyclic derivatives.
+
+[Example_of_1,3-dipolar_cycloaddition.tif](https://zh.wikipedia.org/wiki/File:Example_of_1,3-dipolar_cycloaddition.tif "fig:Example_of_1,3-dipolar_cycloaddition.tif")
+
+## 机理概述
+
+Originally two proposed mechanisms describe the 1,3-偶极环加成反应: first, the
+concerted
+[pericyclic](https://zh.wikipedia.org/wiki/pericyclic "wikilink")
+[cycloaddition](https://zh.wikipedia.org/wiki/cycloaddition "wikilink")
+mechanism, proposed by Rolf Huisgen;\[2\] and second, the stepwise
+mechanism involving a
+[diradical](https://zh.wikipedia.org/wiki/radical_\(chemistry\) "wikilink")
+[intermediate](https://zh.wikipedia.org/wiki/reaction_intermediate "wikilink"),
+proposed by Firestone.\[3\] After much debate, the former proposal is
+now generally accepted\[4\]—the 1,3-dipole reacts with the dipolarophile
+in a
+[concerted](https://zh.wikipedia.org/wiki/concerted_reaction "wikilink"),
+often asynchronous, and
+[symmetry](https://zh.wikipedia.org/wiki/molecular_symmetry "wikilink")-allowed
+<sub>π</sub>4<sub>s</sub> + <sub>π</sub>2<sub>s</sub> fashion through a
+thermal six-electron [Huckel aromatic transition
+state](https://zh.wikipedia.org/wiki/transition_state_theory "wikilink").
+Although, few examples exist of stepwise mechanism of the catalyst free
+1,3-dipolar cycloaddition reactions for thiocarbonyl ylides,\[5\] and
+nitrile oxides\[6\]
+
+[General_mechanism_of_1,3-dipolar_cycloaddition.png](https://zh.wikipedia.org/wiki/File:General_mechanism_of_1,3-dipolar_cycloaddition.png "fig:General_mechanism_of_1,3-dipolar_cycloaddition.png")
+
+### 周环机理
+
+Huisgen investigated a series of cycloadditions between the 1,3-dipolar
+[重氮](https://zh.wikipedia.org/wiki/重氮 "wikilink") compounds and various
+dipolarophilic [烯烃](../Page/烯烃.md "wikilink").\[7\] The following
+observations support the concerted pericyclic mechanism, and refute the
+stepwise diradical or the stepwise polar pathway.
+
+  - **[取代效应](https://zh.wikipedia.org/wiki/取代 "wikilink")**: Different
+    substituents on the dipole do not exhibit a large effect on the
+    cycloaddition rate, suggesting that the reaction does not involve a
+    charge-separated intermediate.
+  - **[溶剂效应](https://zh.wikipedia.org/wiki/溶剂效应 "wikilink")**: Solvent
+    polarity has little effect on the cycloaddition rate, in line with
+    the pericyclic mechanism where polarity does not change much in
+    going from the reactants to the transition state.
+  - **[立体化学](https://zh.wikipedia.org/wiki/立体化学 "wikilink")**:
+    1,3-dipolar cycloadditions are always
+    [立体专一性](https://zh.wikipedia.org/wiki/立体专一性 "wikilink")
+    with respect to the dipolarophile (i.e.,
+    [顺反异构](../Page/顺反异构.md "wikilink") giving
+    *syn*-products), supporting the concerted pericyclic mechanism in
+    which two [sigma键](https://zh.wikipedia.org/wiki/sigma键 "wikilink")
+    are formed simultaneously.
+  - **[热力学参数](https://zh.wikipedia.org/wiki/热力学参数 "wikilink")**:
+    1,3-dipolar cycloadditions have an unusually large negative
+    [活化熵](https://zh.wikipedia.org/wiki/活化熵 "wikilink") similar to
+    that of the
+    [Diels-Alder反应](https://zh.wikipedia.org/wiki/Diels-Alder反应 "wikilink"),
+    suggesting that the [过渡态](../Page/过渡态.md "wikilink") is highly
+    ordered, which is a signature of concerted pericyclic reactions.
+
+### 1,3-偶极体
+
+[18_species_of_second-row_1,3-dipoles.tif](https://zh.wikipedia.org/wiki/File:18_species_of_second-row_1,3-dipoles.tif "fig:18_species_of_second-row_1,3-dipoles.tif")
+A 1,3-dipole is an organic molecule that can be represented as either an
+[allyl](https://zh.wikipedia.org/wiki/allyl "wikilink")-type or a
+[propargyl](https://zh.wikipedia.org/wiki/propargyl "wikilink")/[allenyl](https://zh.wikipedia.org/wiki/allene "wikilink")-type
+[两性离子的](https://zh.wikipedia.org/wiki/两性离子的 "wikilink") octet/sextet
+structures. Both types of 1,3-dipoles share four electrons in the
+π-system over three atoms. The allyl-type is bent whereas the
+propargyl/allenyl-type is linear in
+[geometry](https://zh.wikipedia.org/wiki/Molecular_geometry "wikilink").\[8\]
+1,3-Dipoles containing higher-row elements such as
+[sulfur](https://zh.wikipedia.org/wiki/sulfur "wikilink") or
+[phosphorus](https://zh.wikipedia.org/wiki/phosphorus "wikilink") are
+also known, but are utilized less routinely.
+
+[Resonance
+structures](https://zh.wikipedia.org/wiki/Resonance_structures "wikilink")
+can be drawn to
+[delocalize](https://zh.wikipedia.org/wiki/delocalized_electron "wikilink")
+both negative and positive charges onto *any* terminus of a 1,3-dipole
+(see the scheme below). A more accurate method to describe the
+electronic distribution on a 1,3-dipole is to assign the major resonance
+contributor based on experimental or theoretical data, such as [dipole
+moment](https://zh.wikipedia.org/wiki/Bond_dipole_moment "wikilink")
+measurements\[9\] or computations.\[10\] For example,
+[diazomethane](https://zh.wikipedia.org/wiki/diazomethane "wikilink")
+bears the largest negative character at the *terminal* nitrogen atom,
+while [hydrazoic
+acid](https://zh.wikipedia.org/wiki/hydrogen_azide "wikilink") bears the
+largest negative character at the *internal* nitrogen atom.
+
+[Major_resonance_structures_of_diazomethane_and_hydrazoic_acid.tif](https://zh.wikipedia.org/wiki/File:Major_resonance_structures_of_diazomethane_and_hydrazoic_acid.tif "fig:Major_resonance_structures_of_diazomethane_and_hydrazoic_acid.tif")
+
+Consequently, this ambivalence means that the ends of a 1,3-dipole can
+be treated as both
+[nucleophilic](https://zh.wikipedia.org/wiki/nucleophile "wikilink") and
+[electrophilic](https://zh.wikipedia.org/wiki/electrophile "wikilink")
+at the same time. The extent of nucleophilicity and electrophilicity at
+each end can be evaluated using the [frontier molecular
+orbitals](https://zh.wikipedia.org/wiki/frontier_molecular_orbital_theory "wikilink"),
+which can be obtained computationally. In general, the atom that carries
+the largest orbital coefficient in the
+[HOMO](https://zh.wikipedia.org/wiki/HOMO/LUMO "wikilink") acts as the
+nucleophile, whereas that in the LUMO acts as the electrophile. The most
+nucleophilic atom is usually, but not always, the most electron-rich
+atom.\[11\]\[12\]\[13\] In 1,3-dipolar cycloadditions, identity of the
+dipole-dipolarophile pair determines whether the HOMO or the LUMO
+character of the 1,3-dipole will dominate (see discussion on frontier
+molecular orbitals below).
+
+### 亲偶极体
+
+The most commonly used dipolarophiles are alkenes and alkynes.
+[Heteroatom](https://zh.wikipedia.org/wiki/Heteroatom "wikilink")-containing
+dipolarophiles such as
+[carbonyls](https://zh.wikipedia.org/wiki/carbonyls "wikilink") and
+[imines](https://zh.wikipedia.org/wiki/imines "wikilink") can also
+undergo 1,3-dipolar cycloaddition. Other examples of dipolarophiles
+include [fullerenes](https://zh.wikipedia.org/wiki/fullerene "wikilink")
+and
+[nanotubes](https://zh.wikipedia.org/wiki/carbon_nanotube "wikilink"),
+which can undergo 1,3-dipolar cycloaddition with [azomethine
+ylide](https://zh.wikipedia.org/wiki/azomethine_ylide "wikilink") in the
+[Prato
+reaction](https://zh.wikipedia.org/wiki/Prato_reaction "wikilink").
+
+### 溶剂效应
+
+1,3-dipolar cycloadditions experience very little solvent effect because
+both the reactants and the transition states are generally non-polar.
+For example, the rate of reaction between phenyl diazomethane and [ethyl
+acrylate](https://zh.wikipedia.org/wiki/ethyl_acrylate "wikilink") or
+[norbornene](https://zh.wikipedia.org/wiki/norbornene "wikilink") (see
+scheme below) changes only slightly upon varying solvents from
+cyclohexane to methanol.\[14\]
+
+[Solvent_effect.tif](https://zh.wikipedia.org/wiki/File:Solvent_effect.tif "fig:Solvent_effect.tif")
+
+Lack of solvent effects in 1,3-dipolar cycloaddition is clearly
+demonstrated in the reaction between enamines and dimethyl diazomalonate
+(see scheme below).\[15\] The polar reaction, N-cyclo*pen*tenyl
+[pyrrolidine](https://zh.wikipedia.org/wiki/pyrrolidine "wikilink")
+nucleophilic addition to the diazo compound, proceeds 1,500 times faster
+in polar
+[DMSO](https://zh.wikipedia.org/wiki/Dimethyl_sulfoxide "wikilink") than
+in non-polar
+[decalin](https://zh.wikipedia.org/wiki/decalin "wikilink"). On the
+other hand, a close analog of this reaction, N-cyclo*hex*enyl
+pyrrolidine 1,3-dipolar cycloaddition to dimethyl diazomalonate, is sped
+up only 41-fold in DMSO relative to decalin.
+
+[The_solvent_effect_on_the_reaction_between_enamines_and_diazomalonate.tif](https://zh.wikipedia.org/wiki/File:The_solvent_effect_on_the_reaction_between_enamines_and_diazomalonate.tif "fig:The_solvent_effect_on_the_reaction_between_enamines_and_diazomalonate.tif")
+
+## 前线分子轨道理论
+
+[Frontier_molecular_orbitals_overlap_in_1,3-dipolar_cycloadditions.tif](https://zh.wikipedia.org/wiki/File:Frontier_molecular_orbitals_overlap_in_1,3-dipolar_cycloadditions.tif "fig:Frontier_molecular_orbitals_overlap_in_1,3-dipolar_cycloadditions.tif")
+
+1,3-Dipolar cycloadditions are pericyclic reactions, which obey the
+[Dewar-Zimmerman
+rules](https://zh.wikipedia.org/wiki/Dewar-Zimmerman_rules "wikilink")
+and the [Woodward–Hoffmann
+rules](https://zh.wikipedia.org/wiki/Woodward–Hoffmann_rules "wikilink").
+In the Dewar-Zimmerman treatment, the reaction proceeds through a
+5-center, zero-node, 6-electron Huckel transition state for this
+particular molecular orbital diagram. However, each orbital can be
+randomly assigned a sign to arrive at the same result. In the
+Woodward–Hoffmann treatment, frontier molecular orbitals (FMO) of the
+1,3-dipole and the dipolarophile overlap in the symmetry-allowed
+<sub>π</sub>4<sub>s</sub> + <sub>π</sub>2<sub>s</sub> manner. Such
+orbital overlap can be achieved in three ways: type I, II and III.\[16\]
+The dominant pathway is the one which possesses the smallest HOMO-LUMO
+energy gap.
+
+### 第一类
+
+The dipole has a high-lying
+[HOMO](https://zh.wikipedia.org/wiki/HOMO/LUMO "wikilink") which
+overlaps with LUMO of the dipolarophile. A dipole of this class is
+referred to as a **HOMO-controlled dipole** or a **nucleophilic
+dipole**, which includes [azomethine
+ylide](https://zh.wikipedia.org/wiki/azomethine_ylide "wikilink"),
+[carbonyl
+ylide](https://zh.wikipedia.org/wiki/carbonyl_ylide "wikilink"),
+[nitrile ylide](https://zh.wikipedia.org/wiki/nitrile_ylide "wikilink"),
+[azomethine
+imine](https://zh.wikipedia.org/wiki/azomethine_imine "wikilink"),
+[carbonyl
+imine](https://zh.wikipedia.org/wiki/carbonyl_imine "wikilink") and
+[diazoalkane](https://zh.wikipedia.org/wiki/diazoalkane "wikilink").
+These dipoles add to electrophilic alkenes readily. Electron-withdrawing
+groups (EWG) on the dipolarophile would accelerate the reaction by
+lowering the LUMO, while electron-donating groups (EDG) would decelerate
+the reaction by raising the HOMO. For example, the reactivity scale of
+diazomethane against a series of dipolarophiles is shown in the scheme
+below. Diazomethane reacts with the electron-poor ethyl acrylate more
+than a million times faster than the electron rich butyl vinyl
+ether.\[17\]
+
+This type resembles the normal-electron-demand Diels-Alder reaction, in
+which the diene HOMO combines with the dienophile LUMO.
+
+[The_reactivity_of_Type_I_1,3-dipole_against_dipolarophiles.tif](https://zh.wikipedia.org/wiki/File:The_reactivity_of_Type_I_1,3-dipole_against_dipolarophiles.tif "fig:The_reactivity_of_Type_I_1,3-dipole_against_dipolarophiles.tif")
+
+### 第二类
+
+HOMO of the dipole can pair with LUMO of the dipolarophile;
+alternatively, HOMO of the dipolarophile can pair with LUMO of the
+dipole. This two-way interaction arises because the energy gap in either
+direction is similar. A dipole of this class is referred to as a
+**HOMO-LUMO-controlled dipole** or an **ambiphilic dipole**, which
+includes [nitrile
+imide](https://zh.wikipedia.org/wiki/nitrile_imide "wikilink"),
+[nitrone](https://zh.wikipedia.org/wiki/nitrone "wikilink"), [carbonyl
+oxide](https://zh.wikipedia.org/wiki/carbonyl_oxide "wikilink"),
+[nitrile oxide](https://zh.wikipedia.org/wiki/nitrile_oxide "wikilink"),
+and [azide](https://zh.wikipedia.org/wiki/azide "wikilink"). Any
+substituent on the dipolarophile would accelerate the reaction by
+lowering the energy gap between the two interacting orbitals; i.e., an
+EWG would lower the LUMO while an EDG would raise the HOMO. For example,
+azides react with various electron-rich and electron-poor dipolarophile
+with similar reactivities (see reactivity scale below).\[18\]
+
+[The_reactivity_of_Type_II_1,3-dipole_against_dipolarophiles.tif](https://zh.wikipedia.org/wiki/File:The_reactivity_of_Type_II_1,3-dipole_against_dipolarophiles.tif "fig:The_reactivity_of_Type_II_1,3-dipole_against_dipolarophiles.tif")
+
+### 第三类
+
+The dipole has a low-lying LUMO which overlaps with HOMO of the
+dipolarophile (indicated by red dashed lines in the diagram). A dipole
+of this class is referred to as a **LUMO-controlled dipole** or an
+**electrophilic dipole**, which includes [nitrous
+oxide](https://zh.wikipedia.org/wiki/nitrous_oxide "wikilink") and
+[ozone](https://zh.wikipedia.org/wiki/ozone "wikilink"). EWGs on the
+dipolarophile decelerate the reaction, while EDGs accelerate the
+reaction. For example, ozone reacts with the electron-rich
+2-methylpropene about 100,000 times faster than the electron-poor
+tetrachloroethene (see reactivity scale below).\[19\]
+
+This type resembles the [inverse electron-demand Diels-Alder
+reaction](https://zh.wikipedia.org/wiki/Inverse_electron-demand_Diels–Alder_reaction "wikilink"),
+in which the diene LUMO combines with the dienophile HOMO.
+
+[The_reactivity_of_Type_III_1,3-dipole_against_dipolarophiles.tif](https://zh.wikipedia.org/wiki/File:The_reactivity_of_Type_III_1,3-dipole_against_dipolarophiles.tif "fig:The_reactivity_of_Type_III_1,3-dipole_against_dipolarophiles.tif")
+
+### 反应
+
+Concerted processes such as the 1,3-cycloaddition require a highly
+ordered transition state (high negative entropy of activation) and only
+moderate enthalpy requirements. Using competition reaction experiments,
+relative rates of addition for different cycloaddition reactions have
+been found to offer general findings on factors in reactivity.
+
+  - **Conjugation**, especially with aromatic groups, increases the rate
+    of reaction by stabilization of the transition state. During the
+    transition, the two sigma bonds are being formed at different rates,
+    which may generate partial charges in the transition state that can
+    be stabilized by charge distribution into conjugated substituents.
+  - More **polarizable** dipolarophiles are more reactive because
+    diffuse electron clouds are better suited to initiate the flow of
+    electrons.
+  - Dipolarophiles with high **angular strain** are more reactive due to
+    increased energy of the ground state.
+  - Increased **steric hindrance** in the transition state as a result
+    of unhindered reactants dramatically lowers the reaction rate.
+  - **Hetero-dipolarophiles** add more slowly, if at all, compared to
+    C,C-diapolarophiles due to a lower gain in sigma bond energy to
+    offset the loss of a pi bond during the transition state.
+  - **Isomerism** of the dipolarophile affects reaction rate due to
+    sterics. *trans*-isomers are more reactive (*trans*-stilbene will
+    add diphenyl(nitrile imide) 27 times faster than *cis*-stilbene)
+    because during the reaction, the 120° bond angle shrinks to 109°,
+    bringing eclipsing *cis*-substituents towards each other for
+    increased steric clash.
+
+<!-- end list -->
+
+  -
+    [Steric_clash_of_dipolarophile_substituents_during_1,3-cycloaddition.png](https://zh.wikipedia.org/wiki/File:Steric_clash_of_dipolarophile_substituents_during_1,3-cycloaddition.png "fig:Steric_clash_of_dipolarophile_substituents_during_1,3-cycloaddition.png")
+
+## 立体专一性
+
+1,3-dipolar cycloadditions usually result in [retention of
+configuration](https://zh.wikipedia.org/wiki/retention_of_configuration "wikilink")
+with respect to both the 1,3-dipole and the dipolarophile. Such high
+degree of stereospecificity is a strong support for the concerted over
+the stepwise reaction mechanisms. As mentioned before, many examples
+show that the reactions were stepwise, thus, presenting partial or no
+stereospecificity.
+
+### 关于亲偶极体
+
+*cis*-Substituents on the dipolarophilic alkene end up *cis*, and
+*trans*-substituents end up *trans* in the resulting five-membered
+cyclic compound (see scheme below).\[20\]
+
+[General_scheme_describing_the_stereospecificity_of_1,3-dipolar_cycloaddition_and_of_the_dipolarophile.tif](https://zh.wikipedia.org/wiki/File:General_scheme_describing_the_stereospecificity_of_1,3-dipolar_cycloaddition_and_of_the_dipolarophile.tif "fig:General_scheme_describing_the_stereospecificity_of_1,3-dipolar_cycloaddition_and_of_the_dipolarophile.tif")
+
+### 关于偶极
+
+Generally, the stereochemistry of the dipole is not of major concern
+because only few dipoles could form [stereogenic
+centers](https://zh.wikipedia.org/wiki/stereogenic_center "wikilink"),
+and resonance structures allow bond rotation which scrambles the
+stereochemistry. However, the study of azomethine ylides has verified
+that cycloaddition is also stereospecific with respect to the dipole
+component.
+[Diastereopure](https://zh.wikipedia.org/wiki/Diastereomer "wikilink")
+azomethine ylides are generated by [electrocyclic ring
+opening](https://zh.wikipedia.org/wiki/electrocyclic_reaction "wikilink")
+of [aziridines](https://zh.wikipedia.org/wiki/aziridines "wikilink"),
+and then rapidly trapped with strong dipolarophiles before bond rotation
+can take place (see scheme below).\[21\]\[22\] If weaker dipolarophiles
+are used, bonds in the dipole have the chance to rotate, resulting in
+impaired cycloaddition stereospecificity.
+
+These results altogether confirm that 1,3-dipolar cycloaddition is
+stereospecific, giving retention of both the 1,3-dipole and the
+dipolarophile.
+
+[Stereospecificity_of_the_two_termini_of_the_dipole_in_1,3-dipolar_cycloaddition.tif](https://zh.wikipedia.org/wiki/File:Stereospecificity_of_the_two_termini_of_the_dipole_in_1,3-dipolar_cycloaddition.tif "fig:Stereospecificity_of_the_two_termini_of_the_dipole_in_1,3-dipolar_cycloaddition.tif")
+
+## 非对映选择性
+
+When two or more [chiral
+centers](https://zh.wikipedia.org/wiki/stereocenter "wikilink") are
+generated during the reaction, diastereomeric transition states and
+products can be obtained. In the Diels-Alder cycloaddition, the
+[*endo*](https://zh.wikipedia.org/wiki/Diels–Alder_reaction "wikilink")
+[diastereoselectivity](https://zh.wikipedia.org/wiki/diastereoselectivity "wikilink")
+due to [secondary orbital
+interactions](https://zh.wikipedia.org/wiki/secondary_orbital_interactions "wikilink")
+is usually observed. In 1,3-dipolar cycloadditions, however, two forces
+influence the diastereoselectivity: the attractive
+[π-interaction](https://zh.wikipedia.org/wiki/pi_interaction "wikilink")
+(resembling secondary orbital interactions in the Diels-Alder
+cycloaddition) and the repulsive
+[steric](https://zh.wikipedia.org/wiki/steric_effects "wikilink")
+interaction. Unfortunately, these two forces often cancel each other,
+causing poor diastereoselection in 1,3-dipolar cycloaddition.
+
+Examples of substrate-controlled diastereoselective 1,3-dipolar
+cycloadditions are shown below. First is the reaction between
+benzonitrile N-benzylide and [methyl
+acrylate](https://zh.wikipedia.org/wiki/methyl_acrylate "wikilink"). In
+the transition state, the phenyl and the methyl ester groups stack to
+give the *cis*-substitution as the exclusive final
+[pyrroline](https://zh.wikipedia.org/wiki/pyrroline "wikilink") product.
+This favorable π-interaction offsets the steric repulsion between the
+phenyl and the methyl ester groups.\[23\] Second is the reaction between
+nitrone and
+[dihydrofuran](https://zh.wikipedia.org/wiki/dihydrofuran "wikilink").
+The *exo*-selectivity is achieved to minimize steric repulsion.\[24\]
+Last is the intramolecular azomethine ylide reaction with alkene. The
+diastereoselectivity is controlled by the formation of a less strained
+*cis*-[fused ring
+system](https://zh.wikipedia.org/wiki/bicyclic_molecule "wikilink").\[25\]
+
+[Substrate-controlled_diastereoselectivity_of_1,3-dipolar_cycloaddition.tif](https://zh.wikipedia.org/wiki/File:Substrate-controlled_diastereoselectivity_of_1,3-dipolar_cycloaddition.tif "fig:Substrate-controlled_diastereoselectivity_of_1,3-dipolar_cycloaddition.tif")
+
+### 定向1,3-偶极环加成
+
+Trajectory of the cycloaddition can be controlled to achieve a
+diastereoselective reaction. For example, metals can
+[chelate](https://zh.wikipedia.org/wiki/chelation "wikilink") to the
+dipolarophile and the incoming dipole and direct the cycloaddition
+selectively on one face. The example below shows addition of nitrile
+oxide to an
+[enantiomerically](https://zh.wikipedia.org/wiki/enantiomer "wikilink")
+pure [allyl
+alcohol](https://zh.wikipedia.org/wiki/allyl_alcohol "wikilink") in the
+presence of a magnesium ion. The most stable
+[conformation](https://zh.wikipedia.org/wiki/conformational_isomerism "wikilink")
+of the alkene places the
+[hydroxyl](https://zh.wikipedia.org/wiki/hydroxyl "wikilink") group
+above the plane of the alkene. The magnesium then chelates to the
+hydroxyl group and the oxygen atom of nitrile oxide. The cycloaddition
+thus comes from the top face selectively.\[26\]
+
+[Directed_dipolar_cycloaddition.tif](https://zh.wikipedia.org/wiki/File:Directed_dipolar_cycloaddition.tif "fig:Directed_dipolar_cycloaddition.tif")
+
+Such diastereodirection has been applied in the synthesis of
+[epothilones](https://zh.wikipedia.org/wiki/epothilone "wikilink").\[27\]
+
+[Use_of_directed_cycloaddition_in_Epothilones_synthesis.tif](https://zh.wikipedia.org/wiki/File:Use_of_directed_cycloaddition_in_Epothilones_synthesis.tif "fig:Use_of_directed_cycloaddition_in_Epothilones_synthesis.tif")
+
+## 区域选择性
+
+For asymmetric dipole-dipolarophile pairs, two [regioisomeric
+products](https://zh.wikipedia.org/wiki/regioisomer "wikilink") are
+possible. Both
+[electronic/stereoelectronic](https://zh.wikipedia.org/wiki/electronic_effect "wikilink")
+and steric factors contribute to the regioselectivity of 1,3-dipolar
+cycloadditions.\[28\]
+
+### 电子/立体电子效应
+
+The dominant electronic interaction is the combination between the
+largest HOMO and the largest LUMO. Therefore, regioselectivity is
+governed by the atoms that bear the largest orbital HOMO and LUMO
+coefficients.\[29\]\[30\]
+
+For example, consider the cycloaddition of diazomethane to three
+dipolarophiles: [methyl
+acrylate](https://zh.wikipedia.org/wiki/methyl_acrylate "wikilink"),
+[styrene](https://zh.wikipedia.org/wiki/styrene "wikilink") or [methyl
+cinnamate](https://zh.wikipedia.org/wiki/methyl_cinnamate "wikilink").
+The carbon of diazomethane bears the largest HOMO, while the end
+olefinic carbons of methyl acrylate and styrene bear the largest LUMO.
+Hence, cycloaddition gives the substitution at the C-3 position
+regioselectively. For methyl cinnamate, the two substituents (Ph v.s.
+COOMe) compete at withdrawing electrons from the alkene. The carboxyl is
+the better electron-withdrawing group, causing the β-carbon to be most
+electrophilic. Thus, cycloaddition yields the [carboxyl
+group](https://zh.wikipedia.org/wiki/carboxylic_acid "wikilink") on C-3
+and the [phenyl
+group](https://zh.wikipedia.org/wiki/phenyl_group "wikilink") on C-4
+regioselectively.
+
+[Electronic_effects_on_the_regioselectivity_of_1,3-dipolar_cycloaddition.tif](https://zh.wikipedia.org/wiki/File:Electronic_effects_on_the_regioselectivity_of_1,3-dipolar_cycloaddition.tif "fig:Electronic_effects_on_the_regioselectivity_of_1,3-dipolar_cycloaddition.tif")
+
+### 空间效应
+
+Steric effects can either cooperate or compete with the aforementioned
+electronic effects. Sometimes steric effects completely outweighs the
+electronic preference, giving the opposite regioisomer
+exclusively.\[31\]
+
+For example, diazomethane generally adds to methyl acrylate to give
+3-carboxyl
+[pyrazoline](https://zh.wikipedia.org/wiki/pyrazoline "wikilink").
+However, by putting more steric demands into the system, we start to
+observe the isomeric 4-carboxyl pyrazolines. The ratio of these two
+regioisomers depends on the steric demands. At the extreme, increasing
+the size from
+[hydrogen](https://zh.wikipedia.org/wiki/hydrogen "wikilink") to
+[t-butyl](https://zh.wikipedia.org/wiki/butyl "wikilink") shifts the
+regioselectivity from 100% 3-carboxyl to 100% 4-carboxyl
+substitution.\[32\]\[33\]
+
+[Steric_effects_on_the_regioselectivity_of_1,3-dipolar_cycloaddition.tif](https://zh.wikipedia.org/wiki/File:Steric_effects_on_the_regioselectivity_of_1,3-dipolar_cycloaddition.tif "fig:Steric_effects_on_the_regioselectivity_of_1,3-dipolar_cycloaddition.tif")
+
+## 合成应用
+
+1,3-dipolar cycloadditions are important ways toward the synthesis of
+many important 5-membered heterocycles such as
+[triazoles](https://zh.wikipedia.org/wiki/triazoles "wikilink"),
+[furans](https://zh.wikipedia.org/wiki/furans "wikilink"),
+[isoxazoles](https://zh.wikipedia.org/wiki/isoxazoles "wikilink"),
+[pyrrolidines](https://zh.wikipedia.org/wiki/pyrrolidines "wikilink"),
+and others. Additionally, some cycloadducts can be cleaved to reveal the
+linear skeleton, providing another route toward the synthesis of
+[aliphatic
+compounds](https://zh.wikipedia.org/wiki/aliphatic_compound "wikilink").
+These reactions are tremendously useful also because they are
+stereospecific, diastereoselective and regioselective. Several examples
+are provided below.
+
+### 腈氧化
+
+1,3-dipolar cycloaddition with nitrile oxides is a widely used
+masked-[aldol
+reaction](https://zh.wikipedia.org/wiki/aldol_reaction "wikilink").
+Cycloaddition between a nitrile oxide and an alkene yields the cyclic
+isoxazoline product, whereas the reaction with an alkyne yields the
+isoxazole. Both isoxazolines and isoxazoles can be cleaved by
+[hydrogenation](https://zh.wikipedia.org/wiki/hydrogenation "wikilink")
+to reveal aldol-type β-hydroxycarbonyl or
+[Claisen](https://zh.wikipedia.org/wiki/Claisen_condensation "wikilink")-type
+β-dicarbonyl products, respectively.
+
+Nitrile oxide-alkyne cycloaddition followed by hydrogenation was
+utilized in the synthesis of Miyakolide as illustrated in the figure
+below.\[34\]
+
+[Application_of_nitrile_oxide_in_the_synthesis_of_miyakolide.tif](https://zh.wikipedia.org/wiki/File:Application_of_nitrile_oxide_in_the_synthesis_of_miyakolide.tif "fig:Application_of_nitrile_oxide_in_the_synthesis_of_miyakolide.tif")
+
+### 羰基叶立德
+
+[1,3-dipolar
+cycloaddition](https://zh.wikipedia.org/wiki/1,3-dipolar_cycloaddition "wikilink")
+reactions have emerged as powerful tools in the synthesis of complex
+cyclic scaffolds and molecules for medicinal, biological, and
+mechanistic studies. Among them, \[3+2\]
+[cycloaddition](https://zh.wikipedia.org/wiki/cycloaddition "wikilink")
+reactions involving carbonyl ylides have extensively been employed to
+generate oxygen-containing five-membered cyclic molecules.\[35\]
+
+#### 用于1,3-偶极环加成反应的羰基叶立德的制备
+
+[Ylides](https://zh.wikipedia.org/wiki/Ylides "wikilink") are regarded
+as positively charged
+[heteroatoms](https://zh.wikipedia.org/wiki/heteroatoms "wikilink")
+connected to negatively charged carbon atoms, which include ylides of
+[sulfonium](https://zh.wikipedia.org/wiki/sulfonium "wikilink"),
+[thiocarbonyl](https://zh.wikipedia.org/wiki/thiocarbonyl "wikilink"),
+[oxonium](https://zh.wikipedia.org/wiki/oxonium_ion "wikilink"),
+[nitrogen](https://zh.wikipedia.org/wiki/nitrogen "wikilink"), and
+[carbonyl](https://zh.wikipedia.org/wiki/carbonyl "wikilink").\[36\]
+Several methods exist for generating carbonyl ylides, which are
+necessary intermediates for generating oxygen-containing five-membered
+ring structures, for \[3+2\] cycloaddition reactions.
+
+##### 通过光催化从重氮甲烷衍生物合成羰基叶立德
+
+One of the earliest examples of carbonyl ylide
+[化学合成](../Page/化学合成.md "wikilink") involves
+[光催化](https://zh.wikipedia.org/wiki/光催化 "wikilink").\[37\]
+[Photolysis](https://zh.wikipedia.org/wiki/Photolysis "wikilink") of
+diazotetrakis(trifluoromethyl)cyclopentadiene\* (DTTC) in the presence
+of
+[tetramethylurea](https://zh.wikipedia.org/wiki/tetramethylurea "wikilink")
+can generate the carbonyl ylide by an
+[分子间](https://zh.wikipedia.org/wiki/分子间 "wikilink")
+[亲核体](../Page/亲核体.md "wikilink") attack and subsequent
+[芳构化](https://zh.wikipedia.org/wiki/芳构化反应 "wikilink") of the DTTC
+moiety.\[38\] This was isolated and characterized by
+[X射线晶体学](../Page/X射线晶体学.md "wikilink") due to the
+stability imparted by aromaticity, [electron
+withdrawing](https://zh.wikipedia.org/wiki/deactivating_groups "wikilink")
+trifluoromethyl groups, and the [electron
+donating](https://zh.wikipedia.org/wiki/activating_group "wikilink")
+dimethylamine groups. Stable carbonyl ylide
+[1,3-偶极体](../Page/1,3-偶极体.md "wikilink") can then be used in
+\[3+2\] cycloaddition reactions with
+[dipolarophiles](https://zh.wikipedia.org/wiki/dipolarophile "wikilink").
+
+[Photolysis_of_DTTC_in_the_presence_of_tetramethylurea._Modified_from_Janulis,_E._P.;_Arduengo,_A._J._J._Am._Chem._Soc._1983,_105,_5929..png](https://zh.wikipedia.org/wiki/File:Photolysis_of_DTTC_in_the_presence_of_tetramethylurea._Modified_from_Janulis,_E._P.;_Arduengo,_A._J._J._Am._Chem._Soc._1983,_105,_5929..png "fig:Photolysis_of_DTTC_in_the_presence_of_tetramethylurea._Modified_from_Janulis,_E._P.;_Arduengo,_A._J._J._Am._Chem._Soc._1983,_105,_5929..png")
+
+Another early example of carbonyl ylide synthesis by photocatalysis was
+reported by Olah *et al*.\[39\] Dideuteriodiazomethane was photolysed in
+the presence of
+[formaldehyde](https://zh.wikipedia.org/wiki/formaldehyde "wikilink") to
+generate the dideuterioformaldehyde carbonyl ylide.
+
+[Photolysis_of_Dideuteriodiazomethane_with_formaldehyde._Modified_from_Prakash,_G._K._S.;_Ellis,_R._W.;_Felberg,_J._D.;_Olah,_G._A._J_Am_Chem_Soc_1986,_108,_1341..png](https://zh.wikipedia.org/wiki/File:Photolysis_of_Dideuteriodiazomethane_with_formaldehyde._Modified_from_Prakash,_G._K._S.;_Ellis,_R._W.;_Felberg,_J._D.;_Olah,_G._A._J_Am_Chem_Soc_1986,_108,_1341..png "fig:Photolysis_of_Dideuteriodiazomethane_with_formaldehyde._Modified_from_Prakash,_G._K._S.;_Ellis,_R._W.;_Felberg,_J._D.;_Olah,_G._A._J_Am_Chem_Soc_1986,_108,_1341..png")
+
+##### 通过质子转移从羟基吡喃酮合成羰基叶立德
+
+Carbonyl ylides can be synthesized by [acid
+catalysis](https://zh.wikipedia.org/wiki/acid_catalysis "wikilink") of
+hydroxy-3-pyrones in the absence of a metal
+[catalyst](https://zh.wikipedia.org/wiki/catalyst "wikilink").\[40\] An
+initial
+[tautomerization](https://zh.wikipedia.org/wiki/tautomerization "wikilink")
+occurs, followed by
+[elimination](https://zh.wikipedia.org/wiki/elimination_reaction "wikilink")
+of the [leaving
+group](https://zh.wikipedia.org/wiki/leaving_group "wikilink") to
+aromatize the [pyrone](https://zh.wikipedia.org/wiki/pyrone "wikilink")
+ring and to generate the carbonyl ylide. A cycloaddition reaction with a
+[dipolarophile](https://zh.wikipedia.org/wiki/dipolarophile "wikilink")
+lastly forms the oxacycle. This approach is less widely employed due to
+its limited utility and requirement for pyrone skeletons.
+
+[Acid-Catalyzed_Synthesis_of_Carbonyl_Ylides_from_Hydroxy-3-Pyrones._Modified_from_Sammes,_P._G.;_Street,_L._J._J._Chem._Soc.,_Chem._Commun._1982,_1056..png](https://zh.wikipedia.org/wiki/File:Acid-Catalyzed_Synthesis_of_Carbonyl_Ylides_from_Hydroxy-3-Pyrones._Modified_from_Sammes,_P._G.;_Street,_L._J._J._Chem._Soc.,_Chem._Commun._1982,_1056..png "fig:Acid-Catalyzed_Synthesis_of_Carbonyl_Ylides_from_Hydroxy-3-Pyrones._Modified_from_Sammes,_P._G.;_Street,_L._J._J._Chem._Soc.,_Chem._Commun._1982,_1056..png")
+
+5-hydroxy-4-pyrones can also be used to synthesize carbonyl ylides by an
+[intramolecular](https://zh.wikipedia.org/wiki/intramolecular "wikilink")
+[hydrogen
+transfer](https://zh.wikipedia.org/wiki/hydrogen_transfer "wikilink").\[41\]
+After hydrogen transfer, the carbonyl ylide can then react with
+dipolarophiles to form oxygen-containing rings.
+
+[Intramolecular_Hydrogen_Transfer-Mediated_Synthesis_of_Carbonyl_Ylides_from_5-Hydroxy-4-Pyrones._Modified_from_Garst,_M._E.;_McBride,_B._J.;_Douglass_III,_J._G._Tetrahedron_Lett._1983,_24,_1675..png](https://zh.wikipedia.org/wiki/File:Intramolecular_Hydrogen_Transfer-Mediated_Synthesis_of_Carbonyl_Ylides_from_5-Hydroxy-4-Pyrones._Modified_from_Garst,_M._E.;_McBride,_B._J.;_Douglass_III,_J._G._Tetrahedron_Lett._1983,_24,_1675..png "fig:Intramolecular_Hydrogen_Transfer-Mediated_Synthesis_of_Carbonyl_Ylides_from_5-Hydroxy-4-Pyrones._Modified_from_Garst,_M._E.;_McBride,_B._J.;_Douglass_III,_J._G._Tetrahedron_Lett._1983,_24,_1675..png")
+
+##### 由二卤卡宾合成α-卤代羰基叶立德
+
+Dihalocarbenes have also been employed to generate carbonyl ylides,
+exploiting the electron withdrawing nature of
+dihalocarbenes.\[42\]\[43\]\[44\] Both
+[phenyl(trichloromethyl)mercury](https://zh.wikipedia.org/wiki/phenyl\(trichloromethyl\)mercury "wikilink")
+and phenyl(tribromomethyl)mercury are sources
+[dichlorocarbenes](https://zh.wikipedia.org/wiki/dichlorocarbenes "wikilink")
+and
+[dibromocarbenes](https://zh.wikipedia.org/wiki/dibromocarbenes "wikilink"),
+respectively. The carbonyl ylide can be generated upon reaction of the
+dihalocarbenes with
+[ketones](https://zh.wikipedia.org/wiki/ketones "wikilink") or
+[aldehydes](https://zh.wikipedia.org/wiki/aldehydes "wikilink").
+However, the synthesis of α-halocarbonyl ylides can also undesirably
+lead to the loss of [carbon
+monoxide](https://zh.wikipedia.org/wiki/carbon_monoxide "wikilink") and
+the generation of the deoxygenation product.
+
+[Α-Halocarbonyl_Ylide_Synthesis_via_Dihalocarbene_Intermediates._Modified_from_Padwa,_A.;_Hornbuckle,_S._F._Chem_Rev_1991,_91,_263..png](https://zh.wikipedia.org/wiki/File:Α-Halocarbonyl_Ylide_Synthesis_via_Dihalocarbene_Intermediates._Modified_from_Padwa,_A.;_Hornbuckle,_S._F._Chem_Rev_1991,_91,_263..png "fig:Α-Halocarbonyl_Ylide_Synthesis_via_Dihalocarbene_Intermediates._Modified_from_Padwa,_A.;_Hornbuckle,_S._F._Chem_Rev_1991,_91,_263..png")
+
+##### 通过金属催化由重氮甲烷衍生物合成羰基叶立德
+
+A universal approach for generating carbonyl ylides involves [metal
+catalysis](https://zh.wikipedia.org/wiki/metal_catalysis "wikilink") of
+α-diazocarbonyl compounds, generally in the presence of dicopper or
+dirhodium catalysts.\[45\] After release of [nitrogen
+gas](https://zh.wikipedia.org/wiki/nitrogen_gas "wikilink") and
+conversion to the
+[metallocarbene](https://zh.wikipedia.org/wiki/metallocarbene "wikilink"),
+an intermolecular reaction with a carbonyl group can generate the
+carbonyl ylide. Subsequent cycloaddition reaction with an
+[alkene](https://zh.wikipedia.org/wiki/alkene "wikilink") or
+[alkyne](https://zh.wikipedia.org/wiki/alkyne "wikilink") dipolarophile
+can afford oxygen-containing five-membered rings. Popular catalysts that
+give modest yields towards synthesizing oxacycles include
+Rh<sub>2</sub>(OAc)<sub>4</sub> and Cu(acac)<sub>2</sub>.\[46\]\[47\]
+
+[Metal-Catalyzed_Synthesis_of_Carbonyl_Ylides._Reproduced_from_Hodgson,_D._M.;_Bruckl,_T.;_Glen,_R.;_Labande,_A._H.;_Selden,_D._A.;_Dossetter,_A._G.;_Redgrave,_A._J._Proc._Natl._Acad._Sci._U.S.A._2004,_101,_5450..png](https://zh.wikipedia.org/wiki/File:Metal-Catalyzed_Synthesis_of_Carbonyl_Ylides._Reproduced_from_Hodgson,_D._M.;_Bruckl,_T.;_Glen,_R.;_Labande,_A._H.;_Selden,_D._A.;_Dossetter,_A._G.;_Redgrave,_A._J._Proc._Natl._Acad._Sci._U.S.A._2004,_101,_5450..png "fig:Metal-Catalyzed_Synthesis_of_Carbonyl_Ylides._Reproduced_from_Hodgson,_D._M.;_Bruckl,_T.;_Glen,_R.;_Labande,_A._H.;_Selden,_D._A.;_Dossetter,_A._G.;_Redgrave,_A._J._Proc._Natl._Acad._Sci._U.S.A._2004,_101,_5450..png")
+
+#### 由二氮羰基化合物的金属催化介导的1,3-偶极环加成反应的机理
+
+The universality and extensive use of 1,3-dipolar cycloaddition
+reactions mediated by metal catalysis of diazocarbonyl molecules, for
+synthesizing oxygen-containing five-membered rings, has spurred
+significant interest into its mechanism. Several groups have
+investigated the
+[mechanism](https://zh.wikipedia.org/wiki/reaction_mechanism "wikilink")
+to expand the scope of synthetic molecules with respect to
+[regio-](https://zh.wikipedia.org/wiki/regioselectivity "wikilink") and
+[stereo-selectivity](https://zh.wikipedia.org/wiki/stereoselectivity "wikilink").
+However, due to the high turn over frequencies of these reactions, the
+intermediates and mechanism remains elusive. The generally accepted
+mechanism, developed by characterization of stable ruthenium-carbenoid
+complexes\[48\] and rhodium metallocarbenes,\[49\] involves an initial
+formation of a metal-carbenoid complex from the
+[diazo](https://zh.wikipedia.org/wiki/diazo "wikilink") compound.
+Elimination of nitrogen gas then affords a metallocarbene. An
+intramolecular nucleophilic attack by the carbonyl oxygen regenerates
+the metal catalyst and forms the carbonyl ylide. The carbonyl ylide can
+then react with an alkene or alkyne, such as dimethyl
+acetylenedicarboxylate (DMAD) to generate the oxacycle.
+
+[Accepted_Mechanism_of_the_1,3-Dipolar_Cycloaddition_Reaction_Mediated_by_Metal_Catalysis_of_Diazocarbonyl_Compounds._Modified_from_M._Hodgson,_D._et_al._In_Organic_Reactions;_John_Wiley_&_Sons,_Inc.png](https://zh.wikipedia.org/wiki/File:Accepted_Mechanism_of_the_1,3-Dipolar_Cycloaddition_Reaction_Mediated_by_Metal_Catalysis_of_Diazocarbonyl_Compounds._Modified_from_M._Hodgson,_D._et_al._In_Organic_Reactions;_John_Wiley_&_Sons,_Inc.png "fig:Accepted_Mechanism_of_the_1,3-Dipolar_Cycloaddition_Reaction_Mediated_by_Metal_Catalysis_of_Diazocarbonyl_Compounds._Modified_from_M._Hodgson,_D._et_al._In_Organic_Reactions;_John_Wiley_&_Sons,_Inc.png")
+
+However, it is uncertain whether the metallocarbene intermediate
+generates the carbonyl ylide. In some cases, metallocarbenes can also
+react directly with dipolarophiles.\[50\] In these cases, the
+metallocarbene, such as the dirhodium(II)tetracarboxylate carbene, is
+stabilized through
+[hyperconjugative](https://zh.wikipedia.org/wiki/hyperconjugation "wikilink")
+metal [enolate-type](https://zh.wikipedia.org/wiki/enolate "wikilink")
+interactions.\[51\]\[52\]\[53\]\[54\] Subsequent 1,3-dipolar
+cycloaddition reaction occurs through a transient metal-complexed
+carbonyl ylide. Therefore, a persistent metallocarbene can influence the
+stereoselectivity and regioselectivity of the 1,3-dipolar cycloaddition
+reaction based on the stereochemistry and size of the metal
+[ligands](https://zh.wikipedia.org/wiki/ligands "wikilink").
+
+[The_dirhodium(II)tetracarboxylate_metallocarbene_stabilized_by_πC-Rh→πC=O_hyperconjugation..png](https://zh.wikipedia.org/wiki/File:The_dirhodium\(II\)tetracarboxylate_metallocarbene_stabilized_by_πC-Rh→πC=O_hyperconjugation..png "fig:The_dirhodium(II)tetracarboxylate_metallocarbene_stabilized_by_πC-Rh→πC=O_hyperconjugation..png")
+
+The mechanism of the 1,3-dipolar cycloaddition reaction between the
+carbonyl ylide dipole and
+[alkynyl](https://zh.wikipedia.org/wiki/alkynyl "wikilink") or
+[alkenyl](https://zh.wikipedia.org/wiki/alkenyl "wikilink")
+dipolarophiles has been extensively investigated with respect to
+regioselectivity and stereoselectivity. As
+[symmetric](https://zh.wikipedia.org/wiki/symmetric "wikilink")
+dipolarophiles have one orientation for cycloaddition, only one
+[regioisomer](https://zh.wikipedia.org/wiki/regioisomer "wikilink"), but
+multiple
+[stereoisomers](https://zh.wikipedia.org/wiki/stereoisomers "wikilink")
+can be obtained.\[55\] On the contrary,
+[unsymmetric](https://zh.wikipedia.org/wiki/chiral_ligand "wikilink")
+dipolarophiles can have multiple regioisomers and stereoisomers. These
+regioisomers and stereoisomers may be predicted based on [frontier
+molecular orbital (FMO)
+theory](https://zh.wikipedia.org/wiki/frontier_molecular_orbital_theory "wikilink"),
+[steric
+interactions](https://zh.wikipedia.org/wiki/steric_effects "wikilink"),
+and [stereoelectronic
+interactions](https://zh.wikipedia.org/wiki/electronic_effect "wikilink").\[56\]\[57\]
+
+[Products_of_the_1,3-Dipolar_Cycloaddition_Reaction_Between_Carbonyl_Ylide_Dipoles_and_Alkenyl_or_Alkynyl_Dipolarophiles._Modified_from_M._Hodgson,_D.;_H._Labande,_A.;_Muthusamy,_S._In_Organic_Reactions;_John_Wiley_&_Sons,_Inc._2004..png](https://zh.wikipedia.org/wiki/File:Products_of_the_1,3-Dipolar_Cycloaddition_Reaction_Between_Carbonyl_Ylide_Dipoles_and_Alkenyl_or_Alkynyl_Dipolarophiles._Modified_from_M._Hodgson,_D.;_H._Labande,_A.;_Muthusamy,_S._In_Organic_Reactions;_John_Wiley_&_Sons,_Inc._2004..png "fig:Products_of_the_1,3-Dipolar_Cycloaddition_Reaction_Between_Carbonyl_Ylide_Dipoles_and_Alkenyl_or_Alkynyl_Dipolarophiles._Modified_from_M._Hodgson,_D.;_H._Labande,_A.;_Muthusamy,_S._In_Organic_Reactions;_John_Wiley_&_Sons,_Inc._2004..png")
+
+##### 由二氮羰基化合物的金属催化介导的1,3-偶极环加成反应的区域选择性
+
+Regioselectivity of 1,3-dipolar cycloaddition reactions between carbonyl
+ylide dipoles and alkynyl or alkenyl dipolarophiles is essential for
+generating molecules with defined regiochemistry. FMO theory and
+analysis of the
+[HOMO-LUMO](https://zh.wikipedia.org/wiki/HOMO-LUMO "wikilink") energy
+gaps between the dipole and dipolarophile can rationalize and predict
+the regioselectivity of experimental outcomes.\[58\]\[59\] The HOMOs and
+LUMOs can belong to either the dipole or dipolarophile, for which
+HOMO<sub>dipole</sub>-LUMO<sub>dipolarophile</sub> or
+HOMO<sub>dipolarophile</sub>-LUMO<sub>dipole</sub> interactions can
+exist. Overlap of the
+[orbitals](https://zh.wikipedia.org/wiki/atomic_orbital "wikilink") with
+the largest coefficients can ultimately rationalize and predict results.
+
+[Diagram_of_the_Molecular_Orbital_Interactions_of_HOMOdipole-LUMOdipolarophile_or_HOMOdipolarophile-LUMOdipole_Between_a_Carbonyl_Ylide_Dipole_and_Alkenyl_Dipolarophile..png](https://zh.wikipedia.org/wiki/File:Diagram_of_the_Molecular_Orbital_Interactions_of_HOMOdipole-LUMOdipolarophile_or_HOMOdipolarophile-LUMOdipole_Between_a_Carbonyl_Ylide_Dipole_and_Alkenyl_Dipolarophile..png "fig:Diagram_of_the_Molecular_Orbital_Interactions_of_HOMOdipole-LUMOdipolarophile_or_HOMOdipolarophile-LUMOdipole_Between_a_Carbonyl_Ylide_Dipole_and_Alkenyl_Dipolarophile..png")
+
+The archetypal regioselectivity of the 1,3-dipolar cycloaddition
+reaction mediated by carbonyl ylide dipoles has been examined by Padwa
+and coworkers.\[60\]\[61\] Using a Rh<sub>2</sub>(OAc)<sub>4</sub>
+catalyst in benzene, diazodione underwent a 1,3-dipolar cycloaddition
+reaction with
+[methyl](https://zh.wikipedia.org/wiki/methyl_group "wikilink")
+propiolate and methyl
+[propargyl](https://zh.wikipedia.org/wiki/propargyl "wikilink")
+[ether](https://zh.wikipedia.org/wiki/ether "wikilink"). The reaction
+with [methyl
+propiolate](https://zh.wikipedia.org/wiki/methyl_propiolate "wikilink")
+affords two regioisomers with the major resulting from the
+HOMO<sub>dipole</sub>-LUMO<sub>dipolarophile</sub> interaction, which
+has the largest coefficients on the carbon proximal to the carbonyl
+group of the carbonyl ylide and on the methyl propiolate terminal alkyne
+carbon. The reaction with methyl propargyl ether affords one regioisomer
+resulting from the HOMO<sub>dipolarophile</sub>-LUMO<sub>dipole</sub>
+interaction, which has largest coefficients on the carbon distal to the
+carbonyl group of the carbonyl ylide and on the methyl propargyl ether
+terminal alkyne carbon.
+
+[Regioselectivity_and_Molecular_Orbital_Interactions_of_the_1,3-Dipolar_Cycloaddition_Reaction_Between_a_Diazodione_and_Methyl_Propiolate_or_Methyl_Propargyl_Ether._Modified_from_Padwa,_A.;_Weingarten,_M._D._Chem_Rev_1996,_96,_223..png](https://zh.wikipedia.org/wiki/File:Regioselectivity_and_Molecular_Orbital_Interactions_of_the_1,3-Dipolar_Cycloaddition_Reaction_Between_a_Diazodione_and_Methyl_Propiolate_or_Methyl_Propargyl_Ether._Modified_from_Padwa,_A.;_Weingarten,_M._D._Chem_Rev_1996,_96,_223..png "fig:Regioselectivity_and_Molecular_Orbital_Interactions_of_the_1,3-Dipolar_Cycloaddition_Reaction_Between_a_Diazodione_and_Methyl_Propiolate_or_Methyl_Propargyl_Ether._Modified_from_Padwa,_A.;_Weingarten,_M._D._Chem_Rev_1996,_96,_223..png")
+
+Regioselectivities of 1,3-dipolar cycloaddition reactions mediated by
+metal catalysis of diazocarbonyl compounds may also be influenced by the
+metal through formation of stable metallocarbenes.\[62\]\[63\]
+Stabilization of the metallocarbene, via metal enolate-type
+interactions, will prevent the formation of carbonyl ylides, resulting
+in a direct reaction between the metallocarbene dipole and an alkynyl or
+alkenyl dipolarophile (see image of The dirhodium(II)tetracarboxylate
+metallocarbene stabilized by π<sub>C-Rh</sub>→π<sub>C=O</sub>
+hyperconjugation.). In this situation, the metal ligands will influence
+the regioselectivity and stereoselectivity of the 1,3-dipolar
+cycloaddition reaction.
+
+##### 重氮化羰基化合物金属催化介导的1,3-偶极环加成反应的立体选择性和不对称诱导
+
+The
+[stereoselectivity](https://zh.wikipedia.org/wiki/stereoselectivity "wikilink")
+of 1,3-dipolar cycloaddition reactions between carbonyl ylide dipoles
+and alkenyl dipolarophiles has also been closely examined. For alkynyl
+dipolarophiles, stereoselectivity is not an issue as relatively planar
+sp<sup>2</sup> carbons are formed, while regioselectivity must be
+considered (see image of the Products of the 1,3-Dipolar Cycloaddition
+Reaction Between Carbonyl Ylide Dipoles and Alkenyl or Alkynyl
+Dipolarophiles). However, for alkenyl dipolarophiles, both
+regioselectivity and stereoselectivity must be considered as
+sp<sup>3</sup> carbons are generated in the product species.
+
+1,3-dipolar cycloaddition reactions between carbonyl ylide dipoles and
+alkenyl dipolarophiles can generate
+[diastereomeric](https://zh.wikipedia.org/wiki/diastereomeric "wikilink")
+products.\[64\] The [*exo*
+product](https://zh.wikipedia.org/wiki/endo-exo_isomerism "wikilink") is
+characterized with dipolarophile substituents being
+[*cis*](https://zh.wikipedia.org/wiki/cis-trans_isomerism "wikilink") to
+the ether bridge of the oxacycle. The [*endo*
+product](https://zh.wikipedia.org/wiki/endo-exo_isomerism "wikilink") is
+characterized with the dipolarophile substituents being
+[*trans*](https://zh.wikipedia.org/wiki/cis-trans_isomerism "wikilink")
+to the ether bridge of the oxacycle. Both products can be generated
+through
+[pericyclic](https://zh.wikipedia.org/wiki/pericyclic_reaction "wikilink")
+transitions states involving
+[concerted](https://zh.wikipedia.org/wiki/concerted "wikilink")
+synchronous or concerted asynchronous processes.
+
+One early example conferred stereoselectivity in terms of *endo* and
+*exo* products with metal catalysts and Lewis acids.\[65\] Reactions
+with just the metal catalyst Rh<sub>2</sub>(OAc)<sub>4</sub> prefer the
+*exo* product while reactions with the additional Lewis acid
+Yb(OTf)<sub>3</sub> prefer the *endo* product. The *endo* selectivity
+observed for Lewis acid cycloaddition reactions is attributed to the
+optimized orbital overlap of the carbonyl π systems between the
+dipolarophile coordinated by Yb(Otf)<sub>3</sub> (LUMO) and the dipole
+(HOMO). After many investigations, two primary approaches for
+influencing the stereoselectivity of carbonyl ylide cycloadditions have
+been developed that exploit the chirality of metal catalysts and Lewis
+acids.\[66\]
+
+[Facial_Selectivity_of_the_1,3-Dipolar_Cycloaddition_Reaction_using_a_Metal_Catalyst_and_Lewis_Acid.png](https://zh.wikipedia.org/wiki/File:Facial_Selectivity_of_the_1,3-Dipolar_Cycloaddition_Reaction_using_a_Metal_Catalyst_and_Lewis_Acid.png "fig:Facial_Selectivity_of_the_1,3-Dipolar_Cycloaddition_Reaction_using_a_Metal_Catalyst_and_Lewis_Acid.png")
+
+[Rationale_for_the_Endo_Selectivity_of_the_1,3-Dipolar_Cycloaddition_Reaction_with_a_Lewis_Acid.png](https://zh.wikipedia.org/wiki/File:Rationale_for_the_Endo_Selectivity_of_the_1,3-Dipolar_Cycloaddition_Reaction_with_a_Lewis_Acid.png "fig:Rationale_for_the_Endo_Selectivity_of_the_1,3-Dipolar_Cycloaddition_Reaction_with_a_Lewis_Acid.png")
+
+The first approach employs chiral metal catalysts to modulate the *endo*
+and *exo* stereoselectivity. The chiral catalysts, in particular
+Rh<sub>2</sub>\[(*S*)-DOSP\]<sub>4</sub> and
+Rh<sub>2</sub>\[(*S*)-BPTV\]<sub>4</sub> can induce modest asymmetric
+induction and was used to synthesize the
+[antifungal](https://zh.wikipedia.org/wiki/antifungal_protein "wikilink")
+agent pseudolaric acid A.\[67\] This is a result of the
+[chiral](https://zh.wikipedia.org/wiki/chiral "wikilink") metal catalyst
+remaining associated with the carbonyl ylide during the cycloaddition,
+which confers facial selectivity. However, the exact mechanisms are not
+yet fully understood.
+
+[Asymmetric_Induction_of_the_1,3-Dipolar_Cycloaddition_Reaction_with_Chiral_Metal_Catalysts.png](https://zh.wikipedia.org/wiki/File:Asymmetric_Induction_of_the_1,3-Dipolar_Cycloaddition_Reaction_with_Chiral_Metal_Catalysts.png "fig:Asymmetric_Induction_of_the_1,3-Dipolar_Cycloaddition_Reaction_with_Chiral_Metal_Catalysts.png")
+
+The second approach employs a chiral Lewis acid catalyst to induce
+facial stereoselectivity after the generation of the carbonyl ylide
+using an achiral metal catalyst.\[68\] The chiral Lewis acid catalyst is
+believed to coordinate to the dipolarophile, which lowers the LUMO of
+the dipolarophile while also leading to
+[enantioselectivity](https://zh.wikipedia.org/wiki/enantioselective_synthesis "wikilink").
+
+[Asymmetric_Induction_of_the_1,3-Dipolar_Cycloaddition_Reaction_with_Chiral_Lewis_Acid_Catalysts.png](https://zh.wikipedia.org/wiki/File:Asymmetric_Induction_of_the_1,3-Dipolar_Cycloaddition_Reaction_with_Chiral_Lewis_Acid_Catalysts.png "fig:Asymmetric_Induction_of_the_1,3-Dipolar_Cycloaddition_Reaction_with_Chiral_Lewis_Acid_Catalysts.png")
+
+### 甲亚胺叶立德
+
+1,3-Dipolar cycloaddition between an azomethine ylide and an alkene
+furnishes an azacyclic structure, such as
+[pyrrolidine](https://zh.wikipedia.org/wiki/pyrrolidine "wikilink").
+This strategy has been applied to the synthesis of spirotryprostatin
+A.\[69\]
+
+[Application_of_azomethine_ylide_in_the_synthesis_of_spirotryprostatin.tif](https://zh.wikipedia.org/wiki/File:Application_of_azomethine_ylide_in_the_synthesis_of_spirotryprostatin.tif "fig:Application_of_azomethine_ylide_in_the_synthesis_of_spirotryprostatin.tif")
+
+### 臭氧
+
+[Ozonolysis](https://zh.wikipedia.org/wiki/Ozonolysis "wikilink") is a
+very important organic reaction. Alkenes and alkynes can be cleaved by
+ozonolysis to give
+[aldehyde](https://zh.wikipedia.org/wiki/aldehyde "wikilink"),
+[ketone](https://zh.wikipedia.org/wiki/ketone "wikilink") or [carboxylic
+acid](https://zh.wikipedia.org/wiki/carboxylic_acid "wikilink")
+products.
+
+## 生物应用
+
+The 1,3-dipolar cycloaddition between organic azides and terminal
+alkynes (i.e., the [Huisgen
+cycloaddition](https://zh.wikipedia.org/wiki/azide-alkyne_Huisgen_cycloaddition "wikilink"))
+has been widely utilized for
+[bioconjugation](https://zh.wikipedia.org/wiki/bioconjugation "wikilink").
+
+### 铜催化
+
+The Huisgen reaction generally does not proceed readily under mild
+conditions. Meldal *et al.* and Sharpless *et al.* independently
+developed a
+[copper](https://zh.wikipedia.org/wiki/copper "wikilink")(I)-catalyzed
+version of the Huisgen reaction, CuAAC (for Copper-catalyzed
+Azide-Alkyne Cycloaddition), which proceeds very readily in mild,
+including
+[physiological](https://zh.wikipedia.org/wiki/physiological "wikilink"),
+conditions (neutral [pH](https://zh.wikipedia.org/wiki/pH "wikilink"),
+room [temperature](https://zh.wikipedia.org/wiki/temperature "wikilink")
+and [water
+solution](https://zh.wikipedia.org/wiki/aqueous_solution "wikilink")).\[70\]\[71\]
+This reaction is also
+[bioorthogonal](https://zh.wikipedia.org/wiki/bioorthogonal_chemistry "wikilink"):
+azides and alkynes are both generally absent from biological systems and
+therefore these functionalities can be
+[chemoselectively](https://zh.wikipedia.org/wiki/chemoselectivity "wikilink")
+reacted even in the [cellular
+context](https://zh.wikipedia.org/wiki/cell_\(biology\) "wikilink").
+They also do not react with other functional groups found in nature, so
+they do not perturb biological systems. The reaction is so versatile
+that it is termed the ["Click"
+chemistry](https://zh.wikipedia.org/wiki/Click_chemistry "wikilink").
+Although copper(I) is
+[toxic](https://zh.wikipedia.org/wiki/cytotoxicity "wikilink"), many
+protective [ligands](https://zh.wikipedia.org/wiki/ligand "wikilink")
+have been developed to both reduce cytotoxicity and improve rate of
+CuAAC, allowing it to be used in *[in
+vivo](https://zh.wikipedia.org/wiki/in_vivo "wikilink")* studies.\[72\]
+
+[Copper_catalyzed_AAC.tif](https://zh.wikipedia.org/wiki/File:Copper_catalyzed_AAC.tif "fig:Copper_catalyzed_AAC.tif")
+
+For example, Bertozzi *et al.* reported the
+[metabolic](https://zh.wikipedia.org/wiki/metabolic "wikilink")
+incorporation of azide-functionalized
+[saccharides](https://zh.wikipedia.org/wiki/saccharide "wikilink") into
+the [glycan](https://zh.wikipedia.org/wiki/glycan "wikilink") of the
+[cell membrane](https://zh.wikipedia.org/wiki/cell_membrane "wikilink"),
+and subsequent labeling with
+[fluorophore](https://zh.wikipedia.org/wiki/fluorophore "wikilink")-alkyne
+conjugate. The now fluorescently labeled cell membrane can be
+[imaged](https://zh.wikipedia.org/wiki/fluorescent_imaging "wikilink")
+under the
+[microscope](https://zh.wikipedia.org/wiki/fluorescence_microscope "wikilink").\[73\]
+
+[Metabolic_labeling_with_GlcNAz_and_click_chemistry.tif](https://zh.wikipedia.org/wiki/File:Metabolic_labeling_with_GlcNAz_and_click_chemistry.tif "fig:Metabolic_labeling_with_GlcNAz_and_click_chemistry.tif")
+
+### 菌株促进的环加成
+
+To avoid toxicity of copper(I), Bertozzi *et al.* developed the
+strain-promoted azide-alkyne cycloaddition (SPAAC) between organic azide
+and strained
+[cyclooctyne](https://zh.wikipedia.org/wiki/cyclooctyne "wikilink"). The
+angle distortion of the cyclooctyne helps to speed up the reaction,
+enabling it to be used in physiological conditions without the need for
+the catalyst.\[74\]
+
+[Strained_promoted_AAC.tif](https://zh.wikipedia.org/wiki/File:Strained_promoted_AAC.tif "fig:Strained_promoted_AAC.tif")
+
+For instance, Ting *et al.* introduced an azido functionality onto
+specific [proteins](https://zh.wikipedia.org/wiki/proteins "wikilink")
+on the [cell
+surface](https://zh.wikipedia.org/wiki/cell_membrane "wikilink") using a
+[ligase](https://zh.wikipedia.org/wiki/ligase "wikilink") enzyme. The
+azide-tagged protein is then labeled with cyclooctyne-fluorophore
+conjugate to yield a fluorescently labeled protein.\[75\]
+
+[Enzyme-mediated_labeling_with_azidooctanoic_acid_and_SPAAC.tif](https://zh.wikipedia.org/wiki/File:Enzyme-mediated_labeling_with_azidooctanoic_acid_and_SPAAC.tif "fig:Enzyme-mediated_labeling_with_azidooctanoic_acid_and_SPAAC.tif")
+
+## 参考文献
+
+<references/>
+
+[Category:Nitrogen_heterocycle_forming_reactions](https://zh.wikipedia.org/wiki/Category:Nitrogen_heterocycle_forming_reactions "wikilink")
+[Category:Cycloadditions](https://zh.wikipedia.org/wiki/Category:Cycloadditions "wikilink")
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+8.
+
+9.
+
+10.
+
+11.
+
+12.
+
+13.
+
+14.
+
+15.
+
+16.
+
+17.
+
+18.
+
+19.
+
+20.
+
+21.
+
+22.
+
+23.
+
+24.
+
+25.
+
+26.
+
+27.
+
+28.
+
+29.
+
+30.
+
+31.
+
+32.
+
+33.
+
+34.
+
+35. Synthetic Reactions of M=C and M=N Bonds: Ylide Formation,
+    Rearrangement, and 1,3-Dipolar Cycloaddition; Hiyama, T. W., J.,
+    Ed.; Elsevier, 2007; Vol. 11.
+
+36.
+
+37.
+
+38.
+39. Prakash, G. K. S.; Ellis, R. W.; Felberg, J. D.; Olah, G. A.
+    [Formaldehyde 0-Methylide,
+    \[CH2=O+-CH2](http://pubs.acs.org/doi/pdf/10.1021/ja00266a059): The
+    Parent Carbonyl Ylide\] J Am Chem Soc 1986, 108, 1341.
+
+40. Sammes, P. G.; Street, L. J. [Intra molecular Cyclo additions with
+    Oxido pyrylium
+    Ylides](http://pubs.rsc.org/en/content/articlepdf/1982/c3/c39820001056)
+    J. Chem. Soc., Chem. Commun. 1982, 1056.
+
+41. Garst, M. E.; McBride, B. J.; Douglass III, J. G. [Intramolecular
+    cycloadditions
+    with 2-(ω-alkenyl)-5-hydroxy-4-pyrones](http://www.sciencedirect.com/science/article/pii/S0040403900817426)
+    Tetrahedron Lett. 1983, 24, 1675.
+
+42. Gisch, J. F.; Landgrebe, J. A. [Dichlorocarbene from [flash vacuum
+    pyrolysis](https://zh.wikipedia.org/wiki/flash_vacuum_pyrolysis "wikilink")
+    of trimethyl(trichloromethyl)silane. Possible observation of
+    1,1-dichloro-3-phenylcarbonyl
+    ylide](http://pubs.acs.org/doi/pdf/10.1021/jo00212a009) J Org Chem
+    1985, 50, 2050.
+
+43.
+
+44.
+
+45. Hodgson, D. M.; Bruckl, T.; Glen, R.; Labande, A. H.; Selden, D. A.;
+    Dossetter, A. G.; Redgrave, A. J. [Catalytic enantioselective
+    intermolecular cycloadditions of 2-diazo-3,6-diketoester-derived
+    carbonyl ylides with alkene
+    dipolarophiles](http://www.pnas.org/content/101/15/5450.full?sid=bbcd462e-8ce5-4a6a-82ab-2948b6e4855e)
+    Proceedings of the National Academy of Sciences of the United States
+    of America 2004, 101, 5450.
+
+46.
+
+47. Hamaguchi, M.; Ibata, T. [New Type of Mesoionic System. 1,3-Dipolar
+    Cycloaddition of Isomunchnon With Ethylenic
+    Compounds](https://www.jstage.jst.go.jp/article/cl1972/4/5/4_5_499/_pdf)
+    Chem Lett 1975, 499.
+
+48.
+
+49.
+
+50. Hodgson, D. M.; Pierard, F. Y. T. M.; Stupple, P. A. [Catalytic
+    enantioselective rearrangements and cycloadditions involving ylides
+    from diazo
+    compounds](http://pubs.rsc.org/en/content/articlepdf/2001/cs/b000708k?page=search)
+    Chem Soc Rev 2001, 30, 50.
+
+51.
+
+52.
+
+53. Costantino, G.; Rovito, R.; Macchiarulo, A.; Pellicciari, R.
+    [Structure of metal–carbenoid intermediates derived from the
+    dirhodium(II)tetracarboxylate mediated decomposition of
+    α-diazocarbonyl compounds: a DFT
+    study](http://www.sciencedirect.com/science/article/pii/S0166128001007473)
+    J Mol Struc-Theochem 2002, 581, 111.
+
+54. M. Hodgson, D.; H. Labande, A.; Muthusamy, S. In Organic Reactions;
+    John Wiley & Sons, Inc.: 2004.
+
+55.
+56.
+
+57.
+
+58.
+
+59.
+
+60.
+61.
+
+62.
+63.
+
+64.
+65. Suga, H.; Kakehi, A.; Ito, S.; Inoue, K.; Ishida, H.; Ibata, T.
+    [Stereocontrol in a Ytterbium Triflate-Catalyzed 1,3-Dipolar
+    Cycloaddition Reaction of Carbonyl Ylide with N-Substituted
+    Maleimides and Dimethyl
+    Fumarate](https://www.jstage.jst.go.jp/article/bcsj/74/6/74_6_1115/_pdf)
+    B Chem Soc Jpn 2001, 74, 1115.
+
+66.
+67.
+
+68.
+
+69.
+
+70.
+
+71.
+
+72.
+
+73.
+
+74.
+
+75.

@@ -64,7 +64,7 @@ Superior](../Page/Big_Comic_Superior.md "wikilink")》（[小學館](../Page/小
 
   - 湯球（繪：）
 
-  - （繪：）
+  - （繪：[星野泰視](https://zh.wikipedia.org/wiki/星野泰視 "wikilink")）
 
   - （繪：荒木光）
 
@@ -88,8 +88,6 @@ Superior](../Page/Big_Comic_Superior.md "wikilink")》（[小學館](../Page/小
 [Category:漫畫原作者](https://zh.wikipedia.org/wiki/Category:漫畫原作者 "wikilink")
 [Category:日本平面設計師](https://zh.wikipedia.org/wiki/Category:日本平面設計師 "wikilink")
 [Category:長野縣出身人物](https://zh.wikipedia.org/wiki/Category:長野縣出身人物 "wikilink")
-[Category:1963年出生](https://zh.wikipedia.org/wiki/Category:1963年出生 "wikilink")
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
 
 1.
 

@@ -44,7 +44,7 @@ Wikipedia:頁面存廢討論/疑似侵權\]</span>內容的部分加上：
 
 </div>
 
-<span style="padding: 1px; ">请暂时不要修改本頁或重复创建相同内容的页面。{{\#ifexist:Draft:{{\#ifeq:|118|/temp}}|**已存在[118](https://zh.wikipedia.org/wiki/Draft:{{PAGENAME}}{{#ifeq:{{ns}} "wikilink")。**}}</span>
+<span style="padding: 1px; ">请暂时不要修改本頁或重复创建相同内容的页面。{{\#ifexist:Draft:{{\#ifeq:|Draft|/temp}}|**已存在[Draft](https://zh.wikipedia.org/wiki/Draft:{{PAGENAME}}{{#ifeq:{{NAMESPACE}} "wikilink")。**}}</span>
 {{\!}}- {{\!}} style="padding: 0.5em 1em;"{{\!}}
 
 <big>**如何解决**</big>

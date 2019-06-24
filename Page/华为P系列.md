@@ -65,7 +65,7 @@ Pro则是全球首款后置三摄像头手机，同时也是2010年以来全球�
 <td><p>U9200</p></td>
 <td><p>2012-01 2012-05</p></td>
 <td><p>OMAP4460</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Android_Ice_Cream_Sandwich" title="wikilink">Android 4.0 "ICS"</a></p></td>
+<td><p><a href="../Page/Android_Ice_Cream_Sandwich.md" title="wikilink">Android 4.0 "ICS"</a></p></td>
 <td><p><a href="../Page/Android_Jelly_Bean.md" title="wikilink">Android 4.1 "Jelly Bean"</a> <a href="../Page/EMUI.md" title="wikilink">EMUI</a> 1.x</p></td>
 <td><p>1GB</p></td>
 <td><p>4GB 支持<a href="https://zh.wikipedia.org/wiki/microSD" title="wikilink">microSD</a></p></td>

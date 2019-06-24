@@ -30,7 +30,7 @@ FFEF00 | socks2 = FFEF00 | current = 2019年台灣企業甲級足球聯賽
 
 ## 2019台灣企業甲級聯賽球員名單 \[5\]
 
-<small> 更新日期 ：2019年5月2日 </small>
+<small> 更新日期 ：2019年6月21日 </small>
 
   - 總教練︰莊明諺
 
@@ -45,7 +45,7 @@ pos = FW | name = 李祥偉 }} {{ Fs player | no= 10 | nat = TWN | pos = FW |
 name = [陳昭安](../Page/陳昭安.md "wikilink") }} {{ Fs player | no= 11 | nat =
 TWN | pos = | name = 唐嘉倫 }} {{ Fs player | no= 13 | nat = TWN | pos = |
 name = 石俊傑 }} {{ Fs player | no= 14 | nat = TWN | pos = | name = 廖義仕 }}
-{{ Fs player | no= 15 | nat = TWN | pos = | name = 高田俊 }} {{ Fs player |
+{{ Fs player | no= 15 | nat = JPN | pos = | name = 高田俊 }} {{ Fs player |
 no= 16 | nat = TWN | pos = FW | name = 陳定暐 }} {{ Fs player | no= 17 |
 nat = TWN | pos = FW | name = [許恆賓](../Page/許恆賓.md "wikilink") }} {{ Fs
 player | no= 19 | nat = JPN | pos = | name = 藤原誠二 }}

@@ -6,9 +6,9 @@
 
 ## 强化学习
 
-强化学习涉及一个[智能体](https://zh.wikipedia.org/wiki/智能代理 "wikilink")（），一组「状态」和每个状态下的动作集合。通过执行一个行动\(\,a \in A\)，该智能体从一个状态转移到另一个状态。在一个特定的状态下执行一个动作时，智能体可以得到一个奖励。
+强化学习涉及一个[智慧型代理人](https://zh.wikipedia.org/wiki/智能代理 "wikilink")（），一组「状态」和每个状态下的动作集合。通过执行一个行动\(\,a \in A\)，该智慧型代理人从一个状态转移到另一个状态。在一个特定的状态下执行一个动作时，智慧型代理人可以得到一个奖励。
 
-智能体的目标是最大化其奖励的總和。这个潜在的奖励是所有未来可以拿到的奖励值的期望的加权和。
+智慧型代理人的目标是最大化其奖励的總和。这个潜在的奖励是所有未来可以拿到的奖励值的期望的加权和。
 
 例如，假设现在你要上地铁，奖励就是你所花的时间的相反数。一种策略就是车门一开就往上挤，但是还有很多人要下车，逆着人流往上挤也会花费不少时间，这个时候你花的总时间可能是：
 
@@ -21,9 +21,19 @@
 ## 算法
 
 [Q-Learning_Matrix_Initialized_and_After_Training.png](https://zh.wikipedia.org/wiki/File:Q-Learning_Matrix_Initialized_and_After_Training.png "fig:Q-Learning_Matrix_Initialized_and_After_Training.png")
-行動获得的奖励会被乘以权重（衰减系数）\(\gamma\)。衰減係數\(\,\gamma\,\)是一个0到1之间的数，作用是让智能体更加看重最近得到的奖励。
+
+Q-學習演算法，主要內容為計算狀態與行為對應的**品質函式**\(Q\)：
+
+\[Q: S \times A \to \mathbb{R}\] .
+
+在演算法初始化階段，\(Q\)初始值為零(由設計者設計)。在時間\(t\)時，環境的狀態為\(s_{t}\)，智慧型代理人選擇一個行為\(a_t\)，並且獲得獎勵\(r_t\)，環境因為代理人的行為導致狀態改變為新的狀態\(s_{t+1}\)，此時便可根據以下公式更新\(Q\)值。演算法的核心為簡單的利用過去與最近的權重平均值來迭代更新數值。
 
 \[Q^{new}(s_{t},a_{t}) \leftarrow (1-\alpha) \cdot \underbrace{Q(s_{t},a_{t})}_{\text{old value}} + \underbrace{\alpha}_{\text{learning rate}} \cdot  \overbrace{\bigg( \underbrace{r_{t}}_{\text{reward}} + \underbrace{\gamma}_{\text{discount factor}} \cdot \underbrace{\max_{a}Q(s_{t+1}, a)}_{\text{estimate of optimal future value}} \bigg) }^{\text{learned value}}\]
+
+其中 \(r_{t}\) 代表從狀態 \(s_{t}\) 到狀態 \(s_{t+1}\) 所得到的獎勵值, \(\alpha\)
+為[學習率](https://zh.wikipedia.org/wiki/學習率 "wikilink")(\(0 < \alpha \le 1\))。\(\gamma\)
+為衰減系數(\(0 \le \gamma \le 1\))，當 \(\gamma\) 數值越大時，智慧型代理人便更加重視未來獲得的長期獎勵，
+\(\gamma\) 數值越小時，智慧代理人便更加短視近利，只在乎目前可獲得的獎勵。
 
 ## 实现
 

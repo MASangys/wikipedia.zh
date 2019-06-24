@@ -63,7 +63,7 @@ Kay破产，危害到Junio，动画电影《Gundress: The Movie》面臨製作�
 <div style="float: left; vertical-align: top; margin-right: 1em;">
 
   - [永丘昭典](../Page/永丘昭典.md "wikilink")
-  - [江口壽志](https://zh.wikipedia.org/wiki/江口壽志 "wikilink")
+  - [江口壽志](../Page/江口壽志.md "wikilink")
   - 岩井優器
   - 渡辺武文
   - 早川光相

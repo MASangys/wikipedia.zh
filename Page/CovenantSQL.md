@@ -21,7 +21,7 @@ CovenantSQL 提供了 HTTP/HTTPS Adapter，类似于云数据库， 开发者可
 CovenantSQL。\[5\]安装 [Docker](../Page/Docker.md "wikilink") 之后， 通过
 QuickStart \[6\] 获取公私钥和地址，接着在 Docker 里创建数据库。
 
-## References
+## 参考资料
 
 [Category:关系型数据库](https://zh.wikipedia.org/wiki/Category:关系型数据库 "wikilink")
 [Category:开源软件](https://zh.wikipedia.org/wiki/Category:开源软件 "wikilink")

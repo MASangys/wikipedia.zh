@@ -86,3 +86,4 @@
 <references/>
 
 [Category:JSON](https://zh.wikipedia.org/wiki/Category:JSON "wikilink")
+[Category:GIS向量文件格式](https://zh.wikipedia.org/wiki/Category:GIS向量文件格式 "wikilink")

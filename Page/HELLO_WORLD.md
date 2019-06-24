@@ -1,5 +1,5 @@
 《**HELLO
-WORLD**》是[日本动画家](../Page/日本.md "wikilink")[伊藤智彦编剧与执导的电影](https://zh.wikipedia.org/wiki/伊藤智彦 "wikilink")，并由[松坂桃李](../Page/松坂桃李.md "wikilink")、[北村匠海和](../Page/北村匠海.md "wikilink")[滨边美波声演](https://zh.wikipedia.org/wiki/滨边美波 "wikilink")，预定于2019年9月20日于日本上映。这是伊藤智彦继2017年《[刀剑神域剧场版：序列争战](https://zh.wikipedia.org/wiki/刀剑神域剧场版：序列争战 "wikilink")》后第一套动画，亦是其第6部执导电影作。\[1\]\[2\]
+WORLD**》（日語：ハロー・ワールド）是[日本动画家](../Page/日本.md "wikilink")[伊藤智彦编剧与执导的原創動畫電影](https://zh.wikipedia.org/wiki/伊藤智彦 "wikilink")，并由[松坂桃李](../Page/松坂桃李.md "wikilink")、[北村匠海和](../Page/北村匠海.md "wikilink")[滨边美波声演](https://zh.wikipedia.org/wiki/滨边美波 "wikilink")，预定于2019年9月20日于日本上映。这是伊藤智彦继2017年《[刀剑神域剧场版：序列争战](https://zh.wikipedia.org/wiki/刀剑神域剧场版：序列争战 "wikilink")》后第一套动画，亦是其第6部执导电影作。\[1\]\[2\]
 
 ## 人物
 

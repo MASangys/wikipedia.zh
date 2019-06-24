@@ -67,7 +67,8 @@ EMPiRE首布公開樣貌\[3\]\[4\]。9月28日，公布全部成員樣貌\[5\]�
   - 1月3日 –
     [赤坂BLITZ舉行](../Page/赤坂BLITZ.md "wikilink")「WACKなりの甲子園」，同時宣佈「WACK合宿型徵選2019」的公布，而EMPiRE亦首次一同參與，最後決定由MAYU
     EMPiRE參加。
-  - 1月29日 – YUKA宣布她將於3月4日在EMPiRE和畢業，以便集中學習。
+  - 1月29日 – YouTube公開《SUCCESS
+    STORY》音樂錄影帶。同時兩小時候之後YUKA亦宣布她將於3月4日在EMPiRE和畢業，以便集中學習。
   - 2月27日 – 發行首張單曲《ピアス》。
   - 3月3日 –3月4日 – 神奈川・Yokohama Bay Hall 「EMPiRE 24小時派對 EMPiRE presents
     TWENTY FOUR HOUR PARTY PEOPLE」YUKA正式畢業。
@@ -77,10 +78,11 @@ EMPiRE首布公開樣貌\[3\]\[4\]。9月28日，公布全部成員樣貌\[5\]�
     YUFU（テラヤマユフ，現NOW EMPiRE）一名成員。
   - 4月21日 - TERAYAMA YUFU（NOW EMPiRE）將參加福岡・DRUM SON舉行的「NEW EMPiRE
     TOUR」正式加入予定，EMPiRE並再次成為6人体制。
+  - 6月9日 – YouTube公開《SUCCESS STORY》音樂錄影帶。
   - 7月11日 - 「NEW EMPiRE TOUR」追加公演，命名為「NEW EMPiRE TOUR
     "EVOLUTiONS"」並於[赤坂BLITZ舉行](../Page/赤坂BLITZ.md "wikilink")。是第三度在赤坂舉行演唱會亦是NOW
     EMPiRE首場赤坂赤坂BLITZ的演唱會。
-  - 7月17日 - 發行首張《CD》。
+  - 7月17日 - 發行第二張單曲《SUCCESS STORY》。
 
 ## 成員
 
@@ -189,7 +191,7 @@ Project AW徵選合格者。長野縣出身<br />
 <td><p>3月14日[28]</p></td>
 <td><p>WACK徵選2017合格者。徵選時的名字為「ガミヤサキ」。<br />
 2019年於3月4日在EMPiRE和畢業。<br />
-（創始成員）<br />
+為EMPiRE的（創始成員）<br />
 </p></td>
 <td><p><a href="https://twitter.com/intent/follow?screen_name=YUKA_EMPiRE">YUKA EMPiRE</a></p></td>
 </tr>
@@ -198,8 +200,9 @@ Project AW徵選合格者。長野縣出身<br />
 <td><p>[29]</p></td>
 <td><p>WACK徵選2017最終審査参加者。徵選時的名字為「リソリソ」。<br />
 追加成員徵選合格者。<br />
-2018年5月1日移籍至[30]。<br />
-（創始成員）</p></td>
+2018年5月1日移籍至[30]，直至2019年5月11日解散。<br />
+6月19日加入Curry Roux（暫稱）<br />
+為EMPiRE的（創始成員）</p></td>
 <td><p><a href="https://twitter.com/yuinaempire_bis">YUiNA EMPiRE</a></p></td>
 </tr>
 </tbody>
@@ -299,6 +302,84 @@ AVTD-93862<br />
 </div></li>
 </ol></td>
 <td><p>5位[32]</p></td>
+<td><p>初回限定豪華盤：BOX仕樣、寫真集</p></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr class="header">
+<th><p>#</p></th>
+<th><p>發行日</p></th>
+<th><p>標題</p></th>
+<th><p>產品編號</p></th>
+<th><p>收錄曲</p></th>
+<th><p>排名</p></th>
+<th><p>備註</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2</p></td>
+<td><p>2019年7月17日</p></td>
+<td><p><strong>SUCCESS STORY</strong></p></td>
+<td><p>AVTD-94508/B<br />
+【初回限定豪華盤】<br />
+AVCD-94509<br />
+【卡帶盤】</p></td>
+<td><div class="NavFrame collapsed" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>卡帶（全2曲）</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li></li>
+<li>Maybe Blue
+</div>
+</div></li>
+</ol>
+<div class="NavFrame collapsed" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>初回限定豪華盤 DVD（全24曲）</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<p>2019.03.03.04 at EMPiRE presents TWENTY FOUR HOUR PARTY PEOPLE</p>
+<ol>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+</ol>
+<p>♯EMPiREとアレ [PERFECT EDiTiON]</p>
+<ol>
+<li>何度も歌い、踊り繰り返して、愛を伝えあった記録</li>
+</ol>
+<p>Music Video</p>
+<ol>
+<li>SUCCESS STORY</li>
+<li>Making Movie
+</div>
+</div></li>
+</ol></td>
+<td></td>
 <td><p>初回限定豪華盤：BOX仕樣、寫真集</p></td>
 </tr>
 </tbody>
@@ -594,6 +675,7 @@ AVTD-93976<br />
 | 2018年 | **EMPiRE** | **Dope**              | **EMPiRE originals**        | **MAYU** |
 | 2018年 | **EMPiRE** | **Talk about**        | **EMPiRE originals**        | **YUKA** |
 | 2019年 | **EMPiRE** | **ERASER HEAD**       | **ピアス**                     | **MAYU** |
+| 2019年 | **EMPiRE** | **Maybe Blue**        | **SUCCESS STORY**           | **MAYU** |
 
 ## 商業搭配
 
@@ -617,9 +699,19 @@ AVTD-93976<br />
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>SO i YA</p></td>
+<td><p>アピタ タフネスBiZスーツ2018 CMソング</p></td>
+<td><p>《<strong>EMPiRE originals</strong>》</p></td>
+</tr>
+<tr class="even">
 <td><p>ピアス</p></td>
 <td><p><a href="../Page/東京電視台.md" title="wikilink">東京電視台系列動畫</a>《<a href="../Page/FAIRY_TAIL_(動畫).md" title="wikilink">FAIRY TAIL魔導少年</a>》第3季第2片尾曲</p></td>
 <td><p>《<strong>ピアス</strong>》</p></td>
+</tr>
+<tr class="odd">
+<td><p>SUCCESS STORY</p></td>
+<td><p>電玩遊戲《《SD高達G世代 火線縱橫》主題曲</p></td>
+<td><p>《<strong>SUCCESS STORY</strong>》</p></td>
 </tr>
 </tbody>
 </table>
@@ -647,26 +739,38 @@ AVTD-93976<br />
 
 ### 單獨
 
-| 演唱會名                                          | 日期                      | 場地                    | 備註               |
-| --------------------------------------------- | ----------------------- | --------------------- | ---------------- |
-| THE EMPiRE STRiKES START                      | \[36\]                  | 2018年5月1日             | 東京MYNAVI BLITZ赤坂 |
-| EMPiRE NEXT EDiTiON TOUR\[37\]                | 2018年7月14日              | 宮城enn 2nd             |                  |
-| 2018年7月21日                                    | 福岡DRUM SON              |                       |                  |
-| 2018年7月29日                                    | 愛知DAYTRIVE              |                       |                  |
-| 2018年8月18日                                    | 北海道KLUB COUNTER ACTION  |                       |                  |
-| 2018年8月19日                                    |                         |                       |                  |
-| 2018年8月26日                                    | 大阪LIVE SQUARE 2nd LINE  |                       |                  |
-| 2018年9月4日                                     | 東京MYNAVI BLITZ赤坂        |                       |                  |
-| EMPiRE presents TWENTY FOUR HOUR PARTY PEOPLE | 2019年3月3・4日             | 神奈川・Yokohama Bay Hall | YUKA畢業           |
-| NEW EMPiRE TOUR                               | 2019年4月21日              | 福岡・DRUM SON           | NOW正式加入          |
-| 2019年4月27日                                    | 広島・HIROSHIMA BACK BEAT  |                       |                  |
-| 2019年5月3日                                     | 大阪・OSAKA MUSE           |                       |                  |
-| 2019年5月5日                                     | 宮城・enn 2nd              |                       |                  |
-| 2019年5月12日                                    | 愛知・RAD HALL             |                       |                  |
-| 2019年5月18日                                    | 北海道・KLUB COUNTER ACTION |                       |                  |
-| 2019年5月19日                                    |                         |                       |                  |
-| 2019年6月9日                                     | 東京・新宿BLAZE              |                       |                  |
-| NEW EMPiRE TOUR "EVOLUTiONS"                  | 2019年7月11日              | 東京MYNAVI BLITZ赤坂      |                  |
+| 演唱會名                                          | 日期                                   | 場地                    | 備註                                |
+| --------------------------------------------- | ------------------------------------ | --------------------- | --------------------------------- |
+| THE EMPiRE STRiKES START                      | \[36\]                               | 2018年5月1日             | 東京MYNAVI BLITZ赤坂                  |
+| EMPiRE NEXT EDiTiON TOUR\[37\]                | 2018年7月14日                           | 宮城enn 2nd             |                                   |
+| 2018年7月21日                                    | 福岡DRUM SON                           |                       |                                   |
+| 2018年7月29日                                    | 愛知DAYTRIVE                           |                       |                                   |
+| 2018年8月18日                                    | 北海道KLUB COUNTER ACTION               |                       |                                   |
+| 2018年8月19日                                    |                                      |                       |                                   |
+| 2018年8月26日                                    | 大阪LIVE SQUARE 2nd LINE               |                       |                                   |
+| 2018年9月4日                                     | 東京MYNAVI BLITZ赤坂                     |                       |                                   |
+| EMPiRE presents TWENTY FOUR HOUR PARTY PEOPLE | 2019年3月3・4日                          | 神奈川・Yokohama Bay Hall | YUKA畢業                            |
+| NEW EMPiRE TOUR                               | 2019年4月21日                           | 福岡・DRUM SON           | NOW正式加入                           |
+| 2019年4月27日                                    | 広島・HIROSHIMA BACK BEAT               |                       |                                   |
+| 2019年5月3日                                     | 大阪・OSAKA MUSE                        |                       |                                   |
+| 2019年5月5日                                     | 宮城・enn 2nd                           |                       |                                   |
+| 2019年5月12日                                    | 愛知・RAD HALL                          |                       |                                   |
+| 2019年5月18日                                    | 北海道・KLUB COUNTER ACTION              |                       |                                   |
+| 2019年5月19日                                    |                                      |                       |                                   |
+| 2019年6月9日                                     | 東京・新宿BLAZE                           |                       |                                   |
+| NEW EMPiRE TOUR "EVOLUTiONS"                  | 2019年7月11日                           | 東京MYNAVI BLITZ赤坂      | NOW首場BLITZ演唱會，亦是EMPiRE最後BLITZ的演唱會 |
+| EMPiRE S GREAT ESCAPE TOUR                    | 2019年11月3日                           | 岡山 IMAGE              |                                   |
+| 2019年11月9日                                    | 北海道 札幌SPiCE                          |                       |                                   |
+| 2019年11月17日                                   | 大阪 江坂MUSE                            |                       |                                   |
+| 2019年11月23日                                   | 神奈川 F.A.D YOKOHAMA                   |                       |                                   |
+| 2019年11月24日                                   | 茨城 水戸ライトハウス                          |                       |                                   |
+| 2019年11月30日                                   | 愛知 X-HALL-ZEN-                       |                       |                                   |
+| 2019年12月7日                                    | 栃木 HEAVEN'S ROCK UTSUNOMIYA VJ-2     |                       |                                   |
+| 2019年12月8日                                    | 新潟 Live Hall GOLDEN PIGS BLACK STAGE |                       |                                   |
+| 2019年12月12日                                   | 福岡 DRUM SON                          |                       |                                   |
+| 2019年12月14日                                   | 宮城 仙台CLUB JUNK BOX                   |                       |                                   |
+| 2019年12月15日                                   | 山形 山形ミュージック昭和Session                 |                       |                                   |
+| 2019年12月19日                                   | 東京 Zepp DiverCity                    |                       |                                   |
 
 ### 活動
 
@@ -690,6 +794,7 @@ AVTD-93976<br />
   - 截至2018年，他們是唯一沒有獨立時期並立即在主要品牌上推出的WACK單位。
   - MiDORiKO EMPiRE是唯一的EMPiRE成員中沒有參加WACK徵選的成員。
   - 在NOW EMPiRE加入之前不論是現任成員或是已離開的成員名稱都以M或Y開頭。
+  - 截至2019年，EMPiRE亦是WACK唯一正規團體中沒有擔當的偶像團體。
 
 ## 注釋
 

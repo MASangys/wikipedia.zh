@@ -21,7 +21,7 @@ Games會額外提供5%的補助。Epic Games認為該計畫有助於開發者推
 從2018年12月14日開始，每隔兩週會提供一款商城中的遊戲讓玩家限時免費領取，第一款限時免費遊戲是《[深海迷航](../Page/深海迷航.md "wikilink")》(Subnautica)。\[8\]
 
 Epic
-games商城创建伊始对中国大陆锁区，当时如果使用中国大陆的[VISA信用卡](https://zh.wikipedia.org/wiki/VISA "wikilink")、[paypal支付可能会导致封号](https://zh.wikipedia.org/wiki/paypal "wikilink")。\[9\]后在2019年5月14日解除对中国大陆的锁区（《[暴雨](https://zh.wikipedia.org/wiki/暴雨_\(游戏\) "wikilink")》、《[超凡双生](https://zh.wikipedia.org/wiki/超凡双生 "wikilink")》和《[底特律：变人](https://zh.wikipedia.org/wiki/底特律：变人 "wikilink")》仍未解除锁区），并同时支持[支付宝与](../Page/支付宝.md "wikilink")[微信支付](../Page/微信支付.md "wikilink")。\[10\]，后又追加对[银联的支持](https://zh.wikipedia.org/wiki/银联 "wikilink")。
+games商城创建伊始对中国大陆锁区，当时如果使用中国大陆的[VISA信用卡](https://zh.wikipedia.org/wiki/VISA "wikilink")、[paypal支付可能会导致封号](https://zh.wikipedia.org/wiki/paypal "wikilink")。\[9\]后在2019年5月14日解除对中国大陆的锁区（《[暴雨](https://zh.wikipedia.org/wiki/暴雨_\(游戏\) "wikilink")》、《[超凡双生](https://zh.wikipedia.org/wiki/超凡双生 "wikilink")》和《[底特律：变人](https://zh.wikipedia.org/wiki/底特律：变人 "wikilink")》等部分游戏仍未解除锁区），并同时支持[支付宝与](../Page/支付宝.md "wikilink")[微信支付](../Page/微信支付.md "wikilink")\[10\]，后又追加对[银联的支持](https://zh.wikipedia.org/wiki/银联 "wikilink")。
 
 ## 發展歷程
 

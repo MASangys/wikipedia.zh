@@ -34,13 +34,13 @@ LIVE TALK」，並邀請演員[金相中擔任特別嘉賓](../Page/金相中.md
 
 ## 榜單成績
 
-| 地區   | 榜單      | 類型   | 停留時間                  | 最高位置 | 銷量     | 參考資料  | 備註 |
-| ---- | ------- | ---- | --------------------- | ---- | ------ | ----- | -- |
-| 韓國   | Gaon銷售榜 | 專輯週榜 | 2019年5月19日－25日        | \#1  |        | \[4\] |    |
-| 專輯月榜 | 2019年5月 | \#   |                       |      |        |       |    |
-| 專輯年榜 | 2019年   |      |                       |      |        |       |    |
-| 台灣   | 5大金榜    | 日韓榜  | 2019/5/17 - 2019/5/23 | \#1  | 24.47% | \[5\] |    |
-|      |         |      |                       |      |        |       |    |
+| 地區   | 榜單      | 類型   | 停留時間                                                                                                                                                                                                                                                                                                                                  | 最高位置                | 銷量      | 參考資料  | 備註 |
+| ---- | ------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | ------- | ----- | -- |
+| 韓國   | Gaon銷售榜 | 專輯週榜 | 2019年5月19日－25日                                                                                                                                                                                                                                                                                                                        | \#1                 | 252,826 | \[4\] |    |
+| 專輯月榜 | 2019年5月 | \#1  | <ref>{{cite web|url=[http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T\&serviceGbn=\&targetTime=05\&hitYear=2019\&termGbn=month|title=2019년](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=05&hitYear=2019&termGbn=month%7Ctitle=2019년) 05월 Album Chart|publisher=gaon chart | language=ko}}</ref> |         |       |    |
+| 專輯年榜 | 2019年   |      |                                                                                                                                                                                                                                                                                                                                       |                     |         |       |    |
+| 台灣   | 5大金榜    | 日韓榜  | 2019/5/17 - 2019/5/23                                                                                                                                                                                                                                                                                                                 | \#1                 | 24.47%  | \[5\] |    |
+|      |         |      |                                                                                                                                                                                                                                                                                                                                       |                     |         |       |    |
 
 ### 音樂節目榜單排名
 
@@ -87,6 +87,7 @@ LIVE TALK」，並邀請演員[金相中擔任特別嘉賓](../Page/金相中.md
 [Category:GOT7音樂專輯](https://zh.wikipedia.org/wiki/Category:GOT7音樂專輯 "wikilink")
 [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
 [Category:2019年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2019年Gaon專輯週榜冠軍作品 "wikilink")
+[Category:2019年Gaon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2019年Gaon專輯月榜冠軍作品 "wikilink")
 
 1.
 2.

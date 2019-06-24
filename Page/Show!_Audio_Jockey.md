@@ -190,11 +190,21 @@ Jockey**》節目收視，收視最低的集數以表示，收視最高的集數
 <tr class="odd">
 <td><p>13</p></td>
 <td><p>2019/06/09</p></td>
-<td><p>%</p></td>
+<td><p>1.036%</p></td>
 </tr>
 <tr class="even">
 <td><p>14</p></td>
 <td><p>2019/06/16</p></td>
+<td><p>0.810%</p></td>
+</tr>
+<tr class="odd">
+<td><p>15</p></td>
+<td><p>2019/06/23</p></td>
+<td><p>%</p></td>
+</tr>
+<tr class="even">
+<td><p>16</p></td>
+<td><p>2019/06/30</p></td>
 <td><p>%</p></td>
 </tr>
 </tbody>

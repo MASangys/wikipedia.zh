@@ -23,6 +23,7 @@ LIVE播出的網路劇](../Page/NAVER.md "wikilink")。此作為網路劇《十�
 |                                                                                            |        |
 | ------------------------------------------------------------------------------------------ | ------ |
 | **演員**                                                                                     | **角色** |
+| [鄭乾柱](https://zh.wikipedia.org/wiki/鄭乾柱 "wikilink")                                        | 體育老師   |
 | [Jeno](../Page/Jeno.md "wikilink") ([NCT Dream](../Page/NCT.md "wikilink"))                | 學生     |
 | [渽民](https://zh.wikipedia.org/wiki/渽民 "wikilink") ([NCT Dream](../Page/NCT.md "wikilink")) | 學生     |
 
@@ -34,7 +35,7 @@ LIVE播出的網路劇](../Page/NAVER.md "wikilink")。此作為網路劇《十�
 | ----------------------------------------------------------------------------------------------------- | --------- |
 | **演員**                                                                                                | **角色**    |
 | [辛睿恩](../Page/辛睿恩.md "wikilink")                                                                      | 都荷娜       |
-| [李娜恩](https://zh.wikipedia.org/wiki/李娜恩 "wikilink")                                                   | 金荷娜 (金昭妍) |
+| [李娜恩](https://zh.wikipedia.org/wiki/李娜恩 "wikilink")(April)                                            | 金荷娜 (金昭妍) |
 | [金秀賢](https://zh.wikipedia.org/wiki/金秀賢_\(2000年\) "wikilink")                                         | 余寶藍       |
 | [金東希](../Page/金東希.md "wikilink")                                                                      | 河玟        |
 | [申升浩](https://zh.wikipedia.org/wiki/申升浩 "wikilink")                                                   | 南時宇       |
@@ -44,13 +45,14 @@ LIVE播出的網路劇](../Page/NAVER.md "wikilink")。此作為網路劇《十�
 
 ### 特別出演
 
-|                                                                                                                            |        |
-| -------------------------------------------------------------------------------------------------------------------------- | ------ |
-| **演員**                                                                                                                     | **角色** |
-| [Joshua](https://zh.wikipedia.org/wiki/Joshua "wikilink")（[SEVENTEEN](https://zh.wikipedia.org/wiki/SEVENTEEN "wikilink")） | 柳周河朋友  |
-| Ddotty                                                                                                                     | 遊戲解說員  |
-| [Yerin](../Page/Yerin.md "wikilink")（[GFRIEND](../Page/GFRIEND.md "wikilink")）                                             | 觀眾     |
-| [金玟周](../Page/金玟周.md "wikilink")（[IZ\*ONE](../Page/IZ*ONE.md "wikilink")）                                                  | 店員     |
+|                                                                                                                                    |        |
+| ---------------------------------------------------------------------------------------------------------------------------------- | ------ |
+| **演員**                                                                                                                             | **角色** |
+| [Joshua](https://zh.wikipedia.org/wiki/Joshua "wikilink")（[SEVENTEEN](https://zh.wikipedia.org/wiki/SEVENTEEN "wikilink")）         | 柳周河朋友  |
+| Ddotty                                                                                                                             | 遊戲解說員  |
+| [Yerin](../Page/Yerin.md "wikilink")（[GFRIEND](../Page/GFRIEND.md "wikilink")）                                                     | 觀眾     |
+| [金玟周](../Page/金玟周.md "wikilink")（[IZ\*ONE](../Page/IZ*ONE.md "wikilink")）                                                          | 店員     |
+| [鉉辰](../Page/鉉辰.md "wikilink")、[I.N](../Page/梁精寅.md "wikilink")（[Stray Kids](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")） | 車雅嫻同學  |
 
 ## 各季集數
 
@@ -77,6 +79,12 @@ LIVE播出的網路劇](../Page/NAVER.md "wikilink")。此作為網路劇《十�
   - Part.4（發行日期：2018年9月16日）
 
 ### 第二季（2019）
+
+  - Part.1（發行日期：2019年5月9日）
+
+<!-- end list -->
+
+  - Part.2（發行日期：2019年5月19日）
 
 ## 註釋
 

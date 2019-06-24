@@ -3,9 +3,8 @@ Tint**（），是[韓國Ramah娛樂於](https://zh.wikipedia.org/wiki/韓國 "w
 
 ## 成員資料
 
-|              |
-| ------------ |
 | 成員           |
+| ------------ |
 | 姓名           |
 | Yeonsoo (연수) |
 | Nahyeon (나현) |

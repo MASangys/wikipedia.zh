@@ -160,19 +160,20 @@ Crane指出，阿蒙森所募集的政府和私人資助都指定作北極科考
  阿蒙森意识到了一行人过早地开始了他们的征程，并且考虑到一行人和狗的生命安全决定返回福莱海姆营地。
 随后，约翰森在日记中写下了一行人在缺乏准备的情况下开始这样危险和有历史性的征程的愚蠢。
 
-On 14 September, on their way back to Framheim, they left most of their
-equipment at the 80° S depot, to lighten the sledges. Next day, in
-freezing temperatures with a strong headwind, several dogs froze to
-death while others, too weak to continue, were placed upon the sledges.
-On 16 September,  from Framheim, 阿蒙森 ordered his men to push for home as
-quickly as possible. Not having a sledge of his own, he leapt onto
-Wisting's, and with Helmer Hanssen and his team raced away, leaving the
-rest behind. The three arrived back at Framheim after nine hours,
-followed by Stubberud and Bjaaland two hours later and Hassel shortly
-after. Johansen and Prestrud were still out on the ice, without food or
-fuel; Prestrud's dogs had failed, and his heels were badly frostbitten.
-They reached Framheim after midnight, more than seventeen hours after
-they had turned for home.
+9月14日, on their way back to
+[弗雷門海姆](https://zh.wikipedia.org/wiki/弗雷門海姆 "wikilink"),
+they left most of their equipment at the 80° S depot, to lighten the
+sledges. Next day, in freezing temperatures with a strong headwind,
+several dogs froze to death while others, too weak to continue, were
+placed upon the sledges. On 16 September,  from Framheim, 阿蒙森 ordered
+his men to push for home as quickly as possible. Not having a sledge of
+his own, he leapt onto Wisting's, and with Helmer Hanssen and his team
+raced away, leaving the rest behind. The three arrived back at Framheim
+after nine hours, followed by Stubberud and Bjaaland two hours later and
+Hassel shortly after. Johansen and Prestrud were still out on the ice,
+without food or fuel; Prestrud's dogs had failed, and his heels were
+badly frostbitten. They reached Framheim after midnight, more than
+seventeen hours after they had turned for home.
 
 Next day, 阿蒙森 asked Johansen why he and Prestrud had been so late.
 Johansen answered angrily that he felt they had been abandoned, and

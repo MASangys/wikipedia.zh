@@ -1,7 +1,7 @@
 **Pixel 3a及Pixel 3a
 XL**是由[Google發佈的](../Page/Google.md "wikilink")[Android](../Page/Android.md "wikilink")[智能手机](../Page/智能手机.md "wikilink")，两款手机分别为[Pixel
 3及Pixel 3
-XL的对应中端配置机型](../Page/Pixel_3.md "wikilink")。2019年5月7日，Google在I/O大会公布了Pixel
+XL的对应中端配置机型](../Page/Pixel_3.md "wikilink")。2019年5月7日，Google在I/O大会公布Pixel
 3a及Pixel 3a XL，两款手机于同日在全球部分国家和地区发售。\[1\]\[2\]
 
 ## 规格
@@ -18,7 +18,7 @@ XL的[浏海设计备受批评](https://zh.wikipedia.org/wiki/浏海 "wikilink")
 Pixel 3a和Pixel 3a
 XL搭载[高通骁龙670](https://zh.wikipedia.org/wiki/高通驍龍元件列表#Snapdragon_670/675 "wikilink")、4GB内存以及64GB的手机内部存储空间。与Pixel
 3系列不同的是，两款手机既不支持[无线充电](../Page/Qi_\(無線充電標準\).md "wikilink")，也不防水，同时也没有搭载Pixel
-2系列开始推出的Pixel Visual Core，但保留了Pixel
+2系列开始推出的Pixel Visual Core，但保留Pixel
 2系列开始缺失的[3.5毫米音频接口](../Page/TRS端子.md "wikilink")。\[4\]手机底部的USB-C接口可用于充电及连接其他设备。两款手机均配备了Pixel
 2系列推出的Active
 Edge挤压边框功能，在相关手势开启的情况下，用户可通过挤压手机两侧的方式启动[Google助理](../Page/Google助理.md "wikilink")。\[5\]

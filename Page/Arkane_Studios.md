@@ -46,13 +46,18 @@ Studios能製作一款結合第一人稱、動作、角色扮演要素的遊戲�
 
 2011年7月，貝塞斯達軟體宣布了《[冤罪殺機](../Page/冤罪殺機.md "wikilink")》的開發消息，該作是一款第一人稱的動作冒險遊戲，結合超能力與[潛行的遊戲機制](https://zh.wikipedia.org/wiki/隱蔽遊戲 "wikilink")。該作於2012年發售，獲得廣泛好評，\[16\]並且銷量超乎貝塞斯達軟體的預期，讓他們開始考慮推出續作。\[17\]
 
-2015年6月，於[E3展上宣布將推出](https://zh.wikipedia.org/wiki/E3 "wikilink")《[冤罪殺機2](../Page/冤罪殺機2.md "wikilink")》，在前作的基礎上強化了遊戲系統並改成雙主角的故事路線。該作於2016年發售，並獲得普遍正面的評價。\[18\]
+2015年6月，於[E3
+2015展上宣布將推出](https://zh.wikipedia.org/wiki/E3_2015 "wikilink")《[冤罪殺機2](../Page/冤罪殺機2.md "wikilink")》，在前作的基礎上強化了遊戲系統並改成雙主角的故事路線。該作於2016年發售，並獲得普遍正面的評價。\[18\]
 
-2016年6月，於[E3展上宣布將推出](https://zh.wikipedia.org/wiki/E3 "wikilink")《[獵魂](../Page/獵魂_\(2017年遊戲\).md "wikilink")》，\[19\]該作是一款帶有恐怖元素的第一人稱射擊遊戲，是過去被中止開發的《[獵魂2](../Page/獵魂2.md "wikilink")》的重啟版本。該作於2017年5月發售。\[20\]
+2016年6月，於[E3
+2016展上宣布將推出](https://zh.wikipedia.org/wiki/E3_2016 "wikilink")《[獵魂](../Page/獵魂_\(2017年遊戲\).md "wikilink")》，\[19\]該作是一款帶有恐怖元素的第一人稱射擊遊戲，是過去被中止開發的《[獵魂2](../Page/獵魂2.md "wikilink")》的重啟版本。該作於2017年5月發售。\[20\]
 
 2017年6月，在《[獵魂](../Page/獵魂_\(2017年遊戲\).md "wikilink")》發售的兩個月後，Arkane
 Studios的創辦人Raphaël Colantonio宣布卸任執行長職位，並將管理職務交給Harvey
 Smith。他表示將會多花時間陪伴家人並且思考未來的新方向。\[21\]
+
+2019年6月，在[E3
+2019中宣布將推出一款名為](https://zh.wikipedia.org/wiki/E3_2019 "wikilink")《死亡循環》（Deathloop）的全新作品。\[22\]
 
 ## 開發遊戲列表
 
@@ -137,6 +142,30 @@ Arkane Studios</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/冤罪殺機：界外魔之死" title="wikilink">冤罪殺機：界外魔之死</a></p></td>
 <td><p>動作冒險、潛行</p></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019</p></td>
+<td></td>
+<td><p>第一人稱射擊</p></td>
+<td><p>與<a href="../Page/MachineGames.md" title="wikilink">MachineGames合作開發</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>Microsoft Windows、PlayStation 4</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>Deathloop</p></td>
+<td><p>第一人稱射擊、動作冒險</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -226,3 +255,5 @@ Arkane Studios</p></td>
 20.
 
 21.
+
+22.

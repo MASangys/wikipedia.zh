@@ -1,5 +1,5 @@
 《**大灣區
-活好D**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司的一個介紹](../Page/電視廣播有限公司.md "wikilink")[粵港澳大灣區的旅遊節目](https://zh.wikipedia.org/wiki/粵港澳大灣區 "wikilink")，共2輯，第一輯在2018年9月25日至10月6日22:30至23:00在[翡翠台播出](../Page/翡翠台.md "wikilink")。節目由[肥媽](../Page/肥媽.md "wikilink")、[陸浩明](../Page/陸浩明.md "wikilink")、[林泳淘](../Page/林泳淘.md "wikilink")、[黃美棋](../Page/黃美棋.md "wikilink")、[林伊麗](../Page/林伊麗.md "wikilink")、[張美妮](../Page/張美妮.md "wikilink")、[蔣家旻](../Page/蔣家旻.md "wikilink")、[胡諾言](../Page/胡諾言.md "wikilink")、[林子博](../Page/林子博.md "wikilink")、[游茛維擔任主持](https://zh.wikipedia.org/wiki/游茛維 "wikilink")\[1\]\[2\]\[3\]。第二輯在2019年3月3日至5月5日22:30至23:00在[翡翠台播出](../Page/翡翠台.md "wikilink")。節目由肥媽、陸浩明、[衛志豪](../Page/衛志豪.md "wikilink")、[區永權](../Page/區永權.md "wikilink")、胡諾言、[陳詩欣](../Page/陳詩欣_\(香港\).md "wikilink")、[魏-{韵}-芝](../Page/魏韵芝.md "wikilink")、黃美棋、[鄧以婷擔任主持](../Page/鄧以婷.md "wikilink")。
+活好D**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司的一個介紹](../Page/電視廣播有限公司.md "wikilink")[粵港澳大灣區的旅遊節目](https://zh.wikipedia.org/wiki/粵港澳大灣區 "wikilink")，共2輯，第一輯在2018年9月25日至10月6日22:30至23:00在[翡翠台播出](../Page/翡翠台.md "wikilink")。節目由[肥媽](../Page/肥媽.md "wikilink")、[陸浩明](../Page/陸浩明.md "wikilink")、[林泳淘](../Page/林泳淘.md "wikilink")、[黃美棋](../Page/黃美棋.md "wikilink")、[林伊麗](../Page/林伊麗.md "wikilink")、[張美妮](../Page/張美妮.md "wikilink")、[蔣家旻](../Page/蔣家旻.md "wikilink")、[胡諾言](../Page/胡諾言.md "wikilink")、[林子博](../Page/林子博.md "wikilink")、[游茛維擔任主持](https://zh.wikipedia.org/wiki/游茛維 "wikilink")\[1\]\[2\]\[3\]。第二輯在2019年3月3日至5月5日22:30至23:00在[翡翠台播出](../Page/翡翠台.md "wikilink")。節目由陸浩明、[衛志豪](../Page/衛志豪.md "wikilink")、[區永權](../Page/區永權.md "wikilink")、胡諾言、[陳詩欣](../Page/陳詩欣_\(香港\).md "wikilink")、[魏-{韵}-芝](../Page/魏韵芝.md "wikilink")、[鄧以婷](../Page/鄧以婷.md "wikilink")、黃美棋、[謝㺭圻](https://zh.wikipedia.org/wiki/謝㺭圻 "wikilink")、[鄭衍峰擔任主持](../Page/鄭衍峰.md "wikilink")。第2輯為[TVB影視展星勢綜藝節目之一](../Page/TVB影視展星勢.md "wikilink")。
 
 ## 每集內容
 
@@ -102,13 +102,14 @@
 <td><p>11</p></td>
 <td><p>6月2日</p></td>
 <td><p>深圳遊主題麵包店 中山品嚐最鮮美食</p></td>
-<td><p><a href="../Page/黃美棋.md" title="wikilink">黃美棋</a>、<a href="../Page/胡諾言.md" title="wikilink">胡諾言</a></p></td>
+<td><p>黃美棋、胡諾言、<br />
+<a href="https://zh.wikipedia.org/wiki/謝㺭圻" title="wikilink">謝㺭圻</a>、<a href="../Page/鄭衍峰.md" title="wikilink">鄭衍峰</a></p></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>12</p></td>
+<td><p>6月16日</p></td>
+<td><p>中山親子同樂遊</p></td>
+<td><p>謝㺭圻、鄭衍峰</p></td>
 </tr>
 </tbody>
 </table>
@@ -117,9 +118,18 @@
 
 ### 推介鯇魚魚生被指危害公眾健康
 
-節目於10月2日及3日的第六及第七集介紹佛山及順德，三名節目主持人[肥媽](../Page/肥媽.md "wikilink")、[黃美棋及](../Page/黃美棋.md "wikilink")[林伊麗在節目中兩度推介觀眾進食](../Page/林伊麗.md "wikilink")[鯇魚製作的](https://zh.wikipedia.org/wiki/鯇魚 "wikilink")[魚生](https://zh.wikipedia.org/wiki/魚生 "wikilink")\[4\]。肥媽在節目大讚「這個魚生很爽口」，又指當地師傅放血技巧很好，令鯇魚魚生完全沒有血及沒有腥味，另外兩位主持人黃美棋及林伊麗在品嚐鯇魚生魚片時亦提到「很滑，好像直接從嘴巴裏滑下去，不太需要咀嚼」\[5\]。
+節目於10月2日及3日的第六及第七集介紹佛山及順德，三名節目主持人[肥媽](../Page/肥媽.md "wikilink")、[黃美棋及](../Page/黃美棋.md "wikilink")[林伊麗在節目中兩度推介觀眾進食](../Page/林伊麗.md "wikilink")[鯇魚製作的](https://zh.wikipedia.org/wiki/鯇魚 "wikilink")[魚生](https://zh.wikipedia.org/wiki/魚生 "wikilink")\[4\]。肥媽在節目大讚「這個魚生很爽口」，又指當地師傅放血技巧很好，令鯇魚魚生完全沒有血及沒有腥味，另外兩位主持人黃美棋及林伊麗在品嚐鯇魚魚生時亦提到「很滑，好像直接從嘴巴裏滑下去，不太需要咀嚼」\[5\]。
 
 [香港衛生署及](https://zh.wikipedia.org/wiki/香港衛生署 "wikilink")[食物安全中心在節目播出後分別於社交網站Facebook的專頁發出帖文](../Page/食物安全中心.md "wikilink")，對節目推介進食鯇魚製作的魚生表達關注，指在一般情況下如魚塘養殖的[淡水魚](https://zh.wikipedia.org/wiki/淡水魚 "wikilink")，不但會帶有病菌，更會附有可導致人類[肝硬化及](../Page/肝硬化.md "wikilink")[膽管癌的](../Page/膽管癌.md "wikilink")[中華肝吸蟲](../Page/中華肝吸蟲.md "wikilink")，即使用醋、日式芥辣、黃芥辣及香料，均不能殺死包括中華肝吸蟲在內的[寄生蟲](https://zh.wikipedia.org/wiki/寄生蟲 "wikilink")，提醒香港市民不論在香港或外遊時都不應進食未煮熟的淡水魚\[6\]，又強調香港法例中的《食物業規例》（第132X章）已訂明香港禁售淡水魚製作的魚生，[通訊事務管理局亦接獲七宗指該電視節目誤導及危害市民生命安全的投訴](../Page/通訊事務管理局.md "wikilink")\[7\]。
+
+## 節目調動
+
+  - 2019年3月31日：由於播《[鐵探](https://zh.wikipedia.org/wiki/鐵探 "wikilink")
+    熔煉之路》，所以停播一次。
+  - 2019年4月14日：由於播《[皓鑭傳](https://zh.wikipedia.org/wiki/皓鑭傳 "wikilink")》大結局，所以停播一次。
+  - 2019年4月28日：由於播《[全城躍動
+    第七屆全港運動會開幕典禮](../Page/全港運動會.md "wikilink")》，所以停播一次。
+  - 2019年6月9日：由於播《[白色強人 國手對決](../Page/白色強人.md "wikilink")》，所以停播一次。
 
 ## 參見
 

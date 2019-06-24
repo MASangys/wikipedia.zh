@@ -23,32 +23,37 @@ junior「细胞分裂」而来，曾拟定Ameba（日语：アメーバ，即[�
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>あいら</p></td>
-<td><p>2002年12月8日（16岁）</p></td>
+<td><p><br />
+あいら</p></td>
+<td></td>
 <td><p><a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
 <td><p>ねぇさん</p></td>
 </tr>
 <tr class="even">
-<td><p>いちがわ ゆづき</p></td>
-<td><p>2003年11月2日（15岁）</p></td>
+<td><p><br />
+いちがわ ゆづき</p></td>
+<td></td>
 <td><p><a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
 <td><p>ゆづ、ちびゆづ</p></td>
 </tr>
 <tr class="odd">
-<td><p>おおひら ひかる</p></td>
-<td><p>2002年7月23日（16岁）</p></td>
+<td><p><br />
+おおひら ひかる</p></td>
+<td></td>
 <td><p><a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
 <td><p>ひっか</p></td>
 </tr>
 <tr class="even">
-<td><p>こじま はな</p></td>
-<td><p>2004年2月26日（14岁）</p></td>
+<td><p><br />
+こじま はな</p></td>
+<td></td>
 <td><p><a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
 <td><p>はなちゃん</p></td>
 </tr>
 <tr class="odd">
-<td><p>すずき もえか</p></td>
-<td><p>2002年2月5日（16岁）</p></td>
+<td><p><br />
+すずき もえか</p></td>
+<td></td>
 <td><p><a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
 <td><p>もえちん</p></td>
 </tr>

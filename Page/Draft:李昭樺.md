@@ -1,7 +1,7 @@
 **<big><big>李昭樺</big></big>**（**Lee
 Chao-Hua**，1975年12月7日－）兔將創意影業創辦人暨CEO，電影監製，視覺特效總監，3D立體電影總監，動畫視效總監。畢業於南加大電機工程碩士及劍橋大學資訊工程博士，於2011創立[兔將影業](../Page/兔將創意影業.md "wikilink")。在歐、美、亞三地的學術、企業經營及媒體製作領域皆獲得卓越成果，致力於研發公司動畫特效技術、獨家3D製作技術。\[1\]\[2\]
 
-曾擔任多部電影特效總監及3D立體視覺總監，包括《[十二生肖](https://movie.douban.com/subject/4212172/)》丶《[風暴](https://movie.douban.com/subject/20388198/)》丶《[五月天諾亞方舟](https://zh.wikipedia.org/wiki/五月天諾亞方舟 "wikilink")》丶《[天將雄師](https://zh.wikipedia.org/wiki/天將雄師 "wikilink")》丶《[捉妖記](https://zh.wikipedia.org/wiki/捉妖記 "wikilink")》丶《[黃飛鴻之英雄有夢](https://zh.wikipedia.org/wiki/黃飛鴻之英雄有夢 "wikilink")》丶《[功夫瑜伽](https://zh.wikipedia.org/wiki/功夫瑜伽 "wikilink")》等。2017年帶領兔將完成第一部好萊塢大片《[超凡戰隊](https://zh.wikipedia.org/wiki/金剛戰士_\(2017年電影\) "wikilink")》3D立體電影製作，並完成多部IP大劇之特效製作，如劇版點擊突破五百億的《[三生三世十里桃花](https://zh.wikipedia.org/wiki/三生三世十里桃花_\(电视剧\) "wikilink")》等。所帶領研發的圖學技術與世界首創雲端製作系統被廣泛應用在電影及動畫製作。2016年憑電影《[紅衣小女孩](../Page/紅衣小女孩.md "wikilink")》入圍金馬獎第53屆最佳視覺效果。\[3\]2017年憑電影《目擊者》再度入圍金馬獎第54屆最佳視覺效果。\[4\]2018年更帶領兔將參與了春節賀歲票房冠軍《唐人街探案2》的製作，開春便交出漂亮的成績。
+曾擔任多部電影特效總監及3D立體視覺總監，包括《[十二生肖](https://movie.douban.com/subject/4212172/)》丶《[風暴](https://movie.douban.com/subject/20388198/)》丶《[五月天諾亞方舟](https://zh.wikipedia.org/wiki/五月天諾亞方舟 "wikilink")》丶《[天將雄師](https://zh.wikipedia.org/wiki/天將雄師 "wikilink")》丶《[捉妖記](https://zh.wikipedia.org/wiki/捉妖記 "wikilink")》丶《[黃飛鴻之英雄有夢](https://zh.wikipedia.org/wiki/黃飛鴻之英雄有夢 "wikilink")》丶《[功夫瑜伽](https://zh.wikipedia.org/wiki/功夫瑜伽 "wikilink")》等。2017年帶領兔將完成第一部好萊塢大片《[超凡戰隊](https://zh.wikipedia.org/wiki/金剛戰士_\(2017年電影\) "wikilink")》3D立體電影製作，並完成多部IP大劇之特效製作，如劇版點擊突破五百億的《[三生三世十里桃花](https://zh.wikipedia.org/wiki/三生三世十里桃花_\(电视剧\) "wikilink")》等。所帶領研發的圖學技術與世界首創雲端製作系統被廣泛應用在電影及動畫製作。2016年憑電影《[紅衣小女孩](../Page/紅衣小女孩.md "wikilink")》入圍金馬獎第53屆最佳視覺效果；\[3\]2017年憑電影《目擊者》再度入圍金馬獎第54屆最佳視覺效果；\[4\]2018年憑《[紅衣小女孩2](../Page/紅衣小女孩2.md "wikilink")》，入圍[第58屆亞太影展最佳視覺效果](../Page/第58屆亞太影展.md "wikilink")；而兔將承製視效的《[人面魚：紅衣小女孩外傳](../Page/人面魚：紅衣小女孩外傳.md "wikilink")》，於2019年獲得第21屆[台北電影獎](https://zh.wikipedia.org/wiki/台北電影獎 "wikilink")「最佳視覺效果」入圍。
 
 ## 主要作品
 
@@ -10,7 +10,9 @@ Chao-Hua**，1975年12月7日－）兔將創意影業創辦人暨CEO，電影監
 | 年份                                                                | 電影名稱                                                                  |
 | ----------------------------------------------------------------- | --------------------------------------------------------------------- |
 | 2019                                                              | 《[回到過去擁抱你](https://movie.douban.com/subject/27073835/celebrities)》    |
+| 《[吹哨人](https://movie.douban.com/subject/30198715/)》               |                                                                       |
 | 《[媽閣是座城](https://movie.douban.com/subject/26304201/)》             |                                                                       |
+| 《[五月天人生無限公司3D](../Page/五月天人生無限公司3D.md "wikilink")》                |                                                                       |
 | 《[狗眼看人心](../Page/狗眼看人心.md "wikilink")》                            |                                                                       |
 | 《[神探蒲松齡](https://zh.wikipedia.org/wiki/神探蒲松齡 "wikilink")》         |                                                                       |
 | 2018                                                              | 《[慾念遊戲](https://zh.wikipedia.org/wiki/慾念遊戲 "wikilink")》               |
@@ -51,33 +53,42 @@ Chao-Hua**，1975年12月7日－）兔將創意影業創辦人暨CEO，電影監
 | 年份                                                                    | 作品名稱                                                                |
 | --------------------------------------------------------------------- | ------------------------------------------------------------------- |
 | 2019                                                                  | 《[三生三世宸汐緣](https://movie.douban.com/subject/30230682/)》\[26\]       |
-| 《[風暴舞](../Page/风暴舞.md "wikilink")》                                    |                                                                     |
 | 《[鶴唳華亭](https://movie.douban.com/subject/27114834/)》                  |                                                                     |
+| 《[風暴舞](../Page/风暴舞.md "wikilink")》                                    |                                                                     |
+| 《[陪你到世界之巔](https://zh.wikipedia.org/wiki/陪你到世界之巔 "wikilink")》\[27\]   |                                                                     |
 | 《[只為遇見你](../Page/只为遇见你.md "wikilink")》                                |                                                                     |
-| 2018                                                                  | 《[為了你我願意熱愛整個世界](../Page/为了你我愿意热爱整个世界.md "wikilink")》\[27\]          |
-| 《[橙紅年代](https://zh.wikipedia.org/wiki/橙紅年代 "wikilink")》\[28\]         |                                                                     |
-| 《[香蜜沉沉燼如霜](../Page/香蜜沉沉燼如霜.md "wikilink")》\[29\]                      |                                                                     |
-| 《[溫暖的弦](https://zh.wikipedia.org/wiki/溫暖的弦 "wikilink")》\[30\]         |                                                                     |
-| 2017                                                                  | 《[醉玲瓏](../Page/醉玲珑.md "wikilink")》\[31\]                            |
-| 《[三生三世十里桃花](https://zh.wikipedia.org/wiki/三生三世十里桃花 "wikilink")》\[32\] |                                                                     |
-| 2016                                                                  | 《[微微一笑很傾城](https://zh.wikipedia.org/wiki/微微一笑很傾城 "wikilink")》\[33\] |
+| 2018                                                                  | 《[為了你我願意熱愛整個世界](../Page/为了你我愿意热爱整个世界.md "wikilink")》\[28\]          |
+| 《[橙紅年代](https://zh.wikipedia.org/wiki/橙紅年代 "wikilink")》\[29\]         |                                                                     |
+| 《[香蜜沉沉燼如霜](../Page/香蜜沉沉燼如霜.md "wikilink")》\[30\]                      |                                                                     |
+| 《[溫暖的弦](https://zh.wikipedia.org/wiki/溫暖的弦 "wikilink")》\[31\]         |                                                                     |
+| 2017                                                                  | 《[醉玲瓏](../Page/醉玲珑.md "wikilink")》\[32\]                            |
+| 《[三生三世十里桃花](https://zh.wikipedia.org/wiki/三生三世十里桃花 "wikilink")》\[33\] |                                                                     |
+| 2016                                                                  | 《[微微一笑很傾城](https://zh.wikipedia.org/wiki/微微一笑很傾城 "wikilink")》\[34\] |
 
-## 獎項\[34\]
+## 獎項\[35\]
 
-### 金馬獎
 
-| 年份                                                                            | 獎項                                        | 作品                                                    | 結果             |
-| ----------------------------------------------------------------------------- | ----------------------------------------- | ----------------------------------------------------- | -------------- |
-| 2017 <small>[(54屆)](https://zh.wikipedia.org/wiki/第54屆金馬獎 "wikilink")</small> | [最佳視覺效果](../Page/金馬獎最佳視覺效果.md "wikilink") | 《[目擊者](https://zh.wikipedia.org/wiki/目擊者 "wikilink")》 | 提名\[35\]\[36\] |
-| 2016 <small>[(53屆)](https://zh.wikipedia.org/wiki/第53屆金馬獎 "wikilink")</small> | [最佳視覺效果](../Page/金馬獎最佳視覺效果.md "wikilink") | 《[紅衣小女孩](../Page/紅衣小女孩_\(電影\).md "wikilink")》         | 提名\[37\]       |
+\=== 台北電影獎 ===
+
+| 年份                        | 獎項     | 作品                                                 | 結果       |
+| ------------------------- | ------ | -------------------------------------------------- | -------- |
+| 2019 <small>(21屆)</small> | 最佳視覺特效 | 《[人面魚：紅衣小女孩外傳](../Page/人面魚：紅衣小女孩外傳.md "wikilink")》 | 提名\[36\] |
 
 ### 亞太影展
 
 | 年份                                                          | 獎項     | 作品                                       | 結果             |
 | ----------------------------------------------------------- | ------ | ---------------------------------------- | -------------- |
-| 2018 <small>[(58屆)](../Page/第58屆亞太影展.md "wikilink")</small> | 最佳視覺特效 | 《[紅衣小女孩2](../Page/紅衣小女孩2.md "wikilink")》 | 提名\[38\]\[39\] |
+| 2018 <small>[(58屆)](../Page/第58屆亞太影展.md "wikilink")</small> | 最佳視覺特效 | 《[紅衣小女孩2](../Page/紅衣小女孩2.md "wikilink")》 | 提名\[37\]\[38\] |
 
-## 外部連結
+### 金馬獎
+
+| 年份                                                                            | 獎項                                        | 作品                                                    | 結果             |
+| ----------------------------------------------------------------------------- | ----------------------------------------- | ----------------------------------------------------- | -------------- |
+| 2017 <small>[(54屆)](https://zh.wikipedia.org/wiki/第54屆金馬獎 "wikilink")</small> | [最佳視覺效果](../Page/金馬獎最佳視覺效果.md "wikilink") | 《[目擊者](https://zh.wikipedia.org/wiki/目擊者 "wikilink")》 | 提名\[39\]\[40\] |
+| 2016 <small>[(53屆)](https://zh.wikipedia.org/wiki/第53屆金馬獎 "wikilink")</small> | [最佳視覺效果](../Page/金馬獎最佳視覺效果.md "wikilink") | 《[紅衣小女孩](../Page/紅衣小女孩_\(電影\).md "wikilink")》         | 提名\[41\]       |
+
+
+\== 外部連結 ==
 
   - 李昭樺
     在[互聯網電影數據庫](https://zh.wikipedia.org/wiki/互聯網電影數據庫 "wikilink")（IMDb）上的資料**<small>（英文）</small>**
@@ -136,3 +147,5 @@ Chao-Hua**，1975年12月7日－）兔將創意影業創辦人暨CEO，電影監
 37.
 38.
 39.
+40.
+41.

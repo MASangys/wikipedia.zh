@@ -57,33 +57,33 @@ Music音源排行榜冠軍\[20\]，而根據MelOn公開的收聽人數，這首�
 </tr>
 <tr class="odd">
 <td><p>Melon</p></td>
-<td><p>*<strong>1</strong></p></td>
-<td><p>*<strong>1</strong> <sup>12</sup></p></td>
+<td><p><strong>1</strong></p></td>
+<td><p><strong>1</strong> <sup>12</sup></p></td>
 </tr>
 <tr class="even">
 <td><p>Genie</p></td>
-<td><p>*<strong>1</strong></p></td>
-<td><p>*<strong>1</strong> <sup>10</sup></p></td>
+<td><p><strong>1</strong></p></td>
+<td><p><strong>1</strong> <sup>10</sup></p></td>
 </tr>
 <tr class="odd">
 <td><p>Bugs</p></td>
-<td><p>*<strong>1</strong></p></td>
-<td><p>*<strong>1</strong> <sup>6</sup></p></td>
+<td><p><strong>1</strong></p></td>
+<td><p><strong>1</strong> <sup>6</sup></p></td>
 </tr>
 <tr class="even">
 <td><p>Mnet</p></td>
-<td><p>*<strong>1</strong></p></td>
-<td><p>*<strong>1</strong> <sup>3</sup></p></td>
+<td><p><strong>1</strong></p></td>
+<td><p><strong>1</strong> <sup>3</sup></p></td>
 </tr>
 <tr class="odd">
 <td><p>Naver</p></td>
-<td><p>*3</p></td>
-<td><p>*21</p></td>
+<td><p>3</p></td>
+<td><p>21</p></td>
 </tr>
 <tr class="even">
 <td><p>Soribada</p></td>
-<td><p>*<strong>1</strong></p></td>
-<td><p>*<strong>1</strong> <sup>8</sup></p></td>
+<td><p><strong>1</strong></p></td>
+<td><p><strong>1</strong> <sup>8</sup></p></td>
 </tr>
 <tr class="odd">
 <td><ul>
@@ -122,22 +122,22 @@ Music音源排行榜冠軍\[20\]，而根據MelOn公開的收聽人數，這首�
 <tr class="even">
 <td><p><a href="../Page/Mnet媒體.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
-<td><p>*<strong>1</strong></p></td>
+<td><p><strong>1</strong></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS第2頻道" title="wikilink">KBS2</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/音乐银行" title="wikilink">音樂銀行</a></p></td>
-<td><p>*2</p></td>
+<td><p>2</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/文化廣播_(韓國)" title="wikilink">MBC</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Show!_音樂中心" title="wikilink">Show! 音樂中心</a></p></td>
-<td><p>*<strong>(1)</strong></p></td>
+<td><p><strong>(1)</strong></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
 <td><p><a href="../Page/人气歌谣.md" title="wikilink">人氣歌謠</a></p></td>
-<td><p>*<strong>1</strong></p></td>
+<td><p><strong>1</strong></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -147,7 +147,7 @@ Music音源排行榜冠軍\[20\]，而根據MelOn公開的收聽人數，這首�
 <tr class="odd">
 <td></td>
 <td><p><a href="../Page/Show_Champion.md" title="wikilink">Show Champion</a></p></td>
-<td><p>*<strong>(1)</strong></p></td>
+<td><p><strong>(1)</strong></p></td>
 </tr>
 <tr class="even">
 <td><ul>

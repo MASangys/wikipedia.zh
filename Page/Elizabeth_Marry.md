@@ -673,509 +673,515 @@ Renah（[平井麗奈](https://zh.wikipedia.org/wiki/平井麗奈 "wikilink")）
 <td><p>雷爾提</p></td>
 </tr>
 <tr class="even">
+<td><p>2019年10月23日<br />
+（<a href="https://zh.wikipedia.org/wiki/神奈川縣立青少年中心" title="wikilink">神奈川縣立青少年中心</a> Studio HIKARI）</p></td>
+<td><p>Magcultheater 2019</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><strong>地球Gorgeous</strong></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2014年1月8日 - 2月20日（<a href="https://zh.wikipedia.org/wiki/赤坂ACT劇場" title="wikilink">赤坂ACT劇場</a>）</p></td>
 <td><p>再生之翼</p></td>
 <td><p>Dish 民</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2014年2月26日 - 3月1日（愛知縣藝術劇場）</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2014年3月7 - 12日<br />
 （<a href="https://zh.wikipedia.org/wiki/Canal_City劇場" title="wikilink">Canal City劇場</a>）</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2014年3月18 - 31日<br />
 （<a href="../Page/梅田藝術劇場.md" title="wikilink">梅田藝術劇場</a>）</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>Alii entertainment</strong></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2014年5月2 - 6日<br />
 （池袋 Theater Green BOX in BOX THEATER）</p></td>
 <td><p>LADYBIRD, LADYBIRD</p></td>
 <td><p>甲　蟲</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>蟑　螂</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>X-QUEST</strong></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2014年6月11 - 22日<br />
 （<a href="https://zh.wikipedia.org/wiki/王子小劇場" title="wikilink">王子小劇場</a>）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/燈塔水母" title="wikilink">燈塔水母</a> 實驗都市 Marvelous 之反擊</p></td>
 <td><p>迷你水母人</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>Inuccoro演劇集團</strong></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2014年7月24 - 28日<br />
 （<a href="https://zh.wikipedia.org/wiki/劇場MOMO" title="wikilink">劇場MOMO</a>）</p></td>
 <td><p>戀愛反英雄</p></td>
 <td><p>粉紅戰士</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>龍平Company</strong></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2014年8月28日 - 9月7日（<a href="https://zh.wikipedia.org/wiki/青山圓形劇場" title="wikilink">青山圓形劇場</a>）</p></td>
 <td><p>Twelve</p></td>
 <td><p>7號</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>S.A.B. Company、往來劇團</strong></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2014年9月13 - 15日<br />
 （<a href="https://zh.wikipedia.org/wiki/新國立劇場" title="wikilink">新國立劇場小劇場THE</a> PIT）</p></td>
 <td><p>Life pathfinder 2014</p></td>
 <td><p>須磨英理</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>大人計劃</strong></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2014年12月5 - 30日（Bunkamura Theatre Cocoon）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/漂亮〜一個與神見面的女子〜" title="wikilink">漂亮〜一個與神見面的女子〜</a></p></td>
 <td><p>Aida（アイダ）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>Pop'n Mushroom Chicken 小子</strong></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2015年2月22日 - 3月1日（新宿 Theater Sun Mall）</p></td>
 <td><p>孤獨的藍調・雷德菲爾</p></td>
 <td><p>政府高官女兒</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>6號Ceed劇團</strong></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2015年4月15 - 21日<br />
 （<a href="../Page/西新宿.md" title="wikilink">西新宿</a><a href="https://zh.wikipedia.org/wiki/新宿村LIVE" title="wikilink">新宿村LIVE</a>）</p></td>
 <td><p>The Voice Actor</p></td>
 <td><p>大等一里</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2016年1月27 - 31日<br />
 （<a href="../Page/新馬場站.md" title="wikilink">新馬場站六行會Hall</a>）</p></td>
 <td><p>Mates！</p></td>
 <td><p>Kyon（キョン）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2016年9月7 - 11日<br />
 （<a href="../Page/中野區.md" title="wikilink">中野</a><a href="https://zh.wikipedia.org/wiki/The_Pocket" title="wikilink">The Pocket</a>）</p></td>
 <td><p>Life is Numbers</p></td>
 <td><p>高橋四葉</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2017年4月5 - 12日<br />
 （池袋 Theater Kassai）</p></td>
 <td><p>人生的重要部分正被膠帶限制 現代篇</p></td>
 <td><p>綾川春姫</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2017年4月15 - 23日<br />
 （池袋 Theater Kassai）</p></td>
 <td><p>人生的重要部分正被膠帶限制 <a href="../Page/大正.md" title="wikilink">大正時代篇</a></p></td>
 <td><p>林 Kimu 子</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2017年6月7 - 11日<br />
 （池袋 Theater Kassai）</p></td>
 <td><p>不能說不好意思的人們</p></td>
 <td><p>淺宮・Stephanie・亞希子</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2017年11月23日<br />
 （池袋 Theater Kassai）</p></td>
 <td><p>D・密里根的客人</p></td>
 <td><p>郵　差（一天一換演出嘉賓）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2018年5月30日 - 6月3日（新馬場站六行會Hall）</p></td>
 <td><p>TRUSH！</p></td>
 <td><p>Poi（ポイ）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2018年11月30日 - 12月8日（日程 B）<br />
 （池袋 Theater Kassai）</p></td>
 <td><p>劇作家、小説家與編劇</p></td>
 <td><p>Minus</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>片肌☆俱利迦羅紋紋一座</strong></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2015年7月15 - 19日<br />
 （池袋 Theater Green BIG TREE THEATER）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/振袖" title="wikilink">振袖大火</a></p></td>
 <td><p>橋立花魁</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/世田谷文化財團" title="wikilink">世田谷文化財團</a></strong></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2015年8月5日 - 9日（Theatre Trum）</p></td>
 <td><p>跳躍漫畫「鳥獸戲畫」</p></td>
 <td><p>兔　子</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>Hotpot Cooking</strong></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2016年4月29日 - 5月2日（新宿村LIVE）</p></td>
 <td><p>神志不清的 Timeslidol</p></td>
 <td><p>Sentimental・Global・Dining Kitchen</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>土（つち）</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>Roji9（□字ック）</strong></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2016年6月29日 - 7月3日（東京藝術劇場 Theater West）</p></td>
 <td><p>荒川、神 Killer Tune</p></td>
 <td><p>Shiori（シオリ）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2016年7月9、10日<br />
 （<a href="https://zh.wikipedia.org/wiki/穗之國豐橋藝術劇場PLAT" title="wikilink">穗之國豐橋藝術劇場PLAT</a> Art Space）</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>Jetrag</strong></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2016年10月7 - 18日<br />
 （新宿 <a href="https://zh.wikipedia.org/wiki/SPACE_雜遊" title="wikilink">SPACE 雜遊</a>）</p></td>
 <td><p>我是明星</p></td>
 <td><p>長谷川 Keme 子</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>Parco</strong></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2017年1月11 - 22日<br />
 （<a href="https://zh.wikipedia.org/wiki/EX_Theater_Roppongi" title="wikilink">EX Theater Roppongi</a>）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/歌廳_(音樂劇)" title="wikilink">歌廳</a></p></td>
 <td><p>Kit Kat Girl</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2017年1月26 - 29日<br />
 （<a href="https://zh.wikipedia.org/wiki/横濱市" title="wikilink">横濱</a><a href="https://zh.wikipedia.org/wiki/KAAT神奈川藝術劇場" title="wikilink">KAAT神奈川藝術劇場</a>）</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2017年2月3 - 5日<br />
 （大阪節慶音樂廳）</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2017年2月10 - 12日<br />
 （<a href="https://zh.wikipedia.org/wiki/仙台Sun_Plaza" title="wikilink">仙台Sun Plaza大廳</a>）</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2017年2月17 - 19日<br />
 （<a href="https://zh.wikipedia.org/wiki/刈谷市總合文化中心" title="wikilink">刈谷市總合文化中心大廳</a>）</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2017年2月24 - 26日<br />
 （<a href="https://zh.wikipedia.org/wiki/福岡太陽宮" title="wikilink">福岡太陽宮大廳</a>）</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>朝劇 西新宿</strong></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2017年7月12日<br />
 （GLASS DANCE 新宿店）</p></td>
 <td><p>戀愛離心力</p></td>
 <td><p>演出嘉賓</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2019年3月31日<br />
 （GLASS DANCE 新宿店）</p></td>
 <td><p>愛的回轉式</p></td>
 <td><p>演出嘉賓</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>日本總合悲劇協會</strong></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2017年8月10 - 31日<br />
 （東京藝術劇場 Theatre East）</p></td>
 <td><p>業音</p></td>
 <td><p>舞蹈員</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2017年9月16 - 18日（<a href="https://zh.wikipedia.org/wiki/Solaria_Stage" title="wikilink">Solaria Stage</a> 西鐵Hall）</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2017年9月29、30日<br />
 （<a href="https://zh.wikipedia.org/wiki/松本市民藝術館" title="wikilink">松本市民藝術館實驗劇場</a>）</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2017年10月5 - 7日<br />
 （<a href="https://zh.wikipedia.org/wiki/巴黎日本文化會館" title="wikilink">巴黎日本文化會館大廳</a>）</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>舞台「文豪Stray Dogs」製作委員會</strong></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2017年12月22 - 24日<br />
 （横濱KAAT神奈川藝術劇場）</p></td>
 <td><p>舞台「<a href="../Page/文豪Stray_Dogs.md" title="wikilink">文豪Stray Dogs</a>」</p></td>
 <td><p>伴舞團成員</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2018年1月12、13日<br />
 （<a href="https://zh.wikipedia.org/wiki/森之宮Piloti_Hall" title="wikilink">森之宮Piloti Hall</a>）</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2018年1月31日 - 2月4日（<a href="https://zh.wikipedia.org/wiki/AiiA_2.5_Theater_Tokyo" title="wikilink">AiiA 2.5 Theater Tokyo</a>）</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>ROCKSTAR有限公司 / Condors</strong></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2018年2月11、12日<br />
 （東池袋 Owlspot Theater）</p></td>
 <td><p>可能性之群獣2018</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>紙上談兵</strong></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2018年3月10日 - 18日<br />
 （<a href="https://zh.wikipedia.org/wiki/吉祥寺Theater" title="wikilink">吉祥寺Theater</a>）</p></td>
 <td><p>沒有「歡迎回來」的鄉鎮便沒有色彩</p></td>
 <td><p>Toki（トキ）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>吃柿子的人</strong></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2018年7月11 - 16日<br />
 （<a href="https://zh.wikipedia.org/wiki/天王洲_銀河劇場" title="wikilink">天王洲 銀河劇場</a>）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/半神_(漫畫)" title="wikilink">半神</a></p></td>
 <td><p>怪　物</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2018年7月19 - 22日<br />
 （<a href="https://zh.wikipedia.org/wiki/松下IMP_Hall" title="wikilink">松下IMP Hall</a>）</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>DMF劇團</strong></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2018年8月29日 - 9月2日（新宿御苑前 Theater Sun Mall）</p></td>
 <td><p>名家 魔女與<a href="../Page/幕末.md" title="wikilink">幕末英雄</a></p></td>
 <td><p>言　秀</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>伊邪那</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>舞台「文豪Stray Dogs 黑之時代」製作委員會</strong></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2018年9月22日 - 10月8日<br />
 （東池袋 <a href="https://zh.wikipedia.org/wiki/Sunshine_Theatre" title="wikilink">Sunshine Theatre</a>）</p></td>
 <td><p>舞台「<a href="../Page/文豪Stray_Dogs.md" title="wikilink">文豪Stray Dogs 黑之時代</a>」</p></td>
 <td><p>伴舞團成員</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2018年10月13、14日<br />
 （森之宮Piloti Hall）</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>下課後Beer Time</strong></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2018年11月2 - 4日<br />
 （Stage Café下北澤亭）</p></td>
 <td><p><a href="../Page/關東煮.md" title="wikilink">關東煮開始了</a>。</p></td>
 <td><p>（一天一換演出嘉賓、只演出11月4日）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>室蘭VOX</strong></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2018年11月16日<br />
 （<a href="https://zh.wikipedia.org/wiki/室蘭市市民會館" title="wikilink">室蘭市市民會館</a>）</p></td>
 <td><p><a href="../Page/天地一沙鷗.md" title="wikilink">天地一沙鷗之</a><a href="https://zh.wikipedia.org/wiki/天鵝湖" title="wikilink">天鵝湖</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>小川細川企劃</strong></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2019年2月27日 - 3月3日<br />
 （池袋 Theater Kassai）</p></td>
 <td><p>變得華麗吧！快要發瘋的綾</p></td>
 <td><p>海部里</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>舞台「文豪Stray Dogs　三社鼎立」製作委員會</strong></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2019年6月8、9日<br />
 （<a href="../Page/北上市.md" title="wikilink">北上市文化交流Center</a> Sakura Hall）</p></td>
 <td><p>舞台「<a href="../Page/文豪Stray_Dogs.md" title="wikilink">文豪Stray Dogs　三社鼎立</a>」</p></td>
 <td><p><a href="../Page/露西·莫德·蒙哥馬利.md" title="wikilink">露西·莫德·蒙哥馬利</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2019年6月14 - 16日<br />
 （<a href="../Page/久留米市.md" title="wikilink">久留米City</a> Plaza The Grand Hall）</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2019年6月21、22日<br />
 （<a href="https://zh.wikipedia.org/wiki/名古屋市公會堂" title="wikilink">名古屋市公會堂</a>）</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2019年6月27 - 30日<br />
 （森之宮Piloti Hall）</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2019年7月3 - 10日<br />
 （<a href="../Page/日本青年館.md" title="wikilink">日本青年館Hall</a>）</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>舞台「幽☆遊☆白書」製作委員會</strong></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2019年8月28日 - 9月2日<br />
 （<a href="https://zh.wikipedia.org/wiki/Theatre1010" title="wikilink">Theatre1010</a>）</p></td>
 <td><p>舞台「<a href="https://zh.wikipedia.org/wiki/幽☆遊☆白書" title="wikilink">幽☆遊☆白書</a>」</p></td>
 <td><p>幻　海</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2019年9月4 - 8日<br />
 （森之宮Piloti Hall）</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2019年9月10 - 13日<br />
 （福岡 <a href="https://zh.wikipedia.org/wiki/Momochi_Palace" title="wikilink">Momochi Palace</a>）</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2019年9月20 - 22日<br />
 （<a href="https://zh.wikipedia.org/wiki/一宮市民會館" title="wikilink">一宮市民會館</a>）</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>

@@ -15,6 +15,10 @@ Xbox One、PS4 及 PC 平台上继续采用“Frostbite”寒霜引擎开发 ，
 
 ## 参考资料
 
+## 外部連結
+
+  - [FIFA 19影片](https://www.youtube.com/playlist?list=PLxI6P_pl3FrMkDOHkrX9nAnVoXwbkO0lW)
+
 [Category:2018年电子游戏](https://zh.wikipedia.org/wiki/Category:2018年电子游戏 "wikilink")
 [Category:EA_Sports游戏](https://zh.wikipedia.org/wiki/Category:EA_Sports游戏 "wikilink")
 [Category:FIFA系列](https://zh.wikipedia.org/wiki/Category:FIFA系列 "wikilink")

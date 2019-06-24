@@ -1,11 +1,8 @@
-[Mr-potato-353270_640.jpg](https://zh.wikipedia.org/wiki/File:Mr-potato-353270_640.jpg "fig:Mr-potato-353270_640.jpg")
 **Mr. Potato Head
 馬鈴薯先生**是一種[玩具](../Page/玩具.md "wikilink")，由馬鈴薯形狀的塑料模型組成，模型可以裝飾各種塑料部件附著在主體上。這些部件通常包括耳朵，眼睛，鞋子，帽子，鼻子和嘴巴。該玩具由[喬治·勒納於](https://zh.wikipedia.org/wiki/喬治·勒納 "wikilink")1949
 年發明和開發，最初由Hasbro於1952年製造和發行。<sup>\[1\]</sup> Potato
 Head先生是第一個在電視上做廣告的玩具<sup>\[2\]
 \[3\]</sup>自首次亮相以來一直在生產。
-
-
 
 ## 流行文化
 

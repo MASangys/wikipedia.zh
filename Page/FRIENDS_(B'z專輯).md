@@ -4,7 +4,9 @@ II](../Page/FRIENDS_II.md "wikilink")》。
 
 ## 作品解說
 
-僅在初回盤附屬了可將CD盒置入的紙製封套盒（Sleeve Case）。
+專輯封面使用了[英國風景](https://zh.wikipedia.org/wiki/英國 "wikilink")[攝影師](https://zh.wikipedia.org/wiki/攝影 "wikilink")[Michael
+Kenna於](https://zh.wikipedia.org/wiki/迈克尔·肯纳 "wikilink")1983年拍攝的作品「Deckchairs,
+Bournemouth, Dorset, England」\[1\]，僅在初回盤附屬了可將CD盒置入的紙製封套盒（Sleeve Case）。
 
 本作成為了憑藉全曲來維持1個故事性的[概念專輯](https://zh.wikipedia.org/wiki/概念專輯 "wikilink")，與其他的B'z專輯相比作風大為不同。根據[松本孝弘的陳述表示](../Page/松本孝弘.md "wikilink")「想製作一張猶如電影原聲帶般的專輯{{\#tag:ref||group="原文"}}」。內容是由『回想』『再會』『糾葛』『解決』之場面所組成的愛情故事，專輯標題『**FRIENDS**』正是故事的主題。曲順表記並非「\#1」等，而是採用了「**SCENE
 1**」等獨特的表記方式，亦成為其特徵。關於作詞，[稻葉浩志表示](../Page/稻葉浩志.md "wikilink")「所有樂曲的歌詞皆是在乘坐飛機移動中以每4曲同時進行書寫{{\#tag:ref||group="原文"}}」。
@@ -37,7 +39,7 @@ II](../Page/FRIENDS_II.md "wikilink")》。
       -
         作為[朝日電視台系](../Page/朝日電視台.md "wikilink")『[MUSIC
         STATION](../Page/MUSIC_STATION.md "wikilink")』片尾曲，截至1992年4月10日起至2002年2月22日，使用了本曲的器樂曲「どうしても君を失いたくない
-        -Instrumental-」。該版本未被音源化\[1\]。
+        -Instrumental-」。該版本未被音源化\[2\]。
 8.  6\. **曾幾何時的Merry Christmas（Reprise）（）**(1:23)
       -
         挪用了SCENE
@@ -98,4 +100,5 @@ II](../Page/FRIENDS_II.md "wikilink")》。
 [Category:1992年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1992年Oricon專輯週榜冠軍作品 "wikilink")
 [Category:Oricon百萬銷量達成專輯](https://zh.wikipedia.org/wiki/Category:Oricon百萬銷量達成專輯 "wikilink")
 
-1.  雖無加入歌聲，但曲子與[和聲是從原曲直接挪用到器樂曲本身](../Page/和聲歌手.md "wikilink")。此外，歌唱部分代替歌聲加入了吉他音。
+1.  <https://www.sfmoma.org/artwork/91.403/>
+2.  雖無加入歌聲，但曲子與[和聲是從原曲直接挪用到器樂曲本身](../Page/和聲歌手.md "wikilink")。此外，歌唱部分代替歌聲加入了吉他音。

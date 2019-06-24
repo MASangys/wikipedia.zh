@@ -8,14 +8,14 @@ The Express
 Tribune|url=[https://tribune.com.pk/story/1779983/1-asad-qaiser-political-journey-20th-na-speaker/|accessdate=2018-08-15|work=The](https://tribune.com.pk/story/1779983/1-asad-qaiser-political-journey-20th-na-speaker/%7Caccessdate=2018-08-15%7Cwork=The)
 Express Tribune|date=2018-08-15}}</ref>。
 
-他在的政府高中接受了早期教育。他毕业于白沙瓦大学 。 \[3\]</ref> \[4\] 他毕业于政府研究生院（Swabi）
+他在的政府高中接受了早期教育。他毕业于白沙瓦大学 。\[3\]</ref> \[4\] 他毕业于政府研究生院（Swabi）
 \[5\]</ref>并获得文学学士学位。 \[6\] The Express
 Tribune|url=[https://tribune.com.pk/story/1779983/1-asad-qaiser-political-journey-20th-na-speaker/|accessdate=2018-08-15|work=The](https://tribune.com.pk/story/1779983/1-asad-qaiser-political-journey-20th-na-speaker/%7Caccessdate=2018-08-15%7Cwork=The)
 Express Tribune|date=2018-08-15}}</ref>
 
 ## 政治生涯
 
-Qaiser在巴基斯坦Jamaat-e-Islami （JI）开始了他的政治生涯。 \[7\]</ref> 1984年，他被选为Kotha
+Qaiser在巴基斯坦Jamaat-e-Islami （JI）开始了他的政治生涯。\[7\]</ref> 1984年，他被选为Kotha
 College Swabi的Nazim，作为Islami Jamiat-e-Talaba的候选人，在那里任职两年。 \[8\] The
 Express
 Tribune|url=[https://tribune.com.pk/story/1779983/1-asad-qaiser-political-journey-20th-na-speaker/|accessdate=2018-08-15|work=The](https://tribune.com.pk/story/1779983/1-asad-qaiser-political-journey-20th-na-speaker/%7Caccessdate=2018-08-15%7Cwork=The)
@@ -30,7 +30,7 @@ Express Tribune|date=2018-08-10}}</ref>。
 他于[2013年巴基斯坦大選被选为巴基斯坦国民议会议员](../Page/2013年巴基斯坦大選.md "wikilink")，成为来自选区NA-13（斯瓦比二世）的PTI候选人。他获得了48,576张选票，并击败了Jamiat
 Ulema-e Islam（F）（JUI-F）候选人Attaul Haq。在同一次选举中，他被选为开伯尔 -
 普赫图赫瓦省议会议员，作为选区PK-35（斯瓦比-V）的PTI候选人。他获得了14,165票，并击败了[巴基斯坦穆斯林联盟（谢里夫派）](../Page/巴基斯坦穆斯林联盟（谢里夫派）.md "wikilink")
-（PML-N）的候选人Sajjad Ahmad。 \[14\]选举结束后，他保留了他的开伯尔 - 普赫图赫瓦集会席位并腾出国民议会一个席位。
+（PML-N）的候选人Sajjad Ahmad。\[14\]选举结束后，他保留了他的开伯尔 - 普赫图赫瓦集会席位并腾出国民议会一个席位。
 \[15\] 2013年5月30日，他被任命为开伯尔 - 普赫图赫瓦省议会第14位议长。 \[16\] The Express
 Tribune|url=[https://tribune.com.pk/story/1777680/1-asad-qaisar-pti-nominee-national-assembly-speaker/|accessdate=2018-08-10|work=The](https://tribune.com.pk/story/1777680/1-asad-qaisar-pti-nominee-national-assembly-speaker/%7Caccessdate=2018-08-10%7Cwork=The)
 Express Tribune|date=2018-08-10}}</ref> \[17\]
@@ -45,7 +45,7 @@ Haqqani\[21\]。在他当选后，他放弃了省议会席位PK-44（Swabi-II）
 
 ## 参考
 
-[Category:巴基斯坦国民议会议长](https://zh.wikipedia.org/wiki/Category:巴基斯坦国民议会议长 "wikilink")
+[:Category:巴基斯坦国民议会议长](https://zh.wikipedia.org/wiki/Category:巴基斯坦国民议会议长 "wikilink")
 
 1.
 2.

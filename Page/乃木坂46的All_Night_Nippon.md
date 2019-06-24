@@ -1,15 +1,15 @@
 **乃木坂46的All Night
-Nippon**（日语：）是自2019年4月3日以来于每周四（周三深夜）1:00-3:00（[日本标准时间](https://zh.wikipedia.org/wiki/日本时间 "wikilink")）通过[日本放送播出的深夜广播节目](../Page/日本放送.md "wikilink")\[1\]。
+Nippon**（）是自2019年4月3日起於每週三25:00-27:00（即週四1:00-3:00；[日本标准时间](https://zh.wikipedia.org/wiki/日本标准时间 "wikilink")）在[日本放送播出的深夜广播节目](../Page/日本放送.md "wikilink")\[1\]，為日本女子偶像團體[乃木坂46的冠名廣播節目](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")，由乃木坂46成員[新内真衣擔任主要主持人](../Page/新内真衣.md "wikilink")。
 
 ## 概要
 
-本节目接档《》，前身则是自2016年3月31日以来已播出三年的《》。节目得到正式升格后，主持人仍然为成员[新内真衣](../Page/新内真衣.md "wikilink")\[2\]\[3\]，但播出时间较以往提前，时间也由90分钟延长至120分钟。
+本节目接档《》，直接前身则是自2016年3月31日以来已播出三年的《》；由於新的播出時間——平日25:00-27:00，是日本放送《》系列節目的主力時段，因此可說是前述節目的「升格」。主持人仍然由[新内真衣擔當](../Page/新内真衣.md "wikilink")\[2\]\[3\]，部分單元也延續使用，但播出时间较以往提前，时间也由90分钟延长至120分钟。
 
 此外，本节目在升格为常规节目前也曾多次以特别节目的形式播出过，过去的单回播出请参考。
 
 ## 出演者
 
-  - [乃木坂46](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")（主持：[新内真衣](../Page/新内真衣.md "wikilink")）
+  - [乃木坂46](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")（主要主持人：[新内真衣](../Page/新内真衣.md "wikilink")）
       - 其他成员也曾出演\[4\]。
           - 2019年4月19日（18日深夜） -
             [秋元真夏](../Page/秋元真夏.md "wikilink")、[中田花奈](../Page/中田花奈.md "wikilink")
@@ -17,6 +17,8 @@ Nippon**（日语：）是自2019年4月3日以来于每周四（周三深夜）
             [伊藤卡琳](../Page/伊藤卡琳.md "wikilink")、[齊藤優里](../Page/齊藤優里.md "wikilink")
           - 2019年5月30日（29日深夜） -
             [高山一實](../Page/高山一實.md "wikilink")、[與田祐希](../Page/與田祐希.md "wikilink")
+          - 2019年6月13日（12日深夜） -
+            [櫻井玲香](../Page/櫻井玲香.md "wikilink")、[佐藤楓](https://zh.wikipedia.org/wiki/佐藤楓 "wikilink")
 
 ## 主要环节
 
@@ -47,7 +49,9 @@ Nippon**（日语：）是自2019年4月3日以来于每周四（周三深夜）
   - [官方网站](https://www.allnightnippon.com/nogizaka46/)
 
   -
-[Category:未完結作品](https://zh.wikipedia.org/wiki/Category:未完結作品 "wikilink")
+
+  -
+
 [Category:乃木坂46](https://zh.wikipedia.org/wiki/Category:乃木坂46 "wikilink")
 [Category:日本放送的广播节目](https://zh.wikipedia.org/wiki/Category:日本放送的广播节目 "wikilink")
 

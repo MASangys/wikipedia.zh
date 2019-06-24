@@ -1,6 +1,6 @@
 **Cherry
 Bullet**（；），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[FNC娛樂旗下的十人女子組合](../Page/FNC娛樂.md "wikilink")。成員從2018年11月21日依次公開
-：由六名韓國成員[海允](../Page/海允.md "wikilink")、[裕姝](../Page/裕姝.md "wikilink")、未來、紫蘿、[智媛](../Page/智媛.md "wikilink")、彩麟，三名日本成員[KOKORO](https://zh.wikipedia.org/wiki/KOKORO "wikilink")、莉美、[MAY](../Page/MAY_\(Cherry_Bullet\).md "wikilink")，以及一名台灣成員粼粼所組成\[1\]\[2\]\[3\]。2019年1月21日以首張單曲專輯《[Let's
+：由六名韓國成員[海允](../Page/海允.md "wikilink")、[裕姝](../Page/裕姝.md "wikilink")、[未來](../Page/金京主.md "wikilink")、紫蘿、[智媛](../Page/智媛.md "wikilink")、[彩麟](https://zh.wikipedia.org/wiki/彩麟 "wikilink")，三名日本成員[KOKORO](https://zh.wikipedia.org/wiki/KOKORO "wikilink")、[莉美](https://zh.wikipedia.org/wiki/REMI_\(Cherry_Bullet\) "wikilink")、[MAY](../Page/MAY_\(Cherry_Bullet\).md "wikilink")，以及一名台灣成員[粼粼所組成](../Page/黃姿婷.md "wikilink")\[1\]\[2\]\[3\]。2019年1月21日以首張單曲專輯《[Let's
 Play Cherry
 Bullet](../Page/Let's_Play_Cherry_Bullet.md "wikilink")》正式出道\[4\]\[5\]。
 
@@ -10,20 +10,20 @@ Bullet](../Page/Let's_Play_Cherry_Bullet.md "wikilink")》正式出道\[4\]\[5\]
 
   - 名字**粗體**為隊長。
 
-| colspan="10" style|成員列表                                   |
-| --------------------------------------------------------- |
-| 藝名                                                        |
-| 漢字                                                        |
-| [海允](../Page/海允.md "wikilink")                            |
-| [裕姝](../Page/裕姝.md "wikilink")                            |
-| **金京主|未來**                                                |
-| 紫蘿                                                        |
-| [智媛](../Page/智媛.md "wikilink")                            |
-| [KOKORO](https://zh.wikipedia.org/wiki/KOKORO "wikilink") |
-| 莉美                                                        |
-| 彩麟                                                        |
-| [粼粼](https://zh.wikipedia.org/wiki/黃姿婷 "wikilink")        |
-| [MAY](../Page/MAY_\(Cherry_Bullet\).md "wikilink")        |
+| colspan="10" style|成員列表                                               |
+| --------------------------------------------------------------------- |
+| 藝名                                                                    |
+| 漢字                                                                    |
+| [海允](../Page/海允.md "wikilink")                                        |
+| [裕姝](../Page/裕姝.md "wikilink")                                        |
+| **[未來](../Page/金京主.md "wikilink")**                                   |
+| 紫蘿                                                                    |
+| [智媛](../Page/智媛.md "wikilink")                                        |
+| [KOKORO](https://zh.wikipedia.org/wiki/KOKORO "wikilink")             |
+| [莉美](https://zh.wikipedia.org/wiki/Remi_\(Cherry_Bullet\) "wikilink") |
+| [彩麟](https://zh.wikipedia.org/wiki/彩麟 "wikilink")                     |
+| [粼粼](../Page/黃姿婷.md "wikilink")                                       |
+| [MAY](../Page/MAY_\(Cherry_Bullet\).md "wikilink")                    |
 
 ### 團名由來
 
@@ -74,17 +74,18 @@ Bullet」是將Cherry（櫻桃）和Bullet（子彈）形成鮮明對比的詞�
 <li>語言：韓語</li>
 <li>銷量：15,926+<ref></li>
 </ul>
-<p><a href="http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&amp;serviceGbn=&amp;termGbn=month">2019年3月GAON專輯榜103位</a></ref></p></td>
+<p>[<a href="http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&amp;serviceGbn=&amp;targetTime=03&amp;hitYear=2019&amp;termGbn=month">2019年3月GAON專輯榜103位</a></ref></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
-<td><p><strong>《<a href="https://zh.wikipedia.org/wiki/LOVE_ADVENTURE" title="wikilink">LOVE ADVENTURE</a>》</strong></p>
+<td><p><strong>《<a href="https://zh.wikipedia.org/wiki/Love_Adventure" title="wikilink">LOVE ADVENTURE</a>》</strong></p>
 <ul>
 <li>發行日期 ：2019年5月22日</li>
 <li>語言：韓語</li>
-<li>銷量：</li>
-</ul></td>
+<li>銷量：9,238+<ref></li>
+</ul>
+<p>[<a href="http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&amp;serviceGbn=&amp;targetTime=05&amp;hitYear=2019&amp;termGbn=month">2019年5月GAON專輯榜29位</a></ref></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -296,6 +297,14 @@ Bullet」是將Cherry（櫻桃）和Bullet（子彈）形成鮮明對比的詞�
 <td><p>外籍偶像特輯</p></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>6月21日</p></td>
+<td></td>
+<td><p>《Fact in Star》</p></td>
+<td><p>全體</p></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -409,6 +418,22 @@ Bullet」是將Cherry（櫻桃）和Bullet（子彈）形成鮮明對比的詞�
 <td></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>6月16日</p></td>
+<td></td>
+<td><p>《偶像的品格》</p></td>
+<td><p>未來、彩麟、粼粼</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>6月21日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS_Cool_FM" title="wikilink">KBS Cool FM</a></p></td>
+<td><p>《》</p></td>
+<td><p>海允、紫蘿</p></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -442,7 +467,7 @@ Bullet」是將Cherry（櫻桃）和Bullet（子彈）形成鮮明對比的詞�
 | ------------------------------------------------------------------------------------------ | ----- | --------------- |
 | 單曲專輯《[Let's Play Cherry Bullet](../Page/Let's_Play_Cherry_Bullet.md "wikilink")》出道Showcase |       |                 |
 | 2019年1月21日                                                                                 | 首爾站   | YES24 LIVE HALL |
-| 單曲專輯《[LOVE ADVENTURE](https://zh.wikipedia.org/wiki/LOVE_ADVENTURE "wikilink")》回歸Showcase  |       |                 |
+| 單曲專輯《[LOVE ADVENTURE](https://zh.wikipedia.org/wiki/Love_Adventure "wikilink")》回歸Showcase  |       |                 |
 | 2019年5月22日                                                                                 | 首爾站   | YES24 LIVE HALL |
 
 ### 其他大型演唱會
@@ -473,7 +498,7 @@ Bullet」是將Cherry（櫻桃）和Bullet（子彈）形成鮮明對比的詞�
 <td><p><a href="../Page/Let&#39;s_Play_Cherry_Bullet.md" title="wikilink">Let's Play Cherry Bullet</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/LOVE_ADVENTURE" title="wikilink">LOVE ADVENTURE</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Love_Adventure" title="wikilink">LOVE ADVENTURE</a></p></td>
 </tr>
 <tr class="odd">
 <td><ul>

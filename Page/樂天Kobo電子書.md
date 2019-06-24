@@ -80,6 +80,8 @@ HD國際版](https://zh.wikipedia.org/wiki/Kobo_Clara_HD "wikilink")6吋[電子�
   -
   - [樂天Kobo英文官網](https://www.kobo.com)
 
+[Category:加拿大信息技术公司](https://zh.wikipedia.org/wiki/Category:加拿大信息技术公司 "wikilink")
+[Category:多伦多公司](https://zh.wikipedia.org/wiki/Category:多伦多公司 "wikilink")
 [Category:樂天Kobo電子書_(2009年成立)](https://zh.wikipedia.org/wiki/Category:樂天Kobo電子書_\(2009年成立\) "wikilink")
 [Category:2009年成立的公司](https://zh.wikipedia.org/wiki/Category:2009年成立的公司 "wikilink")
 [Category:台灣網站](https://zh.wikipedia.org/wiki/Category:台灣網站 "wikilink")

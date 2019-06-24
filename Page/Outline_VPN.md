@@ -62,6 +62,7 @@ OS](../Page/Chrome_OS.md "wikilink")、[Android以及](../Page/Android.md "wikil
 [Category:网络安全](https://zh.wikipedia.org/wiki/Category:网络安全 "wikilink")
 [Category:自由代理服务器](https://zh.wikipedia.org/wiki/Category:自由代理服务器 "wikilink")
 [Category:Alphabet](https://zh.wikipedia.org/wiki/Category:Alphabet "wikilink")
+[Category:翻墙软件](https://zh.wikipedia.org/wiki/Category:翻墙软件 "wikilink")
 
 1.
 2.

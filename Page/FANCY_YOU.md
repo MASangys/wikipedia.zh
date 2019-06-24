@@ -1,7 +1,7 @@
 《**FANCY
-YOU**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[TWICE的第七張韓語迷你專輯](https://zh.wikipedia.org/wiki/TWICE "wikilink")，由[JYP娛樂製作](../Page/JYP娛樂.md "wikilink")，於2019年4月22日推出\[1\]\[2\]，由黑眼必勝製作主打曲，並在下午六點（[韓國時間](https://zh.wikipedia.org/wiki/韓國 "wikilink")）公開主打歌「**FANCY**」MV以及專輯完整音源。
+YOU**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[TWICE的第七張韓語迷你專輯](https://zh.wikipedia.org/wiki/TWICE "wikilink")，由[JYP娛樂製作](../Page/JYP娛樂.md "wikilink")，於2019年4月22日推出\[1\]\[2\]，主打歌〈FANCY〉由[黑眼必勝製作](../Page/黑眼必勝.md "wikilink")，並在[韓國時間下午六點公開主打歌MV以及專輯完整音源](https://zh.wikipedia.org/wiki/韓國 "wikilink")。
 
-## 背景及回歸日程
+## 背景
 
 2019年2月中旬JYP娛樂公司透露TWICE已完成新曲的MV拍攝，並將於4月22日回歸，其後於4月7日TWICE日本巨蛋巡演圓滿結束後釋出回歸資訊。
 
@@ -9,34 +9,18 @@ YOU**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團�
 
 4月9日，專輯預購開始。
 
+4月22日，釋出〈FANCY〉預告。同日下午六時（韓國時間），迷你七輯〈FANCY
+YOU〉正式發布，並公開專輯收錄曲音源及主打歌〈FANCY〉M/V。
+
+## 製作
+
+專輯收錄6首歌曲\[3\]。主打歌〈FANCY〉由[黑眼必勝製作](../Page/黑眼必勝.md "wikilink")，是一首採用[長笛樂音的流行樂曲](https://zh.wikipedia.org/wiki/長笛 "wikilink")\[4\]，錄製過程中多次大幅度的更動，每個成員的演唱部分\[5\]。〈FANCY〉與先前的主打不同，展現了成員成熟帥氣的面貌，也有表達「TWICE也能展現這樣的樣貌」的涵義\[6\]。
+
 4月9日至4月11日，陸續公開專輯「FANCY
 YOU」的第一組個人預告照以及完整歌單，本次回歸是繼正規一輯主打歌LIKEY後，事隔一年再次聯手黑眼必勝製作主打曲。成員[志效為第三首收錄曲](../Page/志效.md "wikilink")《GIRL
 LIKE
 US》填詞，而[MOMO](https://zh.wikipedia.org/wiki/平井桃 "wikilink")、[Sana](https://zh.wikipedia.org/wiki/湊崎紗夏 "wikilink")、[彩瑛分別參與第四至六首收錄曲](../Page/彩瑛.md "wikilink")《HOT》、《TURN
 IT UP》以及《STRAWBERRY》的填詞工作。
-
-4月12日，公開「FANCY YOU」第二組團體概念照（居家休閒風）。
-
-4月13日，公開全員第二組個人概念照。
-
-4月14日，公開「FANCY」M/V場景片段。
-
-4月15日，公開「FANCY」M/V序幕片段。
-
-4月16日，公開「FANCY YOU」兩種風格各兩組及三組的小組概念照。
-
-4月17日，公開完整專輯資訊。
-
-4月18日，公開志效和彩瑛的照片卡，以及MOMO的CD封面。
-
-4月19日，公開「FANCY」M/V舞蹈片段。
-
-4月20日，釋出完整專輯的試聽INTRO影片。
-
-4月21日，釋出專輯概念照拍攝花絮。
-
-4月22日，釋出〈FANCY〉預告。同日下午六時（韓國時間），迷你七輯〈FANCY
-YOU〉正式發布，並公開專輯收錄曲音源及主打歌〈FANCY〉M/V。
 
 ## 概要
 
@@ -57,276 +41,23 @@ YOU〉正式發布，並公開專輯收錄曲音源及主打歌〈FANCY〉M/V。
   - 小卡一組 A版/B版/C版（10張）
   - 海報 A版/B版/C版
 
-## 曲目
-
-＊粗體字為主打歌
-
 ## 成績
 
-### 榜單成績
+〈FANCY〉的MV在發佈24小時內獲得4210萬觀看次數，成為[發布後24小時內觀看次數第9多的網路影片](../Page/發布後24小時內觀看次數最多的網路影片列表.md "wikilink")\[7\]。也是最快達成一億觀看次數的MV，僅花費約29天成為[TWICE第](https://zh.wikipedia.org/wiki/TWICE "wikilink")12支突破1億瀏覽的MV\[8\]。
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p>地區</p></td>
-<td><p>榜單</p></td>
-<td><p>類型</p></td>
-<td><p>停留時間</p></td>
-<td><p>最高位置</p></td>
-<td><p>銷量</p></td>
-<td><p>參考資料</p></td>
-</tr>
-<tr class="even">
-<td><p>韓國</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Gaon_Chart" title="wikilink">Gaon榜</a></p></td>
-<td><p>下載榜</p></td>
-<td><p>週榜</p></td>
-<td><p>2019年4月21日－4月27日</p></td>
-<td><p>#1</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>社交媒體榜</p></td>
-<td></td>
-<td><p>[3]</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>單曲榜</p></td>
-<td><p>2019年4月28日－5月4日</p></td>
-<td><p>#3</p></td>
-<td></td>
-<td><p>[4]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>串流榜</p></td>
-<td><p>2019年4月28日－5月11日（共二週）</p></td>
-<td><p>#4</p></td>
-<td></td>
-<td><p><ref></p>
-<ul>
-<li><p></ref></p></li>
-</ul></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>專輯榜</p></td>
-<td><p>2019年4月21日－4月27日</p></td>
-<td><p>#2</p></td>
-<td></td>
-<td><p>[5]</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>下載榜</p></td>
-<td><p>月榜</p></td>
-<td><p>2019年4月</p></td>
-<td><p>#16</p></td>
-<td><p>-</p></td>
-<td><p>[6]</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>單曲榜</p></td>
-<td><p>#47</p></td>
-<td><p>-</p></td>
-<td><p>[7]</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>串流榜</p></td>
-<td><p>#59</p></td>
-<td><p>-</p></td>
-<td><p>[8]</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>專輯榜</p></td>
-<td><p>#2</p></td>
-<td><p>328,477</p></td>
-<td><p>[9]</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>單曲榜</p></td>
-<td><p>年榜</p></td>
-<td><p>2019年</p></td>
-<td><p>#</p></td>
-<td><p>-</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>串流榜</p></td>
-<td><p>#</p></td>
-<td><p>-</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>下載榜</p></td>
-<td><p>#</p></td>
-<td><p>-</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>專輯榜</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>美國</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Billboard_Hot_100" title="wikilink">Billboard</a></p></td>
-<td><p>世界專輯榜</p></td>
-<td><p>2019年4月28日－5月4日</p></td>
-<td><p>#4</p></td>
-<td><p>－</p></td>
-<td><p><a href="http://www.billboard.com/biz/charts/2019-05-04/world-albums">1</a></p></td>
-</tr>
-<tr class="even">
-<td><p>世界單曲榜</p></td>
-<td></td>
-<td><p>#</p></td>
-<td><p>－</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>台灣</p></td>
-<td><p>5大金榜</p></td>
-<td><p>日韓榜</p></td>
-<td><p>2019年4月19日－4月25日</p></td>
-<td><p>#1</p></td>
-<td><p>45.72%</p></td>
-<td><p>[10]</p></td>
-</tr>
-</tbody>
-</table>
+### 銷售
 
-### 音源榜排行
+根據Hanteo統計的資料，《FANCY
+YOU》截止至4月29日的首週銷量為151,000張，刷新了同年[IZ\*ONE以](../Page/IZ*ONE.md "wikilink")13萬張打破的韓國女子團體首週最高銷售紀錄\[9\]\[10\]。而在日本，《FANCY
+YOU》首週售出39,713張\[11\]，第二週售出37,389張，是[令和第一個](../Page/令和.md "wikilink")[Oricon公信榜專輯榜的冠軍](../Page/Oricon公信榜.md "wikilink")\[12\]\[13\]。
 
-  - 2017年5月15日開始，iChart將移除Olleh Music、Monkey3的計分，Naver 比分雙倍。\[11\]
-  - 2019年3月19日開始，增加FLO實時榜的計分。\[12\]
+## 曲目
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p>音源榜（2019）</p></td>
-<td><p>colspan="4" style="background:linear-gradient(160deg,#FF5FA2,#FCC89B); color:white; font-weight:bold" ;" | 主打歌曲《FANCY》最高名次</p></td>
-</tr>
-<tr class="even">
-<td><p>實時榜</p></td>
-<td><p>日榜</p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>iChart</strong></p></td>
-<td><p>2[13]</p></td>
-</tr>
-<tr class="even">
-<td><p><strong>Melon</strong></p></td>
-<td><p>1</p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Mnet</strong></p></td>
-<td><p>1</p></td>
-</tr>
-<tr class="even">
-<td><p><strong>Bugs</strong></p></td>
-<td><p> </p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Soribada</strong></p></td>
-<td><p>3</p></td>
-</tr>
-<tr class="even">
-<td><p><strong>Genie</strong></p></td>
-<td><p>2</p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Naver</strong></p></td>
-<td><p>3</p></td>
-</tr>
-<tr class="even">
-<td><p><strong>FLO</strong></p></td>
-<td><p>2</p></td>
-</tr>
-<tr class="odd">
-<td><p>iChart 最高分數: 198[14] &lt;2019年4月26日&gt;</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><ul>
-<li>「(1)」：兩週或月</li>
-<li>「[1]」：三週</li>
-<li>「{1}」：四週</li>
-<li>「&lt;1&gt;」：五週</li>
-</ul>
-<ul>
-<li>「*」：打榜中</li>
-<li>「/」：未入榜</li>
-<li>「<span style="background:#808080">　</span>」：該段時期未設立排行榜</li>
-</ul></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**粗體字**為專輯的主打歌
 
-### 音樂節目榜單排名＆獎項
+## 榜單成績
 
-<table>
-<thead>
-<tr class="header">
-<th><p>主打歌曲排名成績</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>歌曲</p></td>
-</tr>
-<tr class="even">
-<td><p>FANCY</p></td>
-</tr>
-<tr class="odd">
-<td><ul>
-<li>「(1)」：兩星期冠軍</li>
-<li>「[1]」：三星期冠軍</li>
-<li>「{1}」：四星期冠軍</li>
-<li>「〈1〉」：五星期冠軍</li>
-<li>「〔1〕」：六星期冠軍</li>
-</ul>
-<ul>
-<li>「*」：打榜中</li>
-<li>「/」：表示未有相關資料</li>
-<li>「<span style="background:#808080"></span>」：該段時期未設立排行榜</li>
-</ul></td>
-</tr>
-</tbody>
-</table>
-
-## 音樂節目
+### 音樂節目
 
 | 2019年音樂節目現場                                                |
 | ---------------------------------------------------------- |
@@ -351,13 +82,35 @@ YOU〉正式發布，並公開專輯收錄曲音源及主打歌〈FANCY〉M/V。
 | [MBC Music](../Page/MBC_Plus_Media.md "wikilink")          |
 | 最高名次：1                                                     |
 
-## 銷售及認證
+### 專輯成績
 
-|            |          |
-| ---------- | -------- |
-| 排行榜        | 銷量       |
-| Gaon Chart | 2019     |
-| 總共         | 328,477+ |
+| 週榜單（2019年）                                                                   | 峰值 | 來源     |
+| ---------------------------------------------------------------------------- | -- | ------ |
+| 澳大利亞數位專輯榜（[澳大利亚唱片业协会榜](https://zh.wikipedia.org/wiki/澳大利亚唱片业协会榜 "wikilink")） | 22 | \[14\] |
+| 法國下載專輯榜（[SNEP](../Page/法國唱片出版業公會.md "wikilink")）                             | 54 | \[15\] |
+| 日本專輯榜（[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")）                          | 1  | \[16\] |
+| 日本數位專輯榜（[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")）                        | 2  | \[17\] |
+| 日本熱門專輯榜（[日本《告示牌》](https://zh.wikipedia.org/wiki/日本告示牌 "wikilink")）           | 11 | \[18\] |
+| 韓國[Gaon專輯榜](../Page/Gaon音乐榜.md "wikilink")                                   | 1  | \[19\] |
+| 西班牙專輯榜（[西班牙音樂製作協會](../Page/西班牙音樂製作協會.md "wikilink")）                         | 88 | \[20\] |
+| 台灣日韓榜（5大金榜）                                                                  | 1  | \[21\] |
+| 英國（[官方榜单公司](../Page/官方榜单公司.md "wikilink")）                                   | 34 | \[22\] |
+| 美國數位專輯榜（《[告示牌](../Page/告示牌_\(雜誌\).md "wikilink")》）                           | 22 | \[23\] |
+| 美國最佳熱門發現專輯榜（《[告示牌](../Page/告示牌_\(雜誌\).md "wikilink")》）                       | 4  | \[24\] |
+| 美國獨立專輯榜（《[告示牌](../Page/告示牌_\(雜誌\).md "wikilink")》）                           | 16 | \[25\] |
+| 美國世界專輯榜（《[告示牌](../Page/告示牌_\(雜誌\).md "wikilink")》）                           | 4  | \[26\] |
+
+| 月榜單（2019年）                                          | 峰值 | 來源     |
+| --------------------------------------------------- | -- | ------ |
+| 韓國[Gaon專輯榜](../Page/Gaon音乐榜.md "wikilink")          | 2  | \[27\] |
+| 日本專輯榜（[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")） | 6  | \[28\] |
+
+### 銷售及認證
+
+| 排行榜                                          | 銷量       | 來源           |
+| -------------------------------------------- | -------- | ------------ |
+| [Oricon公信榜](../Page/Oricon公信榜.md "wikilink") | 99,848份  | \[29\]\[30\] |
+| [Gaon音乐榜](../Page/Gaon音乐榜.md "wikilink")     | 353,883份 | \[31\]       |
 
 ## 參考資料
 
@@ -368,9 +121,8 @@ YOU〉正式發布，並公開專輯收錄曲音源及主打歌〈FANCY〉M/V。
 [Category:2019年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2019年Oricon專輯週榜冠軍作品 "wikilink")
 [Category:2019年Oricon專輯合算週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2019年Oricon專輯合算週榜冠軍作品 "wikilink")
 
-1.  [TWICE Announces 'Fancy You' Album and 2019 World Tour
-    Dates](https://www.billboard.com/articles/columns/k-town/8505958/twice-announces-fancy-you-album-and-2019-world-tour-dates)
-2.  [TWICE下月开启世界巡演](https://cn.yna.co.kr/view/ACK20190408001000881?section=news)
+1.
+2.
 3.
 4.
 5.
@@ -383,3 +135,31 @@ YOU〉正式發布，並公開專輯收錄曲音源及主打歌〈FANCY〉M/V。
 12.
 13.
 14.
+
+15.
+
+16.
+17.
+18.
+
+19.
+20.
+
+21.
+
+22.
+
+23.
+
+24.
+
+25.
+
+26.
+
+27.
+
+28.
+29.
+30.
+31.

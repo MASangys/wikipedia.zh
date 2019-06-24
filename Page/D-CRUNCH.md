@@ -30,7 +30,7 @@ Entertainment的練習生](../Page/Imagine_Asia.md "wikilink")。
 <tbody>
 <tr class="odd">
 <td><p>HyunWook/현욱</p></td>
-<td><p>池炫玉[1] / 지현욱</p></td>
+<td><p>池炫昱[1] / 지현욱</p></td>
 <td><p>1998年7月1日</p></td>
 <td><p>主唱</p></td>
 <td></td>
@@ -51,14 +51,14 @@ Entertainment的練習生](../Page/Imagine_Asia.md "wikilink")。
 </tr>
 <tr class="even">
 <td><p>HyunWoo/현우</p></td>
-<td><p>白縣遇[2] / 백현우</p></td>
+<td><p>白賢宇[2] / 백현우</p></td>
 <td><p>1999年2月12日</p></td>
 <td><p>領唱</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>HyunOh/현오</p></td>
-<td><p>朴炫晤[3] / 박현오</p></td>
+<td><p>朴賢伍[3] / 박현오</p></td>
 <td><p>1999年3月19日</p></td>
 <td><p>主唱、主領舞</p></td>
 <td></td>
@@ -79,7 +79,7 @@ Entertainment的練習生](../Page/Imagine_Asia.md "wikilink")。
 </tr>
 <tr class="even">
 <td><p>JungSeung/정승</p></td>
-<td><p>朴正勝[5] / 박정승</p></td>
+<td><p>朴政昇[5] / 박정승</p></td>
 <td><p>2002年5月20日</p></td>
 <td><p>Rapper、忙內</p></td>
 <td><p>Geupsik-Dan(급식단)</p></td>
@@ -124,6 +124,17 @@ Entertainment的練習生](../Page/Imagine_Asia.md "wikilink")。
 <p>4.지금 (now)</p>
 <p>5.STEALER (Inst.)</p></td>
 <td></td>
+</tr>
+<tr class="odd">
+<td><p>2019</p></td>
+<td><p>5月27日</p></td>
+<td><p>迷你二輯<br />
+《M0527》</p></td>
+<td><p>1. Panorama</p>
+<p>2. 작당모의 (Are you ready?)</p>
+<p>3. Loverace</p>
+<p>4. 행복한데 (Love letter)</p>
+<p>5. 작당모의 (Are you ready?)(Inst.)</p></td>
 </tr>
 </tbody>
 </table>
@@ -200,6 +211,24 @@ Entertainment的練習生](../Page/Imagine_Asia.md "wikilink")。
 <td></td>
 <td></td>
 <td><p><a href="https://www.youtube.com/watch?v=IksiEi9Krso">I'm OK 應援</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019</p></td>
+<td><p>5月27日</p></td>
+<td><p>《M0527》</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=Y5qO3mhHZa4">Are you ready?(작당모의)</a></p></td>
+<td><p><a href="https://www.youtube.com/watch?v=vNfEQOdkruk">Are you ready?(작당모의)舞蹈版</a></p></td>
+<td></td>
+<td><p><a href="https://www.youtube.com/watch?v=dFOVTaIim6o">Are you ready?(작당모의)應援</a></p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td><p><a href="https://www.youtube.com/watch?v=Y_cT5pGRuEA">Panorama應援</a></p></td>
 <td></td>
 <td></td>
 <td></td>

@@ -25,7 +25,7 @@ Flight建造](https://zh.wikipedia.org/wiki/AMS_Flight "wikilink")。
 飞机上的发动机工况显示和控制单元**DEI**使技术上经验不足的人也能够操纵动力飞机。
 
 在接下来的几年中， 公司又开发了 双座的
-DG-500和DG-1000以及[18米级的DG](https://zh.wikipedia.org/wiki/滑翔竞赛分级 "wikilink")-600和DG-800
+DG-500和DG-1000以及[18米级的DG](../Page/滑翔竞赛分级.md "wikilink")-600和DG-800
 。 所有型号都拥有带发动机的版本。
 
 由于自主起飞型DG-800A的发动机的供应问题以及由此带来的飞机交付延迟， *Glaser-Dirks
@@ -43,7 +43,7 @@ DG-500和DG-1000以及[18米级的DG](https://zh.wikipedia.org/wiki/滑翔竞赛
 2003年，DG 飞机制造公司接管了陷入财务困境的[Rolladen
 Schneider飞机制造公司](https://zh.wikipedia.org/wiki/Rolladen_Schneider飞机制造公司 "wikilink")，并关闭了其在[埃格尔斯巴赫的工厂](../Page/埃格尔斯巴赫.md "wikilink")。
 不久，Rolladen Schneider破产。 此后DG
-飞机制造公司继续生产非常成功的[标准级滑翔机](https://zh.wikipedia.org/wiki/滑翔竞赛分级 "wikilink")
+飞机制造公司继续生产非常成功的[标准级滑翔机](../Page/滑翔竞赛分级.md "wikilink")
 LS8 ，并对其进一步开发。 同时继续研发LS系列的最后型号LS10，并投入量产。 此外，DG飞机制造公司还获得了已停产的LS1 ，
 LS3和LS9型的后续支持服务业务。 LS4和LS6及其生产设备被斯洛文尼亚的AMS公司一起接管。 \[1\]
 然而，AMS公司在2009年放弃滑翔机生产之前，只制造了少量LS4，而LS6更是一架都没生产。

@@ -419,6 +419,29 @@ Kids由](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")2018年出道至今
 </tbody>
 </table>
 
+### Asia Model Awards
+
+<table>
+<thead>
+<tr class="header">
+<th><p>屆數</p></th>
+<th><p>年份</p></th>
+<th><p>獎項</p></th>
+<th><p>提名項目 </p></th>
+<th><p>結果</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>第15屆</p></td>
+<td><p>2019年</p></td>
+<td><p>歌手部門－新人獎</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Stray_Kids" title="wikilink">Stray Kids</a></p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ## 音樂節目獎項
 
 ### 獎座統計

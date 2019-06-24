@@ -12,8 +12,8 @@
 
 ## 早期生活
 
-1858年, Kei Okami
-出生于[青森縣的岡見京子](../Page/青森縣.md "wikilink")。1878年畢業於後，於教英語。25歲時嫁給了藝術老師岡見千吉郎。隨後這對夫婦便前往[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")\[2\]。
+1858年,
+岡見京出生於[青森縣](../Page/青森縣.md "wikilink")，本名西田京。1878年畢業於後，於教英語。25歲時嫁給了藝術老師岡見千吉郎。隨後這對夫婦便前往[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")\[2\]。
 
 Kei Okami was born as Nishida Keiko in [Aomori
 Prefecture](https://zh.wikipedia.org/wiki/Aomori_Prefecture "wikilink")
@@ -35,9 +35,7 @@ at the age of 25. The couple subsequently traveled to the United States.
 
 ## 醫學訓練
 
-在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")，Kei Okami
-在[賓夕法尼亞州](https://zh.wikipedia.org/wiki/賓夕法尼亞州 "wikilink")學習,
-接受[長老會女外國](https://zh.wikipedia.org/wiki/長老會 "wikilink")[傳教士協會的援助](https://zh.wikipedia.org/wiki/傳教士 "wikilink")。經過四年的學習，于1889年與一起畢業。
+在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")，岡見京接受[長老教會婦女海外宣傳教會的資助](https://zh.wikipedia.org/wiki/長老教會 "wikilink")，進入[賓夕法尼亞州女子學院](../Page/宾夕法尼亚州.md "wikilink")。經過四年的學習，于1889年與一起畢業。因此，他成為第一個從西方大學獲得西方醫學學位的[日本女性](../Page/日本.md "wikilink")。
 In America, Kei Okami studied at the [Woman's Medical College of
 Pennsylvania](https://zh.wikipedia.org/wiki/Woman's_Medical_College_of_Pennsylvania "wikilink"),
 receiving aid from the of the Presbyterian Church. After four years of
@@ -61,7 +59,8 @@ Western medicine from a Western university.\[5\]
 ## 醫療事業
 
 回到日本後，Kei
-Okami還曾在慈惠醫院（現在的醫院[慈惠大學醫學學院](https://zh.wikipedia.org/wiki/慈惠大學醫學學院 "wikilink")）在[高木兼寛的邀請](https://zh.wikipedia.org/wiki/高木兼寛 "wikilink")。她辭職是因為皇帝，\[明治天皇|[明治](../Page/明治.md "wikilink")\]，拒絕了她的看護，因為她是女性。
+Okami在[高木兼寛的邀請進入慈惠醫院](https://zh.wikipedia.org/wiki/高木兼寛 "wikilink")（現在的醫院[慈惠大學醫學學院](https://zh.wikipedia.org/wiki/慈惠大學醫學學院 "wikilink")）工作。她辭職的原因是天皇\[明治天皇|[明治](../Page/明治.md "wikilink")\]拒絕了她的看護，只因為她是女性。然後，她自己開了一間診所，在她位於[赤坂溜池町](../Page/赤坂.md "wikilink")，港區的家中進行手術。Kei
+Okami在婦產科工作，同時也治療[結核病患者](../Page/结核病.md "wikilink")。
 
 After returning to Japan, Kei Okami also worked at the Jikei Hospital
 (now the [Jikei University School of

@@ -20,6 +20,13 @@ YES七首歌曲）及專輯預覽，宣佈TWICE將於12月12日下午六點回�
 
 12月7日至8日，發布兩版預告。
 
+12月9日，釋出主打歌 〈 The Best Thing I Ever Did(올해 제일 잘한 일〉試聽預告。
+
+12月10日，釋出完整專輯的試聽預告。
+
+12月12日，釋出幕後花絮，〈The year of "Yes" 〉正式發行，並公開專輯收錄曲音源及主打歌〈The Best Thing I
+Ever Did(올해 제일 잘한 일〉M/V。
+
 ## 概要
 
 ### 發行版本
@@ -39,6 +46,18 @@ YES七首歌曲）及專輯預覽，宣佈TWICE將於12月12日下午六點回�
 ## 曲目
 
 **粗體字為主打歌**
+
+## 預告及音樂錄影帶
+
+|                         |                                                                                                                                                                     |                                                                                                          |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| 年份                      | 發佈日期                                                                                                                                                                | 版本                                                                                                       |
+| 2018                    | 12月7日                                                                                                                                                               | [TWICE "The Best Thing I Ever Did(올해 제일 잘한 일)" TEASER ONCE](https://www.youtube.com/watch?v=Gy8Fg3HiTqc) |
+| 12月8日                   | [TWICE "The Best Thing I Ever Did(올해 제일 잘한 일)" TEASER TWICE](https://www.youtube.com/watch?v=rPinEFRR6O8)                                                           |                                                                                                          |
+| 12月9日                   | [TWICE "The Best Thing I Ever Did(올해 제일 잘한 일)" PREVIEW](https://www.youtube.com/watch?v=GgKqangl_k4)                                                                |                                                                                                          |
+| 12月10日                  | ["The Best Thing I Ever Did(올해 제일 잘한 일)" NEW TRACKS PREVIEW](https://www.youtube.com/watch?v=Tkk6WVM2PO4TWICE)                                                      |                                                                                                          |
+| 12月12日                  | [TWICE “The Best Thing I Ever Did(올해 제일 잘한 일)” JACKET VIDEO](https://www.youtube.com/watch?v=nO5TUO3ORR8)                                                           |                                                                                                          |
+| 12月12日 17:00（UTC+08:00） | style="background:linear-gradient(160deg,\#FF5FA2 ,\#FCC89B)|\[<https://www.youtube.com/watch?v=CfUGjK6gGgs>**TWICE "The Best Thing I Ever Did(올해 제일 잘한 일)" M/V**\] |                                                                                                          |
 
 ## 成績
 

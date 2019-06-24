@@ -2,9 +2,12 @@ local p = {}
 
 \-- List of default title texts. local defaultTitleTextlist = {
 
-`   ["TBA"] = "待宣布",`
+`   ["TBA"] = "待公佈",`
 `   ["TBD"] = "待定",`
-`   ["N/A"] = "不适用" `
+`   ["N/A"] = "不適用",`
+`   ["待公佈"] = "表格內此處信息尚未公開或尚未正式發佈。",`
+`   ["待定"] = "表格內此處信息仍不確定。",`
+`   ["不適用"] = "表格內此處不適用。"   `
 
 }
 
@@ -33,7 +36,7 @@ function getAltText(args)
 `   local altText = args[1] or args["alt_text"]`
 `   `
 `   if (altText == nil) then`
-`       altText = "TBA"`
+`       altText = "待公佈"`
 `   end`
 `   `
 `   return altText`

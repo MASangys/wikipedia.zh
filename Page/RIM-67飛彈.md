@@ -111,7 +111,7 @@ SM-2ER Block IVA所有批次编号都为RIM-156B，RIM-156A升級版，最後取
 
   - [RIM-161標準三型飛彈](https://zh.wikipedia.org/wiki/RIM-161導弹 "wikilink")
 
-  - [RIM-174標準飛彈](https://zh.wikipedia.org/wiki/RIM-174標準飛彈 "wikilink")
+  - [RIM-174標準六型飛彈](https://zh.wikipedia.org/wiki/RIM-174標準飛彈 "wikilink")
 
   - [闪电-8导弹](../Page/闪电-8导弹.md "wikilink")
 

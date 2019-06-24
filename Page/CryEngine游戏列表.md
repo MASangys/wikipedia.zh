@@ -506,7 +506,7 @@
 <tr class="even">
 <td><p><a href="../Page/獵魂_(2017年遊戲).md" title="wikilink">獵魂</a></p></td>
 <td><p>2017</p></td>
-<td></td>
+<td><p><a href="../Page/Arkane_Studios.md" title="wikilink">Arkane Studios</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Bethesda_Softworks" title="wikilink">Bethesda Softworks</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Microsoft_Windows" title="wikilink">Microsoft Windows</a>, <a href="../Page/PlayStation_4.md" title="wikilink">PlayStation 4</a>, <a href="../Page/Xbox_One.md" title="wikilink">Xbox One</a></p></td>
 </tr>

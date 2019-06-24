@@ -62,7 +62,7 @@ Chocolat)](https://www.youtube.com/watch?v=HvGql8HwOIM)》官方MV。\[4\]
 <td><p>4月19日</p></td>
 </tr>
 <tr class="even">
-<td><p>最高名次：</p></td>
+<td><p>最高名次： 未入榜</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
@@ -77,7 +77,7 @@ Chocolat)](https://www.youtube.com/watch?v=HvGql8HwOIM)》官方MV。\[4\]
 <td><p>4月13日</p></td>
 </tr>
 <tr class="odd">
-<td><p>最高名次： 4</p></td>
+<td><p>最高名次： 未入榜</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
@@ -92,7 +92,7 @@ Chocolat)](https://www.youtube.com/watch?v=HvGql8HwOIM)》官方MV。\[4\]
 <td><p>4月21日</p></td>
 </tr>
 <tr class="even">
-<td><p>最高名次：</p></td>
+<td><p>最高名次： 未入榜</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -122,7 +122,7 @@ Chocolat)](https://www.youtube.com/watch?v=HvGql8HwOIM)》官方MV。\[4\]
 <td><p>4月17日</p></td>
 </tr>
 <tr class="even">
-<td><p>最高名次： 8</p></td>
+<td><p>最高名次： 10</p></td>
 </tr>
 <tr class="odd">
 <td><p>《Moon》</p></td>

@@ -15,6 +15,8 @@ Kids將於](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")2019年1月19日
 
 因[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")3個場次在開賣一個多小時後隨即售完，2019年3月6日宣布加開5月14日紐華克場次\[2\]。
 
+2019年6月5日公布7月28日[倫敦](https://zh.wikipedia.org/wiki/倫敦 "wikilink")、7月30日[巴黎](../Page/巴黎.md "wikilink")、8月2日[柏林及](../Page/柏林.md "wikilink")8月4日[莫斯科場次](../Page/莫斯科.md "wikilink")。
+
 ## 巡迴時間表
 
 <table>
@@ -89,6 +91,34 @@ Kids將於](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")2019年1月19日
 <td><p><a href="https://zh.wikipedia.org/wiki/休士頓" title="wikilink">休士頓</a></p></td>
 <td><p> </p></td>
 <td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年7月28日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/倫敦" title="wikilink">倫敦</a></p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/O2布里克斯頓學院" title="wikilink">O2布里克斯頓學院</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年7月30日</p></td>
+<td><p><a href="../Page/巴黎.md" title="wikilink">巴黎</a></p></td>
+<td></td>
+<td><p>Les Docks De Paris-Pullman</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年8月2日</p></td>
+<td><p><a href="../Page/柏林.md" title="wikilink">柏林</a></p></td>
+<td></td>
+<td><p>Verti Music Hall</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年8月4日</p></td>
+<td><p><a href="../Page/莫斯科.md" title="wikilink">莫斯科</a></p></td>
+<td></td>
+<td><p>Adrenaline Stadium</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -231,6 +261,7 @@ Kids將於](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")2019年1月19日
   - 澳洲－MyMusicTaste、韓亞航空
   - 馬尼拉－PULP Live World、韓亞航空、Ticketnet
   - 美國－SubKulture Entertainment
+  - 歐洲－MyMusicTaste
 
 ## 註釋與參考資料
 

@@ -1,5 +1,16 @@
 ## 背景
 
+1938年出任暹羅首相的鑾披汶·頌堪，雖然擁有華人血統，卻是個主張[法西斯主義的](https://zh.wikipedia.org/wiki/法西斯主義 "wikilink")[極右翼軍事獨裁者](https://zh.wikipedia.org/wiki/極右翼 "wikilink")，極度推崇「大[傣（泰）族主義](../Page/泰族.md "wikilink")」。
+
+1939年，鑾披汶·頌堪把國名由“暹羅王國”改為“泰王國”（1945-1949年間改稱“暹羅王國”，1949年再改稱“泰王國”），意圖推行「泰國人的泰國」政策。
+
+鑾披汶·頌堪主張泰國周邊所有傣（泰）族人為主的地區，應該被納入泰王國的領土。鑾披汶·頌堪主張“收復”的領土，分別位於隸屬於[法屬印度支那的](../Page/法屬印度支那.md "wikilink")[法屬寮國與](https://zh.wikipedia.org/wiki/法屬寮國 "wikilink")[法屬柬埔寨](https://zh.wikipedia.org/wiki/法屬柬埔寨 "wikilink")，以及[英屬馬來亞](../Page/英屬馬來亞.md "wikilink")、[英屬緬甸](../Page/英屬緬甸.md "wikilink")，還有一些則位在中華民國雲南省境內（[西雙版納地區](https://zh.wikipedia.org/wiki/西雙版納 "wikilink")）。
+
+19世紀開始，[新帝國主義勢力進入](https://zh.wikipedia.org/wiki/新帝國主義 "wikilink")[中南半島](../Page/中南半島.md "wikilink")，暹羅的周邊領土、屬地接連被英法兩國併吞，併入法屬印度支那、英屬緬甸與英屬馬來亞境內。因此二戰期間，泰國乘英法兩國陷入戰火，無力處理東南亞事務之際，以“收復失土”名義對中南半島英、法軍發動戰爭，可以說是“名正言順”。但中國雲南的[傣族地區](../Page/傣族.md "wikilink")，自古以來就不隸屬於泰國，鑾披汶·頌堪執意進攻雲南，可以說是“名不正，言不順”的侵略行動。
+
+泰國自法屬印度支那、英屬馬來亞收復失土後，[國民政府唯恐泰軍圖謀以緬北作為進攻雲南](../Page/國民政府.md "wikilink")[西雙版納的跳板](https://zh.wikipedia.org/wiki/西雙版納 "wikilink")，仿效[納粹德國佔領](../Page/納粹德國.md "wikilink")[蘇台德區的模式](https://zh.wikipedia.org/wiki/蘇台德區 "wikilink")，煽動西雙版納占多數的傣族居民脫離中華民國獨立。因此國民政府派遣中國遠征軍第六軍入緬，積極防禦泰軍。中泰兩國終究得在戰場上兵戎相見。\[1\]
+[Siamese_territorial_concessions_(1867-1909)_with_flags.gif](https://zh.wikipedia.org/wiki/File:Siamese_territorial_concessions_\(1867-1909\)_with_flags.gif "fig:Siamese_territorial_concessions_(1867-1909)_with_flags.gif")
+
 ## 戰役經過
 
 ### 景棟作戰
@@ -8,11 +19,11 @@
 
 ### 泰軍入侵雲南
 
-\[1\] \[2\]\[3\]
+\[2\] \[3\]\[4\]
 
 ## 逸事
 
-二戰期間與泰軍數度交鋒的93師，因國軍在在國共內戰中的失利而流落緬甸北部，為“[泰緬孤軍](../Page/泰緬孤軍.md "wikilink")”的起源。1961年，未撤回臺灣的孤軍第三軍、第五軍，在[李文煥將軍](https://zh.wikipedia.org/wiki/李文煥 "wikilink")、[段希文將軍的帶領下進入泰北](../Page/段希文.md "wikilink")，與二戰老敵人泰國政府合作，與意圖赤化東南亞的[泰共與](https://zh.wikipedia.org/wiki/泰共 "wikilink")[苗共作戰](https://zh.wikipedia.org/wiki/苗共 "wikilink")，但那也已經是歷史的後話了。\[4\]\[5\]
+二戰期間與泰軍數度交鋒的93師，因國軍在在國共內戰中的失利而流落緬甸北部，為“[泰緬孤軍](../Page/泰緬孤軍.md "wikilink")”的起源。1961年，未撤回臺灣的孤軍第三軍、第五軍，在[李文煥將軍](https://zh.wikipedia.org/wiki/李文煥 "wikilink")、[段希文將軍的帶領下進入泰北](../Page/段希文.md "wikilink")，與二戰老敵人泰國政府合作，與意圖赤化東南亞的[泰共與](https://zh.wikipedia.org/wiki/泰共 "wikilink")[苗共作戰](https://zh.wikipedia.org/wiki/苗共 "wikilink")，但那也已經是歷史的後話了。\[5\]\[6\]
 
 ## 參見
 
@@ -21,9 +32,10 @@
 ## 參考文獻
 
 1.
-2.  [抗戰秘聞！國軍遠征軍大敗入侵泰軍](https://m.secretchina.com/news/b5/2018/05/07/857750.html)，看中國，2019/01/21
-
-3.
+2.
+3.  [抗戰秘聞！國軍遠征軍大敗入侵泰軍](https://m.secretchina.com/news/b5/2018/05/07/857750.html)，看中國，2019/01/21
 
 4.
+
 5.
+6.

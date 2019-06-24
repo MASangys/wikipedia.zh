@@ -129,7 +129,7 @@ Jump](https://zh.wikipedia.org/wiki/Grand_Jump "wikilink")》（[集英社](../P
 
   - 原作 - 横幕智裕（原作）、（漫画）
   - 腳本 -
-  - 音樂 - [服部隆之](https://zh.wikipedia.org/wiki/服部隆之 "wikilink")
+  - 音樂 - [服部隆之](../Page/服部隆之.md "wikilink")
   - 主題歌 - [MAN WITH A
     MISSION](../Page/MAN_WITH_A_MISSION.md "wikilink")「Remember
     Me」（[Sony
@@ -182,6 +182,63 @@ Jump](https://zh.wikipedia.org/wiki/Grand_Jump "wikilink")》（[集英社](../P
 <td><p>11.5%[13]</p></td>
 </tr>
 <tr class="even">
+<td><p>STORY#04</p></td>
+<td><p>4月29日</p></td>
+<td><p>夢を追いかける患者を救え</p></td>
+<td></td>
+<td><p>9.1%%[14]</p></td>
+</tr>
+<tr class="odd">
+<td><p>STORY#05</p></td>
+<td><p>5月6日</p></td>
+<td><p>絶世の美少年が死亡 犯人は誰!?</p></td>
+<td><p>野田悠介</p></td>
+<td><p>10.8%[15]</p></td>
+</tr>
+<tr class="even">
+<td><p>STORY#06</p></td>
+<td><p>5月13日</p></td>
+<td><p>運命の緊急手術</p></td>
+<td><p>この命を守れ</p></td>
+<td><p>鈴木雅之</p></td>
+</tr>
+<tr class="odd">
+<td><p>STORY#07</p></td>
+<td><p>5月20日</p></td>
+<td><p>命を救う者達の選択 誇りの行方</p></td>
+<td><p>金井紘</p></td>
+<td><p>11.4%[16]</p></td>
+</tr>
+<tr class="even">
+<td><p>STORY#08</p></td>
+<td><p>5月27日</p></td>
+<td><p>二人の約束と暴かれる秘密</p></td>
+<td></td>
+<td><p>関野宗紀</p></td>
+</tr>
+<tr class="odd">
+<td><p>STORY#09</p></td>
+<td><p>6月3日</p></td>
+<td><p>最強の対決</p></td>
+<td><p>彼女は俺が守る</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>STORY#10</p></td>
+<td><p>6月10日</p></td>
+<td><p>もう一人の天才、現れる⁉︎</p></td>
+<td><p>金井紘</p></td>
+<td><p>13.3%<ref>{{Cite news|url=<a href="https://hochi.news/articles/20190611-OHT1T50041.html%7Ctitle=窪田正孝主演の月9「ラジエーションハウス」第10話視聴率13.3%で番組最高タイ">https://hochi.news/articles/20190611-OHT1T50041.html|title=窪田正孝主演の月9「ラジエーションハウス」第10話視聴率13.3%で番組最高タイ</a>！</p></td>
+</tr>
+<tr class="odd">
+<td><p>STORY#11<br />
+（最終話）</p></td>
+<td><p>6月17日</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>（收視率由<a href="../Page/Video_Research.md" title="wikilink">Video Research實際調查</a><a href="https://zh.wikipedia.org/wiki/關東地區" title="wikilink">關東地區</a>、世帶的數據）</p></td>
 <td></td>
 <td></td>
@@ -232,3 +289,8 @@ Jump](https://zh.wikipedia.org/wiki/Grand_Jump "wikilink")》（[集英社](../P
 12.
 
 13.
+
+14.
+
+15.
+16.

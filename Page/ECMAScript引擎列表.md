@@ -75,7 +75,7 @@
 
 ## 参见
 
-  - [JavaScript引擎比较](https://zh.wikipedia.org/wiki/JavaScript引擎比较 "wikilink")
+  - [JavaScript引擎比较](../Page/JavaScript引擎比较.md "wikilink")
   - [JavaScript引擎](../Page/JavaScript引擎.md "wikilink")
   - [应用虚拟化软件比较](https://zh.wikipedia.org/wiki/应用虚拟化软件比较 "wikilink")
 

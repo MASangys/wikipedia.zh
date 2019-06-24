@@ -225,7 +225,7 @@ unconditionally".\[50\]
 <tr class="odd">
 <td><p><strong>南部长颈鹿</strong>(<em>G. giraffa</em>)</p></td>
 <td><p><strong>安哥拉长颈鹿</strong>(<em>G. angolensis</em>)，也被称作纳米比亚长颈鹿</p></td>
-<td><p><strong>安哥拉长颈鹿</strong>(<em>G. c. angolensis</em>)分布于 <a href="../Page/纳米比亚.md" title="wikilink">纳米比亚东北部</a>，<a href="../Page/赞比亚.md" title="wikilink">赞比亚西南部</a>，<a href="../Page/波札那.md" title="wikilink">波札那</a>，<a href="../Page/辛巴威.md" title="wikilink">辛巴威西部</a>。[76] 一项于2009年开展的基因研究表明 <a href="../Page/納米比沙漠.md" title="wikilink">納米比沙漠北部和</a><a href="https://zh.wikipedia.org/wiki/埃托沙國家公園" title="wikilink">埃托沙國家公園</a> 的种群生成了独立的亚种。[77] 这种长颈鹿有着大块的棕色斑点，其边缘有缺口或是棱角。它们的斑点一直长到腿上但是面部上半部分却没有。脖子和臀部的斑点往往相当小。 此种长颈鹿在耳朵上也有白色斑点。[78] 现估计有13000只安哥拉长颈鹿生活在野外[79] 大约20只生活在动物园里。[80]</p></td>
+<td><p><strong>安哥拉长颈鹿</strong>(<em>G. c. angolensis</em>)分布于 <a href="../Page/纳米比亚.md" title="wikilink">纳米比亚东北部</a>，<a href="../Page/赞比亚.md" title="wikilink">赞比亚西南部</a>，<a href="../Page/波札那.md" title="wikilink">波札那</a>，<a href="../Page/辛巴威.md" title="wikilink">辛巴威西部</a>。[76] 一项于2009年开展的基因研究表明 <a href="../Page/納米比沙漠.md" title="wikilink">納米比沙漠北部和</a><a href="https://zh.wikipedia.org/wiki/埃托沙國家公園" title="wikilink">埃托沙國家公園</a> 的种群生成了独立的亚种。[77] 这种长颈鹿有着大块的棕色斑点，其边缘有缺口或是棱角。它们的斑点一直长到腿上，但是面部上半部分却没有。脖子和臀部的斑点往往相当小。 此种长颈鹿在耳朵上也有白色斑点。[78] 现估计有13000只安哥拉长颈鹿生活在野外[79] 大约20只生活在动物园里。[80]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Giraffa_camelopardalis_-Zambia-8.jpg" title="fig:Giraffa_camelopardalis_-Zambia-8.jpg">Giraffa_camelopardalis_-Zambia-8.jpg</a></p></td>
 <td></td>
 </tr>

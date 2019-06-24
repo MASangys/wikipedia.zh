@@ -774,7 +774,8 @@ function p.nextPrime(frame)
 `   else`
 `       -- We're being called from another module or from the debug console, so assume`
 `       -- the args are passed in directly.`
-`       args = frame`
+`       if type(frame) ~= type({}) then args = {frame}`
+`       else args = frame end`
 `   end`
 `   return tostring( p._nextPrime(tonumber(args[1])) or '' )`
 
@@ -793,7 +794,8 @@ function p.lastPrime(frame)
 `   else`
 `       -- We're being called from another module or from the debug console, so assume`
 `       -- the args are passed in directly.`
-`       args = frame`
+`       if type(frame) ~= type({}) then args = {frame}`
+`       else args = frame end`
 `   end`
 `   return tostring( p._lastPrime(tonumber(args[1])) or '' )`
 
@@ -812,7 +814,8 @@ function p.primeIndex(frame)
 `   else`
 `       -- We're being called from another module or from the debug console, so assume`
 `       -- the args are passed in directly.`
-`       args = frame`
+`       if type(frame) ~= type({}) then args = {frame}`
+`       else args = frame end`
 `   end`
 `   local number = tonumber(args[1])`
 `   if number == nil then return '' end`
@@ -830,7 +833,7 @@ function p.primeIndex(frame)
 `   end`
 `   return ''`
 
-end
+end p.primeindex = p.primeIndex
 
 \--[輸入一個整數n，輸出小於等於n的質數個數
 (支援\#invoke:)](https://zh.wikipedia.org/wiki/輸入一個整數n，輸出小於等於n的質數個數_\(支援#invoke:\) "wikilink")
@@ -845,7 +848,8 @@ function p.primeIndexOf(frame)
 `   else`
 `       -- We're being called from another module or from the debug console, so assume`
 `       -- the args are passed in directly.`
-`       args = frame`
+`       if type(frame) ~= type({}) then args = {frame}`
+`       else args = frame end`
 `   end`
 `   local number = tonumber(args[1])`
 `   if number == nil then return '' end`

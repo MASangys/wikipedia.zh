@@ -2,7 +2,7 @@
 
 ## 人物
 
-J·喬納·詹姆森是《》的[總編輯](https://zh.wikipedia.org/wiki/總編輯 "wikilink")。兒子是一名[太空人](https://zh.wikipedia.org/wiki/太空人 "wikilink")。詹姆森非常討厭[蜘蛛人](../Page/蜘蛛人.md "wikilink")，認為他是一名罪犯，並一直在有關蜘蛛人的新聞上抹黑他。但是詹姆森並不知道，他聘請的攝影師彼得·帕克正是蜘蛛人的真實身份。
+J·喬納·詹姆森是《[號角日報](../Page/號角日報.md "wikilink")》的[總編輯](https://zh.wikipedia.org/wiki/總編輯 "wikilink")。兒子是一名[太空人](https://zh.wikipedia.org/wiki/太空人 "wikilink")。詹姆森非常討厭[蜘蛛人](../Page/蜘蛛人.md "wikilink")，認為他是一名罪犯，並一直在有關蜘蛛人的新聞上抹黑他。但是詹姆森並不知道，他聘請的攝影師彼得·帕克正是蜘蛛人的真實身份。
 
 在2009年的故事線中，詹姆森成為[紐約市市長](https://zh.wikipedia.org/wiki/紐約市市長 "wikilink")，並成立「反蜘蛛小隊」（Anti-Spider
 Squad）捕捉蜘蛛人。

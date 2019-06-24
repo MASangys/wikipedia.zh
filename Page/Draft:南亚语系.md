@@ -516,7 +516,7 @@ since been supplanted by the Latin alphabet in the 20th century. The
 following are examples of past-used alphabets or current alphabets of
 Austroasiatic languages.
 
-  - [喃字](https://zh.wikipedia.org/wiki/喃字 "wikilink")\[41\]
+  - [喃字](../Page/喃字.md "wikilink")\[41\]
 
   - [高棉文](../Page/高棉文.md "wikilink")\[42\]
 

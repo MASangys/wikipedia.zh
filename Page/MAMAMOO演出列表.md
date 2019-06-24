@@ -107,6 +107,13 @@ MAMAMOO演出列表*'》主要列舉[韓國](https://zh.wikipedia.org/wiki/韓�
 <td><p><a href="../Page/新莊體育館.md" title="wikilink">新莊體育館</a></p></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>7月27、28日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大邱" title="wikilink">大邱</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -321,8 +328,8 @@ MAMAMOO演出列表*'》主要列舉[韓國](https://zh.wikipedia.org/wiki/韓�
 <tr class="even">
 <td><p>7月13日</p></td>
 <td></td>
-<td><p>FAN MEETING</p></td>
-<td><p>未知</p></td>
+<td><p>2019 MAMAMOO FAN MEETING “무무전: 장원쟁탈기(MOOMOO傳：狀元爭奪記)”</p></td>
+<td><p>高麗大學化汀體育館</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -731,6 +738,8 @@ MAMAMOO演出列表*'》主要列舉[韓國](https://zh.wikipedia.org/wiki/韓�
 | 2019年5月30日           |
 | 龍仁大學祝祭               |
 | 2019年5月31日           |
+| 2019年6月6日            |
+| 2019年6月7日            |
 | 2019年6月8日            |
 | 2019年6月9日            |
 
@@ -750,9 +759,10 @@ MAMAMOO演出列表*'》主要列舉[韓國](https://zh.wikipedia.org/wiki/韓�
 | 2018年12月12日    | 2018年mnet亞洲音樂大獎                           | 日本琦玉                              |
 | 2018年12月28日    | V HEARTBEAT YEAR END PARTY in VIETNAM     | 越南胡志明市                            |
 | 2019年2月4日      | POWER OF K TOKYO LIVE                     | 日本東京                              |
-| 2019年6月1日      | K-POP WE\* FRIEND CONCERT IN VIETNAM 2019 | 越南                                |
 | 2019年7月6日      | SUPER SBS CONCERT IN HONGKONG             | 香港                                |
+| 2019年8月10日     | K-POP WE\* FRIEND CONCERT IN VIETNAM 2019 | 越南                                |
 | 2019年8月11日     | K-FES 2019                                | 日本大阪                              |
+| 2019年9月1日      | Wkndfest Vol.1 : K-Pop Edition            | 吉隆坡                               |
 
 ## 參考資料
 

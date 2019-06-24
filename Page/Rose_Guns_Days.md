@@ -59,17 +59,14 @@ Guns Days
 Lite》的游戏免费[试玩版](https://zh.wikipedia.org/wiki/试玩版 "wikilink")，试玩版仅包含第一章的开头部分情节\[3\]，2012年12月13日，[安卓版本的游戏第一章及游戏试玩版在](https://zh.wikipedia.org/wiki/安卓 "wikilink")[Google
 Play上架](../Page/Google_Play.md "wikilink")\[4\]。
 
-2014年2月7日，游戏发行商获得了07th
-Expansion的授权，发行日文原版的共四章游戏，但未发行英文翻译版本，仅是提供了一个方便日本以外的玩家合法购买《Rose
-Guns
+2014年2月7日，游戏发行商[MangaGamer获得了](../Page/MangaGamer.md "wikilink")07th
+Expansion的授权，发行日文原版的共四章游戏，但未发行英文翻译版本，仅是提供了一个方便日本以外的玩家合法购买《Rose Guns
 Days》的途径，玩家只能使用[非官方翻译](https://zh.wikipedia.org/wiki/字幕组 "wikilink")[补丁来游玩翻译后的游戏](https://zh.wikipedia.org/wiki/补丁 "wikilink")\[5\]\[6\]。2015年3月26日，MangaGamer与07th
 Expansion的授权条款到期，所以下架了《Rose Guns
 Days》等游戏，之前已经购买了游戏的玩家不会受到影响，游戏仍然在库存中，但新玩家无法进行购买。MangaGamer表示会争取重新向07th
 Expansion取得《Rose Guns Days》等游戏的授权，但至今仍未取得\[7\]。
 
-## 跨媒体
-
-### 漫画
+## 漫画
 
 《Rose Guns
 Days》有漫画改编并在史克威尔艾尼克斯和讲谈社旗下的漫画杂志上连载，并有[单行本出版](https://zh.wikipedia.org/wiki/单行本 "wikilink")。面向[北美地区的英文翻译版本由](../Page/北美地区.md "wikilink")代理出版\[8\]。至今暂无官方中文化翻译版本。
@@ -225,7 +222,7 @@ Days》有漫画改编并在史克威尔艾尼克斯和讲谈社旗下的漫画�
 </tbody>
 </table>
 
-### 小说
+## 小说
 
 小说版本由改编，其中打斗情节的描写也是由其执笔。
 
@@ -234,7 +231,7 @@ Days》有漫画改编并在史克威尔艾尼克斯和讲谈社旗下的漫画�
 | ROSE GUNS DAYS Season 1（上） | ISBN 978-4-06-138877-2 | 2013年11月15日 |
 | ROSE GUNS DAYS Season 1（下） | ISBN 978-4-06-139901-3 | 2014年7月16日  |
 
-### 舞台剧
+## 舞台剧
 
 <table>
 <thead>

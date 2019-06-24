@@ -1,7 +1,7 @@
 [缩略图](https://zh.wikipedia.org/wiki/File:Xiaomi_Poco_F1_on_Wikipedia.jpg "fig:缩略图")時的畫面\]\]
 [缩略图](https://zh.wikipedia.org/wiki/File:Xiaomi_Pocophone_F1.jpg "fig:缩略图")
 **Pocophone
-F1**是[小米於](../Page/小米集團.md "wikilink")2018年8月22日在[新德里發佈的中階](../Page/新德里.md "wikilink")[手機](../Page/移动电话.md "wikilink")。該手機主要銷售往國際市場（包括[港](../Page/香港.md "wikilink")[臺](../Page/臺灣.md "wikilink")），但不在[中國大陸發售](../Page/中国大陆.md "wikilink")。
+F1**是[小米於](../Page/小米集團.md "wikilink")2018年8月22日在[新德里發佈的旗舰](../Page/新德里.md "wikilink")[手機](../Page/移动电话.md "wikilink")。該手機主要銷售往國際市場（包括[港](../Page/香港.md "wikilink")[臺](../Page/臺灣.md "wikilink")），但不在[中國大陸發售](../Page/中国大陆.md "wikilink")。
 
 ## 規格
 
@@ -24,12 +24,12 @@ ROM。可以於第二個SIM卡槽外掛SD卡。
 ### 系統
 
 Pocophone F1搭載基於[Android Pie的](../Page/Android_Pie.md "wikilink")
-[MIUI](../Page/MIUI.md "wikilink") 10系統。
+[MIUI](../Page/MIUI.md "wikilink") for Poco 系統。
 
 ### 電池
 
 Pocophone F1搭配 4000maH 鋰電池（不可拆卸），並且支援[高通](../Page/高通.md "wikilink")
-Quickcharge 3 協議。
+Quickcharge 4 協議。
 
 ## 參考資料
 

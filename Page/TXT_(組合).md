@@ -69,54 +69,32 @@ Summer〉第17名。在韓國組合中，TOMORROW X
 TOGETHER是第4個獲得「Emerging Artists」獎的人，在「Emerging
 Artists」排行榜中，TOMORROW X TOGETHER是第5個獲得「第1名」的人。\[19\]\[20\]
 
-3月12日，根據日本《[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")》發表的週專輯排行榜資料，《[The
-Dream Chapter:
-STAR](https://zh.wikipedia.org/wiki/The_Dream_Chapter:_STAR "wikilink")》以1萬2920張的銷售量名列「週專輯排行榜」第3名及1380張的銷售量名列「週數位專輯排行榜」第8名。在數位專輯銷售和音源流通分數追加合算後，《The
-Dream Chapter:
-STAR》以1萬5152張的銷售量，奪得「週專輯排行榜」第2名。並登上進口專輯(外語專輯)「週排行榜」之冠。雖然沒有正式在[日本出道](../Page/日本.md "wikilink")，但僅憑韓語出道專輯就在發行第一週就登上Oricon週專輯排行榜的第3名和進口專輯排行榜的第1名。\[21\]\[22\]
-
-3月12日，出道8天於《[THE
-SHOW](https://zh.wikipedia.org/wiki/THE_SHOW "wikilink")》奪下首個一位\[23\]，分別奪下三個節目的冠軍而成為三冠王。\[24\]
-
 3月13日，根據日本《告示牌》發表的週專輯排行榜資料，TOMORROW X TOGETHER出道專輯《[The Dream Chapter:
 STAR](https://zh.wikipedia.org/wiki/The_Dream_Chapter:_STAR "wikilink")》在「Hot
 Albums」名列第20名、「Download Albums」名列第7名，出道曲〈〉在「Hot 100」名列第23名、「Streaming
-Songs」名列第29名。\[25\]
+Songs」名列第29名。\[21\]
 
 3月15日，所屬經紀公司宣布TOMORROW X TOGETHER出道專輯《[The Dream Chapter:
 STAR](https://zh.wikipedia.org/wiki/The_Dream_Chapter:_STAR "wikilink")》特別活動“**[TXT
 The Answers](https://www.txt-theanswers.com/)**”，解出TOMORROW X
 TOGETHER官方粉絲社區活動指南圖中所給的摩斯密碼“SEARCH AND GET YOUR REWARDS”，找到《The
 Dream Chapter: STAR》專輯CD並解出上面的摩斯密碼得到網站名“FIND THE ANSWERS CHANGE
-TOMORROW”後，完成網站裡特別任務，可得到TOMORROW X TOGETHER特別寫真及影片。\[26\]
+TOMORROW”後，完成網站裡特別任務，可得到TOMORROW X TOGETHER特別寫真及影片。\[22\]
 
 4月1日，根據韓國《Hanteo音樂榜》發表的3月專輯排行榜資料，《[The Dream Chapter:
 STAR](https://zh.wikipedia.org/wiki/The_Dream_Chapter:_STAR "wikilink")》
-推出28天售出10萬200張，奪得「月專輯排行榜」之冠，創下新人團體中最高銷售紀錄。\[27\]
+推出28天售出10萬200張，奪得「月專輯排行榜」之冠，創下新人團體中最高銷售紀錄。\[23\]
 
 4月9日，[Big Hit娛樂於官方社群網站及TOMORROW](../Page/Big_Hit娛樂.md "wikilink") X
 TOGETHER官方粉絲社區公告TOMORROW X
 TOGETHER將於5月9日至24日在[紐約](https://zh.wikipedia.org/wiki/紐約 "wikilink")、[芝加哥](../Page/芝加哥.md "wikilink")、[奧蘭多](https://zh.wikipedia.org/wiki/奧蘭多 "wikilink")、[亞特蘭大](https://zh.wikipedia.org/wiki/亞特蘭大 "wikilink")、[達拉斯](../Page/達拉斯.md "wikilink")、[洛杉磯展開首次](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")[美國巡迴Showcase](https://zh.wikipedia.org/wiki/美國 "wikilink")《[TOMORROW
 X TOGETHER SHOWCASE: STAR in
-US](../Page/TOMORROW_X_TOGETHER_SHOWCASE:_STAR_in_US.md "wikilink")》。\[28\]
+US](../Page/TOMORROW_X_TOGETHER_SHOWCASE:_STAR_in_US.md "wikilink")》。\[24\]
 
 4月11日，根據韓國《[Gaon音樂榜](https://zh.wikipedia.org/wiki/Gaon音樂榜 "wikilink")》發表的3月專輯排行榜資料，《[The
 Dream Chapter:
 STAR](https://zh.wikipedia.org/wiki/The_Dream_Chapter:_STAR "wikilink")》
-推出28天售出了14萬5098張，奪得「月專輯排行榜」之冠，創下了新人團體中最高銷售紀錄。\[29\]
-
-4月21日，官方释出全新概念照以及宣布4月25日以出道专辑后续曲 《[Cat &
-Dog](https://zh.wikipedia.org/wiki/Cat_&_Dog "wikilink")》进行为期一周的活动宣传。
-
-4月25日，韩国时间0时，官方[Youtube頻道公開](https://zh.wikipedia.org/wiki/Youtube "wikilink")《[Cat
-& Dog](https://zh.wikipedia.org/wiki/Cat_&_Dog "wikilink")》音樂錄影帶
-\[30\]，并于同日登上[M\!
-Countdown作为回归初舞台](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")。\[31\]
-
-5月3日，韓國時間18時，官方[Youtube頻道公開](https://zh.wikipedia.org/wiki/Youtube "wikilink")《Cat
-& Dog (English ver.)》音樂錄影帶 \[32\]，並於同日韓國時間18時發行數位音源。\[33\]
-
-5月31日，韓國時間18時，發行《Our Summer (Acoustic Mix)》的數位音源。
+推出28天售出了14萬5098張，奪得「月專輯排行榜」之冠，創下了新人團體中最高銷售紀錄。\[25\]
 
 ## 音樂作品
 
@@ -149,13 +127,13 @@ Countdown作为回归初舞台](https://zh.wikipedia.org/wiki/M!_Countdown "wiki
 
 | 年份    | 廣告名稱   | 代言地區 | 參與成員 | 合作藝人 | 備註     |
 | ----- | ------ | ---- | ---- | ---- | ------ |
-| 2019年 | 保養品牌《》 | 全球   | 全員   |      | \[34\] |
+| 2019年 | 保養品牌《》 | 全球   | 全員   |      | \[26\] |
 
 ## 雜誌畫報
 
 | 年份    | 雜誌名稱    | 期數  | 合作品牌 | 參與成員 | 備註           |
 | ----- | ------- | --- | ---- | ---- | ------------ |
-| 2019年 | W KOREA | 5月號 |      | 全員   | \[35\]\[36\] |
+| 2019年 | W KOREA | 5月號 |      | 全員   | \[27\]\[28\] |
 
 ## 演唱會及其他演出
 
@@ -226,12 +204,12 @@ Countdown作为回归初舞台](https://zh.wikipedia.org/wiki/M!_Countdown "wiki
 One」（），是從眾多粉絲推薦的名字中所選出。意指「我們從什麼都不是（0，韓語發音為Young），到相遇後成為了一體（One）」，「Young
 One」也有著「永遠」的意思（韓語發音），TOMORROW X
 TOGETHER成員們願所有粉絲都能夠永遠陪伴在他們身邊。因為與[Tiffany的個人粉絲名稱](../Page/Tiffany_\(少女時代\).md "wikilink")「Young
-One」，以及意義「永遠」相同而引發爭議\[37\]。
+One」，以及意義「永遠」相同而引發爭議\[29\]。
 
 5月6日，所屬經紀公司[Big
 Hit娛樂針對撞名爭議發表官方立場聲明](../Page/Big_Hit娛樂.md "wikilink")，向等待TOMORROW
 X TOGETHER官方粉絲名稱公開的粉絲們，以及對此次事件感到不愉快的人們致歉，並決定重新選定TOMORROW X
-TOGETHER官方粉絲名稱\[38\]。
+TOGETHER官方粉絲名稱\[30\]。
 
 ## 註釋
 
@@ -302,11 +280,3 @@ TOGETHER官方粉絲名稱\[38\]。
 28.
 29.
 30.
-31.
-32.
-33.
-34.
-35.
-36.
-37.
-38.

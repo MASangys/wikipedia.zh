@@ -33,6 +33,7 @@ Hubert Nyssen 在[阿尔勒建立](../Page/阿爾勒.md "wikilink")。公司旗�
 ## 外部链接
 
   -
+[Category:阿尔勒](https://zh.wikipedia.org/wiki/Category:阿尔勒 "wikilink")
 [Category:法国出版社](https://zh.wikipedia.org/wiki/Category:法国出版社 "wikilink")
 
 1.

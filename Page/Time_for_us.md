@@ -65,8 +65,8 @@ Sky》、《Love Oh Love》、《Memoria》（韓文版）的部分歌詞照片\
 
 ### 獲得六個一位
 
-1月22日於《[The Show](https://zh.wikipedia.org/wiki/The_Show "wikilink")》中以
-8,617 高分獲得**第一個一位**
+1月22日於《[The
+Show](https://zh.wikipedia.org/wiki/The_Show "wikilink")》中以8,617高分獲得**第一個一位**。
 
 1月23日於《[Show
 Champion](../Page/Show_Champion.md "wikilink")》中獲得**第二個一位**。

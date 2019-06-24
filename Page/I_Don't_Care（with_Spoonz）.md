@@ -32,6 +32,10 @@ W的合作獲得了熱烈的迴響，品牌團隊預定擴大計畫，將Spoonz�
 
 ## I Don't Care（with Spoonz）NU'EST版本
 
+2019年4月4日，NCsoft宣布NU'EST成爲其旗下角色品牌Spoonz的廣告代言人，將推出多樣化的活動\[7\]。隨後在2019年6月1日，I
+Don't Care（with
+Spoonz）NU'EST版本於NU'EST官方Youtube頻道公開，以五人的歌聲再次詮釋這首歡快欣暢的歌曲\[8\]。
+
 ## 曲目
 
 ## 發行歷史
@@ -76,34 +80,34 @@ W的合作獲得了熱烈的迴響，品牌團隊預定擴大計畫，將Spoonz�
 
 | 播放日期       | 播放平台                                               | 標題                                          |
 | ---------- | -------------------------------------------------- | ------------------------------------------- |
-| 2018年9月26日 | Youtube                                            | I Don't Care（with Spoonz）M/V預告 JR ver.\[7\] |
-| 2018年9月27日 | I Don't Care（with Spoonz）M/V預告 ARON ver.\[8\]      |                                             |
-| 2018年9月28日 | I Don't Care（with Spoonz）M/V預告 白虎 ver.\[9\]        |                                             |
-| 2018年9月29日 | I Don't Care（with Spoonz）M/V預告 Ren ver.\[10\]      |                                             |
-| 2018年9月30日 | NU'EST W - 'I Don't Care（with Spoonz）' M/V預告\[11\] |                                             |
+| 2018年9月26日 | Youtube                                            | I Don't Care（with Spoonz）M/V預告 JR ver.\[9\] |
+| 2018年9月27日 | I Don't Care（with Spoonz）M/V預告 ARON ver.\[10\]     |                                             |
+| 2018年9月28日 | I Don't Care（with Spoonz）M/V預告 白虎 ver.\[11\]       |                                             |
+| 2018年9月29日 | I Don't Care（with Spoonz）M/V預告 Ren ver.\[12\]      |                                             |
+| 2018年9月30日 | NU'EST W - 'I Don't Care（with Spoonz）' M/V預告\[13\] |                                             |
 
 ## 宣傳活動影片
 
 | 播放日期        | 播放平台                                                           | 標題                                                    |
 | ----------- | -------------------------------------------------------------- | ----------------------------------------------------- |
-| 2018年10月1日  | VLIVE                                                          | NU'EST W X Spoonz 一起 I Don't Care VLIVE\[12\]         |
-| 2018年10月1日  | Youtube                                                        | \[Spoonz X NU'EST W\] I Don't Care 數位單曲製作現場 \#1\[13\] |
-| 2018年10月2日  | \[Spoonz X NU'EST W\] I Don't Care 數位單曲製作現場 \#2\[14\]          |                                                       |
-| 2018年10月3日  | NU'EST W - 'I Don't Care（with Spoonz）' MV製作花絮（JR ver.）\[15\]   |                                                       |
-| 2018年10月4日  | NU'EST W - 'I Don't Care（with Spoonz）' MV製作花絮（ARON ver.）\[16\] |                                                       |
-| 2018年10月5日  | NU'EST W - 'I Don't Care（with Spoonz）' MV製作花絮（白虎 ver.）\[17\]   |                                                       |
-| 2018年10月6日  | NU'EST W - 'I Don't Care（with Spoonz）' MV製作花絮（Ren ver.）\[18\]  |                                                       |
-| 2018年10月7日  | NU'EST W - 'I Don't Care（with Spoonz）' MV製作花絮（全體 ver.）\[19\]   |                                                       |
-| 2018年10月8日  | \[Spoonz X NU'EST W\] Vlive現場速寫\[20\]                          |                                                       |
-| 2018年10月9日  | NU'EST W - 'I Don't Care（with Spoonz）' 幕後（JR ver.）\[21\]       |                                                       |
-| 2018年10月10日 | NU'EST W - 'I Don't Care（with Spoonz）' MV幕後（ARON ver.）\[22\]   |                                                       |
-| 2018年10月11日 | NU'EST W - 'I Don't Care（with Spoonz）' MV幕後（白虎 ver.）\[23\]     |                                                       |
-| 2018年10月12日 | NU'EST W - 'I Don't Care（with Spoonz）' MV幕後（Ren ver.）\[24\]    |                                                       |
-| 2018年10月13日 | \[Spoonz X NU'EST W\] 絨毛娃娃錄音現場（JR ver.）\[25\]                  |                                                       |
-| 2018年10月14日 | \[Spoonz X NU'EST W\] 絨毛娃娃錄音現場（ARON ver.）\[26\]                |                                                       |
-| 2018年10月15日 | \[Spoonz X NU'EST W\] 絨毛娃娃錄音現場（白虎 ver.）\[27\]                  |                                                       |
-| 2018年10月16日 | \[Spoonz X NU'EST W\] 絨毛娃娃錄音現場（Ren ver.）\[28\]                 |                                                       |
-| 2018年10月17日 | NU'EST W - Spoonz簽名會一小時前的待機室\[29\]                             |                                                       |
+| 2018年10月1日  | VLIVE                                                          | NU'EST W X Spoonz 一起 I Don't Care VLIVE\[14\]         |
+| 2018年10月1日  | Youtube                                                        | \[Spoonz X NU'EST W\] I Don't Care 數位單曲製作現場 \#1\[15\] |
+| 2018年10月2日  | \[Spoonz X NU'EST W\] I Don't Care 數位單曲製作現場 \#2\[16\]          |                                                       |
+| 2018年10月3日  | NU'EST W - 'I Don't Care（with Spoonz）' MV製作花絮（JR ver.）\[17\]   |                                                       |
+| 2018年10月4日  | NU'EST W - 'I Don't Care（with Spoonz）' MV製作花絮（ARON ver.）\[18\] |                                                       |
+| 2018年10月5日  | NU'EST W - 'I Don't Care（with Spoonz）' MV製作花絮（白虎 ver.）\[19\]   |                                                       |
+| 2018年10月6日  | NU'EST W - 'I Don't Care（with Spoonz）' MV製作花絮（Ren ver.）\[20\]  |                                                       |
+| 2018年10月7日  | NU'EST W - 'I Don't Care（with Spoonz）' MV製作花絮（全體 ver.）\[21\]   |                                                       |
+| 2018年10月8日  | \[Spoonz X NU'EST W\] Vlive現場速寫\[22\]                          |                                                       |
+| 2018年10月9日  | NU'EST W - 'I Don't Care（with Spoonz）' 幕後（JR ver.）\[23\]       |                                                       |
+| 2018年10月10日 | NU'EST W - 'I Don't Care（with Spoonz）' MV幕後（ARON ver.）\[24\]   |                                                       |
+| 2018年10月11日 | NU'EST W - 'I Don't Care（with Spoonz）' MV幕後（白虎 ver.）\[25\]     |                                                       |
+| 2018年10月12日 | NU'EST W - 'I Don't Care（with Spoonz）' MV幕後（Ren ver.）\[26\]    |                                                       |
+| 2018年10月13日 | \[Spoonz X NU'EST W\] 絨毛娃娃錄音現場（JR ver.）\[27\]                  |                                                       |
+| 2018年10月14日 | \[Spoonz X NU'EST W\] 絨毛娃娃錄音現場（ARON ver.）\[28\]                |                                                       |
+| 2018年10月15日 | \[Spoonz X NU'EST W\] 絨毛娃娃錄音現場（白虎 ver.）\[29\]                  |                                                       |
+| 2018年10月16日 | \[Spoonz X NU'EST W\] 絨毛娃娃錄音現場（Ren ver.）\[30\]                 |                                                       |
+| 2018年10月17日 | NU'EST W - Spoonz簽名會一小時前的待機室\[31\]                             |                                                       |
 
 ## 参考文献
 
@@ -140,3 +144,5 @@ W的合作獲得了熱烈的迴響，品牌團隊預定擴大計畫，將Spoonz�
 27.
 28.
 29.
+30.
+31.

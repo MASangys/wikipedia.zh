@@ -49,7 +49,7 @@ Team Esports**。團隊理念：我們相信在傳說戰場上，團結是贏得
 </tr>
 <tr class="even">
 <td><p>ONE_XianYo</p></td>
-<td><p>打野</p></td>
+<td><p>打野、魔龍輸出</p></td>
 <td></td>
 <td><p>前S.T打野</p></td>
 </tr>
@@ -61,7 +61,7 @@ Team Esports**。團隊理念：我們相信在傳說戰場上，團結是贏得
 </tr>
 <tr class="even">
 <td><p>ONE_Lover</p></td>
-<td><p>凱薩</p></td>
+<td><p>凱撒</p></td>
 <td></td>
 <td><p>前S.T凱薩路</p></td>
 </tr>
@@ -91,7 +91,7 @@ Team Esports**。團隊理念：我們相信在傳說戰場上，團結是贏得
 </tr>
 <tr class="odd">
 <td><p>ONE_Tura</p></td>
-<td><p>凱撒</p></td>
+<td><p>打野、凱撒</p></td>
 <td></td>
 <td><p>校園傳說2018 S2冠軍隊伍成員</p></td>
 </tr>
@@ -138,7 +138,7 @@ Team Esports**。團隊理念：我們相信在傳說戰場上，團結是贏得
 <td><p>S.T Scott</p></td>
 <td><p>魔龍輔助</p></td>
 <td></td>
-<td><p>現<a href="../Page/SMG戰隊.md" title="wikilink">SMG戰隊教練</a></p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>S.T Ben</p></td>

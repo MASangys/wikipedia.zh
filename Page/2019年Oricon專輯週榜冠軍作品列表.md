@@ -193,6 +193,30 @@
 <td><p>2.6</p></td>
 <td><p>1</p></td>
 </tr>
+<tr class="odd">
+<td><p>6月10日</p></td>
+<td><p><a href="../Page/NEW_LOVE.md" title="wikilink">NEW LOVE</a></p></td>
+<td><p><a href="../Page/B&#39;z.md" title="wikilink">B'z</a></p></td>
+<td><p>原創</p></td>
+<td><p>20.6</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="even">
+<td><p>6月17日</p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/aiko" title="wikilink">aiko</a></p></td>
+<td><p>精選</p></td>
+<td><p>8.9</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="odd">
+<td><p>6月24日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/現在我的誓言是微笑" title="wikilink">現在我的誓言是微笑</a></p></td>
+<td></td>
+<td><p>原創</p></td>
+<td><p>2.0</p></td>
+<td><p>1</p></td>
+</tr>
 </tbody>
 </table>
 

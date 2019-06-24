@@ -136,7 +136,21 @@ A8+(2018)等亦陸續獲得更新](https://zh.wikipedia.org/wiki/三星Galaxy_A8
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Samsung_Galaxy_A8s" title="wikilink">Samsung Galaxy A8s</a></p></td>
+<td><p><a href="../Page/三星Galaxy_A8s.md" title="wikilink">Samsung Galaxy A8s</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/Samsung_Galaxy_J系列" title="wikilink">Samsung Galaxy J系列</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Samsung_Galaxy_J6" title="wikilink">Samsung Galaxy J6</a></p></td>
+<td><p>Android 9.0 Pie</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/Samsung_Galaxy_J4+" title="wikilink">Samsung Galaxy J4+</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -145,7 +159,7 @@ A8+(2018)等亦陸續獲得更新](https://zh.wikipedia.org/wiki/三星Galaxy_A8
 <tr class="odd">
 <td><p><a href="../Page/三星Galaxy_Tab.md" title="wikilink">三星Galaxy Tab 系列</a></p></td>
 <td><p><a href="../Page/Samsung_Galaxy_Tab_S4.md" title="wikilink">Samsung Galaxy Tab S4</a> Wi-Fi</p></td>
-<td><p>Android 9.0 Pie</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>

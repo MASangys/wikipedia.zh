@@ -1,0 +1,9 @@
+**頻道D**（****）是自2018年以來由擁有的[土耳其電視頻道](../Page/土耳其.md "wikilink")。
+
+## 外部連結
+
+  - [官方網站](http://www.kanald.com.tr/)
+
+[Category:土耳其電視](https://zh.wikipedia.org/wiki/Category:土耳其電視 "wikilink")
+[Category:电视台](https://zh.wikipedia.org/wiki/Category:电视台 "wikilink")
+[Category:1993年成立的电视台或电视频道](https://zh.wikipedia.org/wiki/Category:1993年成立的电视台或电视频道 "wikilink")

@@ -101,7 +101,7 @@ NEW WORLD</p></td>
 踢擊力：73.9t<br />
 跳躍力：90.8m<br />
 行動速度：100m / 1.0秒</p></td>
-<td><p>颜色以黑、天蓝、绿松色为主；左右复眼皆以龙头为首，同时额头上追加了假面骑士Evol的思维方式产生器</p></td>
+<td><p>全身以黑、天藍、綠松色為主，左、右眼都為龍首的圖示，並同時追加假面騎士Evol的部分外觀</p></td>
 <td><p>「GingaMuteki no KinnikuYaro! Cross-ZEvol!」<br />
 （日文原文，<br />
 中文意思「银河无敌之筋肉小子！迫近之进化！」）</p></td>
@@ -154,7 +154,7 @@ NEW WORLD</p></td>
 <td><p>style="text-align:center;background-color:|<font color=black><strong>KillbuSpider<br />
 蜘蛛形態</strong></font></p></td>
 <td><p>原文：[2]<br />
-配合創造驅動器及使用「KillbuSpider」滿裝瓶再搭配「KillbuSpider」變身的形態<br />
+配合創造驅動器及使用「KillbuSpider」搭配「KillbuSpider」滿裝瓶變身的形態<br />
 身高：194.5cm<br />
 體重：109.1kg<br />
 拳擊力：66.1t<br />
@@ -234,12 +234,12 @@ NEW WORLD</p></td>
 
 ### 本作特色
 
-  - 本作为「Build NEW WORLD」的第二弹，也是整个假面騎士Build系列中的最终话。
+  - 本作為「Build NEW WORLD」的第二彈，也是假面騎士Build新世界系列的第二章。
 
 ### 故事概要
 
-在桐生戰兔所創造的新世界中，只有曾接受過人體實驗的人才能甦醒舊世界的記憶。然而，那些甦醒記憶的人之中，卻出現企圖以『科學之力＝兵器』支配新世界的傢伙。
- 
+在桐生戰兔所創造的新世界中，只有曾接受過人體實驗的人才能甦醒舊世界的記憶。然而，那些甦醒記憶的人之中，卻出現企圖以『科學之力＝兵器』支配新世界的傢伙。他們的名字叫「Downfall（ダウンフォール）」。企圖利用騎士系統的恐怖集團。
+「Downfall」，突襲了採用騎士系統的政府機關  
 
 ### 用語
 
@@ -249,6 +249,14 @@ NEW WORLD</p></td>
 ### 登場人物
 
 #### 本作登場人物
+
+**西蒙・馬庫斯（）**（[Michael富岡飾](https://zh.wikipedia.org/wiki/Michael富岡 "wikilink")）
+
+  -
+
+**浦賀啓示（）**（[趙珉和飾](https://zh.wikipedia.org/wiki/趙珉和 "wikilink")）
+
+  -
 
 ### 本作登場假面騎士
 
@@ -260,6 +268,43 @@ NEW WORLD</p></td>
     原文： / *Kamen Rider Grease*
 
 ##### 變身模式
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>形態名稱</strong></p></td>
+<td><p><strong>簡介</strong></p></td>
+<td><p><strong>外觀</strong></p></td>
+<td><p><strong>音效</strong></p></td>
+<td><p><strong>能力</strong></p></td>
+<td><p><strong>必殺技</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>style="text-align:center;background-color:|<font color=silver><strong>Grease Perfect Kingdom<br />
+理想王國形態</strong></font></p></td>
+<td><p>原文：[3]<br />
+配合創造驅動器及使用「Grease Perfect Kingdom」搭配「Grease」滿裝瓶變身的形態<br />
+身高：cm<br />
+體重：kg<br />
+拳擊力：t<br />
+踢擊力：t<br />
+跳躍力：m<br />
+行動速度：100m / 秒</p></td>
+<td><p>全身以金、紅、藍、黃、銀色為主</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 #### 假面騎士 Metal Build
 
@@ -287,6 +332,17 @@ NEW WORLD</p></td>
 
   -
     原文： / *Grease Perfect Kingdom*
+
+### 本作登場怪人
+
+  - **Phantom Crusher**
+
+<!-- end list -->
+
+  -
+    原文：
+    CV：Michael富岡
+    人類身份：西蒙·馬庫斯
 
 ### 樂曲
 
@@ -326,3 +382,4 @@ NEW WORLD</p></td>
 
 1.  劇中直接命名為「仮面ライダークローズエボル」。
 2.  劇中直接命名為「仮面ライダーキルバス」。
+3.  劇中直接命名為「仮面ライダーグリスパーフェクトキングダム」。

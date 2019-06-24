@@ -1,0 +1,23 @@
+**三星Galaxy A80** 運行基於[Android 9 Pie的](../Page/Android_Pie.md "wikilink")
+[One UI](../Page/One_UI.md "wikilink") 介面 。這台智慧型手機搭載了[Qualcomm
+Snapdragon](../Page/高通驍龍.md "wikilink") 730 SoC，由8個Kyro 470核心、Adreno 618
+GPU、8GB的記憶體和128GB儲存空間組成。
+
+支援4G雙卡雙待。不可拆卸的3700[mAh電池](https://zh.wikipedia.org/wiki/安培小時 "wikilink")，支援比自家的[Galaxy
+S10更快的](../Page/三星Galaxy_S10.md "wikilink")25w快充。Galaxy A80採用三星自家的6.7吋
+[Super-AMOLED](https://zh.wikipedia.org/wiki/Super_AMOLED "wikilink")
+FHD+螢幕。
+
+Galaxy A80是三星第一款採用反轉式鏡頭 及「New Infinity Display」設計的手機
+
+但Galaxy
+A80取消了[3.5mm耳機插孔和](https://zh.wikipedia.org/wiki/3.5mm耳机插孔 "wikilink")[Micro
+SD插槽](../Page/MicroSD.md "wikilink")，同時改用膠機背，使A80手感大打折扣。
+
+## 參考資料
+
+<https://www.samsung.com/hk/news/product/new-samsung-galaxy-a80-built-for-the-era-of-live/>
+
+<http://www.vtechgraphy.com/android/samsung-galaxy-a80-passes-through-geekbench-revealing-key-specs/>
+
+<https://m.eprice.com.tw/mobile/talk/4523/5238211/1/rv/samsung-galaxy-a80-review/>

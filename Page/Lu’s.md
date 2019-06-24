@@ -1,4 +1,4 @@
-盧佳慶（[筆名](../Page/筆名.md "wikilink")：Lu's，），台灣插畫創作者。生於[新北](https://zh.wikipedia.org/wiki/新北 "wikilink")，在facebook上創作分享插畫因此而走紅\[1\]。
+**盧佳慶**（[筆名](../Page/筆名.md "wikilink")：Lu's，），台灣插畫創作者。生於[新北](https://zh.wikipedia.org/wiki/新北 "wikilink")，在facebook上創作分享插畫因此而走紅\[1\]。
 
 ## 生平
 

@@ -31,7 +31,7 @@ Horribly**》（），為韓國[KBS2於](https://zh.wikipedia.org/wiki/KBS2 "wik
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/宋智孝.md" title="wikilink">宋智孝</a><br />
-<small>（童年：<a href="../Page/申隣雅.md" title="wikilink">申隣雅</a>）</p></td>
+<small>（童年：<a href="../Page/申隣雅.md" title="wikilink">申隣雅</a>、青年：）</p></td>
 <td><p>吳乙蕣[3][4]</p></td>
 <td><p>放送界的幽靈作家，她的遭遇很不幸但是她並沒有被挫折打倒，依舊非常積極樂觀，因為她覺得自己是個受人喜愛，也很走運的人。8年前由於無聊寫了獨幕劇劇本，但卻意外獲得了獨幕劇劇本公募最優秀獎，也因此以編劇身份出道，之後一直以電視劇輔助作家的身份努力創作著劇本。</p></td>
 <td><p><a href="../Page/陸惠玲.md" title="wikilink">陸惠玲</a><br />
@@ -102,25 +102,25 @@ Horribly**》（），為韓國[KBS2於](https://zh.wikipedia.org/wiki/KBS2 "wik
 <td><p><a href="../Page/池承炫.md" title="wikilink">池承炫</a></p></td>
 <td><p>史東哲</p></td>
 <td><p>前Jump Five成員史賢，與弼立是最親的團員，因受傷退出後下落不明。</p></td>
-<td></td>
+<td><p><a href="../Page/麥皓豐.md" title="wikilink">麥皓豐</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>徐敏俊</p></td>
 <td><p>頂級明星，前Jump Five成員敏俊。</p></td>
-<td></td>
+<td><p><a href="../Page/梁偉德.md" title="wikilink">梁偉德</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/鄭順元" title="wikilink">鄭順元</a></p></td>
 <td><p>衷烈</p></td>
 <td><p>經營麵包店，前Jump Five成員烈利。</p></td>
-<td></td>
+<td><p><a href="../Page/李致林.md" title="wikilink">李致林</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>基順</p></td>
 <td><p>健美操講師，前Jump Five成員JJ。</p></td>
-<td></td>
+<td><p><a href="../Page/關令翹.md" title="wikilink">關令翹</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -171,7 +171,7 @@ Horribly**》（），為韓國[KBS2於](https://zh.wikipedia.org/wiki/KBS2 "wik
 <td></td>
 <td></td>
 <td><p>乙橓的母親</p></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/林丹鳳" title="wikilink">林丹鳳</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -220,13 +220,13 @@ Horribly**》（），為韓國[KBS2於](https://zh.wikipedia.org/wiki/KBS2 "wik
 <td><p><a href="https://zh.wikipedia.org/wiki/李相和" title="wikilink">李相和</a></p></td>
 <td></td>
 <td><p>弼立的母親為乙蕣施法祈求大運時在旁的助手</p></td>
-<td></td>
+<td><p><a href="../Page/張錦江.md" title="wikilink">張錦江</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/金英雄.md" title="wikilink">金英雄</a></p></td>
 <td><p>李刑警</p></td>
 <td><p>偵辦奇恩英作家命案的刑警，其後發現死者並非奇恩英而是她的助理李水晶</p></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李錦綸" title="wikilink">李錦綸</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -244,7 +244,7 @@ Horribly**》（），為韓國[KBS2於](https://zh.wikipedia.org/wiki/KBS2 "wik
 <td></td>
 <td></td>
 <td><p>與申允兒同監的女囚，女兒死於申允兒放火的那場火災</p></td>
-<td></td>
+<td><p><a href="../Page/黃玉娟.md" title="wikilink">黃玉娟</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -317,7 +317,7 @@ Horribly**》（），為韓國[KBS2於](https://zh.wikipedia.org/wiki/KBS2 "wik
 <td></td>
 <td></td>
 <td><p>《鬼神之戀》副導演向李成鍾和吳乙蕣推薦的命理師。</p></td>
-<td></td>
+<td><p><a href="../Page/葉振聲.md" title="wikilink">葉振聲</a></p></td>
 </tr>
 </tbody>
 </table>

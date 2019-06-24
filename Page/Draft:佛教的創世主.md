@@ -1,27 +1,14 @@
-[佛教思想否定](../Page/佛教.md "wikilink")[創世主論](https://zh.wikipedia.org/wiki/創造神 "wikilink")
-\[1\]。佛教在其[輪迴學說中開示了其對於神](https://zh.wikipedia.org/wiki/輪迴 "wikilink")、天堂和[結生的觀念](../Page/結生.md "wikilink")，但當中沒有一個神是其所謂的創世主；佛教也認為把[梵天等平凡的神視為創世主是一種謬誤](../Page/梵天_\(佛教\).md "wikilink")。由於佛教的本體論建基於主張「諸法因緣生，諸法因緣滅」的[緣起學說](../Page/緣起.md "wikilink")，故佛教否定無原因的世間見的存在。
+[佛教思想否定](../Page/佛教.md "wikilink")[創世主論](https://zh.wikipedia.org/wiki/創造神 "wikilink")\[1\]。佛教在其[輪迴學說中開示了其對於神](https://zh.wikipedia.org/wiki/輪迴 "wikilink")、天堂和[結生的觀念](../Page/結生.md "wikilink")，但當中沒有一個神是其所謂的創世主；佛教也認為把[梵天等平凡的神視為創世主是一種謬誤](../Page/梵天_\(佛教\).md "wikilink")。由於佛教的本體論建基於主張「諸法因緣生，諸法因緣滅」的[緣起學說](../Page/緣起.md "wikilink")，故佛教否定無原因的世間見的存在。
 
 ## 早期佛經
 
-According to
-[Buddhologist](https://zh.wikipedia.org/wiki/Buddhology "wikilink")
-[Richard
-Hayes](https://zh.wikipedia.org/wiki/Richard_Hayes_\(professor\) "wikilink"),
-the early Buddhist
-[Nikaya](https://zh.wikipedia.org/wiki/Nikaya "wikilink") literature
-treats the question of the existence of a creator god "primarily from
-either an epistemological point of view or a moral point of view". In
-these texts the
-[Buddha](https://zh.wikipedia.org/wiki/Buddha "wikilink") is portrayed
-not as a creator-denying atheist who claims to be able to prove such a
-God's nonexistence, but rather his focus is other teachers' claims that
-their teachings lead to the highest good.\[2\]
+根據[佛教研究者](https://zh.wikipedia.org/wiki/佛教研究 "wikilink")所述，早期佛教[尼柯耶文學主要由認識論觀點與道德觀點看待創世主是否存在的問題](../Page/尼柯耶.md "wikilink")。在這些文獻中，[佛陀被描繪成一個不否認創世主存在](../Page/释迦牟尼.md "wikilink")，也未能夠證明創世主的不存在的無神論者，但他的重點在於其他教師聲稱他們的教導帶來了最大的利益。
 
 Citing the *Devadaha Sutta* (Majjhima Nikaya 101), Hayes states, "while
 the reader is left to conclude that it is attachment rather than God,
 actions in past lives, fate, type of birth or efforts in this life that
 is responsible for our experiences of sorrow, no systematic argument is
-given in an attempt to disprove the existence of God."\[3\]
+given in an attempt to disprove the existence of God."
 
 ### 梵天作為偽創世主
 
@@ -67,7 +54,7 @@ beings."
 
 ### 世亲
 
-公元5世紀印度佛教論師[世亲在其論書](../Page/世亲.md "wikilink")《[阿毗达磨俱舍论](../Page/阿毗达磨俱舍论.md "wikilink")》中認為造物主的獨特身份與他創造的世界是不相容的。\[4\]
+公元5世紀印度佛教論師[世亲在其論書](../Page/世亲.md "wikilink")《[阿毗达磨俱舍论](../Page/阿毗达磨俱舍论.md "wikilink")》中認為創世主的獨特身份與他創造的世界是不相容的。
 
 中國唐朝僧人[玄奘](../Page/玄奘.md "wikilink") (fl. c. 602–664) studied Buddhism
 in India during the seventh century, staying at
@@ -81,15 +68,15 @@ and taught to him by the abbot
 his work *[Cheng Weishi
 Lun](https://zh.wikipedia.org/wiki/Cheng_Weishi_Lun "wikilink")* (Skt.
 *Vijñāptimātratāsiddhi śāstra*), Xuanzang refutes a "Great Lord" or
-Great Brahmā doctrine:\[5\]
+Great Brahmā doctrine:\[2\]
 
 ### 其他
 
 公元七世紀印度佛學家[法稱](https://zh.wikipedia.org/wiki/法稱 "wikilink") advances a
 number of arguments against the existence of a creator god in his
-*Pramāṇavārtika*, following in the footsteps of Vasubandhu.\[6\]
-Later Mahayana scholars such as Śāntarakṣita and Kamalaśīla continued
-this tradition.\[7\]
+*Pramāṇavārtika*, following in the footsteps of Vasubandhu. Later
+Mahayana scholars such as Śāntarakṣita and Kamalaśīla continued this
+tradition.
 
 The 11th-century Buddhist philosopher
 [Ratnakīrti](https://zh.wikipedia.org/wiki/Ratnakīrti "wikilink") at
@@ -102,7 +89,7 @@ Hinduism](https://zh.wikipedia.org/wiki/Nyaya#Nyaya_on_God_and_salvation "wikili
 in his “Refutation of Arguments Establishing Īśvara”
 (Īśvara-sādhana-dūṣaṇa). These arguments are similar to those used
 by other sub-schools of Hinduism and Jainism that questioned the
-Navya-Nyaya theory of dualistic creator.\[8\]
+Navya-Nyaya theory of dualistic creator.\[3\]
 
 ## 參見
 
@@ -128,29 +115,18 @@ Navya-Nyaya theory of dualistic creator.\[8\]
 
   - [Vairocana](https://zh.wikipedia.org/wiki/Vairocana "wikilink")
 
-## References
+## 脚注
 
-## Bibliography
+## 參考來源
 
+  -
   -
   -
 <!-- end list -->
 
 1.
-2.  Hayes, Richard P., ["Principled Atheism in the Buddhist Scholastic
-    Tradition"](http://www.unm.edu/~rhayes/atheism.pdf), *Journal of
-    Indian Philosophy*, 16:1 (1988:Mar) pgs 5-6, 8
-3.  Hayes, Richard P., "Principled Atheism in the Buddhist Scholastic
-    Tradition", *Journal of Indian Philosophy*, 16:1 (1988:Mar) pgs 9-10
-4.  Hayes, Richard P., ["Principled Atheism in the Buddhist Scholastic
-    Tradition"](http://www.unm.edu/~rhayes/atheism.pdf), *Journal of
-    Indian Philosophy*, 16:1 (1988:Mar.) pg 11-15.
-5.  Cook, Francis, Chʿeng Wei Shih Lun (*Three Texts on Consciousness
+2.  Cook, Francis, Chʿeng Wei Shih Lun (*Three Texts on Consciousness
     Only*), Numata Center, Berkeley, 1999, , pp. 20-21.
-6.  Hayes, Richard P., "Principled Atheism in the Buddhist Scholastic
-    Tradition," *Journal of Indian Philosophy*, 16:1 (1988:Mar.) pg 12
-7.  Hayes, Richard P., "Principled Atheism in the Buddhist Scholastic
-    Tradition," *Journal of Indian Philosophy*, 16:1 (1988:Mar.) pg 14
-8.  Parimal G. Patil. Against a Hindu God: Buddhist Philosophy of
+3.  Parimal G. Patil. Against a Hindu God: Buddhist Philosophy of
     Religion in India. New York: Columbia University Press, 2009. pp.
     3-4, 61-66 with footnotes, .

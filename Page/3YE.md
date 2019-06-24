@@ -21,7 +21,7 @@ Media當練習生](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")。
 Media旗下的練習生選秀節目](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")《[Baby
 Kara](../Page/Baby_Kara.md "wikilink")》，唯最終落敗。
 
-2017年，Yurim、Yuji及Haeun為五人女子團體Apple.B的成員，唯團體於2018年。團體解散後，三人均選擇留在公司。
+2017年，Yurim、Yuji及Haeun為五人女子團體Apple.B的成員，唯團體於2018年解散。團體解散後，三人均選擇繼續留在公司。
 
 2017年，Yuji及Haeun參與《[The
 Unit](../Page/The_Unit.md "wikilink")》選拔，Yuji順利成為參賽者，Haeun則落選。Yuji最終排名第58名，未能透過節目出道。

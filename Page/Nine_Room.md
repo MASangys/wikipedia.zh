@@ -367,9 +367,12 @@ Man](../Page/Big_Man.md "wikilink")》、《[拜託小姐](../Page/拜託小姐.
 
   - [韓國tvN官方網站](http://program.tving.com/tvn/roomno9/)
   - [NINE ROOM-NAVER](https://m.entertain.naver.com/tvBrand/8118260)
+  - [香港有線電視官方網站](http://epg.i-cable.com/ci/program/intro/598/9號房間)
 
 [Category:2018年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2018年韓國電視劇集 "wikilink")
 [Category:監獄背景作品](https://zh.wikipedia.org/wiki/Category:監獄背景作品 "wikilink")
+[Category:韓國奇幻劇](https://zh.wikipedia.org/wiki/Category:韓國奇幻劇 "wikilink")
+[Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink")
 
 1.
 2.

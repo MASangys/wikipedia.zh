@@ -46,7 +46,7 @@ WALKER的旗下完全子公司](https://zh.wikipedia.org/wiki/BOOK_WALKER "wikil
   - [Niconico動畫](../Page/Niconico動畫.md "wikilink")
   - [Niconico動漫](https://zh.wikipedia.org/wiki/Niconico動漫 "wikilink")
   - [Niconico直播](../Page/Niconico直播.md "wikilink")
-  - [Niconico頻道](https://zh.wikipedia.org/wiki/Niconico頻道 "wikilink")
+  - [Niconico頻道](../Page/Niconico頻道.md "wikilink")
   - [Niconico大百科](../Page/Niconico大百科.md "wikilink")
   - [BOOK☆WALKER](../Page/BOOK☆WALKER.md "wikilink")
 

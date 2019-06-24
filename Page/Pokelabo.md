@@ -30,7 +30,6 @@
 
   - [SINoALICE](../Page/SINoALICE.md "wikilink")
   - 戰姬絕唱Symphogear XD UNLIMITED
-  - [趴趴玩偶 LoveLive\!](../Page/趴趴玩偶_LoveLive!.md "wikilink")
   - AKB48 舞台鬥者2 戰鬥祭
 
 ### 遊戲營運轉移
@@ -131,6 +130,14 @@
   - SWORD OF PHANTASIA
   - 家族命運之戰
 
+<!-- end list -->
+
+  - 2019年5月31日結束
+
+<!-- end list -->
+
+  - [趴趴玩偶 LoveLive\!](../Page/趴趴玩偶_LoveLive!.md "wikilink")\[8\]
+
 ## 脚注
 
 <references />
@@ -154,3 +161,4 @@
     Pokelabo Inc.官方網站
 7.  [「ポイッとヒーロー」サービス終了に伴う...](http://pokelabo.co.jp/headline/20160414-2/)
     2016.04.14 Pokelabo Inc.官方網站
+8.

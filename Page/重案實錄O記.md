@@ -23,6 +23,11 @@
 | [李暉](../Page/李暉_\(香港\).md "wikilink")               | 李Sir下屬     |                                  |
 | [黃柏文](../Page/黃栢文.md "wikilink")                    | 李Sir下屬     |                                  |
 | [古天樂](../Page/古天樂.md "wikilink")                    | 阿東手下       |                                  |
+| [龍天生](../Page/龍天生.md "wikilink")                    |            |                                  |
+| [藍靖](https://zh.wikipedia.org/wiki/藍靖 "wikilink")   | 劉Sir下屬     |                                  |
+| [伊凡威](https://zh.wikipedia.org/wiki/伊凡威 "wikilink") |            |                                  |
+| [羅冠蘭](../Page/羅冠蘭.md "wikilink")                    |            |                                  |
+| [夏占士](https://zh.wikipedia.org/wiki/夏占士 "wikilink") |            |                                  |
 
 ## 参考资料
 

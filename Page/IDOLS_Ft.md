@@ -1,5 +1,5 @@
 **IDOLS Ft**，全称**Idol Studio
-Ft**，为[上海丝芭文化传媒集团有限公司旗下于](../Page/丝芭传媒.md "wikilink")2019年成立的一个基于互联网的偶像养成女团，其定义为「大型网络偶像养成女团」。IDOLS
+Ft**，简称**IDFT**，为[上海丝芭文化传媒集团有限公司旗下于](../Page/丝芭传媒.md "wikilink")2019年成立的一个基于互联网的偶像养成女团，其定义为「大型网络偶像养成女团」。IDOLS
 Ft成立于2019年1月19日，该团体现有成员84名，均为[SNH48
 Group成员移籍而来](https://zh.wikipedia.org/wiki/SNH48#SNH48_Group "wikilink")。
 
@@ -102,18 +102,6 @@ Group的组成部分。该团成员会透过运营商自有的渠道及其他第
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>K</p></td>
-<td><p>邓倩</p></td>
-<td></td>
-<td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/四川" title="wikilink">四川</a> <a href="https://zh.wikipedia.org/wiki/遂宁" title="wikilink">遂宁</a></p></td>
-<td><p>CKG48 1期</p></td>
-<td><p>又名刘弋菡<br />
-同时为CKG48成员</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p>HIII</p></td>
 <td><p>刁滢</p></td>
 <td></td>
@@ -124,18 +112,18 @@ Group的组成部分。该团成员会透过运营商自有的渠道及其他第
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>K</p></td>
 <td><p>戴紫薇</p></td>
 <td></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/重庆" title="wikilink">重庆</a></p></td>
 <td><p>CKG48 2期</p></td>
-<td><p>同时为CKG48成员</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>SHY预</p></td>
 <td><p>冯嘉宝</p></td>
 <td></td>
@@ -146,7 +134,7 @@ Group的组成部分。该团成员会透过运营商自有的渠道及其他第
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>NIII</p></td>
 <td><p>冯嘉希</p></td>
 <td></td>
@@ -157,7 +145,7 @@ Group的组成部分。该团成员会透过运营商自有的渠道及其他第
 <td><p>GNZ48第11名</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>SIII</p></td>
 <td><p>冯译莹</p></td>
 <td></td>
@@ -168,7 +156,7 @@ Group的组成部分。该团成员会透过运营商自有的渠道及其他第
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>SIII</p></td>
 <td><p>付紫琪</p></td>
 <td></td>
@@ -179,7 +167,7 @@ Group的组成部分。该团成员会透过运营商自有的渠道及其他第
 <td><p>SHY48第10名</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>HIII</p></td>
 <td><p>高志娴</p></td>
 <td></td>
@@ -190,7 +178,7 @@ Group的组成部分。该团成员会透过运营商自有的渠道及其他第
 <td><p>SHY48第5名</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>HIII</p></td>
 <td><p>黄嘉怡</p></td>
 <td></td>
@@ -201,7 +189,7 @@ Group的组成部分。该团成员会透过运营商自有的渠道及其他第
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>K</p></td>
 <td><p>韩林芹</p></td>
 <td></td>
@@ -212,7 +200,7 @@ Group的组成部分。该团成员会透过运营商自有的渠道及其他第
 <td><p>CKG48第10名</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>K</p></td>
 <td><p>黄琬璎</p></td>
 <td></td>
@@ -223,7 +211,7 @@ Group的组成部分。该团成员会透过运营商自有的渠道及其他第
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>C</p></td>
 <td><p>康兆薇</p></td>
 <td></td>
@@ -234,7 +222,7 @@ Group的组成部分。该团成员会透过运营商自有的渠道及其他第
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>J</p></td>
 <td><p>兰昊</p></td>
 <td></td>
@@ -245,7 +233,7 @@ Group的组成部分。该团成员会透过运营商自有的渠道及其他第
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>SIII</p></td>
 <td><p>李慧</p></td>
 <td></td>
@@ -256,7 +244,7 @@ Group的组成部分。该团成员会透过运营商自有的渠道及其他第
 <td><p>SHY48第6名</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>BEJ预</p></td>
 <td><p>李海淋</p></td>
 <td></td>
@@ -267,7 +255,7 @@ Group的组成部分。该团成员会透过运营商自有的渠道及其他第
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>J</p></td>
 <td><p>李泓瑶</p></td>
 <td></td>
@@ -278,7 +266,7 @@ Group的组成部分。该团成员会透过运营商自有的渠道及其他第
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Z</p></td>
 <td><p>赖俊亦</p></td>
 <td></td>
@@ -289,7 +277,7 @@ Group的组成部分。该团成员会透过运营商自有的渠道及其他第
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>G</p></td>
 <td><p>梁可</p></td>
 <td></td>
@@ -301,7 +289,7 @@ Group的组成部分。该团成员会透过运营商自有的渠道及其他第
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>HIII</p></td>
 <td><p>李晴</p></td>
 <td></td>
@@ -312,7 +300,7 @@ Group的组成部分。该团成员会透过运营商自有的渠道及其他第
 <td><p>SHY48第15名</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>BEJ预</p></td>
 <td><p>李清雨</p></td>
 <td></td>
@@ -323,18 +311,18 @@ Group的组成部分。该团成员会透过运营商自有的渠道及其他第
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>HIII</p></td>
 <td><p>李苏洪</p></td>
 <td></td>
-<td><p>6月20日</p></td>
+<td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/安徽" title="wikilink">安徽</a></p></td>
 <td><p>SHY48 3期</p></td>
-<td></td>
+<td><p>代役SNH48 Team X</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>E</p></td>
 <td><p>罗雪丽</p></td>
 <td></td>
@@ -342,6 +330,18 @@ Group的组成部分。该团成员会透过运营商自有的渠道及其他第
 <td><p><a href="https://zh.wikipedia.org/wiki/贵州" title="wikilink">贵州</a> <a href="https://zh.wikipedia.org/wiki/贵阳" title="wikilink">贵阳</a></p></td>
 <td><p>SNH48 6期</p></td>
 <td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>K</p></td>
+<td><p>刘弋菡</p></td>
+<td></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/四川" title="wikilink">四川</a> <a href="https://zh.wikipedia.org/wiki/遂宁" title="wikilink">遂宁</a></p></td>
+<td><p>CKG48 1期</p></td>
+<td><p>原名邓倩<br />
+同时为CKG48成员</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -771,7 +771,7 @@ Group的组成部分。该团成员会透过运营商自有的渠道及其他第
 <td><p><a href="https://zh.wikipedia.org/wiki/重庆" title="wikilink">重庆</a></p></td>
 <td><p>GNZ48 6期</p></td>
 <td><p>2019年3月11日</p></td>
-<td><p>官方网页未有列出</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1162,7 +1162,7 @@ Ft，但将可以以CKG48成员名义参与团体活动。
 
 ## 争议
 
-由于该团被定义为“大型网络偶像养成女团”，加之其宣称该团成员主要活动方式为线上互动，因此有关消息被释出后，旋即引起网民对该团性质的质疑，并有声音称该举实际上“令偶像变为[主播](https://zh.wikipedia.org/wiki/新聞主播#网络主播 "wikilink")”\[5\]。有网民指责运营商解散SNH48
+由于该团被定义为“大型网络偶像养成女团”，加之运营商宣称该团成员主要活动方式为线上互动，因此有关消息被释出后，旋即引起网民对该团性质的质疑，并有声音称该举实际上“令偶像变为[主播](https://zh.wikipedia.org/wiki/新聞主播#网络主播 "wikilink")”\[5\]。有网民指责运营商解散SNH48
 Group的其中五支正式成员队伍及成立该团之举动不尽人意，称“粉丝花钱去应援，或许还没到家就接到偶像（所属队伍）解散当主播的消息，搁谁都不会满意”\[6\]。
 
 运营商就此回应传媒查询时指，其成立该团的目的为方便成员与粉丝互动，及让粉丝参与造星过程，同时表示该团的运作模式“与偶像选拔综艺没有本质上的不同”\[7\]，并指该团成员有根据表现、人气加入或回归SNH48、BEJ48及GNZ48的正式成员队伍的可能\[8\]。

@@ -1,3 +1,4 @@
+[右](https://zh.wikipedia.org/wiki/File:Haplogrupo_C1a_\(ADN-Y\).png "fig:右")
 **单倍群C-M8**（Haplogroup C-M8）又称为**单倍群C1a1**（Haplogroup
 C1a1），属于C-M130的下游支系，整个C单倍群分为
 C1（C-F3393）和C2（C-M217），C1则分为C1a和C1b两支，C1a则又分为两支C1a1(C-M8)和C1a2。C1a在世界范围内是极其罕见的，主要是分布在东亚(C1a1)或欧洲(C1a2)，C1a1(C-M8)暂时没有发现古样本，在日本现代人群中约有5%的男性属于此单倍群\]\].\[1\]

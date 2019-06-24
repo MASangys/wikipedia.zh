@@ -23,6 +23,16 @@
 </ul></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p><strong>2nd</strong></p></td>
+<td><p><strong>《Uh-Oh》</strong></p>
+<ul>
+<li>发行日期：2019年6月26日</li>
+<li>语言：韩语</li>
+<li>类型：</li>
+</ul></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -189,6 +199,7 @@
 | 2018年9月28日  | [STATION X 0](https://zh.wikipedia.org/wiki/SM_STATION#第三季「STATION_X_0」 "wikilink") | Wow Thing\[15\] | [康瑟琪](https://zh.wikipedia.org/wiki/康瑟琪 "wikilink")、[黄恩妃](https://zh.wikipedia.org/wiki/黄恩妃 "wikilink")、[金请夏](https://zh.wikipedia.org/wiki/金请夏 "wikilink")、[田小娟](https://zh.wikipedia.org/wiki/田小娟 "wikilink") |      |
 | 2019年1月15日  | Hutazone\[16\]                                                                      | 你也是？我也是！        | [李旼赫](../Page/李旼赫.md "wikilink")(feat.[田小娟](https://zh.wikipedia.org/wiki/田小娟 "wikilink"))                                                                                                                      |      |
 | 2019年3月4日   | I Wanna Be正规一辑Repackage\[17\]                                                       | I Wanna Be      | [金起范](https://zh.wikipedia.org/wiki/Key_\(歌手\) "wikilink")(feat.[田小娟](https://zh.wikipedia.org/wiki/田小娟 "wikilink"))                                                                                            |      |
+| 2019年6月8日   | /                                                                                   | The loveless    | [田小娟](https://zh.wikipedia.org/wiki/田小娟 "wikilink")                                                                                                                                                             |      |
 
 ## 日语作品
 
@@ -472,6 +483,14 @@
 <td><p>√</p></td>
 <td></td>
 <td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>The loveless</p></td>
+<td><p>田小娟</p></td>
+<td></td>
+<td></td>
+<td><p>√</p></td>
 <td></td>
 </tr>
 </tbody>

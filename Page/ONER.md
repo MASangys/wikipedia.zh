@@ -5,7 +5,7 @@
 2018年1月26日發布第二首單曲《解药》，並以此作為在偶像練習生參賽首輪等級評價的表演曲目。
 
 2018年4月16日正式對外宣布組合名為ONER\[1\]。2018年5月20日於北京舉辦首次粉絲見面會\[2\]
-，並在見面會上正式發布第三首單曲《空間》。2018年8月30日宣布正式出道並發行首張專輯《過敏》\[3\]
+，並在見面會上正式發布第三首單曲《空間》。2018年8月30日宣布正式出道並發行首張專輯《過敏》\[3\]，2019年5月23日於記者會上發布第二張專輯的相關訊息以及團隊成員的個人應援色。
 
 ## 成員資料
 
@@ -23,7 +23,7 @@
 <td><p>個人應援色</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/岳岳" title="wikilink">岳岳</a></p></td>
+<td><p><a href="../Page/岳岳.md" title="wikilink">岳岳</a></p></td>
 <td><p>岳明輝</p></td>
 <td><p>Pinkray</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/北京" title="wikilink">北京</a></p></td>
@@ -112,20 +112,34 @@
 <td><p>華語</p></td>
 <td><p><a href="../Page/滾石唱片.md" title="wikilink">滾石唱片</a></p></td>
 <td><ul>
-<li>序曲：生 (Intro)</li>
-<li><a href="https://www.youtube.com/watch?v=VBnRxIYb57k">無我 (Work)</a></li>
-<li><a href="https://www.youtube.com/watch?v=Zd4AkF2QNio">過敏 (Allergy)</a></li>
-<li><a href="https://www.youtube.com/watch?v=JIEWRGw9tn0">獨白 (Sing Alone)</a></li>
-<li><a href="https://www.youtube.com/watch?v=Gg1XY_mlyYU">炫實 (Dazzle)</a></li>
-<li><a href="https://www.youtube.com/watch?v=HSUpVKdCg6Q">會不會 (Will U)</a></li>
-<li><a href="https://www.youtube.com/watch?v=qEgDy0dPWMk">瞬 (All Falls Down)</a></li>
-<li>序曲：夢 (Outro)</li>
+<li><a href="https://www.youtube.com/watch?v=VBnRxIYb57k">無我（Work）</a></li>
+<li><a href="https://www.youtube.com/watch?v=Zd4AkF2QNio">過敏（Allergy）</a></li>
+<li><a href="https://www.youtube.com/watch?v=JIEWRGw9tn0">獨白（Sing Alone）</a></li>
+<li><a href="https://www.youtube.com/watch?v=Gg1XY_mlyYU">炫實（Dazzle）</a></li>
+<li><a href="https://www.youtube.com/watch?v=HSUpVKdCg6Q">會不會（Will U）</a></li>
+<li><a href="https://www.youtube.com/watch?v=qEgDy0dPWMk">瞬（All Falls Down）</a></li>
 </ul></td>
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=bhdu36quAWY">過敏</a></li>
 <li><a href="https://www.youtube.com/watch?v=EzUGWfQdkvA">炫實</a></li>
 <li><a href="https://www.youtube.com/watch?v=437XWiIakpk">瞬</a></li>
 </ul></td>
+</tr>
+<tr class="even">
+<td><p>2nd</p></td>
+<td><p>《舞會》</p></td>
+<td><p>2019</p></td>
+<td><p>華語</p></td>
+<td><p><a href="../Page/滾石唱片.md" title="wikilink">滾石唱片</a></p></td>
+<td><ul>
+<li>凶猛（Attack）</li>
+<li>想念你（Missing You）</li>
+<li>大亨（K o clock）</li>
+<li>我多在意你离开（Greedy）</li>
+<li>被藏起的一页（Shakespeare）</li>
+<li>存在即完美（Celebrate）</li>
+</ul></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -188,6 +202,7 @@
 | 2018年11月10日 | 首張專輯 《過敏》 簽售會-成都站        | 成都sm廣場大喜劇場     |                           |
 | 2018年11月24日 | 首張專輯 《過敏》 簽售會-廣州站        | 廣州西城都荟南广场      |                           |
 | 2018年12月8日  | 首張專輯 《過敏》 簽售會-西安站        | 西安索菲特人民大廈人民大劇院 | 慶祝出道100天                  |
+| 2019年7月12日  | 第二張專輯《舞會》首秀舞台            | 北京工人體育館        |                           |
 
 ## 參考資料
 
@@ -195,12 +210,11 @@
 
 ## 外部連結
 
-  -
-  -
-  -
-  -
-  -
-  -
+  - [ONER的新浪微博](https://www.weibo.com/u/6524267181?is_hot=1)
+  - [岳岳的新浪微博](https://www.weibo.com/u/6392771552?from=feed&loc=at&nick=岳岳PINKRAY&is_hot=1)
+  - [木子洋的新浪微博](https://www.weibo.com/u/6400910760?from=feed&loc=at&nick=木子洋KWIN&is_hot=1)
+  - [卜凡的新浪微博](https://www.weibo.com/u/6400912332?from=feed&loc=at&nick=卜凡KATTO&is_hot=1)
+  - [靈超的新浪微博](https://www.weibo.com/u/6400910962?from=feed&loc=at&nick=灵超DIDI&is_hot=1)
   - [坤音娛樂官方Bilibili頻道](https://space.bilibili.com/172392717/)
 
 [Category:中國男子演唱團體](https://zh.wikipedia.org/wiki/Category:中國男子演唱團體 "wikilink")

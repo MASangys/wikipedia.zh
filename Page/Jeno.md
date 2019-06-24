@@ -7,11 +7,10 @@ DREAM成員。
 四歲時以廣告童星出道，拍攝過三十幾支廣告，其中最爲人熟知的是首爾牛奶的廣告，經常在節目上讓著重演廣告畫面。\[1\]有一名1997年出生的姐姐，養了三只貓：奉植、小春和小節（名字合在一起是‘春節’）\[2\]。雖然養了三隻貓，但是對貓過敏。是因為SHINee泰民前輩才來到SM的，本來媽媽想拒絕SM的邀請，後來和Jeno談過後說了想去才去SM面試。
 
 2013年12月3日，於S.M.
-Entertainment的預備明星平台[SMROOKIES正式公開](../Page/SM_ROOKIES.md "wikilink")\[3\]，同時也是首批公開的成員。因其長相與[Super
-Junior成員](../Page/Super_Junior.md "wikilink")[東海相似](../Page/東海_\(藝人\).md "wikilink")，因此有"小東海"之稱\[4\]。2016年8月25日作爲NCT
-DREAM成員正式出道，在團隊屬於門面及舞蹈擔當\[5\]。
+Entertainment的預備明星平台[SMROOKIES正式公開](../Page/SM_ROOKIES.md "wikilink")\[3\]，同時也是首批公開的成員。。2016年8月25日作爲NCT
+DREAM成員正式出道，在團隊屬於門面及舞蹈擔當\[4\]。
 
-Jeno曾就讀於[首爾公演藝術高中](../Page/首尔公演艺术高中.md "wikilink")，與同組合成員渽民及[楷燦是同學](../Page/楷燦.md "wikilink")，高中時期在學校人氣很高，後因活動忙碌退學。Jeno擁有驚人的學習能力，曾只用了三日溫習就取得了97分，全校第十的學霸。但Jeno並未參加韓國的大學入學考試，但通過了韓國高中學歷檢定考試。\[6\]。
+Jeno曾就讀於[首爾公演藝術高中](../Page/首尔公演艺术高中.md "wikilink")，與同組合成員[渽民及](https://zh.wikipedia.org/wiki/渽民 "wikilink")[楷燦是同學](../Page/楷燦.md "wikilink")，高中時期在學校人氣很高，後因活動忙碌退學。Jeno擁有驚人的學習能力，曾只用了三日溫習就取得了97分，全校第十的學霸。但Jeno並未參加韓國的大學入學考試，但通過了韓國高中學歷檢定考試。\[5\]。
 
 是道英的最愛之一。近視很深，覺得自己戴眼鏡不好看所以平常都戴隱形眼鏡，但在YouTube《NCT DAILY - Recording
 Diary》戴著眼鏡錄製的視頻播出後受到西珍妮的喜愛，本人得知粉絲們喜愛後，現在不時展現戴眼鏡好看的樣子 。是隊內NO JAM
@@ -40,7 +39,7 @@ Club》。
 
 2016年8月24日，隨組合NCT DREAM發行出道單曲《Chewing Gum》。
 
-2016年8月25日，隨組合於Ment音樂節目《M\! Countdown》表演出道舞台，正式宣告出道\[7\]。
+2016年8月25日，隨組合於Ment音樂節目《M\! Countdown》表演出道舞台，正式宣告出道\[6\]。
 
 2018年5月22日，於每周二擔任《The Show》固定MC。
 
@@ -62,7 +61,7 @@ DREAM SHOW。
 | 年份   | 歌曲                   | 專輯                                             | 備註                                        |
 | ---- | -------------------- | ---------------------------------------------- | ----------------------------------------- |
 | 2015 | 主題曲                  | Mickey Mouse Club                              | 與 Mark、渽民、楷燦、志晟、高恩、Hina、Herin、Lami        |
-| 2018 | Hair in the Air\[8\] | [SM Station](../Page/SM_STATION.md "wikilink") | 與[Yeri](../Page/Yeri.md "wikilink")、仁俊、渽民 |
+| 2018 | Hair in the Air\[7\] | [SM Station](../Page/SM_STATION.md "wikilink") | 與[Yeri](../Page/Yeri.md "wikilink")、仁俊、渽民 |
 
 ## 影視作品
 
@@ -72,13 +71,13 @@ DREAM SHOW。
 
 | 年份   | 名稱                                                  | 地區 | 性質 | 角色       | 合作者                              |
 | ---- | --------------------------------------------------- | -- | -- | -------- | -------------------------------- |
-| 2006 | [不需要愛情](../Page/不需要爱情的夏天_\(电影\).md "wikilink")\[9\] | 韓國 | 客串 | 女主哥哥的小時候 | [文根英](../Page/文瑾瑩.md "wikilink") |
+| 2006 | [不需要愛情](../Page/不需要爱情的夏天_\(电影\).md "wikilink")\[8\] | 韓國 | 客串 | 女主哥哥的小時候 | [文根英](../Page/文瑾瑩.md "wikilink") |
 
 ### 網劇
 
-| 年份   | 名稱                                             | 集數 | 角色 | 性質 | 備註            |
-| ---- | ---------------------------------------------- | -- | -- | -- | ------------- |
-| 2018 | [A TEEN](../Page/A-TEEN_\(電視劇\).md "wikilink") | 20 | 學生 | 客串 | 與渽民共同客串\[10\] |
+| 年份   | 名稱                                             | 集數 | 角色 | 性質 | 備註           |
+| ---- | ---------------------------------------------- | -- | -- | -- | ------------ |
+| 2018 | [A TEEN](../Page/A-TEEN_\(電視劇\).md "wikilink") | 20 | 學生 | 客串 | 與渽民共同客串\[9\] |
 
 ### 節目主持
 
@@ -92,8 +91,8 @@ DREAM SHOW。
 | ---- | ------------------------------------------- | ----------------------------------------------------------- | ----------------- |
 | 2014 | EXO90:2014                                  | [Mnet](../Page/Mnet媒體.md "wikilink")                        | 首次亮相綜藝節目          |
 | 2015 | Mickey Mouse Club                           | [Disney Channel](../Page/迪士尼頻道.md "wikilink")               |                   |
-| 2018 | [MBC偶像明星運動會](../Page/偶像明星運動會.md "wikilink") | [MBC](../Page/文化廣播公司.md "wikilink")                         | 中秋特輯：參與射箭項目\[11\] |
-| 2019 | 最好的一天\[12\]                                 | MBC                                                         | 印尼公益節目；與渽民        |
+| 2018 | [MBC偶像明星運動會](../Page/偶像明星運動會.md "wikilink") | [MBC](../Page/文化廣播公司.md "wikilink")                         | 中秋特輯：參與射箭項目\[10\] |
+| 2019 | 最好的一天\[11\]                                 | MBC                                                         | 印尼公益節目；與渽民        |
 | 2019 | Idol Battleground                           | [Naver網絡節目](https://zh.wikipedia.org/wiki/Naver "wikilink") | 電子遊戲；與渽民、辰樂、志晟、神童 |
 
 ### 雜誌
@@ -119,12 +118,11 @@ DREAM SHOW。
 3.
 4.
 5.
-6.
-7.   M COUNTDOWN 160825
+6.   M COUNTDOWN 160825
     EP.490|url=[https://www.youtube.com/watch?v=tu-8AJBqUm8|accessdate=2019-01-10](https://www.youtube.com/watch?v=tu-8AJBqUm8%7Caccessdate=2019-01-10)}}
-8.
-9.  \[N'-61\] Dream vs Dream視頻中提及
-10.
-11.  NCT (엔시티) Amino|accessdate=2019-01-10|work=NCT (엔시티) {{\!}}
+7.
+8.  \[N'-61\] Dream vs Dream視頻中提及
+9.
+10.  NCT (엔시티) Amino|accessdate=2019-01-10|work=NCT (엔시티) {{\!}}
     aminoapps.com}}
-12.
+11.

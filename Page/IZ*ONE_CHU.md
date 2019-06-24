@@ -12,7 +12,7 @@ CHU**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Mnet�
     （對窗，下）曺柔理（對門，上）、宮脇咲良（對門，下））。
   - 出道前為增進團員感情，到訪本田仁美於[日本](../Page/日本.md "wikilink")[栃木縣的家和常去的旅館](../Page/栃木縣.md "wikilink")。
   - 出道前4天進行報恩Tour。權恩妃、安兪真、金珉周為[崔容俊老師報恩](../Page/崔容俊.md "wikilink")；姜惠元、矢吹奈子、本田仁美、曺柔理為[李洪基](../Page/李洪基.md "wikilink")、[韶宥和](https://zh.wikipedia.org/wiki/韶宥 "wikilink")《[Produce
-    48](https://zh.wikipedia.org/wiki/Produce_48 "wikilink")》忙內製作人報恩；張元英、金彩元、李彩讌為裴允靜老師報恩；崔叡娜為家人報恩，宮脇咲良則為其他團員報恩。團隊也為120位粉絲開第一集首映禮。
+    48](https://zh.wikipedia.org/wiki/Produce_48 "wikilink")》忙內製作人報恩；張元英、金彩元、李彩演為裴允靜老師報恩；崔叡娜為家人報恩，宮脇咲良則為其他團員報恩。團隊也為120位粉絲開第一集首映禮。
   - 出道第11天，擊敗[MONSTA
     X](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")，迅速拿下《[M
     Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》首位的花絮，當晚，[TWICE也因為](https://zh.wikipedia.org/wiki/TWICE "wikilink")《[YES

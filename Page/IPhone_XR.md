@@ -170,7 +170,7 @@ nano-SIM与eSIM（其余版本）</p></td>
 </tr>
 <tr class="odd">
 <td><p>系统</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/iOS_12" title="wikilink">iOS 12</a>（可升级至iOS 12.2）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS_12" title="wikilink">iOS 12</a>（可升级至iOS 12.3.1）</p></td>
 </tr>
 <tr class="even">
 <td><p>后置相机</p></td>

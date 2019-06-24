@@ -1,10 +1,10 @@
-**小羅溫·亞歷山大·巴瑞特**（，），通稱**R·J·巴瑞特**（），出生於[安大略省](../Page/安大略省.md "wikilink")[多倫多](https://zh.wikipedia.org/wiki/多倫多 "wikilink")，美國現役隊員。場上主要位置為[得分後衛](https://zh.wikipedia.org/wiki/得分後衛 "wikilink")，目前被視為[2019年NBA選秀的探花熱門人選之一](https://zh.wikipedia.org/wiki/2019年NBA選秀 "wikilink")。
+**小羅溫·亞歷山大·巴瑞特**（，），通稱**R·J·巴瑞特**（），出生於[安大略省](../Page/安大略省.md "wikilink")[多倫多](https://zh.wikipedia.org/wiki/多倫多 "wikilink")，美國現役隊員。場上主要位置為[小前鋒](https://zh.wikipedia.org/wiki/小前鋒 "wikilink")，[2019年NBA選秀的探花](https://zh.wikipedia.org/wiki/2019年NBA選秀 "wikilink")。
 
-R·J·巴瑞特為的成員，曾隨隊獲得金牌，自身亦榮獲[U19世界青年籃球錦標賽最有價值球員殊榮](https://zh.wikipedia.org/wiki/U19世界青年籃球錦標賽 "wikilink")。
+巴瑞特為的成員，曾隨隊獲得金牌，自身亦榮獲[U19世界青年籃球錦標賽最有價值球員殊榮](https://zh.wikipedia.org/wiki/U19世界青年籃球錦標賽 "wikilink")。
 
 ## 高中時期
 
-巴瑞特是前[聖若望大學著名球員](../Page/聖若望大學.md "wikilink")的兒子，從小即展現出了過人的籃球天賦。巴瑞特原先就讀於[安大略省](../Page/安大略省.md "wikilink")[密西沙加當地的](../Page/密西沙加.md "wikilink")，後來轉學至[佛羅里達州](https://zh.wikipedia.org/wiki/佛羅里達州 "wikilink")[蒙特沃德的籃球名校](https://zh.wikipedia.org/wiki/蒙特沃德_\(佛羅里達州\) "wikilink")－[蒙特沃德學院](https://zh.wikipedia.org/wiki/蒙特沃德學院 "wikilink")。\[1\]\[2\]高一的時候巴瑞特就已經在蒙特沃德學院坐穩先發的位置，同時他也成為了校隊的得分王。在各項高中生排行榜中，巴瑞特從未跌落過前三名。2016年，巴瑞特獲邀參加，他在比賽中攻下22分，且送出了8次助攻，榮獲當年的經典賽最有價值球員獎。\[3\]
+巴瑞特是前[聖若望大學著名球員](../Page/聖若望大學.md "wikilink")的兒子，從小即展現出了過人的籃球天賦。巴瑞特原先就讀於[安大略省](../Page/安大略省.md "wikilink")[密西沙加當地的](../Page/密西沙加.md "wikilink")，後來轉學至[佛羅里達州](https://zh.wikipedia.org/wiki/佛羅里達州 "wikilink")[蒙特沃德的籃球名校](https://zh.wikipedia.org/wiki/蒙特沃德_\(佛羅里達州\) "wikilink")[蒙特沃德學院](https://zh.wikipedia.org/wiki/蒙特沃德學院 "wikilink")。\[1\]\[2\]高一的時候巴瑞特就已經在蒙特沃德學院坐穩先發的位置，同時他也成為了校隊的得分王。在各項高中生排行榜中，巴瑞特從未跌落過前三名。2016年，巴瑞特獲邀參加，他在比賽中攻下22分，且送出了8次助攻，榮獲當年的經典賽最有價值球員獎。\[3\]
 
 巴瑞特在2017–18賽季帶領蒙特沃德學院取得31勝0敗的全勝戰績，高居全美第一。他在高四賽季場均能夠攻下28.7分、8.5個籃板、4.5次助攻以及1.5次抄截，他的GPA高達3.14。也成為自[班·西蒙斯之後](https://zh.wikipedia.org/wiki/班·西蒙斯 "wikilink")，第二位奪得的蒙特沃德學院球員，此外巴瑞特也囊括了許多高中個人獎項：如以及。\[4\]
 

@@ -21,3 +21,4 @@ Tucker**）是一位[美國政治科學家和歷史學家](https://zh.wikipedia.
 [Category:美國歷史學家](https://zh.wikipedia.org/wiki/Category:美國歷史學家 "wikilink")
 [Category:哈佛大學校友](https://zh.wikipedia.org/wiki/Category:哈佛大學校友 "wikilink")
 [Category:普林斯頓大學教師](https://zh.wikipedia.org/wiki/Category:普林斯頓大學教師 "wikilink")
+[Category:研究共产主义的历史学家](https://zh.wikipedia.org/wiki/Category:研究共产主义的历史学家 "wikilink")

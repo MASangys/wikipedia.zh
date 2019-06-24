@@ -1,9 +1,10 @@
 **共和國之家**（[加泰隆尼亞語](https://zh.wikipedia.org/wiki/加泰隆尼亞語 "wikilink")：Casa
 de la
-República，），是[2017－2018年西班牙憲政危機後](../Page/2017－2018年西班牙憲政危機.md "wikilink")[加泰羅尼亞共和國流亡](https://zh.wikipedia.org/wiki/加泰羅尼亞共和國_\(2017年\) "wikilink")的居所及[流亡政府](../Page/流亡政府.md "wikilink")[共和委員會所在地](../Page/共和委員會.md "wikilink")。地址為比利時瓦隆-布拉班特省滑鐵盧律師大道40號\[1\]。
+República，），是[2017－2018年西班牙憲政危機後](../Page/2017－2018年西班牙憲政危機.md "wikilink")[加泰羅尼亞共和國流亡](https://zh.wikipedia.org/wiki/加泰羅尼亞共和國_\(2017年\) "wikilink")的居所及[流亡政府](../Page/流亡政府.md "wikilink")[共和國委員會所在地](https://zh.wikipedia.org/wiki/共和國委員會 "wikilink")。地址為比利時瓦隆-布拉班特省滑鐵盧律師大道40號\[1\]。
 
 La **Casa de la República** és la seu del [Consell per la
-República](../Page/共和委員會.md "wikilink") i residència del M.H.P. [Carles
+República](https://zh.wikipedia.org/wiki/共和國委員會 "wikilink") i
+residència del M.H.P. [Carles
 Puigdemont](../Page/卡萊斯·普吉德蒙.md "wikilink"), 130è
 [president](https://zh.wikipedia.org/wiki/加泰羅尼亞政府主席 "wikilink") de la
 [Generalitat de

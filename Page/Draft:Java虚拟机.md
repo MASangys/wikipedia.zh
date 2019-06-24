@@ -37,7 +37,7 @@ Class Loader）。
 
 ### 虚拟机架构
 
-Java虚拟机以原始值（整数及浮点数）及[引用的方式运行](../Page/參照.md "wikilink")，其本质上是一个32位的机器。64位的`long`和`double`类型数据被原生支持，但需要在帧的局部变量或操作数栈中占用两个存储单元（单个单元为32位）。`boolean`、`byte`、`short`及`char`均为[符号扩充类型](https://zh.wikipedia.org/wiki/符号扩充 "wikilink")（`char`使用[零扩展](https://zh.wikipedia.org/wiki/符号扩充#零扩展 "wikilink")），且以32位整数的形式（与`int`类型相同）运作。较小的数据类型仅有少量用于载入、存储于类型转换的特定指令。`boolean`类型被视为8位`byte`值，0代表`false`，1代表`true`。（虽然《Java虚拟机规范第二版》阐明`boolean`被认为是一种数据类型，但除[类型特征的](https://zh.wikipedia.org/wiki/类型特征 "wikilink")[名字修饰及boolean数组类型外](../Page/名字修饰.md "wikilink")`boolean`和`byte`无太大区别。`boolean`类型的方法签名为`Z`
+Java虚拟机以原始值（整数及浮点数）及[引用的方式运行](../Page/參照.md "wikilink")，其本质上是一个32位的机器。64位的`long`和`double`类型数据被原生支持，但需要在帧的局部变量或操作数栈中占用两个存储单元（单个单元为32位）。`boolean`、`byte`、`short`及`char`均为[符号扩充类型](../Page/符号扩充.md "wikilink")（`char`使用[零扩展](https://zh.wikipedia.org/wiki/符号扩充#零扩展 "wikilink")），且以32位整数的形式（与`int`类型相同）运作。较小的数据类型仅有少量用于载入、存储于类型转换的特定指令。`boolean`类型被视为8位`byte`值，0代表`false`，1代表`true`。（虽然《Java虚拟机规范第二版》阐明`boolean`被认为是一种数据类型，但除[类型特征的](https://zh.wikipedia.org/wiki/类型特征 "wikilink")[名字修饰及boolean数组类型外](../Page/名字修饰.md "wikilink")`boolean`和`byte`无太大区别。`boolean`类型的方法签名为`Z`
 而`byte`的类型签名为`B`。布尔型数组搭载数据类型`boolean[]`，但每个元素使用8个字节，同时Java虚拟机不内置将布尔数据包装成的功能，除此之外其与`byte`数组大同小异。在其他用途中，Java虚拟机实际上不知道`boolean`类型，因为用于操作布尔型数据的指令与操作`byte`的指令完全相同。）
 
 Java虚拟机拥有用于存储对象及数组的[垃圾回收堆](../Page/垃圾回收_\(計算機科學\).md "wikilink")。代码、常量及其他类数据均存储于“方法区”中。方法区逻辑上是堆的一部分，但虚拟机的实现可能会区分两者，从而可能不对方法区进行垃圾回收。每个Java虚拟机线程均有其自己的[调用栈](https://zh.wikipedia.org/wiki/调用栈 "wikilink")（Java虚拟机栈），用于存储[帧](../Page/呼叫堆疊.md "wikilink")。当调用方法时，Java虚拟机将新建一个帧；方法退出时，帧将自动消除。

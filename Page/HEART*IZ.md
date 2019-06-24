@@ -145,13 +145,13 @@ Record娛樂透露截止至](https://zh.wikipedia.org/wiki/Off_The_Record娛樂 
 
 ### 專輯成績
 
-| 榜單（2019年）                                                        | 峰值      |
-| ---------------------------------------------------------------- | ------- |
-| 韓國[Gaon專輯榜](../Page/2019年Gaon專輯冠軍作品列表.md "wikilink")             | 1\[54\] |
-| 美國世界專輯榜（《[告示牌](../Page/告示牌_\(雜誌\).md "wikilink")》）               | 6\[55\] |
-| 日本專輯榜（[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")）              | 4\[56\] |
-| 日本數位專輯榜（[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")）            | 2\[57\] |
-| 日本熱門專輯榜（[日本告示牌](https://zh.wikipedia.org/wiki/日本告示牌 "wikilink")） | 5\[58\] |
+| 榜單（2019年）                                                          | 峰值      |
+| ------------------------------------------------------------------ | ------- |
+| 韓國[Gaon專輯榜](../Page/2019年Gaon專輯冠軍作品列表.md "wikilink")               | 1\[54\] |
+| 美國世界專輯榜（《[告示牌](../Page/告示牌_\(雜誌\).md "wikilink")》）                 | 6\[55\] |
+| 日本專輯榜（[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")）                | 4\[56\] |
+| 日本數位專輯榜（[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")）              | 2\[57\] |
+| 日本熱門專輯榜（[日本《告示牌》](https://zh.wikipedia.org/wiki/日本告示牌 "wikilink")） | 5\[58\] |
 
 ## 發行歷史
 

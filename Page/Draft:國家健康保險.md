@@ -1,0 +1,142 @@
+**國民健康保險**（**NHI**）－是一種健康保險制度，可以保障全國人口免受過高的醫療保健費用影響。它可以由公共部門，私營機構或兩者共同管理。保險機制因具體計劃和國家而異。國家或法定健康保險不等於就是由政府管理或資助，但通常會由國家立法確定。在一些國家，例如澳大利亞的醫療保險系統，英國的國民健康服務，以及韓國的國民健康保險公司對該系統的資金是通過一般稅收資助的。如果NHI涉及多種保險基金，則繳費率可能會有所不同，並且必須選擇自己屬於哪種保險基金。
+
+## 歷史
+
+德國擁有世界上最古老的國家社會醫療保險制度，起源可追溯到奧托·馮·俾斯麥1883年的“疾病保險法”。在英國，“1911年國民保險法”包括初級保健的國家社會醫療保險（非專科醫院或醫院保健），最初
+大約三分之一的人口工薪階層的工薪階層，而不是他們的家屬。
+這種健康保險制度一直實施直到1948年國家衛生服務成立，其透過一般稅收運作，而非由保險基金提供，並且所提供的服務為給予所有合法居民保健服務。並且在台灣，於1995年3月1日開始實施全民健康保險，提供了價廉，卻相對品質極高的醫療服務。
+
+## 實施類型
+
+國家醫療保險計劃在如何收集資金以及如何提供服務方面都有所不同。 在加拿大等國家，政府直接從稅收中支付，並由政府管理。
+這在美國被稱為單支付者醫療保健。 服務可以由公共或私營醫療服務單位提供。
+在法國，制定了類似的強制性資金制度，但該項目是由為此目的設立的非營利組織管理。
+
+另一種籌資辦法是各國通過立法實施國家健康保險，要求對保險基金提供強制性捐款。
+這些資金（可能由公共機構，私人營利性公司或非營利性公司運營）必須提供一定的覆蓋範圍，並且不允許根據年齡，職業或以前的健康狀況等，以不同的費率區分患者。
+為了保護患者和保險公司的利益，政府可建立平準池，以在各種基金之間分散風險。
+
+其他國家的資金主要來自雇主和僱員對疾病基金的繳費。 通過這樣的方式，資金既不來自政府也不來自私人支付，德國和比利時等國家即使用此方式。
+這些資金通常不是為了讓其管理機構營利。但保險的資金因為是由三種來源混合（私人，雇主 -
+僱員貢獻和國家/地方稅），這通常會造成問題。
+
+除直接的醫療費用外，一些國家保險計劃還會未因健康問題而失去工作的人提供補償，甚至提供一些更廣泛的社會保險，包括養老金，失業，職業再培訓和對學生的經濟支持。
+
+國家計劃的優勢在於，其服務人數相當巨大。而醫療保險往往在生命的某些階段，例如在懷孕和分娩期間，或者是在生命的最後幾年，索取較高的費用，並且會隨個人收入能力調整其收費。這與在一些國家運營的私人保險不同，後者更傾向於根據年齡，家族史，過去疾病和身高/體重比等健康風險逐年要價。因此，有些人在生病或最不能​​負擔得起時，往往需要支付更多的醫療保險費。在NHI計劃中沒有考慮這些因素。在私人保險市場的競爭下，保險公司往往違反保險的基本原則，也就是群體團結。
+
+## 國家健康保險計畫
+
+  - [全民健康保險](../Page/全民健康保險.md "wikilink")－台灣的國家健康保險計畫
+  - [德國醫療制度](../Page/德国医疗制度.md "wikilink")
+  - [國民保健署(英國)](../Page/國民保健署_\(英國\).md "wikilink")
+  - [澳洲醫療保險計畫](https://zh.wikipedia.org/wiki/:en:Medicare_\(Australia\) "wikilink")
+  - 比利時醫療保險計畫－Sickness and Invalidity Insurance
+  - [美國醫療保險](../Page/联邦医疗保险.md "wikilink")
+  - [加拿大醫療保險](https://zh.wikipedia.org/wiki/:en:Healthcare_in_Canada "wikilink")
+  - [法國醫療保險](https://zh.wikipedia.org/wiki/:en:Health_care_in_France "wikilink")
+
+## 補充資料
+
+  - [Health care
+    compared](https://zh.wikipedia.org/wiki/:en:Health_care_compared "wikilink")
+    - tabular comparisons of the US, Canada, and other countries not
+    shown above.
+  - [Health care
+    politics](https://zh.wikipedia.org/wiki/:en:Health_care_politics "wikilink")
+  - [Publicly funded health
+    care](https://zh.wikipedia.org/wiki/:en:Publicly_funded_health_care "wikilink")
+  - [Single-payer health
+    care](https://zh.wikipedia.org/wiki/:en:Single-payer_health_care "wikilink")
+  - [Universal health
+    care](https://zh.wikipedia.org/wiki/:en:Universal_health_care "wikilink")
+
+## 參考文獻
+
+1.  Bump, Jesse B. (October 19, 2010). "The long road to universal
+    health coverage. A century of lessons for development strategy"
+    (PDF). Seattle: PATH. Retrieved March 10, 2013. <q>Carrin and James
+    have identified 1988—105 years after Bismarck’s first sickness fund
+    laws—as the date Germany achieved universal health coverage through
+    this series of extensions to minimum benefit packages and expansions
+    of the enrolled population. Bärnighausen and Sauerborn have
+    quantified this long-term progressive increase in the proportion of
+    the German population covered by public and private insurance. Their
+    graph is reproduced below as Figure 1: German Population Enrolled in
+    Health Insurance (%) 1885–1995.</q> Carrin, Guy; James, Chris
+    (January 2005). "Social health insurance: Key factors affecting the
+    transition towards universal coverage" (PDF). *International Social
+    Security Review*. **58** (1): 45–64.
+    <doi:10.1111/j.1468-246x.2005.00209.x>. Retrieved March 10, 2013.
+    <q>Initially the health insurance law of 1883 covered blue-collar
+    workers in selected industries, craftspeople and other selected
+    professionals.<sup>6</sup> It is estimated that this law brought
+    health insurance coverage up from 5 to 10 per cent of the total
+    population.</q>
+2.  Bärnighausen, Till; Sauerborn (May 2002). "One hundred and eighteen
+    years of the German health insurance system: are there any lessons
+    for middle- and low income countries?" (PDF). *Social Science &
+    Medicine*. **54** (10): 1559–1587.
+    <doi:10.1016/S0277-9536(01)00137-X>. PMID 12061488. Retrieved March
+    10, 2013. <q>As Germany has the world’s oldest SHI \[social health
+    insurance\] system, it naturally lends itself to historical
+    analyses</q>
+3.  Leichter, Howard M. (1979). *A comparative approach to policy
+    analysis: health care policy in four nations*. Cambridge: Cambridge
+    University Press. p. 121. ISBN <bdi>0-521-22648-1</bdi>. <q>The
+    Sickness Insurance Law (1883). Eligibility. The Sickness Insurance
+    Law came into effect in December 1884. It provided for compulsory
+    participation by all industrial wage earners (i.e., manual laborers)
+    in factories, ironworks, mines, shipbuilding yards, and similar
+    workplaces.</q>
+4.  Hennock, Ernest Peter (2007). *The origin of the welfare state in
+    England and Germany, 1850–1914: social policies compared*.
+    Cambridge: Cambridge University Press. p. 157. ISBN
+    <bdi>978-0-521-59212-3</bdi>.
+5.  Leathard, Audrey (2000). "Health care in Britain: pre-war provision,
+    1900–1939". *Health care provision: past, present, and into the 21st
+    century* (2nd ed.). Cheltenham: Stanley Thornes. pp. 3–4. ISBN
+    <bdi>9780748733545</bdi>.
+
+## 進一步閱讀
+
+  - Nicholas Laham: *Why the United States lacks a national health
+    insurance program*, Westport, Conn. \[u.a.\] : Greenwood Press, 1993
+  - Barona, B., Plaza, B., and Hearst, N. (2001) Managed Competition for
+    the poor or poorly managed: Lessons from the Colombian health reform
+    experience. Oxford University Press
+    [1](http://heapol.oxfordjournals.org/cgi/reprint/16/suppl_2/44.pdf)
+  - Ronald L. Numbers (ed.): *Compulsory Health Insurance: The
+    Continuing American Debate*, Westport, Conn. : Greenwood Press,
+    1982.
+  - Saltman, R.B., Busse, R. and Figueras, J. (2004) *Social health
+    insurance systems in western Europe*, Berkshire/New York: Open
+    University Press/McGraw-Hill.
+    [ISBN](https://zh.wikipedia.org/wiki/:en:International_Standard_Book_Number "wikilink")
+    [0-335-21363-4](https://zh.wikipedia.org/wiki/:en:Special:BookSources/0-335-21363-4 "wikilink")
+  - Saltman, R.B. and Dubois, H.F.W. (2004) Individual incentive schemes
+    in social health insurance systems, 10(2): 21-25. [Full
+    text](http://www.lse.ac.uk/collections/LSEHealthAndSocialCare/pdf/eurohealth/Vol10No2.pdf)
+  - Van de Ven, W.P.M.M., Beck, K., Buchner, F. et al. (2003) Risk
+    adjustment and risk selection on the sickness fund market in five
+    European countries, Health Policy, 65(1=: 75-98.
+  - Saltman, R.B. and Dubois, H.F.W. (2005) Current reform proposals in
+    social health insurance countries, Eurohealth, 11(1): 10-14. [Full
+    text](http://www.lse.ac.uk/collections/LSEHealthAndSocialCare/pdf/eurohealth/vol11No1.pdf)
+
+## 外部連結
+
+  - [Health Care for America
+    NOW\!](http://www.healthcareforamericanow.org/). An advocacy group
+    that supports a [public health insurance
+    option](https://zh.wikipedia.org/wiki/:en:Public_health_insurance_option "wikilink")
+    for universal health care.
+  - [Health Care Issues &
+    Resources](https://web.archive.org/web/20100105142032/http://www.barackobama.com/issues/healthcare/)
+    Barack Obama Website
+  - [Health Debate Pros and
+    Cons](http://www.familydoctormag.com/doctors-office/194-doctors-debate-universal-health-care-pros-and-cons-from-the-experts.html)
+    Family Doctor Magazine Website
+
+[Category:健康政策](https://zh.wikipedia.org/wiki/Category:健康政策 "wikilink")
+[Category:社會計畫](https://zh.wikipedia.org/wiki/Category:社會計畫 "wikilink")
+[Category:健康经济学](https://zh.wikipedia.org/wiki/Category:健康经济学 "wikilink")

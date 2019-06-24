@@ -16,7 +16,7 @@ file 的[Unix 规范命令](https://zh.wikipedia.org/wiki/单一UNIX规范 "wiki
  ``80386`](../Page/Intel_80386.md "wikilink")`, `[`version`](https://zh.wikipedia.org/wiki/Software_versioning "wikilink")` `[`1`](https://zh.wikipedia.org/wiki/1_\(number\) "wikilink")` (`[`SYSV`](https://zh.wikipedia.org/wiki/SYSV "wikilink")`), `[`dynamically``
  ``linked`](https://zh.wikipedia.org/wiki/Dynamically_linked_library "wikilink")
 `    (uses `[`shared``
- ``libs`](https://zh.wikipedia.org/wiki/Shared_Library "wikilink")`), `[`stripped`](https://zh.wikipedia.org/wiki/Strip_\(Unix\) "wikilink")
+ ``libs`](https://zh.wikipedia.org/wiki/Shared_Library "wikilink")`), `[`stripped`](../Page/Strip_\(Unix\).md "wikilink")
 
 `$ file `[`/dev/hda`](https://zh.wikipedia.org/wiki/Device_file#Naming_conventions "wikilink")`1`
 `/dev/hda1: `[`block``

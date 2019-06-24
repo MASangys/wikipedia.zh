@@ -1,9 +1,217 @@
-local p = {} local origArgs local periodicTable_tlcss = '' local error
-= require( 'Module:Error' ) local element_lib = require(
-'Module:Element' ) local roman = require( 'Module:Roman' )
-p.element_lib = require( 'Module:Element' ) local element_data =
-require( 'Module:Element/data' ) local p_data = require(
-'Module:PeriodicTable/data' ) local yesno = require( 'Module:Yesno' )
+local p = {} local origArgs local periodicTable_tlcss = '' local
+periodicTable_math_group1 = '' local error = require( 'Module:Error' )
+
+p.utils = require( 'Module:PeriodicTable/utils' )
+
+local roman = require( 'Module:Roman' ) local yesno = require(
+'Module:Yesno' )
+
+local lib_arg = {} local templateParameters = {}
+
+local element_layers = {'K','L','M','N','O','P','Q'} local
+element_layers_max =
+
+function p.fillElementData(frame)
+
+`   -- For calling from #invoke.`
+`   local args`
+`   if frame == mw.getCurrentFrame() then`
+`       -- We're being called via #invoke. The args are passed through to the module`
+`       -- from the template page, so use the args that were passed into the template.`
+`       if lib_arg.getArgs == nil then lib_arg = require('Module:Arguments') end`
+`       args = lib_arg.getArgs(frame) --frame.args`
+`   else`
+`       -- We're being called from another module or from the debug console, so assume`
+`       -- the args are passed in directly.`
+`       args = frame`
+`   end`
+`   local targs = {}`
+`   for arg, val in pairs(args) do`
+`       if tonumber(arg) ~= 1 then`
+`           targs[arg] = val`
+`       end`
+`   end`
+
+`   local element = {}`
+`   local element_id = -1`
+`   if args.element then element_id = p.utils.element_lib.getListID(args.element) end`
+`   if element_id > 0 then element = p.utils.element_data[element_id]`
+`   else element = p.utils.element_data[1] end`
+`   local celltext="`<span class=\"{{{PhaseStyleClass}}}\">****</span>
+
+
+`"`
+`   if (args['1'] and args['1'] ~= '') then celltext = string.gsub(args['1'] , "%s$", "") end`
+`   if (args[1] and args[1] ~= '') then celltext = string.gsub(args[1] , "%s$", "") end`
+`   local eleargs = {}`
+`   for propetry, value in pairs(element) do`
+`       if type(value) == type("") then eleargs[propetry] = value`
+`       elseif type(value) == type(0) then eleargs[propetry] = tostring(value) end`
+`   end`
+
+`   if type(element.Z)==type("0") then eleargs.Symbol =  '`[`'``
+ ``..``   ``element.Symbol``   ``..``
+ ``'`](https://zh.wikipedia.org/wiki/'_.._element.page_.._' "wikilink")`'  end`
+
+`   if element.page then `
+`       eleargs.NameWithLink = '`[`'``   ``..``   ``element.name``
+ ``..``
+ ``'`](https://zh.wikipedia.org/wiki/'_.._element.page_.._' "wikilink")`'`
+`   else`
+`       eleargs.NameWithLink =  element.name`
+`   end`
+`   local PhaseStyleClasses = {["gas"] = "Yuansuzhouqibiao_gas", ["solid"] = "", ["liquid"] = "Yuansuzhouqibiao_liquid"}`
+
+`       local ar_std, is_natural = p.utils.element_lib._get_atomic_weight(element)`
+`       local phase = p.utils.element_lib._get_phase(element)`
+`       local digs = 0`
+`       if (ar_std or 0) < 1 then digs = 0 else digs = math.log10(ar_std) end`
+`       local formater = "%.1f"`
+`       if(digs < 1) then formater = "%.3f"`
+`       elseif (digs < 2) then formater = "%.2f" end`
+`       if is_natural ~= true then formater = "[%d]" end`
+`       if ar_std then eleargs.AtomicWeight = string.format( formater, ar_std ) else eleargs.AtomicWeight = ' ' end`
+`       eleargs.PhaseStyleClass = PhaseStyleClasses[phase]`
+
+`   if templateParameters._getFormatingStringByArgument == nil then templateParameters = require( 'Module:TemplateParameters' ) end`
+`   return templateParameters._getFormatingStringByArgument(celltext,eleargs)`
+`   `
+
+end
+
+function p.fillPeriodicTableElementData(frame)
+
+`   -- For calling from #invoke.`
+`   local args`
+`   if frame == mw.getCurrentFrame() then`
+`       -- We're being called via #invoke. The args are passed through to the module`
+`       -- from the template page, so use the args that were passed into the template.`
+`       if lib_arg.getArgs == nil then lib_arg = require('Module:Arguments') end`
+`       args = lib_arg.getArgs(frame) --frame.args`
+`   else`
+`       -- We're being called from another module or from the debug console, so assume`
+`       -- the args are passed in directly.`
+`       args = frame`
+`   end`
+`   local targs = {}`
+`   for arg, val in pairs(args) do`
+`       if tonumber(arg) ~= 1 then`
+`           targs[arg] = val`
+`       end`
+`   end`
+
+`   local element = {}`
+`   local element_id = -1`
+`   element_id = p.utils.element_lib.getListID(args[1] or args['1'])`
+`   if element_id > 0 then element = p.utils.element_data[element_id]`
+`   else `
+`       local checker = tonumber(args[1] or args['1'])`
+`       if checker then`
+`           local element = p.utils.element_lib.getElementByZ(checker)`
+`           if element then`
+`               if not element.othername then `
+`                   element.othername={element.name}`
+`               else`
+`                   table.insert(element.othername, element.name)`
+`               end`
+`           end`
+`       else`
+`           local wrap_body = args[1] or args['1'] or args['celltext'] or '\n'`
+`           if templateParameters._getFormatingStringByArgument == nil then templateParameters = require( 'Module:TemplateParameters' ) end`
+`           local usingConditionalExpressions = false`
+`           if args.usingConditionalExpressions then`
+`               if type(yesno) ~= type(tonumber) then yesno = require('Module:Yesno') end`
+`               if yesno(args.usingConditionalExpressions) == true then`
+`                   usingConditionalExpressions = true`
+`                   wrap_body = templateParameters._get_escape(wrap_body)`
+`               end`
+`           end`
+`           if usingConditionalExpressions then`
+`               wrap_body = frame:preprocess( wrap_body )`
+`           end`
+`       `
+`           return wrap_body`
+`       end`
+`       element = p.utils.element_data[1] `
+`   end`
+`   local celltext="`<span class=\"{{{PhaseStyleClass}}}\">****</span>
+
+
+`"`
+`   if (args['celltext'] and args['celltext'] ~= '') then celltext = string.gsub(args['celltext'] , "%s$", "") end`
+
+`   local eleargs = {}`
+`   for propetry, value in pairs(element) do`
+`       if type(value) == type("") then eleargs[propetry] = value`
+`       elseif type(value) == type(0) then eleargs[propetry] = tostring(value) end`
+`   end`
+
+`   if type(element.Z)==type("0") then eleargs.Symbol =  '`[`'``
+ ``..``   ``element.Symbol``   ``..``
+ ``'`](https://zh.wikipedia.org/wiki/'_.._element.page_.._' "wikilink")`'  end`
+
+`   if element.page then `
+`       eleargs.NameWithLink = '`[`'``   ``..``   ``element.name``
+ ``..``
+ ``'`](https://zh.wikipedia.org/wiki/'_.._element.page_.._' "wikilink")`'`
+`   else`
+`       eleargs.NameWithLink =  element.name`
+`   end`
+`   local PhaseStyleClasses = {["gas"] = "Yuansuzhouqibiao_gas", ["solid"] = "", ["liquid"] = "Yuansuzhouqibiao_liquid"}`
+
+`       local ar_std, is_natural = p.utils.element_lib._get_atomic_weight(element)`
+`       local phase = p.utils.element_lib._get_phase(element)`
+`       local digs = 0`
+`       if (ar_std or 0) < 1 then digs = 0 else digs = math.log10(ar_std) end`
+`       local formater = "%.1f"`
+`       if(digs < 1) then formater = "%.3f"`
+`       elseif (digs < 2) then formater = "%.2f" end`
+`       if is_natural ~= true then formater = "[%d]" end`
+`       if ar_std then eleargs.AtomicWeight = string.format( formater, ar_std ) else eleargs.AtomicWeight = ' ' end`
+`       eleargs.PhaseStyleClass = PhaseStyleClasses[phase]`
+`       eleargs.Phase = phase`
+`   if element.series then`
+`       if (element.predictedSeries and element.predictedSeries ~= '') then predicted=true end`
+`       local series_text = element.series[1]`
+`       local result_series = p.utils.getSeriesData(series_text)`
+`       local result_blockseries = p.utils.getSeriesData((element.block or 'x') .. '區元素')`
+`       if not result_series then result_series = p.utils.p_data.error_series end`
+`       eleargs.seriesText = series_text`
+`       eleargs.blockText = (element.block or 'x') .. '區元素'`
+`       eleargs.styleClass = result_series.style`
+
+`       eleargs.blockStyleClass = (result_blockseries or p.utils.p_data.error_series).style`
+
+`       eleargs.predictedStyleClass = result_series.style`
+`       if predicted then`
+`           eleargs.predictedStyleClass = eleargs.predictedStyleClass .. '_predicted' `
+`           eleargs.blockStyleClass = eleargs.predictedStyleClass .. '_predicted' `
+`       end`
+`   else`
+`       eleargs.seriesText = '未知特性'`
+`   end`
+
+`   if templateParameters._getFormatingStringByArgument == nil then templateParameters = require( 'Module:TemplateParameters' ) end`
+`   local usingConditionalExpressions = false`
+`   if args.usingConditionalExpressions then`
+`       if type(yesno) ~= type(tonumber) then yesno = require('Module:Yesno') end`
+`       if yesno(args.usingConditionalExpressions) == true then`
+`           usingConditionalExpressions = true`
+`           celltext = templateParameters._get_escape(celltext)`
+`       end`
+`   end`
+`   if usingConditionalExpressions then`
+`       local child_args = {}`
+`       for aname, aval in pairs(args) do child_args[tostring(aname)] = aval end`
+`       for aname, aval in pairs(eleargs) do child_args[tostring(aname)] = aval end`
+`       local working_frame = frame:newChild{ args = child_args }`
+`       mw.logObject(child_args);`
+`       celltext = working_frame:preprocess( celltext )`
+`   end`
+`   return templateParameters._getFormatingStringByArgument(celltext,eleargs)`
+`   `
+
+end
 
 function p.navPeriodicTable(frame)
 
@@ -68,6 +276,52 @@ function p.templatePeriodicTable(frame)
 
 end
 
+function p.articlePeriodicTable(frame)
+
+`   -- For calling from #invoke.`
+`   local pframe = frame:getParent()`
+`   local args = {}`
+`   local option = {}`
+`   for k, v in pairs( frame.args ) do`
+`       args[k] = v;`
+`       option[k] = v;`
+`   end`
+`   periodicTable_tlcss = frame:callParserFunction{ name = '#tag:templatestyles', args = { '', src='元素週期表/styles.css' } }`
+`   periodicTable_math_group1 = frame:callParserFunction{ name = '#tag:math', args = { '\\overbrace{\\qquad\\qquad\\qquad}' } }`
+`   local arg1=''   if (args[1] and args[1] ~= '') then arg1 = string.gsub(args[1] , "%s$", "") end`
+`   local mark=''   if (args[2] and args[2] ~= '') then mark = string.gsub(args[2] , "%s$", "") end`
+`   `
+`   if (args['number'] and args['number'] ~= '') then arg1 = string.gsub(args['number'] , "%s$", "") end`
+`   if (args['mark'] and args['mark'] ~= '') then mark = string.gsub(args['mark'] , "%s$", "") end`
+`   if (args['no mark'] and args['no mark'] ~= '') then`
+`       nomark = yesno(string.gsub(args['no mark'] , "%s$", ""))`
+`   else`
+`       nomark = false`
+`   end`
+`   local markele='' if (args['markele'] and args['markele'] ~= '') then markele = string.gsub(args['markele'] , "%s$", "") end`
+`   local rtype='normal' if (args['type'] and args['type'] ~= '') then rtype = string.gsub(args['type'] , "%s$", "") end`
+`   -- fricke --nefedov`
+`   local pmodel='noLanthanide' if (args['model'] and args['model'] ~= '') then pmodel = string.gsub(args['model'] , "%s$", "") end`
+`   no173='yes' if (args['no173'] and args['no173'] ~= '') then no173 = string.gsub(args['no173'] , "%s$", "") end`
+`   no173=yesno(no173)`
+`   `
+`   local celltext="`<span class=\"{{{PhaseStyleClass}}}\">****</span>
+
+
+`"`
+`   if (args['celltext'] and args['celltext'] ~= '') then celltext = string.gsub(args['celltext'] , "%s$", "") end`
+`   option.celltext = celltext`
+`   local number = tonumber(arg1)`
+`   `
+`   if yesno(option.textimage) == true then`
+`       ele117img = frame:expandTemplate{ title = '缺字', args = { 'tian2', '1', 'Ts' } }`
+`       ele118imghans = frame:expandTemplate{ title = '缺字', args = { 'ao4', '3', 'Og' } }`
+`       ele118imghant = frame:expandTemplate{ title = '缺字', args = { 'ao4', '2', 'Og' } }`
+`   end`
+`   return p.renderArticlePeriodicTable(number, mark, mw.text.split(markele,','), rtype, pmodel, option)`
+
+end
+
 function p.isotopePeriodicTable(frame)
 
 `   -- For calling from #invoke.`
@@ -113,13 +367,13 @@ pmodel)
 `   if number==0 then body = body .. p.renderPeriodicTablePeriodHeader(0)`
 `       --p._templatePeriodicTableElementCell(element,span,mark,markele,number,rtype,option)`
 `       body = body .. p._templatePeriodicTableElementCell(`
-`           element_lib.getElementByZ(0),31,`
+`           p.utils.element_lib.getElementByZ(0),31,`
 `           mark,markele,number,rtype,option`
 `       ) .. '\n'`
 `   end`
 `   local index = 1`
 `   for index = 1,main_loop_max do`
-`       local iteratorElement = element_lib.getElementByZ(index)`
+`       local iteratorElement = p.utils.element_lib.getElementByZ(index)`
 `       if iteratorElement then`
 `           if index>120 then`
 `               iteratorElement.series={'化學性質未知'}`
@@ -143,7 +397,6 @@ pmodel)
 `                       spans_data = spans_data - 1 + spans`
 `                   end`
 `               end`
-
 `           end`
 `       `
 `           local skip_eleid=38`
@@ -230,6 +483,176 @@ pmodel)
 
 end
 
+function p.renderArticlePeriodicTable(number, mark, markele, rtype,
+pmodel, option)
+
+`   transitionBelow=yesno(option.transitionBelow or 'no')`
+`   lanthanideBelow=yesno(option.lanthanideBelow or 'yes')`
+`   superactinidesBelow=yesno(option.superactinidesBelow or 'yes')`
+`   local body=''`
+`   local start_by_period = tonumber(option.startPeriod or 1) or 1`
+`   local render_period = tonumber(option.endPeriod or 7) or 7`
+`   local selected_model = p.utils.table_models[pmodel]`
+`   if type(start_by_period) ~= type(0) then start_by_period = tonumber(start_by_period or 1) or 1 end`
+`   if start_by_period < 0 then start_by_period = 0 end`
+`   if type(selected_model) ~= type(``) then selected_model = p.utils.table_models[0] end`
+`   local group_list = p.utils.get_group_list(pmodel,render_period,lanthanideBelow,superactinidesBelow,transitionBelow,option)`
+`   local max_eleid = -1`
+`   local head_span = 0`
+`   local top_span = 0`
+`   periodOffset_list={}`
+`   if option.periodOffset and type(option.periodOffset) == type('0') then`
+`       local periodOffset_lists = mw.text.split(option.periodOffset,',')`
+`       if type(periodOffset_lists) == type({'0'}) then`
+`           local periodOffset_check_list = {}`
+`           for _,periodOffset_num_str in ipairs(periodOffset_lists) do`
+`               local periodOffset_num=tonumber(periodOffset_num_str)`
+`               if periodOffset_num then periodOffset_check_list[#periodOffset_check_list+1] = tonumber(periodOffset_num) end`
+`           end`
+`           if #periodOffset_check_list > 0 then periodOffset_list = periodOffset_check_list end`
+`       end`
+`   end`
+`   `
+`   for period_it = start_by_period,render_period do`
+`       local skips = 0`
+`       local period_row = selected_model[period_it]`
+`       if option["period" .. tostring(period_it) .. "head"] ~= '' then`
+`           body = body .. render_period_head(option["period" .. tostring(period_it) .. "head"] or option.periodhead,period_it)`
+`       else body = body .. render_period_head(option.periodhead,period_it) end`
+`       if period_row then`
+`           for group_iterator = 1,#group_list do`
+`               local group_it = group_list[group_iterator]`
+`               local group_cell = period_row[group_it]`
+`               if periodOffset_list[group_iterator] and (periodOffset_list[group_iterator] or 0) ~= 0 then`
+`                   local period_offset_row = selected_model[period_it + periodOffset_list[group_iterator]]`
+`                   group_cell = period_offset_row[group_it]`
+`               end`
+`               if group_cell then`
+`                   local spans_data = 0`
+`                   if skips > 0 then`
+`                       if period_it==1 then head_span = skips end`
+`                       if period_it==4 then top_span = skips end`
+`                       spans_data = skips`
+`                       local render_result = ''`
+`                       render_result, spans_data = render_period_middle(option["period" .. tostring(period_it) .. "middle"],period_it,spans_data,#group_list)`
+`                       body = body .. render_result`
+`                       skips = 0`
+`                   end`
+`                   if group_cell > max_eleid then max_eleid = group_cell end`
+`                   local iteratorElement = p.utils.element_lib.getElementByZ(group_cell)`
+`                   local iteratorElement_temp = p.utils.below_tweaking(iteratorElement,transitionBelow,lanthanideBelow,superactinidesBelow)`
+`                   body = body .. `
+`                   p._articlePeriodicTableElementCell(`
+`                       iteratorElement_temp,spans_data,`
+`                       mark,markele,number,`
+`                       rtype,option,`
+`                       lanthanideBelow`
+`                   ) .. '\n'`
+`               else skips = skips + 1 end`
+`           end`
+`       end`
+`       if option["period" .. tostring(period_it) .. "tail"] then`
+`           body= body .. option["period" .. tostring(period_it) .. "tail"] .. '\n'`
+`       end`
+`       body= body .. '|- align="center"\n'`
+`   end`
+`   render_result, _ = render_period_middle(option.periodtopmiddle,1,#group_list+4,#group_list)`
+`   body = render_result .. body`
+`   render_result, _ = render_period_middle(option.toprow,1,#group_list+4,#group_list)`
+`   body = render_result .. '|- align="center"\n' .. body`
+
+`   if transitionBelow==true and render_period<=5 then`
+`       if render_period>=4 then`
+`           body = body .. '\n|-\n|style=\"border:none; padding:0;\"|<div style=\"width:1px; height:4px;\">`
+
+</div>
+
+\\n'
+
+`           body = body .. '|- align="center" valign="bottom"\n'`
+`           body = body .. '| colspan=1 valign="center" style=\"border:none; width:0;vertical-align:middle;\" |+\n'`
+`           for index = 21,30 do`
+`               local iteratorElement = p.utils.element_lib.getElementByZ(index)`
+`               if iteratorElement then`
+`                   body = body .. `
+`                       p._articlePeriodicTableElementCell(`
+`                       iteratorElement,0,`
+`                       mark,markele,number,`
+`                       rtype,option,`
+`                       lanthanideBelow`
+`                       ) .. '\n'`
+`               end`
+`           end`
+`       end`
+`       `
+`       if render_period>=5 then`
+`           body = body .. '\n|- align="center" valign="bottom"\n'`
+`           body = body .. '| colspan=1 valign="center" style=\"border:none; width:0;vertical-align:middle;\" |++\n'`
+`           `
+`           for index = 39,48 do`
+`               local iteratorElement = p.utils.element_lib.getElementByZ(index)`
+`               if iteratorElement then`
+`                   body = body .. `
+`                       p._articlePeriodicTableElementCell(`
+`                       iteratorElement,0,`
+`                       mark,markele,number,`
+`                       rtype,option,`
+`                       lanthanideBelow) .. '\n'`
+`               end`
+`           end`
+`       end`
+`   end`
+`   `
+`   if lanthanideBelow==true then`
+`       if render_period>=6 then`
+`           body = body .. '\n|-\n|style=\"border:none; padding:0;\"|<div style=\"width:1px; height:4px;\">`
+
+</div>
+
+\\n'
+
+`           body = body .. '|- align="center" valign="bottom"\n| colspan=1 valign="center" style=\"vertical-align:middle;\"|6\n'`
+`           body = body .. '| colspan=1 valign="center" style=\"border:none; width:0;vertical-align:middle;\" |*\n'`
+`           body = body .. '| colspan=1 valign="center" style=\"border:none; width:0;vertical-align:middle;\" |`[`鑭系`
+`元素`](../Page/镧系元素.md "wikilink")`\n'`
+`           for index = 57,71 do`
+`               local iteratorElement = p.utils.element_lib.getElementByZ(index)`
+`               if iteratorElement then`
+`                   body = body .. `
+`                       p._articlePeriodicTableElementCell(`
+`                       iteratorElement,0,`
+`                       mark,markele,number,`
+`                       rtype,option,`
+`                       lanthanideBelow`
+`                       ) .. '\n'`
+`               end`
+`           end`
+`       end`
+`       `
+`       if render_period>=7 then`
+`           body = body .. '\n|- align="center" valign="bottom"\n| colspan=1 valign="center" style=\"vertical-align:middle;\"|7\n'`
+`           body = body .. '| colspan=1 valign="center" style=\"border:none; width:0;vertical-align:middle;\" |**\n'`
+`           body = body .. '| colspan=1 valign="center" style=\"border:none; width:0;vertical-align:middle;\" |`[`錒系`
+`元素`](../Page/锕系元素.md "wikilink")`\n'`
+`           `
+`           for index = 89,103 do`
+`               local iteratorElement = p.utils.element_lib.getElementByZ(index)`
+`               if iteratorElement then`
+`                   body = body .. `
+`                       p._articlePeriodicTableElementCell(`
+`                       iteratorElement,0,`
+`                       mark,markele,number,`
+`                       rtype,option,`
+`                       lanthanideBelow) .. '\n'`
+`               end`
+`           end`
+`       end`
+`   end`
+`   `
+`   return body`
+
+end
+
 function p.renderIsotopePeriodicTable(number, rtype, classtype)
 
 `   local option = {index=true,class_type=classtype}`
@@ -247,13 +670,13 @@ function p.renderIsotopePeriodicTable(number, rtype, classtype)
 `   if has_119 then spans = 1; main_loop_max = 118 end`
 `   --body = body  .. p.renderPeriodicTableGroupHeader(has_119) .. p.renderPeriodicTablePeriodHeader(0)`
 `       body = body .. p._isotopePeriodicTableElementCell(`
-`           element_lib.getElementByZ(0),gobal_spans,`
+`           p.utils.element_lib.getElementByZ(0),gobal_spans,`
 `           number,rtype,option`
 `       ) .. '\n'`
 `   --Lanthanide below`
 `   local index = 1`
 `   for index = 1,118 do`
-`       local iteratorElement = element_lib.getElementByZ(index)`
+`       local iteratorElement = p.utils.element_lib.getElementByZ(index)`
 `       if iteratorElement then`
 `           if period_id ~= iteratorElement.period then `
 `               period_id = iteratorElement.period`
@@ -324,7 +747,7 @@ function p.renderIsotopePeriodicTable(number, rtype, classtype)
 `       body = body .. '| colspan=2 style=\"border:none; width:0;\" |`[`鑭系`
 `元素`](../Page/镧系元素.md "wikilink")`\n'`
 `       for index = 57,71 do`
-`           local iteratorElement = element_lib.getElementByZ(index)`
+`           local iteratorElement = p.utils.element_lib.getElementByZ(index)`
 `           if iteratorElement then`
 `               body = body .. `
 `                   p._isotopePeriodicTableElementCell(`
@@ -340,7 +763,7 @@ function p.renderIsotopePeriodicTable(number, rtype, classtype)
 `元素`](../Page/锕系元素.md "wikilink")`\n'`
 `       `
 `       for index = 89,103 do`
-`           local iteratorElement = element_lib.getElementByZ(index)`
+`           local iteratorElement = p.utils.element_lib.getElementByZ(index)`
 `           if iteratorElement then`
 `               body = body .. `
 `                   p._isotopePeriodicTableElementCell(`
@@ -351,6 +774,7 @@ function p.renderIsotopePeriodicTable(number, rtype, classtype)
 `           end`
 `       end`
 `   end`
+
 `   return body`
 
 end
@@ -370,12 +794,12 @@ function p.renderNavElementTable(number, mark, markele, rtype, pmodel)
 `   if has_119 and pmodel=='nefedov' then main_loop_max=121 end`
 `   if number==0 then body = body .. "| style=\"border:none\" | \n| colspan=30 style=\"border:none\" | \n| style=\"border:none\" | "`
 `       body = body .. p._navElementCell(`
-`           element_lib.getElementByZ(0),`
+`           p.utils.element_lib.getElementByZ(0),`
 `           mark,markele,number,rtype`
 `       ) .. '\n|-\n'`
 `   end`
 `   for index = 1,main_loop_max do`
-`       local iterator = element_lib.getElementByZ(index)`
+`       local iterator = p.utils.element_lib.getElementByZ(index)`
 `       if iterator then`
 `           if index>120 then`
 `               iterator.series={'化學性質未知'}`
@@ -512,7 +936,7 @@ ele_series, pred, mark, markele, number, rtype, option)
 `   local old_eleid=start_id`
 `   local index = start_id`
 `   for index = start_id, end_id do`
-`       local iterator = element_lib.getElementByZ(index)`
+`       local iterator = p.utils.element_lib.getElementByZ(index)`
 `       if iterator then`
 `           local spans_data = index - old_eleid`
 `           iterator.series={ele_series}`
@@ -548,7 +972,7 @@ ele_series, pred, mark, markele, number, rtype)
 `   local old_eleid=start_id`
 `   local index = start_id`
 `   for index = start_id, end_id do`
-`       iterator = element_lib.getElementByZ(index)`
+`       iterator = p.utils.element_lib.getElementByZ(index)`
 `       if iterator then`
 `           local spans_data = index - old_eleid`
 `           iterator.series={ele_series}`
@@ -579,134 +1003,7 @@ end
 
 -----
 
-function p.getHalflifeStyle(element)
-
-`   if element.stability then`
-`       local stability = element.stability`
-`       if stability.stableCount and stability.stableCount > 0 then`
-`           for v, stables in ipairs(p_data.halflifestyle.stables) do`
-`               if ( stability.stableCount >= stables.stables) then`
-`                   return stables.styleclass`
-`               end`
-`           end`
-`       end`
-`       if stability.halflife then`
-`           local halflife = tonumber(stability.halflife)`
-`           for v, halflifes in ipairs(p_data.halflifestyle.halflifes) do`
-`               if ( halflife >= halflifes.halflife) then`
-`                   return halflifes.styleclass`
-`               end`
-`           end`
-`       end`
-`   end`
-`   return '';`
-
-end
-
-function p.getTimeDesc(seconds)
-
-`   string.format( "%.2f", 0.2453435 )`
-`   if seconds < 1e-3 then`
-`       local digs = math.floor(math.log10( seconds ))`
-`       local first_dig = seconds / math.pow( 10, digs )`
-`       return string.format("%.2f",first_dig) .. '×10^' .. string.format( "%d",digs) .. '秒'`
-`   elseif seconds < 0.1 then --ms`
-`       local val = seconds / (1e-3)`
-`       return string.format( "%.2f", val) .. '豪秒'`
-`   elseif seconds < 60 then --seconds`
-`       return string.format( "%.2f", seconds) .. '秒'`
-`   elseif seconds < 3600 then --min`
-`       local val = seconds / 60.0`
-`       return string.format( "%.2f", val) .. '分鐘'`
-`   elseif seconds < 86400 then --hour`
-`       local val = seconds / 3600.0`
-`       return string.format( "%.2f", val) .. '小時'`
-`   elseif seconds < 2.592e6 then --day`
-`       local val = seconds / 86400.0`
-`       return string.format( "%.2f", val) .. '天'`
-`   elseif seconds < 3.1536e7 then --month`
-`       local val = seconds / 2.592e6`
-`       return string.format( "%.2f", val) .. '個月'`
-`   elseif seconds < 3.1536e11 then --years`
-`       local val = seconds / 3.1536e7`
-`       return string.format( "%.2f", val) .. '年'`
-`   elseif seconds < 3.1536e15 then --ten_KYear`
-`       local val = seconds / 3.1536e11`
-`       return string.format( "%.2f", val) .. '萬年'`
-`   elseif seconds < 3.1536e19 then --ten_MYear`
-`       local val = seconds / 3.1536e15`
-`       return string.format( "%.2f", val) .. '億年'`
-`   else`
-`       local years = seconds / 3.1536e7`
-`       local digs = math.floor(math.log10( years ))`
-`       local first_dig = years / math.pow( 10, digs )`
-`       return string.format( "%.2f", first_dig) .. '×10^' .. string.format( "%d",digs) .. '年'`
-`   end`
-
-end
-
-function p.getSeriesData(input_name)
-
-`   for v, x in ipairs(p_data.series_data) do                                `
-`       if (x.page == input_name) then`
-`           return p_data.series_data[v]`
-`       end`
-`       for v1, x1 in ipairs(x.name) do`
-`           if (x1 == input_name) then`
-`               return p_data.series_data[v]`
-`           end`
-`       end`
-`   end`
-
-end function p.compareSeriesList(left_list, right_list)
-
-`   for left_index, left_value in ipairs(left_list) do`
-`       for right_index, right_value in ipairs(right_list) do`
-`           if left_value.name and right_value.name then`
-`               if left_value.name[1] == right_value.name[1] then return true end`
-`           end`
-`       end`
-`   end`
-`   return false`
-
-end function p.getSeriesDataByString(input_str)
-
-`   local series_list = {}; local series_list_n = 0`
-`   local input_list = {}`
-`   if string.find( input_str, ',') then`
-`       input_list=mw.text.split(input_str, ',')`
-`   else input_list={input_str}`
-`   end`
-`   for v, x in ipairs(input_list) do`
-`       local result_series = p.getSeriesData(x)`
-`       if result_series then`
-`           series_list[series_list_n + 1] = result_series`
-`           series_list_n = series_list_n + 1`
-`       else`
-`           local ele_check = element_lib.getListID(x)`
-`           local predicted = false`
-`           if ele_check > 0 then`
-`               local ele1 = element_data[ele_check]`
-`               if ele1.series then`
-`                   if (ele1.predictedSeries and ele1.predictedSeries ~= '') then predicted=true end`
-`                   for v_ele, x_ele in ipairs(ele1.series) do`
-`                       result_series = p.getSeriesData(x_ele)`
-`                       if result_series.name and result_series.name[1] ~= "金屬" then `
-`                           if predicted then result_series.predicted = true end`
-`                           result_series.fromElement = ele1.name`
-`                           if result_series then`
-`                               series_list[series_list_n + 1] = result_series`
-`                               series_list_n = series_list_n + 1`
-`                           end`
-`                       end`
-`                   end`
-`               end`
-`           end`
-`       end`
-`   end`
-`   return series_list`
-
-end function p.elementDataPreview(frame)
+function p.elementDataPreview(frame)
 
 `   -- For calling from #invoke.`
 `   local pframe = frame:getParent()`
@@ -757,7 +1054,7 @@ end function p._elementDataPreviewRow(value, cols)
 `               local seriesdata = {}`
 `               if value.series then`
 `                   if value.series[1] then`
-`                       seriesdata = p.getSeriesData(value.series[1])`
+`                       seriesdata = p.utils.getSeriesData(value.series[1])`
 `                       if seriesdata and seriesdata.style then body = body .. 'class=\"' .. seriesdata.style ..'\"|' end`
 `                   end`
 `               end`
@@ -808,7 +1105,7 @@ end function p._elementDataPreviewRow(value, cols)
 `                       if stabilitydata.stableCount > 0 then `
 `                           stability_desc = tostring(stabilitydata.stableCount) .. '個穩定同位素'`
 `                       elseif stabilitydata.halflife and stabilitydata.halflife > 0 then`
-`                           stability_desc = '半衰期約' .. p.getTimeDesc(stabilitydata.halflife)`
+`                           stability_desc = '半衰期約' .. p.utils.getTimeDesc(stabilitydata.halflife)`
 `                       end`
 `                       if stabilitydata.magicNumber then stability_desc = stability_desc .. ' （幻數）' end`
 `                       body = body .. stability_desc`
@@ -827,7 +1124,7 @@ end function p._elementDataPreviewRow(value, cols)
 `                       end`
 `                       body = body .. ' `</span>` '`
 `                       `
-`                       local iterator = p_data.period_data[value.period]`
+`                       local iterator = p.utils.p_data.period_data[value.period]`
 `                       if tonumber(value.Z or -2) >= 173 then iterator={name={"週期未定"},page='未發現元素列表#周期未定'} end`
 `                       local lprefix = ' '; local lpostfix = ''; local lmiddle = ''`
 `                       if iterator then`
@@ -844,7 +1141,7 @@ end function p._elementDataPreviewRow(value, cols)
 `               `
 `               if cols['族'] then`
 `                   if value.group then `
-`                       local iterator = p_data.group_data[value.group]`
+`                       local iterator = p.utils.p_data.group_data[value.group]`
 `                       body = body .. '`<span style=\"display:none\" class="sortkey\">`'`
 `                       if tonumber(value.group) <= 0 then `
 `                           body = body .. string.format( '%016.8f', 999 ) `
@@ -869,7 +1166,7 @@ end function p._elementDataPreviewRow(value, cols)
 `               `
 `               if cols['分區'] then`
 `                   if value.block then `
-`                       local iterator = p.getSeriesData(value.block .. ' block')`
+`                       local iterator = p.utils.getSeriesData(value.block .. ' block')`
 `                       if iterator then`
 `                           if iterator.page then`
 `                               body = body .. '`[`'``   ``..``
@@ -999,11 +1296,11 @@ no_start_end, cols)
 `   if withZ then `
 `       local i = start_i`
 `       for i = start_i,end_i do`
-`           local value = element_lib.getElementByZ(i)`
+`           local value = p.utils.element_lib.getElementByZ(i)`
 `           body = body .. p._elementDataPreviewRow(value, cols)`
 `       end`
 `   else`
-`       for key, value in ipairs(element_data) do`
+`       for key, value in ipairs(p.utils.element_data) do`
 `           if tonumber(key or 0) == i then`
 `               value.tableid = key`
 `               body = body .. p._elementDataPreviewRow(value, cols)`
@@ -1020,19 +1317,6 @@ no_start_end, cols)
 
 end
 
-function p.checkElementList(element, list)
-
-`   local check_list = mw.text.split(table.concat(element.othername,',') .. ',' ..`
-`       element.name .. ',' .. (element.page or element.name) .. ',' .. element.Symbol, ',')`
-`   for vl, xl in ipairs(element.othername) do`
-`       for vr, xr in ipairs(list) do`
-`           if mw.text.trim(xl) == mw.text.trim(xr) then return true end`
-`       end`
-`   end`
-`   return false`
-
-end
-
 -----
 
 \--rendering
@@ -1042,7 +1326,7 @@ end
 function p.renderPeriodicTablePeriodHeader(period)
 
 `   local body = '|-\n| '`
-`   local iterator = p_data.period_data[period]`
+`   local iterator = p.utils.p_data.period_data[period]`
 `   local lprefix = ' '; local lpostfix = ''; local lmiddle = ''`
 `   if iterator then`
 `       if iterator.page then lprefix = ' `[`';``   ``lpostfix``
@@ -1053,22 +1337,87 @@ function p.renderPeriodicTablePeriodHeader(period)
 
 end
 
+function p.renderArticlePeriodicTablePeriodHeader(period)
+
+`   local body = '|-align="center" valign="bottom"\n| valign="center" style=\"vertical-align:middle;\" |'`
+`   local iterator = p.utils.p_data.period_data[period]`
+`   local lprefix = ' '; local lpostfix = ''; local lmiddle = ''`
+`   if iterator then`
+`       if iterator.page then lprefix = ' `[`';``   ``lpostfix``
+ ``=``
+ ``'`](https://zh.wikipedia.org/wiki/';_lpostfix_=_' "wikilink")`'; lmiddle = iterator.page .. '|' end`
+`   end`
+`   return body .. lprefix .. lmiddle .. tostring(period) .. lpostfix .. '\n'`
+
+end
+
+function render_period_head(periodhead,period_it)
+
+`   local body = ''`
+`   if(periodhead)then`
+`       local period_args = { period = period_it }`
+`       local period_it_data = p.utils.p_data.period_data[period_it]`
+`       for propetry, value in pairs(period_it_data) do`
+`           if type(value) == type("") then period_args[propetry] = value`
+`           elseif type(value) == type(0) then period_args[propetry] = tostring(value) end`
+`       end`
+`       if templateParameters._getFormatingStringByArgument == nil then templateParameters = require( 'Module:TemplateParameters' ) end`
+`       body = body .. templateParameters._getFormatingStringByArgument(periodhead,period_args) .. '\n'`
+`   end`
+`   return body`
+
+end
+
+function
+render_period_middle(periodmiddle,period_it,spans_data,all_group)
+
+`   body = ''`
+`   if(periodmiddle)then`
+`       if period_it == 1  then spans_data = spans_data - 6`
+`       elseif period_it > 1 and period_it < 4 then spans_data = spans_data - 10`
+`       elseif period_it > 3 and period_it < 6 then spans_data = spans_data - 14`
+`       elseif period_it > 5 and period_it < 8 then spans_data = spans_data - 18 end`
+`       if spans_data<0 then spans_data = 0 end`
+`       local period_args = {`
+`           colspanCell = "|colspan=" .. tostring(spans_data) .. "|\n",`
+`           colspan = tostring(spans_data),`
+`           allCells = all_group`
+`       }`
+`       if spans_data==0 then period_args.colspanCell = '' end`
+`       local period_it_data = p.utils.p_data.period_data[period_it]`
+`       for propetry, value in pairs(period_it_data) do`
+`           if type(value) == type("") then period_args[propetry] = value`
+`           elseif type(value) == type(0) then period_args[propetry] = tostring(value) end`
+`       end`
+`       if templateParameters._getFormatingStringByArgument == nil then templateParameters = require( 'Module:TemplateParameters' ) end`
+`       check_span = templateParameters._findNullArgument( periodmiddle, period_args )`
+`       if check_span.colspan == true or check_span.colspanCell == true then`
+`           spans_data = 0`
+`       end`
+`       body = body .. templateParameters._getFormatingStringByArgument(periodmiddle,period_args) .. '\n'`
+`   end`
+`   return body, spans_data`
+
+end
+
 function p.renderPeriodicTableGroupHeader(has_119, pmodel)
 
 `   local body = '|-\n|  \n'`
+`   if pmodel=='noLanthanide' then body = "|- align=\"center\" valign=\"bottom\" style=\"margin:auto\"\n|width=\"1.2%\"|`**`族→`**`\n" end`
 `   local group_id = 1`
 `   tlcss_inserted = false`
 `   for index = 1,18 do`
-`       local iterator = p_data.group_data[index]`
+`       local iterator = p.utils.p_data.group_data[index]`
 `       if iterator then`
 `           local spans_data = iterator.order_id - group_id`
 `           if pmodel=='nefedov' then`
 `               if index == 3 then`
 `                   spans_data = 0`
 `               elseif index == 4 then`
-`                   spans_data = p_data.group_data[index - 1].order_id - index + 1`
+`                   spans_data = p.utils.p_data.group_data[index - 1].order_id - index + 1`
 `               end`
 `           end`
+`           if (pmodel=='noLanthanide') then spans_data=0 end`
 
 `           body = body .. p.renderNavElementColHeader(spans_data)`
 `           if not tlcss_inserted then`
@@ -1079,15 +1428,73 @@ function p.renderPeriodicTableGroupHeader(has_119, pmodel)
 `           local test_index = index ; if index % 10 > 8 or index == 10 then test_index = 8 end`
 `           test_index = test_index % 10`
 `           local group_text = tostring(index)`
-`           if roman.getRomam then`
-`               group_text = string.upper(roman.getRomam(test_index) .. iterator.group_type) .. '`
-`' .. tostring(index)`
+`           if (pmodel=='noLanthanide')then`
+`               group_text = tostring(index)`
 `           else`
-`               group_text = error.error({[1]="羅馬數字模組錯誤：疑似有人誤刪`[`模块:Roman中的getRomam函數`](../Page/模块:Roman.md "wikilink")`。"})`
+`               if roman.getRomam then`
+`                   group_text = string.upper(roman.getRomam(test_index) .. iterator.group_type) .. '`
+`' .. tostring(index)`
+`               else`
+`                   group_text = error.error({[1]="羅馬數字模組錯誤：疑似有人誤刪`[`模块:Roman中的getRomam函數`](../Page/模块:Roman.md "wikilink")`。"})`
+`               end`
 `           end`
 `           body = body .. ' `[`'``   ``..``   ``group_text``   ``..``
  ``'`](https://zh.wikipedia.org/wiki/'_.._iterator.page_.._' "wikilink")`' .. '\n'`
-`           if has_119 and ((pmodel~='nefedov' and index == 2) or (pmodel=='nefedov' and index == 3)) then body = body .. '|\n' end`
+`           if (pmodel~='noLanthanide') then`
+`               if has_119 and ((pmodel~='nefedov' and index == 2) or (pmodel=='nefedov' and index == 3)) then body = body .. '|\n' end`
+`           end`
+`           group_id = iterator.order_id+1`
+`       end`
+`   end`
+`   return body`
+
+end
+
+function p.renderArticlePeriodicTableGroupHeader(has_119, pmodel,
+lanthanideBelow)
+
+`   local body = '|-\n|  \n'`
+`   if lanthanideBelow==true then body = "|- align=\"center\" valign=\"bottom\" style=\"margin:auto\"\n|width=\"1.2%\"|`**`族→`**`\n" end`
+`   local group_id = 1`
+`   tlcss_inserted = false`
+`   for index = 1,18 do`
+`       local iterator = p.utils.p_data.group_data[index]`
+`       if iterator then`
+`           local spans_data = iterator.order_id - group_id`
+`           if pmodel=='nefedov' then`
+`               if index == 3 then`
+`                   spans_data = 0`
+`               elseif index == 4 then`
+`                   spans_data = p.utils.p_data.group_data[index - 1].order_id - index + 1`
+`               end`
+`           end`
+`           if (pmodel=='fricke') then spans_data=spans_data-1 end`
+`           if (lanthanideBelow==true) then spans_data=0 end`
+`           if spans_data<0 then spans_data = 0 end`
+`           body = body .. p.renderNavElementColHeader(spans_data)`
+`           if not tlcss_inserted then`
+`               tlcss_inserted = true`
+`               body = body .. periodicTable_tlcss`
+`           end`
+`           `
+`           local test_index = index ; if index % 10 > 8 or index == 10 then test_index = 8 end`
+`           test_index = test_index % 10`
+`           local group_text = tostring(index)`
+`           if (lanthanideBelow==true)then`
+`               group_text = tostring(index)`
+`           else`
+`               if roman.getRomam then`
+`                   group_text = string.upper(roman.getRomam(test_index) .. iterator.group_type) .. '`
+`' .. tostring(index)`
+`               else`
+`                   group_text = error.error({[1]="羅馬數字模組錯誤：疑似有人誤刪`[`模块:Roman中的getRomam函數`](../Page/模块:Roman.md "wikilink")`。"})`
+`               end`
+`           end`
+`           body = body .. ' `[`'``   ``..``   ``group_text``   ``..``
+ ``'`](https://zh.wikipedia.org/wiki/'_.._iterator.page_.._' "wikilink")`' .. '\n'`
+`           if (lanthanideBelow~=true) then`
+`               if has_119 and ((pmodel~='nefedov' and index == 2) or (pmodel=='nefedov' and index == 3)) then body = body .. '|\n' end`
+`           end`
 `           group_id = iterator.order_id+1`
 `       end`
 `   end`
@@ -1122,15 +1529,50 @@ p._templatePeriodicTableElementCell(element,span,mark,markele,number,rtype,optio
 `       elseif rtype == 'predicted' then`
 `           if predicted then series_text = '未知特性' end`
 `       end`
-`       local result_series = p.getSeriesData(series_text)`
+`       local result_series = p.utils.getSeriesData(series_text)`
 `       `
-`       if not result_series then result_series = p_data.error_series end`
+`       if not result_series then result_series = p.utils.p_data.error_series end`
 `       local style_class = result_series.style`
 `       if predicted and rtype ~= 'predicted' then style_class = style_class .. '_predicted' end`
 
 `       return p.renderTemplatePeriodicTableElementCell(element, span, style_class, otheratt,`
-`           (number==element.Z and (not (nomark or false))) or p.compareSeriesList({result_series}, p.getSeriesDataByString(mark))`
-`           or p.checkElementList(element,markele) ,option`
+`           (number==element.Z and (not (nomark or false))) or p.utils.compareSeriesList({result_series}, p.utils.getSeriesDataByString(mark or ''))`
+`           or p.utils.checkElementList(element,markele) ,option`
+`       )`
+`   end`
+`   return ''`
+
+end
+
+function
+p._articlePeriodicTableElementCell(element,span,mark,markele,number,rtype,option,
+lanthanideBelow)
+
+`   local predicted = false`
+`   local otheratt = ''`
+`   if element and element.period == 6 and yesno(option.AutoAlign or 'yes') then `
+`       otheratt = 'width=\"' `
+`       if(lanthanideBelow==true)then otheratt = otheratt .. "5.3" `
+`       else otheratt = otheratt .. "3.125" end`
+`       otheratt = otheratt .. '%\"' `
+`   end`
+`   if element.series then`
+`       if (element.predictedSeries and element.predictedSeries ~= '') then predicted=true end`
+`       local series_text = element.series[1]`
+`       if rtype == 'block' then`
+`           series_text = (element.block or 'x') .. '區元素'`
+`       elseif rtype == 'predicted' then`
+`           if predicted then series_text = '未知特性' end`
+`       end`
+`       local result_series = p.utils.getSeriesData(series_text)`
+`       `
+`       if not result_series then result_series = p.utils.p_data.error_series end`
+`       local style_class = result_series.style`
+`       if predicted and rtype ~= 'predicted' then style_class = style_class .. '_predicted' end`
+
+`       return p.renderArticlePeriodicTableElementCell(element, span, style_class, otheratt,`
+`           (number==element.Z and (not (nomark or false))) or p.utils.compareSeriesList({result_series}, p.utils.getSeriesDataByString(mark or ''))`
+`           or p.utils.checkElementList(element,markele) ,option`
 `       )`
 `   end`
 `   return ''`
@@ -1147,7 +1589,7 @@ p._isotopePeriodicTableElementCell(element,span,number,rtype,option)
 `       if is_lanthanide_below then otheratt = 'width=\"5.54%\"' end`
 `   end`
 `   return p.renderIsotopePeriodicTableElementCell(element, span, `
-`       'Isotope_nav_' .. option.class_type ..  p.getHalflifeStyle(element)`
+`       'Isotope_nav_' .. option.class_type ..  p.utils.getHalflifeStyle(element)`
 `       , otheratt,option)`
 
 end
@@ -1163,19 +1605,19 @@ function p._navElementCell(element,mark,markele,number,rtype)
 `       elseif rtype == 'predicted' then`
 `           if predicted then series_text = '未知特性' end`
 `       end`
-`       local result_series = p.getSeriesData(series_text)`
+`       local result_series = p.utils.getSeriesData(series_text)`
 `           `
-`       if not result_series then result_series = p_data.error_series end`
+`       if not result_series then result_series = p.utils.p_data.error_series end`
 `       local style_class = result_series.style`
 `       if predicted and rtype ~= 'predicted' then style_class = style_class .. '_predicted' end`
 `       `
 `       if rtype == 'isotope' or rtype == 'isotope nav' then`
-`           style_class = 'Isotope_nav_' .. p.getHalflifeStyle(element)`
+`           style_class = 'Isotope_nav_' .. p.utils.getHalflifeStyle(element)`
 `       end`
 `       `
 `       return p.renderNavElementCell(element, style_class, `
-`           number==element.Z or p.compareSeriesList({result_series}, p.getSeriesDataByString(mark))`
-`           or p.checkElementList(element,markele), rtype`
+`           number==element.Z or p.utils.compareSeriesList({result_series}, p.utils.getSeriesDataByString(mark))`
+`           or p.utils.checkElementList(element,markele), rtype`
 `       )`
 `   end`
 `   return ''`
@@ -1216,6 +1658,77 @@ p.renderTemplatePeriodicTableElementCell(element,span,styleclass,otheratt,mark,o
 end
 
 function
+p.renderArticlePeriodicTableElementCell(element,span,styleclass,otheratt,mark,option)
+
+`   local body = '|'`
+`   mark_style='border:2px solid black; margin:-2px;';`
+`   local span_flag = false`
+`   if span then span_flag = (tonumber(span) > 0) end`
+`   if span_flag then body = body .. ' colspan=' .. tostring(span) .. ' ' end`
+`   local divatt = ' class=\"' .. styleclass .. '\"'`
+`   local divstyle = 'border:none;'`
+`   if mark then divstyle = mark_style end`
+`   divatt = divatt .. ' ' .. otheratt .. ' style=\"' .. divstyle .. '\"'`
+`   `
+`   if span_flag then body = body .. ' style=\"border:none\" |   \n| ' .. divatt .. ' | '`
+`   else body = body .. ' ' .. divatt .. ' | ' end`
+`   `
+`   local contex = (option or {}).celltext or "`<span class=\"{{{PhaseStyleClass}}}\">****</span>
+
+
+`"`
+`   local eleargs = {}`
+`   for propetry, value in pairs(element) do`
+`       if type(value) == type("") then eleargs[propetry] = value`
+`       elseif type(value) == type(0) then eleargs[propetry] = tostring(value) end`
+`   end`
+
+`   if type(element.Z)==type("0") then eleargs.Symbol =  '`[`'``
+ ``..``   ``element.Symbol``   ``..``
+ ``'`](https://zh.wikipedia.org/wiki/'_.._element.page_.._' "wikilink")`'  end`
+
+`   if element.page then `
+`       eleargs.NameWithLink = '`[`'``   ``..``   ``element.name``
+ ``..``
+ ``'`](https://zh.wikipedia.org/wiki/'_.._element.page_.._' "wikilink")`'`
+`   else`
+`       eleargs.NameWithLink =  element.name`
+`   end`
+`   `
+`   if yesno(option.textimage) == true then`
+`       if  element.Z == 117 then eleargs.NameWithLink = "`[`鿬`](../Page/鿬.md "wikilink")`（".. ele117img ..'）'`
+`       elseif element.Z == 118 then eleargs.NameWithLink = "`[`鿫`](../Page/鿫.md "wikilink")`（-{zh-hans:" .. `
+`           ele118imghans .. ";zh-hant:" .. ele118imghant .. "}-"..'）' end`
+`   end`
+`   `
+`   local PhaseStyleClasses = {["gas"] = "Yuansuzhouqibiao_gas", ["solid"] = "", ["liquid"] = "Yuansuzhouqibiao_liquid"}`
+`   if not(type(element.Z)==type("0")) then`
+`       local ar_std, is_natural = p.utils.element_lib._get_atomic_weight(element)`
+`       local phase = p.utils.element_lib._get_phase(element)`
+`       local digs = 0`
+`       if (ar_std or 0) < 1 then digs = 0 else digs = math.log10(ar_std) end`
+`       local formater = "%.1f"`
+`       if(digs < 1) then formater = "%.3f"`
+`       elseif (digs < 2) then formater = "%.2f" end`
+`       if is_natural ~= true then formater = "[%d]" end`
+`       if ar_std then eleargs.AtomicWeight = string.format( formater, ar_std ) else eleargs.AtomicWeight = ' ' end`
+`       eleargs.PhaseStyleClass = PhaseStyleClasses[phase]`
+`       if element.Melting == nil and Boiling == nil then eleargs.PhaseStyleClass = '\" style=\"color:gray' end`
+`   else `
+`       if(element.period == 4) then eleargs.AtomicWeight = '+' end`
+`       if(element.period == 5) then eleargs.AtomicWeight = '++' end`
+`       if(element.period == 6) then eleargs.AtomicWeight = '*' end`
+`       if(element.period == 7) then eleargs.AtomicWeight = '**' end`
+`   end`
+
+`   if templateParameters._getFormatingStringByArgument == nil then templateParameters = require( 'Module:TemplateParameters' ) end`
+`   body = body .. templateParameters._getFormatingStringByArgument(contex,eleargs)`
+
+`   return body`
+
+end
+
+function
 p.renderIsotopePeriodicTableElementCell(element,span,styleclass,otheratt,option)
 
 `   local body = '|'`
@@ -1225,7 +1738,7 @@ p.renderIsotopePeriodicTableElementCell(element,span,styleclass,otheratt,option)
 `   if stabilitydata.stableCount > 0 then `
 `       stability_desc = tostring(stabilitydata.stableCount) .. '個穩定同位素'`
 `   elseif stabilitydata.halflife and stabilitydata.halflife > 0 then`
-`       stability_desc = '半衰期約' .. p.getTimeDesc(stabilitydata.halflife)`
+`       stability_desc = '半衰期約' .. p.utils.getTimeDesc(stabilitydata.halflife)`
 `   end`
 `   local magicNumber = ''`
 `   if stabilitydata.magicNumber then magicNumber = ' Isotope_nav_' .. classtype .. 'magicnumber' end`
@@ -1307,7 +1820,7 @@ function p.renderNavElementCell(element,styleclass,mark,rtype)
 `       if stabilitydata.stableCount > 0 then `
 `           stability_desc = tostring(stabilitydata.stableCount) .. '個穩定同位素'`
 `       elseif stabilitydata.halflife and stabilitydata.halflife > 0 then`
-`           stability_desc = '半衰期約' .. p.getTimeDesc(stabilitydata.halflife)`
+`           stability_desc = '半衰期約' .. p.utils.getTimeDesc(stabilitydata.halflife)`
 `       end`
 `   end`
 `   styles='position:relative; overflow:hidden; width:6px; height:8px; z-index:2;'`

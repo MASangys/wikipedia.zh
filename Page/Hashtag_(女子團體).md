@@ -19,7 +19,7 @@ V.O.X成員](../Page/Baby_V.O.X.md "wikilink")[簡美妍宣布將與組合合作
 ### 2018年：分隊Purple出道
 
 9月18日，Da Jeong、Seung Min、Su
-Bin三人以分隊[Purple發表單曲出道](https://zh.wikipedia.org/wiki/Purple "wikilink")。\[4\]
+Bin三人以分隊[Purple發表單曲出道](../Page/Purple.md "wikilink")。\[4\]
 
 ### 2019：首次回歸
 

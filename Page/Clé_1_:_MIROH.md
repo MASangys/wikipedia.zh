@@ -5,11 +5,11 @@ Kids的第四張韓語迷你專輯](https://zh.wikipedia.org/wiki/Stray_Kids "wi
 ## 背景
 
 2019年3月6日[Stray
-Kids在官方社群平台上釋出回歸預告](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")，宣布將於3月25日攜新專輯回歸，恰好適逢出道一週年，此專輯成為週年紀念專輯\[1\]，隨後釋出限量版專輯預覽圖並開放預購。
+Kids在官方社群平台上釋出回歸預告](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")，宣布將於25日攜新專輯回歸，恰好適逢出道一週年，此專輯成為週年紀念專輯\[1\]，隨後釋出限量版專輯預覽圖並開放預購。
 
 3月11日釋出曲目清單。
 
-3月12日釋出兩張團體概念照，並公開普通版專輯預覽圖。
+3月12日釋出兩張團體概念照，隨後公開普通版專輯預覽圖。
 
 3月13日釋出方燦、鉉辰、I.N個人概念照。
 
@@ -43,7 +43,7 @@ Kids在官方社群平台上釋出回歸預告](https://zh.wikipedia.org/wiki/St
 Kids的勇氣與挑戰，唱出從少年到成年，邁向人生另一步，面對新世界的熱情；對於自己的存在而感到苦惱的少年們，與同樣感到苦惱的「你(YOU)」一起逃離屬於我們的空間(District
 9)，前往像叢林般冷漠險峻的都市「MIROH」\[2\]。
 新專輯名稱《Clé 1 : MIROH》的「Clé」在法語中的意思為「鑰匙」；而「MIROH」則是Stray
-Kids親自創造的詞，透過英文「Maze」來表達未知，以韓語表達就是「미로(MIRO)」，再根據Stray
+Kids親自創造的詞，透過英文「Maze」來表達未知，以韓語表達就是「미로(MIRO)」，韓文意思為「迷宮」，再根據Stray
 Kids的做法不同，地點可能會變成「Hell」，也可能會變成「Heaven」，所以在「MIRO」後面加上「H」組成〈MIROH〉\[3\]。
 主打歌〈MIROH〉是一首比起恐懼，以對自己的信任和勇氣，在險峻叢林般的「迷宮」裡邁出第一步，充滿著Stray
 Kids的霸氣和抱負，可以感受到融合[Hip-hop與](https://zh.wikipedia.org/wiki/Hip-hop "wikilink")[EDM曲風的絕妙組合的歌曲](https://zh.wikipedia.org/wiki/EDM "wikilink")\[4\]，表演中更融入了紐西蘭傳統舞蹈[哈卡舞與](../Page/哈卡舞.md "wikilink")[多米諾骨牌舞蹈技術等](https://zh.wikipedia.org/wiki/多米諾骨牌 "wikilink")，嘗試了新的舞蹈風格\[5\]。
@@ -104,7 +104,7 @@ Kids的霸氣和抱負，可以感受到融合[Hip-hop與](https://zh.wikipedia.
 <td><p>專輯週榜</p></td>
 <td><p>2019年3月24日－30日</p></td>
 <td><p><strong>#1</strong></p></td>
-<td><p>136,869+[6]</p></td>
+<td><p>150,675+[6]</p></td>
 <td><p>[7]</p></td>
 </tr>
 <tr class="even">

@@ -119,4 +119,5 @@ burn）的特點在於將油氣混合燃燒後的氣體再度循環導入進氣�
 
 1.  參看[FF by
     MAGNUM](http://blog-imgs-26-origin.fc2.com/k/y/u/kyuusyamania/110220a04l.jpg)目錄。
-2.  請見[【MAZDA】新型カペラを発売](http://www.mazda.co.jp/corporate/publicity/release/1997/9708/970820.html)。
+2.  請見[【MAZDA】新型カペラを発売](http://www.mazda.co.jp/corporate/publicity/release/1997/9708/970820.html)
+    。

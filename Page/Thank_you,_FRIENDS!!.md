@@ -5,8 +5,8 @@ FRIENDS\!\!》**是[Aqours的单曲](../Page/Aqours.md "wikilink")。2018年8月
 
 本张单曲为“[LoveLive\!](https://zh.wikipedia.org/wiki/LoveLive! "wikilink")
 ”企划首次以通贩单曲形式发行的演唱会主题曲，同时也是“Aqours Hop\! Step\! Jump\! Project\!
-”的一部分\[1\]。A面曲为《Thank you,
-FRIENDS\!\!》预定于2018年11月17、18日在[东京巨蛋举办的](https://zh.wikipedia.org/wiki/东京巨蛋 "wikilink")“Aqours
+”的一部分\[1\]。A面曲的《Thank you,
+FRIENDS\!\!》是2018年11月17、18日在[东京巨蛋举办的](https://zh.wikipedia.org/wiki/东京巨蛋 "wikilink")“Aqours
 4th LoveLive\! ～Sailing to the
 Sunshine～”演唱会的主题曲\[2\]。B面曲《No.10》取材于LoveLive\!
 企划中被称为“第10人”的爱好者们（LoveLiver）；成员报数之后，观众也会报出“10”，表示自己是团体的“第10人”。

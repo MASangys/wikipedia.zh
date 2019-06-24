@@ -47,6 +47,11 @@ Baxter的主唱，這是一首帶有旋律和恍惚元素的[迴響貝斯歌曲]
 他於2017年底開始發行NoCopyrightSounds，其中抱括 《Lush》，與 Last Heroes
 合作。在同一個唱片公司上也發行了《Closer》。\[8\]
 
+### 2019: 《Divinorum》
+
+內有十首全新歌曲，包括Stargate,Divinorum,Infinite Wings,Dragonfly,Lazerfunk,Drink
+me,Beautiful Sky,Mesmerize,Divine,The Void
+
 ## 音樂風格
 
 眾所周知，柯林斯在他的[迴響貝斯音軌和其他地方都使用了](../Page/迴響貝斯.md "wikilink")[出神音樂的特色](https://zh.wikipedia.org/wiki/出神音樂 "wikilink")。

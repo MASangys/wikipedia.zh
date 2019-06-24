@@ -11,3 +11,4 @@ Stay?](../Page/WJ_Stay?.md "wikilink")》後再次因為既定中國行程缺席
 [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
 [Category:2019年音樂專輯](https://zh.wikipedia.org/wiki/Category:2019年音樂專輯 "wikilink")
 [Category:宇宙少女音樂專輯](https://zh.wikipedia.org/wiki/Category:宇宙少女音樂專輯 "wikilink")
+[Category:2019年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2019年Gaon專輯週榜冠軍作品 "wikilink")

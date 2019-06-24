@@ -29,7 +29,7 @@ Android Q 的新特征包括：\[2\]
     Touch的深度按压功能](../Page/3D_Touch.md "wikilink")。
   - 以纯文字形式显示[Wi-Fi密码](../Page/Wi-Fi.md "wikilink")。
   - 螢幕智慧睡眠功能，使用手机时不会關閉螢幕。
-  - 加入全新導航欄 (向上滑動)，類似似「iPhoneX」的底部長條導航。
+  - 加入全新導航手勢 (向上滑動)，類似似「iPhoneX」的底部長條導航。
 
 ## 历史
 
@@ -53,7 +53,12 @@ S](https://zh.wikipedia.org/wiki/vivo_NEX "wikilink")、[vivo NEX
 A](https://zh.wikipedia.org/wiki/vivo_NEX "wikilink")、[小米9](../Page/小米9.md "wikilink")、[小米MIX
 3
 5G](../Page/小米MIX_3.md "wikilink")。同时在这个版本中，Google預設禁用了在前两个版本中强制开启的Scoped
-Storage功能。
+Storage功能。但由于美国将华为列入“实体清单”，导致Google宣布撤销[华为Android许可证](../Page/华为.md "wikilink")，Android官网将华为Mate
+20 Pro的信息从Android Q Beta官方介绍页面上撤下\[7\]。5月31日，据Android官网上的Android Q
+Beta版页面显示，华为Mate 20 Pro重新列入到可升级至Android Q Beta版的名单中\[8\]。
+
+2019年6月5日，Android Q Beta
+4发布，此版本新增了原生的人脸解锁、手势导航新增旋转锁定悬浮按钮、底部条带加长、通知管理引入优先级提示图标、状态栏通知消息可从任意方向清除等功能\[9\]。
 
 ## 参考文献
 
@@ -69,3 +74,6 @@ Storage功能。
 4.
 5.
 6.
+7.
+8.
+9.

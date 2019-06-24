@@ -138,15 +138,6 @@ Live》（美麗人生）從[廣州出發](https://zh.wikipedia.org/wiki/廣州 
 </tr>
 <tr class="even">
 <td><p>12</p></td>
-<td><p>2019年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/武漢" title="wikilink">武漢</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>13</p></td>
 <td><p>2019年8月10日</p></td>
 <td><p><a href="../Page/杭州市.md" title="wikilink">杭州</a></p></td>
 <td><p><a href="../Page/黄龙体育中心.md" title="wikilink">黃龍體育館</a></p></td>
@@ -154,17 +145,17 @@ Live》（美麗人生）從[廣州出發](https://zh.wikipedia.org/wiki/廣州 
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p>14</p></td>
-<td><p>2019年</p></td>
-<td><p><a href="../Page/重庆市.md" title="wikilink">長沙</a></p></td>
-<td></td>
-<td></td>
+<tr class="odd">
+<td><p>13</p></td>
+<td><p>2019年8月17日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/南京市" title="wikilink">南京</a></p></td>
+<td><p>南京青奥體育公園體育館</p></td>
+<td><p>14000</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p>15</p></td>
+<tr class="even">
+<td><p>14</p></td>
 <td><p>2019年8月24日</p></td>
 <td><p><a href="../Page/惠州市.md" title="wikilink">惠州</a></p></td>
 <td><p><a href="../Page/惠州奥林匹克体育场.md" title="wikilink">惠州奧林匹克體育場</a></p></td>
@@ -172,11 +163,20 @@ Live》（美麗人生）從[廣州出發](https://zh.wikipedia.org/wiki/廣州 
 <td><p><small>室外體育場</small></p></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>15</p></td>
+<td><p>2019年8月31日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/长沙市" title="wikilink">大連</a></p></td>
+<td><p><a href="../Page/大连体育中心.md" title="wikilink">大連體育中心體育館</a></p></td>
+<td><p>12000</p></td>
+<td></td>
+<td></td>
+</tr>
 <tr class="even">
 <td><p>16</p></td>
-<td><p>2019年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/长沙市" title="wikilink">重慶</a></p></td>
-<td></td>
+<td><p>2019年9月7日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/上海市" title="wikilink">上海</a></p></td>
+<td><p><a href="../Page/虹口足球场.md" title="wikilink">虹口足球場</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -184,7 +184,7 @@ Live》（美麗人生）從[廣州出發](https://zh.wikipedia.org/wiki/廣州 
 <tr class="odd">
 <td><p>17</p></td>
 <td><p>2019年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/上海市" title="wikilink">上海</a></p></td>
+<td><p><a href="../Page/重庆市.md" title="wikilink">長沙</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -192,8 +192,26 @@ Live》（美麗人生）從[廣州出發](https://zh.wikipedia.org/wiki/廣州 
 </tr>
 <tr class="even">
 <td><p>18</p></td>
-<td><p>2019年</p></td>
+<td><p>2019年10月26日</p></td>
+<td><p><a href="../Page/江门市.md" title="wikilink">江門</a></p></td>
+<td><p>江門濱江體育中心體育場</p></td>
+<td><p>18000</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>19</p></td>
+<td><p>2019年11月2日</p></td>
 <td><p><a href="../Page/南宁市.md" title="wikilink">南寧</a></p></td>
+<td><p>廣西體育中心主體育場</p></td>
+<td><p>28000</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>20</p></td>
+<td><p>2019年</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/武漢" title="wikilink">武漢</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -214,7 +232,7 @@ Live》（美麗人生）從[廣州出發](https://zh.wikipedia.org/wiki/廣州 
 **廣州站2019年3月30日**
 
 **珠海站2019年4月13日**
-**𦘦慶站2019年5月11日****湛江站2019年5月18日****深圳站2019年5月24日/25日**
+**𦘦慶站2019年5月11日****湛江站2019年5月18日****深圳站2019年5月24日/25日****佛山站2019年6月14日/15日**
 
 ## 參考資料
 

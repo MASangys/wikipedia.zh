@@ -176,12 +176,13 @@
 <tr class="even">
 <td><p><strong><a href="../Page/張曦雯.md" title="wikilink">張曦雯</a></strong></p></td>
 <td></td>
-<td><p>空姐、模特兒（客串演出） 高安之妹</p></td>
+<td><p>空姐、模特兒（客串演出）<br />
+高安、高靖之妹</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/陳敏之.md" title="wikilink">陳敏之</a></strong></p></td>
 <td></td>
-<td><p>心理專家</p></td>
+<td><p>心理專家（客串演出）</p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/謝雪心.md" title="wikilink">謝雪心</a></strong></p></td>
@@ -209,7 +210,7 @@
 </tbody>
 </table>
 
-### 與案件有關人物
+### 單元案件
 
 <table>
 <tbody>
@@ -439,14 +440,13 @@
   - 2019年1月21日：本劇於14:00在將軍澳工業邨駿才街77號電視廣播城十三廠舉行拜神活動。
   - 2019年3月20日：本劇攝製隊出發到[台灣拍攝外景](https://zh.wikipedia.org/wiki/台灣 "wikilink")。
   - 2019年4月1日：本劇於18:45在[觀塘](../Page/觀塘.md "wikilink")[開源道](../Page/開源道.md "wikilink")64號源成中心2樓龍皇酒家舉行煞科宴。
-  - 2019年5月27日：《法證先鋒IV》「力臻完美 再度出發」
+  - 2019年5月27日：本劇於15:00在將軍澳工業邨駿才街77號電視廣播城一廠Common Room舉行「力臻完美 再度出發」宣傳活動。
 
 ## 軼事
 
   - 此劇是[刘家聪](https://zh.wikipedia.org/wiki/刘家聪 "wikilink")（時隔11年）、[海俊傑](../Page/海俊傑.md "wikilink")（時隔18年）再度回巢[無綫電視的首部電視劇](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")。
   - 此劇是[陳煒](../Page/陳煒.md "wikilink")、[謝雪心](../Page/謝雪心.md "wikilink")、[康華](../Page/康華.md "wikilink")、[張文慈](../Page/張文慈.md "wikilink")、[陸詩韻](../Page/陸詩韻.md "wikilink")、[李美慧](../Page/李美慧.md "wikilink")、[謝芷倫](../Page/謝芷倫.md "wikilink")、[曾偉權](../Page/曾偉權.md "wikilink")、[呂珊](../Page/呂珊.md "wikilink")、[朱匯林和](https://zh.wikipedia.org/wiki/朱匯林 "wikilink")[林子超繼](../Page/林子超_\(藝人\).md "wikilink")《[宮心計2深宮計](https://zh.wikipedia.org/wiki/宮心計2深宮計 "wikilink")》後再度合作。
   - 此劇是[黃浩然](../Page/黃浩然.md "wikilink")、[黎燕珊](../Page/黎燕珊.md "wikilink")、[陳煒和](../Page/陳煒.md "wikilink")[朱晨麗继](https://zh.wikipedia.org/wiki/朱晨麗 "wikilink")《[多功能老婆](../Page/多功能老婆.md "wikilink")》後再度合作。
-  - 此劇是[黃浩然和](../Page/黃浩然.md "wikilink")[李施嬅繼](../Page/李施嬅.md "wikilink")《[公主嫁到](https://zh.wikipedia.org/wiki/公主嫁到 "wikilink")》後再度合作。
   - 此劇是[譚俊彥和](../Page/譚俊彥.md "wikilink")[朱晨麗繼](https://zh.wikipedia.org/wiki/朱晨麗 "wikilink")《[特技人](https://zh.wikipedia.org/wiki/特技人 "wikilink")》後再度合作。
   - 此劇是[陳煒](../Page/陳煒.md "wikilink")、[謝雪心](../Page/謝雪心.md "wikilink")、[張文慈](../Page/張文慈.md "wikilink")、[黎燕珊](../Page/黎燕珊.md "wikilink")、[黃浩然](../Page/黃浩然.md "wikilink")、[鮑起靜](../Page/鮑起靜.md "wikilink")、[謝賢離開](../Page/謝賢.md "wikilink")[亞洲電視後再度合作](../Page/亞洲電視.md "wikilink")。
   - 此劇是[鄭俊弘繼](../Page/鄭俊弘.md "wikilink")《[法證先鋒](../Page/法證先鋒.md "wikilink")》,

@@ -1,5 +1,5 @@
 《**Legal
-High**》(王牌大律師)（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC於](../Page/JTBC.md "wikilink")2019年2月8日起播出的[金土連續劇](../Page/JTBC金土連續劇.md "wikilink")，由《[Mrs.
+High**》，[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC於](../Page/JTBC.md "wikilink")2019年2月8日起播出的[金土連續劇](../Page/JTBC金土連續劇.md "wikilink")，由《[Mrs.
 Cop
 2](../Page/Mrs._Cop_2.md "wikilink")》的金政賢、金尚浩導演與《[重案組](../Page/重案組_\(韓國電視劇\).md "wikilink")》的朴成鎮作家合作打造。此劇改編自日劇《[Legal
 High](../Page/Legal_High.md "wikilink")》，講述勝訴率100%的律師高泰林和擁有100%正義感的律師徐在仁，以截然不同的性格挑戰殺氣騰騰又充滿笑料的法律故事。\[1\]\[2\]\[3\]\[4\]

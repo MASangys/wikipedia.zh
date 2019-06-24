@@ -118,6 +118,15 @@ SRCL-9902（普通）</p></td>
 <td><p>4位</p></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>3rd</p></td>
+<td><p>2019年6月12日</p></td>
+<td></td>
+<td><p>SRCL-11195~6（首发）<br />
+SRCL-11197（普通）</p></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -203,10 +212,10 @@ NOID-0020（普通）</p></td>
 <tr class="odd">
 <td><p>1st</p></td>
 <td><p>2019年3月13日</p></td>
-<td><p>Chime</p></td>
+<td></td>
 <td><p>SRCL-11064~5（首发）<br />
 SRCL-11065（普通）</p></td>
-<td><p>TBA</p></td>
+<td><p>5位</p></td>
 <td></td>
 </tr>
 </tbody>

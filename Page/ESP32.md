@@ -3,7 +3,7 @@ ESP32系列採用Tensilica Xtensa
 LX6微處理器，包括雙核心和單核變體，內建天線開關，RF變換器，[功率放大器](https://zh.wikipedia.org/wiki/功率放大器 "wikilink")，[低雜訊接收放大器](https://zh.wikipedia.org/wiki/低雜訊接收放大器 "wikilink")，濾波器和電源管理模組。
 
 ESP32
-由總部位於[上海的中國公司](https://zh.wikipedia.org/wiki/上海 "wikilink")[樂鑫信息科技創建和開發](https://zh.wikipedia.org/wiki/樂鑫信息科技 "wikilink")，由[台積電採用](https://zh.wikipedia.org/wiki/台積電 "wikilink")40[奈米技術製造](https://zh.wikipedia.org/wiki/奈米 "wikilink")。\[1\]它是[ESP8266微控制器的後繼產品](https://zh.wikipedia.org/wiki/ESP8266 "wikilink")。
+由總部位於[上海的中國公司](https://zh.wikipedia.org/wiki/上海 "wikilink")[樂鑫信息科技創建和開發](https://zh.wikipedia.org/wiki/樂鑫信息科技 "wikilink")，由[台積電採用](https://zh.wikipedia.org/wiki/台積電 "wikilink")40[奈米技術製造](https://zh.wikipedia.org/wiki/奈米 "wikilink")\[1\]。它是[ESP8266微控制器的後繼產品](https://zh.wikipedia.org/wiki/ESP8266 "wikilink")。
 
 ## 功能
 

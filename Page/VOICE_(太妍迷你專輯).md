@@ -16,7 +16,12 @@ Entertainment官方](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")[
 JAPAN官方](../Page/環球音樂_\(日本\).md "wikilink")[YouTube頻道與太妍官網公開初回限定盤A收錄](../Page/YouTube.md "wikilink")《[TAEYEON
 -JAPAN SHOW CASE TOUR
 2018-](../Page/TAEYEON_-JAPAN_SHOW_CASE_TOUR_2018-.md "wikilink") LIVE
-DVD》部份影像片段。\[8\]
+DVD》部份影像片段。\[8\]5月18日釋出初回限定盤B《VOICE》 專輯幕後製作花絮與訪談片段。\[9\]
+
+6月7日通過[UNIVERSAL MUSIC
+JAPAN官方](../Page/環球音樂_\(日本\).md "wikilink")[YouTube頻道與太妍官網公開](../Page/YouTube.md "wikilink")《[TAEYEON
+JAPAN TOUR 2019
+\~Signal\~](../Page/TAEYEON_JAPAN_TOUR_2019_~Signal~.md "wikilink")》巡迴演唱會最終場《VOICE》的LIVE版本。\[10\]
 
 ## 發行版本
 
@@ -72,6 +77,8 @@ DVD》部份影像片段。\[8\]
   -
   -
   -
+  -
+  -
 [Category:2019年音樂專輯](https://zh.wikipedia.org/wiki/Category:2019年音樂專輯 "wikilink")
 [Category:日本音樂專輯](https://zh.wikipedia.org/wiki/Category:日本音樂專輯 "wikilink")
 
@@ -83,3 +90,5 @@ DVD》部份影像片段。\[8\]
 6.
 7.
 8.
+9.
+10.

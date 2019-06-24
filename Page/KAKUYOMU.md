@@ -82,6 +82,16 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/西野～校內地位最底層的異能世界最強少年～" title="wikilink">西野～校內地位最底層的異能世界最強少年～</a></p></td>
+<td><p>ぶんころり</p></td>
+<td><p>またのんき▼</p></td>
+<td><p><a href="https://kakuyomu.jp/works/1177354054883054477">テイルズ・オブ・西野</a></p></td>
+<td></td>
+<td><p>✔</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td><p>風見鶏</p></td>
 <td><p>u介</p></td>
@@ -93,7 +103,7 @@
 </ul></td>
 <td><p>✔</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/轉生為豬公爵的我，這次要向妳告白" title="wikilink">轉生為豬公爵的我，這次要向妳告白</a></p></td>
 <td><p>合田拍子</p></td>
 <td><p>nauribon</p></td>
@@ -105,7 +115,7 @@
 <td><p>✔</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/創始魔法師" title="wikilink">創始魔法師</a></p></td>
 <td><p>石之宮カント</p></td>
 <td><p>ファルまろ</p></td>
@@ -117,7 +127,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/打倒女神勇者的下流手段" title="wikilink">打倒女神勇者的下流手段</a></p></td>
 <td><p>笹木さくま</p></td>
 <td><p>遠坂あさぎ</p></td>
@@ -129,7 +139,7 @@
 </ul></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/幻獸調查員" title="wikilink">幻獸調查員</a></p></td>
 <td><p>綾里けいし</p></td>
 <td><p>lack</p></td>
@@ -139,7 +149,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/就算身為最後的人類" title="wikilink">就算身為最後的人類</a></p></td>
 <td><p>庵田定夏</p></td>
 <td><p>細居美惠子</p></td>
@@ -149,7 +159,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/本田小狼與我" title="wikilink">本田小狼與我</a></p></td>
 <td><p>トネ・コーケン</p></td>
 <td><p>博</p></td>
@@ -159,7 +169,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/淺草鬼妻日記" title="wikilink">淺草鬼妻日記</a></p></td>
 <td><p>友麻碧</p></td>
 <td><p>あやとき</p></td>
@@ -169,7 +179,7 @@
 <td></td>
 <td><p>✔</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>

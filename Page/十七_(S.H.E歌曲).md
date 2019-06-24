@@ -42,6 +42,31 @@
 | 十七 紀念單曲CF  | 2018年9月7日  | S.H.E華研國際音樂官方[YouTube頻道](../Page/YouTube.md "wikilink") | 廣告CF         | [連結](https://www.youtube.com/watch?v=bLOJzXBbye8)         |
 |            |            |                                                         |              |                                                           |
 
+## 製作團隊
+
+  - 和聲編寫：馬毓芬
+  - [和聲](https://zh.wikipedia.org/wiki/和聲 "wikilink")：S.H.E
+  - [弦樂編寫](https://zh.wikipedia.org/wiki/弦樂 "wikilink")：溫奕哲
+  - [吉他](../Page/吉他.md "wikilink")：鍾承洋
+  - [貝斯](https://zh.wikipedia.org/wiki/貝斯 "wikilink")：黃群翰
+  - [鼓](../Page/鼓.md "wikilink")：楊凱淋
+  - [口風琴](../Page/口風琴.md "wikilink")：溫奕哲
+  - 弦樂監製：溫奕哲
+  - [小提琴](../Page/小提琴.md "wikilink")：蔡曜宇、朱奕寧
+
+<!-- end list -->
+
+  - [中提琴](../Page/中提琴.md "wikilink")：甘威鵬
+  - [大提琴](../Page/大提琴.md "wikilink")：劉涵
+  - 弦樂錄音師：溫奕哲
+  - 弦樂錄音室：皮老闆錄音室
+  - Bass錄音室：Lights Up Studio
+  - 鼓錄音室：楊記錄音室
+  - 製作助理：張育碩
+  - [錄音師](https://zh.wikipedia.org/wiki/錄音 "wikilink")：馬丁
+  - [混音師](../Page/混音.md "wikilink")：Craig Burbidge @After Shock studio,
+    LA
+
 ## 音樂會
 
 [S.H.E十七音樂會_(44697854281).jpg](https://zh.wikipedia.org/wiki/File:S.H.E十七音樂會_\(44697854281\).jpg "fig:S.H.E十七音樂會_(44697854281).jpg")\]\]

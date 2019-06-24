@@ -145,8 +145,8 @@ LQG最佳化本身不確保有良好的[強健性](https://zh.wikipedia.org/wiki
 ## 相關條目
 
   - [隨機控制](../Page/隨機控制.md "wikilink")
+  - [Witsenhausen反例](../Page/Witsenhausen反例.md "wikilink")
 
-  -
 ## 參考資料
 
 ## 延伸閱讀

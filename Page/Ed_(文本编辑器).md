@@ -9,7 +9,7 @@ Thompson在](https://zh.wikipedia.org/wiki/Ken_Thompson "wikilink")1969年8月�
 
 [Dennis M.
 Ritchie生产了后来](https://zh.wikipedia.org/wiki/Dennis_M._Ritchie "wikilink")[Doug
-McIlroy所描述的](https://zh.wikipedia.org/wiki/Doug_McIlroy "wikilink")“终极”ed\[5\]，ed的各方面转而影响了[ex](https://zh.wikipedia.org/wiki/Ex_\(文本编辑器\) "wikilink")，它依次又产生了[vi](https://zh.wikipedia.org/wiki/vi "wikilink")。非交互式Unix命令[grep受到qed和后来的ed常见特定用法的启发](https://zh.wikipedia.org/wiki/grep "wikilink")，它们的命令`g/re/p`含义是全局查找正则表达式`re`并打印包含它的行。Unix流式编辑器[sed实现了](https://zh.wikipedia.org/wiki/sed "wikilink")[qed的很多脚本特征](https://zh.wikipedia.org/wiki/QED_\(text_editor\) "wikilink")，而Unix上的ed却不支持。
+McIlroy所描述的](https://zh.wikipedia.org/wiki/Doug_McIlroy "wikilink")“终极”ed\[5\]，ed的各方面转而影响了[ex](https://zh.wikipedia.org/wiki/Ex_\(文本编辑器\) "wikilink")，它依次又产生了[vi](https://zh.wikipedia.org/wiki/vi "wikilink")。非交互式Unix命令[grep受到qed和后来的ed常见特定用法的启发](https://zh.wikipedia.org/wiki/grep "wikilink")，它们的命令`g/re/p`含义是全局查找正则表达式`re`并打印包含它的行。Unix流式编辑器[sed实现了未被Unix上的ed所支持的](https://zh.wikipedia.org/wiki/sed "wikilink")[qed的很多脚本特征](https://zh.wikipedia.org/wiki/QED_\(text_editor\) "wikilink")。
 
 ## 特征
 
@@ -63,12 +63,12 @@ NT中](../Page/Windows_NT.md "wikilink")，[EDLIN有某种程度上类似的语�
 
 开始于一个空文件，`a`命令附加文本，所有ed命令都是单一字母。这个命令安置ed进入“插入模式”，插入随后的字符，并由只有一个单一的点的行终止。在此点终止前键入的两行进入文件缓冲区。`2i`命令也进入插入模式，并在第2行之前插入键入的文本，这里是空行。所有命令都可以前缀一个行号来在此行上进行操作。
 
-在行`,l`中，l表示列表命令。这个命令前缀着一个范围，这里是`,`，它是`1,$`的简写。范围是由逗号分割的两个行号，`$`意味着最后一行。作为回应，ed列出所有行，从最先至最后。这些行用美元号终结，所以在行尾的空白明显可见。
+在行`,l`中，l表示列表命令。这个命令前缀着一个范围，这里是`,`，它是`1,$`的简写。范围是由逗号分隔的两个行号，`$`意味着最后一行。作为回应，ed列出所有行，从最先至最后。这些行用美元号终结，所以在行尾的空白明显可见。
 
 一旦空行被插入到第2行前，读作“This is line number
 two”的行，现在实际上是第3行。这个错误使用`3s/two/three/`命令来更正，这是替换命令。`3`指定应用这个命令的那个行；随后是要被替换的文本，接着是要替代成的文本。现在用`,l`命令列出的行是正确的了。
 
-`w text`命令写缓冲区到文件“text”，使得ed用“65”来相应，这是写到文件中的字符数目。`q`命令结束ed会话。
+`w text`命令写缓冲区到文件“text”，使得ed用“65”来响应，这是写到文件中的字符数目。`q`命令结束ed会话。
 
 ## 参见
 

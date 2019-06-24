@@ -31,10 +31,10 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2018年11月5日－</p></td>
+<td><p>2018年11月5日－2019年6月11日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Naver" title="wikilink">Naver V App</a>、<a href="../Page/YouTube.md" title="wikilink">YouTube</a></p></td>
 <td><p>《ENOZI Cam》</p></td>
-<td><p>幕後花絮</p></td>
+<td><p>幕後花絮，第一季</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -96,7 +96,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2019年5月10日－</p></td>
+<td><p>2019年5月10日－6月11日</p></td>
 <td><p>Naver V App、YouTube</p></td>
 <td><p>《ENOZI Cam Plus》</p></td>
 <td></td>
@@ -402,6 +402,13 @@
 <td><p>STEP ONE</p></td>
 <td></td>
 <td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年6月19日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/NHK广播第1频率" title="wikilink">NHK广播第1频率</a></p></td>
+<td><p>古家正亨的POP★A</p></td>
+<td><p>全員</p></td>
+<td><p>张员瑛因年龄而事前录制</p></td>
 </tr>
 </tbody>
 </table>

@@ -83,12 +83,12 @@
 <td><center>
 <p><a href="../Page/卞慶華.md" title="wikilink">卞慶華</a></p></td>
 <td><center>
-<p>Jack</p></td>
-<td><p>唐毅的得力左右手，也是唐毅的貼身保鑣，協助唐毅進行行天盟的漂白工作。個性亦正亦邪，當過傭兵的他，利益絕對是優先考量，無謂生死，只想享受當下，看盡人性的黑暗，為達目的在所不惜。 由於少飛糾纏著唐毅，因此認識被自己一騙再騙還是上當的傻子趙立安，他很好奇身為刑警的趙子，在看過這麼多現實險惡之後，居然還能抱持著人性本善的初衷？因此被他的單純吸引，為了守護這份純真，因此開始有定下來的念頭。</p></td>
+<p>Jack 方亮典</p></td>
+<td><p>唐毅的得力左右手，也是唐毅的貼身保鑣，協助唐毅進行行天盟的漂白工作。真相是國際刑警科隊員臥底，個性亦正亦邪，當過傭兵的他，利益絕對是優先考量，無謂生死，只想享受當下，看盡人性的黑暗，為達目的在所不惜。 由於少飛糾纏著唐毅，因此認識被自己一騙再騙還是上當的傻子趙立安，他很好奇身為刑警的趙子，在看過這麼多現實險惡之後，居然還能抱持著人性本善的初衷？因此被他的單純吸引，為了守護這份純真，因此開始有定下來的念頭。</p></td>
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/陳廷軒_(演員)" title="wikilink">陳廷軒</a></p></td>
+<p><a href="../Page/陳廷軒_(演員).md" title="wikilink">陳廷軒</a></p></td>
 <td><center>
 <p>趙立安</p></td>
 <td><p>綽號趙子，偵三隊隊員，孟少飛的搭檔。外表無害的柴犬系男子。個性有點迷糊但天真樂觀，凡事看得開、善良過頭的老實人。功夫一般般，但擅長數位科技，跟少飛搭擋，一個用腦一個用武，合作無間。 就算身為刑警，看盡人性的黑暗面，雖會失落會受傷，但仍堅信著人性本善，每個人都有苦衷才會犯錯。有著純良性格之外，本身還是個大吃貨，被Jack的廚技深深吸引，成功圈走了他的胃也套住他的心。</p></td>
@@ -105,35 +105,35 @@
 <p><a href="../Page/丁春誠.md" title="wikilink">丁春誠</a></p></td>
 <td><center>
 <p>古道一</p></td>
-<td><p>行天盟的要員，是唐國棟的心腹之一，外型精實、忠實木訥、沉默寡言。受唐國棟委託，擔任紅葉保母兼保鑣。紅葉替唐毅漂白行天盟，成立世海集團後，被拔擢成為紅葉的機要秘書兼保鑣。喜歡左紅葉。</p></td>
+<td><p>行天盟的上一輩要員，唐國棟兄弟，外型精實、忠實木訥、沉默寡言。受唐國棟委託，擔任紅葉保母兼保鑣。紅葉替唐毅漂白行天盟，成立世海集團後，被拔擢成為紅葉的機要秘書兼保鑣。喜歡左紅葉。</p></td>
 </tr>
 <tr class="even">
 <td><center>
 <p><a href="../Page/梅賢治.md" title="wikilink">梅賢治</a></p></td>
 <td><center>
 <p>李至德</p></td>
-<td><p>阿德，行天盟的要員。 唐毅手下，對唐毅很崇拜；為了唐毅可以做任何事情。深愛唐毅多年，但唐毅對他只能是兄弟。 被阿志滅口。</p></td>
+<td><p>阿德，行天盟的要員。 唐毅手下，對唐毅很崇拜；為了唐毅可以做任何事情。深愛唐毅多年，但唐毅對他只能是兄弟。被阿志滅口。</p></td>
 </tr>
 <tr class="odd">
 <td><center>
 <p><a href="https://zh.wikipedia.org/wiki/陳家逵" title="wikilink">陳家逵</a></p></td>
 <td><center>
 <p>陳文浩</p></td>
-<td><p>柬埔寨毒梟的幕後首腦。唐毅的親生父親。</p></td>
+<td><p>柬埔寨毒梟的幕後首腦，偵三隊和行天盟費盡心力想抓到的目標。唐毅的親生父親。</p></td>
 </tr>
 <tr class="even">
 <td><center>
 <p><a href="https://zh.wikipedia.org/wiki/周明宇" title="wikilink">周明宇</a></p></td>
 <td><center>
 <p>唐國棟</p></td>
-<td><p>行天盟老大，唐毅及左紅葉的養父。</p></td>
+<td><p>行天盟老大，唐毅及左紅葉的養父，四年前與李麗真一起死於槍殺。</p></td>
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/賀龍" title="wikilink">賀龍</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/賀龍_(演員)" title="wikilink">賀龍</a></p></td>
 <td><center>
 <p>石大砲</p></td>
-<td><p>偵三隊隊長。</p></td>
+<td><p>偵三隊前隊長。小亞的父親。因掩護周冠志販毒一事去自首而辭職。</p></td>
 </tr>
 <tr class="even">
 <td><center>
@@ -153,8 +153,8 @@
 <td><center>
 <p><a href="../Page/蔡承邑.md" title="wikilink">蔡承邑</a></p></td>
 <td><center>
-<p>阿志</p></td>
-<td><p>偵三隊隊員。是殺死李至德的兇手。</p></td>
+<p>周冠志</p></td>
+<td><p>偵三隊前隊員。四年前殺死唐國棟、李麗貞，並殺害李至德滅口的兇手，後自首而辭職。</p></td>
 </tr>
 <tr class="odd">
 <td><center>
@@ -182,7 +182,7 @@
 <p><a href="https://zh.wikipedia.org/wiki/林明森" title="wikilink">林明森</a></p></td>
 <td><center>
 <p>顏正強</p></td>
-<td><p>國際刑警科隊長。</p></td>
+<td><p>國際刑警科隊長，Jack的長官。</p></td>
 </tr>
 <tr class="odd">
 <td><center>
@@ -202,7 +202,7 @@
 <td><center>
 <p><a href="https://zh.wikipedia.org/wiki/翁嘉駿" title="wikilink">翁嘉駿</a></p></td>
 <td><center>
-<p>養父</p></td>
+<p>李守信</p></td>
 <td><p>唐毅的養父，討厭唐毅。</p></td>
 </tr>
 <tr class="even">
@@ -210,7 +210,7 @@
 <p><a href="https://zh.wikipedia.org/wiki/梁洳瑄" title="wikilink">梁洳瑄</a></p></td>
 <td><center>
 <p>小亞</p></td>
-<td></td>
+<td><p>石大炮的女兒。</p></td>
 </tr>
 <tr class="odd">
 <td><center>
@@ -228,7 +228,7 @@
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/闕文明" title="wikilink">闕文明</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/關文明" title="wikilink">關文明</a></p></td>
 <td><center>
 <p>王坤成</p></td>
 <td><p>柬埔寮毒梟。</p></td>
@@ -311,6 +311,13 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><center>
+<p><a href="../Page/邱志宇.md" title="wikilink">邱志宇</a></p></td>
+<td><center>
+<p>江兆鵬</p></td>
+<td><p>是奕杰的好朋友，江勁堂的小叔公，目前正在馬里考古。</p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -511,6 +518,12 @@
 <td><center></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><center>
+<p><a href="https://zh.wikipedia.org/wiki/彭紫莛" title="wikilink">彭紫莛</a></p></td>
+<td><center></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -541,6 +554,7 @@
   - 2019年4月11日《圈套》記者會。
   - 2019年4月16日《圈套》開播。
   - 2019年5月16日《那一天》開鏡。
+  - 2019年6月12日《圈套》完結篇。
 
 ## 參考資料
 

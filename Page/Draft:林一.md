@@ -11,7 +11,7 @@ Yi，1999年1月27日－）現為[唐人影視旗下演員](https://zh.wikipedia
 
 ### 2018年至今:嶄露光芒
 
-2018年8月9日，與[邢菲](../Page/邢菲.md "wikilink")、[唐曉天](https://zh.wikipedia.org/wiki/唐曉天 "wikilink")、[鄭英辰合作主演改編自](https://zh.wikipedia.org/wiki/鄭英辰 "wikilink")[趙乾乾同名小說的青春愛情劇](https://zh.wikipedia.org/wiki/趙乾乾 "wikilink")《[致我們暖暖的小時光](https://zh.wikipedia.org/wiki/致我們暖暖的小時光 "wikilink")》在[浙江](https://zh.wikipedia.org/wiki/浙江 "wikilink")[寧波開機](https://zh.wikipedia.org/wiki/寧波 "wikilink")\[4\]，在劇中飾演顧未易\[5\]\[6\]，2019年4月2日正式開播\[7\]\[8\]。劇集播出後，其人氣急升，迅速走紅\[9\]。
+2018年8月9日，與[邢菲](../Page/邢菲.md "wikilink")、[唐曉天](https://zh.wikipedia.org/wiki/唐曉天 "wikilink")、[鄭英辰合作主演改編自](https://zh.wikipedia.org/wiki/鄭英辰 "wikilink")[趙乾乾同名小說的青春愛情劇](https://zh.wikipedia.org/wiki/趙乾乾 "wikilink")《[致我們暖暖的小時光](../Page/致我們暖暖的小時光.md "wikilink")》在[浙江](https://zh.wikipedia.org/wiki/浙江 "wikilink")[寧波開機](https://zh.wikipedia.org/wiki/寧波 "wikilink")\[4\]，在劇中飾演顧未易\[5\]\[6\]，2019年4月2日正式開播\[7\]\[8\]。劇集播出後，其人氣急升，迅速走紅\[9\]。
 
 ## 影視作品
 
@@ -50,10 +50,10 @@ Yi，1999年1月27日－）現為[唐人影視旗下演員](https://zh.wikipedia
 
 ### 網絡劇
 
-| 年份   | 網絡劇                                                             | 角色  | 首播頻道                                                  | 備註      | 來源     |
-| ---- | --------------------------------------------------------------- | --- | ----------------------------------------------------- | ------- | ------ |
-| 2019 | [致我們暖暖的小時光](https://zh.wikipedia.org/wiki/致我們暖暖的小時光 "wikilink") | 顧未易 | [騰訊視頻](https://zh.wikipedia.org/wiki/騰訊視頻 "wikilink") | **男主角** | \[11\] |
-|      |                                                                 |     |                                                       |         |        |
+| 年份   | 網絡劇                                          | 角色  | 首播頻道                                                  | 備註      | 來源     |
+| ---- | -------------------------------------------- | --- | ----------------------------------------------------- | ------- | ------ |
+| 2019 | [致我們暖暖的小時光](../Page/致我們暖暖的小時光.md "wikilink") | 顧未易 | [騰訊視頻](https://zh.wikipedia.org/wiki/騰訊視頻 "wikilink") | **男主角** | \[11\] |
+|      |                                              |     |                                                       |         |        |
 
 ## 個人生活
 

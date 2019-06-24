@@ -1,6 +1,5 @@
 **Nokia
-3.1**，是一款运行[Android操作系统的诺基亚品牌低](../Page/Android.md "wikilink")-{zh-hans:端;
-zh-hant:階}-智能手机。
+3.1**，是一款运行[Android操作系统的诺基亚品牌中端智能手机](../Page/Android.md "wikilink")。
 
 ## 规格
 
@@ -10,14 +9,15 @@ Nokia 3.1由联发科MT6750中央处理器驱动，分四种规格：2GB RAM + 1
 ROM、3GB RAM + 16GB ROM、3GB RAM + 32GB ROM。除了内存和存储空间外，其他硬件-{zh-hans:参数;
 zh-hant:規格}-没有差异。
 
-显示面板为5.2英寸HD+ 液晶-{zh-hans:屏; zh-hant:螢幕}-，分辨率为18：9。
+显示面板为5.2英寸HD+液晶屏，分辨率为18：9。
 
 后置摄像头1300万像素，前置摄像头为800万像素。
 
 ### 软件
 
-这款手机搭载了Android Oreo操作系统（[Android](../Page/Android.md "wikilink")
-8.1），并且其开发商HMD承诺Nokia 3.1提供两年系统更新和三年安全补丁更新。
+这款手机搭载了[Android
+8.1操作系统](../Page/Android_Oreo.md "wikilink")，并且其开发商HMD承诺Nokia
+3.1提供两年系统更新和三年安全补丁更新。
 
 ## 参考资料
 

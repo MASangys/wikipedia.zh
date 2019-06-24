@@ -188,7 +188,7 @@ Decker！刑事雙雄**》是[日昇動畫推出的原創](../Page/日昇動畫.
 <td><p>#07</p></td>
 <td></td>
 <td><p>一波三折的復仇</p></td>
-<td></td>
+<td><p>復仇竟然是為了那個</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/神保昌登" title="wikilink">神保昌登</a></p></td>
 <td><p>榊原智次、重國勇二<br />
 森田實</p></td>
@@ -199,18 +199,18 @@ Decker！刑事雙雄**》是[日昇動畫推出的原創](../Page/日昇動畫.
 <td><p>#08</p></td>
 <td></td>
 <td><p>起舞！學園搜查線</p></td>
-<td></td>
 <td><p>吉田惠里香</p></td>
 <td><p>西澤晉</p></td>
 <td><p>平沼加名</p></td>
 <td><p>山本美佳、小林利充<br />
 鎌田均、中野圭哉</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>#09</p></td>
 <td></td>
 <td><p>別思考 爽就好</p></td>
-<td></td>
+<td><p>別想，感覺真好</p></td>
 <td><p>鈴木智尋</p></td>
 <td><p>北村真咲</p></td>
 <td><p>德本善信、安藤良</p></td>
@@ -221,7 +221,7 @@ Decker！刑事雙雄**》是[日昇動畫推出的原創](../Page/日昇動畫.
 <td><p>#10</p></td>
 <td></td>
 <td><p>落第刑警 純情派</p></td>
-<td></td>
+<td><p>不濟的刑警，純情派</p></td>
 <td><p>吉田惠里香</p></td>
 <td><p><a href="../Page/加瀨充子.md" title="wikilink">加瀨充子</a></p></td>
 <td><p>伊部勇志</p></td>

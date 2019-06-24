@@ -1,5 +1,5 @@
-**iPad mini**（技术上称**第五代iPad
-mini**）是[苹果在](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")2019年3月18日于其官网更新的一款7.9英寸[iPad](https://zh.wikipedia.org/wiki/iPad "wikilink")[平板电脑产品](../Page/平板電腦.md "wikilink")。iPad
+**第五代iPad mini**（正式名称仅为**iPad mini**，而**iPad mini
+5**为俗称）是[苹果在](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")2019年3月18日于其官网更新的一款7.9英寸[iPad](https://zh.wikipedia.org/wiki/iPad "wikilink")[平板电脑产品](../Page/平板電腦.md "wikilink")。iPad
 mini第五代搭载[A12仿生处理器](../Page/Apple_A12_Bionic.md "wikilink")、支持P3广色域显示和原彩显示的[视网膜显示屏](../Page/Retina显示屏.md "wikilink")，并首次支持了[Apple
 Pencil](../Page/Apple_Pencil.md "wikilink")（第一代）和第三方蓝牙键盘连接。其仍旧保留了前代机型[iPad
 mini 4的机身设计](../Page/IPad_mini_4.md "wikilink")、边框宽度和[触控
@@ -53,19 +53,19 @@ Pencil第一代](../Page/Apple_Pencil.md "wikilink")。\[2\]
 |    | [<font color=E3D0BA>金色</font>](https://zh.wikipedia.org/wiki/金色 "wikilink")     | Gold       | 正面為白色 |
 |    |                                                                                 |            |       |
 
-## 价格
+## 價格
 
-发布时，iPad mini第五代售价为：
+iPad mini (第五代) 建議售價為：
 
-无线网络版：
+WiFi版：
 
-  - 64GB：2999 [RMB](../Page/人民币.md "wikilink")（中国大陆）
-  - 256GB：4199 RMB（中国大陆）
+  - 64GB：12900 NT$（台灣）
+  - 256GB：17900 NT$（台灣）
 
-无线网络+蜂窝数据版：
+WiFi+行動網路版：
 
-  - 64GB：3999 RMB（中国大陆）
-  - 256GB：5199 RMB（中国大陆）\[3\]
+  - 64GB：17400 NT$（台灣）
+  - 256GB：22400 NT$（台灣）\[3\]
 
 ## 大事记
 
@@ -94,6 +94,7 @@ Pencil第一代](../Page/Apple_Pencil.md "wikilink")。\[2\]
 [Category:IPad](https://zh.wikipedia.org/wiki/Category:IPad "wikilink")
 [Category:平板电脑](https://zh.wikipedia.org/wiki/Category:平板电脑 "wikilink")
 [Category:IPad_mini](https://zh.wikipedia.org/wiki/Category:IPad_mini "wikilink")
+[Category:2019年面世的平板電腦](https://zh.wikipedia.org/wiki/Category:2019年面世的平板電腦 "wikilink")
 
 1.
 2.

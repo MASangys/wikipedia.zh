@@ -85,19 +85,19 @@
 <td><p>20</p></td>
 <td><p>8</p></td>
 <td><p>2019/06/04</p></td>
-<td><p>%</p></td>
+<td><p>2.230%</p></td>
 </tr>
 <tr class="odd">
 <td><p>21</p></td>
 <td><p>9</p></td>
 <td><p>2019/06/11</p></td>
-<td><p>%</p></td>
+<td><p>1.926%</p></td>
 </tr>
 <tr class="even">
 <td><p>22</p></td>
 <td><p>10</p></td>
 <td><p>2019/06/18</p></td>
-<td><p>%</p></td>
+<td><p>2.392%</p></td>
 </tr>
 <tr class="odd">
 <td><p>23</p></td>

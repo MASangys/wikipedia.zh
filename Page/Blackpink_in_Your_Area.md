@@ -9,8 +9,8 @@ Area》的告示，曲目包含日語版的《[Boombayah](https://zh.wikipedia.o
 with
 Fire](https://zh.wikipedia.org/wiki/Playing_with_Fire_\(BLACKPINK歌曲\) "wikilink")》、《[As
 If It's Your Last](../Page/As_If_It's_Your_Last.md "wikilink")》、《[Ddu-Du
-Ddu-Du](https://zh.wikipedia.org/wiki/Ddu-Du_Ddu-Du "wikilink")》等歌曲，還有作為「」的《Forever
-Young》、《Really》以及《See U
+Ddu-Du](https://zh.wikipedia.org/wiki/Ddu-Du_Ddu-Du "wikilink")》等歌曲，還有作為「」的《》、《Really》以及《See
+U
 Later》三首同名日語再錄版歌曲也將首次收錄在BLACKPINK的日語專輯中，這也標誌著她們出道至今共發行的9首歌曲除了韓語外也全數重新錄製了日語版本\[1\]。
 
 隨後YGEX宣佈將於11月23日午夜0時通過各大數位音樂網站率先公開《Blackpink in Your

@@ -1,8 +1,8 @@
-《**你那邊怎樣·我這邊OK**》（）是一部台灣和新加坡合拍的[八點檔電視劇](../Page/八點檔.md "wikilink")，由[臺灣电视公司](https://zh.wikipedia.org/wiki/臺灣电视公司 "wikilink")、[拙八郎创意执行有限公司和](https://zh.wikipedia.org/wiki/拙八郎创意执行有限公司 "wikilink")[新加坡新传媒私人有限公司首次联合制作](../Page/新传媒私人有限公司.md "wikilink")、合作拍摄，[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[新加坡跨國合作兩地實景拍摄](../Page/新加坡.md "wikilink")；台灣團隊由身兼總導演、總監製的[王小棣帶領](../Page/王小棣.md "wikilink")、新加坡團隊由監製[梁來玲帶領](https://zh.wikipedia.org/wiki/梁來玲 "wikilink")，並且由[藍正龍](../Page/藍正龍.md "wikilink")、[曾之喬](../Page/曾之喬.md "wikilink")、[劉冠廷](../Page/劉冠廷.md "wikilink")、[陳泂江](../Page/陳泂江.md "wikilink")、[陳羅密歐](https://zh.wikipedia.org/wiki/陳羅密歐 "wikilink")、[沈琳宸領銜主演](https://zh.wikipedia.org/wiki/沈琳宸 "wikilink")，[藍心湄](../Page/藍心湄.md "wikilink")、曹西平、[曾沛慈](../Page/曾沛慈.md "wikilink")、[庹宗華](../Page/庹宗華.md "wikilink")、[吳岳擎](../Page/吳岳擎.md "wikilink")、[張耀仁](../Page/張耀仁.md "wikilink")、[黄俊雄](https://zh.wikipedia.org/wiki/黄俊雄 "wikilink")、[方伟杰](https://zh.wikipedia.org/wiki/方伟杰 "wikilink")、[鄭惠玉](https://zh.wikipedia.org/wiki/鄭惠玉 "wikilink")、[陳漢瑋](../Page/陳漢瑋.md "wikilink")、[張耀棟](../Page/張耀棟.md "wikilink")、[蔡琦慧](../Page/蔡琦慧.md "wikilink")、[陳泰銘](https://zh.wikipedia.org/wiki/陳泰銘 "wikilink")、[陳楚寰等台](../Page/陳楚寰.md "wikilink")、新知名演員共同演出。\[1\]\[2\]
+《**你那邊怎樣·我這邊OK**》（）是一部台灣和新加坡合拍的[八點檔電視劇](../Page/八點檔.md "wikilink")，由[臺灣电视公司](https://zh.wikipedia.org/wiki/臺灣电视公司 "wikilink")、[拙八郎创意执行有限公司和](https://zh.wikipedia.org/wiki/拙八郎创意执行有限公司 "wikilink")[新加坡新传媒私人有限公司首次联合制作](../Page/新传媒私人有限公司.md "wikilink")、合作拍摄，[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[新加坡跨國合作兩地實景拍摄](../Page/新加坡.md "wikilink")；台灣團隊由身兼總導演、總監製的[王小棣帶領](../Page/王小棣.md "wikilink")、新加坡團隊由監製[梁來玲帶領](https://zh.wikipedia.org/wiki/梁來玲 "wikilink")，並且由[藍正龍](../Page/藍正龍.md "wikilink")、[曾之喬](../Page/曾之喬.md "wikilink")、[劉冠廷](../Page/劉冠廷.md "wikilink")、[陳泂江](../Page/陳泂江.md "wikilink")、[陳羅密歐](https://zh.wikipedia.org/wiki/陳羅密歐 "wikilink")、[沈琳宸領銜主演](https://zh.wikipedia.org/wiki/沈琳宸 "wikilink")，[藍心湄](../Page/藍心湄.md "wikilink")、曹西平、[曾沛慈](../Page/曾沛慈.md "wikilink")、[庹宗華](../Page/庹宗華.md "wikilink")、[吳岳擎](../Page/吳岳擎.md "wikilink")、[張耀仁](../Page/張耀仁.md "wikilink")、[黄俊雄](https://zh.wikipedia.org/wiki/黄俊雄 "wikilink")、[方伟杰](https://zh.wikipedia.org/wiki/方伟杰 "wikilink")、[鄭惠玉](https://zh.wikipedia.org/wiki/鄭惠玉 "wikilink")、[陳漢瑋](../Page/陳漢瑋.md "wikilink")、[張耀棟](../Page/張耀棟.md "wikilink")、[蔡琦慧](../Page/蔡琦慧.md "wikilink")、[陳泰銘](https://zh.wikipedia.org/wiki/陳泰銘 "wikilink")、[陳楚寰等台](../Page/陳楚寰.md "wikilink")、新知名演員共同演出。\[1\]\[2\]本劇於2019年1月16日開拍，5月30日殺青。
 
 本剧以2016年轰动台湾的自动提款机吐钞盗领案件为背景，剧情将双线开展，一条故事线在新加坡，另一条故事线则在台北；本剧同时也獲得中華民國文化部107年度電視節目製作補助案連續劇類補助3800萬元。\[3\]
 \[4\]
-本剧将在2019年8月底播出；新加坡故事线将在每逢星期一到五晚上9点在[新传媒8频道播出](https://zh.wikipedia.org/wiki/新传媒8频道 "wikilink")，台灣故事线则在同一晚10点在[新传媒U频道播出](https://zh.wikipedia.org/wiki/新传媒U频道 "wikilink")。[台視主頻也将同步播映这部剧集](../Page/臺灣電視台.md "wikilink")。\[5\]
+本剧将在2019年8月底開始播出；新加坡故事线将在每逢星期一到五晚上9点在[新传媒8频道播出](https://zh.wikipedia.org/wiki/新传媒8频道 "wikilink")，台灣故事线则在同一晚10点在[新传媒U频道播出](https://zh.wikipedia.org/wiki/新传媒U频道 "wikilink")。[台視主頻也将同步播映这部剧集](../Page/臺灣電視台.md "wikilink")。\[5\]
 
 ## 剧情双线发展的特点
 
@@ -25,7 +25,7 @@
 <tr class="odd">
 <td><p><a href="../Page/臺灣電視台.md" title="wikilink">台視主頻</a></p></td>
 <td></td>
-<td><p>2019年8月26日</p></td>
+<td><p>2019年8月</p></td>
 <td><p><strong>台灣篇（20集）</strong><br />
 週一至週五20:00 - 21:00</p></td>
 </tr>
@@ -39,7 +39,7 @@
 <tr class="odd">
 <td><p><a href="../Page/新傳媒8頻道.md" title="wikilink">新傳媒8頻道</a></p></td>
 <td></td>
-<td><p>2019年8月26日</p></td>
+<td><p>2019年8月</p></td>
 <td><p><strong>新加坡篇（20集）</strong><br />
 週一至週五21:00 - 22:00</p></td>
 </tr>
@@ -256,7 +256,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/楊雄" title="wikilink">楊雄</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/楊雄_(演員)" title="wikilink">楊雄</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -399,10 +399,7 @@
 
 注：此章節不記載重播（包括從其他當地電視台的重播節目）或新聞節目
 
-  - [新傳媒5頻道](https://zh.wikipedia.org/wiki/新傳媒5頻道 "wikilink")：“[Fried
-    Rice
-    Paradise](https://zh.wikipedia.org/wiki/炒飯天堂 "wikilink")”／“Talking
-    Point”／“On The Red Dot”
+  - [新傳媒5頻道](https://zh.wikipedia.org/wiki/新傳媒5頻道 "wikilink")：
   - [新傳媒8頻道](../Page/新傳媒8頻道.md "wikilink")：
   - [新傳媒U頻道](../Page/新傳媒U頻道.md "wikilink")：
   - [亞洲新聞台](https://zh.wikipedia.org/wiki/亞洲新聞台 "wikilink")：

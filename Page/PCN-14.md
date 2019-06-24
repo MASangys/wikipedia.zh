@@ -11,10 +11,11 @@ PCN-14可以高效地吸附[甲烷](../Page/甲烷.md "wikilink")\[4\]和[氢气
 
 ## 参考文献
 
-[Category:铜化合物](https://zh.wikipedia.org/wiki/Category:铜化合物 "wikilink")
+[Category:二价铜化合物](https://zh.wikipedia.org/wiki/Category:二价铜化合物 "wikilink")
 [Category:金属有机框架材料](https://zh.wikipedia.org/wiki/Category:金属有机框架材料 "wikilink")
 [Category:2000年代发现的物质](https://zh.wikipedia.org/wiki/Category:2000年代发现的物质 "wikilink")
 [Category:水合物](https://zh.wikipedia.org/wiki/Category:水合物 "wikilink")
+[Category:铜配合物](https://zh.wikipedia.org/wiki/Category:铜配合物 "wikilink")
 
 1.
 2.

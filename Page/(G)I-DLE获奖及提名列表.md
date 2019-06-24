@@ -375,7 +375,7 @@
 <td><p>第14届</p></td>
 <td><p>New Star Award（歌手部门）</p></td>
 <td><p>(G)I-DLE</p></td>
-<td></td>
+<td><p>[22]</p></td>
 </tr>
 </tbody>
 </table>
@@ -386,7 +386,7 @@
 
 | 年份    | 届数       | 项目     | 成员 | 成绩                |
 | ----- | -------- | ------ | -- | ----------------- |
-| 2019年 | 第16届春节特辑 | 女子艺术体操 | 舒華 | 铜牌（总分12.70）\[22\] |
+| 2019年 | 第16届春节特辑 | 女子艺术体操 | 舒華 | 铜牌（总分12.70）\[23\] |
 
 ### 韩国女团品牌价值排行
 
@@ -442,6 +442,7 @@
 <li><a href="http://www.rekorea.net/bbs/board.php?bo_table=repu4&amp;wr_id=348">2019年3月女团品牌价值排行第8名</a></li>
 <li><a href="http://www.rekorea.net/bbs/board.php?bo_table=repu4&amp;wr_id=358">2019年4月女团品牌价值排行第21名</a></li>
 <li><a href="http://www.rekorea.net/bbs/board.php?bo_table=repu4&amp;wr_id=366">2019年5月女团品牌价值排行第11名</a></li>
+<li><a href="http://www.rekorea.net/bbs/board.php?bo_table=repu4&amp;wr_id=375">2019年6月女团品牌价值排行第28名</a></li>
 </ul>
 <p></ref></p></td>
 <td><p>20</p></td>
@@ -449,7 +450,7 @@
 <td><p>8</p></td>
 <td><p>21</p></td>
 <td><p>11</p></td>
-<td></td>
+<td><p>28</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -464,18 +465,18 @@
 
 | 年份                     | 奖项           |
 | ---------------------- | ------------ |
-| 2018年                  | 首尔面孔\[23\]   |
-| 2019年                  | 首尔宣传大使\[24\] |
-| 韩国儿童糖尿病协会 - 宣传大使\[25\] |              |
+| 2018年                  | 首尔面孔\[24\]   |
+| 2019年                  | 首尔宣传大使\[25\] |
+| 韩国儿童糖尿病协会 - 宣传大使\[26\] |              |
 
 ### 其它奖项及荣誉
 
 | 年份                                               | 奖项                                                                                    |
 | ------------------------------------------------ | ------------------------------------------------------------------------------------- |
-| 2018年                                            | [The Show](https://zh.wikipedia.org/wiki/The_Show "wikilink") - Work Hard Award\[26\] |
-| Youtube Rewind 2018 - Rising Star第3名\[27\]\[28\] |                                                                                       |
-| Billboard - 2018年K-Pop新人第1名\[29\]                |                                                                                       |
-| 2019年                                            | 2019 Global Vlive Top 10 - 新人第1名\[30\]                                                |
+| 2018年                                            | [The Show](https://zh.wikipedia.org/wiki/The_Show "wikilink") - Work Hard Award\[27\] |
+| Youtube Rewind 2018 - Rising Star第3名\[28\]\[29\] |                                                                                       |
+| Billboard - 2018年K-Pop新人第1名\[30\]                |                                                                                       |
+| 2019年                                            | 2019 Global Vlive Top 10 - 新人第1名\[31\]                                                |
 
 ## 音乐节目奖项
 
@@ -483,23 +484,23 @@
 
 | 年份          | 日期          | 歌曲名称   |
 | ----------- | ----------- | ------ |
-| 2018年       | 5月22日\[31\] | LATATA |
-| 5月29日\[32\] |             |        |
-| 9月4日\[33\]  | HANN        |        |
+| 2018年       | 5月22日\[32\] | LATATA |
+| 5月29日\[33\] |             |        |
+| 9月4日\[34\]  | HANN        |        |
 
 ### [Show Champion](../Page/Show_Champion.md "wikilink")
 
 | 年份    | 日期          | 歌曲名称     |
 | ----- | ----------- | -------- |
-| 2018年 | 8月29日\[34\] | HANN     |
-| 2019年 | 3月6日\[35\]  | Senorita |
+| 2018年 | 8月29日\[35\] | HANN     |
+| 2019年 | 3月6日\[36\]  | Senorita |
 
 ### [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")
 
 | 年份         | 日期          | 歌曲名称   |
 | ---------- | ----------- | ------ |
-| 2018年      | 5月24日\[36\] | LATATA |
-| 9月6日\[37\] | HANN        |        |
+| 2018年      | 5月24日\[37\] | LATATA |
+| 9月6日\[38\] | HANN        |        |
 
 ## 参考资料
 
@@ -576,50 +577,53 @@
     their work on
     K/DA（奖杯：⋯⋯、(G)I-DLE）、⋯⋯）](https://twitter.com/Jeff__Benjamin/status/1125278002089222145).
     twitter Jeff Benjamin. May 5, 2019.
-22. [《2019偶像运动会》各项目金银铜牌总整理](http://www.sohu.com/a/293610795_825604).
+22. [여자아이들 '신인상 수상 영광이에요\~'(2019
+    아시아모델어워즈)](http://bntnews.hankyung.com/apps/news?popup=0&nid=04&c1=04&c2=04&c3=00&nkey=201906091955493&mode=sub_view).
+    bnt NEWS. June 9, 2019.
+23. [《2019偶像运动会》各项目金银铜牌总整理](http://www.sohu.com/a/293610795_825604).
     搜狐娱乐. February 7, 2019.
-23. [\#2018서울의얼굴을찾습니다 시민의
+24. [\#2018서울의얼굴을찾습니다 시민의
     PICK은?\!](https://twitter.com/seoulmania/status/1065929135241887744).
     twitter 서울시. November 23, 2018.
-24. [(여자)아이들이 2019년 서울홍보대사로 선정된 소식
+25. [(여자)아이들이 2019년 서울홍보대사로 선정된 소식
     들으셨나요?](https://twitter.com/G_I_DLE/status/1095686301041324034).
     twitter G_I_DLE. February 13, 2019.
-25. [대한당뇨병연합](https://www.facebook.com/permalink.php?story_fbid=2344494559119917&id=2278572002378840).
+26. [대한당뇨병연합](https://www.facebook.com/permalink.php?story_fbid=2344494559119917&id=2278572002378840).
     facebook 대한당뇨병연합. May 1, 2019.
-26. [11 AWARDS('Works Hard' Awards) 1 \[THE
+27. [11 AWARDS('Works Hard' Awards) 1 \[THE
     SHOW 181204](https://www.youtube.com/watch?v=9ZvuKuyxkRU)\]. YouTube
     The K-POP : SBS PLUS. December 4, 2018.
-27. [YouTube reveals Korea's 'Top 10 Rising Stars'
+28. [YouTube reveals Korea's 'Top 10 Rising Stars'
     of 2018](https://www.allkpop.com/article/2018/12/youtube-reveals-korea-s-top-10-rising-stars-of-2018).
     allkpop. December 22, 2018.
-28. [(여자)아이들 오피셜 유튜브 채널이 3위로 '2018 유튜브 리와인드' 라이징 스타 TOP10에
+29. [(여자)아이들 오피셜 유튜브 채널이 3위로 '2018 유튜브 리와인드' 라이징 스타 TOP10에
     선정되었습니다\!](https://www.instagram.com/p/Brog-EDlBjF/).
     ins official_g_i_dle. December 21, 2018.
-29. [10 Best New K-Pop Acts
+30. [10 Best New K-Pop Acts
     of 2018](https://www.billboard.com/articles/columns/k-town/8491744/best-new-k-pop-acts-2018).
     Billboard. December 29, 2018.
-30. [20190302 @ 2019 GLOBAL VLIVE ROOKIE
+31. [20190302 @ 2019 GLOBAL VLIVE ROOKIE
     TOP 5](https://twitter.com/G_I_DLE/status/1101851635158929408).
     twitter G_I_DLE. March 2, 2019.
-31. [(G)I-DLE, LATATA, THE SHOW CHOICE THE
+32. [(G)I-DLE, LATATA, THE SHOW CHOICE THE
     SHOW 180522](https://www.youtube.com/watch?v=5c_fkBigU8o). The K-POP
     : SBS PLUS. June 4, 2018.
-32. [(G)I-DLE, THE SHOW CHOICE THE
+33. [(G)I-DLE, THE SHOW CHOICE THE
     SHOW 180529](https://www.youtube.com/watch?v=tMToRgZ_b0s). The K-POP
     : SBS PLUS. June 4, 2018.
-33. [(G)I-DLE, win\! THE SHOW CHOICE THE
+34. [(G)I-DLE, win\! THE SHOW CHOICE THE
     SHOW 180904](https://www.youtube.com/watch?v=peohoUqGk6E). The K-POP
     : SBS PLUS. September 4, 2018.
-34. [Showchampion behind EP.106 (G)I-DLE is the number one singer Encore
+35. [Showchampion behind EP.106 (G)I-DLE is the number one singer Encore
     Song](https://www.youtube.com/watch?v=ZBteR4VaRqw). ALL THE K-POP.
     September 5, 2018.
-35. [(여자)아이들 (G)I-DLE) 'Senorita'
+36. [(여자)아이들 (G)I-DLE) 'Senorita'
     No.1](https://www.youtube.com/watch?v=p-kJTnVbb5E). K-World Videos.
     March 6, 2019.
-36. [Top in 4th of May, '(G)I-DLE' with 'LATATA', Encore Stage\! (in
+37. [Top in 4th of May, '(G)I-DLE' with 'LATATA', Encore Stage\! (in
     Full) M COUNTDOWN 180](https://www.youtube.com/watch?v=oCJ5vOSwPzI).
     Mnet K-POP. May 28, 2018.
-37. [Top in 1st of September, '(G)I-DLE' with 'HANN', Encore Stage\! (in
+38. [Top in 1st of September, '(G)I-DLE' with 'HANN', Encore Stage\! (in
     Full) M COUNTDOWN 180906
     EP.586](https://www.youtube.com/watch?v=xlk1XCIRvNk). Mnet K-POP.
     September 6, 2018.

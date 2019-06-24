@@ -389,6 +389,15 @@ MV 1take Ver.[29]</p></td>
 <td><p>男主角</p></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>2019年</p></td>
+<td><p>MBC</p></td>
+<td><p>偶然發現的一天</p></td>
+<td><p>路雲</p></td>
+<td><p>河路</p></td>
+<td><p>男主角</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

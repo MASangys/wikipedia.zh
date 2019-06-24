@@ -156,7 +156,7 @@
 </tr>
 <tr class="odd">
 <td><p>5月27日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Rain_(龜梨和也單曲)" title="wikilink">Rain</a></p></td>
+<td></td>
 <td><p><a href="../Page/龜梨和也.md" title="wikilink">龜梨和也</a></p></td>
 <td><p>13.6</p></td>
 <td><p>1</p></td>
@@ -166,6 +166,27 @@
 <td></td>
 <td><p><a href="../Page/Hey!_Say!_JUMP.md" title="wikilink">Hey! Say! JUMP</a> / <a href="../Page/山田涼介.md" title="wikilink">山田涼介</a></p></td>
 <td><p>19.9</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="odd">
+<td><p>6月10日</p></td>
+<td><p><a href="../Page/Sing_Out!.md" title="wikilink">Sing Out!</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/乃木坂46" title="wikilink">乃木坂46</a></p></td>
+<td><p>100.4</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="even">
+<td><p>6月17日</p></td>
+<td></td>
+<td><p>V6</p></td>
+<td><p>9.4</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="odd">
+<td><p>6月24日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Top_Gun/Love_Story" title="wikilink">Top Gun/Love Story</a></p></td>
+<td><p><a href="../Page/NEWS.md" title="wikilink">NEWS</a></p></td>
+<td><p>17.9</p></td>
 <td><p>1</p></td>
 </tr>
 </tbody>

@@ -7,11 +7,13 @@ Saito和TETTA作曲。2019年5月29日由N46Div.发售。同名标题曲的Cente
 单曲分为附有蓝光盘的Type A、Type B、Type C、Type
 D和只包含CD的通常版，共五个版本。与前作《[想繞遠路回家](https://zh.wikipedia.org/wiki/想繞遠路回家 "wikilink")》发行相隔约六个月。
 
-本作的发售消息于2019年3月31日在举行的全国握手会上公开，并于4月15日播出的《[乃木坂工事中](../Page/乃木坂工事中.md "wikilink")》中公布了本作的选拔成员与站位。与以往不同的是，4月25日在日本索尼音乐总部首次举行了本作的媒体试听会。4月27日，官网上公布了包含标题曲在内本作的收录内容。5月1日，在由成员[新内真衣主持的](../Page/新内真衣.md "wikilink")《》上首次公开本作标题曲《Sing
+本作的发售消息于2019年3月31日在举行的全国握手会上公开，并于4月15日播出的《[乃木坂工事中](../Page/乃木坂工事中.md "wikilink")》中公布了本作的选拔成员与站位。与以往不同的是，4月25日在日本索尼音乐总部首次举行了本作的媒体试听会。4月27日，官网上公布了包含标题曲在内本作的收录内容。5月1日，在由成员[新内真衣主持的](../Page/新内真衣.md "wikilink")《[乃木坂46的All
+Night
+Nippon](../Page/乃木坂46的All_Night_Nippon.md "wikilink")》上首次公开本作标题曲《Sing
 Out！》，并于两天后在乃木坂46官方Youtube频道上公开了完整版MV。
 
 标题《Sing
-Out\!》意为“大声地说”、“唱出”\[1\]，体现在乐曲中则是“高兴地歌唱”、“随着音乐鼓掌”\[2\]。在乃木坂46的单曲标题中采用全英文尚属首次。乐曲通过拍手和跺脚的声音表现出强烈的节奏感\[3\]\[4\]。与目前为止乃木坂46乐曲风格明显的不同点在于，除了成员们的歌声，贯穿全曲的还有持续的击掌声和古典吉他的伴奏\[5\]。
+Out\!》意为“唱出来”\[1\]，体现在乐曲中则是“高兴地歌唱”、“随着音乐鼓掌”\[2\]。在乃木坂46的单曲标题中采用全英文尚属首次。乐曲通过拍手和跺脚的声音表现出强烈的节奏感\[3\]\[4\]。与目前为止乃木坂46乐曲风格明显的不同点在于，除了成员们的歌声，贯穿全曲的还有持续的击掌声和古典吉他的伴奏\[5\]。
 
 ## 活动
 
@@ -170,10 +172,15 @@ Kucia、松田恭平、福岡秀敏、蘆澤翔\[15\]。
       - （2019年5月28日）
 
       - （2019年5月28日）
+  - 音樂錄影帶
+      - （2019年6月11日）
 
 [Category:2019年單曲](https://zh.wikipedia.org/wiki/Category:2019年單曲 "wikilink")
 [Category:秋元康創作的歌曲](https://zh.wikipedia.org/wiki/Category:秋元康創作的歌曲 "wikilink")
 [Category:乃木坂46歌曲](https://zh.wikipedia.org/wiki/Category:乃木坂46歌曲 "wikilink")
+[Category:Oricon百萬銷量達成單曲](https://zh.wikipedia.org/wiki/Category:Oricon百萬銷量達成單曲 "wikilink")
+[Category:RIAJ百萬認證單曲](https://zh.wikipedia.org/wiki/Category:RIAJ百萬認證單曲 "wikilink")
+[Category:2019年Oricon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2019年Oricon單曲月榜冠軍作品 "wikilink")
 
 1.
 

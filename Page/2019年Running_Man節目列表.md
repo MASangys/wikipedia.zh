@@ -70,10 +70,8 @@ width=30%|隊伍\!\!width=8%| 勝利條件\!\!結果及備註\!\!width=10%| 各�
 ([5urprise](../Page/5urprise.md "wikilink"))
 |[SBS炭峴製作中心](../Page/SBS_\(韓國\).md "wikilink")
 <small>（[京畿道](../Page/京畿道.md "wikilink")[高陽市](../Page/高陽市.md "wikilink")
-[一山西區](https://zh.wikipedia.org/wiki/一山西區 "wikilink")）</small>
-|width=16%|<span style=font-size:110%>**第3章－偽造級別事件**</span>
-**個人戰**
-沒有隊伍 |width=16%|**最終任務**</span>
+[一山西區](../Page/一山西區.md "wikilink")）</small>
+|colspan="2"|<span style=font-size:110%>**第3章－偽造級別事件**</span>
 **小偷 | 偽造犯**
 劉在錫、李光洙 | 李荷妮
 **警察 | 巿民**
@@ -216,7 +214,7 @@ width=30%|隊伍\!\!width=8%| 勝利條件\!\!結果及備註\!\!width=10%| 各�
 偉大的錢爭</strong></span><br />
 <strong>個人戰</strong><br />
 沒有隊伍</p></td>
-<td><p><span style=font-size:110%><strong>最終任務</strong></span><br />
+<td><p><span style=font-size:110%><strong>最終任務（個人戰）</strong></span><br />
 <strong>逃亡者隊</strong><br />
 劉在錫、池錫辰、李光洙、全昭旻<br />
 <strong>追擊者隊</strong><br />
@@ -373,7 +371,7 @@ width=30%|隊伍\!\!width=8%| 勝利條件\!\!結果及備註\!\!width=10%| 各�
 <strong>Running Man及追擊者隊</strong><br />
 在任務隊完成所有約會清單之前擊敗全昭旻</p></td>
 <td><p>Running Man及追擊者隊<strong>勝出</strong><br />
-金知碩及李伊庚獲得情侶戒指<br />
+沒有被全昭旻選擇而加入追擊者隊的金知碩及李伊庚獲得情侶戒指<br />
 全昭旻須負擔所有約會費用，並須接受奶油炮彈懲罰[9]</p></td>
 <td></td>
 </tr>
@@ -467,7 +465,7 @@ width=30%|隊伍\!\!width=8%| 勝利條件\!\!結果及備註\!\!width=10%| 各�
 哈哈、金鐘國、全昭旻</p></td>
 <td><p>最先尋找名字牌</p></td>
 <td><p>哈哈隊（素人隊）<strong>勝出</strong><br />
-最後一名的錫辰隊（這傢伙隊）經選擇去除名字後由劉在錫及池錫辰接受互相撥水懲罰[13]</p></td>
+最後一名的錫辰隊（這傢伙隊）經選擇去除名字後由劉在錫及池錫辰互相接受撥水懲罰[13]</p></td>
 </tr>
 <tr class="odd">
 <td><p>385</p></td>
@@ -521,22 +519,41 @@ VS
 隱藏身份並擊敗最愛孫子或三名真孫子隊成員
 **最愛孫子及真孫子隊**
 擊敗假孫子及假貨隊 |最愛孫子及真孫子隊**勝出**
-哈哈、李相燁及林秀香須接受水炸彈懲罰
-同時經抽卡抽選後由劉在錫與已經自動當選搭檔演出的哈哈成為見面會第一對表演搭檔\[14\] |- \!rowspan=2|388 \!454
+假孫子及假貨隊須接受水炸彈懲罰
+同時經抽卡抽選後由劉在錫與自動當選搭檔演出的哈哈成為見面會第一對表演搭檔\[14\] |- \!rowspan=2|388 \!454
 |6月2日<small>
-（5月20日及27日）</small> | rowspan=5|無嘉賓 | rowspan=2| | rowspan=2 colspan="2"
+（5月20日及21日）</small> | rowspan=4|無嘉賓 |
+rowspan=2|[SBS三稜鏡大樓](../Page/SBS_\(韓國\).md "wikilink")
+<small>（[首爾特別市](https://zh.wikipedia.org/wiki/首爾特別市 "wikilink")
+[麻浦區](../Page/麻浦區.md "wikilink")）</small> | rowspan=2 colspan="2"
 |<span style="font-size:110%">**第3章－負擔交易比賽**</span>
 **<span style=color:#0000FF>劉在錫、宋智孝**
-**<span style=color:#FF0000>池錫辰、金鐘國**
+**<span style=color:#FF0000>池錫辰、金鍾國**
 **<span style=color:#c0c0c0>哈哈、梁世燦**
 **<span style="color:#EECC00">李光洙、全昭旻** |rowspan=2|隊伍中最終"R"幣數目最多
-|rowspan=2|**勝出**\[15\]\[16\] |- \!rowspan=2|455
+|rowspan=2|劉在錫、宋智孝**勝出**
+最後一名的哈哈、梁世燦的相片將會放在Running背心的臀部位置，同時經硬幣投擲抽選後由劉在錫獲得背心設計選擇權，並選擇《Running
+Man復仇者聯盟+弓裔》為背心設計背景\[15\]\[16\] |- \!rowspan=2|455
 |rowspan=2|6月9日<small>
-（同上）</small> |- \!389 | | colspan="2"
-|<span style="font-size:110%">**第4章－看到了奇蹟**</span>
-| |**勝出** |- \!390 \!456 |6月16日<small>
-（6月3日）</small> | | colspan="2"
-|<span style="font-size:110%">**第5章－**</span>
+（同上及27日）</small> |- \!389 |[1MILLION DANCE
+STUDIO](../Page/1MILLION_DANCE_STUDIO.md "wikilink")
+<small>（[首爾特別市](https://zh.wikipedia.org/wiki/首爾特別市 "wikilink")
+[江南區](https://zh.wikipedia.org/wiki/江南區 "wikilink")）</small> |
+colspan="2" |<span style="font-size:110%">**第4章－看到了奇蹟**</span>
+**團體戰** |完成指定的舞蹈動作 |全員**勝出**\[17\] |- \!390 \!456 |6月16日<small>
+（6月3日）</small> |
+<small>（[忠清南道](../Page/忠清南道.md "wikilink")[錦山郡](../Page/錦山郡.md "wikilink")
+）</small> | colspan="2"
+|<span style="font-size:110%">**第5章－自知之明競賽**</span>
+**個人戰**
+沒有隊伍 |擁有最多人參徽章 |劉在錫**勝出**
+並選擇其他成員的修飾語為RM國內粉絲見面會主題曲的歌詞 |- \!391 \!457 |6月23日<small>
+（6月17日）</small> |
+[薛仁雅](../Page/薛仁雅.md "wikilink")、[請夏](https://zh.wikipedia.org/wiki/請夏 "wikilink")
+|
+<small>（
+）</small> | colspan="2"
+|<span style="font-size:110%">**休息週－碟中諜補品**</span>
 | |**勝出** |}
 
 ## 收視率
@@ -549,9 +566,9 @@ VS
 <th><p>集數</p></th>
 <th><p>播放日期</p></th>
 <th><p>TNmS全國<br />
-收視率[17]</p></th>
-<th><p>AGB全國<br />
 收視率[18]</p></th>
+<th><p>AGB全國<br />
+收視率[19]</p></th>
 </tr>
 </thead>
 <tbody>
@@ -696,14 +713,14 @@ VS
 <tr class="even">
 <td><p>455</p></td>
 <td><p>6月9日</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>6.5%</p></td>
+<td><p>5.4%</p></td>
 </tr>
 <tr class="odd">
 <td><p>456</p></td>
 <td><p>6月16日</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>6.4%</p></td>
+<td><p>5.4%</p></td>
 </tr>
 <tr class="even">
 <td><p>457</p></td>
@@ -800,12 +817,14 @@ VS
 9.  姜世娜、金鎮雄及J Black & Mmary特別出演。
 10. [王嘉爾](../Page/王嘉爾.md "wikilink")（[GOT7](../Page/GOT7.md "wikilink")）特別出演，[柳賢振聲音出演](../Page/柳賢振.md "wikilink")。
 11. 結果於第450集公佈。
-12. [申河均特別出演](../Page/申河均.md "wikilink")。宣傳電影《完美搭檔》。
+12. [申河均特別出演](../Page/申河均.md "wikilink")，宣傳電影《完美搭檔》。
 13. 宣傳電影《小委託人》。
 14. 本集末段，製作組以文字形式為第449集的內容抄襲網路漫畫《金錢遊戲》一事向原作者致歉。
-15. 名字概念來自電影《[穿著Prada的惡魔](../Page/穿著Prada的惡魔_\(電影\).md "wikilink")》。
-16. Lia Kim 特別出演。
-17. [Naver: TNmS
+15. 本集第二部分的遊戲內容於下一集公開並提前播放下一集相關內容。
+16. 相片拍攝當日在遊戲中勝出的劉在錫飾演[美國隊長](../Page/美國隊長.md "wikilink")，池錫辰飾演[弓裔](../Page/弓裔.md "wikilink")，金鍾國飾演[變形俠醫](../Page/浩克_\(漫畫\).md "wikilink")，哈哈飾演[蟻俠](../Page/蟻人.md "wikilink")，宋智孝飾演[嘉魔娜](../Page/葛摩菈.md "wikilink")，李光洙飾演[樹人](../Page/格鲁特.md "wikilink")，全昭旻飾演[勇度](../Page/勇度.md "wikilink")，梁世燦飾演[火箭浣熊](../Page/火箭浣熊.md "wikilink")。設計概念來自電影《[復仇者聯盟4：終局之戰](https://zh.wikipedia.org/wiki/復仇者聯盟4：終局之戰 "wikilink")》
+17. [1MILLION DANCE
+    STUDIO創辦人](../Page/1MILLION_DANCE_STUDIO.md "wikilink")特別出演。
+18. [Naver: TNmS
     收視數據表](https://m.search.naver.com/search.naver?sm=mtb_hty.top&where=m&query=TNMS++%EC%8B%9C%EC%B2%AD%EB%A5%A0&oquery=05%EC%9B%9413%EC%9D%BC++TNMS++%EC%8B%9C%EC%B2%AD%EB%A5%A0&tqi=TYBhglpVuowssuf%2BZewsssssscC-394882)
-18. [AGB Nielsen Media Research
+19. [AGB Nielsen Media Research
     收視數據表](http://www.nielsenkorea.co.kr/tv_terrestrial_day.asp?menu=Tit_1&sub_menu=1_1&area=00)

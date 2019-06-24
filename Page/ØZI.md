@@ -1,4 +1,4 @@
-**ØZI**（1997年3月27日），本名**陳奕凡**，現今為[R\&B歌手](https://zh.wikipedia.org/wiki/R&B "wikilink")，出⽣於[洛杉磯](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")，母親為知名歌手[葉璦菱](../Page/葉璦菱.md "wikilink")，自4歲就開始學習古典鋼琴、小提琴、吉他等樂器，14歲開始創作英文詞曲\[1\]，現為
+**ØZI**（1997年3月27日），本名**陳奕凡**，現今為[R\&B歌手](https://zh.wikipedia.org/wiki/R&B "wikilink")，出生於[洛杉磯](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")，母親為知名歌手[葉璦菱](../Page/葉璦菱.md "wikilink")，自4歲就開始學習古典鋼琴、小提琴、吉他等樂器，14歲開始創作英文詞曲\[1\]，現為
 新樂園音樂有限公司 Forbidden Paradise 旗下藝人。
 
 ## 簡介
@@ -7,7 +7,7 @@
 2017年，釋出《TITLE 頭銜》及《ME INSTEAD
 奪愛》等單曲受到注目，受到[蛋堡](https://zh.wikipedia.org/wiki/蛋堡 "wikilink")、[熊仔及](../Page/熊仔.md "wikilink")[陳星翰等歌壇前輩都推崇的嘻哈新人](../Page/陳星翰.md "wikilink")。\[2\]
 自創作的《天堂島》⼀曲於2017年於網路上發布MV後，成為個人首支發⽚前破百萬點擊單曲，同年受邀擔任[安那](../Page/安那.md "wikilink")〈蛤〉MV導演\[3\]，並於2018年受邀與龍虎門合作的嘻哈單曲《走到飛》中擔任饒唱歌手\[4\]，展現多方才能，在華語樂壇中被稱呼為「核彈級新人」\[5\]。
-2018年07月10日，發行首張個人專輯《ØZI: The
+2018年7月10日，發行首張個人專輯《ØZI: The
 Album》\[6\]。發片記者會媽媽[葉璦菱特地前來站台支持](../Page/葉璦菱.md "wikilink")。\[7\]
 \[8\]
 2019年，憑《ØZI: The
@@ -240,75 +240,82 @@ B.C.W｜Barry｜<a href="../Page/大支.md" title="wikilink">大支</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/HITO流行音樂獎頒獎典禮" title="wikilink">HITO流行音樂獎頒獎典禮</a></p></td>
-<td><p>最受歡迎新人</p></td>
-<td></td>
+<td><p>Hit Fm DJ最愛點播單曲</p></td>
+<td><p>〈 B.O.〉</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>最受歡迎新人</p></td>
+<td><p><strong>《ØZI: The Album》</strong></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><a href="../Page/流行音樂全金榜.md" title="wikilink">流行音樂全金榜</a></p></td>
 <td><p>最受歡迎新人</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>第12屆 Freshmusic Awards</p></td>
 <td><p>最佳新人[13]</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/中華音樂人交流協會.md" title="wikilink">中華音樂人交流協會</a></p></td>
 <td><p>2018年度十大專輯</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/第30屆金曲獎" title="wikilink">第30屆金曲獎</a></p></td>
 <td><p><a href="../Page/年度專輯獎_(金曲獎).md" title="wikilink">年度專輯獎</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/最佳國語專輯獎_(金曲獎).md" title="wikilink">最佳國語專輯獎</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/最佳國語男歌手獎_(金曲獎)" title="wikilink">最佳國語男歌手獎</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/最佳新人獎_(金曲獎).md" title="wikilink">最佳新人獎</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/最佳編曲人獎_(金曲獎)" title="wikilink">最佳編曲人獎</a></p></td>
 <td><p>〈 B.O.〉</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/最佳單曲製作人獎_(金曲獎).md" title="wikilink">最佳單曲製作人獎</a></p></td>
 <td></td>
 <td></td>

@@ -37,17 +37,18 @@
 
 ### 見面會
 
-| 日期         | 活動名稱                                   | 舉行地點                           | 備註       |
-| ---------- | -------------------------------------- | ------------------------------ | -------- |
-| 2017年      |                                        |                                |          |
-| 10月27日-29日 | 2017 Fan Meeting in Seoul              | 樂天酒店                           | 日本會員活動   |
-| 2018年      |                                        |                                |          |
-| 8月11日      | Unibirthday (PENTAGON's Private Class) | Daeyang Hall Sejong University | 一期會員活動   |
-| 8月18日      | The 1st Fan Meeting in Japan - 僕たちの第一歩 | 品川Stellar Ball                 | 兩場\[20\] |
-| 12月15日-17日 | 2018 Fan Meeting in Busan Turn It Up   |                                | 樂天酒店     |
-| 2019年      |                                        |                                |          |
-| 2月24日      | Unione (Let's Play with PENTAGON)      | Olympic Hall, Olympic Park     | 二期會員活動   |
-| 6月24日-26日  | 2019 Fanmeeting in SEOUL ～ Genie:us    | 酒店                             | 日本會員活動   |
+| 日期         | 活動名稱                                        | 舉行地點                           | 備註       |
+| ---------- | ------------------------------------------- | ------------------------------ | -------- |
+| 2017年      |                                             |                                |          |
+| 10月27日-29日 | 2017 Fan Meeting in Seoul                   | 樂天酒店                           | 日本會員活動   |
+| 2018年      |                                             |                                |          |
+| 8月11日      | Unibirthday (PENTAGON's Private Class)      | Daeyang Hall Sejong University | 一期會員活動   |
+| 8月18日      | The 1st Fan Meeting in Japan - 僕たちの第一歩      | 品川Stellar Ball                 | 兩場\[20\] |
+| 12月15日-17日 | 2018 Fan Meeting in Busan Turn It Up        |                                | 樂天酒店     |
+| 2019年      |                                             |                                |          |
+| 2月24日      | Unione (Let's Play with PENTAGON)           | Olympic Hall, Olympic Park     | 二期會員活動   |
+| 6月24日-26日  | 2019 Fanmeeting in SEOUL ～ Genie:us         | 酒店                             | 日本會員活動   |
+| 8月23、25日   | The 2nd Fanmeeting in Japan〜僕たちのHAPPINESS！〜 | Zepp Osaka Bayside、Zepp Tokyo  | 各兩場      |
 
 ### 其他大型公演
 
@@ -103,7 +104,8 @@
 | 5月19日       | KCON 2019 Japan                                                                  | 幕張メッセ国際展示場                                |                                                                     |
 | 5月26日       | 2019 Hallyu Pop Fest                                                             | 新加坡室內體育館                                  |                                                                     |
 | 6月1日        | K-POP WE\*FRIEND CONCERT IN VIETNAM                                              |                                           |                                                                     |
-| 6月8日        | DMC POPO CONCERT IN INJI                                                         |                                           |                                                                     |
+| 6月7日        | JAPAN Collection Showcase                                                        | Zepp Osaka Bayside                        |                                                                     |
+| 6月8日        | DMZ P.O.P Concert IN INJI                                                        |                                           |                                                                     |
 | 6月16日       | Star Of Asia 2019 in Kazakhstan                                                  |                                           |                                                                     |
 
 ## 參考資料

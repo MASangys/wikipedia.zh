@@ -130,7 +130,7 @@ Park](https://zh.wikipedia.org/wiki/Linkin_Park "wikilink")）、[金鐘萬](htt
 </ul></td>
 <td><ul>
 <li><a href="../Page/茱莉亞學院.md" title="wikilink">茱莉亞學院退學</a></li>
-<li>2014年以男團<a href="../Page/B.I.G.md" title="wikilink">B.I.G成員出道</a></li>
+<li>2014年以男團<a href="../Page/B.I.G.md" title="wikilink">B.I.G員出道</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -140,7 +140,10 @@ Park](https://zh.wikipedia.org/wiki/Linkin_Park "wikilink")）、[金鐘萬](htt
 <li>大提琴</li>
 <li>Le grand tango</li>
 </ul></td>
-<td></td>
+<td><ul>
+<li>國立首爾大學音樂系 學士[5]</li>
+<li><a href="https://zh.wikipedia.org/wiki/Hochschule_für_Musik_Würzburg" title="wikilink">Hochschule für Musik Würzburg</a> 碩士[6]</li>
+</ul></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -273,7 +276,7 @@ Park](https://zh.wikipedia.org/wiki/Linkin_Park "wikilink")）、[金鐘萬](htt
 <li>風</li>
 </ul></td>
 <td><ul>
-<li>《<a href="https://zh.wikipedia.org/wiki/看見你的聲音" title="wikilink">看見你的聲音</a>》實力者</li>
+<li>《<a href="https://zh.wikipedia.org/wiki/看見你的聲音" title="wikilink">看見你的聲音</a>》第4季EP17實力者</li>
 </ul></td>
 <td></td>
 </tr>
@@ -311,7 +314,7 @@ Park](https://zh.wikipedia.org/wiki/Linkin_Park "wikilink")）、[金鐘萬](htt
 <td></td>
 </tr>
 <tr class="even">
-<td><p>蔡寶勳 채보훈</p></td>
+<td><p>蔡甫熏 채보훈</p></td>
 <td><ul>
 <li>主唱</li>
 <li>Windsufer</li>
@@ -378,7 +381,7 @@ Park](https://zh.wikipedia.org/wiki/Linkin_Park "wikilink")）、[金鐘萬](htt
 <tr class="even">
 <td><p>河鉉尚組</p></td>
 <td><p><strong>河鉉尚</strong>（主唱、製作）<br />
-申藝燦（小提琴）<br />
+辛禮贊（小提琴）<br />
 洪榛豪（大提琴）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Coldplay" title="wikilink">Coldplay</a>《Viva la Vida》</p></td>
 <td></td>
@@ -447,7 +450,7 @@ DPole（DJ製作人）<br />
 <td><p>梁智完組</p></td>
 <td><p><strong>梁智完</strong>（吉他）<br />
 金河鎮（貝斯）<br />
-蔡寶勳（主唱、吉他）<br />
+蔡甫熏（主唱、吉他）<br />
 鄭光賢（架子鼓、太鼓）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/孫佳人" title="wikilink">佳人</a>《Paradise Lost》</p></td>
 <td></td>
@@ -499,9 +502,11 @@ Nomad（DJ製作人）</p></td>
 </tbody>
 </table>
 
-| 第一輪淘汰 |
-| ----- |
-| 燦輝    |
+| 第一回合淘汰 |
+| ------ |
+| 燦輝     |
+
+
 
 ### 第二回合：1：1 PK
 
@@ -529,8 +534,8 @@ Nomad（DJ製作人）<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p>蔡寶勳組</p></td>
-<td><p><strong>蔡寶勳</strong>（主唱、吉他）<br />
+<td><p>蔡甫熏組</p></td>
+<td><p><strong>蔡甫熏</strong>（主唱、吉他）<br />
 鄭光賢（架子鼓）<br />
 李羅宇（鋼琴、鍵盤）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Oasis" title="wikilink">Oasis</a>《Stop Crying Your Heart Out》</p></td>
@@ -654,10 +659,12 @@ Mellow Kitchen（薩克斯風、鍵盤）</p></td>
 </tbody>
 </table>
 
-| 第二輪淘汰 |
-| ----- |
-| 李江浩   |
-| 鄭率    |
+| 第二回合淘汰 |
+| ------ |
+| 李江浩    |
+| 鄭率     |
+
+
 
 ### 第三回合：「你，出來！」對手指定賽
 
@@ -719,7 +726,7 @@ Nomad（DJ製作人）</p></td>
 黃承敏（吉他）<br />
 林亨頻（吉他、鍵盤）<br />
 金東範（薩克斯風、RAP）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Ghostbusters" title="wikilink">Ghostbusters</a> OST《Ghostbusters》</p></td>
+<td><p>電影<a href="https://zh.wikipedia.org/wiki/Ghostbusters" title="wikilink">Ghostbusters</a> OST《Ghostbusters》</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -732,14 +739,152 @@ Nomad（DJ製作人）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><strong>4</strong></p></td>
+<td><p>李鍾勳組</p></td>
+<td><p><strong>李鍾勳</strong>（貝斯）<br />
+蔡甫熏（主唱、吉他）<br />
+鄭光賢（架子鼓）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金緩宣" title="wikilink">金緩宣</a>《旋律中的那支舞》（리듬속의 그춤을）</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>李柱奕組</p></td>
+<td><p><strong>李柱奕</strong>（主唱、吉他）<br />
+辛禮贊（小提琴）<br />
+申光日（主唱、架子鼓）</p></td>
+<td><p><a href="../Page/詹姆斯·貝.md" title="wikilink">James Bay</a>《Hold Back The River》</p></td>
 <td></td>
 <td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>5</strong></p></td>
+<td><p>朴知煥組</p></td>
+<td><p><strong>朴知煥</strong>（吉他、製作）<br />
+金宇卓（古典吉他）<br />
+李子原（手風琴）</p></td>
+<td><p>歌劇 第七探戈《Yo Soy Maria》</p></td>
 <td></td>
+</tr>
+<tr class="even">
+<td><p>Benji組</p></td>
+<td><p><strong>Benji</strong>（主唱、鍵盤）<br />
+安聖真（主唱、吉他）<br />
+池尚（主唱）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Pentatonix" title="wikilink">Pentatonix</a>《Sing》</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>6</strong></p></td>
+<td><p>朴榮振組</p></td>
+<td><p><strong>朴榮振</strong>（架子鼓）<br />
+Hong Issac（主唱、鍵盤）<br />
+梁智完（吉他、電子合成器）<br />
+金河鎮（貝斯、電子合成器）</p></td>
+<td><p>電影<a href="../Page/熱舞17.md" title="wikilink">Dirty Dancing</a> OST《The Time of My Life 》</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>申鉉斌組</p></td>
+<td><p><strong>申鉉斌</strong>（吉他）<br />
+金志范（主唱）<br />
+趙元尚（貝斯）<br />
+黃旻載（架子鼓）</p></td>
+<td><p>《模糊記憶中的你》（흐린기억속의 그대）</p></td>
 <td></td>
 <td></td>
 </tr>
 </tbody>
 </table>
+
+| 第三回合淘汰 |
+| ------ |
+| 金東範    |
+
+
+
+### 第四回合：自由組隊
+
+  - 粗體字為**Frontman（領隊）**
+  - 除分數最高一組，其餘組別成員皆為淘汰候補。
+
+<table>
+<thead>
+<tr class="header">
+<th><p>次序</p></th>
+<th><p>組別</p></th>
+<th><p>組員</p></th>
+<th><p>表演曲目</p></th>
+<th><p>製作人評分</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>最高分</p></td>
+<td><p>最低分</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>1</strong></p></td>
+<td><p>金英素組</p></td>
+<td><p><strong>金英素</strong>（吉他）<br />
+朴燦英（大提琴）<br />
+鄭光賢（大鼓、架子鼓）<br />
+朴榮振（架子鼓）</p></td>
+<td><p>金英素《阿里郎幻想曲》（아리랑 판타지）</p></td>
+<td><p>90<br />
+<small>（尹鐘信）<small></p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>2</strong></p></td>
+<td><p>黃旻載組</p></td>
+<td><p><strong>黃旻載</strong>（架子鼓）<br />
+金佑星（主唱）<br />
+金河鎮（貝斯）<br />
+朴知煥（吉他、製作）</p></td>
+<td><p><a href="../Page/DNCE.md" title="wikilink">DNCE</a>《Cake by the Ocean》</p></td>
+<td><p>86<br />
+<small>（尹鐘信）<small></p></td>
+</tr>
+<tr class="even">
+<td><p><strong>3</strong></p></td>
+<td><p>金峻協組</p></td>
+<td><p><strong>金峻協</strong>（貝斯）<br />
+林亨頻（鋼琴）<br />
+李燦率（主唱、吉他）<br />
+姜景潤（架子鼓）</p></td>
+<td><p>《Still Fighting It》</p></td>
+<td><p>95<br />
+<small>（尹鐘信）<small></p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>4</strong></p></td>
+<td><p>李羅宇組</p></td>
+<td><p><strong>李羅宇</strong>（鋼琴）<br />
+Hong Issac（主唱、鼓）<br />
+Kevin Oh（主唱、吉他）<br />
+梁智完（吉他）</p></td>
+<td><p>自作曲《和你在一起》（너와 함께）</p></td>
+<td><p>90<br />
+<small>（尹鐘信）<small></p></td>
+</tr>
+<tr class="even">
+<td><p><strong>5</strong></p></td>
+<td><p>金亨宇組</p></td>
+<td><p><strong>金亨宇</strong>（低音提琴）<br />
+I'll（主唱、鍵盤）<br />
+河鉉尚（主唱、吉他）<br />
+洪榛豪（大提琴）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Radiohead" title="wikilink">Radiohead</a>《Creep》</p></td>
+<td><p>98<br />
+<small>（Joe Hahn）<small></p></td>
+</tr>
+</tbody>
+</table>
+
+
 
 ## 節目專輯
 
@@ -782,13 +927,13 @@ Nomad（DJ製作人）</p></td>
 <tr class="header">
 <th><p>集數</p></th>
 <th><p>播出日期</p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/AC尼爾森" title="wikilink">AGB收視率</a>[5]</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/AC尼爾森" title="wikilink">AGB收視率</a>[7]</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>大韓民國（全國）</p></td>
-<td><p>首爾（首都圈）</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -824,11 +969,26 @@ Nomad（DJ製作人）</p></td>
 <tr class="even">
 <td><p>7</p></td>
 <td><p>2019年5月24日</p></td>
-<td></td>
+<td><p>3.0%</p></td>
 </tr>
 <tr class="odd">
 <td><p>8</p></td>
 <td><p>2019年5月31日</p></td>
+<td><p>3.0%</p></td>
+</tr>
+<tr class="even">
+<td><p>9</p></td>
+<td><p>2019年6月7日</p></td>
+<td><p>2.7%</p></td>
+</tr>
+<tr class="odd">
+<td><p>10</p></td>
+<td><p>2019年6月14日</p></td>
+<td><p>3.2%</p></td>
+</tr>
+<tr class="even">
+<td><p>11</p></td>
+<td><p>2019年6月21日</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -854,3 +1014,5 @@ Nomad（DJ製作人）</p></td>
 3.
 4.
 5.
+6.
+7.

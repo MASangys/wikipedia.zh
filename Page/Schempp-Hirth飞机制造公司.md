@@ -43,11 +43,10 @@ Holighaus）设计的，他于1965年加入Schempp-Hirth。
 x*首次在[腓特烈港的](../Page/腓特烈港_\(德国\).md "wikilink")2005年Aero航展上向公众展示。
 除了主起落架悬架和总体的空气动力学改进之外，“x”还设有后缘襟翼，该后襟翼与扰流板系统相连接，使着陆具有更陡的接近角和更低的着陆速度。
 
-双座型*Arcus*是一款[双座级高性能滑翔机](https://zh.wikipedia.org/wiki/滑翔竞赛分级 "wikilink")，翼展为20米，有襟翼。
+双座型*Arcus*是一款[双座级高性能滑翔机](../Page/滑翔竞赛分级.md "wikilink")，翼展为20米，有襟翼。
 在腓特烈港2009年Aero航展上正式亮相。 首飞完成于航展之后的2009年4月7日。
 
-Schempp-Hirth最新的[开放级单座飞机是](https://zh.wikipedia.org/wiki/滑翔竞赛分级 "wikilink")*Quintus*
-。
+Schempp-Hirth最新的[开放级单座飞机是](../Page/滑翔竞赛分级.md "wikilink")*Quintus* 。
 这架飞机拥有23米的翼展，在2012年[德克萨斯州的Uvalde举办的世界杯上有出色表现](../Page/德克萨斯州.md "wikilink")。
 该机机翼是与Lange Aviation公司共同开发的，Lange公司的*Antares 23*滑翔机也采用了同样的机翼。
 

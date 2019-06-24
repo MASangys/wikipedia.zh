@@ -1,12 +1,12 @@
 是一款由[Marvelous
 Entertainment開發](https://zh.wikipedia.org/wiki/Marvelous_Entertainment "wikilink")，由[萬代南夢宮娛樂發行在](https://zh.wikipedia.org/wiki/萬代南夢宮娛樂 "wikilink")[任天堂Switch平台上的](../Page/任天堂Switch.md "wikilink")[模擬經營遊戲](https://zh.wikipedia.org/wiki/模擬經營遊戲 "wikilink")。為[牧場物語與](https://zh.wikipedia.org/wiki/牧場物語系列 "wikilink")[多啦A夢進行聯動合作的遊戲](https://zh.wikipedia.org/wiki/多啦A夢 "wikilink")。
 
-遊戲於2019年2月的[任天堂直面會上公佈相關消息](https://zh.wikipedia.org/wiki/任天堂直面會 "wikilink")，並於同年4月份確定會於2019年6月13日在[任天堂Switch平台發售](../Page/任天堂Switch.md "wikilink")（繁體中文版為2019年7月25日）。另外，還預計在2019年秋季推出[Steam版本](../Page/Steam.md "wikilink")。
+遊戲於2019年2月的[任天堂直面會上公佈相關消息](https://zh.wikipedia.org/wiki/任天堂直面會 "wikilink")，並於同年4月份確定會於2019年6月13日在[任天堂Switch平台發售](../Page/任天堂Switch.md "wikilink")（繁體中文版為2019年7月25日）。另外，還計劃在2019年秋季推出[Steam版本](../Page/Steam.md "wikilink")。
 
 ## 概要
 
 本作除了收錄以「親情」為中心的主線劇情之外，另有比主線分量多達五倍的豐富支線任務。《哆啦A夢
-牧場物語》中雖然並無《牧場物語》過去系列作中的戀愛、結婚要素，但仍可藉由故事發展和角色培養好感度，加深與人們的交流與羈絆。\[1\]
+牧場物語》中雖然並無《牧場物語》過去系列作中的戀愛、結婚要素，但仍可藉由故事發展和角色培養好感度，加深與人們的交流與感情。\[1\]
 
 ## 故事背景
 
@@ -17,7 +17,9 @@ Entertainment開發](https://zh.wikipedia.org/wiki/Marvelous_Entertainment "wiki
 
 遊戲於2019年2月的任天堂直面會上首度公佈相關消息，在發表前並無任何有關本作的消息。作為《[牧場物語》與](https://zh.wikipedia.org/wiki/牧場物語系列 "wikilink")《[多啦A夢》兩作品合作的遊戲](https://zh.wikipedia.org/wiki/多啦A夢 "wikilink")，公佈後引起媒體關注\[3\]及網上熱議討論。\[4\]
 
-本次新作品並非屬於最初所說登陸於[任天堂Switch平台的](../Page/任天堂Switch.md "wikilink")《牧場物語》系列新作\[5\]，該作另指系列正統作品。另外本作日後也宣布對應中文，是《牧場物語》系列首次的中文化。開發為《牧場物語》系列作的開發商[Marvelous](https://zh.wikipedia.org/wiki/Marvelous_Entertainment "wikilink")，但發行商則為[萬代南夢宮娛樂](https://zh.wikipedia.org/wiki/萬代南夢宮娛樂 "wikilink")。
+本次新作品並非最初登陸於[任天堂Switch平台的](../Page/任天堂Switch.md "wikilink")《牧場物語》系列作品\[5\]，該作另指系列正統作品。另外本作日後也宣布對應中文，也是《牧場物語》系列首次的中文化運動。
+
+《牧場物語》系列作的開發商[Marvelous](https://zh.wikipedia.org/wiki/Marvelous_Entertainment "wikilink")，但發行商則為[萬代南夢宮娛樂](https://zh.wikipedia.org/wiki/萬代南夢宮娛樂 "wikilink")。
 
 ## 参考资料
 

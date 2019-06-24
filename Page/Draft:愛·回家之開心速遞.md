@@ -82,8 +82,7 @@
 
 ### 熊家
 
-住址：[列堤頓道](https://zh.wikipedia.org/wiki/列堤頓道 "wikilink")99號6樓A連天台（現實中列堤頓道最大門牌號碼只到77
-號）
+住址：[列堤頓道](https://zh.wikipedia.org/wiki/列堤頓道 "wikilink")99號6樓A連天台（現實中列堤頓道最大門牌號碼只到77號）
 
 <table>
 <tbody>
@@ -107,7 +106,8 @@
 楊娜娜之粉絲<br />
 漸漸與龍璟風建立出如家人般的關係<br />
 曾因龍敢威輸不起牌局而與其吵架，於第273集因啤啤而和好，於第349集因頭髮問題反目，於第362集和好<br />
-因熊心如而多番勞役針對兼习難池子孝，於第305集成為其師傅，於第569集得知其與王國假扮情侶使王國性侵犯熊心如而反目<br />
+因熊心如而勞役、針對及刁難池子孝，於第305集成為其師傅，於第569集得知其與王國假扮情侶使王國性侵犯熊心如而反目<br />
+因身為熊若水父親得以在網劇《曹總傳》中飾演曹達華之父曹永廉<br />
 於第6集起能看見龍璟風的靈魂<br />
 於第212集反對熊心如與池子孝交往，後於第219集發現他們的關係，並一直企圖拆散他們<br />
 於第249集得知金城安與譚育英的關係，並假裝不知情<br />
@@ -133,6 +133,7 @@
 <td><p><strong><a href="../Page/單立文.md" title="wikilink">單立文</a></strong></p></td>
 <td><p><strong>熊樹仁</strong></p></td>
 <td><p><strong>阿仁</strong>、<strong>仁哥</strong><br />
+1954年出生<br />
 威龍百貨「尋寶圖」網店攝影師（第31集聘用，第34集起）<br />
 熊樹根之弟<br />
 熊尚善、熊若水、熊心如之叔父<br />
@@ -158,12 +159,12 @@
 1978年出生<br />
 作家，筆名：<strong>肥蟲</strong>（80年代）→<strong>尚善</strong>（90年代）→<strong>丘海淇</strong>（現時）、<strong>七把叉</strong>（第1-208、291集起）<br />
 熊樹根、熊太太之長女<br />
-金城武之女友，已於22年前（1997年）失散<br />
+金城武之女友，已於22年前（1995年）失散<br />
 金城安之母兼大學同學<br />
 熊樹仁之長姪女<br />
 熊若水之姊<br />
 熊心如之姊兼大學同學<br />
-高栢菲之中學師姐兼好友，已於22年前（1997年）因金城武而反目成仇並成為死敵<br />
+高栢菲之中學師姐兼好友，已於22年前（1995年）因金城武而反目成仇並成為死敵<br />
 秦博思之啟蒙老師<br />
 曾誤以為潮偉是金城武，後於第136集起與其有感情線，於第219集起暗戀其，於第239集成為其女友，於第294集從其得知其不是金城武及真正的金城武已死而分手兼崩潰，並認為與其的愛情是罪孽，於第315集起互相迴避，於第434集因其表白而動搖，於第439集復合<br />
 曾被譚育英盜取筆名而針對其，後於第291集原諒其並收其為入室弟子<br />
@@ -229,8 +230,7 @@
 於第176集被龍力蓮升為網店副總監，但實際被其操控以對付龍力士<br />
 於第249集得知金城安與譚育英的關係，並假裝不知情<br />
 於第396集與高栢菲誤以為吳家聰喜歡葉碧嘉，後從龍力王中得知真相及吳家聰與沈佳儀的關係<br />
-於第534集鼓起勇氣向龔燁示愛，並成為其女友<br />
-與熊尚善的名字諧音相加可組成詞語<strong>上善若水</strong><br />
+熊尚善的名字諧音相加可組成詞語<strong>上善若水</strong><br />
 口頭禪：「客咩氣」、「閘住」、「（對金城安）大學咁教你㗎？」、「（對龔燁）食蕉連皮啦你！」<br />
 角色名字諧音：<strong><a href="https://zh.wikipedia.org/wiki/紅藥水" title="wikilink">紅藥水</a></strong></p></td>
 </tr>
@@ -357,7 +357,7 @@ Ann、佘秀琴、白天娥之夫<br />
 風母、Cherry之情夫<br />
 Olivia之前情夫<br />
 龍力蓮、龍力士、龍力王、龍璟風、Joe、龍作蜜之父<br />
-在龍力王童年時以為其是資優兒童，並為自己疏忽照顧而使他在發高燒後變回正常人而愧疚，因此對龍力王的過失特別包容<br />
+在龍力王童年時以為其是資優兒童，並為自己疏忽照顧而使他在發高燒後變回正常人而愧疚，因此對龍力王的過失特別包容（第246集）<br />
 與龍璟風關係不和兼疏離，實質一直關心其，在其重傷昏迷後為完其心願而於集團創立網店部門<br />
 吳家聰之姐夫，於第229集因誤會與其反目，後於第255集起關係轉好，於第286集和好<br />
 佘秀棋之姐夫兼前暗戀对象<br />
@@ -427,7 +427,7 @@ Ann、白天娥之情敵兼天敵<br />
 非常喜歡寫書法，常以此發洩情緒<br />
 曾拜託余愛詩以秘書身份監視龍敢威<br />
 於第59集登場<br />
-於第160集拜託佘秀棋以刁難熊若水，但失敗<br />
+於第160集拜託佘秀棋刁難熊若水，但失敗<br />
 角色名字反轉諧音：<strong>禽獸蛇</strong></p></td>
 </tr>
 <tr class="odd">
@@ -469,7 +469,8 @@ Ann、佘秀琴之情敵兼天敵<br />
 佘秀琴之叔仔兼舊情人<br />
 Ann、白天娥之叔仔<br />
 雷珍妮之叔老爺<br />
-於第12集登場</p></td>
+於第12集登場<br />
+曾與其父八字不合的女子拍拖，因而被指不聽話而失寵（第246集）</p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/鍾志光.md" title="wikilink">鍾志光</a></strong></p></td>
@@ -480,7 +481,7 @@ Ann、白天娥之叔仔<br />
 <td><p><strong><a href="../Page/歐瑞偉.md" title="wikilink">歐瑞偉</a></strong></p></td>
 <td><p><strong>吳家聰</strong></p></td>
 <td><p><strong>KC</strong>、<strong>奸國舅（龍璟風專稱）、廢柴KC（雷珍妮專稱）</strong><br />
-接龍集團／威龍百貨公司法律部主管（第31-229集）→初級法律行政文員（第229-285集）→高級法律行政文員（第285-286集）→法律部主管（第286集起）<br />
+接龍集團／威龍百貨公司法律部主管（第31-229集）→初級法律行政文員（第229-285集）→高級法律行政文員（第285-286集）→法律部主管（第286-578集）→初級法律行政文員（第578-582集）→法律部主管（第582集起）<br />
 大房派<br />
 Ann之弟<br />
 龍敢威之舅仔，第229集因誤會被反目，後於第255集起關係轉好，於第286集和好<br />
@@ -490,7 +491,7 @@ Ann之弟<br />
 龍作蜜之繼舅父，並敵視其<br />
 Joe之繼舅父<br />
 雷珍妮之繼舅老爺，與其不和<br />
-與余愛詩敵對，於第451集因幫助和勸解其而和好，並開始與其有感情線，於第474集與余愛詩與關彼得秘密組成外戚大聯盟（僅龍力王知悉）來互相協助<br />
+與余愛詩敵對，於第451集因幫助和勸解其而和好，並開始與其有感情線，於第474集與其及關彼得秘密組成外戚大聯盟（僅龍力王知悉）來互相協助，於第578集被其表白，於第582集在龍力王施計下向其表白，於第583集決定接受其<br />
 沈佳儀之後備男友，於第77集因被其知道不是真正被愛而分手，於第88集復合，於第110集再分手，於第156集再復合，於第174集為了不讓其失去100億遺產而再次分手，於第284集得知被其知道自己為其所做的一切而放棄遺產而去找其復合卻先後被胡景騰用棍擊打腦後及被一顆魚蛋擲到額頭而昏迷，於第285集忘記其，後記起其但忘記所有與其一起的過往，於第375集記起與其過往<br />
 胡景騰之情敵<br />
 曾被江慧喬色誘<br />
@@ -501,9 +502,8 @@ Joe之繼舅父<br />
 於第284集先後被胡景騰用棍擊打腦後及被一顆魚蛋擲到額頭而昏迷，於第285集甦醒後記憶及智商倒退至五歲，後因從樓梯跌倒撞傷頭部而回復記憶及智商，唯獨不再記起與沈佳儀的關係，後於第286集透露原因是最痛苦的記憶<br />
 於第286集得沈佳儀證明自己清白而恢復原職<br />
 於第346集起撮合胡景騰和沈佳儀，後於第362集間接令他們成為情侶，卻亦因此感到悲傷<br />
-於第375集為躲避牛肉丸而撞到鐵柱，因而記起與沈佳儀的過往，但因不想妨礙沈佳儀與胡景騰及為沈佳儀被接龍集團員工的針對解圍而不講理地責罵她，共處時往往表現<br />
+於第375集為躲避牛肉丸而撞到鐵柱，因而記起與沈佳儀的過往，但因不想妨礙沈佳儀與胡景騰及為沈佳儀被接龍集團員工的針對解圍而不講理地責罵她，相處時往往表現尷尬<br />
 在沈佳儀與胡景騰出國旅遊期間阻止雷珍妮在人事部安插自己人，因此經常保護葉碧嘉，因此曾被熊若水與高栢菲誤會喜歡其<br />
-於第502集為挽留龍力王住在龍力蓮家中而協助其假扮沉迷賭博、吸毒等，卻反而使龍力王信以為真而報警檢舉，因此被警方拘捕，後獲釋<br />
 角色名字諧音：<strong>唔加蔥</strong></p></td>
 </tr>
 <tr class="even">
@@ -519,7 +519,7 @@ Joe之繼舅父<br />
 雷珍妮之姨奶奶<br />
 與白天娥不和，曾阻止其入門但因其懷孕而失敗<br />
 於第160集登場<br />
-於第160集受託於佘秀琴而刁難熊若水及拆散其與龍力士<br />
+於第160集受託佘秀琴刁難熊若水及拆散其與龍力士<br />
 於第161集因被熊尚善得知自己對龍敢威有愛意而被迫返回加拿大<br />
 於第253集返回香港</p></td>
 </tr>
@@ -535,11 +535,29 @@ Joe之繼舅父<br />
 龍力王之繼表姨，於第400集起敵對，後緩和<br />
 龍璟風、Joe、龍作蜜之繼表姨<br />
 雷珍妮之表姨奶奶，與其勾結<br />
-與吳家聰敵對，於第451集在低潮時得到吳家聰幫助和勸解而和好，於第474集與吳家聰與關彼得秘密組成外戚大聯盟（僅龍力王知悉）來互相協助，於第532集被吳家聰打動而暗戀其<br />
+與吳家聰敵對，於第451集在低潮時得到吳家聰幫助和勸解而和好，於第474集與吳家聰與關彼得秘密組成外戚大聯盟（僅龍力王知悉）來互相協助，於第532集被吳家聰打動而暗戀其，於第578集向其表白，於第582集在龍力王施計下被吳家聰表白，於第583集得知真相<br />
 歸蜀明及IT部一衆員工之暗戀對象<br />
 於第22集登場</p></td>
 </tr>
 <tr class="even">
+<td><p><a href="../Page/杜大偉.md" title="wikilink">杜大偉</a></p></td>
+<td><p>關彼得</p></td>
+<td><p><strong>Peter</strong><br />
+大房派<br />
+威龍百貨公司行政部主管<br />
+佘秀琴、佘秀棋之表弟<br />
+龍敢威之表舅仔<br />
+龍力士之表舅父<br />
+龍力蓮、龍力王、龍璟風、Joe、龍作蜜之繼表舅父<br />
+雷珍妮之表舅老爺，但因職位較其低而經常被其呼喝<br />
+離婚後努力嘗試挽回前妻的感情<br />
+為謀私利投入電子媒介進行投機炒賣活動，經常欠下巨債收場，並曾經破產，於第419集被Ivan Chan得知<br />
+於第4集出現，第89集正式登場<br />
+於第474集與吳家聰與余愛詩秘密組成外戚大聯盟（僅龍力王知悉）來互相協助<br />
+於第560集受龍力王所迫加入大房派<br />
+口頭禪：Jesus（天啊）</p></td>
+</tr>
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/余珈瑤" title="wikilink">余珈瑤</a>（童年）</p></td>
 <td><p><strong><a href="../Page/龍力蓮.md" title="wikilink">龍力蓮</a></strong></p></td>
 <td><p><strong>Linda</strong>、<strong>大小姐</strong>、<strong>阿蓮（龍敢威、吳家聰專稱）</strong>、<strong>老女人（秦博思專稱（第369集前）</strong>、<strong>豈有此理（熊尚善專稱）</strong> 、<em>'霸王蓮 <strong>、</strong>蓮蓮（商良專稱）<strong>、</strong>小蓮（宋瑞輝專稱）<strong><br />
@@ -585,18 +603,18 @@ Joe同父異母之姊<br />
 於第499集因龍力王向二房泄露情報而將其趕離家門<br />
 於第501集被龍力王欺騙而誤以為其與譚可清為情侶關係，並提拔譚可清成為財政總監私人助理（後撤回），後得知真相後企圖殺害龍力王不遂後再度趕走其<br />
 於第502集為挽留龍力王住在自己家中而假扮沉迷賭博、吸毒等，卻反而使龍力王信以為真而報警檢舉，因此被警方拘捕，無罪釋放後為保形象而要求熊若水代為承擔責任<br />
-於第522集因誤會龔燁性騷擾女同事而將其降職到倉務部，後得知真相並撤回決定<br />
 於第527集秘密到「好爸Bar」酒吧而知悉宋瑞輝經營酒吧的用意，並暗中幫助其業務發展，於第550集獲宋瑞輝親自告知酒吧開業的消息<br />
 於第552集因龍力王被電擊後出現能力及性格大變而被其佔用原有辦公室及接手原有工作，雖然對其為大房爭權感到欣喜，但亦對其作風感到陌生及心寒<br />
+於第574集被龍敢威安排於9月9日與商良結婚，但並不願與其結婚，因此向曹達華購入六間酒吧及轉讓給宋瑞輝藉此拉近與宋瑞輝的財富距離<br />
 口頭禪：「我豈有此理吖！」、「Shut Up！」、（對林美香及譚可清）「你呢隻人頭豬，你真喺蠢㗎喎，唔係扮㗎喎，我俾錢請你番黎呼吸㗎？」、（對譚可清）「淨係識得哦哦哦」<br />
 角色名字諧音：</strong><a href="https://zh.wikipedia.org/wiki/農曆新年" title="wikilink">農曆年</a></em>'</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong><a href="../Page/林淑敏.md" title="wikilink">林淑敏</a></strong></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/李駿灝" title="wikilink">李駿灝</a>（童年）</p></td>
 <td><p><strong>龍力士</strong></p></td>
 <td><p><strong>Max</strong>、<strong>大少</strong>、<strong>細龍生</strong>、<strong>力士（龍敢威、龍力蓮專稱）</strong>、<strong>雙面人（龍璟風專稱）</strong><br />
@@ -626,14 +644,14 @@ Joe同父異母之兄<br />
 於第229集與雷珍妮、胡景騰利用Cherry陷害吳家聰令其被龍敢威降職為初級法律文員<br />
 於第501集收留龍力王暫住在自己家中，後因見識破壞力驚人結束<br />
 於第552集被龍力王設局將自己的計劃書據為己有並被反誣陷搶走其計劃書<br />
-角色名字諧音：<strong><a href="https://zh.wikipedia.org/wiki/勞力士" title="wikilink">勞力士</a></strong></p></td>
+角色名字諧音：<strong><a href="https://zh.wikipedia.org/wiki/勞力士" title="wikilink">勞力士</a></strong>、<strong><a href="../Page/高力士.md" title="wikilink">高力士</a></strong></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong><a href="../Page/鄭世豪.md" title="wikilink">鄭世豪</a></strong></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong><a href="../Page/陳偉琪.md" title="wikilink">陳偉琪</a></strong></p></td>
 <td><p><strong>雷珍妮</strong></p></td>
 <td><p><strong>Jenny</strong>、<strong>細龍太</strong>、<strong>肥婆（龍力蓮專稱）</strong>、<strong>奸妃（尋寶圖及部份威龍百貨員工專稱）</strong><br />
@@ -670,14 +688,17 @@ Ann之繼媳婦<br />
 於第403集因雷洛假扮破產潛逃而被落井下石，後來雷洛宣布真相後待遇恢復正常，卻因此發現龍力士及高栢菲的真心<br />
 於第429集將違禁品放入龍力蓮行李內而導致林美香頂罪入獄<br />
 於第430集因為在「厄里梧島」過關時被發現有違禁品而入獄半年，後於第446集提早出獄，並因監獄生活而患上創傷後遺症，後因重拾夜場生活而康復<br />
-於第555集被龍力王設局使金城安在龍敢威面前指證</p></td>
+於第555集被龍力王設局使金城安在龍敢威面前指證<br />
+於第575集發現懷孕，後於第577集身體檢查後得知是假性懷孕</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/陳家軒" title="wikilink">陳家軒</a>（童年）</p></td>
 <td><p><strong>龍力王</strong></p></td>
 <td><p><strong>Terry</strong>、<strong>二少</strong>、<strong><a href="https://zh.wikipedia.org/wiki/迷你龍" title="wikilink">迷你龍</a></strong>、<strong>龍少爺</strong><br />
-威龍百貨公司財務部職員（第31-263集）→人事部經理（第263-264集）→財務部職員（第264-407集）→保安（第407集）→財務部職員（第419集）→IT部職員（第419-421集）→高級工程師（第421-436集）→新威龍廣場員工（第436-551集）→財務部真正掌權人（第552集起）／臨時演員，於第400集辭職<br />
-經常發明星夢，思想愚鈍，猶如小孩子，與世無爭，於第551集起<a href="https://zh.wikipedia.org/wiki/黑化#動漫" title="wikilink">變得機智</a>、機關算盡、心狠手辣<br />
+威龍百貨公司財務部職員（第31-263集）→人事部經理（第263-264集）→財務部職員（第264-407集）→保安（第407集）→財務部職員（第419集）→IT部職員（第419-421集）→高級工程師（第421-436集）→新威龍廣場員工（第436-551集）→財務部真正掌權人（第552集起）<br />
+原是智商很高的資優兒童，及後生病期間仍被龍敢威困在房內背乘數表，最終燒壞腦袋而變得愚鈍（第246集）<br />
+經常發明星夢並擔任臨時演員，於第400集辭職<br />
+因針疚發生意外，刺激腦內水瘤生長，於第551集起<a href="https://zh.wikipedia.org/wiki/黑化#動漫" title="wikilink">變得機智</a>、機關算盡、心狠手辣<br />
 大房派<br />
 龍敢威、Ann之幼子<br />
 佘秀琴之繼子，並被其看不起，於第400集反目並敵對<br />
@@ -709,12 +730,12 @@ Joe同父異母之兄<br />
 於第552集設局將龍力士的計劃書據為己有並反誣陷其搶走自己計劃書，並取代龍力蓮成為財務部真正掌權人<br />
 於第555集設局使金城安在龍敢威面前指證雷珍妮</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong><a href="../Page/李偉健.md" title="wikilink">李偉健</a></strong></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/江琳浩" title="wikilink">江琳浩</a>（童年）</p></td>
 <td><p><strong>龍璟風</strong></p></td>
 <td><p><strong>阿風</strong>、<strong>風少</strong>、<strong>野仔（龍力蓮專稱）</strong><br />
@@ -735,13 +756,13 @@ Joe、龍作蜜同父異母之兄<br />
 角色名字諧音：<strong><a href="../Page/龍捲風.md" title="wikilink">龍捲風</a></strong><br />
 參見<strong><a href="https://zh.wikipedia.org/wiki/#熊家" title="wikilink">熊家</a></strong></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong><a href="../Page/陳浚霆.md" title="wikilink">陳浚霆</a></strong><br />
 （已退出本劇）</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>|Joe</p></td>
 <td><p>三房派<br />
 白天娥之子，被其偏心<br />
@@ -759,7 +780,7 @@ Ann、佘秀琴之繼子<br />
 於第180集得知龍作蜜到法國學廚，並支持其</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/何艷娟.md" title="wikilink">何艷娟</a></p></td>
 <td><p><strong>龍作蜜</strong></p></td>
 <td><p><strong>Vivian</strong><br />
@@ -786,16 +807,16 @@ Joe之妹<br />
 於第243集入讀香港島大學<br />
 角色名字諧音：<strong><a href="https://zh.wikipedia.org/wiki/農作物" title="wikilink">農作物</a></strong></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/曾慧雲.md" title="wikilink">曾慧雲</a></p></td>
 <td><p>風　母</p></td>
 <td><p>庶房派<br />
 龍敢威之情婦<br />
 龍璟風之母<br />
 Ann、佘秀琴、白天娥之情敵，被Ann視為眼中釘<br />
-已於龍璟風童年時因病去世（第6集）</p></td>
+已於龍璟風童年時病逝（第6集）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>|Nikita</p></td>
 <td><p><strong>豈有此理隻狗（熊尚善專稱）</strong><br />
 龍力蓮之寵物狗<br />
@@ -897,14 +918,6 @@ Lawrence之上司<br />
 參見<a href="https://zh.wikipedia.org/wiki/#龍家" title="wikilink"><strong>龍家</strong></a></p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/李偉健.md" title="wikilink">李偉健</a></strong></p></td>
-<td><p><strong>龍力王</strong></p></td>
-<td><p><strong>Terry</strong>、<strong>二少</strong>、<strong><a href="https://zh.wikipedia.org/wiki/迷你龍" title="wikilink">迷你龍</a></strong><br />
-職員，於第263集成為人事部經理，於第264集調回原職，於第407集被龍力蓮及吳家聰安排調職至保安部<br />
-於第552集起取代龍力蓮成為財務部真正掌權人<br />
-參見<a href="https://zh.wikipedia.org/wiki/#龍家" title="wikilink"><strong>龍家</strong></a>／<a href="https://zh.wikipedia.org/wiki/#人事部" title="wikilink"><strong>接龍集團／威龍百貨公司人事部</strong></a></p></td>
-</tr>
-<tr class="even">
 <td><p><strong><a href="../Page/謝芷倫.md" title="wikilink">謝芷倫</a></strong><br />
 （暫別本劇）</p></td>
 <td><p>|<strong>林美香</strong></p></td>
@@ -929,26 +942,27 @@ Lawrence之上司<br />
 於第495集交代出獄後辭職及與父母移居英國修讀法律<br />
 角色名字諧音：<strong>臨尾香</strong></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/周梓盈.md" title="wikilink">周梓盈</a></p></td>
 <td><p>譚可清</p></td>
 <td><p><strong>垃圾清（龍力蓮專稱）</strong><br />
-龍力蓮之秘書助理（第437集起），於第501集曾升職成為龍力蓮之私人助理<br />
+龍力蓮之秘書助理（第437集起），曾升職成為龍力蓮之私人助理（第501集）<br />
+譚冠之女<br />
 小時候隨父母移居美國，設有譚氏莊園，並擁有數間超級市場<br />
 於第4集登場<br />
 於第501集被龍力蓮誤會與龍力王的關係而被提拔財政總監私人助理（後撤回）<br />
 參見<a href="https://zh.wikipedia.org/wiki/#人事部" title="wikilink"><strong>接龍集團／威龍百貨公司人事部</strong></a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/梁茵_(演員).md" title="wikilink">梁　茵</a></p></td>
 <td><p><strong>江慧喬</strong></p></td>
 <td><p><strong>Anita</strong>、<strong>威龍潘金蓮</strong><br />
 龍力王之秘書（第552集起）<br />
-於第552集起從「尋寶圖」網店借調到財務部作為龍力王之秘書<br />
+於第552集從「尋寶圖」網店借調到財務部<br />
 角色名字參照：<strong><a href="../Page/宋慧喬.md" title="wikilink">宋慧喬</a></strong><br />
 參見<a href="https://zh.wikipedia.org/wiki/#「尋寶圖」網店" title="wikilink"><strong>「尋寶圖」網店</strong></a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong><a href="../Page/邵珮詩.md" title="wikilink">邵珮詩</a></strong><br />
 （已退出本劇）</p></td>
 <td><p>|<strong>侯蔡欣</strong></p></td>
@@ -956,16 +970,23 @@ Lawrence之上司<br />
 前職員<br />
 參見<a href="https://zh.wikipedia.org/wiki/#「尋寶圖」網店" title="wikilink"><strong>「尋寶圖」網店</strong></a></p></td>
 </tr>
+<tr class="odd">
+<td><p><strong><a href="../Page/李偉健.md" title="wikilink">李偉健</a></strong></p></td>
+<td><p><strong>龍力王</strong></p></td>
+<td><p><strong>Terry</strong>、<strong>二少</strong>、<strong><a href="https://zh.wikipedia.org/wiki/迷你龍" title="wikilink">迷你龍</a></strong><br />
+職員，於第263集成為人事部經理，於第264集調回原職，於第407集被龍力蓮及吳家聰安排調職至保安部，於第552集取代龍力蓮成為財務部真正掌權人<br />
+參見<a href="https://zh.wikipedia.org/wiki/#龍家" title="wikilink"><strong>龍家</strong></a>／<a href="https://zh.wikipedia.org/wiki/#人事部" title="wikilink"><strong>接龍集團／威龍百貨公司人事部</strong></a></p></td>
+</tr>
 <tr class="even">
 <td><p><a href="../Page/樊亦敏.md" title="wikilink">樊亦敏</a></p></td>
 <td><p><strong>白天娥</strong></p></td>
-<td><p>財政總監（第431集），一度獲龍敢威安排暫時取代龍力蓮之總監位置<br />
+<td><p>財政總監（第431集），一度獲龍敢威安排暫時取代龍力蓮<br />
 參見<a href="https://zh.wikipedia.org/wiki/#龍家" title="wikilink"><strong>龍家</strong></a></p></td>
 </tr>
 </tbody>
 </table>
 
-#### 「尋寶圖」網店
+#### 網店部→「尋寶圖」網店
 
 於第14集成立。
 
@@ -1047,14 +1068,14 @@ Lawrence之上司<br />
 <td><p><a href="../Page/梁茵_(演員).md" title="wikilink">梁　茵</a></p></td>
 <td><p><strong>江慧喬</strong></p></td>
 <td><p><strong>Anita</strong>、<strong>威龍潘金蓮</strong><br />
-網店總監秘書（第251-551集）／前採購部職員<br />
+網店總監秘書（第251-551集）／前採購部營運經理<br />
 成長於單親家庭，與外婆和妹妹一同居住<br />
 原名<strong>江百合</strong>，15歲後改名<strong>江慧喬</strong><br />
 經常色誘男同事換取為其工作<br />
 池美麗之人生導師<br />
-於第251集起接替侯蔡欣職位<br />
+於第251集接替侯蔡欣<br />
 於第297集起向雷珍妮出賣網店情報<br />
-於第552集起借調去財務部為龍力王之秘書<br />
+於第552集借調去財務部成為龍力王之秘書，於第580集向其表明希望成為其女友<br />
 角色名字參照：<strong><a href="../Page/宋慧喬.md" title="wikilink">宋慧喬</a></strong><br />
 參見<a href="https://zh.wikipedia.org/wiki/#採購部" title="wikilink"><strong>威龍百貨公司採購部</strong></a></p></td>
 </tr>
@@ -1070,7 +1091,7 @@ Lawrence之上司<br />
 <td><p><a href="../Page/黎彼得.md" title="wikilink">黎彼得</a></p></td>
 <td><p><strong>馬　豹</strong></p></td>
 <td><p><strong>豹叔</strong>、<strong>工車</strong><br />
-網店高級客戶主任（第10集起）／前詢問處職員／元老級客戶服務主任<br />
+網店高級客戶主任（第10集起）／前威龍百貨詢問處總監／元老級客戶服務主任<br />
 服務公司接近50年<br />
 雖然英文水平不佳亦熱心為外国遊客帶路，而受高栢菲賞識<br />
 常常說颱風<a href="https://zh.wikipedia.org/wiki/温黛" title="wikilink">温黛故事</a><br />
@@ -1084,6 +1105,7 @@ Lawrence之上司<br />
 <td><p><strong>歸蜀明</strong></p></td>
 <td><p><strong>龜縮明</strong>、<strong>明仔（馬豹專稱）</strong><br />
 網店員工（第10集起）<br />
+/前IT部人員<br />
 因主動繞過程序給予高栢菲IT密碼而受其賞識<br />
 暗戀余愛詩<br />
 於第10集登場<br />
@@ -1093,9 +1115,8 @@ Lawrence之上司<br />
 <td><p><a href="../Page/招浩明.md" title="wikilink">招浩明</a></p></td>
 <td><p><strong>英　進</strong></p></td>
 <td><p><strong>阿進</strong>、<strong>進仔（馬豹專稱）</strong><br />
-網店員工（第10集起）／前超市部收銀員<br />
+網店員工（第10集起）／前威龍超市部收銀員<br />
 被超市部上司針對<br />
-為幫助伯伯，給其$500，而被高栢菲欣賞<br />
 經常在別人不知情下暗中幫助他人，但被馬豹與歸蜀明指責多管閒事<br />
 於第10集登場<br />
 角色名字諧音：<strong>英俊</strong></p></td>
@@ -1110,7 +1131,6 @@ Lawrence之上司<br />
 龍力蓮之暗戀對象，於第292集起因同情心而為龍力蓮提供出租初戀男友服務，後於第304集起對其漸生好感，於第355集被迫結束與其間的交易，卻因此意外與其互相表達自己的感情並成為情人，後於第360集起繼續約會，並不再為金錢交易<br />
 於第55集出現，於第106集正式登場<br />
 於第195集被龍力蓮調職去越南工作，後於第211集被調回香港<br />
-於第275集起同情司徒獨孤明珠身患絕症而陪伴其一個月而請假（但假裝是陪伴宋飛立參加遊學團），後於第292集被龍力蓮揭穿<br />
 於第521集向熊樹仁坦認與龍力蓮的戀情（但龍力蓮不知情）<br />
 於第527集接管舊老闆的酒吧，並命名「<strong>好爸Bar</strong>」</p></td>
 </tr>
@@ -1175,7 +1195,6 @@ Lawrence之上司<br />
 於第376集被龍敢威高薪挖角而回歸接龍集團擔任大中華區市場部營運總監<br />
 於第386集為熊若水贏得威龍籃球賽冠軍，卻被雷珍妮誤會因為暗戀其而回港<br />
 於第392集被雷珍妮發現因為喜歡熊若水而回港<br />
-於第522集被Annie在威龍秘密網指控非禮其，後被龍力蓮降職到倉務部，後在Annie得知真相後幫助釐清誤會而恢復原職<br />
 角色名字諧音：<strong><a href="https://zh.wikipedia.org/wiki/工業" title="wikilink">工業</a></strong></p></td>
 </tr>
 <tr class="even">
@@ -1261,9 +1280,9 @@ Lawrence之上司<br />
 暗戀陳小娟<br />
 於第4集登場<br />
 於第240集因沈佳儀被調職而暫代人事部經理，後於第263集因犯錯而降回原職<br />
-於第321集因感到空虛寂寞，晚上加班後在陳小娟於休息室熟睡時靠向其肩膊上以取得慰藉，被陳小娟發覺並以暖水瓶擲中，並被懷疑為「女色魔」，但熊若水等認為清白而幫忙解釋，其後被熊若水發現暖水瓶造成的瘀傷而得知真相<br />
 在沈佳儀與胡景騰出國旅遊期間利用職權尋找桃花緣，同時被企圖在人事部安插自己人的雷珍妮打壓，因此經常被吳家聰保護，於第396集誤以為被吳家聰暗戀<br />
-於第423集被沈佳儀交代前往英國受訓[6]，於第539集回港</p></td>
+於第423集被沈佳儀交代前往英國受訓[6]，於第539集回港<br />
+於第573集嘗試討好譚道德以協助與陳小娟的發展，但被譚道德誤會企圖勾引而被批評不知廉恥，陳小娟因而多次約會以作私下教導</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/沈可欣.md" title="wikilink">沈可欣</a></p></td>
@@ -1332,14 +1351,14 @@ Lawrence之上司<br />
 <td><p><strong><a href="../Page/歐瑞偉.md" title="wikilink">歐瑞偉</a></strong></p></td>
 <td><p><strong>吳家聰</strong></p></td>
 <td><p><strong>KC</strong><br />
-主管（第31-229集）→初級法律行政文員（第229-285集）→高級法律行政文員（第285-286集）→主管（第286集起）<br />
+主管（第31-229集）→初級法律行政文員（第229-285集）→高級法律行政文員（第285-286集）→主管（第286-578集）→初級法律行政文員（第578-582集）→主管（第582集）<br />
 參見<strong><a href="https://zh.wikipedia.org/wiki/#龍家" title="wikilink">龍家</a></strong></p></td>
 </tr>
 <tr class="odd">
 <td><p>（青年）</p></td>
 <td><p><strong>胡景騰</strong></p></td>
 <td><p><strong>John</strong><br />
-中國法律部主管（第125-229、286集起），後於第229集升職成為主管（第229-286集），於第286集因吳家聰被龍敢威復職而被調回原職<br />
+中國法律部主管（第125-229集）→主管（第229-286集）→中國法律部主管（第286-578集）→主管（第578集-582集）→中國法律部主管（第582集）<br />
 吳家聰之情敵，被其針對<br />
 沈佳儀之大學同學兼好友，並暗戀其，於第204集向她表白但遭拒絕，但依然深愛其，於第362集成為其男友，於第533集被其得知與雷珍妮的關係而分手<br />
 沈佳儀前夫柏拉濤的遺囑執行人<br />
@@ -1359,6 +1378,11 @@ Lawrence之上司<br />
 <td></td>
 <td><p>Angela</p></td>
 <td><p>胡景騰之秘書（第240、259-260、296、348、350集）</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/李梓謙" title="wikilink">李梓謙</a></p></td>
+<td><p>Alan</p></td>
+<td><p>職員（第582集）</p></td>
 </tr>
 </tbody>
 </table>
@@ -1452,12 +1476,12 @@ Lawrence之上司<br />
 <td><p><a href="../Page/葉暐.md" title="wikilink">葉　暐</a></p></td>
 <td><p>黃國強</p></td>
 <td><p><strong>KK</strong><br />
-主管（第11集）</p></td>
+主管</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>Angela</p></td>
-<td><p>黃國強之秘書（第11、36、57集）</p></td>
+<td><p>黃國強之秘書</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/梁茵_(演員).md" title="wikilink">梁　茵</a></p></td>
@@ -1509,7 +1533,7 @@ Ivan Chan之前女友<br />
 </tr>
 <tr class="even">
 <td><p><a href="../Page/崔錦棠.md" title="wikilink">崔錦棠</a></p></td>
-<td><p>Andy</p></td>
+<td><p>Andy Lau</p></td>
 <td><p>副經理<br />
 威龍秘密網三名網主之一，網名通稱「屠龍者」<br />
 於第50集登場</p></td>
@@ -1533,7 +1557,7 @@ Ivan Chan之前女友<br />
 <td><p><strong>暱稱／關係</strong></p></td>
 </tr>
 <tr class="even">
-<td></td>
+<td><p><a href="../Page/王致狄.md" title="wikilink">王致狄</a></p></td>
 <td><p><strong>陳小娟</strong></p></td>
 <td><p><strong>鐵面陳</strong>、<strong>Iron Face Chan（<a href="../Page/Facebook.md" title="wikilink">Facebook名稱</a>）</strong><br />
 保安主任<br />
@@ -1544,7 +1568,8 @@ Ivan Chan之前女友<br />
 葉碧嘉之暗戀對象<br />
 於第19集登場<br />
 於第163集因未能捉拿賊人而被龍力蓮降職，後恢復主管職位<br />
-於第320集被葉碧嘉誤認為秦博思，而被池子孝請求假扮秦博思與池美麗拍攝婚紗照</p></td>
+於第320集被葉碧嘉誤認為秦博思，而被池子孝請求假扮秦博思與池美麗拍攝婚紗照<br />
+於第573集因以為葉碧嘉企圖勾引譚道德而批評葉碧嘉不知廉恥，為免道德重整會小學教出道德敗壞的學生而多次約會葉碧嘉作私下教導</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -1619,6 +1644,68 @@ Ivan Chan之前女友<br />
 </tbody>
 </table>
 
+#### 女裝部
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>演員</strong></p></td>
+<td><p><strong>角色</strong></p></td>
+<td><p><strong>暱稱／關係</strong></p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>Ling姐</p></td>
+<td><p><strong>大粒癦</strong><br />
+前女裝部主管<br />
+熊若水、林美香之前上司（第303、412、528集）</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/鍾晴_(藝人).md" title="wikilink">鍾　晴</a></p></td>
+<td><p>Cammy</p></td>
+<td><p>女裝部員工<br />
+於第235集登場</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/楊嘉欣.md" title="wikilink">楊嘉欣</a></p></td>
+<td><p>Annie</p></td>
+<td><p>女裝部員工<br />
+於第303集登場<br />
+於第522集在初戀Café小睡時群姐整理自己的短裙時因龔燁經過而以為被龔燁非禮，後得知真相後在威龍秘密網向威龍員工釐清誤會</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/楊家寶.md" title="wikilink">楊家寶</a></p></td>
+<td><p>Bowie</p></td>
+<td><p>女裝部員工<br />
+於第303集登場</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/彭翔翎" title="wikilink">彭翔翎</a></p></td>
+<td><p>李藹怡</p></td>
+<td><p>女裝部員工<br />
+曾被懷疑為「女色魔」（第321、350、409、456、478、514、522集）</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/李君妍.md" title="wikilink">李君妍</a></p></td>
+<td></td>
+<td><p>女裝部員工（第551集）</p></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="../Page/謝芷倫.md" title="wikilink">謝芷倫</a></strong><br />
+（暫別本劇）</p></td>
+<td><p><strong>林美香</strong></p></td>
+<td><p><strong>Mandy</strong>、<strong>大秘書</strong>、<strong>怪醫嫂（龔燁專稱）</strong><br />
+前女裝部售貨員</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="../Page/呂慧儀.md" title="wikilink">呂慧儀</a></strong></p></td>
+<td><p><strong>熊若水</strong></p></td>
+<td><p><strong>Mary</strong>、<strong>Mary Hung</strong><br />
+前女裝部售貨員</p></td>
+</tr>
+</tbody>
+</table>
+
 #### 清潔部
 
 <table>
@@ -1633,6 +1720,7 @@ Ivan Chan之前女友<br />
 <td><p><strong>群　姐</strong></p></td>
 <td><p><strong>Isabella、伊莎貝拉•群</strong><br />
 清潔大姐<br />
+前國家女子排球隊成員<br />
 丈夫已逝，另有一子<br />
 性格貪婪八卦，但工作勤快，並熟悉清潔工作相關化學和水電知識<br />
 極度迷戀<a href="../Page/歐陽震華.md" title="wikilink">歐陽震華</a><br />
@@ -1684,23 +1772,45 @@ Ivan Chan之前女友<br />
 </tr>
 <tr class="even">
 <td><p>梅　姐</p></td>
-<td><p>清潔大姐（第552集）</p></td>
+<td><p>清潔大姐<br />
+曾患癌症（第552、582集）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/劉沛寧" title="wikilink">劉沛寧</a></p></td>
-<td><p>愛　姐</p></td>
-<td><p>清潔大姐（第496集）</p></td>
+<td><p>頌　姐</p></td>
+<td><p>清潔大姐（第496、577、586、587集）</p></td>
 </tr>
 <tr class="even">
+<td><p>|愛　姐</p></td>
+<td><p>清潔大姐（第496、577、586、587集）</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/王華盛" title="wikilink">王華盛</a></p></td>
 <td><p>全　叔</p></td>
 <td><p>清潔大叔（第541集）</p></td>
 </tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/方麗盈" title="wikilink">方麗盈</a></p></td>
+<td></td>
+<td><p>清潔大姐（第586、587集）</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/譚淑瑩" title="wikilink">譚淑瑩</a></p></td>
+<td></td>
+<td><p>清潔大姐（第586、587集）</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/鄭玉儀" title="wikilink">鄭玉儀</a></p></td>
+<td></td>
+<td><p>清潔大姐（第586、587集）</p></td>
+</tr>
 <tr class="odd">
 <td><p>|娟　姐</p></td>
 <td><p>清潔大姐<br />
-群姐之競爭對手</p></td>
+群姐之競爭對手<br />
+追求關彼得</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -1743,7 +1853,7 @@ Ivan Chan之前女友<br />
 </tr>
 <tr class="odd">
 <td><p>Dora</p></td>
-<td><p>職員（第259-260、296、344、348、409、456、534集）</p></td>
+<td><p>職員（第259-260、296、344、348、409、456、534、575、577、590集）</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1762,7 +1872,7 @@ Ivan Chan之前女友<br />
 <td><p>部門經理（第11、60、234、240、259、263、285、302、409、478集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/:zh-yue:盧偉文" title="wikilink">盧偉文</a></p></td>
+<td></td>
 <td><p>文　哥</p></td>
 <td><p>倉務員（第20集）</p></td>
 </tr>
@@ -1790,30 +1900,11 @@ Ivan Chan之前女友<br />
 職員（第234、344、364、372、382、456集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/鍾晴_(藝人).md" title="wikilink">鍾　晴</a></p></td>
-<td><p>Cammy</p></td>
-<td><p>女裝部員工<br />
-於第235集登場</p></td>
-</tr>
-<tr class="odd">
 <td><p><a href="../Page/關偉倫.md" title="wikilink">關偉倫</a></p></td>
 <td><p>權　叔</p></td>
 <td><p>運輸部主管（第287集）</p></td>
 </tr>
-<tr class="even">
-<td><p><a href="../Page/楊嘉欣.md" title="wikilink">楊嘉欣</a></p></td>
-<td><p>Annie</p></td>
-<td><p>女裝部員工<br />
-於第303集登場<br />
-於第522集在初戀Café小睡時群姐整理自己的短裙時因龔燁經過而以為被龔燁非禮，後得知真相後在威龍秘密網向威龍員工釐清誤會</p></td>
-</tr>
 <tr class="odd">
-<td><p><a href="../Page/楊家寶.md" title="wikilink">楊家寶</a></p></td>
-<td><p>Bowie</p></td>
-<td><p>女裝部員工<br />
-於第303集登場</p></td>
-</tr>
-<tr class="even">
 <td></td>
 <td><p>Ling姐</p></td>
 <td><p><strong>大粒癦</strong><br />
@@ -1821,44 +1912,33 @@ Ivan Chan之前女友<br />
 廚具部主管／前女裝部主管<br />
 熊若水、林美香之前上司（第303、412、528集）</p></td>
 </tr>
-<tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/彭翔翎" title="wikilink">彭翔翎</a></p></td>
-<td><p>李藹怡</p></td>
-<td><p>女裝部員工<br />
-曾被懷疑為「女色魔」（第321、350、409、456、478、514、522集）</p></td>
-</tr>
 <tr class="even">
-<td><p>Ivy</p></td>
-<td><p>秘書（第451集）</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>|司徒海儀</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/羅雄全" title="wikilink">羅雄全</a></p></td>
+<td><p>司徒海儀</p></td>
 <td><p>美術部員工<br />
 曾被懷疑為「女色魔」（第321集）</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><p>Sunny</p></td>
-<td><p>「策略發展部」總監<br />
-Uncle Sun之子<br />
-「黃金銀行」少東（第325集）</p></td>
 </tr>
 <tr class="odd">
+<td></td>
+<td><p>Sunny</p></td>
+<td><p>策略發展部總監<br />
+Uncle Sun之子<br />
+黃金銀行少東（第325集）</p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td><p>Kelly</p></td>
 <td><p>員工（第382、456、534、547集）</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/彭翔翎" title="wikilink">彭翔翎</a></p></td>
+<td><p>Ivy</p></td>
+<td><p>秘書（第451集）</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/簡家麒" title="wikilink">簡家麒</a></p></td>
 <td></td>
 <td><p>職員（第514集）</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/李君妍.md" title="wikilink">李君妍</a></p></td>
-<td></td>
-<td><p>女裝部員工（第551集）</p></td>
 </tr>
 </tbody>
 </table>
@@ -1893,7 +1973,7 @@ Uncle Sun之子<br />
 <td><p><a href="../Page/黄得生.md" title="wikilink">黄得生</a></p></td>
 <td><p>倫</p></td>
 <td><p><strong>阿倫</strong><br />
-前侍應（第350集）</p></td>
+侍應，後被解僱（第350集）</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/林淑敏.md" title="wikilink">林淑敏</a></strong></p></td>
@@ -1921,11 +2001,14 @@ Uncle Sun之子<br />
 <td><p><strong>馬美娜</strong></p></td>
 <td><p><strong>Mia</strong>、<strong>Ma姐</strong>、<strong>阿Ma</strong>、<strong>Mama Mia（龍力蓮專稱）</strong><br />
 營運總監（第432集起），原於「方幕商場」工作，經高栢菲推薦後被龍敢威安排管理新威龍廣場<br />
-高栢菲之前合作-{伙}-伴，後為接龍集團同事<br />
-葉碧嘉之好姊妹（第553集起），並向其透露自己對龍敢威的心意<br />
+高栢菲之前合作-{伙}-伴，後為接龍集團同事，並成為好姊妹（第528集起）<br />
+熊若水、楊洋、沈佳儀之好姊妹（第528集起）<br />
+葉碧嘉之好姊妹（第553集起），是唯一獲透露自己對龍敢威心意的好姊妹<br />
 鍾愛時裝品牌「哈密瓜」，但為接近熊若水而假裝喜歡另一品牌「Channel」<br />
 於1999年在一個酒會偶遇龍敢威，被其求婚但婉拒，因希望自己現在能「標尾會（把握到最後機會）」而將龍敢威作為心儀對象，並異常包容龍力王<br />
-於第432集登場</p></td>
+被龍敢威的御用風水師金吊桶指可為龍敢威擋煞，並多次替其承受災劫<br />
+於第432集登場<br />
+於第590集被Kim表白，但因隨後被其出賣而回拒</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/葉凱茵.md" title="wikilink">葉凱茵</a></p></td>
@@ -1941,14 +2024,15 @@ Uncle Sun之子<br />
 <td><p>Kim</p></td>
 <td><p><strong>蛋撻Kim</strong><br />
 營運經理<br />
-曾欲追求熊若水，後放棄<br />
+鍾情蛋撻<br />
+曾欲追求熊若水及馬美娜，後放棄<br />
 於第428集登場</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/李偉健.md" title="wikilink">李偉健</a></strong></p></td>
 <td><p><strong>龍力王</strong></p></td>
 <td><p><strong>Terry</strong><br />
-於第445至551集調職至新威龍廣場<br />
+職員（第445-551集）<br />
 參見<a href="https://zh.wikipedia.org/wiki/#龍家" title="wikilink"><strong>龍家</strong></a>／<a href="https://zh.wikipedia.org/wiki/#IT部" title="wikilink"><strong>接龍集團／威龍百貨公司IT部</strong></a></p></td>
 </tr>
 <tr class="even">
@@ -2050,7 +2134,7 @@ IT部主管<br />
 </tr>
 <tr class="even">
 <td><p><a href="../Page/崔錦棠.md" title="wikilink">崔錦棠</a></p></td>
-<td><p>Andy</p></td>
+<td><p>Andy Lau</p></td>
 <td><p>行政部副經理<br />
 威龍秘密網三名網主之一，網名通稱「屠龍者」<br />
 參見<strong><a href="https://zh.wikipedia.org/wiki/#行政部" title="wikilink">接龍集團／威龍百貨公司行政部</a></strong></p></td>
@@ -2163,7 +2247,7 @@ IT部主管<br />
 角色名字諧音 : <strong>唔細力</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/張漢斌.md" title="wikilink">張漢斌</a></p></td>
+<td><p><a href="../Page/張韡騰.md" title="wikilink">張韡騰</a></p></td>
 <td><p><strong>大　力</strong></p></td>
 <td><p>運輸司機／員工<br />
 嗜好賭馬<br />
@@ -2213,7 +2297,7 @@ Candy之同學兼好友<br />
 <tr class="odd">
 <td><p><strong><a href="../Page/滕麗名.md" title="wikilink">滕麗名</a></strong></p></td>
 <td><p><strong>熊尚善</strong></p></td>
-<td><p><strong>Seven Fork（O camp時自稱）</strong>、<strong>善善（與陳伯強交往時被其專稱）</strong><br />
+<td><p><strong>Seven Fork（O camp時自稱）</strong>、<strong>善善（陳伯強專稱（僅於第434集））</strong><br />
 大學心理學系插班生（第76集起）<br />
 金城安之母兼同學（第76集起）<br />
 於第76集入學以彌補二十年前放棄讀大學的遺憾，並完成自己讀大學的願望<br />
@@ -2242,18 +2326,16 @@ Jessie之同學<br />
 <td><p><strong><a href="../Page/吳偉豪.md" title="wikilink">吳偉豪</a></strong></p></td>
 <td><p><strong>朱凌凌</strong></p></td>
 <td><p><strong>朱Ling</strong>、<strong>Ling Ling豬</strong>、<strong>朱Ling Ling</strong>、<strong>凌凌豬</strong>、<strong>島大吳彥祖</strong><br />
-大學法律學系學生／大學二年級→三年級生，於第351集成功轉到攝影系<br />
+大學法律學系學生／大學二年級→三年級生，於第351集成功轉到攝影系／「曹達華影視製作公司」實習生（第556集起）<br />
 電影學會會員→顧問<br />
 宿舍經營副業：拍攝證件相或其他類型照片<br />
 外貌協會成員，嫌棄池美麗的外貌及吃相<br />
-金城安之同學兼好友<br />
-陳伯強、艾頓壯、健之同學兼好友<br />
-譚育英之同學，並暗戀其，於第79集經金城安指導追求其，後成為其男友，其後因移情別戀金城安而於第144集分手，也因此被誤會與金城安是情侶關係<br />
+金城安、陳伯強、艾頓壯、健之同學兼好友<br />
+譚育英之同學，並暗戀其，於第79集經金城安指導追求其，後成為其男友，後於第144集分手，也因此被誤會與金城安是情侶關係<br />
 Venus、Jessie之同學<br />
 暗戀湯圓圓，於第312集偷吻其，於第351集起追求其，並向其表白，但被拒絕，於第390集被其偷吻<br />
 於第5集登場<br />
 於第236集得知金城安與譚育英的關係<br />
-於第556集起成為「曹達華影視製作公司」實習生<br />
 角色名字同：<strong><a href="../Page/朱凌凌.md" title="wikilink">朱凌凌</a></strong><br />
 角色名字諧音：<strong><a href="../Page/朱玲玲.md" title="wikilink">朱玲玲</a></strong><br />
 參見<a href="https://zh.wikipedia.org/wiki/#朱家" title="wikilink"><strong>朱家</strong></a>／<a href="https://zh.wikipedia.org/wiki/#「尋寶圖」網店" title="wikilink"><strong>「尋寶圖」網店</strong></a></p></td>
@@ -2268,7 +2350,7 @@ Venus、Jessie之同學<br />
 TB Club→「單身女子同盟」學會總會長（第182-265集）<br />
 擅長日語<br />
 譚道德、譚何容儀之女<br />
-朱凌凌之同學兼暗戀對象，後於第79集成為其女友，後因其於第144集移情別戀金城安而分手，因此想拆散及離間其與金城安之間的感情<br />
+朱凌凌之同學兼暗戀對象，後於第79集成為其女友，於第144集分手，因此想拆散及離間其與金城安之間的感情<br />
 金城安之同學，與其針鋒相對，曾被其因不滿Venus和朱凌凌過於親密而冤枉Venus偷銀包的事情而被其威脅並勞役，後反勞役其並以其欺騙Venus的事情威脅其，於第182集成立TB Club（<strong>T</strong>am <strong>B</strong>onnie Club）學會後與其敵對，於第214集被其告白後主動與其接吻後喜歡其，欲與其作進一步發展，於第228集成為他女友（地下情，於第236集被朱凌凌發現，於第262集被熊尚善設局公開），後於第272集因向金城安坦認挪用筆名<strong>七把叉</strong>而提出分手，最後於第291集復合<br />
 陳伯強、艾頓壯、健、熊心如之同學<br />
 龍作蜜之同學兼好友，在有感情煩惱及被欺凌時視其為傾訴對象<br />
@@ -2285,7 +2367,7 @@ Venus之同學兼好友<br />
 <td><p><strong><a href="../Page/馮奕森.md" title="wikilink">馮奕森</a></strong><br />
 （暫別本劇）</p></td>
 <td><p><strong>陳伯強</strong></p></td>
-<td><p><strong>傻強</strong>、<strong>強強</strong>、<strong>潺仔強（Jerry專稱）</strong>、<strong>精強（偶爾自稱）</strong>、<strong>伯強豬（與熊尚善交往時被其專稱）</strong><br />
+<td><p><strong>傻強</strong>、<strong>強強</strong>、<strong>潺仔強（Jerry專稱）</strong>、<strong>精強（偶爾自稱）</strong>、<strong>伯強豬（熊尚善專稱（僅於第434集））</strong><br />
 大學心理學系學生／大學二年級→三年級生<br />
 電影學會會員→顧問<br />
 宿舍經營副業：撈麵<br />
@@ -2305,7 +2387,7 @@ Dorothy之男友，後於第506集分手<br />
 角色名字諧音：<strong><a href="../Page/陳百強.md" title="wikilink">陳百強</a></strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/焦浩軒.md" title="wikilink">焦浩軒</a></p></td>
+<td><p><strong><a href="../Page/焦浩軒.md" title="wikilink">焦浩軒</a></strong></p></td>
 <td><p><strong>艾頓壯</strong></p></td>
 <td><p><strong>神之阿壯（自稱）</strong><br />
 大學工商管理學系學生／大學二年級→三年級生<br />
@@ -2322,6 +2404,13 @@ Tiffany之男友，於第351集交代已分手，後於第387集暗示已復合�
 於第515集以為被Suki嫌棄，經金城安與朱凌凌贈送虛擬女友程式而沉溺於虛擬女友「夏蕙」，後在Suki釐清誤會後清醒</p></td>
 </tr>
 <tr class="odd">
+<td><p><strong><a href="../Page/張明偉.md" title="wikilink">張明偉</a></strong></p></td>
+<td><p><strong>王　國</strong></p></td>
+<td><p><strong>George</strong>、<strong>G.Wong</strong>、<strong>佐治</strong><br />
+大學學生／碩士生<br />
+參見<a href="https://zh.wikipedia.org/wiki/#天才聯盟補習社" title="wikilink"><strong>天才聯盟補習社</strong></a></p></td>
+</tr>
+<tr class="even">
 <td><p><a href="../Page/鄺潔楹.md" title="wikilink">鄺潔楹</a></p></td>
 <td><p><strong>Venus</strong>[8]</p></td>
 <td><p><strong>阿慧</strong>、<strong><a href="https://zh.wikipedia.org/wiki/維納斯" title="wikilink">維納斯</a>（熊樹根專稱）</strong><br />
@@ -2336,7 +2425,7 @@ Tiffany之男友，於第351集交代已分手，後於第387集暗示已復合�
 妙婆之外孫女<br />
 於第26集登場</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/楊秀惠.md" title="wikilink">楊秀惠</a><br />
 （暫別本劇）</p></td>
 <td><p><strong>湯圓圓</strong></p></td>
@@ -2354,7 +2443,7 @@ Cherry之好友<br />
 於第390集離職前往澳洲教書<br />
 角色名字參照：<strong><a href="../Page/湯圓.md" title="wikilink">湯圓</a></strong></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/何艷娟.md" title="wikilink">何艷娟</a></p></td>
 <td><p><strong>龍作蜜</strong></p></td>
 <td><p><strong>Vivian</strong><br />
@@ -2363,13 +2452,6 @@ Cherry之好友<br />
 譚育英之同學兼好友<br />
 於第243集入學<br />
 參見<a href="https://zh.wikipedia.org/wiki/#龍家" title="wikilink"><strong>龍家</strong></a></p></td>
-</tr>
-<tr class="even">
-<td><p><strong><a href="../Page/張明偉.md" title="wikilink">張明偉</a></strong></p></td>
-<td><p><strong>王　國</strong></p></td>
-<td><p><strong>George</strong>、<strong>G.Wong</strong>、<strong>佐治</strong><br />
-大學學生／碩士生<br />
-參見<a href="https://zh.wikipedia.org/wiki/#天才聯盟補習社" title="wikilink"><strong>天才聯盟補習社</strong></a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/方紹聰.md" title="wikilink">方紹聰</a></p></td>
@@ -2446,7 +2528,7 @@ Alex之女友<br />
 於第475集交代成為艾頓壯之女友，後於第476集被迫分手，但維持朋友關係</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/程皓" title="wikilink">程　皓</a></p></td>
+<td></td>
 <td><p>Doris</p></td>
 <td><p>大學學生<br />
 「單身女子同盟」學會會員（至第265集）<br />
@@ -2543,18 +2625,27 @@ Jessie之男友<br />
 <td><p><strong>沈佳儀</strong></p></td>
 <td><p><strong>Helen</strong><br />
 文學科畢業生（第125集）<br />
-與胡景騰為同屆同學，並一直被其暗戀<br />
 參見<strong><a href="https://zh.wikipedia.org/wiki/#人事部" title="wikilink">接龍集團／威龍百貨公司人事部</a></strong></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/何啟南.md" title="wikilink">何啟南</a></p></td>
 <td><p><strong>胡景騰</strong></p></td>
 <td><p><strong>John</strong><br />
-律師<br />
 法律科畢業生（第125集）<br />
-與沈佳儀為同屆同學，並一直暗戀其<br />
-於第120集登場<br />
 參見<a href="https://zh.wikipedia.org/wiki/#法律部" title="wikilink"><strong>接龍集團／威龍百貨公司法律部</strong></a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/吳偉豪.md" title="wikilink">吳偉豪</a>（少年）</p></td>
+<td><p><strong>朱　展</strong></p></td>
+<td><p><em>'Martin <strong><br />
+法律科一級榮耀畢業生<br />
+角色名字諧音：</strong>豬展</em>'<br />
+參見<a href="https://zh.wikipedia.org/wiki/#法律部" title="wikilink"><strong>朱家</strong></a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/陳嘉輝.md" title="wikilink">陳嘉輝</a></p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/鄭玉儀" title="wikilink">鄭玉儀</a></p></td>
@@ -2691,8 +2782,9 @@ Jessie之男友<br />
 </tr>
 <tr class="even">
 <td><p><a href="../Page/劉嘉琪.md" title="wikilink">劉嘉琪</a></p></td>
-<td></td>
-<td><p>大學學生（第389、426、442、476集）</p></td>
+<td><p>Kanice</p></td>
+<td><p>大學學生<br />
+熊心如之同學（第389、426、442、476、589集）</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/黎穎珊" title="wikilink">黎穎珊</a></p></td>
@@ -2737,9 +2829,14 @@ Venus之中學同學（第426、500集）</p></td>
 <td></td>
 <td><p>炳　強</p></td>
 <td><p><strong>細安</strong><br />
-患有<a href="https://zh.wikipedia.org/wiki/被迫害妄想症" title="wikilink">被迫害妄想症</a><br />
+患有<a href="https://zh.wikipedia.org/wiki/被害妄想" title="wikilink">被害妄想</a><br />
 多次假扮大學生<br />
-假意接近金城安，抄襲其入學資料並假冒金城安的身份，企圖奪去其學位，但失敗 (第565集)</p></td>
+假意接近金城安，抄襲其入學資料並假冒金城安的身份，使金城安愧疚以企圖奪去其學位，但被熊尚善識穿而失敗（第565集）</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/曾啟綸" title="wikilink">曾啟綸</a></p></td>
+<td></td>
+<td><p>心理學系主任（第589集）</p></td>
 </tr>
 </tbody>
 </table>
@@ -2777,16 +2874,16 @@ Venus之中學同學（第426、500集）</p></td>
 參見<strong><a href="https://zh.wikipedia.org/wiki/#熊家" title="wikilink">熊家</a>／<a href="https://zh.wikipedia.org/wiki/#香港島大學（HKIU）" title="wikilink">香港島大學</a></strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/黃欣_(演員).md" title="wikilink">黃　欣</a></p></td>
-<td><p>Lily</p></td>
-<td><p>秘書<br />
-於第135集登場</p></td>
-</tr>
-<tr class="odd">
 <td><p><a href="../Page/朱滙林.md" title="wikilink">朱滙林</a></p></td>
 <td><p>阿　鬼</p></td>
 <td><p>潮偉之助手<br />
 有優秀的審美觸覺，多年來為保住潮偉面子而暗中幫助其，於第561集被熊尚善發現<br />
+於第135集登場</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/黃欣_(演員).md" title="wikilink">黃　欣</a></p></td>
+<td><p>Lily</p></td>
+<td><p>秘書<br />
 於第135集登場</p></td>
 </tr>
 <tr class="even">
@@ -2798,7 +2895,7 @@ Venus之中學同學（第426、500集）</p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>副導演</p></td>
+<td></td>
 <td><p>副導演／助導<br />
 啟導之下屬<br />
 於第174集登場</p></td>
@@ -2824,7 +2921,7 @@ Venus之中學同學（第426、500集）</p></td>
 於第19集登場<br />
 於第324集與熊樹根、麥斗車競逐「運輸業聯會」主席，但最終落敗<br />
 於第335集發現池子孝與熊心如的關係，並一直企圖拆散他們<br />
-於第535集在熊樹根設局下誤以為池子孝與王國是情侶關係，並認可其關係<br />
+於第535集在熊樹根設局下誤以為池子孝與王國是情侶關係，因接納其戀人關係而成為「平權司機」，後得悉真相<br />
 角色名字諧音：<strong>慈父</strong></p></td>
 </tr>
 <tr class="odd">
@@ -2867,7 +2964,7 @@ Venus之中學同學（第426、500集）</p></td>
 於第320集發現池子孝與熊心如的關係，並企圖威脅池子孝從而讓自己與秦博思一起，最後因要求過份而被池子孝責罵後被罵醒</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/鍾凱琪" title="wikilink">鍾凱琪</a></p></td>
+<td><p><a href="../Page/鍾凱琪.md" title="wikilink">鍾凱琪</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -2913,24 +3010,28 @@ Venus之中學同學（第426、500集）</p></td>
 <td><p><strong>暱稱／關係</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/陳嘉輝.md" title="wikilink">陳嘉輝</a></p></td>
+<td><p><a href="../Page/陳嘉輝.md" title="wikilink">陳嘉輝</a>（中年）</p></td>
 <td><p>朱　-{么}-</p></td>
-<td><p>朱展之父<br />
+<td><p>澳門瓷磚畫師傅<br />
+朱展之父，已反目<br />
+一心希望朱展繼承瓷磚畫生意<br />
 朱天梯、朱凌凌之祖父<br />
-澳門磁磚畫師</p></td>
+已病逝，僅在朱展的記憶中出現<br />
+角色名字諧音：<strong>豬腰</strong></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/吳偉豪.md" title="wikilink">吳偉豪</a>（少年）</p></td>
 <td><p><strong>朱　展</strong></p></td>
 <td><p><em>'Martin <strong><br />
 名檢控官→朱三角律師事務所律師（第411集起）<br />
-朱-{么}-之子<br />
-朱凌凌之父，與其不和，於第289集反目<br />
-朱天梯之父<br />
+朱-{么}-之子，已被其反目<br />
+朱凌凌、朱天梯之父，與其不和，後反目<br />
+之多年前一意孤行去香港島大學修讀法律，並與朱么發生衝突<br />
 於第289集登場<br />
 於第154集被譚育英揭發朱凌凌經常拍照而禁足朱凌凌一段時間<br />
 於第289集調查䅁件時發現朱凌凌仍然拍照而強逼其辭去尋寶圖的工作及與熊樹仁脫離師徒關係不遂，並反令其離家出走<br />
-針對金城安、陳伯強和艾頓壯<br />
+針對金城安，於第411集起因其造成災難性的後果而針對、心懷怨恨、不滿，並認定其是剋星<br />
+針對陳伯強、艾頓壯<br />
 譚道德之好友<br />
 角色名字諧音：</strong>豬展</em>'</p></td>
 </tr>
@@ -2946,7 +3047,9 @@ Venus之中學同學（第426、500集）</p></td>
 律師<br />
 朱展之次子<br />
 朱凌凌之兄<br />
-鍾情菠蘿包，後為社會現實而放棄興趣，但工餘時仍研究不同菠蘿包食譜<br />
+朱-{么}-之孫<br />
+金城安之好友<br />
+鍾情菠蘿包，後為社會現實而放棄興趣，但工餘時仍研究不同菠蘿包食譜，後來更擴展至其他麵包<br />
 於第411集登場<br />
 角色名字諧音：<strong>豬天梯</strong></p></td>
 </tr>
@@ -2962,7 +3065,8 @@ Venus之中學同學（第426、500集）</p></td>
 大學法律學系學生，於第351集轉到攝影系<br />
 朱展之幼子，與其不和，於第289集反目<br />
 朱天梯之弟<br />
-母親及長兄為律師<br />
+朱-{么}-之孫<br />
+金城安之好友<br />
 參見<a href="https://zh.wikipedia.org/wiki/#「尋寶圖」網店" title="wikilink"><strong>「尋寶圖」網店</strong></a>／<strong><a href="https://zh.wikipedia.org/wiki/#香港島大學（HKIU）" title="wikilink">香港島大學</a></strong></p></td>
 </tr>
 </tbody>
@@ -2984,14 +3088,16 @@ Venus之中學同學（第426、500集）</p></td>
 道德重整會小學校長<br />
 譚何容儀之夫<br />
 譚育英之父<br />
-信仰《道德經》<br />
+信仰《<a href="https://zh.wikipedia.org/wiki/道德經" title="wikilink">道德經</a>》<br />
 針對金城安，視其為譚育英人生中第一個污點，後被其不知情下連環傷害<br />
 不滿熊尚善，認為其是一個不知廉恥的作家<br />
 朱展之好友<br />
+曾安排王國與譚育英相親，後因與其父母反目而作罷，於第450集起希望其能讓譚育英與金城安分手而多次安排其與譚育英相親，於第592集被其交代因誤會其與池子孝的關係而反目<br />
 於第132集登場<br />
 於第298集發現譚育英與金城安的關係<br />
 於第525集被熊樹根保護免被滾水所傷而視其為恩公<br />
 於第542集與熊樹根、龍敢威、馬豹組成「大四喜」參加《香港齊Hip Hop》<br />
+於第573集因誤看《不道德自修室》而氣得面紅耳赤及氣喘連連，並因葉碧嘉的舉措誤以為其勾引自己<br />
 角色名字諧音：<strong>談道德</strong></p></td>
 </tr>
 <tr class="odd">
@@ -3012,7 +3118,7 @@ Venus之中學同學（第426、500集）</p></td>
 <td><p><strong>譚育英</strong></p></td>
 <td><p><strong>Bonnie</strong><br />
 大學生物化學系學生／博士生<br />
-於第144集交代因假裝懷孕而被父母“藤條燜豬肉”<br />
+於第144集交代因假裝懷孕而被譚道德及譚何容儀懲罰<br />
 譚道德、譚何容儀之女<br />
 參見<strong><a href="https://zh.wikipedia.org/wiki/#香港島大學（HKIU）" title="wikilink">香港島大學</a></strong></p></td>
 </tr>
@@ -3081,6 +3187,7 @@ Kowloon College小學畢業生<br />
 <td><p>譚道德</p></td>
 <td><p><strong>譚校長</strong><br />
 校長<br />
+擔任校長前曾出任中文科老師<br />
 於第132集登場<br />
 於第245集批評宋瑞輝教子不善，但被反駁<br />
 參見<strong><a href="https://zh.wikipedia.org/wiki/#譚家" title="wikilink">譚家</a></strong></p></td>
@@ -3146,14 +3253,19 @@ Kowloon College小學畢業生<br />
 <td><p><strong>Rebecca</strong><br />
 畢業生<br />
 譚道德之前學生<br />
+在學期間認為譚道德古板、囉嗦，又因經常上課聊天、弄短校裙、考試作弊、抄功課等行為而連續六年被譚道德評為操行丙級，自認為其「眼中釘」，並且是被記小過學生的紀錄保持者及連續八個學期長駐「遲到懺悔班」<br />
+曾以舊生身份義教「道德書法班」及為「古箏班」代課<br />
 參見<a href="https://zh.wikipedia.org/wiki/#人事部" title="wikilink"><strong>接龍集團／威龍百貨公司人事部</strong></a></p></td>
 </tr>
 <tr class="even">
-<td></td>
+<td><p><a href="../Page/王致狄.md" title="wikilink">王致狄</a></p></td>
 <td><p><strong>陳小娟</strong></p></td>
 <td><p><strong>鐵面陳</strong><br />
 畢業生<br />
-譚道德之前學生<br />
+舊生會會長<br />
+前風紀<br />
+在學期間連續六年為最佳操行獎及道德之光獎學金得主<br />
+譚道德之前學生，並視其為偶像<br />
 參見<a href="https://zh.wikipedia.org/wiki/#其他員工" title="wikilink"><strong>接龍集團／威龍百貨公司其他員工</strong></a></p></td>
 </tr>
 <tr class="odd">
@@ -3278,8 +3390,8 @@ Kowloon College小學畢業生<br />
 <tr class="even">
 <td><p><strong><a href="../Page/許家傑.md" title="wikilink">許家傑</a></strong></p></td>
 <td><p><strong>宋瑞輝</strong></p></td>
-<td><p><strong>送水輝</strong>、<strong>輝仔（馬豹專稱）</strong>、<strong>宋老闆</strong><br />
-老闆（第527集起），僅「尋寶圖」網店男員工知悉<br />
+<td><p><strong>送水輝</strong>、<strong>輝仔（馬豹專稱）</strong>、<strong>宋老闆</strong>、<strong>Michael（曹達華專稱）</strong><br />
+老闆（第527集起），僅「尋寶圖」網店男員工知悉，於第550集被龍敢威及吳家聰得知<br />
 參見<strong><a href="https://zh.wikipedia.org/wiki/#「尋寶圖」網店" title="wikilink">「尋寶圖」網店</a></strong></p></td>
 </tr>
 <tr class="odd">
@@ -3340,6 +3452,74 @@ Kowloon College小學畢業生<br />
 <td><p><strong>送水輝</strong>、<strong>宋老闆</strong><br />
 「好爸Bar」酒吧老闆<br />
 參見<strong><a href="https://zh.wikipedia.org/wiki/#「「好爸Bar」酒吧" title="wikilink">「好爸Bar」酒吧</a></strong></p></td>
+</tr>
+</tbody>
+</table>
+
+### 列堤頓道街坊
+
+  - 各人對演戲感興趣。
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>演員</strong></p></td>
+<td><p><strong>角色</strong></p></td>
+<td><p><strong>暱稱／關係</strong></p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p><strong>陳妹珠</strong></p></td>
+<td><p><strong>陳師奶</strong>、<strong>食屎陳師奶</strong>、<strong>Auntie Eat Poo</strong><br />
+乳名<strong>妹豬</strong><br />
+外號<strong>西半山地產之花</strong>、<strong>迷人Rock Lady</strong>、<strong>曼玉</strong><br />
+玉女劍法掌門人／地產經紀<br />
+陳生之妻，於第549集被其單方面要求離婚，後於第554集和好<br />
+熊家、高凱寧之鄰居，養有一狗<br />
+大頭文之世嬸<br />
+嘉玲之好姊妹，年輕時與其合稱<strong>索爆姊妹花</strong><br />
+曾與熊家有過節，於第178集後與熊家關係亦敵亦友<br />
+經常欺負及剝削熊心如<br />
+於第67集登場<br />
+於第67集與熊尚善打賭，最終勝出並強迫熊樹仁吃啤啤隨地便溺的糞便，卻從此被熊家人冠名<strong>食屎陳師奶</strong></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/黃志榮_(演員)" title="wikilink">黃志榮</a></p></td>
+<td><p>陳　生</p></td>
+<td><p>陳妹珠之夫<br />
+多年來進食陳妹珠的「愛回家孖寶」導致膽固醇超標<br />
+於第241集登場<br />
+於第549集向陳妹珠提出離婚，於第554集和好</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/甄詠珊.md" title="wikilink">甄詠珊</a></p></td>
+<td><p>高凱寧</p></td>
+<td><p><strong>高小姐</strong><br />
+熊家、陳家之鄰居，養有一狗<br />
+於第317集登場<br />
+角色名字諧音：<strong><a href="../Page/高海寧.md" title="wikilink">高海寧</a></strong></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/黃耀英.md" title="wikilink">黃耀英</a>（青年）</p></td>
+<td><p><strong>龍敢佳</strong></p></td>
+<td><p><strong>Kai叔</strong><br />
+參見<strong><a href="https://zh.wikipedia.org/wiki/#龍家" title="wikilink">龍家</a></strong></p></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="../Page/鍾志光.md" title="wikilink">鍾志光</a></strong></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/吳瑞庭.md" title="wikilink">吳瑞庭</a></p></td>
+<td><p>勞　生</p></td>
+<td><p>心理醫生<br />
+熊家之同層鄰居（第494、581集）</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/陳勉良.md" title="wikilink">陳勉良</a></p></td>
+<td></td>
+<td><p>列堤頓道99號看更（第480、484-485、517、572、576、581集）</p></td>
 </tr>
 </tbody>
 </table>
@@ -3505,10 +3685,11 @@ Diana之繼子兼競爭對手，與其不和<br />
 <td><p><a href="../Page/劉一飛.md" title="wikilink">劉一飛</a></p></td>
 <td><p><strong>曹達華</strong></p></td>
 <td><p><strong>Kenneth</strong>、<strong>曹總</strong><br />
+曹永廉之子<br />
+周偉騰之表哥<br />
 「曹氏集團」主席<br />
 擁有企業管理和生物科技雙博士學歷<br />
 「潮偉電影製作公司」投資者，並偶爾參演其公司的電影角色<br />
-周偉騰之表哥<br />
 曾在街市賣魚，並與菠菜蓮有一段感情線，認為是菠菜蓮被外星人洗腦才忘記自己<br />
 曾多次追求熊若水（第17、89、357、557集），但被拒絕<br />
 於第17集登場<br />
@@ -3517,36 +3698,19 @@ Diana之繼子兼競爭對手，與其不和<br />
 角色名字同：<strong><a href="../Page/曹達華.md" title="wikilink">曹達華</a></strong></p></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td><p><strong>陳妹珠</strong></p></td>
-<td><p><strong>陳師奶</strong>、<strong>食屎陳師奶</strong>、<strong>Auntie Eat Poo</strong><br />
-乳名<strong>妹豬</strong><br />
-外號<strong>西半山地產之花</strong>、<strong>迷人Rock Lady</strong>、<strong>曼玉</strong><br />
-玉女劍法掌門人／地產經紀<br />
-陳生之妻，於第549集被其單方面要求離婚，後於第554集和好<br />
-熊家、高凱寧之鄰居，養有一狗<br />
-大頭文之世嬸<br />
-嘉玲之好姊妹，年輕時與其合稱<strong>索爆姊妹花</strong><br />
-曾與熊家有過節，於第178集後與熊家關係良好<br />
-經常欺負及剝削熊心如<br />
-於第67集登場<br />
-於第67集與熊尚善打賭，最終勝出並強迫熊樹仁吃啤啤隨地便溺的糞便，卻從此被熊家人冠名<strong>食屎陳師奶</strong><br />
-於第509集收下熊樹根$500在崔Auntie前來拜年時假扮其女友，但因高栢菲突然出現假扮其女友而尾隨與崔Auntie往吃飯的熊家各人到酒樓，與熊樹根在走廊對話時被崔Auntie聽到而被其拆穿各人演戲</p></td>
-</tr>
-<tr class="even">
 <td><p><a href="../Page/謝東閔_(香港).md" title="wikilink">謝東閔</a></p></td>
 <td><p><strong>金城武</strong></p></td>
 <td><p><strong>阿武（熊尚善專稱）</strong><br />
 阿爹拉阿哥國特務<br />
-熊尚善青年時之男友<br />
+熊尚善之男友<br />
 金城安之生父<br />
 追求校董女兒以接收情報<br />
 22年前被高栢菲在校董女兒面前說出自己是特務的秘密後，被組織要求即時離開香港，後在一次任務中被捉走，嚴刑迫供不遂後傷重身亡<br />
 僅在熊尚善、潮偉及高栢菲的記憶中出現<br />
 角色名字同：<strong><a href="../Page/金城武.md" title="wikilink">金城武</a></strong></p></td>
 </tr>
-<tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/黃致豪" title="wikilink">黃致豪</a><br />
+<tr class="even">
+<td><p><a href="../Page/黃祥興.md" title="wikilink">黃祥興</a><br />
 （已退出本劇）</p></td>
 <td><p>Duncan</p></td>
 <td><p><strong>燈神（陳伯強專稱）</strong><br />
@@ -3558,26 +3722,30 @@ Emma之男友，相戀十年並同居，於第345集分手，於第361集已經�
 於第312集登場<br />
 於第361集與湯圓圓分手後再無出現</p></td>
 </tr>
-<tr class="even">
-<td><p><a href="../Page/甄詠珊.md" title="wikilink">甄詠珊</a></p></td>
-<td><p>高凱寧</p></td>
-<td><p><strong>高小姐</strong><br />
-熊家、陳家之鄰居，養有一狗<br />
-於第317集登場<br />
-角色名字諧音：<strong><a href="../Page/高海寧.md" title="wikilink">高海寧</a></strong></p></td>
-</tr>
 <tr class="odd">
-<td><p><a href="../Page/邱美薇.md" title="wikilink">邱芷微</a></p></td>
+<td><p><a href="../Page/馬蹄露_(藝人).md" title="wikilink">馬蹄露</a></p></td>
+<td><p>司徒獨孤明珠</p></td>
+<td><p>富婆<br />
+患有絕症，宣稱只剩一個月命<br />
+有打屁股怪癖<br />
+吳家聰之女友，後分手<br />
+龍力蓮之情敵<br />
+宋瑞輝之老顧客，後於第329集被其發現偽造「初戀無限Feel」會員卡而拒絕再提供服務<br />
+於第574集再遇宋瑞輝，並表示自己得知其與龍力蓮的戀情，並告訴龍力蓮與商良的婚訊定於2019年9月9日，若想與龍力蓮光明正大的話就捐精給自己擁有骨肉，會轉讓「司徒獨孤集團」半數股份，讓其與商良競爭（第199、292、304、329、574集）</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/邱芷微.md" title="wikilink">邱芷微</a></p></td>
 <td><p>賈明媛</p></td>
 <td><p><strong>Holly</strong>、<strong>賈名媛</strong><br />
 名媛<br />
-何恭梓之未婚妻，於第235集訂婚<br />
 龍力蓮之宿敵<br />
+何恭梓之未婚妻，於第235集訂婚，於第539集交代已分手<br />
+因專搶人男朋友而得「<strong>搶仔包</strong>」之稱<br />
 於第115集登場<br />
 角色名字諧音：<strong>假名媛</strong></p></td>
 </tr>
-<tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/黃成想" title="wikilink">黃成想</a></p></td>
+<tr class="odd">
+<td></td>
 <td><p>陳世美</p></td>
 <td><p><strong>大陳</strong><br />
 富商<br />
@@ -3589,7 +3757,7 @@ Betty、Constance之家翁<br />
 於第448集揭發雷珍妮在「厄里梧島」過關時被發現有違禁品而入獄半年<br />
 角色名字同：<strong><a href="https://zh.wikipedia.org/wiki/陳世美" title="wikilink">陳世美</a></strong></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/姚亦澧.md" title="wikilink">姚亦澧</a></p></td>
 <td><p>細　陳</p></td>
 <td><p><strong>Ryan</strong><br />
@@ -3602,11 +3770,12 @@ Constance在幕後為自己出謀獻策，於第544集被龍力蓮交代其成�
 因拍攝《窮到燶大作戰》而走紅<br />
 於第117集登場</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/黎振燁.md" title="wikilink">黎振燁</a></p></td>
 <td><p>商　良</p></td>
 <td><p><strong>Jacky</strong>、<strong>核突佬（龍力蓮專稱）</strong><br />
-商葉斗芬之子<br />
+商標、商葉斗芬之子<br />
+商品、商豐、商祥、商金、商銀、商管、商賈雅的侄子<br />
 上市公司「商心小棧」集團副主席及行政總裁<br />
 林美香之前室友<br />
 喜歡性格兇悍的女性及出現<a href="https://zh.wikipedia.org/wiki/戀母情結" title="wikilink">戀母情結</a><br />
@@ -3615,23 +3784,15 @@ Constance在幕後為自己出謀獻策，於第544集被龍力蓮交代其成�
 於第292集前往葡萄牙公幹<br />
 於第473集回港，向龍敢威請示追求龍力蓮並獲同意<br />
 於第474集被余愛詩交代到處介紹龍力蓮為女友，但被其感到厭惡<br />
-於第483集向其求婚並成為其未婚夫（實質是因龍敢威的壓力使求婚成功）<br />
+於第483集因龍敢威的壓力下向龍力蓮求婚並成為其未婚夫<br />
 於第550集一度被龍敢威批評辦事不力，並一度被其提出取消與龍力蓮之婚約<br />
 角色名字諧音：<strong>商量</strong>、<strong>雙糧</strong></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/魏惠文.md" title="wikilink">魏惠文</a></p></td>
 <td><p>老　何</p></td>
 <td><p>出版社編輯<br />
 於第109集登場</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/黃志榮_(演員)" title="wikilink">黃志榮</a></p></td>
-<td><p>陳　生</p></td>
-<td><p>陳妹珠之夫<br />
-多年來進食陳妹珠的「愛回家孖寶」導致膽固醇超標<br />
-於第241集登場<br />
-於第549集向陳妹珠提出離婚，於第554集和好（第241、317、517、549、554、567集）</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/陳婉婷_(演員).md" title="wikilink">陳婉婷</a></p></td>
@@ -3702,119 +3863,130 @@ Constance在幕後為自己出謀獻策，於第544集被龍力蓮交代其成�
 </tr>
 <tr class="odd">
 <td></td>
+<td><p>新郎（第590集）</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
 <td></td>
 <td><p>龍璟風利益上之好友（第1、45集）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>招小吉</p></td>
 <td><p>果汁店店員<br />
 於第416集登場</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/陳浩鏘" title="wikilink">陳浩鏘</a></p></td>
 <td></td>
 <td><p>熊心如之中學同學（第1集）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td><p>司機（第1集）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>導演（第416-417、439集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/馮康寧" title="wikilink">馮康寧</a></p></td>
 <td></td>
 <td><p>司機（第1集）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>老人院職員（第51集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/李旻芳.md" title="wikilink">李旻芳</a></p></td>
 <td></td>
 <td><p>記者（第1、417集）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Lucy</p></td>
 <td><p>周偉騰之秘書（第65集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>主持（第477集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/游莨維.md" title="wikilink">游莨維</a></p></td>
 <td></td>
 <td><p>主持（第1集）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>張　偉</p></td>
 <td><p><strong>吹水偉</strong><br />
 「疾風速遞」運輸公司董事長<br />
 速熊前員工（第66集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/容羨媛.md" title="wikilink">容羨媛</a></p></td>
 <td></td>
 <td><p>女主播（第2-3、6、36集）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Betty</p></td>
 <td><p>龍力蓮之好友（第146集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>女苦主，被黃瑞文騙財（第330集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>晴　母</p></td>
 <td><p>學生家長（第471集）<br />
 參見<a href="https://zh.wikipedia.org/wiki/#道德重整會小學" title="wikilink"><strong>道德重整會小學</strong></a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/劉日東" title="wikilink">劉日東</a></p></td>
 <td></td>
 <td><p>糖蔥薄餅攤攤主（第2集）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/葉家泓" title="wikilink">葉家泓</a></p></td>
 <td></td>
 <td><p>搬運工人（第3、7集）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>萬　馬</p></td>
 <td><p>新威龍廣場保安（第416、418、422、428-429、431、434-435、553集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/蔡康年.md" title="wikilink">蔡康年</a></p></td>
 <td><p>大　王</p></td>
 <td><p>男主持（第4集）<br />
 角色造型影射：<strong><a href="../Page/安德尊.md" title="wikilink">安德尊</a></strong></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>冼滄隆</p></td>
 <td><p>醫生（第149、271、331、379、542集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/曾啟綸" title="wikilink">曾啟綸</a></p></td>
 <td><p>李師傅</p></td>
 <td><p>男主持（第4集）<br />
 角色造型影射：<strong><a href="../Page/李錦聯.md" title="wikilink">李錦聯</a></strong></p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>香港島大學心理學系主任（第589集）<br />
+參見<strong><a href="https://zh.wikipedia.org/wiki/#香港島大學（HKIU）" title="wikilink">香港島大學</a></strong></p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/潘冠霖.md" title="wikilink">潘冠霖</a></p></td>
@@ -4078,7 +4250,7 @@ Constance在幕後為自己出謀獻策，於第544集被龍力蓮交代其成�
 </tr>
 <tr class="odd">
 <td><p>Dora</p></td>
-<td><p>接龍集團／威龍百貨公司職員（第259-260、296、344、348、409、456、534集）<br />
+<td><p>接龍集團／威龍百貨公司職員（第259-260、296、344、348、409、456、534、575、577、590集）<br />
 參見<a href="https://zh.wikipedia.org/wiki/#其他員工" title="wikilink"><strong>接龍集團／威龍百貨公司其他員工</strong></a></p></td>
 <td></td>
 </tr>
@@ -4226,139 +4398,144 @@ Constance在幕後為自己出謀獻策，於第544集被龍力蓮交代其成�
 <td></td>
 </tr>
 <tr class="even">
+<td><p>Mimi</p></td>
+<td><p>龍敢威之女友（第585集）</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><a href="../Page/馮奕森.md" title="wikilink">馮奕森</a></p></td>
 <td><p>Gary</p></td>
 <td><p>龍璟風利益上之好友（第15集）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>陳伯強</strong></p></td>
 <td><p>香港島大學學生<br />
 於第58集登場<br />
 參見<a href="https://zh.wikipedia.org/wiki/#香港島大學（HKIU）" title="wikilink"><strong>香港島大學</strong></a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/容天佑.md" title="wikilink">容天佑</a></p></td>
 <td><p>番</p></td>
 <td><p>龍璟風利益上之好友（第15、45集）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>韓劇男主角（第80集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>柔道導師（第395集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>Katie</p></td>
 <td><p>龍璟風利益上之好友<br />
 有偷竊案底（第15、45集）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>林師奶</p></td>
 <td><p>劏房住戶（第245集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td><p>監犯（第15集）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/李啟傑" title="wikilink">李啟傑</a></p></td>
 <td></td>
 <td><p>監犯（第15集）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>啟</p></td>
 <td><p>電視台導演<br />
 於第51集登場<br />
 參見<strong><a href="https://zh.wikipedia.org/wiki/#潮偉電影製作公司" title="wikilink">潮偉電影製作公司</a></strong></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/盧峻峯.md" title="wikilink">盧峻峯</a></p></td>
 <td></td>
 <td><p>侍應（第17集）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>大學學生<br />
 熊心如之同學，並追求其，被其拒絕（第49集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>Audrey之男友（第246集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>張耀揚</p></td>
 <td><p>香港島大學畢業生（第387集）<br />
 參見<strong><a href="https://zh.wikipedia.org/wiki/#香港島大學（HKIU）" title="wikilink">香港島大學</a></strong></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/吳綺珊.md" title="wikilink">吳綺珊</a></p></td>
 <td></td>
 <td><p>接待員（第17集）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>寵物美容店店員（第53集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>少女（第86、331集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Eva</p></td>
 <td><p>鐘點（第164集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>《西門慶上慶》演員，飾演<strong>潘金蓮</strong>（第181、217、227集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>《世紀日報》記者（第432集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>記者（第446、448集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td><p>侍應（第17集）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>|外賣員（第35集）</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>龍</p></td>
 <td><p>香港島大學學生（第79集）<br />
 參見<a href="https://zh.wikipedia.org/wiki/#香港島大學（HKIU）" title="wikilink"><strong>香港島大學</strong></a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>久　浩</p></td>
 <td><p>助手（第147集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>副導演／助導<br />
 啟導之下屬<br />
@@ -4366,87 +4543,92 @@ Constance在幕後為自己出謀獻策，於第544集被龍力蓮交代其成�
 參見<strong><a href="https://zh.wikipedia.org/wiki/#潮偉電影製作公司" title="wikilink">潮偉電影製作公司</a></strong></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>工作人員（第542集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/盧偉文" title="wikilink">盧偉文</a></p></td>
 <td><p>文　哥</p></td>
 <td><p>接龍集團／威龍百貨公司倉務員（第20集）<br />
 參見<a href="https://zh.wikipedia.org/wiki/#其他員工" title="wikilink"><strong>接龍集團／威龍百貨公司其他員工</strong></a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>助導（第51集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>劉　華</p></td>
 <td><p>前特務（第145集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>經紀（第290集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/黃煒溏.md" title="wikilink">黃煒溏</a></p></td>
 <td><p>陳劍鵬</p></td>
 <td><p>「劍鵬貿易」主席（第20集）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Raymond</p></td>
 <td><p>周偉騰之前合作-{伙}-伴（第65集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>男賊人（第407、466集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>男子（第501集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td><p>-{伙}-記（第20集）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>香港島大學職員（第122集）<br />
 參見<a href="https://zh.wikipedia.org/wiki/#香港島大學（HKIU）" title="wikilink"><strong>香港島大學</strong></a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>記者（第245、291、293、312、342、362、367、516集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>男主角（第282集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>主持（第359、374集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>壯漢（第448集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Wilson</p></td>
 <td><p>上班族<br />
 S. Y. Leung之下屬（第544集）</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>譚可清之前男友（第580集）</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -4641,7 +4823,7 @@ S. Y. Leung之下屬（第544集）</p></td>
 </tr>
 <tr class="even">
 <td><p>麥斗車</p></td>
-<td><p>運輸業聯會主席當選人（第324、331、414、535、563集）<br />
+<td><p>運輸業聯會主席當選人（第324、331、414、535、563、572集）<br />
 角色名字諧音：<strong><a href="https://zh.wikipedia.org/wiki/密斗貨車" title="wikilink">密斗車</a></strong></p></td>
 <td></td>
 </tr>
@@ -4698,7 +4880,7 @@ S. Y. Leung之下屬（第544集）</p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p>看更（第480、484-485、517集）</p></td>
+<td><p>看更（第480、484-485、517、572、576、581集）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -4997,66 +5179,76 @@ Ken之女友，與其利用熊樹仁（第37集）</p></td>
 </tr>
 <tr class="even">
 <td></td>
+<td><p>知客（第572集）</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
 <td></td>
 <td><p>「醫學勝手」美容中心職員（第48集）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>晴　晴</p></td>
 <td><p>豪之女友，第124集分手（第124集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>受害少女（第200集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>女學生（第249集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>店員（第392集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>LuLu</p></td>
 <td><p>公關小姐（第504集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/威廉陳.md" title="wikilink">威廉陳</a></p></td>
 <td></td>
 <td><p>菜檔東主（第48集）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>喪　標</p></td>
 <td><p>黑社會大佬<br />
 經熊心如的指導下變為正當商人（第93集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>刀疤堅</p></td>
 <td><p>二十多年前因被熊樹根舉報偷運賊贓而入獄，在獄中改過，出獄後從事水電工（第508集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/趙樂賢.md" title="wikilink">趙樂賢</a></p></td>
 <td><p>Thomas</p></td>
 <td><p>接龍集團／威龍百貨公司前工程部主管（第50集）<br />
 參見<a href="https://zh.wikipedia.org/wiki/#其他員工" title="wikilink"><strong>接龍集團／威龍百貨公司其他員工</strong></a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>張先生</p></td>
 <td><p>供應商（第251集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>秋紹聲</p></td>
 <td><p><strong>Autumn</strong><br />
 <a href="https://zh.wikipedia.org/wiki/UFO" title="wikilink">UFO愛好者</a>（第385集）<br />
 角色名字及造型影射：<strong><a href="../Page/夏韶聲.md" title="wikilink">夏韶聲</a></strong></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>陳妹珠之子（第567集）</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -5148,7 +5340,7 @@ Billy之同事<br />
 <tr class="even">
 <td><p>找錢嫂</p></td>
 <td><p>找錢祥之妻（第417集）<br />
-角色造型影射：<a href="https://zh.wikipedia.org/wiki/洗米嫂" title="wikilink">洗米嫂</a></p></td>
+角色造型影射：<a href="../Page/陳慧玲.md" title="wikilink">陳慧玲</a>（洗米嫂）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -5270,100 +5462,105 @@ Lily、高永強、吳曉婷之中學同學（第55、365集）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td></td>
+<td><p>女主角（第588集）</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><a href="../Page/丁樂鍶.md" title="wikilink">丁樂鍶</a></p></td>
 <td><p>水</p></td>
 <td><p>高永強之妻<br />
 Gordon之母（第55、365集）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>靚太（第480集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>道德重整會小學學生家長（第526集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>大肚婆（第563集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/陳靖雲.md" title="wikilink">陳靖雲</a></p></td>
 <td></td>
 <td><p>女售貨員（第55集）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>美女（第95集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>女店員（第166集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Olivia</p></td>
 <td><p>曾為龍敢威之女友<br />
 龍力蓮之好友（第255集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>女騙子<br />
 以購入倫敦金騙取艾頓壯的錢，後遭陳伯強施壓得以還錢（第416集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>接龍藥行職員（第536集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>女搞手（第564集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>Ada</p></td>
 <td><p>動物協會職員（第56集）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>韓劇女主角（第80集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>侍應（第94集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>沈佳儀（青年）</p></td>
 <td><p>（第125集）<br />
 參見<a href="https://zh.wikipedia.org/wiki/#人事部" title="wikilink"><strong>接龍集團／威龍百貨公司人事部</strong></a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/鄧以豪" title="wikilink">鄧以豪</a></p></td>
 <td></td>
 <td><p>狗場東主（第56集）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>車主（第83集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/鍾君揚.md" title="wikilink">鍾君揚</a></p></td>
 <td></td>
 <td><p>義工（第56集）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>超</p></td>
 <td><p>富商<br />
 美國麻省理工大學畢業生，資訊科技系一級榮譽畢業<br />
@@ -5371,440 +5568,440 @@ Gordon之母（第55、365集）</p></td>
 余愛詩之鍾情對象（第138集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>速遞員（第184集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Patrick</p></td>
 <td><p>男歌星<br />
 楊娜娜之前男友（第210集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Margin</p></td>
 <td><p><strong>CD-Rom（前名）</strong><br />
 參見<a href="https://zh.wikipedia.org/wiki/#IT部" title="wikilink"><strong>接龍集團／威龍百貨公司IT部</strong></a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/程皓" title="wikilink">程　皓</a></p></td>
+<tr class="even">
+<td></td>
 <td></td>
 <td><p>記者（第56、167集）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Doris</p></td>
 <td><p>香港島大學學生<br />
 於第116集登場<br />
 參見<a href="https://zh.wikipedia.org/wiki/#香港島大學（HKIU）" title="wikilink"><strong>香港島大學</strong></a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/胡㻗.md" title="wikilink">胡　㻗</a></p></td>
 <td></td>
 <td><p>記者（第56集）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>餐廳侍應（第83集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>楊公子</p></td>
 <td><p><strong>Ricky</strong><br />
 歐陽公子之好友（第134、235集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Mike</p></td>
 <td><p><strong>牛頭角送水Mike</strong><br />
 吳家聰為龍力蓮安排《初戀無限Feel》情人，作為宋瑞輝替代品（第355集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td><p>獵頭公司職員（第57集）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>環保人士（第130集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Neo</p></td>
 <td><p>雷珍妮之朋友（第323集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Mouse</p></td>
 <td><p>接龍集團／威龍百貨公司IT人員<br />
 於第419集登場<br />
 參見<a href="https://zh.wikipedia.org/wiki/#IT部" title="wikilink"><strong>接龍集團／威龍百貨公司IT部</strong></a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/張美雪" title="wikilink">張美雪</a></p></td>
 <td></td>
 <td><p>推銷員（第58集）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/黃卓威" title="wikilink">黃卓威</a></p></td>
 <td></td>
 <td><p>飛仔（第58集）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/陳偉琪.md" title="wikilink">陳偉琪</a></p></td>
 <td><p>Chloe</p></td>
 <td><p>美女／健身學員（第58集）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>雷珍妮</strong></p></td>
 <td><p><strong>Jenny</strong><br />
 於第105集登場<br />
 參見<a href="https://zh.wikipedia.org/wiki/#龍家" title="wikilink"><strong>龍家</strong></a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td><p>飛仔（第58集）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>Ted手下，於第75集被拘捕（第75集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>黑社會<br />
 豪哥之手下（第93集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>賊人，第150集被捕（第150集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>臨時演員，實為綁匪（第216集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>歹徒（第284集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>Becky之桃色敲詐同黨（第364集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>找錢祥、找錢嫂之保鑣（第417集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>大漢（第468集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>昌　少</p></td>
 <td><p>收數佬（第472集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>白粉強</p></td>
 <td><p>古惑仔<br />
 大飛哥之手下（第537集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td><p>健身教練（第58集）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Jason</p></td>
 <td><p>香港島大學學生（第236集）<br />
 參見<a href="https://zh.wikipedia.org/wiki/#香港島大學（HKIU）" title="wikilink"><strong>香港島大學</strong></a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/劉嘉琪.md" title="wikilink">劉嘉琪</a></p></td>
 <td><p>Vivian</p></td>
 <td><p>健身學員（第58集）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>女主持（第131集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>香港島大學學生（第389、426集）<br />
 參見<a href="https://zh.wikipedia.org/wiki/#香港島大學（HKIU）" title="wikilink"><strong>香港島大學</strong></a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/曾敏.md" title="wikilink">曾　敏</a></p></td>
 <td><p>佘秀琴（青年）</p></td>
 <td><p>（第60集）<br />
 參見<a href="https://zh.wikipedia.org/wiki/#龍家" title="wikilink"><strong>龍家</strong></a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Fiona</p></td>
 <td><p>龍力士、Annie、Billy之大學同學（第123集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>年青女子（第190集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>柯東南之母（第339集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Brenda</p></td>
 <td><p>名媛（第487集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Carol</p></td>
 <td><p>名媛（第493、521、527集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/廖思略" title="wikilink">廖思略</a></p></td>
 <td><p>-{琼}-　姑</p></td>
 <td><p>接龍集團清潔女工（第60、89、186集）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>嘉　玲</p></td>
 <td><p>陳妹珠之好姊妹<br />
 兩人被稱為<strong>索爆姊妹花</strong>（第549集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/劉溫馨.md" title="wikilink">劉溫馨</a></p></td>
 <td></td>
 <td><p>美女（第61集）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Nancy</p></td>
 <td><p>龍力蓮之好友（第146集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>金芊芊</p></td>
 <td><p>「拉鏈大王」老金之女<br />
 龍敢威之世侄女<br />
 對秦博思一見鍾情並暗戀其，但被其拒絕愛意（第269集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/范文雅.md" title="wikilink">-{范}-文雅</a></p></td>
 <td></td>
 <td><p>電視女主播（第66集）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Coco</p></td>
 <td><p>設計師（129、156集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td><p>不良少女（第67集）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>美容師（第99集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>按摩師（第149集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Lulu</p></td>
 <td><p>女侍應（第300集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/冼迪琦.md" title="wikilink">冼迪琦</a></p></td>
 <td></td>
 <td><p>不良少女（第67集）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Katy</p></td>
 <td><p>大學日本交換生（第395集）<br />
 參見<a href="https://zh.wikipedia.org/wiki/#香港島大學（HKIU）" title="wikilink"><strong>香港島大學</strong></a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/呂穎憧" title="wikilink">呂穎憧</a></p></td>
 <td></td>
 <td><p>不良少女（第67集）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/郭千瑜.md" title="wikilink">郭千瑜</a></p></td>
 <td><p>Jackie</p></td>
 <td><p>吳家聰之女友，後分手，後為Sam之女友（第69集）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>霞　姐</p></td>
 <td><p>助手（第191集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Zoe Fung</p></td>
 <td><p>模特兒<br />
-被龍敢威追求，後因被其發現自己欲虐待狗隻，而感反感並放棄追求（第273集）</p></td>
+被龍敢威追求，後因被其發現自己欲虐待狗隻而被反感並放棄追求（第273集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>宋千瑜</p></td>
 <td><p>「<a href="https://zh.wikipedia.org/wiki/鉅記" title="wikilink">鉅記</a>」店員（新威龍廣場內）<br />
 於第426集登場</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>嫻　姐</p></td>
 <td><p>接龍集團／威龍百貨公司前人事部經理（第70集）<br />
 參見<a href="https://zh.wikipedia.org/wiki/#人事部" title="wikilink"><strong>接龍集團／威龍百貨公司人事部</strong></a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Ling 姐</p></td>
 <td><p>「一家一」婚姻介紹公司之婚姻顧問（第135集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>婚姻輔導員（第157集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Ling 姐</p></td>
 <td><p>接龍集團／威龍百貨公司廚具部主管（第303、412、528集）<br />
 參見<a href="https://zh.wikipedia.org/wiki/#其他員工" title="wikilink"><strong>接龍集團／威龍百貨公司其他員工</strong></a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/林希靈.md" title="wikilink">林希靈</a></p></td>
 <td></td>
 <td><p>內衣店店員（第72集）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>女子（第86集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
-<td><p>靓女空姐（第150集）</p></td>
+<td><p>靚女空姐（第150集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>店員（第174集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>馬美娜之前下屬（第432集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/袁鎮業.md" title="wikilink">袁鎮業</a></p></td>
 <td></td>
 <td><p>神秘男<br />
 周偉騰之男友（第73集）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>蔡比利</p></td>
 <td><p>拳王（第120集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>黃衣男（第135集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>玉　樹</p></td>
 <td><p>明星（第250集）<br />
 角色造型影射：<strong><a href="https://zh.wikipedia.org/wiki/林峯" title="wikilink">林峯</a></strong></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>美容導師（第416集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Kelvin Yung</p></td>
 <td><p>「發One蝦條」之代理商（第516集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td><p>Ted手下，於第75集被拘捕（第75集）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>電影男主角（第200集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>阿　鈞</p></td>
 <td><p>香港島大學學生（第426集）<br />
 參見<a href="https://zh.wikipedia.org/wiki/#香港島大學（HKIU）" title="wikilink"><strong>香港島大學</strong></a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/關梓陽.md" title="wikilink">關梓陽</a></p></td>
 <td></td>
 <td><p>香港島大學學生<br />
 於第76集登場<br />
 參見<a href="https://zh.wikipedia.org/wiki/#香港島大學（HKIU）" title="wikilink"><strong>香港島大學</strong></a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>教練（第125集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>環保人士（第130集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/鄭毅邦" title="wikilink">鄭毅邦</a></p></td>
 <td><p>林監製</p></td>
 <td><p>《校園十三-{么}-》、《契媽教你食豪D》監製（第81、109、147集）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/陳婉衡.md" title="wikilink">陳婉衡</a></p></td>
 <td></td>
 <td><p>江慧喬之朋友（第86集）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>朱鑫鑫</p></td>
 <td><p>內衣設計師（第125集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>楊娜娜</p></td>
 <td><p><strong>帶娣</strong><br />
 女歌星<br />
@@ -5812,186 +6009,176 @@ Patrick之前女友（第210集）<br />
 角色名字影射：<strong><a href="../Page/歐陽娜娜.md" title="wikilink">歐陽娜娜</a></strong></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Angel Lee</p></td>
 <td><p>受雷珍妮指使嘗試勾引龍力士但不遂（第408集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/馮素波.md" title="wikilink">馮素波</a></p></td>
 <td><p>妙　婆</p></td>
 <td><p>Venus之外婆（第88集）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td><p>大肚少女（第89集）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>女遊客（第308集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/馮秀華" title="wikilink">馮秀華</a></p></td>
 <td></td>
 <td><p>女店員（第91、95集）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>道德重整會小學學生家長（第318集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/張國雄" title="wikilink">張國雄</a></p></td>
 <td><p>豪　哥</p></td>
 <td><p>黑社會大佬<br />
 經熊心如的指導下變為正當商人（第93集）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/伍禮騫.md" title="wikilink">伍禮騫</a></p></td>
 <td></td>
 <td><p>侍應（第95集）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>辛子丹</p></td>
 <td><p>香港島大學學生（第168、262、316、411、426、442、500集）<br />
 參見<a href="https://zh.wikipedia.org/wiki/#香港島大學（HKIU）" title="wikilink"><strong>香港島大學</strong></a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/盧頌衡" title="wikilink">盧頌衡</a></p></td>
 <td></td>
 <td><p>學生<br />
 僅在熊樹根及熊尚善的記憶中出現（第97集）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/李芯瑩" title="wikilink">李芯瑩</a></p></td>
 <td></td>
 <td><p>吳家聰之前女友（第100集）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/陳國基_(香港演員)" title="wikilink">陳國基</a></p></td>
 <td><p>肥　張</p></td>
 <td><p>龍敢威之牌友（第112集）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/洪資訊" title="wikilink">洪資訊</a></p></td>
 <td><p>牛　叔</p></td>
 <td><p>龍敢威之牌腳（第112集）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>老　金</p></td>
 <td><p>拉鏈大王<br />
 金芊芊之父<br />
 龍敢威之牌腳（第269集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>黃　陸</p></td>
 <td><p>針灸中醫師<br />
 間接令龍力王變聰明（第551集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/招浩東" title="wikilink">招浩東</a></p></td>
 <td><p>傑　佬</p></td>
 <td><p>龍敢威之牌腳（第112集）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td><p>按摩師（第114、149集）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/薛純基" title="wikilink">薛純基</a></p></td>
 <td><p>阿　炳</p></td>
 <td><p><strong>北河</strong><br />
 拾荒者（第118集）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/譚坤倫.md" title="wikilink">譚坤倫</a></p></td>
 <td></td>
 <td><p>加藤助手（第123集）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>保鑣（第197集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>酒吧職員（第380集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>CPU</p></td>
 <td><p>接龍集團／威龍百貨公司IT人員<br />
 於第419集登場<br />
 參見<a href="https://zh.wikipedia.org/wiki/#IT部" title="wikilink"><strong>接龍集團／威龍百貨公司IT部</strong></a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/楊家寶.md" title="wikilink">楊家寶</a></p></td>
 <td><p>Sandy</p></td>
 <td><p>接龍集團／威龍百貨公司IT部職員（第124集）<br />
 參見<a href="https://zh.wikipedia.org/wiki/#IT部" title="wikilink"><strong>接龍集團／威龍百貨公司IT部</strong></a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>卡剌瑪baby</p></td>
 <td><p>女明星（第148集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>露　露</p></td>
 <td><p>《露露的天空》主持人（第242集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>主播（第294集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Bowie</p></td>
 <td><p>接龍集團／威龍百貨公司女裝部員工<br />
 於第303集登場<br />
 參見<a href="https://zh.wikipedia.org/wiki/#其他員工" title="wikilink"><strong>接龍集團／威龍百貨公司其他員工</strong></a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/鄭健樂.md" title="wikilink">鄭健樂</a></p></td>
 <td></td>
 <td><p>教練（第125集）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Rocky</p></td>
 <td><p>大陳之保鑣（第472集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/梁舜燕.md" title="wikilink">梁舜燕</a></p></td>
 <td><p>陳老太</p></td>
 <td><p>「陳大吉」老字號涼果店董事長（第128集）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/章志文.md" title="wikilink">章志文</a></p></td>
 <td><p>何恭梓</p></td>
 <td><p><strong>Kelvin</strong>、<strong>何公子</strong><br />
 「金富域集團」行政總裁兼少東<br />
-賈明媛之未婚夫，於第235集訂婚<br />
+賈明媛之未婚夫，於第235集訂婚，於第539集交代已分手<br />
 龍力蓮之前男友（第126、235集）<br />
 角色名字諧音：<strong>何公子</strong></p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/馬蹄露_(藝人).md" title="wikilink">馬蹄露</a></p></td>
-<td><p>司徒獨孤明珠</p></td>
-<td><p>富婆<br />
-患有絕症，宣稱只剩一個月命<br />
-有打屁股怪癖<br />
-吳家聰之女友，後分手<br />
-龍力蓮之情敵<br />
-宋瑞輝之老顧客，後於第329集被其發現偽造「初戀無限Feel」會員卡而拒絕再提供服務（第199、292、304、329集）</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/鍾晴_(藝人).md" title="wikilink">鍾　晴</a></p></td>
@@ -6035,8 +6222,8 @@ Patrick之前女友（第210集）<br />
 <tr class="odd">
 <td><p>陳　生</p></td>
 <td><p>陳妹珠之夫<br />
-多年來被陳妹珠迫吃「愛回家孖寶」倒置膽固醇超標<br />
-於第549集向陳妹珠提出離婚（第241、317、517、549、554集）</p></td>
+於第241集登場<br />
+參見<a href="https://zh.wikipedia.org/wiki/#其他常設角色" title="wikilink"><strong>其他常設角色</strong></a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -6100,124 +6287,134 @@ Daniel之同事<br />
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>蘇柔美</p></td>
+<td><p>前接龍集團排球隊隊長，後被陳世美高薪挖角（第586-587集）</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/譚運昇" title="wikilink">譚運昇</a></p></td>
 <td><p>Ringo</p></td>
 <td><p>舞男（第146集）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/包曉華" title="wikilink">包曉華</a></p></td>
 <td><p>契　媽</p></td>
 <td><p>《契媽教你食豪D》主持（第147集）<br />
 角色造型影射：<strong><a href="../Page/肥媽.md" title="wikilink">肥媽</a></strong></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/楊證樺.md" title="wikilink">楊證樺</a></p></td>
 <td><p>文</p></td>
 <td><p>醫生<br />
 高栢菲之前男友（第154集）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
-<td><p>醫生（第293、295、479集）</p></td>
+<td><p>醫生（第293、295、479、577集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/鄭家生.md" title="wikilink">鄭家生</a></p></td>
 <td><p>炳　叔</p></td>
 <td><p>「升仙餅店」老闆<br />
 熊樹根之好友<br />
 於第414集被熊樹根交代早於半年前已賣舖回鄉（第162集）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/黄愷怡" title="wikilink">黄愷怡</a></p></td>
 <td></td>
 <td><p>女徒弟（第165集）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Hillary Yeung</p></td>
 <td><p>賈明媛之女秘書（第277集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>賈明媛之女秘書（第447集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/伍秉君" title="wikilink">伍秉君</a></p></td>
 <td><p>大歐生</p></td>
 <td><p>歐氏集團主席<br />
 歐公子之父（第167集）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/甄懋強" title="wikilink">甄懋強</a></p></td>
 <td><p>鍾師傅</p></td>
 <td><p><strong>殭屍道長</strong><br />
 演員<br />
 《道士鬥殭屍》主角（第174-175集）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>老　區</p></td>
 <td><p>出版社編輯（第272集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/歐陽楓" title="wikilink">歐陽楓</a></p></td>
 <td><p>臭口華</p></td>
 <td><p>臨時演員<br />
 司徒獨孤明珠之男友，後分手（第175集）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/徐貫國" title="wikilink">徐貫國</a></p></td>
 <td><p>陸老闆</p></td>
 <td><p>「陸遊遊」食品貿易公司老闆（第185集）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>馬主席</p></td>
 <td><p>富商<br />
 龍敢威、陳世美、老黎、老金之牌腳（第246、269集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>谷　總</p></td>
 <td><p>穀種米業總裁（第398集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>賓館職員（第508集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/陳志健.md" title="wikilink">陳志健</a></p></td>
 <td><p>文學禮</p></td>
 <td><p>建築師<br />
 林美香之表哥（第187集）</p></td>
 </tr>
-<tr class="even">
-<td></td>
+<tr class="odd">
+<td><p><a href="../Page/梁裕恆.md" title="wikilink">梁裕恆</a></p></td>
 <td><p>Richard</p></td>
 <td><p>大隻佬<br />
 龍力王之同學，與其修讀電影（第189集）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>大隻佬（第300集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Oscar</p></td>
 <td><p>雷珍妮之朋友（第323集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>搬運工頭（第460集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Tyrone</p></td>
 <td><p>「費氏家族」之少東（第503集）</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>男明星（第579集）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -6363,6 +6560,17 @@ Daniel之同事<br />
 <td></td>
 </tr>
 <tr class="even">
+<td><p>張　生</p></td>
+<td><p>內地商人（第540集）</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>譚　冠</p></td>
+<td><p>譚可清之父（第580集）<br />
+角色名字諧音：<strong><a href="../Page/痰盂.md" title="wikilink">痰罐</a></strong></p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td><p>女情人（第227集）</p></td>
@@ -6435,36 +6643,46 @@ Daniel之同事<br />
 <td></td>
 </tr>
 <tr class="even">
+<td></td>
+<td><p>譚可清之前男友（第580集）</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><a href="../Page/關偉倫.md" title="wikilink">關偉倫</a></p></td>
 <td><p>黃　油</p></td>
 <td><p>代理商（第231集）<br />
 角色名字同：<strong><a href="https://zh.wikipedia.org/wiki/黃油" title="wikilink">黃油</a></strong></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>權　叔</p></td>
 <td><p>接龍集團／威龍百貨公司運輸司機（第287集）<br />
 參見<a href="https://zh.wikipedia.org/wiki/#其他員工" title="wikilink"><strong>接龍集團／威龍百貨公司其他員工</strong></a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/鄧嘉傑.md" title="wikilink">鄧嘉傑</a></p></td>
 <td></td>
 <td><p>古惑仔<br />
 黃油之子（第231集）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>男演員（第315集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>醉漢（第351集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>找錢祥、找錢嫂之保鑣（第417集）</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>靚仔（第576集）</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -6512,7 +6730,7 @@ Daniel之同事<br />
 </tr>
 <tr class="even">
 <td></td>
-<td><p>男主角（第485集）</p></td>
+<td><p>男主角（第485、588集）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -6526,115 +6744,132 @@ Daniel之同事<br />
 <td></td>
 </tr>
 <tr class="odd">
+<td></td>
+<td><p>譚可清之前男友（第580集）</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><a href="../Page/郭田葰.md" title="wikilink">郭田葰</a></p></td>
 <td></td>
 <td><p>電視台主持（第232集）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>記者（第292集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>男主持（第299、363集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/丁主惠.md" title="wikilink">丁主惠</a></p></td>
 <td><p>仇　太</p></td>
 <td><p>「真方堂」龜苓膏公司老闆<br />
 龍敢威之好友及生意夥伴<br />
 龔燁之好友（第232、242集）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/李家鼎.md" title="wikilink">李家鼎</a></p></td>
 <td><p>鼎　哥</p></td>
 <td><p>肉檔東主（第233集）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>朵　朵</p></td>
 <td><p>接龍集團／威龍百貨公司職員（第234、344、364、372、382、456集）<br />
 參見<a href="https://zh.wikipedia.org/wiki/#其他員工" title="wikilink"><strong>接龍集團／威龍百貨公司其他員工</strong></a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>美女（第439集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>女模特兒（第527集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>女演員（第561集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/彭翔翎" title="wikilink">彭翔翎</a></p></td>
 <td></td>
 <td><p>交流生（第236集）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>李藹怡</p></td>
 <td><p>威龍百貨公司女裝部員工（第321、350、409、456、478、514、522集）<br />
 參見<a href="https://zh.wikipedia.org/wiki/#其他員工" title="wikilink"><strong>接龍集團／威龍百貨公司其他員工</strong></a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Ivy</p></td>
 <td><p>接龍集團／威龍百貨公司秘書（第451集）<br />
 參見<a href="https://zh.wikipedia.org/wiki/#其他員工" title="wikilink"><strong>接龍集團／威龍百貨公司其他員工</strong></a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>Daisy</p></td>
 <td><p>香港島大學學生<br />
 於第237集登場<br />
 參見<a href="https://zh.wikipedia.org/wiki/#香港島大學（HKIU）" title="wikilink"><strong>香港島大學</strong></a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>年輕媽媽（第480集）</p></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p><a href="../Page/胡美貽.md" title="wikilink">胡美貽</a></p></td>
+<td><p>Abby</p></td>
+<td><p>香港島大學學生<br />
+於第237集登場<br />
+參見<a href="https://zh.wikipedia.org/wiki/#香港島大學（HKIU）" title="wikilink"><strong>香港島大學</strong></a></p></td>
+</tr>
 <tr class="odd">
+<td><p>路小環</p></td>
+<td><p>（第570-571集）</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><a href="../Page/陳俊堅.md" title="wikilink">陳俊堅</a></p></td>
 <td></td>
 <td><p>水喉佬（第238集）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>電視節目《爆料熱線》攝影師（第424集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/方麗盈" title="wikilink">方麗盈</a></p></td>
 <td><p>賴廖少玉</p></td>
 <td><p>賴仲奇之妻<br />
 大廈立案法團主席助理（第241集）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>周厲瓊</p></td>
 <td><p><strong>殺人瓊</strong><br />
 厄里梧島監獄囚犯（第446集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/丘惠玲" title="wikilink">丘惠玲</a></p></td>
 <td><p>李師奶</p></td>
 <td><p>熊家鄰居（第241集）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>師奶（第256集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/陳永業.md" title="wikilink">陳永業</a></p></td>
 <td><p>林森明</p></td>
 <td><p><strong>森仔</strong><br />
@@ -6642,239 +6877,239 @@ Daniel之同事<br />
 龔燁之好友（第242集）<br />
 角色名字及造型影射：<strong><a href="https://zh.wikipedia.org/wiki/森美" title="wikilink">森美</a></strong></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/吳沚默.md" title="wikilink">吳沚默</a></p></td>
 <td><p>Audrey</p></td>
 <td><p>「商場大王」老黎之幼女<br />
 被老黎安排與龍力王相親及相配為政治婚姻之女友，後遭龍力王拒絕（第246集）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/王華盛" title="wikilink">王華盛</a></p></td>
 <td><p>老　黎</p></td>
 <td><p>商場大王<br />
 Audrey之父（第246集）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/黎寬怡.md" title="wikilink">黎寬怡</a></p></td>
 <td><p>Judy Chu</p></td>
 <td><p>影-{后}-<br />
 潮偉之前女友<br />
 被丈夫家暴（第247集）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>少女（第309集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>女藝人（第446、450集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>模特兒（第447集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>老何之未婚妻（第468集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>途人（第512集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Milky</p></td>
 <td><p>性感女郎（第544集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/梁百川" title="wikilink">梁百川</a></p></td>
 <td></td>
 <td><p>錶店職員（第248集）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>記者（第446、448、511、516、561集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/樓嘉豪" title="wikilink">樓嘉豪</a></p></td>
 <td></td>
 <td><p>男學生（第249集）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>參加者（第400集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>CID（第511集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>炳　強</p></td>
-<td><p>\經常冒充大學生並旁聽香港島大學的課堂（第565集）<br />
+<td><p>經常冒充大學生並旁聽香港島大學的課堂（第565集）<br />
 參見<a href="https://zh.wikipedia.org/wiki/#香港島大學（HKIU）" title="wikilink"><strong>香港島大學</strong></a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td><p>侍應（第249集）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Sam</p></td>
 <td><p>接龍集團／威龍百貨公司人事部實習生（第264集）<br />
 參見<a href="https://zh.wikipedia.org/wiki/#人事部" title="wikilink"><strong>接龍集團／威龍百貨公司人事部</strong></a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>名人飯堂經理（第313集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>王松柏</p></td>
 <td><p>接龍集團／威龍百貨公司人事部前員工（第362集）<br />
 參見<a href="https://zh.wikipedia.org/wiki/#人事部" title="wikilink"><strong>接龍集團／威龍百貨公司人事部</strong></a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/羅永健" title="wikilink">羅永健</a></p></td>
 <td></td>
 <td><p>「識條毛」之員工（第252集）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>毛衛權</p></td>
 <td><p>接龍集團／威龍百貨公司人事部實習生（第264集）<br />
 參見<a href="https://zh.wikipedia.org/wiki/#人事部" title="wikilink"><strong>接龍集團／威龍百貨公司人事部</strong></a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>實驗室助理（第311集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>老吳之子孫（第354集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>阿　梓</p></td>
 <td><p>香港島大學學生（第426集）<br />
 參見<a href="https://zh.wikipedia.org/wiki/#香港島大學（HKIU）" title="wikilink"><strong>香港島大學</strong></a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/陳戩浩" title="wikilink">陳戩浩</a></p></td>
 <td></td>
 <td><p>「識條毛」之員工（第252集）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>求婚男子（第392集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>速遞員（第464集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>何乙水</p></td>
 <td><p><strong>氹仔</strong><br />
 澳門大學學生／澳門餐廳侍應<br />
-攝影愛好者，與朱凌凌志同道合（第481、523集）</p></td>
+攝影愛好者，與朱凌凌志同道合（第481、523、570-571集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/郭浩皇" title="wikilink">郭浩皇</a></p></td>
 <td><p>James</p></td>
 <td><p>投資顧問（第253集）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/阮嘉敏.md" title="wikilink">阮嘉敏</a></p></td>
 <td></td>
 <td><p>美女<br />
 龍敢威之女友（第255集）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/黃海宴" title="wikilink">黃海宴</a></p></td>
 <td></td>
 <td><p>師奶（第256集）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/潘梓鋒.md" title="wikilink">潘梓鋒</a></p></td>
 <td><p>大頭文</p></td>
 <td><p><strong>Jimmy</strong><br />
 陳妹珠之世侄（第257集）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/林浩文" title="wikilink">林浩文</a></p></td>
 <td></td>
 <td><p>外賣員（第260集）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>盧旺達</p></td>
 <td><p>香港島大學學生（第334集）<br />
 參見<a href="https://zh.wikipedia.org/wiki/#香港島大學（HKIU）" title="wikilink"><strong>香港島大學</strong></a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>阿　叢</p></td>
 <td><p>香港島大學學生（第426集）<br />
 參見<a href="https://zh.wikipedia.org/wiki/#香港島大學（HKIU）" title="wikilink"><strong>香港島大學</strong></a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/羅頌欣.md" title="wikilink">羅頌欣</a></p></td>
 <td></td>
 <td><p>香港島大學校園記者（第262集）<br />
 參見<a href="https://zh.wikipedia.org/wiki/#香港島大學（HKIU）" title="wikilink"><strong>香港島大學</strong></a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Catherine</p></td>
 <td><p>名媛（第487集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>名媛（第493、521集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td><p>靚仔教授（第263集）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/梁嘉駿" title="wikilink">梁嘉駿</a></p></td>
 <td><p>梁志剛</p></td>
 <td><p>接龍集團／威龍百貨公司人事部實習生（第264集）<br />
 參見<a href="https://zh.wikipedia.org/wiki/#人事部" title="wikilink"><strong>接龍集團／威龍百貨公司人事部</strong></a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>酒吧客人（第373集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>壯漢（第448集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>警察（第501-502集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/楊瑞麟.md" title="wikilink">楊瑞麟</a></p></td>
 <td><p>馬安珊</p></td>
 <td><p>心靈治療師<br />
@@ -6882,7 +7117,7 @@ Audrey之父（第246集）</p></td>
 於第267集被交代因中了巨額六合彩頭獎後將治療中心結業（第266集）<br />
 角色名字諧音：<strong><a href="https://zh.wikipedia.org/wiki/馬鞍山" title="wikilink">馬鞍山</a></strong></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/鄭子誠.md" title="wikilink">鄭子誠</a></p></td>
 <td><p>張　軍</p></td>
 <td><p><strong>阿軍</strong><br />
@@ -6891,30 +7126,35 @@ Audrey之父（第246集）</p></td>
 於第497集暫住在熊家（第274、497集）<br />
 角色名字諧音：<strong><a href="https://zh.wikipedia.org/wiki/將軍" title="wikilink">將軍</a></strong></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/Joe_Junior.md" title="wikilink">Joe Junior</a></p></td>
 <td></td>
 <td><p>神父（第276集）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/邵展鵬" title="wikilink">邵展鵬</a></p></td>
 <td></td>
 <td><p>餐廳員工（第278集）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>男演員（第315集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>酒吧客人（第373集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>香港島大學學生（第506集）<br />
 參見<a href="https://zh.wikipedia.org/wiki/#香港島大學（HKIU）" title="wikilink"><strong>香港島大學</strong></a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>譚可清之前男友（第580集）</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -7105,153 +7345,169 @@ Duncan之女朋友，並相戀十年並同居，於第345集分手，於第361�
 <td><p>賀老大之前情婦，與賀碧雲不和（第333集）</p></td>
 </tr>
 <tr class="even">
+<td><p>昂　萍</p></td>
+<td><p>陳世美排球隊教練（第587集）<br />
+角色名字諧音：<strong><a href="../Page/昂坪.md" title="wikilink">昂坪</a></strong></p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/方健峰" title="wikilink">方健峰</a></p></td>
 <td><p>柯東南</p></td>
 <td><p>拔尖小學學生<br />
 於第339集獲取錄（第339集）<br />
 角色名字及造型影射：<strong><a href="https://zh.wikipedia.org/wiki/江戶川柯南" title="wikilink">江戶川柯南</a></strong></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/戴耀明.md" title="wikilink">戴耀明</a></p></td>
 <td><p>Bel Bel</p></td>
 <td><p>著名形象設計師（第344集）<br />
 角色名字及造型影射：<strong><a href="../Page/張學潤.md" title="wikilink">張學潤</a>（Nel Nel）</strong></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/余富根" title="wikilink">余富根</a></p></td>
 <td></td>
 <td><p>惡客（第345集）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>酒吧客人（第395集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>男經理（第504集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/莊思敏.md" title="wikilink">莊思敏</a></p></td>
 <td><p>Cherry</p></td>
 <td><p>餐廳老闆<br />
 湯圓圓之好友<br />
 喜愛姊弟戀（第351、361、373、390集）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/李顯曜" title="wikilink">李顯曜</a></p></td>
 <td></td>
 <td><p>跑手（第351集）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>A　仔</p></td>
 <td><p>香港島大學學生（第426、500集）<br />
 參見<a href="https://zh.wikipedia.org/wiki/#香港島大學（HKIU）" title="wikilink"><strong>香港島大學</strong></a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>朱天梯之好友（第555集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/譚永浩.md" title="wikilink">譚永浩</a></p></td>
 <td></td>
 <td><p>飾演《校園三缺一》電影中的洪中（第352集）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/黃頌明" title="wikilink">黃頌明</a></p></td>
 <td></td>
 <td><p>CID（第362、364集）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/吳佩隆" title="wikilink">吳佩隆</a></p></td>
 <td></td>
 <td><p>街頭默劇藝人（第363集）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/姚兵.md" title="wikilink">姚　兵</a></p></td>
 <td></td>
 <td><p>「夢資源公司」經理（第365集）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>科　哥</p></td>
 <td><p>運輸司機<br />
-拖頭之男友（第563集）</p></td>
+拖頭之男友（第563、569集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>巴士陳</p></td>
 <td><p>影視紅星<br />
 原定為網劇《曹總傳》男主角（即飾演曹達華本人），後於第389集交代因虛報年齡而被易角（第367、411集）<br />
 角色名字影射：<strong><a href="../Page/陳偉霆.md" title="wikilink">陳偉霆</a></strong>（曾被戲稱為的士陳）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/程浩駿" title="wikilink">程浩駿</a></p></td>
 <td></td>
 <td><p>曹達華之保鑣（第367集）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>型男（第460集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>酒吧客人（第527集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>店員（第563集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/劉芷希.md" title="wikilink">劉芷希</a></p></td>
 <td></td>
 <td><p>競食大賽工作人員（第374集）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>名媛（第487、493集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/寶珮如.md" title="wikilink">寶珮如</a></p></td>
 <td><p>貝夫人</p></td>
 <td><p>闊太<br />
 原為寵物狗慈善表演《與毛孩美麗同行》的參與者，但寵物狗抹茶在表演前死去，因而在表演後擄走其他參與表演的寵物狗，並意圖禁錮熊尚善與龍力蓮但不遂（第380集）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/簡家麒" title="wikilink">簡家麒</a></p></td>
 <td></td>
 <td><p>侍應（第382、493集）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>上班族（第461集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>威龍百貨公司職員（第514集）<br />
 參見<a href="https://zh.wikipedia.org/wiki/#其他員工" title="wikilink"><strong>接龍集團／威龍百貨公司其他員工</strong></a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Bosco</p></td>
 <td><p>舞男（第521集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Vodka</p></td>
-<td><p>「好爸Bar」酒吧侍應（第537、546、550集）<br />
+<td><p>「好爸Bar」酒吧侍應（第537、546、550、573、584集）<br />
 參見<a href="https://zh.wikipedia.org/wiki/#「好爸Bar」酒吧" title="wikilink"><strong>「好爸Bar」酒吧</strong></a></p></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p><a href="../Page/楊埕.md" title="wikilink">楊　埕</a></p></td>
+<td><p>Kay</p></td>
+<td><p>香港島大學學生（第389、416集）參見<a href="https://zh.wikipedia.org/wiki/#香港島大學（HKIU）" title="wikilink"><strong>香港島大學</strong></a></p></td>
+</tr>
 <tr class="odd">
+<td></td>
+<td><p>潮偉之契妹（第588集）</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td></td>
 <td><p>曾漢梓</p></td>
 <td><p><strong>Kevin</strong><br />
@@ -7260,170 +7516,167 @@ Duncan之女朋友，並相戀十年並同居，於第345集分手，於第361�
 受雷珍妮教唆欺騙熊若水，後失敗（第392集）<br />
 角色名字諧音：<strong>真漢子</strong></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/蓋世寶.md" title="wikilink">蓋世寶</a></p></td>
 <td><p>小　紅</p></td>
 <td><p>於「覓雪琴室」同一樓層經營腳底按摩店，並誤以為龍力蓮是宋瑞輝之姊（第394、483集）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/黃碧蓮.md" title="wikilink">黃碧蓮</a></p></td>
 <td></td>
 <td><p>美容用品店店員（第394集）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>周芷若</p></td>
-<td><p>朱天梯之前女友（第568集）</p></td>
+<td><p>大法官<br />
+朱天梯之前女友（第568集）<br />
+角色名字同：<strong><a href="../Page/周芷若.md" title="wikilink">周芷若</a></strong></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/宋雙佳.md" title="wikilink">宋雙佳</a></p></td>
 <td></td>
 <td><p>母親（第397集）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/陳國峰.md" title="wikilink">陳國峰</a></p></td>
 <td><p>李伊節</p></td>
 <td><p>整蠱節目主持（第400集）<br />
 角色名字及造型影射：<strong><a href="../Page/李思捷.md" title="wikilink">李思捷</a></strong></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/陳約臨.md" title="wikilink">陳約臨</a></p></td>
 <td></td>
 <td><p>新娘（第402集）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>新威龍廣場店舖店員（第429集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>馬美娜之前下屬（第432集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/梁芷珮.md" title="wikilink">梁芷珮</a></p></td>
 <td><p>Sonia Ho</p></td>
 <td><p>「哈密瓜」（Hammer）手袋店經理<br />
 曾因雷珍妮所購手袋未能支帳而到「初戀Cafe」尋訪（第403集）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/蔡菀庭.md" title="wikilink">蔡菀庭</a></p></td>
 <td></td>
 <td><p>韓劇女主角（第406集）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>女囚犯（第429集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>女藝人（第446集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>模特兒（第447集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>「賊阿Bar」女拳手（第527集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/陳婉婷_(演員).md" title="wikilink">陳婉婷</a></p></td>
 <td><p>容文姿</p></td>
 <td><p><strong>Gigi</strong><br />
 於第416集登場<br />
 參見<a href="https://zh.wikipedia.org/wiki/#其他常設角色" title="wikilink"><strong>其他常設角色</strong></a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>女藝人（第446、450集）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>找錢祥</p></td>
 <td><p>「祥記找換店」老闆<br />
 找錢嫂之夫<br />
 認為熊尚善的新篇連載小說《找錯七年情》中壞丈夫角色影射自己而試圖對付其（第417集）<br />
-角色造型影射：<strong><a href="https://zh.wikipedia.org/wiki/洗米華" title="wikilink">洗米華</a></strong></p></td>
+角色造型影射：<strong><a href="../Page/周焯華.md" title="wikilink">周焯華</a></strong></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/鄒兆霆" title="wikilink">鄒兆霆</a></p></td>
 <td></td>
 <td><p>找錢祥、找錢嫂之保鑣（第417集）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>接龍集團／威龍百貨公司保安（第504集）<br />
 參見<a href="https://zh.wikipedia.org/wiki/#保安部" title="wikilink"><strong>接龍集團／威龍百貨公司保安部</strong></a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>樂　仔</p></td>
 <td><p>「速熊運輸公司」員工（第425集）<br />
 參見<a href="https://zh.wikipedia.org/wiki/#速熊運輸公司" title="wikilink"><strong>速熊運輸公司</strong></a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>Hip Hop友（第542集）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/易宇航.md" title="wikilink">易宇航</a></p></td>
 <td><p>羅　剎</p></td>
 <td><p>「橙不忍島」將軍<br />
 負責管理當地監獄並收取龍力蓮為營救林美香的賄款（第430集）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Gordon</p></td>
 <td><p>著名西廚（第499集）<br />
 角色名字影射：<strong><a href="../Page/戈登·拉姆齊.md" title="wikilink">Gordon Ramsay</a></strong></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>朗拿度</p></td>
 <td><p>拳擊手（第538集）<br />
 角色名字同：<strong><a href="https://zh.wikipedia.org/wiki/朗拿度" title="wikilink">朗拿度</a></strong></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/梁博恩" title="wikilink">梁博恩</a></p></td>
 <td></td>
 <td><p>外孫（第440集）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/李沁芯.md" title="wikilink">李沁芯</a></p></td>
 <td></td>
 <td><p>阿里山姑娘（第458集）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/周顯宗_(香港)" title="wikilink">周顯宗</a></p></td>
 <td><p>黃柏豪</p></td>
 <td><p>金牌經理人<br />
 僅在熊尚善的記憶中出現（第465集）<br />
 角色名字及造型影射：<strong><a href="https://zh.wikipedia.org/wiki/黃柏高" title="wikilink">黃柏高</a></strong></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/張志勇_(藝人)" title="wikilink">張志勇</a></p></td>
 <td><p>Tommy</p></td>
 <td><p>拉丁舞導師（第477集）</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/吳瑞庭.md" title="wikilink">吳瑞庭</a></p></td>
-<td><p>勞　生</p></td>
-<td><p>熊家之鄰居（第494集）</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/盧宛茵.md" title="wikilink">盧宛茵</a></p></td>
 <td><p>崔Auntie</p></td>
 <td><p>熊家之親戚，說話尖酸刻薄，目中無人<br />
-被熊家衆人、池美麗、譚育英、龔燁、潮偉、陳妹珠、朱凌凌及高栢菲所討厭<br />
+被熊家衆人、池美麗、譚育英、龔燁、潮偉、陳妹珠、朱凌凌及高栢菲討厭<br />
 於第509集到熊家拜年<br />
 兩年前回流香港到熊家拜年時取笑熊家各人鰥寡孤獨<br />
 誤會熊家衆人等感情關係混亂<br />
@@ -7436,7 +7689,7 @@ Duncan之女朋友，並相戀十年並同居，於第345集分手，於第361�
 <td><p><strong>傑叔</strong>、<strong>阿傑（龔友專稱）</strong><br />
 原名<strong>周日傑</strong><br />
 龔友之好友兼舊同事，已於多年出賣其<br />
-曾為鐘錶廠高級經理<br />
+前鐘錶廠高級經理<br />
 龔燁之世叔<br />
 於第503集在工作上重遇龔燁<br />
 於第504集騙錢後企圖潛逃，卻被龔燁和熊若水找到而被龔燁安排自己重遇龔友，後想偷錢時被龔友拿罐頭打，被交代被警方拘捕（第503-504集）</p></td>
@@ -7468,7 +7721,7 @@ Duncan之女朋友，並相戀十年並同居，於第345集分手，於第361�
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/賴榮顯" title="wikilink">賴榮顯</a></p></td>
 <td><p>金吊桶</p></td>
-<td><p>龍敢威之風水師（第519集）</p></td>
+<td><p>龍敢威之風水師（第519、585集）</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/楊玉梅.md" title="wikilink">楊玉梅</a></p></td>
@@ -7488,7 +7741,7 @@ Queenie之夫，關係名存實亡<br />
 <tr class="even">
 <td></td>
 <td></td>
-<td><p>名媛（第521、527集）</p></td>
+<td><p>名媛（第521、527、579-580集）</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -7511,14 +7764,25 @@ Queenie之夫，關係名存實亡<br />
 <td><p>食客（第535集）</p></td>
 </tr>
 <tr class="odd">
+<td><p>Alan</p></td>
+<td><p>接龍集團／威龍百貨公司法律部職員<br />
+參見<a href="https://zh.wikipedia.org/wiki/#法律部" title="wikilink"><strong>接龍集團／威龍百貨公司法律部</strong></a></p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><a href="../Page/彭懷安.md" title="wikilink">彭懷安</a></p></td>
 <td><p>大飛哥</p></td>
 <td><p>江湖大佬（第537集）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/黃潤成" title="wikilink">黃潤成</a></p></td>
 <td></td>
 <td><p>攝影師（第538集）</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>富豪（第580集）</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/林筠翔.md" title="wikilink">林筠翔</a></p></td>
@@ -7544,14 +7808,40 @@ Queenie之夫，關係名存實亡<br />
 <tr class="odd">
 <td><p><a href="../Page/李嘉_(香港).md" title="wikilink">李　嘉</a></p></td>
 <td><p>崔少傑</p></td>
-<td><p>崔Auntie之子<br />
-熊家遠房親戚（第548集）</p></td>
+<td><p>崔Auntie之子（第548集）</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/譚俊雄" title="wikilink">譚俊雄</a></p></td>
 <td><p>拖　頭</p></td>
 <td><p>運輸司機<br />
 科哥之男友（第563集）</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/黃曉明_(香港).md" title="wikilink">黃曉明</a></p></td>
+<td></td>
+<td><p>陳妹珠之媳婦（第567集）</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/林秀怡.md" title="wikilink">林秀怡</a></p></td>
+<td><p>明　詩</p></td>
+<td><p>律師<br />
+單戀朱天梯，並視其為偶像（第573集）<br />
+角色名字及形像影射：<strong><a href="../Page/麥明詩.md" title="wikilink">麥明詩</a></strong></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/何柏光" title="wikilink">何柏光</a></p></td>
+<td><p>福　伯</p></td>
+<td><p>農場負責人（第585集）</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/歐陽震華.md" title="wikilink">歐陽震華</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/顏仟汶.md" title="wikilink">顏仟汶</a></p></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -9457,7 +9747,7 @@ Anywhere總收視之紀錄](../Page/TVB_Anywhere.md "wikilink")\[31\]：
     140號地下基督教香港[信義會沙田多元化金齡服務中心舉行](https://zh.wikipedia.org/wiki/信義會 "wikilink")「一家團圓慶中秋」宣傳活動。\[38\]
   - 2017年12月23日：本劇於14:00在[東涌富東街](https://zh.wikipedia.org/wiki/東涌 "wikilink")6號[富東廣場二樓香港聖公會東涌綜合服務中心舉行](https://zh.wikipedia.org/wiki/富東廣場 "wikilink")「歡樂迎聖誕」宣傳活動。
   - 2018年1月1日：當晚（第225集）開始更換新片頭並新增主題曲《在心中》，去除了侯蔡欣、龍敢威、龍璟風、龍力士、啤啤（寵物狗），並新增熊尚善於片頭中。
-  - 2018年2月3日：本劇主要演員及監製[林建祥於](https://zh.wikipedia.org/wiki/林建祥 "wikilink")12:00在[上水馬會道](../Page/上水.md "wikilink")17號[鳳溪第一中學出席](../Page/鳳溪第一中學.md "wikilink")[香港青年協會之](../Page/香港青年協會.md "wikilink")「鄰舍團年飯」活動。
+  - 2018年2月3日：本劇主要演員及監製[林建祥於](../Page/林建祥.md "wikilink")12:00在[上水馬會道](../Page/上水.md "wikilink")17號[鳳溪第一中學出席](../Page/鳳溪第一中學.md "wikilink")[香港青年協會之](../Page/香港青年協會.md "wikilink")「鄰舍團年飯」活動。
   - 2018年2月16日：由於20:00-21:45直播《2018國泰航空新春國際匯演之夜》，當晚暫停播映。
   - 2018年3月24日：本劇於14:00在[深水埗](../Page/深水埗.md "wikilink")[元州邨元謙樓](../Page/元州邨.md "wikilink")2樓204室香港家庭福利會西九龍分會舉行「復活繽紛速遞」宣傳活動。
   - 2018年4月7日：[古巨基客串本劇的花絮於](../Page/古巨基.md "wikilink")《古巨基初心再體驗》中播出，客串內容於第305集播出。
@@ -9795,7 +10085,7 @@ big channel直播室，與網民同步觀看本劇直播，並歡迎網民留言
 <!-- end list -->
 
 1.  [陳榮峻飾演的譚道德與](../Page/陳榮峻.md "wikilink")[吳香倫飾演的譚何容儀在現實中也是夫妻關係](../Page/吳香倫.md "wikilink")（2018年7月10日舉行婚禮）。
-2.  劇中[鍾凱琪飾演](https://zh.wikipedia.org/wiki/鍾凱琪 "wikilink")[阮政峰之妹妹](../Page/阮政峰.md "wikilink")，惟鍾凱琪真實年齡反而還比阮政峰大5年。
+2.  劇中[鍾凱琪飾演](../Page/鍾凱琪.md "wikilink")[阮政峰之妹妹](../Page/阮政峰.md "wikilink")，惟鍾凱琪真實年齡反而還比阮政峰大5年。
 3.  劇中周嘉洛、[吳偉豪](../Page/吳偉豪.md "wikilink")、[馮奕森與](../Page/馮奕森.md "wikilink")[焦浩軒飾演年齡相約的大學同級同學](../Page/焦浩軒.md "wikilink")，惟最年長的馮奕森比最年幼的吳偉豪大近10年。
 
 <!-- end list -->
@@ -10293,7 +10583,7 @@ big channel直播室，與網民同步觀看本劇直播，並歡迎網民留言
 
 ## 迴響
 
-此劇起初沿用《[愛·回家](https://zh.wikipedia.org/wiki/愛·回家系列 "wikilink")》包裝被批評舊瓶新酒，了無新意。直到中段，此劇開始脫離無綫多年處境劇沿用的單集獨立設定和故事拍攝模式，於不少劇情更強調角色過往行動與性格如何影響當前的劇情進展。此劇亦盡量讓每名角色都有明顯的優劣點反映於同一段劇情中，並沒有永遠正確或錯誤的一方，從而使大部分角色得到更為立體的塑造，帶摰多名非一線演員受到注目，頗受觀眾歡迎。另外，劇情亦透過突然切入過往經典情節及現時流行文化（例如：第490集《美麗飯腳妹》就安排了池美麗（[鍾凱琪飾](https://zh.wikipedia.org/wiki/鍾凱琪 "wikilink")）重演2018年10月的「飯托Karen」事件），令到劇集增加不少搞笑情節以及更加貼近日常生活。以上均令到收視情況從最初平平無奇，慢慢爬升，現時更多次於香港7天跨平台總收視成為全週最高收視節目，澳門收視更連續八週成為全週最高收視節目。其中於2019年1月1日元旦日一集，更錄得30.5點收視。在2018年《[觀眾在民間電視大奬](../Page/觀眾在民間電視大奬.md "wikilink")》中，該劇以高票數獲公投為「民選最佳劇集」。
+此劇起初沿用《[愛·回家](https://zh.wikipedia.org/wiki/愛·回家系列 "wikilink")》包裝被批評舊瓶新酒，了無新意。直到中段，此劇開始脫離無綫多年處境劇沿用的單集獨立設定和故事拍攝模式，於不少劇情更強調角色過往行動與性格如何影響當前的劇情進展。此劇亦盡量讓每名角色都有明顯的優劣點反映於同一段劇情中，並沒有永遠正確或錯誤的一方，從而使大部分角色得到更為立體的塑造，帶摰多名非一線演員受到注目，頗受觀眾歡迎。另外，劇情亦透過突然切入過往經典情節及現時流行文化（例如：第490集《美麗飯腳妹》就安排了池美麗（[鍾凱琪飾](../Page/鍾凱琪.md "wikilink")）重演2018年10月的「飯托Karen」事件），令到劇集增加不少搞笑情節以及更加貼近日常生活。以上均令到收視情況從最初平平無奇，慢慢爬升，現時更多次於香港7天跨平台總收視成為全週最高收視節目，澳門收視更連續八週成為全週最高收視節目。其中於2019年1月1日元旦日一集，更錄得30.5點收視。在2018年《[觀眾在民間電視大奬](../Page/觀眾在民間電視大奬.md "wikilink")》中，該劇以高票數獲公投為「民選最佳劇集」。
 
 此劇有不少情侶檔組合均有受歡迎；2017年12月，多對組合於場外更先後輪流合作演繹「愛的手勢舞」，在網絡掀起一股熱潮。\[42\]而當中又以龍力蓮（[林淑敏飾](../Page/林淑敏.md "wikilink")）與宋瑞輝（[許家傑飾](../Page/許家傑.md "wikilink")）的情侶最受觀眾歡迎及喜愛，從龍力蓮單戀宋瑞輝，至二人的《初戀無限Feel》系列，到二人秘密拍拖，均獲廣大迴響。在第355集《初戀無限Feel之最終回》中，龍力蓮由教堂去追因對自己人盡可夫的行為而大受打擊的宋瑞輝，直至到行人天橋上與宋瑞輝表達對其的愛意，林淑敏的演技被有不少網民稱讚發揮了精彩的喜劇、悲劇的演出，更稱她是視-{后}-級的演技。除此之外，她從平日大小姐的招牌黑面、或是龍小蓮的懷春少女感覺的害羞或傷心無奈地含淚的演出，演技都相當出色，令她從2017年9月起開始廣受觀眾認識，亦獲得網民大力推舉為《[萬千星輝頒獎典禮2017](../Page/萬千星輝頒獎典禮2017.md "wikilink")》「最佳女配角」之熱門人選，最終成功入圍最後五強，惜最終大熱倒灶，無線最終頒獎給[朱晨麗](https://zh.wikipedia.org/wiki/朱晨麗 "wikilink")，此舉大受批評。\[43\]翌年，林淑敏持續的出色表現終令她成功獲得《[萬千星輝頒獎典禮2018](../Page/萬千星輝頒獎典禮2018.md "wikilink")》「最佳女配角」獎項。而在在2018年《[YAHOO\!搜尋人氣大獎](../Page/YAHOO!搜尋人氣大獎.md "wikilink")》中，林淑敏亦勇奪得「人氣電視女角色」，並連同許家傑一起獲得「人氣電視螢幕情侶」。
 
@@ -10342,7 +10632,7 @@ big channel直播室，與網民同步觀看本劇直播，並歡迎網民留言
 
 7.  縱使角色的制服名牌上標記名字為周春夢，但片尾演員名單中列名角色名字是蘇麗欣。
 
-8.  Venus Wong名字僅在第88集出現過一次
+8.  Venus Wong名字僅於第88集出現過一次
 
 9.
 

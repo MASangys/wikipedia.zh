@@ -64,9 +64,11 @@ Café節目列表**　**[2010年](../Page/Music_Café節目列表_\(2010年\).md
 
 ## 6月
 
-| 集數  | J2首播日期 | 主題              | 嘉賓                                                                                                        |
-| --- | ------ | --------------- | --------------------------------------------------------------------------------------------------------- |
-| 423 | 6月1日   | 鍾舒祺、黃浩邦　忠於自己的音樂 | [鍾舒祺](../Page/鍾舒祺.md "wikilink")、[黃浩邦](../Page/黃浩邦.md "wikilink") |- style="background-color: \#FFFFFF" | |
+| 集數  | J2首播日期 | 主題               | 嘉賓                                                                                                                           |
+| --- | ------ | ---------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| 423 | 6月1日   | 鍾舒祺、黃浩邦　忠於自己的音樂  | [鍾舒祺](../Page/鍾舒祺.md "wikilink")、[黃浩邦](../Page/黃浩邦.md "wikilink") |- style="background-color: \#FFFFFF" |                    |
+| 424 | 6月8日   | 陳嘉茵、吳嘉熙　跳唱歌手苦與樂  | [陳嘉茵](https://zh.wikipedia.org/wiki/陳嘉茵 "wikilink")、[吳嘉熙](../Page/吳嘉熙.md "wikilink") |- style="background-color: \#FFFFFF" | |
+| 425 | 6月15日  | 戴祖儀、林穎彤　新歌宣傳靠威嚇？ | [戴祖儀](../Page/戴祖儀.md "wikilink")、[林穎彤](../Page/林穎彤.md "wikilink") |- style="background-color: \#FFFFFF" |                    |
 
 [Category:無綫電視節目列表](https://zh.wikipedia.org/wiki/Category:無綫電視節目列表 "wikilink")
 [Category:Music_Café](https://zh.wikipedia.org/wiki/Category:Music_Café "wikilink")

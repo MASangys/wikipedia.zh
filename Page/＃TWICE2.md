@@ -1,4 +1,4 @@
-《**\#TWICE2**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")[TWICE在日本出道後第二張精選專輯](https://zh.wikipedia.org/wiki/TWICE "wikilink")。由JYP娛樂製作，日本華納音樂發行，於2019年3月6日發行。\[1\]\[2\]
+《**\#TWICE2**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")[TWICE在日本出道後第二張精選專輯](https://zh.wikipedia.org/wiki/TWICE "wikilink")。由[JYP娛樂製作](../Page/JYP娛樂.md "wikilink")，[日本華納音樂發行](../Page/日本華納音樂.md "wikilink")，於2019年3月6日發行。\[1\]\[2\]
 
 ## 背景
 
@@ -18,8 +18,8 @@ Love?](../Page/What_is_Love?.md "wikilink")》日文版。
 
 共發行三種版本。\[3\]
 
-  - 初回限定盤A：內含1張CD、80頁寫真歌詞本、隨機小卡（共10款）、隨機ID卡（共9款）（初回限定）
-  - 初回限定盤B：內含1張CD、1張DVD、歌詞本、隨機小卡（共10款）（初回限定）
+  - 初回限定盤A：內含1張CD、80頁寫真歌詞本、隨機小卡（共10款）、隨機ID卡（共9款）
+  - 初回限定盤B：內含1張CD、1張DVD、歌詞本、隨機小卡（共10款）
   - 通常盤：內含1張CD、歌詞本、隨機小卡（共10款）
 
 ## 曲目

@@ -435,11 +435,12 @@ Cat &amp; Dog (Animal ver.)[20]</p></td>
 |                                  |            |                            |                                                  |                                                  |            |
 | -------------------------------- | ---------- | -------------------------- | ------------------------------------------------ | ------------------------------------------------ | ---------- |
 | 順序                               | 日期         | 歌曲名稱                       | 語言                                               | 官方影片                                             | 瀏覽次數       |
-| 1                                | 2019年3月4日  | '어느날 머리에서 뿔이 자랐다 (CROWN)'  | 韓語                                               | [1](https://www.youtube.com/watch?v=W3iSnJ663II) | 65,684,920 |
-| 2                                | 2019年4月25日 | 'Cat & Dog'                | [2](https://www.youtube.com/watch?v=NaKrke1EL1A) | 13,982,742                                       |            |
-| 3                                | 2019年5月3日  | 'Cat & Dog (English ver.)' | [3](https://www.youtube.com/watch?v=nvO17uPanBY) | 4,058,803                                        |            |
-| 4                                | 2019年4月7日  | 'Blue Orangeade'           | [4](https://www.youtube.com/watch?v=LTz8NjNQp-s) | 3,494,775                                        |            |
-| <small>最後更新時間：2019年5月4日。</small> |            |                            |                                                  |                                                  |            |
+| 1                                | 2019年3月4日  | '어느날 머리에서 뿔이 자랐다 (CROWN)'  | 韓語                                               | [1](https://www.youtube.com/watch?v=W3iSnJ663II) | 72,442,707 |
+| 2                                | 2019年4月25日 | 'Cat & Dog'                | [2](https://www.youtube.com/watch?v=NaKrke1EL1A) | 23,969,168                                       |            |
+| 3                                | 2019年5月3日  | 'Cat & Dog (English ver.)' | 英語                                               | [3](https://www.youtube.com/watch?v=nvO17uPanBY) | 7,032,497  |
+| 4                                | 2019年6月5日  | '별의 낮잠 (Nap of a star)'    | 韓語                                               | [4](https://www.youtube.com/watch?v=XkDA02FHHik) | 4,120,346  |
+| 5                                | 2019年4月7日  | 'Blue Orangeade'           | [5](https://www.youtube.com/watch?v=LTz8NjNQp-s) | 3,766,082                                        |            |
+| <small>最後更新時間：2019年6月9日。</small> |            |                            |                                                  |                                                  |            |
 
 ## 音樂節目
 

@@ -1,7 +1,7 @@
 《**PRODUCE X 101**》（韓語：**프로듀스 X
 101**）是韓國Mnet在2019年5月3日推出，由韓國多家經紀公司旗下練習生演出的選拔／生存實境節目，為《PRODUCE
 101》系列節目的第四季。\[1\]\[2\]\[3\]節目名稱中「X」的含義是代表練習生的未知成長可能性（X），向全球擴張（Extension），最終出道組人數構成是**10+X**（前四次投票數累積最高票者）。\[4\]
-台灣地區由[愛奇藝台灣站每週六播出](https://zh.wikipedia.org/wiki/愛奇藝台灣站 "wikilink")。
+台灣由[愛奇藝台灣站每週六播出](https://zh.wikipedia.org/wiki/愛奇藝台灣站 "wikilink")，最終出道的11人將組成男子限定團體。
 
 ## 導師
 
@@ -9,8 +9,8 @@
   - 歌唱導師：[李碩薰](../Page/李碩薰.md "wikilink")([SG
     Wannabe](../Page/SG_Wannabe.md "wikilink"))、申尤美
   - 舞蹈導師：權宰勝(Jason Kwon)、[崔容俊](../Page/崔容俊.md "wikilink")、裴允靜
-  - Rap導師：[Cheetah](../Page/Cheetah.md "wikilink")、[周憲](../Page/李周憲.md "wikilink")
-  - 一日特别导师：[韶宥](https://zh.wikipedia.org/wiki/韶宥 "wikilink")
+  - Rap導師：[Cheetah](../Page/Cheetah.md "wikilink")
+  - 一日特别导师：[韶宥](https://zh.wikipedia.org/wiki/韶宥 "wikilink")、[周憲](../Page/李周憲.md "wikilink")
 
 ## 節目概要
 
@@ -153,14 +153,14 @@
 | 李埈赫                                                                             |
 | 李煥                                                                              |
 | [STARSHIP](../Page/STARSHIP娛樂.md "wikilink")                                    |
-| 具正模                                                                             |
+| 具正謨                                                                             |
 | 文賢彬                                                                             |
-| 宋亨俊                                                                             |
+| [宋亨俊](../Page/宋亨俊.md "wikilink")                                                |
 | 咸元真                                                                             |
 | [Cre.Ker娛樂](https://zh.wikipedia.org/wiki/Cre.Ker娛樂 "wikilink")                 |
 | Plasma娛樂                                                                        |
 | [Maroo娱乐](https://zh.wikipedia.org/wiki/Maroo娱乐 "wikilink")                     |
-| 李真宇                                                                             |
+| 李津宇                                                                             |
 | 李太勝                                                                             |
 | OUI                                                                             |
 | [Sidus HQ](https://zh.wikipedia.org/wiki/Sidus_HQ "wikilink")                   |
@@ -177,7 +177,7 @@
 | 李垠尚                                                                             |
 | 洪誠俊                                                                             |
 | [MBK娛樂](../Page/MBK娛樂.md "wikilink")                                            |
-| 南道賢                                                                             |
+| 南到賢                                                                             |
 | 李翰潔                                                                             |
 | [Music Works](../Page/The_Music_Works.md "wikilink")                            |
 | 宋有彬                                                                             |
@@ -353,7 +353,7 @@
 | Krazy娛樂                                                                                         |
 | Million Market                                                                                  |
 | NEST娛樂                                                                                          |
-| 吳世奉                                                                                             |
+| 吳峯                                                                                              |
 | SF                                                                                              |
 | [Stone Music Entertainment](https://zh.wikipedia.org/wiki/Stone_Music_Entertainment "wikilink") |
 | [THE SOUTH](https://zh.wikipedia.org/wiki/THE_SOUTH "wikilink")                                 |
@@ -370,7 +370,7 @@
 | 李協                                                                                              |
 | 金成淵                                                                                             |
 
-| colspan="8 |第二集排名     |
+| 第二集排名                 |
 | --------------------- |
 | 本集排名                  |
 | 1                     |
@@ -540,7 +540,7 @@
 <td><p>琴東玄</p></td>
 </tr>
 <tr class="odd">
-<td><p>金施勲（L）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金施勲" title="wikilink">金施勲</a>（L）</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/防彈少年團.md" title="wikilink">防彈少年團</a></p></td>
@@ -718,7 +718,7 @@
 | 權泰恩                                                             |
 | 金真坤（L）                                                          |
 | 咸元進（C）                                                          |
-| 南道賢                                                             |
+| 南到賢                                                             |
 | 金東玧                                                             |
 | [Wanna One](https://zh.wikipedia.org/wiki/Wanna_One "wikilink") |
 | 禹濟元（L）                                                          |
@@ -759,10 +759,10 @@
 | 成民書（C）                                                          |
 | 李宇真                                                             |
 | [NCT U](https://zh.wikipedia.org/wiki/NCT_U "wikilink")         |
-| 李真宇                                                             |
+| 李津宇                                                             |
 | 宋亨俊                                                             |
-| 具正模                                                             |
-| 金敏圭                                                             |
+| 具正謨                                                             |
+| 金旻奎                                                             |
 | 李美談（C/L）                                                        |
 | BOSS                                                            |
 | 李垠尚                                                             |
@@ -921,23 +921,304 @@
     Dance)中選擇其中一個類別的一首歌，依照排名順序選擇歌曲。
       - 各組別第一名的練習生票數將乘以100倍，而每一個類別裡票數最高的練習生可再額外獲得十萬票，**X類別再額外乘以2倍**。照播出順序排列。
       - **粗體**為組別第一名，<u>底線</u>為組別中心，為組別隊長。
-  - 定位評價歌曲
-      - Vocal類別
-          - Paul Kim - 遇見你
-          - 華沙 - Twit
-          - 臉紅的思春期 - 致我的思春期
-          - WannaOne - Day By Day
-      - Rap類別
-          - Zico - 說吧 Yes or No
-          - HAON(金夏温) X 李炳在 - 條形碼
-      - Dance類別
-          - Imagine Dragons - Believer
-          - Bruno Mars - Finesse
-          - Jason Derulo - Swalla
-      - Vocal X Dance
-          - Charlie Puth - Attention
-      - Rap X Dance
-          - Ja Mezz & Andup & Mino - 龜甲船
+
+| 第六集節目內容        |
+| -------------- |
+| 類別             |
+| Vocal          |
+| 個人練習生          |
+| BRANDNEW MUSIC |
+| 個人練習生          |
+| AAP.Y          |
+|                |
+| Vocal X Dance  |
+| 紅熠文化           |
+| Starship       |
+| Starship       |
+| YG             |
+| Fantagio       |
+| Stone Music    |
+| Rap            |
+| MBK娛樂          |
+| 個人練習生          |
+| Around Us娛樂    |
+| Dance          |
+| Starship       |
+| Starship       |
+| Starship       |
+| Woollim        |
+| Woollim        |
+| MBK娛樂          |
+| Vocal          |
+| Woollim        |
+| Source Music   |
+| 紅熠文化           |
+| Plan A娛樂       |
+|                |
+
+| 第六集排名 |
+| ----- |
+| 本集排名  |
+| 1     |
+| 2     |
+| 3     |
+| 4     |
+| 5     |
+| 6     |
+| 7     |
+| 8     |
+| 9     |
+| 10    |
+| 11    |
+| 12    |
+| 13    |
+| 14    |
+| 15    |
+| 16    |
+| 17    |
+| 18    |
+| 19    |
+| 20    |
+| 21    |
+| 22    |
+| 23    |
+| 24    |
+| 25    |
+| 26    |
+| 27    |
+| 28    |
+| 29    |
+| 30    |
+| 31    |
+| 32    |
+| 33    |
+| 34    |
+| 35    |
+| 36    |
+| 37    |
+| 38    |
+| 39    |
+| 40    |
+| 41    |
+| 42    |
+| 43    |
+| 44    |
+| 45    |
+| 46    |
+| 47    |
+| 48    |
+| 49    |
+| 50    |
+| 51    |
+| 52    |
+| 53    |
+| 54    |
+| 55    |
+| 56    |
+| 57    |
+| 58    |
+| 59    |
+| 60    |
+|       |
+
+### 第七集
+
+延續上一集繼續進行位置評價。照播出順序排列。
+
+  - **粗體**為組別第一名，<u>底線</u>為組別中心，為組別隊長。
+
+| 第七集節目內容           |
+| ----------------- |
+| 類別                |
+| Dance             |
+| Woollim           |
+| NEST娛樂            |
+| YG                |
+| Jellyfish娛樂       |
+| AAP.Y             |
+| Rap               |
+| Maroo企劃           |
+| E娛樂               |
+| Esteem            |
+| Vocal             |
+| 個人練習生             |
+| THE SOUTH         |
+| A.conic           |
+| Woollim           |
+|                   |
+| Rap X Dance       |
+| Around Us 娛樂      |
+| 個人練習生             |
+| TOP Media         |
+| Chandelier Music  |
+| Cre.ker娛樂         |
+| Dance             |
+| MLD Entertainment |
+| Music Works       |
+| DSP Media         |
+| C9娛樂              |
+| Vocal             |
+| Jellyfish娛樂       |
+| TOP Media         |
+| Plan A娛樂          |
+| iMe Korea         |
+|                   |
+
+  - 現場投票票數以外，各組別第一名的練習生票數將乘以100倍，X類別再額外乘以2倍。
+
+  - 為各類別組第一名，可再額外獲得十萬票，X類別再額外乘以2倍。
+
+| 位置評價全體排名（Rap組） |
+| -------------- |
+| 經紀公司           |
+| E娛樂            |
+| MBK娛樂          |
+| 樂華娛樂           |
+| Vine           |
+| 個人練習生          |
+| Maroo企劃        |
+| Around Us 娛樂   |
+| Esteem         |
+|                |
+
+| 位置評價全體排名（Vocal組） |
+| ---------------- |
+| 經紀公司             |
+| TOP Media        |
+| Plan A娛樂         |
+| Music Works      |
+| BRAND NEW MUSIC  |
+| Maroo企劃          |
+| Woollim          |
+| Jellyfish娛樂      |
+| Plan A娛樂         |
+| BRAND NEW MUSIC  |
+| 個人練習生            |
+| A.conic          |
+| iMe Korea        |
+| 紅熠文化             |
+| Source Music     |
+| OUI              |
+| AAP.Y            |
+| Woollim          |
+| 個人練習生            |
+| THE SOUTH        |
+| 個人練習生            |
+|                  |
+
+| 位置評價全體排名（Dance組）  |
+| ----------------- |
+| 經紀公司              |
+| AAP.Y             |
+| Woollim           |
+| MBK娛樂             |
+| NEST娛樂            |
+| C9娛樂              |
+| Starshp           |
+| DSP Media         |
+| Music Works       |
+| Jellyfish娛樂       |
+| Starship          |
+| Starship          |
+| Maroo企劃           |
+| Woollim           |
+| BRAND NEW MUSIC   |
+| Woollim           |
+| MLD Entertainment |
+| YG                |
+| Woollim           |
+| Sidus Q           |
+|                   |
+
+| 位置評價全體排名（X組）     |
+| ---------------- |
+| 經紀公司             |
+| TOP Media        |
+| Starship         |
+| Fantagio         |
+| E娛樂              |
+| Stone Music      |
+| Starship         |
+| 紅熠文化             |
+| Around Us 娛樂     |
+| Cre.ker娛樂        |
+| Chandelier Music |
+| 個人練習生            |
+| BRAND NEW MUSIC  |
+| YG               |
+|                  |
+
+### 第八集
+
+  - 主題評價分組與練習——2019年6月1日 02:00至2019年6月8日01:00
+    期間，經網路投票選出適合練習生主題風格的歌曲，每一首歌最高票數的12人進入該組。
+      - 第二次排名被淘汰的人無法參加主題評價演出。
+  - 第二次排名儀式(淘汰第31-60名)
+
+| 第二次排名儀式結果   |
+| ----------- |
+| 本集排名        |
+| 1           |
+| 2           |
+| 3           |
+| 4           |
+| 5           |
+| 6           |
+| 7           |
+| 8           |
+| 9           |
+| 10          |
+| 11          |
+| 12          |
+| 13          |
+| 14          |
+| 15          |
+| 16          |
+| 17          |
+| 18          |
+| 19          |
+| 20          |
+| 21          |
+| 22          |
+| 23          |
+| 24          |
+| 25          |
+| 26          |
+| 27          |
+| 28          |
+| 29          |
+| 30          |
+| **以下為淘汰成員** |
+| 31          |
+| 32          |
+| 33          |
+| 34          |
+| 35          |
+| 36          |
+| 37          |
+| 38          |
+| 39          |
+| 40          |
+| 41          |
+| 42          |
+| 43          |
+| 44          |
+| 45          |
+| 46          |
+| 47          |
+| 48          |
+| 49          |
+| 50          |
+| 51          |
+| 52          |
+| 53          |
+| 54          |
+| 55          |
+| 56          |
+| 57          |
+| 58          |
+| 59          |
+| 60          |
 
 ## 排名
 
@@ -970,69 +1251,69 @@
 | 编号       |
 | 汉字       |
 | 1        |
-| 2        |
 | 4        |
-| 6        |
 | 8        |
-| 14       |
-| 15       |
-| 16       |
-| 19       |
 | 20       |
 | 21       |
 | 25       |
 | 26       |
-| 27       |
-| 28       |
 | 30       |
 | 31       |
 | 33       |
-| 36       |
-| 37       |
-| 38       |
-| 39       |
-| 41       |
 | 43       |
 | 46       |
-| 47       |
-| 49       |
 | 50       |
-| 51       |
 | 52       |
 | 53       |
-| 55       |
 | 56       |
-| 57       |
 | 58       |
-| 59       |
 | 60       |
 | 61       |
-| 62       |
 | 63       |
 | 64       |
-| 65       |
 | 66       |
-| 72       |
-| 73       |
-| 79       |
-| 80       |
-| 81       |
-| 82       |
 | 83       |
 | 84       |
 | 85       |
 | 86       |
 | 88       |
 | 90       |
-| 91       |
-| 92       |
 | 97       |
 | 98       |
-| 99       |
 | 最终组合出道成员 |
 | 第四輪淘汰成員  |
 | 第三輪淘汰成員  |
 | 第二輪淘汰成員  |
+| 80       |
+| 62       |
+| 15       |
+| 79       |
+| 38       |
+| 55       |
+| 2        |
+| 57       |
+| 73       |
+| 14       |
+| 49       |
+| 27       |
+| 19       |
+| 65       |
+| 39       |
+| 91       |
+| 16       |
+| 28       |
+| 37       |
+| 6        |
+| 59       |
+| 81       |
+| 51       |
+| 72       |
+| 41       |
+| 92       |
+| 99       |
+| 36       |
+| 82       |
+| 47       |
 | 第一輪淘汰成員  |
 | 13       |
 | 12       |
@@ -1101,8 +1382,8 @@
 <td><p>韩文</p></td>
 <td><p>第一輪(EP5)</p></td>
 <td><p>第二輪(EP8)</p></td>
-<td><p>第三輪(EP10)</p></td>
-<td><p>最終(EP11)</p></td>
+<td><p>第三輪(EP11)</p></td>
+<td><p>最終(EP12)</p></td>
 </tr>
 <tr class="even">
 <td><p>票數</p></td>
@@ -1121,26 +1402,10 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2</p></td>
-<td><p>李美談</p></td>
-<td><p>이미담</p></td>
-<td><p>AAP.Y</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>4</p></td>
 <td><p>琴東玄</p></td>
 <td><p>금동현</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/C9娛樂" title="wikilink">C9娛樂</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>6</p></td>
-<td><p>Peak</p></td>
-<td><p>픽</p></td>
-<td><p>Chandelier Music</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1149,38 +1414,6 @@
 <td><p>孫東杓</p></td>
 <td><p>손동표</p></td>
 <td><p><a href="../Page/DSP媒體.md" title="wikilink">DSP Media</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>14</p></td>
-<td><p>朴俞里</p></td>
-<td><p>박유리</p></td>
-<td><p>{{tsl|en|ESteem Entertainment</p></td>
-<td><p>ESteem娛樂}}</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>15</p></td>
-<td><p>元奕</p></td>
-<td><p>원혁</p></td>
-<td><p>E娛樂</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>16</p></td>
-<td><p>李沅俊</p></td>
-<td><p>이원준</p></td>
-<td><p>E娛樂</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>19</p></td>
-<td><p>魏子越</p></td>
-<td><p>위자월</p></td>
-<td><p>红熠文化</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1202,7 +1435,7 @@
 </tr>
 <tr class="even">
 <td><p>25</p></td>
-<td><p>南道賢</p></td>
+<td><p>南到賢</p></td>
 <td><p>남도현</p></td>
 <td><p><a href="../Page/MBK娛樂.md" title="wikilink">MBK娛樂</a></p></td>
 <td></td>
@@ -1213,22 +1446,6 @@
 <td><p><a href="../Page/李翰潔.md" title="wikilink">李翰潔</a></p></td>
 <td><p>이한결</p></td>
 <td><p><a href="../Page/MBK娛樂.md" title="wikilink">MBK娛樂</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>27</p></td>
-<td><p>金東彬</p></td>
-<td><p>김동빈</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/MLD_Entertainment" title="wikilink">MLD Entertainment</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>28</p></td>
-<td><p>朴允率</p></td>
-<td><p>박윤솔</p></td>
-<td><p>NEST娛樂</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1253,6 +1470,262 @@
 <td><p><a href="../Page/朴宣浩.md" title="wikilink">朴宣浩</a></p></td>
 <td><p>박선호</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Sidus_HQ" title="wikilink">Sidus HQ</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>43</p></td>
+<td><p>李協</p></td>
+<td><p>이협</p></td>
+<td><p>個人練習生</p></td>
+<td><p>19</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>46</p></td>
+<td><p>崔壽桓</p></td>
+<td><p>최수환</p></td>
+<td><p>個人練習生</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>50</p></td>
+<td><p>李津宇</p></td>
+<td><p>이진우</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Maroo娱乐" title="wikilink">Maroo娱乐</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>52</p></td>
+<td><p><a href="../Page/金國憲.md" title="wikilink">金國憲</a></p></td>
+<td><p>김국헌</p></td>
+<td><p>{{tsl|en|Music Works</p></td>
+<td><p>Music Works}}</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>53</p></td>
+<td><p>宋有彬</p></td>
+<td><p>송유빈</p></td>
+<td><p>{{tsl|en|Music Works</p></td>
+<td><p>Music Works}}</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>56</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金施勲" title="wikilink">金施勲</a></p></td>
+<td><p>김시훈</p></td>
+<td><p><a href="../Page/Brand_New_Music.md" title="wikilink">BRAND NEW MUSIC</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>58</p></td>
+<td><p>李垠尚</p></td>
+<td><p>이은상</p></td>
+<td><p><a href="../Page/Brand_New_Music.md" title="wikilink">BRAND NEW MUSIC</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>60</p></td>
+<td><p>姜敏喜</p></td>
+<td><p>강민희</p></td>
+<td><p><a href="../Page/STARSHIP娛樂.md" title="wikilink">STARSHIP</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>61</p></td>
+<td><p>具正模</p></td>
+<td><p>구정모</p></td>
+<td><p><a href="../Page/STARSHIP娛樂.md" title="wikilink">STARSHIP</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>63</p></td>
+<td><p>宋亨俊</p></td>
+<td><p>송형준</p></td>
+<td><p><a href="../Page/STARSHIP娛樂.md" title="wikilink">STARSHIP</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>64</p></td>
+<td><p>咸元真</p></td>
+<td><p>함원진</p></td>
+<td><p><a href="../Page/STARSHIP娛樂.md" title="wikilink">STARSHIP</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>66</p></td>
+<td><p>金炫彬</p></td>
+<td><p>김현빈</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Source_Music" title="wikilink">Source Music</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>83</p></td>
+<td><p>朱昌旭</p></td>
+<td><p>주창욱</p></td>
+<td><p><a href="../Page/Woollim娛樂.md" title="wikilink">Woollim娛樂</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>84</p></td>
+<td><p>車俊昊</p></td>
+<td><p>차준호</p></td>
+<td><p><a href="../Page/Woollim娛樂.md" title="wikilink">Woollim娛樂</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>85</p></td>
+<td><p>黃允聖</p></td>
+<td><p>황윤성</p></td>
+<td><p><a href="../Page/Woollim娛樂.md" title="wikilink">Woollim娛樂</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>86</p></td>
+<td><p>金曜漢</p></td>
+<td><p>김요한</p></td>
+<td><p>OUI</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>88</p></td>
+<td><p><a href="../Page/曹承衍.md" title="wikilink">曹承衍</a></p></td>
+<td><p>조승연</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/樂華娛樂" title="wikilink">樂華娛樂</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>90</p></td>
+<td><p>金旻奎</p></td>
+<td><p>김민규</p></td>
+<td><p><a href="../Page/Jellyfish娛樂.md" title="wikilink">Jellyfish娛樂</a></p></td>
+<td><p>18</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>97</p></td>
+<td><p>金宇碩</p></td>
+<td><p>김우석</p></td>
+<td><p><a href="../Page/TOP媒體.md" title="wikilink">TOP Media</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>98</p></td>
+<td><p>李鎭赫</p></td>
+<td><p>이진혁</p></td>
+<td><p><a href="../Page/TOP媒體.md" title="wikilink">TOP Media</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>最终组合出道成员</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>第四輪淘汰成員</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第三輪淘汰成員</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>第二輪淘汰成員</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2</p></td>
+<td><p>李美談</p></td>
+<td><p>이미담</p></td>
+<td><p>AAP.Y</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>6</p></td>
+<td><p>Peak</p></td>
+<td><p>픽</p></td>
+<td><p>Chandelier Music</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>14</p></td>
+<td><p>朴俞里</p></td>
+<td><p>박유리</p></td>
+<td><p>{{tsl|en|ESteem Entertainment</p></td>
+<td><p>ESteem娛樂}}</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>15</p></td>
+<td><p>元奕</p></td>
+<td><p>원혁</p></td>
+<td><p>E娛樂</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>16</p></td>
+<td><p>李沅俊</p></td>
+<td><p>이원준</p></td>
+<td><p>E娛樂</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>19</p></td>
+<td><p>魏子越</p></td>
+<td><p>위자월</p></td>
+<td><p>红熠文化</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>27</p></td>
+<td><p>金東彬</p></td>
+<td><p>김동빈</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MLD_Entertainment" title="wikilink">MLD Entertainment</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>28</p></td>
+<td><p>朴允率</p></td>
+<td><p>박윤솔</p></td>
+<td><p>NEST娛樂</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1297,22 +1770,6 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>43</p></td>
-<td><p>李協</p></td>
-<td><p>이협</p></td>
-<td><p>個人練習生</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>46</p></td>
-<td><p>崔秀煥</p></td>
-<td><p>최수환</p></td>
-<td><p>個人練習生</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p>47</p></td>
 <td><p>南東鉉</p></td>
 <td><p>남동현</p></td>
@@ -1329,14 +1786,6 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>50</p></td>
-<td><p>李真宇</p></td>
-<td><p>이진우</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Maroo娱乐" title="wikilink">Maroo娱乐</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>51</p></td>
 <td><p>李太勝</p></td>
 <td><p>이태승</p></td>
@@ -1344,35 +1793,11 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p>52</p></td>
-<td><p><a href="../Page/金國憲.md" title="wikilink">金國憲</a></p></td>
-<td><p>김국헌</p></td>
-<td><p>{{tsl|en|Music Works</p></td>
-<td><p>Music Works}}</p></td>
-<td></td>
-</tr>
 <tr class="odd">
-<td><p>53</p></td>
-<td><p>宋有彬</p></td>
-<td><p>송유빈</p></td>
-<td><p>{{tsl|en|Music Works</p></td>
-<td><p>Music Works}}</p></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p>55</p></td>
 <td><p>白眞</p></td>
 <td><p>백진</p></td>
 <td><p>Vine娛樂</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>56</p></td>
-<td><p>金施勲</p></td>
-<td><p>김시훈</p></td>
-<td><p><a href="../Page/Brand_New_Music.md" title="wikilink">BRAND NEW MUSIC</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1385,14 +1810,6 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>58</p></td>
-<td><p>李垠尚</p></td>
-<td><p>이은상</p></td>
-<td><p><a href="../Page/Brand_New_Music.md" title="wikilink">BRAND NEW MUSIC</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p>59</p></td>
 <td><p>洪誠俊</p></td>
 <td><p>홍성준</p></td>
@@ -1400,23 +1817,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p>60</p></td>
-<td><p>姜敏喜</p></td>
-<td><p>강민희</p></td>
-<td><p><a href="../Page/STARSHIP娛樂.md" title="wikilink">STARSHIP</a></p></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="even">
-<td><p>61</p></td>
-<td><p>具正模</p></td>
-<td><p>구정모</p></td>
-<td><p><a href="../Page/STARSHIP娛樂.md" title="wikilink">STARSHIP</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>62</p></td>
 <td><p>文賢彬</p></td>
 <td><p>문현빈</p></td>
@@ -1424,35 +1825,11 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p>63</p></td>
-<td><p>宋亨俊</p></td>
-<td><p>송형준</p></td>
-<td><p><a href="../Page/STARSHIP娛樂.md" title="wikilink">STARSHIP</a></p></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="odd">
-<td><p>64</p></td>
-<td><p>咸元真</p></td>
-<td><p>함원진</p></td>
-<td><p><a href="../Page/STARSHIP娛樂.md" title="wikilink">STARSHIP</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p>65</p></td>
 <td><p><a href="../Page/金成賢.md" title="wikilink">金成賢</a></p></td>
 <td><p>김성현</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Stone_Music_Entertainment" title="wikilink">Stone Music Entertainment</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>66</p></td>
-<td><p>金炫彬</p></td>
-<td><p>김현빈</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Source_Music" title="wikilink">Source Music</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1505,54 +1882,6 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>83</p></td>
-<td><p>朱昌旭</p></td>
-<td><p>주창욱</p></td>
-<td><p><a href="../Page/Woollim娛樂.md" title="wikilink">Woollim娛樂</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>84</p></td>
-<td><p>車俊昊</p></td>
-<td><p>차준호</p></td>
-<td><p><a href="../Page/Woollim娛樂.md" title="wikilink">Woollim娛樂</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>85</p></td>
-<td><p>黃允聖</p></td>
-<td><p>황윤성</p></td>
-<td><p><a href="../Page/Woollim娛樂.md" title="wikilink">Woollim娛樂</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>86</p></td>
-<td><p>金曜漢</p></td>
-<td><p>김요한</p></td>
-<td><p>OUI</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>88</p></td>
-<td><p><a href="../Page/曹承衍.md" title="wikilink">曹承衍</a></p></td>
-<td><p>조승연</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/樂華娛樂" title="wikilink">樂華娛樂</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>90</p></td>
-<td><p>金敏圭</p></td>
-<td><p>김민규</p></td>
-<td><p><a href="../Page/Jellyfish娛樂.md" title="wikilink">Jellyfish娛樂</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p>91</p></td>
 <td><p>崔俊聖</p></td>
 <td><p>최준성</p></td>
@@ -1569,58 +1898,10 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>97</p></td>
-<td><p>金宇碩</p></td>
-<td><p>김우석</p></td>
-<td><p><a href="../Page/TOP媒體.md" title="wikilink">TOP Media</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>98</p></td>
-<td><p>李鎭赫</p></td>
-<td><p>이진혁</p></td>
-<td><p><a href="../Page/TOP媒體.md" title="wikilink">TOP Media</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p>99</p></td>
 <td><p>韓基燦</p></td>
 <td><p>한기찬</p></td>
 <td><p><a href="../Page/Fantagio.md" title="wikilink">Fantagio</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>最终组合出道成员</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>第四輪淘汰成員</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>第三輪淘汰成員</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>第二輪淘汰成員</p></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -1699,7 +1980,7 @@
 </tr>
 <tr class="even">
 <td><p>29</p></td>
-<td><p>吳世奉</p></td>
+<td><p>吳峯</p></td>
 <td><p>오새봄</p></td>
 <td><p>NEST娛樂</p></td>
 <td></td>
@@ -1981,6 +2262,8 @@
 </tbody>
 </table>
 
+## 音樂作品
+
 
 音樂作品
 
@@ -2022,7 +2305,8 @@
 | No. | 日期         | 節目                                                                     | 表演歌曲                     | 參加人員    |
 | --- | ---------- | ---------------------------------------------------------------------- | ------------------------ | ------- |
 | 1   | 2019年3月21日 | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | _不要 (_지마 / X1-MA)\[8\] | 全員      |
-| 2   | 2019年5月23日 | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | _ 不要(_지마 / X1-MA)      | 全A等级练习生 |
+| 2   | 2019年5月23日 | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | _不要(_지마 / X1-MA)       | 全A等级练习生 |
+| 3   | 2019年6月6日  | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | No More Dream            | P.T.S   |
 
 ### 活動演出
 
@@ -2044,12 +2328,12 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td><p>2019年5月3日</p></td>
-<td><p>1.448%</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
 <td><p>2019年5月10日</p></td>
-<td><p>2.309%</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
@@ -2069,12 +2353,12 @@
 <tr class="even">
 <td><p>6</p></td>
 <td><p>2019年6月7日</p></td>
-<td><p>%</p></td>
+<td><p>2.230%</p></td>
 </tr>
 <tr class="odd">
 <td><p>7</p></td>
 <td><p>2019年6月14日</p></td>
-<td><p>%</p></td>
+<td><p>2.019%</p></td>
 </tr>
 <tr class="even">
 <td><p>8</p></td>
@@ -2097,6 +2381,11 @@
 <td><p>%</p></td>
 </tr>
 <tr class="even">
+<td><p>12</p></td>
+<td><p>2019年7月19日</p></td>
+<td><p>%</p></td>
+</tr>
+<tr class="odd">
 <td><p>平均收視率</p></td>
 <td></td>
 <td></td>

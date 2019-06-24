@@ -447,13 +447,7 @@ University Ranking**），又名**US News世界大学排名，**由
 ## 参见
 
   - [QS世界大学排名](https://zh.wikipedia.org/wiki/QS世界大学排名 "wikilink")
-
-<!-- end list -->
-
   - [世界大学学术排名](https://zh.wikipedia.org/wiki/世界大学学术排名 "wikilink")
-
-<!-- end list -->
-
   - [泰晤士高等教育大学排名](https://zh.wikipedia.org/wiki/泰晤士高等教育大学排名 "wikilink")
 
 ## 参考文献

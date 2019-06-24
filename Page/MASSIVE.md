@@ -1,4 +1,4 @@
-**MASSIVE**是一套[軟體](https://zh.wikipedia.org/wiki/軟體 "wikilink")，用於製作[電影中出現的戰爭場面](https://zh.wikipedia.org/wiki/電影 "wikilink")\[1\]。由獨立編寫\[2\]。
+**MASSIVE**是一套[軟體](https://zh.wikipedia.org/wiki/軟體 "wikilink")，用於製作[電影中出現的戰爭場面](https://zh.wikipedia.org/wiki/電影 "wikilink")\[1\]。由[史蒂芬·瑞吉勒斯獨立編寫](../Page/史蒂芬·瑞吉勒斯.md "wikilink")\[2\]。
 
 ## 歷史
 

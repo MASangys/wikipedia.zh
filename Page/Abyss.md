@@ -26,14 +26,14 @@
 <td><p>中央地方檢察廳的美貌檢察官，有「中央地檢女神」的稱號，人生如同行駛在德國高速公路上的跑車般暢通無阻。但天不如人願，高世妍遭遇變故離世，依靠Abyss以另一張面孔重生，誰知重生後美貌不再，成了容貌普通的女孩。</p></td>
 </tr>
 <tr class="odd">
-<td><p>李美度</p></td>
-<td><p>前檢察官，高世妍的前輩，朴東哲的前女友，因忌妒高世妍經常找她麻煩。與朴東哲分手後出國留學，而高世妍重生後的臉孔變得跟李美度一模一樣，高世妍為找出殺害自己的兇手，假裝自己是李美度。</p></td>
+<td><p>李美島</p></td>
+<td><p>前檢察官，高世妍的前輩，朴東哲的前女友，因忌妒高世妍經常找她麻煩。與朴東哲分手後出國留學，而高世妍重生後的臉孔變得跟李美島一模一樣，高世妍為找出殺害自己的兇手，假裝自己是李美島。</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/安孝燮.md" title="wikilink">安孝燮</a><br />
 （）</p></td>
-<td><p>車旻</p></td>
+<td><p>車敏</p></td>
 <td><p>原本是化妝品業排名第一企業的繼承人，後來以律師事務所的花美男事務長身份復活。從小成績優異的他，卻有著醜陋外表。當他有了Abyss後，開始體驗到做夢都沒想到過的美貌前1%的人生。</p></td>
 </tr>
 <tr class="odd">
@@ -44,12 +44,12 @@
 <tr class="even">
 <td><p><a href="../Page/李施彥.md" title="wikilink">李施彥</a></p></td>
 <td><p>朴東哲</p></td>
-<td><p>重案組刑警，李美度前男友，高世妍的助手。</p></td>
+<td><p>重案組刑警，李美島前男友，高世妍的助手。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/韓素希" title="wikilink">韓素希</a></p></td>
 <td><p>張熙貞/吳秀珍</p></td>
-<td><p>車旻的未婚妻，擁有閃閃發光外貌，在婚禮當天神秘消失。</p></td>
+<td><p>車敏的未婚妻，擁有閃閃發光外貌，在婚禮當天神秘消失。</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -61,13 +61,50 @@
 
 ### 其他人物
 
-|                                                     |        |                 |
-| --------------------------------------------------- | ------ | --------------- |
-| **演員**                                              | **角色** | **介紹**          |
-| [權秀賢](https://zh.wikipedia.org/wiki/權秀賢 "wikilink") | 徐智旭    | 高世妍的同事，檢察官。     |
-| [尹宥善](../Page/尹宥善.md "wikilink")                    | 嚴愛蘭    | 車旻的母親。          |
-| [李哲民](../Page/李哲民_\(演員\).md "wikilink")             | 朴基萬    | 連續殺人案受害者朴美真的父親。 |
-|                                                     |        |                 |
+<table style="width:52%;">
+<colgroup>
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 35%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><p><strong>演員</strong></p></td>
+<td><p><strong>角色</strong></p></td>
+<td><p><strong>介紹</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/權秀賢" title="wikilink">權秀賢</a></p></td>
+<td><p>徐智旭/吳太真</p></td>
+<td><p>高世妍的同事，檢察官。</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>李美島</p></td>
+<td><p>整形後的李美島，前檢察官，現為律師。</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/尹宥善.md" title="wikilink">尹宥善</a></p></td>
+<td><p>嚴愛蘭</p></td>
+<td><p>車敏的母親，蘭化妝品的會長。</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/李哲民_(演員).md" title="wikilink">李哲民</a></p></td>
+<td><p>朴基滿</p></td>
+<td><p>連續殺人案受害者朴美真的父親。</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/李對淵.md" title="wikilink">李對淵</a></p></td>
+<td><p>徐燦植</p></td>
+<td><p>法官，徐智旭的父親。</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ### 特別出演
 
@@ -85,6 +122,10 @@
 <!-- end list -->
 
   - Part.2（發行日期：2019年5月21日）
+
+<!-- end list -->
+
+  - Part.3（發行日期：2019年6月4日）
 
 ## 收視率
 
@@ -150,7 +191,7 @@
 <td><p>8</p></td>
 <td><p>2019/05/28</p></td>
 <td><p>陷阱</p></td>
-<td></td>
+<td><p>2.339%</p></td>
 </tr>
 <tr class="even">
 <td><p>9</p></td>
@@ -161,32 +202,32 @@
 <tr class="odd">
 <td><p>10</p></td>
 <td><p>2019/06/04</p></td>
-<td></td>
-<td><p>%</p></td>
+<td><p>導火線</p></td>
+<td><p>2.251%</p></td>
 </tr>
 <tr class="even">
 <td><p>11</p></td>
 <td><p>2019/06/10</p></td>
-<td></td>
-<td><p>%</p></td>
+<td><p>捉迷藏</p></td>
+<td><p>2.273%</p></td>
 </tr>
 <tr class="odd">
 <td><p>12</p></td>
 <td><p>2019/06/11</p></td>
-<td></td>
-<td><p>%</p></td>
+<td><p>與邪惡面對面的瞬間</p></td>
+<td><p>2.156%</p></td>
 </tr>
 <tr class="even">
 <td><p>13</p></td>
 <td><p>2019/06/17</p></td>
-<td></td>
-<td><p>%</p></td>
+<td><p>暴風前夜</p></td>
+<td><p>2.151%</p></td>
 </tr>
 <tr class="odd">
 <td><p>14</p></td>
 <td><p>2019/06/18</p></td>
+<td><p>剿兔</p></td>
 <td></td>
-<td><p>%</p></td>
 </tr>
 <tr class="even">
 <td><p>15</p></td>
@@ -216,7 +257,7 @@
 ## 同時段競爭作品
 
   - [KBS](../Page/韓國放送公社.md "wikilink")
-    [月火連續劇](../Page/KBS月火連續劇.md "wikilink")：《[各位國民](../Page/各位國民.md "wikilink")》、《[Perfume](../Page/Perfume_\(電視劇\).md "wikilink")》
+    [月火連續劇](../Page/KBS月火連續劇.md "wikilink")：《[各位國民](../Page/各位國民.md "wikilink")》、《[Perfume](https://zh.wikipedia.org/wiki/Perfume_\(韓國電視劇\) "wikilink")》
   - [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")
     [月火連續劇](../Page/MBC月火連續劇.md "wikilink")：《[特別勞動監督官趙掌風](../Page/特別勞動監督官趙掌風.md "wikilink")》、《[檢法男女2](../Page/檢法男女2.md "wikilink")》
   - [SBS](../Page/SBS_\(韓國\).md "wikilink")

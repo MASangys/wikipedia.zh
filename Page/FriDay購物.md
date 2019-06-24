@@ -26,6 +26,8 @@ GoHappy
   - [friDay加購](https://m.shoppingplus.friday.tw)
 
   -
+  - [friDay影音](https://video.friday.tw/)
+
 [Category:台灣網站](https://zh.wikipedia.org/wiki/Category:台灣網站 "wikilink")
 [Category:購物網站](https://zh.wikipedia.org/wiki/Category:購物網站 "wikilink")
 
