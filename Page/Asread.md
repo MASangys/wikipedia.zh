@@ -62,7 +62,7 @@ Twinkle負責統包。
 </tr>
 <tr class="even">
 <td><p>2011年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/未來日記_(漫畫)" title="wikilink">未來日記</a></p></td>
+<td><p><a href="../Page/未來日記.md" title="wikilink">未來日記</a></p></td>
 <td></td>
 <td></td>
 </tr>

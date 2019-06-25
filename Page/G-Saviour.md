@@ -2,7 +2,26 @@
 
 ## 概要
 
+U.C.0223年，地球聯邦政府已經瓦解，政權重新回到各地的地方勢力。宇宙殖民衛星終於如願以償擺脫了「殖民地」的地位，成爲獨立的「殖民地」
+(Settlements)。
+
+在這樣一個新的勢力版圖下，湧現了兩股互角的勢力：由原地球聯邦成員，包括2、3、5、6、7號殖民衛星以及它們所對應的位於地球的母國所組成的殖民地國家議會（セツルメント国家議会，the
+Congress of Settlement Nations,
+CONSENT）；另外，由1號、4號殖民衛星以及月面都市所組成的殖民地自由聯盟（セツルメント自由同盟，Settlement
+Freedom League）。
+
+CONSENT面臨著嚴重的糧食短缺危機，而聯盟方面則由於農業技術的優越而免受糧食危機的影響。
+
+而正是這個時候，立場中立的8號殖民衛星蓋亞(Gaia)在農業技術上取得了突破。於是CONSENT爲了解决自身的糧食危機，决定動用武力占領該殖民衛星，必要時就算把衛星毀滅，也要把技術弄到手。而可以阻止這個陰謀的，就只有前議會軍駕駛員
+Mark Curran，以及一班臨時召集起來的MS駕駛員。
+
+Mark Curran曾經是CONSENT的軍中成員，退役後便在農業研究所中工作，但在CONSENT的人不斷的苦苦相逼下，Mark
+Curran逼於無奈地，駕駛了G-Saviour，與光明會合作，將CONSENT擊退。最後，Mark
+Curran也成功保衛了殖民地Gaia，Gaia亦成為了殖民地8號。
+
 ## 故事背景
+
+故事採用與《機動戰士高達》相同世界觀的宇宙紀元作為世界觀－宇宙紀元為U.C.0223，所以除了《復國運動》外，《G-Saviour》可謂是動畫中，宇宙紀元的最終點。宇宙紀元U.C.0100因為地球聯邦政府腐敗，並經過多次戰亂後，漸漸開始失去對宇宙殖民地的管約力，宇宙各殖民地紛紛脫離地球聯邦的管治，直到U.C.0218，地球聯邦正式倒台，宇宙進入戰國時代，變成軍閥割據的局面。
 
 ## 登场人物
 
@@ -130,7 +149,44 @@
 
 ## 制作人员
 
+原作︰[富野由悠季](../Page/富野由悠季.md "wikilink")、[矢立肇](https://zh.wikipedia.org/wiki/矢立肇 "wikilink")
+
+出品人︰[日昇動畫](../Page/日昇動畫.md "wikilink")
+
+監製︰Chris Dobbs
+
+製片人︰Catharina Conti、Mimi Maynard
+
+執行監製︰Anthony Scala、Philip David Segal
+
+導演︰Graeme Campbell
+
+劇本︰Mark Amato、Stephanie Pena-Sy
+
+編劇︰Stephanie Pena-Sy
+
+美術指導︰Richard Hudolin
+
+模擬特效︰Bruce Branit、John F.K. Parenteau
+
+選角︰Lynne Carrow, CSA、Sue Taylor Brouse
+
+服裝設計︰Terry Bardon
+
+攝影指導︰Joel J. Ransom
+
+剪接︰Rick Martin
+
+音樂︰John Debney、Louis Febre
+
+演員︰Brennan Elliott、Enuka Okuma、David Lovgren、Blu Mankuma、Catharina
+Conti、Kenneth Welsh
+
 ## Production
+
+製作公司︰Polestar Entertainment
+
+發行公司︰[萬代影像](../Page/萬代.md "wikilink")
 
 ## 原声带
 
@@ -182,6 +238,13 @@
   - [Bandai Visual's *G-Saviour* DVD
     page](https://web.archive.org/web/20070930152503/http://product.bandaivisual.co.jp/web_service/shop_product_info.asp?item_no=BCBF-0807)
 
+
+  - [高達的特攝版 -
+    《G-Saviour》](https://threec2002.neocities.org/article/audio_video_image/aviv001.html)
+
+
+  - [【 作品介紹 】宇宙世紀鋼彈 - G-Saviour ( G - 救世主
+    )](https://home.gamer.com.tw/creationDetail.php?sn=211149)
 
   -
   -

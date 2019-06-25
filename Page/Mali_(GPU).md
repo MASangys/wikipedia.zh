@@ -446,6 +446,24 @@ Mali显示芯片组改进自Falanx公司研发生产的显示技术芯片组，�
 <td></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p><a href="https://developer.arm.com/ip-products/graphics-and-multimedia/mali-gpus/mali-g77-gpu">Mali-G77</a></p></td>
+<td><p>Valhall 1<sup>st</sup> gen</p></td>
+<td><p>2019 Q2</p></td>
+<td><p>7-16</p></td>
+<td><p>7</p></td>
+<td></td>
+<td><p>850</p></td>
+<td><p>512–4096 KiB</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

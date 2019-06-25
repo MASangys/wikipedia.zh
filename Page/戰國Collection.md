@@ -122,7 +122,7 @@
   -
 
       -
-        CV：[長谷川唯](https://zh.wikipedia.org/wiki/長谷川唯 "wikilink")
+        CV：[長谷川唯](../Page/長谷川唯.md "wikilink")
 
 :;兔巫女（）
 

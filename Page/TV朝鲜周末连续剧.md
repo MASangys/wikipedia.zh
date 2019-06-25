@@ -241,7 +241,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><p>2019年1月27日－2019年<br />
+<td style="text-align: center;"><p>2019年1月27日－2019年3月24日<br />
 </p></td>
 <td style="text-align: center;"><p><a href="../Page/Babel_(電視劇).md" title="wikilink">Babel</a><br />
 </p></td>
@@ -249,6 +249,17 @@
 <td style="text-align: center;"><p><a href="../Page/朴施厚.md" title="wikilink">朴施厚</a>、<a href="../Page/張熙軫.md" title="wikilink">張熙軫</a>、<a href="../Page/金智勳.md" title="wikilink">金智勳</a>、<a href="../Page/張伸瑛.md" title="wikilink">張伸瑛</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/尹成植" title="wikilink">尹成植</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/權順元" title="wikilink">權順元</a>、<a href="../Page/朴相旭.md" title="wikilink">朴相旭</a></p></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>2019年6月8日－2019年8月<br />
+</p></td>
+<td style="text-align: center;"><p><a href="../Page/朝鮮生存記.md" title="wikilink">朝鮮生存記</a><br />
+</p></td>
+<td style="text-align: center;"><p>20</p></td>
+<td style="text-align: center;"><p><a href="../Page/姜至奐.md" title="wikilink">姜至奐</a>、<a href="../Page/宋元錫.md" title="wikilink">宋元錫</a>、<a href="../Page/景收真.md" title="wikilink">景收真</a>、<a href="../Page/朴世婉.md" title="wikilink">朴世婉</a></p></td>
+<td style="text-align: center;"><p>張容宇</p></td>
+<td style="text-align: center;"><p>朴敏宇</p></td>
 <td style="text-align: center;"></td>
 </tr>
 </tbody>

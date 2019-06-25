@@ -37,7 +37,7 @@ ray升级](https://zh.wikipedia.org/wiki/xperia_ray "wikilink")，主要改善�
 |    | [<font color="#FF60AF">粉紅色</font>](https://zh.wikipedia.org/wiki/粉紅色 "wikilink") | Pink  |
 |    | [<font color="#EEDD82">金色</font>](https://zh.wikipedia.org/wiki/金色 "wikilink")   | Gold  |
 
-[Screenshot_2014-08-13-04-44-17.png](https://zh.wikipedia.org/wiki/File:Screenshot_2014-08-13-04-44-17.png "fig:Screenshot_2014-08-13-04-44-17.png")
+[Cyanogen_Mod_11版本Android_4.4.3固件.png](https://zh.wikipedia.org/wiki/File:Cyanogen_Mod_11版本Android_4.4.3固件.png "fig:Cyanogen_Mod_11版本Android_4.4.3固件.png")
 [Xperiarayandroidversion.jpg](https://zh.wikipedia.org/wiki/File:Xperiarayandroidversion.jpg "fig:Xperiarayandroidversion.jpg")
 
 ## 參考資料

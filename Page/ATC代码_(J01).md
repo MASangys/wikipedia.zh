@@ -631,9 +631,7 @@
 ### J01XC 甾体类抗菌药（Steroid antibacterials）
 
   -
-    J01XC01
-    [夫西地酸](https://zh.wikipedia.org/wiki/夫西地酸 "wikilink")（Fusidic
-    acid）
+    J01XC01 [夫西地酸](../Page/夫西地酸.md "wikilink")（Fusidic acid）
 
 ### J01XD 咪唑衍生物（Imidazole derivatives）
 
