@@ -178,9 +178,9 @@
 <td><p>第二季</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/超人前傳_(2018年電視劇)" title="wikilink">超人前傳</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/氪星_(電視劇)" title="wikilink">氪星</a></strong></p></td>
 <td><p><a href="../Page/Syfy.md" title="wikilink">Syfy</a></p></td>
-<td><p>第一季</p></td>
+<td><p>第二季</p></td>
 <td></td>
 </tr>
 <tr class="odd">

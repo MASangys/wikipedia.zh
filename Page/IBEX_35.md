@@ -169,7 +169,7 @@ IBEX
 </tr>
 <tr class="even">
 <td><p>CIE</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/西艾意汽车零部件公司" title="wikilink">西艾意汽车零部件公司</a></p></td>
+<td><p><a href="../Page/西艾意汽车零部件公司.md" title="wikilink">西艾意汽车零部件公司</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/毕尔巴鄂" title="wikilink">毕尔巴鄂</a></p></td>
 <td><p>钢铁与石油化工</p></td>
 <td><p><a href="http://www.bolsamadrid.es/esp/aspx/Empresas/FichaValor.aspx?ISIN=ES0105630315">ES0105630315</a></p></td>

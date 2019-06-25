@@ -3647,6 +3647,24 @@ Kim Ki Yeob</p></td>
 <td><p>312</p></td>
 <td></td>
 <td><p>白影龍史汀格</p></td>
+<td><p>十川誠志</p></td>
+<td><p>石平信司</p></td>
+<td><p>加藤峻一</p></td>
+<td><p>野口和夫</p></td>
+</tr>
+<tr class="even">
+<td><p>313</p></td>
+<td></td>
+<td><p>龍之種</p></td>
+<td><p>米村正二</p></td>
+<td><p>高山智也</p></td>
+<td><p>藤崎真吾</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>314</p></td>
+<td></td>
+<td><p>極限附加術</p></td>
 <td></td>
 <td></td>
 <td></td>

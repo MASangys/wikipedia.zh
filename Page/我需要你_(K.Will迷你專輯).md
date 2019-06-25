@@ -67,30 +67,10 @@ EP出版時，由於印刷錯誤，令原有印製的20000張大碟需要丟棄�
 
 ## 發行歷史
 
-<table>
-<thead>
-<tr class="header">
-<th><p>地區</p></th>
-<th><p>日期</p></th>
-<th><p>格式</p></th>
-<th><p>廠牌</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>韓國</p></td>
-<td><p>2012年2月14日</p></td>
-<td><p><a href="../Page/CD.md" title="wikilink">CD</a>、<a href="../Page/數位音樂下載.md" title="wikilink">數位下載</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>全球</p></td>
-<td><p>數位下載[6]</p></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| 地區 | 日期         | 格式                                                                  | 廠牌                                      |
+| -- | ---------- | ------------------------------------------------------------------- | --------------------------------------- |
+| 韓國 | 2012年2月14日 | [CD](../Page/CD.md "wikilink")、[數位下載](../Page/數位音樂下載.md "wikilink") | [CJ E\&M](../Page/CJ_E&M.md "wikilink") |
+| 全球 | 數位下載\[6\]  |                                                                     |                                         |
 
 ## 參考資料
 

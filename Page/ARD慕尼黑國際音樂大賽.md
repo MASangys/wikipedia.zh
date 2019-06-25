@@ -2,7 +2,7 @@
 ARD）是[德國最大的古典音乐比賽](https://zh.wikipedia.org/wiki/德國 "wikilink")，也是同类型比赛中最大规模以及最具权威的音乐大赛，於1952年創設。许多如今世界知名的的音乐家们都是通过这个比赛而被观众认识，从而开展他们的艺术事业。
 
 历届知名获奖选手有:
-德国钢琴家与指挥家[克里斯托弗·埃申巴赫](https://zh.wikipedia.org/wiki/克里斯托弗·埃申巴赫 "wikilink")(1962年钢琴组别冠军),
+德国钢琴家与指挥家[克里斯托弗·埃申巴赫](../Page/克里斯托弗·埃申巴赫.md "wikilink")(1962年钢琴组别冠军),
 日本钢琴家[内田光子](https://zh.wikipedia.org/wiki/内田光子 "wikilink")(1966年钢琴组别季军),
 法国古典小号演奏家Maurice
 André(1963年小号组别冠军)，德籍俄裔男低音歌唱家[伊凡·李布洛夫](https://zh.wikipedia.org/wiki/伊凡·李布洛夫 "wikilink")(1960年声乐组别冠军),

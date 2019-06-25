@@ -28,8 +28,7 @@ tempo（任意速度），樂曲於一串重複的旋律中平靜地結束。
 
   - ** (1960) ：護士Katherine "Kitty" Fremont (Eva Marie Saint) 與Gen.
     Sutherland (Ralph Richardson) 討論被拘禁在賽普勒斯的猶太人的命運時，此曲被採用作背景音樂
-  - *[週末夜狂熱](https://zh.wikipedia.org/wiki/週末夜狂熱 "wikilink")* (1977)
-    ：小部分樂曲被用於舞蹈室的作背景音樂
+  - *[週末夜狂熱](../Page/週末夜狂熱.md "wikilink")* (1977) ：小部分樂曲被用於舞蹈室的作背景音樂
   - *[Whispering Corridors 2: Memento
     Mori](https://zh.wikipedia.org/wiki/Whispering_Corridors_2:_Memento_Mori "wikilink")*
     (1999)

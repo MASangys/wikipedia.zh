@@ -113,7 +113,7 @@
 
 ### V04CL [变应性疾病检测](https://zh.wikipedia.org/wiki/变应性 "wikilink")（Tests for allergic diseases）
 
-### QV04CQ [乳腺炎检测](https://zh.wikipedia.org/wiki/乳腺炎 "wikilink")（Tests for mastitis）
+### QV04CQ [乳腺炎检测](../Page/乳腺炎.md "wikilink")（Tests for mastitis）
 
 ### QV04CV [呼吸功能检测](../Page/呼吸.md "wikilink")（Tests for respiratory function）
 

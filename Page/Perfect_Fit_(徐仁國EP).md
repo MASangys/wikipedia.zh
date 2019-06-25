@@ -1,5 +1,6 @@
 《**Perfect
-Fit**》是[韓國男歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")[徐仁國第四張](../Page/徐仁國.md "wikilink")[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink")[EP](https://zh.wikipedia.org/wiki/EP "wikilink")，在2012年4月12日由製作發行。EP包括了5首歌，並以《欲擒故縱》（）作主打單曲。
+Fit**》是[韓國男歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")[徐仁國第四張](../Page/徐仁國.md "wikilink")[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink")[EP](https://zh.wikipedia.org/wiki/EP "wikilink")，在2012年4月12日由[CJ
+E\&M製作發行](../Page/CJ_E&M.md "wikilink")。EP包括了5首歌，並以《欲擒故縱》（）作主打單曲。
 
 ## 曲目
 
@@ -59,30 +60,10 @@ Fit**》是[韓國男歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")[�
 
 ## 發行歷史
 
-<table>
-<thead>
-<tr class="header">
-<th><p>地區</p></th>
-<th><p>日期</p></th>
-<th><p>格式</p></th>
-<th><p>廠牌</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>韓國</p></td>
-<td><p>2012年4月12日</p></td>
-<td><p><a href="../Page/CD.md" title="wikilink">CD</a>、<a href="../Page/數位音樂下載.md" title="wikilink">數位下載</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>全球</p></td>
-<td><p>數位下載[3]</p></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| 地區 | 日期         | 格式                                                                  | 廠牌                                      |
+| -- | ---------- | ------------------------------------------------------------------- | --------------------------------------- |
+| 韓國 | 2012年4月12日 | [CD](../Page/CD.md "wikilink")、[數位下載](../Page/數位音樂下載.md "wikilink") | [CJ E\&M](../Page/CJ_E&M.md "wikilink") |
+| 全球 | 數位下載\[3\]  |                                                                     |                                         |
 
 ## 參考資料
 

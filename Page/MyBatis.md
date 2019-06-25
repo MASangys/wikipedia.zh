@@ -1,4 +1,4 @@
-**MyBatis**是一个[Java](../Page/Java.md "wikilink")，它通过[XML描述符或注解把](../Page/XML.md "wikilink")[对象与](https://zh.wikipedia.org/wiki/对象_\(计算机科学\) "wikilink")[存储过程或](https://zh.wikipedia.org/wiki/存储过程 "wikilink")[SQL语句关联起来](../Page/SQL.md "wikilink")。
+**MyBatis**是一个[Java](../Page/Java.md "wikilink")[持久化框架](https://zh.wikipedia.org/wiki/持久化框架 "wikilink")，它通过[XML描述符或注解把](../Page/XML.md "wikilink")[对象与](https://zh.wikipedia.org/wiki/对象_\(计算机科学\) "wikilink")[存储过程或](https://zh.wikipedia.org/wiki/存储过程 "wikilink")[SQL语句关联起来](../Page/SQL.md "wikilink")。
 
 MyBatis是在[Apache许可证](../Page/Apache许可证.md "wikilink")
 2.0下分发的[自由软件](../Page/自由软件.md "wikilink")，是[iBATIS](https://zh.wikipedia.org/wiki/iBATIS "wikilink")

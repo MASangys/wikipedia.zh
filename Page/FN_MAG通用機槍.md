@@ -18,7 +18,7 @@ MAG。
 [British_L7A2_Machine_Gun.JPEG](https://zh.wikipedia.org/wiki/File:British_L7A2_Machine_Gun.JPEG "fig:British_L7A2_Machine_Gun.JPEG")使用英國的MAG版本[L7A2射擊](../Page/L7通用機槍.md "wikilink")。\]\]
 [Paris_Air_Show_2007-06-24_n24.jpg](https://zh.wikipedia.org/wiki/File:Paris_Air_Show_2007-06-24_n24.jpg "fig:Paris_Air_Show_2007-06-24_n24.jpg")上舉行的[国际航空航天展上](../Page/巴黎国际航空航天展.md "wikilink")，裝在[直升機上的FN](https://zh.wikipedia.org/wiki/直升機 "wikilink")
 MAG[空用機槍型態](../Page/空用槍械.md "wikilink")。\]\] FN MAG Model
-60-20是一挺全自動、氣冷、[氣動式操作的通用機槍](../Page/氣動式_\(槍械\).md "wikilink")，以[開放式槍栓發射](https://zh.wikipedia.org/wiki/開放式槍栓 "wikilink")[彈鏈供彈的](../Page/彈鏈.md "wikilink")[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")[北约](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
+60-20是一挺全自動、氣冷、[氣動式操作的通用機槍](../Page/氣動式_\(槍械\).md "wikilink")，以[開放式槍栓發射](../Page/開放式槍栓.md "wikilink")[彈鏈供彈的](../Page/彈鏈.md "wikilink")[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")[北约](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 ### 操作機構
 
@@ -28,7 +28,7 @@ MAG的[機匣結構與白朗寧機槍相似](https://zh.wikipedia.org/wiki/機�
 FN
 MAG使用點燃的火藥氣體，通過在槍管上的一個氣導孔導流，推動導氣活塞連桿連接到其閉鎖組件（它採用了[長行程活塞傳動系統](https://zh.wikipedia.org/wiki/氣動式_\(槍械\)#長行程活塞傳動 "wikilink")）。槍管與垂直傾斜的閉鎖桿起落式閉鎖機構，通過一個鉸接式接頭以連接到槍機機框以實現閉鎖。引導閉鎖桿的閉鎖肩部和凸輪表面，位於機匣的基座上。MAG採用了一系列從其他成功槍械的成熟設計理念，例如閉鎖機構是以美國M1918[白朗寧自動步槍](../Page/白朗寧自動步槍.md "wikilink")（BAR）為藍本，只是閉鎖桿起落式閉鎖機構的閉鎖部位有所改動；而彈鏈供彈機構中的雙程供彈裝置和扳機機構是從二戰時期的德國[MG42通用機槍改進而成](../Page/MG42通用機槍.md "wikilink")。
 
-FN MAG採用[開放式槍栓](https://zh.wikipedia.org/wiki/開放式槍栓 "wikilink")（Open
+FN MAG採用[開放式槍栓](../Page/開放式槍栓.md "wikilink")（Open
 bolt）射擊。無論是彈簧為動力的和拋殼頂桿都包含在槍機裡。在發射後，發射過的彈殼會從機匣基座上的拋殼口（使用MG42型彈簧定位式拋殼口覆蓋整個拋殼口）拋出槍外。機槍具有[擊針發射機構](../Page/撞針.md "wikilink")（槍機機框充當了擊針，因為它包含了容納擊針的擊針孔，固定於擊鐵上，沒有擊針簧，發射時從槍機的表面上突出），一個沒有半自動模式的純全自動模式扳機組件，和位於上方的交叉螺栓型按鈕式手動保險卡筍。手動保險卡筍的外表是一根橫推式頂桿。把手動保險從槍的左邊推向右邊，保險卡筍的右側露出字母“S（保險）”時，它置於[阻鐵頭下方並將擊發阻鐵機構其鎖上](https://zh.wikipedia.org/wiki/阻鐵 "wikilink")，阻止阻鐵頭下落而不能射擊；所以其保險只能防止阻鐵扳起來。把手動保險從右邊推向左邊，保險卡筍左側露出字母“F（射擊）”時，其缺口面朝上而不會影響阻鐵的運動。
 
 ### 裝彈及退彈
@@ -44,7 +44,7 @@ MAG的[機匣蓋](https://zh.wikipedia.org/wiki/機匣 "wikilink")（供彈器�
 MAG的[機匣蓋](../Page/机匣.md "wikilink")（供彈器蓋），這樣武器就完成射擊準備的操作。以及解開保險便可發射。
 
 FN
-MAG是以[開放式槍栓進行射擊](https://zh.wikipedia.org/wiki/開放式槍栓 "wikilink")，這意味著槍機和相關工作部件向後拉動機柄裝彈以後到在準備開火時都被卡在後方位置並打開槍機部份，直到扣動[扳機後槍機才被放開前進](https://zh.wikipedia.org/wiki/扳機 "wikilink")，將子彈由供彈機內部的彈鏈中推進[膛室內並且將子彈發射出去](../Page/膛室.md "wikilink")。靜止的[撞針會隨著](../Page/撞針.md "wikilink")[槍機而移動並且繞過](https://zh.wikipedia.org/wiki/槍機 "wikilink")[擊錘](https://zh.wikipedia.org/wiki/擊錘 "wikilink")。一塊阻鐵用來控制武器的內部機構，穩定了發射速率的一致性，以確保適當的功能性和[準確性](../Page/準確與精密.md "wikilink")。然而，FN
+MAG是以[開放式槍栓進行射擊](../Page/開放式槍栓.md "wikilink")，這意味著槍機和相關工作部件向後拉動機柄裝彈以後到在準備開火時都被卡在後方位置並打開槍機部份，直到扣動[扳機後槍機才被放開前進](https://zh.wikipedia.org/wiki/扳機 "wikilink")，將子彈由供彈機內部的彈鏈中推進[膛室內並且將子彈發射出去](../Page/膛室.md "wikilink")。靜止的[撞針會隨著](../Page/撞針.md "wikilink")[槍機而移動並且繞過](https://zh.wikipedia.org/wiki/槍機 "wikilink")[擊錘](https://zh.wikipedia.org/wiki/擊錘 "wikilink")。一塊阻鐵用來控制武器的內部機構，穩定了發射速率的一致性，以確保適當的功能性和[準確性](../Page/準確與精密.md "wikilink")。然而，FN
 MAG使用開放式槍栓的缺點是亦有可能由於槍機覆蓋，因而做成了增加其走火的可能性。發生這種情況的時候足以迫使槍機越過阻鐵的控制並且在沒有扣下[扳機以下連續發射而且不能停止](https://zh.wikipedia.org/wiki/扳機 "wikilink")。即使是FN
 MAG所設置的保險裝置亦不能阻止這種情況的發生。
 

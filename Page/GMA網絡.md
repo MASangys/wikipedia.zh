@@ -32,12 +32,12 @@ Sora Avenue，\[1\]
   - Alta Productions Group, Inc.
   - GMA Artists Center
   - GMA Entertainment Group
-  - GMA Films
+  - GMA Pictures
   - GMA Holdings, Inc.
   - GMA Kapuso Foundation
   - GMA Marketing and Productions
   - GMA News and Public Affairs
-  - GMA Records
+  - GMA Music
   - GMA Worldwide
   - New Media, Inc.
   - RGMA

@@ -1103,7 +1103,7 @@ Gaon</a></small><br />
 <ul>
 <li>發行日期：2010年1月14日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
-<li>歌手：<a href="https://zh.wikipedia.org/wiki/朴芝妍" title="wikilink">芝妍</a></li>
+<li>歌手：<a href="../Page/朴芝妍.md" title="wikilink">芝妍</a></li>
 <li>備註：收錄於《學習之神 OST Part1》</li>
 </ul></td>
 <td></td>
@@ -1114,7 +1114,7 @@ Gaon</a></small><br />
 <ul>
 <li>發行日期：2010年1月25日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
-<li>歌手：<a href="https://zh.wikipedia.org/wiki/朴芝妍" title="wikilink">芝妍</a>、高雅星、Ernest</li>
+<li>歌手：<a href="../Page/朴芝妍.md" title="wikilink">芝妍</a>、高雅星、Ernest</li>
 <li>備註：收錄於《學習之神 OST Part2》</li>
 </ul></td>
 <td></td>
@@ -1157,7 +1157,7 @@ Gaon</a></small><br />
 <ul>
 <li>發行日期：2010年5月25日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
-<li>歌手：<a href="../Page/朴孝敏.md" title="wikilink">孝敏</a>、<a href="https://zh.wikipedia.org/wiki/朴芝妍" title="wikilink">芝妍</a>、SeeYa李寶藍</li>
+<li>歌手：<a href="../Page/朴孝敏.md" title="wikilink">孝敏</a>、<a href="../Page/朴芝妍.md" title="wikilink">芝妍</a>、SeeYa李寶藍</li>
 <li>備註：收錄於《Coffee House OST Part3》</li>
 </ul></td>
 <td></td>
@@ -1189,7 +1189,7 @@ Gaon</a></small><br />
 <ul>
 <li>發行日期：2010年11月4日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
-<li>歌手：<a href="https://zh.wikipedia.org/wiki/朴芝妍" title="wikilink">芝妍</a></li>
+<li>歌手：<a href="../Page/朴芝妍.md" title="wikilink">芝妍</a></li>
 <li>備註：收錄於《Jungle Fish 2 OST》</li>
 </ul></td>
 <td></td>
@@ -1200,7 +1200,7 @@ Gaon</a></small><br />
 <ul>
 <li>發行日期：2010年12月8日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
-<li>歌手：<a href="https://zh.wikipedia.org/wiki/朴芝妍" title="wikilink">芝妍</a></li>
+<li>歌手：<a href="../Page/朴芝妍.md" title="wikilink">芝妍</a></li>
 <li>備註：《Jungle Fish 2 OST Special Edit》</li>
 </ul></td>
 <td></td>
@@ -1256,7 +1256,7 @@ Pink Dolls由電影中的四名主角<br />
 <ul>
 <li>發行日期：2012年2月21日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
-<li>歌手：HershE(<a href="https://zh.wikipedia.org/wiki/朴芝妍" title="wikilink">芝妍與孝琳</a>、Ailee)</li>
+<li>歌手：HershE(<a href="../Page/朴芝妍.md" title="wikilink">芝妍與孝琳</a>、Ailee)</li>
 <li>備註：收錄於《Dream High 2 OST Part.4》</li>
 </ul></td>
 <td></td>
@@ -1267,7 +1267,7 @@ Pink Dolls由電影中的四名主角<br />
 <ul>
 <li>發行日期：2012年3月13日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
-<li>歌手：<a href="https://zh.wikipedia.org/wiki/朴芝妍" title="wikilink">芝妍與JB</a></li>
+<li>歌手：<a href="../Page/朴芝妍.md" title="wikilink">芝妍與JB</a></li>
 <li>備註：收錄於《Dream High 2 OST Part.7》</li>
 </ul></td>
 <td></td>
@@ -1278,7 +1278,7 @@ Pink Dolls由電影中的四名主角<br />
 <ul>
 <li>發行日期：2012年3月20日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
-<li>歌手：<a href="https://zh.wikipedia.org/wiki/朴芝妍" title="wikilink">芝妍</a></li>
+<li>歌手：<a href="../Page/朴芝妍.md" title="wikilink">芝妍</a></li>
 <li>備註：收錄於《Dream High 2 OST Part.8》</li>
 </ul></td>
 <td></td>

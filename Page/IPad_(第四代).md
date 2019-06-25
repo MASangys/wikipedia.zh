@@ -1,9 +1,9 @@
-**第四代iPad**或**iPad
-4**，在銷售期間官方正式名稱為**配備Retina-{zh-hans:显示屏;zh-hant:顯示器;}-的iPad**\[1\]，是[蘋果公司在](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")2012年10月23日於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[聖荷西發布的](https://zh.wikipedia.org/wiki/聖荷西 "wikilink")9.7吋-{zh-cn:螢幕;zh-hant:顯示器;}-[平板電腦](../Page/平板電腦.md "wikilink")，取代同年3月7日所發布、同樣配備Retina-{zh-hans:螢幕;zh-hant:顯示器;}-的[第三代iPad](https://zh.wikipedia.org/wiki/iPad_\(第三代\) "wikilink")。
+**第四代iPad**（正式名称为**配備Retina-{zh-hans:显示屏;zh-hant:顯示器;}-的iPad**，而**iPad
+4**为俗称）\[1\]是[蘋果公司在](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")2012年10月23日於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[聖荷西發布的](https://zh.wikipedia.org/wiki/聖荷西 "wikilink")9.7吋-{zh-cn:显示屏;zh-hant:顯示器;}-[平板電腦](../Page/平板電腦.md "wikilink")，取代同年3月7日所發布、同樣配備Retina-{zh-hans:显示屏;zh-hant:顯示器;}-的[第三代iPad](https://zh.wikipedia.org/wiki/iPad_\(第三代\) "wikilink")。
 
-2013年10月22日，蘋果公司發布[配備Retina-{zh-hans:螢幕;zh-hant:顯示器;}-的iPad
+2013年10月22日，蘋果公司發布[配備Retina-{zh-hans:显示屏;zh-hant:顯示器;}-的iPad
 mini與](https://zh.wikipedia.org/wiki/iPad_mini_\(第二代\) "wikilink")[iPad
-Air](https://zh.wikipedia.org/wiki/iPad_Air "wikilink")，原先配備Retina-{zh-hans:螢幕;zh-hant:顯示器;}-的第四代iPad因而調整售價，不再提供32GB、64GB或128GB規格。
+Air](https://zh.wikipedia.org/wiki/iPad_Air "wikilink")，原先配備Retina-{zh-hans:显示屏;zh-hant:顯示器;}-的第四代iPad因而調整售價，不再提供32GB、64GB或128GB規格。
 
 2014年3月，另在若干地區持續提供16GB機型作為“入門機”\[2\]\[3\]。直到2014年10月16日確定停售。\[4\]
 
@@ -228,10 +228,10 @@ mini在](https://zh.wikipedia.org/wiki/iPad_mini "wikilink")3天之內共售出�
 [Category:平板電腦](https://zh.wikipedia.org/wiki/Category:平板電腦 "wikilink")
 [Category:2012年面世的平板電腦](https://zh.wikipedia.org/wiki/Category:2012年面世的平板電腦 "wikilink")
 
-1.  蘋果公司稱此機型爲「**配備Retina-{zh-hans:螢幕;zh-hant:顯示器;}-的iPad**」。
+1.  蘋果公司稱此機型爲「**配備Retina-{zh-hans:显示屏;zh-hant:顯示器;}-的iPad**」。
 2.  2014年3月，[iPad
     2確認在臺灣停售](https://zh.wikipedia.org/wiki/iPad_2 "wikilink")。該機型（iPad
-    2）自2012年3月起作為“入門機”，調整售價在部份地區持續發售（16GB）直到2014年3月。此後改以“配備Retina-{zh-hans:螢幕;zh-hant:顯示器;}-的iPad”（16GB）替代。
+    2）自2012年3月起作為“入門機”，調整售價在部份地區持續發售（16GB）直到2014年3月。此後改以“配備Retina-{zh-hans:显示屏;zh-hant:顯示器;}-的iPad”（16GB）替代。
 3.
 4.  2014年10月16日，[iPad Air
     2與](https://zh.wikipedia.org/wiki/iPad_Air_2 "wikilink")[iPad mini

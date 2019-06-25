@@ -55,7 +55,7 @@ Google曾在其产品与服务中制作与添加过诸多复活节彩蛋。
     or R
     twice”](https://www.google.com/search?q=z+or+r+twice)将会360°旋转搜索结果。此彩蛋参考[任天堂为](../Page/任天堂.md "wikilink")[Nintendo
     64开发的电子游戏](https://zh.wikipedia.org/wiki/Nintendo_64 "wikilink")[星际火狐64](../Page/星际火狐64.md "wikilink")。
-  - [搜索“recursion”](https://www.google.com/search?q=recursion)显示“您是不是要查：recursion”，点击后在新的结果页面，将继续询问用户“您是不是要查：recursion”。\[4\]
+  - [搜索“recursion”](https://www.google.com/search?q=recursion)或[搜索"遞迴"](https://www.google.com/search?q=遞迴)显示“您是不是要查：recursion/遞迴”，点击后在新的结果页面，将继续询问用户“您是不是要查：recursion”。\[4\]
   - 通过Google UK[搜索“Jason
     Isaacs”](https://www.google.com/search?q=Jason+Isaacs)显示“Hello to
     Jason Isaacs”（向杰逊·艾萨斯问好）。详细参考。

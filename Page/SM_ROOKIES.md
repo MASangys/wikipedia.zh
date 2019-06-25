@@ -59,7 +59,7 @@ Velvet出道](../Page/Red_Velvet.md "wikilink")。2016年至2019年，男成員�
       - [道英](../Page/道英.md "wikilink")
       - [Ten](../Page/Ten_\(歌手\).md "wikilink")
       - [在玹](https://zh.wikipedia.org/wiki/鄭允午 "wikilink")
-      - [昀昀](https://zh.wikipedia.org/wiki/董思成 "wikilink")
+      - [昀昀](../Page/董思成.md "wikilink")
       - [Mark](https://zh.wikipedia.org/wiki/Mark_\(1999年\) "wikilink")
       - [Jeno](https://zh.wikipedia.org/wiki/李帝努 "wikilink")
       - 東赫（以NCT出道後改藝名為[楷燦](../Page/楷燦.md "wikilink")）

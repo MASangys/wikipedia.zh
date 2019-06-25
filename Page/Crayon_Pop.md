@@ -627,13 +627,13 @@ POP。接著又加入以記錄團員生活、街頭突擊表演、成長學習�
 <td><p><a href="https://zh.wikipedia.org/wiki/CRAYON_POP_1st_MINI_ALBUM" title="wikilink">CRAYON POP 1st MINI ALBUM</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Dancing_Queen" title="wikilink">Dancing Queen</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Dancing_Queen_(Crayon_Pop_專輯)" title="wikilink">Dancing Queen</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2013年</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Dancing_Queen" title="wikilink">Dancing Queen</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Dancing_Queen_(Crayon_Pop_專輯)" title="wikilink">Dancing Queen</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/Bar_Bar_Bar" title="wikilink">Bar Bar Bar</a></p></td>

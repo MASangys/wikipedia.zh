@@ -22,7 +22,7 @@ School 一起登上 Ceci 雜誌和在2011年末特別節目《SBS 歌謠大戰�
 ### NU'EST
 
 2012年3月15日以JR（Junior Royal
-縮寫）為藝名，成為男子團體NU'EST的隊長出道，擔任主Rapper和領舞。出道曲〈FACE〉將視線集中在學校暴力和孤立等社會問題上，令他們成為青少年代言人。\[16\]〈[FACE](../Page/FACE_\(NU'EST單曲\).md "wikilink")〉更是男子團體出道曲於YouTube頻道最高觀看次數記錄保持者，觀看次數高達七千萬。
+縮寫）為藝名，成為男子團體NU'EST的隊長出道，擔任主Rapper和領舞。出道曲〈FACE〉將視線集中在學校暴力和孤立等社會問題上，令他們成為青少年代言人。\[16\]〈[FACE](../Page/FACE_\(NU'EST單曲\).md "wikilink")〉更曾是男子團體出道曲於YouTube頻道最高觀看次數記錄保持者，觀看次數高達一億。
 
 2013年，以二張迷你專輯《[Hello](https://zh.wikipedia.org/wiki/Hello_\(NU'EST迷你專輯\) "wikilink")》和《[Sleep
 Talking](../Page/Sleep_Talking.md "wikilink")》回歸，主打曲均講述愛情。\[17\]\[18\]急速轉變的風格和長時間在海外發展，時隔1年多才在韓國正式回歸\[19\]，長期忽略韓國市場，導致粉絲流失，專輯銷售持續下降。然而，JR多次表達自己未能帶領NU'EST

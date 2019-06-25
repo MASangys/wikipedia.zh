@@ -8,7 +8,7 @@ SIG這三種](../Page/.357_SIG.md "wikilink")[手枪](../Page/手枪.md "wikilin
 在第二代的MPX產品當中，有著從9×19毫米轉換為.357 SIG或.40
 S\&W[口徑的系統](https://zh.wikipedia.org/wiki/口徑 "wikilink")；然而，自面世以來，卻尚未推出過可用於兩代的衝鋒槍產品當中的任何一代的第一方轉換套件。\[1\]
 
-其後西格&紹爾使用相同的導氣活塞系統，研製了與[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")兼容的[SIG
+其後西格&紹爾使用相同的導氣活塞系統，研製了與[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[STANAG兼容的](../Page/标准化协议.md "wikilink")[SIG
 MCX](../Page/SIG_MCX突擊步槍.md "wikilink")。
 
 ## 歷史

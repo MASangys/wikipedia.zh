@@ -9,7 +9,7 @@
 | 屆數              | 大獎                                                                                          | 最优秀演技賞                                                                                      | 优秀演技賞                                                 |
 | --------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
 | 男子              | 女子                                                                                          | 男子                                                                                          | 女子                                                    |
-| 第1屆（1993年）      | [李美淑](../Page/李美淑.md "wikilink")《》                                                          | [朴重勋](https://zh.wikipedia.org/wiki/朴重勋 "wikilink")《》                                       | [金慧渲](../Page/金慧渲.md "wikilink")《》                    |
+| 第1屆（1993年）      | [李美淑](../Page/李美淑.md "wikilink")《》                                                          | [朴重勋](https://zh.wikipedia.org/wiki/朴重勋 "wikilink")《[遙遠的松巴江](../Page/遙遠的松巴江.md "wikilink")》 | [金慧渲](../Page/金慧渲.md "wikilink")《》                    |
 | 第2屆（1994年）      | [崔明吉](https://zh.wikipedia.org/wiki/崔明吉_\(艺人\) "wikilink")《》                                | [韓振熙](../Page/韓振熙.md "wikilink")《》                                                          | [崔真實](../Page/崔真實.md "wikilink")《》                    |
 | 第3屆（1995年）      | [崔民秀](../Page/崔民秀.md "wikilink")《[沙漏](https://zh.wikipedia.org/wiki/沙漏_\(电视剧\) "wikilink")》 | [朴相元](../Page/朴相元.md "wikilink")《[沙漏](https://zh.wikipedia.org/wiki/沙漏_\(电视剧\) "wikilink")》 | [崔真實](../Page/崔真實.md "wikilink")《、》                   |
 | 第4屆（1996年）      | [朴根滢](https://zh.wikipedia.org/wiki/朴根滢 "wikilink")《》                                       | [李正吉](../Page/李正吉.md "wikilink")《》                                                          | [李辉香](https://zh.wikipedia.org/wiki/李辉香 "wikilink")《》 |
@@ -1209,7 +1209,7 @@
 </tr>
 <tr class="even">
 <td><p>男子最优秀演技賞</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李準基" title="wikilink">李準基</a>（<a href="../Page/一枝梅.md" title="wikilink">一枝梅</a>）</p></td>
+<td><p><a href="../Page/李準基.md" title="wikilink">李準基</a>（<a href="../Page/一枝梅.md" title="wikilink">一枝梅</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>女子最优秀演技賞</p></td>
@@ -1274,7 +1274,7 @@
 <tr class="odd">
 <td><p>十大明星賞</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/文瑾莹" title="wikilink">文瑾莹</a>（<a href="https://zh.wikipedia.org/wiki/风之画师" title="wikilink">风之画师</a>）<br />
-<a href="https://zh.wikipedia.org/wiki/李準基" title="wikilink">李準基</a>（<a href="../Page/一枝梅.md" title="wikilink">一枝梅</a>）<br />
+<a href="../Page/李準基.md" title="wikilink">李準基</a>（<a href="../Page/一枝梅.md" title="wikilink">一枝梅</a>）<br />
 <a href="../Page/朴容夏.md" title="wikilink">朴容夏</a>（<a href="../Page/On_Air.md" title="wikilink">On Air</a>）<br />
 <a href="../Page/金荷娜.md" title="wikilink">金荷娜</a>（<a href="../Page/On_Air.md" title="wikilink">On Air</a>）<br />
 <a href="../Page/宋玧妸.md" title="wikilink">宋玧妸</a>（<a href="../Page/On_Air.md" title="wikilink">On Air</a>）<br />
@@ -1286,7 +1286,7 @@
 </tr>
 <tr class="even">
 <td><p>人气賞</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李準基" title="wikilink">李準基</a>（<a href="../Page/一枝梅.md" title="wikilink">一枝梅</a>）</p></td>
+<td><p><a href="../Page/李準基.md" title="wikilink">李準基</a>（<a href="../Page/一枝梅.md" title="wikilink">一枝梅</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>最佳CP獎</p></td>

@@ -121,7 +121,7 @@
 | [鄭素熙](https://zh.wikipedia.org/wiki/鄭素熙 "wikilink") | 閔社长    | 賭場老板              | [雷碧娜](../Page/雷碧娜.md "wikilink")       |
 | [羅野](https://zh.wikipedia.org/wiki/羅野 "wikilink")   | 李秀晶    | 賭場財闊C World集團的小女兒 |                                        |
 | [白信](https://zh.wikipedia.org/wiki/白信 "wikilink")   | 國奉達    | 舍北當地的警察           | [劉昭文](../Page/劉昭文.md "wikilink")       |
-| [朴芝妍](https://zh.wikipedia.org/wiki/朴芝妍 "wikilink") | 成宥真    | 東宇的政治聯姻对象         | [陳皓宜](../Page/陳皓宜.md "wikilink")       |
+| [朴芝妍](../Page/朴芝妍.md "wikilink")                    | 成宥真    | 東宇的政治聯姻对象         | [陳皓宜](../Page/陳皓宜.md "wikilink")       |
 | [朴元淑](../Page/朴元淑.md "wikilink")                    | 許春熙    | 三兄弟的生母            | [袁淑珍](../Page/袁淑珍.md "wikilink")       |
 | [趙成賢](https://zh.wikipedia.org/wiki/趙成賢 "wikilink") | 尹政宇    | 韓昌集團Lucky賭場理事     |                                        |
 

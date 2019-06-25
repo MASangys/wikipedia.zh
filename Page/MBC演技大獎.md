@@ -1614,7 +1614,7 @@
 </tr>
 <tr class="odd">
 <td><p>最佳CP獎</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李準基" title="wikilink">李準基</a>、<a href="../Page/新慜娥.md" title="wikilink">新慜娥</a>（<a href="https://zh.wikipedia.org/wiki/阿娘使道传" title="wikilink">阿娘使道传</a>）</p></td>
+<td><p><a href="../Page/李準基.md" title="wikilink">李準基</a>、<a href="../Page/新慜娥.md" title="wikilink">新慜娥</a>（<a href="https://zh.wikipedia.org/wiki/阿娘使道传" title="wikilink">阿娘使道传</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p>童星赏</p></td>
@@ -2423,7 +2423,7 @@
 </tr>
 <tr class="even">
 <td><p>女子新人獎</p></td>
-<td><p>（<a href="../Page/壞刑警.md" title="wikilink">壞刑警</a>）<br />
+<td><p><a href="../Page/李雪.md" title="wikilink">李雪</a>（<a href="../Page/壞刑警.md" title="wikilink">壞刑警</a>）<br />
 <a href="https://zh.wikipedia.org/wiki/吴丞芽" title="wikilink">吴丞芽</a>（<a href="https://zh.wikipedia.org/wiki/秘密与谎言_(电视剧)" title="wikilink">秘密与谎言</a>）</p></td>
 </tr>
 <tr class="odd">

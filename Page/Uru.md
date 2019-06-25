@@ -175,6 +175,10 @@ Uru名义活动。由于本名、年龄等个人-{zh-cn:信息;zh-tw:資訊;}-�
 </tr>
 <tr class="odd">
 <td></td>
+<td><p>電視劇《<a href="https://zh.wikipedia.org/wiki/銀河英雄傳說#銀河英雄傳說_Die_Neue_These" title="wikilink">銀河英雄傳說 Die Neue These 邂逅</a>》主題曲</p></td>
+</tr>
+<tr class="even">
+<td></td>
 <td></td>
 </tr>
 </tbody>

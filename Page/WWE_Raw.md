@@ -274,11 +274,11 @@ NXT](../Page/WWE_NXT.md "wikilink")。
 ### 腰帶持有者
 
   - [WWE環球冠軍](https://zh.wikipedia.org/wiki/WWE環球冠軍 "wikilink")
-      - [賽特·羅林斯](../Page/賽特·羅林斯.md "wikilink")
+      - [賽特·罗林](https://zh.wikipedia.org/wiki/賽特·罗林 "wikilink")
   - [WWE女子冠軍](https://zh.wikipedia.org/wiki/WWE女子冠軍 "wikilink")
       - [Becky
         lynch](https://zh.wikipedia.org/wiki/Becky_lynch "wikilink")
-  - [Raw雙打冠軍](https://zh.wikipedia.org/wiki/WWE雙打冠軍 "wikilink")
+  - [ECW雙打冠軍](https://zh.wikipedia.org/wiki/WWE雙打冠軍 "wikilink")
       - [The
         Revival](https://en.m.wikipedia.org/wiki/The_Revival_\(professional_wrestling)（[Dash
         Wilder](https://en.m.wikipedia.org/wiki/Dash_Wilder)和[Scott

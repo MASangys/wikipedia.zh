@@ -26,6 +26,9 @@
 
   - [路易吉洋樓](../Page/路易吉洋樓.md "wikilink")，任天堂3DS，2018年10月12日
 
+  - [薩爾達傳說
+    織夢島(NS)](../Page/薩爾達傳說_織夢島.md "wikilink")，任天堂Switch，2019年9月20日
+
 ### 第三方发行的作品
 
   - ，任天堂3DS，2015年，由Furyu<small>（日本）</small>和Atlus<small>（欧美）</small>发行

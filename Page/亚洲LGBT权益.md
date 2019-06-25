@@ -5,7 +5,7 @@
 不過近年來，也有部分的亞洲國家開始考慮相應的立法或是用公投的方式來保障LGBT族群的權益，包括[中華民國](../Page/中華民國.md "wikilink")（[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")）、[賽普勒斯](../Page/賽普勒斯.md "wikilink")、[以色列](../Page/以色列.md "wikilink")、[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")、[越南](https://zh.wikipedia.org/wiki/越南 "wikilink")、[尼泊爾](https://zh.wikipedia.org/wiki/尼泊爾 "wikilink")、[柬埔寨以及](../Page/柬埔寨.md "wikilink")[日本](../Page/日本.md "wikilink")。
 
 2017年5月24日，[中華民國司法院大法官宣告民法未保障同性婚姻的平等自由已屬違憲](https://zh.wikipedia.org/wiki/中華民國司法院 "wikilink")，須在兩年完成保障同性婚姻的相關法律，讓[中華民國](../Page/中華民國.md "wikilink")（[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")）成為[亞洲第一個同性婚姻合法的國家](https://zh.wikipedia.org/wiki/亞洲 "wikilink")，也終結亞洲沒有同婚合法國家的記錄。
-2019年5月17日，[中華民國](../Page/中華民國.md "wikilink")（[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")）[立法院通過](../Page/立法院.md "wikilink")《**[司法院釋字第七四八號解釋施行法](https://zh.wikipedia.org/wiki/司法院釋字第七四八號解釋施行法 "wikilink")**》，5月22日經總統公布，5月24日生效，成為全[亞洲首個](https://zh.wikipedia.org/wiki/亞洲 "wikilink")[同性婚姻合法化之國家](https://zh.wikipedia.org/wiki/同性婚姻 "wikilink")。
+2019年5月17日，[中華民國](../Page/中華民國.md "wikilink")（[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")）[立法院通過](../Page/立法院.md "wikilink")《**[司法院釋字第七四八號解釋施行法](../Page/司法院釋字第七四八號解釋施行法.md "wikilink")**》，5月22日經總統公布，5月24日生效，成為全[亞洲首個](https://zh.wikipedia.org/wiki/亞洲 "wikilink")[同性婚姻合法化之國家](https://zh.wikipedia.org/wiki/同性婚姻 "wikilink")。
 
 [250px|**亚洲**
 **同性伴侣合法**      **同性伴侣违法**

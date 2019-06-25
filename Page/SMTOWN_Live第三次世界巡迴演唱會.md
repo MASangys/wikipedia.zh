@@ -108,40 +108,13 @@ III**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](
 
 ## 節目播放
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p>播放日期</p></td>
-<td><p>電視台</p></td>
-<td><p>節目名稱</p></td>
-<td><p>演出場次</p></td>
-</tr>
-<tr class="even">
-<td><p>2012年7月19日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/文化廣播_(韓國)" title="wikilink">MBC</a></p></td>
-<td><p>MBC Korea Music Wave in L.A.－SMTOWN Special</p></td>
-<td><p>阿納海姆</p></td>
-</tr>
-<tr class="odd">
-<td><p>2012年9月24日</p></td>
-<td></td>
-<td><p>SMTOWN Live World Tour III in Jakarta</p></td>
-<td><p>雅加達</p></td>
-</tr>
-<tr class="even">
-<td><p>2012年9月30日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/文化廣播_(韓國)" title="wikilink">MBC</a></p></td>
-<td><p>MBC Korea Music Wave in Seoul "K-POP的聖地"</p></td>
-<td><p>首爾</p></td>
-</tr>
-<tr class="odd">
-<td><p>2012年10月26日</p></td>
-<td><p><a href="../Page/富士電視台.md" title="wikilink">Fuji TV NEXT</a></p></td>
-<td><p>SMTOWN Live World Tour III in Tokyo</p></td>
-<td><p>2012年8月－東京</p></td>
-</tr>
-</tbody>
-</table>
+|             |                                                             |                                             |            |
+| ----------- | ----------------------------------------------------------- | ------------------------------------------- | ---------- |
+| 播放日期        | 電視台                                                         | 節目名稱                                        | 演出場次       |
+| 2012年7月19日  | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") | MBC Korea Music Wave in L.A.－SMTOWN Special | 阿納海姆       |
+| 2012年9月24日  | [RCTI](https://zh.wikipedia.org/wiki/RCTI "wikilink")       | SMTOWN Live World Tour III in Jakarta       | 雅加達        |
+| 2012年9月30日  | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") | MBC Korea Music Wave in Seoul "K-POP的聖地"    | 首爾         |
+| 2012年10月26日 | [Fuji TV NEXT](../Page/富士電視台.md "wikilink")                 | SMTOWN Live World Tour III in Tokyo         | 2012年8月－東京 |
 
 ## 製作
 

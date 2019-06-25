@@ -21,28 +21,29 @@ china的活动上](../Page/WordCamp.md "wikilink")，后来有更多成员加入
 
 ### 扩展
 
-和[WordPress一样](../Page/WordPress.md "wikilink")，Typecho带有完整的插件与模板（主题）机制。\[13\]它们可以在不更改博客内容和Typecho核心部分时，修改博客的界面和功能。插件与模板可以在官方论坛上下载，然后上传到/usr/目录下。\[14\]
+和[WordPress一样](../Page/WordPress.md "wikilink")，Typecho带有完整的插件与模板（主题）机制。\[13\]它们可以在不更改博客内容和Typecho核心部分时，修改博客的界面和功能。\[14\]同时Typecho使用独特的模块化架构，使得扩展十分便利。\[15\]
 
 ### 使用 Markdown 语法
 
-Typecho使用的是[Markdown语法](https://zh.wikipedia.org/wiki/Markdown "wikilink")，通过[HyperDown](https://github.com/SegmentFault/HyperDown)解析器进行解析。\[15\]Markdown是一种轻量级标记语言，它允许人们“使用易读易写的纯文本格式编写文档，然后转换成有效的XHTML（或者HTML）文档”。\[16\]
+Typecho使用的是[Markdown语法](https://zh.wikipedia.org/wiki/Markdown "wikilink")，通过[HyperDown](https://github.com/SegmentFault/HyperDown)解析器进行解析。\[16\]Markdown是一种轻量级标记语言，它允许人们“使用易读易写的纯文本格式编写文档，然后转换成有效的XHTML（或者HTML）文档”。\[17\]
 
-### 代码
+### 简洁
 
-Typecho 的代码不到 500 KB，数据表仅7张（不包括扩展生成的数据表）。\[17\]
+Typecho 的代码不到 500 KB，数据表仅7张（不包括扩展生成的数据表）。\[18\]
+整站只需几个接口，通过静态继承快速传递参数，插件越多，功能只会越强大，对速度影响却微乎其微。
 
 ### 自适应
 
-Typecho的默认模板和后台，全部采用了[响应式设计](../Page/响应式网页设计.md "wikilink")。所以Typecho的大多数民间模板，都采用了自适应设计。\[18\]
+Typecho的默认模板和后台，全部采用了[响应式设计](../Page/响应式网页设计.md "wikilink")。所以Typecho的大多数自制模板，都采用了自适应设计。\[19\]
 
 ## 版本
 
 Typecho最早可下载的版本是0.3 <small>(8.12.30)</small>，括号内的数字即代表发布日期，如0.3
-<small>(8.12.30)</small>的发布时间为2008年12月30日。\[19\]
+<small>(8.12.30)</small>的发布时间为2008年12月30日。\[20\]
 
-截止2018年8月19日，Typecho的最新正式版为1.1(17.10.30)\[20\]，最新开发版为1.2(18.1.29)\[21\]\[22\]。
+截止2018年8月19日，Typecho的最新正式版为1.1(17.10.30)\[21\]，最新开发版为1.2(18.1.29)\[22\]\[23\]。
 
-正式版可在官方网站下载，开发版可在官方网站和Github上下载。\[23\]\[24\]
+正式版可在官方网站下载，开发版可在官方网站和Github上下载。\[24\]\[25\]
 
 1.0及以前的版本为旧版，存在安全漏洞，除非特殊需要否则请不要下载。它们可以在 [Google
 Code](https://zh.wikipedia.org/wiki/Google_Code "wikilink") 存档页面下载。
@@ -83,14 +84,14 @@ Code](https://zh.wikipedia.org/wiki/Google_Code "wikilink") 存档页面下载�
 <li>一些细小的改变：更加方便的升级，一些操作细节的改进，日期操作的改进，删除功能的确认；</li>
 <li>上一个版本已经发现的bug修正；</li>
 <li>所见即所得编辑器的加入；</li>
-<li>安装程序的优化。[25]</li>
+<li>安装程序的优化。[26]</li>
 </ol></td>
 </tr>
 <tr class="even">
 <td><p>0.6 <small>(9.6.1)</small></p></td>
 <td><p>release</p></td>
 <td><p>2009-06-01</p></td>
-<td><p>除了修正了beta版本的bug外，还增加了堆楼的功能[26]</p></td>
+<td><p>除了修正了beta版本的bug外，还增加了堆楼的功能[27]</p></td>
 </tr>
 <tr class="odd">
 <td><p>0.7 <small>(9.10.31)</small></p></td>
@@ -106,7 +107,7 @@ Code](https://zh.wikipedia.org/wiki/Google_Code "wikilink") 存档页面下载�
 <li>增加插件版本依赖检测</li>
 <li>增加按作者归档</li>
 <li>增加自动保存功能</li>
-<li>后台内容管理页面链接调整，归档更加方便[27]</li>
+<li>后台内容管理页面链接调整，归档更加方便[28]</li>
 </ol></td>
 </tr>
 <tr class="even">
@@ -120,19 +121,19 @@ Code](https://zh.wikipedia.org/wiki/Google_Code "wikilink") 存档页面下载�
 <td><p>release</p></td>
 <td><p>2013-12-12</p></td>
 <td><ol>
-<li>修正了0.8以来的大量bug[28]</li>
+<li>修正了0.8以来的大量bug[29]</li>
 <li>新的安装程序支持BAE, SAE, GAE 自动安装</li>
 <li>完全重构了后台，自适应手持设备</li>
 <li>原生支持Markdown编辑器，实时预览</li>
 <li>支持自定义字段</li>
-<li>支持自定义独立页面和分类页面链接样式[29][30][31]</li>
+<li>支持自定义独立页面和分类页面链接样式[30][31][32]</li>
 </ol></td>
 </tr>
 <tr class="even">
 <td><p>0.9 <small>(14.5.25)</small></p></td>
 <td><p>release</p></td>
 <td><p>2014-05-25</p></td>
-<td><p>与<a href="https://zh.wikipedia.org/wiki/乌云_(漏洞报告平台)" title="wikilink">乌云网合作</a>，修复了一些安全漏洞和bug，并增加了多级分类支持、上传文件多选、对多语言的支持等。[32][33]</p></td>
+<td><p>与<a href="https://zh.wikipedia.org/wiki/乌云_(漏洞报告平台)" title="wikilink">乌云网合作</a>，修复了一些安全漏洞和bug，并增加了多级分类支持、上传文件多选、对多语言的支持等。[33][34]</p></td>
 </tr>
 <tr class="odd">
 <td><p>1.0 <small>(14.10.9)</small></p></td>
@@ -144,7 +145,7 @@ Code](https://zh.wikipedia.org/wiki/Google_Code "wikilink") 存档页面下载�
 <td><p>1.0 <small>(14.10.10)</small></p></td>
 <td><p>release</p></td>
 <td><p>2014-10-10</p></td>
-<td><p>上一个版本的修正版，修正了用户在升级后出现网站访问错误的情况，并带来了一个新的可降低垃圾评论的数量的feature[34]</p></td>
+<td><p>上一个版本的修正版，修正了用户在升级后出现网站访问错误的情况，并带来了一个新的可降低垃圾评论的数量的feature[35]</p></td>
 </tr>
 <tr class="odd">
 <td><p>1.1 <small>(17.10.24)</small></p></td>
@@ -159,7 +160,7 @@ Code](https://zh.wikipedia.org/wiki/Google_Code "wikilink") 存档页面下载�
 <li>新增了Mysqli适配器</li>
 <li>增加夏令时支持</li>
 <li>修正了反垃圾的措施</li>
-<li><a href="../Page/PHP.md" title="wikilink">PHP最低要求提升至PHP</a>5.4[35]</li>
+<li><a href="../Page/PHP.md" title="wikilink">PHP最低要求提升至PHP</a>5.4[36]</li>
 </ol></td>
 </tr>
 <tr class="even">
@@ -170,7 +171,7 @@ Code](https://zh.wikipedia.org/wiki/Google_Code "wikilink") 存档页面下载�
 <ol>
 <li>替换了 Markdown 解析引擎，保证预览与实际效果严格一致</li>
 <li>在升级之前加入了自动安全检查机制</li>
-<li>修正了一个时区的错误[36]</li>
+<li>修正了一个时区的错误[37]</li>
 </ol></td>
 </tr>
 </tbody>
@@ -180,7 +181,7 @@ Code](https://zh.wikipedia.org/wiki/Google_Code "wikilink") 存档页面下载�
 
 ### 衍生版本
 
-**[HPTypecho](https://zh.wikipedia.org/wiki/HPTypecho "wikilink")**：Typecho的高性能版本\[37\]
+**[HPTypecho](https://zh.wikipedia.org/wiki/HPTypecho "wikilink")**：Typecho的高性能版本\[38\]
 
 ## 外部链接
 
@@ -222,19 +223,19 @@ Code](https://zh.wikipedia.org/wiki/Google_Code "wikilink") 存档页面下载�
 14.
 
 15.
+
 16.
-
 17.
-18.
 
+18.
 19.
+
 20.
 21.
 22.
 23.
 24.
 25.
-
 26.
 
 27.
@@ -242,11 +243,11 @@ Code](https://zh.wikipedia.org/wiki/Google_Code "wikilink") 存档页面下载�
 28.
 
 29.
+
 30.
-
 31.
-32.
 
+32.
 33.
 
 34.
@@ -256,3 +257,5 @@ Code](https://zh.wikipedia.org/wiki/Google_Code "wikilink") 存档页面下载�
 36.
 
 37.
+
+38.

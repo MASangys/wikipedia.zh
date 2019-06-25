@@ -14,7 +14,8 @@
 
 ## 外部連結
 
-  - [Stains File](http://stainsfile.info/StainsFile/dyes/26125.htm)
+  - [Stains
+    File](https://web.archive.org/web/20131030010046/http://stainsfile.info/StainsFile/dyes/26125.htm)
     entry
 
 [Category:偶氮染料](https://zh.wikipedia.org/wiki/Category:偶氮染料 "wikilink")

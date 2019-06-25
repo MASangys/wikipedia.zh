@@ -26,6 +26,7 @@ Solutions和[IBM等都参与了该项目](../Page/IBM.md "wikilink")。
   - [BIRT Developer Center](http://developer.actuate.com)
 
 [Category:用Java編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用Java編程的自由軟體 "wikilink")
+[Category:商业智能](https://zh.wikipedia.org/wiki/Category:商业智能 "wikilink")
 
 1.
 2.

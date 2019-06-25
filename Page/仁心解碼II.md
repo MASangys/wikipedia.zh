@@ -52,7 +52,7 @@ Franco前女友<br />
 盧應奇、王世邦、陳思家、陸日勤、何年月之上司</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/馬國明" title="wikilink">馬國明</a></strong></p></td>
+<td><p><strong><a href="../Page/李成昌.md" title="wikilink">李成昌</a></strong></p></td>
 <td><p><strong>盧應奇</strong></p></td>
 <td><p><strong>Jonthan</strong><br />
 法醫精神科高級醫生<br />
@@ -317,7 +317,7 @@ Franco前女友<br />
 </tbody>
 </table>
 
-#### 蓋亞教（第2－6集）
+#### 蓋亞教（第2－5集）
 
 <table>
 <tbody>
@@ -596,10 +596,8 @@ Franco前女友<br />
 於第11集被曹啟超推下海而墮海身亡</p></td>
 </tr>
 <tr class="even">
-<td><p>|麥院長</p></td>
-<td><p>孌童者<br />
-孤兒院院長<br />
-十六年前因性侵犯曹啟超而被曹啟超推出窗外而墮樓身亡</p></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">

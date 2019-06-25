@@ -1169,7 +1169,7 @@ Flare」會讀作「Flare」、「Signal Mach」會讀作「Mach」等】
 
 ### 假面騎士Mach
 
-變身者：詩島剛（替身演員：、CV：稻葉友）
+變身者：詩島剛（替身演員：、CV：[稻葉友](https://zh.wikipedia.org/wiki/稻葉友 "wikilink")）
 
   -
     原文： / *Kamen Rider Mach*
@@ -4112,6 +4112,8 @@ Mach驅動炎按下「Boost Igniter」四次時音效則是「Imasugu！（原�
     Genesis](../Page/假面騎士×假面騎士_Ghost_&_Drive_超MOVIE大戰_Genesis.md "wikilink")》
   - 《[假面騎士平成Generations Dr.Pac-Man對EX-AID\&Ghost with
     傳說騎士](../Page/假面騎士平成Generations_Dr.Pac-Man對EX-AID&Ghost_with_傳說騎士.md "wikilink")》
+  - 《[劇場版 幪面超人ZI-O Over
+    Quartzer](https://zh.wikipedia.org/wiki/劇場版_幪面超人ZI-O_Over_Quartzer "wikilink")》
 
 ### 映像商品化
 

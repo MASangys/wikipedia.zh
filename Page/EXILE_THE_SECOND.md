@@ -473,8 +473,7 @@ EX FAMILY限定\! THE SECOND from EXILE "キックオフミーティング"\[14\
 
 ## 外部連結
 
-  - [EXILE THE
-    SECOND官方網站](https://web.archive.org/web/20121112045217/http://exile.jp/thesecond/)
+  - [EXILE THE SECOND官方網站](https://t-second.jp/)
 
   - [所屬事務所LDH官方中文團體簡介](http://www.ldh.co.jp/chh/artist/musician/the_second/)
 

@@ -43,6 +43,7 @@ brands」）策略，[授權他廠冠名生產](https://zh.wikipedia.org/wiki/�
 ## 外部連結
 
   - [Nakamichi Corporation](http://www.nakamichi.com/)
+  - [Nakamichi中文網頁](https://nakamichi-audio.com/)
   - [](https://web.archive.org/web/20141116085347/http://nakamichi.co.jp/)
   - [](http://niro-nakamichi.jp/)
   - [NIRO](http://www.niro1.com/jp/)

@@ -29,7 +29,7 @@ Lover**[歐陸舞曲Eurodance的曲風融合酷勁節奏與甜美輕快](https:/
 ### 2.愛我像從前一樣-[中天娛樂八點檔陸劇](https://zh.wikipedia.org/wiki/中天娛樂 "wikilink")《[雙城生活](https://zh.wikipedia.org/wiki/雙城生活 "wikilink")》片頭曲、[八大戲劇十點韓劇](../Page/八大綜合台.md "wikilink")《[擁抱太陽的月亮](../Page/擁抱太陽的月亮.md "wikilink")》片頭曲
 
   - 詞 : [鄭中庸](https://zh.wikipedia.org/wiki/鄭中庸 "wikilink")
-  - 曲 : [洪俊揚](https://zh.wikipedia.org/wiki/洪俊揚 "wikilink")
+  - 曲 : [洪俊揚](../Page/洪俊揚.md "wikilink")
 
 ### 3.熱帶氣旋
 

@@ -5,9 +5,9 @@ spread WIXOSS**》於2014年10月開始放映。劇場版《**Selector destructe
 WIXOSS**》於2016年8月24日放映。
 
 第三期《**[Lostorage incited
-WIXOSS](../Page/Lostorage_incited_WIXOSS.md "wikilink")**》於2016年10月開始放映；但第三期基本上是有著全新故事和主角，略有提及Selector的故事。第四期《**[Lostorage
+WIXOSS](../Page/Lostorage_incited_WIXOSS.md "wikilink")**》於2016年10月開始放映，有著全新故事和主角，略有提及Selector的故事。第四期《**[Lostorage
 conflated
-WIXOSS](https://zh.wikipedia.org/wiki/Lostorage_conflated_WIXOSS "wikilink")**》將於2018年4月開始放映，Selector故事中的主角也會再度登場。
+WIXOSS](https://zh.wikipedia.org/wiki/Lostorage_conflated_WIXOSS "wikilink")**》於2018年4月開始放映，Selector故事中的主角也會再度登場。
 
 ## 故事簡介
 

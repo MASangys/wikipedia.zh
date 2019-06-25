@@ -1,4 +1,4 @@
-IX級潛艇[納粹德國在](../Page/納粹德國.md "wikilink")[第二次世界大戰期間建造的遠洋](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")[柴電潛艇](https://zh.wikipedia.org/wiki/柴電潛艇 "wikilink")，這是和VII級潛艇是同時期的產品，但IX級潛艇更大，耐海性更佳，載燃料也更多從而可以去得更遠，IX級潛艇在[第二次世界大戰期間曾遠征美國領海](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")，印度洋和太平洋，IX級潛艇是由I級潛艇改良而來，不同於I級潛艇祇建造兩艘，IX級潛艇總共建造了200多艘，和VII級潛艇一樣是[納粹德國海軍的主力潛艇](../Page/納粹德國海軍.md "wikilink")，和VII級的單艇殼相比，IX級採用了雙艇殼，其水箱全都在雙殼結構之內，部份油箱也可設在外殼和壓力殼之間，不過和VII級相比IX級下潛時間要更慢一些。
+IX級潛艇[納粹德國在](../Page/納粹德國.md "wikilink")[第二次世界大戰期間建造的遠洋](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")[柴電潛艇](../Page/柴電潛艇.md "wikilink")，這是和VII級潛艇是同時期的產品，但IX級潛艇更大，耐海性更佳，載燃料也更多從而可以去得更遠，IX級潛艇在[第二次世界大戰期間曾遠征美國領海](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")，印度洋和太平洋，IX級潛艇是由I級潛艇改良而來，不同於I級潛艇祇建造兩艘，IX級潛艇總共建造了200多艘，和VII級潛艇一樣是[納粹德國海軍的主力潛艇](../Page/納粹德國海軍.md "wikilink")，和VII級的單艇殼相比，IX級採用了雙艇殼，其水箱全都在雙殼結構之內，部份油箱也可設在外殼和壓力殼之間，不過和VII級相比IX級下潛時間要更慢一些。
 
 ## UIX A
 

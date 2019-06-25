@@ -432,6 +432,7 @@ Polo」，父親也在首爾開了一間餐廳「Good World Seoul」。
 | 2016年10月14日 | Freal Luv           | Far East Movement x Marshmello ft. Chanyeol & Tinashe                     | 《identity》                                                           |
 | 2016年12月2日  | Stay With Me        | Chanyeol、[Punch](https://zh.wikipedia.org/wiki/Punch_\(韓國歌手\) "wikilink") | 《[孤單又燦爛的神－鬼怪](../Page/孤單又燦爛的神－鬼怪.md "wikilink")》OST Part.1           |
 | 2018年9月14日  | We Young            | Chanyeol、[Sehun](../Page/Sehun.md "wikilink")                             | 《[STATION X 0](../Page/SM_STATION.md "wikilink")》                    |
+| 2019年4月25日  | SSFW（春夏秋冬）          | Chanyeol                                                                  | 《[SM STATION第三季](../Page/SM_STATION.md "wikilink")》                  |
 
 ## 影音作品
 
@@ -458,6 +459,7 @@ Polo」，父親也在首爾開了一間餐廳「Good World Seoul」。
 | 2018年10月刊    | Vogue Korea\[37\]                       |                  |
 | 2019年3月刊     | W Korea                                 |                  |
 | 2019年4月刊     |                                         |                  |
+| 2019年7月刊     | 與Sehun、封面                               |                  |
 
 ## 獎項
 

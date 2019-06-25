@@ -14,20 +14,14 @@
 ## 參見條目
 
   - [西澤潤一](../Page/西澤潤一.md "wikilink")
-
   - [IEEE榮譽獎章](../Page/IEEE榮譽獎章.md "wikilink")
-
   - [IEEE愛迪生獎章](../Page/IEEE愛迪生獎章.md "wikilink")
-
   - [IEEE貝爾獎章](../Page/貝爾獎.md "wikilink")
-
   - [IEEE/RSE詹姆斯·克拉克·馬克士威獎章](https://zh.wikipedia.org/wiki/IEEE/RSE詹姆斯·克拉克·馬克士威獎章 "wikilink")
-
   - [IEEE約翰·馮·諾伊曼獎章](../Page/约翰·冯诺依曼奖.md "wikilink")
-
   - [IEEE理察·衛斯里·漢明獎章](../Page/IEEE理察·衛斯里·漢明獎章.md "wikilink")
+  - [IEEE電腦先鋒獎](https://zh.wikipedia.org/wiki/IEEE電腦先鋒獎 "wikilink")
 
-  -
 ## 參考資料
 
 ## 外部連結

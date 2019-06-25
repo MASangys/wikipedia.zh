@@ -442,7 +442,7 @@ vs 1（嘉賓）」形式主持，節目名稱改為。
 <tr class="odd">
 <td><p>79</p></td>
 <td><p>1月28日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李準基" title="wikilink">李準基</a></p></td>
+<td><p><a href="../Page/李準基.md" title="wikilink">李準基</a></p></td>
 </tr>
 <tr class="even">
 <td><p>80</p></td>

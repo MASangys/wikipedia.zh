@@ -34,7 +34,7 @@ rock](https://zh.wikipedia.org/wiki/Alternative_rock "wikilink")、[Grunge為主
 </tr>
 <tr class="even">
 <td><p>吉他</p></td>
-<td><p>林伯儒（頤原）</p></td>
+<td><p>林頤原（頤原）</p></td>
 <td></td>
 <td><p>鹿港</p></td>
 <td><p>2013年9月 加入，<a href="../Page/林哲熹.md" title="wikilink">林哲熹親哥哥</a></p></td>
@@ -77,18 +77,24 @@ rock](https://zh.wikipedia.org/wiki/Alternative_rock "wikilink")、[Grunge為主
     Matters Live；[韓國仁川音樂節](https://zh.wikipedia.org/wiki/韓國 "wikilink")。
   - 2015年：亞洲巡迴（[香港](../Page/香港.md "wikilink")、[中國](../Page/中國.md "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[日本](../Page/日本.md "wikilink").....等）、河岸留言《河岸聲現》with
     [放客兄弟](../Page/放客兄弟.md "wikilink")\[1\]。
-  - 2017年：[2017年夏季世界大學運動會閉幕式](https://zh.wikipedia.org/wiki/2017年夏季世界大學運動會 "wikilink")、嘉大狂人音樂祭、搖滾台中。
-  - 2018年：桃園鐵玫瑰熱音賞。
+  - 2016年：[SXSW美國南方音樂節](https://zh.wikipedia.org/wiki/SXSW "wikilink")、韓國[Pentaport
+    Rock音樂節](https://zh.wikipedia.org/wiki/Pentaport_Rock "wikilink")
+  - 2017年：[2017年夏季世界大學運動會閉幕式](https://zh.wikipedia.org/wiki/2017年夏季世界大學運動會 "wikilink")、嘉大狂人音樂祭、搖滾台中、泰國大山音樂節（[Big
+    Mountain Music
+    Festival](https://zh.wikipedia.org/wiki/Big_Mountain_Music_Festival "wikilink"))
+  - 2018年：桃園鐵玫瑰熱音賞、前往火星的班機/登機場 華山Legacy演唱會（Sold Out）
 
 ## 得獎記錄
 
-| 年份    | 獲提名    | 獎項            | 結果       |
-| ----- | ------ | ------------- | -------- |
-| 2012年 |        | ICRT樂團大競技     | 冠軍       |
-| 2012年 |        | 新時代盃全國原創之聲大獎賽 | 冠軍       |
-| 2013年 |        | 第十四屆貢寮國際海洋音樂祭 | 海洋音樂大賞得主 |
-| 2015年 | 「歸零」專輯 | 第26屆金曲獎最佳樂團獎  | 入圍       |
-| 2015年 | 「歸零」專輯 | 第6屆金音獎最佳現場演出獎 | 入圍       |
+| 年份    | 獲提名       | 獎項            | 結果       |
+| ----- | --------- | ------------- | -------- |
+| 2012年 |           | ICRT樂團大競技     | 冠軍       |
+| 2012年 |           | 新時代盃全國原創之聲大獎賽 | 冠軍       |
+| 2013年 |           | 第十四屆貢寮國際海洋音樂祭 | 海洋音樂大賞得主 |
+| 2015年 | 「歸零」專輯    | 第26屆金曲獎最佳樂團獎  | 入圍       |
+| 2015年 | 「歸零」專輯    | 第6屆金音獎最佳現場演出獎 | 入圍       |
+| 2018年 | 「11:11」專輯 | 第9屆金音獎最佳現場演出獎 | 入圍       |
+| 2018年 | 「11:11」專輯 | 全球華語金曲獎       | 入圍       |
 
 ## 音樂作品
 

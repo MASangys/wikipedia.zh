@@ -182,6 +182,15 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 </tr>
 <tr class="even">
 <td><p>18</p></td>
+<td><p><a href="../Page/阿斯達年代記.md" title="wikilink">阿斯達年代記</a></p></td>
+<td><p>4</p></td>
+<td><p>7.705%</p></td>
+<td><p>2019/06/09</p></td>
+<td><p>週末</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>19</p></td>
 <td><p><a href="../Page/我的大叔.md" title="wikilink">我的大叔</a></p></td>
 <td><p>16</p></td>
 <td><p>7.352%</p></td>
@@ -189,22 +198,13 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 <td><p>水木</p></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p>19</p></td>
+<tr class="even">
+<td><p>20</p></td>
 <td><p><a href="../Page/Oh_我的鬼神君.md" title="wikilink">Oh 我的鬼神君</a></p></td>
 <td><p>16</p></td>
 <td><p>7.337%</p></td>
 <td><p>2015/08/22</p></td>
 <td><p>金土</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>20</p></td>
-<td><p><a href="../Page/阿斯達年代記.md" title="wikilink">阿斯達年代記</a></p></td>
-<td><p>2</p></td>
-<td><p>7.310%</p></td>
-<td><p>2019/06/02</p></td>
-<td><p>週末</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -598,7 +598,7 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 </tr>
 <tr class="even">
 <td><p>2019年1月7日</p></td>
-<td><p>播放中</p></td>
+<td><p>2019年6月10日</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1117,9 +1117,9 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Seoul_Mate_3" title="wikilink">Seoul Mate 3</a></p></td>
+<td><p><a href="../Page/Seoul_Mate_3.md" title="wikilink">Seoul Mate 3</a></p></td>
 <td><p>2019年7月1日</p></td>
-<td></td>
+<td><p>播放中</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1138,7 +1138,7 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 <td><p>真人實境秀</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/更窮遊豪華團" title="wikilink">更窮遊豪華團</a></p></td>
+<td><p><a href="../Page/更窮遊豪華團.md" title="wikilink">更窮遊豪華團</a></p></td>
 <td><p>2019年6月17日</p></td>
 <td><p>播放中</p></td>
 <td></td>
@@ -1167,7 +1167,7 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 <td><p>真人實境秀</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/姜食堂_(第二季)" title="wikilink">姜食堂2</a><br />
+<td><p><a href="../Page/姜食堂_(第二季).md" title="wikilink">姜食堂2</a><br />
 （新西遊記外傳）</p></td>
 <td><p>2019年5月31日</p></td>
 <td><p>播放中</p></td>
@@ -1353,7 +1353,7 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 <td><p>真人實境秀</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/守美的拌菜.md" title="wikilink">守美的拌菜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/守美的飯饌" title="wikilink">守美的飯饌</a></p></td>
 <td><p>2018年6月6日</p></td>
 <td><p>播放中</p></td>
 <td><p>1</p></td>
@@ -1375,7 +1375,7 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 </tr>
 <tr class="even">
 <td><p>2019年4月1日</p></td>
-<td><p>播放中</p></td>
+<td><p>2019年6月24日</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1397,7 +1397,7 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/大逃出2" title="wikilink">大逃出2</a></p></td>
 <td><p>2019年3月17日</p></td>
-<td><p>2019年6月2日</p></td>
+<td><p>2019年6月9日</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1438,7 +1438,7 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 </tr>
 <tr class="odd">
 <td><p>2019年5月3日</p></td>
-<td><p>播放中</p></td>
+<td><p>2019年6月21日</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1601,14 +1601,14 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 <tr class="even">
 <td><p><a href="http://program.m.tving.com/tvn/thoughtofchildren/">孩子的想法</a></p></td>
 <td><p>2019年4月9日</p></td>
-<td><p>播放中</p></td>
+<td><p>2019年6月4日</p></td>
 <td><p>1</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/工作室_(韓國綜藝).md" title="wikilink">工作室</a></p></td>
 <td><p>2019年5月1日</p></td>
-<td><p>播放中</p></td>
+<td><p>2019年6月19日</p></td>
 <td><p>1</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
@@ -1620,7 +1620,7 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 <td><p>時事教養</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/孫Sational-打造他的時間" title="wikilink">孫Sational-打造他的時間</a></p></td>
+<td><p><a href="../Page/孫Sational-打造他的時間.md" title="wikilink">孫Sational-打造他的時間</a></p></td>
 <td><p>2019年5月25日</p></td>
 <td><p>播放中</p></td>
 <td><p>1</p></td>
@@ -1634,14 +1634,14 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 <td><p>美食節目</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/豐盛的餐桌" title="wikilink">豐盛的餐桌</a></p></td>
+<td><p><a href="../Page/豐盛的餐桌.md" title="wikilink">豐盛的餐桌</a></p></td>
 <td><p>2019年6月11日</p></td>
 <td><p>播放中</p></td>
 <td><p>1</p></td>
 <td><p>美食節目</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Super_Hearer" title="wikilink">Super Hearer</a></p></td>
+<td><p><a href="../Page/Super_Hearer.md" title="wikilink">Super Hearer</a></p></td>
 <td><p>2019年6月16日</p></td>
 <td><p>播放中</p></td>
 <td><p>1</p></td>
@@ -1841,7 +1841,7 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 </tr>
 <tr class="even">
 <td><p>18</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/姜食堂_(第二季)" title="wikilink">姜食堂</a><br />
+<td><p><a href="../Page/姜食堂_(第二季).md" title="wikilink">姜食堂</a><br />
 第二季<br />
 (<a href="../Page/新西遊記.md" title="wikilink">新西遊記外傳</a>)</p></td>
 <td><p>1</p></td>
@@ -1896,7 +1896,7 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 
 ## 參考資料
 
-## 外部链接
+## 外部連結
 
   -
 

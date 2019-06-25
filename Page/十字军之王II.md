@@ -1,20 +1,20 @@
 是由[Paradox Development
 Studio开发](../Page/Paradox_Development_Studio.md "wikilink")，[Paradox
-Interactive发行的一款以](../Page/Paradox_Interactive.md "wikilink")[中世纪中期至](https://zh.wikipedia.org/wiki/中世纪中期 "wikilink")[后期为背景的大型](https://zh.wikipedia.org/wiki/中世纪后期 "wikilink")[战略游戏](https://zh.wikipedia.org/wiki/战略游戏 "wikilink")，是《[十字军之王](../Page/十字军之王.md "wikilink")》的续作。这款游戏的[Windows版本在](https://zh.wikipedia.org/wiki/Windows "wikilink")2012年2月14日发布\[1\]，[OS
-X版本则于](https://zh.wikipedia.org/wiki/OS_X "wikilink")5月24日发布，而[Linux版本于](../Page/Linux.md "wikilink")2013年1月14日发布\[2\]。
-十字军之王II销量逾一百万份，是[欧陆风云IV发行前Paradox最为畅销的游戏](https://zh.wikipedia.org/wiki/欧陆风云IV "wikilink")\[3\]。
+Interactive发行的一款以](../Page/Paradox_Interactive.md "wikilink")[中世纪中期至](https://zh.wikipedia.org/wiki/中世纪中期 "wikilink")[后期为背景的大型](https://zh.wikipedia.org/wiki/中世纪后期 "wikilink")[战略游戏](https://zh.wikipedia.org/wiki/战略游戏 "wikilink")，是《[十字军之王](../Page/十字军之王.md "wikilink")》的续作。这款游戏的[Windows版本在](https://zh.wikipedia.org/wiki/Windows "wikilink")2012年2月14日发布，[OS
+X版本则于](https://zh.wikipedia.org/wiki/OS_X "wikilink")5月24日发布，而[Linux版本于](../Page/Linux.md "wikilink")2013年1月14日发布\[1\]。
+《十字军之王II》销量逾一百万份，是《[欧陆风云IV](https://zh.wikipedia.org/wiki/欧陆风云IV "wikilink")》发行前Paradox最为畅销的游戏\[2\]。
 
 ## 游戏性
 
 在游戏中，玩家可以[模拟扮演](https://zh.wikipedia.org/wiki/模拟 "wikilink")769年至1453年间的中世纪[王朝](https://zh.wikipedia.org/wiki/王朝 "wikilink")/共和国统治者，玩家可以挑选任意一个拥有伯爵领及以上领地的统治者进行游戏。
 
-《十字军之王II》采用了遗传、教育系统，未成年人可能继承父母或监护人的大多相貌特征、文化、宗教和能力，这一特点也为游戏内子嗣后裔的抚育和培养增加了变数\[4\]。
+《十字军之王II》采用了遗传、教育系统，未成年人可能继承父母或监护人的大多相貌特征、文化、宗教和能力，这一特点也为游戏内子嗣后裔的抚育和培养增加了变数\[3\]。
 
-通过战争、婚姻、暗杀等纷繁复杂的战略手段，玩家可在游戏内达成所选家族的胜利，游戏模拟的结局是开放性的，由玩家自行定义最终“胜利”的条件\[5\]。
+通过战争、婚姻、暗杀等纷繁复杂的战略手段，玩家可在游戏内达成所选家族的胜利，游戏模拟的结局是开放性的，由玩家自行定义最终“胜利”的条件\[4\]。
 
 ## 发布与评价
 
-2012年2月4日，一个有四个可选人物，时间跨度为20年的游戏demo发布\[6\]，游戏的营销视频是以[七宗罪为概念的几段喜剧短片](https://zh.wikipedia.org/wiki/七宗罪 "wikilink")。
+2012年2月4日，一个有四个可选人物，时间跨度为20年的游戏demo发布\[5\]，游戏的营销视频是以[七宗罪为概念的几段喜剧短片](https://zh.wikipedia.org/wiki/七宗罪 "wikilink")。\[6\]
 
 其后，《十字军之王II》总体上收到了积极的评价，[Metacritic网站给出了](../Page/Metacritic.md "wikilink")82分\[7\]；The
 Digital
@@ -169,8 +169,9 @@ DLC包括下列內容：\[11\]\[12\]
 
 ## 外部链接
 
-  - [官方網站](http://www.crusaderkings.com/)
-  - [Crusader Kings II Wiki](http://www.ckiiwiki.com)
+  -
+  - [Crusader Kings II 官方Wiki](https://ck2.paradoxwikis.com/)
+
   - [王国风云2中文百科](https://ck2.parawikis.com)
 
 [Category:2010年电子游戏](https://zh.wikipedia.org/wiki/Category:2010年电子游戏 "wikilink")
@@ -188,6 +189,7 @@ DLC包括下列內容：\[11\]\[12\]
 [Category:跨時代遊戲](https://zh.wikipedia.org/wiki/Category:跨時代遊戲 "wikilink")
 
 1.
+
 2.
 
 3.
@@ -196,7 +198,7 @@ DLC包括下列內容：\[11\]\[12\]
 
 5.
 
-6.  <http://www.fileplanet.com/224596/download/Crusader-Kings-II-Demo>
+6.
 
 7.
 8.

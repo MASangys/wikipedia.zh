@@ -1,6 +1,6 @@
 **JAK激酶**（，缩写**JAK**）是一个细胞内非受体[酪氨酸激酶家族](https://zh.wikipedia.org/wiki/酪氨酸激酶 "wikilink")，介导[细胞因子产生的信号](../Page/细胞因子.md "wikilink")，并通过[JAK-STAT信号通路传递下去](../Page/JAK-STAT信号通路.md "wikilink")。它们最初被命名为1和2（因为这只是基于PCR的筛选发现的大量激酶中的两个\[1\]）但最后发表为“”。“Janus”这个名字起自[罗马神话中代表开始与结束的两面神](../Page/罗马神话.md "wikilink")[雅努斯](https://zh.wikipedia.org/wiki/雅努斯 "wikilink")，因为JAK激酶具有两个几乎一样的转移磷酸基团的结构域。其中一个结构域表现出激酶活性，而另一个结构域调控第一个激酶的活性。
 
-[Signal_transduction_pathways.svg](https://zh.wikipedia.org/wiki/File:Signal_transduction_pathways.svg "fig:Signal_transduction_pathways.svg")中涉及的信号转导概览\]\]
+[Signal_transduction_pathways_(zh-cn).svg](https://zh.wikipedia.org/wiki/File:Signal_transduction_pathways_\(zh-cn\).svg "fig:Signal_transduction_pathways_(zh-cn).svg")中涉及的信号转导概览\]\]
 
 ## JAK激酶家族
 

@@ -41,7 +41,7 @@ FS歌唱實力堅強，其中《分開以後》、《可不可以你也剛好喜
 <ul>
 <li>發行日期：2012年12月29日</li>
 <li>語言：國語</li>
-<li>唱片公司：<a href="https://zh.wikipedia.org/wiki/海螺音樂" title="wikilink">海螺音樂</a></li>
+<li>唱片公司：<a href="../Page/海螺音樂.md" title="wikilink">海螺音樂</a></li>
 </ul></td>
 <td style="text-align: left;"><ol>
 <li>前奏 Intro</li>

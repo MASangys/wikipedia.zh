@@ -1,5 +1,5 @@
 ****
-是一家位於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[洛杉矶谢尔曼奥克斯市的](../Page/洛杉矶.md "wikilink")[電子遊戲開發商](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")，公司成立於2010年，由開發了知名[第一人稱射擊遊戲](https://zh.wikipedia.org/wiki/第一人稱射擊遊戲 "wikilink")《[使命召喚](https://zh.wikipedia.org/wiki/使命召喚系列 "wikilink")》系列的
+（中国大陆译为“重生娱乐”）是一家位於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[洛杉矶谢尔曼奥克斯市的](../Page/洛杉矶.md "wikilink")[電子遊戲開發商](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")，公司成立於2010年，由開發了知名[第一人稱射擊遊戲](https://zh.wikipedia.org/wiki/第一人稱射擊遊戲 "wikilink")《[使命召喚](https://zh.wikipedia.org/wiki/使命召喚系列 "wikilink")》系列的
 [Infinity Ward](../Page/Infinity_Ward.md "wikilink") 工作室的兩位共同創辦人Jason
 West、Vince
 Zampella及一些前員工組成。\[1\]公司于2017年被[EA收购](https://zh.wikipedia.org/wiki/EA "wikilink")。\[2\]

@@ -1,4 +1,4 @@
-《**初戀**》是[楊采妮的第二張個人](https://zh.wikipedia.org/wiki/楊采妮 "wikilink")[音樂專輯](../Page/音樂專輯.md "wikilink")，於1994年4月推出。唱片刻意設計成信封形狀，而碟內歌曲則是送給她的初戀。
+《**初戀**》是[楊采妮的第二張個人](https://zh.wikipedia.org/wiki/楊采妮 "wikilink")[音樂專輯](../Page/音樂專輯.md "wikilink")，也是她的唯一一張EP，於1994年4月推出。唱片刻意設計成信封形狀，而碟內歌曲則是送給她的初戀。
 
 ## 曲目
 

@@ -34,7 +34,7 @@ Brothers的主唱](https://zh.wikipedia.org/wiki/三代目J_Soul_Brothers "wikil
   - 金霸（金パ）：[山田裕貴](../Page/山田裕貴.md "wikilink")
   - 赤根隊長（）：[野替愁平](../Page/野替愁平.md "wikilink")
   - No.2 永山：[遠藤雄弥](https://zh.wikipedia.org/wiki/遠藤雄弥 "wikilink")
-  - 姥姥先生（）：
+  - 姥姥先生（）：[鷲尾真知子](../Page/鷲尾真知子.md "wikilink")
   - 醫生：
   - 高津：
 
@@ -70,7 +70,8 @@ Brothers的主唱](https://zh.wikipedia.org/wiki/三代目J_Soul_Brothers "wikil
 [Category:日本漫畫改編真人電影](https://zh.wikipedia.org/wiki/Category:日本漫畫改編真人電影 "wikilink")
 [Category:日本電視台製作的電影](https://zh.wikipedia.org/wiki/Category:日本電視台製作的電影 "wikilink")
 [Category:讀賣電視台製作的電影](https://zh.wikipedia.org/wiki/Category:讀賣電視台製作的電影 "wikilink")
-[Category:機車題材作品](https://zh.wikipedia.org/wiki/Category:機車題材作品 "wikilink")
+[Category:暴走族题材作品](https://zh.wikipedia.org/wiki/Category:暴走族题材作品 "wikilink")
+[Category:机车题材电影](https://zh.wikipedia.org/wiki/Category:机车题材电影 "wikilink")
 [Category:神奈川縣湘南背景電影](https://zh.wikipedia.org/wiki/Category:神奈川縣湘南背景電影 "wikilink")
 [Category:日本青春電影](https://zh.wikipedia.org/wiki/Category:日本青春電影 "wikilink")
 [Category:不良少年及少女主角題材電影](https://zh.wikipedia.org/wiki/Category:不良少年及少女主角題材電影 "wikilink")

@@ -1,4 +1,4 @@
-**MBC晨間連續劇**（），亦稱**MBC日日晨間劇**，[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC電視台每逢週一至週五晨間播放的](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")[電視連續劇系列](https://zh.wikipedia.org/wiki/電視連續劇 "wikilink")，創立於1981年5月25日，播出37年直至2018年4月26日廢止。2018年4月30日起，該時段改為重播[MBC日日連續劇](../Page/MBC日日連續劇.md "wikilink")。
+**MBC晨間連續劇**（），亦稱**MBC日日晨間劇**，[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC電視台每逢週一至週五晨間播放的](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")[電視連續劇系列](https://zh.wikipedia.org/wiki/電視連續劇 "wikilink")，創立於1981年5月25日，播出37年直至2018年4月26日廢止。2018年4月30日起，此時段改為重播[日日連續劇時段的劇集](../Page/MBC日日連續劇.md "wikilink")。2019年7月15日起，將重啟此時段。
 
 ## 播映時間
 

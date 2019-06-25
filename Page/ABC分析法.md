@@ -116,7 +116,7 @@ ABC类型分配
 
 [Category:商业术语](https://zh.wikipedia.org/wiki/Category:商业术语 "wikilink")
 [Category:供应链管理术语](https://zh.wikipedia.org/wiki/Category:供应链管理术语 "wikilink")
-[Category:商业情报](https://zh.wikipedia.org/wiki/Category:商业情报 "wikilink")
+[Category:商业智能](https://zh.wikipedia.org/wiki/Category:商业智能 "wikilink")
 [Category:金融分析](https://zh.wikipedia.org/wiki/Category:金融分析 "wikilink")
 [Category:库存](https://zh.wikipedia.org/wiki/Category:库存 "wikilink")
 [Category:后勤](https://zh.wikipedia.org/wiki/Category:后勤 "wikilink")

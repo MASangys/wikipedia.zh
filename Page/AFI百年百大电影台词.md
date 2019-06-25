@@ -646,7 +646,7 @@ What we've got here is failure to communicate."</p></td>
 "They're here!"</p></td>
 <td><p>卡蘿·安娜·費林</p></td>
 <td><p><a href="../Page/海瑟·歐羅克.md" title="wikilink">海瑟·歐羅克</a></p></td>
-<td><p>《》</p></td>
+<td><p>《<a href="../Page/鬼哭神號.md" title="wikilink">鬼哭神號</a>》</p></td>
 <td><p>1982年</p></td>
 </tr>
 <tr class="even">

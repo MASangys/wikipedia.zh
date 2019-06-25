@@ -33,7 +33,7 @@ Grotzinger）是[加州理工学院的一名](https://zh.wikipedia.org/wiki/加�
 [Category:加州理工学院教师](https://zh.wikipedia.org/wiki/Category:加州理工学院教师 "wikilink")
 [Category:美国国家科学院院士](https://zh.wikipedia.org/wiki/Category:美国国家科学院院士 "wikilink")
 
-1.  <http://www.gps.caltech.edu/people/grotz/profile>
+1.
 
 2.  <http://zipcodemars.jpl.nasa.gov/bio-contribution-missions.cfm?bid=162&cid=157&pid=158&page=&country_id=0&state_id=0>
 

@@ -487,6 +487,13 @@ LACA-35561<br />
 10．Scribble, and Beyond<br />
 11．Million from Codex </p></td>
 </tr>
+<tr class="odd">
+<td><p>6th</p></td>
+<td><p>2019年7月31日</p></td>
+<td><p><strong>LADDERLESS</strong></p></td>
+<td><p>LACA-35785</p></td>
+<td><p>LACA-15785</p></td>
+</tr>
 </tbody>
 </table>
 

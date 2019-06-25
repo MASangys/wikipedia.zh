@@ -356,7 +356,7 @@ Art's系等大阪的游戏公司作品配音](../Page/Visual_Art's.md "wikilink"
 
 ## 外部链接
 
-  - [个人网站](http://www.geocities.jp/chisato_chirps/)
+  - [个人网站](https://web.archive.org/web/20130306011747/http://www.geocities.jp/chisato_chirps/)
   - [- C h i f f o n-](http://cure.product.co.jp/chiffon/) -
     和理多的音乐组合“”的官方网站
 

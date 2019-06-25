@@ -2,7 +2,7 @@
 
 ## 來歷
 
-ONE從大學就讀期間開始在自己的個人網站發表網路漫畫。2009年7月，為了練習學會使用一個漫畫原稿電腦軟體程式[ComicStudio](../Page/ComicStudio.md "wikilink")，開始在出版社[新都社發表短篇版的](https://zh.wikipedia.org/wiki/新都社 "wikilink")《[一拳超人](https://zh.wikipedia.org/wiki/一拳超人 "wikilink")》。在那之後，於2009年7月3日上傳至他的個人網頁（FC2）並不定期更新。雖然ONE的畫功粗糙，但由於幽默的設定和相當精彩故事，因此於日本網路大熱。2019年4月，《一拳超人》官網累計瀏覽人次1.24億人上，並曾錄得平均1日10萬次的最高點閱率\[3\]。
+ONE從大學就讀期間開始在自己的個人網站發表網路漫畫。2009年7月，為了練習學會使用一個漫畫原稿電腦軟體程式[ComicStudio](../Page/ComicStudio.md "wikilink")，開始在出版社[新都社發表短篇版的](https://zh.wikipedia.org/wiki/新都社 "wikilink")《[一拳超人](../Page/一拳超人.md "wikilink")》。在那之後，於2009年7月3日上傳至他的個人網頁（FC2）並不定期更新。雖然ONE的畫功粗糙，但由於幽默的設定和相當精彩故事，因此於日本網路大熱。2019年4月，《一拳超人》官網累計瀏覽人次1.24億人上，並曾錄得平均1日10萬次的最高點閱率\[3\]。
 
 2012年4月，開始在[小學館的網路漫畫雜誌](../Page/小學館.md "wikilink")《》連載《[路人超能100](../Page/路人超能100.md "wikilink")》。正式在漫畫業界出道。
 
@@ -16,7 +16,7 @@ Jump](../Page/週刊YOUNG_JUMP.md "wikilink")》連載《》。同時ONE又與�
 
 ### 連載
 
-  - [一拳超人](https://zh.wikipedia.org/wiki/一拳超人 "wikilink")《》（2009年－連載中）
+  - [一拳超人](../Page/一拳超人.md "wikilink")《》（2009年－連載中）
 
       - 一拳超人
         -重製版-《》（作畫：[村田雄介](../Page/村田雄介.md "wikilink")，[集英社](../Page/集英社.md "wikilink")《[隔壁的Young
@@ -52,7 +52,7 @@ Jump](../Page/週刊YOUNG_JUMP.md "wikilink")》連載《》。同時ONE又與�
 ### 動畫
 
   - [路人超能100](../Page/路人超能100.md "wikilink")（2016年，第12話原畫）
-  - [一拳超人](https://zh.wikipedia.org/wiki/一拳超人 "wikilink")
+  - [一拳超人](../Page/一拳超人.md "wikilink")
 
 ## 資料來源
 

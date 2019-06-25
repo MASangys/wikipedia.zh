@@ -43,8 +43,7 @@
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/人渣的本願" title="wikilink">人渣的本願</a></p></td>
 <td><p>1月12日－3月30日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/宮本正悟" title="wikilink">宮本正悟</a><br />
-<a href="https://zh.wikipedia.org/wiki/品田俊介" title="wikilink">品田俊介</a></p></td>
+<td><p>安藤正臣</p></td>
 <td><p>漫畫</p></td>
 <td><p>橫槍萌果原創漫畫</p></td>
 </tr>

@@ -14,8 +14,8 @@ Entertainment**（）是[韓國一間](https://zh.wikipedia.org/wiki/韓國 "wik
 <td><p>成員</p></td>
 <td><p>隊長</p></td>
 <td><p>狀況</p></td>
-<td><p>官方粉絲名</p></td>
-<td><p>官方應援色</p></td>
+<td><p>所屬團體 / 個人官方粉絲名</p></td>
+<td><p>所屬團體 / 個人官方應援色</p></td>
 </tr>
 <tr class="even">
 <td><p>2010年6月9日</p></td>
@@ -71,8 +71,8 @@ Entertainment**（）是[韓國一間](https://zh.wikipedia.org/wiki/韓國 "wik
 <td><p>成員</p></td>
 <td><p>隊長</p></td>
 <td><p>狀況</p></td>
-<td><p>官方粉絲名</p></td>
-<td><p>官方應援色</p></td>
+<td><p>所屬團體 / 個人官方粉絲名</p></td>
+<td><p>所屬團體 / 個人官方應援色</p></td>
 </tr>
 <tr class="even">
 <td><p>2014年3月10日</p></td>
@@ -124,12 +124,12 @@ Entertainment**（）是[韓國一間](https://zh.wikipedia.org/wiki/韓國 "wik
 <table>
 <tbody>
 <tr class="odd">
-<td><p>年份</p></td>
-<td><p>出道年份</p></td>
+<td><p>個人出道年份</p></td>
+<td><p>團體出道年份</p></td>
 <td><p>姓名</p></td>
 <td><p>性別</p></td>
-<td><p>官方粉絲名</p></td>
-<td><p>官方應援色</p></td>
+<td><p>所屬團體 / 個人官方粉絲名</p></td>
+<td><p>所屬團體 / 個人官方應援色</p></td>
 </tr>
 <tr class="even">
 <td><p>2011年11月22日</p></td>
@@ -247,10 +247,11 @@ Entertainment**（）是[韓國一間](https://zh.wikipedia.org/wiki/韓國 "wik
 
 ### 男練習生
 
-  - 車俊昊（[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）
+  - [車俊昊](../Page/車俊昊.md "wikilink")（[PRODUCE X
+    101](../Page/PRODUCE_X_101.md "wikilink")）
   - 金東玧（[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）
   - 黃允盛（[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）
-  - 朱昌玉（[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）
+  - 朱昌旭（[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）
   - 金敏緒（[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）
   - 文俊浩（[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）
 

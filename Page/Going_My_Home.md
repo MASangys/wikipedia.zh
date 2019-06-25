@@ -206,7 +206,7 @@ UNION](https://zh.wikipedia.org/wiki/TVMAN_UNION "wikilink")（）共同製作�
 </table>
 
   - 10月19日，由於轉播足球國際友誼賽
-    [日本代表](https://zh.wikipedia.org/wiki/日本國家足球隊 "wikilink")×[巴西代表足球賽](https://zh.wikipedia.org/wiki/巴西國家足球隊 "wikilink")，暫停播出一次。
+    [日本代表](https://zh.wikipedia.org/wiki/日本國家足球隊 "wikilink")×[巴西代表足球賽](../Page/巴西國家足球隊.md "wikilink")，暫停播出一次。
 
 ## 參考資料
 

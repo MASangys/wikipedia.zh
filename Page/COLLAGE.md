@@ -21,7 +21,7 @@ Media](../Page/NH_Media.md "wikilink")。
         [秀鉉](https://zh.wikipedia.org/wiki/申秀鉉 "wikilink")、[Hoon主唱](https://zh.wikipedia.org/wiki/呂訓民 "wikilink")
 7.  **My Reason**
       -
-        [Kevin主唱](https://zh.wikipedia.org/wiki/禹成賢 "wikilink")
+        [Kevin主唱](../Page/禹成賢.md "wikilink")
 8.  **Party All The Time**
       -
         [ELI](https://zh.wikipedia.org/wiki/金炅才 "wikilink")、[AJ主唱](https://zh.wikipedia.org/wiki/金材燮 "wikilink")

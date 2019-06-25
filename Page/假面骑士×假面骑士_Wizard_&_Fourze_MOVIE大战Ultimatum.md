@@ -15,6 +15,10 @@ Time、開幕！」、「Wizard、向未來的約定。Fourze、5年前的約定
 Fourze & OOO Movie大戰 Mega
 Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wikilink")》中登場的假面騎士Nadeshiko亦會回歸。
 
+根据本作Fourze篇结尾与后续剧场版剧情，可以猜测Fourze篇实际发生在《[假面騎士平成Generations FINAL Build &
+EX-AID with
+傳說騎士](../Page/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士.md "wikilink")》之后。
+
 ## 故事概要
 
 **序幕**

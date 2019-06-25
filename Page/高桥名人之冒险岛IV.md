@@ -1,6 +1,5 @@
 《**高橋名人之冒險島IV**》（）是[Hudson
-Soft在](../Page/Hudson_Soft.md "wikilink")1994年6月24日發售的[Family
-Computer](https://zh.wikipedia.org/wiki/Family_Computer "wikilink")[横向卷轴](https://zh.wikipedia.org/wiki/横向卷轴 "wikilink")[平台類型遊戲](https://zh.wikipedia.org/wiki/平台遊戲 "wikilink")。\[1\]\[2\][高橋名人之冒險島系列在的第四部作品也是在FC上的最後作品](https://zh.wikipedia.org/wiki/高橋名人之冒險島系列 "wikilink")。後來在2006年1月19日發售的[Game
+Soft在](../Page/Hudson_Soft.md "wikilink")1994年6月24日發行在[紅白機的](https://zh.wikipedia.org/wiki/紅白機 "wikilink")[横向卷轴](https://zh.wikipedia.org/wiki/横向卷轴 "wikilink")[平台類型遊戲](https://zh.wikipedia.org/wiki/平台遊戲 "wikilink")。\[1\]\[2\]這是[高橋名人之冒險島系列的第四部作品也是系列在](https://zh.wikipedia.org/wiki/高橋名人之冒險島系列 "wikilink")[紅白機發行的最後一款作品](https://zh.wikipedia.org/wiki/紅白機 "wikilink")（同時是日本地區紅白機上最後一款遊戲）。後來在2006年1月19日發售的[Game
 Boy
 Advance遊戲](../Page/Game_Boy_Advance.md "wikilink")《**冒險島合集**》也有收錄本作。\[3\]在遊戲系統上和前三作相比有很大的不同改變。
 

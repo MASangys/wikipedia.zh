@@ -126,60 +126,34 @@
 <td><p><strong>備註</strong></p></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><center>
-<p><strong>主題曲 日語</strong></p></td>
-<td><center>
-<p>《<a href="https://zh.wikipedia.org/wiki/向日葵的約定" title="wikilink">向日葵的約定</a>》<br />
+<td><p><strong>主題曲 日語</strong></p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/向日葵的約定" title="wikilink">向日葵的約定</a>》<br />
 （）</p></td>
-<td><center>
-<p><a href="../Page/秦基博.md" title="wikilink">秦基博</a></p></td>
-<td><center>
-<p><a href="../Page/秦基博.md" title="wikilink">秦基博</a></p></td>
-<td><center>
-<p><a href="../Page/秦基博.md" title="wikilink">秦基博</a>、皆川真人</p></td>
-<td><center>
-<p><a href="../Page/秦基博.md" title="wikilink">秦基博</a></p></td>
-<td><center>
-<p>日本創作歌手</p></td>
-</tr>
-<tr class="even">
-<td><center>
-<p><strong>主題曲 英語</strong></p></td>
-<td><center>
-<p>《Stand By Me》</p></td>
-<td></td>
-<td><center></td>
-<td></td>
-<td><center></td>
-<td><center>
-<p>西班牙樂團</p></td>
+<td><p><a href="../Page/秦基博.md" title="wikilink">秦基博</a></p></td>
+<td><p><a href="../Page/秦基博.md" title="wikilink">秦基博</a></p></td>
+<td><p><a href="../Page/秦基博.md" title="wikilink">秦基博</a>、皆川真人</p></td>
+<td><p><a href="../Page/秦基博.md" title="wikilink">秦基博</a></p></td>
+<td><p>日本創作歌手</p></td>
 </tr>
 <tr class="odd">
-<td><center>
-<p><strong>主題曲 國語</strong></p></td>
-<td><center>
-<p>《向日葵的約定》</p></td>
-<td><center>
-<p><a href="../Page/王雅君.md" title="wikilink">王雅君</a></p></td>
-<td><center>
-<p><a href="../Page/秦基博.md" title="wikilink">秦基博</a></p></td>
+<td><p><strong>主題曲 英語</strong></p></td>
+<td><p>《Stand By Me》</p></td>
 <td></td>
-<td><p>|</p>
-<center>
-<p><a href="https://zh.wikipedia.org/wiki/金貴晟" title="wikilink">金貴晟</a></p></td>
-<td><center>
-<p>中國歌手，在<a href="../Page/中国大陆.md" title="wikilink">中国大陆使用</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>西班牙樂團</p></td>
 </tr>
 <tr class="even">
+<td><p><strong>主題曲 國語</strong></p></td>
+<td><p>《向日葵的約定》</p></td>
+<td><p><a href="../Page/王雅君.md" title="wikilink">王雅君</a></p></td>
+<td><p><a href="../Page/秦基博.md" title="wikilink">秦基博</a></p></td>
+<td></td>
+<td><p>|<a href="https://zh.wikipedia.org/wiki/金貴晟" title="wikilink">金貴晟</a></p></td>
+<td><p>中國歌手，<a href="../Page/中国大陆.md" title="wikilink">中国大陆引进方官方授权</a>，仅作为宣传，未在电影院版本播出。</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>

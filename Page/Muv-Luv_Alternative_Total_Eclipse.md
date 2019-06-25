@@ -299,7 +299,7 @@ KIM YONG-SIK</p></td>
 <td><p>第九話</p></td>
 <td></td>
 <td><p>落涙</p></td>
-<td><p>青島崇</p></td>
+<td><p><a href="../Page/青島崇.md" title="wikilink">青島崇</a></p></td>
 <td><p>小寺勝之<br />
 福田道生</p></td>
 <td><p>徐恵眞</p></td>
@@ -368,7 +368,7 @@ KIM YONG-SIK</p></td>
 <td><p>第十五話</p></td>
 <td></td>
 <td><p>緊追不捨的十字架</p></td>
-<td><p>青島崇</p></td>
+<td><p><a href="../Page/青島崇.md" title="wikilink">青島崇</a></p></td>
 <td><p>安田賢司</p></td>
 <td><p>笹原嘉文</p></td>
 <td><p>飯飼一幸、八木元喜<br />
@@ -379,7 +379,7 @@ KIM YONG-SIK</p></td>
 <td><p>第十六話</p></td>
 <td></td>
 <td><p>蒼白的火焰</p></td>
-<td><p>千葉克彦</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/千葉克彦" title="wikilink">千葉克彦</a></p></td>
 <td><p>安田賢司<br />
 水本葉月</p></td>
 <td><p>筑紫大介</p></td>
@@ -414,9 +414,9 @@ HEO GIDONG</p></td>
 <td><p>第十九話</p></td>
 <td></td>
 <td><p>深綠</p></td>
-<td><p>青島崇</p></td>
+<td><p><a href="../Page/青島崇.md" title="wikilink">青島崇</a></p></td>
 <td><p>福田道生</p></td>
-<td><p>前園文夫</p></td>
+<td><p><a href="../Page/前園文夫.md" title="wikilink">前園文夫</a></p></td>
 <td><p>栗原基彥、小澤圓<br />
 前澤弘美、森悦史<br />
 水上ろんど、內田孝</p></td>
@@ -440,7 +440,7 @@ HEO GIDONG</p></td>
 <td><p>第二十一話</p></td>
 <td></td>
 <td><p>崩裂的未來</p></td>
-<td><p>千葉克彥</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/千葉克彦" title="wikilink">千葉克彦</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/和田高明" title="wikilink">和田高明</a><br />
 吉川浩司</p></td>
 <td><p>井端義秀<br />
@@ -454,7 +454,7 @@ HEO GIDONG</p></td>
 <td><p>第二十二話</p></td>
 <td></td>
 <td><p>無垢的報復</p></td>
-<td><p>青島崇</p></td>
+<td><p><a href="../Page/青島崇.md" title="wikilink">青島崇</a></p></td>
 <td><p>吉川浩司</p></td>
 <td><p>清水明</p></td>
 <td><p>吉岡敏幸、鯉川慎平<br />

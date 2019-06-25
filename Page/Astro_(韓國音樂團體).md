@@ -253,6 +253,25 @@ PRESENT》兩版本年曆。
 </tbody>
 </table>
 
+### 演唱會DVD
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>專輯資料</strong></p></td>
+<td><p><strong>曲目</strong></p></td>
+<td><p>演唱者</p></td>
+</tr>
+<tr class="even">
+<td><ul>
+<li>發行日期：2019年6月14日</li>
+</ul></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ### 原聲帶
 
 |             |                     |                                                                 |       |     |
@@ -268,14 +287,12 @@ PRESENT》兩版本年曆。
 <table>
 <tbody>
 <tr class="odd">
-<td></td>
 <td><p>發行日期</p></td>
 <td><p>歌曲</p></td>
 <td><p>演唱者</p></td>
 <td><p>時長</p></td>
 </tr>
 <tr class="even">
-<td><p>02Hz</p></td>
 <td><p>2018年2月7日</p></td>
 <td><p>잘 알지도 못하면서<br />
 (because I'm a fool)</p></td>
@@ -283,7 +300,6 @@ PRESENT》兩版本年曆。
 <td><p>03:49</p></td>
 </tr>
 <tr class="odd">
-<td><p>04Hz</p></td>
 <td><p>2018年4月30日</p></td>
 <td><p>언어 영역<br />
 （語言領域）</p></td>
@@ -291,14 +307,12 @@ PRESENT》兩版本年曆。
 <td><p>03:11</p></td>
 </tr>
 <tr class="even">
-<td><p>05Hz</p></td>
 <td><p>2018年5月23日</p></td>
 <td><p>Like A King</p></td>
 <td><p>JINJIN (feat. Superbee &amp; myunDo)</p></td>
 <td><p>02:40</p></td>
 </tr>
 <tr class="odd">
-<td><p>08Hz</p></td>
 <td><p>2018年8月30日</p></td>
 <td><p>오늘처럼<br />
 (Like Today)</p></td>
@@ -306,14 +320,12 @@ PRESENT》兩版本年曆。
 <td><p>03:44</p></td>
 </tr>
 <tr class="even">
-<td><p>11Hz</p></td>
 <td><p>2018年11月30日</p></td>
 <td><p>별(STAR)</p></td>
 <td><p>Rocky &amp; Chawoo(차우)</p></td>
 <td><p>03:20</p></td>
 </tr>
 <tr class="odd">
-<td><p>12Hz</p></td>
 <td><p>2018年12月13日</p></td>
 <td><p>All I Want</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ASTRO" title="wikilink">ASTRO</a>, <a href="../Page/Weki_Meki.md" title="wikilink">Weki Meki</a>, <a href="../Page/Hello_Venus.md" title="wikilink">Hello Venus</a></p></td>
@@ -759,6 +771,9 @@ Rocky</p></td>
 | 2月9日  |
 | 2月20日 |
 | 3月4日  |
+| 6月15日 |
+| 6月16日 |
+|       |
 
 ### 電台節目
 
@@ -863,6 +878,7 @@ Rocky</p></td>
 | 1月25日 |
 | 2月14日 |
 | 2月15日 |
+| 5月13日 |
 
 ## 音樂現場
 

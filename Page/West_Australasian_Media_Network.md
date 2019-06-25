@@ -62,21 +62,9 @@ WAMN旗下子品牌，是一個提供潮流及藝術新聞的資訊網站，並�
   - Nelson Liu (助理編導, 高級記者, 時事組)
   - Helene Fung (高級記者)
   - Taylah Hanna (記者)
-  - Elyse Simich (記者)
-  - Christopher May (記者)
   - Andrew Fewster (記者)
   - Blake Danilzack (駐堪培拉)
   - Darren McErlain (駐悉尼)
-  - Darcy Daley (駐布里斯班)
-
-### 外地記者
-
-  - Brian Ramir Pérez (駐[智利首席記者](../Page/智利.md "wikilink"))
-  - Gustavo Donat Sandoval (助理編導)
-  - Aaron Kei (駐香港記者)
-  - Charlie Chu (駐香港記者)
-  - Kevin Choi (駐香港記者)
-  - Dustin Lo(駐加拿大記者)
 
 ## 參考及註釋
 

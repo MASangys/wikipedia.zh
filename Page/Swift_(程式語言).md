@@ -13,8 +13,8 @@ Playgrounds功能是Swift为苹果开发工具带来的最大创新，该功能�
 
 2015年6月8日，蘋果於[WWDC](https://zh.wikipedia.org/wiki/WWDC "wikilink")2015上宣布，Swift將[開放原始碼](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")，包括[编译器和](https://zh.wikipedia.org/wiki/编译器 "wikilink")[标准库](../Page/标准库.md "wikilink")。\[4\]
 
-2015年12月3日，蘋果宣布開源swift，並支持[Linux](../Page/Linux.md "wikilink")，蘋果在新網站swift.org和託管網站Github上開源了swift，但蘋果的app
-store並不支持開源的swift，只支持蘋果官方的swift版本，官方版本會在新網站swift.org上定期與開源版本同步。\[5\]\[6\]
+2015年12月3日，蘋果宣布開源Swift，並支持[Linux](../Page/Linux.md "wikilink")，蘋果在新網站swift.org和託管網站Github上開源了Swift，但蘋果的app
+store並不支持開源的Swift，只支持蘋果官方的Swift版本，官方版本會在新網站swift.org上定期與開源版本同步。\[5\]\[6\]
 
 ## 特色
 
@@ -176,21 +176,29 @@ for (名字, 歲) in 人 {
 
 ## 参考资料
 
+## 外部链接
+
+  -
+  - [苹果开发者上的](https://zh.wikipedia.org/wiki/苹果开发者 "wikilink")[Swift](https://developer.apple.com/swift/)
+
+  -
 [Category:苹果公司](https://zh.wikipedia.org/wiki/Category:苹果公司 "wikilink")
 [Category:MacOS開發](https://zh.wikipedia.org/wiki/Category:MacOS開發 "wikilink")
 [Category:IOS開發](https://zh.wikipedia.org/wiki/Category:IOS開發 "wikilink")
-[Category:计算机语言](https://zh.wikipedia.org/wiki/Category:计算机语言 "wikilink")
+[Category:面向对象的编程语言](https://zh.wikipedia.org/wiki/Category:面向对象的编程语言 "wikilink")
+[Category:静态类型编程语言](https://zh.wikipedia.org/wiki/Category:静态类型编程语言 "wikilink")
+[Category:系統程式語言](https://zh.wikipedia.org/wiki/Category:系統程式語言 "wikilink")
 
 1.
 
 2.
-3.  [苹果新编程语言Swift仅耗时4年完成开发](http://tech.163.com/14/0605/03/9TUR3RNN000915BD.html)
+3.
 
-4.  ["Swift 2.0"](https://developer.apple.com/swift/blog/?id=29)
+4.
 
-5.  [1](https://github.com/apple/swift)
+5.
 
-6.  [2](https://swift.org/)
+6.
 
 7.
 

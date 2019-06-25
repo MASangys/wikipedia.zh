@@ -234,7 +234,7 @@ Awards**」，是由大田文化產業機構舉辦，頒發給韓國[電視劇�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/李準基" title="wikilink">李準基</a></p></td>
+<td><p><a href="../Page/李準基.md" title="wikilink">李準基</a></p></td>
 <td><p>《<a href="../Page/Two_Weeks.md" title="wikilink">Two Weeks</a>》</p></td>
 <td></td>
 </tr>

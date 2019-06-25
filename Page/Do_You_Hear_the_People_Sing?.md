@@ -335,11 +335,11 @@ Reprise
 [AdmiraltyUmbrellaRevolution.JPG](https://zh.wikipedia.org/wiki/File:AdmiraltyUmbrellaRevolution.JPG "fig:AdmiraltyUmbrellaRevolution.JPG")的口号之一。\]\]
 
   - 這首歌在台灣被改編成[台語版本的](https://zh.wikipedia.org/wiki/台語 "wikilink")《[你敢有聽着咱的歌](../Page/你敢有聽着咱的歌.md "wikilink")》，在[大埔事件](../Page/大埔事件.md "wikilink")、[洪仲丘事件](../Page/洪仲丘事件.md "wikilink")（[白衫軍運動](../Page/白衫軍運動.md "wikilink")）、[太陽花學運等事件中多次出現](../Page/太陽花學運.md "wikilink")，也有人改編成[漢語版及](https://zh.wikipedia.org/wiki/漢語 "wikilink")[客語版](https://zh.wikipedia.org/wiki/客語 "wikilink")，但較未像閩南語版那樣廣為流傳。
-  - 这首歌在香港被改编成[粤语版本的](../Page/粤语.md "wikilink")《[問誰未發聲](https://zh.wikipedia.org/wiki/:zh-tw:問誰未發聲 "wikilink")（孩子问：問誰未觉醒)》，在[和平佔中](https://zh.wikipedia.org/wiki/和平佔中 "wikilink")（[雨伞革命](https://zh.wikipedia.org/wiki/雨伞革命 "wikilink")）事件中出现。
+  - 这首歌在香港被改编成[粤语版本的](../Page/粤语.md "wikilink")《[問誰未發聲](https://zh.wikipedia.org/wiki/:zh-tw:問誰未發聲 "wikilink")（孩子问：問誰未觉醒)》，在[和平佔中](https://zh.wikipedia.org/wiki/和平佔中 "wikilink")（[雨伞革命和](https://zh.wikipedia.org/wiki/雨伞革命 "wikilink")[反對逃犯條例修訂草案遊行與集會列表事件中出现](../Page/反對逃犯條例修訂草案遊行與集會列表.md "wikilink")。\[12\]
 
 ## 政治中的使用
 
-2016年9月16日，美国共和党总统候选人[唐納德·川普在](https://zh.wikipedia.org/wiki/唐納德·川普 "wikilink")[迈阿密的竞选活动中用到了这首歌曲](../Page/迈阿密.md "wikilink")。\[12\]\[13\]
+2016年9月16日，美国共和党总统候选人[唐納德·川普在](https://zh.wikipedia.org/wiki/唐納德·川普 "wikilink")[迈阿密的竞选活动中用到了这首歌曲](../Page/迈阿密.md "wikilink")。\[13\]\[14\]
 
 ## 参考文献
 
@@ -381,3 +381,5 @@ Reprise
 12.
 
 13.
+
+14.

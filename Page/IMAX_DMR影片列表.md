@@ -1859,12 +1859,12 @@ Remastering的縮寫。製片公司把影片的35毫米底片拷貝或是數位�
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/X战警：黑凤凰" title="wikilink">X战警：黑凤凰</a></p></td>
 <td><p>2019年6月7日</p></td>
-<td><p>3D电影，原为2D电影，后期转制。</p></td>
+<td><p>2D电影</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/MIB星際戰警：跨國行動" title="wikilink">MIB星際戰警：跨國行動</a></p></td>
 <td><p>2019年6月14日</p></td>
-<td><p>整部影片的寬高比為1.90:1</p></td>
+<td><p>3D電影，整部影片的寬高比為1.90:1</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/玩具总动员4" title="wikilink">玩具总动员4</a></p></td>

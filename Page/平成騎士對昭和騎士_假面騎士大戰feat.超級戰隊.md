@@ -1344,7 +1344,7 @@ Wizard鎧甲</p></td>
   - 原作 -
     [石之森章太郎](../Page/石之森章太郎.md "wikilink")、[八手三郎](https://zh.wikipedia.org/wiki/八手三郎 "wikilink")
 
-  - 劇本 -
+  - 劇本 - [毛利亘宏](../Page/毛利亘宏.md "wikilink")
 
   - 配樂 - [山下康介](../Page/山下康介.md "wikilink")、
 

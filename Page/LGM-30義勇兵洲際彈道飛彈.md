@@ -7,6 +7,18 @@ LGM中的“L”代表“[发射井发射](https://zh.wikipedia.org/wiki/发射�
 
 美国空军现在大约有450枚该型号导弹\[2\]，分别保存在[蒙大拿州马姆斯特罗姆空军基地](../Page/蒙大拿州.md "wikilink")、[北达科他州米诺特空军基地和](../Page/北达科他州.md "wikilink")[怀俄明州F](../Page/怀俄明州.md "wikilink").E.沃伦空军基地。\[3\]
 
+## 型号及研发历程
+
+### 民兵I型
+
+民兵I型第一级固体装药配方： 70.5%的过氯酸铵+13.4%的聚丁二烯丙烯酸+环氧树脂+铝粉\[4\]。
+
+### 民兵II型
+
+### 民兵III型
+
+民兵III型第一级固体装药配方： 73.2%的过氯酸铵+15.6%铝粉+9%端羟基聚丁二烯+聚丁烯\[5\]
+
 <File:Minuteman> III in silo 1989.jpg|发射井内的一枚義勇兵三型彈道飛弹 Minuteman-3
 Museum.jpg|義勇兵三型模型 <File:Minuteman> I.jpg|義勇兵一型彈道飛弹
 [File:minuteman3launch.jpg|義勇兵三型試射](File:minuteman3launch.jpg%7C義勇兵三型試射)
@@ -69,8 +81,14 @@ intercontinental ballistic missiles at Minot Air
 1.  ["Factsheets : LGM-30G Minuteman
     III"](https://archive.is/20121212205735/http://www.af.mil/information/factsheets/factsheet.asp?id=113).
     Af.mil. 2010-07-26. 2013-07-04阅览
+
 2.  Norris, R. S. and H. M. Kristensen [U.S. nuclear
     forces, 2009](http://thebulletin.metapress.com/content/f64x2k3716wq9613/)
     [*Bulletin of the Atomic Scientists*](http://thebulletin.org)
     March/April, 2009
+
 3.
+
+4.
+
+5.

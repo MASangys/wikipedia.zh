@@ -212,21 +212,22 @@ HRC）和1,200—1,300平方毫米每牛頓（N/mm<sup>2</sup>）的抗拉強度
 
 ### 4.5" 9×19毫米
 
-|                                                        |                                                                                                                    |
-| ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ |
-| [口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")：     | 9×19毫米                                                                                                             |
-| 彈匣：                                                    | 2－19發，[不鏽鋼](../Page/不鏽鋼.md "wikilink")                                                                             |
-| [槍管](../Page/槍管.md "wikilink")：                        | 4.5英吋（114.3毫米），钢製，Melonite®，完全支持的上膛坡道                                                                              |
-| 瞄準具型式：                                                 | 鳩尾槽式，前部和後部（鋼製），三點式準星                                                                                               |
-| [扳機扣力](https://zh.wikipedia.org/wiki/扳機扣力 "wikilink")： | 5.5－7.7[磅力](https://zh.wikipedia.org/wiki/磅力 "wikilink")                                                           |
-| 底把：                                                    | 黑色聚合物                                                                                                              |
-| [套筒](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")：   | 鍛鋼                                                                                                                 |
-| 全長：                                                    | 7.6英吋（193.04毫米）                                                                                                    |
-| 寬度：                                                    | 1.18英吋（29.97毫米）                                                                                                    |
-| 全高：                                                    | 5.75英吋（146.05毫米）                                                                                                   |
-| 重量、含空彈匣：                                               | 29[盎司](../Page/盎司.md "wikilink")（822.14[克](https://zh.wikipedia.org/wiki/克 "wikilink")）                            |
-| 可選顏色：                                                  | [黑色連](../Page/黑色.md "wikilink")[黑色](../Page/黑色.md "wikilink")[套筒](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")   |
-|                                                        | [黑色連](../Page/黑色.md "wikilink")[不鏽鋼](../Page/不鏽鋼.md "wikilink")[套筒](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink") |
+|                                                        |                                                                                                                                                        |
+| ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")：     | 9×19毫米                                                                                                                                                 |
+| 彈匣：                                                    | 2－19發，[不鏽鋼](../Page/不鏽鋼.md "wikilink")                                                                                                                 |
+| [槍管](../Page/槍管.md "wikilink")：                        | 4.5英吋（114.3毫米），钢製，Melonite®，完全支持的上膛坡道                                                                                                                  |
+| 瞄準具型式：                                                 | 鳩尾槽式，前部和後部（鋼製），三點式準星                                                                                                                                   |
+| [扳機扣力](https://zh.wikipedia.org/wiki/扳機扣力 "wikilink")： | 5.5－7.7[磅力](https://zh.wikipedia.org/wiki/磅力 "wikilink")                                                                                               |
+| 底把：                                                    | 黑色聚合物                                                                                                                                                  |
+| [套筒](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")：   | 鍛鋼                                                                                                                                                     |
+| 全長：                                                    | 7.6英吋（193.04毫米）                                                                                                                                        |
+| 寬度：                                                    | 1.18英吋（29.97毫米）                                                                                                                                        |
+| 全高：                                                    | 5.75英吋（146.05毫米）                                                                                                                                       |
+| 重量、含空彈匣：                                               | 29[盎司](../Page/盎司.md "wikilink")（822.14[克](https://zh.wikipedia.org/wiki/克 "wikilink")）                                                                |
+| 可選顏色：                                                  | [黑色連](../Page/黑色.md "wikilink")[黑色](../Page/黑色.md "wikilink")[套筒](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")                                       |
+|                                                        | [黑色連](../Page/黑色.md "wikilink")[不鏽鋼](../Page/不鏽鋼.md "wikilink")[套筒](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")                                     |
+|                                                        | [沙色連](https://zh.wikipedia.org/wiki/沙色 "wikilink")[沙色](https://zh.wikipedia.org/wiki/沙色 "wikilink")[套筒](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink") |
 
 \[35\]
 
@@ -293,23 +294,43 @@ HRC）和1,200—1,300平方毫米每牛頓（N/mm<sup>2</sup>）的抗拉強度
 
 ### 4.5" 9×19毫米螺紋槍管型
 
-|                                                        |                                                                                                                                     |
-| ------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------- |
-| [口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")：     | 9×19毫米                                                                                                                              |
-| 彈匣：                                                    | 3－19發，[不鏽鋼](../Page/不鏽鋼.md "wikilink")                                                                                              |
-| [槍管](../Page/槍管.md "wikilink")：                        | 5.28英吋（134.11毫米）／5.34英吋（135.64毫米，連槍口保護環），钢製，Melonite®，完全支持的上膛坡道，槍口具有螺紋（.5"×28 TPI）和螺紋保護器                                            |
-| 瞄準具型式：                                                 | 鳩尾槽式，前部和後部（鋼製），三點式準星，為了加裝[消聲器](../Page/抑制器.md "wikilink")，高度有所提高                                                                    |
-| [瞄準基線](https://zh.wikipedia.org/wiki/瞄準基線 "wikilink")： | 6.6英吋（167.64毫米）                                                                                                                     |
-| [扳機扣力](https://zh.wikipedia.org/wiki/扳機扣力 "wikilink")： | 5.5－7.7[磅力](https://zh.wikipedia.org/wiki/磅力 "wikilink")                                                                            |
-| 底把：                                                    | 黑色聚合物                                                                                                                               |
-| [套筒](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")：   | 鍛鋼                                                                                                                                  |
-| 全長：                                                    | 8.25英吋（209.55毫米）                                                                                                                    |
-| 寬度：                                                    | 1.18英吋（29.97毫米）                                                                                                                     |
-| 全高：                                                    | 6英吋（152.4毫米）                                                                                                                        |
-| 重量、含空彈匣：                                               | 29[盎司](../Page/盎司.md "wikilink")（822.14[克](https://zh.wikipedia.org/wiki/克 "wikilink")）                                             |
-| 可選顏色：                                                  | [沙色連](https://zh.wikipedia.org/wiki/沙色 "wikilink")[黑色](../Page/黑色.md "wikilink")[套筒](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink") |
+|                                                        |                                                                                                                                                        |
+| ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")：     | 9×19毫米                                                                                                                                                 |
+| 彈匣：                                                    | 3－19發，[不鏽鋼](../Page/不鏽鋼.md "wikilink")                                                                                                                 |
+| [槍管](../Page/槍管.md "wikilink")：                        | 5.28英吋（134.11毫米）／5.34英吋（135.64毫米，連槍口保護環），钢製，Melonite®，完全支持的上膛坡道，槍口具有螺紋（.5"×28 TPI）和螺紋保護器                                                               |
+| 瞄準具型式：                                                 | 鳩尾槽式，前部和後部（鋼製），三點式準星，為了加裝[消聲器](../Page/抑制器.md "wikilink")，高度有所提高                                                                                       |
+| [瞄準基線](https://zh.wikipedia.org/wiki/瞄準基線 "wikilink")： | 6.6英吋（167.64毫米）                                                                                                                                        |
+| [扳機扣力](https://zh.wikipedia.org/wiki/扳機扣力 "wikilink")： | 5.5－7.7[磅力](https://zh.wikipedia.org/wiki/磅力 "wikilink")                                                                                               |
+| 底把：                                                    | 黑色聚合物                                                                                                                                                  |
+| [套筒](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")：   | 鍛鋼                                                                                                                                                     |
+| 全長：                                                    | 8.25英吋（209.55毫米）                                                                                                                                       |
+| 寬度：                                                    | 1.18英吋（29.97毫米）                                                                                                                                        |
+| 全高、不含光電：                                               | 6英吋（152.4毫米）                                                                                                                                           |
+| 重量、含空彈匣：                                               | 29[盎司](../Page/盎司.md "wikilink")（822.14[克](https://zh.wikipedia.org/wiki/克 "wikilink")）                                                                |
+| 可選顏色：                                                  | [沙色連](https://zh.wikipedia.org/wiki/沙色 "wikilink")[黑色](../Page/黑色.md "wikilink")[套筒](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")                    |
+|                                                        | [沙色連](https://zh.wikipedia.org/wiki/沙色 "wikilink")[沙色](https://zh.wikipedia.org/wiki/沙色 "wikilink")[套筒](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink") |
 
 \[39\]
+
+### 4.5" 10毫米Auto螺紋槍管型
+
+|                                                        |                                                                                                                  |
+| ------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- |
+| [口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")：     | 10毫米Auto                                                                                                         |
+| 彈匣：                                                    | 2－15發，[不鏽鋼](../Page/不鏽鋼.md "wikilink")                                                                           |
+| [槍管](../Page/槍管.md "wikilink")：                        | 5.28英吋（134.11毫米）／5.34英吋（135.64毫米，連槍口保護環），钢製，Melonite®，完全支持的上膛坡道，槍口具有螺紋（.578"×28 TPI）和螺紋保護器                       |
+| 瞄準具型式：                                                 | 鳩尾槽式，前部和後部（鋼製），三點式準星                                                                                             |
+| [扳機扣力](https://zh.wikipedia.org/wiki/扳機扣力 "wikilink")： | 5.5－7.7[磅力](https://zh.wikipedia.org/wiki/磅力 "wikilink")                                                         |
+| 底把：                                                    | 黑色聚合物                                                                                                            |
+| [套筒](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")：   | 鍛鋼                                                                                                               |
+| 全長：                                                    | 8.74英吋（222毫米）                                                                                                    |
+| 寬度：                                                    | 1.25英吋（31.75毫米）                                                                                                  |
+| 全高、不含光電：                                               | 5.5英吋（139.7毫米）                                                                                                   |
+| 重量、含空彈匣：                                               | 28.5[盎司](../Page/盎司.md "wikilink")（807.96[克](https://zh.wikipedia.org/wiki/克 "wikilink")）                        |
+| 可選顏色：                                                  | [黑色連](../Page/黑色.md "wikilink")[黑色](../Page/黑色.md "wikilink")[套筒](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink") |
+
+\[40\]
 
 ### 4.5" .45 ACP螺紋槍管型
 
@@ -329,7 +350,7 @@ HRC）和1,200—1,300平方毫米每牛頓（N/mm<sup>2</sup>）的抗拉強度
 | 重量、含空彈匣：                                               | 31[盎司](../Page/盎司.md "wikilink")（878.84[克](https://zh.wikipedia.org/wiki/克 "wikilink")）                          |
 | 可選顏色：                                                  | [黑色連](../Page/黑色.md "wikilink")[黑色](../Page/黑色.md "wikilink")[套筒](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink") |
 
-\[40\]
+\[41\]
 
 ### 5.25"競賽型9×19毫米
 
@@ -351,7 +372,7 @@ HRC）和1,200—1,300平方毫米每牛頓（N/mm<sup>2</sup>）的抗拉強度
 | 可選顏色：                                                  | [黑色連](../Page/黑色.md "wikilink")[黑色](../Page/黑色.md "wikilink")[套筒](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")                         |
 |                                                        | [黑色連](../Page/黑色.md "wikilink")[不鏽鋼](../Page/不鏽鋼.md "wikilink")[套筒](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")                       |
 
-\[41\]
+\[42\]
 
 ### 5.25"競賽型.40 S\&W
 
@@ -373,7 +394,7 @@ HRC）和1,200—1,300平方毫米每牛頓（N/mm<sup>2</sup>）的抗拉強度
 | 可選顏色：                                                  | [黑色連](../Page/黑色.md "wikilink")[黑色](../Page/黑色.md "wikilink")[套筒](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")                         |
 |                                                        | [黑色連](../Page/黑色.md "wikilink")[不鏽鋼](../Page/不鏽鋼.md "wikilink")[套筒](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")                       |
 
-\[42\]
+\[43\]
 
 ### 5.25"競賽型 10毫米Auto
 
@@ -393,7 +414,7 @@ HRC）和1,200—1,300平方毫米每牛頓（N/mm<sup>2</sup>）的抗拉強度
 | 重量、含空彈匣：                                               | 32.8[盎司](../Page/盎司.md "wikilink")（929.861[克](https://zh.wikipedia.org/wiki/克 "wikilink")）                                               |
 | 可選顏色：                                                  | [黑色連](../Page/黑色.md "wikilink")[黑色](../Page/黑色.md "wikilink")[套筒](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")                         |
 
-\[43\]
+\[44\]
 
 ### 5.25"競賽型.45 ACP
 
@@ -415,7 +436,7 @@ HRC）和1,200—1,300平方毫米每牛頓（N/mm<sup>2</sup>）的抗拉強度
 | 可選顏色：                                                  | [黑色連](../Page/黑色.md "wikilink")[黑色](../Page/黑色.md "wikilink")[套筒](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")                         |
 |                                                        | [黑色連](../Page/黑色.md "wikilink")[不鏽鋼](../Page/不鏽鋼.md "wikilink")[套筒](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")                       |
 
-\[44\]
+\[45\]
 
 ## 參見
 
@@ -772,3 +793,5 @@ HRC）和1,200—1,300平方毫米每牛頓（N/mm<sup>2</sup>）的抗拉強度
 43.
 
 44.
+
+45.

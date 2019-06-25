@@ -4,7 +4,7 @@ LINK.”或“シルバーリンク”稱呼，中文簡稱銀鏈。
 ## 概要
 
 SILVER
-LINK.設立於2007年12月，是動畫公司フロントライン（FRONTLINE）的製作本部長，製作人金子逸人分社獨立，剛開始的營運主要是以製作協力為主，替了不少知名的製作公司來做製作協力，主要的合作對象大致上是以[SHAFT](../Page/SHAFT.md "wikilink")、[J.C.STAFF為主](https://zh.wikipedia.org/wiki/J.C.STAFF "wikilink")。2009年開始獨立製作動畫，2012年轉為自主製作居多，並多以改編動畫為主。後成立子公司CONNECT，共同製作動畫。
+LINK.設立於2007年12月，是動畫公司フロントライン（FRONTLINE）的製作本部長，製作人金子逸人分社獨立，剛開始的營運主要是以製作協力為主，替了不少知名的製作公司來做製作協力，主要的合作對象大致上是以[SHAFT](../Page/SHAFT.md "wikilink")、[J.C.STAFF為主](https://zh.wikipedia.org/wiki/J.C.STAFF "wikilink")。2009年開始獨立製作動畫，2012年轉為自主製作居多，並多以改編動畫為主。後成立子公司，共同製作動畫。
 
 2016年2月1日將旗下子公司BEEP吸收合併。同年，成立了SILVER LINK.海外部。
 

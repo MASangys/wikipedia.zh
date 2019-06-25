@@ -97,7 +97,7 @@ Effects特效软件](https://zh.wikipedia.org/wiki/After_Effects "wikilink")）�
 #### 影视作品
 
   - 《[帝国的毁灭](https://zh.wikipedia.org/wiki/元首的愤怒 "wikilink") 》
-      - [希特勒](https://zh.wikipedia.org/wiki/希特勒 "wikilink"):鬼畜素材来源于片中第三帝国即将被攻陷时元首（即纳粹党的领袖阿道夫·希特勒）在[元首地堡内召开的会议](../Page/元首地堡.md "wikilink")，因武装党卫队将领菲利克斯·施坦因纳未能按照命令发动攻势。然后他在片段中气急败坏，暴跳如雷，声嘶力竭的形象给人们留下了深刻的印象。语录有摔铅笔之后的“渣渣”（，译为:「敗類」）、“气死偶咧”（，译为「没有荣誉感」）和“我到河北省來”（，译为「然而我獨自一人」）等。需要注意的是，音MAD作者大多认为鬼畜的不是历史上的元首本人，而是电影中元首的扮演者，或者说他的艺术形象。他们不会、不想、也不同意将这个素材扯到政治或历史问题上来。
+      - [希特勒](https://zh.wikipedia.org/wiki/希特勒 "wikilink"):鬼畜素材来源于片中第三帝国即将被攻陷时元首（即纳粹党的领袖阿道夫·希特勒）在[元首地堡内召开的会议](../Page/元首地堡.md "wikilink")，因武装党卫队将领菲利克斯·施坦因纳未能按照命令发动攻势。然后他在片段中气急败坏，暴跳如雷，声嘶力竭的形象给人们留下了深刻的印象。语录有摔铅笔之后的“渣渣”（，译为:「敗類」）、“气死偶咧”（，译为「没有荣誉感」）和“我到河北省來”（，译为「然而我獨自一人」）等。需要注意的是，音MAD作者大多认为鬼畜的不是历史上的希特勒本人，而是电影中元首的扮演者[布鲁诺·冈茨](../Page/布鲁诺·冈茨.md "wikilink")，或者说他的艺术形象。他们不会、不想、也不同意将这个素材扯到政治或历史问题上来。
 
 <!-- end list -->
 
@@ -176,7 +176,7 @@ Effects特效软件](https://zh.wikipedia.org/wiki/After_Effects "wikilink")）�
   - [弱爆姐](https://zh.wikipedia.org/wiki/弱爆姐 "wikilink")
   - [包大人](https://zh.wikipedia.org/wiki/包大人 "wikilink")
   - [老中醫](https://zh.wikipedia.org/wiki/老中醫 "wikilink")
-  - [刘洪斌和](https://zh.wikipedia.org/wiki/刘洪斌 "wikilink")[雄氏老方](https://zh.wikipedia.org/wiki/雄氏老方 "wikilink")
+  - [刘洪斌和](../Page/刘洪斌.md "wikilink")[雄氏老方](https://zh.wikipedia.org/wiki/雄氏老方 "wikilink")
       - 假药广告，其中刘洪斌因为在多个假药广告中出现而被舆论谴责，随即成为鬼畜素材。
 
 #### 名人
@@ -207,7 +207,7 @@ Effects特效软件](https://zh.wikipedia.org/wiki/After_Effects "wikilink")）�
   - [竊格瓦拉](https://zh.wikipedia.org/wiki/竊格瓦拉 "wikilink")
       - 廣西南寧的一位偷車賊，被派出所抓往后，在询问时說出“打工是不可能打工的，這輩子都不可能打工的。”
   - [蔡徐坤](../Page/蔡徐坤.md "wikilink")
-  - [吴亦凡](https://zh.wikipedia.org/wiki/吴亦凡 "wikilink")（[大碗宽面](https://zh.wikipedia.org/wiki/大碗宽面 "wikilink")）
+  - [吴亦凡](https://zh.wikipedia.org/wiki/吴亦凡 "wikilink")（[大碗宽麵](https://zh.wikipedia.org/wiki/大碗宽麵 "wikilink")）
   - [香蕉君](https://zh.wikipedia.org/wiki/香蕉君 "wikilink")
 
 #### 其它

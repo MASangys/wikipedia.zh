@@ -177,6 +177,16 @@ Range）、L3-Insight被動紅外觀察裝置（CNVD-T3）、[激光測距儀](h
 
     以G28E3為藍本，但護木上具有自2013年流行起來的型導軌系統以減輕護木重量，同時裝上了由OSS公司研製的模組化[抑制器](../Page/抑制器.md "wikilink")。\[8\]下機匣來自HK417A2／MR308A3，只是修改了槍機釋放、彈匣卡筍和快慢機，扳機後方還新增了扳機止動螺釘\[9\]。
 
+  - M110A1
+    於2016年4月[Heckler &
+    Koch證實G](../Page/黑克勒&科赫.md "wikilink")28的輕量化版本G28E贏得了[美國陸軍](https://zh.wikipedia.org/wiki/美國陸軍 "wikilink")計畫的合約用以替換M110半自動狙擊手系統。\[10\]
+
+    該型號被定名為M110A1，為達成要求的重量上槍匣改為鋁合金而不是原來的不銹鋼，空槍不含彈匣重3.8公斤(8.4lb)，包含彈匣和配件為6.8公斤(15lb)左右；M110A1配有Geissele的[M-LOK附件安裝界面護木](../Page/M-LOK.md "wikilink")、的3–20×50
+    PM II Ultra
+    Short瞄準鏡、Geissele的鏡座、OSS的SRM6消音管、Harris的6-9英吋雙腳架和轉接座及具有可調整式貼腮的伸縮拖。\[11\]\[12\]
+
+    於2018年5月[美國海軍陸戰隊將開始接收M](https://zh.wikipedia.org/wiki/美國海軍陸戰隊 "wikilink")110A1也用來取代M110。\[13\]
+
   - DMR762
     執法機關的型號。使用的標準設置為德國施密特-本德爾警用神槍手二型3—20×50可變倍光學狙擊鏡，標準[彈匣容量為](../Page/彈匣.md "wikilink")10發，據說獲德國聯邦警察採用。
 
@@ -186,17 +196,17 @@ Range）、L3-Insight被動紅外觀察裝置（CNVD-T3）、[激光測距儀](h
 
   -   - [法國陸軍](https://zh.wikipedia.org/wiki/法國陸軍 "wikilink")（標準型）
 
-  -   - [德國聯邦國防軍](../Page/德國聯邦國防軍.md "wikilink")（標準型，命名為「G28」）\[10\]\[11\]
+  -   - [德國聯邦國防軍](../Page/德國聯邦國防軍.md "wikilink")（標準型，命名為「G28」）\[14\]\[15\]
 
-  -   - [波蘭武裝部隊](../Page/波蘭軍事.md "wikilink")[特種部隊](../Page/特種部隊.md "wikilink")（標準型）\[12\]
+  -   - [波蘭武裝部隊](../Page/波蘭軍事.md "wikilink")[特種部隊](../Page/特種部隊.md "wikilink")（標準型）\[16\]
 
-  -   - [葡萄牙武裝部隊](https://zh.wikipedia.org/wiki/葡萄牙軍事 "wikilink")（標準型）\[13\]
+  -   - [葡萄牙武裝部隊](https://zh.wikipedia.org/wiki/葡萄牙軍事 "wikilink")（標準型）\[17\]
 
   -   - [憲兵特別行動司令部](https://zh.wikipedia.org/wiki/憲兵特別行動司令部 "wikilink")（標準型）
 
   -   - [偵察傘兵突擊隊](https://zh.wikipedia.org/wiki/偵察傘兵突擊隊 "wikilink")（巡邏型、標準型）
 
-  -   - [美国陆军](../Page/美国陆军.md "wikilink")（G28E命名為M110A1緊湊型半自動狙擊系統，計劃訂購3,643枝）\[14\]\[15\]
+  -   - [美国陆军](../Page/美国陆军.md "wikilink")（G28E命名為M110A1緊湊型半自動狙擊系統，計劃訂購3,643枝）\[18\]\[19\]
       - [美國海軍陸戰隊](https://zh.wikipedia.org/wiki/美國海軍陸戰隊 "wikilink")（G28E命名為M110A1緊湊型半自動狙擊系統）
 
 ## 流行文化
@@ -208,6 +218,8 @@ Range）、L3-Insight被動紅外觀察裝置（CNVD-T3）、[激光測距儀](h
     Walker）和基岡·P·拉斯（Keegan P.
     Russ）所使用；聯機模式時可以使用[機械瞄具](../Page/機械瞄具.md "wikilink")、[紅點鏡](../Page/紅點鏡.md "wikilink")、[ACOG光學瞄準鏡](../Page/先進戰鬥光學瞄準鏡.md "wikilink")、、[熱能探測混合式瞄準鏡](../Page/热能.md "wikilink")、追蹤器瞄準鏡、、[消音器](../Page/抑制器.md "wikilink")、[槍口制退器](../Page/砲口制動器.md "wikilink")、[延長彈匣](../Page/彈匣.md "wikilink")、[穿甲彈](https://zh.wikipedia.org/wiki/穿甲彈 "wikilink")、[三發點放](../Page/三發點放.md "wikilink")；滅絕模式時亦可使用。
   - 2017年—《少女前線》:作為4星角色，出現於重型製造以及2017冬季活動。
+  - 2018年—《[无限法则](https://zh.wikipedia.org/wiki/無限法則 "wikilink")》（Ring
+    of Elysium）
 
 ### [生存遊戲](https://zh.wikipedia.org/wiki/生存遊戲 "wikilink")
 
@@ -400,17 +412,27 @@ HK417\#G28](https://zh.wikipedia.org/wiki/en:Heckler_&_Koch_HK417#G28 "wikilink"
     interesting, but even more so once you get
     inside.](http://soldiersystems.net/blog1/wp-content/uploads/2016/01/img_0449.jpeg)
 
-10. \[<http://www.deutschesheer.de/portal/a/heer/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP3I5EyrpHK9jNTUIr2S1OSMvMxsvYzEvJTyxLS01Dy99NTy1IyidCML_YJsR0UA56VOhQ>\!\!/
-    Gewehr G28 des Heeres\]
+10.
 
 11.
 
-12. [1](http://i67.tinypic.com/qo9089.jpg)
+12.
 
-13. [2](http://i67.tinypic.com/bj7dzo.jpg)
+13. [The Marines just switched their main sniper rifle ― look what’s
+    next](https://www.militarytimes.com/news/your-marine-corps/2018/04/09/the-marines-just-switched-their-main-sniper-rifle-look-whats-next/)
+    . *Military Times*. 9 April 2018.
 
-14. [H\&K confirms: This is the Army's new and improved sniper
+14. \[<http://www.deutschesheer.de/portal/a/heer/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP3I5EyrpHK9jNTUIr2S1OSMvMxsvYzEvJTyxLS01Dy99NTy1IyidCML_YJsR0UA56VOhQ>\!\!/
+    Gewehr G28 des Heeres\]
+
+15.
+
+16. [1](http://i67.tinypic.com/qo9089.jpg)
+
+17. [2](http://i67.tinypic.com/bj7dzo.jpg)
+
+18. [H\&K confirms: This is the Army's new and improved sniper
     rifle](http://www.armytimes.com/story/military/2016/04/08/hk-confirms-armys-new-and-improved-sniper-rifle/82788202/)
     - Armytimes.com, 8 April 2016
 
-15.
+19.

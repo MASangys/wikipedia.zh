@@ -20,7 +20,7 @@ Wong，籌備超過一年後安排出道，三位成員包括[葉灝基](https:/
 <th></th>
 <th><p>183cm</p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/新西蘭" title="wikilink">新西蘭大專畢業回流兩年</a>，入行前是跟<a href="../Page/黃國榮.md" title="wikilink">黃國榮跳舞六年</a>，亦是<a href="../Page/郭富城.md" title="wikilink">郭富城御用了的</a><a href="https://zh.wikipedia.org/wiki/舞蹈演員" title="wikilink">舞蹈演員</a> |- style="background-color: #FFFFFF; text-align: center;" |</p></th>
-<th><p><strong><a href="https://zh.wikipedia.org/wiki/許俊豪" title="wikilink">許俊豪</a></strong></p></th>
+<th><p><strong>許俊豪</strong></p></th>
 <th><p>Lincoln</p></th>
 <th><p>[5]</p></th>
 <th><p>184cm</p></th>

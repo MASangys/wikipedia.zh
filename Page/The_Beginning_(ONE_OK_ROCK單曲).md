@@ -1,7 +1,6 @@
 「**The
 Beginning**」，[日本](../Page/日本.md "wikilink")[樂隊](https://zh.wikipedia.org/wiki/樂隊 "wikilink")[ONE
-OK
-ROCK的第](https://zh.wikipedia.org/wiki/ONE_OK_ROCK "wikilink")7張單曲，於2012年8月22日發行。
+OK ROCK的第](../Page/ONE_OK_ROCK.md "wikilink")7張單曲，於2012年8月22日發行。
 
 ## 簡介
 

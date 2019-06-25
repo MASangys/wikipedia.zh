@@ -745,7 +745,7 @@ SONG](../Page/LOST_SONG.md "wikilink")」主題曲「」作詞。2018年5月19�
 </tr>
 <tr class="even">
 <td><p>2019年10月26日</p></td>
-<td><p>台灣</p></td>
+<td><p>台灣 NUZONE</p></td>
 <td></td>
 <td></td>
 </tr>

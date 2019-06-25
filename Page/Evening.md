@@ -67,7 +67,7 @@
 
 ### 連載結束作品
 
-  - [农大菌物语](https://zh.wikipedia.org/wiki/农大菌物语 "wikilink")（[石川雅之](https://zh.wikipedia.org/wiki/石川雅之 "wikilink")）※[月刊モーニングtwoに移籍](https://zh.wikipedia.org/wiki/月刊モーニングtwo "wikilink")
+  - [农大菌物语](https://zh.wikipedia.org/wiki/农大菌物语 "wikilink")（[石川雅之](../Page/石川雅之.md "wikilink")）※[月刊モーニングtwoに移籍](https://zh.wikipedia.org/wiki/月刊モーニングtwo "wikilink")
 
 ## 外部連結
 

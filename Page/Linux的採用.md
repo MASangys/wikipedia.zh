@@ -10,8 +10,8 @@ Hammond稱：「Linux已經跨過了主流採用的宏溝。」在2009年第三�
 
 ## 採用Linux的硬體平台
 
-[Desktop_Ubuntu_13_10.png](https://zh.wikipedia.org/wiki/File:Desktop_Ubuntu_13_10.png "fig:Desktop_Ubuntu_13_10.png")
-13.10版的截圖，Ubuntu是一個主要用於個人電腦、筆記型電腦或伺服器系統的Linux作業系統\]\]
+[Ubuntu_19.04_"Disco_Dingo".png](https://zh.wikipedia.org/wiki/File:Ubuntu_19.04_"Disco_Dingo".png "fig:Ubuntu_19.04_\"Disco_Dingo\".png")
+19.04版的截圖，Ubuntu是一個主要用於個人電腦、筆記型電腦或伺服器系統的Linux作業系統\]\]
 Linux被用於[桌上型電腦](../Page/桌上型電腦.md "wikilink")、[伺服器](https://zh.wikipedia.org/wiki/伺服器 "wikilink")、[超級電腦](https://zh.wikipedia.org/wiki/超級電腦 "wikilink")、[行動裝置以及其他很多硬體設備上](https://zh.wikipedia.org/wiki/行動裝置 "wikilink")。
 
 ### 桌上型電腦和筆記型電腦
@@ -41,7 +41,7 @@ XP開始被搭載在小筆電上以後情況就改變了](../Page/Windows_XP.md 
 
 ### 行動裝置
 
-[Samsung_Galaxy_Note_series_2.jpg](https://zh.wikipedia.org/wiki/File:Samsung_Galaxy_Note_series_2.jpg "fig:Samsung_Galaxy_Note_series_2.jpg")是根基於Linux的作業系統，在[智能手機上相當熱門](https://zh.wikipedia.org/wiki/智能手機 "wikilink")。\]\]
+[Android_Pie.png](https://zh.wikipedia.org/wiki/File:Android_Pie.png "fig:Android_Pie.png")是根基於Linux的作業系統，在[智能手機上相當熱門](https://zh.wikipedia.org/wiki/智能手機 "wikilink")。\]\]
 Linux在行動裝置上最知名的應用莫過於[Android作業系統](../Page/Android.md "wikilink")。Android發展自Linux，並且開放原始碼，目前是全世界市佔率最高的行動平台，全世界在2013年的第三季售出的[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，有79.3%搭載了Android。\[14\]Android亦廣泛使用於[平板電腦](../Page/平板電腦.md "wikilink")、[智慧型手錶等裝置上](https://zh.wikipedia.org/wiki/智慧型手錶 "wikilink")。
 
 [Tizen OS是另一個基於Linux的行動裝置作業系統](../Page/Tizen.md "wikilink")。
@@ -61,7 +61,7 @@ Server](../Page/Windows_Server.md "wikilink")。\[15\]
 
 ### 政府機構
 
-[LiMux.jpg](https://zh.wikipedia.org/wiki/File:LiMux.jpg "fig:LiMux.jpg")
+[LiMux2014.png](https://zh.wikipedia.org/wiki/File:LiMux2014.png "fig:LiMux2014.png")
 一些[地方政府在受到](../Page/地方政府.md "wikilink")[世界貿易組織和](https://zh.wikipedia.org/wiki/世界貿易組織 "wikilink")的壓力下，決定採用Linux和其他[免費軟體來當作一個負擔得起而且合法的替代方案](../Page/免費軟體.md "wikilink")，而不使用盜版軟體，或來自[微軟](https://zh.wikipedia.org/wiki/微軟 "wikilink")、[蘋果電腦等商業公司的私有電腦產品](https://zh.wikipedia.org/wiki/蘋果電腦 "wikilink")。
 
 當已開發國家的公司在為政府合約競標時，Linux提供了這些國家一個有力的選項（採用Linux作業系統通常成本較低），同時也替諸如[印度](../Page/印度.md "wikilink")、[巴基斯坦等有許多電腦科學人才](../Page/巴基斯坦.md "wikilink")，但無法負擔較高花費的國家提供了發展的另一條路。除價格外，許多北美和歐盟的政府機構（在公眾或軍事領域）因為Linux較佳的穩定性和開放原始碼等原因採用了Linux。\[17\]\[18\]\[19\]\[20\]\[21\]\[22\]
@@ -90,8 +90,6 @@ Linux經常在大學的科技相關學科以及研究中心使用。這有幾個
   - 在[巴西](../Page/巴西.md "wikilink")，有超過五萬所學校的523,400個電腦工作站使用Linux，這些學校共有三千五百萬名學生。\[40\]
 
 ### 個人或家庭
-
-[Android_4.3_Jelly_Bean_on_Nexus.png](https://zh.wikipedia.org/wiki/File:Android_4.3_Jelly_Bean_on_Nexus.png "fig:Android_4.3_Jelly_Bean_on_Nexus.png")是根基於Linux的作業系統，在行動裝置上相當熱門。\]\]
 
   - 在2007年，[Google推出了基於Linux核心的](../Page/Google.md "wikilink")[Android作業系統](../Page/Android.md "wikilink")，主要用於[智慧型手機和](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")[平板電腦](../Page/平板電腦.md "wikilink")。在2013年後半，Android在全世界的智慧型手機市場上達到80%的佔有率，\[41\]在平板電腦上則有60%的佔有率。\[42\]
   - 在2011年，Google的[Chromebook筆記型電腦問世](../Page/Chromebook.md "wikilink")，它的作業系統[Chrome

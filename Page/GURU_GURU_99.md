@@ -51,7 +51,7 @@
       - 參加冤大頭3—6。
   - [優香](https://zh.wikipedia.org/wiki/優香 "wikilink")
       - 參加冤大頭7。
-  - [井上和香](https://zh.wikipedia.org/wiki/井上和香 "wikilink")
+  - [井上和香](../Page/井上和香.md "wikilink")
       - 參加冤大頭8。
   - [森泉](https://zh.wikipedia.org/wiki/森泉 "wikilink")
       - 參加冤大頭9—10。

@@ -4,12 +4,12 @@
 成立于1990并在2012年2月被Permira 基金收购。\[3\]\[4\] 由Paul Segre
 引领的该公司自2007年开始到2014年已有每年7亿4千万美金的营收。\[5\]
 
-## 公司沿革
+## 历史
 
 [Genesys_Telecommunications_Laboratories_HQ.jpg](https://zh.wikipedia.org/wiki/File:Genesys_Telecommunications_Laboratories_HQ.jpg "fig:Genesys_Telecommunications_Laboratories_HQ.jpg")
-Genesys 是由Gregory Shenkman 和 Alec Miloslavsky于1990年十月所创立。\[6\]\[7\]
-公司最初的创业基金是来自于创业者家族贷款的15万美金。\[8\] Genesys 于1997年6月完成首次公开募股
-(IPO) 并以股票代码GCTI在纳斯达克证券交易所上市。同年12月，Genesys收购邮件管理软件开发商"Forte Software,
+Genesys 是由Gregory Shenkman 和 Alec Miloslavsky于1990年10月所创立。\[6\]\[7\]
+公司最初的创业基金是来自于创业者家族贷款的15万美金。\[8\] Genesys 于1997年6月完成首次公开募股 (IPO)
+并以股票代码GCTI在纳斯达克证券交易所上市。同年12月，Genesys收购邮件管理软件开发商"Forte Software,
 Inc."（后改名Adante）。\[9\] 1999年6月，该公司还收购了劳动力管理软件开发商。\[10\]
 Alcatel-Lucent（之前的Alcatel）于1999年底以15亿美金亿认股Genesys。\[11\]
 
@@ -49,6 +49,10 @@ Consulting,语音集成公司，提升了其在东南亚地区的服务质量。
 
   - [網站](http://www.genesys.com/cn)
 
+[Category:1997年IPO](https://zh.wikipedia.org/wiki/Category:1997年IPO "wikilink")
+
+[Category:美国市场营销公司](https://zh.wikipedia.org/wiki/Category:美国市场营销公司 "wikilink")
+[Category:总部在美国的跨国公司](https://zh.wikipedia.org/wiki/Category:总部在美国的跨国公司 "wikilink")
 [Category:1990年成立的公司](https://zh.wikipedia.org/wiki/Category:1990年成立的公司 "wikilink")
 
 1.

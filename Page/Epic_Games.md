@@ -65,7 +65,7 @@ Vogel做出了回應，其中對於localconfig.vdf這個文件的解釋是：
 > choose to import your Steam friends, and then only hashed ids of your
 > friends are sent and no other information from the file. \[3\]\[4\]
 
-有網友指出Epic會收集個人電腦裡的以下資訊，不過實際上仍屬猜測：\[5\]
+有網友指出Epic會收集個人電腦裡的以下資訊：\[5\]
 
 1.  電腦裡面的憑證庫；
 2.  登錄檔裡面的根憑證；

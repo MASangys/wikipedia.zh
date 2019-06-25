@@ -3,10 +3,6 @@ Nagy）。
 
 Waf的原始碼，採用新[BSD許可證釋出](https://zh.wikipedia.org/wiki/BSD許可證 "wikilink")，是開放原始碼軟體。但是它的文件則採用[CC-BY-NC-ND許可證釋出](https://zh.wikipedia.org/wiki/創作共用授權條款 "wikilink")，不允許修改以及使用於商業用途。
 
-## 歷史
-
-## 技術
-
 ## 外部連結
 
   -

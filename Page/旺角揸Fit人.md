@@ -17,7 +17,7 @@
 | 裁縫女                                                   | [張睿玲](https://zh.wikipedia.org/wiki/張睿玲 "wikilink") | 片末為報復，設局營救阿坤並開槍打死他 |
 | 護士                                                    | [陳寶蓮](https://zh.wikipedia.org/wiki/陳寶蓮 "wikilink") |                    |
 | 尚義哥                                                   | [林尚義](../Page/林尚義.md "wikilink")                    | 牧師，阿坤之父，後被阿坤以酒瓶殺害  |
-| 龍哥                                                    | [陳惠敏](../Page/陳惠敏_\(演員\).md "wikilink")             | 阿坤的大哥，後與其糾纏期間墮樓身亡  |
+| 龍哥                                                    | [陳惠敏](../Page/陳惠敏_\(演員\).md "wikilink")             | 前叻君的大哥，後與其糾纏期間墮樓身亡 |
 | 林Sir                                                  | [陸劍明](https://zh.wikipedia.org/wiki/陸劍明 "wikilink") |                    |
 | 高利王                                                   | [八両金](../Page/八両金.md "wikilink")                    |                    |
 | 旺角徐淇安                                                 | [梁焯滿](https://zh.wikipedia.org/wiki/梁焯滿 "wikilink") |                    |
@@ -45,6 +45,7 @@
 [Category:報復題材電影](https://zh.wikipedia.org/wiki/Category:報復題材電影 "wikilink")
 [Category:悲劇電影](https://zh.wikipedia.org/wiki/Category:悲劇電影 "wikilink")
 [Category:毒品相關電影](https://zh.wikipedia.org/wiki/Category:毒品相關電影 "wikilink")
+[Category:黑幫電影](https://zh.wikipedia.org/wiki/Category:黑幫電影 "wikilink")
 
 1.  [《解讀黑社會 港產黑幫電影縱橫遊》
     源自於此衍生的黑色幽默](https://www.yesasia.com/global/yumcha/解讀黑社會-港產黑幫電影縱橫遊/0-0-0-arid.50-zh_TW/featured-article.html)

@@ -942,7 +942,7 @@ Paulala Beauty美容院老闆<br />
 </tbody>
 </table>
 
-## 獎項殊榮
+## 獎項
 
 ### [萬千星輝頒獎典禮2013](../Page/萬千星輝頒獎典禮2013.md "wikilink")
 

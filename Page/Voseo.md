@@ -32,18 +32,18 @@ otros”的連寫形式，它後接的動詞採用vos的變位形式。
 
 ### Voseo中的人稱代詞
 
-由於vos的[主格與作](https://zh.wikipedia.org/wiki/主格 "wikilink")[介詞](../Page/介詞.md "wikilink")[賓語時形態相同](https://zh.wikipedia.org/wiki/賓語 "wikilink")，因此tuteo中的“ti”在voseo中對應的形式也是“vos”。例如tuteo中的“para
+由於vos的[主格與作](../Page/主格.md "wikilink")[介詞](../Page/介詞.md "wikilink")[賓語時形態相同](https://zh.wikipedia.org/wiki/賓語 "wikilink")，因此tuteo中的“ti”在voseo中對應的形式也是“vos”。例如tuteo中的“para
 ti”（為了你）在voseo中說成“para vos”；tuteo中的介賓複合體“contigo”（與你）在voseo中說成“con
 vos”。但作直接[賓語和間接賓語時](https://zh.wikipedia.org/wiki/賓語 "wikilink")，voseo中採用與tuteo一樣的“te”形式，而不採用與vosotros對應的“os”形式。
 
-|                                                   |                                                                    |                     |
-| ------------------------------------------------- | ------------------------------------------------------------------ | ------------------- |
-| [主格](https://zh.wikipedia.org/wiki/主格 "wikilink") | [間接格](https://zh.wikipedia.org/wiki/間接格 "wikilink")                | 反身形式                |
-| <small>[主語](../Page/主語.md "wikilink")</small>     | <small>直接[賓語](https://zh.wikipedia.org/wiki/賓語 "wikilink")</small> | <small>間接賓語</small> |
-| vos                                               | te                                                                 | te                  |
-| usted                                             | lo／la                                                              | le                  |
-| tú                                                | te                                                                 | te                  |
-| vosotros                                          | os                                                                 | os                  |
+|                                               |                                                                    |                     |
+| --------------------------------------------- | ------------------------------------------------------------------ | ------------------- |
+| [主格](../Page/主格.md "wikilink")                | [間接格](https://zh.wikipedia.org/wiki/間接格 "wikilink")                | 反身形式                |
+| <small>[主語](../Page/主語.md "wikilink")</small> | <small>直接[賓語](https://zh.wikipedia.org/wiki/賓語 "wikilink")</small> | <small>間接賓語</small> |
+| vos                                           | te                                                                 | te                  |
+| usted                                         | lo／la                                                              | le                  |
+| tú                                            | te                                                                 | te                  |
+| vosotros                                      | os                                                                 | os                  |
 
 Vos的[屬格形式亦與tú相同](https://zh.wikipedia.org/wiki/屬格 "wikilink")：“tu(s)”、“tuyo(s)”、“tuya(s)”，而不採用與vosotros所對應的“vuestro(s)”、“vuestra(s)”。
 

@@ -26,35 +26,41 @@ VS系列</p></td>
 
 ### 救急戰隊GOGO V
 
-| 演員                                                                               | 角色  | 代號        |
-| -------------------------------------------------------------------------------- | --- | --------- |
-|                                                                                  |     |           |
-| [<font color=white>西岡龍一朗</font>](https://zh.wikipedia.org/wiki/西岡龍一朗 "wikilink") | 巽纏  | GO Red    |
-|                                                                                  |     |           |
-| [<font color=white>谷口賢志</font>](https://zh.wikipedia.org/wiki/谷口賢志 "wikilink")   | 巽流水 | GO Blue   |
-|                                                                                  |     |           |
-| [<font color=white>原田篤</font>](https://zh.wikipedia.org/wiki/原田篤 "wikilink")     | 巽鐘  | GO Green  |
-|                                                                                  |     |           |
-| [<font color=black>柴田賢志</font>](https://zh.wikipedia.org/wiki/柴田賢志 "wikilink")   | 巽大門 | GO Yellow |
-|                                                                                  |     |           |
-| [<font color=white>柴田かよこ</font>](https://zh.wikipedia.org/wiki/柴田かよこ "wikilink") | 巽祭  | GO Pink   |
+| 演員                                                                               | 角色  | 代號        | 台配                                                  | 港配 |
+| -------------------------------------------------------------------------------- | --- | --------- | --------------------------------------------------- | -- |
+|                                                                                  |     |           |                                                     |    |
+| [<font color=white>西岡龍一朗</font>](https://zh.wikipedia.org/wiki/西岡龍一朗 "wikilink") | 巽纏  | GO Red    | [符爽](../Page/符爽.md "wikilink")                      |    |
+|                                                                                  |     |           |                                                     |    |
+| [<font color=white>谷口賢志</font>](https://zh.wikipedia.org/wiki/谷口賢志 "wikilink")   | 巽流水 | GO Blue   |                                                     |    |
+|                                                                                  |     |           |                                                     |    |
+| [<font color=white>原田篤</font>](https://zh.wikipedia.org/wiki/原田篤 "wikilink")     | 巽鐘  | GO Green  |                                                     |    |
+|                                                                                  |     |           |                                                     |    |
+| [<font color=black>柴田賢志</font>](https://zh.wikipedia.org/wiki/柴田賢志 "wikilink")   | 巽大門 | GO Yellow | [李景唐](../Page/李景唐.md "wikilink")                    |    |
+|                                                                                  |     |           |                                                     |    |
+| [<font color=white>柴田かよこ</font>](https://zh.wikipedia.org/wiki/柴田かよこ "wikilink") | 巽祭  | GO Pink   | [詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink") |    |
 
 ### 星獸戰隊銀河人
 
-| 演員                                                                             | 角色 | 代號                 |
-| ------------------------------------------------------------------------------ | -- | ------------------ |
-|                                                                                |    |                    |
-| [<font color=white>前原一輝</font>](https://zh.wikipedia.org/wiki/前原一輝 "wikilink") | 龍馬 | 銀河紅　（Ginga Red）    |
-|                                                                                |    |                    |
-| [<font color=white>末吉宏司</font>](https://zh.wikipedia.org/wiki/末吉宏司 "wikilink") | 疾風 | 銀河綠　（Ginga Green）  |
-|                                                                                |    |                    |
-| [<font color=white>照英</font>](https://zh.wikipedia.org/wiki/照英 "wikilink")     | 豪氣 | 銀河藍　（Ginga Blue）   |
-|                                                                                |    |                    |
-| [<font color=black>高橋伸顯</font>](https://zh.wikipedia.org/wiki/高橋伸顯 "wikilink") | 光輝 | 銀河黃　（Ginga Yellow） |
-|                                                                                |    |                    |
-| [<font color=white>宮澤壽梨</font>](../Page/宮澤壽梨.md "wikilink")                    | 莎雅 | 銀河粉紅（Ginga Pink）   |
-|                                                                                |    |                    |
-| [<font color=gold>小川輝晃</font>](../Page/小川輝晃.md "wikilink")                     | 日向 | 黑騎士　（Black Knight） |
+| 演員                                                                             | 角色   | 代號                 | 台配                               | 港配 |
+| ------------------------------------------------------------------------------ | ---- | ------------------ | -------------------------------- | -- |
+|                                                                                |      |                    |                                  |    |
+| [<font color=white>前原一輝</font>](https://zh.wikipedia.org/wiki/前原一輝 "wikilink") | 龍馬   | 銀河紅　（Ginga Red）    |                                  |    |
+|                                                                                |      |                    |                                  |    |
+| [<font color=white>末吉宏司</font>](https://zh.wikipedia.org/wiki/末吉宏司 "wikilink") | 疾風   | 銀河綠　（Ginga Green）  | [李景唐](../Page/李景唐.md "wikilink") |    |
+|                                                                                |      |                    |                                  |    |
+| [<font color=white>照英</font>](https://zh.wikipedia.org/wiki/照英 "wikilink")     | 豪氣   | 銀河藍　（Ginga Blue）   | [曹冀魯](../Page/曹冀魯.md "wikilink") |    |
+|                                                                                |      |                    |                                  |    |
+| [<font color=black>高橋伸顯</font>](https://zh.wikipedia.org/wiki/高橋伸顯 "wikilink") | 光輝   | 銀河黃　（Ginga Yellow） | [李景唐](../Page/李景唐.md "wikilink") |    |
+|                                                                                |      |                    |                                  |    |
+| [<font color=white>宮澤壽梨</font>](../Page/宮澤壽梨.md "wikilink")                    | 莎雅   | 銀河粉紅（Ginga Pink）   | [汪世瑋](../Page/汪世瑋.md "wikilink") |    |
+|                                                                                |      |                    |                                  |    |
+| [<font color=gold>小川輝晃</font>](../Page/小川輝晃.md "wikilink")                     | 日向   | 黑騎士　（Black Knight） | [符爽](../Page/符爽.md "wikilink")   |    |
+| [<font color=gold>早川翔吾</font>](https://zh.wikipedia.org/wiki/早川翔吾 "wikilink")  | 青山勇太 |                    | [汪世瑋](../Page/汪世瑋.md "wikilink") |    |
+
+| 聲優                                                                              | 角色 | 台配     | 港配                                                  |
+| ------------------------------------------------------------------------------- | -- | ------ | --------------------------------------------------- |
+| [<font color=gold>深雪さなえ</font>](https://zh.wikipedia.org/wiki/深雪さなえ "wikilink") | 波克 | 小栗子·妖精 | [詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink") |
+| [<font color=gold>納谷六朗</font>](../Page/納谷六朗.md "wikilink")                      | 蒙克 | 智慧之樹   | [李景唐](../Page/李景唐.md "wikilink")                    |
 
 ## 幕後人員
 

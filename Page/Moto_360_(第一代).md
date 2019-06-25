@@ -40,7 +40,7 @@ I/O大会](https://zh.wikipedia.org/wiki/Google_I/O "wikilink")\[2\]。Moto
 
 [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink")
 [Category:智能手表](https://zh.wikipedia.org/wiki/Category:智能手表 "wikilink")
-[Category:摩托羅拉](https://zh.wikipedia.org/wiki/Category:摩托羅拉 "wikilink")
+[Category:摩托罗拉产品](https://zh.wikipedia.org/wiki/Category:摩托罗拉产品 "wikilink")
 [Category:2014年面世的產品](https://zh.wikipedia.org/wiki/Category:2014年面世的產品 "wikilink")
 
 1.

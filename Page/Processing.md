@@ -12,6 +12,12 @@
 
   - <http://groups.google.com/group/processingjs>
 
+  - <https://processing-china.github.io/>
+
+  - <http://www.creativecoding.org/>
+
+  - <http://www.creativeapplications.net/>
+
 ## 参考
 
 [Category:編程語言語義](https://zh.wikipedia.org/wiki/Category:編程語言語義 "wikilink")

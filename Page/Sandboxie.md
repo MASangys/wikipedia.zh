@@ -6,7 +6,7 @@ XP](../Page/Windows_XP.md "wikilink")、[Windows
 
 ## 歷史
 
-  - 5.28版，支援Windows 10 build 1809，並修復了一些bug，於2019年02月15日釋出\[9\]
+  - 5.28版，支援Windows 10 build 1809，並修復了一些bug，於2019年2月15日釋出\[9\]
   - 5.22版，支援Windows 10 Creator's Fall Update，於2017年10月30日釋出\[10\]。
   - 5.18版，支援Windows Creators Update，於2017年4月13日釋出\[11\]。
   - 5.04版，從第五版開始支援Windows 10，於2015年9月22日釋出\[12\]。

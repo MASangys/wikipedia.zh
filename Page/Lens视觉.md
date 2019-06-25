@@ -1,7 +1,6 @@
 《**Lens视觉**》是[中国大陆财讯传媒集团旗下的一份杂志](https://zh.wikipedia.org/wiki/中国 "wikilink")。因2013年4月号调查报道《走出“马三家”》反映[辽宁省](../Page/辽宁省.md "wikilink")[马三女子劳教所女性劳教人员被虐待的问题](https://zh.wikipedia.org/wiki/馬三家女子勞教所 "wikilink")，于2013年5月被暂时停刊。\[1\]
 
-[國際記者聯盟](https://zh.wikipedia.org/wiki/國際記者聯盟 "wikilink")（International
-Federation of
+[國際記者聯盟](../Page/國際記者聯盟.md "wikilink")（International Federation of
 Journalists）在2013年5月7日發表聲明，指有關雜誌的出版發行受到影響，甚至連股票上市發行都受到干擾。國際記者聯合會在同一份聲明中，促請中國政府調查事件\[2\]。
 
 ## 参考

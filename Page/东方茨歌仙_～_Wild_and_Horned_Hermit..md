@@ -47,7 +47,7 @@ REX》2011年5 - 6月号和2012年3 - 4月刊发布「（番外篇）」。原�
     酒吞童子、[星熊童子](https://zh.wikipedia.org/wiki/星熊童子 "wikilink")、茨木童子都是日本鬼怪歷史有明確記載的惡鬼，酒吞暗指的是[萃香](../Page/東方萃夢想_～_Immaterial_and_Missing_Power..md "wikilink")，星熊暗指是[勇儀](../Page/東方地靈殿_～_Subterranean_Animism..md "wikilink")，若按此猜測茨木暗指的是華仙，那華仙可能同為四天王之一。
     在32話中，被二岩貒藏間接指出鬼的身份(但靈夢沒有發現)。
 
-### 茨木童子的腕
+### 茨木華扇之臂
 
 **，Ibaraki Douji's Arm**
 
@@ -320,7 +320,7 @@ REX》2011年5 - 6月号和2012年3 - 4月刊发布「（番外篇）」。原�
 <tr class="even">
 <td><p>50</p></td>
 <td></td>
-<td></td>
+<td><p>有角独臂的仙人</p></td>
 </tr>
 </tbody>
 </table>

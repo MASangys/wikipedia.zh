@@ -1,6 +1,6 @@
 **C5a受体**（或称**补体成分5a受体1，complement component 5a receptor
 1**，**C5AR1**或**CD88**，**C**luster of **D**ifferentiation
-88）是一种与相结合的[G蛋白偶联受体](../Page/G蛋白偶联受体.md "wikilink")\[1\]。
+88）是一种与[补体](../Page/补体受体.md "wikilink")相结合的[G蛋白偶联受体](../Page/G蛋白偶联受体.md "wikilink")\[1\]。
 
 [C5a-receptor.png](https://zh.wikipedia.org/wiki/File:C5a-receptor.png "fig:C5a-receptor.png")
 

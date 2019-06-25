@@ -256,7 +256,7 @@
 <a href="../Page/八大綜合台.md" title="wikilink">八大綜合</a></p></td>
 <td><p>《<a href="../Page/你照亮我星球.md" title="wikilink">你照亮我星球</a>》</p></td>
 <td><p>斯亞—節目女來賓</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鄭元暢" title="wikilink">鄭元暢</a>、<a href="../Page/張鈞甯.md" title="wikilink">張鈞甯</a>、<a href="../Page/孟耿如.md" title="wikilink">孟耿如</a></p></td>
+<td><p><a href="../Page/鄭元暢.md" title="wikilink">鄭元暢</a>、<a href="../Page/張鈞甯.md" title="wikilink">張鈞甯</a>、<a href="../Page/孟耿如.md" title="wikilink">孟耿如</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

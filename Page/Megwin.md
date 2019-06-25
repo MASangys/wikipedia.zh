@@ -166,7 +166,7 @@ RRCK英文全稱為"**R**oad of the **R**etort-pouched **C**urry **K**ing"
 
   - こんな○○は嫌だ\!\!
 
-○○可以是運動、活動、食物等等，這系列主要以多種方式惡搞該事物，例如在[足球機的球竿上晾衣](https://zh.wikipedia.org/wiki/足球機 "wikilink")、用[電鑽吃](https://zh.wikipedia.org/wiki/電鑽 "wikilink")[惠方卷等等](https://zh.wikipedia.org/wiki/惠方卷 "wikilink")。
+○○可以是運動、活動、食物等等，這系列主要以多種方式惡搞該事物，例如在[足球機的球竿上晾衣](https://zh.wikipedia.org/wiki/足球機 "wikilink")、用[電鑽吃](https://zh.wikipedia.org/wiki/電鑽 "wikilink")[惠方卷等等](../Page/惠方卷.md "wikilink")。
 
 ## 出售物品
 

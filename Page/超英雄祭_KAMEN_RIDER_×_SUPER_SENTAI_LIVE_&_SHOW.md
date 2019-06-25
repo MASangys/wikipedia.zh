@@ -13,6 +13,12 @@ SHOW』是[日本](../Page/日本.md "wikilink")[特攝的](https://zh.wikipedia
   -
     整個表演分成三部分：第一個部分為舞台表演，由兩大英雄共同演出，並由假面騎士和超級戰隊的演員在幕後親自配音。第二部分為演員訪談的時間，第二天的時候，在超級戰隊演員訪談時會介紹明年的新戰隊，並且在訪談中先行亮相。第三部分就是假面騎士和超級戰隊的演唱會，通常會是其中某一個系列的先唱，然後另外一個系列的後唱，比如騎士系列先唱，然後戰隊系列後唱，另外部分歌曲表演會因當天的特別嘉賓不同而有所不同，並在最後結束時，兩個系列的合唱一首安可曲。
 
+<!-- end list -->
+
+  -
+    在2018年的『45×40
+    感謝祭』第二天的『超級戰隊DAY』當天早上進行**[宇宙戰隊九連者](https://zh.wikipedia.org/wiki/宇宙戰隊九連者 "wikilink")**制作發表記者會，劇中初期的9位成員並於同天下午LIVE中的新戰隊就紹環節首度公開亮相。隔年的**超英雄祭2018**初期的9位成員再次登場，這也是同一組戰隊的初期成員二度在演唱會中全登場。
+
 ## 歷年表演資料
 
 ### 假面騎士誕生40周年×超級戰隊系列35作品記念 40×35 感謝祭 Anniversary LIVE & SHOW
@@ -725,7 +731,6 @@ SHOW』是[日本](../Page/日本.md "wikilink")[特攝的](https://zh.wikipedia
   -
     假面騎士：[奧野壯](https://zh.wikipedia.org/wiki/:ja:奥野壮 "wikilink")、[押田岳](https://zh.wikipedia.org/wiki/:ja:押田岳 "wikilink")、[大幡詩繪理](https://zh.wikipedia.org/wiki/:ja:大幡しえり "wikilink")、[渡邊圭祐](https://zh.wikipedia.org/wiki/:ja:渡邊圭祐 "wikilink")、[板垣李光人](https://zh.wikipedia.org/wiki/:ja:板垣李光人 "wikilink")、[紺野彩夏](https://zh.wikipedia.org/wiki/:ja:紺野彩夏 "wikilink")、[兼崎健太郎](../Page/兼崎健太郎.md "wikilink")
     超級戰隊：[伊藤旭輝](https://zh.wikipedia.org/wiki/:ja:伊藤あさひ "wikilink")、[濱正悟](https://zh.wikipedia.org/wiki/:ja:濱正悟 "wikilink")、[工藤遙](../Page/工藤遙.md "wikilink")、[結木滉星](https://zh.wikipedia.org/wiki/:ja:結木滉星 "wikilink")、[横山涼](https://zh.wikipedia.org/wiki/:ja:横山涼 "wikilink")、[奧山和紗](https://zh.wikipedia.org/wiki/:ja:奥山かずさ "wikilink")、[元木聖也](https://zh.wikipedia.org/wiki/:ja:元木聖也 "wikilink")
-    神秘嘉賓：
 
 <!-- end list -->
 
@@ -735,9 +740,196 @@ SHOW』是[日本](../Page/日本.md "wikilink")[特攝的](https://zh.wikipedia
 
   -
     假面騎士：RIDER CHIPS、假面騎士GIRLS、小林太郎、松岡充、Beverly、 Shuta Sueyoshi feat.
-    ISSA
+    ISSA、石原慎一、小林太郎、田中昌之、松本梨香、上木彩矢 w TAKUYA
     超級戰隊：伊勢大貴、大西洋平、高取秀明、幡野智宏、松原剛志、高橋秀幸、鎌田章吾、NoB、PSYCHIC
     LOVER（YOFFY、IMAJO）、吉田達彥、吉田仁美
+
+<table>
+<thead>
+<tr class="header">
+<th><p>歌曲</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>歌曲</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>超級戰隊部分</strong></p></td>
+</tr>
+<tr class="odd">
+<td><p>Keepin' Faith</p></td>
+</tr>
+<tr class="even">
+<td><p>Dear My Friends</p></td>
+</tr>
+<tr class="odd">
+<td><p>ルパンレンジャー、ダイヤルをまわせ<br />
+（魯邦連者、撥動轉盤）</p></td>
+</tr>
+<tr class="even">
+<td><p>Chase You Up!パトレンジャー<br />
+（Chase You Up!巡邏連者）</p></td>
+</tr>
+<tr class="odd">
+<td><p>炎神戦隊ゴーオンジャー<br />
+（炎神戰隊轟音者）</p></td>
+</tr>
+<tr class="even">
+<td><p>侍戦隊シンケンジャー<br />
+（侍戰隊真劍者）</p></td>
+</tr>
+<tr class="odd">
+<td><p>天裝戦隊ゴセイジャー<br />
+（天裝戰隊護星者）</p></td>
+</tr>
+<tr class="even">
+<td><p>海賊戦隊ゴーカイジャー<br />
+（海賊戰隊豪快者）</p></td>
+</tr>
+<tr class="odd">
+<td><p>バスターズ レディーゴー!<br />
+（Busters Ready GO！）</p></td>
+</tr>
+<tr class="even">
+<td><p>VAMOLA! キョウリュウジャー<br />
+（VAMOLA! 強龍者）</p></td>
+</tr>
+<tr class="odd">
+<td><p>烈車戦隊トッキュウジャー<br />
+（烈車戰隊特急者）</p></td>
+</tr>
+<tr class="even">
+<td><p>さあ行け！ニンニンジャー<br />
+（上吧！忍忍者）</p></td>
+</tr>
+<tr class="odd">
+<td><p>動物戦隊ジュウオウジャー<br />
+（動物戰隊獸王者）</p></td>
+</tr>
+<tr class="even">
+<td><p>LUCKYSTAR</p></td>
+</tr>
+<tr class="odd">
+<td><p>最強最高 SUPER STARS！</p></td>
+</tr>
+<tr class="even">
+<td><p>ルパンレンジャーVSパトレンジャー<br />
+(魯邦連者VS巡邏連者)</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>假面騎士部分</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>仮面ライダークウガ!<br />
+（假面騎士空我!）</p></td>
+</tr>
+<tr class="odd">
+<td><p>仮面ライダーAGITO<br />
+（假面騎士AGITO）</p></td>
+</tr>
+<tr class="even">
+<td><p>Alive A life</p></td>
+</tr>
+<tr class="odd">
+<td><p>Justiφ’s</p></td>
+</tr>
+<tr class="even">
+<td><p>ELEMENTS</p></td>
+</tr>
+<tr class="odd">
+<td><p>Build Up</p></td>
+</tr>
+<tr class="even">
+<td><p>Everlasting Sky</p></td>
+</tr>
+<tr class="odd">
+<td><p>ジオウ 時の王者<br />
+（ZI-O 時間的王者）</p></td>
+</tr>
+<tr class="even">
+<td><p>FUTURE GUARDIAN</p></td>
+</tr>
+<tr class="odd">
+<td><p>EAT KILL ALL</p></td>
+</tr>
+<tr class="even">
+<td><p>輝</p></td>
+</tr>
+<tr class="odd">
+<td><p>NEXT LEVEL</p></td>
+</tr>
+<tr class="even">
+<td><p>Climax Jump</p></td>
+</tr>
+<tr class="odd">
+<td><p>Break the Chain</p></td>
+</tr>
+<tr class="even">
+<td><p>Journey through the Decade</p></td>
+</tr>
+<tr class="odd">
+<td><p>W-B-X 〜W-Boiled Extreme〜</p></td>
+</tr>
+<tr class="even">
+<td><p>Anything Goes!</p></td>
+</tr>
+<tr class="odd">
+<td><p>Switch On!</p></td>
+</tr>
+<tr class="even">
+<td><p>Life is show time</p></td>
+</tr>
+<tr class="odd">
+<td><p>JUST LIVE MORE</p></td>
+</tr>
+<tr class="even">
+<td><p>SURPRISE-DRIVE</p></td>
+</tr>
+<tr class="odd">
+<td><p>我ら思う、故に我ら在り<br />
+（我思故我在）</p></td>
+</tr>
+<tr class="even">
+<td><p>EXCITE</p></td>
+</tr>
+<tr class="odd">
+<td><p>Be The One</p></td>
+</tr>
+<tr class="even">
+<td><p>Over "Quartzer"</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>閉幕</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>ヒーロー<br />
+（HREO）</p></td>
+</tr>
+</tbody>
+</table>
+
+### 超英雄祭 KAMEN RIDER × SUPER SENTAI LIVE & SHOW 2020
+
+  - 日期：2020年1月〇〇日
+  - 地點：
+  - 演員：[騎士龍戰隊龍裝者](../Page/騎士龍戰隊龍裝者.md "wikilink")
+
+<!-- end list -->
+
+  -
+    假面騎士：
+    超級戰隊：[一之瀨颯](https://zh.wikipedia.org/wiki/:ja:一ノ瀬颯 "wikilink")、[綱啓永](../Page/綱啓永.md "wikilink")、[尾碕真花](../Page/尾碕真花.md "wikilink")、[小原唯和](https://zh.wikipedia.org/wiki/:ja:原唯和 "wikilink")、[岸田達也](https://zh.wikipedia.org/wiki/:ja:岸田タツヤ "wikilink")、[兵頭功海](https://zh.wikipedia.org/wiki/:ja:兵頭功海 "wikilink")、[金城茉奈](https://zh.wikipedia.org/wiki/:ja:金城茉奈 "wikilink")
+
+<!-- end list -->
+
+  - 歌手：
+
+<!-- end list -->
+
+  -
+    假面騎士：
+    超級戰隊：
 
 <table>
 <thead>
@@ -777,55 +969,7 @@ SHOW』是[日本](../Page/日本.md "wikilink")[特攝的](https://zh.wikipedia
 <td></td>
 </tr>
 <tr class="odd">
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-</tr>
-<tr class="even">
 <td><p><strong>假面騎士部分</strong></p></td>
-</tr>
-<tr class="odd">
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
 </tr>
 <tr class="even">
 <td></td>

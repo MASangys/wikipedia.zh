@@ -222,8 +222,7 @@
     优秀的哈希函数发生器
 14. [GNU gettext](https://zh.wikipedia.org/wiki/GNU_gettext "wikilink")
     – 国际化库
-15. [GNU
-    lightning](https://zh.wikipedia.org/wiki/GNU_lightning "wikilink") –
+15. [GNU lightning](../Page/GNU_lightning.md "wikilink") –
     生成机器语言的[即时编译器](https://zh.wikipedia.org/wiki/即时编译 "wikilink")
 16. [DotGNU](../Page/DotGNU.md "wikilink") –
     Microsoft[.NET的替代](../Page/.NET框架.md "wikilink")
@@ -329,9 +328,7 @@
 18. [GNU Parted](../Page/GNU_Parted.md "wikilink") – 分区程序
 19. [GNU nano](https://zh.wikipedia.org/wiki/GNU_nano "wikilink") -
     文本编辑器
-20. [GNU
-    parallel](https://zh.wikipedia.org/wiki/GNU_parallel "wikilink") –
-    从标准输入并行构建和执行命令
+20. [GNU parallel](../Page/GNU_parallel.md "wikilink") – 从标准输入并行构建和执行命令
 21. [pexec](https://zh.wikipedia.org/wiki/pexec "wikilink") –
     并行执行shell命令（在单一主机上，或使用[SSH连接多个主机](https://zh.wikipedia.org/wiki/SSH "wikilink")）
 22. [GNU Privacy Guard](../Page/GnuPG.md "wikilink") –

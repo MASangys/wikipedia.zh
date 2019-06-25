@@ -154,6 +154,7 @@ FEATHER」。
   - 2010 泰國 LG Entertainer 亞軍
   - 2014 Kpop Starz 最佳藝人獎\[9\]
   - 2017 泰國 Great Stars 年度Social Super Star
+  - 2019 泰國 Dara daily Awards 最具人氣男藝人獎（Popular Vote）
 
 ## 參考資料
 

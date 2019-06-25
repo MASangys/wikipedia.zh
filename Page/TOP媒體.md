@@ -20,7 +20,7 @@ TOP](https://zh.wikipedia.org/wiki/TEEN_TOP "wikilink")、
 | 出道年份 | 組合名稱                                                          | 性別 | 成員                          | 隊長    | 狀態  | 粉絲名稱       |
 | ---- | ------------------------------------------------------------- | -- | --------------------------- | ----- | --- | ---------- |
 | 2010 | [TEEN TOP](https://zh.wikipedia.org/wiki/TEEN_TOP "wikilink") | 男  | C.A.P、天地、Niel、Ricky、創造      | C.A.P | 活動中 | ANGEL      |
-| 2012 | [100%](https://zh.wikipedia.org/wiki/100%_\(組合\) "wikilink")  | 男  | 旻佑、綠賢、鍾煥、粲龍、赫晉              | 旻佑    | 活動中 | PERFECTION |
+| 2012 | [100%](https://zh.wikipedia.org/wiki/100%_\(組合\) "wikilink")  | 男  | 旻佑、綠賢、熧環、燦龍、赫晉              | 旻佑    | 活動中 | PERFECTION |
 | 2015 | [UP10TION](../Page/UP10TION.md "wikilink")                    | 男  | 鎮琥、坤、高潔、偉、碧土、宇信、善燏、歡喜、奎真、曉悟 | 鎮琥    | 活動中 | HONEY10    |
 |      |                                                               |    |                             |       |     |            |
 

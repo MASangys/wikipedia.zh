@@ -1,5 +1,5 @@
-**Aimer**是一名[日本](../Page/日本.md "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")。她的所有個人資料，包含姓名、生日等皆未公開。其藝名Aimer取自法語，意為「愛」，作詞时则以aimerrhythm名義署名。在2011年以[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")《》\[1\]正式出道，隸屬的唱片公司是[日本索尼音樂娛樂旗下的](../Page/日本索尼音樂娛樂.md "wikilink")[SME
-Records](../Page/SME_Records.md "wikilink")。所屬[經紀公司是FOURseam](../Page/經紀公司.md "wikilink")。
+**Aimer**是一名[日本](../Page/日本.md "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")。其個人資料（包含姓名）未曾對外公開披露。藝名Aimer取自法語單詞「愛」，作詞時使用aimerrhythm的名義署名。在2011年她以[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")《》\[1\]正式出道，其唱片由[日本索尼音樂娛樂旗下的](../Page/日本索尼音樂娛樂.md "wikilink")[SME
+Records唱片公司发行](../Page/SME_Records.md "wikilink")，本人則隸屬於FOURseam[經紀公司](../Page/經紀公司.md "wikilink")。
 
 ## 經歷
 
@@ -273,11 +273,14 @@ SECL-2369（期間生産限定盤）</p></td>
 <td><p>1位[8]</p></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>17th</p></td>
+<td><p>2019年8月14日</p></td>
+<td><p><strong>Torches</strong></p></td>
+<td><p>12cmCD+DVD（初回限定盤、期間生產限定盤/動畫盤）<br />
+12cmCD（通常盤）</p></td>
+<td><p>SECL-2480/1（初回限定盤）<br />
+SECL-2482（通常盤）<br />
+SECL-2483（期間生産限定盤/動畫盤）</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -652,7 +655,7 @@ SawanoHiroyuki[nZk]『&lt;<a href="https://zh.wikipedia.org/wiki/2V-ALK" title="
 <tr class="odd">
 <td><p>2017年1月13日</p></td>
 <td><p>Listen (featuring<a href="../Page/艾薇兒·拉維尼.md" title="wikilink">Avril Lavigne</a>)</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/ONE_OK_ROCK" title="wikilink">ONE OK ROCK</a>『<a href="../Page/Ambitions.md" title="wikilink">Ambitions</a>』</p></td>
+<td><p><a href="../Page/ONE_OK_ROCK.md" title="wikilink">ONE OK ROCK</a>『<a href="../Page/Ambitions.md" title="wikilink">Ambitions</a>』</p></td>
 <td><p>バックコーラス参加</p></td>
 </tr>
 <tr class="even">

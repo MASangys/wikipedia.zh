@@ -665,41 +665,16 @@
 <tr class="odd">
 <td><p>2019</p></td>
 <td><p>♦ <strong></strong></p></td>
-<td></td>
+<td><p>基於《超人王朝》改編。</p></td>
 </tr>
 <tr class="even">
-<td><p>已宣佈</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2019</p></td>
-<td><p><strong>Justice League vs. the Fatal Five</strong></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong>蝙蝠俠：緘默</strong></p></td>
-<td><p>基於《<a href="https://zh.wikipedia.org/wiki/蝙蝠俠：緘默" title="wikilink">蝙蝠俠：緘默</a>》改編。</p></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p><strong></strong></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p><strong>Wonder Woman: Bloodlines</strong></p></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="odd">
-<td><p><strong>少年悍將GO！大戰少年悍將</strong></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2021</p></td>
-<td><p><strong>DC超級寵物</strong></p></td>
+<td><p><strong></strong></p></td>
+<td><p>基於《》改編。</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -980,6 +955,7 @@
 | 2018 | ****      |                                                               |                                                                               |
 | **** |           |                                                               |                                                                               |
 | **** |           |                                                               |                                                                               |
+|      |           |                                                               |                                                                               |
 
 ## 短片（1941～1952）
 

@@ -23,7 +23,7 @@ Sky”，參加[Comic Market等日本的同人活動](../Page/Comic_Market.md "w
   - [死神大人與4位女友](../Page/死神大人與4位女友.md "wikilink")（）『月刊GANGAN
     JOKER』連載。原作：[巢山真](https://zh.wikipedia.org/wiki/巢山真 "wikilink")、全3卷
   - [只要長得可愛，即使是變態你也喜歡嗎？](../Page/只要長得可愛，即使是變態你也喜歡嗎？.md "wikilink")（）『[月刊Dragon
-    Age](https://zh.wikipedia.org/wiki/月刊Dragon_Age "wikilink")』連載。原作：[花間燈](https://zh.wikipedia.org/wiki/花間燈 "wikilink")
+    Age](https://zh.wikipedia.org/wiki/月刊Dragon_Age "wikilink")』連載。原作：[花間燈](../Page/花間燈.md "wikilink")
 
 ### 插畫作品
 

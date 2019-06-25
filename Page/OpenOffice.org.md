@@ -383,7 +383,7 @@ GPL釋出了大部份的Java技術，從而使得昇陽公司的Java近乎成為
 
 还有一个脚本项目，用于收集、分类以及发布有用的[宏](https://zh.wikipedia.org/wiki/宏 "wikilink")。
 
-[OpenGroupware.org是一个程序扩展集](https://zh.wikipedia.org/wiki/OpenGroupware.org "wikilink")，可用于分享OpenOffice.org文档、日历、地址簿、[电子邮件](../Page/电子邮件.md "wikilink")、[即时通讯](https://zh.wikipedia.org/wiki/即时通讯 "wikilink")，以及[白板](https://zh.wikipedia.org/wiki/白板 "wikilink")，并可对其他[群件应用程序进行存取](https://zh.wikipedia.org/wiki/群件 "wikilink")。
+[OpenGroupware.org是一个程序扩展集](https://zh.wikipedia.org/wiki/OpenGroupware.org "wikilink")，可用于分享OpenOffice.org文档、日历、地址簿、[电子邮件](../Page/电子邮件.md "wikilink")、[即时通讯](https://zh.wikipedia.org/wiki/即时通讯 "wikilink")，以及[白板](../Page/白板.md "wikilink")，并可对其他[群件应用程序进行存取](https://zh.wikipedia.org/wiki/群件 "wikilink")。
 
 在[OOExtras](https://www.webcitation.org/6196xaBSZ?url=http://www.smalldataproblem.org/ooextras/)上，还可以新建并共享各类文档模版等。
 
@@ -408,6 +408,9 @@ GPL釋出了大部份的Java技術，從而使得昇陽公司的Java近乎成為
 
 [新加坡航空公司採用Sun](../Page/新加坡航空.md "wikilink") StarOffice提供乘客機上服務\[34\]。
 
+財政部財政資訊中心帶領臺灣5地區的國稅局導入OpenOffice辦公軟體，目前共計8千多名員工使用，財政資訊中心估算，共省下了約1億3千萬元的軟體購置費用。2013-01-15
+\[35\]。
+
 ## 國際OpenOffice.org年會
 
 國際OpenOffice.org年會，自2002年以來，每年舉辦一次，其社群採用票選方式來決定每一年的舉辦地點。年會主要討論OpenOffice的相關技術。[第6屆OpenOffice.org年會](https://web.archive.org/web/20080724195956/http://www.ooobeijing2008.com/chinese/index.html)於2008年11月5～7日在[北京](https://zh.wikipedia.org/wiki/北京 "wikilink")[釣魚台國賓館與](https://zh.wikipedia.org/wiki/釣魚台國賓館 "wikilink")[北京大學舉辦](https://zh.wikipedia.org/wiki/北京大學 "wikilink")。
@@ -418,14 +421,14 @@ OpenOffice.org自問世以來產生了多個派生版本，其中主要有:
 
   - Apache OpenOffice
 
-2011年6月Oracle將OpenOffice.org源碼及商標捐贈給Apache軟體基金會。Apache專案的開發人員池經提議由IBM員工、Linux發行版企業及公共機構選取。\[35\]IBM
-員工繼續進行主要的開發，\[36\]\[37\]\[38\]\[39\]\[40\]包括雇傭前StarDivision開發者。\[41\]Apache專案從OpenOffice.org
-3.4 beta 1中移除或替換了大量不與Apache許可協議相容的源碼，包括字型。\[42\]並於2012年5月釋出3.4.0。\[43\]
+2011年6月Oracle將OpenOffice.org源碼及商標捐贈給Apache軟體基金會。Apache專案的開發人員池經提議由IBM員工、Linux發行版企業及公共機構選取。\[36\]IBM
+員工繼續進行主要的開發，\[37\]\[38\]\[39\]\[40\]\[41\]包括雇傭前StarDivision開發者。\[42\]Apache專案從OpenOffice.org
+3.4 beta 1中移除或替換了大量不與Apache許可協議相容的源碼，包括字型。\[43\]並於2012年5月釋出3.4.0。\[44\]
 
 IBM Lotus Symphony的源碼於2012年捐贈給Apache軟體基金會，併入Apache OpenOffice
-4.0，\[44\]而Symphony被終止以支援Apache OpenOffice。\[45\]
+4.0，\[45\]而Symphony被終止以支援Apache OpenOffice。\[46\]
 
-該專案自視為OpenOffice.org不間斷的續作，\[46\]其他人視其為複刻，\[47\]\[48\]\[49\]\[50\]\[51\]\[52\]\[53\]或者至少是一個分立的專案。\[54\]
+該專案自視為OpenOffice.org不間斷的續作，\[47\]其他人視其為複刻，\[48\]\[49\]\[50\]\[51\]\[52\]\[53\]\[54\]或者至少是一個分立的專案。\[55\]
 
   - LibreOffice
 
@@ -436,7 +439,7 @@ Document
 Foundation](https://zh.wikipedia.org/wiki/The_Document_Foundation "wikilink")）的新團隊，基於OpenOffice.org即將到來的3.3版开发了另一个分支——[LibreOffice](https://zh.wikipedia.org/wiki/LibreOffice "wikilink")。自此，LibreOffice便從OpenOffice.org分割而成立，並承襲原本的OpenOffice.org社群繼續進行分支版本的開發及維護。
 
 在Apache基金会接管OpenOffice，并发布Apache OpenOffice
-3.4之后，文档基金会表示LibreOffice将继续保持独立，不会再与OpenOffice合并。\[55\]多数GNU/Linux发行版都将默认的Office套件改为了LibreOffice。[Oracle
+3.4之后，文档基金会表示LibreOffice将继续保持独立，不会再与OpenOffice合并。\[56\]多数GNU/Linux发行版都将默认的Office套件改为了LibreOffice。[Oracle
 Linux](../Page/Oracle_Linux.md "wikilink") 6也推荐LibreOffice而非Apache
 OpenOffice或OpenOffice.org。
 
@@ -471,7 +474,7 @@ OpenOffice，代码并入AOO 4.0。
   - 針對亞洲版本的排序功能
   - 增加了文件過濾器
 
-甲骨文併購昇陽公司之後不久將其更名為Oracle Open Office，\[56\]2011年4月停止開發。\[57\]
+甲骨文併購昇陽公司之後不久將其更名為Oracle Open Office，\[57\]2011年4月停止開發。\[58\]
 
 ## 参考资料
 
@@ -611,32 +614,32 @@ OpenOffice，代码并入AOO 4.0。
     Suite in the
     Sky](http://www.sun.com/aboutsun/pr/2007-05/sunflash.20070529.1.xml)
 
-35. ; attachment to
+35. [財政部財政資訊中心加上臺灣5地區的國稅局導入OpenOffice辦公軟體 8千名國稅局員工改用OpenOffice](https://www.ithome.com.tw/node/78367)
 
-36.
+36. ; attachment to
 
 37.
 
 38.
 
 39.
+
 40.
-
 41.
-42.
 
+42.
 43.
 
 44.
-45.
 
+45.
 46.
 
 47.
+
 48.
 49.
 50.
-
 51.
 
 52.
@@ -645,8 +648,10 @@ OpenOffice，代码并入AOO 4.0。
 
 54.
 
-55. [LibreOffice:将继续保持独立不会重新与OpenOffice合并](http://www.cnbeta.com/articles/140558.htm)cnBeta.com
+55.
 
-56.
+56. [LibreOffice:将继续保持独立不会重新与OpenOffice合并](http://www.cnbeta.com/articles/140558.htm)cnBeta.com
 
 57.
+
+58.

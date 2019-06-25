@@ -98,5 +98,6 @@ Petty）建立的。
 2.
 3.
 [Category:墨尔本公司](https://zh.wikipedia.org/wiki/Category:墨尔本公司 "wikilink")
-[Category:澳大利亚科技](https://zh.wikipedia.org/wiki/Category:澳大利亚科技 "wikilink")
-[Category:科技公司](https://zh.wikipedia.org/wiki/Category:科技公司 "wikilink")
+[Category:澳大利亚科技公司](https://zh.wikipedia.org/wiki/Category:澳大利亚科技公司 "wikilink")
+[Category:澳大利亚电子公司](https://zh.wikipedia.org/wiki/Category:澳大利亚电子公司 "wikilink")
+[Category:2001年成立的公司](https://zh.wikipedia.org/wiki/Category:2001年成立的公司 "wikilink")

@@ -24,5 +24,6 @@ A並列為大韓民國](../Page/Channel_A.md "wikilink")[綜合編成頻道四�
   - [Magic Control](../Page/Magic_Control.md "wikilink")
   - [窮遊去哪裡](../Page/窮遊去哪裡.md "wikilink")
   - [戀愛的滋味](../Page/戀愛的滋味.md "wikilink")
+  - [首先一起去吧](../Page/首先一起去吧.md "wikilink")
 
 [Category:韓國綜合編成頻道](https://zh.wikipedia.org/wiki/Category:韓國綜合編成頻道 "wikilink")

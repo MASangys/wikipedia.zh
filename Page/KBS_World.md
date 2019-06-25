@@ -59,7 +59,7 @@ News 9和KBS自製紀錄片如常播出，直至2018年6月才完結。
 </tr>
 <tr class="odd">
 <td><p>21:20 - 22:00</p></td>
-<td><p><a href="../Page/左撇子妻子.md" title="wikilink">左撇子妻子</a></p></td>
+<td><p><a href="../Page/太陽的季節_(韓國電視劇).md" title="wikilink">太陽的季節</a></p></td>
 <td></td>
 <td></td>
 </tr>

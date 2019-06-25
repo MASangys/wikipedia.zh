@@ -1,6 +1,6 @@
-**Super Junior Donghae & Eunhyuk**是韓國演唱團體[Super
+**Super Junior-D\&E**是韓國演唱團體[Super
 Junior的第五個官方子團體](../Page/Super_Junior.md "wikilink")，由Super
-Junior的兩名成員[東海與](../Page/東海_\(藝人\).md "wikilink")[銀赫於](../Page/銀赫.md "wikilink")2011年組成。2016年憑藉迷你專輯《[Present](../Page/Present_\(Super_Junior_Donghae_&_Eunhyuk迷你專輯\).md "wikilink")》獲頒[日本金唱片大獎年度最佳專輯獎](../Page/日本金唱片大獎.md "wikilink")\[1\]。
+Junior的兩名成員[東海與](../Page/東海_\(藝人\).md "wikilink")[銀赫於](../Page/銀赫.md "wikilink")2011年組成。2016年憑藉迷你專輯《[Present](https://zh.wikipedia.org/wiki/Present_\(Super_Junior-D&E迷你專輯\) "wikilink")》獲頒[日本金唱片大獎年度最佳專輯獎](../Page/日本金唱片大獎.md "wikilink")\[1\]。
 
 ## 簡歷
 
@@ -76,8 +76,8 @@ SJ宣布將於](../Page/Label_SJ.md "wikilink")4月12日公開新專輯先行曲
 | ------------------------------------- |
 | 藝名                                    |
 | 藝名                                    |
-| [銀赫](../Page/銀赫.md "wikilink")        |
 | [東海](../Page/東海_\(藝人\).md "wikilink") |
+| [銀赫](../Page/銀赫.md "wikilink")        |
 
 ## 音樂作品
 
@@ -216,6 +216,7 @@ SJ宣布將於](../Page/Label_SJ.md "wikilink")4月12日公開新專輯先行曲
 | 2019年5月25日    | 曼谷站   | Thunder Dome Muang Thong Thani |
 | 2019年6月22-23日 | 台北站   | 新莊體育館                          |
 | 2019年6月29日    | 香港站   | 亞洲國際博覽館 Hall 10                |
+| 2019年8月27-28日 | 千葉站   | 幕張 Event Hall                  |
 
   - 其他大型演唱會
 
@@ -225,7 +226,7 @@ SJ宣布將於](../Page/Label_SJ.md "wikilink")4月12日公開新專輯先行曲
 | 2014年3月16日  | Kansai Collection | 大阪京瓷巨蛋          |
 | 2014年4月19日  | 東京GirlsAward      | 國立代代木競技場        |
 | 2014年11月14日 | 倫敦韓國電影節           | 倫敦萊斯特廣場         |
-| 2015年2月11日  | 2015年CCTV网络春晚     |                 |
+| 2015年2月11日  | 2015年CCTV網路春晚     |                 |
 | 2015年5月22日  | 樂天家族演唱會           | 蠶室綜合運動場奧林匹克主競技場 |
 | 2017年8月20日  | 2017 KCON in LA   | 洛杉機史坦波中心        |
 | 2018年8月4日   | A-Nation演唱會       | 長崎鹿特丹特設會場       |

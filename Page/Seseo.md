@@ -28,7 +28,7 @@ Ceceo指的是歷史上的與均發為清齒-齒齦噝音/s̄/（與相似）的
   - [加的斯省](https://zh.wikipedia.org/wiki/加的斯省 "wikilink")（[加的斯市區主要為seseo](https://zh.wikipedia.org/wiki/加的斯 "wikilink")）
   - [馬拉加省除](../Page/馬拉加省.md "wikilink")以外的大部分地區
   - [韋爾瓦省](../Page/韋爾瓦省.md "wikilink")、[塞維亞省](https://zh.wikipedia.org/wiki/塞維亞省 "wikilink")、[格拉納達省的南半部](../Page/格拉納達省.md "wikilink")
-  - [阿爾梅里亞省的海岸地區](https://zh.wikipedia.org/wiki/阿爾梅里亞省 "wikilink")，以為主
+  - [阿爾梅里亞省的海岸地區](../Page/阿爾梅里亞省.md "wikilink")，以為主
   - [哈恩省和](../Page/哈恩省.md "wikilink")[科爾多瓦省的小部分地區](../Page/科爾多瓦省_\(西班牙\).md "wikilink")
 
 在這一區域中有多個非ceceo[方言島](https://zh.wikipedia.org/wiki/方言島 "wikilink")，例如[塞維亞和加的斯兩市的大部分居民為seseante](https://zh.wikipedia.org/wiki/塞維亞 "wikilink")，而[格拉納達市區則是seseo和區分](https://zh.wikipedia.org/wiki/格拉納達 "wikilink")與的居民各半\[4\]

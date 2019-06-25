@@ -1,7 +1,7 @@
 [JR_Shinjuku_Miraina_Tower-1b.JPG](https://zh.wikipedia.org/wiki/File:JR_Shinjuku_Miraina_Tower-1b.JPG "fig:JR_Shinjuku_Miraina_Tower-1b.JPG")
 **LINE
 Corporation**是[Naver集團設立於](../Page/Naver_\(公司\).md "wikilink")[日本](../Page/日本.md "wikilink")[東京的資訊服務公司](https://zh.wikipedia.org/wiki/東京 "wikilink")，以開發[LINE即時通訊軟體平台為主要業務](https://zh.wikipedia.org/wiki/LINE_\(應用程式\) "wikilink")，並圍繞LINE平台開發眾多服務，旗下擁有
-LINE FRIENDS
+[LINE FRIENDS](../Page/LINE家族.md "wikilink")
 商店販售周邊商品。在台灣入主[一卡通票證公司](../Page/一卡通票證公司.md "wikilink")，也涉足電子金流業務。在日本全資經營[活力門公司](https://zh.wikipedia.org/wiki/活力門公司 "wikilink")，提供入口網站服務。
 
 ## 沿革

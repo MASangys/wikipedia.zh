@@ -317,29 +317,31 @@ Joo發行歌曲Let This Die；N、Leo、Ravi出演徐仁國的Shake It Up；Hong
 | 2018年4月17日  | 향 (Scentist) \[40\]                     |            |                      |
 | 2018年7月31日  | 레오(LEO) - Touch & Sketch\[41\]          |            |                      |
 | 2019年3月5日   | 라비(RAVI) - TUXEDO\[42\]                 |            |                      |
+| 2019年6月17日  | 레오(LEO) - 로맨티시즘 (Romanticism)\[43\]     |            |                      |
 
 ### Dance Practicing (練習室版)
 
-|             |                                      |
-| ----------- | ------------------------------------ |
-| **發佈日期**    | **歌曲名稱**                             |
-| 2012年8月28日  | Rock Ur Body\[43\]                   |
-| 2013年2月2日   | 다칠 준비가 돼 있어 (On and On)\[44\]        |
-| 2013年5月29日  | hyde\[45\]                           |
-| 2013年8月14日  | 대.다.나.다.너 (G.R.8.U)\[46\]            |
-| 2013年11月27日 | 저주인형 (VOODOO DOLL)\[47\]             |
-| 2014年6月12日  | 기적 (ETERNITY)\[48\]                  |
-| 2014年10月20日 | Error\[49\] 'Error' MV 200\[50\]     |
-| 2015年3月4日   | 이별공식 (Love Equation)\[51\]           |
-| 2015年11月23日 | 사슬 (Chained up)\[52\]                |
-| 2016年5月11日  | 다이너마이트 (Dynamite)\[53\]              |
-| 2016年8月19日  | Fantasy\[54\]                        |
-| 2016年11月23日 | The Closer\[55\]                     |
-| 2017年1月30日  | 라비 (RAVI)- BOMB\[56\]                |
-| 2017年5月27日  | 도원경(桃源境) (Shangri-La)\[57\]          |
-| 2017年9月14日  | Whisper\[58\]                        |
-| 2018年4月29日  | 향 (Scentist) (Moving Cam ver.)\[59\] |
-| 2018年8月4日   | 레오(LEO) - Touch & Sketch\[60\]       |
+|             |                                                  |
+| ----------- | ------------------------------------------------ |
+| **發佈日期**    | **歌曲名稱**                                         |
+| 2012年8月28日  | Rock Ur Body\[44\]                               |
+| 2013年2月2日   | 다칠 준비가 돼 있어 (On and On)\[45\]                    |
+| 2013年5月29日  | hyde\[46\]                                       |
+| 2013年8月14日  | 대.다.나.다.너 (G.R.8.U)\[47\]                        |
+| 2013年11月27日 | 저주인형 (VOODOO DOLL)\[48\]                         |
+| 2014年6月12日  | 기적 (ETERNITY)\[49\]                              |
+| 2014年10月20日 | Error\[50\] 'Error' MV 200\[51\]                 |
+| 2015年3月4日   | 이별공식 (Love Equation)\[52\]                       |
+| 2015年11月23日 | 사슬 (Chained up)\[53\]                            |
+| 2016年5月11日  | 다이너마이트 (Dynamite)\[54\]                          |
+| 2016年8月19日  | Fantasy\[55\]                                    |
+| 2016年11月23日 | The Closer\[56\]                                 |
+| 2017年1月30日  | 라비 (RAVI)- BOMB\[57\]                            |
+| 2017年5月27日  | 도원경(桃源境) (Shangri-La)\[58\]                      |
+| 2017年9月14日  | Whisper\[59\]                                    |
+| 2018年4月29日  | 향 (Scentist) (Moving Cam ver.)\[60\]             |
+| 2018年8月4日   | 레오(LEO) - Touch & Sketch\[61\]                   |
+| 2018年8月7日   | 레오(LEO) - Touch & Sketch (Moving Cam ver.)\[62\] |
 
 ### 合作音樂影片(MV)
 
@@ -354,7 +356,7 @@ Joo發行歌曲Let This Die；N、Leo、Ravi出演徐仁國的Shake It Up；Hong
 </tr>
 <tr class="even">
 <td><p>2011年8月10日</p></td>
-<td><p><a href="../Page/徐仁國.md" title="wikilink">徐仁國</a>《Shake It Up[61]》</p></td>
+<td><p><a href="../Page/徐仁國.md" title="wikilink">徐仁國</a>《Shake It Up[63]》</p></td>
 <td><p>Shake It Up</p></td>
 <td><p>N、LEO、RAVI</p></td>
 <td><p>練習生時期</p></td>
@@ -368,28 +370,28 @@ Joo發行歌曲Let This Die；N、Leo、Ravi出演徐仁國的Shake It Up；Hong
 </tr>
 <tr class="even">
 <td><p>2012年4月12日</p></td>
-<td><p><a href="../Page/徐仁國.md" title="wikilink">徐仁國</a>《Tease Me[62]》</p></td>
+<td><p><a href="../Page/徐仁國.md" title="wikilink">徐仁國</a>《Tease Me[64]》</p></td>
 <td><p>Perfect Fit</p></td>
 <td><p>HONGBIN</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2014年2月11日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/K.will" title="wikilink">K.will</a>&amp;<a href="https://zh.wikipedia.org/wiki/MAMAMOO" title="wikilink">MAMAMOO</a>《썸남썸녀[63]》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/K.will" title="wikilink">K.will</a>&amp;<a href="https://zh.wikipedia.org/wiki/MAMAMOO" title="wikilink">MAMAMOO</a>《썸남썸녀[65]》</p></td>
 <td><p>썸남썸녀</p></td>
 <td><p>N、HONGBIN</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2014年4月28日</p></td>
-<td><p>Chad Future《Rock The World[64]》</p></td>
+<td><p>Chad Future《Rock The World[66]》</p></td>
 <td><p>Rock The World</p></td>
 <td><p>RAVI</p></td>
 <td><p>共同合作Rap演出</p></td>
 </tr>
 <tr class="odd">
 <td><p>2014年8月5日</p></td>
-<td><p>LYn X LEO《꽃잎놀이(Blossom tears)[65]》</p></td>
+<td><p>LYn X LEO《꽃잎놀이(Blossom tears)[67]》</p></td>
 <td><p><small>Y.BIRD From Jellyfish With LYn X LEO</small></p></td>
 <td><p>LEO</p></td>
 <td></td>
@@ -397,7 +399,7 @@ Joo發行歌曲Let This Die；N、Leo、Ravi出演徐仁國的Shake It Up；Hong
 <tr class="even">
 <td><p>2014年8月20日</p></td>
 <td><p>Big Byung (빅병)<br />
-《Stress Come on! (스트레스 컴온!)[66]》</p></td>
+《Stress Come on! (스트레스 컴온!)[68]》</p></td>
 <td><p>형돈이와 대준이의 히트제조기<br />
 （亨敦和大俊的大勢製造機）</p></td>
 <td><p>N、HYUK</p></td>
@@ -406,7 +408,7 @@ Joo發行歌曲Let This Die；N、Leo、Ravi出演徐仁國的Shake It Up；Hong
 <tr class="odd">
 <td><p>2015年1月16日</p></td>
 <td><p>Big Byung (빅병)<br />
-《Ojingeo Doenjang(오징어 된장)[67]》</p></td>
+《Ojingeo Doenjang(오징어 된장)[69]》</p></td>
 <td><p>형돈이와 대준이의 히트제조기2<br />
 （亨敦和大俊的大勢製造機2）</p></td>
 <td><p>N、HYUK</p></td>
@@ -414,7 +416,7 @@ Joo發行歌曲Let This Die；N、Leo、Ravi出演徐仁國的Shake It Up；Hong
 </tr>
 <tr class="even">
 <td><p>2015年6月1日</p></td>
-<td><p><a href="../Page/陸翊.md" title="wikilink">陸翊</a>《四次元愛情[68]》</p></td>
+<td><p><a href="../Page/陸翊.md" title="wikilink">陸翊</a>《四次元愛情[70]》</p></td>
 <td><p>第八天</p></td>
 <td><p>KEN</p></td>
 <td></td>
@@ -426,7 +428,7 @@ Joo發行歌曲Let This Die；N、Leo、Ravi出演徐仁國的Shake It Up；Hong
 
 #### VIXX TV
 
-  - VIXX TV 播放清單\[69\]
+  - VIXX TV 播放清單\[71\]
 
 <!-- end list -->
 
@@ -435,7 +437,7 @@ Joo發行歌曲Let This Die；N、Leo、Ravi出演徐仁國的Shake It Up；Hong
 
 #### VIXX TV2
 
-  - VIXX TV2 播放清單\[70\]
+  - VIXX TV2 播放清單\[72\]
 
 <!-- end list -->
 
@@ -1906,11 +1908,11 @@ Joo發行歌曲Let This Die；N、Leo、Ravi出演徐仁國的Shake It Up；Hong
 |        |            |          |            |
 | ------ | ---------- | -------- | ---------- |
 | **成員** | **登記名稱**   | **登記編號** | **參與歌曲列表** |
-| N      | 차학연        | 10012530 | \[71\]     |
-| LEO    | LEO / 정택운  | 10009369 | \[72\]     |
-| KEN    | 이재환        | 10018005 | \[73\]     |
-| RAVI   | RAVI / 김원식 | 10003665 | \[74\]     |
-| HYUK   | 한상혁        | 10013627 | \[75\]     |
+| N      | 차학연        | 10012530 | \[73\]     |
+| LEO    | LEO / 정택운  | 10009369 | \[74\]     |
+| KEN    | 이재환        | 10018005 | \[75\]     |
+| RAVI   | RAVI / 김원식 | 10003665 | \[76\]     |
+| HYUK   | 한상혁        | 10013627 | \[77\]     |
 
 ## 參考資料
 
@@ -2034,3 +2036,5 @@ Joo發行歌曲Let This Die；N、Leo、Ravi出演徐仁國的Shake It Up；Hong
 73.
 74.
 75.
+76.
+77.

@@ -219,9 +219,16 @@ Project**與**TJR**(已活動休止)是其姐妹品牌。目前是（パート�
 <tr class="even">
 <td><p>17</p></td>
 <td><p>2019年5月31日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/E_School_Life" title="wikilink">Eスクールライフ</a></strong></p></td>
+<td><p><strong><a href="../Page/E_School_Life.md" title="wikilink">Eスクールライフ</a></strong></p></td>
 <td><p>松倉慎二、神宮寺、平野譲治</p></td>
 <td></td>
+</tr>
+<tr class="odd">
+<td><p>18</p></td>
+<td><p>2019年11月29日</p></td>
+<td><p><strong></strong></p></td>
+<td><p>ねたろぅ、ものと、綾瀬はづき</p></td>
+<td><p>桜城なお、此ノ花しな、時野つばき、羽凪華</p></td>
 </tr>
 </tbody>
 </table>

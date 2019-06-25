@@ -133,7 +133,7 @@ La Kill》。
 </tr>
 <tr class="odd">
 <td><p>2019年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/PROMARE" title="wikilink">PROMARE</a></p></td>
+<td><p><a href="../Page/PROMARE.md" title="wikilink">PROMARE</a></p></td>
 <td></td>
 <td><p>2019年5月24日</p></td>
 <td></td>

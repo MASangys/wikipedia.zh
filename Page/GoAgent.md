@@ -133,7 +133,7 @@ GoAgent项目删除不久，[GitHub即遭到了来自中国的](../Page/GitHub.m
   - [XXNet在Github上的主页](https://github.com/XX-net/XX-Net)
   - [Xndroid在Github上的主页](http://github.com/XX-net/Xndroid)
 
-[Category:破网软件](https://zh.wikipedia.org/wiki/Category:破网软件 "wikilink")
+[Category:翻墙软件](https://zh.wikipedia.org/wiki/Category:翻墙软件 "wikilink")
 [Category:代理软件](https://zh.wikipedia.org/wiki/Category:代理软件 "wikilink")
 [Category:用Python編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用Python編程的自由軟體 "wikilink")
 [Category:软件小作品](https://zh.wikipedia.org/wiki/Category:软件小作品 "wikilink")

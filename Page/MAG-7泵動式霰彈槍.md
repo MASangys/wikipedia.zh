@@ -16,7 +16,7 @@ M1型號，卻完全破壞MAG-7原來作為一把非常緊湊而強硬的近身�
 
 ## 專用彈藥
 
-原來的[12鉛徑](https://zh.wikipedia.org/wiki/霰彈 "wikilink")×60[毫米霰彈藥筒很難獲得](../Page/毫米.md "wikilink")，然而墨西哥的阿吉拉彈藥公司（，簡稱：NFA）生產的“迷你彈殼”可以作為替代，但有可能無法100％正常裝入MAG-7的[彈匣內並且正常操作](../Page/彈匣.md "wikilink")。通常都是3發霰彈可以在一定的可靠性以下正常裝填和發射。標準型12鉛徑霰彈，也可以通過修改，以符合60毫米（2.36英吋）[膛室的要求](../Page/膛室.md "wikilink")。[塔克諾武器公司自身亦有銷售其](https://zh.wikipedia.org/wiki/塔克諾公司 "wikilink")5號鹿彈、AAA、SSG和防暴用[橡膠子彈的](https://zh.wikipedia.org/wiki/橡膠子彈 "wikilink")12鉛徑×60毫米霰彈藥筒版本。
+原來的[12鉛徑](https://zh.wikipedia.org/wiki/霰彈 "wikilink")×60[毫米霰彈藥筒很難獲得](../Page/毫米.md "wikilink")，然而墨西哥的阿吉拉彈藥公司（，簡稱：NFA）生產的“迷你彈殼”可以作為替代，但有可能無法100％正常裝入MAG-7的[彈匣內並且正常操作](../Page/彈匣.md "wikilink")。通常都是3發霰彈可以在一定的可靠性以下正常裝填和發射。標準型12鉛徑霰彈，也可以通過修改，以符合60毫米（2.36英吋）[膛室的要求](../Page/膛室.md "wikilink")。[塔克諾武器公司自身亦有銷售其](https://zh.wikipedia.org/wiki/塔克諾公司 "wikilink")5號鹿彈、AAA、SSG和防暴用[橡膠子彈的](../Page/橡膠子彈.md "wikilink")12鉛徑×60毫米霰彈藥筒版本。
 
 ## 現狀
 

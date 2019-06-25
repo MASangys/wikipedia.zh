@@ -1,6 +1,6 @@
 **LV型蒸汽机车**（俄语：Паровоз
 ЛВ）是[二战结束后](https://zh.wikipedia.org/wiki/二战 "wikilink")[苏联铁路制造的一款干线货运](https://zh.wikipedia.org/wiki/苏联铁路 "wikilink")[蒸汽机车](https://zh.wikipedia.org/wiki/蒸汽机车 "wikilink")。机车轴式为[2-10-2](https://zh.wikipedia.org/wiki/2-10-2 "wikilink")，全长14
-789mm，整备质量为121.5t。该车原型为，由[伏罗希洛夫格勒蒸汽机车制造厂经过改进并于](../Page/卢甘斯克机车制造厂.md "wikilink")1952年到1956年期间生产，共计522台，最高时速为80公里/小时。\[1\]
+789mm，整备质量为121.5t。该车原型为[L型蒸汽机车](../Page/L型蒸汽机车.md "wikilink")，由[伏罗希洛夫格勒蒸汽机车制造厂经过改进并于](../Page/卢甘斯克机车制造厂.md "wikilink")1952年到1956年期间生产，共计522台，最高时速为80公里/小时。\[1\]
 
 ## 历史
 

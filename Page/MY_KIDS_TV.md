@@ -25,7 +25,7 @@ KIDS TV定頻在中華電信MOD第18頻道。2017年11月1日，因應中華電�
   - [忍者亂太郎](https://zh.wikipedia.org/wiki/忍者亂太郎 "wikilink")
   - [星光少女 彩虹舞台](../Page/星光少女_彩虹舞台.md "wikilink")
   - [鹹蛋超人 TARO](https://zh.wikipedia.org/wiki/鹹蛋超人_TARO "wikilink")
-  - [晨曦公主](https://zh.wikipedia.org/wiki/晨曦公主 "wikilink")
+  - [晨曦公主](../Page/晨曦公主.md "wikilink")
   - [小紅豆](https://zh.wikipedia.org/wiki/小紅豆 "wikilink")
   - [偶像大師](https://zh.wikipedia.org/wiki/偶像大師 "wikilink")
   - [萌學園6復活之戰](https://zh.wikipedia.org/wiki/萌學園6復活之戰 "wikilink")

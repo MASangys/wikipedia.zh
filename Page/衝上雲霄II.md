@@ -283,7 +283,6 @@ Amazing Summer](../Page/TVB_Amazing_Summer.md "wikilink")
 <td><p>PPP學員<br />
 後為二副機長<br />
 Manna之女<br />
-Daniel本想向其求婚，但駕駛小型飞机葬身天空<br />
 顧夏陽之女友，後分手<br />
 後為唐亦琛之女友<br />
 「鐵三角」成員之一<br />
@@ -452,7 +451,6 @@ Head姐</strong></p></td>
 <td><p><a href="../Page/陳倩揚.md" title="wikilink">陳倩揚</a></p></td>
 <td><p>鍾麗安</p></td>
 <td><p>機艙服務員<br />
-前飛揚航空機艙服務員<br />
 高志宏之女友，後分手</p></td>
 <td><p><strong>Joanne</strong></p></td>
 </tr>

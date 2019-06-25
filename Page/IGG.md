@@ -41,7 +41,7 @@ IGG股份於同日上午11時47分起短暫停牌\[8\]對於全年業績疑被�
 </tr>
 <tr class="even">
 <td></td>
-<td><p>MMORPG</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MMORPG" title="wikilink">MMORPG</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/客戶端網游" title="wikilink">客戶端網游</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/天使之戀Online" title="wikilink">天使之戀Online</a>（<a href="https://zh.wikipedia.org/wiki/ALO" title="wikilink">ALO</a>）</p></td>
 </tr>
@@ -101,7 +101,7 @@ IGG股份於同日上午11時47分起短暫停牌\[8\]對於全年業績疑被�
 </tr>
 <tr class="even">
 <td><p>Gods War Online</p></td>
-<td><p>MMORPG</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MMORPG" title="wikilink">MMORPG</a></p></td>
 <td><p>客戶端網游</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/眾神之戰" title="wikilink">眾神之戰</a></p></td>
 </tr>
@@ -131,15 +131,15 @@ IGG股份於同日上午11時47分起短暫停牌\[8\]對於全年業績疑被�
 </tr>
 <tr class="odd">
 <td><p>Myth War II</p></td>
-<td><p>MMORPG</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MMORPG" title="wikilink">MMORPG</a></p></td>
 <td><p>客戶端網游</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/遠古戰爭" title="wikilink">遠古戰爭</a>2</p></td>
 </tr>
 <tr class="even">
 <td><p>Lords Mobile</p></td>
-<td></td>
-<td></td>
-<td><p>王國紀元</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MMORPG" title="wikilink">MMORPG</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/安卓" title="wikilink">安卓</a>、<a href="https://zh.wikipedia.org/wiki/iOS" title="wikilink">iOS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/王國紀元" title="wikilink">王國紀元</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Slot Machines by IGG</p></td>

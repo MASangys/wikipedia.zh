@@ -1,5 +1,5 @@
 《**高桥名人之冒险岛III**》（日版名：，北美版名：Adventure Island 3）是由[Hudson
-Soft在](../Page/Hudson_Soft.md "wikilink")1992年7月31日發售[FC游戏机的横向卷轴](https://zh.wikipedia.org/wiki/FC游戏机 "wikilink")[平台游戏](../Page/平台游戏.md "wikilink")。\[1\][高橋名人之冒險島系列的第三款游戏](https://zh.wikipedia.org/wiki/高橋名人之冒險島系列 "wikilink")。1993年2月26日發售[Game
+Soft在](../Page/Hudson_Soft.md "wikilink")1992年7月31日發售[紅白機的横向卷轴](https://zh.wikipedia.org/wiki/紅白機 "wikilink")[平台游戏](../Page/平台游戏.md "wikilink")。\[1\][高橋名人之冒險島系列的第三款游戏](https://zh.wikipedia.org/wiki/高橋名人之冒險島系列 "wikilink")。1993年2月26日發售[Game
 Boy版](../Page/Game_Boy.md "wikilink")\[2\]，北美版的名稱是**Adventure Island II:
 Aliens in Paradise**。故事是描敘高橋名人的女朋友蒂娜被外星人抓走。
 

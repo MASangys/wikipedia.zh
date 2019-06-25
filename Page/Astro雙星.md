@@ -1,4 +1,4 @@
-**Astro雙星、Astro雙星HD**是[马来西亚](../Page/马来西亚.md "wikilink")[Astro拥有的频道](https://zh.wikipedia.org/wiki/Astro "wikilink")，全天候24小时播出。该频道主要播出来自[台湾和](https://zh.wikipedia.org/wiki/台湾 "wikilink")[中国大陸偶像劇和电视剧](https://zh.wikipedia.org/wiki/中国大陸 "wikilink")。出该頻道备有[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")、[英文及](https://zh.wikipedia.org/wiki/英文 "wikilink")[马来语字幕服务](../Page/马来语.md "wikilink")。
+**Astro雙星、Astro雙星HD**是[马来西亚](../Page/马来西亚.md "wikilink")[Astro拥有的频道](https://zh.wikipedia.org/wiki/Astro "wikilink")，全天候24小时播出。该频道主要播出来自[台湾](https://zh.wikipedia.org/wiki/台湾 "wikilink")、[香港和](../Page/香港.md "wikilink")[中国大陸偶像劇和电视剧](https://zh.wikipedia.org/wiki/中国大陸 "wikilink")。出该頻道备有[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")、[英文及](https://zh.wikipedia.org/wiki/英文 "wikilink")[马来语字幕服务](../Page/马来语.md "wikilink")。
 
 2018年7月，Astro雙星在平日將會升格為全天候中國電視劇頻道。
 
@@ -9,15 +9,18 @@
 
 ## 现时Astro双星、Astro双星HD播出中的剧集。
 
-| 日期            | 首播時间                                                      | 现时播出中的劇集                                            | 備註 |
-| ------------- | --------------------------------------------------------- | --------------------------------------------------- | -- |
-| 星期一至五         | 16:00 - 17:00                                             | [幸福一家人](../Page/幸福一家人.md "wikilink")                |    |
-| 17:00 - 18:00 | [我的真朋友](../Page/我的真朋友.md "wikilink")                      |                                                     |    |
-| 星期一至日         | 18:00 - 19:00                                             | [听雪楼](https://zh.wikipedia.org/wiki/听雪楼 "wikilink") |    |
-| 19:00 - 21:00 | [筑梦情缘](../Page/筑梦情缘.md "wikilink")                        | 两集连播                                                |    |
-| 星期六、日         | 16:00 - 17:00                                             | [我是顧家男](../Page/我是顧家男.md "wikilink")                |    |
-| 17:00 - 18:00 | [如果爱，重来](https://zh.wikipedia.org/wiki/如果爱，重来 "wikilink") | Astro Go，每周三22:00与台湾爱奇艺VIP同步播出。                     |    |
-|               |                                                           |                                                     |    |
+| 日期            | 首播時间                                                      | 现时播出中的劇集                                          | 備註               |
+| ------------- | --------------------------------------------------------- | ------------------------------------------------- | ---------------- |
+| 星期一至五         | 16:00 - 17:00                                             | [幸福一家人](../Page/幸福一家人.md "wikilink")              |                  |
+| 17:00 - 18:00 | [我的真朋友](../Page/我的真朋友.md "wikilink")                      |                                                   |                  |
+| 星期一至日         | 18:00 - 19:00                                             | [听雪楼](../Page/听雪楼.md "wikilink")                  |                  |
+| 19:00 - 20:00 | [七日生](../Page/七日生.md "wikilink")                          |                                                   |                  |
+| 20:00 - 21:00 | [前男友不是人](../Page/前男友不是人.md "wikilink")                    |                                                   |                  |
+| 星期一至五         | 21:00 - 21:30                                             | [教束](https://zh.wikipedia.org/wiki/教束 "wikilink") | Astro优先看，与香港同日播出 |
+| 21:30 - 22:00 | [退休女皇](https://zh.wikipedia.org/wiki/退休女皇 "wikilink")     | Astro优先看，与香港同日播出                                  |                  |
+| 星期六、日         | 16:00 - 17:00                                             | [我是顧家男](../Page/我是顧家男.md "wikilink")              |                  |
+| 17:00 - 18:00 | [如果爱，重来](https://zh.wikipedia.org/wiki/如果爱，重来 "wikilink") | Astro Go，每周三22:00与台湾爱奇艺VIP同步播出。                   |                  |
+|               |                                                           |                                                   |                  |
 
 ## 争议
 
@@ -52,6 +55,8 @@ AEC](../Page/Astro_AEC.md "wikilink") 继续播出。
   - 2018年12月25日，[知否？知否？应是绿肥红瘦将与中国晚上](../Page/知否？知否？应是绿肥红瘦.md "wikilink")8点同步首播此剧，此剧也是第三部与中国同日播出的剧集。
   - 2019年4月15日，原计[新白娘子传奇是从Astro双星播出](../Page/新白娘子传奇_\(2019年电视剧\).md "wikilink")，但却移至[Astro全佳HD](../Page/Astro全佳HD.md "wikilink")7点的"高清大剧"时段播出。
   - 2019年4月27日，Astro双星恢复台湾偶像剧时段，将在星期六及日下午5点时段播出。
+  - 2019年4月29日，Astro双星恢复港剧时段，将在星期一至五晚上9点时段播出。
+  - 2019年6月11日，原计[前男友不是人是从](../Page/前男友不是人.md "wikilink")[Astro喜悦HD播出](../Page/Astro喜悦HD.md "wikilink")，但却移至Astro双星每晚8点时段播出。
 
 ## 參考資料
 

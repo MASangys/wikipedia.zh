@@ -97,7 +97,7 @@ Telegram 亞洲區停擺一小時。
 在2015年6月，Telegram
 開放了機器人[API](https://zh.wikipedia.org/wiki/API "wikilink")\[51\]，更在2017年5月支援了付款功能\[52\]。機器人是
 Telegram
-上以[程式運作的帳號](https://zh.wikipedia.org/wiki/程式 "wikilink")，可以回覆人類的[指令](https://zh.wikipedia.org/wiki/指令 "wikilink")、訊息，端看開發者如何設定。
+上以[程式運作的帳號](https://zh.wikipedia.org/wiki/程式 "wikilink")，可以回覆人類的[指令](https://zh.wikipedia.org/wiki/指令 "wikilink")、訊息，視開發者設定而異。
 
 另一種功能稱為內聯機器人\[53\]，支援快速傳送相關的 [GIF](../Page/GIF.md "wikilink")
 動圖、圖片，其來自網絡、[YouTube](../Page/YouTube.md "wikilink")
@@ -174,21 +174,18 @@ Telegram
 
 Telegram CEO
 在5月尾帖文表示俄羅斯表示要封鎖Telegram之後，[Apple](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")
-就停止批審Telegram提交的更新版本，導致應用程式在全球所有地區均無法通過更新審查<ref>[Telegram CEO：蘋果正封鎖
-Telegram
-全球的更新](https://www.newmobilelife.com/2018/05/31/appstore-block-telegram-updating/)
+就停止批審Telegram提交的更新版本，導致應用程式在全球所有地區均無法通過更新審查\[66\]。由於重要的安全补丁和错误修复無法更新，[iPhone用户处于风险当中](https://zh.wikipedia.org/wiki/iPhone "wikilink")\[67\]。
 
-流動日報
-2018-05-31</ref>。由於重要的安全补丁和错误修复無法更新，[iPhone用户处于风险当中](https://zh.wikipedia.org/wiki/iPhone "wikilink")\[66\]。
+2019年6月12日，[反對逃犯條例修訂草案佔領行動期间](../Page/反對逃犯條例修訂草案佔領行動.md "wikilink")，香港很多抗议者使用Telegram这个社交媒体来逃避电子监视，协调他们反对“逃犯条例”的抗议示威活动。当天，Telegram遭受“强大的”[分散式阻断服务攻击](https://zh.wikipedia.org/wiki/分散式阻断服务 "wikilink")。黑客通过发送大量垃圾请求，试图瘫痪目标伺服器，其中大部分请求来自中国\[68\]\[69\]。
 
 ### 牽涉恐怖活動
 
-2015年11月，由於[伊斯蘭國](https://zh.wikipedia.org/wiki/伊斯蘭國 "wikilink")（ISIS）相關組織使用頻繁，Telegram移除了近250個所使用廣播頻道，並封鎖其所屬帳號\[67\]\[68\]並且持續每天移除近百頻道\[69\]。
+2015年11月，由於[伊斯蘭國](https://zh.wikipedia.org/wiki/伊斯蘭國 "wikilink")（ISIS）相關組織使用頻繁，Telegram移除了近250個所使用廣播頻道，並封鎖其所屬帳號\[70\]\[71\]並且持續每天移除近百頻道\[72\]。
 
 ### 色情、侵犯版權的內容的限制
 
 [Telegram_Messenger_blocks_pornoraphic_content_on_iOS.jpg](https://zh.wikipedia.org/wiki/File:Telegram_Messenger_blocks_pornoraphic_content_on_iOS.jpg "fig:Telegram_Messenger_blocks_pornoraphic_content_on_iOS.jpg")
-強調不鼓勵色情內容、侵犯版權的內容存在\[70\]\[71\]。
+強調不鼓勵色情內容、侵犯版權的內容存在\[73\]\[74\]。
 
 除使用者舉報的色情群組、頻道於 iOS、macOS 設備無法觀看外，尚無出現官方任意審查或下架頻道的情況。
 
@@ -360,12 +357,20 @@ Telegram
 
 65.
 
-66. [Telegram：苹果在全球范围内拒绝我们提交应用更新](https://cn.technode.com/post/2018-05-31/telegram-apple-app-store-updates/)
+66. [Telegram CEO：蘋果正封鎖 Telegram
+    全球的更新](https://www.newmobilelife.com/2018/05/31/appstore-block-telegram-updating/)流動日報
+    2018-05-31
+
+67. [Telegram：苹果在全球范围内拒绝我们提交应用更新](https://cn.technode.com/post/2018-05-31/telegram-apple-app-store-updates/)
      动点科技 2018-05-31
 
-67.
 68.
-69. \[//t.me/ISISwatch ISIS Watch\]的Telegram頻道（需安裝Telegram）
+
+69.
 
 70.
 71.
+72. \[//t.me/ISISwatch ISIS Watch\]的Telegram頻道（需安裝Telegram）
+
+73.
+74.

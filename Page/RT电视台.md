@@ -14,7 +14,7 @@ Today」。
 
 RT電視台與[美國之音任務相同](https://zh.wikipedia.org/wiki/美國之音 "wikilink")，皆是屬於對外[政治宣傳](https://zh.wikipedia.org/wiki/政治宣傳 "wikilink")，明顯偏袒[克里姆林宮方面觀點](https://zh.wikipedia.org/wiki/克里姆林宮 "wikilink")，該電視台曾發生兩位[美籍女主播Abby](../Page/美国公民.md "wikilink")
 Martin與Liz
-Wahl受不了就在節目播出中脫稿砲轟、或乾脆播完辭職走人的情形\[8\]。[俄新社共同創辦](https://zh.wikipedia.org/wiki/俄新社 "wikilink")「TV-Novosti」而在[朱利安·阿桑奇主持RT節目一事被波及](../Page/朱利安·阿桑奇.md "wikilink")，澄清RT依俄國法律是獨立[法人](../Page/法人.md "wikilink")，也無RT監理會或管理機構代表，其運作並不相干\[9\]；及至總統[普丁下令](https://zh.wikipedia.org/wiki/普丁 "wikilink")[清算俄新社等官媒整併成](https://zh.wikipedia.org/wiki/清算 "wikilink")[今日俄羅斯時](https://zh.wikipedia.org/wiki/今日俄羅斯 "wikilink")，俄新社英文報導不但指出政府嚴加管控媒體，還諷刺RT是「[克資英語電視頻道](https://zh.wikipedia.org/wiki/克里姆林宮 "wikilink")」（Kremlin-funded
+Wahl受不了就在節目播出中脫稿砲轟、或乾脆播完辭職走人的情形\[8\]。[俄新社共同創辦](https://zh.wikipedia.org/wiki/俄新社 "wikilink")「TV-Novosti」而在[朱利安·阿桑奇主持RT節目一事被波及](../Page/朱利安·阿桑奇.md "wikilink")，澄清RT依俄國法律是獨立[法人](../Page/法人.md "wikilink")，也無RT監理會或管理機構代表，其運作並不相干\[9\]；及至[俄羅斯總統](https://zh.wikipedia.org/wiki/俄羅斯總統 "wikilink")[普丁下令](https://zh.wikipedia.org/wiki/普丁 "wikilink")[清算俄新社等官媒整併成](https://zh.wikipedia.org/wiki/清算 "wikilink")[今日俄羅斯時](https://zh.wikipedia.org/wiki/今日俄羅斯 "wikilink")，俄新社英文報導不但指出政府嚴加管控媒體，還諷刺RT是「[克資英語電視頻道](https://zh.wikipedia.org/wiki/克里姆林宮 "wikilink")」（Kremlin-funded
 English-language television channel）\[10\]。
 
 2016年10月17日，英國[國民西敏寺銀行突然宣布將停止RT員工的所有金融服務](https://zh.wikipedia.org/wiki/國民西敏寺銀行 "wikilink")，RT[總編輯西蒙楊](https://zh.wikipedia.org/wiki/總編輯 "wikilink")（Margarita
@@ -23,7 +23,7 @@ strategic communication to counteract anti-EU propaganda by third
 parties）議案，認定俄國利用各種工具，如RT電視台、[衛星通訊社等](https://zh.wikipedia.org/wiki/衛星通訊社 "wikilink")，意圖分裂歐盟而進行宣傳戰<ref>[欧洲议会官網](https://zh.wikipedia.org/wiki/欧洲议会 "wikilink")：
 
   -
-  - </ref>；對此，[俄羅斯總統](https://zh.wikipedia.org/wiki/俄羅斯總統 "wikilink")[普丁反諷](https://zh.wikipedia.org/wiki/普丁 "wikilink")「目睹西方社會民主觀的墮落」、「祝賀（衛星通訊社和RT電視台）記者們出色地完成了自己的工作」<ref name=kremlin>克里姆林宫官網：
+  - </ref>；對此，普丁反諷「目睹西方社會民主觀的墮落」、「祝賀（衛星通訊社和RT電視台）記者們出色地完成了自己的工作」<ref name=kremlin>克里姆林宫官網：
 
   -
   - </ref><ref>[俄罗斯卫星网](../Page/卫星通讯社.md "wikilink")：

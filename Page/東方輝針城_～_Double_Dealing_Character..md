@@ -119,7 +119,7 @@ Extra關發生在少名針妙丸被打敗之後。天空再次出現了詭異的
     **低速射擊**：智能偷取（，Smart Robber）
     **符卡**：時符「雙重隱身」（）
 
-## 頭目角色
+## 敌机角色
 
 ### [琪露諾](https://zh.wikipedia.org/wiki/東方紅魔鄉_～_the_Embodiment_of_Scarlet_Devil.#琪露諾 "wikilink")
 
@@ -292,6 +292,8 @@ Extra關發生在少名針妙丸被打敗之後。天空再次出現了詭異的
 ## 外部链接
 
   - [Official Announcement](http://kourindou.exblog.jp/20469044/)
+  - [steam上的《東方輝針城 〜 Double Dealing
+    Character.》](https://store.steampowered.com/app/1043240)
 
 [Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink")
 [Category:變大縮小題材作品](https://zh.wikipedia.org/wiki/Category:變大縮小題材作品 "wikilink")

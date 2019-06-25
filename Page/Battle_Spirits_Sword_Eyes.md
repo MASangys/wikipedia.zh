@@ -865,6 +865,10 @@ Spirits
   - [Battle Spirits Sword
     Eyes](http://www.nagoyatv.com/battlespirits_sword/)（名古屋電視台）
 
+## 播放電視台
+
+  - 香港
+
 [Category:Battle_Spirits](https://zh.wikipedia.org/wiki/Category:Battle_Spirits "wikilink")
 [Category:未完結作品](https://zh.wikipedia.org/wiki/Category:未完結作品 "wikilink")
 [Category:2012年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2012年日本電視動畫 "wikilink")
@@ -872,5 +876,6 @@ Spirits
 [Category:日昇動畫](https://zh.wikipedia.org/wiki/Category:日昇動畫 "wikilink")
 [Category:月刊少年Ace連載作品](https://zh.wikipedia.org/wiki/Category:月刊少年Ace連載作品 "wikilink")
 [Category:交換卡片遊戲題材作品](https://zh.wikipedia.org/wiki/Category:交換卡片遊戲題材作品 "wikilink")
+[Category:香港電視娛樂外購動畫](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購動畫 "wikilink")
 
 1.  主角和由現實世界去到異世界的馬神彈不同，是在異世界出生的少年。

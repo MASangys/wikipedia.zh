@@ -62,7 +62,7 @@
 
 <!-- end list -->
 
-  - 宇野光一：
+  - 宇野光一：[安田顯](../Page/安田顯.md "wikilink")
 
 <!-- end list -->
 

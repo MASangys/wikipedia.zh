@@ -1,5 +1,6 @@
-**iPad
-Air**是由[蘋果公司設計](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")、開發及銷售的[iPad平板電腦](https://zh.wikipedia.org/wiki/iPad "wikilink")，它延續[配備Retina-{zh-hans:显示屏;zh-hant:顯示器;}-的iPad](https://zh.wikipedia.org/wiki/iPad_\(第四代\) "wikilink")，但机型因参考了iPad
+**iPad Air**（技术上称**第一代iPad**，而**iPad Air
+1**为俗称，且在[2017款iPad推出之前亦有](../Page/IPad_\(第5代\).md "wikilink")“**iPad
+5**”之俗称）是由[蘋果公司設計](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")、開發及銷售的[iPad平板電腦](https://zh.wikipedia.org/wiki/iPad "wikilink")，它延續[配備Retina-{zh-hans:显示屏;zh-hant:顯示器;}-的iPad](https://zh.wikipedia.org/wiki/iPad_\(第四代\) "wikilink")，但机型因参考了iPad
 Mini的设计，使得其更薄、更輕巧，2013年10月22日於[美国](../Page/美国.md "wikilink")[加州](../Page/加利福尼亚州.md "wikilink")[旧金山发布](../Page/旧金山.md "wikilink")，同年11月1日起正式发售\[1\]，Air的設計語言主導了之後平板的輕量化設計，所以Air系列同屬iPad系列第5個世代。
 
 2014年10月，蘋果公司發佈[iPad Air

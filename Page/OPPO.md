@@ -33,11 +33,17 @@ Finder](https://zh.wikipedia.org/wiki/OPPO_Finder "wikilink")。
 
 2013年9月，OPPO發布智能手機[OPPO N1](../Page/OPPO_N1.md "wikilink")。\[2\]\[3\]
 
+2013年12月，OPPO發布智能手機 [OPPO
+R1](https://zh.wikipedia.org/wiki/OPPO_R1 "wikilink")
+
 2014年3月，OPPO發布智能手機[OPPO Find 7](../Page/OPPO_Find_7.md "wikilink")。
 
 2014年6月，OPPO發布智能手機[OPPO N1
 Mini和](https://zh.wikipedia.org/wiki/OPPO_N1_Mini "wikilink")[OPPO
-R3](https://zh.wikipedia.org/wiki/OPPO_R3 "wikilink")。
+R1L](https://zh.wikipedia.org/wiki/OPPO_R1L "wikilink")。
+
+2014年9月，OPPO發布智能手機 [OPPO
+R3](https://zh.wikipedia.org/wiki/OPPO_R3 "wikilink")
 
 2014年10月，OPPO發布智能手機[OPPO
 N3和](https://zh.wikipedia.org/wiki/OPPO_N3 "wikilink")[OPPO
@@ -274,10 +280,10 @@ A系列為OPPO的中低端手機系列，以前置相機自拍美顏及獨立三
 <td><p>發表於2018年</p></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>A9</p></td>
+<td><p> ''' '''</p></td>
+<td><p>聯發科 MT6771V（Helio P70）</p></td>
+<td><p>發表於2019年</p></td>
 </tr>
 </tbody>
 </table>

@@ -1,4 +1,4 @@
-在[初等解析學中](../Page/微积分学.md "wikilink")，**cis函數**又稱**純虛數指數函數**，是[複變函數的一种](https://zh.wikipedia.org/wiki/複變函數 "wikilink")，和[三角函數類似](https://zh.wikipedia.org/wiki/三角函數 "wikilink")，其可以使用[正弦函數和](https://zh.wikipedia.org/wiki/正弦函數 "wikilink")[餘弦函數](https://zh.wikipedia.org/wiki/餘弦函數 "wikilink")\(\operatorname{cis} x = \cos x + \mathrm{i} \sin x\)來定義，是一種[實變數](../Page/实函数.md "wikilink")，其中為[虛數單位](../Page/虛數單位.md "wikilink")，而cis則為的縮寫。
+在[微积分学中](../Page/微积分学.md "wikilink")，**cis函數**又稱**純虛數指數函數**，是[複變函數的一种](https://zh.wikipedia.org/wiki/複變函數 "wikilink")，和[三角函數類似](https://zh.wikipedia.org/wiki/三角函數 "wikilink")，其可以使用[正弦函數和](https://zh.wikipedia.org/wiki/正弦函數 "wikilink")[餘弦函數](https://zh.wikipedia.org/wiki/餘弦函數 "wikilink")\(\operatorname{cis} x = \cos x + \mathrm{i} \sin x\)來定義，是一種[實變數](../Page/实函数.md "wikilink")，其中為[虛數單位](../Page/虛數單位.md "wikilink")，而cis則為的縮寫。
 
 ## 概觀
 

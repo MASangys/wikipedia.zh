@@ -86,6 +86,15 @@ Platform）模組化平臺為基礎而開發的新車款，車身尺寸與上一
 
 Image:Subaru XV 2.0i-S EyeSight (DBA-GT7) interior.jpg|內裝
 
+#### 2017年3月7日
+
+在2017年[日內瓦國際車展發表全新的](https://zh.wikipedia.org/wiki/日內瓦國際車展 "wikilink")「SUBARU
+XV」，並公布基本規格以及影像。
+
+#### 2017年3月8日
+
+宣布日本國內從3月9日起接受預購，並且發表了日本國內車款的規格以及影像。
+
 {{-}}
 
 ## 內部連結

@@ -12,7 +12,7 @@
 
 ### 符號類型
 
-在位置及符號中間的字符（以空格分開）是符號的*類型*。[UNIX操作系统上的](https://zh.wikipedia.org/wiki/UNIX操作系统 "wikilink")工具程式列出了所有目標檔案的符號。而`System.map`則是直接與其相關，因為這個檔案是在整個核心程式上由`nm`所產生的
+在位置及符號中間的字符（以空格分開）是符號的*類型*。[UNIX操作系统上的](https://zh.wikipedia.org/wiki/UNIX操作系统 "wikilink")[`nm`](https://zh.wikipedia.org/wiki/nm_\(Unix\) "wikilink")工具程式列出了所有目標檔案的符號。而`System.map`則是直接與其相關，因為這個檔案是在整個核心程式上由`nm`所產生的
 － 就像`nm`列出任意小的目標程式的符號及它們的類型\[4\]。
 
 這些類型的一部份：\[5\]

@@ -90,7 +90,7 @@ OpenMI 可以從兩個層面來說明：在用戶層面，OpenMI
   - [OpenMI Association Technical Committee Wiki
     Pages](https://web.archive.org/web/20110724151442/http://public.deltares.nl/display/OPENMI/OpenMI+Association+Technical+Committee)
 
-[Category:科学软件](https://zh.wikipedia.org/wiki/Category:科学软件 "wikilink")
+[Category:地球科学软件](https://zh.wikipedia.org/wiki/Category:地球科学软件 "wikilink")
 
 1.  Gregersen, J. B., et al (2007). “OpenMI: Open Modelling Interface”.
     Journal of Hydroinformatics 9(3), 175-191.

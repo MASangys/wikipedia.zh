@@ -7,7 +7,7 @@ TEC-9是由廉價的模塑成型[聚合物和沖壓鋼部件所製成](../Page/�
 ## 概述
 
 瑞典斯德哥爾摩的[瑞典國際動力公司曾經設計過](https://zh.wikipedia.org/wiki/瑞典國際動力公司 "wikilink")[瑞典國際動力MP-9](https://zh.wikipedia.org/wiki/瑞典國際動力MP-9衝鋒槍 "wikilink")
-[9毫米](../Page/9×19mm魯格彈.md "wikilink")[口徑衝鋒槍](https://zh.wikipedia.org/wiki/口徑 "wikilink")。它本來是基於軍用型[卡爾·古斯塔夫M/45的一枝廉價型衝鋒槍](https://zh.wikipedia.org/wiki/卡爾·古斯塔夫M/45衝鋒槍 "wikilink")，並試圖作為取代它在軍事上的應用，可惜[瑞典國際動力公司並沒有找到任何一個政府買家](https://zh.wikipedia.org/wiki/瑞典國際動力公司 "wikilink")。加上瑞典槍械管理法律非常嚴格，因此它被帶到環境相對地寬鬆的美國市場，變成了[開放式槍機半自動KG](../Page/開放式槍機.md "wikilink")-9手槍。但是由於執法機關衝鋒槍市場早已經被[HK
+[9毫米](../Page/9×19mm魯格彈.md "wikilink")[口徑衝鋒槍](https://zh.wikipedia.org/wiki/口徑 "wikilink")。它本來是基於軍用型[卡爾·古斯塔夫M/45的一枝廉價型衝鋒槍](https://zh.wikipedia.org/wiki/卡爾·古斯塔夫M/45衝鋒槍 "wikilink")，並試圖作為取代它在軍事上的應用，可惜[瑞典國際動力公司並沒有找到任何一個政府買家](https://zh.wikipedia.org/wiki/瑞典國際動力公司 "wikilink")。加上瑞典槍械管理法律非常嚴格，因此它被帶到環境相對地寬鬆的美國市場，變成了[開放式槍栓半自動KG](../Page/開放式槍栓.md "wikilink")-9手槍。但是由於執法機關衝鋒槍市場早已經被[HK
 MP5冲锋枪系列所壟斷](../Page/HK_MP5冲锋枪.md "wikilink")，結果失去原來銷路的它卻流入[黑幫犯罪分子的手中](https://zh.wikipedia.org/wiki/黑幫 "wikilink")，並成為犯罪分子最喜歡的武器，例如在邁阿密的古巴和牙買加幫派所大量購買並且常常被轉換為全自動型。正因為如此，迫使瑞典國際動力重新設計成封閉式槍機系統，這是更難轉換為全自動。這種衍生型被稱為KG-99。它在1984年[电视剧](../Page/电视剧.md "wikilink")《[-{zh-cn:迈阿密风云;
 zh-hk:神探勇闖罪惡城; zh-tw:邁阿密天龍; zh-hant:邁阿密風雲;
 zh-mo:神探勇闖罪惡城;}-](../Page/邁阿密風雲.md "wikilink")》（）頻繁露面，而另一方面並可在法律上被[第二類製造商合法地轉換為全自動型](https://zh.wikipedia.org/wiki/第二類武器 "wikilink")。

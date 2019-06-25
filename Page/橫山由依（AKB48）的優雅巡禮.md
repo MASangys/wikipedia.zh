@@ -122,7 +122,7 @@ Diary）小單元，展示數張以橫山的視角所拍攝或選擇的照片，
 <td><p>在<a href="../Page/茶.md" title="wikilink">茶之里宇治才聽得到的音色</a><br />
 （）</p></td>
 <td><p><a href="../Page/宇治市.md" title="wikilink">宇治</a></p></td>
-<td><p><a href="../Page/和束町.md" title="wikilink">和束町茶園</a>、<a href="../Page/平等院.md" title="wikilink">平等院參道商店街</a>、茶店、老舖茶店「通園」</p></td>
+<td><p><a href="../Page/和束町.md" title="wikilink">和束町茶園</a>、<a href="../Page/平等院.md" title="wikilink">平等院參道商店街</a>、<a href="https://zh.wikipedia.org/wiki/宇治茶" title="wikilink">宇治茶茶店</a>、老舖茶店「通園」</p></td>
 </tr>
 <tr class="even">
 <td><p>12</p></td>

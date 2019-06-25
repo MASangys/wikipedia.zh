@@ -1,12 +1,11 @@
 **《French
 Kiss的Kiss廣播\!》**（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink"):**フレンチ・キスのKissラジ\!**），是於[FM東京所播放的深夜廣播](../Page/FM東京.md "wikilink")[談話節目](https://zh.wikipedia.org/wiki/談話節目 "wikilink")，每週日25:00
-- 25:30播出，由[French
-Kiss主持](https://zh.wikipedia.org/wiki/French_Kiss "wikilink")。
+- 25:30播出，由[French Kiss主持](../Page/French_Kiss_\(音乐团体\).md "wikilink")。
 
 ## 概要
 
 因為2011年3月11日發生[東日本大震災](../Page/東日本大震災.md "wikilink")，18日[French
-Kiss的成員們討論是否能為受災地區的民眾貢獻一點幫助](https://zh.wikipedia.org/wiki/French_Kiss "wikilink")，向工作人員諮詢後認為廣播節目可以普遍傳達，即使停電也能收聽，於是於21日公開宣布將在[FM東京開設新的節目](../Page/FM東京.md "wikilink")。
+Kiss的成員們討論是否能為受災地區的民眾貢獻一點幫助](../Page/French_Kiss_\(音乐团体\).md "wikilink")，向工作人員諮詢後認為廣播節目可以普遍傳達，即使停電也能收聽，於是於21日公開宣布將在[FM東京開設新的節目](../Page/FM東京.md "wikilink")。
 
 節目的名稱向粉絲募集，在第一集播出時發表為「French
 Kisse的Kiss廣播！〜你的YELL〜」（フレンチ・キスのKissラジ！〜あなたへのYELL〜）。從2012年6月30日之後，簡化為現在的名稱。
@@ -21,7 +20,7 @@ TIME](../Page/柏木由紀的YUKIRIN_TIME.md "wikilink")」（2012年10月6日 -
 
 ### 主持人
 
-  - [French Kiss](https://zh.wikipedia.org/wiki/French_Kiss "wikilink")
+  - [French Kiss](../Page/French_Kiss_\(音乐团体\).md "wikilink")
       - [柏木由紀](../Page/柏木由紀.md "wikilink")
       - [高城亞樹](../Page/高城亞樹.md "wikilink")
       - [倉持明日香](../Page/倉持明日香.md "wikilink")
@@ -156,7 +155,7 @@ TIME](../Page/柏木由紀的YUKIRIN_TIME.md "wikilink")」（2012年10月6日 -
 
   -
     柏木 | [松田聖子](../Page/松田聖子.md "wikilink") /
-    [青色珊瑚礁](https://zh.wikipedia.org/wiki/藍色珊瑚礁 "wikilink")
+    [藍色珊瑚礁](https://zh.wikipedia.org/wiki/藍色珊瑚礁_\(單曲\) "wikilink")
     高城 | **[安室奈美惠](../Page/安室奈美惠.md "wikilink") / [CAN'T SLEEP,CAN'T
     EAT,I'M
     SICK](https://zh.wikipedia.org/wiki/CAN'T_SLEEP,_CAN'T_EAT,_I'M_SICK/人魚 "wikilink")**

@@ -1,4 +1,4 @@
-**蚯蚓螺**（学名：**）是[蚯蚓螺科](https://zh.wikipedia.org/wiki/蚯蚓螺科 "wikilink")的一個物種。
+**蚯蚓螺**（学名：**）是[蚯蚓螺科](https://zh.wikipedia.org/wiki/蚯蚓螺科 "wikilink")[嵩毛蟶屬的一個物種](../Page/嵩毛蟶屬.md "wikilink")。
 
 ## 分佈
 

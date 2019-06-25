@@ -474,16 +474,21 @@ Solo未出道的狀態</p></td>
 
 <!-- end list -->
 
-  -
-  - [何東東](https://zh.wikipedia.org/wiki/何東東 "wikilink")（中國男演員，《[偶像練習生](https://zh.wikipedia.org/wiki/偶像練習生 "wikilink")》）
+  - 韓國本部（FNC娛樂）
+      -
+      - 趙雅榮（[PRODUCE 48](../Page/PRODUCE_48.md "wikilink")）
 
-  - 李長庚（《[偶像練習生](https://zh.wikipedia.org/wiki/偶像練習生 "wikilink")》）
+      - 曾有榮
 
-  - 趙雅榮（《[PRODUCE 48](../Page/PRODUCE_48.md "wikilink")》）
+      - 朱晴渝
 
-  - 曾有榮
-
-  - 朱晴渝
+      - Alex Bell
+  - 紅熠文化（與蘇寧環球傳媒合資）
+      - [何東東](https://zh.wikipedia.org/wiki/何東東 "wikilink")（中國男演員，[偶像練習生](https://zh.wikipedia.org/wiki/偶像練習生 "wikilink")）
+      - 李長庚（[偶像練習生](https://zh.wikipedia.org/wiki/偶像練習生 "wikilink")）
+      - 魏子越（[以團之名](https://zh.wikipedia.org/wiki/以團之名 "wikilink")、[PRODUCE
+        X 101](../Page/PRODUCE_X_101.md "wikilink")）
+      - 余景天（TONY，[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）
 
 |}
 
@@ -567,7 +572,7 @@ band)展開競賽\[8\]，節目最終由舞團隊勝出，以[SF9之名在](http
 
   - [全志佑](https://zh.wikipedia.org/wiki/全志佑 "wikilink")（[KARD](../Page/KARD.md "wikilink")）
 
-  - [姚明明](https://zh.wikipedia.org/wiki/姚明明 "wikilink")（[UNINE](https://zh.wikipedia.org/wiki/UNINE "wikilink")）
+  - [姚明明](https://zh.wikipedia.org/wiki/姚明明 "wikilink")（[UNINE](../Page/UNINE.md "wikilink")）
 
   - 裴鍾仁（[BLK](../Page/BLK.md "wikilink")）
 

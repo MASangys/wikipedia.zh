@@ -1,5 +1,5 @@
 《**BEAST JAPAN
-BEST**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Highlight的首張](https://zh.wikipedia.org/wiki/Highlight_\(韓國組合\) "wikilink")[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")，在2013年9月18日以三個版本：通常盤、初回限定盤及UM
+BEST**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Highlight的首張](../Page/Highlight_\(韓國組合\).md "wikilink")[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")，在2013年9月18日以三個版本：通常盤、初回限定盤及UM
 Store盤推出，而進入Oricon單曲週榜前十名的三張單曲：《》、《[Sad
 Movie/聖誕歌頌的時候](https://zh.wikipedia.org/wiki/Sad_Movie/聖誕歌頌的時候 "wikilink")》與《[ADRENALINE](../Page/ADRENALINE.md "wikilink")》在精選輯推出前預先發行。
 

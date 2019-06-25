@@ -92,27 +92,39 @@ Stato - Subaru Forester.jpg|義大利森林警備隊使用的車輛
 
 ### 第三代SH系（2007年-2012年）
 
-2007年 -
-12月25日原廠公佈了大改款的第三代Forester，美規版則於2008年[底特律車展公開](../Page/底特律車展.md "wikilink")。1990年代的第一代Forester開創了[跨界休旅車的風潮](../Page/跨界休旅車.md "wikilink")，此代卻反其道而行，反而更貼近[SUV的定位](../Page/运动型多用途车.md "wikilink")\[4\]。車身尺碼不但加大、加高，[底盤離地](https://zh.wikipedia.org/wiki/底盤 "wikilink")[高度從以往的](https://zh.wikipedia.org/wiki/高度 "wikilink")205mm增為225mm，已經算是一部緊湊型SUV。標準配備具有大型天窗、恆溫空調系統、多功能[方向盤](https://zh.wikipedia.org/wiki/方向盤 "wikilink")、引擎啟動按鈕、免鑰匙感應門鎖系統、金屬或木紋飾板、快速傾倒功能之後座等，動力心臟則為2.0L[水平對臥四缸DOHC](../Page/水平對臥四缸引擎.md "wikilink")
+#### 2007年12月25日
+
+原廠公佈了大改款的第三代Forester，美規版則於2008年[底特律車展公開](../Page/底特律車展.md "wikilink")。1990年代的第一代Forester開創了[跨界休旅車的風潮](../Page/跨界休旅車.md "wikilink")，此代卻反其道而行，反而更貼近[SUV的定位](../Page/运动型多用途车.md "wikilink")\[4\]。車身尺碼不但加大、加高，[底盤離地](https://zh.wikipedia.org/wiki/底盤 "wikilink")[高度從以往的](https://zh.wikipedia.org/wiki/高度 "wikilink")205mm增為225mm，已經算是一部緊湊型SUV。標準配備具有大型天窗、恆溫空調系統、多功能[方向盤](https://zh.wikipedia.org/wiki/方向盤 "wikilink")、引擎啟動按鈕、免鑰匙感應門鎖系統、金屬或木紋飾板、快速傾倒功能之後座等，動力心臟則為2.0L[水平對臥四缸DOHC](../Page/水平對臥四缸引擎.md "wikilink")
 [EJ204型引擎](https://zh.wikipedia.org/wiki/速霸陸EJ族引擎#EJ204型 "wikilink")，以及2.0L水平對臥四缸DOHC[EJ205型](https://zh.wikipedia.org/wiki/速霸陸EJ族引擎#EJ205型 "wikilink")[渦輪增壓引擎](../Page/渦輪增壓器.md "wikilink")。兩者均可選擇五速手排或四速自排變速箱，而[SI-DRIVE駕駛輔助系統為渦輪增壓版的標準配備](../Page/SI-DRIVE.md "wikilink")。前、後[懸吊系統分別採用](../Page/懸吊系統.md "wikilink")[麥花臣與](https://zh.wikipedia.org/wiki/麥弗遜懸吊 "wikilink")[獨立雙A臂之結構](https://zh.wikipedia.org/wiki/雙橫臂懸架 "wikilink")，搭配VDC車輛動態控制系統（Vehicle
 Dynamics Control System）更增加操控穩定性。
 
-2008年 -
-原廠在1月舉行的底特律車展公開美規版，VDC車輛動態控制系統和TCS循跡防滑控制系統均為標準配備，動力部分則搭載2.5L水平對臥四缸DOHC
+#### 2008年1月
+
+在底特律車展公開美規版，VDC車輛動態控制系統和TCS循跡防滑控制系統均為標準配備，動力部分則搭載2.5L水平對臥四缸DOHC
 [EJ254型引擎](https://zh.wikipedia.org/wiki/速霸陸EJ族引擎#EJ254型 "wikilink")、2.5L水平對臥四缸DOHC
 [EJ255型渦輪增壓引擎等二具](https://zh.wikipedia.org/wiki/速霸陸EJ族引擎#EJ255型 "wikilink")，變速系統則有五速手排、Sportshift
-E-4AT四速手自排等二種選擇。[台灣意美汽車於同年](../Page/台灣意美汽車.md "wikilink")6月24日引進當地市場，共分自然進氣的「2.0X」及渦輪增壓的「2.5XT」兩種車型\[5\]。原廠為了慶祝成立50周年紀念，同年9月24日推出「Black
-Leather Limited」特仕車，具備黑色皮革內裝、免鑰匙感應門鎖系統（keyless entry system）、引擎啟動按鈕（push
-start system）、前雙座八向電動調整座椅等配備。同年11月28日搭載2.0L水平對臥四缸DOHC
-[EE20型渦輪增壓](../Page/速霸陸EE20型引擎.md "wikilink")[柴油引擎的第三代Forester正式在](../Page/柴油引擎.md "wikilink")[歐洲發售](https://zh.wikipedia.org/wiki/歐洲 "wikilink")，此具EE20型首先在2008年3月的[日內瓦汽車展公開](https://zh.wikipedia.org/wiki/日內瓦汽車展 "wikilink")，是全世界第一具為了乘用車設計的[水平對臥柴油引擎](../Page/水平對臥引擎.md "wikilink")。
+E-4AT四速手自排等二種選擇。[台灣意美汽車於同年](../Page/台灣意美汽車.md "wikilink")6月24日引進當地市場，共分自然進氣的「2.0X」及渦輪增壓的「2.5XT」兩種車型\[5\]。
 
-2010年 -
-4月1日富士重工業和[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")[戶外運動](https://zh.wikipedia.org/wiki/戶外運動 "wikilink")[品牌Columbia聯手推出限量](../Page/品牌.md "wikilink")1,050部的「Forester
+#### 2008年9月24日
+
+原廠為了慶祝成立50周年紀念，推出「Black Leather Limited」特仕車，具備黑色皮革內裝、免鑰匙感應門鎖系統（keyless
+entry system）、引擎啟動按鈕（push start system）、前雙座八向電動調整座椅等配備。
+
+#### 2008年11月28日
+
+第三代Forester正式在[歐洲發售](https://zh.wikipedia.org/wiki/歐洲 "wikilink")，搭載2.0L水平對臥四缸DOHC
+[EE20型渦輪增壓](../Page/速霸陸EE20型引擎.md "wikilink")[柴油引擎的EE](../Page/柴油引擎.md "wikilink")20型，首先在2008年3月的[日內瓦汽車展公開](https://zh.wikipedia.org/wiki/日內瓦汽車展 "wikilink")，是全世界第一具為了乘用車設計的[水平對臥柴油引擎](../Page/水平對臥引擎.md "wikilink")。
+
+#### 2010年4月1日
+
+富士重工業和[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")[戶外運動](https://zh.wikipedia.org/wiki/戶外運動 "wikilink")[品牌Columbia聯手推出限量](../Page/品牌.md "wikilink")1,050部的「Forester
 X
 Columbia」特仕車，額外裝置了16吋鋁圈、霧燈、車頂置物架、行李箱止滑墊、車尾防護桿等配備，此款特仕車僅限澳洲市場販售。同年4月大改款的第三代Forester正式在[韓國發售](https://zh.wikipedia.org/wiki/韓國 "wikilink")，動力來源為2.5L水平對臥四缸DOHC
 [EJ254型引擎](https://zh.wikipedia.org/wiki/速霸陸EJ族引擎#EJ254型 "wikilink")。
 
-同年10月25日發表小改款，改搭載全新開發、[自然進氣的](https://zh.wikipedia.org/wiki/自然进气发动机 "wikilink")2.0L水平對臥四缸[FB20型引擎](https://zh.wikipedia.org/wiki/速霸陸FB族引擎#FB20型 "wikilink")，採[DOHC](https://zh.wikipedia.org/wiki/顶置凸轮轴#双顶置凸轮轴（DOHC） "wikilink")、16汽門之設計，可輸出148hp、20.0kg·m的最大動力。另新增「S
+#### 2010年10月25日
+
+發表小改款，改搭載全新開發、[自然進氣的](https://zh.wikipedia.org/wiki/自然进气发动机 "wikilink")2.0L水平對臥四缸[FB20型引擎](https://zh.wikipedia.org/wiki/速霸陸FB族引擎#FB20型 "wikilink")，採[DOHC](https://zh.wikipedia.org/wiki/顶置凸轮轴#双顶置凸轮轴（DOHC） "wikilink")、16汽門之設計，可輸出148hp、20.0kg·m的最大動力。另新增「S
 Edition」等級，搭載2.5L水平對臥四缸DOHC
 [EJ255型渦輪增壓引擎](https://zh.wikipedia.org/wiki/速霸陸EJ族引擎#EJ255型 "wikilink")，搭配五速手自排變速箱附換檔撥片，尚有專用運動化[懸吊系統](../Page/懸吊系統.md "wikilink")、具可變式扭力分配功能（Variable
 Torque
@@ -137,37 +149,45 @@ Patrol Images.jpg|澳洲警用車 Image:Subaru Forester
 
 ### 第四代SJ系（2012年-2018年）
 
-2012年 -
-11月13日日本當地發表大改款的第四代Forester，外形融入最新的家族風格，六角型水箱罩中崁入飛翼式鍍鉻橫柵，[頭燈組修飾得更銳利](https://zh.wikipedia.org/wiki/車頭燈 "wikilink")，且渦輪增壓版的前[保險桿增加縱向進氣壩](https://zh.wikipedia.org/wiki/保險桿 "wikilink")。由於衍生自Impreza車系，內裝鋪陳如出一轍。動力方面分成自然進氣和渦輪增壓兩種設定：自然進氣版搭載代號[FB20型](https://zh.wikipedia.org/wiki/速霸陸FB族引擎#FB20型 "wikilink")、排氣量1,995c.c.的[水平對臥四缸汽油引擎](../Page/水平對臥四缸引擎.md "wikilink")，採DOHC、16汽門加上[AVCS主動閥門控制系統](../Page/AVCS主動閥門控制系統.md "wikilink")，可輸出148hp
+#### 2012年11月13日
+
+在日本當地發表大改款的第四代Forester，外形融入最新的家族風格，六角型水箱罩中崁入飛翼式鍍鉻橫柵，[頭燈組修飾得更銳利](https://zh.wikipedia.org/wiki/車頭燈 "wikilink")，且渦輪增壓版的前[保險桿增加縱向進氣壩](https://zh.wikipedia.org/wiki/保險桿 "wikilink")。由於衍生自Impreza車系，內裝鋪陳如出一轍。動力方面分成自然進氣和渦輪增壓兩種設定：自然進氣版搭載代號[FB20型](https://zh.wikipedia.org/wiki/速霸陸FB族引擎#FB20型 "wikilink")、排氣量1,995c.c.的[水平對臥四缸汽油引擎](../Page/水平對臥四缸引擎.md "wikilink")，採DOHC、16汽門加上[AVCS主動閥門控制系統](../Page/AVCS主動閥門控制系統.md "wikilink")，可輸出148hp
 / 6,000rpm的最大[馬力與](../Page/馬力.md "wikilink")20.0kg·m /
 4,200rpm的峰值扭力；而渦輪增壓版則搭載和[第五代Legacy相同的](https://zh.wikipedia.org/wiki/速霸陸Legacy#第五代BM/BR系（2009年迄今） "wikilink")[FA20
 DIT型水平對臥四缸渦輪增壓汽油引擎](https://zh.wikipedia.org/wiki/速霸陸FA族引擎#FA20_DIT型 "wikilink")，排氣量為1,998c.c.，採DOHC、16汽門加上AVCS主動閥門控制系統，在自家所開發缸內直噴技術與渦輪增壓系統之加持下，馬力雖不如第五代Legacy的300hp，卻仍有280hp
 / 5,700rpm的實力，且扭力輸出達35.7kg·m / 2,000-5,600rpm；而全車系共有六速手排或[Lineartronic
 CVT](https://zh.wikipedia.org/wiki/無段自動變速器#Lineartronic_CVT "wikilink")（八速）兩種變速箱選擇。此外，標準配備尚有最新開發的[四輪驅動系統](https://zh.wikipedia.org/wiki/四輪驅動 "wikilink")「X-Mode」，整合了引擎、變速箱和VDC車輛動態控制系統，行經惡劣路面或者[輪胎空轉時](../Page/輪胎.md "wikilink")，可讓車輛輕易脫困，類似加力箱的作用。在駕駛輔助及[行車防撞安全方面](../Page/汽車防撞系統.md "wikilink")，除「2.0i」等級外，全車系自然進氣版與渦輪增壓版皆搭載[SI-DRIVE系統](../Page/SI-DRIVE.md "wikilink")，部分車型可選購更為精進的第三代[EyeSight行車輔助系統](../Page/EyeSight.md "wikilink")。
 
-2013年 -
-3月20日[台灣意美汽車正式引進第四代Forester](../Page/台灣意美汽車.md "wikilink")，自然進氣版與渦輪增壓版二種動力心臟共分為四種等級，皆配置Lineartronic
+#### 2013年3月20日
+
+[台灣意美汽車正式引進第四代Forester](../Page/台灣意美汽車.md "wikilink")，自然進氣版與渦輪增壓版二種動力心臟共分為四種等級，皆配置Lineartronic
 CVT無段變速自排變速系統。在安全防護方面，全車系都標配了[EBD電子制動力分配系統](https://zh.wikipedia.org/wiki/電子制動力分配系統 "wikilink")、TCS循跡防滑控制系統、VDC車輛動態控制系統、ABS[防鎖死煞車系統](../Page/防鎖死煞車系統.md "wikilink")、BAS剎車力輔助系統等主動安全配備，另有雙前座SRS[安全氣囊](https://zh.wikipedia.org/wiki/安全氣囊 "wikilink")、駕駛座膝部氣囊、雙前座側邊SRS輔助氣囊與車側簾式SRS輔助氣囊等被動安全配備。
 
-同年11月25日日本市場推出限量300輛的「Forester
+#### 2013年11月25日
+
+日本市場推出限量300輛的「Forester
 tS」特仕車，改變前後保桿造型、新設前後下分流器、水箱護罩改為深色蜂巢狀並綴上「STI」字樣、加裝大型擾流尾翼、專屬19吋鍛造鋁圈，內裝部分則有皮革和不織布雙材質包覆的運動化座椅附[紅色縫線](https://zh.wikipedia.org/wiki/紅色 "wikilink")、真皮包覆運動化三幅式方向盤等。Lineartronic
 CVT無段變速箱具有TCU模擬手排控制（Transmission Control
 Unit）及全新油冷系統，[懸吊系統重新調校並降低車身高度](../Page/懸吊系統.md "wikilink")。
 
-2015年 -
-10月開幕的[東京車展上](../Page/東京車展.md "wikilink")，原廠公布小改款的消息：包含前水箱護罩、尾燈改成U形設計、遠近全LED式頭燈組附轉向功能，內裝變更材質以提升質感，可加價選購Harman
+#### 2015年10月
+
+在[東京車展上](../Page/東京車展.md "wikilink")，原廠公布小改款的消息：包含前水箱護罩、尾燈改成U形設計、遠近全LED式頭燈組附轉向功能，內裝變更材質以提升質感，可加價選購Harman
 Kardon高級音響系統與[衛星導航系統](https://zh.wikipedia.org/wiki/衛星導航系統 "wikilink")，重新調校轉向反應與懸吊系統。渦輪增壓車型配有Active
 Torque
 Vectoring主動式扭力分配系統，以提升過彎性能。在行車安全輔助方面，[EyeSight系統更為精進](../Page/EyeSight.md "wikilink")，包含主動式車道偏移系統、主動煞停系統、主動式巡航系統等功能。
 
-2016年 -
-2月26日原廠授權給[新加坡商](../Page/新加坡.md "wikilink")[陳唱國際](https://zh.wikipedia.org/wiki/陳唱國際 "wikilink")，由後者之子公司TC速霸陸（TC
+#### 2016年2月26日
+
+原廠授權給[新加坡商](../Page/新加坡.md "wikilink")[陳唱國際](https://zh.wikipedia.org/wiki/陳唱國際 "wikilink")，由後者之子公司TC速霸陸（TC
 Subaru Sdn.
 Bhd）以散件進口組裝（knockdown）方式於[馬來西亞陳唱汽車組裝廠](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")（Tan
 Chong Motor Assemblies Sdn.
 Bhd）組裝製造Forester\[7\]。預估年產量1萬部，將就近供應給馬來西亞、[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")、[印尼等](https://zh.wikipedia.org/wiki/印尼 "wikilink")[東協市場](../Page/东南亚国家联盟.md "wikilink")。
 
-同年3月30日[台灣意美汽車引進小改款共分](../Page/台灣意美汽車.md "wikilink")5種車型\[8\]，更新六角形格紋水箱護罩，前保桿兩側具有黑色霧燈飾板及鍍鉻飾條，2.0i-P以上車型配置整合主動轉向、自動感應及LED晝行燈的LED頭燈組，尾燈組內部設計亦經過重新排列。內裝部分，三輻式多功真皮方向盤具有換檔撥片，2.0XT以上車型之雙環式儀表中央具備3.5吋彩色LCD儀表顯示器。全車系標配6.2吋LCD觸控螢幕面板，2.0XT-P車型則改採7吋設定，並有8支揚聲器的Harman
+#### 2016年3月30日
+
+[台灣意美汽車引進小改款共分](../Page/台灣意美汽車.md "wikilink")5種車型\[8\]，更新六角形格紋水箱護罩，前保桿兩側具有黑色霧燈飾板及鍍鉻飾條，2.0i-P以上車型配置整合主動轉向、自動感應及LED晝行燈的LED頭燈組，尾燈組內部設計亦經過重新排列。內裝部分，三輻式多功真皮方向盤具有換檔撥片，2.0XT以上車型之雙環式儀表中央具備3.5吋彩色LCD儀表顯示器。全車系標配6.2吋LCD觸控螢幕面板，2.0XT-P車型則改採7吋設定，並有8支揚聲器的Harman
 Kardon音響系統、電動天窗等配備。至於動力與變速箱，則維持以往的設定。
 
 #### 獲獎紀錄
@@ -186,7 +206,44 @@ China 2015-04-13.jpg
 
 ### 第五代SK系（2018年迄今）
 
-{{-}}
+第五代的Forester外觀設計，是基於速霸陸的“DYNAMIC x
+SOLID”通用設計理念。雖然車身形狀大致繼承了上一代形象，但是採用了家族新世代的C形尾燈。車身尺寸略微擴大，長度增加30mm，寬度增加20mm，離地高撐家30mm。車身高度雖然與上一代1,715mm相同，但配備車頂導軌（“X-BREAK”為標準設備）的車型將為1,730mm，比前一代還要低5mm。
+
+機械方面，從第5代Impreza推出的“SUBARU GLOBAL
+PLATFORM（速霸陸全球平台）”繼續被沿用到Forester之上，明顯的改善了轉向回饋以及穩定性。此外，動力總成也有更新，原本的2.0L
+FB20型在馬力跟扭力上都有提升，並且還新增了2.5L的FB25型。通過大約90％的零件改進設計，包括缸內直噴燃料系統，在實用區域中的燃料效率和扭力得到改善。FB25型最大輸出/最大扭力分別為136
+kW（184 PS）/ 239 N·m（24.4 kgf·m）。
+
+此外，最新成立的混合動力車型“e-BOXER”
+將成為Forester的首款混合動力車型。水平對臥DOHC4缸2.0升直噴FB20型引擎搭配MA1型馬達，電池則是採用鋰離子電池。通過設定電動馬達的動力輔助，可以表現出超過汽油動力車款的加速性能。
+
+#### 2018年3月29日
+
+在2018年的[紐約國際車展上](https://zh.wikipedia.org/wiki/紐約國際車展 "wikilink")，發表了配備2.5公升水平對臥引擎的Forester美規車型，並訂於2018年秋季開始在美國市場銷售。
+
+#### 2018年4月25日
+
+在第15屆[北京國際車展上發表中國規格車型](https://zh.wikipedia.org/wiki/北京國際車展 "wikilink")，並發表新的e-BOXER動力規格。
+
+#### 2018年5月18日
+
+日本國內開放預訂，並且公佈量產車輛外觀照片以及主要規格。
+
+#### 2018年6月20日
+
+全車系正式發表，2.5公升汽車於7月19日發布，配備e-BOXER的Advance車型則於9月14日發布。
+等級配置全面更新，2.5公升有三種車型：「Touring」，「Premium」和「X-BREAK」車型（在上一代中設置為特仕車型），以及搭載e-BOXER動力的「Advance」車型，全部四個等級車款。日本市場並沒有搭載FB20型引擎的純汽油動力車型。
+除了增加車色「森林綠」和「耀海藍」和全新配色「動感紅（需要加價）」，還有原本的「珍珠白（需要加價）」，「鋼鐵銀」，「騎士灰」，「晶綻黑」，「古銅棕」，「星夜藍」，全部九種顏色設定。其中「X-BREAK」車型可選擇「珍珠白（需要加價）」，「鋼鐵銀」，「騎士灰」，「晶綻黑」四個車色。
+
+#### 2018年6月20日
+
+台灣意美集團在台灣發表第五代Forester，車型為搭載2.0升缸內直噴自然進氣水平對臥引擎的「L」，「L-EyeSight」，「S」，「S
+EyeSight」四種車款。由於環保法規的限制，並未引進日本2.5升或e-BOXER動力的車款。
+
+#### 2018年10月15日
+
+獲得2018年[Good Design
+Award](https://zh.wikipedia.org/wiki/Good_Design_Award "wikilink")，這是繼2013年第四代車型獲獎後的第二次獲獎。
 
 ## 內部連結
 

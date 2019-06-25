@@ -32,8 +32,8 @@ Crystal》第四季「死亡月亮篇」決定製作的消息。
 <!-- end list -->
 
   - 水手月亮（セーラームーン／Sailor Moon）
-  - 西蕾妮蒂公主（プリンセス・セレニティ／Princess Serenity）
-  - 新西蕾妮蒂皇后（ネオ‧クイーン セレニチィ／Neo Queen Serenity）
+  - 希蕾妮蒂公主（プリンセス・セレニティ／Princess Serenity）
+  - 新希蕾妮蒂皇后（ネオ‧クイーン セレニチィ／Neo Queen Serenity）
   - 配音員：[三石琴乃](../Page/三石琴乃.md "wikilink")（日）；[楊婉潼](../Page/楊婉潼.md "wikilink")（港）；[謝佼娟](../Page/謝佼娟.md "wikilink")（台）
 
 <!-- end list -->

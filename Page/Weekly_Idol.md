@@ -585,7 +585,7 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <td><p>29</p></td>
 <td><p>2月4日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/T-ara" title="wikilink">T-ara</a> <sup>1st</sup></p></td>
-<td><p><a href="../Page/咸𤨒晶.md" title="wikilink">咸𤨒晶</a>、<a href="https://zh.wikipedia.org/wiki/朴芝妍" title="wikilink">朴芝妍未出演</a></p></td>
+<td><p><a href="../Page/咸𤨒晶.md" title="wikilink">咸𤨒晶</a>、<a href="../Page/朴芝妍.md" title="wikilink">朴芝妍未出演</a></p></td>
 </tr>
 <tr class="even">
 <td><p>30</p></td>
@@ -1359,7 +1359,7 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <tr class="even">
 <td><p>149</p></td>
 <td><p>6月4日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/朴芝妍" title="wikilink">朴芝妍</a> <sup>1st</sup>（<a href="https://zh.wikipedia.org/wiki/T-ara" title="wikilink">T-ara</a>）</p></td>
+<td><p><a href="../Page/朴芝妍.md" title="wikilink">朴芝妍</a> <sup>1st</sup>（<a href="https://zh.wikipedia.org/wiki/T-ara" title="wikilink">T-ara</a>）</p></td>
 <td><p><a href="../Page/劉寅娜.md" title="wikilink">劉寅娜電話連線</a></p></td>
 </tr>
 <tr class="odd">
@@ -2242,7 +2242,7 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <tr class="odd">
 <td><p>282</p></td>
 <td><p>12月21日</p></td>
-<td><p><a href="../Page/鄭承煥.md" title="wikilink">鄭承煥</a> <sup>1st</sup>、<a href="../Page/權珍雅.md" title="wikilink">權珍雅</a> <sup>1st</sup>、<a href="../Page/李珍雅.md" title="wikilink">李珍雅</a> <sup>1st</sup>、 <sup>1st</sup></p></td>
+<td><p><a href="../Page/鄭承煥.md" title="wikilink">鄭承煥</a> <sup>1st</sup>、<a href="../Page/權珍雅.md" title="wikilink">權珍雅</a> <sup>1st</sup>、<a href="../Page/李珍雅.md" title="wikilink">李珍雅</a> <sup>1st</sup>、<a href="https://zh.wikipedia.org/wiki/Sam_Kim" title="wikilink">Sam Kim</a> <sup>1st</sup></p></td>
 <td><p><strong>圣诞节特輯</strong><br />
 「本週偶像」特別出演：<a href="https://zh.wikipedia.org/wiki/柳熙烈" title="wikilink">柳熙烈</a></p></td>
 </tr>
@@ -2341,7 +2341,7 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <tr class="even">
 <td><p>295</p></td>
 <td><p>3月22日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Highlight_(韓國組合)" title="wikilink">Highlight</a> <sup>7th</sup></p></td>
+<td><p><a href="../Page/Highlight_(韓國組合).md" title="wikilink">Highlight</a> <sup>7th</sup></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2570,7 +2570,7 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <tr class="even">
 <td><p>333</p></td>
 <td><p>12月13日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/嚴正花" title="wikilink">嚴正花</a> <sup>1st</sup></p></td>
+<td><p><a href="../Page/嚴正化.md" title="wikilink">嚴正化</a> <sup>1st</sup></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -3093,6 +3093,18 @@ Weekly Idol 8周年特辑 (暑假特辑2)</p></td>
 <td><p>411</p></td>
 <td><p>6月12日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/宇宙少女" title="wikilink">宇宙少女</a><sup>4th</sup></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>412</p></td>
+<td><p>6月19日</p></td>
+<td><p><a href="../Page/ATEEZ.md" title="wikilink">ATEEZ</a><sup>1st</sup>、<a href="https://zh.wikipedia.org/wiki/ONEUS" title="wikilink">ONEUS</a><sup>1st</sup></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>413</p></td>
+<td><p>6月26日</p></td>
+<td><p><a href="../Page/(G)I-DLE.md" title="wikilink">(G)I-DLE</a><sup>1st</sup></p></td>
 <td></td>
 </tr>
 </tbody>

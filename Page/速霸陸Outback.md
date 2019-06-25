@@ -212,7 +212,7 @@ Outback Limited車尾
 Interface）螢幕，將各種車輛相關情報與設定皆集中於此，支援Apple
 CarPlay、Android
 Auto，以及Wi-Fi熱點、緊急通報等機能。搭載的EyeSight系統也加入[車道維持輔助以及可跟隨前車方向提供轉向輔助功能的進階版](https://zh.wikipedia.org/wiki/車道維持輔助 "wikilink")[ACC](https://zh.wikipedia.org/wiki/ACC "wikilink")（Advanced
-Adaptive Cruise Control）等功能。 }}
+Adaptive Cruise Control）等功能。
 
 ## 內部連結
 

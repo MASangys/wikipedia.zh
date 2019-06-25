@@ -18,8 +18,8 @@ Mark哥（張志強，[周潤發飾](https://zh.wikipedia.org/wiki/周潤發 "wi
 | [周潤發](https://zh.wikipedia.org/wiki/周潤發 "wikilink") | Mark哥（張志強） | [周潤發](https://zh.wikipedia.org/wiki/周潤發 "wikilink") |                                                                                                        |
 | [梅艷芳](../Page/梅艷芳.md "wikilink")                    | 周英傑        | [龍寶鈿](../Page/龍寶鈿.md "wikilink")                    | Mark和阿民的知己，何長青女朋友，最後中彈身亡。                                                                              |
 | [梁家輝](../Page/梁家輝.md "wikilink")                    | 張志民        | [黃兆強](../Page/黃兆強.md "wikilink")                    | Mark之堂弟。                                                                                               |
-| [時任三郎](../Page/時任三郎.md "wikilink")                  | 何長青        | [黃志成](../Page/黃志成.md "wikilink")                    | 周英傑男朋友，最後被喪邦出賣，死於喪邦槍下。                                                                                 |
-| [南　燕](../Page/南燕_\(編劇\).md "wikilink")              | 喪　邦        |                                                     | 越南軍隊將軍，死於Mark的迫擊砲彈。                                                                                    |
+| [時任三郎](../Page/時任三郎.md "wikilink")                  | 何長青        | [黃志成](../Page/黃志成.md "wikilink")                    | 周英傑男朋友，本名田中弘義，最後被喪邦出賣，死於喪邦槍下。                                                                          |
+| [南　燕](../Page/南燕_\(編劇\).md "wikilink")              | 喪　邦        |                                                     | [南越軍軍官](https://zh.wikipedia.org/wiki/南越軍 "wikilink")，死於Mark的迫擊砲彈。                                     |
 | [石　堅](../Page/石堅.md "wikilink")                     | 松　叔        | [石　堅](../Page/石堅.md "wikilink")                     | Mark之二叔；張志民之父、阿玲之姨丈，最後遭何長青炸彈害死。                                                                        |
 | [鄭偉倫](https://zh.wikipedia.org/wiki/鄭偉倫 "wikilink") | 初　八        |                                                     | [南越孤兒](https://zh.wikipedia.org/wiki/南越 "wikilink")，因與父母失散，被松叔收留；後來成為南越軍人，協助Mark和志民火拼喪邦，最後決定留在越南，情況不明。 |
 | [張可頤](https://zh.wikipedia.org/wiki/張可頤 "wikilink") | 阿　玲        | [譚淑英](../Page/譚淑英.md "wikilink")                    | 中國移民，Mark和志民的親戚，被Mark安排前往[台灣避難](https://zh.wikipedia.org/wiki/台灣 "wikilink")。                          |
@@ -82,7 +82,7 @@ Mark哥（張志強，[周潤發飾](https://zh.wikipedia.org/wiki/周潤發 "wi
 [Category:香港續集電影](https://zh.wikipedia.org/wiki/Category:香港續集電影 "wikilink")
 [Category:徐克电影](https://zh.wikipedia.org/wiki/Category:徐克电影 "wikilink")
 [Category:新藝城電影](https://zh.wikipedia.org/wiki/Category:新藝城電影 "wikilink")
-[Category:越南背景電影](https://zh.wikipedia.org/wiki/Category:越南背景電影 "wikilink")
 [Category:1974年背景電影](https://zh.wikipedia.org/wiki/Category:1974年背景電影 "wikilink")
 [Category:枪战片](https://zh.wikipedia.org/wiki/Category:枪战片 "wikilink")
 [Category:1975年背景电影](https://zh.wikipedia.org/wiki/Category:1975年背景电影 "wikilink")
+[Category:西貢背景電影](https://zh.wikipedia.org/wiki/Category:西貢背景電影 "wikilink")

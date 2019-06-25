@@ -443,6 +443,7 @@ Memories》並公開專輯配置圖、風格概念照，27日舉辦單獨演唱�
 | 3月15日       |
 | 3月19日       |
 | 4月14日       |
+| 4月18日       |
 | 4月22日       |
 | 5月11日       |
 |             |
@@ -630,7 +631,35 @@ Memories》並公開專輯配置圖、風格概念照，27日舉辦單獨演唱�
 
 ## 演唱會
 
-  - FNC KINGDOM家族演唱會
+### FAN MEETING / SHOWCASE
+
+| 日期          | 演唱會站次 | **演唱會名稱**                                            | 舉行地點                           |
+| ----------- | ----- | ---------------------------------------------------- | ------------------------------ |
+| 2015年5月20日  | 首爾站   | N.Flying Debut Showcase                              | 首爾AX-KOREA                     |
+| 2015年7月26日  | 台北站   | N.Flying 台灣首航見面演唱會                                   | 台北ATT Show Box                 |
+| 2017年12月30日 | 台北站   | N.Flying 『The Real』 Showcase in Taipei               | CLAPPER STUDIO                 |
+| 2018年5月20日  | 首爾站   | N.Flying 3rd Anniversary Fanmeeting \<Fly to N.Fia\> | HANATOUR V-HALL                |
+| 2018年7月7日   | 首爾站   | N.Flying LIVE ‘SUMMER FEELING’                       | KT\&G SangSangMaDang Live Hall |
+| 2018年9月9日   | 曼谷站   | N.Flying 1ST FAN MEETING ‘Go N Fly’ IN BANGKOK       | Ultra Arena Hall @ Show DC     |
+
+### N.Flying FLY HIGH PROJECT
+
+| 日期          | 演唱會站次 | **演唱會名稱**                              | 舉行地點                    |
+| ----------- | ----- | -------------------------------------- | ----------------------- |
+| 2018年10月20日 | 首爾站   | N.Flying FLY HIGH PROJECT NOTE1. 飛行    | HYUNDAI CARD UNDERSTAGE |
+| 2019年1月19日  | 首爾站   | N.Flying FLY HIGH PROJECT NOTE2. ㄹㅇ19  | MUV-Hall                |
+| 2019年4月27日  | 首爾站   | N.Flying FLY HIGH PROJECT NOTE3. 春暖花開  | MUV-Hall                |
+| 2019年7月20日  | 首爾站   | N.Flying FLY HIGH PROJECT NOTE4. 再次，夏天 | Yes24 Live Hall         |
+
+### 演唱會
+
+| 日期         | 演唱會站次 | **演唱會名稱**                                    | 舉行地點                         |
+| ---------- | ----- | -------------------------------------------- | ---------------------------- |
+| 2019年5月25日 | 新加坡站  | HallyuPopFest 2019                           | 新加坡室內體育館                     |
+| 2019年6月29日 | 曼谷站   | N.Flying 2019 Live Up All Night in BANGKOK   | ULTRA ARENA HALL - SHOW D.C. |
+| 2019年8月10日 | 香港站   | N.Flying 2019 Live Up All Night in Hong Kong | 亞洲國際博覽館                      |
+
+### FNC KINGDOM家族演唱會
 
 | 日期               | 演唱會站次                                       | **演唱會名稱**                                     | 舉行地點             | 備註            |
 | ---------------- | ------------------------------------------- | --------------------------------------------- | ---------------- | ------------- |
@@ -650,14 +679,6 @@ Memories》並公開專輯配置圖、風格概念照，27日舉辦單獨演唱�
 | 2016年12月11日      |                                             |                                               |                  |               |
 | 2017年12月16日      | 2017 FNC KINGDOM IN JAPAN -MIDNIGHT CIRCUS- | 幕張メッセ                                         |                  |               |
 | 2017年12月17日      |                                             |                                               |                  |               |
-
-| 日期          | 演唱會站次 | **演唱會名稱**                             | 舉行地點                                  |
-| ----------- | ----- | ------------------------------------- | ------------------------------------- |
-| 2015年5月20日  | 首爾站   | N.Flying Debut Showcase               | 首爾AX-KOREA                            |
-| 2015年7月26日  | 台北站   | 台北ATT Show Box                        | N.Flying 台灣首航見面演唱會                    |
-| 2017年12月30日 | 台北站   | CLAPPER STUDIO                        | N.Flying "TheReal" Showcase in Taipei |
-| 2019年1月19日  | 首爾站   | N.Flying FLY HIGH PROJECT NOTE2. 2019 | MUV-Hall                              |
-| 2019年5月25日  | 新加坡站  | HallyuPopFest 2019                    | 新加坡室內體育館                              |
 
 ## 獎項
 

@@ -75,7 +75,7 @@ Technica上有被報導](../Page/Ars_Technica.md "wikilink")。\[30\]並且在�
 {{-}}
 
 [Category:开放源代码](https://zh.wikipedia.org/wiki/Category:开放源代码 "wikilink")
-[Category:破网软件](https://zh.wikipedia.org/wiki/Category:破网软件 "wikilink")
+[Category:翻墙软件](https://zh.wikipedia.org/wiki/Category:翻墙软件 "wikilink")
 [Category:互联网审查](https://zh.wikipedia.org/wiki/Category:互联网审查 "wikilink")
 [Category:互聯網隱私軟件](https://zh.wikipedia.org/wiki/Category:互聯網隱私軟件 "wikilink")
 [Category:保密通信](https://zh.wikipedia.org/wiki/Category:保密通信 "wikilink")

@@ -326,7 +326,7 @@ x I Swear》晉級楊坤組8強。
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><p>6th</p></td>
-<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/CURATIONS" title="wikilink">CURATIONS</a></p></td>
+<td style="text-align: left;"><p><a href="../Page/CURATIONS.md" title="wikilink">CURATIONS</a></p></td>
 <td style="text-align: left;"><p>新曲+精選</p></td>
 <td style="text-align: left;"><p><a href="../Page/環球唱片_(香港).md" title="wikilink">環球唱片 (香港)</a></p></td>
 <td style="text-align: left;"><p>2019年4月26日</p></td>
@@ -410,7 +410,7 @@ x I Swear》晉級楊坤組8強。
 | 如果·我不完美                                                                               |
 | 如果·我不完美                                                                               |
 | **2017年**                                                                             |
-| [CURATIONS](https://zh.wikipedia.org/wiki/CURATIONS "wikilink")                       |
+| [CURATIONS](../Page/CURATIONS.md "wikilink")                                          |
 | CURATIONS                                                                             |
 | CURATIONS                                                                             |
 | CURATIONS                                                                             |
@@ -1424,6 +1424,10 @@ x I Swear》晉級楊坤組8強。
 <tr class="odd">
 <td><p>2019年5月14日</p></td>
 <td><p>中環香港美利酒店 marie claire 《國際美妝大獎暨第14屆大中華特別獎》</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年6月6日</p></td>
+<td><p>牛池灣文娛中心 《HKUSPACE CCSU Singing Contest》</p></td>
 </tr>
 </tbody>
 </table>

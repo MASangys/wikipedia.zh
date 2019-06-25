@@ -6,7 +6,7 @@
 
 在大部分西班牙語方言中，ll和y均發為濁硬顎擦音或硬顎近音，例如“relleno”（[填料](https://zh.wikipedia.org/wiki/填料 "wikilink")）和“eyectar”（排出）等。在[鼻音](../Page/鼻音_\(辅音\).md "wikilink")（例如“cónyuge”（[配偶](https://zh.wikipedia.org/wiki/配偶 "wikilink")），“conllevar”（搬運）），[邊音](https://zh.wikipedia.org/wiki/邊音 "wikilink")（例如“el
 yunque”（[鐵砧](https://zh.wikipedia.org/wiki/鐵砧 "wikilink")），“el
-llano”（[平原](https://zh.wikipedia.org/wiki/平原 "wikilink")））或者句首和停頓之後，此音則可發為[濁顎齦塞擦音](https://zh.wikipedia.org/wiki/濁顎齦塞擦音 "wikilink")，[濁硬顎塞擦音](https://zh.wikipedia.org/wiki/濁硬顎塞擦音 "wikilink")或者[濁硬顎塞音](https://zh.wikipedia.org/wiki/濁硬顎塞音 "wikilink")。
+llano”（[平原](https://zh.wikipedia.org/wiki/平原 "wikilink")））或者句首和停頓之後，此音則可發為[濁顎齦塞擦音](https://zh.wikipedia.org/wiki/濁顎齦塞擦音 "wikilink")，[濁硬顎塞擦音](https://zh.wikipedia.org/wiki/濁硬顎塞擦音 "wikilink")或者[濁硬顎塞音](../Page/濁硬顎塞音.md "wikilink")。
 
 在[拉布拉他河方言中](https://zh.wikipedia.org/wiki/拉布拉他河 "wikilink")，由於[輔音弱化的影響](../Page/輔音弱化.md "wikilink")，ll和y一般發為顎齦擦音或，有時也會作為[同位異音發作濁顎齦塞擦音](../Page/同位異音.md "wikilink")。一般來說在[布宜諾斯艾利斯及其附近地區](../Page/布宜諾斯艾利斯.md "wikilink")，這個音常常發作；而在中西部地區，這個音常常發作\[5\]。
 
@@ -22,7 +22,7 @@ llano”（[平原](https://zh.wikipedia.org/wiki/平原 "wikilink")））或者
 
 由於yeísmo的影響，在西班牙語中出現了很多[同音異形詞](https://zh.wikipedia.org/wiki/同音異形詞 "wikilink")。以下這些詞語在yeísmo地區為同音異形詞，而在lleísmo地區則為[最小對立體](../Page/最小對立體.md "wikilink")：
 
-  - haya（[山毛櫸](https://zh.wikipedia.org/wiki/山毛櫸 "wikilink")／haber的虚拟式[现在时](https://zh.wikipedia.org/wiki/现在时 "wikilink")[第一和第三人稱單數](https://zh.wikipedia.org/wiki/第一人稱 "wikilink")）
+  - haya（[山毛櫸](https://zh.wikipedia.org/wiki/山毛櫸 "wikilink")／haber的虚拟式[现在时](../Page/现在时.md "wikilink")[第一和第三人稱單數](https://zh.wikipedia.org/wiki/第一人稱 "wikilink")）
     \~ halla（hallar的陈述式现在时第三人稱單數）
   - cayó（caer的陈述式简单[过去时第三人稱單數](../Page/过去时.md "wikilink")） \~
     calló（callar的陈述式简单[过去时第三人稱單數](../Page/过去时.md "wikilink")）

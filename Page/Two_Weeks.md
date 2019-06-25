@@ -1,5 +1,5 @@
 《**Two
-Weeks**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC自](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2013年8月7日起播出的[水木迷你連續劇](https://zh.wikipedia.org/wiki/MBC水木連續劇 "wikilink")，由[蘇賢京作家執筆](../Page/蘇賢京.md "wikilink")，《[個人取向](../Page/個人取向.md "wikilink")》[孫亨錫導演執導](../Page/孫亨錫.md "wikilink")。講述了被誣陷為殺人犯的男子（[李準基飾演](https://zh.wikipedia.org/wiki/李準基 "wikilink")）在得知自己有一個身患白血病的女兒後，為了拯救女兒的生命而孤軍奮戰兩週的故事。
+Weeks**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC自](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2013年8月7日起播出的[水木迷你連續劇](https://zh.wikipedia.org/wiki/MBC水木連續劇 "wikilink")，由[蘇賢京作家執筆](../Page/蘇賢京.md "wikilink")，《[個人取向](../Page/個人取向.md "wikilink")》[孫亨錫導演執導](../Page/孫亨錫.md "wikilink")。講述了被誣陷為殺人犯的男子（[李準基飾演](../Page/李準基.md "wikilink")）在得知自己有一個身患白血病的女兒後，為了拯救女兒的生命而孤軍奮戰兩週的故事。
 
 ## 演出陣容
 
@@ -21,7 +21,7 @@ Weeks**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/李準基" title="wikilink">李準基</a></p></td>
+<p><a href="../Page/李準基.md" title="wikilink">李準基</a></p></td>
 <td><center>
 <p>張泰山</p></td>
 <td><center>

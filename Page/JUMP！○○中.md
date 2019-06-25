@@ -387,7 +387,7 @@ CiTY御台場的店舗以外全區域](../Page/AQUA_CiTY台場.md "wikilink")。
     玩家:13名
 
       -
-        オリエンタルラジオ（中田敦彦/藤森慎吾）、[上地雄輔](../Page/上地雄輔.md "wikilink")、[木下優樹菜](../Page/木下優樹菜.md "wikilink")、、チュートリアル（徳井義実/福田充徳）、、（[近藤春菜](https://zh.wikipedia.org/wiki/近藤春菜 "wikilink")/[箕輪はるか](https://zh.wikipedia.org/wiki/箕輪はるか "wikilink")）、[蛍原徹](https://zh.wikipedia.org/wiki/蛍原徹 "wikilink")（）、[南明奈](../Page/南明奈.md "wikilink")、山本裕典
+        オリエンタルラジオ（中田敦彦/藤森慎吾）、[上地雄輔](../Page/上地雄輔.md "wikilink")、[木下優樹菜](../Page/木下優樹菜.md "wikilink")、、チュートリアル（徳井義実/福田充徳）、、（[近藤春菜](../Page/近藤春菜.md "wikilink")/[箕輪はるか](https://zh.wikipedia.org/wiki/箕輪はるか "wikilink")）、[蛍原徹](https://zh.wikipedia.org/wiki/蛍原徹 "wikilink")（）、[南明奈](../Page/南明奈.md "wikilink")、山本裕典
 
     獵人:3具
 

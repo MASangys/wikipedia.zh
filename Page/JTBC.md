@@ -172,6 +172,7 @@ World），JTBC提出面向未來[多媒體的發展方向](https://zh.wikipedia
     Again](../Page/Begin_Again_\(電視節目\).md "wikilink")》（비긴어게인）
   - 2017年《》（차이나는 클라스）
   - 2018年《[Idol Room](../Page/Idol_Room.md "wikilink")》(아이돌룸)
+  - 2019年《[Stage K](../Page/Stage_K.md "wikilink")》(스테이지 K)
 
 #### 完結的節目
 

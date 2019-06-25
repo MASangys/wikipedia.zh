@@ -37,15 +37,18 @@ Manager”\[5\]。经过一番变革，2011年7月3日Origin从这两个平台�
 2016年，Origin取消简体中文支持，原因未知。
 
 2018年10月，Origin开始支持[支付宝付款结算](../Page/支付宝.md "wikilink")，不过只有在用中国大陆和香港的IP地址访问时才能使用支付宝进行付款,\[6\]并且只有在购买游戏时才能使用支付宝进行支付，订阅Origin
-Access与[Apex英雄新手包和创始人包目前尚不可用](../Page/Apex英雄.md "wikilink")。
+Access与购买[Apex英雄新手包和创始人包目前尚不可用](../Page/Apex英雄.md "wikilink")。
 
 2019年1月底，中国大陆IP地址登陆Origin由默认[欧元结算改为](../Page/欧元.md "wikilink")[港元结算](../Page/港元.md "wikilink")，\[7\]实际价格比之前欧元结算有所下降。
+
+2019年6月初，Origin增加了对[银联的支持](https://zh.wikipedia.org/wiki/银联 "wikilink")，目前只有在购买游戏时才能使用银联进行支付，订阅Origin
+Access目前仍不可用。
 
 ## 不足
 
 ### 区域限制
 
-很多游戏（如《[战地3](https://zh.wikipedia.org/wiki/战地3 "wikilink")》）都有区域限制，如果不使用代理无法在Origin商城搜索到。同样，新版的Origin商城也无法通过中国IP访问。
+很多游戏（如《[战地3](https://zh.wikipedia.org/wiki/战地3 "wikilink")》）都有区域限制(目前仅限制语言)，如果不使用代理无法在Origin商城显示到对某种语言的支持。
 
 ### 客户端无法记住用户名
 

@@ -1,7 +1,7 @@
 《**STAR
 WARS：原力覺醒**》（，也通稱作《**星際大戰七部曲：原力覺醒**》（）是一部於2015年上映的[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[史詩](../Page/史诗片.md "wikilink")[太空歌劇](../Page/太空歌劇.md "wikilink")[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")\[1\]\[2\]，由[J·J·艾布拉姆斯执导](https://zh.wikipedia.org/wiki/J·J·艾布拉姆斯 "wikilink")，[華特迪士尼影業](https://zh.wikipedia.org/wiki/華特迪士尼影業 "wikilink")、[盧卡斯影業和](https://zh.wikipedia.org/wiki/盧卡斯影業 "wikilink")[壞機器人製片公司共同製作](https://zh.wikipedia.org/wiki/壞機器人製片公司 "wikilink")\[3\]\[4\]，並由[華特迪士尼工作室電影發行](../Page/華特迪士尼工作室電影.md "wikilink")。
 
-本片是《[星際大戰](../Page/星際大戰.md "wikilink")》系列電影的第七部作品。主要演員包括[黛西·蕾德莉](../Page/黛西·蕾德莉.md "wikilink")、[約翰·波耶加](../Page/約翰·波耶加.md "wikilink")、[奧斯卡·伊薩克](https://zh.wikipedia.org/wiki/奧斯卡·伊薩克 "wikilink")、[亞當·崔佛](../Page/亞當·崔佛.md "wikilink")、[安迪·瑟克斯](../Page/安迪·瑟克斯.md "wikilink")、[多姆納爾·格里森](../Page/多姆納爾·格里森.md "wikilink")、[麥斯·馮西度](https://zh.wikipedia.org/wiki/麥斯·馮西度 "wikilink")、[露琵塔·尼詠歐和](https://zh.wikipedia.org/wiki/露琵塔·尼詠歐 "wikilink")[關朵琳·克莉絲蒂等](https://zh.wikipedia.org/wiki/關朵琳·克莉絲蒂 "wikilink")。此外[馬克·漢米爾](../Page/馬克·漢米爾.md "wikilink")、[哈里遜·福特](https://zh.wikipedia.org/wiki/哈里遜·福特 "wikilink")、[嘉莉·費雪](../Page/嘉莉·費雪.md "wikilink")、、和[肯尼·貝克飾演前作中出現的角色](../Page/肯尼·貝克.md "wikilink")。該片是《星際大戰》電影系列中的第一部作品\[5\]，背景設定在《[絕地大反攻](../Page/星際大戰六部曲：絕地大反攻.md "wikilink")》的30年後\[6\]。本片由[J·J·亞柏拉罕執導](https://zh.wikipedia.org/wiki/J·J·亞柏拉罕 "wikilink")，劇本則由亞柏拉罕與共同編寫，卡斯丹曾擔任《[帝國大反擊](../Page/星際大戰五部曲：帝國大反擊.md "wikilink")》和《絕地大反攻》的共同編劇。兩人取代了曾預定擔任本片編劇的[麥可·阿恩特](https://zh.wikipedia.org/wiki/麥可·阿恩特 "wikilink")\[7\]\[8\]。
+本片是《[星際大戰](../Page/星際大戰.md "wikilink")》系列電影的第七部作品。主要演員包括[黛西·蕾德莉](../Page/黛西·蕾德莉.md "wikilink")、[約翰·波耶加](../Page/約翰·波耶加.md "wikilink")、[奧斯卡·伊薩克](https://zh.wikipedia.org/wiki/奧斯卡·伊薩克 "wikilink")、[亞當·崔佛](../Page/亞當·崔佛.md "wikilink")、[安迪·瑟克斯](../Page/安迪·瑟克斯.md "wikilink")、[多姆納爾·格里森](../Page/多姆納爾·格里森.md "wikilink")、[麥斯·馮西度](https://zh.wikipedia.org/wiki/麥斯·馮西度 "wikilink")、[露琵塔·尼詠歐和](https://zh.wikipedia.org/wiki/露琵塔·尼詠歐 "wikilink")[關朵琳·克莉絲蒂等](../Page/關朵琳·克莉絲蒂.md "wikilink")。此外[馬克·漢米爾](../Page/馬克·漢米爾.md "wikilink")、[哈里遜·福特](https://zh.wikipedia.org/wiki/哈里遜·福特 "wikilink")、[嘉莉·費雪](../Page/嘉莉·費雪.md "wikilink")、、和[肯尼·貝克飾演前作中出現的角色](../Page/肯尼·貝克.md "wikilink")。該片是《星際大戰》電影系列中的第一部作品\[5\]，背景設定在《[絕地大反攻](../Page/星際大戰六部曲：絕地大反攻.md "wikilink")》的30年後\[6\]。本片由[J·J·亞柏拉罕執導](https://zh.wikipedia.org/wiki/J·J·亞柏拉罕 "wikilink")，劇本則由亞柏拉罕與共同編寫，卡斯丹曾擔任《[帝國大反擊](../Page/星際大戰五部曲：帝國大反擊.md "wikilink")》和《絕地大反攻》的共同編劇。兩人取代了曾預定擔任本片編劇的[麥可·阿恩特](https://zh.wikipedia.org/wiki/麥可·阿恩特 "wikilink")\[7\]\[8\]。
 
 [華特迪士尼公司於](https://zh.wikipedia.org/wiki/華特迪士尼公司 "wikilink")2012年收購盧卡斯影業後，同時宣布了《星際大戰》續集三部曲電影的計劃。星際大戰七部曲是收購後首部拍攝的作品\[9\]。本片由[凱斯琳·甘迺迪](../Page/凱斯琳·甘迺迪_\(電影監製\).md "wikilink")、J·J·亞柏拉罕與[布賴恩·伯克擔任製作人](../Page/布賴恩·伯克.md "wikilink")\[10\]\[11\]。《星際大戰》原作者[喬治·盧卡斯在](https://zh.wikipedia.org/wiki/喬治·盧卡斯 "wikilink")《STAR
 WARS：原力覺醒》和其他《星際大戰》電影中擔任創意顧問\[12\]。電影的第二工作組於2014年4月在[阿布達比和](../Page/阿布扎比_\(酋长国\).md "wikilink")[冰島開拍](https://zh.wikipedia.org/wiki/冰島 "wikilink")\[13\]，主要拍攝工作自2014年5月16日起展開，在阿布達比和位於[倫敦的](https://zh.wikipedia.org/wiki/倫敦 "wikilink")進行。
@@ -57,8 +57,8 @@ WARS：原力覺醒》於2015年12月14日在位於[美國](https://zh.wikipedia
   - [露琵塔·尼詠歐](https://zh.wikipedia.org/wiki/露琵塔·尼詠歐 "wikilink") 飾 （Maz
     Kanata），韓·索羅的舊識\[21\]。
 
-  - [關朵琳·克莉絲蒂](https://zh.wikipedia.org/wiki/關朵琳·克莉絲蒂 "wikilink") 飾
-    （Captain Phasma）\[22\]，芬恩的上司。
+  - [關朵琳·克莉絲蒂](../Page/關朵琳·克莉絲蒂.md "wikilink") 飾 （Captain
+    Phasma）\[22\]，芬恩的上司。
 
   - [安迪·瑟克斯](../Page/安迪·瑟克斯.md "wikilink") 飾
     [最高領導人史諾克](../Page/最高領導人史諾克.md "wikilink")（Supreme

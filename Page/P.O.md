@@ -60,7 +60,7 @@ B?](https://zh.wikipedia.org/wiki/Do_U_Wanna_B? "wikilink")》正式出道。
 | 2017年 | [SBS](../Page/SBS_\(韓國\).md "wikilink")             | 《[愛情的溫度](../Page/愛情的溫度.md "wikilink")》     | 姜敏浩 |
 | 2018年 | [MBN](https://zh.wikipedia.org/wiki/MBN "wikilink") | 《[心動警報](../Page/心動警報.md "wikilink")》       | 尹柳俊 |
 | 2018年 | [tvN](../Page/TVN.md "wikilink")                    | 《[男朋友](../Page/男朋友_\(電視劇\).md "wikilink")》 | 金振明 |
-| 2019年 | [tvN](../Page/TVN.md "wikilink")                    | 《[德魯納酒店](../Page/德魯納酒店.md "wikilink")》     | 盧俊錫 |
+| 2019年 | [tvN](../Page/TVN.md "wikilink")                    | 《[德魯納酒店](../Page/德魯納酒店.md "wikilink")》     | 池賢宇 |
 
 ### 話劇
 
@@ -169,17 +169,17 @@ B?](https://zh.wikipedia.org/wiki/Do_U_Wanna_B? "wikilink")》正式出道。
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/tvN" title="wikilink">tvN</a></p></td>
-<td><p>2019年3月17日—</p></td>
+<td><p>2019年3月17日—至今</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/大逃出2" title="wikilink">大逃出2</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/tvN" title="wikilink">tvN</a></p></td>
-<td><p>2019年3月30日—</p></td>
+<td><p>2019年3月30日—至今</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/驚人的週六" title="wikilink">驚人的週六</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/tvN" title="wikilink">tvN</a></p></td>
-<td><p>2019年</p></td>
+<td><p>2019年5月31日—至今</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/姜食堂2" title="wikilink">姜食堂2</a></p></td>
 </tr>
 </tbody>

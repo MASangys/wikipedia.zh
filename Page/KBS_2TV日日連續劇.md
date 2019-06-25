@@ -787,10 +787,10 @@
 <tr class="even">
 <td style="text-align: center;"><p>2019年6月3日－2019年11月<br />
 </p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/太陽的季節_(電視劇)" title="wikilink">太陽的季節</a><br />
+<td style="text-align: center;"><p><a href="../Page/太陽的季節_(韓國電視劇).md" title="wikilink">太陽的季節</a><br />
 </p></td>
 <td style="text-align: center;"><p>100</p></td>
-<td style="text-align: center;"><p><a href="../Page/吳昶錫.md" title="wikilink">吳昶錫</a>、<a href="../Page/尹素怡.md" title="wikilink">尹素怡</a>、<a href="https://zh.wikipedia.org/wiki/崔成宰" title="wikilink">崔成宰</a>、<a href="../Page/河詩恩.md" title="wikilink">河詩恩</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/吳昶錫.md" title="wikilink">吳昶錫</a>、<a href="../Page/尹素怡.md" title="wikilink">尹素怡</a>、<a href="../Page/崔成宰.md" title="wikilink">崔成宰</a>、<a href="../Page/河詩恩.md" title="wikilink">河詩恩</a></p></td>
 <td style="text-align: center;"><p>金元勇</p></td>
 <td style="text-align: center;"><p>李恩珠</p></td>
 <td style="text-align: center;"></td>

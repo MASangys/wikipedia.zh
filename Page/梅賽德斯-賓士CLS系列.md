@@ -37,7 +37,7 @@ Brake擁有較為接近五門[掀背車的流線造型](https://zh.wikipedia.org
   - [Mercedes-Benz
     CLS-Class](http://www5.mercedes-benz.com/en/vehicles/passenger-cars/cls-class/)（梅賽德斯-賓士全球官方網站\]
   - [Mercedes-Benz
-    CLS-Class](http://www.mercedes-benz.com.tw/content/taiwan/mpc/mpc_taiwan_website/twng/home_mpc/passengercars/home/new_cars/models/cls-class/_c218.flash.html#_int_passengercars:home:model-navi:_c218)（台灣賓士官方網站）
+    CLS-Class](https://web.archive.org/web/20120616164516/http://www.mercedes-benz.com.tw/content/taiwan/mpc/mpc_taiwan_website/twng/home_mpc/passengercars/home/new_cars/models/cls-class/_c218.flash.html#_int_passengercars:home:model-navi:_c218)（台灣賓士官方網站）
 
 [Category:2004年面世的汽車](https://zh.wikipedia.org/wiki/Category:2004年面世的汽車 "wikilink")
 [Category:梅賽德斯-賓士車輛](https://zh.wikipedia.org/wiki/Category:梅賽德斯-賓士車輛 "wikilink")

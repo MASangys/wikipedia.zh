@@ -121,9 +121,9 @@ S4同期的最大競爭對手是Apple [iPhone
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/操作系统.md" title="wikilink">操作系统</a></p></td>
-<td><p><a href="../Page/Android.md" title="wikilink">Android</a> 4.4.2</p></td>
-<td><p><a href="../Page/Android.md" title="wikilink">Android</a> 4.3</p></td>
-<td><p><a href="../Page/Android.md" title="wikilink">Android</a> 4.4.2</p></td>
+<td><p><a href="../Page/Android.md" title="wikilink">Android</a>5.0.1</p></td>
+<td><p><a href="../Page/Android.md" title="wikilink">Android</a> 5.0.1</p></td>
+<td><p><a href="../Page/Android.md" title="wikilink">Android</a> 5.0.1</p></td>
 <td></td>
 <td></td>
 <td></td>

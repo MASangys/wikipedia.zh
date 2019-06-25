@@ -511,7 +511,7 @@ Silver發行或製作的遊戲，其子工作室在未併入前的作品不予�
 </tr>
 <tr class="even">
 <td><p>2019</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/物质世界" title="wikilink">物质世界</a>（Outward）</p></td>
+<td><p><a href="../Page/物质世界.md" title="wikilink">物质世界</a>（Outward）</p></td>
 <td></td>
 <td></td>
 </tr>

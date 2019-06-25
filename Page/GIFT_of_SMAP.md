@@ -111,7 +111,7 @@ GIFT留言卡封入</p></td>
       - 组合出演的[7\&I](../Page/7&I控股.md "wikilink")《夏日礼物》（）与《冬日礼物》（）篇搭配的广告歌
 8.  《夏日的越狱者》（）
       - 作詞、作曲：[椎名林檎](../Page/椎名林檎.md "wikilink") /
-        編曲：[服部隆之](https://zh.wikipedia.org/wiki/服部隆之 "wikilink")
+        編曲：[服部隆之](../Page/服部隆之.md "wikilink")
 9.  《不存在的寂寞》（）
       - 作詞：[Blaise、Maynard、tax](https://zh.wikipedia.org/wiki/猴子把戏 "wikilink")
         / 作曲：Blaise、Maynard / 編曲：川端良征

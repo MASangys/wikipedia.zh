@@ -113,7 +113,7 @@ AF兼容卡口的单反和](https://zh.wikipedia.org/wiki/Minolta_AF "wikilink")
 <td><p><a href="../Page/MI热靴.md" title="wikilink">MI热靴</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Sony_ILCE-7R" title="wikilink">Sony ILCE-7R</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/索尼_α7R" title="wikilink">Sony ILCE-7R</a></p></td>
 <td><p>36MP</p></td>
 <td></td>
 <td><p>3英寸 92万像素 可向上約90度，向下約45度翻轉</p></td>
@@ -122,7 +122,7 @@ AF兼容卡口的单反和](https://zh.wikipedia.org/wiki/Minolta_AF "wikilink")
 <td><p><a href="../Page/MI热靴.md" title="wikilink">MI热靴</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Sony_ILCE-7S" title="wikilink">Sony ILCE-7S</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/索尼_α7S" title="wikilink">Sony ILCE-7S</a></p></td>
 <td><p>12MP</p></td>
 <td></td>
 <td><p>3英寸 92万像素 可向上約90度，向下約45度翻轉</p></td>
@@ -131,7 +131,7 @@ AF兼容卡口的单反和](https://zh.wikipedia.org/wiki/Minolta_AF "wikilink")
 <td><p><a href="../Page/MI热靴.md" title="wikilink">MI热靴</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Sony_ILCE-7M2" title="wikilink">Sony ILCE-7M2</a></p></td>
+<td><p><a href="../Page/Sony_α7_II.md" title="wikilink">Sony ILCE-7M2</a></p></td>
 <td><p>24MP</p></td>
 <td></td>
 <td><p>3英寸 123万像素 可向上約107度，向下約41度翻轉</p></td>
@@ -140,7 +140,7 @@ AF兼容卡口的单反和](https://zh.wikipedia.org/wiki/Minolta_AF "wikilink")
 <td><p><a href="../Page/MI热靴.md" title="wikilink">MI热靴</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Sony_ILCE-7RM2" title="wikilink">Sony ILCE-7RM2</a></p></td>
+<td><p><a href="../Page/Sony_α7R_II.md" title="wikilink">Sony ILCE-7RM2</a></p></td>
 <td><p>42MP</p></td>
 <td></td>
 <td><p>3英寸 123万像素 可向上約107度，向下約41度翻轉</p></td>
@@ -149,7 +149,7 @@ AF兼容卡口的单反和](https://zh.wikipedia.org/wiki/Minolta_AF "wikilink")
 <td><p><a href="../Page/MI热靴.md" title="wikilink">MI热靴</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Sony_ILCE-7SM2" title="wikilink">Sony ILCE-7SM2</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/索尼_α7SII" title="wikilink">Sony ILCE-7SM2</a></p></td>
 <td><p>12MP</p></td>
 <td></td>
 <td><p>3英寸 123万像素 可向上約107度，向下約41度翻轉</p></td>
@@ -158,7 +158,7 @@ AF兼容卡口的单反和](https://zh.wikipedia.org/wiki/Minolta_AF "wikilink")
 <td><p><a href="../Page/MI热靴.md" title="wikilink">MI热靴</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Sony_ILCE-7M3" title="wikilink">Sony ILCE-7M3</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/索尼_α7III" title="wikilink">Sony ILCE-7M3</a></p></td>
 <td><p>24MP</p></td>
 <td></td>
 <td><p>3英寸 92万像素 可向上約107度，向下約41度翻轉（可觸控）</p></td>
@@ -167,7 +167,7 @@ AF兼容卡口的单反和](https://zh.wikipedia.org/wiki/Minolta_AF "wikilink")
 <td><p><a href="../Page/MI热靴.md" title="wikilink">MI热靴</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Sony_ILCE-7RM3" title="wikilink">Sony ILCE-7RM3</a></p></td>
+<td><p><a href="../Page/索尼_α7RIII.md" title="wikilink">Sony ILCE-7RM3</a></p></td>
 <td><p>42MP</p></td>
 <td></td>
 <td><p>3英寸 144万像素 可向上約107度，向下約41度翻轉（可觸控）</p></td>
@@ -176,7 +176,7 @@ AF兼容卡口的单反和](https://zh.wikipedia.org/wiki/Minolta_AF "wikilink")
 <td><p><a href="../Page/MI热靴.md" title="wikilink">MI热靴</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Sony_ILCE-9" title="wikilink">Sony ILCE-9</a></p></td>
+<td><p><a href="../Page/索尼_α9.md" title="wikilink">Sony ILCE-9</a></p></td>
 <td><p>24MP</p></td>
 <td></td>
 <td><p>3英寸 144万像素 可向上約107度，向下約41度翻轉（可觸控）</p></td>

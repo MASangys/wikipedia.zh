@@ -38,7 +38,7 @@ libavcodec包含如下的編解碼：\[1\]
   - Mimic（僅解碼功能）
   - [MJPEG](https://zh.wikipedia.org/wiki/MJPEG "wikilink")
   - [MPEG-1](../Page/MPEG-1.md "wikilink")
-  - [MPEG-2](../Page/MPEG-2.md "wikilink")/[H.262](https://zh.wikipedia.org/wiki/H.262 "wikilink")
+  - [MPEG-2](../Page/MPEG-2.md "wikilink")/[H.262](../Page/H.262.md "wikilink")
   - [MPEG-4 Part
     2](https://zh.wikipedia.org/wiki/MPEG-4_Part_2 "wikilink")（格式多用於[DivX與](../Page/DivX.md "wikilink")[Xvid](../Page/Xvid.md "wikilink")）
 

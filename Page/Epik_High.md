@@ -1,6 +1,6 @@
 **Epik
 High**（）是由兩名[饒舌](../Page/饒舌.md "wikilink")[歌手和一名](../Page/歌手.md "wikilink")[唱片騎師组成的韓國](https://zh.wikipedia.org/wiki/唱片騎師 "wikilink")[嘻哈團體](../Page/嘻哈.md "wikilink")，於2003年出道。團體的名字Epik
-high意為沉醉在詩里的狀態，或者是具有敘事詩似的偉大的意味的意思，粉絲名為High
+high意為沉醉在詩里的狀態，或者是具有史詩似偉大的意思，粉絲名為High
 Skool。像他們的名字一樣，說唱的歌詞很重視詩式的表現技法，抒情性及文學性，而其CD封面擁有的設計感，MV創作意境也極擄獲人心。Epik
 High的代表作品包括《Fan》、《Fly》、《One》、《Run》、《Love Love Love》、《一分一秒》、《Don't Hate
 Me》、《Happen ending》。至今共發行八張專輯。2003-2010年所屬公司是[Woollim

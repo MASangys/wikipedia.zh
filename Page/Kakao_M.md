@@ -211,7 +211,7 @@ Playground for Music and You” 。\[12\]\[13\]
 
   - [VICTON](../Page/VICTON.md "wikilink")
 
-  - [林智敏](https://zh.wikipedia.org/wiki/林智敏 "wikilink")
+  - [林智敏](../Page/林智敏.md "wikilink")
 
 ### 演員
 
@@ -224,7 +224,7 @@ Playground for Music and You” 。\[12\]\[13\]
 
   - [PlayM
     BOYS](https://zh.wikipedia.org/wiki/PlayM_BOYS "wikilink")（前稱[FAVEBOYS](https://zh.wikipedia.org/wiki/FAVEBOYS "wikilink")、[STARHILLBOYS](https://zh.wikipedia.org/wiki/STARHILLBOYS "wikilink")）\[14\]\[15\]\[16\]
-      - [林智敏](https://zh.wikipedia.org/wiki/林智敏 "wikilink")（01年5月22日，[THE
+      - [林智敏](../Page/林智敏.md "wikilink")（01年5月22日，[THE
         FAN第](../Page/THE_FAN.md "wikilink")3名，[THE FAN
         TOP5](https://zh.wikipedia.org/wiki/THE_FAN_TOP5 "wikilink")）
       - [全暏炎](https://zh.wikipedia.org/wiki/全暏炎 "wikilink")（02年2月21日，[Under

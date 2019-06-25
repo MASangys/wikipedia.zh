@@ -1,3 +1,20 @@
+Hi
+
+|モデル名 = RION |ふりがな = りおん |画像ファイル = |画像コメント = |別名 = 安齋 らら、宇都宮 しをん |愛称 =
+神之乳 |生年 = 1994 |生月 = 3 |生日 = 1 |出身地 =
+[京都府](https://zh.wikipedia.org/wiki/京都府 "wikilink") |血液型 = |時点 =
+[2013年](https://zh.wikipedia.org/wiki/2013 "wikilink") |身長 = 161 |体重 =
+47 |バスト = 105 |ウエスト = 58 |ヒップ = 89 |カップ = J |股下 = |靴 = |身体備考 = 神之乳 |ジャンル
+= [AV](https://zh.wikipedia.org/wiki/AV "wikilink") |AV出演期間 = 2013年 -
+|0/1本番 = 1 |0/1ごっくん = 1 |0/1ぶっかけ = 1 |0/1中出し = 0 |0/1レズ = 0 |0/1露出 = 1
+|0/1SM・緊縛 = 1 |0/1アナル = 0 |0/1剃毛 = 1 |0/1排便・浣腸 = 0 |0/1スカトロ = 0
+|0/1ストリップ = 0 |0/1無修正 = 0 |専属契約 = [<File:Maza>
+sirdute.png](https://zh.wikipedia.org/wiki/File:Maza_sirdute.png "fig:File:Maza sirdute.png")
+[S1](https://zh.wikipedia.org/wiki/エスワン "wikilink")
+（2013年9月 - 2014年9月）
+（2015年9月 - 2018年9月） |活動備考 = |他の活動 =[模特兒](../Page/模特兒.md "wikilink") |その他
+= }}
+
 **RION**（前藝名：**宇都宮紫苑**，英文：**Shion Utsunomiya**
 ，），出生於[京都府](https://zh.wikipedia.org/wiki/京都府 "wikilink")，[日本](../Page/日本.md "wikilink")[AV女優](../Page/AV女優.md "wikilink")。現為[S1旗下女優](../Page/S1_\(AV片商\).md "wikilink")，所屬於[T-POWERS事務所](../Page/T-POWERS.md "wikilink")。
 

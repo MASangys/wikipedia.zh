@@ -1,7 +1,7 @@
 **Mark 41垂直發射系統**（，簡稱「Mk 41
 VLS」）為美國現役艦艇所使用的垂直發射系統。它能夠搭載多種不同類型的飛彈，包括進化型海麻雀（RIM-162
 Evolved Sea Sparrow
-Missile，ESSM）短程對空防禦飛彈、[標準二型中程防空飛彈](../Page/RIM-66飛彈.md "wikilink")、[RIM-161標準三型防空飛彈](../Page/RIM-161標準三型飛彈.md "wikilink")、[阿斯洛克反潛飛彈](https://zh.wikipedia.org/wiki/阿斯洛克反潛飛彈 "wikilink")、以及[戰斧巡弋飛彈](https://zh.wikipedia.org/wiki/戰斧巡弋飛彈 "wikilink")，且提供快速發射的功能應對多樣化目標\[1\]。
+Missile，ESSM）短程對空防禦飛彈、[標準二型中程防空飛彈](../Page/RIM-66飛彈.md "wikilink")、[RIM-161標準三型防空飛彈](../Page/RIM-161標準三型飛彈.md "wikilink")、[RIM-174標準六型防空飛彈](https://zh.wikipedia.org/wiki/RIM-174標準飛彈 "wikilink")、[阿斯洛克反潛飛彈](https://zh.wikipedia.org/wiki/阿斯洛克反潛飛彈 "wikilink")、以及[戰斧巡弋飛彈](https://zh.wikipedia.org/wiki/戰斧巡弋飛彈 "wikilink")，且提供快速發射的功能應對多樣化目標\[1\]。
 
 垂直發射系統也是1960年代起開發[神盾戰鬥系統時的配套產物](../Page/神盾戰鬥系統.md "wikilink")\[2\]
 ，發射系統在1976年通過測試量產\[3\]

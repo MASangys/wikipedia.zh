@@ -89,7 +89,7 @@ BMG）\[17\]\[18\] |caliber= 12.7毫米（.50英吋）\[19\]\[20\]\[21\] |barrel
 
   - [長行程活塞氣動式](https://zh.wikipedia.org/wiki/氣動式_\(槍械\)#長行程活塞傳動 "wikilink")
   - [轉拴式槍栓](../Page/轉拴式槍栓.md "wikilink")
-  - [開放式槍栓](https://zh.wikipedia.org/wiki/開放式槍栓 "wikilink")
+  - [開放式槍栓](../Page/開放式槍栓.md "wikilink")
   - [恆定後坐](https://zh.wikipedia.org/wiki/恆定後坐 "wikilink")
 
 </div>

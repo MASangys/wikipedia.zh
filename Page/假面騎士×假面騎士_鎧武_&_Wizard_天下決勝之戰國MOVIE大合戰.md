@@ -809,7 +809,7 @@ Fourze鎧甲</p></td>
 
   - 原作 - [石之森章太郎](../Page/石之森章太郎.md "wikilink")
   - 導演 -
-  - 劇本 - （Wizard）、毛利亘宏（鎧武、戰國MOVIE大合戰）
+  - 劇本 - [香村純子](../Page/香村純子.md "wikilink")（Wizard）、毛利亘宏（鎧武、戰國MOVIE大合戰）
   - 配樂 -
     [山下康介](../Page/山下康介.md "wikilink")、[中川幸太郎](../Page/中川幸太郎.md "wikilink")
   - 動作指導 -

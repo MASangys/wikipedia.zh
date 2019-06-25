@@ -139,7 +139,7 @@
 
 **第8集**
 
-  - 高瀬美和子：[井上和香](https://zh.wikipedia.org/wiki/井上和香 "wikilink")
+  - 高瀬美和子：[井上和香](../Page/井上和香.md "wikilink")
   - 川上莉子：[小林涼子](https://zh.wikipedia.org/wiki/小林涼子 "wikilink")
 
 **第9集**

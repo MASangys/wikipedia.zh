@@ -427,9 +427,19 @@
 | 2006年                                                             | [大地之子](../Page/大地之子_\(2006年電視劇\).md "wikilink")       | 安苡葳 飾演 陳榮子                           | [大愛電視](../Page/大愛電視.md "wikilink")                    |
 | 2009年                                                             | [一定愛幸福](../Page/一定愛幸福.md "wikilink")                  | 安苡葳 飾演 洪美玲                           | [廈門衛視](https://zh.wikipedia.org/wiki/廈門衛視 "wikilink") |
 
+### 電視
+
+  - 《[最好聽的歌](../Page/最好聽的歌.md "wikilink")》
+  - 《[舞力全開](https://zh.wikipedia.org/wiki/舞力全開 "wikilink")》獲得 舞蹈比賽
+    第[八季](https://zh.wikipedia.org/wiki/八 "wikilink") (第三屆第一季)
+    第二名([亞軍](https://zh.wikipedia.org/wiki/亞軍 "wikilink"))
+  - 《[綜藝大熱門](../Page/綜藝大熱門.md "wikilink")》
+  - 《[食尚玩家－歡樂有夠讚](https://zh.wikipedia.org/wiki/食尚玩家－歡樂有夠讚 "wikilink")》
+  - 《[我愛冰冰show](https://zh.wikipedia.org/wiki/我愛冰冰show "wikilink")》
+
 ### 電影
 
-《[超級公民](https://zh.wikipedia.org/wiki/超級公民 "wikilink")》
+  - 《[超級公民](https://zh.wikipedia.org/wiki/超級公民 "wikilink")》
 
 ## 参考资料
 

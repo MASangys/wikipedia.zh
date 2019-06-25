@@ -357,7 +357,7 @@ A**》。讀音相同）是[NHK綜合頻道](../Page/NHK綜合頻道.md "wikilin
   - [くまきりあさ美](https://zh.wikipedia.org/wiki/くまきりあさ美 "wikilink")
   - [ほしのあき](https://zh.wikipedia.org/wiki/ほしのあき "wikilink")
   - [愛実](https://zh.wikipedia.org/wiki/畦地愛実 "wikilink")
-  - [井上和香](https://zh.wikipedia.org/wiki/井上和香 "wikilink")
+  - [井上和香](../Page/井上和香.md "wikilink")
   - [道端アンジェリカ](https://zh.wikipedia.org/wiki/道端アンジェリカ "wikilink")
   - [辻希美](../Page/辻希美.md "wikilink")
   - [甲斐まり恵](https://zh.wikipedia.org/wiki/甲斐まり恵 "wikilink")
@@ -371,7 +371,7 @@ A**》。讀音相同）是[NHK綜合頻道](../Page/NHK綜合頻道.md "wikilin
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - [近藤春菜](https://zh.wikipedia.org/wiki/近藤春菜 "wikilink")（[ハリセンボン](https://zh.wikipedia.org/wiki/ハリセンボン_\(お笑いコンビ\) "wikilink")）
+  - [近藤春菜](../Page/近藤春菜.md "wikilink")（[ハリセンボン](https://zh.wikipedia.org/wiki/ハリセンボン_\(お笑いコンビ\) "wikilink")）
   - [箕輪はるか](https://zh.wikipedia.org/wiki/箕輪はるか "wikilink")（ハリセンボン）
   - [中山恵](https://zh.wikipedia.org/wiki/中山恵 "wikilink")
   - [小池里奈](../Page/小池里奈.md "wikilink")

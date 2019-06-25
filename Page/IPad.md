@@ -2,9 +2,9 @@
 
 
 **iPad**
-()，是一個由[蘋果公司設計銷售的](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[平板電腦產品系列](../Page/平板電腦.md "wikilink")，搭載蘋果的[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。iPad的[使用者介面是以](https://zh.wikipedia.org/wiki/使用者介面 "wikilink")[多點觸控螢幕為主來進行設計](../Page/多點觸控.md "wikilink")，也包括[虛擬鍵盤](../Page/虛擬鍵盤.md "wikilink")。每一款iPad皆有內建[Wi-Fi](../Page/Wi-Fi.md "wikilink")，某些機型也同時支援[行動網路](../Page/蜂窝网络.md "wikilink")。第一款iPad在2010年4月3日推出，2012年推出[iPad
+()，是一個由[蘋果公司設計銷售的](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[平板電腦產品系列](../Page/平板電腦.md "wikilink")，搭載蘋果的[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")（2010-2019年）或[iPadOS](https://zh.wikipedia.org/wiki/iPadOS "wikilink")（2019年起）[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。iPad的[使用者介面是以](https://zh.wikipedia.org/wiki/使用者介面 "wikilink")[多點觸控螢幕為主來進行設計](../Page/多點觸控.md "wikilink")，也包括[虛擬鍵盤](../Page/虛擬鍵盤.md "wikilink")。每一款iPad皆有內建[Wi-Fi](../Page/Wi-Fi.md "wikilink")，某些機型也同時支援[行動網路](../Page/蜂窝网络.md "wikilink")。第一款iPad在2010年4月3日推出，2012年推出[iPad
 mini系列](https://zh.wikipedia.org/wiki/iPad_mini "wikilink")。自2010年發售以來，iPad已售出超過2.2億台（統計至2014年10月為止）\[1\]，佔全球平板电脑市场81%\[2\]。最近期iPad機型是在2019
-年3 月18日發佈的iPad mini5與iPad Air3。
+年3月18日發佈的iPad mini5與iPad Air3。
 
 iPad的基本功能包括[錄影](../Page/攝影機.md "wikilink")、[拍照](../Page/照相手機.md "wikilink")、[播放音樂](../Page/可攜式媒體播放器.md "wikilink")，以及瀏覽網頁和電子郵件等網際網路相關功能。在下載並安裝[應用程式](https://zh.wikipedia.org/wiki/应用软件 "wikilink")（app）後可為iPad加入其他功能，包括執行[遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")、查閱[工具书](https://zh.wikipedia.org/wiki/工具书 "wikilink")、[GPS導航](https://zh.wikipedia.org/wiki/全球定位系統 "wikilink")（仅Wi-Fi＋Cellular版）、使用[社交網路等](../Page/社交網路服務.md "wikilink")。截至2013年10月止，在App
 Store上有超過475,000個由蘋果和其他公司為iPad設計的應用程式\[3\]，而非「被強行拉大的智慧型手機應用程式」\[4\]。
@@ -109,22 +109,22 @@ iPad使用了內建的[可充電式](../Page/蓄電池.md "wikilink")[鋰離子�
 <td><p>iPad</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/iPad_(第一代)" title="wikilink">iPad</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/iPad_(第一代)" title="wikilink">iPad</a> (第一代)</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/iPad_2" title="wikilink">iPad 2</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/iPad_2" title="wikilink">iPad 2 (第二代</a>)</strong></p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/iPad_(第三代)" title="wikilink">iPad (第三代)</a></strong></p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/iPad_mini_(第一代)" title="wikilink">iPad mini</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/iPad_mini_(第一代)" title="wikilink">iPad mini</a> (第一代)</strong></p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/iPad_(第四代)" title="wikilink">iPad (第四代)</a></strong></p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/iPad_Air" title="wikilink">iPad Air</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/iPad_Air" title="wikilink">iPad Air</a> (第一代)</strong></p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/iPad_mini_2" title="wikilink">iPad mini 2 (Retina display)</a></strong></p></td>
@@ -154,7 +154,7 @@ iPad使用了內建的[可充電式](../Page/蓄電池.md "wikilink")[鋰離子�
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/iPad_Pro" title="wikilink">iPad Pro (2nd, 10.5'')</a></strong></p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/iPad_(2018)" title="wikilink">iPad (2018)</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/iPad_(2018)" title="wikilink">iPad (第六代)</a></strong></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>iPad Pro (3rd, 11")</strong></p></td>

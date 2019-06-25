@@ -44,7 +44,7 @@ function desc( frame, name, short )
 `                   end`
 `                   tinfo = '使用模板' .. mw.text.listToText( tusage, '、', '或' ) .. '。'`
 `               end`
-`               snippet = '; `` ' .. item[1] .. '. ' .. item[3] .. '\n' .. para .. '\n* ' .. tinfo`
+`               snippet = '; `` ' .. item[1] .. '. ' .. item[3]:gsub( '%!%(.-%)%!', function( m ) return m:sub( 3, -3 ) end ) .. '\n' .. para .. '\n* ' .. tinfo`
 `               table.insert( wt, snippet )`
 `           end`
 `       end`
@@ -84,7 +84,8 @@ function z.reasons( frame )
 
 <td title="' .. extractShortDesc( item ) .. '">
 
-' .. item\[3\] .. '
+' .. item\[3\]:gsub( '%\!%(.-%)%\!', function( m ) return m:sub( 3, -3 )
+end ) .. '
 
 </td>
 
@@ -169,14 +170,14 @@ function z.input( frame )
 `                   ( args.cat or args.cate or args.category or '' )`
 `           else`
 `               if frame.args.deletelink then`
-`                   table.insert( deletelinks, '[[WP:CSD#'_.._item[1]_.._'|' .. item[1] .. ']]: ' .. item[3] .. deletesuffix )`
+`                   table.insert( deletelinks, '[[WP:CSD#'_.._item[1]_.._'|' .. item[1] .. ']]: ' .. item[3]:gsub( '%!%(.-%)%!', '') .. deletesuffix )`
 `               end`
 `               rowsuffix = args.cat or args.cate or args.category or ( '[[Category:快速删除候选|' .. ( item[7] or '速' ) .. ']]' )`
 `           end`
 `           if deletesuffix then`
-`            row = '* `<strong><span id="speedy-delete-' .. item[1] .. '" title="' .. extractShortDesc( item ) .. '">`' .. item[3] .. '（[[WP:CSD#'_.._item[1]_.._'|CSD ' .. item[1] .. ']]' .. deletesuffix .. '）' ..  rowsuffix .. rowsuffix2 .. '`</span></strong>`'`
+`            row = '* `<strong><span id="speedy-delete-' .. item[1] .. '" title="' .. extractShortDesc( item ) .. '">`' .. item[3]:gsub( '%!%(.-%)%!', function( m ) return m:sub( 3, -3 ) end ) .. '（[[WP:CSD#'_.._item[1]_.._'|CSD ' .. item[1] .. ']]' .. deletesuffix .. '）' ..  rowsuffix .. rowsuffix2 .. '`</span></strong>`'`
 `           else`
-`            row = '* `<strong><span id="speedy-delete-' .. item[1] .. '" title="' .. extractShortDesc( item ) .. '">`' .. item[3] .. '（[[WP:CSD#'_.._item[1]_.._'|CSD ' .. item[1] .. ']]）' .. rowsuffix .. rowsuffix2 .. '`</span></strong>`'`
+`            row = '* `<strong><span id="speedy-delete-' .. item[1] .. '" title="' .. extractShortDesc( item ) .. '">`' .. item[3]:gsub( '%!%(.-%)%!', function( m ) return m:sub( 3, -3 ) end ) .. '（[[WP:CSD#'_.._item[1]_.._'|CSD ' .. item[1] .. ']]）' .. rowsuffix .. rowsuffix2 .. '`</span></strong>`'`
 `           end`
 `           table.insert( rows, row )`
 `       elseif arg and mw.text.trim( arg ) ~= '' then`

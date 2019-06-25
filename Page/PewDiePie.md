@@ -26,76 +26,76 @@ Spotlight超越\[33\]。在同一個月，PewDiePie表示，他不喜歡YouTube�
 
 ### PewDiePie vs T-Series
 
-2018年9月，[T-Series因著印度的網路開始普及](../Page/T-Series.md "wikilink")，而以極快的速度成長，在10月與PewDiePie只是相差了1百萬的訂閱。在年底已幾乎追上排行第一的他，為避免被超越，部分頻道和粉絲們開始積極吸引更多觀眾訂閱，其中賈斯汀·羅伯茨（Justin
+2018年9月，随着印度的網路開始普及，[T-Series以極快的速度成長](../Page/T-Series.md "wikilink")，在10月與PewDiePie相差了1百萬的訂閱。在年底已幾乎追上排行第一的他，為避免被超越，部分頻道和粉絲們開始積極吸引更多觀眾訂閱，其中賈斯汀·羅伯茨（Justin
 Roberts）甚至在紐約[時代廣場的螢幕刊登廣告](https://zh.wikipedia.org/wiki/時代廣場 "wikilink")\[38\]，而PewDiePie本人則發佈了單曲《婊子千層麵》（*Bitch
 Lasagna*）以作回應\[39\]，但他本人指自己其實並不在意T-Series\[40\]。在此期間，PewDiePie的頻道獲得大量訂閱數，其中單在12月便有662萬，與2017年的總獲得訂閱數700萬相差不遠\[41\]。
 
 2019年3月15日，[基督城清真寺槍擊案的行兇者布倫頓](../Page/基督城清真寺槍擊案.md "wikilink")·哈里森·塔蘭特（Brenton
 Harrison
-Tarrant）在攻擊前說過「訂閱PewDiePie」。作為回應，PewDiePie在Twitter上寫道：「剛得知新西蘭基督城的可怕消息，這人說出我的名字，令我感到極度嘔心。我的心與受害人、家屬及所有受影響人士同在」\[42\]。同年3月27日，T-Series成功維持約十萬的訂閱數差距達一天，正式成為YouTube擁有最多訂閱者的頻道\[43\]。四天後，PewDiePie與Roomie和合作推出單曲《恭喜》（*Congratulations*），內裡提到該公司曾給予他一封[停終信函和其首席執行官的逃稅醜聞](https://zh.wikipedia.org/wiki/停止並終止 "wikilink")\[44\]。憑藉這首歌曲，PewDiePie在4月1日重奪第一名的位置\[45\]\[46\]，但13天後已再度易手。
+Tarrant）在攻擊前說過「訂閱PewDiePie」。作為回應，PewDiePie在Twitter上寫道：「剛得知新西蘭基督城的可怕消息，這人說出我的名字，令我感到極度嘔心。我的心與受害人、家屬及所有受影響人士同在」\[42\]。同年3月27日，T-Series成功維持約十萬的訂閱數差距達一天，正式成為YouTube擁有最多訂閱者的頻道\[43\]\[44\]\[45\]。四天後，PewDiePie與Roomie和合作推出單曲《恭喜》（*Congratulations*），內裡提到該公司曾給予他一封[停終信函和其首席執行官的逃稅醜聞](https://zh.wikipedia.org/wiki/停止並終止 "wikilink")\[46\]。憑藉這首歌曲，PewDiePie在4月1日重奪第一名的位置\[47\]\[48\]，但13天後已再度易手。
 
-2019年4月28日，PewDiePie在YouTube發布了影片，希望為「訂閱PewDiePie」這個活動劃下句點，他稱一切的開端源自於大家做些蠻正向和有趣的事情，好讓「訂閱PewDiePie」獲得社會注目，但從某人在第二次世界大戰的紀念碑上塗鴉，寫著「訂閱PewDiePie」，到基督城槍擊的兇手在影片中提及「訂閱PewDiePie」後，PewDiePie開始覺得慚愧，並對此表示不希望憎恨戰勝一切，同時向所有受害人表達最誠摯的哀悼之意\[47\]。
+2019年4月28日，PewDiePie在YouTube發布了影片，希望為「訂閱PewDiePie」這個活動劃下句點，他稱一切的開端源自於大家做些蠻正向和有趣的事情，好讓「訂閱PewDiePie」獲得社會注目，但從某人在第二次世界大戰的紀念碑上塗鴉，寫著「訂閱PewDiePie」，到基督城槍擊的兇手在影片中提及「訂閱PewDiePie」後，PewDiePie開始覺得慚愧，並對此表示不希望憎恨戰勝一切，同時向所有受害人表達最誠摯的哀悼之意\[49\]。
 
 ## 頻道特色
 
 PewDiePie的頻道重點在於他對各種事務的評論及反應。他最熱門的影片是恐怖遊戲及動作遊戲系列影片。不像傳統的遊戲實況，他的「Let's
-Play」影片宗旨在於與觀眾保持良好的互動\[48\]。他的頻道同時相當支持獨立遊戲開發商\[49\]
-，遊戲在經過PewDiePie體驗之後，銷售量往往會大幅提昇\[50\]\[51\]。PewDiePie從2011年9月2日開始每週都會發佈[VLOG影片](https://zh.wikipedia.org/wiki/VLOG "wikilink")，名叫PewDiePie的星期五時間（Fridays
-With PewDiePie）\[52\]。
+Play」影片宗旨在於與觀眾保持良好的互動\[50\]。他的頻道同時相當支持獨立遊戲開發商\[51\]
+，遊戲在經過PewDiePie體驗之後，銷售量往往會大幅提昇\[52\]\[53\]。PewDiePie從2011年9月2日開始每週都會發佈[VLOG影片](https://zh.wikipedia.org/wiki/VLOG "wikilink")，名叫PewDiePie的星期五時間（Fridays
+With PewDiePie）\[54\]。
 
 ## 公眾形象
 
 [PewDiePie_fanart.jpg](https://zh.wikipedia.org/wiki/File:PewDiePie_fanart.jpg "fig:PewDiePie_fanart.jpg")，為一《[快樂輪子](../Page/快樂輪子.md "wikilink")》的角色\]\]
 PewDiePie總是叫他的粉絲團為The Bro
-Army，並稱粉絲為Bros\[53\]。在每部影片結束時，PewDiePie都會給「Bros」一個兄弟拳（Brofist）。在社群之星獎頒獎典禮時，儘管保安人員出言勸阻，PewDiePie仍親自去迎接他的每位粉絲\[54\]。他的行事作風低調，酷愛寧靜，不喜歡在街上被人認出\[55\]。
+Army，並稱粉絲為Bros\[55\]。在每部影片結束時，PewDiePie都會給「Bros」一個兄弟拳（Brofist）。在社群之星獎頒獎典禮時，儘管保安人員出言勸阻，PewDiePie仍親自去迎接他的每位粉絲\[56\]。他的行事作風低調，酷愛寧靜，不喜歡在街上被人認出\[57\]。
 
-他的頻道也強烈呼籲年輕觀眾（[Z世代](https://zh.wikipedia.org/wiki/Z世代 "wikilink")），要學一學[Google的宗旨](../Page/Google.md "wikilink")「創作，策展，連接社區」\[56\]。有些文章證明，95%的觀眾觀看PewDiePie的遊戲線上影片時，會對互聯網有進一步的見解\[57\]\[58\]。
+他的頻道也強烈呼籲年輕觀眾（[Z世代](https://zh.wikipedia.org/wiki/Z世代 "wikilink")），要學一學[Google的宗旨](../Page/Google.md "wikilink")「創作，策展，連接社區」\[58\]。有些文章證明，95%的觀眾觀看PewDiePie的遊戲線上影片時，會對互聯網有進一步的見解\[59\]\[60\]。
 
 ### 慈善舉動
 
-PewDiePie參與了[世界自然基金會和](https://zh.wikipedia.org/wiki/世界自然基金會 "wikilink")的的慈善工作\[59\]\[60\]\[61\]
+PewDiePie參與了[世界自然基金會和](https://zh.wikipedia.org/wiki/世界自然基金會 "wikilink")的的慈善工作\[61\]\[62\]\[63\]
 。PewDiePie也舉辦了「Water
-Campaign」慈善行動，在那裡他的粉絲可以捐錢，以紀念和慶祝頻道達到1000萬個訂閱數。PewDiePie雖然預定籌款金額為[US$](../Page/美元.md "wikilink")250,000，但最終卻籌得達$446,462\[62\]\[63\]\[64\]。
+Campaign」慈善行動，在那裡他的粉絲可以捐錢，以紀念和慶祝頻道達到1000萬個訂閱數。PewDiePie雖然預定籌款金額為[US$](../Page/美元.md "wikilink")250,000，但最終卻籌得達$446,462\[64\]\[65\]\[66\]。
 
-在2014年6月，​​PewDiePie宣布舉行第四個慈善活動，為拯救兒童組織籌集63萬美元\[65\]，​​結合PewDiePie和他的粉絲群的捐款，籌集的總金額達到100多萬\[66\]。
+在2014年6月，​​PewDiePie宣布舉行第四個慈善活動，為拯救兒童組織籌集63萬美元\[67\]，​​結合PewDiePie和他的粉絲群的捐款，籌集的總金額達到100多萬\[68\]。
 
 ### 批評
 
 《[綜藝雜誌](../Page/綜藝_\(雜誌\).md "wikilink")》的專欄作家安德魯·華倫斯坦（Andrew
-Wallenstein）批評PewDiePie的影片是「侵略性的愚蠢」和「心理上的胡說八道」\[67\]。
+Wallenstein）批評PewDiePie的影片是「侵略性的愚蠢」和「心理上的胡說八道」\[69\]。
 
-另外，有許多人對於PewDiePie只是在YouTube拍影片就能賺錢感到不滿，對此PewDiePie也於一部影片中回應。他在影片中說「感覺看起來全世界都比我自己在乎我賺了多少錢……還有我們確實籌集了100萬美金捐給慈善機構，然而很少文章提及這件事，每個網站都在說我到底賺了多少錢。我只想謝謝那些看我的影片，享受這些影片，還有支持我所做的一切的人。這真的對我很重要，而我只是很開心做這件事。我會一直做下去。」\[68\]
+另外，有許多人對於PewDiePie只是在YouTube拍影片就能賺錢感到不滿，對此PewDiePie也於一部影片中回應。他在影片中說「感覺看起來全世界都比我自己在乎我賺了多少錢……還有我們確實籌集了100萬美金捐給慈善機構，然而很少文章提及這件事，每個網站都在說我到底賺了多少錢。我只想謝謝那些看我的影片，享受這些影片，還有支持我所做的一切的人。這真的對我很重要，而我只是很開心做這件事。我會一直做下去。」\[70\]
 
 #### 種族歧視爭議
 
 2017年1月11日，PewDiePie上傳了一段影片，評論[自由工作者中介網站](https://zh.wikipedia.org/wiki/自由工作者 "wikilink")[Fiverr所提供的服務](../Page/Fiverr.md "wikilink")。Fiverr上的自由工作者會列明他們的服務範圍，客戶則透過向他們支付5美元來下訂各種服務；該段影片當中，PewDiePie向印度籍Fiverr用戶「Funny
 Guys」下訂，要求他們高舉寫着「[猶太人都去死](https://zh.wikipedia.org/wiki/猶太人 "wikilink")」（Death
 To All
-Jews）的紙牌手舞足蹈，拍攝一段影片\[69\]\[70\]；他表示其原意為向Fiverr上的自由工作者提出過分、離譜的要求，以嘲諷該網站提供的服務荒謬可笑、言過其實，未料到對方會照單全收\[71\]。他在同段影片末段中道歉，表明自己只是在開玩笑而絕不贊同[反猶太主義](https://zh.wikipedia.org/wiki/反猶太主義 "wikilink")\[72\]。這段影片引起不少非議，更招致部分[極右派](../Page/極右派.md "wikilink")、[新納粹主義者及](../Page/新納粹主義.md "wikilink")[白人至上主义者附會](https://zh.wikipedia.org/wiki/白人至上主义 "wikilink")、稱讚。2月12日，Pewdiepie在[Tumblr上發文](https://zh.wikipedia.org/wiki/Tumblr "wikilink")，再三重申自己不支持任何形式的仇恨言論，指其影片僅為娛樂而不帶任何政治立場，亦無意冒犯他人，但為當中的冒犯性笑話感到抱歉\[73\]。
+Jews）的紙牌手舞足蹈，拍攝一段影片\[71\]\[72\]；他表示其原意為向Fiverr上的自由工作者提出過分、離譜的要求，以嘲諷該網站提供的服務荒謬可笑、言過其實，未料到對方會照單全收\[73\]。他在同段影片末段中道歉，表明自己只是在開玩笑而絕不贊同[反猶太主義](https://zh.wikipedia.org/wiki/反猶太主義 "wikilink")\[74\]。這段影片引起不少非議，更招致部分[極右派](../Page/極右派.md "wikilink")、[新納粹主義者及](../Page/新納粹主義.md "wikilink")[白人至上主义者附會](https://zh.wikipedia.org/wiki/白人至上主义 "wikilink")、稱讚。2月12日，Pewdiepie在[Tumblr上發文](https://zh.wikipedia.org/wiki/Tumblr "wikilink")，再三重申自己不支持任何形式的仇恨言論，指其影片僅為娛樂而不帶任何政治立場，亦無意冒犯他人，但為當中的冒犯性笑話感到抱歉\[75\]。
 
-2月14日，《[華爾街日報](https://zh.wikipedia.org/wiki/華爾街日報 "wikilink")》報道上述事宜，並宣稱PewDiePie自2016年8月起，曾經拍攝過9段含有反猶太主義或[纳粹主义成份的影片](../Page/纳粹主义.md "wikilink")，並在報道中擷取了相關片段\[74\]，引發大量大眾媒體對PewDiePie涉嫌種族歧視的廣泛報道、批評。同時，[迪士尼公司旗下的Maker](https://zh.wikipedia.org/wiki/華特迪士尼公司 "wikilink")
+2月14日，《[華爾街日報](https://zh.wikipedia.org/wiki/華爾街日報 "wikilink")》報道上述事宜，並宣稱PewDiePie自2016年8月起，曾經拍攝過9段含有反猶太主義或[纳粹主义成份的影片](../Page/纳粹主义.md "wikilink")，並在報道中擷取了相關片段\[76\]，引發大量大眾媒體對PewDiePie涉嫌種族歧視的廣泛報道、批評。同時，[迪士尼公司旗下的Maker](https://zh.wikipedia.org/wiki/華特迪士尼公司 "wikilink")
 Studios因以上爭議而中斷其與PewDiePie的合作關係，關閉由Maker
 Studios持有、PewDiePie創辦的網絡頻道「Revelmode」；YouTube方面亦中斷其與PewDiePie的合作關係，並且取消即將於同年3月播映的[YouTube
 Red網絡節目](https://zh.wikipedia.org/wiki/YouTube_Red "wikilink")《Scare
-PewDiePie》第二季。2月16日，PewDiePie上傳影片，公開回應以上爭議。他指他明白笑話帶有冒犯成份並為此致歉，但他指摘大眾媒體對他的報道往往嘩眾取寵，在這次事件中更對他口誅筆伐，把他在影片中的諸多笑話抽離語境，斷章取義、捕風捉影，以求將他誣蔑成種族主義者；他又質疑《[華爾街日報](https://zh.wikipedia.org/wiki/華爾街日報 "wikilink")》在聯絡他本人了解原委之前，就直接向迪士尼及YouTube方面施壓，招致該兩家公司與他斷絕關係\[75\]。
+PewDiePie》第二季。2月16日，PewDiePie上傳影片，公開回應以上爭議。他指他明白笑話帶有冒犯成份並為此致歉，但他指摘大眾媒體對他的報道往往嘩眾取寵，在這次事件中更對他口誅筆伐，把他在影片中的諸多笑話抽離語境，斷章取義、捕風捉影，以求將他誣蔑成種族主義者；他又質疑《[華爾街日報](https://zh.wikipedia.org/wiki/華爾街日報 "wikilink")》在聯絡他本人了解原委之前，就直接向迪士尼及YouTube方面施壓，招致該兩家公司與他斷絕關係\[77\]。
 
-同年9月，PewDiePie直播遊玩《[絕地求生](../Page/絕地求生.md "wikilink")》時意外說出「[黑鬼](../Page/黑鬼.md "wikilink")」（Nigger）一詞\[76\]。為此，遊戲開發商的共同創辦人形容他「比潛伏的[種族主義者更不堪](https://zh.wikipedia.org/wiki/種族主義 "wikilink")」，宣稱將會對PewDiePie的《[看火人](../Page/看火人.md "wikilink")》遊玩影片作出[數位千禧年版權申訴](https://zh.wikipedia.org/wiki/數位千禧年著作權法 "wikilink")，並鼓勵其他遊戲開發者傚法\[77\]\[78\]。之後，PewDiePie上傳影片，為他在直播中使用的言詞道歉，並表示：「我不會為說出那個詞找藉口，因為這根本沒有藉口可言。我對自己感到失望，因為我就像從沒在過去的爭議中汲取教訓一樣，而使用那詞是不行的。如果我冒犯，傷害或辜負到所有這一切的人，我很抱歉。以我這種地位，我應當懂得改進。」\[79\]至於版權問題方面，PewDiePie認為瓦納曼作為開發者的確有權令他的影片遭下架，但這並不代表可以-{撤消}-其過去的影片，但他同時亦表示無意攻擊和與瓦納曼展開法律訴訟\[80\]。
+同年9月，PewDiePie直播遊玩《[絕地求生](../Page/絕地求生.md "wikilink")》時意外說出「[黑鬼](../Page/黑鬼.md "wikilink")」（Nigger）一詞\[78\]。為此，遊戲開發商的共同創辦人形容他「比潛伏的[種族主義者更不堪](https://zh.wikipedia.org/wiki/種族主義 "wikilink")」，宣稱將會對PewDiePie的《[看火人](../Page/看火人.md "wikilink")》遊玩影片作出[數位千禧年版權申訴](https://zh.wikipedia.org/wiki/數位千禧年著作權法 "wikilink")，並鼓勵其他遊戲開發者傚法\[79\]\[80\]。之後，PewDiePie上傳影片，為他在直播中使用的言詞道歉，並表示：「我不會為說出那個詞找藉口，因為這根本沒有藉口可言。我對自己感到失望，因為我就像從沒在過去的爭議中汲取教訓一樣，而使用那詞是不行的。如果我冒犯，傷害或辜負到所有這一切的人，我很抱歉。以我這種地位，我應當懂得改進。」\[81\]至於版權問題方面，PewDiePie認為瓦納曼作為開發者的確有權令他的影片遭下架，但這並不代表可以-{撤消}-其過去的影片，但他同時亦表示無意攻擊和與瓦納曼展開法律訴訟\[82\]。
 
 ## 個人生活
 
-PewDiePie一開始和家人住在瑞典\[81\]，之後與女朋友[瑪齊亞·比索琳先後分別在](https://zh.wikipedia.org/wiki/瑪齊亞·比索琳 "wikilink")[義大利及](https://zh.wikipedia.org/wiki/義大利 "wikilink")[瑞典同居](../Page/瑞典.md "wikilink")。2011年，比索琳的一位女性好友介紹她看PewDiePie的YouTube影片，後來比索琳寫信給PewDiePie，倆人因而結緣。她也是一名YouTuber，截至2018年5月19日，她的頻道（CutiePieMarzia）已經超越730萬人次訂閱\[82\]。2018年4月27日，比索琳在其[Instagram上公佈PewDiePie已在她們於](../Page/Instagram.md "wikilink")[日本](../Page/日本.md "wikilink")[神奈川縣](../Page/神奈川縣.md "wikilink")[橫濱市的旅行期間向她求婚](https://zh.wikipedia.org/wiki/橫濱市 "wikilink")\[83\]。
+PewDiePie一開始和家人住在瑞典\[83\]，之後與女朋友[瑪齊亞·比索琳先後分別在](https://zh.wikipedia.org/wiki/瑪齊亞·比索琳 "wikilink")[義大利及](https://zh.wikipedia.org/wiki/義大利 "wikilink")[瑞典同居](../Page/瑞典.md "wikilink")。2011年，比索琳的一位女性好友介紹她看PewDiePie的YouTube影片，後來比索琳寫信給PewDiePie，倆人因而結緣。她也是一名YouTuber，截至2018年5月19日，她的頻道（CutiePieMarzia）已經超越730萬人次訂閱\[84\]。2018年4月27日，比索琳在其[Instagram上公佈PewDiePie已在她們於](../Page/Instagram.md "wikilink")[日本](../Page/日本.md "wikilink")[神奈川縣](../Page/神奈川縣.md "wikilink")[橫濱市的旅行期間向她求婚](https://zh.wikipedia.org/wiki/橫濱市 "wikilink")\[85\]。
 
-2013年7月，他和瑪齊亞移居到[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[東薩塞克斯郡](../Page/東薩塞克斯郡.md "wikilink")[布萊頓](https://zh.wikipedia.org/wiki/布萊頓 "wikilink")，以獲得更好的網路品質\[84\]PewDiePie養了2隻[巴哥犬](../Page/巴哥犬.md "wikilink")，分別名叫埃德加（Edgar）和瑪雅（Maya）\[85\]。
+2013年7月，他和瑪齊亞移居到[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[東薩塞克斯郡](../Page/東薩塞克斯郡.md "wikilink")[布萊頓](https://zh.wikipedia.org/wiki/布萊頓 "wikilink")，以獲得更好的網路品質\[86\]PewDiePie養了2隻[巴哥犬](../Page/巴哥犬.md "wikilink")，分別名叫埃德加（Edgar）和瑪雅（Maya）\[87\]。
 
-在2014年6月，[華爾街日報報導PewDiePie一年平均收入](https://zh.wikipedia.org/wiki/華爾街日報 "wikilink")400萬美元\[86\]\[87\]。單是2013年Maker
-Studios就給了他超過80萬[英鎊分紅](https://zh.wikipedia.org/wiki/英鎊 "wikilink")，利潤率更達97%\[88\]。
+在2014年6月，[華爾街日報報導PewDiePie一年平均收入](https://zh.wikipedia.org/wiki/華爾街日報 "wikilink")400萬美元\[88\]\[89\]。單是2013年Maker
+Studios就給了他超過80萬[英鎊分紅](https://zh.wikipedia.org/wiki/英鎊 "wikilink")，利潤率更達97%\[90\]。
 
 ## 影響
 
-在遊戲《》中，外星人的其中一個器官被稱作Pewdsball\[89\]。《[恐懼之泣](https://zh.wikipedia.org/wiki/恐懼之泣 "wikilink")》中有一金色雕像，當玩家接近時玩家操縱的主角會說：「史提芬諾？這是什麼鬼東西？PewDiePie？」（Stephano?
-What the fuck PewDiePie\!）\[90\]。而在《像素戰爭3》中，其中一方則叫作PewDiePie\[91\]。
+在遊戲《》中，外星人的其中一個器官被稱作Pewdsball\[91\]。《[恐懼之泣](https://zh.wikipedia.org/wiki/恐懼之泣 "wikilink")》中有一金色雕像，當玩家接近時玩家操縱的主角會說：「史提芬諾？這是什麼鬼東西？PewDiePie？」（Stephano?
+What the fuck PewDiePie\!）\[92\]。而在《像素戰爭3》中，其中一方則叫作PewDiePie\[93\]。
 
-在[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")《[-{zh-cn:南方公园;zh-tw:南方四賤客;zh-hk:衰仔樂園;zh-mo:衰仔樂園;zh-sg:南方公园;zh-hant:南方公園}-](../Page/南方公園.md "wikilink")》中，曾出現PewDiePie在玩決勝時刻的實況畫面\[92\]。
+在[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")《[-{zh-cn:南方公园;zh-tw:南方四賤客;zh-hk:衰仔樂園;zh-mo:衰仔樂園;zh-sg:南方公园;zh-hant:南方公園}-](../Page/南方公園.md "wikilink")》中，曾出現PewDiePie在玩決勝時刻的實況畫面\[94\]。
 
 ## 獲獎記錄
 
@@ -118,12 +118,12 @@ What the fuck PewDiePie\!）\[90\]。而在《像素戰爭3》中，其中一方
 <td><p>最熱門的社群影片獎</p></td>
 <td></td>
 <td><p>PewDiePie</p></td>
-<td><p>[93][94]</p></td>
+<td><p>[95][96]</p></td>
 </tr>
 <tr class="even">
 <td><p>瑞典社群之星獎</p></td>
 <td></td>
-<td><p>[95]</p></td>
+<td><p>[97]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -133,7 +133,7 @@ What the fuck PewDiePie\!）\[90\]。而在《像素戰爭3》中，其中一方
 <td><p>遊戲</p></td>
 <td></td>
 <td><p>PewDiePie（與Monark並列）</p></td>
-<td><p>[96]</p></td>
+<td><p>[98]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -142,13 +142,13 @@ What the fuck PewDiePie\!）\[90\]。而在《像素戰爭3》中，其中一方
 <td><p>互聯網男明星選擇獎</p></td>
 <td></td>
 <td><p>PewDiePie</p></td>
-<td><p>[97]</p></td>
+<td><p>[99]</p></td>
 </tr>
 <tr class="odd">
 <td><p>第4屆</p></td>
 <td><p>最佳遊戲頻道，節目或系列</p></td>
 <td></td>
-<td><p>[98]</p></td>
+<td><p>[100]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -156,7 +156,7 @@ What the fuck PewDiePie\!）\[90\]。而在《像素戰爭3》中，其中一方
 <td><p><a href="../Page/金摇杆奖.md" title="wikilink">金摇杆奖</a></p></td>
 <td><p>遊戲名人</p></td>
 <td></td>
-<td><p>[99]</p></td>
+<td><p>[101]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -165,21 +165,21 @@ What the fuck PewDiePie\!）\[90\]。而在《像素戰爭3》中，其中一方
 <td><p><a href="https://zh.wikipedia.org/wiki/青少年票選獎" title="wikilink">2015青少年票選獎</a></p></td>
 <td><p>互聯網男明星選擇獎</p></td>
 <td></td>
-<td><p>[100]</p></td>
+<td><p>[102]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>第五屆</p></td>
 <td><p>最佳第一人稱頻道，節目或系列</p></td>
 <td></td>
-<td><p>[101]</p></td>
+<td><p>[103]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>最佳網路遊戲頻道，節目或系列</p></td>
 <td></td>
-<td><p>[102]</p></td>
+<td><p>[104]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -188,7 +188,7 @@ What the fuck PewDiePie\!）\[90\]。而在《像素戰爭3》中，其中一方
 <td><p><a href="../Page/金摇杆奖.md" title="wikilink">金摇杆奖</a></p></td>
 <td><p>遊戲名人</p></td>
 <td></td>
-<td><p>[103]</p></td>
+<td><p>[105]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -197,7 +197,7 @@ What the fuck PewDiePie\!）\[90\]。而在《像素戰爭3》中，其中一方
 <td><p>第8屆</p></td>
 <td><p>年度YouTuber</p></td>
 <td></td>
-<td><p>[104]</p></td>
+<td><p>[106]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -205,7 +205,7 @@ What the fuck PewDiePie\!）\[90\]。而在《像素戰爭3》中，其中一方
 <td><p><a href="https://zh.wikipedia.org/wiki/青少年票選獎" title="wikilink">2017青少年票選獎</a></p></td>
 <td><p>最受喜愛的YouTube之星</p></td>
 <td></td>
-<td><p>[105]</p></td>
+<td><p>[107]</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -338,19 +338,19 @@ What the fuck PewDiePie\!）\[90\]。而在《像素戰爭3》中，其中一方
 54.
 
 55.
+
 56.
 
 57.
-
 58.
 
 59.
 
 60.
+
 61.
 
 62.
-
 63.
 
 64.
@@ -370,25 +370,25 @@ What the fuck PewDiePie\!）\[90\]。而在《像素戰爭3》中，其中一方
 71.
 
 72.
+
 73.
+
 74.
-
-75. [My Response](https://www.youtube.com/watch?v=lwk1DogcPmU)，YouTube影片
-
+75.
 76.
 
-77.
+77. [My Response](https://www.youtube.com/watch?v=lwk1DogcPmU)，YouTube影片
 
 78.
 
 79.
 
-80. [About A Copyright
-    Strike](https://www.youtube.com/watch?v=ah7LYxysuJ8)，YouTube影片
+80.
 
 81.
 
-82.
+82. [About A Copyright
+    Strike](https://www.youtube.com/watch?v=ah7LYxysuJ8)，YouTube影片
 
 83.
 
@@ -406,18 +406,18 @@ What the fuck PewDiePie\!）\[90\]。而在《像素戰爭3》中，其中一方
 
 90.
 
-91. [Pixel Warfare 3
-    Vegetta777-vs-Pewdiepie](http://www.pacogames.com/multiplayer/pixel-warfare-3-vegetta777-vs-pewdiepie/en)
+91.
 
 92.
 
-93.
+93. [Pixel Warfare 3
+    Vegetta777-vs-Pewdiepie](http://www.pacogames.com/multiplayer/pixel-warfare-3-vegetta777-vs-pewdiepie/en)
+
 94.
+
 95.
 96.
-
 97.
-
 98.
 
 99.
@@ -427,8 +427,12 @@ What the fuck PewDiePie\!）\[90\]。而在《像素戰爭3》中，其中一方
 101.
 
 102.
+
 103.
 
 104.
-
 105.
+
+106.
+
+107.

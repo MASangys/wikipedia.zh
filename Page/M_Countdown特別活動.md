@@ -640,7 +640,7 @@ Countdown在世界各地舉辦的大型特別活動](https://zh.wikipedia.org/wi
 6月23日
 
   - [GFRIEND](../Page/GFRIEND.md "wikilink")
-  - [HIGHLIGHT](https://zh.wikipedia.org/wiki/Highlight_\(韓國組合\) "wikilink")
+  - [HIGHLIGHT](../Page/Highlight_\(韓國組合\).md "wikilink")
   - [KNK](https://zh.wikipedia.org/wiki/KNK "wikilink")
   - [SF9](https://zh.wikipedia.org/wiki/SF9 "wikilink")
   - [ZION. T](../Page/Zion.T.md "wikilink")

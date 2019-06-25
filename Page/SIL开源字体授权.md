@@ -23,6 +23,7 @@ world程式](https://zh.wikipedia.org/wiki/hello_world "wikilink")，即可符�
     Library](https://web.archive.org/web/20080209212127/http://www.openfontlibrary.org/)
   - [Linux.com: SIL Open Font License
     revised](https://www.linux.com/news/sil-open-font-license-revised)
+  - [SIL开源字体许可证1.1中文翻译](https://zhuanlan.zhihu.com/p/65368748)
 
 [Category:自由軟件](https://zh.wikipedia.org/wiki/Category:自由軟件 "wikilink")
 [Category:自由軟體授權](https://zh.wikipedia.org/wiki/Category:自由軟體授權 "wikilink")

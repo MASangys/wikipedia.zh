@@ -23,7 +23,7 @@ Media](../Page/NH_Media.md "wikilink")。
 3.  **Time To Go**
 4.  **Remember (Acoustic Ver.)**
       -
-        [秀鉉](https://zh.wikipedia.org/wiki/申秀鉉 "wikilink")、[Kevin主唱](https://zh.wikipedia.org/wiki/禹成賢 "wikilink")
+        [秀鉉](https://zh.wikipedia.org/wiki/申秀鉉 "wikilink")、[Kevin主唱](../Page/禹成賢.md "wikilink")
 5.  **Sexy Baby**
 6.  **Stop Girl (English Ver.)**
 7.  Stop Girl (Instrumental)

@@ -25,6 +25,7 @@ Changer](https://zh.wikipedia.org/wiki/Zorin_Look_Changer "wikilink")，该软�
 | 10.0 | 2015-08-01       |
 | 11.0 | 2016-02-03       |
 | 12.0 | 2016-11-18       |
+| 15.0 | 2019-06-05       |
 
 ## 参考文献
 

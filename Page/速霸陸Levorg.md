@@ -34,6 +34,24 @@ EyeSight」車型新設亮珍珠座椅皮革，前車窗、後三角窗及行李
 Sport」車型\[5\]，動力輸出和一般車型相同，但增加STI設計的全車空力套件、18吋鋁圈等。內裝方面的方向盤、排檔頭、座椅及門飾板等處皆有[紅色車縫線](https://zh.wikipedia.org/wiki/紅色 "wikilink")，雙前座為酒紅色搭配黑色的賽車桶椅。前[懸吊系統採用倍適登](../Page/懸吊系統.md "wikilink")（Bilstein）出品的DampMatic
 II倒叉式減震筒，後懸吊亦是倍適登產品，轉向系統也經過強化。
 
+### 2018年4月27日
+
+公布2019小改款車系。（6月1日開始發售） 改進了「Eye
+Sight」的預碰撞制動控制。當識別目標是在與車輛相同的方向上行進的行人或自行車時，通過加速減速控制的操作定時來改善避免碰撞的可能性。另外，當在低速行駛時在前方存在障礙物的情況下確定加速器被意外按下時，通過操作預碰撞制動器來輔助防撞。
+增加「1.6 GT EyeSight Smart Edition」作為SUBARU成立60週年的特殊紀念車。除了配備「Eye Sight
+Safety
+Plus」作為標準配置外，它還配備採用LED的遠光和近光燈，黑色邊框，用深色電鍍和黑色烤漆裝飾的前格柵，黑色後視鏡，以及鋁合金運動踏板。
+
+### 2018年11月27日
+
+公開特別車款「1.6 GT EyeSight V-SPORT」（2019年1月15日開始發售）。 它是繼之前 Levorg 發布「1.6 GT
+EyeSight Smart Edition」之後的SUBARU 60週年特別規格車型。
+
+### 2019年5月7日
+
+發表改裝車型「STI Sport Black Selection」，和特別車型「1.6 GT-S EyeSight Advantage
+Line」。
+
 Image:Subaru Levorg FA20 DIT engine at the Tokyo Motor Show
 2013.jpg|引擎室特寫 Image:Subaru LEVORG 2.0GT-S EyeSight (VM4)
 front.JPG|車頭 Image:Osaka Motor Show 2013 (135) Subaru

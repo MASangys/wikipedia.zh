@@ -1,4 +1,4 @@
-**FANZA成人獎**（，）是[日本](../Page/日本.md "wikilink")[FANZA所主辦與](../Page/DMM.com.md "wikilink")[AV女優及](../Page/AV女優.md "wikilink")[成人影片產業相關的獎項](https://zh.wikipedia.org/wiki/成人影片 "wikilink")，自2014年開辦自今。
+**FANZA成人獎**（，）是[日本](../Page/日本.md "wikilink")[FANZA所主辦與](../Page/DMM.com.md "wikilink")[AV女優及](../Page/AV女優.md "wikilink")[成人影片產業相關的獎項](https://zh.wikipedia.org/wiki/成人影片 "wikilink")，自2014年開辦自今，被中文世界媒體稱為暗黑[奧斯卡獎](https://zh.wikipedia.org/wiki/奧斯卡獎 "wikilink")
 
 ## 概要
 
@@ -158,7 +158,7 @@ In**》（2017年6月1日、[MUTEKI](https://zh.wikipedia.org/wiki/MUTEKI "wikil
   - 最優秀女優獎：**[相沢みなみ](../Page/相澤南.md "wikilink")**
   - 優秀女優獎：**[天使もえ](../Page/天使萌.md "wikilink")**
   - 最優秀新人獎：**[河合あすな](../Page/河合明日菜.md "wikilink")**
-  - 優秀新人獎：**[坂道みる](https://zh.wikipedia.org/wiki/坂道美琉 "wikilink")**
+  - 優秀新人獎：**[坂道みる](../Page/坂道美琉.md "wikilink")**
   - 特別獎：**[美谷朱里](../Page/美谷朱里.md "wikilink")**
   - 話題獎：**[唯井まひろ](https://zh.wikipedia.org/wiki/唯井真尋 "wikilink")**
   - メディア賞：[水卜さくら](../Page/水卜櫻.md "wikilink")

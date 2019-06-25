@@ -40,6 +40,8 @@ Listen和SM
 STATION上發佈。5月9日，Suho與[夏沇秀](../Page/夏沇秀.md "wikilink")、[吳昶錫和](../Page/吳昶錫.md "wikilink")[金叡園等演員主演的電視劇](../Page/金叡園.md "wikilink")《[Rich
 Man](../Page/Rich_Man.md "wikilink")》開播。Suho飾演擁有億萬資產的IT企業社長李有燦\[11\]。6月20日，Suho與金煥熙主演的電影《女中學生A》上映。Suho於《女中學生A》中飾演在熙，是女中學生美萊的網友\[12\]。7月，音樂劇《笑面人》開始公演，Suho飾演本是貴族卻自幼被賣入人販子手中，被殘忍毀容成為「笑面人」，流落江湖，一生悲慘的男主人公Gwynplaine（格溫普蘭）\[13\]。
 
+2019年5月，Suho擔任第13屆大邱國際音樂劇節（DIMF）宣傳大使\[14\]。
+
 ## 音樂作品
 
   -
@@ -59,7 +61,7 @@ Man](../Page/Rich_Man.md "wikilink")》開播。Suho飾演擁有億萬資產的I
 | 2014年      | Beautiful               | 《Exology Chapter1: The Lost Planet》                  |                                      |
 | 2016年7月日   | My Hero                 | 《[SM STATION 第一季](../Page/SM_STATION.md "wikilink")》 | [利特](../Page/利特.md "wikilink")、Kassy |
 | 2017年2月3日  | Curtain                 | 宋英珠                                                  |                                      |
-| 2018年3月9日  | 실례해도 될까요（打擾一下可以嗎）\[14\] | 《Mystic Listen》                                      | [張才人](../Page/張才人.md "wikilink")     |
+| 2018年3月9日  | 실례해도 될까요（打擾一下可以嗎）\[15\] | 《Mystic Listen》                                      | [張才人](../Page/張才人.md "wikilink")     |
 | 2018年3月10日 | Dinner                  | 《[SM STATION 第二季](../Page/SM_STATION.md "wikilink")》 |                                      |
 
 ### OST
@@ -85,12 +87,12 @@ Man](../Page/Rich_Man.md "wikilink")》開播。Suho飾演擁有億萬資產的I
 <td><p>2018年</p></td>
 <td><p>打擾一下可以嗎</p></td>
 <td><p>《Mystic Listen》</p></td>
-<td><p><small>（與<a href="../Page/張才人.md" title="wikilink">張才人</a>）</small>[15]</p></td>
+<td><p><small>（與<a href="../Page/張才人.md" title="wikilink">張才人</a>）</small>[16]</p></td>
 </tr>
 <tr class="odd">
 <td><p>Dinner</p></td>
 <td><p>《SM STATION 第二季》</p></td>
-<td><p><small>（與<a href="../Page/張才人.md" title="wikilink">張才人</a>）</small>[16]</p></td>
+<td><p><small>（與<a href="../Page/張才人.md" title="wikilink">張才人</a>）</small>[17]</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -134,7 +136,7 @@ Man](../Page/Rich_Man.md "wikilink")》開播。Suho飾演擁有億萬資產的I
 | 年份          | 音樂劇名稱         | 角色               | 性質  |
 | 2015年       | School OZ     | Hans             | 配角  |
 | 2017年-2018年 | The Last Kiss | Rudolf           | 男主角 |
-| 2018年       | 笑面人\[17\]     | Gwynplaine（格溫普蘭） |     |
+| 2018年       | 笑面人\[18\]     | Gwynplaine（格溫普蘭） |     |
 
 ### 固定綜藝
 
@@ -257,7 +259,7 @@ Man](../Page/Rich_Man.md "wikilink")》開播。Suho飾演擁有億萬資產的I
 |           |             |                    |                                        |
 | --------- | ----------- | ------------------ | -------------------------------------- |
 | 日期        | 電視台         | 節目名稱               | 合作藝人                                   |
-| 2017年4月3日 | Mountain TV | 《在天空中遇見大韓民國》\[18\] | [Xiumin](../Page/Xiumin.md "wikilink") |
+| 2017年4月3日 | Mountain TV | 《在天空中遇見大韓民國》\[19\] | [Xiumin](../Page/Xiumin.md "wikilink") |
 
 ## 其他作品
 
@@ -289,7 +291,7 @@ Man](../Page/Rich_Man.md "wikilink")》開播。Suho飾演擁有億萬資產的I
 <tr class="even">
 <td><p>2012年11月刊</p></td>
 <td><p>Cosmopolitan</p></td>
-<td><p>與<a href="../Page/鄭秀晶.md" title="wikilink">Krystal</a>、<a href="https://zh.wikipedia.org/wiki/劉逸雲" title="wikilink">Amber</a>、Baekhyun、D.O.[19]</p></td>
+<td><p>與<a href="../Page/鄭秀晶.md" title="wikilink">Krystal</a>、<a href="https://zh.wikipedia.org/wiki/劉逸雲" title="wikilink">Amber</a>、Baekhyun、D.O.[20]</p></td>
 </tr>
 <tr class="odd">
 <td><p>Oh Boy!</p></td>
@@ -303,28 +305,28 @@ Man](../Page/Rich_Man.md "wikilink")》開播。Suho飾演擁有億萬資產的I
 </tr>
 <tr class="odd">
 <td><p>2014年4月刊</p></td>
-<td><p>The Celebrity[20]</p></td>
+<td><p>The Celebrity[21]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2015年8月刊</p></td>
 <td><p>star1</p></td>
-<td><p>與<a href="../Page/伯賢.md" title="wikilink">Baekhyun</a>、Chen[21]</p></td>
+<td><p>與<a href="../Page/伯賢.md" title="wikilink">Baekhyun</a>、Chen[22]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2015年12月刊</p></td>
 <td><p>Vogue Korea</p></td>
-<td><p>與<a href="../Page/Sehun.md" title="wikilink">Sehun</a>、<a href="../Page/Kai.md" title="wikilink">Kai</a>、<a href="../Page/CHEN_(EXO).md" title="wikilink">Chen</a>[22]</p></td>
+<td><p>與<a href="../Page/Sehun.md" title="wikilink">Sehun</a>、<a href="../Page/Kai.md" title="wikilink">Kai</a>、<a href="../Page/CHEN_(EXO).md" title="wikilink">Chen</a>[23]</p></td>
 </tr>
 <tr class="even">
 <td><p>2016年2月刊</p></td>
 <td><p>Cosmopolitan</p></td>
 <td><p>與<a href="../Page/藝聲.md" title="wikilink">藝聲</a>、<a href="https://zh.wikipedia.org/wiki/Key_(歌手)" title="wikilink">Key</a>、<a href="../Page/泰民.md" title="wikilink">泰民</a><br />
-為「Make a Promise」慈善活動[23]</p></td>
+為「Make a Promise」慈善活動[24]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2016年3月刊</p></td>
-<td><p>Vogue[24]</p></td>
+<td><p>Vogue[25]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -338,7 +340,7 @@ Man](../Page/Rich_Man.md "wikilink")》開播。Suho飾演擁有億萬資產的I
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Max Movie[25]</p></td>
+<td><p>Max Movie[26]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -349,18 +351,18 @@ Man](../Page/Rich_Man.md "wikilink")》開播。Suho飾演擁有億萬資產的I
 </tr>
 <tr class="even">
 <td><p>2016年5月刊</p></td>
-<td><p>W Korea[26]</p></td>
+<td><p>W Korea[27]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2016年6月刊</p></td>
-<td><p>Vivi[27]</p></td>
+<td><p>Vivi[28]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2016年9月刊</p></td>
 <td><p>Esquire</p></td>
-<td><p>封面[28]</p></td>
+<td><p>封面[29]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2016年11月刊</p></td>
@@ -369,12 +371,12 @@ Man](../Page/Rich_Man.md "wikilink")》開播。Suho飾演擁有億萬資產的I
 </tr>
 <tr class="even">
 <td><p>2017年1月刊</p></td>
-<td><p>star1[29]</p></td>
+<td><p>star1[30]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2017年3月刊</p></td>
-<td><p>Allure[30]</p></td>
+<td><p>Allure[31]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -385,7 +387,7 @@ Man](../Page/Rich_Man.md "wikilink")》開播。Suho飾演擁有億萬資產的I
 <tr class="odd">
 <td><p>2019年1月刊</p></td>
 <td><p>LEON</p></td>
-<td><p>封面[31]</p></td>
+<td><p>封面[32]</p></td>
 </tr>
 <tr class="even">
 <td><p>2019年4月刊</p></td>
@@ -404,6 +406,13 @@ Man](../Page/Rich_Man.md "wikilink")》開播。Suho飾演擁有億萬資產的I
 </tr>
 </tbody>
 </table>
+
+## 宣傳大使
+
+|         |                    |                                                                                                                                                                                                                  |
+| ------- | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 日期      | 活動名稱               | 備註                                                                                                                                                                                                               |
+| 2019年5月 | 第13屆大邱國際音樂劇節（DIMF） | <ref name=":0">{{Cite web|url=[https://entertain.naver.com/now/read?oid=109\&aid=0004005970|title=](https://entertain.naver.com/now/read?oid=109&aid=0004005970%7Ctitle=) 엑소 수호, 대구뮤지컬페스티벌 홍보대사 발탁..뮤지컬 배우 꽃길 행보 |
 
 ## 獎項與榮譽
 
@@ -435,12 +444,12 @@ Man](../Page/Rich_Man.md "wikilink")》開播。Suho飾演擁有億萬資產的I
 <tr class="even">
 <td><p>2018年</p></td>
 <td><p>第7屆Yegreen Musical Award</p></td>
-<td><p>男子新人獎[32]</p></td>
+<td><p>男子新人獎[33]</p></td>
 <td><p>笑面人</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>男子人氣獎[33]</p></td>
+<td><p>男子人氣獎[34]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -455,7 +464,7 @@ Man](../Page/Rich_Man.md "wikilink")》開播。Suho飾演擁有億萬資產的I
 </tr>
 <tr class="odd">
 <td><p>2018 Stagetalk Audience Choice Awards</p></td>
-<td><p>音樂劇男子新人獎[34]</p></td>
+<td><p>音樂劇男子新人獎[35]</p></td>
 <td><p>笑面人</p></td>
 <td></td>
 <td></td>
@@ -488,7 +497,7 @@ Man](../Page/Rich_Man.md "wikilink")》開播。Suho飾演擁有億萬資產的I
 <tr class="even">
 <td><p>2017年</p></td>
 <td><ul>
-<li>K-Pop一百張最帥面孔 第4名[35]</li>
+<li>K-Pop一百張最帥面孔 第4名[36]</li>
 </ul></td>
 </tr>
 </tbody>
@@ -516,37 +525,72 @@ Man](../Page/Rich_Man.md "wikilink")》開播。Suho飾演擁有億萬資產的I
 
 1.  [](http://thestar.chosun.com/site/data/html_dir/2012/05/04/2012050400319.html)
 
+
 2.
+
 3.
+
 4.
+
 5.
+
 6.
+
 7.
+
 8.
+
 9.
+
 10.
+
 11.
+
 12.
+
 13.
+
 14.
 15.
+
 16.
+
 17.
+
 18.
+
 19.
+
 20.
+
 21.
+
 22.
+
 23.
+
 24.
+
 25.
+
 26.
+
 27.
+
 28.
+
 29.
+
 30.
+
 31.
+
 32.
+
 33.
+
 34.
+
 35.
+
+36.

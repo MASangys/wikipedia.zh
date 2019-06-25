@@ -93,7 +93,7 @@ Paradox在發佈會當日公布了遊戲的首部預告片\[2\]。
 <td><p>新增所有國家領袖的容貌（包括<a href="https://zh.wikipedia.org/wiki/圖瓦" title="wikilink">圖瓦</a>，其領袖肖像被用作亞洲地區的通用領袖肖像）</p></td>
 </tr>
 <tr class="odd">
-<td><p>钢铁雄心IV：玉碎瓦全（Hearts of Iron IV: Death or Dishonor）</p></td>
+<td><p>钢铁雄心IV：死亡或羞辱（Hearts of Iron IV: Death or Dishonor）</p></td>
 <td><ul>
 <li>為部分東歐國家（<a href="../Page/羅馬尼亞王國.md" title="wikilink">羅馬尼亞</a>、<a href="https://zh.wikipedia.org/wiki/捷克斯洛伐克" title="wikilink">捷克斯洛伐克</a>、<a href="../Page/匈牙利王国_(1920–1946).md" title="wikilink">匈牙利</a>、<a href="../Page/南斯拉夫王國.md" title="wikilink">南斯拉夫</a>）提供獨特國策</li>
 <li>為以上國家的師團提供語音</li>

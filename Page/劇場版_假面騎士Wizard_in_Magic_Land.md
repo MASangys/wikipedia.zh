@@ -831,7 +831,7 @@ MUSIC](../Page/劇場版_獸電戰隊強龍者_GABURINCHO_OF_MUSIC.md "wikilink"
 ## 製作人員
 
   - 原作 - [石之森章太郎](../Page/石之森章太郎.md "wikilink")
-  - 劇本 -
+  - 劇本 - [香村純子](../Page/香村純子.md "wikilink")
   - 配樂 - [中川幸太郎](../Page/中川幸太郎.md "wikilink")
   - 動作指導 -
   - 特攝導演 -

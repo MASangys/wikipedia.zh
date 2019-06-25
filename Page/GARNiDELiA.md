@@ -123,7 +123,7 @@ MUSIC所屬的音樂團體](../Page/SACRA_MUSIC.md "wikilink")\[1\]。簡稱為�
 
   - 3月13日 發行第10張單曲「REBEL
     FLAG」，為[魔法少女特殊戰明日香片尾曲](../Page/魔法少女特殊戰明日香.md "wikilink")\[20\]。
-  - 預定6月1日 亞巡來台舉辦個人團體演唱會「stellacage Asia Tour 2019 "響喜乱舞" in Taipei
+  - 6月1日 亞巡來台舉辦個人團體演唱會「stellacage Asia Tour 2019 "響喜乱舞" in Taipei
     」在「永豐Legacy Taipei 音樂展演空間」中舉辦\[21\]\[22\]
 
 ## 成員

@@ -23,14 +23,14 @@ COLOR）是2014年[東風衛視的綜藝節目](../Page/東風衛視.md "wikilin
 <tr class="even">
 <td><p>01</p></td>
 <td><p>2014年7月9日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鄭元暢" title="wikilink">鄭元暢</a>、<a href="../Page/陸明君.md" title="wikilink">陸明君</a>(上集)</p></td>
+<td><p><a href="../Page/鄭元暢.md" title="wikilink">鄭元暢</a>、<a href="../Page/陸明君.md" title="wikilink">陸明君</a>(上集)</p></td>
 <td><center>
 <p>由<a href="https://zh.wikipedia.org/wiki/黃鴻升" title="wikilink">黃鴻升</a>&amp;<a href="../Page/吳姍儒.md" title="wikilink">Sandy主持</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>02</p></td>
 <td><p>2014年7月10日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鄭元暢" title="wikilink">鄭元暢</a>、<a href="../Page/陸明君.md" title="wikilink">陸明君</a>(下集)</p></td>
+<td><p><a href="../Page/鄭元暢.md" title="wikilink">鄭元暢</a>、<a href="../Page/陸明君.md" title="wikilink">陸明君</a>(下集)</p></td>
 <td></td>
 </tr>
 <tr class="even">

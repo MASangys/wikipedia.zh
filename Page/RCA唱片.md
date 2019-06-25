@@ -46,7 +46,7 @@ Talking Machine Company」。
   - [嘻哈鬥牛梗](../Page/皮普保罗.md "wikilink") （）
   - [希雅](https://zh.wikipedia.org/wiki/希雅 "wikilink")（)
   - [澤恩·馬利克](../Page/贊恩·馬利克.md "wikilink")（）
-  - [SZA](https://zh.wikipedia.org/wiki/SZA "wikilink")
+  - [SZA](../Page/SZA.md "wikilink")
 
 [Category:索尼音樂娛樂](https://zh.wikipedia.org/wiki/Category:索尼音樂娛樂 "wikilink")
 [Category:美國唱片公司](https://zh.wikipedia.org/wiki/Category:美國唱片公司 "wikilink")

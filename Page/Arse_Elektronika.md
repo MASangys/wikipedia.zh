@@ -23,7 +23,7 @@ Stein以及[Fucking Machines的一些工程师](../Page/Fucking_Machines.md "wik
 [Category:國際研討會](https://zh.wikipedia.org/wiki/Category:國際研討會 "wikilink")
 [Category:年度事件](https://zh.wikipedia.org/wiki/Category:年度事件 "wikilink")
 [Category:性与社会](https://zh.wikipedia.org/wiki/Category:性与社会 "wikilink")
-[Category:2007年设立的周期活动](https://zh.wikipedia.org/wiki/Category:2007年设立的周期活动 "wikilink")
+[Category:2007年建立的周期性事件](https://zh.wikipedia.org/wiki/Category:2007年建立的周期性事件 "wikilink")
 
 1.  <http://www.monochrom.at/arse-elektronika/index.php>
 2.  <http://www.digitaljournal.com/article/237046/Sex_Meets_Tech_at_Kinky_Conference_in_San_Francisco>

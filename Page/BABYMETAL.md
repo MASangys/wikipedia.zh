@@ -608,8 +608,7 @@ BABYMETAL已收到許多音樂圈內的公開支持，如：
   - <small>金屬樂團
     [信念交錯](https://zh.wikipedia.org/wiki/信念交錯 "wikilink")</small>
   - <small>搖滾樂團 </small>
-  - <small>搖滾樂團 [ONE OK
-    ROCK](https://zh.wikipedia.org/wiki/ONE_OK_ROCK "wikilink")</small>
+  - <small>搖滾樂團 [ONE OK ROCK](../Page/ONE_OK_ROCK.md "wikilink")</small>
   - <small>搖滾樂團 [FLOW](../Page/FLOW_\(樂團\).md "wikilink")</small>
   - <small>搖滾樂團 [凜冽時雨](../Page/凜冽時雨.md "wikilink")</small>
   - <small>「[視覺系搖滾教父](../Page/視覺系.md "wikilink")」X JAPAN團長

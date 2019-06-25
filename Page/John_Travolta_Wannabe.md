@@ -12,7 +12,7 @@ Chart單曲年榜冠軍的好成績](https://zh.wikipedia.org/wiki/Gaon_Chart "w
 Core Contents Media在2011年6月8日宣布，T-ara將在7月推出第二張迷你專輯《John Travolta
 Wannabe》，並透露主打歌將由[新沙洞老虎和崔奎成製作](../Page/新沙洞老虎.md "wikilink")，而新沙洞老虎之前亦多次替T-ara製作主打曲，像是《[Bo
 Peep Bo
-Peep](../Page/Bo_Peep_Bo_Peep.md "wikilink")》。這張專輯的命名靈感來自電影《[週末夜狂熱](https://zh.wikipedia.org/wiki/週末夜狂熱 "wikilink")》的男主角「[約翰·屈伏塔](https://zh.wikipedia.org/wiki/約翰·屈伏塔 "wikilink")」（John
+Peep](../Page/Bo_Peep_Bo_Peep.md "wikilink")》。這張專輯的命名靈感來自電影《[週末夜狂熱](../Page/週末夜狂熱.md "wikilink")》的男主角「[約翰·屈伏塔](https://zh.wikipedia.org/wiki/約翰·屈伏塔 "wikilink")」（John
 Travolta），意思是他的崇拜者\[3\]。這是成員們看完該電影後所產生的想法\[4\]。
 
 6月21日及22日，官方公開了主打單曲名稱及專輯概念照，說明了這次將會是復古卻帶有現代元素的曲風、造型\[5\]\[6\]。

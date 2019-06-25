@@ -33,15 +33,68 @@
 
 ## 现时节目
 
-| 日期            | 播出時间          | 现时节目                                  | 备注                                           |
-| ------------- | ------------- | ------------------------------------- | -------------------------------------------- |
-| 星期一至五         | 19:00 - 20:00 | [九州缥缈录](../Page/九州缥缈录.md "wikilink")  |                                              |
-| 星期一至四         | 23:30 - 01:30 | [沙海](../Page/沙海.md "wikilink")（重播）    | 2集连播                                         |
-| 星期五           | 20:55 - 23:00 | [奔跑吧（第三季）](../Page/奔跑吧.md "wikilink") | 与[浙江卫视同步播出](../Page/浙江卫视.md "wikilink")      |
-| 星期六           | 20:30 - 22:00 | [巅峰之夜](../Page/巅峰之夜.md "wikilink")    | 与[湖南卫视](../Page/湖南卫视.md "wikilink")24小时内同日播出 |
-| 星期日           | 20:00 - 21:45 | [快乐大本营](../Page/快乐大本营.md "wikilink")  | 与[湖南卫视](../Page/湖南卫视.md "wikilink")24小时内同日播出 |
-| 21:45 - 00:00 | 妻子的浪漫旅行2      |                                       |                                              |
-|               |               |                                       |                                              |
+<table>
+<thead>
+<tr class="header">
+<th><p>日期</p></th>
+<th><p>播出時间</p></th>
+<th><p>现时节目</p></th>
+<th><p>备注</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>星期一至五</p></td>
+<td><p>19:00 - 20:00</p></td>
+<td><p><a href="../Page/怒海潜沙&amp;秦岭神树.md" title="wikilink">怒海潜沙&amp;秦岭神树</a></p></td>
+<td><p>6月24日起</p></td>
+</tr>
+<tr class="even">
+<td><p>星期一至四</p></td>
+<td><p>23:30 - 01:30</p></td>
+<td><p><a href="../Page/沙海.md" title="wikilink">沙海</a>（重播）</p></td>
+<td><p>2集连播</p></td>
+</tr>
+<tr class="odd">
+<td><p>星期五</p></td>
+<td><p>20:55 - 23:00</p></td>
+<td><p><a href="../Page/奔跑吧.md" title="wikilink">奔跑吧（第三季）</a></p></td>
+<td><p>与<a href="../Page/浙江卫视.md" title="wikilink">浙江卫视同步播出</a></p></td>
+</tr>
+<tr class="even">
+<td><p>星期六</p></td>
+<td><p>20:30 - 22:30</p></td>
+<td><p><a href="../Page/巅峰之夜.md" title="wikilink">巅峰之夜</a></p></td>
+<td><p>与<a href="../Page/湖南卫视.md" title="wikilink">湖南卫视</a>24小时内同日播出</p></td>
+</tr>
+<tr class="odd">
+<td><p>22:30 - 00:30</p></td>
+<td><p><a href="../Page/中国新说唱.md" title="wikilink">中国新说唱2019</a></p></td>
+<td><p>6月22日起，与<a href="../Page/爱奇艺.md" title="wikilink">爱奇艺同日播出</a><br />
+6月21日 23:00 - 00:00（马来西亚海选）<br />
+6月22日 18:30 - 20:00（第一集）</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>星期日</p></td>
+<td><p>20:00 - 21:45</p></td>
+<td><p><a href="../Page/快乐大本营.md" title="wikilink">快乐大本营</a></p></td>
+<td><p>与<a href="../Page/湖南卫视.md" title="wikilink">湖南卫视</a>24小时内同日播出</p></td>
+</tr>
+<tr class="odd">
+<td><p>21:45 - 23:30</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/我最爱的女人们" title="wikilink">我最爱的女人们</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>即将播出</p></td>
+<td><p><a href="../Page/九州缥缈录.md" title="wikilink">九州缥缈录</a></p></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 新春节目
 

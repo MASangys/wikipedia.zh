@@ -84,7 +84,7 @@ Hancock](https://zh.wikipedia.org/wiki/Luke_Hancock "wikilink")。
   - 1982 –
     [詹姆斯·沃西](../Page/詹姆斯·沃西.md "wikilink")，[北卡羅來納大學](https://zh.wikipedia.org/wiki/北卡羅來納柏油腳跟男子籃球隊 "wikilink")
   - 1983 –
-    [哈基姆·歐拉朱萬](https://zh.wikipedia.org/wiki/哈基姆·歐拉朱萬 "wikilink")，[休士頓大學](https://zh.wikipedia.org/wiki/休士頓大學 "wikilink")
+    [哈基姆·歐拉朱萬](https://zh.wikipedia.org/wiki/哈基姆·歐拉朱萬 "wikilink")，[休士頓大學](../Page/休士頓大學.md "wikilink")
   - 1984 –
     [派屈克·尤英](https://zh.wikipedia.org/wiki/派屈克·尤英 "wikilink")，[喬治城大學](https://zh.wikipedia.org/wiki/喬治城大學 "wikilink")
   - 1985 – ，維拉諾瓦大學

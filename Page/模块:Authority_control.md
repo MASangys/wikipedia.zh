@@ -963,11 +963,12 @@ function p.authorityControl( frame )
 `   if #elements > 0 then`
 `       local args = {}`
 `       if testcases and itemId then args = { qid = itemId } end --expensive`
-`       -- local pencil = frame:expandTemplate{ title = 'EditAtWikidata', args = args} 需要解决换行问题`
+`       local pencil = frame:expandTemplate{ title = 'EditAtWikidata', args = args}`
 `       outString = Navbox._navbox( {`
 `           name  = '规范控制',`
 `           bodyclass = 'hlist',`
-`           group1 = '`[`规范控制`](https://zh.wikipedia.org/wiki/Help:规范控制 "wikilink")`',-- .. pencil,`
+`           groupclass = 'nowrap',`
+`           group1 = '`[`规范控制`](https://zh.wikipedia.org/wiki/Help:规范控制 "wikilink")`' .. pencil,`
 `           list1 = table.concat( elements )`
 `           } )`
 `       local auxCats = elementsCat .. suppressedIdCat .. deprecatedIdCat`

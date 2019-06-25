@@ -17,6 +17,7 @@
 
   - [LG電子台灣](http://www.lg.com/tw)
 
+[Category:LG电子](https://zh.wikipedia.org/wiki/Category:LG电子 "wikilink")
 [Category:LG集團](https://zh.wikipedia.org/wiki/Category:LG集團 "wikilink")
 [Category:韓國電子公司](https://zh.wikipedia.org/wiki/Category:韓國電子公司 "wikilink")
 [Category:行動電話製造商](https://zh.wikipedia.org/wiki/Category:行動電話製造商 "wikilink")

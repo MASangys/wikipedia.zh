@@ -69,6 +69,7 @@ Rossini's Reviews - 028 - 2010 Tribeca.jpg
 
 1.  請見[Autoweek: Fizzled Alliance: Deal to sell Subaru stake puts $302
     million in GM's bank account, spells end for
-    Saab 9-6X](http://www.autoweek.com/article/20051007/FREE/510070703)一文。
+    Saab 9-6X](http://www.autoweek.com/article/20051007/FREE/510070703)
+    一文。
 2.  參見[癮車報：由Subaru而來的Saab 9-6原型車終於在原廠博物館現身](http://cool3c.incar.tw/article/48924)。
 3.  [國家質量監督檢驗檢疫總局：斯巴魯汽車（中國）有限公司召回部分進口斯巴魯馳鵬汽車](http://www.aqsiq.gov.cn/zjxw/zjxw/zjftpxw/201602/t20160203_460762.htm)。

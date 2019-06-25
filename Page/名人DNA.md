@@ -21,7 +21,7 @@ people)是名人的[Y染色體](../Page/Y染色體.md "wikilink")[單倍群](htt
 
   - 本郷源之丞(Hongo
     Gennojo)，是[日本](../Page/日本.md "wikilink")[仙台藩士](../Page/仙台藩.md "wikilink")\[4\]\[5\]。其后裔[Y染色體測試結果爲D](../Page/Y染色體.md "wikilink")1b單倍群(D-M64.1)\[6\]\[7\]。
-  - [瓊瓊杵尊](https://zh.wikipedia.org/wiki/瓊瓊杵尊 "wikilink")，是日本[日向國](https://zh.wikipedia.org/wiki/日向國 "wikilink")(现[宮崎县](https://zh.wikipedia.org/wiki/宮崎县 "wikilink"))的古人。則日本[皇室的始祖](https://zh.wikipedia.org/wiki/皇室 "wikilink")[男性](../Page/男性.md "wikilink")。其孫子测试结果属于D1b單倍群(D-M64.1)\[8\]，此类型高频见于[日本列島](../Page/日本列島.md "wikilink")[Enoyama-no-misasagi.JPG](https://zh.wikipedia.org/wiki/File:Enoyama-no-misasagi.JPG "fig:Enoyama-no-misasagi.JPG")的可愛山陵|居中\]\]
+  - [天津彥彥火瓊瓊杵尊](https://zh.wikipedia.org/wiki/天津彥彥火瓊瓊杵尊 "wikilink")，是日本[日向國](https://zh.wikipedia.org/wiki/日向國 "wikilink")(现[宮崎县](https://zh.wikipedia.org/wiki/宮崎县 "wikilink"))的古人。則日本[皇室的始祖](https://zh.wikipedia.org/wiki/皇室 "wikilink")[男性](../Page/男性.md "wikilink")。其孫子测试结果属于D1b單倍群(D-M64.1)\[8\]，此类型高频见于[日本列島](../Page/日本列島.md "wikilink")[Enoyama-no-misasagi.JPG](https://zh.wikipedia.org/wiki/File:Enoyama-no-misasagi.JPG "fig:Enoyama-no-misasagi.JPG")的可愛山陵|居中\]\]
   - 竹村父子([竹村健一](https://zh.wikipedia.org/wiki/:ja:竹村健一 "wikilink")，竹村真一)，父親爲[日本著名政治評論家](../Page/日本.md "wikilink")，兒子爲文化人類学者。其家族測試結果属于D1b單倍群(D-M64.1)\[9\]\[10\]，他的祖籍是日本[兵庫县](https://zh.wikipedia.org/wiki/兵庫县 "wikilink")。
   - [細川茂樹](https://zh.wikipedia.org/wiki/:ja:細川茂樹 "wikilink")，日本演员，其测试结果属于D1b單倍群(D-M64.1)\[11\]，他的祖籍是日本[岐阜县](../Page/岐阜县.md "wikilink")。
 
@@ -219,6 +219,8 @@ BestLo.jpg|[亨利·克林顿](https://zh.wikipedia.org/wiki/亨利·克林顿 "
 
   - [曹操](../Page/曹操.md "wikilink")，其子孙测试结果属于O1b1a2\*类型（O-M268、PK4-星簇）\[68\]\[69\]\[70\]。
   - [阮福映](../Page/阮福映.md "wikilink")（嘉隆帝），[越南最後一個傳統王朝](https://zh.wikipedia.org/wiki/越南 "wikilink")[阮朝的开国君主](../Page/阮朝.md "wikilink")，其孫子测试结果属于O-M95类型\[71\]。
+  - 张相文，中国近现代著名地理学家。最早提出了划分中国南北的秦岭—淮河线。其家族检测结果属于O1b1a1b-CTS5664类型。
+  - 李旭：中国明朝初期的官员，官至湖广行省左布政使，其子孙检测结果属于O1b1a1b-F1199类型。
 
 #### O2a1c
 

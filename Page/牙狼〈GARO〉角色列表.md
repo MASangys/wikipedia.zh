@@ -105,8 +105,7 @@
     暗黑騎士呀(キバ)稱號擁有者。
     其真實身分為大河的弟子(バラゴ)，龍崎駈音只是他的偽名。
 
-**ジイル**([:<http://護麻奈>
-護麻奈](https://zh.wikipedia.org/wiki/:http:/護麻奈_護麻奈 "wikilink")(護あさな)\]\]
+**ジイル**([date=2019年6月](https://zh.wikipedia.org/wiki/:http:/護麻奈{{Dead_link "wikilink")(護あさな)\]\]
 飾)
 
   -

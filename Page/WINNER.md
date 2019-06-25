@@ -1,6 +1,6 @@
 **WINNER**（；），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[YG娛樂透過](../Page/YG娛樂.md "wikilink")[Mnet生存實境節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[WIN：WHO
 IS
-NEXT](../Page/WIN.md "wikilink")》所推出的[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")，也是該經紀公司繼2006年[BIGBANG後第二組男子偶像團體](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")，最初成員包括[金秦禹](../Page/金秦禹.md "wikilink")、[李昇勳](../Page/李昇勳.md "wikilink")、[宋旻浩](https://zh.wikipedia.org/wiki/宋旻浩 "wikilink")、[姜昇潤及](../Page/姜昇潤.md "wikilink")[南太鉉](../Page/南太鉉.md "wikilink")，並由姜昇潤擔任隊長。2016年10月12日，YG娛樂公布南太鉉因心理問題暫停演藝活動，\[1\]同年11月25日宣布退出團體，\[2\]自此以四人組體制活動。
+NEXT](../Page/WIN.md "wikilink")》所推出的[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")，也是該經紀公司繼2006年[BIGBANG後第二組男子偶像團體](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")，現任成員為[金秦禹](../Page/金秦禹.md "wikilink")、[李昇勳](../Page/李昇勳.md "wikilink")、[宋旻浩及](https://zh.wikipedia.org/wiki/宋旻浩 "wikilink")[姜昇潤](../Page/姜昇潤.md "wikilink")，並由姜昇潤擔任隊長。2016年10月12日，YG娛樂公布[南太鉉因心理問題暫停演藝活動](../Page/南太鉉.md "wikilink")，\[1\]同年11月25日宣布退出團體，\[2\]自此以四人組體制活動。
 
 ## 團體資料
 
@@ -235,7 +235,7 @@ REALLY》在YouTube突破1億觀看次數，成為團體首支破億MV。\[82\]
 
 12月13日，官方宣布WINNER將於12月19日時隔8個月以單曲專輯《MILLIONS》回歸，根據所屬公司透露，WINNER的第三張正歸專輯將延期至明年2月海外巡演結束之後，因此此次的單曲將是以先行曲的形式公開。\[83\]
 
-12月19日，公布時隔8個月回歸的新單曲《[MILLIONS](https://zh.wikipedia.org/wiki/MILLIONS "wikilink")》歌曲音源及音樂錄影帶，新曲發布後在韓國七大主流音源網站位居實時榜首，並在其他19個國家和地區iTunes歌曲榜上排名第一，證實了WINNER日益強大的全球影響力。\[84\]
+12月19日，公布時隔8個月回歸的新單曲《[MILLIONS](../Page/MILLIONS.md "wikilink")》歌曲音源及音樂錄影帶，新曲發布後在韓國七大主流音源網站位居實時榜首，並在其他19個國家和地區iTunes歌曲榜上排名第一，證實了WINNER日益強大的全球影響力。\[84\]
 
 ### 2019年：第二張迷你專輯《WE》
 
@@ -265,7 +265,7 @@ Tour》，由成員李昇勳親自擔任導遊，帶領成員介紹濟州島美�
     FOR](https://zh.wikipedia.org/wiki/Fate_Number_For_\(WINNER韓語單曲\) "wikilink")》
   - 2017年：《[OUR TWENTY
     FOR](../Page/Our_Twenty_For_\(WINNER韓語單曲\).md "wikilink")》
-  - 2018年：《[MILLIONS](https://zh.wikipedia.org/wiki/MILLIONS "wikilink")》
+  - 2018年：《[MILLIONS](../Page/MILLIONS.md "wikilink")》
 
 ### 日語作品
 
@@ -279,6 +279,7 @@ Tour》，由成員李昇勳親自擔任導遊，帶領成員介紹濟州島美�
 #### 迷你專輯
 
   - 2016年：《EXIT MOVEMENT：E -JAPAN EDITION-<small>（僅發行數位音樂）</small>》
+  - 2019年：《[WE](https://zh.wikipedia.org/wiki/WE_\(WINNER日語迷你專輯\) "wikilink")》
 
 #### 單曲專輯
 
@@ -450,7 +451,7 @@ Tour》，由成員李昇勳親自擔任導遊，帶領成員介紹濟州島美�
 | [Gaon Chart K-POP大獎](../Page/Gaon_Chart_K-POP大獎.md "wikilink")                              | 年度新人獎                                                                             |            |
 | 2016年                                                                                       | [Style Icon Asia Awards](../Page/亞洲時尚偶像獎.md "wikilink")                           | 最佳K-Style賞 |
 | 2017年                                                                                       | [MelOn Music Awards](https://zh.wikipedia.org/wiki/MelOn_Music_Awards "wikilink") | TOP10藝人獎   |
-| 2018年                                                                                       | [金唱片獎](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")                             | 音源本賞       |
+| 2017年                                                                                       | [金唱片獎](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")                             | 音源本賞       |
 
 ### 主要音樂節目榜單排名
 

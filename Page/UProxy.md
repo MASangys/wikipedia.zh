@@ -13,7 +13,7 @@ uProxy有点像[VPN](../Page/虛擬私人網路.md "wikilink")，但是设置VPN
 [Google Ideas 上的介绍](https://www.google.com/ideas/projects/uproxy/)
 
 [Category:2013年軟體](https://zh.wikipedia.org/wiki/Category:2013年軟體 "wikilink")
-[Category:破网软件](https://zh.wikipedia.org/wiki/Category:破网软件 "wikilink")
+[Category:翻墙软件](https://zh.wikipedia.org/wiki/Category:翻墙软件 "wikilink")
 [Category:代理软件](https://zh.wikipedia.org/wiki/Category:代理软件 "wikilink")
 [Category:Firefox_附加组件](https://zh.wikipedia.org/wiki/Category:Firefox_附加组件 "wikilink")
 

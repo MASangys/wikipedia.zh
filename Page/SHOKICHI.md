@@ -367,7 +367,7 @@ EXILE SHOKICHI LIVE TOUR 2019 "UNDERDOGG"\[45\]
 <div class="NavContent" style="text-align: left;">
 
   - 6月29日：長野・[長野ビッグハット](https://zh.wikipedia.org/wiki/長野ビッグハット "wikilink")
-  - 7月03日、7月04日：埼玉・[さいたまスーパーアリーナ](https://zh.wikipedia.org/wiki/さいたまスーパーアリーナ "wikilink")
+  - 7月3日、7月4日：埼玉・[さいたまスーパーアリーナ](https://zh.wikipedia.org/wiki/さいたまスーパーアリーナ "wikilink")
   - 7月27日：静岡・[静岡エコパアリーナ](https://zh.wikipedia.org/wiki/静岡エコパアリーナ "wikilink")
   - 8月17日：福岡・[マリンメッセ福岡](https://zh.wikipedia.org/wiki/マリンメッセ福岡 "wikilink")
   - 9月11日、9月12日：大阪・[大阪城ホール](https://zh.wikipedia.org/wiki/大阪城ホール "wikilink")

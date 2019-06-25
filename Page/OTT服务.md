@@ -36,6 +36,7 @@ OTT服務需要通過互聯網作資訊傳送，過往需要申領牌照的行�
     Anywhere](../Page/TVB_Anywhere.md "wikilink")）
   - [hmvod](../Page/HMV數碼中國集團.md "wikilink")
   - [龍耳電視](../Page/龍耳電視.md "wikilink")
+  - [Now E](https://zh.wikipedia.org/wiki/Now_E "wikilink")
 
 ###
 

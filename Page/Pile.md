@@ -230,6 +230,18 @@ CD</p>
 <td></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>《<strong>BJ</strong>》</p></td>
+<td><p><strong>8th單曲</strong><br />
+</p>
+<ul>
+<li>單曲名稱：BJ</li>
+<li>發售日期：2018 年 5 月 2 日</li>
+<li>備註：動畫「<a href="../Page/奴隸區_我與23個奴隸.md" title="wikilink">奴隸區 我與23個奴隸</a>」ED</li>
+</ul></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -503,6 +515,11 @@ CD</p>
   - （個人）
 
   -
+[Category:英語歌手](https://zh.wikipedia.org/wiki/Category:英語歌手 "wikilink")
+[Category:韓語歌手](https://zh.wikipedia.org/wiki/Category:韓語歌手 "wikilink")
+[Category:日本流行音樂歌手](https://zh.wikipedia.org/wiki/Category:日本流行音樂歌手 "wikilink")
+[Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink")
+[Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink")
 [Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink")
 [Category:日本女性配音員](https://zh.wikipedia.org/wiki/Category:日本女性配音員 "wikilink")
 [Category:東京都出身人物](https://zh.wikipedia.org/wiki/Category:東京都出身人物 "wikilink")

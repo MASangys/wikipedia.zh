@@ -1,4 +1,4 @@
-《**FORCE原力誌**》是由[台灣角川於](../Page/台灣角川.md "wikilink")2012年12月20日創辦\[1\]\[2\]，固定於每周五更新連載內容的[免費](https://zh.wikipedia.org/wiki/免費 "wikilink")[電子雜誌](https://zh.wikipedia.org/wiki/電子雜誌 "wikilink")。2014年8月1日，《FORCE原力誌》漫畫部份移籍[KADOKAWA電子漫畫網站](../Page/KADOKAWA.md "wikilink")《[ComicWalker](https://zh.wikipedia.org/wiki/ComicWalker "wikilink")》，小說部份則會重新規劃連載頁面及模式。2014年9月1日，《FORCE原力誌》網站停止更新。
+《**FORCE原力誌**》是由[台灣角川於](../Page/台灣角川.md "wikilink")2012年12月20日創辦\[1\]\[2\]，固定於每周五更新連載內容的[免費](https://zh.wikipedia.org/wiki/免費 "wikilink")[電子雜誌](https://zh.wikipedia.org/wiki/電子雜誌 "wikilink")。2014年8月1日，《FORCE原力誌》漫畫部份移籍[KADOKAWA電子漫畫網站](../Page/KADOKAWA.md "wikilink")《[ComicWalker](../Page/ComicWalker.md "wikilink")》，小說部份則會重新規劃連載頁面及模式。2014年9月1日，《FORCE原力誌》網站停止更新。
 
 ## 概要
 

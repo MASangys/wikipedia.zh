@@ -37,6 +37,7 @@
 ## 参考文献
 
 [Category:1979年单曲](https://zh.wikipedia.org/wiki/Category:1979年单曲 "wikilink")
+[Category:德語歌曲](https://zh.wikipedia.org/wiki/Category:德語歌曲 "wikilink")
 
 1.
 2.  [Game: 1980 Moscow - Australian Olympic

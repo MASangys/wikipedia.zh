@@ -59,6 +59,12 @@
 
   - [Centum City](https://zh.wikipedia.org/wiki/Centum_City "wikilink")
 
+## 其他
+
+[Korail-Donghae-line-K118-Centum-station-sign-20180331-083808.jpg](https://zh.wikipedia.org/wiki/File:Korail-Donghae-line-K118-Centum-station-sign-20180331-083808.jpg "fig:Korail-Donghae-line-K118-Centum-station-sign-20180331-083808.jpg")
+
+  - 在2017年初有當地媒體報導，該站站牌上的[中文表記被誤寫為](https://zh.wikipedia.org/wiki/中文 "wikilink")「[韩国旅游发展局](https://zh.wikipedia.org/wiki/韩国旅游发展局 "wikilink")」\[3\]。
+
 ## 相鄰車站
 
   - 韓國鐵道公社
@@ -78,3 +84,4 @@
 1.  [國土交通部路線距離通知(第2016-224號)](http://gwanbo.moi.go.kr/gwanbo/dailyGazetteView.gz?ebookSeq=00000000000000001461809311793000&searchDate=&currPage=&linePerPage=)
     大韓民國電子官方公報第18750號2016年4月29日（五）
 2.  [東海線(釜田\~日光)广域电铁营业开始公知(12.30.\~)](https://archive.is/20161230111936/http://www.letskorail.com/ebizcom/event/total/EbizcomEventTotallw_cus06101_iframe.do?searchKeyword2=955)
+3.

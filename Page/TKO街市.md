@@ -2,7 +2,7 @@
 [TKO_Market_interior_201803.jpg](https://zh.wikipedia.org/wiki/File:TKO_Market_interior_201803.jpg "fig:TKO_Market_interior_201803.jpg")
 
 **TKO街市**位於[香港](../Page/香港.md "wikilink")[新界](../Page/新界.md "wikilink")[西貢區](../Page/西貢區.md "wikilink")[將軍澳](../Page/將軍澳.md "wikilink")[TKO
-Gateway地下](../Page/TKO_Gateway.md "wikilink")，被喻為香港「最平街市」，現時由[領展房地產投資信託基金經營](../Page/領展房地產投資信託基金.md "wikilink")。
+Gateway地下](../Page/TKO_Gateway.md "wikilink")，被喻為香港「最貴街市」，現時由[領展房地產投資信託基金經營](../Page/領展房地產投資信託基金.md "wikilink")。
 
 ## 歷史
 

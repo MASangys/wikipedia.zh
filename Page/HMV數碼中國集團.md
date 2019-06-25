@@ -48,7 +48,7 @@ Records**代理出品，[華納唱片代理發行](../Page/香港華納唱片.md
 （<strong>GME中國</strong>）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/張智霖.md" title="wikilink">張智霖</a></p></td>
+<td><p><a href="../Page/鄧健泓.md" title="wikilink">鄧健泓</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>組合</strong></p></td>
@@ -72,7 +72,8 @@ Records**代理出品，[華納唱片代理發行](../Page/香港華納唱片.md
 （<strong>GME中國</strong>唱片合約代理出品及發行）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/鄒文正.md" title="wikilink">鄒文正</a></p></td>
+<td><p><a href="../Page/譚順生.md" title="wikilink">譚順生</a><br />
+（<strong>GME中國</strong>唱片合約代理出品及發行）</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>藝人</strong></p></td>
@@ -180,103 +181,106 @@ Records**代理出品，[華納唱片代理發行](../Page/香港華納唱片.md
 <td><p><a href="../Page/胡杏兒.md" title="wikilink">胡杏兒</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><strong>hmv MUSIC</strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/楊建平" title="wikilink">楊建平</a></p></td>
 </tr>
 <tr class="even">
-<td><p><strong>歌星</strong></p></td>
+<td><p><strong>hmv MUSIC</strong></p></td>
 </tr>
 <tr class="odd">
+<td><p><strong>歌星</strong></p></td>
+</tr>
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/連詩雅" title="wikilink">連詩雅</a><br />
 已加盟<a href="https://zh.wikipedia.org/wiki/星夢娛樂" title="wikilink">星夢娛樂</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>中國3D數碼娛樂</strong></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>歌星</strong></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/石詠莉.md" title="wikilink">石詠莉</a><br />
 已加盟<a href="../Page/中星集團.md" title="wikilink">星娛樂</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>藝人</strong></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/莊思敏.md" title="wikilink">莊思敏</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>一元製作室</strong></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>歌星</strong></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/李彩華" title="wikilink">李彩華</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>組合</strong></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/Freeze.md" title="wikilink">Freeze</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>藝人</strong></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/黃宇詩.md" title="wikilink">黃宇詩</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/李健中" title="wikilink">李健中</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>GME Music／GME中國</strong></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>歌星</strong></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/茜拉.md" title="wikilink">茜　拉</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/杜德偉.md" title="wikilink">杜德偉</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>組合</strong></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/少女標本_(香港)" title="wikilink">少女標本</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>藝人</strong></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/周秀娜.md" title="wikilink">周秀娜</a><br />
 已轉到個人工作室</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/黄雪瑩" title="wikilink">黄雪瑩</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/李元玲.md" title="wikilink">李元玲</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/范植偉.md" title="wikilink">范植偉</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong><a href="../Page/種星堂.md" title="wikilink">種星堂娛樂</a></strong></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>藝人</strong></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/周汶錡.md" title="wikilink">周汶錡</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/陳瀅.md" title="wikilink">陳　瀅</a><br />
 已加盟<a href="https://zh.wikipedia.org/wiki/TVB" title="wikilink">TVB</a>／<a href="../Page/邵氏兄弟.md" title="wikilink">邵氏兄弟</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 </tr>
 </tbody>
@@ -588,17 +592,17 @@ Hong Kong West Side Stories</p></td>
 插：我們是無法說明的季節（<a href="https://zh.wikipedia.org/wiki/趙善恆" title="wikilink">趙善恆</a> @ <a href="../Page/ToNick.md" title="wikilink">ToNick</a> Feat. <a href="../Page/廖子妤.md" title="wikilink">廖子妤</a>）</p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p>2019年5月25日<br />
+<td style="text-align: center;"><p>2019年6月14日<br />
 <small>（第一季）</small></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/性敢中環" title="wikilink">性敢中環</a><br />
 Sexy Central</p></td>
 <td style="text-align: center;"><p><a href="../Page/何佩瑜.md" title="wikilink">何佩瑜</a>、<a href="https://zh.wikipedia.org/wiki/連詩雅" title="wikilink">連詩雅</a>、<a href="../Page/鄭欣宜.md" title="wikilink">鄭欣宜</a>、<br />
-<a href="../Page/雨僑.md" title="wikilink">雨　僑</a>、<a href="../Page/陳嘉莉.md" title="wikilink">陳嘉莉</a>、<a href="../Page/孫耀威.md" title="wikilink">孫耀威</a>、<br />
-<a href="../Page/郭偉亮.md" title="wikilink">Eric Kwok</a>、<a href="../Page/栢天男.md" title="wikilink">栢天男</a>、<a href="../Page/鄧健泓.md" title="wikilink">鄧健泓</a>、<br />
+<a href="../Page/雨僑.md" title="wikilink">雨　僑</a>、<a href="../Page/陳嘉莉.md" title="wikilink">陳嘉莉</a>、<a href="../Page/郭偉亮.md" title="wikilink">Eric Kwok</a>、<br />
+<a href="../Page/孫耀威.md" title="wikilink">孫耀威</a>、<a href="../Page/栢天男.md" title="wikilink">栢天男</a>、<a href="../Page/鄧健泓.md" title="wikilink">鄧健泓</a>、<br />
 <a href="../Page/蔡瀚億.md" title="wikilink">蔡瀚億</a>、<a href="../Page/鄒文正.md" title="wikilink">鄒文正</a>、<a href="../Page/陳綺雯.md" title="wikilink">陳綺雯</a>、<br />
 <a href="../Page/白健恩.md" title="wikilink">白健恩</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/陳錦強" title="wikilink">陳錦強</a></p></td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;"><p><a href="http://hmvod.hmv.com.hk/zh_hk/drama/1,000/1">網頁</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">

@@ -1,3 +1,5 @@
+[LOFTER_LOGO.png](https://zh.wikipedia.org/wiki/File:LOFTER_LOGO.png "fig:LOFTER_LOGO.png")
+
 **LOFTER**，中文名**乐乎**，是由[网易开发的轻博客服务](../Page/网易.md "wikilink")，目标群体是小众的[文艺青年](https://zh.wikipedia.org/wiki/文艺青年 "wikilink")。
 
 ## 成立
@@ -16,7 +18,7 @@ LOFTER官方介绍页面宣称其为“简单随性的记录工具，凝聚精�
 
 与传统博客时代类似，
 
-LOFTER也像维基百科一样采用了Creative Common协议。\[4\]
+LOFTER为用户提供了将原创内容以[知识共享协议发布的选项](../Page/知识共享.md "wikilink")。\[4\]
 
 ## 初期宣传方式
 

@@ -3,8 +3,8 @@ Hu创建了Lark科技](https://zh.wikipedia.org/wiki/Julia_Hu "wikilink")。\[4\
 
 ## 参考资料
 
-[Category:美国公司](https://zh.wikipedia.org/wiki/Category:美国公司 "wikilink")
-[Category:科技公司](https://zh.wikipedia.org/wiki/Category:科技公司 "wikilink")
+[Category:美国科技公司](https://zh.wikipedia.org/wiki/Category:美国科技公司 "wikilink")
+[Category:2010年成立的公司](https://zh.wikipedia.org/wiki/Category:2010年成立的公司 "wikilink")
 [Category:消費電子產品](https://zh.wikipedia.org/wiki/Category:消費電子產品 "wikilink")
 
 1.

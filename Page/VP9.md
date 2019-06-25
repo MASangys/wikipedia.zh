@@ -46,7 +46,7 @@ Mali移动GPU，并在三星Galaxy S6上进行了演示。
 ## 技術細節
 
 相對於前一代的VP8編碼，VP9做了許多改進：VP9支援32×32的編碼區塊，且將來會擴充到64×64的規格，此外VP9還支援以下的[色彩空間](../Page/色彩空間.md "wikilink")：[Rec.
-601](https://zh.wikipedia.org/wiki/BT.601 "wikilink")、[Rec.
+601](../Page/BT.601.md "wikilink")、[Rec.
 709](https://zh.wikipedia.org/wiki/Rec._709 "wikilink")、Rec.
 2020、SMPTE-170、SMPTE-240和[sRGB](https://zh.wikipedia.org/wiki/sRGB "wikilink")\[16\]\[17\]。
 

@@ -312,7 +312,7 @@
 <td><p><a href="../Page/曹在顯.md" title="wikilink">曹在顯</a>（<a href="../Page/鄭道傳_(電視劇).md" title="wikilink">鄭道傳</a>）</p></td>
 <td><p><a href="../Page/金賢珠.md" title="wikilink">金賢珠</a>（<a href="../Page/家人之間為何這樣.md" title="wikilink">家人之間為何這樣</a>）</p></td>
 <td><p><a href="../Page/文晸赫.md" title="wikilink">文晸赫</a>（<a href="../Page/戀愛的發現.md" title="wikilink">戀愛的發現</a>）<br />
-<a href="https://zh.wikipedia.org/wiki/李準基" title="wikilink">李準基</a>（<a href="../Page/朝鮮槍手.md" title="wikilink">朝鮮槍手</a>）<br />
+<a href="../Page/李準基.md" title="wikilink">李準基</a>（<a href="../Page/朝鮮槍手.md" title="wikilink">朝鮮槍手</a>）<br />
 <a href="https://zh.wikipedia.org/wiki/金相慶" title="wikilink">金相慶</a>（<a href="../Page/家人之間為何這樣.md" title="wikilink">家人之間為何這樣</a>）<br />
 <a href="../Page/朴英奎.md" title="wikilink">朴英奎</a>（<a href="../Page/鄭道傳_(電視劇).md" title="wikilink">鄭道傳</a>）<br />
 <a href="../Page/崔宰誠.md" title="wikilink">崔宰誠</a>（<a href="../Page/一片丹心蒲公英.md" title="wikilink">一片丹心蒲公英</a>）</p></td>
@@ -1850,7 +1850,7 @@
 </tr>
 <tr class="even">
 <td><p>男子中篇劇優秀演技獎</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李準基" title="wikilink">李準基</a>（<a href="../Page/朝鮮槍手.md" title="wikilink">朝鮮槍手</a>）</p></td>
+<td><p><a href="../Page/李準基.md" title="wikilink">李準基</a>（<a href="../Page/朝鮮槍手.md" title="wikilink">朝鮮槍手</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>女子中篇劇優秀演技獎</p></td>
@@ -1927,7 +1927,7 @@
 <tr class="even">
 <td><p>最佳CP獎</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/金相慶" title="wikilink">金相慶</a>、<a href="../Page/金賢珠.md" title="wikilink">金賢珠</a>（<a href="../Page/家人之間為何這樣.md" title="wikilink">家人之間為何這樣</a>）<br />
-<a href="https://zh.wikipedia.org/wiki/李準基" title="wikilink">李準基</a>、<a href="../Page/南相美.md" title="wikilink">南相美</a>（<a href="../Page/朝鮮槍手.md" title="wikilink">朝鮮槍手</a>）<br />
+<a href="../Page/李準基.md" title="wikilink">李準基</a>、<a href="../Page/南相美.md" title="wikilink">南相美</a>（<a href="../Page/朝鮮槍手.md" title="wikilink">朝鮮槍手</a>）<br />
 <a href="../Page/文晸赫.md" title="wikilink">文晸赫</a>、<a href="https://zh.wikipedia.org/wiki/鄭有美" title="wikilink">鄭有美</a>（<a href="../Page/戀愛的發現.md" title="wikilink">戀愛的發現</a>）<br />
 <a href="https://zh.wikipedia.org/wiki/炯植" title="wikilink">朴炯植</a>、<a href="../Page/南志鉉.md" title="wikilink">南志鉉</a>（<a href="../Page/家人之間為何這樣.md" title="wikilink">家人之間為何這樣</a>）<br />
 <a href="../Page/池昌旭.md" title="wikilink">池昌旭</a>、<a href="https://zh.wikipedia.org/wiki/朴敏英" title="wikilink">朴敏英</a>（<a href="../Page/Healer.md" title="wikilink">Healer</a>）</p></td>
@@ -2376,7 +2376,7 @@
 <tr class="odd">
 <td><p>女子獨幕劇優秀演技獎</p></td>
 <td><p><a href="../Page/李一花.md" title="wikilink">李一花</a>（妈妈的第三次婚姻）<br />
-（<a href="../Page/玉蘭麵屋.md" title="wikilink">玉蘭麵屋</a>）</p></td>
+<a href="../Page/李雪.md" title="wikilink">李雪</a>（<a href="../Page/玉蘭麵屋.md" title="wikilink">玉蘭麵屋</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p>男子新人獎</p></td>

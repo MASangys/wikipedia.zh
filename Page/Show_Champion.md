@@ -854,7 +854,7 @@ Champion**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")�
   - 03.22 - [GOT7](../Page/GOT7.md "wikilink")<sup>1st</sup> - Never
     Ever<sup>1st</sup>
   - 03.29 -
-    [Highlight](https://zh.wikipedia.org/wiki/Highlight_\(韓國組合\) "wikilink")<sup>6th</sup>
+    [Highlight](../Page/Highlight_\(韓國組合\).md "wikilink")<sup>6th</sup>
     - Plz Don't Be Sad<sup>1st</sup>
 
 四月
@@ -1188,31 +1188,41 @@ Champion**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")�
   - 05.29 - [金在奐](../Page/金在奐.md "wikilink")<sup>1st</sup> - Begin
     Again<sup>1st</sup>
 
+六月
+
+  - 06.05 - [AB6IX](../Page/AB6IX.md "wikilink")<sup>1st</sup> -
+    Breathe<sup>1st</sup>
+  - 06.12 - [NCT127](../Page/NCT.md "wikilink")<sup>1st</sup> -
+    Superhuman<sup>1st</sup>
+  - 06.19 - 特輯
+    [宇宙少女](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")<sup>1st</sup>
+    - Boogie Up<sup>1st</sup>
+
 ## 藝人成就
 
-| 等級                                                          | 藝人                                                                             | 統計  | 出道年份 |
-| ----------------------------------------------------------- | ------------------------------------------------------------------------------ | --- | ---- |
-| 1st                                                         | [EXO](../Page/EXO.md "wikilink")                                               | 16次 | 2012 |
-| 2nd                                                         | [TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink")                        | 12次 | 2015 |
-| 3rd                                                         | [Wanna One](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")                | 11次 | 2017 |
-| 4th                                                         | [SHINee](../Page/SHINee.md "wikilink")                                         | 10次 | 2008 |
-| [防彈少年團](../Page/防彈少年團.md "wikilink")                        | 2013                                                                           |     |      |
-| [Red Velvet](../Page/Red_Velvet.md "wikilink")              | 2014                                                                           |     |      |
-| [Seventeen](../Page/Seventeen_\(組合\).md "wikilink")         | 2015                                                                           |     |      |
-| 5th                                                         | [GFRIEND](../Page/GFRIEND.md "wikilink")                                       | 9次  | 2015 |
-| 6th                                                         | |[4minute](../Page/4minute.md "wikilink")                                      | 7次  | 2009 |
-| [CNBLUE](../Page/CNBLUE.md "wikilink")                      | 2010                                                                           |     |      |
-| [INFINITE](../Page/INFINITE.md "wikilink")                  | 2010                                                                           |     |      |
-| [Apink](../Page/Apink.md "wikilink")                        | 2011                                                                           |     |      |
-| 7th                                                         | [BEAST/Highlight](https://zh.wikipedia.org/wiki/Highlight_\(韓國組合\) "wikilink") | 6次  | 2009 |
-| [SISTAR](../Page/SISTAR.md "wikilink")                      | 2010                                                                           |     |      |
-| [B1A4](../Page/B1A4.md "wikilink")                          | 2011                                                                           |     |      |
-| [VIXX](../Page/VIXX.md "wikilink")                          | 2012                                                                           |     |      |
-| [AOA](https://zh.wikipedia.org/wiki/AOA_\(韓國\) "wikilink")  | 2012                                                                           |     |      |
-| 8th                                                         | [Super Junior](../Page/Super_Junior.md "wikilink")                             | 5次  | 2005 |
-| [EXID](https://zh.wikipedia.org/wiki/EXID "wikilink")       | 2012                                                                           |     |      |
-| [BTOB](../Page/BTOB.md "wikilink")                          | 2012                                                                           |     |      |
-| [MAMAMOO](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink") | 2014                                                                           |     |      |
+| 等級                                                          | 藝人                                                              | 統計  | 出道年份 |
+| ----------------------------------------------------------- | --------------------------------------------------------------- | --- | ---- |
+| 1st                                                         | [EXO](../Page/EXO.md "wikilink")                                | 16次 | 2012 |
+| 2nd                                                         | [TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink")         | 12次 | 2015 |
+| 3rd                                                         | [Wanna One](https://zh.wikipedia.org/wiki/Wanna_One "wikilink") | 11次 | 2017 |
+| 4th                                                         | [SHINee](../Page/SHINee.md "wikilink")                          | 10次 | 2008 |
+| [防彈少年團](../Page/防彈少年團.md "wikilink")                        | 2013                                                            |     |      |
+| [Red Velvet](../Page/Red_Velvet.md "wikilink")              | 2014                                                            |     |      |
+| [Seventeen](../Page/Seventeen_\(組合\).md "wikilink")         | 2015                                                            |     |      |
+| 5th                                                         | [GFRIEND](../Page/GFRIEND.md "wikilink")                        | 9次  | 2015 |
+| 6th                                                         | |[4minute](../Page/4minute.md "wikilink")                       | 7次  | 2009 |
+| [CNBLUE](../Page/CNBLUE.md "wikilink")                      | 2010                                                            |     |      |
+| [INFINITE](../Page/INFINITE.md "wikilink")                  | 2010                                                            |     |      |
+| [Apink](../Page/Apink.md "wikilink")                        | 2011                                                            |     |      |
+| 7th                                                         | [BEAST/Highlight](../Page/Highlight_\(韓國組合\).md "wikilink")     | 6次  | 2009 |
+| [SISTAR](../Page/SISTAR.md "wikilink")                      | 2010                                                            |     |      |
+| [B1A4](../Page/B1A4.md "wikilink")                          | 2011                                                            |     |      |
+| [VIXX](../Page/VIXX.md "wikilink")                          | 2012                                                            |     |      |
+| [AOA](https://zh.wikipedia.org/wiki/AOA_\(韓國\) "wikilink")  | 2012                                                            |     |      |
+| 8th                                                         | [Super Junior](../Page/Super_Junior.md "wikilink")              | 5次  | 2005 |
+| [EXID](https://zh.wikipedia.org/wiki/EXID "wikilink")       | 2012                                                            |     |      |
+| [BTOB](../Page/BTOB.md "wikilink")                          | 2012                                                            |     |      |
+| [MAMAMOO](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink") | 2014                                                            |     |      |
 
 | 等級                                                              | 藝人                                         | 歌曲         | 統計 |
 | --------------------------------------------------------------- | ------------------------------------------ | ---------- | -- |

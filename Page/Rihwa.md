@@ -125,7 +125,7 @@ FACTORY](../Page/TOY'S_FACTORY.md "wikilink")。
 
 [Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink")
 [Category:日本創作歌手](https://zh.wikipedia.org/wiki/Category:日本創作歌手 "wikilink")
-[Category:在日韓國-朝鮮人](https://zh.wikipedia.org/wiki/Category:在日韓國-朝鮮人 "wikilink")
+[Category:在日本的韓國人](https://zh.wikipedia.org/wiki/Category:在日本的韓國人 "wikilink")
 [Category:Amuse所屬藝人](https://zh.wikipedia.org/wiki/Category:Amuse所屬藝人 "wikilink")
 [Category:TOY'S_FACTORY旗下藝人](https://zh.wikipedia.org/wiki/Category:TOY'S_FACTORY旗下藝人 "wikilink")
 [Category:北海道出身人物](https://zh.wikipedia.org/wiki/Category:北海道出身人物 "wikilink")

@@ -16,9 +16,7 @@
 ### D06AX 局部用其它抗生素（Other antibiotics for topical use）
 
   -
-    D06AX01
-    [夫西地酸](https://zh.wikipedia.org/wiki/夫西地酸 "wikilink")（Fusidic
-    acid）
+    D06AX01 [夫西地酸](../Page/夫西地酸.md "wikilink")（Fusidic acid）
     D06AX02 [氯霉素](../Page/氯霉素.md "wikilink")（Chloramphenicol）
     D06AX04 [新霉素](../Page/新霉素.md "wikilink")（Neomycin）
     D06AX05 [杆菌肽](../Page/杆菌肽.md "wikilink")（Bacitracin）

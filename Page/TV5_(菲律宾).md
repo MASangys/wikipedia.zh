@@ -5,19 +5,19 @@
 
 ### 地面电视
 
-  - TV5 (VHF频道)
-  - AksyonTV (VHF频道)
+  - 5 (VHF频道)
+  - 5Plus (UHF频道)
 
 ### 有线电视
 
-  - AksyonTV
-  - AksyonTV International (国外播出)
+  - 5Plus
+  - 5Plus International (国外播出)
   - Colours
   - Fox Filipino
     (与[GMA网络聯營](https://zh.wikipedia.org/wiki/GMA网络 "wikilink"))
-  - Hyper
-  - Kapatid TV5 (国外播出)
-  - Weather Information Network
+  - One Sports
+  - Kapatid Channel (国外播出)
+  - One News
 
 ### 电台
 
@@ -26,16 +26,16 @@
 ## 子公司
 
   - Alagang Kapatid Foundation, Inc.
-  - Cignal Digital TV
+  - Cignal
   - CineMabuhay
   - Entertainment5
   - News5
   - PLDT-Smart Foundation
   - Radyo5
-  - Rescue 5
-  - Sports5
-  - Studio 5
-  - Talent 5
+  - Rescue5
+  - ESPN5
+  - Studio5
+  - Talent5
   - Pilipinas Global Network Ltd.
 
 ## 参考文献

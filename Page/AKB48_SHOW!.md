@@ -1182,8 +1182,7 @@ NMB48成员[白間美瑠与成员聊天并为成员绘制](../Page/白間美瑠.
   - [=LOVE](../Page/=LOVE.md "wikilink")：出演《指原
     SHOW\!》（第163集）及部分潜入报导（第202集）等
 
-  - [酷MA萌](https://zh.wikipedia.org/wiki/酷MA萌 "wikilink")：出演第197集“AKB48
-    Team 8的日本全国故乡讲座
+  - [熊本熊](../Page/熊本熊.md "wikilink")：出演第197集“AKB48 Team 8的日本全国故乡讲座
     -[熊本县](https://zh.wikipedia.org/wiki/熊本县 "wikilink")-”
 
   - 首次參與演出時已畢業離團的前成員：[浦野一美](../Page/浦野一美.md "wikilink")（走廊奔跑队7成员，同時也是AKB48与[SDN48前成員](../Page/SDN48.md "wikilink")）、[平嶋夏海](../Page/平嶋夏海.md "wikilink")（走廊奔跑队7成员，AKB48前成員）、[板野友美](../Page/板野友美.md "wikilink")（AKB48前成員）、[前田敦子](../Page/前田敦子.md "wikilink")（AKB48前成員）、[秋元才加](../Page/秋元才加.md "wikilink")（DIVA成员，AKB48前成員）、[増田有華](https://zh.wikipedia.org/wiki/増田有華 "wikilink")（DIVA成员，AKB48前成員）

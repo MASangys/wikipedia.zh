@@ -32,7 +32,7 @@ Entertainment。也傳出Maroo娛樂提出註冊超新星這個名字。
 副主唱</p></td>
 <td><p><a href="../Page/日本.md" title="wikilink">日本</a><a href="../Page/爱知大学.md" title="wikilink">爱知大学经营学系</a><br />
 <a href="../Page/慶熙大學.md" title="wikilink">慶熙大學媒體信息學系</a></p></td>
-<td></td>
+<td><p>Double Ace</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -43,7 +43,7 @@ Entertainment。也傳出Maroo娛樂提出註冊超新星這個名字。
 編舞</p></td>
 <td><p><a href="../Page/首爾藝術大學.md" title="wikilink">首爾藝術大學放送演藝學系</a>（休學）<br />
 庆熙Cyber大学校信息通信学系</p></td>
-<td></td>
+<td><p>Double Ace</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -694,6 +694,15 @@ Rapper</p></td>
 <td style="text-align: left;"><p>第七張日文專輯《<strong>7IRO</strong>》</p>
 <ul>
 <li>發行日期：2015年9月9日</li>
+<li>語言：日語</li>
+</ul></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><p><strong>1st</strong></p></td>
+<td style="text-align: left;"><p>SUPERNOVA首張日文專輯《<strong>PAPARAZZI</strong>》</p>
+<ul>
+<li>發行日期：2019年8月28日</li>
 <li>語言：日語</li>
 </ul></td>
 <td style="text-align: left;"></td>

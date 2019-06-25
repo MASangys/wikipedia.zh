@@ -1,10 +1,12 @@
 \-- Module for converting between different representations of numbers.
 See talk page for user documentation. -- For unit tests see:
 [Module:ConvertNumeric/testcases](https://zh.wikipedia.org/wiki/Module:ConvertNumeric/testcases "wikilink")
--- When editing, preview with: Module_talk:ConvertNumeric/testcases --
-First edit
-[Module:ConvertNumeric/sandbox](https://zh.wikipedia.org/wiki/Module:ConvertNumeric/sandbox "wikilink")
-and preview with Module_talk:ConvertNumeric/sandbox/testcases
+-- When editing, preview with:
+[Module_talk:ConvertNumeric/testcases](https://zh.wikipedia.org/wiki/Module_talk:ConvertNumeric/testcases "wikilink")
+-- First, edit
+[Module:ConvertNumeric/sandbox](https://zh.wikipedia.org/wiki/Module:ConvertNumeric/sandbox "wikilink"),
+then preview with
+[Module_talk:ConvertNumeric/sandbox/testcases](https://zh.wikipedia.org/wiki/Module_talk:ConvertNumeric/sandbox/testcases "wikilink")
 
 local ones_position = {
 
@@ -207,6 +209,53 @@ local roman_numerals = {
 
 }
 
+local eng_lt20 = {
+
+`   ['zeroth']      =  0,`
+`   ['first']       =  1,`
+`   ['second']      =  2,`
+`   ['third']       =  3,`
+`   ['fourth']      =  4,`
+`   ['fifth']       =  5,`
+`   ['sixth']       =  6,`
+`   ['seventh']     =  7,`
+`   ['eighth']      =  8,`
+`   ['ninth']       =  9,`
+`   ['tenth']       = 10,`
+`   ['eleventh']    = 11,`
+`   ['twelfth']     = 12,`
+`   ['thirteenth']  = 13,`
+`   ['fourteenth']  = 14,`
+`   ['fifteenth']   = 15,`
+`   ['sixteenth']   = 16,`
+`   ['seventeenth'] = 17,`
+`   ['eighteenth']  = 18,`
+`   ['nineteenth']  = 19,`
+
+} local eng_tens_end = {
+
+`   ['twentieth']  = 20,`
+`   ['thirtieth']  = 30,`
+`   ['fortieth']   = 40,`
+`   ['fiftieth']   = 50,`
+`   ['sixtieth']   = 60,`
+`   ['seventieth'] = 70,`
+`   ['eightieth']  = 80,`
+`   ['ninetieth']  = 90,`
+
+} local eng_tens_cont = {
+
+`   ['twenty']  = 20,`
+`   ['thirty']  = 30,`
+`   ['forty']   = 40,`
+`   ['fifty']   = 50,`
+`   ['sixty']   = 60,`
+`   ['seventy'] = 70,`
+`   ['eighty']  = 80,`
+`   ['ninety']  = 90,`
+
+}
+
 \-- Converts a given valid roman numeral (and some invalid roman
 numerals) to a number. Returns -1, errorstring on error local function
 roman_to_numeral(roman)
@@ -288,6 +337,34 @@ numeral_to_english_less_1000(num, use_and, ordinal, plural, zero)
 
 end
 
+\-- Converts an English-text ordinal between 'zeroth' and 'ninety-ninth'
+to a number \[0–99\], else -1 local function
+english_to_ordinal(english)
+
+`   local eng = string.lower(english or '')`
+`   `
+`   local eng_lt20 = eng_lt20`
+`   local eng_tens_end = eng_tens_end`
+`   local eng_tens_cont = eng_tens_cont`
+`   `
+`   if eng_lt20[eng] then`
+`       return eng_lt20[eng] --e.g. first -> 1`
+`   elseif eng_tens_end[eng] then`
+`       return eng_tens_end[eng] --e.g. ninetieth -> 90`
+`   else`
+`       local tens, ones = string.match(eng, '^([a-z]+)%-([a-z]+)$')`
+`       if tens and ones then`
+`           local tens_cont = eng_tens_cont[tens]`
+`           local ones_end  = eng_lt20[ones]`
+`           if tens_cont and ones_end then`
+`               return tens_cont + ones_end --e.g. ninety-ninth -> 99`
+`           end`
+`       end`
+`   end`
+`   return -1 --failed`
+
+end
+
 \-- Converts a number expressed as a string in scientific notation to a
 string in standard decimal notation -- e.g. 1.23E5 -\> 123000, 1.23E-5 =
 .0000123. Conversion is exact, no rounding is performed. local function
@@ -303,7 +380,6 @@ scientific_notation_to_decimal(num)
 `   local mantissa = num:gsub("^%-?(%d*)%.?(%d*)%-?[Ee][+%-]?%d+$", "%1%2")`
 `   if negative and decimal_pos then decimal_pos = decimal_pos - 1 end`
 `   if not decimal_pos then decimal_pos = #mantissa + 1 end`
-`   local prev_len = #num`
 
 `   -- Remove leading zeros unless decimal point is in first position`
 `   while decimal_pos > 1 and mantissa:sub(1,1) == '0' do`
@@ -366,7 +442,6 @@ towards word limit. local function round_for_english(num, round)
 `   -- If at most two digits before decimal, round to integer and return`
 `   local _, _, small_int, trailing_digits, round_digit = num:find("^%-?(%d?%d?)%.((%d)%d*)$")`
 `   if small_int then`
-`       local small_int_len = #small_int`
 `       if small_int == '' then small_int = '0' end`
 `       if (round == 'up' and trailing_digits:find('[1-9]')) or (round == 'on' and tonumber(round_digit) >= 5) then`
 `           small_int = tostring(tonumber(small_int) + 1)`
@@ -600,12 +675,27 @@ plural, links, negative_word, round, zero, use_one)
 
 end
 
-local p = { -- functions that can be called from another module
+local p = { -- Functions that can be called from another module
 
 `   roman_to_numeral = roman_to_numeral,`
 `   spell_number = _numeral_to_english,`
+`   english_to_ordinal = english_to_ordinal,`
 
 }
+
+function p._roman_to_numeral(frame) -- Callable via
+{{\#invoke:ConvertNumeric|_roman_to_numeral|VI}}
+
+`   return roman_to_numeral(frame.args[1])`
+
+end
+
+function p._english_to_ordinal(frame) -- callable via
+{{\#invoke:ConvertNumeric|_english_to_ordinal|First}}
+
+`   return english_to_ordinal(frame.args[1])`
+
+end
 
 function p.numeral_to_english(frame)
 
@@ -613,6 +703,7 @@ function p.numeral_to_english(frame)
 `   local num = args[1]`
 `   num = num:gsub("^%s*(.-)%s*$", "%1")   -- Trim whitespace`
 `   num = num:gsub(",", "")   -- Remove commas`
+`   num = num:gsub("^<span[^<>]*>`</span>`", "") -- Generated by Template:age`
 `   if num ~= '' then  -- a fraction may have an empty whole number`
 `       if not num:find("^%-?%d*%.?%d*%-?[Ee]?[+%-]?%d*$") then`
 `           -- Input not in a valid format, try to pass it through #expr to see`

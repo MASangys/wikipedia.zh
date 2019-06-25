@@ -466,7 +466,7 @@ JR西日本[都市網路中的路線之一](https://zh.wikipedia.org/wiki/都市
 <td><p>●</p></td>
 <td><p>●</p></td>
 <td><p>西日本旅客鐵道：<a href="https://zh.wikipedia.org/wiki/File:Shinkansen_jrw.svg" title="fig:Shinkansen_jrw.svg">Shinkansen_jrw.svg</a> 山陽新幹線（新神戶[27]）<br />
-阪神電氣鐵道：<a href="https://zh.wikipedia.org/wiki/File:Number_prefix_Hanshin_Railway.png" title="fig:Number_prefix_Hanshin_Railway.png">Number_prefix_Hanshin_Railway.png</a> 神戶高速線（：HS 35）<br />
+阪神電氣鐵道：<a href="https://zh.wikipedia.org/wiki/File:Number_prefix_Hanshin_Railway.png" title="fig:Number_prefix_Hanshin_Railway.png">Number_prefix_Hanshin_Railway.png</a> 神戶高速線（<a href="https://zh.wikipedia.org/wiki/高速神戶站" title="wikilink">高速神戶</a>：HS 35）<br />
 阪急電鐵：神戶高速線（高速神戶：HS 35）<br />
 神戶市營地下鐵：<a href="https://zh.wikipedia.org/wiki/File:Subway_KobeKaigan.svg" title="fig:Subway_KobeKaigan.svg">Subway_KobeKaigan.svg</a> 海岸線（：K04）</p></td>
 <td></td>

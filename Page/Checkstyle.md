@@ -13,7 +13,7 @@ system = [跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink") | langu
 
 **Checkstyle**定义了一组可用的模块，每个模块都提供可配置严格程度的规则（强制性的、可选的等）。每项规则都可以发出通知、警告和错误。例如，Checkstyle可以检查下列问题：
 
-  - 类、属性和方法的；
+  - 类、属性和方法的[Javadoc](../Page/Javadoc.md "wikilink")；
   - 属性和方法的命名规范；
   - 函数参数数量、代码行的长度的限制；
   - 标题是否存在\[2\]；

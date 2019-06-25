@@ -23,7 +23,7 @@
 3.  《[男友制作法](../Page/Team_K_4th_Stage“最终钟声鸣响”.md "wikilink")》 （）
     （作詞：秋元康、作曲：、編曲：百石元）
 4.  《[初戀蝴蝶](../Page/永遠的壓力.md "wikilink")》 （）
-    （作詞：秋元康、作曲：、編曲：生田真心）
+    （作詞：秋元康、作曲：[杉山勝彦](https://zh.wikipedia.org/wiki/杉山勝彦 "wikilink")、編曲：生田真心）
 5.  《[玻璃般的我愛你](../Page/Team_A_2nd_Stage“想见你”.md "wikilink")》 （）
     （作詞：秋元康、作曲：、編曲：Blu）
 6.  《[制服的抵抗](../Page/Team_K_6th_Stage「RESET」.md "wikilink")》 （）

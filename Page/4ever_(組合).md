@@ -1,4 +1,4 @@
-**4ever**是[周子娛樂於](https://zh.wikipedia.org/wiki/周子娛樂 "wikilink")2012年推出的組合，由[孫沁岳](https://zh.wikipedia.org/wiki/孫沁岳 "wikilink")（沁岳）、[簡宏霖](https://zh.wikipedia.org/wiki/簡宏霖 "wikilink")（Jolin）、[李迪恩](https://zh.wikipedia.org/wiki/李迪恩 "wikilink")（迪恩）、[張洛偍組成](https://zh.wikipedia.org/wiki/張洛偍 "wikilink")。2012年6月10日發行首張EP《4ever》，後各自專注於戲劇演出。2018年初，孫沁岳、簡宏霖、李迪恩約滿，孫沁岳前往北京中央戲劇學院進修，重回學生生活。李迪恩於5月入伍服消防替代役，為期一年。簡宏霖於10月爆出與經紀人交惡，雙方在社交平台互掀醜事，2019年1月改用藝名言明澔參與蔡依林《腦公》MV，演出秋生一角。
+**4ever**是[周子娛樂於](../Page/周子娛樂.md "wikilink")2012年推出的組合，由[孫沁岳](https://zh.wikipedia.org/wiki/孫沁岳 "wikilink")（沁岳）、[簡宏霖](https://zh.wikipedia.org/wiki/簡宏霖 "wikilink")（Jolin）、[李迪恩](https://zh.wikipedia.org/wiki/李迪恩 "wikilink")（迪恩）、[張洛偍組成](https://zh.wikipedia.org/wiki/張洛偍 "wikilink")。2012年6月10日發行首張EP《4ever》，後各自專注於戲劇演出。2018年初，孫沁岳、簡宏霖、李迪恩約滿，孫沁岳前往北京中央戲劇學院進修，重回學生生活。李迪恩於5月入伍服消防替代役，為期一年。簡宏霖於10月爆出與經紀人交惡，雙方在社交平台互掀醜事，2019年1月改用藝名言明澔參與蔡依林《腦公》MV，演出秋生一角。
 
 ## 團體沿革
 
@@ -556,7 +556,7 @@
 <td><center>
 <p>小寶</p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/鄭元暢" title="wikilink">鄭元暢</a>、<a href="../Page/張鈞甯.md" title="wikilink">張鈞甯</a>、<a href="../Page/孟耿如.md" title="wikilink">孟耿如</a>、<a href="../Page/邱昊奇.md" title="wikilink">邱昊奇</a></p></td>
+<p><a href="../Page/鄭元暢.md" title="wikilink">鄭元暢</a>、<a href="../Page/張鈞甯.md" title="wikilink">張鈞甯</a>、<a href="../Page/孟耿如.md" title="wikilink">孟耿如</a>、<a href="../Page/邱昊奇.md" title="wikilink">邱昊奇</a></p></td>
 <td><center>
 <p>9-10</p></td>
 <td><center>

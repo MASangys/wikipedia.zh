@@ -17,6 +17,7 @@ LITE 是一隊日本的純音樂樂團。2003 年於東京組成，LITE
   - *For All The Innocence* (2011)
   - *Installation* (2013)
   - *Cubic* (2016)
+  - *Multiple* (2019)
 
 ### 現場錄音專輯 Live appearances
 

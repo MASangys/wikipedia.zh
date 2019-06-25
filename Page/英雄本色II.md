@@ -1,4 +1,4 @@
-《**英雄本色II**》（）是一部1987年上映的[香港電影](https://zh.wikipedia.org/wiki/香港電影 "wikilink")，[吳宇森執導](https://zh.wikipedia.org/wiki/吳宇森 "wikilink")，為《英雄本色三部曲系列》中的第二部。
+《**英雄本色II**》（）是一部1987年上映的[香港電影](https://zh.wikipedia.org/wiki/香港電影 "wikilink")，[吳宇森執導](https://zh.wikipedia.org/wiki/吳宇森 "wikilink")，為《英雄本色系列》中的第二部。
 
 ## 劇情
 

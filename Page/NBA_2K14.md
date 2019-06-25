@@ -58,7 +58,8 @@ Live團隊宣布由[雷霸龍·詹姆士來挑選](https://zh.wikipedia.org/wiki
 
   - [Jay Z](https://zh.wikipedia.org/wiki/Jay_Z "wikilink")－
 
-  - [約翰傳奇](https://zh.wikipedia.org/wiki/約翰傳奇 "wikilink")（feat. ）－
+  - [約翰傳奇](https://zh.wikipedia.org/wiki/約翰傳奇 "wikilink")（feat. [Rick
+    Ross](https://zh.wikipedia.org/wiki/Rick_Ross "wikilink")）－
 
   - [肯伊·威斯特](../Page/肯伊·威斯特.md "wikilink")（feat.
     [蕾哈娜](../Page/蕾哈娜.md "wikilink")）－

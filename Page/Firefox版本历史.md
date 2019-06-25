@@ -5,9 +5,9 @@ Firefox發佈紀錄](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")�
 
 ### 正式發佈版本
 
-:\*Firefox 67.0
+:\*Firefox 67.0.4
 
-:\*Firefox 60.7.0 ESR
+:\*Firefox 60.7.2 ESR
 
 ### 未來發佈版本\[1\]
 
@@ -10040,6 +10040,20 @@ Bay*和*Greenlane*都是[-{zh-tw:紐西蘭;zh-cn:新西兰}-](../Page/新西兰.
 <td></td>
 </tr>
 <tr class="even">
+<td><p>60.7.1esr</p></td>
+<td><p><em>Firefox 60.7.1esr</em></p></td>
+<td><p>2019年6月18日</p></td>
+<td><p><em>ESR版本安全性更新</em>[464]</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>60.7.2esr</p></td>
+<td><p><em>Firefox 60.7.2esr</em></p></td>
+<td><p>2019年6月20日</p></td>
+<td><p><em>ESR版本安全性更新</em>[465]</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><strong>Firefox 61</strong></p></td>
 <td><p>61.0a1</p></td>
 <td><p><em>Firefox 61.0 Nightly</em></p></td>
@@ -10155,21 +10169,21 @@ Bay*和*Greenlane*都是[-{zh-tw:紐西蘭;zh-cn:新西兰}-](../Page/新西兰.
 <td><p>61.0</p></td>
 <td><p><em>Firefox 61.0</em></p></td>
 <td><p>2018年6月26日</p></td>
-<td><p><em>官方版Firefox 61.0釋出</em>[464]</p></td>
+<td><p><em>官方版Firefox 61.0釋出</em>[466]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>61.0.1</p></td>
 <td><p><em>Firefox 61.0.1</em></p></td>
 <td><p>2018年7月5日</p></td>
-<td><p><em>穩定性更新</em>[465]</p></td>
+<td><p><em>穩定性更新</em>[467]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>61.0.2</p></td>
 <td><p><em>Firefox 61.0.2</em></p></td>
 <td><p>2018年8月8日</p></td>
-<td><p><em>穩定性更新</em>[466]</p></td>
+<td><p><em>穩定性更新</em>[468]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -10331,7 +10345,7 @@ Bay*和*Greenlane*都是[-{zh-tw:紐西蘭;zh-cn:新西兰}-](../Page/新西兰.
 <li>登出 Firefox 账户时询问是否清除同步数据</li>
 <li>Windows 版本支持关机或更新时自动保存浏览会话并在下次启动时恢复</li>
 <li>在汉堡菜单中增加了跟踪保护的开关按钮</li>
-<li>在 macOS 10.14 黑暗模式下自动启用深邃主题。[467][468]</li>
+<li>在 macOS 10.14 黑暗模式下自动启用深邃主题。[469][470]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -10339,21 +10353,21 @@ Bay*和*Greenlane*都是[-{zh-tw:紐西蘭;zh-cn:新西兰}-](../Page/新西兰.
 <td><p>62.0.1</p></td>
 <td><p><em>Firefox 62.0.1</em></p></td>
 <td><p>2018年9月7日</p></td>
-<td><p><em>穩定性更新</em>（僅Android版本）[469]</p></td>
+<td><p><em>穩定性更新</em>（僅Android版本）[471]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>62.0.2</p></td>
 <td><p><em>Firefox 62.0.2</em></p></td>
 <td><p>2018年9月21日</p></td>
-<td><p><em>安全性與穩定性更新</em>[470]</p></td>
+<td><p><em>安全性與穩定性更新</em>[472]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>62.0.3</p></td>
 <td><p><em>Firefox 62.0.3</em></p></td>
 <td><p>2018年10月2日</p></td>
-<td><p><em>安全性與穩定性更新</em>[471]</p></td>
+<td><p><em>安全性與穩定性更新</em>[473]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -10465,28 +10479,28 @@ Bay*和*Greenlane*都是[-{zh-tw:紐西蘭;zh-cn:新西兰}-](../Page/新西兰.
 <td><p>63.0</p></td>
 <td><p><em>Firefox 63.0</em></p></td>
 <td><p>2018年10月23日</p></td>
-<td><p><em>官方版Firefox 63.0釋出</em>[472]</p></td>
+<td><p><em>官方版Firefox 63.0釋出</em>[474]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>63.0.1</p></td>
 <td><p><em>Firefox 63.0.1</em></p></td>
 <td><p>2018年10月31日</p></td>
-<td><p><em>穩定性更新</em>[473]</p></td>
+<td><p><em>穩定性更新</em>[475]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>63.0.2</p></td>
 <td><p><em>Firefox 63.0.2</em></p></td>
 <td><p>2018年11月7日</p></td>
-<td><p><em>穩定性更新</em>（僅Android版本）[474]</p></td>
+<td><p><em>穩定性更新</em>（僅Android版本）[476]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>63.0.3</p></td>
 <td><p><em>Firefox 63.0.3</em></p></td>
 <td><p>2018年11月15日</p></td>
-<td><p><em>穩定性更新</em>[475]</p></td>
+<td><p><em>穩定性更新</em>[477]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -10605,21 +10619,21 @@ Bay*和*Greenlane*都是[-{zh-tw:紐西蘭;zh-cn:新西兰}-](../Page/新西兰.
 <td><p>64.0</p></td>
 <td><p><em>Firefox 64.0</em></p></td>
 <td><p>2018年12月11日</p></td>
-<td><p><em>官方版Firefox 64.0釋出</em>[476]</p></td>
+<td><p><em>官方版Firefox 64.0釋出</em>[478]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>64.0.1</p></td>
 <td><p><em>Firefox 64.0.1</em></p></td>
 <td><p>2018年12月14日</p></td>
-<td><p><em>穩定性更新</em>（僅Android版本）[477]</p></td>
+<td><p><em>穩定性更新</em>（僅Android版本）[479]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>64.0.2</p></td>
 <td><p><em>Firefox 64.0.2</em></p></td>
 <td><p>2019年1月9日</p></td>
-<td><p><em>穩定性更新</em>[478]</p></td>
+<td><p><em>穩定性更新</em>[480]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -10717,21 +10731,21 @@ Bay*和*Greenlane*都是[-{zh-tw:紐西蘭;zh-cn:新西兰}-](../Page/新西兰.
 <td><p>65.0</p></td>
 <td><p><em>Firefox 65.0</em></p></td>
 <td><p>2019年1月29日</p></td>
-<td><p><em>官方版Firefox 65.0釋出</em>[479]</p></td>
+<td><p><em>官方版Firefox 65.0釋出</em>[481]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>65.0.1</p></td>
 <td><p><em>Firefox 65.0.1</em></p></td>
 <td><p>2019年2月12日</p></td>
-<td><p><em>穩定性與安全性更新</em>[480]</p></td>
+<td><p><em>穩定性與安全性更新</em>[482]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>65.0.2</p></td>
 <td><p><em>Firefox 65.0.2</em></p></td>
 <td><p>2019年2月28日</p></td>
-<td><p><em>穩定性更新</em>[481]</p></td>
+<td><p><em>穩定性更新</em>[483]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -10850,42 +10864,42 @@ Bay*和*Greenlane*都是[-{zh-tw:紐西蘭;zh-cn:新西兰}-](../Page/新西兰.
 <td><p>66.0</p></td>
 <td><p><em>Firefox 66.0</em></p></td>
 <td><p>2019年3月19日</p></td>
-<td><p><em>官方版Firefox 66.0釋出</em>[482]</p></td>
+<td><p><em>官方版Firefox 66.0釋出</em>[484]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>66.0.1</p></td>
 <td><p><em>Firefox 66.0.1</em></p></td>
 <td><p>2019年3月22日</p></td>
-<td><p><em>安全性更新</em>[483]</p></td>
+<td><p><em>安全性更新</em>[485]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>66.0.2</p></td>
 <td><p><em>Firefox 66.0.2</em></p></td>
 <td><p>2019年3月27日</p></td>
-<td><p><em>穩定性更新</em>[484]</p></td>
+<td><p><em>穩定性更新</em>[486]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>66.0.3</p></td>
 <td><p><em>Firefox 66.0.3</em></p></td>
 <td><p>2019年4月10日</p></td>
-<td><p><em>穩定性更新</em>[485]</p></td>
+<td><p><em>穩定性更新</em>[487]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>66.0.4</p></td>
 <td><p><em>Firefox 66.0.4</em></p></td>
 <td><p>2019年5月5日</p></td>
-<td><p><em>穩定性更新</em>[486]</p></td>
+<td><p><em>穩定性更新</em>[488]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>66.0.5</p></td>
 <td><p><em>Firefox 66.0.5</em></p></td>
 <td><p>2019年5月7日</p></td>
-<td><p><em>穩定性更新</em>[487]</p></td>
+<td><p><em>穩定性更新</em>[489]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -11032,7 +11046,35 @@ Bay*和*Greenlane*都是[-{zh-tw:紐西蘭;zh-cn:新西兰}-](../Page/新西兰.
 <td><p>67.0</p></td>
 <td><p><em>Firefox 67.0</em></p></td>
 <td><p>2019年5月21日</p></td>
-<td><p><em>官方版Firefox 67.0釋出</em>[488]</p></td>
+<td><p><em>官方版Firefox 67.0釋出</em>[490]</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>67.0.1</p></td>
+<td><p><em>Firefox 67.0.1</em></p></td>
+<td><p>2019年6月4日</p></td>
+<td><p><em>穩定性更新</em>[491]</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>67.0.2</p></td>
+<td><p><em>Firefox 67.0.2</em></p></td>
+<td><p>2019年6月11日</p></td>
+<td><p><em>穩定性與安全性更新</em>[492]</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>67.0.3</p></td>
+<td><p><em>Firefox 67.0.3</em></p></td>
+<td><p>2019年6月18日</p></td>
+<td><p><em>安全性更新</em>[493]</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>67.0.4</p></td>
+<td><p><em>Firefox 67.0.4</em></p></td>
+<td><p>2019年6月20日</p></td>
+<td><p><em>安全性更新</em>[494]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -11050,34 +11092,97 @@ Bay*和*Greenlane*都是[-{zh-tw:紐西蘭;zh-cn:新西兰}-](../Page/新西兰.
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>68.0b4</p></td>
+<td><p><em>Firefox 68.0 Beta 4</em></p></td>
+<td><p>2019年5月23日</p></td>
+<td><p><em>第二個Firefox 68.0測試版</em></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>68.0b5</p></td>
+<td><p><em>Firefox 68.0 Beta 5</em></p></td>
+<td><p>2019年5月28日</p></td>
+<td><p><em>第三個Firefox 68.0測試版</em></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>68.0b6</p></td>
+<td><p><em>Firefox 68.0 Beta 6</em></p></td>
+<td><p>2019年5月31日</p></td>
+<td><p><em>第四個Firefox 68.0測試版</em></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>68.0b7</p></td>
+<td><p><em>Firefox 68.0 Beta 7</em></p></td>
+<td><p>2019年6月4日</p></td>
+<td><p><em>第五個Firefox 68.0測試版</em></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>68.0b8</p></td>
+<td><p><em>Firefox 68.0 Beta 8</em></p></td>
+<td><p>2019年6月7日</p></td>
+<td><p><em>第六個Firefox 68.0測試版</em></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>68.0b9</p></td>
+<td><p><em>Firefox 68.0 Beta 9</em></p></td>
+<td><p>2019年6月11日</p></td>
+<td><p><em>第七個Firefox 68.0測試版</em></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>68.0b10</p></td>
+<td><p><em>Firefox 68.0 Beta 10</em></p></td>
+<td><p>2019年6月14日</p></td>
+<td><p><em>第八個Firefox 68.0測試版</em></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>68.0b11</p></td>
+<td><p><em>Firefox 68.0 Beta 11</em></p></td>
+<td><p>2019年6月18日</p></td>
+<td><p><em>第九個Firefox 68.0測試版</em></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>68.0b12</p></td>
+<td><p><em>Firefox 68.0 Beta 12</em></p></td>
+<td><p>2019年6月20日</p></td>
+<td><p><em>第十個Firefox 68.0測試版</em></p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>68.0</p></td>
 <td><p><em>Firefox 68.0</em></p></td>
 <td><p>2019年7月9日</p></td>
 <td><p><em>官方版Firefox 68.0釋出</em></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>Firefox 69</strong></p></td>
 <td><p>69.0a1</p></td>
 <td><p><em>Firefox 69.0 Nightly</em></p></td>
 <td><p>2019年5月20日</p></td>
 <td><p><em>第一個Firefox 69.0預覽版</em></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>69.0b1</p></td>
 <td><p><em>Firefox 69.0 Beta 1</em></p></td>
 <td><p>2019年7月8日</p></td>
 <td><p><em>第一個Firefox 69.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>69.0</p></td>
 <td><p><em>Firefox 69.0</em></p></td>
 <td><p>2019年9月3日</p></td>
 <td><p><em>官方版Firefox 69.0釋出</em></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -12086,3 +12191,15 @@ Bay*和*Greenlane*都是[-{zh-tw:紐西蘭;zh-cn:新西兰}-](../Page/新西兰.
 487.
 
 488.
+
+489.
+
+490.
+
+491.
+
+492.
+
+493.
+
+494.

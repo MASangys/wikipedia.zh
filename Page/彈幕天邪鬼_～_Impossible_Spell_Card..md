@@ -83,6 +83,9 @@ Rush》（）。製作遊戲僅僅花了兩天時間，其中只有一關，而�
 
 ## 外部連結
 
+  - [steam上的《弾幕アマノジャク 〜 Impossible Spell
+    Card.》](https://store.steampowered.com/app/937570)
+
 [Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink")
 [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
 [Category:2014年电子游戏](https://zh.wikipedia.org/wiki/Category:2014年电子游戏 "wikilink")

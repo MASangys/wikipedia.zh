@@ -15,7 +15,6 @@ Girls](../Page/Brave_Girls.md "wikilink")、[Bigstar](https://zh.wikipedia.org/w
 | 2011 | [Brave Girls](../Page/Brave_Girls.md "wikilink")                      | 브레이브 걸스 | 女團     | 5人   | Fearless    | —       | 五人[韓國流行音樂組合](../Page/韓國流行音樂.md "wikilink")\[4\]                                           |
 | 2012 | [Bigstar](https://zh.wikipedia.org/wiki/Bigstar "wikilink")           | 빅스타     | 男團     | 5名   | Only One    | Feeldog |                                                                                           |
 | 2014 | [朴秀珍](https://zh.wikipedia.org/wiki/朴秀珍\(歌手\) "wikilink")             | 박수진     | 女歌手    | Solo | —           | —       |                                                                                           |
-| 2017 | [金Samuel](https://zh.wikipedia.org/wiki/金Samuel "wikilink")           | 김사무엘    | 男歌手    | Solo | Garnet      | —       |                                                                                           |
 |      |                                                                       |         |        |      |             |         |                                                                                           |
 
 ## 專屬影音
@@ -36,6 +35,7 @@ Girls](../Page/Brave_Girls.md "wikilink")、[Bigstar](https://zh.wikipedia.org/w
       - 裕眞（2011-2017）
       - 蕙蘭（2011-2017）
   - 任夏英（[MIXNINE面試者](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")，[NATURE成員](https://zh.wikipedia.org/wiki/NATURE "wikilink")）
+  - [金Samuel](https://zh.wikipedia.org/wiki/金Samuel "wikilink")（2017-2019）
 
 ## 外部連結
 

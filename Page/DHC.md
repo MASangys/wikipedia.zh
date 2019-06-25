@@ -68,7 +68,7 @@ major_shareholder = | footnotes = }}
   - [DHC 美國](http://www.dhccare.com/)
   - [DHC 韓国](http://www.dhckorea.com/)
   - [DHC 中国](http://www.dhc.net.cn/)
-  - [DHC 台灣](https://www.-%7B27662000%7D-.com.tw/)
+  - [DHC 台灣](https://www.27662000.com.tw/)
       -
 [Category:日本化妆品公司](https://zh.wikipedia.org/wiki/Category:日本化妆品公司 "wikilink")
 [Category:日本化學工業公司](https://zh.wikipedia.org/wiki/Category:日本化學工業公司 "wikilink")

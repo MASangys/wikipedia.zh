@@ -138,16 +138,11 @@ IEEE的主要獎項。
 ## 參見
 
   - [IEEE榮譽獎章](../Page/IEEE榮譽獎章.md "wikilink")
-
   - [IEEE/RSE詹姆斯·克拉克·馬克士威獎章](https://zh.wikipedia.org/wiki/IEEE/RSE詹姆斯·克拉克·馬克士威獎章 "wikilink")
-
   - [IEEE約翰·馮·諾伊曼獎章](../Page/约翰·冯诺依曼奖.md "wikilink")
-
   - [IEEE理察·衛斯里·漢明獎章](../Page/IEEE理察·衛斯里·漢明獎章.md "wikilink")
-
-  -
+  - [IEEE電腦先鋒獎](https://zh.wikipedia.org/wiki/IEEE電腦先鋒獎 "wikilink")
   - [IEEE西澤潤一獎](../Page/IEEE西澤潤一獎.md "wikilink")
-
   - [馬可尼獎](../Page/馬可尼獎.md "wikilink")
 
 ## 參考資料

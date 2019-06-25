@@ -1,10 +1,10 @@
 **С型潜艇**（也称为“**S級潛艇**”）是[蘇聯在](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[第二次世界大戰前向德荷合作的荷蘭船舶建設工程局訂購的潛艇](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")，其設計是以[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[I級潛艇為基本](../Page/I級潛艇.md "wikilink")，因此也等同是蘇聯版的[U艇](https://zh.wikipedia.org/wiki/U艇 "wikilink")，因為這間荷蘭公司其實是德國人為了迴避[第一次世界大戰後簽定的](https://zh.wikipedia.org/wiki/第一次世界大戰 "wikilink")[凡爾賽條約對德國發展潛艇的限制而在荷蘭成立的](https://zh.wikipedia.org/wiki/凡爾賽條約 "wikilink")，此級潛艇由1934年至1948年共建造了27艘，頭一批甚至採用了由德國MAN廠生產的零件。在二战前有17艘完工，17艘战争中完工，还有7艘战前开工战后完工者。战争中损失15艘，有两艘艇获得了近卫艇称号，六艘得到红旗勋章，S-56号获得了这两项荣誉。
 
-## 名稱意思
-
 С型潜艇的本意为“标准艇”，其中，“С”为俄文“Средняя”的首字母。\[1\][俄语罗马化后字母](../Page/俄语罗马化.md "wikilink")“С”对应字母“S”，故该型潜艇也称为“S级潜艇”。苏联有时称也该型潜艇为史達林級\[2\]。
 
 ## 建造
+
+[Shadowgraph_S-56_submarine.svg](https://zh.wikipedia.org/wiki/File:Shadowgraph_S-56_submarine.svg "fig:Shadowgraph_S-56_submarine.svg")
 
 共有五个船坞建造该艇，三个在列宁格勒(\#189, \#194,
 和\#196)，一个在尼古拉耶夫(\#198)一个在高尔基(\#112).太平洋舰队所属的潜艇是预先生产好艇段，由铁路运到亚洲,再在符拉迪沃斯托克的202厂组装。首艇于1935年12月建成，于12月15日首次潜水。次年8月首艇和第二艇开始官方测试，尽管有几项数据没达到要求（如航速慢了半节，只有19.5节）并有一些技术困难，但是苏联海军还是接收了它们。
@@ -15,52 +15,26 @@
 
 ## 基本資料
 
-[C-56_SubMarine.jpg](https://zh.wikipedia.org/wiki/File:C-56_SubMarine.jpg "fig:C-56_SubMarine.jpg")
+[056_-_Wladiwostok_2015_(24399542046).jpg](https://zh.wikipedia.org/wiki/File:056_-_Wladiwostok_2015_\(24399542046\).jpg "fig:056_-_Wladiwostok_2015_(24399542046).jpg")
 
   - 艇長:77.75米
-
-<!-- end list -->
-
   - 艇闊:6.34米
-
-<!-- end list -->
-
   - 艇高:4.04米
-
-<!-- end list -->
-
   - 水面排水量:800噸
-
-<!-- end list -->
-
   - 水下排水量:1,050噸
-
-<!-- end list -->
-
-  - 動力:兩個柴油發動機(各2200匹馬力)+兩個電動機(各550匹馬力)
-
-<!-- end list -->
-
+  - 動力:兩個柴油發動機(各2200匹馬力)+兩個電動機(各550匹馬力)，雙螺旋槳和單方向舵
   - 最快時速:19.5節(水面)，9節(水下)
-
-<!-- end list -->
-
   - 航程:以10.4節可航行9,800海里(水面)，以3節可航行148海里(水下)
-
-<!-- end list -->
-
   - 武裝:艇首6個魚雷管(共可發射12杖魚雷)+1門100毫米口徑艦炮+1門45毫米口徑機炮
-
-<!-- end list -->
-
+  - 高压气箱：9个，1-3在艇尾，4-5在中部剩下的在首部
   - 乘員:45人
 
-<!-- end list -->
-
-  - 高压气箱：9个，1-3在艇尾，4-5在中部剩下的在首部
+## 艇號
 
 ## 實戰
 
+[Soviet_S-1_sea_trials_1936.jpg](https://zh.wikipedia.org/wiki/File:Soviet_S-1_sea_trials_1936.jpg "fig:Soviet_S-1_sea_trials_1936.jpg")
+[058_-_Wladiwostok_2015_(23798929693).jpg](https://zh.wikipedia.org/wiki/File:058_-_Wladiwostok_2015_\(23798929693\).jpg "fig:058_-_Wladiwostok_2015_(23798929693).jpg")
 该级艇在二战中击沉了82,770吨商船并击沉了七艘军舰（包括一艘潜艇），占到了苏联海军潜艇二战击沉吨位的三分之一。
 蘇聯海軍的S級潛艇在第二次世界大戰時進行的其中一次最有名的實戰是在1945年1月30日，當時有一艘德國客輪[古斯特洛夫號載著](https://zh.wikipedia.org/wiki/古斯特洛夫號 "wikilink")10,582名從[拉脫維亞的庫爾蘭](../Page/拉脫維亞.md "wikilink")，[但澤和](../Page/格但斯克.md "wikilink")[東普魯士撤走的德國軍民](../Page/東普魯士.md "wikilink")，當晚一艘蘇聯S級潛艇S-13號在马林斯科艇长指挥下發現了它並向它發射了3杖魚雷把其擊沉，最新估计造成9000人死亡，为航海史上最高的沉船死亡人数。\[3\]
 
@@ -72,7 +46,7 @@
 
 ## S級在中國
 
-[Soviet_S-1_sea_trials_1936.jpg](https://zh.wikipedia.org/wiki/File:Soviet_S-1_sea_trials_1936.jpg "fig:Soviet_S-1_sea_trials_1936.jpg")
+[Модель_подводной_лодки_С-56.JPG](https://zh.wikipedia.org/wiki/File:Модель_подводной_лодки_С-56.JPG "fig:Модель_подводной_лодки_С-56.JPG")
 中國在1954年7月在[青島接收到兩艘S級潛艇](https://zh.wikipedia.org/wiki/青島 "wikilink")，分別改名為"新中國11號"和"新中國12號"。
 
   - 新中國11號(原名S-52號，舷號401)
@@ -98,16 +72,13 @@
 ## 使用國家
 
   -
-<!-- end list -->
-
   -
 ## 相關條目
 
   - [U艇](https://zh.wikipedia.org/wiki/U型潛艇 "wikilink")
-
-<!-- end list -->
-
   - [I級潛艇](../Page/I級潛艇.md "wikilink")
+  - [柴電潛艇](../Page/柴電潛艇.md "wikilink")
+  - [C-56潜水艇博物馆](../Page/C-56潜水艇博物馆.md "wikilink")
 
 ## 注释
 

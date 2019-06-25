@@ -1,5 +1,5 @@
-凱迪拉克STS (Cadillac
-STS)，是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[通用汽車](https://zh.wikipedia.org/wiki/通用汽車 "wikilink")[凱迪拉克所生產的一款大型豪華轿车](../Page/凯迪拉克.md "wikilink")。
+**凱迪拉克STS**（Cadillac
+STS），是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[通用汽車](https://zh.wikipedia.org/wiki/通用汽車 "wikilink")[凱迪拉克所生產的一款大型豪華轿车](../Page/凯迪拉克.md "wikilink")。
 
 ## 規格
 
@@ -24,11 +24,11 @@ STS)，是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[通用汽車
 
 但在車展發表只選擇STS之名。
 
-2005年9月由裕隆通用引進台灣。 2007年紐約車展發表小改款車型。除了外觀改良以外，還有全新開發之3.6升SIDI缸內直噴V6引擎。
-2011年，由於STS與DTS市場定位出現重疊，銷量不佳停產。最後同年年底由採用Epsilon
-II平台的XTS取代；但是實際上的後繼車是2013年發表的第三代CTS。
+2005年9月由裕隆通用引進台灣。
 
-後真正後繼車為Cadillac CT6。
+2007年紐約車展發表小改款車型。除了外觀改良以外，還有全新開發之3.6升SIDI缸內直噴V6引擎。
+
+2011年，由於STS與DTS市場定位出現重疊，銷量不佳停產。最後同年年底由採用Epsilon II平台的XTS取代。
 
 ## STS-V
 
@@ -46,7 +46,7 @@ STS，全名為Seville Touring Sedan，凱迪拉克在21世紀的命名方式跟
 
 ## 外部連結
 
-<http://mobile.autonet.com.tw/cgi-bin/file_view.cgi?b1050224110511>
+  - <http://mobile.autonet.com.tw/cgi-bin/file_view.cgi?b1050224110511>
 
 [Category:2004年面世的汽車](https://zh.wikipedia.org/wiki/Category:2004年面世的汽車 "wikilink")
 [Category:凱迪拉克車輛](https://zh.wikipedia.org/wiki/Category:凱迪拉克車輛 "wikilink")
