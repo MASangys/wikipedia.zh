@@ -30,6 +30,6 @@ Proxy**[縮寫](../Page/縮寫.md "wikilink")**JAP**，旨在协助[匿名使用
   - [JAP官方网站](https://anonymous-proxy-servers.net/)
 
 [Category:匿名網路](https://zh.wikipedia.org/wiki/Category:匿名網路 "wikilink")
-[Category:破网软件](https://zh.wikipedia.org/wiki/Category:破网软件 "wikilink")
+[Category:翻墙软件](https://zh.wikipedia.org/wiki/Category:翻墙软件 "wikilink")
 
 1.  [1](http://www.securityfocus.com/news/6779)

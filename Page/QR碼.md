@@ -142,6 +142,7 @@ QR碼的主要應用的項目可分成四類：
 [Category:條碼](https://zh.wikipedia.org/wiki/Category:條碼 "wikilink")
 [Category:行動電話](https://zh.wikipedia.org/wiki/Category:行動電話 "wikilink")
 [Category:日本發明](https://zh.wikipedia.org/wiki/Category:日本發明 "wikilink")
+[Category:1994年面世](https://zh.wikipedia.org/wiki/Category:1994年面世 "wikilink")
 
 1.
 2.

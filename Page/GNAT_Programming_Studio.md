@@ -6,7 +6,7 @@ System**）是一套[自由授權](https://zh.wikipedia.org/wiki/自由軟體 "w
 Collection來產生可執行的程式碼](../Page/GCC.md "wikilink")。
 
 新近的公開發表版：3.1.0，支援多種程式語言，包括[Ada](../Page/Ada.md "wikilink")、[C](https://zh.wikipedia.org/wiki/C語言 "wikilink")、[C++](../Page/C++.md "wikilink")、[Fortran
-90](https://zh.wikipedia.org/wiki/Fortran#Fortran_90 "wikilink")、[Pascal](https://zh.wikipedia.org/wiki/Pascal "wikilink")、[Perl](../Page/Perl.md "wikilink")、[Python及](../Page/Python.md "wikilink")[Tcl](../Page/Tcl.md "wikilink")。此外也支援如下的檔案型態及格式[Autoconf](../Page/Autoconf.md "wikilink")、[Awk](https://zh.wikipedia.org/wiki/Awk "wikilink")、[Changelog](https://zh.wikipedia.org/wiki/Changelog "wikilink")、[M4](https://zh.wikipedia.org/wiki/M4 "wikilink")、[Makefile](https://zh.wikipedia.org/wiki/Makefile "wikilink")、[GNAT
+90](https://zh.wikipedia.org/wiki/Fortran#Fortran_90 "wikilink")、[Pascal](https://zh.wikipedia.org/wiki/Pascal "wikilink")、[Perl](../Page/Perl.md "wikilink")、[Python及](../Page/Python.md "wikilink")[Tcl](../Page/Tcl.md "wikilink")。此外也支援如下的檔案型態及格式[Autoconf](../Page/Autoconf.md "wikilink")、[Awk](https://zh.wikipedia.org/wiki/Awk "wikilink")、[Changelog](https://zh.wikipedia.org/wiki/Changelog "wikilink")、[M4](../Page/M4.md "wikilink")、[Makefile](https://zh.wikipedia.org/wiki/Makefile "wikilink")、[GNAT
 Project file](https://zh.wikipedia.org/wiki/GNAT "wikilink")、[Shell
 script](https://zh.wikipedia.org/wiki/Shell_script "wikilink")、[Texinfo](https://zh.wikipedia.org/wiki/Texinfo "wikilink")。
 

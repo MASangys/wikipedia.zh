@@ -109,7 +109,6 @@ Centroliner之一，其後於2007年與另外兩部同款巴士一併調至屯�
 
   - Series 3
 
-[green_bus.jpg](https://zh.wikipedia.org/wiki/File:green_bus.jpg "fig:green_bus.jpg")
 2002年下旬，九巴購入30部同樣配備MAN引擎的Centroliner N4426/3，其中10輛採用Voith
 DIWA864.3E四前速波箱（AP133-136、145-146、148、152-153、160），其餘20輛採用ZF
 5HP602波箱。配備ZF波箱的巴士中，車隊編號AP144及AP159更是全球首批配備6前速自動變速系統的城市巴士，該變速系統由ZF

@@ -172,7 +172,7 @@ MAG](../Page/FN_MAG通用機槍.md "wikilink")（[M240](../Page/M240通用機槍
     zh-hant:暴力特區2：極限殺陣;}-](https://zh.wikipedia.org/wiki/暴力街区13：终极 "wikilink")》（Banlieue
     13 - Ultimatum）
   - 2010年—《[-{zh-cn:电锯惊魂3D; zh-tw:奪魂鋸3D;
-    zh-hk:恐懼鬥室3D終極審判;}-](https://zh.wikipedia.org/wiki/奪魂鋸3D "wikilink")》（Saw
+    zh-hk:恐懼鬥室3D終極審判;}-](../Page/奪魂鋸3D.md "wikilink")》（Saw
     3D）：型號為BHI
     PKM，裝上[EOTech全息瞄準鏡並且被馬克](https://zh.wikipedia.org/wiki/全息瞄準鏡 "wikilink")·荷夫曼（哥斯達斯·文迪拿飾演）作為旋轉掃射機槍的陷阱所使用。
   - 2010年—《[-{zh-cn:生化危机4：来生; zh-tw:惡靈古堡4：陰陽界;

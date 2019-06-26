@@ -76,7 +76,6 @@ Atrium），2009年10月改建為精緻豪華酒店[奕居](https://zh.wikipedia
 
 ## 外部連結
 
-  - [香港JW万豪酒店](http://163.fm/Tuv9bYq)
   - [香港JW萬豪酒店](http://www.marriott.com.cn/Channels/globalSites/propertyPage/CHINA/HKGDT)
 
 [Category:金鐘酒店](https://zh.wikipedia.org/wiki/Category:金鐘酒店 "wikilink")

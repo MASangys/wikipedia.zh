@@ -74,7 +74,7 @@ VV2000夜視鏡與以射擊瞄準協助。當瞄準鏡／夜視鏡安裝後，[�
   - 加大[扳機護弓](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")，穿戴上防寒手套仍可快易操作。
   - 改變整體配重平衡；重心位置前移。
   - 可依照需求加裝多种戰術配件，例如[紅點瞄準鏡](https://zh.wikipedia.org/wiki/紅點瞄準鏡 "wikilink")、低倍率放大瞄準鏡、[兩腳架](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")、戰術電筒（tactical
-    flashlight）、、甚至是[榴彈發射器及](https://zh.wikipedia.org/wiki/榴彈發射器 "wikilink")[滅音器](../Page/抑制器.md "wikilink")。
+    flashlight）、[夜視儀](https://zh.wikipedia.org/wiki/夜視儀 "wikilink")、甚至是[榴彈發射器及](https://zh.wikipedia.org/wiki/榴彈發射器 "wikilink")[滅音器](../Page/抑制器.md "wikilink")。
   - 與[M16相同的刺刀架座](../Page/M16突擊步槍.md "wikilink")。
   - 前後準星位置改變，避免了[Rk
     62翻開](../Page/Rk_62突擊步槍.md "wikilink")[氚光夜視照門所出現的問題](../Page/氚.md "wikilink")。
@@ -88,7 +88,7 @@ VV2000夜視鏡與以射擊瞄準協助。當瞄準鏡／夜視鏡安裝後，[�
 Rk 95 TP衍生型為固定槍托的半自動民用型的**Sako
 M92S**，不過使用彈藥被改為採用[北約](https://zh.wikipedia.org/wiki/北約 "wikilink")[5.56
 x
-45毫米彈藥](https://zh.wikipedia.org/wiki/5.56x45_NATO "wikilink")。M92S步槍使用30發裝塑料彈匣，照門被修改為200與400公尺固定兩種射擊距離調整模式，只能半自動射擊，槍管改為四條右旋陰膛線，繞距被修改為185厘米（1：7），不過槍口初速仍然高的驚人，維持在920秒／公尺。
+45毫米彈藥](https://zh.wikipedia.org/wiki/5.56x45_NATO "wikilink")。M92S步槍使用30發裝塑料彈匣，照門被修改為200與400公尺固定兩種射擊距離調整模式，只能半自動射擊，槍管改為四條右旋陰膛線，繞距被修改為185厘米（1：7），不過槍口初速仍然高的驚人，維持在920公尺／秒。
 
 ## 相關條目
 

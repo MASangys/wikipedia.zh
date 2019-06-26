@@ -5,7 +5,7 @@
 随后，[Google在其](../Page/Google.md "wikilink")[博客](../Page/網誌.md "wikilink")“Google
 黑板报”上发布有兩份聲明，第一份是對盗用詞庫表示致歉明白卡\[4\]，第二份則稱[輸入法中包含](https://zh.wikipedia.org/wiki/輸入法 "wikilink")[Google工程師申請的專利](../Page/Google.md "wikilink")。
 
-谷歌拼音輸入法在PC端已經停止更新。2018年6月，下載頁面完全從網站撤下，而檔案則至2019年3月仍未[撤下](https://dl.google.com/pinyin/v2/GooglePinyinInstaller.exe)。用戶在PC上使用已安裝的谷歌拼音輸入法無法登入Google帳號和使用其自動同步功能。
+谷歌拼音輸入法在PC端已經停止更新。2018年6月，下載頁面完全從網站撤下，而檔案則至2019年6月21日仍未[撤下](https://dl.google.com/pinyin/v2/GooglePinyinInstaller.exe)。用戶在PC上使用已安裝的谷歌拼音輸入法無法登入Google帳號和使用其自動同步功能。
 
 ## 版本历史
 
@@ -100,6 +100,20 @@ Google于2011年1月28日推出了谷歌拼音输入法V3.0版，新增了下列
 
   - [谷歌拼音输入法](https://web.archive.org/web/20131220082138/http://www.google.com/intl/zh-CN/ime/pinyin/)
   - [第三方从谷歌拼音输入法Android版移植的Linux版本](http://code.google.com/p/libgooglepinyin/)
+
+## Goole拼音输入法下载链接
+
+<http://dl.google.com/pinyin/v1/GooglePinyinInstaller.exe>
+
+<http://dl.google.com/pinyin/v2/GooglePinyinInstaller.exe>
+
+<http://dl.google.com/pinyin/v3/GooglePinyinInstaller.exe>
+
+<http://dl.google.com/pinyin/v3/GooglePinyinInstaller_x64.exe>
+
+<http://dl.google.com/pinyin/v2/GooglePinyinInstaller_x64.exe>
+
+ 
 
 [Category:Google軟體](https://zh.wikipedia.org/wiki/Category:Google軟體 "wikilink")
 [Category:汉语拼音输入法](https://zh.wikipedia.org/wiki/Category:汉语拼音输入法 "wikilink")

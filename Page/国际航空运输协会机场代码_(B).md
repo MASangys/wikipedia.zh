@@ -386,7 +386,7 @@
 <td><p>BCC</p></td>
 <td></td>
 <td></td>
-<td><p><a href="../Page/阿拉斯加州.md" title="wikilink">阿拉斯加州</a>" "</p></td>
+<td><p><a href="../Page/阿拉斯加州.md" title="wikilink">阿拉斯加州</a>" <a href="../Page/熊溪_(阿拉斯加州).md" title="wikilink">熊溪</a>"</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -869,7 +869,7 @@
 <td><p>BES</p></td>
 <td><p>LFRB</p></td>
 <td><p><a href="../Page/布雷斯特-布列塔尼機場.md" title="wikilink">布雷斯特-布列塔尼機場</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/布列塔尼" title="wikilink">布列塔尼</a><a href="https://zh.wikipedia.org/wiki/布雷斯特_(法國)" title="wikilink">布雷斯特</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/布列塔尼" title="wikilink">布列塔尼</a><a href="../Page/布雷斯特_(法國).md" title="wikilink">布雷斯特</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1212,7 +1212,7 @@
 <td><p>BGQ</p></td>
 <td><p>PAGQ</p></td>
 <td></td>
-<td><p><a href="../Page/阿拉斯加州.md" title="wikilink">阿拉斯加州</a>" "</p></td>
+<td><p><a href="../Page/阿拉斯加州.md" title="wikilink">阿拉斯加州</a>" <a href="../Page/大湖_(阿拉斯加州).md" title="wikilink">大湖</a>"</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1226,7 +1226,7 @@
 <td><p>BGT</p></td>
 <td></td>
 <td></td>
-<td><p><a href="../Page/亞利桑那州.md" title="wikilink">亞利桑那州</a>" "</p></td>
+<td><p><a href="../Page/亞利桑那州.md" title="wikilink">亞利桑那州</a>" <a href="../Page/巴格達_(亞利桑那州).md" title="wikilink">巴格達</a>"</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1618,7 +1618,7 @@
 <td><p>BIY</p></td>
 <td><p>FABE</p></td>
 <td><p>比紹機場</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/東開普省" title="wikilink">東開普省</a><a href="https://zh.wikipedia.org/wiki/比紹" title="wikilink">比紹</a></p></td>
+<td><p><a href="../Page/東開普省.md" title="wikilink">東開普省</a><a href="https://zh.wikipedia.org/wiki/比紹" title="wikilink">比紹</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1806,7 +1806,7 @@
 <tr class="odd">
 <td><p>BJZ</p></td>
 <td><p>LEBZ</p></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/巴達霍斯機場" title="wikilink">巴達霍斯機場</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/埃斯特雷馬杜拉" title="wikilink">埃斯特雷馬杜拉</a><a href="../Page/巴達霍斯.md" title="wikilink">巴達霍斯</a></p></td>
 <td></td>
 </tr>
@@ -2143,14 +2143,14 @@
 <td><p>BLU</p></td>
 <td><p>KBLU</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/加利福尼亞州" title="wikilink">加利福尼亞州</a>" "</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/加利福尼亞州" title="wikilink">加利福尼亞州</a>" <a href="../Page/埃米格蘭特加普_(加利福尼亞州).md" title="wikilink">埃米格蘭特加普</a>"</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>BLV</p></td>
 <td><p>KBLV</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/伊利諾伊州" title="wikilink">伊利諾伊州</a>" "</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/伊利諾伊州" title="wikilink">伊利諾伊州</a>" <a href="../Page/貝爾維爾_(伊利諾伊州).md" title="wikilink">貝爾維爾</a>"</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2885,7 +2885,7 @@
 <td><p>BQI</p></td>
 <td></td>
 <td></td>
-<td><p>" "</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/東卡萬戈區" title="wikilink">東卡萬戈區</a>" "</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -3788,7 +3788,7 @@
 <td><p>BVX</p></td>
 <td><p>KBVX</p></td>
 <td></td>
-<td><p><a href="../Page/阿肯色州.md" title="wikilink">阿肯色州</a>" "</p></td>
+<td><p><a href="../Page/阿肯色州.md" title="wikilink">阿肯色州</a>" <a href="../Page/貝茨維爾_(阿肯色州).md" title="wikilink">貝茨維爾</a>"</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -4180,7 +4180,7 @@
 <td><p>BYI</p></td>
 <td><p>KBYI</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/愛達荷州" title="wikilink">愛達荷州</a>" "</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/愛達荷州" title="wikilink">愛達荷州</a>" <a href="../Page/伯利_(愛達荷州).md" title="wikilink">伯利</a>"</p></td>
 <td></td>
 </tr>
 <tr class="odd">

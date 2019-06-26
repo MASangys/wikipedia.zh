@@ -1145,7 +1145,7 @@
 <td><p>（第23集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/冼燕芳" title="wikilink">冼燕芳</a></p></td>
+<td><p><a href="../Page/冼燕芳.md" title="wikilink">冼燕芳</a></p></td>
 <td><p>冼燕芳</p></td>
 <td><p>喜豐年蛇宴女歌手（第23集）</p></td>
 </tr>

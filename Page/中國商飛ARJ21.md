@@ -121,11 +121,11 @@ ARJ21使用了1960年代[麦克唐纳·道格拉斯轉移的](https://zh.wikiped
 <tr class="even">
 <td><p><a href="../Page/天骄航空.md" title="wikilink">天骄航空</a></p></td>
 <td><p>2019-05-09</p></td>
-<td><p>1</p></td>
+<td><p>2</p></td>
 <td></td>
 <td></td>
 <td></td>
-<td><p>1[52]</p></td>
+<td><p>2[52]</p></td>
 <td></td>
 </tr>
 <tr class="odd">

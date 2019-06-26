@@ -4,14 +4,14 @@
 
 ## 簡介
 
-iPASS一卡通前身是高雄捷運所發行的“一卡通”，起初為高雄捷運公司所營運，隨著一卡通逐步普及至鐵路、公車客運等交通運輸工具和商家小額付款後，為了提升一卡通票證業務服務的應用與擴展，於是成立一卡通票證公司來發行、管理票證業務。一卡通票證公司於2013年12月6日獲[金管會核准設立](https://zh.wikipedia.org/wiki/金管會 "wikilink")，2014年2月13日正式營運，主要股東除了[高雄捷運公司](../Page/高雄捷運公司.md "wikilink")，尚包含[行政院國家發展基金](../Page/行政院國家發展基金.md "wikilink")、[高雄市政府](../Page/高雄市政府.md "wikilink")、[臺南市政府等政府機關](../Page/臺南市政府.md "wikilink")，[聯邦銀行](https://zh.wikipedia.org/wiki/聯邦銀行 "wikilink")、連加網路商業公司（[LINE
+iPASS一卡通前身是[高雄捷運所發行的](../Page/高雄捷運.md "wikilink")“一卡通”，起初為[高雄捷運公司所營運](../Page/高雄捷運公司.md "wikilink")，隨著一卡通逐步普及至鐵路、公車客運等交通運輸工具和商家小額付款後，為了提升一卡通票證業務服務的應用與擴展，於是成立一卡通票證公司來發行、管理票證業務。一卡通票證公司於2013年12月6日獲[金管會核准設立](https://zh.wikipedia.org/wiki/金管會 "wikilink")，2014年2月13日正式營運，主要股東除了高雄捷運公司，尚包含[行政院國家發展基金](../Page/行政院國家發展基金.md "wikilink")、[高雄市政府](../Page/高雄市政府.md "wikilink")、[臺南市政府等政府機關](../Page/臺南市政府.md "wikilink")，[聯邦銀行](https://zh.wikipedia.org/wiki/聯邦銀行 "wikilink")、連加網路商業公司（[LINE
 Pay公司](../Page/LINE_Pay.md "wikilink")）等民間企業。
 
 為了因應電子支付趨勢，一卡通票證公司於2017年7月獲[金管會核准取得兼營電子支付業務許可](https://zh.wikipedia.org/wiki/金管會 "wikilink")，整合電子票證、電子支付業務並與[Line合作發展](https://zh.wikipedia.org/wiki/Line "wikilink")“[LINE
 Pay一卡通](https://zh.wikipedia.org/wiki/LINE_Pay#支付模式 "wikilink")”，提供國內民生消費、交通、政府規費、跨境付款等各項行動支付場域。
 
 一卡通使用的是[RFID技術](https://zh.wikipedia.org/wiki/射頻識別 "wikilink")，並採用[飛利浦的](../Page/飛利浦.md "wikilink")[MIFARE技術架構](https://zh.wikipedia.org/wiki/MIFARE "wikilink")。該技術符合[國際標準](https://zh.wikipedia.org/wiki/國際標準 "wikilink")[ISO
-14443之規範](https://zh.wikipedia.org/wiki/ISO_14443 "wikilink")、以及[中華民國交通部](../Page/中華民國交通部.md "wikilink")《電子票證系統之多功能卡片規劃書第二版》。
+14443之規範](https://zh.wikipedia.org/wiki/ISO_14443 "wikilink")、以及交通部《電子票證系統之多功能卡片規劃書第二版》。
 
 ## 卡片種類
 
@@ -1045,7 +1045,7 @@ Pay一卡通](https://zh.wikipedia.org/wiki/LINE_Pay#支付模式 "wikilink")”
 <!-- end list -->
 
   - [花蓮高工](../Page/國立花蓮高級工業職業學校.md "wikilink")
-  - 慈大附中
+  - [慈大附中](../Page/慈濟大學附屬高級中學.md "wikilink")
 
 <!-- end list -->
 
@@ -1551,7 +1551,7 @@ Snoopy 65週年巡迴特展紀念一卡通</p></td>
 
 <!-- end list -->
 
-  - [大台南公車](../Page/大台南公車.md "wikilink")(府城、四方)
+  - [大台南公車](../Page/大台南公車.md "wikilink")(台南市公車)
   - [屏東縣市區公車](../Page/屏東縣市區公車.md "wikilink")
   - [宜蘭縣市區公車](../Page/宜蘭縣市區公車.md "wikilink")
   - [花蓮縣市區公車](../Page/花蓮縣市區公車.md "wikilink")

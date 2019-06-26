@@ -466,11 +466,6 @@ CRH5型动车组均为8辆编组（而CRH5E则为16辆编组），在重连运�
 
 [Category:阿尔斯通铁路车辆](https://zh.wikipedia.org/wiki/Category:阿尔斯通铁路车辆 "wikilink")
 [Category:中车长客制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车长客制铁路车辆 "wikilink")
-[Category:北京铁路局车辆](https://zh.wikipedia.org/wiki/Category:北京铁路局车辆 "wikilink")
-[Category:哈尔滨铁路局](https://zh.wikipedia.org/wiki/Category:哈尔滨铁路局 "wikilink")
-[Category:中国铁路沈阳局集团有限公司](https://zh.wikipedia.org/wiki/Category:中国铁路沈阳局集团有限公司 "wikilink")
-[Category:西安铁路局](https://zh.wikipedia.org/wiki/Category:西安铁路局 "wikilink")
-[Category:郑州铁路局](https://zh.wikipedia.org/wiki/Category:郑州铁路局 "wikilink")
 [Category:和谐号电力动车组](https://zh.wikipedia.org/wiki/Category:和谐号电力动车组 "wikilink")
 
 1.  [走自主创新之路，做铁路安全卫士](http://home.rails.com.cn/jc/files/wh/wwd01.htm)

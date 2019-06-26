@@ -1,5 +1,5 @@
 **BONES**（****）是日本的一家動畫工作室，由于旗下一些较高水準的动画作品，而受到业内外瞩目。被許多動畫迷視為業界良心。其代表作有《[鋼之鍊金術師](https://zh.wikipedia.org/wiki/鋼之鍊金術師_\(電視動畫\) "wikilink")》、《[交响诗篇](../Page/交响诗篇.md "wikilink")》、《[狼雨](../Page/狼雨.md "wikilink")》、《[櫻蘭高校男公關部](../Page/櫻蘭高校男公關部.md "wikilink")》、《[東京震級8.0](https://zh.wikipedia.org/wiki/東京震級8.0 "wikilink")》、《[血界戰線](../Page/血界戰線.md "wikilink")》、《[文豪Stray
-Dogs](../Page/文豪Stray_Dogs.md "wikilink")》等等。
+Dogs](../Page/文豪Stray_Dogs.md "wikilink")》、《[我的英雄學院](../Page/我的英雄學院.md "wikilink")》等等。
 
 ## 历史
 

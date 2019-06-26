@@ -1,4 +1,4 @@
-**威睿**（）是[戴爾科技旗下一家](https://zh.wikipedia.org/wiki/戴爾科技 "wikilink")[软件](https://zh.wikipedia.org/wiki/电脑软件 "wikilink")[公司](../Page/公司.md "wikilink")，它提供[云计算和](https://zh.wikipedia.org/wiki/云计算 "wikilink")[硬件虚拟化的软件和服务](../Page/硬件虚拟化.md "wikilink")\[1\]\[2\]\[3\]，并号称是第一个商业化的成功的虚拟化的[x86架构](https://zh.wikipedia.org/wiki/x86 "wikilink")\[4\]。公司成立于1998年，VMware的总部设在[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")[帕洛阿尔托](https://zh.wikipedia.org/wiki/帕洛阿尔托 "wikilink")。
+**威睿**（）是[戴爾科技](https://zh.wikipedia.org/wiki/戴爾科技 "wikilink")（[戴爾電腦母公司](https://zh.wikipedia.org/wiki/戴爾電腦 "wikilink")）旗下[软件](https://zh.wikipedia.org/wiki/电脑软件 "wikilink")[公司](../Page/公司.md "wikilink")，提供[云计算和](https://zh.wikipedia.org/wiki/云计算 "wikilink")[硬件虚拟化的软件和服务](../Page/硬件虚拟化.md "wikilink")\[1\]\[2\]\[3\]，并号称是第一个成功商业化的虚拟化[x86架构](https://zh.wikipedia.org/wiki/x86 "wikilink")\[4\]。公司成立于1998年，总部设在美國[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")[帕洛阿尔托](https://zh.wikipedia.org/wiki/帕洛阿尔托 "wikilink")。
 
 ## 歷史
 
@@ -51,7 +51,7 @@ Linux的服务控制平台，使VMware代理可以直接在VMkernel上运行。�
 
 ### VMware vSphere
 
-VMware vSphere，原稱為VMware Infrastructure，是一整套虚拟化应用产品，它包含VMware ESX Server
+VMware vSphere，原稱為VMware Infrastructure，是一整套虚拟化应用产品，包含VMware ESX Server
 4、VMware Virtual Center 4.0、最高支持8路的虚拟对称多处理器（Virtual
 SMP）和VMotion，以及例如VMware HA、VMware
 DRS和VMware统一备份服务等分布式服务。VMware国际公司在2009年4月发布了VMware

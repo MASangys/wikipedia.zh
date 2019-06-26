@@ -3,13 +3,13 @@
 ## 内容
 
 该作新增了四个文明：[法国](https://zh.wikipedia.org/wiki/法国 "wikilink")、[俄罗斯](../Page/俄罗斯.md "wikilink")、[祖鲁](https://zh.wikipedia.org/wiki/祖鲁 "wikilink")、[馬薩依](https://zh.wikipedia.org/wiki/馬薩依 "wikilink")。在战役方面，该作增加了自定义战役编辑器，脚本编辑器等。新增的三个战役：[拿破仑战争](https://zh.wikipedia.org/wiki/拿破仑 "wikilink")、
-[古埃及战争](https://zh.wikipedia.org/wiki/古埃及 "wikilink")。以及一个发生在未来的战争。\[2\]
+[古埃及战争](../Page/古埃及.md "wikilink")。以及一个发生在未来的战争。\[2\]
 
 还有一些改进，包括战争范围，英雄单位，领导等。增加了一批新模型。\[3\]
 
 ## 战役
 
-第一个战役发生在[古埃及](https://zh.wikipedia.org/wiki/古埃及 "wikilink")[法老统治时期](../Page/法老.md "wikilink")。第二个发生在处于[拿破仑扩张战争时期的](https://zh.wikipedia.org/wiki/拿破仑 "wikilink")[俄国](https://zh.wikipedia.org/wiki/俄国 "wikilink")。第三个发生在未来，是[非洲和](../Page/非洲.md "wikilink")[馬薩依部落争取独立的战争](https://zh.wikipedia.org/wiki/馬薩依 "wikilink")。\[4\]\[5\]
+第一个战役发生在[古埃及](../Page/古埃及.md "wikilink")[法老统治时期](../Page/法老.md "wikilink")。第二个发生在处于[拿破仑扩张战争时期的](https://zh.wikipedia.org/wiki/拿破仑 "wikilink")[俄国](https://zh.wikipedia.org/wiki/俄国 "wikilink")。第三个发生在未来，是[非洲和](../Page/非洲.md "wikilink")[馬薩依部落争取独立的战争](https://zh.wikipedia.org/wiki/馬薩依 "wikilink")。\[4\]\[5\]
 
 埃及战役的时间设定为[公元前2183年到](https://zh.wikipedia.org/wiki/公元前2183年 "wikilink")[公元前2152年](https://zh.wikipedia.org/wiki/公元前2152年 "wikilink")，玩家在该战役中将接受许多任务，诸如清剿强盗，清除异教徒，最后去消灭一支与埃及有不共戴天之仇的敌军。
 

@@ -2369,10 +2369,10 @@ DDR2 667/800[19]</p></td>
 
 #### [Core 2移動晶片組](https://zh.wikipedia.org/wiki/Intel_Core_2 "wikilink")
 
-| 晶片組   | 研發代號           | 型號                                    | 南橋              | 發表日期                            | 處理器支援                                                                                                           | 前端匯流排                                | 記憶體類型                      | 最大記憶體                                                                                                | 顯示核心                                                                                               | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") |
+| 晶片組   | 研發代號           | 型號                                    | 南橋              | 發表日期                            | 處理器支援                                                                                                           | 前端匯流排                                | 記憶體類型                      | 最大記憶體(非官方）                                                                                           | 顯示核心                                                                                               | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") |
 | ----- | -------------- | ------------------------------------- | --------------- | ------------------------------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------------ | -------------------------- | ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
-| GL960 | Crestline      | 82960GL (GMCH)                        | ICH8-M          | 2007年5月                         | Celeron M, Pentium Dual-Core                                                                                    | 533 MHz                              | DDR2 533                   | 2 GB                                                                                                 | 整合 [GMA X3100](https://zh.wikipedia.org/wiki/Intel_GMA#GMA_X3100 "wikilink") 顯示核心 （最高400 MHz 3D渲染） | 13.5 W                                              |
-| GM965 | 82965GM (GMCH) | Core 2 Duo                            | 533/800 MHz     | DDR2 533/667                    | 4 GB                                                                                                            | 整合 GMA X3100 顯示核心 （最高500 MHz 3D渲染）   |                            |                                                                                                      |                                                                                                    |                                                     |
+| GL960 | Crestline      | 82960GL (GMCH)                        | ICH8-M          | 2007年5月                         | Celeron M, Pentium Dual-Core                                                                                    | 533 MHz                              | DDR2 533                   | 2 GB（5GB）                                                                                            | 整合 [GMA X3100](https://zh.wikipedia.org/wiki/Intel_GMA#GMA_X3100 "wikilink") 顯示核心 （最高400 MHz 3D渲染） | 13.5 W                                              |
+| GM965 | 82965GM (GMCH) | Core 2 Duo                            | 533/800 MHz     | DDR2 533/667                    | 4 GB（8GB）                                                                                                       | 整合 GMA X3100 顯示核心 （最高500 MHz 3D渲染）   |                            |                                                                                                      |                                                                                                    |                                                     |
 | PM965 | 82965PM (MCH)  | PCI-Express 16×                       | 8 W             |                                 |                                                                                                                 |                                      |                            |                                                                                                      |                                                                                                    |                                                     |
 | GL40  | Cantiga        | 82GL40 (GMCH)                         | ICH9-M          | 2008年9月                         | Core 2 Duo, Celeron, Celeron M, [Pentium Dual-Core](https://zh.wikipedia.org/wiki/Pentium_Dual-Core "wikilink") | 667/800 MHz                          | DDR2 667/800, DDR3 667/800 | 整合 [GMA X4500HD](https://zh.wikipedia.org/wiki/Intel_GMA#GMA_X4500 "wikilink") 顯示核心 （最高380 MHz 3D渲染） | 12 W                                                                                               |                                                     |
 | GS45  | 82GS45 (GMCH)  | Core 2 Duo, Core 2 Extreme, Celeron M | 800/1066 MHz    | DDR2 667/800, DDR3 667/800/1066 | 8 GB                                                                                                            | 整合 GMA X4500HD 顯示核心 （最高533 MHz 3D渲染） |                            |                                                                                                      |                                                                                                    |                                                     |
@@ -2623,9 +2623,11 @@ DDR2 667/800[19]</p></td>
 ICH6-ICH8基础版本均只支援IDE模式，不支援AHCI模式，不能使用NCQ，热插拔等。 ICH9可由BIOS軟體控制AHCI、NCQ。
 ICH10原生支援AHCI、NCQ。 ICH8之後不再支援原生的IDE ATA 接口。
 
-### 5/6/7/8/9/100/200系列晶片組
+## 5/6/7/8/9系列晶片組
 
-#### [Core i系列晶片組](https://zh.wikipedia.org/wiki/Intel_Nehalem "wikilink")
+#### LGA 1156
+
+支援 LGA 1156 (Lynnfield 和 Clarkdale) 處理器的晶片組
 
 <table>
 <thead>
@@ -2635,618 +2637,84 @@ ICH10原生支援AHCI、NCQ。 ICH8之後不再支援原生的IDE ATA 接口。
 <th><p>型號（步進）</p></th>
 <th><p>南橋（類型）</p></th>
 <th><p>發表日期</p></th>
-<th><p>支援處理器插座</p></th>
 <th><p>介面類型</p></th>
 <th><p>介面速度</p></th>
-<th><p>PCI-E通道及版本</p></th>
+<th><p><a href="../Page/PCI_Express.md" title="wikilink">PCIe</a> 通道</p></th>
 <th><p>PCI支持</p></th>
 <th><p><a href="../Page/SATA.md" title="wikilink">SATA</a></p></th>
 <th><p><a href="../Page/USB.md" title="wikilink">USB</a></p></th>
 <th><p>整合式繪圖顯示通道</p></th>
-<th><p>功耗</p></th>
+<th><p><a href="../Page/热设计功耗.md" title="wikilink">功耗</a></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>X58</p></td>
-<td><p>Tylersburg</p></td>
-<td><p>SLGBT (B2)<br />
-SLGMX (B3)<br />
-SLH3M (C2)</p></td>
-<td><p>AC82X58 (IOH)</p></td>
-<td><p>2008年11月</p></td>
-<td><p>LGA 1366</p></td>
-<td><p>QPI</p></td>
-<td><p>6.4 GT/s</p></td>
-<td><p>36 PCI-E 2.0</p></td>
-<td><p>rowspan="5" </p></td>
-<td><p>6個3 Gbit/s接口</p></td>
-<td><p>12個2.0版接口</p></td>
-<td><p>rowspan="2" </p></td>
-<td><p>28.6 W</p></td>
+<td><p>3 Gbit/s</p></td>
+<td><p>2.0</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
-<td><p>P55</p></td>
+<td><p><a href="https://ark.intel.com/content/www/us/en/ark/products/42703/intel-h55-express-chipset.html">2</a><strong><a href="https://ark.intel.com/products/42703">H55</a></strong></p></td>
 <td><p>Ibex Peak</p></td>
+<td><p>SLGZX (B3)</p></td>
+<td><p>BD82H55 (PCH)</p></td>
+<td><p>2010年1月</p></td>
+<td><p><a href="../Page/直接媒體介面.md" title="wikilink">DMI</a></p></td>
+<td><p>2 GB/s</p></td>
+<td><p>6 PCIe 2.0 at 2.5 GT/s</p></td>
+<td><p>rowspan="4" </p></td>
+<td><p>6個</p></td>
+<td><p>12個</p></td>
+<td></td>
+<td><p>5.2 W</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="https://ark.intel.com/products/42690/Intel-P55-Express-Chipset">P55</a></strong></p></td>
 <td><p>SLGWV (B2)<br />
 SLH24 (B3)</p></td>
 <td><p>BD82P55 (PCH)</p></td>
 <td><p>2009年9月</p></td>
-<td><p>LGA 1156</p></td>
-<td><p>DMI</p></td>
-<td><p>2.5 GT/s</p></td>
-<td><p>8 PCI-E 2.0</p></td>
-<td><p>14個2.0版接口</p></td>
-<td><p>4.7 W</p></td>
+<td></td>
+<td><p>4.7 W</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p>H55</p></td>
-<td><p>SLGZX (B3)</p></td>
-<td><p>BD82H55 (PCH)</p></td>
-<td><p>2009年12月</p></td>
-<td><p>6 PCI-E 2.0</p></td>
-<td><p>12個2.0版接口</p></td>
-<td><p>rowspan="3" </p></td>
+<tr class="even">
+<td><p><strong><a href="https://ark.intel.com/products/42700">H57</a></strong></p></td>
+<td><p>SLGZL (B3)</p></td>
+<td><p>BD82H57 (PCH)</p></td>
+<td><p>2010年1月</p></td>
+<td><p>8 PCIe 2.0 at 2.5 GT/s</p></td>
+<td><p>14個</p></td>
+<td><p>rowspan="2" </p></td>
 <td><p>5.2 W</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>H57</p></td>
-<td><p>SLGZL (B3)</p></td>
-<td><p>BD82H57 (PCH)</p></td>
-<td><p>8 PCI-E 2.0</p></td>
-<td><p>14個2.0版接口</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="odd">
-<td><p>Q57</p></td>
+<td><p><strong><a href="https://ark.intel.com/products/42706">Q57</a></strong></p></td>
 <td><p>SLGZW (B3)</p></td>
 <td><p>BD82Q57 (PCH)</p></td>
+<td><p>5.1 W</p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>P67</p></td>
-<td><p>Cougar Point</p></td>
-<td><p>SLH84 (B2)<br />
-SLJ4C (B3)</p></td>
-<td><p>BD82P67 (PCH)</p></td>
-<td><p>2011年1月9日</p></td>
-<td><p>LGA 1155</p></td>
-<td><p>DMI 2.0</p></td>
-<td><p>5 GT/s</p></td>
-<td><p>rowspan="3" </p></td>
-<td><p>2個6 Gbit/s接口，4個3 Gbit/s接口</p></td>
-<td></td>
-<td><p>6.1 W</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>H67</p></td>
-<td><p>SLH82 (B2)<br />
-SLJ49 (B3)</p></td>
-<td><p>BD82H67 (PCH)</p></td>
-<td><p>rowspan="6" </p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>H61</p></td>
-<td><p>SLH83 (B2)<br />
-SLJ4B (B3)</p></td>
-<td><p>BD82H61 (PCH)</p></td>
-<td><p>6 PCI-E 2.0</p></td>
-<td><p>4個3 Gbit/s接口</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Q67</p></td>
-<td><p>SLH85 (B2)<br />
-SLJ4D (B3)</p></td>
-<td><p>BD82Q67 (PCH)</p></td>
-<td><p>2011年2月20日</p></td>
-<td><p>8 PCI-E 2.0</p></td>
-<td><p>rowspan="3" </p></td>
-<td><p>2個6 Gbit/s接口，4個3 Gbit/s接口</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>B65</p></td>
-<td><p>SLH86 (B2)<br />
-SLJ4A (B3)</p></td>
-<td><p>BD82B65 (PCH)</p></td>
-<td><p>1個6 Gbit/s接口，5個3 Gbit/s接口</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Q65</p></td>
-<td><p>SLH99 (B2)<br />
-SLJ4E (B3)</p></td>
-<td><p>BD82Q65 (PCH)</p></td>
-<td><p>2011年第2季</p></td>
-<td><p>12個2.0版接口</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Z68</p></td>
-<td><p>SLHAT (B2)<br />
-SLJ4F (B3)</p></td>
-<td><p>BD82Z68 (PCH)</p></td>
-<td><p>2011年5月11日</p></td>
-<td><p>rowspan="5" </p></td>
-<td><p>2個6 Gbit/s接口，4個3 Gbit/s接口</p></td>
-<td><p>14個2.0版接口</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/Intel_X79.md" title="wikilink">X79</a></p></td>
-<td><p>Patsburg</p></td>
-<td><p>SLJHW(C0)<br />
-SKJN7 (C1)</p></td>
-<td><p>BD82X79 (PCH)</p></td>
-<td><p>2011年11月14日</p></td>
-<td><p>LGA 2011</p></td>
-<td><p>2個6 Gbit/s接口，4個3 Gbit/s接口</p></td>
-<td></td>
-<td><p>7.8 W</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>H77</p></td>
-<td><p>Panther Point</p></td>
-<td><p>SLJ88(C1)</p></td>
-<td><p>BD82H77 (PCH)</p></td>
-<td><p>2012年4月6日</p></td>
-<td><p>LGA 1155</p></td>
-<td><p>4個3.0版接口，10個2.0版接口</p></td>
-<td><p>rowspan="14" </p></td>
-<td><p>6.7 W</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Z77</p></td>
-<td><p>SLJC7(C1)</p></td>
-<td><p>BD82Z77 (PCH)</p></td>
-<td><p>2012年4月8日</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Z75</p></td>
-<td><p>SLJ87(C1)</p></td>
-<td><p>BD82Z75 (PCH)</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Q77</p></td>
-<td><p>SLJ83(C1)</p></td>
-<td><p>BD82Q77 (PCH)</p></td>
-<td><p>2012年5月13日</p></td>
-<td><p>rowspan="3" </p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Q75</p></td>
-<td><p>SLJ84(C1)</p></td>
-<td><p>BD82Q75 (PCH)</p></td>
-<td><p>1個6 Gbit/s接口，5個3 Gbit/s接口</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>B75</p></td>
-<td><p>SLJ85(C1)</p></td>
-<td><p>BD82B75 (PCH)</p></td>
-<td><p>4個3.0版接口，8個2.0版接口</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Z87</p></td>
-<td><p>Lynx Point</p></td>
-<td><p>SR13A(C1)<br />
-SR176(C2)</p></td>
-<td><p>DH82Z87 (PCH)</p></td>
-<td><p>2013年6月</p></td>
-<td><p>LGA 1150</p></td>
-<td><p>rowspan="18" </p></td>
-<td><p>6個6 Gbit/s接口</p></td>
-<td><p>6個3.0版接口，8個2.0版接口</p></td>
-<td><p>4.1 W</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>H87</p></td>
-<td><p>SR139(C1)<br />
-SR175(C2)</p></td>
-<td><p>DH82H87 (PCH)</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>H81</p></td>
-<td><p>SR13B(C1)<br />
-SR177(C2)</p></td>
-<td><p>DH82H81 (PCH)</p></td>
-<td><p>6 PCI-E 2.0</p></td>
-<td><p>2個6 Gbit/s接口，4個3 Gbit/s接口</p></td>
-<td><p>2個3.0版接口，8個2.0版接口</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Q87</p></td>
-<td><p>SR137(C1)<br />
-SR173(C2)</p></td>
-<td><p>DH82Q87 (PCH)</p></td>
-<td><p>8 PCI-E 2.0</p></td>
-<td><p>6個6 Gbit/s接口</p></td>
-<td><p>6個3.0版接口，8個2.0版接口</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Q85</p></td>
-<td><p>SR138(C1)<br />
-SR174(C2)</p></td>
-<td><p>DH82Q85 (PCH)</p></td>
-<td><p>4個6 Gbit/s接口，2個3 Gbit/s接口</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>B85</p></td>
-<td><p>SR13C(C1)<br />
-SR178(C2)</p></td>
-<td><p>DH82B85 (PCH)</p></td>
-<td><p>4個3.0版接口，8個2.0版接口</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Z97</p></td>
-<td><p>Wildcat Point</p></td>
-<td><p>SR1JJ</p></td>
-<td><p>DH82Z97 (PCH)</p></td>
-<td><p>2014年5月</p></td>
-<td><p>6個6 Gbit/s接口</p></td>
-<td><p>6個3.0版接口，8個2.0版接口</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>H97</p></td>
-<td><p>SR1JK</p></td>
-<td><p>DH82H97 (PCH)</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>X99</p></td>
-<td><p>Wellsburg</p></td>
-<td><p>SLKDE (B1)</p></td>
-<td><p>DH82031 (PCH)</p></td>
-<td><p>2014年8月29日</p></td>
-<td><p>LGA 2011-v3</p></td>
-<td><p>10個6 Gbit/s接口</p></td>
-<td></td>
-<td><p>6.5 W</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Z170</p></td>
-<td><p>Sunrise Point</p></td>
-<td><p>SR2C9</p></td>
-<td><p>GL82Z170 (PCH)</p></td>
-<td><p>2015年8月</p></td>
-<td><p>LGA 1151</p></td>
-<td><p>DMI 3.0</p></td>
-<td><p>8 GT/s</p></td>
-<td><p>20 PCI-E 3.0</p></td>
-<td><p>6個6 Gbit/s接口</p></td>
-<td><p>10個3.0版接口，14個2.0版接口</p></td>
-<td><p>rowspan="5" </p></td>
-<td><p>6 W</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Q170</p></td>
-<td><p>SR2C5</p></td>
-<td><p>GL82Q170 (PCH)</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>H170</p></td>
-<td><p>SR2C8</p></td>
-<td><p>GL82H170 (PCH)</p></td>
-<td><p>16 PCI-E 3.0</p></td>
-<td><p>4個6 Gbit/s接口</p></td>
-<td><p>8個3.0版接口，14個2.0版接口</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>B150</p></td>
-<td><p>SR2C7</p></td>
-<td><p>GL82B150 (PCH)</p></td>
-<td><p>8 PCI-E 3.0</p></td>
-<td><p>6個6 Gbit/s接口</p></td>
-<td><p>6個3.0版接口，12個2.0版接口</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>H110</p></td>
-<td><p>SR2CA</p></td>
-<td><p>GL82H110 (PCH)</p></td>
-<td><p>DMI 2.0</p></td>
-<td><p>5 GT/s</p></td>
-<td><p>6 PCI-E 2.0</p></td>
-<td><p>4個6 Gbit/s接口</p></td>
-<td><p>4個3.0版接口，10個2.0版接口</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Z270</p></td>
-<td><p>Union Point</p></td>
-<td><p>SR2WB</p></td>
-<td><p>GL82Z270</p></td>
-<td><p>2017年1月</p></td>
-<td><p>LGA 1151</p></td>
-<td><p>DMI 3.0</p></td>
-<td><p>8 GT/s</p></td>
-<td><p>24 PCI-E 3.0</p></td>
-<td><p>6個6 Gbit/s接口</p></td>
-<td><p>10個3.0版接口，14個2.0版接口</p></td>
-<td><p>rowspan="5" </p></td>
-<td><p>6 W</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Q270</p></td>
-<td><p>SR2WE</p></td>
-<td><p>GL82Q270</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>H270</p></td>
-<td><p>SR2WA</p></td>
-<td><p>GL82H270</p></td>
-<td><p>20 PCI-E 3.0</p></td>
-<td><p>6個6 Gbit/s接口</p></td>
-<td><p>8個3.0版接口，14個2.0版接口</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>B250</p></td>
-<td><p>SR2WC</p></td>
-<td><p>GL82B250</p></td>
-<td><p>12 PCI-E 3.0</p></td>
-<td><p>6個6 Gbit/s接口</p></td>
-<td><p>6個3.0版接口，12個2.0版接口</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3261,11 +2729,6 @@ SR178(C2)</p></td>
 
 摘要：
 
-  - X58 (Tylersburg)
-      - 上一代X48的替代品，支援[LGA
-        1366接口的](https://zh.wikipedia.org/wiki/LGA_1366 "wikilink")[Nehalem與](https://zh.wikipedia.org/wiki/Nehalem "wikilink")[Westmere處理器](https://zh.wikipedia.org/wiki/Westmere "wikilink")，由於處理器已整合傳統北橋中的記憶體控制器，所以原來的北橋MCH更名為IOH，不同於P5x系列，由於PCI-E控制器未被整合，所以通過全新設計的一條高速[QPI介面來連接處理器中的記憶體控制器](https://zh.wikipedia.org/wiki/QPI "wikilink")，支援的最高速度為6.4
-        GT/s。與其搭配的仍為[ICH10南橋](https://zh.wikipedia.org/wiki/I/O路径控制器 "wikilink")，IOH仍通過[DMI介面來連接南橋](https://zh.wikipedia.org/wiki/DMI "wikilink")。同時支援[ATi的](https://zh.wikipedia.org/wiki/ATi "wikilink")[CrossFire和](https://zh.wikipedia.org/wiki/CrossFire "wikilink")[nVIDIA的](https://zh.wikipedia.org/wiki/nVIDIA "wikilink")[SLI](https://zh.wikipedia.org/wiki/SLI "wikilink")，支援最大24GB的[三通道DDR](https://zh.wikipedia.org/wiki/三通道 "wikilink")3
-        800/1066記憶體
   - P55 (Ibex Peak)
       - 上一代P45的替代品，支援[LGA
         1156接口的](../Page/LGA_1156.md "wikilink")[Nehalem處理器](https://zh.wikipedia.org/wiki/Nehalem "wikilink")，由於處理器已整合過去[北橋中的所有功能](https://zh.wikipedia.org/wiki/北橋 "wikilink")，如記憶體控制器與PCI-E控制器（Lynnfield處理器）甚至顯示核心（Clarkdale處理器），傳統意義上的北橋已不存在，所以改為單晶片設計，被稱為[PCH](https://zh.wikipedia.org/wiki/Platform_Controller_Hub "wikilink")，功能相當於過去的[南橋](https://zh.wikipedia.org/wiki/南橋 "wikilink")。類似的PCH不存在需要高連接的設備，所以仍通過[DMI介面來連接到處理器中的原北橋部分](https://zh.wikipedia.org/wiki/DMI "wikilink")，速度為2.5
@@ -3285,93 +2748,34 @@ SR178(C2)</p></td>
       - 上一代Q45的替代品，規格與H57基本相同，支援Flexible Display
         Interface與Braidwood技術，並支援商用的Intel主动管理技术（AMT）6.0。
 
-#### [Core i系列移動晶片組](https://zh.wikipedia.org/wiki/Intel_Nehalem "wikilink")
+#### LGA 1155
+
+支援 LGA 1155 (Sandy Bridge 和 Ivy Bridge) 處理器的晶片組
 
 <table>
 <thead>
 <tr class="header">
 <th><p>晶片組</p></th>
 <th><p>研發代號</p></th>
-<th><p>型號</p></th>
-<th><p>南橋</p></th>
+<th><p>型號（步進）</p></th>
+<th><p>南橋（類型）</p></th>
 <th><p>發表日期</p></th>
-<th><p>處理器支援</p></th>
 <th><p>介面類型</p></th>
 <th><p>介面速度</p></th>
-<th><p>PCI-E通道及版本</p></th>
+<th><p><a href="../Page/PCI_Express.md" title="wikilink">PCIe</a> 通道</p></th>
+<th><p><a href="../Page/外设组件互连标准.md" title="wikilink">PCI支持</a></p></th>
 <th><p><a href="../Page/SATA.md" title="wikilink">SATA</a></p></th>
 <th><p><a href="../Page/USB.md" title="wikilink">USB</a></p></th>
 <th><p>整合式繪圖顯示通道</p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/TDP" title="wikilink">TDP</a></p></th>
+<th><p><a href="../Page/热设计功耗.md" title="wikilink">功耗</a></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>PM55</p></td>
-<td><p>Ibex Peak-M</p></td>
-<td><p>SLGWN (B2)<br />
-SLH23 (B3)</p></td>
-<td><p>BD82PM55 (PCH)[22]</p></td>
-<td><p>2009年9月</p></td>
-<td><p>45 nm，32 nm</p></td>
-<td><p>DMI</p></td>
-<td><p>2 GB/s</p></td>
-<td><p>8 PCI-E 2.0</p></td>
-<td><p>6個3 Gbit/s介面</p></td>
-<td><p>14個2.0版接口</p></td>
-<td></td>
-<td><p>3.5 W</p></td>
-</tr>
-<tr class="even">
-<td><p>HM55</p></td>
-<td><p>SLGZS (B3)</p></td>
-<td><p>BD82HM55 (PCH)[23]</p></td>
-<td><p>2010年1月</p></td>
-<td><p>6 PCI-E 2.0</p></td>
-<td><p>4個3 Gbit/s介面</p></td>
-<td><p>12個2.0版接口</p></td>
-<td><p>rowspan="21" </p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>HM57</p></td>
-<td><p>SLGZR (B3)</p></td>
-<td><p>BD82HM57 (PCH)[24]</p></td>
-<td><p>8 PCI-E 2.0</p></td>
-<td><p>6個3 Gbit/s介面</p></td>
-<td><p>14個2.0版接口</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>QM57</p></td>
-<td><p>SLGZQ (B3)</p></td>
-<td><p>BD82QM57 (PCH)[25]</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>QS57</p></td>
-<td><p>SLGZV (B3)</p></td>
-<td><p>BD82QS57 (PCH)[26]</p></td>
-<td><p>3.4 W</p></td>
+<td><p>3 Gbit/s</p></td>
+<td><p>6 Gbit/s</p></td>
+<td><p>2.0</p></td>
+<td><p>3.0</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3383,44 +2787,41 @@ SLH23 (B3)</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>HM65</p></td>
-<td><p>Cougar Point-M</p></td>
-<td><p>SLH9D (B2)<br />
-SLJ4P (B3)</p></td>
-<td><p>BD82HM65 (PCH)[27]</p></td>
-<td><p>2011年1月9日</p></td>
-<td><p>32 nm</p></td>
-<td><p>DMI 2.0</p></td>
-<td><p>4 GB/s</p></td>
-<td><p>2個6 Gbit/s介面，4個3 Gbit/s介面</p></td>
-<td><p>12個2.0版接口</p></td>
-<td><p>3.9 W</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>HM67</p></td>
-<td><p>SLH9C (B2)<br />
-SLJ4N (B3)</p></td>
-<td><p>BD82HM67 (PCH)[28]</p></td>
-<td><p>14個2.0版接口</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>UM67</p></td>
-<td><p>SLH9U(B2)<br />
-SLJ4L(B3)</p></td>
-<td><p>BD82UM67 (PCH)[29]</p></td>
+<td><p><strong><a href="https://ark.intel.com/products/52806">H61</a></strong></p></td>
+<td><p>Cougar Point</p></td>
+<td><p>SLH83(B2) SLJ4B(B3)</p></td>
+<td><p>BD82H61 (PCH)</p></td>
 <td><p>2011年2月20日</p></td>
-<td><p>3.4 W</p></td>
+<td><p>DMI 2.0</p></td>
+<td><p>4 GB/s</p></td>
+<td><p>6 PCIe 2.0</p></td>
+<td></td>
+<td><p>4個</p></td>
+<td></td>
+<td><p>10 個</p></td>
+<td><p>rowspan="7" </p></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="https://ark.intel.com/products/52801">B65</a></strong></p></td>
+<td><p>SLH98(B2) SLJ4A(B3)</p></td>
+<td><p>BD82B65 (PCH)</p></td>
+<td><p>2011年2月25日</p></td>
+<td><p>8 PCIe 2.0</p></td>
+<td><p>rowspan="2" </p></td>
+<td><p>5個</p></td>
+<td><p>1個</p></td>
+<td><p>12個</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="https://ark.intel.com/products/52811">Q65</a></strong></p></td>
+<td><p>SLH99(B2) SLJ4E(B3)</p></td>
+<td><p>BD82Q65 (PCH)</p></td>
+<td><p>2011年第2季</p></td>
+<td><p>14 個</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3431,11 +2832,40 @@ SLJ4L(B3)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>QM67</p></td>
-<td><p>SLH9B (B2)<br />
-SLJ4M (B3)</p></td>
-<td><p>BD82QM67 (PCH)[30]</p></td>
-<td><p>3.9 W</p></td>
+<td><p><strong><a href="https://ark.intel.com/products/52810">P67</a></strong></p></td>
+<td><p>SLH84(B2) SLJ4C (B3)</p></td>
+<td><p>BD82P67 (PCH)</p></td>
+<td><p>2011年1月9日</p></td>
+<td><p>rowspan="2" </p></td>
+<td><p>4個</p></td>
+<td><p>2個</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="https://ark.intel.com/products/52807">H67</a></strong></p></td>
+<td><p>SLH82(B2) SLJ49 (B3)</p></td>
+<td><p>BD82H67 (PCH)</p></td>
+<td><p>rowspan="9" </p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="https://ark.intel.com/products/52812">Q67</a></strong></p></td>
+<td><p>SLH85(B2) SLJ4D(B3)</p></td>
+<td><p>BD82Q67 (PCH)</p></td>
+<td><p>2011年2月20日</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3447,12 +2877,11 @@ SLJ4M (B3)</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>QS67</p></td>
-<td><p>SLHAG (B2)<br />
-SLJ4K (B3)</p></td>
-<td><p>BD82QS67 (PCH)[31]</p></td>
-<td><p>2011月20日</p></td>
-<td><p>3.4 W</p></td>
+<td><p><strong><a href="https://ark.intel.com/products/52816">Z68</a></strong></p></td>
+<td><p>SLJ4F(B3)</p></td>
+<td><p>BD82Z68 (PCH)</p></td>
+<td><p>2011年5月11日</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3463,44 +2892,44 @@ SLJ4K (B3)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>NM70</p></td>
-<td><p>Panther Point-M</p></td>
-<td><p>SLJTA(C1)</p></td>
-<td><p>BD82NM70 (PCH)</p></td>
-<td><p>2012年8月</p></td>
-<td><p>22 nm</p></td>
-<td><p>4 PCI-E 2.0</p></td>
-<td><p>1個6 Gbit/s介面，4個3 Gbit/s介面</p></td>
-<td><p>8個2.0版接口</p></td>
-<td><p>4.1 W</p></td>
-<td></td>
+<td><p><strong><a href="https://ark.intel.com/products/64030">B75</a></strong></p></td>
+<td><p>Panther Point</p></td>
+<td><p>SLJ85(C1)</p></td>
+<td><p>BD82B75 (PCH)</p></td>
+<td><p>2012年5月13日</p></td>
+<td><p>rowspan="2" </p></td>
+<td><p>5個</p></td>
+<td><p>1個</p></td>
+<td><p>4個</p></td>
+<td><p>8個</p></td>
+<td><p>6.7 W</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>HM70</p></td>
-<td><p>SJTNV(C1)</p></td>
-<td><p>BD82HM70 (PCH)[32]</p></td>
+<td><p><strong><a href="https://ark.intel.com/products/64033">Q75</a></strong></p></td>
+<td><p>SLJ84(C1)</p></td>
+<td><p>BD82Q75 (PCH)</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="https://ark.intel.com/products/64021">Z75</a></strong></p></td>
+<td><p>SLJ87(C1)</p></td>
+<td><p>BD82Z75 (PCH)</p></td>
 <td><p>2012年4月8日</p></td>
-<td><p>8 PCI-E 2.0</p></td>
-<td><p>4個3.0版接口，6個2.0版接口</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>HM75</p></td>
-<td><p>SLJ8F(C1)</p></td>
-<td><p>BD82HM75 (PCH)[33]</p></td>
-<td><p>2個6 Gbit/s介面，4個3 Gbit/s介面</p></td>
-<td><p>12個2.0版接口</p></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>rowspan="2" </p></td>
+<td><p>4個</p></td>
+<td><p>2個</p></td>
+<td><p>10個</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3508,10 +2937,10 @@ SLJ4K (B3)</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>HM76</p></td>
-<td><p>SLJ8E(C1)</p></td>
-<td><p>BD82HM76 (PCH)[34]</p></td>
-<td><p>4個3.0版接口，8個2.0版接口</p></td>
+<td><p><strong><a href="https://ark.intel.com/products/64018">H77</a></strong></p></td>
+<td><p>SLJ88(C1)</p></td>
+<td><p>BD82H77 (PCH)</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3523,10 +2952,10 @@ SLJ4K (B3)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>HM77</p></td>
-<td><p>SLJ8C(C1)</p></td>
-<td><p>BD82HM77 (PCH)[35]</p></td>
-<td><p>4個3.0版接口，10個2.0版接口</p></td>
+<td><p><strong><a href="https://ark.intel.com/products/64027">Q77</a></strong></p></td>
+<td><p>SLJ83(C1)</p></td>
+<td><p>BD82Q77 (PCH)</p></td>
+<td><p>2012年5月13日</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3538,105 +2967,12 @@ SLJ4K (B3)</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>UM77</p></td>
-<td><p>SLJ8D(C1)</p></td>
-<td><p>BD82UM77 (PCH)[36]</p></td>
-<td><p>4 PCI-E 2.0</p></td>
-<td><p>1個6 Gbit/s介面，3個3 Gbit/s介面</p></td>
-<td><p>4個3.0版接口，6個2.0版接口</p></td>
-<td><p>3.0 W</p></td>
+<td><p><strong><a href="https://ark.intel.com/products/64024">Z77</a></strong></p></td>
+<td><p>SLJC7(C1)</p></td>
+<td><p>BD82Z77 (PCH)</p></td>
+<td><p>2012年4月8日</p></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>QM77</p></td>
-<td><p>SLJ8A(C1)</p></td>
-<td><p>BD82QM77 (PCH)[37]</p></td>
-<td><p>8 PCI-E 2.0</p></td>
-<td><p>2個6 Gbit/s介面，4個3 Gbit/s介面</p></td>
-<td><p>4個3.0版接口，10個2.0版接口</p></td>
-<td><p>4.1 W</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>QS77</p></td>
-<td><p>SLJ8B(C1)</p></td>
-<td><p>BD82QS77 (PCH)[38]</p></td>
-<td><p>3.0~3.6 W</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>QM87</p></td>
-<td><p>Lynx Point-M</p></td>
-<td><p>SR13G(C1)<br />
-SR17C(C2)</p></td>
-<td><p>DH82QM87 (PCH)</p></td>
-<td><p>2013年6月</p></td>
-<td><p>4個6 Gbit/s介面，2個3 Gbit/s介面</p></td>
-<td><p>6個3.0版接口，8個2.0版接口</p></td>
-<td><p>2.7 W</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>HM87</p></td>
-<td><p>SR13H(C1)<br />
-SR17D(C2)</p></td>
-<td><p>DH82HM87 (PCH)</p></td>
-<td><p>6個3.0版接口，10個2.0版接口</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>HM86</p></td>
-<td><p>SR13J(C1)<br />
-SR17E(C2)</p></td>
-<td><p>DH82HM86 (PCH)</p></td>
-<td><p>5個3.0版接口，10個2.0版接口</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>HM97</p></td>
-<td><p>Wildcat Point-M</p></td>
-<td><p>SR1JN</p></td>
-<td><p>DH82HM97 (PCH)</p></td>
-<td><p>2014年5月</p></td>
-<td><p>6個3.0版接口，10個2.0版接口</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3647,6 +2983,1274 @@ SR17E(C2)</p></td>
 </tr>
 </tbody>
 </table>
+
+#### LGA 1150
+
+支援 LGA 1150 (Haswell 和 Broadwell) 處理器的晶片組
+
+<table>
+<thead>
+<tr class="header">
+<th><p>晶片組</p></th>
+<th><p>研發代號</p></th>
+<th><p>型號（步進）</p></th>
+<th><p>南橋（類型）</p></th>
+<th><p>發表日期</p></th>
+<th><p>介面類型</p></th>
+<th><p>介面速度</p></th>
+<th><p><a href="../Page/PCI_Express.md" title="wikilink">PCIe</a> 通道</p></th>
+<th><p><a href="../Page/X86虚拟化.md" title="wikilink">Intel VT-d</a> 支持</p></th>
+<th><p><a href="../Page/外设组件互连标准.md" title="wikilink">PCI支持</a></p></th>
+<th><p><a href="../Page/SATA.md" title="wikilink">SATA</a></p></th>
+<th><p><a href="../Page/USB.md" title="wikilink">USB</a></p></th>
+<th><p>整合式繪圖顯示通道</p></th>
+<th><p><a href="../Page/热设计功耗.md" title="wikilink">功耗</a></p></th>
+<th><p>PCIe <a href="../Page/M.2.md" title="wikilink">M.2</a> 支持</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>3 Gbit/s</p></td>
+<td><p>6 Gbit/s</p></td>
+<td><p>2.0</p></td>
+<td><p>3.0</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="https://ark.intel.com/products/75016">H81</a></strong></p></td>
+<td><p>Lynx Point</p></td>
+<td><p>SR13B(C1) SR177(C2)</p></td>
+<td><p>DH82H81 (PCH)</p></td>
+<td><p>2013年6月</p></td>
+<td><p>DMI 2.0</p></td>
+<td><p>4 GB/s</p></td>
+<td><p>6 PCIe 2.0</p></td>
+<td><p>rowspan="3" </p></td>
+<td><p>rowspan="8" </p></td>
+<td><p>2個</p></td>
+<td><p>2個</p></td>
+<td><p>8個</p></td>
+<td><p>2個</p></td>
+<td><p>rowspan="8" </p></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="https://ark.intel.com/products/75019">B85</a></strong></p></td>
+<td><p>SR13C(C1) SR178(C2)</p></td>
+<td><p>DH82B85 (PCH)</p></td>
+<td><p>8 PCIe 2.0</p></td>
+<td><p>4個</p></td>
+<td><p>4個</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="https://ark.intel.com/products/75010">Q85</a></strong></p></td>
+<td><p>SR138(C1) SR174(C2)</p></td>
+<td><p>DH82Q85 (PCH)</p></td>
+<td><p>6個</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="https://ark.intel.com/products/75007">Q87</a></strong></p></td>
+<td><p>SR137(C1) SR173(C2)</p>
+<p>SR19E(C2)</p></td>
+<td><p>DH82Q87 (PCH)</p></td>
+<td></td>
+<td><p>rowspan="5" </p></td>
+<td><p>6個</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="https://ark.intel.com/products/75004">H87</a></strong></p></td>
+<td><p>SR139(C1) SR175(C2)</p></td>
+<td><p>DH82H87 (PCH)</p></td>
+<td><p>rowspan="4" </p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="https://ark.intel.com/products/75013">Z87</a></strong></p></td>
+<td><p>SR13A(C1) SR176(C2)</p></td>
+<td><p>DH82Z87 (PCH)</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="https://ark.intel.com/products/82012">Z97</a></strong></p></td>
+<td><p>Wildcat Point</p></td>
+<td><p>SR1JJ(A0)</p></td>
+<td><p>DH82Z97 (PCH)</p></td>
+<td><p>2014年5月</p></td>
+<td><p>rowspan="2" </p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="https://ark.intel.com/products/82010">H97</a></strong></p></td>
+<td><p>SR1JK(A0)</p></td>
+<td><p>DH82H97 (PCH)</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+#### LGA 1366, LGA 2011, LGA 2011-v3
+
+支援 LGA 1366, LGA 2011, LGA 2011-v3 處理器的晶片組
+
+<table>
+<thead>
+<tr class="header">
+<th><p>晶片組</p></th>
+<th><p>研發代號</p></th>
+<th><p>型號（步進）</p></th>
+<th><p>南橋（類型）</p></th>
+<th><p>發表日期</p></th>
+<th><p>插座</p></th>
+<th><p>介面類型</p></th>
+<th><p>介面速度</p></th>
+<th><p><a href="../Page/PCI_Express.md" title="wikilink">PCIe</a> 通道</p></th>
+<th><p><a href="../Page/X86虚拟化.md" title="wikilink">Intel VT-d</a> 支持</p></th>
+<th><p><a href="../Page/外设组件互连标准.md" title="wikilink">PCI支持</a></p></th>
+<th><p><a href="../Page/SATA.md" title="wikilink">SATA</a></p></th>
+<th><p><a href="../Page/USB.md" title="wikilink">USB</a></p></th>
+<th><p>整合式繪圖顯示通道</p></th>
+<th><p><a href="../Page/热设计功耗.md" title="wikilink">功耗</a></p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>3 Gbit/s</p></td>
+<td><p>6 Gbit/s</p></td>
+<td><p>2.0</p></td>
+<td><p>3.0</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="https://ark.intel.com/products/36785/Intel-X58-Express-IO-Hub">X58</a></strong></p></td>
+<td><p>Tylersburg</p></td>
+<td><p>SLGBT (B2) SLGMX (B3)</p>
+<p>SLH3M (C2)</p></td>
+<td><p>AC82X58 (IOH)</p></td>
+<td><p>2008年11月</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/LGA_1366" title="wikilink">LGA 1366</a></p></td>
+<td><p>QPI</p></td>
+<td><p>高逹12.8 GB/s</p></td>
+<td><p>36 PCIe 2.0 @ 5 GT/s (IOH) 6 PCIe 1.1 (ICH)</p></td>
+<td><p>rowspan="3" </p></td>
+<td></td>
+<td><p>6個</p></td>
+<td></td>
+<td><p>12個</p></td>
+<td><p>rowspan="2" </p></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="https://ark.intel.com/products/64015/Intel-X79-Express-Chipset">X79</a></strong></p></td>
+<td><p>Patsburg</p></td>
+<td><p>SLJHW (C0) SLJN7 (C1)</p></td>
+<td><p>BD82X79 (PCH)</p></td>
+<td><p>2011年11月4日</p></td>
+<td><p><a href="../Page/LGA_2011.md" title="wikilink">LGA 2011</a></p></td>
+<td><p>DMI 2.0</p></td>
+<td><p>4 GB/s</p></td>
+<td><p>8 PCIe 2.0</p></td>
+<td><p>rowspan="2" </p></td>
+<td><p>4個</p></td>
+<td><p>2個</p></td>
+<td><p>14個</p></td>
+<td><p>7.8 W</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="https://ark.intel.com/products/81761/Intel-X99-Chipset">X99</a></strong></p></td>
+<td><p>Wellsburg</p></td>
+<td><p>SLKDE (B1) SLKM9 (B1)</p></td>
+<td><p>DH82031PCH (PCH)</p></td>
+<td><p>2014年8月29日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/LGA_2011-v3" title="wikilink">LGA 2011-v3</a></p></td>
+<td></td>
+<td><p>10個</p></td>
+<td><p>8個</p></td>
+<td><p>6個</p></td>
+<td><p>6.5 W</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+摘要：
+
+  - X58 (Tylersburg)
+      - 上一代X48的替代品，支援[LGA
+        1366接口的](https://zh.wikipedia.org/wiki/LGA_1366 "wikilink")[Nehalem與](https://zh.wikipedia.org/wiki/Nehalem "wikilink")[Westmere處理器](https://zh.wikipedia.org/wiki/Westmere "wikilink")，由於處理器已整合傳統北橋中的記憶體控制器，所以原來的北橋MCH更名為IOH，不同於P5x系列，由於PCI-E控制器未被整合，所以通過全新設計的一條高速[QPI介面來連接處理器中的記憶體控制器](https://zh.wikipedia.org/wiki/QPI "wikilink")，支援的最高速度為6.4
+        GT/s。與其搭配的仍為[ICH10南橋](https://zh.wikipedia.org/wiki/I/O路径控制器 "wikilink")，IOH仍通過[DMI介面來連接南橋](https://zh.wikipedia.org/wiki/DMI "wikilink")。同時支援[ATi的](https://zh.wikipedia.org/wiki/ATi "wikilink")[CrossFire和](https://zh.wikipedia.org/wiki/CrossFire "wikilink")[nVIDIA的](https://zh.wikipedia.org/wiki/nVIDIA "wikilink")[SLI](https://zh.wikipedia.org/wiki/SLI "wikilink")，支援最大24GB的[三通道DDR](https://zh.wikipedia.org/wiki/三通道 "wikilink")3
+        800/1066記憶體
+
+#### 移動晶片組
+
+<table>
+<thead>
+<tr class="header">
+<th><p>晶片組</p></th>
+<th><p>研發代號</p></th>
+<th><p>型號（步進）</p></th>
+<th><p>南橋（類型）</p></th>
+<th><p>發表日期</p></th>
+<th><p>工藝支持</p></th>
+<th><p>介面類型</p></th>
+<th><p>介面速度</p></th>
+<th><p><a href="../Page/PCI_Express.md" title="wikilink">PCIe</a> 通道</p></th>
+<th><p><a href="../Page/X86虚拟化.md" title="wikilink">Intel VT-d</a> 支持</p></th>
+<th><p><a href="../Page/SATA.md" title="wikilink">SATA</a></p></th>
+<th><p><a href="../Page/USB.md" title="wikilink">USB</a></p></th>
+<th><p>整合式繪圖顯示通道</p></th>
+<th><p><a href="../Page/热设计功耗.md" title="wikilink">功耗</a></p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>3 Gbit/s</p></td>
+<td><p>6 Gbit/s</p></td>
+<td><p>2.0</p></td>
+<td><p>3.0</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="https://ark.intel.com/products/42694">PM55</a></strong></p></td>
+<td><p>Ibex Peak-M</p></td>
+<td><p>SLGWN(B2) SLH23(B3)</p>
+<p>SLGWP</p></td>
+<td><p>BD82PM55 (PCH)</p></td>
+<td><p>2009年9月</p></td>
+<td><p>45 nm 32 nm</p></td>
+<td><p>DMI</p></td>
+<td><p>2 GB/s</p></td>
+<td><p>8 PCIe 2.0</p></td>
+<td><p>rowspan="5" </p></td>
+<td><p>6個</p></td>
+<td><p>rowspan="5" </p></td>
+<td><p>14個</p></td>
+<td><p>rowspan="11" </p></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="https://ark.intel.com/products/43183">HM55</a></strong></p></td>
+<td><p>SLGZS(B3)</p></td>
+<td><p>BD82HM55 (PCH)</p></td>
+<td><p>2010年1月</p></td>
+<td><p>6 PCIe 2.0</p></td>
+<td><p>4個</p></td>
+<td><p>12個</p></td>
+<td><p>rowspan="21" </p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="https://ark.intel.com/products/43179">HM57</a></strong></p></td>
+<td><p>SLGZR(B3)</p></td>
+<td><p>BD82HM57 (PCH)</p></td>
+<td><p>8 PCIe 2.0</p></td>
+<td><p>6個</p></td>
+<td><p>14個</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="https://ark.intel.com/products/43187">QM57</a></strong></p></td>
+<td><p>SLGZQ(B3)</p></td>
+<td><p>BD82QM57 (PCH)</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="https://ark.intel.com/products/47580">QS57</a></strong></p></td>
+<td><p>SLGZV(B3)</p></td>
+<td><p>BD82QS57 (PCH)</p></td>
+<td><p>3.4 W</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="https://ark.intel.com/products/52808">HM65</a></strong></p></td>
+<td><p>Cougar Point-M</p></td>
+<td><p>SLH9D(B2) SLJ4P(B3)</p></td>
+<td><p>BD82HM65 (PCH)</p></td>
+<td><p>2011年1月9日</p></td>
+<td><p>32 nm</p></td>
+<td><p>DMI 2.0</p></td>
+<td><p>4 GB/s</p></td>
+<td><p>8 PCIe 2.0</p></td>
+<td><p>rowspan="3" </p></td>
+<td><p>4個</p></td>
+<td><p>2個</p></td>
+<td><p>12個</p></td>
+<td><p>3.9 W</p></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="https://ark.intel.com/products/52809">HM67</a></strong></p></td>
+<td><p>SLH9C(B2) SLJ4N(B3)</p></td>
+<td><p>BD82HM67 (PCH)</p></td>
+<td><p>14個</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="https://ark.intel.com/products/52815">UM67</a></strong></p></td>
+<td><p>SLH9U(B2) SLJ4L(B3)</p></td>
+<td><p>BD82UM67 (PCH)</p></td>
+<td><p>2011年2月20日</p></td>
+<td><p>3.4 W</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="https://ark.intel.com/products/52813">QM67</a></strong></p></td>
+<td><p>SLH9B(B2) SLJ4M(B3)</p></td>
+<td><p>BD82QM67 (PCH)</p></td>
+<td><p>rowspan="2" </p></td>
+<td><p>3.9 W</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="https://ark.intel.com/products/52814">QS67</a></strong></p></td>
+<td><p>SLHAG(B2) SLJ4K(B3)</p></td>
+<td><p>BD82QS67 (PCH)</p></td>
+<td><p>3.4 W</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>NM70</p></td>
+<td><p>Panther Point-M</p></td>
+<td><p>SLJTA(C1)</p></td>
+<td><p>BD82NM70 (PCH)</p></td>
+<td><p>2012年8月</p></td>
+<td><p>22 nm</p></td>
+<td><p>4 PCIe 2.0</p></td>
+<td></td>
+<td><p>3個</p></td>
+<td><p>1個</p></td>
+<td><p>8個</p></td>
+<td><p>4.1 W</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="https://ark.intel.com/products/67419">HM70</a></strong></p></td>
+<td><p>SJTNV(C1)</p></td>
+<td><p>BD82HM70 (PCH)</p></td>
+<td><p>2012年4月8日</p></td>
+<td><p>8 PCIe 2.0</p></td>
+<td><p>rowspan="5" </p></td>
+<td><p>4個</p></td>
+<td><p>6個</p></td>
+<td><p>4個</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="https://ark.intel.com/products/64348">HM75</a></strong></p></td>
+<td><p>SLJ8F(C1)</p></td>
+<td><p>BD82HM75 (PCH)</p></td>
+<td><p>2個</p></td>
+<td><p>12個</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="https://ark.intel.com/products/64345">HM76</a></strong></p></td>
+<td><p>SLJ8E(C1)</p></td>
+<td><p>BD82HM76 (PCH)</p></td>
+<td><p>8個</p></td>
+<td><p>4個</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="https://ark.intel.com/products/64342">UM77</a></strong></p></td>
+<td><p>SLJ8D(C1)</p></td>
+<td><p>BD82UM77 (PCH)</p></td>
+<td><p>4 PCIe 2.0</p></td>
+<td><p>3個</p></td>
+<td><p>1個</p></td>
+<td><p>6個</p></td>
+<td><p>3.0 W</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="https://ark.intel.com/products/64339">HM77</a></strong></p></td>
+<td><p>SLJ8C(C1)</p></td>
+<td><p>BD82HM77 (PCH)</p></td>
+<td><p>8 PCIe 2.0</p></td>
+<td><p>4個</p></td>
+<td><p>2個</p></td>
+<td><p>10個</p></td>
+<td><p>4.1 W</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="https://ark.intel.com/products/64333">QM77</a></strong></p></td>
+<td><p>SLJ8A(C1)</p></td>
+<td><p>BD82QM77 (PCH)</p></td>
+<td><p>rowspan="5" </p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="https://ark.intel.com/products/64336">QS77</a></strong></p></td>
+<td><p>SLJ8B(C1)</p></td>
+<td><p>BD82QS77 (PCH)</p></td>
+<td><p>3.0 至 3.6 W</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="https://ark.intel.com/products/75531">HM86</a></strong></p></td>
+<td><p>Lynx Point-M</p></td>
+<td><p>SR13J(C1) SR17E(C2)</p></td>
+<td><p>DH82HM86 (PCH)</p></td>
+<td><p>2013年6月</p></td>
+<td><p>2個</p></td>
+<td><p>4個</p></td>
+<td><p>5個</p></td>
+<td><p>2.7 W</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="https://ark.intel.com/products/75525">QM87</a></strong></p></td>
+<td><p>SR13G(C1) SR17C(C2)</p></td>
+<td><p>DH82QM87 (PCH)</p></td>
+<td><p>8個</p></td>
+<td><p>6個</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="https://ark.intel.com/products/75528">HM87</a></strong></p></td>
+<td><p>SR13H(C1) SR17D(C2)</p></td>
+<td><p>DH82HM87 (PCH)</p></td>
+<td><p>10個</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>HM97</p></td>
+<td><p>Wildcat Point-M</p></td>
+<td><p>SR1JN(A0)</p></td>
+<td><p>DH82HM97 (PCH)</p></td>
+<td><p>2014年5月</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+## 100/200/300系列晶片組
+
+  - 全部均支持 Intel-VTd 及均不支持 PCI
+
+#### LGA 1151 (第一代)
+
+支援 LGA 1151 (Skylake 和 Kaby Lake) 處理器的晶片組
+
+<table>
+<thead>
+<tr class="header">
+<th><p>晶片組</p></th>
+<th><p>研發代號</p></th>
+<th><p>型號（步進）</p></th>
+<th><p>南橋（類型）</p></th>
+<th><p>發表日期</p></th>
+<th><p>介面類型</p></th>
+<th><p>介面速度</p></th>
+<th><p><a href="../Page/PCI_Express.md" title="wikilink">PCIe</a> 通道</p></th>
+<th><p><a href="../Page/SATA.md" title="wikilink">Intel Optane</a> <a href="../Page/SATA.md" title="wikilink">Memory</a> 支持</p></th>
+<th><p><a href="../Page/SATA.md" title="wikilink">SATA</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/SATAe" title="wikilink">SATAe</a></p></th>
+<th><p>PCIe <a href="../Page/M.2.md" title="wikilink">M.2</a></p></th>
+<th><p><a href="../Page/USB.md" title="wikilink">USB</a></p></th>
+<th><p><a href="../Page/热设计功耗.md" title="wikilink">功耗</a></p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>6 Gbit/s</p></td>
+<td><p>3.1 Gen 1</p></td>
+<td><p>3.1 Gen 2</p></td>
+<td><p>總合</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="https://ark.intel.com/products/90590">H110</a></strong></p></td>
+<td><p>Sunrise Point</p></td>
+<td><p>SR2CA(D1) SR286</p></td>
+<td><p>GL82H110 (PCH)</p></td>
+<td><p>2015年9月27日</p></td>
+<td><p>DMI 2.0</p></td>
+<td><p>4.0 GB/s</p></td>
+<td><p>6 PCIe 2.0</p></td>
+<td><p>rowspan="6" </p></td>
+<td><p>4</p></td>
+<td></td>
+<td><p>rowspan="3" </p></td>
+<td><p>最多4個</p></td>
+<td><p>rowspan="11" </p></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="https://ark.intel.com/products/90592">B150</a></strong></p></td>
+<td><p>SR2C7(D1) SR283</p></td>
+<td><p>GL82B150 (PCH)</p></td>
+<td><p>2015年9月1日</p></td>
+<td><p>DMI 3.0</p></td>
+<td><p>7.9 GB/s</p></td>
+<td><p>8 PCIe 3.0</p></td>
+<td><p>6</p></td>
+<td><p>最多1個</p></td>
+<td><p>最多6個</p></td>
+<td><p>最多12個</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="https://ark.intel.com/products/90588">Q150</a></strong></p></td>
+<td><p>SR2C6(D1) SR282</p></td>
+<td><p>GL82Q150 (PCH)</p></td>
+<td><p>2015年第二季</p></td>
+<td><p>10 PCIe 3.0</p></td>
+<td><p>最多2個</p></td>
+<td><p>最多14個</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="https://ark.intel.com/products/90595">H170</a></strong></p></td>
+<td><p>SR2C8(D1) SR284</p></td>
+<td><p>GL82H170 (PCH)</p></td>
+<td><p>2015年9月1日</p></td>
+<td><p>16 PCIe 3.0</p></td>
+<td><p>最多2個</p></td>
+<td><p>最多8個</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="https://ark.intel.com/products/90587">Q170</a></strong></p></td>
+<td><p>SR2C5(D1) SR281</p></td>
+<td><p>GL82Q170 (PCH)</p></td>
+<td><p>2015年10月</p></td>
+<td><p>20 PCIe 3.0</p></td>
+<td><p>最多3個</p></td>
+<td><p>最多3個</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="https://ark.intel.com/products/90591">Z170</a></strong></p></td>
+<td><p>SR2C9(D1) SR285</p></td>
+<td><p>GL82Z170 (PCH)</p></td>
+<td><p>2015年8月</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="https://ark.intel.com/products/98086/">B250</a></strong></p></td>
+<td><p>Union Point</p></td>
+<td><p>SR2WC(A0)</p></td>
+<td><p>GL82B250</p></td>
+<td><p>2017年1月3日</p></td>
+<td><p>12 PCIe 3.0</p></td>
+<td><p>rowspan="5" </p></td>
+<td><p>最多1個</p></td>
+<td><p>最多1個</p></td>
+<td><p>最多6個</p></td>
+<td><p>最多12個</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="https://ark.intel.com/products/98084/">Q250</a></strong></p></td>
+<td><p>SR2WD(A0)</p></td>
+<td><p>GL82Q250</p></td>
+<td><p>14 PCIe 3.0</p></td>
+<td><p>最多8個</p></td>
+<td><p>最多14個</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="https://ark.intel.com/products/98090/">H270</a></strong></p></td>
+<td><p>SR2WA(A0)</p></td>
+<td><p>GL82H270</p></td>
+<td><p>20 PCIe 3.0</p></td>
+<td><p>最多2個</p></td>
+<td><p>最多2個</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="https://ark.intel.com/products/98088/">Q270</a></strong></p></td>
+<td><p>SR2WE(A0)</p></td>
+<td><p>GL82Q270</p></td>
+<td><p>24 PCIe 3.0</p></td>
+<td><p>最多3個</p></td>
+<td><p>最多3個</p></td>
+<td><p>最多10個</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="http://ark.intel.com/products/98089/">Z270</a></strong></p></td>
+<td><p>SR2WB(A0)</p></td>
+<td><p>GL82Z270</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+#### LGA 1151 (第二代)
+
+雖然 Coffee Lake 沿用 Skylake 和Kaby-Lake 的 LGA 1151 插座，但並不相容100及200代的晶片組
+
+支援 LGA 1151 (Skylake 和 Kaby Lake) 處理器的晶片組
+
+<table>
+<thead>
+<tr class="header">
+<th><p>晶片組</p></th>
+<th><p>研發代號</p></th>
+<th><p>型號（步進）</p></th>
+<th><p>南橋（類型）</p></th>
+<th><p>發表日期</p></th>
+<th><p>介面類型</p></th>
+<th><p>介面速度</p></th>
+<th><p><a href="../Page/PCI_Express.md" title="wikilink">PCIe</a> 通道</p></th>
+<th><p><a href="../Page/SATA.md" title="wikilink">Intel Optane</a> <a href="../Page/SATA.md" title="wikilink">Memory</a> 支持</p></th>
+<th><p><a href="../Page/SATA.md" title="wikilink">SATA</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/SATAe" title="wikilink">SATAe</a></p></th>
+<th><p>PCIe <a href="../Page/M.2.md" title="wikilink">M.2</a></p></th>
+<th><p><a href="../Page/USB.md" title="wikilink">USB</a></p></th>
+<th><p><a href="../Page/热设计功耗.md" title="wikilink">功耗</a></p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>6 Gbit/s</p></td>
+<td><p>3.1 Gen 1</p></td>
+<td><p>3.1 Gen 2</p></td>
+<td><p>總合</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="https://ark.intel.com/products/125903">Z370</a></strong></p></td>
+<td><p>Cannon Point</p></td>
+<td><p>SR3MD(A0)</p></td>
+<td><p>GL82Z370</p></td>
+<td><p>2017年10月5日</p></td>
+<td><p>DMI 3.0</p></td>
+<td><p>7.9 GB/s</p></td>
+<td><p>24 PCIe 3.0</p></td>
+<td></td>
+<td><p>6個</p></td>
+<td><p>最多3個</p></td>
+<td><p>最多3個</p></td>
+<td><p>最多10個</p></td>
+<td><p>rowspan="2" </p></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="https://ark.intel.com/products/133348">H310</a></strong></p></td>
+<td><p>SR409(B0) SRCXT(B0)</p>
+<p>SRCXY(B0)</p></td>
+<td><p>?</p></td>
+<td><p>2018年4月3日</p></td>
+<td><p>DMI 2.0</p></td>
+<td><p>4.0 GB/s</p></td>
+<td><p>6 PCIe 2.0</p></td>
+<td></td>
+<td><p>4個</p></td>
+<td></td>
+<td></td>
+<td><p>最多4個</p></td>
+<td><p>最多10個</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="https://ark.intel.com/products/133332">B360</a></strong></p></td>
+<td><p>SR408(B0)</p></td>
+<td><p>DMI 3.0</p></td>
+<td><p>7.9 GB/s</p></td>
+<td><p>12 PCIe 3.0</p></td>
+<td><p>rowspan="5" </p></td>
+<td><p>6個</p></td>
+<td><p>最多1個</p></td>
+<td><p>最多1個</p></td>
+<td><p>最多6個</p></td>
+<td><p>最多4個</p></td>
+<td><p>最多12個</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="https://ark.intel.com/products/189763">B365</a></strong></p></td>
+<td><p>Union Point</p></td>
+<td><p>SREVJ(A0)</p></td>
+<td><p>2018年12月14日</p></td>
+<td><p>20 PCIe 2.0</p></td>
+<td><p>最多2個</p></td>
+<td><p>最多2個</p></td>
+<td><p>最多8個</p></td>
+<td></td>
+<td><p>最多14個</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="https://ark.intel.com/products/133284">H370</a></strong></p></td>
+<td><p>Cannon Point</p></td>
+<td><p>SR405(B0)</p></td>
+<td><p>2018年4月3日</p></td>
+<td><p>最多4個</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="https://ark.intel.com/products/133282">Q370</a></strong></p></td>
+<td><p>SR404(B0)</p></td>
+<td><p>2018年第二季</p></td>
+<td><p>24 PCIe 3.0</p></td>
+<td><p>最多3個</p></td>
+<td><p>最多3個</p></td>
+<td><p>最多10個</p></td>
+<td><p>最多6個</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="https://ark.intel.com/products/133293/">Z390</a></strong></p></td>
+<td><p>SR406(B0)</p></td>
+<td><p>FH82Z390</p></td>
+<td><p>2018年10月8日</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+#### LGA 2066
+
+支援 LGA 2066 (Skylake-X 和 Kaby Lake-X) 處理器的晶片組
+
+<table>
+<thead>
+<tr class="header">
+<th><p>晶片組</p></th>
+<th><p>研發代號</p></th>
+<th><p>型號（步進）</p></th>
+<th><p>南橋（類型）</p></th>
+<th><p>發表日期</p></th>
+<th><p>介面類型</p></th>
+<th><p>介面速度</p></th>
+<th><p><a href="../Page/PCI_Express.md" title="wikilink">PCIe</a> 通道</p></th>
+<th><p><a href="../Page/SATA.md" title="wikilink">SATA</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/SATAe" title="wikilink">SATAe</a></p></th>
+<th><p>PCI-E <a href="../Page/M.2.md" title="wikilink">M.2</a></p></th>
+<th><p><a href="../Page/USB.md" title="wikilink">USB</a></p></th>
+<th><p><a href="../Page/热设计功耗.md" title="wikilink">功耗</a></p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>6 Gbit/s</p></td>
+<td><p>2.0</p></td>
+<td><p>3.0</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="https://ark.intel.com/products/122941">X299</a></strong></p></td>
+<td><p>Basin Falls</p></td>
+<td><p>SR2Z2(A0)</p></td>
+<td><p>GL82X299</p></td>
+<td><p>2017年5月30日</p></td>
+<td><p>DMI 3.0</p></td>
+<td><p>7.9 GB/s</p></td>
+<td><p>24 PCIe 3.0</p></td>
+<td><p>最多8個</p></td>
+<td></td>
+<td></td>
+<td><p>最多14個</p></td>
+<td><p>最多10個</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="https://ark.intel.com/products/126691/Intel-C422-Chipset">C422</a></strong></p></td>
+<td><p>Kaby Lake</p></td>
+<td><p>SR2WG(A0)</p></td>
+<td><p>GL82C422</p></td>
+<td><p>2017年7月11日</p></td>
+<td><p>?</p></td>
+<td><p>?</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="https://ark.intel.com/products/97338/Intel-C621-Chipset">C621</a></strong></p></td>
+<td><p>Lewisburg</p></td>
+<td><p>SR36S(B1) SR354(S0)</p>
+<p>SR3HE(B2)</p>
+<p>SR3HL(S1)</p></td>
+<td><p>EY82C621x</p></td>
+<td><p>UPI</p></td>
+<td><p>?</p></td>
+<td><p>20 PCIe 3.0</p></td>
+<td><p>最多14個</p></td>
+<td><p>?</p></td>
+<td><p>?</p></td>
+<td><p>15 W</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="https://ark.intel.com/products/97340/Intel-C622-Chipset">C622</a></strong></p></td>
+<td><p>SR36X(S0) SR3HK(S1)</p></td>
+<td><p>EY82C622</p></td>
+<td><p>?</p></td>
+<td><p>?</p></td>
+<td><p>?</p></td>
+<td><p>17 W</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="https://ark.intel.com/products/97341/Intel-C624-Chipset">C624</a></strong></p></td>
+<td><p>SR36Y(S0) SR3HM(S1)</p></td>
+<td><p>EY82C624</p></td>
+<td><p>?</p></td>
+<td><p>?</p></td>
+<td><p>?</p></td>
+<td><p>19 W</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="https://ark.intel.com/products/97342/Intel-C625-Chipset">C625</a></strong></p></td>
+<td><p>SR36W(B1) SR3HJ(B2)</p></td>
+<td><p>EY82C625</p></td>
+<td><p>?</p></td>
+<td><p>?</p></td>
+<td><p>?</p></td>
+<td><p>21 W</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="https://ark.intel.com/products/97339/Intel-C626-Chipset">C626</a></strong></p></td>
+<td><p>SR36V(B1) SR3HH(B2)</p></td>
+<td><p>EY82C626</p></td>
+<td><p>?</p></td>
+<td><p>?</p></td>
+<td><p>?</p></td>
+<td><p>23 W</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="https://ark.intel.com/products/97343/Intel-C627-Chipset">C627</a></strong></p></td>
+<td><p>SR36U(B1) SR3HG(B2)</p></td>
+<td><p>EY82C627</p></td>
+<td><p>?</p></td>
+<td><p>?</p></td>
+<td><p>?</p></td>
+<td><p>28.6 W</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="https://ark.intel.com/products/97337/Intel-C628-Chipset">C628</a></strong></p></td>
+<td><p>SR36T(B1) SR3HF(B2)</p></td>
+<td><p>EY82C628</p></td>
+<td><p>?</p></td>
+<td><p>?</p></td>
+<td><p>?</p></td>
+<td><p>26.3 W</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+##### [Xeon](https://zh.wikipedia.org/wiki/Xeon "wikilink") 晶片組
+
+晶片組 C232 不支持處理器內建圖形顯示
+
+| 晶片組                                                                  | 研發代號          | 型號（步進）         | 南橋（類型）         | 發表日期      | 介面類型        | 介面速度     | PCI-E通道及版本 | [SATA](../Page/SATA.md "wikilink") | [SATAe](https://zh.wikipedia.org/wiki/SATAe "wikilink") | PCI-E [M.2](../Page/M.2.md "wikilink") | [USB](../Page/USB.md "wikilink") | [功耗](../Page/热设计功耗.md "wikilink") |
+| -------------------------------------------------------------------- | ------------- | -------------- | -------------- | --------- | ----------- | -------- | ---------- | ---------------------------------- | ------------------------------------------------------- | -------------------------------------- | -------------------------------- | --------------------------------- |
+| 6 Gbit/s                                                             | 2.0           | 3.0            |                |           |             |          |            |                                    |                                                         |                                        |                                  |                                   |
+| **[C232](https://ark.intel.com/products/90578/Intel-GL82C232-PCH)**  | Sunrise Point | SR2CB(D1)      | GL82C232 (PCH) | 2015年9月1日 | DMI 3.0     | 7.9 GB/s | 8 PCIe 3.0 | 6                                  | 最多3個                                                    | 最多3個                                   | 6                                | 最多6個                              |
+| **[C236](https://ark.intel.com/products/90594/Intel-GL82C236-PCH)**  | SR2CC(D1)     | GL82C236 (PCH) | 20 PCIe 3.0    | 8         | 4           | 最多10個    |            |                                    |                                                         |                                        |                                  |                                   |
+| **[C242](https://ark.intel.com/products/147324/Intel-C242-Chipset)** | ?             | SR40C(B0)      | FH82C242       | 2018年11月  | 10 PCIe 3.0 | 6        | ?          | ？                                  | ？                                                       | ？                                      |                                  |                                   |
+| **[C246](https://ark.intel.com/products/147326/Intel-C246-Chipset)** | ?             | SR40A(B0)      | FH82C246       | 2018年7 月  | 24 PCIe 3.0 | 8        | ?          | ？                                  | ？                                                       | ？                                      |                                  |                                   |
+
+#### 移動晶片組
+
+| 晶片組                                                                                      | 研發代號            | 型號              | 南橋              | 發表日期        | 介面類型        | 介面速度     | PCI-E通道及版本  | [SATA](../Page/SATA.md "wikilink") | [SATAe](../Page/SATA_Express.md "wikilink") | PCIe [M.2](../Page/M.2.md "wikilink") | [USB](../Page/USB.md "wikilink") | [功耗](https://zh.wikipedia.org/wiki/TDP "wikilink") |
+| ---------------------------------------------------------------------------------------- | --------------- | --------------- | --------------- | ----------- | ----------- | -------- | ----------- | ---------------------------------- | ------------------------------------------- | ------------------------------------- | -------------------------------- | -------------------------------------------------- |
+| 6 Gbit/s                                                                                 | 3.1 Gen 1       | 3.1 Gen 2       | 總合              |             |             |          |             |                                    |                                             |                                       |                                  |                                                    |
+| **[HM170](http://ark.intel.com/products/90584)**                                         | Skylake         | SR2C4(D1) SR27Z | GL82HM170 (PCH) | 2015年9月1日   | DMI 3.0     | 7.9 GB/s | 16 PCIe 3.0 | 最多4個                               | rowspan="10"                                | 最多2個                                  | 最多8個                             | rowspan="7"                                        |
+| **[QM170](http://ark.intel.com/products/90583)**                                         | SR2C3(D1) SR27Y | GL82QM170 (PCH) |                 |             |             |          |             |                                    |                                             |                                       |                                  |                                                    |
+| **[3](http://ark.intel.com/products/90583)[CM236](http://ark.intel.com/products/90593)** | SR2CE(D1)       | GL82CM236 (PCH) | 20 PCIe 3.0     | 最多8個        | 最多3個        | 最多10個    | 3.67 W      |                                    |                                             |                                       |                                  |                                                    |
+| QMS180                                                                                   | SR2NH(D1)       | GLQMS180 (PCH)  | ?               | ?           | ?           | ?        | ?           | ?                                  |                                             |                                       |                                  |                                                    |
+| **[HM175](http://ark.intel.com/products/98085)**                                         | SR30W(D1)       | GL82HM175 (PCH) | 2017年1月3日       | 16 PCIe 3.0 | 最多4個        | 最多2個     | 最多8個        | 2.6W                               |                                             |                                       |                                  |                                                    |
+| **[QM175](http://ark.intel.com/products/98083)**                                         | SR30V(D1)       | GL82QM175 (PCH) |                 |             |             |          |             |                                    |                                             |                                       |                                  |                                                    |
+| **[CM238](http://ark.intel.com/products/98087)**                                         | SR30U(D1)       | GL82CM238 (PCH) | 20 PCIe 3.0     | 最多8個        | 最多3個        | 最多10個    | 3.67 W      |                                    |                                             |                                       |                                  |                                                    |
+| **[HM370](https://ark.intel.com/products/135101)**                                       | Coffee Lake     | SR40B(B0)       | FH82HM370 (PCH) | 2018年第二季    | 16 PCIe 3.0 | 最多4個     | 最多2個        | 最多8個                               | 最多4個                                        | 3 W                                   |                                  |                                                    |
+| **[QM370](https://ark.intel.com/products/135102)**                                       | SR40D(B0)       | FH82QM370 (PCH) | 20 PCIe 3.0     | 最多10個       | 最多6個        |          |             |                                    |                                             |                                       |                                  |                                                    |
+| **[CM246](https://ark.intel.com/products/135100)**                                       | SR40E(B0)       | FH82CM246       | 24 PCIe 3.0     | 最多8個        | ?           |          |             |                                    |                                             |                                       |                                  |                                                    |
 
 ## 伺服器與工作站晶片組
 
@@ -3737,51 +4341,3 @@ SR17E(C2)</p></td>
     Intel Q45 Express Chipset
 
 21.  SATA-IO: Port Multipliers
-
-22. [Intel PM55 Express
-    Chipset](http://ark.intel.com/chipset.aspx?familyID=42692)
-
-23. [Intel HM55 Express
-    Chipset](http://ark.intel.com/chipset.aspx?familyID=43181)
-
-24. [Intel HM57 Express
-    Chipset](http://ark.intel.com/chipset.aspx?familyID=43177)
-
-25. [Intel QM57 Express
-    Chipset](http://ark.intel.com/chipset.aspx?familyID=43185)
-
-26. [Intel QM57 Express
-    Chipset](http://ark.intel.com/chipset.aspx?familyID=47581)
-
-27. [Intel HM65 Express
-    Chipset](http://ark.intel.com/Product.aspx?id=52808)
-
-28. [Intel HM67 Express
-    Chipset](http://ark.intel.com/Product.aspx?id=52809)
-
-29. [Intel UM67 Express
-    Chipset](http://ark.intel.com/products/chipsets/52778)
-
-30. [Intel QM67 Express
-    Chipset](http://ark.intel.com/Product.aspx?id=52813)
-
-31. [Intel QS67 Express
-    Chipset](http://ark.intel.com/Product.aspx?id=52814)
-
-32. [Intel HM70 Express Chipset](http://ark.intel.com/products/67419)
-
-33. [Intel HM75 Express
-    Chipset](http://ark.intel.com/products/chipsets/64346)
-
-34. [Intel HM76 Express
-    Chipset](http://ark.intel.com/products/chipsets/64343)
-
-35. [Intel HM77 Express
-    Chipset](http://ark.intel.com/products/chipsets/64337)
-
-36. [Intel UM77 Express
-    Chipset](http://ark.intel.com/products/chipsets/64340)
-
-37. [Intel QM77 Express Chipset](http://ark.intel.com/products/64333)
-
-38. [Intel QS77 Express Chipset](http://ark.intel.com/products/64336)

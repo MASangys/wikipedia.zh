@@ -1,4 +1,8 @@
-**Lycos**是一家[互联网](../Page/互联网.md "wikilink")[搜索引擎](../Page/搜索引擎.md "wikilink")[公司和](../Page/公司.md "wikilink")[门户网站](../Page/门户网站.md "wikilink")。最早诞生于1994年麦克·马丁博士（Dr.[Michael
+**Lycos**是一家[互联网](../Page/互联网.md "wikilink")[搜索引擎](../Page/搜索引擎.md "wikilink")[公司和](../Page/公司.md "wikilink")[门户网站](../Page/门户网站.md "wikilink")。
+
+## 历史
+
+最早诞生于1994年麦克·马丁博士（Dr.[Michael
 Mauldin](https://zh.wikipedia.org/wiki/Michael_Mauldin "wikilink")）在Carnegie
 Mellon大学的一个搜索项目，当时的Lycos搜索引擎被用于该校的数字图书馆工程。“Lycos”是[Lycosidae](https://zh.wikipedia.org/wiki/Lycosidae "wikilink")（一种很善于捕捉猎物的[狼蛛](https://zh.wikipedia.org/wiki/狼蛛 "wikilink")）的缩写。
 
@@ -47,5 +51,9 @@ Lycos在2002年逐渐衰落，它在[搜索引擎市场和](../Page/搜索引擎
 ## 外部链接
 
   - [Lycos英文国际网站](http://www.lycos.com)
+
+[Category:美国互联网公司](https://zh.wikipedia.org/wiki/Category:美国互联网公司 "wikilink")
+[Category:1994年成立的公司](https://zh.wikipedia.org/wiki/Category:1994年成立的公司 "wikilink")
+[Category:1996年IPO](https://zh.wikipedia.org/wiki/Category:1996年IPO "wikilink")
 
 [Category:網路搜尋引擎](https://zh.wikipedia.org/wiki/Category:網路搜尋引擎 "wikilink")

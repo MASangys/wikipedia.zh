@@ -815,7 +815,7 @@ End**」開始在[日本電視台播放](../Page/日本電視台.md "wikilink")�
 <tr class="header">
 <th><p>話數</p></th>
 <th><p>日文標題</p></th>
-<th><p>中文文標題</p></th>
+<th><p>中文標題</p></th>
 <th><p>劇本</p></th>
 <th><p>分鏡</p></th>
 <th><p>演出</p></th>

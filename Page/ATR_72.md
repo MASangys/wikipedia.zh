@@ -117,7 +117,7 @@ Change版本可在30分鐘內完成）。
 
   - [烏塔航空](../Page/烏塔航空.md "wikilink")：15架
 
-  - [阿爾及利亞航空](../Page/阿尔及利亚航空.md "wikilink")：15架
+  - [阿爾及利亞航空](https://zh.wikipedia.org/wiki/阿爾及利亞航空 "wikilink")：15架
 
   - [北歐航空](../Page/北歐航空.md "wikilink")：14架
 
@@ -131,7 +131,7 @@ Change版本可在30分鐘內完成）。
 
   - [維珍澳洲航空](../Page/維珍澳洲航空.md "wikilink")：13架
 
-  - [立榮航空](https://zh.wikipedia.org/wiki/立榮航空 "wikilink")：15架
+  - [立榮航空](https://zh.wikipedia.org/wiki/立榮航空 "wikilink")：15架(包含[長榮航空](../Page/長榮航空.md "wikilink")2架)
 
   - [捷特航空](https://zh.wikipedia.org/wiki/捷特航空 "wikilink")：13架
 
@@ -141,11 +141,11 @@ Change版本可在30分鐘內完成）。
 
   - [越南國家航空](https://zh.wikipedia.org/wiki/越南國家航空 "wikilink")：12架
 
-  - [加魯達印尼航空](https://zh.wikipedia.org/wiki/加鲁达印尼航空 "wikilink")：11架
+  - [加魯達印尼航空](https://zh.wikipedia.org/wiki/加魯達印尼航空 "wikilink")：11架
 
-  - [馬印航空](../Page/马印航空.md "wikilink")：11架
+  - [馬印航空](https://zh.wikipedia.org/wiki/馬印航空 "wikilink")：11架
 
-  - [遠東航空](https://zh.wikipedia.org/wiki/遠東航空 "wikilink")：9架（租用）
+  - [遠東航空](https://zh.wikipedia.org/wiki/遠東航空 "wikilink")：10架（租用）
 
   - [華信航空](../Page/華信航空.md "wikilink") 3架租用 6架自有
 

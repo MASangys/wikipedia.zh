@@ -1,4 +1,4 @@
-《**今日睇真D**》（；當時簡稱《**睇真D**》）是香港[亞洲電視製作的一個資訊娛樂節目](../Page/亞洲電視.md "wikilink")，由轉職自[無綫電視之](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[余詠珊創製](../Page/余詠珊.md "wikilink")\[1\]，1994年3月21日至2000年12月15日於[本港台播出](../Page/本港台.md "wikilink")，是香港首個同類型節目。
+《**今日睇真D**》（；當時簡稱《**睇真D**》）是香港[亞洲電視製作的一個資訊娛樂節目](../Page/亞洲電視.md "wikilink")，由轉職自[無綫電視之](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[余詠珊創製](../Page/余詠珊.md "wikilink")，編導[張志明](../Page/張志明_\(監製\).md "wikilink")\[1\]，1994年3月21日至2000年12月15日於[本港台播出](../Page/本港台.md "wikilink")，是香港首個同類型節目。
 
 《今日睇真D》每集長度1小時，以「《睇真D》精神」採訪時事及娛樂消息，補足傳統新聞報道的不足，曾為亞視帶來不錯[收視率](https://zh.wikipedia.org/wiki/收視率 "wikilink")；1994年10月，無綫[翡翠台推出同類型節目](../Page/翡翠台.md "wikilink")《[城市追擊](../Page/城市追擊.md "wikilink")》以奪回收視。
 

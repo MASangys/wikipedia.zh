@@ -1,4 +1,4 @@
-**IDN欺騙**是[钓鱼式攻击的手法之一](../Page/钓鱼式攻击.md "wikilink")。它利用[國際化網域名稱](https://zh.wikipedia.org/wiki/國際化網域名稱 "wikilink")（IDN）可以以[Unicode字元命名網址的特性](https://zh.wikipedia.org/wiki/Unicode "wikilink")，透過[同形異義字](https://zh.wikipedia.org/wiki/同形字 "wikilink")，魚目混珠。
+**IDN欺騙**是[钓鱼式攻击的手法之一](../Page/钓鱼式攻击.md "wikilink")。它利用[國際化網域名稱](https://zh.wikipedia.org/wiki/國際化網域名稱 "wikilink")（IDN）可以以[Unicode字元命名網址的特性](https://zh.wikipedia.org/wiki/Unicode "wikilink")，透過[同形異義字](../Page/同形字.md "wikilink")，魚目混珠。
 
 ## 同形異義字
 

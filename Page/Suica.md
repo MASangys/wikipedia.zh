@@ -44,11 +44,11 @@ Card（Suicaイオカード）售價2,000日圓中能實際使用的金額為1,5
                 ※[烏山線](../Page/烏山線.md "wikilink")、[鹿島線](../Page/鹿島線.md "wikilink")、[久留里線除外](../Page/久留里線.md "wikilink")
           - （仙）[仙台近郊區間](https://zh.wikipedia.org/wiki/大都市近郊區間_\(JR\)#仙台近郊區間 "wikilink")\[4\]
               -
-                ※磐越西線（喜久田站以遠）、奧羽本線（起點站除外）、仙山線（陸前白澤站以遠）、陸羽東線（塚目站以遠）、東北本線（田尻站以遠）、石巻線（起點站與石卷站除外）只顯示「一部分對應站」（[一之關站](https://zh.wikipedia.org/wiki/一之關站 "wikilink")、[平泉站](../Page/平泉車站_\(日本\).md "wikilink")、[磐梯熱海站](../Page/磐梯熱海站.md "wikilink")、、[會津若松站](../Page/會津若松站.md "wikilink")、、[山形站](https://zh.wikipedia.org/wiki/山形站 "wikilink")、、、[鳴子溫泉站](https://zh.wikipedia.org/wiki/鳴子溫泉站 "wikilink")）
+                ※磐越西線（喜久田站以遠）、奧羽本線（起點站除外）、仙山線（陸前白澤站以遠）、陸羽東線（塚目站以遠）、東北本線（田尻站以遠）、石巻線（起點站與石卷站除外）只顯示「一部分對應站」（[一之關站](https://zh.wikipedia.org/wiki/一之關站 "wikilink")、[平泉站](../Page/平泉車站_\(日本\).md "wikilink")、[磐梯熱海站](../Page/磐梯熱海站.md "wikilink")、[豬苗代站](https://zh.wikipedia.org/wiki/豬苗代站 "wikilink")、[會津若松站](../Page/會津若松站.md "wikilink")、[喜多方站](../Page/喜多方站.md "wikilink")、[山形站](https://zh.wikipedia.org/wiki/山形站 "wikilink")、、、[鳴子溫泉站](https://zh.wikipedia.org/wiki/鳴子溫泉站 "wikilink")）
                 ※、[石卷線](../Page/石卷線.md "wikilink")（[石卷站](../Page/石卷站.md "wikilink")－[女川站](../Page/女川站.md "wikilink")）除外
           - （新）[新潟近郊區間](https://zh.wikipedia.org/wiki/大都市近郊區間_\(JR\)#新潟近郊區間 "wikilink")\[5\]
               -
-                ※以新潟站為中心超出長岡站、吉田站、新發田站的路段（彌彥線除外）只顯示「一部分對應站」（、[柏崎站](../Page/柏崎站.md "wikilink")、[直江津站](../Page/直江津站.md "wikilink")、、、、）
+                ※以新潟站為中心超出長岡站、吉田站、新發田站的路段（彌彥線除外）只顯示「一部分對應站」（[宮內站](../Page/宮內站_\(新潟縣\).md "wikilink")、[柏崎站](../Page/柏崎站.md "wikilink")、[直江津站](../Page/直江津站.md "wikilink")、、、、）
         <!-- end list -->
           -
             ※特急列車等可購入別途特急券等。但首都圈地域的[東武線直通特急](https://zh.wikipedia.org/wiki/日光號列車 "wikilink")，不可用於車費和特急料金。

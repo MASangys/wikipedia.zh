@@ -582,7 +582,7 @@
 <td><p>CDH</p></td>
 <td><p>KCDH</p></td>
 <td></td>
-<td><p>，<a href="../Page/阿肯色州.md" title="wikilink">阿肯色州</a></p></td>
+<td><p><a href="../Page/康登_(阿肯色州).md" title="wikilink">康登</a>，<a href="../Page/阿肯色州.md" title="wikilink">阿肯色州</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -624,7 +624,7 @@
 <td><p>CDO</p></td>
 <td><p>FACD</p></td>
 <td><p>克拉多克機場</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/克拉多克_(東開普省)" title="wikilink">克拉多克</a>，<a href="https://zh.wikipedia.org/wiki/東開普省" title="wikilink">東開普省</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/克拉多克_(東開普省)" title="wikilink">克拉多克</a>，<a href="../Page/東開普省.md" title="wikilink">東開普省</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -658,7 +658,7 @@
 <tr class="odd">
 <td><p>CDT</p></td>
 <td><p>LECS</p></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/卡斯特利翁-橙花海岸機場" title="wikilink">卡斯特利翁-橙花海岸機場</a></p></td>
 <td><p><a href="../Page/卡斯特利翁-德拉普拉納.md" title="wikilink">卡斯特利翁-德拉普拉納</a>，<a href="../Page/巴倫西亞自治區.md" title="wikilink">巴倫西亞自治區</a></p></td>
 <td></td>
 </tr>
@@ -981,7 +981,7 @@
 <td><p>CFT</p></td>
 <td><p>KCFT</p></td>
 <td></td>
-<td><p><a href="../Page/克利夫頓_(亞利桑那州).md" title="wikilink">克利夫頓</a>/，<a href="../Page/亞利桑那州.md" title="wikilink">亞利桑那州</a></p></td>
+<td><p><a href="../Page/克利夫頓_(亞利桑那州).md" title="wikilink">克利夫頓</a>/<a href="../Page/莫倫西_(亞利桑那州).md" title="wikilink">莫倫西</a>，<a href="../Page/亞利桑那州.md" title="wikilink">亞利桑那州</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1051,7 +1051,7 @@
 <td><p>CGG</p></td>
 <td></td>
 <td><p>卡西古蘭機場</p></td>
-<td><p>，<a href="https://zh.wikipedia.org/wiki/中央呂宋" title="wikilink">中央呂宋</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/卡西古蘭_(奧羅拉省)" title="wikilink">卡西古蘭</a>，<a href="https://zh.wikipedia.org/wiki/中央呂宋" title="wikilink">中央呂宋</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1226,7 +1226,7 @@
 <td><p>CHL</p></td>
 <td><p>KLLJ</p></td>
 <td></td>
-<td><p>，<a href="https://zh.wikipedia.org/wiki/愛達荷州" title="wikilink">愛達荷州</a></p></td>
+<td><p><a href="../Page/查利斯_(愛達荷州).md" title="wikilink">查利斯</a>，<a href="https://zh.wikipedia.org/wiki/愛達荷州" title="wikilink">愛達荷州</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1394,7 +1394,7 @@
 <td><p>CIK</p></td>
 <td><p>PACI</p></td>
 <td></td>
-<td><p>，<a href="../Page/阿拉斯加州.md" title="wikilink">阿拉斯加州</a></p></td>
+<td><p><a href="../Page/查爾基齊克_(阿拉斯加州).md" title="wikilink">查爾基齊克</a>，<a href="../Page/阿拉斯加州.md" title="wikilink">阿拉斯加州</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1471,7 +1471,7 @@
 <td><p>CIW</p></td>
 <td><p>TVSC</p></td>
 <td></td>
-<td><p>，<a href="../Page/格林納丁斯群島.md" title="wikilink">格林納丁斯群島</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/卡努安島" title="wikilink">卡努安島</a>，<a href="../Page/格林納丁斯群島.md" title="wikilink">格林納丁斯群島</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1653,7 +1653,7 @@
 <td><p>CKK</p></td>
 <td><p>KCVK</p></td>
 <td></td>
-<td><p>，<a href="../Page/阿肯色州.md" title="wikilink">阿肯色州</a></p></td>
+<td><p><a href="../Page/阿什弗拉特_(阿肯色州).md" title="wikilink">阿什弗拉特</a>，<a href="../Page/阿肯色州.md" title="wikilink">阿肯色州</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1667,7 +1667,7 @@
 <td><p>CKM</p></td>
 <td><p>KCKM</p></td>
 <td></td>
-<td><p>，<a href="../Page/密西西比州.md" title="wikilink">密西西比州</a></p></td>
+<td><p><a href="../Page/克拉克斯代爾_(密西西比州).md" title="wikilink">克拉克斯代爾</a>，<a href="../Page/密西西比州.md" title="wikilink">密西西比州</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2143,7 +2143,7 @@
 <td><p>CNE</p></td>
 <td></td>
 <td><p>弗里蒙特縣機場</p></td>
-<td><p>，<a href="../Page/科羅拉多州.md" title="wikilink">科羅拉多州</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/卡農城_(科羅拉多州)" title="wikilink">卡農城</a>，<a href="../Page/科羅拉多州.md" title="wikilink">科羅拉多州</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2297,7 +2297,7 @@
 <td><p>COA</p></td>
 <td></td>
 <td></td>
-<td><p>，<a href="https://zh.wikipedia.org/wiki/加利福尼亞州" title="wikilink">加利福尼亞州</a></p></td>
+<td><p><a href="../Page/哥倫比亞_(加利福尼亞州).md" title="wikilink">哥倫比亞</a>，<a href="https://zh.wikipedia.org/wiki/加利福尼亞州" title="wikilink">加利福尼亞州</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2331,7 +2331,7 @@
 <tr class="even">
 <td><p>COF</p></td>
 <td><p>KCOF</p></td>
-<td></td>
+<td><p><a href="../Page/帕特里克空軍基地.md" title="wikilink">帕特里克空軍基地</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/可可比奇" title="wikilink">可可比奇</a>，<a href="https://zh.wikipedia.org/wiki/佛羅里達州" title="wikilink">佛羅里達州</a></p></td>
 <td></td>
 </tr>
@@ -2794,7 +2794,7 @@
 <td><p>CRT</p></td>
 <td><p>KCRT</p></td>
 <td></td>
-<td><p>，<a href="../Page/阿肯色州.md" title="wikilink">阿肯色州</a></p></td>
+<td><p><a href="../Page/克羅塞特_(阿肯色州).md" title="wikilink">克羅塞特</a>，<a href="../Page/阿肯色州.md" title="wikilink">阿肯色州</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2822,7 +2822,7 @@
 <td><p>CRX</p></td>
 <td><p>KCRX</p></td>
 <td></td>
-<td><p>，<a href="../Page/密西西比州.md" title="wikilink">密西西比州</a></p></td>
+<td><p><a href="../Page/科林斯_(密西西比州).md" title="wikilink">科林斯</a>，<a href="../Page/密西西比州.md" title="wikilink">密西西比州</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -3067,7 +3067,7 @@
 <td><p>CTI</p></td>
 <td><p>FNCV</p></td>
 <td></td>
-<td><p>，<a href="../Page/庫安多古班哥省.md" title="wikilink">庫安多古班哥省</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/奎托夸納瓦萊" title="wikilink">奎托夸納瓦萊</a>，<a href="../Page/庫安多古班哥省.md" title="wikilink">庫安多古班哥省</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -3088,7 +3088,7 @@
 <td><p>CTM</p></td>
 <td><p>MMCM</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/切圖馬爾" title="wikilink">切圖馬爾</a>，<a href="https://zh.wikipedia.org/wiki/金塔納羅奧州" title="wikilink">金塔納羅奧州</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/切圖馬爾" title="wikilink">切圖馬爾</a>，<a href="../Page/金塔納羅奧州.md" title="wikilink">金塔納羅奧州</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -3277,7 +3277,7 @@
 <td><p>CUN</p></td>
 <td><p>MMUN</p></td>
 <td><p><a href="../Page/坎昆國際機場.md" title="wikilink">坎昆國際機場</a></p></td>
-<td><p><a href="../Page/坎昆.md" title="wikilink">坎昆</a>，<a href="https://zh.wikipedia.org/wiki/金塔納羅奧州" title="wikilink">金塔納羅奧州</a></p></td>
+<td><p><a href="../Page/坎昆.md" title="wikilink">坎昆</a>，<a href="../Page/金塔納羅奧州.md" title="wikilink">金塔納羅奧州</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -3578,14 +3578,14 @@
 <td><p>CXB</p></td>
 <td><p>VGCB</p></td>
 <td></td>
-<td><p>，<a href="../Page/吉大港專區.md" title="wikilink">吉大港專區</a></p></td>
+<td><p><a href="../Page/科克斯巴扎爾.md" title="wikilink">科克斯巴扎爾</a>，<a href="../Page/吉大港專區.md" title="wikilink">吉大港專區</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>CXC</p></td>
 <td></td>
 <td><p>奇特諾機場</p></td>
-<td><p>，<a href="../Page/阿拉斯加州.md" title="wikilink">阿拉斯加州</a></p></td>
+<td><p><a href="../Page/奇特諾_(阿拉斯加州).md" title="wikilink">奇特諾</a>，<a href="../Page/阿拉斯加州.md" title="wikilink">阿拉斯加州</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -3823,7 +3823,7 @@
 <td><p>CZC</p></td>
 <td></td>
 <td></td>
-<td><p>，<a href="../Page/阿拉斯加州.md" title="wikilink">阿拉斯加州</a></p></td>
+<td><p><a href="../Page/銅中心_(阿拉斯加州).md" title="wikilink">銅中心</a>，<a href="../Page/阿拉斯加州.md" title="wikilink">阿拉斯加州</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -3872,21 +3872,21 @@
 <td><p>CZM</p></td>
 <td><p>MMCZ</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/科蘇梅爾島" title="wikilink">科蘇梅爾島</a>，<a href="https://zh.wikipedia.org/wiki/金塔納羅奧州" title="wikilink">金塔納羅奧州</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/科蘇梅爾島" title="wikilink">科蘇梅爾島</a>，<a href="../Page/金塔納羅奧州.md" title="wikilink">金塔納羅奧州</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>CZN</p></td>
 <td></td>
 <td></td>
-<td><p>，<a href="../Page/阿拉斯加州.md" title="wikilink">阿拉斯加州</a></p></td>
+<td><p><a href="../Page/奇薩納_(阿拉斯加州).md" title="wikilink">奇薩納</a>，<a href="../Page/阿拉斯加州.md" title="wikilink">阿拉斯加州</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>CZO</p></td>
 <td></td>
 <td><p>奇斯托奇納機場</p></td>
-<td><p>，<a href="../Page/阿拉斯加州.md" title="wikilink">阿拉斯加州</a></p></td>
+<td><p><a href="../Page/奇斯托奇納_(阿拉斯加州).md" title="wikilink">奇斯托奇納</a>，<a href="../Page/阿拉斯加州.md" title="wikilink">阿拉斯加州</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

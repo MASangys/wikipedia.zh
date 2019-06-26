@@ -75,7 +75,7 @@ Dash
   - 2018年8月10日，一名（Horizon
     Air）的地勤人員擅自自[西雅圖機場開走一架Dash](https://zh.wikipedia.org/wiki/西雅圖機場 "wikilink")-8-Q400客機，逼迫機場航管人員暫停整座機場的飛機起降。[北美空防司令部](../Page/北美空防司令部.md "wikilink")（NORAD）派出兩架[F-15鷹式戰鬥機升空追查](../Page/F-15鷹式戰鬥機.md "wikilink")，客機在進行了一些類似[特技飛行般的動作之後墜毀於西雅圖機場南方約](https://zh.wikipedia.org/wiki/特技飛行 "wikilink")40英里的（Ketron
     Island, WA）上之樹林中。29歲飛機師死亡\[19\]。
-  - 2019年5月8日，一架编号为S2-AGO的Q400在执行[孟加拉航空60号班机于](https://zh.wikipedia.org/wiki/孟加拉航空60号班机事故 "wikilink")[沙阿贾拉勒国际机场降落时冲出跑道](../Page/沙阿贾拉勒国际机场.md "wikilink")，机身断为三截。机上全部33人全部生还，但均有受伤。
+  - 2019年5月8日，一架编号为S2-AGO的Q400在执行[孟加拉航空60号班机于](../Page/孟加拉航空60号班机事故.md "wikilink")[沙阿贾拉勒国际机场降落时冲出跑道](../Page/沙阿贾拉勒国际机场.md "wikilink")，机身断为三截。机上全部33人全部生还，但均有受伤。
 
 ### 起落架故障
 

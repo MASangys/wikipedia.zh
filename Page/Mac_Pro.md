@@ -32,7 +32,12 @@ Pro採用[AMD](https://zh.wikipedia.org/wiki/AMD "wikilink")
 [FirePro而不是](https://zh.wikipedia.org/wiki/FirePro "wikilink")[NVIDIA
 Quadro是因為前者的](../Page/NVIDIA_Quadro.md "wikilink")[OpenCL運算能力較佳](../Page/OpenCL.md "wikilink")，這項技術正是由[蘋果公司開發](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")。\[3\]
 
-2017年推出[iMac Pro](https://zh.wikipedia.org/wiki/iMac_Pro "wikilink")。
+2017年推出[iMac
+Pro](https://zh.wikipedia.org/wiki/iMac_Pro "wikilink")，属台式一体机产品，并不属于严格意义上的Mac
+Pro产品线。
+
+2019年6月3日，苹果在WWDC 2019大会上推出新一代模块化设计的Mac Pro。新Mac
+Pro采用了不同于上一代的矩形体块设计，极度强调易拆卸和模块化。正面和背面开设有大量令人印象深刻的散热孔矩阵。该代机型最高支持28核[英特尔Xeon处理器](https://zh.wikipedia.org/wiki/Xeon "wikilink")、1.5TB[内存和](https://zh.wikipedia.org/wiki/内存 "wikilink")4TB[固态硬盘](../Page/固态硬盘.md "wikilink")，并提供大量扩展接口。
 
 ## 規格
 

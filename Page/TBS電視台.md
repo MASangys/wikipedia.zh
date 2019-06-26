@@ -47,6 +47,7 @@
 
   - [東京放送控股](../Page/東京放送控股.md "wikilink")
   - [日本新聞網 (TBS)](../Page/日本新聞網_\(TBS\).md "wikilink")
+  - [TBS電台](../Page/TBS廣播.md "wikilink")
 
 ## 外部連結
 

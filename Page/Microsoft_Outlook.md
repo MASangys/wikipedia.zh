@@ -2,7 +2,7 @@
 Office內的](../Page/Microsoft_Office.md "wikilink")[个人信息管理系统](../Page/个人信息管理系统.md "wikilink")[软件](../Page/软件.md "wikilink")，功能包括收發[電子郵件](https://zh.wikipedia.org/wiki/電子郵件 "wikilink")、[行事曆等等](https://zh.wikipedia.org/wiki/行事曆 "wikilink")。它也是與[Microsoft
 Exchange
 Server互相搭配的](../Page/Microsoft_Exchange_Server.md "wikilink")[群組軟體](https://zh.wikipedia.org/wiki/群組軟體 "wikilink")。現時最新的版本是Microsoft
-Outlook 2016 for Windows和2016 for Mac。
+Outlook 2019 for Windows和2019 for Mac。
 
 雖然[Outlook主要是用來傳送電子郵件](https://zh.wikipedia.org/wiki/Outlook "wikilink")，可是它還包含了日历、任务管理、联系人、记事本等功能。
 

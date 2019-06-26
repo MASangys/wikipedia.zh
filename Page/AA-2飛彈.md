@@ -30,9 +30,24 @@ AA-2D的另外一個特點是能夠對付發出高熱量的小型地面目標。
 
 AA-2第一次的實戰紀錄是在[越戰時期](https://zh.wikipedia.org/wiki/越戰 "wikilink")，雖然1966年[北越空軍已經攜帶飛彈與美國戰鬥機遭遇](https://zh.wikipedia.org/wiki/北越 "wikilink")，不過直到該年10月，負責掩護[EB-66的兩架](https://zh.wikipedia.org/wiki/EB-66 "wikilink")[F-4C成為最早的犧牲品](https://zh.wikipedia.org/wiki/F-4 "wikilink")。除了大量出現在越戰以外，埃及在1970年到1973年這一段時間之中也有使用。
 
-## 服役國
+## 使用國
+
+[K-13_operators.png](https://zh.wikipedia.org/wiki/File:K-13_operators.png "fig:K-13_operators.png")
+
+### 現役國
 
   -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+### 退役國
+
   -
   -
   -

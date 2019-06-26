@@ -19,7 +19,7 @@ OpenVPN的技术核心是虚拟网卡，其次是[SSL协议实现](https://zh.wi
 
 ## 加密
 
-OpenVPN使用[OpenSSL库来加密数据与控制信息](../Page/OpenSSL.md "wikilink")。这意味着，它能够使用任何OpenSSL支持的算法。它提供了可选的数据包[HMAC功能以提高连接的安全性](https://zh.wikipedia.org/wiki/HMAC "wikilink")。此外，OpenSSL的硬件加速也能提高它的性能。2.3.0以後版本引入。
+OpenVPN使用[OpenSSL库来加密数据与控制信息](../Page/OpenSSL.md "wikilink")。这意味着，它能够使用任何OpenSSL支持的算法。它提供了可选的数据包[HMAC功能以提高连接的安全性](https://zh.wikipedia.org/wiki/HMAC "wikilink")。此外，OpenSSL的硬件加速也能提高它的性能。2.3.0以後版本引入[PolarSSL](https://zh.wikipedia.org/wiki/PolarSSL "wikilink")。
 
 ## 身份验证
 

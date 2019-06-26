@@ -1562,17 +1562,16 @@ ZE 2xxx00</p></td>
 <tbody>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/昆明局集團" title="wikilink">昆明局集團</a></p></td>
-<td><p>6</p></td>
-<td><p>0001、2418、2421、2422、2425、2426</p></td>
+<td><p>11</p></td>
+<td><p>0001、2417～2426</p></td>
 <td><p>昆明南</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/昆楚大铁路" title="wikilink">昆楚大铁路</a>、<a href="../Page/大丽铁路.md" title="wikilink">大丽铁路</a></p></td>
-<td><p>除0001外的5列由乌鲁木齐动车所转配<br />
-0001是由浦镇生产的功率提升型试验列车</p></td>
+<td><p>0001是由浦镇生产的功率提升型试验列车</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/西安局集團" title="wikilink">西安局集團</a></p></td>
-<td><p>23</p></td>
-<td><p>2417、2419、2420、2423、2424、4072～4081、4106～4113</p></td>
+<td><p>18</p></td>
+<td><p>4072～4081、4106～4113</p></td>
 <td><p>西安北</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/大西客運專線" title="wikilink">大西客運專線</a>、<a href="https://zh.wikipedia.org/wiki/西延鐵路" title="wikilink">西延鐵路</a></p></td>
 <td><p>前5组为兰州西动车所转配</p></td>

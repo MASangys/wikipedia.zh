@@ -7,7 +7,7 @@ Chen)、、[賈德·卡林姆等人創立](../Page/賈德·卡林姆.md "wikilin
 [WebM影片](../Page/WebM.md "wikilink")\[5\]來播放由上傳者製成的影片內容，包括電影[剪輯](../Page/剪輯.md "wikilink")、電視短片、预告片、音樂錄影帶等，以及其他上傳者自製的影片，如[VLOG](https://zh.wikipedia.org/wiki/VLOG "wikilink")、原創的影片等。大部分YouTube的上傳者為個人，但也有一些媒體公司如[哥倫比亞廣播公司](https://zh.wikipedia.org/wiki/哥倫比亞廣播公司 "wikilink")、[英國廣播公司](https://zh.wikipedia.org/wiki/英國廣播公司 "wikilink")、[VEVO以及其他團體與YouTube有合作夥伴計劃](https://zh.wikipedia.org/wiki/VEVO "wikilink")，上傳自家所錄製的影片\[6\]。
 
 今日它已經成為[影音網站的翹楚](https://zh.wikipedia.org/wiki/影音網站 "wikilink")，不單在娛樂音市場上吸引觀眾，又成功把龐大流量轉變為社群平台，並激發網上[創作產業](https://zh.wikipedia.org/wiki/創意產業 "wikilink")，例如每年[YouTube名人的演出](../Page/YouTuber.md "wikilink")[YouTube
-FanFest等收看人數與收入都相當驚人](https://zh.wikipedia.org/wiki/YouTube_FanFest "wikilink")，同時企業則申請官方帳號用作[廣告與線上傳媒渠道](../Page/廣告.md "wikilink")、[NGO的推廣公關等等](https://zh.wikipedia.org/wiki/NGO "wikilink")，成為又一段[矽谷文化新創成功的經營典範](https://zh.wikipedia.org/wiki/矽谷 "wikilink")，當然也是因為硬體支援，才能承受龐大的資訊量而發展起來，還有恰好的創業時機換來的知名度與其爆紅效應。儘管有大量用戶支持，但同類型網站激烈競爭下內容更變得重要，因此近幾年眼光開始向網上知名製作者，YouTube對這些擁有百萬訂閱的人十分器重，並聯繫博主來獎盃回饋與官方聚會活動邀請、以及更高的薪資分紅等等（這類職業化的博客經營者被稱為[YouTuber](../Page/YouTuber.md "wikilink")），追求高點擊率已經成為許多人獲取財富的方式之一，第一個破十億點閱率的男歌手是[PSY](../Page/PSY.md "wikilink")（Gangnam
+FanFest等收看人數與收入都相當驚人](https://zh.wikipedia.org/wiki/YouTube_FanFest "wikilink")，同時企業則申請官方帳號用作[廣告與線上傳媒渠道](../Page/廣告.md "wikilink")、[NGO的推廣公關等等](https://zh.wikipedia.org/wiki/NGO "wikilink")，成為又一段[矽谷文化新創成功的經營典範](https://zh.wikipedia.org/wiki/矽谷 "wikilink")，當然也是因為硬體支援，才能承受龐大的資訊量而發展起來，還有恰好的創業時機換來的知名度與其爆紅效應。儘管有大量用戶支持，但同類型網站激烈競爭下內容更變得重要，因此近幾年眼光開始向網上知名製作者，YouTube對這些擁有百萬訂閱的人十分器重，給予獎盃回饋與官方聚會活動邀請、以及更高的薪資分紅等等（這類職業化的影片創作者被稱為[YouTuber](../Page/YouTuber.md "wikilink")），追求高點擊率已經成為許多人獲取財富的方式之一，第一個破十億點閱率的男歌手是[PSY](../Page/PSY.md "wikilink")（Gangnam
 Style），第一個破十億點閱率的女歌手是[姬蒂·佩芮](https://zh.wikipedia.org/wiki/姬蒂·佩芮 "wikilink")。2015年9月，[PewDiePie成为第一个观看次数超过](../Page/PewDiePie.md "wikilink")100亿次的YouTube频道\[7\]。
 
 2015年7月17日，谷歌发布截至6月30日的2015财年第二季度财报显示，现在YouTube有超过10亿用户，世界上所有上网的人群中几乎有三分之一的人每天在YouTube，合计耗費數亿小时的时间观看影片，现在YouTube的观看时间比過去增长60%，这是近幾年来最高的增长比例。
@@ -43,7 +43,7 @@ Video等](../Page/Google视频.md "wikilink")，成為本世紀最多人瀏覽�
 2006年10月9日，Google宣布以16.5億美元的股票收購YouTube網站，這筆交易最後於同年11月13日定案，這筆交易亦也是當時Google的第二大收購案。YouTube仍由其共同創始人和67名員工在公司內部自行營運，並不直接受到Google的影響。同時Google也與[環球唱片](../Page/环球唱片.md "wikilink")、[SonyBMG及](../Page/索尼音樂娛樂.md "wikilink")[華納音樂及](../Page/華納音樂集團.md "wikilink")[哥倫比亞廣播公司達成內容授權及保護協議](https://zh.wikipedia.org/wiki/哥倫比亞廣播公司 "wikilink")，解除市場對影音內容供應商可能追究[侵權內容而升高](../Page/侵权行为.md "wikilink")[法律行動的疑慮](../Page/法律.md "wikilink")。但2006年11月，由於YouTube網站的域名www.youtube.com與另一個的網站www.utube.com因為名稱相似引發爭議，該網站的所有公司決定向youtube提出法律訴訟，但最後由該公司修改其網站域名為www.utubeonline.com結束此案。合併之後Google並未供YouTube運營成本的詳細數字，在2007年針對YouTube收入的監管文件上標記為「無[審計重要性](https://zh.wikipedia.org/wiki/審計重要性 "wikilink")」。2008年6月，《[富比士](../Page/福布斯.md "wikilink")》雜誌的一篇文章中預估YouTube在2008年的總收入約有2億美元左右，並特別注意其在廣告銷售方面。
 
 2007年10月17日及18日，YouTube分別開放[臺灣及](../Page/臺灣.md "wikilink")[香港兩地的](../Page/香港.md "wikilink")[中文網站](https://zh.wikipedia.org/wiki/中文 "wikilink")。配合YouTube台灣的問世，YouTube與[天下雜誌](../Page/天下雜誌.md "wikilink")、[三立電視](../Page/三立電視.md "wikilink")、[中國電視公司](https://zh.wikipedia.org/wiki/中國電視公司 "wikilink")、[公共電視台](https://zh.wikipedia.org/wiki/公共電視文化事業基金會 "wikilink")、[雄獅旅行社等簽訂內容供應合作協議](../Page/雄獅旅行社.md "wikilink")；\[15\]
-而配合YouTube香港的面世，YouTube已經與香港多個著名機構簽下內容供應合作協議，包括[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")、[亞洲電視](../Page/亞洲電視.md "wikilink")、[香港旅遊發展局](../Page/香港旅遊發展局.md "wikilink")、[香港電台及](../Page/香港電台.md "wikilink")[天映娛樂](https://zh.wikipedia.org/wiki/天映娛樂 "wikilink")。
+而配合YouTube香港的面世，YouTube已經與香港多個著名機構簽下內容供應合作協議，包括[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")、[亞洲電視](../Page/亞洲電視.md "wikilink")、[香港旅遊發展局](../Page/香港旅遊發展局.md "wikilink")、[香港電台及](../Page/香港電台.md "wikilink")[天映娛樂](../Page/天映娛樂.md "wikilink")。
 [901_Cherry_Avenue.jpg](https://zh.wikipedia.org/wiki/File:901_Cherry_Avenue.jpg "fig:901_Cherry_Avenue.jpg")\]\]
 2008年11月，YouTube與[米高梅公司](https://zh.wikipedia.org/wiki/米高梅公司 "wikilink")、[獅門娛樂公司和](https://zh.wikipedia.org/wiki/獅門娛樂公司 "wikilink")[哥倫比亞廣播公司達成協定](https://zh.wikipedia.org/wiki/哥倫比亞廣播公司 "wikilink")，允許在其美國網站內播放完整長度的電影和電視劇集，這舉動是為了能和已經授權而能播放[國家廣播公司](../Page/全国广播公司.md "wikilink")、[福斯廣播公司其影集的](https://zh.wikipedia.org/wiki/福克斯廣播公司 "wikilink")[Hulu競爭](../Page/Hulu.md "wikilink")。2009年11月中，YouTube再次與[英國第四台簽署](https://zh.wikipedia.org/wiki/英國第四台 "wikilink")[合約](../Page/契约.md "wikilink")，英國第四台將把旗下節目完整上傳到YouTube的電視專區《Show》，讓[英國的YouTube的用戶免費且完整觀看英國第四台的節目](https://zh.wikipedia.org/wiki/英国 "wikilink")，總計與超過60家的合作公司上傳約有4000多個完整的影集；英國第四台成為全球第一家提供完整節目給YouTube使用的[大眾媒體](../Page/大眾媒體.md "wikilink")\[16\]。2010年1月，YouTube又提供給美國用戶電影出租服務。
 
@@ -479,9 +479,9 @@ Aghdam）认为YouTube封杀她上传到Youtube上的视频，并進到[YouTube�
 
 ## 安全政策
 
-2019年，影音分享平台YouTube更新安全政策，嚴格禁止用戶上傳危險惡作劇和冒險影片，例如假裝住家遭入侵的情境設定、模仿電影情節挑戰蒙眼過馬路等。YouTube強調，限制有害內容是原有規定，未來也適用於對人身安全有潛在危險的惡搞影片。
+2019年，YouTube更新安全政策，嚴格禁止用戶上傳危險惡作劇和冒險影片，例如假裝住家遭入侵的情境設定、模仿電影情節挑戰蒙眼過馬路等。YouTube強調，限制有害內容是原有規定，未來也適用於對人身安全有潛在危險的惡搞影片。
 
-YouTube表示，平台是許多熱門挑戰和惡作劇的搖籃，因此必須確保這些玩笑沒有越線，以免造成傷害。去年底[Netflix推出新電影](../Page/Netflix.md "wikilink")《[蒙上你的眼](../Page/蒙上你的眼.md "wikilink")》（Bird
+YouTube表示，平台是許多熱門挑戰和惡作劇的搖籃，因此必須確保這些玩笑沒有越線，以免造成傷害。2018年年底[Netflix推出新電影](../Page/Netflix.md "wikilink")《[蒙上你的眼](../Page/蒙上你的眼.md "wikilink")》（Bird
 Box）後，在網路社群掀起風潮，嘗試矇眼開車和矇眼過馬路的人越來越多；Netflix曾呼籲大眾不要模仿，但成效不佳。
 
 YouTube將禁止用戶分享類似「可能導致死亡」的冒險影片，包含矇眼開車、歐美青少年流行的Tide

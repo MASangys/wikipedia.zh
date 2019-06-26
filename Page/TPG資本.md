@@ -35,9 +35,9 @@ Venture Forum）評為「年度最佳公司」。
 ## 外部連結
 
   - [德州太平洋集團](https://archive.is/20130104205627/http://www.texaspacificgroup.com/)
-  - [德州太平洋集團風險投資](http://www.tpgventures.com)（風險投資附屬公司）
 
-[Category:私人股权投资公司](https://zh.wikipedia.org/wiki/Category:私人股权投资公司 "wikilink")
+[Category:TPG资本](https://zh.wikipedia.org/wiki/Category:TPG资本 "wikilink")
+[Category:美国私人股权投资公司](https://zh.wikipedia.org/wiki/Category:美国私人股权投资公司 "wikilink")
 [Category:美国金融公司](https://zh.wikipedia.org/wiki/Category:美国金融公司 "wikilink")
 [Category:1992年成立的公司](https://zh.wikipedia.org/wiki/Category:1992年成立的公司 "wikilink")
 

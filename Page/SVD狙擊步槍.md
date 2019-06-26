@@ -303,7 +303,7 @@ SVD的早期版本使用镂空的木质[槍托](../Page/槍托.md "wikilink")、
 
   -
   -
-  -   - [國家人民軍](https://zh.wikipedia.org/wiki/國家人民軍 "wikilink")
+  -   - [國家人民軍](../Page/國家人民軍.md "wikilink")
       - [史塔西](../Page/史塔西.md "wikilink")
 
   -   - [蘇聯武裝力量](https://zh.wikipedia.org/wiki/蘇聯武裝力量 "wikilink")

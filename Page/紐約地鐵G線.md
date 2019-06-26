@@ -50,7 +50,7 @@ G線列車在[皇后區停靠兩個車站](../Page/皇后區.md "wikilink")：�
 
 1990年9月30日線於凌晨取代線，延駛至牙買加-179街車站。
 
-1997年5月，因為[63街隧道](https://zh.wikipedia.org/wiki/63街隧道 "wikilink")（連接[IND63街線與](https://zh.wikipedia.org/wiki/IND63街線 "wikilink")[IND皇后大道線](https://zh.wikipedia.org/wiki/IND皇后大道線 "wikilink")）的興建工程，線於夜晚、凌晨及週末訖於長島市-法庭廣場車站。
+1997年5月，因為[63街隧道](../Page/63街隧道.md "wikilink")（連接[IND63街線與](https://zh.wikipedia.org/wiki/IND63街線 "wikilink")[IND皇后大道線](https://zh.wikipedia.org/wiki/IND皇后大道線 "wikilink")）的興建工程，線於夜晚、凌晨及週末訖於長島市-法庭廣場車站。
 
 2001年12月16日63街隧道通車，法庭廣場車站變成線中午與尖峰時段的北訖站，取代沿皇后大道行駛的線，其他時段經由63街隧道延駛IND皇后大道線。
 

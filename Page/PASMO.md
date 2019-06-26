@@ -49,10 +49,9 @@ PASMO的[吉祥物是一個](https://zh.wikipedia.org/wiki/吉祥物 "wikilink")
 #### 2009年3月14日起
 
   - [關東鐵道](../Page/關東鐵道.md "wikilink")（只限铁路和部分巴士）◇ \[3\]
-
   - [千葉都市单轨电车](https://zh.wikipedia.org/wiki/千葉都市单轨电车 "wikilink")◇ \[4\]
+  - [舞滨度假区线](https://zh.wikipedia.org/wiki/舞滨度假区线 "wikilink")
 
-  -
 #### 2009年10月31日起
 
   - ◇
@@ -112,9 +111,8 @@ PASMO的[吉祥物是一個](https://zh.wikipedia.org/wiki/吉祥物 "wikilink")
   - <span style="color:gold">**★**</span>（臨港巴士） ※神明町營業所、鹽濱營業所
     ★鶴見營業所、濱川崎營業所
 
-  - <span style="color:gold">**★**</span>
-    ※武藏野營業所、青梅街道營業所、五日市街道營業所、阿佐谷營業所
-    ★丸山營業所
+  - <span style="color:gold">**★**</span>[關東巴士](../Page/關東巴士.md "wikilink")
+    ※武藏野營業所、青梅街道營業所、五日市街道營業所、阿佐谷營業所 ★丸山營業所
 
   - <span style="color:gold">**★**</span>[京濱急行巴士](../Page/京濱急行巴士.md "wikilink")
     ※京濱島營業所、羽田營業所、大森營業所 ★逗子營業所、☆衣笠營業所、三崎營業所、久里濱營業所
@@ -228,7 +226,8 @@ PASMO的[吉祥物是一個](https://zh.wikipedia.org/wiki/吉祥物 "wikilink")
   - <span style="color:gold">**★**</span> ★楢原營業所、五日市營業所（八王子方向）、恩方營業所
     ▲五日市營業所（福生、檜原方向）、青梅營業所、冰川車庫
 
-  - <span style="color:gold">**★**</span> ※湯河原營業所、關本營業所、宮城野營業所 ★小田原營業所
+  - <span style="color:gold">**★**</span>[箱根登山巴士](../Page/箱根登山巴士.md "wikilink")
+    ※湯河原營業所、關本營業所、宮城野營業所 ★小田原營業所
 
       - <span style="color:gold">**★**</span> ◇※★經堂營業所、御殿場營業所
 

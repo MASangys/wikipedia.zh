@@ -400,7 +400,7 @@
 <td><p>GCW</p></td>
 <td></td>
 <td></td>
-<td><p>，<a href="../Page/亞利桑那州.md" title="wikilink">亞利桑那州</a></p></td>
+<td><p><a href="../Page/桃泉_(亞利桑那州).md" title="wikilink">桃泉</a>，<a href="../Page/亞利桑那州.md" title="wikilink">亞利桑那州</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1450,7 +1450,7 @@
 <td><p>GNG</p></td>
 <td><p>KGNG</p></td>
 <td><p>古丁市立機場</p></td>
-<td><p>，<a href="https://zh.wikipedia.org/wiki/愛達荷州" title="wikilink">愛達荷州</a></p></td>
+<td><p><a href="../Page/古丁_(愛達荷州).md" title="wikilink">古丁</a>，<a href="https://zh.wikipedia.org/wiki/愛達荷州" title="wikilink">愛達荷州</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

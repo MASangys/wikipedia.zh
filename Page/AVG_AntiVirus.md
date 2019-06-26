@@ -125,6 +125,7 @@ Technologies\[1\]。
   - [商業版官方網站](http://www.avg.com/)
   - [台灣官方網站](http://www.avgtaiwan.com)
   - [台灣免費版官方網站](http://free.avgtaiwan.com/)
+  - [香港AVG金級軟體代理商](http://www.hkavg.com/)
   - [香港軟體代理商](http://grandsoft.com.hk/zh/products/avg.html)
   - [AntiVirus FREE：免費反病毒軟體- Google Play Android
     應用程式](https://play.google.com/store/apps/details?id=com.antivirus&hl=zh_TW)

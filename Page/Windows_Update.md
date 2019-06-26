@@ -63,7 +63,7 @@ Explorer网络浏览器自动控制安装补丁](../Page/Internet_Explorer.md "w
 Update不是一个网络应用程序。取而代之，所有Windows
 Update网站功能已經被整合到一个新的[控制台中](https://zh.wikipedia.org/wiki/控制台 "wikilink")。另外，Windows
 Update将负责递送Vista的[Windows
-Defender](../Page/Windows_Defender.md "wikilink")[反间谍软件产品的最新定义](https://zh.wikipedia.org/wiki/反间谍软件 "wikilink")，还有[Windows
+Defender](../Page/Windows_Defender.md "wikilink")[反间谍软件产品的最新定义](../Page/反间谍软件.md "wikilink")，还有[Windows
 Mail的垃圾邮件过滤器更新](../Page/Windows_Mail.md "wikilink")。Windows
 Update将同样為其他微软产品，比如[Microsoft
 Office提供自动更新](../Page/Microsoft_Office.md "wikilink")，用戶可自行選擇是否開啟Microsoft
@@ -91,8 +91,9 @@ Update除了出現在控制台(Control Panel)，另外也出現在Windows新推�
 [10-windows-update.png](https://zh.wikipedia.org/wiki/File:10-windows-update.png "fig:10-windows-update.png")
 在[Windows
 10中](../Page/Windows_10.md "wikilink")，改成只出現在\[設定\](Settings)的\[更新與安全性\](Update
-and
-Security)下，更新設定不再允許使用者設定自動更新(家用版完全無法延後更新)，而改成在使用者使用電腦或行動裝置運行時背景自動下載與安裝，並要求使用者重新啟動裝置。
+and Security)下，更新設定不再允許使用者設定自動更新(Windows 10專業版和Windows
+10企業版可延後更新，但Windows
+10家用版無法延後更新)，而改成在使用者使用電腦或行動裝置運行時背景自動下載與安裝，並要求使用者重新啟動裝置。
 
 ## 微软“正版增值”计划
 

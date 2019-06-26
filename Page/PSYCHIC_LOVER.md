@@ -1,5 +1,6 @@
 **PSYCHIC
-LOVER**(サイキックラバー)是[搖滾](https://zh.wikipedia.org/wiki/搖滾 "wikilink")、[動畫](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")、[特攝歌曲的二人組合](https://zh.wikipedia.org/wiki/特攝 "wikilink")，被稱為「ANISONG界日本代表樂隊」\[1\]，2013年之前為所屬，及後一度為[バーチェストン](http://virtuestone.com/)所屬後，於2015年9月於YOFFY個人網誌上宣佈改為YOFFY自身擔任社長的音樂制作會社「（株）フィアレス」所屬\[2\]。
+LOVER**(サイキックラバー)是[搖滾](https://zh.wikipedia.org/wiki/搖滾 "wikilink")、[動畫](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")、[特攝歌曲的二人組合](https://zh.wikipedia.org/wiki/特攝 "wikilink")，被稱為「ANISONG界日本代表樂隊」\[1\]，2013年之前為所屬，之後一度為[バーチェストン](http://virtuestone.com/)所屬；及後2015年9月至2018年10月30日期間為主唱YOFFY自身擔任社長的音樂制作會社「（株）フィアレス」所屬\[2\]，後來2018年11月1日起宣佈為Bright
+Idea Inc.(ブライトイデア)所屬\[3\]。。
 
 ## 概要
 
@@ -27,6 +28,9 @@ LOVER**(サイキックラバー)是[搖滾](https://zh.wikipedia.org/wiki/搖�
 
 最初是以YOFFY為中心的5人組樂團，但是成員經過多次的替換，最後與JOE再組成二人組合。及後，自制歌曲被「アニぱら音樂館」使用，以此為契機成為動畫歌曲團體。並在2003年2月1日以單曲「TRAMSFORMER-Dream
 Again」和「Never Ending Road」正式出道。
+
+2018年2月17日為紀念出道15周年，宣佈成立官方FAN CLUB「[PSYCHIC MANIA(サイキック
+マニア)](http://www.psychic-mania.com/)」\[4\]
 
 ### 備註
 
@@ -420,3 +424,5 @@ LOVER日本哥倫比亞唱片公司官方網站](http://columbia.jp/artist-info/
 
 1.
 2.
+3.
+4.

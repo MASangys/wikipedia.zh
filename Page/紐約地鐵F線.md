@@ -60,7 +60,7 @@ F線列車任何時候都營運，來往的[179街來往](https://zh.wikipedia.o
 
 1997年5月，線改行慢車開往牙買加-179街。
 
-2001年12月16日，連接[IND63街線與](https://zh.wikipedia.org/wiki/IND63街線 "wikilink")[IND皇后大道線的](https://zh.wikipedia.org/wiki/IND皇后大道線 "wikilink")[63街隧道開通](https://zh.wikipedia.org/wiki/63街隧道 "wikilink")。在高度爭議下，線改走63街隧道，行慢車的線取代原先所走的53街隧道往返曼哈頓及皇后區。線列車開始全天營運皇后區（七十一大道-州陸大道車站至21街-皇后橋車站）的快車。
+2001年12月16日，連接[IND63街線與](https://zh.wikipedia.org/wiki/IND63街線 "wikilink")[IND皇后大道線的](https://zh.wikipedia.org/wiki/IND皇后大道線 "wikilink")[63街隧道開通](../Page/63街隧道.md "wikilink")。在高度爭議下，線改走63街隧道，行慢車的線取代原先所走的53街隧道往返曼哈頓及皇后區。線列車開始全天營運皇后區（七十一大道-州陸大道車站至21街-皇后橋車站）的快車。
 
 2002年9月8日，科尼島-斯提威爾車站因重建關閉，線端點站改至X大道車站，開行X大道至科尼島-斯提威爾大道的區間公車，重建工程於2004年5月23日完工開放。
 

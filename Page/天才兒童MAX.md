@@ -200,7 +200,7 @@ NHK數位教育台在[日本時間每週一到週四下午](https://zh.wikipedia
 
   - [ハリセンボン](https://zh.wikipedia.org/wiki/ハリセンボン "wikilink")
 
-`* こんどん（`[`近藤春菜`](https://zh.wikipedia.org/wiki/近藤春菜 "wikilink")`）`
+`* こんどん（`[`近藤春菜`](../Page/近藤春菜.md "wikilink")`）`
 `* みのぽー（`[`箕輪春香`](https://zh.wikipedia.org/wiki/箕輪春香 "wikilink")`）`
 
   - Uto（ユート）
@@ -249,7 +249,7 @@ NHK數位教育台在[日本時間每週一到週四下午](https://zh.wikipedia
 
   - [ハリセンボン](https://zh.wikipedia.org/wiki/ハリセンボン "wikilink")
 
-`* こんどん（`[`近藤春菜`](https://zh.wikipedia.org/wiki/近藤春菜 "wikilink")`）`
+`* こんどん（`[`近藤春菜`](../Page/近藤春菜.md "wikilink")`）`
 `* みのぽー（`[`箕輪春香`](https://zh.wikipedia.org/wiki/箕輪春香 "wikilink")`）`
 
   - ミナリカ（MinaLica）
@@ -300,7 +300,7 @@ NHK數位教育台在[日本時間每週一到週四下午](https://zh.wikipedia
 
   - [ハリセンボン](https://zh.wikipedia.org/wiki/ハリセンボン "wikilink")
 
-`* こんどん（`[`近藤春菜`](https://zh.wikipedia.org/wiki/近藤春菜 "wikilink")`）`
+`* こんどん（`[`近藤春菜`](../Page/近藤春菜.md "wikilink")`）`
 `* みのぽー（`[`箕輪春香`](https://zh.wikipedia.org/wiki/箕輪春香 "wikilink")`）`
 
   - [笠原拓巳](../Page/笠原拓巳.md "wikilink")（中学2年級）

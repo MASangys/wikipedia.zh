@@ -20,9 +20,8 @@ zh-hant:鐵必制;}-的设计建造计划也进入了研讨阶段](https://zh.wi
 
 在Z计划以后的改进中，两种海军重建的指导思路被提了出来：
 
-  - 重建一个大型的，足以同时对抗英国和法国的水面舰队。该思路，以当时德国海军总司令[埃里希·雷德尔](../Page/埃里希·雷德尔.md "wikilink")（Erich
-    Johann Albert Raeder）的观点代表。
-  - 建造一个数量庞大的[U-潜艇群](https://zh.wikipedia.org/wiki/U-潜艇 "wikilink")，同时配合[装甲舰破坏敌人的](../Page/装甲舰.md "wikilink")[海上交通线](https://zh.wikipedia.org/wiki/海上交通线 "wikilink")。这种思路则由一战时曾驾驶过潜艇，后来任海军司令的[卡尔·邓尼茨](../Page/卡尔·邓尼茨.md "wikilink")（）提出。
+  - 重建一个大型的，足以同时对抗英国和法国的水面舰队。该思路，以当时德国海军总司令[埃里希·雷德尔的观点代表](../Page/埃里希·雷德尔.md "wikilink")。
+  - 建造一个数量庞大的[U-潜艇群](https://zh.wikipedia.org/wiki/U-潜艇 "wikilink")，同时配合[装甲舰破坏敌人的](../Page/装甲舰.md "wikilink")[海上交通线](https://zh.wikipedia.org/wiki/海上交通线 "wikilink")。这种思路则由一战时曾驾驶过潜艇，后来任海军司令的[卡尔·邓尼茨提出](../Page/卡尔·邓尼茨.md "wikilink")。
 
 但是，必须要指出的一点是如果德国要破坏英国在[大西洋的海上交通线](../Page/大西洋.md "wikilink")，德国海军的战舰将不得不通过由[皇家海军称霸的](https://zh.wikipedia.org/wiki/皇家海军 "wikilink")[北海](../Page/北海_\(大西洋\).md "wikilink")。于是德国选择了前者。
 
@@ -39,8 +38,7 @@ zh-hant:鐵必制;}-的设计建造计划也进入了研讨阶段](https://zh.wi
   - 两艘“改进型M级”轻巡洋舰
   - 六艘[“远洋侦察级”大型驱逐舰](../Page/遠洋偵察級輕巡洋艦.md "wikilink")
 
-第一个航空母舰[齐柏林伯爵号](../Page/齊柏林伯爵號航空母艦.md "wikilink")（Graf
-Zeppelin）建造开始于1936年，同级二号舰定于1938年开工。到了1939年中旬，随着俾斯麦号和提尔皮茨号的下水，三艘改良型战列舰（[H级战列舰](../Page/H级战列舰.md "wikilink")）开始铺设龙骨。与此同时，[Bf
+第一个航空母舰[齐柏林伯爵号建造开始于](../Page/齊柏林伯爵號航空母艦.md "wikilink")1936年，同级二号舰定于1938年开工。到了1939年中旬，随着俾斯麦号和提尔皮茨号的下水，三艘改良型战列舰（[H级战列舰](../Page/H级战列舰.md "wikilink")）开始铺设龙骨。与此同时，[Bf
 109战斗机以及](https://zh.wikipedia.org/wiki/Bf_109 "wikilink")[容克Ju-87施图卡轰炸机的舰载型也开始研究](https://zh.wikipedia.org/wiki/Ju_87 "wikilink")。但十分不幸运的是，随着[第二次世界大战的爆发](../Page/第二次世界大战.md "wikilink")，所有巨大而昂贵的建造计划消耗了大量贵重的原材料，影响了陆军和空军的发展和运行。
 
 最后，幾乎所有战列舰的建造计划都被取消，并将其所需的材料以及拆卸下的材料，用于建造更多的[U-潜艇](https://zh.wikipedia.org/wiki/U-潜艇 "wikilink")。

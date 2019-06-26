@@ -42,7 +42,7 @@ Machine & Tools後備照門的CQBR。
 MOD0 CARBINE」的版本。 <File:A> U.S. Special Operations Marine provides
 security as Afghan Local Police members collect their first payments in
 Helmand province, Afghanistan, April 9, 2013
-130409-M-BO337-033.jpg|美國海軍陸戰隊特戰團隊員使用CQBR
+130409-M-BO337-033.jpg|[美國海軍陸戰隊特戰團隊員使用CQBR](../Page/美國海軍陸戰隊關鍵技能幹員.md "wikilink")
 
 ## 使用國
 

@@ -1405,6 +1405,30 @@ PUMP相同](../Page/DA_PUMP.md "wikilink")，是被傑尼斯事務所視作競�
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><strong>AAA C.A.L After Party 2018</strong></p></td>
+<td><p>12月26日 パシフィコ横浜<br />
+12月27日 パシフィコ横浜 </p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年</p></td>
+<td><p><strong>AAA FAN MEETING ARENA TOUR 2019 ～FAN FUN FAN～</strong></p></td>
+<td><p>6月15日 宮城 セキスイハイムスーパーアリーナ※<br />
+6月18日 さいたまスーパーアリーナ<br />
+6月19日 さいたまスーパーアリーナ※<br />
+6月29日 三重県営サンアリーナ※<br />
+7月6日 マリンメッセ福岡※<br />
+7月7日 マリンメッセ福岡※<br />
+7月13日 真駒内セキスイハイムアイスアリーナ※<br />
+7月20日 サンドーム福井※<br />
+8月2日 広島グリーンアリーナ※<br />
+8月6日 大阪城ホール※<br />
+8月7日 大阪城ホール※<br />
+※為1日2回公演 </p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>

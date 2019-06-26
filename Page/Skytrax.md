@@ -310,8 +310,6 @@ Research Services的附屬公司，
 
   - [仁川國際機場](../Page/仁川國際機場.md "wikilink")
 
-  - [海口美蘭國際機場](https://zh.wikipedia.org/wiki/海口美蘭國際機場 "wikilink")
-
   - [東京國際機場](../Page/東京國際機場.md "wikilink")
 
   - [中部國際機場](../Page/中部國際機場.md "wikilink")

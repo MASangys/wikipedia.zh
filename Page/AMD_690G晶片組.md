@@ -86,7 +86,7 @@ X9.0c及Shader Model 3.0，而只支援Direct X9.0及Shader Model
 <td style="text-align: center;"><p><strong>690G</strong></p></td>
 <td style="text-align: center;"><p><a href="../Page/青雲國際科技.md" title="wikilink">青雲國際科技</a></p></td>
 <td style="text-align: center;"><p>KI690-AM2</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Mini-ITX" title="wikilink">Mini-ITX</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/Mini-ITX.md" title="wikilink">Mini-ITX</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p>需要<a href="../Page/DDR2_SDRAM.md" title="wikilink">DDR2</a> <a href="../Page/SO-DIMM.md" title="wikilink">SO-DIMM</a></p></td>

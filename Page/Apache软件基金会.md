@@ -4,14 +4,12 @@ License）。
 
 ## 发展历史
 
-Apache软件基金会正式创建于1999年，它的创建者是一个自称为“Apache组织”的群体。这个“Apache组织”在1999年以前就已经存在很长时间了，这个组织的开发爱好者们聚集在一起，在美国伊利诺伊大学超级计算机应用程序国家中心（National
-Center for Supercomputing
-Applications，简称为[NCSA](https://zh.wikipedia.org/wiki/NCSA "wikilink")）开发的NCSA
-HTTPd服务器的基础上开发与维护了一个叫[Apache的](https://zh.wikipedia.org/wiki/Apache "wikilink")[HTTP服务器](https://zh.wikipedia.org/wiki/HTTP服务器 "wikilink")。
+Apache软件基金会正式创建于1999年，创始团队自称“Apache组织”。“Apache组织”在1999年以前就存在，由一群开发爱好者们构成。他们在[美国国家超级计算机应用中心开发的NCSA](https://zh.wikipedia.org/wiki/NCSA "wikilink")
+HTTPd的基础上，开发与维护了一个叫[Apache的](https://zh.wikipedia.org/wiki/Apache "wikilink")[HTTP服务器](https://zh.wikipedia.org/wiki/HTTP服务器 "wikilink")。
 
-最初NCSA HTTPd服务器是由Rob
-McCool开发出来的，但是它的最初开发者们逐渐对这个软件失去了兴趣，并转移到了其他地方，造成了没有人来对这个[服务器软件提供更多的技术支持](../Page/服务器.md "wikilink")。因为这个[服务器的功能又如此强大](../Page/服务器.md "wikilink")，而代码可以自由下载修改与发布，当时这个[服务器软件的一些爱好者与用户开始自发起来](../Page/服务器.md "wikilink")，互相交流并分发自己修正后的软件版本，并不断改善其功能。为了更好进行沟通，Brian
-Behlendorf自己建立了一个[邮件列表](https://zh.wikipedia.org/wiki/邮件列表 "wikilink")，把它作为这个群体（或者社区）交流技术、维护软件的一个媒介，把代码重写与维护的工作有效组织起来。这些开发者们逐渐地把他们这个群体称为“Apache组织”，把这个经过不断修正并改善的服务器软件命名为Apache服务器（Apache
+最初NCSA HTTPd服务器由Rob
+McCool开发，但是开发者逐渐对这个软件失去了兴趣，不再提供技术支持服务。因为此软件的功能强大，而代码可以自由下载修改与发布，一些爱好者与用户开始自发参与。他们探讨并分发自己修改后的软件版本，不断地改善其功能。为了更好进行沟通，Brian
+Behlendorf建立了一个[邮件列表](https://zh.wikipedia.org/wiki/邮件列表 "wikilink")，用于这个社区的技术交流，把代码重写与维护的工作有效组织起来。这些开发者们逐渐地把他们这个群体称为“Apache组织”，把这个经过不断修正并改善的服务器软件命名为Apache服务器（Apache
 Server）。
 
 这个命名是根据[北美当地的一支](https://zh.wikipedia.org/wiki/北美 "wikilink")[印第安部落而来](https://zh.wikipedia.org/wiki/印第安 "wikilink")，这支部落以高超的军事素养和超人的忍耐力著称，19世纪后半期对侵占他们领土的入侵者进行了反抗。为了对这支[印第安部落表示敬仰之意](https://zh.wikipedia.org/wiki/印第安 "wikilink")，取该部落名称（Apache）作为服务器名。但一提到这个命名，这里还有流传着一段有意思的故事。因为这个服务器是在NCSA
@@ -25,9 +23,7 @@ perl](https://zh.wikipedia.org/wiki/mod_perl "wikilink")、[PHP](../Page/PHP.md 
 Apache等等。随着时间的推移、形势的变化，Apache软件基金会的项目列表也不断更新变化中——不断的有新项目启动，项目的中止以及项目的拆分与合并。比如一开始，[Jakarta就是为了发展](../Page/Jakarta项目.md "wikilink")[JAVA容器而启动的Java](https://zh.wikipedia.org/wiki/JAVA "wikilink")
 Apache项目，后来由于[昇陽電腦的建议](../Page/昇陽電腦.md "wikilink")，项目名称变为Jakarta。但当时该项目的管理者也没有想到Jakarta项目因为[JAVA的火爆而发展到如今一个囊括了众多基于](https://zh.wikipedia.org/wiki/JAVA "wikilink")[JAVA语言](https://zh.wikipedia.org/wiki/JAVA "wikilink")[开源软件子项目的项目](../Page/开源软件.md "wikilink")。以至后来，不得不把个别项目从Jakarta中独立出来，成为Apache软件基金会的顶级项目，[Struts项目就是其中之一](../Page/Struts.md "wikilink")。
 
-最近，为了避免[SCO与](../Page/SCO_Group.md "wikilink")[UNIX](../Page/UNIX.md "wikilink")
-[开源社区之间的发生](https://zh.wikipedia.org/wiki/开源社区 "wikilink")[纠纷降临在Apache软件基金会](https://zh.wikipedia.org/wiki/SCO-Linux爭議 "wikilink")（ASF）身上。Apache软件基金会（ASF）裡面开始采取一些措施，让众多的项目进行更多协调的、结构化管理，并保护自己的合法利益，避免一些潜在的合乎法律的侵犯（potential
-legal attacks）。
+为了避免类似[SCO-Linux爭議的事件影响Apache软件基金会](https://zh.wikipedia.org/wiki/SCO-Linux爭議 "wikilink")，Apache软件基金会在项目中采取结构化管理，以保护自己的合法利益，避免潜在的法律风险。
 
 ## 组织构成
 

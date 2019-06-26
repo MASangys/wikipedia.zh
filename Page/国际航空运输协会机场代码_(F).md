@@ -98,7 +98,7 @@
 <tr class="odd">
 <td><p>FAO</p></td>
 <td><p>LPFR</p></td>
-<td></td>
+<td><p><a href="../Page/法魯機場.md" title="wikilink">法魯機場</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/法魯" title="wikilink">法魯</a>，<a href="../Page/阿爾加維.md" title="wikilink">阿爾加維</a></p></td>
 <td></td>
 </tr>
@@ -288,7 +288,7 @@
 <td><p>FCS</p></td>
 <td><p>KFCS</p></td>
 <td></td>
-<td><p>，<a href="../Page/科羅拉多州.md" title="wikilink">科羅拉多州</a></p></td>
+<td><p><a href="../Page/卡森堡.md" title="wikilink">卡森堡</a>，<a href="../Page/科羅拉多州.md" title="wikilink">科羅拉多州</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -764,7 +764,7 @@
 <td><p>FLP</p></td>
 <td><p>KFLP</p></td>
 <td></td>
-<td><p>，<a href="../Page/阿肯色州.md" title="wikilink">阿肯色州</a></p></td>
+<td><p><a href="../Page/弗利平_(阿肯色州).md" title="wikilink">弗利平</a>，<a href="../Page/阿肯色州.md" title="wikilink">阿肯色州</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

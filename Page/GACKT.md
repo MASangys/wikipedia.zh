@@ -70,7 +70,7 @@
       - 8月22日
         睽違二年後，第3度以[上杉謙信之姿參與](../Page/上杉謙信.md "wikilink")[上越市](../Page/上越市.md "wikilink")『第85回謙信公祭2010』的演出，並創下[上越市](../Page/上越市.md "wikilink")[謙信公祭有史以來最多參與人數](https://zh.wikipedia.org/wiki/:GACKT#.E8.AC.99.E4.BF.A1.E5.85.AC.E7.A5.AD "wikilink")─240,211人次。之後更於2011、2013、2014年參與[謙信公祭](http://ja.wikipedia.org/wiki/%E8%AC%99%E4%BF%A1%E5%85%AC%E7%A5%AD)的演出，每年皆有超過20萬人次的名眾共襄盛舉。
       - 12月14日
-        與[韓國明星](https://zh.wikipedia.org/wiki/韓國 "wikilink")[裴勇俊](https://zh.wikipedia.org/wiki/裴勇俊 "wikilink")、[台灣明星](https://zh.wikipedia.org/wiki/台灣 "wikilink")[吳建豪](../Page/吳建豪.md "wikilink")、[鄭元暢](https://zh.wikipedia.org/wiki/鄭元暢 "wikilink")...等藝人於[東京巨蛋參加](../Page/東京巨蛋.md "wikilink")[Message\!
+        與[韓國明星](https://zh.wikipedia.org/wiki/韓國 "wikilink")[裴勇俊](https://zh.wikipedia.org/wiki/裴勇俊 "wikilink")、[台灣明星](https://zh.wikipedia.org/wiki/台灣 "wikilink")[吳建豪](../Page/吳建豪.md "wikilink")、[鄭元暢](../Page/鄭元暢.md "wikilink")...等藝人於[東京巨蛋參加](../Page/東京巨蛋.md "wikilink")[Message\!
         to
         Asia](http://hohoemi.datv.jp/event.php)公開收錄，並捐出單飛以來一直陪伴在身邊有如戀人般的愛車『[龐蒂克火鳥](../Page/龐蒂克火鳥.md "wikilink")
         限定款 WS6』（ポンティアック・ファイヤーバード・トランザム 限定モデル

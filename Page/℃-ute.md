@@ -1212,7 +1212,7 @@ cute
 
 ## 外部連結
 
-  - [Hell\!
+  - [Hello\!
     Project\!](https://web.archive.org/web/20090819082943/http://www.hellproject.com/group/C-ute)
   - [UP-FONT WORKS](http://www.up-front-works.jp/)
   - [℃-ute GREE 官方部落格](http://gree.jp/c_ute)

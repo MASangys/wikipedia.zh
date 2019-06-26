@@ -6,7 +6,7 @@
 
 主要由[Honeywell公司組成的ZigBe](https://zh.wikipedia.org/wiki/Honeywell "wikilink")
 Alliance制定，從1998年開始發展，於2001年向[電機電子工程師學會](https://zh.wikipedia.org/wiki/電機電子工程師學會 "wikilink")（IEEE）提案納入IEEE
-802.15.4標準規範之中，自此將ZigBee技術漸漸成為各業界共同通用的低速短距無線通訊技術之一。\[2\]
+802.15.4標準規範之中，自此將ZigBee技術漸漸成為各業界共同通用的低速短距無線通訊技術之一\[2\]。
 
 ## IEEE802.15.4/ZigBee协议概述
 

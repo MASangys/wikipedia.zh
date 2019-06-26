@@ -4,7 +4,7 @@ InDesign**是[Adobe公司的一個](../Page/Adobe.md "wikilink")[桌面出版](.
 ## 概述
 
 Adobe
-InDesign是直接針對其競爭對手[QuarkXPress而發佈的](https://zh.wikipedia.org/wiki/QuarkXPress "wikilink")。雖然最初在爭取用戶方面面臨了一些困難，但在2002年發佈了[Mac
+InDesign是直接針對其競爭對手[QuarkXPress而發佈的](https://zh.wikipedia.org/wiki/QuarkXPress "wikilink")。雖然其最初在爭取用戶方面面臨了一些困難，但在2002年發佈了[Mac
 OS
 X版本後開始趕超其競爭對手](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")。現在InDesign作為[Creative
 Suite套裝的重要組成部分](https://zh.wikipedia.org/wiki/Creative_Suite "wikilink")，與[Photoshop](https://zh.wikipedia.org/wiki/Photoshop "wikilink")、[Illustrator和](https://zh.wikipedia.org/wiki/Illustrator "wikilink")[Acrobat等捆綁銷售](../Page/Adobe_Acrobat.md "wikilink")。

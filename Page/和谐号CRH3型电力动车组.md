@@ -420,7 +420,6 @@ ZE 3xxx00</p></td>
 [Category:西门子製鐵路車輛](https://zh.wikipedia.org/wiki/Category:西门子製鐵路車輛 "wikilink")
 [Category:中车唐山制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车唐山制铁路车辆 "wikilink")
 [Category:25千伏50赫兹交流电力动车组](https://zh.wikipedia.org/wiki/Category:25千伏50赫兹交流电力动车组 "wikilink")
-[Category:北京铁路局车辆](https://zh.wikipedia.org/wiki/Category:北京铁路局车辆 "wikilink")
 [Category:和谐号电力动车组](https://zh.wikipedia.org/wiki/Category:和谐号电力动车组 "wikilink")
 
 1.

@@ -19,47 +19,14 @@ World Premium收看](../Page/NHK_World_Premium.md "wikilink")。
 
 ## 現任播報員
 
-<table>
-<thead>
-<tr class="header">
-<th><p>播报员</p></th>
-<th><p>在职时间</p></th>
-<th><p>职务</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td></td>
-<td><p>2017 - 現在</p></td>
-<td><p>主播（平日）</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><p>2017 - 現在</p></td>
-<td><p>主播（週末、假日）</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/高井正智" title="wikilink">高井正智</a></p></td>
-<td><p>2017 - 現在</p></td>
-<td><p>副主播（平日）</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/井上裕貴" title="wikilink">井上裕貴</a></p></td>
-<td><p>2017 - 現在</p></td>
-<td><p>副主播（週末、假日）</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/平野有海" title="wikilink">平野有海</a></p></td>
-<td><p>2017 - 現在</p></td>
-<td><p>天气预报（平日）</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/國本末華" title="wikilink">國本末華</a></p></td>
-<td><p>2017 - 現在</p></td>
-<td><p>天气预报（週末、假日）</p></td>
-</tr>
-</tbody>
-</table>
+| 播报员                                                     | 在职时间      | 职务          |
+| ------------------------------------------------------- | --------- | ----------- |
+| [铃木奈穗子](https://zh.wikipedia.org/wiki/铃木奈穗子 "wikilink") | 2017 - 現在 | 主播（平日）      |
+| [井上あさひ](https://zh.wikipedia.org/wiki/井上あさひ "wikilink") | 2017 - 現在 | 主播（週末、假日）   |
+| [高井正智](https://zh.wikipedia.org/wiki/高井正智 "wikilink")   | 2017 - 現在 | 副主播（平日）     |
+| [井上裕貴](https://zh.wikipedia.org/wiki/井上裕貴 "wikilink")   | 2017 - 現在 | 副主播（週末、假日）  |
+| [平野有海](https://zh.wikipedia.org/wiki/平野有海 "wikilink")   | 2017 - 現在 | 天气预报（平日）    |
+| [國本末華](https://zh.wikipedia.org/wiki/國本末華 "wikilink")   | 2017 - 現在 | 天气预报（週末、假日） |
 
 ## 片頭
 

@@ -126,7 +126,7 @@ CW复形的[奇异同调](https://zh.wikipedia.org/wiki/奇异同调 "wikilink")
     上的[积拓扑一致](../Page/积空间.md "wikilink")，例如当 \(X\) 或
     \(Y\) 之一是有限CW复形（或更一般地，当它们之一是**局部有限**的，也即在每个维度它有有限个胞腔）。然而，如果 \(X\) 和
     \(Y\)
-    皆非[局部紧](https://zh.wikipedia.org/wiki/局部紧空间 "wikilink")，弱拓扑可能比积拓扑更[精细](https://zh.wikipedia.org/wiki/拓撲比較 "wikilink")。在这种不利的情形下，两个复形的积（作为拓扑空间）
+    皆非[局部紧](https://zh.wikipedia.org/wiki/局部紧空间 "wikilink")，弱拓扑可能比积拓扑更[精细](../Page/拓撲比較.md "wikilink")。在这种不利的情形下，两个复形的积（作为拓扑空间）
     \(X\times Y\) *不是*一个CW复形。另一方面，\(X\) 和 \(Y\)
     在[紧生成空间范畴中的积的拓扑与弱拓扑一致](../Page/紧生成空间.md "wikilink")，因此确实定义出一个CW复形。
   - 设 \(X\) 和 \(Y\) 为CW复形。[函数空间](../Page/函数空间.md "wikilink")

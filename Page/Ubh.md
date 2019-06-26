@@ -1,6 +1,6 @@
 |series=未知 |predicted series=未知 |series
 comment=可能為[超錒系元素](https://zh.wikipedia.org/wiki/超錒系元素 "wikilink")
-|group=n/a |period=8 |block=g |series color= |phase color= |appearance=
+|group=不適用 |period=8 |block=g |series color= |phase color= |appearance=
 |image name= |image size= |image name comment= |image name 2= |image
 size 2= |image name 2 comment= |atomic mass=未知 |atomic mass 2= |atomic
 mass comment= |electron configuration=

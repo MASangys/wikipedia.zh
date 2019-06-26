@@ -154,7 +154,8 @@ W和](https://zh.wikipedia.org/wiki/GUNDAM_W "wikilink")[鐵血的孤兒並未�
 
   - G-BIT或BIT-MS,GUNDAM
     X獨有的是NEWTYPE專用的無人機動戰士，可以由一台由新人類的隊長機(通常是鋼彈)或母艦或基地上，也是少數不以機動戰士或機動裝甲搭載，只可以在宇宙戰艦(或在大氣層中[飛行戰艦或陸上行駛的巨大](../Page/飛行戰艦.md "wikilink")[氣墊船](../Page/氣墊船.md "wikilink"))或固定基地配備的類感應炮武器。經過稱為閃影系統(FLASH
-    SYSTEM)的中央指揮多台無人機。算是所有類似系統中最難駕馭，但因為事實使用過擁有小[當量核彈級威力的](https://zh.wikipedia.org/wiki/當量 "wikilink")[太陽能衛星炮和原則上可以使用](https://zh.wikipedia.org/wiki/太陽能 "wikilink")[核彈](https://zh.wikipedia.org/wiki/核彈 "wikilink")，也可以說是威力最大的感應炮類武器。缺點是需要有相當指揮經驗的新人類指揮官，所以僅為聯邦方面使用，甚至人工新人類或生手的天然新人類也無法使用。而戰時重傷的新人類指揮官們也事實喪失控制的能力，實際唯一可以用的是女主角蒂法。
+    SYSTEM)的中央指揮多台無人機。算是所有類似系統中最難駕馭，但因為事實使用過擁有小[當量核彈級威力的](https://zh.wikipedia.org/wiki/當量 "wikilink")[太陽能衛星炮和原則上可以使用](https://zh.wikipedia.org/wiki/太陽能 "wikilink")[核彈](https://zh.wikipedia.org/wiki/核彈 "wikilink")，也可以說是威力最大的感應炮類武器。缺點是需要有相當指揮經驗的新人類指揮官，所以僅為聯邦方面使用，甚至人工新人類或生手的天然新人類也無法使用。而戰時重傷的新人類指揮官們也事實喪失控制的能力，實際唯一可以用的是女主角蒂法。而在[GUNDAM
+    W和](https://zh.wikipedia.org/wiki/GUNDAM_W "wikilink")[G-Saviour雖然有無人機動戰士但並不是用感應的方式控制](../Page/G-Saviour.md "wikilink")，作戰效率亦遠遜於G-BIT。
 
 <!-- end list -->
 

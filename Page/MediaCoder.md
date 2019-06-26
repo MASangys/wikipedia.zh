@@ -24,7 +24,7 @@ EULA](http://blog.mediacoderhq.com/docs/EULA/)协议发布，并从[Sourceforge�
     Audio](../Page/Windows_Media_Audio.md "wikilink")，[RealAudio](https://zh.wikipedia.org/wiki/RealAudio "wikilink")
   - [FLAC](../Page/FLAC.md "wikilink")，[WavPack](../Page/WavPack.md "wikilink")，[Monkey's
     Audio](../Page/Monkey's_Audio.md "wikilink") (APE, APL),
-    [OptimFROG](https://zh.wikipedia.org/wiki/OptimFROG "wikilink")，[AAC
+    [OptimFROG](../Page/OptimFROG.md "wikilink")，[AAC
     Lossless](https://zh.wikipedia.org/wiki/AAC_Lossless "wikilink")，[WMA
     Lossless](https://zh.wikipedia.org/wiki/WMA_Lossless "wikilink")，[WAV](../Page/WAV.md "wikilink")
   - [H.265](https://zh.wikipedia.org/wiki/H.265 "wikilink")，[H.264](https://zh.wikipedia.org/wiki/H.264 "wikilink")，[Xvid](../Page/Xvid.md "wikilink")，[DivX](../Page/DivX.md "wikilink")

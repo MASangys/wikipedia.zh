@@ -848,7 +848,7 @@
 <td><p>AFD</p></td>
 <td><p>FAPA</p></td>
 <td><p><a href="../Page/艾爾弗雷德港機場.md" title="wikilink">艾爾弗雷德港機場</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/東開普省" title="wikilink">東開普省</a><a href="https://zh.wikipedia.org/wiki/艾爾弗雷德港" title="wikilink">艾爾弗雷德港</a></p></td>
+<td><p><a href="../Page/東開普省.md" title="wikilink">東開普省</a><a href="https://zh.wikipedia.org/wiki/艾爾弗雷德港" title="wikilink">艾爾弗雷德港</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

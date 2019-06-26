@@ -5,7 +5,7 @@ Router」（洋蔥路由器）的英語縮寫\[1\]\[2\]。用戶可透過Tor接�
 
 Tor不會阻止在線網站判斷用戶是否通過Tor訪問該網站。儘管它保護用戶的私隱，但卻不會掩飾用戶正在使用Tor這一事實。有些網站會對使用Tor的用戶進行限制。[MediaWiki的擴充功能Torblock便是其中一個例子](../Page/MediaWiki.md "wikilink")，其能自動地限制透過Tor進行的編輯。而使用了Torblock的[維基百科則容許用戶在某些情況下透過Tor编辑其內容](https://zh.wikipedia.org/wiki/維基百科 "wikilink")\[5\]。
 
-Tor透過在5層協定棧中的[應用層進行](https://zh.wikipedia.org/wiki/应用层 "wikilink")[加密](https://zh.wikipedia.org/wiki/加密 "wikilink")，從而實現[洋葱路由這一種技術](../Page/洋葱路由.md "wikilink")。Tor會對包括下一個節點的[IP地址在內的數據](../Page/IP地址.md "wikilink")，進行多次加密，並透過[虛擬電路](https://zh.wikipedia.org/wiki/虛擬電路 "wikilink")（包括隨機選擇的Tor节点）將其送出。每個中繼都會對一層加密的數據進行解密，以知道數據的下一個傳送目的地，然後將剩餘的加密數據傳送給它。最後的中繼會解密最內層的加密數據，並在不會洩露或得知源IP地址的情況下，將原始數據發送至目標地址。\[6\]
+Tor透過在传输协议栈中的[應用層進行](https://zh.wikipedia.org/wiki/应用层 "wikilink")[加密](https://zh.wikipedia.org/wiki/加密 "wikilink")，從而實現[洋葱路由這一種技術](../Page/洋葱路由.md "wikilink")。Tor會對包括下一個節點的[IP地址在內的數據](../Page/IP地址.md "wikilink")，進行多次加密，並透過[虛擬電路](https://zh.wikipedia.org/wiki/虛擬電路 "wikilink")（包括隨機選擇的Tor节点）將其送出。每個中繼都會對一層加密的數據進行解密，以知道數據的下一個傳送目的地，然後將剩餘的加密數據傳送給它。最後的中繼會解密最內層的加密數據，並在不會洩露或得知源IP地址的情況下，將原始數據發送至目標地址。\[6\]
 
 攻擊者可能會嘗試透過某些手段來使Tor用戶去匿名化。包括利用Tor用戶電腦上的軟件[漏洞](https://zh.wikipedia.org/wiki/漏洞利用 "wikilink")\[7\]。美国国家安全-{}-局擁有針對Tor安裝包中所綑綁的舊版本Firefox漏洞的技術（代號「EgotisticalGiraffe」）\[8\]，並曾利用[XKeyscore系統來密切監控Tor用戶](https://zh.wikipedia.org/wiki/XKeyscore "wikilink")\[9\]。不少學者亦就如何破解Tor網絡進行過學術研究\[10\]\[11\]，此一行為受到Tor项目公司所肯定\[12\]。
 
@@ -135,7 +135,7 @@ Proxy多。利用網站指紋識別在傳統VPN協定上識別[HTTP封包的準�
 瑞典安全顧問丹·艾格斯塔德（Dan
 Egerstad）在2007年9月透露，他透過运行和監聽Tor出口節點來截獲一些電子郵件帳戶的用戶名和密碼\[102\]。由於Tor不能加密出口節點至目標伺服器之間的流量，所以任一出口節點皆有能力截獲通過它而又沒經過[傳輸層安全性協定](../Page/傳輸層安全性協定.md "wikilink")（TSL）或[安全通訊協定](https://zh.wikipedia.org/wiki/安全通訊協定 "wikilink")（SSL）進行端到端加密的流量。儘管這可能並不對來源端的匿名性構成任何影響，但截獲流量的第三方也可能能在[實際數據和協議數據中找到來源端的信息](../Page/负载_\(计算机\).md "wikilink")\[103\]。艾格斯塔德同時擔憂情報機構會暗中破坏Tor\[104\]：
 
-法國的一隊研究團隊在2011年10月宣稱找到危害Tor網絡安全性的方法——解密經過它的通訊\[105\]\[106\]。這項技術的前設包括一張關於Tor節點的圖表、控制三分之一的Tor節點、獲取用於加密的[密钥以及演算法的](https://zh.wikipedia.org/wiki/密钥 "wikilink")。他們宣稱他們能夠使用已知的密钥及随机种子，解密三層加密中的兩層，然後利用基於統計的攻擊來解密最後一層。最後為了將流量重定向到他們控制的節點而使用[阻斷服務攻擊](../Page/阻斷服務攻擊.md "wikilink")。Tor對此在官方博客上進行了回應，稱該些有關Tor網絡的安全性受到损害的传闻過分誇大\[107\]。
+法國的一隊研究團隊在2011年10月宣稱找到危害Tor網絡安全性的方法——解密經過它的通訊\[105\]\[106\]。這項技術的前設包括一張關於Tor節點的圖表、控制三分之一的Tor節點、獲取用於加密的[密钥以及演算法的](../Page/密钥.md "wikilink")。他們宣稱他們能夠使用已知的密钥及随机种子，解密三層加密中的兩層，然後利用基於統計的攻擊來解密最後一層。最後為了將流量重定向到他們控制的節點而使用[阻斷服務攻擊](../Page/阻斷服務攻擊.md "wikilink")。Tor對此在官方博客上進行了回應，稱該些有關Tor網絡的安全性受到损害的传闻過分誇大\[107\]。
 
 ### 流量分析攻擊
 
@@ -359,8 +359,10 @@ Tor在[中国被许多人用于突破](https://zh.wikipedia.org/wiki/中国 "wik
 
 ## 外部链接
 
-  - [Tor Project | Anonymity Online](https://www.torproject.org)
-  - [Tor 浏览器各语言版本下载地址](https://www.torproject.org/download/languages/)
+  - [Tor Project](https://www.torproject.org)/[Tor
+    官网简体中文界面](https://www.torproject.org/zh-CN/)
+  - [Tor
+    浏览器各语言版本下载地址](https://www.torproject.org/zh-CN/download/languages/)
 
 {{-}}
 

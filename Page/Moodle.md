@@ -1,6 +1,6 @@
-**Moodle**是一個[開源及](https://zh.wikipedia.org/wiki/開源軟件 "wikilink")[自由的](https://zh.wikipedia.org/wiki/自由軟件 "wikilink")[電子學習](https://zh.wikipedia.org/wiki/電子學習 "wikilink")[軟件平台](https://zh.wikipedia.org/wiki/軟件平台 "wikilink")，亦稱為[課程管理系統](https://zh.wikipedia.org/wiki/課程管理系統 "wikilink")、[學習管理系統或](https://zh.wikipedia.org/wiki/學習管理系統 "wikilink")[虛擬學習環境](https://zh.wikipedia.org/wiki/虛擬學習環境 "wikilink")。它有一個很有分量的用戶群體：根據其2010年1月的統計，現時有45,721個已註冊及查核的網站，為3200萬位用戶提供約300萬個課程\[1\]。
+**Moodle**是[開源及](https://zh.wikipedia.org/wiki/開源軟件 "wikilink")[自由的](https://zh.wikipedia.org/wiki/自由軟件 "wikilink")[電子學習](https://zh.wikipedia.org/wiki/電子學習 "wikilink")[軟件平台](https://zh.wikipedia.org/wiki/軟件平台 "wikilink")，亦稱為[課程管理系統](https://zh.wikipedia.org/wiki/課程管理系統 "wikilink")、[學習管理系統或](https://zh.wikipedia.org/wiki/學習管理系統 "wikilink")[虛擬學習環境](https://zh.wikipedia.org/wiki/虛擬學習環境 "wikilink")。其用戶群體很有分量：根據其2010年1月的統計，現時有45,721個已註冊及查核的網站，為3200萬位用戶提供約300萬個課程\[1\]。
 
-為一個[線上學習系統](../Page/線上學習.md "wikilink")，為全世界有150餘國70種語言所使用，其特色異於其他商業[線上教學平臺](https://zh.wikipedia.org/wiki/線上教學平臺 "wikilink")，屬於[開放原始碼的類別](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")。創建者為[馬丁·多基馬](https://zh.wikipedia.org/wiki/馬丁·多基馬 "wikilink")（）。
+為[線上學習系統](../Page/線上學習.md "wikilink")，為全世界有150餘國70種語言所使用，其特色異於其他商業[線上教學平臺](https://zh.wikipedia.org/wiki/線上教學平臺 "wikilink")，屬於[開放原始碼的類別](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")。創建者為[馬丁·多基馬](https://zh.wikipedia.org/wiki/馬丁·多基馬 "wikilink")（）。
 
 Moodle 的軟件最低安裝要求為 PHP 5.6.5 及 MariaDB 5.5.31 / MySQL 5.5.31 / Postgres
 9.3 / MSSQL 2008 / Oracle 10.2。

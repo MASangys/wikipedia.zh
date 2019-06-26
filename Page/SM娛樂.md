@@ -191,10 +191,11 @@ Entertainment](https://zh.wikipedia.org/wiki/Woollim_Entertainment "wikilink")\[
   - [厲旭](../Page/厲旭.md "wikilink")
   - [藝聲](../Page/藝聲.md "wikilink")
   - [Lay](../Page/張藝興.md "wikilink")
-  - [Key](https://zh.wikipedia.org/wiki/Key_\(歌手\) "wikilink")
-  - [溫流](../Page/溫流.md "wikilink")
+  - *[Key](https://zh.wikipedia.org/wiki/Key_\(歌手\) "wikilink")*
+  - *[溫流](../Page/溫流.md "wikilink")*
   - [Chen](https://zh.wikipedia.org/wiki/金鐘大 "wikilink")
   - [希澈](https://zh.wikipedia.org/wiki/金希澈 "wikilink")
+  - [伯賢](https://zh.wikipedia.org/wiki/邊伯賢 "wikilink")
 
 <!-- end list -->
 
@@ -213,6 +214,7 @@ Entertainment](https://zh.wikipedia.org/wiki/Woollim_Entertainment "wikilink")\[
   - [潤娥](https://zh.wikipedia.org/wiki/潤娥 "wikilink")
   - [Victoria](../Page/宋茜.md "wikilink")
   - [俞利](../Page/俞利.md "wikilink")
+  - [Sulli](../Page/崔真理.md "wikilink")
 
 ### 組合
 
@@ -222,7 +224,7 @@ Entertainment](https://zh.wikipedia.org/wiki/Woollim_Entertainment "wikilink")\[
 
   - [東方神起](../Page/東方神起.md "wikilink")
   - [Super Junior](../Page/Super_Junior.md "wikilink")
-  - [SHINee](../Page/SHINee.md "wikilink")
+  - *[SHINee](../Page/SHINee.md "wikilink")*
   - [EXO](../Page/EXO.md "wikilink")
   - [NCT](../Page/NCT.md "wikilink")
 
@@ -242,8 +244,7 @@ Entertainment](https://zh.wikipedia.org/wiki/Woollim_Entertainment "wikilink")\[
   - [天上智喜](../Page/天上智喜.md "wikilink")
       - *[天上智喜-Dana & Sunday](../Page/天上智喜.md "wikilink")*
   - [Super Junior](../Page/Super_Junior.md "wikilink")
-      - *[Super
-        Junior-K.R.Y.](../Page/Super_Junior-K.R.Y..md "wikilink")*
+      - [Super Junior-K.R.Y.](../Page/Super_Junior-K.R.Y..md "wikilink")
       - *[Super Junior-T](../Page/Super_Junior-T.md "wikilink")*
       - *[Super Junior-M](../Page/Super_Junior-M.md "wikilink")*
       - *[Super Junior-Happy](../Page/Super_Junior-Happy.md "wikilink")*
@@ -258,7 +259,7 @@ Entertainment](https://zh.wikipedia.org/wiki/Woollim_Entertainment "wikilink")\[
   - [EXO](../Page/EXO.md "wikilink")
       - *[EXO-K](../Page/EXO-K.md "wikilink")*
       - *[EXO-M](../Page/EXO-M.md "wikilink")*
-      - [EXO-CBX](../Page/EXO-CBX.md "wikilink")
+      - *[EXO-CBX](../Page/EXO-CBX.md "wikilink")*
   - [NCT](../Page/NCT.md "wikilink")
       - [NCT U](../Page/NCT.md "wikilink")
       - [NCT 127](../Page/NCT.md "wikilink")
@@ -470,7 +471,8 @@ Entertainment](https://zh.wikipedia.org/wiki/Woollim_Entertainment "wikilink")\[
   - [张玉安](../Page/张玉安.md "wikilink")
 
   -
-  -
+  - [朴聖光](https://zh.wikipedia.org/wiki/朴聖光 "wikilink")
+
 **女藝人**
 
   - 吳靜妍

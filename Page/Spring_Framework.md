@@ -129,7 +129,8 @@ programming）的支持能力，是一个非常大的进步。
 ## 相关链接
 
   - [Spring Framework](http://projects.spring.io/spring-framework/)
-      - [Spring Framework API](http://docs.spring.io/spring/docs/)（）
+      - [Spring Framework
+        API](http://docs.spring.io/spring/docs/)（[Javadoc](../Page/Javadoc.md "wikilink")）
       - <http://www.springframework.org/dtd/spring-beans.dtd>
           - <https://web.archive.org/web/20060428223906/http://www.springframework.org/docs/reference/springbeansdtd.html>
             (as HTML)

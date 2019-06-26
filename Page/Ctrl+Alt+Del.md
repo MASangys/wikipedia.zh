@@ -18,7 +18,7 @@ Bradley）。當年IBM在設計[個人電腦時就已經常常發生電腦運作
 9x裡](../Page/Windows_9x.md "wikilink")，这个组合键可以调出“关闭程序”窗口，连续按两次可以重新启动计算机；在[Windows
 2000和关闭欢迎界面的](../Page/Windows_2000.md "wikilink")[Windows
 XP裡为调出](../Page/Windows_XP.md "wikilink")“Windows安全”窗口；而在Windows
-XP裡未关闭欢迎画面时（默认）则是调出“任务管理器”窗口；到了Windows Vista以後的版本，这一组合会唤出“安全选项”界面。
+XP裡使用欢迎画面时（默认）则是调出“任务管理器”窗口；到了Windows Vista以後的版本，这一组合会唤出“安全选项”界面。
 
 ## 影響
 

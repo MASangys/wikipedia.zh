@@ -42,9 +42,9 @@ Wikia 默認的 Oasis 版面，引起社區中許多用戶的反感。
   - [Wookieepedia](http://starwars.wikia.com/wiki/)
   - [Lostpedia](http://lostpedia.wikia.com/wiki/)
   - [ArmchairGM](http://armchairgm.wikia.com/wiki/)
-  - [香港網絡大典](http://evchk.wikia.com/wiki/)
-  - [香港巴士大典](http://hkbus.wikia.com/wiki/)
-  - [香港鐵路大典](http://hkrail.wikia.com/wiki/)
+  - [香港網絡大典](https://evchk.wikia.com/wiki/)
+  - [香港巴士大典](https://hkbus.fandom.com/wiki/)
+  - [香港鐵路大典](https://hkrail.fandom.com/wiki/)
 
 ## 參見
 

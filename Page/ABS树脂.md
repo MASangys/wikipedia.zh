@@ -1,3 +1,4 @@
+[Lego_Color_Bricks.jpg](https://zh.wikipedia.org/wiki/File:Lego_Color_Bricks.jpg "fig:Lego_Color_Bricks.jpg")
 **ABS树脂**（[丙烯腈](../Page/丙烯腈.md "wikilink")-[丁二烯](../Page/丁二烯.md "wikilink")-[苯乙烯共聚物](../Page/苯乙烯.md "wikilink")，ABS是**A**crylonitrile
 **B**utadiene
 **S**tyrene的首字母缩写）是一种强度高、韧性好、易于加工成型的热塑型[高分子材料](../Page/高分子材料.md "wikilink"),其玻璃转移温度大约是105°C(221°F)。ABS是无定形的，因此没有真正的熔点。

@@ -768,7 +768,7 @@ Gary之前女友<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/藥房" title="wikilink">藥房職員</a></p></td>
+<td><p><a href="../Page/藥房.md" title="wikilink">藥房職員</a></p></td>
 <td></td>
 <td><p>（第21集）</p></td>
 <td></td>

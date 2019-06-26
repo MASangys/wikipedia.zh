@@ -129,10 +129,6 @@ make Delight），這個口號從2015年起使用到現在。
 
 ## 節目
 
-### 2018年世界巡迴《[Super Concert](https://zh.wikipedia.org/wiki/Super_Concert "wikilink")》
-
-  - SBS Super Concert in Taipei（時間：7月7日）
-
 ### 綜藝節目
 
 #### 播出中

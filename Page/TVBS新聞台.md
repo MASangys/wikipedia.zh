@@ -188,7 +188,8 @@ TVBS新聞部位於TVBS「[內湖大樓](../Page/TVBS企業總部.md "wikilink")
   - [鍾沛君](../Page/鍾沛君.md "wikilink")（現任台北市議員）
   - [林婉婷](https://zh.wikipedia.org/wiki/林婉婷 "wikilink")
   - [華舜嘉](https://zh.wikipedia.org/wiki/華舜嘉 "wikilink")
-  - [廖芳潔](https://zh.wikipedia.org/wiki/廖芳潔 "wikilink")（現任[三立新聞台](../Page/三立新聞台.md "wikilink")《[台灣大頭條](https://zh.wikipedia.org/wiki/台灣大頭條 "wikilink")》主播）
+  - [廖芳潔](https://zh.wikipedia.org/wiki/廖芳潔 "wikilink")（現任[三立新聞台](../Page/三立新聞台.md "wikilink")《[台灣大頭條](../Page/台灣大頭條.md "wikilink")》主播）
+  - [許儷齡](https://zh.wikipedia.org/wiki/許儷齡 "wikilink")(現任[客家電視台主播](../Page/客家電視台.md "wikilink"))
 
 ## 爭議
 

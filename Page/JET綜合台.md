@@ -82,7 +82,7 @@ Network和](../Page/Dish_Network.md "wikilink")[AT\&T網絡收看JET綜合台](.
 </tr>
 <tr class="even">
 <td><center>
-<p>《<a href="https://zh.wikipedia.org/wiki/女人要有錢之武花教主" title="wikilink">女人要有錢之武花教主</a>》</p></td>
+<p>《<a href="https://zh.wikipedia.org/wiki/女人要有錢" title="wikilink">女人要有錢之武花教主</a>》</p></td>
 <td><p>週六至週日21:30-22:30</p></td>
 <td><p><a href="../Page/謝祖武.md" title="wikilink">謝祖武</a>、<a href="../Page/張嘉雲.md" title="wikilink">花花</a></p></td>
 </tr>

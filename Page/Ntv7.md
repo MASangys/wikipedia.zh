@@ -95,7 +95,7 @@ News（世界新聞）](../Page/晚間新聞.md "wikilink")」 |- | 23:00-00:00 
 
 ## 現時ntv7的播出時段節目
 
-2019年4月29日－2019年5月5日（節目更動以電視台最新公佈為準）
+2019年6月3日－2019年6月9日（節目更動以電視台最新公佈為準）
 
 <table style="width:9%;">
 <colgroup>
@@ -111,38 +111,18 @@ News（世界新聞）](../Page/晚間新聞.md "wikilink")」 |- | 23:00-00:00 
 <thead>
 <tr class="header">
 <th></th>
-<th><p>星期一（29日）</p></th>
-<th><p>星期二（30日）</p></th>
-<th><p>星期三（1日）</p></th>
-<th><p>星期四（2日）</p></th>
-<th><p>星期五（3日）</p></th>
-<th><p>星期六（4日）</p></th>
-<th><p>星期日（5日）</p></th>
+<th><p>星期一（3日）</p></th>
+<th><p>星期二（4日）</p></th>
+<th><p>星期三（5日）</p></th>
+<th><p>星期四（6日）</p></th>
+<th><p>星期五（7日）</p></th>
+<th><p>星期六（8日）</p></th>
+<th><p>星期日（9日）</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>6:00a.m</p></td>
-<td><p><a href="../Page/龍飛鳳舞_(電視劇).md" title="wikilink">龙飞凤舞</a>^ （第71-80集）</p></td>
-<td><p><a href="../Page/龍飛鳳舞_(電視劇).md" title="wikilink">龙飞凤舞</a>^ （第81-86集）</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>7:00a.m</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>8:00 a.m</p></td>
 <td><p>活力加油站^</p></td>
 <td></td>
 <td></td>
@@ -152,7 +132,47 @@ News（世界新聞）](../Page/晚間新聞.md "wikilink")」 |- | 23:00-00:00 
 <td></td>
 </tr>
 <tr class="even">
+<td><p>7:00a.m</p></td>
+<td><p><a href="../Page/龍飛鳳舞_(電視劇).md" title="wikilink">龙飞凤舞</a>^</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>8:00 a.m</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>9:00a.m</p></td>
+<td><p>CJ WOW SHOP 中文版</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>12:00p.m</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/妇道" title="wikilink">妇道</a>^ （第1-5集）</p></td>
+<td><p>家庭幽默大赛 ^</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1:00p.m</p></td>
 <td><p>CJ WOW SHOP 中文版</p></td>
 <td></td>
 <td></td>
@@ -173,8 +193,8 @@ News（世界新聞）](../Page/晚間新聞.md "wikilink")」 |- | 23:00-00:00 
 </tr>
 <tr class="even">
 <td><p>6:00p.m</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/奇怪的搭档" title="wikilink">奇怪的搭档</a># （第25-28集）</p></td>
-<td><p><a href="../Page/誰來晚餐.md" title="wikilink">oh my baby</a>#<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/浪漫医生金师傅" title="wikilink">浪漫医生金师傅</a># （第16-19集）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/oh_my_baby" title="wikilink">oh my baby</a>#<br />
 </p></td>
 <td><p><a href="../Page/Running_Man.md" title="wikilink">Running Man</a>#</p></td>
 <td></td>
@@ -184,10 +204,10 @@ News（世界新聞）](../Page/晚間新聞.md "wikilink")」 |- | 23:00-00:00 
 </tr>
 <tr class="odd">
 <td><p>7:00p.m</p></td>
-<td><p>CJ WOW SHOP 中文版</p></td>
+<td><p>寻找天使 ^</p></td>
+<td><p>生活好自在 ^</p></td>
+<td><p>籍宝乡 ^</p></td>
 <td><p>環島8（第2季）^</p></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -214,7 +234,7 @@ News（世界新聞）](../Page/晚間新聞.md "wikilink")」 |- | 23:00-00:00 
 </tr>
 <tr class="even">
 <td><p>8:30p.m</p></td>
-<td><p>CJ WOW SHOP 中文版</p></td>
+<td><p>英语节目</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -223,9 +243,9 @@ News（世界新聞）](../Page/晚間新聞.md "wikilink")」 |- | 23:00-00:00 
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>11:00p.m</p></td>
-<td><p><a href="../Page/大秦帝国之崛起.md" title="wikilink">大秦帝国之崛起</a> （第10-15集）</p></td>
+<td><p>9:00p.m</p></td>
 <td><p>CJ WOW SHOP 中文版</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -233,6 +253,16 @@ News（世界新聞）](../Page/晚間新聞.md "wikilink")」 |- | 23:00-00:00 
 <td></td>
 </tr>
 <tr class="even">
+<td><p>11:00p.m</p></td>
+<td><p><a href="../Page/守百年之约.md" title="wikilink">守百年之约</a>^ （第1-5集）</p></td>
+<td><p><a href="../Page/柠檬初上.md" title="wikilink">柠檬初上</a>^（第1-2集）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>12:00a.m</p></td>
 <td><p>CJ WOW SHOP 中文版</p></td>
 <td></td>

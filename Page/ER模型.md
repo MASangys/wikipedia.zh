@@ -9,7 +9,7 @@ Language）和[空间建模](https://zh.wikipedia.org/wiki/空间数据库 "wiki
 ## 常用符号
 
 [erd-entity-relationship-example1.png](https://zh.wikipedia.org/wiki/File:erd-entity-relationship-example1.png "fig:erd-entity-relationship-example1.png")
-[实体](https://zh.wikipedia.org/wiki/实体 "wikilink")（）表示一个离散对象。实体可以被（粗略地）认为是[名词](https://zh.wikipedia.org/wiki/名词 "wikilink")，如计算机、雇员、歌曲、数学定理。[關聯描述了两个或更多实体相互如何关联](https://zh.wikipedia.org/wiki/關聯 "wikilink")。联系可以被（粗略地）认为是[动词](https://zh.wikipedia.org/wiki/动词 "wikilink")，如：在公司和计算机之间的拥有关联，在雇员和部门之间的管理关联，在演员和歌曲之间的表演关联，在数学家和定理之间的证明关联。实体绘制为矩形，联系绘制为菱形。
+[实体](https://zh.wikipedia.org/wiki/实体 "wikilink")（）表示一个离散对象。实体可以被（粗略地）认为是[名词](https://zh.wikipedia.org/wiki/名词 "wikilink")，如计算机、雇员、歌曲、数学定理。[關聯描述了两个或更多实体相互如何关联](https://zh.wikipedia.org/wiki/關聯 "wikilink")。联系可以被（粗略地）认为是[动词](../Page/动词.md "wikilink")，如：在公司和计算机之间的拥有关联，在雇员和部门之间的管理关联，在演员和歌曲之间的表演关联，在数学家和定理之间的证明关联。实体绘制为矩形，联系绘制为菱形。
 
 [Erd-entity-with-attribute.svg](https://zh.wikipedia.org/wiki/File:Erd-entity-with-attribute.svg "fig:Erd-entity-with-attribute.svg")
 [erd-relationship-with-attribute.png](https://zh.wikipedia.org/wiki/File:erd-relationship-with-attribute.png "fig:erd-relationship-with-attribute.png")

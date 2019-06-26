@@ -423,6 +423,7 @@ Martha之子<br />
 <td><p>李仕琛</p></td>
 <td><p><strong>Simpson</strong><br />
 張家傑（傑仔）的上司<br />
+被閉路電視拍攝到在升降機為內侵犯張家傑的身體而被帶回警署問話<br />
 於第37集腦瘤爆裂身亡</p></td>
 </tr>
 <tr class="even">
@@ -439,6 +440,8 @@ Martha之子<br />
 <td><p><a href="https://zh.wikipedia.org/wiki/張國威" title="wikilink">張國威</a></p></td>
 <td><p>張家傑（傑仔）</p></td>
 <td><p>弱智人士、勇明已逝舊同袍的弟弟<br />
+因被李仕琛在升降機內侵犯身體而把其毆打<br />
+幸被譚勇明發現為了保護其而在警署中責罵李仕琛<br />
 於第17集與譚勇明一同遭黑手黨殺害</p></td>
 </tr>
 <tr class="odd">

@@ -9,7 +9,7 @@ Baigent和他的同事们针对老龄人高血脂引起的心血管疾病预防�
   - [氟伐他汀](https://zh.wikipedia.org/wiki/氟伐他汀 "wikilink")(Fluvastatin)
   - [洛伐他汀](https://zh.wikipedia.org/wiki/洛伐他汀 "wikilink")(Lovastatin)
   - [美伐他汀](https://zh.wikipedia.org/wiki/美伐他汀 "wikilink")(Mevastatin)
-  - [匹伐他汀](https://zh.wikipedia.org/wiki/匹伐他汀 "wikilink")(Pitavastatin)
+  - [匹伐他汀](../Page/匹伐他汀.md "wikilink")(Pitavastatin)
   - [普伐他汀](https://zh.wikipedia.org/wiki/普伐他汀 "wikilink")(Pravastatin)
   - [瑞舒伐他汀](../Page/瑞舒伐他汀.md "wikilink")(Rosuvastatin)
   - [辛伐他汀](../Page/辛伐他汀.md "wikilink")(Simvastatin)

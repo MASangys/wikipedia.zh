@@ -51,6 +51,7 @@ DJ同事[張詠妍](../Page/張詠妍.md "wikilink")（阿Wing）結婚。2009�
 
 ### 曾主持電視台節目
 
+  - 《ShowTime我主場》（[ViuTV](../Page/ViuTV.md "wikilink")，與[陳詠謙共同主持](../Page/陳詠謙.md "wikilink")）
   - 《超低能特攻隊》（[ViuTV](../Page/ViuTV.md "wikilink")，與[羅伊婷共同主持](../Page/羅伊婷.md "wikilink")）
   - 《[晚吹](../Page/晚吹.md "wikilink")-[Daddy
     Kingdom](https://zh.wikipedia.org/wiki/Daddy_Kingdom "wikilink")》（ViuTV）

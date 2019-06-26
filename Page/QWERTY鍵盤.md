@@ -45,6 +45,7 @@ HQ键盘是**H**alf-**Q**WERTY的缩写，是介于“[T9键盘](https://zh.wiki
 (informatica)\#QWERTY](https://zh.wikipedia.org/wiki/it:Tastiera_\(informatica\)#QWERTY "wikilink")
 
 [Category:鍵盤配置](https://zh.wikipedia.org/wiki/Category:鍵盤配置 "wikilink")
+[Category:1873年面世](https://zh.wikipedia.org/wiki/Category:1873年面世 "wikilink")
 
 1.
 2.

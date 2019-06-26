@@ -239,7 +239,7 @@ Wells）提出。X-SAMPA是為了統一各種SAMPA字母表而產生的，並且
 <td><p><code>r\`</code></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Xsampa-rslash&#39;.png" title="fig:File:Xsampa-rslash&#39;.png"><a href="File:Xsampa-rslash">File:Xsampa-rslash</a>'.png</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/捲舌近音" title="wikilink">捲舌近音</a></p></td>
+<td><p><a href="../Page/捲舌近音.md" title="wikilink">捲舌近音</a></p></td>
 <td><p><a href="../Page/马拉雅拉姆语.md" title="wikilink">马拉雅拉姆语的വഴ</a>ി [<code>"v6r\`i</code>]</p></td>
 </tr>
 <tr class="even">
@@ -472,7 +472,7 @@ Wells）提出。X-SAMPA是為了統一各種SAMPA字母表而產生的，並且
 <td><p><code>J\</code></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Xsampa-Jslash.png" title="fig:File:Xsampa-Jslash.png"><a href="File:Xsampa-Jslash.png">File:Xsampa-Jslash.png</a></a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/濁硬顎塞音" title="wikilink">濁硬顎塞音</a></p></td>
+<td><p><a href="../Page/濁硬顎塞音.md" title="wikilink">濁硬顎塞音</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/匈牙利語" title="wikilink">匈牙利語的e</a><strong>gy</strong> [<code>EJ\</code>]</p></td>
 </tr>
 <tr class="odd">
@@ -1139,7 +1139,7 @@ Wells）提出。X-SAMPA是為了統一各種SAMPA字母表而產生的，並且
 <td><p><code>_l</code></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Xsampa-_l.png" title="fig:File:Xsampa- l.png"><a href="File:Xsampa-">File:Xsampa-</a> l.png</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/邊音開放" title="wikilink">邊音開放</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/邊音除阻" title="wikilink">邊音除阻</a></p></td>
 </tr>
 <tr class="even">
 <td><p><code>_M</code></p></td>
@@ -1163,7 +1163,7 @@ Wells）提出。X-SAMPA是為了統一各種SAMPA字母表而產生的，並且
 <td><p><code>_n</code></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Xsampa-_n2.png" title="fig:File:Xsampa- n2.png"><a href="File:Xsampa-">File:Xsampa-</a> n2.png</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鼻腔開放" title="wikilink">鼻腔開放</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鼻音除阻" title="wikilink">鼻音除阻</a></p></td>
 </tr>
 <tr class="even">
 <td><p><code>_O</code></p></td>
@@ -1329,10 +1329,10 @@ Wells）提出。X-SAMPA是為了統一各種SAMPA字母表而產生的，並且
 <p><a href="../Page/閉後不圓唇元音.md" title="wikilink">M</a> · <a href="../Page/閉後圓唇元音.md" title="wikilink">u</a></p>
 </div>
 <div style="position:absolute; left:29%; width:2.33em; top:16%; height:1.33em; font-size:120%; background:white;">
-<p><a href="https://zh.wikipedia.org/wiki/次閉次不前圓唇元音" title="wikilink">I</a> · <a href="../Page/次閉次前圓唇元音.md" title="wikilink">Y</a></p>
+<p><a href="../Page/次閉前不圓唇元音.md" title="wikilink">I</a> · <a href="../Page/次閉前圓唇元音.md" title="wikilink">Y</a></p>
 </div>
 <div style="position:absolute; left:47.5%; width:2.66em; top:16%; height:1.33em; font-size:120%; background:white;">
-<p><a href="https://zh.wikipedia.org/wiki/閉央不前圓唇元音" title="wikilink">I\</a> · <a href="../Page/閉央圓唇元音.md" title="wikilink">U\</a></p>
+<p><a href="../Page/次闭央不圆唇元音.md" title="wikilink">I\</a> · <a href="https://zh.wikipedia.org/wiki/次闭央圆唇元音" title="wikilink">U\</a></p>
 </div>
 <div style="position: absolute; left: 69%; width: 1.5em; top: 16%; height: 1.33em; font-size: 120%; background: white;">
 <p>· <a href="https://zh.wikipedia.org/wiki/次閉次後元音" title="wikilink">U</a></p>

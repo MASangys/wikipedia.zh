@@ -1,4 +1,4 @@
-《**偶像大師**》（**THE IDOLM@STER**、）是[Bandai Namco
+是[Bandai Namco
 Games發售的](https://zh.wikipedia.org/wiki/Bandai_Namco_Games "wikilink")[Xbox
 360主機用](../Page/Xbox_360.md "wikilink")[遊戲軟體](https://zh.wikipedia.org/wiki/遊戲軟體 "wikilink")、類型是偶像育成模擬遊戲。由街機版《[偶像大師](https://zh.wikipedia.org/wiki/偶像大師 "wikilink")》移植。簡稱是「IM@S」「」等。
 

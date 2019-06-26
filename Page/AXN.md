@@ -9,11 +9,6 @@ AXN台灣頻道的前身，為[超級電視台於](https://zh.wikipedia.org/wiki
 2004年1月1日，[ANIMAX台灣頻道開播](../Page/Animax_Asia.md "wikilink")，AXN台灣頻道尚未播畢的動畫節目移往Animax台灣頻道繼續播出。
 2017年12月20日，台灣地區啟用高畫質版本「AXN 台灣頻道 HD」，2018年1月4日起，陸續在各有線電視系統商播出。
 
-2019農曆春節，AXN播出《蜘蛛人：返校日》等有線頻道難得一見的漫威與好萊塢首播強片，在批踢踢實業坊（ptt.cc）引發熱烈討論。有鄉民感嘆，很難得看到有線頻道播的好萊塢強片，肯定AXN的春節誠意。
-
-台灣行銷由徐樹翔統籌，[《馬蓋先》VR體驗活動2016年在網路掀起熱烈討論](https://www.facebook.com/AXNTW/posts/1516216148407322)。《亞洲達人秀》第三季於2019年2月7日（週四）晚間8:30全球首播，台灣嘻哈舞團MANIAC
-Family的亮眼表現，也被《[蘋果日報](https://zh.wikipedia.org/wiki/蘋果日報_\(台灣\) "wikilink")》、《[Yahoo奇摩新聞](../Page/Yahoo奇摩.md "wikilink")》、《[中時電子報](../Page/中時電子報.md "wikilink")》與《[NOWnews今日新聞](../Page/NOWnews今日新聞.md "wikilink")》大篇幅報導。
-
 ## 概述
 
 AXN 頻道是亞洲首屈一指的動作及實境冒險頻道，以 18 至 39
@@ -27,6 +22,9 @@ AXN亞洲原創節目。
 
 AXN Asia隸屬Sony Pictures Entertainment並在Sony Pictures Television
 Networks, Asia (SPENA) 轄下，該公司同時運作GEM、Animax、Sony Channel與ONE等頻道。
+
+台灣行銷由徐樹翔統籌，[《馬蓋先》VR體驗活動2016年在網路掀起熱烈討論](https://www.facebook.com/AXNTW/posts/1516216148407322)。《亞洲達人秀》第三季於2019年2月7日（週四）晚間8:30全球首播，台灣嘻哈舞團MANIAC
+Family的亮眼表現，也被《[蘋果日報](https://zh.wikipedia.org/wiki/蘋果日報_\(台灣\) "wikilink")》、《[Yahoo奇摩新聞](../Page/Yahoo奇摩.md "wikilink")》、《[中時電子報](../Page/中時電子報.md "wikilink")》與《[NOWnews今日新聞](../Page/NOWnews今日新聞.md "wikilink")》大篇幅報導。
 
 ## 播出節目
 

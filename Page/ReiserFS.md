@@ -71,7 +71,7 @@ FFS-like的檔案系統則只簡單的使用一個固定的方程式來計算節
 
 ## 外部連結
 
-  - [ReiserFS官方网站](http://www.namesys.com/)
+  - [ReiserFS and Reiser4 wiki](https://reiser4.wiki.kernel.org)
   - [Namesys web
     site](http://web.archive.org/web/20071024001500/http://www.namesys.com/)（archived
     version from 2007 October）

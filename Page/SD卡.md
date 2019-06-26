@@ -1,7 +1,36 @@
 ，[縮寫為](../Page/縮寫.md "wikilink")，全名為，中文翻译为**安全数位卡**\[1\]\[2\]，為一種[記憶卡](../Page/記憶卡.md "wikilink")，被廣泛地於攜帶型裝置上使用，例如[數碼相機](https://zh.wikipedia.org/wiki/數碼相機 "wikilink")、[個人數碼助理和](https://zh.wikipedia.org/wiki/個人數碼助理 "wikilink")[多媒體播放器等](https://zh.wikipedia.org/wiki/多媒體播放器 "wikilink")。SD卡的技術是建基於[MultiMedia卡格式上](https://zh.wikipedia.org/wiki/MultiMedia卡 "wikilink")。SD卡有比較高的資料傳送速度，而且不斷更新標準。大部份SD卡的側面設有写保护控制，以避免一些資料意外地寫入，而少部分的SD卡甚至支援[數位版權管理的技術](https://zh.wikipedia.org/wiki/數位版權管理 "wikilink")。SD卡的大小為32mm×24mm×2.1mm，但官方標準亦有記載「薄版」1.4mm厚度，與MMC卡相同。
 中文界有时会把SD卡称为****\[3\]\[4\]，但此“”与“”其实是两个完全不同的概念。
 
-### "×" 速率
+## 概況
+
+[MicroSD_MemoryCard_002.jpg](https://zh.wikipedia.org/wiki/File:MicroSD_MemoryCard_002.jpg "fig:MicroSD_MemoryCard_002.jpg")
+[MMC-SD-miniSD-microSD-Color-Numbers-Names.gif](https://zh.wikipedia.org/wiki/File:MMC-SD-miniSD-microSD-Color-Numbers-Names.gif "fig:MMC-SD-miniSD-microSD-Color-Numbers-Names.gif")
+SD卡應用於以下的手提數碼裝置：
+
+  - [數碼相機儲存相片及影片](https://zh.wikipedia.org/wiki/數碼相機 "wikilink")
+  - 數位[攝錄機儲存相片及影片](https://zh.wikipedia.org/wiki/攝錄機 "wikilink")
+  - [個人數碼助理儲存各類資料](https://zh.wikipedia.org/wiki/個人數碼助理 "wikilink")
+  - [手提電話儲存相片](https://zh.wikipedia.org/wiki/手提電話 "wikilink")、鈴聲、音樂、影片等資料
+  - [多媒體播放器](https://zh.wikipedia.org/wiki/多媒體播放器 "wikilink")
+  - [掌上型遊樂器](https://zh.wikipedia.org/wiki/掌上型遊樂器 "wikilink")，如：[任天堂3DS](../Page/任天堂3DS.md "wikilink")、[NDS](https://zh.wikipedia.org/wiki/NDS "wikilink")、[NDSL](https://zh.wikipedia.org/wiki/NDSL "wikilink")
+
+在2006年，SD卡容量有8/16/32/64/128/256/512[MB](https://zh.wikipedia.org/wiki/MB "wikilink")、1GB/2GB。超过2[GB容量的卡称为](https://zh.wikipedia.org/wiki/GB "wikilink")**[SDHC](../Page/SDHC.md "wikilink")**（注：也有4G的普通sd卡），是SD的升级版本。新一代[SD
+2.0](https://zh.wikipedia.org/wiki/SD_2.0 "wikilink")（[SDHC](../Page/SDHC.md "wikilink")）、[SD
+3.0](https://zh.wikipedia.org/wiki/SD_3.0 "wikilink")（[SDXC](../Page/SDXC.md "wikilink")）標準規範為SD卡的下一代標準，最大容量可高達2[TB](https://zh.wikipedia.org/wiki/TB "wikilink")。
+
+SD/MMC卡已经替代[东芝开发的](../Page/东芝.md "wikilink")[SM卡](../Page/SmartMedia.md "wikilink")，成为了便携式数码相机使用最广泛的数字存储卡格式。2001年，SM卡的[市场占有率超过](https://zh.wikipedia.org/wiki/市场占有率 "wikilink")50%，但到了2005年下降到了40%左右，并且还在快速滑落。在2010年，SD卡的市占率已超过90%，绝大部分的数码相机生产商都提供了SD卡的支持，包括[佳能](../Page/佳能.md "wikilink")、[尼康](../Page/尼康.md "wikilink")、[柯达](https://zh.wikipedia.org/wiki/柯达 "wikilink")、[松下及](https://zh.wikipedia.org/wiki/松下 "wikilink")[柯尼卡美能达等](https://zh.wikipedia.org/wiki/柯尼卡美能达 "wikilink")。之前仍然在坚持使用自己的专利格式的三大主要厂商：[奥林巴斯](https://zh.wikipedia.org/wiki/Olympus "wikilink")、[富士](https://zh.wikipedia.org/wiki/Fujifilm "wikilink")（[xD卡](https://zh.wikipedia.org/wiki/xD圖像卡 "wikilink")）、[索尼](https://zh.wikipedia.org/wiki/Sony "wikilink")（[Memory
+Stick](https://zh.wikipedia.org/wiki/Memory_Stick "wikilink")），也开始转而使用SD卡（或提供双卡支持）。
+
+SD卡是東芝在MMC卡技術中加入[加密技術硬件而成](https://zh.wikipedia.org/wiki/加密 "wikilink")，由於MMC卡可能會較易讓使用者複製數碼[音樂](https://zh.wikipedia.org/wiki/音樂 "wikilink")，東芝便加入這些技術希望令音樂業界安心。類似的技術包括[索尼的](../Page/索尼.md "wikilink")[MagicGate](https://zh.wikipedia.org/wiki/MagicGate "wikilink")，理論上加密技術可引入一些數位版權管理措施，但這功能甚少被應用。
+
+用户可以使用一个USB的[读卡器](https://zh.wikipedia.org/wiki/读卡器 "wikilink")，在个人电脑上使用SD卡。某些电脑上已经内置了读卡装置。
+
+最新的发展是SD内建了USB插口，省略了读卡器。[SanDisk的设计是使用一个可折叠的护套来保护USB插口](https://zh.wikipedia.org/wiki/SanDisk "wikilink")。尽管Sandisk并不是第一家内建USB功能的SD卡生产商，但由于其在业内的重要地位，这一动作带动了其他厂商跟风。
+
+“SD”商标实际上是用于另一个完全不同的用途：它最早是用在“超级密度光盘”上（Super-Density Optical
+Disk），这个由东芝开发的产品在[DVD格式之争中败北](https://zh.wikipedia.org/wiki/DVD "wikilink")。这就是为什么那个"D"字看起来像一张光盘。
+
+## "×" 速率
 
 <table>
 <thead>
@@ -47,35 +76,6 @@ KB/s为1倍速（记作“1x”）的速率计算方法来计算的。基本上�
 10。
 
 設有SD卡插槽的設備能夠使用較薄身的[MMC卡](https://zh.wikipedia.org/wiki/MMC卡 "wikilink")，但是標準的SD卡不能插入MMC卡插槽。插上轉接器后SD卡能夠用于[CF卡和](https://zh.wikipedia.org/wiki/CF卡 "wikilink")[PCMCIA卡上](https://zh.wikipedia.org/wiki/PCMCIA "wikilink")，而[miniSD卡和](https://zh.wikipedia.org/wiki/miniSD卡 "wikilink")[microSD卡亦能插上轉接器在SD卡插槽使用](https://zh.wikipedia.org/wiki/microSD卡 "wikilink")。一些[USB連接器能夠插上SD卡](../Page/USB.md "wikilink")；而且一些讀卡器亦能夠插上SD卡，並由許多連接埠如USB、[FireWire等存取使用](https://zh.wikipedia.org/wiki/FireWire "wikilink")。
-
-## 概況
-
-[MicroSD_MemoryCard_002.jpg](https://zh.wikipedia.org/wiki/File:MicroSD_MemoryCard_002.jpg "fig:MicroSD_MemoryCard_002.jpg")
-[MMC-SD-miniSD-microSD-Color-Numbers-Names.gif](https://zh.wikipedia.org/wiki/File:MMC-SD-miniSD-microSD-Color-Numbers-Names.gif "fig:MMC-SD-miniSD-microSD-Color-Numbers-Names.gif")
-SD卡應用於以下的手提數碼裝置：
-
-  - [數碼相機儲存相片及影片](https://zh.wikipedia.org/wiki/數碼相機 "wikilink")
-  - 數位[攝錄機儲存相片及影片](https://zh.wikipedia.org/wiki/攝錄機 "wikilink")
-  - [個人數碼助理儲存各類資料](https://zh.wikipedia.org/wiki/個人數碼助理 "wikilink")
-  - [手提電話儲存相片](https://zh.wikipedia.org/wiki/手提電話 "wikilink")、鈴聲、音樂、影片等資料
-  - [多媒體播放器](https://zh.wikipedia.org/wiki/多媒體播放器 "wikilink")
-  - [掌上型遊樂器](https://zh.wikipedia.org/wiki/掌上型遊樂器 "wikilink")，如：[任天堂3DS](../Page/任天堂3DS.md "wikilink")、[NDS](https://zh.wikipedia.org/wiki/NDS "wikilink")、[NDSL](https://zh.wikipedia.org/wiki/NDSL "wikilink")
-
-在2006年，SD卡容量有8/16/32/64/128/256/512[MB](https://zh.wikipedia.org/wiki/MB "wikilink")、1GB/2GB。超过2[GB容量的卡称为](https://zh.wikipedia.org/wiki/GB "wikilink")**[SDHC](../Page/SDHC.md "wikilink")**（注：也有4G的普通sd卡），是SD的升级版本。新一代[SD
-2.0](https://zh.wikipedia.org/wiki/SD_2.0 "wikilink")（[SDHC](../Page/SDHC.md "wikilink")）、[SD
-3.0](https://zh.wikipedia.org/wiki/SD_3.0 "wikilink")（[SDXC](../Page/SDXC.md "wikilink")）標準規範為SD卡的下一代標準，最大容量可高達2[TB](https://zh.wikipedia.org/wiki/TB "wikilink")。
-
-SD/MMC卡已经替代[东芝开发的](../Page/东芝.md "wikilink")[SM卡](../Page/SmartMedia.md "wikilink")，成为了便携式数码相机使用最广泛的数字存储卡格式。2001年，SM卡的[市场占有率超过](https://zh.wikipedia.org/wiki/市场占有率 "wikilink")50%，但到了2005年下降到了40%左右，并且还在快速滑落。在2010年，SD卡的市占率已超过90%，绝大部分的数码相机生产商都提供了SD卡的支持，包括[佳能](../Page/佳能.md "wikilink")、[尼康](../Page/尼康.md "wikilink")、[柯达](https://zh.wikipedia.org/wiki/柯达 "wikilink")、[松下及](https://zh.wikipedia.org/wiki/松下 "wikilink")[柯尼卡美能达等](https://zh.wikipedia.org/wiki/柯尼卡美能达 "wikilink")。之前仍然在坚持使用自己的专利格式的三大主要厂商：[奥林巴斯](https://zh.wikipedia.org/wiki/Olympus "wikilink")、[富士](https://zh.wikipedia.org/wiki/Fujifilm "wikilink")（[xD卡](https://zh.wikipedia.org/wiki/xD圖像卡 "wikilink")）、[索尼](https://zh.wikipedia.org/wiki/Sony "wikilink")（[Memory
-Stick](https://zh.wikipedia.org/wiki/Memory_Stick "wikilink")），也开始转而使用SD卡（或提供双卡支持）。
-
-SD卡是東芝在MMC卡技術中加入[加密技術硬件而成](https://zh.wikipedia.org/wiki/加密 "wikilink")，由於MMC卡可能會較易讓使用者複製數碼[音樂](https://zh.wikipedia.org/wiki/音樂 "wikilink")，東芝便加入這些技術希望令音樂業界安心。類似的技術包括[索尼的](../Page/索尼.md "wikilink")[MagicGate](https://zh.wikipedia.org/wiki/MagicGate "wikilink")，理論上加密技術可引入一些數位版權管理措施，但這功能甚少被應用。
-
-用户可以使用一个USB的[读卡器](https://zh.wikipedia.org/wiki/读卡器 "wikilink")，在个人电脑上使用SD卡。某些电脑上已经内置了读卡装置。
-
-最新的发展是SD内建了USB插口，省略了读卡器。[SanDisk的设计是使用一个可折叠的护套来保护USB插口](https://zh.wikipedia.org/wiki/SanDisk "wikilink")。尽管Sandisk并不是第一家内建USB功能的SD卡生产商，但由于其在业内的重要地位，这一动作带动了其他厂商跟风。
-
-“SD”商标实际上是用于另一个完全不同的用途：它最早是用在“超级密度光盘”上（Super-Density Optical
-Disk），这个由东芝开发的产品在[DVD格式之争中败北](https://zh.wikipedia.org/wiki/DVD "wikilink")。这就是为什么那个"D"字看起来像一张光盘。
 
 ## 寫保護开关
 

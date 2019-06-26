@@ -1,12 +1,12 @@
-（[義大利文及](https://zh.wikipedia.org/wiki/義大利文 "wikilink")[西班牙文涵義為](https://zh.wikipedia.org/wiki/西班牙文 "wikilink")「**一**」）是一種[紙牌遊戲](https://zh.wikipedia.org/wiki/紙牌遊戲 "wikilink")，由[梅爾·羅賓斯在](https://zh.wikipedia.org/wiki/梅爾·羅賓斯 "wikilink")[1971年發明](../Page/1971年.md "wikilink")，現時由[遊戲公司](https://zh.wikipedia.org/wiki/遊戲 "wikilink")[美泰兒生產](../Page/美泰兒.md "wikilink")。當玩者要打出倒數第二張牌時，必須喊出"uno"，遊戲因而得名。因遊戲時間極長，有可能造成遊戲玩家煩厭及鼓躁。
+（[義大利文及](https://zh.wikipedia.org/wiki/義大利文 "wikilink")[西班牙文涵義為](https://zh.wikipedia.org/wiki/西班牙文 "wikilink")「**一**」）是一種[紙牌遊戲](https://zh.wikipedia.org/wiki/紙牌遊戲 "wikilink")，由[梅爾·羅賓斯在](https://zh.wikipedia.org/wiki/梅爾·羅賓斯 "wikilink")1971年發明，現時由遊戲公司[美泰兒生產](../Page/美泰兒.md "wikilink")。當玩者要打出倒數第二張牌時，必須喊出"uno"，遊戲因而得名。因遊戲時間極長，有可能造成遊戲玩家煩厭及鼓躁。
 **UNO**曾出過一些版本，如**DUO**、**Wild4UNO**及**DOS**，其中以**DOS**版本的玩法改變最大，可減少遊戲玩家煩躁（詳見**DOS**）。
 
 ## 游戏系统
 
-[UNO_cards_deck.svg](https://zh.wikipedia.org/wiki/File:UNO_cards_deck.svg "fig:UNO_cards_deck.svg")張是功能牌或特別牌（最右面的8張黑牌））\]\]
-每副遊戲牌共有108張卡牌，遊戲牌分[四種](../Page/4.md "wikilink")[顏色](https://zh.wikipedia.org/wiki/顏色 "wikilink")：[紅色](https://zh.wikipedia.org/wiki/紅色 "wikilink")、[綠色](../Page/綠色.md "wikilink")、[藍色及](../Page/藍色.md "wikilink")[黃色](https://zh.wikipedia.org/wiki/黃色 "wikilink")，每種顏色各有[25張牌](../Page/25.md "wikilink")（合共[100張](../Page/100.md "wikilink")），其中[19張為數字牌](../Page/19.md "wikilink")（[0牌有一張](../Page/0.md "wikilink")，1-[9有兩張](../Page/9.md "wikilink")），其餘[6張](../Page/6.md "wikilink")（[24張](../Page/24.md "wikilink")）為功能牌："skip"（跳牌）、"draw
-two"（罰牌2張）及"reverse"（反轉出牌方向），每種各2張。另有[黑色特別牌](../Page/黑色.md "wikilink")[8張](../Page/8.md "wikilink")："wild"（轉色）及"wild
-draw four"（轉色及罰牌4張），每種各4張。
+[UNO_cards_deck.svg](https://zh.wikipedia.org/wiki/File:UNO_cards_deck.svg "fig:UNO_cards_deck.svg")
+每副遊戲牌共有108張卡牌，遊戲牌分四種顏色：紅色、綠色、藍色及黃色，每種顏色各有25張牌（合共100張），其中19張為數字牌（0牌有一張，1-9有兩張），其餘6張（24張）為功能牌："skip"（跳牌）、"draw
+two"（罰牌2張）及"reverse"（反轉出牌方向），每種各2張。另有黑色特別牌8張："wild"（轉色）及"wild draw
+four"（轉色及罰牌4張），每種各4張。
 
 遊戲開始前，玩者各抽一張牌，數字最大的為莊家。莊家向每人輪流派牌7張，然後從牌疊中取出首張牌，卡面向上；若是"wild draw
 four"須收回領牌處的底部並再取第二張。
@@ -136,12 +136,12 @@ draw four"牌，而被下位玩家挑戰並檢查紙牌確認，則須罰牌4張
 [Duo-cardgame.png](https://zh.wikipedia.org/wiki/File:Duo-cardgame.png "fig:Duo-cardgame.png")[Windows
 7版本](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")，可見左下角攤開是拍攝相片的玩家的卡牌，其餘角落的卡牌（蓋著）是其對手的卡牌；正中央被攤開的「紅色2」是堆上第一張卡牌，旁邊被蓋著的則是拿來抽牌的；下面有兩個掣，「Draw」（抽牌）及「Pass」（完成並交給下一位玩家）。在這個情況的遊戲是尚未開始的。\]\]
 
-  - **DUO**是電腦網上的UNO[免費遊戲](../Page/免費軟體.md "wikilink")，因為UNO原版只有紙牌而沒有電腦版，[2011年推出](../Page/2011年.md "wikilink")。（時值[微軟公司](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Windows
-    7時期](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")；但在[2014年起在](../Page/2014年.md "wikilink")[蘋果公司的](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[iPad上的](https://zh.wikipedia.org/wiki/iPad "wikilink")[App
-    Store設有UNO網上應用程式](https://zh.wikipedia.org/wiki/App_Store "wikilink")（不久連[iPhone也有](https://zh.wikipedia.org/wiki/iPhone "wikilink")），遊戲方式與紙牌UNO完全相同，所以現今已沒有像高峰時期（[2012年至](../Page/2012年.md "wikilink")[2013年](../Page/2013年.md "wikilink")）那麼多人玩DUO）
+  - **DUO**是電腦網上的UNO[免費遊戲](../Page/免費軟體.md "wikilink")，因為UNO原版只有紙牌而沒有電腦版，2011年推出。（微軟公司Windows
+    7時期；但在2014年起在[蘋果公司的](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[iPad上的](https://zh.wikipedia.org/wiki/iPad "wikilink")[App
+    Store設有UNO網上應用程式](https://zh.wikipedia.org/wiki/App_Store "wikilink")（不久連[iPhone也有](https://zh.wikipedia.org/wiki/iPhone "wikilink")），遊戲方式與紙牌UNO完全相同，所以現今已沒有像高峰時期（2012年至2013年）那麼多人玩DUO）
     DUO與UNO最大分別是DUO不需要在只剩一張時大叫"uno"或"duo"，所以玩家需時時刻刻留意有沒有對手只剩一至兩張牌。
-  - **Wild4UNO**是UNO在[2016年](../Page/2016年.md "wikilink")[3月11日](../Page/3月11日.md "wikilink")（[星期五](https://zh.wikipedia.org/wiki/星期五 "wikilink")）率先展出，同年[3月15日](../Page/3月15日.md "wikilink")（[星期二](https://zh.wikipedia.org/wiki/星期二 "wikilink")）正式面世，是UNO加強版（尚未正式命名為Wild4UNO前的稱呼）遊戲，供7歲或以上人士玩（因避免6歲或以下人士寫一些壞行動如「即時輸」、「除衫」等，故不建議5至6歲人士玩此版本）。Wild4UNO基本上與UNO玩法一樣，但增加了4張黑色特別牌，其中1張是交換牌，出這張牌玩家可與對方交換相同數量的牌。其餘3張是空白牌，玩家可自行決定任何行動，可選擇不與遊戲有關的事物，如「扮動物」、「擺POST」等，但不建議如「即時輸」等的針對對方的行動。黑色特別牌由8張增加至12張，而卡牌總數則由108張（原版數量）增加至112張。只剩一張牌時是照樣大叫"uno"而不是"wild4uno"。
-  - **DOS**是UNO目前最複製改變玩法的新版本遊戲，供7歲或以上人士玩（原版UNO是5歲或以上人士玩，但因難度增加而不建議5至6歲人士玩）。DOS於[2018年](../Page/2018年.md "wikilink")[2月15日](../Page/2月15日.md "wikilink")（[星期四](https://zh.wikipedia.org/wiki/星期四 "wikilink")）由UNO率先展出，同年[3月4日](../Page/3月4日.md "wikilink")（[星期日](../Page/星期日.md "wikilink")）正式面世。這個遊戲的玩法和卡牌均有改變。
+  - **Wild4UNO**是UNO在2016年3月11日（星期五）率先展出，同年3月15日（星期二）正式面世，是UNO加強版（尚未正式命名為Wild4UNO前的稱呼）遊戲，供7歲或以上人士玩（因避免6歲或以下人士寫一些壞行動如「即時輸」、「除衫」等，故不建議5至6歲人士玩此版本）。Wild4UNO基本上與UNO玩法一樣，但增加了4張黑色特別牌，其中1張是交換牌，出這張牌玩家可與對方交換相同數量的牌。其餘3張是空白牌，玩家可自行決定任何行動，可選擇不與遊戲有關的事物，如「扮動物」、「擺POST」等，但不建議如「即時輸」等的針對對方的行動。黑色特別牌由8張增加至12張，而卡牌總數則由108張（原版數量）增加至112張。只剩一張牌時是照樣大叫"uno"而不是"wild4uno"。
+  - **DOS**是UNO目前最複製改變玩法的新版本遊戲，供7歲或以上人士玩（原版UNO是5歲或以上人士玩，但因難度增加而不建議5至6歲人士玩）。DOS於2018年2月15日（星期四）由UNO率先展出，同年3月4日（星期日）正式面世。這個遊戲的玩法和卡牌均有改變。
     **卡牌**：與UNO相同共有108張牌，其中每種顏色各24張（1、3、4、5
     各三張，6、7、8、9、10各兩張，新增＃牌各兩張），以及新增十二張多顏色2。
     **玩法**：UNO的傳統數字出牌方式（跟著牌上的顏色或數字出一張牌）及摸牌（沒辦法出或不想出則摸一張）、摸到的牌是可以出便可即時出牌（也可選擇不出）遊戲開始前的洗牌及發牌（每人發5張）及只剩兩張牌時而其中一張可以出時（出完只剩一張）大叫遊戲名稱一次（不過在這裡是叫"dos"，而不是叫"uno"）在DOS是維持不變，唯DOS改變及增加了一些新玩法。首先第一改變：DOS在發牌後在桌上是打開兩張牌及預留一棄牌堆（分三堆）而非一張牌，放在領牌處旁。第二改變：一次過可出兩張牌而兩張牌的數字加起來是原先那一堆上的數字（如堆上是8，可一次過出5和3，因為5+3=8）。第三改變：沒辦法出而摸牌後也不能出則可自行棄一張牌，使牌數量回復為摸牌前的手牌數量。另外增加一種玩法，就是如果有多於兩位玩家一起玩時其中一位玩家勝出後其他玩家可繼續玩，但跳過已勝出的玩家，繼續分出第二、第三及第四名（三人玩時沒有第四名；情況類似魔力橋）。（原版UNO是其中一位玩家勝出後遊戲便結束，其他玩家按照牌上的數量分出名次（可能有兩名或三名玩家共享同一名次），當然新版DOS也可選擇不改變原有規則，其中一位玩家勝出後即告遊戲結束）新版DOS令遊戲出現7個改變（包括卡牌總數量、可供玩家歲數）及1個增加玩法，這種情況能加快遊戲結束，減少玩家因時間而煩躁，或能使遊戲更有趣，使玩家不太沉悶。

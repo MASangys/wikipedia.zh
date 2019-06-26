@@ -64,7 +64,7 @@
 <td><p>DAG</p></td>
 <td><p>KDAG</p></td>
 <td></td>
-<td><p>，<a href="https://zh.wikipedia.org/wiki/加利福尼亞州" title="wikilink">加利福尼亞州</a></p></td>
+<td><p><a href="../Page/達蓋特_(加利福尼亞州).md" title="wikilink">達蓋特</a>，<a href="https://zh.wikipedia.org/wiki/加利福尼亞州" title="wikilink">加利福尼亞州</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -225,8 +225,8 @@
 <td><p>DBN</p></td>
 <td><p>KDBN</p></td>
 <td></td>
-<td><p>{{link-en</p></td>
-<td><p>都柏林 (佐治亞州)|Dublin, Georgia|都柏林}}，<a href="../Page/喬治亞州.md" title="wikilink">喬治亞州</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/都柏林_(佐治亞州)" title="wikilink">都柏林</a>，<a href="../Page/喬治亞州.md" title="wikilink">喬治亞州</a></p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>DBO</p></td>
@@ -253,7 +253,7 @@
 <td><p>DBS</p></td>
 <td></td>
 <td></td>
-<td><p>，<a href="https://zh.wikipedia.org/wiki/愛達荷州" title="wikilink">愛達荷州</a></p></td>
+<td><p><a href="../Page/杜波伊斯_(愛達荷州).md" title="wikilink">杜波伊斯</a>，<a href="https://zh.wikipedia.org/wiki/愛達荷州" title="wikilink">愛達荷州</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -302,7 +302,7 @@
 <td><p>DCF</p></td>
 <td><p>TDCF</p></td>
 <td></td>
-<td><p>，<a href="https://zh.wikipedia.org/wiki/聖保羅堂區" title="wikilink">聖保羅堂區</a></p></td>
+<td><p><a href="../Page/坎菲爾德.md" title="wikilink">坎菲爾德</a>，<a href="https://zh.wikipedia.org/wiki/聖保羅堂區" title="wikilink">聖保羅堂區</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1275,7 +1275,7 @@
 <td><p>DNN</p></td>
 <td><p>KDNN</p></td>
 <td></td>
-<td><p>，<a href="https://zh.wikipedia.org/wiki/佐治亞州" title="wikilink">佐治亞州</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/多爾頓_(佐治亞州)" title="wikilink">多爾頓</a>，<a href="https://zh.wikipedia.org/wiki/佐治亞州" title="wikilink">佐治亞州</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

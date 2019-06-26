@@ -240,7 +240,7 @@ Tour武道館公演第一天，水木一郎、坂本英三及Ricardo Cruz參與�
 <!-- end list -->
 
   -
-    (2011年2月3日、4日/東京都・東京藝術劇場/音樂監督・指揮:[服部隆之](https://zh.wikipedia.org/wiki/服部隆之 "wikilink")/演奏：Theater
+    (2011年2月3日、4日/東京都・東京藝術劇場/音樂監督・指揮:[服部隆之](../Page/服部隆之.md "wikilink")/演奏：Theater
     Orchestra Tokyo)
 
 <!-- end list -->

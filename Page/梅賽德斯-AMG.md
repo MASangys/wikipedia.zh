@@ -58,8 +58,10 @@ AMG](https://zh.wikipedia.org/wiki/G55_AMG "wikilink")）。引擎本體皆無�
 
 ### 63
 
-*63*指的是搭載6.2L V8自然進氣單元"[M156
-AMG](https://zh.wikipedia.org/wiki/M156_AMG "wikilink")"的AMG改裝成車系列產品。
+*63*最早是搭載6.2L V8自然進氣單元"[M156
+AMG](https://zh.wikipedia.org/wiki/M156_AMG "wikilink")"的AMG改裝成車系列產品，為了紀念Mercedes-Benz
+300 SEL 6.8 AMG Red Pig一戰成名；後續更換成M157 5.5L biturbo引擎，現階段為M176/M177/M178
+4.0L biturbo引擎。
 
   -   - [C63 AMG](../Page/梅赛德斯-奔驰C级.md "wikilink")
 

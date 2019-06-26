@@ -141,6 +141,7 @@ C\!ty'super
 
 ## 競爭對象
 
+  - [Great](../Page/Great.md "wikilink")
   - [Gourmet](../Page/Gourmet.md "wikilink")
   - [taste](https://zh.wikipedia.org/wiki/taste "wikilink")
   - [Market Place by

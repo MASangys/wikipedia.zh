@@ -18,7 +18,7 @@ Template，再配合SharePoint自身的文档管理和搜索引擎等功能，�
 ## 版本
 
   - 第一版，叫作SharePoint Team Services（通常缩写为STS），是和[Office
-    XP同时发布的](https://zh.wikipedia.org/wiki/Office_XP "wikilink")，当时是[Microsoft
+    XP同时发布的](https://zh.wikipedia.org/wiki/Microsoft_Office_XP "wikilink")，当时是[Microsoft
     FrontPage的一部分](../Page/Microsoft_FrontPage.md "wikilink")。STS可以运行在[Windows
     2000
     Server和](https://zh.wikipedia.org/wiki/Windows_2000_Server "wikilink")[Windows

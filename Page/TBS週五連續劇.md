@@ -172,7 +172,7 @@
 <!-- end list -->
 
   -
-    主演：[天海祐希](https://zh.wikipedia.org/wiki/天海祐希 "wikilink")
+    主演：[天海祐希](../Page/天海祐希.md "wikilink")
     劇本：[橋部敦子](../Page/橋部敦子.md "wikilink")
 
 <!-- end list -->
@@ -638,7 +638,7 @@
 
 <!-- end list -->
 
-  - 4月－6月：**[破案神手](https://zh.wikipedia.org/wiki/破案神手 "wikilink")**（）
+  - 4月－6月：**[破案神手](../Page/破案神手.md "wikilink")**（）
 
 <!-- end list -->
 

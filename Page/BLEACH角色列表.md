@@ -1749,6 +1749,7 @@ Pattern）」將對方的靈壓漏洞的靈子溢出而癱瘓。曾中了此能�
 <!-- end list -->
 
   -
+    聲優：未知（BLEACH: Brave Souls）
     自稱「XCUTION」宗教法人的女人，为现任「XCUTION」的代表。
 
 ## 動畫版原創登場人物

@@ -10,7 +10,7 @@
 
 1942年黑內爾公司設計使用7.92×33毫米短槍彈的原型槍**MKb42**（MKb是德語Maschinenkarabiner的縮寫，意為：自動[卡賓槍](https://zh.wikipedia.org/wiki/卡賓槍 "wikilink")），經測試後被德國軍方選中。
 
-  - 該槍採用氣導式自動原理，以及槍機偏轉式閉鎖方式，在擊發槍彈後，少部分氣體順著槍管上的小孔，經過導氣管導入機匣，用以推動槍機向後，完成拋殼、重新上膛和再擊發的過程。其單發閉鎖系統使槍手在單發射擊模式時，能在有效射程內保持合理的精確度，並有[全自動射擊模式以應付突發的近距離作戰](https://zh.wikipedia.org/wiki/自動火器 "wikilink")。
+  - 該槍採用氣導式自動原理，以及槍栓偏轉式閉鎖方式，在擊發槍彈後，少部分氣體順著槍管上的小孔，經過導氣管導入機匣，用以推動槍栓向後，完成拋殼、重新上膛和再擊發的過程。其單發閉鎖系統使槍手在單發射擊模式時，能在有效射程內保持合理的精確度，並有[全自動射擊模式以應付突發的近距離作戰](https://zh.wikipedia.org/wiki/自動火器 "wikilink")。
   - 此外，該槍可有效壓制衝鋒槍射程外的敵方火力據點，在數把突擊步槍密集開火時能發射大量子彈呼嘯劃過敵方及擊中敵人四周，對敵產生心理恐懼，將其壓制在掩體後方；密集的火力也大幅提高擊中敵方的機率，在笨重的班用輕機槍或者更多把的手動、半自動步槍以外提供了更方便的選擇，在當時同類輕武器中屬於劃時代的設計。
   - 槍械的弧形彈匣能裝入30發子彈，比所有現役步槍載彈量更高，減少戰時士兵更換彈夾的次數；前置的瞻孔能讓士兵於光線不足的環境中大致上瞄準目標，雖然如此會犧牲掉部分遠距打擊的精確度，但畢竟此武器原初設計上並非是作為精確射擊之用，而為了彌補這項缺憾，早期版本亦可加裝光學瞄準鏡。
   - 全槍大量採用沖壓工藝，生產成本較機械加工低和有效率，適合大規模生產。
@@ -114,25 +114,21 @@ Kulmbach公司推出了Mkb](https://zh.wikipedia.org/wiki/HZA_Kulmbach公司 "wi
   - 2003年—《[-{zh-hans:使命召唤;
     zh-hant:決勝時刻;}-](https://zh.wikipedia.org/wiki/使命召喚_\(遊戲\) "wikilink")》（Call
     of
-    Duty）：命名為“MP44”，奇怪的被描繪為[開放式槍機設計](../Page/開放式槍機.md "wikilink")，被[德意志國防軍所使用](../Page/德意志國防軍.md "wikilink")。
+    Duty）：命名為“MP44”，奇怪的被描繪為[開放式槍栓設計](../Page/開放式槍栓.md "wikilink")，被[德意志國防軍所使用](../Page/德意志國防軍.md "wikilink")。
   - 2004年—《[-{zh-hans:使命召唤：联合进攻;
     zh-hant:決勝時刻：聯合行動;}-](../Page/決勝時刻：聯合行動.md "wikilink")》（Call
-    of Duty: United
-    Offensive）：命名為“MP44”，奇怪的被描繪為[開放式槍機設計](../Page/開放式槍機.md "wikilink")，被[德意志國防軍所使用](../Page/德意志國防軍.md "wikilink")。
+    of Duty: United Offensive）：命名為“MP44”，奇怪的被描繪為開放式槍栓設計，被德意志國防軍所使用。
   - 2004年—《[榮譽勳章：前線](https://zh.wikipedia.org/wiki/榮譽勳章：前線 "wikilink")》（Medal
     of Honor: Frontline）：命名為“StG-44”。
   - 2004年—《[-{zh-hans:胜利之日：起源;
     zh-hant:決勝之日：次世代;}-](https://zh.wikipedia.org/wiki/決勝之日：次世代 "wikilink")》（Day
-    of Defeat:
-    Source）：命名為“StG-44”，[德意志國防軍陣營武器](../Page/德意志國防軍.md "wikilink")。
+    of Defeat: Source）：命名為“StG-44”，德意志國防軍陣營武器。
   - 2005年—《[-{zh-hans:使命召唤;
     zh-hant:決勝時刻;}-2](../Page/決勝時刻2.md "wikilink")》（Call
-    of Duty
-    2）：命名為“MP44”，奇怪的被描繪為[開放式槍機設計](../Page/開放式槍機.md "wikilink")，被[德意志國防軍所使用](../Page/德意志國防軍.md "wikilink")。
+    of Duty 2）：命名為“MP44”，奇怪的被描繪為開放式槍栓設計，被德意志國防軍所使用。
   - 2006年—《[-{zh-hans:使命召唤;
     zh-hant:決勝時刻;}-3](https://zh.wikipedia.org/wiki/決勝時刻3 "wikilink")》（Call
-    of Duty
-    3）：命名為“MP44”，奇怪的被描繪為[開放式槍機設計](../Page/開放式槍機.md "wikilink")，被[德意志國防軍所使用](../Page/德意志國防軍.md "wikilink")。
+    of Duty 3）：命名為“MP44”，奇怪的被描繪為開放式槍栓設計，被德意志國防軍所使用。
   - 2006年—《》（Red Orchestra: Ostfront
     41-45）：命名為“Stg44”，被[德意志國防軍所使用](../Page/德意志國防軍.md "wikilink")。
   - 2007年—《》（Medal of Honor: Vanguard）：命名為“StG-44”。

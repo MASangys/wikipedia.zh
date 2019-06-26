@@ -82,6 +82,10 @@ Entry Service\[32\]」過境服務
 
 ## 參考文獻
 
+## 参见
+
+  - [自助查验通道](../Page/自助查验通道.md "wikilink")：[中国内地设立的自助通关系统](../Page/中国内地.md "wikilink")
+
 ## 外部連結
 
   - [自助出入境檢查流程](https://web.archive.org/web/20111107005943/http://www.immd.gov.hk/chtml/media/internet_apc.wmv)（影片）

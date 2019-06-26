@@ -2,6 +2,8 @@
 E**或**Lucky
 E**）），是一艘隸屬於[美國海軍的](../Page/美國海軍.md "wikilink")[航空母艦](https://zh.wikipedia.org/wiki/航空母艦 "wikilink")，為[約克鎮級航空母艦的二號艦](https://zh.wikipedia.org/wiki/約克鎮級航空母艦 "wikilink")。它是美軍第七艘以企業為名的軍艦，艦名源自[美國獨立戰爭期間美軍俘獲並更名的一艘](../Page/美國獨立戰爭.md "wikilink")[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[單桅縱帆船](https://zh.wikipedia.org/wiki/單桅縱帆船 "wikilink")。
 
+其在太平洋戰爭期間，擊沉敵艦71艘，擊傷敵艦192艘，空中擊落敵機404架，地面擊毀敵機507架，於太平洋戰區參戰20場，並獲得數十枚戰爭表揚獎章，為人類史上最輝煌戰績，與超過60年人類史上最優秀功勳紀錄保持艦。
+
 企業號在1934年開始建造，在1936年下水，並於1938年服役。接著企業號參與了一次[艦隊解難演習](../Page/艦隊解難演習.md "wikilink")，在1940年編入駐太平洋的。1941年[美國太平洋艦隊重設後](../Page/美國太平洋艦隊.md "wikilink")，企業號仍舊留在太平洋服役。
 
 1941年12月7日，[日本海軍](../Page/大日本帝國海軍.md "wikilink")[偷襲珍珠港](https://zh.wikipedia.org/wiki/偷襲珍珠港 "wikilink")。企業號原定在前一日進入港口，但因風浪而有所延誤，僥倖避過一劫。此後企業號參與了美國海軍在[太平洋戰爭的大部分重要戰鬥](https://zh.wikipedia.org/wiki/太平洋戰爭 "wikilink")，由早期的[空襲東京](https://zh.wikipedia.org/wiki/空襲東京 "wikilink")、[中途島海戰及](https://zh.wikipedia.org/wiki/中途島海戰 "wikilink")[瓜達爾卡納爾島戰役](../Page/瓜達爾卡納爾島戰役.md "wikilink")，到美軍反攻的[吉爾伯特及馬紹爾群島戰事](../Page/吉爾伯特及馬紹爾群島戰事.md "wikilink")、[馬里亞納群島及帛琉戰事](../Page/馬里亞納群島及帛琉戰事.md "wikilink")、[菲律賓戰役及](https://zh.wikipedia.org/wiki/菲律賓戰役_\(1944年-45年\) "wikilink")[雷伊泰灣海戰](../Page/雷伊泰灣海戰.md "wikilink")，以及晚期的[硫磺及琉球群島戰事](../Page/硫磺及琉球群島戰事.md "wikilink")。1945年5月[沖繩戰役期間](https://zh.wikipedia.org/wiki/沖繩戰役 "wikilink")，企業號接連被[神風特攻隊自殺飛機擊傷](https://zh.wikipedia.org/wiki/神風特攻隊 "wikilink")，被迫返回美國維修，使之錯過[日本投降前最後三個月的戰鬥](../Page/日本投降.md "wikilink")。
@@ -434,6 +436,10 @@ Industry）曾提議海軍將企業號調到三藩市的[金銀島海軍基地](
 
 目前企業號仍有數項遺物留落民間。企業號在聖克魯茲海戰升起的美國國旗，現存放於[彭薩科拉的海航博物館展出](https://zh.wikipedia.org/wiki/彭薩科拉 "wikilink")。企業號艦艉的艦名鋼板亦沒有拆毀，由船塢工人轉送給新澤西州[河谷鎮](https://zh.wikipedia.org/wiki/河谷鎮_\(新澤西州\) "wikilink")（River
 Vale），並在當地展出。至於企業號的艦鐘則在1950年轉移到海軍官校。\[187\]
+
+## 參見
+
+  - [企業號](../Page/企業號.md "wikilink")：其他同名的船艦或交通工具。
 
 ## 相關條目
 

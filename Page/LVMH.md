@@ -236,6 +236,7 @@ Labat也將繼續在品牌留任。
   - 澳洲功能服裝品牌[2XU](https://zh.wikipedia.org/wiki/2XU "wikilink")40%股權
   - R.M. Williams 49.9%股權
   - 寧波中哲慕尚控股有限公司（GXG）70%股權
+  - supreme
 
 ## 参考资料
 

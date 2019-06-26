@@ -41,6 +41,7 @@ penalty）。系统的保护由[不变式](https://zh.wikipedia.org/wiki/不变�
     (pdf)](http://www.jxos.org/publications/jx-usenix.pdf)，another
     operating system similar in concept
 
+[Category:微软研究院](https://zh.wikipedia.org/wiki/Category:微软研究院 "wikilink")
 [Category:微軟操作系統](https://zh.wikipedia.org/wiki/Category:微軟操作系統 "wikilink")
 [Category:微內核](https://zh.wikipedia.org/wiki/Category:微內核 "wikilink")
 [Category:組合語言軟體](https://zh.wikipedia.org/wiki/Category:組合語言軟體 "wikilink")

@@ -352,11 +352,6 @@ MyUniversity<br />
 <td><p>駕駛教練。前<a href="../Page/熱血公民.md" title="wikilink">熱血公民成員</a>、前<a href="../Page/熱血時報.md" title="wikilink">熱血時報主持</a>。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/楊逸朗.md" title="wikilink">楊逸朗</a>（Joe Yeung）</p></td>
-<td><p>本土最前線</p></td>
-<td><p>社運人士。曾任香港輔助警察。</p></td>
-</tr>
-<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/祖利安" title="wikilink">祖利安</a></p></td>
 <td><p>本土最前線</p></td>
 <td><p>占卜師、藏傳佛教修行者。《癲狗日報》專欄作家。前城邦派「護國大法師」。</p></td>
@@ -653,6 +648,11 @@ MyUniversity</p></td>
 <td><p>旅遊達人、<a href="https://zh.wikipedia.org/wiki/暨南大學" title="wikilink">暨南大學國際政治學學士</a>、<a href="https://zh.wikipedia.org/wiki/馬德里體育會" title="wikilink">馬德里體育會香港球迷會召集人</a></p></td>
 </tr>
 <tr class="even">
+<td><p><a href="../Page/楊逸朗.md" title="wikilink">楊逸朗</a>（Joe Yeung）</p></td>
+<td><p>本土最前線</p></td>
+<td><p>社運人士。曾任香港輔助警察。2019年4月離開</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>

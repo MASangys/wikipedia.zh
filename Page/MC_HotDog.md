@@ -35,6 +35,7 @@ HotDog
   - 2017年，擔任[《中國有嘻哈》明星製作人兼評審](../Page/中国有嘻哈.md "wikilink")
   - 2018年，擔任[《中國新說唱》明星製作人兼評審](https://zh.wikipedia.org/wiki/中國新說唱 "wikilink")
   - 2019年，加盟[我是唱作人](../Page/我是唱作人.md "wikilink")
+  - 2019年，擔任[《中國新說唱2019》明星製作人兼評審](https://zh.wikipedia.org/wiki/中國新說唱 "wikilink")
 
 ## 音樂作品
 

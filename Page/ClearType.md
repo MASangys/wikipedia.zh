@@ -16,7 +16,14 @@ OS 8.5就已经使用了](https://zh.wikipedia.org/wiki/Mac_OS_8.5 "wikilink")�
 
 如果顯示器不具有適用於ClearType的像素組合特性，以ClearType顯示文字的實際效果會比使用前還要差。部分平面顯示器面板使用不常見的像素排列方式，例如可能有不同的顏色排列順序，或不同軸向的子像素位置（三條水平線等），所以需要為特定的顯示器手動調整ClearType的顯示效果。不具有固定排列組合的顯示器，如CRT，將難以閱讀ClearType所顯示的文字。
 
-\==
+## Windows XP中的ClearType
+
+[ClearType_rendering_on_Windows_XP.png](https://zh.wikipedia.org/wiki/File:ClearType_rendering_on_Windows_XP.png "fig:ClearType_rendering_on_Windows_XP.png")
+[<File:ClearType> rendering on Windows
+XP.png](https://zh.wikipedia.org/wiki/File:ClearType_rendering_on_Windows_XP.png "fig:File:ClearType rendering on Windows XP.png")
+
+  -
+    使用ClearType的显示器放大6倍的效果。由于各个次像素發光，文字边缘带有红、蓝色。
 
 ## 中文ClearType
 

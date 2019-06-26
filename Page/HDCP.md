@@ -7,7 +7,7 @@ LLC）負責。除了交付授權金之外，生產HDCP相容設備的廠商必�
 
 基本來說，欲播放有HDCP保護的影音內容如[HD DVD](../Page/HD_DVD.md "wikilink")、[Blu-ray
 Disc](https://zh.wikipedia.org/wiki/Blu-ray_Disc "wikilink")、[PlayStation
-3遊戲](../Page/PlayStation_3.md "wikilink")（透過[HDMI輸出時](../Page/HDMI.md "wikilink")），訊號來源（[播放機或](https://zh.wikipedia.org/wiki/播放機 "wikilink")[電腦的](https://zh.wikipedia.org/wiki/電腦 "wikilink")[顯示卡](https://zh.wikipedia.org/wiki/顯示卡 "wikilink")）和显示器雙方都必须內建HDCP[密钥](https://zh.wikipedia.org/wiki/密钥 "wikilink")[晶片才能正常播放](https://zh.wikipedia.org/wiki/晶片 "wikilink")。若系统任何一者不配備此密匙晶片，影像畫素有可能降低，甚至不能播放影像。現時某些顯示卡已內建HDCP晶片，有限度支持HDMI輸出。
+3遊戲](../Page/PlayStation_3.md "wikilink")（透過[HDMI輸出時](../Page/HDMI.md "wikilink")），訊號來源（[播放機或](https://zh.wikipedia.org/wiki/播放機 "wikilink")[電腦的](https://zh.wikipedia.org/wiki/電腦 "wikilink")[顯示卡](https://zh.wikipedia.org/wiki/顯示卡 "wikilink")）和显示器雙方都必须內建HDCP[密钥](../Page/密钥.md "wikilink")[晶片才能正常播放](https://zh.wikipedia.org/wiki/晶片 "wikilink")。若系统任何一者不配備此密匙晶片，影像畫素有可能降低，甚至不能播放影像。現時某些顯示卡已內建HDCP晶片，有限度支持HDMI輸出。
 
 ## 規格
 

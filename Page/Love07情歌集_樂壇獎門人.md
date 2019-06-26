@@ -1,5 +1,5 @@
 **Love07情歌集
-樂壇獎門人**為2007年一張中文雜綿專輯，於2007年3月9日在[香港發行](../Page/香港.md "wikilink")，所有曲目均廣受[香港歡迎](../Page/香港.md "wikilink")，並獲得各大[音樂](https://zh.wikipedia.org/wiki/音樂 "wikilink")[頒獎禮的獎項](https://zh.wikipedia.org/wiki/頒獎禮 "wikilink")。亦是[LOVE情歌集系列其中之一](https://zh.wikipedia.org/wiki/LOVE情歌集系列 "wikilink")。[VCD及](../Page/VCD.md "wikilink")[DVD已於](https://zh.wikipedia.org/wiki/DVD "wikilink")2007年4月20日和2007年4月27日出版。
+樂壇獎門人**為2007年一張中文雜綿專輯，於2007年3月9日在[香港發行](../Page/香港.md "wikilink")，所有曲目均廣受[香港歡迎](../Page/香港.md "wikilink")，並獲得各大[音樂](https://zh.wikipedia.org/wiki/音樂 "wikilink")[頒獎禮的獎項](https://zh.wikipedia.org/wiki/頒獎禮 "wikilink")。亦是[LOVE情歌集系列其中之一](../Page/LOVE情歌集系列.md "wikilink")。[VCD及](../Page/VCD.md "wikilink")[DVD已於](https://zh.wikipedia.org/wiki/DVD "wikilink")2007年4月20日和2007年4月27日出版。
 
 ## 曲目
 

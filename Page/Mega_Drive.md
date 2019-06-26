@@ -108,12 +108,12 @@ JVC与世嘉公司合作，于1992年4月1日在日本地区发行了Wondermega�
 
 ## 评价
 
-Mega Drive通常被认为是最为出色的游戏机中的一个。2009年，IGN将其列为最佳游戏平台第五位。
+Mega Drive通常被认为是最为出色的游戏机中的一个。2009年，IGN将其列为最佳游戏平台第五位\[7\]。
 
 ## Mega Drive Mini
 
 2018年4月14日，世嘉於「SEGA Fes」活動上宣布推出「Mega Drive
-Mini」版，記念此系列主機推出30週年，內置多款如《[音速小子](https://zh.wikipedia.org/wiki/音速小子 "wikilink")》等以往經典遊戲\[7\]\[8\]，並將於2019年9月19日在全球發行\[9\]。
+Mini」版，記念此系列主機推出30週年，內置多款如《[音速小子](https://zh.wikipedia.org/wiki/音速小子 "wikilink")》等以往經典遊戲\[8\]\[9\]，並將於2019年9月19日在全球發行\[10\]。
 
 ## 参考资料
 
@@ -135,4 +135,5 @@ Mini」版，記念此系列主機推出30週年，內置多款如《[音速小�
 6.
 7.
 8.
-9.  [メガドライブミニ（Mega Drive Mini）](http://asia.sega.com/mdmini/cht/)
+9.
+10. [メガドライブミニ（Mega Drive Mini）](http://asia.sega.com/mdmini/cht/)

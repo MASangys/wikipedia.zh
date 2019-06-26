@@ -182,3 +182,4 @@ zh-tw:朱紅血;}-](../Page/英雄傳說IV_朱紅的淚.md "wikilink")》、《[
 [Category:英雄傳說系列](https://zh.wikipedia.org/wiki/Category:英雄傳說系列 "wikilink")
 [Category:1994年电子游戏](https://zh.wikipedia.org/wiki/Category:1994年电子游戏 "wikilink")
 [Category:日本Falcom游戏](https://zh.wikipedia.org/wiki/Category:日本Falcom游戏 "wikilink")
+[Category:魔女题材作品](https://zh.wikipedia.org/wiki/Category:魔女题材作品 "wikilink")

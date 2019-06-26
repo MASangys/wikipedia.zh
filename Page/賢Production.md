@@ -585,7 +585,8 @@ Festival**活動\[3\]。
   -
   - [北原知奈](../Page/北原知奈.md "wikilink")
 
-  -
+  - [木下鈴奈](../Page/木下鈴奈.md "wikilink")
+
   - （現所屬：[Kenyu Office](../Page/Kenyu_Office.md "wikilink")）
 
   - [白石冬美](../Page/白石冬美.md "wikilink")（在籍中死去）

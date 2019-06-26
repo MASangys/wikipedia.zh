@@ -1,5 +1,5 @@
 **美國電話電報公司**（），AT\&T 原為 American Telephone & Telegraph
-的縮寫，是一間为[商業](https://zh.wikipedia.org/wiki/商業 "wikilink")、[客戶及政府機構](https://zh.wikipedia.org/wiki/客戶 "wikilink")，提供語音、視頻、數據和[互聯網專業服務的美國](https://zh.wikipedia.org/wiki/互聯網 "wikilink")[電訊公司](https://zh.wikipedia.org/wiki/電訊 "wikilink")。在悠久的历史中，美国电话电报公司曾经垄断了世界上电话及有限电视的运营。現今的美國電話電報公司是
+的縮寫，是一家为[商業](https://zh.wikipedia.org/wiki/商業 "wikilink")、[客戶及政府機構](https://zh.wikipedia.org/wiki/客戶 "wikilink")，提供語音、視頻、數據和[互聯網專業服務的美國](https://zh.wikipedia.org/wiki/互聯網 "wikilink")[電訊公司](https://zh.wikipedia.org/wiki/電訊 "wikilink")。在悠久的历史中，美国电话电报公司曾经垄断了世界上电话及有限电视的运营。現今的美國電話電報公司是
 [AT\&T](../Page/AT&T.md "wikilink") 公司的旗下公司，並在之下提供橫跨長途電話服務。
 
 在2005年美國電話電報公司被之一的 SBC 電訊以 160 億美元收購（現值約178億美元），並繼以 **AT\&T** 為名。

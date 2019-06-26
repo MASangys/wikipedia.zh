@@ -102,7 +102,7 @@ CRH1E-NG设计为[卧铺动车组](https://zh.wikipedia.org/wiki/高铁动卧 "w
 <td><p>17</p></td>
 <td><p>1001、1002、1005～1009、1011～1020</p></td>
 <td><p>广州東</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/广深铁路" title="wikilink">广深铁路</a>、<a href="https://zh.wikipedia.org/wiki/杭福深客运专线" title="wikilink">杭福深铁路</a>、<a href="../Page/广梅汕铁路.md" title="wikilink">广梅汕铁路</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/广深铁路" title="wikilink">广深铁路</a>、<a href="https://zh.wikipedia.org/wiki/杭福深客运专线" title="wikilink">杭福深铁路</a>、<a href="../Page/广梅汕铁路.md" title="wikilink">广梅汕铁路</a>、<a href="../Page/广茂铁路.md" title="wikilink">广茂铁路</a>、<a href="../Page/贵广客运专线.md" title="wikilink">贵广客运专线</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

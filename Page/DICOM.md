@@ -142,6 +142,7 @@ DICOM支持的設備有下列項目：
     [Ultrasound](https://zh.wikipedia.org/wiki/Ultrasound "wikilink")
     超聲波成像
   - VF = Videofluorography 視頻透視
+  - VL = Visible Light Microscope 光學顯微鏡
   - XA = [X-Ray
     Angiography](https://zh.wikipedia.org/wiki/Angiogram "wikilink")
     X光血管攝影

@@ -16,7 +16,8 @@ XP以及之後的Windows公開版本都有支援](../Page/Windows_XP.md "wikilin
   - WinPE支援[網路](https://zh.wikipedia.org/wiki/網路 "wikilink")，但只附帶以下工具：[命令提示字元](../Page/命令提示字元.md "wikilink")、[記事本和一些維護工具](../Page/記事本.md "wikilink")。
   - WinPE初衷只是方便企業製造自訂的[Microsoft
     Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，因此市面上並沒有出售（但允许无偿外发）。
-  - 在[微軟的批准下](https://zh.wikipedia.org/wiki/微軟 "wikilink")，其他[軟體公司可附上自己的軟體於WinPE](https://zh.wikipedia.org/wiki/軟體 "wikilink")，令啟動電腦時候執行有關的程式。這些軟體通常是系統維護，在電腦不能正常運作的情況下，可運用有關的系統維護軟體修復電腦。維護軟體包括[Symantec](https://zh.wikipedia.org/wiki/Symantec "wikilink")[Norton
+  - 在[微軟的批准下](https://zh.wikipedia.org/wiki/微軟 "wikilink")，其他[軟體公司可附上自己的軟體於WinPE](https://zh.wikipedia.org/wiki/軟體 "wikilink")，令啟動電腦時候執行有關的程式。這些軟體通常是系統維護，在電腦不能正常運作的情況下，可運用有關的系統維護軟體修復電腦。維護軟體包括[Symantec](https://zh.wikipedia.org/wiki/Symantec "wikilink")
+    [Norton
     Ghost等等](https://zh.wikipedia.org/wiki/Norton_Ghost "wikilink")。
   - [Windows Vista](../Page/Windows_Vista.md "wikilink"),[Windows
     7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink"),[Windows

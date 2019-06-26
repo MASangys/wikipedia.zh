@@ -27,7 +27,7 @@ Guinness）聘用從[牛津大學和](https://zh.wikipedia.org/wiki/牛津大學
 ## 前提假設
 
 大多數的*t*檢定之統計量具有*t* =
-*Z*/*k*的形式，其中*Z*與*k*是已知資料的函數。*Z*通常被設計成對於[對立假說有關的形式](https://zh.wikipedia.org/wiki/對立假說 "wikilink")，而*k*是一個尺度參數使*t*服從於*t*分佈。以單樣本*t*檢驗為例，\(Z = \bar{X}/(\sigma/\sqrt{n})\)，其中\(\bar{X}\)為樣本平均數，\(n\)為樣本數，\(\sigma\)為总体[標準差](../Page/標準差.md "wikilink")。至於*k*在單樣本*t*檢驗中為\(\hat{\sigma}/\sigma\)，其中\(\hat{\sigma}\)為樣本的標準偏差。在符合零假說的條件下，*t*檢定有以下前題：
+*Z*/*k*的形式，其中*Z*與*k*是已知資料的函數。*Z*通常被設計成對於[對立假說有關的形式](https://zh.wikipedia.org/wiki/對立假說 "wikilink")，而*k*是一個尺度參數使*t*服從於*t*分佈。以單樣本*t*檢驗為例，\(Z = \bar{X}/(\sigma/\sqrt{n})\)，其中\(\bar{X}\)為樣本平均數，\(n\)為樣本數，\(\sigma\)為总体[標準差](../Page/標準差.md "wikilink")。至於*k*在單樣本*t*檢驗中為\(\hat{\sigma}/\sigma\)，其中\(\hat{\sigma}\)為樣本的標準偏差。在符合零假說的條件下，*t*檢定有以下前提：
 
   - *Z* 服從標準常態分佈
   - (*n* - 1)*k*<sup>2</sup> 服從自由度(*n* - 1)的卡方分佈

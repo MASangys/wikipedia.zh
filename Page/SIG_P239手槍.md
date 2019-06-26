@@ -23,7 +23,7 @@ SIG P239亦有一種衍生型，名為SIG P239 SAS。SIG P239 SAS裝有木制握
   -
   -   - [美國移民及海關執法局](https://zh.wikipedia.org/wiki/美國移民及海關執法局 "wikilink")（.40口徑型）
       - [美國海軍犯罪調查局](../Page/美國海軍犯罪調查局.md "wikilink")（.40口徑型）
-      - [美國海軍特種作戰研究大隊](https://zh.wikipedia.org/wiki/美國海軍特種作戰研究大隊 "wikilink")
+      - [美國海軍特種作戰開發組](../Page/美國海軍特種作戰開發組.md "wikilink")
       - 地方警察部門
 
 ## 外部链接

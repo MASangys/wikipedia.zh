@@ -177,7 +177,7 @@
 上面的四种配音版本中，有一种配音版本曾在[中国大陆以VCD或DVD的形式发行](../Page/中国大陆.md "wikilink")（已[绝版](https://zh.wikipedia.org/wiki/绝版 "wikilink")），不过无法确定是哪种配音版本。
 
   - [于正昇](../Page/于正昇.md "wikilink")：[新潮社有限公司大約於](https://zh.wikipedia.org/wiki/新潮社有限公司 "wikilink")1990年代所發行之錄影帶電影版本（已[絕版](https://zh.wikipedia.org/wiki/絕版 "wikilink")）。
-  - [陳美貞](../Page/陳美貞.md "wikilink")：正譯為哆啦A夢後，從1999年9月配音到現今，亦為目前在[台灣最廣為人知的配音版本](https://zh.wikipedia.org/wiki/台灣 "wikilink")。
+  - [陳美貞](../Page/陳美貞.md "wikilink")：正譯為哆啦A夢後，從1999年9月配音到現今，其中同為2019年電影版中國大陸版本的配音，亦為目前在[台灣最廣為人知的配音版本](https://zh.wikipedia.org/wiki/台灣 "wikilink")。
   - [孫若瑜](../Page/孫若瑜.md "wikilink")：大山版曾有一陣子由孫若瑜代配。
 
 <!-- end list -->
@@ -206,7 +206,7 @@
 
   - 团团（现名[张琳](https://zh.wikipedia.org/wiki/张琳_\(配音演员\) "wikilink")）：叮当时期，广东电视台1989年版
   - [董浩](../Page/董浩.md "wikilink")：阿蒙时期，央视1991年版
-  - [刘纯燕](../Page/刘纯燕.md "wikilink")：阿蒙时期，央视1991年版、[哆啦A梦：伴我同行配音](https://zh.wikipedia.org/wiki/哆啦A梦：伴我同行 "wikilink")
+  - [刘纯燕](../Page/刘纯燕.md "wikilink")：阿蒙时期，央视1991年版、[哆啦A梦：伴我同行](https://zh.wikipedia.org/wiki/哆啦A梦：伴我同行 "wikilink")、哆啦A梦电影作品2018年配音
   - [张丽敏](https://zh.wikipedia.org/wiki/张丽敏 "wikilink")：哆啦A梦时期，央视2007年版
   - [李晔](https://zh.wikipedia.org/wiki/李晔_\(配音员\) "wikilink")：上海配音
   - [梁颖](https://zh.wikipedia.org/wiki/梁颖 "wikilink")：哆啦A梦时期，广东后期配音，因配乐与日版不同、部分情节可以略微听见日语声音而被质疑是盗版

@@ -148,6 +148,7 @@ TVB周刊举办的推广活动及合作
 
   - [《TVB周刊》主頁](http://jade.tvb.com/weekly)
   - [《TVB周刊》官方Facebook](http://facebook.com/tvbwkly)
+  - [《TVB Weekly》官方IG](https://www.instagram.com/tvbweekly/)
 
 [Category:香港已停刊雜誌](https://zh.wikipedia.org/wiki/Category:香港已停刊雜誌 "wikilink")
 [Category:香港雜誌](https://zh.wikipedia.org/wiki/Category:香港雜誌 "wikilink")

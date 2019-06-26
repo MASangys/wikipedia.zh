@@ -1,5 +1,5 @@
 **Microsoft
-PowerPoint**，簡稱**PowerPoint**，是一个由[Microsoft公司开发的](https://zh.wikipedia.org/wiki/Microsoft "wikilink")[簡報程序](../Page/簡報.md "wikilink")，是[Microsoft
+PowerPoint**，簡稱**PowerPoint**，是一个由[公司开发的](../Page/公司.md "wikilink")[簡報程序](../Page/簡報.md "wikilink")，是[Microsoft
 Office系统中的其中一个组件](../Page/Microsoft_Office.md "wikilink")。它支持[Microsoft
 Windows以及](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Apple的](https://zh.wikipedia.org/wiki/Apple "wikilink")[Mac
 OS
@@ -135,30 +135,35 @@ PowerPoint"不必然指的是演示文稿本身沉闷，这个问题是出在演
 </tr>
 <tr class="even">
 <td><p>2003</p></td>
-<td><p>Office PowerPoint 2003</p></td>
+<td><p>Office PowerPoint 2010</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2007</p></td>
-<td><p>Office PowerPoint 2007</p></td>
+<td><p>Office PowerPoint 2011</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2010</p></td>
-<td><p>PowerPoint 2010</p></td>
+<td><p>PowerPoint 2012</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2013</p></td>
-<td><p>PowerPoint 2013</p></td>
+<td><p>PowerPoint 2015</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2015</p></td>
-<td><p>PowerPoint 2016</p></td>
+<td><p>PowerPoint 2014</p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>2018</p></td>
+<td><p>PowerPoint 2016</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>2018</p></td>
 <td><p>PowerPoint 2019</p></td>
 <td></td>

@@ -1,5 +1,9 @@
 **Engadget**是一個關於消費電子產品的流行科技[網誌與](../Page/網誌.md "wikilink")[播客](../Page/播客.md "wikilink")。該網誌曾贏得数個獎項。現時Engadget擁有九個不同網站，全都以各自的員工同時地運作，以各自的語言覆蓋全球不同地方的科技新聞。美國的Engadget網站於2006年8月25日發出第
-[20,000個新聞](http://www.engadget.com/2006/08/25/20-000-posts-yup-20-000-posts/)。Engadget曾以「癮科技」為中文譯名，但2011年6月28日起，[癮科技已為另一網站](../Page/癮科技.md "wikilink")。
+[20,000個新聞](http://www.engadget.com/2006/08/25/20-000-posts-yup-20-000-posts/)。
+
+## 與台灣解約
+
+Engadget曾以「癮科技」為中文譯名，但2011年6月28日起，美國解除台灣代理商資格，因此「癮科技」之名已成為另一[內容農場網站](../Page/內容農場.md "wikilink")。\[1\]，原癮科技繁體中文站恢復為「Engadget中文版」，並由Engadget[香港編輯接手](../Page/香港.md "wikilink")。
 
 ## 創立與成員
 
@@ -30,24 +34,16 @@ Engadget最开始时在其網站放置[woot.com的廣告](https://zh.wikipedia.o
 
 ## 語言
 
-為了增加讀者人數該網誌數種語言擁有包括了西班牙語、日語與中文（繁體及簡體）、波蘭文\[1\]、德文和韓文\[2\]。內容主要為[翻譯英文主站的文章為主](https://zh.wikipedia.org/wiki/翻譯 "wikilink")。如該網誌不斷在世界各地增加名聲，語言的數量很有可能會增加。
+為了增加讀者人數該網誌數種語言擁有包括了西班牙語、日語與中文（繁體及簡體）、波蘭文\[2\]、德文和韓文\[3\]。內容主要為[翻譯英文主站的文章為主](https://zh.wikipedia.org/wiki/翻譯 "wikilink")。如該網誌不斷在世界各地增加名聲，語言的數量很有可能會增加。
 
 ### 中文（繁體）
 
-Engadget在2005年7月1日與[FunMakr合作](https://zh.wikipedia.org/wiki/FunMakr "wikilink")，開設Engadget繁體中文版。\[3\]
-兩家網站拆夥後，现在原「瘾科技」繁体中文版已改名为 Engadget 中文版。
-
-Engadget繁体版在中国大陆被[GFW封锁](https://zh.wikipedia.org/wiki/GFW "wikilink")。
+Engadget在2005年7月1日與台灣[FunMakr合作](https://zh.wikipedia.org/wiki/FunMakr "wikilink")，開設Engadget繁體中文版。\[4\]
+後因經營問題，美國與台灣解約，现恢復为 Engadget 中文版。
 
 ### 中文（简体）
 
-Engadget简体版于2005年的10月1日开站\[4\]，同时期也开通了Autoblog中文版，繁体版 Engadget 前期主要写手是
-Atticus Wu，目前 Engadget 成为中国最受欢迎的新数码媒体之一。现在原「瘾科技」简体中文版已改名为 Engadget
-中国版。但在中國大陸民間沿用舊名來指代engadget的情況不算罕見。
-
-### 繁體中文站拆夥事件
-
-2011年6月28日，Engadget繁體中文站與[FunMakr無預警拆夥](https://zh.wikipedia.org/wiki/FunMakr "wikilink")\[5\]，原癮科技繁體中文站更名為「Engadget中文版」，並由Engadget香港編輯接手。現在FunMakr與Engadget兩家網站已無任何關係，為獨立經營的兩個不同網站。
+Engadget简体版于2005年的10月1日开站\[5\]，同时期也开通了Autoblog中文版。
 
 ## 播客
 
@@ -155,13 +151,13 @@ Block承認該照片确实曾遭複製與修剪，为此他做出了道歉并移
 [Category:2004年建立的网站](https://zh.wikipedia.org/wiki/Category:2004年建立的网站 "wikilink")
 [Category:網誌](https://zh.wikipedia.org/wiki/Category:網誌 "wikilink")
 
-1.  [癮科技波蘭站成立](http://chinese.engadget.com/2008/06/03/introducing-engadget-poland/)
-2.  [Engadget韓文版與德文版登場了](http://chinese.engadget.com/2008/07/04/introducing-engadget-korean-and-german/)
-3.
-4.  <http://cn.engadget.com/2005/10/01/engadget-cn/>
-5.  [【新聞稿】 - 終止協助經營Engadget中文版網站
+1.  [【新聞稿】 - 終止協助經營Engadget中文版網站
     癮科技媒體平台正式成立](http://bbs.cool3c.com/article/47984)
 
+2.  [癮科技波蘭站成立](http://chinese.engadget.com/2008/06/03/introducing-engadget-poland/)
+3.  [Engadget韓文版與德文版登場了](http://chinese.engadget.com/2008/07/04/introducing-engadget-korean-and-german/)
+4.
+5.  <http://cn.engadget.com/2005/10/01/engadget-cn/>
 6.  [A visit to the Engadget
     Store](http://www.engadget.com/2006/07/10/a-visit-to-the-engadget-store/)
 7.

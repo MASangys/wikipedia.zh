@@ -872,6 +872,7 @@ Soul與瑪嘉的靈魂頻率有問題</p></td>
 [Category:月刊少年GANGAN連載作品](https://zh.wikipedia.org/wiki/Category:月刊少年GANGAN連載作品 "wikilink")
 [Category:2008年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2008年東京電視網動畫 "wikilink")
 [Category:死神題材作品](https://zh.wikipedia.org/wiki/Category:死神題材作品 "wikilink")
+[Category:魔女题材作品](https://zh.wikipedia.org/wiki/Category:魔女题材作品 "wikilink")
 [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
 
 1.

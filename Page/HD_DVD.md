@@ -1,6 +1,6 @@
 [IFA_2005_Toshiba_HBS_A_001_HD-DVD_Player_(Dual-Layer_HD-DVD_30GB)_and_(DVD-HD-DVD-Twin-Disc_5GB_15GB)_(by_HDTVTotalDOTcom).jpg](https://zh.wikipedia.org/wiki/File:IFA_2005_Toshiba_HBS_A_001_HD-DVD_Player_\(Dual-Layer_HD-DVD_30GB\)_and_\(DVD-HD-DVD-Twin-Disc_5GB_15GB\)_\(by_HDTVTotalDOTcom\).jpg "fig:IFA_2005_Toshiba_HBS_A_001_HD-DVD_Player_(Dual-Layer_HD-DVD_30GB)_and_(DVD-HD-DVD-Twin-Disc_5GB_15GB)_(by_HDTVTotalDOTcom).jpg")2005會場上展示的HD
 DVD播放機。\]\] **HD
-DVD**（，“高清晰度DVD”或“高画质DVD”）是一種以藍光鐳射技術儲存[數位格式資訊於光碟上的產品](https://zh.wikipedia.org/wiki/數位格式 "wikilink")，現已發展成[高解析度](https://zh.wikipedia.org/wiki/高解析度 "wikilink")[DVD標準](https://zh.wikipedia.org/wiki/DVD "wikilink")，由[HD
+DVD**（，“高清晰度DVD”或“高畫質DVD”）是一種以藍光鐳射技術儲存[數位格式資訊於光碟上的產品](https://zh.wikipedia.org/wiki/數位格式 "wikilink")，現已發展成[高解析度](https://zh.wikipedia.org/wiki/高解析度 "wikilink")[DVD標準](https://zh.wikipedia.org/wiki/DVD "wikilink")，由[HD
 DVD推廣協會負責制定及開發](https://zh.wikipedia.org/wiki/HD_DVD推廣協會 "wikilink")。HD
 DVD與其競爭對手[Blu-ray
 Disc](https://zh.wikipedia.org/wiki/Blu-ray_Disc "wikilink")（简写为「BD」，藍光光碟）有些許些相似之處，光碟片均是和[CD同樣大小](../Page/CD.md "wikilink")（直徑120mm）的光學[數位格式儲存媒介](https://zh.wikipedia.org/wiki/數位格式儲存媒介 "wikilink")，使用405[奈米波長的藍色鐳射](https://zh.wikipedia.org/wiki/奈米 "wikilink")。

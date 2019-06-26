@@ -56,7 +56,7 @@ UNIX代碼，這樣繼續使用就需要從[AT\&T獲得許可證](../Page/AT&T.m
 
 ### Net/2以及法律問題
 
-Net/1以後，提議，BSD系統中應該有更多的非AT\&T部分，以Net/1的協議發布。隨後，他開始一個項目，著手重新實現一些Unix標準工具，其中不使用原來的AT\&T代碼。例如，[Vi](../Page/Vi.md "wikilink")，也就是基於最初Unix上的編輯器，被重寫為[nvi](https://zh.wikipedia.org/wiki/nvi "wikilink")（new
+Net/1以後，提議，BSD系統中應該有更多的非AT\&T部分，以Net/1的協議發布。隨後，他開始一個項目，著手重新實現一些Unix標準工具，其中不使用原來的AT\&T代碼。例如，[Vi](../Page/Vi.md "wikilink")，也就是基於最初Unix上[ed的編輯器](https://zh.wikipedia.org/wiki/ed_\(文本编辑器\) "wikilink")，被重寫為[nvi](https://zh.wikipedia.org/wiki/nvi "wikilink")（new
 vi）。
 18個月後，所有AT\&T的工具被替換，剩下的只是存留在內核的一些AT\&T文件。殘余文件被剔除後，1991年6月，**Net/2**誕生了，這是一個全新的操作系统，並且可以自由發布。
 

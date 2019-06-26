@@ -135,7 +135,7 @@ RJ線在數月後將訖站調回欽伯斯街，改為尖峰菱形RR線列車。
 <td><p>大部分列車</p></td>
 </tr>
 <tr class="odd">
-<td><p>與</p></td>
+<td><p>與<a href="https://zh.wikipedia.org/wiki/60街隧道" title="wikilink">60街隧道</a></p></td>
 <td><p>全部</p></td>
 <td></td>
 <td></td>

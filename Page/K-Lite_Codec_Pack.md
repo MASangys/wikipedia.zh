@@ -116,7 +116,7 @@ Codec Pack版本含有BS.Player。\[7\]
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/H.262" title="wikilink">MPEG-2 Formats</a><br />
+<td><p><a href="../Page/H.262.md" title="wikilink">MPEG-2 Formats</a><br />
 <small>.mpe .m2v .mpv2 .mp2v .m2p .vob .evo .mod .ts .m2ts .m2t .mts .pva .tp .tpr</small></p></td>
 <td></td>
 <td></td>

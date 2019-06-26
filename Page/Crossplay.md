@@ -6,6 +6,11 @@ dressing」的結合而創造的新詞。在日本似乎並沒有將[跨性別�
 
 Crossplay與傳統[扮裝之間的關係並不親近](https://zh.wikipedia.org/wiki/扮裝 "wikilink")。Crossplay玩家與跨性別[異裝人士並沒有高度聯繫](../Page/異裝.md "wikilink")。但是有些技巧是相通的，例如將男性身材扮成女性的技巧。性質上則近似[戲曲的](https://zh.wikipedia.org/wiki/戲曲 "wikilink")[反串](../Page/反串.md "wikilink")，即同樣是為了扮演異性角色而裝扮成異性，並非在日常生活中以異性打扮示人。不論是在美國日本或台灣，男性扮演女性ACG角色常會引起注意。女性扮成男性角色則比較常見，不會受特別注意。這也許是因為角色扮演玩家女性多於男性的緣故，且男性普遍缺乏在女性身上常見的嬌柔媚態和細緻外表（個別情況例外），故此男性扮演女性ACG角色往往會被大眾賦予的印象，要麼洋相百出、穿崩連連、及至個人聲譽及利益受損，要麼破綻少得使大眾對其性別判斷都一時失語。
 
+[Aria_H._Kanzaki_by_結佳梨Yukari_01.jpg](https://zh.wikipedia.org/wiki/File:Aria_H._Kanzaki_by_結佳梨Yukari_01.jpg "fig:Aria_H._Kanzaki_by_結佳梨Yukari_01.jpg")偽娘coser結佳梨Yukari扮演[緋彈的亞莉亞中的女主角Aria](../Page/緋彈的亞莉亞.md "wikilink")
+H. Kanzaki\]\]
+[Aria_H._Kanzaki_by_結佳梨Yukari_03.jpg](https://zh.wikipedia.org/wiki/File:Aria_H._Kanzaki_by_結佳梨Yukari_03.jpg "fig:Aria_H._Kanzaki_by_結佳梨Yukari_03.jpg")偽娘coser結佳梨Yukari扮演[緋彈的亞莉亞中的女主角Aria](../Page/緋彈的亞莉亞.md "wikilink")
+H. Kanzaki\]\]
+
 除此之外，Crossplay也是一種音樂技巧。
 
 ## 參看

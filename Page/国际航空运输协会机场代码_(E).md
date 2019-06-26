@@ -588,7 +588,7 @@
 <tr class="odd">
 <td><p>EIN</p></td>
 <td><p>EHEH</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/埃因霍溫機場" title="wikilink">埃因霍溫機場</a></p></td>
+<td><p><a href="../Page/埃因霍溫機場.md" title="wikilink">埃因霍溫機場</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/埃因霍溫" title="wikilink">埃因霍溫</a>，<a href="../Page/北布拉班特省.md" title="wikilink">北布拉班特省</a></p></td>
 <td></td>
 </tr>
@@ -855,7 +855,7 @@
 <td><p>ELS</p></td>
 <td><p>FAEL</p></td>
 <td><p><a href="../Page/東倫敦機場.md" title="wikilink">東倫敦機場</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/東倫敦" title="wikilink">東倫敦</a>，<a href="https://zh.wikipedia.org/wiki/東開普省" title="wikilink">東開普省</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/東倫敦" title="wikilink">東倫敦</a>，<a href="../Page/東開普省.md" title="wikilink">東開普省</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

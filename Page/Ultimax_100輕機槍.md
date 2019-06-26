@@ -4,7 +4,7 @@
 ## 設計
 
 Ultimax
-100採用[氣動](../Page/氣動式_\(槍械\).md "wikilink")、[開放式槍機](../Page/開放式槍機.md "wikilink")，將部分的射擊瓦斯導入槍管上方的瓦斯汽缸，利用瓦斯的壓力使活塞後退來打開槍機，進而發射[北約](https://zh.wikipedia.org/wiki/北約 "wikilink")[5.56×45毫米彈藥](../Page/5.56×45mm_NATO.md "wikilink")。至於閉鎖方面，採用旋轉式槍機閉鎖系統，槍機前端附有微型閉鎖突耳，只要產生些許旋轉角度便可與槍管完成閉鎖。Ultimax
+100採用[氣動](../Page/氣動式_\(槍械\).md "wikilink")、[開放式槍栓](../Page/開放式槍栓.md "wikilink")，將部分的射擊瓦斯導入槍管上方的瓦斯汽缸，利用瓦斯的壓力使活塞後退來打開槍機，進而發射[北約](https://zh.wikipedia.org/wiki/北約 "wikilink")[5.56×45毫米彈藥](../Page/5.56×45mm_NATO.md "wikilink")。至於閉鎖方面，採用旋轉式槍機閉鎖系統，槍機前端附有微型閉鎖突耳，只要產生些許旋轉角度便可與槍管完成閉鎖。Ultimax
 100最特別之處是它採用[恆定後坐（Constant
 Recoil）](http://firearmsworld.net/singapore/ultimax/elements.htm)[機匣運作原理](https://zh.wikipedia.org/wiki/機匣 "wikilink")，槍機後坐行程大輻度加長，令射速和[後座力比其他輕機槍為低](../Page/後座力.md "wikilink")，相對地精度也較高\[1\]。
 

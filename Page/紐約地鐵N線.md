@@ -135,7 +135,7 @@ N線沿[IND皇后林蔭路線前往](../Page/IND皇后林蔭路線.md "wikilink"
 <td><p>大部分列車</p></td>
 </tr>
 <tr class="odd">
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/60街隧道" title="wikilink">60街隧道</a></p></td>
 <td><p>all</p></td>
 <td></td>
 <td></td>

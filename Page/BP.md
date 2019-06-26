@@ -93,7 +93,6 @@ Horizon）的外海[鑽油平臺故障並爆炸](https://zh.wikipedia.org/wiki/�
   - [BP中国公司官網](http://www.bp.com.cn)
 
 [Category:BP](https://zh.wikipedia.org/wiki/Category:BP "wikilink")
-[Category:石油公司](https://zh.wikipedia.org/wiki/Category:石油公司 "wikilink")
 [Category:英國化學工業公司](https://zh.wikipedia.org/wiki/Category:英國化學工業公司 "wikilink")
 [Category:总部在伦敦的跨国公司](https://zh.wikipedia.org/wiki/Category:总部在伦敦的跨国公司 "wikilink")
 [Category:英國品牌](https://zh.wikipedia.org/wiki/Category:英國品牌 "wikilink")

@@ -52,7 +52,6 @@
 
 ### 單曲
 
-  - Crying for Rain／カワキヲアメク／Kawakiwoameku
   - マブラヴ
   - 風のゆくえ／yours
   - Blue tears

@@ -85,7 +85,7 @@ FIFA 2007擁有27個國家隊。下面是FIFA2007所包含的國家隊名單：
   - [澳大利亞國家足球隊](https://zh.wikipedia.org/wiki/澳大利亞國家足球隊 "wikilink")
   - [奧地利國家足球隊](../Page/奧地利國家足球隊.md "wikilink")
   - [比利時國家足球隊](../Page/比利時國家足球隊.md "wikilink")
-  - [巴西國家足球隊](https://zh.wikipedia.org/wiki/巴西國家足球隊 "wikilink")
+  - [巴西國家足球隊](../Page/巴西國家足球隊.md "wikilink")
   - [保加利亞國家足球隊](https://zh.wikipedia.org/wiki/保加利亞國家足球隊 "wikilink")
   - [喀麥隆國家足球隊](../Page/喀麥隆國家足球隊.md "wikilink")
   - [中國國家足球隊](https://zh.wikipedia.org/wiki/中國國家足球隊 "wikilink")

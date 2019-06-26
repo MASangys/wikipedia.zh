@@ -20,3 +20,5 @@ aquifer）與非承压含水層（unconfined aquifer）均可模擬。其控制�
 
 [Category:水文学](https://zh.wikipedia.org/wiki/Category:水文学 "wikilink")
 [Category:模拟软件](https://zh.wikipedia.org/wiki/Category:模拟软件 "wikilink")
+[Category:公有领域软件](https://zh.wikipedia.org/wiki/Category:公有领域软件 "wikilink")
+[Category:美國地質調查局](https://zh.wikipedia.org/wiki/Category:美國地質調查局 "wikilink")

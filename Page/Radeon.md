@@ -210,6 +210,7 @@ abc的命名規則。
 
       - Radeon RX Vega 64
       - Radeon RX Vega 56
+      - Radeon VII
 
 ## 参考
 

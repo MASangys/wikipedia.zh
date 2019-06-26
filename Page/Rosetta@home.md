@@ -67,7 +67,7 @@ RosettaDock还被用来构造一种[抗体](https://zh.wikipedia.org/wiki/抗体
 ## 发展历史与分支
 
 Rosetta最初是作为*ab
-initio*蛋白质结构预测方法，在1998年由贝克实验室开发\[45\]；而到目前，这个项目已经形成多个分支，有各自不同的发展和服务方向。Rosetta平台得名于[罗塞塔石碑](https://zh.wikipedia.org/wiki/罗塞塔石碑 "wikilink")（被用于破译[古埃及文字](https://zh.wikipedia.org/wiki/古埃及 "wikilink")），因为该平台试图破译蛋白质的氨基酸序列的结构“含义”。\[46\]Rosetta出现7年之后，Rosetta@home项目于2005年10月6日发布。\[47\]许多参与到Rosetta起步工作的[研究生和研究人员已经搬迁到各个不同的大学和研究机构](../Page/研究生.md "wikilink")。这使Rosetta项目的不同分支也得到加强。
+initio*蛋白质结构预测方法，在1998年由贝克实验室开发\[45\]；而到目前，这个项目已经形成多个分支，有各自不同的发展和服务方向。Rosetta平台得名于[罗塞塔石碑](https://zh.wikipedia.org/wiki/罗塞塔石碑 "wikilink")（被用于破译[古埃及文字](../Page/古埃及.md "wikilink")），因为该平台试图破译蛋白质的氨基酸序列的结构“含义”。\[46\]Rosetta出现7年之后，Rosetta@home项目于2005年10月6日发布。\[47\]许多参与到Rosetta起步工作的[研究生和研究人员已经搬迁到各个不同的大学和研究机构](../Page/研究生.md "wikilink")。这使Rosetta项目的不同分支也得到加强。
 
 ### RosettaDesign
 
