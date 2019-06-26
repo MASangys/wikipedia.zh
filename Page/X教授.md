@@ -1,8 +1,8 @@
 **X教授**（），是一位在[漫威漫畫中的出版物](../Page/漫威漫畫.md "wikilink")《[X戰警](https://zh.wikipedia.org/wiki/X戰警 "wikilink")》中的[虛構人物](https://zh.wikipedia.org/wiki/虛構人物 "wikilink")。
 
-X教授和至交好友[萬磁王不同](../Page/萬磁王.md "wikilink")，他一心想讓[變種人與人類能和平共處](https://zh.wikipedia.org/wiki/變種人 "wikilink")，但為了防止人類的迫害和引導變種人同胞走向正途，他以自身的財力創立了X學院來收容思緒不夠成熟或不怎麼會控制自己力量的變種人青少年，並建立了變種人的[超級英雄團隊](https://zh.wikipedia.org/wiki/超級英雄 "wikilink")[X戰警](https://zh.wikipedia.org/wiki/X戰警 "wikilink")。
+X教授和至交好友[萬磁王不同](../Page/萬磁王.md "wikilink")，他一心想讓[變種人與](https://zh.wikipedia.org/wiki/變種人 "wikilink")[人類和平共處](../Page/人類.md "wikilink")；但為了防止人類的迫害和引導變種人同胞走向正途，他以自身的財力創立了X學院來收容思緒不夠成熟或不怎麼會控制自己力量的變種人青少年，並建立了變種人的[超級英雄團隊](https://zh.wikipedia.org/wiki/超級英雄 "wikilink")[X戰警](https://zh.wikipedia.org/wiki/X戰警 "wikilink")。
 
-X教授的人物形象是參考美國非裔人權運動領袖[馬丁·路德·金恩](https://zh.wikipedia.org/wiki/馬丁·路德·金恩 "wikilink")\[1\]，而X教授之名則參考另一位非裔人權運動領袖[麥爾坎·X](../Page/麥爾坎·X.md "wikilink")\[2\]。
+X教授的人物形象是參考[非裔美國人民權運動領袖](../Page/非裔美國人民權運動.md "wikilink")[馬丁·路德·金恩](https://zh.wikipedia.org/wiki/馬丁·路德·金恩 "wikilink")\[1\]，名字則參考另一位非裔美國人民權運動領袖[麥爾坎·X](../Page/麥爾坎·X.md "wikilink")\[2\]。
 
 ## 能力
 

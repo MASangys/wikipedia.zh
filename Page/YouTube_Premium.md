@@ -1,5 +1,5 @@
 **YouTube Premium**（前称：**YouTube Red**、**Music
-Key**），是一个提供给[美国](../Page/美国.md "wikilink")、[澳大利亚](../Page/澳大利亚.md "wikilink")、[墨西哥](../Page/墨西哥.md "wikilink")、[新西兰](../Page/新西兰.md "wikilink")、[大韩民国](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")、[日本](../Page/日本.md "wikilink")、[中南美洲地區以及](https://zh.wikipedia.org/wiki/中南美洲 "wikilink")[歐洲地區等多個國家的](https://zh.wikipedia.org/wiki/歐洲 "wikilink")[YouTube付费](../Page/YouTube.md "wikilink")[流媒体](../Page/流媒体.md "wikilink")\[1\]。它提供的功能有：沒有广告的YouTube影片播放、使用移动设备离线播放及后台播放影片（僅應用程式）、通过[YouTube
+Key**），是一个提供给[美国](../Page/美国.md "wikilink")、[澳大利亚](../Page/澳大利亚.md "wikilink")、[墨西哥](../Page/墨西哥.md "wikilink")、[新西兰](../Page/新西兰.md "wikilink")、[大韩民国](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")、[日本](../Page/日本.md "wikilink")、[中南美洲地區以及](https://zh.wikipedia.org/wiki/中南美洲 "wikilink")[歐洲地區等多個國家的](https://zh.wikipedia.org/wiki/歐洲 "wikilink")[YouTube付费](../Page/YouTube.md "wikilink")[流媒体](../Page/流媒体.md "wikilink")\[1\]。它提供的功能有：沒有广告的YouTube影片播放、使用移动设备离线播放及后台播放影片（僅應用程式）、透过[YouTube
 Music免广告播放音乐](../Page/YouTube_Music.md "wikilink")，以及观看《YouTube Red
 Originals》的系列节目和电影的权限\[2\]。
 
@@ -9,8 +9,8 @@ Red为名重启，用户不仅能像以前一样免广告播放音乐，更能�
 
 除了免广告播放以外，YouTube Red也与各大电视台以及一些YouTube名人合作，制作了《YouTube Red
 Originals》，只有Red会员才能够观看此电影或节目。不过，如果该YouTube
-Red节目是一个系列节目的话，系列的第一集会开放给所有人观看\[7\]。除了通过订阅YouTube
-Red来观看这些电视节目、电影之外，当所在地区不提供订阅服务时，用户可以通过[YouTube或](../Page/YouTube.md "wikilink")购买特定的集数或电影\[8\]。
+Red节目是一个系列节目的话，系列的第一集会开放给所有人观看\[7\]。除了透过订阅YouTube
+Red来观看这些电视节目、电影之外，当所在地区不提供订阅服务时，用户可以透过[YouTube或](../Page/YouTube.md "wikilink")购买特定的集数或电影\[8\]。
 
 ## 历史
 
@@ -22,7 +22,7 @@ Key外，Google也开始进一步整合Play音乐应用和YouTube应用\[10\]\[1
 Key并不是YouTube第一次进军付费内容的尝试，他们曾在2010年开始出租影片\[12\]，以及在2013年开始提供过付费订阅频道\[13\]。
 
 在封测过程中，Music
-Key因其提供的内容太有限而获得了褒贬不一的评价。YouTube的首席商业官——也解释说，他的女儿就困惑为什么《[冰雪奇缘](../Page/冰雪奇缘.md "wikilink")》的音乐影片在该服务里就不算作“音乐”，也就不免费\[14\]。在这些顾虑及其他一些因素的影响下，YouTube决定对Music
+Key因其提供的内容太有限而获得了褒贬不一的评价。YouTube的首席商业官——也解释说，他的女儿就困惑为什么《[冰雪奇缘](../Page/冰雪奇缘.md "wikilink")》的音乐影片在该服务裡就不算作“音乐”，也就不免费\[14\]。在这些顾虑及其他一些因素的影响下，YouTube决定对Music
 Key进行重新包装，从而创建了YouTube Red。不像Music Key，YouTube
 Red的目的是让用户能免广告观看所有影片，而不仅仅是音乐及音乐影片了。此改变需要YouTube向创作者和版权拥有人寻求同意，让他们制作的内容成为免广告服务的一部分；在新的合约条规下，合作人会从YouTube
 Red订阅服务的盈利中分上一杯羹，至于分多少则根据订阅者的观看时长来决定\[15\]。
@@ -36,10 +36,10 @@ Red重启，这次将范围扩大到提供所有YouTube影片的免广告观看�
 2016年5月18日，YouTube Red和YouTube
 音乐在[澳大利亚和](../Page/澳大利亚.md "wikilink")[新西兰启用](../Page/新西兰.md "wikilink")。它们是除美国以外首个获得此服务的国家\[21\]\[22\]。
 
-2016年8月3日，应用开始支持YouTube Red\[23\]。
+2016年8月3日，应用开始支援YouTube Red\[23\]。
 
 2016年12月6日，YouTube
-Red扩展至[大韩民国](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")\[24\]。
+Red拓展至[大韩民国](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")\[24\]。
 
 2018年5月17日，YouTube在宣布[YouTube
 Music将会作为各别的订阅音乐服务将会重启的同时](../Page/YouTube_Music.md "wikilink")，他们也宣布此服务将会更名为**YouTube
@@ -48,9 +48,9 @@ Premium**。YouTube也宣布服务价格将会从每个月9.99美元涨至11.99�
 ## 功能
 
 YouTube
-Red订阅服务允许用户在YouTube的网站和[移动应用端中免广告观看影片](https://zh.wikipedia.org/wiki/移动应用 "wikilink")（移动端也包括、和应用）。通过应用，用户可以在后台播放视频，能将影片保存在设备上以便之后离线观看，还能在[Android
-Oreo系统里开启](../Page/Android_Oreo.md "wikilink")[画中画模式](../Page/画中画.md "wikilink")\[27\]\[28\]\[29\]。YouTube
-Red也提供了只有订阅后才能够观看的原创内容（YouTube
+Premium订阅服务允许用户在YouTube的网站和[移动应用端中免广告观看影片](https://zh.wikipedia.org/wiki/移动应用 "wikilink")（移动端也包括、和应用程式）。透过应用程式，用户可以在后台播放影片，能将影片保存在设备上以便之后离线观看，还能在[Android
+Oreo系统裡开启](../Page/Android_Oreo.md "wikilink")[画中画模式](../Page/画中画.md "wikilink")\[27\]\[28\]\[29\]。YouTube
+Premium也提供了只有订阅后才能够观看的原创内容（YouTube
 Originals），这些内容都是由YouTube影响力最大的创作者所制作和发行的\[30\]。该服务的用户还能用Google
 Play音乐全通来免广告播放音乐\[31\]。
 
@@ -63,7 +63,7 @@ YouTube Red与专业制片廠商和YouTube名人合作提供的一些原创节�
 ### 许可资源
 
 2014年5月，在Music Key服务进行官方发布之前，一个名为全球独立网络（Worldwide Independent
-Network）的[独立音乐贸易组织宣称在YouTube想与独立唱片公司签订的不可谈判的合约中](../Page/獨立音樂.md "wikilink")，相比起其他流媒体公司对这些独立厂牌的估值低了不少。他们还表示YouTube曾威胁一个公司，如果不接受新条规的话就会对外封锁该公司的影片。在2014年6月的《[金融時報](../Page/金融時報.md "wikilink")》中，表明这些措施是“为了确保平台上的所有内容能够由新的合同条约所管理”。在表示90%的唱片公司已签订协议的同时，他继续表明“虽然希望有100%的成功率，我们也明白这可能是一个无法达成的目标，我们有责任为了用户们和这一产业而推出更好的音乐体验”\[33\]\[34\]\[35\]\[36\]。《[金融時報](../Page/金融時報.md "wikilink")》之后报导YouTube和一个代表了超过2万个独立唱片公司的协会——签订了集体协议，不过YouTube并没有确认过这一新闻\[37\]。
+Network）的[独立音乐贸易组织宣称在YouTube想与独立唱片公司签订的不可谈判的合约中](../Page/獨立音樂.md "wikilink")，相比起其他流媒体公司对这些独立厂牌的預估值低了不少。他们还表示YouTube曾威胁一个公司，如果不接受新条规的话就会对外封锁该公司的影片。在2014年6月的《[金融時報](../Page/金融時報.md "wikilink")》中，表明这些措施是“为了确保平台上的所有内容能够由新的合約条约所管理”。在表示90%的唱片公司已签订协议的同时，他继续表明“虽然希望有100%的成功率，我们也明白这可能是一个无法达成的目标，我们有责任为了用户们和这一产业而推出更好的音乐体验”\[33\]\[34\]\[35\]\[36\]。《[金融時報](../Page/金融時報.md "wikilink")》之后报导YouTube和一个代表了超过2万个独立唱片公司的协会——签订了集体协议，不过YouTube并没有确认过这一新闻\[37\]。
 
 随着YouTube Red的推出，YouTube表示同样的合约需求将会应用在所有YouTube
 合作伙伴计划的成员上；合作伙伴若不接受YouTube

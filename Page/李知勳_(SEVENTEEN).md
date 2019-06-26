@@ -23,7 +23,7 @@ I〉，後通過甄選成為[Pledis娛樂練習生](../Page/Pledis娛樂.md "wik
 於-{zh-cn:初;zh-tw:國}-中時期便開始嘗試作曲。成為練習生不久，公司在聽過自作曲後鼓勵WOOZI繼續進行創作，便持續摸索創作歌曲的技巧。\[6\]
 
 在[SEVENTEEN定名前](../Page/Seventeen_\(組合\).md "wikilink")，與[NU'EST成員](../Page/NU'EST.md "wikilink")、[張道允及公司其他男練習生合稱Pledis](https://zh.wikipedia.org/wiki/張道允 "wikilink")
-Boys。2012年，與[S.coups](https://zh.wikipedia.org/wiki/崔勝徹 "wikilink")、[Hoshi](https://zh.wikipedia.org/wiki/權純永 "wikilink")、[圓佑和](../Page/全圓佑.md "wikilink")[玟奎出演了](https://zh.wikipedia.org/wiki/金玟奎 "wikilink")[NU'EST出道曲](../Page/NU'EST.md "wikilink")〈FACE〉的MV\[7\]；同年，與Hoshi、[圓佑](../Page/全圓佑.md "wikilink")、玟奎出演[Hello
+Boys。2012年，與[S.coups](https://zh.wikipedia.org/wiki/崔勝徹 "wikilink")、[Hoshi](https://zh.wikipedia.org/wiki/權順榮 "wikilink")、[圓佑和](../Page/全圓佑.md "wikilink")[珉奎出演了](../Page/金珉奎.md "wikilink")[NU'EST出道曲](../Page/NU'EST.md "wikilink")〈FACE〉的MV\[7\]；同年，與Hoshi、[圓佑](../Page/全圓佑.md "wikilink")、珉奎出演[Hello
 Venus的出道曲](../Page/Hello_Venus.md "wikilink")〈Venus〉的MV\[8\]。
 
 2013年起，[Pledis娛樂在網路個人電視伺服器](../Page/Pledis娛樂.md "wikilink")[Ustream上](https://zh.wikipedia.org/wiki/Ustream "wikilink")，依季別播放《SEVENTEEN

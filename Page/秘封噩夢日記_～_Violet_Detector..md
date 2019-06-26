@@ -45,6 +45,11 @@
 
 ## 參考文獻
 
+## 外部連結
+
+  - [steam上的《秘封ナイトメアダイアリー　～ Violet
+    Detector.》](https://store.steampowered.com/app/924650)
+
 [Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink")
 [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
 [Category:2018年電子遊戲](https://zh.wikipedia.org/wiki/Category:2018年電子遊戲 "wikilink")

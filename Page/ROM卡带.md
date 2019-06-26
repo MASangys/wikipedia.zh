@@ -54,17 +54,14 @@ Pack）的类似卡带，并在系列的部分便携式电子琴中使用。\[10
 
 ## 使用卡带的游戏机
 
+[Nintendo-Switch-Cartridge.jpg](https://zh.wikipedia.org/wiki/File:Nintendo-Switch-Cartridge.jpg "fig:Nintendo-Switch-Cartridge.jpg")游戏卡带\]\]
 **[雅达利](https://zh.wikipedia.org/wiki/Atari "wikilink")**
 
   - [雅达利2600](https://zh.wikipedia.org/wiki/Atari_2600 "wikilink")
-
   - [雅达利5200](https://zh.wikipedia.org/wiki/Atari_5200 "wikilink")
-
   - [雅达利7800](../Page/雅达利7800.md "wikilink")
-
-  -
+  - [雅达利XEGS](https://zh.wikipedia.org/wiki/雅达利XEGS "wikilink")
   - [雅达利Lynx](https://zh.wikipedia.org/wiki/Atari_Lynx "wikilink")
-
   - [雅达利Jaguar](https://zh.wikipedia.org/wiki/Atari_Jaguar "wikilink")
 
 **[万代](https://zh.wikipedia.org/wiki/Bandai "wikilink")**

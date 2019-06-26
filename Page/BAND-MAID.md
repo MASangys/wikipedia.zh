@@ -15,13 +15,54 @@ Radio』介紹下，於[Facebook獲得超過](../Page/Facebook.md "wikilink")120
 
 ## 成員
 
-| 名字                | 負責部份 | 暱稱                 | 生日             | 出生地                                                 |
-| ----------------- | ---- | ------------------ | -------------- | --------------------------------------------------- |
-| 小鳩ミク（Kobato MIKU） | 主唱   | 吉他                 | くるっぽー（kuruppō） | 10月21日                                              |
-| 彩姬（SAIKI）         | 主唱   | さいちゃん（saichan）     | 2月8日           | [山梨縣](https://zh.wikipedia.org/wiki/山梨縣 "wikilink") |
-| 遠乃歌波（Tōno KANAMI） | 吉他   | かなみんちょ（kanamincho） | 9月28日          | [神奈川縣](../Page/神奈川縣.md "wikilink")                  |
-| 廣瀬茜（Hirose AKANE） | 鼓    | 團長                 | あーちゃん（a-chan）  | 12月14日                                              |
-| MISA              | 貝斯   | ミサ（misa）           | 10月15日         | [岡山縣](../Page/岡山縣.md "wikilink")                    |
+<table>
+<thead>
+<tr class="header">
+<th><p>名字</p></th>
+<th><p>負責部份</p></th>
+<th><p>暱稱</p></th>
+<th><p>生日</p></th>
+<th><p>出生地</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>小鳩ミク（Kobato MIKU）</p></td>
+<td><p>主唱</p></td>
+<td><p>吉他</p></td>
+<td><p>くるっぽー（kuruppō）</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>彩姬（SAIKI）</p></td>
+<td><p>主唱</p></td>
+<td><p>さいちゃん（saichan）</p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/山梨縣" title="wikilink">山梨縣</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>遠乃歌波（Tōno KANAMI）</p></td>
+<td><p>吉他</p></td>
+<td><p>かなみんちょ（kanamincho）</p></td>
+<td></td>
+<td><p><a href="../Page/神奈川縣.md" title="wikilink">神奈川縣</a></p></td>
+</tr>
+<tr class="even">
+<td><p>廣瀬茜（Hirose AKANE）</p></td>
+<td><p>鼓</p></td>
+<td><p>團長</p></td>
+<td><p>あーちゃん（a-chan）</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>MISA</p></td>
+<td><p>貝斯</p></td>
+<td><p>ミサ（misa）</p></td>
+<td></td>
+<td><p><a href="../Page/岡山縣.md" title="wikilink">岡山縣</a></p></td>
+</tr>
+</tbody>
+</table>
 
   - MIKU, 小鳩ミク（）
     [主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")、[吉他手](../Page/吉他.md "wikilink")。10月21日生，[熊本縣出身](../Page/熊本縣.md "wikilink")。

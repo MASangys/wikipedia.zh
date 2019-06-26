@@ -789,7 +789,7 @@ EPIC》。动画第一话时有出现部分剧情片段和片头曲，之后只�
 <td><p>玲奈</p></td>
 </tr>
 <tr class="even">
-<td><p>前田玲奈</p></td>
+<td><p><a href="../Page/前田玲奈.md" title="wikilink">前田玲奈</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

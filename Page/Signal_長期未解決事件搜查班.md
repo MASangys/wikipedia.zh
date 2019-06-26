@@ -221,7 +221,7 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/神尾楓珠" title="wikilink">神尾楓珠</a></p></td>
+<p><a href="../Page/神尾楓珠.md" title="wikilink">神尾楓珠</a></p></td>
 <td><center>
 <p>加藤亮太</p></td>
 <td><center>

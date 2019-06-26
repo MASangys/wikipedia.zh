@@ -546,7 +546,7 @@ New队最终获得了Show Me The Money 4的胜利。
 
   - [禹泰云](https://zh.wikipedia.org/wiki/禹泰云 "wikilink")：制作人[Zico的哥哥及前](https://zh.wikipedia.org/wiki/Zico_\(歌手\) "wikilink")[SPEED组合的队长](../Page/SPEED_\(韓國音樂團體\).md "wikilink")，现为独唱Rapper所属Doublekick娱乐旗下。他最高晋级至24强，但最终止步于16强。
 
-**其他参赛者：**[金旻載](../Page/金旻載.md "wikilink")（演员）、[RAVI](https://zh.wikipedia.org/wiki/金元植 "wikilink")（[VIXX成员](../Page/VIXX.md "wikilink")）、（后参加[高等Rapper获得冠军](../Page/高等Rapper.md "wikilink")）、（以擅长[Freestyle
+**其他参赛者：**[金旻載](../Page/金旻載.md "wikilink")（演员）、[RAVI](../Page/金元植.md "wikilink")（[VIXX成员](../Page/VIXX.md "wikilink")）、（后参加[高等Rapper获得冠军](../Page/高等Rapper.md "wikilink")）、（以擅长[Freestyle
 Rap而闻名](../Page/即興饒舌.md "wikilink")）、（SMTM3参赛者）
 
 ## 音源销量

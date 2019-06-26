@@ -128,6 +128,7 @@
     Friends-](https://zh.wikipedia.org/wiki/Mysteria_Friends "wikilink")（波比）
   - [我們真的學不來！](../Page/我們真的學不來！.md "wikilink")（**桐須真冬**\[28\]）
   - [炎炎消防隊](../Page/炎炎消防隊.md "wikilink")（**普林西斯火華**\[29\]）
+  - [普通攻擊是全體二連擊，這樣的媽媽你喜歡嗎？](https://zh.wikipedia.org/wiki/普通攻擊是全體二連擊，這樣的媽媽你喜歡嗎？ "wikilink")（**梅迪**）
 
 ### OVA
 

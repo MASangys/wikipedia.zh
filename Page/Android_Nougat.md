@@ -1,5 +1,5 @@
 **Android
-Nougat**（開發[代號](https://zh.wikipedia.org/wiki/代號 "wikilink")**Android
+Nougat**（開發[代號](https://zh.wikipedia.org/wiki/代號 "wikilink")：**Android
 N**）是由[Google開發的](../Page/Google.md "wikilink")[Android作業系統的第](../Page/Android.md "wikilink")7个主要版本。首个[测试版本在](https://zh.wikipedia.org/wiki/軟件版本週期#Beta "wikilink")2016年3月9日发行，正式版本在2016年8月22日发行。[Google
 Nexus设备可首先接受更新](../Page/Google_Nexus.md "wikilink")\[1\]。
 

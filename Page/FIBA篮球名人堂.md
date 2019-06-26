@@ -431,7 +431,7 @@ Key:
 </tr>
 <tr class="even">
 <td><p>2007</p></td>
-<td></td>
+<td><p><a href="../Page/乌莉娅娜·谢苗诺娃.md" title="wikilink">乌莉娅娜·谢苗诺娃</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Center_(basketball)" title="wikilink">C</a></p></td>
 <td></td>

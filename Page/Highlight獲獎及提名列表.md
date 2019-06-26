@@ -1,4 +1,4 @@
-**[Highlight](https://zh.wikipedia.org/wiki/Highlight_\(韓國組合\) "wikilink")**是韓國五人男子組合，組合前身名為BEAST，其主要獲獎包括分別於2011年與2012年榮獲[甜瓜音樂獎年度藝人](../Page/甜瓜音樂獎.md "wikilink")\[1\]\[2\]；憑藉專輯《[Fiction
+**[Highlight](../Page/Highlight_\(韓國組合\).md "wikilink")**是韓國五人男子組合，組合前身名為BEAST，其主要獲獎包括分別於2011年與2012年榮獲[甜瓜音樂獎年度藝人](../Page/甜瓜音樂獎.md "wikilink")\[1\]\[2\]；憑藉專輯《[Fiction
 and
 Fact](../Page/Fiction_and_Fact.md "wikilink")》主打曲〈Fiction〉榮獲2011年年度歌曲\[3\]\[4\]；2014年，憑專輯《[TiMe](https://zh.wikipedia.org/wiki/TiME_\(BEAST迷你專輯\) "wikilink")》榮頒[首爾音樂獎本賞](https://zh.wikipedia.org/wiki/首爾音樂獎 "wikilink")。\[5\]
 

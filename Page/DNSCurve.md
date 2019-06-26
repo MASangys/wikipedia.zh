@@ -2,7 +2,7 @@
 
 ## 描述
 
-DNSCurve使用\[1\][椭圆曲线加密算法建立](https://zh.wikipedia.org/wiki/椭圆曲线加密算法 "wikilink")[Salsa20使用的密钥](../Page/Salsa20.md "wikilink")，配以MAC函数，用来加密和验证[解析器与身份验证服务器之间的DNS](../Page/域名系统.md "wikilink")[網路封包](https://zh.wikipedia.org/wiki/網路封包 "wikilink")。远端验证服务器的[公钥放在NS记录中](../Page/公开密钥加密.md "wikilink")，以便递归解析器了解服务器是否支持DNSCurve。键值以[魔术字符串](../Page/魔术字.md "wikilink")`uz5`开头，后随51字节的编码的服务器的255位公钥。例如，以[BIND格式来看](../Page/BIND.md "wikilink")：
+DNSCurve使用[Curve25519](../Page/Curve25519.md "wikilink")\[1\][椭圆曲线加密算法建立](https://zh.wikipedia.org/wiki/椭圆曲线加密算法 "wikilink")[Salsa20使用的密钥](../Page/Salsa20.md "wikilink")，配以MAC函数[Poly1305](../Page/Poly1305.md "wikilink")，用来加密和验证[解析器与身份验证服务器之间的DNS](../Page/域名系统.md "wikilink")[網路封包](https://zh.wikipedia.org/wiki/網路封包 "wikilink")。远端验证服务器的[公钥放在NS记录中](../Page/公开密钥加密.md "wikilink")，以便递归解析器了解服务器是否支持DNSCurve。键值以[魔术字符串](../Page/魔术字.md "wikilink")`uz5`开头，后随51字节的编码的服务器的255位公钥。例如，以[BIND格式来看](../Page/BIND.md "wikilink")：
 
 `example.com. IN NS uz5bcx1nh80x1r17q653jf3guywz7cmyh5jv0qjz0unm56lq7rpj8l.example.com.`
 

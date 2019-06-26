@@ -542,7 +542,7 @@ EAN 471-801-602-900-2<small>（限定版）</small></p></td>
 </tr>
 <tr class="even">
 <td><p>20</p></td>
-<td><p>2019年6月25日</p></td>
+<td><p>預定2019年6月25日</p></td>
 <td><p>ISBN 978-4-04-065795-0</p></td>
 <td></td>
 <td></td>
@@ -786,10 +786,36 @@ ISBN 978-4-04-067235-9（特裝版）</p></td>
 <td><p>2018年11月21日</p></td>
 <td><p>ISBN 978-4-04-065248-1</p></td>
 </tr>
+<tr class="odd">
+<td><p>10</p></td>
+<td><p>2019年6月22日</p></td>
+<td><p>ISBN 978-4-04-065709-7</p></td>
+</tr>
 </tbody>
 </table>
 
-発売日：2019年06月22日 Re:ゼロから始める異世界生活　第三章　Truth　of　Zero　１０ ISBN：9784040657097
+  -
+    自《[月刊Comic
+    Alive](../Page/月刊Comic_Alive.md "wikilink")》2019年1月號開始連載。作者：。
+
+<table>
+<thead>
+<tr class="header">
+<th><p>集數</p></th>
+<th><p><a href="../Page/KADOKAWA.md" title="wikilink">KADOKAWA</a> <a href="../Page/Media_Factory.md" title="wikilink">Media Factory</a></p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>發售日期</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
+</tr>
+<tr class="even">
+<td><p>1</p></td>
+<td><p>2019年6月22日</p></td>
+</tr>
+</tbody>
+</table>
 
   -
 
@@ -1657,7 +1683,7 @@ PUYUKAI所製作的「[異世界四重奏](../Page/異世界四重奏.md "wikili
   - [新楓之谷](../Page/新楓之谷.md "wikilink")\[45\]
   - [白貓Project](../Page/白貓Project.md "wikilink")\[46\]
   - [新瑪奇mabinogi](https://zh.wikipedia.org/wiki/瑪奇 "wikilink")\[47\]
-  - [超異域公主連結Re:Dive](https://zh.wikipedia.org/wiki/超異域公主連結Re:Dive "wikilink")\[48\]
+  - [超異域公主連結 Re:Dive](../Page/超異域公主連結_Re:Dive.md "wikilink")\[48\]
 
 ## 備註
 
@@ -1704,6 +1730,7 @@ PUYUKAI所製作的「[異世界四重奏](../Page/異世界四重奏.md "wikili
 [Category:異世界轉生、轉移題材作品](https://zh.wikipedia.org/wiki/Category:異世界轉生、轉移題材作品 "wikilink")
 [Category:未完結作品](https://zh.wikipedia.org/wiki/Category:未完結作品 "wikilink")
 [Category:異世界題材作品](https://zh.wikipedia.org/wiki/Category:異世界題材作品 "wikilink")
+[Category:魔女题材作品](https://zh.wikipedia.org/wiki/Category:魔女题材作品 "wikilink")
 
 1.
 

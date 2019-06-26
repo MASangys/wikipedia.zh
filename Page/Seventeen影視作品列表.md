@@ -190,6 +190,16 @@
 <li><p></ref>[2][3][4]</p></li>
 </ul></td>
 </tr>
+<tr class="even">
+<td><p>2019年</p></td>
+<td></td>
+<td><p>NAVER TV</p></td>
+<td><p><a href="../Page/A-TEEN_(電視劇).md" title="wikilink">A-TEEN 2</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/洪知秀" title="wikilink">Joshua</a></p></td>
+<td><p>客串</p></td>
+<td></td>
+<td><p>網絡劇</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -1035,6 +1045,7 @@ V LIVE</p></td>
 | 5月25日-6月1日      |
 | 5月31日           |
 | 6月2日            |
+| 6月22日-6月29日     |
 
 ## 電台節目
 
@@ -1608,15 +1619,22 @@ V LIVE</p></td>
 <td><p>3月21日</p></td>
 <td><p>ARENA HOMME+</p></td>
 <td><p>4月號/2019</p></td>
-<td><p>Jun、珉奎、DK、Vernon</p></td>
+<td><p><a href="../Page/文俊輝.md" title="wikilink">Jun</a>、<a href="../Page/金珉奎.md" title="wikilink">珉奎</a>、<a href="https://zh.wikipedia.org/wiki/李碩珉" title="wikilink">DK</a>、<a href="https://zh.wikipedia.org/wiki/崔韓率" title="wikilink">Vernon</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>3月29日</p></td>
 <td><p>L'OFFICIEL HOMMES YK EDITION</p></td>
 <td><p>春夏版/2019</p></td>
-<td><p>珉奎</p></td>
+<td><p><a href="../Page/金珉奎.md" title="wikilink">珉奎</a></p></td>
 <td><p>時裝男士 Korea版 A、B版本</p></td>
+</tr>
+<tr class="even">
+<td><p>6月1日</p></td>
+<td><p>COSMOPOLITAN KOREA</p></td>
+<td><p>6月號/2019</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李碩珉" title="wikilink">DK</a></p></td>
+<td><p>Xcalibur亞瑟王</p></td>
 </tr>
 </tbody>
 </table>

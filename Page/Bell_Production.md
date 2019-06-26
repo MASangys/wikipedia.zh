@@ -98,7 +98,7 @@ Production附屬養成學校B☆ACE\[3\]。
 
   - （現所屬：[REANOS INNOVATION](http://reanosinnovation.com/)）
 
-  - （自由職業）
+  - [木下鈴奈](../Page/木下鈴奈.md "wikilink")（自由職業）
 
   - [栗原美紀子](../Page/栗原美紀子.md "wikilink")
 

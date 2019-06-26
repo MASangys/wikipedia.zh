@@ -29,6 +29,7 @@ Anakin对BBC宣称其入侵的动机为[金正男遇刺事件](../Page/金正男
 
 [Category:黑客](https://zh.wikipedia.org/wiki/Category:黑客 "wikilink")
 [Category:1996年出生](https://zh.wikipedia.org/wiki/Category:1996年出生 "wikilink")
+[Category:身份不明人物](https://zh.wikipedia.org/wiki/Category:身份不明人物 "wikilink")
 
 1.
 

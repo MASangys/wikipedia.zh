@@ -110,78 +110,94 @@
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
-<td><p>發售日期</p></td>
+<td><p>通常版 <a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
+<td><p>特裝版 <a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1</p></td>
-<td><p>2013年8月1日[1]<br />
-2015年7月18日（新裝版）[2]</p></td>
-<td><p>ISBN 978-4-7580-7264-9<br />
-ISBN 978-4-7580-7452-0（新裝版）</p></td>
+<td><p>2013年8月1日</p></td>
+<td><p>ISBN 978-4-7580-7264-9 [1]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2</p></td>
-<td><p>2014年4月1日[3]<br />
-2015年7月18日（新裝版）[4]</p></td>
-<td><p>ISBN 978-4-7580-7297-7<br />
-ISBN 978-4-7580-7453-7（新裝版）</p></td>
+<td><p>2014年4月1日</p></td>
+<td><p>ISBN 978-4-7580-7297-7 [2]</p></td>
 </tr>
 <tr class="even">
 <td><p>3</p></td>
-<td><p>2014年12月1日[5]<br />
-2015年7月18日（新裝版）[6]</p></td>
-<td><p>ISBN 978-4-7580-7372-1<br />
-ISBN 978-4-7580-7454-4（新裝版）</p></td>
+<td><p>2014年12月1日</p></td>
+<td><p>ISBN 978-4-7580-7372-1 [3]</p></td>
 </tr>
 <tr class="odd">
 <td><p>4</p></td>
-<td><p>2015年8月1日[7][8]</p></td>
-<td><p>ISBN 978-4-7580-7448-3<br />
-ISBN 978-4-7580-7449-0（特裝版）</p></td>
+<td><p>2015年8月1日</p></td>
+<td><p>ISBN 978-4-7580-7448-3 [4]</p></td>
 </tr>
 <tr class="even">
 <td><p>5</p></td>
-<td><p>2016年5月18日[9][10]</p></td>
-<td><p>ISBN 978-4-7580-7540-4<br />
-ISBN 978-4-7580-7545-9（特裝版）</p></td>
+<td><p>2016年5月18日</p></td>
+<td><p>ISBN 978-4-7580-7540-4 [5]</p></td>
 </tr>
 <tr class="odd">
 <td><p>6</p></td>
-<td><p>2016年12月17日[11][12]</p></td>
-<td><p>ISBN 978-4-7580-7624-1<br />
-ISBN 978-4-7580-7625-8（特裝版）</p></td>
+<td><p>2016年12月17日</p></td>
+<td><p>ISBN 978-4-7580-7624-1 [6]</p></td>
 </tr>
 <tr class="even">
 <td><p>7</p></td>
-<td><p>2017年6月16日[13][14]</p></td>
-<td><p>ISBN 978-4-7580-7673-9<br />
-ISBN 978-4-7580-7680-7（特裝版）</p></td>
+<td><p>2017年6月16日</p></td>
+<td><p>ISBN 978-4-7580-7673-9 [7]</p></td>
 </tr>
 <tr class="odd">
 <td><p>8</p></td>
-<td><p>2017年10月18日[15][16]</p></td>
-<td><p>ISBN 978-4-7580-7741-5<br />
-ISBN 978-4-7580-7743-9（特裝版）</p></td>
+<td><p>2017年10月18日</p></td>
+<td><p>ISBN 978-4-7580-7741-5 [8]</p></td>
 </tr>
 <tr class="even">
 <td><p>9</p></td>
-<td><p>2018年3月16日[17][18]</p></td>
-<td><p>ISBN 978-4-7580-7793-4<br />
-ISBN 978-4-7580-7794-1（特裝版）</p></td>
+<td><p>2018年3月16日</p></td>
+<td><p>ISBN 978-4-7580-7793-4 [9]</p></td>
 </tr>
 <tr class="odd">
 <td><p>10</p></td>
-<td><p>2018年10月31日[19][20]</p></td>
-<td><p>ISBN 978-4-7580-7873-3<br />
-ISBN 978-4-7580-7874-0（特裝版）</p></td>
+<td><p>2018年10月31日</p></td>
+<td><p>ISBN 978-4-7580-7873-3 [10]</p></td>
+</tr>
+</tbody>
+</table>
+
+  - **新裝版**
+
+<table>
+<thead>
+<tr class="header">
+<th><p>冊數</p></th>
+<th><p><a href="../Page/一迅社.md" title="wikilink">一迅社</a></p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>發售日期</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
+</tr>
+<tr class="even">
+<td><p>1</p></td>
+<td><p>2015年7月18日</p></td>
+</tr>
+<tr class="odd">
+<td><p>2</p></td>
+<td><p>ISBN 978-4-7580-7453-7[11]</p></td>
+</tr>
+<tr class="even">
+<td><p>3</p></td>
+<td><p>ISBN 978-4-7580-7454-4[12]</p></td>
 </tr>
 </tbody>
 </table>
 
 ## 電視動畫
 
-2016年11月15日正式宣布作品[電視動畫化](../Page/日本電視動畫.md "wikilink")\[21\]。於2018年1月播放\[22\]。
+2016年11月15日正式宣布作品[電視動畫化](../Page/日本電視動畫.md "wikilink")\[13\]。於2018年1月播放\[14\]。
 
 ### 工作人員
 
@@ -209,7 +225,7 @@ ISBN 978-4-7580-7874-0（特裝版）</p></td>
 <thead>
 <tr class="header">
 <th><p>话数</p></th>
-<th><p>原文标题 [23]</p></th>
+<th><p>原文标题 [15]</p></th>
 <th><p>分镜</p></th>
 <th><p>演出</p></th>
 <th><p>作画监督</p></th>
@@ -375,7 +391,7 @@ Nyki Ikyn</p></td>
 ### 播放電視台
 
 <table>
-<caption>日本國内[24]</caption>
+<caption>日本國内[16]</caption>
 <thead>
 <tr class="header">
 <th><p>播放地區</p></th>
@@ -397,7 +413,7 @@ Nyki Ikyn</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/TOKYO_MX" title="wikilink">TOKYO MX</a>[25]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TOKYO_MX" title="wikilink">TOKYO MX</a>[17]</p></td>
 <td><p>2018年1月7日</p></td>
 <td><p>星期日 23時30分－24時00分</p></td>
 <td><p><a href="../Page/全國獨立放送協議會.md" title="wikilink">獨立UHF局</a></p></td>
@@ -509,12 +525,12 @@ Nyki Ikyn</p></td>
 auto;text-align:center;" |+海外 \!播放網站\!\!播放日期\!\!播放時間\!\!備註 |-
 |[巴哈姆特動畫瘋](../Page/巴哈姆特動畫瘋.md "wikilink") || 2018年1月6日 ||
 每週六 22:30 || 與日本同步 |-
-|[crunchyroll](https://zh.wikipedia.org/wiki/crunchyroll "wikilink")\[26\]
+|[crunchyroll](https://zh.wikipedia.org/wiki/crunchyroll "wikilink")\[18\]
 || 2018年1月6日 || 每週六 11:00 EST || 限各地IP |}
 
 ### BD/DVD
 
-| 卷數 | 發行日期      | 收錄話數      | 規格編號\[27\] |
+| 卷數 | 發行日期      | 收錄話數      | 規格編號\[19\] |
 | -- | --------- | --------- | ---------- |
 | BD | DVD       |           |            |
 | 1  | 2018年4月3日 | 第1話-第3話   | BIXA-1201  |
@@ -525,7 +541,7 @@ auto;text-align:center;" |+海外 \!播放網站\!\!播放日期\!\!播放時間
 ### 網路廣播節目
 
 節目名稱：『Radio citrus secret love affair xxx.』
-播放時間：2017年12月27日開始的每週三於[音泉放送](../Page/音泉.md "wikilink")\[28\]
+播放時間：2017年12月27日開始的每週三於[音泉放送](../Page/音泉.md "wikilink")\[20\]
 節目人員：飾演藍原柚子的[竹達彩奈與飾演藍原芽衣的](../Page/竹達彩奈.md "wikilink")[津田美波](../Page/津田美波.md "wikilink")
 
 ## 注釋
@@ -580,11 +596,3 @@ auto;text-align:center;" |+海外 \!播放網站\!\!播放日期\!\!播放時間
 18.
 19.
 20.
-21.
-22.
-23.
-24.
-25.
-26.
-27.
-28.

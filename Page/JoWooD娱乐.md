@@ -285,7 +285,7 @@ Tobler于1995年在[埃本塞建立](https://zh.wikipedia.org/wiki/埃本塞 "wi
 </tr>
 <tr class="odd">
 <td><p>{{tsl|en|Legend of Kay</p></td>
-<td><p>Legend of Kay}} [18]</p></td>
+<td><p>凱之傳奇}} [18]</p></td>
 <td></td>
 <td><p><a href="../Page/PlayStation_2.md" title="wikilink">PlayStation 2</a></p></td>
 </tr>

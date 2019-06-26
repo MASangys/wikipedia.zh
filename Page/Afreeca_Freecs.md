@@ -12,9 +12,9 @@ Freecs以2:0战胜SK Telecom T1。\[3\]
 
 2017年[LCK春季賽開打前](../Page/英雄联盟韩国冠军联赛.md "wikilink")，大部分隊員轉往。\[4\]
 
-現任監督為退役著名星海爭霸選手""崔然星。\[5\]
+現任遊戲部門總監督為退役著名星海爭霸選手""崔然星。\[5\] 於2019年5月升職為現職位。\[6\]
 
-戰隊在2018年春季賽成功勝出季後賽，首次躋身決賽。\[6\]可惜與Kingzone DragonX的決賽戰以1-3
+戰隊在2018年春季賽成功勝出季後賽，首次躋身決賽。\[7\]可惜與Kingzone DragonX的決賽戰以1-3
 落敗，未能奪冠，僅取得亞軍。
 
 ## 成员
@@ -106,7 +106,7 @@ Freecs以2:0战胜SK Telecom T1。\[3\]
 <thead>
 <tr class="header">
 <th><p>遊戲名稱</p></th>
-<th><p>姓名[7][8]</p></th>
+<th><p>姓名[8][9]</p></th>
 <th><p>諺文</p></th>
 <th><p>遊戲定位</p></th>
 <th><p>生日<ref>{{Cite web |url = <a href="http://www.dailyesports.com/view.php?ud=2018071011053316690%7Ctitle">http://www.dailyesports.com/view.php?ud=2018071011053316690|title</a> = [롤챔스] kt '폰' 허원석 복귀 등 서머 2R 로스터 공개</p></th>
@@ -178,7 +178,7 @@ Freecs以2:0战胜SK Telecom T1。\[3\]
 </tr>
 <tr class="odd">
 <td><p>Aiming</p></td>
-<td><p>金하람[9]</p></td>
+<td><p>金하람[10]</p></td>
 <td><p>김하람</p></td>
 <td><p>AD</p></td>
 <td></td>
@@ -235,7 +235,7 @@ Freecs以2:0战胜SK Telecom T1。\[3\]
 <thead>
 <tr class="header">
 <th><p>遊戲名稱</p></th>
-<th><p>姓名[10]</p></th>
+<th><p>姓名[11]</p></th>
 <th><p>遊戲定位</p></th>
 <th><p>生日</p></th>
 <th><p>國籍</p></th>
@@ -258,7 +258,7 @@ Freecs以2:0战胜SK Telecom T1。\[3\]
 </tr>
 <tr class="odd">
 <td><p>Summit</p></td>
-<td><p>朴湡台[11]</p></td>
+<td><p>朴湡台[12]</p></td>
 <td><p>Top</p></td>
 <td></td>
 <td></td>
@@ -307,7 +307,7 @@ Freecs以2:0战胜SK Telecom T1。\[3\]
 </tr>
 <tr class="even">
 <td><p>SeongHwan</p></td>
-<td><p>尹成愌[12]</p></td>
+<td><p>尹成愌[13]</p></td>
 <td><p>Jungle</p></td>
 <td></td>
 <td></td>
@@ -328,14 +328,14 @@ Freecs以2:0战胜SK Telecom T1。\[3\]
 </tr>
 <tr class="odd">
 <td><p>SnowFlower</p></td>
-<td><p>盧會宗[13]</p></td>
+<td><p>盧會宗[14]</p></td>
 <td><p>Support</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>ikssu</p></td>
-<td><p>田益數[14]</p></td>
+<td><p>田益數[15]</p></td>
 <td><p>Top</p></td>
 <td></td>
 <td></td>
@@ -356,7 +356,7 @@ Freecs以2:0战胜SK Telecom T1。\[3\]
 <thead>
 <tr class="header">
 <th><p>代號或暱稱</p></th>
-<th><p>姓名[15]</p></th>
+<th><p>姓名[16]</p></th>
 <th><p>國籍</p></th>
 <th><p>職位</p></th>
 </tr>
@@ -366,23 +366,23 @@ Freecs以2:0战胜SK Telecom T1。\[3\]
 <td></td>
 <td><p>崔然星</p></td>
 <td></td>
-<td><p>監督</p></td>
+<td><p>總監督</p></td>
 </tr>
 <tr class="even">
+<td><p>NoFe</p></td>
+<td><p>鄭魯喆</p></td>
+<td></td>
+<td><p>監督代行</p></td>
+</tr>
+<tr class="odd">
 <td><p>viNylCat</p></td>
 <td><p>蔡雨哲</p></td>
 <td></td>
 <td><p>教練</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Yeon</p></td>
 <td><p>梁光杓</p></td>
-<td></td>
-<td><p>教練</p></td>
-</tr>
-<tr class="even">
-<td><p>NoFe</p></td>
-<td><p>鄭魯喆</p></td>
 <td></td>
 <td><p>教練</p></td>
 </tr>
@@ -395,7 +395,7 @@ Freecs以2:0战胜SK Telecom T1。\[3\]
 <thead>
 <tr class="header">
 <th><p>代號或暱稱</p></th>
-<th><p>姓名[16]</p></th>
+<th><p>姓名[17]</p></th>
 <th><p>國籍</p></th>
 <th><p>職位</p></th>
 </tr>
@@ -420,7 +420,7 @@ Freecs以2:0战胜SK Telecom T1。\[3\]
 
 #### Afreeca Freecs Blue （已解散）
 
-\[17\]
+\[18\]
 
 <table>
 <thead>
@@ -519,12 +519,13 @@ Freecs以2:0战胜SK Telecom T1。\[3\]
 6.
 7.
 8.
-9.  無對應漢字
-10. 只收錄2018的中文姓名名單
-11. \[8\]
-12.
-13. \[7\]
-14. \[15\]
-15. \[7\]
-16. \[12\]
-17.
+9.
+10. 無對應漢字
+11. 只收錄2018的中文姓名名單
+12. \[8\]
+13.
+14. \[7\]
+15. \[15\]
+16. \[7\]
+17. \[12\]
+18.

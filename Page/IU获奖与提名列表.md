@@ -205,9 +205,7 @@ Solo\[43\] | IU |  |}
 ### SBS演技大賞
 
 |- | rowspan="3"|2016 | IDOL ACADEMY 感動人物賞\[44\] | IU |  |- | 韓流明星賞 | IU
-|  |- | BEST
-COUPLE賞<small>（与[李準基](https://zh.wikipedia.org/wiki/李準基 "wikilink")）</small>
-|
+|  |- | BEST COUPLE賞<small>（与[李準基](../Page/李準基.md "wikilink")）</small> |
 rowspan="3"|《[步步驚心：麗](https://zh.wikipedia.org/wiki/步步驚心：麗 "wikilink")》
 |  |}
 

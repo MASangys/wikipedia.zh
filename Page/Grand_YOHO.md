@@ -72,7 +72,7 @@ Grand Yoho
 <!-- end list -->
 
   - <font color="{{西鐵綫色彩}}">█</font>[西鐵綫](../Page/西鐵綫.md "wikilink")：[元朗站](../Page/元朗站_\(西鐵綫\).md "wikilink")
-  - [輕鐵](../Page/香港輕鐵.md "wikilink")[綫](../Page/西鐵綫.md "wikilink")：[元朗總站](../Page/元朗站_\(輕鐵\).md "wikilink")
+  - [輕鐵](../Page/香港輕鐵.md "wikilink")[綫](../Page/西鐵綫.md "wikilink")：[元朗總站](../Page/元朗站_\(輕鐵\).md "wikilink")([610線](https://zh.wikipedia.org/wiki/香港輕鐵610線 "wikilink")、[614線](https://zh.wikipedia.org/wiki/香港輕鐵614、614P線 "wikilink")、[615線](https://zh.wikipedia.org/wiki/香港輕鐵615、615P線 "wikilink")、[761P線](https://zh.wikipedia.org/wiki/香港輕鐵761P線 "wikilink"))
 
 [缩略图](https://zh.wikipedia.org/wiki/File:YOHO_Mall_Extension_Drop_off_area_201710.jpg "fig:缩略图")
 

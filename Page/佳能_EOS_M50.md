@@ -9,7 +9,7 @@ M50 与同系列相机使用相同的 佳能 EF-M 镜头卡口。
     最大支持文件大小4G。
   - [ISO](../Page/感光度.md "wikilink") 100-25600，可扩展至51200的。\[5\]
   - 双像素CMOS对焦(除4K外).
-  - 2.36亿点OLED内 [电子取景器](../Page/电子取景器.md "wikilink") (EVF)。
+  - 236万点OLED内 [电子取景器](../Page/电子取景器.md "wikilink") (EVF)。
   - 使用[DiG\!C8处理器](../Page/DiG!C.md "wikilink")。
 
 <File:2018_04_EOS_M50_IMG_4622b.jpg>|

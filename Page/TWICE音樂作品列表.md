@@ -884,7 +884,7 @@
 </tr>
 <tr class="even">
 <td><p>1st</p></td>
-<td><p>《<strong><a href="../Page/＃TWICE2.md" title="wikilink">＃TWICE2</a></strong>》</p>
+<td><p>《<strong><a href="../Page/＃TWICE2.md" title="wikilink">#TWICE2</a></strong>》</p>
 <ul>
 <li>發行日期：2019年3月6日</li>
 <li>唱片公司：<a href="../Page/JYP娛樂.md" title="wikilink">JYP娛樂</a></li>
@@ -986,7 +986,7 @@
 <td><p>4rd</p></td>
 <td><p>《<strong><a href="../Page/HAPPY_HAPPY_(TWICE單曲).md" title="wikilink">HAPPY HAPPY</a></strong>》</p>
 <ul>
-<li>發行日期：2019年7月14日</li>
+<li>發行日期：2019年7月17日</li>
 <li>唱片公司：<a href="../Page/JYP娛樂.md" title="wikilink">JYP娛樂</a></li>
 <li>發行公司：Warner Music Japan</li>
 </ul></td>
@@ -995,6 +995,18 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p>5rd</p></td>
+<td><p>《<strong><a href="../Page/Breakthrough_(TWICE單曲).md" title="wikilink">Breakthrough</a></strong>》</p>
+<ul>
+<li>發行日期：2019年7月24日</li>
+<li>唱片公司：<a href="../Page/JYP娛樂.md" title="wikilink">JYP娛樂</a></li>
+<li>發行公司：Warner Music Japan</li>
+</ul></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><center>
 <p>"—" 表示該專輯未有在榜上排名或沒有在當地發行</p></td>
 <td></td>

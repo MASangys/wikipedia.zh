@@ -12,6 +12,7 @@ local p = {
 `   DEFAULT_PLAIN_LINK_TEMPLATE = '`[`{line_title}`](https://zh.wikipedia.org/wiki/{line_link} "wikilink")`',`
 `   DEFAULT_RICH_LINK_TEMPLATE = ' `<span style="color:#{line_color}"><big>`■`</big></span>` `[`{line_title}`](https://zh.wikipedia.org/wiki/{line_link} "wikilink")`',`
 `   DEFAULT_TRAIN_TIME_TEMPLATE = '往{station_link}方向：{train_time|H:i|次日}',`
+`   DEFAULT_STATION_TRAIN_TIME_TEMPLATE = '{start_time|H:i|次日}-{end_time|H:i|次日}',`
 `   DEFAULT_DATE_ELAPSED_TEXT = '',`
 `   DEFAULT_LINE_DATE_ABSENT_TEXT = '规划中',`
 
@@ -253,38 +254,62 @@ system)
 
 end
 
-function p._internalTrainTime(line_code, dir, type_, delta, system)
+function p._parseTime(time_str)
 
-`   function splitTime(time_str)`
-`       local base_parts = mw.text.split(time_str, ':')`
-`       local parts_size = table.getn(base_parts)`
-`       local hour = 0`
-`       local minute = 0`
-`       local sec = 0`
-`       if parts_size == 1 then`
-`           minute = tonumber(mw.text.trim(base_parts[1]))`
-`       elseif parts_size == 2 then`
-`           hour = tonumber(mw.text.trim(base_parts[1]))`
-`           minute = tonumber(mw.text.trim(base_parts[2]))`
-`       elseif parts_size == 3 then`
-`           hour = tonumber(mw.text.trim(base_parts[1]))`
-`           minute = tonumber(mw.text.trim(base_parts[2]))`
-`           sec = tonumber(mw.text.trim(base_parts[3]))`
-`       else`
-`           error('非法的时间输入')`
-`       end`
-`       return hour, minute, sec`
+`   local base_parts = mw.text.split(time_str, ':')`
+`   local parts_size = table.getn(base_parts)`
+`   local hour = 0`
+`   local minute = 0`
+`   local sec = 0`
+`   if parts_size == 1 then`
+`       minute = tonumber(mw.text.trim(base_parts[1]))`
+`   elseif parts_size == 2 then`
+`       hour = tonumber(mw.text.trim(base_parts[1]))`
+`       minute = tonumber(mw.text.trim(base_parts[2]))`
+`   elseif parts_size == 3 then`
+`       hour = tonumber(mw.text.trim(base_parts[1]))`
+`       minute = tonumber(mw.text.trim(base_parts[2]))`
+`       sec = tonumber(mw.text.trim(base_parts[3]))`
+`   else`
+`       error('非法的时间输入')`
 `   end`
-`   `
-`   local system_data = _loadSystemData(system)`
-`   local dir_info = system_data.lines[line_code].trainTime[dir]`
-`   local bhour, bmin, bsec = splitTime(dir_info[type_])`
-`   local dhour, dmin, dsec = splitTime(delta)`
-`   local totalsec = (bhour * 60 + bmin) * 60 + bsec + (dhour * 60 + dmin) * 60 + dsec`
+`   return hour, minute, sec`
+
+end
+
+function p._extractSeconds(totalsec)
+
 `   local hour = math.floor(totalsec / 3600)`
 `   local minute = math.floor((totalsec - hour * 3600) / 60)`
 `   local sec = totalsec - hour * 3600 - minute * 60`
+`   return hour, minute, sec`
+
+end
+
+function p._internalTrainTime(line_code, dir, type_, delta, system)
+
+`   local system_data = _loadSystemData(system)`
+`   local dir_info = system_data.lines[line_code].trainTime[dir]`
+`   local bhour, bmin, bsec = p._parseTime(dir_info[type_])`
+`   local dhour, dmin, dsec = p._parseTime(delta)`
+`   local totalsec = (bhour * 60 + bmin) * 60 + bsec + (dhour * 60 + dmin) * 60 + dsec`
+`   local hour, minute, sec = p._extractSeconds(totalsec)`
 `   return dir_info.endService, hour, minute, sec`
+
+end
+
+function p._formatTemplateTime(frame, sparts, hour, minute, second)
+
+`   local tomorrow_prefix = ''`
+`   if table.getn(sparts) >= 3 then`
+`       if hour >= 24 then `
+`           tomorrow_prefix = mw.text.trim(sparts[3])`
+`           if tomorrow_prefix == '' then tomorrow_prefix = '次日' end`
+`           hour = hour - 24`
+`       end`
+`   end`
+`   local time_str = string.format('%d:%d:%d', hour, minute, second)`
+`   return tomorrow_prefix .. frame:callParserFunction{ name = '#time', args = { sparts[2], time_str } }`
 
 end
 
@@ -475,8 +500,7 @@ function p.trainDirectionTime(frame)
 `   `
 `   local l = 0`
 `   while true do`
-`       local r, c`
-`       l, r, c = string.find(str, '\{([^\}]+)\}', l + 1)`
+`       local l, r, c = string.find(str, '\{([^\}]+)\}', l + 1)`
 `       if l == nil then break end`
 `       local sparts = mw.text.split(c, '|')`
 `       if sparts[1] == 'station_name' then`
@@ -484,17 +508,64 @@ function p.trainDirectionTime(frame)
 `       elseif sparts[1] == 'station_link' then`
 `           str = plain_replace(str, '{' .. c .. '}', p._internalStationLink(terminal, '', true, a.system, frame))`
 `       elseif sparts[1] == 'train_time' then`
-`           local tomorrow_prefix = ''`
-`           if table.getn(sparts) >= 3 then`
-`               if hour >= 24 then `
-`                   tomorrow_prefix = mw.text.trim(sparts[3])`
-`                   if tomorrow_prefix == '' then tomorrow_prefix = '次日' end`
-`                   hour = hour - 24`
+`           str = plain_replace(str, '{' .. c .. '}', p._formatTemplateTime(frame, sparts, hour, minute, sec))`
+`       end`
+`   end`
+`   return str`
+
+end
+
+function p.stationTrainTime(frame)
+
+`   local a = frame.args`
+`   local dir_reprs = {}`
+`   local system_data = _loadSystemData(a.system)`
+`   `
+`   local min_time_data = 999999`
+`   local max_time_data = -999999`
+`   `
+`   local line_names = mw.text.split(a.name, ',')`
+`   `
+`   for k, v in pairs(a) do`
+`       if type(k) == 'number' then`
+`           dir_reprs[k] = v`
+`       end`
+`   end`
+`   `
+`   for k, line_name in ipairs(line_names) do`
+`       for i = 1, table.getn(dir_reprs), 2 do`
+`           local dir = dir_reprs[i]`
+`           local diff = dir_reprs[i + 1]`
+`           local dir_times = system_data.lines[line_name].trainTime[dir]`
+`   `
+`           if dir_times ~= nil then`
+`               local dh, dm, ds = p._parseTime(diff)`
+`               for _, dir_time in ipairs({dir_times.first, dir_times.last}) do`
+`                   if dir_time ~= nil then`
+`                       local h, m, s = p._parseTime(dir_time)`
+`                       local t = (h * 60 + m) * 60 + s + (dh * 60 + dm) * 60 + ds`
+`                       min_time_data = math.min(min_time_data, t)`
+`                       max_time_data = math.max(max_time_data, t)`
+`                   end`
 `               end`
 `           end`
-`           local time_str = string.format('%d:%d:%d', hour, minute, sec)`
-`           local repl_time = frame:callParserFunction{ name = '#time', args = { sparts[2], time_str } }`
-`           str = plain_replace(str, '{' .. c .. '}', tomorrow_prefix .. repl_time)`
+`       end`
+`   end`
+`   `
+`   local min_h, min_m, min_s = p._extractSeconds(min_time_data)`
+`   local max_h, max_m, max_s = p._extractSeconds(max_time_data)`
+`   `
+`   local str = frame.template`
+`   if str == nil then str = p.DEFAULT_STATION_TRAIN_TIME_TEMPLATE end`
+`   local l = 0`
+`   while true do`
+`       local l, r, c = string.find(str, '\{([^\}]+)\}', l + 1)`
+`       if l == nil then break end`
+`       local sparts = mw.text.split(c, '|')`
+`       if sparts[1] == 'start_time' then`
+`           str = plain_replace(str, '{' .. c .. '}', p._formatTemplateTime(frame, sparts, min_h, min_m, min_s))`
+`       elseif sparts[1] == 'end_time' then`
+`           str = plain_replace(str, '{' .. c .. '}', p._formatTemplateTime(frame, sparts, max_h, max_m, max_s))`
 `       end`
 `   end`
 `   return str`
@@ -584,6 +655,7 @@ function p.testCase(frame)
 `       lineTerminal = mkfp('lineTerminal'),`
 `       lineTerminalName = mkfp('lineTerminalName'),`
 `       trainDirectionTime = mkfp('trainDirectionTime'),`
+`       stationTrainTime = mkfp('stationTrainTime'),`
 `   }`
 `   `
 `   -- stationLink test`
@@ -709,6 +781,14 @@ function p.testCase(frame)
 `   end`
 `   if fp.trainDirectionTime{args={name='1', dir='高霞', ['type']='F', delta='0:4', system='UseCase'}} ~= "往`[`霞浦方向`](https://zh.wikipedia.org/wiki/霞浦站_\(宁波\) "wikilink")`：06:08" then`
 `       error('trainDirectionTime test failed: dir=高霞, type=F, delta=0:4.')`
+`   end`
+`   `
+`   -- stationTrainTime test`
+`   if fp.stationTrainTime{args={'高霞', '0:3', name='1', system='UseCase'}} ~= "06:07-22:08" then`
+`       error('stationTrainTime test failed: 高霞, 0:3, name=1.')`
+`   end`
+`   if  fp.stationTrainTime{args={'高霞', '0:3', '栎清', '0:1', name='1,2', system='UseCase'}} ~= "06:07-22:10" then`
+`       error('stationTrainTime test failed: 高霞, 0:3, name=1,2.')`
 `   end`
 `   `
 `   -- lineDateMessage test`

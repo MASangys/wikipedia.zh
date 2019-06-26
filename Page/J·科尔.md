@@ -49,7 +49,7 @@ Deficit》和混音带《Back to the Feature》中担任客串艺人</span>。20
 Electronica、Mos Def共同为Talib Kweli和Hi-Tek的单曲《Just
 Begun》献声，这首歌曲被收录在Reflection
 Eternal<span>的专辑</span>《<span>Revolutions Per
-Minute</span>》内。科尔也客串了[B.o.B于](https://zh.wikipedia.org/wiki/B.o.B "wikilink")2010年发行的混音带《May
+Minute</span>》内。科尔也客串了[B.o.B于](../Page/B.o.B.md "wikilink")2010年发行的混音带《May
 25》中的歌曲《Gladiators》。
 
 2010年年初，科尔入选由《<span>Beyond

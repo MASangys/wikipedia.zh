@@ -547,7 +547,7 @@ Me**）為[毛記電視慶祝開台一周年而設的大型台慶匯演](../Page
 ## 外部連結
 
   - [《萬千呃like賀台慶》官方網站專頁](http://www.tvmost.com.hk/hb)
-  - [《萬千呃like賀台慶前奏》節目重溫](http://www.tvmost.com.hk/2016_prehb)
+  - [《萬千呃like賀台慶前奏》節目重溫](https://web.archive.org/web/20160716101921/http://www.tvmost.com.hk/2016_prehb)
   - [《萬千呃Like賀台慶
     （少啲甩轆版）》重溫](http://tvmost.com.hk/201605121505_programme_happybirthdaytome)
 

@@ -6,7 +6,7 @@
 頻道於品牌介紹時以「數碼頻道99」作稱呼，開台首月（2016年4月2日（星期六）-5月5日（星期四））以「ViuTV
 免費電視99台」作為稱呼，之後在2016年5月6日（星期五）至2017年3月30日（星期四）之間稱為「99台
 ViuTV」，[ViuTVsix於](../Page/ViuTVsix.md "wikilink")2017年3月31日（星期五）開台後只稱呼為「ViuTV」（頻道名稱）
-。
+。VIUTV的主要竞争对手为電視廣播有限公司擁有的[翡翠台和](../Page/翡翠台.md "wikilink")[J2](../Page/J2.md "wikilink")。
 
 ## 收看方法
 
@@ -181,6 +181,8 @@ ViuTV每日會播放四或五節由[now新聞台製作的新聞報道](https://z
 而當[八號或以上熱帶氣旋警告信號生效時](../Page/八號烈風或暴風信號.md "wikilink")，每小時會播出一節由[now新聞台製作的](https://zh.wikipedia.org/wiki/now新聞台 "wikilink")《風暴消息》。
 
 因應[now新聞台及](https://zh.wikipedia.org/wiki/now新聞台 "wikilink")[now財經台於](https://zh.wikipedia.org/wiki/now財經台 "wikilink")2018年8月13日起全面採用高清製作，現時ViuTV所有新聞及財經節目均以高清播放。
+
+2019年6月，因同步NOW新聞台直播逃犯條例遊行示威及行政長官記者會，VIUTV會中斷進行中的節目，甚至後面的節目都遭改期或取消，同時調動的節目都會在新聞報道播出一段時間後同步更新。
 
 ### 動畫
 

@@ -619,7 +619,8 @@ MX、每日放送、CBC電視台、東北放送、RKB每日放送、BS11等台�
 <table>
 <thead>
 <tr class="header">
-<th><p>話數</p></th>
+<th><p>話數<br />
+（通算話數）</p></th>
 <th><p>日文標題</p></th>
 <th><p>中文標題[12]</p></th>
 <th><p>劇本</p></th>
@@ -641,7 +642,8 @@ MX、每日放送、CBC電視台、東北放送、RKB每日放送、BS11等台�
 <td></td>
 </tr>
 <tr class="even">
-<td><p>第1話</p></td>
+<td><p>第1話<br />
+（第27話）</p></td>
 <td></td>
 <td><p>惡靈纏身的男子</p></td>
 <td><p>小林靖子</p></td>
@@ -652,7 +654,8 @@ MX、每日放送、CBC電視台、東北放送、RKB每日放送、BS11等台�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>第2話</p></td>
+<td><p>第2話<br />
+（第28話）</p></td>
 <td></td>
 <td><p>誰來制裁!?</p></td>
 <td><p>津田尚克</p></td>
@@ -662,7 +665,8 @@ MX、每日放送、CBC電視台、東北放送、RKB每日放送、BS11等台�
 <td></td>
 </tr>
 <tr class="even">
-<td><p>第3話</p></td>
+<td><p>第3話<br />
+（第29話）</p></td>
 <td></td>
 <td><p>DIO的詛咒</p></td>
 <td><p>加藤敏幸</p></td>
@@ -672,7 +676,8 @@ MX、每日放送、CBC電視台、東北放送、RKB每日放送、BS11等台�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>第4話</p></td>
+<td><p>第4話<br />
+（第30話）</p></td>
 <td></td>
 <td><p>灰塔</p></td>
 <td><p>安川正吾</p></td>
@@ -682,7 +687,8 @@ MX、每日放送、CBC電視台、東北放送、RKB每日放送、BS11等台�
 <td><p>4月25日</p></td>
 </tr>
 <tr class="even">
-<td><p>第5話</p></td>
+<td><p>第5話<br />
+（第31話）</p></td>
 <td></td>
 <td><p>銀色戰車</p></td>
 <td><p>小林靖子</p></td>
@@ -692,7 +698,8 @@ MX、每日放送、CBC電視台、東北放送、RKB每日放送、BS11等台�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>第6話</p></td>
+<td><p>第6話<br />
+（第32話）</p></td>
 <td></td>
 <td><p>暗藍之月</p></td>
 <td><p>豬爪慎一</p></td>
@@ -702,7 +709,8 @@ MX、每日放送、CBC電視台、東北放送、RKB每日放送、BS11等台�
 <td></td>
 </tr>
 <tr class="even">
-<td><p>第7話</p></td>
+<td><p>第7話<br />
+（第33話）</p></td>
 <td></td>
 <td><p>力</p></td>
 <td><p>筆安一幸</p></td>
@@ -712,7 +720,8 @@ MX、每日放送、CBC電視台、東北放送、RKB每日放送、BS11等台�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>第8話</p></td>
+<td><p>第8話<br />
+（第34話）</p></td>
 <td></td>
 <td><p>惡魔</p></td>
 <td><p>豬爪慎一</p></td>
@@ -724,7 +733,8 @@ MX、每日放送、CBC電視台、東北放送、RKB每日放送、BS11等台�
 <td></td>
 </tr>
 <tr class="even">
-<td><p>第9話</p></td>
+<td><p>第9話<br />
+（第35話）</p></td>
 <td></td>
 <td><p>黃色節制</p></td>
 <td><p>筆安一幸</p></td>
@@ -739,7 +749,8 @@ MX、每日放送、CBC電視台、東北放送、RKB每日放送、BS11等台�
 <td><p>5月30日</p></td>
 </tr>
 <tr class="odd">
-<td><p>第10話</p></td>
+<td><p>第10話<br />
+（第36話）</p></td>
 <td></td>
 <td><p>皇帝與倒吊男 其1</p></td>
 <td><p>小林靖子</p></td>
@@ -749,7 +760,8 @@ MX、每日放送、CBC電視台、東北放送、RKB每日放送、BS11等台�
 <td></td>
 </tr>
 <tr class="even">
-<td><p>第11話</p></td>
+<td><p>第11話<br />
+（第37話）</p></td>
 <td></td>
 <td><p>皇帝與倒吊男 其2</p></td>
 <td><p>加藤敏幸</p></td>
@@ -762,7 +774,8 @@ MX、每日放送、CBC電視台、東北放送、RKB每日放送、BS11等台�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>第12話</p></td>
+<td><p>第12話<br />
+（第38話）</p></td>
 <td></td>
 <td><p>女帝</p></td>
 <td><p>安川正吾</p></td>
@@ -773,7 +786,8 @@ Choi Hee Eun</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>第13話</p></td>
+<td><p>第13話<br />
+（第39話）</p></td>
 <td></td>
 <td><p>命運之輪</p></td>
 <td><p><a href="../Page/中原禮.md" title="wikilink">中原禮</a></p></td>
@@ -785,7 +799,8 @@ Choi Hee Eun</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>第14話</p></td>
+<td><p>第14話<br />
+（第40話）</p></td>
 <td></td>
 <td><p>正義 其1</p></td>
 <td><p>豬爪慎一</p></td>
@@ -795,7 +810,8 @@ Choi Hee Eun</p></td>
 <td><p>7月4日</p></td>
 </tr>
 <tr class="even">
-<td><p>第15話</p></td>
+<td><p>第15話<br />
+（第41話）</p></td>
 <td></td>
 <td><p>正義 其2</p></td>
 <td><p>小倉宏文</p></td>
@@ -806,7 +822,8 @@ Choi Hee Eun</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>第16話</p></td>
+<td><p>第16話<br />
+（第42話）</p></td>
 <td></td>
 <td><p>戀人 其1</p></td>
 <td><p>筆安一幸</p></td>
@@ -818,7 +835,8 @@ Choi Hee Eun</p></td>
 <td><p>7月18日</p></td>
 </tr>
 <tr class="even">
-<td><p>第17話</p></td>
+<td><p>第17話<br />
+（第43話）</p></td>
 <td></td>
 <td><p>戀人 其2</p></td>
 <td><p>藤本次朗</p></td>
@@ -830,7 +848,8 @@ Shin Hyung Woo</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>第18話</p></td>
+<td><p>第18話<br />
+（第44話）</p></td>
 <td></td>
 <td><p>太陽</p></td>
 <td><p>津田尚克</p></td>
@@ -841,7 +860,8 @@ Shin Hyung Woo</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>第19話</p></td>
+<td><p>第19話<br />
+（第45話）</p></td>
 <td></td>
 <td><p>死神13 其1</p></td>
 <td><p>安川正吾</p></td>
@@ -853,7 +873,8 @@ Shin Hyung Woo</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>第20話</p></td>
+<td><p>第20話<br />
+（第46話）</p></td>
 <td></td>
 <td><p>死神13 其2</p></td>
 <td><p>加藤敏幸</p></td>
@@ -864,7 +885,8 @@ Shin Hyung Woo</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>第21話</p></td>
+<td><p>第21話<br />
+（第47話）</p></td>
 <td></td>
 <td><p>審判 其1</p></td>
 <td><p>小林靖子</p></td>
@@ -874,7 +896,8 @@ Shin Hyung Woo</p></td>
 <td><p>8月22日</p></td>
 </tr>
 <tr class="odd">
-<td><p>第22話</p></td>
+<td><p>第22話<br />
+（第48話）</p></td>
 <td></td>
 <td><p>審判 其2</p></td>
 <td><p>副島惠文</p></td>
@@ -888,7 +911,8 @@ Yu Min Zi、Jang Min Ho<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p>第23話</p></td>
+<td><p>第23話<br />
+（第49話）</p></td>
 <td></td>
 <td><p>女教皇 其1</p></td>
 <td><p>豬爪慎一</p></td>
@@ -900,7 +924,8 @@ Lee Eun Yonung<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>第24話</p></td>
+<td><p>第24<br />
+（第50話）</p></td>
 <td></td>
 <td><p>女教皇 其2</p></td>
 <td><p>津田尚克</p></td>
@@ -924,7 +949,8 @@ Lee Eun Yonung<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>第25話</p></td>
+<td><p>第25話<br />
+（第51話）</p></td>
 <td></td>
 <td><p>|「愚者」伊奇與<br />
 「蓋布神」恩多爾 其1</p></td>
@@ -937,7 +963,8 @@ Lee Eun Yonung<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p>第26話</p></td>
+<td><p>第26話<br />
+（第52話）</p></td>
 <td></td>
 <td><p>「愚者」伊奇與<br />
 「蓋布神」恩多爾 其2</p></td>
@@ -951,7 +978,8 @@ Choi Hee Eun</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>第27話</p></td>
+<td><p>第27話<br />
+（第53話）</p></td>
 <td></td>
 <td><p>「克努姆神」歐因哥與<br />
 「托托神」波因哥</p></td>
@@ -962,7 +990,8 @@ Choi Hee Eun</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>第28話</p></td>
+<td><p>第28話<br />
+（第54話）</p></td>
 <td></td>
 <td><p>「阿努比斯神」 其1</p></td>
 <td><p>豬爪慎一</p></td>
@@ -972,7 +1001,8 @@ Choi Hee Eun</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>第29話</p></td>
+<td><p>第29話<br />
+（第55話）</p></td>
 <td></td>
 <td><p>「阿努比斯神」 其2</p></td>
 <td><p>加藤敏幸</p></td>
@@ -982,7 +1012,8 @@ Choi Hee Eun</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>第30話</p></td>
+<td><p>第30話<br />
+（第56話）</p></td>
 <td></td>
 <td><p>「巴絲提女神」瑪萊雅 其1</p></td>
 <td><p>安川正吾</p></td>
@@ -994,7 +1025,8 @@ Choi Hee Eun</p></td>
 <td><p>2月13日</p></td>
 </tr>
 <tr class="odd">
-<td><p>第31話</p></td>
+<td><p>第31話<br />
+（第57話）</p></td>
 <td></td>
 <td><p>「巴絲提女神」瑪萊雅 其2</p></td>
 <td><p>吉田泰三</p></td>
@@ -1005,7 +1037,8 @@ Choi Hee Eun</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>第32話</p></td>
+<td><p>第32話<br />
+（第58話）</p></td>
 <td></td>
 <td><p>「塞特神」阿雷西 其1</p></td>
 <td><p>筆安一幸</p></td>
@@ -1016,7 +1049,8 @@ Choi Hee Eun</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>第33話</p></td>
+<td><p>第33話<br />
+（第59話）</p></td>
 <td></td>
 <td><p>「塞特神」阿雷西 其2</p></td>
 <td><p>副島惠文</p></td>
@@ -1026,7 +1060,8 @@ Choi Hee Eun</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>第34話</p></td>
+<td><p>第34話<br />
+（第60話）</p></td>
 <td></td>
 <td><p>賭徒達比 其1</p></td>
 <td><p>安川正吾</p></td>
@@ -1038,7 +1073,8 @@ Choi Hee Eun</p></td>
 <td><p>3月13日</p></td>
 </tr>
 <tr class="odd">
-<td><p>第35話</p></td>
+<td><p>第35話<br />
+（第61話）</p></td>
 <td></td>
 <td><p>賭徒達比 其2</p></td>
 <td><p>津田尚克<br />
@@ -1049,7 +1085,8 @@ Choi Hee Eun</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>第36話</p></td>
+<td><p>第36話<br />
+（第62話）</p></td>
 <td></td>
 <td><p>荷爾·荷斯與波因哥 其1</p></td>
 <td><p>小林靖子</p></td>
@@ -1060,7 +1097,8 @@ Cha Myoung Jun</p></td>
 <td><p>3月27日</p></td>
 </tr>
 <tr class="odd">
-<td><p>第37話</p></td>
+<td><p>第37話<br />
+（第63話）</p></td>
 <td></td>
 <td><p>荷爾·荷斯與波因哥 其2</p></td>
 <td><p>吉田泰三</p></td>
@@ -1072,7 +1110,8 @@ Choi Hee Eun</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>第38話</p></td>
+<td><p>第38話<br />
+（第64話）</p></td>
 <td></td>
 <td><p>地獄守門者·佩特夏 其1</p></td>
 <td><p>鈴木健一</p></td>
@@ -1082,7 +1121,8 @@ Choi Hee Eun</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>第39話</p></td>
+<td><p>第39話<br />
+（第65話）</p></td>
 <td></td>
 <td><p>地獄守門者·佩特夏 其2</p></td>
 <td><p>藤本次朗</p></td>
@@ -1094,7 +1134,8 @@ Lee Eun Young</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>第40話</p></td>
+<td><p>第40話<br />
+（第66話）</p></td>
 <td></td>
 <td><p>電玩高手·達比 其1</p></td>
 <td><p>筆安一幸</p></td>
@@ -1104,7 +1145,8 @@ Lee Eun Young</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>第41話</p></td>
+<td><p>第41話<br />
+（第67話）</p></td>
 <td></td>
 <td><p>電玩高手·達比 其2</p></td>
 <td><p>玉村仁</p></td>
@@ -1115,7 +1157,8 @@ Lee Eun Young</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>第42話</p></td>
+<td><p>第42話<br />
+（第68話）</p></td>
 <td></td>
 <td><p>亞空瘴氣 瓦尼拉·艾斯 其1</p></td>
 <td><p>豬爪慎一</p></td>
@@ -1126,7 +1169,8 @@ Lee Eun Young</p></td>
 <td><p>5月8日</p></td>
 </tr>
 <tr class="odd">
-<td><p>第43話</p></td>
+<td><p>第43話<br />
+（第69話）</p></td>
 <td></td>
 <td><p>亞空瘴氣 瓦尼拉·艾斯 其2</p></td>
 <td><p>加藤敏幸</p></td>
@@ -1136,7 +1180,8 @@ Lee Eun Young</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>第44話</p></td>
+<td><p>第44話<br />
+（第70話）</p></td>
 <td></td>
 <td><p>亞空瘴氣 瓦尼拉·艾斯 其3</p></td>
 <td><p>吉田泰三</p></td>
@@ -1147,7 +1192,8 @@ Cha Myoung Jun</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>第45話</p></td>
+<td><p>第45話<br />
+（第71話）</p></td>
 <td></td>
 <td><p>DIO的世界 其1</p></td>
 <td><p>安川正吾</p></td>
@@ -1157,7 +1203,8 @@ Cha Myoung Jun</p></td>
 <td><p>5月29日</p></td>
 </tr>
 <tr class="even">
-<td><p>第46話</p></td>
+<td><p>第46話<br />
+（第72話）</p></td>
 <td></td>
 <td><p>DIO的世界 其2</p></td>
 <td><p>加藤敏幸</p></td>
@@ -1167,7 +1214,8 @@ Cha Myoung Jun</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>第47話</p></td>
+<td><p>第47話<br />
+（第73話）</p></td>
 <td></td>
 <td><p>DIO的世界 其3</p></td>
 <td><p>小林靖子</p></td>
@@ -1180,7 +1228,8 @@ Lee Eun Young</p></td>
 <td><p>6月12日</p></td>
 </tr>
 <tr class="even">
-<td><p>第48話</p></td>
+<td><p>第48話<br />
+（第74話）</p></td>
 <td></td>
 <td><p>遙遠的旅途 朋友再會吧</p></td>
 <td><p>鈴村健一<br />
@@ -1270,7 +1319,8 @@ Garden](https://zh.wikipedia.org/wiki/野人花園 "wikilink")
 <table>
 <thead>
 <tr class="header">
-<th><p>話數</p></th>
+<th><p>話數<br />
+（通算話數）</p></th>
 <th><p>日文標題</p></th>
 <th><p>中文標題[13]</p></th>
 <th><p>劇本</p></th>
@@ -1298,7 +1348,8 @@ Garden](https://zh.wikipedia.org/wiki/野人花園 "wikilink")
 <td></td>
 </tr>
 <tr class="even">
-<td><p>第1話</p></td>
+<td><p>第1話<br />
+（第75話）</p></td>
 <td></td>
 <td><p>空條承太郎！與東方仗助相遇</p></td>
 <td><p>小林靖子</p></td>
@@ -1313,7 +1364,8 @@ Garden](https://zh.wikipedia.org/wiki/野人花園 "wikilink")
 4月1日</p></td>
 </tr>
 <tr class="odd">
-<td><p>第2話</p></td>
+<td><p>第2話<br />
+（第76話）</p></td>
 <td></td>
 <td><p>東方仗助！與安傑羅相遇</p></td>
 <td><p>加藤敏幸</p></td>
@@ -1326,7 +1378,8 @@ Garden](https://zh.wikipedia.org/wiki/野人花園 "wikilink")
 <td></td>
 </tr>
 <tr class="even">
-<td><p>第3話</p></td>
+<td><p>第3話<br />
+（第77話）</p></td>
 <td></td>
 <td><p>虹村兄弟 其1</p></td>
 <td><p>吉田隆彥</p></td>
@@ -1339,7 +1392,8 @@ Garden](https://zh.wikipedia.org/wiki/野人花園 "wikilink")
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>第4話</p></td>
+<td><p>第4話<br />
+（第78話）</p></td>
 <td></td>
 <td><p>虹村兄弟 其2</p></td>
 <td><p>安川正吾</p></td>
@@ -1358,7 +1412,8 @@ Shin Hyung Woo<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p>第5話</p></td>
+<td><p>第5話<br />
+（第79話）</p></td>
 <td></td>
 <td><p>虹村兄弟 其3</p></td>
 <td><p>加藤敏幸</p></td>
@@ -1371,7 +1426,8 @@ Shin Hyung Woo<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>第6話</p></td>
+<td><p>第6話<br />
+（第80話）</p></td>
 <td></td>
 <td><p>廣瀨康一（迴音）</p></td>
 <td><p>筆安一幸</p></td>
@@ -1385,7 +1441,8 @@ Shin Hyung Woo<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p>第7話</p></td>
+<td><p>第7話<br />
+（第81話）</p></td>
 <td></td>
 <td><p>間田敏和（表面）</p></td>
 <td><p>豬爪慎一</p></td>
@@ -1400,7 +1457,8 @@ Shin Hey Ran</p></td>
 <td><p>5月13日</p></td>
 </tr>
 <tr class="odd">
-<td><p>第8話</p></td>
+<td><p>第8話<br />
+（第82話）</p></td>
 <td></td>
 <td><p>山岸由花子戀愛了 其1</p></td>
 <td><p>安川正吾</p></td>
@@ -1416,7 +1474,8 @@ Shin Hey Ran</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>第9話</p></td>
+<td><p>第9話<br />
+（第83話）</p></td>
 <td></td>
 <td><p>山岸由花子戀愛了 其2</p></td>
 <td><p>加藤敏幸</p></td>
@@ -1429,7 +1488,8 @@ Shin Hey Ran</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>第10話</p></td>
+<td><p>第10話<br />
+（第84話）</p></td>
 <td></td>
 <td><p>來去吃義大利餐點吧</p></td>
 <td><p>筆安一幸</p></td>
@@ -1446,7 +1506,8 @@ Shin Hyung Woo<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p>第11話</p></td>
+<td><p>第11話<br />
+（第85話）</p></td>
 <td></td>
 <td><p>嗆辣紅椒 其1</p></td>
 <td><p>小林靖子</p></td>
@@ -1460,7 +1521,8 @@ Kim Bo Kyong</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>第12話</p></td>
+<td><p>第12話<br />
+（第86話）</p></td>
 <td></td>
 <td><p>嗆辣紅椒 其2</p></td>
 <td><p>加藤敏幸</p></td>
@@ -1476,7 +1538,8 @@ Shin Hyung Woo<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p>第13話</p></td>
+<td><p>第13話<br />
+（第87話）</p></td>
 <td></td>
 <td><p>撿到麻煩的東西了！</p></td>
 <td><p>豬爪慎一</p></td>
@@ -1490,7 +1553,8 @@ Shin Hyung Woo<br />
 <td><p>6月24日</p></td>
 </tr>
 <tr class="odd">
-<td><p>第14話</p></td>
+<td><p>第14話<br />
+（第88話）</p></td>
 <td></td>
 <td><p>來去漫畫家的家裡玩吧 其1</p></td>
 <td><p>小林靖子</p></td>
@@ -1510,7 +1574,8 @@ Shin Hyung Woo<br />
 <td><p>7月1日</p></td>
 </tr>
 <tr class="even">
-<td><p>第15話</p></td>
+<td><p>第15話<br />
+（第89話）</p></td>
 <td></td>
 <td><p>來去漫畫家的家裡玩吧 其2</p></td>
 <td><p>安川正吾</p></td>
@@ -1525,7 +1590,8 @@ Shin Hyung Woo</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>第16話</p></td>
+<td><p>第16話<br />
+（第90話）</p></td>
 <td></td>
 <td><p>來去「狩獵」吧！</p></td>
 <td></td>
@@ -1538,7 +1604,8 @@ Shin Hyung Woo</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>第17話</p></td>
+<td><p>第17話<br />
+（第91話）</p></td>
 <td></td>
 <td><p>岸邊露伴的冒險</p></td>
 <td><p>豬爪慎一</p></td>
@@ -1551,7 +1618,8 @@ Shin Hyung Woo</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>第18話</p></td>
+<td><p>第18話<br />
+（第92話）</p></td>
 <td></td>
 <td><p>「重重」的收成者 其1</p></td>
 <td><p>筆安一幸</p></td>
@@ -1570,7 +1638,8 @@ Shin Hyung Woo</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>第19話</p></td>
+<td><p>第19話<br />
+（第93話）</p></td>
 <td></td>
 <td><p>「重重」的收成者 其2</p></td>
 <td><p><a href="../Page/永居慎平.md" title="wikilink">永居慎平</a></p></td>
@@ -1587,7 +1656,8 @@ Yang Jeong Hee</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>第20話</p></td>
+<td><p>第20話<br />
+（第94話）</p></td>
 <td></td>
 <td><p>山岸由花子對灰姑娘的憧憬</p></td>
 <td><p>安川正吾</p></td>
@@ -1601,7 +1671,8 @@ Yang Jeong Hee</p></td>
 <td><p>8月12日</p></td>
 </tr>
 <tr class="even">
-<td><p>第21話</p></td>
+<td><p>第21話<br />
+（第95話）</p></td>
 <td></td>
 <td><p>吉良吉影想平靜地過日子 其1</p></td>
 <td><p>小林靖子</p></td>
@@ -1614,7 +1685,8 @@ Yang Jeong Hee</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>第22話</p></td>
+<td><p>第22話<br />
+（第96話）</p></td>
 <td></td>
 <td><p>吉良吉影想平靜地過日子 其2</p></td>
 <td><p>安川正吾</p></td>
@@ -1631,7 +1703,8 @@ Yang Jeong Hee</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>第23話</p></td>
+<td><p>第23話<br />
+（第97話）</p></td>
 <td></td>
 <td><p>心痛穿心一擊 其1</p></td>
 <td><p>嶌田惣一</p></td>
@@ -1648,7 +1721,8 @@ Shin Hyung Woo</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>第24話</p></td>
+<td><p>第24話<br />
+（第98話）</p></td>
 <td></td>
 <td><p>心痛穿心一擊 其2</p></td>
 <td><p>副島惠文</p></td>
@@ -1664,7 +1738,8 @@ Shin Hyung Woo</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>第25話</p></td>
+<td><p>第25話<br />
+（第99話）</p></td>
 <td></td>
 <td><p>原子心之父</p></td>
 <td><p>豬爪慎一</p></td>
@@ -1678,7 +1753,8 @@ Seo Jung Ha</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>第26話</p></td>
+<td><p>第26話<br />
+（第100話）</p></td>
 <td></td>
 <td><p>猜拳小子來了！</p></td>
 <td><p>筆安一幸</p></td>
@@ -1696,7 +1772,8 @@ Kwon Hyeok Jeong</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>第27話</p></td>
+<td><p>第27話<br />
+（第101話）</p></td>
 <td></td>
 <td><p>我是外星人</p></td>
 <td><p>津田尚克</p></td>
@@ -1716,7 +1793,8 @@ Ryu Seung Chul<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>第28話</p></td>
+<td><p>第28話<br />
+（第102話）</p></td>
 <td></td>
 <td><p>公路之星 其1</p></td>
 <td><p>玉村仁</p></td>
@@ -1737,7 +1815,8 @@ Shin Hyung Woo</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>第29話</p></td>
+<td><p>第29話<br />
+（第103話）</p></td>
 <td></td>
 <td><p>公路之星 其2</p></td>
 <td><p>古川順康</p></td>
@@ -1764,7 +1843,8 @@ Shin Hyung Woo<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>第30話</p></td>
+<td><p>第30話<br />
+（第104話）</p></td>
 <td></td>
 <td><p>貓喜歡吉良吉影</p></td>
 <td><p>豬爪慎一<br />
@@ -1787,7 +1867,8 @@ Snin Hyung Woo</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>第31話</p></td>
+<td><p>第31話<br />
+（第105話）</p></td>
 <td></td>
 <td><p>七月十五日（四） 其1</p></td>
 <td><p>小林靖子</p></td>
@@ -1809,7 +1890,8 @@ Shin Hyung Woo<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>第32話</p></td>
+<td><p>第32話<br />
+（第106話）</p></td>
 <td></td>
 <td><p>七月十五日（四） 其2</p></td>
 <td><p>仲敷沙織<br />
@@ -1830,7 +1912,8 @@ Shin Hyung Woo</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>第33話</p></td>
+<td><p>第33話<br />
+（第107話）</p></td>
 <td></td>
 <td><p>七月十五日（四） 其3</p></td>
 <td><p>副島惠文<br />
@@ -1850,7 +1933,8 @@ Shin Hyung Woo</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>第34話</p></td>
+<td><p>第34話<br />
+（第108話）</p></td>
 <td></td>
 <td><p>七月十五日（四） 其4</p></td>
 <td><p>吉田泰三</p></td>
@@ -1869,7 +1953,8 @@ Shin Hyung Woo<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p>第35話</p></td>
+<td><p>第35話<br />
+（第109話）</p></td>
 <td></td>
 <td><p>另一項能力 手下敗將 其1</p></td>
 <td><p>安川正吾</p></td>
@@ -1891,7 +1976,8 @@ Cha Myoung Jun</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>第36話</p></td>
+<td><p>第36話<br />
+（第110話）</p></td>
 <td></td>
 <td><p>另一項能力 手下敗將 其2</p></td>
 <td><p>加藤敏幸<br />
@@ -1912,7 +1998,8 @@ Cha Myoung Jun</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>第37話</p></td>
+<td><p>第37話<br />
+（第111話）</p></td>
 <td></td>
 <td><p>不滅的瘋狂D（鑽石） 其1</p></td>
 <td><p>筆安一幸</p></td>
@@ -1935,7 +2022,8 @@ Cha Myoung Jun<br />
 <td><p>12月9日</p></td>
 </tr>
 <tr class="odd">
-<td><p>第38話</p></td>
+<td><p>第38話<br />
+（第112話）</p></td>
 <td></td>
 <td><p>不滅的瘋狂D（鑽石） 其2</p></td>
 <td><p>追崎史敏</p></td>
@@ -1959,7 +2047,8 @@ Cha Myoung Jun</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>第39話</p></td>
+<td><p>第39話<br />
+（第113話）</p></td>
 <td></td>
 <td><p>再會了杜王町－黃金精神</p></td>
 <td><p>小林靖子</p></td>
@@ -2034,7 +2123,8 @@ Cha Myoung Jun</p></td>
 <table>
 <thead>
 <tr class="header">
-<th><p>話數</p></th>
+<th><p>話數<br />
+（通算話數）</p></th>
 <th><p>日文標題</p></th>
 <th><p>中文標題[17]</p></th>
 <th><p>劇本</p></th>
@@ -2060,7 +2150,8 @@ Cha Myoung Jun</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Episodio 01</p></td>
+<td><p>Episodio 01<br />
+（第114話）</p></td>
 <td></td>
 <td><p>黃金體驗</p></td>
 <td><p>小林靖子</p></td>
@@ -2073,7 +2164,8 @@ Cha Myoung Jun</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Episodio 02</p></td>
+<td><p>Episodio 02<br />
+（第115話）</p></td>
 <td></td>
 <td><p>布加拉堤就要來了</p></td>
 <td><p>高橋秀彌</p></td>
@@ -2086,7 +2178,8 @@ Cha Myoung Jun</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Episodio 03</p></td>
+<td><p>Episodio 03<br />
+（第116話）</p></td>
 <td></td>
 <td><p>去見監獄中的流氓</p></td>
 <td><p>安川正吾</p></td>
@@ -2101,7 +2194,8 @@ Cha Myoung Jun</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Episodio 04</p></td>
+<td><p>Episodio 04<br />
+（第117話）</p></td>
 <td></td>
 <td><p>入門成為流氓</p></td>
 <td><p>木村泰大</p></td>
@@ -2114,7 +2208,8 @@ Cha Myoung Jun</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Episodio 05</p></td>
+<td><p>Episodio 05<br />
+（第118話）</p></td>
 <td></td>
 <td><p>拿下波爾波的遺產！</p></td>
 <td><p>小林靖子</p></td>
@@ -2130,7 +2225,8 @@ SHIN HYUNG WOO<br />
 <td><p>11月2日</p></td>
 </tr>
 <tr class="odd">
-<td><p>Episodio 06</p></td>
+<td><p>Episodio 06<br />
+（第119話）</p></td>
 <td></td>
 <td><p>憂鬱藍調的反擊</p></td>
 <td><p>筆安一幸</p></td>
@@ -2146,7 +2242,8 @@ SHIN HYUNG WOO<br />
 <td><p>11月9日</p></td>
 </tr>
 <tr class="even">
-<td><p>Episodio 07</p></td>
+<td><p>Episodio 07<br />
+（第120話）</p></td>
 <td></td>
 <td><p>性感手槍登場 其1</p></td>
 <td><p>鈴木恭兵</p></td>
@@ -2163,7 +2260,8 @@ SHIN HYUNG WOO<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Episodio 08</p></td>
+<td><p>Episodio 08<br />
+（第121話）</p></td>
 <td></td>
 <td><p>性感手槍登場 其2</p></td>
 <td><p>尾根真砂子</p></td>
@@ -2179,7 +2277,8 @@ SHIN HYUNG WOO<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Episodio 09</p></td>
+<td><p>Episodio 09<br />
+（第122話）</p></td>
 <td></td>
 <td><p>老闆的第一道命令</p></td>
 <td><p>豬爪慎一</p></td>
@@ -2198,7 +2297,8 @@ SHIN HYUNG WOO<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Episodio 10</p></td>
+<td><p>Episodio 10<br />
+（第123話）</p></td>
 <td></td>
 <td><p>殺手小組</p></td>
 <td><p>藤本次朗</p></td>
@@ -2214,7 +2314,8 @@ SHIN HYUNG WOO<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Episodio 11</p></td>
+<td><p>Episodio 11<br />
+（第124話）</p></td>
 <td></td>
 <td><p>納蘭迦的史密斯飛船</p></td>
 <td><p>三上喜子<br />
@@ -2234,7 +2335,8 @@ SHIN HYUNG WOO<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Episodio 12</p></td>
+<td><p>Episodio 12<br />
+（第125話）</p></td>
 <td></td>
 <td><p>老闆的第二道命令</p></td>
 <td><p>安川正吾</p></td>
@@ -2253,7 +2355,8 @@ SHIN HYUNG WOO<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Episodio 13</p></td>
+<td><p>Episodio 13<br />
+（第126話）</p></td>
 <td></td>
 <td><p>鏡中人與紫煙</p></td>
 <td><p>江島泰男</p></td>
@@ -2272,7 +2375,8 @@ SHIN HYUNG WOO<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Episodio 13.5</p></td>
+<td><p>Episodio 13.5<br />
+（第126.5話）</p></td>
 <td></td>
 <td><p>JoJo的奇妙冒險 黃金之風<br />
 序章</p></td>
@@ -2286,7 +2390,8 @@ SHIN HYUNG WOO<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Episodio 14</p></td>
+<td><p>Episodio 14<br />
+（第127話）</p></td>
 <td></td>
 <td><p>前往佛羅倫斯的超特快列車</p></td>
 <td><p>筆安一幸</p></td>
@@ -2307,7 +2412,8 @@ SHIN HYUNG WOO<br />
 <td><p>1月11日</p></td>
 </tr>
 <tr class="odd">
-<td><p>Episodio 15</p></td>
+<td><p>Episodio 15<br />
+（第128話）</p></td>
 <td></td>
 <td><p>壯烈成仁 其1</p></td>
 <td><p>南川達馬</p></td>
@@ -2323,7 +2429,8 @@ SHIN HYUNG WOO</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Episodio 16</p></td>
+<td><p>Episodio 16<br />
+（第129話）</p></td>
 <td></td>
 <td><p>壯烈成仁 其2</p></td>
 <td><p>小林靖子</p></td>
@@ -2340,7 +2447,8 @@ SHIN HYUNG WOO</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Episodio 17</p></td>
+<td><p>Episodio 17<br />
+（第130話）</p></td>
 <td></td>
 <td><p>娃娃臉</p></td>
 <td><p>川-{畑}-喬<br />
@@ -2358,7 +2466,8 @@ SHIN HYUNG WOO</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Episodio 18</p></td>
+<td><p>Episodio 18<br />
+（第131話）</p></td>
 <td></td>
 <td><p>前往威尼斯！</p></td>
 <td><p>豬爪慎一[18]</p></td>
@@ -2378,7 +2487,8 @@ SHIN HYUNG WOO</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Episodio 19</p></td>
+<td><p>Episodio 19<br />
+（第132話）</p></td>
 <td></td>
 <td><p>白色相簿</p></td>
 <td><p>吉田泰三</p></td>
@@ -2394,7 +2504,8 @@ SHIN HYUNG WOO</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Episodio 20</p></td>
+<td><p>Episodio 20<br />
+（第133話）</p></td>
 <td></td>
 <td><p>老闆的最終指令</p></td>
 <td><p>津田尚克</p></td>
@@ -2414,7 +2525,8 @@ SHIN HYUNG WOO</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Episodio 21</p></td>
+<td><p>Episodio 21<br />
+（第134話）</p></td>
 <td></td>
 <td><p>克里姆王之謎</p></td>
 <td><p>津田尚克<br />
@@ -2439,7 +2551,8 @@ SHIN HYUNG WOO<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Episodio 21.5</p></td>
+<td><p>Episodio 21.5<br />
+（第134.5話）</p></td>
 <td></td>
 <td><p>JoJo的奇妙冒險 黃金之風<br />
 determinazione</p></td>
@@ -2452,7 +2565,8 @@ determinazione</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Episodio 22</p></td>
+<td><p>Episodio 22<br />
+（第135話）</p></td>
 <td></td>
 <td><p>Guts的「G」</p></td>
 <td><p>安川正吾</p></td>
@@ -2470,7 +2584,8 @@ SHIN HYUNG WOO<br />
 <td><p>3月15日</p></td>
 </tr>
 <tr class="even">
-<td><p>Episodio 23</p></td>
+<td><p>Episodio 23<br />
+（第136話）</p></td>
 <td></td>
 <td><p>衝擊與臉部特寫</p></td>
 <td><p>藤本次朗</p></td>
@@ -2488,7 +2603,8 @@ SHIN HYUNG WOO<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Episodio 24</p></td>
+<td><p>Episodio 24<br />
+（第137話）</p></td>
 <td></td>
 <td><p>聲名狼藉先生</p></td>
 <td><p>筆安一幸</p></td>
@@ -2504,7 +2620,8 @@ SHIN HYUNG WOO<br />
 <td><p>3月29日</p></td>
 </tr>
 <tr class="even">
-<td><p>Episodio 25</p></td>
+<td><p>Episodio 25<br />
+（第138話）</p></td>
 <td></td>
 <td><p>辣妹</p></td>
 <td><p>南川達馬<br />
@@ -2522,7 +2639,8 @@ SHIN HYUNG WOO<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Episodio 26</p></td>
+<td><p>Episodio 26<br />
+（第139話）</p></td>
 <td></td>
 <td><p>一點過往的小故事 我叫托比歐</p></td>
 <td><p>豬爪慎一</p></td>
@@ -2540,7 +2658,8 @@ SHIN HYUNG WOO<br />
 <td><p>4月12日</p></td>
 </tr>
 <tr class="even">
-<td><p>Episodio 27</p></td>
+<td><p>Episodio 27<br />
+（第140話）</p></td>
 <td></td>
 <td><p>克里姆王v.s.金屬製品</p></td>
 <td><p>堀內全</p></td>
@@ -2552,7 +2671,8 @@ SHIN HYUNG WOO<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Episodio 28</p></td>
+<td><p>Episodio 28<br />
+（第141話）</p></td>
 <td></td>
 <td><p>在快掉下來的天空底下</p></td>
 <td><p>小林靖子</p></td>
@@ -2570,7 +2690,8 @@ SHIN HYUNG WOO<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Episodio 28.5</p></td>
+<td><p>Episodio 28.5<br />
+（第141.5話）</p></td>
 <td></td>
 <td><p>JoJo的奇妙冒險 黃金之風<br />
 destino</p></td>
@@ -2583,7 +2704,8 @@ destino</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Episodio 29</p></td>
+<td><p>Episodio 29<br />
+（第142話）</p></td>
 <td></td>
 <td><p>目的地是羅馬！競技場</p></td>
 <td><p>安川正吾</p></td>
@@ -2596,7 +2718,8 @@ destino</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Episodio 30</p></td>
+<td><p>Episodio 30<br />
+（第143話）</p></td>
 <td></td>
 <td><p>年輕歲月與綠洲 其1</p></td>
 <td><p>川-{畑}-喬</p></td>
@@ -2613,7 +2736,8 @@ destino</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Episodio 31</p></td>
+<td><p>Episodio 31<br />
+（第144話）</p></td>
 <td></td>
 <td><p>年輕歲月與綠洲 其2</p></td>
 <td><p>筆安一幸</p></td>
@@ -2629,7 +2753,8 @@ destino</p></td>
 <td><p>5月24日</p></td>
 </tr>
 <tr class="even">
-<td><p>Episodio 32</p></td>
+<td><p>Episodio 32<br />
+（第145話）</p></td>
 <td></td>
 <td><p>年輕歲月與綠洲 其3</p></td>
 <td><p>大原實</p></td>
@@ -2648,56 +2773,87 @@ CHA MYOUNG JUN<br />
 鈴木勘太</p></td>
 <td><p>石本峻一<br />
 田中春香</p></td>
-<td><p>5月31日&lt;!--</p></td>
+<td><p>5月31日</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Episodio 33</p></td>
+<td><p>Episodio 33<br />
+（第146話）</p></td>
 <td></td>
 <td><p>其名為迪亞波羅</p></td>
+<td><p>堀內全</p></td>
+<td><p>青柳宏宜<br />
+松木敬一</p></td>
+<td><p>石本峻一<br />
+田中春香<br />
+石山正修<br />
+SHIN HYUNG WOO<br />
+橫山謙次<br />
+木下由衣<br />
+森田莉奈<br />
+小林理<br />
+高阪雅基<br />
+石橋大輔</p></td>
+<td><p>鈴木勘太</p></td>
+<td><p>6月7日</p></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td><p>月日</p></td>
 </tr>
 <tr class="even">
-<td><p>Episodio 34</p></td>
+<td><p>Episodio 34<br />
+（第147話）</p></td>
+<td></td>
+<td><p>鎮魂曲沉靜地演奏著 其1</p></td>
+<td><p>安川正吾</p></td>
+<td><p>高橋謙仁</p></td>
+<td><p>柴田和紀<br />
+豐田曉子<br />
+木下由衣<br />
+高阪雅基<br />
+寶谷幸稔<br />
+森藤希子<br />
+田中春香<br />
+石本峻一</p></td>
+<td><p>鈴木勘太<br />
+岩崎安利</p></td>
+<td><p>6月14日</p></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td><p>月日</p></td>
 </tr>
 <tr class="odd">
-<td><p>Episodio 35</p></td>
+<td><p>Episodio 35<br />
+（第148話）</p></td>
+<td></td>
+<td><p>鎮魂曲沉靜地演奏著 其2</p></td>
+<td><p>豬爪慎一</p></td>
+<td><p>久保雄介</p></td>
+<td><p>石本峻一<br />
+SHIN HYUNG WOO<br />
+石山正修<br />
+津曲大介<br />
+柴田和紀<br />
+小林理<br />
+森藤希子<br />
+田中春香<br />
+小島惠理<br />
+</p></td>
+<td><p>6月21日&lt;!--</p></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td><p>月日</p></td>
 </tr>
 <tr class="even">
-<td><p>Episodio 36</p></td>
+<td><p>Episodio 36<br />
+（第149話）</p></td>
+<td></td>
+<td><p>迪亞波羅現身</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td><p>月日--&gt;</p></td>
+<td><p>6月日--&gt;</p></td>
 </tr>
 </tbody>
 </table>
@@ -2758,7 +2914,7 @@ CHA MYOUNG JUN<br />
 | 2          | 2019年2月13日  | 第5話～第8話    | 1000737001 |
 | 3          | 2019年3月13日  | 第9話～第12話   | 1000737002 |
 | 4          | 2019年4月10日  | 第13話～第16話  | 1000737003 |
-| 5          | 2019年5月15日  |            | 1000737004 |
+| 5          | 2019年5月15日  | 第17話～第20話  | 1000737004 |
 | 6          | 2019年7月10日  |            | 1000737005 |
 | 7          | 2019年8月14日  |            | 1000737006 |
 | 8          | 2019年9月11日  |            | 1000737007 |

@@ -2,7 +2,7 @@
 
 ## 简介
 
-本专辑为fripSide成立十五周年的纪念专辑\[1\]，包含两张CD。其中一张CD收录的歌曲由粉丝投票选出的，包括担任主唱时期fripSide的歌曲，以及现任主唱[南条爱乃时期的歌曲](https://zh.wikipedia.org/wiki/南条爱乃 "wikilink")，共12首；另一张CD收录了电视动画的片头曲、电视动画第2季后半期的片头曲以及另外4首新歌，共6首歌曲\[2\]。另外，初回限定版（分为[BD限定版和](https://zh.wikipedia.org/wiki/BD "wikilink")[DVD限定版](https://zh.wikipedia.org/wiki/DVD "wikilink")）还收录了2017年2月26日[新潟场的完整影像](../Page/新潟市.md "wikilink")，以及的[PV及相关视频](https://zh.wikipedia.org/wiki/PV "wikilink")\[3\]。
+本专辑为fripSide成立十五周年的纪念专辑\[1\]，包含两张CD。其中一张CD收录的歌曲由粉丝投票选出的，包括[nao担任主唱时期fripSide的歌曲](https://zh.wikipedia.org/wiki/nao_\(歌手\) "wikilink")，以及现任主唱[南条爱乃时期的歌曲](https://zh.wikipedia.org/wiki/南条爱乃 "wikilink")，共12首；另一张CD收录了电视动画的片头曲、电视动画第2季后半期的片头曲以及另外4首新歌，共6首歌曲\[2\]。另外，初回限定版（分为[BD限定版和](https://zh.wikipedia.org/wiki/BD "wikilink")[DVD限定版](https://zh.wikipedia.org/wiki/DVD "wikilink")）还收录了2017年2月26日[新潟场的完整影像](../Page/新潟市.md "wikilink")，以及的[PV及相关视频](https://zh.wikipedia.org/wiki/PV "wikilink")\[3\]。
 
 专辑发售前，fripSide成员[八木沼悟志和南条爱乃参加了](../Page/八木沼悟志.md "wikilink")9月19日在[niconico播出的直播节目](https://zh.wikipedia.org/wiki/niconico "wikilink")，推介新专辑和接下来的演唱会；9月23日，由八木沼悟志参加并现场解说的全曲试听会在[东京举办](../Page/东京.md "wikilink")\[4\]\[5\]。专辑初动销量11167张，位列[Oricon公信榜周榜第](../Page/Oricon公信榜.md "wikilink")5\[6\]。
 

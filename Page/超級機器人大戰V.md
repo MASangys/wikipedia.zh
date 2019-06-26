@@ -244,8 +244,8 @@ ED「NEW BLUE」
     [松澤由美](https://zh.wikipedia.org/wiki/松澤由美 "wikilink") (《機動戰艦》OP)
     19 [Dearest](../Page/Dearest_\(松泽由美单曲\).md "wikilink") - 松澤由美
     (《劇場版機動戰艦撫子 -The prince of darkness-》ED)
-    20  - 作曲：[服部隆之](https://zh.wikipedia.org/wiki/服部隆之 "wikilink")
-    (《劇場版機動戰艦撫子 -The prince of darkness-》BGM)
+    20  - 作曲：[服部隆之](../Page/服部隆之.md "wikilink") (《劇場版機動戰艦撫子 -The prince
+    of darkness-》BGM)
     21  - [水木一郎](../Page/水木一郎.md "wikilink") (《真蓋特機器人 世界最後之日》OP)
     22 HEATS - [影山浩宣](../Page/影山浩宣.md "wikilink") (《真蓋特機器人 世界最後之日》OP2)
     23  - ULTIMATE LAZY for MAZINGER (《真魔神 衝擊！Z篇》OP)

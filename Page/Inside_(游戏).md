@@ -179,7 +179,7 @@ Rignall）在預覽本作後指出本作是在他玩過的眾多解謎遊戲之�
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2016年<a href="https://zh.wikipedia.org/wiki/互动艺术与科学学会" title="wikilink">互动艺术与科学学会奖</a></p></td>
+<td><p>2016年<a href="../Page/互动艺术与科学学会.md" title="wikilink">互动艺术与科学学会奖</a></p></td>
 <td><p>年度游戏</p></td>
 <td></td>
 <td><p>[55]</p></td>

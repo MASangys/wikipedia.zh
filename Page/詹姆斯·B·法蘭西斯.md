@@ -1,7 +1,7 @@
 **詹姆斯·比切諾·法蘭西斯**
 （，）為一位[英國裔的](https://zh.wikipedia.org/wiki/英國 "wikilink")[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[工程師](https://zh.wikipedia.org/wiki/工程師 "wikilink")，他著名的發明包括[法蘭西斯式水輪機](../Page/法蘭西斯式水輪機.md "wikilink")。
 
-## 早年生活
+## 生平
 
 [1836_map_of_canal_system_in_Lowell,_Massachusetts.jpg](https://zh.wikipedia.org/wiki/File:1836_map_of_canal_system_in_Lowell,_Massachusetts.jpg "fig:1836_map_of_canal_system_in_Lowell,_Massachusetts.jpg")
 詹姆斯 B.
@@ -137,13 +137,12 @@ MW）\]\]
 
   - <http://www.asme.org/Communities/History/Landmarks/Lowell_Power_Canal_System.cfm>
 
-[Category:1815年出生](https://zh.wikipedia.org/wiki/Category:1815年出生 "wikilink")
-[Category:1892年逝世](https://zh.wikipedia.org/wiki/Category:1892年逝世 "wikilink")
 [Category:美國發明家](https://zh.wikipedia.org/wiki/Category:美國發明家 "wikilink")
 [Category:美國工程師](https://zh.wikipedia.org/wiki/Category:美國工程師 "wikilink")
 [Category:英格蘭發明家](https://zh.wikipedia.org/wiki/Category:英格蘭發明家 "wikilink")
 [Category:移民美國的英格蘭人](https://zh.wikipedia.org/wiki/Category:移民美國的英格蘭人 "wikilink")
-[Category:工業革命](https://zh.wikipedia.org/wiki/Category:工業革命 "wikilink")
+[Category:工业革命人物](https://zh.wikipedia.org/wiki/Category:工业革命人物 "wikilink")
+[Category:纺织工程师](https://zh.wikipedia.org/wiki/Category:纺织工程师 "wikilink")
 
 1.  Lowell National Historic Park publication
 

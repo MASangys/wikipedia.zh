@@ -1059,6 +1059,7 @@ BTOB](../Page/PIECE_OF_BTOB.md "wikilink")》是自2017年4月起，以每月一
 | 9月17日                                                         |
 | 2019年                                                         |
 | 4月11日                                                         |
+| 6月27日                                                         |
 |                                                               |
 
 ## 演唱會影音
@@ -1569,6 +1570,9 @@ Remake Ver.</p></td>
 <td><p>2019年</p></td>
 </tr>
 <tr class="odd">
+<td><p>曾經的愛（사랑이었다）</p></td>
+</tr>
+<tr class="even">
 <td></td>
 </tr>
 </tbody>

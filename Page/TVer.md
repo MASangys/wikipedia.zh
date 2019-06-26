@@ -4,7 +4,7 @@ TVer（ティーバー）是[日本](../Page/日本.md "wikilink")[东京的五�
 
 用户可以登录[TVer网址](http://tver.jp/)或者在[移动终端上](https://zh.wikipedia.org/wiki/移动终端 "wikilink")[下载TVer应用程序](http://tver.jp/info/app.html)收看[日本电视台](../Page/日本電視台.md "wikilink")、[朝日电视台](https://zh.wikipedia.org/wiki/朝日电视台 "wikilink")、[TBS电视台](../Page/TBS電視台.md "wikilink")、[富士电视台以及](../Page/富士電視台.md "wikilink")[东京电视台各自每周提供的十档节目](../Page/東京電視台.md "wikilink")。每集节目播出后的七天内，观众都可以进行免费点播。
 
-目前，TVer的竞争对手包括Netflix以及Bonobo、[Hulu](../Page/Hulu.md "wikilink")、[Gyao](https://zh.wikipedia.org/wiki/Gyao "wikilink")、[Unext等现有的](https://zh.wikipedia.org/wiki/Unext "wikilink")[OTT服务以及日本主要移动运营商](../Page/OTT服务.md "wikilink")[SoftBank](https://zh.wikipedia.org/wiki/軟銀 "wikilink")、[NTTDocomo和](../Page/NTT_DOCOMO.md "wikilink")[KDDI的视频服务](../Page/KDDI.md "wikilink")。
+目前，TVer的竞争对手包括Netflix以及Bonobo、[Hulu](../Page/Hulu.md "wikilink")、[Gyao](https://zh.wikipedia.org/wiki/Gyao "wikilink")、[Unext等现有的](https://zh.wikipedia.org/wiki/Unext "wikilink")[OTT服务以及日本主要移动运营商](../Page/OTT服务.md "wikilink")[SoftBank](../Page/軟銀.md "wikilink")、[NTTDocomo和](../Page/NTT_DOCOMO.md "wikilink")[KDDI的视频服务](../Page/KDDI.md "wikilink")。
 
 ## 节目内容提供商
 

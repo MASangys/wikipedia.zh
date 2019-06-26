@@ -2,7 +2,7 @@
 絕大部分élf遊戲也曾被改編為[成人動畫](../Page/成人動畫.md "wikilink")。有三部élf遊戲系列更曾被改編為[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")：《[下級生](../Page/下級生.md "wikilink")》、《[萊姆色戰奇譚](https://zh.wikipedia.org/wiki/萊姆色戰奇譚 "wikilink")》、《[YU-NO
 在這世界盡頭詠唱愛的少女](../Page/YU-NO_在這世界盡頭詠唱愛的少女.md "wikilink")》。
 
-élf在2016年停止獨立營運，旗下遊戲的版權分別則賣給[DMM.com和](../Page/DMM.com.md "wikilink")[MAGES.](https://zh.wikipedia.org/wiki/MAGES. "wikilink")。\[2\]\[3\]
+élf在2016年停止獨立營運，旗下遊戲的版權則分別賣給[DMM.com和](../Page/DMM.com.md "wikilink")[MAGES.](https://zh.wikipedia.org/wiki/MAGES. "wikilink")。\[2\]\[3\]
 
 ## 歷史
 

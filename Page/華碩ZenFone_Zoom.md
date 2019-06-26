@@ -21,7 +21,7 @@ Zoom**是[華碩於](../Page/華碩.md "wikilink")2015年1月6日在[CES展](htt
 </tr>
 <tr class="even">
 <td><p>介面</p></td>
-<td></td>
+<td><p><a href="../Page/ASUS_ZenUI.md" title="wikilink">ASUS ZenUI</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2G通訊協定</p></td>

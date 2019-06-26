@@ -1,19 +1,19 @@
-[新巴](https://zh.wikipedia.org/wiki/新巴 "wikilink")「[人力車觀光巴士](../Page/人力車觀光巴士.md "wikilink")」**H2S**線，只於每年12月31日除夕夜提供服務，來往及[伊利沙伯中學](https://zh.wikipedia.org/wiki/伊利沙伯中學 "wikilink")，以類似循環線之方式順序途經[金鐘](../Page/金鐘.md "wikilink")、[灣仔](../Page/灣仔.md "wikilink")、[佐敦](../Page/佐敦.md "wikilink")、[旺角](../Page/旺角.md "wikilink")、灣仔北及[金鐘](../Page/金鐘.md "wikilink")，屬線的特別服務，讓乘客在開篷巴士上迎接新一年來臨。
+[新巴](https://zh.wikipedia.org/wiki/新巴 "wikilink")「[人力車觀光巴士](../Page/人力車觀光巴士.md "wikilink")」**H2S**線，只於每年12月31日除夕夜提供服務，來往及[伊利沙伯中學](../Page/伊利沙伯中學.md "wikilink")，以類似循環線之方式順序途經[金鐘](../Page/金鐘.md "wikilink")、[灣仔](../Page/灣仔.md "wikilink")、[佐敦](../Page/佐敦.md "wikilink")、[旺角](../Page/旺角.md "wikilink")、灣仔北及[金鐘](../Page/金鐘.md "wikilink")，屬線的特別服務，讓乘客在開篷巴士上迎接新一年來臨。
 
 ## 歷史
 
-  - 人力車觀光巴士於除夕夜的特別服務於2017年除夕夜起改由**H2S**線提供，取代原有的線，並更改循環點為[伊利沙伯中學](https://zh.wikipedia.org/wiki/伊利沙伯中學 "wikilink")，改經而不再繞經[尖沙咀東部及](https://zh.wikipedia.org/wiki/尖沙咀東部 "wikilink")[花園道一帶](../Page/花園道.md "wikilink")。
+  - 人力車觀光巴士於除夕夜的特別服務於2017年除夕夜起改由**H2S**線提供，取代原有的線，並更改循環點為[伊利沙伯中學](../Page/伊利沙伯中學.md "wikilink")，改經而不再繞經[尖沙咀東部及](https://zh.wikipedia.org/wiki/尖沙咀東部 "wikilink")[花園道一帶](../Page/花園道.md "wikilink")。
 
 ## 服務日期、時間及班次
 
   - 2017年12月31日（除夕夜）\[1\]
 
-| 由開出         | 由[伊利沙伯中學開出](https://zh.wikipedia.org/wiki/伊利沙伯中學 "wikilink") |
-| ----------- | ------------------------------------------------------------ |
-| 除夕夜         |                                                              |
-| 22:30、22:45 | 23:10、23:25                                                  |
+| 由開出         | 由[伊利沙伯中學開出](../Page/伊利沙伯中學.md "wikilink") |
+| ----------- | ----------------------------------------- |
+| 除夕夜         |                                           |
+| 22:30、22:45 | 23:10、23:25                               |
 
-註：巴士到達[伊利沙伯中學後](https://zh.wikipedia.org/wiki/伊利沙伯中學 "wikilink")，會等待編定時間啟程返回，欲原車繼續往中環方向的乘客可留在車上，並於下車時繳付回程車資。
+註：巴士到達[伊利沙伯中學後](../Page/伊利沙伯中學.md "wikilink")，會等待編定時間啟程返回，欲原車繼續往中環方向的乘客可留在車上，並於下車時繳付回程車資。
 
 ## 收費
 
@@ -57,8 +57,8 @@
 [佐敦](../Page/佐敦.md "wikilink") || [加士居道](../Page/加士居道.md "wikilink")
 || [拔萃女書院](https://zh.wikipedia.org/wiki/拔萃女書院 "wikilink") || |- | 5 ||
 [旺角](../Page/旺角.md "wikilink") || [洗衣街](../Page/洗衣街.md "wikilink") ||
-[伊利沙伯中學](https://zh.wikipedia.org/wiki/伊利沙伯中學 "wikilink") || 循環線折返點
-|- | 6 || [紅磡](../Page/紅磡.md "wikilink") || ||
+[伊利沙伯中學](../Page/伊利沙伯中學.md "wikilink") || 循環線折返點  |- | 6 ||
+[紅磡](../Page/紅磡.md "wikilink") || ||
 [海底隧道收費廣場](https://zh.wikipedia.org/wiki/海底隧道收費廣場 "wikilink")
 ||  |- | 7 || 灣仔北 || ||  || 巴士會於此站停留，直至除夕煙花匯演完結後再繼續行程 |- | 8 ||
 [灣仔](../Page/灣仔.md "wikilink") || [軒尼詩道](../Page/軒尼詩道.md "wikilink")

@@ -1,4 +1,5 @@
 [Rogue_Screen_Shot_CAR.PNG](https://zh.wikipedia.org/wiki/File:Rogue_Screen_Shot_CAR.PNG "fig:Rogue_Screen_Shot_CAR.PNG")
+
 **Roguelike**是[角色扮演游戏的一个分支类型](../Page/角色扮演游戏.md "wikilink")，它以一系列[随机生成](../Page/程序化生成.md "wikilink")[关卡的](../Page/關卡_\(電子遊戲\).md "wikilink")[地牢](https://zh.wikipedia.org/wiki/迷宫探索 "wikilink")、、[基于磁贴的图像](https://zh.wikipedia.org/wiki/拚接圖電子遊戲 "wikilink")（tile-based
 graphics）和[角色](https://zh.wikipedia.org/wiki/玩家角色 "wikilink")[永久死亡](https://zh.wikipedia.org/wiki/永久死亡 "wikilink")（即一次游戏内无法无限制复活）为特点。大多数Roguelike游戏建立在[高度幻想的故事背景上](../Page/古典奇幻.md "wikilink")，这一点是由于[桌面角色扮演游戏](https://zh.wikipedia.org/wiki/桌面角色扮演游戏 "wikilink")（如《[龙与地下城](../Page/龙与地下城.md "wikilink")》）的影响。
 
@@ -10,7 +11,6 @@ death labyrinths”称呼并将它们和标准的Roguelike区分开来会更准�
 
 ## 起源
 
-[缩略图](https://zh.wikipedia.org/wiki/File:Rougelike_or_Roguelike.png "fig:缩略图")
 1993年前后，USENET
 新闻频道是那个时代Roguelike游戏玩家的讨论区，开发者也经常在此处发布新版本或是游戏源代码，术语Roguelike最初便是在这里被发明并使用。当时，随着几个拥有相同元素的游戏逐渐流行开来，不同讨论组希望统一起来，使用涵盖性术语来帮助跨游戏讨论。\[1\]\[2\]\[3\]
 一开始他们选择使用`rec.games.dungeon.*`\[4\]\[5\]作为标签，但经过三周的讨论，由于Rogue是“万恶之源（
@@ -49,11 +49,11 @@ clone](https://zh.wikipedia.org/wiki/Doom_clone "wikilink")"在90年代的时候
 Roguelike 游戏的游戏玩法由基于文字的游戏 《Rogue》发扬光大并在其后被其他游戏借鉴、改造。\[14\]
 2015年，数百名玩家声称Roguelike将会成为[Steam上的一个独立的游戏分类](../Page/Steam.md "wikilink")。一个由爱好者运营的百科网站[ogueBasin](https://zh.wikipedia.org/wiki/ogueBasin "wikilink")\[15\]
 则追踪了数百款Roguelike游戏的开发进度。由于Roguelike热度猛增，它的游戏玩法核心元素在2008年的柏林国际 Roguelike
-游戏开发大会得到了明确的定义，称之为“'柏林准则'”。\[16\]\[17\]\[18\]
+游戏开发大会得到了明确的定义，称之为“柏林准则”。\[16\]\[17\]\[18\]
 为了明确“Roguelike游戏是什么”这个问题的答案，柏林准则根据著名的“Roguelike五圣经”（《[Rogue](https://zh.wikipedia.org/wiki/Rouge "wikilink")》《[迷宫骇客](../Page/NetHack.md "wikilink")》《[神秘古域](https://zh.wikipedia.org/wiki/Ancient_Domains_of_Mystery "wikilink")》《[安格班德](https://zh.wikipedia.org/wiki/Angband_\(video_game\) "wikilink")》《[Linley's
 Dungeon
 Crawl](https://zh.wikipedia.org/wiki/Linley's_Dungeon_Crawl "wikilink")》和
-《[深入地下城之石头汤》](https://zh.wikipedia.org/wiki/Dungeon_Crawl_Stone_Soup "wikilink")）设定了一系列核心元素和一些次要元素，然而是否完全具备这些元素并不能决定此游戏是否可以算作是“Roguelike”。\[19\]\[20\]
+《[深入地下城之石头汤](../Page/深入地下城之石头汤.md "wikilink")》）设定了一系列核心元素和一些次要元素，然而是否完全具备这些元素并不能决定此游戏是否可以算作是“Roguelike”。\[19\]\[20\]
 来自[Game Set
 Watch](https://zh.wikipedia.org/wiki/Game_Set_Watch "wikilink") 的John
 Harris 通过应用这些条件来对一系列看起来像是Roguelike的游戏进行评分：《Linley's Dungeon Crawl
@@ -62,32 +62,32 @@ Earl](https://zh.wikipedia.org/wiki/Toe_Jam_&_Earl "wikilink")
 和《[暗黑破坏神](https://zh.wikipedia.org/wiki/暗黑破坏神 "wikilink")》,
 只得到了一半的分数。\[21\]
 
-'柏林准则中的核心元素有：'\[22\]
+柏林准则中的核心元素有：\[22\]
 
-  - '通过随机生成地牢来增强可玩性'。游戏可以包含预设的，为玩家提供交易的功能层（如[Moria](https://zh.wikipedia.org/wiki/Moria_\(video_game\) "wikilink")
+  - 「通过随机生成地牢来增强可玩性」。游戏可以包含预设的，为玩家提供交易的功能层（如[Moria](https://zh.wikipedia.org/wiki/Moria_\(video_game\) "wikilink")
     当中的城镇层），但这应当被认为时对随机性的一种削弱。\[23\]
-  - '游戏使用永久死亡机制。'角色一旦死亡，玩家必须重新开始“一轮（a
+  - 「游戏使用永久死亡机制」。角色一旦死亡，玩家必须重新开始“一轮（a
     run）”游戏，这将会使得地图被重新生成。游戏提供的存档功能应该只为游戏中途的暂停服务，而不是创建许多存档点供玩家[回档](https://zh.wikipedia.org/wiki/回档 "wikilink")。当玩家读档或死亡之后，存档应该被删除。玩家通过备份游戏数据的方式变相获取存档点的行为应该被视为作弊。《Rogue》的开发者在引入存档功能后发现玩家会通过反复读档（Save
     & Load）来获得最好的游戏结果\[24\]，于是他又引入了永久死亡机制。根据《Rogue》的开发者 Michael Toy
     所说，他们发现永久死亡机制带给玩家的并不是痛苦的游戏体验，相反，这使得玩家在做决定的时候更加慎重，因而使得游戏体验更加真实。\[25\]
-  - '游戏是回合制的'。游戏玩法基于每一步操作，玩家的操作串行执行并花费不同的游戏内时间完成（例如施法的咏唱时间等）。\[26\]
-  - '游戏不应该有过多限制（non-modal）。'这意味着玩家可以做的操作应当在游戏中的任意地点都能做出。准则的注释中表示 Angband
+  - 「游戏是回合制的」。游戏玩法基于每一步操作，玩家的操作串行执行并花费不同的游戏内时间完成（例如施法的咏唱时间等）。\[26\]
+  - 「游戏不应该有过多限制（non-modal）」。这意味着玩家可以做的操作应当在游戏中的任意地点都能做出。准则的注释中表示 Angband
     的商店打破了此规则，因为在商店中，地牢的怪物无法进入并伤害玩家，玩家也不能攻击商店店员\[27\]。
-  - '游戏应该为玩家提供完成同样方式的多种不同方法，并不同方法的复杂程度应有所不同，是为所谓的“自然的游戏体验”'。\[28\]\[29\]
+  - 「游戏应该为玩家提供完成同样方式的多种不同方法，并不同方法的复杂程度应有所不同，是为所谓的『自然的游戏体验』」。\[28\]\[29\]
     比如为了穿过一扇锁着的门，玩家可以依据自己的实际情况选择尝试撬锁、拆门、烧掉它甚至是在墙上挖个洞。
     最好的例子是游戏NetHack，他们的开发者似乎把玩家可能尝试的所有技巧都统统做进了游戏，他们的玩家常说：“开发组无所不知（The
     Dev Team Thinks of
     Everything）”。一个实例是玩家可以带着手套挥舞石化鸡蛇的尸体，将其当作石化武器把敌人变成石头，而不伤到自己。\[30\]
-  - '为了生存玩家必须妥善管理自己的资源。'\[31\]
+  - 「为了生存玩家必须妥善管理自己的资源」。\[31\]
     治疗物品或是食物等延长玩家游玩时间的物品应当限量供应，玩家应当在每次使用时都最大化其作用来尽可能延长自己的生存。[USGamer](https://zh.wikipedia.org/wiki/USGamer "wikilink")
     后来将“体力衰减”作为资源管理的另一个特性，即玩家的角色需要持续不断地进食来维持生存，否则将会被饿死。这样便可以防止玩家通过挂机或者刷低级怪物来回复自己的属性。\[32\]
-    一个早期 roguelike-like游戏 [Strange Adventures in Infinite
+    一个早期 Roguelike游戏 [Strange Adventures in Infinite
     Space](https://zh.wikipedia.org/wiki/Strange_Adventures_in_Infinite_Space "wikilink")
     的作者Rich Carlson称这一机制为“时钟”，用以给玩家创设一种探索时的紧张感。\[33\]
-  - '游戏核心内容应是“[砍杀游戏](https://zh.wikipedia.org/wiki/Hack_and_slash "wikilink")”'，其目标是尽可能多的消灭怪兽，并且不存在任何和平选项（比如不打怪绕着走）\[34\]
-  - '游戏要求玩家探索地图，寻找宝藏并杜绝背板。'魔法物品及附魔装备的属性应该在每轮游戏中都不尽相同，新物品的描述应当模糊并在每轮游戏中都有一点随机性。举例来说，一瓶冒着气泡的药水可能上一轮还是救命良药，下一次就会把你毒死。\[35\]
+  - 「游戏核心内容应是『[砍杀游戏](https://zh.wikipedia.org/wiki/Hack_and_slash "wikilink")』」，其目标是尽可能多的消灭怪兽，并且不存在任何和平选项（比如不打怪绕着走）。\[34\]
+  - 「游戏要求玩家探索地图，寻找宝藏并杜绝背板」。魔法物品及附魔装备的属性应该在每轮游戏中都不尽相同，新物品的描述应当模糊并在每轮游戏中都有一点随机性。举例来说，一瓶冒着气泡的药水可能上一轮还是救命良药，下一次就会把你毒死。\[35\]
 
-'柏林准则中的次要元素有：'\[36\]
+柏林准则中的次要元素有：\[36\]
 
   - 游戏中只控制一个角色。
   - 游戏中的怪物拥有类似玩家角色的行为，比如捡起、使用物品或施法。

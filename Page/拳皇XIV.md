@@ -3,9 +3,9 @@
 
 ## 劇情
 
-KOF作為世界級別的大型商業活動，為了追求巨大經濟效益而派出很多雜亂的大會從而招致大會質量下降,希望將其統一成唯一規範的大會的聲音越來越強烈。
+KOF作為世界級別的大型商業活動，為了追求巨大經濟效益而派出很多雜亂的大會從而招致大會品質下降,希望將其統一成唯一規範的大會的聲音越來越強烈。
 
-某个自称拥有冠軍之名的富豪，將舉辦權買下。這個男人的名字叫做安東諾夫。
+某個自稱擁有有冠軍之名的富豪，將舉辦權買下。這個男人的名字叫做安東諾夫。
 
 由自詡为初代冠軍所發布的KOF開戰宣言，掀起了全世界人們的熱情伴隨著這份狂熱，挑戰書被送到歷代格鬥家們的手上。
 
@@ -22,86 +22,86 @@ KOF作為世界級別的大型商業活動，為了追求巨大經濟效益而�
 <tbody>
 <tr class="odd">
 <td><p>日本</p></td>
-<td><p><strong>草薙 京（KYO KUSANAGI）</strong></p></td>
+<td><p><a href="../Page/草薙京.md" title="wikilink">草薙京</a>（KYO KUSANAGI）</p></td>
 </tr>
 <tr class="even">
 <td><p>龍虎</p></td>
-<td><p><strong>坂崎 獠（RYO SAKAZAKI）</strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/坂崎獠" title="wikilink">坂崎獠</a>（RYO SAKAZAKI）</p></td>
 </tr>
 <tr class="odd">
 <td><p>餓狼</p></td>
-<td><p><strong>泰利·波格（TERRY BOGARD）</strong></p></td>
+<td><p><a href="../Page/泰瑞·柏格.md" title="wikilink">泰利·波格</a>（TERRY BOGARD）</p></td>
 </tr>
 <tr class="even">
 <td><p>怒</p></td>
-<td><p><strong>拉爾夫·鐘斯（RALF JONES）</strong></p></td>
+<td><p>拉爾夫·鐘斯（RALF JONES）</p></td>
 </tr>
 <tr class="odd">
 <td><p>八神</p></td>
-<td><p><strong>八神 庵（IORI YAGAMI）</strong></p></td>
+<td><p><a href="../Page/八神庵.md" title="wikilink">八神庵</a>（IORI YAGAMI）</p></td>
 </tr>
 <tr class="even">
 <td><p>K'</p></td>
-<td><p><strong>K'（K DASH）</strong></p></td>
+<td><p>K'（K DASH）</p></td>
 </tr>
 <tr class="odd">
 <td><p>南鎮</p></td>
-<td><p><strong>傑斯·侯活（GEESE HOWARD）</strong></p></td>
+<td><p>傑斯·侯活（GEESE HOWARD）</p></td>
 </tr>
 <tr class="even">
 <td><p>女性格鬥家</p></td>
-<td><p><strong>瓊（KING）</strong>[6]</p></td>
+<td><p>瓊（KING）[6]</p></td>
 </tr>
 <tr class="odd">
 <td><p>韓國</p></td>
-<td><p><strong>金家藩（KIM KAPHWAN）</strong></p></td>
+<td><p><a href="../Page/金家藩.md" title="wikilink">金家藩</a>（KIM KAPHWAN）</p></td>
 </tr>
 <tr class="even">
 <td><p>超能力戰士</p></td>
-<td><p><strong>麻宮 雅典娜（ATHENA ASAMIYA）</strong>[7]</p></td>
+<td><p>麻宮 雅典娜（ATHENA ASAMIYA）[7]</p></td>
 </tr>
 <tr class="odd">
 <td><p>惡人</p></td>
-<td><p><strong>扎那杜（XANADU）</strong></p></td>
+<td><p>扎那杜（XANADU）</p></td>
 </tr>
 <tr class="even">
 <td><p>異世界</p></td>
-<td><p><strong>娜可露露（NAKORURU）</strong>[8]</p></td>
+<td><p><a href="../Page/娜可露露.md" title="wikilink">娜可露露</a>（NAKORURU）[8]</p></td>
 </tr>
 <tr class="odd">
 <td><p>墨西哥</p></td>
-<td><p><strong>羅門（RAMON）</strong></p></td>
+<td><p>羅門（RAMON）</p></td>
 </tr>
 <tr class="even">
 <td><p>中國</p></td>
-<td><p><strong>瞬影（SHUN'EI）</strong>[9]</p></td>
+<td><p>瞬影（SHUN'EI）[9]</p></td>
 </tr>
 <tr class="odd">
 <td><p>南美</p></td>
-<td><p><strong>尼爾森（NELSON）</strong></p></td>
+<td><p>尼爾森（NELSON）</p></td>
 </tr>
 <tr class="even">
 <td><p>官方招待</p></td>
-<td><p><strong>希爾薇·波拉·波拉（SYLVIE PAULA PAULA）</strong></p></td>
+<td><p>希爾薇·波拉·波拉（SYLVIE PAULA PAULA）</p></td>
 </tr>
 <tr class="odd">
 <td><p>BOSS</p></td>
-<td><p><strong>安東諾夫（ANTONOV）</strong></p></td>
+<td><p>安東諾夫（ANTONOV）</p></td>
 </tr>
 <tr class="even">
 <td><p>FINAL BOSS</p></td>
-<td><p><strong>威爾斯（VERSE）</strong></p></td>
+<td><p>威爾斯（VERSE）</p></td>
 </tr>
 <tr class="odd">
 <td><p>DLC</p></td>
-<td><p><strong>葳莆（WHIP）</strong><br />
-<strong>山崎 龍二（RYUJI YAMAZAKI）</strong><br />
-<strong>芭妮莎（VANESSA）</strong><br />
-<strong>洛克·侯活（ROCK HOWARD）</strong><br />
-<strong>娜吉德（NAJD）</strong>[10]<br />
-<strong>奥斯華德（OSWALD）</strong><br />
-<strong>海頓（HEIDERN）</strong><br />
-<strong>布魯·瑪莉（BLUE MARY）</strong></p></td>
+<td><p>葳莆（WHIP）<br />
+<a href="../Page/山崎龍二.md" title="wikilink">山崎龍二</a>（RYUJI YAMAZAKI）<br />
+芭妮莎（VANESSA）<br />
+洛克·侯活（ROCK HOWARD）<br />
+娜吉德（NAJD）[10]<br />
+奥斯華德（OSWALD）<br />
+海頓（HEIDERN）<br />
+布魯·瑪莉（BLUE MARY）</p></td>
 </tr>
 <tr class="even">
 <td></td>

@@ -63,7 +63,7 @@ B｣，提供5大主題，包括120呎長的戶外泳池、健身室、瑜珈室
 
 <!-- end list -->
 
-  - [98D](https://zh.wikipedia.org/wiki/九龍巴士98D線 "wikilink")（特別班次） -
+  - [98D](../Page/九龍巴士98D線.md "wikilink")（特別班次） -
 
 <!-- end list -->
 

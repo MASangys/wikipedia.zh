@@ -4,29 +4,29 @@ Star 1的後續篇。節目由2012年11月18日播放至2013年4月7日。
 
 ## 十強選手
 
-| 十強選手                                                       |
-| ---------------------------------------------------------- |
-| 名次                                                         |
-| 漢字                                                         |
-| TOP1                                                       |
-| [樂童音樂家李秀賢](https://zh.wikipedia.org/wiki/樂童音樂家 "wikilink") |
-| TOP2                                                       |
-| TOP3                                                       |
-| TOP4                                                       |
-| [兩千元](https://zh.wikipedia.org/wiki/兩千元 "wikilink") 金日道    |
-| TOP5                                                       |
-| Raccoon Boys McKay Kim                                     |
-| Raccoon Boys Brian Shin                                    |
-| TOP6                                                       |
-| TOP8                                                       |
-| YouU [全珉柱](../Page/全珉柱.md "wikilink")                      |
-| YouU [李美林](https://zh.wikipedia.org/wiki/李美林 "wikilink")   |
-| YouU [孫宥知](https://zh.wikipedia.org/wiki/孫宥知 "wikilink")   |
-| YouU                                                       |
-| TOP8                                                       |
-| TOP10                                                      |
-| TOP10                                                      |
-|                                                            |
+| 十強選手                                                                 |
+| -------------------------------------------------------------------- |
+| 名次                                                                   |
+| 漢字                                                                   |
+| TOP1                                                                 |
+| [樂童音樂家李秀賢](https://zh.wikipedia.org/wiki/樂童音樂家 "wikilink")           |
+| TOP2                                                                 |
+| TOP3                                                                 |
+| TOP4                                                                 |
+| [兩千元](https://zh.wikipedia.org/wiki/兩千元 "wikilink") 金日道              |
+| TOP5                                                                 |
+| Raccoon Boys McKay Kim                                               |
+| Raccoon Boys Brian Shin                                              |
+| TOP6                                                                 |
+| TOP8                                                                 |
+| YouU [全珉柱](../Page/全珉柱.md "wikilink")                                |
+| YouU [李美林](https://zh.wikipedia.org/wiki/李美林_\(1995年出生\) "wikilink") |
+| YouU [孫宥知](https://zh.wikipedia.org/wiki/孫宥知 "wikilink")             |
+| YouU                                                                 |
+| TOP8                                                                 |
+| TOP10                                                                |
+| TOP10                                                                |
+|                                                                      |
 
 ## 其他參賽者
 
@@ -562,7 +562,7 @@ Star 1的後續篇。節目由2012年11月18日播放至2013年4月7日。
 <tr class="even">
 <td><p>二千圓 (金日道&amp;金孝彬)</p></td>
 <td><p>金緩宣 - 삐에로는 우릴 보고 웃지 / 自作歌詞 - Because Of You<br />
-(原曲：<a href="https://zh.wikipedia.org/wiki/比爾·威瑟斯" title="wikilink">Bill Withers</a> - Just The Two Of Us)</p></td>
+(原曲：<a href="../Page/比爾·威瑟斯.md" title="wikilink">Bill Withers</a> - Just The Two Of Us)</p></td>
 <td><p>第4集, 未公開</p></td>
 <td></td>
 <td></td>
@@ -681,7 +681,7 @@ Star 1的後續篇。節目由2012年11月18日播放至2013年4月7日。
 <td><p>2</p></td>
 <td><p>二千圓</p></td>
 <td><p>金日道</p></td>
-<td><p>自作歌詞 - Because Of You (原曲 : <a href="https://zh.wikipedia.org/wiki/比爾·威瑟斯" title="wikilink">Bill Withers</a> - Just The Two Of Us)</p></td>
+<td><p>自作歌詞 - Because Of You (原曲 : <a href="../Page/比爾·威瑟斯.md" title="wikilink">Bill Withers</a> - Just The Two Of Us)</p></td>
 <td></td>
 <td><p><strong>生存</strong></p></td>
 <td></td>
@@ -1410,7 +1410,7 @@ Star 1的後續篇。節目由2012年11月18日播放至2013年4月7日。
 | 尹柱錫          | **JYP**      |                                |                                                                                                                                                             |                               |           |    |
 | 7            | \-           | 辛知勳                            | The Jackson 5 - I'll Be There                                                                                                                               | **YG**                        |           |    |
 | 林京荷          | **JYP**      |                                |                                                                                                                                                             |                               |           |    |
-| 8            | Soul Queen   | 崔藝瑾                            | [Bill Withers](https://zh.wikipedia.org/wiki/比爾·威瑟斯 "wikilink") - Ain't No Sunshine                                                                         | **YG**                        |           |    |
+| 8            | Soul Queen   | 崔藝瑾                            | [Bill Withers](../Page/比爾·威瑟斯.md "wikilink") - Ain't No Sunshine                                                                                            | **YG**                        |           |    |
 | 金東玉          | **YG**       |                                |                                                                                                                                                             |                               |           |    |
 | 李振宇          | **YG**       |                                |                                                                                                                                                             |                               |           |    |
 | ?            | ?            | 崔熙太                            | \-                                                                                                                                                          | **JYP**                       |           |    |

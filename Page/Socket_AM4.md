@@ -26,14 +26,16 @@ Ryzen，仍然使用硬釬焊（金属铟）將金屬頂蓋覆蓋處理器晶片
 採用Socket
 AM4插座的[電腦平台](https://zh.wikipedia.org/wiki/電腦 "wikilink")，只能使用[DDR4記憶體](../Page/DDR4_SDRAM.md "wikilink")，原生支援DDR4-2400記憶體規格，最高暫定支援至DDR4-3200，支援[雙通道記憶體配置](https://zh.wikipedia.org/wiki/雙通道 "wikilink")，每通道可容納兩個[DIMM記憶體模組](../Page/DIMM.md "wikilink")。同樣[主機板的主晶片佈局與Socket](https://zh.wikipedia.org/wiki/主機板 "wikilink")
 FMx平台以及現行的英特爾桌上型電腦類似，[北橋晶片被整合至處理器內](https://zh.wikipedia.org/wiki/北橋 "wikilink")，剩餘的[南橋晶片作為](https://zh.wikipedia.org/wiki/南橋 "wikilink")[FCH那樣的低速I](https://zh.wikipedia.org/wiki/AMD_FCH "wikilink")/O匯流排控制器。\[11\]不過，AMD在這一代AMD
-APU上也整合了南橋，可作為[SoC之用](https://zh.wikipedia.org/wiki/SoC "wikilink")，主機板上的FCH晶片則是作為擴充用途。\[12\]AMD
+APU上也整合了部分南僑功能（如部分[USB
+3.x](../Page/USB_3.0.md "wikilink")，部分[NVMe](https://zh.wikipedia.org/wiki/NVMe "wikilink")/[SATA](../Page/SATA.md "wikilink")）\[12\]，主機板上的FCH晶片則是作為擴充用途。\[13\]AMD
 Ryzen也使用了半SoC化設計，整合PCIe
 3.0控制器並支援[NVMe](https://zh.wikipedia.org/wiki/NVMe "wikilink")/[AHCI傳輸協定](../Page/AHCI.md "wikilink")。
 
 Socket
-AM4的處理器均內建的[PCIe控制器](https://zh.wikipedia.org/wiki/PCIe "wikilink")，最多可提供24條PCIe匯流排通道，其中4～8條可供晶片組使用，4～16條供單個或多個GPU使用，餘下的可供其它用途使用（如[M.2](../Page/M.2.md "wikilink")/[U.2](https://zh.wikipedia.org/wiki/U.2 "wikilink")、SATA控制器/[SATA
-Express連接埠或是直接作為PCIe插槽等](../Page/SATA_Express.md "wikilink")），目前支援至PCIe
-3.0規格。但是，目前由晶片組提供的PCIe通道只支援到PCIe 2.0規格\[13\]
+AM4處理器均內建的[PCIe控制器](https://zh.wikipedia.org/wiki/PCIe "wikilink")，最多可提供24條PCIe匯流排通道，其中4條供晶片組使用，16條供單個或多個GPU使用（部分內建GPU的[Ryzen](https://zh.wikipedia.org/wiki/Ryzen "wikilink")
+APU僅提供8條PCIe用於顯示卡等PCIe[擴充卡的擴充](https://zh.wikipedia.org/wiki/擴充卡 "wikilink")），餘下4條用於儲存裝置（如[NVMe](https://zh.wikipedia.org/wiki/NVMe "wikilink")/[SATA](../Page/SATA.md "wikilink")），目前支援至PCIe
+3.0規格。但是，目前由晶片組提供的PCIe通道只支援到PCIe 2.0規格\[14\]。Zen 2微架構的Ryzen 3000處理器和AMD
+X570晶片組可支援[PCI Express](../Page/PCI_Express.md "wikilink") 4.0。
 
 ## 部署使用
 
@@ -45,16 +47,16 @@ Ridge」的AMD加速處理器。這些[晶片組支援](https://zh.wikipedia.org
 3.0](https://zh.wikipedia.org/wiki/PCIe "wikilink")、[USB
 3.1](../Page/USB_3.1.md "wikilink")、[SATA
 Express](../Page/SATA_Express.md "wikilink")（支援[NVMe](../Page/NVM_Express.md "wikilink")/[AHCI邏輯界面](../Page/AHCI.md "wikilink")）等功能。AMD
-Ryzen發表時還有性能級型號X370發表，\[14\]\[15\]\[16\]\[17\]這些晶片組是AMD委託台灣祥碩科技設計而來。\[18\]主機板尺寸除了[ATX](../Page/ATX規格.md "wikilink")、[M-ATX以外](../Page/MicroATX.md "wikilink")，還有以往極其罕見的基於AMD旗艦CPU系統平台的[ITX尺寸的導入使用](https://zh.wikipedia.org/wiki/Mini-ITX "wikilink")。\[19\]
+Ryzen發表時還有性能級型號X370發表，\[15\]\[16\]\[17\]\[18\]這些晶片組是AMD委託台灣祥碩科技設計而來。\[19\]主機板尺寸除了[ATX](../Page/ATX規格.md "wikilink")、[M-ATX以外](../Page/MicroATX.md "wikilink")，還有以往極其罕見的基於AMD旗艦CPU系統平台的[ITX尺寸的導入使用](../Page/Mini-ITX.md "wikilink")。\[20\]
 
 ### 微處理器
 
 首批使用Socket
 AM4的AMD處理器是使用[Excavator微架構](https://zh.wikipedia.org/wiki/Excavator微架構 "wikilink")、核心代號「Bristol
-Ridge」的AMD APU。\[20\]這些CPU都內建了南橋的功能，但是可以同時使用主機板上的FCH晶片提供的南橋功能。\[21\]
+Ridge」的AMD APU。\[21\]這些CPU都內建了南橋的功能，但是可以同時使用主機板上的FCH晶片提供的南橋功能。\[22\]
 
   - 雙模組4執行緒型號：A12-9800、A12-9800E、A10-9700、A10-9700E、A8-9600、Athlon X4
-    950\[22\]
+    950\[23\]
   - 單模組2執行緒型號：A6-9500、A6-9500E
 
 2017年3月初美商超微發表的AMD Ryzen，是首款採用Zen微架構的處理器系列，核心代號「Summit
@@ -63,7 +65,7 @@ AM4，後續推出的核心代號為「Raven Ridge」的桌上型APU產品線、
 Ridge」改進型Ryzen系列也使用這個插槽，全爲4核心至8核心、雙通道記憶體支援、24條PCIe通道的規格。不過8核心以上配置的Ryzen
 Threadripper系列則是採用了[Socket
 TR4介面](../Page/Socket_TR4.md "wikilink")；行動型處理器Ryzen
-Mobile系列採用輕薄化的BGA封裝（即Socket FP5介面）\[23\]。
+Mobile系列採用輕薄化的BGA封裝（即Socket FP5介面）\[24\]。
 
 ## 參見
 
@@ -113,15 +115,15 @@ Mobile系列採用輕薄化的BGA封裝（即Socket FP5介面）\[23\]。
 
 11.
 
-12.
+12. <https://rog.asus.com/articles/technologies/your-guide-to-the-ryzen-am4-platform-and-its-x370-b350-and-a320-chipsets/>
 
 13.
 
 14.
 
 15.
-16.
 
+16.
 17.
 
 18.
@@ -131,6 +133,8 @@ Mobile系列採用輕薄化的BGA封裝（即Socket FP5介面）\[23\]。
 20.
 
 21.
-22. ，無內顯版本的AMD APU
 
-23.
+22.
+23. ，無內顯版本的AMD APU
+
+24.

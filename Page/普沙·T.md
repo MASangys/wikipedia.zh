@@ -96,7 +96,7 @@ R\&B/嘻哈专辑中排名第10，在Billboard最佳饶舌专辑中排名第8，
 </tr>
 <tr class="even">
 <td><p><a href="../Page/第55屆葛萊美獎.md" title="wikilink">2013</a></p></td>
-<td><p>单曲"Mercy" <small>(与<a href="https://zh.wikipedia.org/wiki/坎耶·韦斯特" title="wikilink">坎耶·韦斯特</a>、<a href="../Page/大肖恩.md" title="wikilink">大肖恩和</a><a href="https://zh.wikipedia.org/wiki/双链大师" title="wikilink">双链大师</a>)</small></p></td>
+<td><p>单曲"Mercy" <small>(与<a href="https://zh.wikipedia.org/wiki/坎耶·韦斯特" title="wikilink">坎耶·韦斯特</a>、<a href="../Page/大肖恩.md" title="wikilink">大肖恩和</a><a href="../Page/双链大师.md" title="wikilink">双链大师</a>)</small></p></td>
 <td><p>最佳说唱歌曲 (Best Rap Song)</p></td>
 <td></td>
 </tr>

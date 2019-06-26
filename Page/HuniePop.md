@@ -1,5 +1,5 @@
 《**HuniePop**》是由HuniePot開發的混入[消除與](https://zh.wikipedia.org/wiki/消除類遊戲 "wikilink")[戀愛模擬元素的](https://zh.wikipedia.org/wiki/戀愛模擬遊戲 "wikilink")[成人遊戲](../Page/成人電子遊戲.md "wikilink")，同時亦是HuniePot的首作\[1\]，在[Kickstarter募集經費成功後於](../Page/Kickstarter.md "wikilink")2015年1月19日發放在[Steam平台](../Page/Steam.md "wikilink")\[2\]\[3\]。《HuniePop》有2個不同的版本，在Steam發放的是已經審查過的版本，而另一版本則是未經審查的版本，分別在[Humble
-Bundle和](https://zh.wikipedia.org/wiki/Humble_Bundle#Humble商店 "wikilink")發放\[4\]。Steam的版本可經過[補丁看見審查過的內容](https://zh.wikipedia.org/wiki/補丁 "wikilink")。遊戲的內容為主角在戀愛仙子的幫助下變得受異性歡迎，而玩家操縱的主角則要利用戀愛仙子給自己的能力，讓遊戲中幾位女孩子愛上自己。
+Bundle和](https://zh.wikipedia.org/wiki/Humble_Bundle#Humble商店 "wikilink")[MangaGamer發放](../Page/MangaGamer.md "wikilink")\[4\]。Steam的版本可經過[補丁看見審查過的內容](https://zh.wikipedia.org/wiki/補丁 "wikilink")。遊戲的內容為主角在戀愛仙子的幫助下變得受異性歡迎，而玩家操縱的主角則要利用戀愛仙子給自己的能力，讓遊戲中幾位女孩子愛上自己。
 
 2015年2月14日，HuniePot發布了一個更新使結局變得更明確，同時也使玩家能更容易的透過詢問女孩子問題以解鎖她們的個人資料與選擇約會的日期和地點\[5\]。《HuniePop》的內容亦引起許多爭議，例如[Twitch由於](../Page/Twitch.md "wikilink")《HuniePop》的性元素過多與該遊戲的題材的關係，決定無論是已經審查的版本還是未經審查的版本，都一律把在該平台實況《HuniePop》的用戶封鎖\[6\]。
 

@@ -1,4 +1,4 @@
-**AbemaTV**是[日本一家由AbemaTV股份有限公司負責運營的互聯網電視台](../Page/日本.md "wikilink")，在[電腦端和](https://zh.wikipedia.org/wiki/電腦 "wikilink")[智慧手機端提供視頻直播服務](https://zh.wikipedia.org/wiki/智慧手機 "wikilink")。AbemaTV股份有限公司由和[朝日電視台出資組建](../Page/朝日電視台.md "wikilink")。
+**AbemaTV**是[日本一家由AbemaTV股份有限公司負責運營的互聯網電視台](../Page/日本.md "wikilink")，在[電腦端和](https://zh.wikipedia.org/wiki/電腦 "wikilink")[智慧手機端提供視頻直播服務](https://zh.wikipedia.org/wiki/智慧手機 "wikilink")。AbemaTV股份有限公司由[CyberAgent和](../Page/CyberAgent.md "wikilink")[朝日電視台出資組建](../Page/朝日電視台.md "wikilink")。
 
 ## 網站簡介
 

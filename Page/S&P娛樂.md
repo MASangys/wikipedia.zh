@@ -14,7 +14,7 @@
 
 ## 現有藝人
 
-  - [金素慧](../Page/金素慧.md "wikilink")\[7\]：[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")、[演員](https://zh.wikipedia.org/wiki/演員 "wikilink")；前[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂團體](https://zh.wikipedia.org/wiki/女子音樂團體 "wikilink")[I.O.I的成員](../Page/I.O.I.md "wikilink")。
+  - [金素慧](../Page/金素慧.md "wikilink")\[7\]：[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")、[演員](../Page/演員.md "wikilink")；前[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂團體](https://zh.wikipedia.org/wiki/女子音樂團體 "wikilink")[I.O.I的成員](../Page/I.O.I.md "wikilink")。
 
 ## 參考資料
 

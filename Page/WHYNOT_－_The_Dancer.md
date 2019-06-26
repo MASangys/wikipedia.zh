@@ -18,14 +18,14 @@ Choreography
 
 ## 成員資料
 
-| 成員列表                                                                     |
-| ------------------------------------------------------------------------ |
-| 團體                                                                       |
-| 藝名                                                                       |
-| [Super junior](https://zh.wikipedia.org/wiki/Super_junior "wikilink")    |
-| [Highlight](https://zh.wikipedia.org/wiki/Highlight_\(韓國組合\) "wikilink") |
-| [SHINee](../Page/SHINee.md "wikilink")                                   |
-| [NCT](../Page/NCT.md "wikilink")                                         |
+| 成員列表                                                                  |
+| --------------------------------------------------------------------- |
+| 團體                                                                    |
+| 藝名                                                                    |
+| [Super junior](https://zh.wikipedia.org/wiki/Super_junior "wikilink") |
+| [Highlight](../Page/Highlight_\(韓國組合\).md "wikilink")                 |
+| [SHINee](../Page/SHINee.md "wikilink")                                |
+| [NCT](../Page/NCT.md "wikilink")                                      |
 
 ## 編舞曲目
 

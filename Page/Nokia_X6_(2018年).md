@@ -1,15 +1,14 @@
 **Nokia X6**，又名-{zh-hans:Nokia 6.1 Plus; zh-hant:Nokia
-X6}-\[1\]，是一款运行[Android操作系统的诺基亚品牌中高](../Page/Android.md "wikilink")-{zh-hans:端;
-zh-hant:階}-智能手机。4GB+32GB版人民幣售价1299元，6GB+64GB版售价1699元，另外还有4GB+64GB版售价1499元。于北京时间2018年5月16日14:00在北京三里屯发布。\[2\]
+X6;}-\[1\]，是一款运行[Android操作系统的诺基亚品牌中高端智能手机](../Page/Android.md "wikilink")。4GB+32GB版人民幣售价1299元，6GB+64GB版售价1699元，另外还有4GB+64GB版售价1499元。于北京时间2018年5月16日14:00在北京三里屯发布。\[2\]
 
 ## 规格
 
 ### 硬件
 
 Nokia X6由高通骁龙636中央处理器驱动，分三种规格：4GB RAM + 32GB ROM、4GB RAM + 64GB ROM、6GB
-RAM + 64GB ROM。除了内存和存储空间外，其他硬件-{zh-hans:参数; zh-hant:規格}-没有差异。
+RAM + 64GB ROM。除了内存和存储空间外，其他硬件-{zh-hans:参数; zh-hant:規格;}-没有差异。
 
-显示面板为5.8英寸19:9FHD液晶-{zh-hans:屏; zh-hant:螢幕}-，分辨率为 2280×1080。
+显示面板为5.8英寸19:9FHD液晶-{zh-hans:屏; zh-hant:螢幕;}-，分辨率为2280×1080。
 
 后置摄像头和前置摄像头均为1600万像素。
 
@@ -17,13 +16,14 @@ RAM + 64GB ROM。除了内存和存储空间外，其他硬件-{zh-hans:参数; 
 
 中国大陆行货：CDMA BC0,GSM B5,GSM B8,GSM B3,GSM B2,TD-SCDMA B39,TD-SCDMA
 B34,WCDMA B5,WCDMA B8,WCDMA B2,WCDMA B1,FDD-LTE B1,FDD-LTE B3,TD-LTE
-B38,TD-LTE B39,TD-LTE B40,TD-LTE B41,FDD-LTE B5,FDD-LTE B8,TD-LTE B34
-\[3\]
+B38,TD-LTE B39,TD-LTE B40,TD-LTE B41,FDD-LTE B5,FDD-LTE B8,TD-LTE
+B34\[3\]
 
 ### 软件
 
-这款手机搭载了Android Oreo操作系统（[Android](../Page/Android.md "wikilink")
-8.1），并且其开发商HMD承诺Nokia X6将成为首批升级[Android
+这款手机搭载了[Android
+8.1操作系统](../Page/Android_Oreo.md "wikilink")，并且其开发商HMD承诺Nokia
+X6将成为首批升级[Android
 P的手机](https://zh.wikipedia.org/wiki/Android_P "wikilink")。\[4\]
 
 ## 发布历史
@@ -33,9 +33,8 @@ P的手机](https://zh.wikipedia.org/wiki/Android_P "wikilink")。\[4\]
 2018年4月24日，国家3C认证网站上出现了[HMD的新机](../Page/HMD_Global.md "wikilink")，型号包括TA-1099和TA-1109，支持[中国移动的TD](https://zh.wikipedia.org/wiki/中国移动 "wikilink")-LTE网络，还有一些充电信息。有媒体指，即将要发布的Nokia
 X6可能是又是一款HMD发起的NOKIA复刻版手机。TA-1109后被证实为Nokia X5。\[5\]
 
-据悉，Nokia X6并不是旗舰机，而是一款中-{zh-hans:端; zh-hant:階}-手机，有消息称，Nokia
-X6搭载5.8英寸19:9-{zh-hans:屏幕;
-zh-hant:螢幕}-，配置[骁龙636](../Page/高通驍龍.md "wikilink")、6GB内存，还有[联发科P](../Page/聯發科技.md "wikilink")60、4GB内存版，后背板或采用玻璃材质，配备竖列双摄镜头，两款机型都将搭载[Android
+据悉，Nokia X6并不是旗舰机，而是一款中端手机，有消息称，Nokia
+X6搭载5.8英寸19:9屏幕，配置[骁龙636](../Page/高通驍龍.md "wikilink")、6GB内存，还有[联发科P](../Page/聯發科技.md "wikilink")60、4GB内存版，后背板或采用玻璃材质，配备竖列双摄镜头，两款机型都将搭载[Android
 8.0
 Oreo系统](../Page/Android_Oreo.md "wikilink")。售价分别为1800元和1600元左右。不过仅过了一天（4月25日），Nokia
 X6的渲染图就流传到网上。而在当天晚上，诺基亚中国在社交平台宣布：
@@ -45,8 +44,8 @@ X6的渲染图就流传到网上。而在当天晚上，诺基亚中国在社交
 
 2018年4月27日到5月2日，诺基亚在北京举办了Nokia X6新品开箱见活动，也已经展示了Nokia X新品（或叫Nokia
 X6）手机。从网友拍摄的图片来看，Nokia X真机与此前曝光的渲染图-{zh-hans:大体一致;
-zh-hant:差不多}-，该机采用异形全屏（俗称“刘海-{zh-hans:屏;
-zh-hant:螢幕}-”），刘海比较小，下巴也比较窄，带有Nokia的logo，手机还搭载后置双摄和指纹识别，机身整体偏圆润，后壳采用玻璃材质。之后，诺基亚宣布Nokia
+zh-hant:差不多;}-，该机采用异形全屏（俗称“刘海-{zh-hans:屏;
+zh-hant:螢幕;}-”），刘海比较小，下巴也比较窄，带有Nokia的logo，手机还搭载后置双摄和指纹识别，机身整体偏圆润，后壳采用玻璃材质。之后，诺基亚宣布Nokia
 X6将在5月16日正式发布。
 
 2018年5月10日，有媒体发现诺基亚一款型号为TA-1099的新机型已经在工信部入网。从工信部入网信息来看，这款手机就是诺基亚将要发布的全屏手机Nokia
@@ -55,8 +54,8 @@ X将会配备一块分辨率为2280×1080的5.8英寸显示屏，电池容量为
 8.1系统，双1600万像素后置摄像头。
 
 2018年5月14日，网上曝光了一组Nokia X新品手机的宣传图，其中就曝光了Nokia X新品手机的-{zh-hans:参数;
-zh-hant:規格}-以及名字，甚至还有Nokia X6手机的价格，称将从人民幣1499元-{zh-hans:起步;
-zh-hant:起跳}-。
+zh-hant:規格;}-以及名字，甚至还有Nokia X6手机的价格，称将从人民幣1499元-{zh-hans:起步;
+zh-hant:起跳;}-。
 
 2018年5月16日下午，HMD在北京正式发布了Nokia
 X6手机，搭载高通骁龙636处理器，4GB+32GB存储空间版售价1299元，6GB+64GB存储空间版售价1699元，4GB+64GB存储空间版售价1499元。
@@ -66,11 +65,11 @@ X6手机，搭载高通骁龙636处理器，4GB+32GB存储空间版售价1299元
 ## 外部链接
 
   - [-{R|Nokia X6 | Nokia
-    phones}-](https://www.nokia.com/zh_int/phones/nokia-x6)
+    phones}-](https://www.nokia.com/phones/zh_int/nokia-x6)
   - [-{R|Nokia 6.1 Plus. 視界 由我主宰 | Nokia
-    phones}-](https://www.nokia.com/zh_tw/phones/nokia-6-plus)
+    phones}-](https://www.nokia.com/phones/zh_tw/nokia-6-plus)
   - [-{R|Nokia 6.1 Plus. 要更好 演繹最好 | Nokia
-    phones}-](https://www.nokia.com/zh_hk/phones/nokia-6-plus)
+    phones}-](https://www.nokia.com/phones/zh_hk/nokia-6-plus)
 
 [Category:诺基亚手机](https://zh.wikipedia.org/wiki/Category:诺基亚手机 "wikilink")
 [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink")

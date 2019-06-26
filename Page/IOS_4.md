@@ -35,7 +35,7 @@ iOS 4.2.1於2010年11月22日發布。此更新取代因為漏洞不斷而取消
 My
 iPhone功能](https://zh.wikipedia.org/wiki/Find_My_iPhone "wikilink")，也改為免費內建於裝置中\[33\]\[34\]\[35\]。由於硬體機能問題，此更新成為了iPhone
 3G及[iPod touch
-2G的最終iOS版本](https://zh.wikipedia.org/wiki/IPod_Touch_\(第二代\) "wikilink")\[36\]。發布于2011年1月11日的iOS
+2G的最終iOS版本](https://zh.wikipedia.org/wiki/IPod_touch#第二代 "wikilink")\[36\]。發布于2011年1月11日的iOS
 4.2.5则為[CDMA版本的iPhone](../Page/分碼多重進接.md "wikilink")
 4新增了[Wi-Fi熱點功能](https://zh.wikipedia.org/wiki/热点_\(Wi-Fi\) "wikilink")\[37\]\[38\]。
 
@@ -53,7 +53,7 @@ touch螢幕故障及連接電視時螢幕閃爍的問題\[52\]\[53\]，並進一
 在iOS 4中，由於資料夾功能的引入，主畫面能容納的最大程式數量從180個大幅提升至2160個\[65\]\[66\]，不過在iOS
 4中，一個資料夹最多只能放置12个应用程序\[67\]。根據容納的程式種類不同，資料夾的名稱也會隨之變化，當然也可以手動更改\[68\]。另外，還新增了自行更換主畫面[桌布的功能](https://zh.wikipedia.org/wiki/桌布 "wikilink")，不過[iPhone
 3G及](https://zh.wikipedia.org/wiki/iPhone_3G "wikilink")[第二代iPod
-touch則因為硬體效能問題而被排除在外](https://zh.wikipedia.org/wiki/IPod_touch_\(第二代\) "wikilink")\[69\]\[70\]。
+touch則因為硬體效能問題而被排除在外](https://zh.wikipedia.org/wiki/IPod_touch#第二代 "wikilink")\[69\]\[70\]。
 
 在iOS 4中，可以同时运行多个应用程序并隨時迅速切换，以讓部分应用程序在背景中運作，同時保有效能與電池續航力\[71\]。由於iOS
 4的多工處理功能尚不完善，因此只有[定位](../Page/全球定位系统.md "wikilink")、[網路電話及](../Page/网络电话交换机.md "wikilink")[音樂播放等類型的應用程式能支援多工處理](https://zh.wikipedia.org/wiki/媒体播放器 "wikilink")\[72\]\[73\]\[74\]\[75\]。同時，iOS
@@ -95,7 +95,7 @@ ID同步\[103\]\[104\]。另外，iBooks新增了對[PDF文件的支援](../Page
 ## 問題
 
 iOS 4推出後，部分iPhone 3G使用者回報，在升級至iOS
-4後，裝置效能下降、電池壽命縮減，蘋果自2010年7月開始檢視問題所在\[107\]。2010年11月，蘋果由於此問題遭到不滿的用戶控訴。該名用戶者宣稱蘋果違反了[加州消費者保護方案](https://zh.wikipedia.org/wiki/加州消費者保護方案 "wikilink")，進行不當商業宣傳，明知軟體更新會造成舊型裝置效能下降，仍宣稱無影響\[108\]\[109\]。
+4後，裝置效能下降、電池壽命縮減，蘋果自2010年7月開始檢視問題所在\[107\]。2010年11月，蘋果由於此問題遭到不滿的用戶控訴。該名用戶者宣稱蘋果違反了，進行不當商業宣傳，明知軟體更新會造成舊型裝置效能下降，仍宣稱無影響\[108\]\[109\]。
 蘋果隨後在iOS 4.1更新中解決了問題\[110\]\[111\]。
 
 此外，部分iPhone 4使用者還回報了[天線收訊不良的問題](../Page/天线.md "wikilink")\[112\]\[113\]。
@@ -104,7 +104,7 @@ iOS 4推出後，部分iPhone 3G使用者回報，在升級至iOS
 ## 支援裝置
 
 由於硬體限制，[第一代iPhone及](../Page/IPhone_\(第一代\).md "wikilink")[第一代iPod
-touch無法升級至iOS](https://zh.wikipedia.org/wiki/IPod_touch_\(第一代\) "wikilink")
+touch無法升級至iOS](https://zh.wikipedia.org/wiki/IPod_touch#第一代 "wikilink")
 4\[116\]。這是蘋果第一次終止對iOS裝置的官方支援\[117\]。
 
 ### iPhone
@@ -116,9 +116,9 @@ touch無法升級至iOS](https://zh.wikipedia.org/wiki/IPod_touch_\(第一代\) 
 ### iPod touch
 
   - [iPod touch
-    (第二代)](https://zh.wikipedia.org/wiki/iPod_touch_\(第二代\) "wikilink")
+    (第二代)](https://zh.wikipedia.org/wiki/IPod_touch#第二代 "wikilink")
   - [iPod touch
-    (第三代)](https://zh.wikipedia.org/wiki/iPod_touch_\(第三代\) "wikilink")
+    (第三代)](https://zh.wikipedia.org/wiki/IPod_touch#第三代 "wikilink")
   - [iPod touch
     (第四代)](https://zh.wikipedia.org/wiki/iPod_touch_\(第四代\) "wikilink")
 

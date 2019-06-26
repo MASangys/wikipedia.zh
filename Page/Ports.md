@@ -9,7 +9,7 @@ ports
 [Gentoo的](https://zh.wikipedia.org/wiki/Gentoo "wikilink")
 [Portage](../Page/Portage.md "wikilink")，[Archlinux](https://zh.wikipedia.org/wiki/Archlinux "wikilink")
 的 [Arch编译系统](https://zh.wikipedia.org/wiki/Arch编译系统 "wikilink")(ABS) ，
-的以及  的 Ports。
+的以及 [Void Linux](../Page/Void_Linux.md "wikilink") 的 Ports。
 
 Ports
 的主要优点是使用现有的硬件资源对软件安装的微调与优化。例如，管理员可以容易地在64位系统安装一个64位软件，而如果还没有64位软件那就会安装一个未对64位优化的32位软件。

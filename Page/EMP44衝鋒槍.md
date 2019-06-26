@@ -10,7 +10,7 @@ Werke）的首個字母“E”並更名為“EMP44”。可是，EMP44由於它�
 
 ## 概述
 
-EMP44衝鋒槍藉由[開放式槍栓射擊](https://zh.wikipedia.org/wiki/開放式槍栓 "wikilink")，[口徑為](https://zh.wikipedia.org/wiki/口徑 "wikilink")[9×19毫米魯格](../Page/9×19mm魯格彈.md "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。該槍的全長720毫米（28.35英吋），但亦有一說是取決於槍托位置、在892—950毫米（35.12—37.4英吋）之間。槍管長度為250—308毫米（9.84—12.13英吋）。[發射速率為每分鐘](https://zh.wikipedia.org/wiki/射速 "wikilink")500發，並具有可裝上兩個[MP40的可拆卸式](https://zh.wikipedia.org/wiki/MP40冲鋒枪 "wikilink")[彈匣的雙重彈匣插槽](../Page/彈匣.md "wikilink")，都裝有彈匣時等同64發。雖然瞄準具最大可調整至300公尺（328.08码，984.25英尺），其實際射程卻是150—200公尺（164.04—218.72码，492.13—656.17英尺）。
+EMP44衝鋒槍藉由[開放式槍栓射擊](../Page/開放式槍栓.md "wikilink")，[口徑為](https://zh.wikipedia.org/wiki/口徑 "wikilink")[9×19毫米魯格](../Page/9×19mm魯格彈.md "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。該槍的全長720毫米（28.35英吋），但亦有一說是取決於槍托位置、在892—950毫米（35.12—37.4英吋）之間。槍管長度為250—308毫米（9.84—12.13英吋）。[發射速率為每分鐘](https://zh.wikipedia.org/wiki/射速 "wikilink")500發，並具有可裝上兩個[MP40的可拆卸式](https://zh.wikipedia.org/wiki/MP40冲鋒枪 "wikilink")[彈匣的雙重彈匣插槽](../Page/彈匣.md "wikilink")，都裝有彈匣時等同64發。雖然瞄準具最大可調整至300公尺（328.08码，984.25英尺），其實際射程卻是150—200公尺（164.04—218.72码，492.13—656.17英尺）。
 
 該槍是由全金屬製成，但也可說是粗製濫造的拼裝物，比如槍托是由[焊接在一起的](../Page/焊接.md "wikilink")[管狀物製成](https://zh.wikipedia.org/wiki/管 "wikilink")。因為每個部分都為了易於製造而呈[直角般聯接](../Page/直角.md "wikilink")，以至它在過去的衝鋒槍之中給人如同異類的印象。這是為了回應德國政府批准的簡單武器計劃（Primitiv-Waffen-Programm）的當中要求，將其作為武器設計理念的一部分而構築的衝鋒槍，或多或少地在試圖模仿英國[斯登衝鋒槍以及](../Page/斯登衝鋒槍.md "wikilink")（在模仿的程度上較少的）[PPSh-41衝鋒槍](https://zh.wikipedia.org/wiki/PPSh-41衝鋒槍 "wikilink")。歸根究底，這種粗劣的外觀設計是導致它被德意志國防軍拒絕採用的敗筆。\[2\]
 

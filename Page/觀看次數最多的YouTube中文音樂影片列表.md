@@ -22,7 +22,7 @@
 <td><p>1</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/告白氣球" title="wikilink">告白氣球</a>[1] </p></td>
 <td><p><a href="../Page/周杰倫.md" title="wikilink">周杰倫</a></p></td>
-<td><p>189,498,586</p></td>
+<td><p>191,212,978</p></td>
 <td></td>
 <td></td>
 <td><p>觀看次數最快超過一億的華語歌手MV（289日）、觀看次數最高的華語MV、觀看次數最高的華語男歌手MV</p></td>
@@ -32,7 +32,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/光年之外" title="wikilink">光年之外</a><ref>{{Citation|last=GEM鄧紫棋</p></td>
 <td><p>title=G.E.M.【光年之外 LIGHT YEARS AWAY 】MV (電影《太空潛航者 Passengers》中文主題曲) [HD] 鄧紫棋|date=2016-12-29|url=<a href="https://www.youtube.com/watch?v=T4SimnaiktU%7Caccessdate=2017-12-13">https://www.youtube.com/watch?v=T4SimnaiktU|accessdate=2017-12-13</a>}}</ref></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/鄧紫棋" title="wikilink">鄧紫棋</a></p></td>
-<td><p>187,293,844</p></td>
+<td><p>189,737,192</p></td>
 <td><p>2016年12月29日</p></td>
 <td></td>
 </tr>
@@ -58,7 +58,7 @@
 <td><p>5</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=XKuL5xaKZHM">演員</a>[4]</p></td>
 <td><p><a href="../Page/薛之谦.md" title="wikilink">薛之謙</a></p></td>
-<td><p>154,144,169</p></td>
+<td><p>155,104,359</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -83,21 +83,21 @@
 </tr>
 <tr class="even">
 <td><p>8</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/我的歌聲裡" title="wikilink">我的歌聲裡</a>[7]</p></td>
-<td><p><a href="../Page/曲婉婷.md" title="wikilink">曲婉婷</a></p></td>
-<td><p>149,959,113</p></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/以後別做朋友" title="wikilink">以後別做朋友</a>[7]</p></td>
+<td><p><a href="../Page/周興哲.md" title="wikilink">周興哲</a></p></td>
+<td><p>150,937,012</p></td>
+<td><p>2014年9月19日</p></td>
+<td><p>1</p></td>
+<td><p>使周興哲成為MV觀看次數超過一億的最年輕華語男歌手（21歲）</p></td>
 </tr>
 <tr class="odd">
 <td><p>9</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/以後別做朋友" title="wikilink">以後別做朋友</a>[8]</p></td>
-<td><p><a href="../Page/周興哲.md" title="wikilink">周興哲</a></p></td>
-<td><p>149,590,776</p></td>
-<td><p>2014年9月19日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/我的歌聲裡" title="wikilink">我的歌聲裡</a>[8]</p></td>
+<td><p><a href="../Page/曲婉婷.md" title="wikilink">曲婉婷</a></p></td>
+<td><p>150,918,033</p></td>
 <td></td>
-<td><p>使周興哲成為MV觀看次數超過一億的最年輕華語歌手（21歲）</p></td>
+<td><p>1</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>10</p></td>
@@ -128,30 +128,30 @@
 </tr>
 <tr class="odd">
 <td><p>13</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/是什麼讓我遇見這樣的你" title="wikilink">是什麼讓我遇見這樣的你</a>[12]</p></td>
-<td><p><a href="../Page/白安.md" title="wikilink">白安</a></p></td>
-<td><p>111,252,605</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/你，好不好？" title="wikilink">你，好不好？</a>[12]</p></td>
+<td><p><a href="../Page/周興哲.md" title="wikilink">周興哲</a></p></td>
+<td><p>111,508,852</p></td>
 <td></td>
-<td></td>
-<td></td>
+<td><p>2</p></td>
+<td><p>使周興哲成為擁有兩首MV觀看次數超過一億的最年輕華語歌手（23歲）</p></td>
 </tr>
 <tr class="even">
 <td><p>14</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/修煉愛情" title="wikilink">修煉愛情</a>[13]</p></td>
-<td><p><a href="../Page/林俊杰.md" title="wikilink">林俊傑</a></p></td>
-<td><p>110,951,833</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/是什麼讓我遇見這樣的你" title="wikilink">是什麼讓我遇見這樣的你</a>[13]</p></td>
+<td><p><a href="../Page/白安.md" title="wikilink">白安</a></p></td>
+<td><p>111,504,605</p></td>
 <td></td>
+<td><p>1</p></td>
 <td></td>
-<td><p>使林俊傑成為首位擁有兩支個人MV觀看次數超過一億的華語歌手</p></td>
 </tr>
 <tr class="odd">
 <td><p>15</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/你，好不好？" title="wikilink">你，好不好？</a>[14]</p></td>
-<td><p><a href="../Page/周興哲.md" title="wikilink">周興哲</a></p></td>
-<td><p>108,907,100</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/修煉愛情" title="wikilink">修煉愛情</a>[14]</p></td>
+<td><p><a href="../Page/林俊杰.md" title="wikilink">林俊傑</a></p></td>
+<td><p>110,951,833</p></td>
 <td></td>
-<td></td>
-<td><p>使周興哲成為擁有兩首MV觀看次數超過一億的最年輕華語歌手（23歲）</p></td>
+<td><p>1</p></td>
+<td><p>使林俊傑成為首位擁有兩支個人MV觀看次數超過一億的華語歌手</p></td>
 </tr>
 <tr class="even">
 <td><p>16</p></td>
@@ -163,7 +163,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>18</p></td>
+<td><p>17</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/有點甜" title="wikilink">有點甜</a>[16]</p></td>
 <td><p><a href="../Page/汪蘇瀧.md" title="wikilink">汪蘇瀧</a> ft. <a href="https://zh.wikipedia.org/wiki/BY2" title="wikilink">By2</a></p></td>
 <td><p>104,841,069</p></td>
@@ -172,7 +172,7 @@
 <td><p>Youtube華語歌曲首次一日內三首MV破億</p></td>
 </tr>
 <tr class="even">
-<td><p>17</p></td>
+<td><p>18</p></td>
 <td><p><a href="../Page/帥到分手.md" title="wikilink">帥到分手</a>[17]</p></td>
 <td><p><a href="../Page/周湯豪.md" title="wikilink">周湯豪</a></p></td>
 <td><p>104,411,178</p></td>
@@ -209,18 +209,18 @@
 </tr>
 <tr class="even">
 <td><p>22</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/愛你_(陳芳語歌曲)" title="wikilink">愛你</a>[21]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/陳芳語" title="wikilink">陳芳語</a></p></td>
-<td><p>98,672,164</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/說散就散" title="wikilink">說散就散</a>[21]</p></td>
+<td><p><a href="../Page/陳泳彤.md" title="wikilink">陳泳彤</a></p></td>
+<td><p>100,051,591</p></td>
 <td></td>
-<td></td>
-<td></td>
+<td><p>1</p></td>
+<td><p>使陳泳彤成為MV觀看次數超過一億的最年輕華語歌手（20歲）</p></td>
 </tr>
 <tr class="odd">
 <td><p>23</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/說散就散" title="wikilink">說散就散</a>[22]</p></td>
-<td><p><a href="../Page/陳泳彤.md" title="wikilink">陳泳彤</a></p></td>
-<td><p>98,257,011</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/愛你_(陳芳語歌曲)" title="wikilink">愛你</a>[22]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳芳語" title="wikilink">陳芳語</a></p></td>
+<td><p>99,004,071</p></td>
 <td></td>
 <td><p>1</p></td>
 <td></td>
@@ -231,7 +231,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/玖壹壹" title="wikilink">玖壹壹</a></p></td>
 <td><p>97,795,238</p></td>
 <td></td>
-<td><p>1</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -490,7 +490,7 @@
 <td><p>53</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=1xlASR2bfGk">醜八怪</a>[51]</p></td>
 <td><p><a href="../Page/薛之谦.md" title="wikilink">薛之謙</a></p></td>
-<td><p>64,275,297</p></td>
+<td><p>64,607,370</p></td>
 <td></td>
 <td><p>1</p></td>
 <td></td>
@@ -616,46 +616,46 @@
 <td><p>67</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/好想你_(四葉草歌曲)" title="wikilink">好想你</a>[65]</p></td>
 <td><p><a href="../Page/朱主爱.md" title="wikilink">四葉草</a></p></td>
-<td><p>53,845,986</p></td>
+<td><p>54,103,986</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>68</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/那些你很冒險的夢" title="wikilink">那些你很冒險的夢</a><ref>{{Citation|last=JJ Lin林俊傑</p></td>
+<td><p>title=林俊傑 JJ Lin - 那些你很冒險的夢 Those Were The Days (官方完整 HD 高畫質版 MV)|date=2012-02-08|url=<a href="https://www.youtube.com/watch?v=iE0l8Tx62DE">https://www.youtube.com/watch?v=iE0l8Tx62DE</a>}}</ref></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/林俊傑" title="wikilink">林俊傑</a></p></td>
+<td><p>54,018,223</p></td>
+<td></td>
+<td><p>3</p></td>
+</tr>
+<tr class="odd">
+<td><p>69</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/魔鬼中的天使" title="wikilink">魔鬼中的天使</a>[66]</p></td>
 <td><p><a href="../Page/田馥甄.md" title="wikilink">田馥甄</a></p></td>
 <td><p>53,426,167</p></td>
 <td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>69</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/踮起腳尖愛" title="wikilink">踮起腳尖愛</a>[67]</p></td>
-<td><p><a href="../Page/洪佩瑜.md" title="wikilink">洪佩瑜</a></p></td>
-<td><p>53,425,909</p></td>
-<td></td>
-<td></td>
+<td><p>1</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>70</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/踮起腳尖愛" title="wikilink">踮起腳尖愛</a>[67]</p></td>
+<td><p><a href="../Page/洪佩瑜.md" title="wikilink">洪佩瑜</a></p></td>
+<td><p>53,425,909</p></td>
+<td></td>
+<td><p>1</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>71</p></td>
 <td><p><a href="../Page/泡沫.md" title="wikilink">泡沫</a><ref>{{Citation|last=GEM鄧紫棋</p></td>
 <td><p>title=G.E.M. - 泡沫|date=2012-10-18|url=<a href="https://www.youtube.com/watch?v=GHXr4bBxHCo&amp;index=73&amp;list=PLA9x9-eADvOoGjq1ce-FU0gpdMuq-Rk1l">https://www.youtube.com/watch?v=GHXr4bBxHCo&amp;index=73&amp;list=PLA9x9-eADvOoGjq1ce-FU0gpdMuq-Rk1l</a> }}</ref></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/鄧紫棋" title="wikilink">鄧紫棋</a></p></td>
 <td><p>52,757,364</p></td>
 <td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>71</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/那些你很冒險的夢" title="wikilink">那些你很冒險的夢</a><ref>{{Citation|last=JJ Lin林俊傑</p></td>
-<td><p>title=林俊傑 JJ Lin - 那些你很冒險的夢 Those Were The Days (官方完整 HD 高畫質版 MV)|date=2012-02-08|url=<a href="https://www.youtube.com/watch?v=iE0l8Tx62DE">https://www.youtube.com/watch?v=iE0l8Tx62DE</a>}}</ref></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/林俊傑" title="wikilink">林俊傑</a></p></td>
-<td><p>52,681,346</p></td>
-<td></td>
-<td></td>
+<td><p>1</p></td>
 </tr>
 <tr class="even">
 <td><p>72</p></td>
@@ -915,6 +915,14 @@
 <td><p>2051</p></td>
 <td><p><a href="../Page/魏如昀.md" title="wikilink">魏如昀</a></p></td>
 </tr>
+<tr class="odd">
+<td><p>22</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/說散就散" title="wikilink">說散就散</a></p></td>
+<td><p>2016年6月20日</p></td>
+<td><p>2019年6月16日</p></td>
+<td><p>1091</p></td>
+<td><p><a href="../Page/陳泳彤.md" title="wikilink">陳泳彤</a></p></td>
+</tr>
 </tbody>
 </table>
 
@@ -938,6 +946,7 @@
 | [汪蘇瀧](../Page/汪蘇瀧.md "wikilink")                    | 1    |
 | [丁噹](../Page/丁噹.md "wikilink")                      | 1    |
 | [魏如昀](../Page/魏如昀.md "wikilink")                    | 1    |
+| [陳泳彤](../Page/陳泳彤.md "wikilink")                    | 1    |
 
 ## 参见
 

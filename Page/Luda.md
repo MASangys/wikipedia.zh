@@ -169,6 +169,7 @@
 | 2018年10月21日       | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")   | [喜劇大聯盟](../Page/喜劇大聯盟.md "wikilink")                    | 特別MC             |
 | 2018年10月30日及11月6日 | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink") | [1 VS 100](../Page/1_VS_100.md "wikilink")              | 与恩熙、多榮共同出演       |
 | 2019年1月12日        | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")   | [驚人的週六](https://zh.wikipedia.org/wiki/驚人的週六 "wikilink") | 与多榮共同出演          |
+| 2019年6月15日        | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")   | [驚人的週六](https://zh.wikipedia.org/wiki/驚人的週六 "wikilink") |                  |
 |                   |                                                       |                                                         |                  |
 
 ### 网络直播

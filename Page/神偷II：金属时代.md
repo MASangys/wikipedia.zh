@@ -3,7 +3,7 @@ Interactive發行](https://zh.wikipedia.org/wiki/Eidos_Interactive "wikilink")�
 
 遊戲設計以前作為基礎，回應了玩家對前作的意見反饋，改以市區潛行為核心，同時減少使用怪物敵人和迷宮關卡。遊戲於1999年[E3遊戲展公佈](../Page/E3电子娱乐展.md "wikilink")，作為望遠鏡工作室與Edios之間發行神偷系列遊戲合約的延續。工作室在遊戲開發時已面臨破產，以Eidos預付資金繼續營運。
 
-遊戲獲正面評價，初期銷情勝於前作，但工作室財政狀況因遲遲未獲遊戲專利費而雪上加霜，最終在2000年5月關閉，續作《神偷III》開發計劃亦被取消。系列第三作《》交由[離子風暴工作室開發](https://zh.wikipedia.org/wiki/離子風暴 "wikilink")，由Eidos於2004年發行。
+遊戲獲正面評價，初期銷情勝於前作，但望遠鏡工作室財政狀況因遲遲未獲遊戲專利費而雪上加霜，最終在2000年5月關閉，續作《神偷III》開發計劃亦被取消。系列第三作《》交由[離子風暴工作室開發](https://zh.wikipedia.org/wiki/離子風暴 "wikilink")，由Eidos於2004年發行。
 
 ## 遊戲操作
 
@@ -79,7 +79,7 @@ LeBlanc）其後表示有感遊戲製作倉促而影響了質素，但團隊仍�
 L.
 McDonald）表示遊戲內一切比前作更大、更清晰、更好和更有效能，劇情良好，關卡宏大精細，當中的建築物複雜和美觀，但認為圖像缺乏生氣，總結遊戲是各玩家的一款獨特遊\[163\]；《[PC
 Gamer
-US](https://zh.wikipedia.org/wiki/PC_Gamer_US "wikilink")》成員占姆·布里斯頓（Jim
+US](https://zh.wikipedia.org/wiki/PC_Gamer_US "wikilink")》成員吉姆·布里斯頓（Jim
 Preston）認為遊戲比前作更完善和更有目標，亦對遊戲刪除不死生物戰鬥予以讚揚，但對圖像作出批評，總結遊戲是一大佳作\[164\]。
 
 《》成員傑森·托雷斯（Jasen

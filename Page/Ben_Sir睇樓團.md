@@ -1,9 +1,9 @@
 《**Ben
-Sir睇樓團**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司的住宅資訊節目](../Page/電視廣播有限公司.md "wikilink")，共3輯，分別有10集，由[歐陽偉豪](../Page/歐陽偉豪.md "wikilink")、[麥美恩](../Page/麥美恩.md "wikilink")、[林穎彤](../Page/林穎彤.md "wikilink")、[陸浩明](../Page/陸浩明.md "wikilink")、[季蘋蘋](../Page/季蘋蘋.md "wikilink")、[吳業坤](../Page/吳業坤.md "wikilink")（第二輯）擔任主持。第一輯於[香港時間](../Page/香港時間.md "wikilink")2017年10月2日起，逢星期一至五22:30－23:00在[翡翠台](../Page/翡翠台.md "wikilink")、[myTV
+Sir睇樓團**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司的住宅資訊節目](../Page/電視廣播有限公司.md "wikilink")，共3輯，分別有10集，由[歐陽偉豪](../Page/歐陽偉豪.md "wikilink")、[麥美恩](../Page/麥美恩.md "wikilink")、[陸浩明](../Page/陸浩明.md "wikilink")、[林穎彤](../Page/林穎彤.md "wikilink")（第一、二輯）、[季蘋蘋](../Page/季蘋蘋.md "wikilink")（第一、二輯）、[吳業坤](../Page/吳業坤.md "wikilink")（第二輯）及[余思霆](../Page/余思霆.md "wikilink")（第三輯）擔任主持。第一輯於[香港時間](../Page/香港時間.md "wikilink")2017年10月2日起，逢星期一至五22:30－23:00在[翡翠台](../Page/翡翠台.md "wikilink")、[myTV
 SUPER播出](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")，並於[myTV
 SUPER提供節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（集數上傳7天後會刪除）。\[1\]\[2\]第二輯於[香港時間](../Page/香港時間.md "wikilink")2018年6月18日起，逢星期一至五22:30－23:00在[翡翠台](../Page/翡翠台.md "wikilink")、[myTV
 SUPER播出](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")，並於[myTV
-SUPER提供節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（集數上傳7天後會刪除）。[TVB
+SUPER提供節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（集數上傳7天後會刪除）。第二至三輯為[TVB
 Amazing Summer推介綜藝節目之一](../Page/TVB_Amazing_Summer.md "wikilink")。
 
 ## 每集內容
@@ -16,7 +16,7 @@ Amazing Summer推介綜藝節目之一](../Page/TVB_Amazing_Summer.md "wikilink"
 | 2017年  |                                        |              |                                                                                                              |
 | 01     | [10月2日](../Page/10月2日.md "wikilink")   | 尋找單身筍盤       | [洪永城](../Page/洪永城.md "wikilink")                                                                             |
 | 02     | [10月4日](../Page/10月4日.md "wikilink")   | 「納米價」泰國豪宅    | [張頴康](../Page/張頴康.md "wikilink")                                                                             |
-| 03     | [10月5日](../Page/10月5日.md "wikilink")   | 搜尋「上車盤」      | [朱智賢](https://zh.wikipedia.org/wiki/朱智賢 "wikilink")                                                          |
+| 03     | [10月5日](../Page/10月5日.md "wikilink")   | 搜尋「上車盤」      | [朱智賢](../Page/朱智賢.md "wikilink")                                                                             |
 | 04     | [10月6日](../Page/10月6日.md "wikilink")   | 搜羅城中「首置細價樓」  | [張振朗](../Page/張振朗.md "wikilink")                                                                             |
 | 05     | [10月9日](../Page/10月9日.md "wikilink")   | 千呎物業此中尋      | [敖嘉年](../Page/敖嘉年.md "wikilink")                                                                             |
 | 06     | [10月10日](../Page/10月10日.md "wikilink") | 「姑婆屋」有着落     | [張秀文](../Page/張秀文.md "wikilink")                                                                             |

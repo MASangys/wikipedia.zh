@@ -27,7 +27,7 @@ An等人主持](https://zh.wikipedia.org/wiki/安勝浩 "wikilink")\[2\]，節�
 <tr class="odd">
 <td><p><a href="../Page/申東燁.md" title="wikilink">申東燁</a></p></td>
 <td><p>신동엽</p></td>
-<td><p><a href="../Page/喜劇演員.md" title="wikilink">喜劇演員</a>、<a href="https://zh.wikipedia.org/wiki/主持人" title="wikilink">主持人</a>、<a href="https://zh.wikipedia.org/wiki/演員" title="wikilink">演員</a></p></td>
+<td><p><a href="../Page/喜劇演員.md" title="wikilink">喜劇演員</a>、<a href="https://zh.wikipedia.org/wiki/主持人" title="wikilink">主持人</a>、<a href="../Page/演員.md" title="wikilink">演員</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -112,7 +112,7 @@ An等人主持](https://zh.wikipedia.org/wiki/安勝浩 "wikilink")\[2\]，節�
 <tr class="even">
 <td><p><a href="../Page/洪秀兒.md" title="wikilink">洪秀兒</a></p></td>
 <td><p>홍수아</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/演員" title="wikilink">演員</a></p></td>
+<td><p><a href="../Page/演員.md" title="wikilink">演員</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>

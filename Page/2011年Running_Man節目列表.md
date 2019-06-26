@@ -487,7 +487,7 @@ Nichkhun、澤演<br />
 <td><p>無嘉賓</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS炭峴製作中心</a><br />
 <small>(<a href="../Page/京畿道.md" title="wikilink">京畿道</a> <a href="../Page/高陽市.md" title="wikilink">高陽市</a><br />
-<a href="https://zh.wikipedia.org/wiki/一山西區" title="wikilink">一山西區</a>)</small></p></td>
+<a href="../Page/一山西區.md" title="wikilink">一山西區</a>)</small></p></td>
 <td><p><span style=font-size:110%><strong>最強者戰</strong></span><br />
 <strong>個人戰</strong><br />
 沒有隊伍</p></td>
@@ -911,7 +911,7 @@ Gary<br />
 (<a href="https://zh.wikipedia.org/wiki/少女時代" title="wikilink">少女時代</a>)</p></td>
 <td><p><a href="http://gym.gys.or.kr/">高陽體育館</a><br />
 <small>(<a href="../Page/京畿道.md" title="wikilink">京畿道</a> <a href="../Page/高陽市.md" title="wikilink">高陽市</a><br />
-<a href="https://zh.wikipedia.org/wiki/一山西區" title="wikilink">一山西區</a>)</small></p></td>
+<a href="../Page/一山西區.md" title="wikilink">一山西區</a>)</small></p></td>
 <td><p><span style=font-size:110%><strong>夥伴特輯(二)(上)－ 雙雙競賽</strong></span><br />
 <span style=color:#008000><strong>綠隊</strong></span>：劉在錫、潤娥 及 李光洙、俞利<br />
 <span style=color:#FF1493><strong>粉隊</strong></span>：池錫辰、孝淵 及 Gary、Jessica<br />
@@ -1151,7 +1151,7 @@ Gary、宋智孝、朴哲民<br />
 <td><p>無嘉賓</p></td>
 <td><p><a href="http://www.kintex.com/client/_chi/index.jsp">KINTEX</a><br />
 <small>(<a href="../Page/京畿道.md" title="wikilink">京畿道</a> <a href="../Page/高陽市.md" title="wikilink">高陽市</a><br />
-<a href="https://zh.wikipedia.org/wiki/一山西區" title="wikilink">一山西區</a>)</small></p></td>
+<a href="../Page/一山西區.md" title="wikilink">一山西區</a>)</small></p></td>
 <td><p><span style=font-size:110%><strong>第二代最強者戰 － 超能力者</strong></span><br />
 <strong>個人戰</strong><br />
 沒有隊伍</p></td>

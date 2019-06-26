@@ -1,4 +1,4 @@
-**本杰明·-{zh-hk:祖瑟夫;zh-cn:约瑟夫;zh-tw:約瑟夫;}-·馬納利·諾瓦克**（，），美國[演員](https://zh.wikipedia.org/wiki/演員 "wikilink")、[獨角喜劇演員](../Page/棟篤笑.md "wikilink")、[編劇](../Page/編劇.md "wikilink")、[作家](https://zh.wikipedia.org/wiki/作者 "wikilink")、。在美國電視劇《[辦公室瘋雲](../Page/辦公室_\(美國電視劇\).md "wikilink")》擔任編劇與[執行製作](https://zh.wikipedia.org/wiki/執行製作 "wikilink")，並且在其中擔綱演出一角，是使其為人所知的原因。
+**本杰明·-{zh-hk:祖瑟夫;zh-cn:约瑟夫;zh-tw:約瑟夫;}-·馬納利·諾瓦克**（，），美國[演員](../Page/演員.md "wikilink")、[獨角喜劇演員](../Page/棟篤笑.md "wikilink")、[編劇](../Page/編劇.md "wikilink")、[作家](https://zh.wikipedia.org/wiki/作者 "wikilink")、。在美國電視劇《[辦公室瘋雲](../Page/辦公室_\(美國電視劇\).md "wikilink")》擔任編劇與[執行製作](https://zh.wikipedia.org/wiki/執行製作 "wikilink")，並且在其中擔綱演出一角，是使其為人所知的原因。
 
 ## 私人生活
 

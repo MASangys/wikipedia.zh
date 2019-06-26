@@ -134,7 +134,7 @@ Image:Truck taxi in Lopburi
 
 1977年開始外銷出口ST80型，和[第一代鈴木Jimny
 LJ80/LJ81一樣搭載](https://zh.wikipedia.org/wiki/鈴木Jimny#SJ20型Jimny_8 "wikilink")[排氣量較大的](https://zh.wikipedia.org/wiki/排氣量 "wikilink")797c.c.直列四缸SOHC
-[F8A型引擎](https://zh.wikipedia.org/wiki/鈴木F族引擎#F8A型（SOHC） "wikilink")，而這具引擎是原廠第一具[四衝程引擎](https://zh.wikipedia.org/wiki/四冲程循环 "wikilink")。1982年起印尼市場推出ST100型，換成970c.c.直列四缸SOHC
+[F8A型引擎](https://zh.wikipedia.org/wiki/鈴木F族引擎#F8A型（SOHC） "wikilink")，而這具引擎是原廠第一具[四衝程引擎](../Page/四冲程循环.md "wikilink")。1982年起印尼市場推出ST100型，換成970c.c.直列四缸SOHC
 [F10A型引擎](https://zh.wikipedia.org/wiki/鈴木F族引擎#F10A型（SOHC） "wikilink")，最大馬力45hp
 / 5,500rpm，扭力峰值7.5kg·m / 3,000rpm。
 

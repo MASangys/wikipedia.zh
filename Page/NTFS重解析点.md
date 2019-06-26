@@ -109,9 +109,9 @@ NSS原是[ActiveX文档存储技术](../Page/ActiveX.md "wikilink")，它已被�
 data）的默认文件夹位置发生变化。例如，在Windows
 XP中存放用户数据的文件为%SystemDrive%\\Documents and
 Settings；在Windows 7中则为%SystemDriver%\\User。这样的变化无疑对以前应用程序能否在Windows
-7下顺利带来兼容性问题。为了最大程度地保证对以前在Windows XP运行程序的兼容性，在Windows 7中采用了junction
-points（连接点）技术。通过这个技术，原来在xp下运行的程序对%SystemDrive%\\Documents and
-Settings文件夹下的数据存取操作，能自动的更改到%SystemDriver%\\User文件夹。
+7下顺利运行带来兼容性问题。为了最大程度地保证对以前在Windows XP运行的程序的兼容性，在Windows 7中采用了junction
+points（连接点）技术。通过这个技术，原来在Windows XP下运行的程序对%SystemDrive%\\Documents and
+Settings文件夹下的数据存取操作，能自动地更改到%SystemDriver%\\User文件夹。
 
 | xp、windows2003中的路径                                                           | win7、windows2008中的路径                                              |
 | ---------------------------------------------------------------------------- | ----------------------------------------------------------------- |

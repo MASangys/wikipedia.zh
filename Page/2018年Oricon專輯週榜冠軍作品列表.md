@@ -315,7 +315,7 @@
 </tr>
 <tr class="even">
 <td><p>9月17日</p></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Love_Yourself_結_&#39;Answer&#39;" title="wikilink">Love Yourself 結 'Answer'</a></p></td>
 <td><p>防彈少年團</p></td>
 <td><p>合輯</p></td>
 <td><p>14.0</p></td>

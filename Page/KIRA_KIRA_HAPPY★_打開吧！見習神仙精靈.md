@@ -216,7 +216,7 @@
 <td><p>6</p></td>
 <td></td>
 <td><p>嚯嚯 丸目到來是也!</p></td>
-<td><p>土屋理啟</p></td>
+<td><p>土屋理敬</p></td>
 <td><p>樫山聡之<br />
 <a href="https://zh.wikipedia.org/wiki/永島昭子" title="wikilink">永島昭子</a></p></td>
 <td><p>樫山聡之</p></td>
@@ -593,7 +593,7 @@
 <td><p>28</p></td>
 <td></td>
 <td><p>快樂神仙精靈 盖喬姆P</p></td>
-<td><p>土屋理啟</p></td>
+<td><p>土屋理敬</p></td>
 <td><p>西田健一</p></td>
 <td><p>桑原麻衣<br />
 志村隆行</p></td>
@@ -629,7 +629,7 @@
 <td><p>31</p></td>
 <td></td>
 <td><p>神秘之蛋來了!</p></td>
-<td><p>土屋理啟</p></td>
+<td><p>土屋理敬</p></td>
 <td><p>西田健一</p></td>
 <td><p>河野仁美<br />
 土信田和幸</p></td>
@@ -713,7 +713,7 @@
 <td><p>36</p></td>
 <td></td>
 <td><p>神仙精靈小鎮的秘密</p></td>
-<td><p>土屋理啟</p></td>
+<td><p>土屋理敬</p></td>
 <td><p>大庭秀昭</p></td>
 <td><p>土信田和幸<br />
 河野仁美<br />
@@ -758,7 +758,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>茶子與嘮叨的爺爺&lt;!--</p></td>
+<td><p>茶子與嘮叨的爺爺</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -770,17 +770,80 @@
 <tr class="even">
 <td><p>39</p></td>
 <td></td>
-<td><p>困擾神仙精靈們的 大恐慌</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>困擾神仙精靈 大恐慌</p></td>
+<td><p>山口宏</p></td>
+<td><p>秋山朋子</p></td>
+<td><p>山井紗也香</p></td>
+<td><p>平良哲朗<br />
+佐藤陵<br />
+奥田聖美</p></td>
+<td><p>東海林康和</p></td>
 <td><p>2019年6月6日</p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>閃耀!偶像神仙精靈 瑪伊 --&gt;</p></td>
+<td><p>閃耀!偶像神仙精靈 瑪伊</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>40</p></td>
+<td></td>
+<td><p>偶像模式 噢!</p></td>
+<td><p>赤尾凸</p></td>
+<td><p>增田敏彥</p></td>
+<td><p>増田敏彦<br />
+<a href="https://zh.wikipedia.org/wiki/柿椿滲美" title="wikilink">柿椿滲美</a><br />
+桑原麻衣<br />
+山縣亞紀<br />
+土信田和幸</p></td>
+<td><p>大野美葉<br />
+大河しのぶ</p></td>
+<td><p>2019年6月13日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>{{lang|ja|めざせ!宇宙</p></td>
+<td><p>}}</p></td>
+<td><p>目標!宇宙</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>41</p></td>
+<td></td>
+<td><p>妮姬來了!</p></td>
+<td><p>土屋理敬</p></td>
+<td><p>樫山聡之<br />
+永島昭子</p></td>
+<td><p>樫山聡之</p></td>
+<td><p>永島昭子</p></td>
+<td><p>東海林康和</p></td>
+<td><p>2019年6月20日&lt;!--</p></td>
+</tr>
+<tr class="odd">
+<td><p>42</p></td>
+<td></td>
+<td><p>妮姬的忍者修行</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>2019年6月27日</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>同心協力!烹飪課 --&gt;</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -796,10 +859,10 @@
 
 ### CD
 
-| 標題                                 | 收錄話数    | 發售日       |
-| ---------------------------------- | ------- | --------- |
-| キラキラハッピー★ ひらけ\! ここたま DVD BOX vol.1 | 第1－16話  | 2019/5/29 |
-| キラキラハッピー★ ひらけ\! ここたま DVD BOX vol.2 | 第17－32話 | 2019/8/23 |
+| 標題                                      | 收錄話数    | 發售日       |
+| --------------------------------------- | ------- | --------- |
+| キラキラハッピー★ ひらけ\! ここたま DVD BOX vol.1\[1\] | 第1－16話  | 2019/5/29 |
+| キラキラハッピー★ ひらけ\! ここたま DVD BOX vol.2\[2\] | 第17－32話 | 2019/8/23 |
 
 ### DVD
 
@@ -814,7 +877,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>キラキラハッピー★ ひらけ！ここたま　レンタル第1巻</p></td>
+<td><p>[3]</p></td>
 <td><p>第1－4話</p></td>
 <td><p>2019/1/9</p></td>
 <td><p>星之川遙<br />
@@ -823,7 +886,7 @@
 茶子</p></td>
 </tr>
 <tr class="even">
-<td><p>キラキラハッピー★ ひらけ！ここたま　レンタル第2巻</p></td>
+<td></td>
 <td><p>第5－8話</p></td>
 <td><p>2019/2/6</p></td>
 <td><p>緞緞<br />
@@ -832,7 +895,7 @@
 露比</p></td>
 </tr>
 <tr class="odd">
-<td><p>キラキラハッピー★ ひらけ！ここたま　レンタル第3巻</p></td>
+<td></td>
 <td><p>第9－12話</p></td>
 <td><p>2019/3/6</p></td>
 <td><p>緞緞<br />
@@ -841,7 +904,7 @@
 潘托尼奧</p></td>
 </tr>
 <tr class="even">
-<td><p>キラキラハッピー★ ひらけ！ここたま　レンタル第4巻</p></td>
+<td></td>
 <td><p>第13－16話</p></td>
 <td><p>2019/4/3</p></td>
 <td><p>緞緞<br />
@@ -850,7 +913,7 @@
 丸目</p></td>
 </tr>
 <tr class="odd">
-<td><p>キラキラハッピー★ ひらけ！ここたま　レンタル第5巻</p></td>
+<td></td>
 <td><p>第17－20話</p></td>
 <td><p>2019/5/8</p></td>
 <td><p>緞緞<br />
@@ -858,22 +921,46 @@
 茨茨·米米·琪琪</p></td>
 </tr>
 <tr class="even">
-<td><p>キラキラハッピー★ ひらけ！ここたま　レンタル第6巻</p></td>
+<td></td>
 <td><p>第21－24話</p></td>
-<td><p>2019/5/8</p></td>
 <td><p>緞緞<br />
 皮洛<br />
 多庫多庫塔<br />
 娜秋</p></td>
+<td></td>
 </tr>
 <tr class="odd">
-<td><p>キラキラハッピー★ ひらけ！ここたま　レンタル第7巻</p></td>
+<td></td>
 <td><p>第25－28話</p></td>
 <td><p>2019/6/5</p></td>
 <td><p>櫻鎮保護隊五人組</p></td>
 </tr>
+<tr class="even">
+<td></td>
+<td><p>第29－32話</p></td>
+<td><p>2019/7/3</p></td>
+<td><p>緞緞<br />
+皮洛<br />
+茶子<br />
+蓋喬姆</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>第33－36話</p></td>
+<td><p>2019/8/2</p></td>
+<td><p>緞緞<br />
+茶子<br />
+露比<br />
+雨莉</p></td>
+</tr>
 </tbody>
 </table>
+
+  - DVD相關連結
+
+<!-- end list -->
+
+  - CD相關連結
 
 ## 註解
 
@@ -896,3 +983,7 @@
 [Category:2010年代玩具](https://zh.wikipedia.org/wiki/Category:2010年代玩具 "wikilink")
 [Category:小學背景動畫](https://zh.wikipedia.org/wiki/Category:小學背景動畫 "wikilink")
 [Category:奇幻動畫](https://zh.wikipedia.org/wiki/Category:奇幻動畫 "wikilink")
+
+1.  [1](https://coco-tama.com/hirake/goods/cd/details.php?detail=item15)
+2.  [2](https://coco-tama.com/hirake/goods/cd/details.php?detail=item20)
+3.  [3](https://coco-tama.com/hirake/goods/cd/details.php?detail=item9)

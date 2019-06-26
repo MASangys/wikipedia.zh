@@ -18,8 +18,8 @@ Mobile收购，该公司同時也負責制造及分销HMD产品。\[12\]HMD和FI
 
 微软移动业务对HMD和FIH
 Mobile的出售于2016年12月1日完成，新的诺基亚设备预计将于2017年发布。\[14\]随后，HMD展示了一个新的标志和口号⸺“诺基亚手机之家”，而诺基亚网站也再次列出手機设备出售。\[15\]HMD預算會在未来三年花费達5亿美元支持新产品的营销。该公司出品的首款设备[Nokia
-150于](https://zh.wikipedia.org/wiki/Nokia_150 "wikilink")2016年12月发布，而出品的首款Android智能手机[Nokia
-6于](https://zh.wikipedia.org/wiki/Nokia_6 "wikilink")2017年1月8日在[CES发布](https://zh.wikipedia.org/wiki/CES "wikilink")，专为[中国市场研发](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")\[16\]。
+150于](../Page/Nokia_150.md "wikilink")2016年12月发布，而出品的首款Android智能手机[Nokia
+6于](../Page/Nokia_6.md "wikilink")2017年1月8日在[CES发布](https://zh.wikipedia.org/wiki/CES "wikilink")，专为[中国市场研发](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")\[16\]。
 
 ## 运营
 
@@ -47,34 +47,29 @@ Global有限公司最初于2015年11月9日成立。\[23\]
 [HMD
 Global以](../Page/HMD_Global.md "wikilink")“Nokia”的品牌製造設備。该公司与Nokia签署了一项协议，允许在其设备上使用Nokia品牌。
 
-\-{zh-hans:[安卓](https://zh.wikipedia.org/wiki/安卓 "wikilink");
-zh-hant:[Android](../Page/Android.md "wikilink")}-手机：
+[Android手机](../Page/Android.md "wikilink")：
 
   - Nokia 9系列：[Nokia 9 PureView](../Page/Nokia_9_PureView.md "wikilink")
-  - Nokia 8系列：[Nokia
-    8](https://zh.wikipedia.org/wiki/Nokia_8 "wikilink")、[Nokia 8
-    Sirocco](https://zh.wikipedia.org/wiki/Nokia_8_Sirocco "wikilink")、-{zh-hans:[Nokia
+  - Nokia 8系列：[Nokia 8](../Page/Nokia_8.md "wikilink")、[Nokia 8
+    Sirocco](../Page/Nokia_8_Sirocco.md "wikilink")、-{zh-hans:[Nokia
     X7](https://zh.wikipedia.org/wiki/Nokia_X7 "wikilink");
     zh-hant:[Nokia
-    8.1](https://zh.wikipedia.org/wiki/Nokia_8.1 "wikilink")}-
-  - Nokia 7系列：[Nokia
-    7](https://zh.wikipedia.org/wiki/Nokia_7 "wikilink")、[Nokia 7
-    Plus](https://zh.wikipedia.org/wiki/Nokia_7_Plus "wikilink")、[Nokia
+    8.1](https://zh.wikipedia.org/wiki/Nokia_8.1 "wikilink");}-
+  - Nokia 7系列：[Nokia 7](../Page/Nokia_7.md "wikilink")、[Nokia 7
+    Plus](../Page/Nokia_7_Plus.md "wikilink")、[Nokia
     7.1](https://zh.wikipedia.org/wiki/Nokia_7.1 "wikilink")
-  - Nokia 6系列：[Nokia
-    6](https://zh.wikipedia.org/wiki/Nokia_6 "wikilink")、-{zh-hans:[Nokia
+  - Nokia 6系列：[Nokia 6](../Page/Nokia_6.md "wikilink")、-{zh-hans:[Nokia
     6 第二代](https://zh.wikipedia.org/wiki/Nokia_6_第二代 "wikilink");
     zh-hant:[Nokia
-    6.1](https://zh.wikipedia.org/wiki/Nokia_6.1 "wikilink")}-、-{zh-hans:[Nokia
-    X6](https://zh.wikipedia.org/wiki/Nokia_X6 "wikilink");
-    zh-hant:[Nokia 6.1
-    Plus](https://zh.wikipedia.org/wiki/Nokia_6.1_Plus "wikilink")}-
+    6.1](../Page/Nokia_6.1.md "wikilink");}-、-{zh-hans:[Nokia
+    X6](../Page/Nokia_X6_\(2018年\).md "wikilink"); zh-hant:[Nokia 6.1
+    Plus](https://zh.wikipedia.org/wiki/Nokia_6.1_Plus "wikilink");}-
   - Nokia 5系列：[Nokia
     5](https://zh.wikipedia.org/wiki/Nokia_5 "wikilink")、[Nokia
     5.1](../Page/Nokia_5.1.md "wikilink")、-{zh-hans:[Nokia
-    X5](https://zh.wikipedia.org/wiki/Nokia_X5 "wikilink");
+    X5](https://zh.wikipedia.org/wiki/Nokia_X5_\(2018年\) "wikilink");
     zh-hant:[Nokia 5.1
-    Plus](https://zh.wikipedia.org/wiki/Nokia_5.1_Plus "wikilink")}-
+    Plus](https://zh.wikipedia.org/wiki/Nokia_5.1_Plus "wikilink");}-
   - Nokia 4系列：[Nokia
     4.2](https://zh.wikipedia.org/wiki/Nokia_4.2 "wikilink")
   - Nokia 3系列：[Nokia
@@ -90,15 +85,12 @@ zh-hant:[Android](../Page/Android.md "wikilink")}-手机：
 [经典手机](https://zh.wikipedia.org/wiki/功能手机 "wikilink")：
 
   - [Nokia 210](https://zh.wikipedia.org/wiki/Nokia_210 "wikilink")
-  - [Nokia 8110
-    4G](https://zh.wikipedia.org/wiki/Nokia_8110_4G "wikilink")
-  - [Nokia
-    3310](https://zh.wikipedia.org/wiki/Nokia_3310_\(2017年\) "wikilink")
+  - [Nokia 8110 4G](../Page/Nokia_8110_4G.md "wikilink")
+  - [Nokia 3310](../Page/Nokia_3310_\(2017年\).md "wikilink")
   - [Nokia 106](https://zh.wikipedia.org/wiki/Nokia_106 "wikilink")
-  - [Nokia 130](https://zh.wikipedia.org/wiki/Nokia_130 "wikilink")
-  - [Nokia
-    105](https://zh.wikipedia.org/wiki/Nokia_105_\(2017年\) "wikilink")
-  - [Nokia 150](https://zh.wikipedia.org/wiki/Nokia_150 "wikilink")
+  - [Nokia 130](../Page/Nokia_130.md "wikilink")
+  - [Nokia 105](../Page/Nokia_105_\(2017年\).md "wikilink")
+  - [Nokia 150](../Page/Nokia_150.md "wikilink")
 
 ## 参见
 

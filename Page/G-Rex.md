@@ -110,22 +110,6 @@ Gaming（RG）隊員組成，創下台港澳英雄聯盟頂級聯賽開季五連
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Candy</p></td>
-<td><p>김승주</p></td>
-<td><p>Mid</p></td>
-<td></td>
-<td><p>1996年1月4日</p></td>
-<td><p>於2018/3/6重新登錄</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>Bruce</p></td>
 <td><p>邱致鈞</p></td>
 <td><p>AD Carry</p></td>

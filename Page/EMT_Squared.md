@@ -81,6 +81,11 @@ Squared**（，）是[日本的](../Page/日本.md "wikilink")[動畫製作公�
 <td></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>2019年</p></td>
+<td><p><a href="../Page/刺客守則.md" title="wikilink">刺客守則</a></p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

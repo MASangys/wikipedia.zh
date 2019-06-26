@@ -367,7 +367,7 @@ Mall」舉行\[11\]。
 [Category:AKB48家族](https://zh.wikipedia.org/wiki/Category:AKB48家族 "wikilink")
 [Category:越南女子演唱團體](https://zh.wikipedia.org/wiki/Category:越南女子演唱團體 "wikilink")
 [Category:秋元康](https://zh.wikipedia.org/wiki/Category:秋元康 "wikilink")
-[Category:胡志明市](https://zh.wikipedia.org/wiki/Category:胡志明市 "wikilink")
+[Category:胡志明市文化](https://zh.wikipedia.org/wiki/Category:胡志明市文化 "wikilink")
 
 1.  包括海外姐妹團在內的[AKB48家族各團均由](../Page/AKB48集團.md "wikilink")[秋元康擔任總製作人](../Page/秋元康.md "wikilink")。
 

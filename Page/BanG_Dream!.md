@@ -747,6 +747,7 @@ Garden提供](../Page/Elements_Garden.md "wikilink")\[22\]。
 <th><p>角色</p></th>
 <th><p>聲部</p></th>
 <th><p>樂器</p></th>
+<th><p>其他</p></th>
 </tr>
 </thead>
 <tbody>
@@ -755,34 +756,49 @@ Garden提供](../Page/Elements_Garden.md "wikilink")\[22\]。
 <td><p>湊友希那</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/主唱" title="wikilink">主唱</a></p></td>
 <td></td>
+<td><p>待補充</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/工藤晴香.md" title="wikilink">工藤晴香</a></p></td>
 <td><p>冰川紗夜</p></td>
 <td><p><a href="../Page/電子琴.md" title="wikilink">吉他</a></p></td>
 <td><p>藍色<a href="https://zh.wikipedia.org/wiki/ESP" title="wikilink">ESP</a></p></td>
+<td><p>學生時期曾嘗試彈結他，但很快就放棄了。在Roselia 組成時還不會彈吉他，直到確定角色為紗夜後才開始練習。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/遠藤祐里香.md" title="wikilink">遠藤祐里香</a></p>
-<hr />
-<p><a href="https://zh.wikipedia.org/wiki/中島由貴" title="wikilink">中島由貴</a></p></td>
+<td><p><a href="../Page/遠藤祐里香.md" title="wikilink">遠藤祐里香</a></p></td>
 <td><p>今井莉莎</p></td>
 <td><p><a href="../Page/電貝斯.md" title="wikilink">貝斯</a></p></td>
 <td><p>紅色<a href="https://zh.wikipedia.org/wiki/ESP" title="wikilink">ESP</a></p></td>
+<td><p>待補充</p></td>
 </tr>
 <tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/中島由貴" title="wikilink">中島由貴</a></p></td>
+<td><p>待補充</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><a href="../Page/櫻川惠.md" title="wikilink">櫻川惠</a></p></td>
 <td><p>宇田川亞子</p></td>
 <td><p><a href="../Page/爵士鼓.md" title="wikilink">爵士鼓</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/DW_Drums" title="wikilink">DW Drums</a></p></td>
+<td><p>加入Roselia 以前完全沒有打鼓的經驗，最初開始練習時會在<a href="../Page/筒鼓.md" title="wikilink">tom-tom上貼樂譜</a>，而且要他人指示才知道要開始自己的部份。</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/明坂聰美.md" title="wikilink">明坂聰美</a></p></td>
+<td><p>白金燐子</p></td>
+<td><p><a href="../Page/鍵盤樂器.md" title="wikilink">鍵盤</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Roland公司" title="wikilink">Roland</a> - FA-08</p></td>
+<td><p>五歲開始有持續地彈鋼琴，在十五歲時因考試而放棄。雖在組樂隊時已多年沒有彈鋼琴，但仍記得如何讀樂譜，所以比較快就能夠上手。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/明坂聰美.md" title="wikilink">明坂聰美</a></p>
-<hr />
-<p><a href="https://zh.wikipedia.org/wiki/志崎樺音" title="wikilink">志崎樺音</a></p></td>
-<td><p>白金燐子</p></td>
-<td><p><a href="../Page/爵士鼓.md" title="wikilink">鍵盤</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Roland公司" title="wikilink">Roland</a> - FA-08</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/志崎樺音" title="wikilink">志崎樺音</a></p></td>
+<td><p>待補充</p></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -916,8 +932,8 @@ Garden提供](../Page/Elements_Garden.md "wikilink")\[22\]。
 
 ### RAISE A SUILEN
 
-是由五名聲優或藝人組成的組合。前身是負責代唱三個非正式聲優組合（Afterglow、Pastel\*Palettes、Hello, Happy
-World\!)樂曲的幕後樂團「The Third(仮）」，其中有兩位成員來自日本著名樂團
+是由五名聲優或藝人組成的組合。前身是負責現場伴奏三個非正式聲優組合（Afterglow、Pastel\*Palettes、Hello,
+Happy World\!)樂曲的幕後樂團「The Third(仮）」，其中有兩位成員來自日本著名樂團
 
 #### 成員
 
@@ -1068,13 +1084,13 @@ World\!)樂曲的幕後樂團「The Third(仮）」，其中有兩位成員來�
 <td><p><a href="https://zh.wikipedia.org/wiki/日向大輔" title="wikilink">日向大輔</a></p></td>
 <td><p>五稜結人</p></td>
 <td><p><a href="../Page/電子琴.md" title="wikilink">吉他</a></p></td>
-<td></td>
+<td><p>Gibson Custom Goryo Yuto Les Paul Standard Blue Burst</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/前田誠二.md" title="wikilink">前田誠二</a></p></td>
 <td><p>的場航海</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/貝斯" title="wikilink">貝斯</a></p></td>
-<td></td>
+<td><p>Gibson Matoba Wataru SG Standard Pearl White</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/森嶋秀太" title="wikilink">森嶋秀太</a></p></td>
@@ -1086,7 +1102,7 @@ World\!)樂曲的幕後樂團「The Third(仮）」，其中有兩位成員來�
 <td><p><a href="https://zh.wikipedia.org/wiki/橋本祥平" title="wikilink">橋本祥平</a></p></td>
 <td><p>白石萬浬</p></td>
 <td><p><a href="../Page/爵士鼓.md" title="wikilink">爵士鼓</a></p></td>
-<td></td>
+<td><p>Pearl</p></td>
 </tr>
 </tbody>
 </table>
@@ -1151,9 +1167,7 @@ RADIO\!\!\!\!\!」為標題開始發布。2015年的廣播（至「第7BanG\!\!\
 ## 電視動畫
 
 電視動畫《BanG
-Dream\!》於2017年1月21日起開始播放\[26\]，部分亞洲地方於[同年1月22日晚起緊貼日本播出](../Page/海外聯播動畫.md "wikilink")。[OVA於同年](https://zh.wikipedia.org/wiki/OVA "wikilink")8月19日於日本各電視台播出，部分電視台則於8月20日播出。動畫第二季於2019年1月\~3月播放完畢
-
-`第三季將於2020年1月播放。`
+Dream\!》於2017年1月21日起開始播放\[26\]，部分亞洲地方於[同年1月22日晚起緊貼日本播出](../Page/海外聯播動畫.md "wikilink")。[OVA於同年](https://zh.wikipedia.org/wiki/OVA "wikilink")8月19日於日本各電視台播出，部分電視台則於8月20日播出。動畫第二季於2019年1月\~3月播放完畢。第三季將於2020年1月播放。
 
 ### 製作人員
 
@@ -1973,6 +1987,7 @@ Dream\!》於2017年1月21日起開始播放\[26\]，部分亞洲地方於[同�
 [Category:日本的海外聯播動畫](https://zh.wikipedia.org/wiki/Category:日本的海外聯播動畫 "wikilink")
 [Category:2019年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2019年日本電視動畫 "wikilink")
 [Category:2019年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2019年日本劇場動畫 "wikilink")
+[Category:2020年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2020年日本電視動畫 "wikilink")
 [Category:BanG_Dream\!](https://zh.wikipedia.org/wiki/Category:BanG_Dream! "wikilink")
 
 1.

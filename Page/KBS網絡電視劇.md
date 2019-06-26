@@ -35,11 +35,11 @@
 <td><p>6月12日</p></td>
 <td><p><a href="../Page/皇太子的王子_(電視劇).md" title="wikilink">皇太子的王子</a><br />
 （프린스의 왕자）</p></td>
-<td><p><small><a href="../Page/崔鍾訓.md" title="wikilink">崔鍾訓</a>、、<a href="../Page/酉奈.md" title="wikilink">酉奈</a>、、</small></p></td>
+<td><p><small><a href="../Page/崔鍾訓.md" title="wikilink">崔鍾訓</a>、<a href="../Page/林允浩.md" title="wikilink">林允浩</a>、<a href="../Page/酉奈.md" title="wikilink">酉奈</a>、、</small></p></td>
 <td><p>Jea Ah SE</p></td>
 <td><p>Jea Ah<br />
 金敏惠</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/申柱煥" title="wikilink">申柱煥</a><br />
+<td><p><a href="../Page/申柱煥.md" title="wikilink">申柱煥</a><br />
 崔亨俊</p></td>
 </tr>
 <tr class="odd">

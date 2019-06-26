@@ -141,7 +141,7 @@ Duo）是[MTV影視大獎重要的獎項之一](../Page/MTV影視大獎.md "wiki
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/反斗奇兵" title="wikilink">反斗奇兵</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/湯·漢斯" title="wikilink">湯·漢斯</a> / <a href="https://zh.wikipedia.org/wiki/提姆·艾倫" title="wikilink">提姆·艾倫</a> <small>(全員配音演出)</small></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/湯·漢斯" title="wikilink">湯·漢斯</a> / <a href="../Page/提姆·艾倫.md" title="wikilink">提姆·艾倫</a> <small>(全員配音演出)</small></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -259,7 +259,7 @@ Duo）是[MTV影視大獎重要的獎項之一](../Page/MTV影視大獎.md "wiki
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/玩具總動員2.md" title="wikilink">玩具總動員2</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/湯·漢斯" title="wikilink">湯·漢斯</a> / <a href="https://zh.wikipedia.org/wiki/提姆·艾倫" title="wikilink">提姆·艾倫</a> <small>(全員配音演出)</small></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/湯·漢斯" title="wikilink">湯·漢斯</a> / <a href="../Page/提姆·艾倫.md" title="wikilink">提姆·艾倫</a> <small>(全員配音演出)</small></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -584,11 +584,11 @@ Duo）是[MTV影視大獎重要的獎項之一](../Page/MTV影視大獎.md "wiki
 (第27屆)</p></td>
 <td><p>'''<a href="../Page/牠_(電影).md" title="wikilink">牠</a></p></td>
 <td><p>'''<a href="../Page/芬恩·伍法德.md" title="wikilink">芬恩·伍法德</a> /  / <a href="../Page/傑登·里柏赫.md" title="wikilink">傑登·里柏赫</a> / <br />
- /  / </p></td>
+<a href="../Page/傑克·狄倫·葛雷瑟.md" title="wikilink">傑克·狄倫·葛雷瑟</a> /  / </p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/黑豹_(電影).md" title="wikilink">黑豹</a></p></td>
-<td><p><a href="../Page/查德維克·博斯曼.md" title="wikilink">查德維克·博斯曼</a> / <a href="https://zh.wikipedia.org/wiki/露琵塔·尼詠歐" title="wikilink">露琵塔·尼詠歐</a> / <br />
+<td><p><a href="../Page/查德維克·博斯曼.md" title="wikilink">查德維克·博斯曼</a> / <a href="https://zh.wikipedia.org/wiki/露琵塔·尼詠歐" title="wikilink">露琵塔·尼詠歐</a> / <a href="../Page/達娜·古瑞拉.md" title="wikilink">達娜·古瑞拉</a><br />
 <a href="https://zh.wikipedia.org/wiki/莱蒂希娅·赖特" title="wikilink">莱蒂希娅·赖特</a></p></td>
 <td></td>
 </tr>

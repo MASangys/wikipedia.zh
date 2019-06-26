@@ -125,6 +125,16 @@ Down](https://zh.wikipedia.org/wiki/Up_&_Down_\(EXID單曲\) "wikilink")》回�
 <td><p>—</p></td>
 </tr>
 <tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/WE_(EXID迷你專輯)" title="wikilink">WE</a></p></td>
+<td><ul>
+<li>發行日期：2019年5月15日</li>
+<li>廠牌：香蕉文化、索尼音樂娛樂</li>
+<li>格式：CD、數位音樂下載</li>
+</ul></td>
+<td><p>15</p></td>
+<td><p>—</p></td>
+</tr>
+<tr class="odd">
 <td><p><small>"—" 表示該專輯/單曲未有在榜上排名或未有資料或沒有在當地發行</small></p></td>
 <td></td>
 <td></td>

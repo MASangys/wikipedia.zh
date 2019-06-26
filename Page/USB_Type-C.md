@@ -23,21 +23,21 @@ Saunders在接受採訪時表示：「雖然USB技術在設備連接和設備充
 
 有24個引腳，兩邊各12個。
 
-| 針                                  | 名               | 描述                                                                      | 針   | 名               | 描述                       |
-| ---------------------------------- | --------------- | ----------------------------------------------------------------------- | --- | --------------- | ------------------------ |
-| A1                                 | GND             | 接地                                                                      | B12 | GND             | 接地                       |
-| A2                                 | SSTXp1          | SuperSpeed[差分信號](https://zh.wikipedia.org/wiki/差分信號 "wikilink")\#1，TX，正 | B11 | SSRXp1          | SuperSpeed差分信號\#1，RX，正   |
-| A3                                 | SSTXn1          | SuperSpeed差分信號\#1，TX，負                                                  | B10 | SSRXn1          | SuperSpeed差分信號\#1，RX，負   |
-| A4                                 | V<sub>BUS</sub> | 總線電源                                                                    | B9  | V<sub>BUS</sub> | 總線電源                     |
-| A5                                 | CC1             | Configuration channel                                                   | B8  | SBU2            | Sideband use (SBU)       |
-| A6                                 | Dp1             | USB 2.0差分信號，position 1，正                                                | B7  | Dn2             | USB 2.0差分信號，position 2，負 |
-| A7                                 | Dn1             | USB 2.0差分信號，position 1，負                                                | B6  | Dp2             | USB 2.0差分信號，position 2，正 |
-| A8                                 | SBU1            | Sideband use (SBU)                                                      | B5  | CC2             | Configuration channel    |
-| A9                                 | V<sub>BUS</sub> | 總線電源                                                                    | B4  | V<sub>BUS</sub> | 總線電源                     |
-| A10                                | SSRXn2          | SuperSpeed差分信號\#2，RX，負                                                  | B3  | SSTXn2          | SuperSpeed差分信號\#2，TX，負   |
-| A11                                | SSRXp2          | SuperSpeed差分信號\#2，RX，正                                                  | B2  | SSTXp2          | SuperSpeed差分信號\#2，TX，正   |
-| A12                                | GND             | 接地                                                                      | B1  | GND             | 接地                       |
-| *USB 2.0差分信號只會連接其中一邊。連接器其中一方只有一邊。* |                 |                                                                         |     |                 |                          |
+| 針                                              | 名               | 描述                                                                      | 針   | 名               | 描述                       |
+| ---------------------------------------------- | --------------- | ----------------------------------------------------------------------- | --- | --------------- | ------------------------ |
+| A1                                             | GND             | 接地                                                                      | B12 | GND             | 接地                       |
+| A2                                             | SSTXp1          | SuperSpeed[差分信號](https://zh.wikipedia.org/wiki/差分信號 "wikilink")\#1，TX，正 | B11 | SSRXp1          | SuperSpeed差分信號\#1，RX，正   |
+| A3                                             | SSTXn1          | SuperSpeed差分信號\#1，TX，負                                                  | B10 | SSRXn1          | SuperSpeed差分信號\#1，RX，負   |
+| A4                                             | V<sub>BUS</sub> | 總線電源                                                                    | B9  | V<sub>BUS</sub> | 總線電源                     |
+| A5                                             | CC1             | Configuration channel                                                   | B8  | SBU2            | Sideband use (SBU)       |
+| A6                                             | Dp1             | USB 2.0差分信號，position 1，正                                                | B7  | Dn2             | USB 2.0差分信號，position 2，負 |
+| A7                                             | Dn1             | USB 2.0差分信號，position 1，負                                                | B6  | Dp2             | USB 2.0差分信號，position 2，正 |
+| A8                                             | SBU1            | Sideband use (SBU)                                                      | B5  | CC2             | Configuration channel    |
+| A9                                             | V<sub>BUS</sub> | 總線電源                                                                    | B4  | V<sub>BUS</sub> | 總線電源                     |
+| A10                                            | SSRXn2          | SuperSpeed差分信號\#2，RX，負                                                  | B3  | SSTXn2          | SuperSpeed差分信號\#2，TX，負   |
+| A11                                            | SSRXp2          | SuperSpeed差分信號\#2，RX，正                                                  | B2  | SSTXp2          | SuperSpeed差分信號\#2，TX，正   |
+| A12                                            | GND             | 接地                                                                      | B1  | GND             | 接地                       |
+| *USB 2.0差分信號只會連接其中一邊。因USB Type-c Plug 無B6、B7。* |                 |                                                                         |     |                 |                          |
 
 [USB_Type-C_Receptacle_Pinout.svg](https://zh.wikipedia.org/wiki/File:USB_Type-C_Receptacle_Pinout.svg "fig:USB_Type-C_Receptacle_Pinout.svg")
 [Usb-type-c-plug-pinout.svg](https://zh.wikipedia.org/wiki/File:Usb-type-c-plug-pinout.svg "fig:Usb-type-c-plug-pinout.svg")

@@ -12,7 +12,7 @@
 Phone系统的类似](../Page/Windows_Phone.md "wikilink")。
 
 该系统经常与[亚马逊公司推出的](https://zh.wikipedia.org/wiki/亚马逊公司 "wikilink")[Fire
-OS进行对比](https://zh.wikipedia.org/wiki/Fire_OS "wikilink")，后者同样基于AOSP。
+OS进行对比](../Page/Fire_OS.md "wikilink")，后者同样基于AOSP。
 
 ## 应用程序
 

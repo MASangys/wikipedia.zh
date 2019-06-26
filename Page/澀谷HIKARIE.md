@@ -10,9 +10,9 @@ Orb」。
   - 17 - 34樓 寫字樓
       - 32 - 34樓 [KDDI](../Page/KDDI.md "wikilink")
       - 31階 mediba（本社）
-      - 19階、27 - 29階 アダストリア（本社）
-      - 21 - 26階 ディー・エヌ・エー\]\]（本社）※除了有關人員以外，不能進入
-      - 17 - 18階 レバレジーズ（本社）
+      - 19階、27 - 29階 Adastria（本社）
+      - 21 - 26階 [DeNA](../Page/DeNA.md "wikilink")（本社）※除了有關人員以外，不能進入
+      - 17 - 18階 Leverages（本社）
   - 11 - 16階 「[東急 Theatre
     Orb](https://zh.wikipedia.org/wiki/東急_Theatre_Orb "wikilink")」（劇場）
     ※由[Bunkamura營運](https://zh.wikipedia.org/wiki/Bunkamura "wikilink")

@@ -11,7 +11,7 @@ I.O.I，大家好！」口號開始的同時，右手在右肩前拇指與四指
 
 ## 經歷
 
-### 首張迷你專輯《Chrysalis》
+### 2016上半年 ：首張迷你專輯《Chrysalis》
 
 由於是出道作品，成員們非常用心地參與了專輯的制作，包括議定專輯名稱為「Chrysalis」，以及主打歌曲的選定，對MV中個性的選擇，以及編排配置也都參與了意見，娜榮、有情更是直接參與了歌詞的創作，是具有I.O.I獨特色彩的作品。\[7\]2016年4月5日，透過各音源網站發布單曲〈Crush〉的音源，截至當天下午1點，在音源即時榜單上位居Mnet1位、Bugs2位、Olleh音樂2位、Genie3位。\[8\]4月27日，[Imagine
 Asia官網公開以成員鄭彩妍](../Page/Imagine_Asia.md "wikilink")、金世正、全昭彌、周潔瓊為主的概念照。\[9\]隔天公開以成員俞璉靜、磪有情、康美娜、金度延、金請夏、金素慧、林娜榮主的兩張概念照。\[10\]
@@ -33,6 +33,13 @@ Concert結束迷你專輯《Chrysalis》宣傳活動，預計在夏天推出小�
 Asia官網公布七人小分隊，成員為全昭彌、磪有情、金請夏、金素慧、周潔瓊、金度延及林娜榮，並沿用團名I.O.I，不會另取新名。小分隊以外四名成員將暫時回到各自所屬公司。\[20\]\[21\]同年月24日，Imagine
 Asia表示小分隊預計於八月正式展開活動，將先後發表兩首新曲。\[22\]
 
+6月14日，郑彩娟暂时回归所属组合[DIA并發行所属组合的首張迷你專輯](https://zh.wikipedia.org/wiki/DIA "wikilink")。
+
+6月28日,
+金世正、康美娜以[Jellyfish娛樂娱乐旗下新人女团](../Page/Jellyfish娛樂.md "wikilink")[Jellyfish娛樂出道](../Page/Jellyfish娛樂.md "wikilink")。
+
+7月11日，璉靜加入[宇宙少女成為新成員](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")，團體改以13人活動重新出发。
+
 8月2日，Imagine Asia公開新曲團體概念照，且宣佈將於韓國時間8月9日零時發表新曲\[23\]，並於11日透過Mnet音樂節目《M\!
 Countdown》公開新曲舞台。一星期後，新曲〈Whatta Man (Good man)〉MV及音源正式公開\[24\]
 ，公開新曲後24小時，在韓國音源網站Melon的首日收聽人數達53萬人次。8月16至9日、30日，出道僅三個月，就憑〈Whatta
@@ -43,7 +50,7 @@ Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》（8,158分�
 Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》（7,128分）、《[THE
 SHOW](https://zh.wikipedia.org/wiki/THE_SHOW "wikilink")》（7,241分）獲得共五個一位。
 
-### 完全體回歸最終回——第二張迷你專輯《Miss Me?》
+### 2016年下半年 ： 完全體回歸最終回——第二張迷你專輯《Miss Me?》
 
 [20160730-P1000773_(28346339234).jpg](https://zh.wikipedia.org/wiki/File:20160730-P1000773_\(28346339234\).jpg "fig:20160730-P1000773_(28346339234).jpg")
 8月15日，I.O.I.以完全體翻唱《手拉手》，乃[1988年漢城奧運會的主題曲](https://zh.wikipedia.org/wiki/1988年夏季奥林匹克运动会 "wikilink")。
@@ -61,7 +68,7 @@ Very Very〉於《[Show
 Champion](../Page/Show_Champion.md "wikilink")》獲得完整體回歸首個一位\[32\]。隔天《[M\!
 Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》在官網上公布名次，I.O.I獲完整體回歸第二個一位\[33\]。3天後，I.O.I在《[人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")》獲完整體回歸第三個一位\[34\]。
 
-### 絢爛到最後——告別演唱會、多座年度新人獎、最後的單曲〈DOWNPOUR〉《人氣歌謠》一位結尾
+### 2017年 ： 絢爛到最後——告別演唱會、多座年度新人獎、最後的單曲〈DOWNPOUR〉《人氣歌謠》一位結尾
 
 11月27日，I.O.I將於2017年1月20日至22日共三天，在出道時首次登台的相同地點[奖忠体育馆舉辦](https://zh.wikipedia.org/wiki/奖忠体育馆 "wikilink")《Time
 Slip -
@@ -83,12 +90,22 @@ K-Pop 新人」第一為I.O.I，更表示「儘管她們的組合壽命很短，
 
 2017年1月18日公開由[SEVENTEEN](../Page/Seventeen_\(組合\).md "wikilink")
 [WOOZI自創做的歌曲](https://zh.wikipedia.org/wiki/WOOZI "wikilink")《DOWNPOUR》MV以及音源\[41\]作為最後一首屬於I.O.I的歌曲，歌曲表達出和此刻的11名成员内心一样，由成员們自己選擇决定的具有悲傷旋律的情歌。歌曲將分开比喻为陣雨來臨時的傷感，但是如若再次見面時依然會充满光明與希望，是為一直支持着I.O.I的粉絲獻上的最後禮物。\[42\]
-2017年1月20日至22日連續三天如期於獎忠體育館舉辦告別演唱會，順利為I.O.I的表演活動畫下休止符。\[43\]2017年1月25日完成Elite廣告的拍攝，結束了I.O.I的活動。\[44\]2017年1月29日，I.O.I正式解散\[45\]。2017年1月29日，I.O.I
+2017年1月20日至22日連續三天如期於獎忠體育館舉辦告別演唱會，順利為I.O.I的表演活動畫下休止符。\[43\]2017年1月25日完成Elite廣告的拍攝，結束了I.O.I的活動。\[44\]
+
+2017年1月29日，I.O.I正式解散\[45\]。同日，I.O.I
 最後的單曲〈DOWNPOUR〉在因農曆新年沒有播出的《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》上拿下一位，為I.O.I畫下完美的句點。\[46\]
 
 2017年2月23日，《[福布斯韩国](../Page/福布斯.md "wikilink")》评选出“2017[韩国最具影响力名人榜](https://zh.wikipedia.org/wiki/韓國福布斯名人榜 "wikilink")”，I.O.I排名第十一\[47\]\[48\]
 
+### 2017年-至今 : 后续发展
+
+2017年3月21日，林娜榮、周潔瓊以[Pledis娛樂旗下新人女团](../Page/Pledis娛樂.md "wikilink")
+[PRISTIN正式出道](https://zh.wikipedia.org/wiki/PRISTIN "wikilink")。
+
 2017年6月16日，I.O.I (除了金世正、磪有情)出席《PRODUCE 101 S2》決賽為練習生打氣。
+
+2017年8月8日，磪有情、金度延正式以[Fantagio娱乐旗下新人女团](../Page/Fantagio.md "wikilink")[Weki
+Meki出道](../Page/Weki_Meki.md "wikilink")。
 
 2017年11月29日，I.O.I
 成員林娜榮、金請夏、周潔瓊、磪有情、金度延到日本參加《[2017年Mnet亞洲音樂大獎](../Page/2017年Mnet亞洲音樂大獎.md "wikilink")》，與[AKB48分隊表演合作舞臺](../Page/AKB48.md "wikilink")。
@@ -99,17 +116,27 @@ Hand》，为平昌冬奥会应援。本次音源是在2016年版本的基础上
 2018年4月22日，I.O.I成員各自調整了行程，完全體參與《PRODUCE
 48》的錄製。作為前兩季的選秀代表和前輩，給予練習生建議和應援。\[50\]\[51\]6月1日播出拍攝的預告片，以平行移動拍攝的方式，每個人以轉頭交代下一個人，預告裡的音訊是每個人當初宣佈入選後的感言。\[52\]
 
-I.O.I的版權轉由Stone Music Entertainment管理。2018年6月22日，Stone Music
+2018年6月22日，I.O.I的版權轉由Stone Music Entertainment管理。Stone Music
 Entertainment重新發行原本已停印的I.O.I的《[Chrysalis](../Page/Chrysalis_\(I.O.I迷你專輯\).md "wikilink")》、《Whatta
 Man》 & 《[Miss
 Me?](../Page/Miss_Me?.md "wikilink")》專輯\[53\]\[54\]\[55\]。6月25-26日，Stone
 Music
 Entertainment在YouTube頻道上傳了I.O.I所有MV，在9月22日刪除在1theK頻道上的原版MV\[56\]\[57\]\[58\]。
 
-### 有望重組
+2018年8月20日全昭彌解除專屬合約並離開JYP娛樂；9月23日，與YG娛樂旗下藝人TEDDY設立的廠牌The Black
+Label簽專屬合約。
+
+2019年5月24日，Pledis娛樂表示已經與林娜榮解約，周潔瓊则选择继续留在[Pledis娛樂进行个人活动](../Page/Pledis娛樂.md "wikilink")，[PRISTIN解散](https://zh.wikipedia.org/wiki/PRISTIN "wikilink")。
+
+2019年6月13日，全昭彌於以個人歌手身份出道。
+
+### 2019年 ： 有望重組
 
 2019年4月30日，報道指出I.O.I在經過各家經紀公司反覆討論重組事宜後，有望達成最終協議，目前口頭約定將為6個月的計畫，待確認細節後將正式簽約；在討論過程中，不少成員均表態希望重組，但全昭彌則確定不參與此次重組活動。而CJ
 E\&M方面則回應：「現在確實正在討論重組I.O.I，但是現在還未做出決定。」 \[59\]\[60\]\[61\]\[62\]。
+
+2019年6月12日，Sports Donga
+確定重組後的I.O.I將以9人體制活動。而专注于个人活动的全昭彌和[宇宙少女活动的俞璉靜確定不參與此次重組活動](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")。\[63\]
 
 ## 成員資料
 
@@ -118,10 +145,10 @@ E\&M方面則回應：「現在確實正在討論重組I.O.I，但是現在還�
 <table>
 <thead>
 <tr class="header">
-<th><p>漢字[63]</p></th>
+<th><p>漢字[64]</p></th>
 <th><p>谚文</p></th>
-<th><p>羅馬拼音[64]</p></th>
-<th><p>出生日期[65]<br />
+<th><p>羅馬拼音[65]</p></th>
+<th><p>出生日期[66]<br />
 出生地</p></th>
 <th><p>國籍</p></th>
 <th><p>經紀公司</p></th>
@@ -224,7 +251,7 @@ Joo Kyul-kyung</p></td>
 <td></td>
 <td><p>Kang Mi-na</p></td>
 <td><p><br />
-<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/利川市.md" title="wikilink">利川市</a>[66]</p></td>
+<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/利川市.md" title="wikilink">利川市</a>[67]</p></td>
 <td></td>
 <td><p><a href="../Page/Jellyfish娛樂.md" title="wikilink">Jellyfish娛樂</a></p></td>
 <td></td>
@@ -244,12 +271,12 @@ Joo Kyul-kyung</p></td>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/全昭彌" title="wikilink">全昭彌</a></p></td>
 <td></td>
-<td><p>Jeon So-mi[67]</p></td>
+<td><p>Jeon So-mi[68]</p></td>
 <td><p><br />
-<a href="../Page/安大略省.md" title="wikilink">安大略省</a>[68]</p></td>
+<a href="../Page/安大略省.md" title="wikilink">安大略省</a>[69]</p></td>
 <td><p><br />
 <br />
-[69]</p></td>
+[70]</p></td>
 <td><p><a href="../Page/YG娛樂.md" title="wikilink">THE BLACK LABEL</a></p></td>
 <td></td>
 <td></td>
@@ -293,14 +320,14 @@ Joo Kyul-kyung</p></td>
 | SK Telecom                                             |          |                                  |
 | Mom's Touch (速食店)                                      |          |                                  |
 | 百發百中 for Kakao                                         |          |                                  |
-| 石器時代\[70\]                                             |          |                                  |
+| 石器時代\[71\]                                             |          |                                  |
 | G Market Baskin Robbins                                | 有情       | 與宋仲基版本廣告一起播出造成話題                 |
 | CJ Petitzel sweet pudding                              | 美娜、昭彌、世正 |                                  |
-| COMICA (南韓最大漫畫平台)                                      | 有情       | 「和漫畫女主角最像的女藝人」調查，50名入選者中勝出\[71\] |
+| COMICA (南韓最大漫畫平台)                                      | 有情       | 「和漫畫女主角最像的女藝人」調查，50名入選者中勝出\[72\] |
 | Stella Beauty                                          | 全員       |                                  |
 | CJ Alaska Salmon                                       | 昭彌       |                                  |
 | Petitzel Ecliar                                        | 全員       |                                  |
-| 購物網站 Auction\[72\]                                     |          |                                  |
+| 購物網站 Auction\[73\]                                     |          |                                  |
 | KB 國民銀行                                                |          |                                  |
 | pancoat 休閒服飾                                           |          |                                  |
 | PALDO 泡麵                                               |          |                                  |
@@ -329,7 +356,7 @@ Joo Kyul-kyung</p></td>
   - 2016年5月16日：汝矣島遊擊演唱會
   - 2016年5月20日PM10:30 - 21日AM5:00 ：徐康俊的 We like 2night 嘉賓
   - 2016年5月21日：2016 亞洲模特頒獎典禮
-  - 2016年5月23-25日：成都公益活動 CJ夢享音樂教室\[73\]
+  - 2016年5月23-25日：成都公益活動 CJ夢享音樂教室\[74\]
   - 2016年5月29日：Bugs Special Live Vol.17 at 弘大 - I.O.I 單獨演唱會
   - 2016年10月17日：I.O.I 第二张迷你專辑回归Showcase
   - 2016年12月23日：K.Will演唱會嘉賓
@@ -352,7 +379,7 @@ Joo Kyul-kyung</p></td>
 | ------ | ----------------------- | --------------------------------------------------------- | ------------------------------- | ---- |
 | 日期     | SHOWCASE名稱              | 舉行地點                                                      | 備註                              | 參與成員 |
 | 2016年  |                         |                                                           |                                 |      |
-| 5月5日   | I.O.I 1st Showcase      | [首尔奖忠体育馆](https://zh.wikipedia.org/wiki/奖忠体育馆 "wikilink") | I.O.I 首張迷你專輯出道《Chrysalis》\[74\] | 全員   |
+| 5月5日   | I.O.I 1st Showcase      | [首尔奖忠体育馆](https://zh.wikipedia.org/wiki/奖忠体育馆 "wikilink") | I.O.I 首張迷你專輯出道《Chrysalis》\[75\] | 全員   |
 | 10月17日 | I.O.I Comeback Showcase |                                                           | I.O.I 第二張迷你專輯《Miss Me？》         |      |
 |        |                         |                                                           |                                 |      |
 
@@ -429,17 +456,17 @@ Whatta Man+너무너무너무</p></td>
 | 2016年                |                                                           |                                                               |                     |          |
 | 4月29日                | Youth Festival                                            | [首爾樂天世界](https://zh.wikipedia.org/wiki/樂天世界 "wikilink")       | 全員                  |          |
 | 5月8日                 | C-Festival at COEX                                        | [首爾永東大橋](https://zh.wikipedia.org/wiki/永東大橋 "wikilink")       |                     |          |
-| 5月17日                | KBS1 開放音樂會\[75\]                                          | KBS大禮堂                                                        | 6月5日放送              |          |
+| 5月17日                | KBS1 開放音樂會\[76\]                                          | KBS大禮堂                                                        | 6月5日放送              |          |
 | 5月22日                | 現代汽車 brilliant motor festival                             | [仁川松島國際都市賽場](../Page/松島國際都市.md "wikilink")                    |                     |          |
 | 5月27日                | May I ♥ You                                               | [首爾延世大學](../Page/延世大學.md "wikilink")                          |                     |          |
-| 6月2日                 | KCON 2016 France\[76\]                                    | [巴黎貝爾西體育館](../Page/巴黎貝爾西體育館.md "wikilink")                    | 6月14日放送 昭彌未表演\[77\] |          |
+| 6月2日                 | KCON 2016 France\[77\]                                    | [巴黎貝爾西體育館](../Page/巴黎貝爾西體育館.md "wikilink")                    | 6月14日放送 昭彌未表演\[78\] |          |
 | 6月4日                 | 2016 Dream Concert                                        | [首爾世界盃競技場](../Page/首爾世界盃競技場.md "wikilink")                    | 6月12日放送             |          |
-| 6月18日                | [水原](../Page/水原市.md "wikilink") K-POP Super Concert\[78\] | [水原世界盃競技場](../Page/水原世界盃競技場.md "wikilink")                    | ①                   | 6月21日放送  |
+| 6月18日                | [水原](../Page/水原市.md "wikilink") K-POP Super Concert\[79\] | [水原世界盃競技場](../Page/水原世界盃競技場.md "wikilink")                    | ①                   | 6月21日放送  |
 | 7月2日                 | 2016 ETUDE Pink Play Concert                              | [首尔東大門設計廣場](https://zh.wikipedia.org/wiki/東大門設計廣場 "wikilink") | 全員                  |          |
 | 7月9日                 | KB 國民銀行 Liiv CONCERT                                      | [首尔](https://zh.wikipedia.org/wiki/首尔 "wikilink")             |                     |          |
-| 7月16日                | Park Concert in Seongnam\[79\]                            | [城南市](../Page/城南市.md "wikilink")                              |                     |          |
-| 7月30日                | KCON 2016 USA in LA\[80\]                                 | [洛杉磯史坦波中心](../Page/斯台普斯中心.md "wikilink")                      |                     |          |
-| 8月5日                 | 2016 JUMF 全州終極音樂節\[81\]                                   | [全州綜合競技場](../Page/全州市.md "wikilink")                          | ①                   |          |
+| 7月16日                | Park Concert in Seongnam\[80\]                            | [城南市](../Page/城南市.md "wikilink")                              |                     |          |
+| 7月30日                | KCON 2016 USA in LA\[81\]                                 | [洛杉磯史坦波中心](../Page/斯台普斯中心.md "wikilink")                      |                     |          |
+| 8月5日                 | 2016 JUMF 全州終極音樂節\[82\]                                   | [全州綜合競技場](../Page/全州市.md "wikilink")                          | ①                   |          |
 | 8月22日                | PETIZEL COOL SUMMER DESSERT PICNIC                        | [首尔](https://zh.wikipedia.org/wiki/首尔 "wikilink")             | 全員                  |          |
 | 9月4日                 | 2016 Taekwondo Peace Festivel                             | [首尔市厅前广场](https://zh.wikipedia.org/wiki/首尔 "wikilink")        | ①                   | 9月7日放送   |
 | 9月10日                | 華城市青少年节                                                   | [首尔奖忠体育馆](https://zh.wikipedia.org/wiki/奖忠体育馆 "wikilink")     |                     |          |
@@ -622,6 +649,7 @@ Whatta Man+너무너무너무</p></td>
 [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
 [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
 [Category:Mnet亞洲音樂大獎獲得者](https://zh.wikipedia.org/wiki/Category:Mnet亞洲音樂大獎獲得者 "wikilink")
+[Category:期間限定團體](https://zh.wikipedia.org/wiki/Category:期間限定團體 "wikilink")
 [Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink")
 [Category:2017年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年解散的音樂團體 "wikilink")
 [Category:I.O.I](https://zh.wikipedia.org/wiki/Category:I.O.I "wikilink")
@@ -762,12 +790,12 @@ Whatta Man+너무너무너무</p></td>
 62.
 
 63.
+
 64.
 65.
-66. [미나
+66.
+67. [미나
     출생지](http://img.etnews.com/news/article/2016/08/18/article_18122341158539.jpg)
-
-67.
 
 68.
 
@@ -782,8 +810,8 @@ Whatta Man+너무너무너무</p></td>
 73.
 
 74.
-75.
 
+75.
 76.
 
 77.
@@ -795,3 +823,5 @@ Whatta Man+너무너무너무</p></td>
 80.
 
 81.
+
+82.

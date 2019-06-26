@@ -165,6 +165,7 @@ Flip”讀錯為“Dak Flip”。
 <td style="text-align: left;"><p><strong>CD</strong></p>
 <ol>
 <li>同盟者</li>
+<li>蜘蛛英雄</li>
 </ol></td>
 </tr>
 </tbody>
@@ -176,7 +177,7 @@ Flip”讀錯為“Dak Flip”。
     ，改編歌曲《叱吒勁歌金曲》([軟硬天師](../Page/軟硬天師.md "wikilink"))金獎。
   - 1998年，[蒲窩全港青少年樂隊比賽](../Page/蒲窩青少年中心.md "wikilink")，原創歌曲《Damn
     Fool》金獎，改編歌曲《叱吒勁歌金曲》([軟硬天師](../Page/軟硬天師.md "wikilink"))金獎。
-  - 1999年，[商業電台](../Page/香港商業電台.md "wikilink")[叱吒903](https://zh.wikipedia.org/wiki/叱咤903 "wikilink")(組Band時間)第二屆組Band選舉，最受歡迎樂隊銀獎，最受歡迎結他手銀獎，最受歡迎鼓手銀獎，最受歡迎主音銅獎。
+  - 1999年，[商業電台](../Page/香港商業電台.md "wikilink")[叱吒903](../Page/叱咤903.md "wikilink")(組Band時間)第二屆組Band選舉，最受歡迎樂隊銀獎，最受歡迎結他手銀獎，最受歡迎鼓手銀獎，最受歡迎主音銅獎。
   - 2003年，[Neway與你鋒狂千人Jam比賽](../Page/Neway.md "wikilink")，改編歌曲
     ([謝霆鋒](../Page/謝霆鋒.md "wikilink"))《第二世》金獎。
 

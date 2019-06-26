@@ -159,7 +159,7 @@ An等七位成員](../Page/安胜浩.md "wikilink")\[4\]將扮演「王子」。
 <td><p><a href="https://zh.wikipedia.org/wiki/車銀優_(韓國歌手)" title="wikilink">车银优</a>（<a href="https://zh.wikipedia.org/wiki/ASTRO" title="wikilink">ASTRO</a>）<br />
 <small>（차은우）</small></p></td>
 <td></td>
-<td><p><strong>韓國男<a href="../Page/歌手.md" title="wikilink">歌手及</a><a href="https://zh.wikipedia.org/wiki/演員" title="wikilink">演員</a>，韓國男子團體<a href="https://zh.wikipedia.org/wiki/ASTRO" title="wikilink">ASTRO成員</a></strong></p></td>
+<td><p><strong>韓國男<a href="../Page/歌手.md" title="wikilink">歌手及</a><a href="../Page/演員.md" title="wikilink">演員</a>，韓國男子團體<a href="https://zh.wikipedia.org/wiki/ASTRO" title="wikilink">ASTRO成員</a></strong></p></td>
 <td><p>因<a href="../Page/U-Kwon.md" title="wikilink">U-Kwon</a>、<a href="../Page/P.O.md" title="wikilink">P.O缺席錄影特別出演第</a>3集。</p></td>
 <td></td>
 </tr>
@@ -183,7 +183,7 @@ An等七位成員](../Page/安胜浩.md "wikilink")\[4\]將扮演「王子」。
 <td><p><a href="../Page/滑川康男.md" title="wikilink">滑川康男</a>（<a href="../Page/M.I.B.md" title="wikilink">M.I.B</a>）<br />
 <small>（なめかわ やすお）</small></p></td>
 <td></td>
-<td><p><strong>韓國男<a href="../Page/歌手.md" title="wikilink">歌手及</a><a href="https://zh.wikipedia.org/wiki/演員" title="wikilink">演員</a>，韓國男子團體<a href="../Page/M.I.B.md" title="wikilink">M.I.B前成員</a></strong></p></td>
+<td><p><strong>韓國男<a href="../Page/歌手.md" title="wikilink">歌手及</a><a href="../Page/演員.md" title="wikilink">演員</a>，韓國男子團體<a href="../Page/M.I.B.md" title="wikilink">M.I.B前成員</a></strong></p></td>
 <td><p>因<a href="../Page/徐恩光.md" title="wikilink">恩光</a>、<a href="https://zh.wikipedia.org/wiki/金錫宇" title="wikilink">路雲缺席錄影特別出演第</a>6集。</p></td>
 <td></td>
 </tr>
@@ -191,7 +191,7 @@ An等七位成員](../Page/安胜浩.md "wikilink")\[4\]將扮演「王子」。
 <td><p><br />
 <small>（MC그리）</small></p></td>
 <td></td>
-<td><p><strong>韓國男說唱歌手及<a href="../Page/歌手.md" title="wikilink">歌手和</a><a href="https://zh.wikipedia.org/wiki/演員" title="wikilink">演員</a></strong></p></td>
+<td><p><strong>韓國男說唱歌手及<a href="../Page/歌手.md" title="wikilink">歌手和</a><a href="../Page/演員.md" title="wikilink">演員</a></strong></p></td>
 <td></td>
 <td></td>
 </tr>

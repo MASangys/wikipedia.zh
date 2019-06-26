@@ -21,5 +21,4 @@ Luzern）是[歐洲主要的](https://zh.wikipedia.org/wiki/歐洲 "wikilink")[�
 [Category:文化節](https://zh.wikipedia.org/wiki/Category:文化節 "wikilink")
 
 1.  [香港藝術家參與瑞士國際漫畫節（附圖）](http://www.info.gov.hk/gia/general/201604/25/P201604250670.htm)，2016-04-25
-2.  [Fumetto Internationales Comix
-    Festival](http://www.luzern.com/en/fumetto)
+2.

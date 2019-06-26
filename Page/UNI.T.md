@@ -1,5 +1,5 @@
 **UNI.T**（），因[KBS2偶像再造選秀節目](https://zh.wikipedia.org/wiki/KBS2 "wikilink")《[The
-Unit](../Page/The_Unit.md "wikilink")》所誕生的九人女子限定團體\[1\]，成員包括隊長[優熙](../Page/優熙.md "wikilink")、[楊知元](../Page/楊知元.md "wikilink")、[胤祖](../Page/慎胤祖.md "wikilink")、[ZN](../Page/ZN_\(LABOUM\).md "wikilink")、[NC.A](../Page/NC.A.md "wikilink")、[宜珍](../Page/宜珍_\(SONAMOO\).md "wikilink")、[豫彬](../Page/白豫彬.md "wikilink")、[李玹珠](../Page/李玹珠.md "wikilink")、[李繡至](https://zh.wikipedia.org/wiki/李繡至 "wikilink")。\[2\]\[3\]依規定，該組合將以[KBS所特設的The](https://zh.wikipedia.org/wiki/KBS "wikilink")
+Unit](../Page/The_Unit.md "wikilink")》所誕生的九人女子[限定團體](https://zh.wikipedia.org/wiki/限定團體 "wikilink")\[1\]，成員包括隊長[優熙](../Page/優熙.md "wikilink")、[楊知元](../Page/楊知元.md "wikilink")、[胤祖](../Page/慎胤祖.md "wikilink")、[ZN](../Page/ZN_\(LABOUM\).md "wikilink")、[NC.A](../Page/NC.A.md "wikilink")、[宜珍](../Page/宜珍_\(SONAMOO\).md "wikilink")、[豫彬](../Page/白豫彬.md "wikilink")、[李玹珠](../Page/李玹珠.md "wikilink")、[李繡至](https://zh.wikipedia.org/wiki/李繡至 "wikilink")。\[2\]\[3\]依規定，該組合將以[KBS所特設的The](https://zh.wikipedia.org/wiki/KBS "wikilink")
 Unit 文化產業專門會社的旗下藝人身份來進行其固定期限的活動。\[4\]2018年5月18日出道，2018年10月12日活動結束。
 
 團名「**UNI.T**」，是意味統一性和融合性的UNITY（英文諧音），作為用一個隊伍（TEAM）來展示最棒的合作意義。\[5\]
@@ -415,6 +415,7 @@ end）》和《난말야（I mean）》兩首歌曲，並於當晚舉行的粉�
 [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
 [Category:2018年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2018年成立的音樂團體 "wikilink")
 [Category:2018年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2018年解散的音樂團體 "wikilink")
+[Category:期間限定團體](https://zh.wikipedia.org/wiki/Category:期間限定團體 "wikilink")
 [Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink")
 [Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink")
 [Category:已解散的韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的韓國女子演唱團體 "wikilink")

@@ -157,7 +157,7 @@ Citadis系列提供略低及[特低地台電車](https://zh.wikipedia.org/wiki/�
 <tr class="odd">
 <td></td>
 <td><p><a href="../Page/高雄市.md" title="wikilink">高雄市</a><a href="../Page/高雄捷運.md" title="wikilink">高雄捷運</a> - <a href="https://zh.wikipedia.org/wiki/環狀輕軌" title="wikilink">環狀輕軌</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:KMRT_Citadis_X05_at_Depot_2018-09-05_01.jpg" title="fig:File:KMRT Citadis X05 at Depot 2018-09-05 01.jpg"><a href="File:KMRT">File:KMRT</a> Citadis X05 at Depot 2018-09-05 01.jpg</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/File:KMRT_Citadis_X05_at_Depot_2018-09-05_01.jpg" title="fig:KMRT_Citadis_X05_at_Depot_2018-09-05_01.jpg">KMRT_Citadis_X05_at_Depot_2018-09-05_01.jpg</a></p></td>
 <td><p>Citadis X05 - Citadis 305</p></td>
 <td></td>
 <td><p>15</p></td>
@@ -169,7 +169,7 @@ Citadis系列提供略低及[特低地台電車](https://zh.wikipedia.org/wiki/�
 <tr class="even">
 <td></td>
 <td><p><a href="../Page/成都市.md" title="wikilink">成都市</a><a href="../Page/成都有轨电车.md" title="wikilink">有轨电车</a> - <a href="../Page/成都有轨电车蓉2号线.md" title="wikilink">蓉2号线</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:A_Train_of_Chengdu_Tram_Line_2_at_The_Crossing.jpg" title="fig:File:A Train of Chengdu Tram Line 2 at The Crossing.jpg"><a href="File:A">File:A</a> Train of Chengdu Tram Line 2 at The Crossing.jpg</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/File:A_Train_of_Chengdu_Tram_Line_2_at_The_Crossing.jpg" title="fig:A_Train_of_Chengdu_Tram_Line_2_at_The_Crossing.jpg">A_Train_of_Chengdu_Tram_Line_2_at_The_Crossing.jpg</a></p></td>
 <td><p>Citadis X02 - Citadis 302</p></td>
 <td></td>
 <td></td>

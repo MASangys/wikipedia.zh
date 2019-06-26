@@ -2780,7 +2780,7 @@ Little Television**》的播出列表，首次出演者以**粗体**标注。
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Highlight_(韓國組合)" title="wikilink"><strong>Highlight</strong></a></p></td>
+<td><p><a href="../Page/Highlight_(韓國組合).md" title="wikilink"><strong>Highlight</strong></a></p></td>
 <td><p>Highlight</p></td>
 <td><p>露营的Highlight</p></td>
 <td><p><a href="../Page/露营.md" title="wikilink">露营</a></p></td>

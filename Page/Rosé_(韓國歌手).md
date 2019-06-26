@@ -17,7 +17,7 @@ Kind](https://zh.wikipedia.org/wiki/One_of_a_Kind "wikilink")》收錄曲《結�
 ### 2016年至今：BLACKPINK
 
 2016年6月，在隨著[YG娛樂接連公佈新女團成員後](../Page/YG娛樂.md "wikilink")，Rosé在6月22日公開，成為[BLACKPINK最終成員](../Page/BLACKPINK.md "wikilink")\[13\]，隨後於同年8月8日正式出道\[14\]，並隨組合發行首張單曲專輯《[Square
-One](../Page/Square_One_\(Black_Pink單曲\).md "wikilink")》\[15\]。
+One](../Page/Square_One_\(BLACKPINK單曲\).md "wikilink")》\[15\]。
 
 ## 音樂作品
 

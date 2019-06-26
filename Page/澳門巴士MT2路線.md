@@ -1,4 +1,4 @@
-**澳門巴士MT2路線**是一條由[澳門公共汽車有限公司經營](https://zh.wikipedia.org/wiki/澳門公共汽車有限公司 "wikilink")，往返**[城市日前地](../Page/城市日前地.md "wikilink")**及**運動場圓形地**的循環線。
+**澳門巴士MT2路線**是一條由**[澳門公共汽車有限公司](https://zh.wikipedia.org/wiki/澳門公共汽車有限公司 "wikilink")**經營，往返**[城市日前地](../Page/城市日前地.md "wikilink")**及**運動場圓形地**的循環線。
 
 ## 歷史
 

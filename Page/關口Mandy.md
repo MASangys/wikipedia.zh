@@ -55,7 +55,7 @@ FANTASY](https://zh.wikipedia.org/wiki/EXILE_LIVE_TOUR_2010_FANTASY "wikilink")�
   - [第一興商](https://zh.wikipedia.org/wiki/第一興商 "wikilink")「[LIVE DAM
     STADIUM](https://zh.wikipedia.org/wiki/DAM_\(カラオケ\) "wikilink")」（2015年）
   - [萬代南夢宮娛樂](https://zh.wikipedia.org/wiki/萬代南夢宮娛樂 "wikilink")「[太鼓之達人](../Page/太鼓之達人系列.md "wikilink")」（2015年）
-  - [軟銀](https://zh.wikipedia.org/wiki/軟銀 "wikilink")「スポナビライブ」（2016年 - ）
+  - [軟銀](../Page/軟銀.md "wikilink")「スポナビライブ」（2016年 - ）
 
 ## 備註
 
@@ -70,6 +70,7 @@ FANTASY](https://zh.wikipedia.org/wiki/EXILE_LIVE_TOUR_2010_FANTASY "wikilink")�
 [Category:美國裔日本人](https://zh.wikipedia.org/wiki/Category:美國裔日本人 "wikilink")
 [Category:放浪兄弟](https://zh.wikipedia.org/wiki/Category:放浪兄弟 "wikilink")
 [Category:LDH](https://zh.wikipedia.org/wiki/Category:LDH "wikilink")
+[Category:日本体育大学校友](https://zh.wikipedia.org/wiki/Category:日本体育大学校友 "wikilink")
 
 1.  2014年4月27日放送『[ブラマヨとゆかいな仲間たち
     アツアツっ\!](https://zh.wikipedia.org/wiki/ブラマヨとゆかいな仲間たち_アツアツっ! "wikilink")』より。

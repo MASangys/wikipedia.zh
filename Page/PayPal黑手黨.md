@@ -39,7 +39,7 @@ PayPal
 
   - [伊隆·馬斯克](https://zh.wikipedia.org/wiki/伊隆·馬斯克 "wikilink")，收購
     Confinity 的公司 X.com
-    創辦人。他後來創辦了[特斯拉汽車和](https://zh.wikipedia.org/wiki/特斯拉汽車 "wikilink")[太空探索科技公司](https://zh.wikipedia.org/wiki/太空探索科技公司 "wikilink")，[SolarCity](https://zh.wikipedia.org/wiki/SolarCity "wikilink")
+    創辦人。他後來創辦了[特斯拉汽車和](https://zh.wikipedia.org/wiki/特斯拉汽車 "wikilink")[太空探索科技公司](https://zh.wikipedia.org/wiki/太空探索科技公司 "wikilink")，[SolarCity](../Page/SolarCity.md "wikilink")
     的主席\[23\]\[24\]\[25\]。
 
   - ，前 PayPal 首席運營官，後來創辦了  和

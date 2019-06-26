@@ -81,7 +81,7 @@ Store下載ZenUI相關程式安裝使用](https://zh.wikipedia.org/wiki/Google_P
   - [Asus ZenFone
     5/5z](https://zh.wikipedia.org/wiki/華碩ZenFone_5_\(2018\) "wikilink")(ZE620KL/ZS620KL)
   - [Asus ZenFone
-    6](https://zh.wikipedia.org/wiki/華碩ZenFone_6_\(2019\) "wikilink")(ZS630KL)
+    6](../Page/華碩ZenFone_6_\(2019\).md "wikilink")(ZS630KL)
   - [ASUS ROG Phone](../Page/ASUS_ROG_Phone.md "wikilink") (ZS600KL)
 
 ### 平板系列

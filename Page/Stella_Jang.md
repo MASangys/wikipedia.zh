@@ -1,4 +1,4 @@
-Stella Jang (韓語：스텔라장，1991年11月18日 \~ )\[1\]，本名蔣星銀
+Stella Jang (韓語：스텔라장，1991年11月18日－)\[1\]，本名蔣星銀
 (韓語：장성은)是[韓國的創作型](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[歌手](../Page/歌手.md "wikilink")。曾於法國留學11年，會使用6國語言。\[2\]
 
 ## 生平
@@ -567,7 +567,7 @@ Stella Jang (韓語：스텔라장，1991年11月18日 \~ )\[1\]，本名蔣星�
 | 年份    | 日期                | 電視台                                                 | 節目名稱                                      | 備註     |
 | ----- | ----------------- | --------------------------------------------------- | ----------------------------------------- | ------ |
 | 2018年 | 11月24日—2019年2月16日 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | [三清洞外婆](../Page/三清洞外婆.md "wikilink")      |        |
-| 2019年 | 5月1日—             | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") | [工作室](../Page/工作室_\(韓國綜藝\).md "wikilink") | \[10\] |
+| 2019年 | 5月1日—6月19日        | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") | [工作室](../Page/工作室_\(韓國綜藝\).md "wikilink") | \[10\] |
 
 ### 參與
 
@@ -727,7 +727,7 @@ Stella Jang (韓語：스텔라장，1991年11月18日 \~ )\[1\]，本名蔣星�
 <tr class="odd">
 <td><p>5月4日</p></td>
 <td></td>
-<td><p>開放的藝術舞台　</p></td>
+<td><p>開放的藝術舞台</p></td>
 <td><p>公演日期：4月10日晚上7點30分開始<br />
 公開放送(蔚山文化藝術會館)[16][17][18]</p></td>
 <td></td>
@@ -737,6 +737,20 @@ Stella Jang (韓語：스텔라장，1991年11月18日 \~ )\[1\]，本名蔣星�
 <td><p><a href="https://zh.wikipedia.org/wiki/EBS" title="wikilink">EBS</a></p></td>
 <td></td>
 <td><p>公演日期：5月2日晚上8點開始[19]</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>6月7日</p></td>
+<td></td>
+<td><p>慰問列車 　</p></td>
+<td><p>[20]</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>6月10日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/tvN" title="wikilink">tvN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大腦性感的時代－問題的男人" title="wikilink">大腦性感的時代－問題的男人</a>　</p></td>
+<td><p>EP211[21]</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -758,7 +772,7 @@ Stella Jang (韓語：스텔라장，1991年11月18日 \~ )\[1\]，本名蔣星�
 <td><p>9月5日</p></td>
 <td><p><a href="../Page/文化廣播公司.md" title="wikilink">MBC</a></p></td>
 <td></td>
-<td><p>擔任DJ[20]</p></td>
+<td><p>擔任DJ[22]</p></td>
 </tr>
 </tbody>
 </table>
@@ -777,37 +791,37 @@ Stella Jang (韓語：스텔라장，1991年11月18日 \~ )\[1\]，本名蔣星�
 <td><p>4月4日</p></td>
 <td></td>
 <td><p>Jang Byeog Jin的Bounce Bounce</p></td>
-<td><p>[21][22]</p></td>
+<td><p>[23][24]</p></td>
 </tr>
 <tr class="even">
 <td><p>10月6日</p></td>
 <td></td>
 <td><p>K-poppin'</p></td>
-<td><p>Hot New Face [23][24]</p></td>
+<td><p>Hot New Face [25][26]</p></td>
 </tr>
 <tr class="odd">
 <td><p>11月2日</p></td>
 <td><p><a href="../Page/文化廣播公司.md" title="wikilink">MBC</a></p></td>
 <td></td>
-<td><p>[25][26]</p></td>
+<td><p>[27][28]</p></td>
 </tr>
 <tr class="even">
 <td><p>11月21日</p></td>
 <td></td>
 <td><p>Jang Byeog Jin的Bounce Bounce</p></td>
-<td><p>[27][28]</p></td>
+<td><p>[29][30]</p></td>
 </tr>
 <tr class="odd">
 <td><p>11月23日</p></td>
 <td></td>
 <td><p>English Go! Go!</p></td>
-<td><p>[29][30]</p></td>
+<td><p>[31][32]</p></td>
 </tr>
 <tr class="even">
 <td><p>12月12日</p></td>
 <td></td>
 <td><p>Seo Jeong Deok的午夜國家</p></td>
-<td><p>[31]</p></td>
+<td><p>[33]</p></td>
 </tr>
 <tr class="odd">
 <td><p>12月17日</p></td>
@@ -838,91 +852,91 @@ Stella Jang (韓語：스텔라장，1991年11月18日 \~ )\[1\]，本名蔣星�
 <td><p>1月1日</p></td>
 <td></td>
 <td><p>週日音樂旅行 POP</p></td>
-<td><p>[32][33]</p></td>
+<td><p>[34][35]</p></td>
 </tr>
 <tr class="even">
 <td><p>1月20日</p></td>
 <td></td>
 <td><p>K-Poppin'</p></td>
-<td><p>[34][35]</p></td>
+<td><p>[36][37]</p></td>
 </tr>
 <tr class="odd">
 <td><p>1月21日</p></td>
 <td></td>
 <td><p>English Go! Go!</p></td>
-<td><p>[36]</p></td>
+<td><p>[38]</p></td>
 </tr>
 <tr class="even">
 <td><p>1月27日</p></td>
 <td></td>
 <td><p>K-Poppin'</p></td>
-<td><p>[37]</p></td>
+<td><p>[39]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2月17日—3月1日</p></td>
 <td><p>Podcast</p></td>
 <td><p>暖男High Season 2</p></td>
-<td><p>[38]</p></td>
+<td><p>[40]</p></td>
 </tr>
 <tr class="even">
 <td><p>2月26日</p></td>
 <td></td>
 <td><p>週日音樂旅行 - 世界音樂，我是Hareem</p></td>
-<td><p>[39]</p></td>
+<td><p>[41]</p></td>
 </tr>
 <tr class="odd">
 <td><p>4月22日—10月8日</p></td>
 <td></td>
 <td><p>我們的幸福時光，我是Stella Jang</p></td>
-<td><p>DJ[40][41]</p></td>
+<td><p>DJ[42][43]</p></td>
 </tr>
 <tr class="even">
 <td><p>5月3日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC_FM4U" title="wikilink">MBC FM4U</a></p></td>
 <td></td>
-<td><p>[42][43]</p></td>
+<td><p>[44][45]</p></td>
 </tr>
 <tr class="odd">
 <td><p>5月5日</p></td>
 <td></td>
 <td><p>金甲洙的My Way</p></td>
-<td><p>[44]</p></td>
+<td><p>[46]</p></td>
 </tr>
 <tr class="even">
 <td><p>5月25日</p></td>
 <td></td>
 <td><p>K-poppin</p></td>
-<td><p>[45][46][47]</p></td>
+<td><p>[47][48][49]</p></td>
 </tr>
 <tr class="odd">
 <td><p>5月27日</p></td>
 <td><p><a href="../Page/文化廣播公司.md" title="wikilink">MBC</a></p></td>
 <td></td>
-<td><p>[48][49]</p></td>
+<td><p>[50][51]</p></td>
 </tr>
 <tr class="even">
 <td><p>5月31日</p></td>
 <td></td>
 <td><p>Park Won的Music WonderLand</p></td>
-<td><p>[50][51]</p></td>
+<td><p>[52][53]</p></td>
 </tr>
 <tr class="odd">
 <td><p>6月7日</p></td>
 <td></td>
 <td></td>
-<td><p>[52][53]</p></td>
+<td><p>[54][55]</p></td>
 </tr>
 <tr class="even">
 <td><p>6月8日</p></td>
 <td></td>
 <td><p>Morning Special</p></td>
-<td><p>[54][55]</p></td>
+<td><p>[56][57]</p></td>
 </tr>
 <tr class="odd">
 <td><p>6月29日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC_FM4U" title="wikilink">MBC FM4U</a></p></td>
 <td></td>
-<td><p>[56][57]</p></td>
+<td><p>[58][59]</p></td>
 </tr>
 <tr class="even">
 <td><p>7月1日</p></td>
@@ -934,55 +948,55 @@ Stella Jang (韓語：스텔라장，1991年11月18日 \~ )\[1\]，本名蔣星�
 <td><p>7月2日</p></td>
 <td></td>
 <td><p>多文化音樂旅遊</p></td>
-<td><p>[58][59]</p></td>
+<td><p>[60][61]</p></td>
 </tr>
 <tr class="even">
 <td><p>7月3日</p></td>
 <td><p>Podcast</p></td>
 <td><p>Mint Radio</p></td>
-<td><p>[60]</p></td>
+<td><p>[62]</p></td>
 </tr>
 <tr class="odd">
 <td><p>7月7日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC_FM4U" title="wikilink">MBC FM4U</a></p></td>
 <td></td>
-<td><p>[61]</p></td>
+<td><p>[63]</p></td>
 </tr>
 <tr class="even">
 <td><p>7月19日</p></td>
 <td></td>
 <td><p>Super K-pop</p></td>
-<td><p>[62][63]</p></td>
+<td><p>[64][65]</p></td>
 </tr>
 <tr class="odd">
 <td><p>7月21日</p></td>
 <td></td>
 <td><p>Band People, Radio Star</p></td>
-<td><p>[64][65]</p></td>
+<td><p>[66][67]</p></td>
 </tr>
 <tr class="even">
 <td><p>8月9日</p></td>
 <td></td>
 <td></td>
-<td><p>[66][67]</p></td>
+<td><p>[68][69]</p></td>
 </tr>
 <tr class="odd">
 <td><p>9月17日</p></td>
 <td></td>
 <td></td>
-<td><p>[68]</p></td>
+<td><p>[70]</p></td>
 </tr>
 <tr class="even">
-<td><p>11月06日</p></td>
+<td><p>11月6日</p></td>
 <td><p>V LIVE CASPER Radio</p></td>
 <td><p>屋頂月光的屋頂收音機</p></td>
-<td><p>EP27[69]</p></td>
+<td><p>EP27[71]</p></td>
 </tr>
 <tr class="odd">
 <td><p>11月28日</p></td>
 <td></td>
 <td></td>
-<td><p>1週年紀念OPEN STUDIO[70]</p></td>
+<td><p>1週年紀念OPEN STUDIO[72]</p></td>
 </tr>
 </tbody>
 </table>
@@ -1014,7 +1028,7 @@ Stella Jang (韓語：스텔라장，1991年11月18日 \~ )\[1\]，本名蔣星�
 <td><p>1月31日</p></td>
 <td></td>
 <td><p>Super K-pop</p></td>
-<td><p>[71][72]</p></td>
+<td><p>[73][74]</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -1068,13 +1082,13 @@ Stella Jang (韓語：스텔라장，1991年11月18日 \~ )\[1\]，本名蔣星�
 <td><p>8月29日</p></td>
 <td></td>
 <td></td>
-<td><p>[73][74]</p></td>
+<td><p>[75][76]</p></td>
 </tr>
 <tr class="odd">
 <td><p>9月12日</p></td>
 <td></td>
 <td><p>Super K-pop</p></td>
-<td><p>[75][76]</p></td>
+<td><p>[77][78]</p></td>
 </tr>
 <tr class="even">
 <td><p>9月23日</p></td>
@@ -1092,7 +1106,7 @@ Stella Jang (韓語：스텔라장，1991年11月18日 \~ )\[1\]，本名蔣星�
 <td><p>11月28日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC_FM4U" title="wikilink">MBC FM4U</a></p></td>
 <td></td>
-<td><p>[77][78]</p></td>
+<td><p>[79][80]</p></td>
 </tr>
 <tr class="odd">
 <td><p>12月13日—至今</p></td>
@@ -1120,14 +1134,15 @@ Stella Jang (韓語：스텔라장，1991年11月18日 \~ )\[1\]，本名蔣星�
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>1月16日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/MBC_FM4U" title="wikilink">MBC FM4U</a></p></td>
+<td><p>1月3日—至今</p></td>
+<td><p><a href="../Page/KBS第2FM.md" title="wikilink">KBS Cool FM</a></p></td>
 <td></td>
-<td></td>
+<td><p>週四固定出演<br />
+除2/14、2/21、3/14、3/21、4/18、5/9、5/16</p></td>
 </tr>
 <tr class="even">
-<td><p>1月17日</p></td>
-<td><p><a href="../Page/KBS第2FM.md" title="wikilink">KBS Cool FM</a></p></td>
+<td><p>1月16日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC_FM4U" title="wikilink">MBC FM4U</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1147,7 +1162,7 @@ Stella Jang (韓語：스텔라장，1991年11月18日 \~ )\[1\]，本名蔣星�
 <td><p>2月2日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC_FM4U" title="wikilink">MBC FM4U</a></p></td>
 <td></td>
-<td><p>春節特別直播《音樂一起走》[79][80]</p></td>
+<td><p>春節特別直播《音樂一起走》[81][82]</p></td>
 </tr>
 <tr class="even">
 <td><p>3月14日</p></td>
@@ -1162,28 +1177,16 @@ Stella Jang (韓語：스텔라장，1991年11月18日 \~ )\[1\]，本名蔣星�
 <td></td>
 </tr>
 <tr class="even">
-<td><p>4月4日</p></td>
-<td><p>| <a href="../Page/KBS第2FM.md" title="wikilink">KBS Cool FM</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>4月17日</p></td>
 <td></td>
 <td><p>Super K-Pop</p></td>
-<td><p>[81][82][83][84]</p></td>
-</tr>
-<tr class="even">
-<td><p>4月18日</p></td>
-<td><p><a href="../Page/KBS第2FM.md" title="wikilink">KBS Cool FM</a></p></td>
-<td></td>
-<td></td>
+<td><p>[83][84][85][86]</p></td>
 </tr>
 <tr class="odd">
 <td><p>4月19日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC_FM4U" title="wikilink">MBC FM4U</a></p></td>
 <td></td>
-<td><p>[85]</p></td>
+<td><p>[87]</p></td>
 </tr>
 <tr class="even">
 <td><p>4月20日</p></td>
@@ -1201,33 +1204,15 @@ Stella Jang (韓語：스텔라장，1991年11月18日 \~ )\[1\]，本名蔣星�
 <td><p>4月29日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/韓國國際廣播電台" title="wikilink">KBS World Radio</a></p></td>
 <td><p>朴正炫的One Fine Day</p></td>
-<td><p>特別DJ[86]</p></td>
+<td><p>特別DJ[88]</p></td>
 </tr>
 <tr class="odd">
-<td><p>rowspan = "2" | 4月30日</p></td>
+<td><p>4月30日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC_FM4U" title="wikilink">MBC FM4U</a></p></td>
 <td></td>
-<td><p>特別DJ[87]</p></td>
+<td><p>特別DJ[89]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/韓國國際廣播電台" title="wikilink">KBS World Radio</a></p></td>
-<td><p>朴正炫的One Fine Day</p></td>
-<td><p>特別DJ[88]</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>5月2日</p></td>
-<td><p><a href="../Page/KBS第2FM.md" title="wikilink">KBS Cool FM</a></p></td>
-<td></td>
-<td><p>[89]</p></td>
-</tr>
-<tr class="even">
-<td><p>5月16日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/韓國國際廣播電台" title="wikilink">KBS World Radio</a></p></td>
-<td><p>朴正炫的One Fine Day</p></td>
-<td><p>特別DJ</p></td>
-</tr>
-<tr class="odd">
 <td><p>5月17日</p></td>
 <td><p><a href="../Page/KBS第2FM.md" title="wikilink">KBS Cool FM</a></p></td>
 <td></td>
@@ -1707,45 +1692,46 @@ Stella Jang (韓語：스텔라장，1991年11月18日 \~ )\[1\]，本名蔣星�
 <td><p>6月1日–2日</p></td>
 <td><p>2019 Rainbow &amp; Music Festival </p></td>
 <td><p>京畿道加平郡鱉島</p></td>
-<td><p>[202][203]</p></td>
+<td><p>FOREST STAGE<br />
+下午3點~3點30分[202][203][204]</p></td>
 </tr>
 <tr class="odd">
 <td><p>6月9日</p></td>
 <td><p>2019 DMZ Peace Train Music Festival </p></td>
 <td><p>江原道 鐵原孤石亭</p></td>
 <td><p>PLAY STAGE<br />
-下午6點10分~6點40分[204][205][206][207][208]</p></td>
+下午6點10分~6點40分[205][206][207][208][209]</p></td>
 </tr>
 <tr class="even">
 <td><p>6月14日</p></td>
 <td><p>2019 桑達公園夜間演唱會 - 濟州 </p></td>
 <td><p>桑達公園</p></td>
-<td><p>Thank you for the music主題[209]</p></td>
+<td><p>Thank you for the music主題[210]</p></td>
 </tr>
 <tr class="odd">
 <td><p>7月2日</p></td>
 <td><p>2019 Matinee Concert<br />
 <PUDDITORIUM的Cinema Brunch Season2> </p></td>
 <td><p>電影殿堂天空劇場</p></td>
-<td><p>[210]</p></td>
+<td><p>[211]</p></td>
 </tr>
 <tr class="even">
 <td><p>7月6日–7日</p></td>
 <td><p>2019 Uuban Music Festival </p></td>
 <td><p>世宗大學Convention Center及大洋Hall</p></td>
-<td><p>[211][212][213][214]</p></td>
+<td><p>[212][213][214][215]</p></td>
 </tr>
 <tr class="odd">
 <td><p>7月20日–21日</p></td>
 <td><p>GREEN PLUGGED DONGHAE 2019 </p></td>
 <td><p>東海 望祥海水浴場</p></td>
-<td><p>[215][216]</p></td>
+<td><p>[216][217]</p></td>
 </tr>
 <tr class="even">
 <td><p>9月28日</p></td>
 <td><p>2019昌原文化FESTA </p></td>
 <td><p>城山藝術廳</p></td>
-<td><p>[217][218][219]</p></td>
+<td><p>[218][219][220]</p></td>
 </tr>
 </tbody>
 </table>
@@ -1994,3 +1980,4 @@ Stella Jang (韓語：스텔라장，1991年11月18日 \~ )\[1\]，本名蔣星�
 217.
 218.
 219.
+220.

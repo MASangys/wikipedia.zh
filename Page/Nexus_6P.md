@@ -28,6 +28,11 @@ Hub）技术，用作处理传感器数据。德国博世的低功耗传感器�
 |    | \-{zh-hans:磨砂银;zh-hk:磨砂銀;zh-tw:鋁灰;}- | Aluminium |       |
 |    | 金色                                   | Gold      |       |
 
+## 赔偿
+
+2017年4月，有用户因Nexus
+6P无限重启问题，向[美国德克萨斯东区联邦地区法院起诉](https://zh.wikipedia.org/wiki/美国德克萨斯东区联邦地区法院 "wikilink")[Google和](../Page/Google.md "wikilink")[华为](../Page/华为.md "wikilink")\[4\]。2019年6月，[原告和Google以及華為達成和解協議](https://zh.wikipedia.org/wiki/原告 "wikilink")，Google和華為針對不同情況的用戶做出相應賠償\[5\]。
+
 ## 参考资料
 
 ## 外部链接
@@ -43,3 +48,6 @@ Hub）技术，用作处理传感器数据。德国博世的低功耗传感器�
 1.
 2.
 3.
+4.  [继Nexus 5X之后
+    Nexus 6P也因无限重启问题遭诉讼](https://www.cnbeta.com/articles/tech/605427.htm)
+5.  [谷歌正式开始补偿Nexus 6P重启门和电池门用户：最高赔400美元](https://news.mydrivers.com/1/630/630522.htm)

@@ -740,7 +740,7 @@ FOX Family Movies為所有年齡層觀眾帶來各大電影公司精彩和全面
 ## 视频点播
 
   - BBC First HD
-  - now 华剧台 (独称Hypp经典台)
+  - now 华剧台 (独称, 預定取代Hypp经典台)
   - Hypp Flicks Plus
   - Top Movies of the week\!
   - Hypp Play
@@ -754,13 +754,16 @@ FOX Family Movies為所有年齡層觀眾帶來各大電影公司精彩和全面
 
   - CNN HD (604频道) (8月开播)
 
+  - [HITS HD](https://zh.wikipedia.org/wiki/Hits_\(电视频道\) "wikilink")
+    (452频道) (9月開播)
+
   - WakuWaku Japan HD (216频道)
 
   - Sony GEM HD (217频道)
 
-  - 东森亚洲台 (235频道)
+  - 东森亚洲台 (234频道)
 
-  - 中天亚洲台 (236频道)
+  - 中天亚洲台 (235频道)
 
   - 东森亚洲新闻台 (261频道)
 
@@ -778,49 +781,40 @@ FOX Family Movies為所有年齡層觀眾帶來各大電影公司精彩和全面
 
   - (456频道)
 
-  - People TV (457频道)
-
-  - HITS (458频道)
-
-  - DIVA HD (459频道)
+  - DIVA HD (457频道)
 
   - ITV Choice HD (475頻道)
 
-  - E\! HD (479频道)
+  - DMAX HD (477频道)
+
+  - E\! HD (478频道)
 
   - Love Nature HD (502頻道)
 
-  - Discovery Channel HD (507频道)
+  - Discovery Channel HD (503频道)
 
-  - Discovery Asia (508频道)
+  - Discovery Asia HD (504频道)
+
+  - Discovery Science HD (505频道)
 
   - [Animal Planet HD](https://zh.wikipedia.org/wiki/動物星球 "wikilink")
-    (509頻道)
+    (506頻道)
 
-  - Asian Food Channel HD (511频道, 预定取代Nat Geo People)
+  - Asian Food Channel HD (513频道)
 
   - TLC HD (514频道)
 
-  - Gusto TV HD (516频道)
+  - Food Network HD (515频道)
 
-  - Food Network HD (517频道)
-
-  - HGTV HD (519频道)
+  - HGTV HD (516频道)
 
   - [HISTORY HD](../Page/歷史頻道.md "wikilink") (522頻道)
 
   - H2 HD (523頻道)
 
+  - CRIME+INVESTIGATION HD (525頻道)
+
   - Makeful HD (529频道，预定取代LUXE.TV HD)
-
-  - [Disney
-    Junior](https://zh.wikipedia.org/wiki/迪斯尼少儿频道\(亚洲\) "wikilink")
-    (556频道)
-
-  - (557频道)
-
-  - [Disney Channel](https://zh.wikipedia.org/wiki/迪斯尼频道 "wikilink")
-    (558频道)
 
   - ZooMoo HD (559频道)
 
@@ -859,30 +853,32 @@ FOX Family Movies為所有年齡層觀眾帶來各大電影公司精彩和全面
 
   - Ten Cricket (712頻道)
 
-**Unifi中文频道(新)**
+**Unifi中文频道**
 
   - Hypp 长城台 (233, 大陆华语综合频道，预定取代now Jelli紫金国际台)
   - 优化影院台 (225, 中文电影频道與本地，新加波，香港，台湾和大陆, 包含日文电影和韩文電影+中文字幕，预定取代now爆谷台)
   - Hypp 黄金台 (231, 香港粤语综合频道, 预定取代now International)
 
+**Unifi馬來語原創頻道**
+
+  - Anak HD (120,馬來兒童頻道)
+  - Panorama HD (123,馬來語配音紀實頻道)
+  - Berita Keris HD (125,馬來語新聞頻道)
+  - Muzik Satu HD (126,馬來語音樂頻道)
+  - Dunia Niaga HD (127,馬來語資訊頻道)
+  - Hypp Komedi HD (129, 馬來語喜劇頻道)
+
 **即將來臨的本地開播頻道**
 
-  -
-  -
+  - TV Okey HD (8月开播)
+  - RTM HD SPORTS
   - ACTV
-
   - ACTV 2
-
   - ACTV 3
-
   - NAM TV
-
   - Syiok TV
-
   - Enjoy TV HD
-
-  - RTM BES1
-
+  - RTM BES HD
   - Caya TV
 
 **即将来临的高清频道**
@@ -973,7 +969,7 @@ FOX Family Movies為所有年齡層觀眾帶來各大電影公司精彩和全面
 | 634 | Channel W HD                                                                            | Unifi TV出品停播。\[9\]                                                                                         |                                                                                                |
 | 741 | Outdoor Channel HD                                                                      | 戶外頻道與Unifi TV終止授權而停播,由FOX Sports HD取代.\[10\]                                                               |                                                                                                |
 | 238 | [now华剧台](https://zh.wikipedia.org/wiki/now华剧台 "wikilink")                               | 2019年3月1日                                                                                                  | now华剧台國際版频道商宣布停播，但以点播形式继续提供。                                                                   |
-| 457 | [Sony Channel HD](../Page/Sony_Channel_\(亞洲\).md "wikilink")                            | 2019年6月1日                                                                                                  | Turner Broadcasting System旗下Sony Channel亞洲地區停播\[11\]                                           |
+| 457 | [Sony Channel HD](../Page/Sony_Channel_\(亞洲\).md "wikilink")                            | 2019年6月1日                                                                                                  | Turner Broadcasting System旗下Sony Channel亞洲地區索尼影视电视停播\[11\]                                     |
 | 711 | MUTV HD                                                                                 | [Manchester United與Unifi](https://zh.wikipedia.org/wiki/Manchester_United_F.C. "wikilink") TV終止授權而停播\[12\] |                                                                                                |
 |     |                                                                                         |                                                                                                            |                                                                                                |
 

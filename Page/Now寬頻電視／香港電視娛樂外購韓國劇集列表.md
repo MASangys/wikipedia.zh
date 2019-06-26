@@ -695,7 +695,7 @@
 <td><p>3月21日</p></td>
 <td><p><a href="../Page/Now_101台.md" title="wikilink">Now 101台</a></p></td>
 <td><p><strong><a href="../Page/Two_Weeks.md" title="wikilink">Two Weeks</a></strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李準基" title="wikilink">李準基</a><br />
+<td><p><a href="../Page/李準基.md" title="wikilink">李準基</a><br />
 <a href="../Page/金素妍.md" title="wikilink">金素妍</a></p></td>
 <td></td>
 <td><p>24</p></td>
@@ -1129,7 +1129,7 @@
 <td><p>4月11日</p></td>
 <td><p><a href="../Page/ViuTV.md" title="wikilink">ViuTV</a></p></td>
 <td><p><strong><a href="../Page/夜行書生.md" title="wikilink">夜行書生</a></strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李準基" title="wikilink">李準基</a><br />
+<td><p><a href="../Page/李準基.md" title="wikilink">李準基</a><br />
 <a href="../Page/李侑菲.md" title="wikilink">李侑菲</a><br />
 <a href="../Page/李洙赫.md" title="wikilink">李洙赫</a><br />
 <a href="https://zh.wikipedia.org/wiki/金昭誾" title="wikilink">金昭誾</a><br />
@@ -1378,7 +1378,7 @@
 <td><p><a href="../Page/ViuTV.md" title="wikilink">ViuTV</a></p></td>
 <td><p><strong><a href="../Page/朝鮮槍手.md" title="wikilink">朝鮮射手</a></strong><br />
 （朝鮮槍手）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李準基" title="wikilink">李準基</a><br />
+<td><p><a href="../Page/李準基.md" title="wikilink">李準基</a><br />
 <a href="../Page/南相美.md" title="wikilink">南相美</a><br />
 <a href="../Page/全慧彬.md" title="wikilink">全慧彬</a><br />
 <a href="../Page/韓周完.md" title="wikilink">韓周完</a><br />
@@ -1878,7 +1878,7 @@
 <td><p>5月11日</p></td>
 <td><p><a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a></p></td>
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/犯罪心理_(韓國電視劇)" title="wikilink">犯罪心理：韓國</a></strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李準基" title="wikilink">李準基</a><br />
+<td><p><a href="../Page/李準基.md" title="wikilink">李準基</a><br />
 <a href="../Page/文彩元.md" title="wikilink">文彩元</a><br />
 <a href="../Page/孫賢周.md" title="wikilink">孫賢周</a></p></td>
 <td></td>
@@ -2251,8 +2251,9 @@
 <a href="../Page/宋慧喬.md" title="wikilink">宋慧喬</a></p></td>
 <td></td>
 <td><p>16（<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
-21（<a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a>）</p></td>
-<td><p>[256][257]</p></td>
+21（<a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a>）<br />
+24（<a href="../Page/ViuTV.md" title="wikilink">ViuTV</a>）</p></td>
+<td><p>[256][257][258]</p></td>
 </tr>
 <tr class="odd">
 <td><p>5月28日</p></td>
@@ -2265,7 +2266,7 @@
 <td></td>
 <td><p>32（<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
 21（<a href="../Page/ViuTV.md" title="wikilink">ViuTV</a>）</p></td>
-<td><p>[258]</p></td>
+<td><p>[259]</p></td>
 </tr>
 <tr class="even">
 <td><p>6月4日</p></td>
@@ -2275,8 +2276,34 @@
 <a href="../Page/千正明.md" title="wikilink">千正明</a></p></td>
 <td></td>
 <td><p>16（<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
+22（<a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a>）</p></td>
+<td><p>[260][261]</p></td>
+</tr>
+<tr class="odd">
+<td><p>6月19日</p></td>
+<td><p><a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a></p></td>
+<td><p><strong><a href="../Page/福秀回來了.md" title="wikilink">福秀回來了</a></strong></p></td>
+<td><p><a href="../Page/俞承豪.md" title="wikilink">俞承豪</a><br />
+<a href="../Page/趙寶兒.md" title="wikilink">趙寶兒</a><br />
+<a href="../Page/郭東延.md" title="wikilink">郭東延</a></p></td>
+<td></td>
+<td><p>32（<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
+21（<a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a>）</p></td>
+<td><p>[262][263]</p></td>
+</tr>
+<tr class="even">
+<td><p>7月10日</p></td>
+<td><p><a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a></p></td>
+<td><p><strong><a href="../Page/Sky_Castle.md" title="wikilink">天空城堡</a></strong></p></td>
+<td><p><a href="../Page/廉晶雅.md" title="wikilink">廉晶雅</a><br />
+<a href="../Page/李泰蘭.md" title="wikilink">李泰蘭</a><br />
+<a href="../Page/尹世雅.md" title="wikilink">尹世雅</a><br />
+<a href="../Page/吳娜拉.md" title="wikilink">吳娜拉</a><br />
+<a href="../Page/金瑞亨.md" title="wikilink">金瑞亨</a></p></td>
+<td></td>
+<td><p>20（<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
 （<a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a>）</p></td>
-<td><p>[259][260]</p></td>
+<td><p>[264][265]</p></td>
 </tr>
 </tbody>
 </table>
@@ -2594,3 +2621,8 @@
 258.
 259.
 260.
+261.
+262.
+263.
+264.
+265.

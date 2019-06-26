@@ -439,7 +439,7 @@ ISBN 978-4-7973-8717-9（限定特裝版）</p></td>
       -
         作詞：藤林聖子，作曲、編曲：，主唱：霧島櫻&如月花憐
 
-### 各話列表
+[山本天志](../Page/山本天志.md "wikilink")=== 各話列表 ===
 
 <table>
 <thead>
@@ -487,7 +487,7 @@ han sung hui</p></td>
 <td><p>第4話</p></td>
 <td></td>
 <td><p>貼身保鑣</p></td>
-<td><p>平林佐和子</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/平林佐和子" title="wikilink">平林佐和子</a></p></td>
 <td><p>島津裕行</p></td>
 <td><p>徐惠真</p></td>
 <td><p>岡辰也、山村俊了</p></td>
@@ -497,7 +497,7 @@ han sung hui</p></td>
 <td></td>
 <td><p>仿造的女孩</p></td>
 <td><p>白根秀樹<br />
-平林佐和子</p></td>
+<a href="https://zh.wikipedia.org/wiki/平林佐和子" title="wikilink">平林佐和子</a></p></td>
 <td><p>中野☆陽</p></td>
 <td><p>安藤健</p></td>
 <td><p>津雄健德、飯飼一幸<br />
@@ -519,7 +519,7 @@ han sung hui</p></td>
 <td><p>被囚的荊姬</p></td>
 <td><p>大內珠帆</p></td>
 <td><p>西島克彥</p></td>
-<td><p>山本天志</p></td>
+<td><p><a href="../Page/山本天志.md" title="wikilink">山本天志</a></p></td>
 <td><p>北川大輔、小園菜穗</p></td>
 </tr>
 <tr class="even">

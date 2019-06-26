@@ -95,7 +95,7 @@ Man](../Page/Running_Man.md "wikilink")》方面發布聲明，宣布[李多熙]
 <small>（1月2日）</small></p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS炭峴製作中心</a><br />
 <small>（<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/高陽市.md" title="wikilink">高陽市</a><br />
-<a href="https://zh.wikipedia.org/wiki/一山西區" title="wikilink">一山西區</a>）</small></p></td>
+<a href="../Page/一山西區.md" title="wikilink">一山西區</a>）</small></p></td>
 <td><p><span style=font-size:110%><strong>年齡告知競賽</strong></span><br />
 <strong>個人戰</strong></span><br />
 劉在錫、全昭旻</span><br />
@@ -327,7 +327,7 @@ Man](../Page/Running_Man.md "wikilink")》方面發布聲明，宣布[李多熙]
   - 有關後續請細閱[**家族團遊計劃 -
     第二部分**及](https://zh.wikipedia.org/wiki/2018年Running_Man節目列表#續・家族團遊計劃（5月） "wikilink")[**家族團遊計劃
     -
-    懲罰部分**](https://zh.wikipedia.org/wiki/2018年Running_Man節目列表#續・Running_Man全球企劃（6月至7月） "wikilink")。
+    挑戰部分**](https://zh.wikipedia.org/wiki/2018年Running_Man節目列表#續・家族團遊計劃（6月至7月） "wikilink")。
 
 <table style="width:10%;">
 <colgroup>
@@ -506,7 +506,7 @@ Man](../Page/Running_Man.md "wikilink")》方面發布聲明，宣布[李多熙]
 <td><p>四位固定出演嘉賓、<a href="../Page/尹誠彬.md" title="wikilink">尹誠彬</a>、</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS炭峴製作中心</a><br />
 <small>（<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/高陽市.md" title="wikilink">高陽市</a><br />
-<a href="https://zh.wikipedia.org/wiki/一山西區" title="wikilink">一山西區</a>）</small></p></td>
+<a href="../Page/一山西區.md" title="wikilink">一山西區</a>）</small></p></td>
 <td><p><span style="font-size:110%"><strong>第36屆Running Man奧運會</strong></span><br />
 <strong><a href="../Page/有舵雪橇.md" title="wikilink">有舵雪橇隊</a></strong><br />
 劉在錫、哈哈、李相燁<br />
@@ -607,7 +607,7 @@ Man](../Page/Running_Man.md "wikilink")》方面發布聲明，宣布[李多熙]
 <td><p>無嘉賓</p></td>
 <td><p>高陽室內體育館<br />
 <small>（<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/高陽市.md" title="wikilink">高陽市</a><br />
-<a href="https://zh.wikipedia.org/wiki/一山西區" title="wikilink">一山西區</a>）</small></p></td>
+<a href="../Page/一山西區.md" title="wikilink">一山西區</a>）</small></p></td>
 <td><p><span style=font-size:110%><strong>年齡告知競賽第二彈</strong></span><br />
 <strong>個人戰</strong><br />
 劉在錫、金鍾國<br />
@@ -652,10 +652,10 @@ Running Man 365 MT</strong></span><br />
 
 #### 續・家族團遊計劃（5月）
 
-  - 有關詳情、**最終選定組合**及**懲罰部分**請細閱[**家族團遊計劃 -
+  - 有關詳情、**最終選定組合**及**挑戰部分**請細閱[**家族團遊計劃 -
     第一部分**及](https://zh.wikipedia.org/wiki/2018年Running_Man節目列表#家族團遊計劃（3月至4月） "wikilink")[**家族團遊計劃
     -
-    懲罰部分**](https://zh.wikipedia.org/wiki/2018年Running_Man節目列表#續・Running_Man全球企劃（6月至7月） "wikilink")。
+    挑戰部分**](https://zh.wikipedia.org/wiki/2018年Running_Man節目列表#續・家族團遊計劃（6月至7月） "wikilink")。
 
 <table style="width:10%;">
 <colgroup>
@@ -759,7 +759,7 @@ Running Man 365 MT</strong></span><br />
 <td><p>無嘉賓</p></td>
 <td><p>高陽室內體育館<br />
 <small>（<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/高陽市.md" title="wikilink">高陽市</a><br />
-<a href="https://zh.wikipedia.org/wiki/一山西區" title="wikilink">一山西區</a>）</small></p></td>
+<a href="../Page/一山西區.md" title="wikilink">一山西區</a>）</small></p></td>
 <td><p><span style=font-size:110%><strong>續・年齡告知競賽第二彈</strong></span><br />
 <strong>個人戰</strong><br />
 沒有隊伍</p></td>
@@ -1131,7 +1131,7 @@ Running Man 365 MT</strong></span><br />
 </tbody>
 </table>
 
-### 常規節目－8周年特輯（8月）
+### 8周年特輯（8月）
 
 Running
 Man成員在比賽中盡力累積超過八張「8」字卡以進入決賽，並於炸彈問答決賽中進行最終比賽。優勝者可以在8天內惡搞其他成員個人檔案的企劃方案，惡搞版於節目播出完結後更新公開。
@@ -1235,7 +1235,7 @@ Jennie、劉在錫、宋智孝、李光洙、梁世燦<br />
 <a href="../Page/郭時暘.md" title="wikilink">郭時暘</a></p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS炭峴製作中心</a><br />
 <small>（<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/高陽市.md" title="wikilink">高陽市</a><br />
-<a href="https://zh.wikipedia.org/wiki/一山西區" title="wikilink">一山西區</a>）</small></p></td>
+<a href="../Page/一山西區.md" title="wikilink">一山西區</a>）</small></p></td>
 <td><p><span style=font-size:110%><strong>out.com競賽</strong></span><br />
 <strong>設計者</strong> | <strong>助力者</strong><br />
 全昭旻 | 郭時暘<br />
@@ -1618,7 +1618,7 @@ Face隊<strong>勝出</strong><br />
 （<a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a>）</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS炭峴製作中心</a><br />
 <small>（<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/高陽市.md" title="wikilink">高陽市</a><br />
-<a href="https://zh.wikipedia.org/wiki/一山西區" title="wikilink">一山西區</a>）</small></p></td>
+<a href="../Page/一山西區.md" title="wikilink">一山西區</a>）</small></p></td>
 <td><p><span style="font-size:110%"><strong>泡菜特輯－泡菜的搭檔是誰呢？</strong></span><br />
 <strong><span style="color:#EECC00">即食麵隊</strong><br />
 劉在錫、梁世燦、娜璉、Momo<br />
@@ -1691,7 +1691,7 @@ Face隊<strong>勝出</strong><br />
 <a href="../Page/韓善伙.md" title="wikilink">韓善伙</a></p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS炭峴製作中心</a><br />
 <small>（<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/高陽市.md" title="wikilink">高陽市</a><br />
-<a href="https://zh.wikipedia.org/wiki/一山西區" title="wikilink">一山西區</a>）</small></p></td>
+<a href="../Page/一山西區.md" title="wikilink">一山西區</a>）</small></p></td>
 <td><p><span style=font-size:110%><strong>聖誕特輯－曖昧聖誕老人情侶競賽</strong></span><br />
 <strong><span style=color:#EECC00>劉在錫、韓善伙</strong><br />
 <strong><span style=color:#2E8B57>池錫辰、全慧彬</strong><br />

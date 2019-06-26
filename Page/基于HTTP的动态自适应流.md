@@ -96,7 +96,8 @@ Extensions](https://zh.wikipedia.org/wiki/Media_Source_Extensions "wikilink")（
   - [Akamai](https://zh.wikipedia.org/wiki/Akamai "wikilink")
     [CDN支持DASH](../Page/內容傳遞網路.md "wikilink")。\[44\]
 
-  - CDN支持DASH。
+  - [Amazon CloudFront](../Page/Amazon_CloudFront.md "wikilink")
+    CDN支持DASH。
 
   - [Azure Media
     Services平台已支持MPEG](../Page/Microsoft_Azure.md "wikilink")-DASH。\[45\]

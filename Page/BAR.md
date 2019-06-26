@@ -50,7 +50,7 @@
   - [巴爾河](https://zh.wikipedia.org/wiki/巴爾河 "wikilink")
   - [巴尔 (科雷兹省)](https://zh.wikipedia.org/wiki/巴尔_\(科雷兹省\) "wikilink")
   - [巴尔 (下莱茵省)](https://zh.wikipedia.org/wiki/巴尔_\(下莱茵省\) "wikilink")
-  - [巴勒迪克](https://zh.wikipedia.org/wiki/巴勒迪克 "wikilink")，舊稱巴爾
+  - [巴勒迪克](../Page/巴勒迪克.md "wikilink")，舊稱巴爾
       - ，神聖羅馬帝國的一部分
 
 ### 伊朗

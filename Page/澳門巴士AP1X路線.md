@@ -8,11 +8,38 @@
   - 2017年6月1日，本路線調整例假日班距，由現時8-15分鐘，改為上午10-15分鐘、下午12-15分鐘，同時實施強制性假日停駛。\[2\]
   - 2019年3月9日，為明確巴士站位置「亞利雅架前地/泉悅」站改名為「信虹花園」站。
 
-## 路線資料
+## 使用車輛
 
-### 使用車輛
+  - [蘇州金龍](https://zh.wikipedia.org/wiki/蘇州金龍 "wikilink")（海格）KLQ6108GQ30
+  - [蘇州金龍](https://zh.wikipedia.org/wiki/蘇州金龍 "wikilink")（海格）KLQ6108GQ28
 
-[蘇州金龍](https://zh.wikipedia.org/wiki/蘇州金龍 "wikilink")（海格）KLQ6108GQ28
+<div class="NavFrame collapsed" style="clear: both; border: 1px solid #999; margin: 0 auto; padding: 0 10px; text-align: left;">
+
+<div class="NavHead" style="background-color: #FED220; margin: 0 auto; padding: 0 10px; text-align: center; font-weight: bold;color:#00B0F0">
+
+新福利本線掛牌車輛列表
+
+</div>
+
+<div class="NavContent" style="margin: 0 auto; padding: 0 10px;">
+
+|          |          |                        |
+| -------- | -------- | ---------------------- |
+| **車牌**   | **車隊編號** | **備註**                 |
+| MP-58-16 | K178     | 也在AP1掛牌。               |
+| MP-60-10 | K179     | 也在AP1掛牌。               |
+| MP-58-57 | K180     | 也在AP1掛牌。               |
+| MP-58-08 | K181     | 也在34掛牌。                |
+| MP-63-95 | K223     | 使用新款电牌及蓝斯报站系统；也在AP1掛牌。 |
+| MP-63-75 | K228     | 使用新款电牌及蓝斯报站系统。         |
+| MP-63-92 | K235     | 使用新款电牌及蓝斯报站系统；也在AP1掛牌。 |
+| MP-63-59 | K236     | 使用新款电牌及蓝斯报站系统；也在AP1掛牌。 |
+
+</div>
+
+</div>
+
+## 路綫資料
 
 ### 收費
 
@@ -65,19 +92,19 @@
 
 [Macau_bus_route_AP1X.jpg](https://zh.wikipedia.org/wiki/File:Macau_bus_route_AP1X.jpg "fig:Macau_bus_route_AP1X.jpg")
 
-|          |                                                       |
-| :------: | :---------------------------------------------------: |
-| **AP1X** |                   **關閘** ↺ **澳門機場**                   |
-|    編號    |                          循環線                          |
-|    1     |      [關閘廣場](../Page/關閘廣場_\(巴士站\).md "wikilink")       |
-|    2     |                       北安大馬路／新城區                       |
-|    3     |                       北安出入境事務廳                        |
-|    4     | [澳門機場](https://zh.wikipedia.org/wiki/澳門機場 "wikilink") |
-|    5     |        偉龍／[科技大學](../Page/澳門科技大學.md "wikilink")        |
-|    6     |          [信虹花園](../Page/信虹花园站.md "wikilink")          |
-|    7     |                       海灣花園／海城閣                        |
-|    8     |                          海上居                          |
-|    9     |      [關閘廣場](../Page/關閘廣場_\(巴士站\).md "wikilink")       |
+|          |                                                              |
+| :------: | :----------------------------------------------------------: |
+| **AP1X** |                      **關閘** ↺ **澳門機場**                       |
+|    編號    |                             循環線                              |
+|    1     |        M9 [關閘廣場](../Page/關閘廣場_\(巴士站\).md "wikilink")         |
+|    2     |                        T316 北安大馬路／新城區                        |
+|    3     |                       T354/2 北安出入境事務廳                        |
+|    4     | T356/2 [澳門機場](https://zh.wikipedia.org/wiki/澳門機場 "wikilink") |
+|    5     |         T373 偉龍／[科技大學](../Page/澳門科技大學.md "wikilink")         |
+|    6     |          T314/2 [信虹花園](../Page/信虹花园站.md "wikilink")          |
+|    7     |                        T343 海灣花園／海城閣                         |
+|    8     |                           M247 海上居                           |
+|    9     |        M9 [關閘廣場](../Page/關閘廣場_\(巴士站\).md "wikilink")         |
 
 ## 參考資料
 

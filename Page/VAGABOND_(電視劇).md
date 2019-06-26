@@ -4,11 +4,11 @@
 
 ## 劇情介紹
 
-車達建([李昇基飾](../Page/李昇基.md "wikilink"))是一位以武打明星[成龍為人生偶像的動作替身演員](../Page/成龍.md "wikilink")，他是擅長跆拳道、巴西柔術、柔道、劍道、拳擊等綜合武術18段的高手。藝高人膽大，是業界冉冉升起的新星。他因民航客機墜毀意外中失去了侄子，更無意間發現了到國際恐怖份子的陰謀。
+車達健([李昇基飾](../Page/李昇基.md "wikilink"))是一位以武打明星[成龍為人生偶像的動作替身演員](../Page/成龍.md "wikilink")，他是擅長跆拳道、巴西柔術、柔道、劍道、拳擊等綜合武術18段的高手。藝高人膽大，是業界冉冉升起的新星。他因民航客機墜毀意外中失去了侄子，更無意間發現了到國際恐怖份子的陰謀。
 
 高海麗([裴秀智飾](https://zh.wikipedia.org/wiki/裴秀智 "wikilink"))是海軍陸戰隊中校高強哲長女，父親離世後由她一肩挑起家庭生活的重擔，進入國情院成為7級公務員。在接受各種高強度培訓後，她從白色要員轉身為黑色要員。
 
-車達建和高海麗在摩洛哥邂逅，身懷絕技的兩人決定合作尋找此次墜機事件的真相，卻也因此不小心捲入了一場陰謀，兩人也開啟了困難重重的冒險旅程。
+車達健和高海麗在摩洛哥邂逅，身懷絕技的兩人決定合作尋找此次墜機事件的真相，卻也因此不小心捲入了一場陰謀，兩人也開啟了困難重重的冒險旅程。
 
 ## 演員陣容
 
@@ -17,17 +17,17 @@
 |                                                     |        |               |
 | --------------------------------------------------- | ------ | ------------- |
 | **演員**                                              | **角色** | **介紹**        |
-| [李昇基](../Page/李昇基.md "wikilink")                    | 車達建    | 精通多種武藝的職業替身演員 |
+| [李昇基](../Page/李昇基.md "wikilink")                    | 車達健    | 精通多種武藝的職業替身演員 |
 | [裴秀智](https://zh.wikipedia.org/wiki/裴秀智 "wikilink") | 高海麗    | 國家情報院情報員      |
 |                                                     |        |               |
 
 ### 青瓦台
 
-<table style="width:70%;">
+<table style="width:56%;">
 <colgroup>
-<col style="width: 12%" />
-<col style="width: 12%" />
-<col style="width: 44%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 35%" />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -47,7 +47,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/金旻鍾.md" title="wikilink">金旻鍾</a></p></td>
-<td><p>尹漢基</p></td>
+<td><p>尹韓基</p></td>
 <td><p>民政首席室秘書長</p></td>
 </tr>
 <tr class="odd">
@@ -70,28 +70,28 @@
 | **演員**                           | **角色** | **介紹**     |
 | [申成祿](../Page/申成祿.md "wikilink") | 奇太雄    | 國情院情報組長    |
 | [李基英](../Page/李基英.md "wikilink") | 姜周哲    | 國情院復任室長    |
-| [鄭滿植](../Page/鄭滿植.md "wikilink") | 閔在石    | 國情院監察室長    |
+| [鄭滿植](../Page/鄭滿植.md "wikilink") | 閔宰植    | 國情院監察室長    |
 | [黃寶羅](../Page/黃寶羅.md "wikilink") | 孔華淑    | 國情院規劃協調室職員 |
-| [申承煥](../Page/申承煥.md "wikilink") | 金世勛    | 國情院職員      |
+| [申承煥](../Page/申承煥.md "wikilink") | 金世勳    | 國情院職員      |
 |                                  |        |            |
 
 ### John Ann McKesson
 
-|                                                     |             |        |
-| --------------------------------------------------- | ----------- | ------ |
-| **演員**                                              | **角色**      | **介紹** |
-| [文晶熙](../Page/文晶熙.md "wikilink")                    | Jessica Lee | 亞洲擔當社長 |
-| [金正鉉](../Page/金正鉉_\(1976年\).md "wikilink")          | 洪勝範         | 律師     |
-| [孫智安](https://zh.wikipedia.org/wiki/孫智安 "wikilink") | 麗           |        |
-|                                                     |             |        |
+|                                                        |             |        |
+| ------------------------------------------------------ | ----------- | ------ |
+| **演員**                                                 | **角色**      | **介紹** |
+| [文晶熙](../Page/文晶熙.md "wikilink")                       | Jessica Lee | 亞洲擔當社長 |
+| [金正鉉](../Page/金正鉉_\(1976年\).md "wikilink")             | 洪勝範         | 律師     |
+| [孫智安](https://zh.wikipedia.org/wiki/孫智安 "wikilink") () | 麗           |        |
+|                                                        |             |        |
 
 ### 其他人物
 
-<table style="width:70%;">
+<table style="width:56%;">
 <colgroup>
-<col style="width: 12%" />
-<col style="width: 12%" />
-<col style="width: 44%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 35%" />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -100,42 +100,62 @@
 <td><p><strong>介紹</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/高奎弼" title="wikilink">高奎弼</a></p></td>
+<td></td>
+<td><p>車</p></td>
+<td><p>車達健的侄兒</p></td>
+</tr>
+<tr class="odd">
+<td></td>
 <td><p>朴光德</p></td>
 <td><p>格鬥體育館館長</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/李璟榮.md" title="wikilink">李璟榮</a></p></td>
 <td><p>Edward Park</p></td>
 <td><p>奇太雄父親，武器說客組織D.K.P成員</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/柳垣.md" title="wikilink">柳垣</a></p></td>
 <td><p>Micky</p></td>
 <td><p>神秘的軍火商說客</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>金宇基</p></td>
 <td><p>B357客機副機長</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/姜京憲.md" title="wikilink">姜京憲</a></p></td>
 <td><p>吳尚美</p></td>
 <td><p>金宇基的妻子</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>Lily</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>金浩植</p></td>
 <td><p>摩洛哥大使館職員</p></td>
 </tr>
+<tr class="even">
+<td></td>
+<td><p>金道守</p></td>
+<td><p>傭兵</p></td>
+</tr>
 <tr class="odd">
 <td></td>
+<td><p>徐英智</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/李成宰.md" title="wikilink">李成宰</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -149,16 +169,16 @@
 
 ### 特別出演
 
-|                                  |        |              |          |
-| -------------------------------- | ------ | ------------ | -------- |
-| **演員**                           | **角色** | **介紹**       | **出演集數** |
-| [全智賢](../Page/全智賢.md "wikilink") |        |              |          |
-| [陸星材](../Page/陸星材.md "wikilink") |        |              |          |
-| [車勝元](../Page/車勝元.md "wikilink") |        |              |          |
-| [盛駿](../Page/盛駿.md "wikilink")   |        |              |          |
-| [劉東根](../Page/劉東根.md "wikilink") |        |              |          |
-| 劉太旿 (유태오)                        |        | B357客機上的恐怖份子 |          |
-|                                  |        |              |          |
+|                                                        |        |              |          |
+| ------------------------------------------------------ | ------ | ------------ | -------- |
+| **演員**                                                 | **角色** | **介紹**       | **出演集數** |
+| [全智賢](../Page/全智賢.md "wikilink")                       |        |              |          |
+| [陸星材](../Page/陸星材.md "wikilink")                       |        |              |          |
+| [車勝元](../Page/車勝元.md "wikilink")                       |        |              |          |
+| [盛駿](../Page/盛駿.md "wikilink")                         |        |              |          |
+| [劉東根](../Page/劉東根.md "wikilink")                       |        |              |          |
+| [劉太旿](https://zh.wikipedia.org/wiki/劉太旿 "wikilink") () | 宰慕     | B357客機上的恐怖份子 |          |
+|                                                        |        |              |          |
 
 ## 原聲帶
 
@@ -190,7 +210,7 @@
 ## 外部連結
 
   - [韓國SBS官方網站](http://programs.sbs.co.kr/drama/vagabond)
-  - [浪客行-DAUM](https://web.archive.org/web/20180626001502/http://movie.daum.net/tv/main?tvProgramId=82585)
+  - [浪客行-DAUM](https://m.search.daum.net/search?w=tv&q=%EB%B0%B0%EA%B0%80%EB%B3%B8%EB%93%9C&rtmaxcoll=TVP&irk=82585&irt=tv-program&DA=TVP)
   - [浪客行-NAVER](http://m.entertain.naver.com/tvBrand/6487748)
 
 [Category:2019年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2019年韓國電視劇集 "wikilink")

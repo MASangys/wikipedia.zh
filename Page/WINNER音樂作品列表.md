@@ -237,7 +237,7 @@ S/S](https://zh.wikipedia.org/wiki/2014_S/S "wikilink")》在2014年8月17日正
 <td><p>—</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/MILLIONS" title="wikilink">MILLIONS</a></p></td>
+<td><p><a href="../Page/MILLIONS.md" title="wikilink">MILLIONS</a></p></td>
 <td><ul>
 <li>發行日期：2018年12月19日</li>
 <li>製作公司：<a href="../Page/YG娛樂.md" title="wikilink">YG娛樂</a></li>

@@ -102,9 +102,9 @@ WARS！](../Page/RAIL_WARS!_-日本國有鐵道公安隊-.md "wikilink")》、�
 <td><p>江古田ちゃん}}</p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="../Page/女高中生的虛度日常.md" title="wikilink">女高中生的虛度日常</a></p></td>
 <td></td>
-<td></td>
-<td><p>7月－</p></td>
+<td><p>7月5日－</p></td>
 <td></td>
 <td></td>
 <td></td>

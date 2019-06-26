@@ -23,7 +23,9 @@ WILD）是[OLM製作的](../Page/OLM.md "wikilink")[日本](../Page/日本.md "w
   -
     自由團成員，拍檔是突擊三角龍。
   -
-    自由團成員，拍檔是狩獵蒼狼。
+    自由團成員，拍檔是狩獵蒼狼。索斯獸賞金獵人。
+  -
+    自由團成員，拍檔是死亡蜘蛛。
 
 ### Supreme團
 
@@ -633,7 +635,7 @@ Jo Young Joo</p></td>
 <tr class="even">
 <td><p>第30話</p></td>
 <td></td>
-<td></td>
+<td><p>心中的痛楚，過去與毒針</p></td>
 <td><p>筆安一幸</p></td>
 <td><p>內藤明吾</p></td>
 <td><p>津田義三</p></td>
@@ -644,7 +646,7 @@ Jo Young Joo</p></td>
 <tr class="odd">
 <td><p>第31話</p></td>
 <td></td>
-<td></td>
+<td><p>爭奪！大遺跡的秘寶</p></td>
 <td><p>赤尾凸</p></td>
 <td><p>上原秀明</p></td>
 <td><p>In Tae Sun<br />
@@ -656,7 +658,7 @@ Jo Yong Joo</p></td>
 <tr class="even">
 <td><p>第32話</p></td>
 <td></td>
-<td></td>
+<td><p>男人的志氣！不可以輸的兩個人</p></td>
 <td><p>十川誠志</p></td>
 <td><p>砂和寬德</p></td>
 <td></td>
@@ -832,6 +834,53 @@ Joung Jin Young</p></td>
 <td><p>村上李香<br />
 本田隆</p></td>
 <td></td>
+</tr>
+<tr class="even">
+<td><p>第46話</p></td>
+<td></td>
+<td></td>
+<td><p>加藤還一</p></td>
+<td><p>紅優</p></td>
+<td></td>
+<td><p>相原理沙<br />
+漢人寬子<br />
+宇都木勇</p></td>
+<td><p>高橋瑞香</p></td>
+</tr>
+<tr class="odd">
+<td><p>第47話</p></td>
+<td></td>
+<td></td>
+<td><p>十川誠志</p></td>
+<td><p>砂和寬德</p></td>
+<td><p>腰繁男</p></td>
+<td><p>北島勇樹<br />
+壽夢龍<br />
+江原小百合<br />
+宇都木勇</p></td>
+<td><p>村上李香</p></td>
+</tr>
+<tr class="even">
+<td><p>第48話</p></td>
+<td></td>
+<td></td>
+<td><p>赤尾凸</p></td>
+<td><p>飯島正勝</p></td>
+<td><p>中野彰子</p></td>
+<td><p>高橋瑞香<br />
+本田隆<br />
+村上李香</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第49話</p></td>
+<td></td>
+<td></td>
+<td><p>廣田光毅</p></td>
+<td><p>紅優</p></td>
+<td><p>粟井重紀</p></td>
+<td><p>田內亞矢子</p></td>
+<td><p>村上李香</p></td>
 </tr>
 </tbody>
 </table>

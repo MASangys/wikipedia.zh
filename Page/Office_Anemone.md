@@ -1,5 +1,5 @@
 **株式會社Office
-Anemone**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[港區](../Page/港區_\(東京都\).md "wikilink")\[1\]的[聲優](../Page/聲優.md "wikilink")、[演員經紀公司](https://zh.wikipedia.org/wiki/演員 "wikilink")。
+Anemone**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[港區](../Page/港區_\(東京都\).md "wikilink")\[1\]的[聲優](../Page/聲優.md "wikilink")、[演員經紀公司](../Page/演員.md "wikilink")。
 
 ## 概要
 

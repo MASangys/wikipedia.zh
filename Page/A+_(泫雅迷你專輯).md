@@ -16,7 +16,7 @@ Teaser」（全輯音源搶先聽）\[3\]。
 8月20日，於4Minute官方Youtube頻道發布主打歌 "잘나가서 그래 (Feat. 정일훈 Of BTOB)"
 的Teaser，並於[M\!
 Countdown舞台回歸](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")，表演〈Ice
-Ice〉由[MAMAMOO的](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")[華莎唱](../Page/華莎.md "wikilink")的部分以及主打歌〈Roll
+Ice〉由[MAMAMOO的](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")[華莎唱](../Page/華莎.md "wikilink")[陸智譚的部分以及主打歌](https://zh.wikipedia.org/wiki/陸智譚 "wikilink")〈Roll
 Deep〉（ft. 鄭鎰勳）\[4\]\[5\]。
 
 8月21日，韓國時間中午12點，於4Minute官方Youtube頻道發布主打歌 "잘나가서 그래 (Feat. 정일훈 Of BTOB)"

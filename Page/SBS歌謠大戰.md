@@ -429,12 +429,12 @@ Awards Festival」（SAF）的一部分後附設頒獎環節\[1\]。
 <tr class="even">
 <td><p>熱門歌曲表演</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/NCT_Dream" title="wikilink">NCT Dream</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Chewing_Gum" title="wikilink">Chewing Gum</a></p></td>
+<td><p><a href="../Page/Chewing_Gum.md" title="wikilink">Chewing Gum</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>熱門歌曲表演</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/NCT_U" title="wikilink">NCT U</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/The_7th_Sense" title="wikilink">The 7th Sense</a></p></td>
+<td><p><a href="../Page/The_7th_Sense.md" title="wikilink">The 7th Sense</a></p></td>
 </tr>
 <tr class="even">
 <td><p>熱門歌曲表演</p></td>
@@ -911,7 +911,7 @@ No oh oh + Winter Story[11]</p></td>
 <tr class="odd">
 <td><p>限定合作舞台</p></td>
 <td><p><a href="../Page/志效.md" title="wikilink">志效</a>（<a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a>）× <a href="../Page/陸星材.md" title="wikilink">陸星材</a>（<a href="../Page/BTOB.md" title="wikilink">BTOB</a>）× <a href="../Page/Rosé_(韓國歌手).md" title="wikilink">Rosé</a>（<a href="../Page/BLACKPINK.md" title="wikilink">BLACKPINK</a>）×<br />
-<a href="../Page/Yuju.md" title="wikilink">Yuju</a>（<a href="../Page/GFRIEND.md" title="wikilink">GFRIEND</a>）× <a href="https://zh.wikipedia.org/wiki/金在奐" title="wikilink">金在奐</a>（<a href="https://zh.wikipedia.org/wiki/Wanna_One" title="wikilink">Wanna One</a>）</p></td>
+<a href="../Page/Yuju.md" title="wikilink">Yuju</a>（<a href="../Page/GFRIEND.md" title="wikilink">GFRIEND</a>）× <a href="../Page/金在奐.md" title="wikilink">金在奐</a>（<a href="https://zh.wikipedia.org/wiki/Wanna_One" title="wikilink">Wanna One</a>）</p></td>
 <td><p>Butterfly（原唱：<a href="https://zh.wikipedia.org/wiki/狂戀樂團" title="wikilink">狂戀樂團</a>）[63]</p></td>
 </tr>
 <tr class="even">
@@ -1135,7 +1135,7 @@ No oh oh + Winter Story[11]</p></td>
 <tr class="even">
 <td><p>限定合作舞台</p></td>
 <td><p><a href="../Page/林在範.md" title="wikilink">JB</a>（<a href="../Page/GOT7.md" title="wikilink">GOT7</a>）× <a href="../Page/姜昇潤.md" title="wikilink">昇潤</a>（<a href="../Page/WINNER.md" title="wikilink">WINNER</a>）× <a href="https://zh.wikipedia.org/wiki/李碩珉" title="wikilink">DK</a>（<a href="../Page/Seventeen_(組合).md" title="wikilink">SEVENTEEN</a>）×<br />
-<a href="../Page/道英.md" title="wikilink">道英</a>（<a href="../Page/NCT.md" title="wikilink">NCT</a>）× <a href="https://zh.wikipedia.org/wiki/金在奐" title="wikilink">在奐</a>（<a href="https://zh.wikipedia.org/wiki/Wanna_One" title="wikilink">Wanna One</a>）</p></td>
+<a href="../Page/道英.md" title="wikilink">道英</a>（<a href="../Page/NCT.md" title="wikilink">NCT</a>）× <a href="../Page/金在奐.md" title="wikilink">在奐</a>（<a href="https://zh.wikipedia.org/wiki/Wanna_One" title="wikilink">Wanna One</a>）</p></td>
 <td><p>Don't Stop Me Now（原唱：<a href="https://zh.wikipedia.org/wiki/皇后樂團" title="wikilink">皇后樂團</a>）</p></td>
 </tr>
 <tr class="odd">

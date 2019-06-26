@@ -25,13 +25,19 @@ KKA-3179.jpg|[臺北客運KKA](../Page/臺北客運.md "wikilink")-3179
 307.jpg|[首都客運KKA](../Page/首都客運.md "wikilink")-0057
 <File:大都會客運2018> HINO HS8JRVL-UTF 弘鉅車體 KKA-0656
 823.jpg|[大都會客運KKA](../Page/大都會客運.md "wikilink")-0656
+<File:台中客運35路KKA-6265.jpg>|[台中客運KKA](https://zh.wikipedia.org/wiki/台中客運 "wikilink")-6265
 
   - 固亞車體
 
+<File:KKA-1973> 臺北客運 701路 迴龍→西門 捷運府中站(府中路)
+20180519.jpg||[臺北客運KKA](../Page/臺北客運.md "wikilink")-1973
 <File:大都會客運2017> HINO HS8JRVL-UTF 固亞車體
 KKA-0312.jpg|[大都會客運KKA](../Page/大都會客運.md "wikilink")-0312
 <File:20180402> 091550
 KKA-2591.jpg|[新店客運KKA](https://zh.wikipedia.org/wiki/新店客運 "wikilink")-2591
+<File:FAD-619> 桃園客運國瑞日野低地板.jpg|[桃園客運FAD](../Page/桃園客運.md "wikilink")-619
+<File:台中客運>
+KKA-6163.jpg|[台中客運KKA](https://zh.wikipedia.org/wiki/台中客運 "wikilink")-6163
 
   - 馨盛車體
 
@@ -40,6 +46,23 @@ KKA-2591.jpg|[新店客運KKA](https://zh.wikipedia.org/wiki/新店客運 "wikil
 低地板.jpg|[欣欣客運KKA](https://zh.wikipedia.org/wiki/欣欣客運 "wikilink")-0573
 <File:HINO> - HS8JRVL -
 KKA-0580.jpg|[大南汽車KKA](https://zh.wikipedia.org/wiki/大南汽車 "wikilink")-0580
+<File:088-V3> HINO HS8JRVL-UTF
+低地板.JPG|[南台灣客運](https://zh.wikipedia.org/wiki/南台灣客運 "wikilink")088-V3
+
+  - 協億車體
+
+<File:新竹客運協億HINO低地板> 370-U7.jpg|[新竹客運](../Page/新竹客運.md "wikilink")370-U7
+<File:2018_Hino_HS8JRVL-UTF_389-U7.png>|[新竹客運](../Page/新竹客運.md "wikilink")389-U7
+<File:2019_Hino_HS8JRVL-UTF_FAD-232.png>|[新竹客運FAD](../Page/新竹客運.md "wikilink")-232
+
+  - 鉅巃車體
+
+<File:2017_Hino_HS8JRVL-UTF_FAE-628.jpg>|[彰化客運FAE](../Page/彰化客運.md "wikilink")-628
+
+  - 台松車體
+
+<File:基隆市公車處> 2016 HS8JRVL-UTF 262-U6
+102.jpg|[基隆市公車處](https://zh.wikipedia.org/wiki/基隆市公車處 "wikilink")262-U6
 
   - 金龍汽車(敦峰)
 

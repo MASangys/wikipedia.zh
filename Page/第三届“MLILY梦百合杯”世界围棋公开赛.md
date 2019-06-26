@@ -216,7 +216,7 @@
 
 ## 外部链接
 
-  - [第三届梦百合杯，中国棋牌网](http://www.qipai.org.cn/web/topic/mbh2017)
+  - [第三届梦百合杯，中国棋牌网](https://web.archive.org/web/20170427103327/http://www.qipai.org.cn/web/topic/mbh2017)
 
 [Category:国际围棋比赛](https://zh.wikipedia.org/wiki/Category:国际围棋比赛 "wikilink")
 

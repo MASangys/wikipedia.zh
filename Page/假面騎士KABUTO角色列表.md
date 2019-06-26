@@ -64,7 +64,8 @@
     第43話阻止天道讓鐵假面男殺掉自己以帶日和回到現實世界的想法。
     第48話不相信天道的話並跟天道對戰和戰勝。
     第49話跟天道擊敗變成原蟲三島正人。同話戰爭結束後，當了一名善良的普通警察。
-    於後作[幪面超人時王第](https://zh.wikipedia.org/wiki/幪面超人時王 "wikilink")37話再次登場。
+    於後作[假面騎士ZI-O第](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")37-38話再次登場,在第38話取得**Kabuto**的資格
+    。
 
 **矢車想**（）（[德山秀典飾](../Page/德山秀典.md "wikilink")／香港配音：[梁偉德](../Page/梁偉德.md "wikilink")／台灣配音：[宋克軍](../Page/宋克軍.md "wikilink")）
 
@@ -79,7 +80,7 @@
     第35話起把影山瞬視為弟弟，親密無間地一起行動。而且還是帶點搞笑的地獄兄弟。
     第40話一度想保護回復人心的間宮麗奈但反被間宮麗奈攻擊。
     第48話擊倒變成原蟲的影山瞬。
-    於後作[幪面超人時王第](https://zh.wikipedia.org/wiki/幪面超人時王 "wikilink")37話再次登場。
+    於後作[假面騎士ZI-O第](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")37-38話再次登場。
     此外，德山秀典後參演2008年戰隊系列第32作「[炎神戰隊轟音者](../Page/炎神戰隊轟音者.md "wikilink")」，飾演**轟音金-須塔大翔**。
 
 **影山瞬**（）（[內山真人飾](../Page/內山真人.md "wikilink")／香港配音：[張裕東](https://zh.wikipedia.org/wiki/張裕東 "wikilink")／台灣配音：[陳宏瑋](../Page/陳宏瑋.md "wikilink")）
@@ -98,7 +99,7 @@
     Hopper，之後一直與矢車形影不離地行動。
     第44話再次變身成**TheBee**。
     第48話因拿了ZECT可偵測出異蟲的項鍊，認為只要戴上項鍊，便能夠偵測異蟲。但原來這項鍊表面上是為了偵測宇蟲，實際上是為了令人類變成原蟲的圈套。自己亦因此中了ZECT的圈套而變成原蟲，讓矢車擊倒自己，安祥地逝去。
-    於後作[幪面超人時王等](https://zh.wikipedia.org/wiki/幪面超人時王 "wikilink")37話再次登場。\[1\]
+    於後作[假面騎士ZI-O等](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")37-38話再次登場。\[1\]
     在2004年演出奧特曼納克斯,第三任適能者千樹憐
 
 **風間大介**（）（[加藤和樹飾](../Page/加藤和樹.md "wikilink")／香港配音：[黃啟昌](https://zh.wikipedia.org/wiki/黃啟昌 "wikilink")／台灣配音：[李世揚](../Page/李世揚.md "wikilink")）

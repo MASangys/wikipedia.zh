@@ -82,6 +82,8 @@ Music」。\[1\]
     Music](../Page/Brand_New_Music.md "wikilink")，以[MXM](../Page/MXM_\(男子音樂組合\).md "wikilink"),[AB6IX出道](../Page/AB6IX.md "wikilink")）
   - 崔栽佑（[PRODUCE
     101第二季](https://zh.wikipedia.org/wiki/PRODUCE_101第二季 "wikilink")，轉投J-Flo娛樂，以藝名**崔智眼**在[NewKidd出道](../Page/NewKidd.md "wikilink")）
+  - 文俊浩（曾以練習生身分試鏡[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")\[3\]，轉投[Woollim娛樂參加](../Page/Woollim娛樂.md "wikilink")[PRODUCE
+    X 101](../Page/PRODUCE_X_101.md "wikilink")）
 
 ## 註解
 
@@ -110,3 +112,4 @@ Music」。\[1\]
 
 1.
 2.
+3.  [1](https://www.youtube.com/watch?v=dj2nv7YDNOs)

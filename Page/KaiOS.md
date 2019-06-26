@@ -30,7 +30,7 @@ Codeville任[首席执行官](../Page/首席执行官.md "wikilink")，并在其
 
 截至2018年2月，KaiOS
 Technologies已与、[Facebook](../Page/Facebook.md "wikilink")、[Google](../Page/Google.md "wikilink")、[Twitter](../Page/Twitter.md "wikilink")、、、[HMD
-Global](../Page/HMD_Global.md "wikilink")、、[恩智浦半导体](../Page/恩智浦半导体.md "wikilink")、[展讯](../Page/展讯.md "wikilink")、[高通](../Page/高通.md "wikilink")、、[Sprint](../Page/Sprint.md "wikilink")、[AT\&T](../Page/AT&T.md "wikilink")、[T-Mobile达成合作](../Page/T-Mobile.md "wikilink")。\[16\]\[17\]
+Global](../Page/HMD_Global.md "wikilink")、[Micromax](https://zh.wikipedia.org/wiki/Micromax_Informatics "wikilink")、[恩智浦半导体](../Page/恩智浦半导体.md "wikilink")、[展讯](../Page/展讯.md "wikilink")、[高通](../Page/高通.md "wikilink")、、[Sprint](../Page/Sprint.md "wikilink")、[AT\&T](../Page/AT&T.md "wikilink")、[T-Mobile达成合作](../Page/T-Mobile.md "wikilink")。\[16\]\[17\]
 
 ## 发布历史
 
@@ -43,8 +43,7 @@ Global](../Page/HMD_Global.md "wikilink")、、[恩智浦半导体](../Page/恩�
 ## Smart Feature OS
 
 **Smart Feature
-OS**是为功能手机提供部分智能手机功能的[移动操作系统](https://zh.wikipedia.org/wiki/移动操作系统 "wikilink")。初登场于Nokia
-3310 3G和[諾基亞8110
+OS**是为功能手机提供部分智能手机功能的[移动操作系统](https://zh.wikipedia.org/wiki/移动操作系统 "wikilink")。初登场于[諾基亞8110
 4G](../Page/諾基亞8110_\(2018年\).md "wikilink")\[19\]\[20\]\[21\]\[22\]。在前者上该系统基于java，而在后者上该系统基于KaiOS构建。新的基于KaiOS构建的系统版本与许多谷歌服务整合在一起。
 
 ## 参考资料

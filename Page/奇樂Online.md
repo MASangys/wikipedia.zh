@@ -1,6 +1,15 @@
 **《奇樂Online》**（英語：Kira
 Online）是由[香港電子遊戲公司](../Page/香港.md "wikilink")[雲起所開發](../Page/雲起遊戲.md "wikilink")，其在台灣所成立之分公司[歡樂派](https://www.funmily.com/)營運的網頁遊戲。於2015年推出手機版。以[殺手遊戲為底](https://zh.wikipedia.org/wiki/殺手遊戲 "wikilink")，集[交友](https://zh.wikipedia.org/wiki/交友網站 "wikilink")[聊天](https://zh.wikipedia.org/wiki/聊天 "wikilink")、[邏輯推理](https://zh.wikipedia.org/wiki/邏輯推理 "wikilink")、[心理分析於一身的](https://zh.wikipedia.org/wiki/心理分析 "wikilink")[休閒](https://zh.wikipedia.org/wiki/休閒 "wikilink")[互動](https://zh.wikipedia.org/wiki/互動娛樂 "wikilink")[網頁遊戲](https://zh.wikipedia.org/wiki/網頁遊戲 "wikilink")。以簡單的[遊戲方式](https://zh.wikipedia.org/wiki/遊戲 "wikilink")，配合豐富的[策略元素為最大特色](https://zh.wikipedia.org/wiki/策略 "wikilink")。曾於2016年獲[台北國際電玩展](../Page/台北國際電玩展.md "wikilink")「GAME
-STAR遊戲之星票選」國產最佳網頁遊戲金賞。
+STAR遊戲之星票選」國產最佳網頁遊戲金賞。 相關遊戲(名氏無·凋靈風暴王SC Lim GEO \[主頻道\](YouTube名)自創):
+
+[`皇宮大戰(桌遊)`](https://zh.wikipedia.org/wiki/皇宮大戰\(桌遊\) "wikilink")
+[`奇樂的怨仇(桌遊)`](https://zh.wikipedia.org/wiki/奇樂的怨仇\(桌遊\) "wikilink")
+[`奇特狼人殺(桌遊)`](https://zh.wikipedia.org/wiki/奇特狼人殺\(桌遊\) "wikilink")
+[`顏色臥底戰(桌遊)`](https://zh.wikipedia.org/wiki/顏色臥底戰\(桌遊\) "wikilink")
+[`“祁夬”``
+ ``的狼人殺(桌遊)`](https://zh.wikipedia.org/wiki/“祁夬”_的狼人殺\(桌遊\) "wikilink")
+[`反奇樂(桌遊)`](https://zh.wikipedia.org/wiki/反奇樂\(桌遊\) "wikilink")
+[`反狼人殺(桌遊)`](https://zh.wikipedia.org/wiki/反狼人殺\(桌遊\) "wikilink")
 
 ## 遊戲玩法
 

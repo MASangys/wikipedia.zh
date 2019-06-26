@@ -72,7 +72,7 @@ Diverge Mapping System）的系統，以輔助了解劇情的分歧和展開。\
     境町學園三年生。出生於名家，古代史的愛好家。父親是境町市的市長，但卻討厭被叫做大小姐。偷偷暗戀著拓也。
   -
     聲：[久川綾](https://zh.wikipedia.org/wiki/久川綾 "wikilink")（SS版）、[園崎未惠](../Page/園崎未惠.md "wikilink")（成人動畫）、[小林優](../Page/小林優.md "wikilink")（重製版/電視動畫）
-    境町學園的校醫。
+    境町學園的校醫兼拓也班上的導師。
   -
     聲：[根谷美智子](../Page/根谷美智子.md "wikilink")（SS版）、[安達茉莉](https://zh.wikipedia.org/wiki/安達茉莉 "wikilink")（成人動畫）、[前田玲奈](../Page/前田玲奈.md "wikilink")（重製版/電視動畫）
     當紅人氣新聞記者[主播](https://zh.wikipedia.org/wiki/主播 "wikilink")，認為在境町的海岸相次出現的神秘落雷是GEO會社的原因，所以一直對身為責任者的亞由美糾纏。
@@ -85,7 +85,8 @@ Diverge Mapping System）的系統，以輔助了解劇情的分歧和展開。\
     聲：[大塚明夫](../Page/大塚明夫.md "wikilink")（SS版）、[楠大典](../Page/楠大典.md "wikilink")（重製版/電視動畫）
     境町學園校長，歷史學家。
   -
-    幸三、廣大於境町學園的校友，並共同研究劍之岬。
+    幸三、廣大於境町學園的校友，也共同研究劍之岬。
+    並獨自一人深入調查劍之岬遺跡，雖發現遺跡本身秘密，不知為何困在遺跡遲遲無法離開，最後死於缺乏糧食與水的飢餓。
   -
     聲：[西村千奈美](../Page/西村千奈美.md "wikilink")（SS版）、[山本彩乃](../Page/山本彩乃.md "wikilink")（重製版/電視動畫）
     Geo Technics公司的警衛，值勤時偶爾看連續劇。
@@ -291,7 +292,42 @@ Diverge Mapping System）的系統，以輔助了解劇情的分歧和展開。\
 <td><p>北條真純、大高雄太<br />
 逵村六、嘉村弘之<br />
 西尾公伯</p></td>
-<td><p>大塚舞 &lt;!--|-</p></td>
+<td><p>大塚舞</p></td>
+</tr>
+<tr class="even">
+<td><p>第10話</p></td>
+<td></td>
+<td><p>交織的思念</p></td>
+<td><p>橫谷昌宏</p></td>
+<td><p>山田卓</p></td>
+<td><p>清水直樹、北村友幸<br />
+山崎正和、細田沙織<br />
+佐藤元昭</p></td>
+<td><p>藤崎賢二</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第11話</p></td>
+<td></td>
+<td><p>重演那一天的吻</p></td>
+<td><p>池端隆史</p></td>
+<td><p>鈴木龍太郎</p></td>
+<td><p>渡邊一平太、谷口繁則<br />
+今泉龍太、平野翔<br />
+迎千葉瑠、森谷春樹</p></td>
+<td><p>枡田邦彰</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>第12話</p></td>
+<td></td>
+<td><p>白衣下的秘密</p></td>
+<td><p>大知慶一郎</p></td>
+<td><p>出合小都美</p></td>
+<td><p>室谷靖</p></td>
+<td><p>手島典子<br />
+藪田裕希</p></td>
+<td><p>大塚舞</p></td>
 </tr>
 </tbody>
 </table>

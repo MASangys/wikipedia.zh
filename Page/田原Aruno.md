@@ -1,4 +1,4 @@
-**田原Aruno**（，），[日本資深男性](../Page/日本.md "wikilink")[配音員](../Page/配音員.md "wikilink")、[演員](https://zh.wikipedia.org/wiki/演員 "wikilink")。出身於[東京都](../Page/東京都.md "wikilink")\[1\]\[2\]。O型[血](https://zh.wikipedia.org/wiki/血型 "wikilink")\[3\]。
+**田原Aruno**（，），[日本資深男性](../Page/日本.md "wikilink")[配音員](../Page/配音員.md "wikilink")、[演員](../Page/演員.md "wikilink")。出身於[東京都](../Page/東京都.md "wikilink")\[1\]\[2\]。O型[血](https://zh.wikipedia.org/wiki/血型 "wikilink")\[3\]。
 
 ## 簡介
 

@@ -102,8 +102,24 @@ SUPER分別推出基本版（主打TVB主題內容）和內容豐富的至尊版
 <td><p>邵氏經典電影</p></td>
 </tr>
 <tr class="odd">
+<td><p>美亞電影點播組合</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>高先電影點播組合</p></td>
+<td><p>本土製作及亞洲電影點播</p></td>
+</tr>
+<tr class="odd">
 <td><p>myTV SUPER電影組合</p></td>
 <td><p>功夫、動作、驚慄、愛情、喜劇影片等</p></td>
+</tr>
+<tr class="even">
+<td><p>myTV SUPER荷里活電影組合</p></td>
+<td><p>喜劇、動作、愛情、劇情、懸疑驚慄、動畫影片等</p></td>
+</tr>
+<tr class="odd">
+<td><p>tvN Movies點播組合</p></td>
+<td><p>韓國電影點播</p></td>
 </tr>
 <tr class="even">
 <td><p>Red Label 點播組合</p></td>
@@ -129,8 +145,7 @@ SUPER分別推出基本版（主打TVB主題內容）和內容豐富的至尊版
 
   - 應用程式及網頁版，每月68[港元](../Page/港元.md "wikilink")，或每年480元。
   - 基本版解碼器(租用計劃)，每月68元，或每年780元。
-  - 至尊版解碼器，每年1880元。
-  - MyTV Gold解碼器，每月148[港元](../Page/港元.md "wikilink")
+  - MyTV Gold解碼器，每月148港元，或每年2380元。
 
 ## 節目列表
 
@@ -1782,7 +1797,7 @@ SUPER，無綫於2016年5月22日推出以[吳業坤扮演的](../Page/吳業坤
   - **第九集**：[農夫](../Page/農夫_\(組合\).md "wikilink")（《[Do姐有問題](../Page/Do姐有問題.md "wikilink")》）
   - **第十集**：[羅蘭](https://zh.wikipedia.org/wiki/羅蘭 "wikilink")
   - **第十一集**：[陳凱琳](https://zh.wikipedia.org/wiki/陳凱琳 "wikilink")（《[殭](https://zh.wikipedia.org/wiki/殭 "wikilink")》藍夢瑤）
-  - **第十二集**：[張秀文](../Page/張秀文.md "wikilink")、[陳婉衡](../Page/陳婉衡.md "wikilink")、[朱智賢](https://zh.wikipedia.org/wiki/朱智賢 "wikilink")（《[3日2夜](../Page/3日2夜.md "wikilink")》）
+  - **第十二集**：[張秀文](../Page/張秀文.md "wikilink")、[陳婉衡](../Page/陳婉衡.md "wikilink")、[朱智賢](../Page/朱智賢.md "wikilink")（《[3日2夜](../Page/3日2夜.md "wikilink")》）
   - **第十三集**：[洪永城](../Page/洪永城.md "wikilink")（《[張保仔](../Page/張保仔.md "wikilink")》張保仔、《[實習天使](../Page/實習天使.md "wikilink")》楊志明）
   - **第十四集**：[何遠東](../Page/何遠東.md "wikilink")（《[萬千星輝賀台慶](../Page/萬千星輝賀台慶.md "wikilink")2014》）
 

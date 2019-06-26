@@ -4239,10 +4239,10 @@ Form</strong><br />
 
   -
     原文： / *Evol Trigger*
-    隱藏在潘朵拉之盒內的力量，同時也是危險扳機的原型，單用於進化驅動器上，開發的目的在於讓艾博魯特達到究極姿態。
-    初登場時呈現石化狀態，使得艾博魯特無法進化成究極姿態，後在第37話艾博魯特藉由Cross-Z 、Grease 和Rogue
+    隱藏在潘朵拉之盒內的力量，同時也是危險扳機的原型，單用於進化驅動器上，開發的目的在於讓Evolto達到究極姿態。
+    初登場時呈現石化狀態，使得Evolto無法進化成究極姿態，後在第37話Evolto藉由Cross-Z 、Grease 和Rogue
     這三名騎士踢擊的強大能量正式解封。
-    限定危險等級6以上才能使用，而且里面還具备了使艾博魯特达到最高境界的「**熱溢模式**」（原文： / *Fever
+    限定危險等級6以上才能使用，而且里面還具备了使Evolto达到最高境界的「**熱溢模式**」（原文： / *Fever
     Flow*），按下按鈕後，啟動時的音效為「Over The
     Revolution！」（原文：），並裝置於進化驅動器的齒輪區上方，然後轉動手把，可使假面騎士Evol
     變身成「黑洞形態（Black Hole Form）」，音效為「■■！Fuhhahhahhahhahha！」（原文：）。
@@ -4453,7 +4453,7 @@ Form</strong><br />
     :\* 西都：紅色，滿裝瓶：[假面騎士Build\#滿裝瓶（Full
     Bottle）](https://zh.wikipedia.org/wiki/假面騎士Build#滿裝瓶（Full_Bottle） "wikilink")
 
-:\* **最终潘朵拉嵌板**
+:\***最终潘朵拉嵌板**
 
   -
 
@@ -4461,9 +4461,9 @@ Form</strong><br />
         原文： / *-{Last Pandora Panel}-*
         不属于潘朵拉之盒的特殊兼另类嵌板，與現有的六塊潘朵拉嵌板相比，此可插入失落滿裝瓶。
         第40話因潘朵拉之盒缺失一塊嵌板的關係，艾博魯特使用進化扳機的能量補足。
-        第45話在艾博魯特成功齐全十個失落滿裝瓶後，再借着進化扳機内的「熱溢模式」的力量，连同滿裝瓶一同塞入自己的體内，繼而進化成怪人態，在被四人騎士的四連骑士踢擊傷後，其嵌板连同滿裝瓶被排除出去。
-        第46話戰兔首次透过龍我體内的遗传因子開發出白色的潘朵拉嵌板，并可插入10個失落滿裝瓶，還声称唯一能拯救世界的方法就是「將黑白兩個嵌板连接後，便能將無天空之壁和無艾博魯特的兩個世界融合」。
-        第48話戰兔再次成功擊出艾博魯特體内的黑色嵌板後，龍我手中的白色嵌板成功和其完全对接至融合，最终一口气置入是潘朵拉之盒中，继而发出一道彩色光柱，将在黑洞内的另一个地球拉过来，其连接线還开出一个裂口。
+        第45話在Evolto成功齐全十個失落滿裝瓶後，再借着進化扳機内的「熱溢模式」的力量，连同滿裝瓶一同塞入自己的體内，繼而進化成怪人態，在被四人騎士的四連骑士踢擊傷後，其嵌板连同滿裝瓶被排除出去。
+        第46話戰兔首次透过龍我體内的遗传因子開發出白色的潘朵拉嵌板，并可插入10個失落滿裝瓶，還声称唯一能拯救世界的方法就是「將黑白兩個嵌板连接後，便能將無天空之壁和無Evolto的兩個世界融合」。
+        第48話戰兔再次成功擊出Evolto體内的黑色嵌板後，龍我手中的白色嵌板成功和其完全对接至融合，最终一口气置入是潘朵拉之盒中，继而发出一道彩色光柱，将在黑洞内的另一个地球拉过来，其连接线還开出一个裂口。
         :\* 無：黑色，失落滿裝瓶：[假面騎士Build\#失落滿裝瓶（Lost Full
         Bottle）](https://zh.wikipedia.org/wiki/假面騎士Build#失落滿裝瓶（Lost_Full_Bottle） "wikilink")
         :\* 無：白色，失落滿裝瓶：[假面騎士Build\#失落滿裝瓶（Lost Full
@@ -5369,12 +5369,12 @@ Form</strong><br />
 <tr class="odd">
 <td><p>style="text-align:center”|KillbaSpider</p></td>
 <td><p>style="text-align:center”|キルバスパイダー</p></td>
-<td><p>style="text-align:center”|基魯巴蜘蛛</p></td>
+<td><p>style="text-align:center”|Killbas蜘蛛</p></td>
 <td><p>-</p></td>
 <td><p>生物</p></td>
 <td><p>-</p></td>
 <td><p>擁有<a href="../Page/蜘蛛.md" title="wikilink">蜘蛛般的行動能力</a>、織網捕捉能力和延伸足部攻擊的能力。</p></td>
-<td><p>此滿裝瓶由基魯巴斯所持有。</p></td>
+<td><p>此滿裝瓶由Killbas所持有。</p></td>
 </tr>
 <tr class="even">
 <td><p>style="text-align:center”|Buttobasoru</p></td>
@@ -5953,7 +5953,7 @@ Form</strong><br />
 <td><p>style="text-align:center”|眼鏡蛇</p></td>
 <td><p>生物</p></td>
 <td><p>擁有<a href="../Page/眼鏡蛇.md" title="wikilink">眼鏡蛇般的毒攻能力</a>。</p></td>
-<td><p>此進化瓶一開始就由艾博魯特所持有。</p></td>
+<td><p>此進化瓶一開始就由Evolto所持有。</p></td>
 </tr>
 <tr class="odd">
 <td><p>style="text-align:center”|Dragon</p></td>
@@ -5961,9 +5961,9 @@ Form</strong><br />
 <td><p>style="text-align:center”|龍</p></td>
 <td><p>擁有<a href="https://zh.wikipedia.org/wiki/龍" title="wikilink">龍般的氣息</a>。</p></td>
 <td><p>此進化瓶是由萬丈龍我體內所誕生出的。<br />
-最初由艾博魯特所持有，在落入萬丈龍我手中後進化成「極致龍（Great Dragon）」，之後由龍我所持有。<br />
+最初由Evolto所持有，在落入萬丈龍我手中後進化成「極致龍（Great Dragon）」，之後由龍我所持有。<br />
 可與「Lock」组成「Best Match」組合。<br />
-於外傳中，艾博魯特透過潘朵拉之盒重現Faust實驗室後，並讀取自身與龍我的數據資料後再次製作出來。</p></td>
+於外傳中，Evolto透過潘朵拉之盒重現Faust實驗室後，並讀取自身與龍我的數據資料後再次製作出來。</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -6017,7 +6017,7 @@ Form</strong><br />
 <td><p>生物</p></td>
 <td><p>擁有<a href="../Page/蝙蝠.md" title="wikilink">蝙蝠般的夜间空行能力</a>。</p></td>
 <td><p>此失落滿裝瓶由Faust 製「Bat」滿裝瓶變化而成的。<br />
-現目前由艾博魯特所持有。</p></td>
+現目前由Evolto所持有。</p></td>
 </tr>
 <tr class="even">
 <td><p>style="text-align:center”|Kuwagata</p></td>
@@ -6026,7 +6026,7 @@ Form</strong><br />
 <td><p>K</p></td>
 <td><p>擁有<a href="../Page/鍬形蟲.md" title="wikilink">鍬形蟲般的速度</a>。</p></td>
 <td><p>此失落滿裝瓶由Faust 製「Kuwagata」滿裝瓶變化而成的。<br />
-現目前由艾博魯特所持有，之後由志水恭一所持有。</p></td>
+現目前由Evolto所持有，之後由志水恭一所持有。</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -6036,7 +6036,7 @@ Form</strong><br />
 <td><p>F</p></td>
 <td><p>擁有<a href="../Page/貓頭鷹.md" title="wikilink">貓頭鷹般的飛行及索敵能力</a>。</p></td>
 <td><p>此失落滿裝瓶由Faust 製「Fukurou」滿裝瓶變化而成的。<br />
-現目前由艾博魯特所持有，之後由多治見喜子所持有。</p></td>
+現目前由Evolto所持有，之後由多治見喜子所持有。</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -7079,12 +7079,13 @@ Form</strong><br />
 </tr>
 <tr class="even">
 <td><p>2018/02/18</p></td>
-<td></td>
-<td><p>（<span class="math inline">$\sqrt{x-2\sqrt{x+2\sqrt{x+2\sqrt{x-...}}}}=1+4\sqrt{3}\sin20^\circ=23$</span>[249]）<br />
+<td><p>2019/06/09[249]<br />
+2019/06/15[250]</p></td>
+<td><p>（<span class="math inline">$\sqrt{x-2\sqrt{x+2\sqrt{x+2\sqrt{x-...}}}}=1+4\sqrt{3}\sin20^\circ=23$</span>[251]）<br />
 23</p></td>
 <td></td>
 <td><p>西之幻影</p></td>
-<td></td>
+<td><p>西方的幽靈</p></td>
 <td><ul>
 <li>Remocon Bros</li>
 <li>Engine Bros</li>
@@ -7095,12 +7096,15 @@ Form</strong><br />
 </tr>
 <tr class="odd">
 <td><p>2018/02/25</p></td>
-<td></td>
-<td><p>（<span class="math inline">$\sum_{n=1}^Nn^2 =m^2$</span>，<span class="math inline"><em>N</em> = 24</span>[250]）<br />
+<td><p>2019/06/16[252]<br />
+2019/06/22[253]</p></td>
+<td><p>（<span class="math inline">$\sum_{n=1}^Nn^2 =m^2$</span>，<span class="math inline"><em>N</em> = 24</span>[254]）<br />
 24</p></td>
 <td></td>
 <td><p>名為ROGUE的男人</p></td>
-<td></td>
+<td><p>名叫洛古的男人</p>
+<hr/>
+<p>那個叫無賴的人</p></td>
 <td><ul>
 <li>Remocon Bros</li>
 <li>Engine Bros</li>
@@ -7112,12 +7116,13 @@ Form</strong><br />
 </tr>
 <tr class="even">
 <td><p>2018/03/04</p></td>
-<td></td>
-<td><p>（<span class="math inline">(<em>n</em> − 1)! + 1 = <em>n</em><sup><em>k</em></sup> = 25</span>[251]）<br />
+<td><p>2019/06/23[255]<br />
+2019/06/29[256]</p></td>
+<td><p>（<span class="math inline">(<em>n</em> − 1)! + 1 = <em>n</em><sup><em>k</em></sup> = 25</span>[257]）<br />
 25</p></td>
 <td></td>
 <td><p>偶像覺醒</p></td>
-<td></td>
+<td><p>偶像的覺醒</p></td>
 <td><ul>
 <li>Remocon Bros</li>
 <li>Engine Bros</li>
@@ -7129,7 +7134,7 @@ Form</strong><br />
 <tr class="odd">
 <td><p>2018/03/11</p></td>
 <td></td>
-<td><p>（<span class="math inline">#{<em>s</em><em>p</em><em>o</em><em>r</em><em>a</em><em>d</em><em>i</em><em>c</em> <em>g</em><em>r</em><em>o</em><em>u</em><em>p</em>} = 26</span>[252]）<br />
+<td><p>（<span class="math inline">#{<em>s</em><em>p</em><em>o</em><em>r</em><em>a</em><em>d</em><em>i</em><em>c</em> <em>g</em><em>r</em><em>o</em><em>u</em><em>p</em>} = 26</span>[258]）<br />
 26</p></td>
 <td></td>
 <td><p>背叛的死亡配對</p></td>
@@ -7145,7 +7150,7 @@ Form</strong><br />
 <tr class="even">
 <td><p>2018/03/18</p></td>
 <td></td>
-<td><p>（<span class="math inline">#{<em>e</em><em>x</em><em>o</em><em>t</em><em>i</em><em>c</em> 7 − <em>s</em><em>p</em><em>h</em><em>e</em><em>r</em><em>e</em>} = 27</span>[253]）<br />
+<td><p>（<span class="math inline">#{<em>e</em><em>x</em><em>o</em><em>t</em><em>i</em><em>c</em> 7 − <em>s</em><em>p</em><em>h</em><em>e</em><em>r</em><em>e</em>} = 27</span>[259]）<br />
 27</p></td>
 <td></td>
 <td><p>逆襲的英雄</p></td>
@@ -7160,7 +7165,7 @@ Form</strong><br />
 <tr class="odd">
 <td><p>2018/03/25</p></td>
 <td></td>
-<td><p>（<span class="math inline">1 + 2 + 4 + 7 + 14 = 28</span>[254]）<br />
+<td><p>（<span class="math inline">1 + 2 + 4 + 7 + 14 = 28</span>[260]）<br />
 28</p></td>
 <td></td>
 <td><p>天才是在坦克出現時</p></td>
@@ -7185,7 +7190,7 @@ Form</strong><br />
 <tr class="odd">
 <td><p>2018/04/01</p></td>
 <td></td>
-<td><p>（<span class="math inline"><em>A</em>(3, 2) = <em>A</em>(2, <em>A</em>(2, <em>A</em>(2, 1))) = 29</span>[255]）<br />
+<td><p>（<span class="math inline"><em>A</em>(3, 2) = <em>A</em>(2, <em>A</em>(2, <em>A</em>(2, 1))) = 29</span>[261]）<br />
 29</p></td>
 <td></td>
 <td><p>開幕的鐘聲已響起</p></td>
@@ -7205,7 +7210,7 @@ Form</strong><br />
 <tr class="even">
 <td><p>2018/04/08</p></td>
 <td></td>
-<td><p>（<span class="math inline">arg<sub><em>n</em></sub>max [{<em>t</em><em>o</em><em>t</em><em>a</em><em>t</em><em>i</em><em>v</em><em>e</em> of n} ⊂ {<em>p</em><em>r</em><em>i</em><em>m</em><em>e</em>}] = 30</span>[256]）<br />
+<td><p>（<span class="math inline">arg<sub><em>n</em></sub>max [{<em>t</em><em>o</em><em>t</em><em>a</em><em>t</em><em>i</em><em>v</em><em>e</em> of n} ⊂ {<em>p</em><em>r</em><em>i</em><em>m</em><em>e</em>}] = 30</span>[262]）<br />
 30</p></td>
 <td></td>
 <td><p>潘朵拉之盒的真實</p></td>
@@ -7222,7 +7227,7 @@ Form</strong><br />
 <tr class="odd">
 <td><p>2018/04/15</p></td>
 <td></td>
-<td><p>（<span class="math inline"><em>M</em><sub>5</sub> = 2<sup>5</sup> − 1 = 31</span>[257]）<br />
+<td><p>（<span class="math inline"><em>M</em><sub>5</sub> = 2<sup>5</sup> − 1 = 31</span>[263]）<br />
 31</p></td>
 <td></td>
 <td><p>狂暴的熔岩！</p></td>
@@ -7244,7 +7249,7 @@ Form</strong><br />
 <tr class="even">
 <td><p>2018/04/22</p></td>
 <td></td>
-<td><p>（<span class="math inline">#{<em>c</em><em>r</em><em>y</em><em>s</em><em>t</em><em>a</em><em>l</em> <em>c</em><em>l</em><em>a</em><em>s</em><em>s</em>} = 32</span>[258]）<br />
+<td><p>（<span class="math inline">#{<em>c</em><em>r</em><em>y</em><em>s</em><em>t</em><em>a</em><em>l</em> <em>c</em><em>l</em><em>a</em><em>s</em><em>s</em>} = 32</span>[264]）<br />
 32</p></td>
 <td></td>
 <td><p>被安排好的悲劇</p></td>
@@ -7264,7 +7269,7 @@ Form</strong><br />
 <tr class="odd">
 <td><p>2018/04/29</p></td>
 <td></td>
-<td><p>（<span class="math inline">$\sqrt{{2\sqrt{2}\pi \over 9}\sum_{n=0}^\infty{(4n!)(1103+26390n) \over ({4^n}{99^n}n!)^4}}=33$</span>[259]）<br />
+<td><p>（<span class="math inline">$\sqrt{{2\sqrt{2}\pi \over 9}\sum_{n=0}^\infty{(4n!)(1103+26390n) \over ({4^n}{99^n}n!)^4}}=33$</span>[265]）<br />
 33</p></td>
 <td></td>
 <td><p>最終兵器Evol</p></td>
@@ -7280,7 +7285,7 @@ Form</strong><br />
 <tr class="even">
 <td><p>2018/05/06</p></td>
 <td></td>
-<td><p>（<span class="math inline">⌈log<sub>10</sub>log<sub>10</sub>log<sub>10</sub><em>S</em><em>k</em><sub>1</sub>⌉ = 34</span>[260]）<br />
+<td><p>（<span class="math inline">⌈log<sub>10</sub>log<sub>10</sub>log<sub>10</sub><em>S</em><em>k</em><sub>1</sub>⌉ = 34</span>[266]）<br />
 34</p></td>
 <td></td>
 <td><p>分離四散的最佳配對</p></td>
@@ -7293,7 +7298,7 @@ Form</strong><br />
 <tr class="odd">
 <td><p>2018/05/13</p></td>
 <td></td>
-<td><p>（<span class="math inline">#{<em>n</em><em>o</em><em>n</em><em>t</em><em>r</em><em>i</em><em>v</em><em>i</em><em>a</em><em>l</em> <em>k</em><em>n</em><em>o</em><em>t</em> | <em>c</em>(<em>L</em>)  ≤ 8} = 35</span>[261]）<br />
+<td><p>（<span class="math inline">#{<em>n</em><em>o</em><em>n</em><em>t</em><em>r</em><em>i</em><em>v</em><em>i</em><em>a</em><em>l</em> <em>k</em><em>n</em><em>o</em><em>t</em> | <em>c</em>(<em>L</em>)  ≤ 8} = 35</span>[267]）<br />
 35</p></td>
 <td></td>
 <td><p>破滅之塔</p></td>
@@ -7306,7 +7311,7 @@ Form</strong><br />
 <tr class="even">
 <td><p>2018/05/20</p></td>
 <td></td>
-<td><p>（<span class="math inline">(1 + 2 + 3)<sup>2</sup> = 1<sup>3</sup> + 2<sup>3</sup> + 3<sup>3</sup> = 36</span>[262]）<br />
+<td><p>（<span class="math inline">(1 + 2 + 3)<sup>2</sup> = 1<sup>3</sup> + 2<sup>3</sup> + 3<sup>3</sup> = 36</span>[268]）<br />
 36</p></td>
 <td></td>
 <td><p>Evolto狩獵星球</p></td>
@@ -7322,7 +7327,7 @@ Form</strong><br />
 <tr class="odd">
 <td><p>2018/05/27</p></td>
 <td></td>
-<td><p>（<span class="math inline">$\underset{\rho :prime}{\arg\min}[\rho \not\in \{regular\}]=37$</span>[263]）<br />
+<td><p>（<span class="math inline">$\underset{\rho :prime}{\arg\min}[\rho \not\in \{regular\}]=37$</span>[269]）<br />
 37</p></td>
 <td></td>
 <td><p>究極的階段</p></td>
@@ -7341,7 +7346,7 @@ Form</strong><br />
 <tr class="even">
 <td><p>2018/06/03</p></td>
 <td></td>
-<td><p>（<span class="math inline"><em>M</em><sub><em>M</em><em>a</em><em>g</em><em>i</em><em>c</em><em>H</em><em>e</em><em>x</em><em>g</em><em>o</em><em>n</em></sub> = 38</span>[264]）<br />
+<td><p>（<span class="math inline"><em>M</em><sub><em>M</em><em>a</em><em>g</em><em>i</em><em>c</em><em>H</em><em>e</em><em>x</em><em>g</em><em>o</em><em>n</em></sub> = 38</span>[270]）<br />
 38</p></td>
 <td></td>
 <td><p>瘋狂的世界</p></td>
@@ -7360,7 +7365,7 @@ Form</strong><br />
 <tr class="odd">
 <td><p>2018/06/10</p></td>
 <td></td>
-<td><p>（<span class="math inline">$4\pi^2-\sum_{n=1}^\infty{16 \over n^2(n+1)^2(n+2)^2}=39$</span>[265]）<br />
+<td><p>（<span class="math inline">$4\pi^2-\sum_{n=1}^\infty{16 \over n^2(n+1)^2(n+2)^2}=39$</span>[271]）<br />
 39</p></td>
 <td></td>
 <td><p>無法阻止的天才</p></td>
@@ -7385,7 +7390,7 @@ Form</strong><br />
 <tr class="odd">
 <td><p>2018/06/17</p></td>
 <td></td>
-<td><p>（<span class="math inline">$\underset{y}{\arg\min}[x^2-77y^2=1]=40$</span>[266]）<br />
+<td><p>（<span class="math inline">$\underset{y}{\arg\min}[x^2-77y^2=1]=40$</span>[272]）<br />
 40</p></td>
 <td></td>
 <td><p>終末的變革</p></td>
@@ -7402,7 +7407,7 @@ Form</strong><br />
 <tr class="even">
 <td><p>2018/06/24</p></td>
 <td></td>
-<td><p>（<span class="math inline">$\underset{q}{\arg\max}[\forall_n\leq q-2,q^2+q+n=\rho]=41$</span>[267]）<br />
+<td><p>（<span class="math inline">$\underset{q}{\arg\max}[\forall_n\leq q-2,q^2+q+n=\rho]=41$</span>[273]）<br />
 41</p></td>
 <td></td>
 <td><p>最佳配對的真相</p></td>
@@ -7419,7 +7424,7 @@ Form</strong><br />
 <tr class="odd">
 <td><p>2018/07/01</p></td>
 <td></td>
-<td><p>（<span class="math inline"><em>p</em>(10) = 42</span>[268]）<br />
+<td><p>（<span class="math inline"><em>p</em>(10) = 42</span>[274]）<br />
 42</p></td>
 <td></td>
 <td><p>疑惑的遺產</p></td>
@@ -7436,7 +7441,7 @@ Form</strong><br />
 <tr class="even">
 <td><p>2018/07/08</p></td>
 <td></td>
-<td><p>（<span class="math inline">$({1 \over \pi} ln 884736744)^2 \simeq 43$</span>[269]）<br />
+<td><p>（<span class="math inline">$({1 \over \pi} ln 884736744)^2 \simeq 43$</span>[275]）<br />
 43</p></td>
 <td></td>
 <td><p>另外一人的Build</p></td>
@@ -7452,7 +7457,7 @@ Form</strong><br />
 <tr class="odd">
 <td><p>2018/07/15</p></td>
 <td></td>
-<td><p>（<span class="math inline">$!5=5!\sum_{k=0}^5{(-1)^k \over k!}=44$</span>[270]）<br />
+<td><p>（<span class="math inline">$!5=5!\sum_{k=0}^5{(-1)^k \over k!}=44$</span>[276]）<br />
 44</p></td>
 <td></td>
 <td><p>Evolto的末路</p></td>
@@ -7465,7 +7470,7 @@ Form</strong><br />
 <tr class="even">
 <td><p>2018/07/22</p></td>
 <td></td>
-<td><p>（<span class="math inline">3<sup>2/<em>γ</em></sup> ≃ 45</span>[271]）<br />
+<td><p>（<span class="math inline">3<sup>2/<em>γ</em></sup> ≃ 45</span>[277]）<br />
 45</p></td>
 <td></td>
 <td><p>希望的科學家</p></td>
@@ -7493,7 +7498,7 @@ Form</strong><br />
 <tr class="even">
 <td><p>2018/07/29</p></td>
 <td></td>
-<td><p>（<span class="math inline">$\sqrt[3]{3^3+36^3+37^3} =46$</span>[272]）<br />
+<td><p>（<span class="math inline">$\sqrt[3]{3^3+36^3+37^3} =46$</span>[278]）<br />
 46</p></td>
 <td></td>
 <td><p>誓言的Be The One</p></td>
@@ -7510,9 +7515,9 @@ Form</strong><br />
 <td><p>上堀內佳壽也</p></td>
 </tr>
 <tr class="odd">
-<td><p>2018/08/12[273]</p></td>
+<td><p>2018/08/12[279]</p></td>
 <td></td>
-<td><p>（<span class="math inline">$arctan({1 \over 73})+arctan({1 \over 132})=arctan({1 \over x})$</span>，<span class="math inline"><em>x</em> = 47</span>[274]）<br />
+<td><p>（<span class="math inline">$arctan({1 \over 73})+arctan({1 \over 132})=arctan({1 \over x})$</span>，<span class="math inline"><em>x</em> = 47</span>[280]）<br />
 47</p></td>
 <td></td>
 <td><p>零度之炎</p></td>
@@ -7534,7 +7539,7 @@ Form</strong><br />
 <tr class="even">
 <td><p>2018/08/19</p></td>
 <td></td>
-<td><p>（<span class="math inline">$\underset{N}{\arg\min}[\forall_n\geq N,\exists p \in(n,{9n \over 8})]=48$</span>[275]）<br />
+<td><p>（<span class="math inline">$\underset{N}{\arg\min}[\forall_n\geq N,\exists p \in(n,{9n \over 8})]=48$</span>[281]）<br />
 48</p></td>
 <td></td>
 <td><p>走向愛與和平的世界</p></td>
@@ -7552,7 +7557,7 @@ Form</strong><br />
 <tr class="odd">
 <td><p>2018/08/26</p></td>
 <td></td>
-<td><p>（<span class="math inline">6667<sup>2</sup> = 44448889</span>，<span class="math inline">7<sup>2</sup> = 49</span>[276]）<br />
+<td><p>（<span class="math inline">6667<sup>2</sup> = 44448889</span>，<span class="math inline">7<sup>2</sup> = 49</span>[282]）<br />
 49</p></td>
 <td></td>
 <td><p>Build就是創造明日</p></td>
@@ -7616,7 +7621,7 @@ Form</strong><br />
 
   -
     （原題：）
-    月刊雜誌**《てれびくん》**2018年2月號付錄的特別篇[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")\[277\]。
+    月刊雜誌**《てれびくん》**2018年2月號付錄的特別篇[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")\[283\]。
 
 <!-- end list -->
 
@@ -7645,7 +7650,7 @@ Form</strong><br />
   -
     2017年11月26日所播出的企劃「假面騎士藝人」第三彈，飾演主角桐生戰兔 / 假面騎士Build
     的演員犬飼貴丈亦於該節目中登場。另外於該節目中播放由假面騎士Build、假面騎士Amazon
-    和來賓藝人田中卓志所共演的短篇影像\[278\]。
+    和來賓藝人田中卓志所共演的短篇影像\[284\]。
 
 ### 映像商品
 
@@ -7700,13 +7705,13 @@ Form</strong><br />
 
 ### 主題曲
 
-  - \* 「Be The One」\[279\]
+  - \* 「Be The One」\[285\]
     演唱：PANDORA feat.Beverly
-    作詞、作曲、編曲：[小室哲哉](../Page/小室哲哉.md "wikilink")、[淺倉大介](https://zh.wikipedia.org/wiki/淺倉大介 "wikilink")\[280\]
+    作詞、作曲、編曲：[小室哲哉](../Page/小室哲哉.md "wikilink")、[淺倉大介](https://zh.wikipedia.org/wiki/淺倉大介 "wikilink")\[286\]
 
 ### 插曲
 
-  - \* 「Ready Go\!\!」\[281\]
+  - \* 「Ready Go\!\!」\[287\]
     第27、28話的插曲。
     演唱：ats-、清水武仁&渡邊徹 Feat. AXL21
     作詞：Mio Aoyama
@@ -8361,73 +8366,85 @@ Form</strong><br />
 
 248. 此為拉馬努金所發現的圓周率，其近似值為「2143/22≃π^4」的變式。
 
-249. 此為拉馬努金問題第507號，本式中x的解為23。
+249. 早上11:00-11:30播映。
 
-250. 此為[砲彈問題的公式](https://zh.wikipedia.org/wiki/砲彈問題 "wikilink")，該式意為「1^2+2^2+3^2+……+n^2=m^2」。
+250. 深夜00:35-01:00重播。
 
-251. 此為[博卡問題的公式](https://zh.wikipedia.org/wiki/博卡問題 "wikilink")，原問題為求「n\!+1=m^2」之解，而本問題的解只有（4,5）、（5,11）、（7,71）三組，但標題算式變化為(n-1)，即n-1階加1等於n的k次方。
+251. 此為拉馬努金問題第507號，本式中x的解為23。
 
-252. 此為[散在群的公式](https://zh.wikipedia.org/wiki/散在群 "wikilink")，總數為26個。
+252. 早上11:00-11:30播映。
 
-253. 此為第七[異種球面的視覺化](https://zh.wikipedia.org/wiki/異種球面 "wikilink")
+253. 深夜00:35-01:00重播。
 
-254. 此為[完全數的公式](https://zh.wikipedia.org/wiki/完全數 "wikilink")，意思是該數除了自身以外的所有因數的總和，剛好等於這個數本身。
+254. 此為[砲彈問題的公式](https://zh.wikipedia.org/wiki/砲彈問題 "wikilink")，該式意為「1^2+2^2+3^2+……+n^2=m^2」。
 
-255. 此為[阿克曼函數的公式](../Page/阿克曼函數.md "wikilink")，這是一種需要兩個自然數作為輸入值，並且能產生出巨大數的遞迴函式。
+255. 早上11:00-11:30播映。
 
-256. 此為全部[素數的最大值](https://zh.wikipedia.org/wiki/素數 "wikilink")，英文中「totative」一詞意為「小於整數n，並與n互質的數」，而「prime」一詞意為「質數」。本式意為在一個與整數n互質且小於n的數全部都是質數（與30互質的數有1、7、11、13、17、19、23、29這八個，除1以外都是質數）的條件下，符合此條件的數字中最大的整數是30。
+256. 深夜00:35-01:00重播。
 
-257. 此為[梅森質數的公式](https://zh.wikipedia.org/wiki/梅森質數 "wikilink")，其定義是符合Mn=2^n-1的質數。
+257. 此為[博卡問題的公式](https://zh.wikipedia.org/wiki/博卡問題 "wikilink")，原問題為求「n\!+1=m^2」之解，而本問題的解只有（4,5）、（5,11）、（7,71）三組，但標題算式變化為(n-1)，即n-1階加1等於n的k次方。
 
-258. 此為[晶體學點群的總數](https://zh.wikipedia.org/wiki/晶體學點群 "wikilink")，「crystal
+258. 此為[散在群的公式](https://zh.wikipedia.org/wiki/散在群 "wikilink")，總數為26個。
+
+259. 此為第七[異種球面的視覺化](https://zh.wikipedia.org/wiki/異種球面 "wikilink")
+
+260. 此為[完全數的公式](https://zh.wikipedia.org/wiki/完全數 "wikilink")，意思是該數除了自身以外的所有因數的總和，剛好等於這個數本身。
+
+261. 此為[阿克曼函數的公式](../Page/阿克曼函數.md "wikilink")，這是一種需要兩個自然數作為輸入值，並且能產生出巨大數的遞迴函式。
+
+262. 此為全部[素數的最大值](https://zh.wikipedia.org/wiki/素數 "wikilink")，英文中「totative」一詞意為「小於整數n，並與n互質的數」，而「prime」一詞意為「質數」。本式意為在一個與整數n互質且小於n的數全部都是質數（與30互質的數有1、7、11、13、17、19、23、29這八個，除1以外都是質數）的條件下，符合此條件的數字中最大的整數是30。
+
+263. 此為[梅森質數的公式](https://zh.wikipedia.org/wiki/梅森質數 "wikilink")，其定義是符合Mn=2^n-1的質數。
+
+264. 此為[晶體學點群的總數](https://zh.wikipedia.org/wiki/晶體學點群 "wikilink")，「crystal
      class」的中文意為「晶系」，而晶體學的點群總共有32種之意。
 
-259. 此為拉馬努金圓周率的變體
+265. 此為拉馬努金圓周率的變體
 
-260. 此為[斯奎斯數的公式](https://zh.wikipedia.org/wiki/斯奎斯數 "wikilink")，南非數學家史丹利•斯奎斯提出的巨大數的一種。斯奎斯於1933年提出了第一斯奎斯數的上界（需要黎曼假設成立）：「e^e^e^79
+266. 此為[斯奎斯數的公式](https://zh.wikipedia.org/wiki/斯奎斯數 "wikilink")，南非數學家史丹利•斯奎斯提出的巨大數的一種。斯奎斯於1933年提出了第一斯奎斯數的上界（需要黎曼假設成立）：「e^e^e^79
      \< 10^10^10^34」
      由於第一斯奎斯數的值僅僅近似於10^10^10^34，以常用對數計算後得到的答案也是近似值，因此算式使用┌與┐這兩個「取頂符號」。
 
-261. 此為[素紐結的公式](https://zh.wikipedia.org/wiki/素紐結 "wikilink")，交叉數小於等於8個的素紐結，總數是35個之意。
+267. 此為[素紐結的公式](https://zh.wikipedia.org/wiki/素紐結 "wikilink")，交叉數小於等於8個的素紐結，總數是35個之意。
 
-262. 此為[立方數的公式](../Page/立方數.md "wikilink")
+268. 此為[立方數的公式](../Page/立方數.md "wikilink")
 
-263. 此為[非正規質數的公式](https://zh.wikipedia.org/wiki/非正規質數 "wikilink")，本式意為非正規質數中，最小的數字為37之意。
+269. 此為[非正規質數的公式](https://zh.wikipedia.org/wiki/非正規質數 "wikilink")，本式意為非正規質數中，最小的數字為37之意。
 
-264. 此為[六角魔方的公式](https://zh.wikipedia.org/wiki/六角魔方 "wikilink")，即任一排數字的和皆相等的魔方陣，其任何一排的總和皆為38。
+270. 此為[六角魔方的公式](https://zh.wikipedia.org/wiki/六角魔方 "wikilink")，即任一排數字的和皆相等的魔方陣，其任何一排的總和皆為38。
 
-265. 此公式目前暂不明，只知推測連續三個數的平方和分之一的值等於4π-39/16之意。
+271. 此公式目前暂不明，只知推測連續三個數的平方和分之一的值等於4π-39/16之意。
 
-266. 此為[佩爾方程的公式](https://zh.wikipedia.org/wiki/佩爾方程 "wikilink")，指的是具有x^2-ny^2=1的形式，且n為正整數的二元二次方程式。
+272. 此為[佩爾方程的公式](https://zh.wikipedia.org/wiki/佩爾方程 "wikilink")，指的是具有x^2-ny^2=1的形式，且n為正整數的二元二次方程式。
 
-267. 此為[歐拉質數生成式的公式](https://zh.wikipedia.org/wiki/歐拉質數生成式 "wikilink")，把整數帶入這項質數生成式fn(q)=q^2+q+n的n中，從第0到n-2項為止都能讓該式產生質數的整數，總共有2、3、5、11、17、41這六個，這六個數被稱為「歐拉幸運數」。
+273. 此為[歐拉質數生成式的公式](https://zh.wikipedia.org/wiki/歐拉質數生成式 "wikilink")，把整數帶入這項質數生成式fn(q)=q^2+q+n的n中，從第0到n-2項為止都能讓該式產生質數的整數，總共有2、3、5、11、17、41這六個，這六個數被稱為「歐拉幸運數」。
 
-268. 此為[整數分拆的公式](../Page/整數分拆.md "wikilink")，「p(n)」是用來表示自然數n有多少種分拆方式的表示法。
+274. 此為[整數分拆的公式](../Page/整數分拆.md "wikilink")，「p(n)」是用來表示自然數n有多少種分拆方式的表示法。
 
-269. 同樣為接近整数的公式，即「e^π√43≃
+275. 同樣為接近整数的公式，即「e^π√43≃
      884736743.999777…」的變式。實際用計算機計算本式後的答案約為「43.00000000000105…」，因此本式近似值是43。
 
-270. 此為[錯排問題](https://zh.wikipedia.org/wiki/錯排問題 "wikilink")（Derangement）的公式，錯排問題是指n個物體的置換排列中，每個排列中的每個物體都不在原本的位置上的排列順序。該數表記法可寫成「Dn」、「dn」或「\!n」。
+276. 此為[錯排問題](https://zh.wikipedia.org/wiki/錯排問題 "wikilink")（Derangement）的公式，錯排問題是指n個物體的置換排列中，每個排列中的每個物體都不在原本的位置上的排列順序。該數表記法可寫成「Dn」、「dn」或「\!n」。
 
-271. 此為[歐拉．馬斯刻若尼常數的公式](https://zh.wikipedia.org/wiki/歐拉．馬斯刻若尼常數 "wikilink")。該常數的代表符號為γ，它的近似值是「0.57721566490153…」。
+277. 此為[歐拉．馬斯刻若尼常數的公式](https://zh.wikipedia.org/wiki/歐拉．馬斯刻若尼常數 "wikilink")。該常數的代表符號為γ，它的近似值是「0.57721566490153…」。
 
-272. 此為[立方根的公式](../Page/立方根.md "wikilink")，在實數系中，實數在實數系中，實數α的立方根通常用於「³√α」和「α³」來表示。
+278. 此為[立方根的公式](../Page/立方根.md "wikilink")，在實數系中，實數在實數系中，實數α的立方根通常用於「³√α」和「α³」來表示。
 
-273. 8月05日停播一次。
+279. 8月05日停播一次。
 
-274. 此為[反正切的公式](../Page/反正切.md "wikilink")，即反三角函數的一種。
+280. 此為[反正切的公式](../Page/反正切.md "wikilink")，即反三角函數的一種。
 
-275. 此為[伯特蘭．切比雪夫定理的公式](https://zh.wikipedia.org/wiki/伯特蘭．切比雪夫定理 "wikilink")。本定理說明當整數n\>3，則至少存在一個質數p，符合「n\<p\<2n」。而本式意為當n大於等於48的時候，「n～9n/8」之間必定會存質數存在之意。
+281. 此為[伯特蘭．切比雪夫定理的公式](https://zh.wikipedia.org/wiki/伯特蘭．切比雪夫定理 "wikilink")。本定理說明當整數n\>3，則至少存在一個質數p，符合「n\<p\<2n」。而本式意為當n大於等於48的時候，「n～9n/8」之間必定會存質數存在之意。
 
-276. 此為[立面根的公式](https://zh.wikipedia.org/wiki/立面根 "wikilink")，就是兩個同樣的位数相乘的公式，例如「α²」。
+282. 此為[立面根的公式](https://zh.wikipedia.org/wiki/立面根 "wikilink")，就是兩個同樣的位数相乘的公式，例如「α²」。
 
-277. 根據官網所公佈的得知時間軸大約是在本篇第19 - 20話之間
+283. 根據官網所公佈的得知時間軸大約是在本篇第19 - 20話之間
 
-278. 田中卓志每一彈都參與演出，但每次都成修卡怪人欺負的對象。
+284. 田中卓志每一彈都參與演出，但每次都成修卡怪人欺負的對象。
 
-279. 第1話未用於片頭，而是用於片尾。
+285. 第1話未用於片頭，而是用於片尾。
 
-280. 淺倉大介亦有與貴水博之組成日本音樂組合\<<Access>\>，其中成員貴水博之亦曾於前作《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》飾演檀正宗
+286. 淺倉大介亦有與貴水博之組成日本音樂組合\<<Access>\>，其中成員貴水博之亦曾於前作《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》飾演檀正宗
      / 假面騎士Cronus （聲） 。
 
-281.
+287.

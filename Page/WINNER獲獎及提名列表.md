@@ -215,13 +215,20 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>第32屆</p></td>
-<td><p>2018年</p></td>
+<td><p>第31屆</p></td>
+<td><p>2017年</p></td>
 <td><p>音源本賞</p></td>
-<td><p>WINNER</p></td>
+<td><p>《Really Really》</p></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>第32屆</p></td>
+<td><p>2018年</p></td>
+<td><p>音源本賞</p></td>
+<td><p>《Everyday》</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -470,10 +477,10 @@
 <td><p><a href="../Page/Mnet媒體.md" title="wikilink">Mnet</a></p></td>
 </tr>
 <tr class="even">
-<td><p>10</p></td>
+<td><p>11</p></td>
 </tr>
 <tr class="odd">
-<td><p>一位總數：22<br />
+<td><p>一位總數：23<br />
 三台冠軍歌曲總數：4</p></td>
 </tr>
 </tbody>
@@ -494,6 +501,7 @@
 | 5月3日   |          |                   |                   |
 | 12月27日 | MILLIONS | 《MILLIONS》        |                   |
 | 2019年  | 1月3日     |                   |                   |
+| 5月23日  | Ah Yeah  | 《WE》              |                   |
 |        |          |                   |                   |
 
 ### [KBS](../Page/韓國放送公社.md "wikilink")《[Music Bank](https://zh.wikipedia.org/wiki/音乐银行 "wikilink")》

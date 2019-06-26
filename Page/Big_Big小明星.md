@@ -2,10 +2,10 @@
 Big小明星**》（）是由[香港](../Page/香港.md "wikilink")[電視廣播有限公司製作的](../Page/電視廣播有限公司.md "wikilink")[兒童節目](../Page/無綫電視兒童節目.md "wikilink")，前身是《[Think
 Big遊學團](../Page/Think_Big遊學團.md "wikilink")》，於2017年7月1日首播\[1\]。
 
-兒童演員[何珀廉](https://zh.wikipedia.org/wiki/何珀廉 "wikilink")\[2\]、[周筠浩](https://zh.wikipedia.org/wiki/周筠浩 "wikilink")\[3\]\[4\]、[譚奕峻](https://zh.wikipedia.org/wiki/譚奕峻 "wikilink")、[黃芷晴](https://zh.wikipedia.org/wiki/黃芷晴_\(兒童演員\) "wikilink")、[甄敏鴻](https://zh.wikipedia.org/wiki/甄敏鴻 "wikilink")、[嚴尚志](https://zh.wikipedia.org/wiki/嚴尚志 "wikilink")、[陶孝杰](https://zh.wikipedia.org/wiki/陶孝杰 "wikilink")、[黃語芊都是透過](https://zh.wikipedia.org/wiki/黃語芊 "wikilink")《Big
+兒童演員[何珀廉](https://zh.wikipedia.org/wiki/何珀廉 "wikilink")\[2\]、[周筠浩](https://zh.wikipedia.org/wiki/周筠浩 "wikilink")\[3\]\[4\]、[譚奕峻](https://zh.wikipedia.org/wiki/譚奕峻 "wikilink")、[黃芷晴](../Page/黃芷晴_\(兒童演員\).md "wikilink")、[甄敏鴻](https://zh.wikipedia.org/wiki/甄敏鴻 "wikilink")、[嚴尚志](https://zh.wikipedia.org/wiki/嚴尚志 "wikilink")、[陶孝杰](https://zh.wikipedia.org/wiki/陶孝杰 "wikilink")、[黃語芊都是透過](https://zh.wikipedia.org/wiki/黃語芊 "wikilink")《Big
 Big小明星2017》\[5\]\[6\]\[7\]進入該節目\[8\]。
 
-2019年1月26日開始只留下[馬俊傑及](https://zh.wikipedia.org/wiki/:zh-yue:馬俊傑 "wikilink")[邱晴為大人主持](../Page/邱晴.md "wikilink")，加入[周筠浩](https://zh.wikipedia.org/wiki/周筠浩 "wikilink")、[黃芷晴](https://zh.wikipedia.org/wiki/黃芷晴_\(兒童演員\) "wikilink")、[黃語芊](https://zh.wikipedia.org/wiki/黃語芊 "wikilink")、[祈智犧](https://zh.wikipedia.org/wiki/祈智犧 "wikilink")、[迪倫瑪沙五位小主持](https://zh.wikipedia.org/wiki/迪倫瑪沙 "wikilink")，[何遠東為單元主持](../Page/何遠東.md "wikilink")。
+2019年1月26日開始只留下[馬俊傑及](https://zh.wikipedia.org/wiki/:zh-yue:馬俊傑 "wikilink")[邱晴為大人主持](../Page/邱晴.md "wikilink")，加入[周筠浩](https://zh.wikipedia.org/wiki/周筠浩 "wikilink")、[黃芷晴](../Page/黃芷晴_\(兒童演員\).md "wikilink")、[黃語芊](https://zh.wikipedia.org/wiki/黃語芊 "wikilink")、[祈智犧](https://zh.wikipedia.org/wiki/祈智犧 "wikilink")、[迪倫瑪沙五位小主持](https://zh.wikipedia.org/wiki/迪倫瑪沙 "wikilink")，[何遠東為單元主持](../Page/何遠東.md "wikilink")。
 
 ## 每集內容
 
@@ -126,6 +126,9 @@ Big小明星2017》\[5\]\[6\]\[7\]進入該節目\[8\]。
 | 98     | [5月11日](../Page/5月11日.md "wikilink") | 「Big Big KIDs」－DIY創意母親節禮物    |
 | 99     | [5月18日](../Page/5月18日.md "wikilink") | 「Big Big KIDs」－蝦頭似開心果？       |
 | 100    | [5月25日](../Page/5月25日.md "wikilink") | 「Big Big KIDs」－家有寵物的樂趣       |
+| 101    | [6月1日](../Page/6月1日.md "wikilink")   | 「Big Big KIDs」－小主持搗蛋暗黑史      |
+| 102    | [6月8日](../Page/6月8日.md "wikilink")   | 「Big Big KIDs」－誰激嬲小主持？       |
+| 103    | [6月15日](../Page/6月15日.md "wikilink") | 「Big Big KIDs」－小主持最重要的東西是甚麼？ |
 
 ## 主持
 
@@ -156,7 +159,7 @@ Big小明星2017》\[5\]\[6\]\[7\]進入該節目\[8\]。
 
 ## 現有主題
 
-  - 「食爆谷傾-{吓}-偈」\[13\]：該環節從2019年1月26日起由[何遠東擔任主持](../Page/何遠東.md "wikilink")（爆谷哥哥）\[14\]，與五位小主持包括[周筠浩](https://zh.wikipedia.org/wiki/周筠浩 "wikilink")、[黃芷晴](https://zh.wikipedia.org/wiki/黃芷晴_\(兒童演員\) "wikilink")、[黃語芊](https://zh.wikipedia.org/wiki/黃語芊 "wikilink")、[祈智犧及](https://zh.wikipedia.org/wiki/祈智犧 "wikilink")[迪倫瑪沙](https://zh.wikipedia.org/wiki/迪倫瑪沙 "wikilink")，一同分享生活軼事\[15\]。
+  - 「食爆谷傾-{吓}-偈」\[13\]：該環節從2019年1月26日起由[何遠東擔任主持](../Page/何遠東.md "wikilink")（爆谷哥哥）\[14\]，與五位小主持包括[周筠浩](https://zh.wikipedia.org/wiki/周筠浩 "wikilink")、[黃芷晴](../Page/黃芷晴_\(兒童演員\).md "wikilink")、[黃語芊](https://zh.wikipedia.org/wiki/黃語芊 "wikilink")、[祈智犧及](https://zh.wikipedia.org/wiki/祈智犧 "wikilink")[迪倫瑪沙](https://zh.wikipedia.org/wiki/迪倫瑪沙 "wikilink")，一同分享生活軼事\[15\]。
 
 ## 資料來源
 

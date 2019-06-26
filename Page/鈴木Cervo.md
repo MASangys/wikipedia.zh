@@ -42,7 +42,7 @@ Image:1980 Suzuki CXG (8728358652).jpg Image:Suzuki CX-G Cervo 1980
 
 1982年 -
 6月大改款的第二代Cervo（原廠代號SS40型）問世，雖然沿襲前代車身雙門、上掀式車尾玻璃等的設計風格，但變得粗壯的B柱乃其特色；而且佈局方式丕變成[前置前驅](https://zh.wikipedia.org/wiki/前置前驅 "wikilink")。為了降低生產成本，此款車有許多零件與[第一代Alto](https://zh.wikipedia.org/wiki/鈴木Alto#第一代SS30V/40V型（1979年-1984年） "wikilink")、[第五代Fronte共用](https://zh.wikipedia.org/wiki/鈴木Fronte#第五代SS30/SS40/SS80型（1979年-1984年） "wikilink")。共通零件之型式為E-SS40，但零件列表中Alto編成SS40V、Fronte編成SS40S、Cervo編成SS40C，從Cervo衍生而出的[皮卡貨車](../Page/皮卡.md "wikilink")[鈴木Mighty
-Boy則編為SS](../Page/鈴木Mighty_Boy.md "wikilink")40T。該車款的[電視廣告邀請女](../Page/電視廣告.md "wikilink")[演員](https://zh.wikipedia.org/wiki/演員 "wikilink")作為[代言人](https://zh.wikipedia.org/wiki/代言人 "wikilink")。
+Boy則編為SS](../Page/鈴木Mighty_Boy.md "wikilink")40T。該車款的[電視廣告邀請女](../Page/電視廣告.md "wikilink")[演員](../Page/演員.md "wikilink")作為[代言人](https://zh.wikipedia.org/wiki/代言人 "wikilink")。
 
 1983年 -
 5月部份改良，改良後的[凸輪軸使得引擎](https://zh.wikipedia.org/wiki/凸輪軸 "wikilink")[壓縮比由](https://zh.wikipedia.org/wiki/壓縮比 "wikilink")9.5：1變成9.7：1，改良[觸媒轉化器和](../Page/催化转换器.md "wikilink")[EGR裝置且引擎加裝自動阻風門](../Page/排氣再循環.md "wikilink")。

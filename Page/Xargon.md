@@ -502,7 +502,7 @@ Club](https://www.facebook.com/XGamersESportClub/)副領隊，同時也是台灣
 ## 外部連結
 
   - Xargon的[Facebook](https://www.facebook.com/Xargonlol)粉絲團
-  - Xargon的[Youtube](https://www.youtube.com/user/XargonTW)頻道
+  - Xargon的[Youtube頻道](https://www.youtube.com/user/XargonTW)、[Youtube副頻道](https://www.youtube.com/channel/UCNel_NY99FgCHkOREH8A5nQ)
   - Xargon的[Twitch](http://zh-tw.twitch.tv/xargon0731)實況網址
   - Xargon的\[<http://app.twitch.tv/client-command?cmd=invite&arg=BooranaDalindaDurkot&next=https%3A%2F%2Fapp.twitch.tv%2Finvite%2FBooranaDalindaDurkot&t=1505714408452>**Twitch
     Desktop App**\]

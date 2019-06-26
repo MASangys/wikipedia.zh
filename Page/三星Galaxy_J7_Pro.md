@@ -20,8 +20,7 @@ J7 Prime一樣為三卡槽](../Page/三星Galaxy_J7_Prime.md "wikilink")。\[4\]
   - 電池：3600 mAh
   - 尺寸：5.5寸
   - 處理器：[三星Exynos](../Page/三星Exynos.md "wikilink") 7870
-  - 操作系統：基於Android 7.0 Nougat系統的[Grace
-    UX](../Page/TouchWiz.md "wikilink") 介面
+  - 操作系統：基於Android 9.0 Pie系統的One ui 介面
   - 重量：181克
   - 螢幕：1080p Full HD [Super
     AMOLED](https://zh.wikipedia.org/wiki/Super_AMOLED "wikilink")

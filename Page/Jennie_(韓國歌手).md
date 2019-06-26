@@ -23,7 +23,7 @@ D'ETAT](../Page/COUP_D'ETAT.md "wikilink")》主打曲之一的《Black》韓語
 ### 2016年至今：BLACKPINK、個人出道
 
 2016年6月1日，Jennie成為YG娛樂率先公布的首位新女團BLACKPINK成員之一\[15\]，隨後於同年8月8日正式出道\[16\]，並隨組合發行首張單曲專輯《[Square
-One](../Page/Square_One_\(Black_Pink單曲\).md "wikilink")》。\[17\]
+One](../Page/Square_One_\(BLACKPINK單曲\).md "wikilink")》。\[17\]
 
 以BLACKPINK的身份活動兩年後，Jennie率先隻身展開音樂活動，其個人首張單曲《[Solo](../Page/Solo_\(單曲\).md "wikilink")》發行於2018年11月12日。
 

@@ -298,7 +298,7 @@ Gary、宋智孝、李棟旭</p></td>
 池錫辰、金鐘國、Gary、哈哈、宋智孝、李光洙<br />
 <span style=color:#0000FF><strong>戲劇部</strong></span><br />
 劉在錫、金秀路、閔孝琳、金宇彬、李鍾碩、李宗泫</p></td>
-<td><p>把旗幟掛上旗杆一分鐘</p></td>
+<td><p>30分鐘内把旗幟掛上隊伍旗杆一分鐘</p></td>
 <td><p>戲劇部<strong>勝出</strong><br />
 獲得紳士高中旗幟<br />
 <em><strong>註：</strong>概念來自<a href="../Page/SBS週末特別計劃劇.md" title="wikilink">SBS週末劇</a>《<a href="../Page/紳士的品格.md" title="wikilink">紳士的品格</a>》</em></p></td>
@@ -506,7 +506,7 @@ Gary、宋智孝、李相侖<br />
 <span style=color:#0000FF><strong>藍隊</strong></span>：劉在錫、李光洙、金秀賢<br />
 <span style=color:#FF0000><strong>紅隊</strong></span>：金鐘國、哈哈、李玹雨<br />
 <span style=color:#008000><strong>綠隊</strong></span>：池錫辰、Gary、宋智孝</p></td>
-<td><p>擊敗其餘的隊伍</p></td>
+<td><p>拔河比賽中勝出</p></td>
 <td><p>綠隊<strong>勝出</strong><br />
 獲得獎盃<br />
 '<strong>'註：</strong>宣傳電影《<a href="../Page/偉大的隱藏者.md" title="wikilink">偉大的隱藏者</a>》</p></td>

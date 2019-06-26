@@ -46,7 +46,7 @@ I/O包括环孔连接器：3个[GPIO](https://zh.wikipedia.org/wiki/GPIO "wikili
 
 Micro
 Bit的软件是使用[ARM](https://zh.wikipedia.org/wiki/ARM_Holdings "wikilink")
-[Mbed开发工具建立的](../Page/Mbed.md "wikilink")\[21\]，并且采用了其编程接口[DAPLink](https://www.mbed.com/en/platform/hardware/prototyping-production/daplink/daplink-on-kl26z/)，设备在连接到计算机的时候，是作为一个[USB大容量存储设备而出现的](https://zh.wikipedia.org/wiki/USB大容量存储设备 "wikilink")\[22\]。[兰卡斯特大学开发了micro](../Page/兰卡斯特大学.md "wikilink"):bit[运行时系统](https://zh.wikipedia.org/wiki/运行时系统 "wikilink")（有时称为设备抽象层），提供了[事件驱动编程和](https://zh.wikipedia.org/wiki/事件驱动 "wikilink")[键-值存储机制](https://zh.wikipedia.org/wiki/键-值存储 "wikilink")\[23\]，采用了的[nRF51
+[Mbed开发工具建立的](../Page/Mbed.md "wikilink")\[21\]，并且采用了其编程接口[DAPLink](https://www.mbed.com/en/platform/hardware/prototyping-production/daplink/daplink-on-kl26z/)，设备在连接到计算机的时候，是作为一个[USB大容量存储设备而出现的](https://zh.wikipedia.org/wiki/USB大容量存储设备 "wikilink")\[22\]。[兰卡斯特大学开发了micro](../Page/兰卡斯特大学.md "wikilink"):bit[运行时系统](https://zh.wikipedia.org/wiki/运行时系统 "wikilink")（有时称为设备抽象层），提供了[事件驱动编程和](https://zh.wikipedia.org/wiki/事件驱动 "wikilink")[键-值存储机制](../Page/键-值存储.md "wikilink")\[23\]，采用了的[nRF51
 SDK](https://github.com/ARMmbed/nrf51-sdk)和[S110
 SoftDevice](http://infocenter.nordicsemi.com/topic/com.nordic.infocenter.softdevices51/dita/softdevices/s110/s110.html?cp=3_7_0)，以及[Mbed的](../Page/Mbed.md "wikilink")[BLE
 API](https://os.mbed.com/teams/Bluetooth-Low-Energy/)，并与[蓝牙技术联盟协作开发了定制的BLE](https://zh.wikipedia.org/wiki/蓝牙技术联盟 "wikilink")

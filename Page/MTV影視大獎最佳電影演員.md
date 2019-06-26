@@ -1085,6 +1085,43 @@ Movie）是[MTV影視大獎重要的獎項之一](../Page/MTV影視大獎.md "wi
 <td></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>'''2019<br />
+(第28屆)<br />
+</p></td>
+<td><p>'''<a href="../Page/Lady_Gaga.md" title="wikilink">Lady Gaga</a> ‡</p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/一個巨星的誕生" title="wikilink">一個巨星的誕生</a></strong></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/珊迪娜·布洛" title="wikilink">珊迪娜·布洛</a></p></td>
+<td><p><a href="../Page/蒙上你的眼.md" title="wikilink">蒙上你的眼</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/露琵塔·尼詠歐" title="wikilink">露琵塔·尼詠歐</a></p></td>
+<td><p><a href="../Page/我們_(2019年電影).md" title="wikilink">我們</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/雷米·馬利克.md" title="wikilink">雷米·馬利克</a> †</p></td>
+<td><p><a href="../Page/波希米亞狂想曲_(電影).md" title="wikilink">波希米亞狂想曲</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/阿曼德拉·斯坦伯格.md" title="wikilink">阿曼德拉·斯坦伯格</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

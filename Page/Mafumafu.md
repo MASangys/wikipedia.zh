@@ -1,4 +1,4 @@
-**Mafumafu**（まふまふ，），是日本男性歌手、作曲家。身高178公分，體重59.5公斤。
+**Mafumafu**（まふまふ，），是日本男性歌手、作曲家。身高178公分，體重58.1公斤。
 
 負責音樂團體[After the
 Rain的歌唱](../Page/After_the_Rain.md "wikilink")、作詞、作曲、編曲。
@@ -279,6 +279,8 @@ Rain的歌唱](../Page/After_the_Rain.md "wikilink")、作詞、作曲、編曲�
 | ----------- | --------------------------------------------------------------- | ----- |
 | セカイシックに少年少女 | 朝日放送 ABC地方電視劇 「」片尾曲                                             | 2015年 |
 | ファーストエンド    | 東京都會電視台其他 動畫「[從前有座靈劍山 星塵們之宴](../Page/从前有座灵剑山.md "wikilink")」片頭曲 | 2016年 |
+| サクリファイス     | 電視動畫「[獵獸神兵](../Page/獵獸神兵.md "wikilink")」片頭曲                     | 2019年 |
+|             |                                                                 |       |
 
 ### 提供樂曲
 
@@ -460,6 +462,10 @@ Rain的歌唱](../Page/After_the_Rain.md "wikilink")、作詞、作曲、編曲�
   - 02月14日　XYZ TOUR 2018 -Valentine's Night Ladies Only-　東京都 TSUTAYA
     O-EAST
   - 09月1日　XYZ TOUR 2018 -SUMMER‐　大阪府 Zepp Osaka Bayside
+
+</div>
+
+</div>
 
 ## 演出作品
 

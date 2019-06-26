@@ -599,7 +599,7 @@ Park I Nam、Im Chae Gil</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Niconico頻道" title="wikilink">Niconico頻道</a></p></td>
+<td><p><a href="../Page/Niconico頻道.md" title="wikilink">Niconico頻道</a></p></td>
 <td><p>星期日 25時00分 更新</p></td>
 <td></td>
 <td></td>

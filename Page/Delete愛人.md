@@ -43,8 +43,8 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/張智霖.md" title="wikilink">張智霖</a></p></td>
-<td><p>馬上發〔Cool魔〕</p></td>
 <td><p>蘇波榮的老闆(第2次變身後)</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/元秋.md" title="wikilink">元秋</a></p></td>

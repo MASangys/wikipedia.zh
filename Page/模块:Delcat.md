@@ -78,7 +78,46 @@ end function p.deltitle(input)
 `   elseif count < 3 then result = result .. "\n----" end`
 `   return result .. '\n'`
 
-end function p.dellink(frame)
+end function p.bytelen(frame)
+
+`   local args`
+`   if frame == mw.getCurrentFrame() then`
+`       -- We're being called via #invoke. The args are passed through to the module`
+`       -- from the template page, so use the args that were passed into the template.`
+`       args = frame.args`
+`   else`
+`       -- We're being called from another module or from the debug console, so assume`
+`       -- the args are passed in directly.`
+`       args = frame`
+`       if type(args) ~= type({}) then args = {frame} end`
+`   end`
+`   return string.len(args[1] or args['1'])`
+
+end function p.getcjk(frame)
+
+`   local args`
+`   if frame == mw.getCurrentFrame() then`
+`       -- We're being called via #invoke. The args are passed through to the module`
+`       -- from the template page, so use the args that were passed into the template.`
+`       args = frame.args`
+`   else`
+`       -- We're being called from another module or from the debug console, so assume`
+`       -- the args are passed in directly.`
+`       args = frame`
+`       if type(args) ~= type({}) then args = {frame} end`
+`   end`
+`   local str = mw.ustring.gsub(mw.ustring.gsub(args[1] or args['1'],`
+`       "[%c%l%u%d%p%s%z" ..`
+``           "%>%<%=%{%}%|%[%]%`%+%-%*%/%\\"``
+`       .. "↑↓←→№©⧸⁄"`
+`       .. "%−%~%~%!%@%#%$%^%&%_×÷ºª±∓"`
+`       .. "]"`
+`   ,'.'),"%.+",args['gap'] or '')`
+`   return str`
+
+end
+
+function p.dellink(frame)
 
 `   if not getArgs then`
 `       getArgs = require('Module:Arguments').getArgs`
@@ -218,6 +257,14 @@ end function p.get_chapter(frame)
 `   end`
 `   `
 `   return ''`
+
+end function p.delnowiki(frame)
+
+`   if not getArgs then`
+`       getArgs = require('Module:Arguments').getArgs`
+`   end`
+`   get_args = getArgs(frame, {parentFirst=true})`
+`   return mw.text.unstripNoWiki( (get_args[1] or get_args['1']) or '' )`
 
 end function p.find_title(str, title, keep_title)
 

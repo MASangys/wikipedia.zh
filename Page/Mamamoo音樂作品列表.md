@@ -388,7 +388,8 @@
 <td><p>Yes I am</p></td>
 <td><p>2</p></td>
 <td><ul>
-<li>韓國：805,074+<ref name="Purple下載量統計">《Purple》專輯收錄曲韓國下載量統計：</li>
+<li>韓國：1,110,353+<ref name="Purple下載量統計">《Purple》專輯收錄曲韓國下載量統計：</li>
+<li></li>
 <li></li>
 <li></li>
 <li><p></ref></p></li>
@@ -606,7 +607,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/Gaon_Chart" title="wikilink">KOR</a><br />
-[22]</p></td>
+</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -725,6 +726,15 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS_2TV" title="wikilink">KBS 2TV</a>《<a href="https://zh.wikipedia.org/wiki/金裝律師_(韓國電視劇)" title="wikilink">金裝律師</a>》OST</p></td>
 </tr>
 <tr class="odd">
+<td><p>2019年</p></td>
+<td><p>WOW</p></td>
+<td></td>
+<td><ul>
+<li>韓國：</li>
+</ul></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/tvN" title="wikilink">tvN</a>《<a href="https://zh.wikipedia.org/wiki/請輸入檢索詞：WWW" title="wikilink">請輸入檢索詞：WWW</a>》OST</p></td>
+</tr>
+<tr class="even">
 <td><p><small>"—" 表示該專輯/單曲未有在榜上排名或未有資料或沒有在當地發行</small></p></td>
 <td></td>
 <td></td>
@@ -750,7 +760,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/Gaon_Chart" title="wikilink">KOR</a><br />
-[23]</p></td>
+[22]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -791,6 +801,52 @@
 
 ## 日語
 
+### 專輯
+
+<table>
+<thead>
+<tr class="header">
+<th><p>專輯 #</p></th>
+<th><p>專輯資料</p></th>
+<th><p><a href="../Page/Oricon公信榜.md" title="wikilink">Oricon排行榜最高位置</a></p></th>
+<th><p>銷量</p></th>
+<th><p>曲目</p></th>
+<th><p>唱片銷售認證<br />
+<small>（<a href="../Page/日本唱片協會.md" title="wikilink">日本唱片協會</a>）</small></p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>日間</p></td>
+<td><p>週間</p></td>
+<td><p>月間</p></td>
+<td><p>年間</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1st</p></td>
+<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/4colors_(Mamamoo日本專輯)" title="wikilink">4colors</a></strong>》</p>
+<ul>
+<li>發行日期：2019年8月7日</li>
+<li>唱片公司：VICTOR ENTERAINMENT</li>
+</ul></td>
+<td></td>
+<td></td>
+<td><p>─</p></td>
+<td><p>─</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ### 單曲
 
 <table>
@@ -821,8 +877,8 @@
 <li>發行日期：2018年10月3日</li>
 <li>唱片公司：VICTOR ENTERAINMENT</li>
 </ul></td>
-<td><p>6[24]</p></td>
-<td><p>11[25]</p></td>
+<td><p>6[23]</p></td>
+<td><p>11[24]</p></td>
 <td><p>─</p></td>
 <td><p>─</p></td>
 </tr>
@@ -833,8 +889,8 @@
 <li>發行日期：2019年2月6日</li>
 <li>唱片公司：VICTOR ENTERAINMENT</li>
 </ul></td>
-<td><p>9[26]</p></td>
-<td><p>16[27]</p></td>
+<td><p>9[25]</p></td>
+<td><p>16[26]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -853,34 +909,34 @@
 
 | 年份                                                                                                                                                | 歌曲名稱                                     | 導演                  | 來源                       |
 | ------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- | ------------------- | ------------------------ |
-| 2014年                                                                                                                                             | Don't Be Happy<small>（與{{tsl|en|Bumkey   | Bumkey}}）</small>   | Min Oh\[28\]\[29\]\[30\] |
-| Peppermint Chocolate<small>（與[K.Will](https://zh.wikipedia.org/wiki/K.Will "wikilink")、[輝星](https://zh.wikipedia.org/wiki/輝星 "wikilink")）</small> | \[31\]                                   |                     |                          |
-| Mr. Ambiguous                                                                                                                                     | \[32\]                                   |                     |                          |
-| Piano Man                                                                                                                                         | Kwon Soon-wook\[33\]                     | \[34\]              |                          |
+| 2014年                                                                                                                                             | Don't Be Happy<small>（與{{tsl|en|Bumkey   | Bumkey}}）</small>   | Min Oh\[27\]\[28\]\[29\] |
+| Peppermint Chocolate<small>（與[K.Will](https://zh.wikipedia.org/wiki/K.Will "wikilink")、[輝星](https://zh.wikipedia.org/wiki/輝星 "wikilink")）</small> | \[30\]                                   |                     |                          |
+| Mr. Ambiguous                                                                                                                                     | \[31\]                                   |                     |                          |
+| Piano Man                                                                                                                                         | Kwon Soon-wook\[32\]                     | \[33\]              |                          |
 | 2015年                                                                                                                                             | Ahh Oop\!<small>（與{{tsl|en|Esna (singer) | Esna}}）</small>     | {{tsl|en|Digipedi        |
-| Um Oh Ah Yeh                                                                                                                                      |                                          | \[35\]              |                          |
-| Stand Up（與[Basick](https://zh.wikipedia.org/wiki/Basick "wikilink")）                                                                              |                                          | \[36\]              |                          |
-| Girl Crush                                                                                                                                        |                                          | \[37\]              |                          |
-| 2016年                                                                                                                                             | Taller Than You                          | Kim Beom-chul\[38\] | \[39\]                   |
-| You're the Best                                                                                                                                   |                                          | \[40\]              |                          |
-| My Recipe                                                                                                                                         |                                          | \[41\]              |                          |
-| Hometown                                                                                                                                          |                                          | \[42\]              |                          |
-| Woo Hoo                                                                                                                                           |                                          | \[43\]              |                          |
-| Dab Dab<small>（[玟星](https://zh.wikipedia.org/wiki/文星伊 "wikilink")、[華莎](../Page/華莎.md "wikilink")）</small>                                         | {{tsl|en|Zanybros                        | Zanybros}}          | \[44\]                   |
-| Angel<small>（[頌樂](https://zh.wikipedia.org/wiki/金容仙 "wikilink")、[輝人](https://zh.wikipedia.org/wiki/丁輝人 "wikilink")）</small>                       | \[45\]                                   |                     |                          |
-| New York                                                                                                                                          | \[46\]                                   |                     |                          |
-| I Won't Let Go                                                                                                                                    | \[47\]                                   |                     |                          |
-| Décalcomanie                                                                                                                                      | \[48\]                                   |                     |                          |
-| Draw & Draw & Draw                                                                                                                                | \[49\]                                   |                     |                          |
+| Um Oh Ah Yeh                                                                                                                                      |                                          | \[34\]              |                          |
+| Stand Up（與[Basick](https://zh.wikipedia.org/wiki/Basick "wikilink")）                                                                              |                                          | \[35\]              |                          |
+| Girl Crush                                                                                                                                        |                                          | \[36\]              |                          |
+| 2016年                                                                                                                                             | Taller Than You                          | Kim Beom-chul\[37\] | \[38\]                   |
+| You're the Best                                                                                                                                   |                                          | \[39\]              |                          |
+| My Recipe                                                                                                                                         |                                          | \[40\]              |                          |
+| Hometown                                                                                                                                          |                                          | \[41\]              |                          |
+| Woo Hoo                                                                                                                                           |                                          | \[42\]              |                          |
+| Dab Dab<small>（[玟星](https://zh.wikipedia.org/wiki/文星伊 "wikilink")、[華莎](../Page/華莎.md "wikilink")）</small>                                         | {{tsl|en|Zanybros                        | Zanybros}}          | \[43\]                   |
+| Angel<small>（[頌樂](https://zh.wikipedia.org/wiki/金容仙 "wikilink")、[輝人](https://zh.wikipedia.org/wiki/丁輝人 "wikilink")）</small>                       | \[44\]                                   |                     |                          |
+| New York                                                                                                                                          | \[45\]                                   |                     |                          |
+| I Won't Let Go                                                                                                                                    | \[46\]                                   |                     |                          |
+| Décalcomanie                                                                                                                                      | \[47\]                                   |                     |                          |
+| Draw & Draw & Draw                                                                                                                                | \[48\]                                   |                     |                          |
 | 2017年                                                                                                                                             | AZE GAG                                  | {{tsl|en|Zanybros   | Zanybros}}               |
-| Yes I am                                                                                                                                          | \[50\]                                   |                     |                          |
+| Yes I am                                                                                                                                          | \[49\]                                   |                     |                          |
 | 2018年                                                                                                                                             | Paintme                                  | {{tsl|en|Zanybros   | Zanybros}}               |
-| Starry Night                                                                                                                                      | \[51\]                                   |                     |                          |
-| Star Wind Flower Sun                                                                                                                              | \[52\]                                   |                     |                          |
-| Everyday                                                                                                                                          | \[53\]                                   |                     |                          |
-| Egotistic                                                                                                                                         | \[54\]                                   |                     |                          |
-| 하늘하늘 (청순)                                                                                                                                         | \[55\]                                   |                     |                          |
-| Wind flower                                                                                                                                       | \[56\]                                   |                     |                          |
+| Starry Night                                                                                                                                      | \[50\]                                   |                     |                          |
+| Star Wind Flower Sun                                                                                                                              | \[51\]                                   |                     |                          |
+| Everyday                                                                                                                                          | \[52\]                                   |                     |                          |
+| Egotistic                                                                                                                                         | \[53\]                                   |                     |                          |
+| 하늘하늘 (청순)                                                                                                                                         | \[54\]                                   |                     |                          |
+| Wind flower                                                                                                                                       | \[55\]                                   |                     |                          |
 |                                                                                                                                                   |                                          |                     |                          |
 
 ## 外部連結
@@ -926,6 +982,7 @@
 21.
 22.
 23.
+
 24.
 
 25.
@@ -989,5 +1046,3 @@
 54.
 
 55.
-
-56.

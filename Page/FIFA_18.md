@@ -83,6 +83,8 @@ One和任天堂Switch平台上发售。克里斯蒂亚诺·罗纳尔多是游戏
 ## 外部链接
 
   -
+  - [FIFA 18影片](https://www.youtube.com/playlist?list=PLxI6P_pl3FrNyP4jyJBFlQL5ERXCHzNRZ)
+
 [Category:2017年电子游戏](https://zh.wikipedia.org/wiki/Category:2017年电子游戏 "wikilink")
 [Category:FIFA系列](https://zh.wikipedia.org/wiki/Category:FIFA系列 "wikilink")
 [Category:PlayStation_4遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_4遊戲 "wikilink")

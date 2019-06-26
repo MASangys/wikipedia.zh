@@ -11,6 +11,6 @@
 ## 參見
 
   - [泰緬孤軍](../Page/泰緬孤軍.md "wikilink")
-  - [泰北志願自衛隊](https://zh.wikipedia.org/wiki/泰北志願自衛隊 "wikilink")
+  - [泰北志願自衛隊](../Page/泰北志願自衛隊.md "wikilink")
 
 ## 參考文獻

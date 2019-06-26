@@ -40,7 +40,7 @@ BOY比賽中獲得評審特別獎](../Page/JUNON_SUPER_BOY.md "wikilink")\[3\]�
 <tr class="odd">
 <td><p>あおい</p></td>
 <td><p>Aoi</p></td>
-<td><p>AOI君、AOI醬</p></td>
+<td><p>AOI君、AOI醬、可愛糖</p></td>
 <td></td>
 <td><p>紅</p></td>
 <td><p>最年少成員</p></td>

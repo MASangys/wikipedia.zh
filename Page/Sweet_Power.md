@@ -1,5 +1,5 @@
 **Sweet
-Power**（），[日本知名](../Page/日本.md "wikilink")[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")，1996年創立。旗下簽約藝人以[演員及](https://zh.wikipedia.org/wiki/演員 "wikilink")[模特兒為主](../Page/模特兒.md "wikilink")。
+Power**（），[日本知名](../Page/日本.md "wikilink")[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")，1996年創立。旗下簽約藝人以[演員及](../Page/演員.md "wikilink")[模特兒為主](../Page/模特兒.md "wikilink")。
 
 ## 簡介
 

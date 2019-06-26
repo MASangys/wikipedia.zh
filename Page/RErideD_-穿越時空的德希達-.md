@@ -1,5 +1,5 @@
 《**RErideD -穿越時空的德希達-**》（）是一部由[GEEK
-TOYS製作的原創動畫](https://zh.wikipedia.org/wiki/GEEK_TOYS "wikilink")，於2018年10月播映\[1\]。
+TOYS製作的原創動畫](../Page/GEEK_TOYS.md "wikilink")，於2018年10月播映\[1\]。
 
 2017年7月2日，角川在「Anime Expo 2017」中以代號「Project
 D」發表本作，並表示本作是一部由佐藤卓哉及安倍吉俊合作、以時間跳躍為題材的作品\[2\]\[3\]。

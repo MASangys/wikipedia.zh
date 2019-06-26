@@ -136,6 +136,11 @@ Factory出版](../Page/Media_Factory.md "wikilink")，中文版由[尖端出版�
 <td><p>2018年11月24日</p></td>
 <td><p>ISBN 978-4-04-065235-1</p></td>
 </tr>
+<tr class="odd">
+<td><p>10</p></td>
+<td><p>2019年7月25日</p></td>
+<td><p>ISBN 978-4-04-065734-9</p></td>
+</tr>
 </tbody>
 </table>
 

@@ -21,7 +21,8 @@ PLAN的網站](https://zh.wikipedia.org/wiki/#LINK_PLAN "wikilink")。
   - [岡本信彥](../Page/岡本信彥.md "wikilink")
 
   -
-  -
+  - [相馬康一](https://zh.wikipedia.org/wiki/相馬康一 "wikilink")
+
   - [高橋伸也](../Page/高橋伸也.md "wikilink")
 
   -

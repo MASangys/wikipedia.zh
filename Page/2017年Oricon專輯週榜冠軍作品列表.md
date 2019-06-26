@@ -44,7 +44,7 @@
 <tr class="even">
 <td><p>1月23日</p></td>
 <td><p><a href="../Page/Ambitions.md" title="wikilink">Ambitions</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/ONE_OK_ROCK" title="wikilink">ONE OK ROCK</a></p></td>
+<td><p><a href="../Page/ONE_OK_ROCK.md" title="wikilink">ONE OK ROCK</a></p></td>
 <td><p>原創</p></td>
 <td><p>23.2</p></td>
 <td><p>1</p></td>

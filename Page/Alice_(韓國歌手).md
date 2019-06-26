@@ -1,4 +1,4 @@
-**宋主喜**（，，），藝名**愛麗絲**（，），出生於[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[江原道](../Page/江原道_\(朝鮮八道\).md "wikilink")[原州市](../Page/原州市.md "wikilink")，[韓國女](https://zh.wikipedia.org/wiki/韓國 "wikilink")[歌手及](../Page/歌手.md "wikilink")[演員](https://zh.wikipedia.org/wiki/演員 "wikilink")，現為[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Hello
+**宋主喜**（，，），藝名**愛麗絲**（，），出生於[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[江原道](../Page/江原道_\(朝鮮八道\).md "wikilink")[原州市](../Page/原州市.md "wikilink")，[韓國女](https://zh.wikipedia.org/wiki/韓國 "wikilink")[歌手及](../Page/歌手.md "wikilink")[演員](../Page/演員.md "wikilink")，現為[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Hello
 Venus的成員](../Page/Hello_Venus.md "wikilink")，隊內擔任第二任隊長、主唱。
 
 ## 演藝生涯

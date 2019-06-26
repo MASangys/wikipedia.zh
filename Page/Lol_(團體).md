@@ -642,7 +642,7 @@ AVCG-70113</p></td>
 7⽉27⽇ ⼤阪 BIGCAT </p></td>
 </tr>
 <tr class="odd">
-<td><p>2018年</p></td>
+<td><p>2018年-2019</p></td>
 <td><p>Larger|lol- festival 2018-平成最後のスクールライフ...（笑）</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavContent" style="text-align:center;">
@@ -652,7 +652,28 @@ AVCG-70113</p></td>
 12月17日 宮城 仙台darwin<br />
 12月22日 石川 金沢AZ<br />
 12月27日 愛知 名古屋JAMMIN'<br />
-2019年1月6日 大阪　梅田CLUB QUATTRO </p></td>
+1月6日 大阪　梅田CLUB QUATTRO </p></td>
+</tr>
+<tr class="even">
+<td><p>2018年-2019</p></td>
+<td><p>Larger|lol live tour 2019（仮）</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavContent" style="text-align:center;">
+<p>11月8日 大阪 梅田CLUB QUATTRO<br />
+11月10日 東京 Veats Shibuya<br />
+11月16日 千葉 柏PALOOZA<br />
+11月17日 静岡 静岡Sunash<br />
+11月24日 石川 金沢GOLD CREEK<br />
+11月30日 埼玉 HEAVEN'S ROCK さいたま新都心VJ-3<br />
+12月1日 神奈川 F.A.D YOKOHAMA<br />
+12月6日 鹿児島 鹿児島SRホール<br />
+12月7日 福岡 福岡DRUM Be-1<br />
+12月8日 長崎 長崎DRUM Be-7<br />
+12月21日 愛知 ボトムライン<br />
+12月22日 宮城 仙台CLUB JUNK BOX<br />
+12月27日 京都 KYOTO MUSE<br />
+12月28日 兵庫 神戸VARIT.<br />
+12月29日 広島 広島クラブクアトロ  </p></td>
 </tr>
 </tbody>
 </table>

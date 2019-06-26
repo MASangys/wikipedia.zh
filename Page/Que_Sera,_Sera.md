@@ -58,7 +58,10 @@ Sera》被列入[AFI百年百大電影歌曲名單](https://zh.wikipedia.org/wik
 
   - ：[白光主唱](../Page/白光_\(影星\).md "wikilink")。1965年。[華語](https://zh.wikipedia.org/wiki/華語 "wikilink")（[北京話](https://zh.wikipedia.org/wiki/北京話 "wikilink")）。歌名「世事多変化」。
 
-  - ：[鄧麗君主唱](../Page/鄧麗君.md "wikilink")。華語（北京話）。年份不詳。歌名「世事多變化」，內容與1965年中國歌手白光翻唱版相同。
+  - ：
+
+    1.  [鄧麗君主唱](../Page/鄧麗君.md "wikilink")。華語（北京話）。年份不詳。歌名「世事多變化」，內容與1965年中國歌手白光翻唱版相同。
+    2.  [王秀如主唱](https://zh.wikipedia.org/wiki/王秀如 "wikilink")。台語。1969年。歌名「思念彼人」\[9\]。
 
   - ：[葛蘭主唱](https://zh.wikipedia.org/wiki/葛蘭 "wikilink")。華語（北京話）。1965年。歌名「將來是個謎」。
 
@@ -84,3 +87,4 @@ Sera》被列入[AFI百年百大電影歌曲名單](https://zh.wikipedia.org/wik
 6.  《[Billboard](../Page/告示牌_\(雜誌\).md "wikilink")》，第62、71頁，1970年6月27日。
 7.  《Billboard》，第76頁，1973年6月23日。
 8.  《Billboard》，第69頁，1978年7月8日。
+9.

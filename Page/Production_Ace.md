@@ -400,7 +400,7 @@ MEDIA綜合學院的[合資公司](../Page/合資公司.md "wikilink")，並更�
 
   - [柳本直明](https://zh.wikipedia.org/wiki/柳本直明 "wikilink")
 
-  - （現屬）
+  - [矢野獎吾](../Page/矢野獎吾.md "wikilink")（現屬）
 
   - [山口浩太](https://zh.wikipedia.org/wiki/山口浩太 "wikilink")
 

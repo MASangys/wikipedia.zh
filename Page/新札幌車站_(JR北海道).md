@@ -20,11 +20,11 @@
 
 戰前是日本國鉄的農場和大日本帝國陸軍的厚別彈藥庫。戰後土地轉讓給札幌市成爲「新札幌副都心」。農場成爲札幌市営ひばりが丘團地。彈藥庫成爲商業地帶。[千歲線短縮時在現址建造了本站](../Page/千歲線.md "wikilink")。
 
-建造時新札幌站是現在的[札幌貨物總站](../Page/札幌貨物總站.md "wikilink")。因此暫時被稱爲**下野幌站**。1973年7月開業前將新札幌站更名为札幌貨物總站，本站则正式命名为新札幌站。
+建造時新札幌站是現在的[札幌貨物總站](../Page/札幌貨物總站.md "wikilink")。因此暫時被稱爲**下野幌站**（当时的上野幌站現為厚別南公園）。1973年7月開業前將新札幌站更名为札幌貨物總站，本站则正式命名为新札幌站。
 
 ## 車站結構
 
-[對向式月台](https://zh.wikipedia.org/wiki/對向式月台 "wikilink")2面2線的[高架車站](../Page/高架車站.md "wikilink")。
+[對向式月台](https://zh.wikipedia.org/wiki/對向式月台 "wikilink")2面2線的[高架車站](../Page/高架車站.md "wikilink")。由於[月台的](https://zh.wikipedia.org/wiki/月台 "wikilink")[有效長度較短](https://zh.wikipedia.org/wiki/有效長度 "wikilink")，一些加掛車廂至10節的[特急列車停靠時](https://zh.wikipedia.org/wiki/特急列車 "wikilink")[只開啟部份車門](../Page/選擇性車門操作.md "wikilink")。
 
 ### 月台配置
 
@@ -42,7 +42,7 @@
 <td><p>1</p></td>
 <td><p>千歲線</p></td>
 <td><p>上行</p></td>
-<td><p>、<a href="../Page/新千歲機場站.md" title="wikilink">新千歲機場</a>、<a href="https://zh.wikipedia.org/wiki/苫小牧站" title="wikilink">苫小牧</a>、<a href="https://zh.wikipedia.org/wiki/東室蘭站" title="wikilink">東室蘭</a>、<a href="https://zh.wikipedia.org/wiki/函館站" title="wikilink">函館</a>、<a href="https://zh.wikipedia.org/wiki/帶廣站" title="wikilink">帶廣</a>、<a href="https://zh.wikipedia.org/wiki/釧路站" title="wikilink">釧路方向</a></p></td>
+<td><p><a href="../Page/千歲站_(北海道).md" title="wikilink">千歲</a>、<a href="../Page/新千歲機場站.md" title="wikilink">新千歲機場</a>、<a href="https://zh.wikipedia.org/wiki/苫小牧站" title="wikilink">苫小牧</a>、<a href="https://zh.wikipedia.org/wiki/東室蘭站" title="wikilink">東室蘭</a>、<a href="https://zh.wikipedia.org/wiki/函館站" title="wikilink">函館</a>、<a href="https://zh.wikipedia.org/wiki/帶廣站" title="wikilink">帶廣</a>、<a href="https://zh.wikipedia.org/wiki/釧路站" title="wikilink">釧路方向</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
@@ -91,8 +91,7 @@
         快速「」
 
           -
-
-            （H07）－**新札幌（H05）**－（一部分停靠[白石站](https://zh.wikipedia.org/wiki/白石站_\(JR北海道\) "wikilink")（H03））－[札幌](../Page/札幌站.md "wikilink")（01）
+            [北廣島](../Page/北廣島站.md "wikilink")（H07）－**新札幌（H05）**－（一部分停靠[白石站](https://zh.wikipedia.org/wiki/白石站_\(JR北海道\) "wikilink")（H03））－[札幌](../Page/札幌站.md "wikilink")（01）
 
         普通
 

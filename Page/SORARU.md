@@ -31,6 +31,43 @@ Rain的歌唱兼Mix](../Page/After_the_Rain.md "wikilink")、Mastering。
 
 最高排名以[Oricon公信榜為評判標準](../Page/Oricon公信榜.md "wikilink")\[3\]。
 
+### 單曲
+
+<table>
+<thead>
+<tr class="header">
+<th><p>序列</p></th>
+<th><p>發售日</p></th>
+<th><p>專輯名稱</p></th>
+<th><p>規格編號</p></th>
+<th><p><a href="../Page/Oricon.md" title="wikilink">Oricon</a> 最高位</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>初回限定盤A</p></td>
+<td><p>初回限定盤B</p></td>
+<td><p>動畫盤</p></td>
+<td><p>通常盤</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1st</p></td>
+<td><p>2018年11月28日</p></td>
+<td></td>
+<td><p>TYCT-39095</p></td>
+<td><p>TYCT-39096</p></td>
+</tr>
+<tr class="odd">
+<td><p>2nd</p></td>
+<td><p>2019年3月6日</p></td>
+<td></td>
+<td><p>TYCT-39104</p></td>
+<td><p>TYCT-39105</p></td>
+</tr>
+</tbody>
+</table>
+
 ### 專輯
 
 #### 個人專輯
@@ -331,6 +368,7 @@ Rain的歌唱兼Mix](../Page/After_the_Rain.md "wikilink")、Mastering。
 | Bloody Waltz | 街機遊戲「」イヴォール的主題曲                                                                 |       |
 | HalfBlood    | 手機遊戲「」片頭曲                                                                       | 2016年 |
 | ファーストエンド     | 東京都會電視台其他動畫「[從前有座靈劍山 星塵們之宴](../Page/从前有座灵剑山.md "wikilink")」片頭曲                  |       |
+| 銀の祈誓         | 電視動畫「[哥布林殺手](../Page/哥布林殺手.md "wikilink")」片尾曲                                   | 2018年 |
 
 ## 參加組合
 

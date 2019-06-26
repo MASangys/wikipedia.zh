@@ -1,14 +1,11 @@
-《**真無敵鐵金剛ZERO**》（）是原作：[永井豪](../Page/永井豪.md "wikilink")，劇本：，作画：等人創作的[日本](../Page/日本.md "wikilink")[漫画作品](https://zh.wikipedia.org/wiki/漫画 "wikilink")。本條目也有續集《**真無敵鐵金剛ZERO
-vs 暗黑大將軍**》的解說。
+《**真無敵鐵金剛ZERO**》（）原作為[永井豪](../Page/永井豪.md "wikilink")、腳本為，由作畫的[日本漫画作品](../Page/日本漫画.md "wikilink")。從《[Champion
+RED](../Page/Champion_RED.md "wikilink")》（[秋田書店](../Page/秋田書店.md "wikilink")）2009年6月號連載到2012年12月號，單行本全9卷。之後推出續篇《真無敵鐵金剛ZERO
+vs 暗黑大將軍》（）並先在2013年1月號發表序幕後，從2013年2月號連載到2016年1月號，單行本全8卷。
 
 ## 概要
 
 当初是為了[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《**[真無敵鐵金剛
 衝擊！Z篇](https://zh.wikipedia.org/wiki/真無敵鐵金剛_衝擊！Z篇 "wikilink")**》（下稱《衝撃！Z篇》）的「支援連載」而開始連載。但本作為原創故事，除了都是以漫画・電視動畫《[無敵鐵金剛](../Page/無敵鐵金剛.md "wikilink")》為原作之外，與《衝撃！Z篇》間的共通點相當少。
-
-從《[Champion
-RED](../Page/Champion_RED.md "wikilink")》（[秋田書店](../Page/秋田書店.md "wikilink")）2009年6月号連載到2012年12月号，之後推出續集《真無敵鐵金剛ZERO
-vs 暗黑大將軍》並先在2013年1月号發表序幕後，從2013年2月号連載到2016年1月号。
 
 與《衝撃！Z篇》同様，採用明星系統的方式，讓不僅是無敵鐵金剛Z的角色，還有《[亞馬尻一家](https://zh.wikipedia.org/wiki/亞馬尻一家 "wikilink")》、《[甜心戰士](../Page/甜心戰士.md "wikilink")》、《[へんちんポコイダー](https://zh.wikipedia.org/wiki/へんちんポコイダー "wikilink")》等其他永井豪作品的多數角色登場。另外本作也多次採用負責《衝撃！Z篇》後期主題曲的
 [JAM Project的歌曲歌詞作為台詞或獨白](../Page/JAM_Project.md "wikilink")。
@@ -344,29 +341,109 @@ vs 暗黑大將軍》並先在2013年1月号發表序幕後，從2013年2月号�
   - 魔神大戰
     是本作之前，在亞洲大陸上空進行，由赫爾博士的機械獸軍團與無敵鐵金剛軍團所進行的總量戰。由於數量上的差異造成無敵鐵金剛軍團毀滅，但終盤時戴翁γ隊從空中一起發射高熱火焰，讓機械獸軍團陷入壞滅的狀態，並成功爭取到讓關東地區能被光子力防護罩包覆的時間。這場大戰中，甲兒因為與赫爾博士進行[單挑而受到瀕死的重傷](https://zh.wikipedia.org/wiki/單挑 "wikilink")，並在光子力研究所拼命的治療下而接受賽博格化手術。日後，透過向甲兒的取材而將這段故事變成紀錄片電影，並為了可以振奮那些生存下來的市民的心，而規劃在活動中上映。
 
-## 書籍情報
+## 出版書籍
 
-  - 原作：永井豪，劇本：田畑由秋，作画：余湖裕輝 秋田書店〈[Champion
-    RED](../Page/Champion_RED.md "wikilink")〉
-      - 真無敵鐵金剛ZERO 全9集
-        1.  2009年9月18日發售，2009年9月30日初版發行
-        2.  2010年3月19日發售
-        3.  2010年8月20日發售
-        4.  2011年1月20日發售，2011年2月5日初版發行
-        5.  2011年6月20日發售
-        6.  2011年11月18日發售
-        7.  2012年4月20日發售
-        8.  2012年9月20日發售，2012年10月5日初版發行
-        9.  2012年12月20日發售，2013年1月5日初版發行
-      - 真無敵鐵金剛ZERO vs 暗黑大將軍 全8集
-        1.  2013年4月19日發售
-        2.  2013年9月21日發售
-        3.  2013年12月20日發售
-        4.  2014年4月18日發售
-        5.  2014年9月19日發售
-        6.  2015年4月20日發售
-        7.  2015年9月18日發售
-        8.  2016年1月20日發售
+  - 真無敵鐵金剛ZERO
+
+<table>
+<thead>
+<tr class="header">
+<th><p>冊數</p></th>
+<th><p><a href="../Page/秋田書店.md" title="wikilink">秋田書店</a></p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>發售日期</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
+</tr>
+<tr class="even">
+<td><p>1</p></td>
+<td><p>2009年9月18日</p></td>
+</tr>
+<tr class="odd">
+<td><p>2</p></td>
+<td><p>2010年3月19日</p></td>
+</tr>
+<tr class="even">
+<td><p>3</p></td>
+<td><p>2010年8月20日</p></td>
+</tr>
+<tr class="odd">
+<td><p>4</p></td>
+<td><p>2011年1月20日</p></td>
+</tr>
+<tr class="even">
+<td><p>5</p></td>
+<td><p>2011年6月20日</p></td>
+</tr>
+<tr class="odd">
+<td><p>6</p></td>
+<td><p>2011年11月18日</p></td>
+</tr>
+<tr class="even">
+<td><p>7</p></td>
+<td><p>2012年4月20日</p></td>
+</tr>
+<tr class="odd">
+<td><p>8</p></td>
+<td><p>2012年9月20日</p></td>
+</tr>
+<tr class="even">
+<td><p>9</p></td>
+<td><p>2012年12月20日</p></td>
+</tr>
+</tbody>
+</table>
+
+  - 真無敵鐵金剛ZERO vs 暗黑大將軍
+
+<table>
+<thead>
+<tr class="header">
+<th><p>冊數</p></th>
+<th><p>秋田書店</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>發售日期</p></td>
+<td><p>ISBN</p></td>
+</tr>
+<tr class="even">
+<td><p>1</p></td>
+<td><p>2013年4月19日</p></td>
+</tr>
+<tr class="odd">
+<td><p>2</p></td>
+<td><p>2013年9月21日</p></td>
+</tr>
+<tr class="even">
+<td><p>3</p></td>
+<td><p>2013年12月20日</p></td>
+</tr>
+<tr class="odd">
+<td><p>4</p></td>
+<td><p>2014年4月18日</p></td>
+</tr>
+<tr class="even">
+<td><p>5</p></td>
+<td><p>2014年9月19日</p></td>
+</tr>
+<tr class="odd">
+<td><p>6</p></td>
+<td><p>2015年4月20日</p></td>
+</tr>
+<tr class="even">
+<td><p>7</p></td>
+<td><p>2015年9月18日</p></td>
+</tr>
+<tr class="odd">
+<td><p>8</p></td>
+<td><p>2016年1月20日</p></td>
+</tr>
+</tbody>
+</table>
 
 ## 遊戲
 

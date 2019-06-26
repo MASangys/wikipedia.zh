@@ -1,4 +1,4 @@
-**Gaya**，是[賽德克族的傳統](../Page/賽德克族.md "wikilink")[社會規範](../Page/社會規範.md "wikilink")；該規範與其[祖靈信仰有密切關係](https://zh.wikipedia.org/wiki/祖靈 "wikilink")，並包涵「祖先的遺訓」、「族人共同恪守的[律法](../Page/法律.md "wikilink")」、「社會規範與[道德](../Page/道德.md "wikilink")[標準](https://zh.wikipedia.org/wiki/標準 "wikilink")」、「族命得以綿綿不絕所繫者」、「[風俗](../Page/風俗.md "wikilink")[習慣](https://zh.wikipedia.org/wiki/習慣 "wikilink")、[習俗](https://zh.wikipedia.org/wiki/習俗 "wikilink")」、「共祭、共獵、共勞、共牲、共食、共守禁忌、共服罪罰的[團體](https://zh.wikipedia.org/wiki/團體 "wikilink")」等。\[1\]
+**Gaya**，又稱為Waya、Gaza、Gaga，是[賽德克族的傳統](../Page/賽德克族.md "wikilink")[社會規範](../Page/社會規範.md "wikilink")；該規範與其[祖靈信仰有密切關係](https://zh.wikipedia.org/wiki/祖靈 "wikilink")，[賽德克族認為Gaya是Utux](../Page/賽德克族.md "wikilink")（神靈）所訂制的，因此不可更改。Gaya包涵「祖先的遺訓」、「族人共同恪守的[律法](../Page/法律.md "wikilink")」、「社會規範與[道德](../Page/道德.md "wikilink")[標準](https://zh.wikipedia.org/wiki/標準 "wikilink")」、「族命得以綿綿不絕所繫者」、「[風俗](../Page/風俗.md "wikilink")[習慣](https://zh.wikipedia.org/wiki/習慣 "wikilink")、[習俗](https://zh.wikipedia.org/wiki/習俗 "wikilink")」、「共祭、共獵、共勞、共牲、共食、共守禁忌、共服罪罰的[團體](https://zh.wikipedia.org/wiki/團體 "wikilink")」等。\[1\]
 
 ## 範例
 

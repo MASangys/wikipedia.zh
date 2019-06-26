@@ -39,17 +39,19 @@
 <tr class="odd">
 <td><center>
 <p><a href="../Page/楢橋美紀.md" title="wikilink">楢橋美紀</a></p></td>
-<td><center></td>
+<td><center>
+<p><a href="../Page/王瑞芹.md" title="wikilink">王瑞芹</a></p></td>
 <td><center>
 <p><a href="../Page/譚淑英.md" title="wikilink">譚淑英</a></p></td>
 <td><center>
-<p><strong>野原美伢</strong><br />
+<p><strong>野原美冴</strong><br />
 </p></td>
 </tr>
 <tr class="even">
 <td><center>
 <p><a href="../Page/森川智之.md" title="wikilink">森川智之</a></p></td>
-<td><center></td>
+<td><center>
+<p><a href="../Page/于正昌.md" title="wikilink">于正昌</a></p></td>
 <td><center></td>
 <td><center>
 <p><strong>野原廣志</strong><br />
@@ -103,7 +105,8 @@
 <tr class="even">
 <td><center>
 <p><a href="https://zh.wikipedia.org/wiki/佐藤智恵" title="wikilink">佐藤智恵</a></p></td>
-<td><center></td>
+<td><center>
+<p><a href="../Page/王瑞芹.md" title="wikilink">王瑞芹</a></p></td>
 <td><center></td>
 <td><center>
 <p><strong>阿呆</strong><br />

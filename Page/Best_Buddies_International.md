@@ -122,6 +122,6 @@ e-Buddies 是一個為10歲及以上的殘疾人和同伴志願者設計的電�
 [Category:美国非营利组织](https://zh.wikipedia.org/wiki/Category:美国非营利组织 "wikilink")
 
 1.
-2.
+2.  <https://www.bestbuddies.org/find-programs/>
 3.
 4.

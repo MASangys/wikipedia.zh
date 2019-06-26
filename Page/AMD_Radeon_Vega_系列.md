@@ -42,14 +42,126 @@ VII，是全球首款 7nm 遊戲顯示卡。基於 Vega 架構設計的 Radeon V
 
 ### 桌面型显示核心
 
-| 型号                                                         | 推出日期                                                       | 核心代号        | 制程 ([nm](https://zh.wikipedia.org/wiki/nm "wikilink"))      | 晶体管数 & 晶粒面积                                                              | 总线 接口                                                    | 核心配置 <sup>SPs:TMUs:ROPs</sup> | 时钟频率配置                                 | 填充率                                                            | 显示存储器配置                                  | [API支持](https://zh.wikipedia.org/wiki/應用程式介面 "wikilink")（版本） | 运算性能 （GFLOPS）                          | [TDP](../Page/热设计功耗.md "wikilink")(W)          | 发售价格                                   |
-| ---------------------------------------------------------- | ---------------------------------------------------------- | ----------- | ----------------------------------------------------------- | ------------------------------------------------------------------------ | -------------------------------------------------------- | ----------------------------- | -------------------------------------- | -------------------------------------------------------------- | ---------------------------------------- | ------------------------------------------------------------ | -------------------------------------- | ---------------------------------------------- | -------------------------------------- |
-| 默认 ([MHz](https://zh.wikipedia.org/wiki/Hertz "wikilink")) | 加速 ([MHz](https://zh.wikipedia.org/wiki/Hertz "wikilink")) | 存储器 (MT/s)  | 像素 ([GP](https://zh.wikipedia.org/wiki/Pixel "wikilink")/s) | 材质 ([GT](https://zh.wikipedia.org/wiki/Texel_\(graphics\) "wikilink")/s) | 容量 ([MiB](https://zh.wikipedia.org/wiki/MiB "wikilink")) | 总线 类型                         | 总线 宽度 ([比特](../Page/位元.md "wikilink")) | 带宽 ([GB](https://zh.wikipedia.org/wiki/Gigabyte "wikilink")/s) | [DirectX](../Page/DirectX.md "wikilink") | [OpenGL](../Page/OpenGL.md "wikilink")                       | [OpenCL](../Page/OpenCL.md "wikilink") | [Vulkan](../Page/Vulkan_\(API\).md "wikilink") | [半精度浮点数](../Page/半精度浮点数.md "wikilink") |
-| <span id="Radeon_RX_470D"></span>Radeon RX Vega 56         | 2017年8月28日                                                 | Vega 10     | 14                                                          | 125亿 486 mm<sup>2</sup>                                                  | PCIe 3.0 ×16                                             | 3584:224:64                   | 1156                                   | 1471                                                           | 1600                                     | 74.0                                                         | 258.9                                  | 8192                                           | HBM2                                   |
-| <span id="Radeon_RX_470"></span>Radeon RX Vega 64          | 2017年8月14日                                                 | 4096:256:64 | 1247                                                        | 1546                                                                     | 1890                                                     | 79.8                          | 319.2                                  | 483.8                                                          | 20431                                    | 10215                                                        | 638                                    | 295                                            | $499                                   |
-| <span id="Radeon-RX-480"></span>Radeon RX Vega 64 水冷版      | 1406                                                       | 1677        | 90.0                                                        | 359.9                                                                    | 23036                                                    | 11518                         | 720                                    | 345                                                            | $699                                     |                                                              |                                        |                                                |                                        |
-| <span id="Radeon_VII"></span>Radeon VII                    | 2019年2月                                                    | Vega 20     | 7                                                           | TBD                                                                      | PCIe 4.0 ×16                                             | 3840:240:64                   | 1400                                   | 1750                                                           | 2000                                     | 98.6-112                                                     | 336-420                                | 16384                                          | HBM2                                   |
-|                                                            |                                                            |             |                                                             |                                                                          |                                                          |                               |                                        |                                                                |                                          |                                                              |                                        |                                                |                                        |
+<table>
+<thead>
+<tr class="header">
+<th><p>型号</p></th>
+<th><p>推出日期</p></th>
+<th><p>核心代号</p></th>
+<th><p>制程 (<a href="https://zh.wikipedia.org/wiki/nm" title="wikilink">nm</a>)</p></th>
+<th><p>晶体管数 &amp; 晶粒面积</p></th>
+<th><p>总线 接口</p></th>
+<th><p>核心配置 <sup>SPs:TMUs:ROPs</sup></p></th>
+<th><p>时钟频率配置</p></th>
+<th><p>填充率</p></th>
+<th><p>显示存储器配置</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/應用程式介面" title="wikilink">API支持</a>（版本）</p></th>
+<th><p>运算性能 （GFLOPS）</p></th>
+<th><p><a href="../Page/热设计功耗.md" title="wikilink">TDP</a>(W)</p></th>
+<th><p>发售价格</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>默认 (<a href="https://zh.wikipedia.org/wiki/Hertz" title="wikilink">MHz</a>)</p></td>
+<td><p>加速 (<a href="https://zh.wikipedia.org/wiki/Hertz" title="wikilink">MHz</a>)</p></td>
+<td><p>存储器 (MT/s)</p></td>
+<td><p>像素 (<a href="https://zh.wikipedia.org/wiki/Pixel" title="wikilink">GP</a>/s)</p></td>
+<td><p>材质 (<a href="https://zh.wikipedia.org/wiki/Texel_(graphics)" title="wikilink">GT</a>/s)</p></td>
+<td><p>容量 (<a href="https://zh.wikipedia.org/wiki/MiB" title="wikilink">MiB</a>)</p></td>
+<td><p>总线 类型</p></td>
+<td><p>总线 宽度 (<a href="../Page/位元.md" title="wikilink">比特</a>)</p></td>
+<td><p>带宽 (<a href="https://zh.wikipedia.org/wiki/Gigabyte" title="wikilink">GB</a>/s)</p></td>
+<td><p><a href="../Page/DirectX.md" title="wikilink">DirectX</a></p></td>
+<td><p><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a></p></td>
+<td><p><a href="../Page/OpenCL.md" title="wikilink">OpenCL</a></p></td>
+<td><p><a href="../Page/Vulkan_(API).md" title="wikilink">Vulkan</a></p></td>
+<td><p><a href="../Page/半精度浮点数.md" title="wikilink">半精度浮点数</a></p></td>
+</tr>
+<tr class="even">
+<td><p><span id="Radeon_RX_470D"></span>Radeon RX Vega 56</p></td>
+<td><p>2017年8月28日</p></td>
+<td><p>Vega 10</p></td>
+<td><p>14</p></td>
+<td><p>125亿 486 mm<sup>2</sup></p></td>
+<td><p>PCIe 3.0 ×16</p></td>
+<td><p>3584:224:64</p></td>
+<td><p>1156</p></td>
+<td><p>1471</p></td>
+<td><p>1600</p></td>
+<td><p>74.0</p></td>
+<td><p>258.9</p></td>
+<td><p>8192</p></td>
+<td><p>HBM2</p></td>
+</tr>
+<tr class="odd">
+<td><p><span id="Radeon_RX_470"></span>Radeon RX Vega 64</p></td>
+<td><p>2017年8月14日</p></td>
+<td><p>4096:256:64</p></td>
+<td><p>1247</p></td>
+<td><p>1546</p></td>
+<td><p>1890</p></td>
+<td><p>79.8</p></td>
+<td><p>319.2</p></td>
+<td><p>483.8</p></td>
+<td><p>20431</p></td>
+<td><p>10215</p></td>
+<td><p>638</p></td>
+<td><p>295</p></td>
+<td><p>$499</p></td>
+</tr>
+<tr class="even">
+<td><p><span id="Radeon-RX-480"></span>Radeon RX Vega 64 水冷版</p></td>
+<td><p>1406</p></td>
+<td><p>1677</p></td>
+<td><p>90.0</p></td>
+<td><p>359.9</p></td>
+<td><p>23036</p></td>
+<td><p>11518</p></td>
+<td><p>720</p></td>
+<td><p>345</p></td>
+<td><p>$699</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><span id="Radeon_VII"></span>Radeon VII</p></td>
+<td><p>2019年2月</p></td>
+<td><p>Vega 20</p></td>
+<td><p>7</p></td>
+<td><p>132 亿</p>
+<p>331</p>
+<p>mm²</p></td>
+<td><p>PCIe 3.0 ×16</p></td>
+<td><p>3840:240:64</p></td>
+<td><p>1400</p></td>
+<td><p>1750</p></td>
+<td><p>2000</p></td>
+<td><p>98.6-112</p></td>
+<td><p>336-420</p></td>
+<td><p>16384</p></td>
+<td><p>HBM2</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 参考文献
 

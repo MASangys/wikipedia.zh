@@ -39,14 +39,10 @@ London」最知名的歌曲。
 
 ## 備註
 
-[Category:London_Records_albums](https://zh.wikipedia.org/wiki/Category:London_Records_albums "wikilink")
-[Category:茱莉·倫敦單曲](https://zh.wikipedia.org/wiki/Category:茱莉·倫敦單曲 "wikilink")
 [Category:茱莉·倫敦音樂專輯](https://zh.wikipedia.org/wiki/Category:茱莉·倫敦音樂專輯 "wikilink")
-[Category:1955年音樂專輯](https://zh.wikipedia.org/wiki/Category:1955年音樂專輯 "wikilink")
+[Category:1955年歌曲](https://zh.wikipedia.org/wiki/Category:1955年歌曲 "wikilink")
 [Category:美國音樂專輯](https://zh.wikipedia.org/wiki/Category:美國音樂專輯 "wikilink")
-[Category:爵士樂音樂專輯](https://zh.wikipedia.org/wiki/Category:爵士樂音樂專輯 "wikilink")
 [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:1955年單曲](https://zh.wikipedia.org/wiki/Category:1955年單曲 "wikilink")
 
 1.
 2.

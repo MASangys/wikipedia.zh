@@ -728,7 +728,7 @@ CSI序列由`ESC [`、若干个（包括0个）“参数字节”、若干个“
 
 ### 8位
 
-随着256色查找表在显卡上越来越常见，相应的转义序列也增加了，以从预定义的256种颜色中选择：
+随着256色查找表在显卡上越来越常见，相应的转义序列也增加了，以从预定义的256种颜色中选择：\[30\]
 
 `   ESC[ … 38;5;`<n>`  … m选择前景色 `
 `   ESC[ … 48;5;`<n>`  … m选择背景色 `
@@ -737,7 +737,7 @@ CSI序列由`ESC [`、若干个（包括0个）“参数字节”、若干个“
 `    16-231：6 × 6 × 6 立方（216色）: 16 + 36 × r + 6 × g + b (0 ≤ r, g, b ≤ 5)`
 `   232-255：从黑到白的24阶灰度色`
 
-[ITU的T](https://zh.wikipedia.org/wiki/ITU "wikilink").416信息技术-开放文档体系结构（ODA）和交换格式：字符内容体系结构\[30\]使用“:”作为分隔符：
+[ITU的T](https://zh.wikipedia.org/wiki/ITU "wikilink").416信息技术-开放文档体系结构（ODA）和交换格式：字符内容体系结构\[31\]使用“:”作为分隔符：
 
 `   ESC[ … 38:5:`<n>`  … m选择前景色 `
 `   ESC[ … 48:5:`<n>`  … m选择背景色 `
@@ -841,13 +841,13 @@ CSI序列由`ESC [`、若干个（包括0个）“参数字节”、若干个“
 
 ### 24位
 
-随着16位到24位颜色的“真彩色”显卡的普及，Xterm\[31\]、KDE的[Konsole](../Page/Konsole.md "wikilink")\[32\]，以及所有基于libvte的终端\[33\]（包括）支持了ISO-8613-3的24位前景色和背景色设置。\[34\]
+随着16位到24位颜色的“真彩色”显卡的普及，Xterm\[32\]、KDE的[Konsole](../Page/Konsole.md "wikilink")\[33\]，以及所有基于libvte的终端\[34\]（包括）支持了ISO-8613-3的24位前景色和背景色设置。\[35\]
 
 `   ESC[ … 38;2;`<r>`;`<g>`;`<b>`  … m选择RGB前景色 `
 `   ESC[ … 48;2;`<r>`;`<g>`;`<b>`  … m选择RGB背景色 `
 
 作为ISO /
-IEC国际标准8613-6采用的[ITU的T](https://zh.wikipedia.org/wiki/ITU "wikilink").416信息技术-开放文档体系结构（ODA）和交换格式：字符内容体系结构\[35\]给出了一个似乎不太受支持的替代版本：
+IEC国际标准8613-6采用的[ITU的T](https://zh.wikipedia.org/wiki/ITU "wikilink").416信息技术-开放文档体系结构（ODA）和交换格式：字符内容体系结构\[36\]给出了一个似乎不太受支持的替代版本：
 
 `   ESC[
 … 38:2:`<Color-Space-ID>`:`<r>`:`<g>`:`<b>`:`<unused>`:`<CS tolerance>`:<Color-Space: 0="CIELUV"; 1="CIELAB">m选择RGB前景色`
@@ -883,12 +883,12 @@ ANSI转移代码常常用于[UNIX和类UNIX终端](../Page/UNIX.md "wikilink")�
 `ls --color`
 
 用户可以在脚本中使用转义码，将其作为[标准输出或](https://zh.wikipedia.org/wiki/标准输出 "wikilink")[标准错误输出的一部分](https://zh.wikipedia.org/wiki/标准错误输出 "wikilink")。例如，下面的GNU
-[sed命令通过反显](https://zh.wikipedia.org/wiki/sed "wikilink")“WARN”开头的单词的行，以及使用暗红色背景色和亮黄色前景色显示以“ERR”开头的单词（字母大小写被忽略）的行来修饰make命令的输出。突出显示了设置ANSI代码的部分。\[36\]
+[sed命令通过反显](https://zh.wikipedia.org/wiki/sed "wikilink")“WARN”开头的单词的行，以及使用暗红色背景色和亮黄色前景色显示以“ERR”开头的单词（字母大小写被忽略）的行来修饰make命令的输出。突出显示了设置ANSI代码的部分。\[37\]
 
 <span style="white-space:pre-wrap;">`make 2>&1 | sed -e 's/.*\bWARN.*/`<span style="border:1px solid grey;border-radius:5px;color:white;background:black;font-weight:bolder;">`\x1b[7m`</span>`&`<span style="border:1px solid grey;border-radius:5px;">`\x1b[0m`</span>`/i' -e 's/.*\bERR.*/`<span style="border:1px solid grey;border-radius:5px;color:yellow;background:maroon;font-weight:bolder;">`\x1b[93;41 m`</span>`&`<span style="border:1px solid grey;border-radius:5px;">`\x1b[0m`</span>`/i'`</span>
 
-以下Bash函数会使终端闪烁（通过交替发送反相和正常显示模式代码），直到用户按下任意键\[37\]。这个函数可以用于当一个冗长的命令终止时提醒用户，用法如`make;
-flasher`\[38\]。
+以下Bash函数会使终端闪烁（通过交替发送反相和正常显示模式代码），直到用户按下任意键\[38\]。这个函数可以用于当一个冗长的命令终止时提醒用户，用法如`make;
+flasher`\[39\]。
 
 <span style="white-space:pre-wrap;">`flasher () { while true; do printf `<span style="border:1px solid grey;border-radius:5px;color:white;background:black;font-weight:bolder;">`\\e[?5h`</span>`; sleep 0.1; printf `<span style="border:1px solid grey;border-radius:5px;font-weight:bolder;">`\\e[?5l`</span>`; read -s -n1 -t1 && break; done; }`</span>
 
@@ -993,7 +993,6 @@ flasher`\[38\]。
 29. Changed from 0,0,255 in July 2004
 
 30.
-
 31.
 
 32.
@@ -1009,3 +1008,5 @@ flasher`\[38\]。
 37.
 
 38.
+
+39.

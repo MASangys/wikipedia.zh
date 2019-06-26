@@ -42,9 +42,10 @@ function p.get(frame, arg, passArgs)
 `       end`
 `       noWiki = mw.text.nowiki(noWiki):format(unpack(preserve)):gsub(placeholder, '%%')`
 `   end`
+`   local kill_categories = frame.args.demo_kill_categories or frame.args.nocat`
 `   return {`
 `       source = noWiki or code,`
-`       output = orphan:preprocess(code):gsub(frame.args.demo_kill_categories and '%[%[Category.-%]%]' or '', ''),`
+`       output = orphan:preprocess(code):gsub(kill_categories and '%[%[Category.-%]%]' or '', ''),`
 `       frame = frame`
 `   }`
 
@@ -66,6 +67,18 @@ function p.main(frame, demoTable)
 %s%s', args.style and string.format(" style='%s'", args.style) or '',
 show.source, args.br, show.output) end
 
+\-- Alternate function to return an inline result function
+p.inline(frame, demoTable)
+
+`   local show = demoTable or p.get(frame)`
+`   local args = show.frame.args`
+`   if show[args.result_arg] then`
+`       return show[args.result_arg]`
+`   end`
+`   return string.format('<code%s>%s`</code>`%s%s', args.style and string.format(" style='%s'", args.style) or '', show.source, ' → ', show.output)`
+
+end
+
 \--passing of args into other module without preprocessing function
 p.module(frame)
 
@@ -76,12 +89,14 @@ p.module(frame)
 `       'demo_main',`
 `       'demo_br',`
 `       'demo_result_arg',`
-`       'demo_kill_categories'`
+`       'demo_kill_categories',`
+`       'nocat'`
 `   })`
 `   local template = frame.args.demo_template and 'Template:'..frame.args.demo_template`
 `   local demoFunc = frame.args.demo_module_func or 'main\n'`
 `   local demoModule = require('Module:' .. frame.args.demo_module)[demoFunc:match('^%s*(.-)%s*$')]`
 `   frame.args.br, frame.args.result_arg = frame.args.demo_br, frame.args.demo_result_arg`
+`   local kill_categories = frame.args.demo_kill_categories or frame.args.nocat`
 `   if demoModule then`
 `       local named = {insert = function(self, ...) table.insert(self, ...) return self end}`
 `       local source = {insert = named.insert, '{{', frame.args.demo_template or frame.args.demo_module, '\n'}`
@@ -107,7 +122,7 @@ p.module(frame)
 `       table.insert(source, insertNamed, table.concat(named))`
 `       return p.main(orphan, {`
 `           source = mw.text.encode(table.concat(source), "<>'|=~"),`
-`           output = tostring(demoModule(orphan)):gsub(frame.args.demo_kill_categories and '%[%[Category.-%]%]' or '', ''),`
+`           output = tostring(demoModule(orphan)):gsub(kill_categories and '%[%[Category.-%]%]' or '', ''),`
 `           frame = frame`
 `       })`
 `   else`

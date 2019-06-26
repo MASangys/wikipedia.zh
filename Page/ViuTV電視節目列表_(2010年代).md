@@ -2571,7 +2571,7 @@
 <td><p>2月12日</p></td>
 <td><p>16</p></td>
 <td><p>旅遊</p></td>
-<td></td>
+<td><p><a href="../Page/一路向西伯利亞.md" title="wikilink">一路向西伯利亞</a></p></td>
 <td><p>主持：<a href="../Page/黎學勤.md" title="wikilink">黎學勤</a>、<a href="../Page/莫竣名.md" title="wikilink">莫竣名</a></p></td>
 <td></td>
 <td><p>原名《亂入西伯利亞》</p></td>
@@ -3303,7 +3303,7 @@
 </tr>
 <tr class="odd">
 <td><p>1月20日</p></td>
-<td></td>
+<td><p>26</p></td>
 <td><p>長者</p></td>
 <td></td>
 <td><p>主持：、</p></td>
@@ -3456,7 +3456,7 @@
 <td><p>3月18日</p></td>
 <td><p>15</p></td>
 <td><p>遊戲/飲食</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/我食飯你埋單" title="wikilink">我食飯你埋單</a></p></td>
+<td></td>
 <td><p>主持：<a href="https://zh.wikipedia.org/wiki/強尼" title="wikilink">強尼</a>、<a href="../Page/陳俞希.md" title="wikilink">陳俞希</a></p></td>
 <td></td>
 <td></td>
@@ -3510,8 +3510,8 @@
 <td><p>4月27日</p></td>
 <td></td>
 <td><p>文化</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/時裝見習生" title="wikilink">時裝見習生</a></p></td>
-<td><p>主持：</p></td>
+<td></td>
+<td><p>主持：<a href="https://zh.wikipedia.org/wiki/Sarona_Lo" title="wikilink">Sarona Lo</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -3528,7 +3528,7 @@
 <td><p>4月29日</p></td>
 <td><p>10</p></td>
 <td><p>訪談/飲食</p></td>
-<td><p>-{<a href="https://zh.wikipedia.org/wiki/友枱VIP" title="wikilink">友枱VIP</a>}-</p></td>
+<td></td>
 <td><p>主持：<a href="../Page/劉永健.md" title="wikilink">劉永健</a>、<a href="../Page/周家蔚.md" title="wikilink">周家蔚</a></p></td>
 <td></td>
 <td></td>
@@ -3537,7 +3537,7 @@
 <td><p>4月29日</p></td>
 <td><p>15</p></td>
 <td><p>真人秀</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/走佬去馬拉" title="wikilink">走佬去馬拉</a></p></td>
+<td></td>
 <td><p>主持：<a href="https://zh.wikipedia.org/wiki/杜汶澤" title="wikilink">杜汶澤</a></p></td>
 <td></td>
 <td><p>合拍節目</p></td>
@@ -3547,7 +3547,7 @@
 <td></td>
 <td><p>娛樂訪談</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/啪啪_Partner" title="wikilink">啪啪 Partner</a></p></td>
-<td><p>主持：<a href="../Page/丁可欣.md" title="wikilink">丁可欣</a>、<a href="https://zh.wikipedia.org/wiki/朱凱頌" title="wikilink">Picco</a>、<a href="https://zh.wikipedia.org/wiki/呂穎恆" title="wikilink">Vera</a></p></td>
+<td><p>主持：<a href="../Page/丁可欣.md" title="wikilink">丁可欣</a>、<a href="../Page/朱凱頌.md" title="wikilink">Picco</a>、<a href="https://zh.wikipedia.org/wiki/呂穎恆" title="wikilink">Vera</a></p></td>
 <td></td>
 <td><p><a href="../Page/晚吹.md" title="wikilink">晚吹系列</a></p></td>
 </tr>
@@ -3562,7 +3562,7 @@
 </tr>
 <tr class="odd">
 <td><p>5月11日</p></td>
-<td></td>
+<td><p>8</p></td>
 <td><p>飲食</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/料理美食王" title="wikilink">料理美食王</a></p></td>
 <td><p>主持：<a href="../Page/焦志方.md" title="wikilink">焦志方</a></p></td>
@@ -3573,7 +3573,7 @@
 <td><p>5月11日</p></td>
 <td></td>
 <td><p>健康資訊</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/中醫「症」解" title="wikilink">中醫「症」解</a></p></td>
+<td><p><a href="../Page/中醫「症」解.md" title="wikilink">中醫「症」解</a></p></td>
 <td><p>主持：<a href="../Page/陳子豐.md" title="wikilink">陳子豐</a>、、、</p></td>
 <td></td>
 <td></td>
@@ -3600,7 +3600,7 @@
 <td><p>5月20日</p></td>
 <td><p>15</p></td>
 <td><p>旅遊</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/林盧去追星" title="wikilink">林盧去追星</a></p></td>
+<td></td>
 <td><p>主持：<a href="../Page/林建明.md" title="wikilink">林建明</a>、<a href="../Page/盧海鵬.md" title="wikilink">盧海鵬</a>、<a href="../Page/曾贊學.md" title="wikilink">曾贊學</a></p></td>
 <td></td>
 <td></td>
@@ -3609,17 +3609,17 @@
 <td><p>5月26日</p></td>
 <td></td>
 <td><p>文化</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/活匠當下" title="wikilink">活匠當下 2</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>5月26日</p></td>
-<td></td>
+<td><p>7</p></td>
 <td><p>娛樂訪談</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/週日慶功宴" title="wikilink">週日慶功宴</a></p></td>
-<td><p>主持：、</p></td>
+<td></td>
+<td><p>主持：、、</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -3637,17 +3637,18 @@
 <td><p>6月8日</p></td>
 <td><p>12</p></td>
 <td><p>真人秀</p></td>
-<td><p><a href="../Page/SUPER_TV.md" title="wikilink">Super TV</a>（第一季）</p></td>
+<td><p><a href="../Page/SUPER_TV.md" title="wikilink">Super TV（第一季）</a></p></td>
 <td><p>主持：<a href="../Page/Super_Junior.md" title="wikilink">Super Junior</a></p></td>
 <td></td>
-<td><p>不設粵語配音</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>6月10日</p></td>
-<td></td>
+<td><p>20</p></td>
 <td><p>真人秀</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/愛我嗎?_愛你媽!" title="wikilink">愛我嗎? 愛你媽!</a></p></td>
-<td><p>主持：<a href="../Page/林曉峰.md" title="wikilink">林曉峰</a>、<a href="../Page/康子妮.md" title="wikilink">康子妮</a></p></td>
+<td></td>
+<td><p>主持：<a href="../Page/林曉峰.md" title="wikilink">林曉峰</a>、<a href="../Page/康子妮.md" title="wikilink">康子妮</a>、<a href="../Page/火火.md" title="wikilink">火火</a><br />
+旁白：<a href="../Page/火火.md" title="wikilink">火火</a></p></td>
 <td></td>
 <td><p>原名《一家人三人行》</p></td>
 </tr>
@@ -3655,14 +3656,14 @@
 <td><p>6月10日</p></td>
 <td><p>10</p></td>
 <td><p>旅遊</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/玩_X_爆二世古" title="wikilink">玩 X 爆二世古</a></p></td>
-<td><p>主持：<a href="../Page/李健宏.md" title="wikilink">李健宏</a></p></td>
+<td></td>
+<td><p>主持：<a href="../Page/李健宏.md" title="wikilink">李健宏</a>、<a href="../Page/周秀娜.md" title="wikilink">周秀娜</a>、<a href="../Page/李靖筠.md" title="wikilink">李靖筠</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>6月23日</p></td>
-<td></td>
+<td><p>5</p></td>
 <td><p>資訊</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/有個保險_Friend" title="wikilink">有個保險 Friend</a></p></td>
 <td><p>主持：</p></td>
@@ -3683,8 +3684,89 @@
 <td><p>6月24日</p></td>
 <td><p>15</p></td>
 <td><p>旅遊</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/厲害了·蘇哥兒" title="wikilink">厲害了·蘇哥兒</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/厲害了！蘇哥兒" title="wikilink">厲害了！蘇哥兒</a></p></td>
 <td><p>主持：<a href="../Page/蘇施黃.md" title="wikilink">蘇施黃</a>、<a href="../Page/和泉素行.md" title="wikilink">和泉素行</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>7月8日</p></td>
+<td><p>15</p></td>
+<td><p>飲食</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/AUNTIE_GIGI_美味駕到" title="wikilink">AUNTIE GIGI 美味駕到</a></p></td>
+<td><p>主持：<a href="../Page/黃淑儀.md" title="wikilink">黃淑儀</a>、、</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>7月9日</p></td>
+<td><p>20</p></td>
+<td><p>訪談/微電影</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鮮浪潮。語2019" title="wikilink">鮮浪潮。語2019</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>7月13日</p></td>
+<td></td>
+<td><p>遊戲</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/HP_電競節目" title="wikilink">HP 電競節目</a></p></td>
+<td><p>主持：</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>7月15日</p></td>
+<td></td>
+<td><p>真人秀</p></td>
+<td><p><a href="../Page/對不起_標籤你.md" title="wikilink">對不起 標籤你 II</a></p></td>
+<td><p>主持：<a href="../Page/火火.md" title="wikilink">火火</a>、<a href="https://zh.wikipedia.org/wiki/強尼" title="wikilink">強尼</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>7月21日</p></td>
+<td></td>
+<td><p>長者</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/義工無限期" title="wikilink">義工無限期</a></p></td>
+<td><p>主持：</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>7月21日</p></td>
+<td></td>
+<td><p>玄學</p></td>
+<td></td>
+<td><p>主持：-{<a href="https://zh.wikipedia.org/wiki/皓云師傅" title="wikilink">皓云師傅</a>}-</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>7月27日</p></td>
+<td></td>
+<td><p>真人秀</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Life_Hacks!" title="wikilink">Life Hacks!</a></p></td>
+<td><p>主持：</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>7月28日</p></td>
+<td></td>
+<td><p>旅遊</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/富士山潮聖之旅" title="wikilink">富士山潮聖之旅</a></p></td>
+<td><p>主持：</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>7月29日</p></td>
+<td></td>
+<td><p>遊戲</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/估你唔到" title="wikilink">估你唔到</a></p></td>
+<td><p>主持：<a href="../Page/林曉峰.md" title="wikilink">林曉峰</a>、<a href="https://zh.wikipedia.org/wiki/朱柏康" title="wikilink">朱柏康</a>、、</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -3695,165 +3777,20 @@
 
 以下列出[ViuTV於節目宣傳片](../Page/ViuTV.md "wikilink")、公佈的預定播放節目、計劃中的自製節目。
 
-<table style="width:385%;">
-<colgroup>
-<col style="width: 80%" />
-<col style="width: 60%" />
-<col style="width: 90%" />
-<col style="width: 18%" />
-<col style="width: 35%" />
-<col style="width: 90%" />
-<col style="width: 12%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p>首播日期</p></th>
-<th><p>集數</p></th>
-<th><p>類別</p></th>
-<th><p>節目名稱</p></th>
-<th><p>主持/演出/旁白</p></th>
-<th><p>官方網頁</p></th>
-<th><p>備註</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>2019年9月底播映</p></td>
-<td><p>40(暫定)</p></td>
-<td><p>真人秀</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Good_Night_Show_全民造星" title="wikilink">全民造星II</a></p></td>
-<td><p>主持：</p></td>
-<td></td>
-<td><p>每集1小時</p></td>
-</tr>
-<tr class="even">
-<td><p>即將播映</p></td>
-<td></td>
-<td><p>旅遊</p></td>
-<td><p><a href="../Page/404不存在的國落.md" title="wikilink">404不存在的國落2</a></p></td>
-<td><p>主持：</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>即將播映</p></td>
-<td><p>10</p></td>
-<td><p>文化</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾十人" title="wikilink">首爾十人</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>拍攝中</p></td>
-<td></td>
-<td><p>真人秀</p></td>
-<td><p><a href="../Page/對不起_標籤你.md" title="wikilink">對不起 標籤你 II</a></p></td>
-<td><p>主持：<a href="../Page/火火.md" title="wikilink">火火</a>、<a href="https://zh.wikipedia.org/wiki/強尼" title="wikilink">強尼</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>拍攝中</p></td>
-<td><p>15</p></td>
-<td><p>飲食</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/AUNTIEGIGI美味駕到" title="wikilink">AUNTIEGIGI美味駕到</a></p></td>
-<td><p>主持：<a href="../Page/黃淑儀.md" title="wikilink">黃淑儀</a>、、</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>拍攝中</p></td>
-<td></td>
-<td><p>旅遊</p></td>
-<td><p>-</p></td>
-<td><p>主持：<a href="../Page/羅家英.md" title="wikilink">羅家英</a>、<a href="https://zh.wikipedia.org/wiki/呂爵安" title="wikilink">呂爵安</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>拍攝中</p></td>
-<td></td>
-<td><p>遊戲</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/估你唔到" title="wikilink">估你唔到</a></p></td>
-<td><p>主持：<a href="../Page/林曉峰.md" title="wikilink">林曉峰</a>、<a href="https://zh.wikipedia.org/wiki/朱柏康" title="wikilink">朱柏康</a>、<a href="https://zh.wikipedia.org/wiki/沈殷怡" title="wikilink">沈殷怡</a>、<a href="https://zh.wikipedia.org/wiki/譚凱倫" title="wikilink">譚凱倫</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>計劃中</p></td>
-<td></td>
-<td><p>玄學</p></td>
-<td></td>
-<td><p>主持：-{<a href="https://zh.wikipedia.org/wiki/皓云師傅" title="wikilink">皓云師傅</a>}-</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>計劃中</p></td>
-<td></td>
-<td><p>真人秀</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/寂寞是幫兇" title="wikilink">寂寞是幫兇</a></p></td>
-<td><p>主持：、</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>計劃中</p></td>
-<td></td>
-<td><p>飲食</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/大廚背後" title="wikilink">大廚背後</a></p></td>
-<td><p>主持：<a href="../Page/方健儀.md" title="wikilink">方健儀</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>計劃中</p></td>
-<td><p>10</p></td>
-<td><p>飲食</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/餸情" title="wikilink">餸情</a></p></td>
-<td><p>主持：</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>計劃中</p></td>
-<td></td>
-<td><p>資訊</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/十年人事幾花生" title="wikilink">十年人事幾花生</a></p></td>
-<td><p>主持：</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>計劃中</p></td>
-<td></td>
-<td><p>真人秀</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/操Fit你阿媽" title="wikilink">操Fit你阿媽</a></p></td>
-<td><p>主持：</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>計劃中</p></td>
-<td></td>
-<td><p>真人秀</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/IQ148" title="wikilink">IQ148</a></p></td>
-<td><p>主持：</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>計劃中</p></td>
-<td></td>
-<td><p>真人秀</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/走佬去日本" title="wikilink">走佬去日本</a></p></td>
-<td><p>主持：<a href="https://zh.wikipedia.org/wiki/杜汶澤" title="wikilink">杜汶澤</a></p></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| 首播日期       | 集數     | 類別  | 節目名稱                                                                    | 主持/演出/旁白                                                                                                                  | 官方網頁 | 備註    |
+| ---------- | ------ | --- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ---- | ----- |
+| 2019年9月底播映 | 40(暫定) | 真人秀 | [全民造星II](https://zh.wikipedia.org/wiki/Good_Night_Show_全民造星 "wikilink") | 主持：                                                                                                                       |      | 每集1小時 |
+| 即將播映       |        | 旅遊  | [404不存在的國落2](../Page/404不存在的國落.md "wikilink")                           | 主持：                                                                                                                       |      |       |
+| 即將播映       | 10     | 文化  | [首爾十人](https://zh.wikipedia.org/wiki/首爾十人 "wikilink")                   |                                                                                                                           |      |       |
+| 拍攝中        |        | 旅遊  | \-                                                                      | 主持：[羅家英](../Page/羅家英.md "wikilink")、[呂爵安](https://zh.wikipedia.org/wiki/呂爵安 "wikilink")                                   |      |       |
+| 拍攝中        | 15     | 靈異  | [入住請敲門4](../Page/入住請敲門.md "wikilink")                                   | 主持：[莫竣名](../Page/莫竣名.md "wikilink")、、[邱士縉](https://zh.wikipedia.org/wiki/邱士縉 "wikilink")、[盧瀚霆](../Page/盧瀚霆.md "wikilink") |      |       |
+| 計劃中        |        | 真人秀 | [寂寞是幫兇](https://zh.wikipedia.org/wiki/寂寞是幫兇 "wikilink")                 | 主持：、                                                                                                                      |      |       |
+| 計劃中        |        | 飲食  | [大廚背後](https://zh.wikipedia.org/wiki/大廚背後 "wikilink")                   | 主持：[方健儀](../Page/方健儀.md "wikilink")                                                                                       |      |       |
+| 計劃中        | 10     | 飲食  | [餸情](https://zh.wikipedia.org/wiki/餸情 "wikilink")                       | 主持：                                                                                                                       |      |       |
+| 計劃中        |        | 資訊  | [十年人事幾花生](https://zh.wikipedia.org/wiki/十年人事幾花生 "wikilink")             | 主持：                                                                                                                       |      |       |
+| 計劃中        |        | 真人秀 | [操Fit你阿媽](https://zh.wikipedia.org/wiki/操Fit你阿媽 "wikilink")             | 主持：                                                                                                                       |      |       |
+| 計劃中        |        | 真人秀 | [IQ148](https://zh.wikipedia.org/wiki/IQ148 "wikilink")                 | 主持：                                                                                                                       |      |       |
+| 計劃中        |        | 真人秀 | [走佬去日本](https://zh.wikipedia.org/wiki/走佬去日本 "wikilink")                 | 主持：[杜汶澤](https://zh.wikipedia.org/wiki/杜汶澤 "wikilink")                                                                    |      |       |
 
 ## 參見
 

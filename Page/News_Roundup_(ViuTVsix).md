@@ -81,74 +81,32 @@ News](https://zh.wikipedia.org/wiki/Late_News_\(香港國際財經台\) "wikilin
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Sareena_Dayaram" title="wikilink">Sareena Dayaram</a></p></td>
 </tr>
 <tr class="odd">
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Christy_Choi" title="wikilink">Christy Choi</a></p></td>
+</tr>
+<tr class="even">
 <td style="text-align: center;"><p><strong>財經組記者</strong></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Pamela_Ambler" title="wikilink">Pamela Ambler</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center;"><p><strong>駐外記者</strong></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Mayu_Yoshida" title="wikilink">Mayu Yoshida</a><br />
 （駐日本）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center;"><p><strong><a href="https://zh.wikipedia.org/wiki/Weekly_Re-viu" title="wikilink">Weekly Re-viu主播</a></strong></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Patrick_Fok" title="wikilink">Patrick Fok</a>／<a href="https://zh.wikipedia.org/wiki/霍炳宗" title="wikilink">霍炳宗</a></p></td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;"><p><strong><a href="../Page/路透社.md" title="wikilink">路透社體育組主持</a></strong></p></td>
-</tr>
-<tr class="even">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Matt_Gooderick" title="wikilink">Matt Gooderick</a></p></td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;"><p><strong><a href="../Page/路透社.md" title="wikilink">路透社國際新聞組</a>／財經組／體育組記者</strong></p></td>
-</tr>
-<tr class="even">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Ryan_Brooks" title="wikilink">Ryan Brooks</a></p></td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Lucy_Fielder" title="wikilink">Lucy Fielder</a></p></td>
-</tr>
-<tr class="even">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Havovi_Cooper" title="wikilink">Havovi Cooper</a></p></td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Ivor_Bennett" title="wikilink">Ivor Bennett</a></p></td>
-</tr>
-<tr class="even">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Nathan_Frandino" title="wikilink">Nathan Frandino</a></p></td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Jess_Omari" title="wikilink">Jess Omari</a></p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"></td>
 </tr>
 </tbody>
 </table>
-
-### 前任新聞部員工
-
-| **近況：轉投[無綫新聞](https://zh.wikipedia.org/wiki/無綫新聞 "wikilink")** |
-| :------------------------------------------------------------: |
-|                                                                |
-|         **近況：轉投[有線新聞](../Page/香港有線新聞.md "wikilink")**          |
-|                                                                |
-|          **近況：轉投[香港電台](../Page/香港電台.md "wikilink")**           |
-|                                                                |
-|                        **近況：轉投其他傳媒機構**                         |
-|                                                                |
-|                        **近況：學術、教育及升學**                         |
-|                                                                |
-|                           **近況：其他**                            |
-|                                                                |
-|                          **去向不明或待業**                           |
-|                                                                |
 
 ## 参考资料
 

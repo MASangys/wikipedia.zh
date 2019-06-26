@@ -1,40 +1,5 @@
 **德瑟雷特字母**是一个位于第一輔助平面的[Unicode区段](https://zh.wikipedia.org/wiki/Unicode区段 "wikilink")，收录了1847年至1854年间德瑟雷特大学（现为[犹他大学](../Page/犹他大学.md "wikilink")）发明的，用来拼写[英语的字母](../Page/英语.md "wikilink")。
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>德瑟雷特字母</strong><br />
-<a href="http://www.unicode.org/charts/PDF/U10400.pdf">Unicode協會官方代碼表</a> (PDF)</p></td>
-</tr>
-<tr class="even">
-<td><p> </p></td>
-</tr>
-<tr class="odd">
-<td><p>U+1040x</p></td>
-</tr>
-<tr class="even">
-<td><p>U+1041x</p></td>
-</tr>
-<tr class="odd">
-<td><p>U+1042x</p></td>
-</tr>
-<tr class="even">
-<td><p>U+1043x</p></td>
-</tr>
-<tr class="odd">
-<td><p>U+1044x</p></td>
-</tr>
-<tr class="even">
-<td><p><strong>注释</strong></p>
-<dl>
-<dt></dt>
-<dd>1.依據Unicode 10.0版
-</dd>
-</dl></td>
-</tr>
-</tbody>
-</table>
-
 ## 历史
 
 以下Unicode文档记录了与这一区段相关的提案：

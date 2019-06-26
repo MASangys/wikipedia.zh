@@ -217,7 +217,8 @@ YD190XA8AEWOF</p></td>
 ##### Ryzen 7 系列
 
 本系列採用Socket AM4插座，代號「Summit
-Ridge」，採用一顆「Zeppelin」、完整開啓兩個CCX所有CPU核心但原生無內建GPU的晶片，支援[雙通道記憶體](https://zh.wikipedia.org/wiki/雙通道 "wikilink")，最多提供24個PCIe通道。
+Ridge」，採用一顆「Zeppelin」、完整開啓兩個CCX所有CPU核心但原生無內建GPU的晶片，支援[雙通道記憶體](https://zh.wikipedia.org/wiki/雙通道 "wikilink")，最多提供24個PCIe通道（4條被晶片組使用，16條可供顯示卡使用，4條用於1個PCIe
+x4 NVMe或1個PCIe x2 NVMe+2個SATA\[32\]）
 
 <table>
 <thead>
@@ -353,12 +354,13 @@ YD1700BBAEBOX</p></td>
 </tbody>
 </table>
 
-資料來源：\[32\]\[33\]\[34\]\[35\]\[36\]
+資料來源：\[33\]\[34\]\[35\]\[36\]\[37\]
 
 ##### Ryzen 5 系列
 
-本系列採用Socket AM4插座，本系列分爲兩種晶片配置。
-無GPU的型號採用一顆「Zeppelin」、開啓兩個CCX中的部分CPU核心、原生無內建GPU的晶片，支援雙通道記憶體，最多提供24個PCIe通道：
+本系列採用Socket AM4插座，本系列分為兩種晶片設定。
+無GPU的型號採用一顆「Zeppelin」、開啓兩個CCX中的部分CPU核心、原生無內建GPU的晶片，支援雙通道記憶體，最多提供24個PCIe通道（4條被晶片組使用，16條可供顯示卡使用，4條用於1個PCIe
+x4 NVMe或1個PCIe x2 NVMe+2個SATA\[38\]）
 
 <table>
 <thead>
@@ -507,11 +509,13 @@ YD1400BBAEBOX</p></td>
 </tbody>
 </table>
 
-資料來源：\[37\]\[38\]\[39\]\[40\]\[41\]\[42\]\[43\]\[44\]
+資料來源：\[39\]\[40\]\[41\]\[42\]\[43\]\[44\]\[45\]\[46\]
 
-有GPU的型號代號爲「Raven
-Ridge」，採用原生有一個CCX、有內建GPU的晶片，支援雙通道記憶體，最多提供20個PCIe通道（實際會有4條通道被晶片組佔用，獨立GPU最多可用8個通道即
-PCIe 3.0 × 8 規格，下同）；GPU代號Radeon Vega 11，配置有11組CU；型號結尾帶「E」的爲低功耗版本：
+內建GPU的型號代號為「Raven
+Ridge」，採用原生有一個CCX、有內建GPU的晶片，支援雙通道記憶體，最多提供16個PCIe通道（實際會有4條通道被晶片組佔用，獨立GPU最多可用8個通道即
+PCIe 3.0
+x8規格，還有4條通道可用於[NVMe或](https://zh.wikipedia.org/wiki/NVMe "wikilink")[SATA的擴充](../Page/SATA.md "wikilink")\[47\]\[48\]\[49\]）；GPU代號Radeon
+Vega 11，配置有11組CU；型號結尾帶「E」的為低功耗版本：
 
 <table>
 <thead>
@@ -636,12 +640,13 @@ PCIe 3.0 × 8 規格，下同）；GPU代號Radeon Vega 11，配置有11組CU；
 </tbody>
 </table>
 
-資料來源：\[45\]\[46\]\[47\]\[48\]\[49\]\[50\]\[51\]\[52\]\[53\]\[54\]\[55\]\[56\]\[57\]\[58\]\[59\]
+資料來源：\[50\]\[51\]\[52\]\[53\]\[54\]\[55\]\[56\]\[57\]\[58\]\[59\]\[60\]\[61\]\[62\]\[63\]\[64\]
 
 ##### Ryzen 3 系列
 
-本系列採用Socket AM4插座，本系列分爲兩種晶片配置。
-無GPU的型號採用一顆「Zeppelin」、開啓兩個CCX中的部分CPU核心、原生無內建GPU的晶片，無同步多執行緒的支援，支援雙通道記憶體，最多提供24個PCIe通道：
+本系列採用Socket AM4插座，本系列分為兩種晶片配置。
+無GPU的型號採用一顆「Zeppelin」、開啓兩個CCX中的部分CPU核心、原生無內建GPU的晶片，無同步多執行緒的支援，支援雙通道記憶體，最多提供24個PCIe通道（4條被晶片組使用，16條可供顯示卡使用，4條用於1個PCIe
+x4 NVMe或1個PCIe x2 NVMe+2個SATA）\[65\]：
 
 <table>
 <thead>
@@ -764,10 +769,10 @@ YD1200BBAEBOX</p></td>
 </tbody>
 </table>
 
-資料來源：\[60\]\[61\]\[62\]\[63\]\[64\]
+資料來源：\[66\]\[67\]\[68\]\[69\]\[70\]
 
 有GPU的型號代號爲「Raven Ridge」，採用原生有一個CCX、有內建GPU的晶片，但與Ryzen
-5系列的相比原生關閉了同步多執行緒，支援雙通道記憶體，最多提供20個PCIe通道（實際會有4條通道被晶片組佔用，獨立GPU最多可用8個通道）；GPU爲Radeon
+5系列的相比原生關閉了同步多執行緒，支援雙通道記憶體，最多提供16個PCIe通道（4條用於晶片組，4條用於NVMe/SATA儲存，8條用於獨立顯示卡），GPU爲Radeon
 Vega 8，配置有8組CU；型號結尾帶「E」的爲低功耗版本：
 
 <table>
@@ -893,12 +898,12 @@ Vega 8，配置有8組CU；型號結尾帶「E」的爲低功耗版本：
 </tbody>
 </table>
 
-資料來源：\[65\]\[66\]\[67\]\[68\]\[69\]\[70\]\[71\]\[72\]\[73\]\[74\]\[75\]\[76\]
+資料來源：\[71\]\[72\]\[73\]\[74\]\[75\]\[76\]\[77\]\[78\]\[79\]\[80\]\[81\]\[82\]
 
 ##### Athlon 系列
 
 本系列採用Socket AM4插座，均為原生有一個CCX、有內建GPU的「Raven
-Ridge」晶片，只有兩個CPU核心被開啟，但保留了同步多執行緒，支援雙通道記憶體，最多提供20個PCIe通道（實際會有4條通道被晶片組佔用，獨立GPU最多可用8個通道）；GPU爲Radeon
+Ridge」晶片，只有兩個CPU核心被開啟，但支援同步多執行緒，支援雙通道記憶體；GPU爲Radeon
 Vega 3，配置有3組CU；型號結尾帶「E」的爲低功耗版本：
 
 <table>
@@ -1024,20 +1029,20 @@ Vega 3，配置有3組CU；型號結尾帶「E」的爲低功耗版本：
 </tbody>
 </table>
 
-資料來源：\[77\]\[78\]\[79\]\[80\]\[81\]\[82\]\[83\]
+資料來源：\[83\]\[84\]\[85\]\[86\]\[87\]\[88\]\[89\]
 
 表格清單附註：
 
 #### 行動型處理器
 
 目前推出的 Ryzen Mobile
-系列處理器主要用於[超極致筆電](../Page/Ultrabook.md "wikilink")，\[84\]全數使用「Raven
+系列處理器主要用於[超極致筆電](../Page/Ultrabook.md "wikilink")，\[90\]全數使用「Raven
 Ridge」晶片，含一個CCX（有4個CPU核心），[BGA封裝的](../Page/球柵陣列封裝.md "wikilink")[Socket
 FP5](https://zh.wikipedia.org/wiki/Socket_FP5 "wikilink")，支援雙通道記憶體，內建GPU，部分型號還不會開啓[同步多執行緒](https://zh.wikipedia.org/wiki/同步多執行緒 "wikilink")。
 
 ##### Ryzen 7 Mobile 系列
 
-Ryzen 7 2800H的GPU部分爲Radeon Vega 11，Ryzen 7 2700U及Pro 2700U的GPU部分爲Radeon
+Ryzen 7 2800H的GPU部分為Radeon Vega 11，Ryzen 7 2700U及Pro 2700U的GPU部分為Radeon
 Vega 10
 
 <table>
@@ -1154,7 +1159,7 @@ Vega 10
 </tbody>
 </table>
 
-資料來源：\[85\]\[86\]\[87\]\[88\]\[89\]\[90\]\[91\]\[92\]
+資料來源：\[91\]\[92\]\[93\]\[94\]\[95\]\[96\]\[97\]\[98\]
 
 ##### Ryzen 5 Mobile 系列
 
@@ -1274,7 +1279,7 @@ Vega 10
 </tbody>
 </table>
 
-資料來源：\[93\]\[94\]\[95\]\[96\]\[97\]\[98\]\[99\]\[100\]
+資料來源：\[99\]\[100\]\[101\]\[102\]\[103\]\[104\]\[105\]\[106\]
 
 ##### Ryzen 3 Mobile 系列
 
@@ -1384,12 +1389,12 @@ Vega 10
 </tbody>
 </table>
 
-資料來源：\[101\]\[102\]\[103\]\[104\]\[105\]\[106\]
+資料來源：\[107\]\[108\]\[109\]\[110\]\[111\]\[112\]
 
 #### 嵌入式平臺
 
 2018年1月，AMD發表了Ryzen Embedded
-V1000系列APU，適用於嵌入式裝置（如工業[過程控制用主機](https://zh.wikipedia.org/wiki/過程控制 "wikilink")、[POS機台](../Page/銷售時點情報系統.md "wikilink")、[精簡客戶端](https://zh.wikipedia.org/wiki/精簡客戶端 "wikilink")、醫療衛生影像、[數位電子看板等](https://zh.wikipedia.org/wiki/數位電子看板 "wikilink")）。\[107\]全部均支援雙通道DDR4記憶體，含內建GPU（Radeon
+V1000系列APU，適用於嵌入式裝置（如工業[過程控制用主機](https://zh.wikipedia.org/wiki/過程控制 "wikilink")、[POS機台](../Page/銷售時點情報系統.md "wikilink")、[精簡客戶端](https://zh.wikipedia.org/wiki/精簡客戶端 "wikilink")、醫療衛生影像、[數位電子看板等](https://zh.wikipedia.org/wiki/數位電子看板 "wikilink")）。\[113\]全部均支援雙通道DDR4記憶體，含內建GPU（Radeon
 Vega 3、Vega 8以及Vega 11，以CU數為GPU型號結尾），使用BGA封裝的Socket FP5介面。
 
 <table>
@@ -1497,7 +1502,7 @@ Vega 3、Vega 8以及Vega 11，以CU數為GPU型號結尾），使用BGA封裝�
 </tbody>
 </table>
 
-資料來源：\[108\]\[109\]\[110\]\[111\]
+資料來源：\[114\]\[115\]\[116\]\[117\]
 
 表格清單附註：
 
@@ -1514,9 +1519,9 @@ AM4連接介面和支援[雙通道記憶體](https://zh.wikipedia.org/wiki/雙�
 Threadripper 2000系列於2018年Computex上發表，採用[Socket
 TR4插座](../Page/Socket_TR4.md "wikilink")，支援最高[四通道記憶體](../Page/多通道記憶體技術.md "wikilink")（由四個雙通道記憶體控制器提供支援），最多提供64個PCIe通道，本系列採用[多晶片模組](../Page/多晶片模組.md "wikilink")，代號「Colfax」，實際上是將4個與「Pinnacle
 Ridge」相同的8核心晶片封裝於處理器基板上（視良率而開啓部分CPU核心等部分），最高會有32個CPU核心的配置，3.0
-GHz以上的基準時脈，最高TDP也達到180W～250W，其盒裝版本配備了一個高達14條導熱管的大體積散熱器。\[112\]若主機板廠商提供BIOS韌體更新的話，Threadripper
+GHz以上的基準時脈，最高TDP也達到180W～250W，其盒裝版本配備了一個高達14條導熱管的大體積散熱器。\[118\]若主機板廠商提供BIOS韌體更新的話，Threadripper
 2000系列也會相容於供電設計足夠、已有的使用AMD
-X399晶片組的主機板上。\[113\]不過，由於仍維持四通道記憶體的規格，四顆晶片共用其中的兩個[記憶體控制器](https://zh.wikipedia.org/wiki/記憶體控制器 "wikilink")，面對記憶體存取吃重的應用程式可能會有存取延時加大的問題。\[114\]
+X399晶片組的主機板上。\[119\]不過，由於仍維持四通道記憶體的規格，四顆晶片共用其中的兩個[記憶體控制器](https://zh.wikipedia.org/wiki/記憶體控制器 "wikilink")，面對記憶體存取吃重的應用程式可能會有存取延時加大的問題。\[120\]
 
 <table>
 <thead>
@@ -1626,11 +1631,12 @@ YD299XAZAFWOF</p></td>
 </tbody>
 </table>
 
-資料來源：\[115\]\[116\]\[117\]\[118\]\[119\]\[120\]
+資料來源：\[121\]\[122\]\[123\]\[124\]\[125\]\[126\]
 
 ##### Ryzen 7 系列
 
-本系列採用Socket AM4插座，最多提供24個PCIe通道
+本系列採用Socket AM4插座，最多提供24個PCIe通道（16條用於顯示卡，4條用於晶片組，4條用於1 PCIe x4 NVMe或2
+SATA+1 PCIe x2 NVMe）
 
 <table>
 <thead>
@@ -1765,11 +1771,12 @@ YD2700BBAFBOX</p></td>
 </tbody>
 </table>
 
-資料來源：\[121\]\[122\]\[123\]\[124\]\[125\]\[126\]
+資料來源：\[127\]\[128\]\[129\]\[130\]\[131\]\[132\]
 
 ##### Ryzen 5 系列
 
-本系列採用Socket AM4插座，最多提供24個PCIe通道
+本系列採用Socket AM4插座，最多提供24個PCIe通道（16條用於顯示卡，4條用於晶片組，4條用於1 PCIe x4 NVMe或2
+SATA+1 PCIe x2 NVMe）
 
 <table>
 <thead>
@@ -1916,11 +1923,12 @@ YD2600BBAFBOX</p></td>
 </tbody>
 </table>
 
-資料來源：\[127\]\[128\]\[129\]\[130\]\[131\]\[132\]\[133\]\[134\]\[135\]
+資料來源：\[133\]\[134\]\[135\]\[136\]\[137\]\[138\]\[139\]\[140\]\[141\]
 
 ##### Ryzen 3 系列
 
-本系列採用Socket AM4插座，最多提供24個PCIe通道。
+本系列採用Socket AM4插座，最多提供24個PCIe通道（16條用於顯示卡，4條用於晶片組，4條用於1 PCIe x4 NVMe或2
+SATA+1 PCIe x2 NVMe）。
 
 <table>
 <thead>
@@ -1987,7 +1995,7 @@ YD2600BBAFBOX</p></td>
 
 ##### Ryzen 9 系列
 
-本系列採用Socket AM4插座，最多提供40個PCIe通道。
+本系列採用Socket AM4插座，最多可為顯示卡擴充16條PCIe通道。
 
 <table>
 <thead>
@@ -2035,6 +2043,21 @@ YD2600BBAFBOX</p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><strong>3950X</strong></p></td>
+<td></td>
+<td><p>16/32</p></td>
+<td><p>3.5</p></td>
+<td><p>4.7</p></td>
+<td><p>16 × 512</p></td>
+<td><p>64</p></td>
+<td><p>DDR4-3200<br />
+（XMP/AMP<br />
+可支援至5000+）</p></td>
+<td><p>105</p></td>
+<td><p>7</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><strong>3900X</strong></p></td>
 <td></td>
 <td><p>12/24</p></td>
@@ -2054,7 +2077,7 @@ YD2600BBAFBOX</p></td>
 
 ##### Ryzen 7 系列
 
-本系列採用Socket AM4插座，最多提供40個PCIe通道。
+本系列採用Socket AM4插座，最多可為顯示卡提供16條PCIe通道。
 
 <table>
 <thead>
@@ -2136,7 +2159,7 @@ YD2600BBAFBOX</p></td>
 
 ##### Ryzen 5 系列
 
-本系列採用Socket AM4插座，最多提供40個PCIe通道。
+本系列採用Socket AM4插座，最多提供24條通道（16條用於顯示卡，4條用於晶片組，4條用於NVMe/SATA儲存）。
 
 <table>
 <thead>
@@ -2213,10 +2236,88 @@ YD2600BBAFBOX</p></td>
 <td><p>7</p></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p><strong>3400G</strong></p></td>
+<td></td>
+<td><p>4/8</p></td>
+<td><p>3.7</p></td>
+<td><p>4.2</p></td>
+<td></td>
+<td><p>6</p></td>
+<td></td>
+<td></td>
+<td><p>12</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
-資料來源：\[136\]\[137\]\[138\]\[139\]
+##### Ryzen 3 系列
+
+本系列採用Socket AM4插座，最多提供24條通道（16條用於顯示卡，4條用於晶片組，4條用於NVMe/SATA儲存）。
+
+<table>
+<thead>
+<tr class="header">
+<th><p>型號</p></th>
+<th><p>步進</p></th>
+<th><p><a href="../Page/多核心處理器.md" title="wikilink">核心數</a><br />
+/<a href="https://zh.wikipedia.org/wiki/執行緒" title="wikilink">執行緒數</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/時脈" title="wikilink">時脈</a> (<a href="https://zh.wikipedia.org/wiki/GHz" title="wikilink">GHz</a>)</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/快取" title="wikilink">快取</a></p></th>
+<th><p>記憶體支援</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/熱設計功耗" title="wikilink">TDP</a><br />
+(<a href="https://zh.wikipedia.org/wiki/瓦" title="wikilink">W</a>)</p></th>
+<th><p>制程工艺（nm）</p></th>
+<th><p>部件號</p></th>
+<th><p>發售日期</p></th>
+<th><p>發售價格 (美元)</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>基準</p></td>
+<td><p>加速</p></td>
+<td><p>L2 (KiB)</p></td>
+<td><p>L3 (MiB)</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>普通版</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>3200G</strong></p></td>
+<td></td>
+<td><p>4/4</p></td>
+<td><p>3.6</p></td>
+<td><p>4.0</p></td>
+<td></td>
+<td><p>6</p></td>
+<td></td>
+<td></td>
+<td><p>12</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+資料來源：\[142\]\[143\]\[144\]\[145\]
 
 表格清單附註：
 
@@ -2311,7 +2412,7 @@ YD2600BBAFBOX</p></td>
 
 31.
 
-32.
+32. <https://rog.asus.com/articles/technologies/your-guide-to-the-ryzen-am4-platform-and-its-x370-b350-and-a320-chipsets/>
 
 33.
 
@@ -2323,17 +2424,17 @@ YD2600BBAFBOX</p></td>
 
 37.
 
-38.
+38. <https://rog.asus.com/articles/technologies/your-guide-to-the-ryzen-am4-platform-and-its-x370-b350-and-a320-chipsets/>
 
 39.
 
 40.
 
-41. ，原載於[1](https://elchapuzasinformatico.com/2017/04/amd-ryzen-5-1600-review/5/)
+41.
 
 42.
 
-43.
+43. ，原載於[1](https://elchapuzasinformatico.com/2017/04/amd-ryzen-5-1600-review/5/)
 
 44.
 
@@ -2341,11 +2442,11 @@ YD2600BBAFBOX</p></td>
 
 46.
 
-47.
+47. <https://www.amd.com/zh-hant/products/apu/amd-ryzen-5-2400g>
 
-48.
+48. <https://rog.asus.com/articles/technologies/your-guide-to-the-ryzen-am4-platform-and-its-x370-b350-and-a320-chipsets/>
 
-49.
+49. <https://www.techpowerup.com/241444/amd-ryzen-raven-ridge-comes-with-a-limited-pcie-interface>
 
 50.
 
@@ -2369,7 +2470,7 @@ YD2600BBAFBOX</p></td>
 
 60.
 
-61. ，原載於Computerbase、ASRock、usb.org、hardware.fr
+61.
 
 62.
 
@@ -2377,23 +2478,23 @@ YD2600BBAFBOX</p></td>
 
 64.
 
-65.
+65. <https://rog.asus.com/articles/technologies/your-guide-to-the-ryzen-am4-platform-and-its-x370-b350-and-a320-chipsets/>
+
 66.
-67.
+
+67. ，原載於Computerbase、ASRock、usb.org、hardware.fr
+
 68.
+
 69.
+
 70.
 
 71.
-
 72.
-
 73.
-
 74.
-
 75.
-
 76.
 
 77.
@@ -2429,6 +2530,7 @@ YD2600BBAFBOX</p></td>
 92.
 
 93.
+
 94.
 
 95.
@@ -2440,7 +2542,6 @@ YD2600BBAFBOX</p></td>
 98.
 
 99.
-
 100.
 
 101.
@@ -2496,6 +2597,7 @@ YD2600BBAFBOX</p></td>
 126.
 
 127.
+
 128.
 
 129.
@@ -2507,13 +2609,24 @@ YD2600BBAFBOX</p></td>
 132.
 
 133.
-
 134.
 
 135.
 
 136.
+
 137.
+
 138.
 
 139.
+
+140.
+
+141.
+
+142.
+143.
+144.
+
+145.

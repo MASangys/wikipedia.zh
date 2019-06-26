@@ -121,9 +121,10 @@ ASP.NET Core 也不限只能用 ASP.NET Core 本身的相依注入功能，若�
 ASP.NET Core 支援自我代管 (Self-hosting) 以及 Web Server 代管 (Web Server-hosting)
 的功能 \[8\]，早期 ASP.NET Core 有延續以 IIS 為主要代管服務的設計 (當時的代號為 Helios)，但是到了
 ASP.NET Core Beta 8 時，微軟宣佈將以 Kestrel Server 為主要的代管伺服器 \[9\]，Kestrel
-Server 是以  為基礎開發的 Web Server 代管行程 (Hosting Process)，藉由 libuv 的協助，Kestrel
-Server 可跨平台，也可適用於 IIS，微軟也為了 IIS 使用 Kestrel Server 而發展了 IIS Platform
-Handler，讓 IIS 可直接將 HTTP 的要求直接轉送給 Kestrel Server。
+Server 是以 [libuv](https://zh.wikipedia.org/wiki/libuv "wikilink") 為基礎開發的
+Web Server 代管行程 (Hosting Process)，藉由 libuv 的協助，Kestrel Server 可跨平台，也可適用於
+IIS，微軟也為了 IIS 使用 Kestrel Server 而發展了 IIS Platform Handler，讓 IIS 可直接將
+HTTP 的要求直接轉送給 Kestrel Server。
 
 自 ASP.NET Core 1.0.0-rc1 起，代管方式已經回歸以 Kestrel Server 為主，原本的 IIS Platform
 Handler 也依 ASP.NET Core 的特性改寫為 ASP.NET Core Module，若要使用 IIS 架設 ASP.NET
@@ -312,8 +313,8 @@ Framework 版本內組件的相依。
 
 dependencies 內的套件是以 "套件代碼": "版本" 的格式設定，例如 "Microsoft.AspNet.Mvc":
 "1.0.0-rc1-final" 表示參考 Microsoft.AspNet.Mvc 套件的 v1.0.0-rc1-final
-版本。套件與版本資訊是用所提供，和以往要以加入參考的方式加入對特定組件的相依性有很大的不同，而這也是 .NET
-Core/ASP.NET Core 的特色之一，不必再安裝大包的 .NET Framework，只要使用 DNU 的 restore
+版本。套件與版本資訊是用[NuGet所提供](../Page/NuGet.md "wikilink")，和以往要以加入參考的方式加入對特定組件的相依性有很大的不同，而這也是
+.NET Core/ASP.NET Core 的特色之一，不必再安裝大包的 .NET Framework，只要使用 DNU 的 restore
 指令，就能還原所參照的相依套件。
 
 ``` json

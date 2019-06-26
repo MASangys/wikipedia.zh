@@ -109,7 +109,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/先見之明" title="wikilink">先見之明</a><br />
 </p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/神秘小說" title="wikilink">悬疑</a></p></td>
 <td></td>

@@ -2,27 +2,188 @@
 
 ## 專屬節目
 
-| 節目名稱                                   | 日期                     | 參與成員                                                             | 頻道                                                                                                                                                                                                                          | 集數                                                                    | 備註                              |
-| -------------------------------------- | ---------------------- | ---------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | ------------------------------- |
-| ON AIR NCT SHOW                        | 2016年4月9－10日           | 泰一、泰容、道英、Ten、在玹、Mark                                             | [Naver V LIVE](../Page/NAVER.md "wikilink")                                                                                                                                                                                 |                                                                       | 與[希澈](../Page/希澈.md "wikilink") |
-| NCT LIFE in Bangkok                    | 2016年4月16日－5月15日       | 泰一、韓帥、Johnny、泰容、悠太、道英、Ten、在玹、Mark、Jeno、楷燦、渽民、志晟                  | [Naver TVcast](https://zh.wikipedia.org/wiki/Naver "wikilink")、Naver V、、TRUE4U、阿里音樂頻道、[優酷](https://zh.wikipedia.org/wiki/優酷 "wikilink")、[土豆](../Page/土豆网.md "wikilink")、[MTV](https://zh.wikipedia.org/wiki/MTV "wikilink") | 6                                                                     |                                 |
-| NCT LIFE in Seoul                      | 2016年5月23日－6月11日       | 泰容、悠太、錕、道英、在玹、昀昀                                                 | 7                                                                                                                                                                                                                           |                                                                       |                                 |
-| NCT LIFE in Paju 團結大會                  | 2016年7月16日－8月20日       | 泰一、泰容、悠太、在玹、昀昀、Mark、楷燦                                           | 6                                                                                                                                                                                                                           |                                                                       |                                 |
-| NCT LIFE 韓食王挑戰記                        | 2016年10月22日－11月26日     | 泰一、泰容、悠太、道英、Ten、在玹、昀昀                                            | 6                                                                                                                                                                                                                           |                                                                       |                                 |
-| NCT LIFE MINI                          | 2017年1月12日－4月20日       | 泰一、Johnny、泰容、悠太、道英、Ten、在玹、昀昀、Mark、仁俊、Jeno、楷燦、辰樂、志晟               | YouTube、Naver TVcast、Naver V LIVE、優酷、土豆                                                                                                                                                                                     |                                                                       | SM娛樂自製團體短片綜藝                    |
-| NCT 127's LIMITLESS Room               | 2017年1月13日－2月9日        | 泰一、Johnny、泰容、悠太、道英、在玹、昀昀、Mark、楷燦                                 |                                                                                                                                                                                                                             |                                                                       |                                 |
-| NCT SCHOOL Dream Mate                  | 2017年2月15日－3月10日       | Mark、仁俊、Jeno、楷燦、辰樂、志晟                                            |                                                                                                                                                                                                                             |                                                                       |                                 |
-| NCT LIFE 綜藝修煉會                         | 2017年3月4－19日           | 仁俊、Jeno、辰樂、志晟                                                    |                                                                                                                                                                                                                             | 與[利特](../Page/利特.md "wikilink")、[神童](../Page/神童_\(藝人\).md "wikilink") |                                 |
-| NCT LIFE in Chiangmai                  | 2017年3月25日－4月9日        | Johnny、泰容、道英、Ten、在玹                                              |                                                                                                                                                                                                                             | \[1\]                                                                 |                                 |
-| NCT LIFE in Osaka                      | 2017年6月14日－7月22日       | 泰一、泰容、悠太、道英、昀昀                                                   | KBS Joy、oksusu                                                                                                                                                                                                              |                                                                       |                                 |
-| NCT 127 Boy Video                      | 2017年6月19日－8月11日       | 泰一、Johnny、泰容、悠太、道英、在玹、昀昀、Mark、楷燦                                 | YouTube                                                                                                                                                                                                                     |                                                                       | SM娛樂自製團體短片綜藝                    |
-| \[N'- \] 系列短片                          | 2017年8月18日－至今          | 泰一、Johnny、泰容、悠太、錕、道英、Ten、在玹、昀昀、廷祐、Lucas、Mark、仁俊、Jeno、楷燦、渽民、辰樂、志晟 |                                                                                                                                                                                                                             |                                                                       |                                 |
-| NCT DREAM Boy Video                    | 2017年9月6日－11月3日        | Mark、仁俊、Jeno、楷燦、辰樂、志晟                                            |                                                                                                                                                                                                                             |                                                                       |                                 |
-| NCT 127 Road to Japan                  | 2017年12月10日－2018年5月20日 | 泰一、Johnny、泰容、悠太、道英、在玹、昀昀、Mark、楷燦                                 | Abema TV                                                                                                                                                                                                                    |                                                                       |                                 |
-| Hot\&Young 首爾旅行 × NCT LIFE             | 2018年7月23日－8月17日       | Johnny、悠太、錕、昀昀、Lucas、Mark                                        | YouTube                                                                                                                                                                                                                     |                                                                       |                                 |
-| NCT 127 Star Road                      | 2019年1月5日－2月1日         | Johnny、泰容、悠太、道英、在玹、廷祐                                            | Naver V LIVE                                                                                                                                                                                                                |                                                                       |                                 |
-| NCT 127 NEO CITY JAPAN－TheOrigin举办纪念SP | 2019年3月17日－24日         | 泰一、Johnny、泰容、悠太、道英、在玹、昀昀、Mark、廷祐                                 | Abema TV                                                                                                                                                                                                                    |                                                                       |                                 |
-|                                        |                        |                                                                  |                                                                                                                                                                                                                             |                                                                       |                                 |
+<table style="width:140%;">
+<colgroup>
+<col style="width: 22%" />
+<col style="width: 18%" />
+<col style="width: 22%" />
+<col style="width: 13%" />
+<col style="width: 45%" />
+<col style="width: 18%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>節目名稱</p></th>
+<th><p>日期</p></th>
+<th><p>參與成員</p></th>
+<th><p>頻道</p></th>
+<th><p>集數</p></th>
+<th><p>備註</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>ON AIR NCT SHOW</p></td>
+<td><p>2016年4月9－10日</p></td>
+<td><p>泰一、泰容、道英、Ten、在玹、Mark</p></td>
+<td><p><a href="../Page/NAVER.md" title="wikilink">Naver V LIVE</a></p></td>
+<td></td>
+<td><p>與<a href="../Page/希澈.md" title="wikilink">希澈</a></p></td>
+</tr>
+<tr class="even">
+<td><p>NCT LIFE in Bangkok</p></td>
+<td><p>2016年4月16日－5月15日</p></td>
+<td><p>泰一、韓帥、Johnny、泰容、悠太、道英、Ten、在玹、Mark、Jeno、楷燦、渽民、志晟</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Naver" title="wikilink">Naver TVcast</a>、Naver V、、TRUE4U、阿里音樂頻道、<a href="https://zh.wikipedia.org/wiki/優酷" title="wikilink">優酷</a>、<a href="../Page/土豆网.md" title="wikilink">土豆</a>、<a href="https://zh.wikipedia.org/wiki/MTV" title="wikilink">MTV</a></p></td>
+<td><p>6</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>NCT LIFE in Seoul</p></td>
+<td><p>2016年5月23日－6月11日</p></td>
+<td><p>泰容、悠太、錕、道英、在玹、昀昀</p></td>
+<td><p>7</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>NCT LIFE in Paju 團結大會</p></td>
+<td><p>2016年7月16日－8月20日</p></td>
+<td><p>泰一、泰容、悠太、在玹、昀昀、Mark、楷燦</p></td>
+<td><p>6</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>NCT LIFE 韓食王挑戰記</p></td>
+<td><p>2016年10月22日－11月26日</p></td>
+<td><p>泰一、泰容、悠太、道英、Ten、在玹、昀昀</p></td>
+<td><p>6</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>NCT LIFE MINI</p></td>
+<td><p>2017年1月12日－4月20日</p></td>
+<td><p>泰一、Johnny、泰容、悠太、道英、Ten、在玹、昀昀、Mark、仁俊、Jeno、楷燦、辰樂、志晟</p></td>
+<td><p>YouTube、Naver TVcast、Naver V LIVE、優酷、土豆</p></td>
+<td></td>
+<td><p>SM娛樂自製團體短片綜藝</p></td>
+</tr>
+<tr class="odd">
+<td><p>NCT 127's LIMITLESS Room</p></td>
+<td><p>2017年1月13日－2月9日</p></td>
+<td><p>泰一、Johnny、泰容、悠太、道英、在玹、昀昀、Mark、楷燦</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>NCT SCHOOL Dream Mate</p></td>
+<td><p>2017年2月15日－3月10日</p></td>
+<td><p>Mark、仁俊、Jeno、楷燦、辰樂、志晟</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>NCT LIFE 綜藝修煉會</p></td>
+<td><p>2017年3月4－19日</p></td>
+<td><p>仁俊、Jeno、辰樂、志晟</p></td>
+<td></td>
+<td><p>與<a href="../Page/利特.md" title="wikilink">利特</a>、<a href="../Page/神童_(藝人).md" title="wikilink">神童</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>NCT LIFE in Chiangmai</p></td>
+<td><p>2017年3月25日－4月9日</p></td>
+<td><p>Johnny、泰容、道英、Ten、在玹</p></td>
+<td></td>
+<td><p>[1]</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>NCT LIFE in Osaka</p></td>
+<td><p>2017年6月14日－7月22日</p></td>
+<td><p>泰一、泰容、悠太、道英、昀昀</p></td>
+<td><p>KBS Joy、oksusu</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>NCT 127 Boy Video</p></td>
+<td><p>2017年6月19日－8月11日</p></td>
+<td><p>泰一、Johnny、泰容、悠太、道英、在玹、昀昀、Mark、楷燦</p></td>
+<td><p>YouTube</p></td>
+<td></td>
+<td><p>SM娛樂自製團體短片綜藝</p></td>
+</tr>
+<tr class="odd">
+<td><p>[N'- ] 系列短片</p></td>
+<td><p>2017年8月18日－至今</p></td>
+<td><p>泰一、Johnny、泰容、悠太、錕、道英、Ten、在玹、昀昀、廷祐、Lucas、Mark、仁俊、Jeno、楷燦、渽民、辰樂、志晟</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>NCT DREAM Boy Video</p></td>
+<td><p>2017年9月6日－11月3日</p></td>
+<td><p>Mark、仁俊、Jeno、楷燦、辰樂、志晟</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>NCT 127 Road to Japan</p></td>
+<td><p>2017年12月10日－2018年5月20日</p></td>
+<td><p>泰一、Johnny、泰容、悠太、道英、在玹、昀昀、Mark、楷燦</p></td>
+<td><p><a href="../Page/AbemaTV.md" title="wikilink">AbemaTV</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Hot&amp;Young 首爾旅行 × NCT LIFE</p></td>
+<td><p>2018年7月23日－8月17日</p></td>
+<td><p>Johnny、悠太、錕、昀昀、Lucas、Mark</p></td>
+<td><p>YouTube</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>NCT 127 Star Road</p></td>
+<td><p>2019年1月5日－2月1日</p></td>
+<td><p>Johnny、泰容、悠太、道英、在玹、廷祐</p></td>
+<td><p>Naver V LIVE</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>NCT 127 NEO CITY JAPAN－TheOrigin举办纪念SP</p></td>
+<td><p>2019年3月17日－24日</p></td>
+<td><p>泰一、Johnny、泰容、悠太、道英、在玹、昀昀、Mark、廷祐</p></td>
+<td><p>AbemaTV</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>NCT 127 请指教JAPAN!</p></td>
+<td><p>2019年6月9日</p></td>
+<td><p>泰一、Johnny、泰容、悠太、道英、在玹、昀昀、Mark、廷祐</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ### 專屬線上頻道
 
@@ -191,7 +352,7 @@
 <td><p>第3-5期</p></td>
 </tr>
 <tr class="odd">
-<td><p>2019年3月30日－至今</p></td>
+<td><p>2019年3月30日－6月15日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/湖南衛視" title="wikilink">湖南衛視</a></p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/我們的師父" title="wikilink">我們的師父</a>》</p></td>
 <td><p>昀昀</p></td>
@@ -279,46 +440,49 @@
 <td><p>2月5－6日</p></td>
 </tr>
 <tr class="even">
-<td><p>1月31日、2月7日、2月14日</p></td>
-</tr>
-<tr class="odd">
 <td><p>2月12日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>3月16日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>4月13日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>4月16日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>4月18日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>《》</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>4月19日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>4月23日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>4月27日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>5月12日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>5月14日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>5月19日</p></td>
+</tr>
+<tr class="odd">
+<td><p>6月5日</p></td>
+</tr>
+<tr class="even">
+<td><p>6月23日</p></td>
 </tr>
 </tbody>
 </table>
@@ -347,7 +511,7 @@
 </tr>
 <tr class="even">
 <td><p>2017年2月5日－2018年2月4日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/SBS株式会社" title="wikilink">SBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SBS_(韩国)" title="wikilink">SBS</a></p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a>》</p></td>
 <td><p>道英</p></td>
 <td><p>固定MC，與<a href="../Page/朴珍榮.md" title="wikilink">珍榮</a>、<a href="../Page/金智秀_(歌手).md" title="wikilink">Jisoo主持</a>[4]</p></td>
@@ -367,10 +531,24 @@
 <td><p>固定MC，與<a href="https://zh.wikipedia.org/wiki/金龍國" title="wikilink">金龍國</a>、睿恩主持[6]</p></td>
 </tr>
 <tr class="odd">
+<td><p>2018年12月4日</p></td>
+<td><p>道英、在玹</p></td>
+<td><p>特別MC</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年6月11日</p></td>
+<td><p>在玹</p></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年6月16日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SBS_(韩国)" title="wikilink">SBS</a></p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a>》</p></td>
+<td><p>道英</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -386,10 +564,11 @@
 
 ### 活動典禮主持
 
-| 日期         | 節目名稱         | 參與成員    | 備註 |
-| ---------- | ------------ | ------- | -- |
-| 2019年6月15日 | 2019 安東韓流演唱會 | Jeno、渽民 |    |
-|            |              |         |    |
+| 日期          | 節目名稱         | 參與成員    | 備註 |
+| ----------- | ------------ | ------- | -- |
+| 2018年11月14日 | 2018 濟州島韓流節慶 | Jeno、楷燦 |    |
+| 2019年6月15日  | 2019 安東韓流演唱會 | Jeno、渽民 |    |
+|             |              |         |    |
 
 ## 廣播電台
 
@@ -1742,7 +1921,7 @@
 <tr class="even">
 <td><p>4月9日</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=3UGMDJ9kZCA">일곱 번째 감각 (The 7th Sense)</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/The_7th_Sense" title="wikilink">《</a><a href="../Page/NCT_2018_Empathy.md" title="wikilink">NCT 2018 EMPATHY</a>》</p></td>
+<td><p><a href="../Page/The_7th_Sense.md" title="wikilink">《</a><a href="../Page/NCT_2018_Empathy.md" title="wikilink">NCT 2018 EMPATHY</a>》</p></td>
 <td><p>NCT U</p></td>
 <td><p>泰容、道英、Ten、在玹、Mark</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=yTmR-ogUXqo">Performance Video</a></p></td>
@@ -1775,7 +1954,7 @@
 <tr class="even">
 <td><p>8月24日</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=fwmvF5ffmhg">Chewing Gum</a></p></td>
-<td><p>&lt;<a href="https://zh.wikipedia.org/wiki/Chewing_Gum" title="wikilink">Chewing Gum</a>&gt;<br />
+<td><p>&lt;<a href="../Page/Chewing_Gum.md" title="wikilink">Chewing Gum</a>&gt;<br />
 《<a href="../Page/The_First_(NCT_Dream單曲).md" title="wikilink">The First</a>》</p></td>
 <td><p>NCT Dream</p></td>
 <td><p>Mark、仁俊、Jeno、楷燦、渽民、辰樂、志晟</p></td>
@@ -2057,7 +2236,7 @@ Focus on ver.<br />
 <tr class="odd">
 <td><p>5月24日</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=x95oZNxW5Rc">Superhuman</a></p></td>
-<td></td>
+<td><p><a href="https://www.youtube.com/watch?v=zchp_nlt1eQ">Dance Practice</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2204,7 +2383,7 @@ Focus on ver.<br />
 <td><p>11月29日</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=9ieKUQRVx0Q">Coffee Break</a></p></td>
 <td><p>Lucas</p></td>
-<td><p>与Jonah Nilsson（Dirty Loops）合唱</p></td>
+<td><p>与Jonah Nilsson（）合唱</p></td>
 </tr>
 <tr class="odd">
 <td><p>12月13日</p></td>
@@ -2219,6 +2398,13 @@ Focus on ver.<br />
 <td><p>NCT Dream</p></td>
 <td></td>
 <td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年</p></td>
+<td><p>6月6日</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=ESVsbCkFvG4">Don't Need Your Love</a></p></td>
+<td><p>NCT Dream（缺楷灿）</p></td>
+<td><p>与合唱</p></td>
 </tr>
 </tbody>
 </table>
@@ -2271,7 +2457,7 @@ Focus on ver.<br />
 | 4月                    | Grazia                    | 在玹                                                   |                        |                      |                                                                                     |
 | 5月                    | NYLON                     | 渽民                                                   |                        |                      |                                                                                     |
 | 6月                    | Maps                      | NCT Dream（缺楷燦、辰樂）                                    |                        |                      |                                                                                     |
-| 风度men’s uno Young\!   | 中國                        | WayV                                                 |                        |                      |                                                                                     |
+| 风度men's uno Young\!   | 中國                        | WayV                                                 |                        |                      |                                                                                     |
 
 ## 参考文献
 

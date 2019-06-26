@@ -13,10 +13,9 @@ TUX和其他Web服务器的主要区别包括：
 ## 参见
 
   - [網頁伺服器比較](../Page/網頁伺服器比較.md "wikilink")
-
   - [網頁伺服器](../Page/網頁伺服器.md "wikilink")
+  - [Httpd](https://zh.wikipedia.org/wiki/Httpd "wikilink")
 
-  -
 ## 外部链接
 
   - [TUX 2.0

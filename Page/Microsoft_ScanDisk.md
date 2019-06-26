@@ -15,6 +15,10 @@ XP及所有后续版本](../Page/Windows_XP.md "wikilink")）基本不可用；�
 
 在[类Unix系统上](../Page/类Unix系统.md "wikilink")，“fsck_msdosfs”等工具可完成同类任务。\[7\]
 
+在[Windows
+9x中](../Page/Windows_9x.md "wikilink")，若系統異常關機（如[藍白當機](https://zh.wikipedia.org/wiki/藍白當機 "wikilink")），則Windows在下次啟動時會執行ScanDisk程式以修復檔案系統錯誤，並顯示MS-DOS下的ScanDisk畫面（[Windows
+Me則顯示視窗化的ScanDisk程式](../Page/Windows_Me.md "wikilink")）。
+
 ## 参见
 
   - [CHKDSK](../Page/CHKDSK.md "wikilink")

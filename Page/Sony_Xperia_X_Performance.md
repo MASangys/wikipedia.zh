@@ -20,9 +20,10 @@ Xperia X Performance為Sony Xperia X系列中第一部旗艦級手機。
 
 ### 硬體
 
-Xperia X Performance採用5.0英寸（13厘米）1080p屏幕，還具有64位2.0 GHz四核Qualcomm
-Snapdragon 820 MSM8996 64位片上系統和3GB RAM。還具有32GB和64
-GB內部存儲，microSD卡擴展至200GB，並有不可拆卸的2700mAh電池。\[2\] \[3\]
+Xperia X Performance採用5.0英寸（13厘米）1080p屏幕，搭配64位元 2.2 GHz四核Qualcomm
+Snapdragon 820 MSM8996 處理器和3GB
+RAM。還具有32GB和64GB內部存儲，microSD卡擴展至200GB，並有不可拆卸的2700mAh電池。\[2\]
+\[3\]
 
 Xperia X Performance的後置攝像頭為23萬像素，傳感器尺寸為1 / 2.3英寸，光圈為f / 2.0，具有快速啟動的Sony
 Exmor

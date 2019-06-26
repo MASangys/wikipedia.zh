@@ -1,4 +1,4 @@
-**有限公司銀Production**（，）是以[演員](https://zh.wikipedia.org/wiki/演員 "wikilink")、[聲優經紀為主要業務的](../Page/聲優.md "wikilink")[日本](../Page/日本.md "wikilink")[演藝事務所（聲優事務所）](../Page/經紀公司.md "wikilink")。成立於1997年。簡稱「**銀Pro**（<small></small>）」。
+**有限公司銀Production**（，）是以[演員](../Page/演員.md "wikilink")、[聲優經紀為主要業務的](../Page/聲優.md "wikilink")[日本](../Page/日本.md "wikilink")[演藝事務所（聲優事務所）](../Page/經紀公司.md "wikilink")。成立於1997年。簡稱「**銀Pro**（<small></small>）」。
 
 ## 概要
 
@@ -185,7 +185,7 @@
   - [大竹宏](../Page/大竹宏.md "wikilink")（現所屬：[81
     Produce](../Page/81_Produce.md "wikilink")）
 
-  - （現所屬：81 Produce）
+  - [金光宣明](../Page/金光宣明.md "wikilink")（現所屬：81 Produce）
 
   - 河原睦生
 

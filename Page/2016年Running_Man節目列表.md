@@ -53,7 +53,7 @@
 <td><p>無嘉賓</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS炭峴製作中心</a><br />
 <small>（<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/高陽市.md" title="wikilink">高陽市</a><br />
-<a href="https://zh.wikipedia.org/wiki/一山西區" title="wikilink">一山西區</a>）</small></p></td>
+<a href="../Page/一山西區.md" title="wikilink">一山西區</a>）</small></p></td>
 <td><p><span style=font-size:110%><strong>SNS回覆競賽</strong></span><br />
 <strong>個人戰</strong><br />
 沒有隊伍</p></td>
@@ -820,11 +820,11 @@ vs<br />
 <small>（446）</small></p></td>
 <td><p>8月28日<br />
 <small>（8月16日）</small></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李準基" title="wikilink">李準基</a>、<a href="../Page/洪宗玄.md" title="wikilink">洪宗玄</a>、<br />
+<td><p><a href="../Page/李準基.md" title="wikilink">李準基</a>、<a href="../Page/洪宗玄.md" title="wikilink">洪宗玄</a>、<br />
 <a href="../Page/姜河那.md" title="wikilink">姜河那</a></p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS炭峴製作中心</a><br />
 <small>（<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/高陽市.md" title="wikilink">高陽市</a><br />
-<a href="https://zh.wikipedia.org/wiki/一山西區" title="wikilink">一山西區</a>）</small></p></td>
+<a href="../Page/一山西區.md" title="wikilink">一山西區</a>）</small></p></td>
 <td><p><span style=font-size:110%><strong>王座的遊戲</strong></span><br />
 <strong>個人戰</strong><br />
 沒有隊伍</p></td>
@@ -1093,7 +1093,7 @@ vs<br />
 <a href="../Page/珉豪.md" title="wikilink">珉豪</a>（<a href="../Page/SHINee.md" title="wikilink">SHINee</a>）</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS炭峴製作中心</a><br />
 <small>（<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/高陽市.md" title="wikilink">高陽市</a><br />
-<a href="https://zh.wikipedia.org/wiki/一山西區" title="wikilink">一山西區</a>）</small></p></td>
+<a href="../Page/一山西區.md" title="wikilink">一山西區</a>）</small></p></td>
 <td><p><span style=font-size:110%><strong>Avatar House</strong></span><br />
 '''<span style=color:#00008B>劉在錫、徐智慧</span><br />
 <span style=color:#964B00>池錫辰、梁世燦</span><br />

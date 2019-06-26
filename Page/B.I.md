@@ -1,5 +1,7 @@
-**金韓彬**（，，），藝名**B.I**（），[韓國男](https://zh.wikipedia.org/wiki/韓國 "wikilink")[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")、[饒舌歌手](../Page/饒舌.md "wikilink")。[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[YG娛樂旗下](../Page/YG娛樂.md "wikilink")7人男子流行音樂團體[iKON隊長](https://zh.wikipedia.org/wiki/iKON "wikilink")，擅長作詞作曲和隊內教舞，其RAP的特點是歌詞傳達力強，Flow流暢，說唱時不用刻意傾聽，可以輕鬆享受，將嘻哈音樂詮釋得更加大眾化\[1\]。[iKON大多數的歌曲皆由B](https://zh.wikipedia.org/wiki/iKON "wikilink").I負責製作。2018年以作品《Love
-Scenario》獲得[MMA頒獎典禮首個](../Page/甜瓜音樂獎.md "wikilink")「最佳作曲人獎」\[2\]。
+**金韓彬**（，，），藝名**B.I**（），[韓國男](https://zh.wikipedia.org/wiki/韓國 "wikilink")[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")、[饒舌歌手](../Page/饒舌.md "wikilink")。曾经為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[YG娛樂旗下](../Page/YG娛樂.md "wikilink")7人男子流行音樂團體[iKON隊長](https://zh.wikipedia.org/wiki/iKON "wikilink")，擅長作詞作曲和隊內教舞，其RAP的特點是歌詞傳達力強，Flow流暢，說唱時不用刻意傾聽，可以輕鬆享受，將嘻哈音樂詮釋得更加大眾化\[1\]。[iKON大多數的歌曲皆由B](https://zh.wikipedia.org/wiki/iKON "wikilink").I負責製作。2018年以作品《Love
+Scenario》獲得[MMA頒獎典禮首個](../Page/甜瓜音樂獎.md "wikilink")「最佳作曲人獎」。
+
+\[2\]。
 
 藝名「B.I」，是「BE
 I」的縮寫。源於哲學家[蘇格拉底的名言](https://zh.wikipedia.org/wiki/蘇格拉底 "wikilink")「認識你自己」和[Eminem的歌曲](../Page/阿姆.md "wikilink")「lose
@@ -114,6 +116,10 @@ Nervous》（떨린단
 
 10月22日[韓國승일희망재단](https://zh.wikipedia.org/wiki/韓國 "wikilink")(希望基金會)分別在官方Instagram\[70\]、Facebook\[71\]、Blog\[72\]發文感謝B.I以本名金韓彬捐款1022萬韓元幫助漸凍人建立醫院，更指出自B.I出道後連續三年捐款，總捐款金額為30,220,000韓元。
 
+### 2019年：B.I毒品爭議事件退隊及解除合約
+
+6月12日，B.I因毒品爭議事件而退出所屬組合及解除合約\[73\]。
+
 ## 音樂作品
 
 — 所屬團體之音樂作品，請參閱 [IKON音樂作品列表](../Page/IKON音樂作品列表.md "wikilink")。
@@ -146,11 +152,11 @@ Nervous》（떨린단
 
 | 發佈日期        | 歌曲名稱               | 演唱者                                                                                                                                                                                         | 備註                                                                                                                                                                                             |
 | ----------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2009年7月25日  | 《Indian Boy》       | [MC夢](../Page/MC夢.md "wikilink")                                                                                                                                                            | RAP\[73\]                                                                                                                                                                                      |
-| 2014年10月21日 | 《BORN HATER》       | [Epik High](../Page/Epik_High.md "wikilink")                                                                                                                                                | (副歌\&RAP)feat. Beenzino, Verbal Jint, [B.I](../Page/B.I.md "wikilink"), [MINO](https://zh.wikipedia.org/wiki/MINO "wikilink") & [BOBBY](https://zh.wikipedia.org/wiki/BOBBY "wikilink") \[74\] |
+| 2009年7月25日  | 《Indian Boy》       | [MC夢](../Page/MC夢.md "wikilink")                                                                                                                                                            | RAP\[74\]                                                                                                                                                                                      |
+| 2014年10月21日 | 《BORN HATER》       | [Epik High](../Page/Epik_High.md "wikilink")                                                                                                                                                | (副歌\&RAP)feat. Beenzino, Verbal Jint, [B.I](../Page/B.I.md "wikilink"), [MINO](https://zh.wikipedia.org/wiki/MINO "wikilink") & [BOBBY](https://zh.wikipedia.org/wiki/BOBBY "wikilink") \[75\] |
 | 2017年5月10日  | 《Bomb》             | [PSY](../Page/PSY.md "wikilink")                                                                                                                                                            | feat.[B.I](../Page/B.I.md "wikilink")&[BOBBY](https://zh.wikipedia.org/wiki/BOBBY "wikilink")                                                                                                  |
 | 2018年7月20日  | 《MOLLADO》          | [勝利](../Page/勝利_\(歌手\).md "wikilink")                                                                                                                                                       | RAP                                                                                                                                                                                            |
-| 2018年11月25日 | 《형이라고 불러도 돼》\[75\] | [窮民丈夫](../Page/窮民丈夫.md "wikilink")（[車仁杓](../Page/車仁杓.md "wikilink")、、[權五中](https://zh.wikipedia.org/wiki/權五中 "wikilink")、[安貞桓](../Page/安貞桓.md "wikilink")、[趙泰寬](../Page/趙泰寬.md "wikilink")） | Prod. B.I, [BOBBY](../Page/金知元_\(饒舌者\).md "wikilink")                                                                                                                                          |
+| 2018年11月25日 | 《형이라고 불러도 돼》\[76\] | [窮民丈夫](../Page/窮民丈夫.md "wikilink")（[車仁杓](../Page/車仁杓.md "wikilink")、、[權五中](https://zh.wikipedia.org/wiki/權五中 "wikilink")、[安貞桓](../Page/安貞桓.md "wikilink")、[趙泰寬](../Page/趙泰寬.md "wikilink")） | Prod. B.I, [BOBBY](../Page/金知元_\(饒舌者\).md "wikilink")                                                                                                                                          |
 | 2019年5月30日  | 《누구 없소 (NO ONE)》   | [LEE HI](../Page/李遐怡.md "wikilink")                                                                                                                                                         | RAP                                                                                                                                                                                            |
 
 ## 作品
@@ -320,8 +326,8 @@ Nervous》（떨린단
 
 | 年份期號      | 雜誌名稱             | 備註     |
 | --------- | ---------------- | ------ |
-| 2017年10月號 | 《DAZED》韓國版       | \[76\] |
-| 2018年9月號  | 《Arena Homme》韓國版 | \[77\] |
+| 2017年10月號 | 《DAZED》韓國版       | \[77\] |
+| 2018年9月號  | 《Arena Homme》韓國版 | \[78\] |
 
 ## 外部連結
 
@@ -489,3 +495,5 @@ Nervous》（떨린단
 76.
 
 77.
+
+78.

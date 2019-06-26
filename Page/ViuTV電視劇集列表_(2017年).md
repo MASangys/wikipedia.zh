@@ -1430,7 +1430,7 @@ My Life</p></td>
 <td style="text-align: center;"><p><a href="../Page/木村佳乃.md" title="wikilink">木村佳乃</a>、<a href="../Page/北村一輝.md" title="wikilink">北村一輝</a>、</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"><p>主：笑顏（）</p></td>
+<td style="text-align: center;"><p>主：笑顏（<a href="../Page/Anly.md" title="wikilink">Anly</a>）</p></td>
 <td style="text-align: center;"><p>外購劇（<a href="../Page/日本.md" title="wikilink">日本</a><a href="../Page/讀賣電視台.md" title="wikilink">讀賣電視台</a>）</p></td>
 </tr>
 </tbody>
@@ -1616,7 +1616,7 @@ Professor Eco</p></td>
 <td style="text-align: center;"><p><a href="../Page/瑪嘉烈與大衛系列_前度.md" title="wikilink">瑪嘉烈與大衛系列 前度 (特別篇)</a><br />
 Margaret and David - Ex Special</p></td>
 <td style="text-align: center;"><p>2</p></td>
-<td style="text-align: center;"><p>、、<a href="../Page/吳海昕.md" title="wikilink">吳海昕</a>、<br />
+<td style="text-align: center;"><p>、<a href="../Page/黃定謙.md" title="wikilink">黃定謙</a>、<a href="../Page/吳海昕.md" title="wikilink">吳海昕</a>、<br />
 、、<a href="https://zh.wikipedia.org/wiki/:zh-yue:蘇皓兒" title="wikilink">蘇皓兒</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/羅嘉駿" title="wikilink">羅嘉駿</a></p></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/margaret-and-david-ex-special">網頁</a></p></td>
@@ -1644,7 +1644,7 @@ Snow Jack</p></td>
 <td style="text-align: center;"><p><br />
 Tokyo Sentimental SP</p></td>
 <td style="text-align: center;"><p>1</p></td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/吉田鋼太郎" title="wikilink">吉田鋼太郎</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>

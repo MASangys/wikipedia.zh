@@ -1,4 +1,4 @@
-《**anon**》是[日本男](../Page/日本.md "wikilink")[演員](https://zh.wikipedia.org/wiki/演員 "wikilink")、[歌手](../Page/歌手.md "wikilink")[藤木直人的個人總計第](../Page/藤木直人.md "wikilink")6張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2001年8月1日由[Pony
+《**anon**》是[日本男](../Page/日本.md "wikilink")[演員](../Page/演員.md "wikilink")、[歌手](../Page/歌手.md "wikilink")[藤木直人的個人總計第](../Page/藤木直人.md "wikilink")6張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2001年8月1日由[Pony
 Canyon發行](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
 
 ## 概要

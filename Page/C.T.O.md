@@ -87,7 +87,7 @@ Star偶像選拔賽\[4\]，選了一些男孩開始進行培訓，每天都要�
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/薛恩" title="wikilink">薛恩</a></strong></p></td>
 <td><p>Sean</p></td>
 <td></td>
-<td><p><a href="../Page/臺灣.md" title="wikilink">臺灣</a></p></td>
+<td><p><a href="../Page/臺灣.md" title="wikilink">台灣</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/獅子座" title="wikilink">獅子座</a></p></td>
 <td><p>領Rapper、副唱、中低音主唱</p></td>
 <td><p>182CM</p></td>
@@ -177,9 +177,40 @@ IDEA專輯歌曲](https://zh.wikipedia.org/wiki/NO_IDEA "wikilink")：我的世�
 </tbody>
 </table>
 
+### 單曲
+
+<table>
+<thead>
+<tr class="header">
+<th><p>專輯</p></th>
+<th><p>專輯資料</p></th>
+<th><p>曲目</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>2nd</strong></p></td>
+<td><p>《<strong>LOVE YOU</strong>》</p>
+<ul>
+<li>發行日期：2019年6月14日</li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/中文" title="wikilink">中文</a></li>
+<li>唱片公司：<a href="../Page/環球音樂_(台灣).md" title="wikilink">環球唱片</a></li>
+</ul></td>
+<td><ul>
+<li>LOVE YOU</li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+
 ## 演唱會及其他演出
 
-### 簽唱會
+### 見面會
 
 |                                                          |                                                              |
 | -------------------------------------------------------- | ------------------------------------------------------------ |
@@ -198,23 +229,25 @@ IDEA專輯歌曲](https://zh.wikipedia.org/wiki/NO_IDEA "wikilink")：我的世�
 
 ### 舞台演出
 
-|             |                                                               |
-| ----------- | ------------------------------------------------------------- |
-| 日期          | 活動名稱                                                          |
-| 2018年7月10日  | 花蓮[夏戀嘉年華](../Page/夏戀嘉年華.md "wikilink")                        |
-| 2018年8月17日  | [湖南衛視七夕歌會](https://zh.wikipedia.org/wiki/湖南衛視 "wikilink")     |
-| 2018年8月19日  | 粉絲嘉年華                                                         |
-| 2018年9月22日  | MTV最強音演唱會                                                     |
-| 2018年10月2日  | 第15屆釜山[亞洲音樂節](https://zh.wikipedia.org/wiki/亞洲音樂節 "wikilink") |
-| 2018年10月5日  | 西安世園音樂節                                                       |
-| 2018年10月19日 | |[浙江衛視秋季盛典](https://zh.wikipedia.org/wiki/浙江衛視 "wikilink")    |
-| 2018年11月2日  | |ELLE風格人物大賞                                                   |
-| 2018年11月10日 | |天猫雙11狂歡晚會                                                    |
-| 2018年11月23日 | |鬥魚音樂盛典                                                       |
-| 2018年12月16日 | |[新北市歡樂耶誕城巨星演唱會](../Page/新北市歡樂耶誕城.md "wikilink")              |
-| 2018年12月31日 | |[湖南衛視跨年演唱會](https://zh.wikipedia.org/wiki/湖南衛視 "wikilink")   |
-| 2019年2月4日   | |[超級巨星紅白藝能大賞](../Page/超級巨星紅白藝能大賞.md "wikilink")               |
-| 2019年3月2日   | |永利澳門 創造力演唱會                                                  |
+|             |                                                                 |
+| ----------- | --------------------------------------------------------------- |
+| 日期          | 活動名稱                                                            |
+| 2018年7月10日  | 花蓮[夏戀嘉年華](../Page/夏戀嘉年華.md "wikilink")                          |
+| 2018年8月17日  | [湖南衛視七夕歌會](https://zh.wikipedia.org/wiki/湖南衛視 "wikilink")       |
+| 2018年8月19日  | 粉絲嘉年華                                                           |
+| 2018年9月22日  | MTV最強音演唱會                                                       |
+| 2018年10月2日  | 第15屆釜山[亞洲音樂節](https://zh.wikipedia.org/wiki/亞洲音樂節 "wikilink")   |
+| 2018年10月5日  | 西安世園音樂節                                                         |
+| 2018年10月19日 | |[浙江衛視秋季盛典](https://zh.wikipedia.org/wiki/浙江衛視 "wikilink")      |
+| 2018年11月2日  | |ELLE風格人物大賞                                                     |
+| 2018年11月10日 | |天猫雙11狂歡晚會                                                      |
+| 2018年11月23日 | |鬥魚音樂盛典                                                         |
+| 2018年12月16日 | |[新北市歡樂耶誕城巨星演唱會](../Page/新北市歡樂耶誕城.md "wikilink")                |
+| 2018年12月31日 | |[湖南衛視跨年演唱會](https://zh.wikipedia.org/wiki/湖南衛視 "wikilink")     |
+| 2019年2月4日   | |[超級巨星紅白藝能大賞](../Page/超級巨星紅白藝能大賞.md "wikilink")                 |
+| 2019年3月2日   | |永利澳門 創造力演唱會                                                    |
+| 2019年5月5日   | |[QQ音樂](https://zh.wikipedia.org/wiki/QQ音樂 "wikilink") 大音樂+超級現場 |
+| 2019年5月26日  | |冰淇淋音樂節                                                         |
 
 ### 綜藝節目
 

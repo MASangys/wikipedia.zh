@@ -1,8 +1,7 @@
-是由[FrontWing發售的](../Page/FrontWing.md "wikilink")[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[美少女遊戲](../Page/美少女遊戲.md "wikilink")\[1\]\[2\]，第一集《Gift
-From the Galaxy》於2016年7月28日發售，第二集《The Truth From
-Beyond》於2016年10月27日發售，第三集《Journey to the
-Stars》於2017年1月26日發售\[3\]
-。自2019年起本作各集開始陸續添加簡體中文，第一集的簡體中文版於2019年2月22日上線。
+是由[FrontWing發售的](../Page/FrontWing.md "wikilink")[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[美少女遊戲](../Page/美少女遊戲.md "wikilink")\[1\]\[2\]，第一集《來自宇宙的禮物》（Gift
+From the Galaxy）於2016年7月28日發售，第二集《自外而來的真相》（The Truth From
+Beyond）於2016年10月27日發售，第三集《跨越星際的旅行》（Journey to the
+Stars）於2017年1月26日發售\[3\] 。簡體中文版的第一集於2019年2月22日更新，剩下兩集於6月13日更新。
 
 ## 故事
 

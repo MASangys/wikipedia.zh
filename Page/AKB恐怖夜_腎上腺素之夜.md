@@ -692,6 +692,7 @@
 [Category:單元劇](https://zh.wikipedia.org/wiki/Category:單元劇 "wikilink")
 [Category:日本小說改編電視劇](https://zh.wikipedia.org/wiki/Category:日本小說改編電視劇 "wikilink")
 [Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink")
+[Category:鬼題材作品](https://zh.wikipedia.org/wiki/Category:鬼題材作品 "wikilink")
 
 1.
 2.  奇數集在每週[地上波電視台播畢後](https://zh.wikipedia.org/wiki/地上波 "wikilink")，與偶數集於[手機配信平台](https://zh.wikipedia.org/wiki/手機 "wikilink")及[朝日電視台](../Page/朝日電視台.md "wikilink")[網路電視](https://zh.wikipedia.org/wiki/網路 "wikilink")「」播出。

@@ -51,10 +51,12 @@ P的首個开发者预览版本（即测试版）在2018年3月7日發行並提�
   - Sony
       - [Sony Xperia XZ2](../Page/Sony_Xperia_XZ2.md "wikilink")
       - [Sony Xperia XZ3](../Page/Sony_Xperia_XZ3.md "wikilink")
+      - [Sony Xperia 1](../Page/Sony_Xperia_1.md "wikilink")
   - 华为
       - 华为nova 4
       - [华为Mate 20系列](../Page/华为Mate_20系列.md "wikilink")
       - [华为Mate X](https://zh.wikipedia.org/wiki/华为Mate_X "wikilink")
+      - [华为Y9 2019](https://zh.wikipedia.org/wiki/华为Y9_2019 "wikilink")
   - 一加
       - [OnePlus 6](https://zh.wikipedia.org/wiki/OnePlus_6 "wikilink")
       - [OnePlus
@@ -73,12 +75,9 @@ P的首個开发者预览版本（即测试版）在2018年3月7日發行並提�
         A40s](https://zh.wikipedia.org/wiki/三星Galaxy_A40s "wikilink")
       - [三星Galaxy
         A50](https://zh.wikipedia.org/wiki/三星Galaxy_A50 "wikilink")
-      - [三星Galaxy
-        A60](https://zh.wikipedia.org/wiki/三星Galaxy_A60 "wikilink")
-      - [三星Galaxy
-        A70](https://zh.wikipedia.org/wiki/三星Galaxy_A70 "wikilink")
-      - [三星Galaxy
-        A80](https://zh.wikipedia.org/wiki/三星Galaxy_A80 "wikilink")
+      - [三星Galaxy A60](../Page/三星Galaxy_A60.md "wikilink")
+      - [三星Galaxy A70](../Page/三星Galaxy_A70.md "wikilink")
+      - [三星Galaxy A80](../Page/三星Galaxy_A80.md "wikilink")
       - [三星Galaxy S10系列](../Page/三星Galaxy_S10.md "wikilink")
       - [三星Galaxy Fold](../Page/三星Galaxy_Fold.md "wikilink")
       - [三星Galaxy Tab
@@ -87,6 +86,11 @@ P的首個开发者预览版本（即测试版）在2018年3月7日發行並提�
         Pen](https://zh.wikipedia.org/wiki/三星Galaxy_Tab_A_with_S_Pen "wikilink")
       - [三星Galaxy Tab A
         10.1(2019)](https://zh.wikipedia.org/wiki/三星Galaxy_Tab_A_10.1\(2019\) "wikilink")
+      - [三星Galaxy
+        M40](https://zh.wikipedia.org/wiki/三星Galaxy_M40 "wikilink")
+  - 華碩
+      - [ASUS Zenfone
+        6](https://zh.wikipedia.org/wiki/ASUS_Zenfone_6 "wikilink")
   - realme（原OPPO子品牌，后独立）
       - [realme X](https://zh.wikipedia.org/wiki/realme_X "wikilink")
   - vivo
@@ -101,8 +105,7 @@ P的首個开发者预览版本（即测试版）在2018年3月7日發行並提�
       - [Nokia 6.1](../Page/Nokia_6.1.md "wikilink")
       - [Nokia 6.1
         Plus](https://zh.wikipedia.org/wiki/Nokia_6.1_Plus "wikilink")
-      - [Nokia 7
-        Plus](https://zh.wikipedia.org/wiki/Nokia_7_Plus "wikilink")
+      - [Nokia 7 Plus](../Page/Nokia_7_Plus.md "wikilink")
       - [Nokia 8.1](https://zh.wikipedia.org/wiki/Nokia_8.1 "wikilink")
       - [Nokia 9 PureView](../Page/Nokia_9_PureView.md "wikilink")
   - 小米
@@ -115,7 +118,7 @@ P的首個开发者预览版本（即测试版）在2018年3月7日發行並提�
       - [Redmi Note 7
         Pro](https://zh.wikipedia.org/wiki/紅米Note_7_Pro "wikilink")
       - Redmi 7A
-      - [Redmi K20](https://zh.wikipedia.org/wiki/Redmi_K20 "wikilink")
+      - [Redmi K20](../Page/Redmi_K20.md "wikilink")
   - HTC
       - [HTC 5G
         Hub](https://zh.wikipedia.org/wiki/HTC_5G_Hub "wikilink")
@@ -154,6 +157,9 @@ P的首個开发者预览版本（即测试版）在2018年3月7日發行並提�
     Plus](https://zh.wikipedia.org/wiki/Nokia_3.1_Plus "wikilink")（2019年2月26日）
 
   - [HTC U11](../Page/HTC_U11.md "wikilink")（2019年5月27日）
+
+  - [Nokia
+    3](https://zh.wikipedia.org/wiki/Nokia_3 "wikilink")（2019年6月4日）
 
 **第三方已对以下设备放出基于Android 9正式版的公开/不限量公测固件：**
 
@@ -215,7 +221,7 @@ P的首個开发者预览版本（即测试版）在2018年3月7日發行並提�
       - [三星Galaxy A9
         (2018)](../Page/三星Galaxy_A9_\(2018\).md "wikilink")(2019年4月25日)
       - [三星Galaxy
-        A8+(2018)](https://zh.wikipedia.org/wiki/三星Galaxy_A8+\(2018\) "wikilink")(2019年5月2日)
+        A8+(2018)](../Page/三星Galaxy_A8+\(2018\).md "wikilink")(2019年5月2日)
       - [三星Galaxy A7
         (2018)](../Page/三星Galaxy_A7_\(2018\).md "wikilink")(2019年5月3日)
       - [Samsung Galaxy Tab
@@ -229,6 +235,9 @@ P的首個开发者预览版本（即测试版）在2018年3月7日發行並提�
         2018）(2019年5月27日)
       - [三星Galaxy J6
         (2018)](../Page/三星Galaxy_J6_\(2018\).md "wikilink")(2019年5月28日)
+      - [三星Galaxy A8
+        Star](https://zh.wikipedia.org/wiki/三星Galaxy_A8_Star "wikilink")(2019年6月14日)
+      - [三星Galaxy A8s](../Page/三星Galaxy_A8s.md "wikilink")(2019年6月14日)
 
 ## 参见
 

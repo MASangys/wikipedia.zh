@@ -29,11 +29,14 @@ Alliance设计公司设计。车体涂装大致使用白色底色搭配前窗周
 
 值得一提的是，CR400BF前期1列样板车（0503）采用全白色底色，头车处搭配前窗两侧金色色块的设计。后期的2列样板车（0305和0507）则额外在侧窗上方增加金色线条的涂装，在命名为复兴号之前贴有“和谐号”的标识。而从5001起则采用量产车使用的涂装。而在量产车涂装定型以及定名后，2列样板车并未改变成量产车的涂装，而是在原有涂装上在头车正面加上中国铁路路徽以及在头车侧面加上“复兴号”和“CR”标志。直至2019年1月，样板车0305和0507已改为量产车一样的涂装。唯獨CR400BF-0503仍然不知道情況。
 
-另外，CR400BF-C的头型设计采用扁平化造型，採用[京張高鐵智能動車組](../Page/京张城际铁路.md "wikilink")「鷹隼&龍鳳呈祥方案」相同的頭型，但使用金鳳凰塗裝，与其它型号的CR400BF系列不同。
+另外，专为[京張高鐵而设计的CR](../Page/京张城际铁路.md "wikilink")400BF-C，头型采用扁平化造型，与其它型号的CR400BF系列不同。
 
 ### 动力配置
 
-CR400BF系列中，CR400BF、CR400BF-C/G采用8辆编组，4动4拖的统一动力配置形式，由2个基本动力单元组成。CR400BF-A、CR400BF-E则采用16辆编组，8动8拖的统一动力配置形式，由4个基本动力单元组成。另外，CR400BF-B采用17辆编组，8动9拖的统一动力配置形式，由4个基本动力单元组成。
+[CR400BF-A-3033_at_Guangnan_(20190517112507).jpg](https://zh.wikipedia.org/wiki/File:CR400BF-A-3033_at_Guangnan_\(20190517112507\).jpg "fig:CR400BF-A-3033_at_Guangnan_(20190517112507).jpg")
+在CR400BF系列中，BF、BF-C、BF-G采用8辆编组，4动4拖的统一动力配置形式，由2个基本动力单元组成。BF-A、BF-E则采用16辆编组，8动8拖的统一动力配置形式，由4个基本动力单元组成。BF-B采用17辆编组，8动9拖的统一动力配置形式，由4个基本动力单元组成。
+
+另外，BF-G为CR400BF的**高寒型**，主要供[东北地区使用](https://zh.wikipedia.org/wiki/东北地区 "wikilink")。
 
 ### 主要设备
 
@@ -61,9 +64,9 @@ mm的大轮径及磨耗型踏面，改善轮轨匹配关系，优化转向架两
 
 #### 集电装置及供电系统
 
-CR400BF、CR400BF-C/G型在3号和6号车厢设置[受电弓](https://zh.wikipedia.org/wiki/受电弓 "wikilink")，而较长编组的CR400BF-A型、CR400BF-B型、CR400BF-E在3号、6号、11号、14号车厢设置受电弓，在正常运行时，短编组运行时则使用一个受电弓，长编组或短编组重连运行则使用两个受电弓。
+CR400BF系列中，BF、BF-C、BF-G在3号和6号车厢设置[受电弓](https://zh.wikipedia.org/wiki/受电弓 "wikilink")，而较长编组的BF-A、BF-B、BF-E在3号、6号、11号、14号车厢设置受电弓，在正常运行时，短编组运行时则使用一个受电弓，长编组或短编组重连运行则使用两个受电弓。
 
-CR400BF型动车组采用主动控制受电弓，高压设备外绝缘的雷电冲击耐受电压提升至185
+CR400BF系列动车组采用主动控制受电弓，高压设备外绝缘的雷电冲击耐受电压提升至185
 kV，采用整体密闭的高压箱结构，除受电弓外，其余高压部件不暴露于运行环境中，以改善高压系统部件的工作环境，提高系统在不同网高和不同环境下的工作可靠性，实现日常运用的免维护。
 
 辅助供电系统则采用中国标准制式的AC380 V/50
@@ -71,15 +74,15 @@ Hz辅助供电系统，具有自动平衡负载和冗余供电功能，辅助变
 
 ### 内部
 
-CR400BF系列列车均设有商务车，一等座车以及二等座车。其中二等座椅间距为1020mm，座位设于左右3+2排中间为过道。一等座椅间距为1160mm，座位设于左右2+2排中间为过道。商务车在所有系列中均会在头车两端驾驶室后部设有5个座椅，而在长编组系列中则会设有一个全部为商务座席的车厢。另外，CR400BF、CR400BF-C/G型在5号车厢设置[吧台](https://zh.wikipedia.org/wiki/餐车 "wikilink")，CR400BF-A、CR400BF-B型则在9号车厢设置吧台。
+CR400BF系列列车均设有商务车，一等座车以及二等座车。其中二等座椅间距为1020mm，座位设于左右3+2排中间为过道。一等座椅间距为1160mm，座位设于左右2+2排中间为过道。商务车在所有系列中均会在头车两端驾驶室后部设有5个座椅，而在长编组系列中则会设有一个全部为商务座席的车厢。另外，BF、BF-C、BF-G在5号车厢设置[吧台](https://zh.wikipedia.org/wiki/餐车 "wikilink")，BF-A、BF-B型则在9号车厢设置吧台。
 
-另外，CR400BF、CR400BF-C/G型动车组在4号车厢、CR400BF-A、CR400BF-B型动车组在8号车厢设有储物间，以配合承担高铁快运业务；上述车厢均会设有供[轮椅人士使用的無障礙座位](https://zh.wikipedia.org/wiki/轮椅 "wikilink")，以及无障碍洗手间\[11\]。
+另外，BF、BF-C、BF-G动车组在4号车厢、BF-A、BF-B动车组在8号车厢设有储物间，以配合承担高铁快运业务；上述车厢均会设有供[轮椅人士使用的無障礙座位](https://zh.wikipedia.org/wiki/轮椅 "wikilink")，以及无障碍洗手间\[11\]。
 
 本系列在所有座席均设有220V-50Hz的电源插座，其中一等座席和二等座席席位还加设[USB插座](../Page/USB.md "wikilink")。所有车厢均会设置16：9[显示屏提供铁路资讯及旅客信息](https://zh.wikipedia.org/wiki/显示屏 "wikilink")\[12\]。為了能夠提醒旅客到站，在通道門上方設置發光二極體（LED）旅客列車資訊顯示板，可顯示列車沿途停靠站、铁路宣传资讯、列車到站提示、抵站的室外温度以及列車的時速等資訊。另外，所有列车车厢均会设置[监控摄像头以加强保安](../Page/摄像头.md "wikilink")。
 
 另外，样板车0503的的车厢设计与量产车不同。
 
-另外，CR400BF-E採用與CRH2E-2463\~2465相同的縱向臥鋪的布局，頭尾取消座車，除9號車廂為橫向布局之軟臥/餐車合造車，其餘皆為縱向布局。
+另外，BF-E採用與CRH2E-2463\~2465相同的縱向臥鋪的布局，頭尾取消座車，除9號車廂為橫向布局之軟臥/餐車合造車，其餘皆為縱向布局。
 
 <File:Business> class interior of ZES501700
 (20180210133342).jpg|CR400BF的商务座 <File:G99> G100 CR400BF-A-5057 EMU
@@ -125,7 +128,7 @@ Station.jpg|caption4=CR400BF-A-5057担当的[G100次列车于](../Page/沪港高
 
 ### 配属概况
 
-至2019年5月，总共已有163组CR400BF系列动车组出厂。
+至2019年6月，总共已有184组CR400BF系列动车组出厂。
 
   - 车号0XXX，为样版车
   - 车号3XXX，为中车唐山机车车辆生产的列车
@@ -153,14 +156,22 @@ Station.jpg|caption4=CR400BF-A-5057担当的[G100次列车于](../Page/沪港高
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/北京局集团" title="wikilink">北京局集团</a></p></td>
-<td><p>35</p></td>
+<td><p>2</p></td>
+<td><p>3067、3068</p></td>
+<td><p>北京南</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>42</p></td>
 <td><p>0503、0507、<br />
-5006、5022、5025～5042、5047、5068～5079</p></td>
+5006、5022、5025～5042、5047、5068～5079、5106～5112</p></td>
 <td><p>曹庄</p></td>
 <td><p><a href="../Page/京沪高速铁路.md" title="wikilink">京沪高速铁路</a>、<a href="../Page/京津城际铁路.md" title="wikilink">京津城际铁路</a>、<a href="https://zh.wikipedia.org/wiki/津秦客运专线" title="wikilink">津秦客运专线</a>、<a href="../Page/秦沈客运专线.md" title="wikilink">秦沈客运专线</a>、<a href="../Page/哈大客运专线.md" title="wikilink">哈大高速铁路</a>、<a href="../Page/沈丹客运专线.md" title="wikilink">沈丹客运专线</a></p></td>
 <td><p>0503、0507为样板车。</p></td>
+<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/沈阳局集团" title="wikilink">沈阳局集团</a></p></td>
 <td><p>1</p></td>
 <td><p>0305</p></td>
@@ -168,7 +179,7 @@ Station.jpg|caption4=CR400BF-A-5057担当的[G100次列车于](../Page/沪港高
 <td><p><a href="../Page/京沈客运专线.md" title="wikilink">京沈客运专线</a></p></td>
 <td><p>样板车</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/上海局集团" title="wikilink">上海局集团</a></p></td>
 <td><p>28</p></td>
 <td><p>5001～5005、5007～5021、5023、5024、5043～5046、5080、5081</p></td>
@@ -176,15 +187,15 @@ Station.jpg|caption4=CR400BF-A-5057担当的[G100次列车于](../Page/沪港高
 <td><p><a href="../Page/京沪高速铁路.md" title="wikilink">京沪高速铁路</a>、<a href="https://zh.wikipedia.org/wiki/京港客运专线" title="wikilink">京广-广深港高铁</a>、<a href="../Page/沪宁城际铁路.md" title="wikilink">沪宁城际铁路</a>、<a href="../Page/宁安客运专线.md" title="wikilink">宁安客运专线</a>、<a href="../Page/宁杭客运专线.md" title="wikilink">宁杭客运专线</a>、<a href="../Page/杭甬客运专线.md" title="wikilink">杭甬客运专线</a>、<a href="../Page/沪昆客运专线.md" title="wikilink">沪昆客运专线</a>、<a href="https://zh.wikipedia.org/wiki/新金温铁路" title="wikilink">新金温铁路</a>、<a href="../Page/合福客运专线.md" title="wikilink">合福客运专线</a>、<a href="../Page/福厦铁路.md" title="wikilink">福厦铁路</a>、<a href="../Page/衡柳铁路.md" title="wikilink">衡柳铁路</a>、<a href="../Page/柳南城际铁路.md" title="wikilink">柳南城际铁路</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p>39</p></td>
-<td><p>3001～3023、3034～3049</p></td>
+<tr class="even">
+<td><p>43</p></td>
+<td><p>3001～3023、3034～3049、3073～3076</p></td>
 <td><p>南京南</p></td>
 <td><p><a href="../Page/沪昆客运专线.md" title="wikilink">沪昆客运专线</a>、<a href="../Page/京广高速铁路.md" title="wikilink">京广高速铁路</a>、<a href="../Page/衡柳铁路.md" title="wikilink">衡柳铁路</a>、<a href="../Page/柳南城际铁路.md" title="wikilink">柳南城际铁路</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -192,7 +203,7 @@ Station.jpg|caption4=CR400BF-A-5057担当的[G100次列车于](../Page/沪港高
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>colspan = 6 | <font color=white><strong>CR400BF-A</strong></font></p></td>
 <td></td>
 <td></td>
@@ -200,16 +211,16 @@ Station.jpg|caption4=CR400BF-A-5057担当的[G100次列车于](../Page/沪港高
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/北京局集团" title="wikilink">北京局集团</a></p></td>
 <td><p>21</p></td>
 <td><p>3024、3025、3028～3033、3050～3056、<br />
 5082～5087</p></td>
 <td><p>北京南</p></td>
-<td><p><a href="../Page/京广高速铁路.md" title="wikilink">京广高速铁路</a>、<a href="../Page/京沪高速铁路.md" title="wikilink">京沪高速铁路</a></p></td>
+<td><p><a href="../Page/京沪高速铁路.md" title="wikilink">京沪高速铁路</a>、京广-广深港高铁</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/上海局集团" title="wikilink">上海局集团</a></p></td>
 <td><p>28</p></td>
 <td><p>5048～5066、5088～5096</p></td>
@@ -217,7 +228,7 @@ Station.jpg|caption4=CR400BF-A-5057担当的[G100次列车于](../Page/沪港高
 <td><p><a href="../Page/沪宁城际铁路.md" title="wikilink">沪宁城际铁路</a>、<a href="../Page/宁安客运专线.md" title="wikilink">宁安客运专线</a>、<a href="../Page/京沪高速铁路.md" title="wikilink">京沪高速铁路</a>、<a href="../Page/沪昆客运专线.md" title="wikilink">沪昆客运专线</a>、<a href="https://zh.wikipedia.org/wiki/京港客运专线" title="wikilink">京广-广深港高铁</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>5</p></td>
 <td><p>3026、3027、3057、3058、<br />
 5067</p></td>
@@ -226,7 +237,7 @@ Station.jpg|caption4=CR400BF-A-5057担当的[G100次列车于](../Page/沪港高
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -234,7 +245,7 @@ Station.jpg|caption4=CR400BF-A-5057担当的[G100次列车于](../Page/沪港高
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>colspan = 6 | <font color=white><strong>CR400BF-B</strong></font></p></td>
 <td></td>
 <td></td>
@@ -242,7 +253,7 @@ Station.jpg|caption4=CR400BF-A-5057担当的[G100次列车于](../Page/沪港高
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/上海局集团" title="wikilink">上海局集团</a></p></td>
 <td><p>9</p></td>
 <td><p>5097～5105</p></td>
@@ -250,7 +261,7 @@ Station.jpg|caption4=CR400BF-A-5057担当的[G100次列车于](../Page/沪港高
 <td><p>京沪高速铁路</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>colspan = 6 | <font color=white><strong>CR400BF-C</strong></font></p></td>
 <td></td>
 <td></td>
@@ -258,15 +269,15 @@ Station.jpg|caption4=CR400BF-A-5057担当的[G100次列车于](../Page/沪港高
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>1</p></td>
 <td><p>5143</p></td>
 <td></td>
 <td></td>
-<td><p>京张高铁试验车。</p></td>
+<td><p>京张高鐵智能型试验车。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>colspan = 6 | <font color=white><strong>CR400BF-G</strong></font></p></td>
 <td></td>
 <td></td>
@@ -274,15 +285,15 @@ Station.jpg|caption4=CR400BF-A-5057担当的[G100次列车于](../Page/沪港高
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p><a href="../Page/中国铁路沈阳局集团有限公司.md" title="wikilink">沈阳局集团</a></p></td>
-<td><p>3</p></td>
-<td><p>5113-5115</p></td>
-<td><p>瀋陽南</p></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="even">
+<td><p><a href="../Page/中国铁路沈阳局集团有限公司.md" title="wikilink">沈阳局集团</a></p></td>
+<td><p>30</p></td>
+<td><p>5113～5142</p></td>
+<td><p>瀋陽南</p></td>
+<td><p><a href="../Page/京哈客运专线.md" title="wikilink">京哈客运专线</a></p></td>
+<td><p>5116～5142未正式配屬動車所</p></td>
+</tr>
+<tr class="odd">
 <td><p>colspan = 6 | <font color=white><strong>CR400BF-E(型号待确认)</strong></font></p></td>
 <td></td>
 <td></td>
@@ -290,7 +301,7 @@ Station.jpg|caption4=CR400BF-A-5057担当的[G100次列车于](../Page/沪港高
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>1</p></td>
 <td><p>0306</p></td>
@@ -325,7 +336,7 @@ Station.jpg|caption4=CR400BF-A-5057担当的[G100次列车于](../Page/沪港高
   - C／CA：Can（[拼音](../Page/汉语拼音.md "wikilink")），餐，餐车
   - S／SW：Shang（[拼音](../Page/汉语拼音.md "wikilink")），商，商务
 
-### CR400BF、CR400BF-C/G
+### CR400BF、CR400BF-C、CR400BF-G
 
 <table>
 <thead>
@@ -369,12 +380,12 @@ ZES xxxx00</p></td>
 <tr class="odd">
 <td><p>定員</p></td>
 <td><p>5+28</p></td>
-<td><p>85/90</p></td>
-<td><p>85/90</p></td>
+<td><p>90</p></td>
+<td><p>90</p></td>
 <td><p>75</p></td>
 <td><p>63</p></td>
-<td><p>85/90</p></td>
-<td><p>85/90</p></td>
+<td><p>90</p></td>
+<td><p>90</p></td>
 <td><p>5+40</p></td>
 </tr>
 <tr class="even">
@@ -404,7 +415,7 @@ ZES xxxx00</p></td>
 </tbody>
 </table>
 
-  - 列车编号（0305、0503、0507、3001-3023、5001-5047、5048-5081、5113-5115、5143） 。
+  - 列车编号（0305、0503、0507、3001-3023、5001-5047、5048-5081、5113-5142、5143） 。
 
 ### CR400BF-A\[35\]
 
@@ -668,7 +679,7 @@ ZYS xxxx00</p></td>
 </tbody>
 </table>
 
-  - 列车编号（5097）。
+  - 列车编号（5097～5105）。
 
 ## 意外事件
 

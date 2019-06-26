@@ -38,7 +38,7 @@ Spoon](https://zh.wikipedia.org/wiki/銀之匙_Silver_Spoon "wikilink")》選為
 
   - [KAN](https://zh.wikipedia.org/wiki/Kan "wikilink")（[創作歌手](../Page/創作歌手.md "wikilink")）
 
-  - [松隆子](../Page/松隆子.md "wikilink")（[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")、[演員](https://zh.wikipedia.org/wiki/演員 "wikilink")）
+  - [松隆子](../Page/松隆子.md "wikilink")（[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")、[演員](../Page/演員.md "wikilink")）
 
   - [小田和正](../Page/小田和正.md "wikilink")（[歌手](../Page/歌手.md "wikilink")、[作曲家](https://zh.wikipedia.org/wiki/作曲家 "wikilink")）
 

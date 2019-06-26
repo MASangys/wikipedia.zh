@@ -20,8 +20,9 @@
     on the framework properties. Microporous and Mesoporous Materials,
     2007. 103(1-3): 57-71
 
-[Category:铜化合物](https://zh.wikipedia.org/wiki/Category:铜化合物 "wikilink")
 [Category:钴氰酸盐](https://zh.wikipedia.org/wiki/Category:钴氰酸盐 "wikilink")
+
+[Category:二价铜化合物](https://zh.wikipedia.org/wiki/Category:二价铜化合物 "wikilink")
 
 1.  N. Karikalan, *et al*. [A copper hexacyanocobaltate nanocubes based
     dopamine sensor in the presence of ascorbic

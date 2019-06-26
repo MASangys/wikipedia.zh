@@ -1,4 +1,4 @@
-[VS嵐每集遊戲列表](https://zh.wikipedia.org/wiki/VS嵐 "wikilink")（截至2019年5月30日），詳細遊戲解說請參考[VS嵐](https://zh.wikipedia.org/wiki/VS嵐#主要環節 "wikilink")。
+[VS嵐每集遊戲列表](https://zh.wikipedia.org/wiki/VS嵐 "wikilink")（截至2019年6月20日），詳細遊戲解說請參考[VS嵐](https://zh.wikipedia.org/wiki/VS嵐#主要環節 "wikilink")。
 
 ## 2008年
 
@@ -563,6 +563,9 @@
 | 489              |
 | 490              |
 | 491              |
+| 492              |
+| 493              |
+| 494              |
 
 ## 註釋
 

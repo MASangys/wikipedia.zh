@@ -63,7 +63,7 @@ BIII的[Cherprang以](../Page/丘普朗·阿瑞昆.md "wikilink")84,195票获得
 
 6月2日、在[清迈举办的迷你演唱会及击掌会](https://zh.wikipedia.org/wiki/清迈 "wikilink")“BNK48
 Thank You & The
-Beginner”中，公布了将以清迈为据点组建姐妹团体[CGM48的消息](https://zh.wikipedia.org/wiki/CGM48 "wikilink")\[24\]\[25\]\[26\]。
+Beginner”中，公布了将以清迈为据点组建姐妹团体[CGM48的消息](../Page/CGM48.md "wikilink")\[24\]\[25\]\[26\]。
 
 ## 成員
 
@@ -356,7 +356,7 @@ Sachiya Hanami</p></td>
 <td><p>Nawaporn Chansuk</p></td>
 <td></td>
 <td><p>2期</p></td>
-<td></td>
+<td><p>預定於2019年8月11日畢業[33]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -607,7 +607,7 @@ Sachiya Hanami</p></td>
 <td><p>1期</p></td>
 <td><p>-</p></td>
 <td><p>2017年9月23日</p></td>
-<td><p>畢業[33]</p></td>
+<td><p>畢業[34]</p></td>
 </tr>
 <tr class="even">
 <td><p>Cincin</p></td>
@@ -617,7 +617,7 @@ Sachiya Hanami</p></td>
 <td><p>1期</p></td>
 <td><p>-</p></td>
 <td><p>2017年11月18日</p></td>
-<td><p>畢業[34]</p></td>
+<td><p>畢業[35]</p></td>
 </tr>
 <tr class="odd">
 <td><p>Jan</p></td>
@@ -626,9 +626,9 @@ Sachiya Hanami</p></td>
 <td></td>
 <td><p>1期</p></td>
 <td><p>BIII</p></td>
-<td><p>2018年2月28日[35]</p></td>
+<td><p>2018年2月28日[36]</p></td>
 <td><p>畢業<br />
-所屬經紀公司為[36][37]</p></td>
+所屬經紀公司為[37][38]</p></td>
 </tr>
 <tr class="even">
 <td><p>Can</p></td>
@@ -638,7 +638,7 @@ Sachiya Hanami</p></td>
 <td><p>1期</p></td>
 <td><p>BIII</p></td>
 <td><p>2018年8月26日</p></td>
-<td><p>畢業[38]<br />
+<td><p>畢業[39]<br />
 所屬經紀公司為BNK48 Office</p></td>
 </tr>
 <tr class="odd">
@@ -679,7 +679,7 @@ Sachiya Hanami</p></td>
 <td><p>1期</p></td>
 <td><p>2018年2月12日</p></td>
 <td><p>丹麥與泰國混血<br />
-畢業[39]</p></td>
+畢業[40]</p></td>
 </tr>
 <tr class="even">
 <td><p>Maysa</p></td>
@@ -688,7 +688,7 @@ Sachiya Hanami</p></td>
 <td></td>
 <td><p>1期</p></td>
 <td><p>2018年10月31日</p></td>
-<td><p>畢業[40]</p></td>
+<td><p>畢業[41]</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -980,7 +980,7 @@ Type B</p></td>
 
 ### 二期生
 
-  - 應徵總數：10782名\[41\]
+  - 應徵總數：10782名\[42\]
   - 徵選時間：2017年12月25日－2018年2月1日
   - 第一次審査：合格者約300名
   - 第二次審査（2018年2月中旬）：合格者94名
@@ -993,12 +993,12 @@ Type B</p></td>
 
 ## 劇場公演
 
-自2018年5月起、组合与专属剧场“BNK48劇場”进行定期公演\[42\]。
+自2018年5月起、组合与专属剧场“BNK48劇場”进行定期公演\[43\]。
 [BNK48_theater.jpg](https://zh.wikipedia.org/wiki/File:BNK48_theater.jpg "fig:BNK48_theater.jpg")
 
 ### Team BIII
 
-1.  [PARTY開始了](https://zh.wikipedia.org/wiki/Team_A_1st_Stage「PARTY開始了」#BNK48_Team_BIII_1st_Stage「PARTY開始了」公演 "wikilink")：2018年5月12日\[43\]－\[44\]
+1.  [PARTY開始了](https://zh.wikipedia.org/wiki/Team_A_1st_Stage「PARTY開始了」#BNK48_Team_BIII_1st_Stage「PARTY開始了」公演 "wikilink")：2018年5月12日\[44\]－\[45\]
 
 ### 研究生
 
@@ -1180,6 +1180,8 @@ Bluport Huahin</p></td>
 41.
 
 42.
-43. 于同月6 - 7日举行了面向Founder Member，不对外售票的首演
 
-44.
+43.
+44. 于同月6 - 7日举行了面向Founder Member，不对外售票的首演
+
+45.

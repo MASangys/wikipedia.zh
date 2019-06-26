@@ -56,7 +56,7 @@ Japan，簡稱TCJ）\[2\]。只是電視的普及率比預期中還要早，1950
 </tr>
 <tr class="odd">
 <td><p>1964年</p></td>
-<td></td>
+<td><p><a href="../Page/8男.md" title="wikilink">8號超人</a></p></td>
 <td></td>
 <td><p><a href="../Page/TBS電視台.md" title="wikilink">TBS</a></p></td>
 <td></td>

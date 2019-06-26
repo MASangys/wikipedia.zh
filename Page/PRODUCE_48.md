@@ -2626,7 +2626,7 @@ Very Very Raspberry</p></td>
     Nice Fight”（所有于首轮被淘汰的日方成员）演唱的歌曲《堵住耳朵\!》（、中途退赛的成员未参加）\[43\]。
   - [高桥朱里](https://zh.wikipedia.org/wiki/高桥朱里 "wikilink")（最終第16名）于2019年3月4日的生诞祭公演中宣布于2019年5月6日自AKB48毕业，并签约[Woollim娱乐于韩国出道](https://zh.wikipedia.org/wiki/Woollim娱乐 "wikilink")\[44\]。
   - [竹内美宥](https://zh.wikipedia.org/wiki/竹内美宥 "wikilink")（最終第17名）于2019年5月6日自AKB48毕业，并签约[Mystic娱乐于韩国出道](https://zh.wikipedia.org/wiki/Mystic娱乐 "wikilink")\[45\]。
-  - [千叶惠里](https://zh.wikipedia.org/wiki/千叶惠里 "wikilink")（最終第33名）将作为常规班底出演2019年5月首播的[Mnet综艺节目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[留学少女](https://zh.wikipedia.org/wiki/留学少女 "wikilink")》\[46\]。
+  - [千叶惠里](https://zh.wikipedia.org/wiki/千叶惠里 "wikilink")（最終第33名）作为常规班底出演了2019年5月起播出的[Mnet综艺节目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[留学少女](https://zh.wikipedia.org/wiki/留学少女 "wikilink")》\[46\]。
 
 <!-- end list -->
 

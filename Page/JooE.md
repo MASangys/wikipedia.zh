@@ -84,6 +84,7 @@ Star](../Page/黄金渔场_Radio_Star.md "wikilink")》中出色的综艺表现�
 | 8月18日        | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | 《[意外的Q](../Page/意外的Q.md "wikilink")》                                                 |                                                           |         |
 | 9月29日        | [JTBC](../Page/JTBC.md "wikilink")                  | 《[認識的哥哥](../Page/認識的哥哥.md "wikilink")》                                               |                                                           |         |
 | 11月9日－11月23日 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | 《[真正的男人300](../Page/真正的男人300.md "wikilink")》                                         |                                                           |         |
+| 2019         | 6月8日、6月15日                                          | [TvN](../Page/TVN.md "wikilink")                                                     | 《[傻瓜們的監獄生活](../Page/傻瓜們的監獄生活.md "wikilink")》              |         |
 
 ### 節目主持
 

@@ -18,7 +18,7 @@ GB的MicroSD記憶卡，支援雙卡雙待，電池為不可拆卸式3300mAh，�
   - 尺寸：5.5寸
   - 處理器：[三星Exynos](../Page/三星Exynos.md "wikilink") 7580 / 高通
     [驍龍](https://zh.wikipedia.org/wiki/驍龍 "wikilink") 615
-  - 操作系統：Android 5.1 Lollipop（现已更新至Android 6.0.1 Marshmellow）
+  - 操作系統：Android 5.1 Lollipop（现已更新至Android 7.0 Nougat）
   - 重量：172克
   - 螢幕：1080p Full HD[Super
     AMOLED](https://zh.wikipedia.org/wiki/Super_AMOLED "wikilink")

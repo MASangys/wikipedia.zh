@@ -1,4 +1,4 @@
-**湯姆斯·伯爾科夫斯基斯**（，），綽號**Tobu**，[拉脫維亞](../Page/拉脫維亞.md "wikilink")[音樂製作人](../Page/音樂製作人.md "wikilink")。Tobu在YouTube達到98萬訂閱(截於2018年12月7號)
+**湯姆斯·伯爾科夫斯基斯**（，），綽號**Tobu**，[拉脫維亞](../Page/拉脫維亞.md "wikilink")[音樂製作人](../Page/音樂製作人.md "wikilink")。Tobu在YouTube達到100萬訂閱(截於2019年6月7號)
 
 ## 早年
 
@@ -17,6 +17,7 @@ Burkovskis之製作過程，受電子音樂製作人[鼠來寶之歌](../Page/�
 
 | 名称                          | 发布日期        | 观看次数 |
 | --------------------------- | ----------- | ---- |
+| Keep on living              | 2019年5月15日  | 42万  |
 | Turn It Up                  | 2019年3月23日  | 9.6万 |
 | Wait For Love               | 2019年3月1日   | 11万  |
 | Return To The Wild          | 2018年12月1日  | 45万  |
@@ -36,7 +37,7 @@ Burkovskis之製作過程，受電子音樂製作人[鼠來寶之歌](../Page/�
 | Cacao                       | 2016年4月20日  | 93万  |
 | Something Right (ft. Game4) | 2016年3月25日  | 76万  |
 
-截于：24/4/2019 资料来源：https://www.youtube.com/user/tobuofficial/videos
+截于：7/6/2019 资料来源：https://www.youtube.com/user/tobuofficial/videos
 
 ## 參考
 

@@ -1,6 +1,6 @@
 《**油膩的Melo**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS於](../Page/SBS_\(韓國\).md "wikilink")2018年5月7日起播出的[月火連續劇](../Page/SBS月火連續劇.md "wikilink")，由《[奇怪的搭檔](../Page/奇怪的搭檔.md "wikilink")》朴善浩導演執導與《[嫉妒的化身](../Page/嫉妒的化身.md "wikilink")》[徐淑香作家合作打造](https://zh.wikipedia.org/wiki/徐淑香 "wikilink")。此劇講述了3个男女比热炒锅里的油更火热的生存、飲食和愛情的故事\[1\]\[2\]。friDay影音、CHOCO
 TV、LINE
-TV、myVideo、愛奇藝台灣站、KKTV同步跟播。香港地區於[Viu播放](../Page/Viu.md "wikilink")。
+TV、myVideo、愛奇藝台灣站、KKTV、遠傳friDay影音同步跟播。香港地區於[Viu播放](../Page/Viu.md "wikilink")。
 
 ## 剧情
 

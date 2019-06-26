@@ -107,7 +107,7 @@
 
 ## 主要人物
 
-**Ankh（アンク）（台譯：安酷）**（鳥系幹部怪人）（[三浦涼介飾](../Page/三浦涼介.md "wikilink")／香港配音：[關令翹](../Page/關令翹.md "wikilink")、[梁偉德](../Page/梁偉德.md "wikilink")（代配）
+**Ankh（アンク）（台譯：安酷）**（鳥系幹部怪人）（[三浦涼介飾](../Page/三浦涼介.md "wikilink")／香港配音：[關令翹](../Page/關令翹.md "wikilink")、[梁偉德](../Page/梁偉德.md "wikilink")（/代配）
 / 台灣配音：[姜先誠](../Page/姜先誠.md "wikilink")）
 
   -

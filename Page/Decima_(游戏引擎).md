@@ -1,15 +1,15 @@
 **Decima**是一款[专有](../Page/专有软件.md "wikilink")[游戏引擎](../Page/游戏引擎.md "wikilink")，由隶属于[索尼互动娱乐的游戏开发商](https://zh.wikipedia.org/wiki/索尼互动娱乐 "wikilink")[Guerrilla
-Games研发](../Page/Guerrilla_Games.md "wikilink")，于2013年11月15日发行。它包含用于在开发过程中创建[人工智能](../Page/人工智能.md "wikilink")，物理效果，逻辑和整体世界的工具和功能，同时支持[4K与](../Page/4K解析度.md "wikilink")[HDR](../Page/高动态范围成像.md "wikilink")。其因作为《》，《[直到黎明](../Page/直到黎明.md "wikilink")》，《》与《[地平线：零之曙光](../Page/地平線_黎明時分.md "wikilink")》等游戏的引擎而知名，同时也是制作人[小岛秀夫尚未发售的新作](../Page/小岛秀夫.md "wikilink")《[死亡搁浅](../Page/死亡之絆.md "wikilink")》的开发引擎。
+Games研发](../Page/Guerrilla_Games.md "wikilink")，于2013年11月15日发行。它包含用于在开发过程中创建[人工智能](../Page/人工智能.md "wikilink")，物理效果，逻辑和整体世界的工具和功能，同时支持[4K与](../Page/4K解析度.md "wikilink")[HDR](../Page/高动态范围成像.md "wikilink")。其因作为《》，《[直到黎明](../Page/直到黎明.md "wikilink")》，《》与《[地平线：零之曙光](../Page/地平線_黎明時分.md "wikilink")》等游戏的引擎而知名，同时也是制作人[小岛秀夫即将在](../Page/小岛秀夫.md "wikilink")2019年发售的新作《[死亡擱淺](../Page/死亡擱淺.md "wikilink")》的开发引擎。
 
 ## 历史
 
 2013年11月，伴随着《》的发售，游戏信息显示其使用了一款由Guerrilla开发的未命名引擎\[1\]。2015年6月，Guerrilla宣布其正在开发的《地平线：零之曙光》使用与《杀戮地带：暗影坠落》相同的游戏引擎\[2\]。2015年8月，游戏《[直到黎明](../Page/直到黎明.md "wikilink")》宣称，使用根据[Havok物理引擎匹配而修改的相同引擎制作](../Page/Havok引擎.md "wikilink")\[3\]\[4\]。同年12月，《直到黎明》相关的[PlayStation
 VR作品](../Page/PlayStation_VR.md "wikilink")，《》，宣布同样使用Decima与Havok引擎开发\[5\]。
 
-2016年6月，游戏制作人[小岛秀夫宣布](../Page/小岛秀夫.md "wikilink")，[小岛制作的新作](../Page/小岛制作.md "wikilink")《[死亡之絆](../Page/死亡之絆.md "wikilink")》在两个[游戏引擎中间进行选取](../Page/游戏引擎.md "wikilink")，最后以Decima制作了第一部宣传片，并在稍后的[E3
+2016年6月，游戏制作人[小岛秀夫宣布](../Page/小岛秀夫.md "wikilink")，[小岛制作的新作](../Page/小岛制作.md "wikilink")《[死亡擱淺](../Page/死亡擱淺.md "wikilink")》在两个[游戏引擎中间进行选取](../Page/游戏引擎.md "wikilink")，最后以Decima制作了第一部宣传片，并在稍后的[E3
 2016的](https://zh.wikipedia.org/wiki/E3 "wikilink")[索尼发布会上展示](../Page/索尼.md "wikilink")\[6\]\[7\]。
 
-在获得了行业标志性奖项后，小岛秀夫推出了《死亡之絆》
+在获得了行业标志性奖项后，小岛秀夫推出了《死亡擱淺》
 预告片，由[诺曼·李杜斯](https://zh.wikipedia.org/wiki/诺曼·李杜斯 "wikilink")（Norman
 Reedus，因在[The Walking
 Dead的出演](https://zh.wikipedia.org/wiki/The_Walking_Dead "wikilink")，也被称作**弩哥**）与[麦斯·米科尔森](../Page/麦斯·米科尔森.md "wikilink")（Mads
@@ -64,8 +64,8 @@ Games的合作关系，使用其Decima引擎进行开发；并透露了在未有
 <td></td>
 </tr>
 <tr class="even">
-<td><p><em><a href="../Page/死亡之絆.md" title="wikilink">死亡之絆</a></em></p></td>
-<td><p>未发售</p></td>
+<td><p><em><a href="../Page/死亡擱淺.md" title="wikilink">死亡擱淺</a></em></p></td>
+<td><p>2019</p></td>
 <td><p><a href="../Page/小島製作_(2015年).md" title="wikilink">Kojima Productions</a></p></td>
 <td></td>
 </tr>

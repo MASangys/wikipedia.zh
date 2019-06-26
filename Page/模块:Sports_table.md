@@ -66,6 +66,7 @@ end
 `       blue1='#BBF3FF', blue2='#CCF9FF', blue3='#DDFCFF', blue4='#EEFFFF',`
 `       yellow1='#FFFFBB', yellow2='#FFFFCC', yellow3='#FFFFDD', yellow4='#FFFFEE',`
 `       red1='#FFBBBB', red2='#FFCCCC', red3='#FFDDDD', red4='#FFEEEE',`
+`       gold1='#FFD700', silver1='#C0C0C0', copper1='#CD7F32', azure1='#9ACDFF',`
 `       black1='#BBBBBB', black2='#CCCCCC', black3='#DDDDDD', black4='#EEEEEE'}`
 `   `
 `   -- Declare results column header`

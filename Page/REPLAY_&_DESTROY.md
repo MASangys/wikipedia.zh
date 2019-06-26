@@ -81,8 +81,7 @@ Channel于2011年製作配信的手機劇，共4集，每集5分鐘。之後于2
     石原専務 - [大和田伸也](../Page/大和田伸也.md "wikilink")（第1集）
     湯島圭 - [増田朋弥](https://zh.wikipedia.org/wiki/増田朋弥 "wikilink")（第2、8集）
     澤木真希 - [石橋桂](https://zh.wikipedia.org/wiki/石橋桂 "wikilink")（第3、6、8集）
-    中島葉月 -
-    [井上和香](https://zh.wikipedia.org/wiki/井上和香 "wikilink")（第4、6、8集）
+    中島葉月 - [井上和香](../Page/井上和香.md "wikilink")（第4、6、8集）
     竹中重則 - [手塚通](https://zh.wikipedia.org/wiki/手塚通 "wikilink")（第4、6、8集）
     竹中純 - [中川大志](../Page/中川大志.md "wikilink")（第4、8集）
     音楽节目主持人 -

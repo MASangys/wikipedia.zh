@@ -73,7 +73,7 @@ If It's Your
 Last》已成功登頂六大音源網站實時排行榜一位\[54\]\[55\]，其中，在韓國最大的音源網站與Genie實現破表\[56\]，首日收聽人數達到791,713人次\[57\]。一週後以賣出181,883份的銷量登上[加翁數位下載榜第二位](../Page/2017年Gaon數位下載冠軍作品列表.md "wikilink")\[58\]，綜合當週在韓國的整體成績，登上[加翁數位單曲榜第四位](../Page/2017年Gaon單曲冠軍作品列表.md "wikilink")\[59\]，而在第二週單曲達到了高峰，在加翁數位單曲榜上升至第三位，並在[該榜流媒體以](../Page/2017年Gaon流媒體冠軍作品列表.md "wikilink")6,632,012次的傳輸次數取得第三名，成為發行後的最佳成績。\[60\]
 
 BLACKPINK也憑藉此張單曲在國際上取得了商業性的成功，陸續登上多個國家著名排行榜，包括首次進入[澳大利亞唱片業協會榜](https://zh.wikipedia.org/wiki/澳大利亚唱片业协会榜 "wikilink")、[紐西蘭唱片音樂協會榜單](../Page/新西兰唱片音乐协会.md "wikilink")，並在[阿根廷](../Page/阿根廷.md "wikilink")、[芬蘭](../Page/芬兰.md "wikilink")、[哥斯大黎加](../Page/哥斯达黎加.md "wikilink")、[宏都拉斯](../Page/洪都拉斯.md "wikilink")、[馬來西亞等共](../Page/马来西亚.md "wikilink")18個國家及地區同一時間在[iTunes專輯榜取得一位](https://zh.wikipedia.org/wiki/iTunes "wikilink")\[61\]，不僅刷新出道單曲《[Square
-One](../Page/Square_One_\(Black_Pink單曲\).md "wikilink")》主打歌之一〈[口哨](https://zh.wikipedia.org/wiki/口哨_\(BLACKPINK歌曲\) "wikilink")〉佔據14國一位紀錄的成績\[62\]，也讓BLACKPINK成為有史以來拿到最多國家榜單一位的K-Pop女子組合\[63\]，發行當日同時登上了iTunes全球歌曲榜第6位，值得一提的是，她們以28名的成績創下韓國女團在美國熱門歌曲榜（Top
+One](../Page/Square_One_\(BLACKPINK單曲\).md "wikilink")》主打歌之一〈[口哨](https://zh.wikipedia.org/wiki/口哨_\(BLACKPINK歌曲\) "wikilink")〉佔據14國一位紀錄的成績\[62\]，也讓BLACKPINK成為有史以來拿到最多國家榜單一位的K-Pop女子組合\[63\]，發行當日同時登上了iTunes全球歌曲榜第6位，值得一提的是，她們以28名的成績創下韓國女團在美國熱門歌曲榜（Top
 Songs）最高的名次紀錄\[64\]\[65\]，次日繼續上升至第12位，刷新了不久前才剛創下的紀錄\[66\]，也在6月25日當地時間上午9時，入選[Apple
 Music每週以全球音樂為對象介紹新人氣歌曲的](../Page/Apple_Music.md "wikilink")「本週最佳（Best of
 the

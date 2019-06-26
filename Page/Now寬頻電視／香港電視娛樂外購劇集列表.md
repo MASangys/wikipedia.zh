@@ -342,7 +342,7 @@ Joël Lefrançois</p></td>
 <tr class="header">
 <th><p>首播日期</p></th>
 <th><p>頻道</p></th>
-<th><p><strong>節目名稱</strong></p></th>
+<th><p>節目名稱</p></th>
 <th><p>集數</p></th>
 <th><p>主演</p></th>
 <th><p>合演</p></th>
@@ -417,6 +417,20 @@ Joël Lefrançois</p></td>
 <td><p><small><a href="../Page/假面騎士系列.md" title="wikilink">-{zh-hans:假面骑士系列;zh-hk:幪面超人系列;zh-tw:假面騎士系列;}-</a></small></p></td>
 </tr>
 <tr class="odd">
+<td><p>2019年7月13日</p></td>
+<td><p><a href="../Page/ViuTV.md" title="wikilink">ViuTV</a></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/超人力霸王R_/_B" title="wikilink">超人R/B</a></strong> (2018年)</p></td>
+<td><p>25</p></td>
+<td><p><br />
+<br />
+<br />
+<br />
+</p></td>
+<td></td>
+<td></td>
+<td><p><small><a href="../Page/超人力霸王系列.md" title="wikilink">-{zh-tw:超人力霸王; zh-hk:超人; zh-cn:奥特曼;}-系列</a></small></p></td>
+</tr>
+<tr class="even">
 <td><p><strong>註釋:</strong></p>
 <references group="註" /></td>
 <td></td>

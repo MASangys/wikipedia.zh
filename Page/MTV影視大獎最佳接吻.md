@@ -748,7 +748,7 @@ Kiss）是[MTV影視大獎重要的獎項之一](../Page/MTV影視大獎.md "wik
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/K·J·阿帕.md" title="wikilink">K·J·阿帕</a> &amp; </p></td>
+<td><p><a href="../Page/K·J·阿帕.md" title="wikilink">K·J·阿帕</a> &amp; <a href="../Page/卡蜜拉·曼德斯.md" title="wikilink">卡蜜拉·曼德斯</a></p></td>
 <td><p><a href="../Page/河谷鎮_(電視劇).md" title="wikilink">河谷鎮</a></p></td>
 <td></td>
 </tr>

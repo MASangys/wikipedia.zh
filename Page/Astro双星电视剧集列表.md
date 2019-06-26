@@ -107,7 +107,7 @@
 <td><p>4月1日</p></td>
 <td><p>38</p></td>
 <td><p><a href="../Page/青春斗_(2019年电视剧).md" title="wikilink">青春斗</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鄭爽" title="wikilink">鄭爽</a>、<a href="https://zh.wikipedia.org/wiki/盖玥希" title="wikilink">盖玥希</a>、<a href="../Page/徐悦.md" title="wikilink">徐悦</a>、<a href="https://zh.wikipedia.org/wiki/陈小纭" title="wikilink">陈小纭</a>、<a href="../Page/王秀竹.md" title="wikilink">王秀竹</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鄭爽" title="wikilink">鄭爽</a>、<a href="https://zh.wikipedia.org/wiki/盖玥希" title="wikilink">盖玥希</a>、<a href="../Page/徐悦.md" title="wikilink">徐悦</a>、<a href="../Page/陈小纭.md" title="wikilink">陈小纭</a>、<a href="../Page/王秀竹.md" title="wikilink">王秀竹</a></p></td>
 <td><p><a href="https://www.weibo.com/dianshijuqingchundou">网站</a></p></td>
 <td><p>每晚 20:00 - 21:00</p></td>
 </tr>
@@ -148,7 +148,7 @@
 <tr class="even">
 <td><p>5月10日</p></td>
 <td><p>56</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/听雪楼" title="wikilink">听雪楼</a></p></td>
+<td><p><a href="../Page/听雪楼.md" title="wikilink">听雪楼</a></p></td>
 <td><p><a href="../Page/秦俊杰.md" title="wikilink">秦俊杰</a>、<a href="../Page/袁冰妍.md" title="wikilink">袁冰妍</a></p></td>
 <td><p><a href="https://www.weibo.com/u/6091343896">网站</a></p></td>
 <td><p>星期一至五 18:00 - 19:00</p></td>

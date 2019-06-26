@@ -105,7 +105,7 @@
 <td><p>金東裴的母親。</p></td>
 </tr>
 <tr class="even">
-<td></td>
+<td><p><a href="../Page/申隣雅.md" title="wikilink">申隣雅</a></p></td>
 <td><p>姜達萊</p></td>
 <td><p>姜仁浩和琴娜拉的女兒。</p></td>
 </tr>

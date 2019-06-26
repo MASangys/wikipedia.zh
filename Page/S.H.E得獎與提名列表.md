@@ -2508,7 +2508,7 @@ FM電台與[Astro電視台於](https://zh.wikipedia.org/wiki/Astro "wikilink")20
 <td><p>HITO百大单曲</p></td>
 <td><p>〈戀人未滿〉</p></td>
 <td></td>
-<td><p>第三位</p></td>
+<td><p>第三位[135]</p></td>
 </tr>
 <tr class="even">
 <td><p>大學生心目中年度風雲人物</p></td>
@@ -2587,14 +2587,14 @@ FM電台與[Astro電視台於](https://zh.wikipedia.org/wiki/Astro "wikilink")20
 <td><p>封神榜TOP20人氣歌手獎</p></td>
 <td></td>
 <td></td>
-<td><p>[135]</p></td>
+<td><p>[136]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>最愛台北精神獎</p></td>
 <td></td>
 <td></td>
-<td><p>特別獎[136]</p></td>
+<td><p>特別獎[137]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -2628,21 +2628,21 @@ FM電台與[Astro電視台於](https://zh.wikipedia.org/wiki/Astro "wikilink")20
 <td><p>我最喜愛樂壇組合</p></td>
 <td></td>
 <td></td>
-<td><p>銅獎[137]</p></td>
+<td><p>銅獎[138]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/MTV" title="wikilink">MTV封神榜音樂獎</a></p></td>
 <td><p>最受歡迎團體獎</p></td>
 <td></td>
 <td></td>
-<td><p>特別獎[138][139]</p></td>
+<td><p>特別獎[139][140]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>人氣歌手獎</p></td>
 <td></td>
 <td></td>
-<td><p>[140][141]</p></td>
+<td><p>[141][142]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -2660,7 +2660,7 @@ FM電台與[Astro電視台於](https://zh.wikipedia.org/wiki/Astro "wikilink")20
 <td><p>引進版類最佳組合獎</p></td>
 <td></td>
 <td></td>
-<td><p>[142]</p></td>
+<td><p>[143]</p></td>
 </tr>
 <tr class="odd">
 <td><p>百度娛樂沸點</p></td>
@@ -2891,7 +2891,7 @@ FM電台與[Astro電視台於](https://zh.wikipedia.org/wiki/Astro "wikilink")20
 <td><p>歌手類</p></td>
 <td></td>
 <td><p>第一名</p></td>
-<td><p>[143]</p></td>
+<td><p>[144]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2915,7 +2915,7 @@ FM電台與[Astro電視台於](https://zh.wikipedia.org/wiki/Astro "wikilink")20
 <td><p>上半年榜單冠軍金曲</p></td>
 <td><p>〈SHERO〉</p></td>
 <td></td>
-<td><p>[144]</p></td>
+<td><p>[145]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2939,7 +2939,7 @@ FM電台與[Astro電視台於](https://zh.wikipedia.org/wiki/Astro "wikilink")20
 <td><p>最受歡迎團體獎</p></td>
 <td></td>
 <td></td>
-<td><p>[145]</p></td>
+<td><p>[146]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2947,7 +2947,7 @@ FM電台與[Astro電視台於](https://zh.wikipedia.org/wiki/Astro "wikilink")20
 <td><p><a href="../Page/金鐘獎電臺臺呼獎.md" title="wikilink">電臺臺呼獎</a></p></td>
 <td><p>〈917在一起〉</p></td>
 <td></td>
-<td><p>詞：<a href="../Page/田馥甄.md" title="wikilink">Hebe</a>、曲：<a href="../Page/陳嘉樺.md" title="wikilink">Ella</a>[146]</p></td>
+<td><p>詞：<a href="../Page/田馥甄.md" title="wikilink">Hebe</a>、曲：<a href="../Page/陳嘉樺.md" title="wikilink">Ella</a>[147]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2972,7 +2972,7 @@ FM電台與[Astro電視台於](https://zh.wikipedia.org/wiki/Astro "wikilink")20
 <td><p>華語十大女歌手</p></td>
 <td></td>
 <td></td>
-<td><p>[147]</p></td>
+<td><p>[148]</p></td>
 </tr>
 <tr class="even">
 <td><p>Channel [V] 音樂飆榜 年度頒獎典禮</p></td>
@@ -2987,7 +2987,7 @@ FM電台與[Astro電視台於](https://zh.wikipedia.org/wiki/Astro "wikilink")20
 <td><p>e樂人氣組合</p></td>
 <td></td>
 <td></td>
-<td><p>[148]</p></td>
+<td><p>[149]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -3019,7 +3019,7 @@ FM電台與[Astro電視台於](https://zh.wikipedia.org/wiki/Astro "wikilink")20
 <td><p>最受歡迎十大明星</p></td>
 <td></td>
 <td></td>
-<td><p>[149]</p></td>
+<td><p>[150]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -3028,7 +3028,7 @@ FM電台與[Astro電視台於](https://zh.wikipedia.org/wiki/Astro "wikilink")20
 <td><p>年度華語暢銷歌手</p></td>
 <td><p>《<a href="../Page/花又開好了.md" title="wikilink">花又開好了</a>》</p></td>
 <td><p>第4名</p></td>
-<td><p>[150]</p></td>
+<td><p>[151]</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>2013年</strong></p></td>
@@ -3036,7 +3036,7 @@ FM電台與[Astro電視台於](https://zh.wikipedia.org/wiki/Astro "wikilink")20
 <td><p>華流霸主</p></td>
 <td></td>
 <td><p>冠軍</p></td>
-<td><p>[151]</p></td>
+<td><p>[152]</p></td>
 </tr>
 <tr class="even">
 <td><p>音悅V榜年度盛典</p></td>
@@ -3092,7 +3092,7 @@ FM電台與[Astro電視台於](https://zh.wikipedia.org/wiki/Astro "wikilink")20
 <td><p>華流霸主</p></td>
 <td></td>
 <td><p>冠軍</p></td>
-<td><p>[152]</p></td>
+<td><p>[153]</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>2015年</strong></p></td>
@@ -3100,14 +3100,14 @@ FM電台與[Astro電視台於](https://zh.wikipedia.org/wiki/Astro "wikilink")20
 <td><p>上半年20大金曲</p></td>
 <td><p>〈<a href="../Page/你曾是少年.md" title="wikilink">你曾是少年</a>〉</p></td>
 <td></td>
-<td><p>[153][154]</p></td>
+<td><p>[154][155]</p></td>
 </tr>
 <tr class="even">
 <td><p>-{風}--{從}--{東}-方-{來}--{娛}--{樂}-影-{響}-力盛典</p></td>
 <td><p>華-{語}-音-{樂}-天-{團}-</p></td>
 <td></td>
 <td></td>
-<td><p>[155][156]</p></td>
+<td><p>[156][157]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -3116,13 +3116,13 @@ FM電台與[Astro電視台於](https://zh.wikipedia.org/wiki/Astro "wikilink")20
 <td><p>年度十大華語歌曲</p></td>
 <td><p>〈<a href="../Page/十七_(S.H.E歌曲).md" title="wikilink">十七</a>〉</p></td>
 <td><p>第4名</p></td>
-<td><p>[157]</p></td>
+<td><p>[158]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/YES_933.md" title="wikilink">YES 933</a><a href="../Page/醉心龍虎榜.md" title="wikilink">醉心龍虎榜</a></p></td>
 <td><p>2018年最喜愛20大歌曲</p></td>
 <td><p>第19名</p></td>
-<td><p>[158]</p></td>
+<td><p>[159]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -3412,8 +3412,8 @@ FM電台與[Astro電視台於](https://zh.wikipedia.org/wiki/Astro "wikilink")20
 135.
 
 136.
-137.
 
+137.
 138.
 
 139.
@@ -3421,8 +3421,8 @@ FM電台與[Astro電視台於](https://zh.wikipedia.org/wiki/Astro "wikilink")20
 140.
 
 141.
-142.
 
+142.
 143.
 
 144.
@@ -3454,3 +3454,5 @@ FM電台與[Astro電視台於](https://zh.wikipedia.org/wiki/Astro "wikilink")20
 157.
 
 158.
+
+159.

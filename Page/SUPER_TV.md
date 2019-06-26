@@ -499,6 +499,7 @@ Junior，將面對各組來賓挑戰「綜藝王」的寶座，若能五連勝�
 [Category:XtvN](https://zh.wikipedia.org/wiki/Category:XtvN "wikilink")
 [Category:FOX台灣外購節目](https://zh.wikipedia.org/wiki/Category:FOX台灣外購節目 "wikilink")
 [Category:真人秀節目](https://zh.wikipedia.org/wiki/Category:真人秀節目 "wikilink")
+[Category:香港電視娛樂外購節目](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購節目 "wikilink")
 
 1.
 2.

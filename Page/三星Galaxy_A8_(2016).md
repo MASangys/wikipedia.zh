@@ -14,7 +14,7 @@ Edge和三星Galaxy Note 5一樣使用的是[三星Exynos](../Page/三星Exynos.
   - 電池：3300 mAh
   - 尺寸：5.7寸
   - 處理器：[三星Exynos](../Page/三星Exynos.md "wikilink") 7420
-  - 操作系統：Android 6.0.1 Marshmallow
+  - 操作系統：Android 7.0 Nougat
   - 重量：182克
   - 螢幕技術：1080p Full HD [Super
     AMOLED](https://zh.wikipedia.org/wiki/Super_AMOLED "wikilink")

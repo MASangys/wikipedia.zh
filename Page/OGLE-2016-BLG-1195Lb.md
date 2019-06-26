@@ -1,6 +1,6 @@
 **OGLE-2016-BLG-1195Lb**是一顆距離地球約1.3萬光年的[太陽系外行星](../Page/太陽系外行星.md "wikilink")，母恆星為[OGLE-2016-BLG-1195L](https://zh.wikipedia.org/wiki/OGLE-2016-BLG-1195L "wikilink")\[1\]\[2\]。該行星於2017年由所屬（Korean
 Microlensing Telescope
-Network，KMTNet）與[史匹哲太空望遠鏡以](../Page/史匹哲太空望遠鏡.md "wikilink")[微引力透镜方式發現](../Page/微引力透镜.md "wikilink")\[3\]。OGLE-2016-BLG-1195Lb的質量與地球近似，並且與母恆星的距離與[日地距離相當](../Page/天文單位.md "wikilink")。然而，它的母恆星的質量可能極低\[4\]，甚至可能其實是[棕矮星或](../Page/棕矮星.md "wikilink")等[亞恆星](https://zh.wikipedia.org/wiki/亞恆星 "wikilink")\[5\]。基於目前的觀測資料，OGLE-2016-BLG-1195Lb可能是極低溫的[類地行星](https://zh.wikipedia.org/wiki/類地行星 "wikilink")
+Network，KMTNet）與[史匹哲太空望遠鏡以](../Page/史匹哲太空望遠鏡.md "wikilink")[微引力透镜方式發現](../Page/微引力透镜.md "wikilink")\[3\]。OGLE-2016-BLG-1195Lb的質量與地球近似，並且與母恆星的距離與[日地距離相當](../Page/天文單位.md "wikilink")。然而，它的母恆星的質量可能極低\[4\]，甚至可能其實是[棕矮星或](../Page/棕矮星.md "wikilink")[超低溫矮星等](../Page/超低溫矮星.md "wikilink")[亞恆星](https://zh.wikipedia.org/wiki/亞恆星 "wikilink")\[5\]。基於目前的觀測資料，OGLE-2016-BLG-1195Lb可能是極低溫的[類地行星](https://zh.wikipedia.org/wiki/類地行星 "wikilink")
 \[6\]。
 
 ## 相關流行文化

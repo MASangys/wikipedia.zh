@@ -381,7 +381,7 @@ Duo後，便會開始二人組合之間的最終競演。每隊的舞台完結�
 </tr>
 <tr class="even">
 <td><p>特別舞台</p></td>
-<td><p><a href="../Page/李文世.md" title="wikilink">李文世</a> &amp; <a href="https://zh.wikipedia.org/wiki/Highlight_(韓國組合)" title="wikilink">HIGHLIGHT</a></p></td>
+<td><p><a href="../Page/李文世.md" title="wikilink">李文世</a> &amp; <a href="../Page/Highlight_(韓國組合).md" title="wikilink">HIGHLIGHT</a></p></td>
 <td><p>春風（봄바람）</p></td>
 <td></td>
 <td></td>
@@ -1105,7 +1105,7 @@ Rulia<br />
 <small><strong>星際大戰特輯</strong></small></p></td>
 <td><p><a href="../Page/朴玄彬.md" title="wikilink">朴玄彬</a></p></td>
 <td><p><small><a href="../Page/金範洙.md" title="wikilink">金範洙</a>、<a href="../Page/張允瀞.md" title="wikilink">張允瀞</a>、、、、</small></p></td>
-<td><p><a href="../Page/朴廣賢.md" title="wikilink">朴廣賢</a>、<a href="../Page/許卿煥.md" title="wikilink">許卿煥</a>、<a href="https://zh.wikipedia.org/wiki/李沼律" title="wikilink">李沼律</a>、<a href="../Page/李起光.md" title="wikilink">李起光</a>（<a href="https://zh.wikipedia.org/wiki/Highlight_(韓國組合)" title="wikilink">Highlight</a>）、<a href="../Page/Lizzy_(韓國歌手).md" title="wikilink">Lizzy</a>（<a href="../Page/After_School.md" title="wikilink">After School</a>／<a href="../Page/橙子焦糖.md" title="wikilink">橙子焦糖</a>）</p></td>
+<td><p><a href="../Page/朴廣賢.md" title="wikilink">朴廣賢</a>、<a href="../Page/許卿煥.md" title="wikilink">許卿煥</a>、<a href="https://zh.wikipedia.org/wiki/李沼律" title="wikilink">李沼律</a>、<a href="../Page/李起光.md" title="wikilink">李起光</a>（<a href="../Page/Highlight_(韓國組合).md" title="wikilink">Highlight</a>）、<a href="../Page/Lizzy_(韓國歌手).md" title="wikilink">Lizzy</a>（<a href="../Page/After_School.md" title="wikilink">After School</a>／<a href="../Page/橙子焦糖.md" title="wikilink">橙子焦糖</a>）</p></td>
 <td><p>Lizzy<br />
 朴廣賢<br />
 李起光</p></td>

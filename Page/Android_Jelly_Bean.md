@@ -1,7 +1,7 @@
 **Android Jelly
 Bean**是由[Google開發的](../Page/Google.md "wikilink")[Android](../Page/Android.md "wikilink")[作業系統的第](https://zh.wikipedia.org/wiki/作業系統 "wikilink")4個主要版本，繼承[2011年發佈的](../Page/2011年.md "wikilink")[Android
 Ice Cream
-Sandwich](https://zh.wikipedia.org/wiki/Android_Ice_Cream_Sandwich "wikilink")，其版本介於4.1和4.3.1之間。
+Sandwich](../Page/Android_Ice_Cream_Sandwich.md "wikilink")，其版本介於4.1和4.3.1之間。
 
 ## 參見
 

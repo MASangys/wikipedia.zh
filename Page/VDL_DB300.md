@@ -118,7 +118,7 @@ DB300底盤模組安裝的D102RLF-HK車身，這款又名的車身是MCV特別�
 #### 香港版應用
 
 裝配MCV
-DD102車身的DB300於2014年1月運抵香港，隨後在香港進行測試，於2014年9月獲運輸署登記車牌SY4050，九巴車隊編號AMC1。AMC1於2014年10月在[606線投入服務](https://zh.wikipedia.org/wiki/過海隧道巴士606線 "wikilink")，於2016年曾經行駛[690線](https://zh.wikipedia.org/wiki/過海隧道巴士690線 "wikilink")，同年4月調至[103線](https://zh.wikipedia.org/wiki/過海隧道巴士103線 "wikilink")。這輛MCV和VDL特別為九巴打造的DB300經過兩年試用後，已於2016年正式被九巴購入，車尾四盞LED燈亦同年底拆除。
+DD102車身的DB300於2014年1月運抵香港，隨後在香港進行測試，於2014年9月獲運輸署登記車牌SY4050，九巴車隊編號AMC1。AMC1於2014年10月在[606線投入服務](../Page/過海隧道巴士606線.md "wikilink")，於2016年曾經行駛[690線](https://zh.wikipedia.org/wiki/過海隧道巴士690線 "wikilink")，同年4月調至[103線](https://zh.wikipedia.org/wiki/過海隧道巴士103線 "wikilink")。這輛MCV和VDL特別為九巴打造的DB300經過兩年試用後，已於2016年正式被九巴購入，車尾四盞LED燈亦同年底拆除。
 
 ## 參見
 

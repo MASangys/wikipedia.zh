@@ -8,8 +8,7 @@ Angels擔任](../Page/Fubon_Angels.md "wikilink")[啦啦隊](../Page/啦啦隊.m
     [Lamigirls](https://zh.wikipedia.org/wiki/Lamigirls "wikilink")
   - 2014年\~2016年 [神魔之塔女將](../Page/神魔之塔.md "wikilink")
   - 2017年\~2018年 [Fubon Angels](../Page/Fubon_Angels.md "wikilink")
-  - 2018年12月\~至今
-    [Youtuber](https://zh.wikipedia.org/wiki/Youtuber "wikilink")
+  - 2017年\~至今 [17 Media直播主](../Page/17直播.md "wikilink")
 
 ## 個人作品
 

@@ -363,7 +363,7 @@ at Auto ISO</p></td>
 5.  [Sony's RX100 IV and RX10 II Cameras Bring Professional Imaging
     Experience to Acclaimed Cyber-shot RX
     Series](http://www.sony.com/en_us/SCA/company-news/press-releases/sony-electronics/2015/sonys-rx100-iv-and-rx10-ii-cameras-bring-professio.html)
-    - sony.com
+     - sony.com
 6.  [高級コンパクトデジカメ6機種を比較する：機能・操作編](http://dc.watch.impress.co.jp/docs/review/special/20110405_437387.html)
     - DC Watch Impress
 7.  [高級コンパクトデジカメ6機種を比較する：画質編](http://dc.watch.impress.co.jp/docs/review/special/20110408_438081.html)

@@ -11,6 +11,9 @@
 官方粉絲名為「**Neverland**」，在2018年10月29日透過V
 Live直播選出，意思是童話[彼得潘裡的虛構之島](../Page/彼得潘.md "wikilink")，待在島上的小朋友會停止長大。\[5\]
 
+2019年6月10日，官方社群網站公布應援色為NEON RED（Pantone 185C）與CHIC VIOLET（Pantone
+2597C）。\[6\]
+
 ## 成員資料
 
   - 官方並沒有公佈中心、形象的定位。
@@ -30,7 +33,7 @@ Live直播選出，意思是童話[彼得潘裡的虛構之島](../Page/彼得�
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/赵美延.md" title="wikilink">美延</a><br />
-[6][7]</p></td>
+[7][8]</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -54,122 +57,126 @@ Live直播選出，意思是童話[彼得潘裡的虛構之島](../Page/彼得�
 
 ### 出道前
 
-**赵美延**
+**曹薇娟**
 
-2010至2015年，曾在[YG娛樂練習](../Page/YG娛樂.md "wikilink")5年，是女團[BLACKPINK的預備成員](../Page/BLACKPINK.md "wikilink")，離開後於歌唱學院學習音樂。\[8\]2016年，9月曾與[林瑟雍公演](../Page/林瑟雍.md "wikilink")\[9\]，12月曾參與[林瑟雍演唱會](../Page/林瑟雍.md "wikilink")。\[10\]\[11\]
-2017年，7月參與《YOU》Cover。\[12\]參加Cube面試時，表演是結他自彈自唱、舞蹈。 2018年，2月參與《Missing
-You》、《Love Scenario》Cover\[13\]\[14\]， 3月參與《Try》、《First
-Love》Cover。\[15\]\[16\]
+2010至2015年，曾在[YG娛樂練習](../Page/YG娛樂.md "wikilink")5年，是女團[BLACKPINK的預備成員](../Page/BLACKPINK.md "wikilink")，離開後於歌唱學院學習音樂。\[9\]2016年，9月曾與[林瑟雍公演](../Page/林瑟雍.md "wikilink")\[10\]，12月曾參與[林瑟雍演唱會](../Page/林瑟雍.md "wikilink")。\[11\]\[12\]
+2017年，7月參與《YOU》Cover。\[13\]參加Cube面試時，表演是結他自彈自唱、舞蹈。 2018年，2月參與《Missing
+You》、《Love Scenario》Cover\[14\]\[15\]， 3月參與《Try》、《First
+Love》Cover。\[16\]\[17\]
 
 **Minnie**
 
-曾於泰國Grammy Vocal Studio (Gvocal) 學習唱歌\[17\]\[18\] ，也曾於泰國學習四年中文。
-2014年，9月參加Cube Star World Audition 泰國站，表演是鋼琴自彈自唱英文流行曲。\[19\]
-\[20\]
-2016年，11月曾參與[田小娟的公演舞台](https://zh.wikipedia.org/wiki/田小娟 "wikilink")。\[21\]
-\[22\] 2017年，6月參與Rising Star Cosmetics 代言，6月演唱Line Friends的兒歌《Twinkle
-twinkle little star》 。\[23\] 11月參與Line Friends的《Dance Party》英文專輯。
+曾於泰國Grammy Vocal Studio (Gvocal) 學習唱歌\[18\]\[19\] ，也曾於泰國學習四年中文。
+2014年，9月參加Cube Star World Audition 泰國站，表演是鋼琴自彈自唱英文流行曲。\[20\]
+\[21\]
+2016年，11月曾參與[田小娟的公演舞台](https://zh.wikipedia.org/wiki/田小娟 "wikilink")。\[22\]
+\[23\] 2017年，6月參與Rising Star Cosmetics 代言，6月演唱Line Friends的兒歌《Twinkle
+twinkle little star》 。\[24\] 11月參與Line Friends的《Dance Party》英文專輯。
 2018年，2月參與《Missing You》、《Love Scenario》Cover， 3月參與《Try》、《First
 Love》Cover。
 
 **徐穗珍**
 
 曾於[Modern
-K實用音樂學院學習唱歌](https://zh.wikipedia.org/wiki/Modern_K實用音樂學院 "wikilink")\[24\]，於舞蹈學院學習跳舞，並考進韓國藝術高中。2015年，曾是DN娛樂旗下女團VIVIDIVA(비비디바)的預備成員，以藝名N.NA參與出道前活動，但她和成員KANA於出道前離開，該團現已解散。\[25\]\[26\]\[27\]高中三年級時，參加Cube面試，表演是唱[BoA](../Page/寶兒.md "wikilink")《No.1》，跳[Red
+K實用音樂學院學習唱歌](https://zh.wikipedia.org/wiki/Modern_K實用音樂學院 "wikilink")\[25\]，於舞蹈學院學習跳舞，並考進韓國藝術高中。2015年，曾是DN娛樂旗下女團VIVIDIVA(비비디바)的預備成員，以藝名N.NA參與出道前活動，但她和成員KANA於出道前離開，該團現已解散。\[26\]\[27\]\[28\]高中三年級時，參加Cube面試，表演是唱[BoA](../Page/寶兒.md "wikilink")《No.1》，跳[Red
 Velvet](../Page/Red_Velvet.md "wikilink")《Dumb Dumb》舞蹈。2016年進入Cube。
-\[28\]\[29\]
+\[29\]\[30\]
 
 **田小娟**
 
 2014年1月，參加Cube面試時，表演是唱[G-Dragon的](https://zh.wikipedia.org/wiki/權志龍 "wikilink")《This
-Love》、Rap、舞蹈。\[30\]2016年，1月出演《[PRODUCE
+Love》、Rap、舞蹈。\[31\]2016年，1月出演《[PRODUCE
 101](../Page/PRODUCE_101.md "wikilink")》，7月出演《[Unpretty Rapstar
 3](../Page/Unpretty_Rapstar_3.md "wikilink")》，12月簽訂正式藝人合約。2017年11月，以Solo歌手出道。
 
 **宋雨琦**
 
 2015年，參加Cube Star World Audition
-北京站，\[31\]表演是跳[CLC](../Page/CLC.md "wikilink")《變得漂亮》舞蹈、唱[鄧紫棋](https://zh.wikipedia.org/wiki/鄧紫棋 "wikilink")《泡沫》。
-2017年，6月參與Rising Star Cosmetics 代言。2018年，2月參與《世上的溫度》影片。\[32\]
+北京站，\[32\]表演是跳[CLC](../Page/CLC.md "wikilink")《變得漂亮》舞蹈、唱[鄧紫棋](https://zh.wikipedia.org/wiki/鄧紫棋 "wikilink")《泡沫》。
+2017年，6月參與Rising Star Cosmetics 代言。2018年，2月參與《世上的溫度》影片。\[33\]
 
 **葉舒華**
 
-2015年，曾參與AF娛樂的Dance Cover。\[33\]2016年，4月參加Cube Star World
-Audition，表演是Free Style舞蹈、唱歌。\[34\]2017年，6月參與Rising Star
+2015年，曾參與AF娛樂的Dance Cover。\[34\]2016年，4月參加Cube Star World
+Audition，表演是Free Style舞蹈、唱歌。\[35\]2017年，6月參與Rising Star
 Cosmetics 代言。
-9月與[柳善皓共同出演](https://zh.wikipedia.org/wiki/柳善皓 "wikilink")[10cm的](../Page/10cm.md "wikilink")《PET》MV、花絮影音。\[35\]
+9月與[柳善皓共同出演](https://zh.wikipedia.org/wiki/柳善皓 "wikilink")[10cm的](../Page/10cm.md "wikilink")《PET》MV、花絮影音。\[36\]
 
 ### 2018年
 
 **出道計劃**
 
-1月11日，新聞報導小娟將加入新女團。\[36\]\[37\]\[38\]
-同年3月22日，確定小娟加入新女團，已完成專輯封面拍攝。\[39\]\[40\]\[41\]
-首先於4月5日，公開團徽設計，\[42\]\[43\] 再於4月7日，公開社群帳號。\[44\]
-然後4月9日至4月13日，發佈是次專輯中各成員的個人照以及團體照。\[45\]\[46\]\[47\]\[48\]\[49\]\[50\]
-4月15日，首次全體公開活動，於弘大街頭表演。\[51\]
+1月11日，新聞報導小娟將加入新女團。\[37\]\[38\]\[39\]
+同年3月22日，確定小娟加入新女團，已完成專輯封面拍攝。\[40\]\[41\]\[42\]
+首先於4月5日，公開團徽設計，\[43\]\[44\] 再於4月7日，公開社群帳號。\[45\]
+然後4月9日至4月13日，發佈是次專輯中各成員的個人照以及團體照。\[46\]\[47\]\[48\]\[49\]\[50\]\[51\]
+4月15日，首次全體公開活動，於弘大街頭表演。\[52\]
 
 **迷你一輯《I am》、初一位**
 
 5月2日，韓國時間下午6點，公開首張迷你專輯《[I
-am](../Page/I_am.md "wikilink")》全輯音源及主打《LATATA》，並於同日舉行出道Showcase，正式出道。\[52\]
-5月6日，出道曲《LATATA》首度進入音源榜Melon100名之內。\[53\]
+am](../Page/I_am.md "wikilink")》全輯音源及主打《LATATA》，並於同日舉行出道Showcase，正式出道。\[53\]
+5月6日，出道曲《LATATA》首度進入音源榜Melon100名之內。\[54\]
 同日在音樂節目《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》播放出道舞台後，隨即登上Naver
 TV Top100播放量第一名。5月9日，出道曲《LATATA》在美國、英國、法國、澳洲、比利時、加拿大、德國等 11 個國家的 iTunes
-韓國流行音樂榜上都奪下了第一名。\[54\]
+韓國流行音樂榜上都奪下了第一名。\[55\]
 
 5月10日，出道專輯《[I
-am](../Page/I_am.md "wikilink")》取得[美國](../Page/美国.md "wikilink")[Billboard的](../Page/公告牌音乐奖.md "wikilink")「世界專輯榜」第七名。\[55\]
-5月15日，登頂美國iTunes的K-Pop榜第一名。\[56\]5月16日，宣傳期間首度登上《[Show
+am](../Page/I_am.md "wikilink")》取得[美國](../Page/美国.md "wikilink")[Billboard的](../Page/公告牌音乐奖.md "wikilink")「世界專輯榜」第七名。\[56\]
+5月15日，登頂美國iTunes的K-Pop榜第一名。\[57\]5月16日，宣傳期間首度登上《[Show
 Champion](../Page/Show_Champion.md "wikilink")》的一位候補。
-5月17日，主打歌《LATATA》MV點閱數突破1000萬。\[57\]
+5月17日，主打歌《LATATA》MV點閱數突破1000萬。\[58\]
 
 5月18日，《[I
-am](../Page/I_am.md "wikilink")》取得[美國](../Page/美国.md "wikilink")[Billboard的](../Page/公告牌音乐奖.md "wikilink")「世界專輯榜」第五名，並連續兩週停留在[Billboard世界專輯榜前十名](../Page/公告牌音乐奖.md "wikilink")。\[58\]
+am](../Page/I_am.md "wikilink")》取得[美國](../Page/美国.md "wikilink")[Billboard的](../Page/公告牌音乐奖.md "wikilink")「世界專輯榜」第五名，並連續兩週停留在[Billboard世界專輯榜前十名](../Page/公告牌音乐奖.md "wikilink")。\[59\]
 
 5月22日，出道僅20天即在音樂節目《[THE
-SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")》奪下出道後首個一位。\[59\]5月24日、29日接連取得一位，宣傳期間獲得三個一位。\[60\]\[61\]
+SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")》奪下出道後首個一位。\[60\]5月24日、29日接連取得一位，宣傳期間獲得三個一位。\[61\]\[62\]
 
 **首次回歸、首張數位單曲《HANN》**
 
-8月1日，CUBE娛樂相關人士表示，(G)I-DLE正在加緊籌備新曲中，預計於8月中旬回歸。\[62\]8月5日，官方社群帳號發佈Whistle版本預告。\[63\]8月6日，官方社群帳號宣布，確定將於8月14日攜首張數位單曲《HANN》回歸。\[64\]
+8月1日，CUBE娛樂相關人士表示，(G)I-DLE正在加緊籌備新曲中，預計於8月中旬回歸。\[63\]8月5日，官方社群帳號發佈Whistle版本預告。\[64\]8月6日，官方社群帳號宣布，確定將於8月14日攜首張數位單曲《HANN》回歸。\[65\]
 
 8月14日，韓國時間下午6點，公開首張數位單曲《[HANN](https://zh.wikipedia.org/wiki/HANN "wikilink")》。8月16日，主打歌《HANN》僅發表2天，MV點閱數即突破700萬，同日在Bugs、Genie
-和 Olleh Music 三榜都登上了冠軍寶座。\[65\]
+和 Olleh Music 三榜都登上了冠軍寶座。\[66\]
 
 8月29日，在音樂節目《[Show
-Champion](../Page/Show_Champion.md "wikilink")》以主打歌《HANN》取得回歸後首個一位。\[66\]9月4日、6日接連取得一位，宣傳期間獲得三個一位。\[67\]\[68\]
+Champion](../Page/Show_Champion.md "wikilink")》以主打歌《HANN》取得回歸後首個一位。\[67\]9月4日、6日接連取得一位，宣傳期間獲得三個一位。\[68\]\[69\]
 
 **跨界合作、「K/DA」企劃《POP/STARS》**
 
-11月3日，成員小娟、美延與美國歌手[麥迪遜·比爾](../Page/麥迪遜·比爾.md "wikilink")、為線上遊戲《[英雄聯盟](https://zh.wikipedia.org/wiki/英雄聯盟 "wikilink")》獻唱歌曲《[POP/STARS](https://zh.wikipedia.org/wiki/POP/STARS "wikilink")》，並於同日正式於[英雄联盟2018赛季全球总决赛的開幕舞台發表](../Page/英雄联盟2018赛季全球总决赛.md "wikilink")。\[69\]
+11月3日，成員小娟、美延與美國歌手[麥迪遜·比爾](../Page/麥迪遜·比爾.md "wikilink")、為線上遊戲《[英雄聯盟](https://zh.wikipedia.org/wiki/英雄聯盟 "wikilink")》獻唱歌曲《[POP/STARS](https://zh.wikipedia.org/wiki/POP/STARS "wikilink")》，並於同日正式於[英雄联盟2018赛季全球总决赛的開幕舞台發表](../Page/英雄联盟2018赛季全球总决赛.md "wikilink")。\[70\]
 
 ### 2019年
 
 **《LATATA》MV破億**
 
 2月2日，《LATATA》MV雙頻道觀看數，共計超過一億次。
-\[70\]2月26日，《LATATA》歷經9個月又24天，MV單頻道觀看數，突破一億次，為(G)I-DLE第一首破億MV。\[71\]
+\[71\]2月26日，《LATATA》歷經9個月又24天，MV單頻道觀看數，突破一億次，為(G)I-DLE第一首破億MV。\[72\]
 
 **迷你二輯《I made》**
 
-2月6日，根據STARNEWS採訪結果，(G)I-DLE計畫於2月末左右開始回歸活動。目前新專輯製作已接近尾聲，在收尾階段。\[72\]2月10日，官方社群帳號宣布，確定將於2月26日攜迷你二輯《I
-made》回歸，其中成員小娟參與大部份歌曲之作曲填詞，並收錄成員Minnie初次作曲填詞歌曲《Blow Your Mind》。\[73\]
+2月6日，根據STARNEWS採訪結果，(G)I-DLE計畫於2月末左右開始回歸活動。目前新專輯製作已接近尾聲，在收尾階段。\[73\]2月10日，官方社群帳號宣布，確定將於2月26日攜迷你二輯《I
+made》回歸，其中成員小娟參與大部份歌曲之作曲填詞，並收錄成員Minnie初次作曲填詞歌曲《Blow Your Mind》。\[74\]
 
 2月26日，韓國時間下午6時，公開第二張迷你專輯《[I
-made](../Page/I_made.md "wikilink")》全輯音源及主打《Senorita》，並於同日舉行回歸Showcase。\[74\]
+made](../Page/I_made.md "wikilink")》全輯音源及主打《Senorita》，並於同日舉行回歸Showcase。\[75\]
 
 2月28日，迷你二輯《I made》登上美國、加拿大、德國、法國、英國、荷蘭、紐西蘭、澳洲等 22 個國家的iTunes K-pop
 專輯榜冠軍，主打歌《Senorita》 也在美國、英國、澳洲、奧地利等 19 個國家拿下iTunes K-pop
-單曲榜第一。同日，主打歌《Senorita》在Bugs、Naver登上了冠軍寶座、Soribada拿下亞軍，另在其餘榜單上均在上游圈徘徊。\[75\]\[76\]
+單曲榜第一。同日，主打歌《Senorita》在Bugs、Naver登上了冠軍寶座、Soribada拿下亞軍，另在其餘榜單上均在上游圈徘徊。\[76\]\[77\]
 
 3月6日，在音樂節目《[Show
-Champion](../Page/Show_Champion.md "wikilink")》以主打歌《Senorita》取得回歸後首個一位，宣傳期間獲得一個一位。\[77\]3月7日，迷你二輯《[I
-made](../Page/I_made.md "wikilink")》取得[美國](../Page/美国.md "wikilink")[Billboard的](../Page/公告牌音乐奖.md "wikilink")「世界專輯榜」第五名。\[78\]
+Champion](../Page/Show_Champion.md "wikilink")》以主打歌《Senorita》取得回歸後首個一位，宣傳期間獲得一個一位。\[78\]3月7日，迷你二輯《[I
+made](../Page/I_made.md "wikilink")》取得[美國](../Page/美国.md "wikilink")[Billboard的](../Page/公告牌音乐奖.md "wikilink")「世界專輯榜」第五名。\[79\]
 
-**日本出道**
+**第二張數位單曲《Uh-Oh》**
 
-5月20日，日本官方網站宣布7月23日將在東京舉行日本出道Showcase，7月31日正式发行日本出道迷你专辑《LATATA》。\[79\]
+6月13日，CUBE娛樂相關人士表示，(G)I-DLE確定於6月26日以數位單曲《Uh-Oh》回歸，並釋出將進行MV拍攝的消息。\[80\]6月16日，官方社群帳號發佈首波回歸預告照。\[81\]
+
+**日本出道、日語迷你一輯《LATATA》**
+
+5月20日，日本官方網站宣布7月23日將在東京舉行日本出道Showcase，7月31日正式发行日本出道迷你专辑《LATATA》。\[82\]
 
 ## 音乐作品
 
@@ -183,6 +190,7 @@ made](../Page/I_made.md "wikilink")》取得[美國](../Page/美国.md "wikilink
 #### 数位单曲
 
   - 2018年：《[HANN](https://zh.wikipedia.org/wiki/HANN "wikilink")》
+  - 2019年：《[Uh-Oh](../Page/Uh-Oh.md "wikilink")》
 
 #### 个人单曲
 
@@ -201,14 +209,15 @@ made](../Page/I_made.md "wikilink")》取得[美國](../Page/美国.md "wikilink
 
 ## 广告拍摄
 
-| 年份          | 产品名称                 | 参与成员         | 备注  |
-| ----------- | -------------------- | ------------ | --- |
-| 2016年       | GMarket 8秒服装\[80\]   | 小娟           | 出道前 |
-| 2017年       | Rising Star化妆品\[81\] | Minnie、雨琦、舒華 |     |
-| 2019年       | Kaja化妆品\[82\]        | 全体           |     |
-| 安慕希酸奶\[83\] | 雨琦                   | 奔跑吧          |     |
-| 唯兰颂面膜\[84\] | 代言人                  |              |     |
-| 米读小说\[85\]  | 奔跑吧                  |              |     |
+| 年份                                                         | 产品名称                 | 参与成员         | 备注  |
+| ---------------------------------------------------------- | -------------------- | ------------ | --- |
+| 2016年                                                      | GMarket 8秒服装\[83\]   | 小娟           | 出道前 |
+| 2017年                                                      | Rising Star化妆品\[84\] | Minnie、雨琦、舒華 |     |
+| 2019年                                                      | Kaja化妆品\[85\]        | 全体           |     |
+| 安慕希酸奶\[86\]                                                | 雨琦                   | 奔跑吧          |     |
+| 唯兰颂面膜\[87\]                                                | 代言人                  |              |     |
+| 米读小说\[88\]                                                 | 奔跑吧                  |              |     |
+| [LG U+ 5G](https://zh.wikipedia.org/wiki/LG_U+ "wikilink") | 全体                   |              |     |
 
 ## 演唱會及大型公演
 
@@ -239,7 +248,7 @@ made](../Page/I_made.md "wikilink")》取得[美國](../Page/美国.md "wikilink
 <tr class="even">
 <td><p>5月24日</p></td>
 <td><p><a href="../Page/Mnet媒體.md" title="wikilink">Mnet</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/M_Countdown" title="wikilink">M Countdown</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -271,7 +280,7 @@ made](../Page/I_made.md "wikilink")》取得[美國](../Page/美国.md "wikilink
 <tr class="even">
 <td><p>9月6日</p></td>
 <td><p><a href="../Page/Mnet媒體.md" title="wikilink">Mnet</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/M_Countdown" title="wikilink">M Countdown</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -315,6 +324,9 @@ made](../Page/I_made.md "wikilink")》取得[美國](../Page/美国.md "wikilink
 <td><p><a href="../Page/I_made.md" title="wikilink">I made</a></p></td>
 </tr>
 <tr class="odd">
+<td></td>
+</tr>
+<tr class="even">
 <td><ul>
 <li>「/」表示未有相關資料</li>
 </ul>
@@ -328,7 +340,7 @@ made](../Page/I_made.md "wikilink")》取得[美國](../Page/美国.md "wikilink
 <li>「[1]」：三星期冠軍</li>
 </ul>
 <ul>
-<li>取得《M! Countdown》、《人氣歌謠》、《Show Champion》及《THE SHOW》三週一位後，排名自動除外</li>
+<li>取得《THE SHOW》、《Show Champion》、《M Countdown》、及《人氣歌謠》三週一位後，排名自動除外</li>
 </ul></td>
 </tr>
 </tbody>
@@ -503,3 +515,6 @@ made](../Page/I_made.md "wikilink")》取得[美國](../Page/美国.md "wikilink
 83.
 84.
 85.
+86.
+87.
+88.

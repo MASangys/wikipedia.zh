@@ -1,5 +1,5 @@
-**OLM**，全稱**Oriental Light Magic**(日語：**オー・エル・エム**英文：**OLM
-Incorporated**)是壹家日本動畫制作公司，[日本動畫協會正會員](../Page/日本動畫協會.md "wikilink")。代表作有[精靈寶可夢](https://zh.wikipedia.org/wiki/精靈寶可夢 "wikilink")、[閃電十一人等](https://zh.wikipedia.org/wiki/閃電十一人 "wikilink")。
+**OLM**（，，全稱**Oriental Light
+Magic**）是一家日本動畫制作公司，[日本動畫協會正會員](../Page/日本動畫協會.md "wikilink")。代表作有[精靈寶可夢](https://zh.wikipedia.org/wiki/精靈寶可夢 "wikilink")、[閃電十一人等](https://zh.wikipedia.org/wiki/閃電十一人 "wikilink")。
 
 ## OLM團隊
 
@@ -431,7 +431,7 @@ Incorporated**)是壹家日本動畫制作公司，[日本動畫協會正會員]
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/見習神仙精靈.md" title="wikilink">見習神仙 秘密的心靈 第壹部</a></p></td>
+<td><p><a href="../Page/見習神仙精靈.md" title="wikilink">見習神仙 秘密的心靈 第1季</a></p></td>
 <td><p>原創動畫</p></td>
 <td><p>2015年10月1日</p></td>
 <td><p>新田典生</p></td>
@@ -480,7 +480,7 @@ Incorporated**)是壹家日本動畫制作公司，[日本動畫協會正會員]
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/見習神仙精靈.md" title="wikilink">見習神明 秘密的心靈 第2部</a></p></td>
+<td><p><a href="../Page/見習神仙精靈.md" title="wikilink">見習神明 秘密的心靈 第2季</a></p></td>
 <td><p>原創動畫</p></td>
 <td><p>2017年4月6日</p></td>
 <td><p>新田典生</p></td>
@@ -529,7 +529,7 @@ Incorporated**)是壹家日本動畫制作公司，[日本動畫協會正會員]
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/見習神仙精靈.md" title="wikilink">見習神明 秘密的心靈 第3部</a></p></td>
+<td><p><a href="../Page/見習神仙精靈.md" title="wikilink">見習神明 秘密的心靈 第3季</a></p></td>
 <td><p>原創動畫</p></td>
 <td><p>2018年4月5日</p></td>
 <td><p>新田典生</p></td>
@@ -571,20 +571,27 @@ Incorporated**)是壹家日本動畫制作公司，[日本動畫協會正會員]
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><a href="../Page/KIRA_KIRA_HAPPY★_打開吧！見習神仙精靈.md" title="wikilink">KIRA KIRA HAPPY★ 打開吧！見習神仙精靈</a></p></td>
+<td><p>原創動畫</p></td>
+<td><p>2018年9月6日</p></td>
+<td><p>新田典生</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><a href="../Page/MIX_(漫畫).md" title="wikilink">MIX</a></p></td>
 <td><p>漫畫改編</p></td>
 <td><p>2019年4月6日</p></td>
 <td><p>渡部穏寛</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/毛球权次郎" title="wikilink">毛球权次郎</a></p></td>
 <td><p>漫画改编</p></td>
 <td><p>2019年4月6日</p></td>
 <td><p>森井健史郎</p></td>
 <td><p>与<a href="../Page/WIT_STUDIO.md" title="wikilink">WIT STUDIO共同制作</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>

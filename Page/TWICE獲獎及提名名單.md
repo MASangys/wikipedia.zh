@@ -35,7 +35,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong>音源部門大賞</strong></p></td>
+<td><p><strong>音源部門－大賞</strong></p></td>
 <td><p>[3]</p></td>
 <td></td>
 <td></td>
@@ -63,7 +63,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong>唱片部門大賞</strong></p></td>
+<td><p><strong>唱片部門－大賞</strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -77,7 +77,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong>音源部門大賞</strong></p></td>
+<td><p><strong>音源部門－大賞</strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -119,7 +119,7 @@
 <td><p>[4]</p></td>
 </tr>
 <tr class="odd">
-<td><p>年度藝人</p></td>
+<td><p><strong>年度藝人</strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -133,14 +133,14 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>年度專輯</p></td>
+<td><p><strong>年度專輯</strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/PAGE_TWO_(TWICE迷你專輯)" title="wikilink">PAGE TWO</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>年度歌曲</p></td>
+<td><p><strong>年度歌曲</strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/PAGE_TWO_(TWICE迷你專輯)" title="wikilink">CHEER UP</a></p></td>
 <td><p>[5]</p></td>
 <td></td>
@@ -175,14 +175,14 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>年度歌曲</p></td>
+<td><p><strong>年度歌曲</strong></p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>年度藝人</p></td>
+<td><p><strong>年度藝人</strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a></p></td>
 <td></td>
 <td></td>
@@ -196,7 +196,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>年度藝人</p></td>
+<td><p><strong>年度藝人</strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -210,7 +210,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>年度最佳歌曲</p></td>
+<td><p><strong>年度歌曲</strong></p></td>
 <td><p><a href="../Page/Merry&amp;Happy.md" title="wikilink">Heart Shaker</a></p></td>
 <td></td>
 <td></td>
@@ -245,7 +245,7 @@
 <td><p>[6]</p></td>
 </tr>
 <tr class="odd">
-<td><p>BC – UnionPay 年度歌手大獎</p></td>
+<td><p>BC – UnionPay <strong>年度歌手</strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -266,21 +266,21 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>HotelsCombined 年度歌曲大獎</p></td>
-<td><p>CHEER UP</p></td>
+<td><p>HotelsCombined <strong>年度歌曲</strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/PAGE_TWO_(TWICE迷你專輯)" title="wikilink">CHEER UP</a></p></td>
 <td><p>[8]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>HotelsCombined 年度歌手大獎</p></td>
+<td><p>HotelsCombined <strong>年度歌手</strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>HotelsCombined 年度專輯大獎</p></td>
+<td><p>HotelsCombined <strong>年度專輯</strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/PAGE_TWO_(TWICE迷你專輯)" title="wikilink">PAGE TWO</a></p></td>
 <td></td>
 <td></td>
@@ -308,21 +308,21 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Qoo10 年度歌曲大獎</p></td>
+<td><p>Qoo10 <strong>年度歌曲</strong></p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Qoo10 年度歌手大獎</p></td>
+<td><p>Qoo10 <strong>年度歌手</strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Qoo10 年度專輯大獎</p></td>
+<td><p>Qoo10 <strong>年度專輯</strong></p></td>
 <td><p><a href="../Page/Signal_(TWICE迷你專輯).md" title="wikilink">SIGNAL</a></p></td>
 <td></td>
 <td></td>
@@ -371,21 +371,21 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>年度專輯大獎</p></td>
+<td><p><strong>年度專輯</strong></p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>年度歌曲大獎</p></td>
+<td><p><strong>年度歌曲</strong></p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>年度歌手大獎</p></td>
+<td><p><strong>年度歌手</strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a></p></td>
 <td></td>
 <td></td>
@@ -652,7 +652,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/PAGE_TWO_(TWICE迷你專輯)" title="wikilink">CHEER UP</a></p></td>
-<td><p>年度歌曲獎</p></td>
+<td><p><strong>年度歌曲</strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -686,7 +686,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>音源大賞</p></td>
+<td><p><strong>音源大賞</strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -700,7 +700,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>音源大賞</p></td>
+<td><p><strong>音源大賞</strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -764,14 +764,14 @@
 <td><p>結果</p></td>
 </tr>
 <tr class="even">
-<td><p>第一届</p></td>
+<td><p>第1届</p></td>
 <td><p>2018年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a></p></td>
-<td><p>年度歌手</p></td>
+<td><p><strong>年度歌手</strong></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>年度最畅销艺人</p></td>
+<td><p><strong>年度最畅销艺人</strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -800,7 +800,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/What_is_Love?.md" title="wikilink">What is Love?</a></p></td>
-<td><p>年度歌曲</p></td>
+<td><p><strong>年度歌曲</strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -827,31 +827,87 @@
 <td><p>結果</p></td>
 </tr>
 <tr class="even">
-<td><p>第一届</p></td>
+<td><p>第1届</p></td>
 <td><p>2018年</p></td>
-<td><p>TWICE</p></td>
-<td><p>專輯獎部門</p></td>
+<td><p>| TWICE</p></td>
+<td><p>本賞</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Heart Shaker</p></td>
-<td><p>音源獎部門</p></td>
+<td><p><a href="../Page/Merry&amp;Happy.md" title="wikilink">Heart Shaker</a></p></td>
+<td><p>女團舞蹈獎</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/Merry&amp;Happy.md" title="wikilink">Merry&amp;Happy</a></p></td>
+<td><p><strong>年度專輯</strong></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/Merry&amp;Happy.md" title="wikilink">Heart Shaker</a></p></td>
+<td><p><strong>年度歌曲</strong></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>TWICE</p></td>
-<td><p>歌手獎部門</p></td>
+<td><p><strong>年度歌手</strong></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
+</tbody>
+</table>
+
+### 韓國PD大賞（）
+
+<table>
+<tbody>
 <tr class="odd">
-<td><p>Heart Shaker</p></td>
-<td><p>女團舞蹈獎部門</p></td>
-<td></td>
-<td></td>
+<td><p>屆數</p></td>
+<td><p>年份</p></td>
+<td><p>獎項</p></td>
+<td><p>提名項目</p></td>
+<td><p>結果</p></td>
+</tr>
+<tr class="even">
+<td><p>第29屆</p></td>
+<td><p>2017年</p></td>
+<td><p><strong>最佳歌手獎</strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a></p></td>
+<td><p>[13]</p></td>
+</tr>
+</tbody>
+</table>
+
+### 韓國有線電視放送大賞（Korea Cable TV Awards）
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>屆數</p></td>
+<td><p>年份</p></td>
+<td><p>獎項</p></td>
+<td><p>提名項目</p></td>
+<td><p>結果</p></td>
+</tr>
+<tr class="even">
+<td><p>第10屆</p></td>
+<td><p>2016年</p></td>
+<td><p>有線電視音樂PD票選最佳歌手獎</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a></p></td>
+<td><p>[14]</p></td>
+</tr>
+<tr class="odd">
+<td><p>第11屆</p></td>
+<td><p>2017年</p></td>
+<td><p><strong>年度歌手獎</strong></p></td>
+<td><p>[15]</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -869,7 +925,7 @@
 <td><p>結果</p></td>
 </tr>
 <tr class="even">
-<td><p>第一届</p></td>
+<td><p>第1届</p></td>
 <td><p>2019年</p></td>
 <td><p>TWICE</p></td>
 <td><p>World Wide Icon</p></td>
@@ -885,35 +941,64 @@
 </tbody>
 </table>
 
-## 其他獎項
+## 日本音樂頒獎典禮
 
-### 韓國有線電視放送大賞
+### [日本金唱片大獎](../Page/日本金唱片大獎.md "wikilink")
 
 <table>
 <tbody>
 <tr class="odd">
-<td><p>屆數</p></td>
 <td><p>年份</p></td>
-<td><p>獎項</p></td>
 <td><p>提名項目</p></td>
+<td><p>獎項</p></td>
 <td><p>結果</p></td>
 </tr>
 <tr class="even">
-<td><p>第10屆</p></td>
-<td><p>2016年</p></td>
-<td><p>有線電視音樂PD票選最佳歌手獎</p></td>
+<td><p>2018年第32屆</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a></p></td>
-<td><p>[13]</p></td>
+<td><p>年度最佳新人（亞洲區）</p></td>
+<td></td>
 </tr>
 <tr class="odd">
-<td><p>第11屆</p></td>
-<td><p>2017年</p></td>
-<td><p>年度歌手獎</p></td>
-<td><p>[14]</p></td>
+<td><p>年度３大最佳新人（亞洲區）</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/＃TWICE.md" title="wikilink">#TWICE</a></p></td>
+<td><p>年度最佳專輯（亞洲區）</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>年度３大最佳專輯（亞洲區）</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>〈TT (Japanese ver-.)〉</p></td>
+<td><p>年度下載歌曲（亞洲區）</p></td>
+<td><p>[16]</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年第33屆</p></td>
+<td><p><a href="../Page/BDZ_(TWICE專輯).md" title="wikilink">BDZ</a></p></td>
+<td><p>年度３大最佳專輯（亞洲區）</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>〈Candy Pop〉</p></td>
+<td><p>年度下載歌曲（亞洲區）</p></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>
 </table>
+
+## 其他獎項
 
 ### 韓國年度品牌大賞
 
@@ -931,7 +1016,7 @@
 <td><p>2016年</p></td>
 <td><p>特別獎</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a></p></td>
-<td><p>[15]</p></td>
+<td><p>[17]</p></td>
 </tr>
 </tbody>
 </table>
@@ -1000,88 +1085,7 @@
 <td><p>年度女子新人獎<br />
 (Best Rising Star Girl Group)</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a></p></td>
-<td><p>[16]</p></td>
-</tr>
-</tbody>
-</table>
-
-### [Philippines](https://zh.wikipedia.org/wiki/Philippines "wikilink") K-Pop Awards
-
-<table>
-<tbody>
-<tr class="odd">
-<td><p>年份</p></td>
-<td><p>獎項</p></td>
-<td><p>提名項目</p></td>
-<td><p>結果</p></td>
-</tr>
-<tr class="even">
-<td><p>2015年</p></td>
-<td><p>年度女子新人獎</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a></p></td>
-<td><p>[17]</p></td>
-</tr>
-<tr class="odd">
-<td><p>2016年</p></td>
-<td><p>年度專輯</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/PAGE_TWO_(TWICE迷你專輯)" title="wikilink">PAGE TWO</a>》</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>年度歌曲</p></td>
-<td><p>CHEER UP</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>最佳女子團體</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a></p></td>
 <td><p>[18]</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2018年</p></td>
-<td><p>[19]</p></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-### SBS PopAsia Awards
-
-<table>
-<tbody>
-<tr class="odd">
-<td><p>年份</p></td>
-<td><p>獎項</p></td>
-<td><p>提名項目</p></td>
-<td><p>結果</p></td>
-</tr>
-<tr class="even">
-<td><p>2015年</p></td>
-<td><p>Best Rookie Group</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a></p></td>
-<td><p>[20]</p></td>
-</tr>
-</tbody>
-</table>
-
-### MTV Europe Music Awards
-
-<table>
-<tbody>
-<tr class="odd">
-<td><p>年份</p></td>
-<td><p>獎項</p></td>
-<td><p>提名項目</p></td>
-<td><p>結果</p></td>
-</tr>
-<tr class="even">
-<td><p>2016年</p></td>
-<td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a></p></td>
-<td></td>
 </tr>
 </tbody>
 </table>
@@ -1198,77 +1202,82 @@
 </tbody>
 </table>
 
-### 韓國PD大賞 (Korean Producer Awards)
+### [Philippines](https://zh.wikipedia.org/wiki/Philippines "wikilink") K-Pop Awards
 
 <table>
 <tbody>
 <tr class="odd">
-<td><p>屆數</p></td>
 <td><p>年份</p></td>
 <td><p>獎項</p></td>
 <td><p>提名項目</p></td>
 <td><p>結果</p></td>
 </tr>
 <tr class="even">
-<td><p>第29屆</p></td>
-<td><p>2017年</p></td>
-<td><p>最佳歌手獎</p></td>
+<td><p>2015年</p></td>
+<td><p>年度女子新人獎</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a></p></td>
+<td><p>[19]</p></td>
+</tr>
+<tr class="odd">
+<td><p>2016年</p></td>
+<td><p>年度專輯</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/PAGE_TWO_(TWICE迷你專輯)" title="wikilink">PAGE TWO</a>》</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>年度歌曲</p></td>
+<td><p>CHEER UP</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>最佳女子團體</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a></p></td>
+<td><p>[20]</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2018年</p></td>
 <td><p>[21]</p></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
 
-### [日本金唱片大獎](../Page/日本金唱片大獎.md "wikilink")
+### SBS PopAsia Awards
 
 <table>
 <tbody>
 <tr class="odd">
 <td><p>年份</p></td>
-<td><p>提名項目</p></td>
 <td><p>獎項</p></td>
+<td><p>提名項目</p></td>
 <td><p>結果</p></td>
 </tr>
 <tr class="even">
-<td><p>2018年第32屆</p></td>
+<td><p>2015年</p></td>
+<td><p>Best Rookie Group</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a></p></td>
-<td><p>年度最佳新人（亞洲區）</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>年度３大最佳新人（亞洲區）</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/＃TWICE.md" title="wikilink">#TWICE</a></p></td>
-<td><p>年度最佳專輯（亞洲區）</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>年度３大最佳專輯（亞洲區）</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>〈TT (Japanese ver-.)〉</p></td>
-<td><p>年度下載歌曲（亞洲區）</p></td>
 <td><p>[22]</p></td>
-<td></td>
 </tr>
+</tbody>
+</table>
+
+### MTV Europe Music Awards
+
+<table>
+<tbody>
 <tr class="odd">
-<td><p>2019年第33屆</p></td>
-<td><p><a href="../Page/BDZ_(TWICE專輯).md" title="wikilink">BDZ</a></p></td>
-<td><p>年度３大最佳專輯（亞洲區）</p></td>
-<td></td>
+<td><p>年份</p></td>
+<td><p>獎項</p></td>
+<td><p>提名項目</p></td>
+<td><p>結果</p></td>
 </tr>
 <tr class="even">
-<td><p>〈Candy Pop〉</p></td>
-<td><p>年度下載歌曲（亞洲區）</p></td>
+<td><p>2016年</p></td>
 <td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -1475,7 +1484,10 @@
 
 15.
 
-16.
+16. {{ Cite web
+    |url=<http://www.epochtimes.com/b5/18/2/27/n10176460.htm>
+    |title=第32屆日本金唱片大獎 完整得獎名單揭曉 |publisher=大紀元 |date=2018-2-27
+    |accessdate=2018-2-27 }}
 
 17.
 
@@ -1487,9 +1499,6 @@
 
 21.
 
-22. {{ Cite web
-    |url=<http://www.epochtimes.com/b5/18/2/27/n10176460.htm>
-    |title=第32屆日本金唱片大獎 完整得獎名單揭曉 |publisher=大紀元 |date=2018-2-27
-    |accessdate=2018-2-27 }}
+22.
 
 23.

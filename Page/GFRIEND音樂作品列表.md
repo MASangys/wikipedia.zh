@@ -2,9 +2,7 @@
 
 ## 韓語作品
 
-### 正規專輯
-
-＊**粗體字為主打歌**
+⒊===正規專輯=== ＊**粗體字為主打歌**
 
 <table>
 <tbody>
@@ -39,7 +37,7 @@
 <ul>
 <li>發行日期: 2019年1月14日</li>
 <li>發行公司:<a href="https://zh.wikipedia.org/wiki/Source_Music" title="wikilink">Source Music</a>、<a href="https://zh.wikipedia.org/wiki/LOEN_Entertainment" title="wikilink">LOEN Entertainment</a></li>
-<li>專輯銷量:91,099+</li>
+<li>專輯銷量:93,000+</li>
 <li>規格: CD、數位音樂下載</li>
 </ul></td>
 <td><p>2（綜合）</p></td>
@@ -462,7 +460,7 @@ I'll Be There</p></td>
 | 2018   | 6月29日                | Love Rain                                                                                                                                                                    | Yuju、[Suran](../Page/Suran.md "wikilink")(수란)                                                     |
 | 9月28日  | Wow Thing            | [瑟琪](../Page/瑟琪.md "wikilink")、**[SinB](../Page/SinB.md "wikilink")**、[金請夏](https://zh.wikipedia.org/wiki/請夏 "wikilink")、[田小娟](https://zh.wikipedia.org/wiki/田小娟 "wikilink") |                                                                                                   |
 | 11月9日  | 臨陣磨槍 (벼락치기)          | 윤종신 X YUJU                                                                                                                                                                   |                                                                                                   |
-| 2019   | 4月11日                | BLOSSOM                                                                                                                                                                      | Eunha、[Ravi](https://zh.wikipedia.org/wiki/金元植 "wikilink")                                        |
+| 2019   | 4月11日                | BLOSSOM                                                                                                                                                                      | Eunha、[Ravi](../Page/金元植.md "wikilink")                                                           |
 
 ## 參考資料
 

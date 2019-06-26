@@ -39,7 +39,7 @@ CARDDASS T**型機台進行遊戲。
 | 5彈      | 2018年11月29日 | 全107張（普通12+稀有32+Premium特級稀有19+Friend Rare朋友稀有8+Best Friend Rare好朋友稀有16+活動稀有20） |
 | 6彈      | 2019年1月31日  | 全91張（普通12+稀有27+Premium特級稀有15+Friend Rare朋友稀有8+Best Friend Rare好朋友稀有16+活動稀有12）  |
 | 閃耀的寶石1彈 | 2019年3月28日  | 全64張（普通12+稀有20+Premium特級稀有4+Jewelry Rare寶石稀有12+活動稀有16）                         |
-| 閃耀的寶石2彈 | 2019年6月6日   | 全 張（普通12+稀有20+Premium特級稀有12+Jewelry Rare寶石稀有16+活動稀有24）                         |
+| 閃耀的寶石2彈 | 2019年6月6日   | 全84張（普通12+稀有20+Premium特級稀有12+Jewelry Rare寶石稀有16+活動稀有24）                        |
 |         |             |                                                                                |
 
 ### 增設舞台
@@ -52,11 +52,14 @@ CARDDASS T**型機台進行遊戲。
 | Let's アイカツ\! （前作《偶像活動》中的「Luminas」舞台）              |                      |            |      |
 | 窓-ココロ-ひらこう                                        | 閃耀的寶石1彈              |            |      |
 | Pop                                               | 個×個（きみ×わたし）          | 2彈         |      |
+| Niceなto meet you\!                                | 閃耀的寶石2彈              |            |      |
 | Cute & Cool                                       | みんなみんな\!             | 3彈         |      |
 | そこにしかないもの。                                        | 5彈                   |            |      |
+| ひとりじゃない\!                                         | 閃耀的寶石2彈              |            |      |
 | Cool                                              | 導かれて                 | 3彈         |      |
 | 偶然、必然。                                            | 4彈                   |            |      |
 | Have a dream                                      | 6彈                   |            |      |
+| 硝子ドール （前作《偶像活動》中的舞台）                              | 閃耀的寶石2彈              |            |      |
 | Sexy                                              | みつけようよ♪              | 4彈         |      |
 | We wish you a merry Christmas BEST FRIENDS\! Ver. | 5彈                   |            |      |
 | Be Star                                           | 閃耀的寶石1彈              |            |      |
@@ -66,8 +69,10 @@ CARDDASS T**型機台進行遊戲。
 | Cool                                              | 絆 ～シンクロハーモニー～        | 4彈         |      |
 | セカイは廻る                                            | 閃耀的寶石1彈              |            |      |
 | Cute                                              | プライド                 | 5彈         |      |
-| Cute & Cool & Sexy & Pop                          | いっしょにA・I・K・A・T・S・U\! |            |      |
+| 強く美しく優しく                                          | 閃耀的寶石2彈              |            |      |
+| Cute & Cool & Sexy & Pop                          | いっしょにA・I・K・A・T・S・U\! | 5彈         |      |
 | Fashion Show                                      | Cool                 | 6cm上の景色    | 1彈   |
+| あるがまま                                             | 閃耀的寶石2彈              |            |      |
 | Cute                                              | 愛で溢れている              | 2彈         |      |
 | Pop                                               | おけまる                 | 3彈         |      |
 |                                                   |                      |            |      |
@@ -207,14 +212,14 @@ CARDDASS T**型機台進行遊戲。
 Creamers（Digiz,lnc.Group），編曲：SHOW（Digiz,lnc.Group）
 
 ::
-主唱：[カレン](../Page/田所梓.md "wikilink")（神城凱倫）、[ミライ](../Page/大橋彩香.md "wikilink")（明日香-{未}-來）
+主唱：[カレン](../Page/田所梓.md "wikilink")（神城凱倫）、[ミライ](../Page/大橋彩香.md "wikilink")（明日香未來）
 from BEST FRIENDS！（第2、5、28、40話插入曲）
 
 :; 「プライド」（第26話 - 第50話）
 
 :: 作詞：松原さらり（onetrap），作曲：片山將太、，編曲：片山將太
 
-:: 主唱：カレン（神城凱倫）、ミライ（明日香-{未}-來） from BEST FRIENDS！（第41、49話插入曲）
+:: 主唱：カレン（神城凱倫）、ミライ（明日香未來） from BEST FRIENDS！（第41、49話插入曲）
 
 :; 「Be Star」（第51話 - ）
 
@@ -223,7 +228,7 @@ from BEST FRIENDS！（第2、5、28、40話插入曲）
       -
         作詞：松原さらり（onetrap），作曲、編曲：Maozon、YUKI FUNAKOSHI（Digz, Inc. Group）
         主唱：[ひびき](../Page/日笠陽子.md "wikilink")（天翔響） from BEST
-        FRIENDS！（第51、56話插入曲）
+        FRIENDS！（第51、56、60話插入曲）
 
 <!-- end list -->
 
@@ -249,9 +254,9 @@ from BEST FRIENDS！（第2、5、28、40話插入曲）
 
 :: 作詞：松原さらり（onetrap），作曲、編曲：Coffee Creamers（Digz, Inc. Group）
 
-:: 主唱：ミライ（明日香-{未}-來） from BEST FRIENDS！（第7、24、38話）
+:: 主唱：ミライ（明日香未來） from BEST FRIENDS！（第7、24、38話）
 
-:: 主唱：あいね（友希愛音）、ミライ（明日香-{未}-來） from BEST FRIENDS！（第29話）
+:: 主唱：あいね（友希愛音）、ミライ（明日香未來） from BEST FRIENDS！（第29話）
 
 :; 「Girls be ambitious\!」（第10、14、23、38話）
 
@@ -323,11 +328,11 @@ FRIENDS\! Ver.」（第37話）
 
 :: 主唱：あいね（友希愛音）、みお（湊美緒） from BEST FRIENDS！（第43、47話）
 
-:; 「Have a Dream」（第46話）
+:; 「Have a Dream」（第46、62話）
 
 :: 作詞：松原さらり（onetrap），作曲：藤末樹，編曲：片山將太
 
-:: 主唱：さくや（白百合咲夜）、かぐや（白百合輝夜） from BEST FRIENDS！（第46話）
+:: 主唱：さくや（白百合咲夜）、かぐや（白百合輝夜） from BEST FRIENDS！（第46、62話）
 
 :; 「セカイは廻る」（第52、55話）
 
@@ -341,13 +346,20 @@ FRIENDS\! Ver.」（第37話）
 
 :: 主唱：あいね（友希愛音） from BEST FRIENDS！（第54、57話）
 
-:; 「Niceなto meet you\!」（第59話）
+:; 「Niceなto meet you\!」（第59、62話）
+
+:: 作詞：松原さらり（onetrap），作曲、編曲：SHOW（Digz, Inc. Group）
+
+:: 主唱：ミライ（明日香未來） from BEST FRIENDS！（第59、62話）
+
+:; 「あるがまま」（第61話）
 
   -
 
       -
-        作詞：松原さらり（onetrap），作曲、編曲：SHOW（Digz, Inc. Group）
-        主唱：ミライ（明日香-{未}-來） from BEST FRIENDS！（第59話）
+        作詞：松原さらり（onetrap），作曲、編曲：Maozon、YUKI FUNAKOSHI（Digz, Inc. Group）
+        主唱：[アリシア](../Page/大西沙織.md "wikilink")（艾麗西亞·夏洛特） from BEST
+        FRIENDS！（第61話）
 
 <!-- end list -->
 
@@ -425,7 +437,7 @@ FRIENDS\! Ver.」（第37話）
 <td></td>
 <td><p>令人憧憬的My brand</p></td>
 <td><p>大知慶一郎</p></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/京極尚彦" title="wikilink">京極尚彦</a></p></td>
 <td><p>倉富康平</p></td>
 <td><p>板倉和弘<br />
 小川玖理周<br />
@@ -1048,6 +1060,49 @@ FRIENDS\! Ver.」（第37話）
 竹森由加</p></td>
 <td><p>6月6日</p></td>
 </tr>
+<tr class="odd">
+<td><p>第61話</p></td>
+<td></td>
+<td><p>打開心扉</p></td>
+<td><p>野村祐一</p></td>
+<td><p>馬引圭</p></td>
+<td><p>大川貴大</p></td>
+<td><p>高橋晃</p></td>
+<td><p>6月13日</p></td>
+</tr>
+<tr class="even">
+<td><p>第62話</p></td>
+<td></td>
+<td><p>朋友青蛙♪派對</p></td>
+<td><p>千葉美鈴</p></td>
+<td><p>山地光人</p></td>
+<td><p>橋口隼人<br />
+渡邊健一<br />
+石川惠理</p></td>
+<td><p>6月20日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第63話</p></td>
+<td></td>
+<td><p>條條大路通偶像-{}-活動！</p></td>
+<td><p>久尾步</p></td>
+<td><p><a href="../Page/兒玉兼嗣.md" title="wikilink">兒玉兼嗣</a></p></td>
+<td><p>倉富康平</p></td>
+<td><p>小川玖理周<br />
+志賀祐香</p></td>
+<td><p>6月27日 &lt;!--</p></td>
+</tr>
+<tr class="even">
+<td><p>第64話</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>7月4日 --&gt;</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -1189,7 +1244,7 @@ FRIENDS\! Ver.」（第37話）
 | 4    | 2019年1月9日    | 第16話 - 第21話 | BIBA-3304                              |
 | 5    | 2019年3月2日    | 第22話 - 第27話 | BIBA-3305                              |
 | 6    | 2019年4月2日    | 第28話 - 第33話 | BIBA-3306                              |
-| 7    | 2019年6月4日預定  | 第34話 - 第39話 | BIBA-3307                              |
+| 7    | 2019年6月4日    | 第34話 - 第39話 | BIBA-3307                              |
 | 8    | 2019年7月2日預定  | 第40話 - 第45話 | BIBA-3308                              |
 | 9    | 2019年8月2日預定  | 第46話 - 第50話 | BIBA-3309                              |
 | 第2期  |              |             |                                        |

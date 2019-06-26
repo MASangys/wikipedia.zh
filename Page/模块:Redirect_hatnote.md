@@ -4,7 +4,7 @@
 --](https://zh.wikipedia.org/wiki/--_This_module_produces_a_"redirect"_hatnote._It_looks_like_this:_--_'"X"_redirects_here._For_other_uses,_see_Y.'_--_It_implements_the_{{redirect}}_template._-- "wikilink")
 
 local mHatnote = require('Module:Hatnote') local mHatList =
-require('Module:Hatnote list') local mArguments --lazily initialize
+require('Module:Hatnote list2') local mArguments --lazily initialize
 local libraryUtil = require('libraryUtil') local checkType =
 libraryUtil.checkType local checkTypeMulti = libraryUtil.checkTypeMulti
 
@@ -51,7 +51,7 @@ redirectTitle, targetTitle)
 `       -- Return an error if a redirect parameter is missing.`
 `       if not args[i] then`
 `           return mHatnote.makeWikitextError(`
-`               '缺少重定向参数',`
+`               '缺少redirect参数',`
 `               'Template:Redirect#Errors',`
 `               args.category`
 `           )`
@@ -61,13 +61,14 @@ redirectTitle, targetTitle)
 `   -- Generate the text.`
 `   local formattedRedirect = {}`
 `   for k,v in pairs(redirect) do`
-`       formattedRedirect[k] = '"' .. v .. '"'`
+`       formattedRedirect[k] = '「\'\'\'-{zh-hans;zh-hant;|' .. v .. '}-\'\'\'」'`
 `   end`
+`   local image = '`[`Disambig_gray.svg`](https://zh.wikipedia.org/wiki/File:Disambig_gray.svg "fig:Disambig_gray.svg")`'`
 `   local text = {`
-`       mHatList.andList(formattedRedirect) .. ' ' .. (#redirect == 1 and 'redirects' or 'redirect') .. ' here.',`
+`       mHatList.andList(formattedRedirect) .. (#redirect == 1 and '' or '均') .. '-{zh-cn:重定向; zh-tw:重新導向;}-至此。',`
 `       mHatList._forSee(args, #redirect + 1, {title = redirect[1], extratext = args.text})`
 `   }`
-`   text = table.concat(text, ' ')`
+`   text = image .. '  ' .. table.concat(text)`
 `   -- Functionality for adding categories  `
 `   local categoryTable = {}`
 `   function addCategory(cat)`
@@ -86,15 +87,15 @@ redirectTitle, targetTitle)
 `       then`
 `           redirectTitle = redirectTitle or getTitle(v)`
 `           if not redirectTitle or not redirectTitle.exists then`
-`               addCategory('Missing redirects')`
+`               addCategory('无效重定向')`
 `           elseif not redirectTitle.isRedirect then`
-`               addCategory('需要复查的带重定向hatnote的条目')`
+`               addCategory('顶注重定向需要审阅的条目')`
 `           else`
 `               local mRedirect = require('Module:Redirect')`
 `               local target = mRedirect.getTarget(redirectTitle)`
 `               targetTitle = targetTitle or target and getTitle(target)`
 `               if targetTitle and targetTitle ~= currentTitle then`
-`                   addCategory('需要复查的带重定向hatnote的条目')`
+`                   addCategory('顶注重定向需要审阅的条目')`
 `               end`
 `           end`
 `       end`

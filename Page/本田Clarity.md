@@ -1,5 +1,5 @@
 **本田Clarity** (****)
-是[本田技研工業一個用於](https://zh.wikipedia.org/wiki/本田技研工業 "wikilink")的，最初只用在[氫氣](https://zh.wikipedia.org/wiki/氫氣 "wikilink")[燃料電池](https://zh.wikipedia.org/wiki/燃料電池 "wikilink")[電動車上](https://zh.wikipedia.org/wiki/電動車 "wikilink")，如2008年份的**本田FCX
+是[本田技研工業一個用於](https://zh.wikipedia.org/wiki/本田技研工業 "wikilink")的，最初只用在[氫氣](../Page/氫氣.md "wikilink")[燃料電池](https://zh.wikipedia.org/wiki/燃料電池 "wikilink")[電動車上](https://zh.wikipedia.org/wiki/電動車 "wikilink")，如2008年份的**本田FCX
 Clarity**
 (****)，之後也使用在[純電動車及](../Page/純電動車.md "wikilink")[插電式混合動力車上](../Page/插電式混合動力車.md "wikilink")，如2017－18年份、基於同一架構上的**本田Clarity
 Electric** (****) 純電動車、本田Clarity Plug-in Hybrid (****)

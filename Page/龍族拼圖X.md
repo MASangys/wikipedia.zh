@@ -39,7 +39,7 @@
     龍人。人類城市維也納的SDF副官。視龍人等龍喚士為人類的威脅，策劃清除他們。
   -
     聲：[橫山智佐](https://zh.wikipedia.org/wiki/橫山智佐 "wikilink")
-    光之龍喚士、龍人。光之古老的後補前代斯特瓊的兒子。個性好鬥、鄙視不如己者。戰鬥力驚人。
+    光之龍喚士、龍人。光之古老的候補前代斯特瓊的兒子。個性好鬥、鄙視不如己者。戰鬥力驚人。
   -
     聲：[高田裕司](https://zh.wikipedia.org/wiki/高田裕司 "wikilink")
     龍人。家族守護著前往龍人故鄉的要道，某次陰謀襲擊中，公會馳援不及，全族覆滅，與怪物所生的其子斯特瓊jr.獨存。
@@ -222,7 +222,7 @@ Comic](../Page/快樂快樂月刊.md "wikilink")》2016年5月號開始連載。
 <td></td>
 <td><p>公會龍喚士之路</p></td>
 <td><p>名田寬</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/細田雅弘" title="wikilink">細田雅弘</a></p></td>
+<td><p><a href="../Page/細田雅弘.md" title="wikilink">細田雅弘</a></p></td>
 <td><p>田中智也</p></td>
 <td><p>松崎正、窪詔之、山崎展義</p></td>
 <td><p>秋山由樹子</p></td>

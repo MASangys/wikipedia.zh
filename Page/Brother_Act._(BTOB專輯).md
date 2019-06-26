@@ -51,7 +51,7 @@ Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》獲得一位。10�
 
 2019年3月，《想念》在[Spotify的串流媒體數突破](../Page/Spotify.md "wikilink")1千萬。
 
-截至2019年5月，《想念》自發行至今未掉出Melon TOP100榜單之外。\[30\]
+截至2019年6月，《想念》自發行至今未掉出Melon TOP100週榜榜單之外。\[30\]
 
 ## 曲目
 

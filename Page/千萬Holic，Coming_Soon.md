@@ -45,7 +45,7 @@ Soon**》為[韓國首個以介紹最新電影為主軸的](https://zh.wikipedia
 <td><p><a href="../Page/金基邦.md" title="wikilink">金基邦</a></p></td>
 <td><p>김기방</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/演員" title="wikilink">演員</a></p></td>
+<td><p><a href="../Page/演員.md" title="wikilink">演員</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>

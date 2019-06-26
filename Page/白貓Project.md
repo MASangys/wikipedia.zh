@@ -273,6 +273,7 @@ CHRONICLE 零之紀元～原罪～」為主軸進行再構築\[43\]。
 [Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink")
 [Category:动作角色扮演游戏](https://zh.wikipedia.org/wiki/Category:动作角色扮演游戏 "wikilink")
 [Category:日本開發電子遊戲](https://zh.wikipedia.org/wiki/Category:日本開發電子遊戲 "wikilink")
+[Category:2020年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2020年日本電視動畫 "wikilink")
 
 1.
 2.
@@ -289,7 +290,7 @@ CHRONICLE 零之紀元～原罪～」為主軸進行再構築\[43\]。
 12. \[<https://wiki.famitsu.com/shironeko/%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%80%E3%83%BC%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3%E3%83%88>　クラスチェンジ登場記念キャンペーンの第1弾\]
 13. [『白猫プロジェクト』の英語版をフィリピン、タイ、インドネシアで配信開始！　機能やUIなどを変更　英題は『Colopl Rune
     Story』に](http://gamebiz.jp/?p=147085)
-14. [東南亞服白貓計劃開服試玩體驗報報告](http://www.itmo.com/wiki/bmjh/news_14824)
+14.
 15. [コロプラの『白猫プロジェクト』、英語版をカナダで配信開始
     ～今後、世界各国に向けて配信予定～](http://colopl.co.jp/news/pressrelease/2015081301.php),コロプラ.
     2015年8月14日閲覧。

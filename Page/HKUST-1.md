@@ -26,6 +26,7 @@ HKUST-1对有机硫化合物（如[噻吩及其衍生物](../Page/噻吩.md "wik
 [Category:二价铜化合物](https://zh.wikipedia.org/wiki/Category:二价铜化合物 "wikilink")
 [Category:金属有机框架材料](https://zh.wikipedia.org/wiki/Category:金属有机框架材料 "wikilink")
 [Category:苯三甲酸盐](https://zh.wikipedia.org/wiki/Category:苯三甲酸盐 "wikilink")
+[Category:铜配合物](https://zh.wikipedia.org/wiki/Category:铜配合物 "wikilink")
 
 1.  [HKUST-1 Metal Organic
     Framework结构浏览](http://www.chemtube3d.com/solidstate/MOF-HKUST-1.html).

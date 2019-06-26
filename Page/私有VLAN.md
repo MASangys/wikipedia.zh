@@ -26,8 +26,8 @@ Forwarding或类似的基于Proxy ARP的解决方案通过上行链路连接来�
 
   - 混杂端口（P-Port）：交换机端口连接到路由器，防火墙或其他网关设备。该端口可以与连接到主VLAN或任何辅助VLAN的任何其他端口进行通信。换句话说，它是允许从VLAN中任何其他端口发送和接收数据帧的一种类型的端口。
   - 主机端口：
-      - 隔离端口：连接到隔离VLAN上的常规主机。此端口只能与P-Port通信。
-      - 公共端口：连接到公共VLAN上的常规主机。该端口能与同一个私有VLAN上的P-Port和C-Port端口进行通信。
+      - 隔离端口（I-Port）：连接到隔离VLAN上的常规主机。此端口只能与P-Port通信。
+      - 公共端口（C-Port）：连接到公共VLAN上的常规主机。该端口能与同一个私有VLAN上的P-Port和C-Port端口进行通信。
 
 [Devices_connected_to_Switch.JPG](https://zh.wikipedia.org/wiki/File:Devices_connected_to_Switch.JPG "fig:Devices_connected_to_Switch.JPG")
 示例：一台VLAN100的交换机，为其配置一个私有VLAN，一个端口为P-Port，两个端口为隔离VLAN 101，四个端口为公共VLAN

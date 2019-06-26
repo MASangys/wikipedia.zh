@@ -24,12 +24,13 @@ minute》，最終止步全國40強\[3\]；7月，與[何潔](../Page/何洁.md 
 
 ### 單曲
 
-|             |      |      |      |    |
-| ----------- | ---- | ---- | ---- | -- |
-| 發行日期        | 歌曲名稱 | 作詞   | 作曲   | 備註 |
-| 2017年8月8日   | 窮光蛋  | Yamy | Yamy |    |
-| 2017年9月13日  | Ay   | Yamy | Yamy |    |
-| 2017年10月31日 | 烏鴉   | Yamy | Yamy |    |
+|             |         |      |      |    |
+| ----------- | ------- | ---- | ---- | -- |
+| 發行日期        | 歌曲名稱    | 作詞   | 作曲   | 備註 |
+| 2017年8月8日   | 窮光蛋     | Yamy | Yamy |    |
+| 2017年9月13日  | Ay      | Yamy | Yamy |    |
+| 2017年10月31日 | 烏鴉      | Yamy | Yamy |    |
+| 2019年3月31日  | Call me | Yamy | Yamy |    |
 
 ### 合作单曲
 
@@ -328,7 +329,7 @@ minute》，最終止步全國40強\[3\]；7月，與[何潔](../Page/何洁.md 
   - [Yamy](https://www.instagram.com/buzhidaoqushiyaohao/)的Instagram帳戶
 
 [Category:郭姓](https://zh.wikipedia.org/wiki/Category:郭姓 "wikilink")
-[Category:火箭少女101](https://zh.wikipedia.org/wiki/Category:火箭少女101 "wikilink")
+[Category:火箭少女101成员](https://zh.wikipedia.org/wiki/Category:火箭少女101成员 "wikilink")
 
 1.  [JC藝人學院成立
     新女團時代來臨](http://music.yule.sohu.com/20161031/n471862117.shtml)

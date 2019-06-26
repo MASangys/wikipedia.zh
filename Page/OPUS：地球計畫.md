@@ -1,7 +1,7 @@
 《**OPUS：地球計畫**》（）是款以探索世界、體驗劇情為主的冒險遊戲，由台灣的[SIGONO](https://zh.wikipedia.org/wiki/SIGONO "wikilink")（原[Team
 Signal](https://zh.wikipedia.org/wiki/Team_Signal "wikilink")）開發。
 
-《OPUS：地球計畫》的[故事是發生在數百萬年後](https://zh.wikipedia.org/wiki/故事 "wikilink")，[人類因為](../Page/人類.md "wikilink")[科技進步而開始進行](https://zh.wikipedia.org/wiki/科技 "wikilink")[基因改造](https://zh.wikipedia.org/wiki/基因改造 "wikilink")，但長久下來也造成基因上的缺陷，因為缺乏人類原始基因的記錄，因此決定尋找已經成為[神話的](https://zh.wikipedia.org/wiki/神話 "wikilink")[地球](../Page/地球.md "wikilink")，希望找到彌補基因缺陷的方法。《OPUS
+《OPUS：地球計畫》的[故事是發生在數百萬年後](../Page/故事.md "wikilink")，[人類因為](../Page/人類.md "wikilink")[科技進步而開始進行](https://zh.wikipedia.org/wiki/科技 "wikilink")[基因改造](https://zh.wikipedia.org/wiki/基因改造 "wikilink")，但長久下來也造成基因上的缺陷，因為缺乏人類原始基因的記錄，因此決定尋找已經成為[神話的](https://zh.wikipedia.org/wiki/神話 "wikilink")[地球](../Page/地球.md "wikilink")，希望找到彌補基因缺陷的方法。《OPUS
 地球計畫》主要透過遊戲中的[望遠鏡來探測太空](https://zh.wikipedia.org/wiki/望遠鏡 "wikilink")，找尋可能是地球的[行星](../Page/行星.md "wikilink")，同時也會隨著劇情發展解答遊戲中的謎團。
 
 遊戲最初於2015年10月22日在[iOS以及](https://zh.wikipedia.org/wiki/iOS "wikilink")[Android](../Page/Android.md "wikilink")\[1\]上發售，並在2016年4月22日在[Steam上推出](../Page/Steam.md "wikilink")[Mac與](https://zh.wikipedia.org/wiki/Mac "wikilink")[Windows版本](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")\[2\]。2017年11月30日游戏在[任天堂Switch上发行](../Page/任天堂Switch.md "wikilink")。

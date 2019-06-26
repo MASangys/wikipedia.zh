@@ -633,6 +633,28 @@ Movie）是[MTV影視大獎重要的獎項之一](../Page/MTV影視大獎.md "wi
 <td><p><a href="https://zh.wikipedia.org/wiki/神力女超人_(2017年電影)" title="wikilink">神力女超人</a></p></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p><strong>2019<br />
+(第28屆)<br />
+</strong></p></td>
+<td><p>'''<a href="https://zh.wikipedia.org/wiki/復仇者聯盟：終局之戰" title="wikilink">復仇者聯盟：終局之戰</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/黑色黨徒.md" title="wikilink">黑色黨徒</a> ‡</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/蜘蛛人：新宇宙.md" title="wikilink">蜘蛛人：新宇宙</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/致所有我曾爱过的男孩.md" title="wikilink">致所有我曾爱过的男孩</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/我們_(2019年電影).md" title="wikilink">我們</a></p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

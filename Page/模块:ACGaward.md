@@ -136,7 +136,7 @@ local list = {
 `   { 'Domon', 3 },`
 `   { 'Dreamcrosser', 5 },`
 `   { 'Driger', 4 },`
-`   { 'Dqwyy', 87 },`
+`   { 'Dqwyy', 91 },`
 `   { 'Dyliu714', 4 },`
 `   { 'Ed cracker', 2 },`
 `   { 'EdmanHK', 5 },`
@@ -223,7 +223,7 @@ local list = {
 `   { 'IT DoNT', 1 },`
 `   { 'Itemx', 3 },`
 `   { 'Ivysia', 45, nickname = '艾薇希亞' },`
-`   { 'Jacklamf1d14', 276 },`
+`   { 'Jacklamf1d14', 286 },`
 `   { 'Jackyang721', 3 },`
 `   { 'Jacueni', 2 },`
 `   { 'Jasonforce', 6 },`
@@ -322,7 +322,7 @@ local list = {
 `   { 'Mike8411251995', 205 },`
 `   { 'Mikepanhu', 13 },`
 `   { 'Millionhere', 1 },   `
-`   { 'Milkypine', 61 },`
+`   { 'Milkypine', 60 },`
 `   { 'Milopo23', 2 },`
 `   { 'Milotic', 1 },`
 `   { 'Minbean', 32 },`

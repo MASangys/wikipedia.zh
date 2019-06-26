@@ -18,7 +18,7 @@ DAYS](https://zh.wikipedia.org/wiki/GLITTER_DAYS "wikilink")，用作電視動�
 | 初回限定盤 | 通常盤         |                                                                                     |      |                                            |
 | 1st   | 2015年2月4日   | **[GLITTER DAYS](https://zh.wikipedia.org/wiki/GLITTER_DAYS "wikilink")**           |      | LACM-14301                                 |
 | 2nd   | 2015年7月22日  | **[Innocent Graffiti](https://zh.wikipedia.org/wiki/Innocent_Graffiti "wikilink")** |      | LACM-14374                                 |
-| 3rd   | 2015年10月28日 | **[MONSTERS](../Page/MONSTERS.md "wikilink")**                                      |      | LACM-14402                                 |
+| 3rd   | 2015年10月28日 | **MONSTERS**                                                                        |      | LACM-14402                                 |
 | 4th   | 2016年2月3日   | **[Contrast](https://zh.wikipedia.org/wiki/Contrast "wikilink")**                   |      | LACM-14436                                 |
 | 5th   | 2016年8月3日   | **[The LiBERTY](https://zh.wikipedia.org/wiki/The_LiBERTY "wikilink")**             |      | LACM-14516                                 |
 | 6th   | 2017年7月26日  | **[RULER GAME](https://zh.wikipedia.org/wiki/RULER_GAME "wikilink")**               |      | LACM-14619                                 |

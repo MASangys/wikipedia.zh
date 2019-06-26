@@ -162,6 +162,11 @@ YEARS～”。该特别纪念节目将原本属于该台的四档常规节目打
   - **[木村拓哉的What's UP
     SMAP\!](../Page/木村拓哉的What's_UP_SMAP!.md "wikilink")**（2016年12月30日播出）\[69\]
 
+<!-- end list -->
+
+  - [**中居正广的Some Girl's
+    SMAP**](../Page/中居正广_ON&ON_AIR.md "wikilink")（2016年12月31日播出）\[70\]
+
 ### 解散之后的余波
 
 ## 各方反響
@@ -176,23 +181,23 @@ YEARS～”。该特别纪念节目将原本属于该台的四档常规节目打
 
 2016年12月21日，根据粉丝投票选择的[精选辑](https://zh.wikipedia.org/wiki/精选辑 "wikilink")《[SMAP
 25
-YEARS](../Page/SMAP_25_YEARS.md "wikilink")》正式发行。该专辑在2017年1月2日、1月9日两周的时间内连续两周成为[公信榜销量第一](https://zh.wikipedia.org/wiki/公信榜 "wikilink")。\[70\]\[71\]
-发行第三周级达成百万销量，实际销量100.7万张。\[72\] 目前，该专辑销量已经突破113万张。
+YEARS](../Page/SMAP_25_YEARS.md "wikilink")》正式发行。该专辑在2017年1月2日、1月9日两周的时间内连续两周成为[公信榜销量第一](https://zh.wikipedia.org/wiki/公信榜 "wikilink")。\[71\]\[72\]
+发行第三周级达成百万销量，实际销量100.7万张。\[73\] 目前，该专辑销量已经突破113万张。
 
-2016年12月6日，日本首家誓言重建组织“日本誓言重建组织（）”所推出的活动“VRJ最佳重新启誓日2016”中将12月21日定为“SMAP精选集发行纪念日”。\[73\]
+2016年12月6日，日本首家誓言重建组织“日本誓言重建组织（）”所推出的活动“VRJ最佳重新启誓日2016”中将12月21日定为“SMAP精选集发行纪念日”。\[74\]
 
 ### 影像辑
 
 2016年12月28日，SMAP影像专辑《》开始发行。短短四天内，该影像专辑首周销量达到[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")
 19.2万张、[BD](../Page/藍光光碟.md "wikilink")
 28.9万张，荣登[公信榜DVD](https://zh.wikipedia.org/wiki/公信榜 "wikilink")/BD部门周排行综合第一名。凭借DVD和BD的综合销量，该专辑拿下视频部门音乐类BD周榜、音乐类DVD周榜和数字音乐周榜三个部门的冠军。《Clip\!
-Smap\! 全单曲精选》DVD拿下连续三周音乐类DVD周榜第一，这是SMAP首次有作品获得此成就。\[74\]
+Smap\! 全单曲精选》DVD拿下连续三周音乐类DVD周榜第一，这是SMAP首次有作品获得此成就。\[75\]
 
-本作收录了SMAP历年发售的55张[单曲中的](../Page/单曲.md "wikilink")63首[A面曲的视频](https://zh.wikipedia.org/wiki/A面曲 "wikilink")，其中包括SMAP初次出道的珍贵影像等未公开的内容。\[75\]
+本作收录了SMAP历年发售的55张[单曲中的](../Page/单曲.md "wikilink")63首[A面曲的视频](https://zh.wikipedia.org/wiki/A面曲 "wikilink")，其中包括SMAP初次出道的珍贵影像等未公开的内容。\[76\]
 
 ### 服装展示
 
-就在[SMAP](../Page/SMAP.md "wikilink")[精选辑发行的同期](https://zh.wikipedia.org/wiki/精选辑 "wikilink")，SMAP成员所穿着的衣物也在部分唱片店内展示。这其中包括：[淘儿唱片](https://zh.wikipedia.org/wiki/淘儿唱片 "wikilink")[新宿店](../Page/新宿.md "wikilink")、淘儿唱片[涉谷店](https://zh.wikipedia.org/wiki/涉谷 "wikilink")、淘儿唱片[福冈PARCO店](../Page/福冈县.md "wikilink")、淘儿唱片大高店（[名古屋市](../Page/名古屋市.md "wikilink")）、、[HMV](../Page/HMV.md "wikilink")[札幌](https://zh.wikipedia.org/wiki/札幌 "wikilink")店、[大阪](https://zh.wikipedia.org/wiki/大阪 "wikilink")、天神站前福冈大厦、[函馆](https://zh.wikipedia.org/wiki/函馆 "wikilink")连锁店等。\[76\]
+就在[SMAP](../Page/SMAP.md "wikilink")[精选辑发行的同期](https://zh.wikipedia.org/wiki/精选辑 "wikilink")，SMAP成员所穿着的衣物也在部分唱片店内展示。这其中包括：[淘儿唱片](https://zh.wikipedia.org/wiki/淘儿唱片 "wikilink")[新宿店](../Page/新宿.md "wikilink")、淘儿唱片[涉谷店](https://zh.wikipedia.org/wiki/涉谷 "wikilink")、淘儿唱片[福冈PARCO店](../Page/福冈县.md "wikilink")、淘儿唱片大高店（[名古屋市](../Page/名古屋市.md "wikilink")）、、[HMV](../Page/HMV.md "wikilink")[札幌](https://zh.wikipedia.org/wiki/札幌 "wikilink")店、[大阪](https://zh.wikipedia.org/wiki/大阪 "wikilink")、天神站前福冈大厦、[函馆](https://zh.wikipedia.org/wiki/函馆 "wikilink")连锁店等。\[77\]
 
 详细内容可以访问SMAP于[JVC建伍胜利娱乐公司官方页面查询](https://zh.wikipedia.org/wiki/胜利娱乐 "wikilink")，以下列表仅供参考。
 
@@ -463,18 +468,21 @@ Smap\! 全单曲精选》DVD拿下连续三周音乐类DVD周榜第一，这是S
 69. [木村拓哉　解散前最後のラジオで「ありがとう\!SMAP」…ファンにも感謝](https://www.daily.co.jp/gossip/2016/12/30/0009793513.shtml)
     DAILY SPORTS ONLINE 2016.12.30
 
-70.
+70. [SMAPリーダー・中居正広の大みそかラジオ番組詳報　「来年どういうふうにするか全く考えていない」](http://www.sanspo.com/geino/news/20170101/joh17010100540001-n1.html)
+    SANSUPO.COM 2017.1.1
 
 71.
 
-72. [SMAPベストが3週目でミリオン達成](https://www.oricon.co.jp/news/2084305/amp/)ORICON
+72.
+
+73. [SMAPベストが3週目でミリオン達成](https://www.oricon.co.jp/news/2084305/amp/)ORICON
     STYLE 2017年1月10日
 
-73.
+74.
 
-74. [【オリコン】SMAP映像集も好調 3週連続DVD総合1位](https://www.oricon.co.jp/news/2084656/amp/),ORICON
+75. [【オリコン】SMAP映像集も好調 3週連続DVD総合1位](https://www.oricon.co.jp/news/2084656/amp/),ORICON
     STYLE 2017-01-18
 
-75.
-
 76.
+
+77.

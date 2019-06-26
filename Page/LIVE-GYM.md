@@ -1216,7 +1216,7 @@ Official Concert International Day</a></p></td>
 07/04 <a href="https://zh.wikipedia.org/wiki/Zepp" title="wikilink">Zepp Nagoya</a></p>
 </div>
 </div>
-<p>SHOWCASE首次舉辦在複數會場。前往夏季活動出演是決定緊急舉辦，標題亦是「由於決定匆忙，以及剛好是第19年，而直接取用『19』。既無任何考量，亦無任何玄機{{#tag:ref||group="原文"}}」。除了久違演奏的樂曲相對較多以外，首次披露了「<a href="../Page/ARIGATO.md" title="wikilink">ARIGATO</a>」。收錄了影像作品在『B'z The Best "ULTRA Treasure"』【2CD+DVD】盤。此外，2010年亦作為『B'z LIVE in なんば 2006 &amp; B'z SHOWCASE 2007 -19- at Zepp Tokyo』發售。總動員數約13,000人。<br />
+<p>SHOWCASE首次舉辦在複數會場。前往夏季活動出演是決定緊急舉辦，標題亦是「由於決定匆忙，以及剛好是第19年，而直接取用『19』。既無任何考量，亦無任何玄機{{#tag:ref||group="原文"}}」。除了久違演奏的樂曲相對較多以外，首次披露了「<a href="../Page/ARIGATO.md" title="wikilink">ARIGATO</a>」。在<a href="https://zh.wikipedia.org/wiki/精選輯" title="wikilink">精選輯</a>『<a href="../Page/B&#39;z_The_Best_&quot;ULTRA_Treasure&quot;.md" title="wikilink">B'z The Best "ULTRA Treasure"</a>』【2CD+DVD】盤中收錄了影像作品。此外，2010年亦作為『B'z LIVE in なんば 2006 &amp; B'z SHOWCASE 2007 -19- at Zepp Tokyo』發售。總動員數約13,000人。<br />
 <strong>EDSE</strong> - 「」（<a href="../Page/清水樂團.md" title="wikilink">Creedence Clearwater Revival</a>）</p></td>
 </tr>
 <tr class="odd">
@@ -1377,7 +1377,7 @@ Official Concert International Day</a></p></td>
 <tr class="even">
 <td><p>2009年8月8日・9日</p></td>
 <td><p>SUMMER SONIC 09</p></td>
-<td><p><strong>2會場2公演</strong> - 千葉海洋球場、舞洲スポーツアイランド 睽違2年的SUMMER SONIC出演[29]。專輯『<a href="../Page/MAGIC_(B&#39;z專輯).md" title="wikilink">MAGIC</a>』的初回限定盤DVD收錄了「<a href="https://zh.wikipedia.org/wiki/イチブトゼンブ/DIVE" title="wikilink">DIVE</a>」「<a href="https://zh.wikipedia.org/wiki/イチブトゼンブ/DIVE" title="wikilink">イチブトゼンブ</a>」「MY LONELY TOWN」的演唱會影像。</p></td>
+<td><p><strong>2會場2公演</strong> - 千葉海洋球場、舞洲スポーツアイランド 睽違2年的SUMMER SONIC出演[29]。在專輯『<a href="../Page/MAGIC_(B&#39;z專輯).md" title="wikilink">MAGIC</a>』的初回限定盤DVD中收錄了「<a href="https://zh.wikipedia.org/wiki/イチブトゼンブ/DIVE" title="wikilink">DIVE</a>」「<a href="https://zh.wikipedia.org/wiki/イチブトゼンブ/DIVE" title="wikilink">イチブトゼンブ</a>」「MY LONELY TOWN」的演唱會影像。</p></td>
 </tr>
 <tr class="odd">
 <td><p>2010年1月14日 - 3月7日</p></td>
@@ -1477,7 +1477,7 @@ Official Concert International Day</a></p></td>
 <tr class="odd">
 <td><p>2011年9月25日</p></td>
 <td></td>
-<td><p><strong>1會場1公演</strong> - 日本武道館 <a href="../Page/朝日電視台.md" title="wikilink">朝日電視台主辦的音樂節</a>。B'z作為主打音樂人參加[35]。</p></td>
+<td><p><strong>1會場1公演</strong> - 日本武道館 <a href="../Page/朝日電視台.md" title="wikilink">朝日電視台主辦的音樂節</a>。由B'z擔任[35]。</p></td>
 </tr>
 <tr class="even">
 <td><p>2011年9月28日</p></td>
@@ -1527,7 +1527,7 @@ B'z PREMIUM LIVE OSAKA/TOKYO</p></td>
 10/25 大阪城ホール</p>
 </div>
 </div>
-<p>全美巡演結束後舉辦的凱旋公演。睽違19年演奏了「<a href="https://zh.wikipedia.org/wiki/愛しい人よGood_Night..." title="wikilink">愛しい人よGood Night...</a>」。最終日的大阪公演在演唱會最後進行了「<a href="../Page/B&#39;z_The_Best_XXV_1988-1998.md" title="wikilink">HEAT</a>」的<a href="https://zh.wikipedia.org/wiki/Music_Video" title="wikilink">Music Video拍攝</a>。在專輯『EPIC DAY』初回限定盤收錄了演唱會影像作品。總動員數約5萬人。<br />
+<p>全美巡演結束後舉辦的凱旋公演。睽違19年演奏了「<a href="https://zh.wikipedia.org/wiki/愛しい人よGood_Night..." title="wikilink">愛しい人よGood Night...</a>」。最終日的大阪公演在演唱會最後進行了「<a href="../Page/B&#39;z_The_Best_XXV_1988-1998.md" title="wikilink">HEAT</a>」的<a href="https://zh.wikipedia.org/wiki/Music_Video" title="wikilink">Music Video拍攝</a>。在專輯『EPIC DAY』初回限定盤中收錄了影像作品。總動員數約5萬人。<br />
 <strong>EDSE</strong> - 不明</p></td>
 </tr>
 <tr class="even">
@@ -1687,7 +1687,7 @@ at EX THEATER ROPPONGI</p></td>
 <td><p>2015年11月19日</p></td>
 <td><p>B'z SHOWCASE 2015<br />
 -品川有頂天NIGHT-</p></td>
-<td><p><strong>1會場1公演</strong> -  成為了僅在官方粉絲俱樂部「<a href="../Page/B&#39;z_Party.md" title="wikilink">B'z Party</a>」會員抽選販售，在事實上的粉絲俱樂部限定演唱會。</p></td>
+<td><p><strong>1會場1公演</strong> -  首次粉絲俱樂部限定演唱會。僅在官方粉絲俱樂部「<a href="../Page/B&#39;z_Party.md" title="wikilink">B'z Party</a>」會員間抽選販售。</p></td>
 </tr>
 <tr class="even">
 <td><p>2015年11月21日</p></td>
@@ -1716,13 +1716,13 @@ at EX THEATER ROPPONGI</p></td>
 <tr class="odd">
 <td><p>2017年8月5日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL" title="wikilink">ROCK IN JAPAN FESTIVAL 2017</a></p></td>
-<td><p><strong>1會場1公演</strong> -  首次出演『ROCK IN JAPAN』。在『<a href="../Page/DINOSAUR.md" title="wikilink">DINOSAUR</a>』初回限定盤收錄了影像作品。</p></td>
+<td><p><strong>1會場1公演</strong> -  在專輯『<a href="../Page/DINOSAUR.md" title="wikilink">DINOSAUR</a>』初回限定盤中收錄了影像作品。</p></td>
 </tr>
 <tr class="even">
 <td><p>2017年8月11日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ライジング・サン・ロックフェスティバル" title="wikilink">RISING SUN ROCK FESTIVAL 2017<br />
 in EZO</a></p></td>
-<td><p><strong>1會場1公演</strong> - 石狩湾新港樽川ふ頭横野外特設ステージ 首次出演『RISING SUN』。</p></td>
+<td><p><strong>1會場1公演</strong> - 石狩湾新港樽川ふ頭横野外特設ステージ</p></td>
 </tr>
 <tr class="odd">
 <td><p>2017年12月5日、12月7日</p></td>
@@ -1835,7 +1835,7 @@ B'z Pleasure in Hawaii</p></td>
 <tr class="odd">
 <td><p>2019年8月16日・18日</p></td>
 <td><p>SUMMER SONIC 2019</p></td>
-<td><p><strong>2會場2公演</strong> - <a href="../Page/千葉海洋球場.md" title="wikilink">ZOZO海洋球場</a>＆<a href="../Page/幕張展覽館.md" title="wikilink">幕張展覽館</a>、舞洲SONIC PARK 作為B'z是睽違10年[50]的第3次出演。成為了SUMMER SONIC史上首次聘邀日本藝人作為主打音樂人[51]。</p></td>
+<td><p><strong>2會場2公演</strong> - <a href="../Page/千葉海洋球場.md" title="wikilink">ZOZO海洋球場</a>＆<a href="../Page/幕張展覽館.md" title="wikilink">幕張展覽館</a>、 作為B'z是睽違10年[50]的第3次出演。成為了SUMMER SONIC史上首次由日本藝人擔任主打音樂人[51]。</p></td>
 </tr>
 </tbody>
 </table>

@@ -413,7 +413,7 @@
 <td><p>50</p></td>
 <td><p>2012年10月20日</p></td>
 <td><p>珠海</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/珠海市体育中心" title="wikilink">珠海市體育中心體育場</a></p></td>
+<td><p><a href="../Page/珠海市体育中心.md" title="wikilink">珠海市體育中心體育場</a></p></td>
 <td></td>
 <td></td>
 </tr>

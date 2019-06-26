@@ -26,7 +26,7 @@
 
 AKB48出場時首先演唱《[River](../Page/RIVER_\(AKB48單曲\).md "wikilink")》，接著公布「紅白選拔」得票前16名的排名順位（背景音樂為《[飛翔入手](../Page/飛翔入手.md "wikilink")》），最後由第一名擔任[Center](https://zh.wikipedia.org/wiki/AKB48組合構成#中心位置 "wikilink")（中心位置成員）帶領選拔組16人演唱《[你就是旋律](../Page/你就是旋律.md "wikilink")》。該活動最終由[NMB48成員](../Page/NMB48.md "wikilink")[山本彩以](../Page/山本彩.md "wikilink")41,190票拿下第一\[11\]。
 
-原本[HKT48的](../Page/HKT48.md "wikilink")[矢吹奈子與](../Page/矢吹奈子.md "wikilink")[田中美久亦有入選](../Page/田中美久_\(HKT48\).md "wikilink")，兩人排名分別為第17與45名，但AKB48預定的出場時間落在晚上9時後，礙於日本《》規定的「」，兩人還在就讀[初中無法在晚上](https://zh.wikipedia.org/wiki/初级中學 "wikilink")9時後作公開出演，因而改成在[天童芳美登場演唱時](../Page/天童芳美.md "wikilink")，以應援者身分出場演出；田中與矢吹留下的「紅白選拔」演出空缺，則由獲得第49、50名的[SKE48成員](../Page/SKE48.md "wikilink")[北川綾巴](../Page/北川綾巴.md "wikilink")、[惣田紗莉渚替補](https://zh.wikipedia.org/wiki/惣田紗莉渚 "wikilink")\[12\]。
+原本[HKT48的](../Page/HKT48.md "wikilink")[矢吹奈子與](../Page/矢吹奈子.md "wikilink")[田中美久亦有入選](../Page/田中美久_\(HKT48\).md "wikilink")，兩人排名分別為第17與45名，但AKB48預定的出場時間落在晚上9時後，礙於日本《》規定的「」，兩人還在就讀[初中無法在晚上](https://zh.wikipedia.org/wiki/初级中學 "wikilink")9時後作公開出演，因而改成在[天童芳美登場演唱時](../Page/天童芳美.md "wikilink")，以應援者身分出場演出；田中與矢吹留下的「紅白選拔」演出空缺，則由獲得第49、50名的[SKE48成員](../Page/SKE48.md "wikilink")[北川綾巴](../Page/北川綾巴.md "wikilink")、[惣田紗莉渚替補](../Page/惣田紗莉渚.md "wikilink")\[12\]。
 
 ## 主持人
 
@@ -60,7 +60,7 @@ AKB48出場時首先演唱《[River](../Page/RIVER_\(AKB48單曲\).md "wikilink"
 
   - [秋本治](../Page/秋本治.md "wikilink")：[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")，連載40周年的漫畫《[烏龍派出所](../Page/烏龍派出所.md "wikilink")》的作者。
 
-  - [新垣結衣](../Page/新垣結衣.md "wikilink")：[演員](https://zh.wikipedia.org/wiki/演員 "wikilink")，[TBS人氣電視劇](../Page/TBS電視台.md "wikilink")《[逃避雖可恥但有用](../Page/逃避雖可恥但有用.md "wikilink")》的女主角。
+  - [新垣結衣](../Page/新垣結衣.md "wikilink")：[演員](../Page/演員.md "wikilink")，[TBS人氣電視劇](../Page/TBS電視台.md "wikilink")《[逃避雖可恥但有用](../Page/逃避雖可恥但有用.md "wikilink")》的女主角。
 
   - [伊調馨](https://zh.wikipedia.org/wiki/伊調馨 "wikilink")：女子[自由式摔角](https://zh.wikipedia.org/wiki/自由式摔角 "wikilink")[運動員](https://zh.wikipedia.org/wiki/運動員 "wikilink")，於當年夏季奧林匹克運動會獲得女子自由式摔跤58公斤级冠軍。
 

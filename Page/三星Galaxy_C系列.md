@@ -17,8 +17,7 @@ C系列以全金屬一體式機身、纖薄設計、大螢幕搭配指紋辨識�
     Pro](https://zh.wikipedia.org/wiki/三星Galaxy_C5_Pro "wikilink")\[8\]
   - [三星Galaxy
     C7](https://zh.wikipedia.org/wiki/三星Galaxy_C7 "wikilink")\[9\]
-  - [三星Galaxy C7
-    Pro](https://zh.wikipedia.org/wiki/三星Galaxy_C7_Pro "wikilink")\[10\]\[11\]
+  - [三星Galaxy C7 Pro](../Page/三星Galaxy_C7_Pro.md "wikilink")\[10\]\[11\]
   - [三星Galaxy C9 Pro](../Page/三星Galaxy_C9_Pro.md "wikilink")\[12\]\[13\]
     (有推出國際版，型號為SM-C900F\[14\]。台灣也有上市，型號為SM-C900Y。\[15\])
   - [三星Galaxy

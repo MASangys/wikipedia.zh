@@ -28,7 +28,8 @@ Kids](https://zh.wikipedia.org/wiki/Stray_Kids_\(電視節目\) "wikilink")》�
 
 ## 概要
 
-《Mixtape》結合多種類型的電子樂及hip-hop曲風，透過成員們自己寫成的歌詞，鮮活地展現出10幾歲少年特有的情懷。主打歌曲《Hellevator》由Hell（地獄）和Elevator（電梯）兩個單字組合而成，由作曲家ARMADILLO、RANGGA和Stray
+專輯《Mixtape》結合多種類型的[電子樂及](https://zh.wikipedia.org/wiki/電子樂 "wikilink")[Hip-hop曲風](https://zh.wikipedia.org/wiki/Hip-hop "wikilink")，透過成員們自己寫成的歌詞，鮮活地展現出10幾歲少年特有的情懷。
+主打歌〈Hellevator〉由Hell（地獄）和Elevator（電梯）兩個單字組合而成，由作曲家ARMADILLO、RANGGA和Stray
 Kids成員方燦、彰彬、知城共同填詞譜曲，將自身處境化作歌詞，描寫每天埋頭苦練的練習生生活猶如地獄一般無止無盡，不但要面對不知能否出道的恐懼，還要遭受周邊人們不信任的冷言冷語，歌曲最後勉勵自己唯有通過不斷的努力，才能突破困境、搭上Hellevator逃離地獄，上升到頂樓，實現出道夢想，迎向光明未來。\[5\]
 
 ### 發行版本

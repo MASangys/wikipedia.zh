@@ -16,7 +16,9 @@
 
   - [虎妮為Yahoo所屬的虛擬網紅](../Page/虎妮.md "wikilink")，除了YouTube之外，在[Yahoo
     TV上也擁有自己的節目](https://zh.wikipedia.org/wiki/Yahoo_TV "wikilink")「虎妮好朋友」，影片亦於日本niconico動畫頻道上發表。
-  - [空為](https://zh.wikipedia.org/wiki/空 "wikilink")[KKBOX所推出的虛擬網紅](../Page/KKBOX.md "wikilink")，以歌唱表演為主，並且與另一位虛擬網紅Hooya合組了第一個華語表演團體[-{K’WA}-](https://zh.wikipedia.org/wiki/K’WA "wikilink")。
+  - [空為](https://zh.wikipedia.org/wiki/空 "wikilink")[KKBOX所推出的虛擬網紅](../Page/KKBOX.md "wikilink")，以歌唱表演為主，並且與另一位虛擬網紅Hooya合組了第一個華語表演團體[-{K’WA}-](https://zh.wikipedia.org/wiki/K’WA "wikilink")，目前[KKBOX脫離](../Page/KKBOX.md "wikilink")[空的計畫](https://zh.wikipedia.org/wiki/空 "wikilink")，現在由貓空同好會主導，演員也同時換人。
+  - 在[虎妮剛誕生時](../Page/虎妮.md "wikilink")，台灣就有一些同好開始自行當起虛擬網紅，其中包含[菲諾](https://zh.wikipedia.org/wiki/菲諾 "wikilink")、[謙謙子](https://zh.wikipedia.org/wiki/謙謙子 "wikilink")、[翔一](https://zh.wikipedia.org/wiki/翔一 "wikilink")、[雙命裂等](https://zh.wikipedia.org/wiki/雙命裂 "wikilink")，一共五人，是台灣非企業最早五人。
+  - 台北二次三次同樣為早期於台灣耕耘的企業，目前改名為VEgo，已與日本二次三次切斷關係，旗下網紅也從7人剩下3人。
 
 ### 中國大陆
 

@@ -630,7 +630,7 @@ UDI的財源主要來自政府補助金，隨時可能關門大吉，但他並�
 </tr>
 <tr class="odd">
 <td><p>横山伸也 (16)</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/神尾楓珠" title="wikilink">神尾楓珠</a></p></td>
+<td><p><a href="../Page/神尾楓珠.md" title="wikilink">神尾楓珠</a></p></td>
 <td><p><a href="../Page/李震權.md" title="wikilink">李震權</a></p></td>
 <td><p>翠川高等學校1年級A組學生，曾經幫助過白井，與白井是朋友,死者。</p></td>
 </tr>

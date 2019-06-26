@@ -1,7 +1,7 @@
 **福特Laser**（英语：Ford
 Laser）是由[福特汽車亞洲部門與](https://zh.wikipedia.org/wiki/福特汽車 "wikilink")[日本](../Page/日本.md "wikilink")[馬自達汽車共同開發的](https://zh.wikipedia.org/wiki/馬自達汽車 "wikilink")[小型車或](https://zh.wikipedia.org/wiki/緊湊型轎車 "wikilink")[轎車](https://zh.wikipedia.org/wiki/轎車 "wikilink")，用以取代[福特Escort車系主打亞洲及大洋洲市場的中產階級客層](https://zh.wikipedia.org/wiki/福特Escort "wikilink")，於日本及東南亞、大洋洲都有銷售，1985年開始生產，直至2002年停止生產，由[福特福克斯](../Page/福特福克斯.md "wikilink")（Focus）取代，車體本身以[馬自達323為藍本](../Page/馬自達323.md "wikilink")，並重新設計車身外觀。
 
-臺灣[福特六和汽車翻譯為](../Page/福特六和汽車.md "wikilink")「全壘打」，在港澳翻譯則為「雷射」。此款車在日本及東南亞、大洋洲市場的對手為[日產Sunny](../Page/日產Sentra.md "wikilink")、[三菱Lancer](https://zh.wikipedia.org/wiki/三菱Lancer "wikilink")、[豐田Corolla](https://zh.wikipedia.org/wiki/豐田Corolla "wikilink")、[本田Civic](https://zh.wikipedia.org/wiki/本田Civic "wikilink")、[速霸陸Impreza](../Page/速霸陸Impreza.md "wikilink")、、。
+臺灣[福特六和汽車翻譯為](../Page/福特六和汽車.md "wikilink")「全壘打」，在港澳翻譯則為「雷射」。此款車在日本及東南亞、大洋洲市場的對手為[日產Sunny](../Page/日產Sentra.md "wikilink")、[三菱Lancer/Mirage](https://zh.wikipedia.org/wiki/三菱Lancer "wikilink")、[豐田Corolla/Sprinter](https://zh.wikipedia.org/wiki/豐田Corolla "wikilink")、[本田Civic](https://zh.wikipedia.org/wiki/本田Civic "wikilink")、[速霸陸Impreza](../Page/速霸陸Impreza.md "wikilink")、、。
 
 {{-}}
 

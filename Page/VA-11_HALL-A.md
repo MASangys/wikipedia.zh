@@ -15,7 +15,7 @@ Vita版本於](../Page/PlayStation_Vita.md "wikilink")2017年11月發售，[Play
 ## 续作
 
 2018年9月，制作组宣布本作的续作《[N1RV Ann-A
-失落天堂的麻烦](https://zh.wikipedia.org/wiki/N1RV_Ann-A "wikilink")》（）计划将于2020年发售，预计将在Windows、PlayStation
+失落天堂的麻烦](https://zh.wikipedia.org/wiki/N1RV_Ann-A "wikilink")》（）计划将于2020年推出，预计将在Windows、PlayStation
 4以及任天堂Switch等平台发售。
 
 ## 參考資料

@@ -14,7 +14,7 @@ JK擔任導師](https://zh.wikipedia.org/wiki/Tiger_JK "wikilink")，作曲家[B
 | 5  | 2016年3月17日 |                                                                                                                                                                                                                                                                |
 | 6  | 2016年3月24日 |                                                                                                                                                                                                                                                                |
 | 7  | 2016年3月31日 | [尹尚](https://zh.wikipedia.org/wiki/尹尚 "wikilink")、星、[吳恩英](https://zh.wikipedia.org/wiki/吳恩英 "wikilink")、[金邦玉](https://zh.wikipedia.org/wiki/金邦玉 "wikilink")、[池相烈](https://zh.wikipedia.org/wiki/池相烈 "wikilink")                                                |
-| 8  | 2016年4月7日  | [金賢哲](https://zh.wikipedia.org/wiki/金賢哲 "wikilink")、[金素賢](https://zh.wikipedia.org/wiki/金素賢 "wikilink")、[金邦玉](https://zh.wikipedia.org/wiki/金邦玉 "wikilink")、[徐熙泰](https://zh.wikipedia.org/wiki/徐熙泰 "wikilink")                                                |
+| 8  | 2016年4月7日  | [金賢哲](../Page/金賢哲.md "wikilink")、[金素賢](https://zh.wikipedia.org/wiki/金素賢 "wikilink")、[金邦玉](https://zh.wikipedia.org/wiki/金邦玉 "wikilink")、[徐熙泰](https://zh.wikipedia.org/wiki/徐熙泰 "wikilink")                                                                   |
 
 ## 參考資料
 

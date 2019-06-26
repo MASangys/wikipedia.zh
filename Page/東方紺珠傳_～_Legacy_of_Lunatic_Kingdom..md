@@ -277,6 +277,8 @@ Evel Trinity</p></td>
 ## 外部連結
 
   - [東方紺珠伝人物介紹](http://155384.co/thread-190673-1-1.html)
+  - [steam上的《東方紺珠伝 ～ Legacy of Lunatic
+    Kingdom.》](https://store.steampowered.com/app/937580)
 
 ## 註釋
 

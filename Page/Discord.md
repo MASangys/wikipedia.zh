@@ -101,6 +101,9 @@ Domas。\[52\]
 
 2018年7月13日，Discord被[中国大陆的](../Page/中国大陆.md "wikilink")[防火长城屏蔽](../Page/防火长城.md "wikilink")，方式为[DNS污染](https://zh.wikipedia.org/wiki/DNS污染 "wikilink")。\[58\]
 
+2019年6月5日，又稱《65事件》。Discord團隊大量封鎖違規涉色情違規帳戶，方式為停權。事件起因為Cloud9 Owner
+\#4593大量提供給色情影片中國[HypeAlly球鞋社團](https://zh.wikipedia.org/wiki/HypeAlly球鞋社團 "wikilink")(由Suga_Kookie\#7154經營的團隊)....。目前部分用戶已經遭到永久停權。\[59\]
+
 ## 参考资料
 
 ## 外部链接
@@ -218,3 +221,5 @@ Domas。\[52\]
 57.
 
 58.
+
+59.

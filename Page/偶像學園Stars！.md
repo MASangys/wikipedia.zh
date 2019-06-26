@@ -10,7 +10,7 @@
 
 此外，為了慶祝2017年10月的《偶像活動！》的五周年，與前作的合作企劃於同年8月展開。
 
-2018年4月4日正式結束運行，日本在同年4月推出新機台[偶像活動Friends！](https://zh.wikipedia.org/wiki/偶像活動Friends！ "wikilink")。
+2018年4月4日正式結束運行，日本在同年4月推出新機台[偶像活動Friends！](../Page/偶像活動Friends！.md "wikilink")。
 
 ## 遊戲規則
 
@@ -144,7 +144,7 @@ T**』之後，於2016年5月19日開始推出。在直型屏幕下配設觸碰�
   - 第2部（第51話 - 第100話）
 
 **虹野夢**大危機？！ 突然出現了一個豪華客船形態的偶像-{}-學園，名字叫做**維納斯方舟（Venus Ark）**！
-帶領著船的是完美偶像**艾爾莎・福特**， 她在環遊世界的同時，收集著優秀的偶像和品牌；
+帶領著船的是完美偶像**艾爾莎·福特**， 她在環遊世界的同時，收集著優秀的偶像和品牌；
 然後發現了新的目標，就是四星學園的虹野夢。
 唱歌、跳舞、時尚秀、戲劇等等，還有維納斯方舟的偶像-{}-活動，超級頂尖，簡直是新時代的黎明。
 除了作為主辦人兼頂尖偶像的艾爾莎之外，軟綿綿可愛的偶像**花園綺羅羅**，還有艾爾莎的秘書**騎咲禮**等等的對手不斷登場！
@@ -1248,7 +1248,7 @@ AIKATSU☆STARS！（第87話）
 <tr class="even">
 <td><p>第54話</p></td>
 <td></td>
-<td><p>綺羅羅☆軟軟萌萌的偶像</p></td>
+<td><p>綺羅羅☆軟綿綿的偶像</p></td>
 <td><p>森江美咲</p></td>
 <td><p>青木康直</p></td>
 <td><p>米田光宏</p></td>
@@ -1271,7 +1271,7 @@ AIKATSU☆STARS！（第87話）
 <tr class="even">
 <td><p>第56話</p></td>
 <td></td>
-<td><p>貓咪警報！</p></td>
+<td><p>貓咪警報</p></td>
 <td></td>
 <td><p>イムガヒ</p></td>
 <td><p>高橋晃</p></td>
@@ -1282,7 +1282,7 @@ AIKATSU☆STARS！（第87話）
 <tr class="odd">
 <td><p>第57話</p></td>
 <td></td>
-<td><p>閃閃發亮☆散步好天氣</p></td>
+<td><p>閃耀☆散步好天氣</p></td>
 <td><p>千葉美鈴</p></td>
 <td><p>山地光人</p></td>
 <td><p>田村里美<br />
@@ -1305,7 +1305,7 @@ AIKATSU☆STARS！（第87話）
 <tr class="odd">
 <td><p>第59話</p></td>
 <td></td>
-<td><p>讓你也獲得光輝</p></td>
+<td><p>讓妳也獲得光輝</p></td>
 <td><p>柿原優子</p></td>
 <td><p>戶部敦夫</p></td>
 <td><p>イムガヒ</p></td>
@@ -1317,7 +1317,7 @@ AIKATSU☆STARS！（第87話）
 <tr class="even">
 <td><p>第60話</p></td>
 <td></td>
-<td><p>走近！艾爾莎·福特的世界</p></td>
+<td><p>靠近！艾爾莎·福特的世界</p></td>
 <td><p>成田良美</p></td>
 <td><p>兒玉兼嗣</p></td>
 <td><p>小坂春女</p></td>
@@ -1328,7 +1328,7 @@ AIKATSU☆STARS！（第87話）
 <tr class="odd">
 <td><p>第61話</p></td>
 <td></td>
-<td><p>名為幸福的情感</p></td>
+<td><p>名為喜歡的情感</p></td>
 <td><p>森江美咲</p></td>
 <td><p>米田光宏</p></td>
 <td><p>鈴木萌<br />
@@ -1351,7 +1351,7 @@ AIKATSU☆STARS！（第87話）
 <tr class="odd">
 <td><p>第63話</p></td>
 <td></td>
-<td><p>自凍原吹來的熾熱的風</p></td>
+<td><p>從凍土吹來的炙熱之風</p></td>
 <td><p>野村祐一</p></td>
 <td><p>中島大輔</p></td>
 <td><p>西島加奈<br />
@@ -1396,7 +1396,7 @@ AIKATSU☆STARS！（第87話）
 <tr class="odd">
 <td><p>第67話</p></td>
 <td></td>
-<td><p>夏天！泳池！尋寶咯☆</p></td>
+<td><p>夏天！泳池！尋寶去☆</p></td>
 <td><p>千葉美鈴</p></td>
 <td><p>山本惠</p></td>
 <td><p>宮崎修治</p></td>
@@ -1408,7 +1408,7 @@ AIKATSU☆STARS！（第87話）
 <tr class="even">
 <td><p>第68話</p></td>
 <td></td>
-<td><p>維納斯方舟的可怕傳聞！</p></td>
+<td><p>維納斯方舟的恐怖傳聞！</p></td>
 <td><p>柿原優子</p></td>
 <td><p>青木康直</p></td>
 <td><p>藤井康晶</p></td>
@@ -1455,7 +1455,7 @@ AIKATSU☆STARS！（第87話）
 <tr class="even">
 <td><p>第72話</p></td>
 <td></td>
-<td><p>二人的第一顆星☆</p></td>
+<td><p>兩個人的最閃耀之星☆</p></td>
 <td><p>野村祐一</p></td>
 <td><p>中島大輔</p></td>
 <td><p>西島加奈</p></td>
@@ -1477,7 +1477,7 @@ AIKATSU☆STARS！（第87話）
 <tr class="even">
 <td><p>第74話</p></td>
 <td></td>
-<td><p>軟絨絨☆朋友</p></td>
+<td><p>軟綿綿☆好朋友</p></td>
 <td><p>待田堂子</p></td>
 <td><p>山地光人</p></td>
 <td><p>橋口隼人<br />
@@ -1489,7 +1489,7 @@ AIKATSU☆STARS！（第87話）
 <tr class="odd">
 <td><p>第75話</p></td>
 <td></td>
-<td><p>香澄家的休假日</p></td>
+<td><p>香澄家的假日</p></td>
 <td><p>山口宏</p></td>
 <td><p>イムガヒ</p></td>
 <td><p>三橋櫻子</p></td>
@@ -1581,7 +1581,7 @@ AIKATSU☆STARS！（第87話）
 <tr class="odd">
 <td><p>第83話</p></td>
 <td></td>
-<td><p>莉莉和王子殿下</p></td>
+<td><p>莉莉與王子殿下</p></td>
 <td><p>待田堂子</p></td>
 <td><p>米田光宏</p></td>
 <td><p>大川貴大<br />
@@ -1593,7 +1593,7 @@ AIKATSU☆STARS！（第87話）
 <tr class="even">
 <td><p>第84話</p></td>
 <td></td>
-<td><p>共同追逐夢想</p></td>
+<td><p>夢想是一起同行</p></td>
 <td><p>森江美咲</p></td>
 <td><p>山地光人</p></td>
 <td><p>三橋櫻子</p></td>
@@ -1615,7 +1615,7 @@ AIKATSU☆STARS！（第87話）
 <tr class="even">
 <td><p>第86話</p></td>
 <td></td>
-<td><p>淚水的數量</p></td>
+<td><p>淚珠的數量</p></td>
 <td><p>待田堂子</p></td>
 <td><p>安藤尚也</p></td>
 <td><p>橋口隼人</p></td>
@@ -1626,7 +1626,7 @@ AIKATSU☆STARS！（第87話）
 <tr class="odd">
 <td><p>第87話</p></td>
 <td></td>
-<td><p>感恩♪聖誕！</p></td>
+<td><p>感謝♪聖誕快樂！</p></td>
 <td><p>千葉美鈴</p></td>
 <td><p>イムガヒ</p></td>
 <td><p>鈴木幸江<br />
@@ -1638,7 +1638,7 @@ AIKATSU☆STARS！（第87話）
 <tr class="even">
 <td><p>第88話</p></td>
 <td></td>
-<td><p>正月☆全員集合！</p></td>
+<td><p>元旦到了☆全員集合！</p></td>
 <td><p>山口宏</p></td>
 <td><p>伊藤良太</p></td>
 <td><p>山本脩斗<br />
@@ -2104,8 +2104,7 @@ AIKATSU☆STARS！（第87話）
 
 ### 續作
 
-  - 機台、動畫條目 -
-    [偶像活動Friends！](https://zh.wikipedia.org/wiki/偶像活動Friends！ "wikilink")
+  - 機台、動畫條目 - [偶像活動Friends！](../Page/偶像活動Friends！.md "wikilink")
   - 角色條目 - [偶像活動Friends！角色列表](../Page/偶像活動Friends！角色列表.md "wikilink")
   - 配唱條目 -
 

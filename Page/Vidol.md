@@ -198,31 +198,31 @@
 <td><p>劇集</p></td>
 </tr>
 <tr class="even">
-<td><p>2019年01月</p></td>
+<td><p>2019年1月</p></td>
 <td><p>TheMoment</p></td>
 <td><p>詹雅涵、蔡昌憲、Wa仔、嘻小瓜</p></td>
 <td><p>綜藝</p></td>
 </tr>
 <tr class="odd">
-<td><p>2019年01月</p></td>
+<td><p>2019年1月</p></td>
 <td><p>小人出任務</p></td>
 <td><p>楨楨、家家</p></td>
 <td><p>綜藝</p></td>
 </tr>
 <tr class="even">
-<td><p>2019年02月</p></td>
+<td><p>2019年2月</p></td>
 <td><p>給我老實說</p></td>
 <td><p>聖經</p></td>
 <td><p>綜藝</p></td>
 </tr>
 <tr class="odd">
-<td><p>2019年02月</p></td>
+<td><p>2019年2月</p></td>
 <td><p>大哥開什麼東西</p></td>
 <td><p><a href="../Page/庹宗康.md" title="wikilink">庹宗康</a></p></td>
 <td><p>綜藝</p></td>
 </tr>
 <tr class="even">
-<td><p>2019年05月</p></td>
+<td><p>2019年5月</p></td>
 <td><p>哈囉，你有事嗎？</p></td>
 <td><p><a href="../Page/何美.md" title="wikilink">何美</a>、小吳</p></td>
 <td><p>綜藝</p></td>

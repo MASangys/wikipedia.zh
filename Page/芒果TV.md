@@ -40,8 +40,8 @@
   - 2019年《[最动听的事](../Page/最动听的事.md "wikilink")》
   - 2019年《[你好，对方辩友](../Page/你好，对方辩友.md "wikilink")》
   - 2019年《[出线了，初恋](../Page/出线了，初恋.md "wikilink")》
-  - 2019年《[马卡龙少女](https://zh.wikipedia.org/wiki/马卡龙少女 "wikilink")》
-  - 2019年《[陪你到世界之巅](https://zh.wikipedia.org/wiki/陪你到世界之巅 "wikilink")》
+  - 2019年《[马卡龙少女](../Page/马卡龙少女.md "wikilink")》
+  - 2019年《[陪你到世界之巅](../Page/陪你到世界之巅.md "wikilink")》
 
 ## 綜藝節目（首播）
 
@@ -83,7 +83,8 @@
   - 2018年《[明星大侦探](https://zh.wikipedia.org/wiki/明星大侦探 "wikilink")4》
   - 2019年《[女兒們的恋爱](../Page/女兒們的戀愛.md "wikilink")》
   - 2019年《[哈哈农夫](https://zh.wikipedia.org/wiki/哈哈农夫 "wikilink")》
-  - 2019年《[密室大逃脫](https://zh.wikipedia.org/wiki/密室大逃脫 "wikilink")》
+  - 2019年《[密室大逃脫](../Page/密室大逃脫.md "wikilink")》
+  - 2019年《[少年可期](../Page/少年可期.md "wikilink")》
   - 2019年《[我最爱的女人们](../Page/我最愛的女人們.md "wikilink")》
 
 ## 旗下艺人

@@ -202,7 +202,7 @@ front.jpg
 ### 第五代SS30/SS40/SS80型（1979年-1984年）
 
 1979年 -
-5月大改款的第五代Fronte發售，同時發售商用[輕型貨車](../Page/輕型貨車.md "wikilink")[第一代Alto](https://zh.wikipedia.org/wiki/鈴木Alto#第一代SS30V/40V型（1979年-1984年） "wikilink")，是為其兄弟車。動力來源分成二種：[二衝程的](../Page/两冲程循环.md "wikilink")539c.c.直列三缸水冷式[T5B型引擎](https://zh.wikipedia.org/wiki/鈴木FB族引擎#T5B型 "wikilink")（原廠代號E-SS30S，FX車型）、[四衝程的](https://zh.wikipedia.org/wiki/四冲程循环 "wikilink")543c.c.直列三缸SOHC
+5月大改款的第五代Fronte發售，同時發售商用[輕型貨車](../Page/輕型貨車.md "wikilink")[第一代Alto](https://zh.wikipedia.org/wiki/鈴木Alto#第一代SS30V/40V型（1979年-1984年） "wikilink")，是為其兄弟車。動力來源分成二種：[二衝程的](../Page/两冲程循环.md "wikilink")539c.c.直列三缸水冷式[T5B型引擎](https://zh.wikipedia.org/wiki/鈴木FB族引擎#T5B型 "wikilink")（原廠代號E-SS30S，FX車型）、[四衝程的](../Page/四冲程循环.md "wikilink")543c.c.直列三缸SOHC
 [F5A型引擎](https://zh.wikipedia.org/wiki/鈴木F族引擎#F5A型（SOHC） "wikilink")（原廠代號E-SS40S，FS車型）。值得注意的是，T5B型為了因應[昭和](../Page/昭和.md "wikilink")53年度廢氣排放標準，原廠採用「TC-53[二段觸媒裝置](../Page/催化转换器.md "wikilink")\[13\]」，配置雙重[蜂巢結構的酸化](../Page/蜂巢.md "wikilink")[觸媒](../Page/催化剂.md "wikilink")，以氣壓[幫浦二次供應空氣](../Page/泵.md "wikilink")，以淨化其尾氣\[14\]（屬於商用車的Alto不適用此排放標準，所以沒有淨化裝置）。由於[軸距延伸至](https://zh.wikipedia.org/wiki/軸距 "wikilink")2,150mm，車室空間比前代更為寬廣，車尾玻璃採上掀式設計。
 
 1980年 -

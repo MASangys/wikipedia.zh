@@ -29,7 +29,7 @@
 ## 運作
 
 [Morgan_USPS_annex_sun_morn_jeh.jpg](https://zh.wikipedia.org/wiki/File:Morgan_USPS_annex_sun_morn_jeh.jpg "fig:Morgan_USPS_annex_sun_morn_jeh.jpg")
-詹姆斯·A·法利邮政局大楼於1914年啟用，並命名為賓夕法尼亞終端站。1918年7月，大樓易名為郵政總局大樓，其後又在1982年獲改名為詹姆斯·A·法利邮政局大楼。詹姆斯·法利曾在1933年至1940年間就任美國第53任郵政署長，亦是民主黨在紐約州的領袖\[6\]。法利亦曾協助富蘭克林·羅斯福就任總統，亦是美國第一位信奉[羅馬天主教的總統候選人](https://zh.wikipedia.org/wiki/羅馬天主教 "wikilink")。除羅斯福外，法利亦曾協助[艾尔弗雷德·E·史密斯的政治工作](https://zh.wikipedia.org/wiki/艾尔弗雷德·E·史密斯 "wikilink")。他是[1940年美國總統選舉民主黨初選候選人之一](https://zh.wikipedia.org/wiki/1940年美國總統選舉 "wikilink")，並反對羅斯福第三度連任。
+詹姆斯·A·法利邮政局大楼於1914年啟用，並命名為賓夕法尼亞終端站。1918年7月，大樓易名為郵政總局大樓，其後又在1982年獲改名為詹姆斯·A·法利邮政局大楼。詹姆斯·法利曾在1933年至1940年間就任美國第53任郵政署長，亦是民主黨在紐約州的領袖\[6\]。法利亦曾協助富蘭克林·羅斯福就任總統，亦是美國第一位信奉[羅馬天主教的總統候選人](https://zh.wikipedia.org/wiki/羅馬天主教 "wikilink")。除羅斯福外，法利亦曾協助[艾尔弗雷德·E·史密斯的政治工作](https://zh.wikipedia.org/wiki/艾尔弗雷德·E·史密斯 "wikilink")。他是[1940年美國總統選舉民主黨初選候選人之一](../Page/1940年美國總統選舉.md "wikilink")，並反對羅斯福第三度連任。
 
 1966年，大樓列為紐約市地標。
 

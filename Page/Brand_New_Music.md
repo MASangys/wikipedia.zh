@@ -88,7 +88,8 @@ A」，歌手目前有：[요다영](https://zh.wikipedia.org/wiki/요다영 "wi
 
 ### 練習生
 
-  - 金施勲 ([PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink"))
+  - [金施勲](https://zh.wikipedia.org/wiki/金施勲 "wikilink") ([PRODUCE X
+    101](../Page/PRODUCE_X_101.md "wikilink"))
   - 李垠尚 ([PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink"))
   - 尹晶煥 ([PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink"))
   - 洪誠俊 ([PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink"))
@@ -168,9 +169,9 @@ A」，歌手目前有：[요다영](https://zh.wikipedia.org/wiki/요다영 "wi
 ### 過往練習生
 
   - 尹宰喜（轉投[Happy
-    Face娛樂](../Page/Happy_Face娛樂.md "wikilink")，《[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")》）
-  - Yoon Kyungheon（轉投春娛樂，以男團[We In The
-    Zone出道](../Page/We_In_The_Zone.md "wikilink")）
+    Face娛樂](../Page/Happy_Face娛樂.md "wikilink")，[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")）
+  - 尹憼憲（轉投春娛樂，以男團[We In The
+    Zone出道](../Page/We_in_the_Zone.md "wikilink")）
   - 鄭明勳（轉投AAP.Y，[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）
 
 ## 參考來源

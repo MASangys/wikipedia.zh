@@ -52,8 +52,8 @@ Monster活動\[4\]。
 Monster](../Page/盧太鉉.md "wikilink")、[成雲將以本名](../Page/河成雲.md "wikilink")（盧太鉉、河成雲）參加《[PRODUCE
 101 第二季](../Page/PRODUCE_101_第二季.md "wikilink")》。
 
-最終太鉉獲得第25名，而成雲獲得第11名，為最後一名加入[Wanna
-One的成員](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")。
+最終成雲獲得第11名，為最後一名加入[Wanna
+One的成員](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")。太鉉獲得第25名。
 
 6月20日，HOTSHOT被SSEN 10邀請成為其服裝品牌代表人\[10\]。
 
@@ -85,9 +85,9 @@ Unit](../Page/The_Unit.md "wikilink")》。
 ### 2018年：《The Unit》结束、第二張迷你專輯《Early Flowering》
 
 2月11日，在選秀節目《[The
-Unit](../Page/The_Unit.md "wikilink")》的最後一集中，鎬廷獲得第3名，進入期間限定團體[UNB出道](../Page/UNB.md "wikilink")。金Timoteo以第10名可惜淘汰。
+Unit](../Page/The_Unit.md "wikilink")》的最後一集中，鎬廷獲得第3名，進入期間限定團體[UNB出道](../Page/UNB.md "wikilink")。金Timoteo以第10名落選。
 
-9月4日，預計在本月底或是10月初時回歸。\[14\]。
+9月4日，Star Crew娛樂預計在本月底或是10月初時回歸。\[14\]。
 
 10月15日，Star Crew娛樂宣布確定於11月8日回歸，這也是太鉉和鎬廷結束JBJ、UNB活動歸隊後睽違一年的回歸，而成雲因[Wanna
 One活動限制而未能參與](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")。\[15\]
@@ -629,28 +629,24 @@ One活動限制而未能參與](https://zh.wikipedia.org/wiki/Wanna_One "wikilin
 
 ### 其他公演
 
-| 日期     | 名稱                                                      | 地點                  | 備註   |
-| ------ | ------------------------------------------------------- | ------------------- | ---- |
-| 2014年  |                                                         |                     |      |
-| 12月22日 | SBS Awards Festival                                     | COEX C Hall         |      |
-| 2015年  |                                                         |                     |      |
-| 2月12日  | 翰林女子高中畢業祝賀演出                                            | 翰林女子高中              |      |
-| 2月14日  | Sweet Valentine's Live                                  | 日本Zepp Tokyo        |      |
-| 2月14日  | K.Will's Great Radio                                    |                     |      |
-| 9月5日   | SBS LOVE FM Park Young Jin, Park Jisun Cheerful Express |                     |      |
-| 12月31日 | apm 除夕狂歡倒數夜                                             | 香港創紀之城五期apm大堂       |      |
-| 2016年  |                                                         |                     |      |
-| 4月9日   | 2016 KCON Japan                                         | 幕張國際展覽中心 5 - 8館     |      |
-| 5月14日  | 2016瀋陽韓流商品博覽會                                           | 遼寧工業展覽館             |      |
-| 6月4日   | J-POP MUSIC UNIT Festival in SENDAI                     | 宮城・仙台 CLUB JUNK BOX |      |
-| 6月11日  | J-POP MUSIC UNIT Festival in SHIGA                      | 滋賀・石山U-STONE        |      |
-| 9月23日  | 驪州慶祝音樂會                                                 | 驪州神勒寺觀光地            |      |
-| 10月7日  | Gangnam style dance festival                            | Coex前東側廣場           |      |
-| 10月8日  | Angle's Fighting                                        | 奧林匹克手球競技場           |      |
-| 2017年  |                                                         |                     |      |
-| 8月6日   | 扶安鬼怪光音樂慶典                                               | 扶安影視主題公園            | 成雲除外 |
-| 2018年  |                                                         |                     |      |
-| 11月23日 | MBN HERO CONCERT                                        | 蠶室室內體育館             | 成雲除外 |
+| 日期          | 名稱                                                      | 地點                  | 備註   |
+| ----------- | ------------------------------------------------------- | ------------------- | ---- |
+| 2014年12月22日 | SBS Awards Festival                                     | COEX C Hall         |      |
+| 2015年2月12日  | 翰林女子高中畢業祝賀演出                                            | 翰林女子高中              |      |
+| 2015年2月14日  | Sweet Valentine's Live                                  | 日本Zepp Tokyo        |      |
+| 2015年7月30日  | K.Will's Great Radio                                    | COEX EXPO           |      |
+| 2015年9月5日   | SBS LOVE FM Park Young Jin, Park Jisun Cheerful Express | 江原道 INJE SPEEDIUM   |      |
+| 2015年12月31日 | apm 除夕狂歡倒數夜                                             | 香港創紀之城五期apm大堂       |      |
+| 2016年4月9日   | 2016 KCON Japan                                         | 幕張國際展覽中心 5 - 8館     |      |
+| 2016年5月14日  | 2016瀋陽韓流商品博覽會                                           | 遼寧工業展覽館             |      |
+| 2016年6月4日   | J-POP MUSIC UNIT Festival in SENDAI                     | 宮城・仙台 CLUB JUNK BOX |      |
+| 2016年6月11日  | J-POP MUSIC UNIT Festival in SHIGA                      | 滋賀・石山U-STONE        |      |
+| 2016年9月23日  | 驪州慶祝音樂會                                                 | 驪州神勒寺觀光地            |      |
+| 2016年10月7日  | Gangnam style dance festival                            | Coex前東側廣場           |      |
+| 2016年10月8日  | Angle's Fighting                                        | 奧林匹克手球競技場           |      |
+| 2017年8月6日   | 扶安鬼怪光音樂慶典                                               | 扶安影視主題公園            | 成雲除外 |
+| 2018年11月23日 | MBN HERO CONCERT                                        | 蠶室室內體育館             |      |
+| 2019年6月15日  | 2019 K-pop Artist Festival                              | Seoul Land東門特設舞台    |      |
 
 ### 特別活動
 

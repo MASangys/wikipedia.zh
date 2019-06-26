@@ -99,7 +99,7 @@ tvN的《K-pop獵星行動》作为Cube娛樂的選秀節目， 于8月底开始
   - Andy选了 [FTIsland的](../Page/FTIsland.md "wikilink")《Love Love Love》
   - Jasmine选了 [Apink的](../Page/Apink.md "wikilink")《I Don't Know》
   - Maressa选了
-    [Beast的](https://zh.wikipedia.org/wiki/Highlight_\(韓國組合\) "wikilink")《Fiction》
+    [Beast的](../Page/Highlight_\(韓國組合\).md "wikilink")《Fiction》
   - June选了 [After School的](../Page/After_School.md "wikilink")《Because
     of You》
   - [Sorn选了](https://zh.wikipedia.org/wiki/Sorn "wikilink") [姜敏京](../Page/Davichi.md "wikilink")'的《8282》

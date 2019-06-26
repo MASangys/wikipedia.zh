@@ -25,7 +25,7 @@ Crowd and Public: A methodological and sociological study''
   - [An appreciation of Park at Brock
     University](https://web.archive.org/web/20070124061457/http://spartan.ac.brocku.ca/~lward/Odum/BiographicalSketches/Park.html)
   - [An appreciation of his work in Urban social ecology by Nina
-    Brown](http://www.csiss.org/classics/content/26)
+    Brown](https://web.archive.org/web/20130123132334/http://www.csiss.org/classics/content/26)
   - [Review materials for studying Robert Ezra
     Park](https://web.archive.org/web/20081026040852/http://www.bolenderinitiatives.com/sociology/robert-ezra-park-1864-1944)
   - [An appreciation of Park at the American Sociological

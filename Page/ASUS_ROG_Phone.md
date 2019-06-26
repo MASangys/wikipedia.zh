@@ -1,9 +1,9 @@
 **ASUS ROG
-Phone**是[華碩於](../Page/華碩.md "wikilink")2018年6月4日在[Computex](https://zh.wikipedia.org/wiki/COMPUTEX "wikilink")
-2018發表的電競手機\[1\]，是[華碩ROG系列第一款智慧型手機](../Page/華碩.md "wikilink")\[2\]，搭載Android
+Phone**是[華碩於](../Page/華碩.md "wikilink")2018年6月4日在2018[台北國際電腦展發表的](https://zh.wikipedia.org/wiki/台北國際電腦展 "wikilink")[電競](https://zh.wikipedia.org/wiki/電競 "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")\[1\]，是華碩電競品牌「玩家共和國」（ROG）第一款智慧型手機\[2\]，搭載Android
 8.1、客製的8核心[高通](../Page/高通.md "wikilink")[驍龍](https://zh.wikipedia.org/wiki/驍龍 "wikilink")
-845 2.96GHz處理器。\[3\]它與**Razer Phone**，小米黑鯊和中興 Nubia Red Magic
-競爭。\[4\]\[5\]\[6\]
+845 2.96GHz處理器。\[3\]它與[Razer
+Phone](../Page/Razer_Phone.md "wikilink")、[小米黑鯊和中興Nubia](https://zh.wikipedia.org/wiki/小米黑鯊 "wikilink")
+Red Magic競爭。\[4\]\[5\]\[6\]
 
 ## 規格
 

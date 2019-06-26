@@ -72,7 +72,7 @@ hotaru負責所有錄音的寫作，同時也在推動樂團的音樂世界觀�
 
   - 2月27日發行第八張單曲「shadowgraph」，為電視動畫[幻影死神片頭曲](https://zh.wikipedia.org/wiki/幻影死神 "wikilink")\[11\]，當中收錄曲「Remembrance」，為劇場版[幼女戰記主題曲](../Page/幼女戰記.md "wikilink")\[12\]。
   - 預定7月24日發行第九張單曲「PANTA
-    RHEI」，為電視動畫[異世界超能魔術師片頭曲](../Page/異世界超能魔術師.md "wikilink")\[13\]
+    RHEI」，為電視動畫[異世界超能魔術師片頭曲](../Page/異世界超能魔術師.md "wikilink")\[13\]。
 
 ## 成員
 

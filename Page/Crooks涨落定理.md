@@ -19,7 +19,7 @@ reversibility](https://zh.wikipedia.org/wiki/:en:microscopic_reversibility "wiki
 T)^{-1}</math>，这里\(k_B\)是[Boltzmann常数](https://zh.wikipedia.org/wiki/玻尔兹曼常数 "wikilink")，\(T\)是热库的温度
 
   - \(W_{AB}\)，指的是在正向演化过程中(从\(A\)到\(B\))对系统做的功
-  - \(\Delta F = F(B) - F(A)\)，指的是微观态\(A\)和\(B\)的[Helmholtz自由能之差](https://zh.wikipedia.org/wiki/亥姆霍兹自由能 "wikilink")。
+  - \(\Delta F = F(B) - F(A)\)，指的是微观态\(A\)和\(B\)的[Helmholtz自由能之差](../Page/亥姆霍兹自由能.md "wikilink")。
 
 这样Crooks涨落定理就写为：
 

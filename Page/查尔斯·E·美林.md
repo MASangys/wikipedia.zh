@@ -3,7 +3,8 @@ E. Merrill＆Co.）
 
 ## 早年生活
 
-尔斯·E·美林出生于佛罗里达州的[绿湾温泉](https://zh.wikipedia.org/wiki/绿湾温泉 "wikilink")，。
+查尔斯·E·美林，Charles
+Merrill博士和Octavia（Wilson）Merrill的儿子。查尔斯·E·美林出生于佛罗里达州的[绿湾温泉](https://zh.wikipedia.org/wiki/绿湾温泉 "wikilink")，在那里度过了他的童年。
 
 ## 参考资料
 

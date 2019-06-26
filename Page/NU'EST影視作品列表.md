@@ -184,34 +184,38 @@ One\#影視作品](https://zh.wikipedia.org/wiki/Wanna_One#.E5.BD.B1.E8.A6.96.E4
 
 ### 2019年
 
-|        |                                      |           |
-| ------ | ------------------------------------ | --------- |
-| **日期** | **單元名稱**                             | **參與成員**  |
-| 2019年  |                                      |           |
-| 1月15日  | \[NU'EST W\] 咿呀啊啊～～ 驚喜登場🤗            | NU'EST W  |
-| 1月23日  | \[NU'EST\] 今天，我們☺️                   | 白虎        |
-| 1月26日  | \[NU'EST\] 是Aron唷👻👻                  | Aron      |
-| 1月31日  | \[NU'EST\] 旼炫來了！❤                    | 旼炫        |
-| 2月14日  | NU'EST Happy Valentine's Day         | 全體成員      |
-| 2月22日  | \[Special V ONLY\] NU'EST的禮物 春天大慶典   |           |
-| 3月5日   | \[NU'EST\] 非常特別的星期二😎                 |           |
-| 3月8日   | \[NU'EST\] 要聽聽聲音嗎？                   | JR、白虎、Ren |
-| 3月10日  | \[NU'EST\] 6點 點心😋                    | 全體成員      |
-| 3月12日  | \[NU'EST\] Renny Hyunny 幸運的～Voice～🍀  | 旼炫、Ren    |
-| 3月28日  | \[NU'EST\] 🚨🚨白劇透注意🚨🚨                 | 白虎、旼炫、Ren |
-| 3月31日  | \[NU'EST\] 吃飯了嗎？                     | JR        |
-| 4月12日  | \[NU'EST\] 花開的 我們的春天🌸                | 全體成員      |
-| 4月14日  | \[NU'EST\] 永遠都是 我們的季節🌸               |           |
-| 4月29日  | \[V ONLY\] NU'EST 'BET BET' M/V拍攝花絮  |           |
-| 5月3日   | \[NU'EST\] 我們的選擇是LOVE呀🥰              |           |
-| 5月4日   | \[NU'EST\] 現場直播😎                     |           |
-| 5月8日   | \[NU'EST\] NU'EST 初一位🥳               |           |
-| 5月9日   | \[NU'EST\] LOVE們 一位 恭喜🎉💕             |           |
-| 5月10日  | \[NU'EST\] 像夢一樣的星期五😊😊                |           |
-| 5月14日  | \[NU'EST\] NU'EST 與SPOONZ一起的特別Vlive  |           |
-| 5月16日  | \[NU'EST\] 🚨🚨NU'EST CONCEPT ZONE劇透🚨🚨 |           |
-| 5月21日  | \[NU'EST\] Happy Aron's Day 🐶❤️      | Aron      |
-| 5月25日  | \[NU'EST\] 嘎貢😍                       | 全體成員      |
+|                      |                                      |           |
+| -------------------- | ------------------------------------ | --------- |
+| **日期**               | **單元名稱**                             | **參與成員**  |
+| 2019年                |                                      |           |
+| 1月15日                | \[NU'EST W\] 咿呀啊啊～～ 驚喜登場🤗            | NU'EST W  |
+| 1月23日                | \[NU'EST\] 今天，我們☺️                   | 白虎        |
+| 1月26日                | \[NU'EST\] 是Aron唷👻👻                  | Aron      |
+| 1月31日                | \[NU'EST\] 旼炫來了！❤                    | 旼炫        |
+| 2月14日                | NU'EST Happy Valentine's Day         | 全體成員      |
+| 2月22日                | \[Special V ONLY\] NU'EST的禮物 春天大慶典   |           |
+| 3月5日                 | \[NU'EST\] 非常特別的星期二😎                 |           |
+| 3月8日                 | \[NU'EST\] 要聽聽聲音嗎？                   | JR、白虎、Ren |
+| 3月10日                | \[NU'EST\] 6點 點心😋                    | 全體成員      |
+| 3月12日                | \[NU'EST\] Renny Hyunny 幸運的～Voice～🍀  | 旼炫、Ren    |
+| 3月28日                | \[NU'EST\] 🚨🚨白劇透注意🚨🚨                 | 白虎、旼炫、Ren |
+| 3月31日                | \[NU'EST\] 吃飯了嗎？                     | JR        |
+| 4月12日                | \[NU'EST\] 花開的 我們的春天🌸                | 全體成員      |
+| 4月14日                | \[NU'EST\] 永遠都是 我們的季節🌸               |           |
+| 4月29日                | \[V ONLY\] NU'EST 'BET BET' M/V拍攝花絮  |           |
+| 5月3日                 | \[NU'EST\] 我們的選擇是LOVE呀🥰              |           |
+| 5月4日                 | \[NU'EST\] 現場直播😎                     |           |
+| 5月8日                 | \[NU'EST\] NU'EST 初一位🥳               |           |
+| 5月9日                 | \[NU'EST\] LOVE們 一位 恭喜🎉💕             |           |
+| 5月10日                | \[NU'EST\] 像夢一樣的星期五😊😊                |           |
+| 5月14日                | \[NU'EST\] NU'EST 與SPOONZ一起的特別Vlive  |           |
+| 5月16日                | \[NU'EST\] 🚨🚨NU'EST CONCEPT ZONE劇透🚨🚨 |           |
+| 5月21日                | \[NU'EST\] Happy Aron's Day 🐶❤️      | Aron      |
+| 5月25日                | \[NU'EST\] 嘎貢😍                       | 全體成員      |
+| 6月8日                 | \[NU'EST\] COUNTDOWN JR's Day🐢💕      | JR        |
+| \[NU'EST\] JR熊的一天🐻❤️ |                                      |           |
+| 6月10日                | \[NU'EST\] ☺️                        | 旼炫        |
+| 6月20日                | \[NU'EST\] 為了LOVE們的愛心信號💕             | 全體成員      |
 
 ## 主持節目
 
@@ -366,7 +370,7 @@ One\#影視作品](https://zh.wikipedia.org/wiki/Wanna_One#.E5.BD.B1.E8.A6.96.E4
 <tr class="odd">
 <td><p>2019年6月21日-</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS2" title="wikilink">KBS2</a></p></td>
-<td><p>加油吧曼蘇爾</p></td>
+<td><p>加油吧萬秀路</p></td>
 <td><p>固定成員</p></td>
 <td><p>EP1-16</p></td>
 <td><p>白虎</p></td>
@@ -1269,7 +1273,7 @@ One\#影視作品](https://zh.wikipedia.org/wiki/Wanna_One#.E5.BD.B1.E8.A6.96.E4
 </tbody>
 </table>
 
-### 2019年
+### 2019年1月至6月
 
 |                                                        |                                                                                                 |                           |                                                                                                |                           |
 | ------------------------------------------------------ | ----------------------------------------------------------------------------------------------- | ------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------- |
@@ -1347,13 +1351,29 @@ One\#影視作品](https://zh.wikipedia.org/wiki/Wanna_One#.E5.BD.B1.E8.A6.96.E4
 | 5月22日                                                  | M2                                                                                              | Youtube                   | \[NU'EST ROAD\] （未公開）如果♪ 如果能看到NUEST的腦構造的話～｜Ep.1                                                |                           |
 | 5月24日                                                  | Dispatch / SPOONZ                                                                               | Youtube                   | \[SPOONZ x NU'EST\] Flowerball 來做誕生花花冠吧！                                                       |                           |
 | 5月24日                                                  | OSEN                                                                                            | Vlive                     | STAR ROAD EP03 NU'EST選的'BET BET'名場面是？ / EP04 NU'EST，比格美爆發開始了                                   |                           |
-| 5月25日                                                  | Hang Ten Korea                                                                                  | facebook                  | 小狗狗 JR篇                                                                                        | JR                        |
+| 5月25日 / 6月7日                                           | Hang Ten Korea                                                                                  | facebook                  | 小狗狗 JR篇 / Macron Aron篇                                                                         | JR / Aron                 |
 | 5月27日-5月31日                                            | SPOONZ                                                                                          | Youtube                   | \[SPOONZ x NU'EST\] Behind the Flowerball - JR ver. / Aron Ver. / 白虎 Ver. / 旼炫 Ver. / Ren Ver. | 全體成員                      |
 | 5月27日                                                  | OSEN                                                                                            | Vlive                     | STAR ROAD EP05 NU'EST，無法阻擋寂靜中的吶喊 / EP06 NU'EST，遊戲中到極限的故事                                       | 全體成員                      |
 | 5月29日                                                  | Celeb Alarm                                                                                     | Youtube                   | 三星 CELEB ALARM - NU'EST JR / 旼炫                                                                | JR / 旼炫                   |
 | 5月30日                                                  | M2                                                                                              | Youtube                   | \[KCON2019JAPAN × M2\] NU'EST Ending Finale Self Camera                                        | 全體成員                      |
 | 5月31日                                                  | ELLE KOREA                                                                                      | Youtube                   | 如果NU'EST去世界巡演的話？ASK Me Anything, NU'EST / Interview with NU'EST｜ELLE KOREA                     |                           |
 | 5月31日                                                  | OSEN                                                                                            | Vlive                     | STAR ROAD EP07 NU'EST，無法自拔的懲罰時間 / EP08 NU'EST，吵吵鬧鬧的觸感遊戲                                        |                           |
+| 6月3日                                                   | V Heart Beat                                                                                    | Vlive                     | NU'EST Greeting to Viet Nam fans！                                                              |                           |
+| 6月3日 / 6月7日                                            | CHC                                                                                             | Youtube                   | \[CHC\] NU'EST W的影像信 - Ren給白虎 / 白虎給JR                                                          | Ren / 白虎                  |
+| 6月3日                                                   | OSEN                                                                                            | Vlive                     | STAR ROAD EP09 NU'EST，最終遊戲開始？ / EP10 NU'EST，決定混亂的懲罰成員                                          | 全體成員                      |
+| 6月4日                                                   | SPOONZ                                                                                          | Youtube                   | \[SPOONZ x NU'EST\] HD照片拍攝現場影片                                                                 |                           |
+| 6月7日                                                   | OSEN                                                                                            | Vlive                     | STAR ROAD EP11 NU'EST的自由時間 / EP12 NU'EST，Talk力爆發                                               |                           |
+| 6月10日                                                  | STAR ROAD EP13 NU'EST常常用的流行語是？ / EP14 NU'EST，請一定要看到最後哦！                                         |                           |                                                                                                |                           |
+| 6月10日                                                  | VOGUE KOREA                                                                                     | Youtube                   | 出席'8 Moncler Palm Angels'香港活動的黃旼炫 | VOGUE TV                                                   | 旼炫                        |
+| DAZED KOREA                                            | MONCLER WITH MINHYUN：8 Moncler Palm Angels                                                      |                           |                                                                                                |                           |
+| 6月11日 / 6月13日                                          | CHC                                                                                             | Youtube                   | \[CHC\] NU'EST W的影像信 - JR給Aron / Aron給Ren                                                      | JR / Aron                 |
+| 6月12日                                                  | SPOONZ                                                                                          | Youtube                   | \[SPOONZ x NU'EST\] Share the moments of Love's Tea Time @ Spoonz Flagship Store               | 全體成員                      |
+| 6月14日                                                  | Dispatch                                                                                        | Youtube                   | NU'EST JR&旼炫的 Healing 讀書 Time                                                                  | JR、旼炫                     |
+| 6月14日                                                  | OSEN                                                                                            | Vlive                     | STAR ROAD EP15 NU'EST Aron，哭最多的瞬間？ / EP16 NU'EST JR的寶物1號是？                                     | Aron / JR                 |
+| 6月15日                                                  | Hidden Track No.V                                                                               | Vlive                     | NU'EST推薦的NU'EST隱藏名曲 EP.01                                                                      | 全體成員                      |
+| 6月15日                                                  | ELLE HK                                                                                         | Youtube                   | 黃旼炫 X ELLE HK Interview | NU'EST成員黃旼炫的時尚專訪                                                     | 旼炫                        |
+| 6月17日                                                  | OSEN                                                                                            | Vlive                     | STAR ROAD EP17 NU'EST Ren，最害怕的事情是？ / EP18 NU'EST 白虎，自己選定的圈粉Part？                               | Ren / 白虎                  |
+| 6月24日                                                  | 愛我請舉手                                                                                           | Weibo Live                | NU'EST                                                                                         | 全體成員                      |
 
 ## 電影及戲劇
 
@@ -1479,6 +1499,13 @@ One\#影視作品](https://zh.wikipedia.org/wiki/Wanna_One#.E5.BD.B1.E8.A6.96.E4
 </tbody>
 </table>
 
+### 舞台劇
+
+|                   |                   |                  |                 |          |        |
+| ----------------- | ----------------- | ---------------- | --------------- | -------- | ------ |
+| **演出日期**          | **演出地點**          | **節目名稱**         | **演出角色**        | **參與成員** | **備註** |
+| 2019年8月24日-11月17日 | D-CUBE ART CENTER | Marie Antoinette | Axel von Fersen | 旼炫       |        |
+
 ## 電台節目
 
 ### 2012年至2014年
@@ -1603,7 +1630,8 @@ One\#影視作品](https://zh.wikipedia.org/wiki/Wanna_One#.E5.BD.B1.E8.A6.96.E4
 | COSMOPOLITAN KOREA | 5月號        | 旼炫                                           |
 | INDEED             | Vol.2（5月號） | 白虎；封面人物                                      |
 | CHICTEEN 小資風尚      | 5月號        | Aron；封面人物（與[周潔瓊](../Page/周潔瓊.md "wikilink")） |
-| 時裝 L'OFFICIEL      | 6月號（別冊）    | Aron（與周潔瓊）                                   |
+| 時裝 L'OFFICIEL      | 6月號（別冊）    | Aron；封面人物（與周潔瓊）                              |
+| COSMOPOLITAN KOREA | 7月號        | JR                                           |
 
 ## 参考文献
 

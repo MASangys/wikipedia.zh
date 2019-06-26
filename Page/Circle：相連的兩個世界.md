@@ -111,7 +111,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/申柱煥" title="wikilink">申柱煥</a> / </p></td>
+<td><p><a href="../Page/申柱煥.md" title="wikilink">申柱煥</a> / </p></td>
 <td><p>李恩燮 (李賢碩)</p></td>
 <td></td>
 <td><p>2017年為宇鎮、靜妍大學學長，與宇鎮不和，後來意外將宇鎮撞成植物人；2037年則為HUMANB本部長，晶片失去效用後，其實非常後悔，但卻回不了頭，內心中還是有著正義，只是為了前途而聽命行事。</p></td>

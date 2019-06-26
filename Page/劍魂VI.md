@@ -46,7 +46,7 @@ One平台發行](../Page/Xbox_One.md "wikilink")\[2\]。該遊戲與前作相隔
 
   - \[21\]
 
-  - \[22\]〈DLC追加角色〉
+  - \[22\]（DLC追加角色）
 
   - \[23\]
 
@@ -56,7 +56,7 @@ One平台發行](../Page/Xbox_One.md "wikilink")\[2\]。該遊戲與前作相隔
 
   - \[26\]
 
-  - 艾美〈DLC追加角色〉
+  - 艾美（DLC追加角色）
 
 ### 新參戰角色
 
@@ -67,7 +67,7 @@ One平台發行](../Page/Xbox_One.md "wikilink")\[2\]。該遊戲與前作相隔
 ### 客串角色
 
   - **[傑洛特](https://zh.wikipedia.org/wiki/利維亞的傑洛特 "wikilink")**\[29\]
-  - [2B(寄葉二號B型)](../Page/尼爾：自動人形.md "wikilink") 〈DLC追加角色〉
+  - [2B （寄葉二號B型）](../Page/尼爾：自動人形.md "wikilink") （DLC追加角色）
 
 ## 開發
 

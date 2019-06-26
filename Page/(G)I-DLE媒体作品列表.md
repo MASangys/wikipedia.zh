@@ -157,6 +157,13 @@
 <td><p>雨琦</p></td>
 <td><p><a href="https://v.zjstv.com/c/201904/jaExycuVbbAwCtf3.html">官方视频</a></p></td>
 </tr>
+<tr class="even">
+<td><p>2019年6月8日</p></td>
+<td><p>The loveless</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/田小娟" title="wikilink">田小娟</a></p></td>
+<td><p>小娟</p></td>
+<td><p>图画视频[9]，<a href="https://www.youtube.com/watch?v=0Hk8qGSoHnA">官方视频</a></p></td>
+</tr>
 </tbody>
 </table>
 
@@ -208,16 +215,25 @@
 <td></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>2019年6月17日-2019年6月20日</p></td>
+<td><p>United CUBE</p></td>
+<td><p>小确幸</p></td>
+<td><p>4</p></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
 ### 固定综艺
 
-| 播出日期                  | 电视台                                                            | 节目名称                                             | 参与成员 | 备注  |
-| --------------------- | -------------------------------------------------------------- | ------------------------------------------------ | ---- | --- |
-| 2016年1月22日-2016年4月1日  | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")          | [PRODUCE 101](../Page/PRODUCE_101.md "wikilink") | 小娟   | 出道前 |
-| 2016年7月29日-2016年9月30日 | [Unpretty Rapstar 3](../Page/Unpretty_Rapstar_3.md "wikilink") |                                                  |      |     |
-| 2019年4月26日-2019年7月12日 | [浙江卫视](../Page/浙江卫视.md "wikilink")                             | [奔跑吧](../Page/奔跑吧.md "wikilink")                 | 雨琦   | 第3季 |
+| 播出日期                  | 电视台                                                            | 节目名称                                                | 参与成员 | 备注  |
+| --------------------- | -------------------------------------------------------------- | --------------------------------------------------- | ---- | --- |
+| 2016年1月22日-2016年4月1日  | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")          | [PRODUCE 101](../Page/PRODUCE_101.md "wikilink")    | 小娟   | 出道前 |
+| 2016年7月29日-2016年9月30日 | [Unpretty Rapstar 3](../Page/Unpretty_Rapstar_3.md "wikilink") |                                                     |      |     |
+| 2019年4月26日-2019年7月12日 | [浙江卫视](../Page/浙江卫视.md "wikilink")                             | [奔跑吧](../Page/奔跑吧.md "wikilink")                    | 雨琦   | 第3季 |
+| 2019年5月19日-2019年6月9日  | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")            | [丫头们](https://zh.wikipedia.org/wiki/丫头们 "wikilink") | 试播综艺 |     |
 
 ### 嘉宾出演
 
@@ -435,7 +451,7 @@
 </tr>
 <tr class="even">
 <td><p>12月25日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/SBS" title="wikilink">SBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SBS_(韩国)" title="wikilink">SBS</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/SBS歌谣大战" title="wikilink">歌谣大战</a></p></td>
 <td></td>
 <td></td>
@@ -626,17 +642,31 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>5月19日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/丫头们" title="wikilink">丫头们</a></p></td>
-<td><p>雨琦</p></td>
+<td><p>5月23日-</p></td>
+<td><p>SBS PLUS</p></td>
+<td><p>梦想演唱会幕后[10]</p></td>
+<td><p>全体</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>5月26日</p></td>
+<td><p>6月26日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/文化广播公司" title="wikilink">MBC</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/一周的偶像" title="wikilink">一周的偶像</a></p></td>
 <td></td>
 <td></td>
+</tr>
+<tr class="odd">
+<td><p>7月13日</p></td>
+<td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a></p></td>
+<td><p>RUN.wav</p></td>
 <td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>7月</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SBS_(韩国)" title="wikilink">SBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/丛林的法则" title="wikilink">丛林的法则</a></p></td>
+<td><p>雨琦</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -1075,3 +1105,10 @@
     K/DA “POP/STARS” music
     video](https://dotesports.com/league-of-legends/news/soyeon-and-miyeon-used-motion-capture-equipment-to-perform-in-the-k-da-pop-stars-music-video).
     DOT ESPORTS. November 5, 2018.
+9.  [(여자)아이들((G)I-DLE) - 소확행 \#2 : 소연이의 '애정결핍' 드로잉 비디오
+    제작기](https://www.youtube.com/watch?v=7U26LjgodYU). United
+    CUBE. June 18, 2019.
+10. [Self-cam](https://www.youtube.com/watch?v=rJjMP4stNg0)、[Behind
+    Part.1](https://www.youtube.com/watch?v=dFoXDP1E_Mo)、[Behind
+    Part.2](https://www.youtube.com/watch?v=rBnlxgfGGTI). The K-POP :
+    SBS PLUS. May 23, 2019-.

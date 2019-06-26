@@ -565,7 +565,7 @@ Paek、[Gary](../Page/Gary_\(韓國歌手\).md "wikilink")、等嘻哈和R\&B歌
 <td><p>2016年4月10日</p></td>
 <td><p>NO눈치</p></td>
 <td><p>《I AM SAM》</p></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Sam_Kim" title="wikilink">Sam Kim</a></p></td>
 <td><p><br />
 </p></td>
 <td></td>

@@ -1,7 +1,7 @@
 三星Galaxy
 A3（2016）是[三星电子制造的Android](https://zh.wikipedia.org/wiki/三星电子 "wikilink")[智慧型手机](https://zh.wikipedia.org/wiki/智慧型手机 "wikilink")\[1\]，于2015年12月发布，运行Android
-5.1.1 (Lollipop),现已可升级至 6.0.1
-(Marshmallow)。这台智慧型手机搭载了[64位](https://zh.wikipedia.org/wiki/64位 "wikilink")[高通MSM](../Page/高通.md "wikilink")8916
+5.1.1 (Lollipop),现已可升级至 7.0
+(Nougat)。这台智慧型手机搭载了[64位](https://zh.wikipedia.org/wiki/64位 "wikilink")[高通MSM](../Page/高通.md "wikilink")8916
 [Snapdragon](https://zh.wikipedia.org/wiki/Snapdragon "wikilink")
 410或[Exynos](https://zh.wikipedia.org/wiki/Exynos "wikilink") 7578
 [SoC](https://zh.wikipedia.org/wiki/SoC "wikilink")，由
@@ -22,7 +22,7 @@ A只有132克。\[2\]\[3\]
   - 電池：2300 [mAh](https://zh.wikipedia.org/wiki/mAh "wikilink")
   - 屏幕尺寸：4.7寸
   - 處理器：Cortex-A53
-  - 作業系統：Android 5.1.1 (Lollipop),现已可升级至 6.0.1 (Marshmallow)
+  - 作業系統：Android 5.1.1 (Lollipop),现已可升级至 7.0 (Nougat)
   - 重量：132克
   - [Super
     AMOLED](https://zh.wikipedia.org/wiki/Super_AMOLED "wikilink")

@@ -129,6 +129,7 @@ TFCC-89645（通常盤B）</p></td>
   - [小剛的日本音樂風暴區／饒舌新女聲DAOKO　樂壇新希望](http://www.ettoday.net/news/20150427/498601.htm)
 
 [Category:日本流行音樂歌手](https://zh.wikipedia.org/wiki/Category:日本流行音樂歌手 "wikilink")
+[Category:NHK紅白歌合戰出场歌手](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰出场歌手 "wikilink")
 [Category:日本饒舌歌手](https://zh.wikipedia.org/wiki/Category:日本饒舌歌手 "wikilink")
 [Category:TOY'S_FACTORY旗下藝人](https://zh.wikipedia.org/wiki/Category:TOY'S_FACTORY旗下藝人 "wikilink")
 

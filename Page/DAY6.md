@@ -201,7 +201,7 @@ K：10010197\[58\]、元弼：10010555\[59\]及度雲：10010557。\[60\]
 <td><p>2015年6月5日</p></td>
 <td><p>《Sky High》</p></td>
 <td><p><a href="../Page/朴新星.md" title="wikilink">朴新星</a>、Like Likes</p></td>
-<td><p>colspan=2 rowspan=2 </p></td>
+<td><p>colspan=2 </p></td>
 <td><p>作詞</p></td>
 </tr>
 <tr class="even">
@@ -209,22 +209,22 @@ K：10010197\[58\]、元弼：10010555\[59\]及度雲：10010557。\[60\]
 <td><p>2016年3月21日</p></td>
 <td><p>《<a href="../Page/Flight_Log:_Departure.md" title="wikilink">Flight Log: Departure</a>》</p></td>
 <td><p><a href="../Page/GOT7.md" title="wikilink">GOT7</a></p></td>
+<td><p>colspan=2 </p></td>
 <td><p>作詞</p></td>
-<td><p>[61]</p></td>
 </tr>
 <tr class="odd">
 <td><p>Answer</p></td>
 <td><p>2016年8月23日</p></td>
 <td><p>《<a href="../Page/從19歲到20歲.md" title="wikilink">從19歲到20歲</a>》</p></td>
 <td><p><a href="../Page/朴智敏.md" title="wikilink">朴智敏</a></p></td>
-<td><p>colspan=2</p></td>
+<td><p>}}</p></td>
 <td><p>作詞</p></td>
 </tr>
 <tr class="even">
 <td><p>20</p></td>
-<td><p>colspan=2</p></td>
+<td><p>}}</p></td>
 <td><p>作詞</p></td>
-<td><p>colspan=2</p></td>
+<td><p>}}</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -262,7 +262,6 @@ K：10010197\[58\]、元弼：10010555\[59\]及度雲：10010557。\[60\]
 <thead>
 <tr class="header">
 <th><p>歌曲名稱</p></th>
-<th><p>登記日期</p></th>
 <th><p>歌手</p></th>
 <th><p>參與成員及創作部分</p></th>
 <th></th>
@@ -274,26 +273,25 @@ K：10010197\[58\]、元弼：10010555\[59\]及度雲：10010557。\[60\]
 <td><p><small>晟鎮</small></p></td>
 <td><p><small>Young K</small></p></td>
 <td><p><small>元弼</small></p></td>
-<td><p><small>度雲</small></p></td>
 </tr>
 <tr class="even">
 <td><p>Pandora</p></td>
-<td><p>2015年11月20日</p></td>
 <td><p>DAY6</p></td>
-<td><p>作詞、作曲</p></td>
+<td><p>作詞<br />
+作曲</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>You</p></td>
-<td><p>作詞、作曲</p></td>
-<td></td>
+<td><p>作詞<br />
+作曲</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>Eyeless</p></td>
-<td><p>作詞、作曲</p></td>
-<td></td>
+<td><p>作詞<br />
+作曲</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -303,15 +301,47 @@ K：10010197\[58\]、元弼：10010555\[59\]及度雲：10010557。\[60\]
 <td></td>
 <td><p>作詞<br />
 作曲</p></td>
-<td><p>作曲<br />
-編曲</p></td>
 </tr>
 <tr class="even">
 <td><p>갓캔 (I Can)</p></td>
+<td><p>作詞</p></td>
+<td><p>作詞</p></td>
+<td><p>作詞<br />
+作曲</p></td>
+</tr>
+<tr class="odd">
+<td><p>안물안궁</p></td>
+<td><p>作詞<br />
+作曲</p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>作詞<br />
+作曲</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>Bueno</strong></p></td>
+<td><p>作詞<br />
+作曲</p></td>
+<td><p>作詞<br />
+作曲</p></td>
+<td><p>作詞<br />
+作曲<br />
+編曲</p></td>
+</tr>
+<tr class="odd">
+<td><p>Raindrops</p></td>
+<td><p>作詞<br />
+作曲</p></td>
+<td><p>作詞<br />
+作曲</p></td>
+<td><p>colspan="3" </p></td>
+</tr>
+<tr class="even">
+<td><p><strong>그만 귀여웠음 해</strong></p></td>
+<td><p>作詞<br />
+作曲</p></td>
+<td><p>colspan="2" </p></td>
+<td><p>作詞<br />
+作曲</p></td>
 </tr>
 </tbody>
 </table>
@@ -603,7 +633,7 @@ K：10010197\[58\]、元弼：10010555\[59\]及度雲：10010557。\[60\]
 <td><p>台北</p></td>
 <td><p>ATT Show Box</p></td>
 <td></td>
-<td><p>[62]</p></td>
+<td><p>[61]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -613,7 +643,7 @@ K：10010197\[58\]、元弼：10010555\[59\]及度雲：10010557。\[60\]
 <td><p>香港</p></td>
 <td><p><a href="../Page/九龍灣國際展貿中心.md" title="wikilink">九龍灣國際展貿中心Music</a> Zone</p></td>
 <td></td>
-<td><p>[63]</p></td>
+<td><p>[62]</p></td>
 </tr>
 </tbody>
 </table>
@@ -652,7 +682,7 @@ K：10010197\[58\]、元弼：10010555\[59\]及度雲：10010557。\[60\]
 <td><p>Fan Meeting in Singapore「DayDream」</p></td>
 <td><p>新加坡</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Megabox" title="wikilink">Megabox會館</a></p></td>
-<td><p>[64]</p></td>
+<td><p>[63]</p></td>
 </tr>
 <tr class="even">
 <td><p>2017年</p></td>
@@ -667,7 +697,7 @@ K：10010197\[58\]、元弼：10010555\[59\]及度雲：10010557。\[60\]
 <td><p>Live &amp; Meet in 2017</p></td>
 <td><p>台北</p></td>
 <td><p>ATT Show Box</p></td>
-<td><p>[65]<ref name="2017live">{{cite news|title=台灣的My Day看這裡</p></td>
+<td><p>[64]<ref name="2017live">{{cite news|title=台灣的My Day看這裡</p></td>
 <td><p>! 新世代全能樂團DAY6攜新輯回歸首站6/24售票|url=<a href="http://www.koreastardaily.com/tc/news/95503%7Caccessdate=2017-06-24%7Cpublisher=韓星網%7Cdate=2017-06-16">http://www.koreastardaily.com/tc/news/95503|accessdate=2017-06-24|publisher=韓星網|date=2017-06-16</a>}}</ref></p></td>
 </tr>
 <tr class="even">
@@ -691,7 +721,7 @@ K：10010197\[58\]、元弼：10010555\[59\]及度雲：10010557。\[60\]
 <td><p>Live &amp; Meet in North America 2017</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/洛杉磯" title="wikilink">洛杉磯</a></p></td>
 <td><p>La Mirada Threatre</p></td>
-<td><p>[66]</p></td>
+<td><p>[65]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -732,7 +762,7 @@ K：10010197\[58\]、元弼：10010555\[59\]及度雲：10010557。\[60\]
 <td><p>DAY6 First Fan Meeting「You Made My Day」</p></td>
 <td><p>首爾</p></td>
 <td><p>高麗大學華亭體育館</p></td>
-<td><p>[67]</p></td>
+<td><p>[66]</p></td>
 </tr>
 </tbody>
 </table>
@@ -755,7 +785,7 @@ K：10010197\[58\]、元弼：10010555\[59\]及度雲：10010557。\[60\]
 <td><p><a href="../Page/JYP娛樂.md" title="wikilink">JYP Nation演唱會</a>「Mix &amp; Match」</p></td>
 <td><p><a href="../Page/首爾.md" title="wikilink">首爾</a></p></td>
 <td><p><a href="../Page/首爾綜合運動場.md" title="wikilink">首爾蠶室體育館</a></p></td>
-<td><p>[68]</p></td>
+<td><p>[67]</p></td>
 </tr>
 <tr class="even">
 <td><p>9月2日－4日</p></td>
@@ -770,7 +800,7 @@ K：10010197\[58\]、元弼：10010555\[59\]及度雲：10010557。\[60\]
 <td><p><a href="../Page/M_Countdown特別活動.md" title="wikilink">KCON</a> 2016 Japan</p></td>
 <td><p><a href="../Page/千葉縣.md" title="wikilink">千葉縣</a></p></td>
 <td><p><a href="../Page/幕張展覽館.md" title="wikilink">幕張展覽館</a></p></td>
-<td><p>[69]</p></td>
+<td><p>[68]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -786,7 +816,7 @@ K：10010197\[58\]、元弼：10010555\[59\]及度雲：10010557。\[60\]
 <td><p>KCON 2016 New York</p></td>
 <td><p><a href="../Page/纽约.md" title="wikilink">纽约</a></p></td>
 <td><p>普天壽中心</p></td>
-<td><p>[70]</p></td>
+<td><p>[69]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -795,14 +825,14 @@ K：10010197\[58\]、元弼：10010555\[59\]及度雲：10010557。\[60\]
 <td><p>KCON 2017 Japan</p></td>
 <td><p>千葉</p></td>
 <td><p>幕張展覽館</p></td>
-<td><p>[71]</p></td>
+<td><p>[70]</p></td>
 </tr>
 <tr class="odd">
 <td><p>8月19日</p></td>
 <td><p><a href="../Page/SUMMER_SONIC.md" title="wikilink">SUMMER SONIC</a> 2017 TOKYO</p></td>
 <td><p>東京</p></td>
 <td><p><a href="../Page/千葉海洋球場.md" title="wikilink">ZOZO海洋球場</a></p></td>
-<td><p>[72]</p></td>
+<td><p>[71]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -810,7 +840,7 @@ K：10010197\[58\]、元弼：10010555\[59\]及度雲：10010557。\[60\]
 <td><p>2018平昌冬奧倒數百日聖火傳遞慶祝KPOP演唱會</p></td>
 <td><p>首爾</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/光化門廣場" title="wikilink">光化門廣場</a></p></td>
-<td><p>[73]</p></td>
+<td><p>[72]</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -844,13 +874,13 @@ K：10010197\[58\]、元弼：10010555\[59\]及度雲：10010557。\[60\]
 | 2017年11月3日－5日                                | 首爾站       | Sangsang Madang                                |
 | Every Day6 Concert in December               |           |                                                |
 | 2017年12月22日－25日                              | 首爾站       | Yes24 Live Hall                                |
-| Every Day6 Concert in 釜山\[74\]               |           |                                                |
+| Every Day6 Concert in 釜山\[73\]               |           |                                                |
 | 2018年1月20日-21日                               | 釜山站       | Sohayng Theater                                |
 | Every Day6 Concert in 大邱                     |           |                                                |
 | 2018年1月27日                                   | 大邱站       | 수성아트피아                                         |
 | Every Day6 Concert in 大田                     |           |                                                |
 | 2018年2月10日                                   | 大田站       | 우송에술희관                                         |
-| Every Day6 Concert最終場「The Best Moment」\[75\] |           |                                                |
+| Every Day6 Concert最終場「The Best Moment」\[74\] |           |                                                |
 | 2018年3月3日－4日                                 | 首爾站       | Olympic Hall                                   |
 | DAY6 Christmas Special Concert 'The Present' |           |                                                |
 | 2018年12月22日－24日                              | 首爾站       | Blue Square I-Market Hall                      |
@@ -903,7 +933,7 @@ K：10010197\[58\]、元弼：10010555\[59\]及度雲：10010557。\[60\]
 <td><p>新人賞</p></td>
 <td><p>DAY6</p></td>
 <td></td>
-<td><p>[76]</p></td>
+<td><p>[75]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/首爾音樂獎" title="wikilink">首爾音樂獎</a></p></td>
@@ -911,7 +941,7 @@ K：10010197\[58\]、元弼：10010555\[59\]及度雲：10010557。\[60\]
 <td><p>本賞</p></td>
 <td><p>〈<a href="../Page/The_Day_(DAY6迷你專輯).md" title="wikilink">Congratulations</a>〉</p></td>
 <td></td>
-<td><p>[77]</p></td>
+<td><p>[76]</p></td>
 </tr>
 <tr class="odd">
 <td><p>新人賞</p></td>
@@ -934,7 +964,7 @@ K：10010197\[58\]、元弼：10010555\[59\]及度雲：10010557。\[60\]
 <td><p>2016年12月2日</p></td>
 <td></td>
 <td></td>
-<td><p>[78]</p></td>
+<td><p>[77]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -950,7 +980,7 @@ K：10010197\[58\]、元弼：10010555\[59\]及度雲：10010557。\[60\]
 <td><p>最佳樂團表演獎</p></td>
 <td><p>DAY6〈<a href="../Page/Sunrise_(Day6專輯).md" title="wikilink">I Smile</a>〉</p></td>
 <td></td>
-<td><p>[79]</p></td>
+<td><p>[78]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -967,7 +997,7 @@ K：10010197\[58\]、元弼：10010555\[59\]及度雲：10010557。\[60\]
 <td><p>搖滾獎</p></td>
 <td><p>DAY6〈<a href="../Page/Sunrise_(Day6專輯).md" title="wikilink">You Were Beautiful</a>〉</p></td>
 <td></td>
-<td><p>[80]</p></td>
+<td><p>[79]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC_Plus_X_Genie音乐奖" title="wikilink">MBC Plus X Genie音乐奖</a></p></td>
@@ -975,7 +1005,7 @@ K：10010197\[58\]、元弼：10010555\[59\]及度雲：10010557。\[60\]
 <td><p>年度歌曲</p></td>
 <td><p>DAY6〈<a href="../Page/Shoot_Me_:_Youth_Part_1.md" title="wikilink">Shoot Me</a>〉</p></td>
 <td></td>
-<td><p>[81]</p></td>
+<td><p>[80]</p></td>
 </tr>
 <tr class="odd">
 <td><p>最佳乐團音乐奖</p></td>
@@ -1250,13 +1280,12 @@ K：10010197\[58\]、元弼：10010555\[59\]及度雲：10010557。\[60\]
 72.
 73.
 74.
-75.
     allkpop.com|url=[https://www.allkpop.com/article/2018/01/day6-announce-encore-concert-every-day6-finale-concert-the-best-moments|website=allkpop|accessdate=2018-01-26|language=en|date=2018-01-26](https://www.allkpop.com/article/2018/01/day6-announce-encore-concert-every-day6-finale-concert-the-best-moments%7Cwebsite=allkpop%7Caccessdate=2018-01-26%7Clanguage=en%7Cdate=2018-01-26)}}
+75.
 76.
 77.
-78.
-79.  Asia No.1 Music
+78.  Asia No.1 Music
     Festival|url=[http://www.mwave.me/en/mama/nominees|website=mwave|publisher=cj](http://www.mwave.me/en/mama/nominees%7Cwebsite=mwave%7Cpublisher=cj)
     e\&m|accessdate=2017-11-26|language=en}}
+79.
 80.
-81.

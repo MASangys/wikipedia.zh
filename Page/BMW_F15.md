@@ -22,7 +22,7 @@ F15配备了BMW的驾驶者辅助系统。车内的多媒体显示器达到10.25
 
 ## 生产
 
-F15如同它的前作车型E70一样，都是由设于[南卡罗来纳州](../Page/南卡罗来纳州.md "wikilink")[格里尔的](https://zh.wikipedia.org/wiki/格里尔_\(南卡罗来纳州\) "wikilink")所生产。该车型有约30%的份额都在[北美市场销售](https://zh.wikipedia.org/wiki/北美 "wikilink")，其余70%则出口至全球140余个不同国家。除[X5外](../Page/BMW_X5.md "wikilink")，还有[X3](../Page/BMW_X3.md "wikilink")、[X4和](../Page/BMW_X4.md "wikilink")[X6也在当地生产](../Page/BMW_X6.md "wikilink")。\[10\]
+F15如同它的前作车型E70一样，都是由设于[南卡罗来纳州](../Page/南卡罗来纳州.md "wikilink")[格里尔的](../Page/格里尔_\(南卡罗来纳州\).md "wikilink")所生产。该车型有约30%的份额都在[北美市场销售](https://zh.wikipedia.org/wiki/北美 "wikilink")，其余70%则出口至全球140余个不同国家。除[X5外](../Page/BMW_X5.md "wikilink")，还有[X3](../Page/BMW_X3.md "wikilink")、[X4和](../Page/BMW_X4.md "wikilink")[X6也在当地生产](../Page/BMW_X6.md "wikilink")。\[10\]
 
 ## 技术参数
 

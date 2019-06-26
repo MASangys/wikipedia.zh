@@ -23,7 +23,14 @@ function p._getcolor( color )
 `       ["離任"] = "#99FF4D",`
 `       ["离任"] = "#99FF4D",`
 `       ["广告"] = "#EEFFDD",`
-`       ["廣告"] = "#EEFFDD"`
+`       ["廣告"] = "#EEFFDD";`
+`       ["評選"] = "#F9FFAD",`
+`       ["评选"] = "#F9FFAD",`
+`       ["分享"] = "#FAEBD7",`
+`       ["協作"] = "#007FFF",`
+`       ["协作"] = "#007FFF",`
+`       ["建議"] = "#00FFFF",`
+`       ["建议"] = "#00FFFF"`
 `   }`
 `   if colorlist[color] == nil then`
 `       return "transparent"`

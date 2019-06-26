@@ -16,7 +16,7 @@ One作为他的“主要”设备。在各种意义上这是一个“高端计�
 
 在2014年，Android
 One手机最初向[印度](../Page/印度.md "wikilink")、[孟加拉](https://zh.wikipedia.org/wiki/孟加拉 "wikilink")、[尼泊尔](../Page/尼泊尔.md "wikilink")\[9\]、[印尼](https://zh.wikipedia.org/wiki/印尼 "wikilink")、[菲律宾](https://zh.wikipedia.org/wiki/菲律宾 "wikilink")、[斯里兰卡和其他南亚国家推出](https://zh.wikipedia.org/wiki/斯里兰卡 "wikilink")。\[10\]第一批Android
-One智能手机是由印度品牌[Micromax](https://zh.wikipedia.org/wiki/Micromax "wikilink")、[Spice和](https://zh.wikipedia.org/wiki/Spice "wikilink")[Karbonn在](https://zh.wikipedia.org/wiki/Karbonn "wikilink")2014年9月推出，其他制造商如[巴基斯坦的](../Page/巴基斯坦.md "wikilink")[QMobile在](https://zh.wikipedia.org/wiki/QMobile "wikilink")2015年7月6日推出了名为[QMobile
+One智能手机是由印度品牌[Micromax](../Page/Micromax.md "wikilink")、[Spice和](https://zh.wikipedia.org/wiki/Spice "wikilink")[Karbonn在](https://zh.wikipedia.org/wiki/Karbonn "wikilink")2014年9月推出，其他制造商如[巴基斯坦的](../Page/巴基斯坦.md "wikilink")[QMobile在](https://zh.wikipedia.org/wiki/QMobile "wikilink")2015年7月6日推出了名为[QMobile
 A1的Android](https://zh.wikipedia.org/wiki/QMobile_A1 "wikilink")
 One设备\[11\]。其他生产商亦加入Android One。
 
@@ -27,8 +27,8 @@ Go](https://zh.wikipedia.org/wiki/Android_Go "wikilink")。
 U11 life](https://zh.wikipedia.org/wiki/HTC_U11_life "wikilink")、[Nokia
 8.1](https://zh.wikipedia.org/wiki/Nokia_8.1 "wikilink")、[Nokia 7
 plus](https://zh.wikipedia.org/wiki/Nokia_7_plus "wikilink")、[Nokia 8
-Sirocco](https://zh.wikipedia.org/wiki/Nokia_8_Sirocco "wikilink")、[Nokia
-6.1](https://zh.wikipedia.org/wiki/Nokia_6.1 "wikilink")、[Nokia 6.1
+Sirocco](../Page/Nokia_8_Sirocco.md "wikilink")、[Nokia
+6.1](../Page/Nokia_6.1.md "wikilink")、[Nokia 6.1
 Plus](https://zh.wikipedia.org/wiki/Nokia_6.1_Plus "wikilink")、Nokia
 3.1、[LG G7 One等等](https://zh.wikipedia.org/wiki/LG_G7_One "wikilink")。
 

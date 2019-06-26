@@ -299,7 +299,7 @@ Man**成員，或當日暫代缺席參演的**Running Man**成員中的暫代主
 </tr>
 <tr class="even">
 <td><p><a href="../Page/勝利_(歌手).md" title="wikilink">勝利</a>（승리）</p></td>
-<td><p>歌手組合（男）（<a href="https://zh.wikipedia.org/wiki/BIGBANG" title="wikilink">BIGBANG</a>）</p></td>
+<td><p>歌手組合（男）（前<a href="https://zh.wikipedia.org/wiki/BIGBANG" title="wikilink">BIGBANG成員</a>）</p></td>
 <td><p>030、084-085、163、190、250、416-417、436</p></td>
 <td><p>9</p></td>
 <td><p>7</p></td>
@@ -460,7 +460,7 @@ Man**成員，或當日暫代缺席參演的**Running Man**成員中的暫代主
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/裴秀智" title="wikilink">秀智</a>（수지）</p></td>
-<td><p>歌手組合（女）（<a href="https://zh.wikipedia.org/wiki/miss_A" title="wikilink">miss A</a>）</p></td>
+<td><p>歌手、演員（女）</p></td>
 <td><p>055、094、117、155、172-173、208</p></td>
 <td><p>7</p></td>
 <td><p>6</p></td>
@@ -2840,7 +2840,7 @@ Man**成員，或當日暫代缺席參演的**Running Man**成員中的暫代主
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/朴草娥" title="wikilink">草　娥</a>（초　아）</p></td>
-<td><p>歌手組合（女）（<a href="https://zh.wikipedia.org/wiki/AOA_(韓國)" title="wikilink">AOA</a>）</p></td>
+<td><p>歌手組合（女）（<a href="https://zh.wikipedia.org/wiki/AOA_(韓國)" title="wikilink">前AOA成員</a>）</p></td>
 <td><p>244</p></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
@@ -4239,7 +4239,7 @@ Man**成員，或當日暫代缺席參演的**Running Man**成員中的暫代主
 <td><p>2</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/李準基" title="wikilink">李準基</a>（이준기）</p></td>
+<td><p><a href="../Page/李準基.md" title="wikilink">李準基</a>（이준기）</p></td>
 <td><p>演員、模特兒、歌手（男）</p></td>
 <td><p>314</p></td>
 <td><p>1</p></td>
@@ -5479,7 +5479,7 @@ Man**成員，或當日暫代缺席參演的**Running Man**成員中的暫代主
 </tr>
 <tr class="even">
 <td><p><a href="../Page/珉娥.md" title="wikilink">珉娥</a>（민아）</p></td>
-<td><p>歌手組合（女）（<a href="../Page/AOA.md" title="wikilink">AOA</a>）</p></td>
+<td><p>歌手組合（女）（前<a href="../Page/AOA.md" title="wikilink">AOA成員</a>）</p></td>
 <td><p>436</p></td>
 <td><p>1</p></td>
 <td><p>1</p></td>

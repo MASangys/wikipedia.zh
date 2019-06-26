@@ -78,7 +78,7 @@ Thrift将由这个描述信息生成独立的代码。例如，在Java里，`Pho
   - Caucho的{{ link-en | Hessian | Hessian (Web service protocol) }}
   - [Google的](../Page/Google.md "wikilink")[Protocol
     Buffers](../Page/Protocol_Buffers.md "wikilink")
-  - [外部数据表示法](https://zh.wikipedia.org/wiki/外部数据表示法 "wikilink")
+  - [外部数据表示法](../Page/外部数据表示法.md "wikilink")
   - {{ link-en | ZeroC | ZeroC
     }}的[ICE](../Page/ICE_\(中间件\).md "wikilink")
   - {{ link-en | SDXF | SDXF }}（结构化数据交换格式）

@@ -1,6 +1,6 @@
 **SUNPLUS**，是由 [Sun
 Music](https://zh.wikipedia.org/wiki/Sun_Music "wikilink")
-組成的[日本年輕](../Page/日本.md "wikilink")[男演員團體](https://zh.wikipedia.org/wiki/演員 "wikilink")。\[1\]
+組成的[日本年輕](../Page/日本.md "wikilink")[男演員團體](../Page/演員.md "wikilink")。\[1\]
 
 ## 摘要
 

@@ -11,7 +11,7 @@ WePhone是一款基于[VoIP技术的移动社交](../Page/VoIP.md "wikilink")[�
 Works”，疑为[李开复旗下](https://zh.wikipedia.org/wiki/李开复 "wikilink")[创新工场](../Page/创新工场.md "wikilink")。不过“创新工场”发文表示，WePhone在应用商店上登录的公司名称与创新工场旧名“Innovation
 Works”相同仅为巧合，创新工场英文名早已更名为Sinovation Ventures\[8\]\[9\]。
 
-2017年9月7日，软件开发者兼创始人[苏享茂在家中自杀](../Page/苏享茂自杀事件.md "wikilink")。
+2017年9月7日，软件开发者兼创始人[苏享茂在家中自杀](../Page/苏享茂自杀事件.md "wikilink")\[10\]。
 
 ## 注释
 
@@ -33,3 +33,5 @@ Works”相同仅为巧合，创新工场英文名早已更名为Sinovation Vent
 
 8.
 9.
+
+10.

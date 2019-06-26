@@ -5,7 +5,7 @@ Sunshine\!\!](../Page/Love_Live!_Sunshine!!.md "wikilink")》系列角色介紹�
 
 <div class="notice metadata"  id="spoiler">
 
-<small>**※日文姓名、平假名注音和罗马字注音参考自LoveLive\!动画官网\[1\]，英文译名参考自LoveLive\!动画官网英文版\[2\]。英文名与[平文式罗马字不一致时](https://zh.wikipedia.org/wiki/平文式罗马字 "wikilink")，以*斜体*标注平文式罗马字。**</small>
+<small>**※日文姓名、平假名注音和罗马字注音参考自LoveLive\!动画官网\[1\]，英文译名参考自LoveLive\!动画官网英文版\[2\]。英文名与[平文式罗马字不一致时](../Page/平文式罗马字.md "wikilink")，以*斜体*标注平文式罗马字。**</small>
 
 </div>
 

@@ -13,7 +13,8 @@ REED獨立後](../Page/PRODUCTION_REED.md "wikilink")，於1998年設立此公�
 光之書與闇之書](https://zh.wikipedia.org/wiki/真·女神轉生_惡魔之子#真·女神轉生D_惡魔之子_光之書與闇之書 "wikilink")》由於製作狀況及出資者的意向等因素，自第27話起轉由[STUDIO
 COMET製作](../Page/STUDIO_COMET.md "wikilink")。
 
-2005年，發生導演[高松信司拒絕在](../Page/高松信司.md "wikilink")《[銀盤萬花筒](https://zh.wikipedia.org/wiki/銀盤萬花筒 "wikilink")》最終話署名（使用名義），而原作者亦對此有所批評等問題。
+2005年，發生導演[高松信司拒絕在](../Page/高松信司.md "wikilink")《[銀盤萬花筒](https://zh.wikipedia.org/wiki/銀盤萬花筒 "wikilink")》最終話署名（使用[Alan
+Smithee名義](https://zh.wikipedia.org/wiki/Alan_Smithee "wikilink")），而原作者亦對此有所批評等問題。
 
 2007年，《[萌單](../Page/萌單.md "wikilink")》第6話由於諸多原因而未在電視播放，僅收錄在DVD第4卷，代為播放的是總集篇性質的第5.5話。
 

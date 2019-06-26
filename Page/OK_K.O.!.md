@@ -45,7 +45,7 @@ Imaishi绘制](https://zh.wikipedia.org/wiki/Hiroyuki_Imaishi "wikilink")。
   -
     配音： David Herman
     英雄等級： 11
-    全名Eugene Garcia-Gar。體型强健的中年男性，英雄供應店嘎樂福的老闆，一直暗戀K.O.母親薇柔。
+    全名Eugene "El-Bow" Garcia-Gar。體型强健的中年男性，英雄供應店嘎樂福的老闆，一直暗戀K.O.母親薇柔。
     在"Legends of Mr. Gar," 中透露他們所在的商場其實是一個小小機械人，變成商場是為了能幫助像嘎Sir的其他英雄。
     曾經與薇柔為英雄團隊威猛局的成員。因為一次行動中只顧向薇柔送出三明治沒做好支援導致雷射砲喪生而一直非常內疚。
     "Point to the Plaza"跟過去威猛局的成員相處不愉快，原因並未提及。
@@ -55,7 +55,7 @@ Imaishi绘制](https://zh.wikipedia.org/wiki/Hiroyuki_Imaishi "wikilink")。
   -
     配音： Kate Flannery
     英雄等級： 11
-    全名Carol Kincaid。K.O.的母親，健身中心Fitness Emotions的老闆。
+    全名Carol "Silver Spark" Kincaid。K.O.的母親，健身中心Fitness Dojo的老闆。
     曾經與嘎Sir為英雄團隊威猛局的成員，當時名字為銀燿。
     在S01E40最後面在與不明人士連繫時透露雷射砲可能還存在。
 
@@ -133,6 +133,7 @@ Imaishi绘制](https://zh.wikipedia.org/wiki/Hiroyuki_Imaishi "wikilink")。
     配音： Melissa Villaseñor
     英雄等級： 3
     一位綠色頭髮的女拳擊手。曾經擔任K.O.保母。\[4\]
+    "Gar Trains Punching Judy"中提到她相當祟拜嘎Sir，以及他來自神拳家族，全家族都長了一雙強壯拳擊手臂。
 
 **Red Action**(赤红行动)
 

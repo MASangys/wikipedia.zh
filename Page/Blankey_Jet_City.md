@@ -4,7 +4,7 @@ City**，[日本三人摇滚乐队](../Page/日本.md "wikilink")，其风格为
 ## 成员
 
 [浅井健一](https://zh.wikipedia.org/wiki/浅井健一 "wikilink")（Asai
-Kenichi），出生于1964年12月29日，主唱兼[吉他手](../Page/吉他.md "wikilink")。他也是Sherbets，Jude以及Ajico的成员。并且，他还以个人名义发行了多张唱片。
+Kenichi），出生于1964年12月29日，主唱兼[吉他手](../Page/吉他.md "wikilink")。他也是[SHERBETS](../Page/SHERBETS.md "wikilink")，Jude以及Ajico的成员。并且，他还以个人名义发行了多张唱片。
 
 [照井利幸](https://zh.wikipedia.org/wiki/照井利幸 "wikilink")（Terui
 Toshiyuki），出生于1964年2月28日，[贝斯手](../Page/電貝斯.md "wikilink")，他还参与的乐队有Rosso，Raven等。

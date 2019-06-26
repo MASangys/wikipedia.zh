@@ -912,6 +912,7 @@ Vlive</p></td>
 [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
 [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
 [Category:2017年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年成立的音樂團體 "wikilink")
+[Category:期間限定團體](https://zh.wikipedia.org/wiki/Category:期間限定團體 "wikilink")
 [Category:JBJ](https://zh.wikipedia.org/wiki/Category:JBJ "wikilink")
 [Category:2017年韓國建立](https://zh.wikipedia.org/wiki/Category:2017年韓國建立 "wikilink")
 [Category:2018年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2018年解散的音樂團體 "wikilink")

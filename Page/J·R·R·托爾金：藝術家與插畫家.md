@@ -1,4 +1,4 @@
-《**J·R·R·托爾金：藝術家與插畫家**》（）是[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[語言學家](https://zh.wikipedia.org/wiki/語言學 "wikilink")、作家[J·R·R·托爾金的](../Page/J·R·R·托爾金.md "wikilink")[藝術作品集](https://zh.wikipedia.org/wiki/藝術 "wikilink")\[1\]\[2\]，出版於1995年，當時其已過世。該書由與編輯\[3\]。
+《**J·R·R·托爾金：藝術家與插畫家**》（）是[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[語言學家](https://zh.wikipedia.org/wiki/語言學 "wikilink")、作家[J·R·R·托爾金的](../Page/J·R·R·托爾金.md "wikilink")[藝術作品集](https://zh.wikipedia.org/wiki/藝術 "wikilink")\[1\]\[2\]，出版於1995年，當時其已過世。該書由[韋恩·G·哈蒙德與](../Page/韋恩·G·哈蒙德.md "wikilink")編輯\[3\]。
 
 托爾金教授是一名藝術家\[4\]，從童年時期就開始作畫。他最熱愛描繪[大自然中的花草樹木](https://zh.wikipedia.org/wiki/大自然 "wikilink")，也常為自己創作的文學作品繪製插圖。相比之下，其作品中[肖像畫較少](https://zh.wikipedia.org/wiki/肖像畫 "wikilink")\[5\]。
 

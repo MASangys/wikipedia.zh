@@ -62,7 +62,7 @@
 
   - ：[日本將棋棋士](https://zh.wikipedia.org/wiki/日本將棋 "wikilink")，於今年的將棋龍王戰現役引退。
 
-  - [鈴木亮平](../Page/鈴木亮平.md "wikilink")：[演員](https://zh.wikipedia.org/wiki/演員 "wikilink")，明年[大河劇](../Page/NHK大河劇.md "wikilink")《[西鄉殿](../Page/西鄉殿_\(大河劇\).md "wikilink")》中飾演主角・[西鄉隆盛](../Page/西鄉隆盛.md "wikilink")。
+  - [鈴木亮平](../Page/鈴木亮平.md "wikilink")：[演員](../Page/演員.md "wikilink")，明年[大河劇](../Page/NHK大河劇.md "wikilink")《[西鄉殿](../Page/西鄉殿_\(大河劇\).md "wikilink")》中飾演主角・[西鄉隆盛](../Page/西鄉隆盛.md "wikilink")。
 
   - [高橋一生](../Page/高橋一生.md "wikilink")：演員，於本年大河劇《[女城主
     直虎](../Page/女城主_直虎.md "wikilink")》飾演，同時於本年秋季[晨間劇](../Page/連續電視小說.md "wikilink")《[笑天家](../Page/笑天家.md "wikilink")》飾演伊能栞。

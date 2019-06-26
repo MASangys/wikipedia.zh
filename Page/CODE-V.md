@@ -9,15 +9,18 @@ Japan Debut Special Live in OSAKA》音樂會\[4\]。
 
 2017年4月，官方宣布成員佑錫因需照顧祖母，決定完成4月的活動後離團\[12\]。
 
+2018年12月23日，團體舉行《CODE-V LAST LIVE～The Final Harmony きみがくれた奇跡～supported
+by WIZY》演唱會後宣布解散\[13\]。
+
 CODE-V的團名分別代表著「Vision,Voice,Vital,Variety,Visual」，粉絲名稱為「MIRACLE」。
 
 ## 成員資料
 
-資料來自日本官方網站\[13\]，成員本名尚未正名，**隊長**以粗體表示。
+資料來自日本官方網站\[14\]，成員本名尚未正名，**隊長**以粗體表示。
 
 |              |
 | ------------ |
-| CODE-V現任成員   |
+| CODE-V解散前成員  |
 | 藝名           |
 | **英文**       |
 | **Sang Woo** |
@@ -464,6 +467,7 @@ CODE-V的團名分別代表著「Vision,Voice,Vital,Variety,Visual」，粉絲�
 [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
 [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
 [Category:2007年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2007年成立的音樂團體 "wikilink")
+[Category:2018年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2018年解散的音樂團體 "wikilink")
 
 1.
 
@@ -489,3 +493,5 @@ CODE-V的團名分別代表著「Vision,Voice,Vital,Variety,Visual」，粉絲�
 12.
 
 13.
+
+14.

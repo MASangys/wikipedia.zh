@@ -5,8 +5,8 @@ Capitan的后续版本](../Page/OS_X_El_Capitan.md "wikilink")，主要注重“
 Pay和](https://zh.wikipedia.org/wiki/Apple_Pay "wikilink")[Siri的支援](../Page/Siri.md "wikilink")。苹果公司将重新命名为macOS，匹配了同公司其他作業系统（[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[watchOS](https://zh.wikipedia.org/wiki/watchOS "wikilink")、[tvOS](https://zh.wikipedia.org/wiki/tvOS "wikilink")）的命名体系。macOS也呼应了历史上[Mac
 OS的命名](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")。
 
-macOS
-Sierra的名稱取自於[內華達山脈](../Page/內華達山脈_\(美國\).md "wikilink")，為一座橫跨於[加利福尼亞州與](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")[內華達州的山脈](https://zh.wikipedia.org/wiki/內華達州 "wikilink")，亦涵蓋著[優勝美地國家公園的大部分區域](../Page/優勝美地國家公園.md "wikilink")；有趣的是，macOS的[一個歷史版本亦有以優勝美地做為系統名稱](../Page/OS_X_Yosemite.md "wikilink")。
+macOS Sierra的名稱取自於[內華達山脈](../Page/內華達山脈_\(美國\).md "wikilink")（Sierra
+Nevada），為一座橫跨於[加利福尼亞州與](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")[內華達州的山脈](https://zh.wikipedia.org/wiki/內華達州 "wikilink")，亦涵蓋著[優勝美地國家公園的大部分區域](../Page/優勝美地國家公園.md "wikilink")；有趣的是，macOS的[一個歷史版本亦有以優勝美地做為系統名稱](../Page/OS_X_Yosemite.md "wikilink")。
 
 macOS
 Sierra的首个开发者预览于2016年[苹果全球开发者大会](../Page/苹果全球开发者大会.md "wikilink")6月13日的主题演讲后发布。macOS

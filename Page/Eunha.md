@@ -7,7 +7,7 @@ Hit娛樂擔任練習生](../Page/Big_Hit娛樂.md "wikilink")，擁有多年的
 
 ### 早期生涯
 
-銀河在1998年5月30日出生於[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[首爾特別市](https://zh.wikipedia.org/wiki/首爾特別市 "wikilink")\[2\]。她在7歲時確診患上，需一直接受治療和血液測試。直至小學6年級，她才完全康復，並證實病情不會再復發\[3\]。
+銀河在1997年5月30日出生於[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[首爾特別市](https://zh.wikipedia.org/wiki/首爾特別市 "wikilink")\[2\]。她在7歲時確診患上，需一直接受治療和血液測試。直至小學6年級，她才完全康復，並證實病情不會再復發\[3\]。
 
 2007年，銀河成為一位童星，並參與[KBS2劇集](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")「Love
 & War」（）的演出\[4\]。 她曾與[SinB一同成為](../Page/SinB.md "wikilink")[Big
@@ -105,17 +105,17 @@ Girl](https://zh.wikipedia.org/wiki/Oh_My_Girl "wikilink") 的
 </tbody>
 </table>
 
-### 合作單曲
+### 合作歌曲
 
-|        |                  |                                   |                                                          |
-| ------ | ---------------- | --------------------------------- | -------------------------------------------------------- |
-| 年份     | 日期               | 歌曲名稱                              | 備註                                                       |
-| 2015   | 10月21日           | 漢江的夜晚 （밤에 본 한강）                   | 與[Pro C](../Page/Pro_C.md "wikilink")                    |
-| 2016   | 5月25日            | 自卑心理（자격지심）                        | 與[朴經](../Page/朴經.md "wikilink")                          |
-| 10月12日 | Firefly（반딧불이）    | 與[黃致列](../Page/黃致列.md "wikilink") |                                                          |
-| 11月2日  | Chemistry (케미)   | 與[MC夢](../Page/MC夢.md "wikilink") |                                                          |
-| 2017   | 10月26日           | 左手右手（왼손 오른손）                      | 与[天地](https://zh.wikipedia.org/wiki/TEEN_TOP "wikilink") |
-| 11月3日  | 今天特别漂亮（오늘따라 예쁘다） | 与Yun DDan DDan                    |                                                          |
+|        |                  |                                  |                                                         |    |
+| ------ | ---------------- | -------------------------------- | ------------------------------------------------------- | -- |
+| 年份     | 日期               | 歌曲名稱                             | 合作艺人                                                    | 備註 |
+| 2015   | 10月21日           | 漢江的夜晚 （밤에 본 한강）                  | [Pro C](../Page/Pro_C.md "wikilink")                    |    |
+| 2016   | 5月25日            | 自卑心理（자격지심）                       | [朴經](../Page/朴經.md "wikilink")                          |    |
+| 10月12日 | Firefly（반딧불이）    | [黃致列](../Page/黃致列.md "wikilink") |                                                         |    |
+| 11月2日  | Chemistry (케미)   | [MC夢](../Page/MC夢.md "wikilink") |                                                         |    |
+| 2017   | 10月26日           | 左手右手（왼손 오른손）                     | [天地](https://zh.wikipedia.org/wiki/TEEN_TOP "wikilink") |    |
+| 11月3日  | 今天特别漂亮（오늘따라 예쁘다） | Yun DDan DDan                    |                                                         |    |
 
 ### 音樂現場
 

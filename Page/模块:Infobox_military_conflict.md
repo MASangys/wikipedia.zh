@@ -1,4 +1,4 @@
-\--本模块基于英文维基修改而来 require('Module:No globals')
+require('Module:No globals')
 
 local infoboxStyle = mw.loadData('Module:WPMILHIST Infobox style')
 
@@ -13,7 +13,7 @@ function IMC:renderPerCombatant(builder, headerText, prefix, suffix)
 `   -- This may result in colspans[1] getting set twice, but`
 `   -- this is no big deal. The second set will be correct.`
 `   local lastCombatant = 1`
-
+`   `
 `   for i = 1,self.combatants do`
 `       if self.args[prefix .. i .. suffix] then`
 `           colspans[lastCombatant] = i - lastCombatant`
@@ -52,7 +52,7 @@ function IMC:renderPerCombatant(builder, headerText, prefix, suffix)
 `                   :css('padding-left', i ~= 1 and '0.25em' or nil)`
 `                   -- don't show the border if we're directly under a header`
 `                   :css('border-top', not headerText and infoboxStyle.internal_border or nil)`
-`                   :css('font-size', '90%')`
+`                   :css('font-size', '90%') -- 中文维基添加`
 `                   :newline()`
 `                   :wikitext(self.args[prefix .. i .. suffix])`
 `           end`
@@ -64,10 +64,9 @@ function IMC:renderPerCombatant(builder, headerText, prefix, suffix)
 `           :tag('td')`
 `               :attr('colspan', self.combatants)`
 `               :css('text-align', 'center')`
-`        `
 `               -- don't show the border if we're directly under a header`
 `               :css('border-top', (not headerText or colspans[1]) and infoboxStyle.internal_border or nil)`
-`               :css('font-size', '90%')`
+`               :css('font-size', '90%') -- 中文维基添加`
 `               :newline()`
 `               :wikitext(jointText)`
 `   end`
@@ -77,8 +76,12 @@ end
 function IMC:renderHeaderTable(builder)
 
 `   builder = builder:tag('table')`
-`       :cssText('width:100%; margin:0; padding:0; border:0; ' .. infoboxStyle.box_label)`
-`       `
+`       :cssText(infoboxStyle.box_label) -- 中文维基添加`
+`       :css('width', '100%')`
+`       :css('margin', 0)`
+`       :css('padding', 0)`
+`       :css('border', 0)`
+
 `   if self.args.date then`
 `       builder:tag('tr')`
 `           :tag('th')`
@@ -97,13 +100,12 @@ function IMC:renderHeaderTable(builder)
 `           :wikitext('地点')`
 `       :done()`
 `       :tag('td')`
-`           :tag('span')`
+`           :tag('div')`
 `               :addClass('location')`
 `               :wikitext(self.args.place or '``') -- hack so that people who don't know Lua know that this parameter is required`
 `           :done()`
 `   if self.args.coordinates then`
-`       builder:wikitext('`
-`' .. self.args.coordinates)`
+`       builder:wikitext(self.args.coordinates)`
 `   end`
 `   builder = builder:done():done()`
 
@@ -112,6 +114,7 @@ function IMC:renderHeaderTable(builder)
 `       builder:tag('tr')`
 `           :tag('th')`
 `               :css('padding-right', '1em')`
+`               :css('white-space', 'nowrap')`
 `               :wikitext(self.args.action and '行动')`
 `           :done()`
 `           :tag('td')`
@@ -148,26 +151,26 @@ function IMC:render()
 
 `   local builder = mw.html.create()`
 `   if self.args.campaignbox then`
-`       builder = builder:tag('table')`
+`       -- this should be the same as using `
+`       builder = builder:tag('div')`
+`           :addClass('mw-stack mobile-float-reset')`
+`           :css('box-sizing', 'border-box')`
 `           :css('float', 'right')`
 `           :css('clear', 'right')`
-`           :css('background', 'transparent')`
-`           :css('margin', 0)`
-`           :css('padding', 0)`
-`           :addClass('mw-stack mobile-float-reset')`
-`       :attr('role', 'presentation') `
-`           :tag('tr'):tag('td')`
+`           :tag('div')`
+`               :css('overflow', 'hidden')`
+`               :css('margin', '1px')`
 `   end`
 `   builder = builder:tag('table')`
 `       :addClass('infobox vevent')`
-`       :cssText(infoboxStyle.main_box_raw_auto_width)`
-`       :css('width', self.args.width or '315px')`
+`       :cssText(infoboxStyle.main_box_raw)`
+`       :css('width', self.args.width or nil)`
 
 `   builder:tag('tr')`
 `       :tag('th')`
 `           :addClass('summary')`
 `           :attr('colspan', self.combatants)`
-`           :cssText(infoboxStyle.header_raw .. 'font-size:100%')`
+`           :cssText(infoboxStyle.header_raw .. 'font-size:100%') -- 中文维基修改`
 `           :wikitext(self.args.conflict or mw.title.getCurrentTitle().text)`
 `   if self.args.partof then`
 `       builder:tag('tr')`
@@ -201,7 +204,7 @@ function IMC:render()
 `       self:renderPerCombatant(builder, nil, 'combatant', v)`
 `   end`
 `   `
-`   self:renderPerCombatant(builder, '指挥官和领导者', 'commander')`
+`   self:renderPerCombatant(builder, '指挥官与领导者', 'commander')`
 `   self:renderPerCombatant(builder, '参战单位', 'units')`
 `   self:renderPerCombatant(builder, '兵力', 'strength')`
 `   self:renderPerCombatant(builder, '政治支持', 'polstrength')`
@@ -212,6 +215,7 @@ function IMC:render()
 `       builder:tag('tr')`
 `           :tag('td')`
 `               :attr('colspan', self.combatants)`
+`               -- :css('font-size', '90%') 中文维基去除`
 `               :css('border-top', infoboxStyle.section_border)`
 `               :newline()`
 `               :wikitext(self.args.notes)`
@@ -221,25 +225,27 @@ function IMC:render()
 `           :tag('td')`
 `               :attr('colspan', self.combatants)`
 `               :css('border-top', infoboxStyle.internal_border)`
-`               :tag('center')`
-`                   :node(require('Module:Location map').main(self.frame, {`
-`                       self.args.map_type,`
-`                       relief = self.args.map_relief,`
-`                       coordinates = self.args.coordinates,`
-`                       width = self.args.map_size or 220,`
-`                       float = 'center',`
-`                       border = 'none',`
-`                       mark = self.args.map_mark,`
-`                       marksize = self.args.map_marksize or 8,`
-`                       label = self.args.map_label,`
-`                       alt = self.args.map_alt,`
-`                       caption = self.args.map_caption or ('在' .. self.args.map_type .. '的位置')`
-`                   }))`
+`               :node(require('Module:Location map').main(self.frame, {`
+`                   self.args.map_type,`
+`                   relief = self.args.map_relief,`
+`                   coordinates = self.args.coordinates,`
+`                   width = self.args.map_size or 220,`
+`                   float = 'center',`
+`                   border = 'none',`
+`                   mark = self.args.map_mark,`
+`                   marksize = self.args.map_marksize or 8,`
+`                   label = self.args.map_label,`
+`                   alt = self.args.map_alt,`
+`                   caption = self.args.map_caption or ('在' `
+`                       .. (require('Module:Location map').data(self.frame, {self.args.map_type, 'name'})) .. '的位置')`
+`               }))`
 `   end`
 `   builder = builder:done()`
 `   if self.args.campaignbox then`
-`       builder = builder:done():done():tag('tr')`
-`           :tag('td')`
+`       builder = builder:done()`
+`           :tag('div')`
+`               :css('overflow', 'hidden')`
+`               :css('margin', '1px')`
 `               :wikitext(self.args.campaignbox)`
 `           :done()`
 `       :done()`

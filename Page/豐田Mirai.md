@@ -45,7 +45,7 @@ FCV概念車也採用豐田汽車的[油電複合動力技術](https://zh.wikipe
   - 2014年6月：豐田汽車對新聞媒體展示接近量產的FCV車款，公佈2015年初將於日本公開販售，售價約七百萬日幣\[37\]。
   - 2014年11月：豐田汽車對外發佈一則新聞稿和照片，詳列量產版燃料電池汽車的規格。也同時公開正式型號名稱為
     Mirai，取自日文「未來」\[38\]。
-  - 2015年4月：Mirai為首款擔任美國[NASCAR競速賽前導車的](../Page/全國運動汽車競賽協會.md "wikilink")[氫氣](https://zh.wikipedia.org/wiki/氫氣 "wikilink")[燃料電池車](https://zh.wikipedia.org/wiki/燃料電池車 "wikilink")，地點位於美國維吉尼亞州[里奇蒙市豐田賽車道](https://zh.wikipedia.org/wiki/里奇蒙_\(維吉尼亞州\) "wikilink")。
+  - 2015年4月：Mirai為首款擔任美國[NASCAR競速賽前導車的](../Page/全國運動汽車競賽協會.md "wikilink")[氫氣](../Page/氫氣.md "wikilink")[燃料電池車](https://zh.wikipedia.org/wiki/燃料電池車 "wikilink")，地點位於美國維吉尼亞州[里奇蒙市豐田賽車道](https://zh.wikipedia.org/wiki/里奇蒙_\(維吉尼亞州\) "wikilink")。
   - 2015年10月21日：美國[加州開始販售Mirai](https://zh.wikipedia.org/wiki/加州 "wikilink")，正為好萊塢電影《[回到未來II](../Page/回到未來II.md "wikilink")》預言30年後的「未來」時間點\[39\]。
 
 ### 測試
@@ -75,7 +75,7 @@ mL\[43\]。
 <table>
 <thead>
 <tr class="header">
-<th><p><a href="https://zh.wikipedia.org/wiki/氫氣" title="wikilink">氫氣</a><a href="https://zh.wikipedia.org/wiki/燃料電池車" title="wikilink">燃料電池車燃油經濟性</a>(MPG-e)比較表<br />
+<th><p><a href="../Page/氫氣.md" title="wikilink">氫氣</a><a href="https://zh.wikipedia.org/wiki/燃料電池車" title="wikilink">燃料電池車燃油經濟性</a>(MPG-e)比較表<br />
 限在美國加州地區可供租貸的 FCV 車款，並由<a href="https://zh.wikipedia.org/wiki/美國國家環境保護局" title="wikilink">美國國家環境保護局評定</a>[45]。</p></th>
 </tr>
 </thead>

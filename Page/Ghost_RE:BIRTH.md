@@ -158,13 +158,13 @@ RE:BIRTH**》（）是特摄片《[假面騎士Ghost](../Page/假面騎士Ghost.
 Ghost驅動器使用時音效為「Pride！Greed！Lust！Wrath！Envy！Gluttony！Sloth！Break！Deadly Sin！」<br />
 （日文原文）。<br />
 所發動七式必殺技的音效分別為：<br />
-「Wrath Flame！」（日文原文，中文意思「憤怒！」）<br />
-「Sloth Glaive！」（日文原文，中文意思「怠惰！」）<br />
-「Gluttony Bite！」（日文原文，中文意思「暴食！」）<br />
-「Lust Barrett！」（日文原文，中文意思「色慾！」）<br />
-「Envy Slap！」（日文原文，中文意思「嫉妒！」）<br />
-「Greed Slash！」（日文原文，中文意思「強慾！」）<br />
-「Pride Fist！」（日文原文，中文意思「傲慢！」）</p></td>
+「Wrath Flame！」（日文原文，中文意思「憤怒烈火！」）<br />
+「Sloth Glaive！」（日文原文，中文意思「怠惰斬劍！」）<br />
+「Gluttony Bite！」（日文原文，中文意思「暴食咬擊！」）<br />
+「Lust Barrett！」（日文原文，中文意思「色慾火炮！」）<br />
+「Envy Slap！」（日文原文，中文意思「嫉妒擊拍！」）<br />
+「Greed Slash！」（日文原文，中文意思「強慾劈斬！」）<br />
+「Pride Fist！」（日文原文，中文意思「傲慢拳頭！」）</p></td>
 </tr>
 <tr class="even">
 <td><p>Yujou Burst</p></td>
@@ -200,6 +200,7 @@ Ghost驅動器使用時音效為「Pride！Greed！Lust！Wrath！Envy！Glutton
     原文：
     CV：James小野田
     人類身份：丹通
+    丹通所變身的怪人樣貌
 
 ### 商品詳情
 

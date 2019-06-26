@@ -193,7 +193,7 @@ Circle”演唱，歌曲由aokado作曲并编曲。由土屋隆俊导演的MV中
   - HKT48 Team H：[田中菜津美](../Page/田中菜津美.md "wikilink")（第16名）
   - HKT48 Team TII：[松岡花](../Page/松岡花.md "wikilink")（第5名）
   - NGT48 Team
-    NIII：[中井莉加](../Page/中井莉加.md "wikilink")（第15名）、[山口真帆](https://zh.wikipedia.org/wiki/山口真帆 "wikilink")（第11名）
+    NIII：[中井莉加](../Page/中井莉加.md "wikilink")（第15名）、[山口真帆](../Page/山口真帆.md "wikilink")（第11名）
 
 ### Better
 

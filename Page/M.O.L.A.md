@@ -1,8 +1,7 @@
 *' M.O.L.A**（），意指"**Make Our Life
 Awesome*'"，於2015年組成的創作團體，於網絡平台發表音樂創作及Cover，成員來自不同經紀公司和團體，有[UNIQ的](../Page/UNIQ.md "wikilink")[曹承衍](../Page/曹承衍.md "wikilink")、Nathan、[15&的](https://zh.wikipedia.org/wiki/15& "wikilink")[朴智敏](../Page/朴智敏.md "wikilink")。\[1\]\[2\]\[3\]\[4\]\[5\]
-
 2017年，加入新成員[PENTAGON的](../Page/Pentagon_\(男子組合\).md "wikilink")[Kino](https://zh.wikipedia.org/wiki/姜炯求 "wikilink")、[SEVENTEEN的](../Page/Seventeen_\(組合\).md "wikilink")[Vernon](https://zh.wikipedia.org/wiki/崔韓率 "wikilink")。\[6\]\[7\]
-其後，加入新成員HOHO。
+其後，再加入新成員HOHO。
 
 ## 成員資料
 
@@ -74,7 +73,7 @@ Awesome*'"，於2015年組成的創作團體，於網絡平台發表音樂創作
 <td><p>HOHO</p></td>
 <td><p>金豪鉉</p></td>
 <td><p>김호현</p></td>
-<td><p>-</p></td>
+<td><p>Kim Ho Hyun</p></td>
 <td><p>-</p></td>
 <td><p>－</p></td>
 <td><p>－</p></td>

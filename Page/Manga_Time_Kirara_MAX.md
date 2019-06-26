@@ -94,7 +94,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p><a href="../Page/黃金拼圖.md" title="wikilink">黃金拼圖</a></p></td>
 <td></td>
 <td><p><a href="../Page/原悠衣.md" title="wikilink">原悠衣</a></p></td>
-<td><p>2010年2月号-3月号</p></td>
+<td><p>2010年2-3月号</p></td>
 <td><p>2010年6月号</p></td>
 <td></td>
 </tr>
@@ -110,7 +110,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p><a href="../Page/斯特拉的魔法.md" title="wikilink">斯特拉的魔法</a></p></td>
 <td></td>
 <td><p><a href="../Page/Cloba·U.md" title="wikilink">黑叶・U</a></p></td>
-<td><p>2012年10月号-11月号</p></td>
+<td><p>2012年10-11月号</p></td>
 <td><p>2013年2月号</p></td>
 <td><p>在杂志官网设有主页</p></td>
 </tr>
@@ -118,7 +118,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p><a href="../Page/漫画女孩.md" title="wikilink">漫画女孩</a></p></td>
 <td></td>
 <td><p><a href="../Page/半泽香织.md" title="wikilink">半泽香织</a></p></td>
-<td><p>2014年5月号-7月号</p></td>
+<td><p>2014年5-7月号</p></td>
 <td><p>2014年8月号</p></td>
 <td></td>
 </tr>
@@ -135,27 +135,19 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td></td>
 <td></td>
 <td></td>
-<td><p>2017年5月号-6月号</p></td>
-<td><p>2017年8月号</p></td>
-<td><p>2019年7月号完结</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td><p>2017年6月号-8月号</p></td>
-<td><p>2017年9月号</p></td>
-<td><p>2019年7月号完结</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td><p>2017年7月号-8月号</p></td>
+<td><p>2017年7-8月号</p></td>
 <td><p>2017年11月号</p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>食物语</p></td>
+<td></td>
+<td><p>電柱棒</p></td>
+<td><p>2017年9-11月号</p></td>
+<td><p>2018年1月号</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -163,35 +155,43 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>2018年3月号</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
-<td><p>2018年2月号-4月号</p></td>
+<td><p>2018年2-4月号</p></td>
 <td><p>2018年5月号</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
-<td><p>2018年1月号-4月号</p></td>
+<td><p>2018年1-4月号</p></td>
 <td><p>2018年6月号</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td><p>户田大贵</p></td>
-<td><p>2018年8月号-9月号</p></td>
+<td><p>2018年8-9月号</p></td>
 <td><p>2018年11月号</p></td>
 <td></td>
 </tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td><p>2018年8-9月号</p></td>
+<td><p>2018年12月号</p></td>
+<td></td>
+</tr>
 <tr class="odd">
 <td></td>
 <td></td>
 <td></td>
-<td><p>2018年8月号-9月号</p></td>
+<td><p>2018年8-9月号</p></td>
 <td><p>2018年12月号</p></td>
 <td></td>
 </tr>
@@ -199,19 +199,11 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td></td>
 <td></td>
 <td></td>
-<td><p>2018年8月号-9月号</p></td>
-<td><p>2018年12月号</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td><p>2018年9月号-11月号</p></td>
+<td><p>2018年9-11月号</p></td>
 <td><p>2019年1月号</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td><p>春雨</p></td>
@@ -219,7 +211,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>2019年1月号</p></td>
 <td><p>宽幅四格</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td><p>森永</p></td>
@@ -227,21 +219,21 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>2019年3月号</p></td>
 <td></td>
 </tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td><p>宇崎</p></td>
-<td><p>2019年2月号-4月号</p></td>
-<td><p>2019年6月号</p></td>
-<td></td>
-</tr>
 <tr class="odd">
 <td></td>
 <td></td>
+<td><p>宇崎</p></td>
+<td><p>2019年2-4月号</p></td>
+<td><p>2019年6月号</p></td>
 <td></td>
-<td><p>2019年1月号-3月号</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td><p>2019年1-3月号</p></td>
 <td><p>2019年7月号</p></td>
-<td></td>
+<td><p>&lt;!--|-</p></td>
 </tr>
 </tbody>
 </table>
@@ -1449,6 +1441,24 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>2016年11-12月号</p></td>
 <td><p>2017年2月号</p></td>
 <td><p>2018年1月号</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td><p>2017年5-6月号</p></td>
+<td><p>2017年8月号</p></td>
+<td><p>2019年7月号</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td><p>2017年6-8月号</p></td>
+<td><p>2017年9月号</p></td>
+<td><p>2019年7月号</p></td>
 <td></td>
 </tr>
 <tr class="odd">

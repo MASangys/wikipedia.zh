@@ -36,7 +36,7 @@ Canyon發行](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
 
 ## 逸話
 
-  - [演員](https://zh.wikipedia.org/wiki/演員 "wikilink")[仲間由紀惠曾說自己在國中時期是](https://zh.wikipedia.org/wiki/仲間由紀惠 "wikilink")《亂馬》的大粉絲。因此在2003年，仲間上電視節目「[24小時電視
+  - [演員](../Page/演員.md "wikilink")[仲間由紀惠曾說自己在國中時期是](https://zh.wikipedia.org/wiki/仲間由紀惠 "wikilink")《亂馬》的大粉絲。因此在2003年，仲間上電視節目「[24小時電視
     「愛心救地球」](../Page/24小時電視_「愛心救地球」.md "wikilink")」時，曾主動要求節目點播『EQUAL羅曼史』這首歌曲。
 
 ## 相關項目

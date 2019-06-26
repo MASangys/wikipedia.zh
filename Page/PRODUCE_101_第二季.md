@@ -2667,7 +2667,7 @@ The 男子漢</p></td>
 </tr>
 <tr class="odd">
 <td><p>45</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金在奐" title="wikilink">金在奐</a></p></td>
+<td><p><a href="../Page/金在奐.md" title="wikilink">金在奐</a></p></td>
 <td><p>김재환</p></td>
 <td><p>個人練習生</p></td>
 <td></td>

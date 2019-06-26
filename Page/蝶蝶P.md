@@ -1,7 +1,9 @@
 **蝶蝶P**（）是[日本的音乐创作家](../Page/日本.md "wikilink")。在不使用[VOCALOID时以](../Page/VOCALOID.md "wikilink")**papiyon**名称活动，作为创作歌手时也使用**一之濑yuu**（）的名称。[长野县人](https://zh.wikipedia.org/wiki/长野县 "wikilink")
-\[1\]，血型是B型\[2\]。
+\[1\]，血型是B型<ref name="ボカロPライフ">
 
-使用初音未来等语音合成技术VOCALOID的音源作为主唱，常发表使用钢琴开头的摇滚乐曲，吸引了许多听众。\[3\]
+</ref>。
+
+使用初音未来等语音合成技术VOCALOID的音源作为主唱，常发表使用钢琴开头的摇滚乐曲，吸引了许多听众。\[2\]
 
 ## 参见
 
@@ -23,9 +25,7 @@
     </font>feat.初音未来](http://cyoucyo.com/)
 
   -
-[Category:含有未命名参数的引用的页面](https://zh.wikipedia.org/wiki/Category:含有未命名参数的引用的页面 "wikilink")
 [Category:含有缺少标题的引用的页面](https://zh.wikipedia.org/wiki/Category:含有缺少标题的引用的页面 "wikilink")
-[Category:含有未命名参数的引用的页面](https://zh.wikipedia.org/wiki/Category:含有未命名参数的引用的页面 "wikilink")
 [Category:使用Vocaloid的音樂家](https://zh.wikipedia.org/wiki/Category:使用Vocaloid的音樂家 "wikilink")
 [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
 [Category:日本音樂家](https://zh.wikipedia.org/wiki/Category:日本音樂家 "wikilink")
@@ -34,4 +34,3 @@
 1.  インターネットラジオステーション音泉 「SCRUM Radio～らむらじ～
     第276回放送(2017.12.20配信)」でのゲスト出演トークより。
 2.
-3.

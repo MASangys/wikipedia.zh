@@ -125,7 +125,7 @@
 <a href="../Page/呂珍九.md" title="wikilink">呂珍九</a></p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS炭峴製作中心</a><br />
 <small>（<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/高陽市.md" title="wikilink">高陽市</a><br />
-<a href="https://zh.wikipedia.org/wiki/一山西區" title="wikilink">一山西區</a>）</small></p></td>
+<a href="../Page/一山西區.md" title="wikilink">一山西區</a>）</small></p></td>
 <td><p><span style=font-size:110%><strong>來自香港的信</strong></span><br />
 <span style=color:#0000FF><strong>劉在錫、呂珍九</strong></span><br />
 <span style=color:#008000><strong>池錫辰、李光洙</strong></span><br />

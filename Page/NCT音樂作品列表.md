@@ -352,8 +352,6 @@ Repackage</p></td>
 
 ## 單曲作品
 
-### 單曲
-
 <table>
 <thead>
 <tr class="header">
@@ -591,11 +589,11 @@ World</a><br />
 <table>
 <thead>
 <tr class="header">
-<th><p>歌曲名稱</p></th>
 <th><p>年份</p></th>
-<th><p>日期</p></th>
+<th><p>發布日期</p></th>
+<th><p>歌曲名稱</p></th>
 <th><p>參與成員</p></th>
-<th><p>合作對象</p></th>
+<th><p>合作藝人</p></th>
 </tr>
 </thead>
 <tbody>
@@ -607,25 +605,23 @@ World</a><br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Taste the Feeling</p></td>
 <td><p>2016年</p></td>
 <td><p>7月29日</p></td>
-<td><p>NCT 127</p></td>
-<td><p><small><a href="../Page/可口可乐.md" title="wikilink">可口可乐</a></small></p></td>
+<td><p>Taste The Feeling</p></td>
+<td><p>NCT 127<br />
+（泰一、泰容、悠太、在玹、昀昀、Mark、楷燦）</p></td>
+<td></td>
 </tr>
 <tr class="odd">
+<td><p>10月27日</p></td>
 <td><p>Nightmare</p></td>
-<td><p>10月28日</p></td>
-<td><p>Johnny（僅作為DJ出演）</p></td>
-<td><p><small><a href="../Page/尹度玹.md" title="wikilink">尹度玹</a><br />
-<a href="https://zh.wikipedia.org/wiki/Reddy" title="wikilink">Reddy</a><br />
-<a href="https://zh.wikipedia.org/wiki/G2_(歌手)" title="wikilink">G2</a><br />
-Inlayer</small></p></td>
+<td><p>Johnny（作为DJ出演）</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Sound of Your Heart</p></td>
 <td><p>12月30日</p></td>
+<td><p>你的聲音（Sound of Your Heart）</p></td>
 <td><p>泰一、道英</p></td>
 <td><p><small><a href="../Page/藝聲.md" title="wikilink">藝聲</a>（<a href="../Page/Super_Junior.md" title="wikilink">Super Junior</a>）<br />
 <a href="https://zh.wikipedia.org/wiki/珊妮" title="wikilink">珊妮</a>（<a href="../Page/少女时代.md" title="wikilink">少女时代</a>）<br />
@@ -642,73 +638,71 @@ Inlayer</small></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>夢中夢<br />
-<small>（Dream In A Dream）</small></p></td>
 <td><p>2017年</p></td>
 <td><p>4月7日</p></td>
-<td><p>Ten</p></td>
+<td><p>夢中夢（Dream In A Dream）</p></td>
+<td><p>Ten、</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Around</p></td>
 <td><p>5月12日</p></td>
+<td><p>Around</p></td>
 <td><p>泰容</p></td>
-<td><p><small>Hitchhiker</small></p></td>
+<td><p>Hitchhiker</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Young &amp; Free</p></td>
 <td><p>7月7日</p></td>
+<td><p>Young &amp; Free</p></td>
 <td><p>Mark</p></td>
-<td><p><small><a href="../Page/Xiumin.md" title="wikilink">Xiumin</a> ( <a href="../Page/EXO.md" title="wikilink">EXO</a> )</small></p></td>
+<td><p><a href="../Page/Xiumin.md" title="wikilink">Xiumin</a>（<a href="../Page/EXO.md" title="wikilink">EXO</a>）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Lemonade Love</p></td>
 <td><p>7月21日</p></td>
-<td><p><small>朴宰正</small></p></td>
+<td><p>Lemonade Love</p></td>
+<td><p>朴宰正</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>一起 (Cure)</p></td>
 <td><p>8月5日</p></td>
+<td><p>一起 ( Cure )</p></td>
 <td><p>泰容</p></td>
-<td><p><small><a href="../Page/劉英振.md" title="wikilink">劉英振</a></small></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/刘英振" title="wikilink">刘英振</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>星光綻放時<br />
-<small>（Star Blossom）</small></p></td>
 <td><p>10月13日</p></td>
+<td><p>星光綻放時（Star Blossom）</p></td>
 <td><p>道英</p></td>
-<td><p><small><a href="https://zh.wikipedia.org/wiki/金世正" title="wikilink">金世正</a> （<a href="https://zh.wikipedia.org/wiki/gu9udan" title="wikilink">gu9udan</a>）</small></p></td>
+<td><p><a href="../Page/世正.md" title="wikilink">世正</a>（<a href="https://zh.wikipedia.org/wiki/gugudan" title="wikilink">gugudan</a>）</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Try Again</p></td>
 <td><p>11月24日</p></td>
+<td><p>Try Again</p></td>
 <td><p>在玹</p></td>
-<td><p><small>d.ear</small></p></td>
+<td><p>d.ear</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Joy</p></td>
 <td><p>12月15日</p></td>
+<td><p>Joy</p></td>
 <td><p>NCT Dream</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>永恆（Timeless）</p></td>
 <td><p>2018年</p></td>
 <td><p>1月12日</p></td>
+<td><p>永恆（Timeless）</p></td>
 <td><p>NCT U（泰一、道英、在玹）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>New Heroes</p></td>
 <td><p>4月6日</p></td>
+<td><p>New Heroes</p></td>
 <td><p>Ten</p></td>
 <td></td>
 <td></td>
@@ -721,237 +715,198 @@ Inlayer</small></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Hair in the Air</p></td>
 <td><p>2018年</p></td>
-<td><p>12月13日</p></td>
-<td><p>仁俊、Jeno、渽民<br />
-楷灿、辰乐、志晟演唱收录曲《Best Day Ever》</p></td>
-<td><p><small><a href="../Page/Yeri.md" title="wikilink">Yeri</a>（Red Velvet）</small></p></td>
+<td><p>11月29日</p></td>
+<td><p>Coffee Break</p></td>
+<td><p>Lucas</p></td>
+<td><p>Jonah Nilsson（）</p></td>
 </tr>
 <tr class="even">
-<td><p>謝謝我的愛<br />
-<small>（Candle Light）</small></p></td>
+<td><p>12月13日</p></td>
+<td><p>Hair in the Air</p></td>
+<td><p>NCT Dream（仁俊、Jeno、渽民）</p></td>
+<td><p><a href="../Page/Yeri.md" title="wikilink">Yeri</a>（Red Velvet）</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Best Day Ever</p></td>
+<td><p>NCT Dream（楷灿、辰乐、志晟）</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>12月27日</p></td>
+<td><p>謝謝我的愛 （Candle Light）</p></td>
 <td><p>NCT Dream</p></td>
 <td></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>2019年</p></td>
+<td><p>6月6日</p></td>
+<td><p>Don't Need Your Love</p></td>
+<td><p>NCT Dream（缺楷灿）</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
-
-### 其他單曲
-
-| 歌曲名稱              | 年份    | 參與成員                  | 備註                                                                    |
-| ----------------- | ----- | --------------------- | --------------------------------------------------------------------- |
-| NCT Dream         |       |                       |                                                                       |
-| Trigger The Fever | 2017年 | Mark、仁俊、Jeno、楷燦、辰樂、志晟 | [FIFA U-20 世界盃 KOREA 2017主題曲](../Page/2017年國際足協U-20世界盃.md "wikilink") |
 
 ## OST
 
 <table>
 <thead>
 <tr class="header">
+<th><p>年份</p></th>
+<th><p>發佈日期</p></th>
 <th><p>電視台</p></th>
+<th><p>電視劇/节目</p></th>
 <th><p>歌曲名稱</p></th>
 <th><p>參與成員</p></th>
-<th><p>電視劇/节目</p></th>
+<th><p>合作藝人</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/韓國放送公社.md" title="wikilink">KBS</a></p></td>
-<td><p>因為你（단 한 사람）</p></td>
+<td><p>2016年</p></td>
+<td><p>1月27日</p></td>
+<td><p>|<a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
+<td><p>《<a href="../Page/生意之神－客主2015.md" title="wikilink">生意之神－客主2015</a>》</p></td>
+<td><p>因為你<br />
+（단 한 사람）</p></td>
 <td><p>泰一</p></td>
-<td><p>《<a href="../Page/生意之神－客主2015.md" title="wikilink">生意之神－客主2015</a> OST Part 2》</p>
-<ul>
-<li>發行日期：2016年1月27日</li>
-</ul></td>
+<td></td>
 </tr>
 <tr class="even">
+<td><p>7月10日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/OCN_(频道)" title="wikilink">OCN</a></p></td>
+<td><p>《<a href="../Page/38師機動隊.md" title="wikilink">38師機動隊</a>》</p></td>
 <td><p>Cool</p></td>
-<td><p>道英 （與<a href="https://zh.wikipedia.org/wiki/Key_(歌手)" title="wikilink">Key</a>）</p></td>
-<td><p>《<a href="../Page/38師機動隊.md" title="wikilink">38師機動隊</a> OST Part 2》</p>
-<ul>
-<li>發行日期：2016年7月10日</li>
-</ul></td>
+<td><p>道英</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Key_(歌手)" title="wikilink">Key</a></p></td>
+<td></td>
 </tr>
 <tr class="odd">
+<td><p>10月25日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
-<td><p>我要走進你的心（니 맘에 들어갈래）</p></td>
-<td><p>Mark （與<a href="https://zh.wikipedia.org/wiki/刘宪华" title="wikilink">Henry</a>）</p></td>
-<td><p>《<a href="../Page/住在我家的男人.md" title="wikilink">住在我家的男人</a> OST Part 2》</p>
-<ul>
-<li>發行日期：2016年10月25日</li>
-</ul></td>
+<td><p>《<a href="../Page/住在我家的男人.md" title="wikilink">住在我家的男人</a>》</p></td>
+<td><p>我要走進你的心<br />
+（니 맘에 들어갈래）</p></td>
+<td><p>Mark</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/刘宪华" title="wikilink">Henry</a></p></td>
+<td></td>
 </tr>
 <tr class="even">
-<td><p>KBS</p></td>
+<td><p>2017年</p></td>
+<td><p>8月7日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
+<td><p>《<a href="../Page/學校2017.md" title="wikilink">學校2017</a>》</p></td>
 <td><p>Stay In My Life</p></td>
 <td><p>泰一、泰容、道英</p></td>
-<td><p>《<a href="../Page/學校2017.md" title="wikilink">學校2017</a> OST Part 4》</p>
-<ul>
-<li>發行日期：2017年8月7日</li>
-</ul></td>
+<td></td>
 </tr>
 <tr class="odd">
+<td><p>2018年</p></td>
+<td><p>1月30日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS_2TV" title="wikilink">KBS 2TV</a></p></td>
+<td><p>《<a href="../Page/Radio_Romance.md" title="wikilink">Radio Romance</a>》</p></td>
 <td><p>Radio Romance</p></td>
 <td><p>泰一、道英</p></td>
-<td><p>《<a href="../Page/Radio_Romance.md" title="wikilink">Radio Romance</a> OST Part 1》</p>
-<ul>
-<li>發行日期：2018年1月30日</li>
-</ul></td>
+<td></td>
 </tr>
 <tr class="even">
+<td><p>6月9日</p></td>
 <td><p><a href="../Page/每日广播.md" title="wikilink">MBN</a><br />
 Drama X</p></td>
+<td><p>《<a href="../Page/Rich_Man.md" title="wikilink">Rich Man</a>》</p></td>
 <td><p>Hard for me</p></td>
 <td><p>道英</p></td>
-<td><p>《<a href="../Page/Rich_Man.md" title="wikilink">Rich Man</a> OST Part 5》</p>
-<ul>
-<li>發行日期：2018年6月9日</li>
-</ul></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
-<td><p>網路電影[1]</p></td>
-<td><p>New Dream</p></td>
+<td><p>9月7日</p></td>
+<td><p>網路電影</p></td>
+<td><p>《獨孤Rewind》</p></td>
+<td><p>New Dream[1]</p></td>
 <td><p>泰一、在玹</p></td>
-<td><p>《獨孤Rewind OST 》</p>
-<ul>
-<li>發行日期：2018年9月7日</li>
-</ul></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
+<td><p>10月17日</p></td>
 <td><p>KBS 2TV</p></td>
-<td><p>名為我的夢（나라는 꿈 가사）</p></td>
-<td><p>Mark （與<a href="../Page/Joy_(Red_Velvet).md" title="wikilink">Joy</a>）</p></td>
-<td><p>《今天的偵探 OST Part 6》</p>
-<ul>
-<li>發行日期：2018年10月17日</li>
-</ul></td>
+<td><p>《今天的偵探》</p></td>
+<td><p>名為我的夢<br />
+（나라는 꿈 가사）</p></td>
+<td><p>Mark</p></td>
+<td><p><a href="../Page/Joy_(Red_Velvet).md" title="wikilink">Joy</a></p></td>
+<td></td>
 </tr>
 <tr class="odd">
+<td><p>2019年</p></td>
+<td><p>3月25日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/湖南衛視" title="wikilink">湖南衛視</a></p></td>
+<td><p>《我們的師父》</p></td>
 <td><p>我們的師父</p></td>
-<td><p>昀昀 （與<a href="https://zh.wikipedia.org/wiki/於曉光" title="wikilink">於曉光</a>、<a href="https://zh.wikipedia.org/wiki/大張偉" title="wikilink">大張偉</a>、<a href="https://zh.wikipedia.org/wiki/劉宇寧" title="wikilink">劉宇寧</a>）</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/我們的師父" title="wikilink">我們的師父</a> 節目同名主題曲》</p>
-<ul>
-<li>發行日期：2019年3月25日</li>
-</ul></td>
+<td><p>昀昀</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/於曉光" title="wikilink">於曉光</a>、<a href="https://zh.wikipedia.org/wiki/大張偉" title="wikilink">大張偉</a>、<a href="https://zh.wikipedia.org/wiki/劉宇寧" title="wikilink">劉宇寧</a></p></td>
 </tr>
 <tr class="even">
+<td><p>4月22日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/浙江衛視" title="wikilink">浙江衛視</a></p></td>
+<td><p>《<a href="../Page/奔跑吧.md" title="wikilink">奔跑吧3</a>》</p></td>
 <td><p>造億萬噸光芒</p></td>
-<td><p>Lucas （與<a href="../Page/李晨_(演员).md" title="wikilink">李晨</a>、<a href="../Page/Angelababy.md" title="wikilink">Angelababy</a>、<a href="https://zh.wikipedia.org/wiki/鄭愷" title="wikilink">鄭愷</a>、<br />
-<a href="https://zh.wikipedia.org/wiki/朱亞文" title="wikilink">朱亞文</a>、<a href="https://zh.wikipedia.org/wiki/王彥霖" title="wikilink">王彥霖</a>、<a href="../Page/宋雨琦.md" title="wikilink">宋雨琦</a>）</p></td>
-<td><p>《<a href="../Page/奔跑吧.md" title="wikilink">奔跑吧3</a> 主題曲》</p>
-<ul>
-<li>發行日期：2019年4月22日</li>
-</ul></td>
+<td><p>Lucas</p></td>
+<td><p><a href="../Page/李晨_(演员).md" title="wikilink">李晨</a>、<a href="../Page/Angelababy.md" title="wikilink">Angelababy</a>、<a href="https://zh.wikipedia.org/wiki/鄭愷" title="wikilink">鄭愷</a>、<br />
+<a href="https://zh.wikipedia.org/wiki/朱亞文" title="wikilink">朱亞文</a>、<a href="https://zh.wikipedia.org/wiki/王彥霖" title="wikilink">王彥霖</a>、<a href="../Page/宋雨琦.md" title="wikilink">宋雨琦</a></p></td>
+<td></td>
 </tr>
 </tbody>
 </table>
 
-## 合作歌曲
+## 廣告/宣傳歌曲
 
 <table>
 <thead>
 <tr class="header">
-<th><p>歌曲名稱</p></th>
 <th><p>年份</p></th>
-<th><p>排行榜<br />
-最高位置</p></th>
-<th><p>銷量<small>（<a href="../Page/數位音樂下載.md" title="wikilink">DL</a>）</small></p></th>
+<th><p>發佈日期</p></th>
+<th><p>歌曲名稱</p></th>
 <th><p>參與成員</p></th>
+<th><p>合作藝人</p></th>
 <th><p>備註</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Gaon_Chart" title="wikilink">KOR</a><br />
-[2]</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Be Natural<br />
-（Red Velvet）</p></td>
-<td><p>2014年</p></td>
-<td><p>33</p></td>
-<td><ul>
-<li>韓國：65,820+<ref>〈Be Natural〉韓國數位下載量統計：</li>
-<li><p></ref></p></li>
-</ul></td>
-<td><p><a href="../Page/泰容.md" title="wikilink">泰容</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>First Christmas<br />
-（<a href="../Page/Joy_(Red_Velvet).md" title="wikilink">Joy</a>）</p></td>
-<td><p>2016年</p></td>
-<td><p>—</p></td>
-<td><ul>
-<li>韓國：19,622+<ref>〈First Christmas〉韓國數位下載量統計：</li>
-<li><p></ref></p></li>
-</ul></td>
-<td><p><a href="../Page/道英.md" title="wikilink">道英</a></p></td>
-<td><p>SBS《<a href="../Page/人气歌谣.md" title="wikilink">人氣歌謠</a>》特別合作企劃</p></td>
-</tr>
-<tr class="even">
-<td><p>Drop (두고가)<br />
-（<a href="../Page/瑟琪.md" title="wikilink">瑟琪</a>）</p></td>
 <td><p>2017年</p></td>
-<td><p>51</p></td>
-<td><ul>
-<li>韓國：46,443+<ref>〈Drop〉韓國數位下載量統計：</li>
-<li></li>
-</ul>
-<p></ref></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mark_(1999年)" title="wikilink">Mark</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/高等rapper" title="wikilink">高等rapper</a>》決賽參賽曲</p></td>
-</tr>
-<tr class="odd">
-<td><p>All Night Long<br />
-（<a href="../Page/太妍.md" title="wikilink">太妍</a>）</p></td>
-<td><p>2018年</p></td>
+<td><p>3月15日</p></td>
+<td><p>Trigger The Fever</p></td>
+<td><p>NCT Dream<br />
+（Mark、仁俊、Jeno、楷燦、辰樂、志晟）</p></td>
 <td></td>
-<td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/黄旭熙" title="wikilink">Lucas</a></p></td>
-<td><p>太妍迷你专辑《Something New》收录曲</p></td>
-</tr>
-<tr class="even">
-<td><p>City Lights<br />
-（<a href="../Page/鄭允浩.md" title="wikilink">允浩</a>）</p></td>
-<td><p>2018年</p></td>
-<td></td>
-<td></td>
-<td><p><a href="../Page/泰容.md" title="wikilink">泰容</a></p></td>
-<td><p>东方神起专辑《》收录曲</p></td>
-</tr>
-<tr class="odd">
-<td><p>Don’t say goodbye<br />
-（<a href="https://zh.wikipedia.org/wiki/Rocoberry" title="wikilink">Rocoberry</a>）</p></td>
-<td><p>2019年</p></td>
-<td></td>
-<td></td>
-<td><p><a href="../Page/道英.md" title="wikilink">道英</a></p></td>
-<td><p>合作單曲</p></td>
-</tr>
-<tr class="even">
-<td><p>Purple<br />
-（<a href="https://zh.wikipedia.org/wiki/SOHLHEE" title="wikilink">SOHLHEE</a>）</p></td>
-<td><p>2019年</p></td>
-<td></td>
-<td></td>
-<td><p>泰一</p></td>
-<td><p>SOHLHEE出道单曲</p></td>
+<td><p><a href="../Page/2017年國際足協U-20世界盃.md" title="wikilink">FIFA U-20 世界盃 KOREA 2017主題曲</a></p></td>
 </tr>
 </tbody>
 </table>
+
+## 客串專輯
+
+| 年份     | 發佈日期                                                                | 歌手/組合                                                           | 專輯名稱                                                                               | 歌曲名稱              | 參與成員  |
+| ------ | ------------------------------------------------------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ----------------- | ----- |
+| 2014年  | 10月13日                                                              | [Red Velvet](../Page/Red_Velvet.md "wikilink")                  | 《[Be Natural](https://zh.wikipedia.org/wiki/Be_Natural "wikilink")》                | Be Natural        | 泰容    |
+| 2018年  | 6月18日                                                               | [太妍](../Page/太妍.md "wikilink")                                  | 《[Something New](https://zh.wikipedia.org/wiki/Something_New_\(太妍專輯\) "wikilink")》 | All Night Long    | Lucas |
+| 12月26日 | [允浩](../Page/鄭允浩.md "wikilink")（[東方神起](../Page/東方神起.md "wikilink")） | 《》                                                              | City Lights                                                                        | 泰容                |       |
+| 2019年  | 3月5日                                                                | [Rocoberry](https://zh.wikipedia.org/wiki/Rocoberry "wikilink") | 《Don't say goodbye》                                                                | Don't say goodbye | 道英    |
+| 3月30日  | [SOHLHEE](https://zh.wikipedia.org/wiki/SOHLHEE "wikilink")         | 《Purple》                                                        | Purple                                                                             | 泰一                |       |
+
+## 其他
+
+| 年份    | 發佈日期   | 合作項目                                                                                                  | 歌曲名稱            | 參與成員 | 合作藝人                                                                                                |
+| ----- | ------ | ----------------------------------------------------------------------------------------------------- | --------------- | ---- | --------------------------------------------------------------------------------------------------- |
+| 2016年 | 12月18日 | [SBS](../Page/SBS_\(韓國\).md "wikilink") 《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》特別合作企劃 | First Christmas | 道英   | [Joy](https://zh.wikipedia.org/wiki/Joy "wikilink")（[Red Velvet](../Page/Red_Velvet.md "wikilink")） |
+| 2017年 | 4月1日   | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《高等Rapper》單曲                                     | 放手吧 (Drop)      | Mark | [瑟琪](../Page/瑟琪.md "wikilink")（Red Velvet）                                                          |
 
 ## 參考文獻
 
@@ -963,4 +918,3 @@ Drama X</p></td>
 [Category:流行樂團音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行樂團音樂作品列表 "wikilink")
 
 1.
-2.

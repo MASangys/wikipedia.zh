@@ -122,8 +122,7 @@ Forward](../Page/Manga_Time_Kirara_Forward.md "wikilink")》以來的第五本�
     - 2015年6月號）※2013年6月號後偶數月號隔月揭載
 
   - [櫻Trick](../Page/櫻Trick.md "wikilink")
-    （[Tachi](https://zh.wikipedia.org/wiki/Tachi "wikilink")、vol.1 -
-    2017年10月號）
+    （[Tachi](../Page/Tachi.md "wikilink")、vol.1 - 2017年10月號）
 
   - [となりの魔法少女](https://zh.wikipedia.org/wiki/となりの魔法少女 "wikilink")（[七葉なば](https://zh.wikipedia.org/wiki/七葉なば "wikilink")、vol.3
     - 2014年11月號）※奇數月號隔月揭載

@@ -231,13 +231,15 @@ do
 `       -- Returns an expanded DISPLAYTITLE parser function called with the`
 `       -- result of obj:renderTitle, plus any other optional arguments.`
 `       -- Returns string`
+`       -- 注意：下方有修改`
+`       -- DISPLAYTITLE由调用魔术字改为调用模板版本`
+`       -- 确保标题中的中文正确显示`
 `       function obj:renderDisplayTitle(...)`
 `           checkSelf(self, 'renderDisplayTitle')`
-`           return mw.getCurrentFrame():callParserFunction(`
-`               'DISPLAYTITLE',`
-`               self:renderTitle(),`
-`               ...`
-`           )`
+`           return (mw.getCurrentFrame():expandTemplate({`
+`               title = 'DISPLAYTITLE',`
+`               args = {self:renderTitle()}`
+`           } ))`
 `       end`
 
 `       -- Returns an expanded DISPLAYTITLE parser function called with the`

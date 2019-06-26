@@ -17,10 +17,9 @@ J7 Pro一樣為三卡槽](../Page/三星Galaxy_J7_Pro.md "wikilink")。
   - 電池：3000 mAh
   - 尺寸：5.6吋
   - 處理器：[三星Exynos](../Page/三星Exynos.md "wikilink") 7870
-  - 操作系統：基於Android 8.0 Oreo系統的[Samsung Experience
-    9.0](../Page/Samsung_Experience.md "wikilink") 介面可更新至[Android 9.0
+  - 操作系統：基於[Android 9.0
     Pie系統的](https://zh.wikipedia.org/wiki/Android_9.0 "wikilink")[One
-    UI](../Page/One_UI.md "wikilink")
+    UI介面](../Page/One_UI.md "wikilink")
   - 重量：154克
   - 螢幕：1480\*720 HD+ [Super
     AMOLED](https://zh.wikipedia.org/wiki/Super_AMOLED "wikilink")

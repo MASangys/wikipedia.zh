@@ -1,7 +1,6 @@
 「**Et
 cetera**」是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[ONE
-OK
-ROCK的第三張單曲](https://zh.wikipedia.org/wiki/ONE_OK_ROCK "wikilink")\[1\]。
+OK ROCK的第三張單曲](../Page/ONE_OK_ROCK.md "wikilink")\[1\]。
 
 ## 簡介
 

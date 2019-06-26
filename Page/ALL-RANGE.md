@@ -41,10 +41,12 @@
 <tr class="header">
 <th style="text-align: center;"><p>專輯</p></th>
 <th style="text-align: center;"><p>專輯資料</p></th>
+<th style="text-align: center;"><p>專輯曲目</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
+<td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -55,6 +57,11 @@
 <li>發行日期：2018年7月18日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/國語" title="wikilink">國語</a></li>
 <li>發行：<a href="../Page/種子音樂.md" title="wikilink">種子音樂</a></li>
+</ul></td>
+<td style="text-align: center;"><ul>
+<li>幸福摩天輪</li>
+<li>櫻花草</li>
+<li>冒險</li>
 </ul></td>
 </tr>
 </tbody>

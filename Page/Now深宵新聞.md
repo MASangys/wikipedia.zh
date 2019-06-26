@@ -105,6 +105,8 @@
   - 2018年9月16日：直播[超強颱風山竹吹襲香港最新消息](../Page/颱風山竹_\(2018年\).md "wikilink")（主播：[鄧文瀚](https://zh.wikipedia.org/wiki/鄧文瀚 "wikilink")）
   - 2018年11月26日，直播[2018年立法會九龍西補選點票情況主播](../Page/2018年11月香港立法會九龍西地方選區補選.md "wikilink")（主播：[黃浩霖](https://zh.wikipedia.org/wiki/黃浩霖 "wikilink")）
   - 2019年2月5日：報道農曆新年除夕夜香港的情況（主播：[鄧文瀚](https://zh.wikipedia.org/wiki/鄧文瀚 "wikilink")）
+  - 2019年6月10日：直播[2019年6月反對逃犯條例修訂草案遊行於深夜有示威者衝擊立法會的情況](../Page/2019年6月反對逃犯條例修訂草案遊行.md "wikilink")（主播：[曾埸琛](https://zh.wikipedia.org/wiki/曾埸琛 "wikilink")、[黃浩霖](https://zh.wikipedia.org/wiki/黃浩霖 "wikilink")）
+  - 2019年6月16日：報道[反對逃犯條例修訂草案遊行結束之後參與者集結於金鐘一帶的情況](../Page/2019年6月反對逃犯條例修訂草案遊行.md "wikilink")（主播：[饒慧珊](https://zh.wikipedia.org/wiki/饒慧珊 "wikilink")，使用細螢幕）
 
 ## 節目調動（ViuTV）
 
@@ -121,9 +123,6 @@
 
 ### 特别調動
 
-  - 2016年8月2日（星期二）：由於[颱風妮妲襲港](https://zh.wikipedia.org/wiki/颱風妮妲_\(2016年\) "wikilink")，天文台發出[八號烈風或暴風信號](../Page/八號烈風或暴風信號.md "wikilink")，當日《[Driving
-    in Hong
-    Kong](../Page/Driving_in_Hong_Kong.md "wikilink")》暫停播映，改為與[now新聞台畫面聯播](https://zh.wikipedia.org/wiki/now新聞台 "wikilink")《Now深宵新聞》。
   - 2016年11月12日（星期六）：由於17:45-20:00直播《[2017
     東亞足球錦標賽](https://zh.wikipedia.org/wiki/2017年東亞盃 "wikilink")
     男子第二圈 - [香港](https://zh.wikipedia.org/wiki/香港足球代表隊 "wikilink") 對
@@ -225,6 +224,15 @@
   - 2019年5月6日（星期一）：由於5日17:55-20:00直播《[西班牙甲組足球聯賽](https://zh.wikipedia.org/wiki/西班牙甲組足球聯賽 "wikilink")－基達菲
     對
     基朗拿》，《6點新聞報道》及《7點新聞報道》暫停播映，並改為於20:00-20:30以《8點新聞報道》名義播出及23:30-00:00以《深宵新聞》名義播出，以滿足牌照要求（當日凌晨原定不設《深宵新聞》播出）。
+
+### 特別新聞報道
+
+  - 2016年8月2日（星期二）：由於[颱風妮妲襲港](https://zh.wikipedia.org/wiki/颱風妮妲_\(2016年\) "wikilink")，天文台發出[八號烈風或暴風信號](../Page/八號烈風或暴風信號.md "wikilink")，當日《[Driving
+    in Hong
+    Kong](../Page/Driving_in_Hong_Kong.md "wikilink")》暫停播映，改為與[now新聞台畫面聯播](https://zh.wikipedia.org/wiki/now新聞台 "wikilink")《Now深宵新聞》。
+  - 2019年6月10日（星期一）：由於當日深夜有示威者於[6月9日反送中遊行後衝擊立法會](../Page/2019年6月反對逃犯條例修訂草案遊行.md "wikilink")，ViuTV改為於00:30-03:00與[Now新聞台聯播](../Page/Now新聞台.md "wikilink")《Now特別新聞報道》（在ViuTV節目表以《新聞報道》名義播出）及於03:00-06:00與[Now新聞台聯播](../Page/Now新聞台.md "wikilink")《深宵新聞》，而ViuTV原定重播的《[玩
+    X 爆泰國](../Page/玩_X_爆泰國.md "wikilink")》、《View》及《輝哥的饌賞》等節目則暫停播映。
+  - 2019年6月16日（星期日）：因應當日有大批市民參與[6月16日反送中遊行](../Page/2019年6月反對逃犯條例修訂草案遊行.md "wikilink")，ViuTV改為於22:30-23:30與[Now新聞台聯播](../Page/Now新聞台.md "wikilink")《Now新聞報道》及於23:30-00:30與[Now新聞台聯播](../Page/Now新聞台.md "wikilink")《Now深宵新聞》（在ViuTV節目表兩者均以《新聞報道》名義播出）。
 
 ## 相關節目
 

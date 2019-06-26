@@ -234,7 +234,7 @@
 <p>}</ref></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/ONCE_UPON_A_TIME_(專輯)" title="wikilink">ONCE UPON A TIME</a></p></td>
+<td><p><a href="../Page/Once_Upon_a_Time_(迷你專輯).md" title="wikilink">ONCE UPON A TIME</a></p></td>
 <td><ul>
 <li>發行日期：2019年5月20日</li>
 <li>廠牌：Woollim娛樂</li>
@@ -242,8 +242,10 @@
 </ul></td>
 <td><p>-</p></td>
 <td><ul>
-<li>韓國：—</li>
-</ul></td>
+<li>韓國：38,757+<ref>《ONCE UPON A TIME》韓國唱片銷量統計：</li>
+<li>{{cite web| url=<a href="http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&amp;serviceGbn=&amp;targetTime=05&amp;hitYear=2019&amp;termGbn=month%7Ctitle=（2019.05">http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&amp;serviceGbn=&amp;targetTime=05&amp;hitYear=2019&amp;termGbn=month|title=（2019.05</a>）|publisher=South Korean Gaon Chart|language=Ko}</li>
+</ul>
+<p>}</ref></p></td>
 </tr>
 <tr class="even">
 <td><p><small>"—" 表示該專輯/單曲未有在榜上排名或未有資料或沒有在當地發行</small></p></td>
@@ -793,6 +795,14 @@
 <td><p><a href="../Page/皇后的品格.md" title="wikilink">皇后的品格</a> OST Part.3 《<strong>如果傳達心意</strong>》</p>
 <ul>
 <li>發行日期：2018年12月27日</li>
+<li>語言：韓語</li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/絕對達令" title="wikilink">絕對達令</a> OST Part.4 《<strong>超能力我的他</strong>》</p>
+<ul>
+<li>發行日期：2019年6月6日</li>
 <li>語言：韓語</li>
 </ul></td>
 <td></td>

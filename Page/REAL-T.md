@@ -459,7 +459,7 @@ Animation和REAL-T將近全部的股份。從今以後，REAL-T成為Memory-Tech
   - [動物朋友2](../Page/動物朋友.md "wikilink")（新見元希）
   - [盾之勇者成名錄](../Page/盾之勇者成名錄.md "wikilink")（須藤瞳）
   - [天使降臨到我身邊！](../Page/天使降臨到我身邊！.md "wikilink")（坪根健太郎）
-  - [賢者之孫](https://zh.wikipedia.org/wiki/賢者之孫 "wikilink")（瀧川三智）
+  - [賢者之孫](../Page/賢者之孫.md "wikilink")（瀧川三智）
   - [異常生物見聞錄](https://zh.wikipedia.org/wiki/異常生物見聞錄 "wikilink")
 
 ### OVA

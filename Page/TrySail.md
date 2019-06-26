@@ -193,11 +193,21 @@ MUSIC](../Page/SACRA_MUSIC.md "wikilink")。\[9\]
 
 ### 影像作品
 
+#### Live影像
+
 | 枚         | 發售日        | 標題                                                    | 規格編號       |
 | --------- | ---------- | ----------------------------------------------------- | ---------- |
 | 初回盤 BD+CD | 初回盤 DVD+CD | 通常盤 BD                                                | 通常盤 DVD    |
 | 1st       | 2017年6月28日 | **TrySail First Live Tour “The Age of Discovery”**    | VVXL-5/7   |
 | 2nd       | 2018年9月26日 | **TrySail Second Live Tour “The Travels of TrySail”** | VVXL-18/20 |
+
+#### PV集
+
+| 枚      | 發售日        | 標題                                           | 規格編號       |
+| ------ | ---------- | -------------------------------------------- | ---------- |
+| 限定盤 BD | 通常盤 BD     | 通常盤 DVD                                      |            |
+| 1st    | 2019年8月28日 | **TrySail Music Video Collection 2015-2019** | VVXL-34/35 |
+|        |            |                                              |            |
 
 ### 商業搭配
 

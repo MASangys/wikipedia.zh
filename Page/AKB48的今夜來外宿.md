@@ -44,8 +44,7 @@ Team
       - 選秀研究生：[樋渡結依](../Page/樋渡結依.md "wikilink")（1～3）
   - SKE48
       - Team S：[東李苑](https://zh.wikipedia.org/wiki/東李苑 "wikilink")（全12集）
-      - Team
-        KII：[惣田紗莉渚](https://zh.wikipedia.org/wiki/惣田紗莉渚 "wikilink")（全12集）
+      - Team KII：[惣田紗莉渚](../Page/惣田紗莉渚.md "wikilink")（全12集）
       - Team
         E：[後藤樂樂](../Page/後藤樂樂.md "wikilink")（1～3）、[熊崎晴香](https://zh.wikipedia.org/wiki/熊崎晴香 "wikilink")（10～12）、[谷真理佳](../Page/谷真理佳.md "wikilink")（1～3）
       - 研究生：[辻希美](https://zh.wikipedia.org/wiki/辻希美_\(SKE48\) "wikilink")（，4～6）、[水野愛理](https://zh.wikipedia.org/wiki/水野愛理 "wikilink")（4～6）
@@ -59,7 +58,7 @@ Team
         H：[神志那結衣](../Page/神志那結衣.md "wikilink")（10～12）、[田中菜津美](../Page/田中菜津美.md "wikilink")（7～9）、[田中美久](../Page/田中美久_\(HKT48\).md "wikilink")（1～6，10～12）、[矢吹奈子](../Page/矢吹奈子.md "wikilink")（1～6，10～12）
       - 研究生：[荒巻美咲](https://zh.wikipedia.org/wiki/荒巻美咲 "wikilink")（7～9）
   - NGT48
-      - 研究生：[小熊伦实](https://zh.wikipedia.org/wiki/小熊伦实 "wikilink")（10～12）、[加藤美南](../Page/加藤美南.md "wikilink")（全12集）、[山口真帆](https://zh.wikipedia.org/wiki/山口真帆 "wikilink")（4～6）、[西潟茉莉奈](../Page/西潟茉莉奈.md "wikilink")（7～9）、[荻野由佳](../Page/荻野由佳.md "wikilink")（1～3）
+      - 研究生：[小熊伦实](https://zh.wikipedia.org/wiki/小熊伦实 "wikilink")（10～12）、[加藤美南](../Page/加藤美南.md "wikilink")（全12集）、[山口真帆](../Page/山口真帆.md "wikilink")（4～6）、[西潟茉莉奈](../Page/西潟茉莉奈.md "wikilink")（7～9）、[荻野由佳](../Page/荻野由佳.md "wikilink")（1～3）
 
 <!-- end list -->
 

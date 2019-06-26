@@ -1,4 +1,4 @@
-**VBikes**在[臺灣的](../Page/臺灣.md "wikilink")[共享自行車租賃系統](https://zh.wikipedia.org/wiki/共享自行車 "wikilink")，由台灣微拜斯科技有限公司經營，於2017年8月5日開始營運測試，截至2018年4月VBikes設置地區為[宜蘭縣](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")、[高雄市](../Page/高雄市.md "wikilink")。\[1\]\[2\]2018年4月業者宣布退出臺灣市場，預計6月全數回收。
+**VBikes**在[臺灣的](../Page/臺灣.md "wikilink")[共享自行車租賃系統](https://zh.wikipedia.org/wiki/共享自行車 "wikilink")，由台灣微拜斯科技有限公司經營，於2017年8月5日開始營運測試，截至2018年4月VBikes設置地區為[宜蘭縣](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")、[高雄市](../Page/高雄市.md "wikilink")。\[1\]\[2\]2018年4月業者宣布退出臺灣市場，6月全數回收。
 
 ## 系統
 
@@ -6,7 +6,7 @@ VBikes系統為虛擬站點，在特定區域才能借還車，自行車有內�
 
 ## 歷史
 
-2017年8月5日VBikes開始在宜蘭縣營運測試，85輛自行車擺放於[宜蘭轉運站](../Page/宜蘭轉運站.md "wikilink")、[羅東火車站](https://zh.wikipedia.org/wiki/羅東火車站 "wikilink")、[蘇澳新站等處](../Page/蘇澳新站.md "wikilink")。\[7\]\[8\]2017年9月7日VBikes開始在高雄市[哈瑪星試營運](../Page/哈瑪星.md "wikilink")\[9\]\[10\]。2018年4月，因公部門反應冷淡與Youbike市佔率高壓縮市場空間，業者宣布退出臺灣市場，VBikes預計6月全數回收。\[11\]
+2017年8月5日VBikes開始在宜蘭縣營運測試，85輛自行車擺放於[宜蘭轉運站](../Page/宜蘭轉運站.md "wikilink")、[羅東火車站](https://zh.wikipedia.org/wiki/羅東火車站 "wikilink")、[蘇澳新站等處](../Page/蘇澳新站.md "wikilink")。\[7\]\[8\]2017年9月7日VBikes開始在高雄市[哈瑪星試營運](../Page/哈瑪星.md "wikilink")\[9\]\[10\]。2018年4月，因公部門反應冷淡與Youbike市佔率高壓縮市場空間，業者宣布退出臺灣市場，VBikes預計6月全數回收。\[11\]後續代理商將部分回收的VBikes置於宜蘭頭城濱海森林公園供民眾免費借用\[12\]。
 
 ## 參考資料
 
@@ -30,3 +30,4 @@ VBikes系統為虛擬站點，在特定區域才能借還車，自行車有內�
 9.
 10.
 11.
+12.

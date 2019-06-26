@@ -27,21 +27,21 @@ Erika](../Page/I_Am_Erika.md "wikilink")》入圍[第28屆金曲獎](https://zh.
 <td><p><a href="https://zh.wikipedia.org/wiki/徐筠軒" title="wikilink">徐筠軒</a></p></td>
 <td><p>2016年6月2日</p></td>
 <td></td>
-<td><p>首波主打歌歌</p></td>
+<td><p>首波主打歌</p></td>
 </tr>
 <tr class="even">
 <td><p>繞</p></td>
 <td><p><a href="../Page/黃中平.md" title="wikilink">黃中平</a></p></td>
 <td><p>2016年6月24日</p></td>
 <td></td>
-<td><p>第二波主打歌歌</p></td>
+<td><p>第二波主打歌</p></td>
 </tr>
 <tr class="odd">
 <td><p>下一個未來</p></td>
 <td><p><a href="../Page/黃中平.md" title="wikilink">黃中平</a></p></td>
 <td><p>2016年9月7日</p></td>
 <td></td>
-<td><p>第三波主打歌歌</p></td>
+<td><p>第三波主打歌</p></td>
 </tr>
 <tr class="even">
 <td></td>

@@ -2,7 +2,7 @@
 
 ## 概要
 
-《瞬間交錯Mii廣場》是使用[3DS內建的](../Page/任天堂3DS.md "wikilink")[瞬間交錯通訊技術之軟體](https://zh.wikipedia.org/wiki/擦肩通信 "wikilink")，該技術可以使處於[待機狀態下的](https://zh.wikipedia.org/wiki/待机_\(电脑\) "wikilink")3DS與其他處於同樣狀態下的3DS在一定距離內交換資料。
+《瞬間交錯Mii廣場》是使用[3DS內建的](../Page/任天堂3DS.md "wikilink")[瞬間交錯通訊技術之軟體](https://zh.wikipedia.org/wiki/擦肩通信 "wikilink")，該技術可以使處於[待機狀態下的](https://zh.wikipedia.org/wiki/待機 "wikilink")3DS與其他處於同樣狀態下的3DS在一定距離內交換資料。
 
 [Category:2011年电子游戏](https://zh.wikipedia.org/wiki/Category:2011年电子游戏 "wikilink")
 [Category:Nintendo_Network](https://zh.wikipedia.org/wiki/Category:Nintendo_Network "wikilink")

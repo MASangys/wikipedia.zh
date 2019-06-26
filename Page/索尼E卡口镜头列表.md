@@ -613,7 +613,7 @@ AX的自动对焦构成。
     SAMYANG
 
 93. [Samyang 35mm F1.2 ED AS UMC
-    CS](http://www.samyanglensglobal.com/product/detail.do?SQ=48) —
+    CS](http://www.samyanglensglobal.com/product/detail.do?SQ=48)  —
     SAMYANG
 
 94. [Samyang 50mm F1.2 AS UMC

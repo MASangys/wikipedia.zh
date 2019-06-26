@@ -38,7 +38,8 @@ CBS电台是[哥伦比亚广播公司旗下历史最悠久的部门](../Page/CBS
 
   - （[波士顿](../Page/波士顿.md "wikilink")）
 
-  - （[纽约市](https://zh.wikipedia.org/wiki/纽约市 "wikilink")）
+  - [WCBS
+    (AM)](https://zh.wikipedia.org/wiki/WCBS_\(AM\) "wikilink")（[纽约市](https://zh.wikipedia.org/wiki/纽约市 "wikilink")）
 
   - （纽约市）
 

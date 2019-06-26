@@ -2,7 +2,7 @@
 Company）於2016年透過與[Mnet合作的練習生競爭節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")[《SURVIVAL
 MOMOLAND를
 찾아서》選出的女子演唱團體](../Page/尋找MOMOLAND.md "wikilink")，由10位少女在節目中挑戰不同任務，爭取出道機會，最終選出
-[慧彬](https://zh.wikipedia.org/wiki/慧彬 "wikilink")、[Nancy](../Page/南希·麥多尼.md "wikilink")、、[娜允](https://zh.wikipedia.org/wiki/娜允 "wikilink")、[妸仁](https://zh.wikipedia.org/wiki/妸仁 "wikilink")、[珠伊](../Page/JooE.md "wikilink")、JANE
+[慧彬](../Page/慧彬.md "wikilink")、[Nancy](../Page/南希·麥多尼.md "wikilink")、、[娜允](https://zh.wikipedia.org/wiki/娜允 "wikilink")、[妸仁](https://zh.wikipedia.org/wiki/妸仁 "wikilink")、[珠伊](../Page/JooE.md "wikilink")、JANE
 七名成員。
 
 2017年3月28日，加入在[《SURVIVAL MOMOLAND를
@@ -143,7 +143,7 @@ ver.-》。
 <td><p>藝名</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/慧彬" title="wikilink">慧彬</a></strong></p></td>
+<td><p><strong><a href="../Page/慧彬.md" title="wikilink">慧彬</a></strong></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -311,7 +311,7 @@ LineData =
 </tr>
 <tr class="even">
 <td><p><strong>4th</strong></p></td>
-<td><p>《<strong>Fun to the World</strong>》</p>
+<td><p>《<strong><a href="../Page/Fun_to_the_World.md" title="wikilink">Fun to the World</a></strong>》</p>
 <ul>
 <li>發行日期：2018年6月26日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
@@ -321,7 +321,7 @@ LineData =
 </tr>
 <tr class="odd">
 <td><p><strong>5th</strong></p></td>
-<td><p>《<strong>Show Me</strong>》</p>
+<td><p>《<strong><a href="../Page/Show_Me_(MOMOLAND專輯).md" title="wikilink">Show Me</a></strong>》</p>
 <ul>
 <li>發行日期：2019年3月20日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>

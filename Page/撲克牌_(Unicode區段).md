@@ -78,8 +78,7 @@
 
 ## 绘文字
 
-撲克牌区段含有一个[绘文字](https://zh.wikipedia.org/wiki/绘文字 "wikilink"): U+1F0CF.
-\[1\]\[2\]
+撲克牌区段含有一个[绘文字](https://zh.wikipedia.org/wiki/绘文字 "wikilink")：U+1F0CF。\[1\]\[2\]
 
 ## 历史
 

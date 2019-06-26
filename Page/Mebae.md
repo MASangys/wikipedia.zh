@@ -96,7 +96,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/彼得潘.md" title="wikilink">新譯 彼得潘</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/J·M·巴里" title="wikilink">J·M·巴里</a>（原著）<br />
+<td><p><a href="../Page/J·M·巴里.md" title="wikilink">J·M·巴里</a>（原著）<br />
 （翻譯）</p></td>
 <td><p></p></td>
 <td><p>KADOKAWA</p></td>

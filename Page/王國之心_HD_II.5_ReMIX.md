@@ -1,4 +1,5 @@
-《****》类似HD I.5 Remix，是一個將原本在[PlayStation
+《**[王國之心 HD II.5 ReMIX](../Page/王國之心_HD_II.5_ReMIX.md "wikilink")**》类似HD
+I.5 Remix，是一個將原本在[PlayStation
 2的遊戲](../Page/PlayStation_2.md "wikilink")《[王國之心II](https://zh.wikipedia.org/wiki/王國之心II "wikilink")》，[PlayStation
 Portable的](../Page/PlayStation_Portable.md "wikilink")《[王國之心
 夢中降生](../Page/王國之心_夢中降生.md "wikilink")》與[任天堂DS的](../Page/任天堂DS.md "wikilink")《[王國之心

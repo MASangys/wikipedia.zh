@@ -291,6 +291,16 @@ ARRIVAL》則為銷量最高之專輯。日語專輯中，在[Oricon紀錄上](.
 <td><p>2</p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="../Page/SPINNING_TOP_:_BETWEEN_SECURITY_&amp;_INSECURITY.md" title="wikilink">SPINNING TOP : BETWEEN SECURITY &amp; INSECURITY</a></p></td>
+<td><ul>
+<li>發行日期：2019年5月20日</li>
+<li>唱片公司：JYP娛樂</li>
+<li>發行公司：Dreamus</li>
+</ul></td>
+<td><p>1</p></td>
+<td><p>－</p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -1082,6 +1092,28 @@ ARRIVAL》則為銷量最高之專輯。日語專輯中，在[Oricon紀錄上](.
 <td><p><a href="../Page/Turn_Up_(GOT7迷你專輯).md" title="wikilink">Turn Up</a></p></td>
 <td><ul>
 <li>發行日期：2017年11月15日</li>
+<li>唱片公司：JYP娛樂</li>
+<li>發行公司：史詩唱片日本</li>
+</ul></td>
+<td><p>3</p></td>
+<td><p>3</p></td>
+<td><p>6</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/I_WON&#39;T_LET_YOU_GO_(GOT7迷你專輯).md" title="wikilink">I WON'T LET YOU GO</a></p></td>
+<td><ul>
+<li>發行日期：2019年1月30日</li>
+<li>唱片公司：JYP娛樂</li>
+<li>發行公司：史詩唱片日本</li>
+</ul></td>
+<td><p>1</p></td>
+<td><p>1</p></td>
+<td><p>5</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/LOVE_LOOP.md" title="wikilink">LOVE LOOP</a></p></td>
+<td><ul>
+<li>發行日期：2019年7月31日</li>
 <li>唱片公司：JYP娛樂</li>
 <li>發行公司：史詩唱片日本</li>
 </ul></td>

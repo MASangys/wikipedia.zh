@@ -150,7 +150,7 @@
 
 ## 製作團隊
 
-  - 劇本：[倉光泰子](../Page/倉光泰子.md "wikilink")、[神森萬理江](https://zh.wikipedia.org/wiki/神森萬理江 "wikilink")（第5話、第9話）、（第7話）
+  - 劇本：[倉光泰子](../Page/倉光泰子.md "wikilink")、[神森萬理江](https://zh.wikipedia.org/wiki/神森萬理江 "wikilink")（第5話、第9話）、[野木亞紀子](../Page/野木亞紀子.md "wikilink")（第7話）
   - 製作人：鈴木吉弘、草谷大輔
   - [配樂](https://zh.wikipedia.org/wiki/配樂 "wikilink")：[菅野祐悟](../Page/菅野祐悟.md "wikilink")
   - 主題曲：《soup》[藤原櫻](../Page/藤原櫻.md "wikilink")（詞、曲：[福山雅治](../Page/福山雅治.md "wikilink")）

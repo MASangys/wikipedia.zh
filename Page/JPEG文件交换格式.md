@@ -21,7 +21,7 @@ Segment
 ### 色彩空间
 
 JPEG没有定义图像使用哪个[色彩空間](../Page/色彩空間.md "wikilink")。JFIF定义了使用的：无论Y=灰度，或者[CCIR
-601定义的](https://zh.wikipedia.org/wiki/BT.601 "wikilink")[YCbCr](../Page/YCbCr.md "wikilink")。因为这不是一个[绝对色彩空间](../Page/色彩空間.md "wikilink")——除非已提供并解释一个[ICC配置文件](../Page/国际色彩联盟.md "wikilink")、色彩空间元数据或[sRGB标签](../Page/SRGB色彩空间.md "wikilink")，解码的JFIF图像将依赖于设备的RGB色彩空间。因此，JFIF本身不提供在互联网上精确传输经色彩管理的图像的机制。
+601定义的](../Page/BT.601.md "wikilink")[YCbCr](../Page/YCbCr.md "wikilink")。因为这不是一个[绝对色彩空间](../Page/色彩空間.md "wikilink")——除非已提供并解释一个[ICC配置文件](../Page/国际色彩联盟.md "wikilink")、色彩空间元数据或[sRGB标签](../Page/SRGB色彩空间.md "wikilink")，解码的JFIF图像将依赖于设备的RGB色彩空间。因此，JFIF本身不提供在互联网上精确传输经色彩管理的图像的机制。
 
 ## 文件格式结构
 

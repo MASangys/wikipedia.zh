@@ -22,7 +22,7 @@ Linga》的音樂錄影帶演出，2014年則開始與[iKON成員](https://zh.wi
 ### 2016年至今：BLACKPINK
 
 繼[Jennie率先在](../Page/Jennie_\(韓國歌手\).md "wikilink")2016年6月1日公佈為第一名成員後\[12\]，Lisa在6月8日公開，成為新女團BLACKPINK的第二位成員\[13\]，隨後於同年8月8日正式出道\[14\]，並隨組合發行首張單曲專輯《[Square
-One](../Page/Square_One_\(Black_Pink單曲\).md "wikilink")》\[15\]。
+One](../Page/Square_One_\(BLACKPINK單曲\).md "wikilink")》\[15\]。
 
 ## 音樂作品
 

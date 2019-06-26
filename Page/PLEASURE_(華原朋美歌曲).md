@@ -24,7 +24,7 @@ MUSIC JAPAN（日本華納音樂）發行](../Page/日本華納音樂.md "wikili
       - 作詞：黑須千尋，作曲：細井香織
       - [朝日電視台電視動畫](../Page/朝日電視台.md "wikilink")「[蠟筆小新](https://zh.wikipedia.org/wiki/蠟筆小新 "wikilink")」第8代片頭主題曲
       - [東寶配給](../Page/東寶.md "wikilink")、[劇場版蠟筆小新系列](https://zh.wikipedia.org/wiki/蠟筆小新#動畫電影 "wikilink")《[風起雲湧
-        光榮燒肉之路](https://zh.wikipedia.org/wiki/蠟筆小新：風起雲湧_光榮燒肉之路 "wikilink")》片頭主題曲
+        光榮燒肉之路](../Page/蠟筆小新：風起雲湧_光榮燒肉之路.md "wikilink")》片頭主題曲
 2.  **未來色彩的繁星**（**<small></small>**）
       - 作詞、作曲：Yori
       - 東寶配給、劇場版蠟筆小新系列《風起雲湧 光榮燒肉之路》劇中插入歌曲

@@ -82,7 +82,7 @@ SMTM5的比赛过程与[Show Me The Money
   - ：曾参加[STARSHIP娛樂的偶像团体出道节目No](../Page/STARSHIP娛樂.md "wikilink")
     Mercy，但最终无缘出道。SMTM4亚军[宋旻浩的表弟](https://zh.wikipedia.org/wiki/宋旻浩 "wikilink")，签约[STARSHIP娛樂旗下](../Page/STARSHIP娛樂.md "wikilink")。
 
-  - Boi B：成员，隶属旗下。
+  - Boi B：[Rhythm Power成员](../Page/Rhythm_Power.md "wikilink")，隶属旗下。
 
 **ILLIONAIRE队**
 
@@ -296,7 +296,7 @@ SMTM5特别公演阵容
 <tr class="even">
 <td><p><strong><a href="../Page/BewhY.md" title="wikilink">BewhY</a></strong> - Forever (Prod. by GRAY)</p></td>
 <td><p><strong>Boi B</strong> - 凤蝶<br />
-<small>(Feat. Gill, )</small></p></td>
+<small>(Feat. Gill, <a href="../Page/Rhythm_Power.md" title="wikilink">Rhythm Power</a>)</small></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -791,7 +791,7 @@ Swan（节目结束后签约ILLIONAIRE旗下的厂牌AMBITION MUSIK）、（后�
 </tr>
 <tr class="odd">
 <td><p>凤蝶</p></td>
-<td><p>Boi B (Feat. <a href="../Page/吉成俊.md" title="wikilink">Gill</a>, )</p></td>
+<td><p>Boi B (Feat. <a href="../Page/吉成俊.md" title="wikilink">Gill</a>, <a href="../Page/Rhythm_Power.md" title="wikilink">Rhythm Power</a>)</p></td>
 <td><p>5</p></td>
 <td><ul>
 <li>KOR: 720,563+<ref>凤蝶累计销量：</li>

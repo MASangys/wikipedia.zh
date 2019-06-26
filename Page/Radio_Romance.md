@@ -394,6 +394,7 @@ Romance**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikili
   - [韓國KBS官方網站](http://www.kbs.co.kr/drama/radioromance/)
   - [廣播羅曼史-BLOG](https://m.post.naver.com/my/series/detail.nhn?seriesNo=407714&memberNo=34609460)
   - [香港無綫電視官方網站](http://programme.tvb.com/drama/radioromance0001)
+  - [friDay影音廣播羅曼史](https://video.friday.tw/drama/detail/569)
 
 [Category:2018年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2018年韓國電視劇集 "wikilink")
 [Category:韓國愛情劇](https://zh.wikipedia.org/wiki/Category:韓國愛情劇 "wikilink")

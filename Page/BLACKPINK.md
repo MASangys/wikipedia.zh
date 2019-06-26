@@ -1,7 +1,7 @@
 **BLACKPINK**（風格化為**BLΛƆKPIИK**，，）是[YG娛樂於](../Page/YG娛樂.md "wikilink")2016年推出的[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，也是繼2009年[2NE1後該經紀公司時隔](../Page/2NE1.md "wikilink")7年再次推出的女子偶像團體，由[Jisoo](../Page/金智秀_\(歌手\).md "wikilink")、[Jennie](../Page/Jennie_\(韓國歌手\).md "wikilink")、[Rosé與](../Page/Rosé_\(韓國歌手\).md "wikilink")[Lisa共四名成員組成](../Page/Lisa_\(泰國歌手\).md "wikilink")，而她們也在YG娛樂各自經歷了4年到7年的練習生生涯。
 
 BLACKPINK原定於2012年出道，且最初的女團計劃原定有九人，官方在當時除了預示著即將推出女團外，並陸續釋出練習影像及成員身份，然而到了2014年仍舊尚未出道，直至2016年中旬才正式透過官方公開了成員名單、組合名稱及出道日期。2016年8月8日以單曲專輯《[Square
-One](../Page/Square_One_\(Black_Pink單曲\).md "wikilink")》雙主打曲《[口哨](https://zh.wikipedia.org/wiki/口哨_\(BLACKPINK歌曲\) "wikilink")》、《[Boombayah](https://zh.wikipedia.org/wiki/Boombayah "wikilink")》正式出道，8月14日登上[SBS](../Page/SBS_\(韓國\).md "wikilink")《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》出道舞台。
+One](https://zh.wikipedia.org/wiki/Square_One_\(BLACKPINK單曲\) "wikilink")》雙主打曲《[口哨](https://zh.wikipedia.org/wiki/口哨_\(BLACKPINK歌曲\) "wikilink")》、《[Boombayah](https://zh.wikipedia.org/wiki/Boombayah "wikilink")》正式出道，8月14日登上[SBS](../Page/SBS_\(韓國\).md "wikilink")《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》出道舞台。
 
 ## 組合資料
 
@@ -85,11 +85,11 @@ Rapstar
 
 [Black_Pink_on_Melon_Music_Awards_2016.jpg](https://zh.wikipedia.org/wiki/File:Black_Pink_on_Melon_Music_Awards_2016.jpg "fig:Black_Pink_on_Melon_Music_Awards_2016.jpg")上表演《Playing
 with Fire》。\]\] 2016年8月8日，BLACKPINK於下午3時舉行出道Showcase並公開首張單曲《[Square
-One](../Page/Square_One_\(Black_Pink單曲\).md "wikilink")》收錄的《[口哨](https://zh.wikipedia.org/wiki/口哨_\(BLACKPINK歌曲\) "wikilink")》、《[Boombayah](https://zh.wikipedia.org/wiki/Boombayah "wikilink")》音樂錄影帶及拍攝花絮\[49\]，當日晚間8時正式通過各大音源網站公開。發行後，BLACKPINK憑藉此張出道單曲打破多項新人組合紀錄，兩首歌曲在發佈後隨即空降韓國主要音源網站的實時榜第一及第二名的位置\[50\]，其中《口哨》一曲則連續16日佔據八大數位音樂網站音源排行榜冠軍以及同時包攬了六大月榜第一位，並在韓國最具權威的音樂綜合榜單[加翁排行榜](https://zh.wikipedia.org/wiki/加翁排行榜 "wikilink")8月份的[數位單曲](../Page/2016年Gaon單曲冠軍作品列表.md "wikilink")、[數位下載](../Page/2016年Gaon數位下載冠軍作品列表.md "wikilink")、[流媒體](../Page/2016年Gaon流媒體冠軍作品列表.md "wikilink")、移動通信均獲得週榜及月榜一位，海外的部分以《Boombayah》取得了美國告示牌世界單曲榜冠軍。做為新人，BLACKPINK創下了韓國流行音樂數個「最初」及「最短」的紀錄，包括第一組以出道曲在iChart榜單上達成「Perfect
+One](https://zh.wikipedia.org/wiki/Square_One_\(BLACKPINK單曲\) "wikilink")》收錄的《[口哨](https://zh.wikipedia.org/wiki/口哨_\(BLACKPINK歌曲\) "wikilink")》、《[Boombayah](https://zh.wikipedia.org/wiki/Boombayah "wikilink")》音樂錄影帶及拍攝花絮\[49\]，當日晚間8時正式通過各大音源網站公開。發行後，BLACKPINK憑藉此張出道單曲打破多項新人組合紀錄，兩首歌曲在發佈後隨即空降韓國主要音源網站的實時榜第一及第二名的位置\[50\]，其中《口哨》一曲則連續16日佔據八大數位音樂網站音源排行榜冠軍以及同時包攬了六大月榜第一位，並在韓國最具權威的音樂綜合榜單[加翁排行榜](https://zh.wikipedia.org/wiki/加翁排行榜 "wikilink")8月份的[數位單曲](../Page/2016年Gaon單曲冠軍作品列表.md "wikilink")、[數位下載](../Page/2016年Gaon數位下載冠軍作品列表.md "wikilink")、[流媒體](../Page/2016年Gaon流媒體冠軍作品列表.md "wikilink")、移動通信均獲得週榜及月榜一位，海外的部分以《Boombayah》取得了美國告示牌世界單曲榜冠軍。做為新人，BLACKPINK創下了韓國流行音樂數個「最初」及「最短」的紀錄，包括第一組以出道曲在iChart榜單上達成「Perfect
 All-Kill」的組合\[51\]；憑藉《Boombayah》截至目前仍保持著韓國「最快破億的出道曲」及「瀏覽數最多的出道曲」音樂錄影帶記錄\[52\]\[53\]；僅出道14天便贏得了她們在《人氣歌謠》的第一座獎杯\[54\]，並締造了韓國所有團體用時最短登頂美國iTunes排行榜\[55\]\[56\]、告示牌榜單的歌手\[57\]。其亮眼的成績與受到認可的實力，BLACKPINK成為繼WINNER、iKON之後被大眾廣泛譽為「怪物新人」的偶像團體。\[58\]\[59\]
 
 隨著出道大獲成功，BLACKPINK在11月1日攜第二張單曲專輯《[Square
-Two](https://zh.wikipedia.org/wiki/Square_Two_\(Black_Pink單曲\) "wikilink")》再次回歸樂壇\[60\]，這張專輯為她們奠定了堅實的基礎，除了延續《Square
+Two](https://zh.wikipedia.org/wiki/Square_Two "wikilink")》再次回歸樂壇\[60\]，這張專輯為她們奠定了堅實的基礎，除了延續《Square
 One》的熱潮於發行後再度獲得多項佳績外，當中收錄的兩首主打曲《[Playing with
 Fire](https://zh.wikipedia.org/wiki/Playing_with_Fire_\(BLACKPINK歌曲\) "wikilink")》與《[Stay](https://zh.wikipedia.org/wiki/Stay_\(BLACKPINK歌曲\) "wikilink")》在發佈後旋即依次佔據韓國主要數位音樂網站排行榜冠亞軍\[61\]\[62\]，並通過該專輯於發行後再次僅以兩天的時間登頂美國iTunes排行榜首位\[63\]，主打歌《Playing
 with
@@ -147,7 +147,7 @@ Up》取得的各項成績，BLACKPINK也憑這張專輯成為第一組打入[�
 ## 成就與國際認可
 
 [(181224)_Stay_Fanchant_ft_PINK_OCEAN_BLACKPINK_01.jpg](https://zh.wikipedia.org/wiki/File:\(181224\)_Stay_Fanchant_ft_PINK_OCEAN_BLACKPINK_01.jpg "fig:(181224)_Stay_Fanchant_ft_PINK_OCEAN_BLACKPINK_01.jpg")演唱會上製造的燈海景象。\]\]
-BLACKPINK在出道初期已有過小成功，在她們的第一張單曲發行後僅三週，依據韓國企業信譽研究所在2016年8月份所做的「百大偶像品牌聲譽」名單中，BLACKPINK初進榜便佔據第二，僅次於[EXO之後](../Page/EXO.md "wikilink")\[120\]，另一項以女子團體為目標在2016年8月9日至9月10日為止的研究顯示，此團體的品牌影響在9月份已超越當紅女團的影響力，登上了該名單的首位，信譽研究實驗所的所長具昌煥表示這樣的成就表現在韓國是「首見的」\[121\]。而迄今BLACKPINK在國內受到廣泛歡迎的程度，使她們共取得了1次「百大偶像品牌聲譽」冠軍\[122\]和8次的「女團品牌聲譽」冠軍<ref>
+BLACKPINK在出道初期已有過小成功，在她們的第一張單曲發行後僅三週，依據韓國企業信譽研究所在2016年8月份所做的「百大偶像品牌聲譽」名單中，BLACKPINK初進榜便佔據第二，僅次於[EXO之後](../Page/EXO.md "wikilink")\[120\]，另一項以女子團體為目標在2016年8月9日至9月10日為止的研究顯示，此團體的品牌影響在9月份已超越當紅女團的影響力，登上了該名單的首位，信譽研究實驗所的所長具昌煥表示這樣的成就表現在韓國是「首見的」\[121\]。而迄今BLACKPINK在國內受到廣泛歡迎的程度，使她們共取得了1次「百大偶像品牌聲譽」冠軍\[122\]和9次的「女團品牌聲譽」冠軍<ref>
 女團品牌聲譽：
 
   -
@@ -193,9 +193,9 @@ Last》為組合進一步提升全球知名度，使BLACKPINK在美國告示牌5
 #### 數位單曲
 
   - 2016年《[Square
-    One](../Page/Square_One_\(Black_Pink單曲\).md "wikilink")》
+    One](https://zh.wikipedia.org/wiki/Square_One_\(BLACKPINK單曲\) "wikilink")》
   - 2016年《[Square
-    Two](https://zh.wikipedia.org/wiki/Square_Two_\(Black_Pink單曲\) "wikilink")》
+    Two](https://zh.wikipedia.org/wiki/Square_Two "wikilink")》
   - 2017年《[As If It's Your
     Last](../Page/As_If_It's_Your_Last.md "wikilink")》
 
@@ -283,7 +283,7 @@ Last》為組合進一步提升全球知名度，使BLACKPINK在美國告示牌5
 <td></td>
 </tr>
 <tr class="even">
-<td><p>手機品牌</p></td>
+<td><p><a href="../Page/消費電子產品.md" title="wikilink">消費電子產品</a></p></td>
 <td><p>「LG」，型號「<a href="../Page/LG_G6.md" title="wikilink">LG G6</a>」</p></td>
 <td><p>[162]</p></td>
 <td></td>
@@ -395,10 +395,17 @@ Last》為組合進一步提升全球知名度，使BLACKPINK在美國告示牌5
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/消費電子產品.md" title="wikilink">消費電子產品</a></p></td>
+<td><p>消費電子產品</p></td>
 <td><p>「<a href="../Page/三星電子.md" title="wikilink">三星</a>」</p></td>
-<td></td>
+<td><p>rowspan="2" </p></td>
 <td><p>[178]</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>染髮劑</p></td>
+<td><p>「Likeithair」</p></td>
+<td><p>[179]</p></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>
@@ -424,63 +431,63 @@ Last》為組合進一步提升全球知名度，使BLACKPINK在美國告示牌5
 <small>《<a href="https://zh.wikipedia.org/wiki/Show!_音樂中心" title="wikilink">Show! 音樂中心</a>》</small></p></td>
 </tr>
 <tr class="even">
-<td><p><strong>2016年</strong></p></td>
+<td><p>2016年</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/Square_One_(Black_Pink單曲).md" title="wikilink">Square One</a></strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/口哨_(BLACKPINK歌曲)" title="wikilink">口哨</a></p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/Square_One_(BLACKPINK單曲)" title="wikilink">Square One</a>》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/口哨_(BLACKPINK歌曲)" title="wikilink">口哨</a>》</p></td>
 <td><p><strong>1</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Boombayah" title="wikilink">Boombayah</a></p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/Boombayah" title="wikilink">Boombayah</a>》</p></td>
 <td><p>/</p></td>
 <td><p>/</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Square_Two_(Black_Pink單曲)" title="wikilink">Square Two</a></strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Playing_with_Fire_(BLACKPINK歌曲)" title="wikilink">Playing with Fire</a></p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/Square_Two" title="wikilink">Square Two</a>》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/Playing_with_Fire_(BLACKPINK歌曲)" title="wikilink">Playing with Fire</a>》</p></td>
 <td><p>3</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Stay_(BLACKPINK歌曲)" title="wikilink">Stay</a></p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/Stay_(BLACKPINK歌曲)" title="wikilink">Stay</a>》</p></td>
 <td><p>/</p></td>
 <td><p>20</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong>2017年</strong></p></td>
+<td><p>2017年</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/As_If_It&#39;s_Your_Last.md" title="wikilink">As If It's Your Last</a></p></td>
+<td><p>《<a href="../Page/As_If_It&#39;s_Your_Last.md" title="wikilink">As If It's Your Last</a>》</p></td>
 <td><p>2</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong>2018年</strong></p></td>
+<td><p>2018年</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Square_Up_(迷你专辑)" title="wikilink">Square Up</a></strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Ddu-Du_Ddu-Du" title="wikilink">Ddu-Du Ddu-Du</a></p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/Square_Up_(迷你專輯)" title="wikilink">Square Up</a>》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/Ddu-Du_Ddu-Du" title="wikilink">Ddu-Du Ddu-Du</a>》</p></td>
 <td><p><strong>[1]</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p>Forever Young</p></td>
+<td><p>《》</p></td>
 <td><p>6</p></td>
 <td><p>4</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>2019年</strong></p></td>
+<td><p>2019年</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/Kill_This_Love.md" title="wikilink">Kill This Love</a></strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Kill_This_Love_(歌曲)" title="wikilink">Kill This Love</a></p></td>
+<td><p>《<a href="../Page/Kill_This_Love.md" title="wikilink">Kill This Love</a>》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/Kill_This_Love_(歌曲)" title="wikilink">Kill This Love</a>》</p></td>
 <td><p>/</p></td>
 </tr>
 <tr class="even">
@@ -885,3 +892,5 @@ Last》為組合進一步提升全球知名度，使BLACKPINK在美國告示牌5
 177.
 
 178.
+
+179.

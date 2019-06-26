@@ -1491,7 +1491,15 @@
 <td><p><a href="https://www.youtube.com/watch?v=meQwHkn-czc">雞脖子│婚禮的十種新郎新娘《十種人系列》</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/許名傑" title="wikilink">明-{杰}-</a></p></td>
-<td><p>王柏人、<a href="https://zh.wikipedia.org/wiki/梁凱莉" title="wikilink">梁凱莉</a>、<a href="../Page/陳伊.md" title="wikilink">陳伊</a>、阿伯怪、小賴、魏敏、偉哲</p></td>
+<td><p>王柏人、<a href="../Page/梁凱莉.md" title="wikilink">梁凱莉</a>、<a href="../Page/陳伊.md" title="wikilink">陳伊</a>、阿伯怪、小賴、魏敏、偉哲</p></td>
+</tr>
+<tr class="even">
+<td><p>6月3日</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=w1Q_boKPY0A&amp;list=WL&amp;index=2">雞脖子│靠北玩狼人殺的十種狀況《十種人系列》</a></p></td>
+<td><p>王柏人、<a href="../Page/梁凱莉.md" title="wikilink">梁凱莉</a>、<a href="../Page/陳伊.md" title="wikilink">陳伊</a>、阿伯怪、焦元元</p></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -1773,7 +1781,12 @@
 2019年5月16日<br />
 2019年5月17日<br />
 2019年5月27日<br />
-2019年5月31日}}</p></td>
+2019年5月31日<br />
+2019年6月4日<br />
+2019年6月6日<br />
+2019年6月7日<br />
+2019年6月11日<br />
+2019年6月19日}}</p></td>
 <td><p><a href="../Page/風田.md" title="wikilink">風田</a></p></td>
 <td></td>
 <td></td>
@@ -2136,7 +2149,8 @@
 2019年4月8日<br />
 2019年4月22日<br />
 2019年5月6日<br />
-2019年5月20日}}</p></td>
+2019年5月20日<br />
+2019年6月3日}}</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/17app" title="wikilink">17app</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/許名傑" title="wikilink">明-{杰}-</a></p></td>
 </tr>

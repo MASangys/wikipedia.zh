@@ -1,4 +1,4 @@
-《**Hunter**》是由Paul Holmes与Martin
+是由Paul Holmes与Martin
 Walker（音乐）开发，1991年由[动视发售于](../Page/动视.md "wikilink")[Amiga与](../Page/Amiga.md "wikilink")[雅達利ST的](https://zh.wikipedia.org/wiki/雅達利ST "wikilink")3D[开放世界](https://zh.wikipedia.org/wiki/开放世界 "wikilink")[动作冒险游戏](https://zh.wikipedia.org/wiki/动作冒险游戏 "wikilink")。游戏中，玩家置身于群岛之中，可以驾驶丰富的载具进行探索并完成任务。由于该作品对3D画面和[沙盒类游戏的大胆实验和充分探索](https://zh.wikipedia.org/wiki/沙盒类游戏 "wikilink")，人们常将它与随后发行的其他类似的沙盒游戏，如[俠盜獵車手系列和](../Page/俠盜獵車手系列.md "wikilink")《[孤岛惊魂2](../Page/極地戰嚎2.md "wikilink")》相比较。
 \[1\]\[2\]
 

@@ -13,7 +13,7 @@ aufs被拒绝合并到主线Linux。它的代码被批评为是“稠密，不�
 
 数个[Linux发行版已选择aufs作为UnionFS的替代品](../Page/Linux发行版.md "wikilink")，包括：
 
-  - [Knoppix](https://zh.wikipedia.org/wiki/Knoppix "wikilink") [live
+  - [Knoppix](../Page/Knoppix.md "wikilink") [live
     CD](https://zh.wikipedia.org/wiki/live_CD "wikilink")
     [Linux发行版](../Page/Linux发行版.md "wikilink")，自2006年年底以来，“为了更好的稳定性和性能”\[7\]
 

@@ -104,7 +104,7 @@ Performance）是[MTV電影大獎重要的獎項之一](https://zh.wikipedia.org
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/提姆·艾倫" title="wikilink">提姆·艾倫</a></p></td>
+<td><p><a href="../Page/提姆·艾倫.md" title="wikilink">提姆·艾倫</a></p></td>
 <td><p><a href="../Page/聖誕快樂又瘋狂.md" title="wikilink">聖誕快樂又瘋狂</a></p></td>
 <td></td>
 </tr>
@@ -188,7 +188,7 @@ Performance）是[MTV電影大獎重要的獎項之一](https://zh.wikipedia.org
 </tr>
 <tr class="even">
 <td><p><a href="../Page/莎拉·蜜雪兒·吉蘭.md" title="wikilink">莎拉·蜜雪兒·吉蘭</a></p></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/舊年暑假搞乜鬼" title="wikilink">舊年暑假搞乜鬼</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

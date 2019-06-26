@@ -1,5 +1,5 @@
 **MEGA**是Mega
-Limited公司推出的一款[云存储服务](../Page/网络硬盘.md "wikilink")。于2013年1月19日在[新西兰上线](../Page/新西兰.md "wikilink")，该服务提供商广泛宣传其隐私性，所有文件在上传之前进行，提供15
+Limited公司推出的一款[云存储服务](../Page/网络硬盘.md "wikilink")。于2013年1月19日在[新西兰上线](../Page/新西兰.md "wikilink")，该服务供應商广泛宣传其隐私性，所有文件在上传之前进行，提供15
 GB的免费存储空间\[1\]，最高存储空间可达8
 TB（付费账户）。\[2\]2018年1月20日，MEGA官方在其5周年当日发[博客声称在](https://zh.wikipedia.org/wiki/博客 "wikilink")245个国家拥有1亿注册用户，上传超过400亿个文件。\[3\]2019年1月18日，官方在6周年宣佈，網站註冊用戶已達1.32億，上傳文件超過530億。\[4\]
 
@@ -17,15 +17,15 @@ Lentino将升任董事，并继续为企业提供企业精神和技能。\[13\]
 Play](../Page/Google_Play.md "wikilink")。\[17\]4月，金·達康担任MEGA董事。\[18\]同年7月8日，发布了MEGA[软件开发工具包](../Page/软件开发工具包.md "wikilink")（SDK）和。\[19\]9月7日金·達康接受[华盛顿邮报采访时宣称MEGA每天正接受](../Page/华盛顿邮报.md "wikilink")20,000次注册请求。\[20\]2013年11月26日，[iOS平台的MEGA应用上架](https://zh.wikipedia.org/wiki/iOS "wikilink")[App
 Store](../Page/App_Store_\(iOS\).md "wikilink")。\[21\]此外在2013年，MEGA收到平均每天100次的[DMCA删除请求](https://zh.wikipedia.org/wiki/DMCA "wikilink")。\[22\]2014年1月20日，官方发布[Windows平台应用MEGAsync](https://zh.wikipedia.org/wiki/Windows "wikilink")。\[23\]同年9月6日，官方发布针对[Linux平台的MEGAsync](../Page/Linux.md "wikilink")。\[24\]
 
-2014年3月，達康公布了其在[新西兰证券交易所上市的意向](../Page/新西兰证券交易所.md "wikilink")。\[25\]同年9月，是通过品牌保护组织委托发布报告，将MEGA描述为“shadowy
+2014年3月，金·達康公布了其在[新西兰证券交易所上市的意向](../Page/新西兰证券交易所.md "wikilink")。\[25\]同年9月，是通过品牌保护组织委托发布报告，将MEGA描述为“shadowy
 cyberlocker（隱蔽的網路儲物櫃，把Mega比喻為隱蔽的網路儲物櫃，指出使用者可能會利用Mega儲存不當的資訊）”，\[26\]被Mega的首席执行官斥为“严重失实和高度诽谤（grossly
 untrue and highly defamatory）”。\[27\]
 
-2015年7月1日，達康在技术网站[Slashdot表示](../Page/Slashdot.md "wikilink")，他将不信任MEGA服务，并声称该公司已经“受到因犯有欺诈罪被通缉的中国投资者闫永明\[28\]的[恶意收购](https://zh.wikipedia.org/wiki/恶意收购 "wikilink")（suffered
+2015年7月1日，金·達康在技术网站[Slashdot表示](../Page/Slashdot.md "wikilink")，他将不信任MEGA服务，并声称该公司已经“受到因犯有欺诈罪被通缉的[中国投资者闫永明](https://zh.wikipedia.org/wiki/中国 "wikilink")\[28\]的[恶意收购](https://zh.wikipedia.org/wiki/恶意收购 "wikilink")（suffered
 from a hostile takeover by a Chinese investor who is wanted in China for
 fraud）”并且“新西兰政府拥有投资者的股份，目前拥有该网站的控制权（the New Zealand government seized
 this investor's shares and now has control of the
-site）”。達康鼓励用户不要再使用该服务了，并计划建立一个完全开源、[非营利的竞争对手](https://zh.wikipedia.org/wiki/非营利 "wikilink")。并在他的[Twitter帐户上宣布](../Page/Twitter.md "wikilink")，他稍后将在发布该事件的详细细节。\[29\]\[30\]\[31\]MEGA官方回应称，当局并没有任何反对或干涉MEGA的行动。\[32\]
+site）”。金·達康鼓励用户不要再使用该服务，并计划建立一个完全开源、[非营利的竞争对手](https://zh.wikipedia.org/wiki/非营利 "wikilink")。并在他的[Twitter帐户上宣布](../Page/Twitter.md "wikilink")，他稍后将在发布该事件的详细细节。\[29\]\[30\]\[31\]MEGA官方回应称，当局并没有任何反对或干涉MEGA的行动。\[32\]
 
 2016年，Mega公司根据[开源](../Page/开源软件.md "wikilink")[许可证在](../Page/软件许可证.md "wikilink")[Github上发布了其客户端软件的](https://zh.wikipedia.org/wiki/Github "wikilink")[源代码](../Page/源代码.md "wikilink")。\[33\]\[34\]
 
@@ -33,7 +33,7 @@ site）”。達康鼓励用户不要再使用该服务了，并计划建立一�
 
 ## 隐私
 
-MEGA的主要开发者達康表示MEGA使用[AES进行](../Page/高级加密标准.md "wikilink")，由于MEGA服务器端不知道上传文件的加密[密钥](https://zh.wikipedia.org/wiki/密钥 "wikilink")，因此无法解密和查看内容。因此，他们不对用户上传文件的内容负责。\[36\]達康还表示，文件的加密允许他们与世界各地数据托管公司合作，减少政府和ISP检测服务器的内容的审查。他在接受[Ars
+MEGA的主要开发者達康表示MEGA使用[AES进行](../Page/高级加密标准.md "wikilink")，由于MEGA服务器端不知道上传文件的加密[密钥](../Page/密钥.md "wikilink")，因此无法解密和查看内容。因此，他们不对用户上传文件的内容负责。\[36\]達康还表示，文件的加密允许他们与世界各地数据托管公司合作，减少政府和ISP检测服务器的内容的审查。他在接受[Ars
 Technica的采访时提到](../Page/Ars_Technica.md "wikilink")“每个文件至少分别存储在两个地理位置不同的托管服务器上（Each
 file will be kept with at least two different hosters \[sic\], \[in\] at
 least two different

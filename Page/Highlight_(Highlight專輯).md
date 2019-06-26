@@ -1,4 +1,4 @@
-《**Highlight**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Highlight的第三張正規專輯](https://zh.wikipedia.org/wiki/Highlight_\(韓國組合\) "wikilink")，本作亦是成員[張賢勝退出組合後](../Page/張賢勝.md "wikilink")，首次以五人之姿發行的作品。由[Cube娛樂企劃](../Page/Cube娛樂.md "wikilink")，2016年6月27日公開先行曲〈Butterfly〉，專輯則於隊長[尹斗俊生日](../Page/尹斗俊.md "wikilink")7月4日由[環球音樂發行](https://zh.wikipedia.org/wiki/環球音樂 "wikilink")\[1\]，主打曲為〈Ribbon〉（）。
+《**Highlight**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Highlight的第三張正規專輯](../Page/Highlight_\(韓國組合\).md "wikilink")，本作亦是成員[張賢勝退出組合後](../Page/張賢勝.md "wikilink")，首次以五人之姿發行的作品。由[Cube娛樂企劃](../Page/Cube娛樂.md "wikilink")，2016年6月27日公開先行曲〈Butterfly〉，專輯則於隊長[尹斗俊生日](../Page/尹斗俊.md "wikilink")7月4日由[環球音樂發行](https://zh.wikipedia.org/wiki/環球音樂 "wikilink")\[1\]，主打曲為〈Ribbon〉（）。
 
 ## 概要
 

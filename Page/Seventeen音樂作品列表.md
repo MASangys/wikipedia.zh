@@ -1347,7 +1347,7 @@ World</a><br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p>月之落<small>（달의 몰락）（原唱：<a href="https://zh.wikipedia.org/wiki/金賢哲" title="wikilink">金賢哲</a>）</small></p></td>
+<td><p>月之落<small>（달의 몰락）（原唱：<a href="../Page/金賢哲.md" title="wikilink">金賢哲</a>）</small></p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
 <td><p>《복면가왕 70회》<ref></p>
@@ -1558,7 +1558,7 @@ World</a><br />
 <td><p><a href="https://soundcloud.com/pledis_seventeen/seventeen-mixtape-vol8-b-boyb-boymeek-mill-samplingvernon">B Boy</a></p></td>
 <td><p>Vernon</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=BfqnmJZeLgQ">B BOY</a></p></td>
-<td><p>(ft. <a href="../Page/大肖恩.md" title="wikilink">Big Sean</a> &amp; )</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Meek_Mill" title="wikilink">Meek Mill</a> (ft. <a href="../Page/大肖恩.md" title="wikilink">Big Sean</a> &amp; )</p></td>
 <td></td>
 <td></td>
 <td></td>

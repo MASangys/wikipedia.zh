@@ -1,4 +1,4 @@
-**80天环游地球**（）是一部由游戏公司开发的[文字冒险类游戏](https://zh.wikipedia.org/wiki/文字冒险 "wikilink")。游戏分别于2014年7月31日、2014年12月16日和2015年12月29日登陆[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")\[1\]、[安卓和](https://zh.wikipedia.org/wiki/安卓 "wikilink")[微软视窗及](https://zh.wikipedia.org/wiki/微软视窗 "wikilink")[macOS](https://zh.wikipedia.org/wiki/macOS "wikilink")\[2\]平台。这款游戏使用的带分支故事叙述模式使得玩家能够在游戏中做出能够影响剧情发展的选择。\[3\]
+**80天环游地球**（）是一部由游戏公司[Inkle开发的](../Page/Inkle.md "wikilink")[文字冒险类游戏](https://zh.wikipedia.org/wiki/文字冒险 "wikilink")。游戏分别于2014年7月31日、2014年12月16日和2015年12月29日登陆[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")\[1\]、[安卓和](https://zh.wikipedia.org/wiki/安卓 "wikilink")[微软视窗及](https://zh.wikipedia.org/wiki/微软视窗 "wikilink")[macOS](https://zh.wikipedia.org/wiki/macOS "wikilink")\[2\]平台。这款游戏使用的带分支故事叙述模式使得玩家能够在游戏中做出能够影响剧情发展的选择。\[3\]
 
 ## 游戏情节和玩法
 

@@ -46,8 +46,7 @@ Know、彰彬、鉉辰、Han、Felix、昇玟、I.N首波個人概念照，以�
 
 本專輯《I am NOT》含意為「醒悟了自己並不是自己」，講述了自己的真實情況和真正想要說的話，傳達對自我認知的苦惱。
 主打歌〈District 9〉表現出只屬於Stray
-Kids音樂的秘密基地，意味「擺脫常規、打破現有的框架，並建立屬於自己的領域」，是首混合了Hip
-Hop、Rock、EDM三種曲風的歌曲。
+Kids音樂的秘密基地，意味「擺脫常規、打破現有的框架，並建立屬於自己的領域」，是首混合了[Hip-hop](https://zh.wikipedia.org/wiki/Hip-hop "wikilink")、[搖滾與](https://zh.wikipedia.org/wiki/搖滾 "wikilink")[EDM三種曲風的歌曲](https://zh.wikipedia.org/wiki/EDM "wikilink")\[4\]。
 
 ### 發行版本
 
@@ -108,14 +107,14 @@ Pre-Debut專輯《Mixtape》+ 7首音樂影片
 <td><p>專輯週榜</p></td>
 <td><p>2018年3月25日－31日</p></td>
 <td><p>#4</p></td>
-<td><p>86,576+[4]</p></td>
-<td><p>[5]</p></td>
+<td><p>86,576+[5]</p></td>
+<td><p>[6]</p></td>
 </tr>
 <tr class="even">
 <td><p>專輯月榜</p></td>
 <td><p>2018年3月</p></td>
 <td><p>#7</p></td>
-<td><p>[6]</p></td>
+<td><p>[7]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -124,7 +123,7 @@ Pre-Debut專輯《Mixtape》+ 7首音樂影片
 <td><p>專輯上半年榜</p></td>
 <td><p>2018年1月－6月</p></td>
 <td><p>#28</p></td>
-<td><p>[7]</p></td>
+<td><p>[8]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -133,7 +132,7 @@ Pre-Debut專輯《Mixtape》+ 7首音樂影片
 <td><p>專輯年榜</p></td>
 <td><p>2018年</p></td>
 <td><p>#54</p></td>
-<td><p>[8]</p></td>
+<td><p>[9]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -145,7 +144,7 @@ Pre-Debut專輯《Mixtape》+ 7首音樂影片
 <td><p>2018年3月23日－29日</p></td>
 <td><p>#2</p></td>
 <td><p>6.54%</p></td>
-<td><p>[9]</p></td>
+<td><p>[10]</p></td>
 </tr>
 <tr class="even">
 <td><p>美國</p></td>
@@ -163,7 +162,7 @@ Pre-Debut專輯《Mixtape》+ 7首音樂影片
 <td><p>2018年3月25日－31日</p></td>
 <td><p>#9</p></td>
 <td><p>rowspan=4 </p></td>
-<td><p>[10]</p></td>
+<td><p>[11]</p></td>
 </tr>
 </tbody>
 </table>
@@ -243,3 +242,4 @@ Pre-Debut專輯《Mixtape》+ 7首音樂影片
 8.
 9.
 10.
+11.

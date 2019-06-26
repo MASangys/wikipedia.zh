@@ -16,13 +16,17 @@ Girl歷年發行及參與的各類音樂專輯](https://zh.wikipedia.org/wiki/Oh
 </tr>
 <tr class="even">
 <td><p><strong>1st</strong></p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/The_Fifth_Season" title="wikilink">The Fifth Season</a></strong>》</p>
+<td><p>《<strong><a href="../Page/The_Fifth_Season.md" title="wikilink">The Fifth Season</a></strong>》</p>
 <ul>
 <li>發行日期：2019年5月8日</li>
 <li>語言：韓語</li>
 <li>唱片公司：</li>
 <li>格式：CD唱片、數位下載</li>
-<li>專輯銷售:</li>
+<li>專輯銷售:21,203+<ref>專輯銷量排名《The Fifth Season》</li>
+<li><a href="http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&amp;serviceGbn=&amp;targetTime=05&amp;hitYear=2019&amp;termGbn=month">GAON 2019年5月專輯榜16位</a></li>
+</ul>
+<p></ref></p>
+<ul>
 <li>備註：出道四年以來首張專輯</li>
 </ul></td>
 <td></td>
@@ -140,7 +144,7 @@ Girl歷年發行及參與的各類音樂專輯](https://zh.wikipedia.org/wiki/Oh
 </tr>
 <tr class="odd">
 <td><p><strong>6th</strong></p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/Remember_Me_(Oh_My_Girl迷你專輯)" title="wikilink">Remember me</a></strong>》</p>
+<td><p>《<strong><a href="../Page/Remember_Me_(Oh_My_Girl迷你專輯).md" title="wikilink">Remember me</a></strong>》</p>
 <ul>
 <li>發行日期：2018年9月10日</li>
 <li>語言：韓語</li>

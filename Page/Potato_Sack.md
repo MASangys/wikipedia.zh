@@ -152,7 +152,7 @@ Sack的廉价媒体策略”\[54\]。
 
 ## 评价
 
-总的来说，这款[另類實境遊戲得到了来自游戏玩家们不同的反应](https://zh.wikipedia.org/wiki/另類實境遊戲 "wikilink")，有人称赞它是《传送门2》和独立游戏的一个优秀营销手段，还有人则认为这是一种强迫玩家们购买原本没有打算购买的游戏的行为。\[55\]\[56\]\[57\][GamePro的Pete](https://zh.wikipedia.org/wiki/GamePro "wikilink")
+总的来说，这款[另類實境遊戲得到了来自游戏玩家们不同的反应](../Page/另類實境遊戲.md "wikilink")，有人称赞它是《传送门2》和独立游戏的一个优秀营销手段，还有人则认为这是一种强迫玩家们购买原本没有打算购买的游戏的行为。\[55\]\[56\]\[57\][GamePro的Pete](https://zh.wikipedia.org/wiki/GamePro "wikilink")
 Davison认为这是一种“冒险的营销举动”，这么做的原因是[威尔乌与玩家相互间的信任和自身的长期声誉](../Page/威尔乌.md "wikilink")，以及可以塑造威尔乌“大力支持独立游戏”的形象。\[58\]《[福布斯](../Page/福布斯.md "wikilink")》的David
 Ewalt认为这种策略对于独立游戏开发者来说是有巨大的好处，他们的游戏在《传送门2》发行的几周内登上了Steam销售排行榜。\[59\][Ars
 Technica的Ben](../Page/Ars_Technica.md "wikilink")

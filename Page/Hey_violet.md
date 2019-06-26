@@ -66,21 +66,17 @@ Violet在歐洲與北美洲的巡迴皆有為粉絲們在演唱會開始前在�
 
 ## 團員
 
-### 現任成員
-
-  - Miranda
-    Miller-[吉他](../Page/吉他.md "wikilink")／[鍵盤樂器](../Page/鍵盤樂器.md "wikilink")／人聲（2008-現今）
-  - Nia Lovelis-[鼓](../Page/鼓.md "wikilink")／人聲（2008-現今）
-  - Rena
-    Lovelis-[貝斯](https://zh.wikipedia.org/wiki/貝斯 "wikilink")／[主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")（2008-現今）
-  - Casey Moreta-[吉他](../Page/吉他.md "wikilink")／人聲（2013-現今）
-
-Iain Shipp (2016-now)
-
-### 已離開成員
-
-  - Julia
-    Pierce-[吉他](../Page/吉他.md "wikilink")／[主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")（2008-2013）
+| colspan="5" style= |現任成員  |
+| ------------------------- |
+| 藝名                        |
+| Rena Lovelis              |
+| Nia Lovelis               |
+| Casey Moreta              |
+| colspan="5" style= |已離開成員 |
+| Julia Pierce              |
+| Miranda Miller            |
+| Iain Shipp                |
+|                           |
 
 ## 專輯
 
@@ -98,19 +94,23 @@ Iain Shipp (2016-now)
 
 ## 外部連結
 
+  - [Hey violet官網](https://www.heyviolet.com/)
+
+  - [Hey
+    Violet的YouTube頻道](https://www.youtube.com/channel/UCV_YtXxRY3Z38Fs1QG25Jxw)
+
+  -
+  -
+  -
+  -
   - [Cherri Bomb](http://www.allmusic.com/artist/mn0002770685) at
-    [AllMusic](https://zh.wikipedia.org/wiki/AllMusic "wikilink")（英文）</small>
-  - Staff (undated). ["Cherri
-    Bomb"](http://www.last.fm/music/Cherri+Bomb) .
-    [Last.fm.](https://zh.wikipedia.org/wiki/Last.fm. "wikilink")（英文）</small>
-  - [heyviolet.com](http://www.heyviolet.com), the band's official
-    website（英文）</small>
-  - [youtube.com/heyviolet](https://www.youtube.com/channel/UCV_YtXxRY3Z38Fs1QG25Jxw)（英文）</small>
-  - [twitter.com/HeyViolet](https://twitter.com/HeyViolet) （英文）</small>
-  - [instagram.com/heyviolet/](https://instagram.com/heyviolet/)（英文）</small>
-  - [www.facebook.com/heyvioletofficial](https://www.facebook.com/heyvioletofficial)（英文）</small>
-  - [heyvioletofficial.tumblr.com](http://heyvioletofficial.tumblr.com)（英文）</small>
-  - [arcticterntalk.org/2015/06/22/hey-violet-usa-band/](http://arcticterntalk.org/2015/06/22/hey-violet-usa-band/)（英文）</small>
+    [AllMusic](https://zh.wikipedia.org/wiki/AllMusic "wikilink")
+
+  - [Cherri Bomb](http://www.last.fm/music/Cherri+Bomb) at
+    [Last.fm.](https://zh.wikipedia.org/wiki/Last.fm. "wikilink")
+
+  - [Hey Violet - USA
+    Band](http://arcticterntalk.org/2015/06/22/hey-violet-usa-band/)
 
 [Category:美国硬式摇滚乐团](https://zh.wikipedia.org/wiki/Category:美国硬式摇滚乐团 "wikilink")
 [Category:2008年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2008年成立的音樂團體 "wikilink")

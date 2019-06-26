@@ -1,6 +1,6 @@
 **LINE
 Pay**是內建於通訊軟體[LINE的](../Page/LINE.md "wikilink")[行動支付服務功能](../Page/行動支付.md "wikilink")，透過儲存於LINE
-Pay綁定帳戶內的支付資訊可在與LINE Pay合作的線上或線下商家進行非接觸式付款，並可在好友間免手續費轉帳。
+Pay帳戶內的支付資訊可在與LINE Pay合作的線上或線下商家進行非接觸式付款，並可在好友間免手續費轉帳。
 
 現在[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")、[印尼](https://zh.wikipedia.org/wiki/印尼 "wikilink")、[台灣及](https://zh.wikipedia.org/wiki/台灣 "wikilink")[日本皆提供Line](../Page/日本.md "wikilink")
 Pay服務，泰國及台灣地區的Line Pay可跨境使用，未來日本也將提供入境旅客使用Line
@@ -22,14 +22,14 @@ Pay一卡通或拍攝信用卡、簽帳卡照片、手動輸入信用卡、簽�
 
 #### 一卡通帳戶
 
-透過與金融機構合作的銀行帳戶綁定LINE Pay 一卡通，即可將銀行內資金儲存至LINE Pay 一卡通帳戶內，可用於與實體通路掃描QR
+透過與金融機構合作的銀行帳戶連結LINE Pay 一卡通，即可將銀行內資金儲存至LINE Pay 一卡通帳戶內，可用於與實體通路掃描QR
 Code進行消費，或在好友間進行免手續費轉帳作業。 截至2018年11月28日止，LINE Pay
 一卡通合作可支援儲值的銀行為[台北富邦銀行](https://zh.wikipedia.org/wiki/台北富邦銀行 "wikilink")、[高雄銀行](../Page/高雄銀行.md "wikilink")、[新光銀行](https://zh.wikipedia.org/wiki/新光銀行 "wikilink")、[聯邦銀行](https://zh.wikipedia.org/wiki/聯邦銀行 "wikilink")、[玉山銀行](https://zh.wikipedia.org/wiki/玉山銀行 "wikilink")、[中國信託銀行](https://zh.wikipedia.org/wiki/中國信託銀行 "wikilink")、[中華郵政](https://zh.wikipedia.org/wiki/中華郵政 "wikilink")、[台灣銀行](https://zh.wikipedia.org/wiki/台灣銀行 "wikilink")、[永豐銀行](https://zh.wikipedia.org/wiki/永豐銀行 "wikilink")。
 
 #### [信用卡與](../Page/信用卡.md "wikilink")[簽帳卡](https://zh.wikipedia.org/wiki/簽帳卡 "wikilink")
 
-透過與金融機構合作的信用卡、簽帳卡加到LINE Pay中，可用於與實體通路掃描QR Code進行消費。 截至2018年11月3日止，LINE
-Pay一卡通合作可支援綁定全台各家[VISA](https://zh.wikipedia.org/wiki/:Visa金融卡 "wikilink")、[MasterCard](https://zh.wikipedia.org/wiki/MasterCard "wikilink")、[JCB三類信用卡](../Page/JCB.md "wikilink")。
+透過將合作金融機構的信用卡、簽帳卡加入到LINE Pay中，可用於與實體通路掃描QR Code進行消費。 截至2018年11月3日止，LINE
+Pay一卡通合作可加入全台下列三類信用卡[VISA](https://zh.wikipedia.org/wiki/:Visa金融卡 "wikilink")、[MasterCard](https://zh.wikipedia.org/wiki/MasterCard "wikilink")、[JCB](../Page/JCB.md "wikilink")。
 
 ## 台灣地區應用
 
@@ -48,7 +48,7 @@ Pay掃描店家的熊大立牌QR code都可以賺取點數唷 2019/6/30號以前
 
 ##### LINE Pay信用卡、簽帳卡
 
-綁定中國信託LINE Pay信用卡或簽帳卡，於2018年1月1日至2018年12月31日間，不論透過實體卡片或LINE app的LINE
+加入中國信託LINE Pay信用卡或簽帳卡，於2018年1月1日至2018年12月31日間，不論透過實體卡片或LINE app的LINE
 Pay功能消費，皆可獲得回饋消費金額2%的LINE Points點數。點數入帳時間須待各通路請款後發送。
 
 ##### 賺點活動
@@ -64,7 +64,7 @@ Pay合作通路](https://event-web.line.me/ectw/article/%E2%9C%94%EF%B8%8F+LINE+
 
 ### 即時付費通知
 
-綁定[中國信託LINE
+加入[中國信託LINE
 Pay信用卡](https://www.ctbcbank.com/CTCBPortalWeb/toPage?id=TW_RB_CM_creditcard_000211)或簽帳卡，不論透過實體卡片或手機通訊軟體LINE內建的LINE
 Pay功能消費，皆會在消費當下收到LINE訊息通知已支付款項。此功能可使信用卡或簽帳卡持有人的卡片遭盜刷或刷卡金額錯誤時即時受到通知。
 

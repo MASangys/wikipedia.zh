@@ -61,6 +61,7 @@
 [Category:韓裔美國人](https://zh.wikipedia.org/wiki/Category:韓裔美國人 "wikilink")
 [Category:布朗克斯人](https://zh.wikipedia.org/wiki/Category:布朗克斯人 "wikilink")
 [Category:耶鲁医学院校友](https://zh.wikipedia.org/wiki/Category:耶鲁医学院校友 "wikilink")
+[Category:耶鲁神学院校友](https://zh.wikipedia.org/wiki/Category:耶鲁神学院校友 "wikilink")
 [Category:美国精神科医生](https://zh.wikipedia.org/wiki/Category:美国精神科医生 "wikilink")
 
 1.

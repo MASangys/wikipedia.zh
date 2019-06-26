@@ -42,7 +42,7 @@ To New World》，以主打歌《I'm fine》出道\[2\]。
 ### 2019年
 
   - 3月15日，Plan A宣布成員韓勝宇、崔秉燦參加Mnet選秀節目《[PRODUCE X
-    101](../Page/PRODUCE_X_101.md "wikilink")》，兩位成員皆進入A等級，進行主題曲Center網路投票。
+    101](../Page/PRODUCE_X_101.md "wikilink")》\[12\]，兩位成員皆進入A等級，進行主題曲Center網路投票。
 
 ## 成員資料
 
@@ -52,7 +52,7 @@ To New World》，以主打歌《I'm fine》出道\[2\]。
 <td><p>現任成員</p></td>
 </tr>
 <tr class="even">
-<td><p>本名[12]</p></td>
+<td><p>本名[13]</p></td>
 </tr>
 <tr class="odd">
 <td><p>韓勝宇<br />
@@ -105,7 +105,7 @@ To New World》，以主打歌《I'm fine》出道\[2\]。
 <ul>
 <li>發行日期：2016年11月9日</li>
 <li>語言：韓語</li>
-<li>專輯銷量：14,947+[13][14]</li>
+<li>專輯銷量：14,947+[14][15]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -115,7 +115,7 @@ To New World》，以主打歌《I'm fine》出道\[2\]。
 <ul>
 <li>發行日期：2017年3月2日</li>
 <li>語言：韓語</li>
-<li>專輯銷量：27,395+[15]</li>
+<li>專輯銷量：27,395+[16]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -125,7 +125,7 @@ To New World》，以主打歌《I'm fine》出道\[2\]。
 <ul>
 <li>發行日期：2017年8月23日</li>
 <li>語言：韓語</li>
-<li>專輯銷量：21,371+[16]</li>
+<li>專輯銷量：21,371+[17]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -135,7 +135,7 @@ To New World》，以主打歌《I'm fine》出道\[2\]。
 <ul>
 <li>發行日期：2017年11月9日</li>
 <li>語言：韓語</li>
-<li>專輯銷量：13,419+[17]</li>
+<li>專輯銷量：13,419+[18]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -169,12 +169,36 @@ To New World》，以主打歌《I'm fine》出道\[2\]。
 <ul>
 <li>發行日期：2018年5月23日</li>
 <li>語言：韓語</li>
-<li>專輯銷量：11,123+[18]</li>
+<li>專輯銷量：11,123+[19]</li>
 <li>參與藝人：Victon</li>
 </ul></td>
 <td><ol>
 <li><strong>Time of sorrow （）</strong></li>
 <li>Time of sorrow （Inst.）</li>
+</ol></td>
+</tr>
+</tbody>
+</table>
+
+### 電視原聲帶
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>年份</strong></p></td>
+<td><p><strong>原聲帶資料</strong></p></td>
+<td><p><strong>曲目</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>2018</p></td>
+<td><p>《<strong>那個男人 吳秀 OST Part.6</strong>》</p>
+<ul>
+<li>發行日期：2018年4月9日</li>
+<li>語言：韓語</li>
+</ul></td>
+<td><ol>
+<li><strong>Celebrate</strong></li>
+<li>Celebrate （Inst.）</li>
 </ol></td>
 </tr>
 </tbody>
@@ -234,14 +258,30 @@ To New World》，以主打歌《I'm fine》出道\[2\]。
 | 2016         | TVicton                                                                           | [VICTON](http://www.youtube.com/playlist?list=PLmK1FmGJobnB_ZKw-xvjjtAby2qH2R29k) |
 | VICTON diary | [VICTON](http://www.youtube.com/playlist?list=PLmK1FmGJobnAFs-QyXQjXrJV4F-uJNJmh) |                                                                                   |
 
+## 音樂創作
+
+[社團法人韓國音樂著作權協會(KOMCA)登記之資料](../Page/韓國音樂著作權協會.md "wikilink")
+
+|    |      |          |        |
+| -- | ---- | -------- | ------ |
+| 成員 | 登記名稱 | 登記編號     | 參與歌曲列表 |
+| 勝宇 | 한승우  | 10013330 | \[20\] |
+| 昇植 | 강승식  | 10013334 | \[21\] |
+| 許燦 | 허찬   | 10013325 | \[22\] |
+| 勢俊 | 임세준  | 10013333 | \[23\] |
+| 韓勢 | 도한세  | 10013335 | \[24\] |
+| 秉燦 | 최병찬  | 10013336 | \[25\] |
+| 秀彬 | 정수빈  | 10013328 | \[26\] |
+
 ## 影視作品
 
-### 電視劇
+### 戲劇
 
 | 電視劇列表             |
 | ----------------- |
 | 日期                |
 | 2015年10月5日-11月10日 |
+| 2019年6月4日-        |
 
 ### 專屬綜藝節目
 
@@ -249,6 +289,8 @@ To New World》，以主打歌《I'm fine》出道\[2\]。
 | ---------------- |
 | 日期               |
 | 2016年8月31日-11月1日 |
+| 2016年11月12日-至今   |
+| 2016年11月17日-至今   |
 | 2017年5月16日-7月6日  |
 
 ### 綜藝節目
@@ -514,10 +556,18 @@ To New World》，以主打歌《I'm fine》出道\[2\]。
 9.
 10.
 11.
-12. 成員本名已在官咖正名。
-13. [2016年12月GAON專輯榜26位](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=12&hitYear=2016&termGbn=month)
-14. [2017年1月GAON專輯榜56位](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=01&hitYear=2017&termGbn=month)
-15. [2017年4月GAON專輯榜17位](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=04&hitYear=2017&termGbn=month)
-16. [2017年9月GAON專輯榜26位](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&termGbn=year)
-17. [2017年12月GAON專輯榜](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=12&hitYear=2017&termGbn=month)
-18. [2018年5月GAON專輯榜17位](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&termGbn=month)
+12.
+13. 成員本名已在官咖正名。
+14. [2016年12月GAON專輯榜26位](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=12&hitYear=2016&termGbn=month)
+15. [2017年1月GAON專輯榜56位](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=01&hitYear=2017&termGbn=month)
+16. [2017年4月GAON專輯榜17位](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=04&hitYear=2017&termGbn=month)
+17. [2017年9月GAON專輯榜26位](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&termGbn=year)
+18. [2017年12月GAON專輯榜](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=12&hitYear=2017&termGbn=month)
+19. [2018年5月GAON專輯榜17位](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&termGbn=month)
+20.
+21.
+22.
+23.
+24.
+25.
+26.

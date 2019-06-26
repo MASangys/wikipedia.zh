@@ -1112,14 +1112,25 @@ Guest](../Page/客：The_Guest.md "wikilink")》\[2\]。
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2019年5月 日－<br />
-2019年 月 日</p></td>
+<td><p>2019年5月11日－<br />
+2019年6月30日</p></td>
 <td><p><a href="../Page/Voice3.md" title="wikilink">Voice3</a><br />
 </p></td>
-<td></td>
+<td><p>16</p></td>
 <td><p><a href="../Page/李陣郁.md" title="wikilink">李陣郁</a>、<a href="../Page/李荷娜.md" title="wikilink">李荷娜</a></p></td>
 <td><p><a href="../Page/馬珍媛.md" title="wikilink">馬珍媛</a></p></td>
 <td><p>李勝英</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年7月6日－<br />
+2019年8月25日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Watcher" title="wikilink">Watcher</a><br />
+</p></td>
+<td><p>16</p></td>
+<td><p><a href="../Page/韓石圭.md" title="wikilink">韓石圭</a>、<a href="../Page/徐康俊.md" title="wikilink">徐康俊</a>、<a href="../Page/金賢珠.md" title="wikilink">金賢珠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/安吉镐" title="wikilink">安吉镐</a></p></td>
+<td><p>韓相雲</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -1209,14 +1220,25 @@ Guest](../Page/客：The_Guest.md "wikilink")》\[2\]。
 </tr>
 <tr class="odd">
 <td><p>2019年5月8日－<br />
-2019年 月 日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/救救我2" title="wikilink">救救我2</a><br />
+2019年6月27日</p></td>
+<td><p><a href="../Page/救救我2.md" title="wikilink">救救我2</a><br />
 </p></td>
 <td><p>16</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/嚴泰久" title="wikilink">嚴泰久</a>、<a href="../Page/千虎珍.md" title="wikilink">千虎珍</a>、<a href="../Page/李絮.md" title="wikilink">李絮</a>、<a href="https://zh.wikipedia.org/wiki/金永敏" title="wikilink">金永敏</a></p></td>
-<td></td>
+<td><p>、<a href="../Page/千虎珍.md" title="wikilink">千虎珍</a>、<a href="../Page/李絮.md" title="wikilink">李絮</a>、</p></td>
+<td><p>徐珠妍</p></td>
 <td><p>李權</p></td>
-<td><p>原作：<a href="https://zh.wikipedia.org/wiki/趙錦山" title="wikilink">趙錦山</a>《走出世界》</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年7月17日－<br />
+2019年 月 日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/臨時制先生" title="wikilink">臨時制先生</a><br />
+</p></td>
+<td></td>
+<td><p><a href="../Page/尹鈞相.md" title="wikilink">尹鈞相</a>、<a href="https://zh.wikipedia.org/wiki/琴賽璐" title="wikilink">琴賽璐</a>、<a href="../Page/李濬榮.md" title="wikilink">李濬榮</a>、<a href="../Page/崔有華.md" title="wikilink">崔有華</a></p></td>
+<td><p>成容日</p></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>

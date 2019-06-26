@@ -14,66 +14,61 @@
 ## 巡演時間表
 
 <table>
+<thead>
+<tr class="header">
+<th><p>年份</p></th>
+<th><p>日期</p></th>
+<th><p>演唱會站次</p></th>
+<th><p>演出場地</p></th>
+<th><p>觀賞人數</p></th>
+</tr>
+</thead>
 <tbody>
 <tr class="odd">
-<td><p>日期</p></td>
-<td><p>城市</p></td>
-<td><p>國家/地區</p></td>
-<td><p>演出場地</p></td>
-<td><p>觀賞人數</p></td>
+<td><p>2017年</p></td>
+<td><p>2月17日</p></td>
+<td><p>首爾站</p></td>
+<td><p><a href="../Page/SK奧林匹克手球館.md" title="wikilink">SK奧林匹克手球館</a></p></td>
+<td><p>16,256 [6]</p></td>
 </tr>
 <tr class="even">
-<td><p>2017年2月17日</p></td>
-<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a></p></td>
-<td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/SK奧林匹克手球競技場" title="wikilink">首爾奧林匹克公園SK手球競技場</a></p></td>
-<td><p>15,000[6]</p></td>
-</tr>
-<tr class="odd">
-<td><p>2017年2月18日</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2017年2月19日</p></td>
+<td><p>2月18日</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2017年4月8日</p></td>
-<td><p><a href="../Page/曼谷.md" title="wikilink">曼谷</a></p></td>
+<td><p>2月19日</p></td>
 <td></td>
-<td><p>Thunder Dome, Muang Thong Thani</p></td>
-<td><p>4,000[7]</p></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
-<td><p>2017年4月29日</p></td>
-<td><p><a href="../Page/新加坡.md" title="wikilink">新加坡</a></p></td>
+<td><p>4月8日</p></td>
+<td><p>曼谷站</p></td>
 <td></td>
-<td><p>星宇表演藝術中心</p></td>
-<td><p>5,000[8]</p></td>
-</tr>
-<tr class="odd">
-<td><p>2017年6月17日 (安可)</p></td>
-<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a></p></td>
-<td></td>
-<td><p>蠶室室內體育館</p></td>
-<td><p>12,000[9]</p></td>
-</tr>
-<tr class="even">
-<td><p>2017年6月18日 (安可)</p></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>4,268 [7]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>總計</p></td>
-<td><p>36,000</p></td>
+<td><p>4月29日</p></td>
+<td><p>新加坡站</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/星宇表演藝術中心" title="wikilink">星宇表演藝術中心</a></p></td>
+<td><p>5,052 [8]</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>6月17日</p></td>
+<td><p>首爾站 (安可)</p></td>
+<td></td>
+<td><p>12,568 [9]</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>6月18日</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -126,18 +121,11 @@
 [Category:巡迴音樂會](https://zh.wikipedia.org/wiki/Category:巡迴音樂會 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
 9.

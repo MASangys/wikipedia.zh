@@ -12,7 +12,6 @@
 <th><p>码位数</p></th>
 <th><p>L2 ID</p></th>
 <th><p>WG2 ID</p></th>
-<th><p>IRG ID</p></th>
 <th><p>文档</p></th>
 </tr>
 </thead>
@@ -24,7 +23,6 @@
 <td></td>
 <td><p><a href="http://std.dkuug.dk/jtc1/sc2/wg2/docs/n2363.pdf">N2363</a></p></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -33,10 +31,8 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="odd">
-<td></td>
 <td></td>
 <td></td>
 <td></td>

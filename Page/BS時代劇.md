@@ -21,7 +21,7 @@
 <td><p>2011年4月3日<br />
 2011年6月19日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/司馬遼太郎" title="wikilink">司馬遼太郎</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/永井大" title="wikilink">永井大</a></p></td>
+<td><p><a href="../Page/永井大.md" title="wikilink">永井大</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>

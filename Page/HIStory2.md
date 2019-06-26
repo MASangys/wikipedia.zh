@@ -255,7 +255,7 @@ TV上架播出。\[2\]
 <p><a href="../Page/章哲銘.md" title="wikilink">章哲銘</a></p></td>
 <td><center>
 <p>江勁揚</p></td>
-<td><p>志弘中學一年級生，學校排球隊隊員。江勁騰的表弟，背號5。</p></td>
+<td><p>志弘中學一年級生，學校排球隊隊員，背號5。</p></td>
 </tr>
 <tr class="odd">
 <td><center>
@@ -316,7 +316,7 @@ TV上架播出。\[2\]
 | 片頭曲                                             | 完美的扣球                                               | [劉鴻敏](../Page/劉鴻敏.md "wikilink")、[劉鴻-{杰}-](../Page/劉鴻杰.md "wikilink") | [陳瑋儒](https://zh.wikipedia.org/wiki/陳瑋儒 "wikilink")     | [陳瑋儒](https://zh.wikipedia.org/wiki/陳瑋儒 "wikilink")                        |                                  |
 | 片尾曲                                             | 越界                                                  | [李振源](https://zh.wikipedia.org/wiki/李振源 "wikilink")                   | [青鳥合唱團](https://zh.wikipedia.org/wiki/青鳥合唱團 "wikilink") | [青鳥合唱團](https://zh.wikipedia.org/wiki/青鳥合唱團 "wikilink")                    |                                  |
 | 插曲                                              | ANTI-HERO                                           | 久升音藝-GOTHICSTORM                                                      |                                                         |                                                                            | 第六集球網之吻後，出自專輯《LOOK TO THE STARS》 |
-| 背著你回家                                           |                                                     |                                                                       | [陳瑋儒](https://zh.wikipedia.org/wiki/陳瑋儒 "wikilink")     | 第三集子軒三連發之前、第五集兄弟公車站、第六集球網之吻                                                |                                  |
+| 背著你回家                                           |                                                     |                                                                       | [陳瑋儒](https://zh.wikipedia.org/wiki/陳瑋儒 "wikilink")     | 第三集子軒三連發之前、第五集兄弟公車站、第六集球網之吻、第八集子軒從排球隊的休息室跑出去                               |                                  |
 | 越界 完整吉他版                                        | [李振源](https://zh.wikipedia.org/wiki/李振源 "wikilink") | [青鳥合唱團](https://zh.wikipedia.org/wiki/青鳥合唱團 "wikilink")               | [青鳥合唱團](https://zh.wikipedia.org/wiki/青鳥合唱團 "wikilink") | 第六集浴室戲後夏宇豪的回憶、第七集兄弟和好、第八集領帶之吻                                              |                                  |
 | Write It Off                                    | Vincent Nguyen & Rainer Peters                      |                                                                       |                                                         | 第一集開頭夏宇豪被主任罰半蹲，出自專輯《Better Be Cool》                                        |                                  |
 | Cooking up a Storm                              | Haris Custovic                                      |                                                                       |                                                         | 第一集夏宇豪第一次接邱子軒的球，出自專輯《Strings & Beats》                                      |                                  |

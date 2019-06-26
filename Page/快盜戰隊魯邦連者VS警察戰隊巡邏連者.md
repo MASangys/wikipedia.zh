@@ -290,7 +290,8 @@ SUPER網上直播及節目重溫，而網上直播及節目重溫則與電視播
 <td><p>朝加圭一郎</p></td>
 <td><p>巡邏連1號</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/高田將司" title="wikilink"><font color="white">高田將司</font></a>[44]</p></td>
-<td><p><a href="../Page/李安邦.md" title="wikilink"><font color="white">李安邦</font></a></p></td>
+<td><p><a href="../Page/李安邦.md" title="wikilink"><font color="white">李安邦</font></a><br />
+<a href="../Page/陸惠玲.md" title="wikilink"><font color="white">陸惠玲</font></a>（孩童時期）</p></td>
 <td><p><a href="../Page/蔣鐵城.md" title="wikilink"><font color="white">蔣鐵城</font></a></p></td>
 </tr>
 <tr class="even">
@@ -609,7 +610,7 @@ SUPER網上直播及節目重溫，而網上直播及節目重溫則與電視播
     第51集為了尋回其他魯邦珍藏而招攬勝利、彩及詩穗成為新的快盜，並讓他們三人找出頭獎前鋒好救出困在金庫內的魁利三人。
 
 **希爾托普
-Hilltop管理官**（ヒルトップ管理官）<small>（[艾克·瓦拉](https://zh.wikipedia.org/wiki/艾克·瓦拉 "wikilink")</small>\[65\]／香港CV：[翟耀輝](../Page/翟耀輝.md "wikilink")／台灣CV：[李勇](../Page/李勇_\(配音員\).md "wikilink")）
+Hilltop管理官**（ヒルトップ管理官）<small>（[艾克·瓦拉](https://zh.wikipedia.org/wiki/艾克·瓦拉 "wikilink")\[65\]／香港CV：[翟耀輝](../Page/翟耀輝.md "wikilink")／台灣CV：[李勇](../Page/李勇_\(配音員\).md "wikilink")）</small>
 
   -
     第一人稱「**私**」，國際特別警察機構日本分部的成員，也是警察戰隊的管理官，喜歡日式糕點。
@@ -619,7 +620,7 @@ Hilltop管理官**（ヒルトップ管理官）<small>（[艾克·瓦拉](https
     第51話以自己作擔保下令巡邏連者將Doguranio當場擊斃，但最後仍把Doguranio關進特別禁閉室。
 
 **吉姆・卡特 Jim
-Carter**（ジム・カーター）<small>（[釘宮理惠聲](../Page/釘宮理惠.md "wikilink")+[野川瑞穗皮套演出](https://zh.wikipedia.org/wiki/野川瑞穗 "wikilink")／香港CV：[何晶晶](../Page/何晶晶.md "wikilink")／台灣CV：[高嘉鎂](https://zh.wikipedia.org/wiki/高嘉鎂 "wikilink")）</small>
+Carter**（ジム・カーター）<small>（[釘宮理惠聲](../Page/釘宮理惠.md "wikilink")+[野川瑞穗皮套演出](https://zh.wikipedia.org/wiki/野川瑞穗 "wikilink")／香港CV：[何晶晶](../Page/何晶晶.md "wikilink")／台灣CV：高嘉鎂）</small>
 
   -
     第一人稱「**私**」，國際特別警察機構日本分部所屬的事務用機器人，利用數據庫蒐集相關資料來支援警察戰隊，每當事件發生時，頭上的燈就會閃爍。
@@ -630,7 +631,7 @@ Carter**（ジム・カーター）<small>（[釘宮理惠聲](../Page/釘宮理
     地球王者決定戰](https://zh.wikipedia.org/wiki/歸來的動物戰隊獸王者_納命來吧!_地球王者決定戰 "wikilink")》中聲演女性犀牛獸人
     - 莉莉安。
 
-**夜野勝利**（夜野勝利）<small>（[柴浩二](https://zh.wikipedia.org/wiki/柴浩二 "wikilink")/香港CV：[關令翹](../Page/關令翹.md "wikilink")/台灣CV：[李勇](../Page/李勇_\(配音員\).md "wikilink")）</small>
+**夜野勝利**（夜野勝利）<small>（[柴浩二](https://zh.wikipedia.org/wiki/柴浩二 "wikilink")／香港CV：[關令翹](../Page/關令翹.md "wikilink")／台灣CV：[李勇](../Page/李勇_\(配音員\).md "wikilink")）</small>
 
   -
     魁利的兄長，相當地優秀，也是魁利的崇拜對象，但也因此讓魁利感到自卑而產生反抗心理。
@@ -640,7 +641,7 @@ Carter**（ジム・カーター）<small>（[釘宮理惠聲](../Page/釘宮理
     第50集在Zamigo遭到擊倒後破冰解封。
     第51集獲小暮先生及諾爾招攬成為二代魯邦紅，找出頭獎前鋒以救出被困金庫內的魁利，成功後與其團聚並卸下快盜身份。
 
-**大平彩**（大平彩）<small>（[柚木渚](https://zh.wikipedia.org/wiki/柚木渚 "wikilink")／香港CV：[張頌欣](../Page/張頌欣.md "wikilink")／台灣CV：[高嘉鎂](https://zh.wikipedia.org/wiki/高嘉鎂 "wikilink")）</small>
+**大平彩**（大平彩）<small>（[柚木渚](https://zh.wikipedia.org/wiki/柚木渚 "wikilink")／香港CV：[張頌欣](../Page/張頌欣.md "wikilink")／台灣CV：高嘉鎂）</small>
 
   -
     透真的戀人，兩人之間已有婚約，甚至在一年前的事件發生之前，兩人相約到婚紗店看婚紗，而透真為了讓她吃到一桌好菜而自學廚藝。
@@ -649,7 +650,7 @@ Carter**（ジム・カーター）<small>（[釘宮理惠聲](../Page/釘宮理
     第50集在Zamigo遭到擊倒後破冰解封。
     第51集獲小暮先生及諾爾招攬成為二代魯邦藍，找出頭獎前鋒以救出被困金庫內的透真，成功後與其團聚並卸下快盜身份。
 
-**一之瀬詩穗**（一ノ瀬詩穂）<small>（[小松摩卡](https://zh.wikipedia.org/wiki/小松摩卡 "wikilink")、[狩野海音](https://zh.wikipedia.org/wiki/狩野海音 "wikilink")（孩童時期)／香港CV：）</small>
+**一之瀬詩穗**（一ノ瀬詩穂）<small>（[小松摩卡](https://zh.wikipedia.org/wiki/小松摩卡 "wikilink")、[狩野海音](https://zh.wikipedia.org/wiki/狩野海音 "wikilink")（孩童時期)／香港CV：／台灣CV：高嘉鎂）</small>
 
   -
     初美花的閨蜜好友，兩人在小學的時候就認識了，並在初美花因服裝的關係而遭到其他同學譏諷時挺身而出支持。另外很怕鬼屋裡的鬼怪。
@@ -701,7 +702,7 @@ Carter**（ジム・カーター）<small>（[釘宮理惠聲](../Page/釘宮理
     圭一郎因受其影響而走上成為警察官的道路\[74\]。
     備註：高田將司本人同時也是巡邏連1号及巡邏連U号的替身。
 
-**赤來末那**（赤来末那）<small>（[近藤里沙](https://zh.wikipedia.org/wiki/近藤里沙 "wikilink")／香港CV：）</small>
+**赤來末那**（赤来末那）<small>（[近藤里沙](https://zh.wikipedia.org/wiki/近藤里沙 "wikilink")／香港CV：[陳皓宜](../Page/陳皓宜.md "wikilink")）</small>
 
   -
     BISTROT Jurer的常客，是名富家千金\[75\]。
@@ -710,7 +711,7 @@ Carter**（ジム・カーター）<small>（[釘宮理惠聲](../Page/釘宮理
     最後選擇將自己的愛慕留在心裡並前往澳洲留學。
 
 **亞爾賽奴·魯邦 Arsene
-Lupin**（アルセーヌ・ルパン）<small>（[澤木郁也聲](../Page/澤木郁也.md "wikilink")／香港CV：）</small>
+Lupin**（アルセーヌ・ルパン）<small>（[澤木郁也聲](../Page/澤木郁也.md "wikilink")／香港CV：[朱子聰](../Page/朱子聰.md "wikilink")）</small>
 
   -
     稀世之大快盜，也是魯邦珍藏的最初持有者。
@@ -756,7 +757,7 @@ Lupin**（アルセーヌ・ルパン）<small>（[澤木郁也聲](../Page/澤�
 ### 首領「黃金階級物理性防護（ステイタス・ゴールド・フィジカル・プロテクト）」
 
 *' 道格拉尼奧・亞文
-Doguranio・Yabun（ドグラニオ・ヤーブン）*'<small>（[宮本充聲](../Page/宮本充.md "wikilink")／香港CV：[張炳強](../Page/張炳強.md "wikilink")／台灣CV：[陳幼文皮套演出](../Page/陳幼文.md "wikilink")）</small>
+Doguranio・Yabun（ドグラニオ・ヤーブン）*'<small>（[宮本充聲](../Page/宮本充.md "wikilink")／香港CV：[張炳強](../Page/張炳強.md "wikilink")／台灣CV：[陳幼文](../Page/陳幼文.md "wikilink")）</small>
 
   -
     身高：181cm（巨大化：45.3m）
@@ -1121,7 +1122,7 @@ Ododo・Makishimofu</p></td>
 <td><p>腹部<br />
 （4 0 4）</p></td>
 <td><p>14</p></td>
-<td><p><a href="../Page/胡家豪.md" title="wikilink">胡家豪</a></p></td>
+<td><p><a href="../Page/李凱傑.md" title="wikilink">李凱傑</a></p></td>
 </tr>
 <tr class="even">
 <td><p>托格諾・艾布斯<br />
@@ -1145,7 +1146,7 @@ Togeno・Eibusu</p></td>
 <td><p>左胸<br />
 （9 0 9[109]）</p></td>
 <td><p>14 - 15</p></td>
-<td></td>
+<td><p><a href="../Page/胡家豪.md" title="wikilink">胡家豪</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>曼塔・巴亞希<br />
@@ -1166,7 +1167,7 @@ Manta・Bayashi</p></td>
 <td><p>背部<br />
 （5 2 7）</p></td>
 <td><p>16</p></td>
-<td></td>
+<td><p><a href="../Page/李致林.md" title="wikilink">李致林</a></p></td>
 </tr>
 <tr class="even">
 <td><p>尼羅・奇魯那<br />
@@ -1187,7 +1188,7 @@ Nero・kiruna</p></td>
 <td><p>胸腔<br />
 （6 0 3）</p></td>
 <td><p>17</p></td>
-<td></td>
+<td><p><a href="../Page/鄧志堅.md" title="wikilink">鄧志堅</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>阿尼達拉・馬奇希莫福<br />
@@ -3914,7 +3915,8 @@ Morphin Brace</p></td>
 <td><p>#17</p></td>
 <td></td>
 <td><p>隱藏的思念</p>
-<hr/></td>
+<hr/>
+<p>藏在心中的思念</p></td>
 <td><p>魯邦連者<br />
 巡邏連者</p></td>
 <td><p>ネロー・キルナー（尼羅・奇魯那）（<a href="../Page/置鮎龍太郎.md" title="wikilink">置鮎龍太郎</a>）</p></td>
@@ -3924,12 +3926,13 @@ Morphin Brace</p></td>
 </tr>
 <tr class="even">
 <td><p>2018/06/10</p></td>
-<td></td>
+<td><p>2019/06/16</p></td>
 <td><p>2019/08/24</p></td>
 <td><p>#18</p></td>
 <td></td>
 <td><p>珍藏的秘密</p>
-<hr/></td>
+<hr/>
+<p>收藏品的秘密</p></td>
 <td><p>魯邦連者<br />
 巡邏連者</p></td>
 <td><p>アニダラ・マキシモフ（阿尼達拉・馬奇希莫福）（松田健一郎）</p></td>
@@ -3939,7 +3942,7 @@ Morphin Brace</p></td>
 </tr>
 <tr class="odd">
 <td><p>2018/06/17</p></td>
-<td></td>
+<td><p>2019/06/23</p></td>
 <td><p>2019/08/31</p></td>
 <td><p>#19</p></td>
 <td></td>

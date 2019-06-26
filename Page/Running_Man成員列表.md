@@ -1,5 +1,5 @@
 《[Running
-Man](../Page/Running_Man.md "wikilink")》節目於2010年7月11日啟播，初期主持人包括[劉在錫](../Page/劉在錫.md "wikilink")、[池錫辰](https://zh.wikipedia.org/wiki/池錫辰 "wikilink")、[金鍾國](https://zh.wikipedia.org/wiki/金鍾國 "wikilink")、[Gary](../Page/Gary_\(韓國歌手\).md "wikilink")、[Haha](../Page/Haha.md "wikilink")、[李光洙和](../Page/李光洙_\(演員\).md "wikilink")[宋仲基](../Page/宋仲基.md "wikilink")\[1\]。而[宋智孝](../Page/宋智孝.md "wikilink")、[Lizzy](https://zh.wikipedia.org/wiki/朴修映 "wikilink")、[全昭旻和](../Page/全昭旻.md "wikilink")[梁世燦分別於第](../Page/梁世燦.md "wikilink")7集、第18集和第346集加入主持群\[2\]。
+Man](../Page/Running_Man.md "wikilink")》節目於2010年7月11日啟播，初期主持人包括[劉在錫](../Page/劉在錫.md "wikilink")、[池錫辰](https://zh.wikipedia.org/wiki/池錫辰 "wikilink")、[金鍾國](https://zh.wikipedia.org/wiki/金鍾國 "wikilink")、[Gary](../Page/Gary_\(韓國歌手\).md "wikilink")、[Haha](../Page/Haha.md "wikilink")、[李光洙和](../Page/李光洙_\(演員\).md "wikilink")[宋仲基](../Page/宋仲基.md "wikilink")\[1\]。而[宋智孝](../Page/宋智孝.md "wikilink")、[Lizzy](https://zh.wikipedia.org/wiki/朴修映 "wikilink")、[全昭旻和](../Page/全昭旻.md "wikilink")[梁世燦分別於第](../Page/梁世燦.md "wikilink")2集、第18集和第346集加入主持群\[2\]。
 
 ## 主持變遷史
 
@@ -454,7 +454,7 @@ Ga恩(개은)<br />
 懵鍾情侶<br />
 （멍종커플）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/金鍾國" title="wikilink">金鍾國</a>、<a href="../Page/宋智孝.md" title="wikilink">宋智孝</a></p></td>
-<td><p>在第21集中有了兩人的第一次合作戰，他們的出色表現被認為是最強組合。</p></td>
+<td><p>在第21集中有了兩人的第一次合作戰，他們的出色表現被認為是最強組合。宋智孝於2018年新年算命特輯及2019年新年記者會主動提出“我和鍾國哥哥怎麼樣”，“哥哥，不是還有我嗎”等言語而被成員調侃關係。</p></td>
 </tr>
 <tr class="even">
 <td><p>監獄三人組<br />
@@ -611,7 +611,8 @@ IU，想你了<br />
 因此四人自稱為懲罰小隊，對於出現這狀況連製作組都表示感到非常神奇。</p></td>
 </tr>
 <tr class="even">
-<td><p>國旻兄妹</p></td>
+<td><p>國旻兄妹<br />
+（국민 남매）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/金鍾國" title="wikilink">金鍾國</a>、<a href="../Page/全昭旻.md" title="wikilink">全昭旻</a></p></td>
 <td><p>第434集開始提起。</p></td>
 </tr>

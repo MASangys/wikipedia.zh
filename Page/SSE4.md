@@ -1,5 +1,5 @@
 **SSE4** (**Streaming SIMD Extensions
-4**)是[Intel](../Page/英特尔.md "wikilink")[Core微體系結構和](../Page/Core微架構.md "wikilink")[AMD](../Page/超威半导体.md "wikilink")[K10（K8L）中所使用的](../Page/AMD_10h.md "wikilink")[SIMD](https://zh.wikipedia.org/wiki/单指令流多数据流 "wikilink")[CPU](../Page/中央处理器.md "wikilink")[指令集](../Page/指令集架構.md "wikilink")。它在2006年9月27日在[英特爾開發者論壇上被宣佈](../Page/英特爾開發者論壇.md "wikilink")，[白皮書上的細節還較爲模糊](https://zh.wikipedia.org/wiki/白皮书 "wikilink")。\[1\]隨後在北京的2007年春季[英特爾開發者論壇上的演示文稿中提供了](../Page/英特爾開發者論壇.md "wikilink")47個指令的更精確細節。\[2\]SSE4與為前代英特爾64和IA-32架構微處理器編寫的軟體完全兼容。所有現有軟體均可正確運行，無需修改包含SSE4的微處理器，以及現有和新應用程式（包含SSE4）。\[3\]
+4**)是[Intel](../Page/英特尔.md "wikilink")[Core微體系結構和](../Page/Core微架構.md "wikilink")[AMD](../Page/超威半导体.md "wikilink")[K10（K8L）中所使用的](../Page/AMD_10h.md "wikilink")[SIMD](https://zh.wikipedia.org/wiki/单指令流多数据流 "wikilink")[CPU](../Page/中央处理器.md "wikilink")[指令集](../Page/指令集架構.md "wikilink")。它在2006年9月27日在[英特爾開發者論壇上被宣佈](../Page/英特爾開發者論壇.md "wikilink")，[白皮書上的細節還較爲模糊](../Page/白皮书.md "wikilink")。\[1\]隨後在北京的2007年春季[英特爾開發者論壇上的演示文稿中提供了](../Page/英特爾開發者論壇.md "wikilink")47個指令的更精確細節。\[2\]SSE4與為前代英特爾64和IA-32架構微處理器編寫的軟體完全兼容。所有現有軟體均可正確運行，無需修改包含SSE4的微處理器，以及現有和新應用程式（包含SSE4）。\[3\]
 
 ## SSE4子集
 

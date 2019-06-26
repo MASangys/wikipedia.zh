@@ -1,4 +1,4 @@
-**IOTA**是一種[开放源代码](../Page/开放源代码.md "wikilink")（[密碼貨幣](../Page/密碼貨幣.md "wikilink")），主要是提供[物联网上各機器之間資訊安全的通訊以及付款](../Page/物联网.md "wikilink")。IOTA不像許多密碼貨幣利用[区块链](../Page/区块链.md "wikilink")，而是使用[有向无环图](https://zh.wikipedia.org/wiki/有向无环图 "wikilink")（DAG）的技術，該技術稱為Tangle\[1\]\[2\]。Tangle除去了許多bitcoin基礎的密碼貨幣在進行時需要的「挖礦」以及帶來的能耗。IOTA的確認時間也相當快，系統可以同時交易的量沒有上限，因此系統的加大很簡單\[3\]\[4\]。IOTA是在2015年由David
+**IOTA**是一種[开放源代码](../Page/开放源代码.md "wikilink")[分散式賬本](../Page/分散式賬本.md "wikilink")（[密碼貨幣](../Page/密碼貨幣.md "wikilink")），主要是提供[物联网上各機器之間資訊安全的通訊以及付款](../Page/物联网.md "wikilink")。IOTA不像許多密碼貨幣利用[区块链](../Page/区块链.md "wikilink")，而是使用[有向无环图](https://zh.wikipedia.org/wiki/有向无环图 "wikilink")（DAG）的技術，該技術稱為Tangle\[1\]\[2\]。Tangle除去了許多bitcoin基礎的密碼貨幣在進行時需要的「挖礦」以及帶來的能耗。IOTA的確認時間也相當快，系統可以同時交易的量沒有上限，因此系統的加大很簡單\[3\]\[4\]。IOTA是在2015年由David
 Sønstebø、Sergey Ivancheglo、Dominik Schiener及Dr. Serguei
 Popov創立\[5\]\[6\]。
 

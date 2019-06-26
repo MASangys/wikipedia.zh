@@ -377,7 +377,7 @@
 <tr class="even">
 <td><p>5月18日－</p></td>
 <td><p><a href="../Page/TV朝鮮.md" title="wikilink">TV朝鮮</a></p></td>
-<td><p>《 <a href="https://zh.wikipedia.org/wiki/首先一起去吧" title="wikilink">首先一起去吧</a> 》</p></td>
+<td><p>《 <a href="../Page/首先一起去吧.md" title="wikilink">首先一起去吧</a> 》</p></td>
 <td><p>素慧</p></td>
 <td></td>
 </tr>

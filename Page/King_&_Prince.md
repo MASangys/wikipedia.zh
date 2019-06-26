@@ -241,7 +241,7 @@ Prince**是[日本六人](../Page/日本.md "wikilink")[偶像](../Page/偶像_\
 <tr class="odd">
 <td><p>1</p></td>
 <td><p>2019年6月19日</p></td>
-<td></td>
+<td><p>King &amp; Prince</p></td>
 <td><p>初回限定盤A(CD+Blu-ray)</p></td>
 <td><p>UPCJ-9007</p></td>
 <td></td>

@@ -36,7 +36,7 @@ Attack](https://zh.wikipedia.org/wiki/School_Attack "wikilink")》\[3\]。節目
 <td><p><a href="../Page/孫東雲.md" title="wikilink">孫東雲</a></p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Highlight_(韓國組合)" title="wikilink">Highlight</a></p></td>
+<td><p><a href="../Page/Highlight_(韓國組合).md" title="wikilink">Highlight</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/睿隣" title="wikilink">睿隣</a></p></td>

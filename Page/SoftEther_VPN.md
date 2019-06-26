@@ -61,7 +61,8 @@ SoftEther VPN某些部分的架構有別一般傳統使用IPsec的VPN系統。
 
 ### 虛擬集線器
 
-虛擬集線器就是以軟體方式模擬網路交換機。它會更新和維持自身擁有的轉發資料對照表。雖然傳統的網路交換機將這功能做在硬體上，SoftEther
+虛擬集線器就是以軟體方式模擬網路交換機。它會更新和維持自身擁有的轉發資料對照表（MAC
+位址表）。雖然傳統的網路交換機將這功能做在硬體上，SoftEther
 VPN以軟體實現了同樣功能。一個VPN伺服器可以有好幾個虛擬集線器，各自獨立。VPN客戶端和橋接端的連接就是以集線器用封包交換來處理。
 
 當一個伺服器上有數個虛擬的集線器時，為了安全，這些集線器都會獨立分開。各個不同的管理員可以對相應的虛擬集線器授予權限。每個虛擬極限的管理員可以限定使用者物件和ACLs，而這僅限於被授權的集線器上。
@@ -130,4 +131,4 @@ Gate由[筑波大學贊助](../Page/筑波大学.md "wikilink")。（[防火长�
 [Category:网络安全](https://zh.wikipedia.org/wiki/Category:网络安全 "wikilink")
 [Category:網路隱私](https://zh.wikipedia.org/wiki/Category:網路隱私 "wikilink")
 [Category:代理軟體](https://zh.wikipedia.org/wiki/Category:代理軟體 "wikilink")
-[Category:安全軟體](https://zh.wikipedia.org/wiki/Category:安全軟體 "wikilink")
+[Category:翻墙软件](https://zh.wikipedia.org/wiki/Category:翻墙软件 "wikilink")

@@ -58,6 +58,7 @@ Mapillary計畫透過將其使用者生成的資料授權給其他公司使用�
 [Category:电子地图](https://zh.wikipedia.org/wiki/Category:电子地图 "wikilink")
 [Category:街景地图](https://zh.wikipedia.org/wiki/Category:街景地图 "wikilink")
 [Category:開放街圖](https://zh.wikipedia.org/wiki/Category:開放街圖 "wikilink")
+[Category:2014年瑞典建立](https://zh.wikipedia.org/wiki/Category:2014年瑞典建立 "wikilink")
 
 1.
 

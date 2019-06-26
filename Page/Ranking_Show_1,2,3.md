@@ -38,7 +38,7 @@
 <td><p>試播</p></td>
 <td><p>5月3日</p></td>
 <td><p>按與寵物狗在一起的時間的順序排隊</p></td>
-<td><p><strong><a href="../Page/朴美善.md" title="wikilink">朴美善</a></strong>、<a href="https://zh.wikipedia.org/wiki/曹世鎬" title="wikilink">曹世鎬</a>、池相烈、<a href="../Page/朴經.md" title="wikilink">朴經</a>（<a href="../Page/Block_B.md" title="wikilink">Block B</a>）、<a href="../Page/孫東雲.md" title="wikilink">孫東雲</a>（<a href="https://zh.wikipedia.org/wiki/Highlight_(韓國組合)" title="wikilink">Highlight</a>）、<a href="../Page/許齡智.md" title="wikilink">許齡智</a>、<a href="../Page/YooA.md" title="wikilink">YooA</a>（<a href="https://zh.wikipedia.org/wiki/Oh_My_Girl" title="wikilink">Oh My Girl</a>）</p></td>
+<td><p><strong><a href="../Page/朴美善.md" title="wikilink">朴美善</a></strong>、<a href="https://zh.wikipedia.org/wiki/曹世鎬" title="wikilink">曹世鎬</a>、池相烈、<a href="../Page/朴經.md" title="wikilink">朴經</a>（<a href="../Page/Block_B.md" title="wikilink">Block B</a>）、<a href="../Page/孫東雲.md" title="wikilink">孫東雲</a>（<a href="../Page/Highlight_(韓國組合).md" title="wikilink">Highlight</a>）、<a href="../Page/許齡智.md" title="wikilink">許齡智</a>、<a href="../Page/YooA.md" title="wikilink">YooA</a>（<a href="https://zh.wikipedia.org/wiki/Oh_My_Girl" title="wikilink">Oh My Girl</a>）</p></td>
 <td><p>推理失敗</p></td>
 <td><p>[2]</p></td>
 </tr>

@@ -282,8 +282,7 @@ good\!](../Page/仲夏的Sounds_good!.md "wikilink")》以來的3年多回歸選
     4：[佐佐木優佳里](../Page/佐佐木優佳里.md "wikilink")（50）、[茂木忍](../Page/茂木忍.md "wikilink")（57）
   - SKE48 Team
     S：[東李苑](https://zh.wikipedia.org/wiki/東李苑 "wikilink")（61）、[後藤理沙子](https://zh.wikipedia.org/wiki/後藤理沙子 "wikilink")（52）、[山內鈴蘭](../Page/山內鈴蘭.md "wikilink")（63）
-  - SKE48 Team
-    KII：[惣田紗莉渚](https://zh.wikipedia.org/wiki/惣田紗莉渚 "wikilink")（55）
+  - SKE48 Team KII：[惣田紗莉渚](../Page/惣田紗莉渚.md "wikilink")（55）
   - SKE48 Team
     E：[磯原杏華](../Page/磯原杏華.md "wikilink")（53）、[加藤琉美](../Page/加藤琉美.md "wikilink")（62）、[佐藤堇](../Page/佐藤堇.md "wikilink")（49）
   - NMB48 Team

@@ -164,7 +164,8 @@ E\&M簽訂合約成為合作夥伴。
 ## 練習生
 
   - [趙慧妍](https://zh.wikipedia.org/wiki/趙慧妍 "wikilink")（前[gugudan成員](https://zh.wikipedia.org/wiki/gugudan "wikilink")）
-  - 金敏奎（[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）
+  - [金旻奎](../Page/金敏圭.md "wikilink")（[PRODUCE X
+    101](../Page/PRODUCE_X_101.md "wikilink")）
   - 崔俊聖（[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）
 
 ## 昔日練習生

@@ -8,27 +8,32 @@ JOB！哪啊哪啊神去村**》（，小説原名爲“”），是一部由日
 <tr class="odd">
 <td style="text-align: center;"><p><strong>角色</strong></p></td>
 <td style="text-align: center;"><p><strong>演員</strong></p></td>
+<td style="text-align: center;"><p><strong>粵語配音</strong></p></td>
 <td style="text-align: center;"><p><strong>備註</strong></p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p><strong>平野勇氣</strong><br />
 <small></small></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/染谷將太" title="wikilink">染谷將太</a></p></td>
-<td style="text-align: center;"><p>整天無所事事、虛晃渡日的18歲男孩平野勇氣，在大學考試落榜，被女友狠甩，渾渾噩噩只想靠打工過下半輩子時，偶然看到林業用來招募新人的刊物上，竟然出現了絕世美女-石井直紀。於是他自動送上門，來到位於三重縣深山裡的「神去村」裡，展開了想都沒想過的伐木生活。 。</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/張裕東" title="wikilink">張裕東</a></p></td>
+<td style="text-align: center;"><p>整天無所事事、虛晃渡日的18歲男孩平野勇氣，在大學考試落榜，被女友狠甩，渾渾噩噩只想靠打工過下半輩子時，偶然看到林業用來招募新人的刊物上，竟然出現了絕世美女-石井直紀。於是他自動送上門，來到位於三重縣深山裡的「神去村」裡，展開了想都沒想過的伐木生活。</p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p><strong>飯田與喜</strong><br />
 <small></small></p></td>
 <td style="text-align: center;"><p><a href="../Page/伊藤英明.md" title="wikilink">伊藤英明</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/雷霆.md" title="wikilink">雷霆</a></p></td>
 <td style="text-align: center;"><p>長期在神去村做伐木工作，性格野性凶暴，是個非常有林業培訓經驗，超級嚴苛的訓練平野勇氣，但為人公正。</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p><strong>石井直紀</strong><br />
 <small></small></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/長澤雅美" title="wikilink">長澤雅美</a></p></td>
-<td style="text-align: center;"><p>一個感情受過創傷故而更多地顯現出男性氣質的幹練女孩，騎摩托車、幹男人的活她樣樣會，男孩平野勇氣的出現使她的生活更加複雜和趣味的人生。。</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/林元春" title="wikilink">林元春</a></p></td>
+<td style="text-align: center;"><p>一個感情受過創傷故而更多地顯現出男性氣質的幹練女孩，騎摩托車、幹男人的活她樣樣會，男孩平野勇氣的出現使她的生活更加複雜和趣味的人生。</p></td>
 </tr>
 <tr class="odd">
+<td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>

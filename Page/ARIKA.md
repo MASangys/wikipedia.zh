@@ -104,7 +104,7 @@
 
   - （2018年6月28日）
 
-  - [俄羅斯方塊99](https://zh.wikipedia.org/wiki/俄羅斯方塊99 "wikilink")（2019年2月14日，[任天堂Switch線上服務加入者用特典](../Page/任天堂Switch線上服務.md "wikilink")）
+  - [俄羅斯方塊99](../Page/俄羅斯方塊99.md "wikilink")（2019年2月14日，[任天堂Switch線上服務加入者用特典](../Page/任天堂Switch線上服務.md "wikilink")）
 
 ## 來源
 

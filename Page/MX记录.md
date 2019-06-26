@@ -49,7 +49,7 @@ SMTP協議建立一個存儲轉發網絡，如果某個網域的所有郵件伺�
 
 ## 参考资料
 
-[Category:域名](https://zh.wikipedia.org/wiki/Category:域名 "wikilink")
+[Category:DNS记录类型](https://zh.wikipedia.org/wiki/Category:DNS记录类型 "wikilink")
 [Category:电子邮件](https://zh.wikipedia.org/wiki/Category:电子邮件 "wikilink")
 
 1.  RFC 2181, Section 10.3, *Clarifications to the DNS Specification*,

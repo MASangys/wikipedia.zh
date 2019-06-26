@@ -55,7 +55,7 @@ Minolta TC-1 back (4393139385).jpg|
 ## 参见
 
   - [美能达](https://zh.wikipedia.org/wiki/美能达 "wikilink")
-  - [紧凑型相机](https://zh.wikipedia.org/wiki/傻瓜相机 "wikilink")
+  - [紧凑型相机](../Page/傻瓜相机.md "wikilink")
 
 ## 参考与引用
 

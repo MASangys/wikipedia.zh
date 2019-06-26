@@ -1,5 +1,5 @@
 《**Ben 10 再顯神威**》是[Ben
-10系列的第五個系列作](../Page/Ben_10系列.md "wikilink")，比起前作畫風更加Q版化，也與第一個系列性格大不同，前面作品性格較為黑暗，而此系列則較為開朗明亮。澳洲與東南亞於播出，英國/愛爾蘭與法國於播出，台灣與阿拉伯於播出，歐洲於先行，北美洲及拉美於播出，香港則於2017年7月29日開始在翡翠台逢星期六是-{幪面超人系列}-接檔週播映。中国方面，本节目由[腾讯视频重新配音独家播出](../Page/腾讯视频.md "wikilink")，以**《少年骇客再显神威》**名义，但是只在中国地区适用，境外不可能收看。\[1\]电视方面由[上海广播电视台](../Page/上海广播电视台.md "wikilink")[哈哈炫动卫视于](../Page/哈哈炫动卫视.md "wikilink")2019年2月22日播出。\[2\]\[3\]
+10系列的第五個系列作](../Page/Ben_10系列.md "wikilink")，比起前作畫風更加Q版化，也與第一個系列性格大不同，前面作品性格較為黑暗，而此系列則較為開朗明亮。澳洲與東南亞於播出，英國/愛爾蘭與法國於播出，台灣與阿拉伯於播出，歐洲於先行，北美洲及拉美於播出，香港則於2017年7月29日開始在翡翠台逢星期六是-{幪面超人系列}-接檔週播映。中国方面，本节目由[腾讯视频独家播出](../Page/腾讯视频.md "wikilink")，以**《少年骇客再显神威》**名义，目前分为台湾国语版和大陆普通话版，但是只在中国地区适用，境外不可能收看。\[1\]\[2\]电视方面由[上海广播电视台](../Page/上海广播电视台.md "wikilink")[哈哈炫动卫视于](../Page/哈哈炫动卫视.md "wikilink")2019年2月22日播出。\[3\]\[4\]
 
 ## 故事簡介
 
@@ -99,9 +99,9 @@ Hernandez](https://zh.wikipedia.org/wiki/Montserrat_Hernandez "wikilink")
 <td><p>1</p></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
-<td><p>The Filth[4]</p></td>
+<td><p>The Filth[5]</p></td>
 <td><p>你可以再噁一點</p></td>
-<td><p>[5]</p></td>
+<td><p>[6]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -125,7 +125,7 @@ Hernandez](https://zh.wikipedia.org/wiki/Montserrat_Hernandez "wikilink")
 <td><p>2</p></td>
 <td><p>2</p></td>
 <td><p>2</p></td>
-<td><p>Freaky Gwen Ben[6]</p></td>
+<td><p>Freaky Gwen Ben[7]</p></td>
 <td><p>換人玩玩看</p></td>
 <td></td>
 <td></td>
@@ -151,7 +151,7 @@ Hernandez](https://zh.wikipedia.org/wiki/Montserrat_Hernandez "wikilink")
 <td><p>3</p></td>
 <td><p>3</p></td>
 <td><p>3</p></td>
-<td><p>Waterfilter[7]</p></td>
+<td><p>Waterfilter[8]</p></td>
 <td><p>有我給你靠</p></td>
 <td></td>
 <td></td>
@@ -177,7 +177,7 @@ Hernandez](https://zh.wikipedia.org/wiki/Montserrat_Hernandez "wikilink")
 <td><p>4</p></td>
 <td><p>4</p></td>
 <td><p>4</p></td>
-<td><p>Riding the Storms out[8]</p></td>
+<td><p>Riding the Storms out[9]</p></td>
 <td><p>天氣變變變</p></td>
 <td></td>
 <td></td>
@@ -743,11 +743,12 @@ Hernandez](https://zh.wikipedia.org/wiki/Montserrat_Hernandez "wikilink")
 [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
 
 1.
-2.  在炫动卡通 (现哈哈炫动)
+2.
+3.  在炫动卡通 (现哈哈炫动)
     第一次在2018年6月15日到17日播出，为[上海电视节动画片展播](../Page/上海电视节.md "wikilink")
-3.  [1](https://www.bilibili.com/p/h5/16224004)
-4.  <https://en.wikipedia.org/wiki/Ben_10_(2016_TV_series)>
-5.  <https://www.foxtel.com.au/got/whats-on/tv-guide/Ben-10/80263070>
-6.  <https://en.wikipedia.org/wiki/Ben_10_(2016_TV_series)>
+4.  [1](https://www.bilibili.com/p/h5/16224004)
+5.  <https://en.wikipedia.org/wiki/Ben_10_(2016_TV_series)>
+6.  <https://www.foxtel.com.au/got/whats-on/tv-guide/Ben-10/80263070>
 7.  <https://en.wikipedia.org/wiki/Ben_10_(2016_TV_series)>
 8.  <https://en.wikipedia.org/wiki/Ben_10_(2016_TV_series)>
+9.  <https://en.wikipedia.org/wiki/Ben_10_(2016_TV_series)>

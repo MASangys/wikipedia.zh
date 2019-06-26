@@ -2,7 +2,7 @@
 馬來西亞星光薈萃頒獎典禮最喜愛TVB女主角](https://zh.wikipedia.org/wiki/TVB_馬來西亞星光薈萃頒獎典禮 "wikilink")**每年是由[香港](../Page/香港.md "wikilink")[TVB娛樂新聞台](../Page/TVB娛樂新聞台.md "wikilink")、[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[Astro及MY](https://zh.wikipedia.org/wiki/Astro "wikilink")
 FM聯合頒發，最初名為《[Astro華麗台電視劇大獎](https://zh.wikipedia.org/wiki/Astro華麗台電視劇大獎 "wikilink")》，及後名為《[MY
 AOD我的最爱颁奖典礼](https://zh.wikipedia.org/wiki/MY_AOD我的最爱颁奖典礼 "wikilink")》，至2013年正式易名為《TVB
-馬來西亞星光薈萃頒獎典禮》。給予年度TVB最出色的[電視劇集](https://zh.wikipedia.org/wiki/電視劇集 "wikilink")[女演員](https://zh.wikipedia.org/wiki/演員 "wikilink")，得獎者有「大馬視-{后}-」美譽。
+馬來西亞星光薈萃頒獎典禮》。給予年度TVB最出色的[電視劇集](https://zh.wikipedia.org/wiki/電視劇集 "wikilink")[女演員](../Page/演員.md "wikilink")，得獎者有「大馬視-{后}-」美譽。
 
 最喜愛TVB女主角獎於2004年創立，至今獲獎最多的女演員是[佘詩曼](https://zh.wikipedia.org/wiki/佘詩曼 "wikilink")，合計4次。
 

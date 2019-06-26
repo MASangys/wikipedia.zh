@@ -14,7 +14,7 @@
   - **[哪位政治人物](../Page/吴建常.md "wikilink")**是[邓小平的女婿](../Page/邓小平.md "wikilink")、曾任[中华人民共和国冶金工业部副部长](../Page/中华人民共和国冶金工业部.md "wikilink")？
   - **[哪位中国人民解放军少将](../Page/郑效峰.md "wikilink")**早年跟随[朱德](../Page/朱德.md "wikilink")、[陈毅参加](../Page/陈毅.md "wikilink")[湘南暴动](https://zh.wikipedia.org/wiki/湘南暴动 "wikilink")，曾任[山西省军区政委](https://zh.wikipedia.org/wiki/山西省军区 "wikilink")、山西省人大常委会副主任？
   - 1926年，**[哪位政治人物](../Page/常汉三.md "wikilink")**接替[李子洲出任陕西省立第四师范学校校长](../Page/李子洲.md "wikilink")？
-  - [中华人民共和国](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")[陕西省](../Page/陕西省.md "wikilink")[榆林市](../Page/榆林市.md "wikilink")[子洲县的命名是为了纪念](https://zh.wikipedia.org/wiki/子洲县 "wikilink")**[哪一位政治人物](../Page/李子洲.md "wikilink")**？
+  - [中华人民共和国](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")[陕西省](../Page/陕西省.md "wikilink")[榆林市](../Page/榆林市.md "wikilink")[子洲县的命名是为了纪念](../Page/子洲县.md "wikilink")**[哪一位政治人物](../Page/李子洲.md "wikilink")**？
   - **[哪位军事将领](../Page/黄厚.md "wikilink")**曾率部参加[朝鲜战争](../Page/朝鲜战争.md "wikilink")，[文革期间被卷入](https://zh.wikipedia.org/wiki/文革 "wikilink")[内人党事件](../Page/内人党事件.md "wikilink")，之后出任[中国人民解放军内蒙古军区司令员](../Page/中国人民解放军内蒙古军区.md "wikilink")？
   - **[哪一位中国科学院院士](../Page/邓起东.md "wikilink")**在中年时主编完成了[中国首幅地震烈度区划图](https://zh.wikipedia.org/wiki/中国 "wikilink")，之后在73岁高龄时亲自领导组建了[中国地震局活动构造与火山重点实验室](../Page/中国地震局.md "wikilink")？
   - **[哪位中国人民解放军上将](../Page/尤太忠.md "wikilink")**曾任[北京军区副司令员](https://zh.wikipedia.org/wiki/北京军区 "wikilink")、[中共内蒙古自治区党委第一书记](https://zh.wikipedia.org/wiki/中共内蒙古自治区党委 "wikilink")？
@@ -25,7 +25,7 @@
   - **[哪位中国共产党人物](../Page/车耀先.md "wikilink")**曾创办[努力餐](../Page/努力餐.md "wikilink")，后被[军统逮捕秘密杀害](../Page/國民政府軍事委員會調查統計局.md "wikilink")，现葬于[重庆歌乐山烈士陵园](../Page/重庆歌乐山烈士陵园.md "wikilink")？
   - **[哪位政治人物](../Page/牛树才.md "wikilink")**曾任[中国共产党安徽省委员会副书记](../Page/中国共产党安徽省委员会.md "wikilink")、[河北省政协副主席](https://zh.wikipedia.org/wiki/河北省政协 "wikilink")？
   - 1965年5月22日至5月29日，[中国共产党中央委员会主席](../Page/中国共产党中央委员会主席.md "wikilink")[毛泽东](../Page/毛泽东.md "wikilink")**[在做什么呢](../Page/重上井冈山.md "wikilink")**？
-  - **[1964年的哪一起事件](../Page/改组文化部.md "wikilink")**导致[齐燕铭](../Page/齐燕铭.md "wikilink")、[夏衍](../Page/夏衍.md "wikilink")、[陈荒煤等人被免去](https://zh.wikipedia.org/wiki/陈荒煤 "wikilink")[中华人民共和国文化部副部长职位](../Page/中华人民共和国文化部.md "wikilink")？
+  - **[1964年的哪一起事件](../Page/改组文化部.md "wikilink")**导致[齐燕铭](../Page/齐燕铭.md "wikilink")、[夏衍](../Page/夏衍.md "wikilink")、[陈荒煤等人被免去](../Page/陈荒煤.md "wikilink")[中华人民共和国文化部副部长职位](../Page/中华人民共和国文化部.md "wikilink")？
   - **[哪位中国人民解放军将领](../Page/袁捷.md "wikilink")**在[豫东战役中率全团围攻](../Page/豫东战役.md "wikilink")、并活捉国军第7兵团司令[区寿年](https://zh.wikipedia.org/wiki/区寿年 "wikilink")？
   - **[哪位解放军将领](../Page/肖选进.md "wikilink")**曾在[上海战役中](https://zh.wikipedia.org/wiki/上海战役 "wikilink")，率部抢占[吴淞口炮台并封锁](../Page/吳淞炮台.md "wikilink")[黄浦江](../Page/黄浦江.md "wikilink")，切断了上海[国军守军的水上退路](https://zh.wikipedia.org/wiki/中华民国国军 "wikilink")？
   - **[文化大革命的指导思想](../Page/继续革命论.md "wikilink")**是什么？

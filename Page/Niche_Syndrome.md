@@ -1,7 +1,6 @@
 《**Niche
 Syndrome**》（日文名：Nicheシンドローム）是[日本](../Page/日本.md "wikilink")[搖滾](https://zh.wikipedia.org/wiki/搖滾 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[ONE
-OK
-ROCK於](https://zh.wikipedia.org/wiki/ONE_OK_ROCK "wikilink")2010年6月9日發行的第四張音樂專輯\[1\]。
+OK ROCK於](../Page/ONE_OK_ROCK.md "wikilink")2010年6月9日發行的第四張音樂專輯\[1\]。
 
 ## 簡介
 

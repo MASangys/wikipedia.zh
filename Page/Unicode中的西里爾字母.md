@@ -1,4 +1,4 @@
-[西里爾字母是](https://zh.wikipedia.org/wiki/西里爾字母 "wikilink")[斯拉夫語族許多語言使用的](https://zh.wikipedia.org/wiki/斯拉夫語族 "wikilink")[字母書寫系統](../Page/文字.md "wikilink")。在[Unicode版本](https://zh.wikipedia.org/wiki/Unicode "wikilink")11.0中，包含[西里爾字母與和其相關的符號分散在](https://zh.wikipedia.org/wiki/西里爾字母 "wikilink")[基本多文種平面的數個](https://zh.wikipedia.org/wiki/Unicode字符平面映射 "wikilink")[區段中](../Page/Unicode區段.md "wikilink")：
+[西里爾字母是](https://zh.wikipedia.org/wiki/西里爾字母 "wikilink")[斯拉夫語族許多語言使用的](https://zh.wikipedia.org/wiki/斯拉夫語族 "wikilink")[字母書寫系統](../Page/文字.md "wikilink")。在[Unicode版本](https://zh.wikipedia.org/wiki/Unicode "wikilink")12.0中，包含[西里爾字母與和其相關的符號分散在](https://zh.wikipedia.org/wiki/西里爾字母 "wikilink")[基本多文種平面的數個](https://zh.wikipedia.org/wiki/Unicode字符平面映射 "wikilink")[區段中](../Page/Unicode區段.md "wikilink")：
 
   - [西里爾字母](../Page/西里爾字母_\(Unicode區段\).md "wikilink")：[U+0400–U+04FF](https://www.unicode.org/charts/PDF/U0400.pdf)，共256個字符。\[1\]
   - [西里爾字母補充](../Page/西里爾字母補充_\(Unicode區段\).md "wikilink")：[U+0500–U+052F](https://www.unicode.org/charts/PDF/U0500.pdf)，共48個字符。\[2\]\[3\]

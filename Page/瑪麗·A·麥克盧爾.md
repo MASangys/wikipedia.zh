@@ -33,9 +33,7 @@
 4.
 5.
 6.
-7.  [South Dakota Legislature-Historical Listing-Legislator
-    Information-Mary A.
-    McClure](http://legis.sd.gov/Legislators/Historical_listing/LegislatorDetail.aspx?MemberID=2956)
+7.
 
 8.
 9.

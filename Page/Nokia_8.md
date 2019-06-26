@@ -2,7 +2,7 @@
 Nougat操作系统的诺基亚品牌高阶机](../Page/Android_Nougat.md "wikilink")。这是[HMD
 Global推出的首款旗舰机型](../Page/HMD_Global.md "wikilink")。\[2\]\[3\]此款手机于2017年8月16日在[伦敦发布](../Page/伦敦.md "wikilink")\[4\]，9月6日在欧洲开始发售。其改进版本**[Nokia
 8
-Sirocco](https://zh.wikipedia.org/wiki/Nokia_8_Sirocco "wikilink")**于2018年2月25日在[西班牙](../Page/西班牙.md "wikilink")[巴塞罗那举办的](https://zh.wikipedia.org/wiki/巴塞罗那 "wikilink")[世界行動通訊大會上发布](../Page/世界行動通訊大會.md "wikilink")。\[5\]
+Sirocco](../Page/Nokia_8_Sirocco.md "wikilink")**于2018年2月25日在[西班牙](../Page/西班牙.md "wikilink")[巴塞罗那举办的](https://zh.wikipedia.org/wiki/巴塞罗那 "wikilink")[世界行動通訊大會上发布](../Page/世界行動通訊大會.md "wikilink")。\[5\]
 
 ## 规格
 

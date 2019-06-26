@@ -173,8 +173,8 @@ channel宣傳活動，名為《[一起Download的日子](https://zh.wikipedia.or
 | :-------------------------------------------------: |
 |          [周奕瑋](../Page/周奕瑋.md "wikilink")           |
 |          [蘇可欣](../Page/蘇可欣.md "wikilink")           |
-|        [鍾晴](../Page/鍾晴_\(藝人\).md "wikilink")        |
-|          [秦啟維](../Page/秦啟維.md "wikilink")           |
+| [郭浩皇](https://zh.wikipedia.org/wiki/郭浩皇 "wikilink") |
+| [吳紫韻](https://zh.wikipedia.org/wiki/吳紫韻 "wikilink") |
 | [鍾煒喬](https://zh.wikipedia.org/wiki/鍾煒喬 "wikilink") |
 
 |            **娛樂頭條主播**            |
@@ -238,20 +238,111 @@ channel宣傳活動，名為《[一起Download的日子](https://zh.wikipedia.or
 
 《**娛樂新聞回顧節目**》（）是**TVB娛樂新聞台**製作的娛樂新聞回顧的特備節目，通常於每年12月底其中一個晚上舉行，主要總結該年娛樂新聞大事。主持及演出（2000年代至今）如下：
 
-| 年度   | 名稱                                                                     | 主持                                                                                                                                                                                                                       | 監製                                                         | 編審                                                      |
-| ---- | ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------- | ------------------------------------------------------- |
-| 2009 | [娛樂十大奇案2009](http://programme.tvb.com/variety/starbizreview2009)       | [崔建邦](../Page/崔建邦.md "wikilink")、[宋熙年](../Page/宋熙年.md "wikilink")、[龔嘉欣](https://zh.wikipedia.org/wiki/龔嘉欣 "wikilink")                                                                                                    | [張嘉玲](https://zh.wikipedia.org/wiki/張嘉玲 "wikilink")        | [張慧怡](https://zh.wikipedia.org/wiki/張慧怡 "wikilink")     |
-| 2010 | [2010八味娛樂圈](http://programme.tvb.com/variety/starbizreview2010)        | 宋熙年、[陳倩揚](../Page/陳倩揚.md "wikilink")、[麥皓兒](../Page/麥皓兒.md "wikilink")                                                                                                                                                    | 張嘉玲                                                        | 張慧怡                                                     |
-| 2011 | [繽Fun娛樂大派對](http://programme.tvb.com/variety/starbizreview2011)        | 宋熙年、麥皓兒、[森美](https://zh.wikipedia.org/wiki/森美 "wikilink")                                                                                                                                                                | 張嘉玲                                                        | 張慧怡                                                     |
-| 2012 | [Fun Fun娛樂大派對](http://programme.tvb.com/variety/starbizreview2012)     | [古明華](../Page/古明華.md "wikilink")、[黎芷珊](../Page/黎芷珊.md "wikilink")、[容羨媛](../Page/容羨媛.md "wikilink")、[吳幸美](../Page/吳幸美.md "wikilink")                                                                                      | 張嘉玲、[衛世輝](https://zh.wikipedia.org/wiki/衛世輝 "wikilink")    | 張慧怡、[鄭月明](https://zh.wikipedia.org/wiki/鄭月明 "wikilink") |
-| 2013 | [2013娛樂大派對](http://programme.tvb.com/variety/starbizreview2013)        | 旁白：[林映輝](../Page/林映輝.md "wikilink")、容羨媛                                                                                                                                                                                  | 張嘉玲                                                        | 張慧怡                                                     |
-| 2014 | [繽Fun娛樂大派對](http://programme.tvb.com/variety/starbizreview2014)        | [林盛斌](../Page/林盛斌.md "wikilink")、[張致恆](../Page/張致恆.md "wikilink")、[張振朗](../Page/張振朗.md "wikilink")、[彭永琛](../Page/彭永琛.md "wikilink")、[楊詩敏](https://zh.wikipedia.org/wiki/楊詩敏 "wikilink")、[鄭世豪](../Page/鄭世豪.md "wikilink") | 張嘉玲                                                        | 張慧怡                                                     |
-| 2015 | [2015繽Fun娛樂大派對](http://programme.tvb.com/variety/starbizreview2015)    | 吳幸美                                                                                                                                                                                                                      | 張嘉玲                                                        | 張慧怡                                                     |
-| 2016 | [2016繽Fun娛樂大派對](http://programme.tvb.com/variety/starbizreview2016)    | [衛志豪](../Page/衛志豪.md "wikilink")、[周奕瑋](../Page/周奕瑋.md "wikilink")、[謝文欣](../Page/謝文欣.md "wikilink")、[譚永浩](../Page/譚永浩.md "wikilink")、[梁麗翹](../Page/梁麗翹.md "wikilink")、[陳浚霆](../Page/陳浚霆.md "wikilink")                    | 張嘉玲                                                        | 張慧怡                                                     |
-| 2016 | [娛樂3兄弟大民調2016](https://programme.mytvsuper.com/tc/109983/娛樂3兄弟大民調2016) | [陸浩明](../Page/陸浩明.md "wikilink")、[區永權](../Page/區永權.md "wikilink")、衛志豪                                                                                                                                                    | [張志明](https://zh.wikipedia.org/wiki/張志明_\(監製\) "wikilink") | [顏家明](https://zh.wikipedia.org/wiki/顏家明 "wikilink")     |
-| 2017 | [娛樂3兄弟繽Fun大派對2017](http://programme.tvb.com/variety/starbizreview2017) | 陸浩明、區永權、衛志豪                                                                                                                                                                                                              | 張志明                                                        | [顏家明](https://zh.wikipedia.org/wiki/顏家明 "wikilink")     |
-| 2018 | [2018娛樂繽Fun大派對](http://programme.tvb.com/variety/starbizreview2018)    | 區永權、[許文軒](../Page/許文軒.md "wikilink")、[陳貝兒](../Page/陳貝兒.md "wikilink")、[陳約臨](../Page/陳約臨.md "wikilink")、[鄺潔楹](../Page/鄺潔楹.md "wikilink")、[蘇可欣](../Page/蘇可欣.md "wikilink")                                                 | 張志明                                                        | 顏家明                                                     |
-|      |                                                                        |                                                                                                                                                                                                                          |                                                            |                                                         |
+<table style="width:135%;">
+<colgroup>
+<col style="width: 80%" />
+<col style="width: 15%" />
+<col style="width: 20%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>年度</p></th>
+<th><p>名稱</p></th>
+<th><p>主持</p></th>
+<th><p>監製</p></th>
+<th><p>編審</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2009</p></td>
+<td><p><a href="http://programme.tvb.com/variety/starbizreview2009">娛樂十大奇案2009</a></p></td>
+<td><p><a href="../Page/崔建邦.md" title="wikilink">崔建邦</a>、<a href="../Page/宋熙年.md" title="wikilink">宋熙年</a>、<a href="https://zh.wikipedia.org/wiki/龔嘉欣" title="wikilink">龔嘉欣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/張嘉玲" title="wikilink">張嘉玲</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/張慧怡" title="wikilink">張慧怡</a></p></td>
+</tr>
+<tr class="even">
+<td><p>2010</p></td>
+<td><p><a href="http://programme.tvb.com/variety/starbizreview2010">2010八味娛樂圈</a></p></td>
+<td><p>宋熙年、<a href="../Page/陳倩揚.md" title="wikilink">陳倩揚</a>、<a href="../Page/麥皓兒.md" title="wikilink">麥皓兒</a></p></td>
+<td><p>張嘉玲</p></td>
+<td><p>張慧怡</p></td>
+</tr>
+<tr class="odd">
+<td><p>2011</p></td>
+<td><p><a href="http://programme.tvb.com/variety/starbizreview2011">繽Fun娛樂大派對</a></p></td>
+<td><p>宋熙年、麥皓兒、<a href="https://zh.wikipedia.org/wiki/森美" title="wikilink">森美</a></p></td>
+<td><p>張嘉玲</p></td>
+<td><p>張慧怡</p></td>
+</tr>
+<tr class="even">
+<td><p>2012</p></td>
+<td><p><a href="http://programme.tvb.com/variety/starbizreview2012">Fun Fun娛樂大派對</a></p></td>
+<td><p><a href="../Page/古明華.md" title="wikilink">古明華</a>、<a href="../Page/黎芷珊.md" title="wikilink">黎芷珊</a>、<a href="../Page/容羨媛.md" title="wikilink">容羨媛</a>、<a href="../Page/吳幸美.md" title="wikilink">吳幸美</a></p></td>
+<td><p>張嘉玲、<a href="../Page/衛世輝.md" title="wikilink">衛世輝</a></p></td>
+<td><p>張慧怡、<a href="https://zh.wikipedia.org/wiki/鄭月明" title="wikilink">鄭月明</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>2013</p></td>
+<td><p><a href="http://programme.tvb.com/variety/starbizreview2013">2013娛樂大派對</a></p></td>
+<td><p>旁白：<a href="../Page/林映輝.md" title="wikilink">林映輝</a>、容羨媛</p></td>
+<td><p>張嘉玲</p></td>
+<td><p>張慧怡</p></td>
+</tr>
+<tr class="even">
+<td><p>2014<br />
+（2015播出）</p></td>
+<td><p><a href="http://programme.tvb.com/variety/starbizreview2014">繽Fun娛樂大派對</a></p></td>
+<td><p><a href="../Page/林盛斌.md" title="wikilink">林盛斌</a>、<a href="../Page/張致恆.md" title="wikilink">張致恆</a>、<a href="../Page/張振朗.md" title="wikilink">張振朗</a>、<a href="../Page/彭永琛.md" title="wikilink">彭永琛</a>、<a href="https://zh.wikipedia.org/wiki/楊詩敏" title="wikilink">楊詩敏</a>、<a href="../Page/鄭世豪.md" title="wikilink">鄭世豪</a></p></td>
+<td><p>張嘉玲</p></td>
+<td><p>張慧怡</p></td>
+</tr>
+<tr class="odd">
+<td><p>2015</p></td>
+<td><p><a href="http://programme.tvb.com/variety/starbizreview2015">2015繽Fun娛樂大派對</a></p></td>
+<td><p>吳幸美</p></td>
+<td><p>張嘉玲</p></td>
+<td><p>張慧怡</p></td>
+</tr>
+<tr class="even">
+<td><p>2016</p></td>
+<td><p><a href="http://programme.tvb.com/variety/starbizreview2016">2016繽Fun娛樂大派對</a></p></td>
+<td><p><a href="../Page/衛志豪.md" title="wikilink">衛志豪</a>、<a href="../Page/周奕瑋.md" title="wikilink">周奕瑋</a>、<a href="../Page/謝文欣.md" title="wikilink">謝文欣</a>、<a href="../Page/譚永浩.md" title="wikilink">譚永浩</a>、<a href="../Page/梁麗翹.md" title="wikilink">梁麗翹</a>、<a href="../Page/陳浚霆.md" title="wikilink">陳浚霆</a></p></td>
+<td><p>張嘉玲</p></td>
+<td><p>張慧怡</p></td>
+</tr>
+<tr class="odd">
+<td><p>2016</p></td>
+<td><p><a href="https://programme.mytvsuper.com/tc/109983/娛樂3兄弟大民調2016">娛樂3兄弟大民調2016</a></p></td>
+<td><p><a href="../Page/陸浩明.md" title="wikilink">陸浩明</a>、<a href="../Page/區永權.md" title="wikilink">區永權</a>、衛志豪</p></td>
+<td><p><a href="../Page/張志明_(監製).md" title="wikilink">張志明</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/顏家明" title="wikilink">顏家明</a></p></td>
+</tr>
+<tr class="even">
+<td><p>2017</p></td>
+<td><p><a href="http://programme.tvb.com/variety/starbizreview2017">娛樂3兄弟繽Fun大派對2017</a></p></td>
+<td><p>陸浩明、區永權、衛志豪</p></td>
+<td><p>張志明</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/顏家明" title="wikilink">顏家明</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>2018</p></td>
+<td><p><a href="http://programme.tvb.com/variety/starbizreview2018">2018娛樂繽Fun大派對</a></p></td>
+<td><p>區永權、<a href="../Page/許文軒.md" title="wikilink">許文軒</a>、<a href="../Page/陳貝兒.md" title="wikilink">陳貝兒</a>、<a href="../Page/陳約臨.md" title="wikilink">陳約臨</a>、<a href="../Page/鄺潔楹.md" title="wikilink">鄺潔楹</a>、<a href="../Page/蘇可欣.md" title="wikilink">蘇可欣</a></p></td>
+<td><p>張志明</p></td>
+<td><p>顏家明</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 參考資料
 

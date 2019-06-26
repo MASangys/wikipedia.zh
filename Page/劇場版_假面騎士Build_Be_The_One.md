@@ -51,50 +51,6 @@ film](../Page/快盜戰隊魯邦連者VS警察戰隊巡邏連者_en_film.md "wik
 
 ### 《假面騎士Build》原登場人物
 
-**桐生戰兔（）**（[犬飼貴丈飾](../Page/犬飼貴丈.md "wikilink")）
-
-  -
-
-**萬丈龍我（）**（[赤楚衛二飾](https://zh.wikipedia.org/wiki/赤楚衛二 "wikilink")）
-
-  -
-
-**石動美空（）**（[高田夏帆飾](https://zh.wikipedia.org/wiki/高田夏帆 "wikilink")）
-
-  -
-
-**猿渡一海（）**（[武田航平飾](https://zh.wikipedia.org/wiki/武田航平 "wikilink")）
-
-  -
-
-**內海成彰（）**（[越智友己飾](https://zh.wikipedia.org/wiki/越智友己 "wikilink")）
-
-  -
-
-**葛城忍（）**（[小久保丈二飾](https://zh.wikipedia.org/wiki/小久保丈二 "wikilink")）
-
-  -
-
-**葛城巧（）**（[木山廉彬飾](https://zh.wikipedia.org/wiki/木山廉彬 "wikilink")）
-
-  -
-
-**艾博魯特（）**（[金尾哲夫聲](https://zh.wikipedia.org/wiki/金尾哲夫 "wikilink")）
-
-  -
-
-**瀧川紗羽（）**（[瀧裕可里飾](https://zh.wikipedia.org/wiki/瀧裕可里 "wikilink")）
-
-  -
-
-**冰室幻德（）**（[水上劍星飾](https://zh.wikipedia.org/wiki/水上劍星 "wikilink")）
-
-  -
-
-**石動惣一（）**（[前川泰之飾](https://zh.wikipedia.org/wiki/前川泰之 "wikilink")）
-
-  -
-
 ### 本作登場人物
 
 **伊能賢剛（）**（[勝村政信飾](../Page/勝村政信.md "wikilink")）
@@ -119,6 +75,8 @@ film](../Page/快盜戰隊魯邦連者VS警察戰隊巡邏連者_en_film.md "wik
     前任宇航員，現任北都的都知事，也是剪刀Lost SMASH 的變身者。
     曾擔任過東都首相——冰室泰山的近身，並盡力讓幻德成為代理首相，另一方面建議他對兩都進行挑釁行為。
     最後被假面騎士Rogue擊倒。
+
+**舞原由宇（）**（[呼春飾](https://zh.wikipedia.org/wiki/呼春 "wikilink")）、**舞原新汰（）**（[鶴翔麒飾](https://zh.wikipedia.org/wiki/鶴翔麒 "wikilink")）
 
 ## 本作限定登場假面騎士/形態
 
@@ -216,6 +174,81 @@ Great Dragonic Finish</strong><br />
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+#### 結構
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>結構</strong></p></td>
+<td><p><strong>名稱</strong></p></td>
+<td><p><strong>簡介</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><strong>頭部</strong></p></td>
+<td><p>BD 頭盔</p></td>
+<td><p>頭部統稱，因为强化剂提升了基础耐久度，能一边承受敌人的攻击，一边不紧不慢地缩短与敌人的距离。</p></td>
+</tr>
+<tr class="odd">
+<td><p>危險強化器</p></td>
+<td><p>大脑的特定部位进行强化剂浸透刺激其斗争本能，提升攻击的威力。这个机能会对变身者的精神带来过大的负担，但是血族则可以持续使用强化剂而不会带来负担。</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>BD 信號</p></td>
+<td><p>位於额頭的數據收集裝置。實侍集中戰鬥數據，能正确地把握自身與敵人的能力。<br />
+另外也执行全身的狀態管理，若有損傷之处會自動進行应急补修。</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>胸部</strong></p></td>
+<td><p>BD 胸甲</p></td>
+<td><p>胸部統稱，中枢内置一个特殊的变换炉，具有将Cobra Lost Fullbottle的成份生成发光能量体变换成、猛光巨蛇“Zenovaed Snake”的机能。“Zenovaed Snake”与Blood协作对敌人施展攻击。</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>雙臂</strong></p></td>
+<td><p>BD 處刑之肩</p></td>
+<td><p>肩部統稱，必杀技发动时喷出强化剂，强化全身各部分的攻击机能的作用。还能展开能断绝空间的维度护盾，也可以使敌人释放的攻击无效化。</p></td>
+</tr>
+<tr class="odd">
+<td><p>BD 腕甲</p></td>
+<td><p>手腕統稱，能凭借强化剂提升基础攻击能力，以碎铁一击破坏敌人的要害，毫不留情地葬送敌人。另外，还能放出随心所欲地让物体活动的特殊气场，将远处的敌人拘束并牵引过来。</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>BD 死領之拳</p></td>
+<td><p>拳套統稱，具备将拳头接触到的物体分解与雾散的机能，必杀技发动时利用拳击消灭攻击对象的装甲，再往暴露出的中枢灌入能量使其破坏。另外，可以通过被缠绕不祥光环中的拳击来让一定范围内的空间崩坏。</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>腿部</strong></p></td>
+<td><p>BD 腿甲</p></td>
+<td><p>腿部統稱，能凭借强化剂提升基础攻击能力，以碎铁一击破坏敌人的要害，毫不留情地葬送敌人。另外，还能放出随心所欲地让物体活动的特殊灵光，使自身的动作超高速化。</p></td>
+</tr>
+<tr class="even">
+<td><p>BD 滅終戰靴</p></td>
+<td><p>战靴統稱，具备将脚底接触到的物体分解或雾散的机能，必杀技发动时利用踢击消灭攻击对象的装甲，再往暴露出的中枢灌入能量使其破坏。另外，可以通过被缠绕不祥光环中的踢击来让一定范围内的空间崩坏。</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>全身</strong></p></td>
+<td><p>BD 無限裝甲</p></td>
+<td><p>覆蓋著全身的耐衝擊戰鬥服。<br />
+能从戰鬥傷害中保護變身者的同時，解除肉體的限制器，发揮出潜藏的身体能力。</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>背部</strong></p></td>
+<td><p>BD 矢量披風</p></td>
+<td><p>特殊推进单元。<br />
+控制周围的重力，实现浮游和高速移动。另外，还能在施展通常格斗技之际进行加重和加速，使之强化为与必杀技相匹敌的强烈一击。</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -356,37 +389,6 @@ Great Dragonic Finish</strong><br />
   - 演唱：Beverly
 
 ### 插入曲
-
-## 演員
-
-  - 桐生戰兔 / 假面騎士Build（聲） - 犬飼貴丈
-  - 萬丈龍我 / 假面騎士Cross-Z（聲） - 赤楚衛二
-  - 石動美空 - 高田夏帆
-  - 猿渡一海 / 假面騎士Grease（聲） - 武田航平
-  - 內海成彰 - 越智友己
-  - 葛城忍 - 小久保丈二
-  - 葛城巧 - 木山廉彬
-  - 鄉原光臣 / 斑馬Lost SMASH（聲） - 藤井隆
-  - 才賀涼香 / 剪刀Lost SMASH（聲） - 松井玲奈
-  - 瀧川紗羽 - 瀧裕可里
-  - 冰室幻德 / 假面騎士Rogue（聲） - 水上劍星
-  - 石動惣一 - 前川泰之
-  - 伊能賢剛 / 假面騎士Blood（聲） - 勝村政信
-
-## 皮套演出
-
-  - 高岩成二
-  - 永德
-  - 藤田慧
-  - 渡邊淳
-  - 今井靖彥
-
-## 聲音演出
-
-  - 艾博魯特／假面騎士Evol（聲） - 金尾哲夫
-  - 創造驅動器音效 - 小林克也
-  - 擠壓驅動器音效 - 若本規夫
-  - 假面騎士ZI-O - 奧野壯
 
 ## 製作人員
 

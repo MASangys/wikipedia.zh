@@ -10,12 +10,12 @@ Series）\[1\]，由《[失蹤的黑色M](../Page/失蹤的黑色M.md "wikilink"
 
 ### 主要人物
 
-<table style="width:70%;">
+<table style="width:65%;">
 <colgroup>
-<col style="width: 10%" />
-<col style="width: 10%" />
-<col style="width: 38%" />
-<col style="width: 10%" />
+<col style="width: 9%" />
+<col style="width: 9%" />
+<col style="width: 35%" />
+<col style="width: 9%" />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -803,9 +803,11 @@ Series）\[1\]，由《[失蹤的黑色M](../Page/失蹤的黑色M.md "wikilink"
   - [JTBC](../Page/JTBC.md "wikilink")
     《[我的ID是江南美人](../Page/我的ID是江南美人.md "wikilink")》
 
-## 註釋
+## 註釋與參考資料
 
-## 參考資料
+### 註釋
+
+### 參考資料
 
 ## 外部連結
 

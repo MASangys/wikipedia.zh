@@ -30,7 +30,7 @@ Honey**）是[香港電視娛樂製作的](../Page/香港電視娛樂.md "wikili
 Pan Pan現於<a href="https://zh.wikipedia.org/wiki/TVB" title="wikilink">TVB工作</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/朱凱頌" title="wikilink">朱凱頌</a>「Picco」（35）</p></td>
+<td><p><a href="../Page/朱凱頌.md" title="wikilink">朱凱頌</a>「Picco」（35）</p></td>
 <td><p>呂穎恆「Vera Lui」（28）</p></td>
 <td><p>情趣用品店創辦人</p></td>
 </tr>

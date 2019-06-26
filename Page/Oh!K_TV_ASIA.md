@@ -29,16 +29,16 @@ Asia**是[特纳广播公司的一個](https://zh.wikipedia.org/wiki/特纳广�
 <td><p>星期二至三</p></td>
 <td><p>18:55 - 20:05（印尼）<br />
 19:55 - 21:05（新加坡 马来西亚 文莱）</p></td>
-<td><p><a href="../Page/Item_(電視劇).md" title="wikilink">Item</a></p></td>
-<td><p>2月12日起，与韩国24小时内播出</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/检法男女2" title="wikilink">检法男女2</a></p></td>
+<td><p>与韩国24小时内播出</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>星期四至五</p></td>
 <td><p>18:55 - 20:05（印尼）<br />
 19:55 - 21:05（新加坡 马来西亚 文莱）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/The_Banker_(电视剧)" title="wikilink">银行家</a></p></td>
-<td><p>3月28日起，与韩国24小时内播出</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/异梦" title="wikilink">异梦</a></p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -67,7 +67,7 @@ Asia**是[特纳广播公司的一個](https://zh.wikipedia.org/wiki/特纳广�
 <td><p>星期六</p></td>
 <td><p>21:55 - 23:15（印尼）<br />
 22:55 - 00:15（新加坡 马来西亚 文莱）</p></td>
-<td><p><a href="../Page/真正的男人.md" title="wikilink">真正的男人（第三季）</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/傻瓜的恋爱" title="wikilink">傻瓜的恋爱</a></p></td>
 <td><p>最新集數</p></td>
 <td></td>
 </tr>

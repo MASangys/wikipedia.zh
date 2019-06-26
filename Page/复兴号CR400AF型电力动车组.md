@@ -129,7 +129,7 @@ Station.jpg|caption3=配属广州局集团的CR400AF-A担当G6511次列车停靠
 
 ### 配属概况
 
-直至2019年5月，174列复兴号CR400AF型动车组列车已出厂。
+直至2019年6月，187列复兴号CR400AF型动车组列车已出厂。
 
   - 车号0XXX，为样版车
   - 车号1XXX，为青岛四方庞巴迪生产的列车
@@ -182,8 +182,8 @@ Station.jpg|caption3=配属广州局集团的CR400AF-A担当G6511次列车停靠
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/广州局集团" title="wikilink">广州局集团</a></p></td>
-<td><p>23</p></td>
-<td><p>1006～1015、<br />
+<td><p>26</p></td>
+<td><p>1006～1018、<br />
 2022、2024、2026～2028、2040、2041、2044、2046、2055、2062～2064</p></td>
 <td><p>广州南</p></td>
 <td><p>京广-广深港高铁、<a href="../Page/徐兰客运专线.md" title="wikilink">徐兰客运专线</a>、<a href="https://zh.wikipedia.org/wiki/沪汉蓉客运专线" title="wikilink">沪汉蓉客运专线</a>、<a href="../Page/沪昆客运专线.md" title="wikilink">沪昆客运专线</a></p></td>
@@ -207,8 +207,8 @@ Station.jpg|caption3=配属广州局集团的CR400AF-A担当G6511次列车停靠
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/济南局集团" title="wikilink">济南局集团</a></p></td>
-<td><p>5</p></td>
-<td><p>2085～2089</p></td>
+<td><p>7</p></td>
+<td><p>2085～2089、2162、2163</p></td>
 <td><p>青岛</p></td>
 <td><p><a href="../Page/青荣城际铁路.md" title="wikilink">青荣城际铁路</a>、<a href="../Page/济青高速铁路.md" title="wikilink">济青高速铁路</a></p></td>
 <td></td>
@@ -223,8 +223,8 @@ Station.jpg|caption3=配属广州局集团的CR400AF-A担当G6511次列车停靠
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/武汉局集团" title="wikilink">武汉局集团</a></p></td>
-<td><p>12</p></td>
-<td><p>2124～2128、2147～2153</p></td>
+<td><p>20</p></td>
+<td><p>2124～2128、2147～2161</p></td>
 <td><p>武汉</p></td>
 <td><p><a href="../Page/京广高速铁路.md" title="wikilink">京广高速铁路</a></p></td>
 <td></td>
@@ -251,14 +251,14 @@ Station.jpg|caption3=配属广州局集团的CR400AF-A担当G6511次列车停靠
 <td><p>1001～1005、<br />
 2065～2068、2070～2072、2078、2081～2084、2104～2106</p></td>
 <td><p>广州南</p></td>
-<td><p>京广-广深港高铁、<a href="../Page/合蚌客运专线.md" title="wikilink">合蚌客运专线</a>、<a href="https://zh.wikipedia.org/wiki/沪汉蓉客运专线" title="wikilink">沪汉蓉客运专线</a></p></td>
+<td><p>京广-广深港高铁、<a href="../Page/渝贵铁路.md" title="wikilink">渝贵铁路</a>、<a href="../Page/贵广客运专线.md" title="wikilink">贵广客运专线</a>、<a href="../Page/合蚌客运专线.md" title="wikilink">合蚌客运专线</a>、<a href="https://zh.wikipedia.org/wiki/沪汉蓉客运专线" title="wikilink">沪汉蓉客运专线</a></p></td>
 <td><p>1001原车号1002。</p></td>
 </tr>
 <tr class="even">
 <td><p>15</p></td>
 <td><p>2069、2073～2077、2079、2080、2095～2100、2103</p></td>
 <td><p>长沙南</p></td>
-<td><p>京广-广深港高铁、<a href="../Page/贵广客运专线.md" title="wikilink">贵广客运专线</a>、<a href="../Page/沪昆客运专线.md" title="wikilink">沪昆客运专线</a></p></td>
+<td><p>京广-广深港高铁、贵广客运专线、<a href="../Page/沪昆客运专线.md" title="wikilink">沪昆客运专线</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -646,7 +646,7 @@ ZYS xxxx00</p></td>
 <td><p>动车（M）</p></td>
 <td><p>拖车，带<a href="../Page/集電弓.md" title="wikilink">受电弓</a>（Tp）</p></td>
 <td><p>动车（M）</p></td>
-<td><p>拖车（M）</p></td>
+<td><p>拖车（T）</p></td>
 <td><p>拖车<br />
 带驾驶室（Tc）</p></td>
 </tr>

@@ -20,6 +20,8 @@ S\&W口徑3.3英吋（83.82毫米）槍管版本。
 
 2018年1月，春田公司推出了春田XD-S .45 ACP口徑的Mod. 2型，意味著XD-S走向Mod. 2化。
 
+2019年6月，春田公司推出了春田XD-S Mod. 2的.40 S\&W口徑型。
+
 ## 設計細節
 
 春田XD-S是一把[聚合物底把](../Page/聚合物.md "wikilink")、[钢製嵌件並具有配件安裝導軌的](../Page/钢.md "wikilink")[短後座行程作用和](../Page/後座作用.md "wikilink")[擊針發射式](../Page/撞針.md "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")。春田XD-S最初只有.45
@@ -186,6 +188,55 @@ HRC）和1,200—1,300平方毫米每牛頓（N/mm<sup>2</sup>）的抗拉強度
 
 \[9\]
 
+### XD-S Mod.2 3.3" 9×19毫米
+
+|                                                      |                                                                                                                                                        |
+| ---------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")：   | 9×19毫米                                                                                                                                                 |
+| 彈匣：                                                  | 1－7發，齊平型彈匣，[不鏽鋼](../Page/不鏽鋼.md "wikilink")                                                                                                            |
+|                                                      | 1－9發，X-Tension™彈匣（XDS09061），[不鏽鋼](../Page/不鏽鋼.md "wikilink")                                                                                           |
+| [槍管](../Page/槍管.md "wikilink")：                      | 3.3英吋（83.82毫米），钢製，Melonite®，完全支持的上膛坡道                                                                                                                  |
+| 瞄準具型式：                                               | 鳩尾槽式，[红色](../Page/红色.md "wikilink")[光纖前部](../Page/光導纖維.md "wikilink")（包括可更換式紅色和[綠色長絲](../Page/綠色.md "wikilink")）和後部（鋼製），三點式準星                          |
+| 底把：                                                  | 黑色聚合物                                                                                                                                                  |
+|                                                      | 沙色聚合物                                                                                                                                                  |
+|                                                      | 灰色聚合物                                                                                                                                                  |
+| [套筒](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")： | 鍛鋼                                                                                                                                                     |
+|                                                      | 不鏽鋼                                                                                                                                                    |
+| 全長：                                                  | 6.3英吋（160.02毫米）                                                                                                                                        |
+| 寬度：                                                  | 0.975英吋（24.76毫米）                                                                                                                                       |
+| 全高：                                                  | 4.7英吋（119.38毫米），空槍                                                                                                                                     |
+|                                                      | 5.22英吋（132.59毫米），含X-Tension™彈匣                                                                                                                         |
+| 重量、含空彈匣：                                             | 21.5[盎司](../Page/盎司.md "wikilink")（609.51[克](https://zh.wikipedia.org/wiki/克 "wikilink")）                                                              |
+|                                                      | 22.5[盎司](../Page/盎司.md "wikilink")（609.51[克](https://zh.wikipedia.org/wiki/克 "wikilink")），含X-Tension™彈匣                                                |
+| 可選顏色：                                                | [黑色連](../Page/黑色.md "wikilink")[黑色](../Page/黑色.md "wikilink")[套筒](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")                                       |
+|                                                      | [黑色連](../Page/黑色.md "wikilink")[不鏽鋼](../Page/不鏽鋼.md "wikilink")[套筒](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")                                     |
+|                                                      | [沙色連](https://zh.wikipedia.org/wiki/沙色 "wikilink")[黑色](../Page/黑色.md "wikilink")[套筒](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")                    |
+|                                                      | [灰色連](https://zh.wikipedia.org/wiki/灰色 "wikilink")[黑色](../Page/黑色.md "wikilink")[套筒](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")                    |
+|                                                      | [沙色連](https://zh.wikipedia.org/wiki/沙色 "wikilink")[沙色](https://zh.wikipedia.org/wiki/沙色 "wikilink")[套筒](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink") |
+
+\[10\]
+
+### XD-S Mod.2 3.3" .40 S\&W
+
+|                                                      |                                                                                                                               |
+| ---------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| [口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")：   | .40 S\&W                                                                                                                      |
+| 彈匣：                                                  | 1－6發，齊平型彈匣，[不鏽鋼](../Page/不鏽鋼.md "wikilink")                                                                                   |
+|                                                      | 1－7發，中型X-Tension™彈匣（XDS0908），[不鏽鋼](../Page/不鏽鋼.md "wikilink")                                                                 |
+| [槍管](../Page/槍管.md "wikilink")：                      | 3.3英吋（83.82毫米），钢製，Melonite®，完全支持的上膛坡道                                                                                         |
+| 瞄準具型式：                                               | 鳩尾槽式，[红色](../Page/红色.md "wikilink")[光纖前部](../Page/光導纖維.md "wikilink")（包括可更換式紅色和[綠色長絲](../Page/綠色.md "wikilink")）和後部（鋼製），三點式準星 |
+| 底把：                                                  | 黑色聚合物                                                                                                                         |
+| [套筒](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")： | 鍛鋼                                                                                                                            |
+| 全長：                                                  | 6.3英吋（160.02毫米）                                                                                                               |
+| 寬度：                                                  | 0.975英吋（24.76毫米）                                                                                                              |
+| 全高：                                                  | 4.7英吋（119.38毫米），空槍                                                                                                            |
+|                                                      | 5.22英吋（132.59毫米），含X-Tension™彈匣                                                                                                |
+| 重量、含空彈匣：                                             | 22[盎司](../Page/盎司.md "wikilink")（623.69[克](https://zh.wikipedia.org/wiki/克 "wikilink")）                                       |
+|                                                      | 23[盎司](../Page/盎司.md "wikilink")（652.04[克](https://zh.wikipedia.org/wiki/克 "wikilink")），含X-Tension™彈匣                         |
+| 可選顏色：                                                | [黑色連](../Page/黑色.md "wikilink")[黑色](../Page/黑色.md "wikilink")[套筒](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")              |
+
+\[11\]
+
 ### XD-S Mod.2 3.3" .45 ACP
 
 |                                                      |                                                                                                                               |
@@ -200,13 +251,13 @@ HRC）和1,200—1,300平方毫米每牛頓（N/mm<sup>2</sup>）的抗拉強度
 | 全長：                                                  | 6.5英吋（165.1毫米）                                                                                                                |
 | 寬度：                                                  | 0.975英吋（24.765毫米）                                                                                                             |
 | 全高：                                                  | 4英吋（120.65毫米），空槍                                                                                                              |
-|                                                      | 4.4英吋（111.76毫米），含緊湊型彈匣                                                                                                        |
-|                                                      | 5英吋（127毫米），含中型X-Tension™彈匣                                                                                                    |
+|                                                      | 4.66英吋（118.36毫米），含緊湊型彈匣                                                                                                       |
+|                                                      | 4.83英吋（122.68毫米），含中型X-Tension™彈匣                                                                                              |
 | 重量、含空彈匣：                                             | 21.5[盎司](../Page/盎司.md "wikilink")（609.51[克](https://zh.wikipedia.org/wiki/克 "wikilink")），含緊湊型彈匣                              |
 |                                                      | 22.5盎司（609.51[克](https://zh.wikipedia.org/wiki/克 "wikilink")），含中型X-Tension™彈匣                                                 |
 | 可選顏色：                                                | [黑色連](../Page/黑色.md "wikilink")[黑色](../Page/黑色.md "wikilink")[套筒](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")              |
 
-\[10\]
+\[12\]
 
 ## 流行文化
 
@@ -542,3 +593,5 @@ HRC）和1,200—1,300平方毫米每牛頓（N/mm<sup>2</sup>）的抗拉強度
 8.
 9.
 10.
+11.
+12.

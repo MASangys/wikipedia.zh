@@ -712,7 +712,7 @@ tE・rU</p></td>
 </tr>
 <tr class="even">
 <td><center>
-<p><br />
+<p><a href="../Page/金光宣明.md" title="wikilink">金光宣明</a><br />
 (聲演)</p></td>
 <td><center>
 <p>幻影宇宙帝王</p>

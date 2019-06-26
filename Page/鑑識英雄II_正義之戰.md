@@ -1,4 +1,4 @@
-《**鑑識英雄II正義之戰**》（），2019年[台灣鑑識劇](https://zh.wikipedia.org/wiki/台灣鑑識劇 "wikilink")，由[李昌鈺](../Page/李昌鈺.md "wikilink")、[王識賢](../Page/王識賢.md "wikilink")、[蔡淑臻](../Page/蔡淑臻.md "wikilink")、[周孝安](../Page/周孝安.md "wikilink")、[蔡黃汝](../Page/蔡黃汝.md "wikilink")、[紀培慧](../Page/紀培慧.md "wikilink")、[蘇達主演](../Page/蘇達.md "wikilink")。2016年5月27日開拍，且以[電視電影方法拍攝](../Page/電視電影.md "wikilink")。[愛奇藝台灣站自](https://zh.wikipedia.org/wiki/愛奇藝台灣站 "wikilink")2019年3月27起，週一至週五晚間8點獨家播出。<ref>[李昌鈺入列《鑑識英雄２》](http://www.chinatimes.com/newspapers/20151106000825-260112)中時電子報.
+《**鑑識英雄II正義之戰**》（），2019年台灣鑑識劇，由[李昌鈺](../Page/李昌鈺.md "wikilink")、[王識賢](../Page/王識賢.md "wikilink")、[蔡淑臻](../Page/蔡淑臻.md "wikilink")、[周孝安](../Page/周孝安.md "wikilink")、[蔡黃汝](../Page/蔡黃汝.md "wikilink")、[紀培慧](../Page/紀培慧.md "wikilink")、[蘇達主演](../Page/蘇達.md "wikilink")。2016年5月27日開拍，且以[電視電影方法拍攝](../Page/電視電影.md "wikilink")。[愛奇藝台灣站自](https://zh.wikipedia.org/wiki/愛奇藝台灣站 "wikilink")2019年3月27起，週一至週五晚間8點獨家播出。<ref>[李昌鈺入列《鑑識英雄２》](http://www.chinatimes.com/newspapers/20151106000825-260112)中時電子報.
 2015年11月6日
 
 </ref>
@@ -234,7 +234,7 @@
 <p>亮亮</p></td>
 <td><center>
 <p><a href="https://zh.wikipedia.org/wiki/馬維亭" title="wikilink">馬維亭</a></p></td>
-<td><p>林士堯的女兒</p></td>
+<td><p>林士堯的女兒，和父親關係不和</p></td>
 <td><center>
 <p>1-2,6,14-16</p></td>
 </tr>

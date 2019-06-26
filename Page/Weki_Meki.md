@@ -136,7 +136,7 @@ Crazy\! 大家好，我們是Weki Meki！」。說出「Crazy」的同時，雙�
 <li>規格: 數位音樂下載、CD</li>
 <li>語言：韓語</li>
 <li>音樂類型：K-POP</li>
-<li>專輯銷售量:</li>
+<li>專輯銷售量: 12,373+</li>
 </ul></td>
 <td></td>
 </tr>
@@ -636,6 +636,20 @@ OCN (電視版）</p></td>
 | [Music Bank](https://zh.wikipedia.org/wiki/音乐银行 "wikilink")               |
 | [M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")       |
 |                                                                           |
+
+### 2019年
+
+| 第二張迷你專輯《LOCK END LOL 》                                                   |
+| ------------------------------------------------------------------------ |
+| 節目名稱                                                                     |
+| colspan="3" style="text-align:center; background:\#FFCA19; | Picky Picky |
+| [Show Champion](../Page/Show_Champion.md "wikilink")                     |
+| [M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")      |
+| [Music Bank](https://zh.wikipedia.org/wiki/音乐银行 "wikilink")              |
+| [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")       |
+| [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                    |
+| [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")                 |
+| [ARIRANG TV](../Page/阿里郎电视台.md "wikilink")                               |
 
 ### 特別舞台
 

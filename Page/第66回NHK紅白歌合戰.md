@@ -93,7 +93,7 @@
 
 共10人。
 
-  - [有村架純](../Page/有村架純.md "wikilink")：[演員](https://zh.wikipedia.org/wiki/演員 "wikilink")，明年上映的[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")《夏美的螢火蟲》（）中擔任主角
+  - [有村架純](../Page/有村架純.md "wikilink")：[演員](../Page/演員.md "wikilink")，明年上映的[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")《夏美的螢火蟲》（）中擔任主角
 
   - [上橋菜穗子](../Page/上橋菜穗子.md "wikilink")：[作家](https://zh.wikipedia.org/wiki/作家 "wikilink")、特任[教授](../Page/教授.md "wikilink")，本年憑《鹿王》獲得了第12屆[書店大獎中第](https://zh.wikipedia.org/wiki/書店大獎 "wikilink")1位。
 

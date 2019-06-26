@@ -2401,7 +2401,7 @@
 <td style="text-align: center;"><p>2004年1月30日</p></td>
 <td style="text-align: center;"><p><br />
 </p></td>
-<td style="text-align: center;"><p><small><a href="../Page/趙顯宰.md" title="wikilink">趙顯宰</a>、<a href="https://zh.wikipedia.org/wiki/中越典子" title="wikilink">中越典子</a>、<a href="../Page/李多海.md" title="wikilink">李多海</a>、<a href="../Page/谷原章介.md" title="wikilink">谷原章介</a>、<a href="https://zh.wikipedia.org/wiki/李準基" title="wikilink">李準基</a></small></p></td>
+<td style="text-align: center;"><p><small><a href="../Page/趙顯宰.md" title="wikilink">趙顯宰</a>、<a href="https://zh.wikipedia.org/wiki/中越典子" title="wikilink">中越典子</a>、<a href="../Page/李多海.md" title="wikilink">李多海</a>、<a href="../Page/谷原章介.md" title="wikilink">谷原章介</a>、<a href="../Page/李準基.md" title="wikilink">李準基</a></small></p></td>
 <td style="text-align: center;"><p><a href="../Page/金南沅.md" title="wikilink">金南沅</a><br />
 <a href="https://zh.wikipedia.org/wiki/高東善" title="wikilink">高東善</a></p></td>
 <td style="text-align: center;"></td>

@@ -2,7 +2,7 @@
 WARS：最後的絕地武士**》（），也可稱作《**星際大戰八部曲：最後的絕地武士**》（）\[1\]是一部於2017年上映的[史詩](../Page/史诗片.md "wikilink")[太空歌劇](../Page/太空歌劇.md "wikilink")[科幻片](https://zh.wikipedia.org/wiki/科幻片 "wikilink")，為[萊恩·尊遜執導和編劇](https://zh.wikipedia.org/wiki/萊恩·尊遜 "wikilink")。本片是《[星際大戰](../Page/星際大戰.md "wikilink")》系列電影的第八部作品和2015年電影《[STAR
 WARS：原力覺醒](../Page/STAR_WARS：原力覺醒.md "wikilink")》的續集。電影由[盧卡斯影業製作](https://zh.wikipedia.org/wiki/盧卡斯影業 "wikilink")，[華特迪士尼工作室電影負責發行](../Page/華特迪士尼工作室電影.md "wikilink")。
 
-除了[黛西·蕾德莉](../Page/黛西·蕾德莉.md "wikilink")、[約翰·波耶加](../Page/約翰·波耶加.md "wikilink")、[奧斯卡·伊薩克](https://zh.wikipedia.org/wiki/奧斯卡·伊薩克 "wikilink")、[馬克·漢米爾](../Page/馬克·漢米爾.md "wikilink")、[嘉莉·費雪](../Page/嘉莉·費雪.md "wikilink")、[亞當·崔佛](../Page/亞當·崔佛.md "wikilink")、[安迪·瑟克斯](../Page/安迪·瑟克斯.md "wikilink")、[多姆納爾·格里森](../Page/多姆納爾·格里森.md "wikilink")、[露琵塔·尼詠歐](https://zh.wikipedia.org/wiki/露琵塔·尼詠歐 "wikilink")、、和繼續回歸出演自己的角色外，本集還新加入了[班尼西歐·狄奧·托羅](../Page/班尼西歐·狄奧·托羅.md "wikilink")、[蘿拉·鄧恩以及](../Page/蘿拉·鄧恩.md "wikilink")\[2\]。電影於2015年9月14日在正式開拍。
+除了[黛西·蕾德莉](../Page/黛西·蕾德莉.md "wikilink")、[約翰·波耶加](../Page/約翰·波耶加.md "wikilink")、[奧斯卡·伊薩克](https://zh.wikipedia.org/wiki/奧斯卡·伊薩克 "wikilink")、[馬克·漢米爾](../Page/馬克·漢米爾.md "wikilink")、[嘉莉·費雪](../Page/嘉莉·費雪.md "wikilink")、[亞當·崔佛](../Page/亞當·崔佛.md "wikilink")、[安迪·瑟克斯](../Page/安迪·瑟克斯.md "wikilink")、[多姆納爾·格里森](../Page/多姆納爾·格里森.md "wikilink")、[露琵塔·尼詠歐](https://zh.wikipedia.org/wiki/露琵塔·尼詠歐 "wikilink")、[關朵琳·克莉絲蒂](../Page/關朵琳·克莉絲蒂.md "wikilink")、和繼續回歸出演自己的角色外，本集還新加入了[班尼西歐·狄奧·托羅](../Page/班尼西歐·狄奧·托羅.md "wikilink")、[蘿拉·鄧恩以及](../Page/蘿拉·鄧恩.md "wikilink")\[2\]。電影於2015年9月14日在正式開拍。
 
 該片定於2017年12月15日在美國上映。2017年1月23日，盧卡斯影業宣布本集副標題為「The Last Jedi」\[3\]。
 
@@ -28,7 +28,7 @@ WARS：原力覺醒](../Page/STAR_WARS：原力覺醒.md "wikilink")》的續集
 
   - [馬克·漢米爾](../Page/馬克·漢米爾.md "wikilink") 飾
     [路克·天行者](https://zh.wikipedia.org/wiki/路克·天行者 "wikilink")（Luke
-    Skywalker），強大的[絕地大師](../Page/絕地.md "wikilink")，將自我放逐於阿奇托星上長達數十年。
+    Skywalker），強大的[絕地大師](../Page/絕地.md "wikilink")，在阿奇托星上自我放逐長達數十年。
 
   - [嘉莉·費雪](../Page/嘉莉·費雪.md "wikilink") 飾
     [莉亞·歐嘉納將軍](../Page/莉亞公主.md "wikilink")（General
@@ -61,7 +61,8 @@ WARS：原力覺醒](../Page/STAR_WARS：原力覺醒.md "wikilink")》的續集
 
   - 飾 [C-3PO](../Page/C-3PO.md "wikilink")，效忠於莉亞將軍的人形禮儀機器人。
 
-  - 飾 （Captain Phasma），第一軍團領隊，芬恩的前上司。
+  - [關朵琳·克莉絲蒂](../Page/關朵琳·克莉絲蒂.md "wikilink") 飾 （Captain
+    Phasma），第一軍團領隊，芬恩的前上司。
 
   - 飾 （Rose Tico）\[4\]，抵抗勢力低層作業員，佩姬的妹妹，芬恩逃亡時認識的新伙伴。
 

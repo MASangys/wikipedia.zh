@@ -8,7 +8,7 @@ WORKS》\[5\]1年之後，內田弘樹提出以歐洲為背景描寫東德和西
 
 ## 故事
 
-1973年外星生物BETA入侵地球後，[明斯克巢穴的BETA自](../Page/明斯克.md "wikilink")1983年開始向歐洲入侵。由於1978年由歐洲聯軍所發動的巴萊奧羅格斯作戰失敗，隔年波蘭遭到淪陷後，[東德成為抵禦BETA的前線並且陷入困境](../Page/東德.md "wikilink")。[東德國家人民軍最強的](https://zh.wikipedia.org/wiki/國家人民軍 "wikilink")[陸軍第](https://zh.wikipedia.org/wiki/國家人民軍陸軍_\(東德\) "wikilink")666戰術機中隊「黒之宣告」（）的隊員提奧多爾和中隊長愛麗絲蒂娜在戰場上解救凱蒂亞之後開始展開的歐洲戰場故事。
+1973年外星生物BETA入侵地球後，[明斯克巢穴的BETA自](../Page/明斯克.md "wikilink")1983年開始向歐洲入侵。由於1978年由歐洲聯軍所發動的巴萊奧羅格斯作戰失敗，隔年波蘭遭到淪陷後，[東德成為抵禦BETA的前線並且陷入困境](../Page/東德.md "wikilink")。[東德國家人民軍最強的](../Page/國家人民軍.md "wikilink")[陸軍第](https://zh.wikipedia.org/wiki/國家人民軍陸軍_\(東德\) "wikilink")666戰術機中隊「黒之宣告」（）的隊員提奧多爾和中隊長愛麗絲蒂娜在戰場上解救凱蒂亞之後開始展開的歐洲戰場故事。
 
 ## 登場人物
 
@@ -545,7 +545,7 @@ Schwarzesmarken**》（ラジオ
 [Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
 
 1.  [シュヴァルツェスマーケン
-    公式サイト](http://schwarzesmarken.jp/schwarzesmarken/index.html)ixtl
+    公式サイト](https://web.archive.org/web/20151228105721/http://schwarzesmarken.jp/schwarzesmarken/index.html)ixtl
 
 2.  [Schwarzesmarken](https://vndb.org/v14910)The Visual Novel Database
 

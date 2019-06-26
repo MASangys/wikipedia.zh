@@ -138,7 +138,7 @@ Man》方面發布聲明，宣布[全昭旻](../Page/全昭旻.md "wikilink")、
 <td><p><a href="../Page/Gary_(韓國歌手).md" title="wikilink">Gary</a></p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS炭峴製作中心</a><br />
 <small>（<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/高陽市.md" title="wikilink">高陽市</a><br />
-<a href="https://zh.wikipedia.org/wiki/一山西區" title="wikilink">一山西區</a>）</small></p></td>
+<a href="../Page/一山西區.md" title="wikilink">一山西區</a>）</small></p></td>
 <td><p>Gary</p></td>
 <td><p><span style=font-size:110%><strong>Last 最強者戰 － 超能力戰爭</strong></span><br />
 <strong>個人戰</strong><br />
@@ -222,11 +222,16 @@ Man》方面發布聲明，宣布[全昭旻](../Page/全昭旻.md "wikilink")、
 <a href="https://zh.wikipedia.org/wiki/陽川區" title="wikilink">陽川區</a>）</small></p></td>
 <td><p><a href="../Page/李光洙.md" title="wikilink">李光洙</a></p></td>
 <td><p><span style=font-size:110%><strong>徹夜旅行</strong></span><br />
-<strong>個人戰</strong><br />
-沒有隊伍</p></td>
-<td><p>不被輪盤選中</p></td>
-<td><p>池錫辰、<a href="https://zh.wikipedia.org/wiki/金鐘國" title="wikilink">金鐘國</a>、<a href="../Page/Haha.md" title="wikilink">Haha</a>、<a href="../Page/宋智孝.md" title="wikilink">宋智孝</a>、<a href="../Page/李光洙.md" title="wikilink">李光洙</a><strong>勝出</strong><br />
-劉在錫須接受水炸彈懲罰[18]</p></td>
+<strong>團體戰</strong></p></td>
+<td><p><strong>團體任務</strong><br />
+6小時內完成所有任務<br />
+<strong>主人公任務</strong><br />
+完成隱藏任務</p></td>
+<td><p><strong>團體任務</strong><br />
+全員<strong>勝出</strong><br />
+<strong>主人公任務</strong><br />
+李光洙<strong>勝出</strong><br />
+經輪盤抽選後由劉在錫接受水炸彈懲罰[18]</p></td>
 </tr>
 </tbody>
 </table>
@@ -363,7 +368,7 @@ Running House[19]</p></td>
 <a href="../Page/尹博.md" title="wikilink">尹博</a></p></td>
 <td><p>Hyundai Motorstudio Goyang<br />
 <small>（<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/高陽市.md" title="wikilink">高陽市</a><br />
-<a href="https://zh.wikipedia.org/wiki/一山西區" title="wikilink">一山西區</a>）</small></p></td>
+<a href="../Page/一山西區.md" title="wikilink">一山西區</a>）</small></p></td>
 <td><p><span style=font-size:110%><strong>預定王競賽</strong></span><br />
 <span style=color:#c0c0c0><strong>Sandara隊</strong></span>：Sandara Park、劉在錫、金鐘國<br />
 <span style=color:#0000FF><strong>尹博隊</strong></span>：尹博、池錫辰、李光洙<br />
@@ -794,6 +799,11 @@ Sandara隊獲得旅行券，尹博隊獲得金R銅像，韓載錫隊獲得人蔘
 
   - 李光洙和梁世燦在I GO，STOP比賽中落敗而自動當選為最多I GO觀光券成員的選擇（詳情於第359集）
 
+| 最終結果 |
+| ---- |
+| 隊伍一  |
+| 隊伍二  |
+
 <table style="width:10%;">
 <colgroup>
 <col style="width: 0%" />
@@ -956,7 +966,7 @@ Sandara隊獲得旅行券，尹博隊獲得金R銅像，韓載錫隊獲得人蔘
 <small>（7月3日）</small></p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS炭峴製作中心</a><br />
 <small>（<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/高陽市.md" title="wikilink">高陽市</a><br />
-<a href="https://zh.wikipedia.org/wiki/一山西區" title="wikilink">一山西區</a>）</small></p></td>
+<a href="../Page/一山西區.md" title="wikilink">一山西區</a>）</small></p></td>
 <td><p><span style="font-size:110%"><strong>I GO，STOP</strong></span><br />
 <strong>咣Man（個人戰）</strong><br />
 池錫辰、哈哈、全昭旻<br />
@@ -977,7 +987,7 @@ Sandara隊獲得旅行券，尹博隊獲得金R銅像，韓載錫隊獲得人蔘
 </tr>
 <tr class="odd">
 <td><p>哈哈、全昭旻須接受「觀光」<br />
-哈哈和全昭旻分別選擇梁世燦、李光洙，分別前往美國科羅拉多州 — 大峽谷鞦韆及印尼 — 手動木製纜車</p></td>
+和咣Man同一隊的梁世燦、李光洙則自動當選為最多I GO觀光券成員的選擇，經抽選後梁世燦、李光洙分別成為哈哈、全昭旻的「觀光」同伴並前往美國科羅拉多州 — 大峽谷鞦韆及印尼 — 手動木製纜車</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1135,7 +1145,7 @@ Man成員與嘉賓進行一系列任務並爭取在競賽中獲勝，而任務�
 （<a href="https://zh.wikipedia.org/wiki/少女時代" title="wikilink">少女時代</a>）</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS炭峴製作中心</a><br />
 <small>（<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/高陽市.md" title="wikilink">高陽市</a><br />
-<a href="https://zh.wikipedia.org/wiki/一山西區" title="wikilink">一山西區</a>）</small></p></td>
+<a href="../Page/一山西區.md" title="wikilink">一山西區</a>）</small></p></td>
 <td><p><span style=font-size:110%><strong>我的少女時代，我的惡女時代</strong></span><br />
 <strong>惡女頭目 | 惡女隊</strong><br />
 全昭旻 | 俞利、秀英<br />
@@ -1398,7 +1408,7 @@ vs<br />
 <td><p>無嘉賓</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS炭峴製作中心</a><br />
 <small>（<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/高陽市.md" title="wikilink">高陽市</a><br />
-<a href="https://zh.wikipedia.org/wiki/一山西區" title="wikilink">一山西區</a>）</small></p></td>
+<a href="../Page/一山西區.md" title="wikilink">一山西區</a>）</small></p></td>
 <td><p><span style=font-size:110%><strong>輪盤地獄</strong></span><br />
 <strong>設計者</strong><br />
 李光洙<br />
@@ -1589,7 +1599,7 @@ Cheongpung Land<br />
 <a href="../Page/尹普美.md" title="wikilink">尹普美</a>(<a href="../Page/Apink.md" title="wikilink">Apink</a>)</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS炭峴製作中心</a><br />
 <small>（<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/高陽市.md" title="wikilink">高陽市</a><br />
-<a href="https://zh.wikipedia.org/wiki/一山西區" title="wikilink">一山西區</a>）</small></p></td>
+<a href="../Page/一山西區.md" title="wikilink">一山西區</a>）</small></p></td>
 <td><p><span style="font-size:110%"><strong>累積Pass － 找到助手吧</strong></span><br />
 <strong>委託人 | 助手</strong><br />
 李光洙 | 申成祿<br />
@@ -1668,7 +1678,7 @@ Cheongpung Land<br />
 <a href="../Page/姜丹尼爾.md" title="wikilink">姜丹尼爾</a>（<a href="https://zh.wikipedia.org/wiki/Wanna_One" title="wikilink">Wanna One</a>）</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS炭峴製作中心</a><br />
 <small>（<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/高陽市.md" title="wikilink">高陽市</a><br />
-<a href="https://zh.wikipedia.org/wiki/一山西區" title="wikilink">一山西區</a>）</small></p></td>
+<a href="../Page/一山西區.md" title="wikilink">一山西區</a>）</small></p></td>
 <td><p><span style="font-size:110%"><strong>犯罪者的都市</strong></span><br />
 <span style=color:#967100><strong>劉震派</strong></span><br />
 盧士燕、劉在錫、池錫辰、李光洙<br />
@@ -1781,7 +1791,7 @@ Cheongpung Land<br />
   - 累積企劃 － 半半旅行的懲罰部分
       - 劉在錫、李光洙 — [達爾文](../Page/达尔文_\(澳大利亚\).md "wikilink") —
         鱷魚死亡之籠（Cage of Death）
-  - 毎組到不同地方執行懲罰任務期間，成員可以利用機會券改變整個任務的懲罰進展，會在懲罰前後或期間懲罰各抽一次（成員可以決定不使用機會券），機會券有好有壞，抽到好的機會券可以割免部份懲罰或獲得額外獎勵，而抽到壞的機會券可能會増加額外懲罰或增加毋順接受懲罰的成員一同接受懲罰。
+  - 毎組到不同地方執行懲罰任務期間，成員可以利用機會券改變整個任務的進展，會在懲罰前後或期間懲罰各抽一次（成員可以決定不使用機會券），機會券有好有壞，抽到好的機會券可以割免部份懲罰或獲得額外獎勵，而抽到壞的機會券可能會増加額外懲罰或增加毋順接受懲罰的成員一同接受懲罰。
 
 <table style="width:10%;">
 <colgroup>
@@ -1910,7 +1920,7 @@ b. 餵飼鱷魚期間完成合照 新西蘭隊：<br />
 <a href="../Page/李相燁.md" title="wikilink">李相燁</a>、<a href="../Page/高甫潔.md" title="wikilink">高甫潔</a></p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS炭峴製作中心</a><br />
 <small>（<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/高陽市.md" title="wikilink">高陽市</a><br />
-<a href="https://zh.wikipedia.org/wiki/一山西區" title="wikilink">一山西區</a>）</small></p></td>
+<a href="../Page/一山西區.md" title="wikilink">一山西區</a>）</small></p></td>
 <td><p><span style="font-size:110%"><strong>與歹徒的戰爭</strong></span><br />
 <strong>歹徒隊</strong><br />
 金鐘國、崔貴華<br />

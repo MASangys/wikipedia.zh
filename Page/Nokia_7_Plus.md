@@ -17,10 +17,10 @@ zh-hant:螢幕}-設計，右上角印有Nokia的品牌logo。\[7\]
 
 ### 軟件
 
-這款手機搭載了[Android 8.0
-Oreo作業系統](../Page/Android_Oreo.md "wikilink")，可更新至Android
-8.1；\[8\]而中国版和国际版的Nokia 7 Plus目前已可升级至[Android 9
-Pie操作系统](../Page/Android_Pie.md "wikilink")。\[9\]
+這款手機搭載了[Android
+Oreo作業系統](../Page/Android_Oreo.md "wikilink")；\[8\]除了可自Android
+8.0更新至Android 8.1外，還可升级至[Android
+9](https://zh.wikipedia.org/wiki/Android_9 "wikilink")。\[9\]
 
 ## 發售
 
@@ -36,11 +36,11 @@ Plus第二批預售在京東商城和蘇寧易購正式發貨，京東商城3分
 ## 外部連結
 
   - [-{R|Nokia 7 Plus – 一款值得信赖的手机 | Nokia
-    phones}-](https://www.nokia.com/zh_int/phones/nokia-7-plus)
+    phones}-](https://www.nokia.com/phones/zh_int/nokia-7-plus)
   - [-{R|Nokia 7 Plus – 值得信賴的手機 | Nokia
-    phones}-](https://www.nokia.com/zh_tw/phones/nokia-7-plus)
+    phones}-](https://www.nokia.com/phones/zh_tw/nokia-7-plus)
   - [-{R|Nokia 7 Plus – A phone you can rely on | Nokia
-    phones}-](https://www.nokia.com/zh_hk/phones/nokia-7-plus)
+    phones}-](https://www.nokia.com/phones/zh_hk/nokia-7-plus)
 
 [Category:诺基亚手机](https://zh.wikipedia.org/wiki/Category:诺基亚手机 "wikilink")
 [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink")

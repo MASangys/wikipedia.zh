@@ -574,7 +574,8 @@ function p.authorityControlTaxon( frame )
 `               end`
 `           end`
 `           --adjust navbox for number of rows`
-`           navboxParams['title'] = '`[`物種識別信息`](https://zh.wikipedia.org/wiki/維基百科:生物專題 "wikilink")`'`
+`           navboxParams['title'] = '`[`物種識別-{zh-cn:信息;``
+ ``zh-tw:資訊;}-`](https://zh.wikipedia.org/wiki/維基百科:生物專題 "wikilink")`'`
 `           if rowCount > 2 then`
 `               navboxParams['navbar'] = 'plain'`
 `           else`
@@ -582,9 +583,11 @@ function p.authorityControlTaxon( frame )
 `               navboxParams['navbar'] = 'off'`
 `           end`
 `       elseif parentArgs['noTitle'..firstRow] then`
-`           navboxParams['group'..firstRow] = '`[`物種識別信息`](https://zh.wikipedia.org/wiki/維基百科:生物專題 "wikilink")`'`
+`           navboxParams['group'..firstRow] = '`[`物種識別-{zh-cn:信息;``
+ ``zh-tw:資訊;}-`](https://zh.wikipedia.org/wiki/維基百科:生物專題 "wikilink")`'`
 `       else`
-`           navboxParams['group'..firstRow] = '`[`物種識別信息`](https://zh.wikipedia.org/wiki/維基百科:生物專題 "wikilink")
+`           navboxParams['group'..firstRow] = '`[`物種識別-{zh-cn:信息;``
+ ``zh-tw:資訊;}-`](https://zh.wikipedia.org/wiki/維基百科:生物專題 "wikilink")
 `' .. navboxParams['group'..firstRow]`
 `       end`
 `       `

@@ -16,9 +16,9 @@ Matos）情绪激昂，极力鼓吹Bitconnect以及自己的投资经历。尤�
 
 ## 法律问题
 
-2018年1月16日，Bitconnect宣布将关闭旗下交易所，并暂停贷款业务。其收到了来自[德克萨斯州和](../Page/德克萨斯州.md "wikilink")[北卡罗来纳州监管机构的关停命令](../Page/北卡罗来纳州.md "wikilink")。\[14\]\[15\]\[16\]\[17\]
+2018年1月16日，Bitconnect宣布将关闭旗下交易所，并暂停贷款业务。其收到了来自[德克萨斯州和](../Page/德克萨斯州.md "wikilink")[北卡罗来纳州监管机构的关停命令](../Page/北卡罗来纳州.md "wikilink")。\[14\]\[15\]\[16\]\[17\]\[18\]
 
-2018年1月31日，[肯塔基西区地方法院授予临时限制令冻结Bitconnect资产](https://zh.wikipedia.org/wiki/肯塔基 "wikilink")，并调查[虚拟货币钱包和交易账户地址](https://zh.wikipedia.org/wiki/錢包_\(加密貨幣\) "wikilink")，以及90天内的资金去向。\[18\]
+2018年1月31日，[肯塔基西区地方法院授予临时限制令冻结Bitconnect资产](https://zh.wikipedia.org/wiki/肯塔基 "wikilink")，并调查[虚拟货币钱包和交易账户地址](https://zh.wikipedia.org/wiki/錢包_\(加密貨幣\) "wikilink")，以及90天内的资金去向。\[19\]
 
 ## 参考资料
 
@@ -51,3 +51,4 @@ Matos）情绪激昂，极力鼓吹Bitconnect以及自己的投资经历。尤�
 16.
 17.
 18.
+19.

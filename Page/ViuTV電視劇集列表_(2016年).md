@@ -369,7 +369,7 @@ Amour et Pâtisserie</p></td>
 <td style="text-align: center;"><p><a href="../Page/夜行書生.md" title="wikilink">夜行書生</a><br />
 Scholar Who Walks the Night</p></td>
 <td style="text-align: center;"><p>17</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李準基" title="wikilink">李準基</a>、<a href="../Page/沈昌珉.md" title="wikilink">沈昌珉</a>、<a href="../Page/李洙赫.md" title="wikilink">李洙赫</a>、<a href="../Page/李侑菲.md" title="wikilink">李侑菲</a>、<a href="https://zh.wikipedia.org/wiki/金昭誾" title="wikilink">金昭誾</a>、<a href="../Page/張熙軫.md" title="wikilink">張熙軫</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/李準基.md" title="wikilink">李準基</a>、<a href="../Page/沈昌珉.md" title="wikilink">沈昌珉</a>、<a href="../Page/李洙赫.md" title="wikilink">李洙赫</a>、<a href="../Page/李侑菲.md" title="wikilink">李侑菲</a>、<a href="https://zh.wikipedia.org/wiki/金昭誾" title="wikilink">金昭誾</a>、<a href="../Page/張熙軫.md" title="wikilink">張熙軫</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
@@ -1305,7 +1305,7 @@ One Night Memory</p></td>
 <td style="text-align: center;"><p><a href="../Page/朝鮮槍手.md" title="wikilink">朝鮮射手</a><br />
 Gunman in Joseon</p></td>
 <td style="text-align: center;"><p>22</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李準基" title="wikilink">李準基</a>、<a href="../Page/南相美.md" title="wikilink">南相美</a>、<a href="../Page/全慧彬.md" title="wikilink">全慧彬</a>、<a href="../Page/韓周完.md" title="wikilink">韓周完</a>、<a href="../Page/劉五性.md" title="wikilink">劉五性</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/李準基.md" title="wikilink">李準基</a>、<a href="../Page/南相美.md" title="wikilink">南相美</a>、<a href="../Page/全慧彬.md" title="wikilink">全慧彬</a>、<a href="../Page/韓周完.md" title="wikilink">韓周完</a>、<a href="../Page/劉五性.md" title="wikilink">劉五性</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>

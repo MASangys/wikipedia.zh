@@ -150,7 +150,7 @@
 </tr>
 <tr class="even">
 <td><p>2019</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/寂靜殺機_(2019年)" title="wikilink">寂靜殺機</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/寂靜殺機_(2019年電影)" title="wikilink">寂靜殺機</a></p></td>
 <td></td>
 </tr>
 </tbody>

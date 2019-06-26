@@ -580,6 +580,12 @@ Music等应用程式達到介面統一的訴求](../Page/Apple_Music.md "wikilin
 <td><p>2019年5月29日</p></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>Developer beta 4</p></td>
+<td><p>16G5046d</p></td>
+<td><p>2019年6月11日</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

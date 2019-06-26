@@ -18,13 +18,13 @@
 <thead>
 <tr class="header">
 <th><p>時間</p></th>
-<th><p>星期一<small>（10日）</small></p></th>
-<th><p>星期二<small>（04日）</small></p></th>
-<th><p>星期三<small>（05日）</small></p></th>
-<th><p>星期四<small>（06日）</small></p></th>
-<th><p>星期五<small>（07日）</small></p></th>
-<th><p>星期六<small>（08日）</small></p></th>
-<th><p>星期日<small>（09日）</small></p></th>
+<th><p>星期一<small>（24日）</small></p></th>
+<th><p>星期二<small>（25日）</small></p></th>
+<th><p>星期三<small>（26日）</small></p></th>
+<th><p>星期四<small>（27日）</small></p></th>
+<th><p>星期五<small>（28日）</small></p></th>
+<th><p>星期六<small>（22日）</small></p></th>
+<th><p>星期日<small>（23日）</small></p></th>
 </tr>
 </thead>
 <tbody>
@@ -50,9 +50,9 @@
 </tr>
 <tr class="odd">
 <td><p>20:00</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/扶搖" title="wikilink">扶搖</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/中醫「症」解" title="wikilink">中醫「症」解</a></p></td>
-<td></td>
+<td><p><a href="../Page/Legal_V～前律師·小鳥遊翔子～.md" title="wikilink">Legal V～前律師·小鳥遊翔子～</a></p></td>
+<td><p><a href="../Page/中醫「症」解.md" title="wikilink">中醫「症」解</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/有個保險_Friend" title="wikilink">有個保險 Friend</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -61,9 +61,9 @@
 <tr class="even">
 <td><p>20:30</p></td>
 <td><p><a href="../Page/我身後的陶斯.md" title="wikilink">我身後的陶斯</a></p></td>
-<td><p>周六好戲勢: </p></td>
+<td><p><a href="../Page/愛上變身情人_(電視劇).md" title="wikilink">變身有情人</a></p></td>
+<td><p>周六好戲勢: <a href="https://zh.wikipedia.org/wiki/天亮之前" title="wikilink">天亮之前</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/恐怖醫學" title="wikilink">恐怖醫學</a></p></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -71,7 +71,7 @@
 <tr class="odd">
 <td><p>21:30</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/教束" title="wikilink">教束</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/婚內情" title="wikilink">婚內情</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -81,8 +81,8 @@
 <tr class="even">
 <td><p>22:00</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/退休女皇" title="wikilink">退休女皇</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/詭探前傳" title="wikilink">詭探前傳</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/婚內情" title="wikilink">婚內情</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/週日慶功宴" title="wikilink">週日慶功宴</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -91,7 +91,7 @@
 <tr class="odd">
 <td><p>22:30</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/愛我嗎?_愛你媽!" title="wikilink">愛我嗎? 愛你媽!</a></p></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mirror_Go" title="wikilink">Mirror Go</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -99,16 +99,26 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>23:00</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/玩_X_爆二世古" title="wikilink">玩 X 爆二世古</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/林盧去追星" title="wikilink">林盧去追星</a></p></td>
+<td><p>22:45</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/阿美利堅有外星人2" title="wikilink">阿美利堅有外星人2</a></p></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>23:00</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/厲害了！蘇哥兒" title="wikilink">厲害了！蘇哥兒</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/眾神的大陸" title="wikilink">眾神的大陸</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>23:30</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/啪啪_Partner" title="wikilink">啪啪 Partner</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/罪光燈" title="wikilink">罪光燈</a></p></td>
@@ -118,11 +128,21 @@
 <td><p><a href="../Page/鬼燈的冷徹.md" title="wikilink">鬼燈的冷徹2</a></p></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>23:45</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE_(動畫)" title="wikilink">海賊王</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 <tr class="even">
 <td><p>00:00</p></td>
 <td><p><a href="../Page/Regalia_三聖星.md" title="wikilink">雷加利亞三聖星</a><sup>R</sup></p></td>
+<td><p><sup>R</sup></p></td>
 <td><p><a href="../Page/齊木楠雄的災難_(動畫).md" title="wikilink">齊木楠雄的災難</a><sup>R</sup></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE_(動畫)" title="wikilink">海賊王</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -151,34 +171,20 @@
 <td><p><strong>實況娛樂</strong></p></td>
 <td><p><strong>逢星期一至五</strong></p></td>
 <td><p>22:30 - 23:00</p></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/愛我嗎?_愛你媽!" title="wikilink">愛我嗎? 愛你媽!</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>23:00 - 23:30</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/林盧去追星" title="wikilink">林盧去追星</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/厲害了！蘇哥兒" title="wikilink">厲害了！蘇哥兒</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>逢星期六</p></td>
-<td><p>11:00 - 12:00</p></td>
-<td></td>
-<td><p>重播外購節目</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>13:30 - 14:30</p></td>
-<td></td>
-<td><p>重播節目</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p>23:00 - 00:00</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/阿美利堅有外星人2" title="wikilink">阿美利堅有外星人2</a></p></td>
-<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -190,22 +196,8 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>01:30 - 02:30</p></td>
-<td></td>
-<td><p>重播外購節目</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>13:30 - 14:00</p></td>
 <td></td>
-<td><p>重播節目</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>14:00 - 14:30</p></td>
-<td><p><a href="../Page/約咗傅家俊.md" title="wikilink">約咗傅家俊</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -219,7 +211,7 @@
 </tr>
 <tr class="even">
 <td><p>20:00 - 20:30</p></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/有個保險_Friend" title="wikilink">有個保險 Friend</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -233,7 +225,7 @@
 </tr>
 <tr class="even">
 <td><p>23:00 - 23:30</p></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/眾神的大陸" title="wikilink">眾神的大陸</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -279,8 +271,23 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p>&lt;!--逢星期六</p></td>
+<td><p>--&gt;14:00 - 15:00</p></td>
+<td><p><a href="../Page/SUPER_TV.md" title="wikilink">Super TV</a> 第一季</p></td>
+<td><p>外購節目<br />
+每集播放兩次</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>逢星期日</p></td>
-<td><p>08:30 - 09:00</p></td>
+<td><p>01:30 - 02:30</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>&lt;!--rowspan="3"|逢星期日</p></td>
+<td><p>--&gt;08:30 - 09:00</p></td>
 <td></td>
 <td><p>重播節目</p></td>
 <td></td>
@@ -315,55 +322,62 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>逢星期一</p></td>
+<td><p>01:30 - 02:30</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/輝哥的饌賞" title="wikilink">輝哥的饌賞</a></p></td>
+<td><p>重播節目</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>娛樂新聞</p></td>
 <td><p>逢星期一至五</p></td>
 <td><p>19:30 - 20:00</p></td>
 <td></td>
 <td><p>每集播放兩次</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>逢星期二至五及下星期一</p></td>
 <td><p>10:00 - 10:30</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>逢星期日</p></td>
 <td><p>02:30 - 03:30</p></td>
 <td></td>
 <td><p>重播節目</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>娛樂訪談節目</p></td>
 <td><p>逢星期日</p></td>
 <td><p>22:00 - 22:30</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/週日慶功宴" title="wikilink">週日慶功宴</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>娛樂名人專訪</p></td>
 <td><p>逢星期一、三、五</p></td>
 <td><p>「」時段內播出</p></td>
 <td><p><a href="../Page/Interviu.md" title="wikilink">Interviu</a></p></td>
 <td><p>部分集數於其他時段重播</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>潮流資訊節目</p></td>
 <td><p>逢星期二、四</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>逢星期一</p></td>
 <td><p>01:05 - 01:30</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>清談節目時段</strong></p></td>
 <td><p><strong>逢星期一至五</strong></p></td>
 <td><p>23:30 - 00:00</p></td>
@@ -375,18 +389,33 @@
 <td><p><a href="../Page/晚吹.md" title="wikilink">晚吹系列</a><br />
 星期一至四集數於深夜時段重播</p></td>
 </tr>
+<tr class="even">
+<td><p>14:45 - 15:00</p></td>
+<td></td>
+<td><p>重播節目<br />
+每集播放兩次</p></td>
+<td></td>
+<td></td>
+</tr>
 <tr class="odd">
+<td><p>逢星期二至六</p></td>
+<td><p>05:45 - 06:00</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>飲食節目</p></td>
 <td><p>逢星期六</p></td>
-<td><p>14:30 - 15:30</p></td>
+<td><p>11:00 - 12:00</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/料理美食王" title="wikilink">料理美食王</a></p></td>
 <td><p>外購節目</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>健康資訊節目</p></td>
 <td><p>逢星期六</p></td>
 <td><p>20:00 - 20:30</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/中醫「症」解" title="wikilink">中醫「症」解</a></p></td>
+<td><p><a href="../Page/中醫「症」解.md" title="wikilink">中醫「症」解</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -407,8 +436,8 @@
 <td><p><strong>首播外購劇集</strong></p></td>
 <td><p><strong>逢星期一至五</strong></p></td>
 <td><p>20:00 - 20:30</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/扶搖" title="wikilink">扶搖</a></p></td>
-<td><p>中國劇集<br />
+<td><p><a href="../Page/Legal_V～前律師·小鳥遊翔子～.md" title="wikilink">Legal V～前律師·小鳥遊翔子～</a></p></td>
+<td><p>日本劇集<br />
 每集播放三次</p></td>
 </tr>
 <tr class="odd">
@@ -442,42 +471,63 @@
 </tr>
 <tr class="odd">
 <td><p><strong>首播自製劇集</strong></p></td>
-<td><p><strong>逢星期一至五</strong></p></td>
-<td><p>21:30 - 22:00</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/婚內情" title="wikilink">婚內情</a></p></td>
-<td></td>
+<td><p>&lt;!--<strong>逢星期一至五</strong></p></td>
+<td><p>20:00 - 20:30</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/娛樂風雲" title="wikilink">娛樂風雲</a></p></td>
+<td><p>每集播放三次</p></td>
 </tr>
 <tr class="even">
-<td><p>22:00 - 22:30</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/詭探前傳" title="wikilink">詭探前傳</a></p></td>
+<td><p>逢星期二至六</p></td>
+<td><p>04:00 - 04:30</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>逢星期二至五及下星期一</p></td>
+<td><p>10:30 - 11:00</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>--&gt;rowspan="2"|<strong>逢星期一至五</strong></p></td>
+<td><p>21:30 - 22:00</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/教束" title="wikilink">教束</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>22:00 - 22:30</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/退休女皇" title="wikilink">退休女皇</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>非黃金時段劇集</p></td>
 <td><p>逢星期一至五</p></td>
-<td><p>13:30 - 15:00</p></td>
+<td><p>13:30 - 14:45</p></td>
 <td><p><a href="../Page/悄悄話_(電視劇).md" title="wikilink">悄悄話</a></p></td>
 <td><p><strong>熱捧劇站</strong><br />
 重播韓國劇集<br />
 每集播放兩次</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>逢星期二至六</p></td>
-<td><p>04:30 - 06:00</p></td>
+<td><p>04:30 - 05:45</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>逢星期二至五</p></td>
 <td><p>00:30 - 01:30</p></td>
 <td><p><a href="../Page/W－兩個世界.md" title="wikilink">W－兩個世界</a></p></td>
 <td><p>重播韓國劇集</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>逢星期日</p></td>
 <td><p>12:30 - 13:30</p></td>
 <td></td>
@@ -511,7 +561,7 @@
 <td><p>16:30 - 17:00</p></td>
 <td><p>星期一至三：<a href="../Page/遊戲王VRAINS.md" title="wikilink">遊戲王VRAINS</a><br />
 星期四至五：<br />
-星期六：<br />
+星期六：<a href="https://zh.wikipedia.org/wiki/超級飛俠" title="wikilink">超級飛俠</a>3<br />
 星期日：<a href="../Page/魔物獵人物語.md" title="wikilink">魔物獵人物語 RIDE ON</a></p></td>
 <td><p>日本動畫<br />
 韓國動畫<br />
@@ -521,28 +571,18 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>逢星期一至三</p></td>
-<td><p>17:00 - 17:15</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/The_Polos_探險隊" title="wikilink">The Polos 探險隊</a></p></td>
-<td><p>加拿大動畫</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>17:15 - 17:30</p></td>
-<td><p>3</p></td>
-<td><p>英國動畫</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>逢星期四至日</p></td>
 <td><p>17:00 - 17:30</p></td>
-<td><p>星期四至五：<a href="../Page/龍族拼圖X.md" title="wikilink">龍族拼圖X</a><br />
+<td><p>星期一：<br />
+星期二至三：<br />
+星期四至五：<a href="../Page/龍族拼圖X.md" title="wikilink">龍族拼圖X</a><br />
 星期六：<a href="../Page/飛天小女警_(2016年動畫).md" title="wikilink">飛天小女警 2</a><br />
 星期日：<a href="https://zh.wikipedia.org/wiki/熊熊遇見你" title="wikilink">熊熊遇見你</a>2</p></td>
-<td><p>日本動畫<br />
+<td><p>韓國動畫<br />
+韓國動畫<br />
+日本動畫<br />
 美國動畫<br />
 美國動畫</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -657,22 +697,28 @@
 <tr class="odd">
 <td><p>逢星期日</p></td>
 <td><p>11:30 - 12:00</p></td>
-<td><p>北海道耆聞</p></td>
+<td></td>
 <td><p>重播外購節目</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>文化藝術節目</p></td>
 <td><p>逢星期日</p></td>
+<td><p>14:00 - 14:30</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>15:00 - 15:30</p></td>
 <td></td>
 <td><p>外購節目</p></td>
+<td></td>
+<td></td>
 </tr>
-<tr class="odd">
-<td><p>逢星期六至日</p></td>
-<td><p>15:30 - 16:00</p></td>
-<td><p>星期六：<br />
-星期日：<a href="https://zh.wikipedia.org/wiki/活匠當下" title="wikilink">活匠當下 2</a></p></td>
+<tr class="even">
+<td><p>&lt;!--逢星期六至日</p></td>
+<td><p>--&gt;15:30 - 16:00</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/活匠當下_2" title="wikilink">活匠當下 2</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -731,7 +777,7 @@
 <td><p>香港電台節目</p></td>
 <td><p>逢星期一至五</p></td>
 <td><p>18:30 - 19:00</p></td>
-<td><p>星期一至四：<a href="../Page/香港故事.md" title="wikilink">香港故事</a> - 尋優探品<br />
+<td><p>星期一至四：<a href="https://zh.wikipedia.org/wiki/大叔又如何" title="wikilink">大叔又如何</a><br />
 星期五：<a href="../Page/警訊.md" title="wikilink">警訊</a></p></td>
 <td><p>除《警訊》以外其他節目曾於<a href="../Page/港台電視31、31A.md" title="wikilink">港台電視31、31A播出</a></p></td>
 </tr>
@@ -1031,7 +1077,7 @@ Run, Papa, Run!</p></td>
 </tr>
 <tr class="even">
 <td><p>2019年6月22日</p></td>
-<td><p>20:30-23:00</p></td>
+<td><p>20:30-22:45</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/天亮之前" title="wikilink">天亮之前</a><br />
 One Night Only</p></td>
 <td><p><a href="../Page/郭富城.md" title="wikilink">郭富城</a>、<a href="https://zh.wikipedia.org/wiki/楊子姗" title="wikilink">楊子姗</a>、<a href="../Page/郝蕾.md" title="wikilink">郝　蕾</a>、-{<a href="https://zh.wikipedia.org/wiki/安志杰" title="wikilink">安志杰</a>}-</p></td>
@@ -1040,15 +1086,33 @@ One Night Only</p></td>
 </tr>
 <tr class="odd">
 <td><p>2019年6月29日</p></td>
+<td><p>20:30-23:00</p></td>
+<td style="text-align: center;"><p><a href="../Page/春嬌與志明.md" title="wikilink">春嬌與志明</a><br />
+Love in the Buff</p></td>
+<td><p><a href="../Page/楊千嬅.md" title="wikilink">楊千嬅</a>、<a href="../Page/余文樂.md" title="wikilink">余文樂</a></p></td>
+<td><p>2012年</p></td>
+<td><p>周六好戲勢系列</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年7月6日</p></td>
+<td><p>20:30-22:45</p></td>
+<td style="text-align: center;"><p><a href="../Page/辣警霸王花.md" title="wikilink">辣警霸王花</a><br />
+Special Female Force</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/岑麗香" title="wikilink">岑麗香</a>、<a href="../Page/鄭欣宜.md" title="wikilink">鄭欣宜</a>、<a href="../Page/何佩瑜.md" title="wikilink">何佩瑜</a>、<a href="../Page/崔碧珈.md" title="wikilink">崔碧珈</a></p></td>
+<td><p>2016年</p></td>
+<td><p>周六好戲勢系列</p></td>
+</tr>
+<tr class="odd">
+<td><p>2019年7月13日</p></td>
 <td><p>20:30-22:30</p></td>
 <td style="text-align: center;"><p><a href="../Page/前度.md" title="wikilink">前度</a><br />
 Ex</p></td>
 <td><p><a href="../Page/鍾欣潼.md" title="wikilink">鍾欣潼</a>、<a href="../Page/陳偉霆.md" title="wikilink">陳偉霆</a>、<a href="https://zh.wikipedia.org/wiki/衞詩雅" title="wikilink">衞詩雅</a>、<a href="https://zh.wikipedia.org/wiki/杜汶澤" title="wikilink">杜汶澤</a>、<a href="https://zh.wikipedia.org/wiki/林二汶" title="wikilink">林二汶</a>、<a href="../Page/恬妞.md" title="wikilink">恬　妞</a></p></td>
 <td><p>2010年</p></td>
-<td><p>周六好戲勢系列 &lt;!--</p></td>
+<td><p>周六好戲勢系列</p></td>
 </tr>
 <tr class="even">
-<td><p>未定</p></td>
+<td><p>2019年7月20日</p></td>
 <td><p>20:30-22:30</p></td>
 <td style="text-align: center;"><p><a href="../Page/神鎗手_(香港電影).md" title="wikilink">神鎗手</a><br />
 The Sniper</p></td>
@@ -1057,7 +1121,7 @@ The Sniper</p></td>
 <td><p>周六好戲勢系列</p></td>
 </tr>
 <tr class="odd">
-<td><p>未定</p></td>
+<td><p>2019年7月27日</p></td>
 <td><p>20:30-22:30</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/導火新聞線_(電影)" title="wikilink">導火新聞線</a><br />
 The Menu</p></td>
@@ -1066,21 +1130,57 @@ The Menu</p></td>
 <td><p>周六好戲勢系列</p></td>
 </tr>
 <tr class="even">
+<td><p>2019年8月3日</p></td>
+<td><p>20:30-22:30</p></td>
+<td style="text-align: center;"><p><a href="../Page/車手_(電影).md" title="wikilink">車手</a><br />
+Motorway</p></td>
+<td><p><a href="../Page/黃秋生.md" title="wikilink">黃秋生</a>、<a href="../Page/余文樂.md" title="wikilink">余文樂</a>、<a href="https://zh.wikipedia.org/wiki/郭曉冬" title="wikilink">郭曉冬</a></p></td>
+<td><p>2012年</p></td>
+<td><p>周六好戲勢系列</p></td>
+</tr>
+<tr class="odd">
+<td><p>2019年8月10日</p></td>
+<td><p>20:30-22:30</p></td>
+<td style="text-align: center;"><p><a href="../Page/破風_(電影).md" title="wikilink">破風</a><br />
+To The Fore</p></td>
+<td><p><a href="../Page/彭于晏.md" title="wikilink">彭于晏</a>、<a href="../Page/崔始源.md" title="wikilink">崔始源</a>、<a href="../Page/竇驍.md" title="wikilink">竇　驍</a>、<a href="../Page/王珞丹.md" title="wikilink">王珞丹</a></p></td>
+<td><p>2015年</p></td>
+<td><p>普通話對白</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年8月17日</p></td>
+<td><p>20:30-22:30</p></td>
+<td style="text-align: center;"><p><a href="../Page/放·逐.md" title="wikilink">放·逐</a><br />
+Exiled</p></td>
+<td><p><a href="../Page/黃秋生.md" title="wikilink">黃秋生</a>、<a href="../Page/吳鎮宇.md" title="wikilink">吳鎮宇</a>、<a href="../Page/任達華.md" title="wikilink">任達華</a>、<a href="../Page/張家輝.md" title="wikilink">張家輝</a>、<a href="../Page/張耀揚.md" title="wikilink">張耀揚</a></p></td>
+<td><p>2006年</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年8月24日</p></td>
+<td><p>20:30-22:30</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/單身男女" title="wikilink">單身男女</a><br />
+Don't Go Breaking My Heart</p></td>
+<td><p><a href="../Page/古天樂.md" title="wikilink">古天樂</a>、<a href="https://zh.wikipedia.org/wiki/高圓圓" title="wikilink">高圓圓</a>、<a href="../Page/吳彥祖.md" title="wikilink">吳彥祖</a></p></td>
+<td><p>2011年</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年8月31日</p></td>
+<td><p>20:30-22:30</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/單身男女2" title="wikilink">單身男女2</a><br />
+Don't Go Breaking My Heart 2</p></td>
+<td><p><a href="../Page/古天樂.md" title="wikilink">古天樂</a>、<a href="../Page/楊千嬅.md" title="wikilink">楊千嬅</a>、<a href="https://zh.wikipedia.org/wiki/高圓圓" title="wikilink">高圓圓</a>、<a href="https://zh.wikipedia.org/wiki/周渝民" title="wikilink">周渝民</a>、<a href="../Page/吳彥祖.md" title="wikilink">吳彥祖</a></p></td>
+<td><p>2014年</p></td>
+<td><p>&lt;!--</p></td>
+</tr>
+<tr class="odd">
 <td><p>未定</p></td>
 <td><p>20:30-23:15</p></td>
 <td style="text-align: center;"><p><a href="../Page/戲王之王_(2007年電影).md" title="wikilink">戲王之王</a><br />
 Simply Actors</p></td>
 <td><p><a href="../Page/蔡卓妍.md" title="wikilink">蔡卓妍</a>、<a href="../Page/詹瑞文.md" title="wikilink">詹瑞文</a>、<a href="../Page/葉璇.md" title="wikilink">葉　璇</a>、<a href="../Page/陳司翰.md" title="wikilink">陳司翰</a></p></td>
 <td><p>2007年</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>未定</p></td>
-<td></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/單身男女" title="wikilink">單身男女</a><br />
-Don't Go Breaking My Heart</p></td>
-<td><p><a href="../Page/古天樂.md" title="wikilink">古天樂</a>、<a href="https://zh.wikipedia.org/wiki/高圓圓" title="wikilink">高圓圓</a>、<a href="../Page/吳彥祖.md" title="wikilink">吳彥祖</a></p></td>
-<td><p>2011年</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1090,15 +1190,6 @@ Don't Go Breaking My Heart</p></td>
 If You Are the One</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/葛優" title="wikilink">葛　優</a>、<a href="../Page/舒淇.md" title="wikilink">舒　淇</a>、<a href="../Page/方中信.md" title="wikilink">方中信</a>、<a href="https://zh.wikipedia.org/wiki/馮遠征" title="wikilink">馮遠征</a>、<a href="../Page/胡可.md" title="wikilink">胡　可</a>、<a href="../Page/徐若瑄.md" title="wikilink">徐若瑄</a>、<a href="https://zh.wikipedia.org/wiki/范偉" title="wikilink">范　偉</a></p></td>
 <td><p>2008年</p></td>
-<td><p>普通話對白</p></td>
-</tr>
-<tr class="odd">
-<td><p>未定</p></td>
-<td></td>
-<td style="text-align: center;"><p><a href="../Page/破風_(電影).md" title="wikilink">破風</a><br />
-To The Fore</p></td>
-<td><p><a href="../Page/彭于晏.md" title="wikilink">彭于晏</a>、<a href="../Page/崔始源.md" title="wikilink">崔始源</a>、<a href="../Page/竇驍.md" title="wikilink">竇　驍</a>、<a href="../Page/王珞丹.md" title="wikilink">王珞丹</a></p></td>
-<td><p>2015年</p></td>
 <td><p>普通話對白 --&gt;</p></td>
 </tr>
 </tbody>
@@ -2274,7 +2365,7 @@ The 38th Hong Kong Film Awards Presentation Ceremony</p></td>
 ViuTV現場主持：</p></td>
 <td></td>
 <td><p><strong>現場直播</strong><br />
-網上直播設有手語傳譯</p></td>
+網上直播設有手語傳譯／7月1日13:00-16:00重播</p></td>
 </tr>
 <tr class="even">
 <td><p>4月15日</p></td>
@@ -3010,19 +3101,20 @@ Hong Kong Asian Pop Music Festival 2019</p></td>
 </tr>
 <tr class="odd">
 <td><p>6月15日</p></td>
-<td><p>23:00-01:00</p></td>
-<td><p>國際音樂</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/5G_科技演唱會" title="wikilink">5G 科技演唱會</a><br />
-</p></td>
-<td><p>演出：</p></td>
+<td><p>23:00-00:15</p></td>
+<td><p>本地音樂</p></td>
+<td><p><a href="../Page/香港電訊.md" title="wikilink">HKT 5G 科技演唱會</a><br />
+HKT 5G Concert</p></td>
+<td><p>主持：<br />
+演出：<a href="../Page/謝安琪.md" title="wikilink">謝安琪</a>、<a href="../Page/張繼聰.md" title="wikilink">張繼聰</a>、<a href="https://zh.wikipedia.org/wiki/MIRROR" title="wikilink">MIRROR</a>、<a href="../Page/梁釗峰.md" title="wikilink">梁釗峰</a>、<a href="../Page/吳崇銘.md" title="wikilink">DJ King</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>6月30日</p></td>
-<td><p>23:30-01:00</p></td>
+<td><p>23:30-01:45</p></td>
 <td><p>本地音樂</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/ToNick_Live_For_More_Concert" title="wikilink">ToNick Live For More Concert</a><br />
+<td><p><a href="../Page/ToNick.md" title="wikilink">ToNick Live For More Concert</a><br />
 ToNick Live For More Concert</p></td>
 <td><p>演出：<a href="../Page/ToNick.md" title="wikilink">ToNick</a></p></td>
 <td></td>
@@ -3452,39 +3544,39 @@ Running The North Pole Marathon</p></td>
 
   - 賽季期間提供每月一場西甲直播；由2019年開始改為賽季期間提供每月兩場西甲／英超直播（部份賽事可能安排於[ViuTVsix直播](../Page/ViuTVsix.md "wikilink")）。
 
-|                                                                         |             |                                                                                                                          |                                                                                                                     |                                                                                   |
-| ----------------------------------------------------------------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| 賽季                                                                      | 播放日         | 時間                                                                                                                       | 播放賽事                                                                                                                | 備註                                                                                |
-| [2015-16年](https://zh.wikipedia.org/wiki/2015–16賽季西班牙足球甲級聯賽 "wikilink") | 2016年4月23日  | 00:00-02:00                                                                                                              | [馬德里體育會](https://zh.wikipedia.org/wiki/馬德里體育會 "wikilink") 對 [馬拉加](https://zh.wikipedia.org/wiki/馬拉加足球會 "wikilink")  | 與[Now Sports 2同步播出](https://zh.wikipedia.org/wiki/Now_Sports_2 "wikilink")        |
-| 2016年5月14日                                                              | 23:00-01:00 | [巴塞隆拿](https://zh.wikipedia.org/wiki/巴塞隆拿足球會 "wikilink") 對 [CF格蘭納達](https://zh.wikipedia.org/wiki/CF格蘭納達 "wikilink")     |                                                                                                                     |                                                                                   |
-| [2016-17年](https://zh.wikipedia.org/wiki/2016–17賽季西班牙足球甲級聯賽 "wikilink") | 2016年8月21日  | 00:00-02:15                                                                                                              | [巴塞隆拿](https://zh.wikipedia.org/wiki/巴塞隆拿足球會 "wikilink") 對 [貝迪斯](https://zh.wikipedia.org/wiki/皇家貝迪斯 "wikilink")    |                                                                                   |
-| 2016年9月11日                                                              | 00:15-02:15 | [馬拉加](https://zh.wikipedia.org/wiki/馬拉加足球會 "wikilink") 對 [維拉利爾](https://zh.wikipedia.org/wiki/維拉利爾足球會 "wikilink")        |                                                                                                                     |                                                                                   |
-| 2016年10月23日                                                             | 00:15-02:30 | [皇家蘇斯達](../Page/皇家蘇斯達.md "wikilink") 對 [艾拉維斯](https://zh.wikipedia.org/wiki/艾拉維斯體育會 "wikilink")                          |                                                                                                                     |                                                                                   |
-| 2016年11月7日                                                              | 01:30-03:30 | [維拉利爾](https://zh.wikipedia.org/wiki/維拉利爾足球會 "wikilink") 對 [貝迪斯](https://zh.wikipedia.org/wiki/皇家貝迪斯 "wikilink")         |                                                                                                                     |                                                                                   |
-| 2016年12月4日                                                              | 01:15-03:30 | [利根尼斯](../Page/雷加利斯體育會.md "wikilink") 對 [維拉利爾](https://zh.wikipedia.org/wiki/維拉利爾足球會 "wikilink")                         |                                                                                                                     |                                                                                   |
-| 2017年1月15日                                                              | 01:15-03:30 | [馬德里體育會](https://zh.wikipedia.org/wiki/馬德里體育會 "wikilink") 對 [貝迪斯](https://zh.wikipedia.org/wiki/皇家貝迪斯 "wikilink")        |                                                                                                                     |                                                                                   |
-| 2017年2月13日                                                              | 01:15-03:30 | [拉斯帕馬斯](https://zh.wikipedia.org/wiki/拉斯帕爾馬斯體育聯盟 "wikilink") 對 [西維爾](https://zh.wikipedia.org/wiki/西維爾足球會 "wikilink")    |                                                                                                                     |                                                                                   |
-| 2017年3月19日                                                              | 01:15-03:30 | [艾拉維斯](https://zh.wikipedia.org/wiki/艾拉維斯體育會 "wikilink") 對 [皇家蘇斯達](../Page/皇家蘇斯達.md "wikilink")                          |                                                                                                                     |                                                                                   |
-| 2017年4月30日                                                              | 00:30-02:30 | [拉斯帕馬斯](https://zh.wikipedia.org/wiki/拉斯帕爾馬斯體育聯盟 "wikilink") 對 [馬德里體育會](https://zh.wikipedia.org/wiki/馬德里體育會 "wikilink") |                                                                                                                     |                                                                                   |
-| 2017年5月22日                                                              | 02:00-04:15 | [馬拉加](https://zh.wikipedia.org/wiki/馬拉加足球會 "wikilink") 對 [皇家馬德里](https://zh.wikipedia.org/wiki/皇家馬德里 "wikilink")         |                                                                                                                     |                                                                                   |
-| [2017-18年](https://zh.wikipedia.org/wiki/2017–18賽季西班牙足球甲級聯賽 "wikilink") | 2018年4月14日  | 22:00-00:15                                                                                                              | [巴塞隆拿](https://zh.wikipedia.org/wiki/巴塞隆拿足球會 "wikilink") 對 [華倫西亞](https://zh.wikipedia.org/wiki/華倫西亞足球會 "wikilink") |                                                                                   |
-| [2018-19年](https://zh.wikipedia.org/wiki/2018–19賽季西班牙足球甲級聯賽 "wikilink") | 2019年1月19日  | 23:10-01:15                                                                                                              | [皇家馬德里](https://zh.wikipedia.org/wiki/皇家馬德里 "wikilink") 對 [西維爾](https://zh.wikipedia.org/wiki/西維爾足球會 "wikilink")    | 與[beIN - Now Sports 2同步播出](https://zh.wikipedia.org/wiki/Now_Sports_2 "wikilink") |
-| 2019年1月28日                                                              | 01:25-03:30 | [畢爾包](https://zh.wikipedia.org/wiki/畢爾包體育會 "wikilink") 對 [貝迪斯](https://zh.wikipedia.org/wiki/皇家貝迪斯 "wikilink")           |                                                                                                                     |                                                                                   |
-| 2019年2月18日                                                              | 01:25-03:30 | [維拉利爾](https://zh.wikipedia.org/wiki/維拉利爾足球會 "wikilink") 對 [西維爾](https://zh.wikipedia.org/wiki/西維爾足球會 "wikilink")        |                                                                                                                     |                                                                                   |
-| 2019年3月17日                                                              | 23:10-01:15 | [愛斯賓奴](../Page/皇家西班牙人體育俱樂部.md "wikilink") 對 [西維爾](https://zh.wikipedia.org/wiki/西維爾足球會 "wikilink")                       |                                                                                                                     |                                                                                   |
-| 2019年4月21日                                                              | 19:55-22:00 | [基達菲](https://zh.wikipedia.org/wiki/基達菲足球會 "wikilink") 對 [西維爾](https://zh.wikipedia.org/wiki/西維爾足球會 "wikilink")          |                                                                                                                     |                                                                                   |
-| 2019年5月5日                                                               | 17:55-20:00 | [基達菲](https://zh.wikipedia.org/wiki/基達菲足球會 "wikilink") 對 [基朗拿](https://zh.wikipedia.org/wiki/基羅納足球會 "wikilink")          |                                                                                                                     |                                                                                   |
-| 2019年5月19日                                                              | 02:40-04:45 | [切爾達](https://zh.wikipedia.org/wiki/切爾達 "wikilink") 對 [華歷簡奴](https://zh.wikipedia.org/wiki/華歷簡奴 "wikilink")              | 與[Now Sports 3同步播出](https://zh.wikipedia.org/wiki/Now_Sports_3 "wikilink")                                          |                                                                                   |
+|                                                                         |                                                                                                                       |                                                                                                                          |                                                                                                                     |                                                                                   |
+| ----------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| 賽季                                                                      | 播放日                                                                                                                   | 時間                                                                                                                       | 播放賽事                                                                                                                | 備註                                                                                |
+| [2015-16年](https://zh.wikipedia.org/wiki/2015–16賽季西班牙足球甲級聯賽 "wikilink") | 2016年4月23日                                                                                                            | 00:00-02:00                                                                                                              | [馬德里體育會](https://zh.wikipedia.org/wiki/馬德里體育會 "wikilink") 對 [馬拉加](https://zh.wikipedia.org/wiki/馬拉加足球會 "wikilink")  | 與[Now Sports 2同步播出](https://zh.wikipedia.org/wiki/Now_Sports_2 "wikilink")        |
+| 2016年5月14日                                                              | 23:00-01:00                                                                                                           | [巴塞隆拿](https://zh.wikipedia.org/wiki/巴塞隆拿足球會 "wikilink") 對 [CF格蘭納達](https://zh.wikipedia.org/wiki/CF格蘭納達 "wikilink")     |                                                                                                                     |                                                                                   |
+| [2016-17年](https://zh.wikipedia.org/wiki/2016–17賽季西班牙足球甲級聯賽 "wikilink") | 2016年8月21日                                                                                                            | 00:00-02:15                                                                                                              | [巴塞隆拿](https://zh.wikipedia.org/wiki/巴塞隆拿足球會 "wikilink") 對 [貝迪斯](https://zh.wikipedia.org/wiki/皇家貝迪斯 "wikilink")    |                                                                                   |
+| 2016年9月11日                                                              | 00:15-02:15                                                                                                           | [馬拉加](https://zh.wikipedia.org/wiki/馬拉加足球會 "wikilink") 對 [維拉利爾](https://zh.wikipedia.org/wiki/維拉利爾足球會 "wikilink")        |                                                                                                                     |                                                                                   |
+| 2016年10月23日                                                             | 00:15-02:30                                                                                                           | [皇家蘇斯達](../Page/皇家蘇斯達.md "wikilink") 對 [艾拉維斯](https://zh.wikipedia.org/wiki/艾拉維斯體育會 "wikilink")                          |                                                                                                                     |                                                                                   |
+| 2016年11月7日                                                              | 01:30-03:30                                                                                                           | [維拉利爾](https://zh.wikipedia.org/wiki/維拉利爾足球會 "wikilink") 對 [貝迪斯](https://zh.wikipedia.org/wiki/皇家貝迪斯 "wikilink")         |                                                                                                                     |                                                                                   |
+| 2016年12月4日                                                              | [利根尼斯](../Page/雷加利斯體育會.md "wikilink") 對 [維拉利爾](https://zh.wikipedia.org/wiki/維拉利爾足球會 "wikilink")                      |                                                                                                                          |                                                                                                                     |                                                                                   |
+| 2017年1月15日                                                              | [馬德里體育會](https://zh.wikipedia.org/wiki/馬德里體育會 "wikilink") 對 [貝迪斯](https://zh.wikipedia.org/wiki/皇家貝迪斯 "wikilink")     |                                                                                                                          |                                                                                                                     |                                                                                   |
+| 2017年2月13日                                                              | [拉斯帕馬斯](https://zh.wikipedia.org/wiki/拉斯帕爾馬斯體育聯盟 "wikilink") 對 [西維爾](https://zh.wikipedia.org/wiki/西維爾足球會 "wikilink") |                                                                                                                          |                                                                                                                     |                                                                                   |
+| 2017年3月19日                                                              | [艾拉維斯](https://zh.wikipedia.org/wiki/艾拉維斯體育會 "wikilink") 對 [皇家蘇斯達](../Page/皇家蘇斯達.md "wikilink")                       |                                                                                                                          |                                                                                                                     |                                                                                   |
+| 2017年4月30日                                                              | 00:30-02:30                                                                                                           | [拉斯帕馬斯](https://zh.wikipedia.org/wiki/拉斯帕爾馬斯體育聯盟 "wikilink") 對 [馬德里體育會](https://zh.wikipedia.org/wiki/馬德里體育會 "wikilink") |                                                                                                                     |                                                                                   |
+| 2017年5月22日                                                              | 02:00-04:15                                                                                                           | [馬拉加](https://zh.wikipedia.org/wiki/馬拉加足球會 "wikilink") 對 [皇家馬德里](https://zh.wikipedia.org/wiki/皇家馬德里 "wikilink")         |                                                                                                                     |                                                                                   |
+| [2017-18年](https://zh.wikipedia.org/wiki/2017–18賽季西班牙足球甲級聯賽 "wikilink") | 2018年4月14日                                                                                                            | 22:00-00:15                                                                                                              | [巴塞隆拿](https://zh.wikipedia.org/wiki/巴塞隆拿足球會 "wikilink") 對 [華倫西亞](https://zh.wikipedia.org/wiki/華倫西亞足球會 "wikilink") |                                                                                   |
+| [2018-19年](https://zh.wikipedia.org/wiki/2018–19賽季西班牙足球甲級聯賽 "wikilink") | 2019年1月19日                                                                                                            | 23:10-01:15                                                                                                              | [皇家馬德里](https://zh.wikipedia.org/wiki/皇家馬德里 "wikilink") 對 [西維爾](https://zh.wikipedia.org/wiki/西維爾足球會 "wikilink")    | 與[beIN - Now Sports 2同步播出](https://zh.wikipedia.org/wiki/Now_Sports_2 "wikilink") |
+| 2019年1月28日                                                              | 01:25-03:30                                                                                                           | [畢爾包](https://zh.wikipedia.org/wiki/畢爾包體育會 "wikilink") 對 [貝迪斯](https://zh.wikipedia.org/wiki/皇家貝迪斯 "wikilink")           |                                                                                                                     |                                                                                   |
+| 2019年2月18日                                                              | [維拉利爾](https://zh.wikipedia.org/wiki/維拉利爾足球會 "wikilink") 對 [西維爾](https://zh.wikipedia.org/wiki/西維爾足球會 "wikilink")     |                                                                                                                          |                                                                                                                     |                                                                                   |
+| 2019年3月17日                                                              | 23:10-01:15                                                                                                           | [愛斯賓奴](../Page/皇家西班牙人體育俱樂部.md "wikilink") 對 [西維爾](https://zh.wikipedia.org/wiki/西維爾足球會 "wikilink")                       |                                                                                                                     |                                                                                   |
+| 2019年4月21日                                                              | 19:55-22:00                                                                                                           | [基達菲](https://zh.wikipedia.org/wiki/基達菲足球會 "wikilink") 對 [西維爾](https://zh.wikipedia.org/wiki/西維爾足球會 "wikilink")          |                                                                                                                     |                                                                                   |
+| 2019年5月5日                                                               | 17:55-20:00                                                                                                           | [基達菲](https://zh.wikipedia.org/wiki/基達菲足球會 "wikilink") 對 [基朗拿](https://zh.wikipedia.org/wiki/基羅納足球會 "wikilink")          |                                                                                                                     |                                                                                   |
+| 2019年5月19日                                                              | 02:40-04:45                                                                                                           | [切爾達](https://zh.wikipedia.org/wiki/切爾達 "wikilink") 對 [華歷簡奴](https://zh.wikipedia.org/wiki/華歷簡奴 "wikilink")              | 與[Now Sports 3同步播出](https://zh.wikipedia.org/wiki/Now_Sports_3 "wikilink")                                          |                                                                                   |
 
 ### [英格蘭超級聯賽](https://zh.wikipedia.org/wiki/英格蘭足球超級聯賽 "wikilink")
 
-|                                                        |             |                                                                                                                   |                                                                                                              |                                                                     |
-| ------------------------------------------------------ | ----------- | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------- |
-| 賽季                                                     | 播放日         | 時間                                                                                                                | 播放賽事                                                                                                         | 備註                                                                  |
-| [2018-19年](../Page/2018年至2019年英格蘭足球超級聯賽.md "wikilink") | 2019年2月23日  | 22:50-01:00                                                                                                       | [般尼茅夫](https://zh.wikipedia.org/wiki/般尼茅夫足球會 "wikilink") 對 [狼隊](https://zh.wikipedia.org/wiki/狼隊 "wikilink") | 與[Now英超2台同步播出](https://zh.wikipedia.org/wiki/Now_Sports "wikilink") |
-| 2019年3月30日                                             | 22:50-01:00 | [白禮頓](https://zh.wikipedia.org/wiki/布萊頓足球俱樂部 "wikilink") 對 [修咸頓](https://zh.wikipedia.org/wiki/修咸頓足球會 "wikilink") | 與[Now英超4台同步播出](https://zh.wikipedia.org/wiki/Now_Sports "wikilink")                                          |                                                                     |
-| 2019年4月27日                                             | 21:50-00:00 | [屈福特](https://zh.wikipedia.org/wiki/屈福特 "wikilink") 對 [狼隊](https://zh.wikipedia.org/wiki/狼隊 "wikilink")           |                                                                                                              |                                                                     |
-|                                                        |             |                                                                                                                   |                                                                                                              |                                                                     |
+|                                                        |                                                                                                                   |                                                                                                         |                                                                                                              |                                                                     |
+| ------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------- |
+| 賽季                                                     | 播放日                                                                                                               | 時間                                                                                                      | 播放賽事                                                                                                         | 備註                                                                  |
+| [2018-19年](../Page/2018年至2019年英格蘭足球超級聯賽.md "wikilink") | 2019年2月23日                                                                                                        | 22:50-01:00                                                                                             | [般尼茅夫](https://zh.wikipedia.org/wiki/般尼茅夫足球會 "wikilink") 對 [狼隊](https://zh.wikipedia.org/wiki/狼隊 "wikilink") | 與[Now英超2台同步播出](https://zh.wikipedia.org/wiki/Now_Sports "wikilink") |
+| 2019年3月30日                                             | [白禮頓](https://zh.wikipedia.org/wiki/布萊頓足球俱樂部 "wikilink") 對 [修咸頓](https://zh.wikipedia.org/wiki/修咸頓足球會 "wikilink") | 與[Now英超4台同步播出](https://zh.wikipedia.org/wiki/Now_Sports "wikilink")                                     |                                                                                                              |                                                                     |
+| 2019年4月27日                                             | 21:50-00:00                                                                                                       | [屈福特](https://zh.wikipedia.org/wiki/屈福特 "wikilink") 對 [狼隊](https://zh.wikipedia.org/wiki/狼隊 "wikilink") |                                                                                                              |                                                                     |
+|                                                        |                                                                                                                   |                                                                                                         |                                                                                                              |                                                                     |
 
 ### [英格蘭足總盃](../Page/英格蘭足總盃.md "wikilink")
 
@@ -3655,7 +3747,7 @@ ViuTV開始播出時已進入補時階段。</small></p></td>
 </tr>
 <tr class="odd">
 <td><p>19:15-22:15</p></td>
-<td><p>分組賽：<a href="https://zh.wikipedia.org/wiki/巴西國家足球隊" title="wikilink">巴西</a> 對 <a href="../Page/哥斯達黎加國家足球隊.md" title="wikilink">哥斯達黎加</a></p></td>
+<td><p>分組賽：<a href="../Page/巴西國家足球隊.md" title="wikilink">巴西</a> 對 <a href="../Page/哥斯達黎加國家足球隊.md" title="wikilink">哥斯達黎加</a></p></td>
 <td><p>與<a href="https://zh.wikipedia.org/wiki/Now寬頻電視體育平台" title="wikilink">Now 616及</a><a href="https://zh.wikipedia.org/wiki/Now寬頻電視體育平台" title="wikilink">Now 618同步播出</a></p></td>
 <td></td>
 <td></td>
@@ -3794,47 +3886,47 @@ ViuTV開始播出時已進入補時階段。</small></p></td>
 
   - 賽季期間提供每周一場NBA常規賽直播，季後賽及總決賽都會直播，而總決賽更會直播所有賽事。
 
-|                                                                    |             |                                                                                                                               |                                                                                                    |             |
-| ------------------------------------------------------------------ | ----------- | ----------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ----------- |
-| 賽季                                                                 | 播放日         | 時間                                                                                                                            | 播放賽事                                                                                               | 備註          |
-| [2018-19年](https://zh.wikipedia.org/wiki/2018-19_NBA賽季 "wikilink") | 2018年11月3日  | 10:30-13:00                                                                                                                   | 常規賽：[明尼蘇達木狼](https://zh.wikipedia.org/wiki/明尼蘇達木狼 "wikilink") 對 [金州勇士](../Page/金州勇士.md "wikilink") |             |
-| 2018年11月11日                                                        | 09:30-12:00 | 常規賽：[侯斯頓火箭](https://zh.wikipedia.org/wiki/侯斯頓火箭 "wikilink") 對 [聖安東尼奧馬刺](https://zh.wikipedia.org/wiki/聖安東尼奧馬刺 "wikilink")     |                                                                                                    |             |
-| 2018年11月18日                                                        | 08:30-11:00 | 常規賽：[猶他爵士](https://zh.wikipedia.org/wiki/猶他爵士 "wikilink") 對 [波士頓塞爾特人](https://zh.wikipedia.org/wiki/波士頓塞爾特人 "wikilink")       |                                                                                                    |             |
-| 2018年11月24日                                                        | 11:30-14:00 | 常規賽：[猶他爵士](https://zh.wikipedia.org/wiki/猶他爵士 "wikilink") 對 [洛杉磯湖人](https://zh.wikipedia.org/wiki/洛杉磯湖人 "wikilink")           |                                                                                                    |             |
-| 2018年12月1日                                                         | 11:30-14:00 | 常規賽：[丹佛金塊](https://zh.wikipedia.org/wiki/丹佛金塊 "wikilink") 對 [波特蘭拓荒者](https://zh.wikipedia.org/wiki/波特蘭拓荒者 "wikilink")         |                                                                                                    |             |
-| 2018年12月8日                                                         | 10:30-13:00 | 常規賽：[金州勇士](../Page/金州勇士.md "wikilink") 對 [密爾沃基公鹿](https://zh.wikipedia.org/wiki/密爾沃基公鹿 "wikilink")                            |                                                                                                    |             |
-| 2018年12月15日                                                        | 11:00-13:30 | 常規賽：[奧克拉荷馬雷霆](https://zh.wikipedia.org/wiki/奧克拉荷馬雷霆 "wikilink") 對 [丹佛金塊](https://zh.wikipedia.org/wiki/丹佛金塊 "wikilink")       |                                                                                                    |             |
-| 2018年12月23日                                                        | 09:00-11:30 | 常規賽：[密爾沃基公鹿](https://zh.wikipedia.org/wiki/密爾沃基公鹿 "wikilink") 對 [邁阿密熱火](https://zh.wikipedia.org/wiki/邁阿密熱火 "wikilink")       |                                                                                                    |             |
-| 2018年12月26日                                                        | 09:00-11:30 | 常規賽：[洛杉磯湖人](https://zh.wikipedia.org/wiki/洛杉磯湖人 "wikilink") 對 [金州勇士](../Page/金州勇士.md "wikilink")                              |                                                                                                    |             |
-| 2018年12月29日                                                        | 11:30-14:00 | 常規賽：[洛杉磯快艇](https://zh.wikipedia.org/wiki/洛杉磯快艇 "wikilink") 對 [洛杉磯湖人](https://zh.wikipedia.org/wiki/洛杉磯湖人 "wikilink")         |                                                                                                    |             |
-| 2019年1月6日                                                          | 09:30-12:00 | 常規賽：[多倫多速龍](https://zh.wikipedia.org/wiki/多倫多速龍 "wikilink") 對 [密爾沃基公鹿](https://zh.wikipedia.org/wiki/密爾沃基公鹿 "wikilink")       |                                                                                                    |             |
-| 2019年1月13日                                                         | 09:00-11:30 | 常規賽：[聖安東尼奧馬刺](https://zh.wikipedia.org/wiki/聖安東尼奧馬刺 "wikilink") 對 [奧克拉荷馬雷霆](https://zh.wikipedia.org/wiki/奧克拉荷馬雷霆 "wikilink") |                                                                                                    |             |
-| 2019年1月20日                                                         | 09:30-12:00 | 常規賽：[洛杉磯湖人](https://zh.wikipedia.org/wiki/洛杉磯湖人 "wikilink") 對 [侯斯頓火箭](https://zh.wikipedia.org/wiki/侯斯頓火箭 "wikilink")         |                                                                                                    |             |
-| 2019年1月27日                                                         | 09:30-12:00 | 常規賽：[金州勇士](../Page/金州勇士.md "wikilink") 對 [波士頓塞爾特人](https://zh.wikipedia.org/wiki/波士頓塞爾特人 "wikilink")                          |                                                                                                    |             |
-| 2019年2月2日                                                          | 11:00-13:30 | 常規賽：[侯斯頓火箭](https://zh.wikipedia.org/wiki/侯斯頓火箭 "wikilink") 對 [丹佛金塊](https://zh.wikipedia.org/wiki/丹佛金塊 "wikilink")           |                                                                                                    |             |
-| 2019年2月10日                                                         | 09:30-12:00 | 常規賽：[奧克拉荷馬雷霆](https://zh.wikipedia.org/wiki/奧克拉荷馬雷霆 "wikilink") 對 [侯斯頓火箭](https://zh.wikipedia.org/wiki/侯斯頓火箭 "wikilink")     |                                                                                                    |             |
-| 2019年2月23日                                                         | 10:30-13:45 | 常規賽：[猶他爵士](https://zh.wikipedia.org/wiki/猶他爵士 "wikilink") 對 [奧克拉荷馬雷霆](https://zh.wikipedia.org/wiki/奧克拉荷馬雷霆 "wikilink")       |                                                                                                    |             |
-| 2019年2月24日                                                         | 09:30-12:00 | 常規賽：[侯斯頓火箭](https://zh.wikipedia.org/wiki/侯斯頓火箭 "wikilink") 對 [金州勇士](../Page/金州勇士.md "wikilink")                              |                                                                                                    |             |
-| 2019年3月2日                                                          | 11:30-14:00 | 常規賽：[密爾沃基公鹿](https://zh.wikipedia.org/wiki/密爾沃基公鹿 "wikilink") 對 [洛杉磯湖人](https://zh.wikipedia.org/wiki/洛杉磯湖人 "wikilink")       |                                                                                                    |             |
-| 2019年3月3日                                                          | 09:30-12:00 | 常規賽：[金州勇士](../Page/金州勇士.md "wikilink") 對 [費城七六人](https://zh.wikipedia.org/wiki/費城七六人 "wikilink")                              |                                                                                                    |             |
-| 2019年3月9日                                                          | 11:30-14:00 | 常規賽：[丹佛金塊](https://zh.wikipedia.org/wiki/丹佛金塊 "wikilink") 對 [金州勇士](../Page/金州勇士.md "wikilink")                                |                                                                                                    |             |
-| 2019年3月17日                                                         | 08:30-11:00 | 常規賽：[金州勇士](../Page/金州勇士.md "wikilink") 對 [奧克拉荷馬雷霆](https://zh.wikipedia.org/wiki/奧克拉荷馬雷霆 "wikilink")                          |                                                                                                    |             |
-| 2019年3月24日                                                         | 08:30-11:00 | 常規賽：[達拉斯獨行俠](../Page/達拉斯獨行俠.md "wikilink") 對 [金州勇士](../Page/金州勇士.md "wikilink")                                               |                                                                                                    |             |
-| 2019年3月30日                                                         | 10:30-13:00 | 常規賽：[夏洛特黃蜂](../Page/夏洛特黃蜂.md "wikilink") 對 [洛杉磯湖人](https://zh.wikipedia.org/wiki/洛杉磯湖人 "wikilink")                            |                                                                                                    |             |
-| 2019年4月6日                                                          | 10:30-13:00 | 常規賽：[波特蘭拓荒者](https://zh.wikipedia.org/wiki/波特蘭拓荒者 "wikilink") 對 [丹佛金塊](https://zh.wikipedia.org/wiki/丹佛金塊 "wikilink")         |                                                                                                    |             |
-| 2019年4月14日                                                         | 08:00-11:00 | 季後賽：[洛杉磯快艇](https://zh.wikipedia.org/wiki/洛杉磯快艇 "wikilink") 對 [金州勇士](../Page/金州勇士.md "wikilink")                              |                                                                                                    |             |
-| 2019年4月20日                                                         | 08:30-11:00 | 季後賽：[波士頓塞爾特人](https://zh.wikipedia.org/wiki/波士頓塞爾特人 "wikilink") 對 [印第安納溜馬](https://zh.wikipedia.org/wiki/印第安納溜馬 "wikilink")   |                                                                                                    |             |
-| 2019年4月28日                                                         | 10:00-12:25 | 季後賽：[聖安東尼奧馬刺](https://zh.wikipedia.org/wiki/聖安東尼奧馬刺 "wikilink") 對 [丹佛金塊](https://zh.wikipedia.org/wiki/丹佛金塊 "wikilink")       |                                                                                                    |             |
-| 2019年5月4日                                                          | 08:00-10:30 | 季後賽：[密爾沃基公鹿](https://zh.wikipedia.org/wiki/密爾沃基公鹿 "wikilink") 對 [波士頓塞爾特人](https://zh.wikipedia.org/wiki/波士頓塞爾特人 "wikilink")   |                                                                                                    |             |
-| 2019年5月11日                                                         | 09:00-11:30 | 季後賽：[金州勇士](../Page/金州勇士.md "wikilink") 對 [侯斯頓火箭](https://zh.wikipedia.org/wiki/侯斯頓火箭 "wikilink")                              |                                                                                                    |             |
-| 2019年5月18日                                                         | 08:30-11:00 | 季後賽：[多倫多速龍](https://zh.wikipedia.org/wiki/多倫多速龍 "wikilink") 對 [密爾沃基公鹿](https://zh.wikipedia.org/wiki/密爾沃基公鹿 "wikilink")       |                                                                                                    |             |
-| 2019年5月26日                                                         | 08:30-11:15 | 季後賽：[密爾沃基公鹿](https://zh.wikipedia.org/wiki/密爾沃基公鹿 "wikilink") 對 [多倫多速龍](https://zh.wikipedia.org/wiki/多倫多速龍 "wikilink")       |                                                                                                    |             |
-| 2019年5月31日                                                         | 09:00-11:30 | 總決賽：[金州勇士](../Page/金州勇士.md "wikilink") 對 [多倫多速龍](https://zh.wikipedia.org/wiki/多倫多速龍 "wikilink")                              |                                                                                                    |             |
-| 2019年6月3日                                                          | 08:00-10:45 | 總決賽：[金州勇士](../Page/金州勇士.md "wikilink") 對 [多倫多速龍](https://zh.wikipedia.org/wiki/多倫多速龍 "wikilink")                              |                                                                                                    |             |
-| 2019年6月6日                                                          | 09:00-11:30 | 總決賽：[多倫多速龍](https://zh.wikipedia.org/wiki/多倫多速龍 "wikilink") 對 [金州勇士](../Page/金州勇士.md "wikilink")                              |                                                                                                    |             |
-| 2019年6月8日                                                          | 09:00-11:30 | 總決賽：[多倫多速龍](https://zh.wikipedia.org/wiki/多倫多速龍 "wikilink") 對 [金州勇士](../Page/金州勇士.md "wikilink")                              |                                                                                                    |             |
-| 2019年6月11日                                                         | 09:00-11:30 | 總決賽：[金州勇士](../Page/金州勇士.md "wikilink") 對 [多倫多速龍](https://zh.wikipedia.org/wiki/多倫多速龍 "wikilink") \<\!-- |-                    | 2019年6月14日                                                                                         | 09:00-11:30 |
-| 2019年6月17日                                                         | 08:00-10:30 | 總決賽：[金州勇士](../Page/金州勇士.md "wikilink") 對 [多倫多速龍](https://zh.wikipedia.org/wiki/多倫多速龍 "wikilink") --\>                         |                                                                                                    |             |
+|                                                                    |                                                                                                                             |                                                                                                                               |                                                                                                    |    |
+| ------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | -- |
+| 賽季                                                                 | 播放日                                                                                                                         | 時間                                                                                                                            | 播放賽事                                                                                               | 備註 |
+| [2018-19年](https://zh.wikipedia.org/wiki/2018-19_NBA賽季 "wikilink") | 2018年11月3日                                                                                                                  | 10:30-13:00                                                                                                                   | 常規賽：[明尼蘇達木狼](https://zh.wikipedia.org/wiki/明尼蘇達木狼 "wikilink") 對 [金州勇士](../Page/金州勇士.md "wikilink") |    |
+| 2018年11月11日                                                        | 09:30-12:00                                                                                                                 | 常規賽：[侯斯頓火箭](https://zh.wikipedia.org/wiki/侯斯頓火箭 "wikilink") 對 [聖安東尼奧馬刺](https://zh.wikipedia.org/wiki/聖安東尼奧馬刺 "wikilink")     |                                                                                                    |    |
+| 2018年11月18日                                                        | 08:30-11:00                                                                                                                 | 常規賽：[猶他爵士](https://zh.wikipedia.org/wiki/猶他爵士 "wikilink") 對 [波士頓塞爾特人](https://zh.wikipedia.org/wiki/波士頓塞爾特人 "wikilink")       |                                                                                                    |    |
+| 2018年11月24日                                                        | 11:30-14:00                                                                                                                 | 常規賽：[猶他爵士](https://zh.wikipedia.org/wiki/猶他爵士 "wikilink") 對 [洛杉磯湖人](https://zh.wikipedia.org/wiki/洛杉磯湖人 "wikilink")           |                                                                                                    |    |
+| 2018年12月1日                                                         | 常規賽：[丹佛金塊](https://zh.wikipedia.org/wiki/丹佛金塊 "wikilink") 對 [波特蘭拓荒者](https://zh.wikipedia.org/wiki/波特蘭拓荒者 "wikilink")       |                                                                                                                               |                                                                                                    |    |
+| 2018年12月8日                                                         | 10:30-13:00                                                                                                                 | 常規賽：[金州勇士](../Page/金州勇士.md "wikilink") 對 [密爾沃基公鹿](https://zh.wikipedia.org/wiki/密爾沃基公鹿 "wikilink")                            |                                                                                                    |    |
+| 2018年12月15日                                                        | 11:00-13:30                                                                                                                 | 常規賽：[奧克拉荷馬雷霆](https://zh.wikipedia.org/wiki/奧克拉荷馬雷霆 "wikilink") 對 [丹佛金塊](https://zh.wikipedia.org/wiki/丹佛金塊 "wikilink")       |                                                                                                    |    |
+| 2018年12月23日                                                        | 09:00-11:30                                                                                                                 | 常規賽：[密爾沃基公鹿](https://zh.wikipedia.org/wiki/密爾沃基公鹿 "wikilink") 對 [邁阿密熱火](https://zh.wikipedia.org/wiki/邁阿密熱火 "wikilink")       |                                                                                                    |    |
+| 2018年12月26日                                                        | 常規賽：[洛杉磯湖人](https://zh.wikipedia.org/wiki/洛杉磯湖人 "wikilink") 對 [金州勇士](../Page/金州勇士.md "wikilink")                            |                                                                                                                               |                                                                                                    |    |
+| 2018年12月29日                                                        | 11:30-14:00                                                                                                                 | 常規賽：[洛杉磯快艇](https://zh.wikipedia.org/wiki/洛杉磯快艇 "wikilink") 對 [洛杉磯湖人](https://zh.wikipedia.org/wiki/洛杉磯湖人 "wikilink")         |                                                                                                    |    |
+| 2019年1月6日                                                          | 09:30-12:00                                                                                                                 | 常規賽：[多倫多速龍](https://zh.wikipedia.org/wiki/多倫多速龍 "wikilink") 對 [密爾沃基公鹿](https://zh.wikipedia.org/wiki/密爾沃基公鹿 "wikilink")       |                                                                                                    |    |
+| 2019年1月13日                                                         | 09:00-11:30                                                                                                                 | 常規賽：[聖安東尼奧馬刺](https://zh.wikipedia.org/wiki/聖安東尼奧馬刺 "wikilink") 對 [奧克拉荷馬雷霆](https://zh.wikipedia.org/wiki/奧克拉荷馬雷霆 "wikilink") |                                                                                                    |    |
+| 2019年1月20日                                                         | 09:30-12:00                                                                                                                 | 常規賽：[洛杉磯湖人](https://zh.wikipedia.org/wiki/洛杉磯湖人 "wikilink") 對 [侯斯頓火箭](https://zh.wikipedia.org/wiki/侯斯頓火箭 "wikilink")         |                                                                                                    |    |
+| 2019年1月27日                                                         | 常規賽：[金州勇士](../Page/金州勇士.md "wikilink") 對 [波士頓塞爾特人](https://zh.wikipedia.org/wiki/波士頓塞爾特人 "wikilink")                        |                                                                                                                               |                                                                                                    |    |
+| 2019年2月2日                                                          | 11:00-13:30                                                                                                                 | 常規賽：[侯斯頓火箭](https://zh.wikipedia.org/wiki/侯斯頓火箭 "wikilink") 對 [丹佛金塊](https://zh.wikipedia.org/wiki/丹佛金塊 "wikilink")           |                                                                                                    |    |
+| 2019年2月10日                                                         | 09:30-12:00                                                                                                                 | 常規賽：[奧克拉荷馬雷霆](https://zh.wikipedia.org/wiki/奧克拉荷馬雷霆 "wikilink") 對 [侯斯頓火箭](https://zh.wikipedia.org/wiki/侯斯頓火箭 "wikilink")     |                                                                                                    |    |
+| 2019年2月23日                                                         | 10:30-13:45                                                                                                                 | 常規賽：[猶他爵士](https://zh.wikipedia.org/wiki/猶他爵士 "wikilink") 對 [奧克拉荷馬雷霆](https://zh.wikipedia.org/wiki/奧克拉荷馬雷霆 "wikilink")       |                                                                                                    |    |
+| 2019年2月24日                                                         | 09:30-12:00                                                                                                                 | 常規賽：[侯斯頓火箭](https://zh.wikipedia.org/wiki/侯斯頓火箭 "wikilink") 對 [金州勇士](../Page/金州勇士.md "wikilink")                              |                                                                                                    |    |
+| 2019年3月2日                                                          | 11:30-14:00                                                                                                                 | 常規賽：[密爾沃基公鹿](https://zh.wikipedia.org/wiki/密爾沃基公鹿 "wikilink") 對 [洛杉磯湖人](https://zh.wikipedia.org/wiki/洛杉磯湖人 "wikilink")       |                                                                                                    |    |
+| 2019年3月3日                                                          | 09:30-12:00                                                                                                                 | 常規賽：[金州勇士](../Page/金州勇士.md "wikilink") 對 [費城七六人](https://zh.wikipedia.org/wiki/費城七六人 "wikilink")                              |                                                                                                    |    |
+| 2019年3月9日                                                          | 11:30-14:00                                                                                                                 | 常規賽：[丹佛金塊](https://zh.wikipedia.org/wiki/丹佛金塊 "wikilink") 對 [金州勇士](../Page/金州勇士.md "wikilink")                                |                                                                                                    |    |
+| 2019年3月17日                                                         | 08:30-11:00                                                                                                                 | 常規賽：[金州勇士](../Page/金州勇士.md "wikilink") 對 [奧克拉荷馬雷霆](https://zh.wikipedia.org/wiki/奧克拉荷馬雷霆 "wikilink")                          |                                                                                                    |    |
+| 2019年3月24日                                                         | 常規賽：[達拉斯獨行俠](../Page/達拉斯獨行俠.md "wikilink") 對 [金州勇士](../Page/金州勇士.md "wikilink")                                             |                                                                                                                               |                                                                                                    |    |
+| 2019年3月30日                                                         | 10:30-13:00                                                                                                                 | 常規賽：[夏洛特黃蜂](../Page/夏洛特黃蜂.md "wikilink") 對 [洛杉磯湖人](https://zh.wikipedia.org/wiki/洛杉磯湖人 "wikilink")                            |                                                                                                    |    |
+| 2019年4月6日                                                          | 常規賽：[波特蘭拓荒者](https://zh.wikipedia.org/wiki/波特蘭拓荒者 "wikilink") 對 [丹佛金塊](https://zh.wikipedia.org/wiki/丹佛金塊 "wikilink")       |                                                                                                                               |                                                                                                    |    |
+| 2019年4月14日                                                         | 08:00-11:00                                                                                                                 | 季後賽：[洛杉磯快艇](https://zh.wikipedia.org/wiki/洛杉磯快艇 "wikilink") 對 [金州勇士](../Page/金州勇士.md "wikilink")                              |                                                                                                    |    |
+| 2019年4月20日                                                         | 季後賽：[波士頓塞爾特人](https://zh.wikipedia.org/wiki/波士頓塞爾特人 "wikilink") 對 [印第安納溜馬](https://zh.wikipedia.org/wiki/印第安納溜馬 "wikilink") |                                                                                                                               |                                                                                                    |    |
+| 2019年4月28日                                                         | 10:00-12:25                                                                                                                 | 季後賽：[聖安東尼奧馬刺](https://zh.wikipedia.org/wiki/聖安東尼奧馬刺 "wikilink") 對 [丹佛金塊](https://zh.wikipedia.org/wiki/丹佛金塊 "wikilink")       |                                                                                                    |    |
+| 2019年5月4日                                                          | 08:00-10:30                                                                                                                 | 季後賽：[密爾沃基公鹿](https://zh.wikipedia.org/wiki/密爾沃基公鹿 "wikilink") 對 [波士頓塞爾特人](https://zh.wikipedia.org/wiki/波士頓塞爾特人 "wikilink")   |                                                                                                    |    |
+| 2019年5月11日                                                         | 09:00-11:30                                                                                                                 | 季後賽：[金州勇士](../Page/金州勇士.md "wikilink") 對 [侯斯頓火箭](https://zh.wikipedia.org/wiki/侯斯頓火箭 "wikilink")                              |                                                                                                    |    |
+| 2019年5月18日                                                         | 08:30-11:00                                                                                                                 | 季後賽：[多倫多速龍](https://zh.wikipedia.org/wiki/多倫多速龍 "wikilink") 對 [密爾沃基公鹿](https://zh.wikipedia.org/wiki/密爾沃基公鹿 "wikilink")       |                                                                                                    |    |
+| 2019年5月26日                                                         | 08:30-11:15                                                                                                                 | 季後賽：[密爾沃基公鹿](https://zh.wikipedia.org/wiki/密爾沃基公鹿 "wikilink") 對 [多倫多速龍](https://zh.wikipedia.org/wiki/多倫多速龍 "wikilink")       |                                                                                                    |    |
+| 2019年5月31日                                                         | 09:00-11:30                                                                                                                 | 總決賽：[金州勇士](../Page/金州勇士.md "wikilink") 對 [多倫多速龍](https://zh.wikipedia.org/wiki/多倫多速龍 "wikilink")                              |                                                                                                    |    |
+| 2019年6月3日                                                          | 08:00-10:45                                                                                                                 |                                                                                                                               |                                                                                                    |    |
+| 2019年6月6日                                                          | 09:00-11:40                                                                                                                 | 總決賽：[多倫多速龍](https://zh.wikipedia.org/wiki/多倫多速龍 "wikilink") 對 [金州勇士](../Page/金州勇士.md "wikilink")                              |                                                                                                    |    |
+| 2019年6月8日                                                          |                                                                                                                             |                                                                                                                               |                                                                                                    |    |
+| 2019年6月11日                                                         | 09:00-11:30                                                                                                                 | 總決賽：[金州勇士](../Page/金州勇士.md "wikilink") 對 [多倫多速龍](https://zh.wikipedia.org/wiki/多倫多速龍 "wikilink")                              |                                                                                                    |    |
+| 2019年6月14日                                                         | 09:00-12:10                                                                                                                 | 總決賽：[多倫多速龍](https://zh.wikipedia.org/wiki/多倫多速龍 "wikilink") 對 [金州勇士](../Page/金州勇士.md "wikilink")                              |                                                                                                    |    |
 
 ### 其他
 
@@ -3846,7 +3938,7 @@ ViuTV開始播出時已進入補時階段。</small></p></td>
 | 2016年4月10日    | 18:30-20:00                                                                                                                                  |                                                                                                                                                                                         |                                                                                                                                                               |                                                                                                                                                          |
 | 足球            | 2016年6月4日                                                                                                                                    | 09:00-09:20                                                                                                                                                                             | [美洲盃2016](https://zh.wikipedia.org/wiki/2016年美洲國家盃 "wikilink")：開幕典禮                                                                                           | 與[Now 650同步播出](https://zh.wikipedia.org/wiki/Now寬頻電視體育平台 "wikilink")                                                                                     |
 | 09:20-11:30   | [美洲盃2016](https://zh.wikipedia.org/wiki/2016年美洲國家盃 "wikilink")：[美國](../Page/美國國家足球隊.md "wikilink") 對 [哥倫比亞](../Page/哥倫比亞國家足球隊.md "wikilink") |                                                                                                                                                                                         |                                                                                                                                                               |                                                                                                                                                          |
-| 2016年6月5日     | 09:45-11:30                                                                                                                                  | [美洲盃2016](https://zh.wikipedia.org/wiki/2016年美洲國家盃 "wikilink")：[巴西](https://zh.wikipedia.org/wiki/巴西國家足球隊 "wikilink") 對 [厄瓜多爾](../Page/厄瓜多爾國家足球隊.md "wikilink")                         |                                                                                                                                                               |                                                                                                                                                          |
+| 2016年6月5日     | 09:45-11:30                                                                                                                                  | [美洲盃2016](https://zh.wikipedia.org/wiki/2016年美洲國家盃 "wikilink")：[巴西](../Page/巴西國家足球隊.md "wikilink") 對 [厄瓜多爾](../Page/厄瓜多爾國家足球隊.md "wikilink")                                            |                                                                                                                                                               |                                                                                                                                                          |
 | 2016年6月11日    | 02:00-05:15                                                                                                                                  | [歐洲國家盃2016](https://zh.wikipedia.org/wiki/2016年歐洲國家盃 "wikilink")：[法國](https://zh.wikipedia.org/wiki/法國國家足球隊 "wikilink") 對 [羅馬尼亞](../Page/羅馬尼亞國家足球隊.md "wikilink")                       | 與[Now 651同步播出](https://zh.wikipedia.org/wiki/Now寬頻電視體育平台 "wikilink")                                                                                          |                                                                                                                                                          |
 | 2016年6月19日    | 09:45-12:00                                                                                                                                  | [美洲盃2016](https://zh.wikipedia.org/wiki/2016年美洲國家盃 "wikilink") 半準決賽：[墨西哥](../Page/墨西哥國家足球隊.md "wikilink") 對 [智利](../Page/智利國家足球隊.md "wikilink")                                         | 與[Now 650同步播出](https://zh.wikipedia.org/wiki/Now寬頻電視體育平台 "wikilink")                                                                                          |                                                                                                                                                          |
 | 2016年7月8日     | 02:15-05:15                                                                                                                                  | [歐洲國家盃2016準決賽](https://zh.wikipedia.org/wiki/2016年歐洲國家盃 "wikilink")：[德國](../Page/德國國家足球隊.md "wikilink") 對 [法國](https://zh.wikipedia.org/wiki/法國國家足球隊 "wikilink")                        | 與[Now 651同步播出](https://zh.wikipedia.org/wiki/Now寬頻電視體育平台 "wikilink")                                                                                          |                                                                                                                                                          |

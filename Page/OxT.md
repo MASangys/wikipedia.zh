@@ -16,9 +16,11 @@
 
 <!-- end list -->
 
-  - 5月20日更換以「OxT」名義發行第一張單曲「KIMERO\!\!」，為鑽石王牌 第二季第四首片尾曲。
+  - 5月20日更換以「OxT」名義發行第一張單曲「KIMERO\!\!」，為[鑽石王牌
+    第二季第四首片尾曲](../Page/鑽石王牌.md "wikilink")。
   - 8月26日發行第二張單曲「Clattanoia」，為[OVERLORD片頭曲](../Page/OVERLORD_\(小說\).md "wikilink")\[2\]。
-  - 11月23日發行第三張單曲「BLOOM OF YOUTH」，為鑽石王牌 第二季第六首片尾曲。
+  - 11月23日發行第三張單曲「BLOOM OF YOUTH」，為[鑽石王牌
+    第二季第六首片尾曲](../Page/鑽石王牌.md "wikilink")。
 
 <!-- end list -->
 
@@ -62,7 +64,8 @@
 
 <!-- end list -->
 
-  - 4月17日發行第十張單曲「ゴールデンアフタースクール」，為鑽石王牌 第三季片尾曲\[11\]。
+  - 4月17日發行第十張單曲「ゴールデンアフタースクール」，為[鑽石王牌
+    第三季片尾曲](../Page/鑽石王牌.md "wikilink")\[11\]。
 
 ## 成員
 
@@ -173,7 +176,7 @@ ZMCZ-11850（初回限定盤）</p></td>
 <tr class="odd">
 <td><p>9th</p></td>
 <td><p>2018年11月7日</p></td>
-<td><p>UNION</p></td>
+<td></td>
 <td><p>PCCG-70434</p></td>
 <td><p>15[19]位</p></td>
 </tr>
@@ -231,17 +234,17 @@ ZMCZ−12410（初回限定盤）</p></td>
 | '''Go EXCEED            | '''                                                                        | [電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")『[鑽石王牌](../Page/鑽石王牌.md "wikilink")』第一、第二片頭曲 |
 | **Perfect HERO**        | 2014年                                                                      |                                                                                                   |
 | OxT                     |                                                                            |                                                                                                   |
-| '''KIMERO               | '''                                                                        | 電視動畫『鑽石王牌 第二季』第四片尾曲                                                                               |
+| '''KIMERO               | '''                                                                        | 電視動畫『[鑽石王牌 第二季](../Page/鑽石王牌.md "wikilink")』第四片尾曲                                                 |
 | **Clattanoia**          | 電視動畫『[OVERLORD](../Page/OVERLORD_\(小說\).md "wikilink")』片頭曲                 |                                                                                                   |
 | **Grateful Story**      | [舞台劇](https://zh.wikipedia.org/wiki/舞台劇 "wikilink") 鑽石王牌的The LiveⅢ 主題歌     |                                                                                                   |
 | **BLOOM OF YOUTH**      | 電視動畫『鑽石王牌 第二季』第六片尾曲                                                        |                                                                                                   |
 | **STRIDER'S HIGH**      | 電視動畫『[疾走王子](../Page/疾走王子.md "wikilink")』片頭曲                                | 2016年                                                                                             |
 | **One Hand Message**    | 電視動畫『[Hand Shakers](../Page/Hand_Shakers.md "wikilink")』片頭曲                | 2017年                                                                                             |
 | **Laughter Slaughter**  | 『[劇場版總集篇](https://zh.wikipedia.org/wiki/劇場版 "wikilink") OVERLORD 漆黑的英雄』主題曲 |                                                                                                   |
-| **GO CRY GO**           | 電視動畫『OVERLORDⅡ』片頭曲                                                         | 2018年                                                                                             |
-| **Silent Solitude**     | 電視動畫『OVERLORDⅢ』片尾曲                                                         |                                                                                                   |
+| **GO CRY GO**           | 電視動畫『[OVERLORDⅡ](../Page/OVERLORD_\(小說\).md "wikilink")』片頭曲                | 2018年                                                                                             |
+| **Silent Solitude**     | 電視動畫『[OVERLORDⅢ](../Page/OVERLORD_\(小說\).md "wikilink")』片尾曲                |                                                                                                   |
 | **UNION**               | 電視動畫『[SSSS.GRIDMAN](../Page/SSSS.GRIDMAN.md "wikilink")』片頭曲                |                                                                                                   |
-| **ゴールデンアフタースクール**       | 電視動畫『鑽石王牌 第三季』片尾曲                                                          | 2019年                                                                                             |
+| **ゴールデンアフタースクール**       | 電視動畫『[鑽石王牌 第三季](../Page/鑽石王牌.md "wikilink")』片尾曲                            | 2019年                                                                                             |
 
 ## 註解
 

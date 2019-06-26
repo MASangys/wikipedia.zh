@@ -17,7 +17,7 @@ It's You》，結果第一回合被淘汰。
 ### 2015年
 
 她與Loco為電視劇《[看見味道的少女](../Page/看見味道的少女.md "wikilink")》演唱的OST《偶然的春天》備受關注。這首歌曲**連續十周**獲得《[Music
-Bank](https://zh.wikipedia.org/wiki/KBS音樂銀行 "wikilink")》OST榜首位，並在第7屆[甜瓜音樂獎獲得](../Page/甜瓜音樂獎.md "wikilink")**原聲帶獎**。
+Bank](https://zh.wikipedia.org/wiki/KBS音樂銀行 "wikilink")》OST榜首位，並在第7屆[甜瓜音樂獎獲得](../Page/甜瓜音樂獎.md "wikilink")**原聲帶獎**，gaon累計數據超過一億流媒體及250萬下載。
 
 9月5日，GFRIEND在江原道參加公演時因下雨致舞台濕滑而發生多次摔倒，該影片在網路上傳播後點擊觀看超過1000萬次，並得到了世界各地網友稱讚成員敬業。\[2\]\[3\]
 

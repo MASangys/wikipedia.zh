@@ -238,7 +238,7 @@ Forever<br />
 <td><p>挑戰失敗</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/金在奐" title="wikilink">金在奐</a></p></td>
+<td><p><a href="../Page/金在奐.md" title="wikilink">金在奐</a></p></td>
 <td><p>學生</p></td>
 <td><p>美麗的事實<br />
 (  )</p></td>
@@ -407,7 +407,7 @@ Rough ( <a href="../Page/GFRIEND.md" title="wikilink">GFRIEND</a> )</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/金在奐" title="wikilink">金在奐</a></p></td>
+<td><p><a href="../Page/金在奐.md" title="wikilink">金在奐</a></p></td>
 <td><p>學生</p></td>
 <td><p>( 無 )</p></td>
 <td><p>對不起<br />

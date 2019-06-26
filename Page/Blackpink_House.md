@@ -14,7 +14,7 @@ TV》等，這些由YG娛樂旗下藝人出演的真人秀節目也大受歌迷�
 TV》看到她們直率真實的一面，許多歌迷紛紛表示關注。\[3\]
 
 早於2016年，《BLACKPINK TV》已在該年8月25日透過Naver TV首次播放。透過單曲專輯《[Square
-One](../Page/Square_One_\(Black_Pink單曲\).md "wikilink")》雙主打曲〈[口哨](https://zh.wikipedia.org/wiki/口哨_\(BLACKPINK歌曲\) "wikilink")〉、〈[Boombayah](https://zh.wikipedia.org/wiki/Boombayah "wikilink")〉正式出道，為歌謠界帶來新鮮感的BLACKPINK，在出道兩週就獲得了[SBS音樂節目](../Page/SBS_\(韓國\).md "wikilink")《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》的一位，而她們也在出道後短短一個月便拍攝了真人實境秀的綜藝節目《BLACKPINK
+One](../Page/Square_One_\(BLACKPINK單曲\).md "wikilink")》雙主打曲〈[口哨](https://zh.wikipedia.org/wiki/口哨_\(BLACKPINK歌曲\) "wikilink")〉、〈[Boombayah](https://zh.wikipedia.org/wiki/Boombayah "wikilink")〉正式出道，為歌謠界帶來新鮮感的BLACKPINK，在出道兩週就獲得了[SBS音樂節目](../Page/SBS_\(韓國\).md "wikilink")《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》的一位，而她們也在出道後短短一個月便拍攝了真人實境秀的綜藝節目《BLACKPINK
 TV》，首次公開的內容是在8月21日於《人氣歌謠》現場進行錄影的測試版本。後續，YG娛樂表示，BLACKPINK會以《BLACKPINK
 TV》為起點，透過該檔節目公開成員們平常生活中的面貌，以及在舞台之外真實的模樣\[4\]。然而僅短暫播出後便無後續的節目消息，近1年多的停擺，在2017年11月，YG娛樂才再度釋出《BLACKPINK
 TV》的相關訊息。
@@ -56,7 +56,7 @@ Live播出，這對粉絲們來說是禮物，同時指出這也是YG娛樂的�
 
 節目開始時鏡頭帶到Jisoo和Rosé個別為雜誌拍攝，Jisoo一改4.5次元的個性，變回隊中門面的形象拍攝畫報，Rosé則因拍攝的需求穿上高跟鞋，一時之間成為隊中最高的成員（Jisoo、Lisa也有探班）。
 
-12月6日，Jisoo和Jennie向元強熙師傅學習製作100人份的烤雞肉[肉夾饃](https://zh.wikipedia.org/wiki/肉夹馍 "wikilink")，製作方法依照韓國蒸包和呼包改造，而Rosé和Lisa則佈置客飯廳和戶外，但被附近的流浪貓吸引，後來有請花藝師幫忙。後續，BLACKPINK在Instagram透露將舉辦突發游擊性粉絲見面逆應援活動暨喬遷宴，也準備禮物送給100名粉絲，其中4位粉絲可以與各成員合拍[拍立得](../Page/宝丽来.md "wikilink")，但正當出門之際下起大雨，讓BLACKPINK想起夏天的冰淇淋逆應援會和第一次粉絲簽名會都是在雨夜。
+12月6日，Jisoo和Jennie向元強熙師傅學習製作100人份的烤雞肉[肉夾饃](../Page/肉夹馍.md "wikilink")，製作方法依照韓國蒸包和呼包改造，而Rosé和Lisa則佈置客飯廳和戶外，但被附近的流浪貓吸引，後來有請花藝師幫忙。後續，BLACKPINK在Instagram透露將舉辦突發游擊性粉絲見面逆應援活動暨喬遷宴，也準備禮物送給100名粉絲，其中4位粉絲可以與各成員合拍[拍立得](../Page/宝丽来.md "wikilink")，但正當出門之際下起大雨，讓BLACKPINK想起夏天的冰淇淋逆應援會和第一次粉絲簽名會都是在雨夜。
 
 本集後半部則各自為成員準備神秘聖誕禮物，Rose送Jennie公主原子筆、毛皮外套和毛手袋，Jennie反送Lisa公主原子筆、茶包和英式茶壺，Jisoo送Rosé回收的[力娇酒瓶製造的燈飾和橡子狀的陶瓷器皿](https://zh.wikipedia.org/wiki/力娇酒 "wikilink")，Lisa送智秀戒指（Lisa也有同款）和運動連帽衣。本集結尾，讀粉絲E-mail，再送出獎品。
 

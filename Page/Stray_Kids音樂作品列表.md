@@ -125,6 +125,53 @@ MIROH](../Page/Clé_1_:_MIROH.md "wikilink")》，專輯空降韓國Gaon音樂�
 </tbody>
 </table>
 
+### 特別專輯
+
+<table style="width:101%;">
+<colgroup>
+<col style="width: 9%" />
+<col style="width: 10%" />
+<col style="width: 72%" />
+<col style="width: 9%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>專輯名稱</p></th>
+<th><p>專輯資訊</p></th>
+<th><p>排行榜頂峰位置</p></th>
+<th><p>銷量</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/Gaon_Chart" title="wikilink">韓</a><br />
+[1]</p></td>
+<td><p><a href="../Page/法國唱片出版業公會.md" title="wikilink">法</a><br />
+[2]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/公信榜" title="wikilink">日</a><br />
+[3]</p></td>
+<td><p>臺<br />
+[4]</p></td>
+</tr>
+<tr class="even">
+<td><p>《<a href="../Page/Clé_2_:_Yellow_Wood.md" title="wikilink">Clé 2 : Yellow Wood</a>》</p></td>
+<td><ul>
+<li>發行日期: 2019年6月19日</li>
+<li>唱片廠牌：JYP娛樂、<a href="https://zh.wikipedia.org/wiki/iRiver" title="wikilink">Dreamus</a></li>
+<li>唱片格式：CD、下載、串流</li>
+</ul></td>
+<td><p>*</p></td>
+<td><p>*</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ### 主打歌數位單曲
 
 <table>
@@ -142,7 +189,7 @@ MIROH](../Page/Clé_1_:_MIROH.md "wikilink")》，專輯空降韓國Gaon音樂�
 <tbody>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/Gaon_Chart" title="wikilink">韓</a><br />
-[1]</p></td>
+[5]</p></td>
 <td><p><a href="../Page/告示牌榜單.md" title="wikilink">美<br />
 世界</a><br />
 <ref></p>
@@ -194,6 +241,13 @@ MIROH](../Page/Clé_1_:_MIROH.md "wikilink")》，專輯空降韓國Gaon音樂�
 <td><p>—</p></td>
 </tr>
 <tr class="odd">
+<td><p>《부작용》</p></td>
+<td><p>*</p></td>
+<td><p>* </p></td>
+<td><p>*</p></td>
+<td><p>《<a href="../Page/Clé_2_:_Yellow_Wood.md" title="wikilink">Clé 2 : Yellow Wood</a>》</p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -217,3 +271,7 @@ MIROH](../Page/Clé_1_:_MIROH.md "wikilink")》，專輯空降韓國Gaon音樂�
 [Category:韩国音乐作品列表](https://zh.wikipedia.org/wiki/Category:韩国音乐作品列表 "wikilink")
 
 1.
+2.
+3.
+4.   可在頁面下方選單，選取年份及週次瀏覽排行資料。
+5.

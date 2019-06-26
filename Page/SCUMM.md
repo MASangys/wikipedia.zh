@@ -96,7 +96,7 @@ cut-scene {
 2004年一位名叫艾爾班·貝戴爾（Alban
 Bedel）的人士開發出名為「ScummC」之[編譯器](../Page/編譯器.md "wikilink")，該編輯軟體可以用類似[JavaScrips程式語法](https://zh.wikipedia.org/wiki/JavaScrips "wikilink")；來編輯設計出SCUMM架構的遊戲，而ScummC是以對應SCUMM第6版為主。\[7\]其它類似ScummC功能的編輯器工具則有「ScummGEN」。\[8\]
 
-而網路上所流傳俱有[反編譯及編譯SCUMM遊戲功能的軟體則有Scummbler和ScummPacker](https://zh.wikipedia.org/wiki/反編譯器 "wikilink")，這些軟體可將由SCUMM製作遊戲的內容還原成初始[原始碼](https://zh.wikipedia.org/wiki/原始碼 "wikilink")，讓使用者可在原始碼中依自己的喜好添加額外的內容、或是將原內容改翻譯成其它在地語言的版本後，重新編譯成更版的遊戲。\[9\]\[10\]
+而網路上所流傳具有[反編譯及編譯SCUMM遊戲功能的軟體則有Scummbler和ScummPacker](https://zh.wikipedia.org/wiki/反編譯器 "wikilink")，這些軟體可將由SCUMM製作遊戲的內容還原成初始[原始碼](https://zh.wikipedia.org/wiki/原始碼 "wikilink")，讓使用者可在原始碼中依自己的喜好添加額外的內容、或是將原內容改翻譯成其它在地語言的版本後，重新編譯成更版的遊戲。\[9\]\[10\]
 
 其它像名為ScummSpeaks的工具，則可讓使用者自行錄製對白的語音檔案；給添加在遊戲當中。\[11\]
 

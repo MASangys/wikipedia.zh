@@ -41,13 +41,11 @@ Global生產的](../Page/HMD_Global.md "wikilink")[Nokia直立式](https://zh.wi
 ## 外部連結
 
   - [-{R|Nokia 8110 4G – 致敬经典 | Nokia
-    phones}-](https://www.nokia.com/zh_int/phones/nokia-8110-4g)
+    phones}-](https://www.nokia.com/phones/zh_int/nokia-8110-4g)
   - [-{R|Nokia 8110 4G - 新經典 再出發 | Nokia
-    phones}-](https://www.nokia.com/zh_tw/phones/nokia-8110-4g)
+    phones}-](https://www.nokia.com/phones/zh_tw/nokia-8110-4g)
   - [-{R|Nokia 8110 4G – For the originals | Nokia
-    phones}-](https://www.nokia.com/zh_hk/phones/nokia-8110-4g)
-  - [-{R|Nokia 8110 4G – For the originals | Nokia
-    phones}-](https://www.nokia.com/en_int/phones/nokia-8110-4g)
+    phones}-](https://www.nokia.com/phones/zh_hk/nokia-8110-4g)
 
-[Category:諾基亞手機](https://zh.wikipedia.org/wiki/Category:諾基亞手機 "wikilink")
+[Category:诺基亚手机](https://zh.wikipedia.org/wiki/Category:诺基亚手机 "wikilink")
 [Category:HMD_Global](https://zh.wikipedia.org/wiki/Category:HMD_Global "wikilink")

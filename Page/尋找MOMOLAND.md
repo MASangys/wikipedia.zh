@@ -6,7 +6,7 @@ Company娛樂公司練習生](https://zh.wikipedia.org/wiki/Dublekick_Company "w
 
   - [Nancy](https://zh.wikipedia.org/wiki/Nancy_Jewel_McDonie "wikilink")
   - [妍雨](../Page/MOMOLAND.md "wikilink")
-  - [慧彬](https://zh.wikipedia.org/wiki/慧彬 "wikilink")
+  - [慧彬](../Page/慧彬.md "wikilink")
   - [JooE](../Page/JooE.md "wikilink")
   - [Jane](../Page/MOMOLAND.md "wikilink")
   - [妸仁](https://zh.wikipedia.org/wiki/妸仁 "wikilink")

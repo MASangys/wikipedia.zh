@@ -460,7 +460,7 @@
 四星學園的男生偶像團體。和S4不同，M4的組合到高中部仍能繼續，直到87話各自往不同的方向發展。
 
   -
-    配音員：日：[八代拓](../Page/八代拓.md "wikilink")／台：[蔣鐵城](../Page/蔣鐵城.md "wikilink")（第1部）→[歐祖豪](https://zh.wikipedia.org/wiki/歐祖豪 "wikilink")（第2部）
+    配音員：日：[八代拓](../Page/八代拓.md "wikilink")／台：[蔣鐵城](../Page/蔣鐵城.md "wikilink")（第1部）→[陳彥鈞](../Page/陳彥鈞.md "wikilink")（第2部）
     1月13日出生，[魔羯座](https://zh.wikipedia.org/wiki/魔羯座 "wikilink")，血型[A型](https://zh.wikipedia.org/wiki/A型 "wikilink")。
     第1部時就讀中學三年級，喜歡戲弄虹野夢，還取綽號叫「煮熟章魚」（由於小夢生氣的樣子很像章魚又圓又紅），也經常給他意想不到的鼓勵，喜歡小夢。
     對於她不知道M4而不爽，所以常故意鬧她，想讓她知道M4比S4更厲害。
@@ -469,7 +469,7 @@
 <!-- end list -->
 
   -
-    配音員：日：[上村祐翔](../Page/上村祐翔.md "wikilink")／台：蔣鐵城（第1部）→歐祖豪（第2部）
+    配音員：日：[上村祐翔](../Page/上村祐翔.md "wikilink")／台：蔣鐵城（第1部）→陳彥鈞（第2部）
     2月18日出生，[水瓶座](https://zh.wikipedia.org/wiki/水瓶座 "wikilink")，血型[O型](https://zh.wikipedia.org/wiki/O型 "wikilink")。
     第1部時就讀中學三年級，正統派王子殿下型，意外地熱血率直，似乎喜歡亞里亞。
     在87話中決定和結城昂進軍亞洲。
@@ -477,7 +477,7 @@
 <!-- end list -->
 
   -
-    配音員：日：[堀江瞬](../Page/堀江瞬.md "wikilink")／台：[歐祖豪](https://zh.wikipedia.org/wiki/歐祖豪 "wikilink")
+    配音員：日：[堀江瞬](../Page/堀江瞬.md "wikilink")／台：歐祖豪
     12月2日出生，[射手座](https://zh.wikipedia.org/wiki/射手座 "wikilink")，血型[O型](https://zh.wikipedia.org/wiki/O型 "wikilink")。
     第1部時就讀中學二年級，可愛型，夜空的弟弟、真晝的哥哥，小時候與夜空、真晝玩時，取名為Morning（日本早上的漢字寫法是朝），喜歡小春。
     在87話中決定專注於演藝事業。
@@ -547,7 +547,7 @@
 <!-- end list -->
 
   -
-    配音員：日：／台：李勇
+    配音員：日：／台：陳彥鈞
     維納斯方舟的執事兼船長。
 
 ## 其他學校的學生
@@ -586,7 +586,7 @@
 ## 藝能工作者
 
   -
-    配音員：日：／台：蔣鐵城（第1部）→[李勇](../Page/李勇_\(配音員\).md "wikilink")（第2部）
+    配音員：日：／台：蔣鐵城（第1部）→陳彥鈞（第2部）
     第4話登場。
 
 <!-- end list -->
@@ -694,7 +694,7 @@
 <!-- end list -->
 
   -
-    配音員：日：[間島淳司](../Page/間島淳司.md "wikilink")／台：[李勇](../Page/李勇_\(配音員\).md "wikilink")
+    配音員：日：[間島淳司](../Page/間島淳司.md "wikilink")／台：陳彥鈞
     第87話登場。
 
 <!-- end list -->

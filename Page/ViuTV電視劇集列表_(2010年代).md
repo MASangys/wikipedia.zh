@@ -76,7 +76,7 @@
 <td><p>17</p></td>
 <td><p>韓國</p></td>
 <td><p><a href="../Page/夜行書生.md" title="wikilink">夜行書生</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李準基" title="wikilink">李準基</a>、<a href="../Page/李侑菲.md" title="wikilink">李侑菲</a>、<a href="../Page/沈昌珉.md" title="wikilink">沈昌珉</a>、<a href="../Page/李洙赫.md" title="wikilink">李洙赫</a>、<a href="https://zh.wikipedia.org/wiki/金昭誾" title="wikilink">金昭誾</a>、<a href="../Page/張熙軫.md" title="wikilink">張熙軫</a></p></td>
+<td><p><a href="../Page/李準基.md" title="wikilink">李準基</a>、<a href="../Page/李侑菲.md" title="wikilink">李侑菲</a>、<a href="../Page/沈昌珉.md" title="wikilink">沈昌珉</a>、<a href="../Page/李洙赫.md" title="wikilink">李洙赫</a>、<a href="https://zh.wikipedia.org/wiki/金昭誾" title="wikilink">金昭誾</a>、<a href="../Page/張熙軫.md" title="wikilink">張熙軫</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -418,7 +418,7 @@
 <td><p>22</p></td>
 <td><p>韓國</p></td>
 <td><p><a href="../Page/朝鮮槍手.md" title="wikilink">朝鮮射手</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李準基" title="wikilink">李準基</a>、<a href="../Page/南相美.md" title="wikilink">南相美</a>、<a href="../Page/全慧彬.md" title="wikilink">全慧彬</a>、<a href="../Page/韓周完.md" title="wikilink">韓周完</a>、<a href="../Page/劉五性.md" title="wikilink">劉五性</a></p></td>
+<td><p><a href="../Page/李準基.md" title="wikilink">李準基</a>、<a href="../Page/南相美.md" title="wikilink">南相美</a>、<a href="../Page/全慧彬.md" title="wikilink">全慧彬</a>、<a href="../Page/韓周完.md" title="wikilink">韓周完</a>、<a href="../Page/劉五性.md" title="wikilink">劉五性</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1399,7 +1399,7 @@
 <td><p>21</p></td>
 <td><p>韓國</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/犯罪心理_(韓國)" title="wikilink">犯罪心理：韓國</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李準基" title="wikilink">李準基</a>、<a href="../Page/文彩元.md" title="wikilink">文彩元</a>、<a href="../Page/孫賢周.md" title="wikilink">孫賢周</a></p></td>
+<td><p><a href="../Page/李準基.md" title="wikilink">李準基</a>、<a href="../Page/文彩元.md" title="wikilink">文彩元</a>、<a href="../Page/孫賢周.md" title="wikilink">孫賢周</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1678,7 +1678,7 @@
 <td><p>1</p></td>
 <td><p>日本</p></td>
 <td></td>
-<td><p><a href="../Page/北川景子.md" title="wikilink">北川景子</a>、<a href="../Page/北村一輝.md" title="wikilink">北村一輝</a></p></td>
+<td><p><a href="../Page/北川景子.md" title="wikilink">北川景子</a>、<a href="../Page/北村一輝.md" title="wikilink">北村一輝</a>、、<a href="../Page/羽田美智子.md" title="wikilink">羽田美智子</a>、<a href="../Page/松重豐.md" title="wikilink">松重豐</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1687,7 +1687,7 @@
 <td><p>20</p></td>
 <td><p>香港</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/教束" title="wikilink">教束</a></p></td>
-<td><p><a href="../Page/廖啟智.md" title="wikilink">廖啟智</a>、<a href="../Page/陳秀雯.md" title="wikilink">陳秀雯</a>、<a href="../Page/劉俊謙_(香港).md" title="wikilink">劉俊謙</a>、<a href="https://zh.wikipedia.org/wiki/朱栢謙" title="wikilink">朱栢謙</a>、<a href="../Page/岑珈其.md" title="wikilink">岑珈其</a>、、<a href="https://zh.wikipedia.org/wiki/唐浩然" title="wikilink">唐浩然</a>、<a href="https://zh.wikipedia.org/wiki/周漢寧" title="wikilink">周漢寧</a>、<a href="https://zh.wikipedia.org/wiki/程人富" title="wikilink">程人富</a>、<a href="https://zh.wikipedia.org/wiki/鍾雪瑩" title="wikilink">鍾雪瑩</a>、<a href="https://zh.wikipedia.org/wiki/鄧麗英" title="wikilink">鄧麗英</a>、<a href="https://zh.wikipedia.org/wiki/盧蓁宜" title="wikilink">盧蓁宜</a>、<a href="https://zh.wikipedia.org/wiki/麥可怡" title="wikilink">麥可怡</a>、<a href="https://zh.wikipedia.org/wiki/余家溢" title="wikilink">余家溢</a></p></td>
+<td><p><a href="../Page/廖啟智.md" title="wikilink">廖啟智</a>、<a href="../Page/陳秀雯.md" title="wikilink">陳秀雯</a>、<a href="../Page/劉俊謙_(香港).md" title="wikilink">劉俊謙</a>、<a href="https://zh.wikipedia.org/wiki/朱栢謙" title="wikilink">朱栢謙</a>、<a href="../Page/岑珈其.md" title="wikilink">岑珈其</a>、<a href="../Page/吳海昕.md" title="wikilink">吳海昕</a>、、<a href="https://zh.wikipedia.org/wiki/唐浩然" title="wikilink">唐浩然</a>、<a href="https://zh.wikipedia.org/wiki/周漢寧" title="wikilink">周漢寧</a>、<a href="https://zh.wikipedia.org/wiki/程人富" title="wikilink">程人富</a>、<a href="https://zh.wikipedia.org/wiki/鍾雪瑩" title="wikilink">鍾雪瑩</a>、<a href="https://zh.wikipedia.org/wiki/鄧麗英" title="wikilink">鄧麗英</a>、<a href="https://zh.wikipedia.org/wiki/盧蓁宜" title="wikilink">盧蓁宜</a>、<a href="https://zh.wikipedia.org/wiki/麥可怡" title="wikilink">麥可怡</a>、<a href="https://zh.wikipedia.org/wiki/余家溢" title="wikilink">余家溢</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1695,14 +1695,14 @@
 <td><p>6月10日</p></td>
 <td><p>20</p></td>
 <td><p>香港</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/退休女皇" title="wikilink">退休女皇</a></p></td>
-<td><p><a href="../Page/景黛音.md" title="wikilink">景黛音</a>、<a href="../Page/姜濤.md" title="wikilink">姜濤</a>、<a href="../Page/江熚生.md" title="wikilink">江熚生</a>、<a href="../Page/薛晉寧.md" title="wikilink">薛晉寧</a>、<a href="../Page/盧瀚霆.md" title="wikilink">盧瀚霆</a>、<a href="https://zh.wikipedia.org/wiki/徐浩昌" title="wikilink">肥腸</a>、、</p></td>
+<td></td>
+<td><p><a href="../Page/景黛音.md" title="wikilink">景黛音</a>、<a href="../Page/姜濤.md" title="wikilink">姜濤</a>、<a href="../Page/江熚生.md" title="wikilink">江熚生</a>、<a href="../Page/薛晉寧.md" title="wikilink">薛晉寧</a>、<a href="../Page/盧瀚霆.md" title="wikilink">盧瀚霆</a>、<a href="../Page/吳浩康.md" title="wikilink">吳浩康</a>、、、</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>6月17日</p></td>
-<td></td>
+<td><p>20</p></td>
 <td><p>日本</p></td>
 <td><p><a href="../Page/Legal_V～前律師·小鳥遊翔子～.md" title="wikilink">Legal V～前律師·小鳥遊翔子～</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/米倉涼子" title="wikilink">米倉涼子</a></p></td>
@@ -1715,6 +1715,42 @@
 <td><p>韓國</p></td>
 <td><p><a href="../Page/愛上變身情人_(電視劇).md" title="wikilink">變身有情人</a></p></td>
 <td><p><a href="../Page/徐玄振.md" title="wikilink">徐玄振</a>、<a href="../Page/李民基.md" title="wikilink">李民基</a>、<a href="../Page/安宰賢.md" title="wikilink">安宰賢</a>、<a href="https://zh.wikipedia.org/wiki/李多熙" title="wikilink">李多熙</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>7月8日</p></td>
+<td><p>20</p></td>
+<td><p>香港</p></td>
+<td></td>
+<td><p><a href="../Page/盧海鵬.md" title="wikilink">盧海鵬</a>、<a href="../Page/游學修.md" title="wikilink">游學修</a>、<a href="../Page/鄭中基.md" title="wikilink">鄭中基</a>、<a href="https://zh.wikipedia.org/wiki/盧巧音" title="wikilink">盧巧音</a></p></td>
+<td></td>
+<td><p>原名《活到老，廢上腦》</p></td>
+</tr>
+<tr class="odd">
+<td><p>7月8日</p></td>
+<td><p>20</p></td>
+<td><p>香港</p></td>
+<td></td>
+<td><p><a href="../Page/周國賢.md" title="wikilink">周國賢</a>、<a href="../Page/駱振偉.md" title="wikilink">駱振偉</a>、、<a href="../Page/吳浩康.md" title="wikilink">吳浩康</a>、<a href="../Page/岑樂怡.md" title="wikilink">岑樂怡</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>7月15日</p></td>
+<td><p>100</p></td>
+<td><p>香港</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/娛樂風雲" title="wikilink">娛樂風雲</a></p></td>
+<td><p><a href="../Page/何啟華.md" title="wikilink">何啟華</a>、、<a href="../Page/李麗珍.md" title="wikilink">李麗珍</a>、<a href="../Page/袁富華.md" title="wikilink">袁富華</a>、<a href="../Page/陳國邦.md" title="wikilink">陳國邦</a>、<a href="../Page/廖碧兒.md" title="wikilink">廖碧兒</a>、<a href="../Page/劉錫賢.md" title="wikilink">劉錫賢</a>、、<a href="../Page/駱振偉.md" title="wikilink">駱振偉</a>、<a href="../Page/陳凱詠.md" title="wikilink">陳凱詠</a>、、<a href="../Page/黃奕晨.md" title="wikilink">黃奕晨</a>、、<a href="../Page/盧覓雪.md" title="wikilink">盧覓雪</a>、<a href="https://zh.wikipedia.org/wiki/邱士縉" title="wikilink">邱士縉</a>、<a href="https://zh.wikipedia.org/wiki/李駿傑" title="wikilink">李駿傑</a>、、<a href="../Page/郭嘉駿.md" title="wikilink">郭嘉駿</a></p></td>
+<td></td>
+<td><p>延續《<a href="https://zh.wikipedia.org/wiki/做演藝嘅" title="wikilink">做演藝嘅</a>》故事線</p></td>
+</tr>
+<tr class="odd">
+<td><p>7月30日</p></td>
+<td><p>24</p></td>
+<td><p>韓國</p></td>
+<td><p><a href="../Page/男朋友_(電視劇).md" title="wikilink">男朋友</a></p></td>
+<td><p><a href="../Page/宋慧喬.md" title="wikilink">宋慧喬</a>、<a href="../Page/朴寶劍.md" title="wikilink">朴寶劍</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1748,33 +1784,6 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>2019年7月中</p></td>
-<td><p>100</p></td>
-<td><p>香港</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/娛樂風雲" title="wikilink">娛樂風雲</a></p></td>
-<td><p><a href="../Page/何啟華.md" title="wikilink">何啟華</a>、、<a href="../Page/李麗珍.md" title="wikilink">李麗珍</a>、<a href="../Page/袁富華.md" title="wikilink">袁富華</a>、<a href="../Page/陳國邦.md" title="wikilink">陳國邦</a>、<a href="../Page/廖碧兒.md" title="wikilink">廖碧兒</a>、<a href="../Page/劉錫賢.md" title="wikilink">劉錫賢</a>、、<a href="../Page/駱振偉.md" title="wikilink">駱振偉</a>、<a href="../Page/陳凱詠.md" title="wikilink">陳凱詠</a>、、<a href="../Page/黃奕晨.md" title="wikilink">黃奕晨</a>、、<a href="../Page/盧覓雪.md" title="wikilink">盧覓雪</a>、<a href="https://zh.wikipedia.org/wiki/邱士縉" title="wikilink">邱士縉</a>、<a href="https://zh.wikipedia.org/wiki/李駿傑" title="wikilink">李駿傑</a>、、<a href="../Page/郭嘉駿.md" title="wikilink">郭嘉駿</a></p></td>
-<td></td>
-<td><p>延續《<a href="https://zh.wikipedia.org/wiki/做演藝嘅" title="wikilink">做演藝嘅</a>》故事線</p></td>
-</tr>
-<tr class="even">
-<td><p>即將播映</p></td>
-<td><p>20</p></td>
-<td><p>香港</p></td>
-<td></td>
-<td><p><a href="../Page/盧海鵬.md" title="wikilink">盧海鵬</a>、<a href="../Page/游學修.md" title="wikilink">游學修</a>、<a href="../Page/鄭中基.md" title="wikilink">鄭中基</a>、<a href="https://zh.wikipedia.org/wiki/盧巧音" title="wikilink">盧巧音</a></p></td>
-<td></td>
-<td><p>原名《活到老，廢上腦》</p></td>
-</tr>
-<tr class="odd">
-<td><p>即將播映</p></td>
-<td><p>20</p></td>
-<td><p>香港</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Reboot重新啟動" title="wikilink">Reboot重新啟動</a></p></td>
-<td><p><a href="../Page/周國賢.md" title="wikilink">周國賢</a>、<a href="../Page/駱振偉.md" title="wikilink">駱振偉</a>、、<a href="../Page/吳浩康.md" title="wikilink">吳浩康</a>、<a href="../Page/岑樂怡.md" title="wikilink">岑樂怡</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p>即將播映</p></td>
 <td><p>13</p></td>
 <td><p>香港</p></td>
@@ -1783,7 +1792,7 @@
 <td></td>
 <td><p>每集1小時</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2019年9月</p></td>
 <td><p>15</p></td>
 <td><p>香港</p></td>
@@ -1792,7 +1801,7 @@
 <td></td>
 <td><p>每集1小時</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>拍攝完成</p></td>
 <td><p>-</p></td>
 <td><p>香港</p></td>
@@ -1801,7 +1810,7 @@
 <td></td>
 <td><p><small><a href="../Page/電訊盈科媒體.md" title="wikilink">PCCW Media Group</a>、<a href="https://zh.wikipedia.org/wiki/優酷" title="wikilink">優酷信息技術 (北京) 有限公司聯合製作</a></small></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>拍攝中</p></td>
 <td><p>-</p></td>
 <td><p>香港</p></td>
@@ -1810,16 +1819,16 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>拍攝中</p></td>
 <td><p>-</p></td>
 <td><p>香港</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Me_Too_(電視劇)" title="wikilink">Me Too</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/梁漢文" title="wikilink">梁漢文</a>、<a href="../Page/張慧儀.md" title="wikilink">張慧儀</a>、<a href="../Page/王敏奕.md" title="wikilink">王敏奕</a>、<a href="../Page/李焯寧.md" title="wikilink">李焯寧</a>、、<a href="../Page/許博文.md" title="wikilink">強尼</a>、<a href="../Page/陳俞希.md" title="wikilink">陳俞希</a>、、、、</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梁漢文" title="wikilink">梁漢文</a>、<a href="../Page/張慧儀.md" title="wikilink">張慧儀</a>、<a href="../Page/王敏奕.md" title="wikilink">王敏奕</a>、<a href="../Page/樓南光.md" title="wikilink">樓南光</a>、<a href="../Page/李焯寧.md" title="wikilink">李焯寧</a>、、<a href="../Page/許博文.md" title="wikilink">強尼</a>、<a href="../Page/陳俞希.md" title="wikilink">陳俞希</a>、、<a href="../Page/陳子豐.md" title="wikilink">陳子豐</a>、、、</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>計劃中</p></td>
 <td><p>-</p></td>
 <td><p>香港</p></td>
@@ -1828,7 +1837,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>計劃中</p></td>
 <td><p>-</p></td>
 <td><p>香港/中國大陸</p></td>
@@ -1837,7 +1846,7 @@
 <td></td>
 <td><p>|</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>未定</p></td>
 <td><p>23</p></td>
 <td><p>韓國</p></td>
@@ -1846,7 +1855,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>未定</p></td>
 <td><p>10</p></td>
 <td><p>日本</p></td>
@@ -1855,7 +1864,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>未定</p></td>
 <td><p>1</p></td>
 <td><p>日本</p></td>
@@ -1864,7 +1873,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>未定</p></td>
 <td><p>10</p></td>
 <td><p>日本</p></td>
@@ -1873,7 +1882,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>未定</p></td>
 <td><p>7</p></td>
 <td><p>日本</p></td>
@@ -1882,7 +1891,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>未定</p></td>
 <td><p>10</p></td>
 <td><p>日本</p></td>

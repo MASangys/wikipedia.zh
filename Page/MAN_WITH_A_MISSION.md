@@ -58,7 +58,7 @@ Boy先行確定樂曲的節奏和印象，之後再和樂團全員商量各部�
 <th><p>標題</p></th>
 <th><p><a href="../Page/規格產品編號.md" title="wikilink">規格產品編號</a></p></th>
 <th><p><a href="../Page/Oricon.md" title="wikilink">Oricon周榜</a><br />
-最高位</p></th>
+最高名次</p></th>
 </tr>
 </thead>
 <tbody>
@@ -81,7 +81,7 @@ Boy先行確定樂曲的節奏和印象，之後再和樂團全員商量各部�
 <td><p>2011年4月6日</p></td>
 <td><p>《》</p></td>
 <td><p>FYTD-1003</p></td>
-<td><p>88位</p></td>
+<td><p>第88名</p></td>
 </tr>
 <tr class="even">
 <td><p>1st</p></td>
@@ -89,7 +89,7 @@ Boy先行確定樂曲的節奏和印象，之後再和樂團全員商量各部�
 <td><p>《distance》</p></td>
 <td><p>CRCP-10273（初回盤）<br />
 CRCP-10274（通常盤）</p></td>
-<td><p>6位</p></td>
+<td><p>第6名</p></td>
 </tr>
 <tr class="odd">
 <td><p>2nd</p></td>
@@ -97,7 +97,7 @@ CRCP-10274（通常盤）</p></td>
 <td><p>《》</p></td>
 <td><p>CRCP-10284（初回盤）<br />
 CRCP-10285（通常盤）</p></td>
-<td><p>3位</p></td>
+<td><p>第3名</p></td>
 </tr>
 <tr class="even">
 <td><p>配信限定</p></td>
@@ -112,7 +112,7 @@ CRCP-10285（通常盤）</p></td>
 <td><p>《》</p></td>
 <td><p>SRCL-8400〜1（初回盤）<br />
 SRCL-8402（通常盤）</p></td>
-<td><p>4位</p></td>
+<td><p>第4名</p></td>
 </tr>
 <tr class="even">
 <td><p>1st<br />
@@ -136,7 +136,7 @@ SRCL-8402（通常盤）</p></td>
 <td><p>《》</p></td>
 <td><p>SRCL-8682〜3（初回盤）<br />
 SRCL-8684（通常盤）</p></td>
-<td><p>2位</p></td>
+<td><p>第2名</p></td>
 </tr>
 <tr class="odd">
 <td><p>5th</p></td>
@@ -145,14 +145,14 @@ SRCL-8684（通常盤）</p></td>
 <td><p>SRCL-8931〜32（初回生産限定盤）<br />
 SRCL-8933（通常盤）<br />
 SRCL-8934（期間生産限定盤）</p></td>
-<td><p>3位</p></td>
+<td><p>第3名</p></td>
 </tr>
 <tr class="even">
 <td><p>6th</p></td>
 <td><p>2016年1月27日</p></td>
 <td><p>《Memories》</p></td>
 <td><p>SRCL-8968</p></td>
-<td><p>17位</p></td>
+<td><p>第17名</p></td>
 </tr>
 <tr class="odd">
 <td><p>7th</p></td>
@@ -160,7 +160,7 @@ SRCL-8934（期間生産限定盤）</p></td>
 <td><p>《Dead End In Tokyo》</p></td>
 <td><p>SRCL-9295〜96（初回生産限定盤）<br />
 SRCL-9297（通常盤）</p></td>
-<td><p>5位</p></td>
+<td><p>第5名</p></td>
 </tr>
 <tr class="even">
 <td><p>8th</p></td>
@@ -168,7 +168,7 @@ SRCL-9297（通常盤）</p></td>
 <td><p>《My Hero/Find You》</p></td>
 <td><p>SRCL-9551〜52（初回生産限定盤）<br />
 SRCL-9553（通常盤）</p></td>
-<td><p>2位</p></td>
+<td><p>第2名</p></td>
 </tr>
 <tr class="odd">
 <td><p>9th</p></td>
@@ -176,8 +176,16 @@ SRCL-9553（通常盤）</p></td>
 <td><p>《Take Me Under / Winding Road》</p></td>
 <td><p>SRCL-9718〜19（初回生産限定盤）<br />
 SRCL-9720（通常盤）<br />
-SRCL-9721（アニメ盤）</p></td>
-<td><p>4位</p></td>
+SRCL-9721（动画盤）</p></td>
+<td><p>第4名</p></td>
+</tr>
+<tr class="even">
+<td><p>10th</p></td>
+<td><p>2019年6月5日</p></td>
+<td><p>《Remember Me》</p></td>
+<td><p>SRCL-11153/54（初回生産限定盤）<br />
+SRCL-11155（通常盤）</p></td>
+<td><p>第6名</p></td>
 </tr>
 </tbody>
 </table>
@@ -202,7 +210,7 @@ SRCL-9721（アニメ盤）</p></td>
 <td><p>2010年11月3日</p></td>
 <td><p>《WELCOME TO THE NEWWORLD》</p></td>
 <td><p>FYTD-1001</p></td>
-<td><p>168位</p></td>
+<td><p>第168名</p></td>
 </tr>
 <tr class="even">
 <td><p>1st<br />
@@ -210,7 +218,7 @@ SRCL-9721（アニメ盤）</p></td>
 <td><p>2011年6月8日</p></td>
 <td><p>《MAN WITH A MISSION》</p></td>
 <td><p>CRCP-40295</p></td>
-<td><p>28位</p></td>
+<td><p>第28名</p></td>
 </tr>
 <tr class="odd">
 <td><p>2nd<br />
@@ -218,7 +226,7 @@ SRCL-9721（アニメ盤）</p></td>
 <td><p>2011年10月5日</p></td>
 <td><p>《Trick or Treat e.p.》</p></td>
 <td><p>CRCP-40302</p></td>
-<td><p>15位</p></td>
+<td><p>第15名</p></td>
 </tr>
 <tr class="even">
 <td><p>1st<br />
@@ -226,7 +234,7 @@ SRCL-9721（アニメ盤）</p></td>
 <td><p>2012年3月14日</p></td>
 <td><p>《WELCOME TO THE NEWWORLD -standard edition-》</p></td>
 <td><p>FYTD-1004</p></td>
-<td><p>39位</p></td>
+<td><p>第39名</p></td>
 </tr>
 <tr class="odd">
 <td><p>2nd<br />
@@ -235,7 +243,7 @@ SRCL-9721（アニメ盤）</p></td>
 <td><p>《MASH UP THE WORLD》</p></td>
 <td><p>CRCP-40322（初回限定盤）<br />
 CRCP-40323（通常盤）</p></td>
-<td><p>4位</p></td>
+<td><p>第4名</p></td>
 </tr>
 <tr class="even">
 <td><p>3rd<br />
@@ -244,7 +252,7 @@ CRCP-40323（通常盤）</p></td>
 <td><p>《Tales of Purefly》</p></td>
 <td><p>SRCL-8484～5（初回限定盤）<br />
 SRCL-8486（通常盤）</p></td>
-<td><p>3位</p></td>
+<td><p>第3名</p></td>
 </tr>
 <tr class="odd">
 <td><p>4th<br />
@@ -253,7 +261,7 @@ SRCL-8486（通常盤）</p></td>
 <td><p>《The World's On Fire》</p></td>
 <td><p>SRCL-8978～9（初回限定盤）<br />
 SRCL-8980（通常盤）</p></td>
-<td><p>3位</p></td>
+<td><p>第3名</p></td>
 </tr>
 <tr class="even">
 <td><p>5th<br />
@@ -262,7 +270,7 @@ SRCL-8980（通常盤）</p></td>
 <td><p>《Chasing the Horizon》</p></td>
 <td><p>SRCL-9808～9（初回限定盤）<br />
 SRCL-9810（通常盤）</p></td>
-<td><p>2位</p></td>
+<td><p>第2名</p></td>
 </tr>
 </tbody>
 </table>

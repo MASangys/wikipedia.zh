@@ -32,7 +32,7 @@
 <tr class="odd">
 <td><p><a href="../Page/王仁甫.md" title="wikilink">王仁甫</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/台北市" title="wikilink">台北市</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/台東縣" title="wikilink">台東縣</a></p></td>
 <td><p>173cm</p></td>
 <td></td>
 </tr>

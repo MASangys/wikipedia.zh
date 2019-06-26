@@ -1,4 +1,4 @@
-**Valvatoidea**是一種[微小的](https://zh.wikipedia.org/wiki/微小貝 "wikilink")[異鰓類](../Page/異鰓類.md "wikilink")[下異鰓類支序的](../Page/下異鰓類.md "wikilink")[腹足綱](https://zh.wikipedia.org/wiki/腹足綱 "wikilink")[軟體動物](https://zh.wikipedia.org/wiki/軟體動物 "wikilink")[總科](https://zh.wikipedia.org/wiki/總科 "wikilink")，包括有[淡水螺和](https://zh.wikipedia.org/wiki/淡水螺 "wikilink")[海螺](https://zh.wikipedia.org/wiki/海螺 "wikilink")\[1\]\[2\]\[3\]。
+**Valvatoidea**是一種[微小的](../Page/微小貝.md "wikilink")[異鰓類](../Page/異鰓類.md "wikilink")[下異鰓類支序的](../Page/下異鰓類.md "wikilink")[腹足綱](https://zh.wikipedia.org/wiki/腹足綱 "wikilink")[軟體動物](https://zh.wikipedia.org/wiki/軟體動物 "wikilink")[總科](https://zh.wikipedia.org/wiki/總科 "wikilink")，包括有[淡水螺和](https://zh.wikipedia.org/wiki/淡水螺 "wikilink")[海螺](https://zh.wikipedia.org/wiki/海螺 "wikilink")\[1\]\[2\]\[3\]。
 
 ## 分類
 

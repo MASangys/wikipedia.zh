@@ -3,13 +3,13 @@ FUTURE**》（），是日本特攝節目《[假面騎士Drive](../Page/假面�
 
 此外[超級戰隊系列作品](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")《[手裏劍戰隊忍忍者](../Page/手裏劍戰隊忍忍者.md "wikilink")》劇場版《[手裏劍戰隊忍忍者
 THE MOVIE
-恐龍殿下的驚天忍法帖！](https://zh.wikipedia.org/wiki/手裏劍戰隊忍忍者_THE_MOVIE_恐龍殿下的驚天忍法帖！ "wikilink")》亦同步上映。
+恐龍殿下的驚天忍法帖！](../Page/手裏劍戰隊忍忍者_THE_MOVIE_恐龍殿下的驚天忍法帖！.md "wikilink")》亦同步上映。
 
 本作劇場版的口號為「最後究極的高潮！」、「未來、是否還有希望。假面騎士Drive、是導致人類滅亡的〈惡魔〉」。
 
 ## 本作特色
 
-知名演員[千葉真一兒子](https://zh.wikipedia.org/wiki/千葉真一 "wikilink")[真劍佑會為本作演出](https://zh.wikipedia.org/wiki/真劍佑 "wikilink")，另外和[柳澤慎吾亦參演電影](../Page/柳澤慎吾.md "wikilink")。\[1\]\[2\]
+知名演員[千葉真一兒子](https://zh.wikipedia.org/wiki/千葉真一 "wikilink")[真劍佑會為本作演出](https://zh.wikipedia.org/wiki/真劍佑 "wikilink")，另外[筧美和子和](../Page/筧美和子.md "wikilink")[柳澤慎吾亦參演電影](../Page/柳澤慎吾.md "wikilink")。\[1\]\[2\]
 
 此外相隔《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》及《[假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")》的獨立劇場版系列過後，再度引用讓未公開的續作假面騎士先行登場的慣例，即是下一部系列作品《[假面騎士Ghost](../Page/假面騎士Ghost.md "wikilink")》的主角假面騎士會在本作登場。\[3\]
 
@@ -118,7 +118,7 @@ Drive出現！並以壓倒性的力量擊敗假面騎士Mach和假面騎士Chase
     真正目的為了借假面騎士Drive之手破壞工場設施，和捏造未來的事件騙取對方破壞腰帶後，再將現代被封印的惡路程式108復活並與之融合。
     （有關惡路程式108的詳情請見下「[本作登場怪人](https://zh.wikipedia.org/wiki/劇場版_假面騎士Drive_Surprise_Future#本作登場怪人 "wikilink")」一欄）
 
-**花咲未來（）**（ 飾）
+**花咲未來（）**（[筧美和子](../Page/筧美和子.md "wikilink") 飾）
 
   -
     現今藝能界當紅的偶像。
@@ -513,7 +513,7 @@ Drive出現！並以壓倒性的力量擊敗假面騎士Mach和假面騎士Chase
   - 克里姆‧施丹伯特 / 腰帶先生（Drive驅動器）、惡路程式004（人類形態） -  飾/聲
   - 泊英志、惡路程式108（人類形態）/ 假面騎士Dark Drive -
     [真劍佑](https://zh.wikipedia.org/wiki/真劍佑 "wikilink") 飾/聲
-  - 花咲未来 -  飾
+  - 花咲未来 - [筧美和子](../Page/筧美和子.md "wikilink") 飾
   - 古葉進次 - [柳澤慎吾](../Page/柳澤慎吾.md "wikilink") 飾
   - 本願寺純 -  飾
   - 澤神鈴奈 - [吉井怜](../Page/吉井怜.md "wikilink") 飾

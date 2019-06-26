@@ -5,7 +5,7 @@ Party數位電競派對，為源自於[瑞典的](../Page/瑞典.md "wikilink")\
 
 WirForce \[waɪˈrfors\]
 為一個由4Gamers創辦人暨執行長黃智仁所創之[複合字](../Page/合成词.md "wikilink")，讀音以及[意譯即英文字的](https://zh.wikipedia.org/wiki/意譯 "wikilink")
-[wire](https://zh.wikipedia.org/wiki/wikt:en:wire "wikilink")（[英語](../Page/英语.md "wikilink")：[動詞](https://zh.wikipedia.org/wiki/动词 "wikilink")，連線）
+[wire](https://zh.wikipedia.org/wiki/wikt:en:wire "wikilink")（[英語](../Page/英语.md "wikilink")：[動詞](../Page/动词.md "wikilink")，連線）
 加上
 [force](https://zh.wikipedia.org/wiki/wikt:en:force "wikilink")（[英語](../Page/英语.md "wikilink")：[名詞](../Page/名詞.md "wikilink")，力量）；因此WirForce代表的涵義為連線的力量。
 

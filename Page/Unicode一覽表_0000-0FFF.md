@@ -46,7 +46,7 @@
 | 022x                                                                                                           |
 | 023x                                                                                                           |
 | 024x                                                                                                           |
-| **[國際音標擴展](https://zh.wikipedia.org/wiki/國際音標擴展_\(Unicode區段\) "wikilink")／IPA Extensions**                     |
+| **[國際音標擴展](../Page/國際音標擴展_\(Unicode區段\).md "wikilink")／IPA Extensions**                                        |
 | U+                                                                                                             |
 | 025x                                                                                                           |
 | 026x                                                                                                           |

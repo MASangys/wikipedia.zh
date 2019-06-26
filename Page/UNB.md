@@ -1,5 +1,5 @@
 **UNB**（），出自[KBS2偶像再造選秀節目](https://zh.wikipedia.org/wiki/KBS2 "wikilink")《[The
-Unit](../Page/The_Unit.md "wikilink")》的九人男子限定團體\[1\]\[2\]\[3\]，成員包括隊長Feel
+Unit](../Page/The_Unit.md "wikilink")》的九人男子[限定團體](https://zh.wikipedia.org/wiki/限定團體 "wikilink")\[1\]\[2\]\[3\]，成員包括隊長Feel
 Dog、宜縝、大元、Marco、鎬廷、韓率、Jun、Chan以及基重。2018年4月7日以迷你專輯《BOYHOOD》雙主打《感覺》及《Only
 One》正式出道。
 
@@ -41,20 +41,20 @@ WIN的正夏](https://zh.wikipedia.org/wiki/BEAT_WIN "wikilink")、[DIA的主恩
 
   - **粗體字**為隊長
 
-| 成員資料         |
-| ------------ |
-| 藝名           |
-| 藝名           |
-| 宜縝           |
-| **Feel Dog** |
-| 大元           |
-| Marco        |
-| 鎬廷           |
-| 韓率           |
-| Jun          |
-| Chan         |
-| 基重           |
-|              |
+| 成員資料        |
+| ----------- |
+| 藝名          |
+| 藝名          |
+| 宜縝          |
+| **FeelDog** |
+| 大元          |
+| Marco       |
+| 鎬廷          |
+| 韓率          |
+| Jun         |
+| Chan        |
+| 基重          |
+|             |
 
 ## 音樂作品
 
@@ -439,6 +439,7 @@ Zepp東京　</p></td>
 [Category:2018年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2018年成立的音樂團體 "wikilink")
 [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
 [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
+[Category:期間限定團體](https://zh.wikipedia.org/wiki/Category:期間限定團體 "wikilink")
 [Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink")
 [Category:2019年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2019年解散的音樂團體 "wikilink")
 [Category:已解散的男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的男子演唱團體 "wikilink")

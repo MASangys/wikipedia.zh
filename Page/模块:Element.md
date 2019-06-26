@@ -1,6 +1,6 @@
-local p = {} local origArgs local error = require( 'Module:Error' )
-local element_data = require( 'Module:Element/data' ) local
-series_name_data = {{"錒系元素", "锕系元素", "錒系金屬", "锕系金属",
+local p = {} local origArgs local lib_arg = {} local error = require(
+'Module:Error' ) local element_data = require( 'Module:Element/data' )
+local series_name_data = {{"錒系元素", "锕系元素", "錒系金屬", "锕系金属",
 "actinide"},{"鹼金屬", "碱金属", "alkali metal"},{"鹼金屬（預測）", "碱金属（预测）",
 "alkali metal (predicted)"},{"鹼土金屬", "碱土金属", "alkaline earth
 metal"},{"鹼土金屬（預測）", "碱土金属（预测）", "alkaline earth metal
@@ -43,17 +43,94 @@ block (predicted)"},{"未知特性", "未知", "化學性質未知", "化学性�
 function p.symbol(frame)
 
 `   -- For calling from #invoke.`
-`   local pframe = frame:getParent()`
-`   local args = pframe.args`
+`   local args`
+`   if frame == mw.getCurrentFrame() then`
+`       -- We're being called via #invoke. The args are passed through to the module`
+`       -- from the template page, so use the args that were passed into the template.`
+`       if lib_arg.getArgs == nil then lib_arg = require('Module:Arguments') end`
+`       args = lib_arg.getArgs(frame) --frame.args`
+`   else`
+`       -- We're being called from another module or from the debug console, so assume`
+`       -- the args are passed in directly.`
+`       if type(frame) ~= type({}) then args = {frame}`
+`       else args = frame end`
+`   end`
 `   return p._symbol(args)`
+
+end
+
+function p.getAtomicWeight(frame)
+
+`   -- For calling from #invoke.`
+`   local args`
+`   if frame == mw.getCurrentFrame() then`
+`       -- We're being called via #invoke. The args are passed through to the module`
+`       -- from the template page, so use the args that were passed into the template.`
+`       if lib_arg.getArgs == nil then lib_arg = require('Module:Arguments') end`
+`       args = lib_arg.getArgs(frame) --frame.args`
+`   else`
+`       -- We're being called from another module or from the debug console, so assume`
+`       -- the args are passed in directly.`
+`       if type(frame) ~= type({}) then args = {frame}`
+`       else args = frame end`
+`   end`
+`   return p._getAtomicWeight(args)`
+
+end
+
+function p.getName(frame)
+
+`   -- For calling from #invoke.`
+`   local args`
+`   if frame == mw.getCurrentFrame() then`
+`       -- We're being called via #invoke. The args are passed through to the module`
+`       -- from the template page, so use the args that were passed into the template.`
+`       if lib_arg.getArgs == nil then lib_arg = require('Module:Arguments') end`
+`       args = lib_arg.getArgs(frame) --frame.args`
+`   else`
+`       -- We're being called from another module or from the debug console, so assume`
+`       -- the args are passed in directly.`
+`       if type(frame) ~= type({}) then args = {frame}`
+`       else args = frame end`
+`   end`
+`   return p._getName(args)`
+
+end
+
+function p.getPhase(frame)
+
+`   -- For calling from #invoke.`
+`   local args`
+`   if frame == mw.getCurrentFrame() then`
+`       -- We're being called via #invoke. The args are passed through to the module`
+`       -- from the template page, so use the args that were passed into the template.`
+`       if lib_arg.getArgs == nil then lib_arg = require('Module:Arguments') end`
+`       args = lib_arg.getArgs(frame) --frame.args`
+`   else`
+`       -- We're being called from another module or from the debug console, so assume`
+`       -- the args are passed in directly.`
+`       if type(frame) ~= type({}) then args = {frame}`
+`       else args = frame end`
+`   end`
+`   return p._getPhase(args)`
 
 end
 
 function p.link(frame)
 
 `   -- For calling from #invoke.`
-`   local pframe = frame:getParent()`
-`   local args = pframe.args`
+`   local args`
+`   if frame == mw.getCurrentFrame() then`
+`       -- We're being called via #invoke. The args are passed through to the module`
+`       -- from the template page, so use the args that were passed into the template.`
+`       if lib_arg.getArgs == nil then lib_arg = require('Module:Arguments') end`
+`       args = lib_arg.getArgs(frame) --frame.args`
+`   else`
+`       -- We're being called from another module or from the debug console, so assume`
+`       -- the args are passed in directly.`
+`       if type(frame) ~= type({}) then args = {frame}`
+`       else args = frame end`
+`   end`
 `   return p._link(args)`
 
 end
@@ -61,8 +138,18 @@ end
 function p.check(frame)
 
 `   -- For calling from #invoke.`
-`   local pframe = frame:getParent()`
-`   local args = pframe.args`
+`   local args`
+`   if frame == mw.getCurrentFrame() then`
+`       -- We're being called via #invoke. The args are passed through to the module`
+`       -- from the template page, so use the args that were passed into the template.`
+`       if lib_arg.getArgs == nil then lib_arg = require('Module:Arguments') end`
+`       args = lib_arg.getArgs(frame) --frame.args`
+`   else`
+`       -- We're being called from another module or from the debug console, so assume`
+`       -- the args are passed in directly.`
+`       if type(frame) ~= type({}) then args = {frame}`
+`       else args = frame end`
+`   end`
 `   return p._check(args)`
 
 end
@@ -70,8 +157,18 @@ end
 function p.neutron(frame)
 
 `   -- For calling from #invoke.`
-`   local pframe = frame:getParent()`
-`   local args = pframe.args`
+`   local args`
+`   if frame == mw.getCurrentFrame() then`
+`       -- We're being called via #invoke. The args are passed through to the module`
+`       -- from the template page, so use the args that were passed into the template.`
+`       if lib_arg.getArgs == nil then lib_arg = require('Module:Arguments') end`
+`       args = lib_arg.getArgs(frame) --frame.args`
+`   else`
+`       -- We're being called from another module or from the debug console, so assume`
+`       -- the args are passed in directly.`
+`       if type(frame) ~= type({}) then args = {frame}`
+`       else args = frame end`
+`   end`
 `   return p._neutron(args)`
 
 end
@@ -98,9 +195,19 @@ end
 function p.compare_series(frame)
 
 `   -- For calling from #invoke.`
-`   local pframe = frame:getParent()`
+`   local load_args`
+`   if frame == mw.getCurrentFrame() then`
+`       -- We're being called via #invoke. The args are passed through to the module`
+`       -- from the template page, so use the args that were passed into the template.`
+`       if lib_arg.getArgs == nil then lib_arg = require('Module:Arguments') end`
+`       load_args = lib_arg.getArgs(frame) --frame.args`
+`   else`
+`       -- We're being called from another module or from the debug console, so assume`
+`       -- the args are passed in directly.`
+`       load_args = frame`
+`   end`
 `   args = {}`
-`   for k, v in pairs( frame.args ) do`
+`   for k, v in pairs( load_args ) do`
 `       args[k] = v;       `
 `   end`
 `   arg1='' if (args[1] and args[1] ~= '') then arg1 = string.gsub(args[1] , "%s$", "") end`
@@ -185,9 +292,20 @@ end
 function p.series(frame)
 
 `   -- For calling from #invoke.`
-`   local pframe = frame:getParent()`
+`   local load_args`
+`   if frame == mw.getCurrentFrame() then`
+`       -- We're being called via #invoke. The args are passed through to the module`
+`       -- from the template page, so use the args that were passed into the template.`
+`       if lib_arg.getArgs == nil then lib_arg = require('Module:Arguments') end`
+`       load_args = lib_arg.getArgs(frame) --frame.args`
+`   else`
+`       -- We're being called from another module or from the debug console, so assume`
+`       -- the args are passed in directly.`
+`       if type(frame) ~= type({}) then args = {frame}`
+`       else args = frame end`
+`   end`
 `   args = {}`
-`   for k, v in pairs( frame.args ) do`
+`   for k, v in pairs( load_args ) do`
 `       args[k] = v;       `
 `   end`
 `   `
@@ -220,8 +338,18 @@ end
 function p.protons(frame)
 
 `   -- For calling from #invoke.`
-`   local pframe = frame:getParent()`
-`   local args = pframe.args`
+`   local args`
+`   if frame == mw.getCurrentFrame() then`
+`       -- We're being called via #invoke. The args are passed through to the module`
+`       -- from the template page, so use the args that were passed into the template.`
+`       if lib_arg.getArgs == nil then lib_arg = require('Module:Arguments') end`
+`       args = lib_arg.getArgs(frame) --frame.args`
+`   else`
+`       -- We're being called from another module or from the debug console, so assume`
+`       -- the args are passed in directly.`
+`       if type(frame) ~= type({}) then args = {frame}`
+`       else args = frame end`
+`   end`
 `   return p._protons(args)`
 
 end
@@ -243,7 +371,95 @@ function p._protons(args)
 `   end`
 `   return ''`
 
-end function p._check(args)
+end
+
+function p.wikidataID(frame)
+
+`   -- For calling from #invoke.`
+`   local args`
+`   if frame == mw.getCurrentFrame() then`
+`       -- We're being called via #invoke. The args are passed through to the module`
+`       -- from the template page, so use the args that were passed into the template.`
+`       if lib_arg.getArgs == nil then lib_arg = require('Module:Arguments') end`
+`       args = lib_arg.getArgs(frame) --frame.args`
+`   else`
+`       -- We're being called from another module or from the debug console, so assume`
+`       -- the args are passed in directly.`
+`       if type(frame) ~= type({}) then args = {frame}`
+`       else args = frame end`
+`   end`
+`   local result = p._wikidataID(args)`
+`   if result ~= '' then result = 'Q' .. result end`
+`   return result`
+
+end
+
+function p._wikidataID(args)
+
+`   --去除模板引用時可能產生的空格`
+`   eleString='' if (args[1] and args[1] ~= '') then eleString = string.gsub(args[1] , "%s$", "") else return '' end`
+`   eleid = p.getListID(eleString)`
+`   ele1 = element_data[eleid]`
+`   if (eleid==-1) then`
+`       return ''`
+`   end`
+`   if (ele1.wikidata and ele1.wikidata ~= '') then`
+`       return ele1.wikidata`
+`   end`
+`   return ''`
+
+end
+
+function p.meltingPoint(frame)
+
+`   -- For calling from #invoke.`
+`   local args`
+`   if frame == mw.getCurrentFrame() then`
+`       -- We're being called via #invoke. The args are passed through to the module`
+`       -- from the template page, so use the args that were passed into the template.`
+`       if lib_arg.getArgs == nil then lib_arg = require('Module:Arguments') end`
+`       args = lib_arg.getArgs(frame) --frame.args`
+`   else`
+`       -- We're being called from another module or from the debug console, so assume`
+`       -- the args are passed in directly.`
+`       if type(frame) ~= type({}) then args = {frame}`
+`       else args = frame end`
+`   end`
+`   return p._meltingPoint(args)`
+
+end
+
+function p._meltingPoint(args)
+
+`   --去除模板引用時可能產生的空格`
+`   eleString='' if (args[1] and args[1] ~= '') then eleString = string.gsub(args[1] , "%s$", "") else return '' end`
+`   eleid = p.getListID(eleString)`
+`   ele1 = element_data[eleid]`
+`   if (eleid==-1) then`
+`       return ''`
+`   end`
+`   if (ele1.Melting and ele1.Melting ~= '') then`
+`       return ele1.Melting`
+`   end`
+`   return ''`
+
+end
+
+function p._getName(args)
+
+`   --去除模板引用時可能產生的空格`
+`   eleString='' if (args[1] and args[1] ~= '') then eleString = string.gsub(args[1] , "%s$", "") else return error.error{ '未輸入元素' } end`
+
+`   eleid = p.getListID(eleString)`
+`   ele1 = element_data[eleid]`
+`   if (eleid==-1) then`
+`       return error.error{ '未知的元素“' .. args[1] .. '”' } .. ''`
+`   end`
+`   return ele1.name`
+
+end
+
+function p._check(args)
 
 `   --去除模板引用時可能產生的空格`
 `   eleString='' if (args[1] and args[1] ~= '') then eleString = string.gsub(args[1] , "%s$", "") else return error.error{ '未輸入元素' } end`
@@ -278,14 +494,19 @@ function p._symbol(args)
 `   myString = string.gsub(args[1] , "%s$", "") --去除模板引用時可能產生的空格`
 `   eleid = p.getListID(myString)`
 `   if (eleid==-1) then`
+`       if(tonumber(myString) or -1 > 0)then`
+`           local ele_tmp = p.getElementByZ(tonumber(myString))`
+`           if(ele_tmp and ele_tmp.Symbol)then return ele_tmp.Symbol end`
+`       end`
 `       return error.error{ '未知的元素“' .. args[1] .. '”' } .. ''`
 `   end`
 `   ele1 = element_data[eleid]`
 `   if(ele1.NotElement)then`
 `       return ele1.Symbol`
 `   end`
-`   num = ele1.Z + ele1.N --計算質量數`
-`   n = ele1.N`
+`   if (ele1.Z == nil) then return ele1.Symbol end`
+`   num = ele1.Z + (ele1.N or 0) --計算質量數`
+`   n = (ele1.N or 0)`
 `   number=tonumber(args[2])`
 `   if (number and number  ~= '') then`
 `       num = number`
@@ -361,9 +582,91 @@ function p._link(args)
 
 end
 
+\--This notation states that the various sources on Earth have
+substantially different isotopic constitutions, and uncertainties are
+incorporated in the two numbers. For these elements, there is not an
+'Earth average' constitution, and the 'right' value is not its middle
+p.conventional_atomic_weight={H=1.008,Li=6.941,B=10.81,C=12.011,N=14.007,O=15.999,Mg=24.305,Si=28.085,S=32.04,Cl=35.45,Ar=39.948,Br=79.904,Tl=204.38}
+function p._get_atomic_weight(element)
+
+`   if (element) then`
+`       if(type(element.stdAtomicWeight) == type(0))then return element.stdAtomicWeight , true`
+`       else`
+`           if(p.conventional_atomic_weight[element.Symbol or ''])then return p.conventional_atomic_weight[element.Symbol or ''] , true end`
+`           if(type(element.stdAtomicWeight) == type({0,0}))then return element.stdAtomicWeight[1] , true end`
+`       end`
+`       if (element.Z and element.N) then return (element.Z + element.N) , false end`
+`   end`
+`   return nil`
+
+end
+
+function p._getAtomicWeight(args)
+
+`   --去除模板引用時可能產生的空格`
+`   eleString='' if (args[1] and args[1] ~= '') then eleString = string.gsub(args[1] , "%s$", "") else return '' end`
+`   eleid = p.getListID(eleString)`
+`   ele1 = element_data[eleid]`
+`   if (eleid==-1) then`
+`       return ''`
+`   end`
+`   local Weight, is_natural = p._get_atomic_weight(ele1)`
+`   if Weight then`
+`       if is_natural ~= true then`
+`           return '[' .. Weight ..']'`
+`       end`
+`       return Weight`
+`   end`
+`   return ''`
+
+end
+
+function p._get_phase(element, temperature)
+
+`   local test_temperature = temperature or 298.15 --STP`
+`   if (element) then`
+`       if element.Melting then`
+`           if element.Melting > test_temperature then --STP`
+`               return "solid"`
+`           end`
+`       end`
+`       if element.Boiling then`
+`           if element.Boiling > test_temperature then --STP`
+`               return "liquid"`
+`           else`
+`               return "gas"`
+`           end`
+`       end`
+`   end`
+`   return nil`
+
+end
+
+function p._getPhase(args)
+
+`   --去除模板引用時可能產生的空格`
+`   eleString='' if (args[1] and args[1] ~= '') then eleString = string.gsub(args[1] , "%s$", "") else return '' end`
+`   temperature = 298.15 if (args[2] and args[2] ~= '') then temperature = tonumber( string.gsub(args[1] , "%s$", "") ) or 298.15 end`
+`   eleid = p.getListID(eleString)`
+`   ele1 = element_data[eleid]`
+`   if (eleid==-1) then`
+`       return ''`
+`   end`
+`   return p._get_phase(ele1) or 'unknown'`
+
+end
+
 function p.getListID(names)
 
-`   local body =''         `
+`   local body ='' `
+`   if tonumber(names) or type(names) == type(0) then`
+`       local index = tonumber(names)`
+`       for v, x in ipairs(element_data) do                                `
+`           if (x.Z == index) then`
+`               return  v`
+`           end`
+`       end`
+`   end`
 `   i=1`
 `   for v, x in ipairs(element_data) do                                `
 `       if ((x.name == names) or (x.page == names)) then`
@@ -383,8 +686,17 @@ end
 function p.decaylink(frame)
 
 `   -- For calling from #invoke.`
-`   local pframe = frame:getParent()`
-`   local args = pframe.args`
+`   local args`
+`   if frame == mw.getCurrentFrame() then`
+`       -- We're being called via #invoke. The args are passed through to the module`
+`       -- from the template page, so use the args that were passed into the template.`
+`       if lib_arg.getArgs == nil then lib_arg = require('Module:Arguments') end`
+`       args = lib_arg.getArgs(frame) --frame.args`
+`   else`
+`       -- We're being called from another module or from the debug console, so assume`
+`       -- the args are passed in directly.`
+`       args = frame`
+`   end`
 `   return p._decaylink(args)`
 
 end
@@ -392,8 +704,17 @@ end
 function p.elementlink(frame)
 
 `   -- For calling from #invoke.`
-`   local pframe = frame:getParent()`
-`   local args = pframe.args`
+`   local args`
+`   if frame == mw.getCurrentFrame() then`
+`       -- We're being called via #invoke. The args are passed through to the module`
+`       -- from the template page, so use the args that were passed into the template.`
+`       if lib_arg.getArgs == nil then lib_arg = require('Module:Arguments') end`
+`       args = lib_arg.getArgs(frame) --frame.args`
+`   else`
+`       -- We're being called from another module or from the debug console, so assume`
+`       -- the args are passed in directly.`
+`       args = frame`
+`   end`
 `   return p._elementlink(args)`
 
 end
@@ -505,6 +826,16 @@ function p.DecodeByIUPAC_rules(symbol_data)
 
 end
 
+function p.outputLuaListTemplate()
+
+`   local body=''`
+`   for _, ele in ipairs(element_data) do`
+`       body = body .. "\t[\"" .. ele.name .. "\"] = {  },\n"`
+`   end`
+`   return "{\n" .. body .. '}'`
+
+end
+
 function p.getElementByIUPAC_rules(index_input)
 
 `   result = ''`
@@ -584,8 +915,18 @@ end
 \--本模塊的沙盒(測試)函數 function p.sandbox(frame)
 
 `   -- For calling from #invoke.`
-`   local pframe = frame:getParent()`
-`   local args = pframe.args`
+`   -- For calling from #invoke.`
+`   local args`
+`   if frame == mw.getCurrentFrame() then`
+`       -- We're being called via #invoke. The args are passed through to the module`
+`       -- from the template page, so use the args that were passed into the template.`
+`       if lib_arg.getArgs == nil then lib_arg = require('Module:Arguments') end`
+`       args = lib_arg.getArgs(frame) --frame.args`
+`   else`
+`       -- We're being called from another module or from the debug console, so assume`
+`       -- the args are passed in directly.`
+`       args = frame`
+`   end`
 `   return p._elementlink(args)`
 
 end function p._sandbox(args)
@@ -594,6 +935,7 @@ end function p._sandbox(args)
 
 end return p
 
+[Category:含有錯誤元素符號的條目](https://zh.wikipedia.org/wiki/Category:含有錯誤元素符號的條目 "wikilink")
 [Category:含有錯誤元素符號的條目](https://zh.wikipedia.org/wiki/Category:含有錯誤元素符號的條目 "wikilink")
 [Category:含有錯誤元素符號的條目](https://zh.wikipedia.org/wiki/Category:含有錯誤元素符號的條目 "wikilink")
 [Category:含有錯誤元素符號的條目](https://zh.wikipedia.org/wiki/Category:含有錯誤元素符號的條目 "wikilink")

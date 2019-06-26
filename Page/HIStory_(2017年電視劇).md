@@ -88,7 +88,7 @@ Hero》、《離我遠一點》、《著魔》，每集約20分鐘，一週播�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>奇蹟</p></td>
+<td><p>那一天</p></td>
 <td><center>
 <p>2019年 月 日( )</p></td>
 <td></td>
@@ -293,7 +293,7 @@ Hero》、《離我遠一點》、《著魔》，每集約20分鐘，一週播�
 <p>6</p></td>
 <td><center>
 <p><a href="https://zh.wikipedia.org/wiki/HIStory3#圈套" title="wikilink">圈套</a></p></td>
-<td><p><a href="../Page/徐鈞浩.md" title="wikilink">徐鈞浩</a>、<a href="https://zh.wikipedia.org/wiki/吳承洋" title="wikilink">吳承洋</a>、<a href="../Page/卞慶華.md" title="wikilink">卞慶華</a>、<a href="https://zh.wikipedia.org/wiki/陳廷軒_(演員)" title="wikilink">陳廷軒</a></p></td>
+<td><p><a href="../Page/徐鈞浩.md" title="wikilink">徐鈞浩</a>、<a href="https://zh.wikipedia.org/wiki/吳承洋" title="wikilink">吳承洋</a>、<a href="../Page/卞慶華.md" title="wikilink">卞慶華</a>、<a href="../Page/陳廷軒_(演員).md" title="wikilink">陳廷軒</a></p></td>
 <td><p>林珮瑜</p></td>
 <td><p>李青蓉</p></td>
 </tr>

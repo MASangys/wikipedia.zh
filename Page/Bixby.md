@@ -70,8 +70,7 @@ Bixby分為四個部分，分別稱為「Bixby語音」、「Bixby影像辨識�
 
 #### Galaxy A
 
-  - [三星Galaxy
-    A8s](https://zh.wikipedia.org/wiki/三星Galaxy_A8s "wikilink")
+  - [三星Galaxy A8s](../Page/三星Galaxy_A8s.md "wikilink")
   - [三星Galaxy A9 (2018)](../Page/三星Galaxy_A9_\(2018\).md "wikilink")
   - [三星Galaxy A8
     (2018)](../Page/三星Galaxy_A8_\(2018\).md "wikilink")（包括A8+；只限Bixby主頁、提醒及影像辨識）

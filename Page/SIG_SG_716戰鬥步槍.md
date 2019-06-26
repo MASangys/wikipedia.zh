@@ -18,7 +18,7 @@ SG
 716均採用[馬格普推出](../Page/馬格普工業公司.md "wikilink")、可與[SR-25](../Page/SR-25狙擊步槍.md "wikilink")／[M110共用的可拆卸式](../Page/M110半自動狙擊手系統.md "wikilink")[聚合物製彈匣](../Page/聚合物.md "wikilink")。
 
 2015年，西格&紹爾再推出該槍的最新改進型G2系列（SG 716
-G2）。改進之處在於原來採用四面（頂部、左右兩側和下方）皆具有整體式[MIL-STD-1913戰術導軌的](../Page/皮卡汀尼導軌.md "wikilink")[護木](https://zh.wikipedia.org/wiki/護木 "wikilink")，改為僅在頂部整合導軌的輕型護木，左右側和底部都具有或（僅早期型）接口，在需要時才藉以加裝一小段導軌或直接用以裝上戰術附件。
+G2）。改進之處在於原來採用四面（頂部、左右兩側和下方）皆具有整體式[MIL-STD-1913戰術導軌的](../Page/皮卡汀尼導軌.md "wikilink")[護木](https://zh.wikipedia.org/wiki/護木 "wikilink")，改為僅在頂部整合導軌的輕型護木，左右側和底部都具有或[M-LOK附件安裝界面系統](../Page/M-LOK.md "wikilink")，在需要時才藉以加裝一小段導軌或直接用以裝上戰術附件。
 
 ## 設計細節
 
@@ -56,7 +56,7 @@ SG
 716在AR-10式步槍之上進行了構圖。保險桿安裝在槍身左側、上方，可以由射擊手的[拇指來操作使用](https://zh.wikipedia.org/wiki/拇指 "wikilink")。除了特等射手型以外，所有SIG
 SG
 716型號都配有一根由自由浮動式[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")[護木所籠罩的](https://zh.wikipedia.org/wiki/護木 "wikilink")406.4毫米（16英吋）槍管，以及由[西格&紹爾公司翻轉式後備](../Page/西格&紹爾.md "wikilink")[機械瞄具](../Page/機械瞄具.md "wikilink")。SIG
-SG 716是以擊發，而除了SG
+SG 716是以[擊錘擊發](https://zh.wikipedia.org/wiki/擊錘 "wikilink")，而除了SG
 716精確射手步槍型具有[兩道火扳機外](https://zh.wikipedia.org/wiki/兩道火扳機 "wikilink")，其他所有型號則具有軍用規格的一道火扳機。
 
 #### 導氣箍

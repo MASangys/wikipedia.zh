@@ -1,5 +1,5 @@
-《W FACE ～inside～》、《W FACE
-～outside～》為[日本女歌手](../Page/日本.md "wikilink")[倖田來未於](../Page/倖田來未.md "wikilink")2017年3月8日發行的第13、14張原創專輯。
+《**W FACE ～inside～**》、《**W FACE
+～outside～**》為[日本女歌手](../Page/日本.md "wikilink")[倖田來未於](../Page/倖田來未.md "wikilink")2017年3月8日發行的第13、14張[原創專輯](https://zh.wikipedia.org/wiki/原創專輯 "wikilink")。
 
 ## 簡介
 

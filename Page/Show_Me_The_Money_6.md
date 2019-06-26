@@ -5,7 +5,8 @@ Money系列的第六季](../Page/Show_Me_The_Money.md "wikilink")，\[1\]于2017
 
 SMTM第六季的4组制作人团队分别由[Zico](https://zh.wikipedia.org/wiki/Zico_\(歌手\) "wikilink")、[DEAN](https://zh.wikipedia.org/wiki/权革 "wikilink")；\[3\][朴載範](../Page/朴載範.md "wikilink")、[Dok2](../Page/Dok2.md "wikilink")；\[4\][Dynamic
 Duo的](../Page/Dynamic_Duo.md "wikilink")、\[5\]和、\[6\]组成。\[7\]此季吸引了比往季更多的参赛者，超过13000名选手参赛也是SMTM历史上参赛人数最多的一季，包括、、NO:EL\[8\]、[Hanhae](https://zh.wikipedia.org/wiki/Hanhae "wikilink")\[9\]、、、、Candle、[Junoflo](../Page/Junoflo.md "wikilink")、、、、、Ja
-Mezz、、、、、、、、、[Untouchable成员](../Page/Untouchable_\(韓國團體\).md "wikilink")[Sleepy](https://zh.wikipedia.org/wiki/Sleepy "wikilink")\[10\]、、[TEEN
+Mezz、[Boi
+B](../Page/Rhythm_Power.md "wikilink")、[地球人](../Page/Rhythm_Power.md "wikilink")、、、、、、、[Untouchable成员](../Page/Untouchable_\(韓國團體\).md "wikilink")[Sleepy](https://zh.wikipedia.org/wiki/Sleepy "wikilink")\[10\]、、[TEEN
 TOP成员](https://zh.wikipedia.org/wiki/TEEN_TOP "wikilink")[创造](../Page/創造_\(歌手\).md "wikilink")\[11\]、珍岛狗、PENOMECO、JJK、Rudals和SMTM第一季的制作人\[12\]等在内的众多韩国Hiphop界知名或小有名气的Rapper均报名参加了此季的海选。优胜者将获得1亿韩元奖金及一辆[雪佛兰科迈罗汽车](https://zh.wikipedia.org/wiki/雪佛兰科迈罗 "wikilink")。
 
 节目继上季首次在韩国之外的西海岸Hiphop发源地美国[洛杉矶进行海选后](../Page/洛杉矶.md "wikilink")，此季除依旧在美国洛杉矶海选外，又首次于东海岸Hiphop发源地美国[纽约进行了海选](../Page/纽约.md "wikilink")，在纽约海选现场还特邀美国知名音乐人担任特别评审。

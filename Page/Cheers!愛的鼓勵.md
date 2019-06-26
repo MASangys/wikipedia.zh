@@ -67,6 +67,7 @@
 
 [Category:啦啦隊](https://zh.wikipedia.org/wiki/Category:啦啦隊 "wikilink")
 [Category:體育題材作品](https://zh.wikipedia.org/wiki/Category:體育題材作品 "wikilink")
+[Category:月刊Comic_Alive](https://zh.wikipedia.org/wiki/Category:月刊Comic_Alive "wikilink")
 
 1.
 2.

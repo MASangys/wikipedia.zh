@@ -38,7 +38,7 @@ BEIJING\!\!**》是2011年12月7日在[日本发行的](../Page/日本.md "wikil
 3.  **Concert Opening**
 4.  **[This is love](../Page/This_is_love.md "wikilink")**
 5.  **[SWING](../Page/We_are_SMAP!.md "wikilink")**
-6.  ****
+6.  **[SHAKE](../Page/SHAKE_\(SMAP单曲\).md "wikilink")**
 7.  **Document**
 8.  **[月亮代表我的心](../Page/月亮代表我的心.md "wikilink")**
 9.  ****

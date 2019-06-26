@@ -355,6 +355,13 @@ K-POP大獎](../Page/Gaon_Chart_K-POP大獎.md "wikilink")」均獲頒最佳新�
 <td><p>〈LOVE SCENARIO〉</p></td>
 <td><p>最佳饒舌嘻哈音樂獎</p></td>
 <td></td>
+<td><p>[7]</p></td>
+</tr>
+<tr class="even">
+<td><p>iKON</p></td>
+<td><p>最佳男團</p></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>
@@ -378,7 +385,7 @@ K-POP大獎](../Page/Gaon_Chart_K-POP大獎.md "wikilink")」均獲頒最佳新�
 <td><p>〈LOVE SCENARIO〉</p></td>
 <td><p><strong>最佳年度歌曲獎</strong></p></td>
 <td></td>
-<td><p>[7]</p></td>
+<td><p>[8]</p></td>
 </tr>
 <tr class="even">
 <td><p>iKON</p></td>
@@ -410,7 +417,7 @@ K-POP大獎](../Page/Gaon_Chart_K-POP大獎.md "wikilink")」均獲頒最佳新�
 <td><p>最佳男子組合</p></td>
 <td><p>iKON</p></td>
 <td></td>
-<td><p>[8]</p></td>
+<td><p>[9]</p></td>
 </tr>
 </tbody>
 </table>
@@ -433,7 +440,7 @@ K-POP大獎](../Page/Gaon_Chart_K-POP大獎.md "wikilink")」均獲頒最佳新�
 <td><p>iKON</p></td>
 <td><p>亞洲影響力最受歡迎韓國組合獎</p></td>
 <td></td>
-<td><p>[9]</p></td>
+<td><p>[10]</p></td>
 </tr>
 </tbody>
 </table>
@@ -456,7 +463,7 @@ K-POP大獎](../Page/Gaon_Chart_K-POP大獎.md "wikilink")」均獲頒最佳新�
 <td><p>iKON</p></td>
 <td><p>新人獎</p></td>
 <td></td>
-<td><p>[10]</p></td>
+<td><p>[11]</p></td>
 </tr>
 <tr class="even">
 <td><p>最佳新人獎</p></td>
@@ -486,7 +493,7 @@ K-POP大獎](../Page/Gaon_Chart_K-POP大獎.md "wikilink")」均獲頒最佳新�
 <td><p>iKON</p></td>
 <td><p>年度最佳新人（亞洲區）</p></td>
 <td></td>
-<td><p>[11]</p></td>
+<td><p>[12]</p></td>
 </tr>
 <tr class="even">
 <td><p>最佳三大新人（亞洲區）</p></td>
@@ -516,7 +523,7 @@ K-POP大獎](../Page/Gaon_Chart_K-POP大獎.md "wikilink")」均獲頒最佳新�
 <td><p>iKON</p></td>
 <td><p>最有態度實力團體獎</p></td>
 <td></td>
-<td><p>[12]</p></td>
+<td><p>[13]</p></td>
 </tr>
 </tbody>
 </table>
@@ -571,7 +578,7 @@ K-POP大獎](../Page/Gaon_Chart_K-POP大獎.md "wikilink")」均獲頒最佳新�
 <td><p>《<a href="../Page/WELCOME_BACK_(iKON韓語專輯).md" title="wikilink">My Type</a>》</p></td>
 <td><p>每週人氣獎（9月28日）</p></td>
 <td></td>
-<td><p>[13]</p></td>
+<td><p>[14]</p></td>
 </tr>
 <tr class="even">
 <td><p>每週人氣獎（10月5日）</p></td>
@@ -634,7 +641,7 @@ K-POP大獎](../Page/Gaon_Chart_K-POP大獎.md "wikilink")」均獲頒最佳新�
 <td><p>《Love Scenario》</p></td>
 <td><p>每週人氣獎（2月5日）</p></td>
 <td></td>
-<td><p>[14]</p></td>
+<td><p>[15]</p></td>
 </tr>
 <tr class="odd">
 <td><p>每週人氣獎（2月12日）</p></td>
@@ -685,7 +692,7 @@ K-POP大獎](../Page/Gaon_Chart_K-POP大獎.md "wikilink")」均獲頒最佳新�
 <td><p>iKON</p></td>
 <td><p>最佳新人組合獎</p></td>
 <td></td>
-<td><p>[15]</p></td>
+<td><p>[16]</p></td>
 </tr>
 </tbody>
 </table>
@@ -718,7 +725,7 @@ K-POP大獎](../Page/Gaon_Chart_K-POP大獎.md "wikilink")」均獲頒最佳新�
 
 | 年份     | 日期           | 獲獎歌曲                 | 專輯                                                                | 來源     |
 | ------ | ------------ | -------------------- | ----------------------------------------------------------------- | ------ |
-| 2015年  | 9月26日        | My Type              | 《[Welcome Back](../Page/WELCOME_BACK_\(iKON韓語專輯\).md "wikilink")》 | \[16\] |
+| 2015年  | 9月26日        | My Type              | 《[Welcome Back](../Page/WELCOME_BACK_\(iKON韓語專輯\).md "wikilink")》 | \[17\] |
 | 2018年  | 2月24日        | Love Scenario        | 《[Return](../Page/Return_\(iKON專輯\).md "wikilink")》               |        |
 | 3月3日   |              |                      |                                                                   |        |
 | 3月10日  |              |                      |                                                                   |        |
@@ -728,9 +735,9 @@ K-POP大獎](../Page/Gaon_Chart_K-POP大獎.md "wikilink")」均獲頒最佳新�
 
 | 年份     | 日期           | 獲獎歌曲                 | 專輯                                                                | 來源     |
 | ------ | ------------ | -------------------- | ----------------------------------------------------------------- | ------ |
-| 2015年  | 9月27日        | My Type              | 《[Welcome Back](../Page/WELCOME_BACK_\(iKON韓語專輯\).md "wikilink")》 | \[17\] |
-| 10月4日  | \[18\]       |                      |                                                                   |        |
-| 11月29日 | Apology      | \[19\]               |                                                                   |        |
+| 2015年  | 9月27日        | My Type              | 《[Welcome Back](../Page/WELCOME_BACK_\(iKON韓語專輯\).md "wikilink")》 | \[18\] |
+| 10月4日  | \[19\]       |                      |                                                                   |        |
+| 11月29日 | Apology      | \[20\]               |                                                                   |        |
 | 2018年  | 2月18日        | Love Scenario        | 《[Return](../Page/Return_\(iKON專輯\).md "wikilink")》               |        |
 | 2月25日  |              |                      |                                                                   |        |
 | 3月4日   |              |                      |                                                                   |        |
@@ -740,9 +747,9 @@ K-POP大獎](../Page/Gaon_Chart_K-POP大獎.md "wikilink")」均獲頒最佳新�
 
 | 年份     | 日期           | 獲獎歌曲                 | 專輯                                                                | 來源     |
 | ------ | ------------ | -------------------- | ----------------------------------------------------------------- | ------ |
-| 2015年  | 10月8日        | Rhythm Ta            | 《[Welcome Back](../Page/WELCOME_BACK_\(iKON韓語專輯\).md "wikilink")》 | \[20\] |
-| 2016年  | 1月14日        | Dumb & Dumber        | \[21\]                                                            |        |
-| 1月21日  | \[22\]       |                      |                                                                   |        |
+| 2015年  | 10月8日        | Rhythm Ta            | 《[Welcome Back](../Page/WELCOME_BACK_\(iKON韓語專輯\).md "wikilink")》 | \[21\] |
+| 2016年  | 1月14日        | Dumb & Dumber        | \[22\]                                                            |        |
+| 1月21日  | \[23\]       |                      |                                                                   |        |
 | 1月28日  |              |                      |                                                                   |        |
 | 2018年  | 2月1日         | Love Scenario        | 《[Return](../Page/Return_\(iKON專輯\).md "wikilink")》               |        |
 | 3月1日   |              |                      |                                                                   |        |
@@ -793,3 +800,4 @@ K-POP大獎](../Page/Gaon_Chart_K-POP大獎.md "wikilink")」均獲頒最佳新�
 20.
 21.
 22.
+23.

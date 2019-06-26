@@ -381,7 +381,7 @@ Rap：、Loco、<a href="../Page/Skull_(歌手).md" title="wikilink">Skull</a></
 <tr class="even">
 <td><p>2017年1月25日</p></td>
 <td><p>Think About' Chu</p></td>
-<td><p>、Loco</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Sam_Kim" title="wikilink">Sam Kim</a>、Loco</p></td>
 <td><p>《Boys and Girls Music Vol.1》[12]</p></td>
 <td><p>Rap：Loco</p></td>
 </tr>

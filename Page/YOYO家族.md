@@ -1,4 +1,4 @@
-YOYO家族為[東森電視旗下頻道](../Page/東森電視.md "wikilink")[東森幼幼台所屬兒童音樂組合](../Page/東森幼幼台.md "wikilink")，於2000年組成，以[水果](https://zh.wikipedia.org/wiki/水果 "wikilink")、[昆蟲](https://zh.wikipedia.org/wiki/昆蟲 "wikilink")、[天空](../Page/天空.md "wikilink")、[動物等名稱為藝名](https://zh.wikipedia.org/wiki/動物 "wikilink")，由於主持兒童節目，在兒童間廣受歡迎\[1\]。
+YOYO家族為[東森電視旗下頻道](../Page/東森電視.md "wikilink")[東森幼幼台所屬兒童音樂組合](../Page/東森幼幼台.md "wikilink")，於2000年成立，以[水果](https://zh.wikipedia.org/wiki/水果 "wikilink")、[昆蟲](https://zh.wikipedia.org/wiki/昆蟲 "wikilink")、[天空](../Page/天空.md "wikilink")、[動物等名稱為](https://zh.wikipedia.org/wiki/動物 "wikilink")[藝名](../Page/藝名.md "wikilink")，由於[主持](https://zh.wikipedia.org/wiki/主持 "wikilink")[兒童節目](https://zh.wikipedia.org/wiki/兒童節目 "wikilink")，在兒童間廣受歡迎\[1\]。
 
 ## 成員
 
@@ -35,7 +35,7 @@ YOYO家族為[東森電視旗下頻道](../Page/東森電視.md "wikilink")[東�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/香蕉哥哥.md" title="wikilink">香蕉哥哥</a></p></td>
+<td></td>
 <td><p>林掄元</p></td>
 <td><p>1期</p></td>
 <td><p>2000年 -</p></td>
@@ -44,7 +44,7 @@ YOYO家族為[東森電視旗下頻道](../Page/東森電視.md "wikilink")[東�
 <td><p>金牛座</p></td>
 <td><p>A型</p></td>
 <td><p>1－13</p></td>
-<td><p>已婚，2018年3月宣布與草莓姐姐結婚</p></td>
+<td><p>已婚，2018年3月宣布與<a href="../Page/草莓姐姐.md" title="wikilink">草莓姐姐結婚</a></p></td>
 <td><p><br />
 黃色</p></td>
 </tr>
@@ -73,7 +73,7 @@ YOYO家族為[東森電視旗下頻道](../Page/東森電視.md "wikilink")[東�
 <td><p>水瓶座</p></td>
 <td><p>A型</p></td>
 <td><p>6－13</p></td>
-<td><p>已婚，2018年3月宣布與香蕉哥哥結婚</p></td>
+<td><p>已婚，2018年3月宣布與<a href="../Page/香蕉哥哥.md" title="wikilink">香蕉哥哥結婚</a></p></td>
 <td><p><br />
 粉紅色</p></td>
 </tr>
@@ -162,7 +162,7 @@ YOYO家族為[東森電視旗下頻道](../Page/東森電視.md "wikilink")[東�
 紫色</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/羚羊哥哥" title="wikilink">羚羊哥哥</a></p></td>
+<td><p><a href="../Page/羚羊哥哥.md" title="wikilink">羚羊哥哥</a></p></td>
 <td><p>吳鎮安</p></td>
 <td><p><a href="../Page/6月18日.md" title="wikilink">6月18日</a></p></td>
 <td><p>雙子座</p></td>
@@ -253,7 +253,7 @@ YOYO家族為[東森電視旗下頻道](../Page/東森電視.md "wikilink")[東�
 綠色</p></td>
 </tr>
 <tr class="odd">
-<td><p>橘子姐姐</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/橘子姐姐（第一代）" title="wikilink">橘子姐姐</a></p></td>
 <td><p>吳沛珊</p></td>
 <td></td>
 <td></td>
@@ -347,7 +347,7 @@ YOYO家族為[東森電視旗下頻道](../Page/東森電視.md "wikilink")[東�
 <td><p>水瓶座</p></td>
 <td><p>O型</p></td>
 <td><p>6－7、9</p></td>
-<td><p>因服役未參與第八張專輯</p></td>
+<td><p>因服役未參與第八張專輯（<a href="https://zh.wikipedia.org/wiki/動物音樂課" title="wikilink">動物音樂課專輯</a>）</p></td>
 <td><p><br />
 綠色</p></td>
 </tr>
@@ -367,7 +367,7 @@ YOYO家族為[東森電視旗下頻道](../Page/東森電視.md "wikilink")[東�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/星星哥哥" title="wikilink">星星哥哥</a></p></td>
+<td><p><a href="../Page/星星哥哥.md" title="wikilink">星星哥哥</a></p></td>
 <td><p>宋孟帆</p></td>
 <td><p>6期</p></td>
 <td><p>2009年 - 2014年</p></td>

@@ -1011,7 +1011,7 @@ Tenzo</p></td>
 <td><p><a href="../Page/尹賢淑.md" title="wikilink">尹賢淑</a>、黃賢旻、申成彬、<br />
 金賢中（）</p></td>
 <td><p>我不停止<small>（）</small></p></td>
-<td><p>、<a href="../Page/權珍雅.md" title="wikilink">權珍雅</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Sam_Kim" title="wikilink">Sam Kim</a>、<a href="../Page/權珍雅.md" title="wikilink">權珍雅</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1525,7 +1525,7 @@ Linzy（<a href="../Page/FIESTAR.md" title="wikilink">FIESTAR</a>）</p></td>
 <td><p>在錫隊</p></td>
 <td></td>
 <td><p>我愛你<small>（）</small></p></td>
-<td></td>
+<td><p><a href="../Page/Forestella.md" title="wikilink">Forestella</a></p></td>
 <td><p>在錫隊</p></td>
 <td><p><small><a href="../Page/孫藝真.md" title="wikilink">孫藝真影像出演</a></small></p></td>
 </tr>

@@ -481,13 +481,14 @@ CD+DVD盤</p></td>
 <!-- end list -->
 
   - LOVE LIVE\! SUNSHINE\!\! Aqours World LoveLive\! ASIA TOUR 2019
-    首次[亚洲巡回演唱会](../Page/亚洲.md "wikilink")。分别于2019年3月23日和24日在[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")[国家会展中心虹馆EH](https://zh.wikipedia.org/wiki/国家会展中心_\(上海\) "wikilink")、4月6日和7日在[台北](https://zh.wikipedia.org/wiki/台北 "wikilink")[国际会议中心](https://zh.wikipedia.org/wiki/台北国际会议中心 "wikilink")、预定4月13日和14日在[千叶](https://zh.wikipedia.org/wiki/千叶市 "wikilink")[幕张展览馆](https://zh.wikipedia.org/wiki/幕张展览馆 "wikilink")、4月20日和21日在[首尔](https://zh.wikipedia.org/wiki/首尔 "wikilink")[高丽大学化汀体育馆举行](https://zh.wikipedia.org/wiki/高丽大学 "wikilink")。
+    首次[亚洲巡回演唱会](../Page/亚洲.md "wikilink")。分别于2019年3月23日和24日在[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")[国家会展中心虹馆EH](https://zh.wikipedia.org/wiki/国家会展中心_\(上海\) "wikilink")、4月6日和7日在[台北](https://zh.wikipedia.org/wiki/台北 "wikilink")[国际会议中心](https://zh.wikipedia.org/wiki/台北国际会议中心 "wikilink")、4月13日和14日在[千叶](https://zh.wikipedia.org/wiki/千叶市 "wikilink")[幕张展览馆](https://zh.wikipedia.org/wiki/幕张展览馆 "wikilink")、4月20日和21日在[首尔](https://zh.wikipedia.org/wiki/首尔 "wikilink")[高丽大学化汀体育馆举行](https://zh.wikipedia.org/wiki/高丽大学 "wikilink")。
     成员[小宫有纱因身体不适缺席了上海和台北两站第一天的部分演出及第二天的全部演出](https://zh.wikipedia.org/wiki/小宫有纱 "wikilink")，其后被确诊为[荨麻疹](../Page/荨麻疹.md "wikilink")，缺席东京站和首尔站的全部演出。
 
 <!-- end list -->
 
-  - LoveLive\! Sunshine\!\! Aqours 5th LoveLive\! （）
-    预定于2019年6月8日、9日在埼玉大都會人壽巨蛋举办的演唱会。这也是西武巨蛋第三次承办Aqours演唱会。
+  - LoveLive\! Sunshine\!\! Aqours 5th LoveLive\! ～Next SPARKLING\!\!～
+    （）
+    于2019年6月8日、9日在埼玉大都會人壽巨蛋举办的演唱会。这也是西武巨蛋第三次承办Aqours演唱会。
 
 ## 注释
 

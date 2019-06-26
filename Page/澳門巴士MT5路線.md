@@ -1,4 +1,4 @@
-**澳門巴士MT5路線**是一條由[澳門公共汽車有限公司經營](https://zh.wikipedia.org/wiki/澳門公共汽車有限公司 "wikilink")，往返**[湖畔大廈](https://zh.wikipedia.org/wiki/湖畔大廈_\(總站\) "wikilink")**和**[皇朝](../Page/新口岸新填海區.md "wikilink")**的循環巴士路線。
+**澳門巴士MT5路線**是一條由**[澳門公共汽車有限公司](https://zh.wikipedia.org/wiki/澳門公共汽車有限公司 "wikilink")**經營，往返**[湖畔大廈](https://zh.wikipedia.org/wiki/湖畔大廈_\(總站\) "wikilink")**和**[皇朝](../Page/新口岸新填海區.md "wikilink")**的循環巴士路線。
 
 ## 簡介及歷史
 

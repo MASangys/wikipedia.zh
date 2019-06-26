@@ -7,7 +7,7 @@ Vanhoef和[鲁汶大学Frank](https://zh.wikipedia.org/wiki/荷语天主教鲁�
 Piessens发现。\[2\]Vanhoef的研究小组于2017年10月公布了此攻击的有关细节。\[3\]\[4\]\[5\]\[6\]
 
 此漏洞影响所有主要软件平台，包括[Microsoft
-Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[macOS](https://zh.wikipedia.org/wiki/macOS "wikilink")、[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[Android以及](../Page/Android.md "wikilink")[Linux](../Page/Linux.md "wikilink")。被Linux、Android和[OpenBSD广泛使用的开源实现](../Page/OpenBSD.md "wikilink")尤易受到影响，其可以被操纵安装全零的[加密密钥](https://zh.wikipedia.org/wiki/密钥 "wikilink")，从而在[中间人攻击中有效消除WPA](../Page/中间人攻击.md "wikilink")2的防护能力。\[7\]\[8\]
+Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[macOS](https://zh.wikipedia.org/wiki/macOS "wikilink")、[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[Android以及](../Page/Android.md "wikilink")[Linux](../Page/Linux.md "wikilink")。被Linux、Android和[OpenBSD广泛使用的开源实现](../Page/OpenBSD.md "wikilink")尤易受到影响，其可以被操纵安装全零的[加密密钥](../Page/密钥.md "wikilink")，从而在[中间人攻击中有效消除WPA](../Page/中间人攻击.md "wikilink")2的防护能力。\[7\]\[8\]
 
 ## 细节
 

@@ -243,7 +243,7 @@ ViuTV
 <td></td>
 </tr>
 <tr class="even">
-<td><p>《<a href="https://zh.wikipedia.org/wiki/一拳超人" title="wikilink">一拳超人</a>》</p></td>
+<td><p>《<a href="../Page/一拳超人.md" title="wikilink">一拳超人</a>》</p></td>
 <td></td>
 <td><p>播映完畢</p></td>
 <td><p>《》介紹節目之一</p></td>

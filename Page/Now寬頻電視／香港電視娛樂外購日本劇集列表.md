@@ -1199,7 +1199,7 @@
 <td><p>8月2日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Now觀星台" title="wikilink">Now觀星台</a></p></td>
 <td></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/吉田鋼太郎" title="wikilink">吉田鋼太郎</a></p></td>
 <td><p><a href="../Page/高畑充希.md" title="wikilink">高畑充希</a><br />
 <a href="../Page/片桐仁.md" title="wikilink">片桐仁</a></p></td>
 <td><p>12</p></td>

@@ -1,5 +1,5 @@
 **-{zh-tw:費力克斯;zh-cn:菲力克斯;zh-hk:菲力士;}-·加里·格雷**（，），非洲裔美国电影导演、监制和MV导演。\[1\]
-代表作有《[王牌对王牌](../Page/王牌对王牌.md "wikilink")》、《[天羅盜網](../Page/天羅盜網.md "wikilink")》、《[冲出康普顿](../Page/冲出康普顿.md "wikilink")》和《[玩命關頭8](../Page/玩命關頭8.md "wikilink")》
+代表作有《[王牌对王牌](../Page/王牌对王牌.md "wikilink")》、《[天羅盜網](../Page/天羅盜網.md "wikilink")》、《[冲出康普顿](../Page/冲出康普顿.md "wikilink")》和《[玩命關頭8](../Page/玩命關頭8.md "wikilink")》。
 
 ## 生平
 
@@ -22,7 +22,7 @@ Was a Good Day"，1995年，执导了首部电影《[星期五](../Page/星期�
 
   - [天羅盜網](../Page/天羅盜網.md "wikilink")/*The Italian Job* (2003) (导演)
 
-  - [單刀直入](../Page/單刀直入.md "wikilink")/*A Man Apart* (2003) (导演/执行监制)
+  - [火遮眼](../Page/單刀直入.md "wikilink")/*A Man Apart* (2003) (导演/执行监制)
 
   - /*Be Cool* (2005) (导演/执行监制)
 
@@ -115,7 +115,7 @@ Was a Good Day"，1995年，执导了首部电影《[星期五](../Page/星期�
 [Category:非洲裔美国电影导演](https://zh.wikipedia.org/wiki/Category:非洲裔美国电影导演 "wikilink")
 [Category:美国电影监制](https://zh.wikipedia.org/wiki/Category:美国电影监制 "wikilink")
 [Category:纽约市人](https://zh.wikipedia.org/wiki/Category:纽约市人 "wikilink")
-[Category:美国MV导演](https://zh.wikipedia.org/wiki/Category:美国MV导演 "wikilink")
+[Category:美國音樂影片導演](https://zh.wikipedia.org/wiki/Category:美國音樂影片導演 "wikilink")
 [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
 
 1.

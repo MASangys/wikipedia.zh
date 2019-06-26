@@ -108,7 +108,7 @@ Boogie Playboys的歌雖然大多數以粵語創作，但歌名則全部附有�
 ### 其他作品
 
   - **深水灣**
-    為[叱咤903節目](https://zh.wikipedia.org/wiki/叱咤903 "wikilink")《生活日常》[jingle](https://zh.wikipedia.org/wiki/jingle "wikilink")。
+    為[叱咤903節目](../Page/叱咤903.md "wikilink")《生活日常》[jingle](https://zh.wikipedia.org/wiki/jingle "wikilink")。
 
 ## 派台歌曲成績
 

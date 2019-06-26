@@ -132,7 +132,7 @@
 <tr class="odd">
 <td><p><a href="../Page/异度神剑2.md" title="wikilink">异度神剑2</a></p></td>
 <td><p>2017年12月1日</p></td>
-<td><p>data-sort-value="153"|153万[16]</p></td>
+<td><p>data-sort-value="173"|173万[16]</p></td>
 <td><p><a href="../Page/角色扮演游戏.md" title="wikilink">角色扮演</a></p></td>
 <td><p>是</p></td>
 <td><p><a href="../Page/Monolith_Soft.md" title="wikilink">Monolith Soft</a></p></td>
@@ -227,7 +227,7 @@ Devolver Digital</p></td>
 
 15.
 
-16. (截至2018年9月30日)
+16. (截至2019年3月)
 
 17.
 

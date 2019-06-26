@@ -2,11 +2,12 @@
 **Petya**是一种在2016年被首次发现的[勒索軟體](../Page/勒索軟體.md "wikilink")\[1\]。2017年6月，Petya的一个新变种「NotPetya」被用于发动一次的[网络攻击](https://zh.wikipedia.org/wiki/攻擊_\(電腦\) "wikilink")。\[2\]\[3\]\[4\]\[5\]\[6\]\[7\]
 
 [Petya.Random.png](https://zh.wikipedia.org/wiki/File:Petya.Random.png "fig:Petya.Random.png")
-此次攻击类似在2017年5月爆发的[WannaCry勒索攻击](../Page/WannaCry.md "wikilink")，两者都利用同一个已修复的Windows安全漏洞——[EternalBlue](../Page/永恒之蓝.md "wikilink")（永恒之蓝）。\[8\][乌克兰可能是此次事件中遭受最严重影响的国家](../Page/乌克兰.md "wikilink")。\[9\]有观点认为此次网络攻击是对乌克兰的一次政治目的的攻击\[10\]，论据是6月28日为[乌克兰人的](https://zh.wikipedia.org/wiki/乌克兰人 "wikilink")。\[11\]
+此次攻击类似在2017年5月爆发的[WannaCry勒索攻击](../Page/WannaCry.md "wikilink")，两者都利用同一个已修复的Windows安全漏洞——[EternalBlue](../Page/永恒之蓝.md "wikilink")（永恒之蓝）。\[8\][乌克兰可能是此次事件中遭受最严重影响的国家](../Page/乌克兰.md "wikilink")。\[9\]有观点认为此次网络攻击是对乌克兰的一次政治目的的攻击\[10\]，论据是6月28日为[乌克兰人的](https://zh.wikipedia.org/wiki/乌克兰人 "wikilink")[公众假期](https://zh.wikipedia.org/wiki/公众假期 "wikilink")。\[11\]
 
 ## 背景
 
-Petya于2016年3月发现\[12\]；指出，相较于[CryptoWall等](../Page/CryptoLocker.md "wikilink")2016年初活跃的其他蠕虫病毒，感染数目要少，且运行过程中有值得注意的差别，导致Petya“进入蠕虫病毒进化下一步时立即衰弱”\[13\]。2016年5月发现的另一个Petya变体附带辅助的[有效负载](https://zh.wikipedia.org/wiki/有效负载 "wikilink")，若恶意软件无法实现[管理员层级的访问时便会生效](../Page/超级用户.md "wikilink")\[14\]。
+Petya于2016年3月发现\[12\]；[Check
+Point指出](https://zh.wikipedia.org/wiki/Check_Point "wikilink")，相较于[CryptoWall等](../Page/CryptoLocker.md "wikilink")2016年初活跃的其他蠕虫病毒，感染数目要少，且运行过程中有值得注意的差别，导致Petya“进入蠕虫病毒进化下一步时立即衰弱”\[13\]。2016年5月发现的另一个Petya变体附带辅助的[有效负载](https://zh.wikipedia.org/wiki/有效负载 "wikilink")，若恶意软件无法实现[管理员层级的访问时便会生效](../Page/超级用户.md "wikilink")\[14\]。
 
 名字Petya、Mischa和Goldeneye源于1995年[詹姆斯·邦德电影](https://zh.wikipedia.org/wiki/詹姆斯·邦德 "wikilink")《[黄金眼](https://zh.wikipedia.org/wiki/黄金眼 "wikilink")》。影片中，Petya和Mischa是武器卫星，每颗卫星都携带在低地球轨道引爆产生[电磁脉冲的原子弹](../Page/电磁脉冲.md "wikilink")“黄金眼”。德国报纸《》注意到疑似恶意软件作者的[Twitter账户](../Page/Twitter.md "wikilink")，用了《黄金眼》中由英国演员[-{zh-tw:艾倫·康明;
 zh-hk:亞倫·甘明;

@@ -1,5 +1,5 @@
 「**35xxxv**」，日本搖滾樂團[ONE OK
-ROCK於](https://zh.wikipedia.org/wiki/ONE_OK_ROCK "wikilink")2015年2月11日發行的第7張專輯，分為「通常盤」和「初回預定盤」。並於2015年9月25日於全球推出全英文的特別版「**35xxxv
+ROCK於](../Page/ONE_OK_ROCK.md "wikilink")2015年2月11日發行的第7張專輯，分為「通常盤」和「初回預定盤」。並於2015年9月25日於全球推出全英文的特別版「**35xxxv
 Deluxe Edition**」。
 
 ## 簡介
@@ -7,9 +7,8 @@ Deluxe Edition**」。
   - 關於35這個數字，[主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")[Taka在北美巡迴的訪談時提到](https://zh.wikipedia.org/wiki/Taka "wikilink")\[1\]，是因為在美國錄音時經常看到這個數字，覺得這個數字象徵了這次美國錄音的使命，所以作為專輯命名。
   - 與前作『[人生×僕=](../Page/人生×僕=.md "wikilink")』相隔約1年11個月的新作。
   - 「Take Me to the Top」這首歌，原本寫出來是日文歌詞，也覺得日文比較能表現[ONE OK
-    ROCK的特色](https://zh.wikipedia.org/wiki/ONE_OK_ROCK "wikilink")，但是因為想讓更多人認識[ONE
-    OK
-    ROCK](https://zh.wikipedia.org/wiki/ONE_OK_ROCK "wikilink")，所以將其翻譯為英文。
+    ROCK的特色](../Page/ONE_OK_ROCK.md "wikilink")，但是因為想讓更多人認識[ONE OK
+    ROCK](../Page/ONE_OK_ROCK.md "wikilink")，所以將其翻譯為英文。
   - 「Mighty Long Fall」為電影『[神劍闖江湖
     京都大火篇](../Page/神劍闖江湖_京都大火篇.md "wikilink")』的主題曲。
   - 「Heartache」為電影『[浪客劍心：傳說的最後時刻篇](https://zh.wikipedia.org/wiki/浪客劍心：傳說的最後時刻篇 "wikilink")』的片尾曲。
@@ -18,7 +17,7 @@ Deluxe Edition**」。
     with Sirens)」主唱「Kellin Quinn」合作。
   - 曲風更加美式，並且幾乎半數的歌皆為全英文，不是全英文的歌當中，英文歌詞仍佔了大部份，也呼應了樂團於採訪中所說「世界通用的專輯」的想法\[2\]。
   - Oricon排名於銷售當週為專輯排行榜第1名，是[ONE OK
-    ROCK的錄音室作品中首張拿到第一名的](https://zh.wikipedia.org/wiki/ONE_OK_ROCK "wikilink")。
+    ROCK的錄音室作品中首張拿到第一名的](../Page/ONE_OK_ROCK.md "wikilink")。
 
 ## 曲目列表
 
@@ -39,15 +38,14 @@ Deluxe Edition**」。
 ### Deluxe Edition 簡介
 
   - 於[主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")[Taka在北美巡迴的訪談時](https://zh.wikipedia.org/wiki/Taka "wikilink")\[6\]，提到說[ONE
-    OK
-    ROCK一直想出一張全英文的專輯](https://zh.wikipedia.org/wiki/ONE_OK_ROCK "wikilink")，讓更多人認識他們
+    OK ROCK一直想出一張全英文的專輯](../Page/ONE_OK_ROCK.md "wikilink")，讓更多人認識他們
   - **35xxxv Deluxe Edition**中的「Decision」與樂團
     [Issues的Tyler](https://zh.wikipedia.org/wiki/Issues_\(band\) "wikilink")
     Carter合作，並且增加了兩首曲目「Last Dance」與「The Way
     Back」，為總曲目15首的豪華專輯，不過**35xxxv Deluxe
     Edition**中並未有初回限定版的隱藏曲目以及DVD。
   - 「Last Dance」的MV是[ONE OK
-    ROCK第一次和美國導演合作](https://zh.wikipedia.org/wiki/ONE_OK_ROCK "wikilink")，MV中除了男女主角之外，加入了[外星人的元素](../Page/外星人.md "wikilink")，這是導演的主意，並沒有隱含什麼特別的訊息\[7\]。
+    ROCK第一次和美國導演合作](../Page/ONE_OK_ROCK.md "wikilink")，MV中除了男女主角之外，加入了[外星人的元素](../Page/外星人.md "wikilink")，這是導演的主意，並沒有隱含什麼特別的訊息\[7\]。
   - 專輯中收錄的「The Way Back」為英文版，而「The Way Back」的日文版亦於**35xxxv Deluxe
     Edition**發行後的同年10月5日上傳至[Youtube](https://zh.wikipedia.org/wiki/Youtube "wikilink")\[8\]，並同步於[日本](../Page/日本.md "wikilink")[iTunes開賣](https://zh.wikipedia.org/wiki/iTunes "wikilink")。
   - Oricon排名於發售當週亦有第3名的佳績。
@@ -61,7 +59,7 @@ Deluxe Edition**」。
 ## 巡迴演唱會
 
   - 專輯發行之後，[ONE OK
-    ROCK於](https://zh.wikipedia.org/wiki/ONE_OK_ROCK "wikilink")2015年4月宣佈將於當年5月9日展開日本新專輯巡迴演唱會「**ONE
+    ROCK於](../Page/ONE_OK_ROCK.md "wikilink")2015年4月宣佈將於當年5月9日展開日本新專輯巡迴演唱會「**ONE
     OK ROCK 2015 “35xxxv” JAPAN
     TOUR**」\[9\]，並分別於6月、8月、9月宣佈北美、亞洲、歐洲的巡迴演唱會訊息。並於2016年4月6日發布演唱會紀錄[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")/[藍光專輯](https://zh.wikipedia.org/wiki/藍光 "wikilink")「**ONE
     OK ROCK 2015 “35xxxv” JAPAN TOUR LIVE & DOCUMENTARY**」\[10\]

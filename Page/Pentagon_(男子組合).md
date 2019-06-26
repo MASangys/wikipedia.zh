@@ -393,6 +393,7 @@ TOUR」。
 **單曲專輯**
 
   - 2019年：Cosmo
+  - 2019年：Happiness/Sha La La
 
 ## 創作歌曲
 
@@ -405,7 +406,7 @@ TOUR」。
   - 2016年－2017年：PENTAGON的教科書
   - 2016年－2018年：[PENTAGON的私生活](../Page/偶像的私生活.md "wikilink")
   - 2017年：PENTAGON的To Do List
-  - 2017年：PENTAGON的TNL
+  - 2017年－2019年：PENTAGON的TNL
   - 2017年－2019年：Pentory
   - 2018年－2019年：Just Do It Yo\!
 
@@ -431,7 +432,7 @@ TOUR」。
 | 9月24日  | 10th KMF 2017                    | Rising star Award                      | \[145\]                     |         |
 | 2018   | 11月28日                           | 2018 Korea Culture Entertainment Award | KPop Singer Award           | \[146\] |
 | 12月20日 | 2018 KOREA POPULAR MUSIC AWARDS  | 大眾歌唱實演獎                                |                             |         |
-| 2019   | 6月9日                             | Asia Model Awards                      | Popular Star Award (Singer) |         |
+| 2019   | 6月9日                             | Asia Model Festival Awards             | Popular Star Award (Singer) |         |
 
 ### 韓國主要音樂節目排行榜
 

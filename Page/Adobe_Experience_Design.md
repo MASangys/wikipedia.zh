@@ -1,6 +1,7 @@
 **Adobe Experience Design(Adobe XD)** 為 [Adobe
 Inc](../Page/Adobe.md "wikilink")
-發佈的[向量繪圖軟體](https://zh.wikipedia.org/wiki/向量繪圖軟體 "wikilink")，用來設計網頁及[行動應用程式的](https://zh.wikipedia.org/wiki/行動應用程式 "wikilink")[使用者經驗](../Page/使用者經驗.md "wikilink")。能在[macOS](https://zh.wikipedia.org/wiki/macOS "wikilink")、[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[iOS和](https://zh.wikipedia.org/wiki/iOS "wikilink")[Android使用](../Page/Android.md "wikilink")。
+發佈的[向量繪圖軟體](https://zh.wikipedia.org/wiki/向量繪圖軟體 "wikilink")，用來設計網頁及[行動應用程式的](https://zh.wikipedia.org/wiki/行動應用程式 "wikilink")[使用者經驗](../Page/使用者經驗.md "wikilink")。能在[macOS](https://zh.wikipedia.org/wiki/macOS "wikilink")、[Windows
+10](../Page/Windows_10.md "wikilink")、[iOS和](https://zh.wikipedia.org/wiki/iOS "wikilink")[Android使用](../Page/Android.md "wikilink")。
 XD擁有向量繪圖設計及網站線框圖(Wireframe)設計的功能，能創造簡單的點擊互動原型(Prototype)。\[1\]
 
 ## 歷史

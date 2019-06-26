@@ -37,7 +37,7 @@ SUPER所播放的](../Page/MyTV_SUPER.md "wikilink")**電視及網絡劇集**。
 <td><p><a href="http://programme.tvb.com/drama/atimeoflove2germany0001">TVB網頁1</a><br />
 <a href="http://programme.tvb.com/drama/atimeoflove2taiwan0001">TVB網頁2</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/陳鳳珊" title="wikilink">陳鳳珊</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/陳旭亮" title="wikilink">陳旭亮</a></p></td>
+<td><p><a href="../Page/陳旭亮.md" title="wikilink">陳旭亮</a></p></td>
 <td><p>德國、臺灣外景</p></td>
 </tr>
 <tr class="odd">
@@ -58,7 +58,7 @@ SUPER所播放的](../Page/MyTV_SUPER.md "wikilink")**電視及網絡劇集**。
 <td><p><a href="https://zh.wikipedia.org/wiki/巾幗梟雄之諜血長天" title="wikilink">巾幗梟雄之諜血長天</a></p></td>
 <td><p><a href="../Page/黎耀祥.md" title="wikilink">黎耀祥</a>、<a href="../Page/胡杏兒.md" title="wikilink">胡杏兒</a>、<a href="../Page/蕭正楠.md" title="wikilink">蕭正楠</a>、<a href="../Page/馬賽_(香港).md" title="wikilink">馬　賽</a>、<a href="../Page/謝雪心.md" title="wikilink">謝雪心</a>、<a href="../Page/劉江_(香港).md" title="wikilink">劉　江</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/葉廣蔭" title="wikilink">葉廣蔭</a></p></td>
+<td><p><a href="../Page/葉廣蔭.md" title="wikilink">葉廣蔭</a></p></td>
 <td><p><a href="../Page/李添勝.md" title="wikilink">李添勝</a></p></td>
 <td><p>上海、佛山、中山、清遠外景</p></td>
 </tr>

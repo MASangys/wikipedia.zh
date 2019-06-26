@@ -1,7 +1,7 @@
 《**BDZ**》（**B**ull**d**o**z**er，推土机的[略称](https://zh.wikipedia.org/wiki/略称 "wikilink")）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[TWICE的首張日語正規專輯](https://zh.wikipedia.org/wiki/TWICE "wikilink")。由[JYP娛樂製作](../Page/JYP娛樂.md "wikilink")，[日本華納音樂發行](../Page/日本華納音樂.md "wikilink")，於2018年9月12日推出\[1\]\[2\]。主打曲目为专辑同名曲《BDZ》。12月26日發行改版專輯《BDZ
 -Repackage-》，改版專輯中追加歌曲《STAY BY MY SIDE》。
 
-## 发行
+## 發行
 
   - 正規專輯
 
@@ -14,6 +14,16 @@ Up](../Page/Wake_Me_Up_\(TWICE單曲\).md "wikilink")》等TWICE以往在日本�
   - 改版專輯
 
 10/23，TWICE官方發出消息將於12月26日發行首張正規專輯《BDZ》的改版專輯，並公佈團體概念照。
+
+## 概要
+
+此專輯共發行五個版本。
+
+  - 初回限定盤A：內含1張CD、1張DVD、24頁寫真歌詞本、隨機小卡1張（共10款）。
+  - 初回限定盤B：內含1張CD、1張DVD、隨機小卡1張（共10款）。
+  - 通常盤：內含1張CD、歌詞本、隨機小卡1張（共10款）。
+  - ONCE JAPAN 限定盤：內含1張CD、3×3折海報、收入募集序號、隨機小卡1張（共10款）、32頁寫真歌詞本。
+  - WARNER MUSIC DIRECT限定組合：內含初回限定盤A、初回限定盤B、通常盤的三種CD，與特製收納盒做為特典。
 
 ## 收录歌曲
 

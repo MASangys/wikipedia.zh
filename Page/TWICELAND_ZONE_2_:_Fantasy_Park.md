@@ -24,95 +24,90 @@ Convention Exhibition-Hall 5舉行。
 ## 巡演時間表
 
 <table>
+<thead>
+<tr class="header">
+<th><p>年份</p></th>
+<th><p>日期</p></th>
+<th><p>演唱會站次</p></th>
+<th><p>演出場地</p></th>
+<th><p>觀賞人數</p></th>
+</tr>
+</thead>
 <tbody>
 <tr class="odd">
-<td><p>日期</p></td>
-<td><p>城市</p></td>
-<td><p>國家</p></td>
-<td><p>演出場地</p></td>
-<td><p>觀賞人數</p></td>
+<td><p>2018年</p></td>
+<td><p>5月18日</p></td>
+<td><p>首爾站</p></td>
+<td></td>
+<td><p>22,658 [3]</p></td>
 </tr>
 <tr class="even">
-<td><p>2018年5月18日</p></td>
-<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a></p></td>
-<td></td>
-<td><p>18,000[3]</p></td>
-</tr>
-<tr class="odd">
-<td><p>2018年5月19日</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2018年5月20日</p></td>
+<td><p>5月19日</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2018年5月26日</p></td>
-<td><p><a href="../Page/埼玉市.md" title="wikilink">埼玉</a></p></td>
-<td><p><a href="../Page/日本.md" title="wikilink">日本</a></p></td>
+<td><p>5月20日</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>5月26日</p></td>
+<td><p>埼玉站</p></td>
 <td><p><a href="../Page/埼玉超級競技場.md" title="wikilink">埼玉超級競技場</a></p></td>
-<td><p>36,000[4]</p></td>
-</tr>
-<tr class="even">
-<td><p>2018年5月27日</p></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>36,000 [4]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2018年6月2日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/大阪" title="wikilink">大阪</a></p></td>
-<td><p><a href="../Page/大阪城音樂廳.md" title="wikilink">大阪城展演廳</a></p></td>
+<td><p>5月27日</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>6月2日</p></td>
+<td><p>大阪站</p></td>
+<td><p><a href="../Page/大阪城音樂廳.md" title="wikilink">大阪城音樂廳</a></p></td>
 <td><p>20,000</p></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p>2018年6月3日</p></td>
+<tr class="odd">
+<td><p>6月3日</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p>2018年6月17日</p></td>
-<td><p><a href="../Page/新加坡.md" title="wikilink">新加坡</a></p></td>
+<tr class="even">
+<td><p>6月17日</p></td>
+<td><p>新加坡站</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/新加坡室內體育館" title="wikilink">新加坡室內體育館</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p>2018年7月28日（因安全理由取消）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/莎亚南" title="wikilink">莎亚南</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/馬來西亞" title="wikilink">馬來西亞</a></p></td>
-<td><p><a href="../Page/美拉华蒂体育馆.md" title="wikilink">美拉华蒂体育馆</a></p></td>
-<td><p>/</p></td>
-</tr>
 <tr class="odd">
-<td><p>2018年8月18日</p></td>
-<td><p><a href="../Page/曼谷.md" title="wikilink">曼谷</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/泰國" title="wikilink">泰國</a></p></td>
-<td><p>Thunder Dome, Muang Thong Thani</p></td>
+<td><p>7月28日</p></td>
+<td><p>吉隆坡站</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/美拉華蒂體育館" title="wikilink">美拉華蒂體育館</a></p></td>
+<td><p>因安全問題而取消 </p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2018年8月25日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/雅加達" title="wikilink">雅加達</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/印尼" title="wikilink">印尼</a></p></td>
-<td><p>Indonesia Convention Exhibition - Hall 5</p></td>
+<td><p>8月18日</p></td>
+<td><p>曼谷站</p></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>總計</p></td>
-<td></td>
-<td></td>
+<td><p>8月25日</p></td>
+<td><p>雅加達站</p></td>
+<td><p>- Hall 5</p></td>
 <td></td>
 <td></td>
 </tr>

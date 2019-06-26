@@ -117,7 +117,7 @@ B'z的作品長年以[Being的吉他技術團隊](https://zh.wikipedia.org/wiki/
 12. **King Of The Street** (3:39)
       -
         [KOEI TECMO
-        GAMES製作](https://zh.wikipedia.org/wiki/光榮特庫摩遊戲 "wikilink")[動作遊戲](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")『[真・三國無雙8](../Page/真·三國無雙8.md "wikilink")』主題曲。
+        GAMES製作](../Page/光榮特庫摩遊戲.md "wikilink")[動作遊戲](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")『[真・三國無雙8](../Page/真·三國無雙8.md "wikilink")』主題曲。
         老式硬式搖滾風格的樂曲。前奏和起初不同，因松本在彈奏樂曲中的吉他連複段（Riff）樂句時，稻葉提案了「前奏用這個更好吧？{{\#tag:ref||group="原文"}}」而試著調換，和之前的前奏相比較引人入勝，故成為了現在的前奏\[41\]。
         在演唱會上成為了自「[ギリギリchop](https://zh.wikipedia.org/wiki/ギリギリchop "wikilink")」以來，導入了會把毛巾高舉過頭頂後以螺旋式揮舞。
         順帶一提，關於「Queen Of The Night」與「King Of The
@@ -160,7 +160,7 @@ B'z的作品長年以[Being的吉他技術團隊](https://zh.wikipedia.org/wiki/
   - [UCC上島咖啡](https://zh.wikipedia.org/wiki/UCC上島咖啡 "wikilink")「UCC
     BLACK無糖黑咖啡」電視廣告曲(\#6)
   - [KOEI TECMO
-    GAMES](https://zh.wikipedia.org/wiki/光榮特庫摩遊戲 "wikilink")『[真・三國無雙8](../Page/真·三國無雙8.md "wikilink")』主題曲(\#12)
+    GAMES](../Page/光榮特庫摩遊戲.md "wikilink")『[真・三國無雙8](../Page/真·三國無雙8.md "wikilink")』主題曲(\#12)
 
 ## 製作人員
 

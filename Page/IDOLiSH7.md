@@ -793,7 +793,7 @@ music等管道發行。
 | <small>配信日期</small>        | <small>歌手</small>                                                            | <small>歌曲名稱</small>            |
 | -------------------------- | ---------------------------------------------------------------------------- | ------------------------------ |
 | <small>2019年3月15日</small>  | <small>御堂虎於(CV.[近藤隆](../Page/近藤隆.md "wikilink"))</small>                     | <small>午前4時のDusty Love</small> |
-| <small>2019年6月8日</small>   | <small>棗巳波(CV.[西山宏太朗](../Page/西山宏太朗.md "wikilink"))</small>                  | <small>未定</small>              |
+| <small>2019年6月8日</small>   | <small>棗巳波(CV.[西山宏太朗](../Page/西山宏太朗.md "wikilink"))</small>                  | <small>Dejavu</small>          |
 | <small>2019年11月29日</small> | <small>狗丸トウマ(CV.[木村昴](../Page/木村昴.md "wikilink"))</small>                    | <small>未定</small>              |
 | <small>2019年12月6日</small>  | <small>亥清悠(CV.[廣瀬裕也](https://zh.wikipedia.org/wiki/廣瀬裕也 "wikilink"))</small> | <small>未定</small>              |
 

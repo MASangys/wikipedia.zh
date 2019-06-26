@@ -1,4 +1,4 @@
-《**now午間新聞**》（）是[香港](../Page/香港.md "wikilink")[now寬頻電視](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")[新聞資訊部製作的新聞節目](https://zh.wikipedia.org/wiki/now寬頻電視新聞 "wikilink")，於[now新聞台](https://zh.wikipedia.org/wiki/now新聞台 "wikilink")、[now財經台](https://zh.wikipedia.org/wiki/now財經台 "wikilink")（只限部分時段）、[ViuTV播放](../Page/ViuTV.md "wikilink")（只同步12:00一節）。香港其他電視台同類節目有[無綫電視的](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")《[午間新聞](../Page/無綫電視午間新聞.md "wikilink")》及[有線電視的](../Page/香港有線電視.md "wikilink")《[有線新聞](https://zh.wikipedia.org/wiki/有線新聞 "wikilink")》（12:00-14:00時段）。
+《**now午間新聞**》（）是[香港](../Page/香港.md "wikilink")[now寬頻電視](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")[新聞資訊部製作的新聞節目](https://zh.wikipedia.org/wiki/now寬頻電視新聞 "wikilink")，於[now新聞台](https://zh.wikipedia.org/wiki/now新聞台 "wikilink")、[now財經台](https://zh.wikipedia.org/wiki/now財經台 "wikilink")（只限部分時段）、[ViuTV播放](../Page/ViuTV.md "wikilink")（只同步12:00一節）。香港其他電視台同類節目有[無綫電視的](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")《[午間新聞](../Page/無綫電視午間新聞.md "wikilink")》及[有線電視的](../Page/香港有線電視.md "wikilink")《[有線新聞](../Page/有線新聞_\(電視節目\).md "wikilink")》（12:00-14:00時段）。
 
 午間新聞內容每小時更新一次。主播以及前線記者於午間時段詳盡報導即日頭條、突發新聞、政壇動態、國際時局，本地社會民生等新聞。
 
@@ -83,6 +83,8 @@
   - 2019年4月14日：由於17:00-19:00直播《[第38屆香港電影金像獎頒獎典禮紅地氈盛況](../Page/第38屆香港電影金像獎.md "wikilink")》，《未來教室》提早至12:00-12:30播出，當日暫停播映。
   - 2019年4月28日：由於10:00-12:25直播《[NBA季後賽 - 聖安東尼奧馬刺 對
     丹佛金塊](https://zh.wikipedia.org/wiki/NBA季後賽 "wikilink")》，當日暫停播映。
+  - 2019年6月14日：由於09:00直播的《[NBA總決賽 - 多倫多速龍 對
+    金州勇士](https://zh.wikipedia.org/wiki/NBA總決賽 "wikilink")》超時至12:10結束，當日改為12:30-13:00播出。
 
 ## 相關節目
 

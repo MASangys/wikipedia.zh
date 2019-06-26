@@ -37,7 +37,7 @@
 
   - [人體自燃](../Page/人體自燃.md "wikilink")：[藤原妹红](https://zh.wikipedia.org/wiki/藤原妹红 "wikilink")
   - [小綠人](../Page/小綠人_\(外星人\).md "wikilink")：少名针妙丸
-  - [猿之手](https://zh.wikipedia.org/wiki/猴爪 "wikilink")：茨木华扇（首次遊戲出現）**主題曲**：华狭间的战场（）
+  - [猿之手](../Page/猴爪.md "wikilink")：茨木华扇（首次遊戲出現）**主題曲**：华狭间的战场（）
   - [扭來扭去](https://zh.wikipedia.org/wiki/:ja:くねくね "wikilink")：[鈴仙·優曇華院·因幡](https://zh.wikipedia.org/wiki/鈴仙·優曇華院·因幡 "wikilink")（PS4移植版本追加）
 
 ### 本作新登场

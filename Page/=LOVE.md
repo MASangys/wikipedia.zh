@@ -14,7 +14,7 @@
 9月6日，自唱片公司[SACRA
 MUSIC发行出道單曲](../Page/SACRA_MUSIC.md "wikilink")《=LOVE》\[7\]。11月15日，成员将不定期来店的咖啡店开业\[8\]。12月6日，发行第二张单曲《我们的制服圣诞节》\[9\]。
 
-2019年2月24日，姐妹團“[≠ME](https://zh.wikipedia.org/wiki/≠ME "wikilink")”正式公開，成員分別為：尾木波菜、落合希来里、蟹沢萌子、河口夏音、櫻井もも、菅波美玲、鈴木瞳美、谷崎早耶、冨田菜菜風、永田詩央里、本田珠由記\[10\]，以及稍後公布的川中子奈月心。
+2019年2月24日，姐妹團“[≠ME](../Page/≠ME.md "wikilink")”正式公開，成員分別為：尾木波菜、落合希来里、蟹沢萌子、河口夏音、櫻井もも、菅波美玲、鈴木瞳美、谷崎早耶、冨田菜菜風、永田詩央里、本田珠由記\[10\]，以及稍後公布的川中子奈月心。
 
 ## 成員
 
@@ -142,7 +142,7 @@ MUSIC发行出道單曲](../Page/SACRA_MUSIC.md "wikilink")《=LOVE》\[7\]。11
 | 4      | 2018年10月17日  | 《[Want you\! Want you\!](../Page/Want_you!_Want_you!.md "wikilink")》 | CD+DVD                                                                                      | VVCL-1300/1 | 初回生產限定盤 Type-A | 2位  |
 | CD+DVD | VVCL-1302/3  | 初回生產限定盤 Type-B                                                       |                                                                                             |             |                |     |
 | CD     | VVCL-1304    | 通常盤（Type-C）                                                          |                                                                                             |             |                |     |
-| 5      | 2019年4月24日   | 《[去尋找鑽石百合](https://zh.wikipedia.org/wiki/去尋找鑽石百合 "wikilink")》        | CD+DVD                                                                                      | VVCL-1435/6 | 初回生產限定盤 Type-A | 2位  |
+| 5      | 2019年4月24日   | 《[去尋找鑽石百合](../Page/去尋找鑽石百合.md "wikilink")》                           | CD+DVD                                                                                      | VVCL-1435/6 | 初回生產限定盤 Type-A | 2位  |
 | CD+DVD | VVCL-1437/8  | 初回仕様限定盤 Type-B                                                       |                                                                                             |             |                |     |
 | CD     | VVCL-1439    | 通常盤（Type-C）                                                          |                                                                                             |             |                |     |
 
@@ -151,7 +151,7 @@ MUSIC发行出道單曲](../Page/SACRA_MUSIC.md "wikilink")《=LOVE》\[7\]。11
 ## 相關條目
 
   - [指原莉乃](../Page/指原莉乃.md "wikilink")
-  - [≠ME](https://zh.wikipedia.org/wiki/≠ME "wikilink")
+  - [≠ME](../Page/≠ME.md "wikilink")
   - [HKT48](../Page/HKT48.md "wikilink")
   - [聲優](../Page/聲優.md "wikilink")
 

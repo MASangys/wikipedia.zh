@@ -103,7 +103,7 @@
 <td><p>習慣寂寞</p></td>
 <td><p><a href="../Page/陳忠義.md" title="wikilink">陳忠義</a></p></td>
 <td><p><a href="../Page/陳忠義.md" title="wikilink">陳忠義</a><br />
-<a href="https://zh.wikipedia.org/wiki/施立" title="wikilink">施立</a></p></td>
+<a href="../Page/施立.md" title="wikilink">施立</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/呂紹淳" title="wikilink">呂紹淳</a></p></td>
 <td><p>選自《<a href="https://zh.wikipedia.org/wiki/下一個永遠" title="wikilink">下一個永遠</a>》專輯</p></td>
 </tr>
@@ -223,7 +223,7 @@
 <td><p>08</p></td>
 <td><p>下一個永遠</p></td>
 <td><p><a href="../Page/伍思凱.md" title="wikilink">伍思凱</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/施立" title="wikilink">施立</a></p></td>
+<td><p><a href="../Page/施立.md" title="wikilink">施立</a></p></td>
 <td><p><a href="../Page/吳慶隆.md" title="wikilink">吳慶隆</a></p></td>
 <td><p>選自《<a href="https://zh.wikipedia.org/wiki/下一個永遠" title="wikilink">下一個永遠</a>》專輯</p></td>
 </tr>

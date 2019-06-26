@@ -6,7 +6,7 @@ Nordic，并会使用之前收购的THQ的品牌和标志。\[1\]2018年，公�
 Silver也包含在内](../Page/Deep_Silver.md "wikilink")；Deep
 Silver拥有《黑道圣徒》、《地铁》以及《家园前线》等原THQ发行的游戏系列。\[2\]
 
-公司除了自身的游戏开发和发行业务，也接手一些其他开发商在Windows平台的游戏发行工作，最著名的是芬兰游戏开发商[綠美迪娛樂的](../Page/綠美迪娛樂.md "wikilink")《[心灵杀手](../Page/心灵杀手.md "wikilink")》和《[量子破碎](https://zh.wikipedia.org/wiki/量子破碎 "wikilink")》。\[3\]
+公司除了自身的游戏开发和发行业务，也接手一些其他开发商在Windows平台的游戏发行工作，最著名的是芬兰游戏开发商[綠美迪娛樂的](../Page/綠美迪娛樂.md "wikilink")《[心靈殺手](https://zh.wikipedia.org/wiki/心靈殺手 "wikilink")》和《[量子裂痕](../Page/量子裂痕.md "wikilink")》。\[3\]
 
 ## 参考资料
 

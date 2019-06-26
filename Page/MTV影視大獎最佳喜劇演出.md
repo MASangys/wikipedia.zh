@@ -123,7 +123,7 @@ Performance）是[MTV影視大獎重要的獎項之一](../Page/MTV影視大獎.
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/提姆·艾倫" title="wikilink">提姆·艾倫</a></p></td>
+<td><p><a href="../Page/提姆·艾倫.md" title="wikilink">提姆·艾倫</a></p></td>
 <td><p><a href="../Page/聖誕快樂又瘋狂.md" title="wikilink">聖誕快樂又瘋狂</a></p></td>
 <td></td>
 </tr>

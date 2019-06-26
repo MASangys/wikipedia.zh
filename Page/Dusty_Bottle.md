@@ -1,5 +1,5 @@
 樂隊**Dusty Bottle**
-是一支於2016年組成的香港樂隊，由結他手Jeff、鍵琴手JNY、低音結他手Matthew，以及鼓手Kay組成。
+是一支於2016年組成的香港樂隊，由鍵琴手JNY(JNYBeatz)、結他手Jeff、低音結他手Matthew，以及鼓手Kay組成。
 樂隊於2018年加盟 [環球唱片 (香港)旗下廠牌](../Page/環球唱片_\(香港\).md "wikilink") [Brave
 Nusic](https://zh.wikipedia.org/wiki/Brave_Nusic "wikilink")。2018年推出四支單曲，由四位不同的女歌手作為主音。
 2019年，女主音Kerryta正式加入。

@@ -676,6 +676,31 @@
 </tbody>
 </table>
 
+### M2 X Genie Music Award
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>年份</p></td>
+<td><p>獎項</p></td>
+<td><p>入圍者 / 作品</p></td>
+<td><p>結果</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年</p></td>
+<td><p>男子團體獎</p></td>
+<td><p>BTOB</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ## 一般頒獎典禮
 
 ###

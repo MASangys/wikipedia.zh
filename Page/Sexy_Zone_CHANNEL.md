@@ -10,3 +10,4 @@ Zone的冠名節目](../Page/Sexy_Zone.md "wikilink")。節目簡稱為“”（
 
 [Category:Sexy_Zone節目](https://zh.wikipedia.org/wiki/Category:Sexy_Zone節目 "wikilink")
 [Category:富士電視台綜藝節目](https://zh.wikipedia.org/wiki/Category:富士電視台綜藝節目 "wikilink")
+[Category:2014年日本電視節目](https://zh.wikipedia.org/wiki/Category:2014年日本電視節目 "wikilink")

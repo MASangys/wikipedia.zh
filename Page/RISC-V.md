@@ -1,20 +1,16 @@
 [缩略图](https://zh.wikipedia.org/wiki/File:Yunsup_Lee_holding_RISC_V_prototype_chip.jpg "fig:缩略图")
-**RISC-V**（发音为“risk-five”）是一個基于[精简指令集](../Page/精简指令集.md "wikilink")（RISC）原则的[开源](../Page/开源标准.md "wikilink")[指令集架構](../Page/指令集架構.md "wikilink")（ISA）。
+**RISC-V**（发音为“risk-five”）是一個基于[精简指令集](../Page/精简指令集.md "wikilink")（RISC）原则的[开源](../Page/开源标准.md "wikilink")[指令集架構](../Page/指令集架構.md "wikilink")（ISA），簡易解釋為[開源軟體運動相對應的一種](https://zh.wikipedia.org/wiki/開源軟體 "wikilink")「開源硬體」。该项目2010年始于[加州大學柏克萊分校](https://zh.wikipedia.org/wiki/加州大學柏克萊分校 "wikilink")，但许多贡献者是该大学以外的志愿者和行业工作者。
 
-与大多数指令集相比，RISC-V指令集可以自由地用于任何目的，允许任何人[设计](../Page/集成电路设计.md "wikilink")、制造和销售RISC-V[芯片和](../Page/集成电路.md "wikilink")[软件](../Page/软件.md "wikilink")。虽然这不是第一个开源指令集\[1\]，但它具有重要意义，因为其设计使其适用于现代计算设备（如仓库规模[云计算机](../Page/雲端運算.md "wikilink")、高端[移动电话和微小](../Page/移动电话.md "wikilink")[嵌入式系统](../Page/嵌入式系统.md "wikilink")）。设计者考虑到了这些用途中的性能与功率效率。该指令集还具有众多支持的软件，这解决了新指令集通常的弱点。
+与大多数指令集相比，RISC-V指令集可以自由地用于任何目的，允许任何人[设计](../Page/集成电路设计.md "wikilink")、制造和销售RISC-V[芯片和](../Page/集成电路.md "wikilink")[软件而不必支付給任何公司專利費](../Page/软件.md "wikilink")。虽然这不是第一个开源指令集\[1\]，但它具有重要意义，因为其设计使其适用于现代计算设备（如仓库规模[云计算机](../Page/雲端運算.md "wikilink")、高端[移动电话和微小](../Page/移动电话.md "wikilink")[嵌入式系统](../Page/嵌入式系统.md "wikilink")）。设计者考虑到了这些用途中的性能与功率效率。该指令集还具有众多支持的软件，这解决了新指令集通常的弱点。\[2\]
 
-该项目2010年始于[加州大學柏克萊分校](https://zh.wikipedia.org/wiki/加州大學柏克萊分校 "wikilink")，但许多贡献者是该大学以外的志愿者和行业工作者。
-
-RISC-V指令集的设计考虑了小型、快速、低功耗的现实情況來實做，但並没有对特定的[微架構做过度的設計](../Page/微架構.md "wikilink")。\[2\]\[3\]
-
-截至2017年5月，RISC-V已經確立了版本2.22的用户空间的指令集(userspace ISA)，而特权指令集(privileged
-ISA)也处在草案版本1.10。
+RISC-V指令集的设计考虑了小型、快速、低功耗的现实情況來實做，但並没有对特定的[微架構做过度的設計](../Page/微架構.md "wikilink")。\[3\]\[4\]截至2017年5月RISC-V已經確立了版本2.22的用户空间的指令集(userspace
+ISA)，而特权指令集(privileged ISA)也处在草案版本1.10。
 
 ## 意义
 
 RISC-V的作者们旨在提供数种可以在[BSD许可证之下自由使用的CPU设计](../Page/BSD许可证.md "wikilink")。该许可证允許像是RISC-V芯片设计等衍生作品可以像RISC-V本身一样是公开且自由发行，也可以是闭源或者是专有財產。
 
-相比而言，[ARM控股和](../Page/安謀控股.md "wikilink")[MIPS科技等商业芯片供应商会对使用其](../Page/美普思科技.md "wikilink")[专利者收取高額的许可费用](../Page/专利.md "wikilink")。\[4\]他們也要求在接收其描述设计优点的文件和指令集前，还需要签署保密协议。许多设计优点为完全专有，從來不会披露给客户。这种保密制度阻碍了公共教育用途和安全審核，以及开发公共、低成本的[自由及开放源代码软件](../Page/自由及开放源代码软件.md "wikilink")[編譯器和](../Page/編譯器.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")。
+相比而言，[ARM控股和](../Page/安謀控股.md "wikilink")[MIPS科技等商业芯片供应商会对使用其](../Page/美普思科技.md "wikilink")[专利者收取高額的许可费用](../Page/专利.md "wikilink")。\[5\]他們也要求在接收其描述设计优点的文件和指令集前，还需要签署保密协议。许多设计优点为完全专有，從來不会披露给客户。这种保密制度阻碍了公共教育用途和安全審核，以及开发公共、低成本的[自由及开放源代码软件](../Page/自由及开放源代码软件.md "wikilink")[編譯器和](../Page/編譯器.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")。
 
 开发一个CPU需要多种专业的设计知识，包括电子逻辑、编译器和操作系统。这种资源在专业工程团队之外很难见到。所以现代且高质量的通用计算机指令集近年来除了学术环境以外並沒有在任何地方被广泛使用，甚至没有被阐述。正因如此，许多RISC-V贡献者将此视为整個社群付出的成果，而这也是RISC-V有很多工程上的應用的一项原因。
 
@@ -24,60 +20,64 @@ RISC-V的作者们还有大量研究和使用者經驗來验证他们在硅片�
 
 ### 前身
 
-RISC的歷史可追溯到1980年左右。\[5\]在此之前，人們覺得簡單的計算機可能會有用，但是沒有很多人去闡述其設計原則。這種簡單而有效的計算機一直都是學術界的興趣。
+RISC的歷史可追溯到1980年左右。\[6\]在此之前，人們覺得簡單的計算機可能會有用，但是沒有很多人去闡述其設計原則。這種簡單而有效的計算機一直都是學術界的興趣。
 
 學術界的學者們為了出版第一版的《計算機體系結構：定量方法》（*Computer Architecture: A Quantitative
 Approach*）ISBN 978-1558600690 ，所以於1990年訂立了RISC指令集DLX。David
-Patterson是其中一位作者，後來協助RISC-V的開發。但是，DLX只用於教育用途，學術界和業餘愛好者使用[FPGA（現場可編程門陣列）來實做它](../Page/现场可编程逻辑门阵列.md "wikilink")，但並沒有取得商業上的成功。
-
-版本2及更早版本的ARM
+Patterson是其中一位作者，後來協助RISC-V的開發。但是DLX只用於教育用途，學術界和業餘愛好者使用[FPGA（現場可編程門陣列）來實做它](../Page/现场可编程逻辑门阵列.md "wikilink")，但並沒有取得商業運用。版本2及更早版本的ARM
 CPU具有公共域指令集，並且仍有GCC的支持，而GCC是一個受歡迎且免費的軟件編譯器。該ISA有三個開源內核，但尚未製造。
 
-OpenRISC是一款基於DLX的開源ISA，並且具有相關的RISC設計。它完全支持GCC並且有實做在Linux上。但是，它很少有商業上的實做。
+OpenRISC是一款基於DLX的開源ISA，並且具有相關的RISC設計。它完全支持GCC並且有實做在Linux上。但是它很少有商業上的實做，直到2018年下旬SiFive公司10月推出一系列全新
+CPU設計圖產品線應用涵蓋
+[5G](../Page/5G.md "wikilink")、網通、存儲、擴增實境（[AR](https://zh.wikipedia.org/wiki/AR "wikilink")）、虛擬實境（[VR](https://zh.wikipedia.org/wiki/VR "wikilink")）等，其
+E系列與 U系列的 CPU方案已經威脅到ARM(安謀)公司的收費產品並且擁有後者缺乏的64位元架構產品。\[7\]。
+
+[ARM公司受到威脅後上线了一个网站riscv](https://zh.wikipedia.org/wiki/ARM "wikilink")-basics.com，列举了对RISC-V的批判，包括：成本、生态系统、碎片化风险、安全性问题、设计验证。但最终迫于業界舆论惡評，ARM关闭了该网站。\[8\]
 
 ### 基金会
 
-加州柏克萊分校的[Krste
-Asanović教授](https://zh.wikipedia.org/wiki/Krste_Asanović "wikilink")，發現開放原始碼的電腦系統有很多用途。在2010年他決定用三個月的時間來開發並發表一個開放原始碼的電腦系統。這個計畫是用來幫助包括學術以及工業的使用者。柏克萊分校的[大衛·帕特森教授也參加了這個計畫](../Page/大衛·帕特森_\(學者\).md "wikilink")。帕特森也是原來[Berkeley
-RISC的設計者](https://zh.wikipedia.org/wiki/Berkeley_RISC "wikilink")，RISC-V只是他眾多RISC
-CPU研究計畫的一個．RISC-V計畫早期的經費來自[DARPA](https://zh.wikipedia.org/wiki/DARPA "wikilink")。
+加州柏克萊分校的Krste
+Asanović教授，發現開放原始碼的電腦系統有很多用途。在2010年他決定用三個月的時間來開發並發表一個開放原始碼的電腦系統。這個計畫是用來幫助包括學術以及工業的使用者。柏克萊分校的[大衛·帕特森教授也參加了這個計畫](../Page/大衛·帕特森_\(學者\).md "wikilink")。帕特森也是原來伯克利分校RISC的設計者，RISC-V只是他眾多RISC
+[CPU研究計畫的一個](https://zh.wikipedia.org/wiki/CPU "wikilink")．RISC-V計畫早期一些經費來自[DARPA](https://zh.wikipedia.org/wiki/DARPA "wikilink")。
 
-有參與支援RISC-V基金會的公司以及機構包括了[超微半導體](https://zh.wikipedia.org/wiki/超微半導體 "wikilink")，[晶心科技](../Page/晶心科技.md "wikilink")，[英國航太系統](https://zh.wikipedia.org/wiki/英國航太系統 "wikilink")，Berkeley
-Architecture，Research，[BLuespec,
+有參與支援RISC-V基金會的公司以及機構包括了[超微半導體](https://zh.wikipedia.org/wiki/超微半導體 "wikilink")，[晶心科技](../Page/晶心科技.md "wikilink")，[英國航太系統](https://zh.wikipedia.org/wiki/英國航太系統 "wikilink")，加州大学伯克利分校，[BLuespec,
 Inc](https://zh.wikipedia.org/wiki/BLuespec,_Inc "wikilink")，Cortus，[Google](../Page/Google.md "wikilink")，GreenWaves
 Technology，[慧與科技](../Page/慧與科技.md "wikilink")，[華為](https://zh.wikipedia.org/wiki/華為 "wikilink")，[IBM](../Page/IBM.md "wikilink")，Imperas
-Software，[中国科学院](../Page/中国科学院.md "wikilink")，[IIT
-Madras](https://zh.wikipedia.org/wiki/IIT_Madras "wikilink")，[Lattis
-Semiconductor](https://zh.wikipedia.org/wiki/Lattis_Semiconductor "wikilink")，[Mellanox
-Technologies](https://zh.wikipedia.org/wiki/Mellanox_Technologies "wikilink")，[Microsemi](https://zh.wikipedia.org/wiki/Microsemi "wikilink")，[美光科技](../Page/美光科技.md "wikilink")，[輝達](https://zh.wikipedia.org/wiki/輝達 "wikilink")，[恩智浦半導體](https://zh.wikipedia.org/wiki/恩智浦半導體 "wikilink")，[甲骨文公司](../Page/甲骨文公司.md "wikilink")，[高通](../Page/高通.md "wikilink")，[Rambus
+Software，[中国科学院](../Page/中国科学院.md "wikilink")，北京清華大學，[印度理工學院](../Page/印度理工學院.md "wikilink")，萊迪思半導體，邁倫科技，美高森美，[美光科技](../Page/美光科技.md "wikilink")，[輝達](https://zh.wikipedia.org/wiki/輝達 "wikilink")，[恩智浦半導體](https://zh.wikipedia.org/wiki/恩智浦半導體 "wikilink")，[甲骨文公司](../Page/甲骨文公司.md "wikilink")，[高通](../Page/高通.md "wikilink")，[Rambus
 Cryptography
-Research](https://zh.wikipedia.org/wiki/Rambus_Cryptography_Research "wikilink")，[威騰電子](../Page/威騰電子.md "wikilink")，[SiFive](https://zh.wikipedia.org/wiki/SiFive "wikilink")，[Alibaba
-Group](../Page/阿里巴巴集团.md "wikilink")。
+Research](https://zh.wikipedia.org/wiki/Rambus_Cryptography_Research "wikilink")，[威騰電子](../Page/威騰電子.md "wikilink")，[SiFive](https://zh.wikipedia.org/wiki/SiFive "wikilink")，[阿里巴巴集团](../Page/阿里巴巴集团.md "wikilink")。
+
+2019年6月，图灵奖得主、RISC-V基金会创始人之一[大卫·帕特森（David
+Patterson）在瑞士宣布](../Page/大衛·帕特森_\(學者\).md "wikilink")，将依托清华-伯克利深圳学院（TBSI），在內部建设RISC-V国际开源实验室（RISC-V
+International Open Source
+Laboratory），又称大卫帕特森RIOS图灵实验室。北京[清华大学称实验室将瞄准世界CPU产业战略发展新方向和](https://zh.wikipedia.org/wiki/清华大学 "wikilink")[粤港澳大湾区产业创新需求](https://zh.wikipedia.org/wiki/粤港澳大湾区 "wikilink")，\[9\]聚焦于开源指令集CPU研究，建设以[深圳为根节点的RISC](https://zh.wikipedia.org/wiki/深圳 "wikilink")-V全球创新网络和以技术成果转移为主要使命的非营利组织，全面提升RISC-V生态系至最先进可商用水平。預判屆時將面對國際大廠法律层面發起挑戰问题上，伯克利加州大学和清华大学的[法学院將與之建立联系](https://zh.wikipedia.org/wiki/法学院 "wikilink")。\[10\]
 
 ### 奖项
 
   - 2017：[The Linley Group's Analyst's Choice Award for Best
     Technology](http://linleygroup.com/press_detail.php?The-Linley-Group-Announces-Winners-of-Annual-Analysts-Choice-Awards-85)（对其指令集）
 
+[缩略图](https://zh.wikipedia.org/wiki/File:IGLOO2-Pre-Programmed-RISC-V-Development-Board.jpg "fig:缩略图")
+
 ## 激勵要求
 
-RISC設計者們認為指令集因為位於硬體和軟體之間，所以是電腦主要的溝通橋樑，因此如果有一個設計良好的指令集是開源而且可以被任何人使用的，就可以讓更多的資源能夠重複利用，而大大的減少軟體的成本。而這樣的指令集也會增加硬體供應商市場的競爭，因為硬體供應商們可以挪用更多資源來進行設計，減少處理軟體支援的事務。\[6\]
+RISC設計者們認為指令集因為位於硬體和軟體之間，所以是電腦主要的溝通橋樑，因此如果有一個設計良好的指令集是開源而且可以被任何人使用的，就可以讓更多的資源能夠重複利用，而大大的減少軟體的成本。而這樣的指令集也會增加硬體供應商市場的競爭，因為硬體供應商們可以挪用更多資源來進行設計，減少處理軟體支援的事務。\[11\]
 
-設計者聲稱在指令集設計領域裡，新的設計準則漸漸變得罕見，而近四十年中，大多數成功的設計變得越來越相似。至於那些失敗的指令集，大多數是因為他們的贊助商賺不了錢，而不是因為其指令集在技術上有多差。所以，一個在成熟的設計準則之下開發且設計良好的開源指令集想必能吸引許多供應商長期的支援。\[7\]
+設計者聲稱在指令集設計領域裡，新的設計準則漸漸變得罕見，而近四十年中，大多數成功的設計變得越來越相似。至於那些失敗的指令集，大多數是因為他們的贊助商賺不了錢，而不是因為其指令集在技術上有多差。所以，一個在成熟的設計準則之下開發且設計良好的開源指令集想必能吸引許多供應商長期的支援。\[12\]
 
 許多先前的開源指令集架構使用[GNU通用公共授權條款來鼓勵使用者們允許他們的實作方法被其他人複製或是使用](../Page/GNU通用公共许可证.md "wikilink")。
 
 設計者們表示，RISC-V指令集是給實際上的電腦使用的，它不像其他學術上的指令集設計，只有為了比較好闡述理念而做最佳化。而RISC-V指令集有一些功能是可以增加電腦速度又可以減少成本和電源使用。這些特色包含，，在CPU裡面的位元表示方法來簡化[MUX（數據多工器）](https://zh.wikipedia.org/wiki/MUX "wikilink")，以標準為基礎來簡化的浮點數，架構中立的設計和把[MSB(Most
 significant
 bit)放到固定位置來加速](https://zh.wikipedia.org/wiki/最高有效位 "wikilink")。而sign-extension常常就是[靜態時序分析裡面的關鍵路徑](../Page/静态时序分析.md "wikilink")（Critical
-timing path）\[8\]。
+timing path）\[13\]。
 
 RISC-V
 指令集是設計來給各式各樣的用途使用的，而它支援三個不同的[字組大小](../Page/字_\(计算机\).md "wikilink")，分別是32位元、64位元、128位元以及與這三種字組大小有關的各式各樣的指令子集。而這些指令子集的定義會按照那三個字組大小來做些微的改動。透過這些指令子集的向量處理器與資料中心等級的機櫃式平行電腦/[平行運算來幫助](https://zh.wikipedia.org/wiki/平行運算 "wikilink")[嵌入式系统](../Page/嵌入式系统.md "wikilink")、[個人電腦和](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")[超級電腦](https://zh.wikipedia.org/wiki/超級電腦 "wikilink")。
 
-該指令集採取不固定的編碼長度而且還可以再擴充，因此在未來，還可以一直加入更多位元的編碼方式。該指令集有特別留空間給128位元的延伸版本，因為60年的產業界經驗顯示在指令集設計領域裡，最無法復原的錯誤就是缺少記憶體定址空間。截至2016年，128位元的指令集仍然刻意地維持在沒有定義的狀態，這是因為到現在為止，人們很少有實際上操作這麼大記憶體的系統的經驗。\[9\]
+該指令集採取不固定的編碼長度而且還可以再擴充，因此在未來，還可以一直加入更多位元的編碼方式。該指令集有特別留空間給128位元的延伸版本，因為60年的產業界經驗顯示在指令集設計領域裡，最無法復原的錯誤就是缺少記憶體定址空間。截至2016年，128位元的指令集仍然刻意地維持在沒有定義的狀態，這是因為到現在為止，人們很少有實際上操作這麼大記憶體的系統的經驗。\[14\]
 
-然而，RISC-V也可以拿來做學術上的使用。它擁有簡化的整數指令子集允許學生拿來做基本的練習，而整數指令子集就是一個簡單的指令集架構（ISA）讓軟體可以控制研究上的機器。而不定長度的指令集架構也允許擴充功能來滿足研究或是學生練習上的需求。\[10\]分割出來的特權指令集可以支援在不重新設計編譯器的情況下，進行作業系統方面的研究。\[11\]RISC-V的開放的智慧財產權允許相關的設計被發布、使用和修改。\[12\]
+然而，RISC-V也可以拿來做學術上的使用。它擁有簡化的整數指令子集允許學生拿來做基本的練習，而整數指令子集就是一個簡單的指令集架構（ISA）讓軟體可以控制研究上的機器。而不定長度的指令集架構也允許擴充功能來滿足研究或是學生練習上的需求。\[15\]分割出來的特權指令集可以支援在不重新設計編譯器的情況下，進行作業系統方面的研究。\[16\]RISC-V的開放的智慧財產權允許相關的設計被發布、使用和修改。\[17\]
 
 ## 软件
 
@@ -85,9 +85,9 @@ RISC-V
 mode指令集的規格，還有１個用來支援[作業系統模式的優先指令集的初步規格](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。
 
 市面上已經有好幾個使用RISC-V開源架構的CPU設計可以供參考，包括64-bit Berkeley Out of Order Machine
-(BOOM)\[13\]、64-bit Rocket\[14\]、柏克萊設計的五個32-bit Sodor CPU\[15\]、Clifford
+(BOOM)\[18\]、64-bit Rocket\[19\]、柏克萊設計的五個32-bit Sodor CPU\[20\]、Clifford
 Wolf 的 picorv32、Syntacore 的 scr1、蘇黎世聯邦理工學院／波隆納大學的 PULPino (Riscy and
-Zero-Riscy)\[16\]，以及很多其他的設計。使用三層指令分段的 Sodor CPU
+Zero-Riscy)\[21\]，以及很多其他的設計。使用三層指令分段的 Sodor CPU
 是一個適合[嵌入式設計的小型CPU](https://zh.wikipedia.org/wiki/嵌入式 "wikilink")。Rocket可能適用在小型低功耗的[個人電腦或其他個人裝置](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")。BOOM
 使用了大部分Rocket的架構，但是功能更加強大，適合個人電腦、伺服器或超級電腦。picorv 跟 scr1 都是使用Verilog 設計的
 32位元 MCU 等級的 RV32IMC。PULPino的核心使用了一個適合微控制器的簡單的 RV32IMC
@@ -106,16 +106,16 @@ toolchain、[OVPsim模擬器](https://zh.wikipedia.org/wiki/OVPsim "wikilink")�
 
 作業系統的支援包括 [Linux](../Page/Linux.md "wikilink")
 核心、[FreeBSD](../Page/FreeBSD.md "wikilink"), 以及
-[NetBSD](../Page/NetBSD.md "wikilink")，但是監督模式的指令在2016年11月10日還沒有標準化\[17\]，所以這方面的支援還不是正式的。有一個早期的
-RISC-V 的FreeBSD 作業系統已經在2016年2月上傳到開放原始碼社群，而且包含在 FreeBSD 11.0\[18\]\[19\]
-。[Debian](../Page/Debian.md "wikilink")\[20\]跟[Fedora](../Page/Fedora.md "wikilink")\[21\]的版本也有人在移植，並且在逐漸穩定中。已經有人做了１個
+[NetBSD](../Page/NetBSD.md "wikilink")，但是監督模式的指令在2016年11月10日還沒有標準化\[22\]，所以這方面的支援還不是正式的。有一個早期的
+RISC-V 的FreeBSD 作業系統已經在2016年2月上傳到開放原始碼社群，而且包含在 FreeBSD 11.0\[23\]\[24\]
+。[Debian](../Page/Debian.md "wikilink")\[25\]跟[Fedora](../Page/Fedora.md "wikilink")\[26\]的版本也有人在移植，並且在逐漸穩定中。已經有人做了１個
 [U-Boot](https://zh.wikipedia.org/wiki/U-Boot "wikilink")
-的移植版本。\[22\]UEFI Spec v2.7 定義了RISC-V UFEI
+的移植版本。\[27\]UEFI Spec v2.7 定義了RISC-V UFEI
 的規格，而且[惠普公司的工程師已經做好一個](../Page/惠普.md "wikilink")
 TianoCore的移植版本，並且將會上傳到開放原始碼社群。已經有人做好了一個 [L4 microkernel
 family](../Page/L4微内核系列.md "wikilink")
-的移植\[23\]。還有一個在網頁上用[JavaScript寫的](../Page/JavaScript.md "wikilink")
-RISC-V Linux 系統模擬器\[24\]。
+的移植\[28\]。還有一個在網頁上用[JavaScript寫的](../Page/JavaScript.md "wikilink")
+RISC-V Linux 系統模擬器\[29\]。
 
 ## 设计
 
@@ -132,7 +132,7 @@ RISC-V 指令使用模塊化的設計, 包括幾個可以互相替換的基本�
 [hypervisors](https://zh.wikipedia.org/wiki/hypervisor "wikilink"),
 [virtualization](https://zh.wikipedia.org/wiki/virtualization "wikilink")
 
-\[25\] 只要再加上一個監督指令集(S)的擴充，以及以下 RVGC　指令集，我們就有足夠的指令可以支援一個
+\[30\] 只要再加上一個監督指令集(S)的擴充，以及以下 RVGC　指令集，我們就有足夠的指令可以支援一個
 [Unix](https://zh.wikipedia.org/wiki/Unix "wikilink")-style
 [作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink").
 
@@ -275,7 +275,7 @@ e.g., RV64I or RV32E. 然後用上表的字母（以及表列的順序）表示�
 
 嵌入式系統使用的一個小的 32位元電腦可能用 RV32EC. 而大型的64位元電腦可以用 RV64GC; RV64IMAFDC.的簡稱．
 
-也有人提議了一個另外的命名方式，用 Zxxx 表示標準擴充，而 Yxxx 表是非標準擴充(廠商自訂).這些都還在討論中．
+也有人提議了一個另外的命名方式，用 Zxxx 表示標準擴充，而 Yxxx 表示非標準擴充(廠商自訂).這些都還在討論中．
 
 ### 寄存器集
 
@@ -490,7 +490,7 @@ thread。其標準記憶體同步模式是「釋放一致」原則。也就是�
 
 1.  )
 
-2.
+2.  [新浪-图灵奖得主加入清華，牵头推动芯片开源](https://t.cj.sina.com.cn/articles/view/5703921756/153faf05c01900gt8p)
 
 3.
 
@@ -500,14 +500,16 @@ thread。其標準記憶體同步模式是「釋放一致」原則。也就是�
 
 6.
 
-7.
-8.
+7.  [RSIC-V開源CPU殺出](https://technews.tw/2018/11/16/sifive-7-series-cpu-ip-vs-arm/)
 
+8.
 9.
 10.
 11.
+
 12.
 13.
+
 14.
 15.
 16.
@@ -517,7 +519,12 @@ thread。其標準記憶體同步模式是「釋放一致」原則。也就是�
 20.
 21.
 22.
-
 23.
 24.
 25.
+26.
+27.
+
+28.
+29.
+30.

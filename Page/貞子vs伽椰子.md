@@ -22,7 +22,7 @@
 
   - 法柳：（堂免 ichiruko）
 
-  - [山村貞子](https://zh.wikipedia.org/wiki/山村貞子 "wikilink")：
+  - [山村貞子](../Page/山村貞子.md "wikilink")：
 
   - ：[遠藤留奈](https://zh.wikipedia.org/wiki/遠藤留奈 "wikilink")
 

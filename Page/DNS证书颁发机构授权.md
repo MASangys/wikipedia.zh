@@ -60,7 +60,7 @@ critical标签\[28\]：
 
   -
 
-[Category:域名](https://zh.wikipedia.org/wiki/Category:域名 "wikilink")
+[Category:DNS记录类型](https://zh.wikipedia.org/wiki/Category:DNS记录类型 "wikilink")
 [Category:傳輸層安全協議](https://zh.wikipedia.org/wiki/Category:傳輸層安全協議 "wikilink")
 
 1.

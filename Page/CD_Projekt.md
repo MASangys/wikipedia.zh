@@ -13,17 +13,17 @@ products =  | revenue =
 [波兰](https://zh.wikipedia.org/wiki/波兰 "wikilink") }}
 
 **CD
-Projekt股份公司**（；前称）是一家总部位于[波兰](https://zh.wikipedia.org/wiki/波兰 "wikilink")[华沙的](../Page/华沙.md "wikilink")[电子游戏开发商](../Page/游戏开发者.md "wikilink")、[發行商及分销商](../Page/電子遊戲發行商.md "wikilink")，由电子游戏零售商马尔钦·伊温斯基和米卡·季辛斯基创立于1994年，以[巫师系列游戏以及数字分销服务](../Page/巫师_\(游戏\).md "wikilink")[GOG.com闻名](../Page/GOG.com.md "wikilink")。
+Projekt股份公司**（；前称；光盤項目）是一家总部位于[波兰](https://zh.wikipedia.org/wiki/波兰 "wikilink")[华沙的](../Page/华沙.md "wikilink")[电子游戏开发商](../Page/游戏开发者.md "wikilink")、[發行商及分销商](../Page/電子遊戲發行商.md "wikilink")，由电子游戏零售商马尔钦·伊温斯基和米卡·季辛斯基创立于1994年，以[巫师系列游戏以及数字分销服务](../Page/巫师_\(游戏\).md "wikilink")[GOG.com闻名](../Page/GOG.com.md "wikilink")。
 
 公司最初致力于西方游戏的波兰本地化翻译工作，他们与[Interplay娱乐合作发行了两款](../Page/Interplay娱乐.md "wikilink")[博德之门系列游戏](../Page/博德之门系列.md "wikilink")。当CD
 Projekt开发《[博德之门：黑暗联盟](https://zh.wikipedia.org/wiki/博德之门：黑暗联盟 "wikilink")》的PC版时，Interplay遇到了财政困难，導致本作取消。公司决定重新使用这些代码开发自己的游戏，也就是后来改编自[安傑·薩普科夫斯基小说的](../Page/安傑·薩普科夫斯基.md "wikilink")《[巫师](../Page/巫师_\(游戏\).md "wikilink")》。
 
 《巫师》发行后，CD
-Projekt开始开发主机游戏《巫师：白狼》（）。然而一些开发问题和成本的上升几乎让公司濒临[破产](https://zh.wikipedia.org/wiki/破产 "wikilink")。CD
+Projekt开始开发主机游戏《巫师：白狼》。然而一些开发问题和成本的上升几乎让公司濒临[破产](https://zh.wikipedia.org/wiki/破产 "wikilink")。CD
 Projekt后来发行了《[巫师2：国王刺客](../Page/巫师2：国王刺客.md "wikilink")》和《[巫师3：狂猎](../Page/巫师3：狂猎.md "wikilink")》并广受好评。公司下一个项目是一款开放世界类型的角色扮演游戏《[赛博朋克2077](../Page/赛博朋克2077.md "wikilink")》，基于[桌上遊戲](../Page/桌上遊戲.md "wikilink")《[赛博朋克2020](https://zh.wikipedia.org/wiki/赛博朋克2020 "wikilink")》。
 
 CD
-Projekt还成立了电子游戏分销服务[GOG.com](../Page/GOG.com.md "wikilink")，旨在帮助玩家寻找老游戏。它向玩家提供不受[数字版权管理](../Page/数字版权管理.md "wikilink")（DRM）限制的游戏，并逐渐扩大到新的[3A大作及独立游戏](../Page/AAA_\(电子游戏产业\).md "wikilink")。公司反对电子游戏使用DRM，并希望[追加下载内容免费成为行业标准](https://zh.wikipedia.org/wiki/追加下载内容 "wikilink")。CD
+Projekt还成立了电子游戏分销服务[GOG.com](../Page/GOG.com.md "wikilink")，旨在帮助玩家寻找老游戏。它向玩家提供不受[数字版权管理限制的游戏](../Page/数字版权管理.md "wikilink")，并逐渐扩大到新的[3A大作及独立游戏](../Page/AAA_\(电子游戏产业\).md "wikilink")。公司反对电子游戏使用DRM，并希望[追加下载内容免费成为行业标准](https://zh.wikipedia.org/wiki/追加下载内容 "wikilink")。CD
 Projekt认为保持独立性是他们最重要的战略之一。截至2017年9月，CD
 Projekt是波兰最大的电子游戏上市公司，市值约23亿美元\[6\]。2018年3月，公司加入WIG20，[华沙证券交易所](https://zh.wikipedia.org/wiki/华沙证券交易所 "wikilink")20家最大公司的指数\[7\]。
 
@@ -194,7 +194,7 @@ RED发现他们最初版本（包含DRM技术）的盗版量超过450万，而�
 <td></td>
 </tr>
 <tr class="even">
-<td><p>待定</p></td>
+<td><p>2020</p></td>
 <td><p><a href="../Page/赛博朋克2077.md" title="wikilink">赛博朋克2077</a></p></td>
 <td><p>Microsoft Windows、PlayStation 4、Xbox One</p></td>
 <td><p>REDengine 4</p></td>

@@ -122,7 +122,7 @@ CONCEPTION》第三部也是最後一部作品將在10月31日推出\[2\]，其�
 <td><p>2016年10月31日</p></td>
 <td><p><a href="../Page/CD.md" title="wikilink">CD</a>、<a href="../Page/數位音樂下載.md" title="wikilink">數位下載</a></p></td>
 <td><p><a href="../Page/Jellyfish娛樂.md" title="wikilink">Jellyfish娛樂</a><br />
-</p></td>
+<a href="../Page/CJ_E&amp;M.md" title="wikilink">CJ E&amp;M</a></p></td>
 </tr>
 <tr class="even">
 <td><p>台灣</p></td>

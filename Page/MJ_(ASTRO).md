@@ -1,4 +1,4 @@
-**MJ**（；）；本名**金明俊**（）；是一名韓國男[歌手及](../Page/歌手.md "wikilink")[演員](https://zh.wikipedia.org/wiki/演員 "wikilink")。2016年以韓國男子團體[ASTRO成員正式出道](https://zh.wikipedia.org/wiki/ASTRO "wikilink")，隊內擔任主唱。
+**MJ**（；）；本名**金明俊**（）；是一名韓國男[歌手及](../Page/歌手.md "wikilink")[演員](../Page/演員.md "wikilink")。2016年以韓國男子團體[ASTRO成員正式出道](https://zh.wikipedia.org/wiki/ASTRO "wikilink")，隊內擔任主唱。
 
 2015年8月18日，ASTRO與師姐[金賽綸合作主演的MBC網絡劇](../Page/金賽綸.md "wikilink")《To Be
 Continued》中首次亮相做為出道的開端。

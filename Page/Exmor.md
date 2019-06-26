@@ -1184,7 +1184,12 @@ RS**，为具备内置相位对焦点的积层型CMOS传感器，具备高速[�
 <td><p>Yes</p></td>
 <td><p>Yes</p></td>
 <td><p>February 2017</p></td>
-<td><p>{{Collapsible list</p></td>
+<td><p>列表 <a href="../Page/Sony_Xperia_XZs.md" title="wikilink">Sony Xperia XZs</a></p>
+<p><a href="../Page/Sony_Xperia_XZ_Premium.md" title="wikilink">Sony Xperia XZ Premium</a></p>
+<p><a href="../Page/Sony_Xperia_XZ1.md" title="wikilink">Sony Xperia XZ1</a></p>
+<p><a href="../Page/Sony_Xperia_XZ1_Compact.md" title="wikilink">Sony Xperia XZ1 Compact</a></p>
+<p><a href="../Page/Sony_Xperia_XZ2.md" title="wikilink">Sony Xperia XZ2</a></p>
+<p><a href="../Page/Sony_Xperia_XZ2_Premium.md" title="wikilink">Sony Xperia XZ2 Premium</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>IMX408</p></td>

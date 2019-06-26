@@ -1,5 +1,6 @@
-**TG4**（）是[愛爾蘭的一家](https://zh.wikipedia.org/wiki/愛爾蘭 "wikilink")[公共廣播電視台](../Page/公共廣播.md "wikilink")，使用[愛爾蘭語播出](../Page/愛爾蘭語.md "wikilink")。TG4開始播出於1996年10月31日，愛爾蘭98%的家庭可以通過無線數位電視Saorview和其他方式收看到TG4的節目。在1999年之前，TG4曾名為**Teilifís
-na Gaeilge**或**TnaG**。TG4也是愛爾蘭的第三家國家電視台。現在TG4的收視佔有率約為3%。
+**TG4**（，中文译为**爱尔兰语第四频道**）是[愛爾蘭的一家](https://zh.wikipedia.org/wiki/愛爾蘭 "wikilink")[公共廣播電視台](../Page/公共廣播.md "wikilink")，也是愛爾蘭的第三家國家電視台、[世界原住民廣電聯盟成员](../Page/世界原住民廣電聯盟.md "wikilink")，节目主要以[愛爾蘭語播出](../Page/愛爾蘭語.md "wikilink")。TG4於1996年10月31日開播，覆盖愛爾蘭98%的家庭和英国的[北爱尔兰地区](../Page/北爱尔兰.md "wikilink")，通過無線數位電視、有线、卫星和IPTV等方式播出。在1999年之前，TG4曾名為**Teilifís
+na
+Gaeilge**（爱尔兰语电视台），简称**TnaG**。2012年，TG4正式开始高标清同播。TG4和[愛爾蘭廣播電視合办愛爾蘭語新闻节目多年](../Page/愛爾蘭廣播電視.md "wikilink")，收播期间会转播[法国24小时新闻频道](https://zh.wikipedia.org/wiki/法兰西24 "wikilink")（英文版）。
 
 ### 參考資料
 
@@ -15,8 +16,6 @@ na Gaeilge**或**TnaG**。TG4也是愛爾蘭的第三家國家電視台。現在
 
   - [Official Site](http://www.tg4.ie) [](http://www.tg4.ie)
     [](http://www.tg4.ie/en/)
-  - [TG4 online stream](http://www.tg4.tv)
-  - [2](http://www.business2000.ie/archive/1st_edition.html)
 
 [Category:1996年成立的電視台或電視頻道](https://zh.wikipedia.org/wiki/Category:1996年成立的電視台或電視頻道 "wikilink")
 [Category:愛爾蘭共和國媒體](https://zh.wikipedia.org/wiki/Category:愛爾蘭共和國媒體 "wikilink")

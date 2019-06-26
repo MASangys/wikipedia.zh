@@ -26,9 +26,9 @@ Money第一季选手](../Page/Show_Me_The_Money.md "wikilink")）
 
 **亚军：**[Jessi](../Page/Jessi.md "wikilink") ()
 
-**季军：**（[Show Me The
-Money第三季选手](../Page/Show_Me_The_Money.md "wikilink")，[Unpretty
-Rapstar 3选手](../Page/Unpretty_Rapstar_3.md "wikilink")）
+**季军：**[陆智谭](https://zh.wikipedia.org/wiki/陆智谭 "wikilink")（[Show Me The
+Money第三季选手](../Page/Show_Me_The_Money.md "wikilink")，[Unpretty Rapstar
+3选手](../Page/Unpretty_Rapstar_3.md "wikilink")）
 
 **进入半决赛：**
 

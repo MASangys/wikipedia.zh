@@ -9,12 +9,15 @@ Star》作为独立节目编排。
 
 ### 现任DJ (主持)
 
-  - [尹鍾信](../Page/尹鍾信.md "wikilink")（2007年5月30日 - 至今）
+  - [尹鍾信](../Page/尹鍾信.md "wikilink")（2007年5月30日 -
+    至今）(因專輯製作計劃出國，預計2019年10月離開節目。)
 
   - （2007年9月5日 - 至今）
 
   - [金九拉](https://zh.wikipedia.org/wiki/金九拉 "wikilink")（2007年5月30日 -
     2012年5月9日，2013年6月12日 - 至今）
+
+  - [安英美](../Page/安英美.md "wikilink")（2019年6月26日 - 至今）
 
 ### 已退出DJ (主持)
 
@@ -1003,7 +1006,7 @@ Radio Star**》的播出列表。\[4\]
 <tr class="even">
 <td><p>103</p></td>
 <td><p>7月29日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/T-ara" title="wikilink">T-ara</a> (<a href="../Page/咸𤨒晶.md" title="wikilink">恩静</a>、<a href="../Page/朴孝敏.md" title="wikilink">孝敏</a>、<a href="https://zh.wikipedia.org/wiki/朴芝妍" title="wikilink">朴芝妍</a>、<a href="../Page/全寶藍.md" title="wikilink">宝蓝</a>、<a href="../Page/李居麗.md" title="wikilink">居丽</a>、<a href="../Page/朴昭妍.md" title="wikilink">素妍</a>)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/T-ara" title="wikilink">T-ara</a> (<a href="../Page/咸𤨒晶.md" title="wikilink">恩静</a>、<a href="../Page/朴孝敏.md" title="wikilink">孝敏</a>、<a href="../Page/朴芝妍.md" title="wikilink">朴芝妍</a>、<a href="../Page/全寶藍.md" title="wikilink">宝蓝</a>、<a href="../Page/李居麗.md" title="wikilink">居丽</a>、<a href="../Page/朴昭妍.md" title="wikilink">素妍</a>)</p></td>
 <td><p>盼望</p></td>
 <td></td>
 </tr>
@@ -1512,7 +1515,7 @@ Radio Star**》的播出列表。\[4\]
 <tr class="even">
 <td><p>163</p></td>
 <td><p>11月24日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/T-ara" title="wikilink">T-ara</a> (<a href="../Page/咸𤨒晶.md" title="wikilink">恩静</a>、<a href="../Page/朴孝敏.md" title="wikilink">孝敏</a>、<a href="https://zh.wikipedia.org/wiki/朴芝妍" title="wikilink">朴芝妍</a>)、<a href="../Page/男女共學_(音樂團體).md" title="wikilink">男女共学</a> (<a href="../Page/柳孝榮.md" title="wikilink">孝英</a>、)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/T-ara" title="wikilink">T-ara</a> (<a href="../Page/咸𤨒晶.md" title="wikilink">恩静</a>、<a href="../Page/朴孝敏.md" title="wikilink">孝敏</a>、<a href="../Page/朴芝妍.md" title="wikilink">朴芝妍</a>)、<a href="../Page/男女共學_(音樂團體).md" title="wikilink">男女共学</a> (<a href="../Page/柳孝榮.md" title="wikilink">孝英</a>、)</p></td>
 <td><p>已经1年<br />
 （上）</p></td>
 <td><p>特邀主持<a href="../Page/文熙俊.md" title="wikilink">文熙俊</a></p></td>
@@ -4154,7 +4157,7 @@ Radio Star**》的播出列表。\[4\]
 <tr class="even">
 <td><p>546</p></td>
 <td><p>12月6日</p></td>
-<td><p><a href="../Page/申成祿.md" title="wikilink">申成祿</a>、<a href="../Page/孫東雲.md" title="wikilink">孫東雲</a> (<a href="https://zh.wikipedia.org/wiki/Highlight_(韓國組合)" title="wikilink">Highlight</a>)、<a href="../Page/Hoya.md" title="wikilink">Hoya</a>、</p></td>
+<td><p><a href="../Page/申成祿.md" title="wikilink">申成祿</a>、<a href="../Page/孫東雲.md" title="wikilink">孫東雲</a> (<a href="../Page/Highlight_(韓國組合).md" title="wikilink">Highlight</a>)、<a href="../Page/Hoya.md" title="wikilink">Hoya</a>、</p></td>
 <td><p>“我以为能逗笑你”特辑</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/約翰·安德魯·朴" title="wikilink">John Park担任特别主持</a>。</p></td>
 </tr>
@@ -4214,7 +4217,8 @@ Radio Star**》的播出列表。\[4\]
 <td><p>1月17日</p></td>
 <td><p>、<a href="../Page/朴元淳.md" title="wikilink">朴元淳</a>、<a href="../Page/金伊娜.md" title="wikilink">金伊娜</a>、</p></td>
 <td><p>“以为...与神同行”特辑</p></td>
-<td><p>高昌焕临时受邀代替录制前一天受伤的第四位嘉宾<a href="../Page/秦钟午.md" title="wikilink">秦钟午</a>，并在下部时因公演提早离席[5]。</p></td>
+<td><p>高昌焕临时受邀代替录制前一天受伤的第四位嘉宾<a href="../Page/秦钟午.md" title="wikilink">秦钟午</a>，<br />
+并在下部时因公演提早离席[5]。</p></td>
 </tr>
 <tr class="even">
 <td><p>553</p></td>
@@ -4240,7 +4244,7 @@ Radio Star**》的播出列表。\[4\]
 <tr class="odd">
 <td><p>556</p></td>
 <td><p>2月21日</p></td>
-<td><p><a href="../Page/李起光.md" title="wikilink">李起光</a> (<a href="https://zh.wikipedia.org/wiki/Highlight_(韓國組合)" title="wikilink">Highlight</a>)、、<a href="../Page/San_E.md" title="wikilink">San E</a>、<a href="../Page/金知元_(饒舌者).md" title="wikilink">Bobby</a> (<a href="https://zh.wikipedia.org/wiki/iKON" title="wikilink">iKON</a>)</p></td>
+<td><p><a href="../Page/李起光.md" title="wikilink">李起光</a> (<a href="../Page/Highlight_(韓國組合).md" title="wikilink">Highlight</a>)、<a href="https://zh.wikipedia.org/wiki/朴圣光" title="wikilink">朴圣光</a>、<a href="../Page/San_E.md" title="wikilink">San E</a>、<a href="../Page/金知元_(饒舌者).md" title="wikilink">Bobby</a> (<a href="https://zh.wikipedia.org/wiki/iKON" title="wikilink">iKON</a>)</p></td>
 <td><p>“我不在乎~我行我素！”特辑</p></td>
 <td></td>
 </tr>
@@ -4296,7 +4300,7 @@ Radio Star**》的播出列表。\[4\]
 <tr class="odd">
 <td><p>564</p></td>
 <td><p>4月18日</p></td>
-<td><p>、<a href="../Page/尹未來.md" title="wikilink">尹未來</a>、<a href="../Page/龍俊亨.md" title="wikilink">龍俊亨</a> (<a href="https://zh.wikipedia.org/wiki/Highlight_(韓國組合)" title="wikilink">Highlight</a>)、<a href="https://zh.wikipedia.org/wiki/权正烈" title="wikilink">权正烈</a> (<a href="../Page/10cm.md" title="wikilink">10cm</a>)</p></td>
+<td><p>、<a href="../Page/尹未來.md" title="wikilink">尹未來</a>、<a href="../Page/龍俊亨.md" title="wikilink">龍俊亨</a> (<a href="../Page/Highlight_(韓國組合).md" title="wikilink">Highlight</a>)、<a href="https://zh.wikipedia.org/wiki/权正烈" title="wikilink">权正烈</a> (<a href="../Page/10cm.md" title="wikilink">10cm</a>)</p></td>
 <td><p>“亲吻的人们”特辑</p></td>
 <td><p>在演唱部分，作为Tiger JK的伴唱嘉宾特别出演。</p></td>
 </tr>
@@ -4345,7 +4349,7 @@ Radio Star**》的播出列表。\[4\]
 <tr class="even">
 <td><p>571</p></td>
 <td><p>6月20日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/池錫辰" title="wikilink">池錫辰</a>、<a href="../Page/金濟東.md" title="wikilink">金濟東</a>、<a href="../Page/梁耀燮.md" title="wikilink">梁耀燮</a> (<a href="https://zh.wikipedia.org/wiki/Highlight_(韓國組合)" title="wikilink">Highlight</a>)、<a href="../Page/鄭承煥.md" title="wikilink">鄭承煥</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/池錫辰" title="wikilink">池錫辰</a>、<a href="../Page/金濟東.md" title="wikilink">金濟東</a>、<a href="../Page/梁耀燮.md" title="wikilink">梁耀燮</a> (<a href="../Page/Highlight_(韓國組合).md" title="wikilink">Highlight</a>)、<a href="../Page/鄭承煥.md" title="wikilink">鄭承煥</a></p></td>
 <td><p>“看得见的Radio！Star”特辑</p></td>
 <td></td>
 </tr>
@@ -4527,7 +4531,7 @@ Radio Star**》的播出列表。\[4\]
 <tr class="even">
 <td><p>597</p></td>
 <td><p>12月26日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/黄光熙" title="wikilink">黄光熙</a>（<a href="../Page/ZE:A.md" title="wikilink">ZE:A</a>）、<a href="https://zh.wikipedia.org/wiki/郑俊英" title="wikilink">郑俊英</a>、<a href="https://zh.wikipedia.org/wiki/夫胜宽" title="wikilink">夫胜宽</a>、</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黄光熙" title="wikilink">黄光熙</a>（<a href="../Page/ZE:A.md" title="wikilink">ZE:A</a>）、<a href="https://zh.wikipedia.org/wiki/郑俊英" title="wikilink">郑俊英</a>、<a href="https://zh.wikipedia.org/wiki/夫胜宽" title="wikilink">夫胜宽</a> (<a href="../Page/Seventeen_(組合).md" title="wikilink">SEVENTEEN</a>)、</p></td>
 <td><p>“抓住今年的尾巴”特辑</p></td>
 <td></td>
 </tr>
@@ -4700,6 +4704,27 @@ Radio Star**》的播出列表。\[4\]
 <td><p>、、、<a href="../Page/孫賢祐.md" title="wikilink">Shownu</a> (<a href="https://zh.wikipedia.org/wiki/MONSTA_X" title="wikilink">MONSTA X</a>)</p></td>
 <td><p>“火热的家伙们”特辑</p></td>
 <td><p><a href="../Page/安英美.md" title="wikilink">安英美擔任特别主持</a>。</p></td>
+</tr>
+<tr class="odd">
+<td><p>620</p></td>
+<td><p>6月5日</p></td>
+<td><p>、、<a href="../Page/李大輝.md" title="wikilink">李大輝</a> (<a href="../Page/AB6IX.md" title="wikilink">AB6IX</a>)、</p></td>
+<td><p>“Rha Rha Land”特辑</p></td>
+<td><p><a href="../Page/朴珍榮.md" title="wikilink">朴珍榮</a> (<a href="../Page/GOT7.md" title="wikilink">GOT7</a>)擔任特别主持。</p></td>
+</tr>
+<tr class="even">
+<td><p>621</p></td>
+<td><p>6月12日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/殷志源" title="wikilink">殷志源</a> (<a href="../Page/水晶男孩.md" title="wikilink">水晶男孩</a>)、<a href="../Page/圭賢.md" title="wikilink">圭賢</a> (<a href="../Page/Super_Junior.md" title="wikilink">Super Junior</a>)、<a href="../Page/姜昇潤.md" title="wikilink">姜昇潤</a> (<a href="../Page/WINNER.md" title="wikilink">WINNER</a>)、</p></td>
+<td><p>“見面就是好朋友”特輯</p></td>
+<td><p><a href="../Page/李昇勳.md" title="wikilink">李昇勳</a> (<a href="../Page/WINNER.md" title="wikilink">WINNER</a>)擔任特别主持。</p></td>
+</tr>
+<tr class="odd">
+<td><p>622</p></td>
+<td><p>6月19日</p></td>
+<td><p>、、 、</p></td>
+<td><p>“Show Me The Trot”特輯</p></td>
+<td><p>(<a href="../Page/MIGHTY_MOUTH.md" title="wikilink">MIGHTY MOUTH</a>)擔任特别主持。</p></td>
 </tr>
 </tbody>
 </table>

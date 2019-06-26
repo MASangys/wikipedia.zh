@@ -6290,7 +6290,7 @@
 <tr class="odd">
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Life_Is_Strange" title="wikilink">Life Is Strange</a></em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Dontnod_Entertainment" title="wikilink">Dontnod Entertainment</a></p></td>
+<td><p><a href="../Page/Dontnod_Entertainment.md" title="wikilink">Dontnod Entertainment</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Square_Enix" title="wikilink">Square Enix</a></p></td>
 <td></td>
 <td></td>
@@ -9370,7 +9370,7 @@
 <tr class="odd">
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Remember_Me_(video_game)" title="wikilink">Remember Me</a></em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Dontnod_Entertainment" title="wikilink">Dontnod Entertainment</a></p></td>
+<td><p><a href="../Page/Dontnod_Entertainment.md" title="wikilink">Dontnod Entertainment</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Capcom" title="wikilink">Capcom</a></p></td>
 <td></td>
 <td></td>

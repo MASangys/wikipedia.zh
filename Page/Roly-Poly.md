@@ -195,7 +195,7 @@ me?](../Page/Again_\(迷你專輯\).md "wikilink")》外，還與高耀太共同
 #### SNL9的三分鐘女友惡搞
 
 由南韓電視台[tvN於](https://zh.wikipedia.org/wiki/tvN "wikilink")2017年6月24日所播出的「[SNL
-Korea](../Page/SNL_Korea.md "wikilink")」中，T-ara成員[朴芝妍進行了](https://zh.wikipedia.org/wiki/朴芝妍 "wikilink")「會中毒的女人」的環節，其中將《Roly-Poly》的副歌歌詞分別改成[咖哩](../Page/咖哩.md "wikilink")、[哈莉·奎茵等](../Page/哈莉·奎茵.md "wikilink")，播出後引起熱烈的迴響\[45\]\[46\]。
+Korea](../Page/SNL_Korea.md "wikilink")」中，T-ara成員[朴芝妍進行了](../Page/朴芝妍.md "wikilink")「會中毒的女人」的環節，其中將《Roly-Poly》的副歌歌詞分別改成[咖哩](../Page/咖哩.md "wikilink")、[哈莉·奎茵等](../Page/哈莉·奎茵.md "wikilink")，播出後引起熱烈的迴響\[45\]\[46\]。
 
 ### 都市傳說
 

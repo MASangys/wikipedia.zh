@@ -1,4 +1,4 @@
-**Vogue**，又稱**voguing**，是一種高度程式化、現代的[浩室舞蹈](https://zh.wikipedia.org/wiki/浩室舞蹈 "wikilink")，1980年代在美國紐約[哈林區的舞廳場合逐步發展起來](https://zh.wikipedia.org/wiki/哈莱姆区 "wikilink")\[1\]\[2\]。這種舞蹈因爲1990年[瑪丹娜的歌曲](../Page/麥當娜.md "wikilink")《[Vogue](../Page/風尚.md "wikilink")》及其音樂錄影帶\[3\]、和1990年紀錄片《[巴黎妖姬](https://zh.wikipedia.org/wiki/巴黎妖姬 "wikilink")》而得到了主流曝光\[4\]。
+**Vogue**，又稱**Voguing**，是一種高度程式化、現代的[浩室舞蹈](https://zh.wikipedia.org/wiki/浩室舞蹈 "wikilink")，1980年代在美國紐約[哈林區的舞廳場合逐步發展起來](https://zh.wikipedia.org/wiki/哈莱姆区 "wikilink")\[1\]\[2\]。這種舞蹈因爲1990年[瑪丹娜的歌曲](../Page/麥當娜.md "wikilink")《[Vogue](../Page/風尚.md "wikilink")》及其音樂錄影帶\[3\]、和1990年紀錄片《[巴黎妖姬](https://zh.wikipedia.org/wiki/巴黎妖姬 "wikilink")》而得到了主流曝光\[4\]。
 
 ## 歷史
 

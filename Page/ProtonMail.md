@@ -49,23 +49,37 @@ are seeking a datacenter in Switzerland brave enough to host ProtonMail,
 many are afraid due to the magnitude of the attack against
 us.”ProtonMail正在实施一个全面的长期解决方案。11月6日，ProtonMail发布推特称，他们的ISP早上遭到再次进攻。11月7日，ProtonMail发布推特称当天有50％的机会恢复服务。
 
-## 相关报道
+## 账户类型
 
-  -
-  -
-  - ProtonMail付了6千美元赎金
-    但仍然被DDoS_科技_环球网[1](http://tech.huanqiu.com/news/2015-11/7923952.html)
+ProtonMail提供多种付费方案：\[2\]
 
-  - 【今日看点】ProtonMail
-    ：可能是界上最安全的电邮服务|极客公园[2](http://www.geekpark.net/topics/205474)
+| 方案           | 每日收发量 | 文件夹/标签  | 存储     | 邮箱地址   | 自定义域名 | 价格                     | 支持        |
+| ------------ | ----- | ------- | ------ | ------ | ----- | ---------------------- | --------- |
+| Free         | 150   | 3/3     | 500 MB | 1 地址   | \-    | 免费                     | 有限支持      |
+| Plus         | 1000  | 200/200 | 5 GB   | 5 地址   | 1     | $5 /月 或 $48 /年         | 支持        |
+| Professional | 无限    | 无限      | 5 GB   | 5地址/用户 | 2     | $8 /月 或 $75 /年         | 优先支持\[3\] |
+| Visionary    | 无限    | 无限      | 20 GB  | 50 地址  | 10    | $30.00 /月 或 $288.00 /年 | 优先支持\[4\] |
 
-  - Paypal冻结Protonmail账户_发现频道__中国青年网[3](http://d.youth.cn/newtech/201407/t20140702_5452410.htm)
+## 流行文化
+
+ProtonMail 曾于美剧《[Mr.
+Robot](https://zh.wikipedia.org/wiki/Mr._Robot "wikilink")》第一季和第三季中出现。\[5\]
 
 ## 參考資料
 
+## 外部链接
+
+  -
+  -
 [Category:电子邮件网站](https://zh.wikipedia.org/wiki/Category:电子邮件网站 "wikilink")
 [Category:2013年建立的网站](https://zh.wikipedia.org/wiki/Category:2013年建立的网站 "wikilink")
 [Category:跨平台軟體](https://zh.wikipedia.org/wiki/Category:跨平台軟體 "wikilink")
 [Category:使用MIT许可证的软件](https://zh.wikipedia.org/wiki/Category:使用MIT许可证的软件 "wikilink")
 
 1.
+
+2.
+
+3.
+4.
+5.

@@ -125,7 +125,7 @@ Mart](../Page/DMM.com.md "wikilink")、[TIS等](../Page/TIS.md "wikilink")4家�
 
 #### [強姦](https://zh.wikipedia.org/wiki/強姦 "wikilink")、[凌辱](../Page/羞辱.md "wikilink")、[SM專門製造商](https://zh.wikipedia.org/wiki/虐戀 "wikilink")
 
-  - [Attackers](https://zh.wikipedia.org/wiki/Attackers "wikilink")（「凌辱[劇情](https://zh.wikipedia.org/wiki/故事 "wikilink")」專門製造商）（2002年開始營運）
+  - [Attackers](https://zh.wikipedia.org/wiki/Attackers "wikilink")（「凌辱[劇情](../Page/故事.md "wikilink")」專門製造商）（2002年開始營運）
     [官方網站](https://www.attackers.net/)
 
   - V（「SM」專門製造商）（2006年10月設立） [官方網站](http://www.v-av.com/)

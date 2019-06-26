@@ -566,7 +566,7 @@ Jack Twist</p></td>
 <td><p>男</p></td>
 <td><p>雙／同[40]</p></td>
 <td><p><a href="../Page/鄭進永.md" title="wikilink">鄭進永</a><br />
-<a href="https://zh.wikipedia.org/wiki/李準基" title="wikilink">李準基</a></p></td>
+<a href="../Page/李準基.md" title="wikilink">李準基</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/情慾按摩院.md" title="wikilink">情慾按摩院</a></p></td>

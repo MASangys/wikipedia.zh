@@ -1,4 +1,4 @@
-**音標擴展補充**是一個[Unicode區段為](../Page/Unicode區段.md "wikilink")[音標擴展的衍生區段](../Page/音標擴展_\(Unicode區段\).md "wikilink")，收錄了[國際音標的一些專用字符](https://zh.wikipedia.org/wiki/國際音標 "wikilink")。
+**音標擴展補充**是一個[Unicode區段為](../Page/Unicode區段.md "wikilink")[音標擴展的衍生區段](../Page/音標擴展_\(Unicode區段\).md "wikilink")，收錄了[國際音標的一些專用字符](../Page/國際音標.md "wikilink")。
 
 ## 區段
 

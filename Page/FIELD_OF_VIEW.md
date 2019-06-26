@@ -21,7 +21,8 @@ VIEW**（），[日本](../Page/日本.md "wikilink")[搖滾](https://zh.wikiped
 <!-- end list -->
 
   - （，）／[貝斯](../Page/電貝斯.md "wikilink")、作曲、編曲
-    東京都出身。O型血。曾在「」等單曲的時期上電視節目。解散後，曾擔任歌手歌曲「聽不見的告白」的貝斯伴奏、及歌曲「思出」的吉他伴奏。目前擔任藝人[DAIGO帶領的搖滾樂團](https://zh.wikipedia.org/wiki/DAIGO "wikilink")[BREAKERZ的經紀人](../Page/BREAKERZ.md "wikilink")。
+    東京都出身。O型血。曾在「」等單曲的時期上電視節目。FIELD OF
+    VIEW解散後，擔任歌手歌曲「聽不見的告白」的貝斯伴奏、及歌曲「思出」的吉他伴奏。目前擔任藝人[DAIGO所帶領搖滾樂團](https://zh.wikipedia.org/wiki/DAIGO "wikilink")[BREAKERZ的經紀人](../Page/BREAKERZ.md "wikilink")。
 
 ## 前成員
 
@@ -105,7 +106,7 @@ OF VIEW所有成員非公認的精選專輯《》可以聽得到。
 
 #### FIELD OF VIEW時期
 
-從此時期開始，FIELD OF VIEW將他們的形象風格從輕便休閒風，搖身一變成穿著筆挺的黑色西裝形象重新出道。
+從此時期開始，FIELD OF VIEW將他們的形象風格從輕便休閒風，搖身一變成衣著筆挺黑色西裝的形象重新出道。
 
 但在單曲「」發行之後，安部卻突然退團，短暫期間FIELD OF
 VIEW成員只剩3人。直到單曲「」亮相時期，因新成員新津健二的加入，從此FIELD
@@ -479,17 +480,18 @@ VIEW**」。但在不久之後，次年2002年立即宣布正式解散。並於�
 
 ### 合輯
 
-  - **It's TV SHOW\!\!（DISCII M-6.DAN DAN 心逐漸地被吸引）** 2004年10月27日
+  - **It's TV SHOW\!\!（DISCII M-6.心逐漸地被你魅惑）** 2004年10月27日
   - ****（只在網路商店進行販售）
-  - ****（收錄了『突然』、『DAN DAN 心逐漸地被吸引』）
+  - ****（收錄了『突然』、『心逐漸地被你魅惑』）
   - ****（收錄了『突然』）
 
 ## 以前出演節目
 
-  - [MUSIC STATION](../Page/MUSIC_STATION.md "wikilink")（主要進行「突然」「DAN
-    DAN 心逐漸地被吸引」「心跳」等單曲的宣傳和演唱）
+  - [MUSIC
+    STATION](../Page/MUSIC_STATION.md "wikilink")（主要進行「突然」、「心逐漸地被你魅惑」、「心跳」等單曲的宣傳和演唱）
 
-  - [COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")（在節目中演唱「突然」「Last
+  - [COUNT DOWN
+    TV](../Page/COUNT_DOWN_TV.md "wikilink")（在節目中演唱「突然」、「Last
     Good-bye」）
 
   -

@@ -292,7 +292,7 @@ Radio現場直播](https://zh.wikipedia.org/wiki/MBC標準FM "wikilink")。當�
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/IU_(歌手)" title="wikilink">IU</a> × <a href="https://zh.wikipedia.org/wiki/朴芝妍" title="wikilink">芝妍</a>（<a href="https://zh.wikipedia.org/wiki/T-ara" title="wikilink">T-ara</a>）× <a href="../Page/朴善英.md" title="wikilink">Luna</a>（<a href="https://zh.wikipedia.org/wiki/f(x)_(組合)" title="wikilink">f(x)</a>）－ I'm Your Girl（原唱：<a href="../Page/S.E.S._(組合).md" title="wikilink">S.E.S.</a>）</p></td>
+<p><a href="https://zh.wikipedia.org/wiki/IU_(歌手)" title="wikilink">IU</a> × <a href="../Page/朴芝妍.md" title="wikilink">芝妍</a>（<a href="https://zh.wikipedia.org/wiki/T-ara" title="wikilink">T-ara</a>）× <a href="../Page/朴善英.md" title="wikilink">Luna</a>（<a href="https://zh.wikipedia.org/wiki/f(x)_(組合)" title="wikilink">f(x)</a>）－ I'm Your Girl（原唱：<a href="../Page/S.E.S._(組合).md" title="wikilink">S.E.S.</a>）</p></td>
 <td></td>
 </tr>
 <tr class="even">

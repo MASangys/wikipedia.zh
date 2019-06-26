@@ -26,7 +26,7 @@ Ayawawa曾在网络短视频节目《透明人》就主持人提出的“老公[
 
 由于其思想与“[女德教母](../Page/女德.md "wikilink")”[丁璇的理论颇有类似之处](https://zh.wikipedia.org/wiki/丁璇 "wikilink")，因此有媒体将这两人加以比较\[29\]\[30\]。
 
-有支持Ayawawa言论的人认为，Ayawawa在帮助女性发挥性别优势从而在情感生活中获得平等甚至主导的地位；反对者则批评Ayawawa是在变相鼓励女性依附男人，是在宣扬“[拜金主义](https://zh.wikipedia.org/wiki/拜金主义 "wikilink")”和“[中华田园女权](https://zh.wikipedia.org/wiki/中华田园女权 "wikilink")”\[31\]。
+有支持Ayawawa言论的人认为，Ayawawa在帮助女性发挥性别优势从而在情感生活中获得平等甚至主导的地位；反对者则批评Ayawawa是在变相鼓励女性依附男人，是在宣扬“[拜金主义](https://zh.wikipedia.org/wiki/拜金主义 "wikilink")”和“[田园女权](https://zh.wikipedia.org/wiki/田园女权 "wikilink")”\[31\]。
 
 ## 家庭
 

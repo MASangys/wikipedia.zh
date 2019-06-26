@@ -266,7 +266,6 @@ OS等某些機型預載，但是它們本身也開放其它廠商的機型刷寫
 
   -
   -
-[Category:含有冗余参数的引用的页面](https://zh.wikipedia.org/wiki/Category:含有冗余参数的引用的页面 "wikilink")
 [Category:定制Android固件](https://zh.wikipedia.org/wiki/Category:定制Android固件 "wikilink")
 
 1.
@@ -306,8 +305,7 @@ OS等某些機型預載，但是它們本身也開放其它廠商的機型刷寫
 
 19.
 
-20. `|author=`和`|last=`只需其一
-    ([帮助](https://zh.wikipedia.org/wiki/Help:引文格式1错误#redundant_parameters "wikilink"))
+20. `|author=`和`|last=`
 
 21.
 

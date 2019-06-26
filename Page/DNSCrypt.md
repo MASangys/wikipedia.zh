@@ -15,7 +15,7 @@ DNSCrypt客户端必须明确信任所选提供者的[公钥](https://zh.wikiped
 
 查询与回应都使用同一算法加密，并使用64字节的倍数填充来防止泄漏封包大小。当使用UDP端口且回应多于查询产生的数据量时，服务器可以使用标记TC（，截短）位元的短封包回应。客户端此时应使用TCP端口重试，并增加后续查询的填充量。
 
-该协议的第一、第二版采用X25519算法（[Curve25519](../Page/Curve25519.md "wikilink")）进行密钥交换，算法进行签名，以及使用[XSalsa20](../Page/Salsa20.md "wikilink")-或[XChaCha20](https://zh.wikipedia.org/wiki/ChaCha20 "wikilink")-Poly1305算法认证加密。
+该协议的第一、第二版采用X25519算法（[Curve25519](../Page/Curve25519.md "wikilink")）进行密钥交换，算法进行签名，以及使用[XSalsa20](../Page/Salsa20.md "wikilink")-[Poly1305或](../Page/Poly1305.md "wikilink")[XChaCha20](https://zh.wikipedia.org/wiki/ChaCha20 "wikilink")-Poly1305算法认证加密。
 
 ## 基于公钥的客户端认证
 

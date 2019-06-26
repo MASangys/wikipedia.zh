@@ -246,7 +246,7 @@ Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》中以10,091
 <tr class="odd">
 <td><p>Music Bank</p></td>
 <td><p>KBS2</p></td>
-<td><p><a href="https://www.youtube.com/watch?v=IdmF2lc1NtA">9月15日</a>、<a href="https://www.youtube.com/watch?v=avZf59PuFVA">9月22日</a></p></td>
+<td><p><a href="https://www.youtube.com/watch?v=euGUYhnkij0">9月15日</a>、<a href="https://www.youtube.com/watch?v=avZf59PuFVA">9月22日</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Show! 音樂中心</p></td>
@@ -261,7 +261,7 @@ Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》中以10,091
 <tr class="even">
 <td><p>THE SHOW</p></td>
 <td><p>SBS MTV</p></td>
-<td><p><a href="https://www.youtube.com/watch?v=sSK6dqsKUH0">9月19日</a><a href="https://www.youtube.com/watch?v=IVWCjNeOqhM">(1位)</a></p></td>
+<td><p><a href="https://www.youtube.com/watch?v=DYxBOhiwFsw">9月19日</a><a href="https://www.youtube.com/watch?v=LsiPnUKPYdY">(1位)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Show Champion</p></td>

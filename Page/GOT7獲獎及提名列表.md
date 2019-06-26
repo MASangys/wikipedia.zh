@@ -672,9 +672,15 @@ Artist）](https://zh.wikipedia.org/wiki/告示牌音樂獎最佳社群媒體藝
 <td><p><a href="../Page/Present:_YOU.md" title="wikilink">&lt;Present : YOU&gt; &amp;ME Edition</a></p></td>
 </tr>
 <tr class="odd">
+<td><p>2019年</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/SPINNING_TOP_:_BETWEEN_SECURITY_&amp;_INSECURITY.md" title="wikilink">SPINNING TOP : BETWEEN SECURITY &amp; INSECURITY</a></p></td>
+</tr>
+<tr class="odd">
 <td><ul>
 <li>「*」：打榜中</li>
-<li>「/」：未入榜(或未出演)</li>
+<li>「/」：未入榜（含節目停播、未出演）</li>
 <li>「<span style="background:#808080">　</span>」：該段時期未設立排行榜</li>
 <li>2015年11月14日起，《<a href="https://zh.wikipedia.org/wiki/Show!_音樂中心" title="wikilink">Show! 音樂中心</a>》不設一位制度和排行榜制度，由2015年11月21日開始，改為由主持公布當週HOT3歌曲。2017年4月22日再次恢復排名制度。</li>
 </ul>
@@ -701,11 +707,11 @@ Artist）](https://zh.wikipedia.org/wiki/告示牌音樂獎最佳社群媒體藝
 <td><p><a href="../Page/韓國放送公社.md" title="wikilink">KBS</a></p></td>
 </tr>
 <tr class="even">
-<td><p>5</p></td>
-<td><p>7</p></td>
+<td><p>6</p></td>
+<td><p>8</p></td>
 </tr>
 <tr class="odd">
-<td><p>一位歌曲總數：25<br />
+<td><p>一位歌曲總數：28<br />
 四台冠軍歌曲總數：4<br />
 五台冠軍歌曲總數：1</p></td>
 <td><p>HOT3歌曲總數：3</p></td>
@@ -717,27 +723,85 @@ Artist）](https://zh.wikipedia.org/wiki/告示牌音樂獎最佳社群媒體藝
 
 ### 《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》獲冠軍次數
 
-|       |              |                         |                        |        |
-| ----- | ------------ | ----------------------- | ---------------------- | ------ |
-| 年份    | 日期           | 獲獎歌曲                    | 專輯                     | 來源     |
-| 2016年 | 3月31日        | 《Fly》                   | FLIGHT LOG : DEPARTURE | \[12\] |
-| 10月6日 | 《Hard Carry》 | FLIGHT LOG : TURBULENCE | \[13\]                 |        |
-| 2017年 | 3月23日        | 《Never Ever》            | FLIGHT LOG : ARRIVAL   |        |
-| 2018年 | 9月27日        | 《Lullaby》               | Present: YOU           |        |
-| 10月4日 |              |                         |                        |        |
+|       |              |                         |                                              |        |
+| ----- | ------------ | ----------------------- | -------------------------------------------- | ------ |
+| 年份    | 日期           | 獲獎歌曲                    | 專輯                                           | 來源     |
+| 2016年 | 3月31日        | 《Fly》                   | FLIGHT LOG : DEPARTURE                       | \[12\] |
+| 10月6日 | 《Hard Carry》 | FLIGHT LOG : TURBULENCE | \[13\]                                       |        |
+| 2017年 | 3月23日        | 《Never Ever》            | FLIGHT LOG : ARRIVAL                         |        |
+| 2018年 | 9月27日        | 《Lullaby》               | Present: YOU                                 |        |
+| 10月4日 |              |                         |                                              |        |
+| 2019年 | 5月30日        | 《ECLIPSE》               | SPINNING TOP : BETWEEN SECURITY & INSECURITY |        |
 
 ### 《[Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》獲冠軍次數
 
-|        |              |                                |                        |        |
-| ------ | ------------ | ------------------------------ | ---------------------- | ------ |
-| 年份     | 日期           | 獲獎歌曲                           | 專輯                     | 來源     |
-| 2016年  | 4月1日         | 《Fly》                          | FLIGHT LOG : DEPARTURE | \[14\] |
-| 10月7日  | 《Hard Carry》 | FLIGHT LOG : TURBULENCE        |                        |        |
-| 2017年  | 3月24日        | 《Never Ever》                   | FLIGHT LOG : ARRIVAL   |        |
-| 2018年  | 3月23日        | 《Look》                         | Eyes On You            | \[15\] |
-| 9月28日  | 《Lullaby》    | Present: YOU                   |                        |        |
-| 10月5日  |              |                                |                        |        |
-| 12月14日 | 《MiRACLE》    | \<Present : YOU\> \&ME Edition |                        |        |
+<table>
+<tbody>
+<tr class="odd">
+<td><p>年份</p></td>
+<td><p>日期</p></td>
+<td><p>獲獎歌曲</p></td>
+<td><p>專輯</p></td>
+<td><p>來源</p></td>
+</tr>
+<tr class="even">
+<td><p>2016年</p></td>
+<td><p>4月1日</p></td>
+<td><p>《Fly》</p></td>
+<td><p>FLIGHT LOG : DEPARTURE</p></td>
+<td><p>[14]</p></td>
+</tr>
+<tr class="odd">
+<td><p>10月7日</p></td>
+<td><p>《Hard Carry》</p></td>
+<td><p>FLIGHT LOG : TURBULENCE</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2017年</p></td>
+<td><p>3月24日</p></td>
+<td><p>《Never Ever》</p></td>
+<td><p>FLIGHT LOG : ARRIVAL</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2018年</p></td>
+<td><p>3月23日</p></td>
+<td><p>《Look》</p></td>
+<td><p>Eyes On You</p></td>
+<td><p>[15]</p></td>
+</tr>
+<tr class="even">
+<td><p>9月28日</p></td>
+<td><p>《Lullaby》</p></td>
+<td><p>Present: YOU</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>10月5日</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>12月14日</p></td>
+<td><p>《MiRACLE》</p></td>
+<td><p>&lt;Present : YOU&gt; &amp;ME Edition</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年</p></td>
+<td><p>6月7日</p></td>
+<td><p>《ECLIPSE》</p></td>
+<td><p>SPINNING TOP : BETWEEN SECURITY &amp; INSECURITY</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ### 《[Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")》獲HOT3歌曲次數
 
@@ -759,12 +823,13 @@ Artist）](https://zh.wikipedia.org/wiki/告示牌音樂獎最佳社群媒體藝
 
 ### 《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》獲冠軍次數
 
-|       |              |                         |                        |        |
-| ----- | ------------ | ----------------------- | ---------------------- | ------ |
-| 年份    | 日期           | 獲獎歌曲                    | 專輯                     | 來源     |
-| 2016年 | 4月3日         | 《Fly》                   | FLIGHT LOG : DEPARTURE | \[16\] |
-| 10月9日 | 《Hard Carry》 | FLIGHT LOG : TURBULENCE |                        |        |
-| 2018年 | 9月30日        | 《Lullaby》               | Present: YOU           |        |
+|       |              |                         |                                              |        |
+| ----- | ------------ | ----------------------- | -------------------------------------------- | ------ |
+| 年份    | 日期           | 獲獎歌曲                    | 專輯                                           | 來源     |
+| 2016年 | 4月3日         | 《Fly》                   | FLIGHT LOG : DEPARTURE                       | \[16\] |
+| 10月9日 | 《Hard Carry》 | FLIGHT LOG : TURBULENCE |                                              |        |
+| 2018年 | 9月30日        | 《Lullaby》               | Present: YOU                                 |        |
+| 2019年 | 6月2日         | 《ECLIPSE》               | SPINNING TOP : BETWEEN SECURITY & INSECURITY |        |
 
 ### 《[Show Champion](../Page/Show_Champion.md "wikilink")》獲冠軍次數
 

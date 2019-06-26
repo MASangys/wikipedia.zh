@@ -86,7 +86,7 @@ AO级游戏可以包含更高级别的暴力，亵渎，性或色情内容，而
 <td><p><a href="../Page/Eden*.md" title="wikilink">eden* PLUS+MOSAIC</a></p></td>
 <td><p>2015[22]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Microsoft_Windows" title="wikilink">Windows</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/MangaGamer" title="wikilink">MangaGamer</a></p></td>
+<td><p><a href="../Page/MangaGamer.md" title="wikilink">MangaGamer</a></p></td>
 <td><p>裸露，粗俗用语，强烈的性内容</p></td>
 <td><p>该游戏是日本开发商要求，通过ESRB评审并在美国发布。[23] 这个游戏的所有年龄版本也被评级。</p></td>
 </tr>
@@ -94,7 +94,7 @@ AO级游戏可以包含更高级别的暴力，亵渎，性或色情内容，而
 <td><p><a href="https://zh.wikipedia.org/wiki/ef_-_a_fairy_tale_of_the_two." title="wikilink">ef - a fairy tale of the two.</a>[24]</p></td>
 <td><p>2014[25]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Microsoft_Windows" title="wikilink">Windows</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/MangaGamer" title="wikilink">MangaGamer</a></p></td>
+<td><p><a href="../Page/MangaGamer.md" title="wikilink">MangaGamer</a></p></td>
 <td><p>血腥, 裸露，粗俗用语，性暴力，强烈的性内容</p></td>
 <td><p>不同于MangaGamer其他自评游戏，这个游戏是按照日本开发商的要求，通过ESRB评审并在美国发布。[26] 这个游戏已自评为18+。</p></td>
 </tr>

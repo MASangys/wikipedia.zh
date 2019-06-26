@@ -5,7 +5,7 @@
 [缩略图](https://zh.wikipedia.org/wiki/File:SILK_encoder_block_diagram.svg "fig:缩略图")
 Skype有限公司宣称SILK可以使用8、12、16或24 kHz的[采样率](../Page/取樣.md "wikilink")，以及6至40
 kbit/s的[比特率](../Page/比特率.md "wikilink")。它也可以使用一个25ms的低算法（20ms帧大小+5ms预留）。\[1\]参考实现采用C语言编写。该编解码器的技术基于[线性预测编码](../Page/线性预测编码.md "wikilink")（LPC）。\[2\]
-SILK有[二进制](https://zh.wikipedia.org/wiki/執行檔 "wikilink")[SDK提供](../Page/软件开发工具包.md "wikilink")。\[3\]
+SILK有[二进制](../Page/執行檔.md "wikilink")[SDK提供](../Page/软件开发工具包.md "wikilink")。\[3\]
 
 ## 许可协议
 

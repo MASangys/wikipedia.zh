@@ -92,14 +92,10 @@ Emmet团队为以下文本编辑器开发了插件：
 下列文本编辑器的插件为独立开发，使用不同的Emmet引擎：
 
   - [Emacs](../Page/Emacs.md "wikilink")（跨平台）
-
   - [IntelliJ
     IDEA](../Page/IntelliJ_IDEA.md "wikilink")/[WebStorm](../Page/JetBrains.md "wikilink")/（跨平台）
-
-  - （Windows）
-
+  - [RJ TextEd](../Page/RJ_TextEd.md "wikilink")（Windows）
   - Tincta Pro（Mac）
-
   - [Vim](../Page/Vim.md "wikilink")（跨平台）
 
 ## 参考资料

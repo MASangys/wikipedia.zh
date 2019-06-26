@@ -262,6 +262,13 @@ Eunhyuk](../Page/Super_Junior_Donghae_&_Eunhyuk.md "wikilink")**
 <td><p><a href="https://www.youtube.com/watch?v=IZtVqvNONt8">先行曲《Time with you》</a><br />
 <a href="https://www.youtube.com/watch?v=v_s7Vif3oDY">主打曲《Aewol-ri》</a></p></td>
 </tr>
+<tr class="even">
+<td><p>6月18日</p></td>
+<td><p>Pink Magic</p></td>
+<td><p><a href="../Page/藝聲.md" title="wikilink">藝聲</a></p></td>
+<td><p>迷你三輯</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=Tel9LEfAzwI">主打曲《Pink Magic》</a></p></td>
+</tr>
 </tbody>
 </table>
 

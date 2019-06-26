@@ -812,6 +812,47 @@ S/S](https://zh.wikipedia.org/wiki/2014_S/S_-Japan_Collection- "wikilink")》所
 </tbody>
 </table>
 
+### WINNER Private Stage WWIC 2019
+
+<table>
+<thead>
+<tr class="header">
+<th><p>日期</p></th>
+<th><p>時間</p></th>
+<th><p>城市</p></th>
+<th><p>國家</p></th>
+<th><p>演出場地</p></th>
+<th><p>上座數</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2019年6月29日</p></td>
+<td><p>14:00場次</p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a></p></td>
+<td></td>
+<td><p>獎忠體育館</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>18:00場次</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ## 其他大型公演
 
 | 日期             | 演唱會名稱                                                                                                        | 舉行地點                                           |

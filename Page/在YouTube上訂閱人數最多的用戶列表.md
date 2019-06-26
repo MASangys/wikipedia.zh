@@ -1,6 +1,6 @@
 [T-series-logo.svg](https://zh.wikipedia.org/wiki/File:T-series-logo.svg "fig:T-series-logo.svg")\[1\]為目前[YouTube上訂閱数最多的頻道](../Page/YouTube.md "wikilink")，截至2019年5月29日其頻道超過1億訂閱。\]\]
 本列表為影音分享網站[YouTube上訂閱人數前](../Page/YouTube.md "wikilink")50名的頻道列表\[2\]。訂閱頻道的功能自2005年10月開始啟用\[3\]
-，而YouTube則自2006年開始計算最多訂閱頻道的排名。當時最多訂閱者的頻道是[Smosh](../Page/Smosh.md "wikilink")，有3,000名訂閱者\[4\]。自2013年以來，位居這份名單榜首的是瑞典籍[PewDiePie](../Page/PewDiePie.md "wikilink")，並一直維持了六年至2019年4月。截至2019年5月29日，位居這份名單榜首的是印度籍[T-Series](../Page/T-Series.md "wikilink")，其頻道已有超過1億名訂閱者。\[5\]\[6\]
+，而YouTube則自2006年開始計算最多訂閱頻道的排名。當時最多訂閱者的頻道是[Smosh](../Page/Smosh.md "wikilink")，有3,000名訂閱者\[4\]。自2013年以來，位居這份名單榜首的是[PewDiePie](../Page/PewDiePie.md "wikilink")，並一直維持了六年至2019年4月。截至2019年5月29日，位居這份名單榜首的是[T-Series](../Page/T-Series.md "wikilink")，其頻道已有超過1億名訂閱者。\[5\]\[6\]
 
 ## 熱門頻道
 
@@ -25,7 +25,7 @@
 <td><p>1</p></td>
 <td></td>
 <td><p><a href="../Page/T-Series.md" title="wikilink">T-Series</a>[9]</p></td>
-<td><p>100</p></td>
+<td><p>102</p></td>
 <td><p>T-Series[10]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/印地语" title="wikilink">印地语</a>[11]<ref>{{cite web |title=T-Series Rules YouTube's Airwaves, but Bhushan Kumar Is Not Stopping Here |url=<a href="https://economictimes.com/magazines/panache/t-series-rules-youtubes-airwaves-but-bhushan-kumar-is-not-stopping-here/articleshow/56748220.cms">https://economictimes.com/magazines/panache/t-series-rules-youtubes-airwaves-but-bhushan-kumar-is-not-stopping-here/articleshow/56748220.cms</a> |website={{tsl|en|The Economic Times</p></td>
 <td><p>The Economic Times}} |publisher={{tsl|en|Bennett, Coleman &amp; Co.</p></td>
@@ -44,54 +44,54 @@
 <td></td>
 <td><p>{{tsl|en|5-Minute Crafts</p></td>
 <td><p>5-Minute Crafts}}[15]</p></td>
-<td><p>56</p></td>
+<td><p>57</p></td>
 <td><p>{{tsl|en|Channel Frederator</p></td>
 <td><p>Channel Frederator}}[16]</p></td>
 </tr>
 <tr class="even">
 <td><p>4</p></td>
 <td></td>
-<td><p>{{tsl|en|Canal KondZilla</p></td>
-<td><p>Canal KondZilla}}[17]</p></td>
-<td><p>49</p></td>
-<td><p>{{tsl|en|ONErpm</p></td>
-<td><p>ONErpm}}[18]</p></td>
+<td><p>{{tsl|en|Cocomelon - Nursery Rhymes</p></td>
+<td><p>Cocomelon - Nursery Rhymes}}[17]</p></td>
+<td><p>51</p></td>
+<td><p>{{tsl|en|Fullscreen (company)</p></td>
+<td><p>Fullscreen}}[18]</p></td>
 </tr>
 <tr class="odd">
 <td><p>5</p></td>
 <td></td>
-<td><p>{{tsl|en|Cocomelon - Nursery Rhymes</p></td>
-<td><p>Cocomelon - Nursery Rhymes}}[19]</p></td>
-<td><p>{{tsl|en|Fullscreen (company)</p></td>
-<td><p>Fullscreen}}[20]</p></td>
-<td><p><a href="../Page/英语.md" title="wikilink">英语</a></p></td>
+<td><p>{{tsl|en|Canal KondZilla</p></td>
+<td><p>Canal KondZilla}}[19]</p></td>
+<td><p>50</p></td>
+<td><p>{{tsl|en|ONErpm</p></td>
+<td><p>ONErpm}}[20]</p></td>
 </tr>
 <tr class="even">
 <td><p>6</p></td>
 <td></td>
 <td><p>{{tsl|en|SET India</p></td>
 <td><p>SET India}}[21]</p></td>
-<td><p>48</p></td>
 <td><p>[22]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/印地语" title="wikilink">印地语</a><ref>{{cite web |title=SET India – About |url=<a href="https://www.youtube.com/user/setindia/about">https://www.youtube.com/user/setindia/about</a> |website=YouTube |publisher={{tsl|en|Sony Pictures Networks India</p></td>
+<td><p>Sony Pictures Networks India}} |accessdate=2018-11-30 |deadurl=no |archiveurl=<a href="https://web.archive.org/web/20130723173358/https://www.youtube.com/user/setindia/about">https://web.archive.org/web/20130723173358/https://www.youtube.com/user/setindia/about</a> |archivedate=2013-07-23}}</ref>[23]</p></td>
 </tr>
 <tr class="odd">
 <td><p>7</p></td>
 <td></td>
-<td><p><a href="../Page/贾斯汀·比伯.md" title="wikilink">Justin Bieber</a>[23]</p></td>
+<td><p><a href="../Page/贾斯汀·比伯.md" title="wikilink">Justin Bieber</a>[24]</p></td>
 <td><p>45</p></td>
-<td><p>[24]</p></td>
-<td><p><a href="../Page/英语.md" title="wikilink">英语</a>[25][26][27]</p></td>
+<td><p>[25]</p></td>
+<td><p><a href="../Page/英语.md" title="wikilink">英语</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>8</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/世界摔角娛樂" title="wikilink">WWE</a>[28]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/世界摔角娛樂" title="wikilink">WWE</a>[26]</p></td>
 <td><p>44</p></td>
-<td><p>WWE[29]</p></td>
+<td><p>WWE[27]</p></td>
+<td><p><a href="../Page/英语.md" title="wikilink">英语</a></p></td>
 <td><p>體育</p></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>9</p></td>
@@ -100,32 +100,32 @@
 <td><p>Dude Perfect}}<ref>{{cite web|title=Dude Perfect|url=<a href="https://www.youtube.com/user/corycotton%7Cwebsite=YouTube%7Cpublisher=">https://www.youtube.com/user/corycotton|website=YouTube|publisher=</a>{{tsl|en|Whistle Sports</p></td>
 <td><p>Whistle Sports}}|accessdate=2018-03-07}}</ref></p></td>
 <td><p>42</p></td>
-<td><p>rowspan="3" [30][31][32]</p></td>
+<td><p>[28]</p></td>
 </tr>
 <tr class="even">
 <td><p>10</p></td>
 <td></td>
-<td><p>Badabun[33]</p></td>
-<td><p>39</p></td>
+<td><p>Badabun[29]</p></td>
+<td><p>40</p></td>
+<td><p>[30]</p></td>
 <td><p><a href="../Page/西班牙语.md" title="wikilink">西班牙语</a></p></td>
 <td><p>娛樂</p></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>11</p></td>
 <td></td>
-<td><p><a href="../Page/紅髮艾德.md" title="wikilink">Ed Sheeran</a>[34]</p></td>
+<td><p><a href="../Page/紅髮艾德.md" title="wikilink">Ed Sheeran</a>[31]</p></td>
+<td><p>39</p></td>
+<td><p>[32]</p></td>
 <td><p><a href="../Page/英语.md" title="wikilink">英语</a><ref>{{cite web |last1=DeVille |first1=Chris |title=America's Pop Mainstream Is Finally Making Room for Languages Other Than English |url=<a href="https://www.stereogum.com/1998499/americas-pop-mainstream-is-finally-making-room-for-languages-other-than-english/franchises/the-week-in-pop/">https://www.stereogum.com/1998499/americas-pop-mainstream-is-finally-making-room-for-languages-other-than-english/franchises/the-week-in-pop/</a> |website={{tsl|en|Stereogum</p></td>
 <td><p>Stereogum}} |publisher={{tsl|en|Eldridge Industries</p></td>
-<td><p>Prometheus Global Media}} |accessdate=2018-11-30 |deadurl=no |archiveurl=<a href="https://web.archive.org/web/20180723064120/https://www.stereogum.com/1998499/americas-pop-mainstream-is-finally-making-room-for-languages-other-than-english/franchises/the-week-in-pop/">https://web.archive.org/web/20180723064120/https://www.stereogum.com/1998499/americas-pop-mainstream-is-finally-making-room-for-languages-other-than-english/franchises/the-week-in-pop/</a> |archivedate=2018-07-23}}</ref></p></td>
-<td><p>音樂</p></td>
 </tr>
 <tr class="even">
 <td><p>12</p></td>
 <td></td>
-<td><p><a href="../Page/赫爾曼·加門迪亞.md" title="wikilink">HolaSoyGerman.</a>[35]</p></td>
-<td><p>HolaSoyGerman[36]</p></td>
-<td><p><a href="../Page/西班牙语.md" title="wikilink">西班牙语</a>[37]</p></td>
+<td><p><a href="../Page/赫爾曼·加門迪亞.md" title="wikilink">HolaSoyGerman.</a>[33]</p></td>
+<td><p>HolaSoyGerman[34]</p></td>
+<td><p><a href="../Page/西班牙语.md" title="wikilink">西班牙语</a>[35]</p></td>
 <td><p>娛樂</p></td>
 <td></td>
 </tr>
@@ -135,29 +135,38 @@
 <td><p>{{tsl|en|Zee Music Company</p></td>
 <td><p>Zee Music Company}}<ref>{{cite web|title=Zee Music Company|url=<a href="https://www.youtube.com/user/zeemusiccompany%7Cwebsite=YouTube%7Cpublisher=">https://www.youtube.com/user/zeemusiccompany|website=YouTube|publisher=</a>{{tsl|en|Essel Group</p></td>
 <td><p>Essel Group}}|accessdate=2018-05-18}}</ref></p></td>
-<td><p>37</p></td>
-<td><p>Zee Music Company[38]</p></td>
+<td><p>Zee Music Company[36]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/印地语" title="wikilink">印地语</a><ref>{{cite web |title=Zee Music Company – About |url=<a href="https://www.youtube.com/user/zeemusiccompany/about">https://www.youtube.com/user/zeemusiccompany/about</a> |website=YouTube |publisher={{tsl|en|Zee Entertainment Enterprises</p></td>
 </tr>
 <tr class="even">
 <td><p>14</p></td>
 <td></td>
 <td><p><a href="../Page/Eminem.md" title="wikilink">EminemMusic</a><ref>{{cite web|title=EminemMusic|url=<a href="https://www.youtube.com/user/EminemMusic/%7Cwebsite=YouTube%7Cpublisher=">https://www.youtube.com/user/EminemMusic/|website=YouTube|publisher=</a>{{tsl|en|Aftermath Records</p></td>
 <td><p>Aftermath Records}}|accessdate=2018-04-18}}</ref></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/环球音乐集团" title="wikilink">UniversalMC</a>[39]</p></td>
+<td><p>37</p></td>
+<td><p><a href="../Page/环球音乐集团.md" title="wikilink">UniversalMC</a>[37]</p></td>
 <td><p><a href="../Page/英语.md" title="wikilink">英语</a></p></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>15</p></td>
 <td></td>
-<td><p><a href="../Page/爱莉安娜·格兰德.md" title="wikilink">Ariana Grande`</a>[40]</p></td>
-<td><p>35</p></td>
-<td><p>[41]</p></td>
-<td></td>
+<td><p><a href="../Page/爱莉安娜·格兰德.md" title="wikilink">Ariana Grande`</a>[38]</p></td>
+<td><p>36</p></td>
+<td><p>[39]</p></td>
+<td><p><a href="../Page/英语.md" title="wikilink">英语</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>16</p></td>
+<td></td>
+<td><p><a href="../Page/棉花糖_(音乐人).md" title="wikilink">Marshmello</a>[40]</p></td>
+<td><p>35</p></td>
+<td><p><a href="../Page/Monstercat.md" title="wikilink">Monstercat Media</a>[41]</p></td>
+<td><p><a href="../Page/英语.md" title="wikilink">英语</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>17</p></td>
 <td></td>
 <td><p>{{tsl|en|whinderssonnunes</p></td>
 <td><p>whinderssonnunes}}[42]</p></td>
@@ -165,38 +174,29 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/葡萄牙語" title="wikilink">葡萄牙語</a></p></td>
 <td><p>搞笑</p></td>
 </tr>
-<tr class="odd">
-<td><p>17</p></td>
-<td></td>
-<td><p><a href="../Page/棉花糖_(音乐人).md" title="wikilink">Marshmello</a>[44]</p></td>
-<td><p><a href="../Page/Monstercat.md" title="wikilink">Monstercat Media</a>[45]</p></td>
-<td><p><a href="../Page/英语.md" title="wikilink">英语</a></p></td>
-<td><p>娛樂</p></td>
-<td></td>
-</tr>
 <tr class="even">
 <td><p>18</p></td>
 <td></td>
-<td><p><a href="../Page/赫爾曼·加門迪亞.md" title="wikilink">JuegaGerman</a>[46]</p></td>
-<td><p>HolaSoyGerman[47]</p></td>
+<td><p><a href="../Page/赫爾曼·加門迪亞.md" title="wikilink">JuegaGerman</a>[44]</p></td>
+<td><p>HolaSoyGerman[45]</p></td>
 <td><p><a href="../Page/西班牙语.md" title="wikilink">西班牙语</a></p></td>
-<td></td>
+<td><p>娛樂</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>19</p></td>
 <td></td>
 <td><p>{{tsl|en|elrubiusOMG</p></td>
-<td><p>elrubiusOMG}}[48]</p></td>
+<td><p>elrubiusOMG}}[46]</p></td>
 <td><p>34</p></td>
-<td><p>Mixicom[49]</p></td>
-<td></td>
+<td><p>Mixicom[47]</p></td>
+<td><p><a href="../Page/西班牙语.md" title="wikilink">西班牙语</a></p></td>
 </tr>
 <tr class="even">
 <td><p>20</p></td>
 <td></td>
-<td><p><a href="../Page/泰勒·斯威夫特.md" title="wikilink">Taylor Swift</a>[50]</p></td>
-<td><p>rowspan="2" [51][52]</p></td>
+<td><p><a href="../Page/泰勒·斯威夫特.md" title="wikilink">Taylor Swift</a>[48]</p></td>
+<td><p>[49]</p></td>
 <td><p><a href="../Page/英语.md" title="wikilink">英语</a></p></td>
 <td><p>音樂</p></td>
 <td></td>
@@ -206,43 +206,43 @@
 <td></td>
 <td><p><a href="../Page/凱蒂·佩芮.md" title="wikilink">Katy Perry</a><ref>{{cite web|title=Katy Perry|url=<a href="https://www.youtube.com/user/KatyPerryMusic%7Cwebsite=YouTube%7Cpublisher=">https://www.youtube.com/user/KatyPerryMusic|website=YouTube|publisher=</a>{{tsl|en|Capitol Records</p></td>
 <td><p>Capitol Records}}|accessdate=2018-04-10}}</ref></p></td>
-<td><p>33</p></td>
-<td></td>
+<td><p>[50]</p></td>
+<td><p><a href="../Page/英语.md" title="wikilink">英语</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>22</p></td>
 <td></td>
 <td><p>{{tsl|en|Fernanfloo</p></td>
-<td><p>Fernanfloo}}[53]</p></td>
+<td><p>Fernanfloo}}[51]</p></td>
+<td><p>33</p></td>
 <td><p>{{tsl|en|BroadbandTV</p></td>
-<td><p>BroadbandTV}}[54]</p></td>
-<td><p><a href="../Page/西班牙语.md" title="wikilink">西班牙语</a></p></td>
+<td><p>BroadbandTV}}[52]</p></td>
 </tr>
 <tr class="odd">
 <td><p>23</p></td>
 <td></td>
-<td><p><a href="../Page/艾倫·狄珍妮秀.md" title="wikilink">TheEllenShow</a>[55]</p></td>
+<td><p>{{tsl|en|Felipe Neto</p></td>
+<td><p>Felipe Neto}}[53]</p></td>
 <td><p>32</p></td>
-<td><p><a href="../Page/華納媒體.md" title="wikilink">WarnerMedia</a>[56]</p></td>
-<td><p><a href="../Page/英语.md" title="wikilink">英语</a></p></td>
-<td><p>娛樂</p></td>
+<td><p>{{tsl|en|Maker Studios</p></td>
+<td><p>Maker Studios}}[54]</p></td>
 </tr>
 <tr class="even">
 <td><p>24</p></td>
 <td></td>
-<td><p>{{tsl|en|Felipe Neto</p></td>
-<td><p>Felipe Neto}}[57]</p></td>
-<td><p>{{tsl|en|Maker Studios</p></td>
-<td><p>Maker Studios}}[58]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/葡萄牙語" title="wikilink">葡萄牙語</a></p></td>
+<td><p><a href="../Page/艾倫·狄珍妮秀.md" title="wikilink">TheEllenShow</a>[55]</p></td>
+<td><p><a href="../Page/華納媒體.md" title="wikilink">WarnerMedia</a>[56]</p></td>
+<td><p><a href="../Page/英语.md" title="wikilink">英语</a></p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
-<td><p>style="text-align:center | 25</p></td>
-<td><p>style="text-align:center |</p></td>
+<td><p>25</p></td>
+<td></td>
 <td><p><a href="../Page/蕾哈娜.md" title="wikilink">Rihanna</a><ref>{{cite web|title=Rihanna|url=<a href="https://www.youtube.com/user/rihanna%7Cwebsite=YouTube%7Cpublisher=">https://www.youtube.com/user/rihanna|website=YouTube|publisher=</a>{{tsl|en|Roc Nation</p></td>
 <td><p>Roc Nation}}|accessdate=2018-04-02}}</ref></p></td>
-<td><p>[59]</p></td>
+<td><p>[57]</p></td>
 <td><p><a href="../Page/英语.md" title="wikilink">英语</a></p></td>
 <td><p>音樂</p></td>
 </tr>
@@ -251,105 +251,105 @@
 <td></td>
 <td><p><a href="../Page/Zee_TV.md" title="wikilink">Zee TV</a><ref>{{cite web|title=Zee TV|url=<a href="https://www.youtube.com/user/zeetv%7Cwebsite=YouTube%7Cpublisher=">https://www.youtube.com/user/zeetv|website=YouTube|publisher=</a>{{tsl|en|Diligent Media Corporation</p></td>
 <td><p>DMCL}}|accessdate=2018-09-06}}</ref></p></td>
-<td><p>29</p></td>
+<td><p>30</p></td>
 <td><p>{{tsl|en|Diligent Media Corporation</p></td>
-<td><p>DMCL}}[60]</p></td>
+<td><p>DMCL}}[58]</p></td>
 </tr>
 <tr class="odd">
 <td><p>27</p></td>
 <td></td>
-<td><p><a href="../Page/1世代.md" title="wikilink">One Direction</a>[61]</p></td>
-<td><p>[62]</p></td>
+<td><p><a href="../Page/1世代.md" title="wikilink">One Direction</a>[59]</p></td>
+<td><p>29</p></td>
+<td><p>[60]</p></td>
 <td><p><a href="../Page/英语.md" title="wikilink">英语</a></p></td>
 <td><p>音樂</p></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>28</p></td>
 <td></td>
-<td><p>✿ Kids Diana Show[63]</p></td>
-<td><p>27</p></td>
-<td><p>AIR[64]</p></td>
+<td><p>✿ Kids Diana Show[61]</p></td>
+<td><p>AIR[62]</p></td>
+<td><p><a href="../Page/英语.md" title="wikilink">英语</a></p></td>
 <td><p>娛樂</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>29</p></td>
 <td></td>
-<td><p>Bright Side[65]</p></td>
-<td><p>26</p></td>
+<td><p>Like Nastya Vlog[63]</p></td>
+<td><p>27</p></td>
 <td></td>
-<td><p>旅遊</p></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/俄语" title="wikilink">俄语</a></p></td>
+<td><p>娛樂</p></td>
 </tr>
 <tr class="even">
 <td><p>30</p></td>
 <td></td>
-<td><p>{{tsl|en|Movieclips</p></td>
-<td><p>Movieclips}}[66]</p></td>
-<td><p>Movieclips[67]</p></td>
-<td><p>電影與動漫</p></td>
+<td><p>Bright Side[64]</p></td>
+<td></td>
+<td><p><a href="../Page/英语.md" title="wikilink">英语</a></p></td>
+<td><p>旅遊</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>31</p></td>
 <td></td>
-<td><p>Vegetta777[68]</p></td>
-<td><p>Mixicom[69]</p></td>
-<td><p><a href="../Page/西班牙语.md" title="wikilink">西班牙语</a></p></td>
-<td><p>遊戲</p></td>
-<td></td>
+<td><p>{{tsl|en|Movieclips</p></td>
+<td><p>Movieclips}}[65]</p></td>
+<td><p>Movieclips[66]</p></td>
+<td><p><a href="../Page/英语.md" title="wikilink">英语</a></p></td>
+<td><p>電影與動畫</p></td>
 </tr>
 <tr class="even">
 <td><p>32</p></td>
 <td></td>
-<td><p>{{tsl|en|Trap Nation</p></td>
-<td><p>Trap Nation}}[70]</p></td>
-<td><p>rowspan="2" [71]</p></td>
-<td><p><a href="../Page/英语.md" title="wikilink">英语</a></p></td>
+<td><p><a href="../Page/BLACKPINK.md" title="wikilink">BLACKPINK</a>[67]</p></td>
+<td><p><a href="../Page/YG娛樂.md" title="wikilink">YG娛樂</a>[68]</p></td>
+<td><p><a href="../Page/朝鮮語.md" title="wikilink">朝鮮語</a></p></td>
 <td><p>音樂</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>33</p></td>
 <td></td>
-<td><p>Like Nastya Vlog[72]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/俄语" title="wikilink">俄语</a></p></td>
-<td><p>娛樂</p></td>
-<td></td>
+<td><p><a href="../Page/艾倫·沃克.md" title="wikilink">Alan Walker</a>[69]</p></td>
+<td><p>26</p></td>
+<td><p>RouteNote[70]</p></td>
+<td><p><a href="../Page/英语.md" title="wikilink">英语</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>34</p></td>
 <td></td>
-<td><p><a href="../Page/BLACKPINK.md" title="wikilink">BLACKPINK</a>[73]</p></td>
-<td><p><a href="../Page/YG娛樂.md" title="wikilink">YG娛樂</a>[74]</p></td>
-<td><p><a href="../Page/朝鮮語.md" title="wikilink">朝鮮語</a></p></td>
-<td><p>音樂</p></td>
+<td><p>Vegetta777[71]</p></td>
+<td><p>Mixicom[72]</p></td>
+<td><p><a href="../Page/西班牙语.md" title="wikilink">西班牙语</a></p></td>
+<td><p>遊戲</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>35</p></td>
 <td></td>
-<td><p><a href="../Page/艾倫·沃克.md" title="wikilink">Alan Walker</a>[75]</p></td>
-<td><p>RouteNote[76]</p></td>
-<td><p><a href="../Page/英语.md" title="wikilink">英语</a></p></td>
-<td></td>
+<td><p><a href="../Page/Big_Hit娛樂.md" title="wikilink">ibighit</a>[73]</p></td>
+<td><p><a href="../Page/Kakao_M.md" title="wikilink">LOEN娛樂</a>[74]</p></td>
+<td><p><a href="../Page/朝鮮語.md" title="wikilink">朝鮮語</a></p></td>
+<td><p>音樂</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>36</p></td>
 <td></td>
-<td><p><a href="../Page/Big_Hit娛樂.md" title="wikilink">ibighit</a>[77]</p></td>
-<td><p><a href="../Page/Kakao_M.md" title="wikilink">LOEN娛樂</a>[78]</p></td>
-<td><p><a href="../Page/朝鮮語.md" title="wikilink">朝鮮語</a></p></td>
-<td></td>
+<td><p>{{tsl|en|Trap Nation</p></td>
+<td><p>Trap Nation}}[75]</p></td>
+<td><p>[76]</p></td>
+<td><p><a href="../Page/英语.md" title="wikilink">英语</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>37</p></td>
 <td></td>
-<td><p><a href="../Page/魔力紅.md" title="wikilink">Maroon 5</a>[79]</p></td>
-<td><p>[80]</p></td>
+<td><p><a href="../Page/魔力紅.md" title="wikilink">Maroon 5</a>[77]</p></td>
+<td><p>[78]</p></td>
 <td><p><a href="../Page/英语.md" title="wikilink">英语</a></p></td>
 <td></td>
 <td></td>
@@ -358,67 +358,76 @@
 <td><p>38</p></td>
 <td></td>
 <td><p>{{tsl|en|Sony Music India</p></td>
-<td><p>Sony Music India}}[81]</p></td>
+<td><p>Sony Music India}}[79]</p></td>
 <td><p>25</p></td>
-<td><p><a href="../Page/索尼音樂娛樂.md" title="wikilink">Sony BMG</a>[82]</p></td>
+<td><p><a href="../Page/索尼音樂娛樂.md" title="wikilink">Sony BMG</a>[80]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/印地语" title="wikilink">印地语</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>39</p></td>
 <td></td>
-<td><p><a href="../Page/斯宾尼唱片.md" title="wikilink">Spinnin' Records</a>[83]</p></td>
-<td><p>Spinnin' Records[84]</p></td>
-<td><p><a href="../Page/英语.md" title="wikilink">英语</a></p></td>
+<td><p><a href="../Page/路易斯·馮西.md" title="wikilink">Luis Fonsi</a><ref>{{cite web|title=Luis Fonsi|url=<a href="https://www.youtube.com/user/LuisFonsiVivo%7Cwebsite=YouTube%7Cpublisher=">https://www.youtube.com/user/LuisFonsiVivo|website=YouTube|publisher=</a>{{tsl|en|Universal Music Latin</p></td>
+<td><p>Universal Music Latin}}|accessdate=2018-04-18}}</ref></p></td>
 <td></td>
+<td><p><a href="../Page/西班牙语.md" title="wikilink">西班牙语</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>40</p></td>
 <td></td>
-<td><p><a href="../Page/路易斯·馮西.md" title="wikilink">Luis Fonsi</a><ref>{{cite web|title=Luis Fonsi|url=<a href="https://www.youtube.com/user/LuisFonsiVivo%7Cwebsite=YouTube%7Cpublisher=">https://www.youtube.com/user/LuisFonsiVivo|website=YouTube|publisher=</a>{{tsl|en|Universal Music Latin</p></td>
-<td><p>Universal Music Latin}}|accessdate=2018-04-18}}</ref></p></td>
-<td><p>rowspan="2" [85]</p></td>
-<td><p><a href="../Page/西班牙语.md" title="wikilink">西班牙语</a></p></td>
+<td><p><a href="../Page/斯宾尼唱片.md" title="wikilink">Spinnin' Records</a>[81]</p></td>
+<td><p>Spinnin' Records[82]</p></td>
+<td><p><a href="../Page/英语.md" title="wikilink">英语</a></p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>41</p></td>
 <td></td>
-<td><p><a href="../Page/夏奇拉.md" title="wikilink">Shakira</a><ref>{{cite web|title=Shakira|url=<a href="https://www.youtube.com/user/shakira%7Cwebsite=YouTube%7Cpublisher=">https://www.youtube.com/user/shakira|website=YouTube|publisher=</a>{{tsl|en|Sony Music Latin</p></td>
-<td><p>Sony Music Latin}}|accessdate=2018-04-10}}</ref></p></td>
-<td><p><a href="../Page/西班牙语.md" title="wikilink">西班牙语和</a><a href="https://zh.wikipedia.org/wiki/英語" title="wikilink">英語</a></p></td>
-<td><p>人物與部落客</p></td>
+<td><p>Você Sabia?[83]</p></td>
+<td><p>Maker Studios[84]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/葡萄牙語" title="wikilink">葡萄牙語</a></p></td>
+<td><p>娛樂</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>42</p></td>
 <td></td>
-<td><p>Você Sabia?[86]</p></td>
-<td><p>Maker Studios[87]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/葡萄牙語" title="wikilink">葡萄牙語</a></p></td>
-<td><p>娛樂</p></td>
-<td></td>
+<td><p><a href="../Page/夏奇拉.md" title="wikilink">Shakira Mebarak</a><ref>{{cite web|title=Shakira|url=<a href="https://www.youtube.com/user/shakira%7Cwebsite=YouTube%7Cpublisher=">https://www.youtube.com/user/shakira|website=YouTube|publisher=</a>{{tsl|en|Sony Music Latin</p></td>
+<td><p>Sony Music Latin}}|accessdate=2018-04-10}}</ref></p></td>
+<td><p>[85]</p></td>
+<td><p><a href="../Page/西班牙语.md" title="wikilink">西班牙语和</a><a href="https://zh.wikipedia.org/wiki/英語" title="wikilink">英語</a></p></td>
+<td><p>人物與部落客</p></td>
 </tr>
 <tr class="odd">
 <td><p>43</p></td>
 <td></td>
-<td><p>Wave Music[88]</p></td>
+<td><p>Wave Music[86]</p></td>
 <td><p>{{tsl|en|HT Media</p></td>
-<td><p>HT Mobile}}[89]</p></td>
+<td><p>HT Mobile}}[87]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/博杰普尔语" title="wikilink">博杰普尔语</a></p></td>
 <td><p>音樂</p></td>
 </tr>
 <tr class="even">
 <td><p>44</p></td>
 <td></td>
-<td><p><a href="../Page/布鲁诺·马尔斯.md" title="wikilink">Bruno Mars</a>[90]</p></td>
-<td><p>24</p></td>
-<td><p>[91]</p></td>
+<td><p><a href="../Page/布鲁诺·马尔斯.md" title="wikilink">Bruno Mars</a>[88]</p></td>
+<td><p>[89]</p></td>
 <td><p><a href="../Page/英语.md" title="wikilink">英语</a></p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>45</p></td>
+<td></td>
+<td><p>ToyPudding TV[90]</p></td>
+<td><p>24</p></td>
+<td><p><a href="../Page/Machinima公司.md" title="wikilink">Machinima</a>[91]</p></td>
+<td><p><a href="../Page/英语.md" title="wikilink">英语</a></p></td>
+<td><p>娛樂</p></td>
+</tr>
+<tr class="even">
+<td><p>46</p></td>
 <td></td>
 <td><p>{{tsl|en|Luccas Neto</p></td>
 <td><p>Luccas Neto - Lunes}}<ref>{{cite web|title=Luccas Neto - Lunes|url=<a href="https://www.youtube.com/user/luccasneto%7Cwebsite=YouTube%7Cpublisher=">https://www.youtube.com/user/luccasneto|website=YouTube|publisher=</a>{{tsl|en|BroadbandTV</p></td>
@@ -426,53 +435,44 @@
 <td><p>BroadbandTV[92]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/葡萄牙語" title="wikilink">葡萄牙語</a></p></td>
 </tr>
-<tr class="even">
-<td><p>46</p></td>
-<td></td>
-<td><p>ToyPudding TV[93]</p></td>
-<td><p><a href="../Page/Machinima公司.md" title="wikilink">Machinima</a>[94]</p></td>
-<td><p><a href="../Page/英语.md" title="wikilink">英语</a></p></td>
-<td><p>娛樂</p></td>
-<td></td>
-</tr>
 <tr class="odd">
 <td><p>47</p></td>
 <td></td>
 <td><p>{{tsl|en|Ozuna (singer)</p></td>
-<td><p>Ozuna}}[95]</p></td>
-<td><p>Rimas Entertainment[96]</p></td>
+<td><p>Ozuna}}[93]</p></td>
+<td><p>Rimas Entertainment[94]</p></td>
 <td><p><a href="../Page/西班牙语.md" title="wikilink">西班牙语</a></p></td>
 <td><p>音樂</p></td>
 </tr>
 <tr class="even">
 <td><p>48</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/VanossGaming" title="wikilink">VanossGaming</a>[97]</p></td>
-<td><p>[98]</p></td>
-<td><p><a href="../Page/英语.md" title="wikilink">英语</a></p></td>
-<td><p>遊戲</p></td>
+<td><p>Get Movies[95]</p></td>
+<td><p>LetsonCorp[96]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/俄语" title="wikilink">俄语</a></p></td>
+<td><p>娛樂</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>49</p></td>
 <td></td>
-<td><p>Get Movies[99]</p></td>
-<td><p>LetsonCorp[100]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/俄语" title="wikilink">俄语</a></p></td>
-<td><p>娛樂</p></td>
+<td><p>[97]</p></td>
+<td><p>Shemaroo Music[98]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/印地语" title="wikilink">印地语</a></p></td>
+<td><p>音樂</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>50</p></td>
 <td></td>
-<td><p><a href="../Page/Smosh.md" title="wikilink">Smosh</a>[101]</p></td>
+<td><p>Goldmines Telefilms[99]</p></td>
 <td></td>
-<td><p><a href="../Page/英语.md" title="wikilink">英语</a></p></td>
-<td><p>搞笑</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/印地语" title="wikilink">印地语</a></p></td>
+<td><p>電影與動畫</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>截至2019年6月3日</p></td>
+<td><p>截至2019年6月17日</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -485,7 +485,7 @@
 
 ## 最多訂閱保持者
 
-以下列出自2006年5月開始計算以來、名列最多訂閱者頻道的最近十六個頻道，以及記錄起訖。
+以下列出自2006年5月開始計算以來、名列最多訂閱者頻道的最近十九個頻道，以及記錄起訖。
 
 <table>
 <thead>
@@ -500,7 +500,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/T-Series.md" title="wikilink">T-Series</a>[102]</p></td>
+<td><p><a href="../Page/T-Series.md" title="wikilink">T-Series</a>[100]</p></td>
 <td><p><a href="../Page/T-Series.md" title="wikilink">T-Series</a></p></td>
 <td></td>
 <td><p>2019-4-14</p></td>
@@ -508,7 +508,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/PewDiePie.md" title="wikilink">PewDiePie</a>[103]</p></td>
+<td><p><a href="../Page/PewDiePie.md" title="wikilink">PewDiePie</a>[101]</p></td>
 <td><p><a href="../Page/PewDiePie.md" title="wikilink">Felix Kjellberg</a></p></td>
 <td></td>
 <td><p>2019-4-1</p></td>
@@ -516,7 +516,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/T-Series.md" title="wikilink">T-Series</a>[104]</p></td>
+<td><p><a href="../Page/T-Series.md" title="wikilink">T-Series</a>[102]</p></td>
 <td><p>T-Series</p></td>
 <td></td>
 <td><p>2019-3-27</p></td>
@@ -524,87 +524,87 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/PewDiePie.md" title="wikilink">PewDiePie</a>[105]</p></td>
+<td><p><a href="../Page/PewDiePie.md" title="wikilink">PewDiePie</a>[103]</p></td>
 <td><p>Felix Kjellberg</p></td>
 <td></td>
 <td><p>2013-12-22</p></td>
 <td><p><strong>1920</strong></p></td>
-<td><p>[106]</p></td>
+<td><p>[104]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/YouTube聚光燈.md" title="wikilink">YouTube Spotlight</a>[107]</p></td>
+<td><p><a href="../Page/YouTube聚光燈.md" title="wikilink">YouTube Spotlight</a>[105]</p></td>
 <td><p><a href="../Page/Google.md" title="wikilink">Google</a></p></td>
 <td></td>
 <td><p>2013-12-12</p></td>
 <td><p>10</p></td>
-<td><p>[108][109]</p></td>
+<td><p>[106][107]</p></td>
 </tr>
 <tr class="even">
-<td><p>PewDiePie[110]</p></td>
+<td><p>PewDiePie[108]</p></td>
 <td><p>Felix Kjellberg</p></td>
 <td></td>
 <td><p>2013-12-8</p></td>
 <td><p>4</p></td>
-<td><p>[111]</p></td>
+<td><p>[109]</p></td>
 </tr>
 <tr class="odd">
-<td><p>YouTube Spotlight[112]</p></td>
+<td><p>YouTube Spotlight[110]</p></td>
 <td><p>Google</p></td>
 <td></td>
 <td><p>2013-11-2</p></td>
 <td><p>36</p></td>
-<td><p>[113]</p></td>
+<td><p>[111]</p></td>
 </tr>
 <tr class="even">
-<td><p>PewDiePie[114]</p></td>
+<td><p>PewDiePie[112]</p></td>
 <td><p>Felix Kjellberg</p></td>
 <td></td>
 <td><p>2013-8-15</p></td>
 <td><p>80</p></td>
-<td><p>[115]</p></td>
+<td><p>[113]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Smosh.md" title="wikilink">Smosh</a>[116]</p></td>
+<td><p><a href="../Page/Smosh.md" title="wikilink">Smosh</a>[114]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Defy_Media" title="wikilink">Defy Media</a></p></td>
 <td></td>
 <td><p>2013-1-12</p></td>
 <td><p>215</p></td>
-<td><p>[117][118]</p></td>
+<td><p>[115][116]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Ray_William_Johnson" title="wikilink">Ray William Johnson</a>[119]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ray_William_Johnson" title="wikilink">Ray William Johnson</a>[117]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Ray_William_Johnson" title="wikilink">Ray Johnson</a></p></td>
 <td><p>2011-1-28</p></td>
 <td><p>564</p></td>
-<td><p>[120][121]</p></td>
+<td><p>[118][119]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/NigaHiga.md" title="wikilink">nigahiga</a>[122]</p></td>
+<td><p><a href="../Page/NigaHiga.md" title="wikilink">nigahiga</a>[120]</p></td>
 <td><p>Ryan Higa</p></td>
 <td><p>2009-8-20</p></td>
 <td><p><strong>677</strong></p></td>
-<td><p>[123][124]</p></td>
+<td><p>[121][122]</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/盧卡斯·克魯伊山克.md" title="wikilink">Fяᴇᴅ</a>[125]</p></td>
+<td><p><a href="../Page/盧卡斯·克魯伊山克.md" title="wikilink">Fяᴇᴅ</a>[123]</p></td>
 <td><p>Lucas Cruikshank</p></td>
 <td><p>2008-10-6</p></td>
 <td><p>318</p></td>
-<td><p>[126]</p></td>
+<td><p>[124]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>nigahiga[127]</p></td>
+<td><p>nigahiga[125]</p></td>
 <td><p>Ryan Higa</p></td>
 <td><p>2008-9-24</p></td>
 <td><p>12</p></td>
-<td><p>[128]</p></td>
+<td><p>[126]</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Smosh[129]</p></td>
+<td><p>Smosh[127]</p></td>
 <td><p>Daniel Anthony Padilla &amp; Ian Andrew Hecox</p></td>
 <td><p>2007-4-26</p></td>
 <td><p><strong>517</strong></p></td>
@@ -612,43 +612,43 @@
 <td><p>|last=Heffernan|first=Virginia|access-date=2016-09-11}}</ref></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/lonelygirl15" title="wikilink">lonelygirl15</a>[130]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/lonelygirl15" title="wikilink">lonelygirl15</a>[128]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/梅斯·弗林德斯" title="wikilink">Mesh Flinders</a></p></td>
 <td><p>2006-9-17</p></td>
 <td><p><strong>221</strong></p></td>
-<td><p>[131][132][133]</p></td>
+<td><p>[129][130][131]</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/彼得·奧克利" title="wikilink">geriatric1927</a>[134]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/彼得·奧克利" title="wikilink">geriatric1927</a>[132]</p></td>
 <td><p>Peter Oakley</p></td>
 <td></td>
 <td><p>2006-8-17</p></td>
 <td><p>31</p></td>
-<td><p>[135]</p></td>
+<td><p>[133]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/布魯克·布羅德克" title="wikilink">Brookers</a>[136]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/布魯克·布羅德克" title="wikilink">Brookers</a>[134]</p></td>
 <td><p>Brooke Brodack</p></td>
 <td></td>
 <td><p>2006-7-3</p></td>
 <td><p><strong>45</strong></p></td>
-<td><p>[137][138]</p></td>
+<td><p>[135][136]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/賈德森·拉普利" title="wikilink">Judson Laipply</a>[139]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/賈德森·拉普利" title="wikilink">Judson Laipply</a>[137]</p></td>
 <td><p>Judson Laipply</p></td>
 <td><p>2006-1-12</p></td>
 <td><p>21</p></td>
-<td><p>[140][141]</p></td>
+<td><p>[138][139]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Smosh[142]</p></td>
+<td><p>Smosh[140]</p></td>
 <td><p>Defy Media</p></td>
 <td></td>
 <td><p><strong>26</strong></p></td>
-<td><p>[143]</p></td>
+<td><p>[141]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -668,7 +668,7 @@
 height:auto barincrement:20 PlotArea = top:10 bottom:80 right:130
 left:20 AlignBars = late
 
-DateFormat = dd/mm/yyyy Period = from:2005 till:01/06/2019 TimeAxis =
+DateFormat = dd/mm/yyyy Period = from:2005 till:20/06/2019 TimeAxis =
 orientation:horizontal ScaleMajor = unit:year increment:1 start:2005
 
 Colors =
@@ -775,12 +775,12 @@ PlotData =
 
 在2006年底，[彼得·奧克利的頻道是最多人訂閱的](https://zh.wikipedia.org/wiki/彼得·奧克利 "wikilink")，一些電視頻道和報章雜誌採訪了他、並進行專題報導探討他的成功故事。而在2009年，[Fяᴇᴅ的頻道訂閱數量超過了](../Page/盧卡斯·克魯伊山克.md "wikilink")100萬，是第一個突破百萬大關的頻道。
 
-當[Smosh第三度成為最多訂閱的頻道後](../Page/Smosh.md "wikilink")，[雷·威廉·約翰遜和這對雙人組開始合作](../Page/雷·威廉·約翰遜.md "wikilink")\[144\]。而眾多的YouTuber，包括[NigaHiga](../Page/NigaHiga.md "wikilink")、[謝恩·多森](https://zh.wikipedia.org/wiki/謝恩·多森 "wikilink")、[PewDiePie](../Page/PewDiePie.md "wikilink")、[邁克爾·伯克利](https://zh.wikipedia.org/wiki/邁克爾·伯克利 "wikilink")、[Kassem
-G](https://zh.wikipedia.org/wiki/Kassem_G "wikilink")、[法恩兄弟和雷](../Page/法恩兄弟.md "wikilink")·威廉·約翰遜紛紛給兩人道賀。\[145\]
+當[Smosh第三度成為最多訂閱的頻道後](../Page/Smosh.md "wikilink")，[雷·威廉·約翰遜和這對雙人組開始合作](../Page/雷·威廉·約翰遜.md "wikilink")\[142\]。而眾多的YouTuber，包括[NigaHiga](../Page/NigaHiga.md "wikilink")、[謝恩·多森](https://zh.wikipedia.org/wiki/謝恩·多森 "wikilink")、[PewDiePie](../Page/PewDiePie.md "wikilink")、[邁克爾·伯克利](https://zh.wikipedia.org/wiki/邁克爾·伯克利 "wikilink")、[Kassem
+G](https://zh.wikipedia.org/wiki/Kassem_G "wikilink")、[法恩兄弟和雷](../Page/法恩兄弟.md "wikilink")·威廉·約翰遜紛紛給兩人道賀。\[143\]
 
-2013年起，[PewDiePie成為](../Page/PewDiePie.md "wikilink")[YouTube上最多訂閱者的頻道](../Page/YouTube.md "wikilink")，《[綜藝](../Page/綜藝_\(雜誌\).md "wikilink")》雜誌撰文重批他的影片。\[146\]
+2013年起，[PewDiePie成為](../Page/PewDiePie.md "wikilink")[YouTube上最多訂閱者的頻道](../Page/YouTube.md "wikilink")，《[綜藝](../Page/綜藝_\(雜誌\).md "wikilink")》雜誌撰文重批他的影片。\[144\]
 
-[PewDiePie訂閱數由](../Page/PewDiePie.md "wikilink")2019年3月27日至4月1日短暫地被[T-Series超越](../Page/T-Series.md "wikilink")，[PewDiePie於](../Page/PewDiePie.md "wikilink")3月31日發布“[恭喜T-Series成為訂閱數最多頻道的慶祝影片](https://www.youtube.com/watch?v=PHgc8Q6qTjc)”，內容諷刺了[T-Series的黑歷史](../Page/T-Series.md "wikilink")，由此推斷這段時間的短暫超越是“[PewDiePie發起的](../Page/PewDiePie.md "wikilink")[愚人節玩笑](https://zh.wikipedia.org/wiki/愚人節 "wikilink")”。\[147\]
+[PewDiePie訂閱數由](../Page/PewDiePie.md "wikilink")2019年3月27日至4月1日短暫地被[T-Series超越](../Page/T-Series.md "wikilink")，[PewDiePie於](../Page/PewDiePie.md "wikilink")3月31日發布“[恭喜T-Series成為訂閱數最多頻道的慶祝影片](https://www.youtube.com/watch?v=PHgc8Q6qTjc)”，內容諷刺了[T-Series的黑歷史](../Page/T-Series.md "wikilink")，由此推斷這段時間的短暫超越是“[PewDiePie發起的](../Page/PewDiePie.md "wikilink")[愚人節玩笑](https://zh.wikipedia.org/wiki/愚人節 "wikilink")”。\[145\]
 
 ## 相關列表
 
@@ -869,10 +869,10 @@ G](https://zh.wikipedia.org/wiki/Kassem_G "wikilink")、[法恩兄弟和雷](../
 34.
 
 35.
-
 36.
 
 37.
+
 38.
 
 39.
@@ -998,27 +998,27 @@ G](https://zh.wikipedia.org/wiki/Kassem_G "wikilink")、[法恩兄弟和雷](../
 99.
 
 100.
-
 101.
-
 102.
 103.
 104.
+
 105.
+
 106.
 
 107.
 
 108.
-
 109.
-
 110.
 111.
+
 112.
 113.
 
 114.
+
 115.
 
 116.
@@ -1040,12 +1040,12 @@ G](https://zh.wikipedia.org/wiki/Kassem_G "wikilink")、[法恩兄弟和雷](../
 124.
 
 125.
-
 126.
-
 127.
 128.
+
 129.
+
 130.
 
 131.
@@ -1057,26 +1057,22 @@ G](https://zh.wikipedia.org/wiki/Kassem_G "wikilink")、[法恩兄弟和雷](../
 134.
 
 135.
+     EMC|website=www.entertainment-masterclass.tv|access-date=2016-09-11}}
 
 136.
 
 137.
-     EMC|website=www.entertainment-masterclass.tv|access-date=2016-09-11}}
 
 138.
-
 139.
 
 140.
 141.
 
 142.
+
 143.
 
 144.
 
 145.
-
-146.
-
-147.

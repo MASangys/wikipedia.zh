@@ -38,7 +38,7 @@ NOMINEES LIMITED OMNIBUS-MARGIN
 ## 作品
 
 除《LoveLive\!
-学园偶像祭》及其衍生作品外，KLab还获得了众多其它知名IP授权，并将其改编为手机游戏或网页游戏，如《[幽☆遊☆白書](https://zh.wikipedia.org/wiki/幽游白书 "wikilink")》、《[足球小将](https://zh.wikipedia.org/wiki/足球小将 "wikilink")》、《[传奇系列](https://zh.wikipedia.org/wiki/传奇系列 "wikilink")》、《[灌篮高手](https://zh.wikipedia.org/wiki/灌篮高手 "wikilink")》、《[战国BASARA](https://zh.wikipedia.org/wiki/战国BASARA "wikilink")》、《[歌之王子殿下](../Page/歌之王子殿下.md "wikilink")》、《[死神](../Page/死神.md "wikilink")》等。其中大部分为独立运营，部分交由其它公司（如武士道、[万代南梦宫娱乐等](../Page/万代南梦宫娱乐.md "wikilink")）运营\[12\]。
+学园偶像祭》及其衍生作品外，KLab还获得了众多其它知名IP授权，并将其改编为手机游戏或网页游戏，如《[幽☆遊☆白書](https://zh.wikipedia.org/wiki/幽游白书 "wikilink")》、《[足球小将](https://zh.wikipedia.org/wiki/足球小将 "wikilink")》、《[传奇系列](https://zh.wikipedia.org/wiki/传奇系列 "wikilink")》、《[灌篮高手](../Page/灌篮高手.md "wikilink")》、《[战国BASARA](https://zh.wikipedia.org/wiki/战国BASARA "wikilink")》、《[歌之王子殿下](../Page/歌之王子殿下.md "wikilink")》、《[死神](../Page/死神.md "wikilink")》等。其中大部分为独立运营，部分交由其它公司（如武士道、[万代南梦宫娱乐等](../Page/万代南梦宫娱乐.md "wikilink")）运营\[12\]。
 
 ## 参考资料
 

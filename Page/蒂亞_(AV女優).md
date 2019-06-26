@@ -490,7 +490,7 @@
 
 12. [モデル『ティア』](http://withcollection.jp/bewithex/tia.html)  - Be★WIth-ex
 
-13. [在籍キャストプロフィール](http://www.r-dragon.jp/cast_p.html?sn=239) -
+13. [在籍キャストプロフィール](http://www.r-dragon.jp/cast_p.html?sn=239)  -
     六本木RedDragon
 
 14. [プルルンHcupな美少女ティア

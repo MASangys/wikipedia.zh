@@ -21,4 +21,8 @@ Ultra已於](../Page/HTC_U_Ultra.md "wikilink")2017年1月12日發表。
   - [U12 Life](https://zh.wikipedia.org/wiki/HTC_U12_Life "wikilink")
   - U12 EXODUS 1
 
+### 2019年
+
+  - [HTC U19e](https://zh.wikipedia.org/wiki/HTC_U19e "wikilink")
+
 [Category:宏達電手機](https://zh.wikipedia.org/wiki/Category:宏達電手機 "wikilink")

@@ -35,7 +35,7 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 
 ### 商業影院
 
-#### IMAX数码影院
+#### IMAX數碼影院
 
 <table>
 <thead>
@@ -53,7 +53,7 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <tbody>
 <tr class="odd">
 <td><p>BEA IMAX @ <a href="https://zh.wikipedia.org/wiki/娱艺" title="wikilink">UA</a> <a href="../Page/MegaBox.md" title="wikilink">MegaBox</a></p></td>
-<td><p>IMAX数码</p></td>
+<td><p>IMAX數碼</p></td>
 <td><p>2007年6月-2010年（IMAX MPX）<br />
 2010-2017年7月11日（IMAX数码 5.1聲道音響系統）<br />
 2017年7月11日（IMAX数码 12聲道音響系統）</p></td>
@@ -65,7 +65,7 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 </tr>
 <tr class="even">
 <td><p>BEA IMAX @ <a href="https://zh.wikipedia.org/wiki/娱艺" title="wikilink">UA</a> <a href="https://zh.wikipedia.org/wiki/iSQUARE" title="wikilink">iSQUARE</a></p></td>
-<td><p>IMAX数码</p></td>
+<td><p>IMAX數碼</p></td>
 <td><p>2009年12月17日</p></td>
 <td><p>21.3</p></td>
 <td><p>11.8</p></td>
@@ -76,7 +76,7 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/機場UA_IMAX影院.md" title="wikilink">機場UA IMAX影院</a></p></td>
-<td><p>IMAX数码</p></td>
+<td><p>IMAX數碼</p></td>
 <td><p>2012年7月5日<br />
 2017年7月19日</p></td>
 <td><p>22.4[11]</p></td>
@@ -88,7 +88,7 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 </tr>
 <tr class="even">
 <td><p>BEA IMAX @ <a href="https://zh.wikipedia.org/wiki/娱艺" title="wikilink">UA</a> Cine Moko</p></td>
-<td><p>IMAX数码</p></td>
+<td><p>IMAX數碼</p></td>
 <td><p>2014年1月28日</p></td>
 <td><p>16.3[12]</p></td>
 <td><p>9.3</p></td>
@@ -99,7 +99,7 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/百老匯院線.md" title="wikilink">MY CINEMA YOHO MALL</a></p></td>
-<td><p>IMAX数码</p></td>
+<td><p>IMAX數碼</p></td>
 <td><p>2017年7月21日</p></td>
 <td><p>20.14[13]</p></td>
 <td><p>11</p></td>
@@ -121,19 +121,19 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 </tbody>
 </table>
 
-#### 新一代IMAX数码影院
+#### 新一代IMAX鐳射影院
 
 | 影城名称                                                                                           | 放映系统      | 開幕時間       | 寬度 | 高度 | 面積 | 座位数 | 備注 |
 | ---------------------------------------------------------------------------------------------- | --------- | ---------- | -- | -- | -- | --- | -- |
-| [UA](https://zh.wikipedia.org/wiki/娱艺 "wikilink") [K11 MUSEA](../Page/K11_MUSEA.md "wikilink") | 新一代IMAX数码 | 预计2019年12月 |    |    |    |     |    |
-| 英皇戏院iSQUARE                                                                                    | 新一代IMAX数码 | 预计2020年    |    |    |    |     |    |
+| [UA](https://zh.wikipedia.org/wiki/娱艺 "wikilink") [K11 MUSEA](../Page/K11_MUSEA.md "wikilink") | 新一代IMAX鐳射 | 预计2019年12月 |    |    |    |     |    |
+| 英皇戏院iSQUARE                                                                                    | 新一代IMAX鐳射 | 预计2020年    |    |    |    |     |    |
 |                                                                                                |           |            |    |    |    |     |    |
 
 ### 臨時性IMAX影院
 
 | 影城名称                                   | 放映系统   | 開幕時間       | 寬度    | 高度    | 面積       | 座位数 | 備注                            |
 | -------------------------------------- | ------ | ---------- | ----- | ----- | -------- | --- | ----------------------------- |
-| [香港文化中心](../Page/香港文化中心.md "wikilink") | IMAX数码 | 2014年6月19日 | 18.29 | 10.36 | 189.4844 |     | 《變形金剛：殲滅世紀》全球首映禮專用，已经拆除\[14\] |
+| [香港文化中心](../Page/香港文化中心.md "wikilink") | IMAX數碼 | 2014年6月19日 | 18.29 | 10.36 | 189.4844 |     | 《變形金剛：殲滅世紀》全球首映禮專用，已经拆除\[14\] |
 |                                        |        |            |       |       |          |     |                               |
 
 ## [中國的IMAX影院](../Page/中國.md "wikilink")
@@ -502,9 +502,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>IMAX数字</p></td>
 <td><p>2018年6月21日(仅开业庆典并无正式营业)<br />
 2018年7月25日(正式营业)</p></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>14.8</p></td>
+<td><p>8.4</p></td>
+<td><p>124.32</p></td>
 <td><p>224</p></td>
 <td><p>-</p></td>
 </tr>
@@ -523,11 +523,11 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>上海万达影城<br />
 （青浦万达茂店）</p></td>
 <td><p>IMAX数字</p></td>
-<td><p>预计2019年6月</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>预计2019年6月22日</p></td>
+<td><p>25.76</p></td>
+<td><p>13.68</p></td>
+<td><p>352.3968</p></td>
+<td><p>333</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -753,7 +753,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>北京大地影城(芳圆里ID MALL店)</p></td>
+<td><p>北京大地影城<br />
+（芳圆里ID MALL店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>预计2019年</p></td>
 <td></td>
@@ -763,7 +764,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>北京博纳影城(门头沟龙湖天街店)</p></td>
+<td><p>北京博纳影城<br />
+（门头沟龙湖天街店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>预计2019年</p></td>
 <td></td>
@@ -783,7 +785,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>北京卢米埃影院(奥森天地店)</p></td>
+<td><p>北京卢米埃影院<br />
+（奥森天地店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>预计2019年</p></td>
 <td></td>
@@ -793,7 +796,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>武汉万达影城(经开万达广场店)</p></td>
+<td><p>武汉万达影城<br />
+（经开万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2011年8月27日</p></td>
 <td><p>18.2</p></td>
@@ -803,7 +807,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>武汉金逸影城(销品茂IMAX店)</p></td>
+<td><p>武汉金逸影城<br />
+（销品茂IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2012年12月20日</p></td>
 <td><p>16.59</p></td>
@@ -813,7 +818,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>武汉万达影城(菱角湖万达广场店)</p></td>
+<td><p>武汉万达影城<br />
+（菱角湖万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2013年3月31日</p></td>
 <td><p>19.5</p></td>
@@ -823,7 +829,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>武汉万达影城(汉街万达广场店)</p></td>
+<td><p>武汉万达影城<br />
+（汉街万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2013年9月28日</p></td>
 <td><p>19.85</p></td>
@@ -833,7 +840,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>武汉CGV影城(奥山店)</p></td>
+<td><p>武汉CGV影城<br />
+（奥山店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2013年11月16日</p></td>
 <td><p>22.91</p></td>
@@ -843,7 +851,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>武汉百老汇影城(汉阳人信汇店)</p></td>
+<td><p>武汉百老汇影城<br />
+（汉阳人信汇店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2014年5月1日</p></td>
 <td><p>21.31</p></td>
@@ -853,7 +862,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>武汉CGV影城(光谷店)</p></td>
+<td><p>武汉CGV影城<br />
+（光谷店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2014年9月29日</p></td>
 <td><p>20.46</p></td>
@@ -863,7 +873,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>武汉金逸影城IMAX(光美荟聚店)</p></td>
+<td><p>武汉金逸影城IMAX<br />
+（光美荟聚店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2015年4月30日</p></td>
 <td><p>19.52</p></td>
@@ -873,7 +884,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>武汉华谊兄弟影院(光谷店)</p></td>
+<td><p>武汉华谊兄弟影院<br />
+（光谷店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2015年7月11日</p></td>
 <td><p>19.83</p></td>
@@ -883,7 +895,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>武汉博纳国际影城(银泰店)</p></td>
+<td><p>武汉博纳国际影城<br />
+（银泰店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年2月8日</p></td>
 <td><p>21.31<br />
@@ -896,7 +909,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>武汉CGV影城(凯德西城店)</p></td>
+<td><p>武汉CGV影城<br />
+（凯德西城店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年4月28日</p></td>
 <td><p>20.7</p></td>
@@ -906,7 +920,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>武汉金逸影城(蔡甸IMAX店)</p></td>
+<td><p>武汉金逸影城<br />
+（蔡甸IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年10月1日</p></td>
 <td><p>20.06</p></td>
@@ -916,7 +931,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>武汉CGV影城(永旺金桥店)</p></td>
+<td><p>武汉CGV影城<br />
+（永旺金桥店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年12月7日</p></td>
 <td><p>24.03</p></td>
@@ -926,7 +942,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>武汉CGV影城(汉阳江腾广场店)</p></td>
+<td><p>武汉CGV影城<br />
+（汉阳江腾广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年12月22日</p></td>
 <td><p>20.02</p></td>
@@ -952,7 +969,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>IMAX中國第6家IMAX影院</p></td>
 </tr>
 <tr class="odd">
-<td><p>襄阳万达影城(万达广场店)</p></td>
+<td><p>襄阳万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2011年11月8日</p></td>
 <td></td>
@@ -962,7 +980,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>宜昌万达影城(万达广场店)</p></td>
+<td><p>宜昌万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2011年11月8日</p></td>
 <td></td>
@@ -972,7 +991,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>宜昌CGV影城(国贸大厦店)</p></td>
+<td><p>宜昌CGV影城<br />
+（国贸大厦店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2019年1月3日</p></td>
 <td><p>20.86</p></td>
@@ -982,7 +1002,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>荆州万达影城(万达广场店)</p></td>
+<td><p>荆州万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2014年9月20日</p></td>
 <td></td>
@@ -992,7 +1013,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>黄石万达影城(万达广场店)</p></td>
+<td><p>黄石万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2015年7月3日</p></td>
 <td></td>
@@ -1002,7 +1024,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>荆门万达影城(万达广场店)</p></td>
+<td><p>荆门万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年6月3日</p></td>
 <td></td>
@@ -1012,7 +1035,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>十堰万达影城(万达广场店)</p></td>
+<td><p>十堰万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年8月5日</p></td>
 <td><p>22.61</p></td>
@@ -1022,7 +1046,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>孝感金逸影城(汉川IMAX店)</p></td>
+<td><p>孝感金逸影城<br />
+（汉川IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年1月21日</p></td>
 <td><p>19.99</p></td>
@@ -1032,7 +1057,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>黄冈万达影城(万达广场店)</p></td>
+<td><p>黄冈万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年6月22日</p></td>
 <td></td>
@@ -1042,7 +1068,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>广州万达影城(白云万达广场店)</p></td>
+<td><p>广州万达影城<br />
+（白云万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2010年12月17日</p></td>
 <td><p>22.81</p></td>
@@ -1072,7 +1099,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>广州万达影城(增城万达广场店)</p></td>
+<td><p>广州万达影城<br />
+（增城万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2014年5月16日</p></td>
 <td></td>
@@ -1082,7 +1110,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>广州万达影城(番禺万达广场店)</p></td>
+<td><p>广州万达影城<br />
+（番禺万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2014年11月8日</p></td>
 <td></td>
@@ -1092,7 +1121,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>广州万达影城(萝岗万达广场店)</p></td>
+<td><p>广州万达影城<br />
+（萝岗万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2015年7月17日</p></td>
 <td><p>22[46]</p></td>
@@ -1102,7 +1132,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>广州万达影城(南沙万达广场店)</p></td>
+<td><p>广州万达影城<br />
+（南沙万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2015年12月22日</p></td>
 <td></td>
@@ -1112,7 +1143,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>广州金逸影城(海珠城IMAX店)</p></td>
+<td><p>广州金逸影城<br />
+（海珠城IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年2月6日</p></td>
 <td></td>
@@ -1122,7 +1154,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>广州飞扬影城(正佳广场店)</p></td>
+<td><p>广州飞扬影城<br />
+（正佳广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年6月8日</p></td>
 <td></td>
@@ -1132,7 +1165,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>广州百丽宫影城(猎德店)</p></td>
+<td><p>广州百丽宫影城<br />
+（猎德店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年10月28日</p></td>
 <td></td>
@@ -1142,7 +1176,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>广州金逸影城(太阳城店)</p></td>
+<td><p>广州金逸影城<br />
+（太阳城店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年10月29日</p></td>
 <td><p>15.28</p></td>
@@ -1152,7 +1187,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>广州金逸影城IMAX(光美番禺沙湾店)</p></td>
+<td><p>广州金逸影城IMAX<br />
+（光美番禺沙湾店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年12月9日</p></td>
 <td><p>22.72</p></td>
@@ -1162,7 +1198,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>IMAX中国第400家IMAX影院[47]</p></td>
 </tr>
 <tr class="even">
-<td><p>广州万达影城(万胜广场店)</p></td>
+<td><p>广州万达影城<br />
+（万胜广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年1月1日</p></td>
 <td><p>23.77</p></td>
@@ -1172,7 +1209,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>广州卢米埃影城(合生店)</p></td>
+<td><p>广州卢米埃影城<br />
+（合生店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年3月24日</p></td>
 <td></td>
@@ -1182,7 +1220,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>广州金逸影城IMAX(光美番禺大石店)</p></td>
+<td><p>广州金逸影城IMAX<br />
+（光美番禺大石店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年4月14日</p></td>
 <td><p>22.16</p></td>
@@ -1192,7 +1231,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>广州万达影城(亚运城广场店)</p></td>
+<td><p>广州万达影城<br />
+（亚运城广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年12月30日</p></td>
 <td><p>22.28</p></td>
@@ -1202,7 +1242,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>广州飞扬影城IMAX(北京路店)</p></td>
+<td><p>广州飞扬影城IMAX<br />
+（北京路店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年5月18日</p></td>
 <td></td>
@@ -1212,7 +1253,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>广州万达影城(新塘万达广场店)</p></td>
+<td><p>广州万达影城<br />
+（新塘万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年12月28日</p></td>
 <td><p>21.92</p></td>
@@ -1222,7 +1264,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>广州金逸影城(百信西区IMAX店)</p></td>
+<td><p>广州金逸影城<br />
+（百信西区IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年12月30日</p></td>
 <td><p>21.86</p></td>
@@ -1232,7 +1275,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>广州金逸影城(花地IMAX店)</p></td>
+<td><p>广州金逸影城<br />
+（花地IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2019年2月2月</p></td>
 <td><p>19.7</p></td>
@@ -1242,7 +1286,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>广州万达影城(天河万科广场店)</p></td>
+<td><p>广州万达影城<br />
+（天河万科广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2019年2月5日</p></td>
 <td><p>22.74</p></td>
@@ -1252,13 +1297,54 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>广州万达影城(融创茂店)</p></td>
+<td><p>广州万达影城<br />
+（融创茂店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>预计2019年6月</p></td>
 <td><p>20.44</p></td>
 <td><p>10.56</p></td>
 <td><p>215.8464</p></td>
 <td></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
+<td><p>廣州金逸影城（番禺渔人码头店）</p></td>
+<td><p>IMAX数字</p></td>
+<td><p>预计2019年</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>376</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="odd">
+<td><p>廣州英皇影城（富力海珠城店）</p></td>
+<td><p>IMAX数字</p></td>
+<td><p>预计2019年</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>376</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
+<td><p>廣州金逸影城（番禺星海城店）</p></td>
+<td><p>IMAX数字</p></td>
+<td><p>预计2019年</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>376</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="odd">
+<td><p>廣州万达影城（万达茂店）</p></td>
+<td><p>IMAX数字</p></td>
+<td><p>预计2019年</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>376</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -1273,7 +1359,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>深圳中影国际影城(欢乐海岸店)</p></td>
+<td><p>深圳中影国际影城<br />
+（欢乐海岸店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2011年12月23日</p></td>
 <td></td>
@@ -1283,7 +1370,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>深圳万达影城(海雅广场店)</p></td>
+<td><p>深圳万达影城<br />
+（海雅广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2012年12月8日<br />
 2017年9月27日</p></td>
@@ -1294,7 +1382,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>深圳橙天嘉禾影城(观澜湖店)</p></td>
+<td><p>深圳橙天嘉禾影城<br />
+（观澜湖店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年1月15日</p></td>
 <td><p>22.78</p></td>
@@ -1304,7 +1393,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>深圳卢米埃影城(九方店)</p></td>
+<td><p>深圳卢米埃影城<br />
+（九方店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年1月22日</p></td>
 <td><p>19.73</p></td>
@@ -1314,7 +1404,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>深圳星美国际影商城(京基店)</p></td>
+<td><p>深圳星美国际影商城<br />
+（京基店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年8月6日</p></td>
 <td><p>21.08</p></td>
@@ -1324,7 +1415,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>深圳橙天嘉禾影城(卓悦汇店)</p></td>
+<td><p>深圳橙天嘉禾影城<br />
+（卓悦汇店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年8月30日</p></td>
 <td><p>24.44</p></td>
@@ -1334,7 +1426,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>深圳百川影城(新沙天虹店)</p></td>
+<td><p>深圳百川影城<br />
+（新沙天虹店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年12月22日</p></td>
 <td></td>
@@ -1344,7 +1437,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>深圳卢米埃影城(汇港店)</p></td>
+<td><p>深圳卢米埃影城<br />
+（汇港店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年1月1日</p></td>
 <td><p>22.78</p></td>
@@ -1354,7 +1448,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>深圳CGV影城(壹方城店)</p></td>
+<td><p>深圳CGV影城<br />
+（壹方城店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年9月27日</p></td>
 <td></td>
@@ -1364,7 +1459,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>深圳百老汇电影中心(IMAX万象天地店)</p></td>
+<td><p>深圳百老汇电影中心<br />
+（IMAX万象天地店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年10月</p></td>
 <td></td>
@@ -1374,7 +1470,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>深圳博纳国际影城(海航城IMAX店)</p></td>
+<td><p>深圳博纳国际影城<br />
+（海航城IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年10月<br />
 2018年2月3日</p></td>
@@ -1395,7 +1492,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>深圳英皇UA电影城(深业上城店)</p></td>
+<td><p>深圳英皇UA电影城<br />
+（深业上城店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年2月8日</p></td>
 <td></td>
@@ -1405,7 +1503,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>深圳万象影城(布吉万象汇店)</p></td>
+<td><p>深圳万象影城<br />
+（布吉万象汇店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年4月26日</p></td>
 <td><p>22.74</p></td>
@@ -1425,7 +1524,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>深圳星河寰宇IMAX影城（星河WORLD店）</p></td>
+<td><p>深圳星河寰宇IMAX影城<br />
+（星河WORLD店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年11月9日</p></td>
 <td><p>18.31</p></td>
@@ -1435,7 +1535,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>深圳万达影城（壹海城·ONE MALL店）</p></td>
+<td><p>深圳万达影城<br />
+（壹海城·ONE MALL店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2019年2月3日</p></td>
 <td><p>20.12</p></td>
@@ -1445,7 +1546,48 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>东莞万达影城(长安万达广场店)</p></td>
+<td><p>深圳CGV影城（金地大百汇店）</p></td>
+<td><p>IMAX数字</p></td>
+<td><p>预计2019年</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>-</p></td>
+</tr>
+<tr class="odd">
+<td><p>深圳金逸影城（宏发光明大仟里店）</p></td>
+<td><p>IMAX数字</p></td>
+<td><p>预计2019年</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
+<td><p>深圳万达影城（勤诚达正大城店）</p></td>
+<td><p>IMAX数字</p></td>
+<td><p>预计2019年</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>-</p></td>
+</tr>
+<tr class="odd">
+<td><p>深圳金逸影城（宏发宝安大仟里店）</p></td>
+<td><p>IMAX数字</p></td>
+<td><p>预计2019年</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
+<td><p>东莞万达影城<br />
+（长安万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2013年6月20日<br />
 2018年10月31日</p></td>
@@ -1459,7 +1601,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>东莞万达影城(东城万达广场店)</p></td>
+<td><p>东莞万达影城<br />
+（东城万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2014年9月12日<br />
 2018年10月30日</p></td>
@@ -1480,7 +1623,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>东莞万达影城(厚街万达广场店)</p></td>
+<td><p>东莞万达影城<br />
+（厚街万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2015年11月6日</p></td>
 <td><p>22.3[50]</p></td>
@@ -1490,7 +1634,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>东莞万达影城(虎门万达广场店)</p></td>
+<td><p>东莞万达影城<br />
+（虎门万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年12月16日</p></td>
 <td><p>20.7[51]</p></td>
@@ -1500,7 +1645,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>东莞CGV影城(国贸店)</p></td>
+<td><p>东莞CGV影城<br />
+（国贸店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年12月18日</p></td>
 <td></td>
@@ -1520,7 +1666,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>惠州万达影城(大亚湾万达广场店)</p></td>
+<td><p>惠州万达影城<br />
+（大亚湾万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年11月24日</p></td>
 <td></td>
@@ -1530,7 +1677,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>佛山金逸影城(鹏瑞利IMAX店)</p></td>
+<td><p>佛山金逸影城<br />
+（鹏瑞利IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2014年7月1日</p></td>
 <td></td>
@@ -1540,7 +1688,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>佛山万达影城(南海万达广场店)</p></td>
+<td><p>佛山万达影城<br />
+（南海万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2014年8月29日</p></td>
 <td></td>
@@ -1550,7 +1699,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>佛山CGV星星影城（星耀101店）</p></td>
+<td><p>佛山CGV星星影城<br />
+（星耀101店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2015年9月23日</p></td>
 <td></td>
@@ -1560,7 +1710,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>佛山中视国际影城(富弘广场店)</p></td>
+<td><p>佛山中视国际影城<br />
+（富弘广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2015年12月18日</p></td>
 <td></td>
@@ -1570,7 +1721,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>佛山万达影城(三水万达广场店)</p></td>
+<td><p>佛山万达影城<br />
+（三水万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年11月28日</p></td>
 <td><p>21.22</p></td>
@@ -1580,7 +1732,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>佛山万达影城(越秀悦汇天地店)</p></td>
+<td><p>佛山万达影城<br />
+（越秀悦汇天地店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年12月9日</p></td>
 <td><p>18.49</p></td>
@@ -1590,7 +1743,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>佛山越界思哲影城(三水新动力店)</p></td>
+<td><p>佛山越界思哲影城<br />
+（三水新动力店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年3月3日</p></td>
 <td><p>23.42</p></td>
@@ -1600,7 +1754,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>佛山CC影城(永旺IMAX店)</p></td>
+<td><p>佛山CC影城<br />
+（永旺IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年1月12日</p></td>
 <td></td>
@@ -1610,7 +1765,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>佛山金逸影城(顺德大信IMAX店)</p></td>
+<td><p>佛山金逸影城<br />
+（顺德大信IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年12月30日</p></td>
 <td><p>25.96</p></td>
@@ -1620,7 +1776,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>中山CGV星星影城(兴中广场店)</p></td>
+<td><p>中山CGV星星影城<br />
+（兴中广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2013年6月28日</p></td>
 <td><p>20.97</p></td>
@@ -1630,7 +1787,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>中山星美国际影商城(小榄店)</p></td>
+<td><p>中山星美国际影商城<br />
+（小榄店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年3月19日<br />
 暂停营业</p></td>
@@ -1641,7 +1799,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>中山金逸影城(远洋城IMAX店)</p></td>
+<td><p>中山金逸影城<br />
+（远洋城IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年1月22日</p></td>
 <td></td>
@@ -1651,7 +1810,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>中山博纳国际影城(古镇店)</p></td>
+<td><p>中山博纳国际影城<br />
+（古镇店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年10月20日</p></td>
 <td><p>20.39</p></td>
@@ -1661,7 +1821,18 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>江门CGV影城(蓬江店)</p></td>
+<td><p>中山金逸影城(小榄大信新都汇樱花里店)</p></td>
+<td><p>IMAX数字</p></td>
+<td><p>预计2019年</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
+<td><p>江门CGV影城<br />
+（蓬江店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2014年8月26日</p></td>
 <td></td>
@@ -1670,7 +1841,7 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>269</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>湛江中影星美影城</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2014年12月20日</p></td>
@@ -1680,8 +1851,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>472</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>湛江万达影城(万达广场店)</p></td>
+<tr class="even">
+<td><p>湛江万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年6月25日</p></td>
 <td></td>
@@ -1690,8 +1862,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>332</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>湛江金逸影城IMAX(光美赤坎店)</p></td>
+<tr class="odd">
+<td><p>湛江金逸影城IMAX<br />
+（光美赤坎店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年8月27日</p></td>
 <td></td>
@@ -1700,7 +1873,7 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>317</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>珠海幸福蓝海国际影城</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2015年2月19日<br />
@@ -1711,8 +1884,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>255</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>汕头星城影院(正大卜蜂中心店)</p></td>
+<tr class="odd">
+<td><p>汕头星城影院<br />
+（正大卜蜂中心店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年2月6日</p></td>
 <td><p>18.4</p></td>
@@ -1721,8 +1895,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>328</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>汕头CGV影城(群光汇店)</p></td>
+<tr class="even">
+<td><p>汕头CGV影城<br />
+（群光汇店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2019年4月26日</p></td>
 <td><p>21.21</p></td>
@@ -1731,8 +1906,19 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td></td>
 <td><p>-</p></td>
 </tr>
+<tr class="odd">
+<td><p>汕头万达影院(金平万达广场店)</p></td>
+<td><p>IMAX数字</p></td>
+<td><p>预计2019年</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>-</p></td>
+</tr>
 <tr class="even">
-<td><p>梅州万达影城(万达广场店)</p></td>
+<td><p>梅州万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年9月23日</p></td>
 <td><p>20.4</p></td>
@@ -1742,7 +1928,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>清远万达影城(清城万达广场店)</p></td>
+<td><p>清远万达影城<br />
+（清城万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年12月29日</p></td>
 <td></td>
@@ -1752,7 +1939,18 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>南京万达影城(建邺万达广场店)</p></td>
+<td><p>茂名万达影城(电白万达广场店)</p></td>
+<td><p>IMAX数字</p></td>
+<td><p>预计2019年</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>-</p></td>
+</tr>
+<tr class="odd">
+<td><p>南京万达影城<br />
+（建邺万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2011年7月</p></td>
 <td></td>
@@ -1761,8 +1959,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>367</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>南京新街口国际影城(德基广场IMAX店)</p></td>
+<tr class="even">
+<td><p>南京新街口国际影城<br />
+（德基广场IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2013年2月10日<br />
 2016年12月20日</p></td>
@@ -1772,8 +1971,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>398</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>南京万达影城(江宁万达广场店)</p></td>
+<tr class="odd">
+<td><p>南京万达影城<br />
+（江宁万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2013年12月21日</p></td>
 <td></td>
@@ -1782,8 +1982,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>372</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>南京金逸影城IMAX(光美江宁店)</p></td>
+<tr class="even">
+<td><p>南京金逸影城IMAX<br />
+（光美江宁店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2014年11月12日</p></td>
 <td><p>24.6</p></td>
@@ -1792,8 +1993,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>471</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>南京星美国际影商城(中海IMAX店)</p></td>
+<tr class="odd">
+<td><p>南京星美国际影商城<br />
+（中海IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2015年6月10日<br />
 目前暂停营业</p></td>
@@ -1803,8 +2005,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>383</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>南京幸福蓝海国际影城(常发IMAX店)</p></td>
+<tr class="even">
+<td><p>南京幸福蓝海国际影城<br />
+（常发IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年9月30日</p></td>
 <td><p>21.9</p></td>
@@ -1813,8 +2016,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>370</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>南京海上明珠国际影城(雨花客厅店)</p></td>
+<tr class="odd">
+<td><p>南京海上明珠国际影城<br />
+（雨花客厅店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年9月19日</p></td>
 <td><p>23.71</p></td>
@@ -1823,8 +2027,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>427</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>南京卢米埃影城(弘阳广场)</p></td>
+<tr class="even">
+<td><p>南京卢米埃影城<br />
+（弘阳广场）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年5月10日</p></td>
 <td><p>22.75</p></td>
@@ -1833,8 +2038,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>311</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>南京万达影城(仙林万达茂店)</p></td>
+<tr class="odd">
+<td><p>南京万达影城<br />
+（仙林万达茂店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年6月1日</p></td>
 <td><p>22.85</p></td>
@@ -1843,8 +2049,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>345</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>南京万达影城(六合欢乐港店)</p></td>
+<tr class="even">
+<td><p>南京万达影城<br />
+（六合欢乐港店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年11月10日</p></td>
 <td><p>18.85</p></td>
@@ -1853,8 +2060,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>243</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>南京幸福蓝海国际影城(燕子矶招商花园城IMAX店)</p></td>
+<tr class="odd">
+<td><p>南京幸福蓝海国际影城<br />
+（燕子矶招商花园城IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年11月30日<br />
 2018年12月7日</p></td>
@@ -1864,8 +2072,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>350</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>南京幸福蓝海国际影城(溧水IMAX店)</p></td>
+<tr class="even">
+<td><p>南京幸福蓝海国际影城<br />
+（溧水IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年12月30日</p></td>
 <td><p>20.49</p></td>
@@ -1874,8 +2083,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>330</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>南京金逸影城(溧水时代广场IMAX店)</p></td>
+<tr class="odd">
+<td><p>南京金逸影城<br />
+（溧水时代广场IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2019年2月5日</p></td>
 <td><p>22.08</p></td>
@@ -1884,18 +2094,20 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>351</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>南京CGV影城(华采天地店)</p></td>
+<tr class="even">
+<td><p>南京CGV影城<br />
+（华采天地店）</p></td>
 <td><p>IMAX数字</p></td>
-<td><p>预计2019年5月</p></td>
+<td><p>2019年5月18日</p></td>
 <td><p>21.30</p></td>
 <td><p>11.05</p></td>
 <td><p>235.365</p></td>
 <td><p>236</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>淮安万达影城(万达广场店)</p></td>
+<tr class="odd">
+<td><p>淮安万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2011年11月8日</p></td>
 <td><p>18.62</p></td>
@@ -1904,8 +2116,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>291</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>淮安万达影城(玖珑汇广场店)</p></td>
+<tr class="even">
+<td><p>淮安万达影城<br />
+（玖珑汇广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年12月30日</p></td>
 <td></td>
@@ -1914,8 +2127,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>311</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>泰州万达影城(万达广场店)</p></td>
+<tr class="odd">
+<td><p>泰州万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2011年12月9日</p></td>
 <td><p>21.38</p></td>
@@ -1924,8 +2138,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>319</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>泰州星轶影城(泰兴吾悦广场IMAX店)</p></td>
+<tr class="even">
+<td><p>泰州星轶影城<br />
+（泰兴吾悦广场IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年11月23日</p></td>
 <td></td>
@@ -1934,8 +2149,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>209</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>苏州苏艺影城(艺术中心店)</p></td>
+<tr class="odd">
+<td><p>苏州苏艺影城<br />
+（艺术中心店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2007年10月1日(IMAX MPX放映系统)<br />
 2010年6月12日(IMAX数字放映系统)</p></td>
@@ -1946,8 +2162,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>IMAX中國第7家IMAX影院<br />
 同时也是IMAX科教影院</p></td>
 </tr>
-<tr class="odd">
-<td><p>苏州幸福蓝海国际影城(石路IMAX店)</p></td>
+<tr class="even">
+<td><p>苏州幸福蓝海国际影城<br />
+（石路IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2011年12月9日<br />
 2017年10月11日</p></td>
@@ -1957,8 +2174,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>402</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>苏州金逸影城(亿象城店)</p></td>
+<tr class="odd">
+<td><p>苏州金逸影城<br />
+（亿象城店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2012年4月27日</p></td>
 <td><p>19.10</p></td>
@@ -1967,8 +2185,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>368</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>苏州万达影城(平江万达广场店)</p></td>
+<tr class="even">
+<td><p>苏州万达影城<br />
+（平江万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2009年9月17日<br />
 2017年12月6日</p></td>
@@ -1978,8 +2197,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>342</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>苏州万达影城(吴中万达广场店)</p></td>
+<tr class="odd">
+<td><p>苏州万达影城<br />
+（吴中万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2015年12月11日</p></td>
 <td><p>22.52</p></td>
@@ -1988,8 +2208,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>376</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>苏州幸福蓝海国际影城(绿宝IMAX店)</p></td>
+<tr class="even">
+<td><p>苏州幸福蓝海国际影城<br />
+（绿宝IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2015年12月26日</p></td>
 <td><p>24.06</p></td>
@@ -1998,7 +2219,7 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>347</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>苏州耳东影城</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年10月21日</p></td>
@@ -2008,8 +2229,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>359</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>苏州幸福蓝海国际影城(文体中心IMAX店)</p></td>
+<tr class="even">
+<td><p>苏州幸福蓝海国际影城<br />
+（文体中心IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年8月25日</p></td>
 <td><p>22.78</p></td>
@@ -2018,8 +2240,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>313</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>苏州CGV影城(苏州中心店)</p></td>
+<tr class="odd">
+<td><p>苏州CGV影城<br />
+（苏州中心店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年11月11日</p></td>
 <td><p>23.38</p></td>
@@ -2028,8 +2251,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>294</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>苏州万达影城(奥体中心店)</p></td>
+<tr class="even">
+<td><p>苏州万达影城<br />
+（奥体中心店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2019年1月18日</p></td>
 <td></td>
@@ -2038,8 +2262,19 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>310</p></td>
 <td><p>-</p></td>
 </tr>
+<tr class="odd">
+<td><p>苏州万达影城(新湖中心店)</p></td>
+<td><p>IMAX数字</p></td>
+<td><p>预计2019年6月28日</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>-</p></td>
+</tr>
 <tr class="even">
-<td><p>太仓万达影城(万达广场店)</p></td>
+<td><p>太仓万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2012年12月7日</p></td>
 <td><p>20.3</p></td>
@@ -2049,7 +2284,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>昆山保利国际影城(文化艺术中心店)</p></td>
+<td><p>昆山保利国际影城<br />
+（文化艺术中心店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2013年3月8日</p></td>
 <td></td>
@@ -2059,7 +2295,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>昆山万达影城(万达广场店)</p></td>
+<td><p>昆山万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年7月5日</p></td>
 <td><p>19.4</p></td>
@@ -2069,7 +2306,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>张家港幸福蓝海国际影城(IMAX店)</p></td>
+<td><p>张家港幸福蓝海国际影城<br />
+（IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2014年10月31日</p></td>
 <td><p>24.7</p></td>
@@ -2079,7 +2317,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>张家港万达影城(万达广场店)</p></td>
+<td><p>张家港万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年12月28日</p></td>
 <td><p>22.85</p></td>
@@ -2089,7 +2328,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>常熟万达影城(万达广场店)</p></td>
+<td><p>常熟万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年7月20日</p></td>
 <td><p>21.71</p></td>
@@ -2099,7 +2339,18 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>常州万达影城(新北万达广场店)</p></td>
+<td><p>常熟CGV影城(永旺店)</p></td>
+<td><p>IMAX数字</p></td>
+<td><p>预计2019年6月28日</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>-</p></td>
+</tr>
+<tr class="odd">
+<td><p>常州万达影城<br />
+（新北万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2011年12月10日</p></td>
 <td></td>
@@ -2108,7 +2359,7 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>337</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>常州幸福蓝海橙天嘉禾影城</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2012年12月31日</p></td>
@@ -2118,8 +2369,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>552</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>常州万达影城(武进万达广场店)</p></td>
+<tr class="odd">
+<td><p>常州万达影城<br />
+（武进万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2014年8月8日</p></td>
 <td></td>
@@ -2128,8 +2380,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>411</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>常州幸福蓝海国际影城(九洲IMAX店)</p></td>
+<tr class="even">
+<td><p>常州幸福蓝海国际影城<br />
+（九洲IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2015年9月26日</p></td>
 <td><p>21.5</p></td>
@@ -2138,8 +2391,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>331</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>常州SFC上影影城(月星环球港店)</p></td>
+<tr class="odd">
+<td><p>常州SFC上影影城<br />
+（月星环球港店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年1月8日</p></td>
 <td></td>
@@ -2148,8 +2402,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>547</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>常州幸福蓝海国际影城(溧阳上河城IMAX店)</p></td>
+<tr class="even">
+<td><p>常州幸福蓝海国际影城<br />
+（溧阳上河城IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年12月9日</p></td>
 <td><p>21.32</p></td>
@@ -2158,8 +2413,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>386</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>常州CGV影城(龙城天街店)</p></td>
+<tr class="odd">
+<td><p>常州CGV影城<br />
+（龙城天街店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年9月28日</p></td>
 <td><p>20.22</p></td>
@@ -2168,8 +2424,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>207</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>常州星轶影城(金坛吾悦广场IMAX店)</p></td>
+<tr class="even">
+<td><p>常州星轶影城<br />
+（金坛吾悦广场IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年12月8日</p></td>
 <td><p>25.14</p></td>
@@ -2178,7 +2435,7 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>442</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>无锡大世界影城</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2010年1月</p></td>
@@ -2188,8 +2445,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>378</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>无锡万达影城(滨湖万达广场店)</p></td>
+<tr class="even">
+<td><p>无锡万达影城<br />
+（滨湖万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2013年1月<br />
 2018年11月1日</p></td>
@@ -2199,8 +2457,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>403</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>无锡万达影城(惠山万达广场店)</p></td>
+<tr class="odd">
+<td><p>无锡万达影城<br />
+（惠山万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td></td>
 <td></td>
@@ -2209,8 +2468,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>409</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>无锡金逸影城(荟聚店)</p></td>
+<tr class="even">
+<td><p>无锡金逸影城<br />
+（荟聚店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2014年12月18日</p></td>
 <td><p>23.14</p></td>
@@ -2219,8 +2479,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>355</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>无锡橙天嘉禾影城(万象城店)</p></td>
+<tr class="odd">
+<td><p>无锡橙天嘉禾影城<br />
+（万象城店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2014年12月20日</p></td>
 <td><p>21</p></td>
@@ -2229,8 +2490,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>435</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>无锡CGV影城(盛岸店)</p></td>
+<tr class="even">
+<td><p>无锡CGV影城<br />
+（盛岸店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2015年7月1日</p></td>
 <td><p>21.2</p></td>
@@ -2239,8 +2501,19 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>380</p></td>
 <td><p>-</p></td>
 </tr>
+<tr class="odd">
+<td><p>无锡万达影城(融创茂店)</p></td>
+<td><p>IMAX数字</p></td>
+<td><p>预计2019年6月29日</p></td>
+<td><p>21.18</p></td>
+<td><p>11.03</p></td>
+<td><p>233.6154</p></td>
+<td></td>
+<td><p>-</p></td>
+</tr>
 <tr class="even">
-<td><p>宜兴万达影城(万达广场店)</p></td>
+<td><p>宜兴万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td></td>
 <td><p>21.32</p></td>
@@ -2250,7 +2523,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>江阴万达影城(万达广场店)</p></td>
+<td><p>江阴万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2012年9月15日</p></td>
 <td></td>
@@ -2260,7 +2534,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>江阴金逸影城(美嘉城IMAX店)</p></td>
+<td><p>江阴金逸影城<br />
+（美嘉城IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年10月27日</p></td>
 <td><p>25.75</p></td>
@@ -2270,7 +2545,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>镇江万达影城(万达广场店)</p></td>
+<td><p>镇江万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2011年8月12日</p></td>
 <td><p>16.87</p></td>
@@ -2280,7 +2556,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>镇江星轶影城(京口吾悦广场IMAX店)</p></td>
+<td><p>镇江星轶影城<br />
+（京口吾悦广场IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年8月25日</p></td>
 <td><p>20.02</p></td>
@@ -2290,7 +2567,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>丹阳幸福蓝海国际影城(八佰伴店)</p></td>
+<td><p>丹阳幸福蓝海国际影城<br />
+（八佰伴店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年12月9日</p></td>
 <td><p>25.8</p></td>
@@ -2300,7 +2578,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>徐州万达影城(云龙万达广场店)</p></td>
+<td><p>徐州万达影城<br />
+（云龙万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2013年12月6日</p></td>
 <td><p>21.5</p></td>
@@ -2310,7 +2589,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>徐州万达影城(铜山万达广场店)</p></td>
+<td><p>徐州万达影城<br />
+（铜山万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年10月28日</p></td>
 <td><p>21.85</p></td>
@@ -2320,7 +2600,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>南通万达影城(五洲广场店)</p></td>
+<td><p>南通万达影城<br />
+（五洲广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2014年10月31日</p></td>
 <td></td>
@@ -2330,7 +2611,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>南通幸福蓝海国际影院(IMAX店)</p></td>
+<td><p>南通幸福蓝海国际影院<br />
+（IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2015年1月10日</p></td>
 <td></td>
@@ -2340,7 +2622,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>南通万达影城(星光耀广场店)</p></td>
+<td><p>南通万达影城<br />
+（星光耀广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2015年9月27日</p></td>
 <td></td>
@@ -2350,7 +2633,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>南通万达影城(港闸万达广场店)</p></td>
+<td><p>南通万达影城<br />
+（港闸万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2015年11月</p></td>
 <td></td>
@@ -2370,7 +2654,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>南通幸福蓝海国际影院(海门IMAX店)</p></td>
+<td><p>南通幸福蓝海国际影院<br />
+（海门IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年12月23日</p></td>
 <td></td>
@@ -2380,7 +2665,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>南通星轶影城(如皋吾悦广场IMAX店)</p></td>
+<td><p>南通星轶影城<br />
+（如皋吾悦广场IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年1月15日</p></td>
 <td><p>21.50</p></td>
@@ -2390,9 +2676,10 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>南通CGV影城(万象城)</p></td>
+<td><p>南通CGV影城<br />
+（万象城）</p></td>
 <td><p>IMAX数字</p></td>
-<td><p>暂未营业</p></td>
+<td><p>2019年6月5日</p></td>
 <td><p>21.28</p></td>
 <td><p>11.28</p></td>
 <td><p>240.0384</p></td>
@@ -2400,7 +2687,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>盐城CGV影城(中南城店)</p></td>
+<td><p>盐城CGV影城<br />
+（中南城店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2014年11月14日</p></td>
 <td></td>
@@ -2410,7 +2698,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>盐城万达影城(万达广场店)</p></td>
+<td><p>盐城万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年6月23日</p></td>
 <td></td>
@@ -2420,7 +2709,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>扬州幸福蓝海国际影城(IMAX店)</p></td>
+<td><p>扬州幸福蓝海国际影城<br />
+（IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2014年12月24日</p></td>
 <td><p>24.17</p></td>
@@ -2440,7 +2730,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>扬州星轶影城(邗江吾悦广场IMAX店)</p></td>
+<td><p>扬州星轶影城<br />
+（邗江吾悦广场IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年9月28日</p></td>
 <td><p>26.09</p></td>
@@ -2450,7 +2741,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>扬州幸福蓝海国际影院(佳源IMAX店)</p></td>
+<td><p>扬州幸福蓝海国际影院<br />
+（佳源IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年1月4日</p></td>
 <td><p>25.1</p></td>
@@ -2460,7 +2752,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>连云港万达影城(万达广场店)</p></td>
+<td><p>连云港万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年11月18日</p></td>
 <td><p>20.07</p></td>
@@ -2470,7 +2763,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>连云港星轶影城(民主路文化街IMAX店)</p></td>
+<td><p>连云港星轶影城<br />
+（民主路文化街IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年2月3日</p></td>
 <td><p>20.76</p></td>
@@ -2480,7 +2774,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>宿迁幸福蓝海国际影城(中央商场IMAX店)</p></td>
+<td><p>宿迁幸福蓝海国际影城<br />
+（中央商场IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年12月24日</p></td>
 <td><p>24.46</p></td>
@@ -2490,7 +2785,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>长沙CGV影城(岳麓店)</p></td>
+<td><p>长沙CGV影城<br />
+（岳麓店）</p></td>
 <td><p>IMAX数字</p></td>
 <td></td>
 <td></td>
@@ -2500,7 +2796,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>长沙万达影城(开福万达广场店)</p></td>
+<td><p>长沙万达影城<br />
+（开福万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2013年9月27日</p></td>
 <td><p>23.16</p></td>
@@ -2510,7 +2807,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>长沙CGV影城(德思勤店)</p></td>
+<td><p>长沙CGV影城<br />
+（德思勤店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2015年7月30日</p></td>
 <td></td>
@@ -2520,7 +2818,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>长沙CGV影城(星沙店)</p></td>
+<td><p>长沙CGV影城<br />
+（星沙店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2015年11月17日</p></td>
 <td></td>
@@ -2530,7 +2829,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>长沙万达影城(梅溪湖步步高店)</p></td>
+<td><p>长沙万达影城<br />
+（梅溪湖步步高店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年7月30日</p></td>
 <td></td>
@@ -2540,7 +2840,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>长沙CGV影城(梅溪湖店)</p></td>
+<td><p>长沙CGV影城<br />
+（梅溪湖店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年11月25日</p></td>
 <td></td>
@@ -2550,7 +2851,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>长沙横店IMAX影城(悠游小镇店)</p></td>
+<td><p>长沙横店IMAX影城<br />
+（悠游小镇店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年8月15日</p></td>
 <td></td>
@@ -2560,7 +2862,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>长沙金逸影城(福晟IMAX店)</p></td>
+<td><p>长沙金逸影城<br />
+（福晟IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年12月22日</p></td>
 <td></td>
@@ -2570,7 +2873,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>长沙泰禾影城(开福IMAX店)</p></td>
+<td><p>长沙泰禾影城<br />
+（开福IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2019年1月26日</p></td>
 <td></td>
@@ -2580,7 +2884,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>长沙万达影城(中茂店)</p></td>
+<td><p>长沙万达影城<br />
+（中茂店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2019年4月24日</p></td>
 <td><p>21.82</p></td>
@@ -2590,7 +2895,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>郴州万达影城(生源购物中心店)</p></td>
+<td><p>郴州万达影城<br />
+（生源购物中心店）</p></td>
 <td><p>IMAX数字</p></td>
 <td></td>
 <td></td>
@@ -2600,7 +2906,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>湘潭万达影城(万达广场店)</p></td>
+<td><p>湘潭万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年6月10日</p></td>
 <td><p>22.54</p></td>
@@ -2620,7 +2927,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>常德万达影城(万达广场店)</p></td>
+<td><p>常德万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年9月16日</p></td>
 <td></td>
@@ -2630,7 +2938,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>益阳万达影城(万达广场店)</p></td>
+<td><p>益阳万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年6月23日</p></td>
 <td></td>
@@ -2640,7 +2949,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>衡阳万达影城(万达广场店)</p></td>
+<td><p>衡阳万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年9月29日</p></td>
 <td><p>20.22</p></td>
@@ -2650,7 +2960,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>衡阳金逸影城(中心城店)</p></td>
+<td><p>衡阳金逸影城<br />
+（中心城店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年9月30日</p></td>
 <td></td>
@@ -2660,7 +2971,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>岳阳CGV影城(步步高店)</p></td>
+<td><p>岳阳CGV影城<br />
+（步步高店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年2月12日</p></td>
 <td></td>
@@ -2670,7 +2982,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>长春万达影城(欧亚大卖场店)</p></td>
+<td><p>长春万达影城<br />
+（欧亚大卖场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2008年4月28日(IMAX MPX放映系统)<br />
 2010年6月12日(IMAX数字放映系统)</p></td>
@@ -2681,7 +2994,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>IMAX中國第10家IMAX影院</p></td>
 </tr>
 <tr class="even">
-<td><p>长春万达影城(红旗街万达广场店)</p></td>
+<td><p>长春万达影城<br />
+（红旗街万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2010年10月29日</p></td>
 <td></td>
@@ -2691,7 +3005,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>长春万达影城(重庆路万达广场店)</p></td>
+<td><p>长春万达影城<br />
+（重庆路万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2011年12月</p></td>
 <td></td>
@@ -2701,7 +3016,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>长春万达影城(宽城万达广场店)</p></td>
+<td><p>长春万达影城<br />
+（宽城万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2013年8月16日</p></td>
 <td></td>
@@ -2711,7 +3027,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>长春万达影城(繁荣路力旺中心店)</p></td>
+<td><p>长春万达影城<br />
+（繁荣路力旺中心店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年6月7日</p></td>
 <td></td>
@@ -2721,7 +3038,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>长春星轶影城(吾悦广场IMAX店)</p></td>
+<td><p>长春星轶影城<br />
+（吾悦广场IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年7月27日</p></td>
 <td><p>25.98</p></td>
@@ -2731,7 +3049,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>长春万达影城(车城万达广场店)</p></td>
+<td><p>长春万达影城<br />
+（车城万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年9月8日</p></td>
 <td></td>
@@ -2741,7 +3060,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>长春万达影城(栖乐荟广场店)</p></td>
+<td><p>长春万达影城<br />
+（栖乐荟广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年9月23日</p></td>
 <td><p>24.03</p></td>
@@ -2751,7 +3071,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>长春CGV影城(世纪广场店)]</p></td>
+<td><p>长春CGV影城<br />
+（世纪广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年10月30日</p></td>
 <td></td>
@@ -2771,7 +3092,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>吉林万达影城(欧亚商都店)</p></td>
+<td><p>吉林万达影城<br />
+（欧亚商都店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2014年12月28日</p></td>
 <td></td>
@@ -2781,7 +3103,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>吉林万达影城(华业广场店)</p></td>
+<td><p>吉林万达影城<br />
+（华业广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2015年12月22日</p></td>
 <td></td>
@@ -2791,7 +3114,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>吉林万达影城(昌邑万达广场店)</p></td>
+<td><p>吉林万达影城<br />
+（昌邑万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年9月15日</p></td>
 <td><p>21.72</p></td>
@@ -2801,7 +3125,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>四平万达影城(万达广场店)</p></td>
+<td><p>四平万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年7月1日</p></td>
 <td></td>
@@ -2811,7 +3136,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>四平万达影城(颐高产业园店)</p></td>
+<td><p>四平万达影城<br />
+（颐高产业园店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年12月30日</p></td>
 <td></td>
@@ -2821,7 +3147,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>延吉万达影城(万达广场店)</p></td>
+<td><p>延吉万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年9月9日</p></td>
 <td></td>
@@ -2831,7 +3158,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>天津中影国际影城(和平津湾店)</p></td>
+<td><p>天津中影国际影城<br />
+（和平津湾店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2009年9月</p></td>
 <td><p>21.3</p></td>
@@ -2841,7 +3169,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>天津万达影城(河东万达广场店 )</p></td>
+<td><p>天津万达影城<br />
+（河东万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2011年11月8日<br />
 2017年3月20日</p></td>
@@ -2852,9 +3181,10 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>天津CGV星星影城(滨海店)</p></td>
+<td><p>天津CGV星星影城<br />
+（滨海店）</p></td>
 <td><p>IMAX数字</p></td>
-<td><p>2011年12月16日(目前暂停营业)<br />
+<td><p>2011年12月16日(暂停营业)<br />
 2016年2月1日(重新开业)</p></td>
 <td><p>16.45</p></td>
 <td><p>8.68</p></td>
@@ -2863,7 +3193,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>天津金逸影城(大悦城IMAX店)</p></td>
+<td><p>天津金逸影城<br />
+（大悦城IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2012年6月22日</p></td>
 <td><p>21.95</p></td>
@@ -2883,7 +3214,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>天津橙天嘉禾影城(银河店)</p></td>
+<td><p>天津橙天嘉禾影城<br />
+（银河店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2012年10月25日</p></td>
 <td><p>22.55</p></td>
@@ -2893,7 +3225,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>天津CGV影城(于家堡店)</p></td>
+<td><p>天津CGV影城<br />
+（于家堡店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2015年12月1日</p></td>
 <td><p>23.89</p></td>
@@ -2903,7 +3236,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>天津金逸影城(大港IMAX店)</p></td>
+<td><p>天津金逸影城<br />
+（大港IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年12月21日</p></td>
 <td><p>19.70</p></td>
@@ -2913,7 +3247,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>天津SFC上影影城(天河城店)</p></td>
+<td><p>天津SFC上影影城<br />
+（天河城店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年6月26日</p></td>
 <td><p>18.89</p></td>
@@ -2923,7 +3258,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>天津万达影城(西青社会山广场店)</p></td>
+<td><p>天津万达影城<br />
+（西青社会山广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年1月5日</p></td>
 <td><p>18.98</p></td>
@@ -2933,7 +3269,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>昆明百老汇影城(顺城购物中心店)</p></td>
+<td><p>昆明百老汇影城<br />
+（顺城购物中心店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2009年9月</p></td>
 <td></td>
@@ -2943,7 +3280,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>昆明万达影城(同德广场店)</p></td>
+<td><p>昆明万达影城<br />
+（同德广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2014年10月18日</p></td>
 <td><p>20.75</p></td>
@@ -2953,7 +3291,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>昆明万达影城(西山万达广场店)</p></td>
+<td><p>昆明万达影城<br />
+（西山万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2014年10月31日</p></td>
 <td><p>21.3</p></td>
@@ -2963,7 +3302,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>昆明CGV影城(海伦店)</p></td>
+<td><p>昆明CGV影城<br />
+（海伦店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2015年12月18日</p></td>
 <td></td>
@@ -2973,7 +3313,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>昆明CGV影城(呈贡店)</p></td>
+<td><p>昆明CGV影城<br />
+（呈贡店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年6月18日</p></td>
 <td></td>
@@ -2983,7 +3324,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>昆明上影影城(西城IMAX店)</p></td>
+<td><p>昆明上影影城<br />
+（西城IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年10月1日</p></td>
 <td></td>
@@ -2993,7 +3335,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>西双版纳万达影城(万达广场店)</p></td>
+<td><p>西双版纳万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2015年9月26日</p></td>
 <td><p>16.933</p></td>
@@ -3013,7 +3356,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>曲靖万达影城(经开万达广场店)</p></td>
+<td><p>曲靖万达影城<br />
+（经开万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年10月27日</p></td>
 <td><p>20.86</p></td>
@@ -3023,7 +3367,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>哈尔滨万达影城(香坊万达广场店)</p></td>
+<td><p>哈尔滨万达影城<br />
+（香坊万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2011年11月8日</p></td>
 <td></td>
@@ -3033,7 +3378,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>哈尔滨万达影城(悦荟广场店)</p></td>
+<td><p>哈尔滨万达影城<br />
+（悦荟广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2011年11月19日</p></td>
 <td></td>
@@ -3043,7 +3389,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>哈尔滨万达影城(哈西万达广场店)</p></td>
+<td><p>哈尔滨万达影城<br />
+（哈西万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2013年9月13日</p></td>
 <td></td>
@@ -3053,7 +3400,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>哈尔滨CGV影城(会展中心店)</p></td>
+<td><p>哈尔滨CGV影城<br />
+（会展中心店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年2月3日</p></td>
 <td></td>
@@ -3063,7 +3411,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>哈尔滨万达影城(群力财富广场店)</p></td>
+<td><p>哈尔滨万达影城<br />
+（群力财富广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年6月23日</p></td>
 <td></td>
@@ -3073,7 +3422,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>哈尔滨万达影城(万达文化旅游城店)</p></td>
+<td><p>哈尔滨万达影城<br />
+（万达文化旅游城店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年6月30日</p></td>
 <td><p>20[53]</p></td>
@@ -3083,7 +3433,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>哈尔滨万达影城(松雷广场店)</p></td>
+<td><p>哈尔滨万达影城<br />
+（松雷广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年9月15日</p></td>
 <td><p>18.52</p></td>
@@ -3093,7 +3444,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>哈尔滨万达影城(五常金街时代广场店)</p></td>
+<td><p>哈尔滨万达影城<br />
+（五常金街时代广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2019年1月23日</p></td>
 <td></td>
@@ -3103,7 +3455,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>哈尔滨博纳国际影城（银泰城店）</p></td>
+<td><p>哈尔滨博纳国际影城<br />
+（银泰城店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>预计2019年9月</p></td>
 <td></td>
@@ -3113,7 +3466,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>哈尔滨英皇电影城（富力广场店）</p></td>
+<td><p>哈尔滨英皇电影城<br />
+（富力广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>预计2019年12月</p></td>
 <td></td>
@@ -3123,7 +3477,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>哈尔滨金逸影城（滨才·憬荟店）</p></td>
+<td><p>哈尔滨金逸影城<br />
+（滨才·憬荟店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>预计2019年12月</p></td>
 <td></td>
@@ -3133,7 +3488,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>大庆万达影城(萨尔图万达广场店)</p></td>
+<td><p>大庆万达影城<br />
+（萨尔图万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2011年11月25日</p></td>
 <td></td>
@@ -3143,7 +3499,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>大庆幸福蓝海影城(松雷广场店)</p></td>
+<td><p>大庆幸福蓝海影城<br />
+（松雷广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2013年12月21日</p></td>
 <td></td>
@@ -3153,7 +3510,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>齐齐哈尔万达影城(万达广场店)</p></td>
+<td><p>齐齐哈尔万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2015年8月1日</p></td>
 <td></td>
@@ -3163,7 +3521,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>佳木斯万达影城(万达广场店)</p></td>
+<td><p>佳木斯万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2015年9月12日</p></td>
 <td><p>21.40</p></td>
@@ -3173,7 +3532,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>鸡西万达影城(万达广场店)</p></td>
+<td><p>鸡西万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年7月15日</p></td>
 <td></td>
@@ -3183,7 +3543,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>牡丹江万达影城(万达广场店)</p></td>
+<td><p>牡丹江万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年7月22日</p></td>
 <td></td>
@@ -3193,7 +3554,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>绥化万达影城(万达广场店)</p></td>
+<td><p>绥化万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年10月1日</p></td>
 <td><p>20.05</p></td>
@@ -3203,7 +3565,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>沈阳万达影城(铁西万达广场店)</p></td>
+<td><p>沈阳万达影城<br />
+（铁西万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2011年11月8日</p></td>
 <td></td>
@@ -3213,7 +3576,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>沈阳金逸影城(龙之梦店)</p></td>
+<td><p>沈阳金逸影城<br />
+（龙之梦店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2012年4月30日</p></td>
 <td></td>
@@ -3223,7 +3587,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>沈阳万达影城(北一路万达广场店)</p></td>
+<td><p>沈阳万达影城<br />
+（北一路万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2012年8月31日</p></td>
 <td></td>
@@ -3233,7 +3598,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>沈阳万达影城(奥体万达广场店)</p></td>
+<td><p>沈阳万达影城<br />
+（奥体万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2013年7月26日</p></td>
 <td></td>
@@ -3243,7 +3609,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>沈阳CGV影城(金融中心店)</p></td>
+<td><p>沈阳CGV影城<br />
+（金融中心店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2013年8月28日</p></td>
 <td></td>
@@ -3253,7 +3620,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>大连万达影城(华府悦荟广场店)</p></td>
+<td><p>大连万达影城<br />
+（华府悦荟广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2011年12月15日<br />
 2015年5月29日<br />
@@ -3267,7 +3635,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>大连万达影城(高新万达广场店)</p></td>
+<td><p>大连万达影城<br />
+（高新万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2013年5月25日</p></td>
 <td><p>22.08</p></td>
@@ -3277,7 +3646,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>大连CGV影城(东港店)</p></td>
+<td><p>大连CGV影城<br />
+（东港店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2015年3月13日</p></td>
 <td></td>
@@ -3287,7 +3657,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>大连SFC上影影城(百年港湾店)</p></td>
+<td><p>大连SFC上影影城<br />
+（百年港湾店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年1月15日</p></td>
 <td></td>
@@ -3297,7 +3668,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>大连万达影城(普兰店万达广场店)</p></td>
+<td><p>大连万达影城<br />
+（普兰店万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年7月29日</p></td>
 <td><p>15.25</p></td>
@@ -3307,7 +3679,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>大连万达影城(庄河万达广场店)</p></td>
+<td><p>大连万达影城<br />
+（庄河万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年8月18日</p></td>
 <td><p>15.5</p></td>
@@ -3317,17 +3690,19 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>大连博纳影城(中央大道店)</p></td>
+<td><p>大连博纳影城<br />
+（中央大道店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年11月20日</p></td>
 <td><p>24.83</p></td>
 <td><p>14.07</p></td>
 <td><p>349.3581</p></td>
 <td><p>467</p></td>
-<td><p>IMAX中国第500家IMAX影院</p></td>
+<td><p>IMAX中国第500家IMAX影院[54]</p></td>
 </tr>
 <tr class="even">
-<td><p>大连万达影城（甘井子万达广场店）</p></td>
+<td><p>大连万达影城<br />
+（甘井子万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年9月29日</p></td>
 <td><p>21.14</p></td>
@@ -3337,7 +3712,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>大连万达影城(金州瑞栢中心店)</p></td>
+<td><p>大连万达影城<br />
+（金州瑞栢中心店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年1月19日</p></td>
 <td><p>19.63</p></td>
@@ -3347,7 +3723,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>盘锦CGV影城(兴隆台店)</p></td>
+<td><p>盘锦CGV影城<br />
+（兴隆台店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2013年1月6日</p></td>
 <td></td>
@@ -3357,7 +3734,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>抚顺万达影城(万达广场店)</p></td>
+<td><p>抚顺万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2013年10月25日</p></td>
 <td></td>
@@ -3367,7 +3745,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>丹东万达影城(万达广场店)</p></td>
+<td><p>丹东万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2013年12月20日</p></td>
 <td><p>20.69</p></td>
@@ -3377,7 +3756,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>营口万达影城(万达广场店)</p></td>
+<td><p>营口万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2015年6月19日</p></td>
 <td></td>
@@ -3387,7 +3767,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>营口万达影城(鲅鱼圈万达广场店)</p></td>
+<td><p>营口万达影城<br />
+（鲅鱼圈万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年11月19日</p></td>
 <td></td>
@@ -3397,7 +3778,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>朝阳万达影城(万达广场店)</p></td>
+<td><p>朝阳万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年11月26日</p></td>
 <td><p>20.14</p></td>
@@ -3407,7 +3789,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>辽阳万达影城(万达广场店)</p></td>
+<td><p>辽阳万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年7月28日</p></td>
 <td><p>20.75</p></td>
@@ -3417,7 +3800,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>锦州万达影城(万达广场店)</p></td>
+<td><p>锦州万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年9月1日</p></td>
 <td></td>
@@ -3427,7 +3811,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>本溪万达影城(万达广场店)</p></td>
+<td><p>本溪万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年12月21日</p></td>
 <td><p>22.03</p></td>
@@ -3437,7 +3822,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>石家庄万达影城(裕华万达广场店)</p></td>
+<td><p>石家庄万达影城<br />
+（裕华万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2011年9月23日<br />
 2017年3月22日</p></td>
@@ -3448,7 +3834,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>廊坊万达影城(万达广场店)</p></td>
+<td><p>廊坊万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2011年11月11日</p></td>
 <td></td>
@@ -3458,7 +3845,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>唐山万达影城(路南万达广场店)</p></td>
+<td><p>唐山万达影城<br />
+（路南万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2011年12月23日</p></td>
 <td></td>
@@ -3468,7 +3856,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>廊坊华谊兄弟影城(燕郊天洋城店)</p></td>
+<td><p>廊坊华谊兄弟影城<br />
+（燕郊天洋城店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年12月26日</p></td>
 <td><p>16.89</p></td>
@@ -3478,7 +3867,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>邢台万达影城(万达广场店)</p></td>
+<td><p>邢台万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年11月2日</p></td>
 <td></td>
@@ -3488,7 +3878,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>济南万达影城(魏家庄万达广场店)</p></td>
+<td><p>济南万达影城<br />
+（魏家庄万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2010年11月</p></td>
 <td></td>
@@ -3498,7 +3889,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>济南万达影城(高新万达广场店)</p></td>
+<td><p>济南万达影城<br />
+（高新万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年6月18日</p></td>
 <td></td>
@@ -3508,7 +3900,19 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>济南幸福蓝海国际影城(全运村中央广场IMAX店)</p></td>
+<td><p>济南CGV影城<br />
+（印象城店）</p></td>
+<td><p>IMAX数字</p></td>
+<td><p>2019年6月1日</p></td>
+<td><p>20.54</p></td>
+<td><p>10.48</p></td>
+<td><p>215.2592</p></td>
+<td></td>
+<td><p>-</p></td>
+</tr>
+<tr class="odd">
+<td><p>济南幸福蓝海国际影城<br />
+（全运村中央广场IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年2月9日</p></td>
 <td><p>24.57</p></td>
@@ -3517,18 +3921,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>371</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>济南CGV影城(印象城店)</p></td>
-<td><p>IMAX数字</p></td>
-<td><p>预计2019年6月</p></td>
-<td><p>20.54</p></td>
-<td><p>10.48</p></td>
-<td><p>215.2592</p></td>
-<td></td>
-<td><p>-</p></td>
-</tr>
 <tr class="even">
-<td><p>济南金逸影城(汇隆广场IMAX店)</p></td>
+<td><p>济南金逸影城<br />
+（汇隆广场IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>目前未营业</p></td>
 <td></td>
@@ -3538,7 +3933,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>青岛万达影城(李沧万达广场店)</p></td>
+<td><p>青岛万达影城<br />
+（李沧万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2012年9月21日</p></td>
 <td></td>
@@ -3548,7 +3944,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>青岛CGV影城(万象城店)</p></td>
+<td><p>青岛CGV影城<br />
+（万象城店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2015年4月30日</p></td>
 <td></td>
@@ -3558,7 +3955,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>青岛SFC上影影城(金狮广场店)</p></td>
+<td><p>青岛SFC上影影城<br />
+（金狮广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年4月28日</p></td>
 <td></td>
@@ -3568,7 +3966,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>青岛CGV影城(新都心店)</p></td>
+<td><p>青岛CGV影城<br />
+（新都心店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年6月28日</p></td>
 <td></td>
@@ -3578,7 +3977,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>青岛星轶影城(吾悦广场IMAX店)</p></td>
+<td><p>青岛星轶影城<br />
+（吾悦广场IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年9月29日</p></td>
 <td><p>22.92</p></td>
@@ -3588,7 +3988,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>青岛万达影城(东方影都店)</p></td>
+<td><p>青岛万达影城<br />
+（东方影都店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年4月28日</p></td>
 <td></td>
@@ -3598,7 +3999,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>潍坊万达影城(万达广场店)</p></td>
+<td><p>潍坊万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2014年5月23日</p></td>
 <td><p>22.51</p></td>
@@ -3608,7 +4010,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>潍坊万达影城(寿光万达广场店)</p></td>
+<td><p>潍坊万达影城<br />
+（寿光万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年12月29日</p></td>
 <td><p>20.34</p></td>
@@ -3618,7 +4021,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>济宁万达影城(太白路万达广场店)</p></td>
+<td><p>济宁万达影城<br />
+（太白路万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2014年7月5日</p></td>
 <td></td>
@@ -3628,7 +4032,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>烟台幸福蓝海国际影城(IMAX店)</p></td>
+<td><p>烟台幸福蓝海国际影城<br />
+（IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2014年9月26日</p></td>
 <td><p>21.21</p></td>
@@ -3638,7 +4043,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>烟台万达影城(芝罘万达广场店)</p></td>
+<td><p>烟台万达影城<br />
+（芝罘万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2014年11月21日</p></td>
 <td></td>
@@ -3648,7 +4054,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>烟台CGV影城(长江路店)</p></td>
+<td><p>烟台CGV影城<br />
+（长江路店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年5月27日</p></td>
 <td></td>
@@ -3658,7 +4065,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>东营万达影城(万达广场店)</p></td>
+<td><p>东营万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2015年8月15日</p></td>
 <td></td>
@@ -3668,7 +4076,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>东营万达影城(东城万达广场店)</p></td>
+<td><p>东营万达影城<br />
+（东城万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年7月12日</p></td>
 <td></td>
@@ -3678,7 +4087,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>泰安万达影城(万达广场店)</p></td>
+<td><p>泰安万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2015年8月21日</p></td>
 <td></td>
@@ -3688,7 +4098,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>德州万达影城(万达广场店)</p></td>
+<td><p>德州万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2015年11月6日</p></td>
 <td></td>
@@ -3698,7 +4109,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>滨州万达影城(万达广场店)</p></td>
+<td><p>滨州万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年12月30日</p></td>
 <td></td>
@@ -3708,7 +4120,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>枣庄万达影城(万达广场店)</p></td>
+<td><p>枣庄万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年6月23日</p></td>
 <td></td>
@@ -3718,7 +4131,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>菏泽万达影城(万达广场店)</p></td>
+<td><p>菏泽万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年11月16日</p></td>
 <td><p>20.9</p></td>
@@ -3728,7 +4142,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>临沂CGV影城(泰盛店)</p></td>
+<td><p>临沂CGV影城<br />
+（泰盛店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年12月21日</p></td>
 <td><p>20.9</p></td>
@@ -3738,7 +4153,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>合肥万达影城(包河万达广场店)</p></td>
+<td><p>合肥万达影城<br />
+（包河万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2010年12月23日<br />
 2015年11月13日</p></td>
@@ -3749,7 +4165,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>合肥万达影城(天鹅湖万达广场店)</p></td>
+<td><p>合肥万达影城<br />
+（天鹅湖万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2012年7月20日<br />
 2019年1月8日</p></td>
@@ -3760,7 +4177,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>合肥英皇电影城(万象城店)</p></td>
+<td><p>合肥英皇电影城<br />
+（万象城店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2015年10月15日</p></td>
 <td><p>21.85</p></td>
@@ -3770,7 +4188,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>合肥万达影城(瑶海万达广场店)</p></td>
+<td><p>合肥万达影城<br />
+（瑶海万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年9月9日</p></td>
 <td><p>23.66</p></td>
@@ -3780,7 +4199,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>合肥万达影城(万达文化旅游城店)</p></td>
+<td><p>合肥万达影城<br />
+（万达文化旅游城店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年9月24日</p></td>
 <td><p>22.36</p></td>
@@ -3790,7 +4210,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>合肥华谊兄弟影院(武里山天街店)</p></td>
+<td><p>合肥华谊兄弟影院<br />
+（武里山天街店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年8月18日</p></td>
 <td><p>21.61</p></td>
@@ -3800,7 +4221,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>合肥万达影城(宝利丰广场店)</p></td>
+<td><p>合肥万达影城<br />
+（宝利丰广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年12月30日</p></td>
 <td><p>23.39</p></td>
@@ -3810,7 +4232,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>合肥万达影城(巢湖万达广场店)</p></td>
+<td><p>合肥万达影城<br />
+（巢湖万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年11月2日</p></td>
 <td><p>22.17</p></td>
@@ -3820,7 +4243,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>合肥万达影城(万科广场店)</p></td>
+<td><p>合肥万达影城<br />
+（万科广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2019年5月11日</p></td>
 <td></td>
@@ -3830,7 +4254,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>芜湖万达影城(镜湖万达广场店)</p></td>
+<td><p>芜湖万达影城<br />
+（镜湖万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2012年9月7日</p></td>
 <td></td>
@@ -3840,7 +4265,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>芜湖万达影城(华强广场店)</p></td>
+<td><p>芜湖万达影城<br />
+（华强广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年12月17日</p></td>
 <td></td>
@@ -3860,7 +4286,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>蚌埠万达影城(万达广场店)</p></td>
+<td><p>蚌埠万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2013年11月29日</p></td>
 <td></td>
@@ -3870,7 +4297,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>马鞍山万达影城(万达广场店)</p></td>
+<td><p>马鞍山万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2014年9月19日</p></td>
 <td></td>
@@ -3880,7 +4308,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>铜陵万达影城(北斗星城广场店)</p></td>
+<td><p>铜陵万达影城<br />
+（北斗星城广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2014年11月28日</p></td>
 <td></td>
@@ -3890,7 +4319,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>铜陵万达影城(万达广场店)</p></td>
+<td><p>铜陵万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年11月10日</p></td>
 <td></td>
@@ -3900,7 +4330,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>阜阳万达影城(颍州万达广场店)</p></td>
+<td><p>阜阳万达影城<br />
+（颍州万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2015年9月5日</p></td>
 <td></td>
@@ -3920,7 +4351,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>阜阳万达影城(颍泉万达广场店)</p></td>
+<td><p>阜阳万达影城<br />
+（颍泉万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年6月16日</p></td>
 <td></td>
@@ -3930,7 +4362,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>亳州万达影城(万达广场店)</p></td>
+<td><p>亳州万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年8月12日</p></td>
 <td></td>
@@ -3940,7 +4373,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>宿州万达影城(万达广场店)</p></td>
+<td><p>宿州万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年12月2日</p></td>
 <td></td>
@@ -3950,7 +4384,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>安庆星轶影城(吾悦广场IMAX店)</p></td>
+<td><p>安庆星轶影城<br />
+（吾悦广场IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年12月23日</p></td>
 <td><p>20.96</p></td>
@@ -3960,7 +4395,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>安庆SFC上影影城（百联店）</p></td>
+<td><p>安庆SFC上影影城<br />
+（百联店）</p></td>
 <td><p>IMAX数字</p></td>
 <td></td>
 <td></td>
@@ -3970,7 +4406,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>淮北金逸影城(IMAX店)</p></td>
+<td><p>淮北金逸影城<br />
+（IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年12月24日</p></td>
 <td><p>20.99</p></td>
@@ -3980,7 +4417,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>淮北万达影城(万达广场店)</p></td>
+<td><p>淮北万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年9月28日</p></td>
 <td><p>20.96</p></td>
@@ -3990,7 +4428,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>六安万达影城(万达广场店)</p></td>
+<td><p>六安万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年12月31日</p></td>
 <td><p>20.26</p></td>
@@ -4000,7 +4439,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>黄山金逸影城IMAX(光美黎阳店)</p></td>
+<td><p>黄山金逸影城IMAX<br />
+（光美黎阳店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年1月24日</p></td>
 <td><p>20.98</p></td>
@@ -4010,7 +4450,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>宣城万达影城(万达广场店)</p></td>
+<td><p>宣城万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年6月29日</p></td>
 <td></td>
@@ -4020,7 +4461,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>淮南星轶影城(吾悦广场IMAX店)</p></td>
+<td><p>淮南星轶影城<br />
+（吾悦广场IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年8月31日</p></td>
 <td><p>25.49</p></td>
@@ -4050,7 +4492,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>杭州万达影城(水晶城店)</p></td>
+<td><p>杭州万达影城<br />
+（水晶城店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2014年12月5日</p></td>
 <td></td>
@@ -4060,17 +4503,19 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>杭州万达影城(拱墅万达广场店)</p></td>
+<td><p>杭州万达影城<br />
+（拱墅万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2014年12月12日</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td><p>348</p></td>
-<td><p>(IMAX中国第200家IMAX影院)</p></td>
+<td><p>IMAX中国第200家IMAX影院[55]。</p></td>
 </tr>
 <tr class="even">
-<td><p>杭州佳映国际影城(五洲国际广场店)</p></td>
+<td><p>杭州佳映国际影城<br />
+（五洲国际广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2015年3月29日</p></td>
 <td></td>
@@ -4080,7 +4525,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>杭州SFC上影影城(龙湖店)</p></td>
+<td><p>杭州SFC上影影城<br />
+（龙湖店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2015年9月26日</p></td>
 <td></td>
@@ -4090,7 +4536,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>杭州德纳国际影城(萧山IMAX店)</p></td>
+<td><p>杭州德纳国际影城<br />
+（萧山IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2015年11月4日</p></td>
 <td></td>
@@ -4100,7 +4547,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>杭州金逸影城电影街(影视中心IMAX店)</p></td>
+<td><p>杭州金逸影城电影街<br />
+（影视中心IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年1月29日</p></td>
 <td><p>20.71</p></td>
@@ -4120,7 +4568,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>杭州海上明珠国际影城(滨江店)</p></td>
+<td><p>杭州海上明珠国际影城<br />
+（滨江店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年5月28日</p></td>
 <td><p>18.53</p></td>
@@ -4130,7 +4579,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>杭州CGV影城(乐堤港店)</p></td>
+<td><p>杭州CGV影城<br />
+（乐堤港店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年6月29日</p></td>
 <td></td>
@@ -4140,7 +4590,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>杭州CGV影城(滨江天街店)</p></td>
+<td><p>杭州CGV影城<br />
+（滨江天街店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年9月23日</p></td>
 <td></td>
@@ -4150,7 +4601,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>杭州东影时代影城(西溪店)</p></td>
+<td><p>杭州东影时代影城<br />
+（西溪店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年2月2日</p></td>
 <td></td>
@@ -4170,7 +4622,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>杭州SFC上影影城(余之城店)</p></td>
+<td><p>杭州SFC上影影城<br />
+（余之城店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年7月20日</p></td>
 <td></td>
@@ -4180,7 +4633,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>杭州博纳国际影城（西溪店）</p></td>
+<td><p>杭州博纳国际影城<br />
+（西溪店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年8月11日</p></td>
 <td></td>
@@ -4190,7 +4644,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>杭州万达影城(崇贤上亿广场店)</p></td>
+<td><p>杭州万达影城<br />
+（崇贤上亿广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年11月9日</p></td>
 <td></td>
@@ -4200,7 +4655,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>宁波万达影城(鄞州万达广场店)</p></td>
+<td><p>宁波万达影城<br />
+（鄞州万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2011年7月21日</p></td>
 <td></td>
@@ -4210,7 +4666,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>宁波万达影城(江北万达广场店)</p></td>
+<td><p>宁波万达影城<br />
+（江北万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2011年12月25日<br />
 2018年11月8日</p></td>
@@ -4221,7 +4678,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>宁波CGV影城(文化广场店)</p></td>
+<td><p>宁波CGV影城<br />
+（文化广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td></td>
 <td><p>21.67</p></td>
@@ -4231,7 +4689,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>宁波CGV影城(鄞州店)</p></td>
+<td><p>宁波CGV影城<br />
+（鄞州店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2014年12月29日</p></td>
 <td><p>21.39</p></td>
@@ -4241,7 +4700,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>宁波星美国际影城(奥特莱斯店)</p></td>
+<td><p>宁波星美国际影城<br />
+（奥特莱斯店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年3月12日</p></td>
 <td></td>
@@ -4251,7 +4711,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>宁波博纳国际影城(北仑店)</p></td>
+<td><p>宁波博纳国际影城<br />
+（北仑店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年10月27日</p></td>
 <td></td>
@@ -4261,7 +4722,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>宁波星轶影城(镇海吾悦广场IMAX店)</p></td>
+<td><p>宁波星轶影城<br />
+（镇海吾悦广场IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年11月24日</p></td>
 <td></td>
@@ -4271,7 +4733,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>宁波万达影城(奉化万达广场店)</p></td>
+<td><p>宁波万达影城<br />
+（奉化万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年5月24日</p></td>
 <td><p>20.66</p></td>
@@ -4281,7 +4744,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>余姚万达影城(万达广场店)</p></td>
+<td><p>余姚万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td></td>
 <td><p>20.84</p></td>
@@ -4291,7 +4755,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>余姚CGV影城(城东店)</p></td>
+<td><p>余姚CGV影城<br />
+（城东店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2014年6月28日</p></td>
 <td></td>
@@ -4301,7 +4766,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>慈溪中影星美国际影城(保利店)</p></td>
+<td><p>慈溪中影星美国际影城<br />
+（保利店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年6月2日</p></td>
 <td></td>
@@ -4321,7 +4787,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>绍兴万达影城(柯桥万达广场店)</p></td>
+<td><p>绍兴万达影城<br />
+（柯桥万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td></td>
 <td></td>
@@ -4331,7 +4798,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>绍兴卢米埃影城(银泰城店)</p></td>
+<td><p>绍兴卢米埃影城<br />
+（银泰城店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2015年1月10日</p></td>
 <td></td>
@@ -4341,7 +4809,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>绍兴万达影城(上虞万达广场店)</p></td>
+<td><p>绍兴万达影城<br />
+（上虞万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年11月25日</p></td>
 <td></td>
@@ -4351,7 +4820,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>绍兴星轶影城(嵊州吾悦广场IMAX店)</p></td>
+<td><p>绍兴星轶影城<br />
+（嵊州吾悦广场IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年10月27日</p></td>
 <td></td>
@@ -4361,7 +4831,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>嵊州金逸IMAX影城(和悦时代广场店)</p></td>
+<td><p>嵊州金逸IMAX影城<br />
+（和悦时代广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年5月21日</p></td>
 <td></td>
@@ -4371,7 +4842,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>金华万达影城(万达广场店)</p></td>
+<td><p>金华万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2014年7月25日</p></td>
 <td><p>21.86</p></td>
@@ -4381,7 +4853,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>义乌万达影城(万达广场店)</p></td>
+<td><p>义乌万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年8月26日</p></td>
 <td><p>26.56</p></td>
@@ -4401,7 +4874,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>义乌保利国际影城(义乌之心店)</p></td>
+<td><p>义乌保利国际影城<br />
+（义乌之心店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年8月19日</p></td>
 <td><p>26.88</p></td>
@@ -4411,7 +4885,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>嘉兴万达影城(万达广场店)</p></td>
+<td><p>嘉兴万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2015年6月12日</p></td>
 <td></td>
@@ -4421,7 +4896,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>嘉兴星轶影城(桐乡吾悦广场IMAX店)</p></td>
+<td><p>嘉兴星轶影城<br />
+（桐乡吾悦广场IMAX店)</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年5月26日</p></td>
 <td></td>
@@ -4431,7 +4907,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>诸暨万达影城(万达广场店)</p></td>
+<td><p>诸暨万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年7月27日</p></td>
 <td></td>
@@ -4441,7 +4918,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>温州万达影城(龙湾万达广场店)</p></td>
+<td><p>温州万达影城<br />
+（龙湾万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2012年11月30日</p></td>
 <td><p>22.3</p></td>
@@ -4451,7 +4929,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>温州万达影城(平阳万达广场店)</p></td>
+<td><p>温州万达影城<br />
+（平阳万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2014年12月6日</p></td>
 <td></td>
@@ -4461,7 +4940,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>温州卢米埃影城(万象城店)</p></td>
+<td><p>温州卢米埃影城<br />
+（万象城店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年5月28日</p></td>
 <td></td>
@@ -4471,7 +4951,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>温州博纳国际影城（5050店）</p></td>
+<td><p>温州博纳国际影城<br />
+（5050店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年11月16日</p></td>
 <td><p>21.25</p></td>
@@ -4481,7 +4962,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>温州万达影城(南塘店)</p></td>
+<td><p>温州万达影城<br />
+（南塘店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年12月30日</p></td>
 <td><p>21.92</p></td>
@@ -4491,7 +4973,18 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>台州万达影城(台州万达广场店)</p></td>
+<td><p>乐清神画影城(虹桥店）</p></td>
+<td><p>IMAX数字</p></td>
+<td><p>2019年5月24日</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>-</p></td>
+</tr>
+<tr class="odd">
+<td><p>台州万达影城<br />
+（台州万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年6月17日</p></td>
 <td></td>
@@ -4500,8 +4993,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>357</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>台州万达影城(中盛广场店)</p></td>
+<tr class="even">
+<td><p>台州万达影城<br />
+（中盛广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年11月11日</p></td>
 <td><p>21.55</p></td>
@@ -4510,7 +5004,7 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>374</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>温岭0090 IMAX影城</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年7月27日</p></td>
@@ -4520,8 +5014,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>512</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>湖州万达影城(万达广场店)</p></td>
+<tr class="even">
+<td><p>湖州万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年12月23日</p></td>
 <td><p>21.59</p></td>
@@ -4530,8 +5025,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>361</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>衢州星轶影城(吾悦广场旗舰店)</p></td>
+<tr class="odd">
+<td><p>衢州星轶影城<br />
+（吾悦广场旗舰店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年6月16日</p></td>
 <td><p>24.46</p></td>
@@ -4540,8 +5036,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>373</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>衢州万达影城(经开万达广场店)</p></td>
+<tr class="even">
+<td><p>衢州万达影城<br />
+（经开万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td></td>
 <td><p>21.32</p></td>
@@ -4550,7 +5047,7 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>369</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>海宁传奇电影中心</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年1月1日</p></td>
@@ -4560,7 +5057,7 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>285</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>西安大明宫IMAX影院</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2011年7月21日</p></td>
@@ -4570,8 +5067,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>293</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>西安万达影城(民乐园万达广场店)</p></td>
+<tr class="odd">
+<td><p>西安万达影城<br />
+（民乐园万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2011年11月8日</p></td>
 <td><p>21.18</p></td>
@@ -4580,8 +5078,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>367</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>西安万达影城(碑林万达广场店)</p></td>
+<tr class="even">
+<td><p>西安万达影城<br />
+（碑林万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2013年10月1日</p></td>
 <td></td>
@@ -4590,8 +5089,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>294</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>西安万达影城(大明宫万达广场店)</p></td>
+<tr class="odd">
+<td><p>西安万达影城<br />
+（大明宫万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2013年11月22日</p></td>
 <td></td>
@@ -4600,8 +5100,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>368</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>西安CGV影城(印象城店)</p></td>
+<tr class="even">
+<td><p>西安CGV影城<br />
+（印象城店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2015年9月30日</p></td>
 <td><p>20.06</p></td>
@@ -4610,7 +5111,7 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>288</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>西安开顿IMAX国际影城</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年11月18日</p></td>
@@ -4620,8 +5121,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>474</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>西安万达影城(龙城铭园店)</p></td>
+<tr class="even">
+<td><p>西安万达影城<br />
+（龙城铭园店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年12月30日</p></td>
 <td><p>22.96</p></td>
@@ -4630,7 +5132,7 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>302</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>西安博纳国际影城</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年12月21日</p></td>
@@ -4640,8 +5142,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>421</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>西安卢米埃影城(曲江创业谷IMAX店)</p></td>
+<tr class="even">
+<td><p>西安卢米埃影城<br />
+（曲江创业谷IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年12月30日</p></td>
 <td></td>
@@ -4650,8 +5153,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>268</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>渭南万达影城(万达广场店)</p></td>
+<tr class="odd">
+<td><p>渭南万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2015年8月7日</p></td>
 <td></td>
@@ -4660,8 +5164,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>394</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>银川万达影城(金凤万达广场店)</p></td>
+<tr class="even">
+<td><p>银川万达影城<br />
+（金凤万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2011年9月9日</p></td>
 <td></td>
@@ -4670,8 +5175,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>306</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>银川万达影城(西夏万达广场店)</p></td>
+<tr class="odd">
+<td><p>银川万达影城<br />
+（西夏万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2014年7月18日</p></td>
 <td></td>
@@ -4680,8 +5186,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>414</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>吴忠万达影城(万达广场店)</p></td>
+<tr class="even">
+<td><p>吴忠万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年6月15日</p></td>
 <td></td>
@@ -4690,8 +5197,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>373</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>石嘴山万达影城(万达广场店)</p></td>
+<tr class="odd">
+<td><p>石嘴山万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年7月6日</p></td>
 <td></td>
@@ -4700,8 +5208,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>340</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>呼和浩特万达影城(万达广场店)</p></td>
+<tr class="even">
+<td><p>呼和浩特万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2011年11月5日</p></td>
 <td></td>
@@ -4710,8 +5219,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>398</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>呼和浩特CGV影城(中山店)</p></td>
+<tr class="odd">
+<td><p>呼和浩特CGV影城<br />
+（中山店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2014年12月27日</p></td>
 <td></td>
@@ -4720,8 +5230,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>367</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>呼和浩特万达影城(回民区万达广场店)</p></td>
+<tr class="even">
+<td><p>呼和浩特万达影城<br />
+（回民区万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年8月25日</p></td>
 <td><p>24.52</p></td>
@@ -4730,8 +5241,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>302</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>包头万达影城(青山万达广场店)</p></td>
+<tr class="odd">
+<td><p>包头万达影城<br />
+（青山万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2011年11月10日</p></td>
 <td></td>
@@ -4740,8 +5252,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>314</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>赤峰万达影城(万达广场店)</p></td>
+<tr class="even">
+<td><p>赤峰万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td></td>
 <td></td>
@@ -4750,8 +5263,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>414</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>乌海万达影城(万达广场店)</p></td>
+<tr class="odd">
+<td><p>乌海万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年6月25日</p></td>
 <td></td>
@@ -4760,8 +5274,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>375</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>通辽万达影城(万达广场店)</p></td>
+<tr class="even">
+<td><p>通辽万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年7月22日</p></td>
 <td></td>
@@ -4770,8 +5285,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>386</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>酒泉万达影城(万达广场店)</p></td>
+<tr class="odd">
+<td><p>酒泉万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年11月10日</p></td>
 <td></td>
@@ -4780,8 +5296,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>369</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>武威万达影城(万达广场店)</p></td>
+<tr class="even">
+<td><p>武威万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年10月19日</p></td>
 <td></td>
@@ -4790,7 +5307,7 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>386</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>太原博纳国际影城</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2015年6月20日</p></td>
@@ -4800,8 +5317,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>343</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>临汾万达影城(新百汇广场店)</p></td>
+<tr class="even">
+<td><p>临汾万达影城<br />
+（新百汇广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年12月20日</p></td>
 <td></td>
@@ -4810,8 +5328,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>331</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>晋中万达影城(万达广场店)</p></td>
+<tr class="odd">
+<td><p>晋中万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年8月18日</p></td>
 <td><p>20.06</p></td>
@@ -4820,7 +5339,7 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>381</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>晋中华谊兄弟影院</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年9月15日</p></td>
@@ -4830,8 +5349,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>462</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>大同万达影城(万达广场店)</p></td>
+<tr class="odd">
+<td><p>大同万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年10月20日</p></td>
 <td></td>
@@ -4840,8 +5360,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>383</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>长治万达影城(万达广场店)</p></td>
+<tr class="even">
+<td><p>长治万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年9月22日</p></td>
 <td></td>
@@ -4850,8 +5371,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>329</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>榆林万达影城(万达广场店)</p></td>
+<tr class="odd">
+<td><p>榆林万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年12月22日</p></td>
 <td></td>
@@ -4860,8 +5382,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>349</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>运城万达影城(万达广场店)</p></td>
+<tr class="even">
+<td><p>运城万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年12月28日</p></td>
 <td></td>
@@ -4870,8 +5393,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>364</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>福州万达影城(金融街万达广场店)</p></td>
+<tr class="odd">
+<td><p>福州万达影城<br />
+（金融街万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2010年12月22日</p></td>
 <td><p>20.6</p></td>
@@ -4880,8 +5404,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>314</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>福州万达影城(仓山万达广场店)</p></td>
+<tr class="even">
+<td><p>福州万达影城<br />
+（仓山万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2011年12月2日</p></td>
 <td><p>19.09</p></td>
@@ -4890,8 +5415,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>261</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>福州金逸影城(宝龙店)</p></td>
+<tr class="odd">
+<td><p>福州金逸影城<br />
+（宝龙店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2012年4月</p></td>
 <td></td>
@@ -4900,8 +5426,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>445</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>福州星美国际影城(王庄店)</p></td>
+<tr class="even">
+<td><p>福州星美国际影城<br />
+（王庄店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2015年1月10日<br />
 2016年10月4日(重新开业)</p></td>
@@ -4911,8 +5438,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>557</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>福州CGV影城(东二环IMAX店)</p></td>
+<tr class="odd">
+<td><p>福州CGV影城<br />
+（东二环IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2015年12月30日</p></td>
 <td><p>20.36</p></td>
@@ -4921,8 +5449,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>290</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>福州幸福蓝海国际影城(名城IMAX店)</p></td>
+<tr class="even">
+<td><p>福州幸福蓝海国际影城<br />
+（名城IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年12月24日</p></td>
 <td><p>18.17</p></td>
@@ -4931,8 +5460,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>304</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>厦门万达影城(湖里万达广场店)</p></td>
+<tr class="odd">
+<td><p>厦门万达影城<br />
+（湖里万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2011年9月2日</p></td>
 <td><p>19.54</p></td>
@@ -4941,8 +5471,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>291</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>厦门金逸影城(明发IMAX店)</p></td>
+<tr class="even">
+<td><p>厦门金逸影城<br />
+（明发IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2013年1月8日</p></td>
 <td></td>
@@ -4951,8 +5482,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>396</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>厦门万达影城(集美万达广场店)</p></td>
+<tr class="odd">
+<td><p>厦门万达影城<br />
+（集美万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2013年6月8日</p></td>
 <td><p>22.13</p></td>
@@ -4961,8 +5493,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>412</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>厦门万达影城(世茂海峡广场店)</p></td>
+<tr class="even">
+<td><p>厦门万达影城<br />
+（世茂海峡广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年7月16日</p></td>
 <td><p>22.62</p></td>
@@ -4971,8 +5504,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>348</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>厦门卢米埃影城(宝龙一城IMAX店)</p></td>
+<tr class="odd">
+<td><p>厦门卢米埃影城<br />
+（宝龙一城IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年9月30日</p></td>
 <td></td>
@@ -4981,8 +5515,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>374</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>莆田万达影城(万达广场店)</p></td>
+<tr class="even">
+<td><p>莆田万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2012年12月15日</p></td>
 <td><p>21.60</p></td>
@@ -4991,8 +5526,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>348</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>泉州万达影城(万达广场店)</p></td>
+<tr class="odd">
+<td><p>泉州万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2012年9月29日</p></td>
 <td></td>
@@ -5001,8 +5537,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>416</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>泉州泰禾影城(东海店)</p></td>
+<tr class="even">
+<td><p>泉州泰禾影城<br />
+（东海店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年8月</p></td>
 <td></td>
@@ -5011,8 +5548,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>安溪金逸影城(宝龙店)</p></td>
+<tr class="odd">
+<td><p>安溪金逸影城<br />
+（宝龙店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年12月3日</p></td>
 <td><p>19.20</p></td>
@@ -5021,8 +5559,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>346</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>晋江万达影城(万达广场店)</p></td>
+<tr class="even">
+<td><p>晋江万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2012年8月10日</p></td>
 <td><p>21.6</p></td>
@@ -5031,8 +5570,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>357</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>泉州星轶影城(晋江吾悦广场IMAX店)</p></td>
+<tr class="odd">
+<td><p>泉州星轶影城<br />
+（晋江吾悦广场IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年12月22日</p></td>
 <td><p>19.83</p></td>
@@ -5041,8 +5581,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>209</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>漳州万达影城(万达广场店)</p></td>
+<tr class="even">
+<td><p>漳州万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2012年11月28日</p></td>
 <td><p>21.71</p></td>
@@ -5051,8 +5592,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>347</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>漳州万达影城(台商区万达广场店)</p></td>
+<tr class="odd">
+<td><p>漳州万达影城<br />
+（台商区万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年1月6日</p></td>
 <td><p>22.48</p></td>
@@ -5061,8 +5603,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>381</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>漳州金逸影城(红星店)</p></td>
+<tr class="even">
+<td><p>漳州金逸影城<br />
+（红星店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年10月3日</p></td>
 <td><p>18.81</p></td>
@@ -5071,8 +5614,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>249</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>宁德万达影城(万达广场店)</p></td>
+<tr class="odd">
+<td><p>宁德万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2012年8月11日</p></td>
 <td></td>
@@ -5081,8 +5625,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>305</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>龙岩万达影城(万达广场店)</p></td>
+<tr class="even">
+<td><p>龙岩万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2014年11月7日</p></td>
 <td></td>
@@ -5091,8 +5636,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>401</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>福清万达影城(万达广场店)</p></td>
+<tr class="odd">
+<td><p>福清万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2014年12月5日</p></td>
 <td></td>
@@ -5101,8 +5647,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>410</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>石狮万达影城(世茂广场店)</p></td>
+<tr class="even">
+<td><p>石狮万达影城<br />
+（世茂广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年9月9日</p></td>
 <td><p>25.16</p></td>
@@ -5111,8 +5658,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>344</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>三明万达影城(万达广场店)</p></td>
+<tr class="odd">
+<td><p>三明万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年12月30日</p></td>
 <td><p>22.95</p></td>
@@ -5121,8 +5669,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>376</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>南平万达影城(万达广场店)</p></td>
+<tr class="even">
+<td><p>南平万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年11月30日</p></td>
 <td><p>22.14</p></td>
@@ -5131,18 +5680,20 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>郑州万达影城(中原万达广场店)</p></td>
+<tr class="odd">
+<td><p>郑州万达影城<br />
+（中原万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2011年10月28日</p></td>
-<td><p>21[54]</p></td>
+<td><p>21[56]</p></td>
 <td><p>11.8</p></td>
 <td><p>247.8</p></td>
 <td><p>353</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>郑州CGV影城(大卫城店)</p></td>
+<tr class="even">
+<td><p>郑州CGV影城<br />
+（大卫城店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2015年12月11日</p></td>
 <td><p>24.68</p></td>
@@ -5151,28 +5702,31 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>396</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>郑州万达影城(惠济万达广场店)</p></td>
+<tr class="odd">
+<td><p>郑州万达影城<br />
+（惠济万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年11月18日</p></td>
-<td><p>21.6[55]</p></td>
+<td><p>21.6[57]</p></td>
 <td><p>12.2</p></td>
 <td><p>263.52</p></td>
 <td><p>396</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>郑州CGV影城(高新店)</p></td>
+<tr class="even">
+<td><p>郑州CGV影城<br />
+（高新店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年12月6日</p></td>
-<td><p>23.3[56]</p></td>
+<td><p>23.3[58]</p></td>
 <td><p>13.4</p></td>
 <td><p>312.22</p></td>
 <td><p>366</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>郑州CGV影城(正弘城店)</p></td>
+<tr class="odd">
+<td><p>郑州CGV影城<br />
+（正弘城店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年12月29日</p></td>
 <td><p>24.92</p></td>
@@ -5181,8 +5735,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>322</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>洛阳万达影城(万达广场店)</p></td>
+<tr class="even">
+<td><p>洛阳万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2012年2月20日</p></td>
 <td></td>
@@ -5191,8 +5746,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>295</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>安阳万达影城(万达广场店)</p></td>
+<tr class="odd">
+<td><p>安阳万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2015年7月25日</p></td>
 <td></td>
@@ -5201,8 +5757,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>400</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>三门峡万达影城(万达广场店)</p></td>
+<tr class="even">
+<td><p>三门峡万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年10月21日</p></td>
 <td></td>
@@ -5211,8 +5768,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>402</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>焦作万达影城(万达广场店)</p></td>
+<tr class="odd">
+<td><p>焦作万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年6月30日</p></td>
 <td><p>20.57</p></td>
@@ -5221,8 +5779,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>386</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>南阳万达影城(中泰广场店)</p></td>
+<tr class="even">
+<td><p>南阳万达影城<br />
+（中泰广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年7月14日</p></td>
 <td><p>21.90</p></td>
@@ -5231,8 +5790,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>321</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>平顶山万达影城(万达广场店)</p></td>
+<tr class="odd">
+<td><p>平顶山万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年11月24日</p></td>
 <td><p>21.03</p></td>
@@ -5241,8 +5801,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>375</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>新乡万达影城(牧野区万达广场店)</p></td>
+<tr class="even">
+<td><p>新乡万达影城<br />
+（牧野区万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年12月23日</p></td>
 <td><p>21.47</p></td>
@@ -5251,8 +5812,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>359</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>鹤壁万达影城(万达广场店)</p></td>
+<tr class="odd">
+<td><p>鹤壁万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年6月22日</p></td>
 <td></td>
@@ -5261,8 +5823,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>350</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>商丘万达影城(万达广场店)</p></td>
+<tr class="even">
+<td><p>商丘万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年7月6日</p></td>
 <td></td>
@@ -5271,8 +5834,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>387</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>开封万达影城(万达广场店)</p></td>
+<tr class="odd">
+<td><p>开封万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年9月28日</p></td>
 <td><p>20.13</p></td>
@@ -5281,8 +5845,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>363</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>成都万达影城(锦华万达广场店)</p></td>
+<tr class="even">
+<td><p>成都万达影城<br />
+（锦华万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2011年11月8日</p></td>
 <td><p>16</p></td>
@@ -5292,18 +5857,20 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 254</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>成都影立方影城(东郊记忆773店)</p></td>
+<tr class="odd">
+<td><p>成都影立方影城<br />
+（东郊记忆773店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2012年11月29日</p></td>
-<td><p>22[57]</p></td>
+<td><p>22[59]</p></td>
 <td><p>12.6</p></td>
 <td><p>277.2</p></td>
 <td><p>488</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>成都万达影城(金牛万达广场店)</p></td>
+<tr class="even">
+<td><p>成都万达影城<br />
+（金牛万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2012年12月22日</p></td>
 <td><p>21.18</p></td>
@@ -5313,8 +5880,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 381</p></td>
 <td><p>IMAX中国第100家IMAX影院</p></td>
 </tr>
-<tr class="even">
-<td><p>成都影立方影城(城南优品道广场店)</p></td>
+<tr class="odd">
+<td><p>成都影立方影城<br />
+（城南优品道广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2013年12月25日</p></td>
 <td></td>
@@ -5323,8 +5891,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>436</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>成都CGV影城(金牛店)</p></td>
+<tr class="even">
+<td><p>成都CGV影城<br />
+（金牛店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2013年12月30日</p></td>
 <td><p>21.25</p></td>
@@ -5333,7 +5902,7 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>326</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>成都UA国际金融中心影城</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2014年1月14日</p></td>
@@ -5343,8 +5912,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>433</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>成都卢米埃影城(龙湖店)</p></td>
+<tr class="even">
+<td><p>成都卢米埃影城<br />
+（龙湖店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2014年1月18日</p></td>
 <td></td>
@@ -5353,18 +5923,20 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>352</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>成都CGV影城(高新店)</p></td>
+<tr class="odd">
+<td><p>成都CGV影城<br />
+（高新店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2014年8月28日</p></td>
-<td><p>23.644</p></td>
-<td><p>13.617</p></td>
-<td><p>321.960348</p></td>
+<td><p>23.51</p></td>
+<td><p>12.38</p></td>
+<td><p>291.0538</p></td>
 <td><p>411</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>成都SFC上影影城(龙湖IMAX店)</p></td>
+<tr class="even">
+<td><p>成都SFC上影影城<br />
+（龙湖IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2014年9月24日</p></td>
 <td></td>
@@ -5373,8 +5945,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>320</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>成都金逸影城(鹏瑞利店)</p></td>
+<tr class="odd">
+<td><p>成都金逸影城<br />
+（鹏瑞利店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2014年10月28日</p></td>
 <td></td>
@@ -5383,8 +5956,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>504</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>成都CGV影城(金楠店)</p></td>
+<tr class="even">
+<td><p>成都CGV影城<br />
+（金楠店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2015年10月23日</p></td>
 <td><p>20.68</p></td>
@@ -5393,8 +5967,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>284</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>成都SFC上影影城(科华IMAX店)</p></td>
+<tr class="odd">
+<td><p>成都SFC上影影城<br />
+（科华IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2015年12月18日</p></td>
 <td><p>24.39</p></td>
@@ -5403,8 +5978,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>442</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>成都万达影城(蜀都万达广场店)</p></td>
+<tr class="even">
+<td><p>成都万达影城<br />
+（蜀都万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年4月29日</p></td>
 <td><p>22.76</p></td>
@@ -5413,8 +5989,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>338</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>成都万达影城(简阳旭海广场店)</p></td>
+<tr class="odd">
+<td><p>成都万达影城<br />
+（简阳旭海广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年9月17日</p></td>
 <td></td>
@@ -5423,8 +6000,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>312</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>成都万达影城(崇州万达广场店)</p></td>
+<tr class="even">
+<td><p>成都万达影城<br />
+（崇州万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年9月1日</p></td>
 <td></td>
@@ -5433,8 +6011,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>396</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>成都万达影城(城中城店)</p></td>
+<tr class="odd">
+<td><p>成都万达影城<br />
+（城中城店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年1月6日</p></td>
 <td><p>16.31</p></td>
@@ -5443,8 +6022,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>204</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>成都中视国际影城 IMAX(铁建店)</p></td>
+<tr class="even">
+<td><p>成都中视国际影城 IMAX<br />
+（铁建店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年12月23日</p></td>
 <td></td>
@@ -5453,8 +6033,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>306</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>成都幸福蓝海国际影城（仁和新城IMAX店）</p></td>
+<tr class="odd">
+<td><p>成都幸福蓝海国际影城<br />
+（仁和新城IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年11月23日</p></td>
 <td><p>21.39</p></td>
@@ -5463,8 +6044,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>404</p></td>
 <td><p>IMAX中国第600家IMAX影院</p></td>
 </tr>
-<tr class="odd">
-<td><p>成都CGV影城(龙泉驿店)</p></td>
+<tr class="even">
+<td><p>成都CGV影城<br />
+（龙泉驿店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年12月22日</p></td>
 <td><p>20.52</p></td>
@@ -5473,8 +6055,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>311</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>成都万达影城(468店)</p></td>
+<tr class="odd">
+<td><p>成都万达影城<br />
+（468店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2019年1月25日</p></td>
 <td><p>17.45</p></td>
@@ -5483,9 +6066,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>182</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>成都博纳影城(大悦城店)<br />
-(原名成都星美国际影城(大悦城店))</p></td>
+<tr class="even">
+<td><p>成都博纳影城<br />
+（大悦城店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2015年12月24日<br />
 2019年5月1日</p></td>
@@ -5495,8 +6078,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>374</p></td>
 <td><p>由于星美集团经营不善被博纳影业集团收购并更名为博纳影城重新装修</p></td>
 </tr>
-<tr class="even">
-<td><p>成都英皇电影城(新光天地店)</p></td>
+<tr class="odd">
+<td><p>成都英皇电影城<br />
+（新光天地店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>即将开业</p></td>
 <td></td>
@@ -5505,8 +6089,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>绵阳万达影城(涪城万达广场店)</p></td>
+<tr class="even">
+<td><p>绵阳万达影城<br />
+（涪城万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2012年12月21日</p></td>
 <td></td>
@@ -5515,8 +6100,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>347</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>绵阳金逸影城(奥莱店)</p></td>
+<tr class="odd">
+<td><p>绵阳金逸影城<br />
+（奥莱店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年8月3日</p></td>
 <td><p>25.22</p></td>
@@ -5525,8 +6111,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>396</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>广元万达影城(万达广场店)</p></td>
+<tr class="even">
+<td><p>广元万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2015年6月5日</p></td>
 <td></td>
@@ -5535,8 +6122,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>382</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>内江万达影城(万达广场店)</p></td>
+<tr class="odd">
+<td><p>内江万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2015年6月26日</p></td>
 <td><p>25.75</p></td>
@@ -5545,8 +6133,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>396</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>自贡星维国际电影城(南湖店)</p></td>
+<tr class="even">
+<td><p>自贡星维国际电影城<br />
+（南湖店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2015年7月16日</p></td>
 <td><p>23.63</p></td>
@@ -5555,8 +6144,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>524</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>泸州CGV影城(万象汇店)</p></td>
+<tr class="odd">
+<td><p>泸州CGV影城<br />
+（万象汇店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2015年11月6日</p></td>
 <td></td>
@@ -5565,8 +6155,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>354</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>泸州万达影城(万达广场店)</p></td>
+<tr class="even">
+<td><p>泸州万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年6月1日</p></td>
 <td><p>20.9</p></td>
@@ -5575,8 +6166,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>427</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>资阳万达影城(万达广场店)</p></td>
+<tr class="odd">
+<td><p>资阳万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年6月17日</p></td>
 <td></td>
@@ -5585,8 +6177,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>411</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>德阳万达影城(万达广场店)</p></td>
+<tr class="even">
+<td><p>德阳万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年9月17日</p></td>
 <td><p>23.63</p></td>
@@ -5595,8 +6188,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>372</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>乐山万达影城(万达广场店)</p></td>
+<tr class="odd">
+<td><p>乐山万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年9月23日</p></td>
 <td><p>20.25</p></td>
@@ -5605,8 +6199,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>360</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>遂宁万达影城(万达广场店)</p></td>
+<tr class="even">
+<td><p>遂宁万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年10月21日</p></td>
 <td><p>21.22</p></td>
@@ -5615,8 +6210,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>394</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>眉山万达影城(雕像国际广场店)</p></td>
+<tr class="odd">
+<td><p>眉山万达影城<br />
+（雕像国际广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年4月1日</p></td>
 <td><p>19.59</p></td>
@@ -5625,8 +6221,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>246</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>达州横店电影城(罗浮店)</p></td>
+<tr class="even">
+<td><p>达州横店电影城<br />
+（罗浮店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年5月1日</p></td>
 <td></td>
@@ -5635,8 +6232,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>235</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>雅安万达影城(万达广场店)</p></td>
+<tr class="odd">
+<td><p>雅安万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年7月21日</p></td>
 <td><p>20.82</p></td>
@@ -5645,8 +6243,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>422</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>宜宾万达影城(万达广场店)</p></td>
+<tr class="even">
+<td><p>宜宾万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年12月21日</p></td>
 <td><p>20.76</p></td>
@@ -5655,18 +6254,20 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>388</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>重庆卢米埃影城(金源店)</p></td>
+<tr class="odd">
+<td><p>重庆卢米埃影城<br />
+（金源店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2010年12月</p></td>
 <td></td>
 <td></td>
 <td></td>
-<td><p>440[58]</p></td>
-<td><p>重庆第一家IMAX影城[59]</p></td>
+<td><p>440[60]</p></td>
+<td><p>重庆第一家IMAX影城[61]</p></td>
 </tr>
-<tr class="odd">
-<td><p>重庆金逸影城(星光时代店)</p></td>
+<tr class="even">
+<td><p>重庆金逸影城<br />
+（星光时代店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2012年3月28日</p></td>
 <td></td>
@@ -5675,8 +6276,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>332</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>重庆万达影城(大渡口广场店)</p></td>
+<tr class="odd">
+<td><p>重庆万达影城<br />
+（大渡口广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2012年12月24日</p></td>
 <td></td>
@@ -5685,8 +6287,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>243</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>重庆百丽宫影城(万象城店)</p></td>
+<tr class="even">
+<td><p>重庆百丽宫影城<br />
+（万象城店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2014年12月2日</p></td>
 <td><p>23.74</p></td>
@@ -5695,8 +6298,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>456</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>重庆星美国际影商城(解放碑店)</p></td>
+<tr class="odd">
+<td><p>重庆星美国际影商城<br />
+（解放碑店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2014年12月18日</p></td>
 <td><p>23.76</p></td>
@@ -5705,8 +6309,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>356</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>重庆越界影城(大学城店)</p></td>
+<tr class="even">
+<td><p>重庆越界影城<br />
+（大学城店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2015年1月17日</p></td>
 <td><p>22.94</p></td>
@@ -5715,8 +6320,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>445</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>重庆星美国际影商城(东原D7店)</p></td>
+<tr class="odd">
+<td><p>重庆星美国际影商城<br />
+（东原D7店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2015年2月8日</p></td>
 <td><p>23.53</p></td>
@@ -5725,8 +6331,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>427</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>重庆万达影城(巴南万达广场店)</p></td>
+<tr class="even">
+<td><p>重庆万达影城<br />
+（巴南万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2015年10月30日</p></td>
 <td><p>23.57</p></td>
@@ -5735,8 +6342,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>374</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>重庆越界影城(石桥铺店)</p></td>
+<tr class="odd">
+<td><p>重庆越界影城<br />
+（石桥铺店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2015年11月13日</p></td>
 <td><p>23.85</p></td>
@@ -5745,8 +6353,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>528</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>重庆越界影城(汽博中心店)</p></td>
+<tr class="even">
+<td><p>重庆越界影城<br />
+（汽博中心店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2015年12月8日</p></td>
 <td><p>21.77</p></td>
@@ -5755,8 +6364,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>410</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>重庆越界影城(江北嘴店)</p></td>
+<tr class="odd">
+<td><p>重庆越界影城<br />
+（江北嘴店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年1月1日</p></td>
 <td><p>20.16</p></td>
@@ -5765,8 +6375,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>329</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>重庆万达影城(大融城店)</p></td>
+<tr class="even">
+<td><p>重庆万达影城<br />
+（大融城店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年8月12日</p></td>
 <td><p>15.46</p></td>
@@ -5775,8 +6386,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>217</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>重庆万达影城(永川万达广场店)</p></td>
+<tr class="odd">
+<td><p>重庆万达影城<br />
+（永川万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年9月25日</p></td>
 <td><p>21.19</p></td>
@@ -5785,8 +6397,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>396</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>重庆万达影城(大坪店)</p></td>
+<tr class="even">
+<td><p>重庆万达影城<br />
+（大坪店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年11月4日</p></td>
 <td></td>
@@ -5795,8 +6408,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>288</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>重庆CGV影城(源著店)</p></td>
+<tr class="odd">
+<td><p>重庆CGV影城<br />
+（源著店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年6月16日</p></td>
 <td><p>22.29</p></td>
@@ -5805,8 +6419,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>275</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>重庆CGV影城(观音桥店)</p></td>
+<tr class="even">
+<td><p>重庆CGV影城<br />
+（观音桥店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年6月23日</p></td>
 <td></td>
@@ -5815,8 +6430,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>326</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>重庆万达影城(北培万达广场店)</p></td>
+<tr class="odd">
+<td><p>重庆万达影城<br />
+（北培万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年8月15日</p></td>
 <td><p>20.76</p></td>
@@ -5825,8 +6441,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>355</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>重庆CGV影城(U城店)</p></td>
+<tr class="even">
+<td><p>重庆CGV影城<br />
+（U城店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年9月15日</p></td>
 <td><p>24.57</p></td>
@@ -5835,8 +6452,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>334</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>重庆万达影城(綦江万达广场店)</p></td>
+<tr class="odd">
+<td><p>重庆万达影城<br />
+（綦江万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年10月27日</p></td>
 <td></td>
@@ -5845,8 +6463,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>396</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>重庆万达影城(大竹林店)</p></td>
+<tr class="even">
+<td><p>重庆万达影城<br />
+（大竹林店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年12月30日</p></td>
 <td></td>
@@ -5855,8 +6474,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>297</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>重庆万达影城(华茂中心店)</p></td>
+<tr class="odd">
+<td><p>重庆万达影城<br />
+（华茂中心店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2019年2月1日</p></td>
 <td><p>22.75</p></td>
@@ -5865,8 +6485,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>340</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>重庆金逸影城(蘭亭IMAX店)</p></td>
+<tr class="even">
+<td><p>重庆金逸影城<br />
+（蘭亭IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2019年4月23日</p></td>
 <td><p>22.18</p></td>
@@ -5875,8 +6496,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>342</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>南昌万达影城(八一万达广场店)</p></td>
+<tr class="odd">
+<td><p>南昌万达影城<br />
+（八一万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2011年11月</p></td>
 <td><p>15.314</p></td>
@@ -5885,8 +6507,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>277</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>南昌万达影城(红谷滩万达广场店)</p></td>
+<tr class="even">
+<td><p>南昌万达影城<br />
+（红谷滩万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2012年8月24日<br />
 2017年3月28日</p></td>
@@ -5899,8 +6522,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>338</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>南昌星美国际影城(梦时代店)</p></td>
+<tr class="odd">
+<td><p>南昌星美国际影城<br />
+（梦时代店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2014年5月1日</p></td>
 <td><p>22.502</p></td>
@@ -5909,8 +6533,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>411</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>南昌万达影城(万达文化旅游城店)</p></td>
+<tr class="even">
+<td><p>南昌万达影城<br />
+（万达文化旅游城店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年5月28日</p></td>
 <td><p>25.53</p></td>
@@ -5919,8 +6544,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>355</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>南昌星轶影城(吾悦广场旗舰店)</p></td>
+<tr class="odd">
+<td><p>南昌星轶影城<br />
+（吾悦广场旗舰店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年11月18日</p></td>
 <td><p>17.83</p></td>
@@ -5929,8 +6555,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>306</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>南昌万达影城(西湖万达广场店)</p></td>
+<tr class="even">
+<td><p>南昌万达影城<br />
+（西湖万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年6月23日</p></td>
 <td><p>20.60</p></td>
@@ -5939,8 +6566,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>395</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>南昌万达影城(青山湖万达广场店)</p></td>
+<tr class="odd">
+<td><p>南昌万达影城<br />
+（青山湖万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年12月21日</p></td>
 <td><p>21.88</p></td>
@@ -5949,7 +6577,7 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>374</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>赣州CGV影城</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2015年9月19日</p></td>
@@ -5959,8 +6587,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>479</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>宜春万达影城(万达广场店)</p></td>
+<tr class="odd">
+<td><p>宜春万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年10月21日</p></td>
 <td><p>21.45</p></td>
@@ -5969,8 +6598,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>398</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>宜春大地影院(润达国际IMAX店)</p></td>
+<tr class="even">
+<td><p>宜春大地影院<br />
+（润达国际IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2019年2月5日</p></td>
 <td></td>
@@ -5979,8 +6609,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>411</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>新余金逸影城IMAX（光美抱石店）</p></td>
+<tr class="odd">
+<td><p>新余金逸影城IMAX<br />
+（光美抱石店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年1月25日</p></td>
 <td></td>
@@ -5989,8 +6620,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>352</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>上饶万达影城(万达广场店)</p></td>
+<tr class="even">
+<td><p>上饶万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年11月25日</p></td>
 <td><p>23.86</p></td>
@@ -5999,8 +6631,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>351</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>抚州万达影城(万达广场店)</p></td>
+<tr class="odd">
+<td><p>抚州万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年6月16日</p></td>
 <td></td>
@@ -6009,8 +6642,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>406</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>九江万达影城(万达广场店)</p></td>
+<tr class="even">
+<td><p>九江万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年6月16日</p></td>
 <td><p>22.63</p></td>
@@ -6019,8 +6653,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>396</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>贵阳星美国际影城(花果园店)</p></td>
+<tr class="odd">
+<td><p>贵阳星美国际影城<br />
+（花果园店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2013年6月20日</p></td>
 <td></td>
@@ -6029,8 +6664,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>432</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>贵阳万达影城(观山湖万达广场店)</p></td>
+<tr class="even">
+<td><p>贵阳万达影城<br />
+（观山湖万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年5月25日</p></td>
 <td><p>22.24</p></td>
@@ -6039,8 +6675,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>281</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>贵阳卢米埃影城(花溪店)</p></td>
+<tr class="odd">
+<td><p>贵阳卢米埃影城<br />
+（花溪店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>预计2019年6月22日</p></td>
 <td><p>19.09</p></td>
@@ -6049,8 +6686,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>231</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>六盘水万达影城(万达广场店)</p></td>
+<tr class="even">
+<td><p>六盘水万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年5月10日</p></td>
 <td><p>20.86</p></td>
@@ -6059,8 +6697,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>411</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>南宁万达影城(悦荟广场店)</p></td>
+<tr class="odd">
+<td><p>南宁万达影城<br />
+（悦荟广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2013年10月1日</p></td>
 <td></td>
@@ -6069,7 +6708,7 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>255</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>南宁永恒·晶钻影城</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2014年1月17日</p></td>
@@ -6079,7 +6718,7 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>399</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>南宁新民族影城</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2014年6月27日</p></td>
@@ -6089,8 +6728,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>506</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>南宁万达影城(安吉万达广场店)</p></td>
+<tr class="even">
+<td><p>南宁万达影城<br />
+（安吉万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2015年12月5日</p></td>
 <td></td>
@@ -6099,8 +6739,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>341</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>南宁万达影城(万达茂店)</p></td>
+<tr class="odd">
+<td><p>南宁万达影城<br />
+（万达茂店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年6月16日</p></td>
 <td></td>
@@ -6109,8 +6750,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>384</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>南宁万达影城(江南万达广场店)</p></td>
+<tr class="even">
+<td><p>南宁万达影城<br />
+（江南万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年6月23日</p></td>
 <td><p>22.85</p></td>
@@ -6119,8 +6761,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>359</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>南宁万达影城(江宇世纪城店)</p></td>
+<tr class="odd">
+<td><p>南宁万达影城<br />
+（江宇世纪城店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2019年4月17日</p></td>
 <td><p>20.92</p></td>
@@ -6129,8 +6772,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>201</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>桂林万达影城(七星万达广场店)</p></td>
+<tr class="even">
+<td><p>桂林万达影城<br />
+（七星万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2015年9月12日</p></td>
 <td></td>
@@ -6139,8 +6783,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>412</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>桂林万达影城(叠彩万达广场店)</p></td>
+<tr class="odd">
+<td><p>桂林万达影城<br />
+（叠彩万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年11月24日</p></td>
 <td><p>19.05</p></td>
@@ -6149,8 +6794,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>362</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>柳州万达影城(柳南万达广场店)</p></td>
+<tr class="even">
+<td><p>柳州万达影城<br />
+（柳南万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年12月16日</p></td>
 <td><p>20.05</p></td>
@@ -6159,8 +6805,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>394</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>柳州金逸影城(万象城店)</p></td>
+<tr class="odd">
+<td><p>柳州金逸影城<br />
+（万象城店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年9月30日</p></td>
 <td><p>25.28</p></td>
@@ -6169,8 +6816,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>393</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>北海大地影院(宁春城店)</p></td>
+<tr class="even">
+<td><p>北海大地影院<br />
+（宁春城店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年10月26日</p></td>
 <td><p>20.02</p></td>
@@ -6179,8 +6827,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>278</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>贵港万达影城(万达广场店)</p></td>
+<tr class="odd">
+<td><p>贵港万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年12月27日</p></td>
 <td></td>
@@ -6189,8 +6838,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>359</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>玉林金逸影城(凤凰广场店)</p></td>
+<tr class="even">
+<td><p>玉林金逸影城<br />
+（凤凰广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2019年1月19日</p></td>
 <td></td>
@@ -6199,38 +6849,42 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>380</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>玉林万达影城(万达广场店)</p></td>
+<tr class="odd">
+<td><p>玉林万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
-<td><p>预计2019年5月25日</p></td>
+<td><p>2019年5月25日</p></td>
 <td><p>22.76</p></td>
 <td><p>10.85</p></td>
 <td><p>246.946</p></td>
 <td><p>278</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>海口中视国际影城(国兴店)</p></td>
+<tr class="even">
+<td><p>海口中视国际影城<br />
+（国兴店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2014年1月6日</p></td>
-<td><p>22.5[60]</p></td>
+<td><p>22.5[62]</p></td>
 <td><p>12.9</p></td>
 <td><p>290.25</p></td>
-<td><p>469[61]</p></td>
+<td><p>469[63]</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>海口星轶影城(吾悦广场IMAX店)</p></td>
+<tr class="odd">
+<td><p>海口星轶影城<br />
+（吾悦广场IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年10月28日</p></td>
-<td><p>23.7[62]</p></td>
+<td><p>23.7[64]</p></td>
 <td><p>13.7</p></td>
 <td><p>342.69</p></td>
 <td><p>343</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>海口万达影城(海航日月广场店)</p></td>
+<tr class="even">
+<td><p>海口万达影城<br />
+（海航日月广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年12月16日</p></td>
 <td></td>
@@ -6239,38 +6893,42 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>382</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>海口金逸影城(星海湾IMAX店)</p></td>
+<tr class="odd">
+<td><p>海口金逸影城<br />
+（星海湾IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年12月7日</p></td>
-<td><p>20.1[63]</p></td>
+<td><p>20.1[65]</p></td>
 <td><p>11.1</p></td>
 <td><p>223.11</p></td>
 <td><p>448</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>海口万达影城(秀英万达广场店)</p></td>
+<tr class="even">
+<td><p>海口万达影城<br />
+（秀英万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年12月23日</p></td>
-<td><p>19.2[64]</p></td>
+<td><p>19.2[66]</p></td>
 <td><p>10.7</p></td>
 <td><p>205.44</p></td>
 <td><p>413</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>海口中视国际影城(喜盈门店)</p></td>
+<tr class="odd">
+<td><p>海口中视国际影城<br />
+（喜盈门店）</p></td>
 <td><p>IMAX数字</p></td>
-<td><p>2016年10月26日[65]</p></td>
-<td><p>20.8[66]</p></td>
+<td><p>2016年10月26日[67]</p></td>
+<td><p>20.8[68]</p></td>
 <td><p>11.6</p></td>
 <td><p>241.28</p></td>
 <td><p>368</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>海口CGV影城(友谊阳光城店)</p></td>
+<tr class="even">
+<td><p>海口CGV影城<br />
+（友谊阳光城店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年5月1日</p></td>
 <td></td>
@@ -6279,8 +6937,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>402</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>三亚万达影城(万达海棠湾店)</p></td>
+<tr class="odd">
+<td><p>三亚万达影城<br />
+（万达海棠湾店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2011年9月16日</p></td>
 <td><p>20.91</p></td>
@@ -6289,7 +6948,7 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>295</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>三亚中视国际影城</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2014年8月2日</p></td>
@@ -6299,8 +6958,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>380</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>西宁万达影城(海湖万达广场店)</p></td>
+<tr class="odd">
+<td><p>西宁万达影城<br />
+（海湖万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年7月29日</p></td>
 <td></td>
@@ -6309,8 +6969,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>350</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>西宁万达影城(中发源时代广场店)</p></td>
+<tr class="even">
+<td><p>西宁万达影城<br />
+（中发源时代广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年1月5日</p></td>
 <td></td>
@@ -6319,8 +6980,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>342</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>乌鲁木齐万达影城(万达广场店)</p></td>
+<tr class="odd">
+<td><p>乌鲁木齐万达影城<br />
+（万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年8月12日</p></td>
 <td></td>
@@ -6329,8 +6991,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>345</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>乌鲁木齐万达影城(德汇万达广场店)</p></td>
+<tr class="even">
+<td><p>乌鲁木齐万达影城<br />
+（德汇万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年2月1日</p></td>
 <td></td>
@@ -6339,8 +7002,9 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>210</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>乌鲁木齐万达影城(高新区万达广场店)</p></td>
+<tr class="odd">
+<td><p>乌鲁木齐万达影城<br />
+（高新区万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年9月21日</p></td>
 <td><p>20.23</p></td>
@@ -6349,7 +7013,7 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>339</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -6384,8 +7048,8 @@ Service(爱麦克斯（上海）影院技术服务有限公司)(在中国大陸�
 <td><p>IMAX激光</p></td>
 <td><p>2007年5月1日(IMAX GT)<br />
 2013年11月20日(IMAX数字)<br />
-2015年11月25日(IMAX激光)[67]</p></td>
-<td><p>27.6[68]</p></td>
+2015年11月25日(IMAX激光)[69]</p></td>
+<td><p>27.6[70]</p></td>
 <td><p>21</p></td>
 <td><p>579.6</p></td>
 <td><p>503</p></td>
@@ -6397,7 +7061,7 @@ IMAX中國旗下第9家IMAX影院與亞洲首座激光IMAX影院</p></td>
 <td><p>IMAX激光</p></td>
 <td><p>2015年2月1日(IMAX数字)<br />
 2016年1月9日(IMAX激光)</p></td>
-<td><p>28.65[69]</p></td>
+<td><p>28.65[71]</p></td>
 <td><p>21.30</p></td>
 <td><p>610.245</p></td>
 <td><p>539</p></td>
@@ -6407,7 +7071,7 @@ IMAX中國旗下第9家IMAX影院與亞洲首座激光IMAX影院</p></td>
 <td><p>昆明大都LCC光魔激光影院</p></td>
 <td><p>IMAX激光</p></td>
 <td><p>2016年6月8日(IMAX激光)</p></td>
-<td><p>23.1[70]</p></td>
+<td><p>23.1[72]</p></td>
 <td><p>17.37</p></td>
 <td><p>401.247</p></td>
 <td><p>363</p></td>
@@ -6418,7 +7082,7 @@ IMAX中國旗下第9家IMAX影院與亞洲首座激光IMAX影院</p></td>
 （未来方舟店）</p></td>
 <td><p>IMAX激光</p></td>
 <td><p>2018年9月30日</p></td>
-<td><p>32.16[71]</p></td>
+<td><p>32.16[73]</p></td>
 <td><p>18.17</p></td>
 <td><p>584.3472</p></td>
 <td><p>714</p></td>
@@ -6474,7 +7138,7 @@ IMAX中國旗下第9家IMAX影院與亞洲首座激光IMAX影院</p></td>
 <td><p>348.345</p></td>
 <td><p>300</p></td>
 <td><p>12聲道音響系統<br />
-為中國第一家新一代IMAX激光放映系统影院[72]</p></td>
+為中國第一家新一代IMAX激光放映系统影院[74]</p></td>
 </tr>
 <tr class="even">
 <td><p>重庆万象影城<br />
@@ -6526,7 +7190,7 @@ IMAX中國旗下第9家IMAX影院與亞洲首座激光IMAX影院</p></td>
 <td><p>新一代IMAX激光</p></td>
 <td><p>2014年10月24日<br />
 2018年12月26日</p></td>
-<td><p>20.4[73]</p></td>
+<td><p>20.4[75]</p></td>
 <td><p>11.4</p></td>
 <td><p>232.56</p></td>
 <td><p>410</p></td>
@@ -6569,7 +7233,7 @@ IMAX中國旗下第9家IMAX影院與亞洲首座激光IMAX影院</p></td>
 372.7306</p></td>
 <td><p>430</p></td>
 <td><p>12聲道音響系統<br />
-IMAX公司全球第1000家IMAX®影院[74]</p></td>
+IMAX公司全球第1000家IMAX®影院[76]</p></td>
 </tr>
 <tr class="even">
 <td><p>上海万达影城<br />
@@ -6597,7 +7261,7 @@ IMAX公司全球第1000家IMAX®影院[74]</p></td>
 <td><p>新一代IMAX激光</p></td>
 <td><p>2012年10月13日<br />
 2019年1月4日</p></td>
-<td><p>21.3[75]</p></td>
+<td><p>21.3[77]</p></td>
 <td><p>11.7</p></td>
 <td><p>249.21</p></td>
 <td><p>470<br />
@@ -6655,7 +7319,7 @@ IMAX公司全球第1000家IMAX®影院[74]</p></td>
 <td><p>北京万达影城<br />
 （房山首创奥莱店）</p></td>
 <td><p>新一代IMAX激光</p></td>
-<td><p>2019年5月1日[76]</p></td>
+<td><p>2019年5月1日[78]</p></td>
 <td><p>22.85</p></td>
 <td><p>11.76</p></td>
 <td><p>268.716</p></td>
@@ -6678,6 +7342,17 @@ IMAX公司全球第1000家IMAX®影院[74]</p></td>
 <td><p>12聲道音響系統</p></td>
 </tr>
 <tr class="even">
+<td><p>北京英皇电影城(英皇中心店)</p></td>
+<td><p>新一代IMAX激光</p></td>
+<td><p>2018年4月29日<br />
+预计2019年6月28日</p></td>
+<td><p>22.19</p></td>
+<td><p>11.76</p></td>
+<td><p>260.9544</p></td>
+<td><p>354</p></td>
+<td><p>12聲道音響系統</p></td>
+</tr>
+<tr class="odd">
 <td><p>汕尾万象影城<br />
 （深汕合作区店）</p></td>
 <td><p>新一代IMAX激光</p></td>
@@ -6688,7 +7363,7 @@ IMAX公司全球第1000家IMAX®影院[74]</p></td>
 <td></td>
 <td><p>5.1聲道音響系統</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>包头万达影城<br />
 （青山万达广场店）</p></td>
 <td><p>新一代IMAX激光</p></td>
@@ -6700,7 +7375,7 @@ IMAX公司全球第1000家IMAX®影院[74]</p></td>
 <td><p>314</p></td>
 <td><p>12聲道音響系統</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>绵阳万达影城<br />
 （涪城万达广场店）</p></td>
 <td><p>新一代IMAX激光</p></td>
@@ -6712,7 +7387,7 @@ IMAX公司全球第1000家IMAX®影院[74]</p></td>
 <td><p>347</p></td>
 <td><p>12聲道音響系統</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>宁波万达影城<br />
 （鄞州万达广场店）</p></td>
 <td><p>新一代IMAX激光</p></td>
@@ -6724,7 +7399,7 @@ IMAX公司全球第1000家IMAX®影院[74]</p></td>
 <td><p>336</p></td>
 <td><p>12聲道音響系統</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>济南万象影城<br />
 （万象城IMAX店）</p></td>
 <td><p>新一代IMAX激光</p></td>
@@ -6735,7 +7410,7 @@ IMAX公司全球第1000家IMAX®影院[74]</p></td>
 <td></td>
 <td><p>5.1聲道音響系統</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>哈尔滨万象影城<br />
 （万象汇店）</p></td>
 <td><p>新一代IMAX激光</p></td>
@@ -6746,7 +7421,7 @@ IMAX公司全球第1000家IMAX®影院[74]</p></td>
 <td></td>
 <td><p>5.1聲道音響系統</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>重庆金逸影城(星光时代店)</p></td>
 <td><p>新一代IMAX激光</p></td>
 <td><p>2012年3月28日<br />
@@ -6757,14 +7432,14 @@ IMAX公司全球第1000家IMAX®影院[74]</p></td>
 <td><p>332</p></td>
 <td><p>5.1聲道音響系統</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>北京万达影城<br />
 （通州万达广场店）</p></td>
 <td><p>新一代IMAX激光</p></td>
 <td><p>2014年11月29日(IMAX数字)<br />
 预计2019年8月</p></td>
 <td><p>22.36<br />
-20.9[77]</p></td>
+20.9[79]</p></td>
 <td><p>11.70<br />
 11.7</p></td>
 <td><p>261.612<br />
@@ -6772,7 +7447,7 @@ IMAX公司全球第1000家IMAX®影院[74]</p></td>
 <td><p>424</p></td>
 <td><p>12聲道音響系統</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>桂林万象影城<br />
 （万象城IMAX店）</p></td>
 <td><p>新一代IMAX激光</p></td>
@@ -6783,7 +7458,7 @@ IMAX公司全球第1000家IMAX®影院[74]</p></td>
 <td></td>
 <td><p>5.1聲道音響系統</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>昆山万象影城<br />
 （万象汇IMAX店）</p></td>
 <td><p>新一代IMAX激光</p></td>
@@ -6794,7 +7469,7 @@ IMAX公司全球第1000家IMAX®影院[74]</p></td>
 <td></td>
 <td><p>5.1聲道音響系統</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>北京万达影城<br />
 （石景山万达广场店）</p></td>
 <td><p>新一代IMAX激光</p></td>
@@ -6806,7 +7481,7 @@ IMAX公司全球第1000家IMAX®影院[74]</p></td>
 <td><p>433</p></td>
 <td><p>12聲道音響系統</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>天津万达影城<br />
 （河东万达广场店）</p></td>
 <td><p>新一代IMAX激光</p></td>
@@ -6819,7 +7494,7 @@ IMAX公司全球第1000家IMAX®影院[74]</p></td>
 <td><p>398</p></td>
 <td><p>12聲道音響系統</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>石家庄万达影城<br />
 （裕华万达广场店）</p></td>
 <td><p>新一代IMAX激光</p></td>
@@ -6832,7 +7507,7 @@ IMAX公司全球第1000家IMAX®影院[74]</p></td>
 <td><p>385</p></td>
 <td><p>12聲道音響系統</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>长沙万达影城<br />
 （解放路悦荟广场店）</p></td>
 <td><p>新一代IMAX激光</p></td>
@@ -6845,7 +7520,7 @@ IMAX公司全球第1000家IMAX®影院[74]</p></td>
 <td><p>12聲道音響系統<br />
 IMAX中國第8家IMAX影院</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>青岛万达影城<br />
 （CBD万达广场店）</p></td>
 <td><p>新一代IMAX激光</p></td>
@@ -6861,7 +7536,7 @@ IMAX中國第8家IMAX影院</p></td>
 <td><p>374</p></td>
 <td><p>12聲道音響系統</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>昆明园博园影城</p></td>
 <td><p>新一代IMAX激光</p></td>
 <td><p>预计2019年</p></td>
@@ -6870,17 +7545,6 @@ IMAX中國第8家IMAX影院</p></td>
 <td></td>
 <td></td>
 <td><p>聲道音響系統</p></td>
-</tr>
-<tr class="even">
-<td><p>北京英皇电影城(英皇中心店)</p></td>
-<td><p>新一代IMAX激光</p></td>
-<td><p>2018年4月29日<br />
-预计2019年12月</p></td>
-<td><p>22.19</p></td>
-<td><p>11.76</p></td>
-<td><p>260.9544</p></td>
-<td><p>354</p></td>
-<td><p>-</p></td>
 </tr>
 <tr class="odd">
 <td><p>北京万达影城<br />
@@ -6914,7 +7578,7 @@ IMAX中國第8家IMAX影院</p></td>
 | ------ | ------ | ----------- | ----- | ----- | ------ | ---- | -------------------------------------------------------------------- |
 | 北京奥体中心 | IMAX数字 | 2014年12月15日 | 26    | 14.5  | 377    | 2828 | 《[一步之遥](../Page/一步之遥.md "wikilink")》全球首映礼专用，已经拆除                     |
 | 上海大剧院  | IMAX数字 | 2015年12月27日 | 17.75 | 9.88  | 175.37 | 1000 | 《[STAR WARS：原力覺醒](../Page/STAR_WARS：原力覺醒.md "wikilink")》中国首映礼专用，已经拆除 |
-| 國家游泳中心 | IMAX数字 | 2016年12月21日 | 26    | 11.51 | 299.26 | 610  | 《[星際大戰外傳：俠盜一號](../Page/星際大戰外傳：俠盜一號.md "wikilink")》中国首映礼专用，已经拆除\[78\] |
+| 國家游泳中心 | IMAX数字 | 2016年12月21日 | 26    | 11.51 | 299.26 | 610  | 《[星際大戰外傳：俠盜一號](../Page/星際大戰外傳：俠盜一號.md "wikilink")》中国首映礼专用，已经拆除\[80\] |
 |        |        |             |       |       |        |      |                                                                      |
 
 ### 已關閉IMAX影院
@@ -6947,11 +7611,11 @@ IMAX中國第8家IMAX影院</p></td>
 <td><p><a href="../Page/國立海洋科技博物館.md" title="wikilink">國立海洋科技博物館</a></p></td>
 <td><p>IMAX GT</p></td>
 <td><p>2013年1月31日</p></td>
-<td><p>28.4[79]</p></td>
+<td><p>28.4[81]</p></td>
 <td><p>22</p></td>
 <td><p>624.8</p></td>
 <td><p>位於基隆市中正區北寧路369巷61號<br />
-為全台最大的IMAX銀幕[80][81]。</p></td>
+為全台最大的IMAX銀幕[82][83]。</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -6968,6 +7632,21 @@ IMAX中國第8家IMAX影院</p></td>
 ### 商業影院
 
 #### IMAX數位影院
+
+| 影城名称                                                              | 放映系统   | 開幕時間        | 寬度         | 高度   | 面積     | 座位数       | 備注                                    |
+| ----------------------------------------------------------------- | ------ | ----------- | ---------- | ---- | ------ | --------- | ------------------------------------- |
+| [台北日新威秀影城](../Page/威秀影城.md "wikilink")                            | IMAX數位 | 2009年4月3日   | 21.1\[84\] | 11.3 | 238.43 | 509\[85\] | 一般影廳改建之數位IMAX影廳，故其設計後方區塊座位包覆感較低。      |
+| [高雄大遠百威秀影城](../Page/威秀影城.md "wikilink")                           | IMAX數位 | 2010年4月29日  | 15.9\[86\] | 8.2  | 130.38 | 279\[87\] | 一般影廳改建之數位IMAX影廳，此數位IMAX影廳銀幕為台灣最小。     |
+| [台中老虎城威秀影城](../Page/威秀影城.md "wikilink")                           | IMAX數位 | 2011年11月25日 | 15.4\[88\] | 8.6  | 132.44 | 307\[89\] | 一般影廳改建之數位IMAX影廳。                      |
+| [台中大遠百威秀影城](../Page/威秀影城.md "wikilink")                           | IMAX數位 | 2011年12月30日 | 18.3\[90\] | 9.4  | 172.02 | 391\[91\] | 於影城架構時期即設計為數位IMAX影廳。                  |
+| 新北[板橋大遠百威秀影城](../Page/威秀影城.md "wikilink")                         | IMAX數位 | 2012年1月5日   | 21.3\[92\] | 11.5 | 245    | 404\[93\] | 於影城架構時期即設計為數位IMAX影廳(可播放IMAX HFR)。     |
+| [新竹巨城威秀影城](../Page/威秀影城.md "wikilink")                            | IMAX數位 | 2012年4月28日  | 17.8\[94\] | 9.7  | 172.66 | 260\[95\] | 一般影廳改建之數位IMAX影廳。                      |
+| [台南南紡威秀影城](../Page/威秀影城.md "wikilink")                            | IMAX數位 | 2015年1月28日  | 21.8\[96\] | 12.2 | 265.96 | 390\[97\] | 於影城架構時期即設計為數位IMAX影廳，此數位IMAX影廳銀幕為台灣最大。 |
+| [桃園美麗新台茂影城](../Page/美麗新影城.md "wikilink")                          | IMAX數位 | 2016年12月29日 | 17.8\[98\] | 9.8  | 174.44 | 329\[99\] | 一般影廳改建之數位IMAX影廳。                      |
+| [嘉義In89豪華影城](https://zh.wikipedia.org/wiki/In89豪華數位影院 "wikilink") | IMAX數位 |             |            |      |        |           | 興建中。                                  |
+|                                                                   |        |             |            |      |        |           |                                       |
+
+#### IMAX雷射影院
 
 <table>
 <thead>
@@ -6987,11 +7666,11 @@ IMAX中國第8家IMAX影院</p></td>
 <td><p>台北<a href="https://zh.wikipedia.org/wiki/美麗華大直影城" title="wikilink">美麗華大直影城</a></p></td>
 <td><p>IMAX雷射</p></td>
 <td><p>2004年11月19日</p></td>
-<td><p>28.4[82]</p></td>
+<td><p>28.4[100]</p></td>
 <td><p>21.2</p></td>
 <td><p>602.08</p></td>
-<td><p>2D：404[83]<br />
-3D：362[84]</p></td>
+<td><p>2D：404[101]<br />
+3D：362[102]</p></td>
 <td><p>於影城架構時期即設計為IMAX影廳<br />
 於2013年11月安装IMAX数位放映系统并正式开启IMAX与IMAX数位同时放映时代<br />
 於2016年2月15日同时停止IMAX与IMAX數位放映，新安装IMAX雷射數位放映系統<br />
@@ -7001,96 +7680,6 @@ IMAX中國第8家IMAX影院</p></td>
 2018年8月8日正式重新开幕</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/威秀影城.md" title="wikilink">台北日新威秀影城</a></p></td>
-<td><p>IMAX數位</p></td>
-<td><p>2009年4月3日</p></td>
-<td><p>21.1[85]</p></td>
-<td><p>11.3</p></td>
-<td><p>238.43</p></td>
-<td><p>509[86]</p></td>
-<td><p>一般影廳改建之數位IMAX影廳，故其設計後方區塊座位包覆感較低。</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/威秀影城.md" title="wikilink">高雄大遠百威秀影城</a></p></td>
-<td><p>IMAX數位</p></td>
-<td><p>2010年4月29日</p></td>
-<td><p>15.9[87]</p></td>
-<td><p>8.2</p></td>
-<td><p>130.38</p></td>
-<td><p>279[88]</p></td>
-<td><p>一般影廳改建之數位IMAX影廳，此數位IMAX影廳銀幕為台灣最小。</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/威秀影城.md" title="wikilink">台中老虎城威秀影城</a></p></td>
-<td><p>IMAX數位</p></td>
-<td><p>2011年11月25日</p></td>
-<td><p>15.4[89]</p></td>
-<td><p>8.6</p></td>
-<td><p>132.44</p></td>
-<td><p>307[90]</p></td>
-<td><p>一般影廳改建之數位IMAX影廳。</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/威秀影城.md" title="wikilink">台中大遠百威秀影城</a></p></td>
-<td><p>IMAX數位</p></td>
-<td><p>2011年12月30日</p></td>
-<td><p>18.3[91]</p></td>
-<td><p>9.4</p></td>
-<td><p>172.02</p></td>
-<td><p>391[92]</p></td>
-<td><p>於影城架構時期即設計為數位IMAX影廳。</p></td>
-</tr>
-<tr class="even">
-<td><p>新北<a href="../Page/威秀影城.md" title="wikilink">板橋大遠百威秀影城</a></p></td>
-<td><p>IMAX數位</p></td>
-<td><p>2012年1月5日</p></td>
-<td><p>21.3[93]</p></td>
-<td><p>11.5</p></td>
-<td><p>245</p></td>
-<td><p>404[94]</p></td>
-<td><p>於影城架構時期即設計為數位IMAX影廳(可播放IMAX HFR)。</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/威秀影城.md" title="wikilink">新竹巨城威秀影城</a></p></td>
-<td><p>IMAX數位</p></td>
-<td><p>2012年4月28日</p></td>
-<td><p>17.8[95]</p></td>
-<td><p>9.7</p></td>
-<td><p>172.66</p></td>
-<td><p>260[96]</p></td>
-<td><p>一般影廳改建之數位IMAX影廳。</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/威秀影城.md" title="wikilink">台南南紡威秀影城</a></p></td>
-<td><p>IMAX數位</p></td>
-<td><p>2015年1月28日</p></td>
-<td><p>21.8[97]</p></td>
-<td><p>12.2</p></td>
-<td><p>265.96</p></td>
-<td><p>390[98]</p></td>
-<td><p>於影城架構時期即設計為數位IMAX影廳，此數位IMAX影廳銀幕為台灣最大。</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/美麗新影城.md" title="wikilink">桃園美麗新台茂影城</a></p></td>
-<td><p>IMAX數位</p></td>
-<td><p>2016年12月29日</p></td>
-<td><p>17.8[99]</p></td>
-<td><p>9.8</p></td>
-<td><p>174.44</p></td>
-<td><p>329[100]</p></td>
-<td><p>一般影廳改建之數位IMAX影廳。</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/In89豪華數位影院" title="wikilink">嘉義In89豪華影城</a></p></td>
-<td><p>IMAX數位</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td><p>興建中。</p></td>
-</tr>
-<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -7129,7 +7718,7 @@ IMAX中國第8家IMAX影院</p></td>
 <td><p>258.86</p></td>
 <td><p>368</p></td>
 <td><p>於影城架構時期即設計為IMAX影廳<br />
-同时也是IMAX科教影院[101]。</p></td>
+同时也是IMAX科教影院[103]。</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -7146,11 +7735,11 @@ IMAX中國第8家IMAX影院</p></td>
 
 ## 的IMAX電影院
 
-#### IMAX数码影院
+#### IMAX數碼影院
 
 | 影城名称                                            | 放映系统   | 開幕時間           | 寬度 | 高度 | 面積 | 座位数 | 備注 |
 | ----------------------------------------------- | ------ | -------------- | -- | -- | -- | --- | -- |
-| 英皇戏院 [葡京人綜合渡假村](../Page/葡京人綜合渡假村.md "wikilink") | IMAX数码 | 预计2020年\[102\] |    |    |    |     |    |
+| 英皇戏院 [葡京人綜合渡假村](../Page/葡京人綜合渡假村.md "wikilink") | IMAX數碼 | 预计2020年\[104\] |    |    |    |     |    |
 |                                                 |        |                |    |    |    |     |    |
 
 ## 備註
@@ -7279,10 +7868,10 @@ IMAX中國第8家IMAX影院</p></td>
 57.
 
 58.
+
 59.
 
 60.
-
 61.
 
 62.
@@ -7296,16 +7885,16 @@ IMAX中國第8家IMAX影院</p></td>
 66.
 
 67.
+
 68.
+
 69.
-
 70.
-
 71.
+
 72.
 
 73.
-
 74.
 
 75.
@@ -7325,31 +7914,35 @@ IMAX中國第8家IMAX影院</p></td>
 82.
 
 83.
+
 84.
+
 85.
-
 86.
+
 87.
-
 88.
+
 89.
-
 90.
+
 91.
-
 92.
+
 93.
-
 94.
+
 95.
-
 96.
+
 97.
-
 98.
+
 99.
-
 100.
-101.
 
+101.
 102.
+103.
+
+104.
