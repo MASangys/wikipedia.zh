@@ -1,5 +1,7 @@
 **iPad Air
-2**，是由美商[蘋果公司設計](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")、開發及銷售的第二代[iPad
+2**（在[2017款iPad推出之前](../Page/IPad_\(第5代\).md "wikilink")，[第一代iPad
+Air有](../Page/IPad_Air.md "wikilink")“**iPad 5**”之俗称，故本代亦有“**iPad
+6**”之俗称）是由美国[蘋果公司設計](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")、開發及銷售的第二代[iPad
 Air](https://zh.wikipedia.org/wiki/iPad_Air "wikilink")[平板電腦](../Page/平板電腦.md "wikilink")。它於2014年10月16日於美国加州旧金山发布，與iPad
 Mini 3同時發布，並於2014年10月22日發布。iPad Air 2比其前身[iPad
 Air更薄更快](https://zh.wikipedia.org/wiki/iPad_Air "wikilink")，並具有[Touch

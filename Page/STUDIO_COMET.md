@@ -422,7 +422,7 @@ Work的工作由SUBARU
 <td><p>{{lang|ja|臨死</p></td>
 </tr>
 <tr class="odd">
-<td></td>
+<td><p><a href="../Page/RobiHachi.md" title="wikilink">RobiHachi</a></p></td>
 <td><p>原創</p></td>
 <td></td>
 <td></td>
@@ -1473,7 +1473,7 @@ Work的工作由SUBARU
   - [江夏由結](../Page/江夏由結.md "wikilink")
   - [岩浪美和](../Page/岩浪美和.md "wikilink")
 
-## 來源
+## 參考來源
 
 ## 相關項目
 

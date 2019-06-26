@@ -494,7 +494,7 @@
 <tr class="odd">
 <td style="text-align: center;"><p>2019年5月31日-<br />
 2019年6月29日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/輔佐官–改變世界的人們" title="wikilink">輔佐官–改變世界的人們</a><br />
+<td style="text-align: center;"><p><a href="../Page/輔佐官–改變世界的人們.md" title="wikilink">輔佐官–改變世界的人們</a><br />
 </p></td>
 <td style="text-align: center;"><p>10</p></td>
 <td style="text-align: center;"><p><a href="../Page/李政宰.md" title="wikilink">李政宰</a>、<a href="../Page/新慜娥.md" title="wikilink">新慜娥</a>、<a href="../Page/金桐俊.md" title="wikilink">金桐俊</a>、<a href="../Page/李伊利雅.md" title="wikilink">李伊利雅</a></p></td>

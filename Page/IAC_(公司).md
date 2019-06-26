@@ -15,9 +15,9 @@ Inc.）。\[7\]\[8\]
 2000年代早期開始轉向發展互聯網產業，2002年5月改名“USA
 Interactive”、2003年6月改名“InterActiveCorp”、2004年7月改現名“IAC/InterActiveCorp”。\[9\]
 
-2017年5月14日IAC (公司)以約5億美元的價格收購消費者點評網站 Angie's
-List.收購後，公司會把旗下的點評網站HomeAdvisor與Angie’s
-List合併，並成立新公司ANGI Homeservices Inc.
+2017年5月14日IAC以約5億美元的價格收購消費者點評網站 Angie's
+List，並把旗下的點評網站HomeAdvisor與Angie’s
+List合併，成立新公司ANGI Homeservices Inc.
 
 ## 產業
 

@@ -136,7 +136,7 @@ WILL》「是他們第一個『孩子』」，是他們首次只收錄自創歌�
 <td><p>2015年3月23日</p></td>
 <td><p><a href="../Page/CD.md" title="wikilink">CD</a>、<a href="../Page/數位音樂下載.md" title="wikilink">數位下載</a></p></td>
 <td><p><a href="../Page/FNC娛樂.md" title="wikilink">FNC娛樂</a><br />
-</p></td>
+<a href="../Page/CJ_E&amp;M.md" title="wikilink">CJ E&amp;M</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2015年4月5日</p></td>

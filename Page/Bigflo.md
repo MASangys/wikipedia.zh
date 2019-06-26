@@ -245,6 +245,30 @@ Unit](../Page/The_Unit.md "wikilink")》最後一集直播舞台，Euijin獲得�
 </tbody>
 </table>
 
+### EUIJIN 韓文迷你專輯
+
+<table>
+<thead>
+<tr class="header">
+<th><p>專輯 #</p></th>
+<th><p>單曲資料</p></th>
+<th><p>曲目</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><strong>1st</strong></p></td>
+<td><p>EUIJIN 1st MINI ALBUM 《<strong>e: motion</strong>》</p>
+<ul>
+<li>發行日期：2019年6月26日</li>
+<li>語言：韓語</li>
+<li>備註：</li>
+</ul></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ### Z-UK X HIGHTOP 特別單曲
 
 <table>

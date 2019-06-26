@@ -1,5 +1,5 @@
 **San
-Francisco**（常简称为SF字体）是由[苹果公司设计](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")、制作，作为其推出[苹果手表的系统字体](https://zh.wikipedia.org/wiki/苹果手表 "wikilink")\[1\]。这是一种比较简练的[新无衬线字体](https://zh.wikipedia.org/wiki/新无衬线字体 "wikilink")，可自适应间距和行高\[2\]。有设计师形容这种字体是类似于简洁版的[Helvetica或者](../Page/Helvetica.md "wikilink")[DIN](https://zh.wikipedia.org/wiki/DIN_1451 "wikilink")。其也是苹果公司在近20年来设计的第一款新字体\[3\]。
+Francisco**（常简称为SF字体）是由[苹果公司设计](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")、制作，作为其推出[苹果手表的系统字体](https://zh.wikipedia.org/wiki/苹果手表 "wikilink")\[1\]。这是一种比较简练的[新无衬线字体](https://zh.wikipedia.org/wiki/新无衬线字体 "wikilink")，可自适应间距和行高\[2\]。有设计师形容这种字体是类似于简洁版的[Helvetica或者](../Page/Helvetica.md "wikilink")[DIN](../Page/DIN_1451.md "wikilink")。其也是苹果公司在近20年来设计的第一款新字体\[3\]。
 
 在[WWDC](https://zh.wikipedia.org/wiki/WWDC "wikilink") 2015，蘋果公司宣布San
 Francisco將成為[OS X 10.11 El

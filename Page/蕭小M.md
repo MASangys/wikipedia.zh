@@ -16,7 +16,6 @@
 
   -
 [Category:蕭姓](https://zh.wikipedia.org/wiki/Category:蕭姓 "wikilink")
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
 [Category:台灣電玩家](https://zh.wikipedia.org/wiki/Category:台灣電玩家 "wikilink")
 [Category:台灣主持人](https://zh.wikipedia.org/wiki/Category:台灣主持人 "wikilink")
 [Category:臺灣YouTuber](https://zh.wikipedia.org/wiki/Category:臺灣YouTuber "wikilink")

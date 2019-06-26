@@ -15,7 +15,7 @@ vie」（アトレヴィ）於秋葉原開幕。
 
 2015年4月1日，JR東日本的宇都宮車站開發株式會社與高崎總站大樓株式會社、水戶車站開發株式會社成為子公司。
 
-2019年1月10日，於[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[台北開設第一間海外分店](https://zh.wikipedia.org/wiki/台北 "wikilink")\[1\]\[2\]。
+2019年1月10日，於[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[台北市](https://zh.wikipedia.org/wiki/台北市 "wikilink")[信義區](https://zh.wikipedia.org/wiki/信義區 "wikilink")[微風南山開設第一間海外分店](https://zh.wikipedia.org/wiki/微風南山 "wikilink")\[1\]\[2\]。
 
 「atre」源自於[法文中的](https://zh.wikipedia.org/wiki/法文 "wikilink")「attrait」，意為「魅力」。
 

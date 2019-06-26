@@ -19,7 +19,7 @@ Eye”的人进行着各种暴力犯罪事件，这些人称自己叫“歌舞�
   - 亜仁丸：[高山猛久](https://zh.wikipedia.org/wiki/高山猛久 "wikilink")
   - 蘭丸：[設楽統](https://zh.wikipedia.org/wiki/設楽統 "wikilink")（[バナナマン](https://zh.wikipedia.org/wiki/バナナマン "wikilink")）
   - 京介：[大橋智和](https://zh.wikipedia.org/wiki/大橋智和 "wikilink")
-  - ハルナとハルカ：[箕輪はるか](https://zh.wikipedia.org/wiki/箕輪はるか "wikilink")、[近藤春菜](https://zh.wikipedia.org/wiki/近藤春菜 "wikilink")（[ハリセンボン](https://zh.wikipedia.org/wiki/ハリセンボン_\(お笑いコンビ\) "wikilink")）
+  - ハルナとハルカ：[箕輪はるか](https://zh.wikipedia.org/wiki/箕輪はるか "wikilink")、[近藤春菜](../Page/近藤春菜.md "wikilink")（[ハリセンボン](https://zh.wikipedia.org/wiki/ハリセンボン_\(お笑いコンビ\) "wikilink")）
   - オザキ：[山岸拓生](https://zh.wikipedia.org/wiki/山岸拓生 "wikilink")
   - 「Drëamin'」のホスト：[永田彬](https://zh.wikipedia.org/wiki/永田彬 "wikilink")（RUN\&GUN）
   - 「Drëamin'」のホスト：[青柳尊哉](https://zh.wikipedia.org/wiki/青柳尊哉 "wikilink")

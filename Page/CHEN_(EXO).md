@@ -19,16 +19,22 @@ Breath》中與[張力尹共同演唱](https://zh.wikipedia.org/wiki/張力尹 "
 Day Without You）》和與[Krystal共同演唱](../Page/鄭秀晶.md "wikilink")《回想（When I
 Was...When U
 Were）》\[1\]。7月，Chen為電視劇《[沒關係，是愛情啊！](../Page/沒關係，是愛情啊.md "wikilink")》演唱OST《最佳的幸運（Best
-Luck）》\[2\]。
+Luck）》\[2\]。《Best Luck》於第16屆首爾國際青少年電影節和So-Loved
+Awards中分別獲得男子OST賞和最佳OST獎。
 
 ### 2015年-現今：音樂劇演出、EXO-CBX、Solo出道
 
 2015年9月，Chen與[聖圭](../Page/金聖圭.md "wikilink")、[東雨](../Page/張東雨.md "wikilink")（[INFINITE](../Page/INFINITE.md "wikilink")）、[Key](https://zh.wikipedia.org/wiki/Key_\(歌手\) "wikilink")（[SHINee](../Page/SHINee.md "wikilink")）和[Luna](../Page/朴善英.md "wikilink")（[f(x)](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")）一同出演音樂劇《In
 The Heights》。Chen在音樂劇中飾演主角Benny\[3\]。
 
-2019年3月8日，SM娛樂證實Chen即將于4月推出Solo專輯，成爲EXO裏繼[Lay后的另一個Solo成員](https://zh.wikipedia.org/wiki/Lay "wikilink")。\[4\]
+2016年2月，Chen為電視劇《[太陽的後裔](../Page/太陽的後裔.md "wikilink")》演唱OST《Everytime》\[4\]。4月，Chen與[Heize合唱由柳宰賢擔任製作人的](https://zh.wikipedia.org/wiki/Heize "wikilink")《Lil'
+Something》。《Lil' Something》是[SM
+STATION企劃中的第九首歌曲](../Page/SM_STATION.md "wikilink")，歌曲自公開後人氣火爆，橫掃Melon、Box、alleh
+Music、Genie、Mnet五大音樂榜榜首，還在Naver Music、音海、Monkey3等榜當中榮獲第二、三名\[5\]。
 
-2019年4月1日，Chen推出首張Solo專輯《April, and a flower》，MV於4月1日零時公開，所有音源於當天下午六時發行。
+2019年3月8日，SM娛樂證實Chen即將于4月推出Solo專輯，成爲EXO裏繼[Lay后的另一個Solo成員](https://zh.wikipedia.org/wiki/Lay "wikilink")。\[6\]。4月1日，Chen推出首張Solo專輯《April,
+and a
+flower》，MV於4月1日零時公開，所有音源於當天下午六時發行。6月，Chen為JTBC劇集《[輔佐官–改變世界的人們](../Page/輔佐官–改變世界的人們.md "wikilink")》演唱OST《Rainfall》\[7\]。
 
 ## 音樂作品
 
@@ -47,7 +53,7 @@ The Heights》。Chen在音樂劇中飾演主角Benny\[3\]。
 <ul>
 <li>發行日期：2019年4月1日</li>
 <li>語言：韓語</li>
-<li>專輯銷量:210,189+[5]</li>
+<li>專輯銷量:210,189+[8]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -132,7 +138,7 @@ The Heights》。Chen在音樂劇中飾演主角Benny\[3\]。
 </tr>
 <tr class="odd">
 <td><p>2018年10月16日</p></td>
-<td><p>《<a href="../Page/百日的郎君.md" title="wikilink">百日的郎君</a>》[6]</p></td>
+<td><p>《<a href="../Page/百日的郎君.md" title="wikilink">百日的郎君</a>》[9]</p></td>
 <td><p>櫻花戀歌（Cherry Blossom Love Song）</p></td>
 <td></td>
 </tr>
@@ -140,6 +146,12 @@ The Heights》。Chen在音樂劇中飾演主角Benny\[3\]。
 <td><p>2019年2月7日</p></td>
 <td><p>《<a href="../Page/觸及真心.md" title="wikilink">觸及真心</a>》</p></td>
 <td><p>把握光陰（Make It Count）</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年6月14日</p></td>
+<td><p>《<a href="../Page/輔佐官–改變世界的人們.md" title="wikilink">輔佐官–改變世界的人們</a>》</p></td>
+<td><p>Rainfall</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -171,10 +183,10 @@ The Heights》。Chen在音樂劇中飾演主角Benny\[3\]。
 
 ### 固定綜藝
 
-|                     |      |            |                                         |
-| ------------------- | ---- | ---------- | --------------------------------------- |
-| 日期                  | 頻道   | 節目名稱       | 備注                                      |
-| 2016年5月2日-2016年5月6日 | 網絡綜藝 | 《沒有經紀人的旅行》 | 與[Xiumin](../Page/Xiumin.md "wikilink") |
+|                     |      |                                                                 |                                         |
+| ------------------- | ---- | --------------------------------------------------------------- | --------------------------------------- |
+| 日期                  | 頻道   | 節目名稱                                                            | 備注                                      |
+| 2016年5月2日-2016年5月6日 | 網絡綜藝 | 《[沒有經紀人的旅行](https://zh.wikipedia.org/wiki/沒有經紀人的旅行 "wikilink")》 | 與[Xiumin](../Page/Xiumin.md "wikilink") |
 
 ### 綜藝節目
 
@@ -419,12 +431,19 @@ The Heights》。Chen在音樂劇中飾演主角Benny\[3\]。
 <td><p>4月10日</p></td>
 <td><p>MBC</p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/黃金漁場_Radio_Star" title="wikilink">黃金漁場 Radio Star</a>》</p></td>
-<td><p>[7]</p></td>
+<td><p>[10]</p></td>
 </tr>
 <tr class="odd">
 <td><p>4月13日</p></td>
 <td><p>tvN</p></td>
 <td><p>《<a href="../Page/驚人的星期六.md" title="wikilink">驚人的星期六</a>》</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>6月22日</p></td>
+<td><p>JTBC</p></td>
+<td><p>《RUN.wav》</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -468,23 +487,25 @@ The Heights》。Chen在音樂劇中飾演主角Benny\[3\]。
 
 ### 寫真雜誌
 
-|           |         |                                                                                                                |
-| --------- | ------- | -------------------------------------------------------------------------------------------------------------- |
-| 期數        | 雜誌名稱    | 備注                                                                                                             |
-| 2014年9月刊  | Nylon   |                                                                                                                |
-| 2015年8月刊  | star1   | 與[Baekhyun](../Page/伯賢.md "wikilink")、Suho\[8\]                                                                |
-| 2015年12月刊 | Vogue   | 與[Suho](../Page/Suho.md "wikilink")、[Kai](../Page/Kai.md "wikilink")、[Sehun](../Page/Sehun.md "wikilink")\[9\] |
-| 2016年10月刊 | Vivi    | 日本雜誌\[10\]                                                                                                     |
-| 2017年3月刊  | Singles | 封面\[11\]                                                                                                       |
+|           |         |                                                                                                                 |
+| --------- | ------- | --------------------------------------------------------------------------------------------------------------- |
+| 期數        | 雜誌名稱    | 備注                                                                                                              |
+| 2014年9月刊  | Nylon   |                                                                                                                 |
+| 2015年8月刊  | star1   | 與[Baekhyun](../Page/伯賢.md "wikilink")、Suho\[11\]                                                                |
+| 2015年12月刊 | Vogue   | 與[Suho](../Page/Suho.md "wikilink")、[Kai](../Page/Kai.md "wikilink")、[Sehun](../Page/Sehun.md "wikilink")\[12\] |
+| 2016年10月刊 | Vivi    | 日本雜誌\[13\]                                                                                                      |
+| 2017年3月刊  | Singles | 封面\[14\]                                                                                                        |
+| 2019年6月刊  | Star1   | 封面                                                                                                              |
 
 ## 其他演出
 
 ### 個人參加的演唱會
 
-|           |               |            |
-| --------- | ------------- | ---------- |
-| 日期        | 演唱會名稱         | 舉行地點       |
-| 2015年9月4日 | 2015 Grand韓流節 | 首爾奧林匹克主競技場 |
+|            |                   |              |
+| ---------- | ----------------- | ------------ |
+| 日期         | 演唱會名稱             | 舉行地點         |
+| 2015年9月4日  | 2015 Grand韓流節     | 首爾奧林匹克主競技場   |
+| 2019年6月30日 | SM THE STATION演唱會 | Olympic Hall |
 
 ### 電台主持
 
@@ -550,7 +571,7 @@ The Heights》。Chen在音樂劇中飾演主角Benny\[3\]。
 <td><p>Annual Soompi Awards</p></td>
 <td><p>最佳OST</p></td>
 <td><p>《For You》</p></td>
-<td><p>[12]</p></td>
+<td><p>[15]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -581,7 +602,7 @@ The Heights》。Chen在音樂劇中飾演主角Benny\[3\]。
 <tr class="even">
 <td><p>2016</p></td>
 <td><ul>
-<li>K-Pop一百張最帥面孔 第63名[13]</li>
+<li>K-Pop一百張最帥面孔 第63名[16]</li>
 </ul></td>
 </tr>
 </tbody>
@@ -699,15 +720,32 @@ The Heights》。Chen在音樂劇中飾演主角Benny\[3\]。
 [Category:金姓](https://zh.wikipedia.org/wiki/Category:金姓 "wikilink")
 
 1.
+
 2.
+
 3.
+
 4.
-5.  [2019.04](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=04&hitYear=2019&termGbn=month)
+5.
+
 6.
+
 7.
-8.
+
+8.  [2019.04](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=04&hitYear=2019&termGbn=month)
+
 9.
+
 10.
+
 11.
+
 12.
+
 13.
+
+14.
+
+15.
+
+16.

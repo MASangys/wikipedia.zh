@@ -11,7 +11,7 @@
   - 最佳女主角獎：[松下由樹](../Page/松下由樹.md "wikilink")（[大奥〜第一章〜](https://zh.wikipedia.org/wiki/大奧_\(富士電視劇\)#大奧-第一章 "wikilink")）
   - 最佳男配角獎：[山本耕史](../Page/山本耕史.md "wikilink")（[新選組！](../Page/新選組！.md "wikilink")）
   - 最佳女配角獎：[松雪泰子](../Page/松雪泰子.md "wikilink")（砂之器）
-  - 特別獎：（）
+  - 特別獎：[美山加戀](../Page/美山加戀.md "wikilink")（）
 
 <!-- end list -->
 
@@ -138,7 +138,8 @@
   - 最佳男配角獎：[齋藤工](../Page/齋藤工.md "wikilink")（[Miss
     PILOT](../Page/Miss_PILOT.md "wikilink")）
   - 最佳女配角獎：[上戶彩](../Page/上戶彩.md "wikilink")（[半澤直樹](../Page/半澤直樹.md "wikilink")）
-  - 新進男演員獎：（[Miss PILOT](../Page/Miss_PILOT.md "wikilink")）
+  - 新進男演員獎：[藤井流星](../Page/藤井流星.md "wikilink")（[Miss
+    PILOT](../Page/Miss_PILOT.md "wikilink")）
   - 新進女演員獎：[黑木華](../Page/黑木華.md "wikilink")（[王牌大律師](https://zh.wikipedia.org/wiki/王牌大律師 "wikilink")2）
 
 <!-- end list -->

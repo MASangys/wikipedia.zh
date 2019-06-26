@@ -1,5 +1,5 @@
 《**殘響Reference**》是日本搖滾樂團[ONE OK
-ROCK於](https://zh.wikipedia.org/wiki/ONE_OK_ROCK "wikilink")2011年10月5日發行的第五張音樂專輯。\[1\]
+ROCK於](../Page/ONE_OK_ROCK.md "wikilink")2011年10月5日發行的第五張音樂專輯。\[1\]
 
 ## 曲目列表
 

@@ -77,7 +77,7 @@
 <tr class="even">
 <td><p>2月23日</p></td>
 <td><p><a href="../Page/35xxxv.md" title="wikilink">35xxxv</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/ONE_OK_ROCK" title="wikilink">ONE OK ROCK</a></p></td>
+<td><p><a href="../Page/ONE_OK_ROCK.md" title="wikilink">ONE OK ROCK</a></p></td>
 <td><p>原創</p></td>
 <td><p>16.5</p></td>
 <td><p>1</p></td>

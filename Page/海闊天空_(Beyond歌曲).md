@@ -1,7 +1,7 @@
 {{ external media | float = right | width = 300px | video1 =
 [BEYOND【海闊天空】Official Music
 Video](https://www.youtube.com/watch?v=qu_FSptjRic) 滾石唱片 }}
-《**海闊天空**》是[香港殿堂級搖滾樂隊](../Page/香港.md "wikilink")[Beyond的著名歌曲之一](../Page/Beyond.md "wikilink")，於1993年創作，收錄於《[樂與怒](../Page/樂與怒.md "wikilink")》大碟，作曲、作詞及主音均為樂隊靈魂人物[黃家駒](../Page/黃家駒.md "wikilink")。此曲至今仍然在香港及華人地區保持極高知名度，與[Amani及](../Page/Amani.md "wikilink")[光輝歲月等具有國際視野及人文關懷的歌曲不同](https://zh.wikipedia.org/wiki/光輝歲月 "wikilink")，此曲是具本土情懷及勵志的歌曲。
+《**海闊天空**》是[香港殿堂級搖滾樂隊](../Page/香港.md "wikilink")[Beyond的著名歌曲之一](../Page/Beyond.md "wikilink")，於1993年創作，收錄於《[樂與怒](../Page/樂與怒.md "wikilink")》大碟，作曲、作詞及主音均為樂隊靈魂人物[黃家駒](../Page/黃家駒.md "wikilink")。此曲至今仍然在香港及華人地區保持極高知名度，與《[Amani](../Page/Amani.md "wikilink")》及《[光輝歲月](https://zh.wikipedia.org/wiki/光輝歲月 "wikilink")》等具有國際視野及人文關懷的歌曲不同，此曲是具本土情懷及勵志的歌曲。
 
 此曲以追求音樂夢想為主題，也滲入了Beyond成立10年的感情，同時亦錄製了日文版的日本[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")《[遙かなる夢に～Far
 away～](https://zh.wikipedia.org/wiki/遙かなる夢に～Far_away～ "wikilink")》。《海闊天空》是[香港電台電視節目](../Page/香港電台.md "wikilink")《驕陽歲月》的主題曲。可惜黃家駒在完成此曲後不足2個月，在該年6月30日便於日本意外死亡，此曲亦成為他的絕響。
@@ -24,9 +24,11 @@ no」，沒料到黃家駒竟然在編完此曲後不足2個月，真的意外�
 [Cellphones_in_Hong_Kong_during_2014_Hong_Kong_protests.jpg](https://zh.wikipedia.org/wiki/File:Cellphones_in_Hong_Kong_during_2014_Hong_Kong_protests.jpg "fig:Cellphones_in_Hong_Kong_during_2014_Hong_Kong_protests.jpg")期間，群眾揮動手機唱《海闊天空》的情景。\]\]
 完成《海闊天空》後不足2個月，黃家駒便在日本因錄製綜藝娛樂節目而發生意外跌死，客死異鄉，令此曲除了是《樂與怒》主打歌，更同時成為Beyond最後一首由黃家駒擔任主音並錄製的派台作品。由於《海闊天空》變成黃家駒的絕響，此曲隨即轟動全港，成為Beyond代表作之一。
 
-15年後，在2008年5月，四川發生8級[汶川大地震](../Page/汶川大地震.md "wikilink")，造成毀滅性破壞及災難性傷亡。此曲被[劉德華填上新的國語歌詞](../Page/劉德華.md "wikilink")，改編為《承諾》，並於「[演藝界512關愛行動](../Page/演藝界512關愛行動.md "wikilink")」由[兩岸三地群星演唱](../Page/兩岸三地.md "wikilink")，作為籌款賑災的主題曲之用。
+15年後，在2008年5月，四川發生8級[汶川大地震](../Page/汶川大地震.md "wikilink")，造成毀滅性破壞及災難性傷亡。[香港演藝人協會選用](https://zh.wikipedia.org/wiki/香港演藝人協會 "wikilink")《[海闊天空](../Page/海闊天空_\(Beyond歌曲\).md "wikilink")》作為了中國版的《[We
+Are the
+World](../Page/天下一家.md "wikilink")》，[劉德華為這首歌譜寫了國語版](../Page/劉德華.md "wikilink")，取名《[承諾](https://zh.wikipedia.org/wiki/承諾 "wikilink")》，並於「[演藝界512關愛行動](../Page/演藝界512關愛行動.md "wikilink")」由[兩岸三地群星演唱](../Page/兩岸三地.md "wikilink")，作為籌款賑災的主題曲之用。
 
-踏入2010年代，《海闊天空》與其他Beyond代表作（例如《真的愛你》、《[Amani](../Page/Amani.md "wikilink")》、《光輝歲月》、《不再猶豫》、《喜歡妳》、《大地》、《[長城](../Page/長城_\(Beyond\).md "wikilink")》）仍然家傳戶曉，而此曲更經常在香港大型示威活動中播放，或由示威者高唱。[七一大遊行及](../Page/七一大遊行.md "wikilink")「[和平佔中](../Page/讓愛與和平佔領中環.md "wikilink")」（連同及後演變成的「[雨傘運動](https://zh.wikipedia.org/wiki/雨傘運動 "wikilink")」）均恆常播放此曲\[2\]\[3\]\[4\]\[5\]\[6\]\[7\]在[2010年廣州撐粵語行動](../Page/2010年廣州撐粵語行動.md "wikilink")、[2014年澳門反離補大遊行和](https://zh.wikipedia.org/wiki/2014年澳門反離補大遊行 "wikilink")2015年[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[净选盟4.0集会期間](../Page/净选盟4.0集会.md "wikilink")，示威者亦有歌唱此曲，但這歌曲逐漸有濫用之嫌。2015年10月3日晚上8時，各樂手即興合奏，以[風笛](https://zh.wikipedia.org/wiki/風笛 "wikilink")、[手風琴](https://zh.wikipedia.org/wiki/手風琴 "wikilink")、[結他及](https://zh.wikipedia.org/wiki/結他 "wikilink")[二胡等中西樂器大合奏合唱](../Page/二胡.md "wikilink")《海闊天空》，不滿[港鐵對水貨客寬容](../Page/港鐵.md "wikilink")，卻嚴禁乘客攜帶大型樂器上車\[8\]。
+踏入2010年代，《海闊天空》與其他Beyond代表作（例如《真的愛你》、《[Amani](../Page/Amani.md "wikilink")》、《光輝歲月》、《不再猶豫》、《喜歡妳》、《大地》、《[長城](../Page/長城_\(Beyond\).md "wikilink")》）仍然家傳戶曉，而此曲更經常在香港大型示威活動中播放，或由示威者高唱。[七一大遊行及](../Page/七一大遊行.md "wikilink")「[和平佔中](../Page/讓愛與和平佔領中環.md "wikilink")」（連同及後演變成的「[雨傘運動](https://zh.wikipedia.org/wiki/雨傘運動 "wikilink")」）均恆常播放此曲\[2\]\[3\]\[4\]\[5\]\[6\]\[7\]在[2010年廣州撐粵語行動](../Page/2010年廣州撐粵語行動.md "wikilink")、[2014年澳門反離補大遊行和](https://zh.wikipedia.org/wiki/2014年澳門反離補大遊行 "wikilink")2015年[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[净选盟4.0集会期間](../Page/净选盟4.0集会.md "wikilink")，示威者亦有歌唱此曲。2015年10月3日晚上8時，各樂手即興合奏，以[風笛](https://zh.wikipedia.org/wiki/風笛 "wikilink")、[手風琴](https://zh.wikipedia.org/wiki/手風琴 "wikilink")、[結他及](https://zh.wikipedia.org/wiki/結他 "wikilink")[二胡等中西樂器大合奏合唱](../Page/二胡.md "wikilink")《海闊天空》，不滿[港鐵對水貨客寬容](../Page/港鐵.md "wikilink")，卻嚴禁乘客攜帶大型樂器上車\[8\]。
 
 ## 排行榜
 

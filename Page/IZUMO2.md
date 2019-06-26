@@ -135,7 +135,7 @@ Software發售](../Page/GN_Software.md "wikilink")[PlayStation
     出雲學園的代課老師，擔任剛的副班級老師。
   - 倉島汀（CV：水野江麻）
     [IZUMO女主角之一倉島渚的女兒和剛的婚約者](../Page/IZUMO.md "wikilink")。
-  - [瓊瓊杵尊](https://zh.wikipedia.org/wiki/瓊瓊杵尊 "wikilink")（ニニギ　CV：[木島宇太](../Page/木島宇太.md "wikilink")）
+  - [瓊瓊杵尊](https://zh.wikipedia.org/wiki/天津彥彥火瓊瓊杵尊 "wikilink")（ニニギ　CV：[木島宇太](../Page/木島宇太.md "wikilink")）
     自稱是佐久夜的婚約者也因此敵視猛。
   - 大斗瑞親（CV：どてら四号）
     剛的養父。

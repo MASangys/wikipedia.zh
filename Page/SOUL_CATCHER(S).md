@@ -120,7 +120,7 @@ NEXT\!\!](https://zh.wikipedia.org/wiki/少年Jump_NEXT!! "wikilink")》，之�
 <tr class="odd">
 <td><p>4</p></td>
 <td></td>
-<td></td>
+<td><p>世界改革之時</p></td>
 <td><p>2014年4月4日</p></td>
 <td><p>ISBN 978-4-08-880045-5</p></td>
 </tr>

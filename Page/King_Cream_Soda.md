@@ -31,7 +31,7 @@ Out/妖怪體操第一》及《Dan Dan Dubi·Zuba》更高。
 <tr class="odd">
 <td><p>Gerappa</p></td>
 <td></td>
-<td><p>饒舌歌手</p></td>
+<td><p>饒舌歌手，歌手</p></td>
 <td><p>通常站於右邊，以戴太陽鏡及羽毛帽為誌。</p></td>
 </tr>
 <tr class="even">

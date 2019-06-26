@@ -16,7 +16,7 @@ U平台發行的日式](../Page/Wii_U.md "wikilink")[動作角色扮演遊戲](.
 
 <!-- end list -->
 
-  - **愛瑪**（Elma，）
+  - **艾爾瑪**（Elma，）
 
 <!-- end list -->
 

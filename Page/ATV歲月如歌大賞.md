@@ -61,7 +61,7 @@
 </tr>
 <tr class="even">
 <td><p>4</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/戲劇人生" title="wikilink">戲劇人生</a><br />
+<td><p><a href="../Page/戲劇人生.md" title="wikilink">戲劇人生</a><br />
 （<a href="../Page/浮生六劫.md" title="wikilink">浮生六劫插曲</a>）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/1980" title="wikilink">1980</a></p></td>
 <td><p><a href="../Page/葉振棠.md" title="wikilink">葉振棠</a></p></td>

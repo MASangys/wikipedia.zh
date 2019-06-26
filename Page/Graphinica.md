@@ -58,11 +58,41 @@
 </tbody>
 </table>
 
-### 劇場版動畫
+#### 電影動畫
 
-[樂園追放 -Expelled from
-Paradise-](../Page/樂園追放_-Expelled_from_Paradise-.md "wikilink")
-[HELLO WORLD](../Page/HELLO_WORLD.md "wikilink")
+<table>
+<thead>
+<tr class="header">
+<th><p>年份</p></th>
+<th><p>中文名稱</p></th>
+<th><p>日文名稱</p></th>
+<th><p>首播日期</p></th>
+<th><p>導演</p></th>
+<th><p>原作類別</p></th>
+<th><p>備註</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2014年</p></td>
+<td><p><a href="../Page/樂園追放_-Expelled_from_Paradise-.md" title="wikilink">樂園追放 -Expelled from Paradise-</a></p></td>
+<td></td>
+<td><p>11月5日</p></td>
+<td><p>[水島精二]]</p></td>
+<td><p>原創</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年</p></td>
+<td><p><a href="../Page/HELLO_WORLD.md" title="wikilink">HELLO WORLD</a></p></td>
+<td></td>
+<td><p>9月20日</p></td>
+<td><p><a href="../Page/伊藤智彥.md" title="wikilink">伊藤智彥</a></p></td>
+<td><p>原創</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 參考文獻與註釋
 

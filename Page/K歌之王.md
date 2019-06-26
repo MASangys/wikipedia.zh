@@ -96,6 +96,7 @@
 [Category:陳奕迅歌曲](https://zh.wikipedia.org/wiki/Category:陳奕迅歌曲 "wikilink")
 [Category:香港歌曲](https://zh.wikipedia.org/wiki/Category:香港歌曲 "wikilink")
 [Category:叱咤樂壇我最喜愛的歌曲](https://zh.wikipedia.org/wiki/Category:叱咤樂壇我最喜愛的歌曲 "wikilink")
+[Category:林夕詞作](https://zh.wikipedia.org/wiki/Category:林夕詞作 "wikilink")
 
 1.  有不同版本，現列出各版本的所有歌曲
 2.  [【K歌之王】歌词是由哪些歌名组成的（国、粤皆有）](http://www.douban.com/group/topic/7864746/)

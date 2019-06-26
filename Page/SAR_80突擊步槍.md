@@ -25,7 +25,7 @@ SAR
 SAR
 80的[機匣是由](https://zh.wikipedia.org/wiki/機匣 "wikilink")[钢製的](../Page/钢.md "wikilink")[衝壓件所製成](../Page/衝壓.md "wikilink")，而、[護木和](https://zh.wikipedia.org/wiki/護木 "wikilink")[槍托部份全部是由](../Page/槍托.md "wikilink")[聚合物製成的](../Page/聚合物.md "wikilink")。
 
-彈藥使用與相兼容的[4179標準](../Page/STANAG彈匣.md "wikilink")[彈匣供彈](../Page/彈匣.md "wikilink")，所發射的步槍尔彈也是M193普通彈或M196[曳光彈](../Page/曳光彈.md "wikilink")。
+彈藥使用與[STANAG相兼容的](../Page/标准化协议.md "wikilink")[4179標準](../Page/STANAG彈匣.md "wikilink")[彈匣供彈](../Page/彈匣.md "wikilink")，所發射的步槍尔彈也是M193普通彈或M196[曳光彈](../Page/曳光彈.md "wikilink")。
 
 早期型SAR 80採用固定式槍托，改進以後的SAR
 80採用摺疊式槍托，槍托展開時全槍長970毫米（38.19英吋），槍托摺疊時則長738毫米（29.06英吋），有效射程為400公尺（437.45码，1,312.34英尺）。

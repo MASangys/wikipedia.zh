@@ -194,7 +194,7 @@ Stan Lee</p></td>
 
 ### 評價
 
-[爛番茄新鮮度](../Page/爛番茄.md "wikilink")48%，基於322條評論，平均分為5.7/10，觀眾評價65%\[21\]，[Metacritic得分](../Page/Metacritic.md "wikilink")52\[22\]，[IMDB上得](https://zh.wikipedia.org/wiki/IMDB "wikilink")7.4分，評價兩極，大多批評反派的塑造不佳和劇情上的老調重彈。
+[爛番茄新鮮度](../Page/爛番茄.md "wikilink")47%，基於325條評論，平均分為5.66/10，觀眾評價65%\[21\]，[Metacritic得分](../Page/Metacritic.md "wikilink")52\[22\]，[IMDB上得](https://zh.wikipedia.org/wiki/IMDB "wikilink")7.4分，評價兩極，大多批評反派的塑造不佳和劇情上的老調重彈。
 
 ### 票房
 

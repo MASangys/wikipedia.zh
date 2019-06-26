@@ -469,7 +469,7 @@ Annie、Angie、Anna之上司<br />
 <td><p>美國賭城老闆</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/王致狄" title="wikilink">王致狄</a></p></td>
+<td><p><a href="../Page/王致狄.md" title="wikilink">王致狄</a></p></td>
 <td><p>收數佬</p></td>
 <td><p>黎希和之債主</p></td>
 </tr>

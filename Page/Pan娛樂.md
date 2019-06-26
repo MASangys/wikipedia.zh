@@ -4,7 +4,7 @@ Entertainment**（）是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikili
 ## 旗下藝人
 
   - [柳鎮](../Page/柳鎮_\(韓國\).md "wikilink")
-  - [崔成宰](https://zh.wikipedia.org/wiki/崔成宰 "wikilink")
+  - [崔成宰](../Page/崔成宰.md "wikilink")
   - [金釉利](../Page/金釉利.md "wikilink")
   - [金允書](../Page/金允書.md "wikilink")
   - [洪仁永](../Page/洪仁永.md "wikilink")

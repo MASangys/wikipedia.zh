@@ -30,7 +30,7 @@ Glass和](https://zh.wikipedia.org/wiki/Google_Glass "wikilink")[Nexus
 
   - [fqrouter的整体构成](http://fqrouter.tumblr.com/post/51779503116)
 
-[Category:破网软件](https://zh.wikipedia.org/wiki/Category:破网软件 "wikilink")
+[Category:翻墙软件](https://zh.wikipedia.org/wiki/Category:翻墙软件 "wikilink")
 [Category:代理软件](https://zh.wikipedia.org/wiki/Category:代理软件 "wikilink")
 
 1.

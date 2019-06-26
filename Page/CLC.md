@@ -65,7 +65,7 @@ Seung Hee |
 |Chong Ting Yan |
 [新界](../Page/新界.md "wikilink")[大埔區](../Page/大埔區.md "wikilink")
 |大埔崇德黃建常紀念學校
-[迦密柏雨中學](../Page/迦密柏雨中學.md "wikilink")（退學） |🍒
+[迦密柏雨中學](../Page/迦密柏雨中學.md "wikilink")（肄業） |🍒
 櫻桃 |鹿 |領唱 |- |rowspan=2|恩彬 |rowspan=2| |rowspan=2|Eun Bin |權恩彬 \[19\]
 |rowspan=2| |rowspan=2|Kwon Eun Bin |rowspan=2|
 [首爾特別市](https://zh.wikipedia.org/wiki/首爾特別市 "wikilink") |rowspan=2|、
@@ -227,7 +227,7 @@ Champion](../Page/Show_Champion.md "wikilink")》的一位候補。
 2月19日，CLC再度於 SBS MTV 的《[THE
 SHOW](https://zh.wikipedia.org/wiki/THE_SHOW "wikilink")》獲得第二個一位。
 
-5月29日，時隔4個月以《ME》回歸，並於韓國時間下午六時公開《ME》MV、音源，在Bugs的排行榜拿下實時7位和Soribada排行榜的93位。
+5月29日，時隔4個月以《[ME](../Page/Me_\(CLC單曲\).md "wikilink")》回歸，並於韓國時間下午六時公開《ME》MV、音源，在Bugs的排行榜拿下實時7位和Soribada排行榜的93位。
 
 ## 音樂作品
 
@@ -248,7 +248,7 @@ SHOW](https://zh.wikipedia.org/wiki/THE_SHOW "wikilink")》獲得第二個一位
 
   - 2015年：
   - 2018年：
-  - 2019年：
+  - 2019年：[ME(美)](../Page/Me_\(CLC單曲\).md "wikilink")
 
 **日語作品**
 
@@ -464,6 +464,12 @@ Berjaya Times Square KL, LG Concourse</p></td>
 <td><p>Gwanghwamun Art Hall</p></td>
 <td><p>Cheshire二期會員活動</p></td>
 </tr>
+<tr class="even">
+<td><p>7月14日</p></td>
+<td><p>CLC 1ST FANMEETING in Taipei</p></td>
+<td><p>ATT Show Box 大直館</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -515,6 +521,7 @@ Berjaya Times Square KL, LG Concourse</p></td>
 | 5月10日        | GY Festival                                      |                                             |                                                                     |
 | 5月18日        | 2019 Dream Concert 夢想演唱會                         | 首爾世界盃競技場（上岩洞）                               |                                                                     |
 | 5月25日        | Seowon Valley Green Concert                      |                                             |                                                                     |
+| 7月28日        | Mid summer Festival - 부산                         |                                             |                                                                     |
 
 ## 獎項
 
@@ -701,8 +708,15 @@ Berjaya Times Square KL, LG Concourse</p></td>
   -
 **CLC 個人**
 
+  -
+  -
+  -
   - (Next beauty Creators)
 
+  -
+  -
+  -
+  -
   -
   -
   -

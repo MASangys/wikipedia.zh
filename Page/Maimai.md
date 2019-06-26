@@ -241,7 +241,7 @@ ORANGE\[60\]
   - 移除購買畫面的確認手續。
   - 新增 MASTER 難度未解鎖標示。
   - 新增隨機設置功能，可以隨機設定的有：稱號、Frame、NamePlate、Icon。
-  - ADVANCEDの新增☆×9+難度、EXPERT新增☆×11+難度。
+  - ADVANCED新增☆×9+難度、EXPERT新增☆×11+難度。
   - 移除好友、店鋪、都道縣府排名，僅剩餘全國排名。
 
 ### maimai MiLK （2017年12月11日-2018年6月21日）
@@ -261,8 +261,8 @@ ORANGE\[60\]
   - 「SURVIVAL COURSE」新增难易度选择，某些 「SURVIVAL COURSE」 中通过最高难度可以提前解禁
     RE:MASTER 难度。
   - 某些 MASTER 曲目会限时开放，以 S 以上评价完成可以直接解禁。
-  - S 以上的评价等级追加了 "+" 评价等级： S+ （98% 以上），SS+（99.50% 以上），SSS+（100% 以上且以满分
-    ALL PERFECT）。
+  - S 以上的评价等级追加了 "+" 评价等级： S+ （98% 以上），SS+（99.50% 以上），SSS+（达成 ALL
+    PERFECT且BREAK项为满分）。
 
 ### maimai FiNALE (2018 年 12 月 13 日 - )
 
@@ -270,6 +270,7 @@ ORANGE\[60\]
   - 伙伴角色新增 Shama （しゃま） 和 Milk （みるく）。
   - 段位认定模式改名为 FiNALE COURSE，通过后也会使 Rating 上升。
   - 新增 PANDORA BOXXX 模式，规则和 Challenge Track 相似。
+  - EXPECT新增☆×12+难度，MASTER/Re : MASTER新增☆×13+/☆×14难度
 
 ## 收录的歌曲分类
 

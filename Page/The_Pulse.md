@@ -4,7 +4,7 @@
 [TRI_Restaurant_interior_201606.jpg](https://zh.wikipedia.org/wiki/File:TRI_Restaurant_interior_201606.jpg "fig:TRI_Restaurant_interior_201606.jpg")
 
 **the
-pulse**位於[香港](../Page/香港.md "wikilink")[淺水灣](../Page/淺水灣.md "wikilink")[海灘道](https://zh.wikipedia.org/wiki/海灘道 "wikilink")28號，號稱是全港首間灘畔購物[商場](../Page/商場.md "wikilink")，於2014年11月25日試業\[1\]。商場樓高6層，其中最底兩層是地庫停車場。商場由[英皇集團持有](../Page/英皇集團.md "wikilink")，現聘用[仲量聯行物業管理有限公司作物業管理](https://zh.wikipedia.org/wiki/仲量聯行物業管理有限公司 "wikilink")。
+pulse**位於[香港](../Page/香港.md "wikilink")[淺水灣](../Page/淺水灣.md "wikilink")[海灘道](https://zh.wikipedia.org/wiki/海灘道 "wikilink")28號，號稱是全港首間灘畔購物[商場](../Page/商場.md "wikilink")，於2014年11月25日試業\[1\]，總承建商為[佳盛建築有限公司](../Page/佳明集團.md "wikilink")。商場樓高6層，其中最底兩層是地庫停車場。商場由[英皇集團持有](../Page/英皇集團.md "wikilink")，現聘用[仲量聯行物業管理有限公司作物業管理](https://zh.wikipedia.org/wiki/仲量聯行物業管理有限公司 "wikilink")。
 
 ## 歷史
 

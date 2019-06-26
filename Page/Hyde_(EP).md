@@ -122,7 +122,7 @@
 <td><p>2013年5月20日</p></td>
 <td><p><a href="../Page/CD.md" title="wikilink">CD</a>、<a href="../Page/數位音樂下載.md" title="wikilink">數位下載</a></p></td>
 <td><p><a href="../Page/Jellyfish娛樂.md" title="wikilink">Jellyfish娛樂</a><br />
-</p></td>
+<a href="../Page/CJ_E&amp;M.md" title="wikilink">CJ E&amp;M</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Jekyll</p></td>

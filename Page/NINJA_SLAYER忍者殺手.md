@@ -345,6 +345,13 @@ Classics」的日文翻譯文章。2010年，以本兌有、杉ライカ兩人�
 <td><p>2017年12月28日</p></td>
 <td><p>ISBN 978-4-04-734952-0</p></td>
 </tr>
+<tr class="odd">
+<td><p>21</p></td>
+<td><p>Ninja Slayer Never Dies</p></td>
+<td></td>
+<td><p>2019年4月30日</p></td>
+<td><p>ISBN 978-4-04-735245-2</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -550,8 +557,9 @@ Classics」的日文翻譯文章。2010年，以本兌有、杉ライカ兩人�
 
 ## 動畫
 
-2014年4月宣布動畫化，標題定為「NINJA SLAYER from
-ANIMATION」。2015年4月至10月，透過[niconico動畫等網路平台播送網路先行版](https://zh.wikipedia.org/wiki/niconico動畫 "wikilink")。2016年4月至7月，TV版「忍者殺手SPECIAL
+2014年4月宣布改編為[網路動畫](https://zh.wikipedia.org/wiki/網路動畫 "wikilink")，由[TRIGGER負責製作](../Page/TRIGGER.md "wikilink")，標題定為「NINJA
+SLAYER from
+ANIMATION」。2015年4月至10月，透過[niconico動畫等網路平台播送網路版動畫](https://zh.wikipedia.org/wiki/niconico動畫 "wikilink")。2016年4月至7月，TV版「忍者殺手SPECIAL
 EDITION」（簡稱SE版）透過[TOKYO
 MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")、[BS11等電視頻道進行播送](https://zh.wikipedia.org/wiki/BS11 "wikilink")，此外也同時在中國地區透過[Bilibili網站進行播送](../Page/Bilibili.md "wikilink")，但由於不明原因導致B站實際播放的影片內容仍然是網路先行版而非SE版。\[6\]
 

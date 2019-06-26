@@ -179,7 +179,7 @@ B第](../Page/Block_B.md "wikilink")4枚迷你韓語專輯，於2014年7月24日
 <td><p>2014年7月24日</p></td>
 <td><p><a href="../Page/CD.md" title="wikilink">CD</a>、<a href="../Page/數位音樂下載.md" title="wikilink">數位下載</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Seven_Seasons" title="wikilink">Seven Seasons</a><br />
-</p></td>
+<a href="../Page/CJ_E&amp;M.md" title="wikilink">CJ E&amp;M</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2014年8月26日</p></td>

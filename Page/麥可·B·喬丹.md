@@ -120,7 +120,7 @@ Stevenson，他同時也是製作，這部電影計劃於2020年1月上映。接
 </tr>
 <tr class="even">
 <td><p>2013</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/正義聯盟：閃電俠之逆轉" title="wikilink">正義聯盟：閃電俠之逆轉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/正義聯盟：閃點悖論" title="wikilink">正義聯盟：閃點悖論</a></p></td>
 <td><p><a href="../Page/鋼骨_(漫畫).md" title="wikilink">維克多·史東／鋼骨</a></p></td>
 <td><p>配音</p></td>
 </tr>

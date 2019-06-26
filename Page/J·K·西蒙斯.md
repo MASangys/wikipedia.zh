@@ -135,7 +135,7 @@ Simmons\[1\]\[2\]\[3\]。他成长于[俄亥俄州的](../Page/俄亥俄州.md "
   - 2018：《A Boy Called Sailboat》-Ernest
   - 2018：《The Boxcar Children: Surprise Island》-Dr. Moore（配音）
   - 2018：《[爆料世代](../Page/爆料世代.md "wikilink")》-Bill Dixon
-  - 2019：《[暴走曼哈頓](https://zh.wikipedia.org/wiki/暴走曼哈頓 "wikilink")》
+  - 2019：《[暴走曼哈頓](../Page/暴走曼哈頓.md "wikilink")》
 
 ### 電視劇
 

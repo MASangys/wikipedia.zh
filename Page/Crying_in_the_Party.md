@@ -1,7 +1,7 @@
 《**Crying in the
 Party**》是香港男歌手[陳奕迅於](../Page/陳奕迅.md "wikilink")2007年推出的歌曲，由[黎小田作曲](../Page/黎小田.md "wikilink")、[褚鎮東編曲](https://zh.wikipedia.org/wiki/褚鎮東 "wikilink")、[黃偉文填詞](https://zh.wikipedia.org/wiki/黃偉文 "wikilink")，收錄於專輯《[Listen
 to Eason
-Chan](https://zh.wikipedia.org/wiki/Listen_to_Eason_Chan "wikilink")》內。歌曲甫推出便大受歡迎，播放率極高，在叱咤頒獎禮獲得「叱咤十大
+Chan](https://zh.wikipedia.org/wiki/Listen_to_Eason_Chan "wikilink")》內，是當中唯一的抒情慢歌。歌曲甫推出便大受歡迎，播放率極高，在叱咤頒獎禮獲得「叱咤十大
 專業推介
 第二位」，及後更成為四台冠軍歌。[MV於同年發布](../Page/音樂錄影帶.md "wikilink")，有兩版：莊少榮導演版和[TVB版](https://zh.wikipedia.org/wiki/TVB "wikilink")。
 
@@ -17,9 +17,8 @@ Chan](https://zh.wikipedia.org/wiki/Listen_to_Eason_Chan "wikilink")》內。歌
 | ----- | ----- | ----- | ----- |
 | **1** | **1** | **1** | **1** |
 
-903專業推介走勢 - 11\>10\>2\>2\>2\>2\>9\>1\[5\]
-
-歌曲在叱咤903獲得237次播放率，其中更取得連奪四星期亞軍的佳績，是2007年的超級熱播作品。
+  - 903專業推介走勢：11\>10\>2\>2\>2\>2\>9\>1\[5\]
+  - 歌曲在叱咤903獲得237次播放率，更曾連績四星期奪得亞軍。
 
 ## 獎項
 
@@ -38,7 +37,7 @@ Chan](https://zh.wikipedia.org/wiki/Listen_to_Eason_Chan "wikilink")》內。歌
 [Category:陳奕迅歌曲](https://zh.wikipedia.org/wiki/Category:陳奕迅歌曲 "wikilink")
 [Category:2007年歌曲](https://zh.wikipedia.org/wiki/Category:2007年歌曲 "wikilink")
 [Category:陳奕迅](https://zh.wikipedia.org/wiki/Category:陳奕迅 "wikilink")
-[Category:黎小田歌曲](https://zh.wikipedia.org/wiki/Category:黎小田歌曲 "wikilink")
+[Category:黎小田曲作](https://zh.wikipedia.org/wiki/Category:黎小田曲作 "wikilink")
 
 1.
 2.

@@ -11,10 +11,9 @@
 
   -
   -
-[Category:澀谷區公司](https://zh.wikipedia.org/wiki/Category:澀谷區公司 "wikilink")
+[Category:DeNA](https://zh.wikipedia.org/wiki/Category:DeNA "wikilink")
 [Category:東京證券交易所上市公司](https://zh.wikipedia.org/wiki/Category:東京證券交易所上市公司 "wikilink")
 [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
-[Category:日本網際網路](https://zh.wikipedia.org/wiki/Category:日本網際網路 "wikilink")
 [Category:1999年建立的網站](https://zh.wikipedia.org/wiki/Category:1999年建立的網站 "wikilink")
 
 1.  [職得日本](http://www.worthjp.com/intern/detail.html$/iid/108/)

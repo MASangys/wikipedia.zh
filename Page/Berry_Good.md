@@ -339,10 +339,10 @@ PlotData =
 
 ### 電視劇
 
-|       |                                                     |                                                          |      |      |     |
-| ----- | --------------------------------------------------- | -------------------------------------------------------- | ---- | ---- | --- |
-| 年份    | 電視台                                                 | 節目名稱                                                     | 參與成員 | 角色名稱 | 備註  |
-| 2017年 | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") | 《[Circle：相連的兩個世界](../Page/Circle：相連的兩個世界.md "wikilink")》 | 邰賀   | 秀彬   | 女配角 |
+|        |       |                                                     |                                                          |      |      |     |
+| ------ | ----- | --------------------------------------------------- | -------------------------------------------------------- | ---- | ---- | --- |
+| 集數     | 年份    | 電視台                                                 | 節目名稱                                                     | 參與成員 | 角色名稱 | 備註  |
+| 3、7、12 | 2017年 | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") | 《[Circle：相連的兩個世界](../Page/Circle：相連的兩個世界.md "wikilink")》 | 邰賀   | 秀彬   | 女配角 |
 
 ### 音樂錄影帶
 
@@ -514,12 +514,13 @@ PlotData =
 
 ### 非固定綜藝節目
 
-|      |       |                                                                     |                                                  |             |      |
-| ---- | ----- | ------------------------------------------------------------------- | ------------------------------------------------ | ----------- | ---- |
-| 年份   | 曰期    | 電視台                                                                 | 節目名稱                                             | 參與成員        | 備註   |
-| 2015 | 4月15日 | [MBC Every1](https://zh.wikipedia.org/wiki/MBC_Every1 "wikilink")   | [Weekly Idol](../Page/Weekly_Idol.md "wikilink") | 全員（除祚弦）     |      |
-| 2016 | 5月14日 | [TvN](https://zh.wikipedia.org/wiki/TvN "wikilink")                 | [SNL Korea](../Page/SNL_Korea.md "wikilink")     | 邰賀、多藝、世馨、高雲 | 特別嘉賓 |
-| 2018 | 8月29日 | [MBC Every 1](https://zh.wikipedia.org/wiki/MBC_Every_1 "wikilink") | [Weekly Idol](../Page/Weekly_Idol.md "wikilink") | 全員          |      |
+|     |      |        |                                                                     |                                                               |                |      |
+| --- | ---- | ------ | ------------------------------------------------------------------- | ------------------------------------------------------------- | -------------- | ---- |
+| 集數  | 年份   | 曰期     | 電視台                                                                 | 節目名稱                                                          | 參與成員           | 備註   |
+| 194 | 2015 | 4月15日  | [MBC Every1](https://zh.wikipedia.org/wiki/MBC_Every1 "wikilink")   | [Weekly Idol](../Page/Weekly_Idol.md "wikilink")              | 全員（除祚弦）        |      |
+| 9   | 2015 | 10月23日 | [SBS (韓國)](../Page/SBS_\(韓國\).md "wikilink")                        | [白鐘元的三大天王](https://zh.wikipedia.org/wiki/白鐘元的三大天王 "wikilink") | 邰賀、徐律、多藝、世馨、高雲 |      |
+| 151 | 2016 | 5月14日  | [TvN](https://zh.wikipedia.org/wiki/TvN "wikilink")                 | [SNL Korea](../Page/SNL_Korea.md "wikilink")                  | 邰賀、多藝、世馨、高雲    | 特別嘉賓 |
+| 370 | 2018 | 8月29日  | [MBC Every 1](https://zh.wikipedia.org/wiki/MBC_Every_1 "wikilink") | [Weekly Idol](../Page/Weekly_Idol.md "wikilink")              | 全員             |      |
 
 ### 真人秀
 

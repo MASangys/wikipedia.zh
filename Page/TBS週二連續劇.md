@@ -219,7 +219,7 @@
 
 <!-- end list -->
 
-  - 4月16日－：**[我要準時下班](https://zh.wikipedia.org/wiki/我要準時下班 "wikilink")**（）
+  - 4月16日－6月18日：**[我要準時下班](../Page/我要準時下班.md "wikilink")**（）
 
 <!-- end list -->
 
@@ -230,7 +230,7 @@
 
 <!-- end list -->
 
-  - 7月－：**[天國餐館](https://zh.wikipedia.org/wiki/天國餐館 "wikilink")**（）
+  - 7月9日－：**[天國餐館](https://zh.wikipedia.org/wiki/天國餐館 "wikilink")**（）
 
 <!-- end list -->
 

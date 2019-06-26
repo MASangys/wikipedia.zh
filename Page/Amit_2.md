@@ -47,19 +47,19 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/最佳國語女歌手獎_(金曲獎).md" title="wikilink">最佳國語女歌手獎</a></p></td>
-<td><p>Amit《Amit 2》</p></td>
+<td><p>AMIT《AMIT 2》</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/最佳國語專輯獎_(金曲獎).md" title="wikilink">最佳國語專輯獎</a></p></td>
-<td><p>《Amit 2》</p></td>
+<td><p>《AMIT 2》</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/最佳演唱錄音專輯獎_(金曲獎).md" title="wikilink">最佳演唱錄音專輯獎</a></p></td>
-<td><p>《Amit 2》</p></td>
+<td><p>《AMIT 2》</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -71,7 +71,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/最佳專輯製作人獎_(金曲獎).md" title="wikilink">最佳專輯製作人獎</a></p></td>
-<td><p>阿弟仔，Amit《Amit 2》</p></td>
+<td><p>阿弟仔，AMIT《AMIT 2》</p></td>
 <td></td>
 <td></td>
 </tr>

@@ -1,8 +1,8 @@
-**DC擴展宇宙**（，簡稱**DCEU**）是一個已結束[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[跨媒體製作的](../Page/跨媒體製作.md "wikilink")[共享宇宙](../Page/共同世界.md "wikilink")，根據[DC漫畫出版物中的角色改编](../Page/DC漫畫.md "wikilink")。如同漫畫中的[DC宇宙一樣](../Page/DC宇宙.md "wikilink")，該系列跨越了漫畫的劇情元素、設定、演員和角色。[華納兄弟發言人曾經表示大眾並不需要一個DC漫畫改编的電影宇宙](https://zh.wikipedia.org/wiki/華納兄弟 "wikilink")。直到2008年，另一美國英雄漫畫巨頭，漫威建立的電影宇宙於口碑及票房皆取得巨大成功，DC擴展宇宙才正式開始計劃，於2013年推出第一部電影。截止至今已有7部電影上映，但由於電影普遍口碑差劣，更於第五部電影《正義聯盟》票房失利，現已取消電影宇宙設定。華納執行長表示未來的電影宇宙將會著重獨立的故事而非緊密的連結，但不排斥未來的可能性。有十餘部仍處於各種階段。
+**DC擴展宇宙**（，簡稱**DCEU**）是一個[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[跨媒體製作的](../Page/跨媒體製作.md "wikilink")[共享宇宙](../Page/共同世界.md "wikilink")，根據[DC漫畫出版物中的角色改编](../Page/DC漫畫.md "wikilink")。如同漫畫中的[DC宇宙一樣](../Page/DC宇宙.md "wikilink")，該系列跨越了漫畫的劇情元素、設定、演員和角色。[華納兄弟發言人曾經表示大眾並不需要一個DC漫畫改编的電影宇宙](https://zh.wikipedia.org/wiki/華納兄弟 "wikilink")。直到2008年，另一美國英雄漫畫巨頭，漫威建立的電影宇宙於口碑及票房皆取得巨大成功，DC擴展宇宙才正式開始計劃，於2013年推出第一部電影。截止至今已有7部電影上映，但由於電影普遍口碑差劣，更於第五部電影《正義聯盟》票房失利，現已暫時取消電影宇宙設定。華納執行長表示未來的電影宇宙將會著重獨立的故事而非緊密的連結，但不排斥未來的可能性。有十餘部仍處於各種階段，根據近期最新官方說法指出，電影宇宙並沒有完全取消發展計畫，目前的英雄個人電影依然屬於DCEU世界觀。
 
-系列中的電影由各式各樣的電影工作者編劇及執導。系列電影的主演包含[亨利·卡維爾](../Page/亨利·卡維爾.md "wikilink")、[班·艾佛列克](https://zh.wikipedia.org/wiki/班·艾佛列克 "wikilink")、[蓋兒·加朵](https://zh.wikipedia.org/wiki/蓋兒·加朵 "wikilink")、[伊薩·米勒](https://zh.wikipedia.org/wiki/伊薩·米勒 "wikilink")、[傑森·摩莫亞與](https://zh.wikipedia.org/wiki/傑森·摩莫亞 "wikilink")[雷·費雪等人](../Page/雷·費雪.md "wikilink")。華納兄弟任命創意總監管理DC擴展宇宙部門。他們負責監督製片工作及劇情走向，以在系列電影中建構出一個具凝聚力的主線劇情。其中，艾佛列克於2019年已退出DC擴展宇宙，並不參與未具名的獨立《蝙蝠俠》電影。
+系列中的電影由各式各樣的電影工作者編劇及執導。系列電影的主演包含[亨利·卡維爾](../Page/亨利·卡維爾.md "wikilink")、[班·艾佛列克](https://zh.wikipedia.org/wiki/班·艾佛列克 "wikilink")、[蓋兒·加朵](https://zh.wikipedia.org/wiki/蓋兒·加朵 "wikilink")、[伊薩·米勒](https://zh.wikipedia.org/wiki/伊薩·米勒 "wikilink")、[傑森·摩莫亞與](https://zh.wikipedia.org/wiki/傑森·摩莫亞 "wikilink")[雷·費雪等人](../Page/雷·費雪.md "wikilink")。華納兄弟任命創意總監管理DC擴展宇宙部門。他們負責監督製片工作及劇情走向，以在系列電影中建構出一個具凝聚力的主線劇情。其中，艾佛列克於2019年已退出DC擴展宇宙，並不出演2021年電影《蝙蝠俠》。
 
-DC擴展宇宙的第一部電影為《[超人：鋼鐵英雄](https://zh.wikipedia.org/wiki/超人：鋼鐵英雄 "wikilink")》（2013年），接著是《[蝙蝠俠對超人：正義曙光](https://zh.wikipedia.org/wiki/蝙蝠俠對超人：正義曙光 "wikilink")》（2016年）、《[自殺突擊隊](https://zh.wikipedia.org/wiki/自殺突擊隊_\(電影\) "wikilink")》（2016年）、《[神力女超人](https://zh.wikipedia.org/wiki/神力女超人_\(2017年電影\) "wikilink")》（2017年）、《[正義聯盟](https://zh.wikipedia.org/wiki/正義聯盟_\(電影\) "wikilink")》（2017年）、《[水行俠](https://zh.wikipedia.org/wiki/水行俠_\(電影\) "wikilink")》（2018年）和《[沙贊！](https://zh.wikipedia.org/wiki/沙贊！_\(電影\) "wikilink")》（2019年），而未來的電影包含《[猛禽小隊（以及一個哈莉·奎茵的奇妙解放）](https://zh.wikipedia.org/wiki/猛禽小隊_\(電影\) "wikilink")》（2020年）、《[神力女超人1984](https://zh.wikipedia.org/wiki/神力女超人1984 "wikilink")》（2020年）、《蝙蝠俠》（，2021年）、重啟版《自殺突擊隊》（，2021年）、《閃電俠》（，2021年）和《水行俠2》（，2022年）。
+DC擴展宇宙的第一部電影為《[超人：鋼鐵英雄](https://zh.wikipedia.org/wiki/超人：鋼鐵英雄 "wikilink")》（2013年），接著是《[蝙蝠俠對超人：正義曙光](https://zh.wikipedia.org/wiki/蝙蝠俠對超人：正義曙光 "wikilink")》（2016年）、《[自殺突擊隊](https://zh.wikipedia.org/wiki/自殺突擊隊_\(電影\) "wikilink")》（2016年）、《[神力女超人](https://zh.wikipedia.org/wiki/神力女超人_\(2017年電影\) "wikilink")》（2017年）、《[正義聯盟](https://zh.wikipedia.org/wiki/正義聯盟_\(電影\) "wikilink")》（2017年）、《[水行俠](https://zh.wikipedia.org/wiki/水行俠_\(電影\) "wikilink")》（2018年）和《[沙贊！](https://zh.wikipedia.org/wiki/沙贊！_\(電影\) "wikilink")》（2019年），而未來的電影包含《[猛禽小隊：小丑女大解放](https://zh.wikipedia.org/wiki/猛禽小隊_\(電影\) "wikilink")》（2020年）、《[神力女超人1984](https://zh.wikipedia.org/wiki/神力女超人1984 "wikilink")》（2020年）、《蝙蝠俠》（，2021年）、重啟版《自殺突擊隊》（，2021年）、《閃電俠》（，2021年）和《水行俠2》（，2022年）。
 
 其他仍處於不同製作階段的電影包含《鋼骨》（）、《綠燈軍團》（）、《黑暗正義聯盟》（）、《蝙蝠女》（）、《正義聯盟2》（）、《高譚魅影》（）與[黑亞當](../Page/黑亞當.md "wikilink")、[死亡射手](../Page/死亡射手.md "wikilink")、[暴狼](../Page/暴狼.md "wikilink")、[喪鐘和](../Page/喪鐘_\(漫畫\).md "wikilink")[超級少女的獨立電影](https://zh.wikipedia.org/wiki/超級少女_\(卡拉·佐·艾爾\) "wikilink")。
 
@@ -228,8 +228,7 @@ League》
 <tbody>
 <tr class="odd">
 <td><p>8</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/猛禽小隊_(電影)" title="wikilink">猛禽小隊<br />
-<small>（小丑女大解放）</small></a>》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/猛禽小隊_(電影)" title="wikilink">猛禽小隊：小丑女大解放</a>》</p></td>
 <td></td>
 <td><p><a href="../Page/閻羽茜.md" title="wikilink">閻羽茜</a></p></td>
 <td><p><a href="../Page/克莉絲汀·哈德森.md" title="wikilink">克莉絲汀·哈德森</a></p></td>
@@ -272,8 +271,8 @@ League》
 <td><p>《<a href="https://zh.wikipedia.org/wiki/#《閃電俠》（2021年）" title="wikilink">閃電俠</a>》</p></td>
 <td></td>
 <td><p><a href="../Page/約翰·戴利.md" title="wikilink">約翰·戴利</a>、<a href="https://zh.wikipedia.org/wiki/強納森·高斯汀" title="wikilink">強納森·高斯汀</a></p></td>
-<td><p>、、<a href="../Page/賽斯·葛雷恩·史密斯.md" title="wikilink">賽斯·葛雷恩·史密斯</a>、</p></td>
-<td><p>、<a href="../Page/麥可·葛林_(編劇).md" title="wikilink">麥可·葛林</a>、克里斯·布蘭卡托、、<a href="../Page/菲爾·洛德與克里斯多福·米勒.md" title="wikilink">菲爾·洛德與克里斯多福·米勒</a>、賽斯·葛雷恩·史密斯、<a href="../Page/瑞克·法穆易瓦.md" title="wikilink">瑞克·法穆易瓦</a></p></td>
+<td><p>、、<a href="../Page/賽斯·葛雷恩·史密斯.md" title="wikilink">賽斯·葛雷恩·史密斯</a>、、約翰·戴利、強納森·高斯汀、<a href="https://zh.wikipedia.org/wiki/伊薩·米勒" title="wikilink">伊薩·米勒</a>、</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/格雷格·柏蘭帝" title="wikilink">格雷格·柏蘭帝</a>、<a href="../Page/麥可·葛林_(編劇).md" title="wikilink">麥可·葛林</a>、克里斯·布蘭卡托、、<a href="../Page/菲爾·洛德與克里斯多福·米勒.md" title="wikilink">菲爾·洛德與克里斯多福·米勒</a>、賽斯·葛雷恩·史密斯、<a href="../Page/瑞克·法穆易瓦.md" title="wikilink">瑞克·法穆易瓦</a></p></td>
 <td><p>傑夫·強斯、李察·瑟高、強·柏格、查克·史奈德、亞歷克斯·加特納、丹·馬佐、黛博拉·史奈德、、菲爾·洛德與克里斯多福·米勒</p></td>
 <td><p>籌拍中</p></td>
 </tr>
@@ -322,17 +321,17 @@ League》
 
 ### 《蝙蝠俠》（2021年）
 
-2015年7月，宣布[班·艾佛列克將執導和主演](https://zh.wikipedia.org/wiki/班·艾佛列克 "wikilink")[蝙蝠俠的獨立電影](../Page/蝙蝠俠.md "wikilink")，並與漫畫家[傑夫·強斯共同撰寫劇本](../Page/傑夫·強斯.md "wikilink")\[212\]。除了飾演阿福的[傑瑞米·艾朗外](https://zh.wikipedia.org/wiki/傑瑞米·艾朗 "wikilink")，[喬·曼格尼洛被選在DCEU飾演](https://zh.wikipedia.org/wiki/喬·曼格尼洛 "wikilink")[喪鐘](../Page/喪鐘_\(漫畫\).md "wikilink")\[213\]，在此前艾佛列克曾在網上釋出一段暗示喪鐘登場的影片。2016年10月，艾佛列克透露該片的片名暫時定為《*The
-Batman*》\[214\]。曼格尼洛透露，電影最快有望於2017年春季開拍\[215\]\[216\]。2016年12月，艾佛列克證實了電影定於2017年春季開始製作\[217\]，並有望於2018年推出。據報導，該片將於[洛杉磯拍攝](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")。後來，艾佛列克宣布辭去導演一職，他表示自己壓力過大，難以同時擔任導演和演員的工作。而他也繼續擔任監製和編劇\[218\]。艾佛列克辭去導演後，[克里斯·泰瑞歐提交了修改後的劇本](https://zh.wikipedia.org/wiki/克里斯·泰瑞歐 "wikilink")\[219\]。
+2015年7月，宣布[班·艾佛列克將執導和主演](https://zh.wikipedia.org/wiki/班·艾佛列克 "wikilink")[蝙蝠俠的獨立電影](../Page/蝙蝠俠.md "wikilink")，並與漫畫家[傑夫·強斯共同撰寫劇本](../Page/傑夫·強斯.md "wikilink")\[212\]。除了飾演阿福的[傑瑞米·艾朗外](https://zh.wikipedia.org/wiki/傑瑞米·艾朗 "wikilink")，[喬·曼格尼洛被選在DCEU飾演](https://zh.wikipedia.org/wiki/喬·曼格尼洛 "wikilink")[喪鐘](../Page/喪鐘_\(漫畫\).md "wikilink")\[213\]，在此前艾佛列克曾在網上釋出一段暗示喪鐘登場的影片。2016年10月，艾佛列克透露該片的片名暫時定為《蝙蝠俠》（*The
+Batman*）\[214\]。曼格尼洛透露，電影最快有望於2017年春季開拍\[215\]\[216\]。2016年12月，艾佛列克證實了電影定於2017年春季開始製作\[217\]，並有望於2018年推出。據報導，該片將於[洛杉磯拍攝](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")。後來，艾佛列克宣布辭去導演一職，他表示自己壓力過大，難以同時擔任導演和演員的工作。而他也繼續擔任監製和編劇\[218\]。艾佛列克辭去導演後，[克里斯·泰瑞歐提交了修改後的劇本](https://zh.wikipedia.org/wiki/克里斯·泰瑞歐 "wikilink")\[219\]。
 
 2017年2月10日，證實[麥特·李維斯接任了艾佛列克辭去的導演一職](https://zh.wikipedia.org/wiki/麥特·李維斯 "wikilink")\[220\]。但李維斯於2月17日退出，並仍有再度與官方會談的空間\[221\]。之後不久，李維斯又再度確認擔任該片的導演\[222\]。2017年6月，李維斯表示，該電影將會專注於偵探方面，並以[黑色電影的風格來描述蝙蝠俠的心靈及故事](https://zh.wikipedia.org/wiki/黑色電影 "wikilink")\[223\]。2017年7月13日，李維斯證實艾佛列克的劇本被棄用，新的劇本將會從零開始重寫，以確保電影完全按照其意願拍攝，此外，李維斯表示由于整年忙于製作《[猩球崛起：終極決戰](https://zh.wikipedia.org/wiki/猩球崛起：終極決戰 "wikilink")》，電影將不會早於2018年前開拍\[224\]。
 
-李維斯創作的新劇本終稿於2019年1月完成\[225\]。《[好萊塢報道](https://zh.wikipedia.org/wiki/好萊塢報道 "wikilink")》稱影片聚-{焦}-于蝙蝠俠作為[義警的初期故事](https://zh.wikipedia.org/wiki/義警 "wikilink")\[226\]。電影類型定位為角色驅動型的[黑色電影](https://zh.wikipedia.org/wiki/黑色電影 "wikilink")，相較於以前的[蝙蝠俠系列電影](https://zh.wikipedia.org/wiki/蝙蝠俠系列電影 "wikilink")，這部重啟的影片將更大程度地去探索蝙蝠俠作為世界上最偉大的偵探的經歷\[227\]。故事情節將涉及包括[企鵝人在內的蝙蝠家族的多名敵人](https://zh.wikipedia.org/wiki/企鵝人 "wikilink")\[228\]\[229\]。2019年1月，[班·艾佛列克宣佈將不再出演蝙蝠俠](https://zh.wikipedia.org/wiki/班·艾佛列克 "wikilink")，仍擔任該部影片監製\[230\]\[231\]\[232\]。2019年5月，報道稱[羅伯·派汀森](../Page/羅伯·派汀森.md "wikilink")、[尼可拉斯·霍特](https://zh.wikipedia.org/wiki/尼可拉斯·霍特 "wikilink")、[艾米·漢默以及](https://zh.wikipedia.org/wiki/艾米·漢默 "wikilink")[亞倫·強森均在新任蝙蝠俠的候選演員名單之列](../Page/亞倫·強森.md "wikilink")，派汀森最有望出演蝙蝠俠\[233\]\[234\]\[235\]。當月底，羅伯·派汀森和尼可拉斯·霍特在試鏡過後，華納最終選定派汀森出演蝙蝠俠\[236\]。影片將開啟蝙蝠俠系列的新三部曲\[237\]。
+李維斯創作的新劇本終稿於2019年1月完成\[225\]。《[好萊塢報道](https://zh.wikipedia.org/wiki/好萊塢報道 "wikilink")》稱影片聚-{焦}-于蝙蝠俠作為[義警的初期故事](https://zh.wikipedia.org/wiki/義警 "wikilink")\[226\]。電影類型定位為角色驅動型的[黑色電影](https://zh.wikipedia.org/wiki/黑色電影 "wikilink")，相較於以前的[蝙蝠俠系列電影](https://zh.wikipedia.org/wiki/蝙蝠俠系列電影 "wikilink")，這部重啟的影片將更大程度地去探索蝙蝠俠作為世界上最偉大的偵探的經歷\[227\]。故事情節將涉及包括[企鵝人在內的蝙蝠家族的多名敵人](https://zh.wikipedia.org/wiki/企鵝人 "wikilink")\[228\]\[229\]。2019年1月，[班·艾佛列克宣佈將不再出演蝙蝠俠](https://zh.wikipedia.org/wiki/班·艾佛列克 "wikilink")，仍擔任該部影片監製\[230\]\[231\]\[232\]。2019年5月，報道稱[羅伯·派汀森](../Page/羅伯·派汀森.md "wikilink")、[尼可拉斯·霍特](https://zh.wikipedia.org/wiki/尼可拉斯·霍特 "wikilink")、[艾米·漢默以及](https://zh.wikipedia.org/wiki/艾米·漢默 "wikilink")[亞倫·強森均在新任蝙蝠俠的候選演員名單之列](../Page/亞倫·強森.md "wikilink")，派汀森最有望出演蝙蝠俠\[233\]\[234\]\[235\]。當月底，羅伯·派汀森和尼可拉斯·霍特在試鏡過後，華納最終選定派汀森出演蝙蝠俠\[236\]。影片時間設定為蝙蝠俠對超人更早之前的年輕時期，因此影片仍然為DCEU的一部份，並透過本集將開啟蝙蝠俠系列的新三部曲\[237\]。
 電影的[主體拍攝計劃於](https://zh.wikipedia.org/wiki/主體拍攝 "wikilink")2019年末在[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[倫敦開機](https://zh.wikipedia.org/wiki/倫敦 "wikilink")\[238\]，影片定於2021年6月25日上映\[239\]。
 
 [James_Gunn_by_Gage_Skidmore_2.jpg](https://zh.wikipedia.org/wiki/File:James_Gunn_by_Gage_Skidmore_2.jpg "fig:James_Gunn_by_Gage_Skidmore_2.jpg")\]\]
 
-### 《自殺突擊隊2》（2021年）
+### 《自殺突擊隊》（2021年）
 
 2016年3月，據報導，《自殺突擊隊》的續集正在計劃中\[240\]。編劇於2017年3月受聘構思該片的故事\[241\]，負責編寫劇本大綱\[242\]，安東尼·唐伯蒂斯編劇\[243\]。8月，據報導，[傑瑞德·雷托將回歸飾演](https://zh.wikipedia.org/wiki/傑瑞德·雷托 "wikilink")[小丑](../Page/小丑_\(角色\).md "wikilink")\[244\]。9月，[蓋文·歐唐納接任導演一職](../Page/蓋文·歐唐納_\(導演\).md "wikilink")，並與安東尼·唐伯蒂斯、以及共同編劇\[245\]\[246\]\[247\]。劇本終稿於2018年10月完成，歐唐納因檔期衝突離開該項目。[華納認為該劇本與](https://zh.wikipedia.org/wiki/華納兄弟 "wikilink")《[猛禽小隊](https://zh.wikipedia.org/wiki/猛禽小隊_\(電影\) "wikilink")》過於相似，後續製作被擱置\[248\]\[249\]\[250\]\[251\]。[查爾斯·羅文](../Page/查爾斯·羅文.md "wikilink")、、彼得·沙佛朗、[傑夫·強斯](../Page/傑夫·強斯.md "wikilink")、、[林暐和安迪](../Page/林暐.md "wikilink")·霍維茨將擔任電影監製\[252\]。2019年1月，電影的新標題確定為「自殺突擊隊」（*The
 Suicide
@@ -342,13 +341,14 @@ Squad*），[詹姆斯·岡恩確認執導影片](../Page/詹姆斯·岡恩.md "
 
 ### 《閃電俠》（2021年）
 
-2014年10月，華納兄弟公司宣布《閃電俠》電影將由[伊薩·米勒飾演](https://zh.wikipedia.org/wiki/伊薩·米勒 "wikilink")[閃電俠](https://zh.wikipedia.org/wiki/貝瑞·艾倫 "wikilink")\[259\]，而米勒也將出演兩部《正義聯盟》。2015年4月9日，官方有望讓[菲爾·洛德與克里斯多福·米勒負責提供故事](../Page/菲爾·洛德與克里斯多福·米勒.md "wikilink")\[260\]；但於2015年10月5日，執導和劇本有望由[賽斯·葛雷恩·史密斯負責](../Page/賽斯·葛雷恩·史密斯.md "wikilink")\[261\]。後來，因創作理念的分歧而離開，但官方則保留了史密斯的劇本\[262\]。2016年6月，[瑞克·法穆易瓦接任擔任導演](../Page/瑞克·法穆易瓦.md "wikilink")\[263\]。2016年7月，上映日改為2018年3月16日\[264\]。同月，[凱爾西·克萊蒙被選為女主角](https://zh.wikipedia.org/wiki/凱爾西·克萊蒙 "wikilink")[艾莉絲](https://zh.wikipedia.org/wiki/艾莉絲·威斯特·艾倫 "wikilink")\[265\]。2016年8月，宣布[雷·費雪會在片中出演](../Page/雷·費雪.md "wikilink")[鋼骨一角](../Page/鋼骨_\(漫畫\).md "wikilink")\[266\]。9月，[比利·庫達普加入飾演貝瑞的父親亨利](https://zh.wikipedia.org/wiki/比利·庫達普 "wikilink")·艾倫。2016年10月，法穆易瓦由於與華納兄弟公司間的創作理念分歧而退出\[267\]。正式攝製於2017年1月在英國的[倫敦開始進行](https://zh.wikipedia.org/wiki/倫敦 "wikilink")\[268\]，但因導演的離開而使電影沒法如期攝製與推出。2017年1月25日，《[亞瑟：王者之劍](https://zh.wikipedia.org/wiki/亞瑟：王者之劍 "wikilink")》的編劇[喬比·哈諾德被聘來為電影重寫劇本](https://zh.wikipedia.org/wiki/喬比·哈諾德 "wikilink")\[269\]。2017年5月，據報導，[勞勃·辛密克斯和](https://zh.wikipedia.org/wiki/勞勃·辛密克斯 "wikilink")[山姆·雷米皆是本片導演的最終候選人](../Page/山姆·雷米.md "wikilink")\[270\]。該月過後，雷米和[馬克·偉柏都已從候選中退出](https://zh.wikipedia.org/wiki/馬克·偉柏 "wikilink")\[271\]。7月，華納兄弟確認電影將改編自漫畫《[閃點](../Page/閃點_\(漫畫\).md "wikilink")》，片名為《Flashpoint》。2018年1月，[約翰·戴利和](../Page/約翰·戴利.md "wikilink")[強納森·高斯汀正在會談擔任導演](https://zh.wikipedia.org/wiki/強納森·高斯汀 "wikilink")。據報導，片商也曾和[班·艾佛列克進行過討論](https://zh.wikipedia.org/wiki/班·艾佛列克 "wikilink")，而辛密克斯則因無法騰出他的工作時間表而放棄\[272\]。4月則確定由[約翰·戴利和](../Page/約翰·戴利.md "wikilink")[強納森·高斯汀執導](https://zh.wikipedia.org/wiki/強納森·高斯汀 "wikilink")。該片拍攝時間定於2019年2月5日至5月，拍攝地點包含[亞特蘭大和](https://zh.wikipedia.org/wiki/亞特蘭大 "wikilink")[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")\[273\]\[274\]\[275\]\[276\]。電影的整體基調與《[回到未來](https://zh.wikipedia.org/wiki/回到未來 "wikilink")》類似\[277\]\[278\]\[279\]\[280\]。報道稱《閃電俠》計劃於2021年上映\[281\]。
+2014年10月，華納兄弟公司宣布《閃電俠》電影將由[伊薩·米勒飾演](https://zh.wikipedia.org/wiki/伊薩·米勒 "wikilink")[閃電俠](https://zh.wikipedia.org/wiki/貝瑞·艾倫 "wikilink")\[259\]，而米勒也將出演兩部《正義聯盟》。2015年4月9日，官方有望讓[菲爾·洛德與克里斯多福·米勒負責提供故事](../Page/菲爾·洛德與克里斯多福·米勒.md "wikilink")\[260\]；但於2015年10月5日，執導和劇本有望由[賽斯·葛雷恩·史密斯負責](../Page/賽斯·葛雷恩·史密斯.md "wikilink")\[261\]。後來，因創作理念的分歧而離開，但官方則保留了史密斯的劇本\[262\]。2016年6月，[瑞克·法穆易瓦接任擔任導演](../Page/瑞克·法穆易瓦.md "wikilink")\[263\]。2016年7月，上映日改為2018年3月16日\[264\]。同月，被選為女主角\[265\]。2016年8月，宣布[雷·費雪會在片中出演](../Page/雷·費雪.md "wikilink")[鋼骨一角](../Page/鋼骨_\(漫畫\).md "wikilink")\[266\]。9月，[比利·庫達普加入飾演貝瑞的父親亨利](https://zh.wikipedia.org/wiki/比利·庫達普 "wikilink")·艾倫。2016年10月，法穆易瓦由於與華納兄弟公司間的創作理念分歧而退出\[267\]。正式攝製於2017年1月在英國的[倫敦開始進行](https://zh.wikipedia.org/wiki/倫敦 "wikilink")\[268\]，但因導演的離開而使電影沒法如期攝製與推出。2017年1月25日，《[亞瑟：王者之劍](https://zh.wikipedia.org/wiki/亞瑟：王者之劍 "wikilink")》的編劇被聘來為電影重寫劇本\[269\]。2017年5月，據報導，[勞勃·辛密克斯和](https://zh.wikipedia.org/wiki/勞勃·辛密克斯 "wikilink")[山姆·雷米皆是本片導演的最終候選人](../Page/山姆·雷米.md "wikilink")\[270\]。該月過後，雷米和[馬克·偉柏都已從候選中退出](https://zh.wikipedia.org/wiki/馬克·偉柏 "wikilink")\[271\]。7月，華納兄弟確認電影將改編自漫畫《[閃點](../Page/閃點_\(漫畫\).md "wikilink")》，片名相應地改為《閃點》（*Flashpoint*）。2018年1月，[約翰·戴利和](../Page/約翰·戴利.md "wikilink")[強納森·高斯汀正在會談擔任導演](https://zh.wikipedia.org/wiki/強納森·高斯汀 "wikilink")。據報導，片商也曾和[班·艾佛列克進行過討論](https://zh.wikipedia.org/wiki/班·艾佛列克 "wikilink")，而辛密克斯則因無法騰出他的工作時間表而放棄\[272\]。4月，影片確定由[約翰·戴利和](../Page/約翰·戴利.md "wikilink")[強納森·高斯汀執導](https://zh.wikipedia.org/wiki/強納森·高斯汀 "wikilink")。擔當聯合編劇\[273\]，隨後[賽斯·葛雷恩·史密斯](../Page/賽斯·葛雷恩·史密斯.md "wikilink")、亦參與撰寫劇本\[274\]。影片原定於2020年上映，片名改回《閃電俠》（*The
+Flash*），原計劃2019年2月至5月開機拍攝，拍攝地點包含[亞特蘭大和](https://zh.wikipedia.org/wiki/亞特蘭大 "wikilink")[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")\[275\]\[276\]\[277\]\[278\]。由於劇本原因，製作日期被推遲至2019年下半年。2019年2月，約翰·戴利、強納森·高斯汀繼續修改完善劇本，伊薩·米勒透露劇情將涉及[神速力的](../Page/神速力.md "wikilink")[多元宇宙](https://zh.wikipedia.org/wiki/多元宇宙 "wikilink")\[279\]。電影的整體基調與《[回到未來](https://zh.wikipedia.org/wiki/回到未來 "wikilink")》類似\[280\]\[281\]\[282\]\[283\]。報道稱《閃電俠》計劃於2021年上映\[284\]。
 
 ### 《水行俠2》（2022年）
 
-2018年12月，鑒於《[水行俠](https://zh.wikipedia.org/wiki/水行俠_\(電影\) "wikilink")》取得的優異票房和正面好評，[華納兄弟宣佈影片的續集正在開發中](https://zh.wikipedia.org/wiki/華納兄弟 "wikilink")\[282\]。早在2018年10月，導演[溫子仁表示第一部電影已為後續的故事預留了空間](../Page/溫子仁.md "wikilink")\[283\]。[傑森·摩莫亞稍後透露已有關於續集的想法](https://zh.wikipedia.org/wiki/傑森·摩莫亞 "wikilink")，並透過艾默瑞奇和向華納傳達了此事並被採用\[284\]。
+2018年12月，鑒於《[水行俠](https://zh.wikipedia.org/wiki/水行俠_\(電影\) "wikilink")》取得的優異票房和正面好評，[華納兄弟宣佈影片的續集正在開發中](https://zh.wikipedia.org/wiki/華納兄弟 "wikilink")\[285\]。早在2018年10月，導演[溫子仁表示第一部電影已為後續的故事預留了空間](../Page/溫子仁.md "wikilink")\[286\]。[傑森·摩莫亞稍後透露已有關於續集的想法](https://zh.wikipedia.org/wiki/傑森·摩莫亞 "wikilink")，並透過艾默瑞奇和向華納傳達了此事並被採用\[287\]。
 
-2019年1月，華納正式確認開發影片續集，並有意繼續延請溫子仁擔任導演\[285\]。2月，首部電影的聯合編劇確認繼續為續集撰寫劇本\[286\]。《水行俠2》計劃於2022年12月16日上映\[287\]。
+2019年1月，華納正式確認開發影片續集，並有意繼續延請溫子仁擔任導演\[288\]。2月，首部電影的聯合編劇確認繼續為續集撰寫劇本\[289\]。《水行俠2》計劃於2022年12月16日上映\[290\]。
 
 ## 未來計劃
 
@@ -400,9 +400,9 @@ Squad*），[詹姆斯·岡恩確認執導影片](../Page/詹姆斯·岡恩.md "
 </tr>
 <tr class="even">
 <td><p>《<a href="https://zh.wikipedia.org/wiki/#《黑亞當》" title="wikilink">黑亞當</a>》</p></td>
+<td><p><a href="../Page/贊美·哥勒-施拉.md" title="wikilink">贊美·哥勒-施拉</a></p></td>
 <td></td>
-<td></td>
-<td><p><a href="../Page/巨石強森.md" title="wikilink">巨石強森</a>、</p></td>
+<td><p>、<a href="../Page/巨石強森.md" title="wikilink">巨石強森</a>、、丹妮·加西亞、史考特·謝爾頓</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -435,7 +435,7 @@ Squad*），[詹姆斯·岡恩確認執導影片](../Page/詹姆斯·岡恩.md "
 <td></td>
 <td><p>、</p></td>
 <td></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/格雷格·勃蘭蒂" title="wikilink">格雷格·勃蘭蒂</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -519,6 +519,14 @@ Squad*），[詹姆斯·岡恩確認執導影片](../Page/詹姆斯·岡恩.md "
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/#《神力女超人1984》續集" title="wikilink">《神力女超人1984》續集</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>《<a href="https://zh.wikipedia.org/wiki/#《海溝族》" title="wikilink">海溝族</a>》</p></td>
 <td></td>
 <td><p>諾亞·加德納、艾丹·費茲傑羅</p></td>
@@ -526,7 +534,7 @@ Squad*），[詹姆斯·岡恩確認執導影片](../Page/詹姆斯·岡恩.md "
 <td><p><a href="../Page/溫子仁.md" title="wikilink">溫子仁</a>、</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>《<a href="https://zh.wikipedia.org/wiki/#《沙贊！2》" title="wikilink">沙贊！2</a>》</p></td>
 <td><p><a href="../Page/大衛·F·桑德柏格.md" title="wikilink">大衛·F·桑德柏格</a></p></td>
 <td><p>亨利·蓋登</p></td>
@@ -539,94 +547,98 @@ Squad*），[詹姆斯·岡恩確認執導影片](../Page/詹姆斯·岡恩.md "
 
 ### 《暴狼》
 
-2009年9月，華納宣佈將關於[暴狼的電影](../Page/暴狼.md "wikilink")，並曾與導演[蓋·瑞奇和](https://zh.wikipedia.org/wiki/蓋·瑞奇 "wikilink")[布萊德·派頓接觸](https://zh.wikipedia.org/wiki/布萊德·派頓 "wikilink")\[288\]\[289\]。最初選定[巨石強森領銜出演標題角色](../Page/巨石強森.md "wikilink")\[290\]\[291\]。主創經過多次更換之後，2016年，被聘為編劇\[292\]。2018年2月，華納宣佈影片將由[麥可·貝執導](../Page/麥可·貝.md "wikilink")。麥可·貝希望能夠控制影片預算，請求傑森·福克斯重寫劇本\[293\]。
+2009年9月，華納宣佈將關於[暴狼的電影](../Page/暴狼.md "wikilink")，並曾與導演[蓋·瑞奇和](https://zh.wikipedia.org/wiki/蓋·瑞奇 "wikilink")[布萊德·派頓接觸](https://zh.wikipedia.org/wiki/布萊德·派頓 "wikilink")\[291\]\[292\]。最初選定[巨石強森領銜出演標題角色](../Page/巨石強森.md "wikilink")\[293\]\[294\]。主創經過多次更換之後，2016年，被聘為編劇\[295\]。2018年2月，華納宣佈影片將由[麥可·貝執導](../Page/麥可·貝.md "wikilink")。麥可·貝希望能夠控制影片預算，請求傑森·福克斯重寫劇本\[296\]。
 
 ### 《黑暗正義聯盟》
 
 2012年11月有傳言指出，[葛雷摩·戴托羅將負責](https://zh.wikipedia.org/wiki/葛雷摩·戴托羅 "wikilink")[黑暗正義聯盟電影版的劇本寫作](../Page/黑暗正義聯盟.md "wikilink")，名稱題為《Heaven
-Sent》。片中登場人物包含、[幽靈](https://zh.wikipedia.org/wiki/幽靈_\(DC漫畫\) "wikilink")、[沼澤異形](../Page/沼澤異形.md "wikilink")、[約翰·康斯坦汀](../Page/約翰·康斯坦汀.md "wikilink")、、[扎坦娜](../Page/扎坦娜.md "wikilink")、、和\[294\]。戴托羅在2013年1月後來證實，電影的暫定名為《Dark
-Universe》，並開始在聘請編劇。2013年3月，葛雷摩·戴托羅在2013WonderCon發表了一部新電影，為《[環太平洋](https://zh.wikipedia.org/wiki/環太平洋_\(電影\) "wikilink")》。他透露，這個故事完全是聖經，他希望能盡快開始劇本。而他下一個項目就要開始拍攝《[腥紅山莊](https://zh.wikipedia.org/wiki/腥紅山莊 "wikilink")》。本片的故事將圍繞著約翰·康斯坦汀和他招集沼澤異形、惡魔伊特萊根、死俠、幽靈和扎坦娜等人的過程上。這部電影不會是一個起源故事，劇中每個角色都已出道，他們的背景故事會在電影中提及。\[295\]。戴托羅還透露，將出現在影片中\[296\]。2013年5月，戴托羅透露，他腳本的特色是以康斯坦汀、沼澤異形、、死俠和扎坦娜為團隊成員，並加上其他「團體」。他還透露，他還在等待[華納兄弟影業准許拍攝](https://zh.wikipedia.org/wiki/華納兄弟 "wikilink")。\[297\]。戴托羅在2013年7月接受MTV的採訪中提到，他希望各個改編自DC漫畫的電影，如最近的《[超人：鋼鐵英雄](https://zh.wikipedia.org/wiki/超人：鋼鐵英雄 "wikilink")》可以發展成像[漫威電影宇宙一樣的](https://zh.wikipedia.org/wiki/漫威電影宇宙 "wikilink")「DC電影宇宙」，他補充說，他會試著在片中提及各部電影的連貫性，如果有必要的話\[298\]。2015年6月底，據報導，戴托羅已退出該項目\[299\]。[道格·李曼後來於](../Page/道格·李曼.md "wikilink")2016年8月被找來擔任導演。2017年5月，由於李曼的檔期調度衝突，而退出導演一職；這使得華納兄弟公司改接洽其他人選，如[安迪·馬希提](../Page/安迪·馬希提.md "wikilink")\[300\]。2017年8月，據報傑拉德·約翰斯頓正與[丹尼爾·伊斯皮諾薩競爭導演一職](https://zh.wikipedia.org/wiki/丹尼爾·伊斯皮諾薩 "wikilink")，同時傑拉德·約翰斯頓為本片重寫劇本\[301\]。9月，[安迪·馬希提確認退出導演競爭](../Page/安迪·馬希提.md "wikilink")，華納將考慮由[達米安·斯茲弗隆接手這個項目](https://zh.wikipedia.org/wiki/達米安·斯茲弗隆 "wikilink")\[302\]。
+Sent》。片中登場人物包含、[幽靈](https://zh.wikipedia.org/wiki/幽靈_\(DC漫畫\) "wikilink")、[沼澤異形](../Page/沼澤異形.md "wikilink")、[約翰·康斯坦汀](../Page/約翰·康斯坦汀.md "wikilink")、、[扎坦娜](../Page/扎坦娜.md "wikilink")、、和\[297\]。戴托羅在2013年1月後來證實，電影的暫定名為《Dark
+Universe》，並開始在聘請編劇。2013年3月，葛雷摩·戴托羅在2013WonderCon發表了一部新電影，為《[環太平洋](https://zh.wikipedia.org/wiki/環太平洋_\(電影\) "wikilink")》。他透露，這個故事完全是聖經，他希望能盡快開始劇本。而他下一個項目就要開始拍攝《[腥紅山莊](https://zh.wikipedia.org/wiki/腥紅山莊 "wikilink")》。本片的故事將圍繞著約翰·康斯坦汀和他招集沼澤異形、惡魔伊特萊根、死俠、幽靈和扎坦娜等人的過程上。這部電影不會是一個起源故事，劇中每個角色都已出道，他們的背景故事會在電影中提及。\[298\]。戴托羅還透露，將出現在影片中\[299\]。2013年5月，戴托羅透露，他腳本的特色是以康斯坦汀、沼澤異形、、死俠和扎坦娜為團隊成員，並加上其他「團體」。他還透露，他還在等待[華納兄弟影業准許拍攝](https://zh.wikipedia.org/wiki/華納兄弟 "wikilink")。\[300\]。戴托羅在2013年7月接受MTV的採訪中提到，他希望各個改編自DC漫畫的電影，如最近的《[超人：鋼鐵英雄](https://zh.wikipedia.org/wiki/超人：鋼鐵英雄 "wikilink")》可以發展成像[漫威電影宇宙一樣的](https://zh.wikipedia.org/wiki/漫威電影宇宙 "wikilink")「DC電影宇宙」，他補充說，他會試著在片中提及各部電影的連貫性，如果有必要的話\[301\]。2015年6月底，據報導，戴托羅已退出該項目\[302\]。[道格·李曼後來於](../Page/道格·李曼.md "wikilink")2016年8月被找來擔任導演。2017年5月，由於李曼的檔期調度衝突，而退出導演一職；這使得華納兄弟公司改接洽其他人選，如[安迪·馬希提](../Page/安迪·馬希提.md "wikilink")\[303\]。2017年8月，據報傑拉德·約翰斯頓正與[丹尼爾·伊斯皮諾薩競爭導演一職](https://zh.wikipedia.org/wiki/丹尼爾·伊斯皮諾薩 "wikilink")，同時傑拉德·約翰斯頓為本片重寫劇本\[304\]。9月，[安迪·馬希提確認退出導演競爭](../Page/安迪·馬希提.md "wikilink")，華納將考慮由[達米安·斯茲弗隆接手這個項目](https://zh.wikipedia.org/wiki/達米安·斯茲弗隆 "wikilink")\[305\]。
 
 ### 《鋼骨》
 
 2014年4月，[雷·費雪確定出演](../Page/雷·費雪.md "wikilink")[維克多·史東 /
-鋼骨](../Page/鋼骨_\(漫畫\).md "wikilink")\[303\]。2017年8月中旬，據報導，曾簽下三部DC擴展宇宙電影（前兩部為《[蝙蝠俠對超人：正義曙光](https://zh.wikipedia.org/wiki/蝙蝠俠對超人：正義曙光 "wikilink")》及《正義聯盟》）片約的將回歸在該片中飾演維克多·史東之父賽拉斯·史東博士（）\[304\]。同年11月，[雷·費雪表示該片尚在前期規畫階段](../Page/雷·費雪.md "wikilink")，並透露，其劇情將以一種貼近的視角來-{聚焦}-在主角身上，如此觀眾才不會疑惑其他正義聯盟的成員為什麼沒出現\[305\]\[306\]。他亦表示，《鋼骨》的劇組成員將非常多元化\[307\]。該片將於2020年4月3日上映\[308\]。但是可以確信製作計劃被延期\[309\]。
+鋼骨](../Page/鋼骨_\(漫畫\).md "wikilink")\[306\]。2017年8月中旬，據報導，曾簽下三部DC擴展宇宙電影（前兩部為《[蝙蝠俠對超人：正義曙光](https://zh.wikipedia.org/wiki/蝙蝠俠對超人：正義曙光 "wikilink")》及《正義聯盟》）片約的將回歸在該片中飾演維克多·史東之父賽拉斯·史東博士（）\[307\]。同年11月，[雷·費雪表示該片尚在前期規畫階段](../Page/雷·費雪.md "wikilink")，並透露，其劇情將以一種貼近的視角來-{聚焦}-在主角身上，如此觀眾才不會疑惑其他正義聯盟的成員為什麼沒出現\[308\]\[309\]。他亦表示，《鋼骨》的劇組成員將非常多元化\[310\]。該片將於2020年4月3日上映\[311\]。但是可以確信製作計劃被延期\[312\]。
 
 ### 《黑亞當》
 
-2014年9月，原定出演[沙贊或](https://zh.wikipedia.org/wiki/驚奇隊長_\(DC漫畫\) "wikilink")[暴狼的](../Page/暴狼.md "wikilink")[巨石強森被選定出演](../Page/巨石強森.md "wikilink")[黑亞當](../Page/黑亞當.md "wikilink")\[310\]\[311\]。該角色最初設定於2019年電影《[沙贊！](https://zh.wikipedia.org/wiki/沙贊！_\(電影\) "wikilink")》中登場。2017年7月，華納兄弟確認黑亞當不會出現在電影《沙贊！》中。強森同時擔當影片監製，他表示電影《黑亞當》將與《沙贊！》同步雙線發展\[312\]，DC漫畫的其他角色將出現於電影《黑亞當》中\[313\]\[314\]。10月，開始執筆創作劇本\[315\]。聯合製片人之一的表示，影片將還原漫畫中的暴力元素\[316\]。2019年2月，劇本接近完成，華納開始尋找導演。影片故事將涉及到初代鷹俠、和\[317\]\[318\]。影片的[主體拍攝計劃於](https://zh.wikipedia.org/wiki/主體拍攝 "wikilink")2019年後期或2020年早期開始\[319\]\[320\]\[321\]。
+2014年9月，原定出演[沙贊或](https://zh.wikipedia.org/wiki/驚奇隊長_\(DC漫畫\) "wikilink")[暴狼的](../Page/暴狼.md "wikilink")[巨石強森被選定出演](../Page/巨石強森.md "wikilink")[黑亞當](../Page/黑亞當.md "wikilink")\[313\]\[314\]。該角色最初設定於2019年電影《[沙贊！](https://zh.wikipedia.org/wiki/沙贊！_\(電影\) "wikilink")》中登場。2017年7月，華納兄弟確認黑亞當不會出現在電影《沙贊！》中。強森同時擔當影片監製，他表示電影《黑亞當》將與《沙贊！》同步雙線發展\[315\]，DC漫畫的其他角色將出現於電影《黑亞當》中\[316\]\[317\]。10月，開始執筆創作劇本\[318\]。聯合製片人之一的表示，影片將還原漫畫中的暴力元素\[319\]。2019年2月，劇本接近完成，華納開始尋找導演。影片故事將涉及到初代鷹俠、和\[320\]\[321\]。2019年6月，華納選定[贊美·哥勒-施拉執導影片](../Page/贊美·哥勒-施拉.md "wikilink")，、[巨石強森](../Page/巨石強森.md "wikilink")、、丹妮·加西亞和史考特·謝爾頓共同擔任監製，影片由華納影業、[新線影業](../Page/新線影業.md "wikilink")、巨石強森的以及比尤·弗林的弗林電影工作室聯合製作\[322\]\[323\]\[324\]。影片的[主體拍攝計劃於](https://zh.wikipedia.org/wiki/主體拍攝 "wikilink")2020年早期開機\[325\]\[326\]\[327\]。
 
 ### 《正義聯盟2》
 
-2014年10月，華納宣佈影片《[正義聯盟](https://zh.wikipedia.org/wiki/正義聯盟_\(電影\) "wikilink")》分為兩部，[查克·史奈德繼續執導影片續集](../Page/查克·史奈德.md "wikilink")\[322\]。透露影片《正義聯盟》不會分拆為兩部\[323\]。影片原定於2019年6月14日發行\[324\]，但是考慮與打算推出的電影《[蝙蝠俠](https://zh.wikipedia.org/wiki/蝙蝠俠_\(2021年電影\) "wikilink")》內容協調一致，發行日期被推遲\[325\]。2017年10月，[J·K·西蒙斯表示影片的劇本正在創作中](../Page/J·K·西蒙斯.md "wikilink")\[326\]。12月，報道稱該項目被擱置\[327\]。2019年，儘管《[神力女超人](https://zh.wikipedia.org/wiki/神力女超人_\(2017年電影\) "wikilink")》系列導演[派蒂·珍金斯有意接手執導影片](../Page/派蒂·珍金斯.md "wikilink")，華納表示優先考慮獨立電影\[328\]\[329\]\[330\]。雖然[班·艾佛列克不會在](https://zh.wikipedia.org/wiki/班·艾佛列克 "wikilink")[麥特·李維斯的電影中出演蝙蝠俠](https://zh.wikipedia.org/wiki/麥特·李維斯 "wikilink")，但他仍然有望在《正義聯盟2》中繼續出演該角色\[331\]。
+2014年10月，華納宣佈影片《[正義聯盟](https://zh.wikipedia.org/wiki/正義聯盟_\(電影\) "wikilink")》分為兩部，[查克·史奈德繼續執導影片續集](../Page/查克·史奈德.md "wikilink")\[328\]。透露影片《正義聯盟》不會分拆為兩部\[329\]。影片原定於2019年6月14日發行\[330\]，但是考慮與打算推出的電影《[蝙蝠俠](https://zh.wikipedia.org/wiki/蝙蝠俠_\(2021年電影\) "wikilink")》內容協調一致，發行日期被推遲\[331\]。2017年10月，[J·K·西蒙斯表示影片的劇本正在創作中](../Page/J·K·西蒙斯.md "wikilink")\[332\]。12月，報道稱該項目被擱置\[333\]。2019年，儘管《[神力女超人](https://zh.wikipedia.org/wiki/神力女超人_\(2017年電影\) "wikilink")》系列導演[派蒂·珍金斯有意接手執導影片](../Page/派蒂·珍金斯.md "wikilink")，華納表示優先考慮獨立電影\[334\]\[335\]\[336\]。雖然[班·艾佛列克不會在](https://zh.wikipedia.org/wiki/班·艾佛列克 "wikilink")[麥特·李維斯的電影中出演蝙蝠俠](https://zh.wikipedia.org/wiki/麥特·李維斯 "wikilink")，但他仍然有望在《正義聯盟2》中繼續出演該角色\[337\]。
 
 ### 《綠光軍團》
 
-2014年10月，華納兄弟宣布將重啟[綠光戰警電影](https://zh.wikipedia.org/wiki/綠光戰警 "wikilink")，用意是為了和《超人：鋼鐵英雄》共通相同的宇宙\[332\]。2015年7月11日，官方片名在[聖地亞哥國際漫畫展上正式公開](https://zh.wikipedia.org/wiki/聖地亞哥國際漫畫展 "wikilink")\[333\]。2017年1月，據報導，[大衛·S·高耶與賈斯汀](../Page/大衛·S·高耶.md "wikilink")·羅德（）將共同編寫劇本。此外，電影將會著重於以[哈爾·喬丹和](https://zh.wikipedia.org/wiki/哈爾·喬丹 "wikilink")[約翰·史都華為首的](../Page/約翰·史都華_\(DC漫畫\).md "wikilink")[綠燈軍團](https://zh.wikipedia.org/wiki/綠燈軍團 "wikilink")\[334\]。2018年1月底，[TheWrap報導](../Page/TheWrap.md "wikilink")，演員[萊恩·雷諾斯](../Page/萊恩·雷諾斯.md "wikilink")（曾在[2011年的綠光戰警電影中飾演哈爾](https://zh.wikipedia.org/wiki/綠光戰警_\(電影\) "wikilink")·喬丹）、[湯姆·克魯斯](https://zh.wikipedia.org/wiki/湯姆·克魯斯 "wikilink")、[喬爾·麥克哈爾](../Page/喬爾·麥克哈爾.md "wikilink")、[布萊德利·庫柏](../Page/布萊德利·庫柏.md "wikilink")、[艾米·漢默與](https://zh.wikipedia.org/wiki/艾米·漢默 "wikilink")[傑克·葛倫霍都是DC正在考慮的哈爾](https://zh.wikipedia.org/wiki/傑克·葛倫霍 "wikilink")·喬丹飾演者\[335\]。同年6月，[傑夫·強斯受聘重寫劇本](../Page/傑夫·強斯.md "wikilink")，其劇情主要源自[新52](../Page/新52.md "wikilink")\[336\]。該片將於2020年7月24日上映\[337\]。但是可以確信製作計劃被延期\[338\]。
+2014年10月，華納兄弟宣布將重啟[綠光戰警電影](https://zh.wikipedia.org/wiki/綠光戰警 "wikilink")，用意是為了和《超人：鋼鐵英雄》共通相同的宇宙\[338\]。2015年7月11日，官方片名在[聖地亞哥國際漫畫展上正式公開](https://zh.wikipedia.org/wiki/聖地亞哥國際漫畫展 "wikilink")\[339\]。2017年1月，據報導，[大衛·S·高耶與賈斯汀](../Page/大衛·S·高耶.md "wikilink")·羅德（）將共同編寫劇本。此外，電影將會著重於以[哈爾·喬丹和](https://zh.wikipedia.org/wiki/哈爾·喬丹 "wikilink")[約翰·史都華為首的](../Page/約翰·史都華_\(DC漫畫\).md "wikilink")[綠燈軍團](https://zh.wikipedia.org/wiki/綠燈軍團 "wikilink")\[340\]。2018年1月底，[TheWrap報導](../Page/TheWrap.md "wikilink")，演員[萊恩·雷諾斯](../Page/萊恩·雷諾斯.md "wikilink")（曾在[2011年的綠光戰警電影中飾演哈爾](https://zh.wikipedia.org/wiki/綠光戰警_\(電影\) "wikilink")·喬丹）、[湯姆·克魯斯](https://zh.wikipedia.org/wiki/湯姆·克魯斯 "wikilink")、[喬爾·麥克哈爾](../Page/喬爾·麥克哈爾.md "wikilink")、[布萊德利·庫柏](../Page/布萊德利·庫柏.md "wikilink")、[艾米·漢默與](https://zh.wikipedia.org/wiki/艾米·漢默 "wikilink")[傑克·葛倫霍都是DC正在考慮的哈爾](https://zh.wikipedia.org/wiki/傑克·葛倫霍 "wikilink")·喬丹飾演者\[341\]。同年6月，[傑夫·強斯受聘重寫劇本](../Page/傑夫·強斯.md "wikilink")，其劇情主要源自[新52](../Page/新52.md "wikilink")\[342\]。該片將於2020年7月24日上映\[343\]。但是可以確信製作計劃被延期\[344\]。
 
 ### 《超人：鋼鐵英雄》續集
 
-2014年10月，[華納兄弟宣布他們已在籌拍](../Page/华纳兄弟.md "wikilink")《[超人：鋼鐵英雄](https://zh.wikipedia.org/wiki/超人：鋼鐵英雄 "wikilink")》的續集，而[亨利·卡維爾也將會回歸飾演](../Page/亨利·卡維爾.md "wikilink")[超人](../Page/超人.md "wikilink")\[339\]。2016年11月，演員[艾美·亞當斯證實劇本正編寫中](https://zh.wikipedia.org/wiki/艾美·亞當斯 "wikilink")\[340\]。2017年9月，[馬修·范恩有意簽約執導該片](https://zh.wikipedia.org/wiki/馬修·范恩 "wikilink")\[341\]\[342\]。
+2014年10月，[華納兄弟宣布他們已在籌拍](../Page/华纳兄弟.md "wikilink")《[超人：鋼鐵英雄](https://zh.wikipedia.org/wiki/超人：鋼鐵英雄 "wikilink")》的續集，而[亨利·卡維爾也將會回歸飾演](../Page/亨利·卡維爾.md "wikilink")[超人](../Page/超人.md "wikilink")\[345\]。2016年11月，演員[艾美·亞當斯證實劇本正編寫中](https://zh.wikipedia.org/wiki/艾美·亞當斯 "wikilink")\[346\]。2017年9月，[馬修·范恩有意簽約執導該片](https://zh.wikipedia.org/wiki/馬修·范恩 "wikilink")\[347\]\[348\]。
 
 ### 《金色先鋒》
 
-2015年9月，華納宣佈開發以[金色先鋒和](https://zh.wikipedia.org/wiki/金色先鋒 "wikilink")[藍甲蟲為主角的影片](https://zh.wikipedia.org/wiki/藍甲蟲 "wikilink")，由擔當監製\[343\]。2016年5月，接替重寫劇本\[344\]\[345\]。經過數年開發，報道稱格雷格·勃蘭蒂與華納商議，希望能夠擔當導演\[346\]\[347\]。2018年3月，聯合編劇之一的格雷格·勃蘭蒂表示劇本已經創作完成，一旦華納決定繼續開發影片，即可進入製作階段\[348\]。
+2015年9月，華納宣佈開發以[金色先鋒和](https://zh.wikipedia.org/wiki/金色先鋒 "wikilink")[藍甲蟲為主角的影片](https://zh.wikipedia.org/wiki/藍甲蟲 "wikilink")，由[格雷格·勃蘭蒂擔當監製](https://zh.wikipedia.org/wiki/格雷格·勃蘭蒂 "wikilink")\[349\]。2016年5月，接替重寫劇本\[350\]\[351\]。經過數年開發，報道稱格雷格·勃蘭蒂與華納商議，希望能夠擔當導演\[352\]\[353\]。2018年3月，聯合編劇之一的格雷格·勃蘭蒂表示劇本已經創作完成，一旦華納決定繼續開發影片，即可進入製作階段\[354\]。
 
 ### 《高譚魅影》
 
-2016年5月，據傳華納兄弟打算推出[小丑女的獨立電影](../Page/哈莉·奎茵.md "wikilink")，並加入[貓女](https://zh.wikipedia.org/wiki/貓女 "wikilink")、[毒藤女等其他DC女性角色](../Page/毒藤女.md "wikilink")。[瑪格·羅比將回歸飾演小丑女](https://zh.wikipedia.org/wiki/瑪格·羅比 "wikilink")\[349\]。2016年12月，片名定為《Gotham
+2016年5月，據傳華納兄弟打算推出[小丑女的獨立電影](../Page/哈莉·奎茵.md "wikilink")，並加入[貓女](https://zh.wikipedia.org/wiki/貓女 "wikilink")、[毒藤女等其他DC女性角色](../Page/毒藤女.md "wikilink")。[瑪格·羅比將回歸飾演小丑女](https://zh.wikipedia.org/wiki/瑪格·羅比 "wikilink")\[355\]。2016年12月，片名定為《Gotham
 City
-Sirens》，《[自殺突擊隊](https://zh.wikipedia.org/wiki/自殺突擊隊_\(電影\) "wikilink")》的導演[大衛·艾亞回歸執導該片](https://zh.wikipedia.org/wiki/大衛·艾亞 "wikilink")，吉尼瓦·羅柏森-德沃特（）擔任編劇，劇情改編自\[350\]。2017年8月，[傑瑞德·雷托確認繼續出演](https://zh.wikipedia.org/wiki/傑瑞德·雷托 "wikilink")[小丑](../Page/小丑_\(角色\).md "wikilink")\[351\]。
+Sirens》，《[自殺突擊隊](https://zh.wikipedia.org/wiki/自殺突擊隊_\(電影\) "wikilink")》的導演[大衛·艾亞回歸執導該片](https://zh.wikipedia.org/wiki/大衛·艾亞 "wikilink")，吉尼瓦·羅柏森-德沃特（）擔任編劇，劇情改編自\[356\]。2017年8月，[傑瑞德·雷托確認繼續出演](https://zh.wikipedia.org/wiki/傑瑞德·雷托 "wikilink")[小丑](../Page/小丑_\(角色\).md "wikilink")\[357\]。
 
 ### 《死亡射手》
 
-2016年12月，據透露，[死亡射手有望推出獨立電影](../Page/死亡射手.md "wikilink")，作為2016年電影《[自殺突擊隊](https://zh.wikipedia.org/wiki/自殺突擊隊_\(電影\) "wikilink")》的衍生影片\[352\]。2018年9月，[威爾·史密斯確認回歸出演死亡射手](../Page/威爾·史密斯.md "wikilink")\[353\]\[354\]。
+2016年12月，據透露，[死亡射手有望推出獨立電影](../Page/死亡射手.md "wikilink")，作為2016年電影《[自殺突擊隊](https://zh.wikipedia.org/wiki/自殺突擊隊_\(電影\) "wikilink")》的衍生影片\[358\]。2018年9月，[威爾·史密斯確認回歸出演死亡射手](../Page/威爾·史密斯.md "wikilink")\[359\]\[360\]。
 
 ### 《夜翼》
 
-2017年2月，華納兄弟正在計劃一部[夜翼的獨立電影](https://zh.wikipedia.org/wiki/夜翼 "wikilink")，由[克里斯·麥凱擔任導演](../Page/克里斯·麥凱.md "wikilink")，撰寫劇本\[355\]。2018年2月，克里斯·麥凱表示基本接近完成\[356\]。
+2017年2月，華納兄弟正在計劃一部[夜翼的獨立電影](https://zh.wikipedia.org/wiki/夜翼 "wikilink")，由[克里斯·麥凱擔任導演](../Page/克里斯·麥凱.md "wikilink")，撰寫劇本\[361\]。2018年2月，克里斯·麥凱表示基本接近完成\[362\]。
 
 ### 《蝙蝠女》
 
 2017年3月，[喬斯·溫登受聘執導](../Page/喬斯·溫登.md "wikilink")、編劇和監製[芭芭拉·高登 /
-蝙蝠女的獨立電影](https://zh.wikipedia.org/wiki/芭芭拉·高登 "wikilink")\[357\]。《[娛樂周刊](https://zh.wikipedia.org/wiki/娛樂周刊 "wikilink")》報導，該片的靈感將取自[新52的設定](../Page/新52.md "wikilink")\[358\]。4月，溫登表示，蝙蝠女是個守法者，且不會有像蝙蝠俠那樣的童年悲劇，而是探討角色本身的缺陷\[359\]。2018年2月22日，溫登退出該片的導演和編劇，表示自己「想不出一個好的故事」\[360\]。4月，由於[華納滿意](https://zh.wikipedia.org/wiki/華納兄弟 "wikilink")[克莉絲汀·哈德森所創作的](../Page/克莉絲汀·哈德森.md "wikilink")《[猛禽小隊](https://zh.wikipedia.org/wiki/猛禽小隊_\(電影\) "wikilink")》劇本，繼續延請克莉絲汀·哈德森為《蝙蝠女》撰寫劇本\[361\]。華納積極尋求女導演替代喬斯·溫登執導影片\[362\]。
+蝙蝠女的獨立電影](https://zh.wikipedia.org/wiki/芭芭拉·高登 "wikilink")\[363\]。《[娛樂周刊](https://zh.wikipedia.org/wiki/娛樂周刊 "wikilink")》報導，該片的靈感將取自[新52的設定](../Page/新52.md "wikilink")\[364\]。4月，溫登表示，蝙蝠女是個守法者，且不會有像蝙蝠俠那樣的童年悲劇，而是探討角色本身的缺陷\[365\]。2018年2月22日，溫登退出該片的導演和編劇，表示自己「想不出一個好的故事」\[366\]。4月，由於[華納滿意](https://zh.wikipedia.org/wiki/華納兄弟 "wikilink")[克莉絲汀·哈德森所創作的](../Page/克莉絲汀·哈德森.md "wikilink")《[猛禽小隊](https://zh.wikipedia.org/wiki/猛禽小隊_\(電影\) "wikilink")》劇本，繼續延請克莉絲汀·哈德森為《蝙蝠女》撰寫劇本\[367\]。華納積極尋求女導演替代喬斯·溫登執導影片\[368\]。
 
 ### 未命名哈莉·奎茵與小丑電影
 
-2017年7月底，據報導，華納兄弟正在籌拍一部由哈莉·奎茵與小丑當主角的電影\[363\]。與於2018年9月簽約執導、編劇及監製該片\[364\]\[365\]。
+2017年7月底，據報導，華納兄弟正在籌拍一部由哈莉·奎茵與小丑當主角的電影\[369\]。與於2018年9月簽約執導、編劇及監製該片\[370\]\[371\]。
 
 ### 《喪鐘》
 
-2017年10月，據[TheWrap報導](../Page/TheWrap.md "wikilink")，[喪鐘的獨立電影正在計劃中](../Page/喪鐘_\(漫畫\).md "wikilink")，《[全面突襲](https://zh.wikipedia.org/wiki/全面突襲 "wikilink")》導演[蓋瑞斯·艾文斯有望擔任導演及編劇](https://zh.wikipedia.org/wiki/蓋瑞斯·艾文斯 "wikilink")，而[喬·曼格尼洛也將會是主演](https://zh.wikipedia.org/wiki/喬·曼格尼洛 "wikilink")\[366\]。2018年10月，蓋瑞斯·艾文斯表示仍未於華納簽約\[367\]。
+2017年10月，據[TheWrap報導](../Page/TheWrap.md "wikilink")，[喪鐘的獨立電影正在計劃中](../Page/喪鐘_\(漫畫\).md "wikilink")，《[全面突襲](https://zh.wikipedia.org/wiki/全面突襲 "wikilink")》導演[蓋瑞斯·艾文斯有望擔任導演及編劇](https://zh.wikipedia.org/wiki/蓋瑞斯·艾文斯 "wikilink")，而[喬·曼格尼洛也將會是主演](https://zh.wikipedia.org/wiki/喬·曼格尼洛 "wikilink")\[372\]。2018年10月，蓋瑞斯·艾文斯表示仍未於華納簽約\[373\]。
 
 ### 未命名小丑電影
 
-2018年6月，一部關於[小丑的電影正在前期開發](../Page/小丑_\(角色\).md "wikilink")。[傑瑞德·雷托擔當執行製片人](https://zh.wikipedia.org/wiki/傑瑞德·雷托 "wikilink")，並繼續領銜出演小丑\[368\]。
+2018年6月，一部關於[小丑的電影正在前期開發](../Page/小丑_\(角色\).md "wikilink")。[傑瑞德·雷托擔當執行製片人](https://zh.wikipedia.org/wiki/傑瑞德·雷托 "wikilink")，並繼續領銜出演小丑\[374\]。
 
 ### 《超級少女》
 
 2018年8月，據報導，一部由[超級少女
-/卡拉·佐·艾爾為主角的電影正在籌拍中](https://zh.wikipedia.org/wiki/超級少女_\(卡拉·佐·艾爾\) "wikilink")\[369\]\[370\]。該片將由奧倫·尤茲爾（）編劇，而華納兄弟正在尋找一名女導演來執導該片\[371\]\[372\]\[373\]\[374\]。
+/卡拉·佐·艾爾為主角的電影正在籌拍中](https://zh.wikipedia.org/wiki/超級少女_\(卡拉·佐·艾爾\) "wikilink")\[375\]\[376\]。該片將由奧倫·尤茲爾（）編劇，而華納兄弟正在尋找一名女導演來執導該片\[377\]\[378\]\[379\]\[380\]。
 
 ### 《藍甲蟲》
 
 2018年11月，華納宣佈開發以第三代[藍甲蟲](https://zh.wikipedia.org/wiki/藍甲蟲 "wikilink")[海梅·雷耶斯為主角的影片](../Page/海梅·雷耶斯.md "wikilink")，由加雷斯·鄧內特-阿爾科塞（Gareth
-Dunnet-Alcocer）執筆劇本，齊夫·福爾曼（Zev Foreman）擔當執行製片人\[375\]。
+Dunnet-Alcocer）執筆劇本，齊夫·福爾曼（Zev Foreman）擔當執行製片人\[381\]。
 
 ### 《塑膠人》
 
 2018年12月，華納宣佈開發以為主角的影片，聘請新人編劇阿曼達·伊杜庫（Amanda
-Idoko）執筆劇本。影片類型為[喜劇](../Page/喜劇.md "wikilink")[動作](../Page/動作片.md "wikilink")[冒險片](https://zh.wikipedia.org/wiki/冒險片 "wikilink")\[376\]。
+Idoko）執筆劇本。影片類型為[喜劇](../Page/喜劇.md "wikilink")[動作](../Page/動作片.md "wikilink")[冒險片](https://zh.wikipedia.org/wiki/冒險片 "wikilink")\[382\]。
+
+### 《神力女超人1984》續集
+
+2019年1月，在《神力女超人1984》殺青之後，導演兼聯合編劇[派蒂·珍金斯表示](../Page/派蒂·珍金斯.md "wikilink")，已經確定神力女超人系列電影的第三部的故事大綱。她透露已經設計了超過三部影片的故事情節，相較於《神力女超人1984》，第三部的背景將設定在更為現代的時期\[383\]\[384\]。
 
 ### 《海溝族》
 
 2019年2月，華納宣佈製作2018年電影《[水行俠](https://zh.wikipedia.org/wiki/水行俠_\(電影\) "wikilink")》的衍生影片《海溝族》，該影片是一部以為主角的[恐怖片](https://zh.wikipedia.org/wiki/恐怖片 "wikilink")。[溫子仁和](../Page/溫子仁.md "wikilink")繼續擔任監製，由新人編劇諾亞·加德納（Noah
 Gardner）和艾丹·費茲傑羅（Aidan
-Fitzgerald）創作劇本。該影片的預算低於其他基於DC漫畫製作的電影\[377\]。3月，監製彼得·沙佛朗表示希望《海溝族》能夠在《水行俠2》之前上映\[378\]。
+Fitzgerald）創作劇本。該影片的預算低於其他基於DC漫畫製作的電影\[385\]。3月，監製彼得·沙佛朗表示希望《海溝族》能夠在《水行俠2》之前上映\[386\]。
 
 ### 《沙贊！2》
 
-電影《[沙贊！](https://zh.wikipedia.org/wiki/沙贊！_\(電影\) "wikilink")》取得成功之後，2019年4月，華納宣佈開發影片續集。亨利·蓋登繼續執筆劇本，[大衛·F·桑德柏格有望回歸執導影片](../Page/大衛·F·桑德柏格.md "wikilink")，有望繼續擔當影片監製\[379\]。[馬克·史壯繼續出演](../Page/馬克·史壯.md "wikilink")[希瓦納博士](../Page/希瓦納博士.md "wikilink")\[380\]。與華納簽訂了五部電影的片約，她將繼續出演\[381\]。
+電影《[沙贊！](https://zh.wikipedia.org/wiki/沙贊！_\(電影\) "wikilink")》取得成功之後，2019年4月，華納宣佈開發影片續集。亨利·蓋登繼續執筆劇本，[大衛·F·桑德柏格有望回歸執導影片](../Page/大衛·F·桑德柏格.md "wikilink")，有望繼續擔當影片監製\[387\]。[馬克·史壯繼續出演](../Page/馬克·史壯.md "wikilink")[希瓦納博士](../Page/希瓦納博士.md "wikilink")\[388\]。與華納簽訂了五部電影的片約，她將繼續出演\[389\]。
 
 ## 音樂
 
@@ -680,7 +692,7 @@ Fitzgerald）創作劇本。該影片的預算低於其他基於DC漫畫製作�
 </tr>
 <tr class="even">
 <td><p><a href="../Page/水行俠_(原聲帶).md" title="wikilink">水行俠 (原聲帶)</a></p></td>
-<td><p>[382][383]</p></td>
+<td><p>[390][391]</p></td>
 <td><p>65:02</p></td>
 <td></td>
 <td></td>
@@ -803,18 +815,18 @@ Fitzgerald）創作劇本。該影片的預算低於其他基於DC漫畫製作�
 
 | 電影            | [爛番茄](../Page/爛番茄.md "wikilink") | [Metacritic](../Page/Metacritic.md "wikilink") | [CinemaScore](https://zh.wikipedia.org/wiki/CinemaScore "wikilink") |
 | ------------- | -------------------------------- | ---------------------------------------------- | ------------------------------------------------------------------- |
-| 《超人：鋼鐵英雄》     | 56%（318篇評論）\[384\]               | 55（47篇評論）\[385\]                               | A–\[386\]                                                           |
-| 《蝙蝠俠對超人：正義曙光》 | 27%（399篇評論）\[387\]               | 44（51篇評論）\[388\]                               | B\[389\]                                                            |
-| 《自殺突擊隊》       | 27%（349篇評論）\[390\]               | 40（53篇評論）\[391\]                               | B+\[392\]                                                           |
-| 《神力女超人》       | 93% （410篇評論）\[393\]              | 76（50篇評論）\[394\]                               | A\[395\]                                                            |
-| 《正義聯盟》        | 40%（353篇評論）\[396\]               | 45（52篇評論）\[397\]                               | B+\[398\]                                                           |
-| 《水行俠》         | 64%（316篇評論）\[399\]               | 55（49篇評論）\[400\]                               | A–\[401\]                                                           |
+| 《超人：鋼鐵英雄》     | 56%（318篇評論）\[392\]               | 55（47篇評論）\[393\]                               | A–\[394\]                                                           |
+| 《蝙蝠俠對超人：正義曙光》 | 27%（399篇評論）\[395\]               | 44（51篇評論）\[396\]                               | B\[397\]                                                            |
+| 《自殺突擊隊》       | 27%（349篇評論）\[398\]               | 40（53篇評論）\[399\]                               | B+\[400\]                                                           |
+| 《神力女超人》       | 93% （410篇評論）\[401\]              | 76（50篇評論）\[402\]                               | A\[403\]                                                            |
+| 《正義聯盟》        | 40%（353篇評論）\[404\]               | 45（52篇評論）\[405\]                               | B+\[406\]                                                           |
+| 《水行俠》         | 64%（316篇評論）\[407\]               | 55（49篇評論）\[408\]                               | A–\[409\]                                                           |
 |               |                                  |                                                |                                                                     |
 | **平均**        | 51%                              | 53                                             | A-                                                                  |
 
 ### 榮譽
 
-《自殺突擊隊》在[第89屆奧斯卡金像獎贏得了](https://zh.wikipedia.org/wiki/第89屆奧斯卡金像獎 "wikilink")[奧斯卡最佳化妝與髮型設計獎](https://zh.wikipedia.org/wiki/奧斯卡最佳化妝與髮型設計獎 "wikilink")\[402\]
+《自殺突擊隊》在[第89屆奧斯卡金像獎贏得了](https://zh.wikipedia.org/wiki/第89屆奧斯卡金像獎 "wikilink")[奧斯卡最佳化妝與髮型設計獎](https://zh.wikipedia.org/wiki/奧斯卡最佳化妝與髮型設計獎 "wikilink")\[410\]
 
 ## 其他媒體
 
@@ -839,7 +851,7 @@ Man of Steel Prequel</p></td>
 <td><p>2013年5月18日</p></td>
 <td></td>
 <td></td>
-<td><p>[403]</p></td>
+<td><p>[411]</p></td>
 </tr>
 <tr class="even">
 <td><p>蝙蝠俠對超人：正義曙光前傳<br />
@@ -848,7 +860,7 @@ Batman v Superman: Dawn of Justice Prequel</p></td>
 <td><p>2016年2月3日</p></td>
 <td></td>
 <td></td>
-<td><p>[404]</p></td>
+<td><p>[412]</p></td>
 </tr>
 <tr class="odd">
 <td><p>通用磨坊出品 蝙蝠俠對超人：正義曙光<br />
@@ -857,7 +869,7 @@ General Mills Presents Batman v Superman: Dawn of Justice</p></td>
 <td><p>2016年2月28日</p></td>
 <td><p>、、瑪格莉特·貝內特和喬書亞·威廉姆森</p></td>
 <td><p>R·B·席爾瓦、費德里科·達洛基奧、和愛德華多·潘希卡</p></td>
-<td><p>[405]</p></td>
+<td><p>[413]</p></td>
 </tr>
 <tr class="even">
 <td><p>多力多滋單集漫畫：蝙蝠俠對超人-高點／低點<br />
@@ -866,7 +878,7 @@ Doritos One-Shot: Batman v Superman – Upstairs/Downstairs</p></td>
 <td><p>2016年2月29日</p></td>
 <td><p>克里斯托·蓋奇</p></td>
 <td><p>喬·貝內特</p></td>
-<td><p>[406]</p></td>
+<td><p>[414]</p></td>
 </tr>
 <tr class="odd">
 <td><p>自殺突擊隊：自殺金髮女<br />
@@ -875,7 +887,7 @@ Suicide Squad – Suicide Blonde</p></td>
 <td><p>2016年6月2日</p></td>
 <td></td>
 <td><p>湯姆·迪爾尼克、胡安·阿爾巴朗、Hi-Fi和洛瑞·傑克森</p></td>
-<td><p>[407]</p></td>
+<td><p>[415]</p></td>
 </tr>
 <tr class="even">
 <td><p>賓士出品 正義聯盟<br />
@@ -884,7 +896,7 @@ Mercedes-Benz Presents: Justice League</p></td>
 <td><p>2017年10月20日～2017年11月15日</p></td>
 <td><p>亞當·斯拉格曼</p></td>
 <td><p>傑森·貝陶爾</p></td>
-<td><p>[408]</p></td>
+<td><p>[416]</p></td>
 </tr>
 </tbody>
 </table>
@@ -909,7 +921,7 @@ Man of Steel: The Early Years: Junior Novel</p></td>
 <td><p>法蘭克·懷特曼<br />
 Frank Whitman</p></td>
 <td><p>搭配《超人：鋼鐵英雄》的童書。</p></td>
-<td><p>[409]</p></td>
+<td><p>[417]</p></td>
 </tr>
 <tr class="even">
 <td><p>超人鋼鐵英雄：朋友與敵人<br />
@@ -918,7 +930,7 @@ Man of Steel: Friends and Foes</p></td>
 <td><p>露西·羅森<br />
 Lucy Rosen</p></td>
 <td><p>搭配《超人：鋼鐵英雄》的童書。</p></td>
-<td><p>[410]</p></td>
+<td><p>[418]</p></td>
 </tr>
 <tr class="odd">
 <td><p>超人鋼鐵英雄：官方電影小說<br />
@@ -927,7 +939,7 @@ Man of Steel: The Official Movie Novelization</p></td>
 <td><p>葛雷格·考克斯<br />
 Greg Cox</p></td>
 <td><p>《超人：鋼鐵英雄》小說化。</p></td>
-<td><p>[411]</p></td>
+<td><p>[419]</p></td>
 </tr>
 <tr class="even">
 <td><p>蝙蝠俠對超人：正義曙光-交火<br />
@@ -936,7 +948,7 @@ Batman v Superman: Dawn of Justice – Cross Fire</p></td>
 <td><p>麥可·克格爾<br />
 Michael Kogge</p></td>
 <td><p>搭配《蝙蝠俠對超人：正義曙光》的前傳小說。</p></td>
-<td><p>[412]</p></td>
+<td><p>[420]</p></td>
 </tr>
 <tr class="odd">
 <td><p>自殺突擊隊：官方電影小說<br />
@@ -945,7 +957,7 @@ Suicide Squad: The Official Movie Novelization</p></td>
 <td><p>馬文·沃夫曼<br />
 Marv Wolfman</p></td>
 <td><p>《自殺突擊隊》小說化。</p></td>
-<td><p>[413]</p></td>
+<td><p>[421]</p></td>
 </tr>
 <tr class="even">
 <td><p>神力女超人：青年小說<br />
@@ -954,7 +966,7 @@ Wonder Woman: The Junior Novel</p></td>
 <td><p>史帝夫·柯特<br />
 Steve Korte</p></td>
 <td><p>《神力女超人》小說化。</p></td>
-<td><p>[414]</p></td>
+<td><p>[422]</p></td>
 </tr>
 <tr class="odd">
 <td><p>神力女超人：官方電影小說<br />
@@ -963,7 +975,7 @@ Wonder Woman: The Official Movie Novelization</p></td>
 <td><p>南西·霍德<br />
 Nancy Holder</p></td>
 <td><p>《神力女超人》小說化。</p></td>
-<td><p>[415]</p></td>
+<td><p>[423]</p></td>
 </tr>
 <tr class="even">
 <td><p>水行俠：亞瑟的亞特蘭提斯指南<br />
@@ -972,7 +984,7 @@ Aquaman: Arthur’s Guide to Atlantis</p></td>
 <td><p>亞莉珊卓·韋斯特<br />
 Alexandra West</p></td>
 <td><p>指南書。</p></td>
-<td><p>[416]</p></td>
+<td><p>[424]</p></td>
 </tr>
 <tr class="odd">
 <td><p>水行俠：暗潮<br />
@@ -981,7 +993,7 @@ Aquaman: Undertow</p></td>
 <td><p>史帝夫·貝林<br />
 Steve Behling</p></td>
 <td><p>搭配《水行俠》的前傳小說。</p></td>
-<td><p>[417]</p></td>
+<td><p>[425]</p></td>
 </tr>
 <tr class="even">
 <td><p>沙贊!：青少年小說!<br />
@@ -990,7 +1002,7 @@ Shazam!: The Junior Novel</p></td>
 <td><p>克萊厄琵·格拉斯<br />
 Calliope Glass</p></td>
 <td><p>《沙贊!》小說化。</p></td>
-<td><p>[418]</p></td>
+<td><p>[426]</p></td>
 </tr>
 <tr class="odd">
 <td><p>沙贊!：佛萊迪的超級英雄指南!<br />
@@ -999,7 +1011,7 @@ Shazam!: Freddy's Guide to Super Hero-ing</p></td>
 <td><p>史帝夫·貝林<br />
 Steve Behling</p></td>
 <td><p>指南書。</p></td>
-<td><p>[419]</p></td>
+<td><p>[427]</p></td>
 </tr>
 </tbody>
 </table>
@@ -1008,7 +1020,7 @@ Steve Behling</p></td>
 
 2016年1月19日，[CW電視網推出了一個半小時的電視特別節目](../Page/CW電視網.md "wikilink")《DC Films
 Presents: Dawn of the Justice
-League（2016）》，由[凱文·史密斯和傑夫](https://zh.wikipedia.org/wiki/凱文·史密斯 "wikilink")·約翰斯主持。其中包括了《蝙蝠俠對超人：正義曙光》的演員和工作人員的獨家採訪與概念藝術的釋出，以及《自殺突擊隊》的第二支預告、《正義曙光》的新片段和《神力女超人》的先睹為快片段\[420\]\[421\]。
+League（2016）》，由[凱文·史密斯和傑夫](https://zh.wikipedia.org/wiki/凱文·史密斯 "wikilink")·約翰斯主持。其中包括了《蝙蝠俠對超人：正義曙光》的演員和工作人員的獨家採訪與概念藝術的釋出，以及《自殺突擊隊》的第二支預告、《正義曙光》的新片段和《神力女超人》的先睹為快片段\[428\]\[429\]。
 
 ### 電子遊戲
 
@@ -1029,7 +1041,7 @@ Man of Steel</p></td>
 <td><p>2013年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/華納兄弟" title="wikilink">華納兄弟</a></p></td>
 <td><p>搭配《超人：鋼鐵英雄》的遊戲。</p></td>
-<td><p>[422]</p></td>
+<td><p>[430]</p></td>
 </tr>
 <tr class="even">
 <td><p>凱洛格之超人：鋼鐵英雄<br />
@@ -1037,7 +1049,7 @@ Kellogg's Man of Steel</p></td>
 <td><p>2013年</p></td>
 <td><p>Catapult Marketing</p></td>
 <td><p>搭配《超人：鋼鐵英雄》的遊戲。</p></td>
-<td><p>[423]</p></td>
+<td><p>[431]</p></td>
 </tr>
 <tr class="odd">
 <td><p>蝙蝠俠對超人：正義曙光-誰能勝出？<br />
@@ -1045,7 +1057,7 @@ Batman vs Superman: Dawn of Justice – Who Will Win?</p></td>
 <td><p>2016年3月16日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/華納兄弟" title="wikilink">華納兄弟</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/平台遊戲" title="wikilink">無盡跑酷</a>；搭配《蝙蝠俠對超人：正義曙光》的遊戲。</p></td>
-<td><p>[424]</p></td>
+<td><p>[432]</p></td>
 </tr>
 <tr class="even">
 <td><p>自殺突擊隊：特別行動<br />
@@ -1053,7 +1065,7 @@ Suicide Squad: Special Ops</p></td>
 <td><p>2016年7月19日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/華納兄弟" title="wikilink">華納兄弟</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/第一人稱射擊遊戲" title="wikilink">第一人稱射擊</a>；搭配《自殺突擊隊》的遊戲。</p></td>
-<td><p>[425]</p></td>
+<td><p>[433]</p></td>
 </tr>
 <tr class="odd">
 <td><p>神力女超人：戰士的崛起<br />
@@ -1061,7 +1073,7 @@ Wonder Woman: Rise of the Warrior</p></td>
 <td><p>2017年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/華納兄弟" title="wikilink">華納兄弟</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/平台遊戲" title="wikilink">無盡跑酷</a>；搭配《神力女超人》的遊戲。</p></td>
-<td><p>[426]</p></td>
+<td><p>[434]</p></td>
 </tr>
 </tbody>
 </table>
@@ -1343,6 +1355,7 @@ Wonder Woman: Rise of the Warrior</p></td>
 224.
 
 225.
+
 226.
 
 227.
@@ -1453,12 +1466,12 @@ Wonder Woman: Rise of the Warrior</p></td>
 283.
 
 284.
+
 285.
 
 286.
 
 287.
-
 288.
 
 289.
@@ -1490,17 +1503,17 @@ Wonder Woman: Rise of the Warrior</p></td>
 302.
 
 303.
+
 304.
+
 305.
+
 306.
 307.
 308.
 309.
-
 310.
-
 311.
-
 312.
 
 313.
@@ -1511,14 +1524,14 @@ Wonder Woman: Rise of the Warrior</p></td>
 
 316.
 
-317. [1](https://www.thathashtagshow.com/2019/03/08/exclusive-new-black-adam-script-features-hakwman-atom-smasher-and-stargirl/)
-
+317.
 
 318.
 
 319.
 
-320.
+320. [1](https://www.thathashtagshow.com/2019/03/08/exclusive-new-black-adam-script-features-hakwman-atom-smasher-and-stargirl/)
+
 
 321.
 
@@ -1543,31 +1556,34 @@ Wonder Woman: Rise of the Warrior</p></td>
 331.
 
 332.
+
 333.
+
 334.
+
 335.
+
 336.
+
 337.
+
 338.
 339.
 340.
 341.
 342.
 343.
-
 344.
-
 345.
-
 346.
-
 347.
-
 348.
-
 349.
+
 350.
+
 351.
+
 352.
 
 353.
@@ -1575,13 +1591,14 @@ Wonder Woman: Rise of the Warrior</p></td>
 354.
 
 355.
-
 356.
-
 357.
 358.
+
 359.
+
 360.
+
 361.
 
 362.
@@ -1590,17 +1607,13 @@ Wonder Woman: Rise of the Warrior</p></td>
 364.
 365.
 366.
-
 367.
 
 368.
 
 369.
-
 370.
-
 371.
-
 372.
 
 373.
@@ -1661,9 +1674,7 @@ Wonder Woman: Rise of the Warrior</p></td>
 
 401.
 
-402. Donnelly, Jim (February 27, 2017). "Suicide Squad wins 2017 Oscar
-     for Makeup and Hairstyling". Academy of Motion Picture Arts and
-     Sciences. Retrieved May 9, 2017.
+402.
 
 403.
 
@@ -1672,14 +1683,16 @@ Wonder Woman: Rise of the Warrior</p></td>
 405.
 
 406.
-407.  Retrieved May 2, 2016.
+
+407.
 
 408.
 
 409.
 
-410. *Man of Steel: Friends and Foes* was the first released form of
-     media in the DC Extended Universe.
+410. Donnelly, Jim (February 27, 2017). "Suicide Squad wins 2017 Oscar
+     for Makeup and Hairstyling". Academy of Motion Picture Arts and
+     Sciences. Retrieved May 9, 2017.
 
 411.
 
@@ -1688,22 +1701,20 @@ Wonder Woman: Rise of the Warrior</p></td>
 413.
 
 414.
-
-415.
+415.  Retrieved May 2, 2016.
 
 416.
 
 417.
-418.
+
+418. *Man of Steel: Friends and Foes* was the first released form of
+     media in the DC Extended Universe.
 
 419.
 
 420.
 
-421. [-{DC Comics Specials Preview The CW’s ‘Legends Of Tomorrow’,
-     ‘Suicide Squad’
-     Trailer}-](http://deadline.com/2015/12/dc-comics-specials-preview-the-cws-legends-of-tomorrow-suicide-squad-1201674157/)
-
+421.
 
 422.
 
@@ -1712,5 +1723,23 @@ Wonder Woman: Rise of the Warrior</p></td>
 424.
 
 425.
-
 426.
+
+427.
+
+428.
+
+429. [-{DC Comics Specials Preview The CW’s ‘Legends Of Tomorrow’,
+     ‘Suicide Squad’
+     Trailer}-](http://deadline.com/2015/12/dc-comics-specials-preview-the-cws-legends-of-tomorrow-suicide-squad-1201674157/)
+
+
+430.
+
+431.
+
+432.
+
+433.
+
+434.

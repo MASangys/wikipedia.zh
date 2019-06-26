@@ -17,41 +17,21 @@ HD](../Page/Astro_AEC.md "wikilink")、[Astro双星HD](https://zh.wikipedia.org/
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>星期一至五</p></td>
-<td><p>11:00 - 12:00</p></td>
-<td><p><a href="../Page/狼王子.md" title="wikilink">狼王子</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>13:00 - 14:00</p></td>
-<td><p><a href="../Page/人際關係事務所.md" title="wikilink">人際關係事務所</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>14:00 - 15:00</p></td>
-<td><p><a href="../Page/旋风少女.md" title="wikilink">旋风少女2</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
+<td><p>rowspan|星期一至五</p></td>
 <td><p>18:00 - 19:02</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/致亲爱的法官大人" title="wikilink">致亲爱的法官</a></p></td>
 <td></td>
 <td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>每日</p></td>
-<td><p>15:00 - 16:00</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/龙飞凤舞" title="wikilink">龙飞凤舞</a></p></td>
-<td></td>
-<td><p>每日播出</p></td>
 </tr>
 <tr class="even">
+<td><p>每日</p></td>
+<td><p>13:00 - 16:00</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/龙飞凤舞" title="wikilink">龙飞凤舞</a></p></td>
+<td></td>
+<td><p>每日播出<br />
+連播三集</p></td>
+</tr>
+<tr class="odd">
 <td><p>16:00 - 18:00</p></td>
 <td><p><a href="../Page/加油！美玲.md" title="wikilink">加油！美玲</a></p></td>
 <td></td>
@@ -59,85 +39,51 @@ HD](../Page/Astro_AEC.md "wikilink")、[Astro双星HD](https://zh.wikipedia.org/
 連播兩集</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>星期六</p></td>
 <td><p>18:00 - 18:30</p></td>
 <td><p>吃饱没2</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>18:30 - 20:30</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/综艺大集合" title="wikilink">综艺大集合</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>20:30 - 23:30</p></td>
 <td><p>|<a href="../Page/我們戰鬥吧.md" title="wikilink">我們戰鬥吧</a></p></td>
 <td></td>
 <td><p>連播兩集</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>星期日</p></td>
 <td><p>18:00 - 19:30</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/超级夜总会" title="wikilink">超级夜总会</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>20:30 - 22:30</p></td>
 <td><p>八点半电影</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>22:30 - 00:00</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/非凡搭档" title="wikilink">非凡搭档</a></p></td>
+<td><p><a href="../Page/王牌对王牌.md" title="wikilink">王牌对王牌</a></p></td>
 <td></td>
 <td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-## 即將播出
-
-<table>
-<thead>
-<tr class="header">
-<th><p>節目名稱</p></th>
-<th><p>製作電視台</p></th>
-<th><p>製作國家</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><a href="../Page/前男友不是人.md" title="wikilink">前男友不是人</a></p></td>
-<td><p><a href="../Page/八大電視.md" title="wikilink">八大電視</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/翻牆的記憶.md" title="wikilink">翻牆的記憶</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/聯利媒體股份有限公司" title="wikilink">TVBS 聯利媒體股份有限公司</a></p></td>
 <td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/三明治女孩的逆襲.md" title="wikilink">三明治女孩的逆襲</a></p></td>
-<td><p><a href="../Page/三立電視.md" title="wikilink">三立電視</a></p></td>
 <td></td>
-</tr>
-<tr class="even">
 <td></td>
 <td></td>
 <td></td>

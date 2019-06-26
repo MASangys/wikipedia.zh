@@ -1,4 +1,4 @@
-**夏洛特·艾玛·艾奇逊**（，），艺名**查莉·XCX**（），出生于[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[剑桥](https://zh.wikipedia.org/wiki/剑桥 "wikilink")，是一名[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[歌手和](../Page/歌手.md "wikilink")[词曲作者](https://zh.wikipedia.org/wiki/词曲作者 "wikilink")。
+**夏洛特·艾玛·艾奇逊**（，），艺名**查莉·XCX**（），是一名[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[歌手和](../Page/歌手.md "wikilink")[詞曲作家](../Page/詞曲作家.md "wikilink")，出生于[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[剑桥](https://zh.wikipedia.org/wiki/剑桥 "wikilink")。
 
 查莉于 2008 年发布了自己的第一支独立单曲，并在[伦敦的仓库舞会首次表演](../Page/伦敦.md "wikilink")。她於
 2010 年與 [Asylum
@@ -74,7 +74,7 @@ Ha)"。她曾说：“这张专辑的每一部分都源自于我自己的浪漫�
 在 2013 年 6 月，查莉开始致力于她的第三张专辑。\[21\]12 月，她发布了单曲
 "SuperLove"。这是她独立进入[英国单曲排行榜的第一支单曲](https://zh.wikipedia.org/wiki/英国单曲排行榜 "wikilink")，并取得了
 62 名的成绩。\[22\]在 2014 年 2
-月，她客串了[饒舌伊姬的单曲绚丽](../Page/伊基·阿塞莉娅.md "wikilink")
+月，她客串了澳洲饒舌歌手[伊姬·阿潔莉亞的单曲绚丽](https://zh.wikipedia.org/wiki/伊姬·阿潔莉亞 "wikilink")
 (Fancy)。\[23\]这支单曲曾登顶[美国](../Page/美国.md "wikilink")[公告牌百强单曲榜](https://zh.wikipedia.org/wiki/公告牌百强单曲榜 "wikilink")，成为两人的首支冠军单曲。\[24\]\[25\]
 
 在 2014 年 5
@@ -90,20 +90,18 @@ UK,\[27\]在[英国单曲排行榜中最高排名第](https://zh.wikipedia.org/w
 (Red
 Balloon)」，並收錄於電影《[好家在一起](https://zh.wikipedia.org/wiki/好家在一起 "wikilink")》電影原聲帶中。第二支单曲[打破规则](https://zh.wikipedia.org/wiki/Break_the_Rules_\(查莉XCX歌曲\) "wikilink")
 (Break the
-Rules)在[澳大利亚](../Page/澳大利亚.md "wikilink")、[德国和](../Page/德国.md "wikilink")[奥地利均获得了前十名的成绩](https://zh.wikipedia.org/wiki/奥地利 "wikilink")。[瑞塔·奥拉客串的单曲](../Page/瑞塔·奥拉.md "wikilink")
+Rules)在[澳大利亚](../Page/澳大利亚.md "wikilink")、[德国和](../Page/德国.md "wikilink")[奥地利均获得了前十名的成绩](https://zh.wikipedia.org/wiki/奥地利 "wikilink")。英國首[瑞塔·奥拉客串的单曲](../Page/瑞塔·奥拉.md "wikilink")
 Doing It
 在[英国单曲排行榜的最好成绩为第八名](https://zh.wikipedia.org/wiki/英国单曲排行榜 "wikilink")。2015
 年 2 月到 3
-月，她客串了[姬蒂·佩芮的](https://zh.wikipedia.org/wiki/姬蒂·佩芮 "wikilink")“超炫光”世界巡演
-(The Prismatic World
-Tour)。同年10月，也在[泰勒絲的](https://zh.wikipedia.org/wiki/泰勒絲 "wikilink")[1989巡迴演唱會演出Boom](https://zh.wikipedia.org/wiki/1989巡迴演唱會 "wikilink")
+月，她客串了美國歌手[凱蒂·佩芮的](../Page/凱蒂·佩芮.md "wikilink")[超炫光世界巡迴演唱會](../Page/超炫光世界巡迴演唱會.md "wikilink")。同年10月，她在美國創作歌手[泰勒絲的](https://zh.wikipedia.org/wiki/泰勒絲 "wikilink")[1989世界巡迴演唱會與泰勒絲演出Boom](../Page/1989世界巡迴演唱會.md "wikilink")
 Clap。\[30\]
 
-## 私生活
+## 音樂風格
 
-查莉的音樂涵蓋了多種風格，包括[流行朋克](../Page/流行朋克.md "wikilink") (Pop
-Punk)、[黑暗流行](https://zh.wikipedia.org/wiki/黑暗流行 "wikilink")
-(Dark Pop)、[流行電音](https://zh.wikipedia.org/wiki/流行電音 "wikilink")
+查莉的音樂涵蓋了多種風格，包括[流行龐克](https://zh.wikipedia.org/wiki/流行龐克 "wikilink")
+(Pop Punk)、[黑暗流行](https://zh.wikipedia.org/wiki/黑暗流行 "wikilink") (Dark
+Pop)、[電子流行](../Page/電子流行.md "wikilink")
 (Electropop)、[独立电子乐](https://zh.wikipedia.org/wiki/独立电子乐 "wikilink")
 (Indietronica) 和女巫[浩室](https://zh.wikipedia.org/wiki/浩室 "wikilink")
 (Witch
@@ -122,6 +120,7 @@ hate music that's green, yellow or brown.)”\[43\]
   - *爛咖
     ([Sucker](https://zh.wikipedia.org/wiki/:en:Sucker_\(album\) "wikilink"))*
     (2014)
+  - 查莉 () (2019)
 
 ## 影片
 
@@ -156,14 +155,15 @@ hate music that's green, yellow or brown.)”\[43\]
     – 孤独之心巡演 (The Lonely Hearts Club Tour) (2013)
   - [帕拉莫尔](https://zh.wikipedia.org/wiki/帕拉莫尔 "wikilink") – The
     Self-Titled Tour (2013)
-  - [凱蒂·佩芮](../Page/凱蒂·佩芮.md "wikilink") – “超炫光”世界巡演 (The Prismatic
-    World Tour) (2015)
+  - [凱蒂·佩芮](../Page/凱蒂·佩芮.md "wikilink") –
+    [超炫光世界巡迴演唱會](../Page/超炫光世界巡迴演唱會.md "wikilink")
+    (The Prismatic World Tour) (2015)
   - [泰勒絲](https://zh.wikipedia.org/wiki/泰勒絲 "wikilink")
-    －[1989巡迴演唱會](https://zh.wikipedia.org/wiki/1989巡迴演唱會 "wikilink")
+    －[1989世界巡迴演唱會](../Page/1989世界巡迴演唱會.md "wikilink")
     (The 1989 World Tour) (2015)
   - [泰勒絲](../Page/泰勒·斯威夫特.md "wikilink")
     —[舉世盛名體育場巡迴演唱會](../Page/舉世盛名體育場巡迴演唱會.md "wikilink")
-    (Taylor Swift Reputation Stadium Tour) (2018) (開場表演)
+    (Reputation Stadium Tour) (2018) (開場表演)
 
 ## 参考资料
 

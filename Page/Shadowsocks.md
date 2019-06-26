@@ -72,7 +72,7 @@ news裡转发了深圳市启用SS协议检测的消息并被大量用户转发�
 [Category:2012年软件](https://zh.wikipedia.org/wiki/Category:2012年软件 "wikilink")
 [Category:代理服务器](https://zh.wikipedia.org/wiki/Category:代理服务器 "wikilink")
 [Category:代理软件](https://zh.wikipedia.org/wiki/Category:代理软件 "wikilink")
-[Category:破网软件](https://zh.wikipedia.org/wiki/Category:破网软件 "wikilink")
+[Category:翻墙软件](https://zh.wikipedia.org/wiki/Category:翻墙软件 "wikilink")
 [Category:用Python編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用Python編程的自由軟體 "wikilink")
 [Category:用C++編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用C++編程的自由軟體 "wikilink")
 [Category:用C編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用C編程的自由軟體 "wikilink")

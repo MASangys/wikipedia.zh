@@ -79,7 +79,7 @@ PlayStation Portable</p></td>
 </tr>
 <tr class="even">
 <td><p>名侦探柯南 木偶交响曲<br />
-名探偵コナン マリオネット交響曲</p></td>
+</p></td>
 <td><p>2013年4月25日（日本）</p></td>
 <td><p>冒险</p></td>
 <td><p>任天堂3DS</p></td>
@@ -87,7 +87,7 @@ PlayStation Portable</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/極限脫出：9小時9人9扇門" title="wikilink">極限脫出：9小時9人9扇門 Smart Sound Novel</a><br />
-極限脱出 9時間9人9の扉 Smart Sound Novel</p></td>
+</p></td>
 <td><p>2013年5月29日（日本）</p></td>
 <td><p>冒险<a href="../Page/视觉小说.md" title="wikilink">视觉小说</a></p></td>
 <td><p>iOS</p></td>
@@ -245,7 +245,8 @@ PlayStation Vita</p></td>
 <td><p>由Monoqlo開發</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/亡者戰記_-在另一側的天空下-" title="wikilink">亡者戰記 -在另一側的天空下-</a> イグジストアーカイヴ -The Other Side of the Sky-</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/亡者戰記_-在另一側的天空下-" title="wikilink">亡者戰記 -在另一側的天空下-</a><br />
+</p></td>
 <td><p>2015年12月17日</p></td>
 <td><p>角色扮演</p></td>
 <td><p>PlayStation 4<br />
@@ -253,7 +254,8 @@ PlayStation Vita</p></td>
 <td><p>由<a href="https://zh.wikipedia.org/wiki/tri-Ace" title="wikilink">tri-Ace開發</a></p></td>
 </tr>
 <tr class="even">
-<td><p>ワンピース バーニングブラッド</p></td>
+<td><p><br />
+</p></td>
 <td><p>2016年4月21日（日本）</p></td>
 <td><p>格鬥</p></td>
 <td><p>Windows<br />
@@ -263,14 +265,16 @@ Xbox One</p></td>
 <td><p>由<a href="https://zh.wikipedia.org/wiki/萬代南夢宮娛樂" title="wikilink">萬代南夢宮娛樂發行</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>喧嘩番長 乙女</p></td>
+<td><p><br />
+</p></td>
 <td><p>2016年5月19日</p></td>
 <td><p>冒險</p></td>
 <td><p>PlayStation Vita</p></td>
 <td><p>由<a href="../Page/Red_Entertainment.md" title="wikilink">Red Entertainment開發</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/極限脫出_刻之困境" title="wikilink">極限脫出 刻之困境</a> ZERO ESCAPE 刻のジレンマ</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/極限脫出_刻之困境" title="wikilink">極限脫出 刻之困境</a><br />
+</p></td>
 <td><p>2016年6月30日</p></td>
 <td><p>冒險</p></td>
 <td><p>任天堂3DS<br />
@@ -280,7 +284,8 @@ Windows</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/新槍彈辯駁V3_大家的自相殘殺新學期.md" title="wikilink">新槍彈辯駁V3 大家的自相殘殺新學期</a> ニューダンガンロンパV3 みんなのコロシアイ新学期</p></td>
+<td><p><a href="../Page/新槍彈辯駁V3_大家的自相殘殺新學期.md" title="wikilink">新槍彈辯駁V3 大家的自相殘殺新學期</a><br />
+</p></td>
 <td><p>2017年1月12日</p></td>
 <td><p>冒險</p></td>
 <td><p>PlayStation 4<br />
@@ -289,7 +294,8 @@ Windows</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>ザンキゼロ</p></td>
+<td><p><br />
+</p></td>
 <td><p>2018年7月5日</p></td>
 <td><p>角色扮演</p></td>
 <td><p>PlayStation 4<br />
@@ -298,7 +304,8 @@ Windows</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/JUMP_FORCE.md" title="wikilink">JUMP FORCE</a> JUMP FORCE</p></td>
+<td><p><a href="../Page/JUMP_FORCE.md" title="wikilink">JUMP FORCE</a><br />
+</p></td>
 <td><p>2019年2月15日</p></td>
 <td><p>格鬥</p></td>
 <td><p>PlayStation 4<br />

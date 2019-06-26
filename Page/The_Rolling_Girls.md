@@ -498,7 +498,7 @@ Kan Sinu、Kim Jung eun</p></td>
 2015年1月10日起於[每日放送](../Page/每日放送.md "wikilink")\[4\]\[5\]、[TOKYO
 MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")、[愛知電視台](../Page/愛知電視台.md "wikilink")、[BS11](https://zh.wikipedia.org/wiki/BS11 "wikilink")、[TVQ九州放送](../Page/TVQ九州放送.md "wikilink")、[南日本放送等電視頻道播放](../Page/南日本放送.md "wikilink")。網路播放有[萬代頻道](../Page/萬代頻道.md "wikilink")、[NTT
 docomo Anime
-Store](https://zh.wikipedia.org/wiki/NTT_docomo_Anime_Store "wikilink")、、[Niconico頻道](https://zh.wikipedia.org/wiki/Niconico頻道 "wikilink")、。
+Store](https://zh.wikipedia.org/wiki/NTT_docomo_Anime_Store "wikilink")、、[Niconico頻道](../Page/Niconico頻道.md "wikilink")、。
 
 收錄2集電視動畫的第1卷[Blu-ray和](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")[DVD於](https://zh.wikipedia.org/wiki/DVD "wikilink")2015年3月18日發售。\[6\]
 

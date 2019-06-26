@@ -97,7 +97,7 @@ junior解散後另組成新組合「[アメフラっシ](https://zh.wikipedia.or
 <td></td>
 <td><p><a href="../Page/神奈川縣.md" title="wikilink">神奈川縣</a></p></td>
 <td><p>れいちぇる</p></td>
-<td><p>隊長，離開後退出星塵傳播並將藝名改為</p></td>
+<td><p>隊長，離開後退出星塵傳播並將藝名改為，後加入偶像團體「GUN'g' BUBBLE」</p></td>
 </tr>
 <tr class="odd">
 <td></td>

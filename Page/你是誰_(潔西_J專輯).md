@@ -63,7 +63,7 @@ Perpetua作出特別嚴厲的批評。他認為，“音樂十分散亂，過於
 Dude](https://zh.wikipedia.org/wiki/:en:Do_It_Like_a_Dude "wikilink")”，於2010年11月18日發行。單曲原於英國單曲榜排行最高第5名，但在傑西在2011年全英音樂獎贏得了影評選擇獎後，“Do
 It Like a Dude”於進榜後8週後升上第2名的新高。此外，這首歌亦登上愛爾蘭單曲榜第11名。
 
-第二首單曲為與[B.o.B合唱的](https://zh.wikipedia.org/wiki/B.o.B "wikilink")“[Price
+第二首單曲為與[B.o.B合唱的](../Page/B.o.B.md "wikilink")“[Price
 Tag](https://zh.wikipedia.org/wiki/:en:Price_Tag "wikilink")”，於2011年1月30日發行，亦作為於美國的專輯主打單曲。單曲於2011年2月6日登上英國單曲榜第1名，成為她於英國第2首打進單曲榜前三名的單曲。“Price
 Tag”亦於全球取得突破性成功，曾登上澳大利亞，愛爾蘭和新西蘭的單曲榜第1名。
 

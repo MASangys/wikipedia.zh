@@ -55,7 +55,7 @@ Trex 的合約已經屆滿\[12\]，28日唱片公司宣佈將於2017年3月29日
 身高147.5cm。</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>日比美思</strong></p></td>
+<td><p><strong><a href="../Page/日比美思.md" title="wikilink">日比美思</a></strong></p></td>
 <td></td>
 <td></td>
 <td><p><a href="../Page/神奈川縣.md" title="wikilink">神奈川縣</a><br />

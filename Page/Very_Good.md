@@ -117,7 +117,7 @@ Good》\[2\]。
 <td><p>2014年10月2日</p></td>
 <td><p><a href="../Page/CD.md" title="wikilink">CD</a>、<a href="../Page/數位音樂下載.md" title="wikilink">數位下載</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Seven_Seasons" title="wikilink">Seven Seasons</a><br />
-</p></td>
+<a href="../Page/CJ_E&amp;M.md" title="wikilink">CJ E&amp;M</a></p></td>
 </tr>
 <tr class="even">
 <td><p>台灣</p></td>

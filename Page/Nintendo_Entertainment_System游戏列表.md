@@ -1806,7 +1806,7 @@ System主机游戏，仅于日本FC版发行的游戏不在此列。列表默认
 </tr>
 <tr class="even">
 <td><p><em>The Goonies II</em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/七宝奇谋2_弗雷泰利最后的挑战" title="wikilink">七宝奇谋2 弗雷泰利最后的挑战</a></p></td>
+<td><p><a href="../Page/七宝奇谋2_弗雷泰利最后的挑战.md" title="wikilink">七宝奇谋2 弗雷泰利最后的挑战</a></p></td>
 <td><p>data-sort-type="isoDate" data-sort-value="1987-11" | 1987年11月</p></td>
 <td><p>data-sort-type="isoDate" data-sort-value="1988-12-19" | 1988年12月19日</p></td>
 <td><p><a href="../Page/科樂美.md" title="wikilink">科樂美</a></p></td>

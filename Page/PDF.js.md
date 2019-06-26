@@ -3,7 +3,9 @@ Canvas安全地渲染](../Page/Canvas_\(HTML元素\).md "wikilink")[PDF文件以
 
 PDF.js可以作为浏览器或网站的一部分运行。原本是一個[Firefox擴充套件](https://zh.wikipedia.org/wiki/Firefox擴充套件列表 "wikilink")\[1\]，自2012年開始，它被納入[Mozilla
 Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")（15版本）\[2\]\[3\]，并从2013年开始默认启用（19版本）成為基本功能\[4\]\[5\]
-。它还是[ownCloud的一部分](https://zh.wikipedia.org/wiki/ownCloud "wikilink")，并擁有[Chrome](../Page/Google_Chrome.md "wikilink")／[Chromium的外掛程式](../Page/Chromium.md "wikilink")\[6\]。
+。它还是[ownCloud的一部分](https://zh.wikipedia.org/wiki/ownCloud "wikilink")，并可用作[Chrome](../Page/Google_Chrome.md "wikilink")、[Chromium](../Page/Chromium.md "wikilink")\[6\]、[Firefox
+for Android](../Page/Firefox_for_Android.md "wikilink")\[7\]、[Pale
+Moon](../Page/苍月浏览器.md "wikilink")\[8\]及[SeaMonkey](../Page/SeaMonkey.md "wikilink")\[9\]的附加元件。
 
 ## 参考资料
 
@@ -37,4 +39,11 @@ Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")（15版本）
     beta 5](https://bugzilla.mozilla.org/show_bug.cgi?id=773397),
     *bugzilla.mozilla.org*
 5.
-6.
+6.  Chrome Web Store：[PDF
+    Viewer](https://chrome.google.com/webstore/detail/pdf-viewer/oemmndcbldboiebfnladdacbdfmadadm)
+7.  Firefox Add-ons：[Android
+    PDF.js](https://addons.mozilla.org/android/addon/android-pdf-js/)
+8.  Pale Moon Add-ons：[Moon PDF
+    Viewer](http://addons.palemoon.org/addon/moon-pdf-viewer/)
+9.  Add-ons for SeaMonkey：[PDF Viewer for
+    SeaMonkey](https://addons.thunderbird.net/en-US/seamonkey/addon/pdf-js-for-seamonkey/)

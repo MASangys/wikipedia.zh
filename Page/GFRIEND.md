@@ -139,7 +139,7 @@ for us](../Page/Time_for_us.md "wikilink")》，並宣布主打歌名為《해�
 公開專輯曲目表，包含主打歌與其純伴奏版，總共收錄13首歌曲\[84\]。12月29日，Source
 Music 宣布 GFRIEND 的官方 Fan cafe 已經有超過十萬人加入，並於30日發布了慶祝影片\[85\]\[86\]。
 
-### 2019年：《Time For Us》、首次日本巡迴演唱會、第二次亞洲巡迴演唱會
+### 2019年：《Time For Us》、首次日本巡迴演唱會、第二次亞洲巡迴演唱會、《Fever Season》
 
 1月5日，GFRIEND獲得第33屆金唱片最佳女子團體獎。1月1-11日，GFRIEND在官方 Facebook 上公開了主打歌《Sunrise
 (해야)》的動態海報，並繼續公開多波團體及個人概念照。5日、12日及13日，在官方 Facebook 及 Youtube 上公開主打歌的 MV
@@ -166,7 +166,7 @@ ver.)](../Page/SUNRISE_\(GFRIEND單曲\).md "wikilink")》正式版MV。2月16�
 
 4月24日，公開GFRIEND二代應援手燈。
 
-4月25日，發行GFRIEND FIRST PHOTOBOOK
+4月25日，發行GFRIEND FIRST PHOTOBOOK。
 
 5月19日及5月20日，在首爾舉行第二次亞洲巡迴演唱會《GO GO GFRIEND\!》的首個場次，演唱從2015出道到2019《Time
 for us》中許多歌曲，也首次表演多首歌曲，隊長Sowon更透露，原本出道曲原是演唱會上小分隊的表演曲目，會來才改成以《[Glass
@@ -175,6 +175,9 @@ Music特別於](https://zh.wikipedia.org/wiki/Source_Music "wikilink")19年3月1
 : Back To The
 Past〉企劃，特別在企劃中播出GFRIEND以前的各表演花絮。企劃最終回於5月23日公開，整個系列以演唱會上小分隊的表演作結尾。
 
+Source Music 在6月10日上午閃電宣布：「GFRIEND 將於 2019 年 7 月 1 日帶著第七張迷你專輯〈Fever
+Season〉回歸！」
+
 ## 成員資料
 
   - 名字**粗體**為隊長
@@ -182,7 +185,7 @@ Past〉企劃，特別在企劃中播出GFRIEND以前的各表演花絮。企劃
 | 成員資料 \[91\]                              |
 | ---------------------------------------- |
 | 藝名                                       |
-| 藝名                                       |
+| 羅馬拼音                                     |
 | **[Sowon](../Page/Sowon.md "wikilink")** |
 | [Yerin](../Page/Yerin.md "wikilink")     |
 | [Eunha](../Page/Eunha.md "wikilink")     |
@@ -215,6 +218,7 @@ Past〉企劃，特別在企劃中播出GFRIEND以前的各表演花絮。企劃
   - 2017-09-13《[Rainbow](https://zh.wikipedia.org/wiki/PARALLEL "wikilink")》（改版專輯）
   - 2018-04-30《[Time For The Moon
     Night](../Page/Time_For_The_Moon_Night.md "wikilink")》
+  - 2019-07-01《Fever Season》
 
 <!-- end list -->
 
@@ -256,7 +260,7 @@ Past〉企劃，特別在企劃中播出GFRIEND以前的各表演花絮。企劃
   - 2016：《GFRIEND所愛的歐洲》
   - 2017：《[The Friends in
     亞得里亞海](../Page/The_Friends_in_亞得里亞海.md "wikilink")》
-  - 2019：《[G-LOG](https://zh.wikipedia.org/wiki/G-LOG "wikilink")》
+  - 2019：《[G-LOG](../Page/G-LOG.md "wikilink")》
 
 ## 出版物
 
@@ -1028,6 +1032,9 @@ SHOW;zh-hans:韓秀榜}-](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")》�
 <td><p><a href="../Page/Time_for_us.md" title="wikilink">Time for us</a></p></td>
 </tr>
 <tr class="odd">
+<td><p>Fever Season</p></td>
+</tr>
+<tr class="even">
 <td><ul>
 <li>「/」表示未有相關資料</li>
 <li>「(1)」：兩星期冠軍</li>
