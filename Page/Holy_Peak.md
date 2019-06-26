@@ -55,6 +55,7 @@ Peak（[參考](http://blog.livedoor.jp/horio_h/archives/25115094.html)）。
   - [やぶさきえみ](https://zh.wikipedia.org/wiki/やぶさきえみ "wikilink")
   - [山岡ゆり](https://zh.wikipedia.org/wiki/山岡ゆり "wikilink")
   - [齊藤朱夏](../Page/齊藤朱夏.md "wikilink")
+  - [坂上八重](https://zh.wikipedia.org/wiki/坂上八重 "wikilink")
 
 ## 過去所属藝人・聲優
 

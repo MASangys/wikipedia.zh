@@ -93,7 +93,7 @@ HOLIC的人參加。
   - SDHC-005 **[SOUND HOLIC MEETS TOHO
     ～東方的幽幻奏曲集～](http://www.sound-holic.com/_c71.html)**（2006年12月31日，C71）
   - SDHC-006 **[SOUND HOLIC MEETS TOHO
-    ～東方的幽々舞踏劇～](http://www.sound-holic.com/_m3_2007s.html)**（2007年4月29日，[M3](https://zh.wikipedia.org/wiki/M3 "wikilink")-2007春）
+    ～東方的幽々舞踏劇～](http://www.sound-holic.com/_m3_2007s.html)**（2007年4月29日，[M3](../Page/M3.md "wikilink")-2007春）
   - SDHC-007 **[SOUND HOLIC MEETS TOHO
     ～東方的夢天幻奏典～](http://www.sound-holic.com/_rei_2007.html)**（2007年5月20日，第4回[博麗神社例大祭](https://zh.wikipedia.org/wiki/東方Project#博麗神社例大祭 "wikilink")）
   - SDHC-008 **[SOUND HOLIC MEETS TOHO

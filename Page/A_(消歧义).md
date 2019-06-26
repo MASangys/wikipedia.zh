@@ -24,7 +24,7 @@
   - A，[比表面积](https://zh.wikipedia.org/wiki/比表面积 "wikilink")
   - A，[磁矢势](../Page/磁矢势.md "wikilink")
   - A，[吸光度](https://zh.wikipedia.org/wiki/吸光度 "wikilink")
-  - A，表示[亥姆霍兹自由能](https://zh.wikipedia.org/wiki/亥姆霍兹自由能 "wikilink")
+  - A，表示[亥姆霍兹自由能](../Page/亥姆霍兹自由能.md "wikilink")
   - A<sub>H</sub>，[霍尔效应](https://zh.wikipedia.org/wiki/霍尔效应 "wikilink")
   - A，[安培](../Page/安培.md "wikilink")，[电流单位](../Page/电流.md "wikilink")
   - A，[增益](../Page/增益.md "wikilink")

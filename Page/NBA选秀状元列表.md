@@ -363,7 +363,7 @@ NBA选秀状元随后獲得[NBA最有價值球員獎的球员有](https://zh.wik
 <td></td>
 <td><p>中鋒/前鋒</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/休士頓火箭" title="wikilink">聖地牙哥火箭</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/休士頓大學" title="wikilink">休士頓大學</a></p></td>
+<td><p><a href="../Page/休士頓大學.md" title="wikilink">休士頓大學</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1013,12 +1013,12 @@ NBA选秀状元随后獲得[NBA最有價值球員獎的球员有](https://zh.wik
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/2019年NBA選秀" title="wikilink">2019</a></p></td>
+<td><p><a href="../Page/錫安·威廉森.md" title="wikilink">錫安·威廉森</a></p></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/紐奧良鵜鶘" title="wikilink">紐奧良鹈鹕</a></p></td>
-<td></td>
+<td><p>前鋒</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/紐奧良鵜鶘" title="wikilink">紐奧良鵜鶘</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/杜克大學" title="wikilink">杜克大學</a></p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>

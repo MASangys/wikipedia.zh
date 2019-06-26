@@ -66,7 +66,8 @@ And Dezaki）」，於是定名為Madhouse\[1\]。
 
   - [危險調查員](https://zh.wikipedia.org/wiki/危險調查員 "wikilink")（）（1998年－1999年）
 
-  - [麗佳公主](../Page/麗佳公主.md "wikilink")（）（協力製作：→[SSJ](../Page/Synergy_SP.md "wikilink")，1998年－1999年）
+  - [麗佳公主](../Page/麗佳公主.md "wikilink")（）（協力製作：[Studio
+    Junio](https://zh.wikipedia.org/wiki/Studio_Junio "wikilink")→[SSJ](../Page/Synergy_SP.md "wikilink")，1998年－1999年）
 
   - [亞歷山大戰記](../Page/亞歷山大戰記.md "wikilink")（）（製作人，1999年）
 
@@ -363,7 +364,7 @@ And Dezaki）」，於是定名為Madhouse\[1\]。
 
   - [戀曲寫真](../Page/戀曲寫真.md "wikilink")（）
   - [神不在的星期天](../Page/神不在的星期天.md "wikilink")（）
-  - [鑽石王牌](https://zh.wikipedia.org/wiki/鑽石王牌 "wikilink")（）（與[Production
+  - [鑽石王牌](../Page/鑽石王牌.md "wikilink")（）（與[Production
     I.G共同製作](../Page/Production_I.G.md "wikilink")）
       - 第1季（2013年－2015年）
       - 第2季（2015年－2016年）
@@ -390,7 +391,7 @@ And Dezaki）」，於是定名為Madhouse\[1\]。
   - [死亡遊行](../Page/死亡遊行.md "wikilink")（）
   - [俺物語！！](../Page/俺物語！！.md "wikilink")（）
   - [OVERLORD](../Page/OVERLORD_\(小說\).md "wikilink")（）
-  - [一拳超人系列](https://zh.wikipedia.org/wiki/一拳超人 "wikilink")（）
+  - [一拳超人系列](../Page/一拳超人.md "wikilink")（）
       - 第一季（2015年）
 
 <!-- end list -->

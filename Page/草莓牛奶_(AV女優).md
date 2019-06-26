@@ -178,11 +178,7 @@
   - ダブルダブルユー\!\! W Double
     You（2005年10月31日、スカイハイエンターテインメント）苺みるく、[進藤つみき](https://zh.wikipedia.org/wiki/進藤つみき "wikilink")
 
-## 注釋
-
-## 關連項目
-
-  - [AV女優列表](https://zh.wikipedia.org/wiki/AV女優列表 "wikilink")
+## 參考文獻
 
 ## 外部連結
 

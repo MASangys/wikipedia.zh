@@ -8,7 +8,7 @@ Part
 
 [瑞芯微電子的影片處理晶片](https://zh.wikipedia.org/wiki/瑞芯微電子 "wikilink")「Rockchip」被引入至眾多MP4播放器，支援不含[B畫格](../Page/視訊壓縮圖像類型.md "wikilink")[Xvid解碼器的](../Page/Xvid.md "wikilink")[AVI影片](https://zh.wikipedia.org/wiki/AVI "wikilink")，並同時使用[MP2](https://zh.wikipedia.org/wiki/MP2 "wikilink")（MPEG-1
 Audio Layer II）音訊壓縮。\[3\]某些如Onda
-VX979+這類的播放器，使用[北京君正生產的晶片組可支援](https://zh.wikipedia.org/wiki/北京君正 "wikilink")[RealNetworks影片格式](../Page/RealNetworks.md "wikilink")。\[4\]使用[SigmaTel技術的播放器可以支援SMV](https://zh.wikipedia.org/wiki/SigmaTel "wikilink")（SigmaTel影片）。
+VX979+這類的播放器，使用[北京君正生產的晶片組可支援](../Page/北京君正.md "wikilink")[RealNetworks影片格式](../Page/RealNetworks.md "wikilink")。\[4\]使用[SigmaTel技術的播放器可以支援SMV](https://zh.wikipedia.org/wiki/SigmaTel "wikilink")（SigmaTel影片）。
 
 ## AMV
 

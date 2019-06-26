@@ -1220,7 +1220,7 @@ Montigny-le-Bretonneux</small></strong></p></td>
 <td><p> </p></td>
 <td><p><span style="color: black; font-size: x-large;">·</span></p></td>
 <td><p> </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/布雷蒂尼站" title="wikilink">布雷蒂尼</a><br />
+<td><p><a href="../Page/布雷蒂尼站.md" title="wikilink">布雷蒂尼</a><br />
 <small>Brétigny</small></p></td>
 <td><p>5</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/布雷蒂尼奥治河" title="wikilink">布雷蒂尼奥治河</a></p></td>
@@ -1774,7 +1774,8 @@ SNCF Transilien
 [2](https://web.archive.org/web/20051208073801/http://www.metro-pole.net/)
 Metro-Pole资料库
 
-[3](http://www.blogencommun.fr/rer-c/) BlogenCommun网站上对RER C线的评论
+[3](https://web.archive.org/web/20090609191220/http://www.blogencommun.fr/Rer-c/)
+BlogenCommun网站上对RER C线的评论
 
 ## 外部链接
 

@@ -159,7 +159,7 @@
 <td><p>John Andrews</p></td>
 <td><p><em>dev team</em></p></td>
 <td><p>2003-?-?</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Knoppix" title="wikilink">Knoppix</a></p></td>
+<td><p><a href="../Page/Knoppix.md" title="wikilink">Knoppix</a></p></td>
 <td><p>2008-04-22</p></td>
 <td><p>便携</p></td>
 </tr>
@@ -285,7 +285,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/Klaus_Knopper" title="wikilink">Klaus Knopper</a></p></td>
 <td><p><em>dev team</em></p></td>
 <td><p>{{?}} pre-2003-07-17 (0.4)</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Knoppix" title="wikilink">Knoppix</a></p></td>
+<td><p><a href="../Page/Knoppix.md" title="wikilink">Knoppix</a></p></td>
 <td><p>2005-09-07</p></td>
 <td><p>Live CD</p></td>
 </tr>
@@ -330,7 +330,7 @@
 <td><p>Jörg Schirottke (Kano)</p></td>
 <td><p><em>dev team</em></p></td>
 <td><p>2003-12-24</p></td>
-<td><p><a href="../Page/Debian.md" title="wikilink">Debian</a>, <a href="https://zh.wikipedia.org/wiki/Knoppix" title="wikilink">Knoppix</a></p></td>
+<td><p><a href="../Page/Debian.md" title="wikilink">Debian</a>, <a href="../Page/Knoppix.md" title="wikilink">Knoppix</a></p></td>
 <td><p>2007-12-31</p></td>
 <td><p>Live CD, 桌面</p></td>
 </tr>
@@ -344,7 +344,7 @@
 <td><p>桌面, 工作站</p></td>
 </tr>
 <tr class="odd">
-<td><p>| <a href="https://zh.wikipedia.org/wiki/Knoppix" title="wikilink">Knoppix</a></p></td>
+<td><p>| <a href="../Page/Knoppix.md" title="wikilink">Knoppix</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Klaus_Knopper" title="wikilink">Klaus Knopper</a></p></td>
 <td><p><em>dev team</em></p></td>
 <td><p>{{?}} pre-2003-01-19 (3.1)</p></td>
@@ -357,7 +357,7 @@
 <td><p>Cecil Watson</p></td>
 <td><p><em>dev team</em></p></td>
 <td><p>{{?}}</p></td>
-<td><p><a href="../Page/Debian.md" title="wikilink">Debian</a>, <a href="https://zh.wikipedia.org/wiki/Knoppix" title="wikilink">Knoppix</a></p></td>
+<td><p><a href="../Page/Debian.md" title="wikilink">Debian</a>, <a href="../Page/Knoppix.md" title="wikilink">Knoppix</a></p></td>
 <td><p>2007-09-09</p></td>
 <td><p>图形, 桌面</p></td>
 </tr>
@@ -375,7 +375,7 @@
 <td><p>Carlos Morimoto</p></td>
 <td><p>GuiadoHardware</p></td>
 <td><p>2003-01-?</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Knoppix" title="wikilink">Knoppix</a></p></td>
+<td><p><a href="../Page/Knoppix.md" title="wikilink">Knoppix</a></p></td>
 <td><p>2007-02-21</p></td>
 <td><p>桌面, live CD</p></td>
 </tr>
@@ -456,7 +456,7 @@
 <td><p>Marcos Guglielmetti</p></td>
 <td><p>{{?}}</p></td>
 <td><p>{{?}}</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Knoppix" title="wikilink">Knoppix</a>, <a href="https://zh.wikipedia.org/wiki/Kanotix" title="wikilink">Kanotix</a>, <a href="../Page/Debian.md" title="wikilink">Debian</a></p></td>
+<td><p><a href="../Page/Knoppix.md" title="wikilink">Knoppix</a>, <a href="https://zh.wikipedia.org/wiki/Kanotix" title="wikilink">Kanotix</a>, <a href="../Page/Debian.md" title="wikilink">Debian</a></p></td>
 <td><p>2007-03-05</p></td>
 <td><p>音频制作</p></td>
 </tr>
@@ -936,7 +936,7 @@ Linux](https://zh.wikipedia.org/wiki/Foresight_Linux "wikilink"),
 [Gobuntu](../Page/Gobuntu.md "wikilink"), [Impi
 Linux](https://zh.wikipedia.org/wiki/Impi_Linux "wikilink"),
 [Kanotix](https://zh.wikipedia.org/wiki/Kanotix "wikilink"),
-[Knoppix](https://zh.wikipedia.org/wiki/Knoppix "wikilink"),
+[Knoppix](../Page/Knoppix.md "wikilink"),
 [Knoppmyth](https://zh.wikipedia.org/wiki/Knoppmyth "wikilink"),
 [Kubuntu](../Page/Kubuntu.md "wikilink"), [Kurumin
 Linux](https://zh.wikipedia.org/wiki/Kurumin_Linux "wikilink"), [Linux
@@ -1245,7 +1245,7 @@ software），"free"这个词通常指软件的自由使用，而非免费：对
 <td><p><a href="../Page/KDE.md" title="wikilink">KDE</a></p></td>
 </tr>
 <tr class="even">
-<td><p>| <a href="https://zh.wikipedia.org/wiki/Knoppix" title="wikilink">Knoppix</a></p></td>
+<td><p>| <a href="../Page/Knoppix.md" title="wikilink">Knoppix</a></p></td>
 <td><p>2.6.24.4</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/GNU_Compiler_Collection" title="wikilink">GCC</a> 4.2.2</p></td>
 <td><p><a href="../Page/XFS.md" title="wikilink">XFS</a></p></td>
@@ -2124,7 +2124,7 @@ software），"free"这个词通常指软件的自由使用，而非免费：对
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Knoppix" title="wikilink">Knoppix</a></p></td>
+<td><p><a href="../Page/Knoppix.md" title="wikilink">Knoppix</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3198,7 +3198,7 @@ software），"free"这个词通常指软件的自由使用，而非免费：对
 <td><p>{{?}}</p></td>
 </tr>
 <tr class="odd">
-<td><p>| <a href="https://zh.wikipedia.org/wiki/Knoppix" title="wikilink">Knoppix</a></p></td>
+<td><p>| <a href="../Page/Knoppix.md" title="wikilink">Knoppix</a></p></td>
 <td><p>3600</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Advanced_Packaging_Tool" title="wikilink">APT</a></p></td>
@@ -3775,7 +3775,7 @@ Live CD</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>| <a href="https://zh.wikipedia.org/wiki/Knoppix" title="wikilink">Knoppix</a> CD<br />
+<td><p>| <a href="../Page/Knoppix.md" title="wikilink">Knoppix</a> CD<br />
 edition</p></td>
 <td><p>700</p></td>
 <td><p>128 to 320</p></td>
@@ -3785,7 +3785,7 @@ edition</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>| <a href="https://zh.wikipedia.org/wiki/Knoppix" title="wikilink">Knoppix</a> DVD<br />
+<td><p>| <a href="../Page/Knoppix.md" title="wikilink">Knoppix</a> DVD<br />
 "Maxi" edition</p></td>
 <td><p>4812.8</p></td>
 <td></td>

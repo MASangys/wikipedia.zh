@@ -30,7 +30,7 @@
 </tr>
 <tr class="odd">
 <td><p>Hong Jun Yang</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洪俊揚" title="wikilink">洪俊揚</a></p></td>
+<td><p><a href="../Page/洪俊揚.md" title="wikilink">洪俊揚</a></p></td>
 <td><p>23</p></td>
 <td><p><strong>男亞軍</strong><br />
 2005年8月18日</p></td>

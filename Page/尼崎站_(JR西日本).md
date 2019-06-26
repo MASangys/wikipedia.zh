@@ -1,4 +1,4 @@
-**尼崎站**（）位於[日本](../Page/日本.md "wikilink")[兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")[尼崎市潮江](../Page/尼崎市.md "wikilink")1丁目1番1號，屬於[西日本旅客鐵道](../Page/西日本旅客鐵道.md "wikilink")(JR西日本)的[鐵路車站](https://zh.wikipedia.org/wiki/鐵路車站 "wikilink")。但尼崎市的中心車站是[阪神電鐵](../Page/阪神電氣鐵道.md "wikilink")[尼崎站](https://zh.wikipedia.org/wiki/尼崎站_\(阪神\) "wikilink")。2003年（平成15年），入選[近畿車站百選](../Page/近畿車站百選.md "wikilink")（第四回）。
+**尼崎站**（）位於[日本](../Page/日本.md "wikilink")[兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")[尼崎市潮江](../Page/尼崎市.md "wikilink")1丁目1番1號，屬於[西日本旅客鐵道](../Page/西日本旅客鐵道.md "wikilink")(JR西日本)的[鐵路車站](https://zh.wikipedia.org/wiki/鐵路車站 "wikilink")。但尼崎市的中心車站是[阪神電鐵](../Page/阪神電氣鐵道.md "wikilink")[尼崎站](../Page/尼崎站_\(阪神\).md "wikilink")。2003年（平成15年），入選[近畿車站百選](../Page/近畿車站百選.md "wikilink")（第四回）。
 
 ## 使用路線
 
@@ -143,7 +143,7 @@
         丹波路快速、快速
 
           -
-            大阪（JR-G47）－**尼崎（JR-G49）**－（JR-G52）
+            大阪（JR-G47）－**尼崎（JR-G49）**－[伊丹](../Page/伊丹站_\(JR西日本\).md "wikilink")（JR-G52）
 
         快速（途經JR東西線，塚口站到發）、區間快速
 

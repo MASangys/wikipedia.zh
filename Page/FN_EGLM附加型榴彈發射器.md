@@ -79,13 +79,15 @@ AG36](../Page/HK_AG36附加型榴彈發射器.md "wikilink")、[AG-C/EGLM及](ht
 
   -   - [波蘭武裝部隊](../Page/波蘭軍事.md "wikilink")[行動應變及機動組](../Page/行動應變及機動組.md "wikilink")
 
+  -   - \[3\]
+
   -   - （GL-1）
 
-  -   - [西班牙國家警察](https://zh.wikipedia.org/wiki/西班牙國家警察 "wikilink")（GL-1）
+  -   - （GL-1）
 
   -   - [美國特種作戰司令部](https://zh.wikipedia.org/wiki/美國特種作戰司令部 "wikilink")
 
-      - \[3\]
+      - \[4\]
 
 ## 流行文化
 
@@ -317,4 +319,7 @@ SCAR\#EGLM](https://zh.wikipedia.org/wiki/pl:Karabin_FN_SCAR#EGLM "wikilink")
     Mk. 20](http://www.thefirearmblog.com/blog/2011/12/15/navy-to-buy-additional-fn-scar-mk-13-mk-16-mk-17-and-mk-20/)
     – The Firearm Blog, December 15, 2011
 2.
-3.
+3.  [NSPA awards a contract to FN Herstal for the supply of rifles,
+    grenade launchers and machine guns to the Portuguese
+    Army](https://www.nspa.nato.int/en/news/news-20190221-4.htm)
+4.

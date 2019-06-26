@@ -20,7 +20,7 @@ Gen2x1） 為 10Gbps，而USB 3.2（USB 3.2 Gen2x2）更达20Gbps。
 
 USB的设计为[非对称式的](https://zh.wikipedia.org/wiki/非对称式 "wikilink")，它由一个[主机控制器和若干通过](https://zh.wikipedia.org/wiki/主机 "wikilink")[集线器设备以树形连接的](https://zh.wikipedia.org/wiki/集线器 "wikilink")[设备组成](https://zh.wikipedia.org/wiki/设备 "wikilink")。一个控制器下最多可以有5级Hub，包括Hub在内，最多可以連接128個設備，因為在設計時是使用7位元[定址欄位](https://zh.wikipedia.org/wiki/定址欄位 "wikilink")，二的七次方就等於128，一般人說USB連接127個是指連接（某一設備）時需扣除一個連接主機的USB接頭，而一台计算机可以同时有多个控制器。和[SPI](../Page/序列周邊介面.md "wikilink")-[SCSI等标准不同](https://zh.wikipedia.org/wiki/SCSI "wikilink")，USB集线器不需要终结器。
 
-USB可以连接的[外设有](https://zh.wikipedia.org/wiki/外设 "wikilink")[鼠标](../Page/鼠标.md "wikilink")、[键盘](https://zh.wikipedia.org/wiki/键盘 "wikilink")、[游戏手柄](https://zh.wikipedia.org/wiki/游戏手柄 "wikilink")、[游戏杆](https://zh.wikipedia.org/wiki/游戏杆 "wikilink")、[扫描仪](https://zh.wikipedia.org/wiki/扫描仪 "wikilink")、[数码相机](../Page/数码相机.md "wikilink")、[打印机](../Page/打印机.md "wikilink")、[硬盘和](../Page/硬盘.md "wikilink")[网络等部件](https://zh.wikipedia.org/wiki/网络 "wikilink")。对数码相机这样的多媒体外设USB已经是缺省接口；由于大大简化与计算机的连接，USB也逐步取代[并行接口成为打印机的主流连接方式之一](https://zh.wikipedia.org/wiki/并行接口 "wikilink")。2004年已经有超过1亿台USB设备；到2007年時，高清晰度数字视频外设是仅有的USB未能染指的外设类别，因为他需要更高的传输速率。
+USB可以连接的[外设有](https://zh.wikipedia.org/wiki/外设 "wikilink")[鼠标](../Page/鼠标.md "wikilink")、[键盘](https://zh.wikipedia.org/wiki/键盘 "wikilink")、[游戏手柄](https://zh.wikipedia.org/wiki/游戏手柄 "wikilink")、[游戏杆](https://zh.wikipedia.org/wiki/游戏杆 "wikilink")、[扫描仪](https://zh.wikipedia.org/wiki/扫描仪 "wikilink")、[数码相机](../Page/数码相机.md "wikilink")、[打印机](../Page/打印机.md "wikilink")、[硬盘和](../Page/硬盘.md "wikilink")[网络等部件](https://zh.wikipedia.org/wiki/网络 "wikilink")。对数码相机这样的多媒体外设USB已经是缺省接口；由于大大简化与计算机的连接，USB也逐步取代[并行接口成为打印机的主流连接方式之一](https://zh.wikipedia.org/wiki/并行接口 "wikilink")。2004年已经有超过1亿台USB设备；到2007年時，高清晰度数字视频外设是仅有的USB未能染指的外设类别，因为他需要更高的传输速率，不過USB3.1和2019年USB4的問世，高解析度數位影片外設和外接式顯示卡也能在USB播放。
 
 现USB标准中，按照速度等级和连接方式分为以下七种版本。注意USB-IF正式的主版本号只有USB 2.0和USB 3.2两个。
 
@@ -102,7 +102,8 @@ Low Speed</p></td>
 
 2001年底，公布规范，与之前的、和一样，该规范完全[向下兼容](../Page/向下兼容.md "wikilink")。随后，公布（，当前版本：）作为规范的补充标准，使其能够用于在便携设备之间直接交换数据。
 
-USB的连接器分为A、B两种，分别用于主机和设备；其各自的小型化的连接器是,  和 , ，另外还有（可同時支援及）的插口。
+USB的连接器分为A、B两种，分别用于主机和设备；其各自的小型化的连接器是,  和 , ，另外还有（可同時支援及）的插口。USB
+3.1版本中引入了支持正反面不区分插入的[C型](../Page/USB_Type-C.md "wikilink")。
 
 ## 技术细节
 
@@ -250,7 +251,7 @@ USB使用NRZI编码方式：当数据为0时，电平翻转；数据为1时，�
 ### 軟體架構
 
 [PCB_mounting_female_USB_A_and_B_connectors.jpg](https://zh.wikipedia.org/wiki/File:PCB_mounting_female_USB_A_and_B_connectors.jpg "fig:PCB_mounting_female_USB_A_and_B_connectors.jpg")上的USB插座\]\]
-一個USB主機通過Hub鏈可以連接多個設備。由於理論上一個物理設備可以承担多種功能，例如[路由器同時也可以是一個](../Page/路由器.md "wikilink")[SD卡讀卡器](../Page/SD卡.md "wikilink")，USB的術語中設備(Device)指的是功能(Functions)。集線器(Hub)由於作用特殊，按照正式的觀點並不認為是Function。直接連接到主機的Hub是根(root)Hub。
+一個USB主機通過Hub鏈可以連接多個設備。由於理論上一個物理設備可以承担多種功能，例如[路由器同時也可以是一個](../Page/路由器.md "wikilink")[SD卡讀卡器](../Page/SD卡.md "wikilink")，USB的術語中設備（Device）指的是功能（Functions）。集線器（Hub）由於作用特殊，按照正式的觀點並不認為是Function。直接連接到主機的Hub是根（root）Hub。
 
 #### 端點
 
@@ -417,6 +418,21 @@ Bits 1, 2 and 4 ... 7：保留。</p></td>
 </tbody>
 </table>
 
+#### 傳輸協定
+
+  - **BOT傳輸協定**：BOT (Bulk-Only Transport)\[5\]，誕生於1999年，專為USB
+    1.1所設計，至今最快的USB
+    3.1都可向下兼容這個基本的BOT傳輸協定。在傳輸資料作業開始時，外接USB
+    3.0裝置與電腦主機板（USB 3.0擴充卡）之間，在同一時間單位內，每次只傳輸單一指令，所以速度較UASP慢，屬於「半雙工傳輸模式」。
+  - **UASP傳輸協定**\[6\]\[7\]：UASP (USB Attached SCSI Protocol)，與USB
+    3.0一同誕生於2008年，USB應用者論壇（USB-IF）為改良BOT傳輸協定過慢的缺點，將SCSI架構改進並推出UASP，包括多命令平行處理能力、任務管理與控制等機制，也支援[NCQ](https://zh.wikipedia.org/wiki/NCQ "wikilink")（原生指令排序），速度比BOT傳輸模式快上許多，屬於「全雙工傳輸模式」。啟動UASP雖然能提升傳輸效能，但也有許多限制，電腦用戶必須具備支援UASP的外接USB
+    3.0裝置內部的裝置端控制器、主機板上的主機端控制器、驅動程式，三者缺一不可（有的還額外需要安裝靱體）。在OS支援度上，使用[Windows
+    7的用戶若想啟動UASP](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")，必須安裝相應的驅動程式，如果用戶使用[Windows
+    8](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")/[Mac OS
+    X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")
+    10.8.3以及之後陸續推出的10.9版本，因為其已內建UASP的驅動程式，所以直接原生支援UASP，如此可省去安裝驅動程式的麻煩。UASP的裝置端橋接晶片有：LucidPort
+    USB 300、祥碩科技ASMedia ASM1053/ASM1042、智微JMS 569、德州儀器TUSB9261等等。
+
 ### 设备分类
 
 [USB_Flash_Drive_animated.gif](https://zh.wikipedia.org/wiki/File:USB_Flash_Drive_animated.gif "fig:USB_Flash_Drive_animated.gif")\]\]
@@ -432,21 +448,21 @@ Bits 1, 2 and 4 ... 7：保留。</p></td>
 
 | ID          | 裝置                                                             | 例子                                                                                                                                                                       |
 | ----------- | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 0x00 \[5\]  | 保留值                                                            | 無                                                                                                                                                                        |
-| 0x01 \[6\]  | 音效裝置                                                           | [音效卡](https://zh.wikipedia.org/wiki/音效卡 "wikilink")                                                                                                                      |
+| 0x00 \[8\]  | 保留值                                                            | 無                                                                                                                                                                        |
+| 0x01 \[9\]  | 音效裝置                                                           | [音效卡](https://zh.wikipedia.org/wiki/音效卡 "wikilink")                                                                                                                      |
 | 0x02        | USB通訊控制裝置                                                      | 網卡、數據機、串列埠                                                                                                                                                               |
-| 0x03 \[7\]  | [人機介面裝置](https://zh.wikipedia.org/wiki/人機介面裝置 "wikilink")（HID） | [鍵盤](https://zh.wikipedia.org/wiki/鍵盤 "wikilink")、[滑鼠](https://zh.wikipedia.org/wiki/滑鼠 "wikilink")                                                                      |
+| 0x03 \[10\] | [人機介面裝置](https://zh.wikipedia.org/wiki/人機介面裝置 "wikilink")（HID） | [鍵盤](https://zh.wikipedia.org/wiki/鍵盤 "wikilink")、[滑鼠](https://zh.wikipedia.org/wiki/滑鼠 "wikilink")                                                                      |
 | 0x05        | 物理介面裝置                                                         | [控制杆](../Page/控制杆.md "wikilink")                                                                                                                                         |
-| 0x06 \[8\]  | 靜止圖像捕捉設備                                                       | [影像掃描器](../Page/影像掃描器.md "wikilink")、[Picture Transfer Protocol](../Page/PictBridge.md "wikilink")                                                                       |
-| 0x07 \[9\]  | 列印裝置                                                           | [打印機](https://zh.wikipedia.org/wiki/打印機 "wikilink")                                                                                                                      |
-| 0x08 \[10\] | 大容量存取裝置                                                        | [USB隨身碟](https://zh.wikipedia.org/wiki/U盘 "wikilink")、移動[硬碟](https://zh.wikipedia.org/wiki/硬碟 "wikilink")、[記憶卡讀卡機](../Page/記憶卡.md "wikilink")、數碼相機                       |
-| 0x09 \[11\] | [集線器](../Page/集線器.md "wikilink")                               | 集線器                                                                                                                                                                      |
-| 0x0A \[12\] | [通信裝置](https://zh.wikipedia.org/wiki/數據通信 "wikilink")          | [數據機](https://zh.wikipedia.org/wiki/數據機 "wikilink")、[網絡卡、](../Page/网卡.md "wikilink")[ISDN](https://zh.wikipedia.org/wiki/ISDN "wikilink")、[傳真](../Page/傳真.md "wikilink") |
+| 0x06 \[11\] | 靜止圖像捕捉設備                                                       | [影像掃描器](../Page/影像掃描器.md "wikilink")、[Picture Transfer Protocol](../Page/PictBridge.md "wikilink")                                                                       |
+| 0x07 \[12\] | 列印裝置                                                           | [打印機](https://zh.wikipedia.org/wiki/打印機 "wikilink")                                                                                                                      |
+| 0x08 \[13\] | 大容量存取裝置                                                        | [USB隨身碟](https://zh.wikipedia.org/wiki/U盘 "wikilink")、移動[硬碟](https://zh.wikipedia.org/wiki/硬碟 "wikilink")、[記憶卡讀卡機](../Page/記憶卡.md "wikilink")、數碼相機                       |
+| 0x09 \[14\] | [集線器](../Page/集線器.md "wikilink")                               | 集線器                                                                                                                                                                      |
+| 0x0A \[15\] | [通信裝置](https://zh.wikipedia.org/wiki/數據通信 "wikilink")          | [數據機](https://zh.wikipedia.org/wiki/數據機 "wikilink")、[網絡卡、](../Page/网卡.md "wikilink")[ISDN](https://zh.wikipedia.org/wiki/ISDN "wikilink")、[傳真](../Page/傳真.md "wikilink") |
 | 0x0B        | 智慧卡裝置                                                          | 讀卡器                                                                                                                                                                      |
-| 0x0E \[13\] | 影像裝置                                                           | [網路攝影機](https://zh.wikipedia.org/wiki/網路攝影機 "wikilink")                                                                                                                  |
-| 0xE0 \[14\] | 無線傳輸裝置                                                         | [藍牙](../Page/藍牙.md "wikilink")                                                                                                                                           |
+| 0x0E \[16\] | 影像裝置                                                           | [網路攝影機](https://zh.wikipedia.org/wiki/網路攝影機 "wikilink")                                                                                                                  |
+| 0xE0 \[17\] | 無線傳輸裝置                                                         | [藍牙](../Page/藍牙.md "wikilink")                                                                                                                                           |
 | 0xFE        | 特殊的應用                                                          | 紅外線資料橋接器                                                                                                                                                                 |
-| 0xFF \[15\] | 定製裝置                                                           |                                                                                                                                                                          |
+| 0xFF \[18\] | 定製裝置                                                           |                                                                                                                                                                          |
 
 ### USB接头
 
@@ -459,7 +475,7 @@ Bits 1, 2 and 4 ... 7：保留。</p></td>
   - 在USB网络中，接头被强制使用定向拓扑。USB不支持环形网络，因此不兼容的USB设备之间接口也不兼容。不像其他通讯系统（如RJ-45电缆）不能使用转换插头，防止环形USB网络产生。
   - 适度的插拔力。USB电缆和小型USB设备能被插口卡住（不需要夹子、螺丝或者其他接口那样的锁扣）。只需要适当力量插拔即可連接周邊設備。
   - 由于接头的构造，在将USB插头插入USB座时，插头外面的金属保护套会先接触到USB座内对应的金属部份，之后插头内部的四个触点才会接触到USB座。金属保护套会连接到系统的地線，提供路径使静电可以放电，避免因静电通过电子零件而造成损坏。
-  - USB电缆最长允许5米，更长的距离需要HUB。\[16\]
+  - USB电缆最长允许5米，更长的距离需要HUB。\[19\]
 
 #### 接頭一覽表
 
@@ -754,9 +770,9 @@ USB-C</p></td>
 <tr class="header">
 <th><p>接头</p></th>
 <th><p>USB 2.0</p></th>
-<th><p>USB 3.2 Genx1</p></th>
-<th><p>USB 3.2 Genx2</p></th>
-<th><p>未来的USB标准</p></th>
+<th><p>USB 3.2 Gen2x1</p></th>
+<th><p>USB 3.2 Gen2x2</p></th>
+<th><p>USB 4</p></th>
 </tr>
 </thead>
 <tbody>
@@ -765,7 +781,7 @@ USB-C</p></td>
 <td><p>达480Mbps</p></td>
 <td><p>达10Gbps</p></td>
 <td><p>达20Gbps</p></td>
-<td><p>至少达40Gbps</p></td>
+<td><p>达40Gbps</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/File:USB_Type-A.svg" title="fig:USB_Type-A.svg">USB_Type-A.svg</a></p></td>
@@ -832,7 +848,7 @@ Micro-A, Micro-AB</p></td>
 
 [USB_fans_1.jpg](https://zh.wikipedia.org/wiki/File:USB_fans_1.jpg "fig:USB_fans_1.jpg")\]\]
 USB接頭默认提供一組5[伏特的電壓](../Page/伏特.md "wikilink")，可作為相連接USB設備的電源。實際上，設備接收到的電源可能會低於5V，只略高於4V。通过USB
-PD3.0、QC4.0等快速充电协议，现有USB接口的最大的可以达到20V，最低3V。
+PD3.0、QC4等快速充电协议，现有USB接口的最大的可以达到20V，最低3V。
 
 一個USB的HUB最多只能提供500
 [mA的電流](../Page/安培.md "wikilink")。如此的電流已足以驅動許多電子設備，不過連接在總線供電HUB的所有設備，需要共享500mA的電流額度。一個由總線供電的設備可以使用到它所連接埠上允許輸出的所有電源。
@@ -855,7 +871,7 @@ ATA, SATA, ATAPI，或者SCSI到USB
 port。对于用户来讲，就像连接了一个内部的驱动。其他的竞争标准是[eSATA以及](https://zh.wikipedia.org/wiki/SATA#External_SATA "wikilink")[Firewire](https://zh.wikipedia.org/wiki/Firewire "wikilink")。
 
 在市面也可以找到USB 3.0
-Dongle\[17\]此類小型可插拔式的行動裝置，尺寸如同[隨身碟一樣迷你](https://zh.wikipedia.org/wiki/隨身碟 "wikilink")，有廠商推出USB介面的[Wi-Fi](../Page/Wi-Fi.md "wikilink")/[藍芽無線Dongle](https://zh.wikipedia.org/wiki/藍芽 "wikilink")，只要將此Dongle插入液晶電視上，即可透過無線連接方式，將使用者手機、平板、筆電中的影片、照片分享到液晶電視上觀看，市面上已有廠商將Android作業系統直接寫入Dongle，成為多功能電視棒的產品。
+Dongle\[20\]此類小型可插拔式的行動裝置，尺寸如同[隨身碟一樣迷你](https://zh.wikipedia.org/wiki/隨身碟 "wikilink")，有廠商推出USB介面的[Wi-Fi](../Page/Wi-Fi.md "wikilink")/[藍芽無線Dongle](https://zh.wikipedia.org/wiki/藍芽 "wikilink")，只要將此Dongle插入液晶電視上，即可透過無線連接方式，將使用者手機、平板、筆電中的影片、照片分享到液晶電視上觀看，市面上已有廠商將Android作業系統直接寫入Dongle，成為多功能電視棒的產品。
 
 相关存储产品包括：[主机板](https://zh.wikipedia.org/wiki/主机板 "wikilink")、[磁碟阵列卡](https://zh.wikipedia.org/wiki/磁碟阵列 "wikilink")、[硬碟外接盒](https://zh.wikipedia.org/wiki/硬碟外接盒 "wikilink")、[磁碟阵列系统](https://zh.wikipedia.org/wiki/磁碟阵列 "wikilink"),、[NAS网路储存设备](https://zh.wikipedia.org/wiki/网路附加储存 "wikilink")、[硬碟外接座等等](https://zh.wikipedia.org/wiki/硬碟外接座 "wikilink")。
 
@@ -921,17 +937,17 @@ USB 1.1：1998年9月发布。
       - High-Speed Inter-Chip USB Electrical Specification Revision
         1.0：2007年9月发布。
 
-### USB 3.0（USB 3.2 Gen1）
+### USB 3.0（USB 3.1 Gen1）
 
 [SuperSpeed_USB.svg](https://zh.wikipedia.org/wiki/File:SuperSpeed_USB.svg "fig:SuperSpeed_USB.svg")
  USB 3.0於2008年11月發布，速度由480Mbps大幅提升到5Gbps。USB 3.0插座通常是藍色的，並向下兼容USB 2.0。
 
-### USB 3.1（USB 3.2 Gen2）
+### USB 3.1（USB 3.1 Gen2）
 
 [Certified_SuperSpeed_Plus_USB_Logo.svg](https://zh.wikipedia.org/wiki/File:Certified_SuperSpeed_Plus_USB_Logo.svg "fig:Certified_SuperSpeed_Plus_USB_Logo.svg")
  USB3.0推廣小組於2013年7月31日宣佈USB
-3.1規格\[18\]，傳輸速度提升為10Gb/s，比USB3.0的5Gb/s快上一倍，並向下兼容USB
-2.0/1.0，如果要得到10Gb/s的傳輸速度仍需在主機、目標端同時具備對應的晶片才能達成，電力供應可高達100瓦。\[19\]
+3.1規格\[21\]，傳輸速度提升為10Gb/s，比USB3.0的5Gb/s快上一倍，並向下兼容USB
+2.0/1.0，如果要得到10Gb/s的傳輸速度仍需在主機、目標端同時具備對應的晶片才能達成，電力供應可高達100瓦。\[22\]
 
 ### USB 3.2（USB 3.2 Gen2x2）
 
@@ -945,9 +961,9 @@ USB 3.2的主要技術要點：
 據悉，USB 3.2因為要求集成USB 2.0和USB 3.1主控，所以完全向下兼容。另外，從USB
 3.2開始，Type-C將成為唯一推薦的接口方案。
 
-### USB 4.0
+### USB 4
 
-USB 4的規格目前尚未确定，但是已有開發公司先行宣布：\[20\]
+USB 4的規格目前尚未确定，但是已有開發公司先行宣布：\[23\]
 
 採用Thunderbolt協定規格，使Thunderbolt 3裝置將能相容於USB 4，現有3.2及2.0也向下兼容。
 
@@ -962,20 +978,6 @@ On-The-Go是USB2.0規格的補充標準。它可使USB裝置，例如播放器�
 
 USB Power
 Delivery是[USB開發者論壇在](../Page/USB開發者論壇.md "wikilink")2012年7月5日發佈的[USB充電標準與技術](../Page/USB.md "wikilink")。
-
-## 傳輸協定
-
-  - **BOT傳輸協定**：BOT (Bulk-Only Transport)\[21\]，誕生於1999年，專為USB
-    1.1所設計，至今最快的USB 3.1都可向下兼容這個基本的BOT傳輸協定。在傳輸資料作業開始時，外接USB
-    3.0裝置與電腦主機板（USB 3.0擴充卡）之間，在同一時間單位內，每次只傳輸單一指令，所以速度較UASP慢，屬於「半雙工傳輸模式」。
-  - **UASP傳輸協定**\[22\]\[23\]：UASP (USB Attached SCSI Protocol)，與USB
-    3.0一同誕生於2008年，USB應用者論壇（USB-IF）為改良BOT傳輸協定過慢的缺點，將SCSI架構改進並推出UASP，包括多命令平行處理能力、任務管理與控制等機制，也支援[NCQ](https://zh.wikipedia.org/wiki/NCQ "wikilink")（原生指令排序），速度比BOT傳輸模式快上許多，屬於「全雙工傳輸模式」。啟動UASP雖然能提升傳輸效能，但也有許多限制，電腦用戶必須具備支援UASP的外接USB
-    3.0裝置內部的裝置端控制器、主機板上的主機端控制器、驅動程式，三者缺一不可（有的還額外需要安裝靱體）。在OS支援度上，使用[Windows
-    7的用戶若想啟動UASP](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")，必須安裝相應的驅動程式，如果用戶使用[Windows
-    8](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")/[Mac OS
-    X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")
-    10.8.3以及之後陸續推出的10.9版本，因為其已內建UASP的驅動程式，所以直接原生支援UASP，如此可省去安裝驅動程式的麻煩。UASP的裝置端橋接晶片有：LucidPort
-    USB 300、祥碩科技ASMedia ASM1053/ASM1042、智微JMS 569、德州儀器TUSB9261等等。
 
 ## 扩展
 
@@ -1042,11 +1044,14 @@ Delivery是[USB開發者論壇在](../Page/USB開發者論壇.md "wikilink")2012
     Connectivity](http://www.omtp.org/Publications/Display.aspx?Id=a9dd86d0-d9a6-4a47-81f8-4da8c402d1e7)
     at omtp.org
 
-5.  PC硬體介面徹底研究ISBN 957-442-275-5
+5.  [USB.org對於BOT與UASP傳輸協定的解釋](http://www.usb.org/developers/presentations/pres0410/2-4_SSUSB_DevCon_UASP_Stevens.pdf)
 
-6.
+
+6.  [T客邦對UASP的解釋與產品測試報告](http://www.techbang.com/posts/12535-windows-8-support-catalytic-usb-3-is-more-popular)
+
 7.
-8.
+8.  PC硬體介面徹底研究ISBN 957-442-275-5
+
 9.
 10.
 11.
@@ -1055,24 +1060,21 @@ Delivery是[USB開發者論壇在](../Page/USB開發者論壇.md "wikilink")2012
 14.
 15.
 16.
+17.
+18.
+19.
 
-17. [》Android系統　播放器 -
+20. [》Android系統　播放器 -
     PChome線上購物](http://shopping.pchome.com.tw/?mod=store&func=style_show&SR_NO=DMAA3Z)
 
-18. [USB
+21. [USB
     IF應用者論壇於2013/7/31發布新聞稿，宣布USB 3.1規格。](http://www.usb.org/press/USB-IF_Press_Releases/SuperSpeedUSB_10Gbps_Available_20130731.pdf)
 
 
-19. [2013/04/10 USB應用者論壇中，主席兼首席營運官Jeff
+22. [2013/04/10 USB應用者論壇中，主席兼首席營運官Jeff
     Ravencraft表示，USB 3.1的電力供應可達到100瓦。](http://www.usb.org/press/presskit/USBIF_MomentumPR_IDF2013_FINAL_translated.pdf)
 
 
-20.
-
-21. [USB.org對於BOT與UASP傳輸協定的解釋](http://www.usb.org/developers/presentations/pres0410/2-4_SSUSB_DevCon_UASP_Stevens.pdf)
-
-
-22. [T客邦對UASP的解釋與產品測試報告](http://www.techbang.com/posts/12535-windows-8-support-catalytic-usb-3-is-more-popular)
-
 23.
+
 24.

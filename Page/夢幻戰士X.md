@@ -2,7 +2,7 @@
 
 ## 遊戲介紹
 
-[獨立於](https://zh.wikipedia.org/wiki/獨立 "wikilink")[夢幻戰士正統系列](../Page/夢幻戰士.md "wikilink")[世界觀外的另一](../Page/世界.md "wikilink")[交錯假想](https://zh.wikipedia.org/wiki/交錯 "wikilink")[故事集](https://zh.wikipedia.org/wiki/故事 "wikilink")，共分成五大篇：
+[獨立於](https://zh.wikipedia.org/wiki/獨立 "wikilink")[夢幻戰士正統系列](../Page/夢幻戰士.md "wikilink")[世界觀外的另一](../Page/世界.md "wikilink")[交錯假想](https://zh.wikipedia.org/wiki/交錯 "wikilink")[故事集](../Page/故事.md "wikilink")，共分成五大篇：
 
 1.  優子篇 另一個命運（）
 2.  麗子篇 渾身是傷的戰士（）

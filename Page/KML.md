@@ -50,7 +50,7 @@ Standard）可以在這個網頁見到完整的手冊內容：http://www.opengeo
 [Category:基于XML的标准](https://zh.wikipedia.org/wiki/Category:基于XML的标准 "wikilink")
 [Category:Google](https://zh.wikipedia.org/wiki/Category:Google "wikilink")
 [Category:置标语言](https://zh.wikipedia.org/wiki/Category:置标语言 "wikilink")
-[Category:GIS_file_formats](https://zh.wikipedia.org/wiki/Category:GIS_file_formats "wikilink")
+[Category:GIS文件格式](https://zh.wikipedia.org/wiki/Category:GIS文件格式 "wikilink")
 
 1.  2008年4月14日OGC宣布KML成為OGC
     KML的消息http://www.opengeospatial.org/pressroom/pressreleases/857

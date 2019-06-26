@@ -417,6 +417,8 @@ twitrub\]，提供快速删除twitter tweets的應用程序。
 
 目前中国大陆地区无法直接登录Twitter，可通过[突破网络审查的相关方法访问Twitter官网](../Page/突破网络审查.md "wikilink")。
 
+尽管Twitter遭到防火长城的封锁，包括中国中央电视台在内的许多中国媒体却已在Twitter上开通了官方账号，并定期发推
+
 ### 对封锁的反制
 
   - 由于Twitter开放[应用程序接口](../Page/应用程序接口.md "wikilink")，众多使用者搭建了大量的Twitter第三方应用，其中部分未被封锁。用户可通过未被封锁的Twitter第三方应用免“[翻墙](https://zh.wikipedia.org/wiki/翻墙 "wikilink")”的使用Twitter的服务。由于使用Twitter第三方应用有泄露密码的风险，2010年8月开始Twitter已经逐步停止未经OAuth认证的第三方应用，但用户仍无法避免第三方应用对自己的帐号发送广告或恶意链接的情况。

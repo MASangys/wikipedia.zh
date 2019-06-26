@@ -142,7 +142,7 @@ V（台灣）播出，主要是以聯誼方式為仍單身的藝人尋找另一�
 <td><p>14</p></td>
 <td><p>10月2日</p></td>
 <td><p>漫畫美型男鄭元暢來聯誼</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鄭元暢" title="wikilink">鄭元暢</a></p></td>
+<td><p><a href="../Page/鄭元暢.md" title="wikilink">鄭元暢</a></p></td>
 <td></td>
 <td><p>婉婷、Honey、珮甄</p></td>
 <td><p>珮甄</p></td>

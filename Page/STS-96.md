@@ -8,7 +8,7 @@
   - **[塔玛拉·杰尼根](https://zh.wikipedia.org/wiki/塔玛拉·杰尼根 "wikilink")**（，曾执行、、、以及任务），任务专家
   - **[丹尼尔·巴利](https://zh.wikipedia.org/wiki/丹尼尔·巴利 "wikilink")**（，曾执行、以及任务），任务专家
   - **[朱莉·佩耶特](https://zh.wikipedia.org/wiki/朱莉·佩耶特 "wikilink")**（，[加拿大宇航员](../Page/加拿大.md "wikilink")，曾执行任务），任务专家
-  - **[瓦列里·托卡列夫](../Page/瓦列里·托卡列夫.md "wikilink")**（，[俄罗斯宇航员](../Page/俄罗斯.md "wikilink")，曾执行、[联盟TMA-7以及](https://zh.wikipedia.org/wiki/联盟TMA-7 "wikilink")[远征12号任务](https://zh.wikipedia.org/wiki/远征12号 "wikilink")），任务专家
+  - **[瓦列里·托卡列夫](../Page/瓦列里·托卡列夫.md "wikilink")**（，[俄罗斯宇航员](../Page/俄罗斯.md "wikilink")，曾执行、[联盟TMA-7以及](../Page/联盟TMA-7.md "wikilink")[远征12号任务](https://zh.wikipedia.org/wiki/远征12号 "wikilink")），任务专家
 
 [Category:1999年美国](https://zh.wikipedia.org/wiki/Category:1999年美国 "wikilink")
 [Category:1999年科學](https://zh.wikipedia.org/wiki/Category:1999年科學 "wikilink")

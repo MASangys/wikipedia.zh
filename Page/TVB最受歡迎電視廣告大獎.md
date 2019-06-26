@@ -57,7 +57,7 @@
 <td><p>5月15日晚上9時30分</p></td>
 <td><p><a href="../Page/曾志偉.md" title="wikilink">曾志偉</a>、<a href="../Page/鄧梓峰.md" title="wikilink">鄧梓峰</a>、<a href="../Page/丘凱敏.md" title="wikilink">丘凱敏</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/衛世輝" title="wikilink">衛世輝</a></p></td>
+<td><p><a href="../Page/衛世輝.md" title="wikilink">衛世輝</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/梁偉庭" title="wikilink">梁偉庭</a></p></td>
 </tr>
 <tr class="odd">
@@ -108,11 +108,11 @@
 <tr class="even">
 <td><p>2016（第十屆）</p></td>
 <td><p>7月23日晚上8時30分</p></td>
-<td><p><a href="../Page/陸浩明.md" title="wikilink">陸浩明</a>、<a href="../Page/區永權.md" title="wikilink">區永權</a>、<a href="../Page/黃心穎.md" title="wikilink">黃心穎</a>、<a href="../Page/麥美恩.md" title="wikilink">麥美恩</a>、<a href="https://zh.wikipedia.org/wiki/朱智賢" title="wikilink">朱智賢</a></p></td>
+<td><p><a href="../Page/陸浩明.md" title="wikilink">陸浩明</a>、<a href="../Page/區永權.md" title="wikilink">區永權</a>、<a href="../Page/黃心穎.md" title="wikilink">黃心穎</a>、<a href="../Page/麥美恩.md" title="wikilink">麥美恩</a>、<a href="../Page/朱智賢.md" title="wikilink">朱智賢</a></p></td>
 <td><p>同時在場的廣告商亦會參與<a href="https://zh.wikipedia.org/wiki/香港小姐" title="wikilink">香港小姐的投票</a><br />
 頒獎禮後為《全城Like爆好廣告》，主持為<a href="../Page/張曦雯.md" title="wikilink">張曦雯</a>、<a href="../Page/莫家淦.md" title="wikilink">莫家淦</a><br />
 演出：<a href="https://zh.wikipedia.org/wiki/何雁詩" title="wikilink">何雁詩</a>、<a href="https://zh.wikipedia.org/wiki/農夫" title="wikilink">農夫</a>、<a href="https://zh.wikipedia.org/wiki/狄易達" title="wikilink">狄易達</a>、<a href="../Page/甄澤權.md" title="wikilink">甄澤權</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/衛世輝" title="wikilink">衛世輝</a></p></td>
+<td><p><a href="../Page/衛世輝.md" title="wikilink">衛世輝</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/鄭瑞麒" title="wikilink">鄭瑞麒</a></p></td>
 </tr>
 </tbody>

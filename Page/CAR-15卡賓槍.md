@@ -1146,7 +1146,7 @@ Recon）亦有裝備小量柯爾特突擊型](https://zh.wikipedia.org/wiki/武�
     Offensive）：型號為柯爾特733型，命名為「M4A1-S」，反恐部隊陣營專用武器，可裝上[消音器](../Page/抑制器.md "wikilink")。
   - 2013年—《[-{zh-hans:收获日;
     zh-hant:劫薪日;}-2](../Page/劫薪日2.md "wikilink")》（Payday
-    2）：型號為柯爾特733型，命名為「AMCAR」。
+    2）：型號為柯爾特733型(預設)，命名為「AMCAR」，可在黑市購買後並另外花費改裝。
   - 2015年—《[-{zh-hans:战地：硬仗;zh-hant:戰地風雲：強硬路線;}-](../Page/战地：硬仗.md "wikilink")》：型號為柯爾特933型，有兩種版本：
       - [5.56×45毫米NATO型命名為](../Page/5.56×45mm_NATO.md "wikilink")「RO933」，30+1發彈匣，標準配備[Aimpoint
         Comp Micro

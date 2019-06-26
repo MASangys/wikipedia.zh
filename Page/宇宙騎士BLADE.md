@@ -79,8 +79,7 @@
 
 <!-- end list -->
 
-  - 巴纳德·奥图尔（Barnard
-    O'Toole、声优：[池田胜](https://zh.wikipedia.org/wiki/池田胜 "wikilink")）
+  - 巴纳德·奥图尔（Barnard O'Toole、声优：[池田胜](../Page/池田胜.md "wikilink")）
     联合防卫军的军官，独眼。曾经与SpaceKnights共同作战，与D-Boy成了忘年交。和军方失去联系后带领部下继续和拉达姆展开Orbital
     Ring的争夺战。之后又与D-Boy重逢，为了超级化争取时间，被Tekkaman Lance所杀。
 

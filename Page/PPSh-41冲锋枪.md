@@ -3,7 +3,7 @@
 [Berlin_Treptow_Ehrenmal_12.jpg](https://zh.wikipedia.org/wiki/File:Berlin_Treptow_Ehrenmal_12.jpg "fig:Berlin_Treptow_Ehrenmal_12.jpg")的無名戰士紀念碑。\]\]
 **PPSh-41**（／PPSh，，意為**什帕金1941型冲锋枪**），又称「**波波沙**」（）和「**飽嗝槍**」（）是一款由[苏联在](../Page/苏联.md "wikilink")[二战期間研製及生產的](../Page/第二次世界大战.md "wikilink")[冲锋枪](../Page/冲锋枪.md "wikilink")，發射[7.62×25毫米托卡列夫](../Page/7.62×25mm托卡列夫手槍彈.md "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
-它是苏联在二战期间生产数量最多的武器。该枪的设计目的是以一款较為廉价的近距离速射武器取代造价高昂工艺复杂的[PPD-40冲锋枪与](../Page/PPD-40冲锋枪.md "wikilink")[PPD-1938冲锋枪](../Page/PPD-40冲锋枪.md "wikilink")。PPSh是一枝使用[開放式槍機](../Page/開放式槍機.md "wikilink")、[反沖作用操作的可選射自動武器](../Page/反沖作用_\(槍械\).md "wikilink")。
+它是苏联在二战期间生产数量最多的武器。该枪的设计目的是以一款较為廉价的近距离速射武器取代造价高昂工艺复杂的[PPD-40冲锋枪与](../Page/PPD-40冲锋枪.md "wikilink")[PPD-1938冲锋枪](../Page/PPD-40冲锋枪.md "wikilink")。PPSh是一枝使用[開放式槍栓](../Page/開放式槍栓.md "wikilink")、[反沖作用操作的可選射自動武器](../Page/反沖作用_\(槍械\).md "wikilink")。
 
 该枪为苏联红军步兵在二战中的标志性装备之一，到战争结束时已有约600万支交付部队使用。除此以外，PPSh-41並在二戰後在許多武裝衝突之中使用。而中國仿製自PPSh-41的50式衝鋒槍（共生產36,000支），一直到1970年仍然給在越南的[越共使用](../Page/越南南方民族解放陣線.md "wikilink")。儘管蘇聯於1951年已經以[AK-47](https://zh.wikipedia.org/wiki/AK-47突擊步槍 "wikilink")[突击步枪取代了PPSh](../Page/突击步枪.md "wikilink")-41，但之後有一段很長的時間在世界各地被各種軍隊和民兵所使用，例如[朝鮮戰爭和](../Page/朝鲜战争.md "wikilink")[越戰](../Page/越南战争.md "wikilink")，以及最近在[阿富汗戰爭和](../Page/阿富汗戰爭_\(2001年\).md "wikilink")[伊拉克战争的一些武裝衝突](../Page/伊拉克战争.md "wikilink")。根據2002年出版的第二次世界大戰武器百科全書（），PPSh-41目前仍然被非正規軍事力量所使用。\[1\]
 
@@ -76,7 +76,9 @@ PPSh的缺點包括難以重新裝填，装填71发时彈鼓容易卡壳（在�
 
   - \[22\]
 
-  -   - ：二戰後採用，於1958年開始被[vz.
+  - [捷克斯洛伐克社會主義共和國](https://zh.wikipedia.org/wiki/捷克斯洛伐克社會主義共和國 "wikilink")
+
+      - ：二戰後採用，於1958年開始被[vz.
         58突擊步槍所取代](https://zh.wikipedia.org/wiki/vz._58突擊步槍 "wikilink")。
 
   -
@@ -107,7 +109,7 @@ PPSh的缺點包括難以重新裝填，装填71发时彈鼓容易卡壳（在�
   -   - [朝鮮人民軍](https://zh.wikipedia.org/wiki/朝鮮人民軍 "wikilink")：在[朝鲜战争起大量装备部队](../Page/朝鲜战争.md "wikilink")，並命名为**49式冲锋枪**。\[32\]
 
       -
-  -   - [大韓民國國軍](../Page/大韓民國國軍.md "wikilink")：使用從[朝鲜人民军和](../Page/朝鲜人民军.md "wikilink")[中国人民志愿军缴获的PPSh](../Page/中国人民志愿军.md "wikilink")-41，在朝鮮戰爭中在發現有限地使用，目前仍用於假想敵部隊。
+  -   - [大韓民國國軍](../Page/大韓民國國軍.md "wikilink")：使用從[朝鲜人民军和](../Page/朝鲜人民军.md "wikilink")[中国人民志愿军缴获的PPSh](../Page/中国人民志愿军.md "wikilink")-41，在朝鮮戰爭中被發現有限地使用，目前仍用於假想敵部隊。
 
   - \[33\]
 
@@ -125,6 +127,7 @@ PPSh的缺點包括難以重新裝填，装填71发时彈鼓容易卡壳（在�
 
   -   - [蘇聯紅軍](https://zh.wikipedia.org/wiki/蘇聯紅軍 "wikilink")：從1942年開始服役；1951年起被[AK-47所取代](https://zh.wikipedia.org/wiki/AK-47突击步枪 "wikilink")。\[35\]
 
+  -
   -
   -
   -

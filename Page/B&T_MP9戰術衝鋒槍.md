@@ -418,7 +418,7 @@ MP9和TP9亦登場於多部[电影](../Page/电影.md "wikilink")、[电視和](
   - [格洛克18](../Page/格洛克18.md "wikilink")
   - [B\&T APC衝鋒槍](../Page/B&T_APC衝鋒槍.md "wikilink")
   - [B\&T P26衝鋒槍](https://zh.wikipedia.org/wiki/B&T_P26衝鋒槍 "wikilink")
-  - [B\&T VP9消聲手槍](https://zh.wikipedia.org/wiki/B&T_VP9消聲手槍 "wikilink")
+  - [B\&T VP9消聲手槍](../Page/B&T_VP9消聲手槍.md "wikilink")
 
 ## 資料來源
 

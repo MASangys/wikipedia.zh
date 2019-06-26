@@ -392,7 +392,7 @@ Japan所舉辦](../Page/MTV_Japan.md "wikilink")。
 | 第9屆  | 2010年 | [JUJU](../Page/JUJU.md "wikilink") with JAY'ED《明日がくるなら》                                                                                                   | 《[生命最後一個月的花嫁](../Page/生命最後一個月的花嫁.md "wikilink")》                      |
 | 第10屆 | 2011年 | [艾薇兒·拉維尼](../Page/艾薇兒·拉維尼.md "wikilink") 《[Alice](../Page/Alice.md "wikilink")》                                                                           | 《[魔境夢遊](../Page/魔境夢遊.md "wikilink")》                                  |
 | 第11屆 | 2012年 | [BUMP OF CHICKEN](../Page/BUMP_OF_CHICKEN.md "wikilink") 《グッドラック》                                                                                         | 《[永遠的三丁目的夕陽](../Page/永遠的三丁目的夕陽.md "wikilink")'64》                     |
-| 第12屆 | 2013年 | [ONE OK ROCK](https://zh.wikipedia.org/wiki/ONE_OK_ROCK "wikilink") 《The Beginning》                                                                       | 《[神劍闖江湖](https://zh.wikipedia.org/wiki/神劍闖江湖_\(2012年電影\) "wikilink")》 |
+| 第12屆 | 2013年 | [ONE OK ROCK](../Page/ONE_OK_ROCK.md "wikilink") 《The Beginning》                                                                                          | 《[神劍闖江湖](https://zh.wikipedia.org/wiki/神劍闖江湖_\(2012年電影\) "wikilink")》 |
 | 第13屆 | 2014年 | [星野源](../Page/星野源.md "wikilink") 《Why don't you play in hell?》                                                                                            | 《[地獄開麥拉](https://zh.wikipedia.org/wiki/地獄開麥拉 "wikilink")》             |
 
 ### 最佳新人音樂錄影帶獎
@@ -430,9 +430,9 @@ Japan所舉辦](../Page/MTV_Japan.md "wikilink")。
 | 第8屆  | 2009年 | [MAXIMUM THE HORMONE](https://zh.wikipedia.org/wiki/MAXIMUM_THE_HORMONE "wikilink")《爪爪爪》  |
 | 第9屆  | 2010年 | [Superfly](../Page/Superfly.md "wikilink")《Dancing On The Fire》                           |
 | 第10屆 | 2011年 | [Tokio Hotel](https://zh.wikipedia.org/wiki/Tokio_Hotel "wikilink")《Dark Side of the Sun》 |
-| 第11屆 | 2012年 | [ONE OK ROCK](https://zh.wikipedia.org/wiki/ONE_OK_ROCK "wikilink")《アンサイズニア》              |
-| 第12屆 | 2013年 | [ONE OK ROCK](https://zh.wikipedia.org/wiki/ONE_OK_ROCK "wikilink")《The Beginning》        |
-| 第13屆 | 2014年 | [ONE OK ROCK](https://zh.wikipedia.org/wiki/ONE_OK_ROCK "wikilink")《Be The Light》         |
+| 第11屆 | 2012年 | [ONE OK ROCK](../Page/ONE_OK_ROCK.md "wikilink")《アンサイズニア》                                 |
+| 第12屆 | 2013年 | [ONE OK ROCK](../Page/ONE_OK_ROCK.md "wikilink")《The Beginning》                           |
+| 第13屆 | 2014年 | [ONE OK ROCK](../Page/ONE_OK_ROCK.md "wikilink")《Be The Light》                            |
 | 第15屆 | 2016年 | [\[Alexandros](../Page/［Alexandros］.md "wikilink")\]《Swan》                                |
 | 第16屆 | 2017年 | [WANIMA](../Page/WANIMA.md "wikilink")《CHARM》                                             |
 |      |       |                                                                                           |

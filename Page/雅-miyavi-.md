@@ -164,3 +164,4 @@ Ishihara），血型AB型，身高183-185cm，日本與韓國混血，1981年9�
 [Category:日裔混血儿](https://zh.wikipedia.org/wiki/Category:日裔混血儿 "wikilink")
 [Category:韓裔混血兒](https://zh.wikipedia.org/wiki/Category:韓裔混血兒 "wikilink")
 [Category:日本富士搖滾音樂祭參加歌手](https://zh.wikipedia.org/wiki/Category:日本富士搖滾音樂祭參加歌手 "wikilink")
+[Category:韓裔日本人](https://zh.wikipedia.org/wiki/Category:韓裔日本人 "wikilink")

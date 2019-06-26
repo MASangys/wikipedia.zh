@@ -68,7 +68,7 @@
 
   - icash2.0卡販售特約機構
       - [高雄捷運各車站服務台](../Page/高雄捷運.md "wikilink")
-      - [臺北捷運各車站服務台](https://zh.wikipedia.org/wiki/臺北捷運 "wikilink")
+      - [臺北捷運各車站服務台](../Page/臺北捷運.md "wikilink")
       - [桃園捷運各車站服務台](https://zh.wikipedia.org/wiki/桃園捷運 "wikilink")
       - [統一超商（7-11）](../Page/統一超商.md "wikilink")
       - [21世紀風味館](https://zh.wikipedia.org/wiki/21世紀風味館 "wikilink")
@@ -86,7 +86,7 @@
       - [全聯](https://zh.wikipedia.org/wiki/全聯 "wikilink")
   - 交通運輸
       - [高雄捷運各車站服務台](../Page/高雄捷運.md "wikilink")
-      - [臺北捷運各車站服務台](https://zh.wikipedia.org/wiki/臺北捷運 "wikilink")
+      - [臺北捷運各車站服務台](../Page/臺北捷運.md "wikilink")
       - [桃園捷運各車站服務台](https://zh.wikipedia.org/wiki/桃園捷運 "wikilink")
       - \*
         [臺灣鐵路管理局](https://zh.wikipedia.org/wiki/臺灣鐵路管理局 "wikilink")：Icash適用範圍內之連線售票車站
@@ -143,7 +143,7 @@ APP、icash・icash2.0）
 <!-- end list -->
 
   - [高雄捷運](../Page/高雄捷運.md "wikilink")
-  - [臺北捷運](https://zh.wikipedia.org/wiki/臺北捷運 "wikilink")
+  - [臺北捷運](../Page/臺北捷運.md "wikilink")
   - [桃園捷運](https://zh.wikipedia.org/wiki/桃園捷運 "wikilink")\[12\]
 
 <!-- end list -->

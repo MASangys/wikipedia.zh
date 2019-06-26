@@ -57,8 +57,7 @@ find . -name "*.foo" -print0 | xargs -0 -i mv {} /tmp/trash
 
 ## 参见
 
-  - [GNU
-    parallel](https://zh.wikipedia.org/wiki/GNU_parallel "wikilink")
+  - [GNU parallel](../Page/GNU_parallel.md "wikilink")
   - [pexec](https://zh.wikipedia.org/wiki/pexec "wikilink")
 
 ## 参考

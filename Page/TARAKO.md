@@ -1,4 +1,4 @@
-**TARAKO**（，），[日本資深女性](../Page/日本.md "wikilink")[配音員](../Page/配音員.md "wikilink")、[旁白](https://zh.wikipedia.org/wiki/旁白 "wikilink")、[演員](https://zh.wikipedia.org/wiki/演員 "wikilink")、[創作歌手](../Page/創作歌手.md "wikilink")、[編劇](../Page/編劇.md "wikilink")。出身於[群馬縣](../Page/群馬縣.md "wikilink")[太田市](https://zh.wikipedia.org/wiki/太田市 "wikilink")\[1\]\[2\]
+**TARAKO**（，），[日本資深女性](../Page/日本.md "wikilink")[配音員](../Page/配音員.md "wikilink")、[旁白](https://zh.wikipedia.org/wiki/旁白 "wikilink")、[演員](../Page/演員.md "wikilink")、[創作歌手](../Page/創作歌手.md "wikilink")、[編劇](../Page/編劇.md "wikilink")。出身於[群馬縣](../Page/群馬縣.md "wikilink")[太田市](https://zh.wikipedia.org/wiki/太田市 "wikilink")\[1\]\[2\]
 。[身高](https://zh.wikipedia.org/wiki/身高 "wikilink")158cm。AB型[血](https://zh.wikipedia.org/wiki/血型 "wikilink")\[3\]。
 
 ## 人物簡介

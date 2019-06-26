@@ -147,7 +147,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/KPhone" title="wikilink">KPhone</a></p></td>
 <td><p>Linux (KDE)</p></td>
 <td><p><a href="../Page/GNU通用公共许可证.md" title="wikilink">GPL</a> <a href="../Page/自由软件.md" title="wikilink">自由软件</a></p></td>
-<td><p><a href="../Page/会话发起协议.md" title="wikilink">SIP</a>, <a href="../Page/STUN.md" title="wikilink">STUN</a>, <a href="https://zh.wikipedia.org/wiki/NAPTR" title="wikilink">NAPTR</a>/<a href="https://zh.wikipedia.org/wiki/SRV记录" title="wikilink">SRV</a></p></td>
+<td><p><a href="../Page/会话发起协议.md" title="wikilink">SIP</a>, <a href="../Page/STUN.md" title="wikilink">STUN</a>, <a href="https://zh.wikipedia.org/wiki/NAPTR" title="wikilink">NAPTR</a>/<a href="../Page/SRV记录.md" title="wikilink">SRV</a></p></td>
 <td></td>
 <td><p>视讯, 音讯, 即时通信, 外部会话, UDP的IPv6支持</p></td>
 <td><p>1.2 (2008年11月)</p></td>
@@ -174,7 +174,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/Mercuro_IMS_Client" title="wikilink">Mercuro IMS Client</a></p></td>
 <td><p>Windows XP/Windows Vista/Windows Mobile</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/封闭原始码" title="wikilink">封闭原始码</a> <a href="../Page/专有软件.md" title="wikilink">专有软件</a></p></td>
-<td><p><a href="../Page/会话发起协议.md" title="wikilink">SIP</a>, <a href="https://zh.wikipedia.org/wiki/XCAP" title="wikilink">XCAP</a>, <a href="https://zh.wikipedia.org/wiki/:en:Message_Session_Relay_Protocol" title="wikilink">MSRP</a>, <a href="https://zh.wikipedia.org/wiki/NAPTR" title="wikilink">NAPTR</a>/<a href="https://zh.wikipedia.org/wiki/SRV记录" title="wikilink">SRV</a>, <a href="https://zh.wikipedia.org/wiki/Dhcp" title="wikilink">Dhcp</a>, <a href="https://zh.wikipedia.org/wiki/RTP" title="wikilink">RTP</a>, <a href="https://zh.wikipedia.org/wiki/H263" title="wikilink">H263</a>, <a href="https://zh.wikipedia.org/wiki/H264" title="wikilink">H264</a></p></td>
+<td><p><a href="../Page/会话发起协议.md" title="wikilink">SIP</a>, <a href="https://zh.wikipedia.org/wiki/XCAP" title="wikilink">XCAP</a>, <a href="https://zh.wikipedia.org/wiki/:en:Message_Session_Relay_Protocol" title="wikilink">MSRP</a>, <a href="https://zh.wikipedia.org/wiki/NAPTR" title="wikilink">NAPTR</a>/<a href="../Page/SRV记录.md" title="wikilink">SRV</a>, <a href="https://zh.wikipedia.org/wiki/Dhcp" title="wikilink">Dhcp</a>, <a href="https://zh.wikipedia.org/wiki/RTP" title="wikilink">RTP</a>, <a href="https://zh.wikipedia.org/wiki/H263" title="wikilink">H263</a>, <a href="https://zh.wikipedia.org/wiki/H264" title="wikilink">H264</a></p></td>
 <td></td>
 <td><p>音讯/视讯呼叫, 状态, 即时通信, 档案传输, 远程联系人存储</p></td>
 <td><p>4.0</p></td>
@@ -255,7 +255,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/SFLphone" title="wikilink">SFLphone</a></p></td>
 <td><p>Linux</p></td>
 <td><p><a href="../Page/GNU通用公共许可证.md" title="wikilink">GPL3</a> <a href="../Page/自由软件.md" title="wikilink">自由软件</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/SIP" title="wikilink">SIP</a>,<a href="../Page/实时传输协议.md" title="wikilink">RTP</a>, <a href="https://zh.wikipedia.org/wiki/IAX2" title="wikilink">IAX2</a>,<a href="../Page/STUN.md" title="wikilink">STUN</a>, <a href="https://zh.wikipedia.org/wiki/SRV记录" title="wikilink">SRV</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SIP" title="wikilink">SIP</a>,<a href="../Page/实时传输协议.md" title="wikilink">RTP</a>, <a href="https://zh.wikipedia.org/wiki/IAX2" title="wikilink">IAX2</a>,<a href="../Page/STUN.md" title="wikilink">STUN</a>, <a href="../Page/SRV记录.md" title="wikilink">SRV</a></p></td>
 <td></td>
 <td><p>Gnome/KDE客户端, 通讯簿, 多帐号, 无限通话号码, 来电转驳, 通话保留/恢复</p></td>
 <td><p>0.9.5 (2009年5月22日)</p></td>

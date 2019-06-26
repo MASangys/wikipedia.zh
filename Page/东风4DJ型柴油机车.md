@@ -73,7 +73,6 @@ zh-hant:32位元}-的](../Page/32位元.md "wikilink")[英特尔](../Page/英特
 
 [Category:中车大连制铁路机车](https://zh.wikipedia.org/wiki/Category:中车大连制铁路机车 "wikilink")
 [Category:西门子制铁路机车](https://zh.wikipedia.org/wiki/Category:西门子制铁路机车 "wikilink")
-[Category:北京铁路局车辆](https://zh.wikipedia.org/wiki/Category:北京铁路局车辆 "wikilink")
 [Category:Co-Co軸式機車](https://zh.wikipedia.org/wiki/Category:Co-Co軸式機車 "wikilink")
 [Category:东风型柴油机车](https://zh.wikipedia.org/wiki/Category:东风型柴油机车 "wikilink")
 

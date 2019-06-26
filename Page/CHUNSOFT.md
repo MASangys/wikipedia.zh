@@ -25,7 +25,7 @@ Animation》為名的動畫化。
   - [港口镇连续杀人事件](https://zh.wikipedia.org/wiki/港口镇连续杀人事件 "wikilink")（[FC版](https://zh.wikipedia.org/wiki/FC游戏机 "wikilink")）
   - [勇者斗恶龙系列](https://zh.wikipedia.org/wiki/勇者斗恶龙 "wikilink")（1-5）
   - FAMICON JUMP2 最强的七人
-  - [音响小说系列](https://zh.wikipedia.org/wiki/音响小说 "wikilink")
+  - [音聲小說系列](https://zh.wikipedia.org/wiki/音聲小說 "wikilink")
       - [弟切草](../Page/弟切草.md "wikilink")
       - [恐怖惊魂夜](https://zh.wikipedia.org/wiki/恐怖惊魂夜 "wikilink")
       - [街～命运的交叉点](https://zh.wikipedia.org/wiki/街～命运的交叉 "wikilink")

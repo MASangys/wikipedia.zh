@@ -3,7 +3,7 @@ Computer》**是[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[摇滚
 Computer》增强了乐队在海外的影响力，是电台司令最后一张在英国本土之外延迟发售的专辑。截至2007年，这张专辑在英国的銷量達三白金，在美国则是二白金，\[1\]\[2\]并且已经销售了超过840万份拷贝。\[3\]《OK
 Computer》收錄了单曲「」、「」和「」。
 
-这张专辑在[牛津郡和](../Page/牛津郡.md "wikilink")[巴斯乡间与](https://zh.wikipedia.org/wiki/巴斯 "wikilink")[奈杰尔·古德里奇](https://zh.wikipedia.org/wiki/奈杰尔·古德里奇 "wikilink")（[Nigel
+这张专辑在[牛津郡和](../Page/牛津郡.md "wikilink")[巴斯乡间与](../Page/巴斯.md "wikilink")[奈杰尔·古德里奇](https://zh.wikipedia.org/wiki/奈杰尔·古德里奇 "wikilink")（[Nigel
 Godrich](../Page/尼杰尔·歌德里希.md "wikilink")）一起创作。此人又参加了以后所有电台司令的专辑的创作。尽管《OK
 Computer》主要是用吉他演奏，但是他们在这张专辑中尝试了很宽的乐器范围，从很多当时著名的英伦摇滚与另类摇滚乐团中汲取了精华，並为以后他们风格的转变、实验性的增强埋下了伏笔。\[4\]歌词均由[湯姆·約克创作](../Page/湯姆·約克.md "wikilink")，而专辑封面是由湯姆与另一位画家所创作。这封面所隐喻的是一些社会问题，尽管乐團否认他们是在做一张概念专辑。\[5\]
 
@@ -39,7 +39,7 @@ Walls](https://zh.wikipedia.org/wiki/Climbing_Up_the_Walls "wikilink")」與「[
 Police](https://zh.wikipedia.org/wiki/Karma_Police "wikilink")」等歌曲的早期版本。據聞，「Paranoid
 Android」在1996年夏天從一首有管風琴長獨奏的十四分鐘歌曲，演變為較接近專輯裡聽到的版本。\[12\]約克說：「我想這是［因為］我們站在棚子（「室內圓形劇場」的工業用語）裡的一萬人面前，他們對我們［演奏］的東西實在沒什麼興趣，迫使我們非常、非常迅速地對那些歌做很多修整……在巨大而呆板的水泥建築裡演奏時，有些東西對歌曲是很重要的。因為很多歌需要聽起來又大又混亂，像是拍打著牆壁一樣。」\[13\]
 
-九月，電台司令繼續與古德里奇進行錄音。他們移往聖凱撒琳宅邸（），那是一座位於[巴斯附近的歷史建築](https://zh.wikipedia.org/wiki/巴斯 "wikilink")，當時為演員[珍·茜摩爾所擁有](https://zh.wikipedia.org/wiki/珍·茜摩爾 "wikilink")；在那裡，《OK
+九月，電台司令繼續與古德里奇進行錄音。他們移往聖凱撒琳宅邸（），那是一座位於[巴斯附近的歷史建築](../Page/巴斯.md "wikilink")，當時為演員[珍·茜摩爾所擁有](https://zh.wikipedia.org/wiki/珍·茜摩爾 "wikilink")；在那裡，《OK
 Computer》在沒有唱片公司壓力的情況下錄製完成。然而，除了唱片公司以外，還有另一種期限。在聖凱撒琳宅邸完成的第一批歌曲之一「Exit
 Music (For a
 Film)」是導演[巴茲魯曼為他同年年底上映的改編電影](https://zh.wikipedia.org/wiki/巴茲魯曼 "wikilink")《羅密歐＋茱麗葉》（[Romeo

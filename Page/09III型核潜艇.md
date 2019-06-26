@@ -34,7 +34,7 @@ TV报道，解放军南海舰队潜舰编队当天通过马六甲海峡。编队
 
 该型艇装备H/SQG-207型舷侧[声纳阵列](https://zh.wikipedia.org/wiki/声纳 "wikilink")，该型声纳由715所的[李启虎主持研制](https://zh.wikipedia.org/wiki/李启虎 "wikilink")。
 
-2015年2月[全球防衛雜誌報導](https://zh.wikipedia.org/wiki/全球防衛雜誌 "wikilink")093G型改良潛艦已經服役，多加了一個艙段安放新武器，[央視環球視線節目數天後間接證實](https://zh.wikipedia.org/wiki/央視 "wikilink")「093改」存在並大幅改裝動力和消聲，並加裝反航母飛彈，可說是[航母殺手](https://zh.wikipedia.org/wiki/航母殺手 "wikilink")\[18\]。
+2015年2月[全球防衛雜誌報導](../Page/全球防衛雜誌.md "wikilink")093G型改良潛艦已經服役，多加了一個艙段安放新武器，[央視環球視線節目數天後間接證實](https://zh.wikipedia.org/wiki/央視 "wikilink")「093改」存在並大幅改裝動力和消聲，並加裝反航母飛彈，可說是[航母殺手](https://zh.wikipedia.org/wiki/航母殺手 "wikilink")\[18\]。
 
 2015年2月，中国造船厂疑似已经完成了三艘093G攻击型核动力潜艇的建造工作，开始服役。图片显示的093G核潜艇安装了垂直发射系统，可实现全向攻击\[19\]。
 

@@ -12,7 +12,7 @@
 
 ### 替补有效载荷专家
 
-  - **[佩德罗·杜克](https://zh.wikipedia.org/wiki/佩德罗·杜克 "wikilink")**（，[西班牙宇航员](../Page/西班牙.md "wikilink")，曾执行、[联盟TMA-3以及](https://zh.wikipedia.org/wiki/联盟TMA-3 "wikilink")[联盟TMA-2任务](https://zh.wikipedia.org/wiki/联盟TMA-2 "wikilink")）
+  - **[佩德罗·杜克](../Page/佩德罗·杜克.md "wikilink")**（，[西班牙宇航员](../Page/西班牙.md "wikilink")，曾执行、[联盟TMA-3以及](../Page/联盟TMA-3.md "wikilink")[联盟TMA-2任务](https://zh.wikipedia.org/wiki/联盟TMA-2 "wikilink")）
   - **[卢卡·厄巴尼](https://zh.wikipedia.org/wiki/卢卡·厄巴尼 "wikilink")**（，[意大利宇航员](../Page/意大利.md "wikilink")）
 
 [Category:1996年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1996年佛罗里达州 "wikilink")

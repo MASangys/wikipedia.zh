@@ -81,7 +81,7 @@ Astro集團旗下馬來西亞業務交由子公司－[Astro大馬控股有限公
 
 Astro集團旗下海外業務交由子公司，Astro海外有限公司管理。
 
-  - **[天映娛樂有限公司](https://zh.wikipedia.org/wiki/天映娛樂 "wikilink")**是Astro海外有限公司旗下亞洲綜合娛樂公司，業務涵蓋製作以亞洲地區語言為主的優質影視節目、經營節目和[邵氏電影版權交易及全球性發行](https://zh.wikipedia.org/wiki/邵氏電影 "wikilink")。
+  - **[天映娛樂有限公司](../Page/天映娛樂.md "wikilink")**是Astro海外有限公司旗下亞洲綜合娛樂公司，業務涵蓋製作以亞洲地區語言為主的優質影視節目、經營節目和[邵氏電影版權交易及全球性發行](https://zh.wikipedia.org/wiki/邵氏電影 "wikilink")。
 
 <!-- end list -->
 

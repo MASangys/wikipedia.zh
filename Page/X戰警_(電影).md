@@ -119,7 +119,7 @@ Kids製作了動畫連續劇](../Page/Fox_Kids.md "wikilink")《》，[二十世
 
 沃克的劇本提到[X教授招募金鋼狼加入X戰警](../Page/X教授.md "wikilink")，包含[獨眼龍](../Page/獨眼龍_\(漫威漫畫\).md "wikilink")、[琴葛雷](https://zh.wikipedia.org/wiki/琴葛雷 "wikilink")、[冰人](../Page/冰人_\(漫威漫畫\).md "wikilink")、[野獸和](../Page/野獸_\(漫畫\).md "wikilink")。（Brotherhood
 of
-Mutants）則由[萬磁王](../Page/萬磁王.md "wikilink")、[劍齒虎](../Page/劍齒虎_\(漫威漫畫\).md "wikilink")、、及大塊頭組成，試圖征服紐約市。而和用三個8英尺（2.4米）高的哨兵攻擊X戰警。劇情集中在金鋼狼與獨眼龍間的對抗，以及後者做為領導者的自我懷疑。沃克在1994年6月提交了第二份劇本。之後，（Laeta
+Mutants）則由[萬磁王](../Page/萬磁王.md "wikilink")、[劍齒虎](../Page/劍齒虎_\(漫威漫畫\).md "wikilink")、、及組成，試圖征服紐約市。而和用三個8英尺（2.4米）高的哨兵攻擊X戰警。劇情集中在金鋼狼與獨眼龍間的對抗，以及後者做為領導者的自我懷疑。沃克在1994年6月提交了第二份劇本。之後，（Laeta
 Kalogridis）\[10\]、（John
 Logan）、[詹姆士·夏姆斯](https://zh.wikipedia.org/wiki/詹姆士·夏姆斯 "wikilink")（James
 Schamus）\[11\]及[喬斯·溫登重新撰寫了劇本](../Page/喬斯·溫登.md "wikilink")，其中一個段落保留了萬磁王將曼哈頓變成“突變家園”的想法，以及金鋼狼與風暴女之間的情愫\[12\]。溫登的草稿以（Danger

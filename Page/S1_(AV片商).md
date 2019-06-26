@@ -134,7 +134,7 @@ AVC活動中心，最早的女優有[蒼井空](../Page/蒼井空.md "wikilink")
 </tr>
 <tr class="odd">
 <td><p>☆</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/坂道美琉" title="wikilink">坂道美琉</a></p></td>
+<td><p><a href="../Page/坂道美琉.md" title="wikilink">坂道美琉</a></p></td>
 <td></td>
 <td><p>2018年8月19日</p></td>
 </tr>
@@ -1717,7 +1717,7 @@ AVC活動中心，最早的女優有[蒼井空](../Page/蒼井空.md "wikilink")
 </tr>
 <tr class="odd">
 <td><p>☆</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/本田岬" title="wikilink">本田岬</a></p></td>
+<td><p><a href="../Page/本田岬.md" title="wikilink">本田岬</a></p></td>
 <td></td>
 <td><p>2012年10月7日</p></td>
 </tr>

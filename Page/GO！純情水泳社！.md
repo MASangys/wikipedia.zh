@@ -8,7 +8,7 @@
 ## 登場人物
 
   -
-    <small>「聲」為動畫版[聲優](../Page/聲優.md "wikilink")，「演」為[舞台劇](https://zh.wikipedia.org/wiki/舞台劇 "wikilink")[演員](https://zh.wikipedia.org/wiki/演員 "wikilink")。遊戲聲優和動畫一樣。譯名以中文版漫畫單行本為準。身高、體重與[三圍以遊戲版官方網站為準](https://zh.wikipedia.org/wiki/三圍 "wikilink")，漫畫無此三項。</small>
+    <small>「聲」為動畫版[聲優](../Page/聲優.md "wikilink")，「演」為[舞台劇](https://zh.wikipedia.org/wiki/舞台劇 "wikilink")[演員](../Page/演員.md "wikilink")。遊戲聲優和動畫一樣。譯名以中文版漫畫單行本為準。身高、體重與[三圍以遊戲版官方網站為準](https://zh.wikipedia.org/wiki/三圍 "wikilink")，漫畫無此三項。</small>
 
 ### 海貓商業高等學校水泳部
 
@@ -362,7 +362,7 @@ ISBN 978-4-06-362114-3（限定版）</p></td>
 <td></td>
 <td><p>喝！</p></td>
 <td><p>横谷昌宏</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/細田雅弘" title="wikilink">細田雅弘</a></p></td>
+<td><p><a href="../Page/細田雅弘.md" title="wikilink">細田雅弘</a></p></td>
 <td><p>立仙裕俊</p></td>
 <td><p>三井寿</p></td>
 <td><p>8月7日</p></td>

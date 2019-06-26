@@ -205,7 +205,7 @@ USB 3.2是2017年7月25日USB開發者論壇（USB Implementers Forum）宣佈�
 ### 規格與USB 3.1比較
 
   - 使用最新的[type-C傳輸線](../Page/USB_Type-C.md "wikilink")，並可向下相容\[20\]\[21\]。速度是[USB
-    3.1的兩倍](../Page/USB_3.1.md "wikilink")，允許兩條10Gbps傳輸通道,
+    3.1的兩倍](https://zh.wikipedia.org/wiki/#USB_3.1 "wikilink")，允許兩條10Gbps傳輸通道,
     所以傳輸速度達到20Gbps, 但只能在type-C傳輸線上產生效果。\[22\]\[23\]
   - 雖然向下相容USB 2.0/1.0，但如果要得到20Gb/s的傳輸速度仍需在主機、目標端同時具備對應的晶片才能達成
 

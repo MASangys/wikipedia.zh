@@ -51,8 +51,8 @@ Konqueror 4.10.2[13]</p>
 <td><p><a href="../Page/Gecko.md" title="wikilink">Gecko</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Mozilla_Firefox" title="wikilink">Mozilla Firefox</a></p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/File:Acid3_test_on_Firefox_64.0.png" title="fig:Acid3_test_on_Firefox_64.0.png">Acid3_test_on_Firefox_64.0.png</a><br />
-Firefox 64.0</p>
+<p><a href="https://zh.wikipedia.org/wiki/File:Acid3_test_on_Firefox_67.0.2.png" title="fig:Acid3_test_on_Firefox_67.0.2.png">Acid3_test_on_Firefox_67.0.2.png</a><br />
+Firefox 67.0.2</p>
 </center></td>
 <td><p>引擎為<a href="https://zh.wikipedia.org/wiki/Mozilla_Firefox" title="wikilink">Mozilla Firefox所使用</a>。在Firefox 7時，曾經獲得100/100的成績，但隨著Firefox的更新，Acid3測試結果也漸漸變差。[14]使用相同引擎的行動版<a href="https://zh.wikipedia.org/wiki/Firefox_for_Mobile" title="wikilink">Firefox for Mobile在</a><a href="../Page/Windows_Mobile.md" title="wikilink">Windows Mobile平台上的得分是</a>72分。（<a href="https://zh.wikipedia.org/wiki/Firefox_for_Mobile" title="wikilink">Firefox for Mobile的</a><a href="../Page/Windows_Mobile.md" title="wikilink">Windows Mobile自</a>2010年2月即不再更新。）</p></td>
 </tr>

@@ -177,7 +177,7 @@
 <tr class="odd">
 <td><p><span style="display:none">Felix 4</span><a href="https://zh.wikipedia.org/wiki/:en:Pope_Felix_IV" title="wikilink">Pope Felix IV</a></p></td>
 <td><p> </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/教宗斐理斯四世" title="wikilink">教宗斐理斯四世</a></p></td>
+<td><p><a href="../Page/教宗斐理斯四世.md" title="wikilink">教宗斐理斯四世</a></p></td>
 <td><p> </p></td>
 <td><p> </p></td>
 <td><p>530</p></td>

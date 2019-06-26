@@ -291,6 +291,9 @@ you-」則改成[宣傳片的歌曲](https://zh.wikipedia.org/wiki/宣傳片 "wi
     特集页面](http://animejapan.cplaza.ne.jp/b-ch/gf91_sp/index.html)
   - [機動戦士ガンダムF91 公式web](http://www.gundam-f91.net/)
 
+<!-- end list -->
+
+  -
 [Category:宇宙世紀](https://zh.wikipedia.org/wiki/Category:宇宙世紀 "wikilink")
 [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
 [Category:Comic_BomBom](https://zh.wikipedia.org/wiki/Category:Comic_BomBom "wikilink")

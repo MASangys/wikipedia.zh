@@ -1075,7 +1075,7 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 <!-- end list -->
 
   - [Ken小杉](https://zh.wikipedia.org/wiki/Ken小杉 "wikilink")（出場5回
-    [演員](https://zh.wikipedia.org/wiki/演員 "wikilink")）
+    [演員](../Page/演員.md "wikilink")）
 
 <!-- end list -->
 
@@ -1238,7 +1238,7 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 <!-- end list -->
 
   - [Shane小杉](https://zh.wikipedia.org/wiki/Shane小杉 "wikilink")（出場7回
-    [演員](https://zh.wikipedia.org/wiki/演員 "wikilink")、Ken小杉的弟弟）
+    [演員](../Page/演員.md "wikilink")、Ken小杉的弟弟）
 
 <!-- end list -->
 
@@ -1508,7 +1508,7 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 ### 臺灣選手
 
   - [陳子強](../Page/陳子強.md "wikilink")（出場1回
-    [演員](https://zh.wikipedia.org/wiki/演員 "wikilink")，台灣藝人[傅天穎丈夫](https://zh.wikipedia.org/wiki/傅天穎 "wikilink")）
+    [演員](../Page/演員.md "wikilink")，台灣藝人[傅天穎丈夫](https://zh.wikipedia.org/wiki/傅天穎 "wikilink")）
 
 <!-- end list -->
 
@@ -1589,7 +1589,7 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 <!-- end list -->
 
   - [飯島豐久](https://zh.wikipedia.org/wiki/飯島豐久 "wikilink")（出場13回
-    [演員](https://zh.wikipedia.org/wiki/演員 "wikilink")）
+    [演員](../Page/演員.md "wikilink")）
 
 <!-- end list -->
 
@@ -1639,7 +1639,7 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 <!-- end list -->
 
   - [妃羽理](https://zh.wikipedia.org/wiki/妃羽理 "wikilink")（[伊賀野ひばり](https://zh.wikipedia.org/wiki/伊賀野ひばり "wikilink")）（出場8回
-    動作女[演員](https://zh.wikipedia.org/wiki/演員 "wikilink")）
+    動作女[演員](../Page/演員.md "wikilink")）
 
 <!-- end list -->
 
@@ -1822,7 +1822,7 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 <!-- end list -->
 
   - [小宮理英](https://zh.wikipedia.org/wiki/小宮理英 "wikilink")（出場5回
-    第5回KUNOICHI最終舞台選手、第8回KUNOICHI完全制霸者、筋肉歌舞劇[演員](https://zh.wikipedia.org/wiki/演員 "wikilink")）
+    第5回KUNOICHI最終舞台選手、第8回KUNOICHI完全制霸者、筋肉歌舞劇[演員](../Page/演員.md "wikilink")）
 
 <!-- end list -->
 

@@ -92,7 +92,7 @@ Girl's Side 2nd Season》，並增加新角色和新元素。
 <!-- end list -->
 
   - （Christopher Weatherfield）
-    [聲優](../Page/聲優.md "wikilink")：[神原大地](https://zh.wikipedia.org/wiki/神原大地 "wikilink")
+    [聲優](../Page/聲優.md "wikilink")：[神原大地](../Page/神原大地.md "wikilink")
     生日是2月23日，雙魚座。血型O型。
     身高183cm，體重65kg。
     喜歡的顏色是綠色。美術社。喜好的衣著是Sporty系。

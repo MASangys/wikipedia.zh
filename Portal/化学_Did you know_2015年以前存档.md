@@ -471,7 +471,7 @@
 
 [Calcium_chloride_CaCl2.jpg](https://zh.wikipedia.org/wiki/File:Calcium_chloride_CaCl2.jpg "fig:Calcium_chloride_CaCl2.jpg")
 
-  - **[哪种钙盐](https://zh.wikipedia.org/wiki/氯化钙 "wikilink")**能作为烹饪[分子美食的原料通过与](https://zh.wikipedia.org/wiki/分子食物 "wikilink")[海藻酸钠反应使蔬菜和水果汁表面胶化形成类似](../Page/海藻酸.md "wikilink")[鱼子酱状的小球](../Page/鱼子酱.md "wikilink")？
+  - **[哪种钙盐](https://zh.wikipedia.org/wiki/氯化钙 "wikilink")**能作为烹饪[分子美食的原料通过与](../Page/分子食物.md "wikilink")[海藻酸钠反应使蔬菜和水果汁表面胶化形成类似](../Page/海藻酸.md "wikilink")[鱼子酱状的小球](../Page/鱼子酱.md "wikilink")？
 
 [Maroc_-_Vanadinite.jpg](https://zh.wikipedia.org/wiki/File:Maroc_-_Vanadinite.jpg "fig:Maroc_-_Vanadinite.jpg")
 

@@ -428,7 +428,7 @@ Noize、DJ白影、[BloodPop以及蘇菲等知名製作人製作歌曲](../Page/
 [Category:雙性戀演員](https://zh.wikipedia.org/wiki/Category:雙性戀演員 "wikilink")
 [Category:雙性戀音樂家](https://zh.wikipedia.org/wiki/Category:雙性戀音樂家 "wikilink")
 [Category:美國電影女演員](https://zh.wikipedia.org/wiki/Category:美國電影女演員 "wikilink")
-[Category:美國MV導演](https://zh.wikipedia.org/wiki/Category:美國MV導演 "wikilink")
+[Category:美國音樂影片導演](https://zh.wikipedia.org/wiki/Category:美國音樂影片導演 "wikilink")
 [Category:美国音乐制作人](https://zh.wikipedia.org/wiki/Category:美国音乐制作人 "wikilink")
 [Category:美國天主教徒](https://zh.wikipedia.org/wiki/Category:美國天主教徒 "wikilink")
 [Category:21世紀美國歌手](https://zh.wikipedia.org/wiki/Category:21世紀美國歌手 "wikilink")

@@ -77,6 +77,7 @@ Origin最初是一个专门为微型热量计设计的软件工具，是由Micro
 [Category:Windows软件](https://zh.wikipedia.org/wiki/Category:Windows软件 "wikilink")
 [Category:数学软件](https://zh.wikipedia.org/wiki/Category:数学软件 "wikilink")
 [Category:图表软件](https://zh.wikipedia.org/wiki/Category:图表软件 "wikilink")
+[Category:地球科學圖形軟體](https://zh.wikipedia.org/wiki/Category:地球科學圖形軟體 "wikilink")
 
 1.
 2.  [NASA Tech Briefs Product of the

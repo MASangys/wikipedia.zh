@@ -155,6 +155,7 @@ S-7是S艇其中一個級別，編號由S-7至S-13，德國人除了自用外還
 [Category:中華民國軍艦](https://zh.wikipedia.org/wiki/Category:中華民國軍艦 "wikilink")
 [Category:抗戰時期中國武器](https://zh.wikipedia.org/wiki/Category:抗戰時期中國武器 "wikilink")
 [Category:二戰中國軍艦](https://zh.wikipedia.org/wiki/Category:二戰中國軍艦 "wikilink")
+[Category:巡邏艇](https://zh.wikipedia.org/wiki/Category:巡邏艇 "wikilink")
 
 1.
 2.

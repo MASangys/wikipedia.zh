@@ -1,5 +1,5 @@
-***ONE***是歌手BONNIE
-PINK的第十張原創錄音室專輯，於2009年5月13日由[日本華納音樂發行](https://zh.wikipedia.org/wiki/華納音樂 "wikilink")。
+《**ONE**》是日本歌手[BONNIE
+PINK的第十張原創錄音室專輯](https://zh.wikipedia.org/wiki/BONNIE_PINK "wikilink")，於2009年5月13日由[日本華納音樂發行](https://zh.wikipedia.org/wiki/華納音樂 "wikilink")。
 
 ## 收錄曲目
 

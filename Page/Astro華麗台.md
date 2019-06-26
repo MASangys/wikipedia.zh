@@ -653,8 +653,8 @@ AOD我的最爱颁奖典礼》被由[TVB娱乐新闻台主办](https://zh.wikipe
 <td><p><a href="https://zh.wikipedia.org/wiki/TVB_馬來西亞星光薈萃頒獎典禮" title="wikilink">TVB 馬來西亞星光薈萃頒獎典禮</a></p></td>
 <td><p>（2013年）<a href="../Page/黎芷珊.md" title="wikilink">黎芷珊</a>、<a href="../Page/王祖藍.md" title="wikilink">王祖藍</a>、<a href="../Page/周奕瑋.md" title="wikilink">周奕瑋</a><br />
 （2014年）<a href="../Page/黎芷珊.md" title="wikilink">黎芷珊</a>、<a href="../Page/周奕瑋.md" title="wikilink">周奕瑋</a>、<a href="../Page/林盛斌.md" title="wikilink">林盛斌</a>、<a href="../Page/黃曉明_(香港).md" title="wikilink">黃曉明</a>[5]<br />
-（2015年）<a href="../Page/黎芷珊.md" title="wikilink">黎芷珊</a>、<a href="../Page/林盛斌.md" title="wikilink">林盛斌</a>、<a href="../Page/周奕瑋.md" title="wikilink">周奕瑋</a>、<a href="https://zh.wikipedia.org/wiki/朱智賢" title="wikilink">朱智賢</a><br />
-（2016年）<a href="../Page/鄭裕玲.md" title="wikilink">鄭裕玲</a>、<a href="../Page/農夫_(組合).md" title="wikilink">農 夫</a>、<a href="../Page/周奕瑋.md" title="wikilink">周奕瑋</a>、<a href="https://zh.wikipedia.org/wiki/朱智賢" title="wikilink">朱智賢</a><br />
+（2015年）<a href="../Page/黎芷珊.md" title="wikilink">黎芷珊</a>、<a href="../Page/林盛斌.md" title="wikilink">林盛斌</a>、<a href="../Page/周奕瑋.md" title="wikilink">周奕瑋</a>、<a href="../Page/朱智賢.md" title="wikilink">朱智賢</a><br />
+（2016年）<a href="../Page/鄭裕玲.md" title="wikilink">鄭裕玲</a>、<a href="../Page/農夫_(組合).md" title="wikilink">農 夫</a>、<a href="../Page/周奕瑋.md" title="wikilink">周奕瑋</a>、<a href="../Page/朱智賢.md" title="wikilink">朱智賢</a><br />
 （2017年）<a href="../Page/鄭裕玲.md" title="wikilink">鄭裕玲</a>、<a href="../Page/農夫_(組合).md" title="wikilink">農夫</a>、<a href="../Page/周奕瑋.md" title="wikilink">周奕瑋</a>、<a href="../Page/麥美恩.md" title="wikilink">麥美恩</a>、<a href="../Page/陸浩明.md" title="wikilink">陸浩明</a></p></td>
 <td><p>2017年</p></td>
 <td><p>此頒獎禮是由<a href="../Page/TVB娛樂新聞台.md" title="wikilink">TVB娛樂新聞台主辦</a>，<a href="../Page/Astro集團.md" title="wikilink">Astro</a>、<a href="../Page/MY_(马来西亚电台).md" title="wikilink">MY及</a><a href="../Page/云顶集团.md" title="wikilink">雲頂娛樂城協辦的</a><a href="https://zh.wikipedia.org/wiki/TVB" title="wikilink">TVB海外電視頒獎典禮</a>。每年與<a href="../Page/翡翠台.md" title="wikilink">翡翠台同步轉播</a>。<br />

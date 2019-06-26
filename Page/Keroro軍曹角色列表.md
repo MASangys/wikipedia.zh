@@ -437,7 +437,7 @@
 <!-- end list -->
 
   -
-    細竹星人第13代[公主](https://zh.wikipedia.org/wiki/公主 "wikilink")。1000年前細竹星毀滅，輝夜姬帶著80億居民搭乘牛車型[太空船尋找新的](https://zh.wikipedia.org/wiki/太空船 "wikilink")[行星](../Page/行星.md "wikilink")，途中遇到宇宙風暴而漂流至[月球](../Page/月球.md "wikilink")，太空船也因此故障而無法行駛。多年來四處尋找可以修理太空船的五種特殊礦石（[佛的御石缽](../Page/佛.md "wikilink")、[蓬萊的玉枝](https://zh.wikipedia.org/wiki/蓬萊 "wikilink")、[火鼠的皮裘](https://zh.wikipedia.org/wiki/火鼠 "wikilink")、[燕子的安貝](https://zh.wikipedia.org/wiki/燕子 "wikilink")、[龍的五色玉](https://zh.wikipedia.org/wiki/龍 "wikilink")），在Giroro無心插柳之下，終於發現了最後一件礦石－龍的五色玉，順利幫助輝夜姬重新開始尋找新天地的旅程。
+    細竹星人第13代[公主](../Page/公主.md "wikilink")。1000年前細竹星毀滅，輝夜姬帶著80億居民搭乘牛車型[太空船尋找新的](https://zh.wikipedia.org/wiki/太空船 "wikilink")[行星](../Page/行星.md "wikilink")，途中遇到宇宙風暴而漂流至[月球](../Page/月球.md "wikilink")，太空船也因此故障而無法行駛。多年來四處尋找可以修理太空船的五種特殊礦石（[佛的御石缽](../Page/佛.md "wikilink")、[蓬萊的玉枝](https://zh.wikipedia.org/wiki/蓬萊 "wikilink")、[火鼠的皮裘](https://zh.wikipedia.org/wiki/火鼠 "wikilink")、[燕子的安貝](https://zh.wikipedia.org/wiki/燕子 "wikilink")、[龍的五色玉](https://zh.wikipedia.org/wiki/龍 "wikilink")），在Giroro無心插柳之下，終於發現了最後一件礦石－龍的五色玉，順利幫助輝夜姬重新開始尋找新天地的旅程。
 
 <!-- end list -->
 

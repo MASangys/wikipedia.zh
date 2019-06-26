@@ -528,29 +528,24 @@ GUNDAM均內藏多個GN容器（GN Condenser）於機體各部位，容器大小
 
   - ;GN-001/hs-A01 雪崩型能天使GUNDAM（Gundam Avalanche Exia）
     MSV中出現的能天使GUNDAM衍生機種，为能天使GUNDAM的高机动重装甲装备，可以通过爆发出事先存储于GN容器内的粒子在短时间内获得极高的机动性与爆发力，但是在使用前需要长达一个小时才能完全填充，因此不适合应对突发状况。
-
   - ;GN-001/hs-A01D 突擊型雪崩能天使鋼彈（Gundam Avalanche Exia Dash）
     应对宇宙环境的雪崩型能天使GUNDAM改装版本，在原有的雪崩型装备的基础上再腿部追加了名为“雪橇”的特殊推进器，可以进行展开以用作高机动的强化，同时“雪橇”的顶端还内藏光束军刀，可以应对突发的近身战斗。
-
   - ;GN-001RE 能天使GUNDAM修補版（Gundam Exia Repair）
     第一季末尾被大破的能天使GUNDAM使用铁人的零件进行修补后的机体，部分装甲以及左臂缺失，右眼被替换为铁人的监视器，GN剑亦被折断。
-
   - ;GN-001REⅡ 能天使GUNDAM修補版Ⅱ（Gundam Exia RepairⅡ）（第四世代GUNDAM）
     在第二季结尾代替损坏的00GUNDAM，在与0GUNDAM实战型进行战斗后被大破，太阳炉亦被毁坏。
-
   - ;GN-001REⅢ 能天使GUNDAM修補版Ⅲ（Gundam Exia RepairⅢ）（劇場新世代GUNDAM）
     在能天使GUNDAM修補版Ⅱ的基础上修改了部分装甲，同时由于太阳炉损坏而改为GN容器供能，最大的区别是在左臂加装了折叠式GN长程步枪，使本机更为倾向于远距离射击。
-
   - ;GN-001REⅣ 能天使GUNDAM修補版Ⅳ（Gundam Exia RepairⅣ）（10周年公开机体）
     格拉汉姆·艾卡（Graham
     Aker）与ELS融合后加入天人组织所驾驶的机体，被其称呼为“格拉汉姆GUNDAM”。左腕以及左胸甲去除了外装甲而导致骨架外露，同时右肩追加了与量子型00GUNDAM相似的盾牌，这是为了让左撇子的格拉汉姆本人能够更容易适应，也体现出其与为人类与ELS融合体的特征。
-
   - ;GN-001E GN Arms Type-E 能天使鋼彈（GN Arms Type-E Gundam Exia）
+    能天使GUNDAM与GN武装战机E型组合而成的形态，为了应对大型敌机而开发，武装为两把附光束步枪型GN实体巨剑以及两门GN光束加农，同时拥有展开GN立场的能力。
 
 <!-- end list -->
 
   - 設計者：海老川兼武
-  - 命名：九天使階級中排第六的[能天使](https://zh.wikipedia.org/wiki/能天使 "wikilink")（Exusiai）
+  - 命名：九天使階級中排第六的[能天使](../Page/能天使.md "wikilink")（Exusiai）
 
 <!-- end list -->
 
@@ -609,20 +604,18 @@ GUNDAM均內藏多個GN容器（GN Condenser）於機體各部位，容器大小
 
   - ;GN-002/DG014 魚雷型力天使GUNDAM（Gundam Dynames Torpedo）
     MSV中出現的力天使GUNDAM衍生機種，虽作为水中战装备所开发，但却是以“如果MS不擅水战就没有下水的必要”的设计思路所设计的装备。去除了护盾并加装声呐系统，同时加装了称为“鱼雷发射器”的大型水中战用实弹武装，通过声呐探测水中目标后在岸边使用鱼雷发射器对水中目标进行狙击。
-
   - ;GN-002RE 力天使GUNDAM修補版（Gundam Dynames Repair）（劇場新世代GUNDAM）
-    於劇場版為了去接阿雷路亞及瑪莉，由萊爾駕駛的機體。
-
+    於劇場版為了去接阿雷路亞及瑪莉，由萊爾駕駛的機體。盾牌以新型材料制作，同时腰部推进器亦改为更大推力的新型推进器，但废除了光束军刀且改以GN容器供能。
   - ;GN-002REⅢ 力天使GUNDAM修補版Ⅲ（Gundam Dynames RepairⅢ）（10周年公开机体）
     由与提耶利亚·厄德（Tieria Erde）拥有相同碱基序列的女性拟变革者莉提西亚·厄德（Laetitia
     Erde）所驾驶，主武器变为了与德天使GUNDAM相似的GN火箭炮，肩部盾牌被替换为盾形GN加农炮（可充当盾牌使用），前裙甲导弹发射舱被替换为推进喷口，同时涂装亦变为黑色。
-
   - ;GN-002D GN Arms Type-D 力天使鋼彈（GN Arms Type-D Gundam Dynames）
+    力天使GUNDAM与GN武装战机D型组合而成的形态，为了应对舰队战而开发，武装为一挺大型双管GN光束步枪、180连装GN导弹集装箱以及两门GN光束加农，同时拥有展开GN立场的能力。
 
 <!-- end list -->
 
   - 設計者：柳瀨敬之
-  - 命名：英文的Dynames為九天使階級中[能天使](https://zh.wikipedia.org/wiki/能天使 "wikilink")（Exusiai）的別名（Dynamis）,但[力天使](../Page/力天使.md "wikilink")（Dynamis）與[德天使](https://zh.wikipedia.org/wiki/德天使 "wikilink")（Virtues）所指的其實同是階級排第五的天使
+  - 命名：英文的Dynames為九天使階級中[能天使](../Page/能天使.md "wikilink")（Exusiai）的別名（Dynamis）,但[力天使](../Page/力天使.md "wikilink")（Dynamis）與[德天使](https://zh.wikipedia.org/wiki/德天使 "wikilink")（Virtues）所指的其實同是階級排第五的天使
 
 <!-- end list -->
 

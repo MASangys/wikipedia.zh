@@ -8,7 +8,7 @@
 1782年，格言“[合众为一](https://zh.wikipedia.org/wiki/合众为一 "wikilink")”（）通过决议在[美国国徽上使用](../Page/美国国徽.md "wikilink")。它还出现在[美元](../Page/美元.md "wikilink")[硬币以及](https://zh.wikipedia.org/wiki/硬币 "wikilink")[纸币上](https://zh.wikipedia.org/wiki/纸币 "wikilink")，并被普遍认为是[美国事实上的国家格言](../Page/美国.md "wikilink")。然而，直到1956年，“我们信仰上帝”才被正式确立为官方认可的国家格言。1956年的[美国国会记录里写道](../Page/美国国会.md "wikilink")：“目前美国仍没有官方认可的国家格言。国会认为‘我们信仰上帝’（In
 God We Trust）是最合适的美国国家格言。”
 
-“我们信仰上帝”的一种可能的出处是美国国歌《[星条旗](../Page/星条旗_\(美国国歌\).md "wikilink")》的最后一节。《星条旗》由创作于1814年。这首歌包含了该短语的早期版本：“这就是我们的格言：‘上帝是我们的信仰’。”（And
+“我们信仰上帝”的一种可能的出处是美国国歌《[星条旗](../Page/星条旗_\(美国国歌\).md "wikilink")》的最后一节。《星条旗》由[弗朗西斯·斯科特·基创作于](../Page/弗朗西斯·斯科特·基.md "wikilink")1814年。这首歌包含了该短语的早期版本：“这就是我们的格言：‘上帝是我们的信仰’。”（And
 this be our motto: 'In God is our
 trust'）另一个可能的来源是[亚伯拉罕·林肯的私人秘书](../Page/亚伯拉罕·林肯.md "wikilink")[海约翰](../Page/海约翰.md "wikilink")。作为[布朗大学的毕业生](../Page/布朗大学.md "wikilink")，其校训“*In
 Deo

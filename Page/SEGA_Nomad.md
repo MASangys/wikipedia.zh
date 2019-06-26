@@ -7,6 +7,8 @@ Drive）的衍生機型，同時也是世嘉開發的最後一部掌上遊戲機
 Mega Drive（在北美地區被稱為[SEGA
 Genesis](https://zh.wikipedia.org/wiki/SEGA_Genesis "wikilink")）於1988年發售，銷售量達3075萬部，是世嘉歷年來最成功的主機\[1\]。
 
+1995年10月，SEGA Nomad在北美地區首發，售價為179.99美元。
+
 ## 硬體
 
 ### 簡介

@@ -1,8 +1,9 @@
 **iPhone
 3G**是一款[苹果公司旗下的](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[智能手机](../Page/智能手机.md "wikilink")，是[iPhone系列中的第二代](https://zh.wikipedia.org/wiki/iPhone "wikilink")。2008年6月9日，这款手机在[苹果公司全球软件开发者年会中正式发布](https://zh.wikipedia.org/wiki/苹果公司全球软件开发者年会 "wikilink")。iPhone
 3G的内部结构与前代相似，但增加了一些模块，例如[3G网络](../Page/3G.md "wikilink")、[辅助全球卫星定位系统等](../Page/辅助全球卫星定位系统.md "wikilink")，透過這些技術，實現了網路的移動化。iPhone
-3G搭载了当时最新的[IOS](../Page/IOS.md "wikilink")2.0系统，受惠于新的系统，iPhone
-3G增加了邮件推送、[App
+3G搭载了当时最新的[iPhone
+OS](https://zh.wikipedia.org/wiki/iPhone_OS "wikilink")
+2.0系统，受惠于新的系统，iPhone 3G增加了邮件推送、[App
 Store等功能](../Page/App_Store_\(iOS\).md "wikilink")\[1\]。
 
 ## 历史

@@ -10,9 +10,6 @@ Assigned Numbers Authority）维护。\[2\]
 Internet Information
 Services）有时会使用额外的十进制子代码来获取更多具体信息，\[3\]但是这些子代码仅出现在响应有效内容和文档中，而不是代替实际的HTTP状态代码。
 
-若要查看網址的 HTTP 狀態碼，可以使用 [httpstatus
-線上工具](https://techmoon.xyz/httpstatus/)來進行檢測。
-
 ## 1xx消息
 
 这一类型的状态码，代表请求已被接受，需要继续处理。这类响应是临时响应，只包含状态行和某些可选的响应头信息，并以空行结束。由于HTTP/1.0协议中没有定义任何1xx状态码，所以除非在某些试验条件下，服务器禁止向此类客户端发送1xx响应。\[4\]
@@ -323,29 +320,29 @@ Services）有时会使用额外的十进制子代码来获取更多具体信息
 
 <!-- end list -->
 
-  - 425 Unordered Collection
-    在WebDAV Advanced Collections Protocol中定义，但Web Distributed Authoring
-    and Versioning (WebDAV) Ordered Collections Protocol中并不存在。
+  - 425 Too Early (RFC 8470)
+    服务器拒绝处理在Early
+    Data中的请求，以规避可能的[重放攻击](https://zh.wikipedia.org/wiki/重放攻击 "wikilink")。\[57\]
 
 <!-- end list -->
 
   - 426 Upgrade Required（RFC 2817）
-    客户端应当切换到[TLS/1.0](https://zh.wikipedia.org/wiki/传输层安全 "wikilink")，并在中给出。\[57\]
+    客户端应当切换到[TLS/1.0](https://zh.wikipedia.org/wiki/传输层安全 "wikilink")，并在中给出。\[58\]
 
 <!-- end list -->
 
   - 428 Precondition Required (RFC 6585)
-    原服务器要求该请求满足一定条件。这是为了防止“‘未更新’问题，即客户端读取（GET）一个资源的状态，更改它，并将它写（PUT）回服务器，但这期间第三方已经在服务器上更改了该资源的状态，因此导致了冲突。”\[58\]
+    原服务器要求该请求满足一定条件。这是为了防止“‘未更新’问题，即客户端读取（GET）一个资源的状态，更改它，并将它写（PUT）回服务器，但这期间第三方已经在服务器上更改了该资源的状态，因此导致了冲突。”\[59\]
 
 <!-- end list -->
 
   - 429 Too Many Requests （RFC 6585）
-    用户在给定的时间内发送了太多的请求。旨在用于。\[59\]
+    用户在给定的时间内发送了太多的请求。旨在用于。\[60\]
 
 <!-- end list -->
 
   - 431 Request Header Fields Too Large （RFC 6585）
-    服务器不愿处理请求，因为一个或多个头字段过大。\[60\]
+    服务器不愿处理请求，因为一个或多个头字段过大。\[61\]
 
 <!-- end list -->
 
@@ -364,7 +361,7 @@ Services）有时会使用额外的十进制子代码来获取更多具体信息
 <!-- end list -->
 
   -
-    该访问因[法律的要求而被拒絕](../Page/法律.md "wikilink")，由[IETF在](https://zh.wikipedia.org/wiki/IETF "wikilink")2015核准后新增加。\[61\]\[62\]\[63\]
+    该访问因[法律的要求而被拒絕](../Page/法律.md "wikilink")，由[IETF在](https://zh.wikipedia.org/wiki/IETF "wikilink")2015核准后新增加。\[62\]\[63\]\[64\]
 
 <!-- end list -->
 
@@ -373,49 +370,49 @@ Services）有时会使用额外的十进制子代码来获取更多具体信息
 
 ## 5xx服务器错误
 
-表示服务器无法完成明显有效的请求。\[64\]这类状态码代表了服务器在处理请求的过程中有错误或者异常状态发生，也有可能是服务器意识到以当前的软硬件资源无法完成对请求的处理。除非这是一个HEAD请求，否则服务器应当包含一个解释当前错误状态以及这个状况是临时的还是永久的解释信息实体。浏览器应当向用户展示任何在当前响应中被包含的实体。这些状态码适用于任何响应方法。\[65\]
+表示服务器无法完成明显有效的请求。\[65\]这类状态码代表了服务器在处理请求的过程中有错误或者异常状态发生，也有可能是服务器意识到以当前的软硬件资源无法完成对请求的处理。除非这是一个HEAD请求，否则服务器应当包含一个解释当前错误状态以及这个状况是临时的还是永久的解释信息实体。浏览器应当向用户展示任何在当前响应中被包含的实体。这些状态码适用于任何响应方法。\[66\]
 
   - 500 Internal Server Error
-    通用错误消息，服务器遇到了一个未曾预料的状况，导致了它无法完成对请求的处理。没有给出具体错误信息。\[66\]
+    通用错误消息，服务器遇到了一个未曾预料的状况，导致了它无法完成对请求的处理。没有给出具体错误信息。\[67\]
 
 <!-- end list -->
 
   - 501 Not Implemented
-    服务器不支持当前请求所需要的某个功能。当服务器无法识别请求的方法，并且无法支持其对任何资源的请求。\[67\]（例如，网络服务API的新功能）
+    服务器不支持当前请求所需要的某个功能。当服务器无法识别请求的方法，并且无法支持其对任何资源的请求。\[68\]（例如，网络服务API的新功能）
 
 <!-- end list -->
 
   - 502 Bad Gateway
-    作为[网关或者](../Page/网关.md "wikilink")[代理工作的服务器尝试执行请求时](../Page/代理服务器.md "wikilink")，从上游服务器接收到无效的响应。\[68\]
+    作为[网关或者](../Page/网关.md "wikilink")[代理工作的服务器尝试执行请求时](../Page/代理服务器.md "wikilink")，从上游服务器接收到无效的响应。\[69\]
 
 <!-- end list -->
 
   - 503 Service Unavailable
-    由于临时的服务器维护或者[过载](https://zh.wikipedia.org/wiki/过载 "wikilink")，服务器当前无法处理请求。这个状况是暂时的，并且将在一段时间以后恢复。\[69\]如果能够预计延迟时间，那么响应中可以包含一个Retry-After头用以标明这个延迟时间。如果没有给出这个Retry-After信息，那么客户端应当以处理[500响应的方式处理它](https://zh.wikipedia.org/wiki/500_Internal_Error "wikilink")。
+    由于临时的服务器维护或者[过载](https://zh.wikipedia.org/wiki/过载 "wikilink")，服务器当前无法处理请求。这个状况是暂时的，并且将在一段时间以后恢复。\[70\]如果能够预计延迟时间，那么响应中可以包含一个Retry-After头用以标明这个延迟时间。如果没有给出这个Retry-After信息，那么客户端应当以处理[500响应的方式处理它](https://zh.wikipedia.org/wiki/500_Internal_Error "wikilink")。
 
 <!-- end list -->
 
   - 504 Gateway Timeout
-    作为网关或者代理工作的服务器尝试执行请求时，未能及时从上游服务器（URI标识出的服务器，例如[HTTP](https://zh.wikipedia.org/wiki/HTTP "wikilink")、[FTP](https://zh.wikipedia.org/wiki/FTP "wikilink")、[LDAP](https://zh.wikipedia.org/wiki/LDAP "wikilink")）或者辅助服务器（例如[DNS](https://zh.wikipedia.org/wiki/DNS "wikilink")）收到响应。\[70\]
+    作为网关或者代理工作的服务器尝试执行请求时，未能及时从上游服务器（URI标识出的服务器，例如[HTTP](https://zh.wikipedia.org/wiki/HTTP "wikilink")、[FTP](https://zh.wikipedia.org/wiki/FTP "wikilink")、[LDAP](https://zh.wikipedia.org/wiki/LDAP "wikilink")）或者辅助服务器（例如[DNS](https://zh.wikipedia.org/wiki/DNS "wikilink")）收到响应。\[71\]
     注意：某些代理服务器在DNS查询[超时时会返回](https://zh.wikipedia.org/wiki/超时 "wikilink")[400或者](https://zh.wikipedia.org/wiki/#400 "wikilink")[500错误](https://zh.wikipedia.org/wiki/#500 "wikilink")。
 
 <!-- end list -->
 
   - 505 HTTP Version Not Supported
-    服务器不支持，或者拒绝支持在请求中使用的HTTP版本。\[71\]这暗示着服务器不能或不愿使用与客户端相同的版本。响应中应当包含一个描述了为何版本不被支持以及服务器支持哪些协议的实体。
+    服务器不支持，或者拒绝支持在请求中使用的HTTP版本。\[72\]这暗示着服务器不能或不愿使用与客户端相同的版本。响应中应当包含一个描述了为何版本不被支持以及服务器支持哪些协议的实体。
 
 <!-- end list -->
 
   - 506 Variant Also Negotiates（RFC 2295）
     由《透明内容协商协议》（RFC
-    2295）扩展，代表服务器存在内部配置错误，\[72\]被请求的协商变元资源被配置为在透明内容协商中使用自己，因此在一个协商处理中不是一个合适的重点。
+    2295）扩展，代表服务器存在内部配置错误，\[73\]被请求的协商变元资源被配置为在透明内容协商中使用自己，因此在一个协商处理中不是一个合适的重点。
 
 <!-- end list -->
 
   - 507 Insufficient
     Storage（[WebDAV](https://zh.wikipedia.org/wiki/WebDAV "wikilink")；RFC
     4918）
-    服务器无法存储完成请求所必须的内容。这个状况被认为是临时的。\[73\]
+    服务器无法存储完成请求所必须的内容。这个状况被认为是临时的。\[74\]
 
 <!-- end list -->
 
@@ -428,33 +425,12 @@ Services）有时会使用额外的十进制子代码来获取更多具体信息
 <!-- end list -->
 
   - 510 Not Extended（RFC 2774）
-    获取资源所需要的策略并没有被满足。\[74\]
+    获取资源所需要的策略并没有被满足。\[75\]
 
 <!-- end list -->
 
   - 511 Network Authentication Required （RFC 6585）
-    客户端需要进行身份验证才能获得网络访问权限，旨在限制用户群访问特定网络。（例如连接[WiFi热点时的](https://zh.wikipedia.org/wiki/热点_\(Wi-Fi\) "wikilink")）\[75\]
-
-## 非官方状态码
-
-  - 420 Enhance Your Calm
-
-據說早期 Twitter API 會在短期內送出太多需求的時候回傳這個 Status Code，不過在新版 API 改為使用 429 Too
-Many Requests。
-
-  - 498 Invalid Token
-    499 Token Required
-
-這兩個是以前一個叫做 ArcGIS for Server 的系統會回應的 Status Code。一般來說驗證資訊錯誤還是會回傳 401
-Unathorized。
-
-  - 520 Unknown Error
-
-Cloudflare 會用的未知錯誤。
-
-  - 521 Web Server Is Down
-
-指目標伺服器掛了，一般在一些CDN上会出现（例如Cloudflare）
+    客户端需要进行身份验证才能获得网络访问权限，旨在限制用户群访问特定网络。（例如连接[WiFi热点时的](https://zh.wikipedia.org/wiki/热点_\(Wi-Fi\) "wikilink")）\[76\]
 
 ## 参见
 
@@ -584,12 +560,12 @@ Cloudflare 會用的未知錯誤。
 55.
 56.
 57.
-58.
 
+58.
 59.
+
 60.
 61.
-
 62.
 
 63.
@@ -613,6 +589,8 @@ Cloudflare 會用的未知錯誤。
 72.
 
 73.
-74.
 
+74.
 75.
+
+76.

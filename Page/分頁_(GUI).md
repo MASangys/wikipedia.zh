@@ -60,12 +60,6 @@ Interface）的原理設計出了分頁瀏覽器。僅使用一個視窗就可�
 
 <references />
 
-[it:Navigazione a
-schede](https://zh.wikipedia.org/wiki/it:Navigazione_a_schede "wikilink")
-[ja:タブブラウザ](https://zh.wikipedia.org/wiki/ja:タブブラウザ "wikilink")
-[ru:Многодокументный интерфейс со
-вкладками](https://zh.wikipedia.org/wiki/ru:Многодокументный_интерфейс_со_вкладками "wikilink")
-
 [Category:網頁瀏覽器](https://zh.wikipedia.org/wiki/Category:網頁瀏覽器 "wikilink")
 [Category:圖形用戶界面](https://zh.wikipedia.org/wiki/Category:圖形用戶界面 "wikilink")
 

@@ -269,7 +269,8 @@ Finalizer」開發完成後，Musumet也獲得了凌駕Otomet的戰鬥力，而�
 ## 外部連結
 
   - [官方網站](http://www.wonderfarm.co.jp/musume/)
-  - [流星戰隊Musumet 情報](http://e-tnk.net/anime/anime_musumetto.html)
+  - [流星戰隊Musumet
+    情報](https://web.archive.org/web/20081024112924/http://www.e-tnk.net/anime/anime_musumetto.html)
   - [流星戰隊Musumet
     各話製作群](https://web.archive.org/web/20090227030146/http://www1.vecceed.ne.jp/~m-satomi/MUSUMETT.sub1.html)
   - [原始官方網站（已於2005年4月關閉）](http://web.archive.org/*/www.musumet.jp/)

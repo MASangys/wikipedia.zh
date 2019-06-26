@@ -4,7 +4,7 @@ Designer.png | screenshot size = 250px | caption = [Windows
 7下的Qt](https://zh.wikipedia.org/wiki/Windows_7 "wikilink") Creator
 3.1.1 | developer = Qt Project，[Digia](../Page/Digia.md "wikilink") |
 latest_release_version = 4.9.1\[1\] | latest_release_date =  |
-latest_preview_version = 4.9 RC\[2\] | latest_preview_date =  |
+latest_preview_version = 4.10 Beta\[2\] | latest_preview_date =  |
 programming language =
 [C++](../Page/C++.md "wikilink")（[Qt](../Page/Qt.md "wikilink")） |
 operating_system =

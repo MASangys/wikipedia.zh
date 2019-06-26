@@ -31,7 +31,7 @@ SBS月火連續劇*'（）是[SBS於](https://zh.wikipedia.org/wiki/SBS株式會
 <tr class="odd">
 <td style="text-align: center;"><p>1993年11月15日－<br />
 1994年1月25日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/遙遠的松巴江" title="wikilink">遙遠的松巴江</a><br />
+<td style="text-align: center;"><p><a href="../Page/遙遠的松巴江.md" title="wikilink">遙遠的松巴江</a><br />
 </p></td>
 <td style="text-align: center;"><p>22</p></td>
 <td style="text-align: center;"><p><a href="../Page/朴重勳.md" title="wikilink">朴重勳</a>、<a href="../Page/李璟榮.md" title="wikilink">李璟榮</a>、<a href="https://zh.wikipedia.org/wiki/范靈丹" title="wikilink">范靈丹</a></p></td>
@@ -1334,7 +1334,7 @@ SBS月火連續劇*'（）是[SBS於](https://zh.wikipedia.org/wiki/SBS株式會
 <td style="text-align: center;"><p><a href="../Page/月之戀人－步步驚心：麗.md" title="wikilink">月之戀人－步步驚心：麗</a><br />
 </p></td>
 <td style="text-align: center;"><p>20</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李準基" title="wikilink">李準基</a>、<a href="https://zh.wikipedia.org/wiki/IU_(歌手)" title="wikilink">IU</a>、<a href="../Page/姜河那.md" title="wikilink">姜河那</a>、<a href="../Page/洪宗玄.md" title="wikilink">洪宗玄</a>、<a href="../Page/伯賢.md" title="wikilink">邊伯賢</a>、<a href="../Page/金志洙.md" title="wikilink">金志洙</a>、<a href="https://zh.wikipedia.org/wiki/成東日" title="wikilink">成東日</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/李準基.md" title="wikilink">李準基</a>、<a href="https://zh.wikipedia.org/wiki/IU_(歌手)" title="wikilink">IU</a>、<a href="../Page/姜河那.md" title="wikilink">姜河那</a>、<a href="../Page/洪宗玄.md" title="wikilink">洪宗玄</a>、<a href="../Page/伯賢.md" title="wikilink">邊伯賢</a>、<a href="../Page/金志洙.md" title="wikilink">金志洙</a>、<a href="https://zh.wikipedia.org/wiki/成東日" title="wikilink">成東日</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/金圭泰.md" title="wikilink">金圭泰</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/趙允英" title="wikilink">趙允英</a></p></td>
 <td style="text-align: center;"><p>原作：<a href="https://zh.wikipedia.org/wiki/桐華" title="wikilink">桐華</a>《<a href="https://zh.wikipedia.org/wiki/步步驚心" title="wikilink">步步驚心</a>》</p></td>
@@ -1612,17 +1612,6 @@ SBS月火連續劇*'（）是[SBS於](https://zh.wikipedia.org/wiki/SBS株式會
 <tr class="even">
 <td style="text-align: center;"><p>2019年月日－<br />
 2019年月日</p></td>
-<td style="text-align: center;"><p><a href="../Page/偵探醫生.md" title="wikilink">偵探醫生</a><br />
-</p></td>
-<td style="text-align: center;"><p>32</p></td>
-<td style="text-align: center;"><p><a href="../Page/朴真熙.md" title="wikilink">朴真熙</a>、<a href="../Page/奉太奎.md" title="wikilink">奉太奎</a>、<a href="../Page/李己雨.md" title="wikilink">李己雨</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/朴俊宇" title="wikilink">朴俊宇</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/宋允熙" title="wikilink">宋允熙</a></p></td>
-<td style="text-align: center;"></td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;"><p>2019年月日－<br />
-2019年月日</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/VIP_(韓國電視劇)" title="wikilink">VIP</a><br />
 </p></td>
 <td style="text-align: center;"><p>32</p></td>
@@ -1631,7 +1620,7 @@ SBS月火連續劇*'（）是[SBS於](https://zh.wikipedia.org/wiki/SBS株式會
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/申惠媛" title="wikilink">申惠媛</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>

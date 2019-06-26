@@ -9,7 +9,7 @@ Book中的某些資訊为專有機密資訊。
 
 ## 视频数据
 
-DVD-Video使用[H.262](https://zh.wikipedia.org/wiki/H.262 "wikilink")（[MPEG-2](../Page/MPEG-2.md "wikilink")）壓縮標準（最高碼率為9.8
+DVD-Video使用[H.262](../Page/H.262.md "wikilink")（[MPEG-2](../Page/MPEG-2.md "wikilink")）壓縮標準（最高碼率為9.8
 Mibit/s）或[MPEG-1壓縮標準](../Page/MPEG-1.md "wikilink")（最高碼率為1.856
 Mibit/s）以錄製移動圖像。DVD-Video支援[色彩深度為每色](../Page/色彩深度.md "wikilink")8位[YCbCr與](../Page/YCbCr.md "wikilink")4:2:0[色度抽樣的視頻](https://zh.wikipedia.org/wiki/色度抽樣 "wikilink")。\[4\]\[5\]
 

@@ -1688,7 +1688,7 @@
 <td style="text-align: center;"><p><a href="../Page/花郎_(電視劇).md" title="wikilink">花郎</a><br />
 </p></td>
 <td style="text-align: center;"><p>20</p></td>
-<td style="text-align: center;"><p><a href="../Page/朴敘俊.md" title="wikilink">朴敘俊</a>、<a href="https://zh.wikipedia.org/wiki/朴炯植" title="wikilink">朴炯植</a>、<a href="../Page/高雅羅.md" title="wikilink">高雅羅</a>、<a href="https://zh.wikipedia.org/wiki/崔珉豪" title="wikilink">崔珉豪</a>、<a href="../Page/都枝寒.md" title="wikilink">都枝寒</a>、<a href="https://zh.wikipedia.org/wiki/金泰亨_(1995年生)" title="wikilink">金泰亨</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/朴敘俊.md" title="wikilink">朴敘俊</a>、<a href="../Page/朴炯植.md" title="wikilink">朴炯植</a>、<a href="../Page/高雅羅.md" title="wikilink">高雅羅</a>、<a href="https://zh.wikipedia.org/wiki/崔珉豪" title="wikilink">崔珉豪</a>、<a href="../Page/都枝寒.md" title="wikilink">都枝寒</a>、<a href="https://zh.wikipedia.org/wiki/金泰亨_(1995年生)" title="wikilink">金泰亨</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/尹成植" title="wikilink">尹成植</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/朴恩英" title="wikilink">朴恩英</a></p></td>
 <td style="text-align: center;"></td>
@@ -1944,8 +1944,8 @@
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>2019年6月3日－<br />
-2019年</p></td>
-<td style="text-align: center;"><p><a href="../Page/Perfume_(電視劇).md" title="wikilink">Perfume</a><br />
+2019年7月23日</p></td>
+<td style="text-align: center;"><p><a href="../Page/Perfume_(韓國電視劇).md" title="wikilink">Perfume</a><br />
 </p></td>
 <td style="text-align: center;"><p>32</p></td>
 <td style="text-align: center;"><p><a href="../Page/申成祿.md" title="wikilink">申成祿</a>、<a href="../Page/高媛熙.md" title="wikilink">高媛熙</a>、<a href="../Page/金旻奎.md" title="wikilink">金旻奎</a>、<a href="../Page/車藝蓮.md" title="wikilink">車藝蓮</a></p></td>
@@ -1954,23 +1954,25 @@
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p>2019年8月日－<br />
-2019年</p></td>
+<td style="text-align: center;"><p>2019年7月29日－<br />
+2019年9月</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/讓我聆聽你的歌" title="wikilink">讓我聆聽你的歌</a><br />
 </p></td>
 <td style="text-align: center;"><p>32</p></td>
-<td style="text-align: center;"><p><a href="../Page/延宇振.md" title="wikilink">延宇振</a>、<a href="https://zh.wikipedia.org/wiki/金世正" title="wikilink">金世正</a>、<a href="../Page/宋再臨.md" title="wikilink">宋再臨</a>、<a href="https://zh.wikipedia.org/wiki/朴芝妍" title="wikilink">朴芝妍</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/延宇振.md" title="wikilink">延宇振</a>、<a href="https://zh.wikipedia.org/wiki/金世正" title="wikilink">金世正</a>、<a href="../Page/宋再臨.md" title="wikilink">宋再臨</a>、<a href="../Page/朴芝妍.md" title="wikilink">朴芝妍</a></p></td>
 <td style="text-align: center;"><p>李貞美</p></td>
 <td style="text-align: center;"><p>金敏珠</p></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;"><p>2019年9月－<br />
+2019年</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/綠豆傳" title="wikilink">綠豆傳</a><br />
+</p></td>
+<td style="text-align: center;"><p>40</p></td>
+<td style="text-align: center;"><p><a href="../Page/金所泫.md" title="wikilink">金所泫</a>、<a href="https://zh.wikipedia.org/wiki/張東尹" title="wikilink">張東尹</a></p></td>
+<td style="text-align: center;"><p>金東輝</p></td>
+<td style="text-align: center;"><p>林藝珍、白素延</p></td>
 <td style="text-align: center;"></td>
 </tr>
 </tbody>

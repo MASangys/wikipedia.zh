@@ -13,7 +13,7 @@ last_aired =  | status = | preceded_by =
 [一枝梅](../Page/一枝梅.md "wikilink") | related = | website =
 <http://tv.sbs.co.kr/onair/> | 中國大陸名稱 = 爱情正在直播 | 台灣名稱 = 真愛On Air | 港澳名稱
 = On-Air | 馬新名稱 = }} 《**On
-Air**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS於](../Page/SBS_\(韓國\).md "wikilink")2008年3月5日起播放的[水木連續劇](https://zh.wikipedia.org/wiki/SBS水木連續劇 "wikilink")，導演[申宇哲和編劇](../Page/申宇哲.md "wikilink")[金銀淑繼](../Page/金銀淑.md "wikilink")[SBS戀人系列後再度合作](../Page/SBS戀人系列.md "wikilink")。因為這部戲是以韓國電視台為舞臺所創作的故事，加上導演和編劇在韓國演藝圈有廣泛的人脈，邀請到了不少韓國當紅女星客串演出。
+Air**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS於](../Page/SBS_\(韓國\).md "wikilink")2008年3月5日起播放的[水木連續劇](../Page/SBS水木連續劇.md "wikilink")，導演[申宇哲和編劇](../Page/申宇哲.md "wikilink")[金銀淑繼](../Page/金銀淑.md "wikilink")[SBS戀人系列後再度合作](../Page/SBS戀人系列.md "wikilink")。因為這部戲是以韓國電視台為舞臺所創作的故事，加上導演和編劇在韓國演藝圈有廣泛的人脈，邀請到了不少韓國當紅女星客串演出。
 
 ## 故事大綱
 

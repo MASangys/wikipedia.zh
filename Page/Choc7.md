@@ -351,7 +351,7 @@ Simon、金絲眼鏡</p></td>
 <td><p>台灣:<a href="https://zh.wikipedia.org/wiki/东森幼幼台" title="wikilink">东森幼幼台</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/萌学园4時空戰役" title="wikilink">萌学园4時空戰役</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/阿本" title="wikilink">阿本</a>-欧趴<br />
-<a href="https://zh.wikipedia.org/wiki/鮪魚" title="wikilink">鮪魚</a>-帝蒂卡</p></td>
+<a href="../Page/鮪魚.md" title="wikilink">鮪魚</a>-帝蒂卡</p></td>
 <td><p>男配角</p></td>
 </tr>
 <tr class="even">

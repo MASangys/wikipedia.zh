@@ -73,7 +73,6 @@ Wudaokou.webm|NDJ3型动车组通过京包铁路[五道口](../Page/五道口.md
   - [西直门和谐内的体验之旅（海子鐵路網）](http://bbs.hasea.com/thread-269831-1-1.html)
   - [刘志军检查即将投入运营的北京至延庆市郊铁路](http://www.gov.cn/gzdt/2008-07/28/content_1057549.htm)
 
-[Category:北京铁路局](https://zh.wikipedia.org/wiki/Category:北京铁路局 "wikilink")
 [Category:中国柴油动车组](https://zh.wikipedia.org/wiki/Category:中国柴油动车组 "wikilink")
 [Category:戚墅堰制铁路车辆](https://zh.wikipedia.org/wiki/Category:戚墅堰制铁路车辆 "wikilink")
 [Category:中车浦镇制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车浦镇制铁路车辆 "wikilink")

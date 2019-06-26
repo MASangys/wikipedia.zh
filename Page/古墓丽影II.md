@@ -21,11 +21,11 @@ Network版本在](../Page/PlayStation_Network.md "wikilink")2009年发布。\[1\
 《古墓丽影II》作为1997年最受期待的游戏之一，立即取得了商业上的成功，销售成绩很快超越原作
 《古墓丽影》并广受好评。\[4\]评论特别赞扬了《古墓丽影II》改进的图形效果，可用的车辆和更注重行动的目标。\[5\]
 
+## 参考文献
+
 ## 外部链接
 
   -
-## 参考文献
-
 [Category:1997年电子游戏](https://zh.wikipedia.org/wiki/Category:1997年电子游戏 "wikilink")
 [Category:古墓奇兵系列電子遊戲](https://zh.wikipedia.org/wiki/Category:古墓奇兵系列電子遊戲 "wikilink")
 [Category:Eidos游戏](https://zh.wikipedia.org/wiki/Category:Eidos游戏 "wikilink")

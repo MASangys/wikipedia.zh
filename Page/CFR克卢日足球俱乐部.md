@@ -8,7 +8,7 @@ CFR克卢日足球俱乐部名称中的CFR为[罗马尼亚铁路系统的缩写]
 
 ### 早期历史
 
-CFR克卢日足球俱乐部成立于1907年；当时的克卢日市还是[奥匈帝国的一部分](https://zh.wikipedia.org/wiki/奥匈帝国 "wikilink")。俱乐部原来的[匈牙利语名称是](../Page/匈牙利语.md "wikilink")*Kolozsvári
+CFR克卢日足球俱乐部成立于1907年；当时的克卢日市还是[奥匈帝国的一部分](../Page/奥匈帝国.md "wikilink")。俱乐部原来的[匈牙利语名称是](../Page/匈牙利语.md "wikilink")*Kolozsvári
 Vasutas Sport Club*
 (K.V.S.C.)，意思是“铁路工人队”。1907至1910年，克卢日参加了Kolozsvár（即现在的克卢日-纳波卡）地区联赛，然而并没有取得引人注目的成绩。
 

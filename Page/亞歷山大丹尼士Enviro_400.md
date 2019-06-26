@@ -146,8 +146,8 @@ Pratico 3840
 城巴全數60輛Enviro
 400巴士，目前主要行走6、6A、6X、7、71、72A、73、90B、95C、103、260、973等港島南區路線，尤其[赤柱路線為主](../Page/赤柱.md "wikilink")，以針對[深水灣](https://zh.wikipedia.org/wiki/深水灣 "wikilink")、[淺水灣及](../Page/淺水灣.md "wikilink")[赤柱一帶狹窄多彎的路面](../Page/赤柱.md "wikilink")。
 
-2019年，受[山頂纜車暫停服務影響](../Page/山頂纜車.md "wikilink")，[新巴向](https://zh.wikipedia.org/wiki/新巴 "wikilink")[城巴租用部分Enviro](../Page/城巴.md "wikilink")400行走[9及](../Page/新巴9號線.md "wikilink")[14線](../Page/新巴14線.md "wikilink")，以便騰出足夠Enviro400
-Euro V（3800-3859）行走受加列山道天橋高度限制的、及線。\[5\]\[6\]
+2019年，受[山頂纜車進行翻新而暫停服務的影響](../Page/山頂纜車.md "wikilink")，[新巴向](https://zh.wikipedia.org/wiki/新巴 "wikilink")[城巴租用部分Enviro](../Page/城巴.md "wikilink")400行走[9及](../Page/新巴9號線.md "wikilink")[14線](../Page/新巴14線.md "wikilink")，以便騰出足夠Enviro400
+Euro V（3800-3859）行走受加列山道天橋高度限制的、及新增的線。
 
 7000-7001於2015年7月全數加設電子路線圖。
 
@@ -157,9 +157,9 @@ Euro V（3800-3859）行走受加列山道天橋高度限制的、及線。\[5\]
 2012年2月初，九巴向亞歷山大丹尼士訂購50輛Enviro
 400（車隊編號為ATSE2-ATSE51），用於取代因年事已高而退役的1995年[富豪奧林比安及第三批](https://zh.wikipedia.org/wiki/富豪奧林比安 "wikilink")（1995年）的[丹尼士巨龍11米](https://zh.wikipedia.org/wiki/丹尼士巨龍 "wikilink")，為減少營運成本，這批巴士由珠海廣通客車裝嵌車身。其中ATSE2已於2012年9月到港。量產型Enviro
 400使用Hanover橙色路線顯示屏（為九巴首款巴士使用），配置Vogel
-Revo白色巴士仔圖案座椅（與[AVBWS1同款](https://zh.wikipedia.org/wiki/富豪B9TL巴士#各地的富豪B9TL#九龍巴士#AVBWS "wikilink")）\[7\]。為有效利用車廂空間提高載客量，下層車廂的前軸輪拱左方設有兩個面向車頭的座椅，駕駛座隔板後方則設有一個面向前方的單人座椅，這種座位編排是九巴車隊中罕有選用的設計。上層車頭沒有設置路訊通顯示器組件，波箱改用Voith
+Revo白色巴士仔圖案座椅（與[AVBWS1同款](https://zh.wikipedia.org/wiki/富豪B9TL巴士#各地的富豪B9TL#九龍巴士#AVBWS "wikilink")）\[5\]。為有效利用車廂空間提高載客量，下層車廂的前軸輪拱左方設有兩個面向車頭的座椅，駕駛座隔板後方則設有一個面向前方的單人座椅，這種座位編排是九巴車隊中罕有選用的設計。上層車頭沒有設置路訊通顯示器組件，波箱改用Voith
 D864.5的產品。此批Enviro 400於2012年11月9日至翌年2月21日間全數出牌及投入服務。目前行走路線
-[2B](https://zh.wikipedia.org/wiki/九龍巴士2B線 "wikilink")、[31M](https://zh.wikipedia.org/wiki/九龍巴士31M線 "wikilink")、[45](https://zh.wikipedia.org/wiki/九龍巴士45線 "wikilink")、[46](https://zh.wikipedia.org/wiki/九龍巴士46線 "wikilink")、[53](https://zh.wikipedia.org/wiki/九龍巴士53線 "wikilink")、[72A](https://zh.wikipedia.org/wiki/九龍巴士72A線 "wikilink")、[84M](https://zh.wikipedia.org/wiki/九龍巴士84M線 "wikilink")、[234X](https://zh.wikipedia.org/wiki/九龍巴士234X線 "wikilink")、[268B](https://zh.wikipedia.org/wiki/九龍巴士268B線 "wikilink")、[276](https://zh.wikipedia.org/wiki/九龍巴士276、276P線 "wikilink")、[103及](https://zh.wikipedia.org/wiki/過海隧道巴士103線 "wikilink")[690線](https://zh.wikipedia.org/wiki/過海隧道巴士690線 "wikilink")，部份車輛或會行走[32H](https://zh.wikipedia.org/wiki/九龍巴士32H線 "wikilink")，[34](https://zh.wikipedia.org/wiki/九龍巴士34線 "wikilink")，[64K及](https://zh.wikipedia.org/wiki/九龍巴士64K線 "wikilink")[276線](https://zh.wikipedia.org/wiki/九龍巴士276線 "wikilink")。
+[2B](https://zh.wikipedia.org/wiki/九龍巴士2B線 "wikilink")、[31M](https://zh.wikipedia.org/wiki/九龍巴士31M線 "wikilink")、[45](https://zh.wikipedia.org/wiki/九龍巴士45線 "wikilink")、[46](https://zh.wikipedia.org/wiki/九龍巴士46線 "wikilink")、[53](https://zh.wikipedia.org/wiki/九龍巴士53線 "wikilink")、[72A](https://zh.wikipedia.org/wiki/九龍巴士72A線 "wikilink")、[84M](https://zh.wikipedia.org/wiki/九龍巴士84M線 "wikilink")、[234X](https://zh.wikipedia.org/wiki/九龍巴士234X線 "wikilink")、[268B](https://zh.wikipedia.org/wiki/九龍巴士268B線 "wikilink")、[276](https://zh.wikipedia.org/wiki/九龍巴士276、276P線 "wikilink")、[103及](https://zh.wikipedia.org/wiki/過海隧道巴士103線 "wikilink")[690線](https://zh.wikipedia.org/wiki/過海隧道巴士690線 "wikilink")，部份車輛或會行走[32H](https://zh.wikipedia.org/wiki/九龍巴士32H線 "wikilink")，[34](../Page/九龍巴士34線.md "wikilink")，[64K及](https://zh.wikipedia.org/wiki/九龍巴士64K線 "wikilink")[276線](https://zh.wikipedia.org/wiki/九龍巴士276線 "wikilink")。
 
 ATSE於2018年11月全數LED光管照明由淺藍色更換為白色。
 
@@ -255,15 +255,9 @@ Expo車展展出。
 
 1.  [全港首架雙軸環保巴士　下月初投入服務](http://www.rthk.org.hk/rthk/news/expressnews/20100126/news_20100126_55_643137.htm)
 
-
 2.  [Oriental Model
     Buses網站最新消息](http://www.orientalmodelbuses.co.uk/news.htm)
 
-
 3.  [新創建集團向西瓜波公司購買卅八部兩擔E400](http://www.hkitalk.net/HKiTalk2/viewthread.php?tid=565851&extra=page%3D1)，hkitalk.net
-
 4.  根據《香港巴士年鑑2012》所搜集之相關內容
-
-5.
-6.
-7.  [九巴E400返黎嗱-hkitalk.net](http://www.hkitalk.net/HKiTalk2/thread-723580-1-1.html)
+5.  [九巴E400返黎嗱-hkitalk.net](http://www.hkitalk.net/HKiTalk2/thread-723580-1-1.html)

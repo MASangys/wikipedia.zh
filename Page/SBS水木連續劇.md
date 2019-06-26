@@ -1136,7 +1136,7 @@
 <td style="text-align: center;"><p><a href="../Page/我的女孩.md" title="wikilink">我的女孩</a><br />
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
-<td style="text-align: center;"><p><a href="../Page/李棟旭.md" title="wikilink">李棟旭</a>、<a href="../Page/李多海.md" title="wikilink">李多海</a>、<a href="https://zh.wikipedia.org/wiki/李準基" title="wikilink">李準基</a>、<a href="https://zh.wikipedia.org/wiki/朴詩妍" title="wikilink">朴詩妍</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/李棟旭.md" title="wikilink">李棟旭</a>、<a href="../Page/李多海.md" title="wikilink">李多海</a>、<a href="../Page/李準基.md" title="wikilink">李準基</a>、<a href="https://zh.wikipedia.org/wiki/朴詩妍" title="wikilink">朴詩妍</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/全啟相" title="wikilink">全啟相</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/洪貞恩" title="wikilink">洪貞恩</a>、<a href="https://zh.wikipedia.org/wiki/洪美蘭" title="wikilink">洪美蘭</a></p></td>
 <td style="text-align: center;"></td>
@@ -1374,7 +1374,7 @@
 <td style="text-align: center;"><p><a href="../Page/一枝梅.md" title="wikilink">一枝梅</a><br />
 </p></td>
 <td style="text-align: center;"><p>20</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李準基" title="wikilink">李準基</a>、<a href="../Page/韓孝周.md" title="wikilink">韓孝周</a>、<a href="../Page/朴施厚.md" title="wikilink">朴施厚</a>、<a href="../Page/李英雅.md" title="wikilink">李英雅</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/李準基.md" title="wikilink">李準基</a>、<a href="../Page/韓孝周.md" title="wikilink">韓孝周</a>、<a href="../Page/朴施厚.md" title="wikilink">朴施厚</a>、<a href="../Page/李英雅.md" title="wikilink">李英雅</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/李容碩.md" title="wikilink">李容碩</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/崔蘭.md" title="wikilink">崔蘭</a></p></td>
 <td style="text-align: center;"></td>
@@ -2391,18 +2391,30 @@
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>2019年5月15日－<br />
-2019年7月日</p></td>
+2019年7月11日</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p>-{<a href="../Page/絕對達令_(韓國電視劇).md" title="wikilink">絕對達令</a>}-<br />
 </p></td>
-<td style="text-align: center;"><p>40</p></td>
+<td style="text-align: center;"><p>36</p></td>
 <td style="text-align: center;"><p><a href="../Page/呂珍九.md" title="wikilink">呂珍九</a>、<a href="https://zh.wikipedia.org/wiki/珉雅" title="wikilink">珉雅</a>、<a href="../Page/洪宗玄.md" title="wikilink">洪宗玄</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/鄭正華" title="wikilink">鄭正華</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/楊赫文" title="wikilink">楊赫文</a>、<a href="https://zh.wikipedia.org/wiki/張雅美" title="wikilink">張雅美</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p>2019年7月日－<br />
+<td style="text-align: center;"><p>2019年7月17日－<br />
+2019年月日</p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"><p><a href="../Page/偵探醫生.md" title="wikilink">偵探醫生</a><br />
+</p></td>
+<td style="text-align: center;"><p>32</p></td>
+<td style="text-align: center;"><p><a href="../Page/朴真熙.md" title="wikilink">朴真熙</a>、<a href="../Page/奉太奎.md" title="wikilink">奉太奎</a>、<a href="../Page/李己雨.md" title="wikilink">李己雨</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/朴俊宇" title="wikilink">朴俊宇</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/宋允熙" title="wikilink">宋允熙</a></p></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>2019年9月日－<br />
 2019年月日</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p>-{<a href="https://zh.wikipedia.org/wiki/Secret_Boutique" title="wikilink">Secret Boutique</a>}-<br />
@@ -2413,16 +2425,16 @@
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/河善熙" title="wikilink">河善熙</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
-<tr class="even">
-<td style="text-align: center;"><p>2019年9月日－<br />
+<tr class="odd">
+<td style="text-align: center;"><p>2019年月日－<br />
 2019年月日</p></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"><p>-{<a href="https://zh.wikipedia.org/wiki/Missing" title="wikilink">Missing</a>}-<br />
+<td style="text-align: center;"><p>-{<a href="https://zh.wikipedia.org/wiki/Miss_Casting" title="wikilink">Miss Casting</a>}-<br />
 </p></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/朴善浩_(導演)" title="wikilink">朴善浩</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/崔景美" title="wikilink">崔景美</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/崔江姬.md" title="wikilink">崔江姬</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/崔英勳" title="wikilink">崔英勳</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/朴智河" title="wikilink">朴智河</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
 </tbody>

@@ -9,14 +9,13 @@ AT平台上通常连接了一系列的](https://zh.wikipedia.org/wiki/IBM_PC_AT 
 [可编程计时器和两个](https://zh.wikipedia.org/wiki/Intel_8253 "wikilink") [ISA
 DMA 控制器](https://zh.wikipedia.org/wiki/Intel_8237 "wikilink")。
 LPC-{zh:总线;zh-hans:总线;zh-hk:匯流排;zh-tw:匯流排}-是[Intel在](https://zh.wikipedia.org/wiki/Intel "wikilink")1998时作为[工业标准架构体系](../Page/ISA.md "wikilink")（ISA）的替代品引入，它与ISA在软件层面是类似的，尽管在物理层面是有着巨大不同的，ISA是16bit宽，8.33 MHz的-{zh:总线;zh-hans:总线;zh-hk:匯流排;zh-tw:匯流排}-，而它是4bit宽，有着四倍频率（33.3 MHz）的-{zh:总线;zh-hans:总线;zh-hk:匯流排;zh-tw:匯流排}-。
-LPC-{zh:总线;zh-hans:总线;zh-hk:匯流排;zh-tw:匯流排}-最大的优点是只需要7个信号，在拥挤的现代主板上是很容易布局的。從[SkyLake微架構開始](https://zh.wikipedia.org/wiki/SkyLake微架構 "wikilink")，Intel用Enhanced
-SPI（eSPI）取代LPC。
+LPC-{zh:总线;zh-hans:总线;zh-hk:匯流排;zh-tw:匯流排}-最大的优点是只需要7个信号，在拥挤的现代主板上是很容易布局的。
 
 ## 訊號
 
 LPC訊號有START、STOP、CYCTYPE+DIR、IDSEL、TAR、SIZE/MSIZE、ADDR、CHANNEL、DATA及SYNC等：
 
-  - START：是指一個封包（package）的開始。
+  - START：是指一個封包（packet）的開始。
   - STOP：一個封包的結束。
   - SYNC：同步等待狀態。
 

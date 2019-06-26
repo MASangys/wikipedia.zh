@@ -145,7 +145,15 @@ Patuxent River海軍站服役。兩架留作測試感應器、戰術及程式等
 
 作为[2010年海地地震地震救援工作的一部分](../Page/2010年海地地震.md "wikilink")，[美国](../Page/美国.md "wikilink")[五角大楼从](../Page/五角大楼.md "wikilink")[阿富汗战场上调动了一架RQ](../Page/阿富汗.md "wikilink")-4全球鹰侦察机，拍摄地震灾后画面，并向非政府组织和其它救援组织提供间谍飞机拍摄的照片，让他们能更清楚的了解地面形势。该全球鹰最初是在阿富汗执行美军任务的，2010年1月14日调整了任务，让它在海地飞行了14小时，拍摄了数百张照片。美国空军计划1月15日派其拍摄更多灾区照片。\[27\]
 
-2011年3月11日，[福島第一核電站事故發生後](https://zh.wikipedia.org/wiki/福島第一核電站事故 "wikilink")，美國緊急於3月17日從美軍關島基地調派一架RQ-4全球鹰偵察機，拍攝[反應爐受損影像](https://zh.wikipedia.org/wiki/反應爐 "wikilink")。
+2011年3月11日，[福島第一核電站事故發生後](https://zh.wikipedia.org/wiki/福島第一核電站事故 "wikilink")，美國緊急於3月17日從美軍[關島基地調派一架RQ](../Page/關島.md "wikilink")-4全球鹰偵察機，拍攝[反應爐受損影像](https://zh.wikipedia.org/wiki/反應爐 "wikilink")。
+
+2019年6月20日，[伊斯蘭革命衛隊](https://zh.wikipedia.org/wiki/伊斯蘭革命衛隊 "wikilink")（Iran’s
+Revolutionary
+Guard）周四宣稱，在[伊朗](https://zh.wikipedia.org/wiki/伊朗 "wikilink")[荷姆茲甘省](https://zh.wikipedia.org/wiki/荷姆茲甘省 "wikilink")（Hormuzgan）上空擊落一架美軍無人偵察機RQ-4
+Global
+Hawk，痛批美方此舉是「入侵空域」。根據[美聯社消息](https://zh.wikipedia.org/wiki/美聯社 "wikilink")，[美國中央司令部](https://zh.wikipedia.org/wiki/美國中央司令部 "wikilink")（U.S.
+Central Command）發言人海軍上校鄂班（Bill
+Urban）拒絕評論此事，事後僅提到「沒有無人機飛越伊朗上空」，随后美国军方也证实了伊朗击落了一架全球鹰\[28\]，紐約時報報導川普總統一度授權打擊伊朗，但在攻擊前夕反悔取消。\[29\]
 
 ## 技術規格
 
@@ -195,6 +203,10 @@ by Greg Goebel, which exists in the Public Domain.*
   - [RQ-4「全球鷹」長程無人偵察機](http://news.gpwb.gov.tw/book.aspx?ydn=f2KgAkk4mpLkKacMaa%2B0zITBHLB99xnyw1Uw6ryvrebP1AkxpcVzBQvnuSwXh200l93HGBIMVmxphkrWTmhA%2FwhaTZfeIxOreMbZU4GA9Zg%3D)
 
   - [美海軍新型無人機──RQ-21A、MQ-4C](http://www.youth.com.tw/db/epaper/es001005/m1030527-a.htm)
+
+<!-- end list -->
+
+  - [伊斯蘭革命衛隊：伊朗上空擊落美軍無人偵察機](https://www.ettoday.net/news/20190620/1471403.htm)
 
 [Category:美國偵察機](https://zh.wikipedia.org/wiki/Category:美國偵察機 "wikilink")
 [Category:無人機](https://zh.wikipedia.org/wiki/Category:無人機 "wikilink")
@@ -256,3 +268,5 @@ by Greg Goebel, which exists in the Public Domain.*
     2006-12-18.
 27. [U.S. Diverts Spy Drone from Afghanistan to
     Haiti](http://www.wired.com/dangerroom/2010/01/pentagon-shares-earthquake-images-from-high-flying-spy-drone/)，20100115。
+28.
+29. [央視官方頻道-美伊一度開戰邊緣](https://www.youtube.com/watch?v=ZAXPnJCbMT8)

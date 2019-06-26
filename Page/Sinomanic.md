@@ -1,6 +1,6 @@
-**龍芯GX-1C筆記型電腦**（Sinomanic Tianhua
-GX-1C）為一款由中國學生設計的\[1\]使用龍芯處理器的，其[CPU使用中國自行研發的](../Page/中央处理器.md "wikilink")
-[龍芯1號](https://zh.wikipedia.org/wiki/龍芯 "wikilink")（Longxin）。
+**龙芯GX-1C笔记本电脑**（Sinomanic Tianhua
+GX-1C）是一款面向中国小学生\[1\]设计的\[2\]使用龙芯处理器的，其[CPU使用的是中国自行研发的](../Page/中央处理器.md "wikilink")
+[龍芯1號](../Page/龙芯.md "wikilink")（Longxin）。
 
 ## 參考資料
 
@@ -8,3 +8,4 @@ GX-1C）為一款由中國學生設計的\[1\]使用龍芯處理器的，其[CPU
 [Category:Netbook](https://zh.wikipedia.org/wiki/Category:Netbook "wikilink")
 
 1.
+2.

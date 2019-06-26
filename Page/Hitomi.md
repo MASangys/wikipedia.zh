@@ -154,6 +154,7 @@
 [Category:神奈川縣出身人物](https://zh.wikipedia.org/wiki/Category:神奈川縣出身人物 "wikilink")
 [Category:日本大學校友](https://zh.wikipedia.org/wiki/Category:日本大學校友 "wikilink")
 [Category:日本流行音樂歌手](https://zh.wikipedia.org/wiki/Category:日本流行音樂歌手 "wikilink")
+[Category:NHK紅白歌合戰出场歌手](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰出场歌手 "wikilink")
 [Category:愛貝克思集團藝人](https://zh.wikipedia.org/wiki/Category:愛貝克思集團藝人 "wikilink")
 
 1.  [賀囝囝半歲大](http://hk.apple.nextmedia.com/enews/realtime/20150608/53827060hitomi)

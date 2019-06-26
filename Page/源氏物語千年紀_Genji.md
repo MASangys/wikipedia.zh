@@ -21,7 +21,7 @@
   - [光源氏](../Page/光源氏.md "wikilink")：[櫻井孝宏](../Page/櫻井孝宏.md "wikilink")
   - [弘徽殿女御](https://zh.wikipedia.org/wiki/弘徽殿女御 "wikilink")：[藤田淑子](../Page/藤田淑子.md "wikilink")
   - [紫之上](../Page/紫之上.md "wikilink")：[遠藤綾](../Page/遠藤綾.md "wikilink")
-  - [藤壺女御](https://zh.wikipedia.org/wiki/藤壺 "wikilink")：[玉川紗己子](https://zh.wikipedia.org/wiki/玉川紗己子 "wikilink")
+  - [藤壺女御](../Page/藤壺.md "wikilink")：[玉川紗己子](https://zh.wikipedia.org/wiki/玉川紗己子 "wikilink")
   - [桐壺帝](../Page/桐壺帝.md "wikilink")：[堀内賢雄](https://zh.wikipedia.org/wiki/堀内賢雄 "wikilink")
   - [頭中將](https://zh.wikipedia.org/wiki/頭中將 "wikilink")：[杉田智和](../Page/杉田智和.md "wikilink")
   - [葵之上](../Page/葵之上.md "wikilink")：[平田繪里子](https://zh.wikipedia.org/wiki/平田繪里子 "wikilink")

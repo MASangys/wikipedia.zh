@@ -27,7 +27,7 @@ Other Words》是“一首唱出了巴拉德小姐的感觉的情歌”\[12\]。
 在接下来的几年里，许多的[爵士乐和](../Page/爵士乐.md "wikilink")[卡巴萊歌手陆续以](../Page/卡巴萊.md "wikilink")[EP或者](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")[LP录音](../Page/密紋唱片.md "wikilink")[专辑的形式发布了](../Page/音樂專輯.md "wikilink")《In
 Other
 Words》这首歌的[翻唱版本](https://zh.wikipedia.org/wiki/翻唱 "wikilink")，这其中包括了\[13\]、\[14\]、[Portia
-Nelson](https://zh.wikipedia.org/wiki/Portia_Nelson "wikilink")\[15\]以及\[16\]等。1958年在她的专辑《Eydie
+Nelson](https://zh.wikipedia.org/wiki/Portia_Nelson "wikilink")\[15\]以及[南希·威尔森](../Page/南希·威尔森.md "wikilink")\[16\]等。1958年在她的专辑《Eydie
 In
 Love》中翻唱了这首歌曲\[17\]，并获得了[Cashbox专辑排行榜第](https://zh.wikipedia.org/wiki/Cashbox_\(magazine\) "wikilink")20名\[18\]以及[格莱美奖提名](https://zh.wikipedia.org/wiki/格莱美奖 "wikilink")\[19\]
 [Joe_Harnell_Fly_Me_To_The_Moon_Kapp_KS3318_Front_Cover_1_April_2014_5942_800.JPG](https://zh.wikipedia.org/wiki/File:Joe_Harnell_Fly_Me_To_The_Moon_Kapp_KS3318_Front_Cover_1_April_2014_5942_800.JPG "fig:Joe_Harnell_Fly_Me_To_The_Moon_Kapp_KS3318_Front_Cover_1_April_2014_5942_800.JPG")

@@ -4,7 +4,7 @@
 ## 簡介
 
 本來Tommy、Alan 和 Tim
-只是在[Stareast的](https://zh.wikipedia.org/wiki/東方魅力 "wikilink")[餐廳工作](https://zh.wikipedia.org/wiki/餐廳 "wikilink")，後來在樂壇校長[譚詠麟的提攜下成為組合](../Page/譚詠麟.md "wikilink")，曾經擔任其[演唱會嘉賓](https://zh.wikipedia.org/wiki/演唱會 "wikilink")。他們在1999年參加了[Stareast新人類](https://zh.wikipedia.org/wiki/Stareast新人類 "wikilink")。2000年他們以**E-kids**名義參加「全球華人新秀歌唱大賽」，並獲得「最受觀眾歡迎獎」。經過一年的訓練後，他們在2002年正式出道，組成**E-kids**。**E**是代表他們的公司[StarEast](https://zh.wikipedia.org/wiki/東方魅力 "wikilink")，而他們又是公司的小朋友，所以叫**kids**，合併就是「**E-kids**」。**E-kids**的歌曲大部由Tommy作曲，舞蹈則由Tim安排。E-kids的形象都以他們的金髮建立，只有錄製兒歌MV才會染回黑髮。
+只是在[Stareast的](../Page/東方魅力.md "wikilink")[餐廳工作](https://zh.wikipedia.org/wiki/餐廳 "wikilink")，後來在樂壇校長[譚詠麟的提攜下成為組合](../Page/譚詠麟.md "wikilink")，曾經擔任其[演唱會嘉賓](https://zh.wikipedia.org/wiki/演唱會 "wikilink")。他們在1999年參加了[Stareast新人類](https://zh.wikipedia.org/wiki/Stareast新人類 "wikilink")。2000年他們以**E-kids**名義參加「全球華人新秀歌唱大賽」，並獲得「最受觀眾歡迎獎」。經過一年的訓練後，他們在2002年正式出道，組成**E-kids**。**E**是代表他們的公司[StarEast](../Page/東方魅力.md "wikilink")，而他們又是公司的小朋友，所以叫**kids**，合併就是「**E-kids**」。**E-kids**的歌曲大部由Tommy作曲，舞蹈則由Tim安排。E-kids的形象都以他們的金髮建立，只有錄製兒歌MV才會染回黑髮。
 
 2004年，有傳聞Tommy及Alan會過檔到[范振鋒所設的新公司](../Page/范振鋒.md "wikilink")。另外，E-kids另一成員Tim改名為Kasa，並離開E-kids作獨立發展，成員Tommy與Alan也會繼續出唱片。到了7月，**E-kids**的去向終於落實了，他們會加入Alan的舊同學[林中定](https://zh.wikipedia.org/wiki/林中定 "wikilink")，而他們在[譚詠麟](../Page/譚詠麟.md "wikilink")，[曾志偉的推薦下](../Page/曾志偉.md "wikilink")，加入了[環球唱片公司](https://zh.wikipedia.org/wiki/環球唱片 "wikilink")，但是推出一首單曲後E-kids就解散了。
 
@@ -225,7 +225,7 @@
 
 ## 參見
 
-  - [東方魅力](https://zh.wikipedia.org/wiki/東方魅力 "wikilink")
+  - [東方魅力](../Page/東方魅力.md "wikilink")
 
 ## 參考資料
 

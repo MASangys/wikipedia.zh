@@ -1,36 +1,48 @@
-**SQL Server Express** 是由Microsoft所開發的[SQL
-Server的其中一個版本](https://zh.wikipedia.org/wiki/SQL_Server "wikilink")，這個版本是免費且可自由轉散布（需經註冊），並且可和商用程式一起使用的小型資料庫管理系統，它繼承了多數的SQL
+**Microsoft SQL Server
+Express**是[微软公司所開發的](../Page/微软.md "wikilink")[关系数据库產品](../Page/关系数据库.md "wikilink")[SQL
+Server的免費下載版本](https://zh.wikipedia.org/wiki/Microsoft_SQL_Server "wikilink")，可自由下載、分發（需經註冊）及使用。這個版本的設計是專門為[嵌入式系统或較小型的程式而設計](../Page/嵌入式系统.md "wikilink")。本產品可遡源至過往隨同SQL
+Server 2000軟件分發的[Microsoft Database Engine
+(MSDE)](https://zh.wikipedia.org/wiki/MSDE "wikilink")，用以讓程式開發者在其測試其程式時建立一個系統需求較低的測試環境。自SQL
+Server 2005開始，本產品改用現時的名稱。
+
+它繼承了多數的SQL
 Server功能與特性，像是[Transact-SQL](../Page/Transact-SQL.md "wikilink")、[SQL
 CLR等](../Page/SQL_CLR.md "wikilink")，相當適合使用在小型的網站，或者是小型的桌面型應用程式，它也可以和
-SQL Server
-整合，作為[資料庫複製](https://zh.wikipedia.org/wiki/資料庫複製 "wikilink")（Replication）的訂閱端。
+SQL Server 整合，作為（Replication）的訂閱端。
 
 ## 功能与限制
 
-它有幾個主要的限制：
+SQL Server Express提供了付費的完整版本的多項功能\[1\]，然而其技術限制使之無法適用於大規模的部署。這兩個版本的差異在於：
 
-1.  資料庫的大小限制：SQL Server 2005 Express 和SQL Server 2008 Express
-    单个資料庫的大小限制最大為 4GB; 对SQL Server 2008 R2
-    Express、SQL Server 2012 Express、SQL Server 2014 Express、SQL Server
-    2016 Express单个資料庫的大小限制最大為 10G。這個大小的限制只有在資料檔案上，交易記錄檔則不受此限。
-2.  只能使用一個 CPU 來運算，這在多個 CPU 的電腦上會造成浪費。
-3.  可使用的記憶體量最高只有 1GB。而全功能标准版至少使用4GB内存。
-4.  沒有 [SQL
-    Agent服务](https://zh.wikipedia.org/wiki/SQL_Agent "wikilink")，若要做排程服務必須自己寫程式。
+  - 資料庫的大小限制：对SQL Server 2008 R2 Express、SQL Server 2012 Express、SQL
+    Server 2014 Express、SQL Server 2016 Express单个資料庫的大小限制最大為
+    10 GB\[2\]；而在較早期的SQL Server 2005 Express 和SQL Server 2008
+    Express
+    上，单个資料庫的大小限制最大為4 GB。即使如此，亦已比最初MSDE版本的2 GB要多。而且這個大小的限制只有在資料檔案上，交易記錄檔則不受此限。
+  - 沒有 [SQL
+    Agent服务](https://zh.wikipedia.org/wiki/SQL_Agent "wikilink")\[3\]\[4\]：若要做排程服務必須自己寫程式。
+  - 硬體方面的人為限制：
+      - 允許在多核心的電腦上使用，但只會使用一個CPU核心來運算\[5\]。這在具有多核心CPU的電腦上會造成浪費。MSDE
+        最高可以支援二顆 CPU核心。
+      - 可使用的記憶體量最高只有 1GB。而全功能标准版至少使用4GB内存。
 
-注意，它的前身[MSDE有一个并发工作负债监控器并限制在少量用户并发访问](https://zh.wikipedia.org/wiki/MSDE "wikilink")，SQL
-Server Express没有这个并发限制。
+[MSDE有一个并发工作负债监控器并限制在少量用户并发访问](https://zh.wikipedia.org/wiki/MSDE "wikilink")，SQL
+Server Express没有这个并发限制\[6\]。
 
 SQL Server Express包括了几个数据库管理的图形用户界面工具：
 
-  - [SQL Server Management Studio
-    Express](https://zh.wikipedia.org/wiki/SQL_Server_Management_Studio_Express "wikilink")
+  - [SQL Server Management
+    Studio](../Page/SQL_Server_Management_Studio.md "wikilink") - since
+    2012 SP1;\[7\] before that, only a stripped-down version called *SQL
+    Server Management Studio Express* is provided
   - [SQL Server Configuration
     Manager](https://zh.wikipedia.org/wiki/SQL_Server_Configuration_Manager "wikilink")
   - [SQL Server Surface Area Configuration
     tool](https://zh.wikipedia.org/wiki/SQL_Server_Surface_Area_Configuration_tool "wikilink")
   - SQL Server [Business Intelligence Development
     Studio](https://zh.wikipedia.org/wiki/Business_Intelligence_Development_Studio "wikilink")
+
+MSDE 沒有管理介面
 
 SQL Server Express不包括全功能标准版的几个工具：
 
@@ -66,23 +78,73 @@ Microsoft 遭第三方提出索賠要求時，　貴用戶應賠償 Microsoft �
 
 ## 版本
 
-| Version                         | Release date     | Mainstream Support End Date | Extended Support End Date |
-| ------------------------------- | ---------------- | --------------------------- | ------------------------- |
-| SQL Server 2005 Express Edition | 2005-11-07\[1\]  | 2011-04-12\[2\]             | 2016-04-12\[3\]           |
-| SQL Server 2008 Express         | 2009-02-08\[4\]  | 2014-07-08\[5\]             | 2019-07-09\[6\]           |
-| SQL Server 2008 R2 Express      | 2010-04-16\[7\]  | 2014-07-08\[8\]             | 2019-07-09\[9\]           |
-| SQL Server 2012 Express         | 2012-05-14\[10\] | 2017-07-11\[11\]            | 2022-07-12\[12\]          |
-| SQL Server 2014 Express         | 2014-04-01\[13\] | 2019-07-09\[14\]            | 2024-07-09\[15\]          |
-| SQL Server 2016 Express         | 2016-06-01\[16\] | 2021-07-13\[17\]            | 2026-07-14\[18\]          |
+<table>
+<caption>Microsoft SQL Server Express Version History</caption>
+<thead>
+<tr class="header">
+<th><p>Version</p></th>
+<th><p>Release date</p></th>
+<th><p>Mainstream Support End Date</p></th>
+<th><p>Extended Support End Date</p></th>
+<th><p>Supported Operating Systems</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>SQL Server 2005 Express Edition</p></td>
+<td><p>2005-11-07[8]</p></td>
+<td><p>2011-04-12[9]</p></td>
+<td><p>2016-04-12[10]</p></td>
+<td><p>Windows 2000 Service Pack 4, Windows XP Service Pack 2, Windows Server 2003 Service Pack, Windows 7 Service Pack 1 (only SQL Server 2005 Express Edition SP4)[11]</p></td>
+</tr>
+<tr class="even">
+<td><p>SQL Server 2008 Express</p></td>
+<td><p>2009-02-08[12]</p></td>
+<td><p>2014-07-08[13]</p></td>
+<td><p>2019-07-09[14]</p></td>
+<td><p>Windows XP Service Pack 2, Windows XP Service Pack 3, Windows Vista, Windows Vista Service Pack 1, Windows Server 2003 Service Pack 2, Windows Server 2008[15]</p></td>
+</tr>
+<tr class="odd">
+<td><p>SQL Server 2008 R2 Express</p></td>
+<td><p>2010-04-16[16]</p></td>
+<td><p>2014-07-08[17]</p></td>
+<td><p>2019-07-09[18]</p></td>
+<td><p>Windows XP, Windows Vista, Windows 7, Windows 8, Windows Server 2003, Windows Server 2008, Windows Server 2008 R2, Windows Server 2012, Windows Server 2012 R2[19]</p></td>
+</tr>
+<tr class="even">
+<td><p>SQL Server 2012 Express</p></td>
+<td><p>2012-05-14[20]</p></td>
+<td><p>2017-07-11[21]</p></td>
+<td><p>2022-07-12[22]</p></td>
+<td><p>Windows Vista Service Pack 2, Windows 7, Windows 7 Service Pack 1, Windows 8, Windows 8.1, Windows Server 2008,[23] Windows Server 2008 R2, Windows Server 2008 R2 SP1, Windows Server 2012, Windows Server 2012 R2[24]</p></td>
+</tr>
+<tr class="odd">
+<td><p>SQL Server 2014 Express</p></td>
+<td><p>2014-04-01[25]</p></td>
+<td><p>2019-07-09[26]</p></td>
+<td><p>2024-07-09[27]</p></td>
+<td><p>Windows 7 Service Pack 1, Windows 8, Windows 8.1, Windows 10, Windows Server 2008 SP2,[28] Windows Server 2008 R2 SP1, Windows Server 2012, Windows Server 2012 R2[29]</p></td>
+</tr>
+<tr class="even">
+<td><p>SQL Server 2016 Express</p></td>
+<td><p>2016-06-01[30]</p></td>
+<td><p>2021-07-13[31]</p></td>
+<td><p>2026-07-14[32]</p></td>
+<td><p>Windows 8, Windows 8.1, Windows 10, Windows Server 2012, Windows Server 2012 R2, Windows Server 2016</p></td>
+</tr>
+<tr class="odd">
+<td><p>SQL Server 2017 Express</p></td>
+<td><p>2017-09-29[33]</p></td>
+<td><p>2022-10-11[34]</p></td>
+<td><p>2027-10-12[35]</p></td>
+<td><p>Windows 8, Windows 8.1, Windows 10, Windows Server 2012, Windows Server 2012 R2, Windows Server 2016*,<br />
+Red Hat Enterprise Linux 7.3 or 7.4, SUSE Enterprise Linux Server v12 SP2, Ubuntu 16.04LTS,<br />
+Docker Engine 1.8+ (on Windows, Mac, or Linux)</p></td>
+</tr>
+</tbody>
+</table>
 
-Microsoft SQL Server Express Version History
-
-## 與MSDE的不同
-
-1.  MSDE 最高可以支援二顆 CPU，但 SQL Server Express 只有一顆。
-2.  MSDE 資料庫最高只能用到 2GB，而 SQL Server 2005 Express和SQL Server 2008 Express
-    可到 4GB，最新版本的SQL Server 2008 R2 Express 最大資料庫 10G。
-3.  MSDE 沒有管理介面，但 SQL Server 有 Management Studio Express 可用。
+  - Does not include Windows Server 2016 "Essentials" Edition
 
 ## 資料庫管理工具
 
@@ -155,41 +217,81 @@ namespace Connection
 
 ## 外部連結
 
-  - [SQL Server 2005
-    Express](http://www.microsoft.com/sql/editions/express/default.mspx)
-  - [SQL Server 2008
-    Express](http://www.microsoft.com/sqlserver/2008/en/us/express.aspx)
+  - [Microsoft SQL Server Express
+    downloads](https://www.microsoft.com/en-us/search/DownloadsDrillInResults.aspx?q=sql+server+express&cateorder=1_5_2_3_11&site=)
+  - [Microsoft SQL Server Express
+    documentation](https://msdn.microsoft.com/library/bb545450.aspx)
+  - [SQL Server 2012 Comparison of features by
+    edition](http://msdn.microsoft.com/en-us/library/cc645993%28v=SQL.110%29.aspx)
+  - [SQL Server Express WebLog](http://blogs.msdn.com/sqlexpress/)
+  - [Hardware and Software Requirements for Installing SQL
+    Server 2012](https://msdn.microsoft.com/en-us/library/ms143506%28v=sql.110%29.aspx)
+  - \[<https://msdn.microsoft.com/en-us/library/ms143506(v=sql.120>).aspx
+    Hardware and Software Requirements for Installing SQL Server 2014\]
 
-[Category:數據庫管理系統](https://zh.wikipedia.org/wiki/Category:數據庫管理系統 "wikilink")
-[Category:微軟](https://zh.wikipedia.org/wiki/Category:微軟 "wikilink")
+[Category:微軟伺服器技術](https://zh.wikipedia.org/wiki/Category:微軟伺服器技術 "wikilink")
+[Category:微软数据库软件](https://zh.wikipedia.org/wiki/Category:微软数据库软件 "wikilink")
 
 1.
 
 2.
 
 3.
+
 4.
 
 5.
 
 6.
+
 7.
 
 8.
 
 9.
-10.
 
+10.
 11.
 
 12.
+
 13.
 
 14.
-
 15.
+
 16.
 
 17.
 
 18.
+19.
+
+20.
+
+21.
+
+22.
+23.
+
+24.
+
+25.
+
+26.
+
+27.
+28.
+
+29.
+
+30.
+
+31.
+
+32.
+33.
+
+34.
+
+35.

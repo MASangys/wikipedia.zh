@@ -134,7 +134,7 @@
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/中京廣域圈" title="wikilink">中京廣域圈</a></p></td>
 <td><p><strong>SF</strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/東海ラジオ放送" title="wikilink">東海ラジオ放送</a></p></td>
+<td></td>
 <td><p><small>1965年7月4日に加盟。<a href="https://zh.wikipedia.org/wiki/中日新聞社" title="wikilink">中日新聞社が筆頭株主</a>。<a href="../Page/東海電視台.md" title="wikilink">東海電視台と関連がある</a>。<br />
 ネットワークへのライン送出が可能な設備がある。</p></td>
 <td><p>◆▼</p></td>

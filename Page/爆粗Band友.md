@@ -413,7 +413,7 @@ Animal](../Page/Young_Animal.md "wikilink")》上於2005年至2010年期間連�
   - 剪接：田口拓也
   - 副導演：兼重淳
   - 製片：鈴木嘉弘
-  - 原創音樂：[服部隆之](https://zh.wikipedia.org/wiki/服部隆之 "wikilink")
+  - 原創音樂：[服部隆之](../Page/服部隆之.md "wikilink")
   - 出品：電影「Detroit Metal City」製作委員會
   - 製作：東寶製造製作部
   - 發行：東寶

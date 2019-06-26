@@ -123,7 +123,9 @@ ROT47是ROT13的衍生物，它除了打亂基本字母外，也對數字與常�
 '`~`'都被毫無保留的用來做47位循環。使用較廣的字母集原意是產生比ROT13更徹底的亂碼，不過因為ROT47無差別地將數字與符號混合導入，導致這種方式較容易看出某串文字被動過手腳。
 
 ROT47的範例：
-`The Quick Brown Fox Jumps Over The Lazy Dog.`
+[`The``   ``Quick``   ``Brown``   ``Fox``   ``Jumps``   ``Over``
+ ``The``   ``Lazy``
+ ``Dog`](https://zh.wikipedia.org/wiki/the_quick_brown_fox_jumps_over_the_lazy_dog "wikilink")`.`
 ...加密成為...
 `%96 "F:4< qC@H? u@I yF>AD ~G6C %96 {2KJ s@8]`
 

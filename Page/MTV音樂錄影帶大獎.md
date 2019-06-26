@@ -1,4 +1,4 @@
-**[MTV音乐录影带奖](https://zh.wikipedia.org/wiki/MTV "wikilink")**（，簡稱VMA），是MTV为嘉奖最佳音乐录音带颁发。VMA本来是想作为另一个[格莱美奖](https://zh.wikipedia.org/wiki/格莱美奖 "wikilink")\[1\]
+**[MTV音乐录影带奖](https://zh.wikipedia.org/wiki/MTV "wikilink")**（英語：，簡稱VMA），是MTV为嘉奖最佳音乐录音带颁发。VMA本来是想作为另一个[格莱美奖](https://zh.wikipedia.org/wiki/格莱美奖 "wikilink")\[1\]
 侧重于音乐录音带的视频方面。一年一度的MTV音乐录音带颁奖典礼通常被称作年轻人的[奥斯卡獎](https://zh.wikipedia.org/wiki/奥斯卡獎 "wikilink")，每年都会吸引数百万年轻人目光。\[2\]到2001年，VMA已成为人们竞相追逐的奖项。\[3\]
 VMA的奖杯是美国登月的宇航员雕像，这也是MTV早期的象征。
 
@@ -91,9 +91,9 @@ Missy Elliot 攜手以《Like A Virgin / Hollywood》再現這位流行天后當
 
 #### 2009
 
-在颁奖典礼上，乡村歌手[泰勒絲以](https://zh.wikipedia.org/wiki/泰勒絲 "wikilink")《You
-belong with
-me》获得最佳女歌手录影带奖。当她正在发表获奖感言时，说唱歌手[肯伊·威斯特上台抢走话筒](../Page/肯伊·威斯特.md "wikilink")，对泰勒絲说：“小泰，（你获奖了）我确实为你感到高兴，我会让你把话说完的。但是（我想先说一句）[碧昂絲才是最棒的](../Page/碧昂絲.md "wikilink")，她一直都是。”\[7\]\[8\]
+在颁奖典礼上，創作歌手[泰勒絲以](https://zh.wikipedia.org/wiki/泰勒絲 "wikilink")《[You
+Belong with
+Me](https://zh.wikipedia.org/wiki/与我同在 "wikilink")》获得最佳女歌手录影带奖。当她正在发表获奖感言时，饒舌歌手[肯伊·威斯特上台抢走话筒](../Page/肯伊·威斯特.md "wikilink")，对泰勒絲说：“小泰，（你获奖了）我确实为你感到高兴，我会让你把话说完的。但是（我想先说一句）[碧昂絲才是最棒的](../Page/碧昂絲.md "wikilink")，她一直都是。”\[7\]\[8\]
 碧昂絲穿着15厘米的高跟鞋和二十多个舞者一起表演了《[Single Ladies (Put a Ring on
 It)](https://zh.wikipedia.org/wiki/Single_Ladies_\(Put_a_Ring_on_It\) "wikilink")》
 \[9\]
@@ -265,7 +265,7 @@ and I](https://zh.wikipedia.org/wiki/You_and_I "wikilink")。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/The_Smashing_Pumpkins" title="wikilink">The Smashing Pumpkins</a></p></td>
+<td><p><a href="../Page/碎南瓜乐队.md" title="wikilink">碎南瓜乐队</a></p></td>
 <td></td>
 <td><p>7</p></td>
 <td><p>"<a href="https://zh.wikipedia.org/wiki/Tonight,_Tonight_(The_Smashing_Pumpkins_song)" title="wikilink">Tonight, Tonight</a>" (6); "<a href="https://zh.wikipedia.org/wiki/1979_(song)" title="wikilink">1979</a>" (1)</p></td>
@@ -297,25 +297,102 @@ and I](https://zh.wikipedia.org/wiki/You_and_I "wikilink")。
 </tbody>
 </table>
 
-### 获奖最多的艺术家
+### 获奖最多的歌手
 
-| Artist                                                          | Number of awards\[11\] |
-| --------------------------------------------------------------- | ---------------------- |
-| [碧昂絲](../Page/碧昂絲.md "wikilink")                                | 24                     |
-| [瑪丹娜](https://zh.wikipedia.org/wiki/瑪丹娜 "wikilink")             | 20                     |
-| [女神卡卡](https://zh.wikipedia.org/wiki/女神卡卡 "wikilink")           | 13                     |
-| [彼得·蓋布瑞爾](../Page/彼得·蓋布瑞爾.md "wikilink")                        |                        |
-| [R.E.M.](../Page/R.E.M..md "wikilink")                          | 12                     |
-| [阿姆](../Page/阿姆.md "wikilink")                                  |                        |
-| [賈斯汀·提姆布萊克](https://zh.wikipedia.org/wiki/賈斯汀·提姆布萊克 "wikilink") | 11                     |
-| [綠日樂團](../Page/年輕歲月.md "wikilink")                              |                        |
-| [史密斯飞船](https://zh.wikipedia.org/wiki/史密斯飞船 "wikilink")         | 10                     |
-| 流线胖小子                                                           | 9                      |
-| [珍娜·傑克森](https://zh.wikipedia.org/wiki/珍娜·傑克森 "wikilink")       |                        |
-| a-ha                                                            | 8                      |
-| [嗆辣紅椒合唱團](../Page/嗆辣紅椒.md "wikilink")                           |                        |
-| [麥可·傑克森](https://zh.wikipedia.org/wiki/麥可·傑克森 "wikilink")       |                        |
-|                                                                 |                        |
+<table>
+<thead>
+<tr class="header">
+<th><p>Artist</p></th>
+<th><p>Number of awards[11]</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="../Page/碧昂絲.md" title="wikilink">碧昂絲</a></p></td>
+<td><p>24</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/瑪丹娜" title="wikilink">瑪丹娜</a></p></td>
+<td><p>20</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/女神卡卡" title="wikilink">女神卡卡</a></p></td>
+<td><p>13</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/彼得·蓋布瑞爾.md" title="wikilink">彼得·蓋布瑞爾</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/R.E.M..md" title="wikilink">R.E.M.</a></p></td>
+<td><p>12</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/阿姆.md" title="wikilink">阿姆</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/賈斯汀·提姆布萊克" title="wikilink">賈斯汀·提姆布萊克</a></p></td>
+<td><p>11</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/年輕歲月.md" title="wikilink">綠日樂團</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/史密斯飞船" title="wikilink">史密斯飞船</a></p></td>
+<td><p>10</p></td>
+</tr>
+<tr class="even">
+<td><p>流线胖小子</p></td>
+<td><p>9</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/珍娜·傑克森" title="wikilink">珍娜·傑克森</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>a-ha</p></td>
+<td><p>8</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/嗆辣紅椒.md" title="wikilink">嗆辣紅椒合唱團</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/麥可·傑克森" title="wikilink">麥可·傑克森</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/泰勒·斯威夫特.md" title="wikilink">泰勒絲</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/超級男孩.md" title="wikilink">超級男孩</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/碎南瓜乐队.md" title="wikilink">碎南瓜乐队</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/杰斯.md" title="wikilink">杰斯</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/粉红佳人.md" title="wikilink">粉红佳人</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>En Vogue</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 参考来源
 

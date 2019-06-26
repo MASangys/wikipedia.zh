@@ -55,7 +55,7 @@ Force)。Ｇ對策中心展開了計畫，製作出一號兵器「翔鷹號」�
 
   -
   -
-[Category:Godzilla](https://zh.wikipedia.org/wiki/Category:Godzilla "wikilink")
+[Category:哥吉拉電影](https://zh.wikipedia.org/wiki/Category:哥吉拉電影 "wikilink")
 [Category:1993年電影](https://zh.wikipedia.org/wiki/Category:1993年電影 "wikilink")
 [Category:日本電影作品](https://zh.wikipedia.org/wiki/Category:日本電影作品 "wikilink")
 [Category:茨城縣背景電影](https://zh.wikipedia.org/wiki/Category:茨城縣背景電影 "wikilink")

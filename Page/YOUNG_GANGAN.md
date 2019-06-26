@@ -203,7 +203,7 @@ GANGAN發行](../Page/月刊BIG_GANGAN.md "wikilink")。
 
 #### 2007年
 
-  - [もやしもん](https://zh.wikipedia.org/wiki/もやしもん "wikilink")（[石川雅之](https://zh.wikipedia.org/wiki/石川雅之 "wikilink")）
+  - [もやしもん](https://zh.wikipedia.org/wiki/もやしもん "wikilink")（[石川雅之](../Page/石川雅之.md "wikilink")）
   - トガビト（[三部けい](../Page/三部敬.md "wikilink")）
   - おんステ\!（[じんぐ](https://zh.wikipedia.org/wiki/じんぐ "wikilink")）
   - [戦翅甲蟲

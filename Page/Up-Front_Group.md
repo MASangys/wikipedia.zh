@@ -96,7 +96,7 @@ EGG](https://zh.wikipedia.org/wiki/Hello!_pro_EGG "wikilink")
 
 ### UP-FRONT INTERNATIONAL
 
-  - [相田翔子](https://zh.wikipedia.org/wiki/相田翔子 "wikilink")
+  - [相田翔子](../Page/相田翔子.md "wikilink")
 
 ### UP-FRONT STYLE
 

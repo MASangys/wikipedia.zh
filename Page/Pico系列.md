@@ -70,7 +70,7 @@ Demand不僅銷售第一](../Page/Soft_On_Demand.md "wikilink")，在[amazon.co.
 
 ## 影響
 
-2010年一名[西方的網友在觀看了Pico系列的三集動畫](../Page/西方世界.md "wikilink")（他誤以為片名為Boku）後，對於情節感到異常震撼，將其感想口述成一網路影片\[2\]。之後該影片被上傳至[NICONICO上](../Page/Niconico動畫.md "wikilink")\[3\]，引起了众多网友的关注，並使得片中的一些句子廣為流傳。其中「Yooooo」（吶喊聲）、「Don't
+2010年一名[西方的網友在觀看了Pico系列的三集動畫](../Page/西方世界.md "wikilink")（他誤以為片名為Boku）後，對於情節感到異常震撼，將其感想口述成一網路影片。\[2\]之後該影片被上傳至[NICONICO上](../Page/Niconico動畫.md "wikilink")\[3\]，引起了众多网友的关注，並使得片中的一些句子廣為流傳。其中「Yooooo」（吶喊聲）、「Don't
 watch an anime called
 Boku」（千萬別看一部叫Boku的影片）、「THREEEEEE」（[三](../Page/3.md "wikilink")）等句子經常被拿來作為偽娘的代名詞。另外、因為在他的口述中也說到看完這部作品後「像是[把靈魂賣給路西法](../Page/魔鬼交易.md "wikilink")」一樣，所以「把靈魂賣給[路西法](../Page/路西法.md "wikilink")」這句話也成為看到、或者熱愛偽娘作品及愛上了偽娘的代名詞。
 
@@ -97,5 +97,5 @@ Boku」（千萬別看一部叫Boku的影片）、「THREEEEEE」（[三](../Pag
 
 1.  [ぼくのぴこ
     シリーズぴこ1](http://www.getchu.com/soft.phtml?id=283925)Getchu.com
-2.  <http://www.youtube.com/watch?v=DCZD6CtcLJE>
+2.
 3.  <http://www.nicovideo.jp/watch/sm11636984>

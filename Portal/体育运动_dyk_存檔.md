@@ -198,7 +198,7 @@
 
 <!-- end list -->
 
-  - [巴西隊在](https://zh.wikipedia.org/wiki/巴西國家足球隊 "wikilink")**[哪一年的世界杯足球賽決賽](https://zh.wikipedia.org/wiki/2002年世界盃足球賽決賽 "wikilink")**後，拿下隊史第五座[冠軍獎盃](https://zh.wikipedia.org/wiki/大力神杯 "wikilink")？
+  - [巴西隊在](../Page/巴西國家足球隊.md "wikilink")**[哪一年的世界杯足球賽決賽](https://zh.wikipedia.org/wiki/2002年世界盃足球賽決賽 "wikilink")**後，拿下隊史第五座[冠軍獎盃](https://zh.wikipedia.org/wiki/大力神杯 "wikilink")？
 
 <!-- end list -->
 

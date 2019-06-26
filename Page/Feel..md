@@ -120,7 +120,7 @@ Pierrot](../Page/Studio_Pierrot.md "wikilink")（今：Pierrot）的製作人瀧
 <td><p><a href="../Page/YU-NO_在這世界盡頭詠唱愛的少女.md" title="wikilink">YU-NO 在這世界盡頭詠唱愛的少女</a></p></td>
 <td></td>
 <td><p>4月－預定</p></td>
-<td><p>　</p></td>
+<td><p><a href="../Page/平川哲生.md" title="wikilink">平川哲生</a></p></td>
 <td></td>
 <td></td>
 </tr>

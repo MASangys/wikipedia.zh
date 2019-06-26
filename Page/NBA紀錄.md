@@ -1212,6 +1212,20 @@
 <td><p>7場</p></td>
 <td><p>2018年10月16日－2018年10月28日</p></td>
 </tr>
+<tr class="odd">
+<td><p>個人單場連續至少投進6顆三分球命中場數</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/詹姆士·哈登" title="wikilink">詹姆士·哈登</a><br />
+<a href="https://zh.wikipedia.org/wiki/史蒂芬·柯瑞" title="wikilink">史蒂芬·柯瑞</a></p></td>
+<td><p>5場</p></td>
+<td><p>2017年11月1日－2017年11月11日<br />
+2018年10月21日－2018年10月28日</p></td>
+</tr>
+<tr class="even">
+<td><p>個人最長單場連續至少投進5顆三分球命中場數</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/詹姆士·哈登" title="wikilink">詹姆士·哈登</a></p></td>
+<td><p>12場</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -3073,7 +3087,7 @@
 <tbody>
 <tr class="odd">
 <td><p>季後賽最大比分逆轉</p></td>
-<td><p>[[洛杉磯快艇]對[[金州勇士|洛杉磯快艇]對<a href="../Page/金州勇士.md" title="wikilink">金州勇士</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/洛杉磯快艇" title="wikilink">洛杉磯快艇對</a><a href="../Page/金州勇士.md" title="wikilink">金州勇士</a></p></td>
 <td><p>31分</p></td>
 <td><p><a href="../Page/2009年NBA季後賽.md" title="wikilink">2009年NBA季後賽第一輪第</a>2戰</p></td>
 </tr>
@@ -3250,8 +3264,8 @@
 <td><p>單賽季例行賽和季後賽最佳戰績</p></td>
 <td><p><a href="../Page/芝加哥公牛.md" title="wikilink">芝加哥公牛</a><br />
 <a href="../Page/金州勇士.md" title="wikilink">金州勇士</a></p></td>
-<td><p>87勝13敗，勝率.870<br />
-88勝18敗，勝率.830</p></td>
+<td><p>單賽季87-13，勝率.870<br />
+單賽季88-18，勝率.830</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/1995-96_NBA賽季" title="wikilink">1995-96 NBA賽季</a>[4]<br />
 <a href="https://zh.wikipedia.org/wiki/2015-16_NBA賽季" title="wikilink">2015-16 NBA賽季</a></p></td>
 </tr>

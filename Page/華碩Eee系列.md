@@ -75,8 +75,7 @@ CES 2011
     Magazine](http://www.pcmag.com/article2/0,2817,2316317,00.asp)
 3.  [AnandTech: ASUS Eee Box Preview & Intel's Atom
     Benchmarked](http://www.anandtech.com/systems/showdoc.aspx?i=3321&p=3)
-4.  [14-Oct-2008 review by
-    CNet](http://crave.cnet.co.uk/desktops/0,39029426,49299331,00.htm)
+4.
 5.  [OSNews preliminary
     review](http://www.osnews.com/story/20736/Trends_Are_Cyclical_the_Asus_Eee_Keyboard)
 6.  [Asus launches Eee PC D200 media server with

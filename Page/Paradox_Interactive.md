@@ -48,7 +48,7 @@ Schemes](https://zh.wikipedia.org/wiki/:en:Harebrained_Schemes "wikilink")。\[1
 
 |                         |                                          |            |                    |       |           |
 | ----------------------- | ---------------------------------------- | ---------- | ------------------ | ----- | --------- |
-| Crusader Kings          | [十字军之王](../Page/十字军之王.md "wikilink")     | 2004       | Deus Vult          | 神的旨意  | 2007      |
+| Crusader Kings          | [十字军之王](../Page/十字军之王.md "wikilink")     | 2004       | Deus Vult          | 神的旨意  | 2007·9    |
 | Crusader Kings II\[12\] | [十字军之王II](../Page/十字军之王II.md "wikilink") | 2012       | The Sword of Islam | 伊斯兰之剑 | 2012·6·26 |
 | Legacy of Rome          | 罗马的遗产                                    | 2012·10·6  |                    |       |           |
 | Sunset Invasion         | 日落入侵                                     | 2012·11·15 |                    |       |           |
@@ -61,9 +61,9 @@ Schemes](https://zh.wikipedia.org/wiki/:en:Harebrained_Schemes "wikilink")。\[1
 | Horse Lords             | 马上诸侯                                     | 2015·7·14  |                    |       |           |
 | Conclave                | 御前会议                                     | 2016·2·2   |                    |       |           |
 | The Reaper's Due        | 死神索命                                     | 2016·7·25  |                    |       |           |
-| Monks and Mystics       | 僧侶與密教徒                                   | 2017       |                    |       |           |
-| Jade Dragon             | 玉龍                                       | 2017       |                    |       |           |
-| Holy Fury               | 聖怒                                       | 2018       |                    |       |           |
+| Monks and Mystics       | 僧侶與密教徒                                   | 2017·3·7   |                    |       |           |
+| Jade Dragon             | 玉龍                                       | 2017·11·16 |                    |       |           |
+| Holy Fury               | 聖怒                                       | 2018·11·14 |                    |       |           |
 
 #### 欧陆风云
 
@@ -324,10 +324,10 @@ Schemes](https://zh.wikipedia.org/wiki/:en:Harebrained_Schemes "wikilink")。\[1
 
 ### Nitro Games
 
-|                                     |                                             |      |
-| ----------------------------------- | ------------------------------------------- | ---- |
-| Commander: Conquest of the Americas | 指挥官：征服美洲                                    | 2010 |
-| East India Company                  | [东印度公司](../Page/东印度公司_\(游戏\).md "wikilink") | 2009 |
+|                                     |                                                |      |
+| ----------------------------------- | ---------------------------------------------- | ---- |
+| East India Company                  | [东印度公司](../Page/东印度公司_\(游戏\).md "wikilink")    | 2009 |
+| Commander: Conquest of the Americas | [指挥官：征服美洲](../Page/东印度公司_\(游戏\).md "wikilink") | 2010 |
 
 ### Crystal Empire Games
 

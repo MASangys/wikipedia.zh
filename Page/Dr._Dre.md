@@ -59,7 +59,7 @@ Dre](https://zh.wikipedia.org/wiki/Beats_by_Dr._Dre "wikilink")」，自為[執�
 [Category:美國饒舌歌手](https://zh.wikipedia.org/wiki/Category:美國饒舌歌手 "wikilink")
 [Category:美國嘻哈歌手](https://zh.wikipedia.org/wiki/Category:美國嘻哈歌手 "wikilink")
 [Category:美国音乐制作人](https://zh.wikipedia.org/wiki/Category:美国音乐制作人 "wikilink")
-[Category:美國MV導演](https://zh.wikipedia.org/wiki/Category:美國MV導演 "wikilink")
+[Category:美國音樂影片導演](https://zh.wikipedia.org/wiki/Category:美國音樂影片導演 "wikilink")
 [Category:美國企業家](https://zh.wikipedia.org/wiki/Category:美國企業家 "wikilink")
 [Category:非洲裔美國音樂家](https://zh.wikipedia.org/wiki/Category:非洲裔美國音樂家 "wikilink")
 [Category:非洲裔美國電影演員](https://zh.wikipedia.org/wiki/Category:非洲裔美國電影演員 "wikilink")

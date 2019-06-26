@@ -84,7 +84,8 @@ North其他部分都已在2016年4月被封閉，只保留行人通道，有街�
 
 ### 街市
 
-[T_MARKET_Interior_201901.jpg](https://zh.wikipedia.org/wiki/File:T_MARKET_Interior_201901.jpg "fig:T_MARKET_Interior_201901.jpg")
+[T_Market_Fishmonger.jpg](https://zh.wikipedia.org/wiki/File:T_Market_Fishmonger.jpg "fig:T_Market_Fishmonger.jpg")
+[T_MARKET_Food_Street_201901.jpg](https://zh.wikipedia.org/wiki/File:T_MARKET_Food_Street_201901.jpg "fig:T_MARKET_Food_Street_201901.jpg")
 頌富街市原由予現代管理公司負責管理，到2018年10月1日由新承辦商[建華集團以](https://zh.wikipedia.org/wiki/建華集團 "wikilink")「香港街市」品牌營辦，進行三個月裝修後在同年12月30日開幕，命名為「T
 MARKET 頌富市場」。街市以日本無印木系為主題，其中小食街引入超過10間的食店，營業至凌晨1點。
 
@@ -93,14 +94,13 @@ MARKET 頌富市場」。街市以日本無印木系為主題，其中小食街�
 HK ChungFuShoppingCentre Interior1.jpg|翻新前頌富商場入口中庭（2008年） HK
 ChungFuShoppingCentre Interior2.jpg|翻新前頌富商場內部（2008年） HK
 ChungFuShoppingCentre Interior3.jpg|翻新前頌富商場內部（2008年） Chung Fu Plaza
-Level 3 Shops 2015.jpg|翻新後T Town South 2樓商店 (2014年) Chung Fu Shopping
-Centre Phase 2 in 2014.JPG|翻新後的頌富廣場二期外牆（2014年） Chung Fu Market
+Level 3 Shops 2015.jpg|翻新後T Town South 2樓商店 (2014年) Chung Fu Plaza Void
+view 2015.jpg|翻新前頌富商場中庭，地面設[美國冒險樂園](../Page/美國冒險樂園.md "wikilink")（2015年）
+Chung Fu Shopping Centre Phase 2 in 2014.JPG|翻新後的頌富廣場二期外牆（2014年） T
+Town.jpg|翻新中的T Town North（2016年12月） Chung Fu Market
 2015.jpg|翻新前的頌富街市（2015年） Temporary T
-Market.jpg|頌富街市於2018年10月1日起翻新3個月，並於T Town
-North設臨時街市T Market T Market Entrance.jpg|頌富市場入口 T Market
-Fishmonger.jpg|頌富市場魚檔 T Market Butcher and Fruit Shop.jpg|頌富市場肉檔及水果檔
-Restaurant at T Market.jpg|頌富市場的美食街 T Town.jpg|翻新中的T Town
-North（2016年12月）
+Market.jpg|頌富街市於2018年10月1日起翻新3個月，並於T Town North設臨時街市T Market T
+Market Entrance.jpg|頌富市場入口
 
 ## 交通
 

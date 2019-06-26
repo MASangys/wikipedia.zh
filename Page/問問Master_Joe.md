@@ -610,7 +610,7 @@ Y Pro的健康管理專員，所以常常利用舉啞鈴檢查手部機件<br />
   - 第90集：光的折射
   - 第91集：科學遊戲
   - 第92集：[虹吸現象](https://zh.wikipedia.org/wiki/虹吸現象 "wikilink")
-  - 第93集：[氫氣](https://zh.wikipedia.org/wiki/氫氣 "wikilink")
+  - 第93集：[氫氣](../Page/氫氣.md "wikilink")
   - 第94集：浮和沉
   - 第95集：玩具的科學
 

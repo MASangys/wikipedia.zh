@@ -92,8 +92,8 @@ Textures**）是適用於高解析度的技術，將地圖分為不同解析度�
 ## 類似軟體
 
 其他一些類似的天文軟體包括[自由軟體](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")：[KStars](https://zh.wikipedia.org/wiki/KStars "wikilink")、[Stellarium和](../Page/Stellarium.md "wikilink")[Mitaka](https://zh.wikipedia.org/wiki/Mitaka "wikilink")；[專有軟體](https://zh.wikipedia.org/wiki/專有軟體 "wikilink")：[Orbiter](https://zh.wikipedia.org/wiki/Orbiter "wikilink")、[WorldWide
-Telescope](../Page/WorldWide_Telescope.md "wikilink")、[XEphem](https://zh.wikipedia.org/wiki/XEphem "wikilink")（全為[免費軟體](../Page/免費軟體.md "wikilink")）和[MPL3D](https://zh.wikipedia.org/wiki/MPL3D "wikilink")、[Starry
-Night](../Page/Starry_Night.md "wikilink")（非免費）。
+Telescope](../Page/WorldWide_Telescope.md "wikilink")、[XEphem](https://zh.wikipedia.org/wiki/XEphem "wikilink")（[免費軟體](../Page/免費軟體.md "wikilink")）和[MPL3D](https://zh.wikipedia.org/wiki/MPL3D "wikilink")、[Starry
+Night](../Page/Starry_Night.md "wikilink")、[SpaceEngine](https://zh.wikipedia.org/wiki/SpaceEngine "wikilink")（非免費）。
 
 ## 參考資料
 

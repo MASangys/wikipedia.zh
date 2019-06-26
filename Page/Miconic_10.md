@@ -29,6 +29,7 @@
 #### 辦公大樓
 
   - [三立電視台](https://zh.wikipedia.org/wiki/三立電視台 "wikilink")
+  - [聯聚中雍大廈](../Page/聯聚中雍大廈.md "wikilink")
 
 ### [香港](../Page/香港.md "wikilink")
 

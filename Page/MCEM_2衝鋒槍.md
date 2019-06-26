@@ -20,7 +20,7 @@ MCEM
 發／分鐘（衝鋒槍的高射速會降低其穩定性及浪費子彈），以及減少[全自動射擊時所產生的震動](https://zh.wikipedia.org/wiki/自動火器 "wikilink")。然而，就算原型槍已經適合通過[英國軍隊需要便宜而高可靠性裝備的要求](../Page/英國軍隊.md "wikilink")，數年後的英國軍隊採取了一種更傳統的衝鋒槍，[蘭切斯特衝鋒槍](../Page/蘭切斯特衝鋒槍.md "wikilink")。原因是全自動射擊時所產生的震動這個致命的缺陷始終沒有解決。
 
 MCEM
-2採用[反沖作用操作](../Page/反沖作用_\(槍械\).md "wikilink")，可利用[快慢機選擇](https://zh.wikipedia.org/wiki/擊發調變模式 "wikilink")[開放式槍機的射擊模式的武器](../Page/開放式槍機.md "wikilink")。由於槍機是[包絡式設計](../Page/包絡式槍機.md "wikilink")，因此[槍管的大部份會包裹在槍機內部](../Page/槍管.md "wikilink")。[機匣是由](https://zh.wikipedia.org/wiki/機匣 "wikilink")[钢管製成](../Page/钢.md "wikilink")，及[扳機組件亦裝在機匣以下](https://zh.wikipedia.org/wiki/扳機 "wikilink")。[彈匣亦在插入手槍握把內部](../Page/彈匣.md "wikilink")。安全和射擊模式選擇組件都裝入一個可指向三個方向的快慢機，而快慢機則位於扳機組件前方左側的位置，[大拇指可前後推拉動式操作](https://zh.wikipedia.org/wiki/拇指 "wikilink")。全槍的材料是大型半剛性型[皮套](https://zh.wikipedia.org/wiki/皮套 "wikilink")。在機匣組件的後方，亦可裝上一個方便肩射的[槍托](../Page/槍托.md "wikilink")。
+2採用[反沖作用操作](../Page/反沖作用_\(槍械\).md "wikilink")，可利用[快慢機選擇](https://zh.wikipedia.org/wiki/擊發調變模式 "wikilink")[開放式槍栓的射擊模式的武器](../Page/開放式槍栓.md "wikilink")。由於槍機是[包絡式設計](../Page/包絡式槍機.md "wikilink")，因此[槍管的大部份會包裹在槍機內部](../Page/槍管.md "wikilink")。[機匣是由](https://zh.wikipedia.org/wiki/機匣 "wikilink")[钢管製成](../Page/钢.md "wikilink")，及[扳機組件亦裝在機匣以下](https://zh.wikipedia.org/wiki/扳機 "wikilink")。[彈匣亦在插入手槍握把內部](../Page/彈匣.md "wikilink")。安全和射擊模式選擇組件都裝入一個可指向三個方向的快慢機，而快慢機則位於扳機組件前方左側的位置，[大拇指可前後推拉動式操作](https://zh.wikipedia.org/wiki/拇指 "wikilink")。全槍的材料是大型半剛性型[皮套](https://zh.wikipedia.org/wiki/皮套 "wikilink")。在機匣組件的後方，亦可裝上一個方便肩射的[槍托](../Page/槍托.md "wikilink")。
 
 ## 參見
 

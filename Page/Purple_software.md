@@ -529,7 +529,7 @@ LINKS》。
 
   - [Purple software（有年齡確認）](http://www.purplesoftware.jp/)
 
-  - [WHITESOFT](https://web.archive.org/web/20140624125254/http://white-soft.jp/)
+  - [WHITESOFT](http://white-soft.jp/)
 
   - [ボンボンカンパニー](http://bonbon-company.com/)
 

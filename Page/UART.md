@@ -10,16 +10,15 @@ Synchronous Asynchronous Receiver Transmitter)。
 
 在手机设计和测试阶段被用来控制CPU与其余部分的訊息传送
 
-UART是通用异步收发器（异步串行通信口）的英文缩写，它包括了[RS232](https://zh.wikipedia.org/wiki/RS232 "wikilink")、[RS449](https://zh.wikipedia.org/wiki/RS449 "wikilink")、[RS423](https://zh.wikipedia.org/wiki/RS423 "wikilink")、[RS422和](https://zh.wikipedia.org/wiki/RS422 "wikilink")[RS485等接口标准规范和总线标准规范](https://zh.wikipedia.org/wiki/RS485 "wikilink")，即UART是异步串行通信口的总称。
-而RS232、RS449、RS423、RS422和RS485等，是对应各种异步串行通信口的接口标准和总线标准，它规定了通信口的电气特性、传输速率、连接特性和接口的机械特性等内容。实际上是属于通信网络中的[實體層](https://zh.wikipedia.org/wiki/實體層 "wikilink")（Physical
+UART是通用异步收发器（异步串行通信口）的英文缩写，它包括了[RS232](https://zh.wikipedia.org/wiki/RS232 "wikilink")、[RS449](https://zh.wikipedia.org/wiki/RS449 "wikilink")、[RS423](https://zh.wikipedia.org/wiki/RS423 "wikilink")、[RS422和](https://zh.wikipedia.org/wiki/RS422 "wikilink")[RS485等接口标准规范和总线标准规范](https://zh.wikipedia.org/wiki/RS485 "wikilink")，即UART是异步串行通信口的总称。而RS232、RS449、RS423、RS422和RS485等，是对应各种异步串行通信口的接口标准和总线标准，它规定了通信口的电气特性、传输速率、连接特性和接口的机械特性等内容。实际上是属于通信网络中的[實體層](https://zh.wikipedia.org/wiki/實體層 "wikilink")（Physical
 Layer）的概念，与通信协议没有直接关系。而通信协议，是属于通信网络中的[資料鏈結層](https://zh.wikipedia.org/wiki/資料鏈結層 "wikilink")（Data
-Link Layer）的概念。
-COM是PC（个人计算机）上，异步串行通信口的简写。由于历史原因，IBM的PC外部接口配置为RS232，成为实际上的PC界默认标准。所以，现在PC机的COM均为RS232。若配有多个异步串行通信口，则分别称为COM1、COM2...
+Link
+Layer）的概念。COM是PC（个人计算机）上，异步串行通信口的简写。由于历史原因，IBM的PC外部接口配置为RS232，成为实际上的PC界默认标准。所以，现在PC机的COM均为RS232。若配有多个异步串行通信口，则分别称为COM1、COM2...
 。
 
 ## 原理
 
-通用异步接受器-发送器(UART)把数据的字节按照比特顺序发送。\[1\]另一端的UART把比特组装为字节。每个UART包含一个[移位寄存器](../Page/移位寄存器.md "wikilink")。通过一根线或其他媒介的串行通信比通过多根线的并行通信具有更低成本。
+通用异步接受器-发送器(UART)把数据的字节按照比特顺序发送\[1\]。另一端的UART把比特组装为字节。每个UART包含一个[移位寄存器](../Page/移位寄存器.md "wikilink")。通过一根线或其他媒介的串行通信比通过多根线的并行通信具有更低成本。
 
 UART通常并不直接产生或接收其他设备的外部信号。独立接口设备用于转换信号的[逻辑电平给UART](https://zh.wikipedia.org/wiki/逻辑电平 "wikilink")。
 
@@ -29,7 +28,7 @@ UART通常并不直接产生或接收其他设备的外部信号。独立接口�
 
 [UART_timing_diagram.svg](https://zh.wikipedia.org/wiki/File:UART_timing_diagram.svg "fig:UART_timing_diagram.svg")
 
-空闲状态，即没有数据传输，是高电平。这是从（有线）电报时代的历史遗存。线路保持高电平表明显路与传输设备没有损坏。每个字符表示为一个帧，以逻辑低电平为开始比特，然后是数据比特，可选的奇偶校验比特，最后是一个或多个停止比特（逻辑高电平）。大部分应用都是先传最低位的数据比特（the
+空闲状态，即没有数据传输，是高电平。这是从（有线）电报时代的历史遗存。线路保持高电平表明線路与传输设备没有损坏。每个字符表示为一个帧，以逻辑低电平为开始比特，然后是数据比特，可选的奇偶校验比特，最后是一个或多个停止比特（逻辑高电平）。大部分应用都是先传最低位的数据比特（the
 least significant data bit），但也有例外（如打印终端）。
 
 如果线路长期（至少大于传输一帧的时间）保持低电平，这被UART检测为Break condition.

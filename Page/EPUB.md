@@ -42,19 +42,19 @@ EPUB 3.0格式旨在解决下列问题：
 EPUB 2.0发布于2007年10月，2010年9月发布的维护更新版本（2.0.1）对该规范进行了澄清和校正。\[9\]EPUB
 2.0.1版有三个规范组成：
 
-  - *开放出版物结构*（OPS）2.0.1，包含其内容的格式。\[10\]
+  - *开放出版结构*（OPS）2.0.1，包含其内容的格式。\[10\]
   - *开放包装格式*（OPF）2.0.1，使用XML描述`.epub`文件的结构。\[11\]
   - *开放容器格式*（OCF）2.0.1，以[ZIP文档存档所有文件](https://zh.wikipedia.org/wiki/ZIP "wikilink")。\[12\]
 
 EPUB内部使用[XHTML或](../Page/XHTML.md "wikilink")[DTBook](https://zh.wikipedia.org/wiki/DTBook "wikilink")（[数位无障碍资讯系统联盟提供的一种XML标准](https://zh.wikipedia.org/wiki/数位无障碍资讯系统 "wikilink")）表示文本并组织内容文档，使用[CSS的子集提供的布局和格式化](https://zh.wikipedia.org/wiki/CSS "wikilink")。[XML用于创建文档清单](../Page/XML.md "wikilink")、目录和EPUB[元数据](../Page/元数据.md "wikilink")。最后，文件被捆绑在一个[zip文件之中作为一个包装格式](https://zh.wikipedia.org/wiki/zip "wikilink")。
 
-#### 开放出版物结构2.0.1
+#### 开放出版结构2.0.1
 
 EPUB文件使用XHTML 1.1（或DTBook）构建2.0.1版本书籍的内容。这与之前的版本不同（OEBPS
 1.2及更早），其使用的是XHTML的子集。然而，在某些元素上存在限制。EPUB中XHTML文档的[互联网媒体类型是application](../Page/互联网媒体类型.md "wikilink")/xhtml+xml。\[13\]对于所需XHTML模块的列表和限制的描述，可以查看规范的[2.2节](http://idpf.org/epub/20/spec/OPS_2.0.1_draft.htm#Section2.2)。
 
 样式和布局使用CSS
-2.0的子集，参考*开放出版物结构样式表*。此规范的语法要求阅读系统仅支持一部分CSS属性，并附加了一些自定义属性。自定义属性包括oeb-page-head、oeb-page-foot和oeb-column-number。可以使用@font-face属性实现嵌入字体，同时在开放包装格式的清单中包含字体文件。EPUB中CSS文档的[互联网媒体类型是text](../Page/互联网媒体类型.md "wikilink")/css。\[14\]对于支持属性的列表和详细的信息，可以查看规范的[3.0节](http://idpf.org/epub/20/spec/OPS_2.0.1_draft.htm#Section3.0)。
+2.0的子集，参考*开放出版结构样式表*。此规范的语法要求阅读系统仅支持一部分CSS属性，并附加了一些自定义属性。自定义属性包括oeb-page-head、oeb-page-foot和oeb-column-number。可以使用@font-face属性实现嵌入字体，同时在开放包装格式的清单中包含字体文件。EPUB中CSS文档的[互联网媒体类型是text](../Page/互联网媒体类型.md "wikilink")/css。\[14\]对于支持属性的列表和详细的信息，可以查看规范的[3.0节](http://idpf.org/epub/20/spec/OPS_2.0.1_draft.htm#Section3.0)。
 
 EPUB还要求使用[互联网媒体类型image](../Page/互联网媒体类型.md "wikilink")/png、image/jpeg、image/gif和image/svg+xml支持[PNG](../Page/PNG.md "wikilink")、[JPEG](../Page/JPEG.md "wikilink")、[GIF和](../Page/GIF.md "wikilink")[SVG图像](https://zh.wikipedia.org/wiki/SVG "wikilink")。规范同样允许其他媒体类型，但创作者必须使用支持的类型提供替代内容。\[15\]对于所有需要的互联网媒体类型的列表，可以查看规范的[Section 1.3.7节](http://idpf.org/epub/20/spec/OPS_2.0.1_draft.htm#Section1.3.7)。
 

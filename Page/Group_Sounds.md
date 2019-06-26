@@ -53,7 +53,7 @@ Tempters解散後，部份成員於1971年組成日本首個[超級組合](https
 <td><p><a href="https://zh.wikipedia.org/wiki/:ja:ザ・テンプターズ" title="wikilink">ザ・テンプターズ</a></p></td>
 <td><p>The Tempters（誘惑者樂隊）</p></td>
 <td><p>1967</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/松崎由治" title="wikilink">松崎由治</a></strong>、<a href="https://zh.wikipedia.org/wiki/萩原健一" title="wikilink">萩原健一</a>、<a href="https://zh.wikipedia.org/wiki/田中俊夫" title="wikilink">田中俊夫</a>（已故）、<a href="https://zh.wikipedia.org/wiki/高久昇" title="wikilink">高久昇</a>、<a href="https://zh.wikipedia.org/wiki/大口廣司" title="wikilink">大口廣司</a>（已故）</p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/松崎由治" title="wikilink">松崎由治</a></strong>、<a href="../Page/萩原健一.md" title="wikilink">萩原健一</a>、<a href="https://zh.wikipedia.org/wiki/田中俊夫" title="wikilink">田中俊夫</a>（已故）、<a href="https://zh.wikipedia.org/wiki/高久昇" title="wikilink">高久昇</a>、<a href="https://zh.wikipedia.org/wiki/大口廣司" title="wikilink">大口廣司</a>（已故）</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/:ja:ジャッキー吉川とブルーコメッツ" title="wikilink">ジャッキー吉川とブルーコメッツ</a><br />
@@ -182,3 +182,4 @@ Tempters解散後，部份成員於1971年組成日本首個[超級組合](https
 [Category:流行音樂類型](https://zh.wikipedia.org/wiki/Category:流行音樂類型 "wikilink")
 [Category:搖滾樂類型](https://zh.wikipedia.org/wiki/Category:搖滾樂類型 "wikilink")
 [Category:戰後昭和時代文化](https://zh.wikipedia.org/wiki/Category:戰後昭和時代文化 "wikilink")
+[Category:和製英語](https://zh.wikipedia.org/wiki/Category:和製英語 "wikilink")

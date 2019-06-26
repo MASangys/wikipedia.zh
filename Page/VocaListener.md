@@ -32,7 +32,7 @@ Sensitivity）最多可以做出高或低兩個[八度的滑音](../Page/八度.
 
 ### VocaListener-front-end
 
-VocaListener-front-end則分為歌聲分析及歌聲合成，在歌聲分析中需要從原歌聲中抽出音高、音量、發音開始時間和[音長](https://zh.wikipedia.org/wiki/音長 "wikilink")。
+VocaListener-front-end則分為歌聲分析及歌聲合成，在歌聲分析中需要從原歌聲中抽出音高、音量、發音開始時間和[音長](../Page/音長.md "wikilink")。
 
   - 音高
     由以下數式轉換為[MIDI的](../Page/MIDI.md "wikilink")[音名數值](../Page/音名.md "wikilink")（fHz：[基本頻率](../Page/基本頻率.md "wikilink")、fNoteNumber：MIDI的音名數值）：

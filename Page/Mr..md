@@ -146,7 +146,7 @@ Noise（即Mr.前身）的成員認識。19歲時到[澳洲升學](https://zh.wi
 | [We R Mr vol. 1](https://zh.wikipedia.org/wiki/We_R_Mr_vol._1 "wikilink")                                                          |
 | **2019年**                                                                                                                          |
 | 釋放自己                                                                                                                               |
-|                                                                                                                                    |
+| 釋放自己                                                                                                                               |
 
 | **各台冠軍歌總數** |
 | ----------- |

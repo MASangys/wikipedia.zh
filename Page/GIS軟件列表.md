@@ -326,7 +326,7 @@
   - [GIS
     Knoppix](https://zh.wikipedia.org/wiki/GIS_Knoppix "wikilink")：GIS-Knoppix是一份预装GIS软件的[Linux](../Page/Linux.md "wikilink")
     [Live
-    CD](../Page/Live_CD.md "wikilink")，基于[Knoppix](https://zh.wikipedia.org/wiki/Knoppix "wikilink")。
+    CD](../Page/Live_CD.md "wikilink")，基于[Knoppix](../Page/Knoppix.md "wikilink")。
 
 <!-- end list -->
 

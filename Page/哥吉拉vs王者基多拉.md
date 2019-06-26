@@ -51,7 +51,7 @@
 
   -
   -
-[Category:Godzilla](https://zh.wikipedia.org/wiki/Category:Godzilla "wikilink")
+[Category:哥吉拉電影](https://zh.wikipedia.org/wiki/Category:哥吉拉電影 "wikilink")
 [Category:1991年電影](https://zh.wikipedia.org/wiki/Category:1991年電影 "wikilink")
 [Category:日本電影作品](https://zh.wikipedia.org/wiki/Category:日本電影作品 "wikilink")
 [Category:時間旅行電影](https://zh.wikipedia.org/wiki/Category:時間旅行電影 "wikilink")

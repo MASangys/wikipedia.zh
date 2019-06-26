@@ -1629,17 +1629,6 @@ MBC為韓國首創月火劇時段的電視台，劇集收視率及收益皆處�
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/柳熙京" title="wikilink">柳熙京</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
-<tr class="odd">
-<td style="text-align: center;"><p>2019年9月23日－<br />
-2019年月日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/有瑕疵的人們" title="wikilink">有瑕疵的人們</a><br />
-</p></td>
-<td style="text-align: center;"><p>32</p></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/吳振碩" title="wikilink">吳振碩</a></p></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-</tr>
 </tbody>
 </table>
 

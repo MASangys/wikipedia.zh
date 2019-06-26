@@ -56,16 +56,16 @@ Explorer或](../Page/Internet_Explorer.md "wikilink")[Safari觀看](../Page/Safa
 
 ### 已停播直播頻道列表
 
-| 頻道名稱                                                            | 啓播日期             | 停播日期              | 停播原因                                                                                                                                 |
-| --------------------------------------------------------------- | ---------------- | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| [高清翡翠台](../Page/高清翡翠台.md "wikilink")                            | 2010年8月2日        | 2016年2月22日上午 3:00 | 因2016年數碼頻道新安排被[J5取代](../Page/J5.md "wikilink")                                                                                       |
-| [互動新聞台](https://zh.wikipedia.org/wiki/互動新聞台 "wikilink")         | 2009年3月          | 2017年4月17日        | MyTV終止服務，現於[香港數碼電視](https://zh.wikipedia.org/wiki/香港數碼電視 "wikilink")83台及[MyTV SUPER](../Page/MyTV_SUPER.md "wikilink") 83台播放         |
-| [J5](../Page/J5.md "wikilink")                                  | 2016年2月22日上午3:00 | 2017年4月17日        | MyTV終止服務，現於[香港數碼電視](https://zh.wikipedia.org/wiki/香港數碼電視 "wikilink")85台及[MyTV SUPER](../Page/MyTV_SUPER.md "wikilink") 85台播放         |
-| [J2](../Page/J2.md "wikilink")                                  | 2010年8月2日        | 2017年4月17日        | MyTV終止服務，現於[香港數碼電視](https://zh.wikipedia.org/wiki/香港數碼電視 "wikilink")82台及[MyTV SUPER](../Page/MyTV_SUPER.md "wikilink") 82台播放         |
-| [翡翠台](../Page/翡翠台.md "wikilink")                                | 2015年5月29日       | 2017年4月17日        | MyTV終止服務，現於[香港數碼電視](https://zh.wikipedia.org/wiki/香港數碼電視 "wikilink")81台、[MyTV SUPER](../Page/MyTV_SUPER.md "wikilink") 81台及模擬地面電視播放  |
-| [明珠台](../Page/明珠台.md "wikilink")                                | 2016年4月6日        | 2017年4月17日        | MyTV 終止服務，現於[香港數碼電視](https://zh.wikipedia.org/wiki/香港數碼電視 "wikilink")84台、[MyTV SUPER](../Page/MyTV_SUPER.md "wikilink") 84台及模擬地面電視播放 |
-| [賽馬直擊](https://zh.wikipedia.org/wiki/賽馬直擊 "wikilink")（粵語，僅限賽馬日） | 2015年9月          | 2017年4月17日        | MyTV終止服務，現於[YouTube播放](../Page/YouTube.md "wikilink")                                                                                |
-| [賽馬直擊](https://zh.wikipedia.org/wiki/賽馬直擊 "wikilink")（英語，僅限賽馬日) | 2015年9月          | 2017年4月17日        | MyTV終止服務，現於[YouTube播放](../Page/YouTube.md "wikilink")                                                                                |
+| 頻道名稱                                                            | 啓播日期             | 停播日期              | 停播原因                                                                                                                                                                        |
+| --------------------------------------------------------------- | ---------------- | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [高清翡翠台](../Page/高清翡翠台.md "wikilink")                            | 2010年8月2日        | 2016年2月22日上午 3:00 | 因2016年數碼頻道新安排被[J5取代](../Page/J5.md "wikilink")                                                                                                                              |
+| [互動新聞台](https://zh.wikipedia.org/wiki/互動新聞台 "wikilink")         | 2009年3月          | 2017年4月17日        | MyTV終止服務，現於[香港數碼電視](https://zh.wikipedia.org/wiki/香港數碼電視 "wikilink")83台及[MyTV SUPER](../Page/MyTV_SUPER.md "wikilink") 83台播放，並改名為[無綫新聞台](../Page/無綫新聞台.md "wikilink")       |
+| [J5](../Page/J5.md "wikilink")                                  | 2016年2月22日上午3:00 | 2017年4月17日        | MyTV終止服務，現於[香港數碼電視](https://zh.wikipedia.org/wiki/香港數碼電視 "wikilink")85台及[MyTV SUPER](../Page/MyTV_SUPER.md "wikilink") 85台播放，並改名為[無綫財經·資訊台](../Page/無綫財經·資訊台.md "wikilink") |
+| [J2](../Page/J2.md "wikilink")                                  | 2010年8月2日        | 2017年4月17日        | MyTV終止服務，現於[香港數碼電視](https://zh.wikipedia.org/wiki/香港數碼電視 "wikilink")82台及[MyTV SUPER](../Page/MyTV_SUPER.md "wikilink") 82台播放                                                |
+| [翡翠台](../Page/翡翠台.md "wikilink")                                | 2015年5月29日       | 2017年4月17日        | MyTV終止服務，現於[香港數碼電視](https://zh.wikipedia.org/wiki/香港數碼電視 "wikilink")81台、[MyTV SUPER](../Page/MyTV_SUPER.md "wikilink") 81台及模擬地面電視播放                                         |
+| [明珠台](../Page/明珠台.md "wikilink")                                | 2016年4月6日        | 2017年4月17日        | MyTV 終止服務，現於[香港數碼電視](https://zh.wikipedia.org/wiki/香港數碼電視 "wikilink")84台、[MyTV SUPER](../Page/MyTV_SUPER.md "wikilink") 84台及模擬地面電視播放                                        |
+| [賽馬直擊](https://zh.wikipedia.org/wiki/賽馬直擊 "wikilink")（粵語，僅限賽馬日） | 2015年9月          | 2017年4月17日        | MyTV終止服務，現於[YouTube播放](../Page/YouTube.md "wikilink")                                                                                                                       |
+| [賽馬直擊](https://zh.wikipedia.org/wiki/賽馬直擊 "wikilink")（英語，僅限賽馬日) | 2015年9月          | 2017年4月17日        | MyTV終止服務，現於[YouTube播放](../Page/YouTube.md "wikilink")                                                                                                                       |
 
 ## 節目重溫
 

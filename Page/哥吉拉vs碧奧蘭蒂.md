@@ -45,7 +45,7 @@ X2也敗下陣來](../Page/Super_X.md "wikilink")，但是沒有想到哥吉拉�
 
 ## 參考資料
 
-[Category:Godzilla](https://zh.wikipedia.org/wiki/Category:Godzilla "wikilink")
+[Category:哥吉拉電影](https://zh.wikipedia.org/wiki/Category:哥吉拉電影 "wikilink")
 [Category:1989年電影](https://zh.wikipedia.org/wiki/Category:1989年電影 "wikilink")
 [Category:日本電影作品](https://zh.wikipedia.org/wiki/Category:日本電影作品 "wikilink")
 [Category:新宿背景電影](https://zh.wikipedia.org/wiki/Category:新宿背景電影 "wikilink")

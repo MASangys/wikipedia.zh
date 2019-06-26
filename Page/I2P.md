@@ -116,7 +116,7 @@ I2P中将可到达的匿名端点（EndPoint）称为目标（Destination）在I
   - [I2P下载](https://geti2p.net/zh/download)
 
 [Category:开放源代码](https://zh.wikipedia.org/wiki/Category:开放源代码 "wikilink")
-[Category:破网软件](https://zh.wikipedia.org/wiki/Category:破网软件 "wikilink")
+[Category:翻墙软件](https://zh.wikipedia.org/wiki/Category:翻墙软件 "wikilink")
 [Category:匿名網路](https://zh.wikipedia.org/wiki/Category:匿名網路 "wikilink")
 [Category:檔案分享程式](https://zh.wikipedia.org/wiki/Category:檔案分享程式 "wikilink")
 [Category:P2P](https://zh.wikipedia.org/wiki/Category:P2P "wikilink")

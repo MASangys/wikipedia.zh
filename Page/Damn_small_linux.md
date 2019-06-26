@@ -12,7 +12,7 @@ MB内存的配置上运行[Dillo浏览网页](../Page/Dillo.md "wikilink")，运
 
 ## 启动选项
 
-启动选项在DSL、[Knoppix與Morphix中也被叫做](https://zh.wikipedia.org/wiki/Knoppix "wikilink")“[作弊碼](https://zh.wikipedia.org/wiki/作弊碼 "wikilink")（cheat
+启动选项在DSL、[Knoppix與Morphix中也被叫做](../Page/Knoppix.md "wikilink")“[作弊碼](https://zh.wikipedia.org/wiki/作弊碼 "wikilink")（cheat
 codes）”。有些时候自动硬件检测可能会失效，或者用户需要改变一些默认的设置时，这时就需要启动选项。
 
 ## Live USB

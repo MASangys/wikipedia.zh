@@ -18,7 +18,7 @@ Reader DC的安装文件达65.4 MB\[9\]。
 
 重新打开文档时，文档打开时最后一刻的旋转、缩放、窗口大小等会被记录，使之比起别的PDF阅读器更像[电子阅读器](https://zh.wikipedia.org/wiki/电子阅读器 "wikilink")。
 
-Sumatra不[锁定PDF文件](https://zh.wikipedia.org/wiki/文件锁定 "wikilink")。用户可以覆盖保存PDF并按R键重新载入PDF文档而不需要将其关闭。例如一个[PDFTeX用户可以找到这个有用的功能](https://zh.wikipedia.org/wiki/PDFTeX "wikilink")，在重编译已更改的[TeX源代码后](../Page/TeX.md "wikilink")，直须按R并查看改动后的文档。该功能在启用中文输入法的情况下会无法使用。
+Sumatra不[锁定PDF文件](../Page/文件锁定.md "wikilink")。用户可以覆盖保存PDF并按R键重新载入PDF文档而不需要将其关闭。例如一个[PDFTeX用户可以找到这个有用的功能](https://zh.wikipedia.org/wiki/PDFTeX "wikilink")，在重编译已更改的[TeX源代码后](../Page/TeX.md "wikilink")，直须按R并查看改动后的文档。该功能在启用中文输入法的情况下会无法使用。
 
 PDF格式的[使用限制在Sumatra](https://zh.wikipedia.org/wiki/PDF#使用限制和显示 "wikilink")
 0.6中得到实现，\[10\]一种阻止用户从文档作者限制的文档中复制或者打印的[数字版权管理形式](../Page/数字版权管理.md "wikilink")。Kowalczyk声称“I

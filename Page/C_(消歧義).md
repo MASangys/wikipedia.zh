@@ -117,7 +117,7 @@
   - C，是[澳式足球的中央位置](../Page/澳式足球.md "wikilink")。
   - C，是Grupo Financiero
     Banamex(曾經是墨西哥第二大銀行)的[紐約證券交易所的公司代碼](https://zh.wikipedia.org/wiki/紐約證券交易所 "wikilink")。
-  - \[c\]，是[國際音標中的](https://zh.wikipedia.org/wiki/國際音標 "wikilink")[清硬顎塞音](../Page/清硬顎塞音.md "wikilink")。
+  - \[c\]，是[國際音標中的](../Page/國際音標.md "wikilink")[清硬顎塞音](../Page/清硬顎塞音.md "wikilink")。
   - [C位
     (黑白棋)](https://zh.wikipedia.org/wiki/C位_\(黑白棋\) "wikilink")，代表棋盤上a2、a7、b1、b8、g1、g8、h2和h7的位置。
   - C，在[啤牌中](https://zh.wikipedia.org/wiki/啤牌 "wikilink")，C是梅花的縮寫，而在[橋牌中](https://zh.wikipedia.org/wiki/橋牌 "wikilink")，在叫牌的流程，1C代表一梅花，做莊的要有7磴牌，2C即8磴牌，如此類推。

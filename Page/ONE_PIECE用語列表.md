@@ -688,7 +688,7 @@ Q彈鎮<br />
 </ul>
 <dl>
 <dt></dt>
-<dd>人類和魚人族混血而生。（<a href="https://zh.wikipedia.org/wiki/唐吉軻德海家族" title="wikilink">唐吉軻德海家族的格林傑為鬥魚魚人以及人類的混血</a>）
+<dd>人類和魚人族混血而生。（<a href="../Page/唐吉訶德海賊團.md" title="wikilink">唐吉訶德海賊團的格林傑為鬥魚魚人以及人類的混血</a>）
 </dd>
 </dl>
 </dd>
@@ -702,7 +702,7 @@ Q彈鎮<br />
 <dt></dt>
 <dd>目前已知種族其一。人身魚尾，男性人魚雖然上半身是人類，但仍有一點接近魚類的容貌，和能用雙腳走路的魚人不同，人魚在無水的環境下通常都會配戴泡泡泳圈行動，女性人魚30歲後尾巴會分裂成雙腿，稱為「雙股人魚」，身體也會變成適合在陸地上生活的型態，同魚人有各類魚種之別。
 </dd>
-<dd>能和魚類溝通，只有極少數的人魚如<a href="../Page/魚人島.md" title="wikilink">魚人島國王尼普頓能夠呼喚鯨魚等大型海洋生物出來</a>，但根據魚人島的王室傳說，島上每過百年就會出現唯一能與海王類溝通的人魚（例如<a href="../Page/白星.md" title="wikilink">白星公主</a>）。特有的武術是「人魚柔術」和「人魚具術」。是站在游速最快頂點的種族。
+<dd>能和魚類溝通，只有極少數的人魚如<a href="../Page/魚人島.md" title="wikilink">魚人島國王尼普頓能夠呼喚鯨魚等大型海洋生物出來</a>，但根據魚人島的王室傳說，島上每過百年就會出現唯一能與海王類溝通的人魚（例如<a href="../Page/白星.md" title="wikilink">白星公主</a>）。特有的武術是「人魚柔術」和「人魚具術」。是游速最快頂點的種族。
 </dd>
 <dd>可以與人類交配（可可羅婆婆即是一例），不吃肉類和魚類，但嗜吃貝類、海菜、海底的水果等，和魚人結婚交配的話，生下來的孩子則會有男、女、魚人或人魚的可能性。一般的人魚體型和人類相差無幾，但也有體積特別巨大的種類。因為很少在陸地上活動，所以難以捕捉到，因此人魚成為人類買賣中最貴的商品，年輕女性人魚7,000萬貝里起跳。女性人魚兩條腿也有1,000萬貝里，但男性人魚只有100萬貝里。雖然早期和魚人一樣受到全世界人類的歧視，但基本上還是對人類相當友善的種族。
 <ul>
@@ -740,12 +740,12 @@ Q彈鎮<br />
 <tr class="even">
 <td><p><strong>長手族</strong><br />
 （）</p></td>
-<td><p>目前已知種族其一，手腕關節比別人多一節，目前在本作中登場的長手族，是ON海賊團船長「海鳴」刮盤人·亞普、多雷斯羅薩鬥技場參賽者「破壞砲」伊迪歐，而布魯克所降落的島嶼，納瑪庫拉島的貧困王國「哈拉黑塔涼」也居住著一些長手族的強盜，當地居民對他們長期以來無法無天的掠奪行為懷恨在心。長手族和長腳族的混血兒被稱作「長手長腳人」。人口販賣拍賣會70萬貝里起跳。</p></td>
+<td><p>目前已知種族其一，手腕關節比別人多一節，目前在本作中登場的長手族，是ON海賊團船長「海鳴」刮盤人·亞普、伊迪歐海賊團船長「破壞砲」伊迪歐，而布魯克所降落的島嶼，納瑪庫拉島的貧困王國「哈拉黑塔涼」也居住著一些長手族的強盜，當地居民對他們長期以來無法無天的掠奪行為懷恨在心。長手族和長腳族的混血兒被稱作「長手長腳人」。人口販賣拍賣會70萬貝里起跳。</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>長腿族</strong><br />
 （）</p></td>
-<td><p>目前已知種族其一，特徵是比一般人還要修長3倍的雙腿，因為以自己的長腿自豪，所以多數族人會在腿上刺青（蛋蛋男爵例外），長手族和長腿族有著長達千年的鬥毆歷史。目前在本作中登場的長腿族，BIG MOM海賊團戰鬥員塔馬哥男爵、多雷斯羅薩鬥技場參賽者布魯基利、BIG MOM海賊團第14個女兒暨『甜點三將星』的「果汁大臣」夏洛特·斯姆吉、第15個女兒希朵瓏、第16個女兒希納蒙為長腿族混血兒。人口販賣拍賣會70萬貝里起跳。</p></td>
+<td><p>目前已知種族其一，特徵是比一般人還要修長3倍的雙腿，因為以自己的長腿自豪，所以多數族人會在腿上刺青且裸露出來（蛋蛋男爵例外），長手族和長腿族有著長達千年的鬥毆歷史。目前在本作中登場的長腿族，BIG MOM海賊團戰鬥員塔馬哥男爵、伊迪歐海賊團戰鬥員布魯基利、BIG MOM海賊團第14個女兒三將星暨果汁大臣夏洛特·斯姆吉、第15個女兒雞蛋大臣希朵瓏、第16個女兒希納蒙為長腿族混血兒。人口販賣拍賣會70萬貝里起跳。</p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/小人_(傳說生物).md" title="wikilink">小人族</a></strong><br />
@@ -770,11 +770,11 @@ Q彈鎮<br />
 <tr class="even">
 <td><p><strong>蛇身族</strong><br />
 （或譯作<strong>蛇頭族</strong>，）</p></td>
-<td><p>目前已知種族其一。特徵是類似蛇首般橢圓的頭部和異常細的頸部。目前在本作中登場的蛇身族，BIG MOM海賊團成員亞曼德。人口販賣拍賣會70萬貝里起跳。</p></td>
+<td><p>目前已知種族其一。特徵是類似蛇首般橢圓的頭部和異常細的頸部。目前在本作中登場的蛇身族，BIG MOM海賊團堅果大臣亞蔓德。人口販賣拍賣會70萬貝里起跳。</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>三眼族</strong></p></td>
-<td><p>目前已知種族其一。外型大致和人類無異，但是長有三隻眼的種族，當額頭的第三隻眼覺醒的時候，會獲得聽見萬物聲音的能力。目前在本作中登場的混血三眼族，為BIG MOM海賊團第35個女兒夏洛特·普琳。人口販賣拍賣會算是其他珍貴品種時價計算。</p></td>
+<td><p>目前已知種族其一。外型大致和人類無異，但是長有三隻眼的種族，當額頭的第三隻眼覺醒的時候，會獲得聽見萬物聲音的能力。目前在本作中登場的混血三眼族，為BIG MOM海賊團第35個女兒巧克力候補大臣夏洛特·普琳。人口販賣拍賣會算是其他珍貴品種時價計算。</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -1328,8 +1328,8 @@ Q彈鎮<br />
 <td><p>體積較小，可隨身攜帶且擁有照相功能的電話蟲。「BIG NEWS」摩根斯曾以此記錄魯夫等人、杰爾馬66、火戰車海賊團破壞「BIG MOM」和賓什莫克家族婚禮的經過。</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong>田螺</strong></p></td>
-<td><p>和之國的電話蟲，體積較小，殼呈現柱狀，可隨身攜帶的智慧田螺。</p></td>
+<td><p><strong>智慧田螺/智能螺</strong></p></td>
+<td><p>和之國的電話蟲，體積較小，殼呈現柱狀，可隨身攜帶的智慧田螺。各個地區的智慧田螺發送念波至別處前，須透過各鄉僅有一隻的較大型「帶頭大螺」傳送念波，缺點是信號過弱，只要「帶頭大螺」被屏蔽便會影響整個地區的通訊。</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -1870,12 +1870,16 @@ PIECE世界中所有人類](../Page/ONE_PIECE.md "wikilink")（在動畫原創�
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE角色列表#納格利" title="wikilink">納格利</a>（動畫原創）</p></td>
 <td><p>「納格利海賊團」船長</p></td>
 </tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE_STAMPEDE#道格拉斯·巴雷特" title="wikilink">道格拉斯·巴雷特</a></p></td>
+<td><p>羅傑海賊團成員</p></td>
+</tr>
 </tbody>
 </table>
 
 ### 六式
 
-為一種體技，為超越人類體能極限的超人體術，能用人體就與武器匹敵。[世界政府直屬秘密間諜機關的CP](../Page/世界政府直屬秘密間諜機關.md "wikilink")9和CP0成員都必須具備六式技能，雖然要經過嚴格的鍛鍊才能習得，但其中也有少數人僅看過一次就能抓到訣竅。除CP9和CP0以外，海賊與海軍之中也有部分人物會使用其中招式。
+為六種體技的合稱\[13\]，為超越人類體能極限的超人體術，能用人體就與武器匹敵。[世界政府直屬秘密間諜機關的CP](../Page/世界政府直屬秘密間諜機關.md "wikilink")9和CP0成員都必須具備六式技能，雖然要經過嚴格的鍛鍊才能習得，但其中也有少數人僅看過一次就能抓到訣竅。除CP9和CP0以外，海賊與海軍之中也有部分人物會使用其中招式。
 
 <table>
 <colgroup>
@@ -1891,10 +1895,7 @@ PIECE世界中所有人類](../Page/ONE_PIECE.md "wikilink")（在動畫原創�
 <tbody>
 <tr class="odd">
 <td></td>
-<td><p>手指以超高速進行刺擊，威力媲美子彈，可以貫穿人體，也有隔空利用指頭彈射空氣彈刺擊對手「飛指槍」。</p>
-<ul>
-<li>除CP9和CP0以外同樣會使用此技能的人物有<a href="https://zh.wikipedia.org/wiki/海軍_(ONE_PIECE)#達爾梅西亞" title="wikilink">達爾梅西亞</a>、<a href="https://zh.wikipedia.org/wiki/唐吉訶德海賊團#威爾可" title="wikilink">威爾可</a>、<a href="https://zh.wikipedia.org/wiki/航海王電影：Z#修藏" title="wikilink">修藏</a>。</li>
-</ul></td>
+<td><p>手指以超高速進行刺擊，威力媲美子彈，可以貫穿人體，也有隔空利用指頭彈射空氣彈刺擊對手「飛指槍」。</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -1902,31 +1903,19 @@ PIECE世界中所有人類](../Page/ONE_PIECE.md "wikilink")（在動畫原創�
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>連續踢地面數十次產生強力反彈力來做高速移動。雙足高速踏步所做成的反作用力，使移動的速度提高，從敵人眼前看來簡直就像消失一般。</p>
-<ul>
-<li>除CP9之外同樣擁有此技能的人物有<a href="https://zh.wikipedia.org/wiki/魯夫" title="wikilink">魯夫</a>、<a href="https://zh.wikipedia.org/wiki/香吉士" title="wikilink">香吉士</a>、<a href="https://zh.wikipedia.org/wiki/海軍_(ONE_PIECE)#克比" title="wikilink">克比</a>、達爾梅西亞、<a href="https://zh.wikipedia.org/wiki/海軍_(ONE_PIECE)#達絲琪" title="wikilink">達絲琪</a>、威爾可、<a href="https://zh.wikipedia.org/wiki/海軍_(ONE_PIECE)#飛鼠" title="wikilink">飛鼠</a>、<a href="https://zh.wikipedia.org/wiki/ONE_PIECE_“3D2Y”_跨越艾斯之死!_魯夫與夥伴的誓言#瓦爾德海賊團" title="wikilink">邦迪·瓦爾德</a>、<a href="https://zh.wikipedia.org/wiki/BIG_MOM海賊團#夏洛特·卡巴雷塔" title="wikilink">夏洛特·卡巴雷塔</a>。</li>
-</ul></td>
+<td><p>連續踢地面數十次產生強力反彈力來做高速移動。雙足高速踏步所做成的反作用力，使移動的速度提高，從敵人眼前看來簡直就像消失一般。</p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p>擁有極強的滯空力，可以像踩樓梯般在空中行走，但無法在空中停留太久。</p>
-<ul>
-<li>除CP9之外同樣擁有此技能的人物有香吉士、威爾可、飛鼠、<a href="https://zh.wikipedia.org/wiki/BIG_MOM海賊團#夏洛特·雷桑" title="wikilink">夏洛特·雷桑</a>、<a href="https://zh.wikipedia.org/wiki/BIG_MOM海賊團#夏洛特·尤恩" title="wikilink">夏洛特·尤恩</a>、<a href="https://zh.wikipedia.org/wiki/BIG_MOM海賊團#夏洛特家族" title="wikilink">夏洛特十胞胎</a>、瓦爾德、<a href="https://zh.wikipedia.org/wiki/航海王電影：Z#修藏" title="wikilink">修藏</a>。</li>
-</ul></td>
+<td><p>擁有極強的滯空力，可以像踩樓梯般在空中行走，但無法在空中停留太久。</p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>讓身體變的跟鐵一樣硬，用來進行防禦，甚至可以延伸出攻擊招式，原理和打牆壁會痛一樣。美中不足的是使用鐵塊時無法自由移動，但是原CP9的賈布拉能夠全身發動鐵塊且自由移動施展特有的「鐵塊拳法」作戰。</p>
-<ul>
-<li>除CP9之外同樣擁有此技能的人物有威爾可、修藏。</li>
-</ul></td>
+<td><p>讓身體變的跟鐵一樣硬，用來進行防禦，甚至可以延伸出攻擊招式，原理和打牆壁會痛一樣。美中不足的是使用鐵塊時無法自由移動，但是原CP9的賈布拉能夠全身發動鐵塊且自由移動施展特有的「鐵塊拳法」作戰。</p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p>有如被風吹到的紙一般，順著敵方的攻勢來躲避攻擊。</p>
-<ul>
-<li>除CP9之外同樣擁有此技能的人物有威爾可。</li>
-</ul></td>
+<td><p>有如被風吹到的紙一般，順著敵方的攻勢來躲避攻擊。</p></td>
 </tr>
 <tr class="odd">
 <td><p>{{nihongo|<strong>六式奧義 六王槍</strong></p></td>
@@ -1945,13 +1934,7 @@ PIECE世界中所有人類](../Page/ONE_PIECE.md "wikilink")（在動畫原創�
 
 ### 生命歸還
 
-是可以自由的控制身體、頭髮、內臟，只要把意識灌進去後，就可以自由控制任何地方。
-
-  -
-<!-- end list -->
-
-  -
-    路基應用在人獸型態的特殊技能，將全身變的跟人型一樣，雖然攻擊力會降低，但相對地提升動作速度。
+是可以自由的控制身體、頭髮、內臟，只要把意識灌進去後，就可以自由控制任何地方。會有使用的有[羅布·路基和](https://zh.wikipedia.org/wiki/世界政府直屬秘密間諜機關#羅布·路基 "wikilink")[偎取以及](https://zh.wikipedia.org/wiki/世界政府直屬秘密間諜機關#偎取 "wikilink")[鬼蜘蛛](https://zh.wikipedia.org/wiki/海軍_\(ONE_PIECE\)#鬼蜘蛛 "wikilink")。
 
 ### 魚人武術
 
@@ -2099,9 +2082,9 @@ PIECE世界中所有人類](../Page/ONE_PIECE.md "wikilink")（在動畫原創�
 | **長漩渦**                   | 長環長島的長海角旁，長瑚礁地帶內存在的旋渦。在它附近一帶高速猛烈的卷成漩渦的激流。深不見底巨大的漩渦把人卷進海底。                                                                                                                       |
 | **水之諸神（Aqua Ragnarok）**   | 又稱阿庫拉·拉格娜，規模相當大的海嘯，每年一度光臨[水之七島](../Page/水之七島.md "wikilink")，海嘯過後，屋頂上便會佈滿大量海鹽，味道比一般鹽還濃郁，在煮食中放下少量海鹽更顯得食材美味可口。名稱由來取自[諸神的黃昏](../Page/諸神的黃昏.md "wikilink")（Ragnarök）。                |
 | **南之風**                   | 從南方吹來，引起風浪的強風，是水之諸神到來的徵兆。                                                                                                                                                       |
-| **糖果雨**                   | 動畫原創，從空中降下糖果。另在漫畫845話出現降下糖水。                                                                                                                                                    |
+| **糖果雨**                   | 動畫原創，從空中降下糖果。漫畫845話則有降下糖水。                                                                                                                                                      |
 | **圓彩虹**                   | 在半空所形成的圓形彩虹。                                                                                                                                                                    |
-| **遊蛇海流**                  | 在偉大航道上的特殊海流海浪。                                                                                                                                                                  |
+| **遊蛇海流**                  | 在偉大航道上特殊海流的海浪。                                                                                                                                                                  |
 | **白龍（ホワイトストローム）**         | 如同一條巨龍般在海底出現的白色巨大漩渦，據羅賓所述，被白龍捲入的船隻數日都後會在遙遠的海域突然出現，但船上卻都已經空無一人。                                                                                                                  |
 | **海阪**                    | 猶如坡道般傾斜的海域，凡是行經此處的船隻，移動速度都會變得更快。根據[托拉法爾加·D·瓦特爾·羅的說法](../Page/托拉法爾加·D·瓦特爾·羅.md "wikilink")，海坡在新世界很常見。                                                                            |
 | **棉花糖雪**                  | 從空中的甜甜雲降下棉花糖的雪片。                                                                                                                                                                |
@@ -2116,7 +2099,7 @@ PIECE世界中所有人類](../Page/ONE_PIECE.md "wikilink")（在動畫原創�
 <!-- end list -->
 
   -
-    泛指所有同意歸順於世界政府的統治，接受世界政府發布法條的國家（島嶼）。加盟國每年必須繳交貢獻給天龍人的「天上金」以交換世界政府的權勢保護，部分加盟國擁有參與世界會議的權力。繳不出「天上金」的國家與非世界政府加盟國則多會淪為海賊與人口販子橫行的不法地帶，嚴重者甚至會招致亡國\[13\]。退出加盟國的國家，會失去參加世界會議的資格。
+    泛指所有同意歸順於世界政府的統治，接受世界政府發布法條的國家（島嶼）。加盟國每年必須繳交貢獻給天龍人的「天上金」以交換世界政府的權勢保護，部分加盟國擁有參與世界會議的權力。繳不出「天上金」的國家與非世界政府加盟國則多會淪為海賊與人口販子橫行的不法地帶，嚴重者甚至會招致亡國\[14\]。退出加盟國的國家，會失去參加世界會議的資格。
 
 <!-- end list -->
 
@@ -2204,7 +2187,7 @@ ALIVE**（必需活捉）」的懸賞者。
 <em>職位</em></p></th>
 <th><p>懸賞金（<a href="https://zh.wikipedia.org/wiki/File:Berrysymbol.gif" title="fig:File:Berrysymbol.gif"><a href="File:Berrysymbol.gif">File:Berrysymbol.gif</a></a>貝里）</p></th>
 <th><p>惡魔果實<br />
-技能</p></th>
+能力</p></th>
 <th><p>width=|備註</p></th>
 </tr>
 </thead>
@@ -2226,7 +2209,7 @@ ALIVE**（必需活捉）」的懸賞者。
 <em>船長</em></p></td>
 <td><p>15億</p></td>
 <td><p>橡膠果實</p></td>
-<td><p>本作主角，最惡世代之一、第五位海上皇帝</p></td>
+<td><p>本作主角，兩年前超新星、第五位海上皇帝</p></td>
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
@@ -2234,8 +2217,8 @@ ALIVE**（必需活捉）」的懸賞者。
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#百獸海賊團" title="wikilink">百獸海賊團</a><br />
 <em>「三災禍之疫禍」大看板</em></p></td>
 <td><p>13億2,000萬</p></td>
-<td><p>未知</p></td>
-<td><p>—</p></td>
+<td><p>龍龍果實</p></td>
+<td><p>動物系古代種腕龍型態</p></td>
 </tr>
 <tr class="even">
 <td><p>4</p></td>
@@ -2404,7 +2387,7 @@ ALIVE**（必需活捉）」的懸賞者。
 <td><p>20</p></td>
 <td><p><a href="../Page/唐吉訶德·多佛朗明哥.md" title="wikilink">「天夜叉」<br />
 唐吉訶德·多佛朗明哥</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/唐吉訶德·多佛朗明哥#部下" title="wikilink"><s>唐吉訶德家族</s></a>（被捕）<br />
+<td><p><s><a href="../Page/唐吉訶德海賊團.md" title="wikilink">唐吉訶德海賊團</a></s>（被捕）<br />
 <em>船長</em></p></td>
 <td><p>3億4,000萬<br />
 （任命為七武海前）</p></td>
@@ -2460,7 +2443,7 @@ ALIVE**（必需活捉）」的懸賞者。
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/月光·摩利亞.md" title="wikilink">月光·摩利亞</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/月光·摩利亞#恐怖三桅帆船" title="wikilink"><s>恐怖三桅帆船</s></a>（已滅）<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#恐怖三桅帆船" title="wikilink"><s>恐怖三桅帆船</s></a>（已滅）<br />
 <em>船長</em></p></td>
 <td><p>影子果實</p></td>
 <td><p>前任王下七武海</p></td>
@@ -2471,7 +2454,7 @@ ALIVE**（必需活捉）」的懸賞者。
 <td><p>23</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE角色列表#凱薩·克勞恩" title="wikilink">「Master」M·凱薩·克勞恩</a></p></td>
 <td><p>無<br />
-（曾為<a href="https://zh.wikipedia.org/wiki/唐吉訶德·多佛朗明哥#部下" title="wikilink">唐吉訶德家族</a>、<a href="../Page/BIG_MOM海賊團.md" title="wikilink">BIG MOM海賊團辦事</a>）</p></td>
+（曾為<a href="https://zh.wikipedia.org/wiki/唐吉訶德家族" title="wikilink">唐吉訶德家族</a>、<a href="../Page/BIG_MOM海賊團.md" title="wikilink">BIG MOM海賊團辦事</a>）</p></td>
 <td><p>3億</p></td>
 <td><p>瓦斯果實</p></td>
 <td><p>前任世界政府的科學家</p></td>
@@ -2479,7 +2462,7 @@ ALIVE**（必需活捉）」的懸賞者。
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#卡波涅·培基" title="wikilink">「流氓」卡波涅·培基</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#火戰車海賊團" title="wikilink">火戰車海賊團</a><br />
-（曾隸屬<a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#BIG_MOM海賊團" title="wikilink">BIG MOM海賊團</a>）<br />
+（曾隸屬<a href="../Page/BIG_MOM海賊團.md" title="wikilink">BIG MOM海賊團</a>）<br />
 <em>船長</em></p></td>
 <td><p>堅城果實</p></td>
 <td><p>兩年前超新星</p></td>
@@ -2501,11 +2484,11 @@ ALIVE**（必需活捉）」的懸賞者。
 <td><p>25</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#費雪·泰格" title="wikilink">費雪·泰格</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#太陽海賊團（魚人海賊團）" title="wikilink">太陽海賊團</a><br />
-<em>前任船長</em>(已故)</p></td>
+<em>前任船長</em></p></td>
 <td><p>2億3,000萬<br />
-</p></td>
+（已故）</p></td>
 <td><p>無</p></td>
-<td><p>鯛魚人、已故</p></td>
+<td><p>鯛魚魚人、曾是天龍人的奴隸</p></td>
 </tr>
 <tr class="even">
 <td><p>26</p></td>
@@ -2537,6 +2520,16 @@ ALIVE**（必需活捉）」的懸賞者。
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#雜菜" title="wikilink">雜菜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#八寶水軍" title="wikilink">八寶水軍</a><br />
+（隸屬<a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#草帽大船團" title="wikilink">草帽大船團</a>）<br />
+<em>第13代棟樑</em></p></td>
+<td><p>無</p></td>
+<td><p>青椒家族的成員，青椒之孫。</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>28</p></td>
 <td><p><a href="../Page/騙人布.md" title="wikilink">「GOD」騙人布</a></p></td>
 <td><p><s>騙人布海賊團</s>（已解散）<br />
@@ -2546,7 +2539,7 @@ ALIVE**（必需活捉）」的懸賞者。
 <td><p>無</p></td>
 <td><p>兩年前以「狙擊王」名義被懸賞3,000萬貝里</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#巴特洛馬" title="wikilink">「食人鬼」巴特洛馬</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#巴特俱樂部" title="wikilink">巴特俱樂部</a><br />
 （隸屬<a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#草帽大船團" title="wikilink">草帽大船團</a>）<br />
@@ -2556,7 +2549,7 @@ ALIVE**（必需活捉）」的懸賞者。
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#奇拉" title="wikilink">「殺戮武士」奇拉</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#基德海賊團" title="wikilink">基德海賊團</a><br />
 <em>副船長</em></p></td>
@@ -2565,17 +2558,17 @@ ALIVE**（必需活捉）」的懸賞者。
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>29</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#貝拉密" title="wikilink">「鬣狗」貝拉密</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#貝拉密海賊團" title="wikilink"><s>貝拉密海賊團</s></a>（曾隸屬<a href="https://zh.wikipedia.org/wiki/唐吉訶德·多佛朗明哥#部下" title="wikilink">唐吉訶德家族</a>）<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#貝拉密海賊團" title="wikilink"><s>貝拉密海賊團</s></a>（曾隸屬<a href="https://zh.wikipedia.org/wiki/唐吉訶德家族" title="wikilink">唐吉訶德家族</a>）<br />
 <em>船長</em></p></td>
 <td><p>1億9,500萬</p></td>
 <td><p>彈簧果實</p></td>
 <td><p>前<a href="../Page/唐吉訶德·多佛朗明哥.md" title="wikilink">「天夜叉」<br />
 唐吉訶德·多佛朗明哥旗下的海賊團之一</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>30</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#柯列佛" title="wikilink">「噴血」柯列佛</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#格列佛海賊團" title="wikilink">格列佛海賊團</a></p></td>
@@ -2583,8 +2576,18 @@ ALIVE**（必需活捉）」的懸賞者。
 <td><p>無</p></td>
 <td><p>超新星</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>31</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#歐隆拜斯" title="wikilink">「殺戮支配者」歐隆拜斯</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#四塔瑪利亞大船團" title="wikilink">四塔瑪利亞大船團</a><br />
+（隸屬<a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#草帽大船團" title="wikilink">草帽大船團</a>）<br />
+<em>提督</em></p></td>
+<td><p>1億4,800萬</p></td>
+<td><p>無</p></td>
+<td><p>—</p></td>
+</tr>
+<tr class="even">
+<td><p>32</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#珠寶·波妮" title="wikilink">「大胃王」珠寶·波妮</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#波妮海賊團" title="wikilink">波妮海賊團</a><br />
 <em>船長</em></p></td>
@@ -2593,7 +2596,7 @@ ALIVE**（必需活捉）」的懸賞者。
 <td><p>兩年前超新星</p></td>
 </tr>
 <tr class="odd">
-<td><p>32</p></td>
+<td><p>33</p></td>
 <td><p><a href="../Page/妮可·羅賓.md" title="wikilink">「惡魔之子」妮可·羅賓</a></p></td>
 <td><p><s><a href="../Page/巴洛克華克.md" title="wikilink">巴洛克華克</a></s><br />
 <em>副社長</em>（已解散）<br />
@@ -2604,7 +2607,7 @@ ALIVE**（必需活捉）」的懸賞者。
 <td><p>考古學之島「<a href="https://zh.wikipedia.org/wiki/ONE_PIECE用語列表#西海·南海·北海" title="wikilink">歐哈拉</a>」的倖存者</p></td>
 </tr>
 <tr class="even">
-<td><p>33</p></td>
+<td><p>34</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#烏魯基" title="wikilink">「怪僧」烏魯基</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#破戒僧海賊團" title="wikilink">破戒僧海賊團</a><br />
 <em>船長</em></p></td>
@@ -2613,7 +2616,7 @@ ALIVE**（必需活捉）」的懸賞者。
 <td><p>空島出身、兩年前超新星</p></td>
 </tr>
 <tr class="odd">
-<td><p>34</p></td>
+<td><p>35</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/BIG_MOM海賊團#波比" title="wikilink">「討債者」波比</a></p></td>
 <td><p><a href="../Page/BIG_MOM海賊團.md" title="wikilink">BIG MOM海賊團</a><br />
 <em>戰鬥員</em>「<a href="../Page/主教.md" title="wikilink">主教</a>」</p></td>
@@ -2622,7 +2625,7 @@ ALIVE**（必需活捉）」的懸賞者。
 <td><p>—</p></td>
 </tr>
 <tr class="even">
-<td><p>35</p></td>
+<td><p>36</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#東利&amp;布洛基" title="wikilink">「青鬼」東利</a></p></td>
 <td><p><s><a href="https://zh.wikipedia.org/wiki/海賊_(ONE_PIECE)#巨兵海賊團" title="wikilink">巨兵海賊團</a></s>（已解散）</p></td>
 <td><p>1億</p></td>
@@ -2638,9 +2641,9 @@ ALIVE**（必需活捉）」的懸賞者。
 <td></td>
 </tr>
 <tr class="even">
-<td><p>36</p></td>
+<td><p>37</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/唐吉訶德海賊團#皮卡" title="wikilink">皮卡</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/唐吉訶德·多佛朗明哥#部下" title="wikilink"><s>唐吉訶德家族</s></a><em>最高幹部</em>（被捕）<br />
+<td><p><s><a href="../Page/唐吉訶德海賊團.md" title="wikilink">唐吉訶德海賊團</a></s><em>最高幹部</em>（被捕）<br />
 </p></td>
 <td><p>9,900萬</p></td>
 <td><p>岩石果實</p></td>
@@ -2648,7 +2651,7 @@ ALIVE**（必需活捉）」的懸賞者。
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/唐吉訶德海賊團#帝雅曼鐵" title="wikilink">帝雅曼鐵</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/唐吉訶德·多佛朗明哥#部下" title="wikilink"><s>唐吉訶德家族</s></a><em>最高幹部</em>（被捕）<br />
+<td><p><s><a href="../Page/唐吉訶德海賊團.md" title="wikilink">唐吉訶德海賊團</a></s><em>最高幹部</em>（被捕）<br />
 </p></td>
 <td><p>飄揚果實</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/唐吉訶德家族" title="wikilink">唐吉訶德家族最高幹部</a>，統領格鬥集團的帝雅曼鐵軍，代號「方塊」。</p></td>
@@ -2657,7 +2660,7 @@ ALIVE**（必需活捉）」的懸賞者。
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/唐吉訶德海賊團#托雷波爾" title="wikilink">托雷波爾</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/唐吉訶德·多佛朗明哥#部下" title="wikilink"><s>唐吉訶德家族</s></a><em>最高幹部</em>（被捕）<br />
+<td><p><s><a href="../Page/唐吉訶德海賊團.md" title="wikilink">唐吉訶德海賊團</a></s><em>最高幹部</em>（被捕）<br />
 </p></td>
 <td><p>黏黏果實</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/唐吉訶德家族" title="wikilink">唐吉訶德家族最高幹部</a>，統領特殊能力隊伍的托雷波爾軍，代號「梅花」。</p></td>
@@ -2665,7 +2668,7 @@ ALIVE**（必需活捉）」的懸賞者。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>37</p></td>
+<td><p>38</p></td>
 <td><p><a href="../Page/佛朗基.md" title="wikilink">「鐵人」佛朗基</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#草帽海賊團" title="wikilink">草帽海賊團</a><br />
 <em>船匠</em></p></td>
@@ -2682,7 +2685,7 @@ ALIVE**（必需活捉）」的懸賞者。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>38</p></td>
+<td><p>39</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#其他海賊" title="wikilink">「重傷」艾爾比歐</a></p></td>
 <td><p>未知</p></td>
 <td><p>9,200萬</p></td>
@@ -2690,7 +2693,7 @@ ALIVE**（必需活捉）」的懸賞者。
 <td><p>—</p></td>
 </tr>
 <tr class="even">
-<td><p>39</p></td>
+<td><p>40</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#其他海賊" title="wikilink">「服務生」利普·多提</a></p></td>
 <td><p>未知</p></td>
 <td><p>8,800萬</p></td>
@@ -2698,7 +2701,7 @@ ALIVE**（必需活捉）」的懸賞者。
 <td><p>—</p></td>
 </tr>
 <tr class="odd">
-<td><p>40</p></td>
+<td><p>41</p></td>
 <td><p><a href="../Page/布魯克_(ONE_PIECE).md" title="wikilink">「靈魂之王」布魯克</a></p></td>
 <td><p><s><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#倫巴海賊團" title="wikilink">倫巴海賊團</a></s><br />
 <em>代理船長</em>（50年前已滅）<br />
@@ -2709,17 +2712,17 @@ ALIVE**（必需活捉）」的懸賞者。
 <td><p>因能力復活時隔太久所以只剩骷髏，跟懸賞單上有差異</p></td>
 </tr>
 <tr class="even">
-<td><p>41</p></td>
+<td><p>42</p></td>
 <td><p><a href="../Page/克洛克達爾.md" title="wikilink">「Mr.0」沙·克洛克達爾</a></p></td>
 <td><p><s><a href="../Page/巴洛克華克.md" title="wikilink">巴洛克華克</a></s>（已解散）<br />
 <em>社長</em></p></td>
 <td><p>8,100萬<br />
 （任命為七武海前）</p></td>
-<td><p>沙礫果實</p></td>
+<td><p>沙沙果實</p></td>
 <td><p>前任王下七武海，作者指若依其實力去定賞金應該會比8,100萬多上好幾倍</p></td>
 </tr>
 <tr class="odd">
-<td><p>42</p></td>
+<td><p>43</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE角色列表#褐鬍子" title="wikilink">褐鬍子</a></p></td>
 <td><p><s>褐鬍子海賊團</s>（已滅）<br />
 <em>船長</em></p></td>
@@ -2728,7 +2731,7 @@ ALIVE**（必需活捉）」的懸賞者。
 <td><p>原褐鬍子海賊團船長，被霍金斯打敗，全部船員失去雙腳，被改造成-{鱷魚}-半人馬、自願被海軍逮捕</p></td>
 </tr>
 <tr class="even">
-<td><p>43</p></td>
+<td><p>44</p></td>
 <td><p><a href="../Page/波雅·漢考克.md" title="wikilink">「海賊女帝」波雅·漢考克</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#九蛇海賊團" title="wikilink">九蛇海賊團</a><br />
 <em>船長</em></p></td>
@@ -2738,16 +2741,16 @@ ALIVE**（必需活捉）」的懸賞者。
 <td><p><a href="../Page/亞馬遜百合_(ONE_PIECE).md" title="wikilink">亞馬遜百合皇帝</a>、現王下七武海、曾為天龍人奴隸</p></td>
 </tr>
 <tr class="odd">
-<td><p>44</p></td>
+<td><p>45</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE角色列表#妮可·歐爾比雅" title="wikilink">妮可·歐爾比雅</a></p></td>
-<td><p>—</p></td>
+<td><p>無</p></td>
 <td><p>7,900萬<br />
 （已故）</p></td>
 <td><p>無</p></td>
 <td><p><a href="../Page/妮可·羅賓.md" title="wikilink">妮可·羅賓的母親</a>，歐哈拉的考古學家，後來在拯救考古書籍時燒死在「全知大樹」之中。</p></td>
 </tr>
 <tr class="even">
-<td><p>45</p></td>
+<td><p>46</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/巴洛克華克#達兹·波涅士" title="wikilink">「Mr.1」達兹·波涅士</a></p></td>
 <td><p><s><a href="../Page/巴洛克華克.md" title="wikilink">巴洛克華克</a></s>（已解散）</p></td>
 <td><p>7,500萬<br />
@@ -2756,16 +2759,17 @@ ALIVE**（必需活捉）」的懸賞者。
 <td><p>前<a href="../Page/巴洛克華克.md" title="wikilink">巴洛克華克高級特務</a>、「頂點戰爭」過後接受<a href="../Page/克洛克達爾.md" title="wikilink">「Mr.0」沙·克洛克達爾的邀約而前往新世界</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>46</p></td>
+<td><p>47</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#其他海賊" title="wikilink">「蟹手」甲羅</a></p></td>
-<td><p><s>甲羅海賊團</s>（已滅）</p></td>
+<td><p><s>甲羅海賊團</s>（已滅）<br />
+<em>船長</em></p></td>
 <td><p>7,300萬<br />
 （已故）</p></td>
 <td><p>無</p></td>
-<td><p>甲羅海賊團船長、被荷帝·瓊斯咬死</p></td>
+<td><p>原甲羅海賊團船長、被荷帝·瓊斯咬死</p></td>
 </tr>
 <tr class="even">
-<td><p>47</p></td>
+<td><p>48</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#毒Q" title="wikilink">「死神」毒Q</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#黑鬍子海賊團" title="wikilink">黑鬍子海賊團</a><br />
 <em>九號船船長兼船醫</em></p></td>
@@ -2774,7 +2778,7 @@ ALIVE**（必需活捉）」的懸賞者。
 <td><p>—</p></td>
 </tr>
 <tr class="odd">
-<td><p>48</p></td>
+<td><p>49</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#甘比亞" title="wikilink">「傳教士」甘比亞</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#巴特俱樂部" title="wikilink">巴特俱樂部</a><br />
 （隸屬<a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#草帽大船團" title="wikilink">草帽大船團</a>）<br />
@@ -2784,7 +2788,17 @@ ALIVE**（必需活捉）」的懸賞者。
 <td><p>—</p></td>
 </tr>
 <tr class="even">
-<td><p>49</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#蘇萊曼" title="wikilink">「斬首者」蘇萊曼</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#俊美海賊團" title="wikilink">俊美海賊團</a><br />
+（隸屬<a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#草帽大船團" title="wikilink">草帽大船團</a>）<br />
+<em>戰鬥員</em></p></td>
+<td><p>無</p></td>
+<td><p>—</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>50</p></td>
 <td><p><a href="../Page/娜美.md" title="wikilink">「小偷貓」娜美</a></p></td>
 <td><p><s><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#魚人海賊團・惡龍一行人" title="wikilink">惡龍海賊團</a></s>（已滅）<br />
 →<a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#草帽海賊團" title="wikilink">草帽海賊團</a><br />
@@ -2793,8 +2807,8 @@ ALIVE**（必需活捉）」的懸賞者。
 <td><p>無</p></td>
 <td><p>—</p></td>
 </tr>
-<tr class="odd">
-<td><p>50</p></td>
+<tr class="even">
+<td><p>51</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#范·歐葛" title="wikilink">「超音速」范·歐葛</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#黑鬍子海賊團" title="wikilink">黑鬍子海賊團</a><br />
 <em>三號船船長兼狙擊手</em></p></td>
@@ -2802,17 +2816,17 @@ ALIVE**（必需活捉）」的懸賞者。
 <td><p>無</p></td>
 <td><p>—</p></td>
 </tr>
-<tr class="even">
-<td><p>51</p></td>
+<tr class="odd">
+<td><p>52</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/唐吉訶德海賊團#拉歐·G" title="wikilink">拉歐·G</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/唐吉訶德·多佛朗明哥#部下" title="wikilink"><s>唐吉訶德家族</s></a>（被捕）<br />
+<td><p><s><a href="../Page/唐吉訶德海賊團.md" title="wikilink">唐吉訶德海賊團</a></s>（被捕）<br />
 </p></td>
 <td><p>6,100萬</p></td>
 <td><p>無</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/唐吉訶德家族" title="wikilink">唐吉訶德家族的幹部</a>，隸屬帝雅曼鐵軍的格鬥部隊。</p></td>
 </tr>
-<tr class="odd">
-<td><p>52</p></td>
+<tr class="even">
+<td><p>53</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#迪亞斯" title="wikilink">「惡魔人」迪亞斯</a></p></td>
 <td><p><s>惡魔人海賊團</s></p></td>
 <td><p>6,000萬<br />
@@ -2820,17 +2834,26 @@ ALIVE**（必需活捉）」的懸賞者。
 <td><p>無</p></td>
 <td><p>惡魔人海賊團船長、天龍人奴隸，被天龍人虐待後被海軍帶走</p></td>
 </tr>
-<tr class="even">
-<td><p>53</p></td>
+<tr class="odd">
+<td><p>54</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/唐吉訶德海賊團#粉紅·先生" title="wikilink">塞尼奧爾·皮克</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/唐吉訶德·多佛朗明哥#部下" title="wikilink"><s>唐吉訶德家族</s></a>（被捕）<br />
+<td><p><s><a href="../Page/唐吉訶德海賊團.md" title="wikilink">唐吉訶德海賊團</a></s>（被捕）<br />
 </p></td>
 <td><p>5,800萬</p></td>
 <td><p>游游果實</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/唐吉訶德家族" title="wikilink">唐吉訶德家族的幹部</a>，隸屬帝雅曼鐵軍的格鬥部隊。</p></td>
 </tr>
+<tr class="even">
+<td><p>55</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/多雷斯羅薩#凱利·放克" title="wikilink">凱利·放克</a></p></td>
+<td><p>無</p></td>
+<td><p>5,700萬<br />
+</p></td>
+<td><p>夾克果實</p></td>
+<td><p>摩伽羅王國的殺手</p></td>
+</tr>
 <tr class="odd">
-<td><p>54</p></td>
+<td><p>56</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#桃鬍子" title="wikilink">「桃鬍子」</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#桃鬍子海賊團" title="wikilink">桃鬍子海賊團</a><br />
 船長</p></td>
@@ -2840,7 +2863,7 @@ ALIVE**（必需活捉）」的懸賞者。
 <td><p>黑鬍子海賊團旗下海賊、桃鬍子海賊團船長，被革命軍的軍隊長們幫助露露西亞王國的人民給擊敗</p></td>
 </tr>
 <tr class="even">
-<td><p>55</p></td>
+<td><p>57</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#拉菲特" title="wikilink">「魔鬼巡警」拉菲特</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#黑鬍子海賊團" title="wikilink">黑鬍子海賊團</a><br />
 <em>五號船船長兼航海士</em></p></td>
@@ -2849,18 +2872,19 @@ ALIVE**（必需活捉）」的懸賞者。
 <td><p>—</p></td>
 </tr>
 <tr class="odd">
-<td><p>56</p></td>
+<td><p>58</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#羅西歐" title="wikilink">「處刑人」羅西歐</a></p></td>
-<td><p><s>羅西歐海賊團</s></p></td>
+<td><p><s>羅西歐海賊團</s><br />
+<em>船長</em></p></td>
 <td><p>4,200萬<br />
 （已故）</p></td>
 <td><p>無</p></td>
 <td><p>原羅西歐海賊團船長、因出老千被貝拉密殺死</p></td>
 </tr>
 <tr class="even">
-<td><p>57</p></td>
+<td><p>59</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/亞馬遜百合_(ONE_PIECE)#波雅·桑塔索妮雅" title="wikilink">波雅·桑塔索妮雅</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#九蛇海賊團" title="wikilink">九蛇海賊團</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/亞馬遜百合_(ONE_PIECE)#九蛇海賊團" title="wikilink">九蛇海賊團</a><br />
 <em>戰鬥員</em></p></td>
 <td><p>4,000萬<br />
 （暫時終止）</p></td>
@@ -2869,7 +2893,7 @@ ALIVE**（必需活捉）」的懸賞者。
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/亞馬遜百合_(ONE_PIECE)#波雅·瑪莉哥德" title="wikilink">波雅·瑪莉哥德</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#九蛇海賊團" title="wikilink">九蛇海賊團</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/亞馬遜百合_(ONE_PIECE)#九蛇海賊團" title="wikilink">九蛇海賊團</a><br />
 <em>戰鬥員</em></p></td>
 <td><p>蛇蛇果實</p></td>
 <td><p>能變成眼鏡王蛇型態、曾為天龍人的奴隸</p></td>
@@ -2877,7 +2901,7 @@ ALIVE**（必需活捉）」的懸賞者。
 <td></td>
 </tr>
 <tr class="even">
-<td><p>58</p></td>
+<td><p>60</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#薩奇斯" title="wikilink">「大匕首」薩奇斯</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#貝拉密海賊團" title="wikilink"><s>貝拉密海賊團</s></a><br />
 （曾隸屬<a href="https://zh.wikipedia.org/wiki/唐吉訶德·多佛朗明哥#部下" title="wikilink">唐吉訶德家族</a>、已滅）</p></td>
@@ -2887,7 +2911,7 @@ ALIVE**（必需活捉）」的懸賞者。
 <td><p>原<a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#貝拉密海賊團" title="wikilink">貝拉密海賊團副船長</a>、推測已在前往空島途中死亡</p></td>
 </tr>
 <tr class="odd">
-<td><p>59</p></td>
+<td><p>61</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#猩猩" title="wikilink">「海底探索王」猩猩</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#猿山聯合軍" title="wikilink">猩猩海賊團</a><br />
 <em>船長</em></p></td>
@@ -2904,48 +2928,56 @@ ALIVE**（必需活捉）」的懸賞者。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>60</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/多雷斯羅薩#鮑比·放克" title="wikilink">鮑比·放克</a></p></td>
+<td><p>無</p></td>
+<td><p>無</p></td>
+<td><p>摩伽羅王國的殺手</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>62</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/巴洛克華克#波拉" title="wikilink">「Miss 雙手指」</a></p></td>
 <td><p><s><a href="../Page/巴洛克華克.md" title="wikilink">巴洛克華克</a></s>（已解散）</p></td>
 <td><p>3,500萬</p></td>
 <td><p>荊棘果實</p></td>
 <td><p>前<a href="../Page/巴洛克華克.md" title="wikilink">巴洛克華克高級特務</a>、在「Miss Golden Week」等人的幫助下成功逃獄</p></td>
 </tr>
-<tr class="even">
-<td><p>61</p></td>
+<tr class="odd">
+<td><p>63</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/巴洛克華克#馮·克雷" title="wikilink">「Mr.2」馮·克雷</a></p></td>
 <td><p><s><a href="../Page/巴洛克華克.md" title="wikilink">巴洛克華克</a></s>（已解散）</p></td>
 <td><p>3,200萬</p></td>
 <td><p>模仿果實</p></td>
 <td><p>前<a href="../Page/巴洛克華克.md" title="wikilink">巴洛克華克高級特務</a>、因救<a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#草帽海賊團" title="wikilink">草帽海賊團而被海軍逮捕</a>，後因頂點戰爭魯夫大鬧推進城而成為推進城Level 5.5「新人妖樂園」的「人妖王」</p></td>
 </tr>
-<tr class="odd">
-<td><p>62</p></td>
+<tr class="even">
+<td><p>64</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/唐吉訶德海賊團#古拉迪斯" title="wikilink">古拉迪斯</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/唐吉訶德·多佛朗明哥#部下" title="wikilink"><s>唐吉訶德家族</s></a>（被捕）<br />
+<td><p><s><a href="../Page/唐吉訶德海賊團.md" title="wikilink">唐吉訶德海賊團</a></s>（被捕）<br />
 </p></td>
 <td><p>3,100萬</p></td>
 <td><p>爆爆果實</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/唐吉訶德家族" title="wikilink">唐吉訶德家族的幹部</a>，隸屬皮卡軍的特攻部隊的殺手。</p></td>
 </tr>
-<tr class="even">
-<td><p>63</p></td>
+<tr class="odd">
+<td><p>65</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/巴洛克華克#瑪莉安" title="wikilink">Miss 黃金週</a></p></td>
 <td><p><s><a href="../Page/巴洛克華克.md" title="wikilink">巴洛克華克</a></s>（已解散）</p></td>
 <td><p>2,900萬</p></td>
 <td><p>無</p></td>
 <td><p>前<a href="../Page/巴洛克華克.md" title="wikilink">巴洛克華克高級特務</a>、在「Mr.2」的解救下成功逃脫</p></td>
 </tr>
-<tr class="odd">
-<td><p>64</p></td>
+<tr class="even">
+<td><p>66</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#戴馬羅·布拉克" title="wikilink">「油腔滑調」戴馬羅·布拉克</a></p></td>
 <td><p><s><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#冒牌草帽海賊團" title="wikilink">冒牌草帽海賊團</a></s>（已滅）</p></td>
 <td><p>2,600萬</p></td>
 <td><p>無</p></td>
 <td><p>冒牌草帽海賊團的帶頭人，冒充魯夫</p></td>
 </tr>
-<tr class="even">
-<td><p>65</p></td>
+<tr class="odd">
+<td><p>67</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#蒙布朗·庫利凱" title="wikilink">蒙布朗·庫利凱</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#猿山聯合軍" title="wikilink">猿山聯合軍</a><br />
 <em>最終團長</em></p></td>
@@ -2953,8 +2985,8 @@ ALIVE**（必需活捉）」的懸賞者。
 <td><p>無</p></td>
 <td><p>「大騙子諾蘭德」故事的主人翁蒙布朗·諾蘭德相隔400年的子孫</p></td>
 </tr>
-<tr class="odd">
-<td><p>66</p></td>
+<tr class="even">
+<td><p>68</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#弗克西" title="wikilink">「銀狐」弗克西</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#弗克西海賊團" title="wikilink">弗克西海賊團</a><br />
 <em>船長</em></p></td>
@@ -2962,8 +2994,8 @@ ALIVE**（必需活捉）」的懸賞者。
 <td><p>遲緩果實</p></td>
 <td><p>920場不敗傳說在經過和魯夫的決鬥後畫下句點，而作為在Davy Back Fight敗北的代價，銀狐海賊團還換上了魯夫親手繪製的難看海賊旗</p></td>
 </tr>
-<tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/巴洛克華克#本名加爾迪諾" title="wikilink">「Mr.3」加爾迪諾</a></p></td>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/巴洛克華克#加爾迪諾" title="wikilink">「Mr.3」加爾迪諾</a></p></td>
 <td><p><s><a href="../Page/巴洛克華克.md" title="wikilink">巴洛克華克</a></s>（已解散）<br />
 →<a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#海賊派遣公司（巴其速遞）" title="wikilink">巴其海賊團</a><br />
 </p></td>
@@ -2973,8 +3005,8 @@ ALIVE**（必需活捉）」的懸賞者。
 <td><p>前<a href="../Page/巴洛克華克.md" title="wikilink">巴洛克華克高級特務</a>、「頂點戰爭」過後跟隨「小丑」<a href="https://zh.wikipedia.org/wiki/巴其" title="wikilink">巴其一行人離開馬林福特</a>，並加入了巴其海賊團</p></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p>67</p></td>
+<tr class="even">
+<td><p>69</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#人猿" title="wikilink">「打撈王」人猿</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#猿山聯合軍" title="wikilink">人猿海賊團</a><br />
 <em>船長</em></p></td>
@@ -2982,15 +3014,15 @@ ALIVE**（必需活捉）」的懸賞者。
 <td><p>無</p></td>
 <td><p>—</p></td>
 </tr>
-<tr class="even">
-<td><p>68</p></td>
+<tr class="odd">
+<td><p>70</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#惡龍" title="wikilink">「鋸齒」惡龍</a></p></td>
 <td><p><s><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#魚人海賊團・惡龍一行人" title="wikilink">惡龍海賊團</a></s>（已滅）</p></td>
 <td><p>2,000萬</p></td>
 <td><p>無</p></td>
 <td><p>鋸齒鯊魚人、原<a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#魚人海賊團・惡龍一行人" title="wikilink">惡龍海賊團船長</a>，已被海軍收押</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#吉札士·伯吉斯" title="wikilink">吉札士·伯吉斯</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#黑鬍子海賊團" title="wikilink">黑鬍子海賊團</a><br />
 <em>一號船船長兼掌舵手</em></p></td>
@@ -2999,24 +3031,24 @@ ALIVE**（必需活捉）」的懸賞者。
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE角色列表#洛克" title="wikilink">洛克</a></p></td>
-<td><p>—</p></td>
+<td><p>無</p></td>
+<td><p>無</p></td>
+<td><p>謎之巨人族，凱薩僱用的傭兵</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE角色列表#史考基" title="wikilink">史考基</a></p></td>
+<td><p>無</p></td>
 <td><p>無</p></td>
 <td><p>謎之巨人族，凱薩僱用的傭兵</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE角色列表#史考基" title="wikilink">史考基</a></p></td>
-<td><p>—</p></td>
-<td><p>無</p></td>
-<td><p>謎之巨人族，凱薩僱用的傭兵</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>69</p></td>
+<td><p>71</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#克利克" title="wikilink">「提督」克利克</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#克利克海賊團" title="wikilink">克利克海賊團</a><br />
 <em>船長</em></p></td>
@@ -3024,7 +3056,7 @@ ALIVE**（必需活捉）」的懸賞者。
 <td><p>無</p></td>
 <td><p>—</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#拉裘巴" title="wikilink">「精明謀略家」拉裘巴</a></p></td>
 <td><p><s><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#拉裘巴海賊團" title="wikilink">拉裘巴海賊團</a></s></p></td>
 <td><p>無</p></td>
@@ -3032,8 +3064,8 @@ ALIVE**（必需活捉）」的懸賞者。
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p>70</p></td>
+<tr class="odd">
+<td><p>72</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#克洛" title="wikilink">「百計」克洛</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#黑貓海賊團" title="wikilink">黑貓海賊團</a><br />
 <em>船長</em></p></td>
@@ -3041,8 +3073,8 @@ ALIVE**（必需活捉）」的懸賞者。
 <td><p>無</p></td>
 <td><p>—</p></td>
 </tr>
-<tr class="odd">
-<td><p>71</p></td>
+<tr class="even">
+<td><p>73</p></td>
 <td><p><a href="../Page/巴其_(ONE_PIECE).md" title="wikilink">「千兩道化」巴其</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#海賊派遣公司（巴其速遞）" title="wikilink">巴其海賊團</a><br />
 <em>船長</em></p></td>
@@ -3051,25 +3083,25 @@ ALIVE**（必需活捉）」的懸賞者。
 <td><p>四分五裂果實</p></td>
 <td><p>現仼七武海、海賊派遣公司<a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#海賊派遣公司（巴其速遞）" title="wikilink">巴其速遞團長</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/唐吉訶德海賊團#德林傑" title="wikilink">德林傑</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/唐吉訶德·多佛朗明哥#部下" title="wikilink"><s>唐吉訶德家族</s></a>（被捕）<br />
+<td><p><s><a href="../Page/唐吉訶德海賊團.md" title="wikilink">唐吉訶德海賊團</a></s>（被捕）<br />
 </p></td>
 <td><p>1,500萬</p></td>
 <td><p>無</p></td>
 <td><p>鬥魚半魚人、<a href="https://zh.wikipedia.org/wiki/唐吉訶德家族" title="wikilink">唐吉訶德家族的幹部</a>，隸屬帝雅曼鐵軍的格鬥部隊。</p></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p>72</p></td>
+<tr class="even">
+<td><p>74</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/巴洛克華克#多蘿菲" title="wikilink">「Miss 聖誕節」</a></p></td>
 <td><p><s><a href="../Page/巴洛克華克.md" title="wikilink">巴洛克華克</a></s>（已解散）</p></td>
 <td><p>1,400萬</p></td>
 <td><p>鼴鼠果實</p></td>
 <td><p>前<a href="../Page/巴洛克華克.md" title="wikilink">巴洛克華克高級特務</a>、在「Miss Golden Week」一行人的幫助下成功逃獄</p></td>
 </tr>
-<tr class="even">
-<td><p>73</p></td>
+<tr class="odd">
+<td><p>75</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#阿金" title="wikilink">「鬼人」阿金</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#克利克海賊團" title="wikilink">克利克海賊團</a><br />
 <em>海賊艦隊戰鬥總隊長</em></p></td>
@@ -3077,25 +3109,25 @@ ALIVE**（必需活捉）」的懸賞者。
 <td><p>無</p></td>
 <td><p>—</p></td>
 </tr>
-<tr class="odd">
-<td><p>74</p></td>
+<tr class="even">
+<td><p>76</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/唐吉訶德海賊團#馬赫拜茲" title="wikilink">馬赫拜茲</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/唐吉訶德·多佛朗明哥#部下" title="wikilink"><s>唐吉訶德家族</s></a>（被捕）<br />
+<td><p><s><a href="../Page/唐吉訶德海賊團.md" title="wikilink">唐吉訶德海賊團</a></s>（被捕）<br />
 </p></td>
 <td><p>1,100萬</p></td>
 <td><p>噸壓果實</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/唐吉訶德家族" title="wikilink">唐吉訶德家族的幹部</a>，隸屬帝雅曼鐵軍的格鬥部隊。</p></td>
 </tr>
-<tr class="even">
-<td><p>75</p></td>
+<tr class="odd">
+<td><p>77</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/巴洛克華克#傑姆" title="wikilink">「Mr.5」傑姆</a></p></td>
 <td><p><s><a href="../Page/巴洛克華克.md" title="wikilink">巴洛克華克</a></s>（已解散）</p></td>
 <td><p>1,000萬</p></td>
 <td><p>炸彈果實</p></td>
 <td><p>前<a href="../Page/巴洛克華克.md" title="wikilink">巴洛克華克高級特務</a></p></td>
 </tr>
-<tr class="odd">
-<td><p>76</p></td>
+<tr class="even">
+<td><p>78</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/海軍_(ONE_PIECE)#傑克斯" title="wikilink">「催眠師」傑克斯</a></p></td>
 <td><p><s><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#黑貓海賊團" title="wikilink">黑貓海賊團</a></s>（已離開）</p></td>
 <td><p>900萬<br />
@@ -3103,7 +3135,7 @@ ALIVE**（必需活捉）」的懸賞者。
 <td><p>無</p></td>
 <td><p>原<a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#黑貓海賊團" title="wikilink">黑貓海賊團船長</a>、現海軍本部三等兵</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#克羅歐比" title="wikilink">克羅歐比</a></p></td>
 <td><p><s><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#魚人海賊團・惡龍一行人" title="wikilink">惡龍海賊團</a></s>（已滅）</p></td>
 <td><p>900萬</p></td>
@@ -3111,8 +3143,8 @@ ALIVE**（必需活捉）」的懸賞者。
 <td><p>魟魚（軟骨）魚人、原<a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#魚人海賊團・惡龍一行人" title="wikilink">惡龍海賊團幹部</a>，已被海軍收押</p></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p>77</p></td>
+<tr class="even">
+<td><p>79</p></td>
 <td><p>西格</p></td>
 <td><p><s>西格山賊團</s></p></td>
 <td><p>800萬<br />
@@ -3120,7 +3152,7 @@ ALIVE**（必需活捉）」的懸賞者。
 <td><p>無</p></td>
 <td><p>原西格山賊團團長，最後被近海霸王給吞噬</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#小八" title="wikilink">小八</a></p></td>
 <td><p><s><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#魚人海賊團・惡龍一行人" title="wikilink">惡龍海賊團</a></s>（已滅）</p></td>
 <td><p>800萬</p></td>
@@ -3128,8 +3160,8 @@ ALIVE**（必需活捉）」的懸賞者。
 <td><p>章魚魚人、原<a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#魚人海賊團・惡龍一行人" title="wikilink">惡龍海賊團幹部</a>，已被海軍收押，但趁機從押送船逃出</p></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p>78</p></td>
+<tr class="even">
+<td><p>80</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE角色列表#卡莉·達坦" title="wikilink">卡莉·達坦</a></p></td>
 <td><p>達坦家族<br />
 <em>女總管</em></p></td>
@@ -3137,23 +3169,23 @@ ALIVE**（必需活捉）」的懸賞者。
 <td><p>無</p></td>
 <td><p>山賊，魯夫和艾斯的養母</p></td>
 </tr>
-<tr class="even">
-<td><p>79</p></td>
+<tr class="odd">
+<td><p>81</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/巴洛克華克#米琪塔" title="wikilink">Miss 情人節</a></p></td>
 <td><p><s><a href="../Page/巴洛克華克.md" title="wikilink">巴洛克華克</a></s>（已解散）</p></td>
 <td><p>750萬</p></td>
 <td><p>輕飄飄果實</p></td>
 <td><p>前<a href="../Page/巴洛克華克.md" title="wikilink">巴洛克華克高級特務</a></p></td>
 </tr>
-<tr class="odd">
-<td><p>80</p></td>
+<tr class="even">
+<td><p>82</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#布奇" title="wikilink">布奇</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#黑貓海賊團" title="wikilink">黑貓海賊團</a></p></td>
 <td><p>700萬</p></td>
 <td><p>無</p></td>
 <td><p>—</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#山姆" title="wikilink">山姆</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#黑貓海賊團" title="wikilink">黑貓海賊團</a></p></td>
 <td><p>無</p></td>
@@ -3161,16 +3193,16 @@ ALIVE**（必需活捉）」的懸賞者。
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p>81</p></td>
+<tr class="even">
+<td><p>83</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#啾" title="wikilink">啾</a></p></td>
 <td><p><s><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#魚人海賊團・惡龍一行人" title="wikilink">惡龍海賊團</a></s>（已滅）</p></td>
 <td><p>550萬</p></td>
 <td><p>無</p></td>
 <td><p>沙鮻魚魚人、原<a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#魚人海賊團・惡龍一行人" title="wikilink">惡龍海賊團幹部</a>，已被海軍收押</p></td>
 </tr>
-<tr class="even">
-<td><p>82</p></td>
+<tr class="odd">
+<td><p>84</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#亞爾麗塔" title="wikilink">「鐵棒」亞爾麗塔</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#亞爾麗塔海賊團" title="wikilink">亞爾麗塔海賊團</a><br />
 <em>船長</em></p></td>
@@ -3179,16 +3211,16 @@ ALIVE**（必需活捉）」的懸賞者。
 <td><p>滑滑果實</p></td>
 <td><p>與<a href="../Page/巴其_(ONE_PIECE).md" title="wikilink">巴其組成海賊派遣公司</a><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#海賊派遣公司（巴其速遞）" title="wikilink">巴其速遞</a></p></td>
 </tr>
-<tr class="odd">
-<td><p>83</p></td>
+<tr class="even">
+<td><p>85</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/巴洛克華克#貝布" title="wikilink">「Mr.4」貝布</a></p></td>
 <td><p><s><a href="../Page/巴洛克華克.md" title="wikilink">巴洛克華克</a></s>（已解散）</p></td>
 <td><p>320萬</p></td>
 <td><p>無</p></td>
 <td><p>前<a href="../Page/巴洛克華克.md" title="wikilink">巴洛克華克高級特務</a>、在「Miss Golden Week」一行人的幫助下成功逃獄</p></td>
 </tr>
-<tr class="even">
-<td><p>84</p></td>
+<tr class="odd">
+<td><p>86</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#培波" title="wikilink">培波</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#哈特海賊團" title="wikilink">哈特海賊團</a><br />
 <em>航海士</em></p></td>
@@ -3196,8 +3228,8 @@ ALIVE**（必需活捉）」的懸賞者。
 <td><p>無</p></td>
 <td><p>毛皮族</p></td>
 </tr>
-<tr class="odd">
-<td><p>85</p></td>
+<tr class="even">
+<td><p>87</p></td>
 <td><p><a href="../Page/多尼多尼·喬巴.md" title="wikilink">「超愛棉花糖」<br />
 多尼多尼·喬巴</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#草帽海賊團" title="wikilink">草帽海賊團</a><br />
@@ -3206,7 +3238,7 @@ ALIVE**（必需活捉）」的懸賞者。
 <td><p>人人果實</p></td>
 <td><p>—</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -3249,7 +3281,7 @@ ALIVE**（必需活捉）」的懸賞者。
 <em>船長</em></p></td>
 <td><p>5億</p></td>
 <td><p>倍增果實</p></td>
-<td><p>是曾與羅傑 、白鬍子等一同讓世界政府和海軍畏懼的男人<br />
+<td><p>是曾與羅傑、白鬍子等一同讓世界政府和海軍畏懼的男人<br />
 出自於電視2小時特別篇<a href="../Page/ONE_PIECE_“3D2Y”_跨越艾斯之死!_魯夫與夥伴的誓言.md" title="wikilink">“3D2Y”篇</a></p></td>
 </tr>
 <tr class="even">
@@ -3258,7 +3290,7 @@ ALIVE**（必需活捉）」的懸賞者。
 <td><p>未知</p></td>
 <td><p>3億2,000萬</p></td>
 <td><p>無</p></td>
-<td><p>巨人族、喜愛做飯給肚子餓的人們吃被魯夫等成為英雄世界獨一無二的火山料理天國料理，和麗麗·恩斯特馬克一起回艾爾帕布<br />
+<td><p>巨人族，喜愛做飯給肚子餓的人們吃，以獨一無二的火山料理天國料理聞名，和麗麗·恩斯特馬克一起回艾爾帕布<br />
 出場於Z的野心篇（577～578話）</p></td>
 </tr>
 <tr class="odd">
@@ -6583,4 +6615,6 @@ PIECE》漫畫的出版社、播映動畫的電視台，對角色的中文譯名
 11. 《ONE PIECE》漫畫第519話。
 
 12.
-13. 《ONE PIECE》漫畫第909話
+13. 使用上並非在字面上只有六招，而是可依個人訓練方式作延伸使用。
+
+14. 《ONE PIECE》漫畫第909話

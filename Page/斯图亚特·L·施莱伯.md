@@ -1,4 +1,4 @@
-**斯图亚特·L·施莱伯**（，）就职于美国[哈佛大学和麻省理工及哈佛名下的](../Page/哈佛大学.md "wikilink")。他引领[化学生物学长达](https://zh.wikipedia.org/wiki/化学生物学 "wikilink")20余年。他的名字常在生物学和医学的小分子探针应用领域出现。小分子携带有大量动态信息流，会与大分子（DNA、RNA、蛋白质）携带的遗传信息流协同合作。1980至1990年间，施莱伯应用化学生物学方法在生物学界取得巨大进展，并将其形成为生命科学领域最高速发展的学科。
+**斯图亚特·L·施莱伯**（，），就职于美国[哈佛大学和麻省理工及哈佛名下的](../Page/哈佛大学.md "wikilink")。他引领[化学生物学长达](https://zh.wikipedia.org/wiki/化学生物学 "wikilink")20余年。他的名字常在生物学和医学的小分子探针应用领域出现。小分子携带有大量动态信息流，会与大分子（DNA、RNA、蛋白质）携带的遗传信息流协同合作。1980至1990年间，施莱伯应用化学生物学方法在生物学界取得巨大进展，并将其形成为生命科学领域最高速发展的学科。
 
 ## 就学之路
 
@@ -29,7 +29,7 @@ Allis与他的同事发现了组蛋白乙酰转移酶(HAT)。这两项研究促�
 ## 2000年以后的进展
 
 过去10年中，施莱伯的研究主要利用多向合成(DOS)，\[11\]化学遗传学，\[12\]
-以及[ChemBank](http://chembank.broad.harvard.edu/)\[13\]将生物学上小分子的应用系统化。施莱伯发现DOS能利用因骨架和立体化学相异而产生的不同化学空间来产生特定途径的小分子，而且能够提供产生预期的针对相应化学用途需要的化学操作，例如，组合合成与所谓化学合成建模上的Build/Couple/Pair策略。DOS通路与小分子筛选的新技术\[14\]\[15\]\[16\]提供了许多生物学上新式的并可能是突破性的研究方法。例如，施莱伯与其合作者利用细胞印记筛选发现monastrol，这是第一种不针对微管蛋白的小分子有丝分裂抑制剂。Monastrol对一种称做驱动蛋白-5机动蛋白进行抑制，\[17\]并能更深入研究驱动蛋白-5的功能。这项研究使得默克等药物公司开始研发针对人类驱动蛋白-5的抗癌药物。施莱伯的实验室应用多向合成与化学遗传学手段研究小分子组蛋白和微管蛋白去乙酰化酶探针、转录因子、细胞质固定蛋白、发展性信号蛋白(例如histacin,
+以及ChemBank\[13\]将生物学上小分子的应用系统化。施莱伯发现DOS能利用因骨架和立体化学相异而产生的不同化学空间来产生特定途径的小分子，而且能够提供产生预期的针对相应化学用途需要的化学操作，例如，组合合成与所谓化学合成建模上的Build/Couple/Pair策略。DOS通路与小分子筛选的新技术\[14\]\[15\]\[16\]提供了许多生物学上新式的并可能是突破性的研究方法。例如，施莱伯与其合作者利用细胞印记筛选发现monastrol，这是第一种不针对微管蛋白的小分子有丝分裂抑制剂。Monastrol对一种称做驱动蛋白-5机动蛋白进行抑制，\[17\]并能更深入研究驱动蛋白-5的功能。这项研究使得默克等药物公司开始研发针对人类驱动蛋白-5的抗癌药物。施莱伯的实验室应用多向合成与化学遗传学手段研究小分子组蛋白和微管蛋白去乙酰化酶探针、转录因子、细胞质固定蛋白、发展性信号蛋白(例如histacin,
 tubacin, haptamide, uretupamine,
 concentramide和calmodulophilin)等等。多维筛选的方法也在2002年被引进，用于研究肿瘤发生，细胞极性和化学空间等等。\[18\]超过30家机构
 的100多家实验室利用他创建的筛选中心([Broad Chemical
@@ -38,12 +38,9 @@ Biology](http://www.broad.harvard.edu/chembio/index.html)
 的检验数据库和分析环境，并于2003年进入因特网。2006年3月更新的[ChemBank
 (v2.0)](http://chembank.broad.harvard.edu/)让公众更容易查询与分析8700万种筛选方法中的1209种小分子筛选。
 
-施莱伯的实验室总是化学生物学的焦点，首先是在生物学三个特别的方面对小分子的独特应用，接着是在生物医学的研究中更广泛的应用小分子。作为化学生物学的头号人物，他影响着政府和私人的研究团体。学院的筛选中心模仿着博大研究所的化学生物学项目，在美国，通过政府发起的[NIH图网](https://zh.wikipedia.org/wiki/国立健康研究院_\(美国\) "wikilink")，全国都在开展该类研究。原来的化学学部改名以涵盖化学生物学，新的刊物也应运而生([Chemistry
-& Biology](http://www.chembiol.com/),
-[ChemBioChem](http://www3.interscience.wiley.com/cgi-bin/jhome/72510898),
-[Nature Chemical Biology](http://www.nature.com/nchembio/index.html),
-[ACS Chemical
-Biology](http://pubs.acs.org/journals/acbcct/))。施莱伯已经加入了三家以化学生物学为主的生物制药公司，分别是Vertex
+施莱伯的实验室总是化学生物学的焦点，首先是在生物学三个特别的方面对小分子的独特应用，接着是在生物医学的研究中更广泛的应用小分子。作为化学生物学的头号人物，他影响着政府和私人的研究团体。学院的筛选中心模仿着博大研究所的化学生物学项目，在美国，通过政府发起的[NIH图网](https://zh.wikipedia.org/wiki/国立健康研究院_\(美国\) "wikilink")，全国都在开展该类研究。原来的化学学部改名以涵盖化学生物学，新的刊物也应运而生(Chemistry
+& Biology，ChemBioChem，Nature Chemical Biology，ACS Chemical
+Biology)。施莱伯已经加入了三家以化学生物学为主的生物制药公司，分别是Vertex
 Pharmaceuticals, Inc. (VRTX), Ariad Pharmaceuticals, Inc. (ARIA), and
 Infinity Pharmaceuticals, Inc (INFI)。这些公司已生产出对抗多种疾病的新药，包括艾滋病和癌症。
 
@@ -78,6 +75,8 @@ Infinity Pharmaceuticals, Inc (INFI)。这些公司已生产出对抗多种疾�
   - **American Association of Cancer Institutes (2004).**
     "因其在化学生物学领域的贡献，使之成为癌症治疗的新途径"
 
+## 参考资料
+
 ## 外部链接
 
   - [麻省理工及哈佛的博大研究所,
@@ -87,10 +86,6 @@ Infinity Pharmaceuticals, Inc (INFI)。这些公司已生产出对抗多种疾�
     视频讲座](http://www.hhmi.org/biointeractive/genomics/index.html)
   - [ChemBank](http://chembank.broad.harvard.edu/)
 
-## 参考资料
-
-[Category:1956年出生](https://zh.wikipedia.org/wiki/Category:1956年出生 "wikilink")
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
 [Category:美国化学家](https://zh.wikipedia.org/wiki/Category:美国化学家 "wikilink")
 [Category:哈佛大学校友](https://zh.wikipedia.org/wiki/Category:哈佛大学校友 "wikilink")
 [Category:維吉尼亞大學校友](https://zh.wikipedia.org/wiki/Category:維吉尼亞大學校友 "wikilink")

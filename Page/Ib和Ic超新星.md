@@ -2,7 +2,7 @@
 
 ## 光譜
 
-[超新星的分類是依據在光譜中是否缺乏](../Page/超新星.md "wikilink")[氫的](https://zh.wikipedia.org/wiki/氫 "wikilink")[光譜線](https://zh.wikipedia.org/wiki/光譜 "wikilink")。與II型超新星比較，I型是欠缺[氫線的](https://zh.wikipedia.org/wiki/氫 "wikilink")。與著名的[Ia型不同](https://zh.wikipedia.org/wiki/Ia型 "wikilink")，Ib的譜線中還缺少波長為635.5 [奈米的單一離子](https://zh.wikipedia.org/wiki/奈米 "wikilink")[矽](https://zh.wikipedia.org/wiki/矽 "wikilink")[吸收線](../Page/譜線.md "wikilink")。比較Ib超新星的年齡，它也顯示出比Ia型更明顯的[氦譜線](../Page/氦.md "wikilink")。總而言之，Ib型超新星的譜線中包含有[氧](../Page/氧.md "wikilink")、[鈣](https://zh.wikipedia.org/wiki/鈣 "wikilink")、和[鎂的譜線](https://zh.wikipedia.org/wiki/鎂 "wikilink")。對照的Ia型，主要的譜線則來自於[鐵](https://zh.wikipedia.org/wiki/鐵 "wikilink")。\[1\]
+[超新星的分類是依據在光譜中是否缺乏](../Page/超新星.md "wikilink")[氫的](https://zh.wikipedia.org/wiki/氫 "wikilink")[光譜線](https://zh.wikipedia.org/wiki/光譜 "wikilink")。與II型超新星比較，I型是欠缺[氫線的](https://zh.wikipedia.org/wiki/氫 "wikilink")。與著名的[Ia超新星不同](../Page/Ia超新星.md "wikilink")，Ib的譜線中還缺少波長為635.5 [奈米的單一離子](https://zh.wikipedia.org/wiki/奈米 "wikilink")[矽](https://zh.wikipedia.org/wiki/矽 "wikilink")[吸收線](../Page/譜線.md "wikilink")。比較Ib超新星的年齡，它也顯示出比Ia型更明顯的[氦譜線](../Page/氦.md "wikilink")。總而言之，Ib型超新星的譜線中包含有[氧](../Page/氧.md "wikilink")、[鈣](https://zh.wikipedia.org/wiki/鈣 "wikilink")、和[鎂的譜線](https://zh.wikipedia.org/wiki/鎂 "wikilink")。對照的Ia型，主要的譜線則來自於[鐵](https://zh.wikipedia.org/wiki/鐵 "wikilink")。\[1\]
 
 Ib型超新星的形成幾乎與II型超新星相同，雖都是由大質量恆星的核心塌縮形成的，但是Ib超新星的前身在爆炸之前先拋掉了氫的外殼。結果因為外殼主要的成分是氦，造成光譜比較像Ia超新星；Ic超新星又超越了Ib超新星，它的光譜中還缺乏氦的譜線\[2\]。
 

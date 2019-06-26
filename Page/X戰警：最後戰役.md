@@ -155,8 +155,8 @@ Ben Foster</p></td>
 
 ### 評價
 
-[爛番茄新鮮度](../Page/爛番茄.md "wikilink")58%，基於232條評論，平均分為5.9/10\[1\]，而在[Metacritic上得到](../Page/Metacritic.md "wikilink")58分\[2\]
-，[IMDB上得](https://zh.wikipedia.org/wiki/IMDB "wikilink")6.8分，大獲好評。
+[爛番茄新鮮度](../Page/爛番茄.md "wikilink")58%，基於236條評論，平均分為5.92/10\[1\]，而在[Metacritic上得到](../Page/Metacritic.md "wikilink")58分\[2\]
+，[IMDB上得](https://zh.wikipedia.org/wiki/IMDB "wikilink")6.7分。
 
 ### 票房
 

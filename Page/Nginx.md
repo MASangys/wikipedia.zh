@@ -7,7 +7,8 @@ Nginx是免费的[开源软件](../Page/开源软件.md "wikilink")，根据类[
 
 ## 特点
 
-Nginx可以部署在网络上使用[FastCGI脚本](../Page/FastCGI.md "wikilink")、[SCGI处理程序](../Page/简单通用网关接口.md "wikilink")、[WSGI应用服务器或](../Page/Web服务器网关接口.md "wikilink")[Phusion乘客模块的动态](https://zh.wikipedia.org/wiki/Phusion_Passenger "wikilink")[HTTP内容](https://zh.wikipedia.org/wiki/HTTP "wikilink")，并可作为软件[负载均衡器](../Page/负载均衡.md "wikilink")。\[6\]
+Nginx可以部署在网络上使用[FastCGI脚本](../Page/FastCGI.md "wikilink")、[SCGI处理程序](../Page/简单通用网关接口.md "wikilink")、[WSGI应用服务器或](../Page/Web服务器网关接口.md "wikilink")[Phusion
+Passenger模块的动态](https://zh.wikipedia.org/wiki/Phusion_Passenger "wikilink")[HTTP内容](https://zh.wikipedia.org/wiki/HTTP "wikilink")，并可作为软件[负载均衡器](../Page/负载均衡.md "wikilink")。\[6\]
 
 Nginx使用异步事件驱动的方法来处理请求。Nginx的模块化事件驱动架构\[7\]可以在高负载下提供更可预测的性能。\[8\]
 

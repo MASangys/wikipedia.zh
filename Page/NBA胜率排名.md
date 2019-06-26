@@ -23,7 +23,7 @@
 <tr class="odd">
 <td><p><strong>.890</strong></p></td>
 <td><p><strong><a href="../Page/金州勇士.md" title="wikilink">金州勇士</a></strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2015-16NBA赛季" title="wikilink">2015-16</a></p></td>
+<td><p><a href="../Page/2015-16_NBA赛季.md" title="wikilink">2015-16</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/史蒂夫·科爾" title="wikilink">史蒂夫·科爾</a></p></td>
 <td><p>73–9</p></td>
 <td><p>39-2</p></td>
@@ -184,7 +184,7 @@
 <td><p>28-13</p></td>
 <td><p>0-0</p></td>
 <td><p>10.1</p></td>
-<td><p>12-3</p></td>
+<td><p>16-5</p></td>
 <td><p><strong>总冠军</strong></p></td>
 <td><p>18场连胜，主场19场连胜，客场19场连胜，11月份全勝</p></td>
 </tr>

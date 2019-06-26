@@ -10,27 +10,33 @@ PhotoImpact支持友立資訊自己的.[UFO格式存储](https://zh.wikipedia.or
 PhotoImpact与一些图像处理软件如[Corel PaintShop
 Photo定位于同一消费群](https://zh.wikipedia.org/wiki/Corel_PaintShop_Photo "wikilink")，在一些测试中常进行比较。
 
-友立資訊在2006年底由[Corel控股](../Page/Corel.md "wikilink")，PhotoImpact也成为Corel旗下产品，完善了其产品线。
+友立資訊在2006年12月28日由[Corel控股](../Page/Corel.md "wikilink")，PhotoImpact也成为Corel旗下产品，完善了其产品线。
 
-2008年，Corel推出PhotoImpact
+2007年11月9日，Corel推出PhotoImpact
 X3，為PhotoImpact最終版本。2009年，PhotoImpact停止開發，其地位被Corel
 PaintShop Pro取代。
 
+## 功能
+
+PhotoImpact的主要功能有自動處理，[白平衡校正](https://zh.wikipedia.org/wiki/白平衡 "wikilink"),
+色彩調整, 旋轉與翻轉, 色彩平衡, 自訂樣式, 色相與彩度, 亮度和對比度及曲線等，另外還有色彩取代, 反相, 等化功能, 改善光線, 色階,
+色偏, 負片效果, 臨界值, 色調分離, 魔術棒工具及色彩管理等。 當然是最新版本才有「快速俢片」。
+
 ## 版本歷史
 
-| 版本                   | 發佈日期  |
-| -------------------- | ----- |
-| PhotoImpact 3        | 1996年 |
-| PhotoImpact 4        | 1997年 |
-| PhotoImpact 5        | 1999年 |
-| PhotoImpact 6        | 2000年 |
-| PhotoImpact 7        | 2001年 |
-| PhotoImpact 8        | 2002年 |
-| PhotoImpact XL（8.5）  | 2003年 |
-| PhotoImpact 10       | 2004年 |
-| PhotoImpact 11       | 2005年 |
-| PhotoImpact 12       | 2006年 |
-| PhotoImpact X3（或稱13） | 2008年 |
+| 版本                   | 發佈日期        |
+| -------------------- | ----------- |
+| PhotoImpact 3        | 1996年       |
+| PhotoImpact 4        | 1997年       |
+| PhotoImpact 5        | 1999年       |
+| PhotoImpact 6        | 2000年       |
+| PhotoImpact 7        | 2001年       |
+| PhotoImpact 8        | 2002年       |
+| PhotoImpact XL（8.5）  | 2003年10月2日  |
+| PhotoImpact 10       | 2004年11月12日 |
+| PhotoImpact 11       | 2005年10月16日 |
+| PhotoImpact 12       | 2006年8月22日  |
+| PhotoImpact X3（或稱13） | 2007年11月9日  |
 
 ## 参见
 

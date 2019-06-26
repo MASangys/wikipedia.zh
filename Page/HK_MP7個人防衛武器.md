@@ -162,7 +162,7 @@ HK MP7](http://www.thefirearmblog.com/blog/2016/12/22/breaking-swedish-sog-now-
 
       - [倫敦警察廳](../Page/倫敦警察廳.md "wikilink")[專業槍械司令部](../Page/專業槍械司令部.md "wikilink")（MP7SF）
 
-  -   - [美國海軍特種作戰開發組](https://zh.wikipedia.org/wiki/美國海軍特種作戰開發組 "wikilink")\[39\]\[40\]
+  -   - [美國海軍特種作戰開發組](../Page/美國海軍特種作戰開發組.md "wikilink")\[39\]\[40\]
       - [部份地方警察單位](../Page/美國警察.md "wikilink")\[41\]\[42\]\[43\]
 
   -   - [瑞士近衛隊](https://zh.wikipedia.org/wiki/瑞士近衛隊 "wikilink")\[44\]
@@ -220,9 +220,9 @@ Officer on range.jpg|手持MP7-SF及身穿防化衣的警員
   - 2012年—《[-{zh-hans:反恐精英：全球攻势;
     zh-hant:絕對武力：全球攻勢;}-](https://zh.wikipedia.org/wiki/絕對武力：全球攻勢 "wikilink")》：為CS:GO追加的新武器，型號為MP7A1，命名为“MP7”，使用30發彈匣，為双方通用武器，並替代前作的MP5。可配备许多具有观赏价值的涂装（皮肤）。
   - 2012年—《[-{zh-hans:荣誉勋章：战士;
-    zh-hant:榮譽勳章：鐵血悍將;}-](https://zh.wikipedia.org/wiki/榮譽勳章：鐵血悍將 "wikilink")》：型號為MP7A1，使用40+1發彈匣。故事模式時被馬科特遣隊所屬的[美國海軍特種作戰開發組隊員](https://zh.wikipedia.org/wiki/美國海軍特種作戰開發組 "wikilink")（包括“牧師”和“老媽”）所使用。多人模式時為特戰兵的可用武器。
+    zh-hant:榮譽勳章：鐵血悍將;}-](https://zh.wikipedia.org/wiki/榮譽勳章：鐵血悍將 "wikilink")》：型號為MP7A1，使用40+1發彈匣。故事模式時被馬科特遣隊所屬的[美國海軍特種作戰開發組隊員](../Page/美國海軍特種作戰開發組.md "wikilink")（包括“牧師”和“老媽”）所使用。多人模式時為特戰兵的可用武器。
   - 2012年—《[-{zh-hans:使命召唤：黑色行动;
-    zh-hant:決勝時刻：黑色行動;}-II](../Page/決勝時刻：黑色行動II.md "wikilink")》：型號為MP7A1，於故事模式和聯機模式中皆有出現，命名為「MP7」，使用40發（故事模式及聯機模式可使用改裝：延長彈匣增至54發）[彈匣供彈](../Page/彈匣.md "wikilink")，初始攜彈量為240發（故事模式）和120發（聯機模式），最高攜彈量為520發（故事模式）和320發（聯機模式）。故事模式之中被[美國海軍特種作戰開發組和](https://zh.wikipedia.org/wiki/美國海軍特種作戰開發組 "wikilink")[也門陸軍所使用](https://zh.wikipedia.org/wiki/也門陸軍 "wikilink")；聯機模式時於等級4解鎖，並可以使用[反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、[激光瞄準器](https://zh.wikipedia.org/wiki/激光瞄準器 "wikilink")、[消音器](../Page/抑制器.md "wikilink")、快速重裝彈匣、、[前握把](../Page/輔助握把.md "wikilink")、快速抽出握把、、[長槍管](../Page/槍管.md "wikilink")、目標搜索器、可調節[槍托](../Page/槍托.md "wikilink")、[延長彈匣](../Page/彈匣.md "wikilink")、[擊發調變](../Page/擊發調變槍械.md "wikilink")、射速增加、毫米波掃描器。
+    zh-hant:決勝時刻：黑色行動;}-II](../Page/決勝時刻：黑色行動II.md "wikilink")》：型號為MP7A1，於故事模式和聯機模式中皆有出現，命名為「MP7」，使用40發（故事模式及聯機模式可使用改裝：延長彈匣增至54發）[彈匣供彈](../Page/彈匣.md "wikilink")，初始攜彈量為240發（故事模式）和120發（聯機模式），最高攜彈量為520發（故事模式）和320發（聯機模式）。故事模式之中被[美國海軍特種作戰開發組和](../Page/美國海軍特種作戰開發組.md "wikilink")[也門陸軍所使用](https://zh.wikipedia.org/wiki/也門陸軍 "wikilink")；聯機模式時於等級4解鎖，並可以使用[反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、[激光瞄準器](https://zh.wikipedia.org/wiki/激光瞄準器 "wikilink")、[消音器](../Page/抑制器.md "wikilink")、快速重裝彈匣、、[前握把](../Page/輔助握把.md "wikilink")、快速抽出握把、、[長槍管](../Page/槍管.md "wikilink")、目標搜索器、可調節[槍托](../Page/槍托.md "wikilink")、[延長彈匣](../Page/彈匣.md "wikilink")、[擊發調變](../Page/擊發調變槍械.md "wikilink")、射速增加、毫米波掃描器。
   - 2012年—《[战争前线](../Page/战争前线.md "wikilink")》：型号为MP7A1，命名为“H\&K
     MP7”，为工程兵专用武器，使用30发[弹匣](https://zh.wikipedia.org/wiki/弹匣 "wikilink")，高级解锁，可以改装枪口配件（[通用消音器](../Page/抑制器.md "wikilink")、冲锋枪消音器、[冲锋枪制退器](https://zh.wikipedia.org/wiki/炮口制动器 "wikilink")、[冲锋枪刺刀](../Page/刺刀.md "wikilink")）以及瞄准镜（[EoTech
     553全息瞄准镜](https://zh.wikipedia.org/wiki/全息瞄准镜 "wikilink")、绿点全息瞄准镜、[红点瞄准镜](https://zh.wikipedia.org/wiki/红点瞄准镜 "wikilink")、冲锋枪普通瞄准镜、冲锋枪高级瞄准镜、[冲锋枪专家瞄准镜](https://zh.wikipedia.org/wiki/Leupold_Mark_4_CQ/T光学瞄准镜 "wikilink")，不能改装战术导轨部件，视为自带前握把。拥有丛林迷彩改装版本，增加威力，射速及载弹量。

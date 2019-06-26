@@ -333,13 +333,13 @@ Meng）是中華民國航空工業發展史上首架專業的噴射對地攻擊�
 
 AT-3武器酬載能力為5,998磅（2,727公斤），A-3攻擊機武器酬載能力增加為6,614磅以上(3,000公斤以上)；兩翼下共有4處掛架，機腹下1處，再加上翼梢掛架，共有7處掛載點。
 
-  - 機首右前方：1門[M39機砲](https://zh.wikipedia.org/wiki/M39航空機炮 "wikilink")(A-3攻擊機)
+  - 機首右前方：1門[M39機砲](https://zh.wikipedia.org/wiki/M39機砲 "wikilink")(A-3攻擊機)
   - 機腹掛架：1處，可掛載910公斤重武器，可攜帶1枚[Mk84
     2,000磅低阻力通用炸彈或](https://zh.wikipedia.org/wiki/Mk_84通用炸彈 "wikilink")1具[AN-M3](https://zh.wikipedia.org/wiki/白朗寧M2 "wikilink")
     12.7mm雙聯裝機槍莢艙。
   - 內側掛架：2處，可掛載636公斤重武器，包括[Mk83
     1,000磅低阻力通用炸彈](https://zh.wikipedia.org/wiki/Mk_83通用炸彈 "wikilink")、[Mk
-    20集束炸彈或](https://zh.wikipedia.org/wiki/Mk_20集束炸彈 "wikilink")150加侖（568公升）副油箱。
+    20石眼式集束炸彈或](https://zh.wikipedia.org/wiki/Mk_20石眼式集束炸彈 "wikilink")150加侖（568公升）副油箱。
   - 外側掛架：2處，可掛載272公斤重武器，包括5吋或2.75吋火箭莢艙或其他武器。空射型雄風二型反艦飛彈(A-3攻擊機)
   - 翼端掛架：2處，可掛載2枚[AIM-9響尾蛇飛彈或](../Page/AIM-9響尾蛇飛彈.md "wikilink")[天劍一型飛彈](../Page/天劍一型飛彈.md "wikilink")。
 

@@ -1306,7 +1306,7 @@ featuring 6號＠RubberBand</p></td>
 | **各台冠軍歌總數** |
 | ----------- |
 | 903         |
-| **16**      |
+| **17**      |
 
 （\*）表示上榜中
 
@@ -1394,11 +1394,6 @@ the Mission: RubberBand》，為其兩年的音樂事業作小總結。當中展
 
 ### 2008年度
 
-  - Ch\!kinology The 2nd Outstanding Music Awards - Local 2008 年度組合 銅獎
-  - Ch\!kinology The 2nd Outstanding Music Awards - Local 2008
-    年度新人《Apollo 18》
-  - Ch\!kinology The 2nd Outstanding Music Awards - Local 2008 年度唱片
-    第十位《Apollo 18》
   - [YAHOO\!搜尋人氣大獎2008](https://zh.wikipedia.org/wiki/2008年度YAHOO!搜尋人氣大獎得獎名單 "wikilink")
     - 樂壇新勢力（組合）
   - [2008年度叱吒樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2008年度叱吒樂壇流行榜頒獎典禮得獎名單 "wikilink")
@@ -1406,14 +1401,9 @@ the Mission: RubberBand》，為其兩年的音樂事業作小總結。當中展
   - [SINA
     Music樂壇民意指數頒獎禮2008](../Page/2008年度SINA_Music樂壇民意指數頒獎禮得獎名單.md "wikilink")
     - 我最喜愛新組合 銀獎
-  - PM第七屆樂壇頒獎禮2008 - 最有實力新樂隊獎
-  - 當下音樂 零八總結 新人 優異獎
-  - 斐宇梧的中文唱片架 自選08年20大中文唱片 第十五位《Apollo 18》
 
 ### 2009年度
 
-  - 怪聽零玖：十大華語專輯 第七位 《Beaming》
-  - 怪聽零玖：十大廣東專輯 第四位 《Beaming》
   - [YAHOO\!搜尋人氣大獎2009](../Page/2009年度YAHOO!搜尋人氣大獎得獎名單.md "wikilink") -
     本地音樂組合
   - [新城勁爆頒獎禮2009](../Page/2009年度新城勁爆頒獎禮得獎名單.md "wikilink") -
@@ -1423,10 +1413,6 @@ the Mission: RubberBand》，為其兩年的音樂事業作小總結。當中展
     - 專業推介叱吒十大 第二位《阿波羅》
   - [2009年度叱吒樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2009年度叱吒樂壇流行榜頒獎典禮得獎名單 "wikilink")
     - 叱吒樂壇組合 金獎
-  - Ch\!kinology The 3rd Outstanding Music Awards - Local 2009 讀者投選年度組合
-  - Ch\!kinology The 3rd Outstanding Music Awards - Local 2009 年度組合 銅獎
-  - Ch\!kinology The 3rd Outstanding Music Awards - Local 2009 年度歌曲
-    第九位《夏令時間》
   - 加拿大至HIT中文歌曲排行榜2009年度總選 - 全國推崇十大歌曲（粵語）《阿波羅》
   - 加拿大至HIT中文歌曲排行榜2009年度總選 - 全北美推崇組合（粵語）
   - [2009年度十大勁歌金曲頒獎典禮](../Page/2009年度十大勁歌金曲得獎名單.md "wikilink") - 最受歡迎組合獎
@@ -1439,7 +1425,6 @@ the Mission: RubberBand》，為其兩年的音樂事業作小總結。當中展
     - 我最喜愛男組合（香港）
   - [第三十二屆十大中文金曲頒獎音樂會](../Page/第三十二屆十大中文金曲得獎名單.md "wikilink") - 全年最佳進步獎
     銅獎
-  - 3C音樂 - 2009年推薦的廿二張中文唱片 \#10《Beaming》
 
 ### 2010年度
 
@@ -1450,7 +1435,6 @@ the Mission: RubberBand》，為其兩年的音樂事業作小總結。當中展
   - [新城勁爆頒獎禮2010](../Page/2010年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆年度專輯
     《[Connected](../Page/Connected.md "wikilink")》
   - [新城勁爆頒獎禮2010](../Page/2010年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆樂隊
-  - Ch\!kinology The 4th ch\!sin music picks - Local 2010 年度組合 銀獎
   - [2010年度叱吒樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2010年度叱吒樂壇流行榜頒獎典禮得獎名單 "wikilink")
     - 至尊歌曲大獎《SimpleLoveSong》
   - [2010年度叱吒樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2010年度叱吒樂壇流行榜頒獎典禮得獎名單 "wikilink")
@@ -1463,14 +1447,6 @@ the Mission: RubberBand》，為其兩年的音樂事業作小總結。當中展
     金獎
   - [2010年度十大勁歌金曲頒獎典禮](../Page/2010年度十大勁歌金曲得獎名單.md "wikilink") - 最受歡迎組合獎
     金獎
-  - 斐宇梧的中文唱片架 自選2010年20大中文歌曲 第七位《金獅同學會》
-  - 斐宇梧的中文唱片架 自選2010年20大中文唱片
-    第三位《[Connected](../Page/Connected.md "wikilink")》
-  - 快樂的 - 一零年度十張專輯 \#2《[Connected](../Page/Connected.md "wikilink")》
-  - 快樂的 - 一零年度十首單曲 \#2《海‧地》
-  - 3C音樂 - 2010年出色單曲《海‧地》
-  - 3C音樂 - 2010年推薦的十九張中文唱片《[Connected](../Page/Connected.md "wikilink")》
-  - 當下音樂 一零總結 買家之選推薦專輯 第七位《[Connected](../Page/Connected.md "wikilink")》
 
 ### 2011年度
 
@@ -1482,15 +1458,10 @@ the Mission: RubberBand》，為其兩年的音樂事業作小總結。當中展
   - [新城勁爆頒獎禮2011](../Page/2011年度新城勁爆頒獎禮得獎名單.md "wikilink") -
     新城勁爆改編歌曲《陪著你走》
   - [新城勁爆頒獎禮2011](../Page/2011年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆樂隊
-  - Ch\!kinology The 4th Outstanding Music Awards - Local 2010 年度歌曲
-    第四位《SimpleLoveSong》
-  - Ch\!kinology The 4th Outstanding Music Awards - Local 2010 年度唱片
-    第四位《Connected》
   - [第三十四屆十大中文金曲頒獎典禮](../Page/第三十四屆十大中文金曲得獎名單.md "wikilink") - 優秀流行歌手大獎
   - [2011年度十大勁歌金曲頒獎典禮](../Page/2011年度十大勁歌金曲得獎名單.md "wikilink") - 最受歡迎組合獎
     銅獎
   - 第十一屆華語音樂傳媒大獎 - 年度粵語專輯 《Connected》
-  - 快樂的私家播放指數2011 Top 10 Songs \#8 《Dedicated To...》
 
 ### 2012年度
 
@@ -1516,19 +1487,8 @@ the Mission: RubberBand》，為其兩年的音樂事業作小總結。當中展
     最受歡迎唱作歌星 銅獎
   - [第三十五屆十大中文金曲頒獎音樂會](../Page/第三十五屆十大中文金曲得獎名單.md "wikilink") - 優秀流行歌手大獎
   - Cool Music Forum會員共和榜 2012年度共和組合 金獎
-  - 當下音樂 一二總結 我最喜愛的歌曲 第十一位 《快樂鐳射舖》
-  - 當下音樂 一二總結 年度十佳專輯 第九位《Easy》
-  - Ch\!kinology The 6th ch\!sin music picks - Local 2012 年度唱片 第三位《Easy》
-  - Ch\!kinology The 6th ch\!sin music picks - Local 2012 年度組合《Easy》金獎
-  - Ch\!kinology The 6th ch\!sin music picks - Local 2012 年度歌曲 第一位《睜開眼》
-  - Ch\!kinology The 6th ch\!sin music picks - Local 2012 讀者投選年度組合
-  - 斐宇梧的中文唱片架 自選2012年50大中文歌曲 第二位《睜開眼》
-  - 斐宇梧的中文唱片架 2012年20大中港台唱片 第十四位《Easy》
   - 香港樂評選2012 年度樂團
   - 香港樂評選2012 年度歌曲《睜開眼》
-  - 2012 Music Picks 最喜愛歌曲30首《睜開眼》
-  - 2012 Music Picks 年度我最喜愛組合銀獎
-  - 3C音樂 - 2012年推薦的十五張中文唱片《Easy》
 
 ### 2013年度
 
@@ -1552,15 +1512,10 @@ the Mission: RubberBand》，為其兩年的音樂事業作小總結。當中展
     叱咤樂壇我最喜愛歌曲《[撐起雨傘](../Page/撐起雨傘.md "wikilink")》（6號、泥鯭、阿偉）
   - [IFPI香港唱片銷量大獎2014](../Page/IFPI香港唱片銷量大獎頒獎禮2014.md "wikilink") -
     十大銷量廣東唱片《[Frank](../Page/Frank.md "wikilink")》
-  - 快樂的私家播放指數2014 Top 12 Songs \#1《撐起雨傘》（6號、泥鯭、阿偉）
   - Cool Music Forum會員共和榜 2014年度共和唱作人 銀獎
   - Cool Music Forum會員共和榜 2014年度共和組合 金獎
   - Cool Music Forum會員共和榜 2014年度共和唱片
     銅獎《[Frank](../Page/Frank.md "wikilink")》
-  - 當下音樂 一四總結 年度20大 第十位 《你和我》
-  - 2014 Music Picks 最喜愛MV 《你和我》
-  - 2014 Music Picks 最喜愛30首 《語言藝術》
-  - 論盡音樂 論盡年結 2014 SMARTest 組合 金獎
 
 ### 2015年度
 
@@ -1572,9 +1527,6 @@ the Mission: RubberBand》，為其兩年的音樂事業作小總結。當中展
     優秀流行國語歌曲獎 銅獎《我是樂隊》
   - [第三十八屆十大中文金曲頒獎音樂會](../Page/第三十八屆十大中文金曲得獎名單.md "wikilink") -
     全年最佳樂隊/組合獎 金獎
-  - 2015 Music Picks 最喜愛MV TOP16《挾持》
-  - 2015 Music Picks 最喜愛30首 《挾持》
-  - 講音樂。- 二零一五．我的十五大 \#8 《挾持》
 
 ### 2016年度
 
@@ -1584,21 +1536,8 @@ the Mission: RubberBand》，為其兩年的音樂事業作小總結。當中展
     - 專業推介叱吒十大 第七位《終於好天氣》（與[方皓玟合唱](../Page/方皓玟.md "wikilink")）
   - [第三十九屆十大中文金曲頒獎音樂會](../Page/第三十九屆十大中文金曲得獎名單.md "wikilink") -
     全年最佳樂隊/組合獎 銅獎
-  - 快樂的 - 最愛演唱會2016 TOP 3 《呢度RubberBand Live》
-  - 斐宇梧的中文唱片架 自選2016年中港台50首最佳歌曲 第十三位 《堅彌地城》（feat. Charatay）
-  - 2016 Music Picks 最喜愛歌曲 第六位《堅彌地城》（feat. Charatay）
   - 香港樂評選2016 年度編曲《堅彌地城》（與[王雙駿合編](../Page/王雙駿.md "wikilink")）
   - 香港樂評選2016 十樂推薦 NO.6 《堅彌地城》（feat. Charatay）
-  - 2016年 丹尼爾。海最喜愛歌曲 第18位 《Alive》
-  - 私家音樂2016 私家組合 - 銅獎
-  - 私家音樂2016 私家十大歌曲 - 第八位《終於好天氣》（與[方皓玟合唱](../Page/方皓玟.md "wikilink")）
-  - 音樂. 人生 2016 香港樂壇 我的十大廣東歌
-    《終於好天氣》（與[方皓玟合唱](../Page/方皓玟.md "wikilink")）
-  - 論盡音樂 論盡六月最愛歌曲《終於好天氣》（與[方皓玟合唱](../Page/方皓玟.md "wikilink")）
-  - 論盡音樂 論盡年結 2016 TOP100 單曲《終於好天氣》（與[方皓玟合唱](../Page/方皓玟.md "wikilink")）
-  - 論盡音樂 論盡年結 \#SMARTest2016年度 SMARTest 歌曲
-    第二位《終於好天氣》（與[方皓玟合唱](../Page/方皓玟.md "wikilink")）
-  - 論盡音樂 論盡回顧 2016 10大粵語專輯《Gotta Go》
 
 ### 2017年度
 
@@ -1607,18 +1546,9 @@ the Mission: RubberBand》，為其兩年的音樂事業作小總結。當中展
   - [新城勁爆頒獎禮2017](../Page/2017年度新城勁爆頒獎禮得獎名單.md "wikilink") - 勁爆樂隊
   - [2017年度叱咤樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2017年度叱咤樂壇流行榜頒獎典禮得獎名單 "wikilink")
     - 叱咤樂壇組合 銀獎
-  - 論盡音樂 第一屆 論盡樂迷大賞 (2006-2016)「論盡樂迷樂隊組合大賞」銅獎
-  - 論盡音樂 論盡投票 叱咤三十年 至尊之最「三十年我最 R 頭至尊歌」最後五強 《SimpleLoveSong》
-  - 斐宇梧的中文唱片架 自選2017年中港台50首歌曲 第三十四位《一生青春》
-    （與[Yellow\!合唱](https://zh.wikipedia.org/wiki/Yellow! "wikilink")）
-  - 2017年度OnAir Music Award 十大歌曲 第一位《山河故人》
-  - 阿權阿樣與阿強【17年結，17首歌】 - 第八位 《山河故人》
-  - 講音樂。- 二零一七，我的十五大 \#2 《山河故人》
   - Cool Music Forum會員共和榜 2017年度共和十大歌曲 第四位《山河故人》
   - Cool Music Forum會員共和榜 2017年度共和唱片 銅獎 《呢度》
   - Cool Music Forum會員共和榜 2017年度共和組合 銀獎
-  - 私家音樂2017 私家組合 - 銅獎
-  - 音樂. 人生 2017 香港樂壇 組合/樂隊之選
 
 ### 2018年度
 
@@ -1632,21 +1562,6 @@ the Mission: RubberBand》，為其兩年的音樂事業作小總結。當中展
   - 香港樂評選2018 十樂推薦 NO.1《未來見》
   - 香港樂評選2018 年度歌曲《未來見》
   - 香港樂評選2018 年度旋律《未來見》
-  - Music Picks 2018 最喜愛專輯第一位 《Hours》
-  - Music Picks 2018 最喜愛歌曲第一位　《未來見》
-  - Music Picks 2018 最喜愛歌曲第六位　《發麻》
-  - Music Picks 2018 最喜愛歌曲第二十一位 《那一端》
-  - Music Picks 2018 最喜愛演唱會第二位 《RubberBand Hours Concert 2018》
-  - 斐宇梧的中文唱片架 2018年中港台最佳專輯 第十六位《Hours》
-  - 斐宇梧的中文唱片架 自選2018年中港台50首歌曲 第八位《未來見》
-  - 聽聽歌 二零一八·年度人物
-  - 聽聽歌 二零一八·年度二十大 第一位《未來見》
-  - 聽聽歌 二零一八·年度二十大
-    第十一位《風塵三俠》（6號與[側田](../Page/側田.md "wikilink")、[小肥合唱](../Page/小肥.md "wikilink")）
-  - 私家音樂2018 大碟獎《Hours》
-  - 私家音樂2018 私家十大歌曲 -《未來見》
-  - 私家音樂2018 組合 - 金獎
-  - 講音樂。- 二零一八 我喜愛的。\#1《未來見》
   - Cool Music Forum會員共和榜 2018年度我最喜愛的歌曲第三季季選 - 第一位《未來見》
   - Cool Music Forum會員共和榜 2018年度第一季季選歌曲 -
     季選推介歌曲《風塵三俠》（6號與[側田](../Page/側田.md "wikilink")、[小肥合唱](../Page/小肥.md "wikilink")）
@@ -1661,33 +1576,6 @@ the Mission: RubberBand》，為其兩年的音樂事業作小總結。當中展
   - Cool Music Forum會員共和榜 共和2018 共和聯頒大獎 歌曲獎《未來見》
   - Cool Music Forum會員共和榜 共和2018 共和聯頒大獎 歌手獎
   - Cool Music Forum會員共和榜 共和2018 共和我最喜愛的歌曲大獎《未來見》
-  - 音樂. 人生 2018 香港樂壇 二十大單曲\#20《阿發好風光》
-  - 音樂. 人生 2018 香港樂壇 二十大單曲\#1《未來見》
-  - 音樂. 人生 2018 香港樂壇 組合/樂隊之選
-  - 音樂. 人生 2018 香港樂壇 專輯之選 《Hours》
-  - 音樂. 人生 2018 香港樂壇 MV之選《未來見》 (導演: 6號)
-  - 2018年度OnAir Music Award 唱作人 銀獎
-  - 2018年度OnAir Music Award 組合/樂隊 金獎
-  - 2018年度OnAir Music Award 唱片《Hours》
-  - 2018年度OnAir Music Award 十大歌曲 第一位《未來見》
-  - 阿權阿樣與阿強【2018，18首歌】 - 第二位 《未來見》
-  - 阿權阿樣與阿強【2018，18首歌】 - 第五位 《發麻》
-  - 音樂日常 2018年 年度20大香港歌曲 第四首 《未來見》
-  - 音樂日常 2018年 年度20大香港歌曲 第十二首 《那一端》
-  - 當下音樂 一八總結 年度20大 第四位 《你會有一天學會面對》
-  - 當下音樂 一八總結 年度20大 第七位 《未來見》
-  - 當下音樂 一八總結 年度20大 第十六位 《那一端》
-  - 2018年 丹尼爾。海最喜愛歌曲 第1位 《未來見》
-  - 2018年 丹尼爾。海最喜愛組合 第1名
-  - 年粵日2018 年度十大 第七位《未來見》
-  - 論盡音樂 論盡年結2018 年度歌曲 第六位 《未來見》
-  - 論盡音樂 論盡年結2018 年度樂隊組合 第二名
-  - 論盡音樂 論盡回顧2018 十大推介歌手
-  - 論盡音樂 論盡樂迷大賞2018 歌曲獎 Round 3 資淺組 「論盡樂迷最喜愛歌曲」第二位 《未來見》
-  - 論盡音樂 論盡樂迷大賞2018 歌曲獎 Round 2 資淺組 「論盡樂迷最喜愛歌曲」第十一位 《城市當代配樂團》
-  - 論盡音樂 論盡樂迷大賞2018 總決選 資淺組 論盡樂迷最喜愛歌手 第五位
-  - 論盡音樂 論盡樂迷大賞2018 總決選 資淺組 「論盡樂迷最喜愛歌曲」第一位《未來見》
-  - Ch\!kinology 20首2018香港歌曲 \#03《未來見》
 
 ### 2019年度
 

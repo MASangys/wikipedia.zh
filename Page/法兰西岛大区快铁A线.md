@@ -1400,7 +1400,8 @@ A线的中心路网配备了SACEM讯号系统, 可以有效缩短列车时间间
 [3](https://web.archive.org/web/20090721081634/http://www.metro-pole.net/hor)
 Metropole网站相关资料
 
-[4](http://www.blogencommun.fr/rer-a/) BlogenCommun网站上对RER A线的评论
+[4](https://web.archive.org/web/20090620053026/http://www.blogencommun.fr/Rer-a/)
+BlogenCommun网站上对RER A线的评论
 
 ## 外部链接
 

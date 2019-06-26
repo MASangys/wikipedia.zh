@@ -276,8 +276,7 @@ function queryString(p) {
 
 }
 
-if(mw.config.get('wgCanonicalSpecialPageName') == 'Contributions' &&
-mw.config.get('wgEnableAPI')) {
+if(mw.config.get('wgCanonicalSpecialPageName') == 'Contributions') {
 
 ` var crContURI = ''; //query URI for continuing later`
 ` var crLimit = 500; //limit for each query`

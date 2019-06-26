@@ -65,7 +65,7 @@ Hall舉行](https://zh.wikipedia.org/wiki/EMax#匯星 "wikilink")，主題為「
   - 本地男演員
       - [古天樂](../Page/古天樂.md "wikilink")
   - 國際男演員
-      - [李準基](https://zh.wikipedia.org/wiki/李準基 "wikilink")
+      - [李準基](../Page/李準基.md "wikilink")
   - 本地女演員
       - [楊千嬅](../Page/楊千嬅.md "wikilink")
   - 國際女演員

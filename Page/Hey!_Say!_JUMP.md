@@ -653,9 +653,10 @@ Hey\! Say\! 7的「**7**」是2007年結成的意思，Hey\! Say\! BEST的「**B
 <td><p>24</p></td>
 <td><p>2019年5月22日</p></td>
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/Lucky-Unlucky/Oh!_my_darling" title="wikilink">Lucky-Unlucky/Oh! my darling</a></strong></p></td>
-<td></td>
-<td></td>
-<td><p>電視劇『<a href="https://zh.wikipedia.org/wiki/頭に来てもアホとは戦うな" title="wikilink">頭に来てもアホとは戦うな</a>』主題曲</p></td>
+<td><p>首日10.9萬張</p>
+<p>首周19.9萬張</p></td>
+<td><p>1位</p></td>
+<td><p>電視劇『就算生氣也不要和白痴戰鬥』主題曲</p></td>
 </tr>
 <tr class="odd">
 <td></td>

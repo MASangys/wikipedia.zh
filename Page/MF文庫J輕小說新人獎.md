@@ -526,7 +526,7 @@ Factory所主辦的](../Page/Media_Factory.md "wikilink")[輕小說新人獎](..
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/猫耳天使と恋するリンゴ" title="wikilink">猫耳天使と恋するリンゴ</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/花間燈" title="wikilink">花間燈</a><br />
+<td><p><a href="../Page/花間燈.md" title="wikilink">花間燈</a><br />
 </p></td>
 <td></td>
 <td></td>

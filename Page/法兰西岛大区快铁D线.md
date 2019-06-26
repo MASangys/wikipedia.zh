@@ -1594,7 +1594,8 @@ SNCF Transilien
 [2](https://web.archive.org/web/20051208073801/http://www.metro-pole.net/)
 Metro-Pole资料库
 
-[3](http://www.blogencommun.fr/rer-d/) BlogenCommun网站上对RER D线的评论
+[3](https://web.archive.org/web/20090626004059/http://www.blogencommun.fr/rer-d/)
+BlogenCommun网站上对RER D线的评论
 
 ## 外部链接
 

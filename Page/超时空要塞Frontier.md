@@ -1252,7 +1252,8 @@ KIM YONG-SIK</p></td>
 
       - [劇場版 Macross F 虛空歌姬](http://www.macrossf.com/movie/)
 
-      - [劇場版 Macross F 戀離飛翼](http://www.macrossf.com/movie2/)
+      - [劇場版 Macross F
+        戀離飛翼](https://web.archive.org/web/20120905115053/http://www.macrossf.com/movie2/)
 
   - [MBS动画主页](http://www.mbs.jp/macross-f)
 

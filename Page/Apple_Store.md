@@ -1,16 +1,10 @@
 [Apple_store_fifth_avenue.jpg](https://zh.wikipedia.org/wiki/File:Apple_store_fifth_avenue.jpg "fig:Apple_store_fifth_avenue.jpg")[第五大道的Apple](../Page/第五大道.md "wikilink")
-Store入口，是一座玻璃建築，內部裝設有電梯和旋轉樓梯通往位於地下室的商店。\]\]
-[201805_Apple_Store_West_Lake.jpg](https://zh.wikipedia.org/wiki/File:201805_Apple_Store_West_Lake.jpg "fig:201805_Apple_Store_West_Lake.jpg")[西湖的](../Page/西湖.md "wikilink")[零售店](../Page/Apple_西湖.md "wikilink")\]\]
-
-**Apple Store**，或称**苹果零售店**（英文：**Apple
-Store**，為與非直營的授權店區分，苹果直營店又稱**Apple
-Retail
+Store入口，是一座玻璃建築，內部裝設有電梯和旋轉樓梯通往位於地下室的商店。\]\] **Apple
+Store**，或称**苹果零售店**（英文：**Apple
+Store**，為與非直營的授權店區分，苹果直營店又稱**Apple Retail
 Store**）是指一間由[蘋果公司及各地分支机构直接經營的連鎖](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[零售商店](../Page/零售.md "wikilink")，主要业务包括販賣電腦、消費性電子產品、周边配件及软件和苹果产品的售后服务、教育訓練以及商务支持。截至2018年7月，蘋果已經在全世界25个国家和地区開設506家零售店。\[1\]
 
 ## 歷史
-
-[Apple_Store_San_Francisco_Union_Square_Store_Interior_201605.jpg](https://zh.wikipedia.org/wiki/File:Apple_Store_San_Francisco_Union_Square_Store_Interior_201605.jpg "fig:Apple_Store_San_Francisco_Union_Square_Store_Interior_201605.jpg")Apple
-Store於2016年翻新後，加強綠化設計，也增設了全開放式的The Plaza專區，讓顧客可以休憩\]\]
 
 早前Apple Store設計由以舊金山為根據地的 ([Eight
 Inc.](../Page/Eight_Inc..md "wikilink"))
@@ -28,7 +22,8 @@ Store都是位於精華地段的購物中心裡面，但蘋果也在一些重要
 Store有著專用的[銷售時點情報系統](../Page/銷售時點情報系統.md "wikilink")（POS）櫃台，但在2006年，蘋果開始推出全新的商店規劃方式，以金屬材質的牆壁搭配背光的看板。新的商店設計取消了銷售時點情報系櫃台，以手持式的「EasyPay」，或称「ISSAC」系統取代舊模式，改以直接從銷售員手中取貨的嶄新購物體驗，並延續至今。\[3\]\[4\]
 
 Apple Store員工雇用的競爭被認為十分激烈。在一場對談中，蘋果前零售店SVP榮恩·強森（Ron
-Johnson）表示蘋果在2002年時，從16,438名應徵者中雇用了978名商店員工，「錄取率」僅有5.95%。\[5\]
+Johnson）表示蘋果在2002年時，從16,438名應徵者中雇用了978名商店員工，「錄取率」僅有5.95%。\[5\][201805_Apple_Store_West_Lake.jpg](https://zh.wikipedia.org/wiki/File:201805_Apple_Store_West_Lake.jpg "fig:201805_Apple_Store_West_Lake.jpg")[西湖的](../Page/西湖.md "wikilink")[零售店](../Page/Apple_西湖.md "wikilink")\]\][Apple_Store_San_Francisco_Union_Square_Store_Interior_201605.jpg](https://zh.wikipedia.org/wiki/File:Apple_Store_San_Francisco_Union_Square_Store_Interior_201605.jpg "fig:Apple_Store_San_Francisco_Union_Square_Store_Interior_201605.jpg")Apple
+Store於2016年翻新後，加強綠化設計，也增設了全開放式的The Plaza專區，讓顧客可以休憩\]\]
 
 到2016年，蘋果採用全新設計第2代Apple Store。全新設計分店除加強綠化設計及巨型6K或8K電視牆外，亦加入了「The
 Avenue」、「The Forum」等新元素，以及「Feature Bay」供顾客试用 Apple 或第三方配件，及「Video
@@ -49,7 +44,8 @@ Bar的顧客提供免費的[依云](https://zh.wikipedia.org/wiki/愛維養 "wik
 
 [Line_at_the_opening_of_first_Apple_Store_in_America.jpg](https://zh.wikipedia.org/wiki/File:Line_at_the_opening_of_first_Apple_Store_in_America.jpg "fig:Line_at_the_opening_of_first_Apple_Store_in_America.jpg")泰森角中心（Tysons
 Corner Center）Apple Store開幕時的排隊情形。此店於2001年開幕，為全世界第一間Apple Store。\]\]
-[Apple_store_shanghai.jpg](https://zh.wikipedia.org/wiki/File:Apple_store_shanghai.jpg "fig:Apple_store_shanghai.jpg")
+[Apple_store_shanghai.jpg](https://zh.wikipedia.org/wiki/File:Apple_store_shanghai.jpg "fig:Apple_store_shanghai.jpg")，这是中国大陆的第2家Apple
+Store\]\]
 
 在Apple產品愛好者間，Apple
 Store的開幕已經成為一項特殊的活動。商店開幕的當天都會吸引許多近千名顧客提早甚至徹夜排隊。通常是因為前一千名的顧客可以獲得印有商店名稱或其他特别图案的[T-shirt](https://zh.wikipedia.org/wiki/T-shirt "wikilink")。許多大型店會準備數量更多的T-shirt和額外的獎品，在[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[格拉斯哥的Apple](https://zh.wikipedia.org/wiki/格拉斯哥 "wikilink")
@@ -65,7 +61,9 @@ zh-hant:雪梨;}-店及](../Page/悉尼.md "wikilink")[北京大悦城店開幕�
 Apple也会在公司发布会宣传零售店的开幕信息，同时在零售店开幕前夕也会邀请本地媒体或当地国家媒体行预览零售店。
 
   - 2008年10月，[史蒂夫·乔布斯邀请时任首席运营官](../Page/史蒂夫·乔布斯.md "wikilink")[提姆·库克介绍](https://zh.wikipedia.org/wiki/提姆·库克 "wikilink")[麦金塔电脑销售成功的原因](https://zh.wikipedia.org/wiki/Mac系列 "wikilink")，他将零售店作为第6个理由并介绍了[2008年奥运会前夕在北京](https://zh.wikipedia.org/wiki/2008年夏季奥林匹克运动会 "wikilink")[三里屯开幕的首家中国零售店](https://zh.wikipedia.org/wiki/三里屯 "wikilink")。
-  - 2010年9月，史蒂夫·乔布斯介绍了全新开幕的Apple浦东，位于上海。同时还介绍了Apple Covent
+  - 2010年9月，史蒂夫·乔布斯介绍了全新开幕的[Apple
+    浦东](https://zh.wikipedia.org/wiki/Apple_浦东 "wikilink")，位于上海。同时还介绍了Apple
+    Covent
     Garden（[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[伦敦](../Page/伦敦.md "wikilink")）和Apple
     Opéra（[法国](https://zh.wikipedia.org/wiki/法国 "wikilink")[巴黎](../Page/巴黎.md "wikilink")）。
   - 2011年10月，提姆·库克首次作为首席执行官上台演讲，介绍了新开幕的上海南京东路Apple Store。同时还介绍了香港首家Apple
@@ -74,18 +72,18 @@ Apple也会在公司发布会宣传零售店的开幕信息，同时在零售店
     Store的开幕活动视频。库克亦宣布将在2016年中期前在中国开幕
     40 家零售店。
 
-| 店名                                         | 时间                                                                                                         | 地区                                                                 | 原因      |
-| ------------------------------------------ | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ | ------- |
-| Apple 三里屯                                  | 2008 年 10 月                                                                                                | [北京](../Page/北京市.md "wikilink")                                    | 介绍零售店销售 |
-| Apple 浦东                                   | 2010 年 9 月                                                                                                 | [上海](https://zh.wikipedia.org/wiki/上海市 "wikilink")                 | 宣传新开幕   |
-| 2013 年 10 月                                | [iPhone 5s](https://zh.wikipedia.org/wiki/iPhone_5s "wikilink")、[5c](../Page/IPhone_5c.md "wikilink") 发售盛况 |                                                                    |         |
-| Apple 南京东路                                 | 2011 年 10 月                                                                                                | 宣传新开幕                                                              |         |
-| 2013 年 10 月                                | [iPhone 5s](https://zh.wikipedia.org/wiki/iPhone_5s "wikilink")、[5c](../Page/IPhone_5c.md "wikilink") 发售盛况 |                                                                    |         |
-| Apple ifc mall                             | 2011 年 10 月                                                                                                | [香港](../Page/香港.md "wikilink")                                     | 宣传新开幕   |
-| 2012 年 10 月                                | [iPhone 5](https://zh.wikipedia.org/wiki/iPhone_5 "wikilink") 发售盛况                                         |                                                                    |         |
-| Apple Causeway Bay                         | 2014 年 10 月                                                                                                | [iPhone 6](https://zh.wikipedia.org/wiki/iPhone_6 "wikilink") 发售盛况 |         |
-| [Apple 西湖](../Page/Apple_西湖.md "wikilink") | 2015 年 3 月                                                                                                 | [杭州](../Page/杭州市.md "wikilink")                                    | 宣传新开幕   |
-| Apple 天环广场                                 | 2016 年 3 月                                                                                                 | [广州](../Page/广州市.md "wikilink")                                    | 宣传环境政策  |
+| 店名                                                            | 时间                                                                                                         | 地区                                                                 | 原因      |
+| ------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ | ------- |
+| [Apple 三里屯](../Page/Apple_三里屯.md "wikilink")                  | 2008 年 10 月                                                                                                | [北京](../Page/北京市.md "wikilink")                                    | 介绍零售店销售 |
+| [Apple 浦东](https://zh.wikipedia.org/wiki/Apple_浦东 "wikilink") | 2010 年 9 月                                                                                                 | [上海](https://zh.wikipedia.org/wiki/上海市 "wikilink")                 | 宣传新开幕   |
+| 2013 年 10 月                                                   | [iPhone 5s](https://zh.wikipedia.org/wiki/iPhone_5s "wikilink")、[5c](../Page/IPhone_5c.md "wikilink") 发售盛况 |                                                                    |         |
+| Apple 南京东路                                                    | 2011 年 10 月                                                                                                | 宣传新开幕                                                              |         |
+| 2013 年 10 月                                                   | [iPhone 5s](https://zh.wikipedia.org/wiki/iPhone_5s "wikilink")、[5c](../Page/IPhone_5c.md "wikilink") 发售盛况 |                                                                    |         |
+| Apple ifc mall                                                | 2011 年 10 月                                                                                                | [香港](../Page/香港.md "wikilink")                                     | 宣传新开幕   |
+| 2012 年 10 月                                                   | [iPhone 5](https://zh.wikipedia.org/wiki/iPhone_5 "wikilink") 发售盛况                                         |                                                                    |         |
+| Apple Causeway Bay                                            | 2014 年 10 月                                                                                                | [iPhone 6](https://zh.wikipedia.org/wiki/iPhone_6 "wikilink") 发售盛况 |         |
+| [Apple 西湖](../Page/Apple_西湖.md "wikilink")                    | 2015 年 3 月                                                                                                 | [杭州](../Page/杭州市.md "wikilink")                                    | 宣传新开幕   |
+| Apple 天环广场                                                    | 2016 年 3 月                                                                                                 | [广州](../Page/广州市.md "wikilink")                                    | 宣传环境政策  |
 
 ## 地點
 
@@ -104,8 +102,8 @@ Santa Fe購物中心開設了第一間Apple
 Store。2017年5月27日蘋果在[新加坡](../Page/新加坡.md "wikilink")270
 Orchard Road開設了第一間Apple
 Store，这也是[东南亚地区首间Apple](https://zh.wikipedia.org/wiki/东南亚 "wikilink")
-Store。2017年7月1日，[台灣第一家Apple](https://zh.wikipedia.org/wiki/台灣 "wikilink")
-Store於[台北101開幕](../Page/台北101.md "wikilink")。\[16\]2018年1月27日，[韩国首家零售店在林荫道开幕](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")。\[17\]2018年2月24日，[奥地利首家零售店在](https://zh.wikipedia.org/wiki/奥地利 "wikilink")[维也纳开幕](https://zh.wikipedia.org/wiki/维也纳 "wikilink")。\[18\]2018年11月10日，[泰国首家零售店在](../Page/泰国.md "wikilink")[曼谷](../Page/曼谷.md "wikilink")[暹罗天地开幕](https://zh.wikipedia.org/wiki/暹罗天地 "wikilink")。\[19\]
+Store。2017年7月1日，[中華民國第一家Apple](../Page/中華民國.md "wikilink")
+Store於[臺北市](../Page/臺北市.md "wikilink")[信義區](../Page/信義區_\(臺北市\).md "wikilink")[台北101開幕](../Page/台北101.md "wikilink")。\[16\]2018年1月27日，[韩国首家零售店在林荫道开幕](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")。\[17\]2018年2月24日，[奥地利首家零售店在](https://zh.wikipedia.org/wiki/奥地利 "wikilink")[维也纳开幕](https://zh.wikipedia.org/wiki/维也纳 "wikilink")。\[18\]2018年11月10日，[泰国首家零售店在](../Page/泰国.md "wikilink")[曼谷](../Page/曼谷.md "wikilink")[暹罗天地开幕](https://zh.wikipedia.org/wiki/暹罗天地 "wikilink")\[19\]
 
 <table>
 <caption>各地區店舖統計</caption>
@@ -228,25 +226,25 @@ Store於[台北101開幕](../Page/台北101.md "wikilink")。\[16\]2018年1月27
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>2015年9月19日</p></td>
-<td><p>1</p></td>
-<td><p>[40][41]</p></td>
+<td><p>2017年7月1日</p></td>
+<td><p>2</p></td>
+<td><p>[40]</p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p>2016年9月24日</p></td>
+<td><p>2015年9月19日</p></td>
 <td><p>1</p></td>
-<td><p>[42]</p></td>
+<td><p>[41][42]</p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>2017年5月27日</p></td>
+<td><p>2016年9月24日</p></td>
 <td><p>1</p></td>
 <td><p>[43]</p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p>2017年7月1日</p></td>
+<td><p>2017年5月27日</p></td>
 <td><p>1</p></td>
 <td><p>[44]</p></td>
 </tr>
@@ -270,7 +268,7 @@ Store於[台北101開幕](../Page/台北101.md "wikilink")。\[16\]2018年1月27
 </tr>
 <tr class="even">
 <td><p>總店數</p></td>
-<td><p>506</p></td>
+<td><p>507</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -351,97 +349,9 @@ Apple现在已经有超过100家新设计零售店。同时Apple也在将非新�
     Bay展示墙，iPhone、iPad保护壳展示墙等特性应用到了较早开幕的Apple
     Store中。\[50\]
   - 2018年5月起，Apple开始以新方式翻新部分零售店。Apple Palo Alto关店一个月后，加入新设计特有的Video
-    Wall、Avenue等元素，Apple 铜锣湾也作出类似更新。在英国，Apple 科文特花园关闭开始翻新；中国北京的Apple
-    王府井也停业翻新。同时还有多家零售店封闭部分店面添加Video Wall，如加拿大Apple 约克戴尔和中国深圳的Apple
-    深圳益田假日广场。
-
-<table>
-<caption>使用新设计的 Apple Store</caption>
-<thead>
-<tr class="header">
-<th><p>地区</p></th>
-<th><p>已開幕店鋪數目</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td></td>
-<td><p>74</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><p>19</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td><p>9</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><p>4</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td><p>3</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><p>3</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td><p>2</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><p>2</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td><p>2</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><p>1</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td><p>1</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><p>1</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td><p>1</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><p>1</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td><p>1</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><p>1</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td><p>1</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><p>1</p></td>
-</tr>
-<tr class="odd">
-<td><p>總店數</p></td>
-<td><p>126</p></td>
-</tr>
-</tbody>
-</table>
+    Wall、Avenue等元素，Apple 铜锣湾也作出类似更新。在英国，Apple 科文特花园得到翻新。中国北京的Apple
+    王府井也停业数月以翻新。同时还有多家零售店封闭部分店面添加Video Wall，如加拿大Apple
+    约克戴尔和中国深圳的Apple 深圳益田假日广场。
 
 ## 參見
 
@@ -449,6 +359,7 @@ Apple现在已经有超过100家新设计零售店。同时Apple也在将非新�
   - [Apple 密歇根大道](../Page/Apple_密歇根大道.md "wikilink")
   - [Apple 乌节路](../Page/Apple_乌节路.md "wikilink")
   - [Apple 迪拜购物中心](../Page/Apple_迪拜购物中心.md "wikilink")
+  - [Apple 卡内基图书馆](../Page/Apple_卡内基图书馆.md "wikilink")
 
 ## 参考资料
 
@@ -534,11 +445,11 @@ Apple现在已经有超过100家新设计零售店。同时Apple也在将非新�
 38. [Apple Store - Mağaza
     Listesi](https://www.apple.com/tr/retail/storelist/)
 39.
-40. [Apple Store (Belgique) - Liste des
+40.
+41. [Apple Store (Belgique) - Liste des
     Magasins](http://www.apple.com/befr/retail/storelist/)
-41. [Apple Store (België) - Lijst van
+42. [Apple Store (België) - Lijst van
     Stores](https://www.apple.com/benl/retail/storelist/)
-42.
 43.
 44.
 45.

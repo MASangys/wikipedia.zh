@@ -7,7 +7,7 @@ Ltd.）的製作人[近藤光](https://zh.wikipedia.org/wiki/近藤光 "wikilink
 
 主要業務包括動畫的企劃和製作、[系列構成](https://zh.wikipedia.org/wiki/系列構成 "wikilink")、場景製作、電視劇實物影像的企劃和製作、[CG製作及](https://zh.wikipedia.org/wiki/CG "wikilink")[黏土動畫製作](https://zh.wikipedia.org/wiki/黏土動畫 "wikilink")。
 
-於2019年三月十二日因懷疑逃稅四億日元而受到東京稅務局的調查。[1](https://headlines.yahoo.co.jp/article?a=20190328-00011227-bunshun-ent)
+於2019年3月12日因懷疑逃稅四億日元而受到東京稅務局的調查。[1](https://headlines.yahoo.co.jp/article?a=20190328-00011227-bunshun-ent)
 
 ## 作品列表
 

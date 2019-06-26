@@ -418,7 +418,25 @@ G36亦是[德國未來士兵系統](https://zh.wikipedia.org/wiki/德國未來�
 <td><p>4.5/4.6（連消聲器）</p></td>
 <td><p><a href="../Page/機械瞄具.md" title="wikilink">機械瞄具</a><br />
 （可加裝瞄準鏡）</p></td>
-<td><p>標準（10發）</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>HK243 S SAR</strong></p></td>
+<td><p>912/667</p></td>
+<td><p>421</p></td>
+<td><p>3.21/3.28</p></td>
+<td><p><a href="../Page/機械瞄具.md" title="wikilink">機械瞄具</a><br />
+（可加裝瞄準鏡）</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>HK237</strong>，.300口徑版</p></td>
+<td><p>760/710</p></td>
+<td><p>228</p></td>
+<td><p>3.3（空槍）</p></td>
+<td><p><a href="../Page/機械瞄具.md" title="wikilink">機械瞄具</a><br />
+（可加裝瞄準鏡）</p></td>
+<td><p>STANAG彈匣</p></td>
 </tr>
 </tbody>
 </table>

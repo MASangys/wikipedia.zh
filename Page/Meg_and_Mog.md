@@ -55,7 +55,7 @@ Mog**》一書的形式，製作一節以[小學五年級](https://zh.wikipedia.
 
 [Category:繪本](https://zh.wikipedia.org/wiki/Category:繪本 "wikilink")
 [Category:英國動畫影集](https://zh.wikipedia.org/wiki/Category:英國動畫影集 "wikilink")
-[Category:女巫](https://zh.wikipedia.org/wiki/Category:女巫 "wikilink")
+[Category:魔女题材作品](https://zh.wikipedia.org/wiki/Category:魔女题材作品 "wikilink")
 [Category:猫主角故事](https://zh.wikipedia.org/wiki/Category:猫主角故事 "wikilink")
 
 1.  [Target Ent Launches Kids and Animation

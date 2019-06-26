@@ -1,5 +1,5 @@
 {{
-Otheruseslist|[科樂美製作的遊戲](../Page/科樂美.md "wikilink")《心跳回憶》的外傳《劇場系列》|[科樂美數位娛樂所製作的動畫](../Page/科樂美數位娛樂.md "wikilink")《心跳回憶
+about|[科樂美製作的遊戲](../Page/科樂美.md "wikilink")《心跳回憶》的外傳《劇場系列》|[科樂美數位娛樂所製作的動畫](../Page/科樂美數位娛樂.md "wikilink")《心跳回憶
 Only Love》|心跳回憶 Only Love|《心跳回憶》本篇遊戲|心跳回忆}}
 
 《**心跳回憶 Drama

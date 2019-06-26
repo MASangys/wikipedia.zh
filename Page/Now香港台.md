@@ -65,47 +65,47 @@ now香港台是一條與[now寬頻電視其中一條頻道作同步預覽的頻�
 | 2018年12月1日  | [Cartoon Network](https://zh.wikipedia.org/wiki/Cartoon_Network "wikilink")             | 1    |
 | 2019年1月1日   | [華納電視頻道](../Page/華納電視頻道.md "wikilink")                                                  | 2    |
 | 2019年2月1日   | [nowJelli紫金國際台](https://zh.wikipedia.org/wiki/nowJelli紫金國際台 "wikilink")                 | 5    |
-| 2019年3月1日   | [Discovery Channel](../Page/探索頻道.md "wikilink")                                         | 2    |
 | 2019年4月1日   | [Disney Channel](../Page/迪士尼頻道.md "wikilink")                                           | 1    |
 | 2019年4月16日  | [Disney Junior](https://zh.wikipedia.org/wiki/w:en:Disney_Junior_\(Asia\) "wikilink")   |      |
 | 2019年5月1日   | [Food Network](https://zh.wikipedia.org/wiki/w:en:Food_Network "wikilink")              |      |
+| 2019年6月1日   | [BLUE ANT Entertainment](../Page/BLUE_ANT_Entertainment.md "wikilink")                  | 2    |
 |             |                                                                                         |      |
 
-| 預覽頻道號碼 | 預覽頻道                                                                                    | 預覽次數 |
-| ------ | --------------------------------------------------------------------------------------- | ---- |
-| 102    | [now劇集台](https://zh.wikipedia.org/wiki/now劇集台 "wikilink")（前身now觀星台）                     | 3    |
-| 108    | [nowJelli紫金國際台](https://zh.wikipedia.org/wiki/nowJelli紫金國際台 "wikilink")（前身nowJelli）     | 5    |
-| 133    | [now爆谷台](https://zh.wikipedia.org/wiki/now爆谷台 "wikilink")                               | 2    |
-| 151    | [GEM](../Page/GEM_TV_ASIA.md "wikilink")                                                |      |
-| 154    | [Oh\!K](https://zh.wikipedia.org/wiki/Oh!K_TV_ASlA "wikilink")                          |      |
-| 209    | [Discovery Channel](../Page/探索頻道.md "wikilink")                                         |      |
-| 510    | [華納電視頻道](../Page/華納電視頻道.md "wikilink")                                                  |      |
-| 512    | [AXN](../Page/AXN.md "wikilink")                                                        |      |
-| 117    | [FOX Movies](../Page/FOX_Movies.md "wikilink")                                          | 1    |
-| 118    | [FOX Action Movies](https://zh.wikipedia.org/wiki/福斯動作電影頻道 "wikilink")                  |      |
-| 120    | [FOX Family Movies](https://zh.wikipedia.org/wiki/福斯家庭電影頻道 "wikilink")                  |      |
-| 139    | [衛視電影台](../Page/衛視電影台.md "wikilink")                                                    |      |
-| 155    | [tvN](https://zh.wikipedia.org/wiki/tvN_Asia "wikilink")                                |      |
-| 156    | [KBS World](../Page/KBS_World.md "wikilink")                                            |      |
-| 160    | [衛視中文台](../Page/衛視中文台.md "wikilink")                                                    |      |
-| 163    | [TVBS Asia](../Page/TVBS-Asia.md "wikilink")                                            |      |
-| 213    | [TLC旅遊生活頻道](../Page/TLC_\(電視頻道\).md "wikilink")                                         |      |
-| 215    | [國家地理頻道](../Page/國家地理頻道.md "wikilink")                                                  |      |
-| 220    | [BBC Earth](https://zh.wikipedia.org/wiki/BBC_Earth "wikilink")                         |      |
-| 225    | [History HD](../Page/歷史頻道.md "wikilink")                                                |      |
-| 441    | [Disney Channel](../Page/迪士尼頻道.md "wikilink")                                           |      |
-| 442    | [Disney Junior](https://zh.wikipedia.org/wiki/w:en:Disney_Junior_\(Asia\) "wikilink")   |      |
-| 443    | [Cartoon Network](https://zh.wikipedia.org/wiki/Cartoon_Network "wikilink")             |      |
-| 502    | [BBC Lifestyle](https://zh.wikipedia.org/wiki/BBC_Lifestyle "wikilink")                 |      |
-| 508    | [DIVA](../Page/Diva_\(電視網\).md "wikilink")                                              |      |
-| 514    | [索尼台](https://zh.wikipedia.org/wiki/索尼台 "wikilink")                                     |      |
-| 516    | [RTL CBS Extreme](https://zh.wikipedia.org/wiki/RTL_CBS_Extreme "wikilink")             |      |
-| 517    | [RTL CBS Entertainment](https://zh.wikipedia.org/wiki/RTL_CBS_Entertainment "wikilink") |      |
-| 518    | [FOX](../Page/FOX_\(亞洲\).md "wikilink")                                                 |      |
-| 521    | [FOX life](../Page/FOX_Life_\(亞洲\).md "wikilink")                                       |      |
-| 525    | [Lifetime](https://zh.wikipedia.org/wiki/w:en:Lifetime_\(TV_network\) "wikilink")       |      |
-| 526    | [Food Network](https://zh.wikipedia.org/wiki/w:en:Food_Network "wikilink")              |      |
-| 527    | [Asian Food Channel](https://zh.wikipedia.org/wiki/w:en:Asian_Food_Channel "wikilink")  |      |
+| 預覽頻道號碼 | 預覽頻道                                                                                   | 預覽次數 |
+| ------ | -------------------------------------------------------------------------------------- | ---- |
+| 102    | [now劇集台](https://zh.wikipedia.org/wiki/now劇集台 "wikilink")（前身now觀星台）                    | 3    |
+| 108    | [nowJelli紫金國際台](https://zh.wikipedia.org/wiki/nowJelli紫金國際台 "wikilink")（前身nowJelli）    | 5    |
+| 133    | [now爆谷台](https://zh.wikipedia.org/wiki/now爆谷台 "wikilink")                              | 2    |
+| 151    | [GEM](../Page/GEM_TV_ASIA.md "wikilink")                                               |      |
+| 154    | [Oh\!K](https://zh.wikipedia.org/wiki/Oh!K_TV_ASlA "wikilink")                         |      |
+| 209    | [Discovery Channel](../Page/探索頻道.md "wikilink")                                        |      |
+| 510    | [華納電視頻道](../Page/華納電視頻道.md "wikilink")                                                 |      |
+| 512    | [AXN](../Page/AXN.md "wikilink")                                                       |      |
+| 517    | [BLUE ANT Entertainment](../Page/BLUE_ANT_Entertainment.md "wikilink")                 |      |
+| 117    | [FOX Movies](../Page/FOX_Movies.md "wikilink")                                         | 1    |
+| 118    | [FOX Action Movies](https://zh.wikipedia.org/wiki/福斯動作電影頻道 "wikilink")                 |      |
+| 120    | [FOX Family Movies](https://zh.wikipedia.org/wiki/福斯家庭電影頻道 "wikilink")                 |      |
+| 139    | [衛視電影台](../Page/衛視電影台.md "wikilink")                                                   |      |
+| 155    | [tvN](https://zh.wikipedia.org/wiki/tvN_Asia "wikilink")                               |      |
+| 156    | [KBS World](../Page/KBS_World.md "wikilink")                                           |      |
+| 160    | [衛視中文台](../Page/衛視中文台.md "wikilink")                                                   |      |
+| 163    | [TVBS Asia](../Page/TVBS-Asia.md "wikilink")                                           |      |
+| 213    | [TLC旅遊生活頻道](../Page/TLC_\(電視頻道\).md "wikilink")                                        |      |
+| 215    | [國家地理頻道](../Page/國家地理頻道.md "wikilink")                                                 |      |
+| 220    | [BBC Earth](https://zh.wikipedia.org/wiki/BBC_Earth "wikilink")                        |      |
+| 225    | [History HD](../Page/歷史頻道.md "wikilink")                                               |      |
+| 441    | [Disney Channel](../Page/迪士尼頻道.md "wikilink")                                          |      |
+| 442    | [Disney Junior](https://zh.wikipedia.org/wiki/w:en:Disney_Junior_\(Asia\) "wikilink")  |      |
+| 443    | [Cartoon Network](https://zh.wikipedia.org/wiki/Cartoon_Network "wikilink")            |      |
+| 502    | [BBC Lifestyle](https://zh.wikipedia.org/wiki/BBC_Lifestyle "wikilink")                |      |
+| 508    | [DIVA](../Page/Diva_\(電視網\).md "wikilink")                                             |      |
+| 514    | [索尼台](https://zh.wikipedia.org/wiki/索尼台 "wikilink")                                    |      |
+| 516    | [BLUE ANT Extreme](../Page/BLUE_ANT_Extreme.md "wikilink")                             |      |
+| 518    | [FOX](../Page/FOX_\(亞洲\).md "wikilink")                                                |      |
+| 521    | [FOX life](../Page/FOX_Life_\(亞洲\).md "wikilink")                                      |      |
+| 525    | [Lifetime](https://zh.wikipedia.org/wiki/w:en:Lifetime_\(TV_network\) "wikilink")      |      |
+| 526    | [Food Network](https://zh.wikipedia.org/wiki/w:en:Food_Network "wikilink")             |      |
+| 527    | [Asian Food Channel](https://zh.wikipedia.org/wiki/w:en:Asian_Food_Channel "wikilink") |      |
 
 ### 稍後預覽頻道
 

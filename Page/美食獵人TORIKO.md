@@ -4218,4 +4218,4 @@ WALKER(S)](https://zh.wikipedia.org/wiki/JUN_SKY_WALKER\(S\) "wikilink")
 [Category:富士電視台動畫](https://zh.wikipedia.org/wiki/Category:富士電視台動畫 "wikilink")
 [Category:ufotable](https://zh.wikipedia.org/wiki/Category:ufotable "wikilink")
 
-1.  [日本漫畫累計銷量](http://www.geocities.jp/wj_log/rank/)
+1.

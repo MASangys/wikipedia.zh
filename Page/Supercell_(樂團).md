@@ -4,7 +4,7 @@
 
 之後，supercell由首張單曲《[你所不知道的故事](https://zh.wikipedia.org/wiki/你所不知道的故事 "wikilink")》起的三張單曲都以[nagi為主唱](https://zh.wikipedia.org/wiki/やなぎなぎ "wikilink")。於2011年發行的專輯《[Today
 Is A Beautiful
-Day](https://zh.wikipedia.org/wiki/Today_Is_A_Beautiful_Day "wikilink")》是nagi最後為supercell擔作主唱的作品。為了挑選接下來的作品主唱，他們舉辦甄選會，從中选拔出兩位女孩子——當時15歲的和當時17歲的[chelly](https://zh.wikipedia.org/wiki/chelly "wikilink")。兩個主唱首次跟supercell合作的單曲都是電視動畫《[罪惡王冠](../Page/罪惡王冠.md "wikilink")》的主題曲，均於2011年發行。
+Day](https://zh.wikipedia.org/wiki/Today_Is_A_Beautiful_Day "wikilink")》是nagi最後為supercell擔作主唱的作品。為了挑選接下來的作品主唱，他們舉辦甄選會，從中选拔出兩位女孩子——當時15歲的[こゑだ和當時](../Page/Koeda.md "wikilink")17歲的[chelly](https://zh.wikipedia.org/wiki/chelly "wikilink")。兩個主唱首次跟supercell合作的單曲都是電視動畫《[罪惡王冠](../Page/罪惡王冠.md "wikilink")》的主題曲，均於2011年發行。
 
 《supercell》和《Today Is A Beautiful
 Day》均獲[日本唱片協會認證為金](../Page/日本唱片協會.md "wikilink")（即出貨量超過10萬張）。他們亦於2010年獲頒發[日本金唱片大獎的五大新人獎](../Page/日本金唱片大獎.md "wikilink")。
@@ -263,7 +263,7 @@ CD+DVD</p></td>
 <td><p><strong>My Dearest</strong></p></td>
 <td><p>SRCL-7793 ～ SRCL-7794</p></td>
 <td><p>SRCL-7795</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/こゑだ" title="wikilink">こゑだ</a></p></td>
+<td><p><a href="../Page/Koeda.md" title="wikilink">こゑだ</a></p></td>
 </tr>
 <tr class="even">
 <td><p>5th</p></td>

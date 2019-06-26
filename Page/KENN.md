@@ -1,5 +1,5 @@
 **KENN**（，1982年3月24日—），本名**大橋賢一郎**（日語假名：おおはし
-けんいちろう），是日本的男[歌手](../Page/歌手.md "wikilink")、[演員](https://zh.wikipedia.org/wiki/演員 "wikilink")、[聲優](../Page/聲優.md "wikilink")，[Zynchro所屬](https://zh.wikipedia.org/wiki/Zynchro "wikilink")。[東京都出身](../Page/東京都.md "wikilink")，[東京自由学園畢業](https://zh.wikipedia.org/wiki/東京自由学園 "wikilink")。
+けんいちろう），是日本的男[歌手](../Page/歌手.md "wikilink")、[演員](../Page/演員.md "wikilink")、[聲優](../Page/聲優.md "wikilink")，[Zynchro所屬](https://zh.wikipedia.org/wiki/Zynchro "wikilink")。[東京都出身](../Page/東京都.md "wikilink")，[東京自由学園畢業](https://zh.wikipedia.org/wiki/東京自由学園 "wikilink")。
 
 ## 經歷
 
@@ -135,11 +135,11 @@ NaB's](https://zh.wikipedia.org/wiki/The_NaB's "wikilink")，後來在電視節�
     \~網球優等生\~](../Page/Baby_Steps_~網球優等生~.md "wikilink")（井出義明）
   - [閃爍的青春](../Page/閃爍的青春.md "wikilink")（**小湊亞耶**）
   - [黑執事 Book of Circus](../Page/黑執事.md "wikilink")（羅納德·諾克斯）
-  - [鑽石王牌](https://zh.wikipedia.org/wiki/鑽石王牌 "wikilink")（神谷卡爾羅斯俊樹）
+  - [鑽石王牌](../Page/鑽石王牌.md "wikilink")（神谷卡爾羅斯俊樹）
   - [宇宙浪子](../Page/宇宙浪子.md "wikilink")（艾薩克）
   - [火星異種](../Page/火星異種.md "wikilink")「阿聶克斯1號篇」（**阿萊克斯·K·斯圖亞特**）
   - [寄生獸 生命的準則](https://zh.wikipedia.org/wiki/寄生獸 "wikilink")（光雄）
-  - [晨曦公主](https://zh.wikipedia.org/wiki/晨曦公主 "wikilink")（丁宇／邰悟/テウ）
+  - [晨曦公主](../Page/晨曦公主.md "wikilink")（丁宇／邰悟/テウ）
 
 <!-- end list -->
 

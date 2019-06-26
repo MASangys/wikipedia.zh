@@ -87,7 +87,7 @@ Seats area 201311.jpg|洗手間外設軟座閒坐區 <File:YOHO> Mall II Level 3
 
 <!-- end list -->
 
-  - [元朗（東）巴士總站](../Page/元朗（東）巴士總站.md "wikilink")
+  - [元朗（東）](../Page/元朗（東）巴士總站.md "wikilink")
 
 <!-- end list -->
 

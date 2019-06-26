@@ -130,7 +130,7 @@ Devotion of Suspect X**》。本作是東野圭吾發表作品迄今被最多語
 <td></td>
 </tr>
 <tr class="odd">
-<td><p></p></td>
+<td><p><a href="../Page/Actes_Sud.md" title="wikilink">Actes Sud</a></p></td>
 <td><p>2011年11月2日</p></td>
 <td><p>平裝書</p></td>
 <td><p>316頁</p></td>

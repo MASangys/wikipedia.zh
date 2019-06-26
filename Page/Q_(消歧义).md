@@ -73,7 +73,7 @@
   - [Q连续体](../Page/Q连续体.md "wikilink")，《[星际迷航](https://zh.wikipedia.org/wiki/星际迷航 "wikilink")》中扮演[上帝角色的种族](https://zh.wikipedia.org/wiki/上帝 "wikilink")
   - [Q
     (街头霸王系列)](https://zh.wikipedia.org/wiki/Q_\(街头霸王系列\) "wikilink")，一个[街头霸王系列游戏角色](https://zh.wikipedia.org/wiki/街头霸王系列 "wikilink")
-  - [Q](https://zh.wikipedia.org/wiki/小Q "wikilink")，《[偵探學園Q](https://zh.wikipedia.org/wiki/偵探學園Q "wikilink")》的主角
+  - [Q](../Page/小Q.md "wikilink")，《[偵探學園Q](https://zh.wikipedia.org/wiki/偵探學園Q "wikilink")》的主角
   - [天才Q](https://zh.wikipedia.org/wiki/天才Q "wikilink")，在《[海山高中國中部](https://zh.wikipedia.org/wiki/海山高中國中部 "wikilink")》的一名角色
   - Q，遊戲《[快打旋風III
     未來之戰](https://zh.wikipedia.org/wiki/街頭霸王III "wikilink")》的登場角色

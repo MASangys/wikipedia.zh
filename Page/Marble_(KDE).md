@@ -12,3 +12,4 @@
 [Category:虛擬地球](https://zh.wikipedia.org/wiki/Category:虛擬地球 "wikilink")
 [Category:遙感](https://zh.wikipedia.org/wiki/Category:遙感 "wikilink")
 [Category:地圖](https://zh.wikipedia.org/wiki/Category:地圖 "wikilink")
+[Category:地球科學圖形軟體](https://zh.wikipedia.org/wiki/Category:地球科學圖形軟體 "wikilink")

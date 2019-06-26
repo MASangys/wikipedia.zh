@@ -113,6 +113,48 @@ LineData =
 
   - ：日語專輯發行
 
+## 音樂作品
+
+### 韓語專輯
+
+  - （2007年）
+
+  - （2008年）
+
+  - [Cross & Change](../Page/CROSS_&_CHANGE.md "wikilink")（2009年）
+
+  - [Five Treasure Box](../Page/FIVE_TREASURE_BOX.md "wikilink")（2012年）
+
+  - [I Will](../Page/I_WILL_\(FTIsland專輯\).md "wikilink")（2015年）
+
+  - [Where's the
+    Truth?](../Page/Where's_the_Truth?.md "wikilink")（2016年）
+
+  - [Over 10 Years](../Page/OVER_10_YEARS.md "wikilink")（2017年）
+
+### 日語專輯
+
+  - （2009年）
+
+  - [Five Treasure
+    Island](../Page/FIVE_TREASURE_ISLAND.md "wikilink")（2011年）
+
+  - [20 \[Twenty](../Page/20［twenty］.md "wikilink")\]（2012年）
+
+  - [Rated-FT](../Page/RATED-FT.md "wikilink")（2013年）
+
+  - [New Page](../Page/NEW_PAGE.md "wikilink")（2014年）
+
+  - [5.....Go](../Page/5.....GO.md "wikilink")（2015年）
+
+  - [N.W.U](../Page/N.W.U.md "wikilink")（2016年）
+
+  - [United Shadows](../Page/UNITED_SHADOWS.md "wikilink")（2017年）
+
+  - [Planet Bonds](../Page/Planet_Bonds.md "wikilink")（2018年）
+
+  - [Everlasting](../Page/Everlasting_\(FTIsland專輯\).md "wikilink")（2019年）
+
 ## 影視作品
 
 ### 電視劇
@@ -248,48 +290,6 @@ LineData =
   - Toreore 炸雞代言
   - 2014 [StayReal](../Page/StayReal.md "wikilink") 潮流服飾品牌代言 \[2\]
   - 2014 呂 洗髮精代言（[李洪基](../Page/李洪基.md "wikilink")）
-
-## 音樂作品
-
-### 韓語專輯
-
-  - （2007年）
-
-  - （2008年）
-
-  - [Cross & Change](../Page/CROSS_&_CHANGE.md "wikilink")（2009年）
-
-  - [Five Treasure Box](../Page/FIVE_TREASURE_BOX.md "wikilink")（2012年）
-
-  - [I Will](../Page/I_WILL_\(FTIsland專輯\).md "wikilink")（2015年）
-
-  - [Where's the
-    Truth?](../Page/Where's_the_Truth?.md "wikilink")（2016年）
-
-  - [Over 10 Years](../Page/OVER_10_YEARS.md "wikilink")（2017年）
-
-### 日語專輯
-
-  - （2009年）
-
-  - [Five Treasure
-    Island](../Page/FIVE_TREASURE_ISLAND.md "wikilink")（2011年）
-
-  - [20 \[Twenty](../Page/20［twenty］.md "wikilink")\]（2012年）
-
-  - [Rated-FT](../Page/RATED-FT.md "wikilink")（2013年）
-
-  - [New Page](../Page/NEW_PAGE.md "wikilink")（2014年）
-
-  - [5.....Go](../Page/5.....GO.md "wikilink")（2015年）
-
-  - [N.W.U](../Page/N.W.U.md "wikilink")（2016年）
-
-  - [United Shadows](../Page/UNITED_SHADOWS.md "wikilink")（2017年）
-
-  - [Planet Bonds](../Page/Planet_Bonds.md "wikilink")（2018年）
-
-  - [Everlasting](../Page/Everlasting_\(FTIsland專輯\).md "wikilink")（2019年）
 
 ## 演唱會
 
@@ -617,6 +617,55 @@ LineData =
 | 2018年5月8日、9日 | 東京站       | 日本武道館    |
 |              |           |          |
 
+  - FTISLAND AUTUMN TOUR 2018 -Pretty Girl-
+
+|            |           |                    |
+| ---------- | --------- | ------------------ |
+| **日期**     | **演唱會站次** | **舉行地點**           |
+| 2018年9月5日  | 愛知站       | Zepp Nagoya        |
+| 2018年9月6日  | 愛知站       | Zepp Nagoya        |
+| 2018年9月8日  | 廣島站       | 広島文化学園HBGホール       |
+| 2018年9月11日 | 大阪站       | Zepp Osaka Bayside |
+| 2018年9月12日 | 大阪站       | Zepp Osaka Bayside |
+| 2018年9月16日 | 東京站       | 豊洲PIT              |
+| 2018年9月17日 | 東京站       | 豊洲PIT              |
+| 2018年9月19日 | 新潟站       | 新潟県民会館　大ホール        |
+| 2018年9月21日 | 宮城站       | 仙台サンプラザホール         |
+| 2018年9月23日 | 岐阜站       | 長良川国際会議場 メインホール    |
+| 2018年9月28日 | 東京站       | 日本武道館              |
+|            |           |                    |
+
+  - FTISLAND JAPAN LIVE TOUR 2019 -FIVE TREASURES-
+
+|            |           |                          |
+| ---------- | --------- | ------------------------ |
+| **日期**     | **演唱會站次** | **舉行地點**                 |
+| 2019年4月4日  | 東京站       | 豊洲PIT                    |
+| 2019年4月5日  | 東京站       | 豊洲PIT                    |
+| 2019年4月11日 | 新潟站       | 新潟県民会館　大ホール              |
+| 2019年4月13日 | 宮城站       | 仙台サンプラザホール               |
+| 2019年4月17日 | 大阪站       | Zepp Osaka Bayside       |
+| 2019年4月18日 | 大阪站       | Zepp Osaka Bayside       |
+| 2019年4月20日 | 廣島站       | 広島文化学園HBGホール             |
+| 2019年4月22日 | 愛知站       | Zepp Nagoya              |
+| 2019年4月23日 | 愛知站       | Zepp Nagoya              |
+| 2019年4月25日 | 福岡站       | Zepp Fukuoka             |
+| 2019年4月30日 | 東京站       | 日本武道館                    |
+| 2019年5月4日  | 兵庫站       | ワールド記念ホール（神戸ポートアイランドホール） |
+| 2019年5月5日  | 兵庫站       | ワールド記念ホール（神戸ポートアイランドホール） |
+|            |           |                          |
+
+  - 2019 FTISLAND JAPAN ENCORE LIVE -ARIGATO-
+
+|            |           |                    |
+| ---------- | --------- | ------------------ |
+| **日期**     | **演唱會站次** | **舉行地點**           |
+| 2019年8月27日 | 大阪站       | 大阪国際会議場（グランキューブ大阪） |
+| 2019年8月28日 | 大阪站       | 大阪国際会議場（グランキューブ大阪） |
+| 2019年8月31日 | 千葉站       | 幕張メッセ 幕張イベントホール    |
+| 2019年9月1日  | 千葉站       | 幕張メッセ 幕張イベントホール    |
+|            |           |                    |
+
 ## FTISLAND OFFICIAL FAN MEETING
 
   - FTISLAND Japan Major Debut 5th Anniversary
@@ -674,6 +723,18 @@ LineData =
 | 2017年2月20日 | 愛知(開演15:00) | 名古屋国際会議場 センチュリーホール |
 | 2017年2月20日 | 愛知(開演19:00) | 名古屋国際会議場 センチュリーホール |
 
+  - THE PRIMA TV SHOW starring FTISLAND
+
+|            |              |               |
+| ---------- | ------------ | ------------- |
+| **日期**     | **見面會場次**    | **舉行地點**      |
+| 2018年2月12日 | 大阪(開演14:30)  | 大阪府立国際会議場     |
+| 2018年2月12日 | 大阪(開演18:30)  | 大阪府立国際会議場     |
+| 2018年2月13日 | 岐阜(開演14:30)  | 長良川国際会議場      |
+| 2018年2月13日 | 岐阜(開演18:30)  | 長良川国際会議場      |
+| 2018年2月15日 | 神奈川(開演14:30) | パシフィコ横浜国立大ホール |
+| 2018年2月15日 | 神奈川(開演18:30) | パシフィコ横浜国立大ホール |
+
 ## FNC KINGDOM 家族演唱會
 
 |                 |                                                  |                                                                |
@@ -692,6 +753,8 @@ LineData =
 | 2016年12月11日     | 2016 FNC KINGDOM IN JAPAN - CREEPY NIGHTS -      | 幕張メッセ 国際展示場 9-11Hall                                           |
 | 2017年12月16日     | 2017 FNC KINGDOM IN JAPAN - MIDNIGHT CIRCUS -    | 幕張メッセ 国際展示場 9-11Hall                                           |
 | 2017年12月17日     | 2017 FNC KINGDOM IN JAPAN - MIDNIGHT CIRCUS -    | 幕張メッセ 国際展示場 9-11Hall                                           |
+| 2019年12月21日     | 2019 FNC KINGDOM IN JAPAN - WINTER FOREST CAMP - | 幕張メッセ 国際展示場 9-11Hall                                           |
+| 2019年12月22日     | 2019 FNC KINGDOM IN JAPAN - WINTER FOREST CAMP - | 幕張メッセ 国際展示場 9-11Hall                                           |
 
 ## FTIsland 參加的其他大型演唱會
 

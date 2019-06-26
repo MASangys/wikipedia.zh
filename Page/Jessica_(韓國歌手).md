@@ -17,7 +17,7 @@ The New World](../Page/再次重逢的世界.md "wikilink")》
 BLANC\&ECLARE（2014年至今）
 [SM Town](../Page/SM_Town.md "wikilink")（2007年至2015年） | IMDb = 4227335 |
 module =  | module2 =  }}
-**鄭秀妍**（，），本名**潔-{西卡}-·秀妍·鄭**（），出生於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加利福尼亞州](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")[舊金山的](https://zh.wikipedia.org/wiki/舊金山 "wikilink")[歌手](../Page/歌手.md "wikilink")、[演員及](https://zh.wikipedia.org/wiki/演員 "wikilink")[設計師](https://zh.wikipedia.org/wiki/設計師 "wikilink")
+**鄭秀妍**（，），本名**潔-{西卡}-·秀妍·鄭**（），出生於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加利福尼亞州](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")[舊金山的](https://zh.wikipedia.org/wiki/舊金山 "wikilink")[歌手](../Page/歌手.md "wikilink")、[演員及](../Page/演員.md "wikilink")[設計師](https://zh.wikipedia.org/wiki/設計師 "wikilink")
 \[1\]，曾為韓國女子組合[少女時代的成員](https://zh.wikipedia.org/wiki/少女時代 "wikilink")。創立品牌「BLANC
 &
 ECLARE」，為其[總裁兼](https://zh.wikipedia.org/wiki/總裁 "wikilink")[創意總監](https://zh.wikipedia.org/wiki/創意總監 "wikilink")。2000年前往韓國旅遊時被[SM娛樂公司發掘](../Page/SM娛樂.md "wikilink")，其後進入該公司當練習生。2007年以女子組合少女時代出道，隊內擔任第二主唱，為少女時代成員中訓練時間最長的成員，長達七年零六個月。2014年8月創立品牌BLANC\&ECLARE。2014年9月30日潔西卡在個人微博上宣布被公司通知退出少女時代，成為已離團成員。2015年8月6日，潔西卡正式與SM娛樂公司解除合約並離開公司。

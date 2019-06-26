@@ -126,8 +126,6 @@ Bean開始](../Page/Android_Jelly_Bean.md "wikilink")，可擴展通知「允許
 [Android_Storage.png](https://zh.wikipedia.org/wiki/File:Android_Storage.png "fig:Android_Storage.png")
 [Android儲存空間分配.png.jpg](https://zh.wikipedia.org/wiki/File:Android儲存空間分配.png.jpg "fig:Android儲存空間分配.png.jpg")\]\]
 
-[HTC_u11_9.0_通知欄.png](https://zh.wikipedia.org/wiki/File:HTC_u11_9.0_通知欄.png "fig:HTC_u11_9.0_通知欄.png")\]\]
-
 ### 應用程式
 
 應用程式（簡稱[apps](../Page/流動應用程式.md "wikilink")）是擴展裝置功能的軟件，都是利用[Android軟件開發工具包](https://zh.wikipedia.org/wiki/軟體開發套件 "wikilink")（SDK）編寫的\[95\]，通常是[Java編程語言](../Page/Java.md "wikilink")\[96\]。Java可以與[C語言或](https://zh.wikipedia.org/wiki/C語言 "wikilink")[C++](../Page/C++.md "wikilink")\[97\]結合使用，並且可以選擇非默認的[執行時函式庫共用](https://zh.wikipedia.org/wiki/運行時庫 "wikilink")，以允許獲得更好的C++支援\[98\]。雖然Google的[Go是有一組有限的](../Page/Go.md "wikilink")[應用程式介面](https://zh.wikipedia.org/wiki/應用程式介面 "wikilink")（API），然而它也支持編程語言\[99\]。2017年5月，Google宣布支援[Kotlin程式語言](../Page/Kotlin.md "wikilink")\[100\]\[101\]。
@@ -370,7 +368,7 @@ Sense](../Page/HTC_Sense.md "wikilink")），也可以使用他們自己的專�
 
 Google僅將其流動服務軟件以及Android的商標授權予符合Android兼容性計劃中指定的Google的兼容性標準\[311\]，因此這使作業系統本身有著重大變化的Android分支（不包括任何Google的非免費組件）跟其所需的應用程式保持不兼容，並且必須隨附替代軟件，以替代Google
 Play商店中的市場\[312\]。此類Android分支的例子有[亞馬遜的](../Page/亞馬遜公司.md "wikilink")[Fire
-OS](https://zh.wikipedia.org/wiki/Fire_OS "wikilink")（那是用於為亞馬遜服務的[Kindle
+OS](../Page/Fire_OS.md "wikilink")（那是用於為亞馬遜服務的[Kindle
 Fire系列平板電腦](../Page/Kindle_Fire.md "wikilink")）、[諾基亞X軟件平台](https://zh.wikipedia.org/wiki/諾基亞X軟件平台 "wikilink")（的分支，主要用於為[諾基亞及](https://zh.wikipedia.org/wiki/諾基亞 "wikilink")[微軟服務](https://zh.wikipedia.org/wiki/微軟 "wikilink")），以及由於在某些地區一般都無法使用Google服務（例如[中國大陸](https://zh.wikipedia.org/wiki/中華人民共和國網絡審查 "wikilink")），故排除了Google應用程式的其他分支\[313\]\[314\]。2014年，Google也開始要求所有授權使用Google流動服務軟件的Android裝置的啟動畫面上顯示一個突出的「由Android提供支援」的標誌\[315\]。Google還強制執行了在裝置上設置Google流動服務及優惠捆綁計劃，包括強制捆綁整個Google主要應用程式套件，和Google搜索的捷徑，以及Google
 Play商店的應用程式必須以預設配置或在主畫面的預設配置附近\[316\]。
 
@@ -710,7 +708,7 @@ Fire](../Page/Kindle_Fire.md "wikilink")。
 <tr class="odd">
 <td></td>
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/Android歷史版本#Android_4.0_Ice_Cream_Sandwich_(API_14)" title="wikilink">4.0</a></strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Android_Ice_Cream_Sandwich" title="wikilink">Ice Cream Sandwich</a></p></td>
+<td><p><a href="../Page/Android_Ice_Cream_Sandwich.md" title="wikilink">Ice Cream Sandwich</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Dalvik虛擬機器" title="wikilink">Dalvik</a></p></td>
 <td><p>0.3%</p></td>

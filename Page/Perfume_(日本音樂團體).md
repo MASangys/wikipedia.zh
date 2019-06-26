@@ -264,7 +264,7 @@ FINAL DOME TOUR -REAL LIFE-」創下的紀錄\[101\]。
 
 3月11日，日本發生[9級大地震](../Page/2011年日本東北地方太平洋近海地震.md "wikilink")，[Amuse事務所將旗下](../Page/Amuse.md "wikilink")37個組合和54名藝人組織成特別團體「Team
 Amuse\!\!」，Perfume與[ONE OK
-ROCK](https://zh.wikipedia.org/wiki/ONE_OK_ROCK "wikilink")、[南方之星和](../Page/南方之星.md "wikilink")[桑田佳祐等名人一同參與愛心義賣歌曲](../Page/桑田佳祐.md "wikilink")《[Let's
+ROCK](../Page/ONE_OK_ROCK.md "wikilink")、[南方之星和](../Page/南方之星.md "wikilink")[桑田佳祐等名人一同參與愛心義賣歌曲](../Page/桑田佳祐.md "wikilink")《[Let's
 try
 again](../Page/Let's_try_again.md "wikilink")》的演唱以及音樂影片拍攝\[102\]。這首歌除了有由桑田編寫和演奏的部分外，也有一部分混合了各藝人以前的作品，當中Perfume在4年前推出的單曲《[Polyrhythm](../Page/Polyrhythm_\(Perfume單曲\).md "wikilink")》就有部分片段被選取使用在歌曲中\[103\]。由於地震所導致的[東日本大震災對全國影響甚大](../Page/東日本大震災.md "wikilink")，Perfume原定於4月20日發行的新單曲《[Laser
 Beam/微香](https://zh.wikipedia.org/wiki/Laser_Beam/微香 "wikilink")》也推遲到5月18日才在市面發行\[104\]，同時宣布將單曲部分收益用於賑災\[105\]。雖然如此，單曲仍以首日4萬5千張、首週9.4萬張成績再一次刷新自身首日及首週初動紀錄，但不敵[傑尼斯事務所的](../Page/傑尼斯事務所.md "wikilink")[KAT-TUN](../Page/KAT-TUN.md "wikilink")，登上Oricon單曲週榜亞軍\[106\]。此曲也被[麒麟啤酒用於其電視廣告](../Page/麒麟啤酒.md "wikilink")「麒麟CHU-HI冰結
@@ -2086,6 +2086,7 @@ Perfume、SPECIAL OTHERS</p></td>
 [Category:Amuse所屬藝人](https://zh.wikipedia.org/wiki/Category:Amuse所屬藝人 "wikilink")
 [Category:Mnet亞洲音樂大獎獲得者](https://zh.wikipedia.org/wiki/Category:Mnet亞洲音樂大獎獲得者 "wikilink")
 [Category:德間日本傳播旗下藝人](https://zh.wikipedia.org/wiki/Category:德間日本傳播旗下藝人 "wikilink")
+[Category:NHK紅白歌合戰出场歌手](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰出场歌手 "wikilink")
 
 1.
 2.

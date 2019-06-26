@@ -13,6 +13,23 @@
  #   * Everything from a "#" character to the end of the line is a comment
  #   * Every non-blank line is a regex fragment which will only match hosts inside URL
 
+\bwww\.valentinodaily\.com\b
+\bcareline\.com\.tw\b
+\bivftaiwan\.com\b
+\be-stork\.com\.tw\b
+\bcd-net\.com\.tw\b
+\blanguage-center\.com\.tw\b
+\blianan\.com\.tw\b
+\byutengmagic\.com\b
+\bemperor-diamond\.com\.tw\b
+\bfindhome\.com\.hk\b
+\bbesthome\.com\.hk\b
+\bdr-promotion\.com\b
+\bmcwedding\.com\.hk\b
+\bsetupcompany\.com\.hk\b
+\blearnmore\.com\.hk\b
+\bbirthdayking\.hk\b
+\bmagicking\.hk\b
 \blpm\.hk\b
 \breurl\.cc\b # 縮網址
 \bwww\.jcmtherapy\.com\b
@@ -1613,7 +1630,7 @@ smiletaiwan\.cw\.com\.tw
 \blib\.verycd\.com\b #防止加入盗版内容
 \bbing\.com\/videos\b #侵权内容
 \bxinci\.so\b #大量spam
-\bfacebook\.com\/(groups|group\.php|\d+($|\?|\/))\b
+\bfacebook\.com\/(groups|group\.php)\b
 \berhu\.music1688\.org\b 音樂廣告。
 
 #房地产spam

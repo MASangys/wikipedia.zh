@@ -39,6 +39,7 @@ Brand](https://zh.wikipedia.org/wiki/Partner_Brand "wikilink")。在網路上常
     Sheep-](../Page/大圖書館的牧羊人.md "wikilink")》（）
   - 2016年9月23日－《[千之刃濤、桃花染之皇姬](https://zh.wikipedia.org/wiki/千之刃濤、桃花染之皇姬 "wikilink")》（）
   - 2017年12月19日－《[愛麗絲秘跡](https://zh.wikipedia.org/wiki/愛麗絲秘跡 "wikilink")》（）
+  - 2019年9月27日－《》
 
 ### ARIA
 

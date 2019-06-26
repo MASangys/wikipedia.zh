@@ -45,7 +45,7 @@ Promotion](../Page/Mausu_Promotion.md "wikilink")（舊稱：江崎Production）
 
   - [內田雄馬](../Page/內田雄馬.md "wikilink")（2013）
 
-  - （2016）
+  - [大塚剛央](https://zh.wikipedia.org/wiki/大塚剛央 "wikilink")（2016）
 
 <!-- end list -->
 
@@ -397,6 +397,9 @@ Promotion](../Page/Mausu_Promotion.md "wikilink")（舊稱：江崎Production）
   - [若林直美](../Page/若林直美.md "wikilink")（2008年3月31日轉為自由身，經歷和業務提攜、同人舎（現：al-share）之後，2018年9月1日起現在是所屬）
 
   - [渡邊由紀](../Page/渡邊由紀.md "wikilink")（2004年引退）
+
+  - （2013年度所屬～2019年5月31日離所，2019年6月15日起現在是[Holy
+    Peak所屬](../Page/Holy_Peak.md "wikilink")）
 
 ## Crazy Box
 

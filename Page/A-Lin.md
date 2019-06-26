@@ -262,7 +262,7 @@ BASSETT、DAVE</p></td>
 <td><p>2016-03-28</p></td>
 <td><p>吳頔</p></td>
 <td><p>陳致逸</p></td>
-<td><p>電影「<a href="https://zh.wikipedia.org/wiki/魔宫魅影" title="wikilink">魔宫魅影</a>」主題曲</p></td>
+<td><p>電影「<a href="../Page/魔宫魅影.md" title="wikilink">魔宫魅影</a>」主題曲</p></td>
 </tr>
 <tr class="odd">
 <td><p>幸福太短</p></td>

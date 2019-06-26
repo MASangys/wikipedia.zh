@@ -86,7 +86,7 @@
 | 27th  | 2017年8月2日   | **[move on\! イバラミチ](https://zh.wikipedia.org/wiki/move_on!_イバラミチ "wikilink")**              | LACM-34625   | LACM-14625 |
 | 28th  | 2018年2月21日  | **[Deadly Drive](https://zh.wikipedia.org/wiki/Deadly_Drive "wikilink")**                   | LACM-34729   | LACM-14729 |
 | 29th  | 2018年7月11日  | **[BEASTFUL](https://zh.wikipedia.org/wiki/BEASTFUL "wikilink")**                           | LACM-34772   | LACM-14772 |
-| 30th  | 2019年5月8日   | **[セツナの愛](https://zh.wikipedia.org/wiki/セツナの愛 "wikilink")**                                 |              |            |
+| 30th  | 2019年5月8日   | **[セツナの愛](https://zh.wikipedia.org/wiki/セツナの愛 "wikilink")**                                 | LACM-34867   | LACM-14867 |
 
 ### 專輯
 
@@ -102,7 +102,7 @@
 | 5th   | 2012年10月10日 | ****                                                                            | LACA-35240    | LACA-15240 |
 | 6th   | 2014年9月24日  | ****                                                                            | LACA-35430    | LACA-15430 |
 | 7th   | 2017年2月8日   | **[Pierrot Dancin'](https://zh.wikipedia.org/wiki/Pierrot_Dancin' "wikilink")** | LACA-35640    | LACA-15640 |
-| 8th   | 2019年5月15日  | **[FAB LOVE](https://zh.wikipedia.org/wiki/FAB_LOVE "wikilink")**               |               |            |
+| 8th   | 2019年5月15日  | **[FAB LOVE](https://zh.wikipedia.org/wiki/FAB_LOVE "wikilink")**               | LACA-35778    | LACA-15778 |
 |       |             |                                                                                 |               |            |
 
 #### 迷你專輯

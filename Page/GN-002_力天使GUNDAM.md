@@ -37,7 +37,7 @@ Gun）」，可直接由地面狙擊約於[大氣層邊緣的](https://zh.wikipe
 <!-- end list -->
 
   -
-    名稱源自於九大天使階級之一的「[能天使的別名](https://zh.wikipedia.org/wiki/能天使 "wikilink")(\*不是力天使)（Dynamis）」。
+    名稱源自於九大天使階級之一的「[能天使的別名](../Page/能天使.md "wikilink")(\*不是力天使)（Dynamis）」。
 
 ## 重要戰鬥史
 

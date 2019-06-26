@@ -7,7 +7,7 @@
   - **[波妮·唐巴尔](https://zh.wikipedia.org/wiki/波妮·唐巴尔 "wikilink")**（，曾执行、、、以及任务），任务专家
   - **[迈克尔·安德森](https://zh.wikipedia.org/wiki/迈克尔·安德森 "wikilink")**（，曾执行以及任务），任务专家
   - **[詹姆斯·莱利](https://zh.wikipedia.org/wiki/詹姆斯·莱利 "wikilink")**（，曾执行、、任务），任务专家
-  - **[萨里占·沙里波夫](https://zh.wikipedia.org/wiki/萨里占·沙里波夫 "wikilink")**（，[俄罗斯宇航员](../Page/俄罗斯.md "wikilink")，曾执行、[联盟TMA-5](../Page/联盟TMA-5.md "wikilink")、[远征10号](https://zh.wikipedia.org/wiki/远征10号 "wikilink")、[联盟TMA-13以及](https://zh.wikipedia.org/wiki/联盟TMA-13 "wikilink")[远征18号任务](https://zh.wikipedia.org/wiki/远征18号 "wikilink")），任务专家
+  - **[萨里占·沙里波夫](https://zh.wikipedia.org/wiki/萨里占·沙里波夫 "wikilink")**（，[俄罗斯宇航员](../Page/俄罗斯.md "wikilink")，曾执行、[联盟TMA-5](../Page/联盟TMA-5.md "wikilink")、[远征10号](https://zh.wikipedia.org/wiki/远征10号 "wikilink")、[联盟TMA-13以及](../Page/联盟TMA-13.md "wikilink")[远征18号任务](https://zh.wikipedia.org/wiki/远征18号 "wikilink")），任务专家
 
 ### 发射后停留在和平号空间站
 

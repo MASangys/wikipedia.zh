@@ -1,4 +1,4 @@
-**PPD**（，，意為：**捷格加廖夫[手提式機槍](../Page/冲锋枪.md "wikilink")**）是一款由[苏联在](../Page/苏联.md "wikilink")1934年的制造的7.62毫米[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[冲锋枪](../Page/冲锋枪.md "wikilink")。該衝鋒槍先由初期型的PPD-34改進成為中期型的PPD-34/38和後期型的PPD-40。發射[7.62×25毫米托卡列夫](../Page/7.62×25mm托卡列夫手槍彈.md "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")，使用木製[槍托](../Page/槍托.md "wikilink")，[開放式槍機](../Page/開放式槍機.md "wikilink")，使用者可以選擇射擊模式。
+**PPD**（，，意為：**捷格加廖夫[手提式機槍](../Page/冲锋枪.md "wikilink")**）是一款由[苏联在](../Page/苏联.md "wikilink")1934年的制造的7.62毫米[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[冲锋枪](../Page/冲锋枪.md "wikilink")。該衝鋒槍先由初期型的PPD-34改進成為中期型的PPD-34/38和後期型的PPD-40。發射[7.62×25毫米托卡列夫](../Page/7.62×25mm托卡列夫手槍彈.md "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")，使用木製[槍托](../Page/槍托.md "wikilink")，[開放式槍栓](../Page/開放式槍栓.md "wikilink")，使用者可以選擇射擊模式。
 
 ## 歷史
 

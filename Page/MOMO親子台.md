@@ -10,7 +10,6 @@
   - 《[檸檬哥哥-邱俊銘](../Page/邱俊銘.md "wikilink")》
   - 《[大樹哥哥-孔慶文](https://zh.wikipedia.org/wiki/孔慶文 "wikilink")》
   - 《[香草姐姐-李宜軒](https://zh.wikipedia.org/wiki/李宜軒_\(藝人\) "wikilink")》（第二代）
-  - 《[柚子哥哥-張書維](https://zh.wikipedia.org/wiki/張書維 "wikilink")》（第二代）
   - 《[櫻花姐姐-洪敏慈](https://zh.wikipedia.org/wiki/洪敏慈 "wikilink")》
   - 《[糖果姐姐-李慧芝](https://zh.wikipedia.org/wiki/李慧芝_\(藝人\) "wikilink")》（第二代）
   - 《[小紅莓姐姐-賴俞汝](https://zh.wikipedia.org/wiki/賴俞汝 "wikilink")》（第二代）
@@ -33,9 +32,10 @@
   - 《[泡芙姐姐-施達伶](../Page/泡芙姐姐.md "wikilink")》
   - 《[糖果姐姐-張雅淇](../Page/洪淇.md "wikilink")》（第一代）
   - 《[藍莓姐姐-李牧寰](https://zh.wikipedia.org/wiki/李牧寰 "wikilink")》（第一代）
-  - 《[優格姐姐-林姵君](https://zh.wikipedia.org/wiki/林姵君 "wikilink")》
+  - 《[優格姐姐-林姵君](../Page/林姵君.md "wikilink")》
   - 《[甜甜姐姐-張婕筠](https://zh.wikipedia.org/wiki/張婕筠 "wikilink")》
   - 《[功夫哥哥-陳恩奕](https://zh.wikipedia.org/wiki/陳恩奕 "wikilink")》
+  - 《[柚子哥哥-張書維](https://zh.wikipedia.org/wiki/張書維 "wikilink")》（第二代）
 
 ## 動畫節目
 

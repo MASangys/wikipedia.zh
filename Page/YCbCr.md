@@ -6,7 +6,7 @@ correction）編碼處理。Y'為顏色的[亮度](https://zh.wikipedia.org/wiki
 Y'CbCr不是一種絕對的色彩空間，是一種針對[RGB資訊所做的編碼](https://zh.wikipedia.org/wiki/RGB "wikilink")。真正的顏色顯示是根據實際RGB色盤（[colorant](https://zh.wikipedia.org/wiki/colorant "wikilink")）來決定的。因此Y'CbCr所表示的值只有在標準RGB色盤或是ICC數據（[ICC
 profile](https://zh.wikipedia.org/wiki/ICC_Profile "wikilink")）有提供的時候才能計算。
 
-**YCbCr**不是一種[絕對色彩空間](https://zh.wikipedia.org/wiki/絕對色彩空間 "wikilink")，是[YUV壓縮和偏移的版本](../Page/YUV.md "wikilink")。YCbCr的Y與YUV中的Y含义一致，Cb和Cr與UV同样都指色彩，Cb指蓝色色度，Cr指红色色度，在应用上很广泛，JPEG、MPEG、DVD、[攝影機](../Page/攝影機.md "wikilink")、[數字電視等皆採此一格式](https://zh.wikipedia.org/wiki/數字電視 "wikilink")。因此一般俗稱的YUV大多是指YCbCr。
+**YCbCr**不是一種[絕對色彩空間](https://zh.wikipedia.org/wiki/絕對色彩空間 "wikilink")，是[YUV壓縮和偏移的版本](../Page/YUV.md "wikilink")。YCbCr的Y與YUV中的Y含义一致，Cb和Cr與UV同样都指色彩，Cb指蓝色色度，Cr指红色色度，在应用上很广泛，JPEG、MPEG、DVD、[攝影機](../Page/攝影機.md "wikilink")、[數位電視等皆採此一格式](https://zh.wikipedia.org/wiki/數位電視 "wikilink")。因此一般俗稱的YUV大多是指YCbCr。
 
 YCbCr格式有：
 

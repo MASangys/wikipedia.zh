@@ -126,7 +126,7 @@
 <tr class="even">
 <td><p><a href="../Page/神奈川縣.md" title="wikilink">神奈川縣</a></p></td>
 <td><p><strong>Fm yokohama</strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/横濱FM放送" title="wikilink">横濱FM放送</a></p></td>
+<td></td>
 <td><p>★</p></td>
 <td></td>
 </tr>
@@ -189,7 +189,7 @@
 <tr class="odd">
 <td><p><a href="../Page/愛知縣.md" title="wikilink">愛知縣</a></p></td>
 <td><p><strong>FM AICHI</strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/FM愛知" title="wikilink">FM愛知</a></p></td>
+<td></td>
 <td><p>●</p></td>
 <td></td>
 </tr>
@@ -329,7 +329,7 @@
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/福岡縣" title="wikilink">福岡縣</a></p></td>
 <td><p><strong>FM　FUKUOKA</strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/FM福岡" title="wikilink">FM福岡</a></p></td>
+<td></td>
 <td><p>●</p></td>
 <td></td>
 </tr>

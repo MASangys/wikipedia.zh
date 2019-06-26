@@ -36,7 +36,7 @@
   - 作画監督：[高倉佳彥](../Page/高倉佳彥.md "wikilink")
   - 美術監督：鈴木朗
   - 撮影監督：熊谷正弘
-  - 録音監督：[大熊昭](https://zh.wikipedia.org/wiki/大熊昭 "wikilink")
+  - 録音監督：[大熊昭](../Page/大熊昭.md "wikilink")
   - 音楽：[宮崎慎二](../Page/宮崎慎二.md "wikilink")、浜口史郎
   - 编辑：岡安肇
   - 動画核对：原佳寿美

@@ -61,9 +61,9 @@
 
 ## 連載作品
 
-|  |                            |
-|  | -------------------------- |
-|  | 截至2019年6月3日（2019年27號）連載中作品 |
+|  |                             |
+|  | --------------------------- |
+|  | 截至2019年6月17日（2019年29號）連載中作品 |
 
 <table>
 <thead>
@@ -3413,7 +3413,7 @@
 </tr>
 <tr class="odd">
 <td><p>348</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/灌篮高手" title="wikilink">-{zh-cn:灌篮高手;zh-tw:灌籃高手;zh-hk:男兒當入樽;}-</a></p></td>
+<td><p><a href="../Page/灌篮高手.md" title="wikilink">-{zh-cn:灌篮高手;zh-tw:灌籃高手;zh-hk:男兒當入樽;}-</a></p></td>
 <td><p><a href="../Page/井上雄彦.md" title="wikilink">井上雄彦</a></p></td>
 <td><p>－</p></td>
 <td><p>1990.42</p></td>
@@ -3729,7 +3729,7 @@
 </tr>
 <tr class="even">
 <td><p>380</p></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/豔陽少女" title="wikilink">豔陽少女</a></p></td>
 <td><p><a href="../Page/北条司.md" title="wikilink">北条司</a></p></td>
 <td><p>－</p></td>
 <td><p>1993.31</p></td>
@@ -6410,13 +6410,14 @@
 </tr>
 <tr class="odd">
 <td><p>654</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/博人传-火影次世代-" title="wikilink">BORUTO -NARUTO NEXT GENERATIONS-</a></strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/博人传-火影次世代-" title="wikilink">BORUTO -NARUTO NEXT GENERATIONS-</a></p></td>
 <td><p><a href="../Page/池本幹雄.md" title="wikilink">池本幹雄</a>（漫畫）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/岸本齊史" title="wikilink">岸本齊史</a>（原作、監修）<br />
 小太刀右京（劇本）</p></td>
 <td><p>2016.23</p></td>
-<td><p>連載中</p></td>
-<td><p>月1連載</p></td>
+<td><p>2019.28</p></td>
+<td><p>月1連載<br />
+→《<a href="https://zh.wikipedia.org/wiki/V_Jump" title="wikilink">V Jump</a>》連載</p></td>
 </tr>
 <tr class="even">
 <td><p>655</p></td>

@@ -1,7 +1,7 @@
 **APE
 tag**是一種用來描述数字音乐檔案[元数据的](../Page/元数据.md "wikilink")[標籤](https://zh.wikipedia.org/wiki/標籤_\(元數據\) "wikilink")。起初是為了讓[Monkey's
 Audio使用而開發](../Page/Monkey's_Audio.md "wikilink")，不過目前已經有[Musepack](../Page/Musepack.md "wikilink")、[WavPack](../Page/WavPack.md "wikilink")、
-[OptimFROG](https://zh.wikipedia.org/wiki/OptimFROG "wikilink")，以及[TAK等其他音樂檔案格式使用](../Page/TAK.md "wikilink")。
+[OptimFROG](../Page/OptimFROG.md "wikilink")，以及[TAK等其他音樂檔案格式使用](../Page/TAK.md "wikilink")。
 
 ## 版本
 
@@ -13,7 +13,7 @@ Audio](../Page/Monkey's_Audio.md "wikilink")（文件扩展名：.ape）而开�
 ### APEv2
 
 前[Musepack的开发者](../Page/Musepack.md "wikilink") Frank Klemm 将APE
-tag扩充，允许其添加到文件的头部，更增加了[Unicode的支持](https://zh.wikipedia.org/wiki/Unicode "wikilink")。由于其简单易用又灵活，[WavPack](../Page/WavPack.md "wikilink")、[OptimFROG等格式很快将其采纳为默认的元数据存储方式](https://zh.wikipedia.org/wiki/OptimFROG "wikilink")。[Monkey's
+tag扩充，允许其添加到文件的头部，更增加了[Unicode的支持](https://zh.wikipedia.org/wiki/Unicode "wikilink")。由于其简单易用又灵活，[WavPack](../Page/WavPack.md "wikilink")、[OptimFROG等格式很快将其采纳为默认的元数据存储方式](../Page/OptimFROG.md "wikilink")。[Monkey's
 Audio从v](../Page/Monkey's_Audio.md "wikilink")3.99起正式从APEv1 tag切换到APE v2
 tag。MP3也支持APEv2格式标签。
 

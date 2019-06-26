@@ -68,7 +68,7 @@
   - 編劇：[大森一樹](https://zh.wikipedia.org/wiki/大森一樹 "wikilink")
   - 音樂監督：[伊福部昭](../Page/伊福部昭.md "wikilink")
 
-[Category:Godzilla](https://zh.wikipedia.org/wiki/Category:Godzilla "wikilink")
+[Category:哥吉拉電影](https://zh.wikipedia.org/wiki/Category:哥吉拉電影 "wikilink")
 [Category:1995年電影](https://zh.wikipedia.org/wiki/Category:1995年電影 "wikilink")
 [Category:日本電影作品](https://zh.wikipedia.org/wiki/Category:日本電影作品 "wikilink")
 [Category:茨城縣背景電影](https://zh.wikipedia.org/wiki/Category:茨城縣背景電影 "wikilink")

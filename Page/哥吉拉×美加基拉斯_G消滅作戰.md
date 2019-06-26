@@ -69,7 +69,7 @@ G消滅作戰**》（），2000年上映的[日本](../Page/日本.md "wikilink"
 
   -
   -
-[Category:Godzilla](https://zh.wikipedia.org/wiki/Category:Godzilla "wikilink")
+[Category:哥吉拉電影](https://zh.wikipedia.org/wiki/Category:哥吉拉電影 "wikilink")
 [Category:2000年電影](https://zh.wikipedia.org/wiki/Category:2000年電影 "wikilink")
 [Category:日本電影作品](https://zh.wikipedia.org/wiki/Category:日本電影作品 "wikilink")
 [Category:昆蟲電影](https://zh.wikipedia.org/wiki/Category:昆蟲電影 "wikilink")

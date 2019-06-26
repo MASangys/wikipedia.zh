@@ -2428,7 +2428,7 @@
 <td style="text-align: center;"><p><a href="../Page/朝鮮槍手.md" title="wikilink">朝鮮槍手</a><br />
 </p></td>
 <td style="text-align: center;"><p>22</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李準基" title="wikilink">李準基</a>、<a href="../Page/南相美.md" title="wikilink">南相美</a>、<a href="../Page/全慧彬.md" title="wikilink">全慧-{}-彬</a>、<a href="../Page/韓周完.md" title="wikilink">韓周完</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/李準基.md" title="wikilink">李準基</a>、<a href="../Page/南相美.md" title="wikilink">南相美</a>、<a href="../Page/全慧彬.md" title="wikilink">全慧-{}-彬</a>、<a href="../Page/韓周完.md" title="wikilink">韓周完</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/金政珉.md" title="wikilink">金政珉</a>、<a href="../Page/車榮勳.md" title="wikilink">車榮勳</a></p></td>
 <td style="text-align: center;"><p>李政宇、韓熙政</p></td>
 <td style="text-align: center;"><p>（<strong>特別企劃劇</strong>）</p></td>
@@ -2791,7 +2791,7 @@
 <td style="text-align: center;"><p><a href="../Page/Suits_(韓國電視劇).md" title="wikilink">Suits</a><br />
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/張東健" title="wikilink">張東健</a>、<a href="https://zh.wikipedia.org/wiki/朴炯植" title="wikilink">朴炯植</a>、<a href="../Page/陳熙瓊.md" title="wikilink">陳熙瓊</a>、<a href="../Page/蔡貞安.md" title="wikilink">蔡貞安</a>、<a href="../Page/高聖熙.md" title="wikilink">高聖熙</a>、</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/張東健" title="wikilink">張東健</a>、<a href="../Page/朴炯植.md" title="wikilink">朴炯植</a>、<a href="../Page/陳熙瓊.md" title="wikilink">陳熙瓊</a>、<a href="../Page/蔡貞安.md" title="wikilink">蔡貞安</a>、<a href="../Page/高聖熙.md" title="wikilink">高聖熙</a>、</p></td>
 <td style="text-align: center;"><p>金振宇</p></td>
 <td style="text-align: center;"><p>金政民</p></td>
 <td style="text-align: center;"><p>原作：<a href="https://zh.wikipedia.org/wiki/艾伦·科尔仕" title="wikilink">艾伦·科尔仕</a>《<a href="../Page/金装律师.md" title="wikilink">金装律师</a>》</p></td>

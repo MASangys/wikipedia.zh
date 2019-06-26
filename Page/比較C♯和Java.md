@@ -1,15 +1,10 @@
-本文对比[C\#与](https://zh.wikipedia.org/wiki/C_Sharp "wikilink")[Java编程语言](https://zh.wikipedia.org/wiki/Java_\(编程语言\) "wikilink")。
-因为这两种语言都具有[自动垃圾回收以及](https://zh.wikipedia.org/wiki/垃圾回收_\(计算机科学\) "wikilink")[运行时编译执行的特点](https://zh.wikipedia.org/wiki/JIT "wikilink")，并且他们的语法都是继承自[C语言](https://zh.wikipedia.org/wiki/C语言 "wikilink")/[C++](../Page/C++.md "wikilink")，因此二者有很多相似之处。
+本文對比了[C\#与](https://zh.wikipedia.org/wiki/C_Sharp "wikilink")[Java這兩種編程語言](https://zh.wikipedia.org/wiki/Java_\(编程语言\) "wikilink")，這兩種語言都具有[自动垃圾回收以及](https://zh.wikipedia.org/wiki/垃圾回收_\(计算机科学\) "wikilink")[运行时编译执行的特点](https://zh.wikipedia.org/wiki/JIT "wikilink")，并且兩者的语法都有主要继承自[C语言](https://zh.wikipedia.org/wiki/C语言 "wikilink")/[C++](../Page/C++.md "wikilink")，因此二者有很多相似之处。但由於C\#是作爲C++和Java的混合體而在Java之後所創造的，因此C\#相較Java有更多的新語法特徵并且引入了一些增强的功能，所以固然兩者有其相似性，但是總歸還是有諸多不同之處。
 
-但由于C\#也被描述为一个C++和Java的混合体，并添加了一些新特性，引入了一些变化，因此C\#和Java自然也有很多不一样的地方。
-
-这个条目描述了二者总体上的相似性，并列举了二者的不同点。
-
-## 语言
+## 基本
 
 ### 对象处理
 
-C\#和Java都被设计成一个使用[动态调度的类似于](../Page/动态调度.md "wikilink")[C++语法的完全的](../Page/C++.md "wikilink")[面向对象语言](https://zh.wikipedia.org/wiki/面向对象编程 "wikilink")。（C++又是源自于[C](https://zh.wikipedia.org/wiki/C语言 "wikilink")）。但是，这两种语言都不是c或者c++的一个扩展集。C\#和Java都使用[垃圾回收作为一种回收内存资源的手段](https://zh.wikipedia.org/wiki/垃圾回收_\(计算机科学\) "wikilink")，而不是直接的释放内存。C\#和Java都包含[线程同步机制作为他们语法的一部分](../Page/线程.md "wikilink")。
+C\#和Java都可以被視作一種類似使用[动态调度的類C](../Page/动态调度.md "wikilink")++的[面向对象语言](https://zh.wikipedia.org/wiki/面向对象编程 "wikilink")（其中C++又源自于[C語言](https://zh.wikipedia.org/wiki/C语言 "wikilink")）。但需要主要，這C\#和Java并非C或者C++的超集，它們之間是沒有直接衍生附屬關係的獨立語言。C\#和Java都使用[垃圾回收作为一种回收内存资源的手段](https://zh.wikipedia.org/wiki/垃圾回收_\(计算机科学\) "wikilink")，而不是直接的释放内存。C\#和Java都包含[线程同步机制作为他们语法的一部分](../Page/线程.md "wikilink")。
 
 #### 引用
 
@@ -255,7 +250,7 @@ Java支持检查异常(checked
 exception)。C＃中只支持非检查异常情况。检查异常强制程序员要么在方法中声明一个异常抛出，要么用try-catch来捕获异常。检查异常可以有助于良好的编程习惯，以确保所有的错误都得到处理。但是[Anders
 Hejlsberg](https://zh.wikipedia.org/wiki/Anders_Hejlsberg "wikilink")，C\#语言首席设计师，和其他人争辩说，他们都在一定程度上对Java进行了拓展但是它们没有被证明是有价值的除了几个程序中的小例子。有一个评论介绍在检查异常时鼓励程序员使用空的catch块,安静的吃掉异常而不是让异常传播到更高水平的常规的异常处理：catch
 (Exception e)
-{}.另一种对于检查异常的评论说一个新方法的执行可能会引起意想不到的检查异常被抛出，这是一个合同突破性变化.这可能发生在一个方法实现一个接口或者当一个方法的基本实现改变时，此接口仅声明有限的异常。为这种意料之外的的异常被抛出,一些程序员简单的声明这种方法能抛出任何类型的异常（“抛出异常”），这使检查异常的目的无法实现。不过在某些情况下，异常链（[exception
+{}.另一种对于检查异常的评论说一个新方法的执行可能会引起意想不到的检查异常被抛出，这是一个合同突破性变化。这可能发生在一个方法实现一个接口或者当一个方法的基本实现改变时，此接口仅声明有限的异常。为这种意料之外的的异常被抛出,一些程序员简单的声明这种方法能抛出任何类型的异常（“抛出异常”），这使检查异常的目的无法实现。不过在某些情况下，异常链（[exception
 chaining](https://zh.wikipedia.org/wiki/exception_chaining "wikilink")）能用于代替,捕获异常后再抛出一个异常异常.例如,如果一个对象访问数据库而不是文件时被改变,那么可以捕获
 异常并且作为异常重新抛出. 因为调用者也许并不需要知道对象内部的工作方式。
 

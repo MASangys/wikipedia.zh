@@ -2068,7 +2068,7 @@ Tag）。一個使用者將可以利用[標籤找到某位已經貼上](https://
   - 卡通（動漫、[姆明](../Page/姆明.md "wikilink")、[Hello
     Kitty](../Page/Hello_Kitty.md "wikilink")、[迪士尼](https://zh.wikipedia.org/wiki/迪士尼 "wikilink")）
   - 當地特色的風景
-  - 知名人物（[皇室成員](https://zh.wikipedia.org/wiki/皇室 "wikilink")、[國家元首](https://zh.wikipedia.org/wiki/國家元首 "wikilink")、[歌手](../Page/歌手.md "wikilink")、[演員](https://zh.wikipedia.org/wiki/演員 "wikilink")）
+  - 知名人物（[皇室成員](https://zh.wikipedia.org/wiki/皇室 "wikilink")、[國家元首](https://zh.wikipedia.org/wiki/國家元首 "wikilink")、[歌手](../Page/歌手.md "wikilink")、[演員](../Page/演員.md "wikilink")）
   - 節日（[新年](../Page/新年.md "wikilink")、[生日](../Page/生日.md "wikilink")、[聖誕節](https://zh.wikipedia.org/wiki/聖誕節 "wikilink")、[復活節](https://zh.wikipedia.org/wiki/復活節 "wikilink")）
   - POSTCROSSING
 

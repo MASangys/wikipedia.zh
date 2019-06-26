@@ -19,7 +19,7 @@ Money麥克瘋**》是由[全能製作公司製作](https://zh.wikipedia.org/wik
 
 每位參賽者有兩回回答歌詞的機會（該回合最高可得二分），無論分數多寡，仍可繼續進行第二回合的資格賽。
 
-以[伊能靜](../Page/伊能靜.md "wikilink")《悲傷茱麗葉》為例，當出題來賓唱到「[故事沒有結束](https://zh.wikipedia.org/wiki/故事 "wikilink")　就劃下[句點](https://zh.wikipedia.org/wiki/句點 "wikilink")」時，參賽者就必須唱出「時光[隧道喚醒](../Page/隧道.md "wikilink")　沉睡的[夢魘](https://zh.wikipedia.org/wiki/夢魘 "wikilink")」，才能得分。
+以[伊能靜](../Page/伊能靜.md "wikilink")《悲傷茱麗葉》為例，當出題來賓唱到「[故事沒有結束](../Page/故事.md "wikilink")　就劃下[句點](https://zh.wikipedia.org/wiki/句點 "wikilink")」時，參賽者就必須唱出「時光[隧道喚醒](../Page/隧道.md "wikilink")　沉睡的[夢魘](https://zh.wikipedia.org/wiki/夢魘 "wikilink")」，才能得分。
 
 此單元無求任何救法可使用。
 

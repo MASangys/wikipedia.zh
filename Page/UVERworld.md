@@ -790,3 +790,4 @@ DVD<br />
 [Category:日本索尼音樂娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂旗下藝人 "wikilink")
 [Category:日本硬式搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本硬式搖滾樂團 "wikilink")
 [Category:日本嘻哈團體](https://zh.wikipedia.org/wiki/Category:日本嘻哈團體 "wikilink")
+[Category:UVERworld](https://zh.wikipedia.org/wiki/Category:UVERworld "wikilink")

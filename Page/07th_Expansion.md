@@ -51,8 +51,7 @@ Fight的原創卡片為主](https://zh.wikipedia.org/wiki/Leaf_Fight "wikilink")
   - [彼岸花綻放之夜系列](../Page/彼岸花綻放之夜.md "wikilink")（）
       - 彼岸花綻放之夜 第一夜 （CM 2011年夏）
       - 彼岸花綻放之夜 第二夜 （CM 2011年冬）
-  - [Rose Guns
-    Days系列](https://zh.wikipedia.org/wiki/Rose_Guns_Days "wikilink")
+  - [Rose Guns Days系列](../Page/Rose_Guns_Days.md "wikilink")
       - Rose Guns Days Season 1 （CM 2012年夏）
       - Rose Guns Days Season 2 （CM 2012年冬）
       - Rose Guns Days Season 3 （CM 2013年夏）

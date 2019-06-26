@@ -41,7 +41,7 @@ law）的制定：處罰合意的同性性行為，為同性性行為制定較�
 
 截至2019年2月，有24個國家承认同性婚姻并赋予其LGBT公民上述列表的全部或大多数权利，2個[聯邦制國家](https://zh.wikipedia.org/wiki/聯邦制 "wikilink")則是部份[政治實體承認](https://zh.wikipedia.org/wiki/政治實體 "wikilink")，其中大多数国家位于[美洲和](../Page/美洲.md "wikilink")[西欧](../Page/西欧.md "wikilink")\[5\]。
 
-70个国家和4个地方實體的司法机构有对同性性行為處罰的法律，其中大部分国家位于[亚洲和](../Page/亚洲.md "wikilink")[非洲](../Page/非洲.md "wikilink")\[6\]。[立陶宛](https://zh.wikipedia.org/wiki/立陶宛 "wikilink")、[俄羅斯](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")、[波蘭](https://zh.wikipedia.org/wiki/波蘭 "wikilink")、[伊拉克和](../Page/伊拉克.md "wikilink")等國制定了限制LGBT言論自由的法案\[7\]。
+69个国家和4个地方實體的司法机构有对同性性行為處罰的法律，其中大部分国家位于[亚洲和](../Page/亚洲.md "wikilink")[非洲](../Page/非洲.md "wikilink")\[6\]。[立陶宛](https://zh.wikipedia.org/wiki/立陶宛 "wikilink")、[俄羅斯](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")、[波蘭](https://zh.wikipedia.org/wiki/波蘭 "wikilink")、[伊拉克和](../Page/伊拉克.md "wikilink")等國制定了限制LGBT言論自由的法案\[7\]。
 
 ## 歷史上的同性戀法律
 
@@ -51,7 +51,7 @@ law）的制定：處罰合意的同性性行為，為同性性行為制定較�
 Scantinia*以及原始日耳曼民族的神話*nith*，或者是西元前1075年的[亞述法律紀錄](https://zh.wikipedia.org/wiki/亞述 "wikilink")。\[8\].
 
 透過傳統[猶太教](https://zh.wikipedia.org/wiki/猶太教 "wikilink")、[基督教和](../Page/基督教.md "wikilink")[伊斯蘭教的闡釋](https://zh.wikipedia.org/wiki/伊斯蘭教 "wikilink")，懲罰同志的法律持續地在歷史上延續。隨著[殖民主義的到來](https://zh.wikipedia.org/wiki/殖民主義 "wikilink")，那些亞伯拉罕諸教信仰的國家，將這種價值觀伴隨著[帝國主義的政治控制擴張到世界各地](https://zh.wikipedia.org/wiki/帝國主義 "wikilink")。
-中國傳統理念中對於同性戀情並沒有明確地指責，甚至在部分地區存在有「契兄弟」相稱的同性情侶\[9\]，\[聊齋誌異\]等名著中也多有描寫。近代以來，由於殖民統治時期傳入的亞伯拉罕宗教思想及民間傳統觀念對於生育的認知，同性戀成為了一種「罪惡」與不潔的道德。中華人民共和國建立後，曾一度將同性性行為列入流氓罪進行處罰，直到1997年才除罪化。\[10\]
+中國傳統理念中對於同性戀情並沒有明確地指責，甚至在部分地區存在有「[契兄弟](https://zh.wikipedia.org/wiki/契兄弟 "wikilink")」相稱的同性情侶\[9\]，《[聊齋誌異](https://zh.wikipedia.org/wiki/聊齋誌異 "wikilink")》等名著中也多有描寫。近代以來，由於殖民統治時期傳入的亞伯拉罕宗教思想及民間傳統觀念對於生育的認知，同性戀成為了一種「罪惡」與不潔的道德。中華人民共和國建立後，曾一度將同性性行為列入流氓罪進行處罰，直到1997年才除罪化。\[10\]
 通常法律反對同性性行為和主要支持者時，亞伯拉罕諸教信仰是主要因素。但是事实上中国的流氓罪定義籠統，且法律本身並不針對同性戀群體。又由于文化大革命時期执法的随意性，这给予了世俗中的反对非婚性行为者惩罚違背傳統生育理念以及同性性行为者的借口，而且實際案例也相对较少。法律界对此是否能将1997年将流氓罪具体化视为對同性性行為的非罪化與去污名化，以及是否存在同性性行為法定有罪的情况目前有争议。\[11\]
 
 ## 世界各國家或地區關於同性戀的法律規定

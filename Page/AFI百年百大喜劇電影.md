@@ -21,7 +21,7 @@ Laughs**），[美国电影学会](../Page/美国电影学会.md "wikilink")（A
 | 14\.  | [育嬰奇譚](https://zh.wikipedia.org/wiki/育嬰奇譚 "wikilink")                                                           | Bringing Up Baby                      | (1938) |
 | 15\.  | [費城故事](https://zh.wikipedia.org/wiki/費城故事 "wikilink")                                                           | The Philadelphia Story                | (1940) |
 | 16\.  | [萬花嬉春](../Page/萬花嬉春.md "wikilink")                                                                              | Singin' in the Rain                   | (1952) |
-| 17\.  | [單身公寓](https://zh.wikipedia.org/wiki/單身公寓 "wikilink")                                                           | The Odd Couple                        | (1968) |
+| 17\.  | [單身公寓](../Page/單身公寓.md "wikilink")                                                                              | The Odd Couple                        | (1968) |
 | 18\.  | [將軍號](../Page/將軍號.md "wikilink")                                                                                | The General                           | (1927) |
 | 19\.  | [女友禮拜五](../Page/女友禮拜五.md "wikilink")                                                                            | His Girl Friday                       | (1940) |
 | 20\.  | [公寓春光](../Page/公寓春光.md "wikilink")                                                                              | The Apartmen                          | (1960) |

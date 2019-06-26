@@ -931,8 +931,7 @@ David Leung之顧客<br />
 <td><p><strong><a href="../Page/蔡康年.md" title="wikilink">蔡康年</a></strong></p></td>
 <td><p><strong>張耀忠</strong></p></td>
 <td><p>髮型師<br />
-變態殺手<br />
-因何廣福半年前先救殘疾女童而錯過拯救張朱朱的機會，因此對殘疾人士特别敏感<br />
+有<a href="https://zh.wikipedia.org/wiki/心理疾患" title="wikilink">心理變態</a>，因何廣福半年前先救殘疾女童而錯過拯救張朱朱的機會，因此對殘疾人士特别敏感<br />
 水奕文之夫<br />
 張朱朱之父<br />
 張朱朱、水奕文死後患有<a href="https://zh.wikipedia.org/wiki/创伤后心理压力紧张综合症" title="wikilink">创伤后心理压力紧张综合症</a>（Post Traumatic Stress Disorder, PTSD）<br />

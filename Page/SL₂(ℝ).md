@@ -20,7 +20,7 @@ a,b,c,d\\in\\mathbb{R}\\right.\\,</math>，且 \(ad-bc=1\Bigg\}\,\)．
 SL<sub>2</sub>() 是 <sup>2</sup>
 上所有保持[定向](https://zh.wikipedia.org/wiki/定向_\(数学\) "wikilink")[面积的](../Page/面积.md "wikilink")[线性变换群](https://zh.wikipedia.org/wiki/线性变换 "wikilink")。它[同构于](https://zh.wikipedia.org/wiki/群同构 "wikilink")[辛群](../Page/辛群.md "wikilink")
 Sp<sub>2</sub>() 以及广义[特殊酉群](../Page/特殊酉群.md "wikilink")
-SU(1,1)。它也同构于单位长[共四元数群](https://zh.wikipedia.org/wiki/分裂四元数 "wikilink")。
+SU(1,1)。它也同构于单位长[共四元数群](../Page/分裂四元数.md "wikilink")。
 
 商 PSL<sub>2</sub>() 有多个有趣的描述：
 

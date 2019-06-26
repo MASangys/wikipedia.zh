@@ -31,7 +31,7 @@ Store的編程人員創建](../Page/App_Store_\(iOS\).md "wikilink")[軟體開�
 2007年1月9日，[蘋果公司於](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[Macworld開發者大會上為iOS揭幕](../Page/Macworld.md "wikilink")（當時命名為iPhone
 OS），並宣布於同年6月推出\[5\]\[6\]\[7\]。在1月揭幕時，喬布斯稱：「iPhone以OS
 X運行的同時並可使用『桌面應用程式』\[8\]\[9\]」，然而在iPhone發布時，其操作系统被重新命名為「iPhone
-OS」\[10\]。最初，本機應用程式並不支援第三方的應用程式。喬布斯的理由是，開發者可以透過Safari網頁瀏覽器構建Web應用程序，「就像iPhone上的原生應用程式一般\[11\]\[12\]」。2007年10月，Apple宣布正在開發一個[軟體開發套件](https://zh.wikipedia.org/wiki/軟體開發套件 "wikilink")，並且他們計劃在2月把它放在開發人員手中\[13\]\[14\]\[15\]。2008年3月6日，蘋果公司舉行了一場新聞發布會，宣布推出iPhone
+OS」\[10\]。最初，本機應用程式並不支援第三方的應用程式。喬布斯的理由是，開發者可以透過Safari網頁瀏覽器構建Web應用程序，「就像iPhone上的原生應用程式一般\[11\]\[12\]」。2007年10月，Apple宣布正在開發一個[軟體開發套件](https://zh.wikipedia.org/wiki/軟體開發套件 "wikilink")，並且他們計劃在2月把它提供給開發人員\[13\]\[14\]\[15\]。2008年3月6日，蘋果公司舉行了一場新聞發布會，宣布推出iPhone
 SDK\[16\]\[17\]。
 
 [App Store
@@ -124,7 +124,7 @@ Francisco](https://zh.wikipedia.org/wiki/San_Francisco_\(2014年的字體\) "wik
 ### 輔助功能
 
 iOS提供各種輔助功能，以協助有視力和聽力障礙的用戶。有一項主要功能稱為「[VoiceOver](../Page/VoiceOver.md "wikilink")」，它在屏幕上提供語音朗讀信息的功能，包括上下文按鈕、圖標、鏈接及其他[使用者介面的元素](https://zh.wikipedia.org/wiki/使用者介面 "wikilink")，允許用戶透過手勢操作來導航操作系统。任何具有默認操控及開發以UIKit框架下的應用程式都會獲得內置VoiceOver的功能\[71\]。其中一個例子是拿起iPhone拍照，VoiceOver會描述照片裡的風景\[72\]。隨著2013年[iOS
-7的發布而推出作為](https://zh.wikipedia.org/wiki/iOS_7 "wikilink")「iPhone專用」計劃的一部分，蘋果公司開發了使用[藍牙和一種特殊的技術協議](../Page/藍牙.md "wikilink")，讓iPhone和iPad能夠連接兼容的第三方配件，使流式音頻能夠直接傳送到用戶的耳朵。額外定制適用於「iPhone專用」的產品包括電池跟踪及適用於不同環境的可調聲音設置\[73\]\[74\]。蘋果公司為2016年發布[iOS
+7的發布而推出作為](https://zh.wikipedia.org/wiki/iOS_7 "wikilink")「iPhone專用」計劃的一部分，蘋果公司開發了使用[藍牙和一種特殊的技術協議](../Page/藍牙.md "wikilink")，讓[iPhone和](https://zh.wikipedia.org/wiki/iPhone "wikilink")[iPad能夠連接兼容的第三方配件](https://zh.wikipedia.org/wiki/iPad "wikilink")，使流式音頻能夠直接傳送到用戶的耳朵。額外定制適用於「iPhone專用」的產品包括電池跟踪及適用於不同環境的可調聲音設置\[73\]\[74\]。蘋果公司為2016年發布[iOS
 10進一步努力實現其輔助功能](https://zh.wikipedia.org/wiki/iOS_10 "wikilink")，VoiceOver上加入新的發音編輯器，以及加入透過裝置上的相機來實現放大鏡的功能，聽障人士可通過電信設備的軟件（TTY）在iPhone上撥打電話，並為第三方開發人員提供教程和指南，以便將適當的輔助功能合併到他們的應用程式當中\[75\]。
 
 《[大西洋](../Page/大西洋_\(雜誌\).md "wikilink")》的利亞·科爾諾斯基（Liat
@@ -141,7 +141,7 @@ Herrlinger）指：「我們將輔助功能視為一項基本人權。我們以�
 4](https://zh.wikipedia.org/wiki/iPhone_4 "wikilink")、及第三代[iPod
 Touch](https://zh.wikipedia.org/wiki/iPod_Touch "wikilink")\[80\]。直至同年11月推出的iOS
 4.2.1，[iPad才開始支援多工作業](https://zh.wikipedia.org/wiki/iPad "wikilink")\[81\]。現時，iPhone
-3 GS+、第3代iPod Touch，以及所有iPad型號都支援多工作業\[82\]。
+3GS以上、第3代iPod touch以上，以及所有iPad型號都支援多工作業\[82\]。
 
 在iOS中實行多工作業一直受到批評，因為其方式限制了應用程式於背景工作只能執行有限的功能集，並要求應用程式的開發人員為其增加明確支持\[83\]\[84\]。
 
@@ -268,7 +268,8 @@ iOS使用者界面能使用按键、[多点触控对设备进行控制](https://
     Music、电视、[訊息](https://zh.wikipedia.org/wiki/訊息_\(应用程式\) "wikilink")、[日历](https://zh.wikipedia.org/wiki/行事历_\(应用程式\) "wikilink")、照片、相机、[FaceTime](../Page/FaceTime.md "wikilink")、[Photo
     Booth](../Page/Photo_Booth.md "wikilink")、股市、地图（[Apple
     Map](https://zh.wikipedia.org/wiki/地图_\(苹果应用程序\) "wikilink")）、天气、备忘录、杂志、提醒事项、时钟、计算器、指南针、语音备忘录、[App
-    Store](https://zh.wikipedia.org/wiki/App_Store "wikilink")、设定、通讯录、[iTunes](https://zh.wikipedia.org/wiki/iTunes "wikilink")、[Nike+iPod](../Page/Nike+iPod.md "wikilink")、Voice
+    Store](https://zh.wikipedia.org/wiki/App_Store "wikilink")、设定、通讯录、[iTunes](https://zh.wikipedia.org/wiki/iTunes "wikilink")（将从[iOS
+    13和](https://zh.wikipedia.org/wiki/iOS_13 "wikilink")[iPadOS中移除](https://zh.wikipedia.org/wiki/iPadOS "wikilink")）、[Nike+iPod](../Page/Nike+iPod.md "wikilink")、Voice
     Control、[Siri](../Page/Siri.md "wikilink")、[Apple
     Wallet](https://zh.wikipedia.org/wiki/Passbook "wikilink")、[Find My
     iPhone](https://zh.wikipedia.org/wiki/Find_My_iPhone "wikilink")、Home、新闻；在最新版本被移除的软件：YouTube（iOS
@@ -365,8 +366,8 @@ Jailbreak）」，裝置將於重啟後失去越獄環境，需要用特定的�
 
 ## 解鎖
 
-最初，美國大多數的無線運營商都不允許iPhone用戶將其解鎖，然而，運營商AT＆T為符合其合同要求的iPhone用家裝置進行解鎖\[165\]。蘋果公司提供其解鎖裝置的說明\[166\]，但最終由運營商自行決定授權裝置進行解鎖\[167\]。此讓使用的載體來源的iPhone在其他網絡上使用。現代版本的iOS和iPhone，儘管手機最初是從哪裡購買，也能完全支援橫跨多個運營商的LTE\[168\]。現在有一些程序可以刪除SIM鎖定限制，然而都不獲蘋果公司的支援，並且通常都不是永久解鎖
-— 軟解鎖\[169\]。
+最初，美國大多數的無線運營商都不允許iPhone用戶將其解鎖，然而，運營商AT＆T為符合其合同要求的iPhone用家裝置進行解鎖\[165\]。蘋果公司提供其解鎖裝置的說明\[166\]，但最終由運營商自行決定授權裝置進行解鎖\[167\]。這個操作讓使用的載體來源的iPhone在其他網絡上使用。現代版本的iOS和iPhone，不管手機最初是從哪裡購買，也能完全支援橫跨多個運營商的LTE\[168\]。現在有一些程序可以刪除SIM鎖定限制，然而都不獲蘋果公司的支援，並且通常都不是永久解鎖
+— 只是軟解鎖\[169\]。
 
 ## 數碼版權管理
 
@@ -410,7 +411,7 @@ ID僅將指紋數據臨時存儲於Secure
 Enclave的加密內存中。裝置的主要處理器或系統的任何其他部分都不可能進入Touch
 ID傳感器取得原始指紋數據\[182\]。
 
-在iPhone X/XS/XS Plus/XR和新一代iPad Pro中，由于主页按钮被取消，触控 ID也被一并取消并换成了面容 ID
+在iPhone X/XS/XS Plus/XR和新一代iPad Pro中，由于主页按钮被取消，触控 ID也被一并取消并换成了面容 ID。
 
 ### 地址空間組態
 

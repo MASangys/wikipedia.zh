@@ -15,7 +15,7 @@ Abercrombie)於[曼哈頓創立](../Page/曼哈頓.md "wikilink")，而後律師
 
 自1997年以來，A\&F的廣告宣傳方式讓品牌在社會上維持著高調的形象，其中包括了正面與負面的觀感，此外公司也涉入包括品牌經營、服飾設計和[員工待遇不平等方面的法律糾紛](../Page/剝削.md "wikilink")，尤其是[種族歧視等問題](https://zh.wikipedia.org/wiki/種族歧視 "wikilink")。在美國[公平就业机会委员会](../Page/公平就业机会委员会.md "wikilink")(EEOC)的要求下，A\&F同意支付4000萬美元以上的款項，給曾因[膚色而受到不平等待遇的](../Page/膚色.md "wikilink")[拉丁美洲](../Page/拉丁美洲.md "wikilink")、[穆斯林](../Page/穆斯林.md "wikilink")、[非裔美國人和](https://zh.wikipedia.org/wiki/非裔美國人 "wikilink")[亞洲人的求職者](https://zh.wikipedia.org/wiki/亞洲人 "wikilink")。這些求職者表示A\&F要求他們僅能在商店的後端區域工作。\[17\]
 
-## 簡史
+## 历史
 
 Abercrombie &
 Fitch的歷史橫跨19、20和21三個世紀。[大衛·亞伯克朗比在](https://zh.wikipedia.org/wiki/大衛·亞伯克朗比 "wikilink")1892年成立了一間專賣高級運動用品的「亞伯克朗比公司」（Abercrombie
@@ -194,6 +194,8 @@ Show節目後擴散至全美。A\&F在2005年11月5日停售相关衣物。\[40\
 [Category:美國服裝品牌](https://zh.wikipedia.org/wiki/Category:美國服裝品牌 "wikilink")
 [Category:內衣品牌](https://zh.wikipedia.org/wiki/Category:內衣品牌 "wikilink")
 [Category:美國服裝零售商](https://zh.wikipedia.org/wiki/Category:美國服裝零售商 "wikilink")
+[Category:1892年成立的公司](https://zh.wikipedia.org/wiki/Category:1892年成立的公司 "wikilink")
+[Category:1996年IPO](https://zh.wikipedia.org/wiki/Category:1996年IPO "wikilink")
 
 1.
 

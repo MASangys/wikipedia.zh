@@ -34,7 +34,7 @@ Sword）」，可根據不同任務或狀況時使用。而能天使GUNDAM的開
 <!-- end list -->
 
   -
-    名稱源自於九大天使階級之一的「[能天使](https://zh.wikipedia.org/wiki/能天使 "wikilink")（Exusiai）」。
+    名稱源自於九大天使階級之一的「[能天使](../Page/能天使.md "wikilink")（Exusiai）」。
 
 ## 重要戰鬥史
 

@@ -36,7 +36,7 @@
   -
     新加入的视频格式：[RV60（RealVideo
     HD/RMHD）](../Page/RealVideo.md "wikilink")、[VP9等](../Page/VP9.md "wikilink")
-    被淘汰的視頻格式：[H.263](../Page/H.263.md "wikilink")、[H.262（MPEG-2第2部分）](https://zh.wikipedia.org/wiki/H.262 "wikilink")、[MPEG-1和](../Page/MPEG-1.md "wikilink")[H.261](../Page/H.261.md "wikilink")
+    被淘汰的視頻格式：[H.263](../Page/H.263.md "wikilink")、[H.262（MPEG-2第2部分）](../Page/H.262.md "wikilink")、[MPEG-1和](../Page/MPEG-1.md "wikilink")[H.261](../Page/H.261.md "wikilink")
 
 <!-- end list -->
 

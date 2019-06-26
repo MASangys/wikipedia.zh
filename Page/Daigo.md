@@ -1,4 +1,4 @@
-****（），[日本樂團](../Page/日本.md "wikilink")[BREAKERZ主唱](../Page/BREAKERZ.md "wikilink")、[演員](https://zh.wikipedia.org/wiki/演員 "wikilink")、[主持人](https://zh.wikipedia.org/wiki/主持人 "wikilink")。原名**內藤大湖**，亦是第74代[內閣總理大臣](https://zh.wikipedia.org/wiki/內閣總理大臣_\(日本\) "wikilink")[竹下登之外孫](../Page/竹下登.md "wikilink")，出生於[東京都](../Page/東京都.md "wikilink")。妻子為[日本](../Page/日本.md "wikilink")[演員](https://zh.wikipedia.org/wiki/演員 "wikilink")[北川景子](../Page/北川景子.md "wikilink")\[1\]。
+****（），[日本樂團](../Page/日本.md "wikilink")[BREAKERZ主唱](../Page/BREAKERZ.md "wikilink")、[演員](../Page/演員.md "wikilink")、[主持人](https://zh.wikipedia.org/wiki/主持人 "wikilink")。原名**內藤大湖**，亦是第74代[內閣總理大臣](https://zh.wikipedia.org/wiki/內閣總理大臣_\(日本\) "wikilink")[竹下登之外孫](../Page/竹下登.md "wikilink")，出生於[東京都](../Page/東京都.md "wikilink")。妻子為[日本](../Page/日本.md "wikilink")[演員](../Page/演員.md "wikilink")[北川景子](../Page/北川景子.md "wikilink")\[1\]。
 
 ## 簡歷
 

@@ -48,7 +48,7 @@
 
 ## 外部链接
 
-  - [默克诊疗手册/第一章/第三节/维生素A中毒症](http://www.msdchina.com.cn/manual/section_1/1-3/a2.html)
+  - [默克诊疗手册/第一章/第三节/维生素A中毒症](https://web.archive.org/web/20090226183501/http://msdchina.com.cn/manual/section_1/1-3/a2.html)
   - [南方网：维生素A过量服用将导致中毒](https://web.archive.org/web/20071112182050/http://www.southcn.com/news/community/shzt/health/vitamin/200412170576.htm)
   - [Vitamin D Council 维生素 A & D
     摄入值以及状况](http://www.vitamindcouncil.org/newsletter/2008-december.shtml)

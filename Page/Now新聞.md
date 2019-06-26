@@ -301,7 +301,7 @@ now香港台2008年12月12日啟播後至2016年3月18日，該台每日會播�
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/周芷菱" title="wikilink">周芷菱</a></p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/蘆儀" title="wikilink">蘆儀</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/陳至君" title="wikilink">陳至君</a></p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>'''近況：轉投<a href="https://zh.wikipedia.org/wiki/有線新聞" title="wikilink">有線新聞</a></p></td>

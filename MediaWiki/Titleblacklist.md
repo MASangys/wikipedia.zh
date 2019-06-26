@@ -17,6 +17,7 @@
 `# 請注意 newaccountonly 在本地不再有效，請加入至`[`Special:滥用过滤器/194`](https://zh.wikipedia.org/wiki/Special:滥用过滤器/194 "wikilink")
 
 `#未整理`
+`^\d+$ <autoconfirmed|errmsg=Titleblacklist-semiprotected> # 破壞`
 `^[^:]*沙盒.*$ `<autoconfirmed>
 `.*水.*玲.* <autoconfirmed|errmsg=Titleblacklist-semiprotected> # 破壞`
 `.*衝上雲霄.* <autoconfirmed|errmsg=Titleblacklist-semiprotected> # 破壞`

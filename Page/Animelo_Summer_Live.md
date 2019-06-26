@@ -4323,8 +4323,7 @@ ZERO\!\!（電視動畫《[打工吧！魔王大人](https://zh.wikipedia.org/wi
 :\#
 （電視動畫《[月刊少女野崎君](https://zh.wikipedia.org/wiki/月刊少女野崎君 "wikilink")》片頭曲）／OxT
 
-:\# Go
-EXCEED\!\!（電視動畫《[鑽石王牌](https://zh.wikipedia.org/wiki/鑽石王牌 "wikilink")》片頭曲）／OxT
+:\# Go EXCEED\!\!（電視動畫《[鑽石王牌](../Page/鑽石王牌.md "wikilink")》片頭曲）／OxT
 
 :\#
 [巴拉萊卡琴](https://zh.wikipedia.org/wiki/巴拉萊卡琴_\(歌曲\) "wikilink")（電視動畫《[花漾明星](https://zh.wikipedia.org/wiki/花漾明星 "wikilink")》片頭曲2）／[田村由香里](../Page/田村由香里.md "wikilink")×OxT
@@ -5188,8 +5187,7 @@ Holmes](../Page/Milky_Holmes.md "wikilink")
 DWELLERS](https://zh.wikipedia.org/wiki/超級機械人大戰OG_THE_MOON_DWELLERS "wikilink")》主題曲）／[JAM
 Project](../Page/JAM_Project.md "wikilink")
 
-:\# THE HERO \!\!
-～～（電視動畫《[一拳超人](https://zh.wikipedia.org/wiki/一拳超人 "wikilink")》片頭曲）／JAM
+:\# THE HERO \!\! ～～（電視動畫《[一拳超人](../Page/一拳超人.md "wikilink")》片頭曲）／JAM
 Project
 
 :\#

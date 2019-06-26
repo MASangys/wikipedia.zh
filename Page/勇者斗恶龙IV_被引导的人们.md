@@ -24,7 +24,7 @@ Chapters of the Chosen”为名发行。智能电话版于2014年在日本发行
   - 第一章 王宫的战士们（王宮の戦士たち） -
     莱安（ライアン）（王宫[战士](https://zh.wikipedia.org/wiki/战士 "wikilink")）
   - 第二章 顽皮公主的冒险（おてんば姫の冒険） -
-    亞莉娜（アリーナ）（[公主](https://zh.wikipedia.org/wiki/公主 "wikilink")）、克里弗特（クリフト）（[神官](https://zh.wikipedia.org/wiki/神官 "wikilink")）、布莱（ブライ）（[魔法师](https://zh.wikipedia.org/wiki/魔法师 "wikilink")）
+    亞莉娜（アリーナ）（[公主](../Page/公主.md "wikilink")）、克里弗特（クリフト）（[神官](https://zh.wikipedia.org/wiki/神官 "wikilink")）、布莱（ブライ）（[魔法师](https://zh.wikipedia.org/wiki/魔法师 "wikilink")）
   - 第三章 武器商人特鲁内克（武器屋トルネコ） -
     特鲁内克トルネコ（[武器商人](https://zh.wikipedia.org/wiki/武器商人 "wikilink")）
   - 第四章 蒙芭芭拉的姊妹（モンバーバラの姉妹） -

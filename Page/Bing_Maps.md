@@ -61,7 +61,7 @@ Coral、Tampa、Savannah、好萊塢（佛羅里達州）、Oceanside（佛羅�
   - [紐西蘭](https://zh.wikipedia.org/wiki/紐西蘭 "wikilink")
   - [日本](../Page/日本.md "wikilink")
   - [印度](../Page/印度.md "wikilink")
-  - [中华台北](https://zh.wikipedia.org/wiki/中华台北 "wikilink")
+  - [中华民国](https://zh.wikipedia.org/wiki/中华民国 "wikilink")（台湾）
 
 ## 新的测试版本
 

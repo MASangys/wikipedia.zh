@@ -356,7 +356,7 @@ YOUNG JUMP網絡上連載的漫畫。
 
 ### 連載作品
 
-  - [一拳超人](https://zh.wikipedia.org/wiki/一拳超人 "wikilink")
+  - [一拳超人](../Page/一拳超人.md "wikilink")
   - [站起來吧！半獸人先生](../Page/站起來吧！半獸人先生.md "wikilink")
 
 ## 关联项目

@@ -38,7 +38,7 @@ style="-moz-column-count:; -webkit-column-count:; column-count: }};"
 
   - [AnchorFree官方網站](http://www.anchorfree.com/)
 
-[Category:破网软件](https://zh.wikipedia.org/wiki/Category:破网软件 "wikilink")
+[Category:翻墙软件](https://zh.wikipedia.org/wiki/Category:翻墙软件 "wikilink")
 [Category:网络隐私](https://zh.wikipedia.org/wiki/Category:网络隐私 "wikilink")
 [Category:代理服务器](https://zh.wikipedia.org/wiki/Category:代理服务器 "wikilink")
 [Category:软件小作品](https://zh.wikipedia.org/wiki/Category:软件小作品 "wikilink")

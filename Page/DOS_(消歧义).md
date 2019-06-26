@@ -51,7 +51,9 @@ Operating System）的縮寫。
 
       - [ANDOS](https://zh.wikipedia.org/wiki/ANDOS "wikilink")
 
-      - ，用於蘋果的[Apple II等型電腦](../Page/Apple_II.md "wikilink")
+      - [Apple
+        DOS](https://zh.wikipedia.org/wiki/Apple_DOS "wikilink")，用於蘋果的[Apple
+        II等型電腦](../Page/Apple_II.md "wikilink")
 
       - [Apple
         ProDOS](https://zh.wikipedia.org/wiki/Apple_ProDOS "wikilink")

@@ -1556,6 +1556,14 @@ Wendy之上司<br />
 <td><p><strong>暱稱</strong></p></td>
 </tr>
 <tr class="even">
+<td><p><a href="../Page/Joe_Junior.md" title="wikilink">Joe Junior</a></p></td>
+<td><p>費格遜</p></td>
+<td><p>DIE前負責人，已退休回蘇格蘭種薯仔<br />
+于子朗、刑晶晶等人之上司<br />
+本輯僅被提及，並無出演</p></td>
+<td><p><strong>費sir</strong></p></td>
+</tr>
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/馬國明" title="wikilink">馬國明</a></p></td>
 <td><p>成家雋</p></td>
 <td><p>重案組高級督察，調至英國受訓<br />
@@ -1565,7 +1573,7 @@ Wendy之上司<br />
 本輯僅被提及，並無出演</p></td>
 <td><p><strong>Hugo</strong></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/李安琪" title="wikilink">李安琪</a></p></td>
 <td><p>成敏俐</p></td>
 <td><p>簡緻美之女<br />
@@ -1573,6 +1581,12 @@ Wendy之上司<br />
 -{于}-子朗之表妹<br />
 本輯僅被提及，並無出演</p></td>
 <td><p><strong>Mini</strong></p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>

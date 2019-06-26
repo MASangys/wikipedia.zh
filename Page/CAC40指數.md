@@ -7,6 +7,8 @@
 |                                   **發行日期**                                    |
 |      **[識別代碼](https://zh.wikipedia.org/wiki/:en:ISO_10383 "wikilink")**       |
 |                 **[FX識別代碼](../Page/金融資訊交換協定.md "wikilink")**                  |
+|        **[国际证券识别码](https://zh.wikipedia.org/wiki/国际证券识别码 "wikilink")**        |
+|           **[股票代号](https://zh.wikipedia.org/wiki/股票代号 "wikilink")**           |
 |                                     交易所資訊                                     |
 |                                   **交易所全銜**                                   |
 |    **[交易所BIC識別代碼](https://zh.wikipedia.org/wiki/:en:ISO_9362 "wikilink")**    |

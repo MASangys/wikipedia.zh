@@ -53,6 +53,7 @@ algorithm）是由[約翰·科克](https://zh.wikipedia.org/wiki/約翰·科克 
 
 通过对下面的方法递归运行就可以生成推导树。
 
+`-{}-`
 `Tree(X,i,j):`
 `   `*`IF`*` i=j `*`THEN`*` RETURN `\(~\sigma_i\)
 `   选择一个 k 使 `\((X,k) \in V_{i,j}\)

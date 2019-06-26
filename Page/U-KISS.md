@@ -94,7 +94,7 @@ PlotData =
 ## 經歷
 
   - 8月在韓國M-NET電視台《M\!
-    countdown》中正式出道，組成時只有6個人，其中[Kevin和](https://zh.wikipedia.org/wiki/禹成賢 "wikilink")[起範是另一組合Xing的前成員](https://zh.wikipedia.org/wiki/金起範_\(1990年生\) "wikilink")。
+    countdown》中正式出道，組成時只有6個人，其中[Kevin和](../Page/禹成賢.md "wikilink")[起範是另一組合Xing的前成員](https://zh.wikipedia.org/wiki/金起範_\(1990年生\) "wikilink")。
   - 首張迷你專輯《[New
     Generation](https://zh.wikipedia.org/wiki/New_Generation "wikilink")》主打曲目《不再年幼（어리지않아）》，是融合了典型K-pop以及Dirty
     South的南方風格歌曲。

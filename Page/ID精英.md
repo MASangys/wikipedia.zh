@@ -87,7 +87,7 @@ B隊主管<br />
 <td><p><strong>方浚-{杰}-</strong></p></td>
 <td><p>總入境事務助理<br />
 「IM95」成員之一<br />
-第15集調往調查組（A隊）<br />
+第16集調往調查組（A隊）<br />
 參見<strong><a href="https://zh.wikipedia.org/wiki/#入境事務處（調查組A／B隊）" title="wikilink">入境事務處（調查組A／B隊）</a></strong><br />
 參見<strong><a href="https://zh.wikipedia.org/wiki/#鍾家" title="wikilink">鍾家</a></strong></p></td>
 </tr>
@@ -1270,7 +1270,7 @@ Vincy之男友<br />
 <td><p>被拒絕入境者（第15集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/陳莉敏" title="wikilink">陳莉敏</a></p></td>
+<td><p><a href="../Page/陳莉敏.md" title="wikilink">陳莉敏</a></p></td>
 <td></td>
 <td><p>孕婦（第1集）</p></td>
 </tr>

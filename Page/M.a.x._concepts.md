@@ -187,7 +187,7 @@ concepts](https://zh.wikipedia.org/wiki/jade_concepts "wikilink")。
   - open kitchen
       - [中環](../Page/中環.md "wikilink")
         [國際金融中心](../Page/國際金融中心_\(香港\).md "wikilink")
-          - 2013年5月由simplylife BREAD AND WINE改成。
+          - 2013年5月由simplylife BREAD AND WINE改成，2019年5月結業。
 
 ### 日菜
 
@@ -361,7 +361,7 @@ Gala葡萄酒盛宴。
   - the petit cafe
       - [金鐘](../Page/金鐘.md "wikilink")
         [太古廣場](../Page/太古廣場.md "wikilink")
-          - 2011年6月開業。
+          - 2011年6月開業，2019年5月結業。
   - simplylife cafe
       - [中環](../Page/中環.md "wikilink")
         [置地廣場](https://zh.wikipedia.org/wiki/置地廣場 "wikilink")
@@ -462,7 +462,10 @@ Gala葡萄酒盛宴。
           - 2006年9月開業，2013年4月結業。
       - [中環](../Page/中環.md "wikilink")
         [和記大廈](../Page/和記大廈.md "wikilink")
-          - 2013年10月開業。
+          - 2013年10月開業，2019年因大廈重建結業。
+      - [中環](../Page/中環.md "wikilink")
+        [嘉軒廣場](https://zh.wikipedia.org/wiki/嘉軒廣場 "wikilink")
+          - 2019年6月開業。
       - [上海](https://zh.wikipedia.org/wiki/上海 "wikilink")
         [新天地](../Page/新天地.md "wikilink")
           - 2008年2月開業，2013年結業。

@@ -35,7 +35,7 @@
   - 手塚雅子：[小林聰美](../Page/小林聰美.md "wikilink")
   - 三枝未希：[小高惠美](../Page/小高惠美.md "wikilink")
   - 安東健二：[村田雄浩](https://zh.wikipedia.org/wiki/村田雄浩 "wikilink")
-  - コスモス：[今村惠子](https://zh.wikipedia.org/wiki/今村惠子 "wikilink")、[大澤さやか](https://zh.wikipedia.org/wiki/大澤さやか "wikilink")
+  - コスモス：[今村惠子](../Page/今村惠子.md "wikilink")、[大澤さやか](https://zh.wikipedia.org/wiki/大澤さやか "wikilink")
   - 手塚みどり：[米澤史織](https://zh.wikipedia.org/wiki/米澤史織 "wikilink")
   - 船長：[大和田伸也](../Page/大和田伸也.md "wikilink")
   - 友兼剛史：[大竹まこと](https://zh.wikipedia.org/wiki/大竹まこと "wikilink")
@@ -56,7 +56,7 @@
 
   -
   -
-[Category:Godzilla](https://zh.wikipedia.org/wiki/Category:Godzilla "wikilink")
+[Category:哥吉拉電影](https://zh.wikipedia.org/wiki/Category:哥吉拉電影 "wikilink")
 [Category:1992年電影](https://zh.wikipedia.org/wiki/Category:1992年電影 "wikilink")
 [Category:Mothra](https://zh.wikipedia.org/wiki/Category:Mothra "wikilink")
 [Category:日本电影作品](https://zh.wikipedia.org/wiki/Category:日本电影作品 "wikilink")

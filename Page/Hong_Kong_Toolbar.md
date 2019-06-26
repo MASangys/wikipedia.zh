@@ -44,7 +44,7 @@ Toolbar[應用程式則繼續開發](https://zh.wikipedia.org/wiki/應用程式 
 
   - 香港商業電台網上直播頻道
       - [雷霆881](../Page/雷霆881.md "wikilink")（商業一台），另設音質更佳的**高清881**
-      - [叱咤903](https://zh.wikipedia.org/wiki/叱咤903 "wikilink")（商業二台），另設音質更佳的**高清903**
+      - [叱咤903](../Page/叱咤903.md "wikilink")（商業二台），另設音質更佳的**高清903**
       - [AM864](../Page/AM864.md "wikilink")
 
 ## 系統基本要求

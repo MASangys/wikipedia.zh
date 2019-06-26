@@ -1,7 +1,7 @@
 ***Ad
 libitum***是一个[拉丁文短语](https://zh.wikipedia.org/wiki/拉丁文 "wikilink")，表示“随意”。Ad
 libitum常简写为'Ad
-lib'（作为[形容词或](../Page/形容词.md "wikilink")[动词](https://zh.wikipedia.org/wiki/动词 "wikilink")）或'ad-lib'（作为[动词或](https://zh.wikipedia.org/wiki/动词 "wikilink")[名词](https://zh.wikipedia.org/wiki/名词 "wikilink")）。这还有个很少使用的同义词*a
+lib'（作为[形容词或](../Page/形容词.md "wikilink")[动词](../Page/动词.md "wikilink")）或'ad-lib'（作为[动词或](../Page/动词.md "wikilink")[名词](https://zh.wikipedia.org/wiki/名词 "wikilink")）。这还有个很少使用的同义词*a
 bene placito*。
 
 ## 音乐

@@ -353,7 +353,7 @@ KAYLIE、小麥</p></td>
 <td><p>8月20日</p></td>
 <td><p>他們真的都是高中生?!</p></td>
 <td><p>冠蓁、小卓、玖美子、球球、小渝</p></td>
-<td><p><a href="../Page/沈玉琳.md" title="wikilink">沈玉琳</a>、<a href="https://zh.wikipedia.org/wiki/鮪魚" title="wikilink">鮪魚</a>@<a href="../Page/Choc7.md" title="wikilink">Choc7</a>、<a href="../Page/黃小柔.md" title="wikilink">黃小柔</a>、<a href="../Page/何嘉文.md" title="wikilink">何嘉文</a></p></td>
+<td><p><a href="../Page/沈玉琳.md" title="wikilink">沈玉琳</a>、<a href="../Page/鮪魚.md" title="wikilink">鮪魚</a>@<a href="../Page/Choc7.md" title="wikilink">Choc7</a>、<a href="../Page/黃小柔.md" title="wikilink">黃小柔</a>、<a href="../Page/何嘉文.md" title="wikilink">何嘉文</a></p></td>
 <td><p>ICE NO</p></td>
 <td><p>小卓</p></td>
 <td></td>

@@ -28,7 +28,7 @@
   - 結城晃（G-Force特殊隊員）：[柄本明](../Page/柄本明.md "wikilink")
   - 麻生孝昭（G-Force司令官）：[中尾彬](https://zh.wikipedia.org/wiki/中尾彬 "wikilink")
   - 兵藤巖（G-Force兵器開發主任）：[上田耕一](https://zh.wikipedia.org/wiki/上田耕一 "wikilink")
-  - Cosmos：[今村惠子](https://zh.wikipedia.org/wiki/今村惠子 "wikilink")、[大澤さやか](https://zh.wikipedia.org/wiki/大澤さやか "wikilink")
+  - Cosmos：[今村惠子](../Page/今村惠子.md "wikilink")、[大澤さやか](https://zh.wikipedia.org/wiki/大澤さやか "wikilink")
   - 福岡的警官：奈須真司
   - 札幌的上班族（課長）：小堺一機
   - 札幌的上班族：松村邦洋
@@ -40,13 +40,13 @@
 
   - 製作總指揮：[田中友幸](../Page/田中友幸.md "wikilink")
   - 編劇：[柏原寬司](https://zh.wikipedia.org/wiki/柏原寬司 "wikilink")
-  - 音樂：[服部隆之](https://zh.wikipedia.org/wiki/服部隆之 "wikilink")
+  - 音樂：[服部隆之](../Page/服部隆之.md "wikilink")
   - 哥吉拉主題曲：[伊福部昭](../Page/伊福部昭.md "wikilink")
   - 執行製作：[富山省吾](https://zh.wikipedia.org/wiki/富山省吾 "wikilink")
   - 特技導演：[川北紘一](../Page/川北紘一.md "wikilink")
   - 導演：[山下賢章](https://zh.wikipedia.org/wiki/山下賢章 "wikilink")
 
-[Category:Godzilla](https://zh.wikipedia.org/wiki/Category:Godzilla "wikilink")
+[Category:哥吉拉電影](https://zh.wikipedia.org/wiki/Category:哥吉拉電影 "wikilink")
 [Category:Mothra](https://zh.wikipedia.org/wiki/Category:Mothra "wikilink")
 [Category:1994年電影](https://zh.wikipedia.org/wiki/Category:1994年電影 "wikilink")
 [Category:日本電影作品](https://zh.wikipedia.org/wiki/Category:日本電影作品 "wikilink")

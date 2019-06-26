@@ -8,7 +8,7 @@
   - 《 》（「」2014年7月号 -
     2015年9月号、[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")、全2巻）
   - 《老婆婆少女日向妹妹》 ，原名《》（「月刊COMIC ZENON」2014年12月号 -
-    連載中、[徳間書店](https://zh.wikipedia.org/wiki/徳間書店 "wikilink")、既刊5巻）
+    連載中、[徳間書店](https://zh.wikipedia.org/wiki/徳間書店 "wikilink")、既刊6巻）
   - 《骷髏先生在看著你》，原名《 》（「[月刊COMIC
     CUNE](https://zh.wikipedia.org/wiki/COMIC_CUNE "wikilink")」2015年10月号
     - 2017年12月号、[KADOKAWA](../Page/KADOKAWA.md "wikilink")・[Media

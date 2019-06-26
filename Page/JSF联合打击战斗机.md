@@ -1,4 +1,5 @@
-是一个1997年发布的飞行模拟类游戏，由挪威开发，[Eidos
+是一个1997年发布的飞行模拟类游戏，由挪威[Innerloop
+Studios开发](../Page/Innerloop_Studios.md "wikilink")，[Eidos
 Interactive公司发行](https://zh.wikipedia.org/wiki/Eidos_Interactive "wikilink")。其游戏引擎的改良版本后来用于游戏《[秘密潜入](../Page/秘密潜入.md "wikilink")》的开发。
 
 ## 玩法

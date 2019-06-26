@@ -217,7 +217,7 @@
 | bih <sub>(c)</sub>  | bih       | bh        |     | Bihari                               | [比哈爾語](https://zh.wikipedia.org/wiki/比哈爾語 "wikilink")                                                           |
 | bii <sub>(rs)</sub> |           |           | BII | Bisu                                 | [畢蘇語](https://zh.wikipedia.org/wiki/畢蘇語 "wikilink")；被拆分為 bzi 和 lwm                                              |
 | bij                 |           |           | BIJ | Vaghat-Ya-Bijim-Legeri               |                                                                                                                 |
-| bik <sub>(m)</sub>  | bik       |           |     | Bikol                                | [比科爾語](https://zh.wikipedia.org/wiki/比科爾語 "wikilink")                                                           |
+| bik <sub>(m)</sub>  | bik       |           |     | Bikol                                | [比科爾語](../Page/比科爾語.md "wikilink")                                                                              |
 | bil                 |           |           | BIL | Bile                                 |                                                                                                                 |
 | bim                 |           |           | BIM | Bimoba                               |                                                                                                                 |
 | bin                 | bin       |           | EDO | Bini                                 | [比尼語](https://zh.wikipedia.org/wiki/比尼語 "wikilink")                                                             |

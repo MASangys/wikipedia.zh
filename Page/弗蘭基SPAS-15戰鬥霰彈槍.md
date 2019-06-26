@@ -135,7 +135,7 @@ SPAS-15同時出現在多個[电影](../Page/电影.md "wikilink")、[電視劇�
 
   - [Jackhammer](../Page/Jackhammer轉輪式自動霰彈槍.md "wikilink")
   - [弗蘭基SPAS-12](../Page/弗蘭基SPAS-12戰鬥霰彈槍.md "wikilink")
-  - [弗蘭基AL-48](https://zh.wikipedia.org/wiki/弗蘭基AL-48半自動霰彈槍 "wikilink")
+  - [弗蘭基AL-48](../Page/弗蘭基AL-48半自動霰彈槍.md "wikilink")
   - [伯奈利M3 Super 90](../Page/伯奈利M3_Super_90霰彈槍.md "wikilink")
   - [伯奈利M4 Super 90](../Page/伯奈利M4_Super_90半自動霰彈槍.md "wikilink")（M1014）
   - [Akdal MKA 1919](../Page/Akdal_MKA_1919半自動霰彈槍.md "wikilink")

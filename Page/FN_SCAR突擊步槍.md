@@ -84,7 +84,7 @@ F2000設計的](../Page/FN_F2000突擊步槍.md "wikilink")[40毫米榴彈發射
 2008年，FN SCAR的一種衍生型，熱適應模塊化步槍（Heat Adaptive Modular
 Rifle，HAMR），是步兵自動步槍（Infantry Automatic
 Rifle，IAR）計劃的競標上最後一輪之中的四枝競標的步槍之一。步兵自動步槍是[美国海军陆战队在班用用途的輕型自動步槍方面的招標](../Page/美国海军陆战队.md "wikilink")。\[9\]FN的樣槍是以FN
-SCAR作為基礎改進而成，它結合了和[開放式槍機操作](../Page/開放式槍機.md "wikilink")，在[全自動射擊時會將槍機轉換成開放式操作](https://zh.wikipedia.org/wiki/自動火器 "wikilink")，以防止全自動射擊時槍管升溫過快。此前的槍械設計師已經可以令槍支混合了閉鎖/開放式槍機兩種操作模式，但會自動地以溫度為基礎的操作模式開關是一個創新。預期IAR的競爭會令美國海軍陸戰隊在超過5年採購高達6,500枝自動步槍。\[10\]不過，最後競標之中得標的是[黑克勒-科赫的](https://zh.wikipedia.org/wiki/黑克勒-科赫 "wikilink")[HK416的衍生型](../Page/HK416突擊步槍.md "wikilink")，[HK
+SCAR作為基礎改進而成，它結合了和[開放式槍栓操作](../Page/開放式槍栓.md "wikilink")，在[全自動射擊時會將槍機轉換成開放式操作](https://zh.wikipedia.org/wiki/自動火器 "wikilink")，以防止全自動射擊時槍管升溫過快。此前的槍械設計師已經可以令槍支混合了閉鎖/開放式槍栓兩種操作模式，但會自動地以溫度為基礎的操作模式開關是一個創新。預期IAR的競爭會令美國海軍陸戰隊在超過5年採購高達6,500枝自動步槍。\[10\]不過，最後競標之中得標的是[黑克勒-科赫的](https://zh.wikipedia.org/wiki/黑克勒-科赫 "wikilink")[HK416的衍生型](../Page/HK416突擊步槍.md "wikilink")，[HK
 IAR](../Page/HK_M27步兵自動步槍.md "wikilink")，並且被美国海军陆战队命名為M27
 IAR。\[11\]\[12\]\[13\]
 
@@ -234,29 +234,31 @@ SCAR-H（Mk 17）自動步槍為其基礎改進而成的[精確射手步槍](../
 
       - \[31\]
 
-  -   - （L型、H型）\[32\]\[33\]
+  -   - \[32\]
 
-  -   - [新加坡警察部隊](https://zh.wikipedia.org/wiki/新加坡警察部隊 "wikilink")\[34\]
+  -   - （L型、H型）\[33\]\[34\]
+
+  -   - [新加坡警察部隊](https://zh.wikipedia.org/wiki/新加坡警察部隊 "wikilink")\[35\]
 
   -   - 特種部隊單位
 
   -   - [泰國皇家陸軍](../Page/泰國皇家陸軍.md "wikilink")（L型）
 
-      - （L型、H型）\[35\]
+      - （L型、H型）\[36\]
 
-  -   - \[36\]\[37\]
+  -   - \[37\]\[38\]
 
-  -   - [英國陸軍](https://zh.wikipedia.org/wiki/英國陸軍 "wikilink")[特種空勤團](https://zh.wikipedia.org/wiki/特種空勤團 "wikilink")（H型）\[38\]\[39\]
+  -   - [英國陸軍](https://zh.wikipedia.org/wiki/英國陸軍 "wikilink")[特種空勤團](https://zh.wikipedia.org/wiki/特種空勤團 "wikilink")（H型）\[39\]\[40\]
       - [英國海軍](https://zh.wikipedia.org/wiki/英國海軍 "wikilink")[特別舟艇隊](https://zh.wikipedia.org/wiki/特別舟艇隊 "wikilink")（H型）
 
   -   - [美國特種作戰司令部](https://zh.wikipedia.org/wiki/美國特種作戰司令部 "wikilink")（L型、H型）
 
-      - [美國海關及邊境保衛局](../Page/美國海關及邊境保衛局.md "wikilink")\[40\]
+      - [美國海關及邊境保衛局](../Page/美國海關及邊境保衛局.md "wikilink")\[41\]
 
       - [洛杉磯警察局](https://zh.wikipedia.org/wiki/洛杉磯警察局 "wikilink")[特種武器和戰術部隊](../Page/特種武器和戰術部隊.md "wikilink")（L型、H型）
-        \[41\]\[42\]
+        \[42\]\[43\]
 
-      - （L型）\[43\]
+      - （L型）\[44\]
 
       - [美國緝毒局](https://zh.wikipedia.org/wiki/美國緝毒局 "wikilink")
 
@@ -537,15 +539,17 @@ SCAR-H（Mk 17）自動步槍為其基礎改進而成的[精確射手步槍](../
 
 31.
 
-32. <http://specijalne-jedinice.com/Oprema/Jurisne-puske/FN-SCAR.html#sthash.jtCTmYNi.dpbs>
+32. [NSPA awards a contract to FN Herstal for the supply of rifles,
+    grenade launchers and machine guns to the Portuguese
+    Army](https://www.nspa.nato.int/en/news/news-20190221-4.htm)
 
-33. <http://specijalne-jedinice.com/Srbija/Bataljon-vojne-policije-za-specijalne-namene-Kobre.html#sthash.WfX6r14t.vO282Xto.dpbs>
+33. <http://specijalne-jedinice.com/Oprema/Jurisne-puske/FN-SCAR.html#sthash.jtCTmYNi.dpbs>
 
-34. <http://www.imgrum.net/user/kurogears/3159694102/1291791250500675450_3159694102>
+34. <http://specijalne-jedinice.com/Srbija/Bataljon-vojne-policije-za-specijalne-namene-Kobre.html#sthash.WfX6r14t.vO282Xto.dpbs>
 
-35. <http://www.royaldefence.com/partials/theme/banner/banner_06.jpg>
+35. <http://www.imgrum.net/user/kurogears/3159694102/1291791250500675450_3159694102>
 
-36.
+36. <http://www.royaldefence.com/partials/theme/banner/banner_06.jpg>
 
 37.
 
@@ -560,3 +564,5 @@ SCAR-H（Mk 17）自動步槍為其基礎改進而成的[精確射手步槍](../
 42.
 
 43.
+
+44.

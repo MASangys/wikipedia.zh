@@ -1,7 +1,7 @@
 {{ infobox software | name = GNU nano | screenshot = Nano 2.1.2-svn.png
 | screenshot size = 300px | screenshot alt = nano 2.1.2的螢幕截圖 | caption =
 nano 2.1.2 (SVN version) | author = Chris Allegretta |
-latest_release_version = 4.2 | latest_release_date =  | programming
+latest_release_version = 4.3 | latest_release_date =  | programming
 language = [C](https://zh.wikipedia.org/wiki/C語言 "wikilink") |
 operating_system = [跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink")
 | genre = [文本编辑器](../Page/文本编辑器.md "wikilink") | license =

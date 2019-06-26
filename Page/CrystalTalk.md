@@ -30,5 +30,5 @@ PURE H12、PURE H15、H17、清 HX1
     CrystalTalk](http://www.motorola.com/content.jsp?globalObjectId=8587)
 
 [Category:行動電話](https://zh.wikipedia.org/wiki/Category:行動電話 "wikilink")
-[Category:摩托罗拉](https://zh.wikipedia.org/wiki/Category:摩托罗拉 "wikilink")
+[Category:摩托罗拉产品](https://zh.wikipedia.org/wiki/Category:摩托罗拉产品 "wikilink")
 [Category:声音技术](https://zh.wikipedia.org/wiki/Category:声音技术 "wikilink")

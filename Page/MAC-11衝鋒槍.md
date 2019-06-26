@@ -1,6 +1,6 @@
 **MAC-11**（，意為：**軍事裝備公司11型**，簡稱：**M-11**）是一款由於1972年所設計、軍事裝備公司（Military
 Armament
-Corporation）、與其他少數工廠亦有生產的輕型[冲锋枪](../Page/冲锋枪.md "wikilink")（[衝鋒手槍](../Page/全自動手槍.md "wikilink")），使用[開放式槍機](../Page/開放式槍機.md "wikilink")，是[MAC-10的](../Page/MAC-10衝鋒槍.md "wikilink")口徑版本。
+Corporation）、與其他少數工廠亦有生產的輕型[冲锋枪](../Page/冲锋枪.md "wikilink")（[衝鋒手槍](../Page/全自動手槍.md "wikilink")），使用[開放式槍栓](../Page/開放式槍栓.md "wikilink")，是[MAC-10的](../Page/MAC-10衝鋒槍.md "wikilink")口徑版本。
 
 這款武器的設計經常令人與[Sylvia & Wayne Daniels
 M-11/9或是](https://zh.wikipedia.org/wiki/Sylvia_&_Wayne_Daniels_M-11/9 "wikilink")[Vulcan
@@ -8,7 +8,7 @@ M-11-9混淆](https://zh.wikipedia.org/wiki/火神M-11-9手槍 "wikilink")，而
 
 ## 設計
 
-MAC-11很像縮小的[MAC-10](../Page/MAC-10衝鋒槍.md "wikilink")，亦有和MAC-10相同規格的[包絡式槍機](../Page/包絡式槍機.md "wikilink")、[開放式槍機](../Page/開放式槍機.md "wikilink")、槍管前端的螺旋紋和金屬機械照門設計。這種瞄準具是為了方便使用小型的可伸縮[槍托](../Page/槍托.md "wikilink")，如果不使用可伸縮槍托而使用這種瞄具會令其失效，因為[開放式槍機設計的武器的槍口跳動實在過大](../Page/開放式槍機.md "wikilink")。MAC-11A1亦有兩個和MAC-10相同的保險裝置，例如槍機轉動90度就會閉鎖和有指示器指示武器不能射擊。這兩種保險裝置能有效杜絕武器射擊系統因為墜下或者開放式槍機先天缺陷所導致的走火。
+MAC-11很像縮小的[MAC-10](../Page/MAC-10衝鋒槍.md "wikilink")，亦有和MAC-10相同規格的[包絡式槍機](../Page/包絡式槍機.md "wikilink")、[開放式槍栓](../Page/開放式槍栓.md "wikilink")、槍管前端的螺旋紋和金屬機械照門設計。這種瞄準具是為了方便使用小型的可伸縮[槍托](../Page/槍托.md "wikilink")，如果不使用可伸縮槍托而使用這種瞄具會令其失效，因為開放式槍栓設計的武器的槍口跳動實在過大。MAC-11A1亦有兩個和MAC-10相同的保險裝置，例如槍機轉動90度就會閉鎖和有指示器指示武器不能射擊。這兩種保險裝置能有效杜絕武器射擊系統因為墜下或者開放式槍栓先天缺陷所導致的走火。
 
 ## MAC-11A1的消聲器和公事包
 

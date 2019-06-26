@@ -4,7 +4,7 @@ MUSIC](../Page/SACRA_MUSIC.md "wikilink")（唱片公司）。由[梶浦由記�
 
 ## 簡介
 
-Kalafina是2007年[梶浦由記因製作](../Page/梶浦由記.md "wikilink")[空之境界劇場版主題曲而組成的團體](../Page/空之境界.md "wikilink")\[3\]，一開始的成員並不固定\[4\]，而是配合「空之境界」劇場版主題曲所需要的音色，選擇適合的歌手\[5\]。在第一張的單曲《[oblivious](https://zh.wikipedia.org/wiki/oblivious "wikilink")》起用了同樣是梶浦由記的團體[FictionJunction中的成員](../Page/FictionJunction.md "wikilink")[Wakana與](https://zh.wikipedia.org/wiki/Wakana "wikilink")[Keiko](https://zh.wikipedia.org/wiki/Keiko "wikilink")\[6\]。之後在第二張單曲《[sprinter/ARIA](https://zh.wikipedia.org/wiki/sprinter/ARIA "wikilink")》中加入了[SMEJ甄選會上入選的](https://zh.wikipedia.org/wiki/SMEJ "wikilink")[Hikaru](https://zh.wikipedia.org/wiki/Hikaru_\(歌手\) "wikilink")，並加入了[Maya](https://zh.wikipedia.org/wiki/Maya_\(日本歌手\) "wikilink")\[7\]。2009年5月，Maya退出Kalafina，同時官方將Kalafina定為Wakana、Keiko、Hikaru三人的女子團體\[8\]。
+Kalafina是2007年[梶浦由記因製作](../Page/梶浦由記.md "wikilink")[空之境界劇場版主題曲而組成的團體](../Page/空之境界.md "wikilink")\[3\]，一開始的成員並不固定\[4\]，而是配合「空之境界」劇場版主題曲所需要的音色，選擇適合的歌手\[5\]。在第一張的單曲《[oblivious](https://zh.wikipedia.org/wiki/oblivious "wikilink")》起用了同樣是梶浦由記的團體[FictionJunction中的成員](../Page/FictionJunction.md "wikilink")[Wakana與](../Page/Wakana.md "wikilink")[Keiko](../Page/Keiko.md "wikilink")\[6\]。之後在第二張單曲《[sprinter/ARIA](https://zh.wikipedia.org/wiki/sprinter/ARIA "wikilink")》中加入了[SMEJ甄選會上入選的](https://zh.wikipedia.org/wiki/SMEJ "wikilink")[Hikaru](../Page/Hikaru_\(歌手\).md "wikilink")，並加入了[Maya](https://zh.wikipedia.org/wiki/Maya_\(日本歌手\) "wikilink")\[7\]。2009年5月，Maya退出Kalafina，同時官方將Kalafina定為Wakana、Keiko、Hikaru三人的女子團體\[8\]。
 
 在聲音的分配上，Wakana主要是高音域，Keiko是低音域，而Hikaru則是高音域到中音域的部份\[9\]。
 
@@ -14,11 +14,11 @@ Kalafina是2007年[梶浦由記因製作](../Page/梶浦由記.md "wikilink")[�
 CRAFT](../Page/SPACE_CRAFT.md "wikilink")，而Kalafina在2018年2月後的活動是空白的\[10\]\[11\]。2018年2月21日，梶浦由記在[Twitter上宣佈離開SPACE](../Page/Twitter.md "wikilink")
 CRAFT，將成立自己的事務所\[12\]\[13\]\[14\]，並且支持Kalafina後續的活動\[15\]。
 
-2018年3月12日，[體育報知報導了Kalafina內將會有一個團員離開](https://zh.wikipedia.org/wiki/體育報知 "wikilink")\[16\]，之後在3月14日報導了該名成員是[Keiko的新聞](https://zh.wikipedia.org/wiki/Keiko "wikilink")\[17\]，之後官方在4月13日宣佈Keiko在4月1日因合約期滿離開經紀公司SPACE
+2018年3月12日，[體育報知報導了Kalafina內將會有一個團員離開](https://zh.wikipedia.org/wiki/體育報知 "wikilink")\[16\]，之後在3月14日報導了該名成員是[Keiko的新聞](../Page/Keiko.md "wikilink")\[17\]，之後官方在4月13日宣佈Keiko在4月1日因合約期滿離開經紀公司SPACE
 CRAFT\[18\]。
 
 2018年11月2日，SPACE
-CRAFT宣佈[Hikaru已經在](https://zh.wikipedia.org/wiki/Hikaru_\(歌手\) "wikilink")10月20日約滿離開\[19\]。之後Hikaru在11月5日開設Twitter帳號與粉絲互動\[20\]。2019年2月6日，[Wakana也開設Twitter帳號與粉絲互動](https://zh.wikipedia.org/wiki/Wakana "wikilink")\[21\]。
+CRAFT宣佈[Hikaru已經在](../Page/Hikaru_\(歌手\).md "wikilink")10月20日約滿離開\[19\]。之後Hikaru在11月5日開設Twitter帳號與粉絲互動\[20\]。2019年2月6日，[Wakana也開設Twitter帳號與粉絲互動](../Page/Wakana.md "wikilink")\[21\]。
 
 2019年3月13日，SPACE
 CRAFT表示因製作人與成員的陸續離開，恢復活動的可能性極低，所以決定解散\[22\]。同日宣佈原Kalafina官方Fans
@@ -35,9 +35,9 @@ CRAFT解散Kalafina一事發表意見\[24\]，並對於先前未能說明情況�
 
 ## 成員
 
-  - [Wakana](https://zh.wikipedia.org/wiki/Wakana "wikilink")
-  - [Keiko](https://zh.wikipedia.org/wiki/Keiko "wikilink")
-  - [Hikaru](https://zh.wikipedia.org/wiki/Hikaru_\(歌手\) "wikilink")
+  - [Wakana](../Page/Wakana.md "wikilink")
+  - [Keiko](../Page/Keiko.md "wikilink")
+  - [Hikaru](../Page/Hikaru_\(歌手\).md "wikilink")
 
 ## 其他
 

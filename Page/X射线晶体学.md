@@ -1,7 +1,9 @@
 [X_ray_diffraction.png](https://zh.wikipedia.org/wiki/File:X_ray_diffraction.png "fig:X_ray_diffraction.png")
 
 **X射線晶體學**是一門利用[X射線來研究](https://zh.wikipedia.org/wiki/X射線 "wikilink")[晶體中](https://zh.wikipedia.org/wiki/晶體 "wikilink")[原子排列的學科](../Page/原子.md "wikilink")。更準確地說，利用[電子對X射線的](https://zh.wikipedia.org/wiki/電子 "wikilink")[散射作用](../Page/散射.md "wikilink")，X射線晶體學可以獲得晶體中[電子密度的分佈情況](https://zh.wikipedia.org/wiki/電子 "wikilink")，再從中分析獲得关于原子位置和化学键的資訊，即[晶體結構](https://zh.wikipedia.org/wiki/晶體結構 "wikilink")。
-由于包括[盐类](https://zh.wikipedia.org/wiki/盐类 "wikilink")、[金属](../Page/金属.md "wikilink")、[矿物](https://zh.wikipedia.org/wiki/矿物 "wikilink")、[半导体在内的许多物质都可以形成晶体](../Page/半导体.md "wikilink")，X射线晶体学已经是许多学科的基本技术。在前十年这项技术主要被用于测量原子大小、化学键的类型和键长，以及其他的许多物质，尤其是矿物和合金。X射线晶体学也揭示了许多生物分子的结构和功能，例如[维生素](../Page/维生素.md "wikilink")、药物、[蛋白质以及](../Page/蛋白质.md "wikilink")[脱氧核糖核酸](../Page/脱氧核糖核酸.md "wikilink")（[DNA](https://zh.wikipedia.org/wiki/DNA "wikilink")）。X射线晶体学如今仍然是从原子尺度研究物质结构的主要方法。
+由于包括[盐类](https://zh.wikipedia.org/wiki/盐类 "wikilink")、[金属](../Page/金属.md "wikilink")\[1\]\[2\]、[矿物](https://zh.wikipedia.org/wiki/矿物 "wikilink")、[半导体](../Page/半导体.md "wikilink")\[3\],
+冰\[4\]，催化剂\[5\]\[6\]\[7\]，吸附剂\[8\]
+在内的许多物质都可以形成晶体，X射线晶体学已经是许多学科的基本技术。在前十年这项技术主要被用于测量原子大小、化学键的类型和键长，以及其他的许多物质，尤其是矿物和合金。X射线晶体学也揭示了许多生物分子的结构和功能，例如[维生素](../Page/维生素.md "wikilink")、药物、[蛋白质以及](../Page/蛋白质.md "wikilink")[脱氧核糖核酸](../Page/脱氧核糖核酸.md "wikilink")（[DNA](https://zh.wikipedia.org/wiki/DNA "wikilink")）。X射线晶体学如今仍然是从原子尺度研究物质结构的主要方法。
 
 ## 研究方法
 
@@ -9,7 +11,7 @@
 
 ### 概述（以高分子材料的X射線晶體學为主）
 
-由於所有的原子都含有電子，並且[X射線的](https://zh.wikipedia.org/wiki/X射線 "wikilink")[波長範圍為](https://zh.wikipedia.org/wiki/波長 "wikilink")0.001－10[納米](https://zh.wikipedia.org/wiki/納米 "wikilink")，其波長與成鍵原子之間的距離（約數十納米）相當，因此X射線可用于研究各類分子的結構。但是，到目前為止還不能用X射線對單個的分子成像，因為沒有X射線[透鏡可以聚焦X射線](https://zh.wikipedia.org/wiki/透鏡 "wikilink")，而且X射線對單個分子的[繞射能力非常弱](https://zh.wikipedia.org/wiki/繞射 "wikilink")，無法被探測。\[1\]而晶體（一般為[單晶](https://zh.wikipedia.org/wiki/單晶 "wikilink")）中含有數量巨大的方位相同的分子，X射線對這些分子的繞射疊加在一起就能夠產生足以被探測的信號。從這個意義上說，晶體就是一個X射線的信號放大器。\[2\]X射線晶體學將X射線與[晶體學聯繫在一起](https://zh.wikipedia.org/wiki/晶體學 "wikilink")，從而可以對各類[晶體結構進行研究](https://zh.wikipedia.org/wiki/晶體結構 "wikilink")，特別是[蛋白質晶體結構](https://zh.wikipedia.org/wiki/蛋白質 "wikilink")。
+由於所有的原子都含有電子，並且[X射線的](https://zh.wikipedia.org/wiki/X射線 "wikilink")[波長範圍為](https://zh.wikipedia.org/wiki/波長 "wikilink")0.001－10[納米](https://zh.wikipedia.org/wiki/納米 "wikilink")，其波長與成鍵原子之間的距離（約數十納米）相當，因此X射線可用于研究各類分子的結構。但是，到目前為止還不能用X射線對單個的分子成像，因為沒有X射線[透鏡可以聚焦X射線](https://zh.wikipedia.org/wiki/透鏡 "wikilink")，而且X射線對單個分子的[繞射能力非常弱](https://zh.wikipedia.org/wiki/繞射 "wikilink")，無法被探測。\[9\]而晶體（一般為[單晶](https://zh.wikipedia.org/wiki/單晶 "wikilink")）中含有數量巨大的方位相同的分子，X射線對這些分子的繞射疊加在一起就能夠產生足以被探測的信號。從這個意義上說，晶體就是一個X射線的信號放大器。\[10\]X射線晶體學將X射線與[晶體學聯繫在一起](https://zh.wikipedia.org/wiki/晶體學 "wikilink")，從而可以對各類[晶體結構進行研究](https://zh.wikipedia.org/wiki/晶體結構 "wikilink")，特別是[蛋白質晶體結構](https://zh.wikipedia.org/wiki/蛋白質 "wikilink")。
 
 ### 获得晶体
 
@@ -176,3 +178,19 @@ Patterson法：
 1.
 
 2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+10.

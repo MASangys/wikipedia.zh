@@ -86,7 +86,7 @@
 </table>
 
 本遊戲在[台灣及](../Page/臺灣.md "wikilink")[香港地區由](../Page/香港.md "wikilink")[gamania遊戲橘子代理發行](../Page/遊戲橘子.md "wikilink")\[2\]，[中國大陸地區則由](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[世紀天成代理](https://zh.wikipedia.org/wiki/世紀天成 "wikilink")\[3\]。
-CSO臺灣代理因合約即將到期 預估於2020年7月24日結束營運 另外，本游戏在歐美地區以《Counter-Strike
+另外，本游戏在歐美地區以《Counter-Strike
 Nexon:Zombies》的名称加入[Steam](../Page/Steam.md "wikilink")，但只對歐美地區開放，並由[Nexon
 Europe經營](https://zh.wikipedia.org/wiki/Nexon#歐洲 "wikilink")\[4\]
 
@@ -96,35 +96,37 @@ Europe經營](https://zh.wikipedia.org/wiki/Nexon#歐洲 "wikilink")\[4\]
 
 ***常規遊戲模式(＊代表已關閉的模式)***
 
-| 遊戲模式名稱                          | 動態 | 備註 |
-| :------------------------------ | :- | :- |
-| 团队决战模式                          |    |    |
-| \-{zh-cn:竞技模式 ; zh-tw:經典模式}-    |    |    |
-| 枪王决战模式                          |    |    |
-| 團隊死鬥                            |    |    |
-| 團隊死鬥(人機)                        |    |    |
-| 軍階排位戰                           |    |    |
-| 国际大赛模式                          |    |    |
-| \-{zh-cn:生化模式 ; zh-tw:生化危機}-    |    |    |
-| \-{zh-cn:大災變 ; zh-tw:災厄之章}-     |    |    |
-| \-{zh-cn:生化2(異變) ; zh-tw:生化異變}- |    |    |
-| \-{zh-cn:生化3(英雄) ; zh-tw:生化英雄}- |    |    |
-| \-{zh-cn:生化4(暗夜) ; zh-tw:無界煉獄}- |    |    |
-| 生化危機(人機)                        |    |    |
-| 生化大逃殺                           |    |    |
-| \-{zh-cn:生化Z ; zh-tw:生化Z}-      |    |    |
-| \-{zh-cn:晝夜求生2 ; zh-tw:新夜襲生存戰}- |    |    |
-| \-{zh-cn:機甲風暴 ; zh-tw:厄斗擂台}-    |    |    |
-| 明星鬥陣                            |    |    |
-| 合金戰爭                            | ＊  |    |
-| \-{zh-cn:道具戰 ; zh-tw:趣味奪寶戰}-    |    |    |
-| 極限模式                            |    |    |
-| 足球模式                            |    |    |
-| 戰慄之章                            |    |    |
-| 絕命檔案                            |    |    |
-|                                 |    |    |
-| 締造者模式                           |    |    |
-| 殭屍直直撞                           |    |    |
+| 遊戲模式名稱                              | 動態 | 備註 |
+| :---------------------------------- | :- | :- |
+| 团队决战模式                              |    |    |
+| \-{zh-cn:竞技模式 ; zh-tw:經典模式}-        |    |    |
+| 枪王之王                                |    |    |
+| 團隊死鬥                                |    |    |
+| 團隊死鬥(虛擬對手)                          |    |    |
+| 悠遊模式                                |    |    |
+| 軍階排位戰                               |    |    |
+| 国际大赛模式                              |    |    |
+| \-{zh-tw:災厄之章 ; zh-cn:大災變}-         |    |    |
+| \-{zh-tw:殭屍經典 ; zh-cn:生化模式}-        |    |    |
+| \-{zh-tw:殭屍異變 ; zh-cn:生化2(異變)}-     |    |    |
+| \-{zh-tw:殭屍英雄 ; zh-cn:生化3(英雄)}-     |    |    |
+| \-{zh-tw:無界煉獄 ; zh-cn:生化4(暗夜)}-     |    |    |
+| \-{zh-tw:\[殭屍\]模式 ;zh-cn:生化危機(人機)}- |    |    |
+| 殭屍大逃殺                               |    |    |
+| \-{zh-tw:殭屍Z ; zh-cn:生化z}-          |    |    |
+| \-{zh-cn:晝夜求生2 ; zh-tw:新夜襲生存戰}-     |    |    |
+| \-{zh-tw:厄鬥擂台 ; zh-cn:機甲風暴}-        |    |    |
+| 明星鬥陣                                |    |    |
+| 機甲爭霸                                | ＊  |    |
+| \-{zh-cn:道具戰 ; zh-tw:趣味奪寶戰}-        |    |    |
+| \-{zh-tw:挑戰模式 ; zh-cn:極限模式}-        |    |    |
+| 足球模式                                |    |    |
+| 怪獸亂鬥                                |    |    |
+| \-{zh-tw:戰神之章 ; zh-cn:戰慄之章}-        |    |    |
+| \-{zh-tw:偵查事件簿 ; zh-cn:絕命檔案}-       |    |    |
+| 秘密基地                                |    |    |
+| \-{zh-tw:STUDIO創世者 ; zh-cn:締造者模式}-  |    |    |
+| 殭屍直直撞                               |    |    |
 
   - 軍階排位戰遊戲模式玩法：玩家可利用自動匹配選擇適當的遊戲模式來進行與其他玩家對戰並且累計積分，此時系統也會在每期的軍階戰結束時派獎給予玩家遊戲獎勵
 
@@ -134,11 +136,11 @@ Europe經營](https://zh.wikipedia.org/wiki/Nexon#歐洲 "wikilink")\[4\]
 
 ***限時遊戲模式***
 
-| 遊戲模式名稱 | 動態           | 備註 |
-| :----- | :----------- | :- |
-| 魔隱師模式  | 由常規模式變更為限時模式 |    |
-| 幽靈模式   |              |    |
-| RPG模式  |              |    |
+| 遊戲模式名稱                        | 動態           | 備註 |
+| :---------------------------- | :----------- | :- |
+| 魔隱師模式                         | 由常規模式變更為限時模式 |    |
+| 幽靈模式                          |              |    |
+| \-{zh-tw:轟炸擂台 ; zh-cn:RPG模式}- |              |    |
 
 ### 遊戲特色系統
 
@@ -177,8 +179,8 @@ Europe經營](https://zh.wikipedia.org/wiki/Nexon#歐洲 "wikilink")\[4\]
 <td style="text-align: left;"></td>
 </tr>
 <tr class="even">
-<td style="text-align: left;"><p>歡樂積分商城</p></td>
-<td style="text-align: left;"><p>可讓玩家從積分商城購買更多的遊戲道具</p></td>
+<td style="text-align: left;"><p>紅利商城</p></td>
+<td style="text-align: left;"><p>可讓玩家從紅利商城購買更多的遊戲道具</p></td>
 <td style="text-align: left;"></td>
 </tr>
 <tr class="odd">
@@ -202,12 +204,12 @@ Europe經營](https://zh.wikipedia.org/wiki/Nexon#歐洲 "wikilink")\[4\]
 </tr>
 <tr class="even">
 <td style="text-align: left;"><p>黑市商城</p></td>
-<td style="text-align: left;"><p>玩家可使用持有的歡樂積分來進行黑市商城系統購買遊戲道具</p></td>
+<td style="text-align: left;"><p>玩家可使用持有的紅利來進行黑市商城系統購買遊戲道具</p></td>
 <td style="text-align: left;"><p>1.此為限時性開啟的系統</p>
 <p>2.屬於商城系統之一</p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;"><p>精英懸賞系統</p></td>
+<td style="text-align: left;"><p>SeasonPass</p></td>
 <td style="text-align: left;"><p>玩家可以在遊玩時獲得懸賞幣進行提升懸賞系統的等級，達到一定的等級即可獲得該系統的等級獎勵</p></td>
 <td style="text-align: left;"><p>1.每30分鐘將會派發懸賞幣，一天最多只能累積120分鐘</p>
 <p>2.玩家可以購買精英通行證購買等級</p></td>
