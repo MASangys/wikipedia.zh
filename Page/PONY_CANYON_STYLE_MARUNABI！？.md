@@ -1085,8 +1085,7 @@ MARUNABI？**）是[株式會社文化放送於](https://zh.wikipedia.org/wiki/�
 
   - [](http://www.joqr.co.jp/ag/maru/quest/)
 
-[Category:日本廣播節目](https://zh.wikipedia.org/wiki/Category:日本廣播節目 "wikilink")
-[Category:動畫廣播](https://zh.wikipedia.org/wiki/Category:動畫廣播 "wikilink")
+[Category:文化放送A\&G_Zone](https://zh.wikipedia.org/wiki/Category:文化放送A&G_Zone "wikilink")
 
 1.  [聲優Animedia](https://zh.wikipedia.org/wiki/聲優Animedia "wikilink")
     vol.14（2006年12月1日發售）第95頁 -

@@ -37,5 +37,6 @@ XMM-牛顿卫星重3.8吨，长10米，太阳能电池帆板展开后宽16米。
 
   -
 [Category:X射线天文卫星](https://zh.wikipedia.org/wiki/Category:X射线天文卫星 "wikilink")
+[Category:1999年發射的太空飛行器](https://zh.wikipedia.org/wiki/Category:1999年發射的太空飛行器 "wikilink")
 
 1.

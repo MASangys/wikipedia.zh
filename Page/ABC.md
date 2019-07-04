@@ -1,7 +1,4 @@
-**ABC**可以指： American Born
-Chinese，只要旅居國外(美加地區)三個月以上，都可以被叫做ABC，此詞用來泛指人時有褒有貶，看當下形容的語氣為準。
-
-例 褒義造句:不愧是ABC，居然會聽英文歌\! 貶義造句:你這個假ABC，連筷子都拿不好\!
+**ABC**可以指：
 
 ## 語言
 
@@ -71,7 +68,8 @@ Chinese，只要旅居國外(美加地區)三個月以上，都可以被叫做AB
 
   - [美北浸禮會](https://zh.wikipedia.org/wiki/美北浸禮會 "wikilink") (American
     Baptist Churches)
-  - 出版銷數公證會 (Audit Bureau of
+  - [出版銷數公證會](https://zh.wikipedia.org/wiki/發行公信會 "wikilink") (Audit
+    Bureau of
     Circulations)，一家統計出版刊物銷量的組織。[香港](../Page/香港.md "wikilink")，[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")，[紐西蘭](https://zh.wikipedia.org/wiki/紐西蘭 "wikilink")，[印度](../Page/印度.md "wikilink")，[英國及](https://zh.wikipedia.org/wiki/英國 "wikilink")[日本的出版銷數公證會均使用ABC這縮寫](../Page/日本.md "wikilink")。
 
 ## 人文

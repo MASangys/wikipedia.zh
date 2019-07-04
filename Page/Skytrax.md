@@ -126,10 +126,16 @@ Research Services的附屬公司，
 <td><p><a href="https://zh.wikipedia.org/wiki/卡塔爾航空" title="wikilink">卡塔爾航空</a></p></td>
 <td><p><a href="../Page/全日本空輸.md" title="wikilink">全日空</a></p></td>
 </tr>
+<tr class="odd">
+<td><p>2019[23]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/卡塔爾航空" title="wikilink">卡塔爾航空</a></p></td>
+<td><p><a href="../Page/新加坡航空.md" title="wikilink">新加坡航空</a></p></td>
+<td><p><a href="../Page/全日本空輸.md" title="wikilink">全日空</a></p></td>
+</tr>
 </tbody>
 </table>
 
-### 五星级航空公司\[23\]
+### 五星级航空公司\[24\]
 
   - [全日本空輸](../Page/全日本空輸.md "wikilink")（[星空聯盟](../Page/星空聯盟.md "wikilink")）
 
@@ -165,132 +171,132 @@ Research Services的附屬公司，
 <tbody>
 <tr class="odd">
 <td><p>1998</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/吉隆坡国际机场" title="wikilink">吉隆坡国际机场</a>[24]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/吉隆坡国际机场" title="wikilink">吉隆坡国际机场</a>[25]</p></td>
 <td><p>无</p></td>
 <td><p>无</p></td>
 </tr>
 <tr class="even">
 <td><p>1999</p></td>
-<td><p><a href="../Page/阿姆斯特丹史基浦機場.md" title="wikilink">阿姆斯特丹史基浦機場</a>[25]</p></td>
+<td><p><a href="../Page/阿姆斯特丹史基浦機場.md" title="wikilink">阿姆斯特丹史基浦機場</a>[26]</p></td>
 <td><p>無</p></td>
 <td><p>無</p></td>
 </tr>
 <tr class="odd">
 <td><p>2000</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/新加坡樟宜機場" title="wikilink">新加坡樟宜機場</a>[26]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/新加坡樟宜機場" title="wikilink">新加坡樟宜機場</a>[27]</p></td>
 <td><p>無</p></td>
 <td><p>無</p></td>
 </tr>
 <tr class="even">
-<td><p>2001[27]</p></td>
+<td><p>2001[28]</p></td>
 <td><p><a href="../Page/香港國際機場.md" title="wikilink">香港國際機場</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/吉隆坡國際機場" title="wikilink">吉隆坡國際機場</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/新加坡樟宜機場" title="wikilink">新加坡樟宜機場</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>2002[28]</p></td>
+<td><p>2002[29]</p></td>
 <td><p><a href="../Page/香港國際機場.md" title="wikilink">香港國際機場</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/新加坡樟宜機場" title="wikilink">新加坡樟宜機場</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/雪梨機場" title="wikilink">雪梨機場</a></p></td>
 </tr>
 <tr class="even">
-<td><p>2003[29]</p></td>
-<td><p><a href="../Page/香港國際機場.md" title="wikilink">香港國際機場</a>[30]</p></td>
+<td><p>2003[30]</p></td>
+<td><p><a href="../Page/香港國際機場.md" title="wikilink">香港國際機場</a>[31]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/新加坡樟宜機場" title="wikilink">新加坡樟宜機場</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/杜拜國際機場" title="wikilink">杜拜國際機場</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>2004[31]</p></td>
+<td><p>2004[32]</p></td>
 <td><p><a href="../Page/香港國際機場.md" title="wikilink">香港國際機場</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/新加坡樟宜機場" title="wikilink">新加坡樟宜機場</a></p></td>
 <td><p><a href="../Page/阿姆斯特丹史基浦機場.md" title="wikilink">阿姆斯特丹史基浦機場</a></p></td>
 </tr>
 <tr class="even">
-<td><p>2005[32]</p></td>
+<td><p>2005[33]</p></td>
 <td><p><a href="../Page/香港國際機場.md" title="wikilink">香港國際機場</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/新加坡樟宜機場" title="wikilink">新加坡樟宜機場</a></p></td>
 <td><p><a href="../Page/仁川國際機場.md" title="wikilink">仁川國際機場</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>2006[33]</p></td>
+<td><p>2006[34]</p></td>
 <td><p><a href="../Page/香港國際機場.md" title="wikilink">香港國際機場</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/新加坡樟宜機場" title="wikilink">新加坡樟宜機場</a> [34]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/新加坡樟宜機場" title="wikilink">新加坡樟宜機場</a> [35]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/慕尼黑機場" title="wikilink">慕尼黑機場</a></p></td>
 </tr>
 <tr class="even">
-<td><p>2007[35]</p></td>
+<td><p>2007[36]</p></td>
 <td><p><a href="../Page/香港國際機場.md" title="wikilink">香港國際機場</a></p></td>
 <td><p><a href="../Page/仁川國際機場.md" title="wikilink">仁川國際機場</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/新加坡樟宜機場" title="wikilink">新加坡樟宜機場</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>2008[36]</p></td>
+<td><p>2008[37]</p></td>
 <td><p><a href="../Page/香港國際機場.md" title="wikilink">香港國際機場</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/新加坡樟宜機場" title="wikilink">新加坡樟宜機場</a></p></td>
 <td><p><a href="../Page/仁川國際機場.md" title="wikilink">仁川國際機場</a></p></td>
 </tr>
 <tr class="even">
-<td><p>2009[37]</p></td>
+<td><p>2009[38]</p></td>
 <td><p><a href="../Page/仁川國際機場.md" title="wikilink">仁川國際機場</a></p></td>
 <td><p><a href="../Page/香港國際機場.md" title="wikilink">香港國際機場</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/新加坡樟宜機場" title="wikilink">新加坡樟宜機場</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>2010[38]</p></td>
+<td><p>2010[39]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/新加坡樟宜機場" title="wikilink">新加坡樟宜機場</a></p></td>
 <td><p><a href="../Page/仁川國際機場.md" title="wikilink">仁川國際機場</a></p></td>
 <td><p><a href="../Page/香港國際機場.md" title="wikilink">香港國際機場</a></p></td>
 </tr>
 <tr class="even">
-<td><p>2011[39]</p></td>
+<td><p>2011[40]</p></td>
 <td><p><a href="../Page/香港國際機場.md" title="wikilink">香港國際機場</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/新加坡樟宜機場" title="wikilink">新加坡樟宜機場</a></p></td>
 <td><p><a href="../Page/仁川國際機場.md" title="wikilink">仁川國際機場</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>2012[40]</p></td>
+<td><p>2012[41]</p></td>
 <td><p><a href="../Page/仁川國際機場.md" title="wikilink">仁川國際機場</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/新加坡樟宜機場" title="wikilink">新加坡樟宜機場</a></p></td>
 <td><p><a href="../Page/香港國際機場.md" title="wikilink">香港國際機場</a></p></td>
 </tr>
 <tr class="even">
-<td><p>2013[41]</p></td>
+<td><p>2013[42]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/新加坡樟宜機場" title="wikilink">新加坡樟宜機場</a></p></td>
 <td><p><a href="../Page/仁川國際機場.md" title="wikilink">仁川國際機場</a></p></td>
 <td><p><a href="../Page/阿姆斯特丹史基浦機場.md" title="wikilink">阿姆斯特丹史基浦機場</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>2014[42]</p></td>
+<td><p>2014[43]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/新加坡樟宜機場" title="wikilink">新加坡樟宜機場</a></p></td>
 <td><p><a href="../Page/仁川國際機場.md" title="wikilink">仁川國際機場</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/慕尼黑機場" title="wikilink">慕尼黑機場</a></p></td>
 </tr>
 <tr class="even">
-<td><p>2015[43]</p></td>
+<td><p>2015[44]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/新加坡樟宜機場" title="wikilink">新加坡樟宜機場</a></p></td>
 <td><p><a href="../Page/仁川國際機場.md" title="wikilink">仁川國際機場</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/慕尼黑機場" title="wikilink">慕尼黑機場</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>2016[44]</p></td>
+<td><p>2016[45]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/新加坡樟宜機場" title="wikilink">新加坡樟宜機場</a></p></td>
 <td><p><a href="../Page/仁川國際機場.md" title="wikilink">仁川國際機場</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/慕尼黑機場" title="wikilink">慕尼黑機場</a></p></td>
 </tr>
 <tr class="even">
-<td><p>2017[45]</p></td>
+<td><p>2017[46]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/新加坡樟宜機場" title="wikilink">新加坡樟宜機場</a></p></td>
 <td><p><a href="../Page/東京國際機場.md" title="wikilink">東京國際機場</a></p></td>
 <td><p><a href="../Page/仁川國際機場.md" title="wikilink">仁川國際機場</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>2018[46]</p></td>
+<td><p>2018[47]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/新加坡樟宜機場" title="wikilink">新加坡樟宜機場</a></p></td>
 <td><p><a href="../Page/仁川國際機場.md" title="wikilink">仁川國際機場</a></p></td>
 <td><p><a href="../Page/東京國際機場.md" title="wikilink">東京國際機場</a></p></td>
 </tr>
 <tr class="even">
-<td><p>2019[47]</p></td>
+<td><p>2019[48]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/新加坡樟宜機場" title="wikilink">新加坡樟宜機場</a></p></td>
 <td><p><a href="../Page/東京國際機場.md" title="wikilink">東京國際機場</a></p></td>
 <td><p><a href="../Page/仁川國際機場.md" title="wikilink">仁川國際機場</a></p></td>
@@ -300,7 +306,7 @@ Research Services的附屬公司，
 
 ### 五星级機場
 
-至2018年，Skytrax 共給予下列9座機場五星級評價。\[48\]
+至2018年，Skytrax 共給予下列9座機場五星級評價。\[49\]
 
 #### 亞洲
 
@@ -387,70 +393,72 @@ Research Services的附屬公司，
 
 23.
 
-24. [Profil Korporat - Malaysia Airport Holdings
+24.
+
+25. [Profil Korporat - Malaysia Airport Holdings
     Berhad](http://www.klia.com.my/index.php?m=corp_info&c=brand/)
 
-25. [Previous Winners : Airport Of The
+26. [Previous Winners : Airport Of The
     Year](http://www.worldairportawards.com/main/winner_history.htm)
 
-26.
 27.
-
 28.
 
 29.
 
 30.
-31.
 
-32. [Airport of the
-    Year 2005](http://www.airlinequality.com/2005/airport-05-ent.htm)
+31.
+32.
 
 33. [Airport of the
+    Year 2005](http://www.airlinequality.com/2005/airport-05-ent.htm)
+
+34. [Airport of the
     Year 2006](http://www.worldairportawards.com/Awards-2006/AirportYear-2006.htm)
 
 
-34.
-35. [Airport of the
+35.
+36. [Airport of the
     Year 2007](http://www.worldairportawards.com/Awards_2007/Airport2007.htm)
 
 
-36. [Airport of the
+37. [Airport of the
     Year 2008](http://www.worldairportawards.com/Awards_2008/Airport2008.htm)
 
 
-37. [Airport of the
+38. [Airport of the
     Year 2009](http://www.worldairportawards.com/Awards_2009/Airport2009.htm)
 
 
-38. [Airport of the
+39. [Airport of the
     Year 2010](http://www.worldairportawards.com/main/Press-APT2010.htm)
 
 
-39. [Airport of the
+40. [Airport of the
     Year 2011](http://www.worldairportawards.com/Awards_2011/Airport2011.htm)
 
 
-40. [Airport of the
+41. [Airport of the
     Year 2012](http://www.worldairportawards.com/Awards_2012/Airport2012.htm)
 
 
-41. [Airport of the
+42. [Airport of the
     Year 2013](http://www.worldairportawards.com/Awards_2013/Airport2013.htm)
 
 
-42. [Airport of the
+43. [Airport of the
     Year 2014](http://www.worldairportawards.com/Awards_2014/worlds_best_airport.htm)
 
 
-43. [2](http://www.worldairportawards.com/Awards/world_airport_rating.html)
+44. [2](http://www.worldairportawards.com/Awards/world_airport_rating.html)
 
-44. [3](http://www.worldairportawards.com/Awards/worlds_best_airport.html)
+45. [3](http://www.worldairportawards.com/Awards/worlds_best_airport.html)
 
-45. [4](http://www.worldairportawards.com/Awards/worlds_best_airport.html)
+46. [4](http://www.worldairportawards.com/Awards/worlds_best_airport.html)
 
-46. [5](http://www.worldairportawards.com/Awards/world_airport_rating.html)
+47. [5](http://www.worldairportawards.com/Awards/world_airport_rating.html)
 
-47. [6](http://www.worldairportawards.com/Awards/world_airport_rating.html)
+48. [6](http://www.worldairportawards.com/Awards/world_airport_rating.html)
 
-48.
+49.

@@ -1,18 +1,18 @@
-是源自[美國的](https://zh.wikipedia.org/wiki/美國 "wikilink")[影片分享網站](https://zh.wikipedia.org/wiki/影片分享網站 "wikilink")，讓使用者上載、觀看、分享及評論[视频](../Page/视频.md "wikilink")。公司於2005年2月14日註冊，網站的口號為「」，網站的標誌意念來自早期[電視顯示器](https://zh.wikipedia.org/wiki/电视機 "wikilink")（[阴极射线管](../Page/阴极射线管.md "wikilink")）。\[1\]
+是源自[美國的](https://zh.wikipedia.org/wiki/美國 "wikilink")[影片分享網站](https://zh.wikipedia.org/wiki/影片分享網站 "wikilink")，讓使用者上載、觀看、分享及評論[影片](https://zh.wikipedia.org/wiki/影片 "wikilink")。公司於2005年2月14日註冊，網站的口號為「」，網站的標誌意念來自早期[電視顯示器](https://zh.wikipedia.org/wiki/电视機 "wikilink")（[阴极射线管](../Page/阴极射线管.md "wikilink")）。\[1\]
 
 2005年，YouTube由[陳士駿](../Page/陳士駿.md "wikilink")(Steve
-Chen)、、[賈德·卡林姆等人創立](../Page/賈德·卡林姆.md "wikilink")，賈德·卡林姆作为网站创始者亦是YouTube最早影片《[我在動物園](../Page/我在動物園.md "wikilink")》的上传者\[2\]。2006年11月，[Google公司以](../Page/Google.md "wikilink")16.5億美元收購YouTube，並把其當做一間[子公司來經營](../Page/子公司.md "wikilink")。Google最初对于如何透过YouTube盈利，一直保持著谨慎的态度\[3\]。收購後的YouTube依然風靡全球網路使用者。[花旗銀行分析師認為](https://zh.wikipedia.org/wiki/花旗銀行 "wikilink")，以2012年計算，Google从YouTube获得24亿美元的收入\[4\]。无[Google账号的用户仍可以觀看YouTube中的影片](../Page/Google.md "wikilink")，但无法上传影片及留言。註冊用戶可以無限量上傳影片。當影片多次被舉報，經過核實後，含有暴力或裸露的内容會被定為“18歲以上註冊用户才可以觀看”，而色情以及侵犯版权的内容（比如仍在上映或发行影碟的电影，电视剧或动画片）會被刪除，另外也禁止特定的買賣主題影片。
+Chen)、、[賈德·卡林姆等人創立](../Page/賈德·卡林姆.md "wikilink")，賈德·卡林姆作为网站创始者亦是YouTube最早影片《[我在動物園](../Page/我在動物園.md "wikilink")》的上传者\[2\]。2006年11月，[Google公司以](../Page/Google.md "wikilink")16.5億美元收購YouTube，並把其當做一間[子公司來經營](../Page/子公司.md "wikilink")。Google最初对于如何透过YouTube盈利，一直保持著谨慎的态度\[3\]。收購後的YouTube依然風靡全球網路使用者。[花旗銀行分析師認為](https://zh.wikipedia.org/wiki/花旗銀行 "wikilink")，以2012年計算，Google从YouTube獲得24億美元的收入\[4\]。无[Google帳號的用户仍可以觀看YouTube中的影片](../Page/Google.md "wikilink")，但無法上传影片及留言。註冊用戶可以無限量上傳影片。當影片多次被檢舉，經過核實後，含有暴力或裸露的内容會被定為“18歲以上註冊用户才可以觀看”，而色情以及侵犯版权的内容（比如仍在上映或發行影音產品的电影，電視劇或動畫片）會被刪除，另外也禁止特定的買賣主題影片。
 
 [加利福尼亚州](../Page/加利福尼亚州.md "wikilink")[聖布里諾是YouTube總公司的所在](https://zh.wikipedia.org/wiki/聖布里諾 "wikilink")，網站藉由[HTML5](../Page/HTML5.md "wikilink")
 [WebM影片](../Page/WebM.md "wikilink")\[5\]來播放由上傳者製成的影片內容，包括電影[剪輯](../Page/剪輯.md "wikilink")、電視短片、预告片、音樂錄影帶等，以及其他上傳者自製的影片，如[VLOG](https://zh.wikipedia.org/wiki/VLOG "wikilink")、原創的影片等。大部分YouTube的上傳者為個人，但也有一些媒體公司如[哥倫比亞廣播公司](https://zh.wikipedia.org/wiki/哥倫比亞廣播公司 "wikilink")、[英國廣播公司](https://zh.wikipedia.org/wiki/英國廣播公司 "wikilink")、[VEVO以及其他團體與YouTube有合作夥伴計劃](https://zh.wikipedia.org/wiki/VEVO "wikilink")，上傳自家所錄製的影片\[6\]。
 
 今日它已經成為[影音網站的翹楚](https://zh.wikipedia.org/wiki/影音網站 "wikilink")，不單在娛樂音市場上吸引觀眾，又成功把龐大流量轉變為社群平台，並激發網上[創作產業](https://zh.wikipedia.org/wiki/創意產業 "wikilink")，例如每年[YouTube名人的演出](../Page/YouTuber.md "wikilink")[YouTube
 FanFest等收看人數與收入都相當驚人](https://zh.wikipedia.org/wiki/YouTube_FanFest "wikilink")，同時企業則申請官方帳號用作[廣告與線上傳媒渠道](../Page/廣告.md "wikilink")、[NGO的推廣公關等等](https://zh.wikipedia.org/wiki/NGO "wikilink")，成為又一段[矽谷文化新創成功的經營典範](https://zh.wikipedia.org/wiki/矽谷 "wikilink")，當然也是因為硬體支援，才能承受龐大的資訊量而發展起來，還有恰好的創業時機換來的知名度與其爆紅效應。儘管有大量用戶支持，但同類型網站激烈競爭下內容更變得重要，因此近幾年眼光開始向網上知名製作者，YouTube對這些擁有百萬訂閱的人十分器重，給予獎盃回饋與官方聚會活動邀請、以及更高的薪資分紅等等（這類職業化的影片創作者被稱為[YouTuber](../Page/YouTuber.md "wikilink")），追求高點擊率已經成為許多人獲取財富的方式之一，第一個破十億點閱率的男歌手是[PSY](../Page/PSY.md "wikilink")（Gangnam
-Style），第一個破十億點閱率的女歌手是[姬蒂·佩芮](https://zh.wikipedia.org/wiki/姬蒂·佩芮 "wikilink")。2015年9月，[PewDiePie成为第一个观看次数超过](../Page/PewDiePie.md "wikilink")100亿次的YouTube频道\[7\]。
+Style），第一個破十億點閱率的女歌手是[凱蒂·佩芮](../Page/凱蒂·佩芮.md "wikilink")。2015年9月，[PewDiePie成为第一个观看次数超过](../Page/PewDiePie.md "wikilink")100亿次的YouTube频道\[7\]。
 
 2015年7月17日，谷歌发布截至6月30日的2015财年第二季度财报显示，现在YouTube有超过10亿用户，世界上所有上网的人群中几乎有三分之一的人每天在YouTube，合计耗費數亿小时的时间观看影片，现在YouTube的观看时间比過去增长60%，这是近幾年来最高的增长比例。
 
-截至2017年2月，YouTube每分钟上传的影片时长超过400小时，每天的观看时长达10亿小时。据[Alexa
+截至2017年2月，YouTube每分鐘上傳的影片时长超过400小时，每天的观看时长达10亿小时。据[Alexa
 Internet报導](../Page/Alexa_Internet.md "wikilink")，截至2018年8月，YouTube被评为全球第二大热门网站。\[8\]
 
 2017年6月6日，《2017年BrandZ最具价值全球品牌100强》公布，YouTube名列第65位。
@@ -577,7 +577,7 @@ YouTube自2008年開始，每年都會在網站上發布[愚人節玩笑](../Pag
 
 4.
 
-5.  [YouTube HTML5 视频播放器](https://www.youtube.com/html5)
+5.  [YouTube HTML5 影片播放器](https://www.youtube.com/html5)
 
 6.
 

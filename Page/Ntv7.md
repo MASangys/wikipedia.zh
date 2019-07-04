@@ -95,7 +95,7 @@ News（世界新聞）](../Page/晚間新聞.md "wikilink")」 |- | 23:00-00:00 
 
 ## 現時ntv7的播出時段節目
 
-2019年6月3日－2019年6月9日（節目更動以電視台最新公佈為準）
+2019年7月1日－2019年7月7日（節目更動以電視台最新公佈為準）
 
 <table style="width:9%;">
 <colgroup>
@@ -111,13 +111,13 @@ News（世界新聞）](../Page/晚間新聞.md "wikilink")」 |- | 23:00-00:00 
 <thead>
 <tr class="header">
 <th></th>
-<th><p>星期一（3日）</p></th>
-<th><p>星期二（4日）</p></th>
-<th><p>星期三（5日）</p></th>
-<th><p>星期四（6日）</p></th>
-<th><p>星期五（7日）</p></th>
-<th><p>星期六（8日）</p></th>
-<th><p>星期日（9日）</p></th>
+<th><p>星期一（1日）</p></th>
+<th><p>星期二（2日）</p></th>
+<th><p>星期三（3日）</p></th>
+<th><p>星期四（4日）</p></th>
+<th><p>星期五（5日）</p></th>
+<th><p>星期六（6日）</p></th>
+<th><p>星期日（7日）</p></th>
 </tr>
 </thead>
 <tbody>
@@ -163,7 +163,7 @@ News（世界新聞）](../Page/晚間新聞.md "wikilink")」 |- | 23:00-00:00 
 </tr>
 <tr class="odd">
 <td><p>12:00p.m</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/妇道" title="wikilink">妇道</a>^ （第1-5集）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/妇道" title="wikilink">妇道</a>^ （第21-25集）</p></td>
 <td><p>家庭幽默大赛 ^</p></td>
 <td></td>
 <td></td>
@@ -193,7 +193,7 @@ News（世界新聞）](../Page/晚間新聞.md "wikilink")」 |- | 23:00-00:00 
 </tr>
 <tr class="even">
 <td><p>6:00p.m</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/浪漫医生金师傅" title="wikilink">浪漫医生金师傅</a># （第16-19集）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/灰姑娘与四骑士" title="wikilink">灰姑娘与四骑士</a># （第4-7集）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/oh_my_baby" title="wikilink">oh my baby</a>#<br />
 </p></td>
 <td><p><a href="../Page/Running_Man.md" title="wikilink">Running Man</a>#</p></td>
@@ -254,8 +254,8 @@ News（世界新聞）](../Page/晚間新聞.md "wikilink")」 |- | 23:00-00:00 
 </tr>
 <tr class="even">
 <td><p>11:00p.m</p></td>
-<td><p><a href="../Page/守百年之约.md" title="wikilink">守百年之约</a>^ （第1-5集）</p></td>
-<td><p><a href="../Page/柠檬初上.md" title="wikilink">柠檬初上</a>^（第1-2集）</p></td>
+<td><p><a href="../Page/守百年之约.md" title="wikilink">守百年之约</a>^ （第21-25集）</p></td>
+<td><p><a href="../Page/柠檬初上.md" title="wikilink">柠檬初上</a>^（第9-10集）</p></td>
 <td></td>
 <td></td>
 <td></td>

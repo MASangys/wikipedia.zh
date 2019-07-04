@@ -1,4 +1,4 @@
-**輕型作戰坦克系列**（），為美國在[二次世界大戰時所使用的](https://zh.wikipedia.org/wiki/二次世界大戰 "wikilink")[輕型戰車和](https://zh.wikipedia.org/wiki/輕型戰車 "wikilink")[小戰車系列](../Page/小戰車.md "wikilink")。CTL-3型的武裝為兩挺.30口徑[M1919機槍和一挺](../Page/白朗寧M1919中型機槍.md "wikilink").50口徑[M2白朗寧機槍](https://zh.wikipedia.org/wiki/M2白朗寧機槍 "wikilink")，車組員兩名。瑪蒙-哈寧頓原先打算將這系列坦克設計成[兩棲輕型戰車](../Page/兩棲車輛.md "wikilink")，但這個設計不被[美國海軍陸戰隊青睞](https://zh.wikipedia.org/wiki/美國海軍陸戰隊 "wikilink")。不久後，[珍珠港事變爆發](https://zh.wikipedia.org/wiki/珍珠港事變 "wikilink")，這款坦克被出口給其他盟國和做為應急輕型坦克使用。
+**輕型作戰坦克系列**（），為美國在[二次世界大戰時所使用的](https://zh.wikipedia.org/wiki/二次世界大戰 "wikilink")[輕型戰車和](https://zh.wikipedia.org/wiki/輕型戰車 "wikilink")[小戰車系列](../Page/小戰車.md "wikilink")。CTL-3型的武裝為兩挺.30口徑[M1919機槍和一挺](../Page/白朗寧M1919中型機槍.md "wikilink").50口徑[M2白朗寧機槍](https://zh.wikipedia.org/wiki/M2白朗寧機槍 "wikilink")，車組員兩名。瑪蒙-哈寧頓原先打算將這系列坦克設計成[兩棲輕型戰車](../Page/兩棲車輛.md "wikilink")，但這個設計不被[美國海軍陸戰隊青睞](https://zh.wikipedia.org/wiki/美國海軍陸戰隊 "wikilink")。不久後，[珍珠港事變爆發](https://zh.wikipedia.org/wiki/珍珠港事變 "wikilink")，這款坦克被出口給其他盟國或被美國做為應急輕型坦克使用。
 
 他們主要服役於[阿拉斯加和](../Page/阿留申群島戰役.md "wikilink")[荷屬東印度](../Page/荷蘭東印度群島戰役.md "wikilink")，美國則多把他們駐紮在海岸，負責執行防禦任務。連同樣車，瑪蒙-哈寧頓CTLS輕型坦克總共製造了800多台，盟軍在1943年開始退役這些坦克，但二戰後新建立的印尼軍隊仍然使用到1949年。
 
@@ -6,7 +6,7 @@
 
 1930年代中葉，[美國海軍陸戰隊尋求能夠支援](https://zh.wikipedia.org/wiki/美國海軍陸戰隊 "wikilink")[兩棲作戰的輕型戰車](../Page/兩棲作戰.md "wikilink")。在[克里斯蒂的兩棲坦克結束試驗後](../Page/智威·克里斯蒂.md "wikilink")，生產了裝備一挺.50口徑[M2白朗寧機槍和兩挺](https://zh.wikipedia.org/wiki/M2白朗寧機槍 "wikilink").30口徑的[M1919機槍的無砲塔輕型坦克](https://zh.wikipedia.org/wiki/M1919機槍 "wikilink")，名為作戰輕型戰車3型（，縮寫為CTL-3）。為第一款符合美國海軍陸戰隊要求的設計\[1\]。標準車組員為兩名，分別是駕駛和砲手\[2\]，厚度為，而車上三挺機槍皆安裝在車身正前方的球型支架上\[3\]。
 
-為了配合戰車使用的葉片轉向架懸吊（），戰車寬、長、高，重達，動力來源為林肯V-12海力克斯6汽缸[汽油引擎](../Page/汽油.md "wikilink")，能為戰車提供動力，時速可達，航程為\[4\]。總共有五輛原型車在1936年製造出來並進行測試，然後在1939又有五輛被製造出來進行測試，測試活動持續進行到1940年\[5\]，過於薄弱的裝甲和容易斷裂的履帶，使得海軍陸戰隊認為這個戰車已經過時，測試活動才告結\[6\]。此後，海軍陸戰隊將這些車輛降為訓練用車輛\[7\]。
+為了配合戰車使用的葉片轉向架懸吊（），戰車寬、長、高，重達，動力來源為林肯V-12海力克斯6汽缸[汽油引擎](../Page/汽油.md "wikilink")，能為戰車提供動力，時速可達，行駛距離可達\[4\]。總共有五輛原型車在1936年製造出來並進行測試，然後在1939又有五輛被製造出來進行測試，測試活動持續進行到1940年\[5\]，過於薄弱的裝甲和容易斷裂的履帶，使得海軍陸戰隊認為這個戰車已經過時，測試活動才告結\[6\]。此後，海軍陸戰隊將這些坦克改為訓練用車\[7\]。
 
 ## 服役紀錄
 
@@ -47,7 +47,7 @@ CTMS-1TB1計畫始於1941年，為一款個人設計，車組員三名。裝有�
 
 接收了美國軍隊淘汰下來的26輛CTMS-1TB1戰車，並運送到了荷屬圭亞那（現今的蘇利南）。這26輛戰車被裝備到Irene公主旅（）直到1946年1月被汰換掉。在1947年中，它們又被送回荷蘭本土。由於保養狀況不佳，到了1950年時只剩16輛能運作。最後一輛CTMS-1TB1在1957年退役\[29\]。
 
-美國政府也租借了數十輛CTMS-1TB1戰車給拉丁美洲國家，例如[墨西哥](../Page/墨西哥.md "wikilink")、[瓜地馬拉](https://zh.wikipedia.org/wiki/瓜地馬拉 "wikilink")、[厄瓜多](https://zh.wikipedia.org/wiki/厄瓜多 "wikilink")、[古巴等](../Page/古巴.md "wikilink")。[古巴陸軍一直使用這些戰車直到](https://zh.wikipedia.org/wiki/古巴革命武裝力量 "wikilink")1960年代才退役，是這些國家中使用最久的國家\[30\]。
+美國政府也租借了數十輛CTMS-1TB1戰車給拉丁美洲國家，例如[墨西哥](../Page/墨西哥.md "wikilink")、[瓜地馬拉](https://zh.wikipedia.org/wiki/瓜地馬拉 "wikilink")、[厄瓜多](https://zh.wikipedia.org/wiki/厄瓜多 "wikilink")、[古巴等](../Page/古巴.md "wikilink")。[古巴陸軍一直使用這些戰車直到](https://zh.wikipedia.org/wiki/古巴革命武裝力量 "wikilink")1960年代才退役，是使用最久的國家\[30\]。
 
 ### MTLS-1G14
 
@@ -75,7 +75,10 @@ MTLS-1G14的計畫與CTMS-1TB1同時展開，為一款為荷蘭軍隊設計的�
 
   - [位於澳大利亞的瑪蒙-哈寧頓坦克](http://anzacsteel.hobbyvista.com/Armoured%20Vehicles/marmonherringtinph_1.htm)
 
-<!-- end list -->
+[Category:美國二戰坦克](https://zh.wikipedia.org/wiki/Category:美國二戰坦克 "wikilink")
+[Category:二戰坦克](https://zh.wikipedia.org/wiki/Category:二戰坦克 "wikilink")
+[Category:荷蘭二戰坦克](https://zh.wikipedia.org/wiki/Category:荷蘭二戰坦克 "wikilink")
+[Category:輕型坦克](https://zh.wikipedia.org/wiki/Category:輕型坦克 "wikilink")
 
 1.
 2.

@@ -9,7 +9,7 @@ Canny的目标是找到一个最优的边缘检测算法，最优边缘检测的
   - *好的定位* - 标识出的边缘要与实际图像中的实际边缘尽可能接近。
   - *最小响应* - 图像中的边缘只能标识一次，并且可能存在的图像雜訊不应标识为边缘。
 
-为了满足这些要求Canny使用了[变分法](../Page/变分法.md "wikilink")，这是一种寻找满足特定[功能的](../Page/功能.md "wikilink")[函数的方法](../Page/函数.md "wikilink")。最优检测使用四个[指数函数项的和表示](../Page/指数函数.md "wikilink")，但是它非常近似于[高斯函数的一阶](https://zh.wikipedia.org/wiki/高斯函数 "wikilink")[导数](../Page/导数.md "wikilink")。
+为了满足这些要求Canny使用了[变分法](../Page/变分法.md "wikilink")，这是一种寻找满足特定[功能的](../Page/功能.md "wikilink")[函数的方法](../Page/函数.md "wikilink")。最优检测使用四个[指数函数项的和表示](../Page/指数函数.md "wikilink")，但是它非常近似于[高斯函数的一阶](../Page/高斯函数.md "wikilink")[导数](../Page/导数.md "wikilink")。
 
 ## Canny算法的步骤
 

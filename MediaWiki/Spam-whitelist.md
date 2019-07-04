@@ -18,6 +18,7 @@
 #   * Every non-blank line is a regex fragment which will only match hosts
 #     inside URLs
 
+hilive\.tv\/news
 wenku\.baidu\.com\/link\?
 # Does not completely work as expected due to [[bugzilla:65848|bugzilla:65848]].
 (?<=\.|\/)voafanti\.com(?::\d+)?\/gate\/big5\/(?=(?:[a-z0-9_\-.]+\.)?voachinese\.com\/)

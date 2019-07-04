@@ -5,7 +5,7 @@
 巴里出生于苏格兰[奇里梅的一个保守的](https://zh.wikipedia.org/wiki/奇里梅 "wikilink")[加尔文派家庭](https://zh.wikipedia.org/wiki/加尔文派 "wikilink")。其父是大卫·巴里是一名纺织工，其母名叫玛格丽特（Margaret
 Ogilvy）。夫妇两人共有十个孩子，詹姆斯·巴里是老九。他个子不高，按其1934年护照，其身高为161厘米。\[1\]
 
-巴里六岁的时候，他的哥哥大卫在14岁生日前夕在一场滑冰事故中丧命\[2\]。大卫是其母玛格丽特最爱的孩子，玛格丽特因此崩溃。巴里想要代替他的哥哥来安慰其母，曾经穿过大卫的衣服，还学着大卫打口哨。其母的悲痛因此稍得缓解。\[3\]
+巴里六岁的时候，他的哥哥大卫在14岁生日前夕因滑冰事故而丧命\[2\]。大卫是其母玛格丽特最爱的孩子，玛格丽特因此崩溃。巴里想要代替他的哥哥来安慰其母，曾经穿过大卫的衣服，还学着大卫打口哨。其母的悲痛因此稍得缓解。\[3\]
 
 8岁时巴里就读[格拉斯哥学院](https://zh.wikipedia.org/wiki/格拉斯哥学院 "wikilink")，他的哥哥亚历山大和姐姐玛丽也在这里读书。巴里在10岁时回到家中，后来就读福法学院（Forfar
 Academy），14岁进入[敦夫里斯学院](https://zh.wikipedia.org/wiki/敦夫里斯学院 "wikilink")。他在这一时期开始阅读惊险小说及[羅伯特·麥可·巴蘭坦](https://zh.wikipedia.org/wiki/羅伯特·麥可·巴蘭坦 "wikilink")、[詹姆士·菲尼莫尔·庫柏的作品](https://zh.wikipedia.org/wiki/詹姆士·菲尼莫尔·庫柏 "wikilink")。在[敦夫里斯](https://zh.wikipedia.org/wiki/敦夫里斯 "wikilink")，他和朋友们曾在一座名叫“Moat
@@ -77,6 +77,7 @@ Cannan，1884-1955），1909年巴里發覺此事，因此與妻子離婚。但�
 [Category:兒童文學作家](https://zh.wikipedia.org/wiki/Category:兒童文學作家 "wikilink")
 [Category:功績勳章成員](https://zh.wikipedia.org/wiki/Category:功績勳章成員 "wikilink")
 [Category:愛丁堡大學校友](https://zh.wikipedia.org/wiki/Category:愛丁堡大學校友 "wikilink")
+[Category:英国奇幻小说家](https://zh.wikipedia.org/wiki/Category:英国奇幻小说家 "wikilink")
 
 1.  Birkin, Andrew: J. M. Barrie & the Lost Boys Constable, 1979;
     revised edition, Yale University Press, 2003

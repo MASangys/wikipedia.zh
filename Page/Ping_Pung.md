@@ -4,18 +4,18 @@ Pung成員包括[吳雨霏](../Page/吳雨霏.md "wikilink")（Kary
 Ng）、[李漢](../Page/李漢文.md "wikilink")（Jerry
 Lee）、[李嘉文](../Page/李嘉文.md "wikilink")（Jan Lee）及黃天豪（Tin
 Ho）。吳雨霏為Ping
-Pung的主音，李漢和同李嘉文主力[作曲](https://zh.wikipedia.org/wiki/作曲 "wikilink")、[編曲和](https://zh.wikipedia.org/wiki/編曲 "wikilink")[監製](https://zh.wikipedia.org/wiki/監製 "wikilink")，而黃天豪則為Ping
-Pung摔碟。其中的李嘉文和李漢是親生兄弟，亦是作曲人[雷頌德同母異父的兄弟](../Page/雷頌德.md "wikilink")。Ping
-Pung的歌曲主要為自創樂曲，沒有特定的風格。Ping Pung有演出電影《戀愛初歌》
+Pung的主音，同時也是人氣少女組合[Cookies的成員](../Page/Cookies_\(組合\).md "wikilink")。李漢和同李嘉文主力[作曲](https://zh.wikipedia.org/wiki/作曲 "wikilink")、[編曲和](https://zh.wikipedia.org/wiki/編曲 "wikilink")[監製](https://zh.wikipedia.org/wiki/監製 "wikilink")，他們也是親生兄弟，同時是作曲人[雷頌德同母異父的兄弟](../Page/雷頌德.md "wikilink")。而黃天豪則為Ping
+Pung摔碟。Ping Pung的歌曲主要為自創樂曲，沒有特定的風格。
 
 2004年，[金牌娛樂有意把旗下的三位音樂人組樂隊進軍樂壇](https://zh.wikipedia.org/wiki/金牌娛樂 "wikilink")，而主唱則在旗下女子組合[Cookies的四位成員中挑選](../Page/Cookies_\(組合\).md "wikilink")，最終確定了四人當中唱功較穩定的[吳雨霏](../Page/吳雨霏.md "wikilink")。同年，Ping
 Pung正式成軍並推出首張大碟《Love &
 Hate》，憑大碟上榜歌曲《我話事》、《殺她死》及《愛是最大權利》於[2004年度叱咤樂壇流行榜頒獎典禮奪得](../Page/2004年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink")「叱咤樂壇生力軍組合銀獎」。儘管成績不錯，但吳雨霏表示以後的工作均會以[Cookies為主](../Page/Cookies_\(組合\).md "wikilink")。
 
-2005年，[Cookies暫時解散](../Page/Cookies_\(組合\).md "wikilink")，而[吳雨霏亦開始作個人發展](../Page/吳雨霏.md "wikilink")，Ping
+2005年，[Cookies暫時分開發展](../Page/Cookies_\(組合\).md "wikilink")，而[吳雨霏亦開始作個人發展](../Page/吳雨霏.md "wikilink")，Ping
 Pung的發展亦隨即暫停。
 
-2006年，有報導指[側田的胞妹會取代Kary成為主音](../Page/側田.md "wikilink")。
+2006年，有報導指[側田的胞妹會取代Kary成為主音](../Page/側田.md "wikilink")。同年，Ping
+Pung共同演出由Cookies主演的電影《戀愛初歌》。
 
 近年，[吳雨霏的個人事業穩定下來](../Page/吳雨霏.md "wikilink")，Ping Pung沒有再推出過唱片；
 

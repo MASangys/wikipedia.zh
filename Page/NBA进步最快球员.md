@@ -1,7 +1,7 @@
 **NBA进步最快球员奖**是[国家篮球协会自](https://zh.wikipedia.org/wiki/国家篮球协会 "wikilink")[1985-86
 NBA赛季起开始颁发的一个年度奖项](https://zh.wikipedia.org/wiki/1985-86_NBA赛季 "wikilink")，奖项在相应常规赛季中进步最多的球员。获奖者由[美国和](../Page/美国.md "wikilink")[加拿大的体育专栏作家投票选出](../Page/加拿大.md "wikilink")，每人可以投出一票，其中包含自己认为进步最多、第二多和第三多球员的姓名。球员每得到一张进步最多的选票支持则可得5分，第二多得3分，第三多得1分，总计得分最高者即可获奖（与实际所得进步最多选票的数量没有直接关系）\[1\]。
 
-自成立以来，该奖项一共有30位得主，並沒有連續得獎者，最新的获奖者是[维克多·歐拉迪波](https://zh.wikipedia.org/wiki/维克多·歐拉迪波 "wikilink")。没有任何一位获奖者效力的球队在该赛季拿下[NBA总冠军](https://zh.wikipedia.org/wiki/NBA总冠军列表 "wikilink")，[伯利斯·迪奧是歷屆獲獎者中第一位以球員身份得過NBA總冠軍](https://zh.wikipedia.org/wiki/伯利斯·迪奧 "wikilink")。卓吉奇、[希达耶特·特克鲁](https://zh.wikipedia.org/wiki/希达耶特·特克鲁 "wikilink")、、[乔治·穆雷桑和](https://zh.wikipedia.org/wiki/乔治·穆雷桑 "wikilink")[伯利斯·迪奥是仅有的五位不是在美国出生的获奖者](../Page/伯利斯·迪奥.md "wikilink")，并且除了塞卡利以外，另外四位运动员也完全不是在美国接受籃球教育，塞卡利曾是[雪城大学男篮隊的成员](https://zh.wikipedia.org/wiki/雪城大学 "wikilink")。
+自成立以来，该奖项一共有30位得主，並沒有連續得獎者，最新的获奖者是[帕斯卡·席亞康](../Page/帕斯卡·席亞康.md "wikilink")。[伯利斯·迪奧是歷屆獲獎者中第一位以球員身份得過NBA總冠軍](https://zh.wikipedia.org/wiki/伯利斯·迪奧 "wikilink")。卓吉奇、[希达耶特·特克鲁](https://zh.wikipedia.org/wiki/希达耶特·特克鲁 "wikilink")、、[乔治·穆雷桑和](https://zh.wikipedia.org/wiki/乔治·穆雷桑 "wikilink")[伯利斯·迪奥是仅有的五位不是在美国出生的获奖者](../Page/伯利斯·迪奥.md "wikilink")，并且除了塞卡利以外，另外四位运动员也完全不是在美国接受籃球教育，塞卡利曾是[雪城大学男篮隊的成员](https://zh.wikipedia.org/wiki/雪城大学 "wikilink")。
 
 [阿尔文·罗伯逊](https://zh.wikipedia.org/wiki/阿尔文·罗伯逊 "wikilink")、[达纳·巴罗斯](../Page/达纳·巴罗斯.md "wikilink")、[崔西·麥葛雷迪](https://zh.wikipedia.org/wiki/崔西·麥葛雷迪 "wikilink")、[杰梅因·奥尼尔](../Page/杰梅因·奥尼尔.md "wikilink")、[丹尼·格兰杰](../Page/丹尼·格兰杰.md "wikilink")、[凱文·洛夫](https://zh.wikipedia.org/wiki/凱文·洛夫 "wikilink")、[保罗·乔治](../Page/保罗·乔治.md "wikilink")、[揚尼斯·安戴托昆波和](https://zh.wikipedia.org/wiki/揚尼斯·安戴托昆波 "wikilink")[维克多·歐拉迪波都曾在获奖的同一赛季入选](https://zh.wikipedia.org/wiki/维克多·歐拉迪波 "wikilink")[NBA全明星赛](https://zh.wikipedia.org/wiki/NBA全明星赛 "wikilink")。[达勒·艾利斯](https://zh.wikipedia.org/wiki/达勒·艾利斯 "wikilink")、[凯文·达克沃斯](../Page/凯文·达克沃斯.md "wikilink")、[凯文·约翰逊](../Page/凯文·约翰逊.md "wikilink")、[吉尔伯特·阿里纳斯和](https://zh.wikipedia.org/wiki/吉尔伯特·阿里纳斯 "wikilink")[扎克·兰多夫都在之后入选](../Page/扎克·兰多夫.md "wikilink")[全明星赛](https://zh.wikipedia.org/wiki/NBA全明星赛 "wikilink")。只有麥葛雷迪、奥尼尔和乔治在获奖的同一赛季入选[NBA最佳阵容](../Page/NBA最佳阵容.md "wikilink")，其中麥葛雷迪进入第二队，奥尼尔和乔治进入第三队。
 
@@ -129,7 +129,7 @@ NBA赛季获奖](../Page/2011-12_NBA赛季.md "wikilink")。\]\]
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/傑倫·羅斯" title="wikilink">傑倫·羅斯</a></p></td>
+<td><p><a href="../Page/傑倫·羅斯.md" title="wikilink">傑倫·羅斯</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/后卫" title="wikilink">后卫</a>/<a href="https://zh.wikipedia.org/wiki/前锋" title="wikilink">前锋</a></p></td>
 <td></td>
 <td><p><a href="../Page/印第安纳步行者.md" title="wikilink">印第安纳步行者</a></p></td>
@@ -259,6 +259,13 @@ NBA赛季获奖](../Page/2011-12_NBA赛季.md "wikilink")。\]\]
 <td><p><a href="https://zh.wikipedia.org/wiki/後衛" title="wikilink">後衛</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/印第安那溜馬" title="wikilink">印第安那溜馬</a></p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p><a href="../Page/帕斯卡·席亞康.md" title="wikilink">帕斯卡·席亞康</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/前鋒" title="wikilink">前鋒</a></p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/多倫多暴龍" title="wikilink">多倫多暴龍</a></p></td>
 </tr>
 </tbody>
 </table>

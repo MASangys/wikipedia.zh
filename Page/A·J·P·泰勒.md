@@ -287,3 +287,4 @@ Mommsen）的觀點，同意1933年2月27日發生的[國會縱火案並非](htt
 [Category:牛津大学教授](https://zh.wikipedia.org/wiki/Category:牛津大学教授 "wikilink")
 [Category:20世纪历史学家](https://zh.wikipedia.org/wiki/Category:20世纪历史学家 "wikilink")
 [Category:研究纳粹主义的历史学家](https://zh.wikipedia.org/wiki/Category:研究纳粹主义的历史学家 "wikilink")
+[Category:研究第二次世界大战的历史学家](https://zh.wikipedia.org/wiki/Category:研究第二次世界大战的历史学家 "wikilink")

@@ -4,13 +4,13 @@
 
 台灣在1990年之前，電視僅有[台視](https://zh.wikipedia.org/wiki/台視 "wikilink")、[中視](https://zh.wikipedia.org/wiki/中視 "wikilink")、[華視](https://zh.wikipedia.org/wiki/華視 "wikilink")，號稱「[老三台](../Page/老三台.md "wikilink")」。1993年，[立法院三讀通過](../Page/立法院.md "wikilink")《[有線廣播電視法](https://zh.wikipedia.org/wiki/有線廣播電視法 "wikilink")》，開放[有線電視](https://zh.wikipedia.org/wiki/有線電視 "wikilink")。同年9月28日，[TVBS頻道率先開播](https://zh.wikipedia.org/wiki/TVBS頻道 "wikilink")，為全國第一個有線衛星頻道，宣傳口號「第四個電視台，第二個選擇」，標榜與無線電視做出市場區隔。
 
-1993年至2004年，定頻在38頻道，播出節目內容為綜合台類型。開播時畫面右上角頻道標誌為交錯使用**無線電視台**與**[TVBS.svg](https://zh.wikipedia.org/wiki/File:TVBS.svg "fig:TVBS.svg")**，各節目開播前播出的頻道形象動畫則統一使用**[TVBS.svg](https://zh.wikipedia.org/wiki/File:TVBS.svg "fig:TVBS.svg")**標誌。
+1993年至2004年，定頻在38頻道，播出節目內容為綜合台類型。開播時畫面右上角頻道標誌為交錯使用無線電視台與TVBS標誌，各節目開播前播出的頻道形象動畫則統一使用TVBS標誌。
 
 2005年，因應[中華民國](../Page/中華民國.md "wikilink")[行政院新聞局](../Page/行政院新聞局.md "wikilink")「同類節目區塊定頻政策」，以「新聞綜合台」的執照定頻於「新聞台區塊（50\~58頻道）」中的56頻道\[1\]。
 
 自2006年起，原先綜合台的內容，如[港劇和](https://zh.wikipedia.org/wiki/港劇 "wikilink")[綜藝節目等搬移到](https://zh.wikipedia.org/wiki/綜藝 "wikilink")[TVBS-G頻道繼續播送](../Page/TVBS歡樂台.md "wikilink")，而TVBS頻道則成為「全方位的新聞評論性頻道」\[2\]。
 
-2014年2月27日，該頻道的HD高畫質版本開始播出（試播）。2014年3月3日，該頻道的HD高畫質版本正式開播。2016年12月21日，更換全新台標。\[3\]
+2014年2月27日，該頻道的HD高畫質版本開始播出（試播）。2014年3月3日，該頻道的HD高畫質版本正式開播。2016年12月21日，更換全新台標\[3\]。2019年6月24日起，提供YouTube網路直播。
 
 ## TVBS頻道主播群
 
@@ -79,7 +79,6 @@ Network使用第](https://zh.wikipedia.org/wiki/w:en:Dish_Network "wikilink")998
 
   - [TVBS新聞台](../Page/TVBS新聞台.md "wikilink")
   - [電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")
-  - [TVBS節目列表](https://zh.wikipedia.org/wiki/TVBS節目列表 "wikilink")
 
 ## 參考資料
 

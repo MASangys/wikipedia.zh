@@ -295,7 +295,7 @@
 <td><p>DCA</p></td>
 <td><p>KDCA</p></td>
 <td><p><a href="../Page/罗纳德·里根华盛顿国家机场.md" title="wikilink">罗纳德·里根华盛顿国家机场</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/阿靈頓縣_(維吉尼亞州)" title="wikilink">阿靈頓縣</a>，<a href="https://zh.wikipedia.org/wiki/維珍尼亞州" title="wikilink">維珍尼亞州</a></p></td>
+<td><p><a href="../Page/阿靈頓縣_(維吉尼亞州).md" title="wikilink">阿靈頓縣</a>，<a href="https://zh.wikipedia.org/wiki/維珍尼亞州" title="wikilink">維珍尼亞州</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

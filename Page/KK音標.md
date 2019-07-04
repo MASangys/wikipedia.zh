@@ -116,7 +116,7 @@ and Knott）音標。
 <tr class="odd">
 <td><p>[ɝ]</p></td>
 <td><p>[ɜː]</p></td>
-<td><p>[ər]</p></td>
+<td></td>
 <td><p>b<strong>ir</strong>d</p></td>
 </tr>
 </tbody>

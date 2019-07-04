@@ -309,6 +309,8 @@ H's](https://zh.wikipedia.org/wiki/Comp_H's "wikilink")》（[角川書店](../P
   - 229号：[吹响吧！上低音号
     \~誓言的终章\~](https://zh.wikipedia.org/wiki/吹响吧！上低音号 "wikilink")（黄前久美子、久石奏）画：[池田晶子](../Page/池田晶子.md "wikilink")
   - 230号：噬血狂袭Ⅲ（姬柊雪菜）画：[佐野隆雄](https://zh.wikipedia.org/wiki/佐野隆雄 "wikilink")
+  - 231号：剧场版
+    [青春猪头少年不会梦到怀梦美少女](https://zh.wikipedia.org/wiki/青春猪头少年不会梦到怀梦美少女 "wikilink")（樱岛麻衣）画：[安野将人](https://zh.wikipedia.org/wiki/安野将人 "wikilink")
 
 ## 增刊號
 

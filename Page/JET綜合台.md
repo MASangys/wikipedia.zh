@@ -26,6 +26,7 @@ Entertainment Communication Co., Ltd.；簡稱SEC），結合日本、台灣兩�
   - 2009年12月31日，JET日本台發出[新聞稿](../Page/新聞稿.md "wikilink")，決定於2010年1月4日轉型為綜合台並播放[超視原有之兩個節目](https://zh.wikipedia.org/wiki/超級電視台 "wikilink")。
   - 2010年1月1日，JET日本台改名為JET綜合台，播出[超視](https://zh.wikipedia.org/wiki/超級電視台 "wikilink")《[新聞挖挖哇](../Page/新聞挖挖哇.md "wikilink")》、《[命運好好玩](../Page/命運好好玩_\(電視節目\).md "wikilink")》與全新製作的台灣綜藝節目。
   - 2017年4月，啟用高畫質版本「**JET綜合HD**」。
+  - 2019年5月底，與年代分家，改向華視租攝影棚。
 
 ## 海外可見的國家與地區
 

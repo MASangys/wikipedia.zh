@@ -1,5 +1,5 @@
-**自回归滑动平均模型**（**A**uto**r**egressive **m**oving **a**verage
-model，簡稱：**ARMA模型**）。是研究[时间序列的重要方法](https://zh.wikipedia.org/wiki/時間序列_\(經濟學\) "wikilink")，由[自迴歸模型](../Page/自迴歸模型.md "wikilink")（简称AR模型）与[移动平均模型](https://zh.wikipedia.org/wiki/移动平均模型 "wikilink")（简称MA模型）为基础“混合”构成。在市场研究中常用于长期追踪资料的研究，如：[Panel研究中](https://zh.wikipedia.org/wiki/Panel研究 "wikilink")，用于消费行为模式变迁研究；在零售研究中，用于具有季节变动特征的销售量、市场规模的预测等。
+**ARMA模型**（**A**uto**r**egressive **m**oving **a**verage
+model，全稱：**自回归滑动平均模型**）。是研究[时间序列的重要方法](https://zh.wikipedia.org/wiki/時間序列_\(經濟學\) "wikilink")，由[自迴歸模型](../Page/自迴歸模型.md "wikilink")（简称AR模型）与[移动平均模型](https://zh.wikipedia.org/wiki/移动平均模型 "wikilink")（简称MA模型）为基础“混合”构成。在市场研究中常用于长期追踪资料的研究，如：[Panel研究中](https://zh.wikipedia.org/wiki/Panel研究 "wikilink")，用于消费行为模式变迁研究；在零售研究中，用于具有季节变动特征的销售量、市场规模的预测等。
 
 ## 自回归AR(*p*)模型
 

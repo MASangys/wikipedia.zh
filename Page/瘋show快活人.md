@@ -1,4 +1,4 @@
-**瘋show快活人**是[香港電台第二台一個消閒式雜誌節目](../Page/香港電台.md "wikilink")，以其休閒、說笑的節目模式，討論熱門新聞到古怪趣聞，甚至有獎遊戲都一應俱全，令其成為香港電台最受歡迎節目之一。瘋show快活人於每星期一至星期五，早上10:00至下午1:00直播。現時主要主持共有三位，分別是[曾志豪](https://zh.wikipedia.org/wiki/曾志豪 "wikilink")，[貴花田及](https://zh.wikipedia.org/wiki/陳寶玲 "wikilink")[王耀祖](../Page/王耀祖.md "wikilink")，而當任何一個人未能主持節目時，會由嘉賓主持頂替。
+**瘋show快活人**是[香港電台第二台一個消閒式雜誌節目](../Page/香港電台.md "wikilink")，以其休閒、說笑的節目模式，討論熱門新聞到古怪趣聞，甚至有獎遊戲都一應俱全，令其成為香港電台最受歡迎節目之一。瘋show快活人於每星期一至星期五，早上10:00至下午1:00直播。現時主要主持共有三位，分別是[曾志豪](https://zh.wikipedia.org/wiki/曾志豪 "wikilink")，[貴花田及](https://zh.wikipedia.org/wiki/陳寶玲 "wikilink")[王耀祖](https://zh.wikipedia.org/wiki/:yue:王耀祖 "wikilink")，而當任何一個人未能主持節目時，會由嘉賓主持頂替。
 
 ## 主持
 

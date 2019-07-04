@@ -96,7 +96,7 @@ MV直選](https://zh.wikipedia.org/wiki/RoadShow_MV直選 "wikilink")。
 </tr>
 <tr class="even">
 <td><p>RoadShow至尊女新人</p></td>
-<td><p><a href="../Page/裕美.md" title="wikilink">裕美</a>、<a href="../Page/鍾舒漫.md" title="wikilink">鍾舒漫</a>、<a href="https://zh.wikipedia.org/wiki/江若琳" title="wikilink">江若琳</a></p></td>
+<td><p><a href="../Page/裕美.md" title="wikilink">裕美</a>、<a href="../Page/鍾舒漫.md" title="wikilink">鍾舒漫</a>、<a href="../Page/江若琳.md" title="wikilink">江若琳</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>RoadShow至尊新進創作歌手</p></td>

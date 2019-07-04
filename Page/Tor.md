@@ -147,7 +147,7 @@ Danezis）在2005年的IEEE流量分析研讨会上發表了一篇論文，其�
 ### Tor出口節點封鎖
 
 網站營運者有能力封鎖來自Tor出口節點的流量，或減少Tor用戶所能使用的功能。比如除非另有[豁免](https://zh.wikipedia.org/wiki/Wikipedia:IP封禁例外 "wikilink")，否則使用了Tor的用戶是不可能編輯維基百科的，因為維基百科使用了MediaWiki的擴充功能Torblock\[112\]。
-英國廣播公司的[iPlayer封鎖了Tor所有的入口和出口節點](../Page/BBC_iPlayer.md "wikilink")，但沒有封鎖中繼和網穚\[113\]。
+英國廣播公司的[iPlayer封鎖了Tor所有的入口和出口節點](../Page/BBC_iPlayer.md "wikilink")，但沒有封鎖中繼和網橋\[113\]。
 
 ### 壞蘋果攻擊
 

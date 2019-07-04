@@ -20,7 +20,7 @@ HL7 International認為以下標準是其主要標準\[2\]：
     Logic Module](https://en.wikipedia.org/wiki/Medical_logic_module),
     MLM）的建議
   - 索賠附件：標準醫療保健附件，以增加另一項醫療保健交易
-  - [電子健康紀錄](../Page/電子健康紀錄.md "wikilink")/[個人健康紀錄系統的功能規範](https://zh.wikipedia.org/wiki/個人健康紀錄 "wikilink")：在此類軟體應用程式中尋求或可用的健康和醫療功能的標準化描述
+  - [電子健康紀錄](../Page/電子健康紀錄.md "wikilink")/[個人健康紀錄系統的功能規範](../Page/個人健康紀錄.md "wikilink")：在此類軟體應用程式中尋求或可用的健康和醫療功能的標準化描述
   - [GELLO](https://en.wikipedia.org/wiki/Gello_Expression_Language)：用於臨床決策支持的標準表達語言
 
 ## 主要標準
@@ -157,7 +157,7 @@ ORM）\[18\]或檢查結果（Observation Result, ORU）兩者間是必備的訊
 
   - [快捷式醫療服務互操作資源](https://zh.wikipedia.org/wiki/快捷式醫療服務互操作資源 "wikilink")
   - [電子健康紀錄](../Page/電子健康紀錄.md "wikilink")
-  - [個人健康紀錄](https://zh.wikipedia.org/wiki/個人健康紀錄 "wikilink")
+  - [個人健康紀錄](../Page/個人健康紀錄.md "wikilink")
   - [DICOM](../Page/DICOM.md "wikilink")
   - [LOINC](https://zh.wikipedia.org/wiki/LOINC "wikilink")
   - [openEHR

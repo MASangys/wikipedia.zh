@@ -3,7 +3,7 @@
 
 ## 與台灣解約
 
-Engadget曾以「癮科技」為中文譯名，但2011年6月28日起，美國解除台灣代理商資格，因此「癮科技」之名已成為另一[內容農場網站](../Page/內容農場.md "wikilink")。\[1\]，原癮科技繁體中文站恢復為「Engadget中文版」，並由Engadget[香港編輯接手](../Page/香港.md "wikilink")。
+Engadget中文曾由博客邦有限公司代理，但2011年6月28日起，美國解除台灣代理商資格，「癮科技」成為另一[3C科技新聞網站](https://zh.wikipedia.org/wiki/3C科技新聞 "wikilink")\[1\]，原癮科技繁體中文站為「Engadget中文版」，並由Engadget[香港編輯接手](../Page/香港.md "wikilink")，主力編輯為香港人名為Richard。
 
 ## 創立與成員
 
@@ -39,7 +39,7 @@ Engadget最开始时在其網站放置[woot.com的廣告](https://zh.wikipedia.o
 ### 中文（繁體）
 
 Engadget在2005年7月1日與台灣[FunMakr合作](https://zh.wikipedia.org/wiki/FunMakr "wikilink")，開設Engadget繁體中文版。\[4\]
-後因經營問題，美國與台灣解約，现恢復为 Engadget 中文版。
+後因經營問題，美國與台灣解約，现为 Engadget 中文版。
 
 ### 中文（简体）
 

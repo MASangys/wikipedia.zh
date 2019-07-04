@@ -231,11 +231,14 @@ I/II[記憶體運作](https://zh.wikipedia.org/wiki/記憶體 "wikilink")[時脈
 
 ## 參见
 
+  - [雙通道](https://zh.wikipedia.org/wiki/雙通道 "wikilink")
   - [電腦記憶體](../Page/電腦記憶體.md "wikilink")
+  - [SDR SDRAM](https://zh.wikipedia.org/wiki/SDR_SDRAM "wikilink")
   - [DDR2 SDRAM](../Page/DDR2_SDRAM.md "wikilink")
   - [DDR3 SDRAM](../Page/DDR3_SDRAM.md "wikilink")
-  - [SDR SDRAM](https://zh.wikipedia.org/wiki/SDR_SDRAM "wikilink")
-  - [雙通道](https://zh.wikipedia.org/wiki/雙通道 "wikilink")
+  - [DDR4 SDRAM](../Page/DDR4_SDRAM.md "wikilink")
+  - [DDR5 SDRAM](../Page/DDR5_SDRAM.md "wikilink")
+  - [GDDR6](../Page/GDDR6.md "wikilink")
   - [EDO DRAM](https://zh.wikipedia.org/wiki/EDO_DRAM "wikilink")
   - [FB-DIMM](../Page/FB-DIMM.md "wikilink")
 

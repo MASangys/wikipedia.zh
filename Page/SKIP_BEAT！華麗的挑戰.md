@@ -2209,7 +2209,7 @@ ACT.229　GROUND CALL
 
 ACT.230　GROUND CALL
 
-ACT.231　。
+ACT.231　 GROUND CALL
 
 ACT.232　ENDLESS GIVE UP
 
@@ -2256,6 +2256,40 @@ ACT.252　Flying Shock
 ACT.253　從天而降的打擊
 
 ACT.254　從天而降的打擊
+
+ACT.255　從天而降的打擊
+
+ACT.256　出乎意料
+
+ACT.257　大爆冷門-HUNGRY GHOST-
+
+ACT.258　大爆冷門-HUNGRY GHOST-
+
+ACT.259　意料之外-GHOST CARD-
+
+ACT.260　意料之外-GHOST CARD-
+
+ACT.261　意料之外-2日前-
+
+ACT.262　意料之外-2日前-
+
+ACT.263　意料之外-2日前-
+
+ACT.264　意料之外-2日前-
+
+ACT.265　意料之外-2日前-
+
+ACT.266　意料之外-前日-
+
+ACT.267　意料之外-前日-
+
+ACT.268　意料之外-前日-
+
+ACT.269　意料之外-當日-
+
+ACT.270　意料之外-當日-
+
+ACT.271　意料之外-當日-
 
 ### 單行本
 

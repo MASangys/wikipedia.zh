@@ -17,8 +17,8 @@ Celtics**，即當時[NBA](../Page/NBA.md "wikilink")[東](https://zh.wikipedia.
 | 1993年 | Bulls versus Blazers  |
 | 1994年 | NBA Showdown 94       |
 
-而1995年開始，遊戲系統正式命名為**NBA Live**，中文译名为**勁爆美國職籃**。2010年起，游戏名称改为NBA Elite
-11。但由于試玩版出現「耶穌事件」使得Elite 11 PS3/Xbox
+而1995年開始，遊戲系統正式命名為**NBA-{}- Live**，中文译名为**勁爆美國職籃**。2010年起，游戏名称改为NBA
+Elite 11。但由于試玩版出現「耶穌事件」使得Elite 11 PS3/Xbox
 360版的發售计划被取消，游戏仅在iOS平台发售。\[1\]2011年EA并没有发布新的NBA系列游戏。
 
 2012年，EA又把遊戲名稱改回NBA Live，並且計畫推出NBA Live13，讓《NBA Live》系列捲土重來，但受到老對手《NBA

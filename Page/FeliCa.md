@@ -53,49 +53,44 @@ Sony Entertainment 的遊樂設施 Mediage 發行的「Mediage Fan Card」等等
 
 ### 手机上的使用
 
-[手机所使用的](https://zh.wikipedia.org/wiki/手机 "wikilink") FeliCa 芯片稱作
-**Mobile FeliCa IC Chip**，是由 Sony 和 [NTT
-DoCoMo](https://zh.wikipedia.org/wiki/NTT_DoCoMo "wikilink") 合資成立的公司
-[FeliCa
-Networks](https://zh.wikipedia.org/wiki/FeliCa_Networks "wikilink")
-所開發的。
+[手机所使用的](https://zh.wikipedia.org/wiki/手机 "wikilink") FeliCa
+芯片稱作“**Mobile FeliCa IC Chip**”，是由Sony和[NTT
+DoCoMo合資成立的公司](https://zh.wikipedia.org/wiki/NTT_DoCoMo "wikilink")[FeliCa
+Networks所開發的](https://zh.wikipedia.org/wiki/FeliCa_Networks "wikilink")。
 
-2004年7月使用了 FeliCa 芯片的手机開始上市銷售。因為有 FeliCa 芯片，因此可以把手机當作 Edy 或 Suica（Mobile
-Suica）使用。在使用 Mobile FeliCa Chip 的服務開始上路之前，NTT DoCoMo
-就已經將[錢包手機的商標定為服務標誌](https://zh.wikipedia.org/wiki/錢包手機 "wikilink")。Mobile
-FeliCa 芯片最早只有 Sony 製造，後來的 Mobile FeliCa
-芯片由[東芝和](https://zh.wikipedia.org/wiki/東芝 "wikilink")[瑞薩在](https://zh.wikipedia.org/wiki/瑞薩 "wikilink")2006年5月公開加入，成為三家公司共同供應。這個新一代的
-Mobile FeliCa 芯片，增加了容量且通信功能加強。使用此種芯片的手机在2006年10月公開。
+2004年7月使用了FeliCa芯片的手机開始上市銷售。因為有FeliCa芯片，因此可以把手机當作[Edy或Suica](https://zh.wikipedia.org/wiki/Edy "wikilink")（Mobile
+Suica）使用。在使用Mobile FeliCa Chip的服務開始上路之前，NTT
+DoCoMo就已經將錢包手機的商標定為服務標誌。Mobile
+FeliCa芯片最早只有Sony製造，後來的Mobile
+FeliCa芯片由[東芝和](https://zh.wikipedia.org/wiki/東芝 "wikilink")[瑞薩在](../Page/瑞薩電子.md "wikilink")2006年5月公開加入，成為三家公司共同供應。新一代的Mobile
+FeliCa芯片，增加了容量且通信功能加強。使用此種芯片的手机在2006年10月公開。
 
   - 「[iMode
     FeliCa](https://zh.wikipedia.org/wiki/iMode_FeliCa "wikilink")」（[NTT
     DoCoMo](https://zh.wikipedia.org/wiki/NTT_DoCoMo "wikilink")）
   - 「[EZ
     FeliCa](https://zh.wikipedia.org/wiki/EZ_FeliCa "wikilink")」（[au
-    by KDDI](https://zh.wikipedia.org/wiki/Au_\(手机\) "wikilink")）
-  - 「[S\!FeliCa](https://zh.wikipedia.org/wiki/S!FeliCa "wikilink")（舊名為Vodafone\!FeliCa）」（[Softbank
+    by KDDI](../Page/Au_\(行動電話\).md "wikilink")）
+  - 「[S\!FeliCa](https://zh.wikipedia.org/wiki/S!FeliCa "wikilink")」（舊名為Vodafone\!FeliCa）（[Softbank
     Mobile](https://zh.wikipedia.org/wiki/Softbank_Mobile "wikilink")）
   - 「[Apple
-    Pay](https://zh.wikipedia.org/wiki/Apple_Pay "wikilink")（日本销售\[1\]的[iPhone
-    7和](https://zh.wikipedia.org/wiki/iPhone_7 "wikilink")[Apple Watch
-    Series 2及全球](../Page/Apple_Watch_Series_2.md "wikilink")[iPhone
-    8](https://zh.wikipedia.org/wiki/iPhone_8 "wikilink")、[iPhone
-    X和](https://zh.wikipedia.org/wiki/iPhone_X "wikilink")[Apple Watch
+    Pay](https://zh.wikipedia.org/wiki/Apple_Pay "wikilink")」（需要[iPhone
+    8](https://zh.wikipedia.org/wiki/iPhone_8 "wikilink")、[Apple Watch
     Series
-    3](../Page/Apple_Watch_Series_3.md "wikilink")\[2\]开始搭载Felica功能）\[3\]
-
-在手机上的普及狀況，請參考[錢包手機條目](https://zh.wikipedia.org/wiki/錢包手機 "wikilink")。
+    3或更新机型](../Page/Apple_Watch_Series_3.md "wikilink")，以及日本销售的[iPhone
+    7](https://zh.wikipedia.org/wiki/iPhone_7 "wikilink")、[Apple Watch
+    Series 2](../Page/Apple_Watch_Series_2.md "wikilink")）\[1\]
 
 ## FeliCa芯片的安全性
 
 使用 FeliCa 芯片的卡片，經過ISO 15408 EAL4的認證。
 
-雖然有報導指稱FeliCa存在著安全性問題，但報導的內文中並沒有明確的事實證據\[4\]\[5\]。
+雖然有報導指稱FeliCa存在著安全性問題，但報導的內文中並沒有明確的事實證據\[2\]\[3\]。
 
 ## FeliCa相關規格
 
-  - JISX6319-4:ICカード実装仕様－第4部：高速処理用ICカード（日本工業標準調査会）\[6\]
-  - 特開平10-20780（相互認証·通信路暗号化）\[7\]
+  - JISX6319-4:ICカード実装仕様－第4部：高速処理用ICカード（日本工業標準調査会）\[4\]
+  - 特開平10-20780（相互認証·通信路暗号化）\[5\]
 
 ## 歷史
 
@@ -160,11 +155,9 @@ Mobile FeliCa 芯片，增加了容量且通信功能加強。使用此種芯片
 [Category:行動支付](https://zh.wikipedia.org/wiki/Category:行動支付 "wikilink")
 
 1.
-2.
-3.
-4.  <http://facta.co.jp/article/200609061.html> FACTA記事2006年9月号
-5.  <http://facta.co.jp/article/note/200701.shtml> FACTA記事2007年1月号
-6.  <http://www.jisc.go.jp/app/pager?id=31259&%23jps.JPSH0090D:JPSO0023:/JPS/JPSO0090.jsp=&AKKNB_vJISJISNO=X6319-4>
+2.  <http://facta.co.jp/article/200609061.html> FACTA記事2006年9月号
+3.  <http://facta.co.jp/article/note/200701.shtml> FACTA記事2007年1月号
+4.  <http://www.jisc.go.jp/app/pager?id=31259&%23jps.JPSH0090D:JPSO0023:/JPS/JPSO0090.jsp=&AKKNB_vJISJISNO=X6319-4>
     JISX6319-4
-7.  <http://v3.espacenet.com/origdoc?DB=EPODOC&IDX=JP10020780&F=0&QPN=JP10020780>
+5.  <http://v3.espacenet.com/origdoc?DB=EPODOC&IDX=JP10020780&F=0&QPN=JP10020780>
     特開平10-20780

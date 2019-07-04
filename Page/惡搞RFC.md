@@ -141,7 +141,9 @@
     RFC 6217 — **Regional Broadcast Using an Atmospheric Link Layer**,
     T. Ritter
   - 2012：
-    RFC 6592 — **The Null Packet**, C. Pignataro
+    RFC 6592 —
+    **发送[空数据包](https://zh.wikipedia.org/wiki/数据包 "wikilink")**[,](https://zh.wikipedia.org/wiki/数据包 "wikilink")
+    C. Pignataro
     RFC 6593 — **Service Undiscovery Using Hide-and-Go-Seek for the
     Domain Pseudonym System (DPS)**, C. Pignataro, J. Clarke, G.
     Salgueiro

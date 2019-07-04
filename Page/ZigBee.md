@@ -23,7 +23,7 @@ Group，Ember公司，飞思卡尔半导体，Honeywell，三菱电机，摩托�
   - AF - Application Framework（应用层框架）。
   - APL - Application Layer（應用層）。
   - APS - Application Support sublayer（应用支撑层）。
-  - MAC - Medium Access Control layer（媒体访问控制层）。
+  - MAC - Media Access Control layer（媒体访问控制层）。
   - NIB - Network Information Base（網路資訊庫）
   - NWK - Network layer（网络层）。
   - PHY - Physical layer（實體層）。

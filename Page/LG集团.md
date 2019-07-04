@@ -76,62 +76,31 @@ LG集团下属有81家集团企业，经营范围包括电子与信息通信、�
 [An_Event_with_Four_Comedians_of_Gag_Concert_for_LG_DIOS_Refrigerator_on_September_21,_2012_from_acrofan_5.jpg](https://zh.wikipedia.org/wiki/File:An_Event_with_Four_Comedians_of_Gag_Concert_for_LG_DIOS_Refrigerator_on_September_21,_2012_from_acrofan_5.jpg "fig:An_Event_with_Four_Comedians_of_Gag_Concert_for_LG_DIOS_Refrigerator_on_September_21,_2012_from_acrofan_5.jpg")
 [LG전자,_‘True_HD_IPS+’_디스플레이로_전략_스마트폰_승부수_띄운다_(1).jpg](https://zh.wikipedia.org/wiki/File:LG전자,_‘True_HD_IPS+’_디스플레이로_전략_스마트폰_승부수_띄운다_\(1\).jpg "fig:LG전자,_‘True_HD_IPS+’_디스플레이로_전략_스마트폰_승부수_띄운다_(1).jpg")
 
-### 電子家電
-
 <table>
 <tbody>
 <tr class="odd">
-<td><ul>
+<td><h3 id="電子家電">電子家電</h3>
+<ul>
 <li><a href="https://zh.wikipedia.org/wiki/LG电子" title="wikilink">LG电子</a></li>
 <li>LG Innotek</li>
-</ul></td>
-</tr>
-</tbody>
-</table>
-
-### 化学
-
-<table>
-<tbody>
-<tr class="odd">
-<td><ul>
+</ul>
+<h3 id="化学">化学</h3>
+<ul>
 <li></li>
 <li></li>
-</ul></td>
-<td><ul>
 <li></li>
-</ul></td>
-</tr>
-</tbody>
-</table>
-
-### 通讯\*服务
-
-<table>
-<tbody>
-<tr class="odd">
-<td><ul>
+</ul>
+<h3 id="通讯服务">通讯服务</h3>
+<ul>
 <li><a href="https://zh.wikipedia.org/wiki/LG_U+" title="wikilink">LG U+</a>（原LG电信）</li>
-</ul></td>
-<td><ul>
 <li>MediaLog</li>
 <li></li>
-</ul></td>
-<td><ul>
 <li><a href="https://zh.wikipedia.org/wiki/LG显示" title="wikilink">LG显示</a></li>
 <li>Serveone</li>
 <li></li>
-</ul></td>
-</tr>
-</tbody>
-</table>
-
-### 体育
-
-<table>
-<tbody>
-<tr class="odd">
-<td><ul>
+</ul>
+<h3 id="体育">体育</h3>
+<ul>
 <li><a href="https://zh.wikipedia.org/wiki/LG双子" title="wikilink">LG双子</a>（棒球）</li>
 <li><p>（篮球）</p></li>
 </ul></td>

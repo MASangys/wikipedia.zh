@@ -113,6 +113,10 @@ SE**（Societas Europaea）。
 
 2011年7月，MAN集团被德国[大众集团收购](../Page/大众集团.md "wikilink")。
 
+2019年6月27日[大眾集團以每股](https://zh.wikipedia.org/wiki/大眾集團 "wikilink")27歐元（30.45美元）的價格分拆旗下重型卡車部門[Traton
+SE在](https://zh.wikipedia.org/wiki/Traton_SE "wikilink")[法蘭克福證券交易所和](https://zh.wikipedia.org/wiki/法蘭克福證券交易所 "wikilink")[斯德哥爾摩證券交易所兩地上市](https://zh.wikipedia.org/wiki/斯德哥爾摩證券交易所 "wikilink")，[大眾集團将出售](https://zh.wikipedia.org/wiki/大眾集團 "wikilink")11.5%股份集資15.5億歐元(18億美元)，Traton
+SE擁有[MAN集團和](../Page/MAN集團.md "wikilink")[Scania汽車和大眾卡車業務](https://zh.wikipedia.org/wiki/Scania汽車 "wikilink")，並持有擁有[納威司達](https://zh.wikipedia.org/wiki/納威司達 "wikilink")16.6%股權，及持有[中國重汽的](https://zh.wikipedia.org/wiki/中國重汽 "wikilink")25%股份，2018年收入为259億歐元，稅前利潤為17億歐元
+
 ## 各地概況
 
 ### 中國

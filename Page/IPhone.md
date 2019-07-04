@@ -667,8 +667,8 @@ iPhone為不同人士提供一個[無障礙環境](../Page/無障礙環境.md "w
 <td><p>iOS 9.3.5</p></td>
 <td><p>iOS 10.3.3</p></td>
 <td><p>iOS 10.3.3</p></td>
-<td><p>iOS 12.2</p></td>
-<td><p>iOS 12.2 預計可升級至<a href="https://zh.wikipedia.org/wiki/iOS_13" title="wikilink">iOS 13</a></p></td>
+<td><p>iOS 12.4 預計可升級至 <a href="https://zh.wikipedia.org/wiki/iOS_13" title="wikilink">iOS 13</a></p></td>
+<td><p>iOS 12.4 預計可升級至<a href="https://zh.wikipedia.org/wiki/iOS_13" title="wikilink">iOS 13</a></p></td>
 <td></td>
 <td></td>
 <td></td>

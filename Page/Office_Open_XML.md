@@ -52,6 +52,62 @@ Office 文件，只能讓自家公司的專屬 [IE](../Page/Internet_Explorer.md
 可正確顯示」，現在的狀況可以說是微軟延續了比爾·蓋茲的精神，使「現代的 MS Office 存出的 OOXML
 檔」刻意做成第三方軟體不能完善地解讀、呈現，顯示OOXML並非如其所聲稱的開放。\[11\]
 
+## Open XML Format SDK
+
+[Microsoft](https://zh.wikipedia.org/wiki/Microsoft "wikilink") Open XML
+Format
+[SDK](https://zh.wikipedia.org/wiki/SDK "wikilink")\[12\]包含一套[托管代码库用于编程以创建](https://zh.wikipedia.org/wiki/托管代码 "wikilink")、操纵Office
+Open XML文件。并不用于代替Microsoft Office Object Model，也不提供文件格式的顶层抽象。使用Open XML
+SDK必须理解文档格式结构。对Word文档不提供诸如layout功能；对Excel文档，不提供诸如重新计算、数据刷新等功能。
+
+  - 版本1.0发布于2008年6月10日。\[13\]配合Office Open XML规范的ISO/IEC标准化过程。\[14\]
+  - 版本2.0： 用于.NET 3.5应用程序。支持使用.NET的强类型类来直接表示XML的element/attribute/value、
+    使用Office Open XML schema验证Office Open XML文档、在Office Open
+    XML文档中搜索。该SDK建于System.IO.Packaging API之上。使用了.NET
+    Framework Language-Integrated Query (LINQ)技术用强类型。把很多操作Open XML
+    packages封装为API，以简化使用。
+  - 版本2.5： 用于.NET
+    4.0应用程序。发布于2014年6月\[15\]并在github上开源。\[16\]这是目前最高版本。支持Office
+    2013的一些新的类。读取 ISO/IEC 29500 Strict Format文档。
+
+**Open XML SDK 2.5 Productivity Tool for Microsoft
+Office**提供许多特性，如给予文档内容产生Open XML SDK
+2.5源代码，比较源与目标Open XML
+documents以产生源代码从源创建目标文档、验证文档、显示文档，ECMA376v1标准，Microsoft
+Office实现注解。
+
+通常安装在 C:\\Program Files (x86)\\Open XML SDK\\V2.5\\
+
+一个Open XML文档包含多个文档部分（document
+part）。ZIP格式支持任意访问各个部分。例如，一个slide页面、Word文档中的comment，都是独立的文档部分。一个Open
+XML文档就是一个Open Packaging Conventions
+(OPC)包(package)。每个文档部分有个部分名字，由一系列segments或一个pathname组成，如"/word/theme/theme1.xml"。包的\[Content_Types\].xml部分，用于确定包中所有文档部分的内容类型。
+
+### SpreadsheetML文档
+
+SpreadsheetML文档包含<workbook>
+element，其内部包含<sheets>与<sheet>用于表示各个worksheet。每个worksheet被创建为一个独立的XML文件。一个spreadsheet文档还可以包含
+
+<table>
+
+, <chartsheet>, <pivotTableDefinition>等element。
+
+在命名空间DocumentFormat.OpenXML.Spreadsheet中定义了spreadsheet中重要的elements：
+
+| Package Part           | Top Level SpreadsheetML Element | Open XML SDK 2.5 Class | 描述                                                                                                          |
+| ---------------------- | ------------------------------- | ---------------------- | ----------------------------------------------------------------------------------------------------------- |
+| Workbook               | workbook                        | Workbook               | 主文档part的根元素                                                                                                 |
+| Worksheet              | worksheet                       | Worksheet              | A type of sheet that represent a grid of cells that contains text, numbers, dates or formulas.              |
+| Chart Sheet            | chartsheet                      | Chartsheet             | A sheet that represents a chart that is stored as its own sheet.                                            |
+| Table                  | table                           | Table                  | A logical construct that specifies that a range of data belongs to a single dataset.                        |
+| Pivot Table            | pivotTableDefinition            | PivotTableDefinition   | A logical construct that displays aggregated view of data in an understandable layout.                      |
+| Pivot Cache            | pivotCacheDefinition            | PivotCacheDefinition   | A construct that defines the source of the data in the PivotTable.                                          |
+| Pivot Cache Records    | pivotCacheRecords               | PivotCacheRecords      | A cache of the source data of the PivotTable.                                                               |
+| Calculation Chain      | calcChain                       | CalculationChain       | A construct that specifies the order in which cells in the workbook were last calculated.                   |
+| Shared String Table    | sst                             | SharedStringTable      | A construct that contains one occurrence of each unique string that occurs on all worksheets in a workbook. |
+| Conditional Formatting | conditionalFormatting           | ConditionalFormatting  | A construct that defines a format applied to a cell or series of cells.                                     |
+| Formulas               | f                               | CellFormula            | A construct that defines the formula text for a cell that contains a formula.                               |
+
 ## 参考资料
 
 [Category:文件格式](https://zh.wikipedia.org/wiki/Category:文件格式 "wikilink")
@@ -73,3 +129,8 @@ Office 文件，只能讓自家公司的專屬 [IE](../Page/Internet_Explorer.md
 10.
 11. [微軟文書格式為何常跑掉？揭開 OOXML
     格式大祕辛](https://technews.tw/2017/08/16/the-big-secret-of-ooxml/)
+12.
+13.
+14.
+15.
+16. [Open-XML-SDK on github](https://github.com/OfficeDev/Open-XML-SDK)

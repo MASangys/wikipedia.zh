@@ -121,7 +121,7 @@ DJ同事[張詠妍](../Page/張詠妍.md "wikilink")（阿Wing）結婚。2009�
   - Killer（[Gin Lee](https://zh.wikipedia.org/wiki/Gin_Lee "wikilink")）
   - 回去哪要時光機器（[周國賢](../Page/周國賢.md "wikilink")）
   - 溫馨提示（[官恩娜](../Page/官恩娜.md "wikilink")）
-  - 我只不過是我（[江若琳](https://zh.wikipedia.org/wiki/江若琳 "wikilink")）
+  - 我只不過是我（[江若琳](../Page/江若琳.md "wikilink")）
   - 嫌小姐（[Yellow\!](https://zh.wikipedia.org/wiki/Yellow! "wikilink")）
 
 ## 其他工作

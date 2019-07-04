@@ -115,7 +115,7 @@ AE为L96/AW的简化版本，尽管不如AW系列坚固，但价格却下降了�
 ### AICS
 
 AICS（Accuracy International Chassis System,
-AI公司底盘系统）可把北美流行的各种[雷明登700步枪更换到AW系列的枪托](https://zh.wikipedia.org/wiki/雷明登700步枪 "wikilink")，有三种颜色可选：草绿、黑色和沙色。
+精密国际框架系统）可把北美流行的各种[雷明登700步枪更换到AW系列的枪托](https://zh.wikipedia.org/wiki/雷明登700步枪 "wikilink")，有三种颜色可选：草绿、黑色和沙色。
 
 ## 使用國家和地區
 

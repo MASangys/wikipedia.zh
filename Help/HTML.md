@@ -188,32 +188,32 @@ This is a paragraph.
 </thead>
 <tbody>
 <tr class="odd">
-<td><div class="sourceCode" id="cb1"><pre class="sourceCode html"><code class="sourceCode html"><a class="sourceLine" id="cb1-1" title="1"><span class="kw">&lt;font&gt;</span></a></code></pre></div></td>
-<td><div class="sourceCode" id="cb2"><pre class="sourceCode html"><code class="sourceCode html"><a class="sourceLine" id="cb2-1" title="1"><span class="kw">&lt;span&gt;</span></a></code></pre></div></td>
+<td><div class="sourceCode" id="cb1"><pre class="sourceCode html"><code class="sourceCode html"><span id="cb1-1"><a href="#cb1-1"></a><span class="kw">&lt;font&gt;</span></span></code></pre></div></td>
+<td><div class="sourceCode" id="cb2"><pre class="sourceCode html"><code class="sourceCode html"><span id="cb2-1"><a href="#cb2-1"></a><span class="kw">&lt;span&gt;</span></span></code></pre></div></td>
 <td><p>定義文本样式。</p></td>
 </tr>
 <tr class="even">
-<td><div class="sourceCode" id="cb3"><pre class="sourceCode html"><code class="sourceCode html"><a class="sourceLine" id="cb3-1" title="1"><span class="kw">&lt;s&gt;</span></a></code></pre></div></td>
-<td><div class="sourceCode" id="cb4"><pre class="sourceCode html"><code class="sourceCode html"><a class="sourceLine" id="cb4-1" title="1"><span class="kw">&lt;del&gt;</span></a></code></pre></div></td>
+<td><div class="sourceCode" id="cb3"><pre class="sourceCode html"><code class="sourceCode html"><span id="cb3-1"><a href="#cb3-1"></a><span class="kw">&lt;s&gt;</span></span></code></pre></div></td>
+<td><div class="sourceCode" id="cb4"><pre class="sourceCode html"><code class="sourceCode html"><span id="cb4-1"><a href="#cb4-1"></a><span class="kw">&lt;del&gt;</span></span></code></pre></div></td>
 <td><p>定义加删除线的文本。</p></td>
 </tr>
 <tr class="odd">
-<td><div class="sourceCode" id="cb5"><pre class="sourceCode html"><code class="sourceCode html"><a class="sourceLine" id="cb5-1" title="1"><span class="kw">&lt;center&gt;</span>文本<span class="kw">&lt;/center&gt;</span></a></code></pre></div></td>
+<td><div class="sourceCode" id="cb5"><pre class="sourceCode html"><code class="sourceCode html"><span id="cb5-1"><a href="#cb5-1"></a><span class="kw">&lt;center&gt;</span>文本<span class="kw">&lt;/center&gt;</span></span></code></pre></div></td>
 <td><p>您應該使用來表現把文字置中的效果。</p>
-<div class="sourceCode" id="cb6"><pre class="sourceCode html"><code class="sourceCode html"><a class="sourceLine" id="cb6-1" title="1"><span class="kw">&lt;div</span><span class="ot"> class=</span><span class="st">&quot;center&quot;</span><span class="ot"> style=</span><span class="st">&quot;width: auto; margin-left: auto; margin-right: auto;&quot;</span><span class="kw">&gt;</span>文本<span class="kw">&lt;/div&gt;</span></a></code></pre></div></td>
+<div class="sourceCode" id="cb6"><pre class="sourceCode html"><code class="sourceCode html"><span id="cb6-1"><a href="#cb6-1"></a><span class="kw">&lt;div</span><span class="ot"> class=</span><span class="st">&quot;center&quot;</span><span class="ot"> style=</span><span class="st">&quot;width: auto; margin-left: auto; margin-right: auto;&quot;</span><span class="kw">&gt;</span>文本<span class="kw">&lt;/div&gt;</span></span></code></pre></div></td>
 <td><p>將文本水平置中在區塊內。</p></td>
 </tr>
 <tr class="even">
-<td><div class="sourceCode" id="cb7"><pre class="sourceCode html"><code class="sourceCode html"><a class="sourceLine" id="cb7-1" title="1"><span class="kw">&lt;big&gt;</span></a></code></pre></div></td>
+<td><div class="sourceCode" id="cb7"><pre class="sourceCode html"><code class="sourceCode html"><span id="cb7-1"><a href="#cb7-1"></a><span class="kw">&lt;big&gt;</span></span></code></pre></div></td>
 <td><p>純粹放大文本：</p>
-<div class="sourceCode" id="cb8"><pre class="sourceCode html"><code class="sourceCode html"><a class="sourceLine" id="cb8-1" title="1"><span class="kw">&lt;span</span><span class="ot"> style=</span><span class="st">&quot;font-size:large&quot;</span><span class="kw">&gt;</span></a></code></pre></div>
+<div class="sourceCode" id="cb8"><pre class="sourceCode html"><code class="sourceCode html"><span id="cb8-1"><a href="#cb8-1"></a><span class="kw">&lt;span</span><span class="ot"> style=</span><span class="st">&quot;font-size:large&quot;</span><span class="kw">&gt;</span></span></code></pre></div>
 <p><br />
 強調文本：</p>
-<div class="sourceCode" id="cb9"><pre class="sourceCode html"><code class="sourceCode html"><a class="sourceLine" id="cb9-1" title="1"><span class="kw">&lt;strong&gt;</span> / <span class="kw">&lt;em&gt;</span></a></code></pre></div></td>
+<div class="sourceCode" id="cb9"><pre class="sourceCode html"><code class="sourceCode html"><span id="cb9-1"><a href="#cb9-1"></a><span class="kw">&lt;strong&gt;</span> / <span class="kw">&lt;em&gt;</span></span></code></pre></div></td>
 <td><p>定义大号文本。</p></td>
 </tr>
 <tr class="odd">
-<td><div class="sourceCode" id="cb10"><pre class="sourceCode html"><code class="sourceCode html"><a class="sourceLine" id="cb10-1" title="1"><span class="kw">&lt;u&gt;</span></a></code></pre></div></td>
+<td><div class="sourceCode" id="cb10"><pre class="sourceCode html"><code class="sourceCode html"><span id="cb10-1"><a href="#cb10-1"></a><span class="kw">&lt;u&gt;</span></span></code></pre></div></td>
 <td></td>
 <td><p>非<a href="https://zh.wikipedia.org/wiki/超連結" title="wikilink">超連結文字不宜加底線</a>。</p></td>
 </tr>

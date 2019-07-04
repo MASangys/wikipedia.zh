@@ -76,7 +76,8 @@ BONES工作室是在1998年10月由前[日昇動畫](../Page/日昇動畫.md "wi
   - [飛龍女孩](../Page/飛龍女孩.md "wikilink")（2018年4月12日－2018年6月28日）
   - [路人超能100](../Page/路人超能100.md "wikilink") 第二季（2019年1月7日－）
   - [卡萝与星期二](https://zh.wikipedia.org/wiki/Carole_&_Tuesday "wikilink")（2019年4月10日－）
-  - [文豪Stray Dogs](../Page/文豪Stray_Dogs.md "wikilink") 第三季（2019年4月12日－）
+  - [文豪Stray Dogs](../Page/文豪Stray_Dogs.md "wikilink")
+    第三季（2019年4月12日－6月30日）
 
 <table>
 <thead>

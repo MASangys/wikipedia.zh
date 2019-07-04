@@ -260,6 +260,7 @@ Entertainment](https://zh.wikipedia.org/wiki/Woollim_Entertainment "wikilink")\[
       - *[EXO-K](../Page/EXO-K.md "wikilink")*
       - *[EXO-M](../Page/EXO-M.md "wikilink")*
       - *[EXO-CBX](../Page/EXO-CBX.md "wikilink")*
+      - [EXO-SC](https://zh.wikipedia.org/wiki/EXO-SC "wikilink")
   - [NCT](../Page/NCT.md "wikilink")
       - [NCT U](../Page/NCT.md "wikilink")
       - [NCT 127](../Page/NCT.md "wikilink")

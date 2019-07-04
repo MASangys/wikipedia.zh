@@ -15,7 +15,7 @@ SDHC與SD的主要差異在於，舊版本用[FAT16檔案系統](https://zh.wiki
 2[GB](https://zh.wikipedia.org/wiki/GB "wikilink")，SD卡容量上限只能到達2GB。為解決FAT16格式可支援容量有限的問題，SDHC改用了[FAT32格式](https://zh.wikipedia.org/wiki/FAT32 "wikilink")；依規格定義，容量最大可達到32GB。
 
 發佈SDHC的時候，制定了三種不同的級數（Class），分別是Class 2、Class 4及Class
-6，表示該記憶卡穩定的最小存取[速度](../Page/速度.md "wikilink")。\[1\]
+6，表示該記憶卡穩定的最小存取[速度](../Page/速度.md "wikilink")。
 後來，增加了Class 10及全新制定的UHS（Ultra High Speed
 Class）速度標明制度，UHS目前有兩個等級，就是U1与U3。
 
@@ -57,7 +57,7 @@ Class）速度標明制度，UHS目前有兩個等級，就是U1与U3。
 <td><p><a href="https://zh.wikipedia.org/wiki/File:UHS-II.png" title="fig:UHS-II.png">UHS-II.png</a></p></td>
 <td><p>156MB/s（FD156）<br />
 312MB/s（HD312）</p></td>
-<td><p>4.00/4.10[2]</p></td>
+<td><p>4.00/4.10[1]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -65,7 +65,7 @@ Class）速度標明制度，UHS目前有兩個等級，就是U1与U3。
 <td><p><a href="https://zh.wikipedia.org/wiki/File:UHS-III.png" title="fig:UHS-III.png">UHS-III.png</a></p></td>
 <td><p>312 MByte/s (FD312)<br />
 624 MByte/s (FD624)</p></td>
-<td><p>6.0[3]</p></td>
+<td><p>6.0[2]</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -97,9 +97,6 @@ Class）速度標明制度，UHS目前有兩個等級，就是U1与U3。
 
 [Category:記憶卡](https://zh.wikipedia.org/wiki/Category:記憶卡 "wikilink")
 
-1.  \[<http://www.sdcard.org/developers/tech/sdcard/pls/Simplified_Physical_Layer_Spec.pdf>,
-    SD Specifications Part 1 Physical Layer Simplified Specification
-    Version 2.00 September 25, 2006 \]
-2.  [SD Bus Speed](https://www.sdcard.org/consumers/speed/bus_speed/)
+1.  [SD Bus Speed](https://www.sdcard.org/consumers/speed/bus_speed/)
     SD Association
-3.
+2.

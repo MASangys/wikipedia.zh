@@ -25,6 +25,13 @@ Initiative](https://zh.wikipedia.org/wiki/The_Initiative "wikilink")。\[2\]
 
 2018年11月，微软宣布收购[黑曜石娱乐和](../Page/黑曜石娱乐.md "wikilink")[InXile娛樂](https://zh.wikipedia.org/wiki/InXile娛樂 "wikilink")\[3\]。
 
+### 作为Xbox遊戲工作室（2019—）
+
+在2019年[E3发布会上](https://zh.wikipedia.org/wiki/E3 "wikilink")，Xbox遊戲工作室宣布收购了开发商[Double
+Fine
+Productions](../Page/Double_Fine_Productions.md "wikilink")\[4\]，并组建了由Shannon
+Loftis带队、专门负责《帝国时代》的内部工作室。\[5\]\[6\]
+
 ## 內部工作室
 
   - **[Rare](../Page/Rare.md "wikilink")** -
@@ -51,6 +58,9 @@ Initiative](https://zh.wikipedia.org/wiki/The_Initiative "wikilink")。\[2\]
     [辐射：新维加斯](../Page/辐射：新维加斯.md "wikilink")、系列，微软于2018年收购。
   - **[InXile娛樂](https://zh.wikipedia.org/wiki/InXile娛樂 "wikilink")** -
     ，微软于2018年收购。
+  - [Double Fine
+    Productions](../Page/Double_Fine_Productions.md "wikilink")
+  - 负责《帝国时代》的内部工作室
 
 ## 曾經擁有的內部工作室
 
@@ -707,17 +717,16 @@ Initiative](https://zh.wikipedia.org/wiki/The_Initiative "wikilink")。\[2\]
 
 ## 外部連結
 
-  - [Microsoft Game Studios
-    ](https://web.archive.org/web/20070501034403/http://www.microsoft.com/games/)
+  -
   - [Microsoft Game Studios 台灣](http://www.microsoft.com/taiwan/Games/)
-  - [Microsoft的官方Xbox網站](http://www.xbox.com/)
+
   - [MobyGames上的](https://zh.wikipedia.org/wiki/MobyGames "wikilink")[Microsoft
     Game
     Studios](http://www.mobygames.com/company/microsoft-game-studios)簡介
 
 [Category:2002年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2002年開業電子遊戲公司 "wikilink")
 [Category:微软的部门与子公司](https://zh.wikipedia.org/wiki/Category:微软的部门与子公司 "wikilink")
-[Category:微軟遊戲](https://zh.wikipedia.org/wiki/Category:微軟遊戲 "wikilink")
+[Category:Xbox](https://zh.wikipedia.org/wiki/Category:Xbox "wikilink")
 [Category:第一方開發商](https://zh.wikipedia.org/wiki/Category:第一方開發商 "wikilink")
 [Category:美國電子遊戲公司](https://zh.wikipedia.org/wiki/Category:美國電子遊戲公司 "wikilink")
 [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
@@ -726,3 +735,6 @@ Initiative](https://zh.wikipedia.org/wiki/The_Initiative "wikilink")。\[2\]
 1.
 2.
 3.
+4.
+5.
+6.

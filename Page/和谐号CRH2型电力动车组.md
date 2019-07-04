@@ -1,4 +1,4 @@
-**和谐号CRH2型电力动车组**，是原中华人民共和国铁道部（现在[中国铁路总公司](../Page/中国铁路总公司.md "wikilink")）为进行[中国铁路第六次大提速及营运新建的](https://zh.wikipedia.org/wiki/中国铁路大提速#中国铁路第六次大提速 "wikilink")[高速城际铁路及客运专线](https://zh.wikipedia.org/wiki/中國高速鐵路 "wikilink")，而向[日本](../Page/日本.md "wikilink")[川崎重工及](../Page/川崎重工業.md "wikilink")[中国中车](../Page/中国中车.md "wikilink")[中車青島四方機車車輛股份有限公司订购的](https://zh.wikipedia.org/wiki/中車青島四方機車車輛股份有限公司 "wikilink")[CRH系列高速](../Page/中国铁路高速列车.md "wikilink")[动车组车款之一](https://zh.wikipedia.org/wiki/动车组 "wikilink")。中国铁路总公司所有引进国外技术、联合设计生产的中国铁路高速列车（CRH）均命名为「**[和谐号](../Page/和谐号电力动车组.md "wikilink")**」。
+**和谐号CRH2型电力动车组**，是原中华人民共和国铁道部（现[中国国家铁路集团有限公司](https://zh.wikipedia.org/wiki/中国国家铁路集团有限公司 "wikilink")）为进行[中国铁路第六次大提速及营运新建的](https://zh.wikipedia.org/wiki/中国铁路大提速#中国铁路第六次大提速 "wikilink")[高速城际铁路及客运专线](https://zh.wikipedia.org/wiki/中國高速鐵路 "wikilink")，而向[日本](../Page/日本.md "wikilink")[川崎重工及](../Page/川崎重工業.md "wikilink")[中国中车](../Page/中国中车.md "wikilink")[中車青島四方機車車輛股份有限公司订购的](https://zh.wikipedia.org/wiki/中車青島四方機車車輛股份有限公司 "wikilink")[CRH系列高速](../Page/中国铁路高速列车.md "wikilink")[动车组车款之一](https://zh.wikipedia.org/wiki/动车组 "wikilink")。原中国铁道部将所有引进国外技术、联合设计生产的中国铁路高速列车（CRH）均命名为「**[和谐号](../Page/和谐号电力动车组.md "wikilink")**」。
 
 ## 概要
 
@@ -1034,7 +1034,7 @@ CRH380A”。2010年4月26日，试验动车组被运送至[中国国家铁道�
 ### CRH2E
 
 [CRH2E-2127_at_Shoupakou_(20180506190034).jpg](https://zh.wikipedia.org/wiki/File:CRH2E-2127_at_Shoupakou_\(20180506190034\).jpg "fig:CRH2E-2127_at_Shoupakou_(20180506190034).jpg")
-[CRH2E-2465@SHA_(20170910185510).jpg](https://zh.wikipedia.org/wiki/File:CRH2E-2465@SHA_\(20170910185510\).jpg "fig:CRH2E-2465@SHA_(20170910185510).jpg")\]\]
+[CRH2E-2463@BJX_(20190624193548).jpg](https://zh.wikipedia.org/wiki/File:CRH2E-2463@BJX_\(20190624193548\).jpg "fig:CRH2E-2463@BJX_(20190624193548).jpg")\]\]
 第一代CRH2E型卧鋪[電力動車組](https://zh.wikipedia.org/wiki/電力動車組 "wikilink")，总数量有20列（现时为19列）。与CRH2B一样，为16輛編組列車，列车設有13節软卧车、2節二等座車和1節餐車，标称时速200公里，最高营运时速为250公里。软卧车每輛10個包廂，共40個鋪位\[52\]，餐車內設有休閒酒吧。全列车列装有四副[集電弓](../Page/集電弓.md "wikilink")。
 
 在2011年发生的[动车组列车追尾事故中](../Page/2011年甬台温铁路列车追尾事故.md "wikilink")，由CRH2E-2139（当时编号CRH<sub>2</sub>-139E）担当的D301次列车追尾了一列从杭州站始发前往福州南站的D3115次动车组列车，导致D301次动车组列车第1至4位车辆脱轨坠落桥下，其中1节车厢悬空。事发后1至5號车廂因脱轨而报废，11至16號車厢被鐵道總公司改造為综合检测列车（CRH2J-0205），其餘車廂被鐵路總公司拆解。

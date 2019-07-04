@@ -56,7 +56,7 @@
 
 [Category:TBS電視台](https://zh.wikipedia.org/wiki/Category:TBS電視台 "wikilink")
 [Category:東京放送控股](https://zh.wikipedia.org/wiki/Category:東京放送控股 "wikilink")
-[Category:日本電視台](https://zh.wikipedia.org/wiki/Category:日本電視台 "wikilink")
+[Category:關東地方的電視台](https://zh.wikipedia.org/wiki/Category:關東地方的電視台 "wikilink")
 [Category:港區公司_(東京都)](https://zh.wikipedia.org/wiki/Category:港區公司_\(東京都\) "wikilink")
 [Category:日本新聞網_(TBS)](https://zh.wikipedia.org/wiki/Category:日本新聞網_\(TBS\) "wikilink")
 [Category:赤坂](https://zh.wikipedia.org/wiki/Category:赤坂 "wikilink")

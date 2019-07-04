@@ -1,5 +1,5 @@
 [Bookcover-Generation-X.jpg](https://zh.wikipedia.org/wiki/File:Bookcover-Generation-X.jpg "fig:Bookcover-Generation-X.jpg")
-**X世代**專指**1966年～1980年**出生的人。
+**X世代**專指**1965年～1980年**出生的人。
 
 這詞彙最先出現在傳奇戰地記者[羅伯特·卡帕](https://zh.wikipedia.org/wiki/羅伯特·卡帕 "wikilink")（[Robert
 Capa](http://en.wikipedia.org/wiki/Robert_Capa))的相片特輯([Photo-essay](http://en.wikipedia.org/wiki/Photo-essay))，他用這來形容第二次世界大戰後出生的一代。這特輯1953年於英國的picture

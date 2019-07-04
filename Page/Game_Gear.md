@@ -92,6 +92,8 @@ Console之收錄範圍中](../Page/Virtual_Console.md "wikilink")\[70\]。
 
 ### 簡介
 
+[File:Sega-Game-Gear-WB.png|美版Game](File:Sega-Game-Gear-WB.png%7C美版Game)
+Gear普通機型
 [File:Sega-Game-Gear-Open-01.jpg|Game](File:Sega-Game-Gear-Open-01.jpg%7CGame)
 Gear拆解後的樣子
 [File:Sega-Game-Gear-Motherboard-01.jpg|Game](File:Sega-Game-Gear-Motherboard-01.jpg%7CGame)

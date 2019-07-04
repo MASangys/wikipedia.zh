@@ -345,7 +345,7 @@ Drive》、二台節目《晨光第一線》視像環節《羅啟新棟篤笑》
 <li>黃金嬲－Genki#、木蘭#、<a href="https://zh.wikipedia.org/wiki/謝利" title="wikilink">Jerry Lo</a>#</li>
 <li>其他（無主題）
 <ul>
-<li><a href="https://zh.wikipedia.org/wiki/李興華_(藝人)" title="wikilink">Kelvin Lee</a>#、<a href="https://zh.wikipedia.org/wiki/江若琳" title="wikilink">江若琳</a>#</li>
+<li><a href="https://zh.wikipedia.org/wiki/李興華_(藝人)" title="wikilink">Kelvin Lee</a>#、<a href="../Page/江若琳.md" title="wikilink">江若琳</a>#</li>
 <li><a href="../Page/黃冠斌.md" title="wikilink">斌仔</a>#、Karen#、占屎#</li>
 <li><a href="../Page/洪崎峻.md" title="wikilink">黑超B</a>、<a href="https://zh.wikipedia.org/wiki/黃詠妮" title="wikilink">公仔</a>#、<a href="../Page/駱振偉.md" title="wikilink">Thor</a>#</li>
 <li><a href="https://zh.wikipedia.org/wiki/容羡媛" title="wikilink">Fion</a>#、Pat#、Key#</li>

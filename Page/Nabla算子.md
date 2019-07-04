@@ -32,6 +32,10 @@ Del算子在标准HTML中写为\&nabla，而在[LaTeX中为](https://zh.wikipedi
 
 Del算子在[数学中用于指代](../Page/数学.md "wikilink")[梯度算符](../Page/梯度.md "wikilink")，並可組成[散度](../Page/散度.md "wikilink")、[旋度和](../Page/旋度.md "wikilink")[拉普拉斯算子](../Page/拉普拉斯算子.md "wikilink")。它也用于指代[微分几何中的](../Page/微分几何.md "wikilink")[联络](../Page/联络.md "wikilink")（可以视为更广意义上的梯度算子）。它由[哈密尔顿引入](https://zh.wikipedia.org/wiki/威廉·哈密顿 "wikilink")。
 
+## 参见
+
+  - [在圆柱和球坐标系中的del](https://zh.wikipedia.org/wiki/在圆柱和球坐标系中的del "wikilink")
+
 ## 參考
 
 [Category:数学符号](https://zh.wikipedia.org/wiki/Category:数学符号 "wikilink")

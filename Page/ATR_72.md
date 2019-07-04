@@ -3,15 +3,20 @@
 [缩略图](https://zh.wikipedia.org/wiki/File:ATR-72-500_Precision_Air_Services_\(PRF\)_F-WWEW_-_MSN_923_-_Named_Kilimandjaro_-_Will_be_5H-PWG_\(5000147631\).jpg "fig:缩略图")
 [UNI_AIR_ATR_72-600_IN_RCSS.jpg](https://zh.wikipedia.org/wiki/File:UNI_AIR_ATR_72-600_IN_RCSS.jpg "fig:UNI_AIR_ATR_72-600_IN_RCSS.jpg")ATR
 72-600\]\] **ATR
-72**為[法國與](https://zh.wikipedia.org/wiki/法國 "wikilink")[義大利合資的](https://zh.wikipedia.org/wiki/義大利 "wikilink")[飛機製造商](https://zh.wikipedia.org/wiki/飛機 "wikilink")[ATR製造的雙螺旋槳](../Page/ATR.md "wikilink")[民航機](https://zh.wikipedia.org/wiki/民航機 "wikilink")，結構上與42型一樣，但機身加長4.5米，載客數提升至72人，油箱容量更大，航程更遠。目前ATR
-72型已經出售超過678架。
+72**為[法國航太商法國航太](https://zh.wikipedia.org/wiki/法國 "wikilink")（現空中巴士）與[義大利航太商](https://zh.wikipedia.org/wiki/義大利 "wikilink")（現李奧納多）合資的[飛機製造商](https://zh.wikipedia.org/wiki/飛機 "wikilink")[ATR製造的雙螺旋槳](../Page/ATR.md "wikilink")[民航機](https://zh.wikipedia.org/wiki/民航機 "wikilink")，結構上與42型一樣，但機身加長4.5米，載客數提升至72人，油箱容量更大，航程更遠。目前ATR
+72型已經出售超過1,000架。
 [缩略图](https://zh.wikipedia.org/wiki/File:ATRv1.0.png "fig:缩略图")
 
 ## 發展
 
-ATR 72是[ATR
-42的改良型號](https://zh.wikipedia.org/wiki/ATR_42 "wikilink")，機身加長4.5米，改用更大馬力的引擎，增加約10%的燃料。ATR
-72於1988年進行首航\[1\]，1989年投入商業服務，[芬蘭航空是首個接收此型號飛機的航空公司](https://zh.wikipedia.org/wiki/芬蘭航空 "wikilink")。ATR系列的行李儲存架設置在駕駛室與客艙之間，所以前方機門通常是用作裝卸行李，而乘客大多數從尾部機門進入機艙。相比其它飛機，此型號並沒有提供空氣及電力功能的[輔助動力系統](../Page/輔助動力系統.md "wikilink")（APU），而是在右邊的二號發動機上設置螺旋槳煞車裝置，讓2號發動機可以在啟動的狀態下，不讓螺旋槳旋轉，僅擔任電力和空氣的供應。
+1980年代初，法國與義大利達成商業合作共識，兩國主要的航太廠商合資成立新公司，共同研發新一代[支線客機](https://zh.wikipedia.org/wiki/區域航線客機 "wikilink")，第一個合作成果為ATR
+42。ATR 72是[ATR
+42的改良型號](https://zh.wikipedia.org/wiki/ATR_42 "wikilink")，在1980年代中期啟動開發計畫，機身加長4.5米，擴大翼展，改用更大馬力的引擎，增加約10%的燃料。
+
+ATR
+72於1986年1月15日首度對外公開計畫，1988年10月27日進行首航\[1\]，1989年9月25日得到法國民航總局的飛航認證許可，實際投入商業服務，[芬蘭航空是首個接收此型號飛機的航空公司](https://zh.wikipedia.org/wiki/芬蘭航空 "wikilink")，由於ATR
+42與ATR
+72大多數子系統為共用設計，因此ATR公司在同個廠間進行兩種型號客機的量產。ATR系列的行李儲存架設置在駕駛室與客艙之間，所以前方機門通常是用作裝卸行李，而乘客大多數從尾部機門進入機艙。相比其它飛機，此型號並沒有提供空氣及電力功能的[輔助動力系統](../Page/輔助動力系統.md "wikilink")（APU），而是在右邊的二號發動機上設置螺旋槳煞車裝置，讓2號發動機可以在啟動的狀態下，不讓螺旋槳旋轉，僅擔任電力和空氣的供應。
 
 ATR公司曾計劃發展ATR 82型，載客量提升為78人，速度提高至610公里／時，但於1996年終止此計劃。
 

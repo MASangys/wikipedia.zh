@@ -179,9 +179,9 @@ MyUniversity<br />
 <td><p>多媒體創作人、電影編劇、影評人、電台主持及動漫編導</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/謝義方" title="wikilink">謝義方</a>（謝公）</p></td>
-<td><p>天天天藍</p></td>
-<td><p><a href="../Page/中國國民黨.md" title="wikilink">中國國民黨黨員</a>。神州青年服務社兩岸事務發言人。</p></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/錢建榮" title="wikilink">錢建榮</a></p></td>
@@ -195,8 +195,8 @@ MyUniversity<br />
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/張三_(香港)" title="wikilink">張三</a></p></td>
-<td><p>天天天藍</p></td>
-<td><p>中國國民黨黨員</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>Kenny</p></td>
@@ -225,71 +225,48 @@ MyUniversity<br />
 <td><p>香港演員及電台DJ</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/無妄齋" title="wikilink">無妄齋</a>（齋主）</p></td>
-<td><p>合眾唯識（嘉賓主持）(已完結)<br />
-本土最前線</p></td>
-<td><p>網絡專欄作家</p></td>
-</tr>
-<tr class="odd">
 <td><p><a href="../Page/陳浩天.md" title="wikilink">陳浩天</a></p></td>
 <td><p>合眾唯識(已完結)<br />
 本土最前線</p></td>
 <td><p>前<a href="../Page/香港民族黨.md" title="wikilink">香港民族黨召集人</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/周浩輝.md" title="wikilink">周浩輝</a></p></td>
 <td><p>合眾唯識(已完結)<br />
 本土最前線</p></td>
 <td><p>前<a href="../Page/香港民族黨.md" title="wikilink">香港民族黨發言人</a></p></td>
 </tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="even">
-<td><p><a href="../Page/周竪峰.md" title="wikilink">周竪峰</a>（張翼）</p></td>
-<td><p>學生主場 (已完結)<br />
-誰主香江(已完結)<br />
-本土最前線</p></td>
-<td><p><a href="../Page/香港中文大學學生會.md" title="wikilink">香港中文大學學生會會長</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>何鈞（HK）</p></td>
-<td><p>學生主場 (已完結)<br />
-誰主香江</p></td>
-<td><p><a href="../Page/中大本土學社.md" title="wikilink">中大本土學社召集人</a></p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/賴珮" title="wikilink">賴珮</a></p></td>
-<td><p>誰主香江(已完結)<br />
-本土最前線</p></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/陳志宏_(香港)" title="wikilink">陳志宏博士</a></p></td>
 <td><p>MyUniversity<br />
 四眼乜乜乜 (暫代主持/已完結)<br />
 科學新知</p></td>
 <td><p><a href="../Page/香港大學.md" title="wikilink">香港大學理學院講師</a>、<a href="https://zh.wikipedia.org/wiki/紐約大學" title="wikilink">紐約大學博士</a>，主修物理學，同時為澳門政團<a href="../Page/新澳門學社.md" title="wikilink">新澳門學社成員</a>、<a href="../Page/神州青年服務社.md" title="wikilink">神州青年服務社社長</a>。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Dennis</p></td>
 <td><p>玩樂高地<br />
 </p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/錢偉洛" title="wikilink">錢偉洛</a>（鹵味男、Lak Lak）</p></td>
 <td><p>馬場USB<br />
 毓民射馬</p></td>
 <td><p><a href="../Page/普羅政治學苑.md" title="wikilink">普羅政治學苑成員</a>，前<a href="../Page/社會民主連線.md" title="wikilink">社會民主連線</a>、<a href="../Page/人民力量.md" title="wikilink">人民力量成員</a>，曾任黃毓民議員助理。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/尤達_(馬評人)" title="wikilink">尤達</a></p></td>
 <td><p>馬場USB<br />
-毓民射馬</p></td>
+毓民射馬<br />
+黎民話事 Layman Says</p></td>
 <td><p>馬評人</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/方智龍" title="wikilink">方智龍</a>（Addie）</p></td>
+<td><p>網上辣辛聞（已完結）<br />
+黎民話事 Layman Says</p></td>
+<td><p>調解員。前<a href="../Page/熱血公民.md" title="wikilink">熱血公民成員</a>、前<a href="../Page/熱血時報.md" title="wikilink">熱血時報主持</a>，曾參與<a href="../Page/2015年香港區議會選舉.md" title="wikilink">2015年區議會元州及蘇屋區選舉</a>。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/張錦滿" title="wikilink">張錦滿</a></p></td>
@@ -568,89 +545,114 @@ MyUniversity</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/方智龍" title="wikilink">方智龍</a>（Addie）</p></td>
-<td><p>網上辣辛聞（已完結）</p></td>
-<td><p>調解員。前<a href="../Page/熱血公民.md" title="wikilink">熱血公民成員</a>、前<a href="../Page/熱血時報.md" title="wikilink">熱血時報主持</a>，曾參與<a href="../Page/2015年香港區議會選舉.md" title="wikilink">2015年區議會元州及蘇屋區選舉</a>。</p></td>
-</tr>
-<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/李政熙" title="wikilink">李政熙</a></p></td>
 <td><p>網上辣辛聞（嘉賓主持）（已完結）</p></td>
 <td><p>前<a href="../Page/熱血公民.md" title="wikilink">熱血公民成員</a>，曾參與<a href="../Page/2015年香港區議會選舉.md" title="wikilink">2015年區議會天平西區選舉</a>。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Vega</p></td>
 <td><p>網上辣辛聞（嘉賓主持）（已完結）</p></td>
 <td><p>前<a href="../Page/熱血公民.md" title="wikilink">熱血公民成員</a>。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/雯雯" title="wikilink">雯雯</a></p></td>
 <td><p>三個女人蜜蜜針（已離任）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/曹撕達" title="wikilink">曹撕達</a>（Marco Lau、救生員／Lifeguard）</p></td>
 <td><p>風火水電（已完結）</p></td>
 <td><p>MyRadio技術總監，前香港人網工作人員。《癲狗日報》專欄作家。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>布萊恩</p></td>
 <td><p>風火水電（已完結）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/陳樹鵬.md" title="wikilink">陳樹鵬</a>（阿鵬）</p></td>
 <td><p>今晚開你波（已完結）<br />
 贏爆洲際盃（已完結）</p></td>
 <td><p>足球評述員、<a href="https://zh.wikipedia.org/wiki/香港有線電視球彩台" title="wikilink">香港有線電視球彩台主持</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/盧振聲" title="wikilink">盧振聲</a>（阿聲）</p></td>
 <td><p>今晚開你波（已完結）<br />
 贏爆洲際盃（已完結）</p></td>
 <td><p>足球評述員、<a href="https://zh.wikipedia.org/wiki/香港有線電視球彩台" title="wikilink">香港有線電視球彩台主持</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/謝蕙妍" title="wikilink">謝蕙妍</a>（Wendy）</p></td>
 <td><p>今晚開你波（已完結）<br />
 贏爆洲際盃（已完結）</p></td>
 <td><p>足球評述員、<a href="https://zh.wikipedia.org/wiki/香港有線電視球彩台" title="wikilink">香港有線電視球彩台主持</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/盤神" title="wikilink">盤　神</a></p></td>
 <td><p>今晚開你波（已完結）<br />
 贏爆洲際盃（已完結）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/香港有線電視球彩台" title="wikilink">香港有線電視球彩台主持</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>安　娜（Anna）</p></td>
 <td><p>三個女人蜜蜜針（已完結）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/郭兆明" title="wikilink">郭兆明</a>（郭博士）</p></td>
 <td><p>那些年（已完結）</p></td>
 <td><p>商人、佛學博士，<a href="https://zh.wikipedia.org/wiki/香港顯密學會" title="wikilink">香港顯密學會會長</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/張展豪.md" title="wikilink">張展豪</a>（文豪）</p></td>
 <td><p>坐看雲起時（已完結）</p></td>
 <td><p>攝影師</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/郭嘉熹" title="wikilink">郭嘉熹</a>（阿雲）</p></td>
 <td><p>天地友政氣(已離任)</p></td>
 <td><p>舞台劇演員</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/陸威廉" title="wikilink">陸威廉</a>（William）</p></td>
 <td><p>文圖萬里（第二季）（已完結）<br />
 梁錦祥一週時事（已離任）</p></td>
-<td><p>旅遊達人、<a href="https://zh.wikipedia.org/wiki/暨南大學" title="wikilink">暨南大學國際政治學學士</a>、<a href="https://zh.wikipedia.org/wiki/馬德里體育會" title="wikilink">馬德里體育會香港球迷會召集人</a></p></td>
+<td><p>其於節目一週時事，任嘉賓主持時，頗受聽眾欣賞，後因某次邀請一HIV病患者出席，講解現今一般人對愛滋病誤解之實況。卻被一疑有精神問題之人無理攻擊，誹謗為：<a href="../Page/同性戀.md" title="wikilink">同性戀者</a>、身懷多種性病、<a href="https://zh.wikipedia.org/wiki/HIV" title="wikilink">HIV感染者</a>。</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/楊逸朗.md" title="wikilink">楊逸朗</a>（Joe Yeung）</p></td>
+<td><p>本土最前線(已離任)</p></td>
+<td><p>社運人士。曾任香港輔助警察。2019年4月離開</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/楊逸朗.md" title="wikilink">楊逸朗</a>（Joe Yeung）</p></td>
-<td><p>本土最前線</p></td>
-<td><p>社運人士。曾任香港輔助警察。2019年4月離開</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/無妄齋" title="wikilink">無妄齋</a>（齋主）</p></td>
+<td><p>合眾唯識（嘉賓主持）(已完結)<br />
+本土最前線(已離任)</p></td>
+<td><p>網絡專欄作家</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/周竪峰.md" title="wikilink">周竪峰</a>（張翼）</p></td>
+<td><p>學生主場 (已完結)<br />
+誰主香江(已完結)<br />
+本土最前線(已離任)</p></td>
+<td><p><a href="../Page/香港中文大學學生會.md" title="wikilink">香港中文大學學生會會長</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>何鈞（HK）</p></td>
+<td><p>學生主場 (已完結)<br />
+誰主香江(已完結)</p></td>
+<td><p><a href="../Page/中大本土學社.md" title="wikilink">中大本土學社召集人</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/賴珮" title="wikilink">賴珮</a></p></td>
+<td><p>誰主香江(已完結)<br />
+本土最前線(已離任)</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td></td>

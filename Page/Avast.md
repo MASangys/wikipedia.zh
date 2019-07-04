@@ -11,6 +11,8 @@ AntiVir的免費版本作比較](https://zh.wikipedia.org/wiki/Avira_AntiVir "wi
 自2010年起，Avast在台灣、香港及部分中國大陸地區交由棋勝科技代理，官方網址為 <http://avast.it4win.com/>
 2017年10月，Avast收購AVG並完成整合，正式推出新產品線。
 
+2019年6月25日，Avast杀毒发布新版本19.6.2383-19.6.4546.0
+
 ## 特色
 
 ### 核心和檢測

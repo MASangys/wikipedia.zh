@@ -70,7 +70,7 @@ X性聯[隱性](https://zh.wikipedia.org/wiki/隱性基因 "wikilink")[遺傳病
 此外，亦有[顯性遺傳病](https://zh.wikipedia.org/wiki/顯性基因 "wikilink")，已知文獻中，此遺傳類型非常稀少。（父母任何一方為病患者便有可能傳到後代）如：
 
   - [色素失調症](https://zh.wikipedia.org/wiki/色素失調症 "wikilink")
-  - [維生素D型無效性](https://zh.wikipedia.org/wiki/維生素D "wikilink")[佝僂病](https://zh.wikipedia.org/wiki/佝僂病 "wikilink")
+  - [維生素D型無效性](https://zh.wikipedia.org/wiki/維生素D "wikilink")[佝僂病](../Page/佝僂病.md "wikilink")
   - [CMTX](https://zh.wikipedia.org/wiki/CMTX "wikilink")（[腓骨肌萎縮症的一種](https://zh.wikipedia.org/wiki/腓骨肌萎縮症 "wikilink")）
   - [蕾特氏症](../Page/蕾特氏症.md "wikilink")([Rett
     Syndrome](https://zh.wikipedia.org/wiki/Rett_Syndrome "wikilink"))

@@ -39,6 +39,7 @@
 [Category:X射线天文卫星](https://zh.wikipedia.org/wiki/Category:X射线天文卫星 "wikilink")
 [Category:空间望远镜](https://zh.wikipedia.org/wiki/Category:空间望远镜 "wikilink")
 [Category:望远镜](https://zh.wikipedia.org/wiki/Category:望远镜 "wikilink")
+[Category:1999年發射的太空飛行器](https://zh.wikipedia.org/wiki/Category:1999年發射的太空飛行器 "wikilink")
 
 1.
 2.

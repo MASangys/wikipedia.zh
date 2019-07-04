@@ -81,7 +81,7 @@ Safety，縮寫成IIHS）針對2007年至2012年式的第一代Versa五門掀背
 
 #### 啟辰D50與R50
 
-由於中國大陸汽車市場的發展迅速，[東風日產與日本母廠建立另一合資自主](https://zh.wikipedia.org/wiki/东风日产乘用车公司 "wikilink")[品牌](../Page/品牌.md "wikilink")「啟辰」，首部代表作乃以三廂式四門轎車型頤達改造的「D50」，正式在2012年北京車展亮相。第二款作品則是以二廂式五門掀背車型騏達改造的「R50」，於2012年成都車展發表。這兩款車骨子裡和Tiida如出一轍，動力來源同為1,598c.c.的直列四缸HR16DE型汽油引擎，最大馬力115hp
+由於中國大陸汽車市場的發展迅速，[東風日產與日本母廠建立另一合資自主](../Page/东风日产乘用车公司.md "wikilink")[品牌](../Page/品牌.md "wikilink")「啟辰」，首部代表作乃以三廂式四門轎車型頤達改造的「D50」，正式在2012年北京車展亮相。第二款作品則是以二廂式五門掀背車型騏達改造的「R50」，於2012年成都車展發表。這兩款車骨子裡和Tiida如出一轍，動力來源同為1,598c.c.的直列四缸HR16DE型汽油引擎，最大馬力115hp
 / 6,000rpm、峰值扭力15.6kg·m /
 4,400rpm，可搭配五速手排或四速自排變速箱系統。外觀造型方面則出現很大的更動：車頭水箱罩、前保桿、頭燈組、車尾廂門、尾燈組及後保桿等均和原來的Tiida不同。全車系標準配備包括前座雙[安全氣囊](https://zh.wikipedia.org/wiki/安全氣囊 "wikilink")、[ABS](https://zh.wikipedia.org/wiki/防鎖死煞車系统 "wikilink")+[EBD](https://zh.wikipedia.org/wiki/電子制動力分配系統 "wikilink")+BA整合煞車系統等，而鋁圈、天窗、霧燈等配備則依不同等級而有所差異。
 {{-}}
@@ -104,7 +104,7 @@ Image:Nissan Tiida TH.jpg|泰國Tiida車頭
 ### 第二代：C12型（2011年迄今）
 
 2011年 -
-4月21日日產汽車在第14屆[上海車展公開第二代大改款的Tiida](../Page/上海国际汽车工业博览会.md "wikilink")，並宣布由[東風日產汽車製造](https://zh.wikipedia.org/wiki/东风日产乘用车公司 "wikilink")，率先在中國大陸市場投放。車身尺碼比第一代略為放大、車高降低，[軸距也增長](https://zh.wikipedia.org/wiki/軸距 "wikilink")10[公分](https://zh.wikipedia.org/wiki/公分 "wikilink")。5月正式上市，動力來源為1,598c.c.直列四缸DOHC
+4月21日日產汽車在第14屆[上海車展公開第二代大改款的Tiida](../Page/上海国际汽车工业博览会.md "wikilink")，並宣布由[東風日產汽車製造](../Page/东风日产乘用车公司.md "wikilink")，率先在中國大陸市場投放。車身尺碼比第一代略為放大、車高降低，[軸距也增長](https://zh.wikipedia.org/wiki/軸距 "wikilink")10[公分](https://zh.wikipedia.org/wiki/公分 "wikilink")。5月正式上市，動力來源為1,598c.c.直列四缸DOHC
 HR16DE型引擎，最大[馬力](../Page/馬力.md "wikilink")93kW / 5,600rpm、扭力峰值154N·m /
 4,000rpm；可搭配五速手排或[Xtronic
 CVT變速箱](../Page/無段自動變速器.md "wikilink")。前輪為[獨立麥花臣支柱式懸吊系統附防傾桿](https://zh.wikipedia.org/wiki/麥弗遜懸吊 "wikilink")，後輪為扭力樑式懸吊系統附防傾桿。高端的豪華版具有[HID氙氣頭燈](../Page/高強度氣體放電燈.md "wikilink")、雙區獨立恆溫空調、後座出風口、[巡航定速系統](../Page/巡航定速.md "wikilink")、倒車雷達、前座雙[安全氣囊](https://zh.wikipedia.org/wiki/安全氣囊 "wikilink")、側安全氣囊、氣簾式安全氣囊等標準配備；而全車系有七種車色可供選擇。
@@ -173,7 +173,7 @@ Nissan Tiida 1.6T XV interior.jpg|內裝照 Image:Nissan Tiida II 01 China
 K9K dCi型柴油引擎。
 
 2016年 -
-原廠在4月25日揭幕的[北京車展公開全新改款的C](../Page/北京国际汽车展览会.md "wikilink")13型Tiida\[16\]，由[東風日產國產化](https://zh.wikipedia.org/wiki/东风日产乘用车公司 "wikilink")。1.6L直列四缸DOHC
+原廠在4月25日揭幕的[北京車展公開全新改款的C](../Page/北京国际汽车展览会.md "wikilink")13型Tiida\[16\]，由[東風日產國產化](../Page/东风日产乘用车公司.md "wikilink")。1.6L直列四缸DOHC
 HR16DE型引擎可輸出125匹[馬力](../Page/馬力.md "wikilink")，搭配[Xtronic
 CVT無段變速系統和](../Page/無段自動變速器.md "wikilink")[怠速熄火系統](../Page/怠速熄火系統.md "wikilink")，可達到每[公升](../Page/公升.md "wikilink")18.9[公里的油耗數據](../Page/公里.md "wikilink")。在安全配備方面，頂級車型具備LDW車道偏離警示系統、BSW車側盲點偵測系統、VDC車身動態穩定系統、FEB預碰撞主動式煞車輔助系統、CTA倒車車側預警系統及6具安全氣囊；此外頂級車型亦可加價選購可加熱真皮座椅、雙區恆溫空調等配備。
 

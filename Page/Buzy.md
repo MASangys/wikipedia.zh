@@ -58,3 +58,4 @@ Records。2006年6月解散。
   - [Imperial Records官方网站](http://www.teichiku.co.jp/artist/buzy/)
 
 [Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink")
+[Category:前Amuse所屬藝人](https://zh.wikipedia.org/wiki/Category:前Amuse所屬藝人 "wikilink")

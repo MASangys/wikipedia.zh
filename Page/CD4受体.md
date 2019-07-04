@@ -2,7 +2,7 @@
 receptors）。在分子生物中，CD4是免疫細胞(例如:[輔助T細胞](../Page/輔助型T細胞.md "wikilink")、[單核球](https://zh.wikipedia.org/wiki/单核细胞 "wikilink")、[巨噬細胞和](../Page/巨噬细胞.md "wikilink")[樹突細胞](https://zh.wikipedia.org/wiki/樹狀細胞 "wikilink"))表面的醣蛋白分子。它被發現於1970年代晚期，在1984年以前被稱為leu-3和T4。人類的CD4蛋白質是由CD4基因所製造。
 
 CD4受体是[辅助T细胞的表面標記](https://zh.wikipedia.org/wiki/辅助T细胞 "wikilink")（surface
-markers）之一，也是辅助T细胞行使其功能的重要[受體](https://zh.wikipedia.org/wiki/受體 "wikilink")。當[抗原呈递細胞](https://zh.wikipedia.org/wiki/抗原呈递細胞 "wikilink")（主要是[巨噬細胞](https://zh.wikipedia.org/wiki/巨噬細胞 "wikilink")、[棘狀細胞及](https://zh.wikipedia.org/wiki/棘狀細胞 "wikilink")[B細胞本身](https://zh.wikipedia.org/wiki/B細胞 "wikilink")）將外來病菌分解，把抗原與[主要组织相容性复合体結合後](../Page/主要组织相容性复合体.md "wikilink")，呈递給辅助T细胞（即與辅助T细胞表面的CD4受體結合），辅助T细胞再接著刺激B細胞產生[抗體](https://zh.wikipedia.org/wiki/抗體 "wikilink")，此即[體液性免疫反應的基本過程](https://zh.wikipedia.org/wiki/體液性免疫反應 "wikilink")。
+markers）之一，也是辅助T细胞行使其功能的重要[受體](https://zh.wikipedia.org/wiki/受體 "wikilink")。當[抗原呈递細胞](https://zh.wikipedia.org/wiki/抗原呈递細胞 "wikilink")（主要是[巨噬細胞](https://zh.wikipedia.org/wiki/巨噬細胞 "wikilink")、[樹突細胞及](https://zh.wikipedia.org/wiki/樹突細胞 "wikilink")[B細胞本身](https://zh.wikipedia.org/wiki/B細胞 "wikilink")）將外來病菌分解，把抗原與[主要组织相容性复合体結合後](../Page/主要组织相容性复合体.md "wikilink")，呈递給辅助T细胞（即與辅助T细胞表面的CD4受體結合），辅助T细胞再接著刺激B細胞產生[抗體](https://zh.wikipedia.org/wiki/抗體 "wikilink")，此即[體液性免疫反應的基本過程](https://zh.wikipedia.org/wiki/體液性免疫反應 "wikilink")。
 
 CD4+("+"表示陽性，細胞表面存在此蛋白)的輔助T細胞在人類免疫系統中為極重要的白血球。它們通常被稱為「CD4細胞」、「輔助T細胞」或「T4細胞」。它們被稱為「輔助細胞」是因為其中一個主要功能是將訊號送到其他免疫細胞，包括可以殺死感染細胞的CD8胞殺細胞。如果沒有CD4細胞(如HIV感染者、器官移植者)，人體將無法對抗大量的病原菌並暴露於危險中。
 
