@@ -16,7 +16,7 @@
 
   - 2018年12月14日，Mnet在[2018年Mnet亞洲音樂大獎](https://zh.wikipedia.org/wiki/2018年Mnet亞洲音樂大獎 "wikilink")
     in Hong Kong結束後，公開節目預告。\[5\]
-  - 最後出道團體是5年限定男團：前2.5年是專屬合約，後2.5年可於原本公司進行活動。\[6\]
+  - 最後出道團體是5年限定男團：前2.5年是專屬合約，後2.5年可於原本公司進行活動，由SWING娛樂管理。\[6\]
   - 本季Center採國民製作人投票。
   - 選手在第一次評級將分為A、B、C、D、X，共5個等級, 而第二次則是A、B、C、D、F、X，共6個等級
   - 3月21日，[Mnet的](https://zh.wikipedia.org/wiki/Mnet "wikilink")[M\!
@@ -1152,7 +1152,208 @@
 
   - 主題評價分組與練習——2019年6月1日 02:00至2019年6月8日01:00
     期間，經網路投票選出適合練習生主題風格的歌曲，每一首歌最高票數的12人進入該組。
-      - 第二次排名被淘汰的人無法參加主題評價演出。
+      - （L）代表隊長，（C）代表C位，**粗字**為晉級練習生
+
+<table>
+<thead>
+<tr class="header">
+<th><p>主題評價最初分組名單</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>作曲家</p></td>
+</tr>
+<tr class="even">
+<td><p>KZ、<br />
+Nthonius、<br />
+The-Private</p></td>
+</tr>
+<tr class="odd">
+<td><p>DSP Media</p></td>
+</tr>
+<tr class="even">
+<td><p>iMe KOREA</p></td>
+</tr>
+<tr class="odd">
+<td><p>Maroo娛樂</p></td>
+</tr>
+<tr class="even">
+<td><p>BRAND NEW MUSIC</p></td>
+</tr>
+<tr class="odd">
+<td><p>STARSHIP</p></td>
+</tr>
+<tr class="even">
+<td><p>STARSHIP</p></td>
+</tr>
+<tr class="odd">
+<td><p>STARSHIP</p></td>
+</tr>
+<tr class="even">
+<td><p>STARSHIP</p></td>
+</tr>
+<tr class="odd">
+<td><p>Woollim娛樂</p></td>
+</tr>
+<tr class="even">
+<td><p>Woollim娛樂</p></td>
+</tr>
+<tr class="odd">
+<td><p>Jellyfish娛樂</p></td>
+</tr>
+<tr class="even">
+<td><p>權德根、<br />
+Yonug Chance</p></td>
+</tr>
+<tr class="odd">
+<td><p>E娛樂</p></td>
+</tr>
+<tr class="even">
+<td><p>MLD Entertainment</p></td>
+</tr>
+<tr class="odd">
+<td><p>Sidus HQ</p></td>
+</tr>
+<tr class="even">
+<td><p>YG娛樂</p></td>
+</tr>
+<tr class="odd">
+<td><p>個人練習生</p></td>
+</tr>
+<tr class="even">
+<td><p>個人練習生</p></td>
+</tr>
+<tr class="odd">
+<td><p>THE SOUTH</p></td>
+</tr>
+<tr class="even">
+<td><p>STARSHIP</p></td>
+</tr>
+<tr class="odd">
+<td><p>A.conic娛樂</p></td>
+</tr>
+<tr class="even">
+<td><p>Woollim娛樂</p></td>
+</tr>
+<tr class="odd">
+<td><p>Cre.Ker娛樂</p></td>
+</tr>
+<tr class="even">
+<td><p>ZICO、<br />
+Poptime</p></td>
+</tr>
+<tr class="odd">
+<td><p>ESteem娛樂</p></td>
+</tr>
+<tr class="even">
+<td><p>MBK娛樂</p></td>
+</tr>
+<tr class="odd">
+<td><p>NEST娛樂</p></td>
+</tr>
+<tr class="even">
+<td><p>Plan A娛樂</p></td>
+</tr>
+<tr class="odd">
+<td><p>Music Works</p></td>
+</tr>
+<tr class="even">
+<td><p>Vine娛樂</p></td>
+</tr>
+<tr class="odd">
+<td><p>BRAND NEW MUSIC</p></td>
+</tr>
+<tr class="even">
+<td><p>Stone Music Entertainment</p></td>
+</tr>
+<tr class="odd">
+<td><p>Source Music</p></td>
+</tr>
+<tr class="even">
+<td><p>樂華娛樂</p></td>
+</tr>
+<tr class="odd">
+<td><p>TOP Media</p></td>
+</tr>
+<tr class="even">
+<td><p>Primeboi、<br />
+12!3</p></td>
+</tr>
+<tr class="odd">
+<td><p>紅熠文化</p></td>
+</tr>
+<tr class="even">
+<td><p>紅熠文化</p></td>
+</tr>
+<tr class="odd">
+<td><p>個人練習生</p></td>
+</tr>
+<tr class="even">
+<td><p>個人練習生</p></td>
+</tr>
+<tr class="odd">
+<td><p>Maroo娛樂</p></td>
+</tr>
+<tr class="even">
+<td><p>Maroo娛樂</p></td>
+</tr>
+<tr class="odd">
+<td><p>BRAND NEW MUSIC</p></td>
+</tr>
+<tr class="even">
+<td><p>Around US娛樂</p></td>
+</tr>
+<tr class="odd">
+<td><p>Around US娛樂</p></td>
+</tr>
+<tr class="even">
+<td><p>Woollim娛樂</p></td>
+</tr>
+<tr class="odd">
+<td><p>Fantagio</p></td>
+</tr>
+<tr class="even">
+<td><p>Noheul、<br />
+Sean Michael Alexander、<br />
+Drew Ryan Scott</p></td>
+</tr>
+<tr class="odd">
+<td><p>MBK娛樂</p></td>
+</tr>
+<tr class="even">
+<td><p>Plan A娛樂</p></td>
+</tr>
+<tr class="odd">
+<td><p>YG娛樂</p></td>
+</tr>
+<tr class="even">
+<td><p>個人練習生</p></td>
+</tr>
+<tr class="odd">
+<td><p>Music Works</p></td>
+</tr>
+<tr class="even">
+<td><p>BRAND NEW MUSIC</p></td>
+</tr>
+<tr class="odd">
+<td><p>Woollim娛樂</p></td>
+</tr>
+<tr class="even">
+<td><p>Woollim娛樂</p></td>
+</tr>
+<tr class="odd">
+<td><p>OUI</p></td>
+</tr>
+<tr class="even">
+<td><p>Jellyfish娛樂</p></td>
+</tr>
+<tr class="odd">
+<td><p>TOP Media</p></td>
+</tr>
+</tbody>
+</table>
+
   - 第二次排名儀式(淘汰第31-60名)
 
 | 第二次排名儀式結果   |
@@ -1220,6 +1421,128 @@
 | 59          |
 | 60          |
 
+  - X復活戰——第二次排名儀式第31-60名練習生錄制2分鐘PR影片，自2019年6月22日02:00至23:00，經網路投票選出復活的練習生。
+
+### 第九集
+
+  - 概念評價組合重整與練習。
+      - 每首歌曲組合以6位練習生為標準，組員超出的組合進行內部投票，選出被移除的組員納入組員不足的組合。
+      - 各組別第一名的練習生票數將乘以500倍；而優勝組第一名可再額外獲得十萬票、第二至第六名獲得兩萬票，共二十萬票
+  - *斜體*代表新加入組員，（L）代表隊長，（C）代表C位，（M）代表主唱/主Rapper
+
+<table>
+<thead>
+<tr class="header">
+<th><p>主題評價最終分組名單</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>作曲家</p></td>
+</tr>
+<tr class="even">
+<td><p>KZ、<br />
+Nthonius、<br />
+The-Private</p></td>
+</tr>
+<tr class="odd">
+<td><p>Maroo娛樂</p></td>
+</tr>
+<tr class="even">
+<td><p>STARSHIP</p></td>
+</tr>
+<tr class="odd">
+<td><p>STARSHIP</p></td>
+</tr>
+<tr class="even">
+<td><p>STARSHIP</p></td>
+</tr>
+<tr class="odd">
+<td><p>STARSHIP</p></td>
+</tr>
+<tr class="even">
+<td><p>權德根、<br />
+Yonug Chance</p></td>
+</tr>
+<tr class="odd">
+<td><p>C9娛樂</p></td>
+</tr>
+<tr class="even">
+<td><p>Sidus HQ</p></td>
+</tr>
+<tr class="odd">
+<td><p>個人練習生</p></td>
+</tr>
+<tr class="even">
+<td><p>Music Works</p></td>
+</tr>
+<tr class="odd">
+<td><p>BRAND NEW MUSIC</p></td>
+</tr>
+<tr class="even">
+<td><p>ZICO、<br />
+Poptime</p></td>
+</tr>
+<tr class="odd">
+<td><p>Plan A娛樂</p></td>
+</tr>
+<tr class="even">
+<td><p>Music Works</p></td>
+</tr>
+<tr class="odd">
+<td><p>Source Music</p></td>
+</tr>
+<tr class="even">
+<td><p>樂華娛樂</p></td>
+</tr>
+<tr class="odd">
+<td><p>TOP Media</p></td>
+</tr>
+<tr class="even">
+<td><p>Primeboi、<br />
+12!3</p></td>
+</tr>
+<tr class="odd">
+<td><p>iMe KOREA</p></td>
+</tr>
+<tr class="even">
+<td><p>MBK娛樂</p></td>
+</tr>
+<tr class="odd">
+<td><p>個人練習生</p></td>
+</tr>
+<tr class="even">
+<td><p>Woollim娛樂</p></td>
+</tr>
+<tr class="odd">
+<td><p>Jellyfish娛樂</p></td>
+</tr>
+<tr class="even">
+<td><p>Woollim娛樂</p></td>
+</tr>
+<tr class="odd">
+<td><p>Noheul、<br />
+Sean Michael Alexander、<br />
+Drew Ryan Scott</p></td>
+</tr>
+<tr class="even">
+<td><p>BRAND NEW MUSIC</p></td>
+</tr>
+<tr class="odd">
+<td><p>Woollim娛樂</p></td>
+</tr>
+<tr class="even">
+<td><p>Woollim娛樂</p></td>
+</tr>
+<tr class="odd">
+<td><p>OUI</p></td>
+</tr>
+<tr class="even">
+<td><p>TOP Media</p></td>
+</tr>
+</tbody>
+</table>
+
 ## 排名
 
 每集尾段會展示各練習生的排名，而於最後一集排名前十以及前十外4次評價(分組對抗、定位、概念曲、出道評價)的總票數最高的練習生共十一名將會成為一個團體，以該團活動五年，其中2.5年為專任制，另2.5年則是兼任制。
@@ -1272,6 +1595,7 @@
 | 63       |
 | 64       |
 | 66       |
+| 80       |
 | 83       |
 | 84       |
 | 85       |
@@ -1284,7 +1608,6 @@
 | 第四輪淘汰成員  |
 | 第三輪淘汰成員  |
 | 第二輪淘汰成員  |
-| 80       |
 | 62       |
 | 15       |
 | 79       |
@@ -1570,6 +1893,14 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>80</p></td>
+<td><p>金東玧</p></td>
+<td><p>김동윤</p></td>
+<td><p><a href="../Page/Woollim娛樂.md" title="wikilink">Woollim娛樂</a></p></td>
+<td><p>ㄅ</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>83</p></td>
 <td><p>朱昌旭</p></td>
 <td><p>주창욱</p></td>
@@ -1577,7 +1908,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>84</p></td>
 <td><p>車俊昊</p></td>
 <td><p>차준호</p></td>
@@ -1585,7 +1916,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>85</p></td>
 <td><p>黃允聖</p></td>
 <td><p>황윤성</p></td>
@@ -1593,7 +1924,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>86</p></td>
 <td><p>金曜漢</p></td>
 <td><p>김요한</p></td>
@@ -1601,7 +1932,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>88</p></td>
 <td><p><a href="../Page/曹承衍.md" title="wikilink">曹承衍</a></p></td>
 <td><p>조승연</p></td>
@@ -1609,7 +1940,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>90</p></td>
 <td><p>金旻奎</p></td>
 <td><p>김민규</p></td>
@@ -1617,7 +1948,7 @@
 <td><p>18</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>97</p></td>
 <td><p>金宇碩</p></td>
 <td><p>김우석</p></td>
@@ -1625,7 +1956,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>98</p></td>
 <td><p>李鎭赫</p></td>
 <td><p>이진혁</p></td>
@@ -1633,7 +1964,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>最终组合出道成员</p></td>
 <td></td>
 <td></td>
@@ -1641,7 +1972,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>第四輪淘汰成員</p></td>
 <td></td>
 <td></td>
@@ -1649,7 +1980,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>第三輪淘汰成員</p></td>
 <td></td>
 <td></td>
@@ -1657,7 +1988,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>第二輪淘汰成員</p></td>
 <td></td>
 <td></td>
@@ -1665,7 +1996,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2</p></td>
 <td><p>李美談</p></td>
 <td><p>이미담</p></td>
@@ -1673,7 +2004,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>6</p></td>
 <td><p>Peak</p></td>
 <td><p>픽</p></td>
@@ -1681,7 +2012,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>14</p></td>
 <td><p>朴俞里</p></td>
 <td><p>박유리</p></td>
@@ -1689,7 +2020,7 @@
 <td><p>ESteem娛樂}}</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>15</p></td>
 <td><p>元奕</p></td>
 <td><p>원혁</p></td>
@@ -1697,7 +2028,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>16</p></td>
 <td><p>李沅俊</p></td>
 <td><p>이원준</p></td>
@@ -1705,7 +2036,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>19</p></td>
 <td><p>魏子越</p></td>
 <td><p>위자월</p></td>
@@ -1713,7 +2044,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>27</p></td>
 <td><p>金東彬</p></td>
 <td><p>김동빈</p></td>
@@ -1721,7 +2052,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>28</p></td>
 <td><p>朴允率</p></td>
 <td><p>박윤솔</p></td>
@@ -1729,7 +2060,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>36</p></td>
 <td><p><a href="../Page/王君豪.md" title="wikilink">王君豪</a></p></td>
 <td><p>왕군호</p></td>
@@ -1737,7 +2068,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>37</p></td>
 <td><p>日高真尋</p></td>
 <td><p>히다카 마히로</p></td>
@@ -1745,7 +2076,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>38</p></td>
 <td><p>姜碩華</p></td>
 <td><p>강석화</p></td>
@@ -1753,7 +2084,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>39</p></td>
 <td><p><a href="../Page/金成淵.md" title="wikilink">金成淵</a></p></td>
 <td><p>김성연</p></td>
@@ -1761,7 +2092,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>41</p></td>
 <td><p>李宥珍</p></td>
 <td><p>이유진</p></td>
@@ -1769,7 +2100,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>47</p></td>
 <td><p>南東鉉</p></td>
 <td><p>남동현</p></td>
@@ -1777,7 +2108,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>49</p></td>
 <td><p>李宇真</p></td>
 <td><p>이우진</p></td>
@@ -1785,7 +2116,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>51</p></td>
 <td><p>李太勝</p></td>
 <td><p>이태승</p></td>
@@ -1793,7 +2124,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>55</p></td>
 <td><p>白眞</p></td>
 <td><p>백진</p></td>
@@ -1801,7 +2132,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>57</p></td>
 <td><p>尹正煥</p></td>
 <td><p>윤정환</p></td>
@@ -1809,7 +2140,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>59</p></td>
 <td><p>洪誠俊</p></td>
 <td><p>홍성준</p></td>
@@ -1817,7 +2148,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>62</p></td>
 <td><p>文賢彬</p></td>
 <td><p>문현빈</p></td>
@@ -1825,7 +2156,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>65</p></td>
 <td><p><a href="../Page/金成賢.md" title="wikilink">金成賢</a></p></td>
 <td><p>김성현</p></td>
@@ -1833,7 +2164,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>72</p></td>
 <td><p>禹濟元</p></td>
 <td><p>우제원</p></td>
@@ -1841,7 +2172,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>73</p></td>
 <td><p>鄭在訓</p></td>
 <td><p>정재훈</p></td>
@@ -1849,19 +2180,11 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>79</p></td>
 <td><p>權泰恩</p></td>
 <td><p>권태은</p></td>
 <td><p>A.conic娛樂</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>80</p></td>
-<td><p>金東玧</p></td>
-<td><p>김동윤</p></td>
-<td><p><a href="../Page/Woollim娛樂.md" title="wikilink">Woollim娛樂</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -2333,7 +2656,7 @@
 <tr class="even">
 <td><p>2</p></td>
 <td><p>2019年5月10日</p></td>
-<td></td>
+<td><p>2.309%</p></td>
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
@@ -2363,12 +2686,12 @@
 <tr class="even">
 <td><p>8</p></td>
 <td><p>2019年6月21日</p></td>
-<td><p>%</p></td>
+<td><p>2.183%</p></td>
 </tr>
 <tr class="odd">
 <td><p>9</p></td>
 <td><p>2019年6月28日</p></td>
-<td><p>%</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>10</p></td>

@@ -10,9 +10,18 @@
 
 不過上述改動無法令本路線扭虧為盈，當局為使該路線服務得以維持，特別批出由[大坑徑往返](https://zh.wikipedia.org/wiki/大坑徑 "wikilink")[禮頓山的輔助路線予胡隆進經營](https://zh.wikipedia.org/wiki/禮頓山 "wikilink")，冀以新線的盈利補貼本線的虧損。該特別班次於1980年投入服務，惟該特別班次投入服務後不久，本路線即取消服務，而特別班次則被編為[21線](../Page/香港島專線小巴21M線.md "wikilink")。\[6\]
 
-直至1982年8月22日，本路線線投入服務，當時來往大坑徑及[樂景台](https://zh.wikipedia.org/wiki/樂景臺 "wikilink")，來回程途經敬誠街，只於星期一至六行走，收費$1.5\[7\]\[8\]。在1985年，路線縮短為循環來往銅鑼灣（敬誠街）及[包華士道](https://zh.wikipedia.org/wiki/包華士道 "wikilink")，駛至[大坑道後經](../Page/大坑道.md "wikilink")[白建時道](../Page/白建時道.md "wikilink")、[布思道](https://zh.wikipedia.org/wiki/布思道 "wikilink")、[谷柏道](https://zh.wikipedia.org/wiki/谷柏道 "wikilink")、[祈禮士道及](https://zh.wikipedia.org/wiki/祈禮士道 "wikilink")[白建時道](../Page/白建時道.md "wikilink")。同年5月31日14:00起，配合地下鐵路[港島綫通車](../Page/港島綫.md "wikilink")，本路線改稱**14M線**，銅鑼灣總站遷往[白沙道](../Page/白沙道.md "wikilink")。\[9\]
+直至1982年8月22日，本路線才重新投入服務，當時來往大坑徑及[樂景台](https://zh.wikipedia.org/wiki/樂景臺 "wikilink")，來回程途經敬誠街，只於星期一至六行走，收費$1.5\[7\]\[8\]。在1985年，路線縮短為循環來往銅鑼灣（敬誠街）及[包華士道](https://zh.wikipedia.org/wiki/包華士道 "wikilink")，駛至[大坑道後經](../Page/大坑道.md "wikilink")[白建時道](../Page/白建時道.md "wikilink")、[布思道](https://zh.wikipedia.org/wiki/布思道 "wikilink")、[谷柏道](https://zh.wikipedia.org/wiki/谷柏道 "wikilink")、[祈禮士道及](https://zh.wikipedia.org/wiki/祈禮士道 "wikilink")[白建時道](../Page/白建時道.md "wikilink")。同年5月31日14:00起，配合地下鐵路[港島綫通車](../Page/港島綫.md "wikilink")，本路線改稱**14M線**，銅鑼灣總站遷往[白沙道](../Page/白沙道.md "wikilink")。\[9\]
 
 在1988年11月1日，本路線和[香港島專線小巴21M線進行路線重組](../Page/香港島專線小巴21M線.md "wikilink")，本路線由包華士道延長至[睦誠道](https://zh.wikipedia.org/wiki/睦誠道 "wikilink")，在[大坑道後改經](../Page/大坑道.md "wikilink")[白建時道](../Page/白建時道.md "wikilink")、[睦誠道](https://zh.wikipedia.org/wiki/睦誠道 "wikilink")（\[掉頭）、[白建時道](../Page/白建時道.md "wikilink")、[包華士道](https://zh.wikipedia.org/wiki/包華士道 "wikilink")、[衛信道](https://zh.wikipedia.org/wiki/衛信道 "wikilink")、[谷柏道](https://zh.wikipedia.org/wiki/谷柏道 "wikilink")、[祈禮士道及](https://zh.wikipedia.org/wiki/祈禮士道 "wikilink")[白建時道](../Page/白建時道.md "wikilink")，尾班車由20:30延遲至22:00（翌年進一步延至23:30）。\[10\]
+
+在90年代，本路線增設區間班次，由銅鑼灣來往[樂翠台及](../Page/樂翠台.md "wikilink")[樂陶苑](https://zh.wikipedia.org/wiki/樂陶苑 "wikilink")，前者全日提供服務，後者則只於平日早上及中午提供服務。
+
+## 服務時間及班次
+
+| [銅鑼灣](../Page/銅鑼灣.md "wikilink")（[蘭芳道](../Page/蘭芳道.md "wikilink")）開 |
+| ------------------------------------------------------------------- |
+| **日期**                                                              |
+| 每天                                                                  |
 
 ## 參考資料
 

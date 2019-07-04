@@ -156,7 +156,7 @@
 </tr>
 <tr class="odd">
 <td><p>5月27日</p></td>
-<td><p>找不同</p></td>
+<td></td>
 <td><p><a href="../Page/菅田將暉.md" title="wikilink">菅田將暉</a></p></td>
 <td><p>9.9</p></td>
 <td><p>[16]</p></td>
@@ -188,6 +188,13 @@
 <td><p>[20]</p></td>
 <td></td>
 <td></td>
+</tr>
+<tr class="even">
+<td><p>7月1日</p></td>
+<td></td>
+<td><p><a href="../Page/SPITZ.md" title="wikilink">SPITZ</a></p></td>
+<td><p>5.2</p></td>
+<td><p>[21]</p></td>
 </tr>
 </tbody>
 </table>
@@ -240,3 +247,4 @@
     初週DL数は今年度最高【オリコンランキング】](https://www.oricon.co.jp/news/2137417/)
 20. [東方神起・ユンホ、デジタルALが1位
     米津玄師がデジタルSGで2週連続1位【オリコンランキング】](https://www.oricon.co.jp/news/2137973/)
+21. [スピッツ『なつぞら』主題歌がデジタルシングル1位【オリコンランキング】](https://www.oricon.co.jp/news/2138518/full/)

@@ -11,7 +11,7 @@ Kim成立\[1\]目前旗下有20名編舞家，其中有12位女編舞家及8位�
   - Yoojung Lee
   - Jin Lee
   - Hyojin Choi
-  - Minyoung Park
+  - Minny Park
   - Tina Boo
   - Ara Cho
   - Jane Kim

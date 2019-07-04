@@ -4,15 +4,15 @@
 
 ### 韓語
 
-| 順序 | 發佈日期（[韓國時間](../Page/韩国标准时.md "wikilink")） | 歌曲名稱                                                                                                | 收錄專輯                                                                                | 導演（音譯）    | 音樂影片   |
-| -- | ----------------------------------------- | --------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | --------- | ------ |
-| 1  | 2016年8月8日                                 | 《[Boombayah](https://zh.wikipedia.org/wiki/Boombayah "wikilink")》（）                                 | 《[Square One](https://zh.wikipedia.org/wiki/Square_One_\(BLACKPINK單曲\) "wikilink")》 | 徐賢勝\[1\]  | \[2\]  |
-| 2  | 2016年8月8日                                 | 《[口哨](https://zh.wikipedia.org/wiki/口哨_\(BLACKPINK歌曲\) "wikilink")》（）                               | 辛希元\[3\]                                                                            | \[4\]     |        |
-| 3  | 2016年11月1日                                | 《[Playing with Fire](https://zh.wikipedia.org/wiki/Playing_with_Fire_\(BLACKPINK歌曲\) "wikilink")》（） | 《[Square Two](https://zh.wikipedia.org/wiki/Square_Two "wikilink")》                 | 徐賢勝       | \[5\]  |
-| 4  | 2016年11月1日                                | 《[Stay](https://zh.wikipedia.org/wiki/Stay_\(BLACKPINK歌曲\) "wikilink")》                             | 韓司敏\[6\]                                                                            | \[7\]     |        |
-| 5  | 2017年6月22日                                | 《[As If It's Your Last](../Page/As_If_It's_Your_Last.md "wikilink")》（）                              | 《[Blackpink](../Page/Blackpink_\(迷你專輯\).md "wikilink")》                             | 徐賢勝       | \[8\]  |
-| 6  | 2018年6月15日                                | 《[Ddu-Du Ddu-Du](https://zh.wikipedia.org/wiki/Ddu-Du_Ddu-Du "wikilink")》（）                         | 《[Square Up](https://zh.wikipedia.org/wiki/Square_Up_\(迷你專輯\) "wikilink")》          | 徐賢勝\[9\]  | \[10\] |
-| 7  | 2019年4月5日                                 | 《[Kill This Love](https://zh.wikipedia.org/wiki/Kill_This_Love_\(歌曲\) "wikilink")》                  | 《[Kill This Love](../Page/Kill_This_Love.md "wikilink")》                            | 徐賢勝\[11\] | \[12\] |
+| 順序 | 發佈日期（[韓國時間](../Page/韩国标准时.md "wikilink")） | 歌曲名稱                                                                                                | 收錄專輯                                                                       | 導演（音譯）    | 音樂影片   |
+| -- | ----------------------------------------- | --------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | --------- | ------ |
+| 1  | 2016年8月8日                                 | 《[Boombayah](https://zh.wikipedia.org/wiki/Boombayah "wikilink")》（）                                 | 《[Square One](../Page/Square_One_\(BLACKPINK單曲\).md "wikilink")》           | 徐賢勝\[1\]  | \[2\]  |
+| 2  | 2016年8月8日                                 | 《[口哨](https://zh.wikipedia.org/wiki/口哨_\(BLACKPINK歌曲\) "wikilink")》（）                               | 辛希元\[3\]                                                                   | \[4\]     |        |
+| 3  | 2016年11月1日                                | 《[Playing with Fire](https://zh.wikipedia.org/wiki/Playing_with_Fire_\(BLACKPINK歌曲\) "wikilink")》（） | 《[Square Two](https://zh.wikipedia.org/wiki/Square_Two "wikilink")》        | 徐賢勝       | \[5\]  |
+| 4  | 2016年11月1日                                | 《[Stay](https://zh.wikipedia.org/wiki/Stay_\(BLACKPINK歌曲\) "wikilink")》                             | 韓司敏\[6\]                                                                   | \[7\]     |        |
+| 5  | 2017年6月22日                                | 《[As If It's Your Last](../Page/As_If_It's_Your_Last.md "wikilink")》（）                              | 《[Blackpink](../Page/Blackpink_\(迷你專輯\).md "wikilink")》                    | 徐賢勝       | \[8\]  |
+| 6  | 2018年6月15日                                | 《[Ddu-Du Ddu-Du](https://zh.wikipedia.org/wiki/Ddu-Du_Ddu-Du "wikilink")》（）                         | 《[Square Up](https://zh.wikipedia.org/wiki/Square_Up_\(迷你專輯\) "wikilink")》 | 徐賢勝\[9\]  | \[10\] |
+| 7  | 2019年4月5日                                 | 《[Kill This Love](https://zh.wikipedia.org/wiki/Kill_This_Love_\(歌曲\) "wikilink")》                  | 《[Kill This Love](../Page/Kill_This_Love.md "wikilink")》                   | 徐賢勝\[11\] | \[12\] |
 
 ### 日語
 
@@ -120,7 +120,7 @@ DVD</a></p></td>
 <tr class="even">
 <td><p>JP1st</p></td>
 <td><center>
-<p>《<strong><a href="https://zh.wikipedia.org/wiki/BLACKPINK_Arena_Tour_2018_&quot;Special_Final_in_Kyocera_Dome_Osaka&quot;" title="wikilink">BLACKPINK Arena Tour 2018 "Special Final in Kyocera Dome Osaka"</a></strong>》</p>
+<p>《<strong><a href="../Page/BLACKPINK_Arena_Tour_2018_&quot;Special_Final_in_Kyocera_Dome_Osaka&quot;.md" title="wikilink">BLACKPINK Arena Tour 2018 "Special Final in Kyocera Dome Osaka"</a></strong>》</p>
 </center>
 <ul>
 <li>發行日期：2019年3月22日<small>（日本）</small>[33]</li>

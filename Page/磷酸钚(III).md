@@ -3,7 +3,7 @@
 ## 制备
 
 磷酸钚(III)可由[二氧化钚和](../Page/二氧化钚.md "wikilink")[磷酸氢二铵在](../Page/磷酸氢二铵.md "wikilink")1000
-°C反应得到，产物可能由于原料<sup>241</sup>Pu的衰变而带有很少的镅。\[1\][磷酸硼和二氧化钚反应则会得到磷酸钚](../Page/磷酸硼.md "wikilink")(III)和[焦磷酸钚(IV)的混合物](https://zh.wikipedia.org/wiki/焦磷酸钚\(IV\) "wikilink")；\[2\]若和[三氟化钚高温反应](../Page/三氟化钚.md "wikilink")，可以得到纯净的磷酸钚(III)：\[3\]
+°C反应得到，产物可能由于原料<sup>241</sup>Pu的衰变而带有很少的镅。\[1\][磷酸硼和二氧化钚反应则会得到磷酸钚](../Page/磷酸硼.md "wikilink")(III)和[焦磷酸钚(IV)的混合物](../Page/焦磷酸钚\(IV\).md "wikilink")；\[2\]若和[三氟化钚高温反应](../Page/三氟化钚.md "wikilink")，可以得到纯净的磷酸钚(III)：\[3\]
 
   -
     PuF<sub>3</sub> + BPO<sub>4</sub> → PuPO<sub>4</sub> +

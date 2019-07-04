@@ -63,7 +63,6 @@ Black](../Page/BeagleBoard.md "wikilink")[单板计算机上的IDE本机](../Pag
   - [SourceLair](https://zh.wikipedia.org/wiki/SourceLair "wikilink")
   - [Koding](https://zh.wikipedia.org/wiki/Koding "wikilink")
   - [Codeanywhere](https://zh.wikipedia.org/wiki/Codeanywhere "wikilink")
-  - [在线JavaScript IDE](../Page/JavaScript.md "wikilink")
   - [PaizaCloud Cloud
     IDE](https://zh.wikipedia.org/wiki/PaizaCloud_Cloud_IDE "wikilink")
 

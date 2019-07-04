@@ -17,8 +17,8 @@
 ## 另見
 
   - [索尼α7相機比較](../Page/索尼α7.md "wikilink")
-  - [索尼α7III](https://zh.wikipedia.org/wiki/索尼α7III "wikilink")
-  - [索尼α9](https://zh.wikipedia.org/wiki/索尼α9 "wikilink")
+  - [索尼α7III](../Page/索尼α7III.md "wikilink")
+  - [索尼α9](../Page/索尼α9.md "wikilink")
   - [Exmor R](../Page/Exmor.md "wikilink")
 
 ## 參考文獻

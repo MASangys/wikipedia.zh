@@ -104,7 +104,7 @@ Champion](../Page/Show_Champion.md "wikilink")》再次取得一位。\[19\]
 <li>發行日期 ：2019年5月22日</li>
 <li>語言：韓語</li>
 <li>類型：Ballad, Dance</li>
-<li>銷量：120,000+<ref>Gaon Album Chart專輯销量排名《B:COMPLETE》</li>
+<li>銷量：106,790+<ref>Gaon Album Chart專輯销量排名《B:COMPLETE》</li>
 </ul>
 <p><a href="http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&amp;serviceGbn=&amp;targetTime=05&amp;hitYear=2019&amp;termGbn=month">2019年5月GAON專輯榜第5名</a> </ref></p></td>
 <td></td>
@@ -212,6 +212,13 @@ Champion](../Page/Show_Champion.md "wikilink")》再次取得一位。\[19\]
 <td><p>EP620</p></td>
 </tr>
 <tr class="even">
+<td><p>2019年6月23日</p></td>
+<td><p><a href="../Page/JTBC.md" title="wikilink">JTBC2</a></p></td>
+<td><p>RUN.wav (런웨이브)</p></td>
+<td><p>全員</p></td>
+<td><p>EP1[21]</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -277,7 +284,7 @@ Champion](../Page/Show_Champion.md "wikilink")》再次取得一位。\[19\]
 | 年份    | |作品名稱          | |期數         | |合作品牌  | |備註        |
 | ----- | -------------- | ----------- | ------ | ---------- |
 | 2019年 | atstar 1 Korea | 5月號/Vol.86  | acwell | 封底         |
-| 2019年 | atstar 1 Korea | 6月號/Vol.87  | 倩碧     | 朴佑鎭 \[21\] |
+| 2019年 | atstar 1 Korea | 6月號/Vol.87  | 倩碧     | 朴佑鎭 \[22\] |
 | 2019年 | 1st Look       | 6月號/vol.176 | acwell | 封底         |
 | 2019年 | THE STAR       | 6月號         |        | 封底         |
 |       |                |             |        |            |
@@ -292,7 +299,7 @@ Champion](../Page/Show_Champion.md "wikilink")》再次取得一位。\[19\]
 
 ### 官方粉絲見面會
 
-  - AB6IX 1ST FANMEETING \[1ST ABNEW\] TOUR\[22\]
+  - AB6IX 1ST FANMEETING \[1ST ABNEW\] TOUR\[23\]
 
 | 日期            | 城市  | 舉辦地點               |
 | ------------- | --- | ------------------ |
@@ -402,5 +409,6 @@ Champion](../Page/Show_Champion.md "wikilink")》再次取得一位。\[19\]
 19.
 20.
 21.
-22. [1ST FANMEETING 1ST ABNEW
+22.
+23. [1ST FANMEETING 1ST ABNEW
     TOUR](https://twitter.com/AB6IX/status/1135380600968212481%7Ctitle=AB6IX)

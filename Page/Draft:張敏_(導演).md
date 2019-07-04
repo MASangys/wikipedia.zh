@@ -61,6 +61,9 @@
 <http://hkmdb.com/db/people/view.mhtml?id=12336&display_set=big5>
 <https://www.smmy365.com/detail/star/1380.html>
 <https://ent.sina.cn/tv/tv/2011-02-24/detail-icesifvx5978760.d.html>
+<https://hk.entertainment.appledaily.com/entertainment/daily/article/20190626/20713086>
+<https://www.exmoo.com/article/112661.html>
+<https://hk.on.cc/hk/bkn/cnt/entertainment/20190625/bkn-20190625172939166-0625_00862_001.html>
 
 ## 外部連結
 

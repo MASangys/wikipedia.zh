@@ -51,7 +51,7 @@ Card製卡機，但因成本過高而未能擴大裝設\[5\]。JR東日本於201
 [Category:日本國有鐵道](https://zh.wikipedia.org/wiki/Category:日本國有鐵道 "wikilink")
 [Category:JR集團](https://zh.wikipedia.org/wiki/Category:JR集團 "wikilink")
 [Category:1985年日本建立](https://zh.wikipedia.org/wiki/Category:1985年日本建立 "wikilink")
-[Category:2013年日本廢除‎](https://zh.wikipedia.org/wiki/Category:2013年日本廢除‎ "wikilink")
+[Category:2013年日本廢除](https://zh.wikipedia.org/wiki/Category:2013年日本廢除 "wikilink")
 [Category:卡片](https://zh.wikipedia.org/wiki/Category:卡片 "wikilink")
 
 1.

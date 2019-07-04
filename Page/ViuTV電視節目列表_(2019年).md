@@ -819,7 +819,7 @@ Nothing Can Break Us Apart</p></td>
 <tr class="even">
 <td style="text-align: center;"><p>08/07-<br />
 26/07</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/AUNTIE_GIGI_美味駕到" title="wikilink">AUNTIE GIGI 美味駕到</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Cooking_Gigi_台灣篇" title="wikilink">Cooking Gigi 台灣篇</a><br />
 </p></td>
 <td style="text-align: center;"><p>15</p></td>
 <td style="text-align: center;"><p>主持：<a href="../Page/黃淑儀.md" title="wikilink">黃淑儀</a>、、</p></td>
@@ -901,9 +901,11 @@ X-Sighting Niseko</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/厲害了！蘇哥兒" title="wikilink">厲害了！蘇哥兒</a><br />
 So Amazing</p></td>
 <td style="text-align: center;"><p>15</p></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/蘇施黃.md" title="wikilink">蘇施黃</a>、<a href="../Page/和泉素行.md" title="wikilink">和泉素行</a></p></td>
+<td style="text-align: center;"><p>主持：<a href="../Page/蘇施黃.md" title="wikilink">蘇施黃</a>、<a href="../Page/和泉素行.md" title="wikilink">和泉素行</a><br />
+旁白：</p></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"><p><strong>旅遊節目</strong></p></td>
+<td style="text-align: center;"><p><strong>旅遊節目</strong><br />
+7月1日暫停播映，7月12日改為23:00-00:00播出（連續播映兩集）</p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>15/07-<br />
@@ -975,7 +977,7 @@ Pak Pak Partner</p></td>
 <td style="text-align: center;"><p>主持：<a href="../Page/丁可欣.md" title="wikilink">丁可欣</a>、<a href="../Page/朱凱頌.md" title="wikilink">Picco</a>、<a href="https://zh.wikipedia.org/wiki/呂穎恆" title="wikilink">Vera</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>娛樂清談節目</strong><br />
-6月17日改為23:50-00:20播出</p></td>
+6月17日改為23:50-00:20播出，7月1日暫停播映</p></td>
 </tr>
 </tbody>
 </table>
@@ -1151,7 +1153,7 @@ One Beside You 3</p></td>
 <td style="text-align: center;"><p>主持：<a href="../Page/潘紹聰.md" title="wikilink">潘紹聰</a>、<a href="../Page/符致逸.md" title="wikilink">符致逸</a>、、<a href="../Page/岑樂怡.md" title="wikilink">岑樂怡</a>、</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>娛樂清談節目</strong><br />
-1月11日、2月8日及3月15日暫停播映</p></td>
+1月11日、2月8日、3月15日及7月12日暫停播映</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>08/02</p></td>
@@ -1210,12 +1212,13 @@ Luck Beside You</p></td>
 03/07</p></td>
 <td style="text-align: center;"><p><br />
 XXYX</p></td>
-<td style="text-align: center;"><p>3<br />
+<td style="text-align: center;"><p>2<br />
 (4)</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
 <p><span style="font-size:larger;"><strong>重播節目：</strong><a href="../Page/ViuTV電視節目列表_(2018年).md" title="wikilink">2018年ViuTV節目</a></span></p>
 </div></td>
-<td style="text-align: center;"><p><strong>真人騷</strong></p></td>
+<td style="text-align: center;"><p><strong>真人騷</strong><br />
+7月2日因臨時插播特別新聞報道關係暫停播映</p></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
@@ -1628,7 +1631,8 @@ Chef Nic</p></td>
 <p><span style="font-size:larger;"><strong>重播節目</strong>：<a href="../Page/ViuTV電視節目列表_(2018年).md" title="wikilink">2018年ViuTV節目</a></span></p>
 </div></td>
 <td style="text-align: center;"><p><strong>真人秀</strong><br />
-外購節目（<a href="../Page/中國.md" title="wikilink">中國</a><a href="https://zh.wikipedia.org/wiki/優酷網" title="wikilink">優酷網</a>），不設粵語配音</p></td>
+外購節目（<a href="../Page/中國.md" title="wikilink">中國</a><a href="https://zh.wikipedia.org/wiki/優酷網" title="wikilink">優酷網</a>），不設粵語配音，8月10日、17日及31日改為10:45-11:45播出<br />
+每集播映前，將會播映由ViuTV製作的前奏節目《鋒味前奏》（主持：<a href="../Page/謝霆鋒.md" title="wikilink">謝霆鋒</a>、<a href="../Page/火火.md" title="wikilink">火火</a>）</p></td>
 <td style="text-align: center;"></td>
 </tr>
 </tbody>
@@ -1936,9 +1940,9 @@ Business Talk 2019</p></td>
 <tr class="even">
 <td style="text-align: center;"><p>11/05-<br />
 </p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/中醫「症」解" title="wikilink">中醫「症」解</a><br />
+<td style="text-align: center;"><p><a href="../Page/中醫「症」解.md" title="wikilink">中醫「症」解</a><br />
 Knowing Chinese Medicine</p></td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;"><p>13</p></td>
 <td style="text-align: center;"><p>主持：<a href="../Page/陳子豐.md" title="wikilink">陳子豐</a>、、、</p></td>
 <td style="text-align: center;"><p><a href="https://viu.tv/encore/knowing-chinese-medicine">網頁</a></p></td>
 <td style="text-align: center;"><p><strong>健康資訊節目</strong></p></td>
@@ -2174,8 +2178,8 @@ E-sport</p></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p>14/07-<br />
-06/10</p></td>
+<td style="text-align: center;"><p>28/07-<br />
+20/10</p></td>
 <td style="text-align: center;"><p><br />
 Chubby Honey</p></td>
 <td style="text-align: center;"><p>13</p></td>
@@ -2241,7 +2245,7 @@ Three Cyclists X +886MM</p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>28/04-<br />
-21/07</p></td>
+07/07</p></td>
 <td style="text-align: center;"><p><br />
 E-sport</p></td>
 <td style="text-align: center;"><p>13<br />
@@ -2250,7 +2254,7 @@ E-sport</p></td>
 <p><span style="font-size:larger;"><strong>重播節目：</strong><a href="../Page/ViuTV電視節目列表_(2017年).md" title="wikilink">2017年ViuTV節目</a></span></p>
 </div></td>
 <td style="text-align: center;"><p><strong>真人秀</strong><br />
-5月5日及6月30日改為00:30-01:00播出，6月16日改為01:15-01:45播出</p></td>
+5月5日改為00:30-01:00播出，6月16日改為01:15-01:45播出，6月30日改為00:30-01:30播出（連續播映兩集），7月7日改為01:05-02:00播出（連續播映兩集）</p></td>
 <td style="text-align: center;"></td>
 </tr>
 </tbody>
@@ -2348,7 +2352,7 @@ Super Senior</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>21/07-<br />
 </p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/義工無限期" title="wikilink">義工無限期</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/義工冇限耆" title="wikilink">義工冇限耆</a><br />
 </p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p>主持：</p></td>
@@ -2823,7 +2827,7 @@ HK Team Up</p></td>
 <td style="text-align: center;"><p><br />
 STEM</p></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"><p>主持：、、、</p></td>
+<td style="text-align: center;"><p>主持：、、、、</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>兒童節目</strong><br />
 4月14日改為12:30-13:00播出</p></td>
@@ -2895,11 +2899,11 @@ Eco Friendly Eats - Taiwan Edition</p></td>
 <td style="text-align: center;"><p>23/06-<br />
 21/07</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/有個保險_Friend" title="wikilink">有個保險 Friend</a><br />
-</p></td>
+Good Insurance Agent</p></td>
 <td style="text-align: center;"><p>5</p></td>
-<td style="text-align: center;"><p>主持：</p></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"><p><strong>資訊節目</strong></p></td>
+<td style="text-align: center;"><p>主持：<a href="../Page/張堅庭.md" title="wikilink">張堅庭</a></p></td>
+<td style="text-align: center;"><p><a href="https://viu.tv/encore/good-insurance-agent">網頁</a></p></td>
+<td style="text-align: center;"><p><strong>訪談節目</strong></p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>28/07-<br />
@@ -3093,7 +3097,7 @@ Japan Love Hotel</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/眾神的大陸" title="wikilink">眾神的大陸</a><br />
 Land of Gods</p></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/洪助昇.md" title="wikilink">洪助昇</a>、<br />
+<td style="text-align: center;"><p>演出：<a href="../Page/洪助昇.md" title="wikilink">洪助昇</a>、<br />
 旁白：<a href="../Page/東方昇.md" title="wikilink">東方昇</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>旅遊節目</strong></p></td>
@@ -3168,7 +3172,7 @@ Jing Jong Sung Lai Jai</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>06/05-<br />
-29/07</p></td>
+12/08</p></td>
 <td style="text-align: center;"><p><a href="../Page/玩_X_爆泰國.md" title="wikilink">玩 X 爆泰國</a><br />
 X-Sighting Thailand</p></td>
 <td style="text-align: center;"><p>10</p></td>
@@ -3176,7 +3180,7 @@ X-Sighting Thailand</p></td>
 <p><span style="font-size:larger;"><strong>重播節目：</strong><a href="../Page/ViuTV電視節目列表_(2018年).md" title="wikilink">2018年ViuTV節目</a></span></p>
 </div></td>
 <td style="text-align: center;"><p><strong>旅遊節目</strong><br />
-5月6日改為00:30-01:00播出，5月13日、6月10日及7月1日暫停播映</p></td>
+5月6日改為00:30-01:00播出，5月13日、6月10日、7月1日至15日暫停播映</p></td>
 <td style="text-align: center;"></td>
 </tr>
 </tbody>
@@ -3233,7 +3237,7 @@ Medicine Must Know</p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>17/06-<br />
-12/08</p></td>
+19/08</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/輝哥的饌賞" title="wikilink">輝哥的饌賞</a><br />
 Fai Gor appreciation of Bistro</p></td>
 <td style="text-align: center;"><p>9</p></td>
@@ -3241,7 +3245,7 @@ Fai Gor appreciation of Bistro</p></td>
 <p><span style="font-size:larger;"><strong>重播節目：</strong><a href="../Page/ViuTV電視節目列表_(2016年).md" title="wikilink">2016年ViuTV節目</a></span></p>
 </div></td>
 <td style="text-align: center;"><p><strong>飲食節目</strong><br />
-重播<a href="../Page/Now_101台.md" title="wikilink">Now 101台節目</a>，6月17日改為01:30-02:45播出</p></td>
+重播<a href="../Page/Now_101台.md" title="wikilink">Now 101台節目</a>，6月17日改為01:30-02:45播出，7月1日暫停播映</p></td>
 <td style="text-align: center;"></td>
 </tr>
 </tbody>
@@ -3277,7 +3281,7 @@ Fai Gor appreciation of Bistro</p></td>
 ERROR CNY Show</p></td>
 <td style="text-align: center;"><p>1</p></td>
 <td style="text-align: center;"><p>主持：<a href="../Page/ERROR_(香港男子組合).md" title="wikilink">ERROR</a><br />
-嘉賓：、<a href="../Page/劉美君.md" title="wikilink">劉美君</a>、<a href="../Page/唐寧_(香港).md" title="wikilink">唐寧</a>、<a href="https://zh.wikipedia.org/wiki/江若琳" title="wikilink">江若琳</a>、<a href="../Page/蔡卓妍.md" title="wikilink">蔡卓妍</a>、<a href="../Page/李幸倪.md" title="wikilink">Gin Lee</a>、<a href="../Page/劉浩龍.md" title="wikilink">劉浩龍</a>、<a href="../Page/黃劍文.md" title="wikilink">黃劍文</a>、<a href="../Page/李健宏.md" title="wikilink">KB</a>、<a href="https://zh.wikipedia.org/wiki/雲文子" title="wikilink">雲文子</a>、<a href="https://zh.wikipedia.org/wiki/MIRROR" title="wikilink">MIRROR</a><br />
+嘉賓：、<a href="../Page/劉美君.md" title="wikilink">劉美君</a>、<a href="../Page/唐寧_(香港).md" title="wikilink">唐寧</a>、<a href="../Page/江若琳.md" title="wikilink">江若琳</a>、<a href="../Page/蔡卓妍.md" title="wikilink">蔡卓妍</a>、<a href="../Page/李幸倪.md" title="wikilink">Gin Lee</a>、<a href="../Page/劉浩龍.md" title="wikilink">劉浩龍</a>、<a href="../Page/黃劍文.md" title="wikilink">黃劍文</a>、<a href="../Page/李健宏.md" title="wikilink">KB</a>、<a href="https://zh.wikipedia.org/wiki/雲文子" title="wikilink">雲文子</a>、<a href="https://zh.wikipedia.org/wiki/MIRROR" title="wikilink">MIRROR</a><br />
 演出：、、、</p></td>
 <td style="text-align: center;"><p><a href="https://viu.tv/encore/error-cny-show">網頁</a></p></td>
 <td style="text-align: center;"><p><strong>賀年節目</strong><br />

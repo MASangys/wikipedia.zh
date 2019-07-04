@@ -6,19 +6,17 @@
 
 ## 演員表
 
-  - 小鳥遊翔子：[米倉涼子](https://zh.wikipedia.org/wiki/米倉涼子 "wikilink")（香港配音：[王慧珠](../Page/王慧珠.md "wikilink")）
-  - 青島圭太：[林遣都](../Page/林遣都.md "wikilink")（香港配音：[張振熙](../Page/張振熙.md "wikilink")）
-  - 海崎勇人：[向井理](../Page/向井理.md "wikilink")（香港配音：[杜景煜](../Page/杜景煜.md "wikilink")）
+  - 小鳥遊翔子：[米倉涼子](https://zh.wikipedia.org/wiki/米倉涼子 "wikilink")
+  - 青島圭太：[林遣都](../Page/林遣都.md "wikilink")
+  - 海崎勇人：[向井理](../Page/向井理.md "wikilink")
   - 馬場雄一：[荒川良良](../Page/荒川良良.md "wikilink")
-  - 伊藤理惠：[安達祐實](../Page/安達祐實.md "wikilink")（香港配音：[何凱怡](https://zh.wikipedia.org/wiki/何凱怡 "wikilink")）
-  - 茅野明：[三浦翔平](../Page/三浦翔平.md "wikilink")（香港配音：[周良鴻](../Page/周良鴻.md "wikilink")）
+  - 伊藤理惠：[安達祐實](../Page/安達祐實.md "wikilink")
+  - 茅野明：[三浦翔平](../Page/三浦翔平.md "wikilink")
   - 大鷹高志：[勝村政信](../Page/勝村政信.md "wikilink")
-    （香港配音：[何偉誠](../Page/何偉誠.md "wikilink")）
-  - 京極雅彥：（香港配音：[袁德基](../Page/袁德基.md "wikilink")）
-  - 白鳥美奈子：[菜菜緒](../Page/菜菜緒.md "wikilink")（香港配音：[馮詠恩](../Page/馮詠恩.md "wikilink")）
+  - 京極雅彥：
+  - 白鳥美奈子：[菜菜緒](../Page/菜菜緒.md "wikilink")
   - 天馬壯一郎：[小日向文世](../Page/小日向文世.md "wikilink")
-    （香港配音：[劉文光](https://zh.wikipedia.org/wiki/劉文光 "wikilink")）
-  - 中澤淳美：宮本茉由（香港配音：[石梓晴](../Page/石梓晴.md "wikilink")）
+  - 中澤淳美：宮本茉由
 
 ## 參考資料
 

@@ -20,7 +20,7 @@ landing.jpg|降落 Exp14 landing1.jpg|着陆
   - [相关视频](https://www.youtube.com/watch?v=OtoMHls3kJg&NR=1)
 
 [Category:联盟计划](https://zh.wikipedia.org/wiki/Category:联盟计划 "wikilink")
-[Category:2006年航天](https://zh.wikipedia.org/wiki/Category:2006年航天 "wikilink")
+[Category:2006年發射的太空飛行器](https://zh.wikipedia.org/wiki/Category:2006年發射的太空飛行器 "wikilink")
 
 1.
 2.

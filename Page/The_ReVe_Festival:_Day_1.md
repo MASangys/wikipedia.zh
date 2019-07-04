@@ -17,9 +17,9 @@ RVF D-10"\[2\]。
 該專輯共收錄六首歌曲，於 19 日傍晚正式發行《The ReVe Festival: Day 1》，並在首爾的 Blue Square
 I-Market Hall 舉行回歸發表會。
 
-Red Velvet成員IRERE表示Red Velvet今年會以「The ReVe
+Red Velvet成員IRENE表示Red Velvet今年會以「The ReVe
 Festival」為系列，本次回歸後會攜帶系列作的第二部「Day
-2」以及第三部「Final」回歸。
+2」以及第三部「Finale」回歸。
 
 Red Velvet亦介紹新歌《Zimzalabim》靈感來自歐洲咒語，亦包含着把內心深處的夢想展開的意思，而這次新歌再與《[Red
 Flavor](../Page/The_Red_Summer.md "wikilink")》作曲家合作推出\[4\]。成員們透露主打歌《Zimzalabim》在她們2016年發行《[Russian
@@ -111,8 +111,8 @@ Velvet能夠消化這首歌才發行\[5\]。
 
 [Category:2019年迷你專輯](https://zh.wikipedia.org/wiki/Category:2019年迷你專輯 "wikilink")
 [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:Red_Velvet歌曲](https://zh.wikipedia.org/wiki/Category:Red_Velvet歌曲 "wikilink")
 [Category:Red_Velvet音樂專輯](https://zh.wikipedia.org/wiki/Category:Red_Velvet音樂專輯 "wikilink")
+[Category:2019年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2019年Gaon專輯週榜冠軍作品 "wikilink")
 
 1.
 2.

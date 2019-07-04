@@ -272,6 +272,7 @@ THE RAMPAGE LIVE TOUR 2019 "THROW YA FIST"\[8\]
   -
 [Category:EXILE_TRIBE](https://zh.wikipedia.org/wiki/Category:EXILE_TRIBE "wikilink")
 [Category:有未审阅翻译的页面](https://zh.wikipedia.org/wiki/Category:有未审阅翻译的页面 "wikilink")
+[Category:LDH所屬藝人](https://zh.wikipedia.org/wiki/Category:LDH所屬藝人 "wikilink")
 
 1.
 2.

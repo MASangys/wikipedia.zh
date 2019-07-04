@@ -14,6 +14,30 @@ Official Debut Support Project》進行網上籌集經費，在'全民皆能造�
 | 在燦   |
 | 鐘亨   |
 
+## 音樂作品
+
+### 單曲專輯
+
+<table>
+<tbody>
+<tr class="odd">
+<td></td>
+<td><p>內容</p></td>
+<td><p>曲目</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>1st</strong></p></td>
+<td><p>《<strong>Dongkiz on the Block</strong>》</p>
+<ul>
+<li>發行日期：2019年4月25日</li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
+<li>銷量：</li>
+</ul></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ## 活動經歷
 
 ### 出道前

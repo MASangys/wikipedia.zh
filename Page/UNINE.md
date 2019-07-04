@@ -1,4 +1,4 @@
-**UNINE**，是依據[愛奇藝偶像男團競演養成類真人秀](https://zh.wikipedia.org/wiki/愛奇藝 "wikilink")《[青春有你](../Page/青春有你.md "wikilink")》的出道承諾，於2019年成立的中國九人男子團體，成員包括：[李汶翰](../Page/李汶翰.md "wikilink")、[李振寧](../Page/李振寧.md "wikilink")、[姚明明](https://zh.wikipedia.org/wiki/姚明明 "wikilink")、[管櫟](https://zh.wikipedia.org/wiki/管櫟 "wikilink")、[嘉羿](../Page/嘉羿.md "wikilink")、[胡春楊](../Page/胡春楊.md "wikilink")、[夏瀚宇](../Page/夏瀚宇.md "wikilink")、[陳宥維](../Page/陳宥維.md "wikilink")、[何昶希](https://zh.wikipedia.org/wiki/何昶希 "wikilink")，成員李汶翰由於在最終票選獲取第一名，成為UNINE團體中的C位(Center)和隊長。於2019年4月6日正式出道\[1\]。
+**UNINE**，是依據[愛奇藝偶像男團競演養成類真人秀](https://zh.wikipedia.org/wiki/愛奇藝 "wikilink")《[青春有你](../Page/青春有你.md "wikilink")》的出道承諾，於2019年成立的中國九人男子團體，成員包括：[李汶翰](../Page/李汶翰.md "wikilink")、[李振寧](../Page/李振寧.md "wikilink")、[姚明明](https://zh.wikipedia.org/wiki/姚明明 "wikilink")、[管櫟](https://zh.wikipedia.org/wiki/管櫟 "wikilink")、[嘉羿](../Page/嘉羿.md "wikilink")、[胡春楊](../Page/胡春楊.md "wikilink")、[夏瀚宇](../Page/夏瀚宇.md "wikilink")、[陳宥維](../Page/陳宥維.md "wikilink")、[何昶希](../Page/何昶希.md "wikilink")，成員李汶翰由於在最終票選獲取第一名，成為UNINE團體中的C位(Center)和隊長。於2019年4月6日正式出道\[1\]。
 成团名是“UNINE”，意思是每位青春制作人（U）与九人（NINE）都是紧密相连，把粉丝和艺人紧密联系到一起，代表了粉丝和UNINE之间最深厚的感情出道後，該團在武漢、上海、重慶等舉行了名為《RUN
 TO
 U》的全國巡迴見面會。其粉絲名為NANO，應援色為極光（NANORA），以極光藍（）為主色，極光青（）與極光紫（）為輔色，以全息質感呈現的【混合色】。2019年5月6日，UNINE推出首張EP《UNLOCK》\[2\]
@@ -6,20 +6,18 @@ U》的全國巡迴見面會。其粉絲名為NANO，應援色為極光（NANORA
 ## 成員介紹
 
 <table>
-<thead>
-<tr class="header">
-<th><p>姓名</p></th>
-<th><p>國家/地區</p></th>
-<th><p>出生日期</p></th>
-<th><p>身高</p></th>
-<th><p>經紀公司</p></th>
-<th><p>最终排名</p></th>
-<th><p>星座</p></th>
-<th><p>定位[3]</p></th>
-</tr>
-</thead>
 <tbody>
 <tr class="odd">
+<td><p>姓名</p></td>
+<td><p>國家/地區</p></td>
+<td><p>出生日期</p></td>
+<td><p>身高</p></td>
+<td><p>經紀公司</p></td>
+<td><p>最终排名</p></td>
+<td><p>星座</p></td>
+<td><p>定位[3]</p></td>
+</tr>
+<tr class="even">
 <td><p><strong><a href="../Page/李汶翰.md" title="wikilink">李汶翰</a></strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/浙江" title="wikilink">浙江</a></p></td>
 <td></td>
@@ -27,9 +25,9 @@ U》的全國巡迴見面會。其粉絲名為NANO，應援色為極光（NANORA
 <td><p><a href="https://zh.wikipedia.org/wiki/樂華娛樂" title="wikilink">樂華娛樂</a></p></td>
 <td><p>1</p></td>
 <td><p><a href="../Page/巨蟹座.md" title="wikilink">巨蟹座</a></p></td>
-<td><p>隊長</p></td>
+<td><p>隊長、中心、全能</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/李振寧.md" title="wikilink">李振寧</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/廣東" title="wikilink">廣東</a></p></td>
 <td></td>
@@ -37,9 +35,9 @@ U》的全國巡迴見面會。其粉絲名為NANO，應援色為極光（NANORA
 <td><p><a href="https://zh.wikipedia.org/wiki/黑金計劃" title="wikilink">黑金計劃</a></p></td>
 <td><p>2</p></td>
 <td><p><a href="../Page/天蝎座.md" title="wikilink">天蝎座</a></p></td>
-<td><p>副唱</p></td>
+<td><p>Performance</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/姚明明" title="wikilink">姚明明</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/山西" title="wikilink">山西</a></p></td>
 <td></td>
@@ -49,7 +47,7 @@ U》的全國巡迴見面會。其粉絲名為NANO，應援色為極光（NANORA
 <td><p><a href="../Page/摩羯座.md" title="wikilink">摩羯座</a></p></td>
 <td><p>主舞</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/管櫟" title="wikilink">管櫟</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/重慶" title="wikilink">重慶</a></p></td>
 <td></td>
@@ -57,9 +55,9 @@ U》的全國巡迴見面會。其粉絲名為NANO，應援色為極光（NANORA
 <td><p><a href="https://zh.wikipedia.org/wiki/卡司星球" title="wikilink">卡司星球</a></p></td>
 <td><p>4</p></td>
 <td><p><a href="../Page/摩羯座.md" title="wikilink">摩羯座</a></p></td>
-<td><p>副唱</p></td>
+<td><p>Performance</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/嘉羿.md" title="wikilink">嘉羿</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/江西" title="wikilink">江西</a></p></td>
 <td></td>
@@ -67,9 +65,9 @@ U》的全國巡迴見面會。其粉絲名為NANO，應援色為極光（NANORA
 <td><p><a href="https://zh.wikipedia.org/wiki/匠星娛樂" title="wikilink">匠星娛樂</a></p></td>
 <td><p>5</p></td>
 <td><p><a href="../Page/巨蟹座.md" title="wikilink">巨蟹座</a></p></td>
-<td><p>副唱</p></td>
+<td><p>Performance</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/胡春楊.md" title="wikilink">胡春楊</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/河北" title="wikilink">河北</a></p></td>
 <td></td>
@@ -79,7 +77,7 @@ U》的全國巡迴見面會。其粉絲名為NANO，應援色為極光（NANORA
 <td><p><a href="https://zh.wikipedia.org/wiki/水瓶座" title="wikilink">水瓶座</a></p></td>
 <td><p>Rap</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/夏瀚宇.md" title="wikilink">夏瀚宇</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/湖南" title="wikilink">湖南</a></p></td>
 <td></td>
@@ -89,7 +87,7 @@ U》的全國巡迴見面會。其粉絲名為NANO，應援色為極光（NANORA
 <td><p><a href="https://zh.wikipedia.org/wiki/雙子座" title="wikilink">雙子座</a></p></td>
 <td><p>主唱</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/陳宥維.md" title="wikilink">陳宥維</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/浙江" title="wikilink">浙江</a></p></td>
 <td></td>
@@ -99,8 +97,8 @@ U》的全國巡迴見面會。其粉絲名為NANO，應援色為極光（NANORA
 <td><p><a href="../Page/巨蟹座.md" title="wikilink">巨蟹座</a></p></td>
 <td><p>Rap</p></td>
 </tr>
-<tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/何昶希" title="wikilink">何昶希</a></p></td>
+<tr class="even">
+<td><p><a href="../Page/何昶希.md" title="wikilink">何昶希</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/湖南" title="wikilink">湖南</a></p></td>
 <td></td>
 <td><p>183公分</p></td>
@@ -131,7 +129,7 @@ U》的全國巡迴見面會。其粉絲名為NANO，應援色為極光（NANORA
 <li>語言：<a href="https://zh.wikipedia.org/wiki/中文" title="wikilink">中文</a></li>
 </ul></td>
 <td><ol>
-<li>Bomba</li>
+<li><a href="https://www.youtube.com/watch?v=E5qCF2_Hdns">Bomba</a></li>
 <li>Like A Gentleman</li>
 <li>春日記憶</li>
 </ol></td>
@@ -141,20 +139,29 @@ U》的全國巡迴見面會。其粉絲名為NANO，應援色為極光（NANORA
 
 ## 影視作品
 
+### MV音樂录像带
+
+|            |                                                             |          |                                      |    |
+| ---------- | ----------------------------------------------------------- | -------- | ------------------------------------ | -- |
+| 日期         | 曲目                                                          | 专辑名稱     | 歌手                                   | 備註 |
+| 2019年6月24日 | 《[Bomba](https://www.youtube.com/watch?v=E5qCF2_Hdns)》\[5\] | 《UNLOCK》 | [UNINE](../Page/UNINE.md "wikilink") |    |
+
 ### 專屬節目
 
 |            |                                                          |                   |    |
 | ---------- | -------------------------------------------------------- | ----------------- | -- |
 | 日期         | 播放频道/平台                                                  | 節目名稱              | 備註 |
-| 2019年4月9日- | [UNINE官方微博](https://www.weibo.com/u/5598468343?is_hot=1) | U\&NINE Vlog\[5\] |    |
+| 2019年4月9日- | [UNINE官方微博](https://www.weibo.com/u/5598468343?is_hot=1) | U\&NINE Vlog\[6\] |    |
 
 ### 綜藝節目
 
-|                 |                                                     |                                                                    |    |
-| --------------- | --------------------------------------------------- | ------------------------------------------------------------------ | -- |
-| 日期              | 播放频道/平台                                             | 節目名稱                                                               | 備註 |
-| 2019年1月21日-4月6日 | [愛奇藝](https://zh.wikipedia.org/wiki/愛奇藝 "wikilink") | 《[青春有你](../Page/青春有你.md "wikilink")》                               |    |
-| 2019年5月9日-6月13日 | [愛奇藝](https://zh.wikipedia.org/wiki/愛奇藝 "wikilink") | 《[UNINE蹦吧](https://zh.wikipedia.org/wiki/UNINE蹦吧 "wikilink")》\[6\] |    |
+|                 |                                                     |                                                                    |      |
+| --------------- | --------------------------------------------------- | ------------------------------------------------------------------ | ---- |
+| 日期              | 播放頻道/平台                                             | 節目名稱                                                               | 備註   |
+| 2019年1月21日-4月6日 | [愛奇藝](https://zh.wikipedia.org/wiki/愛奇藝 "wikilink") | 《[青春有你](../Page/青春有你.md "wikilink")》                               | 共12期 |
+| 2019年5月9日-6月13日 | [愛奇藝](https://zh.wikipedia.org/wiki/愛奇藝 "wikilink") | 《[UNINE蹦吧](https://zh.wikipedia.org/wiki/UNINE蹦吧 "wikilink")》\[7\] | 共6期  |
+| 2019年7月4日-      | [愛奇藝](https://zh.wikipedia.org/wiki/愛奇藝 "wikilink") | 《Vlog營業中》                                                          |      |
+| 2019年7月18日-     | [愛奇藝](https://zh.wikipedia.org/wiki/愛奇藝 "wikilink") | 《UNINE蹦吧－夏日季》                                                      |      |
 
 ## 活动
 
@@ -172,33 +179,33 @@ U》的全國巡迴見面會。其粉絲名為NANO，應援色為極光（NANORA
 <td><p>2019年3月31日</p></td>
 <td><center>
 <p>北京站</p></td>
-<td><p>青春有妳·未來可期 愛奇藝VIP千人見面會</p></td>
-<td><p>《青春有妳》20強見面會[7]</p></td>
+<td><p>青春有你·未來可期 愛奇藝VIP千人見面會</p></td>
+<td><p>《青春有你》20強見面會[8]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2019年5月6日</p></td>
 <td></td>
-<td><p>《UNLOCK》 新專輯發布會[8]</p></td>
+<td><p>《UNLOCK》 新專輯發布會[9]</p></td>
 <td><p><a href="../Page/UNINE.md" title="wikilink">UNINE所有成員</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2019年5月19日</p></td>
 <td></td>
-<td><p>*百芒UNINE給妳寵愛* <a href="https://zh.wikipedia.org/wiki/蒙牛" title="wikilink">蒙牛真果粒見面會</a>《春日記憶》</p></td>
+<td><p>*百芒UNINE給你寵愛* <a href="https://zh.wikipedia.org/wiki/蒙牛" title="wikilink">蒙牛真果粒見面會</a>《春日記憶》</p></td>
 <td><p><a href="../Page/UNINE.md" title="wikilink">UNINE所有成員</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2019年6月2日</p></td>
 <td><center>
 <p>澳门站</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/樂華娛樂" title="wikilink">樂華娛樂十周年紀念演唱會</a>[9]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/樂華娛樂" title="wikilink">樂華娛樂十周年紀念演唱會</a>[10]</p></td>
 <td><p><a href="../Page/UNINE.md" title="wikilink">UNINE為特别嘉宾</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2019年6月6日</p></td>
 <td><center>
 <p>西安站</p></td>
-<td><p><a href="../Page/UNINE.md" title="wikilink">UNINE西安SKP</a>，<a href="https://zh.wikipedia.org/wiki/Gentle_Monster" title="wikilink">Gentle Monster旗舰店品牌開幕活动</a>[10]</p></td>
+<td><p><a href="../Page/UNINE.md" title="wikilink">UNINE西安SKP</a>，<a href="https://zh.wikipedia.org/wiki/Gentle_Monster" title="wikilink">Gentle Monster旗舰店品牌開幕活动</a>[11]</p></td>
 <td><p><a href="../Page/UNINE.md" title="wikilink">UNINE所有成员</a></p></td>
 </tr>
 </tbody>
@@ -218,7 +225,7 @@ U》的全國巡迴見面會。其粉絲名為NANO，應援色為極光（NANORA
 <td><p>2019年5月25日</p></td>
 <td><center>
 <p>武汉站</p></td>
-<td><p><a href="../Page/UNINE.md" title="wikilink">UNINE粉絲見面會RUN</a> TO U. <a href="../Page/UNINE.md" title="wikilink">UNINE巡演</a>[11][12][13]</p></td>
+<td><p><a href="../Page/UNINE.md" title="wikilink">UNINE粉絲見面會RUN</a> TO U. <a href="../Page/UNINE.md" title="wikilink">UNINE巡演</a>[12][13]</p></td>
 <td><p><a href="../Page/UNINE.md" title="wikilink">UNINE所有成員</a></p></td>
 </tr>
 <tr class="odd">
@@ -257,23 +264,9 @@ U》的全國巡迴見面會。其粉絲名為NANO，應援色為極光（NANORA
 <td></td>
 </tr>
 <tr class="even">
-<td><p>待定</p></td>
+<td><p>2019年7月27日</p></td>
 <td><center>
-<p>深圳站</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>待定</p></td>
-<td><center>
-<p>昆明站</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>待定</p></td>
-<td><center>
-<p>佛山站</p></td>
+<p>成都站</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -355,6 +348,21 @@ U》的全國巡迴見面會。其粉絲名為NANO，應援色為極光（NANORA
 
 ## 外部連結
 
+  -
+  -
+  -
+個人連結
+
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
   -
   -
 [Category:中國男子演唱團體](https://zh.wikipedia.org/wiki/Category:中國男子演唱團體 "wikilink")

@@ -9,6 +9,7 @@ It”两首单曲曾排上[告示牌百强单曲榜首位](../Page/告示牌百�
 [Category:美國饒舌歌手](https://zh.wikipedia.org/wiki/Category:美國饒舌歌手 "wikilink")
 [Category:美国女性饶舌歌手](https://zh.wikipedia.org/wiki/Category:美国女性饶舌歌手 "wikilink")
 [Category:血帮](https://zh.wikipedia.org/wiki/Category:血帮 "wikilink")
+[Category:多明尼加裔美國人](https://zh.wikipedia.org/wiki/Category:多明尼加裔美國人 "wikilink")
 
 1.
 2.

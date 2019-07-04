@@ -96,7 +96,7 @@ Netflix，唯最後決定送往香港、台灣、馬來西亞等地電影院放�
   - 台灣：[第30屆金曲獎](https://zh.wikipedia.org/wiki/第30屆金曲獎 "wikilink") -
     年度專輯獎（提名）
   - 台灣：[第30屆金曲獎](https://zh.wikipedia.org/wiki/第30屆金曲獎 "wikilink") -
-    最佳專輯製作人獎 - 王雙駿（提名）
+    最佳專輯製作人獎 - 王雙駿（獲獎）
 
 ### 歌曲《海裡睡人》
 

@@ -169,26 +169,26 @@ int m2 (int ax, char *p_ax) {
   std::cout &lt;&lt;&quot;Hello World!&quot;;
   return 0;
 }&lt;/source&gt;&lt;/nowiki&gt;</code></pre></td>
-<td><div class="sourceCode" id="cb5"><pre class="sourceCode cpp"><code class="sourceCode cpp"><a class="sourceLine" id="cb5-1" title="1"><span class="pp">#include </span><span class="im">&lt;iostream&gt;</span></a>
-<a class="sourceLine" id="cb5-2" title="2"><span class="dt">int</span> m2 (<span class="dt">int</span> ax, <span class="dt">char</span> *p_ax) {</a>
-<a class="sourceLine" id="cb5-3" title="3">  <span class="bu">std::</span>cout &lt;&lt;<span class="st">&quot;Hello World!&quot;</span>;</a>
-<a class="sourceLine" id="cb5-4" title="4">  <span class="cf">return</span> <span class="dv">0</span>;</a>
-<a class="sourceLine" id="cb5-5" title="5">}</a></code></pre></div></td>
+<td><div class="sourceCode" id="cb5"><pre class="sourceCode cpp"><code class="sourceCode cpp"><span id="cb5-1"><a href="#cb5-1"></a><span class="pp">#include </span><span class="im">&lt;iostream&gt;</span></span>
+<span id="cb5-2"><a href="#cb5-2"></a><span class="dt">int</span> m2 (<span class="dt">int</span> ax, <span class="dt">char</span> *p_ax) {</span>
+<span id="cb5-3"><a href="#cb5-3"></a>  <span class="bu">std::</span>cout &lt;&lt;<span class="st">&quot;Hello World!&quot;</span>;</span>
+<span id="cb5-4"><a href="#cb5-4"></a>  <span class="cf">return</span> <span class="dv">0</span>;</span>
+<span id="cb5-5"><a href="#cb5-5"></a>}</span></code></pre></div></td>
 </tr>
 <tr class="even">
 <td><p><small>小型字</small></p></td>
-<td><div class="sourceCode" id="cb6"><pre class="sourceCode html"><code class="sourceCode html"><a class="sourceLine" id="cb6-1" title="1">只能在有需要時使用<span class="kw">&lt;small&gt;</span>小型字<span class="kw">&lt;/small&gt;</span>標籤。</a></code></pre></div></td>
+<td><div class="sourceCode" id="cb6"><pre class="sourceCode html"><code class="sourceCode html"><span id="cb6-1"><a href="#cb6-1"></a>只能在有需要時使用<span class="kw">&lt;small&gt;</span>小型字<span class="kw">&lt;/small&gt;</span>標籤。</span></code></pre></div></td>
 <td><p>只能在有需要時使用<small>小型字</small>標籤。</p></td>
 </tr>
 <tr class="odd">
 <td><p><small style="font-size:87%;">一段&lt;small&gt;標籤的跨度</small></p></td>
-<td><div class="sourceCode" id="cb7"><pre class="sourceCode html"><code class="sourceCode html"><a class="sourceLine" id="cb7-1" title="1">舉例，如果要符合{{le|Help:視覺檔案標記語言#圖說|Help:Visual file markup#Caption|圖像說明}}的文字大小，其「small」標籤也可以用於</a>
-<a class="sourceLine" id="cb7-2" title="2"><span class="kw">&lt;small</span><span class="ot"> style=</span><span class="st">&quot;font-size:87%;&quot;</span><span class="kw">&gt;</span>縮減文字大小至原來的87%<span class="kw">&lt;/small&gt;</span>。</a></code></pre></div></td>
+<td><div class="sourceCode" id="cb7"><pre class="sourceCode html"><code class="sourceCode html"><span id="cb7-1"><a href="#cb7-1"></a>舉例，如果要符合{{le|Help:視覺檔案標記語言#圖說|Help:Visual file markup#Caption|圖像說明}}的文字大小，其「small」標籤也可以用於</span>
+<span id="cb7-2"><a href="#cb7-2"></a><span class="kw">&lt;small</span><span class="ot"> style=</span><span class="st">&quot;font-size:87%;&quot;</span><span class="kw">&gt;</span>縮減文字大小至原來的87%<span class="kw">&lt;/small&gt;</span>。</span></code></pre></div></td>
 <td><p>舉例，如果要符合的文字大小，其「small」標籤也可以用於<small style="font-size:87%;">縮減文字大小至原來的87%</small>。</p></td>
 </tr>
 <tr class="even">
 <td><p><big>大型字</big></p></td>
-<td><div class="sourceCode" id="cb8"><pre class="sourceCode html"><code class="sourceCode html"><a class="sourceLine" id="cb8-1" title="1">最好不要使用<span class="kw">&lt;big&gt;</span>大型字<span class="kw">&lt;/big&gt;</span>，除非用於<span class="kw">&lt;small&gt;</span>一段<span class="kw">&lt;big&gt;</span>小型字<span class="kw">&lt;/big&gt;</span>當中<span class="kw">&lt;/small&gt;</span>。</a></code></pre></div></td>
+<td><div class="sourceCode" id="cb8"><pre class="sourceCode html"><code class="sourceCode html"><span id="cb8-1"><a href="#cb8-1"></a>最好不要使用<span class="kw">&lt;big&gt;</span>大型字<span class="kw">&lt;/big&gt;</span>，除非用於<span class="kw">&lt;small&gt;</span>一段<span class="kw">&lt;big&gt;</span>小型字<span class="kw">&lt;/big&gt;</span>當中<span class="kw">&lt;/small&gt;</span>。</span></code></pre></div></td>
 <td><p>最好不要使用<big>大型字</big>，除非用於<small>一段<big>小型字</big>當中</small>。</p></td>
 </tr>
 <tr class="odd">

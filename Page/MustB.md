@@ -43,7 +43,7 @@
 </table>
 
 
-\== 經歷 == **出道前**
+\== 活動經歷 == **出道前**
 
   - Hawoon曾為[Challenger及](https://zh.wikipedia.org/wiki/Challenger "wikilink")[N.T.B.的成員](https://zh.wikipedia.org/wiki/N.T.B. "wikilink")。
   - Taegeon曾為[Challenger及](https://zh.wikipedia.org/wiki/Challenger "wikilink")[M

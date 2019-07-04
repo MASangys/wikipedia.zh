@@ -189,6 +189,20 @@
 <td><p>17.9</p></td>
 <td><p>1</p></td>
 </tr>
+<tr class="even">
+<td><p>7月1日</p></td>
+<td></td>
+<td><p><a href="../Page/山下智久.md" title="wikilink">山下智久</a></p></td>
+<td><p>8.4</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="odd">
+<td><p>7月8日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/布宜諾斯艾利斯_(單曲)" title="wikilink">布宜諾斯艾利斯</a></p></td>
+<td><p><a href="../Page/IZ*ONE.md" title="wikilink">IZ*ONE</a></p></td>
+<td><p>21.6</p></td>
+<td><p>1</p></td>
+</tr>
 </tbody>
 </table>
 

@@ -148,7 +148,7 @@ Arkane Studios</p></td>
 </tr>
 <tr class="even">
 <td><p>2019</p></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/德軍總部：血氣方剛" title="wikilink">德軍總部：血氣方剛</a></p></td>
 <td><p>第一人稱射擊</p></td>
 <td><p>與<a href="../Page/MachineGames.md" title="wikilink">MachineGames合作開發</a></p></td>
 <td></td>

@@ -106,23 +106,100 @@ Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》奪下出道
 | 年份    | 日期                 | 演唱會名稱           | 舉行地點      |
 | ----- | ------------------ | --------------- | --------- |
 | 2019年 | 5月18日              | KCON 2019 Japan | 日本千葉幕張展覽館 |
-|       | 2019 K-World Festa | 首爾松坡區奧林匹克公園     |           |
+| 8月    | Family Concert     | 首尔蚕室奥林匹克体育竞技场   |           |
+| 8月    | 2019 K-World Festa | 首爾松坡區奧林匹克公園     |           |
 
 ## 獎項
 
 ### 音樂節目獎項
 
-| 年份    | 日期                                                          | 電視台                                                                    | 節目名稱                                                                   | 獲獎歌曲        | 排名 |
-| ----- | ----------------------------------------------------------- | ---------------------------------------------------------------------- | ---------------------------------------------------------------------- | ----------- | -- |
-| 2019年 | 2月21日                                                       | [Mnet](../Page/Mnet媒體.md "wikilink")                                   | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | DALLA DALLA | 1位 |
-| 2月23日 | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")     |                                                                        |             |    |
-| 2月24日 | [SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")     | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  |                                                                        |             |    |
-| 3月3日  |                                                             |                                                                        |                                                                        |             |    |
-| 3月7日  | [Mnet](../Page/Mnet媒體.md "wikilink")                        | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") |                                                                        |             |    |
-| 3月8日  | [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")    | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")      |                                                                        |             |    |
-| 3月9日  | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")     |                                                                        |             |    |
-| 3月10日 | [SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")     | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  |                                                                        |             |    |
-| 3月15日 | [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")    | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")      |                                                                        |             |    |
+<table>
+<thead>
+<tr class="header">
+<th><p>年份</p></th>
+<th><p>日期</p></th>
+<th><p>電視台</p></th>
+<th><p>節目名稱</p></th>
+<th><p>獲獎歌曲</p></th>
+<th><p>排名</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2019年</p></td>
+<td><p>2月21日</p></td>
+<td><p><a href="../Page/Mnet媒體.md" title="wikilink">Mnet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
+<td><p>달라달라<br />
+(DALLA DALLA)</p></td>
+<td><p>1位</p></td>
+</tr>
+<tr class="even">
+<td><p>2月23日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/文化廣播_(韓國)" title="wikilink">MBC</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Show!_音樂中心" title="wikilink">Show! 音樂中心</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2月24日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SBS株式會社" title="wikilink">SBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>3月3日</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>3月7日</p></td>
+<td><p><a href="../Page/Mnet媒體.md" title="wikilink">Mnet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>3月8日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS第2頻道" title="wikilink">KBS2</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Music_Bank" title="wikilink">Music Bank</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>3月9日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/文化廣播_(韓國)" title="wikilink">MBC</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Show!_音樂中心" title="wikilink">Show! 音樂中心</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>3月10日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SBS株式會社" title="wikilink">SBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>3月15日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS第2頻道" title="wikilink">KBS2</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Music_Bank" title="wikilink">Music Bank</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ### 主要音樂節目榜單排名
 

@@ -158,6 +158,12 @@
 <td><center>
 <p>我在這等你(十週年限定單曲)</p></td>
 </tr>
+<tr class="odd">
+<td><center>
+<p>2019年6月</p></td>
+<td><center>
+<p>負心人</p></td>
+</tr>
 </tbody>
 </table>
 

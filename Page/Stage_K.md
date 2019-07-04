@@ -1,6 +1,6 @@
 《**K-POP CHALLENGE <Stage K>**》（），簡稱《**Stage
-K**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC電視台於](../Page/JTBC.md "wikilink")2019年4月7日起推出的[K-Pop舞蹈比賽節目](https://zh.wikipedia.org/wiki/K-Pop "wikilink")，由[全炫茂主持](https://zh.wikipedia.org/wiki/全炫茂 "wikilink")\[1\]，並由[朴俊炯](../Page/朴俊炯.md "wikilink")（[g.o.d](https://zh.wikipedia.org/wiki/g.o.d "wikilink")）、[殷志源](https://zh.wikipedia.org/wiki/殷志源 "wikilink")（[水晶男孩](../Page/水晶男孩.md "wikilink")）、[Dara及](https://zh.wikipedia.org/wiki/Dara "wikilink")[宥斌共同擔任固定評審](https://zh.wikipedia.org/wiki/宥斌 "wikilink")（K-Leaders）\[2\]。節目主軸為來自世界各地的挑戰者組隊進行[K-Pop舞蹈比賽](https://zh.wikipedia.org/wiki/K-Pop "wikilink")，每集會從四強隊伍中選出一支優勝隊伍。優勝隊伍除了可得到500萬韓元獎金及獎品外，還可獲得與該集主題歌手（Dream
-Star）表演合作舞台的機會。
+K**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC電視台於](../Page/JTBC.md "wikilink")2019年4月7日至6月23日推出的[K-Pop舞蹈比賽節目](https://zh.wikipedia.org/wiki/K-Pop "wikilink")，由[全炫茂主持](https://zh.wikipedia.org/wiki/全炫茂 "wikilink")\[1\]，並由[朴俊炯](../Page/朴俊炯.md "wikilink")（[g.o.d](https://zh.wikipedia.org/wiki/g.o.d "wikilink")）、[殷志源](https://zh.wikipedia.org/wiki/殷志源 "wikilink")（[水晶男孩](../Page/水晶男孩.md "wikilink")）、[Dara及](https://zh.wikipedia.org/wiki/Dara "wikilink")[宥斌共同擔任固定評審](https://zh.wikipedia.org/wiki/宥斌 "wikilink")（K-Leaders）\[2\]。節目主軸為來自世界各地的挑戰者組隊進行[K-Pop舞蹈比賽](https://zh.wikipedia.org/wiki/K-Pop "wikilink")，每集會從四強隊伍中選出一支優勝隊伍。優勝隊伍除了可得到500萬韓元獎金及獎品外，還可獲得與該集主題歌手（Dream
+Star）表演合作舞台的機會，以及王中王戰出戰資格。
 
 ## 四強隊伍選拔過程
 
@@ -13,12 +13,22 @@ Star）表演合作舞台的機會。
 
 ### 比賽流程
 
+#### 正規賽事
+
   - 每集節目以一組[韓國歌手為主題](https://zh.wikipedia.org/wiki/韓國 "wikilink")，分為Stage
     1（準決賽）及Stage 2（決賽）兩輪比賽，每輪比賽均由現場評審團投票決定名次。
   - Stage 1：四強隊伍按抽籤次序表演自選曲目的舞蹈，經評審團投票選出最高分的兩隊可晉級Stage 2。
   - Stage 2：在Stage 1獲得最高分的隊伍會決定最後兩強的出場次序，兩隊需演出由Dream
     Star指定同一首曲目的舞蹈，最後經評審團投票選出冠亞軍。
   - 冠軍隊伍可得到獎盃、500萬韓元獎金及LED面罩，並可獲得與Dream Star表演合作舞台的機會。
+  - 除了第七集K-Leaders特輯外，其餘八集的勝出隊伍同時得到王中王戰出戰資格。
+
+#### 王中王戰
+
+  - 八強隊伍先以30秒表演自選曲目舞蹈，然後各隊進行投票，以名次決定八強戰的分組。
+  - 比賽分為八強戰、準決賽及決賽，每輪均由兩隊對賽，經評審團投票選出較高分的隊伍可晉級下一輪比賽。
+  - 由於比賽不設復活戰，因此每輪落敗的隊伍將會被直接淘汰。
+  - 冠軍隊伍可得到獎盃、1,000萬韓元獎金及LED面罩。
 
 ### 現場評審團
 
@@ -52,16 +62,23 @@ K-Panel／K-Rookie</p></th>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>正規賽事</p></td>
 <td><p>Stage 1</p></td>
 <td><p>一人一票各1分（可棄權）</p></td>
 <td><p>一人一票各10分</p></td>
 <td><p>一人一票各20分</p></td>
-<td><p>一人一票各30分或全體一票佔100分</p></td>
 </tr>
 <tr class="odd">
 <td><p>Stage 2</p></td>
 <td><p>一人一票各30分</p></td>
 <td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>王中王戰</p></td>
+<td></td>
+<td><p>一人一票各10分</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -350,7 +367,7 @@ K-Panel／K-Rookie</p></th>
 <tr class="even">
 <td></td>
 <td><p><a href="../Page/EXO.md" title="wikilink">EXO</a></p></td>
-<td></td>
+<td><p><a href="../Page/EXODUS_(EXO專輯).md" title="wikilink">LOVE ME RIGHT</a> (feat. <a href="../Page/Don&#39;t_Mess_Up_My_Tempo.md" title="wikilink">Sign</a>)[10]</p></td>
 </tr>
 <tr class="odd">
 <td><p><em>準決賽</em></p></td>
@@ -365,12 +382,12 @@ K-Panel／K-Rookie</p></th>
 <tr class="odd">
 <td><p>A組</p></td>
 <td></td>
-<td><p><a href="../Page/BLACKPINK.md" title="wikilink">BLACKPINK</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/iKON" title="wikilink">iKON</a></p></td>
-<td></td>
+<td><p><a href="../Page/Return_(iKON專輯).md" title="wikilink">SINOSIJAK</a>[11]</p></td>
 </tr>
 <tr class="odd">
 <td><p>B組</p></td>
@@ -378,14 +395,14 @@ K-Panel／K-Rookie</p></th>
 <td><p><a href="../Page/Super_Junior.md" title="wikilink">Super Junior</a></p></td>
 </tr>
 <tr class="even">
-<td><p>／</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/EXID" title="wikilink">EXID</a>／<a href="../Page/EXO.md" title="wikilink">EXO</a></p></td>
 <td></td>
+<td><p><a href="../Page/EXO.md" title="wikilink">EXO</a></p></td>
+<td><p><a href="../Page/Don&#39;t_Mess_Up_My_Tempo.md" title="wikilink">Love Shot</a>[12]</p></td>
 </tr>
 <tr class="odd">
-<td><p>12</p></td>
-<td><p>2019年6月30日</p></td>
 <td><p><em>決賽</em></p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>順序</p></td>
@@ -395,12 +412,12 @@ K-Panel／K-Rookie</p></th>
 <tr class="odd">
 <td><p>1</p></td>
 <td></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iKON" title="wikilink">iKON</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
 <td></td>
-<td></td>
+<td><p><a href="../Page/EXO.md" title="wikilink">EXO</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -414,7 +431,7 @@ K-Panel／K-Rookie</p></th>
 <tr class="header">
 <th><p>集數</p></th>
 <th><p>播出日期</p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/AC尼爾森" title="wikilink">AGB收視率</a>[10][11]</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/AC尼爾森" title="wikilink">AGB收視率</a>[13][14]</p></th>
 <th><p>排行</p></th>
 </tr>
 </thead>
@@ -494,14 +511,8 @@ K-Panel／K-Rookie</p></th>
 <tr class="odd">
 <td><p>11</p></td>
 <td><p>2019/06/23</p></td>
-<td><p>%</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>12</p></td>
-<td><p>2019/06/30</p></td>
-<td><p>%</p></td>
-<td></td>
+<td><p>1.388%</p></td>
+<td><p>11</p></td>
 </tr>
 </tbody>
 </table>
@@ -543,3 +554,9 @@ K-Panel／K-Rookie</p></th>
 10.
 
 11.
+
+12.
+
+13.
+
+14.

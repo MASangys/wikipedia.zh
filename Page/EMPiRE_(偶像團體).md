@@ -1,9 +1,10 @@
-**EMPiRE**（エンパイア）是[日本的](../Page/日本.md "wikilink")[女子偶像團體](../Page/偶像_\(日本\).md "wikilink")。經紀公司為株式會社。
+**EMPiRE**（エンパイア）是[日本的](../Page/日本.md "wikilink")[女子偶像團體](../Page/偶像_\(日本\).md "wikilink")。
+2017年結成。隸屬於WACK。唱片公司為avex trax。
 
 ## 概要
 
-2017年4月2日於[橫濱紅磚倉庫活動廣舉行的](../Page/橫濱紅磚倉庫.md "wikilink")「WACK
-EXHiBiTiON」中，WACK宣布展開與[愛貝克思娛樂合作的偶像計畫](../Page/愛貝克思娛樂.md "wikilink")「Project
+2017年4月2日於[橫濱紅磚倉庫活動廣舉行的](../Page/橫濱紅磚倉庫.md "wikilink")「[WACK
+EXHiBiTiON](https://zh.wikipedia.org/wiki/WACK_EXHiBiTiON "wikilink")」中，WACK宣布展開與[愛貝克思娛樂合作的偶像計畫](../Page/愛貝克思娛樂.md "wikilink")「Project
 aW」，成員除了徵選合格者GAMIYASAKI（ガミヤサキ，現YUKA
 EMPiRE）與MOMOKOGUMIinc（モモコグミinc，現YU-Ki
 EMPiRE）之外。還將舉行追加成員徵選\[1\]。
@@ -73,7 +74,7 @@ EMPiRE首布公開樣貌\[3\]\[4\]。9月28日，公布全部成員樣貌\[5\]�
   - 3月3日 –3月4日 – 神奈川・Yokohama Bay Hall 「EMPiRE 24小時派對 EMPiRE presents
     TWENTY FOUR HOUR PARTY PEOPLE」YUKA正式畢業。
   - 3月4日 – 披露新曲「SELFiSH PEOPLE」新曲「SELFiSH PEOPLE」，並再次成為5人体制。
-  - 3月24日 –3月30日 – MAYU EMPiRE將作為導師參加「WACK合宿型徵選2019」。
+  - 3月26日 –3月30日 – MAYU EMPiRE將作為導師參加「WACK合宿型徵選2019」。
   - 3月30日 –發表3月24日至30日的合宿型徵選「WACK合宿型徵選2019」結果，EMPiRE新增TERAYAMA
     YUFU（テラヤマユフ，現NOW EMPiRE）一名成員。
   - 4月21日 - TERAYAMA YUFU（NOW EMPiRE）將參加福岡・DRUM SON舉行的「NEW EMPiRE
@@ -91,81 +92,81 @@ EMPiRE首布公開樣貌\[3\]\[4\]。9月28日，公布全部成員樣貌\[5\]�
 <table>
 <thead>
 <tr class="header">
-<th><p>姓名</p></th>
+<th><p>名字</p></th>
+<th><p>暱稱</p></th>
 <th><p>生日</p></th>
+<th><p>出身地</p></th>
 <th><p>個人簡介</p></th>
-<th><p><a href="../Page/Twitter.md" title="wikilink">Twitter</a> |-ㄆ</p></th>
-<th><p>YU-Ki EMPiRE</p></th>
-<th><p><br />
-[24]</p></th>
-<th><p>WACK徵選2017合格者。徵選時的名字為「モモコグミ.inc」。<br />
-（創始成員）<br />
-</p></th>
-<th><p><a href="https://twitter.com/yu_ki_empire">YU-Ki EMPiRE</a></p></th>
+<th><p><a href="../Page/Twitter.md" title="wikilink">Twitter</a></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>MAYU EMPiRE</p></td>
-<td><p><br />
-[25]</p></td>
-<td><p>WACK徵選2017最終審査参加者。徵選時的名字為「パリ・ウブ」。<br />
-Project AW徵選合格者。長野縣出身<br />
-（創始成員）<br />
+<td><p>YU-Ki EMPiRE</p></td>
+<td><p>ユキ</p></td>
+<td><p>[24]</p></td>
+<td></td>
+<td><p>WACK徵選2017合格者。徵選時的名字為「モモコグミ.inc」。<br />
+2017年8月23日開始活動。<br />
+為EMPiRE的（創始成員）<br />
 </p></td>
-<td><p><a href="https://twitter.com/mayu_empire">MAYU EMPiRE</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p><a href="https://twitter.com/yu_ki_empire">YU-Ki EMPiRE</a></p></td>
 </tr>
 <tr class="even">
-<td><p>MiDORiKO EMPiRE</p></td>
-<td><p><br />
-</p></td>
-<td><p>Project AW徵選合格者。最年輕成員[26]。<br />
-（創始成員）</p></td>
-<td><p><a href="https://twitter.com/midoriko_empire">MiDORiKO EMPiRE</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>MAYU EMPiRE</p></td>
+<td><p>マユ</p></td>
+<td><p>[25]</p></td>
+<td><p>長野縣</p></td>
+<td><p>WACK徵選2017最終審査参加者。徵選時的名字為「パリ・ウブ」。<br />
+2017年8月23日開始活動。<br />
+Project AW徵選合格者。<br />
+為EMPiRE的（創始成員）</p></td>
+<td><p><a href="https://twitter.com/mayu_empire">MAYU EMPiRE</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>MAHO EMPiRE<ref name="natalie279739">{{Cite web |url=<a href="https://natalie.mu/music/news/279739">https://natalie.mu/music/news/279739</a> |title=EMPiRE、新メンバーTwitter開設＆新体制音源の無料配信スタート |work=音楽ナタリー |publisher=株式会社ナターシャ |date=2018-04-25</p></td>
-<td><p><a href="https://twitter.com/mayu_empire">MAYU EMPiRE</a>|accessdate=2018-04-25}}</ref></p></td>
-<td><p><br />
-</p></td>
-<td><p>WACK合同徵選2018合格者。徵選時的名字為「ヤヤ・エイトプリンス」。<br />
-2018年5月1日開始活動。<br />
-亦是HOLY SHiTS和BULLY IDOL的成員。<br />
-最年長成員。</p></td>
-<td><p><a href="https://twitter.com/maho_empire">MAHO EMPiRE</a></p></td>
+<td><p>MiDORiKO EMPiRE</p></td>
 <td></td>
 <td></td>
 <td></td>
+<td><p>Project AW徵選合格者。<br />
+2017年8月23日開始活動。<br />
+最年輕成員[26]。<br />
+為EMPiRE的（創始成員）</p></td>
+<td><p><a href="https://twitter.com/midoriko_empire">MiDORiKO EMPiRE</a></p></td>
 </tr>
 <tr class="even">
+<td><p>MAHO EMPiRE<ref name="natalie279739">{{Cite web |url=<a href="https://natalie.mu/music/news/279739">https://natalie.mu/music/news/279739</a> |title=EMPiRE、新メンバーTwitter開設＆新体制音源の無料配信スタート |work=音楽ナタリー |publisher=株式会社ナターシャ |date=2018-04-25</p></td>
+<td><p><a href="https://twitter.com/mayu_empire">MAYU EMPiRE</a>|accessdate=2018-04-25}}</ref></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>WACK合同徵選2018合格者。徵選時的名字為「ヤヤ・エイトプリンス」。<br />
+2018年5月1日開始活動。<br />
+亦是和的成員。<br />
+最年長成員。</p></td>
+</tr>
+<tr class="odd">
 <td><p>MiKiNA EMPiRE[27]</p></td>
-<td><p><br />
-</p></td>
+<td></td>
+<td></td>
+<td></td>
 <td><p>WACK合同徵選2018合格者。徵選時的名字為「ミチハヤシリオ」。<br />
 2018年5月1日開始活動。</p></td>
 <td><p><a href="https://twitter.com/mikina_empire">MiKiNA EMPiRE</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>NOW EMPiRE</p></td>
-<td><p><br />
-</p></td>
+<td></td>
+<td></td>
+<td></td>
 <td><p>WACK合同徵選2019合格者。徵選時的名字為「テラヤマユフ」。<br />
 2019年4月21開始活動。<br />
-亦曾經是SakuranbomBom創始成員和隊長。<br />
-為2000年出生。</p></td>
+亦曾經是SakuranbomBom創始成員和隊長。</p></td>
 <td><p><a href="https://twitter.com/NOW_EMPiRE">NOW EMPiRE</a></p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -179,31 +180,41 @@ Project AW徵選合格者。長野縣出身<br />
 <table>
 <thead>
 <tr class="header">
-<th><p>姓名</p></th>
+<th><p>名字</p></th>
+<th><p>暱稱</p></th>
 <th><p>生日</p></th>
+<th><p>出身地</p></th>
 <th><p>個人簡介</p></th>
 <th><p><a href="../Page/Twitter.md" title="wikilink">Twitter</a></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
+<td><p>YUiNA EMPiRE</p></td>
+<td><p>パソ</p></td>
+<td><p>[28]</p></td>
+<td><p>埼玉縣</p></td>
+<td><p>本名為小谷唯奈<br />
+WACK徵選2017最終審査参加者。徵選時的名字為「リソリソ」。<br />
+2017年8月23日開始活動。<br />
+Project AW徵選合格者。<br />
+2018年5月1日移籍至[29]，直至2019年5月11日解散。<br />
+同年宣布6月19日加入（暫稱）<br />
+亦曾經是的創始成員和隊長。<br />
+為EMPiRE的（創始成員）</p></td>
+<td><p><a href="https://twitter.com/YUiNAEMPiRE___">YUiNA EMPiRE</a></p></td>
+</tr>
+<tr class="even">
 <td><p>YUKA EMPiRE</p></td>
-<td><p>3月14日[28]</p></td>
+<td></td>
+<td><p>3月14日[30]</p></td>
+<td></td>
 <td><p>WACK徵選2017合格者。徵選時的名字為「ガミヤサキ」。<br />
+2017年8月23日開始活動。<br />
 2019年於3月4日在EMPiRE和畢業。<br />
 為EMPiRE的（創始成員）<br />
 </p></td>
 <td><p><a href="https://twitter.com/intent/follow?screen_name=YUKA_EMPiRE">YUKA EMPiRE</a></p></td>
-</tr>
-<tr class="even">
-<td><p>YUiNA EMPiRE</p></td>
-<td><p>[29]</p></td>
-<td><p>WACK徵選2017最終審査参加者。徵選時的名字為「リソリソ」。<br />
-追加成員徵選合格者。<br />
-2018年5月1日移籍至[30]，直至2019年5月11日解散。<br />
-6月19日加入Curry Roux（暫稱）<br />
-為EMPiRE的（創始成員）</p></td>
-<td><p><a href="https://twitter.com/yuinaempire_bis">YUiNA EMPiRE</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -304,23 +315,7 @@ AVTD-93862<br />
 <td><p>5位[32]</p></td>
 <td><p>初回限定豪華盤：BOX仕樣、寫真集</p></td>
 </tr>
-</tbody>
-</table>
-
-<table>
-<thead>
-<tr class="header">
-<th><p>#</p></th>
-<th><p>發行日</p></th>
-<th><p>標題</p></th>
-<th><p>產品編號</p></th>
-<th><p>收錄曲</p></th>
-<th><p>排名</p></th>
-<th><p>備註</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
+<tr class="even">
 <td><p>2</p></td>
 <td><p>2019年7月17日</p></td>
 <td><p><strong>SUCCESS STORY</strong></p></td>
@@ -787,14 +782,16 @@ AVTD-93976<br />
 #### 2019年
 
   - 1月3日 – 「WACKなりの甲子園」（東京・マイナビBLITZ赤坂）※WACK所属グループによるイベント
+  - 3月26日～30日 - 長崎・壹岐島「WACK合宿型徵選2019」
   - 3月30日 - 「WACK EXHiBiTiON」（長崎・壱岐文化ホール）※WACK所屬團體演出，並發表「WACK合同徵選2019」結果
 
 ## 瑣事
 
   - 截至2018年，他們是唯一沒有獨立時期並立即在主要品牌上推出的WACK單位。
   - MiDORiKO EMPiRE是唯一的EMPiRE成員中沒有參加WACK徵選的成員。
+  - MAHO EMPiRE是第一個的EMPiRE成員中有加入WACK的洗牌團體。
   - 在NOW EMPiRE加入之前不論是現任成員或是已離開的成員名稱都以M或Y開頭。
-  - 截至2019年，EMPiRE亦是WACK唯一正規團體中沒有擔當的偶像團體。
+  - 截至2018年，EMPiRE亦是WACK唯一正規團體中沒有擔當的偶像團體。
 
 ## 注釋
 
@@ -854,8 +851,8 @@ AVTD-93976<br />
 28.
 
 29.
-
 30.
+
 31.
 
 32.

@@ -1,17 +1,19 @@
-**ØZI**（1997年3月27日），本名**陳奕凡**，現今為[R\&B歌手](https://zh.wikipedia.org/wiki/R&B "wikilink")，出生於[洛杉磯](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")，母親為知名歌手[葉璦菱](../Page/葉璦菱.md "wikilink")，自4歲就開始學習古典鋼琴、小提琴、吉他等樂器，14歲開始創作英文詞曲\[1\]，現為
+**ØZI**（1997年3月27日），本名**陳奕凡**，是一名台灣創作歌手，出生於[洛杉磯](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")，母親為知名歌手[葉璦菱](../Page/葉璦菱.md "wikilink")，自4歲就開始學習古典鋼琴、小提琴、吉他等樂器，14歲開始創作英文詞曲\[1\]，現為
 新樂園音樂有限公司 Forbidden Paradise 旗下藝人。
 
 ## 簡介
 
 2005年，開始在網路平台Youtube上發表音樂創作。
-2017年，釋出《TITLE 頭銜》及《ME INSTEAD
-奪愛》等單曲受到注目，受到[蛋堡](https://zh.wikipedia.org/wiki/蛋堡 "wikilink")、[熊仔及](../Page/熊仔.md "wikilink")[陳星翰等歌壇前輩都推崇的嘻哈新人](../Page/陳星翰.md "wikilink")。\[2\]
-自創作的《天堂島》⼀曲於2017年於網路上發布MV後，成為個人首支發⽚前破百萬點擊單曲，同年受邀擔任[安那](../Page/安那.md "wikilink")〈蛤〉MV導演\[3\]，並於2018年受邀與龍虎門合作的嘻哈單曲《走到飛》中擔任饒唱歌手\[4\]，展現多方才能，在華語樂壇中被稱呼為「核彈級新人」\[5\]。
+2017年，釋出《TITLE 頭銜》及《ME INSTEAD 奪愛》等單曲受到注目，受到[蛋堡
+(音樂人)](../Page/蛋堡_\(音樂人\).md "wikilink")、[熊仔及](../Page/熊仔.md "wikilink")[陳星翰等歌壇前輩都推崇的嘻哈新人](../Page/陳星翰.md "wikilink")。\[2\]
+自創作的《天堂島》⼀曲於2017年於網路上發布MV後，成為個人首支發⽚前破百萬點擊單曲，同年受邀擔任[安那](../Page/安那.md "wikilink")〈蛤〉MV導演\[3\]，並於2017年受邀與龍虎門合作的嘻哈單曲《走到飛》中擔任饒唱歌手\[4\]，展現多方才能，在華語樂壇中被稱呼為「核彈級新人」\[5\]。
 2018年7月10日，發行首張個人專輯《ØZI: The
 Album》\[6\]。發片記者會媽媽[葉璦菱特地前來站台支持](../Page/葉璦菱.md "wikilink")。\[7\]
 \[8\]
 2019年，憑《ØZI: The
 Album》專輯入圍[第30屆金曲獎最佳新人獎](https://zh.wikipedia.org/wiki/第30屆金曲獎 "wikilink")、最佳國語男歌手獎、最佳單曲製作人獎、最佳編曲人獎、最佳國語專輯獎、年度專輯獎等六項大獎。\[9\]
+2019年6月29日，ØZI憑《ØZI: The
+Album》專輯獲得第30屆金曲獎[最佳新人獎](../Page/最佳新人獎_\(金曲獎\).md "wikilink")。\[10\]
 
 ## 音樂作品
 
@@ -128,46 +130,46 @@ B.C.W｜Barry｜<a href="../Page/大支.md" title="wikilink">大支</a></p></td>
 <tbody>
 <tr class="odd">
 <td><p>2013</p></td>
-<td><p>|<a href="../Page/葉璦菱.md" title="wikilink">葉璦菱</a> | ØZI |</p></td>
+<td><p><a href="../Page/葉璦菱.md" title="wikilink">葉璦菱</a> | ØZI |</p></td>
 <td><p>讓愛離開</p></td>
 <td><p>《起蹦》</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2015</p></td>
-<td><p>|<a href="../Page/利菁.md" title="wikilink">利菁</a> | ØZI |</p></td>
+<td><p><a href="../Page/利菁.md" title="wikilink">利菁</a> | ØZI |</p></td>
 <td><p>HI 嗨</p></td>
 <td><p>《快樂的快樂的快樂》</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2018</p></td>
-<td><p>|<a href="../Page/呂士軒.md" title="wikilink">呂士軒</a> | ØZI | <a href="../Page/吳卓源.md" title="wikilink">吳卓源</a> | <a href="../Page/熊仔.md" title="wikilink">熊仔</a> | B.C.W | Barry | <a href="../Page/大支.md" title="wikilink">大支</a> |</p></td>
+<td><p>2017</p></td>
+<td><p><a href="../Page/呂士軒.md" title="wikilink">呂士軒</a> | ØZI | <a href="../Page/吳卓源.md" title="wikilink">吳卓源</a> | <a href="../Page/熊仔.md" title="wikilink">熊仔</a> | B.C.W | Barry | <a href="../Page/大支.md" title="wikilink">大支</a> |</p></td>
 <td><p>走到飛</p></td>
 <td><p>《龍虎門》</p></td>
 <td><p><a href="../Page/中華音樂人交流協會.md" title="wikilink">中華音樂人交流協會</a><br />
 2017年度十大單曲之一</p></td>
 </tr>
 <tr class="even">
-<td><p>|<a href="../Page/呂士軒.md" title="wikilink">呂士軒</a> | ØZI | <a href="../Page/剃刀蔣.md" title="wikilink">剃刀蔣</a></p></td>
+<td><p>2018</p></td>
+<td><p><a href="../Page/呂士軒.md" title="wikilink">呂士軒</a> | ØZI | <a href="../Page/剃刀蔣.md" title="wikilink">剃刀蔣</a></p></td>
 <td><p>搏起</p></td>
-<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>|DJ RayRay | ØZI</p></td>
+<td><p>2018</p></td>
+<td><p>DJ RayRay | ØZI</p></td>
 <td><p>O.O.T.D.</p></td>
-<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>|<a href="https://zh.wikipedia.org/wiki/孫盛希" title="wikilink">孫盛希</a> | ØZI</p></td>
-<td><p>曖（Tensions）[10]</p></td>
+<td><p>2018</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/孫盛希" title="wikilink">孫盛希</a> | ØZI</p></td>
+<td><p>曖（Tensions）[11]</p></td>
 <td><p>《<a href="../Page/希遊記.md" title="wikilink">希遊記</a>》</p></td>
 <td><p>該專輯第2主打歌</p></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>2019</p></td>
@@ -211,7 +213,7 @@ B.C.W｜Barry｜<a href="../Page/大支.md" title="wikilink">大支</a></p></td>
 
 | 發表時間 | 發表人                            | 歌曲                  | 備註                  |
 | ---- | ------------------------------ | ------------------- | ------------------- |
-| 2017 | [安那](../Page/安那.md "wikilink") | 蛤 HUH? \[11\]       | 收錄《我叫安那》錄音專輯中       |
+| 2017 | [安那](../Page/安那.md "wikilink") | 蛤 HUH? \[12\]       | 收錄《我叫安那》錄音專輯中       |
 | 2017 | ØZI                            | PARADISE ISLAND 天堂島 |                     |
 | 2017 | ØZI                            | WE OUT HERE         |                     |
 | 2018 | RayRay                         | O.O.T.D.            |                     |
@@ -234,7 +236,7 @@ B.C.W｜Barry｜<a href="../Page/大支.md" title="wikilink">大支</a></p></td>
 <tr class="odd">
 <td><p>2019</p></td>
 <td><p><a href="../Page/Hit_FM聯播網.md" title="wikilink">HitFm</a></p></td>
-<td><p>2018年度十大專輯[12]</p></td>
+<td><p>2018年度十大專輯[13]</p></td>
 <td><p><strong>《ØZI: The Album》</strong></p></td>
 <td></td>
 </tr>
@@ -261,7 +263,7 @@ B.C.W｜Barry｜<a href="../Page/大支.md" title="wikilink">大支</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>第12屆 Freshmusic Awards</p></td>
-<td><p>最佳新人[13]</p></td>
+<td><p>最佳新人[14]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -329,10 +331,15 @@ B.C.W｜Barry｜<a href="../Page/大支.md" title="wikilink">大支</a></p></td>
 
 | 日期         | 名稱                                          | 地點                                                  |
 | :--------- | :------------------------------------------ | :-------------------------------------------------- |
-| 2019年1月23日 | 《LOST IN PARADISE 天堂中迷航》首場演唱會 \[14\] \[15\] | 華山Legacy                                            |
+| 2019年1月23日 | 《LOST IN PARADISE 天堂中迷航》首場演唱會 \[15\] \[16\] | 華山Legacy                                            |
 | 2019年5月19日 | 《LOST IN PARADISE 天堂中迷航》洛杉磯站                | [USA](https://zh.wikipedia.org/wiki/USA "wikilink") |
 
 ## 參考資料
+
+## 外部連結
+
+  -
+  -
 
 <references />
 
@@ -359,9 +366,11 @@ B.C.W｜Barry｜<a href="../Page/大支.md" title="wikilink">大支</a></p></td>
 7.
 8.
 9.  [金曲獎第30屆完整入圍名單](https://www.cna.com.tw/news/firstnews/201905155002.aspx),中央社，2019年5月15日
-10.
+10. [ØZI獲金曲獎最佳新人
+    媽媽葉璦菱視訊分享喜悅](https://www.cna.com.tw/news/firstnews/201906295011.aspx),中央社，2019年6月29日
 11.
 12.
 13.
 14.
 15.
+16.

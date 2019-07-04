@@ -1,5 +1,5 @@
   - [來源](https://paws-public.wmflabs.org/paws-public/User:Xiplus/long%20time%20protected%20ariticle.ipynb)
-  - 長期 = 終止期限超過7月22日
+  - 長期 = 終止期限超過8月1日
 
 | 頁面                                                                                                      | 保護日誌      | 期限             |
 | ------------------------------------------------------------------------------------------------------- | --------- | -------------- |
@@ -10,12 +10,15 @@
 | [新北市私立格致高級中學](https://zh.wikipedia.org/wiki/Special:Redirect/page/1061937 "wikilink")                   | \[ 保護日誌\] | 20270711000000 |
 | [臺灣](https://zh.wikipedia.org/wiki/Special:Redirect/page/690 "wikilink")                                | \[ 保護日誌\] | 20230930231835 |
 | [罗马数字](https://zh.wikipedia.org/wiki/Special:Redirect/page/6693 "wikilink")                             | \[ 保護日誌\] | 20230814000000 |
+| [梁君彥](https://zh.wikipedia.org/wiki/Special:Redirect/page/358307 "wikilink")                            | \[ 保護日誌\] | 20230702000000 |
 | [中華民國](https://zh.wikipedia.org/wiki/Special:Redirect/page/271 "wikilink")                              | \[ 保護日誌\] | 20230302005248 |
 | [吳敦義](https://zh.wikipedia.org/wiki/Special:Redirect/page/211469 "wikilink")                            | \[ 保護日誌\] | 20201202092058 |
 | [星期的計算](https://zh.wikipedia.org/wiki/Special:Redirect/page/322912 "wikilink")                          | \[ 保護日誌\] | 20201013070603 |
 | [鄧佳華](https://zh.wikipedia.org/wiki/Special:Redirect/page/5058075 "wikilink")                           | \[ 保護日誌\] | 20200924144503 |
 | [BLACKPINK](https://zh.wikipedia.org/wiki/Special:Redirect/page/5352765 "wikilink")                     | \[ 保護日誌\] | 20200723060144 |
 | [习近平](https://zh.wikipedia.org/wiki/Special:Redirect/page/112582 "wikilink")                            | \[ 保護日誌\] | 20200702142216 |
+| [韓國瑜](https://zh.wikipedia.org/wiki/Special:Redirect/page/804393 "wikilink")                            | \[ 保護日誌\] | 20200702031357 |
+| [三上悠亞](https://zh.wikipedia.org/wiki/Special:Redirect/page/6001387 "wikilink")                          | \[ 保護日誌\] | 20200624052018 |
 | [世界自由日](https://zh.wikipedia.org/wiki/Special:Redirect/page/413877 "wikilink")                          | \[ 保護日誌\] | 20200622105603 |
 | [謝龍介](https://zh.wikipedia.org/wiki/Special:Redirect/page/1621679 "wikilink")                           | \[ 保護日誌\] | 20200622031759 |
 | [馬英九](https://zh.wikipedia.org/wiki/Special:Redirect/page/748612 "wikilink")                            | \[ 保護日誌\] | 20200602092255 |
@@ -46,6 +49,7 @@
 | [潘志明](https://zh.wikipedia.org/wiki/Special:Redirect/page/965182 "wikilink")                            | \[ 保護日誌\] | 20200115085229 |
 | [臺中市立臺中工業高級中等學校](https://zh.wikipedia.org/wiki/Special:Redirect/page/255154 "wikilink")                 | \[ 保護日誌\] | 20200112064004 |
 | [薛之谦](https://zh.wikipedia.org/wiki/Special:Redirect/page/895669 "wikilink")                            | \[ 保護日誌\] | 20191228003812 |
+| [彩虹站](https://zh.wikipedia.org/wiki/Special:Redirect/page/116859 "wikilink")                            | \[ 保護日誌\] | 20191225044441 |
 | [大J](https://zh.wikipedia.org/wiki/Special:Redirect/page/5472002 "wikilink")                            | \[ 保護日誌\] | 20191224143533 |
 | [許淑華_(南投縣)](https://zh.wikipedia.org/wiki/Special:Redirect/page/4400962 "wikilink")                    | \[ 保護日誌\] | 20191224003555 |
 | [十二进制](https://zh.wikipedia.org/wiki/Special:Redirect/page/1207884 "wikilink")                          | \[ 保護日誌\] | 20191220134018 |
@@ -94,10 +98,12 @@
 | [菊梓喬](https://zh.wikipedia.org/wiki/Special:Redirect/page/5455650 "wikilink")                           | \[ 保護日誌\] | 20191006163421 |
 | [欧洲](https://zh.wikipedia.org/wiki/Special:Redirect/page/1728 "wikilink")                               | \[ 保護日誌\] | 20191005102902 |
 | [LamiGirls](https://zh.wikipedia.org/wiki/Special:Redirect/page/4692321 "wikilink")                     | \[ 保護日誌\] | 20191005000046 |
+| [方志勇](https://zh.wikipedia.org/wiki/Special:Redirect/page/6037888 "wikilink")                           | \[ 保護日誌\] | 20191001043654 |
 | [犬](https://zh.wikipedia.org/wiki/Special:Redirect/page/4769 "wikilink")                                | \[ 保護日誌\] | 20191001041459 |
 | [爱迪生](https://zh.wikipedia.org/wiki/Special:Redirect/page/5279 "wikilink")                              | \[ 保護日誌\] | 20190930033655 |
 | [蔣中正](https://zh.wikipedia.org/wiki/Special:Redirect/page/20716 "wikilink")                             | \[ 保護日誌\] | 20190929031754 |
 | [林鄭月娥](https://zh.wikipedia.org/wiki/Special:Redirect/page/377292 "wikilink")                           | \[ 保護日誌\] | 20190923232419 |
+| [楊時睿](https://zh.wikipedia.org/wiki/Special:Redirect/page/6187820 "wikilink")                           | \[ 保護日誌\] | 20190923042229 |
 | [柯文哲](https://zh.wikipedia.org/wiki/Special:Redirect/page/2964616 "wikilink")                           | \[ 保護日誌\] | 20190922230200 |
 | [富家子弟](https://zh.wikipedia.org/wiki/Special:Redirect/page/1331506 "wikilink")                          | \[ 保護日誌\] | 20190919225734 |
 | [李若彤](https://zh.wikipedia.org/wiki/Special:Redirect/page/398124 "wikilink")                            | \[ 保護日誌\] | 20190918090930 |
@@ -134,11 +140,6 @@
 | [台灣日治時期](https://zh.wikipedia.org/wiki/Special:Redirect/page/45653 "wikilink")                          | \[ 保護日誌\] | 20190805001754 |
 | [孤泣](https://zh.wikipedia.org/wiki/Special:Redirect/page/1670894 "wikilink")                            | \[ 保護日誌\] | 20190802193715 |
 | [糞便](https://zh.wikipedia.org/wiki/Special:Redirect/page/159457 "wikilink")                             | \[ 保護日誌\] | 20190802125422 |
+| [盧偉聰](https://zh.wikipedia.org/wiki/Special:Redirect/page/3419638 "wikilink")                           | \[ 保護日誌\] | 20190802004915 |
+| [范瑋琪](https://zh.wikipedia.org/wiki/Special:Redirect/page/314229 "wikilink")                            | \[ 保護日誌\] | 20190801120809 |
 | [奧克蘭大學](https://zh.wikipedia.org/wiki/Special:Redirect/page/206461 "wikilink")                          | \[ 保護日誌\] | 20190801102842 |
-| [混種狗](https://zh.wikipedia.org/wiki/Special:Redirect/page/124689 "wikilink")                            | \[ 保護日誌\] | 20190730135140 |
-| [Wanna_One](https://zh.wikipedia.org/wiki/Special:Redirect/page/5714148 "wikilink")                    | \[ 保護日誌\] | 20190730081133 |
-| [綜藝玩很大](https://zh.wikipedia.org/wiki/Special:Redirect/page/4043001 "wikilink")                         | \[ 保護日誌\] | 20190729015919 |
-| [唐鳳](https://zh.wikipedia.org/wiki/Special:Redirect/page/113326 "wikilink")                             | \[ 保護日誌\] | 20190725121629 |
-| [仇思達](https://zh.wikipedia.org/wiki/Special:Redirect/page/5758433 "wikilink")                           | \[ 保護日誌\] | 20190724220531 |
-| [中国台湾](https://zh.wikipedia.org/wiki/Special:Redirect/page/667195 "wikilink")                           | \[ 保護日誌\] | 20190724033443 |
-| [陳菊](https://zh.wikipedia.org/wiki/Special:Redirect/page/158331 "wikilink")                             | \[ 保護日誌\] | 20190723111609 |

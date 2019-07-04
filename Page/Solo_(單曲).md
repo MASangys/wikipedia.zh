@@ -69,33 +69,33 @@ Card\]\]」上率先表演了《Solo》。YG娛樂對於這樣的決定稱由於
 </tr>
 <tr class="odd">
 <td><p>Melon</p></td>
-<td><p>*<strong>1</strong> <sup>14</sup></p></td>
-<td><p>*<strong>1</strong> <sup>2</sup></p></td>
+<td><p><strong>1</strong> <sup>14</sup></p></td>
+<td><p><strong>1</strong> <sup>2</sup></p></td>
 </tr>
 <tr class="even">
 <td><p>Genie</p></td>
-<td><p>*<strong>1</strong> <sup>14</sup></p></td>
-<td><p>*<strong>1</strong> <sup>2</sup></p></td>
+<td><p><strong>1</strong> <sup>14</sup></p></td>
+<td><p><strong>1</strong> <sup>2</sup></p></td>
 </tr>
 <tr class="odd">
 <td><p>Bugs</p></td>
-<td><p>*<strong>1</strong> <sup>12</sup></p></td>
-<td><p>*<strong>1</strong> <sup>2</sup></p></td>
+<td><p><strong>1</strong> <sup>12</sup></p></td>
+<td><p><strong>1</strong> <sup>2</sup></p></td>
 </tr>
 <tr class="even">
 <td><p>Mnet</p></td>
-<td><p>*<strong>1</strong> <sup>7</sup></p></td>
-<td><p>*<strong>1</strong></p></td>
+<td><p><strong>1</strong> <sup>7</sup></p></td>
+<td><p><strong>1</strong></p></td>
 </tr>
 <tr class="odd">
 <td><p>Naver</p></td>
-<td><p>*<strong>1</strong> <sup>7</sup></p></td>
-<td><p>*<strong>1</strong></p></td>
+<td><p><strong>1</strong> <sup>7</sup></p></td>
+<td><p><strong>1</strong></p></td>
 </tr>
 <tr class="even">
 <td><p>Soribada</p></td>
-<td><p>*<strong>1</strong> <sup>13</sup></p></td>
-<td><p>*<strong>1</strong> <sup>2</sup></p></td>
+<td><p><strong>1</strong> <sup>13</sup></p></td>
+<td><p><strong>1</strong> <sup>2</sup></p></td>
 </tr>
 <tr class="odd">
 <td><ul>
@@ -134,17 +134,17 @@ Card\]\]」上率先表演了《Solo》。YG娛樂對於這樣的決定稱由於
 <tr class="even">
 <td><p><a href="../Page/Mnet媒體.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
-<td><p>*2</p></td>
+<td><p>2</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS第2頻道" title="wikilink">KBS2</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/音乐银行" title="wikilink">音樂銀行</a></p></td>
-<td><p>*3</p></td>
+<td><p>3</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/文化廣播_(韓國)" title="wikilink">MBC</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Show!_音樂中心" title="wikilink">Show! 音樂中心</a></p></td>
-<td><p>*2</p></td>
+<td><p>2</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
@@ -159,7 +159,7 @@ Card\]\]」上率先表演了《Solo》。YG娛樂對於這樣的決定稱由於
 <tr class="odd">
 <td></td>
 <td><p><a href="../Page/Show_Champion.md" title="wikilink">Show Champion</a></p></td>
-<td><p>*3</p></td>
+<td><p>3</p></td>
 </tr>
 <tr class="even">
 <td><ul>
@@ -214,14 +214,14 @@ Card\]\]」上率先表演了《Solo》。YG娛樂對於這樣的決定稱由於
 
 月榜單
 
-| 國家或地區  | 銷量            |
-| ------ | ------------- |
-| 實體唱片   |               |
-| 韓國     | 43,598+\[54\] |
-| 數位音樂下載 |               |
-| 美國     | 10,000+\[55\] |
+|+銷售與認證   \! scope="row"|韓國（CD） | rowspan="3"  |
+align="center"|48,698<ref>《Solo》韓國唱片銷量統計：
 
-銷售與認證
+  -
+  -
+</ref> |- \! scope="row"|韓國（[DL](../Page/數位音樂下載.md "wikilink")） |
+align="center"|755,037\[54\] |- \! scope="row"|美國（DL） |
+align="center"|10,000\[55\]
 
 ## 獲獎與提名
 

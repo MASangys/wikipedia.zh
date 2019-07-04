@@ -173,7 +173,7 @@ Park](https://zh.wikipedia.org/wiki/Linkin_Park "wikilink")）、[金鐘萬](htt
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>洪以爍 Hong Issac 홍이삭</p></td>
+<td><p>洪 Issac 홍이삭</p></td>
 <td><ul>
 <li>主唱</li>
 <li>春啊</li>
@@ -816,12 +816,14 @@ Hong Issac（主唱、鍵盤）<br />
 <th><p>組員</p></th>
 <th><p>表演曲目</p></th>
 <th><p>製作人評分</p></th>
+<th><p>排名</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>最高分</p></td>
-<td><p>最低分</p></td>
+<td><p>個別評分</p></td>
+<td><p>總分</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -834,8 +836,8 @@ Hong Issac（主唱、鍵盤）<br />
 鄭光賢（大鼓、架子鼓）<br />
 朴榮振（架子鼓）</p></td>
 <td><p>金英素《阿里郎幻想曲》（아리랑 판타지）</p></td>
-<td><p>90<br />
-<small>（尹鐘信）<small></p></td>
+<td></td>
+<td><p>422</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>2</strong></p></td>
@@ -845,8 +847,8 @@ Hong Issac（主唱、鍵盤）<br />
 金河鎮（貝斯）<br />
 朴知煥（吉他、製作）</p></td>
 <td><p><a href="../Page/DNCE.md" title="wikilink">DNCE</a>《Cake by the Ocean》</p></td>
-<td><p>86<br />
-<small>（尹鐘信）<small></p></td>
+<td></td>
+<td><p>408</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>3</strong></p></td>
@@ -856,8 +858,8 @@ Hong Issac（主唱、鍵盤）<br />
 李燦率（主唱、吉他）<br />
 姜景潤（架子鼓）</p></td>
 <td><p>《Still Fighting It》</p></td>
-<td><p>95<br />
-<small>（尹鐘信）<small></p></td>
+<td></td>
+<td><p>455</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>4</strong></p></td>
@@ -867,8 +869,8 @@ Hong Issac（主唱、鼓）<br />
 Kevin Oh（主唱、吉他）<br />
 梁智完（吉他）</p></td>
 <td><p>自作曲《和你在一起》（너와 함께）</p></td>
-<td><p>90<br />
-<small>（尹鐘信）<small></p></td>
+<td></td>
+<td><p>423</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>5</strong></p></td>
@@ -878,13 +880,321 @@ I'll（主唱、鍵盤）<br />
 河鉉尚（主唱、吉他）<br />
 洪榛豪（大提琴）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Radiohead" title="wikilink">Radiohead</a>《Creep》</p></td>
-<td><p>98<br />
-<small>（Joe Hahn）<small></p></td>
+<td></td>
+<td><p>443</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>6</strong></p></td>
+<td><p>趙翰潔組</p></td>
+<td><p><strong>趙翰潔</strong>（主唱、吉他）<br />
+Zairo（主唱、吉他）<br />
+池尚（主唱）<br />
+李詩永（打擊樂器）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Eric_Clapton" title="wikilink">Eric Clapton</a>《Tears in Heaven》</p></td>
+<td></td>
+<td><p>430</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>7</strong></p></td>
+<td><p>李柱奕組</p></td>
+<td><p><strong>李柱奕</strong>（主唱、吉他）<br />
+辛禮贊（小提琴）<br />
+申光日（主唱、架子鼓）<br />
+趙元尚（貝斯、製作）</p></td>
+<td><p>《Swim》</p></td>
+<td></td>
+<td><p>453</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>8</strong></p></td>
+<td><p>Benji組</p></td>
+<td><p><strong>Benji</strong>（主唱）<br />
+申鉉斌（吉他）<br />
+李鍾勳（貝斯）<br />
+崔永鎮（架子鼓）</p></td>
+<td><p>自創曲《Dancin'》</p></td>
+<td></td>
+<td><p>452</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>9</strong></p></td>
+<td><p>黃承敏組</p></td>
+<td><p><strong>黃承敏</strong>（吉他）<br />
+安聖真（主唱、鍵盤、貝斯）<br />
+蔡甫熏（主唱、鍵盤）<br />
+DPole（DJ製作人）</p></td>
+<td><p>蔡甫熏《雨傘》（우산）</p></td>
+<td></td>
+<td><p>429</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
 
+| 第四回合淘汰 |
+| ------ |
+| 朴榮振    |
+| 李詩永    |
+| 趙翰潔    |
 
+
+
+### 晉級決選六組隊伍
+
+  - 粗體字為**Frontman（領隊）**
+
+<table>
+<thead>
+<tr class="header">
+<th><p>隊伍名稱</p></th>
+<th><p>組員</p></th>
+<th><p>定位</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>原文</p></td>
+<td><p>諺文</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>People on the Bridge</strong></p></td>
+<td></td>
+<td><p><strong>李燦率</strong></p></td>
+</tr>
+<tr class="odd">
+<td><p>金峻協</p></td>
+<td><p>吉他</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>林亨頻</p></td>
+<td><p>吉他</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>姜景潤</p></td>
+<td><p>架子鼓</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>金亨宇</p></td>
+<td><p>貝斯</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>HoppiPolla</strong></p></td>
+<td></td>
+<td><p><strong>I'll</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>河鉉尚</p></td>
+<td><p>主唱、吉他</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>洪榛豪</p></td>
+<td><p>大提琴</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>金英素</p></td>
+<td><p>吉他</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>Moné</strong></p></td>
+<td></td>
+<td><p><strong>Zairo</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>Hong Issac</p></td>
+<td><p>主唱、鍵盤</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>金佑星</p></td>
+<td><p>主唱、吉他</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Benji</p></td>
+<td><p>主唱、小提琴</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>黃旻載</p></td>
+<td><p>架子鼓</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>After Moon</strong></p></td>
+<td></td>
+<td><p><strong>Kevin Oh</strong></p></td>
+</tr>
+<tr class="odd">
+<td><p>李鍾勳</p></td>
+<td><p>貝斯</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>崔永鎮</p></td>
+<td><p>架子鼓</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>DPole</p></td>
+<td><p>DJ製作人</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>Purple Rain</strong></p></td>
+<td></td>
+<td><p><strong>梁智完</strong></p></td>
+</tr>
+<tr class="odd">
+<td><p>蔡甫熏</p></td>
+<td><p>主唱、吉他</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>金河鎮</p></td>
+<td><p>貝斯</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>鄭光賢</p></td>
+<td><p>架子鼓</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>李羅宇</p></td>
+<td><p>鋼琴</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>Lucy</strong></p></td>
+<td></td>
+<td><p><strong>李柱奕</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>辛禮贊</p></td>
+<td><p>小提琴</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>申光日</p></td>
+<td><p>主唱、架子鼓</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>趙元尚</p></td>
+<td><p>貝斯</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 決選
+
+  - 每回合表演結束後進行評分，製作人每人滿分1000分，觀眾總分3000分，兩回合分數合計後較高的四組晉級決賽。
+
+**第一回合**
+
+<table>
+<thead>
+<tr class="header">
+<th><p>次序</p></th>
+<th><p>組別</p></th>
+<th><p>表演曲目</p></th>
+<th><p>製作人評分</p></th>
+<th><p>觀眾評分</p></th>
+<th><p>合計</p></th>
+<th><p>排名</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>個別評分</p></td>
+<td><p>加總</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>1</strong></p></td>
+<td><p><strong>HoppiPolla</strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Sigur_Rós" title="wikilink">Sigur Rós</a>《Hoppípolla》</p></td>
+<td></td>
+<td><p>4590</p></td>
+<td><p>2660</p></td>
+<td><p>7250</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>2</strong></p></td>
+<td><p><strong>After Moon</strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Cyndi_Lauper" title="wikilink">Cyndi Lauper</a>《Time after Time》</p></td>
+<td></td>
+<td><p>4480</p></td>
+<td><p>2600</p></td>
+<td><p>7080</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>3</strong></p></td>
+<td><p><strong>Lucy</strong></p></td>
+<td><p>Tennyson《Cry Bird》</p></td>
+<td></td>
+<td><p>4640</p></td>
+<td><p>2820</p></td>
+<td><p>7460</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>4</strong></p></td>
+<td><p><strong>Moné</strong></p></td>
+<td><p>自創曲《帶走吧》（가져가）</p></td>
+<td></td>
+<td><p>4610</p></td>
+<td><p>2430</p></td>
+<td><p>7040</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>5</strong></p></td>
+<td><p><strong>Purple Rain</strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Aerosmith" title="wikilink">Aerosmith</a>《Dream on》</p></td>
+<td></td>
+<td><p>4590</p></td>
+<td><p>2750</p></td>
+<td><p>7340</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>6</strong></p></td>
+<td><p><strong>People on the Bridge</strong></p></td>
+<td><p>《Best of You》</p></td>
+<td></td>
+<td><p>4590</p></td>
+<td><p>2540</p></td>
+<td><p>7130</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 節目專輯
 
@@ -915,6 +1225,24 @@ I'll（主唱、鍵盤）<br />
 #### 《JTBC Super Band Episode 8》
 
   - 發行日期：2019年6月1日
+  - 企劃公司：JTBC
+  - 發行公司：Dreamus
+
+#### 《JTBC Super Band Episode 9》
+
+  - 發行日期：2019年6月8日
+  - 企劃公司：JTBC
+  - 發行公司：Dreamus
+
+#### 《JTBC Super Band Episode 10》
+
+  - 發行日期：2019年6月15日
+  - 企劃公司：JTBC
+  - 發行公司：Dreamus
+
+#### 《JTBC Super Band Episode 11》
+
+  - 發行日期：2019年6月22日
   - 企劃公司：JTBC
   - 發行公司：Dreamus
 
@@ -994,7 +1322,8 @@ I'll（主唱、鍵盤）<br />
 </tbody>
 </table>
 
-## 註釋與參考資料
+
+\== 註釋與參考資料 ==
 
 ### 註釋
 

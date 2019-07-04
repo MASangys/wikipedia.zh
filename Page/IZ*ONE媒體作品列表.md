@@ -102,6 +102,13 @@
 <td></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>2019年6月27日</p></td>
+<td></td>
+<td><p>《IZ*ONE 日本2nd单曲发行纪念 特别脱口秀》</p></td>
+<td><p>[8]</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -351,7 +358,7 @@
 <td><p>2019年1月2、9日</p></td>
 <td><p>bayfm</p></td>
 <td></td>
-<td><p>宮脇咲良、曺柔理、崔叡娜、矢吹奈子、金玟周[8]</p></td>
+<td><p>宮脇咲良、曺柔理、崔叡娜、矢吹奈子、金玟周[9]</p></td>
 <td><p>宮脇咲良冠名节目</p></td>
 </tr>
 <tr class="even">
@@ -366,7 +373,7 @@
 <td></td>
 <td><p>JJANG! KOREA</p></td>
 <td><p>全員</p></td>
-<td><p>[9]</p></td>
+<td><p>[10]</p></td>
 </tr>
 <tr class="even">
 <td><p>2019年2月7日</p></td>
@@ -410,6 +417,13 @@
 <td><p>全員</p></td>
 <td><p>张员瑛因年龄而事前录制</p></td>
 </tr>
+<tr class="even">
+<td><p>2019年6月24日</p></td>
+<td></td>
+<td><p>Delight</p></td>
+<td><p>张员瑛、曺柔理、崔叡娜、矢吹奈子、本田仁美、金采源</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -426,3 +440,4 @@
 7.
 8.
 9.
+10.

@@ -96,8 +96,9 @@ Docker实现了一个高级[API，以提供单独运行进程的轻量级容器]
 \[49\]
 
 使用容器可以通过允许多个应用程序，工作任务和其他进程在单个物理主机上或跨多个虚拟机自主运行来简化高度[分布式系统的创建](../Page/分布式计算.md "wikilink")。
-这允许在资源变得可用或需要更多节点时执行节点部署，从而允许[平台即服务](https://zh.wikipedia.org/wiki/平台即服务 "wikilink")
-（PaaS）风格的部署和扩展，用于[Apache Cassandra](../Page/Cassandra.md "wikilink") ，
+这允许在资源变得可用或需要更多节点时执行节点部署，从而允许[平台即服务](../Page/平台即服务.md "wikilink")
+（PaaS）风格的部署和扩展，用于[Apache
+Cassandra](../Page/Cassandra.md "wikilink") ，
 [MongoDB和Riak等系统](../Page/MongoDB.md "wikilink") 。 \[50\] \[51\]
 
 ### 集成
@@ -116,7 +117,7 @@ Azure](../Page/Microsoft_Azure.md "wikilink") ， \[61\]
 vSphere集成容器 。 \[69\] \[70\]
 
 Cloud Foundry Diego项目将Docker集成到Cloud Foundry
-[PaaS中](https://zh.wikipedia.org/wiki/平台即服务 "wikilink") 。 \[71\]
+[PaaS中](../Page/平台即服务.md "wikilink") 。 \[71\]
 
 Nanobox使用Docker（本机和[VirtualBox](../Page/VirtualBox.md "wikilink")
 ）容器作为其软件开发平台的核心部分。 \[72\]

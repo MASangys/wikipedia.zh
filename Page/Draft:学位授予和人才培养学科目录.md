@@ -687,9 +687,9 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>0813 建筑学</p></td>
+<td><p>0813 <a href="../Page/建筑学.md" title="wikilink">建筑学</a></p></td>
 <td><p>081301</p></td>
-<td><p>建筑历史与理论</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/建筑历史" title="wikilink">建筑历史与</a><a href="https://zh.wikipedia.org/wiki/建筑理论" title="wikilink">理论</a></p></td>
 </tr>
 <tr class="even">
 <td><p>081302</p></td>
@@ -698,7 +698,7 @@
 </tr>
 <tr class="odd">
 <td><p>081303</p></td>
-<td><p>城市规划与设计(含∶风景园林规划与设计)</p></td>
+<td><p><a href="../Page/城市规划.md" title="wikilink">城市规划与</a><a href="../Page/城市设计.md" title="wikilink">设计</a>(含∶<a href="../Page/园林设计.md" title="wikilink">风景园林规划与设计</a>)</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -707,13 +707,13 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>0814 土木工程</p></td>
+<td><p>0814 <a href="../Page/土木工程.md" title="wikilink">土木工程</a></p></td>
 <td><p>081401</p></td>
-<td><p>岩土工程</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/岩土工程" title="wikilink">岩土工程</a></p></td>
 </tr>
 <tr class="even">
 <td><p>081402</p></td>
-<td><p>结构工程</p></td>
+<td><p><a href="../Page/结构工程.md" title="wikilink">结构工程</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -737,13 +737,13 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>0815 水利工程</p></td>
+<td><p>0815 <a href="../Page/水利工程.md" title="wikilink">水利工程</a></p></td>
 <td><p>081501</p></td>
-<td><p>水文学及水资源</p></td>
+<td><p><a href="../Page/水文学.md" title="wikilink">水文学及水资源</a></p></td>
 </tr>
 <tr class="even">
 <td><p>081502</p></td>
-<td><p>水力学及河流动力学</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/水力学" title="wikilink">水力学及河流动力学</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -762,24 +762,24 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>0816 测绘科学与技术</p></td>
+<td><p>0816 <a href="../Page/测绘学.md" title="wikilink">测绘科学与技术</a></p></td>
 <td><p>081601</p></td>
-<td><p>大地测量学与测量工程</p></td>
+<td><p><a href="../Page/大地测量学.md" title="wikilink">大地测量学与测量工程</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>081602</p></td>
-<td><p>摄影测量与遥感</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/摄影测量" title="wikilink">摄影测量与</a><a href="../Page/遥感.md" title="wikilink">遥感</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>081603</p></td>
-<td><p>地图制图学与地理信息工程</p></td>
+<td><p><a href="../Page/地图学.md" title="wikilink">地图制图学与地理信息工程</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>0817 化学工程与技术</p></td>
 <td><p>081701</p></td>
-<td><p>化学工程</p></td>
+<td><p><a href="../Page/化学工程.md" title="wikilink">化学工程</a></p></td>
 </tr>
 <tr class="even">
 <td><p>081702</p></td>
@@ -788,12 +788,12 @@
 </tr>
 <tr class="odd">
 <td><p>081703</p></td>
-<td><p>生物化工</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/生物化工" title="wikilink">生物化工</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>081704</p></td>
-<td><p>应用化学</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/应用化学" title="wikilink">应用化学</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

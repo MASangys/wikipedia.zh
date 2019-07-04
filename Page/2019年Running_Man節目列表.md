@@ -19,6 +19,10 @@
 
 整集節目中有經常參與的出演者，無論其以何種身份出演或是否有遊戲勝出權皆視為嘉賓，其他只參與某一環節的出演者則視為「特別出演」或「驚喜出演」於備註欄中列出，而名字則以節目內的名牌為準；如節目於多過一個地標拍攝，會以最終任務場地或最重要的地標作準；主題名稱以節目播出時左上方資料以作標示。有關聯的集數（例如同一主題或同樣的嘉賓）會被視作「**特輯**」，單一集數則為「**篇**」，播放次數以一「特輯」或一「篇」作計算。若是多週一樣目的則為「**企劃**」。
 
+另外，节目曾于6月30日因直播[第三次-{zh-cn:朝美; zh-tw:北韓－美國; zh-hk:美朝;
+zh-sg:美朝}--{zh-cn:首脑会晤; zh-tw:高峰會; zh-hk:首腦會談;
+zh-sg:首脑会晤}-而停播一周](https://zh.wikipedia.org/wiki/2019年6月朝美首腦會談 "wikilink")。
+
 ## 集數
 
 ### 2019年Running Man新年企劃－Runningman Playing Game（R.P.G.）（1月）
@@ -304,8 +308,14 @@ width=30%|隊伍\!\!width=8%| 勝利條件\!\!結果及備註\!\!width=10%| 各�
 池錫辰、劉在錫、金鐘國、李光洙<br />
 <strong>宋智孝隊</strong><br />
 宋智孝、哈哈、全昭旻、梁世燦</p></td>
-<td><p>所屬團隊勝出且沒有離開密室（因為兇手是<a href="https://zh.wikipedia.org/wiki/霧霾" title="wikilink">霧霾</a>）</p></td>
-<td><p>金鐘國<strong>勝出</strong><br />
+<td><p><strong>團隊任務</strong><br />
+最先破解電腦的密碼<br />
+<strong>個人任務</strong><br />
+團隊任務勝出並沒有離開密室（因為兇手是<a href="https://zh.wikipedia.org/wiki/霧霾" title="wikilink">霧霾</a>）</p></td>
+<td><p><strong>團隊任務</strong><br />
+池錫辰隊<strong>勝出</strong><br />
+<strong>個人任務</strong><br />
+金鐘國<strong>勝出</strong><br />
 獲得空氣清新機商品券</p></td>
 </tr>
 <tr class="odd">
@@ -550,11 +560,30 @@ colspan="2" |<span style="font-size:110%">**第4章－看到了奇蹟**</span>
 並選擇其他成員的修飾語為RM國內粉絲見面會主題曲的歌詞 |- \!391 \!457 |6月23日<small>
 （6月17日）</small> |
 [薛仁雅](../Page/薛仁雅.md "wikilink")、[請夏](https://zh.wikipedia.org/wiki/請夏 "wikilink")
-|
+|麻浦文化儲備基地
+<small>（[首爾特別市](https://zh.wikipedia.org/wiki/首爾特別市 "wikilink")
+[麻浦區](../Page/麻浦區.md "wikilink")）</small> | colspan="2"
+|<span style="font-size:110%">**休息週－0餘額競賽**</span>
+**個人戰**
+沒有隊伍 |最終"R"幣數目最多 |劉在錫**勝出**
+李光洙及薛仁雅分別因為資金破產及"R"幣數目最少而落敗，同時薛仁雅選擇與池錫辰聯同落敗的李光洙一同接受水炸彈懲罰 |- \!
+colspan="9" |因直播[第三次-{zh-cn:朝美; zh-tw:北韓－美國; zh-hk:美朝;
+zh-sg:美朝}--{zh-cn:首脑会晤; zh-tw:高峰會; zh-hk:首腦會談;
+zh-sg:首脑会晤}-](https://zh.wikipedia.org/wiki/2019年6月朝美首腦會談 "wikilink")，節目停播一週。
+|- \!392 \!458 |7月7日<small>
+（6月18日）</small> | |
 <small>（
 ）</small> | colspan="2"
-|<span style="font-size:110%">**休息週－碟中諜補品**</span>
-| |**勝出** |}
+|<span style="font-size:110%">**第6章－現在要去接你**</span>
+| |**勝出** |- \!393 \!459 |7月14日<small>
+（6月25日）</small> | 無嘉賓 |
+<small>（
+）</small> | colspan="2" |<span style="font-size:110%">**第7章－**</span>
+| |**勝出** |- \!394 \!460 |7月21日<small>
+（7月2日）</small> | |
+<small>（
+）</small> | colspan="2" |<span style="font-size:110%">**第8章－**</span>
+| |**勝出** |- |}
 
 ## 收視率
 
@@ -581,7 +610,7 @@ colspan="2" |<span style="font-size:110%">**第4章－看到了奇蹟**</span>
 <tr class="even">
 <td><p>433</p></td>
 <td><p>1月6日</p></td>
-<td><p>rowspan=34 </p></td>
+<td><p>rowspan=25 </p></td>
 <td><p>8.2%</p></td>
 </tr>
 <tr class="odd">
@@ -725,64 +754,70 @@ colspan="2" |<span style="font-size:110%">**第4章－看到了奇蹟**</span>
 <tr class="even">
 <td><p>457</p></td>
 <td><p>6月23日</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>7.1%</p></td>
+<td><p>5.6%</p></td>
 </tr>
 <tr class="odd">
-<td><p>458</p></td>
-<td><p>6月30日</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>因直播<a href="https://zh.wikipedia.org/wiki/2019年6月朝美首腦會談" title="wikilink">第三次-{zh-cn:朝美; zh-tw:北韓－美國; zh-hk:美朝; zh-sg:美朝}--{zh-cn:首脑会晤; zh-tw:高峰會; zh-hk:首腦會談; zh-sg:首脑会晤}-</a>，節目暫停放送一週。</p></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
-<td><p>459</p></td>
+<td><p>458</p></td>
 <td><p>7月7日</p></td>
-<td><p>%</p></td>
+<td><p>rowspan=9 </p></td>
 <td><p>%</p></td>
 </tr>
 <tr class="odd">
-<td><p>460</p></td>
+<td><p>459</p></td>
 <td><p>7月14日</p></td>
 <td><p>%</p></td>
 <td><p>%</p></td>
 </tr>
 <tr class="even">
-<td><p>461</p></td>
+<td><p>460</p></td>
 <td><p>7月21日</p></td>
 <td><p>%</p></td>
 <td><p>%</p></td>
 </tr>
 <tr class="odd">
-<td><p>462</p></td>
+<td><p>461</p></td>
 <td><p>7月28日</p></td>
 <td><p>%</p></td>
 <td><p>%</p></td>
 </tr>
 <tr class="even">
-<td><p>463</p></td>
+<td><p>462</p></td>
 <td><p>8月4日</p></td>
 <td><p>%</p></td>
 <td><p>%</p></td>
 </tr>
 <tr class="odd">
-<td><p>464</p></td>
+<td><p>463</p></td>
 <td><p>8月11日</p></td>
 <td><p>%</p></td>
 <td><p>%</p></td>
 </tr>
 <tr class="even">
-<td><p>465</p></td>
+<td><p>464</p></td>
 <td><p>8月18日</p></td>
 <td><p>%</p></td>
 <td><p>%</p></td>
 </tr>
 <tr class="odd">
-<td><p>466</p></td>
+<td><p>465</p></td>
 <td><p>8月25日</p></td>
 <td><p>%</p></td>
 <td><p>%</p></td>
 </tr>
 <tr class="even">
+<td><p>466</p></td>
+<td><p>9月1日</p></td>
+<td><p>%</p></td>
+<td><p>%</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>

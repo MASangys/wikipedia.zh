@@ -1,4 +1,4 @@
-**加藤心**（，；），藝名為**KOKORO**（）。[日本女歌手](../Page/日本.md "wikilink")，是韓國女子組合[Cherry
+**加藤心**（，；），藝名為**KOKORO**（）。[日本](../Page/日本.md "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")，是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Cherry
 Bullet成員之一](../Page/Cherry_Bullet.md "wikilink")。\[1\]
 
 ## 預告照

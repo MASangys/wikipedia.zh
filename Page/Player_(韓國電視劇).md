@@ -95,7 +95,7 @@ Asia於新加坡](https://zh.wikipedia.org/wiki/tvN_Asia "wikilink")、馬來西
 <td></td>
 <td><p>金寶熙</p></td>
 <td><p>事務官。張仁奎檢察室的事務官。</p></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梁瑞芬" title="wikilink">梁瑞芬</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -126,7 +126,7 @@ Asia於新加坡](https://zh.wikipedia.org/wiki/tvN_Asia "wikilink")、馬來西
 <td></td>
 <td><p>延在碩</p></td>
 <td><p>那個人。 大BOSS</p></td>
-<td></td>
+<td><p><a href="../Page/陳漢祺.md" title="wikilink">陳漢祺</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>[7]</p></td>

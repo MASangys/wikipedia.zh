@@ -1,9 +1,10 @@
-**3D
-Touch**是[蘋果公司開發的一項技術](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")，可以使觸控板和触摸屏區分施加在其表面上的各種力。它使用壓力傳感器，為Apple的設備添加另一種輸入方法。\[1\]\[2\]該技術於2014年9月9日在[Apple
+\-{T|zh:3D Touch; zh-hans:三维触控; zh-hant:3D觸控}-
+
+**三维触控**（3D
+Touch）是[蘋果公司開發的一項技術](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")，可以使觸控板和触摸屏區分施加在其表面上的各種力。它使用壓力傳感器，為Apple的設備添加另一種輸入方法。\[1\]\[2\]該技術於2014年9月9日在[Apple
 Watch推出期間首次亮相](https://zh.wikipedia.org/wiki/Apple_Watch "wikilink")。從Apple
-Watch開始，Force Touch已被整合到Apple陣容的許多產品中。這包括著名的MacBook和Magic Trackpad
-2。該技術在[iPhone型號上稱為](https://zh.wikipedia.org/wiki/iPhone "wikilink")3D
-Touch。該技術通過提供接受輸入的第三維來為軟件帶來可用性增強。訪問快捷方式、預覽詳細信息、繪圖藝術和系統範圍的功能，使用戶能夠通過在輸入表面上施加力來額外地與顯示的內容互動。
+Watch開始，Force Touch已被整合到Apple陣容的許多產品中。這包括著名的MacBook和妙控板
+2。該技術在[iPhone型號上稱為三维触控](https://zh.wikipedia.org/wiki/iPhone "wikilink")。該技術通過提供接受輸入的第三維來為軟件帶來可用性增強。訪問快捷方式、預覽詳細信息、繪圖藝術和系統範圍的功能，使用戶能夠通過在輸入表面上施加力來額外地與顯示的內容互動。
 
 ## 功能
 
@@ -15,7 +16,7 @@ Mac上的Force Touch带来了各种功能。一些值得注意的是：\[3\]
   - 预览航班号，跟踪号码和事件的详细信息。
   - 使用可变压力加速[QuickTime和](../Page/QuickTime.md "wikilink")[IMovie快进和倒带](../Page/IMovie.md "wikilink")。
 
-iPhone上的3D Touch带来的功能包括但不限于：\[4\]\[5\]
+iPhone上的三维触控带来的功能包括但不限于：\[4\]\[5\]
 
   - 允许用户快速操作来从主屏幕访问多个设定的快捷方式。
   - Peek和Pop允许用户预览内容并对其执行操作，而无需打开它。进一步深入，用户可以弹出应用程序中的内容。

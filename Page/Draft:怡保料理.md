@@ -33,7 +33,7 @@
     soy sauce, then subsequently poured on with some curry gravy. Dry
     curry nosually accompanied by slices of shredded chicken, [char
     siu](../Page/叉燒.md "wikilink"), cockles, and sometimes [siu
-    yuk](https://zh.wikipedia.org/wiki/燒豬 "wikilink").
+    yuk](../Page/燒豬.md "wikilink").
   - **[Fish ball](../Page/鱼丸.md "wikilink") noodles** (Chinese : 鱼丸面) -
     Noodles served with round, spherical bites of fish paste steeped in
     a light broth on the side. Local variants may include tiny versions

@@ -1,5 +1,4 @@
-**Jus2**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JYP娛樂於](../Page/JYP娛樂.md "wikilink")2014年推出的7人男子團體[GOT7的分隊](../Page/GOT7.md "wikilink")，由主唱[JB](../Page/林在範.md "wikilink")、主舞[有謙組成](../Page/金有謙.md "wikilink")，有謙擔任隊長。團名Jus2是「Just」與「Two」的合成詞，意思是兩人能將「表演」和「歌曲」都完美展現\[1\]。Jus2為JYPE首度推出的分隊，2019年3月5日以迷你專輯《FOCUS
-ON ME》正式出道。
+**Jus2**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JYP娛樂於](../Page/JYP娛樂.md "wikilink")2014年推出的7人男子團體[GOT7的分隊](../Page/GOT7.md "wikilink")，由主唱[JB](../Page/林在範.md "wikilink")、主舞[有謙組成](../Page/金有謙.md "wikilink")，有謙擔任隊長。團名Jus2是「Just」與「Two」的合成詞，意思是兩人能將「表演」和「歌曲」都完美展現\[1\]。Jus2為JYPE首度推出的分隊，2019年3月5日以迷你專輯《FOCUS》正式出道。
 
 ## 成員列表
 

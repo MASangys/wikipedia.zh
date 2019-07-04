@@ -56,7 +56,7 @@
 <tr class="odd">
 <td style="text-align: center;"><p>2019年7月19日－<br />
 2019年9月</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/痛症醫師車耀漢" title="wikilink">痛症醫師車耀漢</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/醫生約翰" title="wikilink">醫生約翰</a><br />
 </p></td>
 <td style="text-align: center;"><p>32</p></td>
 <td style="text-align: center;"><p><a href="../Page/池晟.md" title="wikilink">池晟</a>、<a href="../Page/李世榮_(韓國).md" title="wikilink">李世榮</a>、<a href="../Page/李奎炯.md" title="wikilink">李奎炯</a></p></td>

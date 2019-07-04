@@ -99,6 +99,16 @@ function p.fillPeriodicTableElementData(frame)
 `           targs[arg] = val`
 `       end`
 `   end`
+`   local delnowiki = false`
+`   mw.log(args["delnowiki"] )`
+`   if args["delnowiki"] then`
+`       if type(yesno) ~= type(tonumber) then yesno = require('Module:Yesno') end`
+`       if yesno(args["delnowiki"] or 'no') then local delnowiki_lib=require('Module:Delcat').delnowiki --備用`
+`           delnowiki = true`
+`       end`
+`   end`
+
+mw.log(delnowiki)
 
 `   local element = {}`
 `   local element_id = -1`
@@ -118,6 +128,7 @@ function p.fillPeriodicTableElementData(frame)
 `       else`
 `           local wrap_body = args[1] or args['1'] or args['celltext'] or '\n'`
 `           if templateParameters._getFormatingStringByArgument == nil then templateParameters = require( 'Module:TemplateParameters' ) end`
+`           if delnowiki then wrap_body = mw.text.unstripNoWiki( wrap_body ) end`
 `           local usingConditionalExpressions = false`
 `           if args.usingConditionalExpressions then`
 `               if type(yesno) ~= type(tonumber) then yesno = require('Module:Yesno') end`
@@ -129,7 +140,6 @@ function p.fillPeriodicTableElementData(frame)
 `           if usingConditionalExpressions then`
 `               wrap_body = frame:preprocess( wrap_body )`
 `           end`
-`       `
 `           return wrap_body`
 `       end`
 `       element = p.utils.element_data[1] `
@@ -139,7 +149,8 @@ function p.fillPeriodicTableElementData(frame)
 
 `"`
 `   if (args['celltext'] and args['celltext'] ~= '') then celltext = string.gsub(args['celltext'] , "%s$", "") end`
-
+`   if delnowiki then celltext = mw.text.unstripNoWiki( celltext ) end`
+`   `
 `   local eleargs = {}`
 `   for propetry, value in pairs(element) do`
 `       if type(value) == type("") then eleargs[propetry] = value`

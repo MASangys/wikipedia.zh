@@ -24,7 +24,7 @@
 <p>但是！一通可疑的電話！</p>
 <p>VRVR的命運是？</p></td>
 <td><p>全體</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金元植" title="wikilink">RAVI</a> <a href="../Page/朴素賢.md" title="wikilink">朴素賢</a></p></td>
+<td><p><a href="../Page/金元植.md" title="wikilink">RAVI</a> <a href="../Page/朴素賢.md" title="wikilink">朴素賢</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2</p></td>
@@ -35,7 +35,7 @@
 <p>那.我！從現在辛苦的開始</p>
 <p>"我們很淒涼....已經..."</p>
 <p>在黑暗中，VRVR的前途如何？</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金元植" title="wikilink">RAVI</a></p>
+<td><p><a href="../Page/金元植.md" title="wikilink">RAVI</a></p>
 <p><a href="https://zh.wikipedia.org/wiki/鄭澤運" title="wikilink">LEO</a></p>
 <p>(<a href="../Page/VIXX_LR.md" title="wikilink">LR</a>)</p>
 <p><a href="../Page/朴素賢.md" title="wikilink">朴素賢</a></p></td>
@@ -48,7 +48,7 @@
 <p>可愛忙內姜民</p>
 <p>成爲村會館的超級明星？</p>
 <p>VRVR獨有的特別宣傳影像製作！</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金元植" title="wikilink">RAVI</a></p>
+<td><p><a href="../Page/金元植.md" title="wikilink">RAVI</a></p>
 <p><a href="https://zh.wikipedia.org/wiki/鄭澤運" title="wikilink">LEO</a></p>
 <p>(<a href="../Page/VIXX_LR.md" title="wikilink">LR</a>)</p>
 <p><a href="../Page/朴素賢.md" title="wikilink">朴素賢</a></p></td>
@@ -77,7 +77,7 @@
 <td><p>"花美男咖啡師VRVR來了？" 用魅力的聲音狙擊少女心（嘡嘡）</p>
 <p>還有進行夜釣的VRVR！</p>
 <p>果然 滿滿的夢想能否實現？</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金元植" title="wikilink">RAVI</a></p>
+<td><p><a href="../Page/金元植.md" title="wikilink">RAVI</a></p>
 <p><a href="../Page/朴素賢.md" title="wikilink">朴素賢</a></p></td>
 <td></td>
 </tr>
@@ -86,7 +86,7 @@
 <td><p>2018年11月2日</p></td>
 <td><p>和哥哥們幸福地旅行...以爲是這樣子的吧? (@_@;; 好...等等...)</p>
 <p>究竟 忙內姜民能安然無恙的結束一日隊長嗎?</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金元植" title="wikilink">RAVI</a> <a href="../Page/朴素賢.md" title="wikilink">朴素賢</a></p></td>
+<td><p><a href="../Page/金元植.md" title="wikilink">RAVI</a> <a href="../Page/朴素賢.md" title="wikilink">朴素賢</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

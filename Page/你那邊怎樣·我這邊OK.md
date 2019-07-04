@@ -97,7 +97,7 @@
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/陈泂江" title="wikilink">陈泂江</a></p></td>
 <td><p>吴品叡</p></td>
-<td><p><strong>龍行集团少东</strong><br />
+<td><p><strong>龍航集團副總</strong><br />
 表面上白淨斯文，实际上为人粗暴残忍，狡猾偏激，城府极深<br />
 与范筱艾是高中同学</p></td>
 </tr>

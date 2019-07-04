@@ -6,6 +6,7 @@
 | ---------- | --------------------------------------------------------------------------- | ---------------------------------------------------------------------- | -- |
 | 2018年5月2日  | [(G)I-DLE出道Showcase](https://www.youtube.com/watch?v=Uqhm7vq3u1Y)           | 首尔Blue Square                                                          |    |
 | 2019年2月26日 | [(G)I-DLE迷你二辑《I made》Showcase](https://www.youtube.com/watch?v=nXQJhTa6HXs) | 首尔Blue Square                                                          |    |
+| 2019年6月26日 | (G)I-DLE《Uh-Oh》Showcase                                                     | 首尔Blue Square                                                          |    |
 | 2019年7月23日 | (G)I-DLE日本出道Showcase                                                        | [东京](../Page/东京.md "wikilink")[赤坂BLITZ](../Page/赤坂BLITZ.md "wikilink") |    |
 
 ## 参与演唱会
@@ -43,6 +44,7 @@
 | 5月18日 |
 | 5月26日 |
 | 7月7日  |
+| 8月24日 |
 | 9月1日  |
 | 9月    |
 
@@ -221,6 +223,12 @@
 <td><p>6月15日</p></td>
 <td><p>K-pop Artist Festival</p></td>
 <td><p><a href="../Page/果川市.md" title="wikilink">果川</a><a href="https://zh.wikipedia.org/wiki/首尔大公园" title="wikilink">首尔大公园东门</a></p></td>
+<td><p>雨琦缺席</p></td>
+</tr>
+<tr class="odd">
+<td><p>8月23日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Soribada最佳音乐大奖" title="wikilink">第3届Soribada最佳音乐大奖颁奖典礼</a></p></td>
+<td><p><a href="../Page/首尔奥林匹克体操竞技场.md" title="wikilink">首尔奥林匹克体操竞技场</a></p></td>
 <td></td>
 </tr>
 </tbody>

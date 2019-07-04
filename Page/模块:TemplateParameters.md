@@ -200,6 +200,7 @@ end
 
 `   -- For calling from #invoke.`
 `   local args`
+`   --是否存在有效的frame可供呼叫`
 `   local can_call_parse = false`
 `   if frame == mw.getCurrentFrame() then`
 `       -- We're being called via #invoke. The args are passed through to the module`
@@ -211,18 +212,55 @@ end
 `       -- the args are passed in directly.`
 `       args = frame`
 `   end`
-`   local input_str = ''`
-`   local count = 1`
+`   local input_str = '' --輸入的格式化字串`
+`   local count = 1 --預設參數數量為1個一組`
 `   if args["format"] or args["Format"] or args["格式"] then input_str = args["format"] or args["Format"] or args["格式"] or '' end`
 `   if args["count"] then count = tonumber(args["count"] or 1) or 1 end`
-`   local display_all = false`
+`   local display_all = false --是否顯示跳過的參數 (如輸入1,2,5參數，決定是否輸出3,4參數)`
+`   local delnowiki = false --是否從nowiki中解除包裝`
+`   local allexpr = false --是否每組參數全部都呼叫一次帶參數的新解析器 (高開銷，最多100次)`
+`   local allexpr_count = 1 --紀錄呼叫帶參數的新解析器次數，以免超過100次lua停止運作`
 `   if args["displayAll"] then`
 `       if type(yesno) ~= type(tonumber) then yesno = require('Module:Yesno') end`
 `       display_all = yesno(args["displayAll"] or 'no')`
 `   end`
-`   count = math.floor(count)`
-`   if count < 1 then count = 1 end`
-`   local usingConditionalExpressions = false`
+`   if args["delnowiki"] then`
+`       if type(yesno) ~= type(tonumber) then yesno = require('Module:Yesno') end`
+`       if yesno(args["delnowiki"] or 'no') then local delnowiki=require('Module:Delcat').delnowiki --備用`
+`           input_str = mw.text.unstripNoWiki( input_str )`
+`       end`
+`   end`
+`   if args["allexpr"] then --較耗費資源`
+`       if type(yesno) ~= type(tonumber) then yesno = require('Module:Yesno') end`
+`       allexpr = yesno(args["allexpr"] or 'no')`
+`   end`
+`   count = math.floor(count) --不處理小數`
+`   if count < 1 then count = 1 end --非正整數當作1`
+`   `
+`   local other_num_args = {} --紀錄範圍外參數`
+`   if args["checkMoreArg"] then --處理範圍外參數 (如已定義每組3參數，但想用``存取下一組的第一參數)`
+`       if type(yesno) ~= type(tonumber) then yesno = require('Module:Yesno') end`
+`       if yesno(args["checkMoreArg"] or 'no') then --較耗費資源`
+`           local allnumarg_checker = mw.ustring.gmatch(input_str,"%{%{%{[^%{%}%|]+[%}%|]")`
+`           local pre_arg_str = allnumarg_checker() --匹配模板參數`
+`           local find_num_args = {}`
+`           while(pre_arg_str) do`
+`               local arg_name_str = mw.ustring.gsub(pre_arg_str,"[^%d%l%u%+%-%.]",'')`
+`               local arg_name_num = tonumber(arg_name_str)`
+`               if arg_name_num then`
+`                   find_num_args[arg_name_num] = true`
+`               end`
+`               pre_arg_str = allnumarg_checker()`
+`           end`
+`           for check_is_other_num_args, _ in pairs(find_num_args) do --紀錄範圍外參數`
+`               if check_is_other_num_args > count or check_is_other_num_args < 1 then`
+`                   other_num_args[#other_num_args + 1] = check_is_other_num_args`
+`               end`
+`           end`
+`       end`
+`   end`
+
+`   local usingConditionalExpressions = false --是否額外再呼叫解析器函數`
 `   if args.usingConditionalExpressions then`
 `       if type(yesno) ~= type(tonumber) then yesno = require('Module:Yesno') end`
 `       if yesno(args.usingConditionalExpressions) == true and can_call_parse then`
@@ -230,34 +268,65 @@ end
 `           input_str = p._get_escape(input_str)`
 `       end`
 `   end`
-`   local out_frame = mw.getCurrentFrame():getParent()`
-`   local out_args = {}`
+`   local out_frame = mw.getCurrentFrame():getParent() --模板外層`
+`   local out_args = {} --紀錄來自模板外層提供的參數`
 `   local body = ''`
 `   if out_frame then out_args = out_frame.args or out_args end`
-`   local max_count, i, j = 1, 0, 0 for index, _ in pairs(out_args) do if (tonumber(index) or 0) > max_count then max_count = (tonumber(index) or 0) end end`
-`   max_count = math.ceil(max_count / count);`
+`   `
+`   local valueTable = {} --紀錄可用值 (參數) 提供填入參數之用`
+`   local max_count, i, j = 1, 0, 0 for index, arg_val in pairs(out_args) do if (tonumber(index) or 0) > max_count then max_count = (tonumber(index) or 0) end valueTable[#valueTable + 1] = arg_val end`
+`   max_count = math.ceil(max_count / count); --獲輸入參數之最大數量 (以組為單位)`
 `   local last_one = false`
 `   for i = 1, max_count do`
-`       local local_arg = {}`
-`       local_arg["isLast"], local_arg["isFirst"]= '', ''`
-`       local_arg["count"]=tostring(max_count)`
-`       local_arg["ArgGroupID"] = tostring(i)`
+`       local local_arg = {} --紀錄本組的參數`
+`       local_arg.isLast, local_arg["isFirst"]= '', '' --提供判斷的魔術參數`
+`       local_arg.count=tostring(max_count)`
+`       local_arg.argGroupID = tostring(i)`
+`       local_arg.last = out_args[tostring(i * count)] or out_args[i * count] or args[tostring(count)] or args[count]`
+`       if local_arg.last == nil and not allexpr then local_arg.last=('``') end`
 `       if i == max_count then local_arg["isLast"] = '1' end`
 `       if i == 1 then local_arg["isFirst"] = '1' end`
-`       --本組參數是否有值`
-`       local is_ready = false`
+`       if allexpr and allexpr_count > 99 then`
+`           allexpr = false  --紀錄呼叫帶參數的新解析器次數，超過100次停止運作，改用純字串替換完成輸出`
+`           mw.addWarning( "指定 \"allexpr\" 參數全部展開已超過展開上限，後面的參數將使用低消耗函式填入數值。" )`
+`       end`
+`       if(#valueTable > 1) then --提供部分須輪播展示的參數組`
+`           local_arg.allRandom = valueTable[math.random( 1, #valueTable )]`
+`           local rand_local = math.random(1, count)`
+`           local rand_it = (i-1) * count + rand_local --查無參數則從外層抓`
+`           local_arg.random = out_args[tostring(rand_it)] or out_args[rand_it] or args[tostring(rand_local)] or args[rand_local]`
+`               if local_arg.random == nil and not allexpr then local_arg.random=('``') end`
+`       end`
+`       local is_ready = false --本組參數是否有值`
 `       for j = 1, count do`
 `           local it = (i-1) * count + j`
 `           local_arg.ArgID = tostring(it)`
-`           local_arg[j] = out_args[tostring(it)] or out_args[it] or args[tostring(j)] or args[j] or ('``')`
+`           local_arg[j] = out_args[tostring(it)] or out_args[it] or args[tostring(j)] or args[j]`
+`           if local_arg[j] == nil and not allexpr then local_arg[j]=('``') end`
 `           --找到本組參數的其中一個值`
 `           if out_args[tostring(it)] or out_args[it] then is_ready = true end`
 `       end`
+`       for _, other_arg_it in ipairs(other_num_args) do --處理範圍外參數`
+`           local it = (i-1) * count + other_arg_it`
+`           local_arg[other_arg_it] = out_args[tostring(it)] or out_args[it] or args[tostring(other_arg_it)] or args[other_arg_it]`
+`           if local_arg[other_arg_it] == nil and not allexpr then local_arg[other_arg_it]=('``') end`
+`       end`
 `       if is_ready or display_all then --本組參數有值存在才輸出; 如果設定全部顯示也顯示`
 `           local output_str = tostring(input_str)`
-`           body=body..p._getFormatingStringByArgument(output_str, local_arg)`
+`           if allexpr then `
+`               for org_arg, org_arg_val in pairs(args) do`
+`                   if (local_arg[org_arg] or '') == '' then local_arg[org_arg] = org_arg_val end`
+`               end`
+`               local working_frame = frame:newChild{ title = frame:getTitle(), args = local_arg }`
+`               body=body..working_frame:preprocess( output_str ) --呼叫帶參數的新解析器`
+`               allexpr_count=allexpr_count+1`
+`           else`
+`               body=body..p._getFormatingStringByArgument(output_str, local_arg) --使用一般字串取代填入參數`
+`           end`
+`           `
 `       end`
 `   end`
+
 `   if usingConditionalExpressions and can_call_parse then`
 `       body = frame:preprocess( body )`
 `   end`
@@ -322,7 +391,7 @@ end
 
 \--格式化字串的處理，會將特殊的  轉換 function p._getEscapeString(str) str =
 mw.ustring.gsub(mw.ustring.gsub(mw.ustring.gsub(mw.ustring.gsub(mw.ustring.gsub(mw.ustring.gsub(mw.ustring.gsub(mw.ustring.gsub(mw.ustring.gsub(mw.ustring.gsub(mw.ustring.gsub(mw.ustring.gsub(mw.ustring.gsub(mw.ustring.gsub(str,
-"%\[", "%\["), "%\]", "%\]"), "%{", "%{"), "%}", "%}"), "%%", "%%%%"),
+"%%", "%%%%"), "%\]", "%\]"), "%{", "%{"), "%}", "%}"), "%\[", "%\["),
 "%)", "%)"), "%-", "%-"), "%^", "%^"), "%$", "%$"), "%(", "%("), "%.",
 "%."), "%\*", "%\*"), "%+", "%+"), "%|", "%|"); return str; end function
 p._getFormatingStringByArgument(str, args)
@@ -336,7 +405,8 @@ p._getFormatingStringByArgument(str, args)
 
 end
 
-`function p._get_escape(str)`
+function p._get_escape(str)
+
 `   local escapestrs = mw.text.split( str, '\\\\')`
 `   local escapechars = {{"\\n", "\n"},{"\\r", "\r"},{"\\t", "\t"},{"\\b", "\b"},{"\\f", "\f"},{"\\v", "\v"},{"\\", ""},}`
 `   for i,text in pairs(escapestrs) do `
@@ -386,7 +456,14 @@ function p.pass_spstr(frame)
 `       if type(frame) ~= type({}) then args = {frame}`
 `       else args = frame end`
 `   end`
-`   local input_text = p._get_escape(args['code'] or '')`
+`   local input_text = args['code'] or ''`
+`   if args["delnowiki"] then`
+`       if type(yesno) ~= type(tonumber) then yesno = require('Module:Yesno') end`
+`       if yesno(args["delnowiki"] or 'no') then local delnowiki=require('Module:Delcat').delnowiki --備用`
+`           input_text = mw.text.unstripNoWiki( input_text )`
+`       end`
+`   end`
+`   local input_text = p._get_escape(input_text)`
 `   local input_args = { text = input_text }`
 `   local input_title = args['TemplateTitle']`
 `   local spilt_args = mw.text.split( args['args'] or '', '`<參數分隔/>`')`

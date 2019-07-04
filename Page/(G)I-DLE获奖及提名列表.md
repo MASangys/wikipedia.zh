@@ -286,6 +286,12 @@
 </tbody>
 </table>
 
+### [Soribada最佳音乐大奖（Soribada Best K-Music Awards）](https://zh.wikipedia.org/wiki/Soribada最佳音乐大奖 "wikilink")
+
+| 颁奖日期       | 届数  | 奖项 | 提名项目 | 结果 |
+| ---------- | --- | -- | ---- | -- |
+| 2019年8月23日 | 第3届 |    |      |    |
+
 ## 其它颁奖典礼
 
 ### 韩国品牌大奖（Brand of the Year Awards）
@@ -487,6 +493,7 @@
 | 2018年       | 5月22日\[32\] | LATATA |
 | 5月29日\[33\] |             |        |
 | 9月4日\[34\]  | HANN        |        |
+| 2019年       | 7月2日        | Uh-Oh  |
 
 ### [Show Champion](../Page/Show_Champion.md "wikilink")
 

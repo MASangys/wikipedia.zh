@@ -1,5 +1,5 @@
 **托哥**（英語：Torres Pit，
-1996年3月11日-），原名**別洪優**，香港youtuber。2014年從[福建中學畢業後成功考進](../Page/福建中學.md "wikilink")[香港大學](../Page/香港大學.md "wikilink")，並於2018年從城市規劃系畢業。他曾為[土豆](https://zh.wikipedia.org/wiki/土豆 "wikilink")「[神街坊](https://zh.wikipedia.org/wiki/神街坊 "wikilink")」的主持人，被譽為「街坊熱潮始祖」\[1\]。現於[YouTube經營其頻道](../Page/YouTube.md "wikilink")。
+1996年3月11日-），原名**別洪優**，[香港](../Page/香港.md "wikilink")[YouTuber](../Page/YouTuber.md "wikilink")。2014年從[福建中學畢業後成功考進](../Page/福建中學.md "wikilink")[香港大學](../Page/香港大學.md "wikilink")，並於2018年從城市規劃系畢業。他曾為[土豆](https://zh.wikipedia.org/wiki/土豆 "wikilink")「[神街坊](https://zh.wikipedia.org/wiki/神街坊 "wikilink")」的主持人，被譽為「街坊熱潮始祖」\[1\]。現於[YouTube經營其頻道](../Page/YouTube.md "wikilink")。
 
 ## 簡歷
 

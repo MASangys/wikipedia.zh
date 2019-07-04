@@ -2,7 +2,8 @@
 MONTARA**是一個香港新界東將軍澳東南部的臨海豪華私人屋苑，是[港鐵大型臨海住宅區](../Page/港鐵.md "wikilink")[日出康城第](../Page/日出康城.md "wikilink")7期，亦為[會德豐地產O](../Page/會德豐地產.md "wikilink")'
 East系列第2及第3個臨海住宅項目，由[會德豐地產及](../Page/會德豐地產.md "wikilink")[港鐵公司共同發展](https://zh.wikipedia.org/wiki/港鐵公司 "wikilink")，建築師為[英國知名品牌](https://zh.wikipedia.org/wiki/英國 "wikilink")[巴馬丹拿](../Page/巴馬丹拿.md "wikilink")，承建商為[中國海外房屋工程有限公司](https://zh.wikipedia.org/wiki/中國海外房屋工程有限公司 "wikilink")，將於2021年10月落成。
 
-MONTARA命名源自[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加州海濱社區](https://zh.wikipedia.org/wiki/加州 "wikilink")[蒙塔拉](https://zh.wikipedia.org/wiki/蒙塔拉 "wikilink")，配合日出康城這個全新海濱住宅區。屋苑基座為48萬平方呎的港鐵大型商場THE
+MONTARA以The Brilliance of Urban
+Nature為主題，命名源自[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加州海濱社區](https://zh.wikipedia.org/wiki/加州 "wikilink")[蒙塔拉](https://zh.wikipedia.org/wiki/蒙塔拉 "wikilink")，配合日出康城這個全新海濱住宅區。屋苑基座為48萬平方呎的港鐵大型商場THE
 LOHAS，與九龍站[圓方](../Page/圓方.md "wikilink")（Elements）同系，設全港最大溜冰場及將軍澳最大的戲院，以及室內外大型餐飲空間，另有獨立大堂連接MONTARA住宅；屋苑連接[THE
 LOHAS商場](../Page/THE_LOHAS.md "wikilink")，可於5分鐘內直達港鐵康城站；屋苑被GARDEN
 MONTARA、[日出公園及](../Page/日出公園.md "wikilink")[動感公園環抱](https://zh.wikipedia.org/wiki/動感公園 "wikilink")，區內綠化面積達100萬平方呎。
@@ -29,7 +30,7 @@ LOHAS商場可於5分鐘內直達港鐵康城站，迅速連接城內各處；�
 ### MONTARA
 
 第2座物業為MONTARA，屬日出康城第7A期，在2019年4月27日推售，以The Brilliance of Urban
-Nature為主題。項目分為A、B座，每層5-6伙，主打中型單位，面積由362方呎至816方呎的1至3房單位，兩房戶佔約60%，並提供平台及頂層特色戶，合共提供616伙。MONTARA間隔單位為1房2廳(連套房)、2房2廳、2房2廳及儲物室、3房2廳(連套房)、3房2廳(連套房)及儲物室。MONTARA三房單位全數附設獨立廚房，主人睡房一律附設浴室。平台特色戶位於6樓，共有11伙，外望GARDEN
+Nature為主題。項目分為A、B座，每層5-6伙，主打中型單位，面積由362方呎至816方呎的1至3房單位，兩房戶佔約60%，並提供平台及頂層特色戶，合共提供616伙。MONTARA間隔單位為1房2廳（連套房）、2房2廳、2房2廳及儲物室、3房2廳（連套房）、3房2廳（連套房）及儲物室。MONTARA三房單位全數附設獨立廚房，主人睡房一律附設浴室。平台特色戶位於6樓，共有11伙，外望GARDEN
 MONTARA及[日出公園綠化景致](../Page/日出公園.md "wikilink")；頂層特色戶位於70樓，只有6伙，附設71樓空中平台，向西南可望將軍澳海灣及藍塘海峽海景，向東北可望清水灣山景及西貢海景。
 
 MONTARA較GRAND
@@ -39,9 +40,9 @@ MONTARA由於享港鐵及商場上蓋地利，加上訂價較低，因此受到�
 
 ### GRAND MONTARA
 
-第1座物業為GRAND
-MONTARA，屬日出康城第7B期，較遲推售。項目分為A、B座，每層單位不多於5伙，主打大單位，三房戶佔約60%，不少三房戶更設套房設計及儲物房，有少量一房及兩房戶，提供平台及頂層特色戶。GRAND
-MONTARA間隔單位為1房2廳(連套房)、2房2廳、2房2廳及儲物室、3房2廳(連套房)、3房2廳(連套房)及儲物室。GRAND
+第1座物業為GRAND MONTARA，屬日出康城第7B期，也以The Brilliance of Urban
+Nature為主題，較遲推售。項目分為A、B座，每層單位不多於5伙，主打大單位，三房戶佔約60%，不少三房戶更設套房設計及儲物房，有少量一房及兩房戶，提供平台及頂層特色戶。GRAND
+MONTARA間隔單位為1房2廳（連套房）、2房2廳、2房2廳及儲物室、3房2廳（連套房）、3房2廳（連套房）及儲物室。GRAND
 MONTARA三房單位全數附設獨立廚房，主人睡房一律附設浴室。GRAND MONTARA鄰近日出公園、動感公園及GARDEN
 MONTARA，毗鄰第1期首都。
 
@@ -87,8 +88,9 @@ LOHAS上蓋，享有優越臨海地段，能飽覽臨海景致，區內的綠化
   - 日出康城V期：[MALIBU](../Page/MALIBU.md "wikilink")
   - 日出康城VIIA期：MONTARA
   - 日出康城VIIB期：GRAND MONTARA
-  - 日出康城IXA期：(未命名)
-  - 日出康城IXB期：(未命名)
+  - 日出康城IXA期：（未命名）
+  - 日出康城IXB期：（未命名）
+  - 日出康城IXC期：（未命名）
 
 ## 鄰近地方
 

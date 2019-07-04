@@ -17,6 +17,8 @@ Night Show
 
 12月2日：《肥仔大冒險》短片第七集公佈正式以ERROR為名組合出道 \[3\]
 
+2019年，《Cooking GiGi台灣篇》，將於七月八日首播，昔日GiGi姐主持節目，ERROR的肥仔和保錡兩位兵仔任她使喚。\[4\]
+
 ## 成員資料
 
 | colspan="8" style="background: \#000000; color: white; | 成員列表 |
@@ -27,7 +29,7 @@ Night Show
 | [郭嘉駿](../Page/郭嘉駿.md "wikilink")                              |
 | [吳保錡](https://zh.wikipedia.org/wiki/吳保錡 "wikilink")           |
 
-{{\*}}為本團隊 長
+{{\*}}為本團隊長
 
 ## 音樂作品
 
@@ -51,12 +53,14 @@ Night Show
 | 2019年                                         | [Interviu](../Page/Interviu.md "wikilink")      | 全體                                              | 訪問嘉賓                                          |
 | 2019年                                         | [花姐ERROR遊](../Page/花姐ERROR遊.md "wikilink")      | 全體                                              |                                               |
 | 2019年                                         | ERROR金豬賀歲暨花姐巡遊                                  | 全體                                              |                                               |
+| 2019年                                         | Cooking Gigi 台灣篇                                | 肥仔、保錡                                           |                                               |
 
 ### 劇集
 
 | style="background: \#000000; color: white;|年份 | style="background: \#000000; color: white;|劇集名稱       | style="background: \#000000; color: white;|參與成員 | style="background: \#000000; color: white;|備註 |
 | --------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------- | --------------------------------------------- |
 | 2018年                                         | [做演藝嘅](https://zh.wikipedia.org/wiki/做演藝嘅 "wikilink") | 全體                                              |                                               |
+| 2019年                                         | [退休女皇](https://zh.wikipedia.org/wiki/退休女皇 "wikilink") | 肥仔、保錡                                           |                                               |
 
 ## 公開活動
 
@@ -134,3 +138,4 @@ ERROR 社交網站
 1.
 2.
 3.
+4.

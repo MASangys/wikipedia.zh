@@ -11,7 +11,11 @@
 ## 外部連結
 
   -
-[Category:日本的航空公司](https://zh.wikipedia.org/wiki/Category:日本的航空公司 "wikilink")
+[分類:低成本航空公司](https://zh.wikipedia.org/wiki/分類:低成本航空公司 "wikilink")
+[分類:2019年成立的航空公司](https://zh.wikipedia.org/wiki/分類:2019年成立的航空公司 "wikilink")
+[分類:2019年日本建立](https://zh.wikipedia.org/wiki/分類:2019年日本建立 "wikilink")
+
+[Category:日本航空公司](https://zh.wikipedia.org/wiki/Category:日本航空公司 "wikilink")
 
 1.  [新たに国際線中長距離ローコストキャリアの設立を決定](http://press.jal.co.jp/ja/release/201805/004716.html)
     日本航空 2018年5月14日

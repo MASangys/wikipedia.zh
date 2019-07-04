@@ -2,8 +2,7 @@
 3**为俗称）是[苹果在](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")2019年3月18日在其官网更新发布的一款10.5英吋螢幕中端[iPad](https://zh.wikipedia.org/wiki/iPad "wikilink")[平板电脑](../Page/平板電腦.md "wikilink")，存在着不同的称呼（**第三代iPad
 Air**，或者**iPad Air 2019**）。虽然名属Air系列，但它与iPad
 Air的[第一代和](../Page/IPad_Air.md "wikilink")[第二代并无技术上的直接继承关系](../Page/IPad_Air_2.md "wikilink")。相反，第三代iPad
-Air使用了[iPad Pro](../Page/IPad_Pro.md "wikilink")
-10.5英寸版本的外形（但厚度依然与前代iPad
+Air使用[iPad Pro](../Page/IPad_Pro.md "wikilink") 10.5英寸版本的外形（但厚度依然与前代iPad
 Air相同，同时苹果下架[iPad
 Pro](https://zh.wikipedia.org/wiki/iPad_Pro "wikilink")10.5英寸版本），搭载[Apple
 A12

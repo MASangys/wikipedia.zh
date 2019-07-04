@@ -87,6 +87,11 @@ Record娛樂透露截止至](https://zh.wikipedia.org/wiki/Off_The_Record娛樂 
 3,551次下载</p></td>
 <td><p>[45][46]</p></td>
 </tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/Gaon音樂榜" title="wikilink">Gaon音樂榜</a></p></td>
+<td><p>244,160份</p></td>
+<td><p>[47]</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -112,25 +117,25 @@ Record娛樂透露截止至](https://zh.wikipedia.org/wiki/Off_The_Record娛樂 
 <td><p><a href="../Page/Mnet媒體.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td><p>(1)</p></td>
-<td><p>[47][48]</p></td>
+<td><p>[48][49]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS第2頻道" title="wikilink">KBS2</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/音乐银行" title="wikilink">音乐银行</a></p></td>
 <td><p>1</p></td>
-<td><p>[49]</p></td>
+<td><p>[50]</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p><a href="../Page/THE_SHOW_(SBS_MTV節目).md" title="wikilink">THE SHOW</a></p></td>
 <td><p>(1)</p></td>
-<td><p>[50][51]</p></td>
+<td><p>[51][52]</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p><a href="../Page/Show_Champion.md" title="wikilink">Show Champion</a></p></td>
 <td><p>(1)</p></td>
-<td><p>[52][53]</p></td>
+<td><p>[53][54]</p></td>
 </tr>
 <tr class="even">
 <td><ul>
@@ -147,11 +152,11 @@ Record娛樂透露截止至](https://zh.wikipedia.org/wiki/Off_The_Record娛樂 
 
 | 榜單（2019年）                                                          | 峰值      |
 | ------------------------------------------------------------------ | ------- |
-| 韓國[Gaon專輯榜](../Page/2019年Gaon專輯冠軍作品列表.md "wikilink")               | 1\[54\] |
-| 美國世界專輯榜（《[告示牌](../Page/告示牌_\(雜誌\).md "wikilink")》）                 | 6\[55\] |
-| 日本專輯榜（[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")）                | 4\[56\] |
-| 日本數位專輯榜（[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")）              | 2\[57\] |
-| 日本熱門專輯榜（[日本《告示牌》](https://zh.wikipedia.org/wiki/日本告示牌 "wikilink")） | 5\[58\] |
+| 韓國[Gaon專輯榜](../Page/2019年Gaon專輯冠軍作品列表.md "wikilink")               | 1\[55\] |
+| 美國世界專輯榜（《[告示牌](../Page/告示牌_\(雜誌\).md "wikilink")》）                 | 6\[56\] |
+| 日本專輯榜（[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")）                | 4\[57\] |
+| 日本數位專輯榜（[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")）              | 2\[58\] |
+| 日本熱門專輯榜（[日本《告示牌》](https://zh.wikipedia.org/wiki/日本告示牌 "wikilink")） | 5\[59\] |
 
 ## 發行歷史
 
@@ -246,6 +251,8 @@ Record娛樂透露截止至](https://zh.wikipedia.org/wiki/Off_The_Record娛樂 
 54.
 
 55.
+
 56.
 57.
 58.
+59.

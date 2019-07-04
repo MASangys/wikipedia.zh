@@ -72,57 +72,60 @@ Really》。
 <td><p>6月8日</p></td>
 </tr>
 <tr class="odd">
-<td><p>最高名次：</p></td>
+<td><p>6月22日</p></td>
 </tr>
 <tr class="even">
+<td><p>最高名次：</p></td>
+</tr>
+<tr class="odd">
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>6月2日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>6月9日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>6月16日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>最高名次：</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>6月4日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>6月11日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>最高名次：</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>6月5日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>6月12日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>最高名次：<strong>17</strong></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>《Ping Pong》</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/Mnet媒體.md" title="wikilink">Mnet</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS2" title="wikilink">KBS2</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 </tr>
 </tbody>

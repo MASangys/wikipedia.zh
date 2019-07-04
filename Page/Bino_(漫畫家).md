@@ -1,10 +1,10 @@
-**Bino**（），[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")。出身於[富山縣](../Page/富山縣.md "wikilink")\[1\]。代表作是《ComicNewtype》（[KADOKAWA](../Page/KADOKAWA.md "wikilink")）目前連載中的《[女高中生的虛度日常](https://zh.wikipedia.org/wiki/女高中生的虛度日常 "wikilink")》、《》。
+**Bino**（），[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")。出身於[富山縣](../Page/富山縣.md "wikilink")\[1\]。代表作是《ComicNewtype》（[KADOKAWA](../Page/KADOKAWA.md "wikilink")）目前連載中的《[女高中生的虛度日常](../Page/女高中生的虛度日常.md "wikilink")》、《》。
 
 ## 來歷
 
 出道前說因為想結交朋友而開始畫漫畫。
 
-2015年12月初，開始在日本大型官方[網路漫畫網站](https://zh.wikipedia.org/wiki/網路漫畫 "wikilink")[niconico靜畫連載](https://zh.wikipedia.org/wiki/niconico靜畫 "wikilink")《[女高中生的虛度日常](https://zh.wikipedia.org/wiki/女高中生的虛度日常 "wikilink")》。得到[KADOKAWA](../Page/KADOKAWA.md "wikilink")《ComicNewType》注目並以重製的方式長期連載化，正式以漫畫家出道。
+2015年12月初，開始在日本大型官方[網路漫畫網站](https://zh.wikipedia.org/wiki/網路漫畫 "wikilink")[niconico靜畫連載](https://zh.wikipedia.org/wiki/niconico靜畫 "wikilink")《[女高中生的虛度日常](../Page/女高中生的虛度日常.md "wikilink")》。得到[KADOKAWA](../Page/KADOKAWA.md "wikilink")《ComicNewType》注目並以重製的方式長期連載化，正式以漫畫家出道。
 
 但在2017年7月，《女高中生的虛度日常》面臨[腰斬](../Page/腰斬_\(術語\).md "wikilink")。不過又在2018年4月，《女高中生的虛度日常》重新展開連載。
 
@@ -28,7 +28,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/女高中生的虛度日常" title="wikilink">女高中生的虛度日常</a>（）</p></td>
+<td><p><a href="../Page/女高中生的虛度日常.md" title="wikilink">女高中生的虛度日常</a>（）</p></td>
 <td><p>《ComicNewType》2015年12月7日－<strong>連載中</strong></p></td>
 <td><p><a href="../Page/KADOKAWA.md" title="wikilink">KADOKAWA</a></p></td>
 <td><p>已出版4冊（2019年4月）</p></td>

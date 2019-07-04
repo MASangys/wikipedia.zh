@@ -1,5 +1,5 @@
 **RPA苗文**（白苗语：Ntawv Hmoob
-，），又称国际苗文\[1\]，是一套使用[拉丁字母来记录白苗语与青苗语](../Page/拉丁字母.md "wikilink")（属[苗语](https://zh.wikipedia.org/wiki/苗语 "wikilink")[川黔滇次方言](../Page/苗语川黔滇次方言.md "wikilink")）的[全音素文字](../Page/全音素文字.md "wikilink")，由三位传教士于1951至1953年间创制。
+；），又称国际苗文\[1\]，是一套使用[拉丁字母来记录白苗语与青苗语](../Page/拉丁字母.md "wikilink")（属[苗语](https://zh.wikipedia.org/wiki/苗语 "wikilink")[川黔滇次方言](../Page/苗语川黔滇次方言.md "wikilink")）的[全音素文字](../Page/全音素文字.md "wikilink")，由三位传教士于1951至1953年间创制。
 
 ## 历史
 
@@ -44,13 +44,6 @@ Leeg）。<span style="background:#EEE8AA">白苗语</span>和<span style="backg
 </p></td>
 </tr>
 <tr class="even">
-<td><p><strong>鼻冠</strong></p></td>
-<td><p> </p></td>
-<td><p> </p></td>
-<td><p> </p></td>
-<td><p> </p></td>
-</tr>
-<tr class="odd">
 <td><p><strong>清化/送气</strong></p></td>
 <td><p><strong>hny</strong><br />
 </p></td>
@@ -60,6 +53,13 @@ Leeg）。<span style="background:#EEE8AA">白苗语</span>和<span style="backg
 </p></td>
 <td><p><strong>hml</strong><br />
 </p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>鼻冠</strong></p></td>
+<td><p> </p></td>
+<td><p> </p></td>
+<td><p> </p></td>
+<td><p> </p></td>
 </tr>
 <tr class="even">
 <td><p><strong>鼻冠</strong> <strong>清化/送气</strong></p></td>
@@ -134,9 +134,9 @@ RPA苗文使用字母来记录[声调](https://zh.wikipedia.org/wiki/声调 "wik
 <thead>
 <tr class="header">
 <th><p>调型</p></th>
-<th><p>声调<br />
-字母</p></th>
-<th><p>白苗语例词[11]</p></th>
+<th><p>调值[11]</p></th>
+<th><p>调号</p></th>
+<th><p>白苗语例词[12]</p></th>
 </tr>
 </thead>
 <tbody>
@@ -144,51 +144,96 @@ RPA苗文使用字母来记录[声调](https://zh.wikipedia.org/wiki/声调 "wik
 <td><p>RPA</p></td>
 <td><p>IPA</p></td>
 <td><p>意义</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>高平</p></td>
+<td></td>
 <td><p><strong>b</strong></p></td>
 <td><p><em>pob</em></p></td>
 </tr>
 <tr class="odd">
 <td><p>高降</p></td>
+<td></td>
 <td><p><strong>j</strong></p></td>
 <td><p><em>poj</em></p></td>
 </tr>
 <tr class="even">
 <td><p>高升</p></td>
+<td></td>
 <td><p><strong>v</strong></p></td>
 <td><p><em>pov</em></p></td>
 </tr>
 <tr class="odd">
 <td><p>中平</p></td>
+<td></td>
 <td><p>无</p></td>
 <td><p><em>po</em></p></td>
 </tr>
 <tr class="even">
-<td><p>降调</p></td>
+<td><p>降调[13]</p></td>
+<td></td>
 <td><p><strong>g</strong></p></td>
 <td><p><em>pog</em></p></td>
 </tr>
 <tr class="odd">
 <td><p>低平</p></td>
+<td></td>
 <td><p><strong>s</strong></p></td>
 <td><p><em>pos</em></p></td>
 </tr>
 <tr class="even">
-<td><p>降调</p></td>
+<td><p>低降调</p></td>
+<td></td>
 <td><p><strong>m</strong></p></td>
 <td><p><em>pom</em></p></td>
 </tr>
 </tbody>
 </table>
 
+### 书写
+
+RPA苗文以[音节为单位书写](https://zh.wikipedia.org/wiki/音节 "wikilink")，每个音节之间空格。
+
+## 示例
+
+<table>
+<thead>
+<tr class="header">
+<th><p>RPA苗文，白苗语</p></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>现代标准汉语</p></td>
+<td><p>牛看不见牛，人看不见自己脸。</p></td>
+</tr>
+<tr class="even">
+<td><p>RPA苗文，白苗语</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>现代标准汉语</p></td>
+<td><p>树老树空，人老人颠东。</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ## 注释
+
+## 引用
 
 ## 參考文獻
 
 ### 论文
 
+  -
+  -
   -
   -
   -
@@ -199,19 +244,24 @@ RPA苗文使用字母来记录[声调](https://zh.wikipedia.org/wiki/声调 "wik
   -
   -
   -
+  -
 [Category:苗语](https://zh.wikipedia.org/wiki/Category:苗语 "wikilink")
+[Category:苗文](https://zh.wikipedia.org/wiki/Category:苗文 "wikilink")
 [Category:字母系統](https://zh.wikipedia.org/wiki/Category:字母系統 "wikilink")
 
 1.  [熊玉有（1998）](https://zh.wikipedia.org/wiki/#熊玉有（1998） "wikilink")
 2.  [熊玉有（1998）](https://zh.wikipedia.org/wiki/#熊玉有（1998） "wikilink")
 3.  [蒙昌配，郑晓雪，龙宇晓（2014）](https://zh.wikipedia.org/wiki/#蒙昌配，郑晓雪，龙宇晓（2014） "wikilink")
-4.  [Golston &
+4.  [Bruhn（2006
+    ）](https://zh.wikipedia.org/wiki/#Bruhn（2006_） "wikilink")
+5.  [Heimbach（1979）](https://zh.wikipedia.org/wiki/#Heimbach（1979） "wikilink")
+6.  [熊玉有，Cohen（2005）](https://zh.wikipedia.org/wiki/#熊玉有，Cohen（2005） "wikilink")
+7.  [Golston &
     Yang（2001）](https://zh.wikipedia.org/wiki/#Golston_&_Yang（2001） "wikilink")
-5.  [Mortensen（2004）](https://zh.wikipedia.org/wiki/#Mortensen（2004） "wikilink")
-6.  [张元奇，McLaughlin，McLaughlin（2014）](https://zh.wikipedia.org/wiki/#张元奇，McLaughlin，McLaughlin（2014） "wikilink")
-7.  [熊玉有，Cohen（2005）](https://zh.wikipedia.org/wiki/#熊玉有，Cohen（2005） "wikilink")
-8.  [Heimbach（1979）](https://zh.wikipedia.org/wiki/#Heimbach（1979） "wikilink")
+8.  [Mortensen（2004）](https://zh.wikipedia.org/wiki/#Mortensen（2004） "wikilink")
 9.  [Golston &
     Yang（2001）](https://zh.wikipedia.org/wiki/#Golston_&_Yang（2001） "wikilink")
 10. [Mortensen（2004）](https://zh.wikipedia.org/wiki/#Mortensen（2004） "wikilink")
-11. [Heimbach（1979）](https://zh.wikipedia.org/wiki/#Heimbach（1979） "wikilink")
+11. [Mortensen（2000）](https://zh.wikipedia.org/wiki/#Mortensen（2000） "wikilink")
+12. [Heimbach（1979）](https://zh.wikipedia.org/wiki/#Heimbach（1979） "wikilink")
+13. [朱晓农（2010）](https://zh.wikipedia.org/wiki/#朱晓农（2010） "wikilink")

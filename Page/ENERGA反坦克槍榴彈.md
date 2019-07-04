@@ -120,15 +120,16 @@ GR PRAC 75毫米。
 
   -
   -
-  -
+  - [68號反坦克槍榴彈](https://zh.wikipedia.org/wiki/68號反坦克槍榴彈 "wikilink")
+
   - [M31反坦克槍榴彈](../Page/M31反坦克槍榴彈.md "wikilink")
 
   - [BT/AT
     52反坦克槍榴彈](https://zh.wikipedia.org/wiki/BT/AT_52反坦克槍榴彈 "wikilink")
 
-  - [M60槍榴彈](https://zh.wikipedia.org/wiki/M60槍榴彈 "wikilink")
+  - [M60槍榴彈](../Page/M60槍榴彈.md "wikilink")
 
-  - [英剎那拿反坦克槍榴彈](https://zh.wikipedia.org/wiki/英剎那拿反坦克槍榴彈 "wikilink")
+  - [英剎那拿反坦克槍榴彈](../Page/英剎那拿反坦克槍榴彈.md "wikilink")
 
   - [STRIM 65槍榴彈](../Page/STRIM_65槍榴彈.md "wikilink")
 

@@ -701,7 +701,7 @@ but is less prevalent in areas with fertile soils.\[291\]\[292\]\[293\]
 人类与长颈鹿相处的历史已经有数千年。南非的[萨恩人](../Page/萨恩人.md "wikilink")
 有将医疗舞蹈（巫舞）命名为动物的传统，其中就有治疗头部疾病的长颈鹿舞。\[294\]长颈鹿为何长得这么高一直是非洲[民俗中热议的话题](../Page/民俗.md "wikilink"),\[295\]
 比如东非某民俗认为这是因为长颈鹿吃太多神奇的草药。\[296\]在整个非洲范围内，长颈鹿是重要的艺术元素，尤其是早期文明比如,
-[古埃及](https://zh.wikipedia.org/wiki/古埃及 "wikilink")，[麦罗埃和](../Page/麦罗埃.md "wikilink")[努比亚](../Page/努比亚.md "wikilink")。\[297\]
+[古埃及](../Page/古埃及.md "wikilink")，[麦罗埃和](../Page/麦罗埃.md "wikilink")[努比亚](../Page/努比亚.md "wikilink")。\[297\]
 人曾制作了一个包含两个长颈鹿的等身大小的岩石雕刻，这也是世界上最大的岩石岩画.\[298\]\[299\]
 古埃及人为长颈鹿创造了[圣书体写法𓃱](https://zh.wikipedia.org/wiki/圣书体 "wikilink")，
 在[埃及语中代表](../Page/埃及语.md "wikilink")“sr”之后又代表 “mmy”。\[300\]

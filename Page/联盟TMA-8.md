@@ -26,7 +26,7 @@ spacecraft.jpg|威廉姆斯
 
   - [联盟TMA-8](http://www.nasa.gov/mission_pages/station/expeditions/expedition13/index.html)
 
-[Category:2006年航天](https://zh.wikipedia.org/wiki/Category:2006年航天 "wikilink")
+[Category:2006年發射的太空飛行器](https://zh.wikipedia.org/wiki/Category:2006年發射的太空飛行器 "wikilink")
 [Category:联盟计划](https://zh.wikipedia.org/wiki/Category:联盟计划 "wikilink")
 
 1.

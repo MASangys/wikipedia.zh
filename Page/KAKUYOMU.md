@@ -128,6 +128,16 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/尼特威能稱霸世界" title="wikilink">尼特威能稱霸世界</a></p></td>
+<td><p>百瀬祐一郎</p></td>
+<td><p>ヤスダスズヒ</p></td>
+<td><p><a href="https://kakuyomu.jp/works/1177354054884546648">オール・ジョブ・ザ・ワールド</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/打倒女神勇者的下流手段" title="wikilink">打倒女神勇者的下流手段</a></p></td>
 <td><p>笹木さくま</p></td>
 <td><p>遠坂あさぎ</p></td>
@@ -139,7 +149,7 @@
 </ul></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/幻獸調查員" title="wikilink">幻獸調查員</a></p></td>
 <td><p>綾里けいし</p></td>
 <td><p>lack</p></td>
@@ -149,7 +159,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/就算身為最後的人類" title="wikilink">就算身為最後的人類</a></p></td>
 <td><p>庵田定夏</p></td>
 <td><p>細居美惠子</p></td>
@@ -159,13 +169,23 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/本田小狼與我" title="wikilink">本田小狼與我</a></p></td>
 <td><p>トネ・コーケン</p></td>
 <td><p>博</p></td>
 <td><p><a href="https://kakuyomu.jp/works/1177354054880317669">スーパーカブ</a></p></td>
 <td><p><a href="../Page/角川Sneaker文庫.md" title="wikilink">角川Sneaker文庫</a></p></td>
 <td><p>台灣角川</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/刮掉鬍子的我與撿到的女高中生.md" title="wikilink">刮掉鬍子的我與撿到的女高中生</a></p></td>
+<td><p>しめさば</p></td>
+<td><p>ぶーた</p></td>
+<td><p><a href="https://kakuyomu.jp/works/1177354054882739112">ひげを剃る。そして女子高生を拾う。</a></p></td>
+<td></td>
+<td><p>✔</p></td>
 <td></td>
 <td></td>
 </tr>

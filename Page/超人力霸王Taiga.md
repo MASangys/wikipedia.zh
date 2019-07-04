@@ -5,7 +5,7 @@
 
   - 本作為令和時期《[超人力霸王系列](../Page/超人力霸王系列.md "wikilink")》首部作品。
   - 本作的主角超人力霸王TAIGA為超人力霸王太郎之子。
-  - 超人力霸王系列史上首次單一主角為複數超人力霸王的人間體。
+  - 本作為超人力霸王系列史上首次單一主角為複數超人力霸王的人間體。
 
 ## 故事概要
 
@@ -15,11 +15,16 @@
 
 這樣的他，卻有個連他本人都不知道的大秘密沉睡著。
 
-那就是他的體內寄宿著超人力霸王大河的光之粒子。
+那就是他的體內寄宿著超人力霸王TAIGA的光之粒子。
 
-當ヒロユキ體內的超人力霸王大河甦醒的那刻，新的故事即將開始！
+當ヒロユキ體內的超人力霸王TAIGA甦醒的那刻，新的故事即將開始！
 
 ## 故事背景
+
+*' TRI SQUAD*'
+
+  -
+    原文：
 
 **E.G.I.S.**
 
@@ -52,7 +57,7 @@
 <strong>（）</strong></p></td>
 <td><center>
 <p><a href="https://zh.wikipedia.org/wiki/井上祐貴" title="wikilink">井上祐貴</a></p></td>
-<td><p><strong>超人力霸王TAIGA</strong>、<strong>超人力霸王泰塔斯</strong>、<strong>超人力霸王風魔</strong>的人間體，22歲，民間警備組織Ｅ.Ｇ.Ｉ.Ｓ.的成員，也是本作的主角。</p></td>
+<td><p><strong>超人力霸王TAIGA</strong>、<strong>超人力霸王TITAS</strong>、<strong>超人力霸王FUMA</strong>的人間體，22歲，民間警備組織Ｅ.Ｇ.Ｉ.Ｓ.的成員，也是本作的主角。</p></td>
 </tr>
 <tr class="odd">
 <td><center>
@@ -113,8 +118,10 @@
     腕力：6萬噸
     握力：4萬5千噸
     必殺技：斯特利姆衝擊波（ストリームブラスター）
+    出生地：M78星雲·光之國
+    別名為『光之勇者』的超人力霸王，同時也是超人力霸王太郎之子。
 
-### 超人力霸王泰塔斯
+### 超人力霸王TITAS
 
 人間體：工藤ヒロユキ（替身演員：、聲：日野聰）
 
@@ -131,8 +138,10 @@
     腕力：15萬噸
     握力：9萬6千噸
     必殺技：普拉尼烏姆剋星（プラニウムバスター）
+    出生地：U40
+    別名為『力之賢者』的超人力霸王，同時也是超人力霸王喬尼斯的同族。
 
-### 超人力霸王風魔
+### 超人力霸王FUMA
 
 人間體：工藤ヒロユキ（替身演員：、聲：葉山翔太）
 
@@ -149,6 +158,8 @@
     腕力：4萬噸
     握力：2萬8千噸
     必殺技：極星光波手裏劍
+    出生地：O-50
+    別名為『風之霸者』的超人力霸王，與超人力霸王歐布、羅索、布魯同樣出生地。
 
 ### 超人力霸王特雷基亞
 
@@ -161,7 +172,7 @@
 
 ## 輔助工具
 
-  - ''' Taiga Spark '''
+  - ''' TAIGA Spark '''
 
 <!-- end list -->
 
@@ -170,7 +181,7 @@
 
 <!-- end list -->
 
-  - ''' Ultra Taiga Accessory '''
+  - ''' Ultra TAIGA Accessory '''
 
 <!-- end list -->
 
@@ -179,7 +190,7 @@
 
 <!-- end list -->
 
-  - ''' Toregia Eye '''
+  - ''' 特雷基亞眼鏡 '''
 
 <!-- end list -->
 
@@ -187,6 +198,75 @@
     原文： / *Toregia Eye*
 
 ## 播放列表
+
+以下時間以當地時間（[日本時間](../Page/國家標準時間.md "wikilink")）為準
+
+<table>
+<thead>
+<tr class="header">
+<th><p>播放日期</p></th>
+<th><p>集數</p></th>
+<th><p>日本原文標題</p></th>
+<th><p>中文標題</p></th>
+<th><p>登場怪獣・宇宙人</p></th>
+<th><p>編劇</p></th>
+<th><p>導演</p></th>
+<th><p>特技導演</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2019/07/06</p></td>
+<td><p>1</p></td>
+<td></td>
+<td><p>Buddy Go！</p></td>
+<td></td>
+<td><p>林壯太郎</p></td>
+<td><p>市野龍一</p></td>
+<td><p>神谷誠</p></td>
+</tr>
+<tr class="even">
+<td><p>2019/07/13</p></td>
+<td><p>2</p></td>
+<td></td>
+<td><p>特雷基亞</p></td>
+<td></td>
+<td><p>中野貴雄</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019/07/20</p></td>
+<td><p>3</p></td>
+<td></td>
+<td><p>星之復仇者</p></td>
+<td></td>
+<td><p>林壯太郎</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019/07/27</p></td>
+<td><p>4</p></td>
+<td></td>
+<td><p>群狼的輓歌</p></td>
+<td></td>
+<td><p>中野貴雄</p></td>
+<td><p>田口清隆</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 其他相關媒體
 
@@ -222,8 +302,8 @@
 
 ## 外部連結
 
-  - [《超人力霸王大河》圓谷官方網站](https://m-78.jp/taiga/)
-  - [《超人力霸王大河》東京電視台官方網站](http://ani.tv/taiga/)
+  - [《超人力霸王TAIGA》圓谷官方網站](https://m-78.jp/taiga/)
+  - [《超人力霸王TAIGA》東京電視台官方網站](http://ani.tv/taiga/)
   - [《超人力霸王系列》遊戲機台官網](http://www.dcd-ultraman.com/)
   - [《超人力霸王系列》官方推特](https://twitter.com/ultraman_series)
 

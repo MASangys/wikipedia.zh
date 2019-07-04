@@ -46,11 +46,14 @@ Ikaris</p></td>
 
 ### 前期製作
 
-2019年3月27日，《[好萊塢報道](https://zh.wikipedia.org/wiki/好萊塢報道 "wikilink")》稱[安吉麗娜·朱莉正與漫威商談](https://zh.wikipedia.org/wiki/安吉麗娜·朱莉 "wikilink")，有意出演影片\[18\]。4月，《[好萊塢報道](https://zh.wikipedia.org/wiki/好萊塢報道 "wikilink")》稱安吉麗娜·朱莉將領銜出演女主角，[庫梅爾·南賈尼和](../Page/庫梅爾·南賈尼.md "wikilink")[馬東石參演影片](../Page/馬東石.md "wikilink")\[19\]\[20\]。在這部影片中，[漫威影業將推出第一位](https://zh.wikipedia.org/wiki/漫威影業 "wikilink")[同性戀性向的](../Page/同性戀.md "wikilink")[超級英雄角色](https://zh.wikipedia.org/wiki/超級英雄 "wikilink")\[21\]。5月，報道稱曾擔任《[星際異攻隊](https://zh.wikipedia.org/wiki/星際異攻隊_\(電影\) "wikilink")》、《[復仇者聯盟2：奧創紀元](https://zh.wikipedia.org/wiki/復仇者聯盟2：奧創紀元 "wikilink")》、《[奇異博士](../Page/奇異博士_\(電影\).md "wikilink")》和《[驚奇隊長](../Page/驚奇隊長_\(電影\).md "wikilink")》等多部漫威電影宇宙影片[攝影指導的](../Page/攝影指導.md "wikilink")加入製作組\[22\]。5月，[理查德·麥登與漫威進入洽談階段](https://zh.wikipedia.org/wiki/理查德·麥登 "wikilink")，出演主要角色\[23\]。
+2019年3月27日，《[好萊塢報道](https://zh.wikipedia.org/wiki/好萊塢報道 "wikilink")》稱[安吉麗娜·朱莉正與漫威商談](https://zh.wikipedia.org/wiki/安吉麗娜·朱莉 "wikilink")，有意出演影片\[18\]。4月，《[好萊塢報道](https://zh.wikipedia.org/wiki/好萊塢報道 "wikilink")》稱安吉麗娜·朱莉將領銜出演女主角，[庫梅爾·南賈尼和](../Page/庫梅爾·南賈尼.md "wikilink")[馬東石參演影片](../Page/馬東石.md "wikilink")\[19\]\[20\]。在這部影片中，[漫威影業將推出第一位](https://zh.wikipedia.org/wiki/漫威影業 "wikilink")[同性戀性向的](../Page/同性戀.md "wikilink")[超級英雄角色](https://zh.wikipedia.org/wiki/超級英雄 "wikilink")\[21\]。5月，報道稱曾擔任《[星際異攻隊](https://zh.wikipedia.org/wiki/星際異攻隊_\(電影\) "wikilink")》、《[復仇者聯盟2：奧創紀元](https://zh.wikipedia.org/wiki/復仇者聯盟2：奧創紀元 "wikilink")》、《[奇異博士](../Page/奇異博士_\(電影\).md "wikilink")》和《[驚奇隊長](../Page/驚奇隊長_\(電影\).md "wikilink")》等多部漫威電影宇宙影片[攝影指導的](../Page/攝影指導.md "wikilink")加入製作組\[22\]。5月，[理查德·麥登與漫威進入洽談階段](https://zh.wikipedia.org/wiki/理查德·麥登 "wikilink")，有望出演主要角色\[23\]。6月，[莎瑪·海耶克與漫威進入洽談階段](https://zh.wikipedia.org/wiki/莎瑪·海耶克 "wikilink")\[24\]。
 
 ### 拍攝
 
-影片的[主體拍攝原定於](https://zh.wikipedia.org/wiki/主體拍攝 "wikilink")2019年8月在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[喬治亞州](../Page/喬治亞州.md "wikilink")[亞特蘭大開機](https://zh.wikipedia.org/wiki/亞特蘭大 "wikilink")\[24\]。隨後開機日期推遲到2019年9月9日，拍攝地點轉移至[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[倫敦](https://zh.wikipedia.org/wiki/倫敦 "wikilink")，預計於2020年1月完成拍攝\[25\]。
+影片的[主體拍攝原定於](https://zh.wikipedia.org/wiki/主體拍攝 "wikilink")2019年8月在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[喬治亞州](../Page/喬治亞州.md "wikilink")[亞特蘭大開機](https://zh.wikipedia.org/wiki/亞特蘭大 "wikilink")\[25\]。隨後開機日期推遲到2019年9月9日，拍攝地點轉移至[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[倫敦](https://zh.wikipedia.org/wiki/倫敦 "wikilink")，預計於2020年1月完成拍攝\[26\]。
+
+2019年6月，報道稱影片的[工作標題為](https://zh.wikipedia.org/wiki/暫定名稱 "wikilink")「自備午餐」（Sack
+Lunch），該名稱可能取自[情景喜劇](https://zh.wikipedia.org/wiki/情景喜劇 "wikilink")《[宋飛傳](https://zh.wikipedia.org/wiki/宋飛傳 "wikilink")》故事中杜撰出的電影，劇集中該虛構影片是一齣票房火爆的輕喜劇，與口碑良好票房卻反響平平的現實題材電影《[英倫情人](../Page/英倫情人.md "wikilink")》形成鮮明對比\[27\]。漫威電影宇宙此前影片《[蜘蛛人：返校日](../Page/蜘蛛人：返校日.md "wikilink")》的工作標題「喬治的夏天」亦源自《宋飛傳》，是第八季第22集的標題\[28\]。
 
 ## 資料來源
 
@@ -81,3 +84,6 @@ Ikaris</p></td>
 23.
 24.
 25.
+26.
+27.
+28.

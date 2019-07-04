@@ -65,11 +65,15 @@ Head」。為了拯救人民於危難之中，Drive Head 將隨時準備好面�
 
 ### 機動強襲警察成員
 
+#### 特別機動隊
+
   -
     配音員：[水島大宙](../Page/水島大宙.md "wikilink")（日本）；[喬資淯](https://zh.wikipedia.org/wiki/喬資淯 "wikilink")\[8\]（台灣）
-    機動強襲警察隊長，Drive Head 零號終極音速攔截、Drive Head 零號馬克二號終極旋風攔截的駕駛員。
+    特別機動隊的隊長，Drive Head 零號終極音速攔截、Drive Head 零號馬克二號終極旋風攔截的駕駛員。
 
 ### 鷹富小學
+
+#### 5年1班
 
   -
     配音員：[岩井映美里](../Page/岩井映美里.md "wikilink")（日本）；（台灣）
@@ -90,8 +94,17 @@ Head」。為了拯救人民於危難之中，Drive Head 將隨時準備好面�
     配音員：[南早紀](../Page/南早紀.md "wikilink")（日本）；（台灣）
     小轟的同班同學。
   -
+    配音員：[本泉莉奈](../Page/本泉莉奈.md "wikilink")（日本）；（台灣）
+  -
     配音員：[大井麻利衣](../Page/大井麻利衣.md "wikilink")（日本）；（台灣）
     小轟的班級導師。
+
+#### 5年3班
+
+  -
+    配音員：[南早紀](../Page/南早紀.md "wikilink")（日本）；（台灣）
+  -
+    配音員：[本泉莉奈](../Page/本泉莉奈.md "wikilink")（日本）；（台灣）
 
 ### 赤阪電視臺
 
@@ -153,6 +166,8 @@ Head」。為了拯救人民於危難之中，Drive Head 將隨時準備好面�
     由車田轟駕駛。初次登場於第1話。配備「音速手銬」、「左輪手槍」和「警燈迴旋鏢」。
   -
     音速攔截的改良機，由車田轟駕駛。初次登場於第13話。配備「推進音速手銬」、「指示燈劍」和「AM516連發槍」。
+      -
+        登場於劇場版。
   -
     由矢倉大海駕駛。初次登場於第2話片尾，正式登場於第3話。配備「水槍」、「救援鏟爪」和「救援氣槽」。
   -
@@ -162,7 +177,13 @@ Head」。為了拯救人民於危難之中，Drive Head 將隨時準備好面�
   -
     由石野人和米可其中一人駕駛，出動時由人和米可猜拳，贏者能夠駕駛白色希望，輸者只能開核心車。初次登場於第2話片尾，正式登場於第3話。
   -
-    白色希望的改良機，由石野人和米可共同駕駛，人坐前座，米可坐後座。第二季第6話起由人單獨駕駛。初次登場於第21話片尾，正式登場於第23話。
+    白色希望的改良機，由石野人和米可共同駕駛，人坐前座，米可坐後座。第二季第6話起由人單獨駕駛。初次登場於第21話片尾，正式登場於第23話。《DRIVE
+    HEAD 2018》第6話起改由石野人單獨駕駛。
+
+##### 馬克三號計劃
+
+  -
+    勇氣烈焰克星的改良機，由矢倉大海駕駛。登場於《DRIVE HEAD 2018》第3話。
   -
     白色希望的改良機，由石野米可駕駛。登場於《DRIVE HEAD 2018》第6話。
 
@@ -200,6 +221,7 @@ Head」。為了拯救人民於危難之中，Drive Head 將隨時準備好面�
   -
 
   - [日產GT-R](../Page/日產GT-R.md "wikilink")
+    救援特警隊與日產汽車共同開發的特殊車輛共4輛，登場於劇場版。
 
 ### 機動強襲警察所屬
 
@@ -251,6 +273,9 @@ Head」。為了拯救人民於危難之中，Drive Head 將隨時準備好面�
   -
 
   -
+    配音員：[岩瀬周平](https://zh.wikipedia.org/wiki/岩瀬周平 "wikilink")（日本）；（台灣）
+
+    用於操縱Drive Head的小型控制器。
 
   -
 
@@ -282,6 +307,442 @@ Head」。為了拯救人民於危難之中，Drive Head 將隨時準備好面�
     作詞、作曲：宮原康平，主唱：萬田莎拉（田中愛美）
 
 ### 各話列表
+
+<table>
+<thead>
+<tr class="header">
+<th><p>話數</p></th>
+<th><p>日文標題</p></th>
+<th><p>台灣標題</p></th>
+<th><p>劇本</p></th>
+<th><p>分鏡</p></th>
+<th><p>演出</p></th>
+<th><p>作畫監督</p></th>
+<th><p>日本<br />
+播放日期</p></th>
+<th><p>台灣<br />
+播放日期</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>第1話</p></td>
+<td><p>{{nihongo|事件発生！ゴーレスキュー</p></td>
+<td><p>}}</p></td>
+<td><p>事件發生！前往救援！</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/荒木憲一" title="wikilink">荒木憲一</a></p></td>
+<td><p><a href="../Page/加戶譽夫.md" title="wikilink">加戶譽夫</a></p></td>
+<td><p>孫承希</p></td>
+<td><p>乘田拓茂</p></td>
+<td><p><strong>2017年</strong><br />
+4月15日</p></td>
+</tr>
+<tr class="even">
+<td><p>第2話</p></td>
+<td><p>{{nihongo|誕生！ドライブヘッド<ruby><rb>01</rb><rt>ゼロワン</rt></ruby></p></td>
+<td><p>}}</p></td>
+<td><p>誕生！Drive Head 一號！</p></td>
+<td><p>高橋順</p></td>
+<td><p>山本善哉</p></td>
+<td><p>4月22日</p></td>
+<td><p>4月29日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第3話</p></td>
+<td><p>{{nihongo|その名はレスキューバックドラフト</p></td>
+<td><p>}}</p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/北嶋博明" title="wikilink">北嶋博明</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/富永恆雄" title="wikilink">富永恆雄</a></p></td>
+<td><p>松本文男</p></td>
+<td><p>4月29日</p></td>
+<td><p>5月6日</p></td>
+</tr>
+<tr class="even">
+<td><p>第4話</p></td>
+<td><p>{{nihongo|飛ぶぜ！シンクロ合体</p></td>
+<td><p>}}</p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/千葉克彦" title="wikilink">千葉克彦</a></p></td>
+<td><p>淺倉カイト</p></td>
+<td><p>大平直樹</p></td>
+<td><p><a href="../Page/平山英嗣.md" title="wikilink">平山英嗣</a></p></td>
+<td><p>5月6日</p></td>
+</tr>
+<tr class="odd">
+<td><p>第5話</p></td>
+<td><p>{{nihongo|嵐を越えろ！ホワイトホープ</p></td>
+<td><p>}}</p></td>
+<td></td>
+<td><p>丸川直子</p></td>
+<td><p>松井仁之</p></td>
+<td><p>土屋康郎</p></td>
+<td><p>渡邊壯真</p></td>
+<td><p>5月13日</p></td>
+</tr>
+<tr class="even">
+<td><p>第6話</p></td>
+<td><p>{{nihongo|赤いあいつの燃える合体</p></td>
+<td><p>}}</p></td>
+<td></td>
+<td><p><a href="../Page/網谷正治.md" title="wikilink">網谷正治</a></p></td>
+<td><p>神谷純</p></td>
+<td><p>飯村正之</p></td>
+<td><p>鈴木伸一</p></td>
+<td><p>5月20日</p></td>
+</tr>
+<tr class="odd">
+<td><p>第7話</p></td>
+<td><p>{{nihongo|ドライブヘッド出動不能</p></td>
+<td><p>}}</p></td>
+<td><p>Drive Head 無法出動！</p></td>
+<td><p>荒木憲一</p></td>
+<td><p>新子太一</p></td>
+<td><p>關曉子</p></td>
+<td><p>森亞彌子、池内直子</p></td>
+<td><p>5月27日</p></td>
+</tr>
+<tr class="even">
+<td><p>第8話</p></td>
+<td></td>
+<td><p>啊，當駕駛員還真辛苦</p></td>
+<td><p>北嶋博明</p></td>
+<td><p>富永恆雄</p></td>
+<td><p>松本文男</p></td>
+<td><p>6月3日</p></td>
+<td><p>6月10日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第9話</p></td>
+<td><p>{{nihongo|マグマに消えたレスキューバックドラフト</p></td>
+<td><p>}}</p></td>
+<td><p>消失在熔岩裡的救急烈焰克星！</p></td>
+<td><p>あみやまさはる</p></td>
+<td><p>高橋順</p></td>
+<td><p>岡田萬衣子、小倉智加</p></td>
+<td><p>6月10日</p></td>
+<td><p>6月17日</p></td>
+</tr>
+<tr class="even">
+<td><p>第10話</p></td>
+<td><p>{{nihongo|激走！ソニックインターセプター</p></td>
+<td><p>}}</p></td>
+<td></td>
+<td><p>千葉克彦</p></td>
+<td><p>まついひとゆき</p></td>
+<td><p>土屋康郎</p></td>
+<td><p>渡邊壯真</p></td>
+<td><p>6月17日</p></td>
+</tr>
+<tr class="odd">
+<td><p>第11話</p></td>
+<td><p>{{nihongo|帰ってきた天災科学者</p></td>
+<td><p>}}</p></td>
+<td></td>
+<td><p>荒木憲一</p></td>
+<td><p>梅本唯</p></td>
+<td><p>山本善哉</p></td>
+<td><p>6月24日</p></td>
+<td><p>7月1日</p></td>
+</tr>
+<tr class="even">
+<td><p>第12話[9]</p></td>
+<td><p>{{nihongo|検証！ドライブヘッドの秘密</p></td>
+<td><p>}}</p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/酒井健作" title="wikilink">酒井健作</a></p></td>
+<td><p>加戶譽夫</p></td>
+<td><p>乘田拓茂</p></td>
+<td><p>7月1日</p></td>
+<td><p>7月8日</p></td>
+</tr>
+<tr class="odd">
+<td><p>第13話</p></td>
+<td><p>{{nihongo|出撃！サイクロンインターセプター</p></td>
+<td><p>}}</p></td>
+<td></td>
+<td><p>北嶋博明</p></td>
+<td><p>西村博昭</p></td>
+<td><p>小林一三</p></td>
+<td><p>7月8日</p></td>
+<td><p>7月15日</p></td>
+</tr>
+<tr class="even">
+<td><p>第14話</p></td>
+<td><p>{{nihongo|狙い撃て！AM516マグナム</p></td>
+<td><p>}}</p></td>
+<td></td>
+<td><p>あみやまさはる</p></td>
+<td><p>大平直樹</p></td>
+<td><p>平山英嗣</p></td>
+<td><p>7月15日</p></td>
+<td><p>7月22日</p></td>
+</tr>
+<tr class="odd">
+<td><p>第15話</p></td>
+<td><p>{{nihongo|完成！ヘヴィーブレードストロンガー</p></td>
+<td><p>}}</p></td>
+<td></td>
+<td><p>千葉克彦</p></td>
+<td><p>富永恆雄</p></td>
+<td><p>松本文男</p></td>
+<td><p>7月22日</p></td>
+<td><p>7月29日</p></td>
+</tr>
+<tr class="even">
+<td><p>第16話</p></td>
+<td></td>
+<td></td>
+<td><p>神谷純</p></td>
+<td><p>高橋順</p></td>
+<td><p>小島智加、山本善或</p></td>
+<td><p>7月29日</p></td>
+<td><p>8月5日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第17話</p></td>
+<td><p>{{nihongo|巨大観覧車を止めろ</p></td>
+<td><p>}}</p></td>
+<td></td>
+<td><p>酒井健作</p></td>
+<td><p>淺倉カイト</p></td>
+<td><p>横山廣行</p></td>
+<td><p>野村美織、はしもとかつみ</p></td>
+<td><p>8月5日</p></td>
+</tr>
+<tr class="even">
+<td><p>第18話</p></td>
+<td><p>{{nihongo|超速！マッハシューティングスター</p></td>
+<td><p>}}</p></td>
+<td></td>
+<td><p>荒木憲一</p></td>
+<td><p>まついひとゆき</p></td>
+<td><p>土屋康郎</p></td>
+<td><p>渡邊壯真</p></td>
+<td><p>8月12日</p></td>
+</tr>
+<tr class="odd">
+<td><p>第19話</p></td>
+<td><p>{{nihongo|漆黒のドライブヘッド</p></td>
+<td><p>}}</p></td>
+<td></td>
+<td><p>高橋順</p></td>
+<td><p>岡田有希子、ヨシモトキンジ</p></td>
+<td><p>8月19日</p></td>
+<td><p>8月26日</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>第20話</p></td>
+<td><p>{{nihongo|ダム決壊を食い止めろ</p></td>
+<td><p>}}</p></td>
+<td></td>
+<td><p>丸川直子</p></td>
+<td><p>西村博昭</p></td>
+<td><p>三井壽、服部憲知<br />
+青柳謙二</p></td>
+<td><p>8月26日</p></td>
+<td><p>9月2日</p></td>
+</tr>
+<tr class="odd">
+<td><p>第21話</p></td>
+<td><p>{{nihongo|かすみちゃんSOS</p></td>
+<td><p>}}</p></td>
+<td></td>
+<td><p>あみやまさはる</p></td>
+<td><p>浅倉カイト</p></td>
+<td><p>秦義人</p></td>
+<td><p>島田英明、神戸環<br />
+清水惠藏、清島ゆう子<br />
+小林ゆかり、桝井一平<br />
+LEE DUK HO</p></td>
+<td><p>9月2日</p></td>
+</tr>
+<tr class="even">
+<td><p>第22話</p></td>
+<td><p>{{nihongo|黒い陰謀！ブラックチップ</p></td>
+<td><p>}}</p></td>
+<td></td>
+<td><p>千葉克彦</p></td>
+<td><p>富永恆雄</p></td>
+<td><p>松本文男</p></td>
+<td><p>9月9日</p></td>
+<td><p>9月16日</p></td>
+</tr>
+<tr class="odd">
+<td><p>第23話</p></td>
+<td><p>{{nihongo|炎の勇者！ブレイブバックドラフト</p></td>
+<td><p>}}</p></td>
+<td></td>
+<td><p>北嶋博明</p></td>
+<td><p>關曉子</p></td>
+<td><p>池内直子、森亞彌子</p></td>
+<td><p>9月16日</p></td>
+<td><p>9月23日</p></td>
+</tr>
+<tr class="even">
+<td><p>第24話</p></td>
+<td></td>
+<td></td>
+<td><p>荒木憲一</p></td>
+<td><p>藤田健太郎</p></td>
+<td><p>小林史織里、青柳謙二</p></td>
+<td><p>9月23日</p></td>
+<td><p>9月30日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第25話</p></td>
+<td><p>{{nihongo|嵐の海のジェットストライカー</p></td>
+<td><p>}}</p></td>
+<td></td>
+<td><p>千葉克彦</p></td>
+<td><p>大平直樹</p></td>
+<td><p>平山英嗣</p></td>
+<td><p>9月30日</p></td>
+<td><p>10月7日</p></td>
+</tr>
+<tr class="even">
+<td><p>第26話</p></td>
+<td></td>
+<td></td>
+<td><p>丸川直子</p></td>
+<td><p>加戸誉夫</p></td>
+<td><p>小谷野竜成</p></td>
+<td><p>岸本誠司、堀たえ子<br />
+乗田拓茂、小林千鶴</p></td>
+<td><p>10月7日</p></td>
+<td><p>10月14日</p></td>
+</tr>
+<tr class="odd">
+<td><p>第27話</p></td>
+<td><p>{{nihongo|緊急出動！トランスポーターガイア</p></td>
+<td><p>}}</p></td>
+<td></td>
+<td><p>あみやまさはる</p></td>
+<td><p>富永恆雄</p></td>
+<td><p>松本文男</p></td>
+<td><p>10月14日</p></td>
+<td><p>10月21日</p></td>
+</tr>
+<tr class="even">
+<td><p>第28話</p></td>
+<td><p>{{nihongo|登場！レスキューコマンダー</p></td>
+<td><p>}}</p></td>
+<td></td>
+<td><p>北嶋博明</p></td>
+<td><p>高橋順</p></td>
+<td><p>小島智加、岡田萬衣子</p></td>
+<td><p>10月21日</p></td>
+<td><p>10月28日</p></td>
+</tr>
+<tr class="odd">
+<td><p>第29話</p></td>
+<td><p>{{nihongo|父さんは技術部長</p></td>
+<td><p>}}</p></td>
+<td></td>
+<td><p>酒井健作</p></td>
+<td><p>新子太一</p></td>
+<td><p>飯村正之</p></td>
+<td><p>小林ゆかり</p></td>
+<td><p>10月28日</p></td>
+</tr>
+<tr class="even">
+<td><p>第30話[10]</p></td>
+<td></td>
+<td></td>
+<td><p>加戶譽夫</p></td>
+<td><p>乘田拓茂</p></td>
+<td><p>11月4日</p></td>
+<td><p>11月11日</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第31話</p></td>
+<td></td>
+<td></td>
+<td><p>荒木憲一</p></td>
+<td><p>西村博昭</p></td>
+<td><p>青柳謙二、小林史織里<br />
+森悦史</p></td>
+<td><p>11月11日</p></td>
+<td><p>11月18日</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>第32話</p></td>
+<td></td>
+<td></td>
+<td><p>關曉子</p></td>
+<td><p>池内直子、森亞彌子</p></td>
+<td><p>11月18日</p></td>
+<td><p>11月25日</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第33話</p></td>
+<td></td>
+<td></td>
+<td><p>千葉克彦</p></td>
+<td><p>新子太一</p></td>
+<td><p>横山廣行</p></td>
+<td><p>野村美織、はしもとかつみ</p></td>
+<td><p>11月25日</p></td>
+<td><p>12月2日</p></td>
+</tr>
+<tr class="even">
+<td><p>第34話</p></td>
+<td><p>{{nihongo|暴走！トランスポーターガイア</p></td>
+<td><p>}}</p></td>
+<td></td>
+<td><p>あみやまさはる</p></td>
+<td><p>高橋順</p></td>
+<td><p>阿部雅司</p></td>
+<td><p>飯飼一幸、沼田廣</p></td>
+<td><p>12月2日</p></td>
+</tr>
+<tr class="odd">
+<td><p>第35話</p></td>
+<td><p>{{nihongo|ドライブヘッド！襲来</p></td>
+<td><p>}}</p></td>
+<td></td>
+<td><p>丸川直子</p></td>
+<td><p>大平直樹</p></td>
+<td><p>平山英嗣、小島智加</p></td>
+<td><p>12月9日</p></td>
+<td><p>12月16日</p></td>
+</tr>
+<tr class="even">
+<td><p>第36話</p></td>
+<td></td>
+<td></td>
+<td><p>荒木憲一</p></td>
+<td><p>富永恆雄</p></td>
+<td><p>藤田健太郎</p></td>
+<td><p>青柳謙二、是本晶<br />
+笛木優奈</p></td>
+<td><p>12月16日</p></td>
+<td><p>12月23日</p></td>
+</tr>
+<tr class="odd">
+<td><p>第37話</p></td>
+<td><p>{{nihongo|チームドライブヘッド！ゴーレスキュー</p></td>
+<td><p>}}</p></td>
+<td></td>
+<td><p>加戶譽夫</p></td>
+<td><p>小谷野龍成</p></td>
+<td><p>乘田拓茂、小林千鶴<br />
+岸本誠司</p></td>
+<td><p>12月23日</p></td>
+<td><p>12月30日</p></td>
+</tr>
+</tbody>
+</table>
 
 ### 播放電視台
 
@@ -327,3 +788,6 @@ Head」。為了拯救人民於危難之中，Drive Head 將隨時準備好面�
 6.
 7.
 8.
+9.  第1話至第11話的總集篇
+
+10. 第13話至第29話的總集篇

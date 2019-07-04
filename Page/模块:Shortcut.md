@@ -76,6 +76,9 @@ function p._main(shortcuts, options, frame, cfg)
 `           shortcutHeading = frame:preprocess(shortcutHeading)`
 `       end`
 `   end`
+`   if yesno(options.policy) then`
+`       shortcutHeading = '`[`方針捷徑`](https://zh.wikipedia.org/wiki/Wikipedia:捷徑 "wikilink")`'`
+`   end`
 
 `   -- Shortcut box`
 `   local shortcutList = root`

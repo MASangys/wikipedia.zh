@@ -189,6 +189,13 @@
 <td><p>0.3</p></td>
 <td><p>[21]</p></td>
 </tr>
+<tr class="even">
+<td><p>7月1日</p></td>
+<td></td>
+<td><p><a href="../Page/魚韻.md" title="wikilink">魚韻</a></p></td>
+<td><p>1.1</p></td>
+<td><p>[22]</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -239,3 +246,4 @@
     坂本九さん「上を向いて歩こう」サンプリング楽曲も収録【オリコンランキング】](https://www.oricon.co.jp/news/2137419/)
 21. [東方神起・ユンホ、デジタルALが1位
     米津玄師がデジタルSGで2週連続1位【オリコンランキング】](https://www.oricon.co.jp/news/2137973/)
+22. [サカナクション、約6年ぶりアルバムが自身初のデジタルランキング1位【オリコンランキング】](https://www.oricon.co.jp/news/2138522/)

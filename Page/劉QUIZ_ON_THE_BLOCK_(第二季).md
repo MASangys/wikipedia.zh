@@ -103,7 +103,7 @@
 <td><p>23</p></td>
 <td><p>11</p></td>
 <td><p>2019/06/25</p></td>
-<td><p>%</p></td>
+<td><p>2.094%</p></td>
 </tr>
 <tr class="even">
 <td><p>24</p></td>

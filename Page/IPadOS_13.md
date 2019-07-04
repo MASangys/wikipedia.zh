@@ -1,4 +1,4 @@
-**iPadOS**是[蘋果公司在](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[iPad上使用的](https://zh.wikipedia.org/wiki/iPad "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，最新版本iPadOS
+**iPadOS**是[蘋果公司在](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[iPad上使用的](https://zh.wikipedia.org/wiki/iPad "wikilink")[行動作業系統](../Page/行動作業系統.md "wikilink")，最新版本iPadOS
 13於2019年6月4日[WWDC上发布](https://zh.wikipedia.org/wiki/WWDC "wikilink")\[1\]。
 
 ## 特色

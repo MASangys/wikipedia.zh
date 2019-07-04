@@ -1,5 +1,5 @@
 local mHatnote = require('Module:Hatnote') local mHatlist =
-require('Module:Hatnote list2') local mArguments --initialize lazily
+require('Module:Hatnote list') local mArguments --initialize lazily
 local p = {}
 
 function p.technicalReasons (frame)

@@ -42,7 +42,7 @@ Mnet》正式出道。\[10\]3月5日，於YES24 LIVE
 HALL舉行出道Showcase《TOMORROW X TOGETHER DEBUT SHOWCASE
 'STAR'》。\[11\]
 
-### 2019年：正式出道、 迷你一輯《The Dream Chapter: STAR》 、首次美國巡迴Showcase、 初一位
+### 2019年：出道專輯《The Dream Chapter: STAR》 、美國巡迴Showcase
 
 2月22日，TOMORROW X TOGETHER的出道專輯《[The Dream Chapter:
 STAR](https://zh.wikipedia.org/wiki/The_Dream_Chapter:_STAR "wikilink")》預購量破10萬，《The

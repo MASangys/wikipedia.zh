@@ -124,7 +124,7 @@ SRCL-9902（普通）</p></td>
 <td></td>
 <td><p>SRCL-11195~6（首发）<br />
 SRCL-11197（普通）</p></td>
-<td></td>
+<td><p>7位</p></td>
 <td></td>
 </tr>
 </tbody>

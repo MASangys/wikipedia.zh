@@ -21,7 +21,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/朴寶英" title="wikilink">朴寶英</a><br />
-（）</p></td>
+（）（年青：<a href="https://zh.wikipedia.org/wiki/李垂珉" title="wikilink">李垂珉</a>）</p></td>
 <td><p>高世妍</p></td>
 <td><p>中央地方檢察廳的美貌檢察官，有「中央地檢女神」的稱號，人生如同行駛在德國高速公路上的跑車般暢通無阻。但天不如人願，高世妍遭遇變故離世，依靠Abyss以另一張面孔重生，誰知重生後美貌不再，成了容貌普通的女孩。</p></td>
 </tr>
@@ -32,7 +32,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/安孝燮.md" title="wikilink">安孝燮</a><br />
-（）</p></td>
+（）（年青：）</p></td>
 <td><p>車敏</p></td>
 <td><p>原本是化妝品業排名第一企業的繼承人，後來以律師事務所的花美男事務長身份復活。從小成績優異的他，卻有著醜陋外表。當他有了Abyss後，開始體驗到做夢都沒想到過的美貌前1%的人生。</p></td>
 </tr>
@@ -49,7 +49,7 @@
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/韓素希" title="wikilink">韓素希</a></p></td>
 <td><p>張熙貞/吳秀珍</p></td>
-<td><p>車敏的未婚妻，擁有閃閃發光外貌，在婚禮當天神秘消失。</p></td>
+<td><p>車敏的未婚妻，擁有閃閃發光外貌，在婚禮當天神秘消失。吳英哲的繼女。</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -76,7 +76,7 @@
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/權秀賢" title="wikilink">權秀賢</a></p></td>
 <td><p>徐智旭/吳太真</p></td>
-<td><p>高世妍的同事，檢察官。</p></td>
+<td><p>高世妍的同事，檢察官。吳英哲的親生兒子。</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -99,6 +99,11 @@
 <td><p>法官，徐智旭的父親。</p></td>
 </tr>
 <tr class="odd">
+<td></td>
+<td><p>金美子</p></td>
+<td><p>療養院護士&amp;假女警</p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -232,14 +237,14 @@
 <tr class="even">
 <td><p>15</p></td>
 <td><p>2019/06/24</p></td>
-<td></td>
-<td><p>%</p></td>
+<td><p>事必歸正</p></td>
+<td><p>2.043%</p></td>
 </tr>
 <tr class="odd">
 <td><p>16</p></td>
 <td><p>2019/06/25</p></td>
-<td></td>
-<td><p>%</p></td>
+<td><p>回家的路</p></td>
+<td><p>2.282%</p></td>
 </tr>
 <tr class="even">
 <td><p>平均收視率</p></td>
@@ -257,7 +262,7 @@
 ## 同時段競爭作品
 
   - [KBS](../Page/韓國放送公社.md "wikilink")
-    [月火連續劇](../Page/KBS月火連續劇.md "wikilink")：《[各位國民](../Page/各位國民.md "wikilink")》、《[Perfume](https://zh.wikipedia.org/wiki/Perfume_\(韓國電視劇\) "wikilink")》
+    [月火連續劇](../Page/KBS月火連續劇.md "wikilink")：《[各位國民](../Page/各位國民.md "wikilink")》、《[Perfume](../Page/Perfume_\(韓國電視劇\).md "wikilink")》
   - [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")
     [月火連續劇](../Page/MBC月火連續劇.md "wikilink")：《[特別勞動監督官趙掌風](../Page/特別勞動監督官趙掌風.md "wikilink")》、《[檢法男女2](../Page/檢法男女2.md "wikilink")》
   - [SBS](../Page/SBS_\(韓國\).md "wikilink")

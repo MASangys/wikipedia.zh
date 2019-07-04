@@ -101,7 +101,7 @@ League**／**韩国王者荣耀职业联赛**）是韩国王者荣耀的职业�
 <tr class="even">
 <td><p>2019春季赛</p></td>
 <td><p>EMC</p></td>
-<td><p>-</p></td>
+<td><p>2-4</p></td>
 <td><p>Nova</p></td>
 <td></td>
 </tr>

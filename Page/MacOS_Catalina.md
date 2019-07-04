@@ -7,34 +7,30 @@ Mojave的继任者](https://zh.wikipedia.org/wiki/macOS_Mojave "wikilink")，于
 ## 系统要求
 
 macOS
-Catalina将在所有支持Mojave系统的麦金塔电脑上运行，同时将作为拓展坞嵌套在所有支持更新[iPadOS的](https://zh.wikipedia.org/wiki/iPadOS "wikilink")[iPad设备中](https://zh.wikipedia.org/wiki/iPad "wikilink")：
-\[1\]
+Catalina将在所有支持Mojave系统的麦金塔电脑上可用，同时可将所有支持更新[iPadOS的](https://zh.wikipedia.org/wiki/iPadOS "wikilink")[iPad设备用做拓展桌面](https://zh.wikipedia.org/wiki/iPad "wikilink")：\[1\]
 
-  - **支持升级至Catalina的麦金塔设备**
-      - [MacBook](../Page/MacBook_\(Retina显示屏\).md "wikilink")
-        ：2015年初或更新型号
-      - [MacBook Air](../Page/MacBook_Air.md "wikilink") ：2012年中或更新型号
-      - [MacBook Pro](../Page/MacBook_Pro.md "wikilink") ：2012年中或更新型号
-      - [Mac Mini](https://zh.wikipedia.org/wiki/Mac_mini "wikilink")
-        ：2012年末或更新型号
-      - [iMac](https://zh.wikipedia.org/wiki/iMac "wikilink")
-        ：2012年末或更新型号
-      - [iMac Pro](https://zh.wikipedia.org/wiki/iMac_Pro "wikilink")
-      - [Mac Pro](../Page/Mac_Pro.md "wikilink") ：2013年末或更新型号
-  - **iPad设备（作为拓展坞内嵌于iPadOS中）**
-      - [iPad Air
-        2](https://zh.wikipedia.org/wiki/iPad_Air_2 "wikilink")
-      - [iPad Air
-        3](https://zh.wikipedia.org/wiki/iPad_Air_\(第三代\) "wikilink")
-      - [iPad
-        (2017)](https://zh.wikipedia.org/wiki/iPad_\(2017\) "wikilink")
-      - [iPad
-        (2018)](https://zh.wikipedia.org/wiki/iPad_\(2018\) "wikilink")
-      - [iPad Mini
-        4](https://zh.wikipedia.org/wiki/iPad_mini_4 "wikilink")
-      - [iPad Mini
-        5](https://zh.wikipedia.org/wiki/iPad_mini_\(第五代\) "wikilink")
-      - [iPad Pro](https://zh.wikipedia.org/wiki/iPad_Pro "wikilink")
+  - [MacBook](../Page/MacBook_\(Retina显示屏\).md "wikilink") ：2015年初或更新型号
+  - [MacBook Air](../Page/MacBook_Air.md "wikilink") ：2012年中或更新型号
+  - [MacBook Pro](../Page/MacBook_Pro.md "wikilink") ：2012年中或更新型号
+  - [Mac Mini](https://zh.wikipedia.org/wiki/Mac_mini "wikilink")
+    ：2012年末或更新型号
+  - [iMac](https://zh.wikipedia.org/wiki/iMac "wikilink") ：2012年末或更新型号
+  - [iMac Pro](https://zh.wikipedia.org/wiki/iMac_Pro "wikilink")：所有型号
+  - [Mac Pro](../Page/Mac_Pro.md "wikilink") ：2013年末或更新型号
+
+另外，以下iPad设备为支持更新iPadOS的iPad设备，可用作Mac的拓展桌面:
+
+  - [iPad Air 2](https://zh.wikipedia.org/wiki/iPad_Air_2 "wikilink")
+  - [iPad Air
+    (第三代)](https://zh.wikipedia.org/wiki/iPad_Air_\(第三代\) "wikilink")
+  - [iPad
+    (2017)](https://zh.wikipedia.org/wiki/iPad_\(2017\) "wikilink")
+  - [iPad
+    (2018)](https://zh.wikipedia.org/wiki/iPad_\(2018\) "wikilink")
+  - [iPad mini 4](https://zh.wikipedia.org/wiki/iPad_mini_4 "wikilink")
+  - [iPad mini
+    (第五代)](https://zh.wikipedia.org/wiki/iPad_mini_\(第五代\) "wikilink")
+  - [iPad Pro](https://zh.wikipedia.org/wiki/iPad_Pro "wikilink")
 
 
 
@@ -46,10 +42,14 @@ Catalina将在所有支持Mojave系统的麦金塔电脑上运行，同时将作
 
 Catalyst是一個全新平台，允許軟體同時針對macOS與[iPadOS進行開發](https://zh.wikipedia.org/wiki/iPadOS "wikilink")。蘋果亦展示幾款移植的應用程式，包含[Jira和](../Page/JIRA.md "wikilink")[Twitter](../Page/Twitter.md "wikilink")（在後者於2018年2月停止其macOS應用程序服務之後）。\[2\]\[3\]
 
+#### 专用系统卷
+
+系统在其自己的只读卷中运行，并与Mac上的所有其他数据分开。\[4\]
+
 #### Gatekeeper
 
 使用開發者ID簽名的Mac應用程式、安裝程序套件和內核擴充，現在必須由Apple認證才能在macOS
-Catalina上執行。\[4\]带有Apple T2安全芯片的设备（[iMac
+Catalina上執行。\[5\]带有Apple T2安全芯片的设备（[iMac
 Pro](https://zh.wikipedia.org/wiki/iMac_Pro "wikilink")、2018年或更新型号的[MacBook
 Pro](../Page/MacBook_Pro.md "wikilink")、[Mac
 Mini及](https://zh.wikipedia.org/wiki/Mac_Mini "wikilink")[MacBook
@@ -58,40 +58,42 @@ Pro](../Page/Mac_Pro.md "wikilink")）支持激活锁。
 
 **语音控制（Voice control）**
 
-此新功能将允许用户使用语音命令控制设备。尽管macOS早已支持Siri，但“语音控制”将能让用户对设备进行更深层次的控制。\[5\]
+此新功能将允许用户使用语音命令控制设备。尽管macOS早已支持Siri，但“语音控制”将能让用户对设备进行更深层次的控制。\[6\]
 
 #### Sidecar
 
 Sidecar是一項新功能，允許搭載[iPadOS的](https://zh.wikipedia.org/wiki/iPadOS "wikilink")[iPad用作無線外接顯示器](https://zh.wikipedia.org/wiki/iPad "wikilink")。借助[Apple
 Pencil](../Page/Apple_Pencil.md "wikilink")，iPad還可以用作在電腦上运行的軟體的[數位繪圖板](https://zh.wikipedia.org/wiki/數位繪圖板 "wikilink")
-。\[6\]\[7\]Sidecar功能仅支持搭载[第六代或更新的英特尔处理器的Mac](../Page/Skylake微架構.md "wikilink")（[iMac
+。\[7\]\[8\]Sidecar功能仅支持搭载[第六代或更新的英特尔处理器的Mac](../Page/Skylake微架構.md "wikilink")（[iMac
 Pro](https://zh.wikipedia.org/wiki/iMac_Pro "wikilink")、2015年末或更新型号的27英寸[iMac](https://zh.wikipedia.org/wiki/iMac "wikilink")、2016年或更新型号的[MacBook
 Pro及](../Page/MacBook_Pro.md "wikilink")[MacBook](../Page/MacBook_\(Retina显示屏\).md "wikilink")、2017年或更新型号的21.5英寸iMac、2018款[Mac
 Mini及](https://zh.wikipedia.org/wiki/Mac_mini "wikilink")[MacBook
 Air](../Page/MacBook_Air.md "wikilink")、2019款[Mac
-Pro](../Page/Mac_Pro.md "wikilink")）。\[8\]
+Pro](../Page/Mac_Pro.md "wikilink")）。\[9\]
 
 ### 應用程式
 
 #### iTunes
 
-[iTunes軟體淡出歷史舞台](https://zh.wikipedia.org/wiki/iTunes "wikilink")，並拆分成「音樂」（Music）、「播客」（Podcasts）和「[電視](../Page/Apple_TV_\(應用程式\).md "wikilink")」（TV）三款應用程式，與[iOS維持一致](https://zh.wikipedia.org/wiki/iOS "wikilink")。\[9\]\[10\]Mac上的「電視」應用程式支援[杜比全景聲](../Page/杜比全景聲.md "wikilink")、[杜比視界](../Page/杜比實驗室.md "wikilink")（Dolby
-Vision）和HDR10。\[11\]
+[iTunes軟體淡出歷史舞台](https://zh.wikipedia.org/wiki/iTunes "wikilink")，並拆分成「音樂」（Music）、「播客」（Podcasts）和「[電視](../Page/Apple_TV_\(應用程式\).md "wikilink")」（TV）三款應用程式，與[iOS維持一致](https://zh.wikipedia.org/wiki/iOS "wikilink")。\[10\]\[11\]Mac上的「電視」應用程式支援[杜比全景聲](../Page/杜比全景聲.md "wikilink")、[杜比視界](../Page/杜比實驗室.md "wikilink")（Dolby
+Vision）和HDR10。\[12\]
 
 #### Find My
 
 “[尋找我的Mac](../Page/查找我的iPhone.md "wikilink")”（Find My
 Mac）和“[尋找我的朋友](../Page/尋找我的朋友.md "wikilink")”（Find My
-Friends）合併為一個應用程式「尋找」（Find My）。\[12\]
+Friends）合併為一個應用程式「尋找」（Find My）。\[13\]
 
 #### 提醒事项
 
-附件现在可以加到提醒事项中，Siri亦可以智慧型判断在何时提醒使用者多个事件中的一件。\[13\]
+附件现在可以加到提醒事项中，Siri亦可以智能地判断在何时提醒使用者多个事件中的一件。\[14\]
 
-#### Dashboard
+#### 被移除的组件及不再支持的内容
+
+停止了对[32位应用程序的支持](../Page/32位元.md "wikilink")，只能运行[64位应用程序](../Page/64位元.md "wikilink")，而较旧的32位应用程序将不能再运行。
 
 [Dashboard應用程式已在macOS](../Page/Dashboard.md "wikilink")
-Catalina中被移除。\[14\]
+Catalina中被移除。\[15\]Grapher应用程序同样被移除，但不确定今后是否会恢复。
 
 ## 版本历史
 
@@ -135,6 +137,7 @@ Catalina中被移除。\[14\]
 3.
 
 4.
+
 5.
 
 6.
@@ -152,4 +155,6 @@ Catalina中被移除。\[14\]
 12.
 
 13.
+
 14.
+15.

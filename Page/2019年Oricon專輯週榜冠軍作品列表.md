@@ -217,6 +217,14 @@
 <td><p>2.0</p></td>
 <td><p>1</p></td>
 </tr>
+<tr class="even">
+<td><p>7月1日</p></td>
+<td></td>
+<td><p>原創</p></td>
+<td><p><a href="../Page/King_&amp;_Prince.md" title="wikilink">King &amp; Prince</a></p></td>
+<td><p>46.8</p></td>
+<td><p>1</p></td>
+</tr>
 </tbody>
 </table>
 

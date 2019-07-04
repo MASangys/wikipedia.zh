@@ -138,8 +138,7 @@ Some applications support only a CLI, presenting a CLI prompt to the
 user and acting upon command lines as they are entered. Other programs
 support both a CLI and a GUI. In some cases, a GUI is simply a
 [wrapper](https://zh.wikipedia.org/wiki/包裝函式 "wikilink") around a
-separate CLI [executable
-file](https://zh.wikipedia.org/wiki/執行檔 "wikilink"). In other
+separate CLI [executable file](../Page/執行檔.md "wikilink"). In other
 cases, a program may provide a CLI as an optional alternative to its
 GUI. CLIs and GUIs often support different functionality. For example,
 all features of [MATLAB](../Page/MATLAB.md "wikilink"), a [numerical

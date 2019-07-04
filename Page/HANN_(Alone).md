@@ -5,7 +5,7 @@
 
 ### 預告
 
-8月1日，CUBE娛樂相關人士表示，[(G)I-DLE](../Page/\(G\)I-DLE.md "wikilink")
+8月1日，Cube娛樂相關人士表示，[(G)I-DLE](../Page/\(G\)I-DLE.md "wikilink")
 正在加緊籌備專輯中，預計於8月中旬回歸。\[1\]
 
 8月5日，官方社群帳號發佈Whistle版本預告。\[2\]

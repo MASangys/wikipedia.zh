@@ -1,30 +1,30 @@
-《**Uh-Oh**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[(G)I-DLE](../Page/\(G\)I-DLE.md "wikilink")
-第二張數位單曲，於2019年6月26日推出。
+《**Uh-Oh**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[(G)I-DLE第二張數位單曲](../Page/\(G\)I-DLE.md "wikilink")，於2019年6月26日推出。
 
 ## 簡介
 
 ### 預告
 
-6月13日，CUBE娛樂相關人士表示，(G)I-DLE確定於6月26日以數位單曲《Uh-Oh》回歸，並釋出將進行MV拍攝的消息。\[1\]
+6月13日，Cube娛樂相關人士表示，(G)I-DLE
+確定於6月26日以數位單曲《Uh-Oh》回歸，並釋出將進行MV拍攝的消息。此次依然是由隊長小娟親自創作的歌曲，以
+(G)I-DLE 獨特色彩重新詮釋 90 年代的復古風情，是一首難得一見的 Boom Bap 歌曲。\[1\]
 
-6月16日，官方社群帳號發佈首波回歸預告照。\[2\]
+6月16日，官方社群帳號發布首波回歸預告照。\[2\]6月17日，陸續公開了個人及團體概念照，沙漠與古董車構成的背景充滿復古氛圍，成員們更以深髮色或濃烈的妝容，大展過去至今從未示人的狂野魅力。\[3\]\[4\]\[5\]
 
-6月17日，公開成員美延、小娟、穗珍個人概念照。\[3\]
-
-6月18日，公開成員雨琦、Minnie、舒華個人及團體概念照。\[4\]\[5\]
+6月21日，再度釋出回歸預告，通過 (G)I-DLE 官方社群帳號陸續發布個人預告片。6月25日，公開了首波MV預告片。\[6\]
 
 ### 正式發行
 
-6月26日，韓國時間下午6點，公開第二張數位單曲《Uh-Oh》。
+6月26日，韓國時間下午6點，公開第二張數位單曲《Uh-Oh》，並於同日舉行回歸Showcase。\[7\]
 
 ## 曲目
 
 ## 音樂錄影帶
 
-| 歌曲    | 發表日期                                                                                    | 媒體                                                        | 備註 |
-| ----- | --------------------------------------------------------------------------------------- | --------------------------------------------------------- | -- |
-| Uh-Oh | 2019年6月26日                                                                              | [1theK 官方YouTube频道](https://www.youtube.com/user/LOENENT) |    |
-| Uh-Oh | [(G)I-DLE 官方YouTube频道](https://www.youtube.com/channel/UCritGVo7pLJLUS8wEu32vow/videos) |                                                           |    |
+| 歌曲                                                   | 發表日期                                                                                    | 媒體                                                                   | 備註                          |
+| ---------------------------------------------------- | --------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | --------------------------- |
+| [Uh-Oh](https://www.youtube.com/watch?v=ycYLPbtxU1Q) | 2019年6月26日                                                                              | [1theK 官方YouTube频道](https://www.youtube.com/user/LOENENT)            |                             |
+| [Uh-Oh](https://www.youtube.com/watch?v=I66oFXdf0KU) | [(G)I-DLE 官方YouTube频道](https://www.youtube.com/channel/UCritGVo7pLJLUS8wEu32vow/videos) |                                                                      |                             |
+| [Uh-Oh](https://www.youtube.com/watch?v=PzSCnRCpM_c) | 2019年6月30日                                                                              | [CUBE官方YouTube频道](https://www.youtube.com/user/theunitedcube/videos) | Choreography Practice Video |
 
 ## 榜單成績
 
@@ -42,35 +42,35 @@
 </tr>
 <tr class="odd">
 <td><p><strong>iChart</strong></p></td>
-<td></td>
+<td><p>*8</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Melon</strong></p></td>
-<td></td>
+<td><p>*10</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Mnet</strong></p></td>
-<td></td>
+<td><p>*17</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Bugs</strong></p></td>
-<td></td>
+<td><p>*1</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Soribada</strong></p></td>
-<td></td>
+<td><p>*5</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Genie</strong></p></td>
-<td></td>
+<td><p>*8</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Naver</strong></p></td>
-<td></td>
+<td><p>*1</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Flo</strong></p></td>
-<td></td>
+<td><p>*27</p></td>
 </tr>
 <tr class="odd">
 <td><ul>
@@ -132,7 +132,7 @@
 <table>
 <thead>
 <tr class="header">
-<th><p><big>2018年音樂節目現場</big></p></th>
+<th><p><big>2019年音樂節目現場</big></p></th>
 </tr>
 </thead>
 <tbody>
@@ -238,3 +238,5 @@
 3.
 4.
 5.
+6.
+7.

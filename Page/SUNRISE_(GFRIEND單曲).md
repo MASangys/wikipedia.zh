@@ -2,11 +2,11 @@
 for us的主打歌](../Page/Time_for_us.md "wikilink")，由[Source
 Music製作](https://zh.wikipedia.org/wiki/Source_Music "wikilink")，[King
 Records發行](../Page/國王唱片.md "wikilink")，於2019年2月13日推出，主打歌為〈SUNRISE -JP
-Ver.-〉。
+Ver.-〉。\[1\]
 
 ## 背景
 
-2019年1月12日，決定第二張日文單曲標題「SUNRISE」，同日發佈概念照。
+2019年1月12日，決定第二張日文單曲標題「SUNRISE」，同日發佈概念照。\[2\]
 
 1月31日，在官方 Facebook 及 Youtube 上公開《SUNRISE》短版MV。
 
@@ -26,6 +26,11 @@ SUNRISE -JP Ver.- MV Making
 
 ## 外部連結
 
+  -
 [Category:2019年單曲](https://zh.wikipedia.org/wiki/Category:2019年單曲 "wikilink")
 [Category:GFRIEND歌曲](https://zh.wikipedia.org/wiki/Category:GFRIEND歌曲 "wikilink")
 [Category:GFRIEND音樂專輯](https://zh.wikipedia.org/wiki/Category:GFRIEND音樂專輯 "wikilink")
+[Category:日语歌曲](https://zh.wikipedia.org/wiki/Category:日语歌曲 "wikilink")
+
+1.
+2.

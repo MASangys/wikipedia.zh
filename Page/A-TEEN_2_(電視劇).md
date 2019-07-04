@@ -10,7 +10,7 @@
 | [辛睿恩](../Page/辛睿恩.md "wikilink")                                                                              | 都荷娜       |
 | [李娜恩](https://zh.wikipedia.org/wiki/李娜恩 "wikilink") （[APRIL](https://zh.wikipedia.org/wiki/APRIL "wikilink")） | 金荷娜 (金昭妍) |
 | [崔普閔](https://zh.wikipedia.org/wiki/崔普閔 "wikilink")（[Golden Child](../Page/Golden_Child.md "wikilink")）       | 柳周河       |
-| [金東希](../Page/金東希.md "wikilink")                                                                              | 河玟        |
+| [金東希](../Page/金東希.md "wikilink")                                                                              | 夏旻        |
 | [申升浩](https://zh.wikipedia.org/wiki/申升浩 "wikilink")                                                           | 南時宇       |
 | [金秀賢](https://zh.wikipedia.org/wiki/金秀賢_\(2000年\) "wikilink")                                                 | 余寶藍       |
 | [柳宜賢](https://zh.wikipedia.org/wiki/柳宜賢 "wikilink")                                                           | 車基現       |

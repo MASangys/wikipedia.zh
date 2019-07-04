@@ -12,8 +12,6 @@ ID登入](https://zh.wikipedia.org/wiki/Apple_ID "wikilink")「使用 Apple
 Music应用的歌曲播放页被重新设计](../Page/Apple_Music.md "wikilink")，支持滚动歌词；[Siri朗读支持了自然语义识别](../Page/Siri.md "wikilink")；內建键盘支援滑动输入；可向聯絡人分享自己的[iMessage大頭照與個人資訊](https://zh.wikipedia.org/wiki/iMessage "wikilink")；照片分享頁面得到改进；截图标记工具设计风格回归拟物化；[Memoji](https://zh.wikipedia.org/wiki/Memoji "wikilink")
 拟我表情支援妆容选择并可以儲存在键盘表情栏用于第三方app，等等。
 
-iOS13 Beta2 更新大幅改善Beta1 Bug
-
 在iOS 13內，「[iTunes
 Store](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")」應用程式将被「[Apple
 Music](../Page/Apple_Music.md "wikilink")」、「[TV](https://zh.wikipedia.org/wiki/Apple_TV_\(应用程式\) "wikilink")」和「[播客](../Page/播客.md "wikilink")」完全取代。「尋找我的朋友」和「尋找
@@ -121,13 +119,25 @@ Memoji 新增了更多設計，從頭髮、嘴唇、綠帽、耳環、甚至可�
 <tr class="odd">
 <td><p>13.0</p></td>
 <td><p>Developer beta 1</p></td>
-<td><p><small></small>17A5492t</p></td>
+<td><p><small>17A5492t</small></p></td>
 <td><p>2019年6月4日</p></td>
 </tr>
 <tr class="even">
-<td><p>Developer Beta2</p></td>
-<td><p>17A5508m</p></td>
+<td><p>Developer beta 2</p></td>
+<td><p><small> 17A5508m</small></p></td>
 <td><p>2019年6月18日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Public beta 1</p></td>
+<td><p>2019年6月23日</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Developer beta 3</p></td>
+<td><p><small> 17A5522f</small></p></td>
+<td><p>2019年7月3日</p></td>
 <td></td>
 </tr>
 </tbody>

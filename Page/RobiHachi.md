@@ -54,10 +54,10 @@ G.C
 
 ## 主題曲
 
-  - 片頭曲「」\[4\]（第1話－）
+  - 片頭曲「」\[4\]（第1話－第12話）
     作詞、作曲、編曲：[中山真斗](../Page/中山真斗.md "wikilink")；主唱：Hatchi（[河本啓佑](https://zh.wikipedia.org/wiki/河本啓佑 "wikilink")）
     feat. Robby（[中井和哉](../Page/中井和哉.md "wikilink")）
-  - 片尾曲「」\[5\]（第2話－）
+  - 片尾曲「」\[5\]（第2話－第11話）
     作詞、作曲、編曲：yamazo；主唱：Allo（[木村昴](../Page/木村昴.md "wikilink")）\&Gras（[徳留慎乃佑](https://zh.wikipedia.org/wiki/徳留慎乃佑 "wikilink")）
     feat.Yang（[杉田智和](../Page/杉田智和.md "wikilink")）
   - 插曲「」（第1話－第4話、第8話－第9話）
@@ -176,9 +176,30 @@ G.C
 <td></td>
 <td><p>搭档吵架狗都懒得理</p></td>
 <td><p>金杉弘子</p></td>
-<td><p>佐藤まさふみ</p></td>
+<td><p>佐藤昌文</p></td>
 <td><p>鈴木光</p></td>
 <td><p>八尋裕子</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>#11</p></td>
+<td></td>
+<td><p>傳聞中的極樂，伊賽坎達爾</p></td>
+<td><p>千葉克彥</p></td>
+<td><p>島崎奈奈子</p></td>
+<td><p>加藤壯</p></td>
+<td><p>宮川知子</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>#12</p></td>
+<td></td>
+<td><p>月之夢，地球之夢</p></td>
+<td><p>金杉弘子</p></td>
+<td><p>高松信司</p></td>
+<td><p>高橋初美、野本正幸、高橋敦子<br />
+三橋櫻子、白川茉莉</p></td>
+<td><p>八尋裕子、長澤翔子</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -188,15 +209,14 @@ G.C
 
 ## BD／DVD
 
-| 卷  | 發售日期\[6\]     | 收錄話數        | 規格編號       |
-| -- | ------------- | ----------- | ---------- |
-| BD | DVD           |             |            |
-| 1  | 2019年6月19日予定  | 第1話 - 第2話   | PCXG-50671 |
-| 2  | 2019年7月17日予定  | 第3話 - 第4話   | PCXG-50672 |
-| 3  | 2019年8月21日予定  | 第5話 - 第6話   | PCXG-50673 |
-| 4  | 2019年9月18日予定  | 第7話 - 第8話   | PCXG-50674 |
-| 5  | 2019年10月16日予定 | 第9話 - 第10話  | PCXG-50675 |
-| 6  | 2019年11月20日予定 | 第11話 - 第12話 | PCXG-50676 |
+| 卷  | 發售日期\[6\]     | 收錄話數      | 規格編號       |
+| -- | ------------- | --------- | ---------- |
+| BD | DVD           |           |            |
+| 1  | 2019年6月19日    | 第1話、第2話   | PCXG-50671 |
+| 2  | 預定2019年7月17日  | 第3話、第4話   | PCXG-50672 |
+| 4  | 預定2019年9月18日  | 第7話、第8話   | PCXG-50674 |
+| 5  | 預定2019年10月16日 | 第9話、第10話  | PCXG-50675 |
+| 6  | 預定2019年11月20日 | 第11話、第12話 | PCXG-50676 |
 
 ## 參考資料
 
@@ -214,7 +234,6 @@ G.C
 [Category:冒險動畫](https://zh.wikipedia.org/wiki/Category:冒險動畫 "wikilink")
 [Category:太空歌劇](https://zh.wikipedia.org/wiki/Category:太空歌劇 "wikilink")
 [Category:搞笑動畫](https://zh.wikipedia.org/wiki/Category:搞笑動畫 "wikilink")
-[Category:未完結作品](https://zh.wikipedia.org/wiki/Category:未完結作品 "wikilink")
 
 1.
 2.

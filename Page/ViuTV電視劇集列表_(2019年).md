@@ -168,7 +168,7 @@ Queen of Mystery</p></td>
 
 ### 第一線劇集
 
-[香港時間逢星期一至五](../Page/香港時間.md "wikilink")19:30-19:55/20:00播出，逢星期二至五及下星期一10:30-11:00重播；4月29日起改為20:00-20:30播出
+[香港時間逢星期一至五](../Page/香港時間.md "wikilink")19:30-19:55/20:00播出，逢星期二至六04:00-04:30重播，再逢星期二至五及下星期一10:30-11:00重播；4月29日起改為20:00-20:30播出
 
 <table style="width:344%;">
 <colgroup>
@@ -372,7 +372,7 @@ My Secret, Terrius</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"><p>外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a>），6月17日因插播盧偉聰見記者的片段的關係，所以本節目改為20:30-21:50播出</p></td>
+<td style="text-align: center;"><p>外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a>），6月17日因插播盧偉聰見記者片段關係改為20:30-21:50播出</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>26/06-<br />
@@ -484,7 +484,7 @@ Limited Education</p></td>
 <td style="text-align: center;"><p>08/07-<br />
 02/08</p></td>
 <td style="text-align: center;"><p><br />
-</p></td>
+Haters Gonna Stay</p></td>
 <td style="text-align: center;"><p>20</p></td>
 <td style="text-align: center;"><p><a href="../Page/盧海鵬.md" title="wikilink">盧海鵬</a>、<a href="../Page/游學修.md" title="wikilink">游學修</a>、<a href="../Page/鄭中基.md" title="wikilink">鄭中基</a>、<br />
 <a href="https://zh.wikipedia.org/wiki/盧巧音" title="wikilink">盧巧音</a></p></td>
@@ -543,7 +543,7 @@ Limited Education</p></td>
 Psycho Detective 2</p></td>
 <td style="text-align: center;"><p>30</p></td>
 <td style="text-align: center;"><p><a href="../Page/鄭少秋.md" title="wikilink">鄭少秋</a>、<a href="../Page/陶大宇.md" title="wikilink">陶大宇</a>、<a href="../Page/郭偉亮.md" title="wikilink">Eric Kwok</a>、<br />
-<a href="https://zh.wikipedia.org/wiki/江若琳" title="wikilink">江若琳</a>、<a href="../Page/游學修.md" title="wikilink">游學修</a>、、<br />
+<a href="../Page/江若琳.md" title="wikilink">江若琳</a>、<a href="../Page/游學修.md" title="wikilink">游學修</a>、、<br />
 <a href="../Page/麥子樂.md" title="wikilink">麥子樂</a>、、</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/湯皓浚" title="wikilink">湯皓浚</a></p></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/psycho-detective-2">網頁</a></p></td>
@@ -572,7 +572,7 @@ Reboot</p></td>
 <td style="text-align: center;"><p>20</p></td>
 <td style="text-align: center;"><p><a href="../Page/周國賢.md" title="wikilink">周國賢</a>、<a href="../Page/駱振偉.md" title="wikilink">駱振偉</a>、、<br />
 <a href="../Page/吳浩康.md" title="wikilink">吳浩康</a>、<a href="../Page/岑樂怡.md" title="wikilink">岑樂怡</a></p></td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/范榮笙" title="wikilink">范榮笙</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
@@ -734,21 +734,21 @@ W–Two Worlds</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>27/06-<br />
-01/08</p></td>
+02/08</p></td>
 <td style="text-align: center;"><p><a href="../Page/購物王路易.md" title="wikilink">購物王路易</a><br />
 Shopaholic Louis</p></td>
 <td style="text-align: center;"><p>21</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
 <p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/ViuTV電視劇集列表_(2017年).md" title="wikilink">2017年ViuTV劇集</a></span></p>
 </div></td>
-<td style="text-align: center;"><p>外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a>），7月9日改為01:00-02:00播出，7月10日至26日改為00:45-01:45播出</p></td>
+<td style="text-align: center;"><p>外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a>），7月2日暫停播映，7月9日改為01:00-02:00播出，7月10日至26日改為00:45-01:45播出</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p>02/08-<br />
-03/09</p></td>
+<td style="text-align: center;"><p>06/08-<br />
+04/09</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/再見黑先生" title="wikilink">再見黑先生</a><br />
 Goodbye Mr. Black</p></td>
 <td style="text-align: center;"><p>18</p></td>
@@ -1159,6 +1159,19 @@ Designated Attorney</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p>外購劇（<a href="../Page/日本.md" title="wikilink">日本</a><a href="../Page/朝日電視台.md" title="wikilink">朝日電視台</a>），播映時間為09:30-11:45</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>02/07</p></td>
+<td style="text-align: center;"><p><br />
+Tokyo Sentimental Special</p></td>
+<td style="text-align: center;"><p>1</p></td>
+<td style="text-align: center;"><div style="text-align: center;">
+<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/ViuTV電視劇集列表_(2018年).md" title="wikilink">2018年ViuTV劇集</a></span></p>
+</div></td>
+<td style="text-align: center;"><p>外購劇（<a href="../Page/日本.md" title="wikilink">日本</a><a href="../Page/東京電視台.md" title="wikilink">東京電視台</a>），播映時間為04:30-05:45</p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
 </tr>
 </tbody>
 </table>

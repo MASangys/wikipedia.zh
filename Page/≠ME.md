@@ -1,4 +1,4 @@
-**≠ME**（，簡稱「」）是2019年成立的日本女子[聲優](../Page/聲優.md "wikilink")[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")，為[=LOVE的姐妹團](../Page/=LOVE.md "wikilink")，由[指原莉乃擔任製作人](../Page/指原莉乃.md "wikilink")。團名有「希望體驗到與現在為止不同的自己」的含義\[1\]。
+**≠ME**（，簡稱「」）是2019年成立的日本女子[聲優](../Page/聲優.md "wikilink")[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")，為[=LOVE的姐妹團](../Page/=LOVE.md "wikilink")，與=LOVE同樣由[指原莉乃擔任總製作人](../Page/指原莉乃.md "wikilink")。團名有「希望體驗到與現在為止不同的自己」的含義\[1\]。
 
 ## 歷史
 

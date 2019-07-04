@@ -27,7 +27,37 @@ Company於2019年推出的七人男子團體
 
 2019年4月19日，以歌曲《Bloom》正式出道。
 
+## 音樂作品
+
+### 數位音源
+
+<table>
+<tbody>
+<tr class="odd">
+<td></td>
+<td><p>內容</p></td>
+<td><p>曲目</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>1st</strong></p></td>
+<td><p>《<strong>Bloom</strong>》</p>
+<ul>
+<li>發行日期：2019年4月19日</li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
+<li>銷量：</li>
+</ul></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ## 參考文章
+
+## 外部連結
+
+  - [ENOi](https://www.instagram.com/enoi__official/)的官方IG
+  - [ENOi](https://mobile.twitter.com/ENOi_official)的官方Twitter
+  - [ENOi](https://m.youtube.com/channel/UCWGXbM42Kd2Hxo6aMbpXaag)的官方Youtube
 
 [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
 [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")

@@ -1,5 +1,5 @@
-**基嫩·德坎·雷·杰克逊**（英语：**Keenon Daequan Ray
-Jackson**，1990年3月9日出生），\[1\]艺名**YG**，来自美国[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")[康普顿的说唱歌手和演员](https://zh.wikipedia.org/wiki/康普顿_\(加利福尼亚州\) "wikilink")。2009年，YG发布了首支单曲“Toot
+**基嫩·德坎·雷·杰克逊**（英语：**Keenon Daequan Ray Jackson**，1990年3月9日 -
+），\[1\]艺名**YG**，来自美国[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")[康普顿的说唱歌手和演员](https://zh.wikipedia.org/wiki/康普顿_\(加利福尼亚州\) "wikilink")。2009年，YG发布了首支单曲“Toot
 It and Boot It”，[Ty Dolla
 Sign客串献唱](https://zh.wikipedia.org/wiki/Ty_Dolla_Sign "wikilink")，在[Billboard百强单曲榜上排名第](../Page/告示牌百强单曲榜.md "wikilink")67。\[2\]单曲的成功使他签约了[Def
 Jam唱片公司](https://zh.wikipedia.org/wiki/Def_Jam唱片公司 "wikilink")。\[3\]在随后的几年中，YG发布了《The
@@ -150,6 +150,7 @@ Flockers），其中有段歌词为：
 [Category:非裔美国男性饶舌歌手](https://zh.wikipedia.org/wiki/Category:非裔美国男性饶舌歌手 "wikilink")
 [Category:西海岸嘻哈音乐人](https://zh.wikipedia.org/wiki/Category:西海岸嘻哈音乐人 "wikilink")
 [Category:血帮](https://zh.wikipedia.org/wiki/Category:血帮 "wikilink")
+[Category:来自洛杉矶的饶舌歌手](https://zh.wikipedia.org/wiki/Category:来自洛杉矶的饶舌歌手 "wikilink")
 
 1.
 2.

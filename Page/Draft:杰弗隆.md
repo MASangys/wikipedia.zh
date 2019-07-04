@@ -1,28 +1,10 @@
-https://zh.wikipedia.org/w/index.php?title=Special:%E5%86%85%E5%AE%B9%E7%BF%BB%E8%AF%91\&page=Jaflong\&from=en\&to=zh\&targettitle=Draft%3A%E5%82%91%E5%BC%97%E9%9A%86
+
 [Zero_Point_at_Zuflong.jpg](https://zh.wikipedia.org/wiki/File:Zero_Point_at_Zuflong.jpg "fig:Zero_Point_at_Zuflong.jpg"),
 Jaflong, Sylhet\]\]
 [Boat_in_river,_Bangladesh.jpg](https://zh.wikipedia.org/wiki/File:Boat_in_river,_Bangladesh.jpg "fig:Boat_in_river,_Bangladesh.jpg")
 [Akta_Fall.JPG](https://zh.wikipedia.org/wiki/File:Akta_Fall.JPG "fig:Akta_Fall.JPG")
-**Jaflong**
-
-([Sylheti](https://zh.wikipedia.org/wiki/Sylheti_Nagari "wikilink"): )
-is a [hill
-station](https://zh.wikipedia.org/wiki/hill_station "wikilink") and
-tourist destination in the [Division of
-Sylhet](https://zh.wikipedia.org/wiki/Sylhet_division "wikilink"),
-[Bangladesh](https://zh.wikipedia.org/wiki/Bangladesh "wikilink"). It is
-located in [Gowainghat
-Upazila](https://zh.wikipedia.org/wiki/Gowainghat_Upazila "wikilink") of
-[Sylhet
-District](https://zh.wikipedia.org/wiki/Sylhet_District "wikilink") and
-situated at the border between
-[Bangladesh](https://zh.wikipedia.org/wiki/Bangladesh "wikilink") and
-the [Indian](https://zh.wikipedia.org/wiki/India "wikilink") state of
-[Meghalaya](https://zh.wikipedia.org/wiki/Meghalaya "wikilink"),
-overshadowed by subtropical mountains and rainforests. Jaflong is known
-for its stone collections and is home of the
-[Khasi](https://zh.wikipedia.org/wiki/Khasi_people "wikilink")
-tribe.\[1\]\[2\]
+傑佛隆
+位於孟加拉人民共和國的錫爾赫特地區，是山頂休息站和觀光區域。它座落於錫爾赫特地區的戈瓦恩加特烏帕齊拉，介於於印度的梅加拉亞邦和孟加拉人民共和國的邊界。當地石頭多樣性和卡西族部落也相當著名。
 
 ## 地理位置 Geography
 
@@ -37,7 +19,7 @@ tribe.\[1\]\[2\]
   - Khasia Rajbari (king's palace)
   - [Dauki](https://zh.wikipedia.org/wiki/Dauki_River "wikilink") and
     [Piyain
-    Rivers](https://zh.wikipedia.org/wiki/Piyain_River "wikilink")\[3\]\[4\]
+    Rivers](https://zh.wikipedia.org/wiki/Piyain_River "wikilink")\[1\]\[2\]
   - Tea Garden
   - Orange and jackfruit gardens
   - Betel leaf and areca nut gardens
@@ -55,7 +37,7 @@ tribe.\[1\]\[2\]
 The land grabbers occupied government khas land and reserved forestland
 and extracted stone by cutting small hills polluting the environment of
 Jaflong. They also established crushing mills on the forestland without
-permission from government.\[5\]
+permission from government.\[3\]
 
 ## Forestation program
 
@@ -75,7 +57,7 @@ Jaflong Foundation and Forest Department. They have jointly taken up the
 forestation program with about 100 hectares of grabbed land. Under the
 forestation program, various types of trees, including hybrid
 Akash-moni, are being planted in the park to maintain ecological
-balance.\[6\]
+balance.\[4\]
 
 ## Gallery
 
@@ -110,5 +92,3 @@ for sale in Jafflong Image:Tea Garden in Jaflong Sylhet Bangladesh
 2.
 3.
 4.
-5.
-6.

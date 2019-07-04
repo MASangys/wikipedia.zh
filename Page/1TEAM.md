@@ -43,6 +43,14 @@ Company練習生身份參與《[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "
 2017年10月29日，以Liveworks
 Company練習生身份參與由[YG娛樂投資的](../Page/YG娛樂.md "wikilink")《[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")》，比賽進行約三個多月，最終排名第3名，預計透過節目出道。可惜[YG娛樂最終無法與其他經紀公司取得相同意見](../Page/YG娛樂.md "wikilink")，加上節目沒有比預期受到歡迎，於2018年5月3日宣布取消出道計劃\[4\]。
 
+### 出道後：2019年
+
+3月27日，推出首張迷你專輯《Hello》正式出道。
+
+7月10日，在Yes24 Live Hall舉行首次粉絲見面會\[5\]。
+
+7月11日，推出第二張迷你專輯《Just》作回歸。
+
 ## 音樂作品
 
 ### 迷你專輯
@@ -57,10 +65,25 @@ Company練習生身份參與由[YG娛樂投資的](../Page/YG娛樂.md "wikilink
 </thead>
 <tbody>
 <tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><strong>1st</strong></p></td>
 <td><p><strong>《HELLO》</strong></p>
 <ul>
 <li>發行日期：2019年3月27日</li>
+<li>語言：韓語</li>
+<li>銷量：4,343+[6]</li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>2nd</strong></p></td>
+<td><p><strong>《JUST》</strong></p>
+<ul>
+<li>發行日期：2019年7月11日</li>
 <li>語言：韓語</li>
 <li>銷量：</li>
 </ul></td>
@@ -81,11 +104,11 @@ Company練習生身份參與由[YG娛樂投資的](../Page/YG娛樂.md "wikilink
 
 ### 綜藝節目
 
-| 日期                     | 频道   | 名稱                                                          | 參與成員     | 備註 |
-| ---------------------- | ---- | ----------------------------------------------------------- | -------- | -- |
-| 出道前                    |      |                                                             |          |    |
-| 2016年6月18日－8月6日        | Mnet | [少年24](../Page/少年24.md "wikilink")                          | BC、Rubin |    |
-| 2017年10月29日－2018年1月26日 | JTBC | [MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink") | BC、Rubin |    |
+| 日期                     | 频道   | 名稱                                                          | 參與成員     |
+| ---------------------- | ---- | ----------------------------------------------------------- | -------- |
+| 出道前                    |      |                                                             |          |
+| 2016年6月18日－8月6日        | Mnet | [少年24](../Page/少年24.md "wikilink")                          | BC、Rubin |
+| 2017年10月29日－2018年1月26日 | JTBC | [MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink") | BC、Rubin |
 
 ## 參考資料
 
@@ -106,3 +129,5 @@ Company練習生身份參與由[YG娛樂投資的](../Page/YG娛樂.md "wikilink
 2.
 3.
 4.
+5.
+6.

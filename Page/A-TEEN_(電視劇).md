@@ -15,7 +15,7 @@ LIVE播出的網路劇](../Page/NAVER.md "wikilink")。此作為網路劇《十�
 | [李娜恩](https://zh.wikipedia.org/wiki/李娜恩 "wikilink")（[APRIL](https://zh.wikipedia.org/wiki/APRIL "wikilink")） | 金荷娜 (金昭妍) |
 | [金秀賢](https://zh.wikipedia.org/wiki/金秀賢_\(2000年\) "wikilink")                                                | 余寶藍       |
 | [金東希](../Page/金東希.md "wikilink")                                                                             | 河玟        |
-| [申升浩](https://zh.wikipedia.org/wiki/申升浩 "wikilink")                                                          | 南時宇       |
+| [申承浩](https://zh.wikipedia.org/wiki/申承浩 "wikilink")                                                          | 南時宇       |
 | [柳宜賢](https://zh.wikipedia.org/wiki/柳宜賢 "wikilink")                                                          | 車基現       |
 
 ### 特別出演
@@ -23,7 +23,7 @@ LIVE播出的網路劇](../Page/NAVER.md "wikilink")。此作為網路劇《十�
 |                                                                                            |        |
 | ------------------------------------------------------------------------------------------ | ------ |
 | **演員**                                                                                     | **角色** |
-| [鄭乾柱](https://zh.wikipedia.org/wiki/鄭乾柱 "wikilink")                                        | 體育老師   |
+| [鄭乾柱](../Page/鄭乾柱.md "wikilink")                                                           | 體育老師   |
 | [Jeno](../Page/Jeno.md "wikilink") ([NCT Dream](../Page/NCT.md "wikilink"))                | 學生     |
 | [渽民](https://zh.wikipedia.org/wiki/渽民 "wikilink") ([NCT Dream](../Page/NCT.md "wikilink")) | 學生     |
 
@@ -31,17 +31,17 @@ LIVE播出的網路劇](../Page/NAVER.md "wikilink")。此作為網路劇《十�
 
 ### 主要人物
 
-|                                                                                                       |           |
-| ----------------------------------------------------------------------------------------------------- | --------- |
-| **演員**                                                                                                | **角色**    |
-| [辛睿恩](../Page/辛睿恩.md "wikilink")                                                                      | 都荷娜       |
-| [李娜恩](https://zh.wikipedia.org/wiki/李娜恩 "wikilink")(April)                                            | 金荷娜 (金昭妍) |
-| [金秀賢](https://zh.wikipedia.org/wiki/金秀賢_\(2000年\) "wikilink")                                         | 余寶藍       |
-| [金東希](../Page/金東希.md "wikilink")                                                                      | 河玟        |
-| [申升浩](https://zh.wikipedia.org/wiki/申升浩 "wikilink")                                                   | 南時宇       |
-| [柳宜賢](https://zh.wikipedia.org/wiki/柳宜賢 "wikilink")                                                   | 車基現       |
-| [普閔](https://zh.wikipedia.org/wiki/普閔 "wikilink")（[Golden Child](../Page/Golden_Child.md "wikilink")） | 柳周河       |
-| [姜敏兒](../Page/姜敏兒.md "wikilink")                                                                      | 車雅嫻       |
+|                                                                                                              |           |
+| ------------------------------------------------------------------------------------------------------------ | --------- |
+| **演員**                                                                                                       | **角色**    |
+| [辛睿恩](../Page/辛睿恩.md "wikilink")                                                                             | 都荷娜       |
+| [李娜恩](https://zh.wikipedia.org/wiki/李娜恩 "wikilink")([APRIL](https://zh.wikipedia.org/wiki/APRIL "wikilink")) | 金荷娜 (金昭妍) |
+| [金秀賢](https://zh.wikipedia.org/wiki/金秀賢_\(2000年\) "wikilink")                                                | 余寶藍       |
+| [金東希](../Page/金東希.md "wikilink")                                                                             | 河玟        |
+| [申升浩](https://zh.wikipedia.org/wiki/申升浩 "wikilink")                                                          | 南時宇       |
+| [柳宜賢](https://zh.wikipedia.org/wiki/柳宜賢 "wikilink")                                                          | 車基現       |
+| [崔普閔](https://zh.wikipedia.org/wiki/崔普閔 "wikilink")（[Golden Child](../Page/Golden_Child.md "wikilink")）      | 柳周河       |
+| [姜敏兒](../Page/姜敏兒.md "wikilink")                                                                             | 車雅嫻       |
 
 ### 特別出演
 

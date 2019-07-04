@@ -15,7 +15,7 @@ Entertainment)於2019年推出的五人男子組合，成員包括晭妟、Eson�
 | 憼憲                              |
 | [始炫](../Page/金始炫.md "wikilink") |
 
-## 經歷
+## 活動經歷
 
 ### 出道前
 
@@ -29,9 +29,33 @@ Zone﹐並加入金始炫及個人資料未公開的新成員Min，預計上半�
 
 2019年5月22日，宣布團體的官方顏色為「彩通\#9896A4(淺紫灰色)及\#DE4D44(深紅色)」\[6\]。
 
-### 正式出道
+### 出道後
 
 2019年5月27日，公開出道曲《Let's Get Loud》MV\[7\]，團體正式出道。
+
+## 音樂作品
+
+### 迷你專輯
+
+<table>
+<tbody>
+<tr class="odd">
+<td></td>
+<td><p>內容</p></td>
+<td><p>曲目</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>1st</strong></p></td>
+<td><p>《<strong>We In The Zone</strong>》</p>
+<ul>
+<li>發行日期：2019年5月27日</li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
+<li>銷量：2,125 +[8]</li>
+</ul></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 影視作品
 
@@ -70,3 +94,5 @@ Zone﹐並加入金始炫及個人資料未公開的新成員Min，預計上半�
 5.
 6.
 7.
+8.  \[<http://mobile.gaonchart.co.kr/musicAlbum.gaon?nationGbn=T&serviceGbn=&termGbn=month>.
+    2019年GAON 5月專輯榜70位\]

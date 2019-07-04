@@ -1,4 +1,4 @@
-**CIX**（韓語：**씨아이엑스**），為韓國[C9娛樂將於](https://zh.wikipedia.org/wiki/C9娛樂 "wikilink")2019年推出的五人男子團體。成員包括[BX](../Page/李炳坤.md "wikilink")、[昇勳](../Page/金昇勳.md "wikilink")、龍熙、[珍映及炫晳](https://zh.wikipedia.org/wiki/裴珍映 "wikilink")，預計下半年正式出道。
+**CIX**（韓語：**씨아이엑스**），為韓國[C9娛樂旗下的五人男子團體](https://zh.wikipedia.org/wiki/C9娛樂 "wikilink")。成員包括[BX](../Page/李炳坤.md "wikilink")、[昇勳](../Page/金昇勳.md "wikilink")、龍熙、[珍映及炫晳](https://zh.wikipedia.org/wiki/裴珍映 "wikilink")。2019年7月23月以第一張迷你專輯正式出道。
 
 ## 團體資料
 
@@ -8,16 +8,16 @@
 
 ### 成員列表
 
-| 成員列表                             |
-| -------------------------------- |
-| 藝名                               |
-| 漢字                               |
-| [BX](../Page/李炳坤.md "wikilink")  |
-| [昇勳](../Page/金昇勳.md "wikilink")  |
-| 龍熙                               |
-| [裵珍映](../Page/裵珍映.md "wikilink") |
-| 炫晳                               |
-| 世訓                               |
+| 成員列表                            |
+| ------------------------------- |
+| 藝名                              |
+| 漢字                              |
+| [BX](../Page/李炳坤.md "wikilink") |
+| [昇勳](../Page/金昇勳.md "wikilink") |
+| 龍熙                              |
+| [珍映](../Page/裵珍映.md "wikilink") |
+| 炫晳                              |
+| 世訓                              |
 
 ## 活動經歷
 
@@ -39,6 +39,10 @@ One成員](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")。\[2\]\[3\]
 2019年4月4日，C9娛樂回應網上傳聞，確認金世訓高中二年級時，在學校曾有不當行為，但亦指出有部分誇大不實，由於事件具有爭議性，金世訓自願退出組合。\[4\]\[5\]
 
 2019年5月20日，公佈正式團名「**CIX(씨아이엑스)**」。\[6\]
+
+### 出道後
+
+2019年6月26日，宣布團體將在7月23日發行首張迷你專輯出道，7月24日舉行出道Showcase。\[7\]
 
 ## 影視作品
 
@@ -101,3 +105,4 @@ One成員](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")。\[2\]\[3\]
 4.
 5.
 6.
+7.

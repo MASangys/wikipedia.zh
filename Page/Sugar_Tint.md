@@ -12,6 +12,30 @@ Tint**（），是[韓國Ramah娛樂於](https://zh.wikipedia.org/wiki/韓國 "w
 | Yuna (유나)    |
 | Seungah (승아) |
 
+## 音樂作品
+
+### 音源專輯
+
+<table>
+<tbody>
+<tr class="odd">
+<td></td>
+<td><p>內容</p></td>
+<td><p>曲目</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>1st</strong></p></td>
+<td><p>《<strong>Heart Ppyong</strong>》</p>
+<ul>
+<li>發行日期：2018年9月28日</li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
+<li>銷量：</li>
+</ul></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ## 參考文章
 
 [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")

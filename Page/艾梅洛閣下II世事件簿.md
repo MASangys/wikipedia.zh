@@ -1,5 +1,5 @@
 《**艾梅洛閣下II世事件簿**》（）是TYPE-MOON的視覺小說「[Fate/stay
-night](https://zh.wikipedia.org/wiki/Fate/stay_night "wikilink")」系列中分拆出來、由日本小說家[三田誠所著作](https://zh.wikipedia.org/wiki/三田誠 "wikilink")、負責繪製插畫的日本[輕小說作品](../Page/輕小說.md "wikilink")，譯者[K.K.](https://zh.wikipedia.org/wiki/譯者K.K. "wikilink")。
+night](https://zh.wikipedia.org/wiki/Fate/stay_night "wikilink")」系列中分拆出來、由日本小說家[三田誠所著作](https://zh.wikipedia.org/wiki/三田誠 "wikilink")、坂本峰地（）負責繪製插畫的日本[輕小說作品](../Page/輕小說.md "wikilink")。
 
 2017年起由東冬負責本作的漫畫版繪製，並在同年的[Young
 Ace](../Page/Young_Ace.md "wikilink")11月號開始連載\[1\]\[2\]。
@@ -7,8 +7,6 @@ Ace](../Page/Young_Ace.md "wikilink")11月號開始連載\[1\]\[2\]。
 2018年12月宣布動畫化，預定2019年7月播放\[3\]\[4\]。
 
 2019年起，由角川文庫出版本作的文庫版\[5\]。
-
-以下名詞以台灣角川出版的小說版為準。
 
 ## 概要
 
@@ -182,7 +180,7 @@ liner
   -
     在FATE系列與TYPE-MOON相關作品中出現過多次、魔術協會的三大部門之一。
     相較於另外兩個部門，鐘塔在神秘逐漸消失的這個時代不斷改革來適應變化，在人類歷史的範圍內接受了無數想要鑽研魔術的魔術師，使其成為魔術協會中勢力最龐大的一員。
-    包括本作主角在內，大多數登場人物都是隸屬此部門的人，而一般提到魔術協會若無其他用意也是專指鐘塔。
+    包括主角艾梅洛閣下II世在內，本作大多數登場人物都是隸屬此部門的人，而一般提到魔術協會若無其他用意也是專指鐘塔。
     位於英國倫敦郊區，建築物風貌從中世紀到近現代風格都有，有上百棟教學用建物與四十棟的學生宿舍組成的街區。
     分有十二個學部，學部長皆會得到「君主」的地位彰顯其身分。本作主角就是現代魔术科的代理君主，因此在自稱上加上II世作謙稱。
 
@@ -206,6 +204,7 @@ liner
 <th><p><a href="../Page/TYPE-MOON.md" title="wikilink">TYPE-MOON</a></p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/角川文庫" title="wikilink">角川文庫</a></p></th>
 <th><p><a href="../Page/台灣角川.md" title="wikilink">台灣角川</a></p></th>
+<th><p><a href="../Page/天闻角川.md" title="wikilink">天闻角川</a></p></th>
 <th><p>解說</p></th>
 </tr>
 </thead>
@@ -217,7 +216,8 @@ liner
 <td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發售日期</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
-<td></td>
+<td><p>发售日期</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1</p></td>
@@ -227,6 +227,7 @@ liner
 <td><p>ASIN B00QMGSAYY</p></td>
 <td><p>2019年4月24日</p></td>
 <td><p>ISBN 978-4-04-108074-0</p></td>
+<td><p>2018年8月16日</p></td>
 </tr>
 <tr class="odd">
 <td><p>2</p></td>
@@ -236,6 +237,7 @@ liner
 <td><p>ASIN B01CN9K6UY</p></td>
 <td></td>
 <td></td>
+<td><p>2019年1月21日</p></td>
 </tr>
 <tr class="even">
 <td><p>3</p></td>
@@ -245,13 +247,15 @@ liner
 <td><p>ASIN B018WR78FC</p></td>
 <td></td>
 <td></td>
+<td><p>2019年6月19日</p></td>
 </tr>
 <tr class="odd">
 <td><p>4</p></td>
 <td></td>
-<td></td>
+<td><p>case.魔眼搜集列车（上）</p></td>
 <td><p>2016年8月14日</p></td>
 <td><p>ASIN B01K1RMS3S</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -263,6 +267,7 @@ liner
 <td><p>ASIN B01MY1E79P</p></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>6</p></td>
@@ -270,6 +275,7 @@ liner
 <td></td>
 <td><p>2017年8月11日</p></td>
 <td><p>ASIN B073XNSPMX</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -281,6 +287,7 @@ liner
 <td><p>ASIN B077XXYY1C</p></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>8</p></td>
@@ -288,6 +295,7 @@ liner
 <td></td>
 <td><p>2018年8月12日</p></td>
 <td><p>ASIN B07FNWQGHS</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -299,6 +307,7 @@ liner
 <td><p>ASIN B07L3ST4J1</p></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>10</p></td>
@@ -306,6 +315,7 @@ liner
 <td></td>
 <td><p>2019年5月17日</p></td>
 <td><p>ASIN B07QNW53KH</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>

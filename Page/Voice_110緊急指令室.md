@@ -1,5 +1,7 @@
 **Voice 110緊急指令室**（
-）是2019年7月13日起於[日本電視台播出的電視劇](../Page/日本電視台.md "wikilink")，由[唐澤壽明](../Page/唐澤壽明.md "wikilink")、[真木陽子](../Page/真木陽子.md "wikilink")、[增田貴久等人](../Page/增田貴久.md "wikilink")\[1\]主演，翻拍自[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[OCN電視台](https://zh.wikipedia.org/wiki/OCN "wikilink")《[Voice系列](../Page/Voice_\(韓國電視劇\).md "wikilink")》電視劇\[2\]\[3\]，劇情主要描述一名緊急出動班班長，因自己沒有注意到妻子遇害前打來的求救電話，而使得妻子遭到殺害。因此成為緊急指令室的一員，與擁有絕對聽感但父親被殺害的聲紋分析官及同僚們一同阻止犯罪的過程與點滴\[4\]\[5\]。
+）是2019年7月13日起於[日本電視台播出的電視劇](../Page/日本電視台.md "wikilink")，由[唐澤壽明](../Page/唐澤壽明.md "wikilink")、[真木陽子](../Page/真木陽子.md "wikilink")、[增田貴久等人](../Page/增田貴久.md "wikilink")\[1\]主演，翻拍自[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[OCN電視台](https://zh.wikipedia.org/wiki/OCN "wikilink")《[Voice系列](../Page/Voice_\(韓國電視劇\).md "wikilink")》電視劇\[2\]\[3\]，劇情主要描述港東署ECU（Emergency
+Call
+Unit）一名緊急出動班班長，因自己沒有注意到妻子遇害前打來的求救電話，而使得妻子遭到殺害。因此成為緊急指令室的一員，與擁有絕對聽感但父親被殺害的聲紋分析官及同僚們一同阻止犯罪的過程與點滴\[4\]\[5\]。
 
 ## 演員列表
 
@@ -20,7 +22,7 @@
 <tr class="even">
 <td><p>樋口彰吾</p></td>
 <td><p><a href="../Page/唐澤壽明.md" title="wikilink">唐澤壽明</a></p></td>
-<td><p>港東署ECU緊急出動班班長。<br />
+<td><p>港東署ECU（Emergency Call Unit）緊急出動班班長。<br />
 為第一起案件妻子被殺事件中的被害人的老公，但案發當時由於自己的疏忽而導致妻子慘遭殺害。為了抓住殺害妻子的真兇，因而加入緊急指令室，努力不懈想抓到殺害妻子的真兇。</p></td>
 </tr>
 <tr class="odd">
@@ -30,24 +32,49 @@
 是一位擁有絕對聽感的聲紋分析官，可以從求救的被害者的聲音，以及被害者所處環境的聲音，迅速分析出被害者所在。父親在先前被殺害。</p></td>
 </tr>
 <tr class="even">
+<td><p>落合智明</p></td>
+<td><p>安井順平</p></td>
+<td><p>港東署ECU副室長。</p></td>
+</tr>
+<tr class="odd">
+<td><p>緒方拓海</p></td>
+<td><p>田村健太郎</p></td>
+<td><p>港東署ECU情報分析人員。</p></td>
+</tr>
+<tr class="even">
 <td><p>石川透</p></td>
 <td><p><a href="../Page/增田貴久.md" title="wikilink">增田貴久</a></p></td>
 <td><p>港東署ECU緊急出動班搜查員。</p></td>
 </tr>
 <tr class="odd">
 <td><p>沖原隆志</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/木村祐一" title="wikilink">木村祐一</a></p></td>
+<td><p>木村祐一</p></td>
 <td><p>警視廳港東警察署刑事犯罪課的課長。</p></td>
+</tr>
+<tr class="even">
+<td><p>田所賢一</p></td>
+<td><p><a href="../Page/小市慢太郎.md" title="wikilink">小市慢太郎</a></p></td>
+<td><p>警視廳港東警察署署長。</p></td>
+</tr>
+<tr class="odd">
+<td><p>森下栞</p></td>
+<td><p>石橋菜津美</p></td>
+<td></td>
 </tr>
 </tbody>
 </table>
 
 ### 第1集
 
-|        |        |        |
-| ------ | ------ | ------ |
-| **角色** | **演員** | **介紹** |
-|        |        |        |
+|        |                                                   |                   |
+| ------ | ------------------------------------------------- | ----------------- |
+| **角色** | **演員**                                            | **介紹**            |
+| 荻原夏美   | [吉川愛](../Page/吉川愛.md "wikilink")                  | 打110電話報案的女大學生。    |
+| 川島武雄   | [般若](https://zh.wikipedia.org/wiki/般若 "wikilink") | 誘拐犯。              |
+| 樋口未希   | [菊池桃子](../Page/菊池桃子.md "wikilink")                | 樋口彰吾的妻子。          |
+| 樋口大樹   | 鳥越壯真                                              | 樋口的兒子。            |
+| 森下葵    | [矢作穗香](../Page/矢作穗香.md "wikilink")                | 森下栞的妹妹，目前為公司的派遣社員 |
+| 森下志津   | 江原由希子                                             | 居酒屋老闆。            |
 
 ## 註釋與參考資料
 

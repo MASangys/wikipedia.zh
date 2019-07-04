@@ -87,6 +87,17 @@ AppWorks 管理三支創投基金共 1.46
 
 ・透過 AppWorks Network 協助公司商務拓展
 
+## AppWorks School (之初學校)
+
+AppWorks School 成立於 2016 年，致力協助渴望投身數位、網路與電商產業的人才，提供為期 16
+週，免費、實作、高效、與業界結合的紮實培訓計畫。現經營有 iOS、Android
+與 Web Class。
+
+AppWorkd School 已畢業 142 位學員，其中 86% 成功投身網路界，在
+KKBOX、91APP、PicCollage、CHOCO Media、WeMo Scooter、Gogoro、UDN
+Group、巴哈姆特、智抗糖、潔客幫、TaxiGo、kkstream 等知名企業擔任軟體工程師。平均求職天數 26 天，有 45%
+畢業學員為女性。\[10\]
+
 ## 資料來源
 
 ## 外部連結
@@ -115,3 +126,4 @@ AppWorks 管理三支創投基金共 1.46
 7.
 8.
 9.
+10.

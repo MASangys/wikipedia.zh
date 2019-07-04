@@ -33,6 +33,8 @@ Chong的發音了。而清朝給外國人的大致印象就是愚昧又落後，
   -
   - [反華](../Page/反華.md "wikilink")
 
+  - [歧视语](../Page/歧视语.md "wikilink")
+
 ## 注解
 
 <references group=注 />

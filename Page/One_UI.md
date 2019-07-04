@@ -9,7 +9,7 @@ S10系列。\[4\]
 
 ## 功能
 
-OneUI中加入了以下的新功能：\[5\]
+One UI中加入了以下的新功能：\[5\]
 
   - 自然互動的界面
       - 將內容和功能放置在手指旁，使用戶能夠更自然的與手機進行互動
@@ -30,10 +30,9 @@ OneUI中也去除了以下的功能:
 
   - 去除了[Galaxy
     S9和](https://zh.wikipedia.org/wiki/Galaxy_S9 "wikilink")[Galaxy
-    Note
-    9中的专业模式视频拍摄功能](https://zh.wikipedia.org/wiki/Galaxy_Note_9 "wikilink")，仅保留专业模式拍照\[9\]。引起了欧美相关机型使用者社区的不满。(该功能是[Galaxy
-    S9和](https://zh.wikipedia.org/wiki/Galaxy_S9 "wikilink")[Galaxy Note
-    9发售时摄像功能的卖点之一](https://zh.wikipedia.org/wiki/Galaxy_Note_9 "wikilink")\[10\]。)
+    Note9中的专业模式视频拍摄功能](https://zh.wikipedia.org/wiki/Galaxy_Note_9 "wikilink")，仅保留专业模式拍照\[9\]。引起了欧美相关机型使用者社区的不满。(该功能是[Galaxy
+    S9和](https://zh.wikipedia.org/wiki/Galaxy_S9 "wikilink")[Galaxy
+    Note9发售时摄像功能的卖点之一](https://zh.wikipedia.org/wiki/Galaxy_Note_9 "wikilink")\[10\]。)
 
 ## 運行 One UI 的裝置
 
@@ -62,7 +61,7 @@ A8+(2018)等亦陸續獲得更新](https://zh.wikipedia.org/wiki/三星Galaxy_A8
 <td><p><a href="https://zh.wikipedia.org/wiki/Samsung_Galaxy_S系列" title="wikilink">Samsung Galaxy S系列</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Samsung_Galaxy_S10" title="wikilink">Samsung Galaxy S10e/S10/S10+/S10 5G</a></p></td>
 <td><p>1.1</p></td>
-<td><p>Android 9.0 Pie</p></td>
+<td><p>Android 9 Pie</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -80,14 +79,28 @@ A8+(2018)等亦陸續獲得更新](https://zh.wikipedia.org/wiki/三星Galaxy_A8
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Samsung_Galaxy_Note系列" title="wikilink">Samsung Galaxy Note系列</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Samsung_Galaxy_Note_9" title="wikilink">Samsung Galaxy Note 9</a></p></td>
+<td><p>Samsung Galaxy Tab S4 <a href="../Page/Wi-Fi.md" title="wikilink">Wi-Fi</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Samsung_Galaxy_Note_8" title="wikilink">Samsung Galaxy Note 8</a></p></td>
+<td><p><a href="../Page/Samsung_Galaxy_Tab_S4.md" title="wikilink">Samsung Galaxy Tab S4</a> LTE</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/Samsung_Galaxy_Note系列" title="wikilink">Samsung Galaxy Note系列</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Samsung_Galaxy_Note_9" title="wikilink">Samsung Galaxy Note9</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/Samsung_Galaxy_Note_8" title="wikilink">Samsung Galaxy Note8</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -95,7 +108,7 @@ A8+(2018)等亦陸續獲得更新](https://zh.wikipedia.org/wiki/三星Galaxy_A8
 </tr>
 <tr class="even">
 <td><p><a href="../Page/三星Galaxy_A系列.md" title="wikilink">Samsung Galaxy A系列</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/三星Galaxy_A70" title="wikilink">Samsung Galaxy A70</a></p></td>
+<td><p><a href="../Page/三星Galaxy_A70.md" title="wikilink">Samsung Galaxy A70</a></p></td>
 <td><p>1.1</p></td>
 <td></td>
 <td></td>
@@ -143,28 +156,14 @@ A8+(2018)等亦陸續獲得更新](https://zh.wikipedia.org/wiki/三星Galaxy_A8
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Samsung_Galaxy_J系列" title="wikilink">Samsung Galaxy J系列</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Samsung_Galaxy_J6" title="wikilink">Samsung Galaxy J6</a></p></td>
-<td><p>Android 9.0 Pie</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/三星Galaxy_J系列" title="wikilink">Samsung Galaxy J系列</a></p></td>
+<td><p><a href="../Page/三星Galaxy_J6_(2018).md" title="wikilink">Samsung Galaxy J6</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/Samsung_Galaxy_J4+" title="wikilink">Samsung Galaxy J4+</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/三星Galaxy_Tab.md" title="wikilink">三星Galaxy Tab 系列</a></p></td>
-<td><p><a href="../Page/Samsung_Galaxy_Tab_S4.md" title="wikilink">Samsung Galaxy Tab S4</a> Wi-Fi</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/Samsung_Galaxy_Tab_S4.md" title="wikilink">Samsung Galaxy Tab S4</a> LTE</p></td>
 <td></td>
 <td></td>
 <td></td>

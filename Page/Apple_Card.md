@@ -1,5 +1,5 @@
 **Apple
-Card**是由美國[蘋果公司與](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[高盛合作發行的網路銀行](../Page/高盛.md "wikilink")[信用卡](../Page/信用卡.md "wikilink")，主要用於[iPhone上的](https://zh.wikipedia.org/wiki/iPhone "wikilink")[Apple
+Card**(Card)是由美國[蘋果公司與](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[高盛合作發行的網路銀行](../Page/高盛.md "wikilink")[信用卡](../Page/信用卡.md "wikilink")，主要用於[iPhone上的](https://zh.wikipedia.org/wiki/iPhone "wikilink")[Apple
 Pay](https://zh.wikipedia.org/wiki/Apple_Pay "wikilink")
 。該信用卡將於2019年夏天美國啟用。
 

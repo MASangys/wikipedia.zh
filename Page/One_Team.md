@@ -162,7 +162,7 @@ Team Esports**。團隊理念：我們相信在傳說戰場上，團結是贏得
 <td><p>ONE_DinDin</p></td>
 <td><p>魔龍輸出</p></td>
 <td></td>
-<td><p>現<a href="../Page/SMG戰隊.md" title="wikilink">SMG戰隊魔龍輸出選手</a></p></td>
+<td><p>前<a href="../Page/SMG戰隊.md" title="wikilink">SMG戰隊魔龍輸出選手</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>

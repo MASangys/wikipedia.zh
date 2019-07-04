@@ -234,16 +234,26 @@ Jump](https://zh.wikipedia.org/wiki/Grand_Jump "wikilink")》（[集英社](../P
 <td><p>STORY#11<br />
 （最終話）</p></td>
 <td><p>6月17日</p></td>
+<td><p>命懸けで守りたい約束</p></td>
+<td><p><br />
+最後の選択と決断とは⁉︎</p></td>
+<td><p>鈴木雅之</p></td>
+</tr>
+<tr class="even">
+<td><p>平均收視率 12.08%（收視率由<a href="../Page/Video_Research.md" title="wikilink">Video Research實際調查</a><a href="https://zh.wikipedia.org/wiki/關東地區" title="wikilink">關東地區</a>、世帶的數據）</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p>（收視率由<a href="../Page/Video_Research.md" title="wikilink">Video Research實際調查</a><a href="https://zh.wikipedia.org/wiki/關東地區" title="wikilink">關東地區</a>、世帶的數據）</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<tr class="odd">
+<td><p>特別編～旅立ち～</p></td>
+<td><p>6月24日</p></td>
+<td><p>彼らの物語は、まだ終わらない…。<br />
+空の上と地上でも緊急事態発生</p></td>
+<td><p>離れていても、繋がっている</p></td>
+<td><p><br />
+最後の闘いを見逃すな</p></td>
 </tr>
 </tbody>
 </table>

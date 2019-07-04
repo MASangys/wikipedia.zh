@@ -1,4 +1,4 @@
-**SunPy**是以[Python程式語言為基礎的](../Page/Python.md "wikilink")，其目的是方便[太阳物理学研究工作者分析和可视化科学数据](../Page/太阳物理学.md "wikilink")\[1\]。SunPy目前由项目社区维护，其目标是实现类似[IDL语言的程序包](https://zh.wikipedia.org/wiki/互動式數據語言 "wikilink")的功能\[2\]\[3\]
+**SunPy**是以[Python程式語言為基礎的](../Page/Python.md "wikilink")，其目的是方便[太阳物理学研究工作者分析和可视化科学数据](../Page/太阳物理学.md "wikilink")\[1\]。SunPy目前由项目社区维护，其目标是实现类似[IDL语言的程序包](../Page/互動式數據語言.md "wikilink")的功能\[2\]\[3\]
 。
 
 SunPy是基于 Python 的科学库 [NumPy](../Page/NumPy.md "wikilink")、

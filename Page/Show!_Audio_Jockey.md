@@ -145,7 +145,7 @@ Jockey**》節目收視，收視最低的集數以表示，收視最高的集數
 <tr class="even">
 <td><p>4</p></td>
 <td><p>2019/04/07</p></td>
-<td><p>0.5%</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>5</p></td>
@@ -200,12 +200,12 @@ Jockey**》節目收視，收視最低的集數以表示，收視最高的集數
 <tr class="odd">
 <td><p>15</p></td>
 <td><p>2019/06/23</p></td>
-<td><p>%</p></td>
+<td><p>0.867%</p></td>
 </tr>
 <tr class="even">
 <td><p>16</p></td>
 <td><p>2019/06/30</p></td>
-<td><p>%</p></td>
+<td></td>
 </tr>
 </tbody>
 </table>

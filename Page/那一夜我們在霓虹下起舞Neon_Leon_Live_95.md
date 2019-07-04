@@ -45,7 +45,7 @@
 
 ## 參考資料
 
-[Category:香港演唱會](https://zh.wikipedia.org/wiki/Category:香港演唱會 "wikilink")
+[Category:黎明演唱會](https://zh.wikipedia.org/wiki/Category:黎明演唱會 "wikilink")
 
 1.
 2.

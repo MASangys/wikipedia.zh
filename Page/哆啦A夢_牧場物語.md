@@ -19,7 +19,7 @@ Entertainment開發](https://zh.wikipedia.org/wiki/Marvelous_Entertainment "wiki
 
 本次新作品並非最初登陸於[任天堂Switch平台的](../Page/任天堂Switch.md "wikilink")《牧場物語》系列作品\[5\]，該作另指系列正統作品。另外本作日後也宣布對應中文，也是《牧場物語》系列首次的中文化運動。
 
-《牧場物語》系列作的開發商[Marvelous](https://zh.wikipedia.org/wiki/Marvelous_Entertainment "wikilink")，但發行商則為[萬代南夢宮娛樂](https://zh.wikipedia.org/wiki/萬代南夢宮娛樂 "wikilink")。
+《牧場物語》系列作的開發商[Marvelous](https://zh.wikipedia.org/wiki/Marvelous_Entertainment "wikilink")，發行商為[萬代南夢宮娛樂](https://zh.wikipedia.org/wiki/萬代南夢宮娛樂 "wikilink")。
 
 ## 参考资料
 

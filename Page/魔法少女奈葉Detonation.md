@@ -99,6 +99,7 @@
 
   - [魔法少女奈葉Detonation](http://www.nanoha.com/)
 
+  -
 [Category:魔法少女奈葉](https://zh.wikipedia.org/wiki/Category:魔法少女奈葉 "wikilink")
 [Category:2017年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2017年日本劇場動畫 "wikilink")
 [Category:魔法題材動畫電影](https://zh.wikipedia.org/wiki/Category:魔法題材動畫電影 "wikilink")

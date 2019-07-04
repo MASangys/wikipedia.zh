@@ -19,6 +19,8 @@
 
 Dongkyu及Hwarang已完成兵役。
 
+Dongkyu曾是男團[Under dog成員](../Page/Under_dog.md "wikilink")。
+
 2017年10月，Jaehan以MMO娛樂練習生身份參與《[PRODUCE 101
 第二季](../Page/PRODUCE_101_第二季.md "wikilink")》，最終排名第81名，未能透過節目出道。
 

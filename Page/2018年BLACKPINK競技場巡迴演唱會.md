@@ -146,7 +146,7 @@ Arena Tour
 ## 相關影音專輯
 
   - 《[BLACKPINK Arena Tour 2018 "Special Final in Kyocera Dome
-    Osaka"](https://zh.wikipedia.org/wiki/BLACKPINK_Arena_Tour_2018_"Special_Final_in_Kyocera_Dome_Osaka" "wikilink")》
+    Osaka"](../Page/BLACKPINK_Arena_Tour_2018_"Special_Final_in_Kyocera_Dome_Osaka".md "wikilink")》
 
 ## 參考資料
 

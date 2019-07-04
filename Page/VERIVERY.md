@@ -124,10 +124,8 @@ Moments」\[18\]。 11月25日，於盆唐區AK Plaza舉行第二次擊掌會。
 <ul>
 <li>發行日期：2019年1月9日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
-<li>銷量：24,080 +<ref></li>
-<li><a href="http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&amp;serviceGbn=&amp;targetTime=02&amp;hitYear=2019&amp;termGbn=month">2019年GAON02月專輯榜33位</a></li>
-</ul>
-<p></ref></p></td>
+<li>銷量：24,080 +[19]</li>
+</ul></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -136,10 +134,8 @@ Moments」\[18\]。 11月25日，於盆唐區AK Plaza舉行第二次擊掌會。
 <ul>
 <li>發行日期：2019年4月24日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
-<li>銷量：8,932+<ref></li>
-<li><a href="http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&amp;serviceGbn=&amp;targetTime=04&amp;hitYear=2019&amp;termGbn=month">2019年GAON4月專輯榜27位</a></li>
-</ul>
-<p></ref></p></td>
+<li>銷量：15,618+[20]</li>
+</ul></td>
 <td></td>
 </tr>
 </tbody>
@@ -391,3 +387,7 @@ Moments」\[18\]。 11月25日，於盆唐區AK Plaza舉行第二次擊掌會。
 17.
 
 18.
+
+19. [2019年GAON 2月專輯榜33位](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=02&hitYear=2019&termGbn=month)
+
+20. [2019年GAON 5月專輯榜36位](http://mobile.gaonchart.co.kr/musicAlbum.gaon?nationGbn=T&serviceGbn=&targetTime=05&hitYear=2019&termGbn=month)

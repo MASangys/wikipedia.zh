@@ -157,11 +157,53 @@ GAMES開發的](../Page/DMM.com.md "wikilink")[网页游戏](../Page/网页游�
 <td><p>中西陽介</p></td>
 <td><p>水竹修治、高見明男<br />
 石原満、小島裕佳</p></td>
-<td><p>加藤真人 &lt;!--|-</p></td>
-<td><p>第七話</p></td>
+<td><p>加藤真人</p></td>
+<td></td>
 </tr>
 <tr class="odd">
+<td><p>第七話</p></td>
+<td></td>
+<td><p>你不能回到過去但是可以開闊未來</p></td>
+<td><p>吉田惠里香</p></td>
+<td><p>小林孝志</p></td>
+<td><p>萩原みちる、和田勝之<br />
+岩佐とも子、菊川孝司<br />
+島崎克実、星野車蜂</p></td>
+<td><p>- &lt;!--|-</p></td>
 <td><p>第八話</p></td>
+</tr>
+<tr class="even">
+<td><p>第九話</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第十話</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>第十一話</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第十二話</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -178,7 +220,7 @@ GAMES開發的](../Page/DMM.com.md "wikilink")[网页游戏](../Page/网页游�
 | 卷數  | 發售日期         | 收錄話數        | 規格編號      |
 | --- | ------------ | ----------- | --------- |
 | 藍光版 | DVD版         |             |           |
-| 第一佛 | 預定2019年6月28日 | 第1話 \~ 第3話  | DMPXA-032 |
+| 第一佛 | 2019年6月28日   | 第1話 \~ 第3話  | DMPXA-032 |
 | 第二佛 | 預定2019年7月26日 | 第4話 \~ 第6話  | DMPXA-033 |
 | 第四佛 | 預定2019年9月27日 | 第10話 - 第12話 | DMPXA-035 |
 

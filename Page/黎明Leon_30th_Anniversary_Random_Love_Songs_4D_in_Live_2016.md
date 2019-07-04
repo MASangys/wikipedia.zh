@@ -87,7 +87,7 @@ Kong）擔任音樂顧問\[19\]\[20\]，所有的音樂及音效都是預先準�
   - [我們已經做了決定，今晚如常照開。](https://www.facebook.com/llleonlai/videos/1671131213140130/)
     黎明的Facebook專頁. 2016-04-29
 
-[Category:香港演唱會](https://zh.wikipedia.org/wiki/Category:香港演唱會 "wikilink")
+[Category:黎明演唱會](https://zh.wikipedia.org/wiki/Category:黎明演唱會 "wikilink")
 
 1.
 2.

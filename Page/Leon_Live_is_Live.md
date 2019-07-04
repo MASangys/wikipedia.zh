@@ -41,7 +41,7 @@ Live》演唱會[DVD專輯於](https://zh.wikipedia.org/wiki/DVD "wikilink")2002
 
 ## 參考資料
 
-[Category:香港演唱會](https://zh.wikipedia.org/wiki/Category:香港演唱會 "wikilink")
+[Category:黎明演唱會](https://zh.wikipedia.org/wiki/Category:黎明演唱會 "wikilink")
 
 1.
 2.

@@ -21,7 +21,7 @@ Hearer**》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")
 <td></td>
 </tr>
 <tr class="even">
-<td><p>張成圭</p></td>
+<td><p>張成奎</p></td>
 <td></td>
 <td></td>
 <td><p>第1集至今</p></td>
@@ -75,7 +75,7 @@ Hearer**》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")
 <td><p>第1集至今</p></td>
 </tr>
 <tr class="odd">
-<td><p>黃濟成</p></td>
+<td><p>黄帝聖</p></td>
 <td></td>
 <td></td>
 <td><p>第1集至今</p></td>

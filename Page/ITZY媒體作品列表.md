@@ -25,6 +25,7 @@
 | 2019年 | 2月21日                                               | 《[超級實習生](../Page/超級實習生.md "wikilink")》                    | 全員                                                                           | 5           | 未來預告。錄製時出道前幾天、2本部新客戶 |     |
 | 3月10日 | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") | 《[家师父一体](https://zh.wikipedia.org/wiki/家师父一体 "wikilink")》 | 60                                                                           | 特别出演        |                      |     |
 | 3月17日 | 61                                                  |                                                           |                                                                              |             |                      |     |
+| 7月6日  | [JTBC](../Page/JTBC.md "wikilink")                  | 《[認識的哥哥](../Page/認識的哥哥.md "wikilink")》                    | 187                                                                          |             |                      |     |
 
 ### 節目主持
 

@@ -7,7 +7,7 @@ Linux子系统](https://zh.wikipedia.org/wiki/Windows_Linux子系统 "wikilink")
 
 Windows
 Terminal支持在[x86](https://zh.wikipedia.org/wiki/x86 "wikilink")、[x64和](../Page/X86-64.md "wikilink")[arm64构架下编译](https://zh.wikipedia.org/wiki/ARM架構 "wikilink")，最低系统要求为Windows
-10 Build 18382版本。\[2\]
+10 Build 18362版本。\[2\]
 
 ## 参考资料
 

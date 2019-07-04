@@ -111,7 +111,7 @@ MAMAMOO演出列表*'》主要列舉[韓國](https://zh.wikipedia.org/wiki/韓�
 <td><p>7月27、28日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/大邱" title="wikilink">大邱</a></p></td>
 <td></td>
-<td></td>
+<td><p>[9]</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -245,7 +245,7 @@ MAMAMOO演出列表*'》主要列舉[韓國](https://zh.wikipedia.org/wiki/韓�
 <td><p>1月6-8日</p></td>
 <td></td>
 <td><p>“K-POP LOVERS!” SHOWCASE Vol.5</p></td>
-<td><p>品川 Intercity Hall [9]</p></td>
+<td><p>品川 Intercity Hall [10]</p></td>
 </tr>
 <tr class="odd">
 <td><p>8月6日</p></td>
@@ -258,21 +258,21 @@ MAMAMOO演出列表*'》主要列舉[韓國](https://zh.wikipedia.org/wiki/韓�
 <td><p>10月1日</p></td>
 <td></td>
 <td><p>2017 MAMAMOO Purple Party in Taiwan</p></td>
-<td><p>台北國際會議中心[10]</p></td>
+<td><p>台北國際會議中心[11]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>10月2日</p></td>
 <td></td>
 <td><p>MAMAMOO 1st Party in Hong Kong</p></td>
-<td><p>九龍灣國際展貿中心3號展貿廳[11]</p></td>
+<td><p>九龍灣國際展貿中心3號展貿廳[12]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>10月22日</p></td>
 <td></td>
 <td><p>2017 MAMAMOO Purple Party in TOKYO</p></td>
-<td><p>東京新木場Studio Coast[12]</p></td>
+<td><p>東京新木場Studio Coast[13]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -742,6 +742,11 @@ MAMAMOO演出列表*'》主要列舉[韓國](https://zh.wikipedia.org/wiki/韓�
 | 2019年6月7日            |
 | 2019年6月8日            |
 | 2019年6月9日            |
+| 2019年7月19日           |
+| 2019年7月20日           |
+| 2019年7月30日           |
+| 2019年7月31日           |
+| 2019年8月2日            |
 
 ## 海外公演活動
 
@@ -762,6 +767,7 @@ MAMAMOO演出列表*'》主要列舉[韓國](https://zh.wikipedia.org/wiki/韓�
 | 2019年7月6日      | SUPER SBS CONCERT IN HONGKONG             | 香港                                |
 | 2019年8月10日     | K-POP WE\* FRIEND CONCERT IN VIETNAM 2019 | 越南                                |
 | 2019年8月11日     | K-FES 2019                                | 日本大阪                              |
+| 2019年8月15-18日  | KCON USA 2019 @ LA                        | 美國洛杉磯                             |
 | 2019年9月1日      | Wkndfest Vol.1 : K-Pop Edition            | 吉隆坡                               |
 
 ## 參考資料
@@ -788,11 +794,13 @@ MAMAMOO演出列表*'》主要列舉[韓國](https://zh.wikipedia.org/wiki/韓�
 7.
 8.  [MAMAMOO 為《四季四色》企劃華麗收尾　專場演唱會 4
     月登場！](https://www.koreastardaily.com/tc/news/114962)
-9.  [渋谷店主催K-POPイベント「“K-POP LOVERS\!” SHOWCASE
+9.  [마마무 콘서트 \<4season F/W\> in
+    대구](https://twitter.com/RBW_MAMAMOO/status/1139397640599166976)
+10. [渋谷店主催K-POPイベント「“K-POP LOVERS\!” SHOWCASE
     Vol.5」にCLC、ノ・ジフン、MAMAMOO出演決定！](http://tower.jp/article/news/2016/11/25/n101)
-10. \[[http://kpopn.niusnews.com/=K38fts00\]MAMAMOO](http://kpopn.niusnews.com/=K38fts00%5DMAMAMOO)
+11. \[[http://kpopn.niusnews.com/=K38fts00\]MAMAMOO](http://kpopn.niusnews.com/=K38fts00%5DMAMAMOO)
     來台，門票30日開賣！
-11. \[[http://kpopn.niusnews.com/=K1ddrcb4\]MAMAMOO](http://kpopn.niusnews.com/=K1ddrcb4%5DMAMAMOO)
+12. \[[http://kpopn.niusnews.com/=K1ddrcb4\]MAMAMOO](http://kpopn.niusnews.com/=K1ddrcb4%5DMAMAMOO)
     10/2襲港，門票8/15開賣
-12. [2017 MAMAMOO PURPLE PARTY IN TOKYO
+13. [2017 MAMAMOO PURPLE PARTY IN TOKYO
     開催！](http://www.wowkorea.jp/news/enter/2017/0929/10198630.html)

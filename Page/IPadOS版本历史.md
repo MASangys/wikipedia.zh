@@ -1,5 +1,5 @@
-**iPadOS版本历史**列举了[苹果公司为移动设备所开发的](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[iPadOS](../Page/IPadOS.md "wikilink")
-操作系统的版本历史。[iPadOS可以通过](https://zh.wikipedia.org/wiki/iPadOS "wikilink")[iTunes对设备进行升级](https://zh.wikipedia.org/wiki/iTunes "wikilink")，iOS
+[thumb](https://zh.wikipedia.org/wiki/FILE:IPadOS.png "wikilink")
+**iPadOS版本历史**列举了[苹果公司为](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[移动设备所开发的](../Page/移动设备.md "wikilink")[iPadOS](../Page/IPadOS.md "wikilink")[移动操作系统的版本历史](https://zh.wikipedia.org/wiki/移动操作系统 "wikilink")。[iPadOS可以通过](https://zh.wikipedia.org/wiki/iPadOS "wikilink")[iTunes对设备进行升级](https://zh.wikipedia.org/wiki/iTunes "wikilink")，iOS
 5.0及以上版本亦可以通过[OTA的方式进行软件更新](https://zh.wikipedia.org/wiki/OTA "wikilink")。[iPadOS](../Page/IPadOS.md "wikilink")
 必须要与设备通过苹果服务器进行激活，激活方式可以通过[iTunes](https://zh.wikipedia.org/wiki/iTunes "wikilink")，iOS
 5.0及以上版本可以通过[iCloud服务激活并且自动同步](https://zh.wikipedia.org/wiki/iCloud "wikilink")。iPadOS會依據
@@ -7,9 +7,8 @@
 
 ## 背景
 
-[iPadOS 1推出](https://zh.wikipedia.org/wiki/IPadOS_1 "wikilink")
-(2019年)前，[iPad本使用](../Page/IPad.md "wikilink")
-[iOS](../Page/IOS.md "wikilink")，但針對iPad用家日益高漲的生產力需求，蘋果專為iPad推出了適合較大螢幕、具有更強多工處理能力和擴充能力的系統：[iPadOS](../Page/IPadOS.md "wikilink")。\[1\]
+[iPadOS 13推出](../Page/IPadOS_13.md "wikilink")
+(2019年)前，[iPad和](../Page/IPad.md "wikilink")[iPhone一样使用](https://zh.wikipedia.org/wiki/iPhone "wikilink")[iOS](../Page/IOS.md "wikilink")，但針對iPad用家日益高漲的生產力需求，蘋果專為iPad推出了適合較大螢幕、具有更強多工處理能力和擴充能力的系統：[iPadOS](../Page/IPadOS.md "wikilink")。\[1\]
 
 ## iPadOS
 

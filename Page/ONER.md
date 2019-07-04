@@ -134,7 +134,7 @@
 <td><ul>
 <li>凶猛（Attack）</li>
 <li>想念你（Missing You）</li>
-<li>大亨（K o clock）</li>
+<li>大亨（K'o clock）</li>
 <li>我多在意你离开（Greedy）</li>
 <li>被藏起的一页（Shakespeare）</li>
 <li>存在即完美（Celebrate）</li>

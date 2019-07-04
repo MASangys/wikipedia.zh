@@ -14,8 +14,8 @@ RIDER TIME</p></td>
 </table>
 
 《''' 假面騎士ZI-O 外傳 RIDER TIME
-'''》（）是屬於[假面騎士ZI-O正篇衍生作品之一](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")，為“Video
-Pass ×东映特摄 粉丝俱乐部共同企划Premium 电视剧”的項目，總共分為PART1『RIDER TIME
+'''》（）是屬於《[假面騎士ZI-O](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")》正篇衍生作品之一，為「Video
+Pass ×东映特摄 粉丝俱乐部共同企划Premium 电视剧」的項目，總共分為PART1『RIDER TIME
 仮面ライダーシノビ』\[1\]。 ）
 和PART2『RIDERTIME仮面ライダー龍騎』\[2\]。）兩套作品。
 
@@ -86,11 +86,7 @@ Pass ×东映特摄 粉丝俱乐部共同企划Premium 电视剧”的項目，�
     由於戰至最後一刻，為今次騎士之戰最後獲勝者。
     代價為經歷騎士之戰事件後受太大打擊。
 
-<!-- end list -->
-
-  - 及後事情在[假面騎士ZI-O第](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")21\~22集有交代
-
-<!-- end list -->
+其故事在時王21、22集之後
 
   -
 
@@ -171,11 +167,7 @@ Pass ×东映特摄 粉丝俱乐部共同企划Premium 电视剧”的項目，�
     企圖與正牌城戶真司合而為一成為最強存在，一度控制城戶真司。
     原為真司的黑暗人格，最後攻擊秋山蓮中途被體内城戶真司反控，暫時消失。
 
-<!-- end list -->
-
-  - 及後事情在[假面騎士ZI-O第](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")21\~22集有交代
-
-<!-- end list -->
+其故事在時王21、22集之後
 
   -
 

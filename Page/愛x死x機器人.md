@@ -332,7 +332,7 @@ Rémi Kozyra, Maxime Luère</p></td>
 <td><p>10分</p></td>
 </tr>
 <tr class="odd">
-<td><p>剛搬進公寓的一對夫婦在古董冰箱內發現了文明。</p></td>
+<td><p>剛搬進公寓的一對夫婦在古董冰箱內發現了人类文明。</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -372,7 +372,7 @@ Rémi Kozyra, Maxime Luère</p></td>
 <td><p>16</p></td>
 </tr>
 <tr class="odd">
-<td><p>一隊<a href="https://zh.wikipedia.org/wiki/紅軍" title="wikilink">紅軍士兵在</a><a href="https://zh.wikipedia.org/wiki/西伯利亞" title="wikilink">西伯利亞的森林裡追捕不死生物</a>。</p></td>
+<td><p>一隊<a href="https://zh.wikipedia.org/wiki/苏联紅軍" title="wikilink">苏联紅軍士兵在</a><a href="https://zh.wikipedia.org/wiki/西伯利亞" title="wikilink">西伯利亞的森林裡追捕不死生物</a>。</p></td>
 <td></td>
 <td></td>
 <td></td>

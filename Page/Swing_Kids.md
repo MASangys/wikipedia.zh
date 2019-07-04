@@ -41,12 +41,12 @@ Kids”。由[陽光姐妹淘導演姜炯哲執導](https://zh.wikipedia.org/wik
 <tr class="even">
 <td><p>Jared Grimes</p></td>
 <td><p>Jackson</p></td>
-<td><p>教導戰俘踢踏舞的美國黑人軍官。派駐日本時交了一位日本女友，心心念念想再到日本去娶她。</p></td>
+<td><p>教導戰俘踢踏舞的美國黑人士官。派駐日本時交了一位日本女友，心心念念想再到日本去娶她。</p></td>
 </tr>
 <tr class="odd">
 <td><p>Ross kettle</p></td>
 <td><p>Roberts</p></td>
-<td><p>美軍准將，戰俘營所長。不想再讓 Jackson 被派到日本去。</p></td>
+<td><p>美軍准將，戰俘營長。不想再讓 Jackson 被派到日本去。</p></td>
 </tr>
 <tr class="even">
 <td><p>A.J. Simmons</p></td>

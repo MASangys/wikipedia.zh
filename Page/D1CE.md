@@ -10,11 +10,11 @@ Face娛樂將於](../Page/Happy_Face娛樂.md "wikilink")2019年推出的五人�
 | 成員列表 |
 | 藝名   |
 | 漢字   |
-|      |
-|      |
-| 鄭游寯  |
-|      |
-|      |
+| 勇根   |
+| 賢洙   |
+| 游寯   |
+| 優啿   |
+| 眞榮   |
 
 ### 團體顏色
 
@@ -24,7 +24,7 @@ Face娛樂將於](../Page/Happy_Face娛樂.md "wikilink")2019年推出的五人�
 
 ### 出道前
 
-2016年6月18日，鄭游寯以個人練習生身份參與《[少年24](../Page/少年24.md "wikilink")》，成功晉身24強，之後進行為期約一年的劇場公演活動。2017年8月12日，節目舉行總決賽，可惜未能晉身出道組；之後進入[Happy
+2016年6月18日，鄭游寯以個人練習生身份參與《[少年24](../Page/少年24.md "wikilink")》，並進行為期約一年的劇場公演活動。2017年8月12日，節目舉行總決賽，可惜未能晉升出道組；之後進入[Happy
 Face娛樂當練習生](../Page/Happy_Face娛樂.md "wikilink")，曾與李詩恩（이시은）合作翻唱[Suran與](../Page/Suran.md "wikilink")[Crush的](https://zh.wikipedia.org/wiki/Crush "wikilink")《Love
 Story》\[3\]。
 

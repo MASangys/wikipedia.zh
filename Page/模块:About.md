@@ -1,6 +1,6 @@
 local mArguments --initialize lazily local mHatnote =
 require('Module:Hatnote') local mHatList = require('Module:Hatnote
-list2') local libraryUtil = require('libraryUtil') local checkType =
+list') local libraryUtil = require('libraryUtil') local checkType =
 libraryUtil.checkType local p = {}
 
 function p.about (frame)

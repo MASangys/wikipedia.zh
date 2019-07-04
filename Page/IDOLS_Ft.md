@@ -404,7 +404,7 @@ Group的组成部分。该团成员会透过运营商自有的渠道及其他第
 <td><p>C</p></td>
 <td><p>毛译晗</p></td>
 <td></td>
-<td><p>11月27日</p></td>
+<td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/重庆" title="wikilink">重庆</a></p></td>
 <td><p>CKG48 1期</p></td>
 <td><p>同时为CKG48成员</p></td>

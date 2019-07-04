@@ -11,7 +11,7 @@ A.W.Sijthoff公司由
 [阿尔伯特威廉Sijthoff](https://zh.wikipedia.org/wiki/Albertus_Willem_Sijthoff "wikilink")
 於1851年在 [莱顿](../Page/莱顿.md "wikilink") 成立；Luitingh則于1947年成立。\[2\]
 在1899年，當時翻译书籍贸易商佔有重要地位的Sijthoff，反對荷兰成为
-[《伯尔尼公约》](https://zh.wikipedia.org/wiki/伯尔尼保护文学和艺术作品公约 "wikilink")
+[《伯尔尼公约》](../Page/伯尔尼保护文学和艺术作品公约.md "wikilink")
 的签署国。因为他认为国际版权的限制将阻碍该国的出版业。\[3\]
 在（当时由Sijthoff家庭持有）發行一篇負面文章，文章內容是關於1980年代由一名荷蘭罪犯
 Eef Hoos 擁有的債務催收機構商業活動後，Sijthoff的辦公室遭到

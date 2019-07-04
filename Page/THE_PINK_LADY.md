@@ -1,6 +1,26 @@
 **The Pink Lady**（），是OD娛樂於2019年推出的五人女子组合\[1\]\[2\]，成員包括Seoyoon ()、Eehoo
 ()、Yeju ()、Woolim ()及Hyunji ()。
 
+## 成員資料
+
+| 成員         |
+| ---------- |
+| 姓名         |
+| Seoyoon () |
+| Eehoo ()   |
+| Yeju ()    |
+| Woolim ()  |
+| Hyunji ()  |
+
+## 影视作品
+
+### 真人秀
+
+| 年份        | 参与成员   | 名称                                                            | 电视台  | 备注        |
+| --------- | ------ | ------------------------------------------------------------- | ---- | --------- |
+| 2015      | Woolim | 《[看见你的声音](https://zh.wikipedia.org/wiki/看見你的聲音 "wikilink")》   | Mnet | 第七集       |
+| 2017-2018 | Woolim | 《[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")》 | JTBC | 最終排行第124名 |
+
 ## 参考文献
 
 ## 外部連結

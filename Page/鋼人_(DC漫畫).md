@@ -23,10 +23,10 @@ Irons）是[美国国防部的武器开发专家啟動了聲波武器](../Page/�
 ## 外部連結
 
   -
-  - [Steel](http://toonopedia.com/steel3.htm) at [Don Markstein's
+  - [Steel](https://web.archive.org/web/20190701131422/http://toonopedia.com/steel3.htm)at
+    [Don Markstein's
     Toonopedia](https://zh.wikipedia.org/wiki/Don_Markstein's_Toonopedia "wikilink").
-    [Archived](https://www.webcitation.org/6vXigLZiX) from the original
-    on December 7, 2017.
+    from the original on December 7, 2017.
 
   - [Steel's secret origin on DC
     Comics.com](http://www.dccomics.com/dcu/heroes_and_villains/?hv=origin_stories/steel&p=1)

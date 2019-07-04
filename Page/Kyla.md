@@ -1,0 +1,72 @@
+**凱拉·率喜·馬西**（；；），藝名為**Kyla**（），[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")，為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[PRISTIN的成員之一](https://zh.wikipedia.org/wiki/PRISTIN "wikilink")，隊內擔任Rapper。
+
+## 生涯
+
+Kyla出生於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[印第安納州](https://zh.wikipedia.org/wiki/印第安納州 "wikilink")，在[洛杉磯長大](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")，2014年搬到[首爾居住](../Page/首爾.md "wikilink")。
+
+## 出道前
+
+2016年3月成為PLEDIS Girlz的成員\[1\]，五月至九月間每周六都在PLEDIS Girlz Concert中演出\[2\]。
+
+## PRISTIN
+
+2017年3月21日Kyla作為[PRISTIN的成員正式出道](https://zh.wikipedia.org/wiki/PRISTIN "wikilink")\[3\]2017年10月12日，[Pledis娛樂宣布](../Page/Pledis娛樂.md "wikilink")，Kyla因健康問題將暫時停止演藝活動，並返回[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")。2018年，被粉絲拍到在遊樂園當售票員\[4\]。2019年5月23日官方宣布PRISTIN解散，Kyla與Pledis解約。
+
+## 詞曲創作
+
+韓國音樂著作權協會之登記編號：카일라 / MASSIE KYLA SOLHEE（10014851），3首。\[5\]
+
+<table>
+<thead>
+<tr class="header">
+<th><p>年份</p></th>
+<th><p>歌手</p></th>
+<th><p>專輯名稱</p></th>
+<th><p>歌名</p></th>
+<th><p>作詞</p></th>
+<th><p>作曲</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2017年</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/PRISTIN" title="wikilink">PRISTIN</a></p></td>
+<td><p>《HI! PRISTIN》</p></td>
+<td><p>Over n Over</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>《SCHXXL OUT》</p></td>
+<td><p>너말야너</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>ALOHA</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+## 參考資料
+
+1.
+2.
+3.
+4.
+5.

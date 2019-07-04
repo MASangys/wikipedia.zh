@@ -1,4 +1,4 @@
-[右](https://zh.wikipedia.org/wiki/File:Nok_Air.jpg "fig:右")的[皇雀航空](../Page/皇雀航空.md "wikilink")[波音737-400与TOT标志](../Page/波音737.md "wikilink")\]\]
+[右](https://zh.wikipedia.org/wiki/File:Nok_Air_B737-4D7_\(HS-TDE\)_at_Don_Muang_International_Airport.jpg "fig:右")的[皇雀航空](../Page/皇雀航空.md "wikilink")[波音737-400与TOT标志](../Page/波音737.md "wikilink")\]\]
 **TOT公共有限公司** ([泰语](../Page/泰语.md "wikilink")：ทีโอที)是一个泰国电信公司。
 最初成立于1954年，公司化在2002年。TOT的主要业务是固定线路电话，它还有一些其他业务，例如移动电话。
 其目前的董事长为Monchai Noosong，任命时间为2015年11月16日。\[1\]

@@ -57,7 +57,7 @@
 <tr class="odd">
 <td><p>5</p></td>
 <td><p>2019/06/28</p></td>
-<td><p>%</p></td>
+<td><p>2.193%</p></td>
 </tr>
 <tr class="even">
 <td><p>6</p></td>

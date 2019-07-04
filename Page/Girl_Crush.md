@@ -17,6 +17,10 @@ Crush**（），是[韓國DAM娛樂於](https://zh.wikipedia.org/wiki/韓國 "wi
 
 ## 參考文獻
 
+## 外部連結
+
+  - [Girl Crush](https://www.instagram.com/real_girlcrush/)的官方IG
+
 [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
 [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
 [Category:2019年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2019年成立的音樂團體 "wikilink")

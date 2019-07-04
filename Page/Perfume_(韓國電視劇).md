@@ -23,22 +23,28 @@
 <td><p>極具審美眼光的韓國頂尖的設計師，外表看似完美、擁有一切的他，其實被周圍的人視為擁有「性格障礙」，更有「關種」的感覺。異常敏感的他，有著52件事物恐懼症和35種過敏症。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/高媛熙.md" title="wikilink">高媛熙</a><br />
-（）</p></td>
-<td><p>閔在熙／閔藝琳</p></td>
+<td><p><a href="../Page/河在淑.md" title="wikilink">河在淑</a><br />
+(回春前)</p></td>
+<td><p>閔在熙</p></td>
 <td><p>為家庭盡心盡力卻失去家庭，因而陷入絕望的中年大媽。某天通過神奇香水，重獲二十多歲美貌和夢幻般的身材。並易名閔藝琳變身為模特界的頂級明星，一躍成為時尚名流。</p></td>
 </tr>
 <tr class="even">
+<td><p><a href="../Page/高媛熙.md" title="wikilink">高媛熙</a><br />
+(回春後)</p></td>
+<td><p>閔藝琳</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><a href="../Page/金旻奎.md" title="wikilink">金旻奎</a></p></td>
 <td><p>尹民錫</p></td>
 <td><p>擁有修長的身材、雕塑般的外貌、甜美的聲音，從天生的偶像明星成長爲國際明星。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/車藝蓮.md" title="wikilink">車藝蓮</a></p></td>
 <td><p>韓智娜</p></td>
 <td><p>徐伊道的前女友，前職是時裝模特兒，目前是徐伊道任職的模特經紀公司的理事。擁有敏銳的理性和職業意識的職業女性兼時尚名流。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -103,6 +109,11 @@
 <td><p>天生麗質、從小具備過人演技的童星，長大後轉型成時尚模特兒。</p></td>
 </tr>
 <tr class="even">
+<td><p><a href="../Page/朴俊錦.md" title="wikilink">朴俊錦</a></p></td>
+<td><p>還未得知姓名</p></td>
+<td><p>徐伊道/尹民錫的母親</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -118,6 +129,7 @@
 | [李漢偉](../Page/李漢偉.md "wikilink") | 趙春奧    | 民錫經紀人公司的代表。   |
 | [延敏智](../Page/延敏智.md "wikilink") | 宋珉熙    | 泰俊的公司部下兼情婦。   |
 | 趙惠元                              | 趙秀妍    | 珍京的朋友、民錫的私生飯。 |
+| [韓尚進](../Page/韓尚進.md "wikilink") |        | 韓智娜前夫。        |
 |                                  |        |               |
 
 ## 原聲帶
@@ -131,6 +143,26 @@
 <!-- end list -->
 
   - Part.3（發行日期：2019年6月11日）
+
+<!-- end list -->
+
+  - Part.4（發行日期：2019年6月17日）
+
+<!-- end list -->
+
+  - Part.5（發行日期：2019年6月18日）
+
+<!-- end list -->
+
+  - Part.6（發行日期：2019年6月24日）
+
+<!-- end list -->
+
+  - Part.7（發行日期：2019年6月25日）
+
+<!-- end list -->
+
+  - Part.8（發行日期：2019年7月1日）
 
 ## 收視率
 
@@ -213,8 +245,8 @@
 <tr class="even">
 <td><p>11</p></td>
 <td><p>2019/06/18</p></td>
-<td></td>
-<td><p>%</p></td>
+<td><p>4.8%</p></td>
+<td><p>colspan=2 </p></td>
 </tr>
 <tr class="odd">
 <td><p>12</p></td>
@@ -225,37 +257,37 @@
 <tr class="even">
 <td><p>13</p></td>
 <td><p>2019/06/24</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>4.3%</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>14</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>6.1%</p></td>
+<td><p>6.3%</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>15</p></td>
 <td><p>2019/06/25</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>5.3%</p></td>
+<td><p>5.6%</p></td>
 </tr>
 <tr class="odd">
 <td><p>16</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>6.9%</p></td>
+<td><p>7.2%</p></td>
+<td><p>5.0%</p></td>
 </tr>
 <tr class="even">
 <td><p>17</p></td>
 <td><p>2019/07/01</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>18</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>5.0%</p></td>
+<td><p>5.3%</p></td>
 <td><p>%</p></td>
 </tr>
 <tr class="even">

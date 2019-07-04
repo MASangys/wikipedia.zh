@@ -9,6 +9,7 @@ local function deflag(s)
 `   s = mw.ustring.gsub(s, '%[%[[Ii][Mm][Aa][Gg][Ee]:[^%[%|Ii][Mm][Aa][Gg][Ee]:[^%[%]]*%]%]', '')`
 `   s = mw.ustring.gsub(s, '<[^<>]*>', '')`
 `   s = mw.ustring.gsub(s, '%s*%([A-Z][A-Z][A-Z]%)%s*$', '')`
+`   s = mw.ustring.gsub(s, '%s*%（[A-Z][A-Z][A-Z]%）%s*$', '')`
 `   while s:match('^%s*&[Nn][Bb][Ss][Pp];%s*') do`
 `       s = mw.ustring.gsub(s, '^%s*&[Nn][Bb][Ss][Pp];%s*', '')`
 `   end`

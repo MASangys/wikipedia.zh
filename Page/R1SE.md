@@ -1,4 +1,4 @@
-**R1SE**，是依據[騰訊視頻偶像男團競演養成類真人秀](https://zh.wikipedia.org/wiki/騰訊視頻 "wikilink")《[創造營2019](../Page/創造營2019.md "wikilink")》的出道承諾，於2019年成立的中國十一人男子[期間限定團體](https://zh.wikipedia.org/wiki/期間限定團體 "wikilink")，成員包括：[周震南](../Page/周震南.md "wikilink")、[何洛洛](https://zh.wikipedia.org/wiki/何洛洛 "wikilink")、[焉栩嘉](https://zh.wikipedia.org/wiki/焉栩嘉 "wikilink")、[夏之光](../Page/夏之光.md "wikilink")、[姚琛](../Page/姚琛.md "wikilink")、[翟潇闻](https://zh.wikipedia.org/wiki/翟潇闻 "wikilink")、[張顏齊](https://zh.wikipedia.org/wiki/張顏齊 "wikilink")、[劉也](https://zh.wikipedia.org/wiki/劉也 "wikilink")、[任豪](../Page/任豪.md "wikilink")、[趙磊](https://zh.wikipedia.org/wiki/趙磊_\(藝人\) "wikilink")、[趙讓](https://zh.wikipedia.org/wiki/趙讓_\(藝人\) "wikilink")，成員周震南於在最終票選獲取第一名，成為R1SE團體中的C位(Center)。該團於2019年6月8日正式出道，進行為期兩年的限定男團活動\[1\]。
+**R1SE**，是依據[騰訊視頻偶像男團競演養成類真人秀](https://zh.wikipedia.org/wiki/騰訊視頻 "wikilink")《[創造營2019](../Page/創造營2019.md "wikilink")》的出道承諾，於2019年成立的中國十一人男子[期間限定團體](../Page/期間限定團體.md "wikilink")，成員包括：[周震南](../Page/周震南.md "wikilink")、[何洛洛](../Page/何洛洛.md "wikilink")、[焉栩嘉](https://zh.wikipedia.org/wiki/焉栩嘉 "wikilink")、[夏之光](../Page/夏之光.md "wikilink")、[姚琛](../Page/姚琛.md "wikilink")、[翟潇闻](../Page/翟潇闻.md "wikilink")、[張顏齊](../Page/張顏齊.md "wikilink")、[劉也](../Page/劉也.md "wikilink")、[任豪](../Page/任豪.md "wikilink")、[趙磊](../Page/趙磊_\(藝人\).md "wikilink")、[趙讓](../Page/趙讓_\(藝人\).md "wikilink")，成員周震南於在最終票選獲取第1名，成為R1SE團體中的C位(Center)及隊長。該團於2019年6月8日正式出道，進行為期兩年的限定男團活動\[1\]。
 
 ## 團名
 
@@ -29,7 +29,7 @@
 <td><p><a href="../Page/周震南.md" title="wikilink">周震南</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/何洛洛" title="wikilink">何洛洛</a></p></td>
+<td><p><a href="../Page/何洛洛.md" title="wikilink">何洛洛</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/焉栩嘉" title="wikilink">焉栩嘉</a></p></td>
@@ -41,22 +41,22 @@
 <td><p><a href="../Page/姚琛.md" title="wikilink">姚琛</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/翟潇闻" title="wikilink">翟潇闻</a></p></td>
+<td><p><a href="../Page/翟潇闻.md" title="wikilink">翟潇闻</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/張顏齊" title="wikilink">張顏齊</a></p></td>
+<td><p><a href="../Page/張顏齊.md" title="wikilink">張顏齊</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/劉也" title="wikilink">劉也</a></p></td>
+<td><p><a href="../Page/劉也.md" title="wikilink">劉也</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/任豪.md" title="wikilink">任豪</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/趙磊_(藝人)" title="wikilink">趙磊</a></p></td>
+<td><p><a href="../Page/趙磊_(藝人).md" title="wikilink">趙磊</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/趙讓_(藝人)" title="wikilink">趙讓</a></p></td>
+<td><p><a href="../Page/趙讓_(藝人).md" title="wikilink">趙讓</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -99,10 +99,29 @@
 
 ## 雜誌寫真
 
-|        |        |          |           |
-| ------ | ------ | -------- | --------- |
-| **年份** | **期數** | **雜誌名稱** | **備註**    |
-| 2019   | 6月15日  | 南都娛樂周刊   | 團體及成員單人封面 |
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>年份</strong></p></td>
+<td><p><strong>期數</strong></p></td>
+<td><p><strong>雜誌名稱</strong></p></td>
+<td><p><strong>備註</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>2019</p></td>
+<td><p>6月15日</p></td>
+<td><p>《南都娛樂周刊》</p></td>
+<td><p>團體及成員單人封面</p></td>
+</tr>
+<tr class="odd">
+<td><p>ISSUE 20</p></td>
+<td><p>《時尚芭莎》<br />
+電子刊</p></td>
+<td><p>團體及成員單人封面</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 參考資料
 

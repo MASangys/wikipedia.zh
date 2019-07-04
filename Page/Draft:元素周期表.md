@@ -42,7 +42,7 @@ B族）的底端，电负性就反而增大。\[21\]
 ### 区
 
 [Periodic_table_blocks_spdf_(32_column).svg](https://zh.wikipedia.org/wiki/File:Periodic_table_blocks_spdf_\(32_column\).svg "fig:Periodic_table_blocks_spdf_(32_column).svg")
-周期表中，依最后填充的电子亚层而划分的矩形块被称作**区**。每个区的名字就是最后被填充的亚层的符号\[26\]。[s区由前两族](https://zh.wikipedia.org/wiki/S区元素 "wikilink")（碱金属和碱土金属）外加氢和氦元素组成，[p区则包含最后六个族](https://zh.wikipedia.org/wiki/P区元素 "wikilink")，即13\~18族（III
+周期表中，依最后填充的电子亚层而划分的矩形块被称作**区**。每个区的名字就是最后被填充的亚层的符号\[26\]。[s区由前两族](../Page/S区元素.md "wikilink")（碱金属和碱土金属）外加氢和氦元素组成，[p区则包含最后六个族](../Page/P区元素.md "wikilink")，即13\~18族（III
 A至0族）。所有的[类金属都落在p区的范围内](https://zh.wikipedia.org/wiki/类金属 "wikilink")。[d区包含第](../Page/D区元素.md "wikilink")3至第12族（III
 B至II
 B），所有的[过渡金属都位于此区域](../Page/过渡金属.md "wikilink")。[f区通常被单独放在周期表的最下方](https://zh.wikipedia.org/wiki/F区元素 "wikilink")，不冠以族序号。镧系和锕系位于这个区域。\[27\]
@@ -352,21 +352,15 @@ Oxford University Press • Myers et al. (2004). *Holt Chemistry*.
 Orlando: Holt, Rinehart & Winston •  (2000). *Essential Chemistry* (2nd
 ed.). Boston:
 McGraw-Hill|group=n}}有人提出，随着依赖于元素的电子构型和区分电子的概念的周期表的出现，这种布局起源于20世纪40年代。
-[铯](../Page/铯.md "wikilink")、[钡和镧的构型是](../Page/钡.md "wikilink")\[Xe\]6s<sup>1</sup>、\[Xe\]6s<sup>2</sup>和\[Xe\]5d<sup>1</sup>6s<sup>2</sup>。因此，镧具有5d分化电子，这使其“在第3组中作为第6周期的d区的第一个成员”。\[152\]
-然后在第3组中可以看到一组一致的电子构型： [钪](../Page/钪.md "wikilink")
+[铯](../Page/铯.md "wikilink")、[钡和镧的构型是](../Page/钡.md "wikilink")\[Xe\]6s<sup>1</sup>、\[Xe\]6s<sup>2</sup>和\[Xe\]5d<sup>1</sup>6s<sup>2</sup>。因此，镧具有5d分化电子，这使其“在第3族中作为第6周期的d区的第一个成员”。\[152\]
+然后在第3族中可以看到一组一致的电子构型： [钪](../Page/钪.md "wikilink")
 \[Ar\]3d<sup>1</sup>4s<sup>2</sup>、钇
 \[Kr\]4d<sup>1</sup>5s<sup>2</sup>和镧\[Xe\]5d<sup>1</sup>6s<sup>2</sup>。还是在第六周期中，[镱被赋予](../Page/镱.md "wikilink")\[Xe\]4f<sup>13</sup>5d<sup>1</sup>6s<sup>2</sup>的电子构型，而[镥为](../Page/镥.md "wikilink")\[Xe\]4f<sup>14</sup>5d<sup>1</sup>6s<sup>2</sup>，“导致4f的电子分化，并且将镥牢固地确定为第6周期的f-区块的最后一个成员”。\[153\]
 后来的发现，镱的电子构型实际上是\[Xe\]4f<sup>14</sup>6s<sup>2</sup>。这意味着镱和镥——后者为\[Xe\]4f<sup>14</sup>5d<sup>1</sup>6s<sup>2</sup>——都有14个f电子，对于镥来说“导致d-而不是f-分化电子”，使其成为钇下第3族周期表位的镧（\[Xe\]5d<sup>1</sup>6s<sup>2</sup>）的“同等有效候选者”。\[154\]
 镧具有在此位的优势，因为5d<sup>1</sup>电子在其结构中首次出现，而它在镥中第三次出现，也在钆中短暂地第二次出现。\[155\]
 
-In terms of chemical behaviour,\[156\] and trends going down group 3 for
-properties such as melting point, electronegativity and ionic
-radius,\[157\]\[158\] scandium, yttrium, lanthanum and actinium are
-similar to their group 1–2 counterparts. In this variant, the number of
-*f* electrons in the most common (trivalent) ions of the f-block
-elements consistently matches their position in the f-block.\[159\] For
-example, the f-electron counts for the trivalent ions of the first three
-f-block elements are Ce 1, Pr 2 and Nd 3.\[160\]
+在化学行为方面，\[156\]以及第3族关于熔点，电负性和离子半径等性质的趋势，\[157\]\[158\]钪，钇，镧和锕类似于它们的1-2族对应物。在该变体中，f区块元素的最常见（三价）离子中的f电子的数量始终与它们在f区块中的位置匹配。\[159\]
+例如，前三个f-区元素的三价离子的f-电子计数是Ce为1，Pr为2和Nd为3。\[160\]
 
 #### 镥与铹
 
@@ -384,47 +378,28 @@ table see Rayner-Canham G. & Overton T. (2013). *Descriptive Inorganic
 Chemistry* (6th ed.). New York: W. H. Freeman and Company • Brown et al.
 (2009). *Chemistry: The Central Science* (11th ed.). Upper Saddle River,
 New Jersey: Pearson Education • Moore et al. (1978). *Chemistry*. Tokyo:
-McGraw-Hill Kogakusha|group=n}} Early techniques for chemically
-separating scandium, yttrium and lutetium relied on the fact that these
-elements occurred together in the so-called "yttrium group" whereas La
-and Ac occurred together in the "cerium group".\[161\] Accordingly,
-lutetium rather than lanthanum was assigned to group 3 by some chemists
-in the 1920s and 30s.{{\#tag:ref|The phenomenon of different separation
-groups is caused by increasing basicity with increasing radius, and does
-not constitute a fundamental reason to show Lu, rather than La, below Y.
-Thus, among the Group 2 [碱土金属s](../Page/碱土金属.md "wikilink"), Mg (less
-basic) belongs in the "soluble group" and Ca, Sr and Ba (more basic)
-occur in the "ammonium carbonate group". Nevertheless, Mg, Ca, Sr and Ba
-are routinely collocated in Group 2 of the periodic table. See: Moeller
-et al. (1989). *Chemistry with Inorganic Qualitative Analysis* (3rd
-ed.). SanDiego: Harcourt Brace Jovanovich, pp. 955–956, 958.|group=n}}
-Several physicists in the 1950s and '60s favoured lutetium, in light of
-a comparison of several of its physical properties with those of
-lanthanum.\[162\] This arrangement, in which lanthanum is the first
-member of the f-block, is disputed by some authors since lanthanum lacks
-any f-electrons. It has been argued that this is not valid concern given
-other periodic table anomalies—thorium, for example, has no f-electrons
-yet is part of the f-block.\[163\] As for lawrencium, its gas phase
-atomic electron configuration was confirmed in 2015 as
-\[Rn\]5f<sup>14</sup>7s<sup>2</sup>7p<sup>1</sup>. Such a configuration
-represents another periodic table anomaly, regardless of whether
-lawrencium is located in the f-block or the d-block, as the only
-potentially applicable p-block position has been reserved for nihonium
-with its predicted configuration of
-\[Rn\]5f<sup>14</sup>6d<sup>10</sup>7s<sup>2</sup>7p<sup>1</sup>.\[164\]{{\#tag:ref|Even
+McGraw-Hill Kogakusha|group=n}}
+用于化学分离钪，钇和镥的早期技术依赖于这些元素一起出现在所谓的“钇族”中，而La和Ac一起出现在“铈族”中。\[161\]
+因此，在20世纪20年代和30年代，一些化学家将镥而不是镧归入第3族。{{\#tag:ref|The phenomenon of
+different separation groups is caused by increasing basicity with
+increasing radius, and does not constitute a fundamental reason to show
+Lu, rather than La, below Y. Thus, among the Group 2
+[碱土金属s](../Page/碱土金属.md "wikilink"), Mg (less basic)
+belongs in the "soluble group" and Ca, Sr and Ba (more basic) occur in
+the "ammonium carbonate group". Nevertheless, Mg, Ca, Sr and Ba are
+routinely collocated in Group 2 of the periodic table. See: Moeller et
+al. (1989). *Chemistry with Inorganic Qualitative Analysis* (3rd ed.).
+SanDiego: Harcourt Brace Jovanovich, pp. 955–956, 958.|group=n}}
+经过将镥的物理性质与镧的比较，20世纪50年代和60年代的一些物理学家倾向于镥。\[162\]由于镧缺乏f-电子，因此一些作者对这种镧是f-区块的第一个成员的安排提出异议。
+有人认为，鉴于其他元素周期表异常，这不是有意义的问题 - 例如，钍没有f电子，但它是f区块的一部分。\[163\]
+至于铹，其气相原子电子构型在2015年被确认为\[Rn\]5f<sup>14</sup>7s<sup>2</sup>7p<sup>1</sup>。无论铹是否位于f区块或d区块中，这种排布代表另一个周期表异常。因为唯一可能适用的p区块位置已被预留用于具有其预测的\[Rn\]5f<sup>14</sup>6d<sup>10</sup>7s<sup>2</sup>7p<sup>1</sup>的排布的鉨。\[164\]{{\#tag:ref|Even
 if metallic lawrencium has a'' p'' electron, simple modelling studies
 suggest it will behave like a lanthanide,\[165\] as do the rest of the
 late actinides.\[166\]|group=n}}
 
-Chemically, scandium, yttrium and lutetium (and presumably lawrencium)
-behave like trivalent versions of the group 1–2 metals.\[167\] On the
-other hand, trends going down the group for properties such as melting
-point, electronegativity and ionic radius, are similar to those found
-among their group 4–8 counterparts.\[168\] In this variant, the number
-of *f* electrons in the gaseous forms of the f-block atoms usually
-matches their position in the f-block. For example, the f-electron
-counts for the first five f-block elements are La 0, Ce 1, Pr 3, Nd 4
-and Pm 5.\[169\]
+在化学上，钪，钇和镥（可能也有铹）表现得像1-2族金属的三价形式。\[167\]
+另一方面，熔点，电负性和离子半径等性质下降的趋势与4-8族相似。\[168\]在该变体中，f-区原子的气态形式中的f电子的数量通常与它们在f-区中的位置相匹配。
+例如，前五个f区元素的f电子计数是La为0，Ce为1，Pr为3，Nd为4和Pm为5。\[169\]
 
 #### 镧系与锕系
 

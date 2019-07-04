@@ -11,7 +11,7 @@ Magazine](../Page/週刊Young_Magazine.md "wikilink")》上再度連載的賽車
 ### 主要人物
 
   -
-    駕駛車種：豐田GT86 【86號車】。
+    駕駛車種：[豐田GT](https://zh.wikipedia.org/wiki/豐田 "wikilink")86 【86號車】。
     本作男主角。
 
 <!-- end list -->
@@ -22,7 +22,8 @@ Magazine](../Page/週刊Young_Magazine.md "wikilink")》上再度連載的賽車
 <!-- end list -->
 
   -
-    駕駛車種：日產GTR NISMO R35【9號車】。
+    駕駛車種：[日產GTR](https://zh.wikipedia.org/wiki/日產 "wikilink") NISMO
+    R35【9號車】。
 
 <!-- end list -->
 
@@ -40,67 +41,72 @@ Magazine](../Page/週刊Young_Magazine.md "wikilink")》上再度連載的賽車
 ### MFG參賽選手
 
   -
-    駕駛車種：保時捷718 cayman 【12號車】。
+    駕駛車種：[保時捷](https://zh.wikipedia.org/wiki/保時捷 "wikilink")718 Cayman
+    【12號車】。
 
 <!-- end list -->
 
   -
-    駕駛車種：保時捷911卡雷拉GT3【1號車】。
+    駕駛車種：保時捷911 Carrera GT3【1號車】。
 
 <!-- end list -->
 
   -
-    駕駛車種：法拉利488GTB【2號車】。
+    駕駛車種：[法拉利](https://zh.wikipedia.org/wiki/法拉利 "wikilink")488GTB【2號車】。
 
 <!-- end list -->
 
   -
-    駕駛車種：蘭博基尼Huracan LP610-4【3號車】。
+    駕駛車種：[林寶堅尼Huracán](https://zh.wikipedia.org/wiki/林寶堅尼 "wikilink")
+    LP610-4【3號車】。
 
 <!-- end list -->
 
   -
-    駕駛車種：奧迪R8 Coupé V10 Plus【5號車】。
+    駕駛車種：[奧迪R](https://zh.wikipedia.org/wiki/奧迪 "wikilink")8 Coupé V10
+    Plus【5號車】。
 
 <!-- end list -->
 
   -
-    駕駛車種：奔馳AMG GT S【7號車】。
+    駕駛車種：[賓士AMG](https://zh.wikipedia.org/wiki/奔馳 "wikilink") GT S【7號車】。
 
 <!-- end list -->
 
   -
-    駕駛車種：保時捷911卡雷拉GTS【8號車】。
+    駕駛車種：[保時捷](https://zh.wikipedia.org/wiki/保時捷 "wikilink")911 Carrera
+    GTS【8號車】。
 
 <!-- end list -->
 
   -
-    駕駛車種：雷克薩斯LC500【10號車】。
+    駕駛車種：[凌志LC](../Page/凌志.md "wikilink")500【10號車】。
 
 <!-- end list -->
 
   -
-    駕駛車種：本田FK8 / 本田NSX【13號車】。
+    駕駛車種：[本田Civic](https://zh.wikipedia.org/wiki/本田汽車 "wikilink") Type R
+    (FK8) / 本田NSX【13號車】。
 
 <!-- end list -->
 
   -
-    駕駛車種：寶馬M3【11號車】。
+    駕駛車種：[寶馬M](https://zh.wikipedia.org/wiki/寶馬 "wikilink")3【11號車】。
 
 <!-- end list -->
 
   -
-    駕駛車種：蓮花Exige【16號車】。
+    駕駛車種：[蓮花Exige](https://zh.wikipedia.org/wiki/蓮花汽車 "wikilink")【16號車】。
 
 <!-- end list -->
 
   -
-    駕駛車種：阿爾法羅密歐4C【18號車】。
+    駕駛車種：[愛快羅密歐](https://zh.wikipedia.org/wiki/愛快羅密歐 "wikilink")4C【18號車】。
 
 <!-- end list -->
 
   -
-    駕駛車種：雷諾A110【4號車】。
+    駕駛車種：[Alpine](../Page/Alpine.md "wikilink") A110【4號車】。
 
 ### MFG相關人物
 

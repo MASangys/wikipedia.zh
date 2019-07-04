@@ -1,6 +1,6 @@
-**Seven O'Clock**(；），為STARO
-Entertainment於2017年3月16日推出的男子組合，最初成員HanGyeom(A-Day)、Hyun、2soul、JeongGyu、Vann及TaeYoung，2018年9月19日所屬社聲明經紀公司從STARO
-Entertainment改為FOREST Network，同日宣佈，原團員Vaan因個人原因退團，後以5人形式活動。\[1\]
+**Seven
+O'Clock**(；），為STARO娛樂於2017年推出的男子組合，最初成員HanGyeom(A-Day)、Hyun、2soul、JeongGyu、Vann及TaeYoung，2018年9月19日所屬社聲明經紀公司從STARO娛樂改為FOREST
+Network，同日宣佈，Vaan因個人原因退團，後以5人形式活動。\[1\]
 2019年2月18日，宣布加入來自香港的新成員Andy(中韓混血兒)。\[2\]
 
 ## 成員資料
@@ -15,6 +15,7 @@ Entertainment改為FOREST Network，同日宣佈，原團員Vaan因個人原因�
 | 2Soul(이술)    |
 | JeongGyu(정규) |
 | TaeYoung(태영) |
+| Vaan (반)     |
 
 ## 音樂作品
 

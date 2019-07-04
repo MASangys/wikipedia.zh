@@ -1,4 +1,4 @@
-《**[HIStory系列](../Page/HIStory_\(2017年電視劇\).md "wikilink")**》，第三季分為二個單元《圈套》、《那一天》\[1\]於2018年第三季開拍，編劇一樣找來成功打造第一與第二季的的林珮瑜，李青蓉和蔡宓潔導演也將再次執導第三季。
+《**[HIStory系列](../Page/HIStory_\(2017年電視劇\).md "wikilink")**》，第三季分為二個單元《圈套》、《那一天》\[1\]於2018年第四季開拍以及2019年第二季開拍，編劇一樣找來成功打造第一與第二季的的林珮瑜，李青蓉和蔡宓潔導演也將再次執導第三季。
 
 ## 播出時間
 
@@ -338,7 +338,7 @@
 <td><p><strong>備註</strong></p></td>
 </tr>
 <tr class="even">
-<td><p>片頭曲</p></td>
+<td><p>主題曲</p></td>
 <td><p>我怎能留下你</p></td>
 <td><p><a href="../Page/黃奕儒.md" title="wikilink">黃奕儒</a></p></td>
 <td></td>
@@ -445,14 +445,14 @@
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/黃雋智" title="wikilink">黃雋智</a></p></td>
+<p>黃雋智</p></td>
 <td><center>
 <p>-{于}-希顧</p></td>
 <td><p>個性內斂的獨行俠</p></td>
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/劉韋辰_(演員)" title="wikilink">劉韋辰</a></p></td>
+<p>劉韋辰</p></td>
 <td><center>
 <p>孫博翔</p></td>
 <td></td>
@@ -466,25 +466,25 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/夏恩" title="wikilink">夏恩</a></p></td>
+<p>夏恩</p></td>
 <td><center></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/夏得" title="wikilink">夏得</a></p></td>
+<p>夏得</p></td>
 <td><center></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/何禹賢" title="wikilink">何禹賢</a></p></td>
+<p>何禹賢</p></td>
 <td><center></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/蔡曜仲" title="wikilink">蔡曜仲</a></p></td>
+<p>蔡曜仲</p></td>
 <td><center></td>
 <td></td>
 </tr>
@@ -496,7 +496,7 @@
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/石承鎬" title="wikilink">石承鎬</a></p></td>
+<p>石承鎬</p></td>
 <td><center></td>
 <td></td>
 </tr>
@@ -508,7 +508,7 @@
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/孫英豪" title="wikilink">孫英豪</a></p></td>
+<p>孫英豪</p></td>
 <td><center></td>
 <td></td>
 </tr>
@@ -520,7 +520,7 @@
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/彭紫莛" title="wikilink">彭紫莛</a></p></td>
+<p>彭紫莛</p></td>
 <td><center></td>
 <td></td>
 </tr>

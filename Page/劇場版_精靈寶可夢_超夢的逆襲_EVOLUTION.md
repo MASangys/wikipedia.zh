@@ -15,6 +15,9 @@ EVOLUTION**》（），是《[精靈寶可夢](https://zh.wikipedia.org/wiki/精
   -
 [Category:精靈寶可夢劇場版](https://zh.wikipedia.org/wiki/Category:精靈寶可夢劇場版 "wikilink")
 [Category:2019年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2019年日本劇場動畫 "wikilink")
+[Category:電腦動畫電影](https://zh.wikipedia.org/wiki/Category:電腦動畫電影 "wikilink")
+[Category:日本3D電影](https://zh.wikipedia.org/wiki/Category:日本3D電影 "wikilink")
+[Category:重製動畫電影](https://zh.wikipedia.org/wiki/Category:重製動畫電影 "wikilink")
 
 1.
 2.

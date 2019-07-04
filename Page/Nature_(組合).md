@@ -82,34 +82,37 @@
 
 ### 出道前
 
-2016年，Chaebin以MIDAS練習生名義參加[PRODUCE
-101](../Page/PRODUCE_101.md "wikilink")，最終排名第88名。
+2016年，Chaebin以MIDAS練習生名義參加《[PRODUCE
+101](../Page/PRODUCE_101.md "wikilink")》，最終排名第88名。
 
-2017年，Lu為前[Brave練習生](https://zh.wikipedia.org/wiki/Brave_娛樂 "wikilink")。以本名林河英試鏡[MIXNINE未通過](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")。
+2017年，Lu為前[Brave娛樂練習生](../Page/Brave娛樂.md "wikilink")。以本名林河英試鏡《[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")》未通過。
 
-### 2018年：出道
+### 2018年：出道、首張單曲專輯、第二張單曲專輯、獲得第2屆 Soribada Best K-Music Awards新韓流新人賞
 
 2018年7月21日，據n.CH娛樂公司傳來消息，指旗下跨國九人女團NATURE將於8月初出道。\[4\]
 
 2018年8月3日，成員Yeolmae退出，改為八人團體出道，以出道專輯《心情很好》裡的《Allegro Cantabile (너의
 곁으로)在你身邊》一曲作為主打歌出道\[5\]\[6\]\[7\]。值得一提的是，此歌原曲為《[交響情人夢](../Page/交響情人夢.md "wikilink")》的片頭曲。\[8\]
 
-2018年11月21日，以《曖昧(You'll Be Mine)》回歸。\[9\]
-加入成員Loha。Loha為前[JYP練習生](../Page/JYP娛樂.md "wikilink")。
+2018年11月21日，發行第二張單曲專輯《썸&러브》回歸。\[9\]
+加入成員Loha。Loha為前[JYP娛樂練習生](../Page/JYP娛樂.md "wikilink")。
 
-### 2019年：後續曲
+### 2019年：單曲二輯後續曲、首張迷你專輯
 
 2019年1月15日，以《꿈꿨어(Dream About U)》高速回歸（為曖昧的後續曲） 。\[10\]
+2019年6月24日，宣佈於7月10日發行首張迷你專輯《I'm So
+Pretty》回歸，成員GaGa因學業缺席本次回歸。同日，釋出團體、Saebom、Sunshine概念照。
+6月25日，釋出Chaebin、Haru概念照。 6月26日，釋出Uchae、Roha概念照。 6月27日，釋出Aurora、Lu概念照。
 
 ## 音樂作品
 
-### 單曲
+### 單曲專輯
 
 <table>
 <thead>
 <tr class="header">
-<th><p><strong>單曲 #</strong></p></th>
-<th><p><strong>單曲資料</strong></p></th>
+<th><p><strong>#單曲</strong></p></th>
+<th><p><strong>專輯資料</strong></p></th>
 <th><p><strong>曲目</strong></p></th>
 </tr>
 </thead>
@@ -137,6 +140,35 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 迷你專輯
+
+<table>
+<thead>
+<tr class="header">
+<th><p><strong>#專輯</strong></p></th>
+<th><p><strong>專輯資料</strong></p></th>
+<th><p><strong>曲目</strong></p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1st</p></td>
+<td><p><strong>《I'm So Pretty》</strong></p>
+<ul>
+<li>發行日期 ：2019年7月10日</li>
+<li>語言：韓語</li>
+<li>銷量：</li>
+</ul></td>
+<td><p>{{Hidden|曲目</p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -207,6 +239,9 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/썸&amp;러브" title="wikilink">썸&amp;러브</a></p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/I&#39;m_So_Pretty" title="wikilink">I'm So Pretty</a></p></td>
+</tr>
+<tr class="even">
 <td><ul>
 <li>「/」表示未有相關資料</li>
 <li>「 (1) 」：兩星期冠軍</li>

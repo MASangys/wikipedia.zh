@@ -1,5 +1,5 @@
 local mArguments --initialize lazily local mHatlist =
-require('Module:Hatnote list2') local mHatnote =
+require('Module:Hatnote list') local mHatnote =
 require('Module:Hatnote') local yesNo = require('Module:Yesno') local p
 = {}
 

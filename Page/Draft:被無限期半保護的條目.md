@@ -52,6 +52,7 @@
 | [伊丹車站_(阪急)](https://zh.wikipedia.org/wiki/Special:Redirect/page/6602385 "wikilink")            | \[ 保護日誌\] |
 | [伊斯兰国](https://zh.wikipedia.org/wiki/Special:Redirect/page/45599 "wikilink")                    | \[ 保護日誌\] |
 | [伊藤彩沙](https://zh.wikipedia.org/wiki/Special:Redirect/page/5383670 "wikilink")                  | \[ 保護日誌\] |
+| [佐仓绫音](https://zh.wikipedia.org/wiki/Special:Redirect/page/1506649 "wikilink")                  | \[ 保護日誌\] |
 | [佐倉薰](https://zh.wikipedia.org/wiki/Special:Redirect/page/5414337 "wikilink")                   | \[ 保護日誌\] |
 | [傀儡國家](https://zh.wikipedia.org/wiki/Special:Redirect/page/2866719 "wikilink")                  | \[ 保護日誌\] |
 | [傀儡政府](https://zh.wikipedia.org/wiki/Special:Redirect/page/341414 "wikilink")                   | \[ 保護日誌\] |

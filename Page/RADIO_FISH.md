@@ -58,7 +58,7 @@ YouTube上的活動將從7月21日開始全面展開。在此之前，從今天�
 10月13日，第一次全國巡迴演出「**“RADIO FISH 2017-2018 TOUR
 "Phalanx"**」宣布將於12月25日舉行\[19\]。
 
-10月29日，同樣在[NHK廣播第1頻率節目](https://zh.wikipedia.org/wiki/NHK廣播第1頻率 "wikilink")「」，東方收音機擔任MC、同時也[乃木坂46的](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")[中元日芽香擔任助理MC迎](../Page/中元日芽香.md "wikilink")，新歌「LAST
+10月29日，同樣在[NHK廣播第1頻率節目](../Page/NHK廣播第1頻率.md "wikilink")「」，東方收音機擔任MC、同時也[乃木坂46的](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")[中元日芽香擔任助理MC迎](../Page/中元日芽香.md "wikilink")，新歌「LAST
 NUMBER (feat. 中元日芽香(乃木坂46))」首次發表。它于數位配信11月8日发布\[20\]。
 
 11月29日，发行了两首歌「新时代」，[YouTuber制作的第一首歌曲和](../Page/YouTuber.md "wikilink")「O.D.O:Re」，第一首由RIHITO制作的歌曲數位配信发布\[21\]。「新时代」仅限于2018年3月10日之前，在[Google

@@ -24,14 +24,45 @@ Gon及Jaeun。
 
 2017年，Kain曾在[防彈少年團第二次世界巡迴演唱會](../Page/防彈少年團.md "wikilink")擔任伴舞員\[2\]。
 
-### 正式出道
+### 出道後
 
 2019年3月11日，以歌曲《Master Key》正式出道\[3\]。
 
 2019年4月28日-6月29日，在[日本](../Page/日本.md "wikilink")[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[新宿區](../Page/新宿區.md "wikilink"):
 K-Stage O 舉行《ARGON 2019 1st JAPANLIVE》，共31天，合共62場小型音樂會\[4\]。
 
+## 音樂作品
+
+### 單曲專輯
+
+<table>
+<tbody>
+<tr class="odd">
+<td></td>
+<td><p>內容</p></td>
+<td><p>曲目</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>1st</strong></p></td>
+<td><p>《<strong>Master Key</strong>》</p>
+<ul>
+<li>發行日期：2019年3月11日</li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
+<li>銷量：</li>
+</ul></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ## 參考資料
+
+## 外部連結
+
+  - [ARGON](https://www.instagram.com/argon_official_/)的官方IG
+  - [ARGON](https://mobile.twitter.com/ARGON_twt)的官方Twitter
+  - [ARGON](https://m.facebook.com/MSHARGON/)的官方facebook
+  - [ARGON](https://m.youtube.com/channel/UCWC-z3JsBNl9H-_3lk-f3Yg)的官方Youtube
 
 [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
 [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")

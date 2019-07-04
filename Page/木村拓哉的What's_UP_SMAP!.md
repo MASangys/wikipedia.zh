@@ -38,7 +38,7 @@ SMAP\!**（）是[日本一檔由](../Page/日本.md "wikilink")[木村拓哉在
   - [What's海賊團](http://www.tfm.co.jp/what-s/index.php)
 
 [Category:木村拓哉](https://zh.wikipedia.org/wiki/Category:木村拓哉 "wikilink")
-[Category:日本廣播節目](https://zh.wikipedia.org/wiki/Category:日本廣播節目 "wikilink")
+[Category:FM東京的廣播節目](https://zh.wikipedia.org/wiki/Category:FM東京的廣播節目 "wikilink")
 [Category:1995年日本建立](https://zh.wikipedia.org/wiki/Category:1995年日本建立 "wikilink")
 [Category:2018年日本廢除](https://zh.wikipedia.org/wiki/Category:2018年日本廢除 "wikilink")
 

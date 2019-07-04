@@ -54,12 +54,12 @@ Go(已經12點)》在推出之後取得不錯的成績，獲得韓國[Gaon數位
 <tr class="even">
 <td><p><strong>Genie</strong></p></td>
 <td><p>1</p></td>
-<td></td>
+<td><p>2</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Naver</strong></p></td>
 <td><p>1</p></td>
-<td></td>
+<td><p>1</p></td>
 </tr>
 <tr class="even">
 <td><ul>
@@ -92,37 +92,37 @@ Go(已經12點)》在推出之後取得不錯的成績，獲得韓國[Gaon數位
 <tr class="even">
 <td><p><a href="../Page/Mnet媒體.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
-<td><p>*<strong>1</strong></p></td>
+<td><p><strong>1</strong></p></td>
 <td><p>[4]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS第2頻道" title="wikilink">KBS2</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/音乐银行" title="wikilink">音乐银行</a></p></td>
-<td><p>*<strong>1</strong></p></td>
+<td><p><strong>1</strong></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/文化廣播_(韓國)" title="wikilink">MBC</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Show!_音樂中心" title="wikilink">Show! 音樂中心</a></p></td>
-<td><p>*<strong>(1)</strong></p></td>
+<td><p><strong>[1]</strong></p></td>
 <td><p>[5]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
 <td><p><a href="../Page/人气歌谣.md" title="wikilink">人氣歌謠</a></p></td>
-<td><p>*<strong>1</strong></p></td>
+<td><p><strong>1</strong></p></td>
 <td><p>[6]</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p><a href="../Page/THE_SHOW_(SBS_MTV節目).md" title="wikilink">THE SHOW</a></p></td>
-<td><p>*</p></td>
+<td><p>/</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p><a href="../Page/Show_Champion.md" title="wikilink">Show Champion</a></p></td>
-<td><p>*<strong>1</strong></p></td>
+<td><p><strong>1</strong></p></td>
 <td><p>[7]</p></td>
 </tr>
 <tr class="even">

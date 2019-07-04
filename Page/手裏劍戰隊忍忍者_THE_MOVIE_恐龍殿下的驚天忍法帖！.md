@@ -132,5 +132,9 @@ Scroll\!](https://zh.wikipedia.org/wiki/en:Shuriken_Sentai_Ninninger_the_Movie:_
 [id:Shuriken Sentai Ninninger the Movie: Gulir Ninja Indah Tuan
 Dinosaurus\!](https://zh.wikipedia.org/wiki/id:Shuriken_Sentai_Ninninger_the_Movie:_Gulir_Ninja_Indah_Tuan_Dinosaurus! "wikilink")
 
-[Category:超級戰隊系列](https://zh.wikipedia.org/wiki/Category:超級戰隊系列 "wikilink")
+[Category:2015年日本電影](https://zh.wikipedia.org/wiki/Category:2015年日本電影 "wikilink")
 [Category:超級戰隊系列電影作品](https://zh.wikipedia.org/wiki/Category:超級戰隊系列電影作品 "wikilink")
+[Category:忍者片](https://zh.wikipedia.org/wiki/Category:忍者片 "wikilink")
+[Category:妖怪題材電影](https://zh.wikipedia.org/wiki/Category:妖怪題材電影 "wikilink")
+[Category:恐龍題材電影](https://zh.wikipedia.org/wiki/Category:恐龍題材電影 "wikilink")
+[Category:機器人電影](https://zh.wikipedia.org/wiki/Category:機器人電影 "wikilink")

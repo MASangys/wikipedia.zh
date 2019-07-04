@@ -80,7 +80,7 @@ LOHAS對開的日出康城5期[MALIBU基座設有永久的公共運輸交匯處]
 
 <!-- end list -->
 
-  - [98D](https://zh.wikipedia.org/wiki/九龍巴士98D線 "wikilink")（特別班次） -
+  - [98D](../Page/九龍巴士98D線.md "wikilink")（特別班次） -
 
 <!-- end list -->
 
@@ -88,7 +88,7 @@ LOHAS對開的日出康城5期[MALIBU基座設有永久的公共運輸交匯處]
 
 <!-- end list -->
 
-  - [98D](https://zh.wikipedia.org/wiki/九龍巴士98D線 "wikilink")（特別班次） -
+  - [98D](../Page/九龍巴士98D線.md "wikilink")（特別班次） -
 
 <!-- end list -->
 
@@ -127,6 +127,7 @@ THE LOHAS落成後，將設7條24小時有蓋行人通道，分別前往：
   - [日出公園](../Page/日出公園.md "wikilink")
   - [日出大道](https://zh.wikipedia.org/wiki/日出大道 "wikilink")
   - [峻瀅](../Page/峻瀅.md "wikilink")
+  - [清水灣半島](../Page/清水灣半島_\(住宅\).md "wikilink")
   - [MONTEREY](../Page/MONTEREY.md "wikilink")
   - [Savannah](https://zh.wikipedia.org/wiki/Savannah "wikilink")
   - [將軍澳海濱公園](../Page/將軍澳海濱公園.md "wikilink")
