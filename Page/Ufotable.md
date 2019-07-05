@@ -3,9 +3,9 @@
 ufotable是由出身於[Telecom Animation
 Film](https://zh.wikipedia.org/wiki/Telecom_Animation_Film "wikilink")，當時為第二代東京電影（後改稱TMS娛樂有限公司，[TMS
 Entertainment](https://zh.wikipedia.org/wiki/TMS_Entertainment "wikilink"),
-Ltd.）的製作人[近藤光](https://zh.wikipedia.org/wiki/近藤光 "wikilink")，透過[住友商事旗下的](../Page/住友商事.md "wikilink")[Step映像與內田勤於](https://zh.wikipedia.org/wiki/Step映像 "wikilink")2000年創立。
+Ltd.）的製作人[近藤光](https://zh.wikipedia.org/wiki/近藤光 "wikilink")，透過[住友商事旗下的](../Page/住友商事.md "wikilink")[Step映像與](https://zh.wikipedia.org/wiki/Step映像 "wikilink")[內田勤於](https://zh.wikipedia.org/wiki/內田勤 "wikilink")2000年創立。
 
-主要業務包括動畫的企劃和製作、[系列構成](https://zh.wikipedia.org/wiki/系列構成 "wikilink")、場景製作、電視劇實物影像的企劃和製作、[CG製作及](https://zh.wikipedia.org/wiki/CG "wikilink")[黏土動畫製作](https://zh.wikipedia.org/wiki/黏土動畫 "wikilink")。
+主要業務包括動畫的企劃和製作、[系列構成](https://zh.wikipedia.org/wiki/系列構成 "wikilink")、場景製作、[電視劇實物影像的企劃和製作](https://zh.wikipedia.org/wiki/電視劇 "wikilink")、[CG製作及](https://zh.wikipedia.org/wiki/CG "wikilink")[黏土動畫製作](https://zh.wikipedia.org/wiki/黏土動畫 "wikilink")。
 
 於2019年3月12日因懷疑逃稅四億日元而受到東京稅務局的調查。[1](https://headlines.yahoo.co.jp/article?a=20190328-00011227-bunshun-ent)
 

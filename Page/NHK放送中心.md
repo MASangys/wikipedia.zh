@@ -34,9 +34,11 @@ NHK放送中心的建地內共有6棟建築（包含[NHK音樂廳](https://zh.wi
   - [NHK首都圈放送中心](http://www.nhk.or.jp/shutoken/index.html)
   - [NHK音樂廳](http://www.nhk-sc.or.jp/nhk_hall/)
 
+[Category:NHK](https://zh.wikipedia.org/wiki/Category:NHK "wikilink")
+[Category:關東地方的電視台](https://zh.wikipedia.org/wiki/Category:關東地方的電視台 "wikilink")
+[Category:關東地方的廣播電台](https://zh.wikipedia.org/wiki/Category:關東地方的廣播電台 "wikilink")
 [Category:東京都建築物](https://zh.wikipedia.org/wiki/Category:東京都建築物 "wikilink")
 [Category:澀谷](https://zh.wikipedia.org/wiki/Category:澀谷 "wikilink")
-[Category:NHK](https://zh.wikipedia.org/wiki/Category:NHK "wikilink")
 [Category:BCS獎](https://zh.wikipedia.org/wiki/Category:BCS獎 "wikilink")
 [Category:100米至149米高的摩天大樓](https://zh.wikipedia.org/wiki/Category:100米至149米高的摩天大樓 "wikilink")
 [Category:1973年完工建築物](https://zh.wikipedia.org/wiki/Category:1973年完工建築物 "wikilink")

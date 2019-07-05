@@ -12,7 +12,7 @@ board）當中；也可另外添加。該技術建立在強大的並列SCSI通�
   - 第一代SAS為陣列中的每個驅動器提供 3.0 Gbps（3000 Mbps）的傳輸速率。
   - 第二代SAS為陣列中的每個驅動器提供 6.0 Gbps（6000 Mbps）的傳輸速率。
   - 第三代SAS為陣列中的每個驅動器提供 12.0 Gbps（12000 Mbps）的傳輸速率。
-  - 第四代SAS為陣列中的每個驅動器提供 24.0 Gbps（24000 Mbps）的傳輸速率（開發中，預計2017年推出）。
+  - 第四代SAS為陣列中的每個驅動器提供 24.0 Gbps（24000 Mbps）的傳輸速率，相關標準於2017年制定\[1\]。
 
 ## 介面
 
@@ -58,3 +58,5 @@ SAS由3种类型协议组成，根据连接的不同设备使用相应的协议�
 [Category:SCSI](https://zh.wikipedia.org/wiki/Category:SCSI "wikilink")
 [Category:Serial_ATA](https://zh.wikipedia.org/wiki/Category:Serial_ATA "wikilink")
 [Category:Serial_buses](https://zh.wikipedia.org/wiki/Category:Serial_buses "wikilink")
+
+1.  <http://www.scsita.org/content/library/24g-sas-data-storage-specification-development-complete-scsi-trade-association-spotlights-technology-at-2017-flash-memory-summit/>

@@ -78,15 +78,15 @@ Java不允许用基本数据类型来声明为泛型类，然而C\#却允许不�
 <tr class="odd">
 <td><p><code>goto</code></p></td>
 <td><p>C#中支持goto关键字。goto有时候是有用的, 举个例子，实现有限的状态机或者生成的代码, 但是通常建议使用更加合理控制流程的结构化方法(见goto语句的评论)。 Java 允许使用breaks和continues弥补了goto语句的的许多用途。</p>
-<div class="sourceCode" id="cb1"><pre class="sourceCode csharp"><code class="sourceCode cs"><a class="sourceLine" id="cb1-1" title="1"><span class="kw">switch</span>(color)</a>
-<a class="sourceLine" id="cb1-2" title="2">{</a>
-<a class="sourceLine" id="cb1-3" title="3">    <span class="kw">case</span> Color.<span class="fu">Blue</span>:</a>
-<a class="sourceLine" id="cb1-4" title="4">         Console.<span class="fu">WriteLine</span>(<span class="st">&quot;Color is blue&quot;</span>); <span class="kw">break</span>;</a>
-<a class="sourceLine" id="cb1-5" title="5">    <span class="kw">case</span> Color.<span class="fu">DarkBlue</span>:</a>
-<a class="sourceLine" id="cb1-6" title="6">         Console.<span class="fu">WriteLine</span>(<span class="st">&quot;Color is dark&quot;</span>);</a>
-<a class="sourceLine" id="cb1-7" title="7">         <span class="kw">goto</span> <span class="kw">case</span> Color.<span class="fu">Blue</span>;</a>
-<a class="sourceLine" id="cb1-8" title="8">    <span class="co">// ...</span></a>
-<a class="sourceLine" id="cb1-9" title="9">}</a></code></pre></div></td>
+<div class="sourceCode" id="cb1"><pre class="sourceCode csharp"><code class="sourceCode cs"><span id="cb1-1"><a href="#cb1-1"></a><span class="kw">switch</span>(color)</span>
+<span id="cb1-2"><a href="#cb1-2"></a>{</span>
+<span id="cb1-3"><a href="#cb1-3"></a>    <span class="kw">case</span> Color.<span class="fu">Blue</span>:</span>
+<span id="cb1-4"><a href="#cb1-4"></a>         Console.<span class="fu">WriteLine</span>(<span class="st">&quot;Color is blue&quot;</span>); <span class="kw">break</span>;</span>
+<span id="cb1-5"><a href="#cb1-5"></a>    <span class="kw">case</span> Color.<span class="fu">DarkBlue</span>:</span>
+<span id="cb1-6"><a href="#cb1-6"></a>         Console.<span class="fu">WriteLine</span>(<span class="st">&quot;Color is dark&quot;</span>);</span>
+<span id="cb1-7"><a href="#cb1-7"></a>         <span class="kw">goto</span> <span class="kw">case</span> Color.<span class="fu">Blue</span>;</span>
+<span id="cb1-8"><a href="#cb1-8"></a>    <span class="co">// ...</span></span>
+<span id="cb1-9"><a href="#cb1-9"></a>}</span></code></pre></div></td>
 </tr>
 <tr class="even">
 <td><p><code>out</code>, <code>ref</code></p></td>
@@ -103,32 +103,32 @@ Java不允许用基本数据类型来声明为泛型类，然而C\#却允许不�
 <tr class="odd">
 <td><p><code>throws</code></p></td>
 <td><p>Java中要求每个方法都要声明它能抛出检测异常或者检测异常的父类。任何方法也可以随意的定义它所抛出的非检测异常,C#中却没有这样的语法规则。</p>
-<div class="sourceCode" id="cb2"><pre class="sourceCode Java"><code class="sourceCode java"><a class="sourceLine" id="cb2-1" title="1"><span class="kw">public</span> <span class="dt">int</span> <span class="fu">readItem</span>() <span class="kw">throws</span> java.<span class="fu">io</span>.<span class="fu">IOException</span></a>
-<a class="sourceLine" id="cb2-2" title="2">{</a>
-<a class="sourceLine" id="cb2-3" title="3">    <span class="co">// ...</span></a>
-<a class="sourceLine" id="cb2-4" title="4">}</a></code></pre></div></td>
+<div class="sourceCode" id="cb2"><pre class="sourceCode Java"><code class="sourceCode java"><span id="cb2-1"><a href="#cb2-1"></a><span class="kw">public</span> <span class="dt">int</span> <span class="fu">readItem</span>() <span class="kw">throws</span> java.<span class="fu">io</span>.<span class="fu">IOException</span></span>
+<span id="cb2-2"><a href="#cb2-2"></a>{</span>
+<span id="cb2-3"><a href="#cb2-3"></a>    <span class="co">// ...</span></span>
+<span id="cb2-4"><a href="#cb2-4"></a>}</span></code></pre></div></td>
 </tr>
 <tr class="even">
 <td><p><code>using</code></p></td>
 <td><p>C#中的using指令使得对象的Dispose方法（通过IDisposable接口被执行）定义为在代码块执行之后或者在代码块之中的异常被抛出时才被执行。</p>
-<div class="sourceCode" id="cb3"><pre class="sourceCode csharp"><code class="sourceCode cs"><a class="sourceLine" id="cb3-1" title="1"><span class="co">//创建一个小文件&quot;test.txt&quot;,写一个字符串,</span></a>
-<a class="sourceLine" id="cb3-2" title="2"><span class="co">//... 并且把它关闭（即使发生了异常）</span></a>
-<a class="sourceLine" id="cb3-3" title="3"><span class="kw">using</span> (StreamWriter file = <span class="kw">new</span> <span class="fu">StreamWriter</span>(<span class="st">&quot;test.txt&quot;</span>))</a>
-<a class="sourceLine" id="cb3-4" title="4">{</a>
-<a class="sourceLine" id="cb3-5" title="5">    file.<span class="fu">Write</span>(<span class="st">&quot;test&quot;</span>);</a>
-<a class="sourceLine" id="cb3-6" title="6">}</a></code></pre></div></td>
+<div class="sourceCode" id="cb3"><pre class="sourceCode csharp"><code class="sourceCode cs"><span id="cb3-1"><a href="#cb3-1"></a><span class="co">//创建一个小文件&quot;test.txt&quot;,写一个字符串,</span></span>
+<span id="cb3-2"><a href="#cb3-2"></a><span class="co">//... 并且把它关闭（即使发生了异常）</span></span>
+<span id="cb3-3"><a href="#cb3-3"></a><span class="kw">using</span> (StreamWriter file = <span class="kw">new</span> <span class="fu">StreamWriter</span>(<span class="st">&quot;test.txt&quot;</span>))</span>
+<span id="cb3-4"><a href="#cb3-4"></a>{</span>
+<span id="cb3-5"><a href="#cb3-5"></a>    file.<span class="fu">Write</span>(<span class="st">&quot;test&quot;</span>);</span>
+<span id="cb3-6"><a href="#cb3-6"></a>}</span></code></pre></div></td>
 </tr>
 <tr class="odd">
 <td><p><code>yield</code></p></td>
 <td><p>C#语言中允许使用yield关键字来表示迭代器。在Java中，迭代器只能用类（可以是匿名的）来定义，且需要很多的样板代码。下面是一个能够读取可迭代的输入（可以是数组）并且返回所有偶数成员的迭代器的例子。</p>
-<div class="sourceCode" id="cb4"><pre class="sourceCode csharp"><code class="sourceCode cs"><a class="sourceLine" id="cb4-1" title="1"><span class="kw">public</span> <span class="kw">static</span> IEnumerable&lt;<span class="dt">int</span>&gt; <span class="fu">GetEven</span>(IEnumerable&lt;<span class="dt">int</span>&gt; numbers)</a>
-<a class="sourceLine" id="cb4-2" title="2">{</a>
-<a class="sourceLine" id="cb4-3" title="3">    <span class="kw">foreach</span> (<span class="dt">int</span> i <span class="kw">in</span> numbers)</a>
-<a class="sourceLine" id="cb4-4" title="4">    {</a>
-<a class="sourceLine" id="cb4-5" title="5">        <span class="kw">if</span> (i % <span class="dv">2</span> == <span class="dv">0</span>)</a>
-<a class="sourceLine" id="cb4-6" title="6">            <span class="kw">yield</span> <span class="kw">return</span> i;</a>
-<a class="sourceLine" id="cb4-7" title="7">    }</a>
-<a class="sourceLine" id="cb4-8" title="8">}</a></code></pre></div></td>
+<div class="sourceCode" id="cb4"><pre class="sourceCode csharp"><code class="sourceCode cs"><span id="cb4-1"><a href="#cb4-1"></a><span class="kw">public</span> <span class="kw">static</span> IEnumerable&lt;<span class="dt">int</span>&gt; <span class="fu">GetEven</span>(IEnumerable&lt;<span class="dt">int</span>&gt; numbers)</span>
+<span id="cb4-2"><a href="#cb4-2"></a>{</span>
+<span id="cb4-3"><a href="#cb4-3"></a>    <span class="kw">foreach</span> (<span class="dt">int</span> i <span class="kw">in</span> numbers)</span>
+<span id="cb4-4"><a href="#cb4-4"></a>    {</span>
+<span id="cb4-5"><a href="#cb4-5"></a>        <span class="kw">if</span> (i % <span class="dv">2</span> == <span class="dv">0</span>)</span>
+<span id="cb4-6"><a href="#cb4-6"></a>            <span class="kw">yield</span> <span class="kw">return</span> i;</span>
+<span id="cb4-7"><a href="#cb4-7"></a>    }</span>
+<span id="cb4-8"><a href="#cb4-8"></a>}</span></code></pre></div></td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 **史蒂芬妮·乔安妮·安吉丽娜·杰尔马诺塔**（，），艺名-{|zh-cn:**嘎嘎小姐**（英语：）; zh-hk:**Lady
 Gaga**; zh-tw:**女神卡卡**（英語：）;
-zh-sg:**女神卡卡**（英语：）}-，是一名美國歌手、詞曲作家、音樂製作人及演員，她以其挑戰傳統和常規的作品以及前衛风格的視覺形象而闻名于世。嘎嘎自青少年时期便有了表演方面的兴趣，她在学校的时候在晚会上唱歌并出演舞台剧。在辍学从事音乐事业之前，她通過[纽约大学](../Page/纽约大学.md "wikilink")在學習。在[Def
+zh-sg:**女神卡卡**（英语：）}-，是一名美國音樂人，集歌手、詞曲作家、音樂製作人及演員於一身，她以其挑戰傳統和常規的作品以及前衛风格的視覺形象而闻名于世。嘎嘎自青少年时期便有了表演方面的兴趣，她在学校的时候在晚会上唱歌并出演舞台剧。在辍学从事音乐事业之前，她通過[纽约大学](../Page/纽约大学.md "wikilink")在學習。在[Def
 Jam唱片公司取消與她的合約之後](https://zh.wikipedia.org/wiki/Def_Jam唱片公司 "wikilink")，嘎嘎开始作为词曲作家为[索尼/聯合電視音樂出版工作](https://zh.wikipedia.org/wiki/索尼/聯合電視音樂出版 "wikilink")，2007年，在[阿肯的帮助下](../Page/阿肯.md "wikilink")，她與阿肯的唱片公司以及[新视镜唱片签署了一份联合合约](https://zh.wikipedia.org/wiki/新视镜唱片 "wikilink")。第二年，她凭借电子风格的首张专辑《超人气》（原文:
 The Fame）以及热门单曲《[舞力全开](../Page/舞力全開_\(歌曲\).md "wikilink")》(Just Dance)
 和《[无动于衷](https://zh.wikipedia.org/wiki/无动于衷_\(嘎嘎小姐歌曲\) "wikilink")》(Poker
@@ -156,7 +156,7 @@ Glory) 則做為第三首單曲於後發行。\[91\] 兩首單曲皆於英美兩
 其中《[幸福邊界](https://zh.wikipedia.org/wiki/幸福邊界 "wikilink")》的音樂影片與先前的影片風格不同，少了複雜的編舞及背景舞者，她在逃生梯上跳舞，並在空蕩的街上遊走著。\[94\]
 
 同年5月23日，專輯正式發行，\[95\]
-並於《[告示牌兩百大專輯榜](../Page/公告牌二百强专辑榜.md "wikilink")》上藉著首周空降冠軍。\[96\]
+並於《[告示牌兩百大專輯榜](../Page/公告牌二百强专辑榜.md "wikilink")》上藉著第一周空降冠軍。\[96\]
 專輯於全球共銷售了8百萬張並獲得了葛萊美的三項提名，其中包含卡卡連續第三次提名的「年度專輯」。\[97\]\[98\]
 專輯釋出後，《[你和我](../Page/你和我_\(女神卡卡歌曲\).md "wikilink")》(Yoü
 and I) 與《[夜的嫁衣](../Page/夜的嫁衣.md "wikilink")》(Marry The Night)
@@ -336,8 +336,8 @@ Noize、DJ白影、[BloodPop以及蘇菲等知名製作人製作歌曲](../Page/
 
 ### 所受影響
 
-卡卡在年幼時就開始收聽影響她將來風格的歌手的歌曲，例如[麥可·傑克森](https://zh.wikipedia.org/wiki/麥可·傑克森 "wikilink")、[披頭四](https://zh.wikipedia.org/wiki/披頭四 "wikilink")、[史提夫·汪達](https://zh.wikipedia.org/wiki/史提夫·汪達 "wikilink")、[皇后樂團](https://zh.wikipedia.org/wiki/皇后樂團 "wikilink")、[布鲁斯·斯普林斯汀](../Page/布鲁斯·斯普林斯汀.md "wikilink")、[平克·佛洛伊德](https://zh.wikipedia.org/wiki/平克·佛洛伊德 "wikilink")、[瑪麗亞·凱莉](../Page/瑪麗亞·凱莉.md "wikilink")、[感恩至死](../Page/感恩至死.md "wikilink")、[齊柏林飛船](../Page/齊柏林飛船.md "wikilink")、[惠特尼·休斯頓](https://zh.wikipedia.org/wiki/惠特尼·休斯頓 "wikilink")、[艾爾頓·強](https://zh.wikipedia.org/wiki/艾爾頓·強 "wikilink")、[金髮美女以及](../Page/金髮美女.md "wikilink")[垃圾合唱團](https://zh.wikipedia.org/wiki/垃圾合唱團 "wikilink")。\[231\]\[232\]\[233\]\[234\]
-卡卡音樂上多元的靈感來源從如[瑪丹娜和麥可](https://zh.wikipedia.org/wiki/瑪丹娜 "wikilink")·傑克森的[流行舞曲風](../Page/流行舞曲.md "wikilink")，到大衛·鮑伊和[佛萊迪·墨裘瑞的華麗搖滾風](https://zh.wikipedia.org/wiki/佛萊迪·墨裘瑞 "wikilink")，甚至包含[普普藝術家安迪](https://zh.wikipedia.org/wiki/普普藝術 "wikilink")·沃荷的戲劇性以及她自己在過去藝術劇場打下的藝術基礎。\[235\]\[236\]
+卡卡在年幼時收聽的歌手，例如[麥可·傑克森](https://zh.wikipedia.org/wiki/麥可·傑克森 "wikilink")、[披頭四](https://zh.wikipedia.org/wiki/披頭四 "wikilink")、[史提夫·汪達](https://zh.wikipedia.org/wiki/史提夫·汪達 "wikilink")、[皇后樂團](https://zh.wikipedia.org/wiki/皇后樂團 "wikilink")、[布鲁斯·斯普林斯汀](../Page/布鲁斯·斯普林斯汀.md "wikilink")、[平克·佛洛伊德](https://zh.wikipedia.org/wiki/平克·佛洛伊德 "wikilink")、[瑪麗亞·凱莉](../Page/瑪麗亞·凱莉.md "wikilink")、[感恩至死](../Page/感恩至死.md "wikilink")、[齊柏林飛船](../Page/齊柏林飛船.md "wikilink")、[惠特尼·休斯頓](https://zh.wikipedia.org/wiki/惠特尼·休斯頓 "wikilink")、[艾爾頓·強](https://zh.wikipedia.org/wiki/艾爾頓·強 "wikilink")、[金髮美女以及](../Page/金髮美女.md "wikilink")[垃圾合唱團等皆影響了她的音樂風格](https://zh.wikipedia.org/wiki/垃圾合唱團 "wikilink")，。\[231\]\[232\]\[233\]\[234\]
+卡卡在音樂上的靈感來源十分多元，從[瑪丹娜和麥可](https://zh.wikipedia.org/wiki/瑪丹娜 "wikilink")·傑克森的[流行舞曲風](../Page/流行舞曲.md "wikilink")，到大衛·鮑伊和[佛萊迪·墨裘瑞的華麗搖滾風](https://zh.wikipedia.org/wiki/佛萊迪·墨裘瑞 "wikilink")，甚至包含[普普藝術家安迪](https://zh.wikipedia.org/wiki/普普藝術 "wikilink")·沃荷的戲劇性以及她年輕時在藝術劇場學習的藝術基礎。\[235\]\[236\]
 其中卡卡經常被拿去跟認為從卡卡身上反映出自己風格的歌手瑪丹娜相比。\[237\] 卡卡也曾表示希望能夠像她一樣徹底改變流行音樂。\[238\]
 卡卡對於[鐵娘子樂團及](../Page/鐵娘子樂團.md "wikilink")[黑色安息日等重金屬樂團的影響力表示讚賞](../Page/黑色安息日.md "wikilink")。\[239\]\[240\]
 並讚揚碧昂絲是讓她決定追求音樂事業的關鍵。\[241\]
@@ -403,6 +403,8 @@ Noize、DJ白影、[BloodPop以及蘇菲等知名製作人製作歌曲](../Page/
   - （2017年）
 
   - [一個巨星的誕生](https://zh.wikipedia.org/wiki/一個巨星的誕生 "wikilink")（2018年）
+
+  - [美國恐怖故事:第五季Hotel](https://zh.wikipedia.org/wiki/美國恐怖故事:第五季Hotel "wikilink")
 
 ## 註解
 

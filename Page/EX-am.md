@@ -82,7 +82,7 @@
     21高速達陣](https://zh.wikipedia.org/wiki/Eyeshield_21高速達陣 "wikilink")》（[稻垣理一郎](../Page/稻垣理一郎.md "wikilink")、[村田雄介](../Page/村田雄介.md "wikilink")）
   - ※《[-{zh-hans:BLEACH;zh-hant:BLEACH;zh-tw:BLEACH死神;zh-hk:BLEACH漂靈;zh-mo:BLEACH漂靈;}-](../Page/BLEACH.md "wikilink")》（[久保帶人](https://zh.wikipedia.org/wiki/久保帶人 "wikilink")）
   - ※《[百鬼小當家](https://zh.wikipedia.org/wiki/百鬼小當家 "wikilink")》（[椎橋寬](../Page/椎橋寬.md "wikilink")）
-  - ※《[D.Gray-man](https://zh.wikipedia.org/wiki/D.Gray-man "wikilink")》（[星野桂](https://zh.wikipedia.org/wiki/星野桂 "wikilink")）
+  - ※《[D.Gray-man](https://zh.wikipedia.org/wiki/D.Gray-man "wikilink")》（[星野桂](../Page/星野桂.md "wikilink")）
   - ※《[Hunter x
     Hunter](https://zh.wikipedia.org/wiki/Hunter_x_Hunter "wikilink")》（[冨樫義博](../Page/冨樫義博.md "wikilink")）
   - ※《[遊戲王GX](https://zh.wikipedia.org/wiki/遊戲王GX "wikilink")》（高橋和希、影山直行）

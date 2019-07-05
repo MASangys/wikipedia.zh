@@ -39,11 +39,11 @@ Wudaokou.webm|NDJ3型动车组通过京包铁路[五道口](../Page/五道口.md
 <tr class="odd">
 <td><p>车型</p></td>
 <td><p>（动力车）</p></td>
-<td><p>ZY 25DT<br />
+<td><p>RZ1 25DT<br />
 一等座车</p></td>
 <td><p>CA 25DT<br />
 餐车（酒吧形式）</p></td>
-<td><p>ZE 25DT<br />
+<td><p>RZ2 25DT<br />
 二等座车</p></td>
 <td><p>（动力车）</p></td>
 </tr>

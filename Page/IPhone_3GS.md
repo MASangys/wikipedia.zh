@@ -51,6 +51,7 @@ iPhone 3GS搭载了一枚1220毫安内置充电式[锂离子电池](../Page/锂�
 
 [Category:IPhone](https://zh.wikipedia.org/wiki/Category:IPhone "wikilink")
 [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink")
+[Category:2009年面世的手机](https://zh.wikipedia.org/wiki/Category:2009年面世的手机 "wikilink")
 
 1.
 2.

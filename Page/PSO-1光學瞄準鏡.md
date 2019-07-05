@@ -140,6 +140,7 @@ view.jpg|裝上PSO-1瞄準鏡和[消聲器的SR](../Page/抑制器.md "wikilink"
 
   - [SVD狙擊步槍](../Page/SVD狙擊步槍.md "wikilink")
   - [PKS-07光學狙擊鏡](https://zh.wikipedia.org/wiki/PKS-07光學狙擊鏡 "wikilink")
+  - [超子光學瞄準鏡](../Page/超子光學瞄準鏡.md "wikilink")
 
 ## 外部連結
 

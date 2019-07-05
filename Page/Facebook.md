@@ -478,7 +478,7 @@ Group的数据](https://zh.wikipedia.org/wiki/Pivotal_Research_Group "wikilink")
 <li><a href="../Page/開心農場.md" title="wikilink">開心農場</a></li>
 <li><a href="../Page/開心水族箱.md" title="wikilink">開心水族箱</a></li>
 <li><a href="https://zh.wikipedia.org/wiki/過濾氣泡" title="wikilink">過濾氣泡</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/迴聲室效應" title="wikilink">迴聲室效應</a></li>
+<li><a href="../Page/迴聲室效應.md" title="wikilink">迴聲室效應</a></li>
 </ul></td>
 </tr>
 </tbody>

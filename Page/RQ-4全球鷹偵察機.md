@@ -80,11 +80,7 @@ River海軍航空站，開始進行全球之鷹海上操演（GHMD）專案。�
 
 2006春季，GHMD操演展開第一部分海上緝毒能力驗證，四架出動監控[加勒比海和佛羅里達海岸](../Page/加勒比海.md "wikilink")，監視海上和空中目標。\[17\]
 
-2006七月GHMD行動擴及到太平洋邊緣。雖然RIMPAC遙控控制站在夏威夷，但是飛機起降都在愛德華空軍基地，離作業區將近遠。四架全球之鷹配合[林肯號航空母艦](../Page/亞伯拉罕·林肯號航空母艦.md "wikilink")（USS
-Abraham Lincoln
-CVN-72）和[好人理查號兩棲突擊艦](https://zh.wikipedia.org/wiki/好人理查號兩棲突擊艦 "wikilink")（USS
-Bonhomme Richard
-LHD-6）兩軍艦進行24小時海上監視行動。演習中有一部分是：全球鷹發現海上動靜，展開追蹤，完成多重影像拍攝。之後影像傳送到Patuxent
+2006七月GHMD行動擴及到太平洋邊緣。雖然RIMPAC遙控控制站在夏威夷，但是飛機起降都在愛德華空軍基地，離作業區將近遠。四架全球之鷹配合[林肯號航空母艦和](../Page/亞伯拉罕·林肯號航空母艦.md "wikilink")[好人理查號兩棲突擊艦兩軍艦進行](https://zh.wikipedia.org/wiki/好人理查號兩棲突擊艦 "wikilink")24小時海上監視行動。演習中有一部分是：全球鷹發現海上動靜，展開追蹤，完成多重影像拍攝。之後影像傳送到Patuxent
 River海軍站處理後傳到夏威夷派出艦隊，等於完成全球性的軍事行動。\[18\]
 
 諾斯洛普公司還提供一種RQ-4B型給海軍的廣域海上艦控項目（BAMS）競標案。
@@ -101,8 +97,7 @@ River海軍站處理後傳到夏威夷派出艦隊，等於完成全球性的軍
 intelligence」，訊號攔截分析情報）套件。除此之外，[德國海軍也計畫用歐洲鷹來取代原本的](https://zh.wikipedia.org/wiki/德國海軍 "wikilink")[達梭](../Page/達梭航太.md "wikilink")-（Dassault-Breguet
 Atlantique）。
 
-歐洲鷹在2009年10月8日出廠，並在2010年6月29日時進行了首次飛行。該機種在美國的[愛德華空軍基地](https://zh.wikipedia.org/wiki/愛德華空軍基地 "wikilink")（Edwards
-AFB）進行了為期數個月的飛行測試，最後在2011年7月21日抵達德國[曼欣格](https://zh.wikipedia.org/wiki/曼欣格 "wikilink")（Manching），由駐防在該地的[德國空軍第51偵察大隊操作但未正式服役](https://zh.wikipedia.org/wiki/德國空軍第51偵察大隊 "wikilink")。測試期間消息指出並不順利，美德雙方糾紛甚多，飛機還曾經在空中短暫失聯。\[20\]
+歐洲鷹在2009年10月8日出廠，並在2010年6月29日時進行了首次飛行。該機種在美國的[愛德華空軍基地進行了為期數個月的飛行測試](https://zh.wikipedia.org/wiki/愛德華空軍基地 "wikilink")，最後在2011年7月21日抵達德國[曼欣格](https://zh.wikipedia.org/wiki/曼欣格 "wikilink")，由駐防在該地的[德國空軍第51偵察大隊操作但未正式服役](https://zh.wikipedia.org/wiki/德國空軍第51偵察大隊 "wikilink")。測試期間消息指出並不順利，美德雙方糾紛甚多，飛機還曾經在空中短暫失聯。\[20\]
 
 2018年下旬德國空軍表示將放棄歐洲鷹計畫，目前非常樂意將這架飛機出售，初步已經接洽[加拿大](../Page/加拿大.md "wikilink")，\[21\]德國消息表示該十八年的專案已經進展成一個不斷交錢給美國的天文數字錢坑，仅仅是飞行测试就耗费了德国财政部七亿[欧元](../Page/欧元.md "wikilink")，而這僅僅一架的天價無人機究竟對德國國家利益有何用途至今不明顯，也許儘早下車脫手才是良策。\[22\]\[23\]
 
@@ -147,12 +142,7 @@ Patuxent River海軍站服役。兩架留作測試感應器、戰術及程式等
 
 2011年3月11日，[福島第一核電站事故發生後](https://zh.wikipedia.org/wiki/福島第一核電站事故 "wikilink")，美國緊急於3月17日從美軍[關島基地調派一架RQ](../Page/關島.md "wikilink")-4全球鹰偵察機，拍攝[反應爐受損影像](https://zh.wikipedia.org/wiki/反應爐 "wikilink")。
 
-2019年6月20日，[伊斯蘭革命衛隊](https://zh.wikipedia.org/wiki/伊斯蘭革命衛隊 "wikilink")（Iran’s
-Revolutionary
-Guard）周四宣稱，在[伊朗](https://zh.wikipedia.org/wiki/伊朗 "wikilink")[荷姆茲甘省](https://zh.wikipedia.org/wiki/荷姆茲甘省 "wikilink")（Hormuzgan）上空擊落一架美軍無人偵察機RQ-4
-Global
-Hawk，痛批美方此舉是「入侵空域」。根據[美聯社消息](https://zh.wikipedia.org/wiki/美聯社 "wikilink")，[美國中央司令部](https://zh.wikipedia.org/wiki/美國中央司令部 "wikilink")（U.S.
-Central Command）發言人海軍上校鄂班（Bill
+2019年6月20日，[伊斯蘭革命衛隊周四宣稱](https://zh.wikipedia.org/wiki/伊斯蘭革命衛隊 "wikilink")，在[伊朗](https://zh.wikipedia.org/wiki/伊朗 "wikilink")[荷姆茲甘省上空擊落一架美軍RQ](https://zh.wikipedia.org/wiki/荷姆茲甘省 "wikilink")-4全球鹰無人偵察機，痛批美方此舉是「入侵空域」。根據[美聯社消息](https://zh.wikipedia.org/wiki/美聯社 "wikilink")，[美國中央司令部發言人海軍上校鄂班](https://zh.wikipedia.org/wiki/美國中央司令部 "wikilink")（Bill
 Urban）拒絕評論此事，事後僅提到「沒有無人機飛越伊朗上空」，随后美国军方也证实了伊朗击落了一架全球鹰\[28\]，紐約時報報導川普總統一度授權打擊伊朗，但在攻擊前夕反悔取消。\[29\]
 
 ## 技術規格

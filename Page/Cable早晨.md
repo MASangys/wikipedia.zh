@@ -99,6 +99,8 @@ Cable早晨由兩位[有線電視主播主持](https://zh.wikipedia.org/wiki/香
   - 2003年宣傳片段：[2003年Cable早晨](http://www.youtube.com/watch?v=FrqVmOfq8Ks)
   - 2009年宣傳片段：[Cable早晨
     朝朝醒晨](http://www.youtube.com/watch?v=qCabZqoPOVs&e)
+  - [Cable早晨開場（有線新聞台視角）](https://www.youtube.com/watch?v=X8meEX1Ufbk)
+  - [Cable早晨開場（香港開電視視角）](https://www.youtube.com/watch?v=odrqV-vw8-Y)
 
 ## 節目調動（[香港開電視](../Page/香港開電視.md "wikilink")）
 

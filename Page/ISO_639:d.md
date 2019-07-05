@@ -1,290 +1,625 @@
-## D
-
-| 3字母                 | 639-2（如有） | 639-1（如有） | SIL | 英語名称                             | 中文名称                                                                                 |
-| ------------------- | --------- | --------- | --- | -------------------------------- | ------------------------------------------------------------------------------------ |
-| daa                 |           |           | DAA | Dangaléat                        |                                                                                      |
-| dac                 |           |           | DAC | Dambi                            |                                                                                      |
-| dad                 |           |           | DAD | Marik                            |                                                                                      |
-| dae                 |           |           | DAE | Duupa                            |                                                                                      |
-| daf                 |           |           | DAF | Dan                              |                                                                                      |
-| dag                 |           |           | DAG | Dagbani                          | [達戈姆巴語](https://zh.wikipedia.org/wiki/達戈姆巴語 "wikilink")                              |
-| dah                 |           |           | DAH | Gwahatike                        |                                                                                      |
-| dai                 |           |           | DAI | Day                              |                                                                                      |
-| daj                 |           |           | DAJ | Dar Fur Daju                     |                                                                                      |
-| dak                 | dak       |           | DHG | Dakota                           | [達科他語](https://zh.wikipedia.org/wiki/達科他語 "wikilink")                                |
-| dal                 |           |           | DAL | Dahalo                           |                                                                                      |
-| dam                 |           |           |     | Damakawa                         |                                                                                      |
-| dan                 | dan       | da        | DNS | Danish                           | [丹麥語](https://zh.wikipedia.org/wiki/丹麥語 "wikilink")                                  |
-| dao                 |           |           | DAO | Daai Chin                        |                                                                                      |
-| dap                 |           |           | DAP | Nisi (India)                     |                                                                                      |
-| daq                 |           |           | DAQ | Dandami Maria                    |                                                                                      |
-| dar                 | dar       |           | DAR | Dargwa                           | [達爾格瓦語](https://zh.wikipedia.org/wiki/達爾格瓦語 "wikilink")                              |
-| das                 |           |           | DAS | Daho-Doo                         |                                                                                      |
-| dat <sub>(rd)</sub> |           |           | DAT | Darang Deng                      | [達讓-僜語](https://zh.wikipedia.org/wiki/達讓-僜語 "wikilink")；與 mhu 重複                     |
-| dau                 |           |           | DAU | Dar Sila Daju                    |                                                                                      |
-| dav                 |           |           | DAV | Taita                            |                                                                                      |
-| daw                 |           |           | DAW | Davawenyo                        |                                                                                      |
-| dax                 |           |           | DAX | Dayi                             |                                                                                      |
-| day <sub>(c)</sub>  | day       |           |     | Land Dayak languages             | [達雅克語族](https://zh.wikipedia.org/wiki/達雅克語族 "wikilink")                              |
-| daz                 |           |           | DAZ | Dao                              |                                                                                      |
-| dba                 |           |           | DBA | Bangi Me                         |                                                                                      |
-| dbb                 |           |           | DBB | Deno                             |                                                                                      |
-| dbd                 |           |           | DBD | Dadiya                           |                                                                                      |
-| dbe                 |           |           | DBE | Dabe                             |                                                                                      |
-| dbf                 |           |           | DBF | Edopi                            |                                                                                      |
-| dbg                 |           |           | DBG | Dogul Dom Dogon                  |                                                                                      |
-| dbi                 |           |           | DBI | Doka                             |                                                                                      |
-| dbj                 |           |           | DBJ | Ida'an                           |                                                                                      |
-| dbl                 |           |           | DBL | Dyirbal                          |                                                                                      |
-| dbm                 |           |           | DBM | Duguri                           |                                                                                      |
-| dbn                 |           |           | DBN | Duriankere                       |                                                                                      |
-| dbo                 |           |           | DBO | Dulbu                            |                                                                                      |
-| dbp                 |           |           | DBP | Duwai                            |                                                                                      |
-| dbq                 |           |           | DBQ | Daba                             |                                                                                      |
-| dbr                 |           |           | DBR | Dabarre                          |                                                                                      |
-| dbu                 |           |           | DBU | Bondum Dom Dogon                 |                                                                                      |
-| dbv                 |           |           | DBV | Dungu                            |                                                                                      |
-| dby                 |           |           | DBY | Dibiyaso                         |                                                                                      |
-| dcc                 |           |           | DCC | Deccan                           |                                                                                      |
-| dcr                 |           |           | DCR | Negerhollands                    |                                                                                      |
-| ddd                 |           |           | DDD | Dongotono                        |                                                                                      |
-| dde                 |           |           | DDE | Doondo                           |                                                                                      |
-| ddg                 |           |           | DDG | Fataluku                         |                                                                                      |
-| ddi                 |           |           | DDI | Diodio                           |                                                                                      |
-| ddj                 |           |           | DDJ | Jaru                             |                                                                                      |
-| ddn                 |           |           | DEN | Dendi (Benin)                    |                                                                                      |
-| ddo                 |           |           | DDO | Dido                             |                                                                                      |
-| dds                 |           |           | DDS | Donno So Dogon                   |                                                                                      |
-| ddw                 |           |           | DDW | Dawera-Daweloor                  |                                                                                      |
-| dec                 |           |           | DEC | Dagik                            |                                                                                      |
-| ded                 |           |           | DED | Dedua                            |                                                                                      |
-| dee                 |           |           | DEE | Dewoin                           |                                                                                      |
-| def                 |           |           | DEF | Dezfuli                          |                                                                                      |
-| deg                 |           |           | DEG | Degema                           |                                                                                      |
-| deh                 |           |           | DEH | Dehwari                          |                                                                                      |
-| dei                 |           |           | DEI | Demisa                           |                                                                                      |
-| dek                 |           |           | DEK | Dek                              |                                                                                      |
-| del <sub>(m)</sub>  | del       |           |     | Delaware                         | [特拉華語](https://zh.wikipedia.org/wiki/特拉華語 "wikilink")                                |
-| dem                 |           |           | DEM | Dem                              |                                                                                      |
-| den <sub>(m)</sub>  | den       |           |     | Slave (Athapascan)               | [史拉維語](https://zh.wikipedia.org/wiki/史拉維語 "wikilink")                                |
-| dep                 |           |           | DEP | Pidgin Delaware                  |                                                                                      |
-| deq                 |           |           | DEQ | Dendi (Central African Republic) |                                                                                      |
-| der                 |           |           | DER | Deori                            |                                                                                      |
-| des                 |           |           | DES | Desano                           |                                                                                      |
-| deu                 | ger; deu  | de        | GER | German                           | [德語](https://zh.wikipedia.org/wiki/德語 "wikilink")                                    |
-| dev                 |           |           | DEV | Domung                           |                                                                                      |
-| dez                 |           |           | DEZ | Dengese                          |                                                                                      |
-| dga                 |           |           | DGA | Southern Dagaare                 |                                                                                      |
-| dgb                 |           |           |     | Bunoge Dogon                     |                                                                                      |
-| dgc                 |           |           | DGC | Casiguran Dumagat Agta           |                                                                                      |
-| dgd                 |           |           | DGD | Dagaari Dioula                   |                                                                                      |
-| dge                 |           |           | DGE | Degenan                          |                                                                                      |
-| dgg                 |           |           | DGG | Doga                             |                                                                                      |
-| dgh                 |           |           | DGH | Dghwede                          |                                                                                      |
-| dgi                 |           |           | DGI | Northern Dagara                  |                                                                                      |
-| dgk                 |           |           | DGK | Dagba                            |                                                                                      |
-| dgn                 |           |           | DGN | Dagoman                          |                                                                                      |
-| dgo                 |           |           | DGO | Dogri (individual language)      |                                                                                      |
-| dgr                 | dgr       |           | DGB | Dogrib                           | [多格里布語](https://zh.wikipedia.org/wiki/多格里布語 "wikilink")                              |
-| dgs                 |           |           | DGS | Dogoso                           |                                                                                      |
-| dgu                 |           |           | DGR | Degaru                           |                                                                                      |
-| dgx                 |           |           | DGX | Doghoro                          |                                                                                      |
-| dgz                 |           |           | DGZ | Daga                             |                                                                                      |
-| dha                 |           |           | DHA | Dhanwar (India)                  |                                                                                      |
-| dhd                 |           |           | DHD | Dhundari                         |                                                                                      |
-| dhg                 |           |           | GLA | Dhangu                           |                                                                                      |
-| dhi                 |           |           | DHI | Dhimal                           |                                                                                      |
-| dhl                 |           |           | DHL | Dhalandji                        |                                                                                      |
-| dhm                 |           |           | DHM | Zemba                            |                                                                                      |
-| dhn                 |           |           | DHN | Dhanki                           |                                                                                      |
-| dho                 |           |           | DHO | Dhodia                           |                                                                                      |
-| dhr                 |           |           | DHR | Dhargari                         |                                                                                      |
-| dhs                 |           |           | DHS | Dhaiso                           |                                                                                      |
-| dhu                 |           |           | DHU | Dhurga                           |                                                                                      |
-| dhv                 |           |           | DEU | Dehu                             |                                                                                      |
-| dhw                 |           |           | DHW | Dhanwar (Nepal)                  |                                                                                      |
-| dia                 |           |           | DIA | Dia                              |                                                                                      |
-| dib                 |           |           | DIB | South Central Dinka              |                                                                                      |
-| dic                 |           |           | DIC | Lakota Dida                      |                                                                                      |
-| did                 |           |           | DID | Didinga                          |                                                                                      |
-| dif                 |           |           | DIF | Dieri                            |                                                                                      |
-| dig                 |           |           | DIG | Digo                             |                                                                                      |
-| dih                 |           |           | DIH | Kumiai                           |                                                                                      |
-| dii                 |           |           | DII | Dimbong                          |                                                                                      |
-| dij                 |           |           | DIJ | Dai                              |                                                                                      |
-| dik                 |           |           | DIK | Southwestern Dinka               |                                                                                      |
-| dil                 |           |           | DIL | Dilling                          |                                                                                      |
-| dim                 |           |           | DIM | Dime                             |                                                                                      |
-| din <sub>(m)</sub>  | din       |           |     | Dinka                            | [丁卡語](https://zh.wikipedia.org/wiki/丁卡語 "wikilink")                                  |
-| dio                 |           |           | DIO | Dibo                             |                                                                                      |
-| dip                 |           |           | DIP | Northeastern Dinka               |                                                                                      |
-| diq                 |           |           | DIQ | Dimli                            | [南扎扎其語](https://zh.wikipedia.org/wiki/南扎扎其語 "wikilink")                              |
-| dir                 |           |           | DIR | Dirim                            |                                                                                      |
-| dis                 |           |           | DIS | Dimasa                           |                                                                                      |
-| dit                 |           |           | DIT | Dirari                           |                                                                                      |
-| diu                 |           |           | DIU | Diriku                           |                                                                                      |
-| div                 | div       | dv        | SNM | Dhivehi                          | [迪維希語](https://zh.wikipedia.org/wiki/迪維希語 "wikilink")                                |
-| diw                 |           |           | DIW | Northwestern Dinka               |                                                                                      |
-| dix                 |           |           | DIX | Dixon Reef                       |                                                                                      |
-| diy                 |           |           | DIY | Diuwe                            |                                                                                      |
-| diz                 |           |           | DIZ | Ding                             |                                                                                      |
-| djb                 |           |           | DJB | Djinba                           |                                                                                      |
-| djc                 |           |           | DJC | Dar Daju Daju                    |                                                                                      |
-| djd                 |           |           | DJD | Djamindjung                      |                                                                                      |
-| dje                 |           |           | DJE | Zarma                            | [哲爾馬語](https://zh.wikipedia.org/wiki/哲爾馬語 "wikilink")                                |
-| djf                 |           |           | DJF | Djangun                          |                                                                                      |
-| dji                 |           |           | DJI | Djinang                          |                                                                                      |
-| djj                 |           |           | DJJ | Djeebbana                        |                                                                                      |
-| djk                 |           |           | DJK | Aukan                            |                                                                                      |
-| djl                 |           |           | DJL | Djiwarli                         |                                                                                      |
-| djm                 |           |           | DJM | Jamsay Dogon                     |                                                                                      |
-| djn                 |           |           | DJN | Djauan                           |                                                                                      |
-| djo                 |           |           | DJO | Jangkang                         |                                                                                      |
-| djr                 |           |           | DJR | Djambarrpuyngu                   |                                                                                      |
-| dju                 |           |           | DJU | Kapriman                         |                                                                                      |
-| djw                 |           |           | DJW | Djawi                            |                                                                                      |
-| dka                 |           |           | DKA | Dakpakha                         |                                                                                      |
-| dkk                 |           |           | DKK | Dakka                            |                                                                                      |
-| dkl                 |           |           | DKL | Kolum So Dogon                   |                                                                                      |
-| dkr                 |           |           | DKR | Kuijau                           |                                                                                      |
-| dks                 |           |           | DIN | Southeastern Dinka               |                                                                                      |
-| dkx                 |           |           | DKX | Mazagway                         |                                                                                      |
-| dlg                 |           |           | DLG | Dolgan                           | [多爾干語](https://zh.wikipedia.org/wiki/多爾干語 "wikilink")                                |
-| dlm                 |           |           | DLM | Dalmatian                        | [達爾馬提亞語](https://zh.wikipedia.org/wiki/達爾馬提亞語 "wikilink")                            |
-| dln                 |           |           | DLN | Darlong                          |                                                                                      |
-| dma                 |           |           | DMA | Duma                             |                                                                                      |
-| dmc                 |           |           | DMC | Dimir                            |                                                                                      |
-| dme                 |           |           | DME | Dugwor                           |                                                                                      |
-| dmg                 |           |           | DMG | Upper Kinabatangan               |                                                                                      |
-| dmk                 |           |           | DMK | Domaaki                          |                                                                                      |
-| dml                 |           |           | DML | Dameli                           |                                                                                      |
-| dmm                 |           |           | DMM | Dama                             |                                                                                      |
-| dmn <sub>(f)</sub>  |           |           |     | Mande languages                  | [曼德語族](../Page/曼德語族.md "wikilink")                                                   |
-| dmo                 |           |           | DMO | Kemezung                         |                                                                                      |
-| dmr                 |           |           | DMR | East Damar                       |                                                                                      |
-| dms                 |           |           | DMS | Dampelas                         |                                                                                      |
-| dmu                 |           |           | DMU | Dubu                             |                                                                                      |
-| dmv                 |           |           | DMV | Dumpas                           |                                                                                      |
-| dmx                 |           |           | DMX | Dema                             |                                                                                      |
-| dmy                 |           |           | DMY | Demta                            |                                                                                      |
-| dna                 |           |           | DNA | Upper Grand Valley Dani          |                                                                                      |
-| dnd                 |           |           | DND | Daonda                           |                                                                                      |
-| dne                 |           |           | DNE | Ndendeule                        |                                                                                      |
-| dng                 |           |           | DNG | Dungan                           | [東干語](https://zh.wikipedia.org/wiki/東干語 "wikilink")                                  |
-| dni                 |           |           | DNI | Lower Grand Valley Dani          |                                                                                      |
-| dnk                 |           |           | DNK | Dengka                           |                                                                                      |
-| dnn                 |           |           | DNN | Dzùùngoo                         |                                                                                      |
-| dnr                 |           |           | DNR | Danaru                           |                                                                                      |
-| dnt                 |           |           | DNT | Mid Grand Valley Dani            |                                                                                      |
-| dnu                 |           |           | DNU | Danau                            |                                                                                      |
-| dnw                 |           |           | DNW | Western Dani                     |                                                                                      |
-| dny                 |           |           | DAN | Dení                             |                                                                                      |
-| doa                 |           |           | DOA | Dom                              |                                                                                      |
-| dob                 |           |           | DOB | Dobu                             |                                                                                      |
-| doc                 |           |           | DOC | Northern Dong                    | [北侗語](https://zh.wikipedia.org/wiki/北侗語 "wikilink")                                  |
-| doe                 |           |           | DOE | Doe                              |                                                                                      |
-| dof                 |           |           | DOF | Domu                             |                                                                                      |
-| doh                 |           |           | DOH | Dong                             |                                                                                      |
-| doi <sub>(m)</sub>  | doi       |           |     | Dogri (macrolanguage)            | [多格拉語](https://zh.wikipedia.org/wiki/多格拉語 "wikilink")                                |
-| dok                 |           |           | DOK | Dondo                            |                                                                                      |
-| dol                 |           |           | DOL | Doso                             |                                                                                      |
-| don                 |           |           | DON | Toura (Papua New Guinea)         |                                                                                      |
-| doo                 |           |           | DOO | Dongo                            |                                                                                      |
-| dop                 |           |           | DOP | Lukpa                            |                                                                                      |
-| doq                 |           |           | DOQ | Dominican Sign Language          | [多米尼加手語](https://zh.wikipedia.org/wiki/多米尼加手語 "wikilink")                            |
-| dor                 |           |           | DOR | Dori'o                           |                                                                                      |
-| dos                 |           |           | DOS | Dogosé                           |                                                                                      |
-| dot                 |           |           | DOT | Dass                             |                                                                                      |
-| dov                 |           |           | DOV | Dombe                            |                                                                                      |
-| dow                 |           |           | DOW | Doyayo                           |                                                                                      |
-| dox                 |           |           | DOX | Bussa                            |                                                                                      |
-| doy                 |           |           | DOY | Dompo                            |                                                                                      |
-| doz                 |           |           | DOZ | Dorze                            |                                                                                      |
-| dpp                 |           |           | DPP | Papar                            |                                                                                      |
-| dra <sub>(r)</sub>  | dra       |           |     | Dravidian (Other)                | [達羅毗荼諸語言](https://zh.wikipedia.org/wiki/達羅毗荼諸語言 "wikilink")                          |
-| drb                 |           |           | DRB | Dair                             |                                                                                      |
-| drd                 |           |           | DRD | Darmiya                          |                                                                                      |
-| dre                 |           |           | DRE | Dolpo                            |                                                                                      |
-| drg                 |           |           | DRG | Rungus                           |                                                                                      |
-| drh                 |           |           | DAY | Darkhat                          | [達爾哈特語](https://zh.wikipedia.org/wiki/達爾哈特語 "wikilink")                              |
-| dri                 |           |           | DRI | C'lela                           |                                                                                      |
-| drl                 |           |           | DRL | Darling                          |                                                                                      |
-| drn                 |           |           | DRN | West Damar                       |                                                                                      |
-| dro                 |           |           | DRO | Daro-Matu Melanau                |                                                                                      |
-| drq                 |           |           | DRQ | Dura                             |                                                                                      |
-| drr                 |           |           | DRR | Dororo                           |                                                                                      |
-| drs                 |           |           | DRS | Gedeo                            |                                                                                      |
-| drt                 |           |           | DRT | Drents                           |                                                                                      |
-| dru                 |           |           | DRU | Rukai                            | [魯凱語](../Page/魯凱語.md "wikilink")                                                     |
-| drw                 |           |           | DRW | Darwazi                          |                                                                                      |
-| dry                 |           |           | DRY | Darai                            |                                                                                      |
-| dsb                 | dsb       |           | WEE | Lower Sorbian                    | [下索布語](https://zh.wikipedia.org/wiki/下索布語 "wikilink")                                |
-| dse                 |           |           | DSE | Dutch Sign Language              | [荷蘭手語](https://zh.wikipedia.org/wiki/荷蘭手語 "wikilink")                                |
-| dsh                 |           |           | DSH | Daasanach                        |                                                                                      |
-| dsi                 |           |           | DIV | Disa                             |                                                                                      |
-| dsl                 |           |           | DSL | Danish Sign Language             | [丹麥手語](https://zh.wikipedia.org/wiki/丹麥手語 "wikilink")                                |
-| dsn                 |           |           | DSN | Dusner                           |                                                                                      |
-| dso                 |           |           | DSO | Desiya                           |                                                                                      |
-| dsq                 |           |           | DSQ | Tadaksahak                       |                                                                                      |
-| dta                 |           |           | DTA | Daur                             | [達斡爾語](https://zh.wikipedia.org/wiki/達斡爾語 "wikilink")                                |
-| dtb                 |           |           | DTB | Labuk-Kinabatangan Kadazan       |                                                                                      |
-| dti                 |           |           |     | Ana Tinga Dogon                  |                                                                                      |
-| dtk                 |           |           | DTK | Tene Kan Dogon                   |                                                                                      |
-| dtm                 |           |           | DTM | Tomo Kan Dogon                   |                                                                                      |
-| dtp                 |           |           | DTP | Central Dusun                    |                                                                                      |
-| dtr                 |           |           | DTR | Lotud                            |                                                                                      |
-| dts                 |           |           | DTS | Toro So Dogon                    |                                                                                      |
-| dtt                 |           |           | DTT | Toro Tegu Dogon                  |                                                                                      |
-| dtu                 |           |           |     | Tebul Ure Dogon                  |                                                                                      |
-| dua                 | dua       |           | DOU | Duala                            | [杜亞拉語](https://zh.wikipedia.org/wiki/杜亞拉語 "wikilink")                                |
-| dub                 |           |           | DUB | Dubli                            |                                                                                      |
-| duc                 |           |           | DUC | Duna                             |                                                                                      |
-| dud                 |           |           | DUD | Hun-Saare                        |                                                                                      |
-| due                 |           |           | DUE | Umiray Dumaget Agta              |                                                                                      |
-| duf                 |           |           | DUF | Dumbea                           |                                                                                      |
-| dug                 |           |           | DUG | Duruma                           |                                                                                      |
-| duh                 |           |           | DUH | Dungra Bhil                      |                                                                                      |
-| dui                 |           |           | DUI | Dumun                            |                                                                                      |
-| duj                 |           |           | DUJ | Dhuwal                           |                                                                                      |
-| duk                 |           |           | DUK | Duduela                          |                                                                                      |
-| dul                 |           |           | DUL | Alabat Island Agta               |                                                                                      |
-| dum                 | dum       |           |     | Middle Dutch (ca. 1050-1350)     | [中古荷蘭語](https://zh.wikipedia.org/wiki/中古荷蘭語 "wikilink")                              |
-| dun                 |           |           | DUN | Dusun Deyah                      |                                                                                      |
-| duo                 |           |           | DUO | Dupaninan Agta                   |                                                                                      |
-| dup                 |           |           | DUP | Duano                            |                                                                                      |
-| duq                 |           |           | DUQ | Dusun Malang                     |                                                                                      |
-| dur                 |           |           | DUR | Dii                              |                                                                                      |
-| dus                 |           |           | DUS | Dumi                             |                                                                                      |
-| dut <sub>(b)</sub>  | dut; nld  | nl        | DUT | Dutch                            | [荷蘭語](../Page/荷蘭語.md "wikilink")                                                     |
-| duu                 |           |           | DUU | Drung                            | [獨龍語](https://zh.wikipedia.org/wiki/獨龍語 "wikilink")                                  |
-| duv                 |           |           | DUV | Duvle                            |                                                                                      |
-| duw                 |           |           | DUW | Dusun Witu                       |                                                                                      |
-| dux                 |           |           | DUX | Duungooma                        |                                                                                      |
-| duy                 |           |           | DUY | Dicamay Agta                     |                                                                                      |
-| duz                 |           |           | DUZ | Duli                             |                                                                                      |
-| dva                 |           |           | DUA | Duau                             |                                                                                      |
-| dwa                 |           |           | DWA | Diri                             |                                                                                      |
-| dwl                 |           |           |     | Walo Kumbe Dogon                 |                                                                                      |
-| dwr                 |           |           |     | Dawro                            |                                                                                      |
-| dws                 |           |           |     | Dutton World Speedwords          |                                                                                      |
-| dww                 |           |           | DWW | Dawawa                           |                                                                                      |
-| dya                 |           |           | DYA | Dyan                             |                                                                                      |
-| dyb                 |           |           | DYB | Dyaberdyaber                     |                                                                                      |
-| dyd                 |           |           | DYD | Dyugun                           |                                                                                      |
-| dyg                 |           |           | DYG | Villa Viciosa Agta               |                                                                                      |
-| dyi                 |           |           | DYI | Djimini Senoufo                  |                                                                                      |
-| dyk <sub>(rn)</sub> |           |           | DYK | Land Dayak                       | 此語言不存在                                                                               |
-| dym                 |           |           |     | Yanda Dom Dogon                  |                                                                                      |
-| dyn                 |           |           | DYN | Dyangadi                         |                                                                                      |
-| dyo                 |           |           | DYO | Jola-Fonyi                       |                                                                                      |
-| dyu                 | dyu       |           | DYU | Dyula                            | [迪尤拉語](https://zh.wikipedia.org/wiki/迪尤拉語 "wikilink")                                |
-| dyy                 |           |           | DYY | Dyaabugay                        |                                                                                      |
-| dza                 |           |           | DZA | Tunzu                            |                                                                                      |
-| dzd                 |           |           | DZD | Daza                             |                                                                                      |
-| dzg                 |           |           | DAK | Dazaga                           |                                                                                      |
-| dzl                 |           |           | DZL | Dzalakha                         |                                                                                      |
-| dzn                 |           |           | DZN | Dzando                           |                                                                                      |
-| dzo                 | dzo       | dz        | DZO | Dzongkha                         | [宗喀語](../Page/宗喀語.md "wikilink")、[不丹語](https://zh.wikipedia.org/wiki/不丹語 "wikilink") |
+|- \![daa](https://zh.wikipedia.org/wiki/ISO_639:daa "wikilink")  | ||
+||I/L|| || ||Dangaléat|| || || || || |-
+\![dac](https://zh.wikipedia.org/wiki/ISO_639:dac "wikilink")  | ||
+||I/L|| || ||Dambi|| || || || || |-
+\![dad](https://zh.wikipedia.org/wiki/ISO_639:dad "wikilink")  | ||
+||I/L|| || ||Marik|| || || || || |-
+\![dae](https://zh.wikipedia.org/wiki/ISO_639:dae "wikilink")  | ||
+||I/L|| || ||Duupa|| || || || || |-
+\!([daf](https://zh.wikipedia.org/wiki/ISO_639:daf "wikilink"))  | ||
+||I/L|| || ||Dan|| || || || || |-
+\![dag](https://zh.wikipedia.org/wiki/ISO_639:dag "wikilink")  | ||
+||I/L|| || ||Dagbani|| || ||达戈姆巴语|| || |-
+\![dah](https://zh.wikipedia.org/wiki/ISO_639:dah "wikilink")  | ||
+||I/L|| || ||Gwahatike|| || || || || |-
+\![dai](https://zh.wikipedia.org/wiki/ISO_639:dai "wikilink")  | ||
+||I/L|| || ||Day|| || || || || |-
+\![daj](https://zh.wikipedia.org/wiki/ISO_639:daj "wikilink")  | ||
+||I/L|| || ||Daju, Dar Fur|| || || || || |-
+\![dak](https://zh.wikipedia.org/wiki/ISO_639:dak "wikilink")  |
+||dak||I/L|| ||Lakhota||Dakota||Dakota||Dakota||达科他语||дакота|| |-
+\![dal](https://zh.wikipedia.org/wiki/ISO_639:dal "wikilink")  | ||
+||I/L|| || ||Dahalo|| || || || || |-
+\![dam](https://zh.wikipedia.org/wiki/ISO_639:dam "wikilink")  | ||
+||I/L|| || ||Damakawa|| || || || || |-
+\![dan](https://zh.wikipedia.org/wiki/ISO_639:dan "wikilink")
+|da||dan||I/L||Indo-European||dansk||Danish||danois||danés||丹麦语||датский||Dänisch
+|- \![dao](https://zh.wikipedia.org/wiki/ISO_639:dao "wikilink")  | ||
+||I/L|| || ||Chin, Daai|| || || || || |-
+\!([dap](https://zh.wikipedia.org/wiki/ISO_639:dap "wikilink"))  | ||
+||I/L|| || ||Nisi|| || || || || |-
+\![daq](https://zh.wikipedia.org/wiki/ISO_639:daq "wikilink")  | ||
+||I/L|| || ||Maria, Dandami|| || || || || |-
+\![dar](https://zh.wikipedia.org/wiki/ISO_639:dar "wikilink")  |
+||dar||I/L||
+||дарган||Dargwa||dargwa||dargínico||达尔格瓦语||даргинский||Darginisch
+|- \![das](https://zh.wikipedia.org/wiki/ISO_639:das "wikilink")  | ||
+||I/L|| || ||Daho-Doo|| || || || || |-
+\!([dat](https://zh.wikipedia.org/wiki/ISO_639:dat "wikilink"))  | || ||
+|| || ||Darang Deng|| || || || || |-
+\![dau](https://zh.wikipedia.org/wiki/ISO_639:dau "wikilink")  | ||
+||I/L|| || ||Daju, Dar Sila|| || || || || |-
+\![dav](https://zh.wikipedia.org/wiki/ISO_639:dav "wikilink")  | ||
+||I/L|| || ||Taita|| || || || || |-
+\![daw](https://zh.wikipedia.org/wiki/ISO_639:daw "wikilink")  | ||
+||I/L|| || ||Davawenyo|| || || || || |-
+\![dax](https://zh.wikipedia.org/wiki/ISO_639:dax "wikilink")  | ||
+||I/L|| || ||Dayi|| || || || || |-
+\![daz](https://zh.wikipedia.org/wiki/ISO_639:daz "wikilink")  | ||
+||I/L|| || ||Dao|| || || || || |-
+\![dba](https://zh.wikipedia.org/wiki/ISO_639:dba "wikilink")  | ||
+||I/L|| || ||Dogon, Bangeri Me|| || || || || |-
+\![dbb](https://zh.wikipedia.org/wiki/ISO_639:dbb "wikilink")  | ||
+||I/L|| || ||Deno|| || || || || |-
+\![dbd](https://zh.wikipedia.org/wiki/ISO_639:dbd "wikilink")  | ||
+||I/L|| || ||Dadiya|| || || || || |-
+\![dbe](https://zh.wikipedia.org/wiki/ISO_639:dbe "wikilink")  | ||
+||I/L|| || ||Dabe|| || || || || |-
+\![dbf](https://zh.wikipedia.org/wiki/ISO_639:dbf "wikilink")  | ||
+||I/L|| || ||Edopi|| || || || || |-
+\![dbg](https://zh.wikipedia.org/wiki/ISO_639:dbg "wikilink")  | ||
+||I/L|| || ||Dogon, Dogul Dom|| || || || || |-
+\![dbi](https://zh.wikipedia.org/wiki/ISO_639:dbi "wikilink")  | ||
+||I/L|| || ||Doka|| || || || || |-
+\![dbj](https://zh.wikipedia.org/wiki/ISO_639:dbj "wikilink")  | ||
+||I/L|| || ||Ida'an|| || || || || |-
+\![dbl](https://zh.wikipedia.org/wiki/ISO_639:dbl "wikilink")  | ||
+||I/L|| || ||Dyirbal|| || || || || |-
+\![dbm](https://zh.wikipedia.org/wiki/ISO_639:dbm "wikilink")  | ||
+||I/L|| || ||Duguri|| || || || || |-
+\![dbn](https://zh.wikipedia.org/wiki/ISO_639:dbn "wikilink")  | ||
+||I/L|| || ||Duriankere|| || || || || |-
+\![dbo](https://zh.wikipedia.org/wiki/ISO_639:dbo "wikilink")  | ||
+||I/L|| || ||Dulbu|| || || || || |-
+\![dbp](https://zh.wikipedia.org/wiki/ISO_639:dbp "wikilink")  | ||
+||I/L|| || ||Duwai|| || || || || |-
+\![dbq](https://zh.wikipedia.org/wiki/ISO_639:dbq "wikilink")  | ||
+||I/L|| || ||Daba|| || || || || |-
+\![dbr](https://zh.wikipedia.org/wiki/ISO_639:dbr "wikilink")  | ||
+||I/L|| || ||Dabarre|| || || || || |-
+\![dbt](https://zh.wikipedia.org/wiki/ISO_639:dbt "wikilink")  | ||
+||I/L|| || ||Ben Tey Dogon|| || || || || |-
+\![dbu](https://zh.wikipedia.org/wiki/ISO_639:dbu "wikilink")  | ||
+||I/L|| || ||Dogon, Bondum Dom|| || || || || |-
+\![dbv](https://zh.wikipedia.org/wiki/ISO_639:dbv "wikilink")  | ||
+||I/L|| || ||Dungu|| || || || || |-
+\![dbw](https://zh.wikipedia.org/wiki/ISO_639:dbw "wikilink")  | ||
+||I/L|| || ||Bankan Tey Dogon|| || || || || |-
+\![dby](https://zh.wikipedia.org/wiki/ISO_639:dby "wikilink")  | ||
+||I/L|| || ||Dibiyaso|| || || || || |-
+\![dcc](https://zh.wikipedia.org/wiki/ISO_639:dcc "wikilink")  | ||
+||I/L|| || ||Deccan|| || || || || |-
+\![dcr](https://zh.wikipedia.org/wiki/ISO_639:dcr "wikilink")  | ||
+||I/E|| || ||Negerhollands|| || || || || |-
+\![dda](https://zh.wikipedia.org/wiki/ISO_639:dda "wikilink")  | ||
+||I/E|| || ||Dadi Dadi|| || || || || |-
+\![ddd](https://zh.wikipedia.org/wiki/ISO_639:ddd "wikilink")  | ||
+||I/L|| || ||Dongotono|| || || || || |-
+\![dde](https://zh.wikipedia.org/wiki/ISO_639:dde "wikilink")  | ||
+||I/L|| || ||Doondo|| || || || || |-
+\![ddg](https://zh.wikipedia.org/wiki/ISO_639:ddg "wikilink")  | ||
+||I/L|| || ||Fataluku|| || || || || |-
+\![ddi](https://zh.wikipedia.org/wiki/ISO_639:ddi "wikilink")  | ||
+||I/L|| || ||Diodio|| || || || || |-
+\![ddj](https://zh.wikipedia.org/wiki/ISO_639:ddj "wikilink")  | ||
+||I/L|| || ||Jaru|| || || || || |-
+\![ddn](https://zh.wikipedia.org/wiki/ISO_639:ddn "wikilink")  | ||
+||I/L|| || ||Dendi (Benin)|| || || || || |-
+\![ddo](https://zh.wikipedia.org/wiki/ISO_639:ddo "wikilink")  | ||
+||I/L|| ||цез||Tsez|| || || ||цезский||Tsesisch |-
+\![ddr](https://zh.wikipedia.org/wiki/ISO_639:ddr "wikilink")  | ||
+||I/E|| || ||Dhudhuroa|| || || || || |-
+\![dds](https://zh.wikipedia.org/wiki/ISO_639:dds "wikilink")  | ||
+||I/L|| || ||Dogon, Donno So|| || || || || |-
+\![ddw](https://zh.wikipedia.org/wiki/ISO_639:ddw "wikilink")  | ||
+||I/L|| || ||Dawera-Daweloor|| || || || || |-
+\![dec](https://zh.wikipedia.org/wiki/ISO_639:dec "wikilink")  | ||
+||I/L|| || ||Dagik|| || || || || |-
+\![ded](https://zh.wikipedia.org/wiki/ISO_639:ded "wikilink")  | ||
+||I/L|| || ||Dedua|| || || || || |-
+\![dee](https://zh.wikipedia.org/wiki/ISO_639:dee "wikilink")  | ||
+||I/L|| || ||Dewoin|| || || || || |-
+\![def](https://zh.wikipedia.org/wiki/ISO_639:def "wikilink")  | ||
+||I/L|| || ||Dezfuli|| || || || || |-
+\![deg](https://zh.wikipedia.org/wiki/ISO_639:deg "wikilink")  | ||
+||I/L|| || ||Degema|| || || || || |-
+\![deh](https://zh.wikipedia.org/wiki/ISO_639:deh "wikilink")  | ||
+||I/L|| || ||Dehwari|| || || || || |-
+\![dei](https://zh.wikipedia.org/wiki/ISO_639:dei "wikilink")  | ||
+||I/L|| || ||Demisa|| || || || || |-
+\![dek](https://zh.wikipedia.org/wiki/ISO_639:dek "wikilink")  | ||
+||I/L|| || ||Dek|| || || || || |-
+\![del](https://zh.wikipedia.org/wiki/ISO_639:del "wikilink")  |
+||del||M/L|| ||Lënape||Delaware||Delaware||Delaware||特拉华语||делаварский||
+|- \![dem](https://zh.wikipedia.org/wiki/ISO_639:dem "wikilink")  | ||
+||I/L|| || ||Dem|| || || || || |-
+\![den](https://zh.wikipedia.org/wiki/ISO_639:den "wikilink")  |
+||den||M/L|| || ||Slave (Athapascan)||esclave (Athapascan)|| ||史拉维语|| ||
+|- \![dep](https://zh.wikipedia.org/wiki/ISO_639:dep "wikilink")  | ||
+||I/E|| || ||Delaware, Pidgin|| || || || || |-
+\![deq](https://zh.wikipedia.org/wiki/ISO_639:deq "wikilink")  | ||
+||I/L|| || ||Dendi (Central African Republic)|| || || || || |-
+\![der](https://zh.wikipedia.org/wiki/ISO_639:der "wikilink")  | ||
+||I/L|| || ||Deori|| || || || || |-
+\![des](https://zh.wikipedia.org/wiki/ISO_639:des "wikilink")  | ||
+||I/L|| || ||Desano|| || || || || |-
+\![deu](https://zh.wikipedia.org/wiki/ISO_639:deu "wikilink")
+|de||ger||I/L||Indo-European||Deutsch||German||allemand||alemán||德语||немецкий||Deutsch
+|- \![dev](https://zh.wikipedia.org/wiki/ISO_639:dev "wikilink")  | ||
+||I/L|| || ||Domung|| || || || || |-
+\![dez](https://zh.wikipedia.org/wiki/ISO_639:dez "wikilink")  | ||
+||I/L|| || ||Dengese|| || || || || |-
+\![dga](https://zh.wikipedia.org/wiki/ISO_639:dga "wikilink")  | ||
+||I/L|| || ||Dagaare, Southern|| || || || || |-
+\![dgb](https://zh.wikipedia.org/wiki/ISO_639:dgb "wikilink")  | ||
+||I/L|| || ||Bunoge Dogon|| || || || || |-
+\![dgc](https://zh.wikipedia.org/wiki/ISO_639:dgc "wikilink")  | ||
+||I/L|| || ||Agta, Casiguran Dumagat|| || || || || |-
+\![dgd](https://zh.wikipedia.org/wiki/ISO_639:dgd "wikilink")  | ||
+||I/L|| || ||Dagaari Dioula|| || || ||дагаари диула|| |-
+\![dge](https://zh.wikipedia.org/wiki/ISO_639:dge "wikilink")  | ||
+||I/L|| || ||Degenan|| || || || || |-
+\![dgg](https://zh.wikipedia.org/wiki/ISO_639:dgg "wikilink")  | ||
+||I/L|| || ||Doga|| || || || || |-
+\![dgh](https://zh.wikipedia.org/wiki/ISO_639:dgh "wikilink")  | ||
+||I/L|| || ||Dghwede|| || || || || |-
+\![dgi](https://zh.wikipedia.org/wiki/ISO_639:dgi "wikilink")  | ||
+||I/L|| || ||Dagara, Northern|| || || || || |-
+\![dgk](https://zh.wikipedia.org/wiki/ISO_639:dgk "wikilink")  | ||
+||I/L|| || ||Dagba|| || || || || |-
+\![dgl](https://zh.wikipedia.org/wiki/ISO_639:dgl "wikilink")  | ||
+||I/L|| || ||Andaandi|| || || || || |-
+\![dgn](https://zh.wikipedia.org/wiki/ISO_639:dgn "wikilink")  | ||
+||I/E|| || ||Dagoman|| || || || || |-
+\![dgo](https://zh.wikipedia.org/wiki/ISO_639:dgo "wikilink")  | ||
+||I/L|| || ||Dogri (specific)|| || || || || |-
+\![dgr](https://zh.wikipedia.org/wiki/ISO_639:dgr "wikilink")  |
+||dgr||I/L|| ||Tłįchǫ||Dogrib||dogrib|| ||多格里布语|| || |-
+\![dgs](https://zh.wikipedia.org/wiki/ISO_639:dgs "wikilink")  | ||
+||I/L|| || ||Dogoso|| || || || || |-
+\![dgt](https://zh.wikipedia.org/wiki/ISO_639:dgt "wikilink")  | ||
+||I/E|| || ||Ndrag'ngith|| || || || || |-
+\![dgu](https://zh.wikipedia.org/wiki/ISO_639:dgu "wikilink")  | ||
+||I/L|| || ||Degaru|| || || || || |-
+\![dgw](https://zh.wikipedia.org/wiki/ISO_639:dgw "wikilink")  | ||
+||I/E|| || ||Daungwurrung|| || || || || |-
+\![dgx](https://zh.wikipedia.org/wiki/ISO_639:dgx "wikilink")  | ||
+||I/L|| || ||Doghoro|| || || || || |-
+\![dgz](https://zh.wikipedia.org/wiki/ISO_639:dgz "wikilink")  | ||
+||I/L|| || ||Daga|| || || || || |-
+\!([dha](https://zh.wikipedia.org/wiki/ISO_639:dha "wikilink"))  | || ||
+|| || ||Dhanwar (spurious)|| || || || || |-
+\![dhd](https://zh.wikipedia.org/wiki/ISO_639:dhd "wikilink")  | ||
+||I/L|| || ||Dhundari|| || || || || |-
+\![dhg](https://zh.wikipedia.org/wiki/ISO_639:dhg "wikilink")  | ||
+||I/L|| || ||Dhangu|| || || || || |-
+\![dhi](https://zh.wikipedia.org/wiki/ISO_639:dhi "wikilink")  | ||
+||I/L|| || ||Dhimal|| || || || || |-
+\![dhl](https://zh.wikipedia.org/wiki/ISO_639:dhl "wikilink")  | ||
+||I/L|| || ||Dhalandji|| || || || || |-
+\![dhm](https://zh.wikipedia.org/wiki/ISO_639:dhm "wikilink")  | ||
+||I/L|| || ||Zemba|| || || || || |-
+\![dhn](https://zh.wikipedia.org/wiki/ISO_639:dhn "wikilink")  | ||
+||I/L|| || ||Dhanki|| || || || || |-
+\![dho](https://zh.wikipedia.org/wiki/ISO_639:dho "wikilink")  | ||
+||I/L|| || ||Dhodia|| || || || || |-
+\![dhr](https://zh.wikipedia.org/wiki/ISO_639:dhr "wikilink")  | ||
+||I/L|| || ||Dhargari|| || || || || |-
+\![dhs](https://zh.wikipedia.org/wiki/ISO_639:dhs "wikilink")  | ||
+||I/L|| || ||Dhaiso|| || || || || |-
+\![dhu](https://zh.wikipedia.org/wiki/ISO_639:dhu "wikilink")  | ||
+||I/E|| || ||Dhurga|| || || || || |-
+\![dhv](https://zh.wikipedia.org/wiki/ISO_639:dhv "wikilink")  | ||
+||I/L|| ||drehu||Dehu|| ||drehu|| ||деху|| |-
+\![dhw](https://zh.wikipedia.org/wiki/ISO_639:dhw "wikilink")  | ||
+||I/L|| || ||Dhanwar (Nepal)|| || || || || |-
+\![dhx](https://zh.wikipedia.org/wiki/ISO_639:dhx "wikilink")  | ||
+||I/L|| || ||Dhungaloo|| || || || || |-
+\![dia](https://zh.wikipedia.org/wiki/ISO_639:dia "wikilink")  | ||
+||I/L|| || ||Dia|| || || || || |-
+\![dib](https://zh.wikipedia.org/wiki/ISO_639:dib "wikilink")  | ||
+||I/L|| || ||Dinka, South Central|| || || || || |-
+\![dic](https://zh.wikipedia.org/wiki/ISO_639:dic "wikilink")  | ||
+||I/L|| || ||Dida, Lakota|| || || || || |-
+\![did](https://zh.wikipedia.org/wiki/ISO_639:did "wikilink")  | ||
+||I/L|| || ||Didinga|| || || || || |-
+\![dif](https://zh.wikipedia.org/wiki/ISO_639:dif "wikilink")  | ||
+||I/E|| || ||Dieri|| || || || || |-
+\![dig](https://zh.wikipedia.org/wiki/ISO_639:dig "wikilink")  | ||
+||I/L|| || ||Digo|| || || || || |-
+\![dih](https://zh.wikipedia.org/wiki/ISO_639:dih "wikilink")  | ||
+||I/L|| ||K'miai||Kumiai|| ||kumiai|| || || |-
+\![dii](https://zh.wikipedia.org/wiki/ISO_639:dii "wikilink")  | ||
+||I/L|| || ||Dimbong|| || || || || |-
+\![dij](https://zh.wikipedia.org/wiki/ISO_639:dij "wikilink")  | ||
+||I/L|| || ||Dai|| || || || || |-
+\![dik](https://zh.wikipedia.org/wiki/ISO_639:dik "wikilink")  | ||
+||I/L|| || ||Dinka, Southwestern|| || || || || |-
+\![dil](https://zh.wikipedia.org/wiki/ISO_639:dil "wikilink")  | ||
+||I/L|| || ||Dilling|| || || || || |-
+\![dim](https://zh.wikipedia.org/wiki/ISO_639:dim "wikilink")  | ||
+||I/L|| || ||Dime|| || || || || |-
+\![din](https://zh.wikipedia.org/wiki/ISO_639:din "wikilink")  |
+||din||M/L|| ||Thuɔŋjäŋ||Dinka||dinka|| ||丁卡语||динка|| |-
+\![dio](https://zh.wikipedia.org/wiki/ISO_639:dio "wikilink")  | ||
+||I/L|| || ||Dibo|| || || || || |-
+\![dip](https://zh.wikipedia.org/wiki/ISO_639:dip "wikilink")  | ||
+||I/L|| || ||Dinka, Northeastern|| || || || || |-
+\![diq](https://zh.wikipedia.org/wiki/ISO_639:diq "wikilink")  | ||
+||I/L|| || ||Dimli (individual language)|| || ||南扎扎其语||димли|| |-
+\![dir](https://zh.wikipedia.org/wiki/ISO_639:dir "wikilink")  | ||
+||I/L|| || ||Dirim|| || || || || |-
+\![dis](https://zh.wikipedia.org/wiki/ISO_639:dis "wikilink")  | ||
+||I/L|| || ||Dimasa|| || || || || |-
+\!([dit](https://zh.wikipedia.org/wiki/ISO_639:dit "wikilink"))  | ||
+||I/E|| || ||Dirari|| || || || || |-
+\![diu](https://zh.wikipedia.org/wiki/ISO_639:diu "wikilink")  | ||
+||I/L|| || ||Diriku|| || || || || |-
+\![div](https://zh.wikipedia.org/wiki/ISO_639:div "wikilink")
+|dv||div||I/L||Indo-European||ދިވެހިބަސ||Divehi||maldivien||maldivo||迪维希语||дивехи||Dhivehi
+|- \![diw](https://zh.wikipedia.org/wiki/ISO_639:diw "wikilink")  | ||
+||I/L|| || ||Dinka, Northwestern|| || || || || |-
+\![dix](https://zh.wikipedia.org/wiki/ISO_639:dix "wikilink")  | ||
+||I/L|| || ||Dixon Reef|| || || || || |-
+\![diy](https://zh.wikipedia.org/wiki/ISO_639:diy "wikilink")  | ||
+||I/L|| || ||Diuwe|| || || || || |-
+\![diz](https://zh.wikipedia.org/wiki/ISO_639:diz "wikilink")  | ||
+||I/L|| || ||Ding|| || || || || |-
+\![dja](https://zh.wikipedia.org/wiki/ISO_639:dja "wikilink")  | ||
+||I/E|| || ||Djadjawurrung|| || || || || |-
+\![djb](https://zh.wikipedia.org/wiki/ISO_639:djb "wikilink")  | ||
+||I/L|| || ||Djinba|| || || || || |-
+\![djc](https://zh.wikipedia.org/wiki/ISO_639:djc "wikilink")  | ||
+||I/L|| || ||Daju, Dar Daju|| || || || || |-
+\![djd](https://zh.wikipedia.org/wiki/ISO_639:djd "wikilink")  | ||
+||I/L|| || ||Djamindjung|| || || || || |-
+\![dje](https://zh.wikipedia.org/wiki/ISO_639:dje "wikilink")  | ||
+||I/L|| ||zarmaciine||Zarma|| || ||哲尔马语|| || |-
+\![djf](https://zh.wikipedia.org/wiki/ISO_639:djf "wikilink")  | ||
+||I/E|| || ||Djangun|| || || || || |-
+\![dji](https://zh.wikipedia.org/wiki/ISO_639:dji "wikilink")  | ||
+||I/L|| || ||Djinang|| || || || || |-
+\![djj](https://zh.wikipedia.org/wiki/ISO_639:djj "wikilink")  | ||
+||I/L|| || ||Djeebbana|| || || || || |-
+\![djk](https://zh.wikipedia.org/wiki/ISO_639:djk "wikilink")  | ||
+||I/L|| || ||Aukan|| || || || ||Aukaans |-
+\!([djl](https://zh.wikipedia.org/wiki/ISO_639:djl "wikilink"))  | ||
+||I/E|| || ||Djiwarli|| || || || || |-
+\![djm](https://zh.wikipedia.org/wiki/ISO_639:djm "wikilink")  | ||
+||I/L|| || ||Dogon, Jamsay|| || || || || |-
+\![djn](https://zh.wikipedia.org/wiki/ISO_639:djn "wikilink")  | ||
+||I/L|| || ||Djauan|| || || || || |-
+\![djo](https://zh.wikipedia.org/wiki/ISO_639:djo "wikilink")  | ||
+||I/L|| || ||Djongkang|| || || || || |-
+\![djr](https://zh.wikipedia.org/wiki/ISO_639:djr "wikilink")  | ||
+||I/L|| || ||Djambarrpuyngu|| || || || || |-
+\![dju](https://zh.wikipedia.org/wiki/ISO_639:dju "wikilink")  | ||
+||I/L|| || ||Kapriman|| || || || || |-
+\![djw](https://zh.wikipedia.org/wiki/ISO_639:djw "wikilink")  | ||
+||I/E|| || ||Djawi|| || || || || |-
+\![dka](https://zh.wikipedia.org/wiki/ISO_639:dka "wikilink")  | ||
+||I/L|| || ||Dakpakha|| || || || || |-
+\![dkk](https://zh.wikipedia.org/wiki/ISO_639:dkk "wikilink")  | ||
+||I/L|| || ||Dakka|| || || || || |-
+\!([dkl](https://zh.wikipedia.org/wiki/ISO_639:dkl "wikilink"))  | ||
+||I/L|| || ||Dogon, Kolum So|| || || || || |-
+\![dkr](https://zh.wikipedia.org/wiki/ISO_639:dkr "wikilink")  | ||
+||I/L|| || ||Kuijau|| || || || || |-
+\![dks](https://zh.wikipedia.org/wiki/ISO_639:dks "wikilink")  | ||
+||I/L|| || ||Dinka, Southeastern|| || || || || |-
+\![dkx](https://zh.wikipedia.org/wiki/ISO_639:dkx "wikilink")  | ||
+||I/L|| || ||Mazagway|| || || || || |-
+\![dlg](https://zh.wikipedia.org/wiki/ISO_639:dlg "wikilink")  | ||
+||I/L|| ||Дулҕан||Dolgan|| ||dolgan||多尔干语|| ||Dolganisch |-
+\![dlk](https://zh.wikipedia.org/wiki/ISO_639:dlk "wikilink")  | ||
+||I/L|| || ||Dahalik|| || || || || |-
+\![dlm](https://zh.wikipedia.org/wiki/ISO_639:dlm "wikilink")  | ||
+||I/E|| ||
+||Dalmatian||dalmate||dalmático||达尔马提亚语||далматинский||Dalmatisch
+|- \![dln](https://zh.wikipedia.org/wiki/ISO_639:dln "wikilink")  | ||
+||I/L|| || ||Darlong|| || || || || |-
+\![dma](https://zh.wikipedia.org/wiki/ISO_639:dma "wikilink")  | ||
+||I/L|| || ||Duma|| || || || || |-
+\![dmb](https://zh.wikipedia.org/wiki/ISO_639:dmb "wikilink")  | ||
+||I/L|| || ||Mombo Dogon|| || || || || |-
+\![dmc](https://zh.wikipedia.org/wiki/ISO_639:dmc "wikilink")  | ||
+||I/L|| || ||Dimir|| || || || || |-
+\![dmd](https://zh.wikipedia.org/wiki/ISO_639:dmd "wikilink")  | ||
+||I/E|| || ||Madhi Madhi|| || || || || |-
+\![dme](https://zh.wikipedia.org/wiki/ISO_639:dme "wikilink")  | ||
+||I/L|| || ||Dugwor|| || || || || |-
+\![dmg](https://zh.wikipedia.org/wiki/ISO_639:dmg "wikilink")  | ||
+||I/L|| || ||Kinabatangan, Upper|| || || || || |-
+\![dmk](https://zh.wikipedia.org/wiki/ISO_639:dmk "wikilink")  | ||
+||I/L|| || ||Domaaki|| || || || || |-
+\![dml](https://zh.wikipedia.org/wiki/ISO_639:dml "wikilink")  | ||
+||I/L|| || ||Dameli|| || || || || |-
+\![dmm](https://zh.wikipedia.org/wiki/ISO_639:dmm "wikilink")  | ||
+||I/L|| || ||Dama|| || || || || |-
+\![dmo](https://zh.wikipedia.org/wiki/ISO_639:dmo "wikilink")  | ||
+||I/L|| || ||Kemezung|| || || || || |-
+\![dmr](https://zh.wikipedia.org/wiki/ISO_639:dmr "wikilink")  | ||
+||I/L|| || ||Damar, East|| || || ||(вост.) дамар||Ost-Damar |-
+\![dms](https://zh.wikipedia.org/wiki/ISO_639:dms "wikilink")  | ||
+||I/L|| || ||Dampelas|| || || || || |-
+\![dmu](https://zh.wikipedia.org/wiki/ISO_639:dmu "wikilink")  | ||
+||I/L|| || ||Dubu|| || || || || |-
+\![dmv](https://zh.wikipedia.org/wiki/ISO_639:dmv "wikilink")  | ||
+||I/L|| || ||Dumpas|| || || || || |-
+\![dmw](https://zh.wikipedia.org/wiki/ISO_639:dmw "wikilink")  | ||
+||I/L|| || ||Mudburra|| || || || || |-
+\![dmx](https://zh.wikipedia.org/wiki/ISO_639:dmx "wikilink")  | ||
+||I/L|| || ||Dema|| || || || || |-
+\![dmy](https://zh.wikipedia.org/wiki/ISO_639:dmy "wikilink")  | ||
+||I/L|| || ||Demta|| || || || || |-
+\![dna](https://zh.wikipedia.org/wiki/ISO_639:dna "wikilink")  | ||
+||I/L|| || ||Dani, Upper Grand Valley|| || || || || |-
+\![dnd](https://zh.wikipedia.org/wiki/ISO_639:dnd "wikilink")  | ||
+||I/L|| || ||Daonda|| || || || || |-
+\![dne](https://zh.wikipedia.org/wiki/ISO_639:dne "wikilink")  | ||
+||I/L|| || ||Ndendeule|| || || || || |-
+\![dng](https://zh.wikipedia.org/wiki/ISO_639:dng "wikilink")  | ||
+||I/L||Sino-Tibetan|| Хуэйзў йүян (Huejzw
+jyian)||Dungan||[Doungane](https://zh.wikipedia.org/wiki/:fr:Doungane_\(langue\) "wikilink")
+||
+||[:东干语](https://zh.wikipedia.org/wiki/:东干语 "wikilink")||[дунганский](https://zh.wikipedia.org/wiki/:ru:Дунганский_язык "wikilink")||
+|- \![dni](https://zh.wikipedia.org/wiki/ISO_639:dni "wikilink")  | ||
+||I/L|| || ||Dani, Lower Grand Valley|| || || || || |-
+\![dnj](https://zh.wikipedia.org/wiki/ISO_639:dnj "wikilink")  | ||
+||I/L|| || ||Dan|| || || || || |-
+\![dnk](https://zh.wikipedia.org/wiki/ISO_639:dnk "wikilink")  | ||
+||I/L|| || ||Dengka|| || || || || |-
+\![dnn](https://zh.wikipedia.org/wiki/ISO_639:dnn "wikilink")  | ||
+||I/L|| || ||Dzùùngoo|| || || || || |-
+\![dno](https://zh.wikipedia.org/wiki/ISO_639:dno "wikilink")  | ||
+||I/L||Nilo-Saharan|| ||Ndrulo, Northern Lendu|| || || || || |-
+\![dnr](https://zh.wikipedia.org/wiki/ISO_639:dnr "wikilink")  | ||
+||I/L|| || ||Danaru|| || || || || |-
+\![dnt](https://zh.wikipedia.org/wiki/ISO_639:dnt "wikilink")  | ||
+||I/L|| || ||Dani, Mid Grand Valley|| || || || || |-
+\![dnu](https://zh.wikipedia.org/wiki/ISO_639:dnu "wikilink")  | ||
+||I/L|| || ||Danau|| || || || || |-
+\![dnv](https://zh.wikipedia.org/wiki/ISO_639:dnv "wikilink")  | ||
+||I/L|| || ||Danu|| || || || || |-
+\![dnw](https://zh.wikipedia.org/wiki/ISO_639:dnw "wikilink")  | ||
+||I/L|| || ||Dani, Western|| || || || || |-
+\![dny](https://zh.wikipedia.org/wiki/ISO_639:dny "wikilink")  | ||
+||I/L|| || ||Dení|| || || || || |-
+\![doa](https://zh.wikipedia.org/wiki/ISO_639:doa "wikilink")  | ||
+||I/L|| || ||Dom|| || || || || |-
+\![dob](https://zh.wikipedia.org/wiki/ISO_639:dob "wikilink")  | ||
+||I/L|| || ||Dobu|| || || ||добу||Dobu |-
+\![doc](https://zh.wikipedia.org/wiki/ISO_639:doc "wikilink")  | ||
+||I/L|| || ||Dong, Northern|| || ||北侗语|| || |-
+\![doe](https://zh.wikipedia.org/wiki/ISO_639:doe "wikilink")  | ||
+||I/L|| || ||Doe|| || || || || |-
+\![dof](https://zh.wikipedia.org/wiki/ISO_639:dof "wikilink")  | ||
+||I/L|| || ||Domu|| || || || || |-
+\![doh](https://zh.wikipedia.org/wiki/ISO_639:doh "wikilink")  | ||
+||I/L|| ||leec Gaeml||Dong||dong|| || || || |-
+\![doi](https://zh.wikipedia.org/wiki/ISO_639:doi "wikilink")  |
+||doi||M/L|| ||डोगरी||Dogri (generic)||dogri
+(générique)||dogri||多格拉语||догри||Dogri (allgemein) |-
+\![dok](https://zh.wikipedia.org/wiki/ISO_639:dok "wikilink")  | ||
+||I/L|| || ||Dondo|| || || || || |-
+\![dol](https://zh.wikipedia.org/wiki/ISO_639:dol "wikilink")  | ||
+||I/L|| || ||Doso|| || || || || |-
+\![don](https://zh.wikipedia.org/wiki/ISO_639:don "wikilink")  | ||
+||I/L|| || ||Toura (Papua New Guinea)|| || || || || |-
+\![doo](https://zh.wikipedia.org/wiki/ISO_639:doo "wikilink")  | ||
+||I/L|| || ||Dongo|| || || || || |-
+\![dop](https://zh.wikipedia.org/wiki/ISO_639:dop "wikilink")  | ||
+||I/L|| || ||Lukpa|| || || || || |-
+\![doq](https://zh.wikipedia.org/wiki/ISO_639:doq "wikilink")  | ||
+||I/L|| || ||Dominican Sign Language|| || ||多米尼加手语|| ||Domoinikanische
+Zeichensprache |-
+\![dor](https://zh.wikipedia.org/wiki/ISO_639:dor "wikilink")  | ||
+||I/L|| || ||Dori'o|| || || || || |-
+\![dos](https://zh.wikipedia.org/wiki/ISO_639:dos "wikilink")  | ||
+||I/L|| || ||Dogosé|| || || || || |-
+\![dot](https://zh.wikipedia.org/wiki/ISO_639:dot "wikilink")  | ||
+||I/L|| || ||Dass|| || || || || |-
+\![dov](https://zh.wikipedia.org/wiki/ISO_639:dov "wikilink")  | ||
+||I/L|| || ||Dombe|| || || || || |-
+\![dow](https://zh.wikipedia.org/wiki/ISO_639:dow "wikilink")  | ||
+||I/L|| || ||Doyayo|| || || || || |-
+\![dox](https://zh.wikipedia.org/wiki/ISO_639:dox "wikilink")  | ||
+||I/L|| || ||Bussa|| || || || || |-
+\![doy](https://zh.wikipedia.org/wiki/ISO_639:doy "wikilink")  | ||
+||I/L|| || ||Dompo|| || || || || |-
+\![doz](https://zh.wikipedia.org/wiki/ISO_639:doz "wikilink")  | ||
+||I/L|| || ||Dorze|| || || || || |-
+\![dpp](https://zh.wikipedia.org/wiki/ISO_639:dpp "wikilink")  | ||
+||I/L|| || ||Papar|| || || || || |-
+\![drb](https://zh.wikipedia.org/wiki/ISO_639:drb "wikilink")  | ||
+||I/L|| || ||Dair|| || || || || |-
+\![drc](https://zh.wikipedia.org/wiki/ISO_639:drc "wikilink")  | ||
+||I/L|| || ||Minderico|| || || || || |-
+\![drd](https://zh.wikipedia.org/wiki/ISO_639:drd "wikilink")  | ||
+||I/L|| || ||Darmiya|| || || || || |-
+\![dre](https://zh.wikipedia.org/wiki/ISO_639:dre "wikilink")  | ||
+||I/L|| || ||Dolpo|| || || || || |-
+\![drg](https://zh.wikipedia.org/wiki/ISO_639:drg "wikilink")  | ||
+||I/L|| || ||Rungus|| || || || || |-
+\!([drh](https://zh.wikipedia.org/wiki/ISO_639:drh "wikilink"))  | ||
+||I/L|| || ||Darkhat|| || ||达尔哈特语|| || |-
+\![dri](https://zh.wikipedia.org/wiki/ISO_639:dri "wikilink")  | ||
+||I/L|| || ||C'lela|| || || || || |-
+\![drl](https://zh.wikipedia.org/wiki/ISO_639:drl "wikilink")  | ||
+||I/L|| || ||Darling|| || || || || |-
+\![drn](https://zh.wikipedia.org/wiki/ISO_639:drn "wikilink")  | ||
+||I/L|| || ||Damar, West|| || || || ||West-Damar |-
+\![dro](https://zh.wikipedia.org/wiki/ISO_639:dro "wikilink")  | ||
+||I/L|| || ||Daro-Matu|| || || || || |-
+\![drq](https://zh.wikipedia.org/wiki/ISO_639:drq "wikilink")  | ||
+||I/E|| || ||Dura|| || || || || |-
+\![drr](https://zh.wikipedia.org/wiki/ISO_639:drr "wikilink")  | ||
+||I/E|| || ||Dororo|| || || || || |-
+\![drs](https://zh.wikipedia.org/wiki/ISO_639:drs "wikilink")  | ||
+||I/L|| || ||Gedeo|| || || || || |-
+\![drt](https://zh.wikipedia.org/wiki/ISO_639:drt "wikilink")  | ||
+||I/L|| || ||Drents|| || || || || |-
+\![dru](https://zh.wikipedia.org/wiki/ISO_639:dru "wikilink")  | ||
+||I/L|| || ||Rukai|| || ||鲁凯语|| ||Rukai |-
+\!([drw](https://zh.wikipedia.org/wiki/ISO_639:drw "wikilink"))  | ||
+||I/L|| || ||Darwazi|| || || || || |-
+\![dry](https://zh.wikipedia.org/wiki/ISO_639:dry "wikilink")  | ||
+||I/L|| || ||Darai|| || || || || |-
+\![dsb](https://zh.wikipedia.org/wiki/ISO_639:dsb "wikilink")  |
+||dsb||I/L|| ||dolnoserbski||Sorbian, Lower||bas-sorabe||bajo
+sorbio||下索布语; 低地文德语||нижнелужицкий||Nieder-Sorbisch |-
+\![dse](https://zh.wikipedia.org/wiki/ISO_639:dse "wikilink")  | ||
+||I/L|| || ||Dutch Sign Language|| || ||荷兰手语|| ||Holländische
+Zeichensprache |-
+\![dsh](https://zh.wikipedia.org/wiki/ISO_639:dsh "wikilink")  | ||
+||I/L|| || ||Daasanach|| || || || || |-
+\![dsi](https://zh.wikipedia.org/wiki/ISO_639:dsi "wikilink")  | ||
+||I/L|| || ||Disa|| || || || || |-
+\![dsl](https://zh.wikipedia.org/wiki/ISO_639:dsl "wikilink")  | ||
+||I/L|| || ||Danish Sign Language|| || ||丹麦手语||датский
+жестовый||Dänische Zeichensprache |-
+\![dsn](https://zh.wikipedia.org/wiki/ISO_639:dsn "wikilink")  | ||
+||I/E|| || ||Dusner|| || || || || |-
+\![dso](https://zh.wikipedia.org/wiki/ISO_639:dso "wikilink")  | ||
+||I/L|| || ||Oriya, Desiya|| || || || || |-
+\![dsq](https://zh.wikipedia.org/wiki/ISO_639:dsq "wikilink")  | ||
+||I/L|| || ||Dawsahak|| || || || || |-
+\![dta](https://zh.wikipedia.org/wiki/ISO_639:dta "wikilink")  | ||
+||I/L|| || ||Daur|| || ||达斡尔语|| || |-
+\![dtb](https://zh.wikipedia.org/wiki/ISO_639:dtb "wikilink")  | ||
+||I/L|| || ||Kadazan, Labuk-Kinabatangan|| || || || || |-
+\![dtd](https://zh.wikipedia.org/wiki/ISO_639:dtd "wikilink")  | ||
+||I/L|| || ||Ditidaht|| || || || || |-
+\![dth](https://zh.wikipedia.org/wiki/ISO_639:dth "wikilink")  | ||
+||I/E|| || ||Adithinngithigh|| || || || || |-
+\![dti](https://zh.wikipedia.org/wiki/ISO_639:dti "wikilink")  | ||
+||I/L|| || ||Dogon, Ana Tinga|| || || || || |-
+\![dtk](https://zh.wikipedia.org/wiki/ISO_639:dtk "wikilink")  | ||
+||I/L|| || ||Dogon, Tene Kan|| || || || || |-
+\![dtm](https://zh.wikipedia.org/wiki/ISO_639:dtm "wikilink")  | ||
+||I/L|| || ||Dogon, Tomo Kan|| || || || || |-
+\![dtn](https://zh.wikipedia.org/wiki/ISO_639:dtn "wikilink")  | ||
+||I/L|| || ||Daats'iin|| || || || || |-
+\![dto](https://zh.wikipedia.org/wiki/ISO_639:dto "wikilink")  | ||
+||I/L|| || ||Tommo So Dogon|| || || || || |-
+\![dtp](https://zh.wikipedia.org/wiki/ISO_639:dtp "wikilink")  | ||
+||I/L|| || ||Dusun, Central|| || || || || |-
+\![dtr](https://zh.wikipedia.org/wiki/ISO_639:dtr "wikilink")  | ||
+||I/L|| || ||Lotud|| || || || || |-
+\![dts](https://zh.wikipedia.org/wiki/ISO_639:dts "wikilink")  | ||
+||I/L|| || ||Dogon, Toro So|| || || || || |-
+\![dtt](https://zh.wikipedia.org/wiki/ISO_639:dtt "wikilink")  | ||
+||I/L|| || ||Dogon, Toro Tegu|| || || || || |-
+\![dtu](https://zh.wikipedia.org/wiki/ISO_639:dtu "wikilink")  | ||
+||I/L|| || ||Dogon, Tebul Ure|| || || || || |-
+\![dty](https://zh.wikipedia.org/wiki/ISO_639:dty "wikilink")  | ||
+||I/L|| || ||Dotyali|| || || || || |-
+\![dua](https://zh.wikipedia.org/wiki/ISO_639:dua "wikilink")  |
+||dua||I/L|| ||Duala||Duala||douala|| ||杜亚拉语||дуала|| |-
+\![dub](https://zh.wikipedia.org/wiki/ISO_639:dub "wikilink")  | ||
+||I/L|| || ||Dubli|| || || || || |-
+\![duc](https://zh.wikipedia.org/wiki/ISO_639:duc "wikilink")  | ||
+||I/L|| || ||Duna|| || || || || |-
+\!([dud](https://zh.wikipedia.org/wiki/ISO_639:dud "wikilink"))  | ||
+||I/L|| || ||Hun-Saare|| || || || || |-
+\![due](https://zh.wikipedia.org/wiki/ISO_639:due "wikilink")  | ||
+||I/L|| || ||Agta, Umiray Dumaget|| || || || || |-
+\![duf](https://zh.wikipedia.org/wiki/ISO_639:duf "wikilink")  | ||
+||I/L|| || ||Dumbea|| || || || || |-
+\![dug](https://zh.wikipedia.org/wiki/ISO_639:dug "wikilink")  | ||
+||I/L|| || ||Duruma|| || || || || |-
+\![duh](https://zh.wikipedia.org/wiki/ISO_639:duh "wikilink")  | ||
+||I/L|| || ||Dungra Bhil|| || || || || |-
+\![dui](https://zh.wikipedia.org/wiki/ISO_639:dui "wikilink")  | ||
+||I/L|| || ||Dumun|| || || || || |-
+\!([duj](https://zh.wikipedia.org/wiki/ISO_639:duj "wikilink"))  | ||
+||I/L|| || ||Dhuwal|| || || || || |-
+\![duk](https://zh.wikipedia.org/wiki/ISO_639:duk "wikilink")  | ||
+||I/L|| || ||Duduela|| || || || || |-
+\![dul](https://zh.wikipedia.org/wiki/ISO_639:dul "wikilink")  | ||
+||I/L|| || ||Agta, Alabat Island|| || || || || |-
+\![dum](https://zh.wikipedia.org/wiki/ISO_639:dum "wikilink")  |
+||dum||I/H|| || ||Dutch, Middle (ca.1050-1350)||néerlandais
+moyen||neerlandés
+medio||中古荷兰语||средненидерландский||Mittelniederländisch
+|- \![dun](https://zh.wikipedia.org/wiki/ISO_639:dun "wikilink")  | ||
+||I/L|| || ||Dusun Deyah|| || || || || |-
+\![duo](https://zh.wikipedia.org/wiki/ISO_639:duo "wikilink")  | ||
+||I/L|| || ||Agta, Dupaninan|| || || || || |-
+\![dup](https://zh.wikipedia.org/wiki/ISO_639:dup "wikilink")  | ||
+||I/L|| || ||Duano'|| || || || || |-
+\![duq](https://zh.wikipedia.org/wiki/ISO_639:duq "wikilink")  | ||
+||I/L|| || ||Dusun Malang|| || || || || |-
+\![dur](https://zh.wikipedia.org/wiki/ISO_639:dur "wikilink")  | ||
+||I/L|| || ||Dii|| || || || || |-
+\![dus](https://zh.wikipedia.org/wiki/ISO_639:dus "wikilink")  | ||
+||I/L|| || ||Dumi|| || || || || |-
+\![duu](https://zh.wikipedia.org/wiki/ISO_639:duu "wikilink")  | ||
+||I/L|| || ||Drung|| || ||独龙语|| || |-
+\![duv](https://zh.wikipedia.org/wiki/ISO_639:duv "wikilink")  | ||
+||I/L|| || ||Duvle|| || || || || |-
+\![duw](https://zh.wikipedia.org/wiki/ISO_639:duw "wikilink")  | ||
+||I/L|| || ||Dusun Witu|| || || || || |-
+\![dux](https://zh.wikipedia.org/wiki/ISO_639:dux "wikilink")  | ||
+||I/L|| || ||Duungooma|| || || || || |-
+\![duy](https://zh.wikipedia.org/wiki/ISO_639:duy "wikilink")  | ||
+||I/E|| || ||Agta, Dicamay|| || || || || |-
+\![duz](https://zh.wikipedia.org/wiki/ISO_639:duz "wikilink")  | ||
+||I/E|| || ||Duli|| || || || || |-
+\![dva](https://zh.wikipedia.org/wiki/ISO_639:dva "wikilink")  | ||
+||I/L|| || ||Duau|| || || || || |-
+\![dwa](https://zh.wikipedia.org/wiki/ISO_639:dwa "wikilink")  | ||
+||I/L|| || ||Diri|| || || || || |-
+\!([dwl](https://zh.wikipedia.org/wiki/ISO_639:dwl "wikilink"))  | ||
+||I/L|| || ||Dogon, Walo Kumbe|| || || || || |-
+\![dwr](https://zh.wikipedia.org/wiki/ISO_639:dwr "wikilink")  | ||
+||I/L|| || ||Dawro|| || || || || |-
+\![dws](https://zh.wikipedia.org/wiki/ISO_639:dws "wikilink")  | ||
+||I/C|| || ||Dutton World Speedwords|| || || || || |-
+\![dwu](https://zh.wikipedia.org/wiki/ISO_639:dwu "wikilink")  | ||
+||I/L||Pama–Nyungan|| ||Dhuwal|| || || || || |-
+\![dww](https://zh.wikipedia.org/wiki/ISO_639:dww "wikilink")  | ||
+||I/L||Austronesian|| ||Dawawa|| || || || || |-
+\![dwy](https://zh.wikipedia.org/wiki/ISO_639:dwy "wikilink")  | ||
+||I/L||Pama–Nyungan|| ||Dhuwaya|| || || || || |-
+\![dwz](https://zh.wikipedia.org/wiki/ISO_639:dwz "wikilink")  | ||
+||I/L||Indo-European|| ||Dewas Rai|| || || || || |-
+\![dya](https://zh.wikipedia.org/wiki/ISO_639:dya "wikilink")  | ||
+||I/L|| || ||Dyan|| || || || || |-
+\![dyb](https://zh.wikipedia.org/wiki/ISO_639:dyb "wikilink")  | ||
+||I/E|| || ||Dyaberdyaber|| || || || || |-
+\![dyd](https://zh.wikipedia.org/wiki/ISO_639:dyd "wikilink")  | ||
+||I/E|| || ||Dyugun|| || || || || |-
+\![dyg](https://zh.wikipedia.org/wiki/ISO_639:dyg "wikilink")  | ||
+||I/E|| || ||Agta, Villa Viciosa|| || || || || |-
+\![dyi](https://zh.wikipedia.org/wiki/ISO_639:dyi "wikilink")  | ||
+||I/L|| || ||Senoufo, Djimini|| || || || || |-
+\!([dyk](https://zh.wikipedia.org/wiki/ISO_639:dyk "wikilink"))  | || ||
+|| || ||Land Dayak|| || || || || |-
+\![dym](https://zh.wikipedia.org/wiki/ISO_639:dym "wikilink")  | ||
+||I/L|| || ||Dogon, Yanda Dom|| || || || || |-
+\![dyn](https://zh.wikipedia.org/wiki/ISO_639:dyn "wikilink")  | ||
+||I/L|| || ||Dyangadi|| || || || || |-
+\![dyo](https://zh.wikipedia.org/wiki/ISO_639:dyo "wikilink")  | ||
+||I/L|| || ||Jola-Fonyi|| || || || || |-
+\![dyu](https://zh.wikipedia.org/wiki/ISO_639:dyu "wikilink")  |
+||dyu||I/L|| ||Julakan||Dyula||dioula|| ||迪尤拉语||диула||Dioula |-
+\![dyy](https://zh.wikipedia.org/wiki/ISO_639:dyy "wikilink")  | ||
+||I/L|| || ||Dyaabugay|| || || || || |-
+\![dza](https://zh.wikipedia.org/wiki/ISO_639:dza "wikilink")  | ||
+||I/L|| || ||Duguza|| || || || || |-
+\!([dzd](https://zh.wikipedia.org/wiki/ISO_639:dzd "wikilink"))  | ||
+||I/L|| || ||Daza|| || || || || |-
+\![dze](https://zh.wikipedia.org/wiki/ISO_639:dze "wikilink")  | ||
+||I/E|| || ||Djiwarli|| || || || || |-
+\![dzg](https://zh.wikipedia.org/wiki/ISO_639:dzg "wikilink")  | ||
+||I/L|| || ||Dazaga|| || || || || |-
+\![dzl](https://zh.wikipedia.org/wiki/ISO_639:dzl "wikilink")  | ||
+||I/L|| || ||Dzalakha|| || || || || |-
+\![dzn](https://zh.wikipedia.org/wiki/ISO_639:dzn "wikilink")  | ||
+||I/L|| || ||Dzando|| || || || || |-
+\![dzo](https://zh.wikipedia.org/wiki/ISO_639:dzo "wikilink")
+|dz||dzo||I/L||Sino-Tibetan||རྫོང་ཁ||Dzongkha||dzongkha||dzongkha||宗喀语;
+不丹语||дзонг-кэ||Dzongkha |}
 
 [Category:ISO_639](https://zh.wikipedia.org/wiki/Category:ISO_639 "wikilink")
-[Category:语言列表](https://zh.wikipedia.org/wiki/Category:语言列表 "wikilink")

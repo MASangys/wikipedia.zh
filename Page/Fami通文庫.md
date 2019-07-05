@@ -26,7 +26,7 @@ SOFT公司作品的小說化、以及紙上RPG遊戲的遊戲歷程為主，Logo
   - [東宮家的石像怪](https://zh.wikipedia.org/wiki/東宮家的石像怪 "wikilink")（田口仙年堂／日向悠二）
   - [喪女會的不當日常](https://zh.wikipedia.org/wiki/喪女會的不當日常 "wikilink")（／）
   - [黑鋼的魔紋修復士](https://zh.wikipedia.org/wiki/黑鋼的魔紋修復士 "wikilink")（[嬉野秋彥](https://zh.wikipedia.org/wiki/嬉野秋彥 "wikilink")/）
-  - [賢者之孫](https://zh.wikipedia.org/wiki/賢者之孫 "wikilink")（[吉岡剛](https://zh.wikipedia.org/wiki/吉岡剛 "wikilink")/）
+  - [賢者之孫](../Page/賢者之孫.md "wikilink")（[吉岡剛](https://zh.wikipedia.org/wiki/吉岡剛 "wikilink")/）
 
 ### 尖端出版
 

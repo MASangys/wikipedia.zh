@@ -137,7 +137,7 @@ R34的外观涂装相同。此外，在中控台下方以及发动机上还貼�
 
 ### GT-R50 by Italdesign
 
-日產與及意大利汽車設計工程公司Italdesign合作設計了GT-R50 by
+日產與意大利汽車設計工程公司Italdesign合作設計了GT-R50 by
 Italdesign，於2018年6月首度亮相，原本只是為了慶祝GT-R與Italdesign
 50周年而研發的概念車，但於同年的Goodwood Festival of Speed中宣布量產，限量50台，售價為100萬美元。
 

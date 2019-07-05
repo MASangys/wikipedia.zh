@@ -19,7 +19,7 @@ VIIIA族元素或0族元素，又称为[稀有气体或惰性气体](../Page/稀
 \!**[16](../Page/氧族元素.md "wikilink")**
 \!**[17](https://zh.wikipedia.org/wiki/鹵素 "wikilink")**
 \!**[18](https://zh.wikipedia.org/wiki/稀有氣體 "wikilink")**
-|period1tail=​|period2tail=​|period3tail=​|period1tail={{\!}}{{\!}}|period2tail={{\!}}{{\!}}|period3tail={{\!}}{{\!}}|period4tail={{\!}}{{\!}}|period5tail={{\!}}{{\!}}|period6tail={{\!}}{{\!}}|period7tail={{\!}}{{\!}}|periodtopmiddle=​|period1middle={{\!}}colspan=5{{\!}}
+|period1tail={{\!}}{{\!}}|period2tail={{\!}}{{\!}}|period3tail={{\!}}{{\!}}|period4tail={{\!}}{{\!}}|period5tail={{\!}}{{\!}}|period6tail={{\!}}{{\!}}|period7tail={{\!}}{{\!}}|periodtopmiddle=​|period1middle={{\!}}colspan=5{{\!}}
 }}
 
 ## 参见

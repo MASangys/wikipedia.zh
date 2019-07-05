@@ -22,6 +22,7 @@ Henderson**），生于[美国](../Page/美国.md "wikilink")[贝克斯菲尔德
 [Category:日本男子篮球运动员](https://zh.wikipedia.org/wiki/Category:日本男子篮球运动员 "wikilink")
 [Category:孟菲斯灰熊队球员](https://zh.wikipedia.org/wiki/Category:孟菲斯灰熊队球员 "wikilink")
 [Category:歸化日本公民](https://zh.wikipedia.org/wiki/Category:歸化日本公民 "wikilink")
+[Category:非洲裔日本人](https://zh.wikipedia.org/wiki/Category:非洲裔日本人 "wikilink")
 
 1.  "American Henderson Has A Yen to Play For Japan," Reuters, July 17,
     2007.

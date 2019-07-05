@@ -48,7 +48,7 @@
 </tbody>
 </table>
 
-**KV2**位於[埃及](../Page/埃及.md "wikilink")[帝王谷](../Page/帝王谷.md "wikilink")，是[古埃及](https://zh.wikipedia.org/wiki/古埃及 "wikilink")[第二十王朝](../Page/埃及第二十王朝.md "wikilink")[法老](../Page/法老.md "wikilink")[拉美西斯四世的陵墓](../Page/拉美西斯四世.md "wikilink")，位於[KV7及](https://zh.wikipedia.org/wiki/KV7 "wikilink")[KV1之間](../Page/KV1.md "wikilink")，在古代已經被打開。
+**KV2**位於[埃及](../Page/埃及.md "wikilink")[帝王谷](../Page/帝王谷.md "wikilink")，是[古埃及](../Page/古埃及.md "wikilink")[第二十王朝](../Page/埃及第二十王朝.md "wikilink")[法老](../Page/法老.md "wikilink")[拉美西斯四世的陵墓](../Page/拉美西斯四世.md "wikilink")，位於[KV7及](https://zh.wikipedia.org/wiki/KV7 "wikilink")[KV1之間](../Page/KV1.md "wikilink")，在古代已經被打開。
 
 陵墓內的雕刻幾乎完整無缺，刻有的銘文包括有《[拉之連禱](https://zh.wikipedia.org/wiki/拉之連禱 "wikilink")》、《[洞穴之書](https://zh.wikipedia.org/wiki/洞穴之書 "wikilink")》、《[亡靈書](https://zh.wikipedia.org/wiki/亡靈書 "wikilink")》、《[陰間書](https://zh.wikipedia.org/wiki/陰間書 "wikilink")》（音譯《阿姆達特書》）、《[天堂之書](https://zh.wikipedia.org/wiki/天堂之書 "wikilink")》及《[地獄之書](https://zh.wikipedia.org/wiki/地獄之書 "wikilink")》。\[1\]
 

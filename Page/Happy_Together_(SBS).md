@@ -10,7 +10,7 @@ Together**》（）是[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikil
   - [姜成妍](../Page/姜成妍.md "wikilink") 飾 **徐文珠**
   - [全智賢](../Page/全智賢.md "wikilink") 飾 **徐允珠**
   - [曹在顯](../Page/曹在顯.md "wikilink") 飾 **趙畢斗**
-  - [車太鉉](https://zh.wikipedia.org/wiki/車太鉉 "wikilink") 飾 **車新榮**
+  - [車太鉉](../Page/車太鉉.md "wikilink") 飾 **車新榮**
   - [韓高恩](../Page/韓高恩.md "wikilink") 飾 **尹采琳**
   - [孫賢周](../Page/孫賢周.md "wikilink") 飾 **朴　荷**
   - [朴仁煥](../Page/朴仁煥.md "wikilink") 飾 **穗荷父**

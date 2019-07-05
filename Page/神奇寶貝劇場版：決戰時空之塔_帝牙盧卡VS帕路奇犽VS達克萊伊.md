@@ -53,7 +53,7 @@
 <td><p>艾莉絲</p></td>
 <td><p><a href="../Page/加藤羅莎.md" title="wikilink">加藤羅莎</a><br />
 <a href="../Page/能登麻美子.md" title="wikilink">能登麻美子</a>（童年）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/江若琳" title="wikilink">江若琳</a></p></td>
+<td><p><a href="../Page/江若琳.md" title="wikilink">江若琳</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>艾伯特男爵</p></td>

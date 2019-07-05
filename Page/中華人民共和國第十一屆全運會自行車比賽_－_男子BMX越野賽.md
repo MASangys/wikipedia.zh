@@ -52,7 +52,7 @@
 | 2  | [朱岩](https://zh.wikipedia.org/wiki/朱岩 "wikilink") ([山東](https://zh.wikipedia.org/wiki/山東 "wikilink"))                 | 2     | 3     | 2     | 7   | **Q** |
 | 3  | [孫越](https://zh.wikipedia.org/wiki/孫越 "wikilink") ([解放軍](https://zh.wikipedia.org/wiki/解放軍 "wikilink"))               | 3     | 2     | 4     | 9   | **Q** |
 | 4  | [阿賽提江．阿克巴爾江](https://zh.wikipedia.org/wiki/阿賽提江．阿克巴爾江 "wikilink") ([新疆](https://zh.wikipedia.org/wiki/新疆 "wikilink")) | 5     | 5     | 3     | 13  | **Q** |
-| 5  | [唐浩然](https://zh.wikipedia.org/wiki/唐浩然 "wikilink") ([四川](https://zh.wikipedia.org/wiki/四川 "wikilink"))               | 4     | 4     | 5     | 13  |       |
+| 5  | [唐浩然](../Page/唐浩然.md "wikilink") ([四川](https://zh.wikipedia.org/wiki/四川 "wikilink"))                                  | 4     | 4     | 5     | 13  |       |
 
   - 第5組﹕
 

@@ -1,5 +1,5 @@
 [Yaoi_Books_by_miyagawa.jpg](https://zh.wikipedia.org/wiki/File:Yaoi_Books_by_miyagawa.jpg "fig:Yaoi_Books_by_miyagawa.jpg")[紀伊國屋的Yaoi書櫃一角](https://zh.wikipedia.org/wiki/紀伊國屋 "wikilink")\]\]
-**Yaoi**（****）是以[男男色情為題材的](https://zh.wikipedia.org/wiki/男男色情 "wikilink")[漫畫與](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[小說的俗稱](https://zh.wikipedia.org/wiki/小說 "wikilink")，通常指有描寫性愛的[色情作品](../Page/色情.md "wikilink")、[二次創作作品](../Page/二次創作.md "wikilink")。用中文表示一般写作。
+**Yaoi**（****）是以[男男色情為題材的](https://zh.wikipedia.org/wiki/男男色情 "wikilink")[漫畫與](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[小說的俗稱](https://zh.wikipedia.org/wiki/小說 "wikilink")，通常指有描寫[性愛的](https://zh.wikipedia.org/wiki/性愛 "wikilink")[色情作品](../Page/色情.md "wikilink")、[二次創作作品](../Page/二次創作.md "wikilink")。
 
 ## 概要
 

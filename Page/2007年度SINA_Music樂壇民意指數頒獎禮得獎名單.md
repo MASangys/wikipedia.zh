@@ -74,7 +74,7 @@ Power」，主持為[崔建邦](../Page/崔建邦.md "wikilink")、[楊愛瑾](.
 <!-- end list -->
 
   - 我最喜愛女新人
-      - 金獎：[江若琳](https://zh.wikipedia.org/wiki/江若琳 "wikilink")
+      - 金獎：[江若琳](../Page/江若琳.md "wikilink")
       - 銀獎：[李卓庭](../Page/李卓庭.md "wikilink")
       - 銅獎：[萱寧](https://zh.wikipedia.org/wiki/萱寧 "wikilink")
 

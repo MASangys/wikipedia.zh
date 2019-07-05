@@ -39,7 +39,7 @@ ENTERTAINMENT發行](https://zh.wikipedia.org/wiki/GENEON_ENTERTAINMENT "wikilin
 
       - 作詞：西田惠美；作曲：佐伯高志；編曲：前口渉
 
-7.    - 作詞：[及川眠子](https://zh.wikipedia.org/wiki/及川眠子 "wikilink")；作曲：[田代智一](https://zh.wikipedia.org/wiki/田代智一 "wikilink")；編曲：大坪直樹
+7.    - 作詞：[及川眠子](../Page/及川眠子.md "wikilink")；作曲：[田代智一](https://zh.wikipedia.org/wiki/田代智一 "wikilink")；編曲：大坪直樹
 
 8.  [ebullient
     future](https://zh.wikipedia.org/wiki/ebullient_future "wikilink")

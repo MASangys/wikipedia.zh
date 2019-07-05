@@ -5,6 +5,8 @@
 
 [龐巴迪宇航公司於](https://zh.wikipedia.org/wiki/龐巴迪宇航公司 "wikilink")1987年決定研發20-100座級的支線[客機](https://zh.wikipedia.org/wiki/客機 "wikilink")，其產品的飛行距離相對地較為短，載客量也較低，但能提供較密集的[航班](https://zh.wikipedia.org/wiki/航班 "wikilink")，這一點是一般大型客機做不到的。而新客機除了可以替換日本、歐洲的舊款飛機之外，在[中國](../Page/中國.md "wikilink")、印尼、印度等開發中的大國家有潛在的市場，尤其中國將需要大量支線客機\[1\]，2005年在中國已有51架CRJ系列飛機\[2\]。
 
+2019年6月26日：[龐巴迪以](https://zh.wikipedia.org/wiki/龐巴迪 "wikilink")5.5億美元現金出售支線客機業務[龐巴迪CRJ給](../Page/龐巴迪CRJ.md "wikilink")[三菱重工](https://zh.wikipedia.org/wiki/三菱重工 "wikilink")，與此同時，三菱重工還會承擔該業務項目約2億美元的負債。自此，龐巴迪則退出商業航空領域，三菱重工則會獲得CRJ飛機項目的維修、支持、翻新、營銷和銷售業務，還有相關的服務和支持網絡及適航認證。
+
 ## 機型
 
 [Lufthansa.crj-100.d-aclp.arp.jpg](https://zh.wikipedia.org/wiki/File:Lufthansa.crj-100.d-aclp.arp.jpg "fig:Lufthansa.crj-100.d-aclp.arp.jpg")的CRJ-100LR\]\]

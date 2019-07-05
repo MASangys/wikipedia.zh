@@ -13,6 +13,11 @@
  #   * Everything from a "#" character to the end of the line is a comment
  #   * Every non-blank line is a regex fragment which will only match hosts inside URL
 
+\bifunnymemes\.com\b # [[special:contribs/Lavacoolba|special:contribs/Lavacoolba]] start
+\bi-vaper\.com\b
+\bhowlifes\.com\b # Lavacoolba end
+\bvideo\.friday\.tw
+\b1111\.com\.tw
 \bwww\.valentinodaily\.com\b
 \bcareline\.com\.tw\b
 \bivftaiwan\.com\b

@@ -1,679 +1,1346 @@
-## M
-
-| 3字母                 | 639-2（如有） | 639-1（如有） | SIL | 英語名称                                | 中文名称                                                                                                              |
-| ------------------- | --------- | --------- | --- | ----------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| maa                 |           |           | MAA | San Jerónimo Tecóatl Mazatec        |                                                                                                                   |
-| mab                 |           |           | MAB | Yutanduchi Mixtec                   |                                                                                                                   |
-| mac <sub>(b)</sub>  | mac; mkd  | mk        | MKJ | Macedonian                          | [馬其頓語](https://zh.wikipedia.org/wiki/馬其頓語 "wikilink")                                                             |
-| mad                 | mad       |           | MHJ | Madurese                            | [馬都拉語](../Page/馬都拉語.md "wikilink")                                                                                |
-| mae                 |           |           | MAE | Bo-Rukul                            |                                                                                                                   |
-| maf                 |           |           | MAF | Mafa                                |                                                                                                                   |
-| mag                 | mag       |           | MQM | Magahi                              | [摩揭陀語](../Page/摩揭陀語.md "wikilink")、[馬加赫語](https://zh.wikipedia.org/wiki/馬加赫語 "wikilink")                          |
-| mah                 | mah       | mh        | MZM | Marshallese                         | [馬紹爾語](https://zh.wikipedia.org/wiki/馬紹爾語 "wikilink")                                                             |
-| mai                 | mai       |           | MKP | Maithili                            | [米德勒語](https://zh.wikipedia.org/wiki/米德勒語 "wikilink")、[邁蒂利語](https://zh.wikipedia.org/wiki/邁蒂利語 "wikilink")       |
-| maj                 |           |           | MAJ | Jalapa De Díaz Mazatec              |                                                                                                                   |
-| mak                 | mak       |           | MSR | Makasar                             | [望加錫語](https://zh.wikipedia.org/wiki/望加錫語 "wikilink")                                                             |
-| mal                 | mal       | ml        | MJS | Malayalam                           | [馬拉雅拉姆語](https://zh.wikipedia.org/wiki/馬拉雅拉姆語 "wikilink")                                                         |
-| mam                 |           |           | MAM | Mam                                 |                                                                                                                   |
-| man <sub>(m)</sub>  | man       |           |     | Mandingo                            | [曼丁哥語](https://zh.wikipedia.org/wiki/曼丁哥語 "wikilink")、[馬林克語](https://zh.wikipedia.org/wiki/馬林克語 "wikilink")       |
-| mao <sub>(b)</sub>  | mao; mri  | mi        | MBF | Maori                               | [毛利語](https://zh.wikipedia.org/wiki/毛利語 "wikilink")                                                               |
-| map <sub>(r)</sub>  | map       |           |     | Austronesian (Other)                | [南島語系](../Page/南島語系.md "wikilink")、[澳斯特羅尼西亞語系](https://zh.wikipedia.org/wiki/澳斯特羅尼西亞語系 "wikilink")                |
-| maq                 |           |           | MAQ | Chiquihuitlán Mazatec               |                                                                                                                   |
-| mar                 | mar       | mr        | MRT | Marathi                             | [馬拉地語](https://zh.wikipedia.org/wiki/馬拉地語 "wikilink")                                                             |
-| mas                 | mas       |           | MET | Masai                               | [馬薩伊語](https://zh.wikipedia.org/wiki/馬薩伊語 "wikilink")                                                             |
-| mat                 |           |           | MAT | San Francisco Matlatzinca           |                                                                                                                   |
-| mau                 |           |           | MAU | Huautla Mazatec                     |                                                                                                                   |
-| mav                 |           |           | MAV | Sateré-Mawé                         |                                                                                                                   |
-| maw                 |           |           | MAW | Mampruli                            |                                                                                                                   |
-| max                 |           |           | MAX | North Moluccan Malay                |                                                                                                                   |
-| may <sub>(b)</sub>  | may; msa  | ms        |     | Malay (macrolanguage)               | [馬來語](https://zh.wikipedia.org/wiki/馬來語 "wikilink")                                                               |
-| maz                 |           |           | MAZ | Central Mazahua                     |                                                                                                                   |
-| mba                 |           |           | MBA | Higaonon                            |                                                                                                                   |
-| mbb                 |           |           | MBB | Western Bukidnon Manobo             |                                                                                                                   |
-| mbc                 |           |           | MBC | Macushi                             |                                                                                                                   |
-| mbd                 |           |           | MBD | Dibabawon Manobo                    |                                                                                                                   |
-| mbe                 |           |           | MBE | Molale                              |                                                                                                                   |
-| mbf                 |           |           | BAL | Baba Malay                          |                                                                                                                   |
-| mbg <sub>(rs)</sub> |           |           | MBG | Northern Nambikuára                 | 被拆分為 apv, lkd, ltn, wmd, xtw 和 xyl                                                                                |
-| mbh                 |           |           | MBH | Mangseng                            |                                                                                                                   |
-| mbi                 |           |           | MBI | Ilianen Manobo                      |                                                                                                                   |
-| mbj                 |           |           | MBJ | Nadëb                               |                                                                                                                   |
-| mbk                 |           |           | MBK | Malol                               |                                                                                                                   |
-| mbl                 |           |           | MBL | Maxakalí                            |                                                                                                                   |
-| mbm                 |           |           | MBM | Ombamba                             |                                                                                                                   |
-| mbn                 |           |           | MBN | Macaguán                            |                                                                                                                   |
-| mbo                 |           |           | MBO | Mbo (Cameroon)                      |                                                                                                                   |
-| mbp                 |           |           | MBP | Malayo                              |                                                                                                                   |
-| mbq                 |           |           | MBQ | Maisin                              |                                                                                                                   |
-| mbr                 |           |           | MBR | Nukak Makú                          |                                                                                                                   |
-| mbs                 |           |           | MBS | Sarangani Manobo                    |                                                                                                                   |
-| mbt                 |           |           | MBT | Matigsalug Manobo                   |                                                                                                                   |
-| mbu                 |           |           | MBU | Mbula-Bwazza                        |                                                                                                                   |
-| mbv                 |           |           | MBV | Mbulungish                          |                                                                                                                   |
-| mbw                 |           |           | MBW | Maring                              |                                                                                                                   |
-| mbx                 |           |           | MBX | Mari (East Sepik Province)          |                                                                                                                   |
-| mby                 |           |           | MBY | Memoni                              |                                                                                                                   |
-| mbz                 |           |           | MBZ | Amoltepec Mixtec                    |                                                                                                                   |
-| mca                 |           |           | MCA | Maca                                |                                                                                                                   |
-| mcb                 |           |           | MCB | Machiguenga                         |                                                                                                                   |
-| mcc                 |           |           | MCC | Bitur                               |                                                                                                                   |
-| mcd                 |           |           | MCD | Sharanahua                          |                                                                                                                   |
-| mce                 |           |           | MCE | Itundujia Mixtec                    |                                                                                                                   |
-| mcf                 |           |           | MCF | Matsés                              |                                                                                                                   |
-| mcg                 |           |           | MCG | Mapoyo                              |                                                                                                                   |
-| mch                 |           |           | MCH | Maquiritari                         |                                                                                                                   |
-| mci                 |           |           | MCI | Mese                                |                                                                                                                   |
-| mcj                 |           |           | MCJ | Mvanip                              |                                                                                                                   |
-| mck                 |           |           | MCK | Mbunda                              |                                                                                                                   |
-| mcl                 |           |           | MCL | Macaguaje                           |                                                                                                                   |
-| mcm                 |           |           | MCM | Malaccan Creole Portuguese          |                                                                                                                   |
-| mcn                 |           |           | MCN | Masana                              |                                                                                                                   |
-| mco                 |           |           | MCO | Coatlán Mixe                        |                                                                                                                   |
-| mcp                 |           |           | MCP | Makaa                               |                                                                                                                   |
-| mcq                 |           |           | MCQ | Ese                                 |                                                                                                                   |
-| mcr                 |           |           | MCR | Menya                               |                                                                                                                   |
-| mcs                 |           |           | MCS | Mambai                              |                                                                                                                   |
-| mct                 |           |           | MCT | Mengisa                             |                                                                                                                   |
-| mcu                 |           |           | MYA | Cameroon Mambila                    |                                                                                                                   |
-| mcv                 |           |           | MCV | Minanibai                           |                                                                                                                   |
-| mcw                 |           |           | MCW | Mawa (Chad)                         |                                                                                                                   |
-| mcx                 |           |           | MCX | Mpiemo                              |                                                                                                                   |
-| mcy                 |           |           | MCY | South Watut                         |                                                                                                                   |
-| mcz                 |           |           | MCZ | Mawan                               |                                                                                                                   |
-| mda                 |           |           | MDA | Mada (Nigeria)                      |                                                                                                                   |
-| mdb                 |           |           | MDB | Morigi                              |                                                                                                                   |
-| mdc                 |           |           | MDC | Male (Papua New Guinea)             |                                                                                                                   |
-| mdd                 |           |           | MDD | Mbum                                | [姆布姆語](https://zh.wikipedia.org/wiki/姆布姆語 "wikilink")                                                             |
-| mde                 |           |           | MDE | Maba (Chad)                         | [馬巴語](https://zh.wikipedia.org/wiki/馬巴語 "wikilink")                                                               |
-| mdf                 | mdf       |           | MDF | Moksha                              | [莫克沙語](../Page/莫克沙語.md "wikilink")                                                                                |
-| mdg                 |           |           | MDG | Massalat                            |                                                                                                                   |
-| mdh                 |           |           | MDH | Maguindanao                         |                                                                                                                   |
-| mdi                 |           |           | MDI | Mamvu                               |                                                                                                                   |
-| mdj                 |           |           | MDJ | Mangbetu                            | [芒貝圖語](https://zh.wikipedia.org/wiki/芒貝圖語 "wikilink")                                                             |
-| mdk                 |           |           | MDK | Mangbutu                            |                                                                                                                   |
-| mdl                 |           |           | MDL | Maltese Sign Language               | [馬耳他手語](https://zh.wikipedia.org/wiki/馬耳他手語 "wikilink")                                                           |
-| mdm                 |           |           | MDM | Mayogo                              |                                                                                                                   |
-| mdn                 |           |           | MDN | Mbati                               |                                                                                                                   |
-| mdo <sub>(rs)</sub> |           |           | MDO | Southwest Gbaya                     | 被拆分為 gso 和 gmm                                                                                                    |
-| mdp                 |           |           | MDP | Mbala                               |                                                                                                                   |
-| mdq                 |           |           | MDQ | Mbole                               |                                                                                                                   |
-| mdr                 | mdr       |           | MHN | Mandar                              | [曼達語](https://zh.wikipedia.org/wiki/曼達語 "wikilink")                                                               |
-| mds                 |           |           | MDS | Maria (Papua New Guinea)            |                                                                                                                   |
-| mdt                 |           |           | MDT | Mbere                               |                                                                                                                   |
-| mdu                 |           |           | MDU | Mboko                               |                                                                                                                   |
-| mdv                 |           |           | MDV | Santa Lucía Monteverde Mixtec       |                                                                                                                   |
-| mdw                 |           |           | MDW | Mbosi                               |                                                                                                                   |
-| mdx                 |           |           | MDX | Dizin                               |                                                                                                                   |
-| mdy                 |           |           | MDY | Male (Ethiopia)                     |                                                                                                                   |
-| mdz                 |           |           | MDZ | Suruí Do Pará                       |                                                                                                                   |
-| mea                 |           |           | MEA | Menka                               |                                                                                                                   |
-| meb                 |           |           | MEB | Ikobi-Mena                          |                                                                                                                   |
-| mec                 |           |           | MEC | Mara                                |                                                                                                                   |
-| med                 |           |           | MED | Melpa                               |                                                                                                                   |
-| mee                 |           |           | MEE | Mengen                              |                                                                                                                   |
-| mef                 |           |           | MEF | Megam                               |                                                                                                                   |
-| meg                 |           |           | MEG | Mea                                 |                                                                                                                   |
-| meh                 |           |           | MEH | Southwestern Tlaxiaco Mixtec        |                                                                                                                   |
-| mei                 |           |           | MEI | Midob                               |                                                                                                                   |
-| mej                 |           |           | MEJ | Meyah                               |                                                                                                                   |
-| mek                 |           |           | MEK | Mekeo                               |                                                                                                                   |
-| mel                 |           |           | MEL | Central Melanau                     |                                                                                                                   |
-| mem                 |           |           | MEM | Mangala                             |                                                                                                                   |
-| men                 | men       |           | MFY | Mende (Sierra Leone)                | [門德語](https://zh.wikipedia.org/wiki/門德語 "wikilink")                                                               |
-| meo                 |           |           | MEO | Kedah Malay                         |                                                                                                                   |
-| mep                 |           |           | MEP | Miriwung                            |                                                                                                                   |
-| meq                 |           |           | MEQ | Merey                               |                                                                                                                   |
-| mer                 |           |           | MER | Meru                                | [梅魯語](https://zh.wikipedia.org/wiki/梅魯語 "wikilink")                                                               |
-| mes                 |           |           | MES | Masmaje                             |                                                                                                                   |
-| met                 |           |           | NIU | Mato                                |                                                                                                                   |
-| meu                 |           |           | MEU | Motu                                | [莫圖語](https://zh.wikipedia.org/wiki/莫圖語 "wikilink")                                                               |
-| mev                 |           |           | MEV | Mann                                |                                                                                                                   |
-| mew                 |           |           | MEW | Maaka                               |                                                                                                                   |
-| mey                 |           |           | MEY | Hassaniyya                          |                                                                                                                   |
-| mez                 |           |           | MEZ | Menominee                           | [梅諾米尼語](https://zh.wikipedia.org/wiki/梅諾米尼語 "wikilink")                                                           |
-| mfa                 |           |           | MFA | Pattani Malay                       | [亞維語](https://zh.wikipedia.org/wiki/亞維語 "wikilink")                                                               |
-| mfb                 |           |           | MFB | Bangka                              |                                                                                                                   |
-| mfc                 |           |           | MFC | Mba                                 |                                                                                                                   |
-| mfd                 |           |           | MFD | Mendankwe-Nkwen                     |                                                                                                                   |
-| mfe                 |           |           | MFE | Morisyen                            |                                                                                                                   |
-| mff                 |           |           | MFF | Naki                                |                                                                                                                   |
-| mfg                 |           |           | MFG | Mixifore                            |                                                                                                                   |
-| mfh                 |           |           | MFH | Matal                               |                                                                                                                   |
-| mfi                 |           |           | MFI | Wandala                             |                                                                                                                   |
-| mfj                 |           |           | MFJ | Mefele                              |                                                                                                                   |
-| mfk                 |           |           | MFK | North Mofu                          |                                                                                                                   |
-| mfl                 |           |           | MFL | Putai                               |                                                                                                                   |
-| mfm                 |           |           | MFM | Marghi South                        |                                                                                                                   |
-| mfn                 |           |           | MFN | Cross River Mbembe                  |                                                                                                                   |
-| mfo                 |           |           | MFO | Mbe                                 |                                                                                                                   |
-| mfp                 |           |           | MFP | Makassar Malay                      |                                                                                                                   |
-| mfq                 |           |           | MFQ | Moba                                |                                                                                                                   |
-| mfr                 |           |           | MFR | Marithiel                           |                                                                                                                   |
-| mfs                 |           |           | MFS | Mexican Sign Language               | [墨西哥手語](https://zh.wikipedia.org/wiki/墨西哥手語 "wikilink")                                                           |
-| mft                 |           |           | MFT | Mokerang                            |                                                                                                                   |
-| mfu                 |           |           | MFU | Mbwela                              |                                                                                                                   |
-| mfv                 |           |           | MFV | Mandjak                             |                                                                                                                   |
-| mfw                 |           |           | MFW | Mulaha                              |                                                                                                                   |
-| mfx                 |           |           | MFX | Melo                                |                                                                                                                   |
-| mfy                 |           |           | MAY | Mayo                                | [馬約語](https://zh.wikipedia.org/wiki/馬約語 "wikilink")                                                               |
-| mfz                 |           |           | MFZ | Mabaan                              |                                                                                                                   |
-| mga                 | mga       |           |     | Middle Irish (900-1200)             | [中古愛爾蘭語](../Page/中古愛爾蘭語.md "wikilink")                                                                            |
-| mgb                 |           |           | MGB | Mararit                             |                                                                                                                   |
-| mgc                 |           |           | MGC | Morokodo                            |                                                                                                                   |
-| mgd                 |           |           | MGD | Moru                                |                                                                                                                   |
-| mge                 |           |           | MGE | Mango                               |                                                                                                                   |
-| mgf                 |           |           | MGF | Maklew                              |                                                                                                                   |
-| mgg                 |           |           | MGG | Mpongmpong                          |                                                                                                                   |
-| mgh                 |           |           | XTO | Makhuwa-Meetto                      |                                                                                                                   |
-| mgi                 |           |           | MGI | Lijili                              |                                                                                                                   |
-| mgj                 |           |           | MGJ | Abureni                             |                                                                                                                   |
-| mgk                 |           |           | MGK | Mawes                               |                                                                                                                   |
-| mgl                 |           |           | MGL | Maleu-Kilenge                       |                                                                                                                   |
-| mgm                 |           |           | MGM | Mambae                              |                                                                                                                   |
-| mgn                 |           |           | MGN | Mbangi                              |                                                                                                                   |
-| mgo                 |           |           | MGO | Meta'                               |                                                                                                                   |
-| mgp                 |           |           | MGP | Eastern Magar                       |                                                                                                                   |
-| mgq                 |           |           | MGQ | Malila                              |                                                                                                                   |
-| mgr                 |           |           | MGR | Mambwe-Lungu                        |                                                                                                                   |
-| mgs                 |           |           | MGS | Manda (Tanzania)                    |                                                                                                                   |
-| mgt                 |           |           | MGT | Mongol                              |                                                                                                                   |
-| mgu                 |           |           | MGU | Mailu                               |                                                                                                                   |
-| mgv                 |           |           | MGV | Matengo                             |                                                                                                                   |
-| mgw                 |           |           | MGW | Matumbi                             |                                                                                                                   |
-| mgx                 |           |           | MGX | Omati                               |                                                                                                                   |
-| mgy                 |           |           | MGY | Mbunga                              |                                                                                                                   |
-| mgz                 |           |           | MGZ | Mbugwe                              |                                                                                                                   |
-| mha                 |           |           | MHA | Manda (India)                       |                                                                                                                   |
-| mhb                 |           |           | MHB | Mahongwe                            |                                                                                                                   |
-| mhc                 |           |           | MHC | Mocho                               |                                                                                                                   |
-| mhd                 |           |           | MHD | Mbugu                               |                                                                                                                   |
-| mhe                 |           |           | MHE | Besisi                              |                                                                                                                   |
-| mhf                 |           |           | MHF | Mamaa                               |                                                                                                                   |
-| mhg                 |           |           | MHG | Margu                               |                                                                                                                   |
-| mhh                 |           |           | MHH | Maskoy Pidgin                       |                                                                                                                   |
-| mhi                 |           |           | MHI | Ma'di                               |                                                                                                                   |
-| mhj                 |           |           | MLG | Mogholi                             | [莫戈勒語](https://zh.wikipedia.org/wiki/莫戈勒語 "wikilink")                                                             |
-| mhk                 |           |           | MHK | Mungaka                             |                                                                                                                   |
-| mhl                 |           |           | MHL | Mauwake                             |                                                                                                                   |
-| mhm                 |           |           | XNG | Makhuwa-Moniga                      |                                                                                                                   |
-| mhn                 |           |           | QMO | Mócheno                             | [默切諾語](https://zh.wikipedia.org/wiki/默切諾語 "wikilink")                                                             |
-| mho                 |           |           | MHO | Mashi (Zambia)                      |                                                                                                                   |
-| mhp                 |           |           | MHP | Balinese Malay                      |                                                                                                                   |
-| mhq                 |           |           | MHQ | Mandan                              |                                                                                                                   |
-| mhr                 |           |           | MAL | Eastern Mari                        | [平地馬里語](https://zh.wikipedia.org/wiki/平地馬里語 "wikilink")、[東馬里語](https://zh.wikipedia.org/wiki/東馬里語 "wikilink")     |
-| mhs                 |           |           | MHS | Buru (Indonesia)                    |                                                                                                                   |
-| mht                 |           |           | MHT | Mandahuaca                          |                                                                                                                   |
-| mhu                 |           |           | MHU | Digaro-Mishmi                       | [達讓-僜語](https://zh.wikipedia.org/wiki/達讓-僜語 "wikilink")                                                           |
-| mhv <sub>(rs)</sub> |           |           | MHV | Arakanese                           | 被拆分為 rmz 和 rki                                                                                                    |
-| mhw                 |           |           | MHW | Mbukushu                            |                                                                                                                   |
-| mhx                 |           |           | MHX | Maru                                | [浪速語](https://zh.wikipedia.org/wiki/浪速語 "wikilink")、[浪峨語](https://zh.wikipedia.org/wiki/浪峨語 "wikilink")           |
-| mhy                 |           |           | MHY | Ma'anyan                            |                                                                                                                   |
-| mhz                 |           |           | MHZ | Mor (Mor Islands)                   |                                                                                                                   |
-| mia                 |           |           | MIA | Miami                               |                                                                                                                   |
-| mib                 |           |           | MIB | Atatláhuca Mixtec                   |                                                                                                                   |
-| mic                 | mic       |           | MIC | Micmac                              | [米克馬克語](https://zh.wikipedia.org/wiki/米克馬克語 "wikilink")                                                           |
-| mid                 |           |           | MID | Mandaic                             | [曼底安語](https://zh.wikipedia.org/wiki/曼底安語 "wikilink")                                                             |
-| mie                 |           |           | MIE | Ocotepec Mixtec                     |                                                                                                                   |
-| mif                 |           |           | MIF | Mofu-Gudur                          |                                                                                                                   |
-| mig                 |           |           | MIG | San Miguel El Grande Mixtec         |                                                                                                                   |
-| mih                 |           |           | MIH | Chayuco Mixtec                      |                                                                                                                   |
-| mii                 |           |           | MII | Chigmecatitlán Mixtec               |                                                                                                                   |
-| mij                 |           |           | MIJ | Abar                                |                                                                                                                   |
-| mik                 |           |           | MIK | Mikasuki                            |                                                                                                                   |
-| mil                 |           |           | MIL | Peñoles Mixtec                      |                                                                                                                   |
-| mim                 |           |           | MIM | Alacatlatzala Mixtec                |                                                                                                                   |
-| min                 | min       |           | MPU | Minangkabau                         | [米南卡保語](https://zh.wikipedia.org/wiki/米南卡保語 "wikilink")                                                           |
-| mio                 |           |           | MIO | Pinotepa Nacional Mixtec            |                                                                                                                   |
-| mip                 |           |           | MIP | Apasco-Apoala Mixtec                |                                                                                                                   |
-| miq                 |           |           | MIQ | Mískito                             |                                                                                                                   |
-| mir                 |           |           | MIR | Isthmus Mixe                        |                                                                                                                   |
-| mis                 | mis       |           |     | Uncoded languages                   | 未被編碼的語言                                                                                                           |
-| mit                 |           |           | MIT | Southern Puebla Mixtec              |                                                                                                                   |
-| miu                 |           |           | MIU | Cacaloxtepec Mixtec                 |                                                                                                                   |
-| miv <sub>(rm)</sub> |           |           | MIV | Mimi                                | 已合併至 amj                                                                                                          |
-| miw                 |           |           | MIW | Akoye                               |                                                                                                                   |
-| mix                 |           |           | MIX | Mixtepec Mixtec                     |                                                                                                                   |
-| miy                 |           |           | MIY | Ayutla Mixtec                       |                                                                                                                   |
-| miz                 |           |           | MIZ | Coatzospan Mixtec                   |                                                                                                                   |
-| mja                 |           |           | MJA | Mahei                               |                                                                                                                   |
-| mjc                 |           |           | MJC | San Juan Colorado Mixtec            |                                                                                                                   |
-| mjd                 |           |           | MAI | Northwest Maidu                     |                                                                                                                   |
-| mje                 |           |           | MJE | Muskum                              |                                                                                                                   |
-| mjg                 |           |           | MJG | Tu                                  | [土族語](https://zh.wikipedia.org/wiki/土族語 "wikilink")                                                               |
-| mjh                 |           |           | MJH | Mwera (Nyasa)                       |                                                                                                                   |
-| mji                 |           |           | MJI | Kim Mun                             | [平地瑤話](https://zh.wikipedia.org/wiki/平地瑤話 "wikilink")、[金門話](https://zh.wikipedia.org/wiki/金門話 "wikilink")         |
-| mjj                 |           |           | MJJ | Mawak                               |                                                                                                                   |
-| mjk                 |           |           | MJK | Matukar                             |                                                                                                                   |
-| mjl                 |           |           | MJL | Mandeali                            |                                                                                                                   |
-| mjm                 |           |           | MJM | Medebur                             |                                                                                                                   |
-| mjn                 |           |           | MJN | Ma (Papua New Guinea)               |                                                                                                                   |
-| mjo                 |           |           | MJO | Malankuravan                        |                                                                                                                   |
-| mjp                 |           |           | MJP | Malapandaram                        |                                                                                                                   |
-| mjq                 |           |           | MJQ | Malaryan                            |                                                                                                                   |
-| mjr                 |           |           | MJR | Malavedan                           |                                                                                                                   |
-| mjs                 |           |           | CHP | Miship                              |                                                                                                                   |
-| mjt                 |           |           | MJT | Sauria Paharia                      |                                                                                                                   |
-| mju                 |           |           | MJU | Manna-Dora                          |                                                                                                                   |
-| mjv                 |           |           | MJV | Mannan                              |                                                                                                                   |
-| mjw                 |           |           | MJW | Karbi                               |                                                                                                                   |
-| mjx                 |           |           | MJX | Mahali                              |                                                                                                                   |
-| mjy                 |           |           | MJY | Mahican                             |                                                                                                                   |
-| mjz                 |           |           | MJZ | Majhi                               | [摩杰語](https://zh.wikipedia.org/wiki/摩杰語 "wikilink")                                                               |
-| mka                 |           |           | MKA | Mbre                                |                                                                                                                   |
-| mkb                 |           |           | MKB | Mal Paharia                         |                                                                                                                   |
-| mkc                 |           |           | MKC | Siliput                             |                                                                                                                   |
-| mkd                 | mac; mkd  | mk        | MKJ | Macedonian                          | [馬其頓語](https://zh.wikipedia.org/wiki/馬其頓語 "wikilink")                                                             |
-| mke                 |           |           | MKE | Mawchi                              |                                                                                                                   |
-| mkf                 |           |           | MKF | Miya                                |                                                                                                                   |
-| mkg                 |           |           | MKG | Mak (China)                         | [莫語](https://zh.wikipedia.org/wiki/莫語 "wikilink")                                                                 |
-| mkh <sub>(r)</sub>  | mkh       |           |     | Mon-Khmer (Other)                   | [孟-高棉語族](https://zh.wikipedia.org/wiki/孟-高棉語族 "wikilink")                                                         |
-| mki                 |           |           | MKI | Dhatki                              |                                                                                                                   |
-| mkj                 |           |           | MNO | Mokilese                            |                                                                                                                   |
-| mkk                 |           |           | MKK | Byep                                |                                                                                                                   |
-| mkl                 |           |           | MKL | Mokole                              |                                                                                                                   |
-| mkm                 |           |           | MKM | Moklen                              | [莫肯語](https://zh.wikipedia.org/wiki/莫肯語 "wikilink")                                                               |
-| mkn                 |           |           | MKN | Kupang Malay                        |                                                                                                                   |
-| mko                 |           |           | MKO | Mingang Doso                        |                                                                                                                   |
-| mkp                 |           |           | DOI | Moikodi                             |                                                                                                                   |
-| mkq                 |           |           | MKQ | Bay Miwok                           |                                                                                                                   |
-| mkr                 |           |           | MKR | Malas                               |                                                                                                                   |
-| mks                 |           |           | MKS | Silacayoapan Mixtec                 |                                                                                                                   |
-| mkt                 |           |           | MKT | Vamale                              |                                                                                                                   |
-| mku                 |           |           | MKU | Konyanka Maninka                    |                                                                                                                   |
-| mkv                 |           |           | MKV | Mafea                               |                                                                                                                   |
-| mkw                 |           |           | MKW | Kituba (Congo)                      |                                                                                                                   |
-| mkx                 |           |           | MKX | Cinamiguin Manobo                   |                                                                                                                   |
-| mky                 |           |           | MKY | East Makian                         |                                                                                                                   |
-| mkz                 |           |           | MKZ | Makasae                             |                                                                                                                   |
-| mla                 |           |           | MLA | Malo                                |                                                                                                                   |
-| mlb                 |           |           | MLB | Mbule                               |                                                                                                                   |
-| mlc                 |           |           | MLC | Cao Lan                             | [高欄語](https://zh.wikipedia.org/wiki/高欄語 "wikilink")                                                               |
-| mld                 |           |           | MLD | Malakhel                            |                                                                                                                   |
-| mle                 |           |           | MLE | Manambu                             |                                                                                                                   |
-| mlf                 |           |           | MLF | Mal                                 |                                                                                                                   |
-| mlg <sub>(m)</sub>  | mlg       | mg        |     | Malagasy                            | [馬達加斯加語](https://zh.wikipedia.org/wiki/馬達加斯加語 "wikilink")、[馬拉加西語](https://zh.wikipedia.org/wiki/馬拉加西語 "wikilink") |
-| mlh                 |           |           | MLH | Mape                                |                                                                                                                   |
-| mli                 |           |           | MLT | Malimpung                           |                                                                                                                   |
-| mlj                 |           |           | MLJ | Miltu                               |                                                                                                                   |
-| mlk                 |           |           | MLK | Ilwana                              |                                                                                                                   |
-| mll                 |           |           | MLL | Malua Bay                           |                                                                                                                   |
-| mlm                 |           |           | MLM | Mulam                               | [仫佬語](https://zh.wikipedia.org/wiki/仫佬語 "wikilink")                                                               |
-| mln                 |           |           | MLN | Malango                             |                                                                                                                   |
-| mlo                 |           |           | QML | Mlomp                               |                                                                                                                   |
-| mlp                 |           |           | MLP | Bargam                              |                                                                                                                   |
-| mlq                 |           |           | MLQ | Western Maninkakan                  |                                                                                                                   |
-| mlr                 |           |           | MLR | Vame                                |                                                                                                                   |
-| mls                 |           |           | MSA | Masalit                             |                                                                                                                   |
-| mlt                 | mlt       | mt        | MLS | Maltese                             | [馬耳他語](https://zh.wikipedia.org/wiki/馬耳他語 "wikilink")、[馬爾他語](https://zh.wikipedia.org/wiki/馬爾他語 "wikilink")       |
-| mlu                 |           |           | MLU | To'abaita                           |                                                                                                                   |
-| mlv                 |           |           | MLV | Motlav                              |                                                                                                                   |
-| mlw                 |           |           | MLW | Moloko                              |                                                                                                                   |
-| mlx                 |           |           | MLX | Malfaxal                            |                                                                                                                   |
-| mly <sub>(rs)</sub> |           |           | MLI | Malay (individual language)         | [馬來語](https://zh.wikipedia.org/wiki/馬來語 "wikilink")；被拆分為 zsm, hji, pmy 和 zlm                                      |
-| mlz                 |           |           | MLZ | Malaynon                            |                                                                                                                   |
-| mma                 |           |           | MMA | Mama                                |                                                                                                                   |
-| mmb                 |           |           | MMB | Momina                              |                                                                                                                   |
-| mmc                 |           |           | QMN | Michoacán Mazahua                   |                                                                                                                   |
-| mmd                 |           |           | MMD | Maonan                              | [毛南語](https://zh.wikipedia.org/wiki/毛南語 "wikilink")                                                               |
-| mme                 |           |           | MME | Mae                                 |                                                                                                                   |
-| mmf                 |           |           | MMF | Mundat                              |                                                                                                                   |
-| mmg                 |           |           | MMG | North Ambrym                        |                                                                                                                   |
-| mmh                 |           |           | MMH | Mehináku                            |                                                                                                                   |
-| mmi                 |           |           | MMI | Musar                               |                                                                                                                   |
-| mmj                 |           |           | MMJ | Majhwar                             |                                                                                                                   |
-| mmk                 |           |           | MMK | Mukha-Dora                          |                                                                                                                   |
-| mml                 |           |           | MML | Man Met                             |                                                                                                                   |
-| mmm                 |           |           | MMM | Maii                                |                                                                                                                   |
-| mmn                 |           |           | MMN | Mamanwa                             |                                                                                                                   |
-| mmo                 |           |           | MMO | Mangga Buang                        |                                                                                                                   |
-| mmp                 |           |           | MMP | Siawi                               |                                                                                                                   |
-| mmq                 |           |           | MMQ | Musak                               |                                                                                                                   |
-| mmr                 |           |           | MMR | Western Xiangxi Miao                | [西紅苗話](https://zh.wikipedia.org/wiki/西紅苗話 "wikilink")                                                             |
-| mms <sub>(rm)</sub> |           |           | MMS | Southern Mam                        | 已合併至 mam                                                                                                          |
-| mmt                 |           |           | MMT | Malalamai                           |                                                                                                                   |
-| mmu                 |           |           | MMU | Mmaala                              |                                                                                                                   |
-| mmv                 |           |           | MMV | Miriti                              |                                                                                                                   |
-| mmw                 |           |           | MMW | Emae                                |                                                                                                                   |
-| mmx                 |           |           | MMX | Madak                               |                                                                                                                   |
-| mmy                 |           |           | MMY | Migaama                             |                                                                                                                   |
-| mmz                 |           |           | MMZ | Mabaale                             |                                                                                                                   |
-| mna                 |           |           | MNA | Mbula                               |                                                                                                                   |
-| mnb                 |           |           | MYN | Muna                                |                                                                                                                   |
-| mnc                 | mnc       |           | MJF | Manchu                              | [滿語](https://zh.wikipedia.org/wiki/滿語 "wikilink")                                                                 |
-| mnd                 |           |           | MND | Mondé                               |                                                                                                                   |
-| mne                 |           |           | MNE | Naba                                |                                                                                                                   |
-| mnf                 |           |           | MUN | Mundani                             |                                                                                                                   |
-| mng                 |           |           | MNG | Eastern Mnong                       |                                                                                                                   |
-| mnh                 |           |           | MNH | Mono (Democratic Republic of Congo) |                                                                                                                   |
-| mni                 | mni       |           | MNR | Manipuri                            | [曼尼普爾語](https://zh.wikipedia.org/wiki/曼尼普爾語 "wikilink")                                                           |
-| mnj                 |           |           | MNJ | Munji                               |                                                                                                                   |
-| mnk                 |           |           | MNK | Mandinka                            | [曼丁哥語](https://zh.wikipedia.org/wiki/曼丁哥語 "wikilink")                                                             |
-| mnl                 |           |           | MNL | Tiale                               |                                                                                                                   |
-| mnm                 |           |           | MNM | Mapena                              |                                                                                                                   |
-| mnn                 |           |           | MNN | Southern Mnong                      |                                                                                                                   |
-| mno <sub>(g)</sub>  | mno       |           |     | Manobo languages                    | [馬諾博諸語言](https://zh.wikipedia.org/wiki/馬諾博諸語言 "wikilink")                                                         |
-| mnp                 |           |           | MNP | Min Bei Chinese                     | [閩北話](https://zh.wikipedia.org/wiki/閩北話 "wikilink")                                                               |
-| mnq                 |           |           | MNQ | Minriq                              |                                                                                                                   |
-| mnr                 |           |           | MON | Mono (USA)                          |                                                                                                                   |
-| mns                 |           |           | MNS | Mansi                               | [曼西語](../Page/曼西語.md "wikilink")                                                                                  |
-| mnt                 |           |           | MNT | Maykulan                            |                                                                                                                   |
-| mnu                 |           |           | MNU | Mer                                 |                                                                                                                   |
-| mnv                 |           |           | MNV | Rennell-Bellona                     |                                                                                                                   |
-| mnw                 |           |           | MNW | Mon                                 | [孟語](https://zh.wikipedia.org/wiki/孟語 "wikilink")                                                                 |
-| mnx                 |           |           | MNX | Manikion                            |                                                                                                                   |
-| mny                 |           |           | MNY | Manyawa                             |                                                                                                                   |
-| mnz                 |           |           | MNZ | Moni                                |                                                                                                                   |
-| moa                 |           |           | MOA | Mwan                                |                                                                                                                   |
-| mob <sub>(rs)</sub> |           |           | MOB | Moinba                              | [門巴語](https://zh.wikipedia.org/wiki/門巴語 "wikilink")；被拆分為 cvg, lsh, kkf, twm 和 onp                                 |
-| moc                 |           |           | MOC | Mocoví                              |                                                                                                                   |
-| mod                 |           |           | MOD | Mobilian                            |                                                                                                                   |
-| moe                 |           |           | MOE | Montagnais                          |                                                                                                                   |
-| mof                 |           |           | MOF | Mohegan-Montauk-Narragansett        |                                                                                                                   |
-| mog                 |           |           | MOG | Mongondow                           |                                                                                                                   |
-| moh                 | moh       |           | MOH | Mohawk                              | [莫霍克語](https://zh.wikipedia.org/wiki/莫霍克語 "wikilink")                                                             |
-| moi                 |           |           | MOI | Mboi                                |                                                                                                                   |
-| moj                 |           |           | MOJ | Monzombo                            |                                                                                                                   |
-| mok                 |           |           | MOK | Morori                              |                                                                                                                   |
-| mol <sub>(rm)</sub> | mol       | mo        |     | Moldavian                           | [摩爾達維亞語](https://zh.wikipedia.org/wiki/摩爾達維亞語 "wikilink")、[摩爾多瓦語](../Page/摩爾多瓦語.md "wikilink")；已合併至ron            |
-| mom                 |           |           | MOL | Monimbo                             |                                                                                                                   |
-| mon <sub>(m)</sub>  | mon       | mn        |     | Mongolian                           | [蒙古語](https://zh.wikipedia.org/wiki/蒙古語 "wikilink")                                                               |
-| moo                 |           |           | MOO | Monom                               |                                                                                                                   |
-| mop                 |           |           | MOP | Mopán Maya                          |                                                                                                                   |
-| moq                 |           |           | MOQ | Mor (Bomberai Peninsula)            |                                                                                                                   |
-| mor                 |           |           | MOR | Moro                                |                                                                                                                   |
-| mos                 | mos       |           | MHM | Mossi                               | [莫西語](https://zh.wikipedia.org/wiki/莫西語 "wikilink")                                                               |
-| mot                 |           |           | MOT | Barí                                |                                                                                                                   |
-| mou                 |           |           | MOU | Mogum                               |                                                                                                                   |
-| mov                 |           |           | MOV | Mohave                              | [莫哈維語](https://zh.wikipedia.org/wiki/莫哈維語 "wikilink")                                                             |
-| mow                 |           |           | MOW | Moi (Congo)                         |                                                                                                                   |
-| mox                 |           |           | MOX | Molima                              |                                                                                                                   |
-| moy                 |           |           | MOY | Shekkacho                           |                                                                                                                   |
-| moz                 |           |           | MOZ | Mukulu                              |                                                                                                                   |
-| mpa                 |           |           | MPA | Mpoto                               |                                                                                                                   |
-| mpb                 |           |           | MPB | Mullukmulluk                        |                                                                                                                   |
-| mpc                 |           |           | MPC | Mangarayi                           |                                                                                                                   |
-| mpd                 |           |           | MPD | Machinere                           |                                                                                                                   |
-| mpe                 |           |           | MPE | Majang                              |                                                                                                                   |
-| mpf <sub>(rm)</sub> |           |           | MPF | Tajumulco Mam                       | 已合併至 mam                                                                                                          |
-| mpg                 |           |           | MPG | Marba                               |                                                                                                                   |
-| mph                 |           |           | MPH | Maung                               |                                                                                                                   |
-| mpi                 |           |           | MPI | Mpade                               |                                                                                                                   |
-| mpj                 |           |           | MPJ | Martu Wangka                        |                                                                                                                   |
-| mpk                 |           |           | MPK | Mbara (Chad)                        |                                                                                                                   |
-| mpl                 |           |           | MPL | Middle Watut                        |                                                                                                                   |
-| mpm                 |           |           | MPM | Yosondúa Mixtec                     |                                                                                                                   |
-| mpn                 |           |           | MPN | Mindiri                             |                                                                                                                   |
-| mpo                 |           |           | MPO | Miu                                 |                                                                                                                   |
-| mpp                 |           |           | MPP | Migabac                             |                                                                                                                   |
-| mpq                 |           |           | MPQ | Matís                               |                                                                                                                   |
-| mpr                 |           |           | MPR | Vangunu                             |                                                                                                                   |
-| mps                 |           |           | MPS | Dadibi                              |                                                                                                                   |
-| mpt                 |           |           | MPT | Mian                                |                                                                                                                   |
-| mpu                 |           |           | MAG | Makuráp                             |                                                                                                                   |
-| mpv                 |           |           | MPV | Mungkip                             |                                                                                                                   |
-| mpw                 |           |           | MPW | Mapidian                            |                                                                                                                   |
-| mpx                 |           |           | MPX | Misima-Paneati                      |                                                                                                                   |
-| mpy                 |           |           | MPY | Mapia                               |                                                                                                                   |
-| mpz                 |           |           | MPZ | Mpi                                 |                                                                                                                   |
-| mqa                 |           |           | MQA | Maba (Indonesia)                    |                                                                                                                   |
-| mqb                 |           |           | MQB | Mbuko                               |                                                                                                                   |
-| mqc                 |           |           | MQC | Mangole                             |                                                                                                                   |
-| mqd <sub>(rm)</sub> |           |           | MQD | Madang                              | 已合併至 xkl                                                                                                          |
-| mqe                 |           |           | MQE | Matepi                              |                                                                                                                   |
-| mqf                 |           |           | MQF | Momuna                              |                                                                                                                   |
-| mqg                 |           |           | MQG | Kota Bangun Kutai Malay             |                                                                                                                   |
-| mqh                 |           |           | MQH | Tlazoyaltepec Mixtec                |                                                                                                                   |
-| mqi                 |           |           | MQI | Mariri                              |                                                                                                                   |
-| mqj                 |           |           | MQJ | Mamasa                              |                                                                                                                   |
-| mqk                 |           |           | MQK | Rajah Kabunsuwan Manobo             |                                                                                                                   |
-| mql                 |           |           | MQL | Mbelime                             |                                                                                                                   |
-| mqm                 |           |           | QMS | South Marquesan                     | [南馬克薩斯語](https://zh.wikipedia.org/wiki/南馬克薩斯語 "wikilink")                                                         |
-| mqn                 |           |           | MQN | Moronene                            |                                                                                                                   |
-| mqo                 |           |           | MQO | Modole                              |                                                                                                                   |
-| mqp                 |           |           | MQP | Manipa                              |                                                                                                                   |
-| mqq                 |           |           | MQQ | Minokok                             |                                                                                                                   |
-| mqr                 |           |           | MQR | Mander                              |                                                                                                                   |
-| mqs                 |           |           | MQS | West Makian                         |                                                                                                                   |
-| mqt                 |           |           | MQT | Mok                                 |                                                                                                                   |
-| mqu                 |           |           | MQU | Mandari                             |                                                                                                                   |
-| mqv                 |           |           | MQV | Mosimo                              |                                                                                                                   |
-| mqw                 |           |           | MQW | Murupi                              |                                                                                                                   |
-| mqx                 |           |           | MQX | Mamuju                              |                                                                                                                   |
-| mqy                 |           |           | MQY | Manggarai                           | [芒加萊語](https://zh.wikipedia.org/wiki/芒加萊語 "wikilink")                                                             |
-| mqz                 |           |           | MQZ | Malasanga                           |                                                                                                                   |
-| mra                 |           |           | MRA | Mlabri                              | [馬拉比語](https://zh.wikipedia.org/wiki/馬拉比語 "wikilink")                                                             |
-| mrb                 |           |           | MRB | Marino                              |                                                                                                                   |
-| mrc                 |           |           | MRC | Maricopa                            |                                                                                                                   |
-| mrd                 |           |           | MRD | Western Magar                       |                                                                                                                   |
-| mre                 |           |           | MRE | Martha's Vineyard Sign Language     | [馬薩葡萄園手語](https://zh.wikipedia.org/wiki/馬薩葡萄園手語 "wikilink")                                                       |
-| mrf                 |           |           | MRF | Elseng                              |                                                                                                                   |
-| mrg                 |           |           | MRG | Miri                                |                                                                                                                   |
-| mrh                 |           |           | MRH | Mara Chin                           |                                                                                                                   |
-| mri                 | mao; mri  | mi        | MBF | Maori                               | [毛利語](https://zh.wikipedia.org/wiki/毛利語 "wikilink")                                                               |
-| mrj                 |           |           | MRJ | Western Mari                        | [山地馬里語](https://zh.wikipedia.org/wiki/山地馬里語 "wikilink")、[西馬里語](https://zh.wikipedia.org/wiki/西馬里語 "wikilink")     |
-| mrk                 |           |           | MRK | Hmwaveke                            |                                                                                                                   |
-| mrl                 |           |           | MRL | Mortlockese                         |                                                                                                                   |
-| mrm                 |           |           | MRM | Merlav                              |                                                                                                                   |
-| mrn                 |           |           | MRN | Cheke Holo                          |                                                                                                                   |
-| mro                 |           |           | MRO | Mru                                 |                                                                                                                   |
-| mrp                 |           |           | MRP | Morouas                             |                                                                                                                   |
-| mrq                 |           |           | MRQ | North Marquesan                     | [北馬克薩斯語](https://zh.wikipedia.org/wiki/北馬克薩斯語 "wikilink")                                                         |
-| mrr                 |           |           | MRR | Maria (India)                       |                                                                                                                   |
-| mrs                 |           |           | MRS | Maragus                             |                                                                                                                   |
-| mrt                 |           |           | MAR | Marghi Central                      |                                                                                                                   |
-| mru                 |           |           | MRU | Mono (Cameroon)                     |                                                                                                                   |
-| mrv                 |           |           | MRV | Mangareva                           |                                                                                                                   |
-| mrw                 |           |           | MRW | Maranao                             | [馬拉瑙語](https://zh.wikipedia.org/wiki/馬拉瑙語 "wikilink")                                                             |
-| mrx                 |           |           | MRX | Maremgi                             |                                                                                                                   |
-| mry                 |           |           | MRY | Karaga Mandaya                      |                                                                                                                   |
-| mrz                 |           |           | MRZ | Marind                              | [馬林德語](https://zh.wikipedia.org/wiki/馬林德語 "wikilink")                                                             |
-| msa <sub>(m)</sub>  | may; msa  | ms        |     | Malay (macrolanguage)               | [馬來語](https://zh.wikipedia.org/wiki/馬來語 "wikilink")                                                               |
-| msb                 |           |           | MSB | Masbatenyo                          |                                                                                                                   |
-| msc                 |           |           | MSC | Sankaran Maninka                    |                                                                                                                   |
-| msd                 |           |           | MSD | Yucatec Maya Sign Language          | [尤卡坦瑪雅手語](https://zh.wikipedia.org/wiki/尤卡坦瑪雅手語 "wikilink")                                                       |
-| mse                 |           |           | MSE | Musey                               |                                                                                                                   |
-| msf                 |           |           | MSF | Mekwei                              |                                                                                                                   |
-| msg                 |           |           | MSG | Moraid                              |                                                                                                                   |
-| msh                 |           |           | MSH | Masikoro Malagasy                   |                                                                                                                   |
-| msi                 |           |           | MSI | Sabah Malay                         |                                                                                                                   |
-| msj                 |           |           | MSJ | Ma (Democratic Republic of Congo)   |                                                                                                                   |
-| msk                 |           |           | MSK | Mansaka                             |                                                                                                                   |
-| msl                 |           |           | MSL | Molof                               |                                                                                                                   |
-| msm                 |           |           | MSM | Agusan Manobo                       |                                                                                                                   |
-| msn                 |           |           | MSN | Vurës                               |                                                                                                                   |
-| mso                 |           |           | MSO | Mombum                              |                                                                                                                   |
-| msp                 |           |           | MSP | Maritsauá                           |                                                                                                                   |
-| msq                 |           |           | MSQ | Caac                                |                                                                                                                   |
-| msr                 |           |           | QMM | Mongolian Sign Language             | [蒙古手語](https://zh.wikipedia.org/wiki/蒙古手語 "wikilink")                                                             |
-| mss                 |           |           | MSS | West Masela                         |                                                                                                                   |
-| mst                 |           |           | MST | Cataelano Mandaya                   |                                                                                                                   |
-| msu                 |           |           | MSU | Musom                               |                                                                                                                   |
-| msv                 |           |           | MSV | Maslam                              |                                                                                                                   |
-| msw                 |           |           | MSW | Mansoanka                           |                                                                                                                   |
-| msx                 |           |           | MSX | Moresada                            |                                                                                                                   |
-| msy                 |           |           | MSY | Aruamu                              |                                                                                                                   |
-| msz                 |           |           | MSZ | Momare                              |                                                                                                                   |
-| mta                 |           |           | MTA | Cotabato Manobo                     |                                                                                                                   |
-| mtb                 |           |           | MTB | Anyin Morofo                        |                                                                                                                   |
-| mtc                 |           |           | MTC | Munit                               |                                                                                                                   |
-| mtd                 |           |           | MTD | Mualang                             |                                                                                                                   |
-| mte                 |           |           | MTE | Mono (Solomon Islands)              |                                                                                                                   |
-| mtf                 |           |           | MTF | Murik                               |                                                                                                                   |
-| mtg                 |           |           | MTG | Una                                 |                                                                                                                   |
-| mth                 |           |           | MTH | Munggui                             |                                                                                                                   |
-| mti                 |           |           | MTI | Maiwa (Papua New Guinea)            |                                                                                                                   |
-| mtj                 |           |           | MTJ | Moskona                             |                                                                                                                   |
-| mtk                 |           |           | MTK | Mbe'                                |                                                                                                                   |
-| mtl                 |           |           | MTL | Montol                              |                                                                                                                   |
-| mtm                 |           |           | MTM | Mator                               |                                                                                                                   |
-| mtn                 |           |           | MTN | Matagalpa                           |                                                                                                                   |
-| mto                 |           |           | MTO | Totontepec Mixe                     |                                                                                                                   |
-| mtp                 |           |           | MTP | Wichí Lhamtés Nocten                |                                                                                                                   |
-| mtq                 |           |           | MTQ | Muong                               | [芒語](../Page/芒語.md "wikilink")                                                                                    |
-| mtr                 |           |           | MTR | Mewari                              |                                                                                                                   |
-| mts                 |           |           | MTS | Yora                                |                                                                                                                   |
-| mtt                 |           |           | MTT | Mota                                |                                                                                                                   |
-| mtu                 |           |           | MTU | Tututepec Mixtec                    |                                                                                                                   |
-| mtv                 |           |           | MTV | Asaro'o                             |                                                                                                                   |
-| mtw                 |           |           | MTW | Magahat                             |                                                                                                                   |
-| mtx                 |           |           | MTX | Tidaá Mixtec                        |                                                                                                                   |
-| mty                 |           |           | MTY | Nabi                                |                                                                                                                   |
-| mtz <sub>(rm)</sub> |           |           | MTZ | Tacanec                             | 已合併至 mam                                                                                                          |
-| mua                 |           |           | MUA | Mundang                             |                                                                                                                   |
-| mub                 |           |           | MUB | Mubi                                |                                                                                                                   |
-| muc                 |           |           | MUC | Mbu'                                |                                                                                                                   |
-| mud                 |           |           | MUD | Mednyj Aleut                        |                                                                                                                   |
-| mue                 |           |           | MUE | Media Lengua                        |                                                                                                                   |
-| mug                 |           |           | MUG | Musgu                               |                                                                                                                   |
-| muh                 |           |           | MUH | Mündü                               |                                                                                                                   |
-| mui                 |           |           | MUI | Musi                                |                                                                                                                   |
-| muj                 |           |           | MUJ | Mabire                              |                                                                                                                   |
-| muk                 |           |           | MUK | Mugom                               |                                                                                                                   |
-| mul                 | mul       |           |     | Multiple languages                  | 多種語言                                                                                                              |
-| mum                 |           |           | MUM | Maiwala                             |                                                                                                                   |
-| mun <sub>(g)</sub>  | mun       |           |     | Munda languages                     | [蒙達語族](https://zh.wikipedia.org/wiki/蒙達語族 "wikilink")                                                             |
-| muo                 |           |           | MUO | Nyong                               |                                                                                                                   |
-| mup                 |           |           | MUP | Malvi                               |                                                                                                                   |
-| muq                 |           |           | MUQ | Eastern Xiangxi Miao                | [東紅苗話](https://zh.wikipedia.org/wiki/東紅苗話 "wikilink")                                                             |
-| mur                 |           |           | MUR | Murle                               |                                                                                                                   |
-| mus                 | mus       |           | CRK | Creek                               | [克里克語](https://zh.wikipedia.org/wiki/克里克語 "wikilink")、[穆斯科格語](https://zh.wikipedia.org/wiki/穆斯科格語 "wikilink")     |
-| mut                 |           |           | MUT | Western Muria                       |                                                                                                                   |
-| muu                 |           |           | MUU | Yaaku                               |                                                                                                                   |
-| muv                 |           |           | MUV | Muthuvan                            |                                                                                                                   |
-| muw <sub>(rs)</sub> |           |           | MUW | Mundari                             | [蒙達里語](https://zh.wikipedia.org/wiki/蒙達里語 "wikilink")；被拆分為 unx 和 unr                                              |
-| mux                 |           |           | MUX | Bo-Ung                              |                                                                                                                   |
-| muy                 |           |           | MUY | Muyang                              |                                                                                                                   |
-| muz                 |           |           | MUZ | Mursi                               |                                                                                                                   |
-| mva                 |           |           | MVA | Manam                               |                                                                                                                   |
-| mvb                 |           |           | MVB | Mattole                             |                                                                                                                   |
-| mvc <sub>(rm)</sub> |           |           | MVC | Central Mam                         | 已合併至 mam                                                                                                          |
-| mvd                 |           |           | MVD | Mamboru                             |                                                                                                                   |
-| mve                 |           |           | MRI | Marwari (Pakistan)                  |                                                                                                                   |
-| mvf                 |           |           | MVF | Peripheral Mongolian                | [內蒙古話](https://zh.wikipedia.org/wiki/內蒙古話 "wikilink")                                                             |
-| mvg                 |           |           | MVG | Yucuañe Mixtec                      |                                                                                                                   |
-| mvh                 |           |           | MVH | Mire                                |                                                                                                                   |
-| mvi                 |           |           | MVI | Miyako                              | [宮古琉球語](https://zh.wikipedia.org/wiki/宮古琉球語 "wikilink")                                                           |
-| mvj <sub>(rm)</sub> |           |           | MVJ | Todos Santos Cuchumatán Mam         | 已合併至 mam                                                                                                          |
-| mvk                 |           |           | MVK | Mekmek                              |                                                                                                                   |
-| mvl                 |           |           | MVL | Mbara (Australia)                   |                                                                                                                   |
-| mvm                 |           |           | MVM | Muya                                | [木雅語](https://zh.wikipedia.org/wiki/木雅語 "wikilink")                                                               |
-| mvn                 |           |           | MVN | Minaveha                            |                                                                                                                   |
-| mvo                 |           |           | MVO | Marovo                              |                                                                                                                   |
-| mvp                 |           |           | MVP | Duri                                |                                                                                                                   |
-| mvq                 |           |           | MVQ | Moere                               |                                                                                                                   |
-| mvr                 |           |           | MVR | Marau                               |                                                                                                                   |
-| mvs                 |           |           | MVS | Massep                              |                                                                                                                   |
-| mvt                 |           |           | MVT | Mpotovoro                           |                                                                                                                   |
-| mvu                 |           |           | MVU | Marfa                               |                                                                                                                   |
-| mvv                 |           |           | MVV | Tagal Murut                         |                                                                                                                   |
-| mvw                 |           |           | MVW | Machinga                            |                                                                                                                   |
-| mvx                 |           |           | MVX | Meoswar                             |                                                                                                                   |
-| mvy                 |           |           | MVY | Indus Kohistani                     |                                                                                                                   |
-| mvz                 |           |           | MVZ | Mesqan                              |                                                                                                                   |
-| mwa                 |           |           | MWA | Mwatebu                             |                                                                                                                   |
-| mwb                 |           |           | MWB | Juwal                               |                                                                                                                   |
-| mwc                 |           |           | MWC | Are                                 |                                                                                                                   |
-| mwd                 |           |           | MWD | Mudbura                             |                                                                                                                   |
-| mwe                 |           |           | MWE | Mwera (Chimwera)                    |                                                                                                                   |
-| mwf                 |           |           | MWF | Murrinh-Patha                       |                                                                                                                   |
-| mwg                 |           |           | MWG | Aiklep                              |                                                                                                                   |
-| mwh                 |           |           | MWH | Mouk-Aria                           |                                                                                                                   |
-| mwi                 |           |           | MWI | Labo                                |                                                                                                                   |
-| mwj                 |           |           | MWJ | Maligo                              |                                                                                                                   |
-| mwk                 |           |           | MWK | Kita Maninkakan                     |                                                                                                                   |
-| mwl                 | mwl       |           | MWL | Mirandese                           | [米蘭德斯語](https://zh.wikipedia.org/wiki/米蘭德斯語 "wikilink")                                                           |
-| mwm                 |           |           | MWM | Sar                                 |                                                                                                                   |
-| mwn                 |           |           | MWN | Nyamwanga                           |                                                                                                                   |
-| mwo                 |           |           | MWO | Central Maewo                       |                                                                                                                   |
-| mwp                 |           |           | MWP | Kala Lagaw Ya                       |                                                                                                                   |
-| mwq                 |           |           | MWQ | Mün Chin                            |                                                                                                                   |
-| mwr <sub>(m)</sub>  | mwr       |           |     | Marwari                             | [馬爾瓦利語](https://zh.wikipedia.org/wiki/馬爾瓦利語 "wikilink")                                                           |
-| mws                 |           |           | MWS | Mwimbi-Muthambi                     |                                                                                                                   |
-| mwt                 |           |           | MWT | Moken                               |                                                                                                                   |
-| mwu                 |           |           | MWU | Mittu                               |                                                                                                                   |
-| mwv                 |           |           | MWV | Mentawai                            | [民大威語](https://zh.wikipedia.org/wiki/民大威語 "wikilink")、[明打威語](https://zh.wikipedia.org/wiki/明打威語 "wikilink")       |
-| mww                 |           |           | MWW | Hmong Daw                           | [白苗話](https://zh.wikipedia.org/wiki/白苗話 "wikilink")                                                               |
-| mwx                 |           |           | MWX | Mediak                              |                                                                                                                   |
-| mwy                 |           |           | MWY | Mosiro                              |                                                                                                                   |
-| mwz                 |           |           | MWZ | Moingi                              |                                                                                                                   |
-| mxa                 |           |           | MXA | Northwest Oaxaca Mixtec             |                                                                                                                   |
-| mxb                 |           |           | MXB | Tezoatlán Mixtec                    |                                                                                                                   |
-| mxc                 |           |           | MXC | Manyika                             |                                                                                                                   |
-| mxd                 |           |           | MXD | Modang                              |                                                                                                                   |
-| mxe                 |           |           | MXE | Mele-Fila                           |                                                                                                                   |
-| mxf                 |           |           | MXF | Malgbe                              |                                                                                                                   |
-| mxg                 |           |           | MXG | Mbangala                            |                                                                                                                   |
-| mxh                 |           |           | MXH | Mvuba                               |                                                                                                                   |
-| mxi                 |           |           | MXI | Mozarabic                           | [莫札拉布語](https://zh.wikipedia.org/wiki/莫札拉布語 "wikilink")                                                           |
-| mxj                 |           |           | MXJ | Miju-Mishmi                         | [格曼-僜語](https://zh.wikipedia.org/wiki/格曼-僜語 "wikilink")                                                           |
-| mxk                 |           |           | MXK | Monumbo                             |                                                                                                                   |
-| mxl                 |           |           | MXL | Maxi Gbe                            |                                                                                                                   |
-| mxm                 |           |           | MXM | Meramera                            |                                                                                                                   |
-| mxn                 |           |           | MXN | Moi (Indonesia)                     |                                                                                                                   |
-| mxo                 |           |           | MXO | Mbowe                               |                                                                                                                   |
-| mxp                 |           |           | MXP | Tlahuitoltepec Mixe                 |                                                                                                                   |
-| mxq                 |           |           | MXQ | Juquila Mixe                        |                                                                                                                   |
-| mxr                 |           |           | MXR | Murik                               |                                                                                                                   |
-| mxs                 |           |           | MXS | Huitepec Mixtec                     |                                                                                                                   |
-| mxt                 |           |           | MXT | Jamiltepec Mixtec                   |                                                                                                                   |
-| mxu                 |           |           | MXU | Mada (Cameroon)                     |                                                                                                                   |
-| mxv                 |           |           | MXV | Metlatónoc Mixtec                   |                                                                                                                   |
-| mxw                 |           |           | MXW | Namo                                |                                                                                                                   |
-| mxx                 |           |           | MXX | Mahou                               |                                                                                                                   |
-| mxy                 |           |           | MXY | Southeastern Nochixtlán Mixtec      |                                                                                                                   |
-| mxz                 |           |           | MKH | Central Masela                      |                                                                                                                   |
-| mya                 | bur; mya  | my        | BMS | Burmese                             | [緬甸語](https://zh.wikipedia.org/wiki/緬甸語 "wikilink")                                                               |
-| myb                 |           |           | MYB | Mbay                                |                                                                                                                   |
-| myc                 |           |           | MYC | Mayeka                              |                                                                                                                   |
-| myd                 |           |           | MYD | Maramba                             |                                                                                                                   |
-| mye                 |           |           | MYE | Myene                               |                                                                                                                   |
-| myf                 |           |           | MYF | Bambassi                            |                                                                                                                   |
-| myg                 |           |           | MYG | Manta                               |                                                                                                                   |
-| myh                 |           |           | MYH | Makah                               |                                                                                                                   |
-| myi                 |           |           | MYI | Mina (India)                        |                                                                                                                   |
-| myj                 |           |           | MYJ | Mangayat                            |                                                                                                                   |
-| myk                 |           |           | MYK | Mamara Senoufo                      |                                                                                                                   |
-| myl                 |           |           | MYL | Moma                                |                                                                                                                   |
-| mym                 |           |           | MYM | Me'en                               |                                                                                                                   |
-| myn <sub>(g)</sub>  | myn       |           |     | Mayan languages                     | [瑪雅語系](https://zh.wikipedia.org/wiki/瑪雅語系 "wikilink")、[馬雅語系](../Page/馬雅語系.md "wikilink")                          |
-| myo                 |           |           | MYO | Anfillo                             |                                                                                                                   |
-| myp                 |           |           | MYP | Pirahã                              | [皮拉罕語](../Page/皮拉罕語.md "wikilink")                                                                                |
-| myq                 |           |           | MYQ | Forest Maninka                      |                                                                                                                   |
-| myr                 |           |           | MYR | Muniche                             |                                                                                                                   |
-| mys                 |           |           | MYS | Mesmes                              |                                                                                                                   |
-| myt                 |           |           | MYT | Sangab Mandaya                      |                                                                                                                   |
-| myu                 |           |           | MYU | Mundurukú                           |                                                                                                                   |
-| myv                 | myv       |           | MYV | Erzya                               | [厄爾茲亞語](https://zh.wikipedia.org/wiki/厄爾茲亞語 "wikilink")                                                           |
-| myw                 |           |           | MYW | Muyuw                               |                                                                                                                   |
-| myx                 |           |           | MYX | Masaaba                             |                                                                                                                   |
-| myy                 |           |           | MYY | Macuna                              |                                                                                                                   |
-| myz                 |           |           | MYZ | Classical Mandaic                   | [古典曼底安語](https://zh.wikipedia.org/wiki/古典曼底安語 "wikilink")                                                         |
-| mza                 |           |           | MZA | Santa María Zacatepec Mixtec        |                                                                                                                   |
-| mzb                 |           |           | MZB | Tumzabt                             |                                                                                                                   |
-| mzc                 |           |           | MZC | Madagascar Sign Language            | [馬達加斯加手語](https://zh.wikipedia.org/wiki/馬達加斯加手語 "wikilink")                                                       |
-| mzd                 |           |           | MZD | Malimba                             |                                                                                                                   |
-| mze                 |           |           | MZE | Morawa                              |                                                                                                                   |
-| mzf <sub>(rs)</sub> |           |           | MZF | Aiku                                | 被拆分為 aag, yde, ygl 和 ymo                                                                                          |
-| mzg                 |           |           | MZG | Monastic Sign Language              | [修士手語](https://zh.wikipedia.org/wiki/修士手語 "wikilink")                                                             |
-| mzh                 |           |           | MZH | Wichí Lhamtés Güisnay               |                                                                                                                   |
-| mzi                 |           |           | MAO | Ixcatlán Mazatec                    |                                                                                                                   |
-| mzj                 |           |           | MZJ | Manya                               |                                                                                                                   |
-| mzk                 |           |           | MZK | Nigeria Mambila                     |                                                                                                                   |
-| mzl                 |           |           | MZL | Mazatlán Mixe                       |                                                                                                                   |
-| mzm                 |           |           | MUL | Mumuye                              | [穆穆耶語](https://zh.wikipedia.org/wiki/穆穆耶語 "wikilink")                                                             |
-| mzn                 |           |           | MZN | Mazanderani                         | [馬贊德蘭語](https://zh.wikipedia.org/wiki/馬贊德蘭語 "wikilink")                                                           |
-| mzo                 |           |           | MZO | Matipuhy                            |                                                                                                                   |
-| mzp                 |           |           | MZP | Movima                              |                                                                                                                   |
-| mzq                 |           |           | MZQ | Mori Atas                           |                                                                                                                   |
-| mzr                 |           |           | MZR | Marúbo                              |                                                                                                                   |
-| mzs                 |           |           | MZS | Macanese                            | [澳門土語](https://zh.wikipedia.org/wiki/澳門土語 "wikilink")                                                             |
-| mzt                 |           |           | MZT | Mintil                              |                                                                                                                   |
-| mzu                 |           |           | MZU | Inapang                             |                                                                                                                   |
-| mzv                 |           |           | MZV | Manza                               |                                                                                                                   |
-| mzw                 |           |           | MZW | Deg                                 |                                                                                                                   |
-| mzx                 |           |           | MZX | Mawayana                            |                                                                                                                   |
-| mzy                 |           |           | MZY | Mozambican Sign Language            | [莫桑比克手語](https://zh.wikipedia.org/wiki/莫桑比克手語 "wikilink")                                                         |
-| mzz                 |           |           | MZZ | Maiadomu                            |                                                                                                                   |
+|- \![maa](https://zh.wikipedia.org/wiki/ISO_639:maa "wikilink")  | ||
+||I/L|| || ||Mazatec, San Jerónimo Tecóatl|| || || || || |-
+\![mab](https://zh.wikipedia.org/wiki/ISO_639:mab "wikilink")  | ||
+||I/L|| || ||Mixtec, Yutanduchi|| || || || || |-
+\![mad](https://zh.wikipedia.org/wiki/ISO_639:mad "wikilink")  |
+||mad||I/L|| ||Basa Mathura||Madurese||madourais||
+||马都拉语||мадурский||Maduresisch |-
+\![mae](https://zh.wikipedia.org/wiki/ISO_639:mae "wikilink")  | ||
+||I/L|| || ||Bo-Rukul|| || || || || |-
+\![maf](https://zh.wikipedia.org/wiki/ISO_639:maf "wikilink")  | ||
+||I/L|| || ||Mafa|| || || || || |-
+\![mag](https://zh.wikipedia.org/wiki/ISO_639:mag "wikilink")  |
+||mag||I/L|| ||मगही||Magahi||magahi||magahi||摩揭陀语; 马加赫语||магахи|| |-
+\![mah](https://zh.wikipedia.org/wiki/ISO_639:mah "wikilink")
+|mh||mah||I/L||Austronesian||Kajin M̧ajeļ||Marshall||marshall||
+||马绍尔语||маршал(л)ьский||Marshallisch |-
+\![mai](https://zh.wikipedia.org/wiki/ISO_639:mai "wikilink")  |
+||mai||I/L|| ||मैथिली||Maithili||maithili||maithili||米德勒语;
+迈蒂利语||майтхили||Maithili |-
+\![maj](https://zh.wikipedia.org/wiki/ISO_639:maj "wikilink")  | ||
+||I/L|| || ||Mazatec, Jalapa De Díaz|| || || || || |-
+\![mak](https://zh.wikipedia.org/wiki/ISO_639:mak "wikilink")  |
+||mak||I/L|| || ||Makasar||makassar|| ||望加锡语||макассарский||Makassar |-
+\![mal](https://zh.wikipedia.org/wiki/ISO_639:mal "wikilink")
+|ml||mal||I/L||Dravidian||മലയാളം||Malayalam||malayalam||malayalam||马拉雅拉姆语||малаялам||Malajalam
+|- \![mam](https://zh.wikipedia.org/wiki/ISO_639:mam "wikilink")  | ||
+||I/L|| || ||Mam, Northern|| || || || || |-
+\![man](https://zh.wikipedia.org/wiki/ISO_639:man "wikilink")  |
+||man||M/L|| || ||Mandingo||mandingue|| ||曼丁哥语; 马林克语||мандинго||Mandinka
+|- \![maq](https://zh.wikipedia.org/wiki/ISO_639:maq "wikilink")  | ||
+||I/L|| || ||Mazatec, Chiquihuitlán|| || || || || |-
+\![mar](https://zh.wikipedia.org/wiki/ISO_639:mar "wikilink")
+|mr||mar||I/L||Indo-European||मराठी||Marathi||marathe||maratí||马拉地语||маратхи||Marathi
+|- \![mas](https://zh.wikipedia.org/wiki/ISO_639:mas "wikilink")  |
+||mas||I/L|| ||ɔl Maa||Masai||massaï||massaï||马萨伊语||масаи||Massai |-
+\![mat](https://zh.wikipedia.org/wiki/ISO_639:mat "wikilink")  | ||
+||I/L|| || ||Matlatzinca, San Francisco|| || || || || |-
+\![mau](https://zh.wikipedia.org/wiki/ISO_639:mau "wikilink")  | ||
+||I/L|| || ||Mazatec, Huautla|| || || || || |-
+\![mav](https://zh.wikipedia.org/wiki/ISO_639:mav "wikilink")  | ||
+||I/L|| || ||Sateré-Mawé|| ||sateré-mawé|| || || |-
+\![maw](https://zh.wikipedia.org/wiki/ISO_639:maw "wikilink")  | ||
+||I/L|| || ||Mampruli|| || || || || |-
+\![max](https://zh.wikipedia.org/wiki/ISO_639:max "wikilink")  | ||
+||I/L|| || ||Malay, North Moluccan|| || || || || |-
+\![maz](https://zh.wikipedia.org/wiki/ISO_639:maz "wikilink")  | ||
+||I/L|| || ||Mazahua Central|| || || ||центральный
+мазахуа||Zentral-Mazahua |-
+\![mba](https://zh.wikipedia.org/wiki/ISO_639:mba "wikilink")  | ||
+||I/L|| || ||Higaonon|| || || || || |-
+\![mbb](https://zh.wikipedia.org/wiki/ISO_639:mbb "wikilink")  | ||
+||I/L|| || ||Manobo, Western Bukidnon|| || || || ||West-Bukidnon-Manobo
+|- \![mbc](https://zh.wikipedia.org/wiki/ISO_639:mbc "wikilink")  | ||
+||I/L|| || ||Macushi|| ||macusí|| || || |-
+\![mbd](https://zh.wikipedia.org/wiki/ISO_639:mbd "wikilink")  | ||
+||I/L|| || ||Manobo, Dibabawon|| || || || || |-
+\![mbe](https://zh.wikipedia.org/wiki/ISO_639:mbe "wikilink")  | ||
+||I/E|| || ||Molale|| || || || || |-
+\![mbf](https://zh.wikipedia.org/wiki/ISO_639:mbf "wikilink")  | ||
+||I/L|| || ||Malay, Baba|| || || || || |-
+\!([mbg](https://zh.wikipedia.org/wiki/ISO_639:mbg "wikilink"))  | || ||
+|| || ||Northern Nambikuára|| || || || || |-
+\![mbh](https://zh.wikipedia.org/wiki/ISO_639:mbh "wikilink")  | ||
+||I/L|| || ||Mangseng|| || || || || |-
+\![mbi](https://zh.wikipedia.org/wiki/ISO_639:mbi "wikilink")  | ||
+||I/L|| || ||Manobo, Ilianen|| || || || || |-
+\![mbj](https://zh.wikipedia.org/wiki/ISO_639:mbj "wikilink")  | ||
+||I/L|| || ||Nadëb|| ||nadëb|| || || |-
+\![mbk](https://zh.wikipedia.org/wiki/ISO_639:mbk "wikilink")  | ||
+||I/L|| || ||Malol|| || || || || |-
+\![mbl](https://zh.wikipedia.org/wiki/ISO_639:mbl "wikilink")  | ||
+||I/L|| || ||Maxakalí|| || || || || |-
+\![mbm](https://zh.wikipedia.org/wiki/ISO_639:mbm "wikilink")  | ||
+||I/L|| || ||Ombamba|| || || || || |-
+\![mbn](https://zh.wikipedia.org/wiki/ISO_639:mbn "wikilink")  | ||
+||I/L|| || ||Macaguán|| || || || || |-
+\![mbo](https://zh.wikipedia.org/wiki/ISO_639:mbo "wikilink")  | ||
+||I/L|| || ||Mbo (Cameroon)|| || || || || |-
+\![mbp](https://zh.wikipedia.org/wiki/ISO_639:mbp "wikilink")  | ||
+||I/L|| || ||Malayo|| ||malayo|| || || |-
+\![mbq](https://zh.wikipedia.org/wiki/ISO_639:mbq "wikilink")  | ||
+||I/L|| || ||Maisin|| || || ||маисин||Maisin |-
+\![mbr](https://zh.wikipedia.org/wiki/ISO_639:mbr "wikilink")  | ||
+||I/L|| || ||Nukak Makú|| || || || || |-
+\![mbs](https://zh.wikipedia.org/wiki/ISO_639:mbs "wikilink")  | ||
+||I/L|| || ||Manobo, Sarangani|| || || || || |-
+\![mbt](https://zh.wikipedia.org/wiki/ISO_639:mbt "wikilink")  | ||
+||I/L|| || ||Manobo, Matigsalug|| || || || || |-
+\![mbu](https://zh.wikipedia.org/wiki/ISO_639:mbu "wikilink")  | ||
+||I/L|| || ||Mbula-Bwazza|| || || || || |-
+\![mbv](https://zh.wikipedia.org/wiki/ISO_639:mbv "wikilink")  | ||
+||I/L|| || ||Mbulungish|| || || || || |-
+\![mbw](https://zh.wikipedia.org/wiki/ISO_639:mbw "wikilink")  | ||
+||I/L|| || ||Maring|| ||maring|| || || |-
+\![mbx](https://zh.wikipedia.org/wiki/ISO_639:mbx "wikilink")  | ||
+||I/L|| || ||Mari (East Sepik Province)|| || || ||марийский|| |-
+\![mby](https://zh.wikipedia.org/wiki/ISO_639:mby "wikilink")  | ||
+||I/L|| || ||Memoni|| || || || || |-
+\![mbz](https://zh.wikipedia.org/wiki/ISO_639:mbz "wikilink")  | ||
+||I/L|| || ||Mixtec, Amoltepec|| || || || || |-
+\![mca](https://zh.wikipedia.org/wiki/ISO_639:mca "wikilink")  | ||
+||I/L|| || ||Maca|| || || || || |-
+\![mcb](https://zh.wikipedia.org/wiki/ISO_639:mcb "wikilink")  | ||
+||I/L|| || ||Machiguenga|| ||machiguenga|| || || |-
+\![mcc](https://zh.wikipedia.org/wiki/ISO_639:mcc "wikilink")  | ||
+||I/L|| || ||Bitur|| || || || || |-
+\![mcd](https://zh.wikipedia.org/wiki/ISO_639:mcd "wikilink")  | ||
+||I/L|| || ||Sharanahua|| ||sharanahua|| || || |-
+\![mce](https://zh.wikipedia.org/wiki/ISO_639:mce "wikilink")  | ||
+||I/L|| || ||Mixtec, Itundujia|| || || || || |-
+\![mcf](https://zh.wikipedia.org/wiki/ISO_639:mcf "wikilink")  | ||
+||I/L|| || ||Matsés|| ||matsés|| || || |-
+\![mcg](https://zh.wikipedia.org/wiki/ISO_639:mcg "wikilink")  | ||
+||I/L|| || ||Mapoyo|| ||mapoyo|| || || |-
+\![mch](https://zh.wikipedia.org/wiki/ISO_639:mch "wikilink")  | ||
+||I/L|| || ||Maquiritari|| ||maquiritare|| || || |-
+\![mci](https://zh.wikipedia.org/wiki/ISO_639:mci "wikilink")  | ||
+||I/L|| || ||Mese|| || || || || |-
+\![mcj](https://zh.wikipedia.org/wiki/ISO_639:mcj "wikilink")  | ||
+||I/L|| || ||Mvanip|| || || || || |-
+\![mck](https://zh.wikipedia.org/wiki/ISO_639:mck "wikilink")  | ||
+||I/L|| || ||Mbunda|| || || || || |-
+\![mcl](https://zh.wikipedia.org/wiki/ISO_639:mcl "wikilink")  | ||
+||I/E|| || ||Macaguaje|| || || || || |-
+\![mcm](https://zh.wikipedia.org/wiki/ISO_639:mcm "wikilink")  | ||
+||I/L|| || ||Malaccan Creole Portuguese|| || || || || |-
+\![mcn](https://zh.wikipedia.org/wiki/ISO_639:mcn "wikilink")  | ||
+||I/L|| || ||Masana|| || || || || |-
+\![mco](https://zh.wikipedia.org/wiki/ISO_639:mco "wikilink")  | ||
+||I/L|| || ||Mixe, Coatlán|| || || || || |-
+\![mcp](https://zh.wikipedia.org/wiki/ISO_639:mcp "wikilink")  | ||
+||I/L|| || ||Makaa|| || || ||макаа|| |-
+\![mcq](https://zh.wikipedia.org/wiki/ISO_639:mcq "wikilink")  | ||
+||I/L|| || ||Ese|| || || || || |-
+\![mcr](https://zh.wikipedia.org/wiki/ISO_639:mcr "wikilink")  | ||
+||I/L|| || ||Menya|| || || || || |-
+\![mcs](https://zh.wikipedia.org/wiki/ISO_639:mcs "wikilink")  | ||
+||I/L|| || ||Mambai|| || || || || |-
+\![mct](https://zh.wikipedia.org/wiki/ISO_639:mct "wikilink")  | ||
+||I/L|| || ||Mengisa|| || || || || |-
+\![mcu](https://zh.wikipedia.org/wiki/ISO_639:mcu "wikilink")  | ||
+||I/L|| || ||Mambila, Cameroon|| || || || || |-
+\![mcv](https://zh.wikipedia.org/wiki/ISO_639:mcv "wikilink")  | ||
+||I/L|| || ||Minanibai|| || || || || |-
+\![mcw](https://zh.wikipedia.org/wiki/ISO_639:mcw "wikilink")  | ||
+||I/L|| || ||Mawa (Chad)|| || || || || |-
+\![mcx](https://zh.wikipedia.org/wiki/ISO_639:mcx "wikilink")  | ||
+||I/L|| || ||Mpiemo|| || || || || |-
+\![mcy](https://zh.wikipedia.org/wiki/ISO_639:mcy "wikilink")  | ||
+||I/L|| || ||Watut, South|| || || || || |-
+\![mcz](https://zh.wikipedia.org/wiki/ISO_639:mcz "wikilink")  | ||
+||I/L|| || ||Mawan|| || || || || |-
+\![mda](https://zh.wikipedia.org/wiki/ISO_639:mda "wikilink")  | ||
+||I/L|| || ||Mada (Nigeria)|| || || || || |-
+\![mdb](https://zh.wikipedia.org/wiki/ISO_639:mdb "wikilink")  | ||
+||I/L|| || ||Morigi|| || || || || |-
+\![mdc](https://zh.wikipedia.org/wiki/ISO_639:mdc "wikilink")  | ||
+||I/L|| || ||Male (Papua New Guinea)|| || || || || |-
+\![mdd](https://zh.wikipedia.org/wiki/ISO_639:mdd "wikilink")  | ||
+||I/L|| || ||Mbum|| || ||姆布姆语|| || |-
+\![mde](https://zh.wikipedia.org/wiki/ISO_639:mde "wikilink")  | ||
+||I/L|| || ||Maba (Chad)|| || ||马巴语|| || |-
+\![mdf](https://zh.wikipedia.org/wiki/ISO_639:mdf "wikilink")  |
+||mdf||I/L|| ||мокша||Moksha||moksa|| ||莫克沙语||мокшанский||Mokschanisch
+|- \![mdg](https://zh.wikipedia.org/wiki/ISO_639:mdg "wikilink")  | ||
+||I/L|| || ||Massalat|| || || || || |-
+\![mdh](https://zh.wikipedia.org/wiki/ISO_639:mdh "wikilink")  | ||
+||I/L|| || ||Maguindanao|| || || || || |-
+\![mdi](https://zh.wikipedia.org/wiki/ISO_639:mdi "wikilink")  | ||
+||I/L|| || ||Mamvu|| || || || || |-
+\![mdj](https://zh.wikipedia.org/wiki/ISO_639:mdj "wikilink")  | ||
+||I/L|| || ||Mangbetu|| || ||芒贝图语|| || |-
+\![mdk](https://zh.wikipedia.org/wiki/ISO_639:mdk "wikilink")  | ||
+||I/L|| || ||Mangbutu|| || || || || |-
+\![mdl](https://zh.wikipedia.org/wiki/ISO_639:mdl "wikilink")  | ||
+||I/L|| || ||Maltese Sign Language|| || ||马耳他手语|| || |-
+\![mdm](https://zh.wikipedia.org/wiki/ISO_639:mdm "wikilink")  | ||
+||I/L|| || ||Mayogo|| || || || || |-
+\![mdn](https://zh.wikipedia.org/wiki/ISO_639:mdn "wikilink")  | ||
+||I/L|| || ||Mbati|| || || || || |-
+\!([mdo](https://zh.wikipedia.org/wiki/ISO_639:mdo "wikilink"))  | || ||
+|| || ||Southwest Gbaya|| || || || || |-
+\![mdp](https://zh.wikipedia.org/wiki/ISO_639:mdp "wikilink")  | ||
+||I/L|| || ||Mbala|| || || || || |-
+\![mdq](https://zh.wikipedia.org/wiki/ISO_639:mdq "wikilink")  | ||
+||I/L|| || ||Mbole|| || || ||мболе|| |-
+\![mdr](https://zh.wikipedia.org/wiki/ISO_639:mdr "wikilink")  |
+||mdr||I/L|| || ||Mandar||mandar|| ||曼达语|| || |-
+\![mds](https://zh.wikipedia.org/wiki/ISO_639:mds "wikilink")  | ||
+||I/L|| || ||Maria (Papua New Guinea)|| || || || || |-
+\![mdt](https://zh.wikipedia.org/wiki/ISO_639:mdt "wikilink")  | ||
+||I/L|| || ||Mbere|| || || || || |-
+\![mdu](https://zh.wikipedia.org/wiki/ISO_639:mdu "wikilink")  | ||
+||I/L|| || ||Mboko|| || || || || |-
+\![mdv](https://zh.wikipedia.org/wiki/ISO_639:mdv "wikilink")  | ||
+||I/L|| || ||Mixtec, Santa Lucía Monteverde|| || || || || |-
+\![mdw](https://zh.wikipedia.org/wiki/ISO_639:mdw "wikilink")  | ||
+||I/L|| || ||Mbosi|| || || ||мбоши|| |-
+\![mdx](https://zh.wikipedia.org/wiki/ISO_639:mdx "wikilink")  | ||
+||I/L|| || ||Dizi|| || || || || |-
+\![mdy](https://zh.wikipedia.org/wiki/ISO_639:mdy "wikilink")  | ||
+||I/L|| || ||Male (Ethiopia)|| || || || || |-
+\![mdz](https://zh.wikipedia.org/wiki/ISO_639:mdz "wikilink")  | ||
+||I/L|| || ||Suruí Do Pará|| ||suruí do Pará|| || || |-
+\![mea](https://zh.wikipedia.org/wiki/ISO_639:mea "wikilink")  | ||
+||I/L|| || ||Menka|| || || || || |-
+\![meb](https://zh.wikipedia.org/wiki/ISO_639:meb "wikilink")  | ||
+||I/L|| || ||Ikobi-Mena|| || || || || |-
+\![mec](https://zh.wikipedia.org/wiki/ISO_639:mec "wikilink")  | ||
+||I/L|| || ||Mara|| || || || || |-
+\![med](https://zh.wikipedia.org/wiki/ISO_639:med "wikilink")  | ||
+||I/L|| || ||Melpa|| || || || || |-
+\![mee](https://zh.wikipedia.org/wiki/ISO_639:mee "wikilink")  | ||
+||I/L|| || ||Mengen|| || || ||менген||Mengen |-
+\![mef](https://zh.wikipedia.org/wiki/ISO_639:mef "wikilink")  | ||
+||I/L|| || ||Megam|| || || || || |-
+\!([meg](https://zh.wikipedia.org/wiki/ISO_639:meg "wikilink"))  | ||
+||I/L|| || ||Mea|| || || || || |-
+\![meh](https://zh.wikipedia.org/wiki/ISO_639:meh "wikilink")  | ||
+||I/L|| || ||Mixtec, Southwestern Tlaxiaco|| || || || || |-
+\![mei](https://zh.wikipedia.org/wiki/ISO_639:mei "wikilink")  | ||
+||I/L|| || ||Midob|| || || || || |-
+\![mej](https://zh.wikipedia.org/wiki/ISO_639:mej "wikilink")  | ||
+||I/L|| || ||Meyah|| || || || || |-
+\![mek](https://zh.wikipedia.org/wiki/ISO_639:mek "wikilink")  | ||
+||I/L|| || ||Mekeo|| || || ||мекео||Mekeo |-
+\![mel](https://zh.wikipedia.org/wiki/ISO_639:mel "wikilink")  | ||
+||I/L|| || ||Melanau|| || || || || |-
+\![mem](https://zh.wikipedia.org/wiki/ISO_639:mem "wikilink")  | ||
+||I/E|| || ||Mangala|| || || || || |-
+\![men](https://zh.wikipedia.org/wiki/ISO_639:men "wikilink")  |
+||men||I/L|| ||Mɛnde||Mende (Sierra Leone)||mendé|| ||门德语||менде|| |-
+\![meo](https://zh.wikipedia.org/wiki/ISO_639:meo "wikilink")  | ||
+||I/L|| || ||Malay, Kedah|| || || || || |-
+\![mep](https://zh.wikipedia.org/wiki/ISO_639:mep "wikilink")  | ||
+||I/L|| || ||Miriwung|| || || || || |-
+\![meq](https://zh.wikipedia.org/wiki/ISO_639:meq "wikilink")  | ||
+||I/L|| || ||Merey|| || || || || |-
+\![mer](https://zh.wikipedia.org/wiki/ISO_639:mer "wikilink")  | ||
+||I/L|| || ||Meru|| || ||梅鲁语|| || |-
+\![mes](https://zh.wikipedia.org/wiki/ISO_639:mes "wikilink")  | ||
+||I/L|| || ||Masmaje|| || || || || |-
+\![met](https://zh.wikipedia.org/wiki/ISO_639:met "wikilink")  | ||
+||I/L|| || ||Mato|| || || || || |-
+\![meu](https://zh.wikipedia.org/wiki/ISO_639:meu "wikilink")  | ||
+||I/L|| || ||Motu|| || ||莫图语||моту||Motu |-
+\![mev](https://zh.wikipedia.org/wiki/ISO_639:mev "wikilink")  | ||
+||I/L|| || ||Mann|| || || || || |-
+\![mew](https://zh.wikipedia.org/wiki/ISO_639:mew "wikilink")  | ||
+||I/L|| || ||Maaka|| || || || || |-
+\![mey](https://zh.wikipedia.org/wiki/ISO_639:mey "wikilink")  | ||
+||I/L|| || ||Hassaniyya|| || || || || |-
+\![mez](https://zh.wikipedia.org/wiki/ISO_639:mez "wikilink")  | ||
+||I/L|| ||Omāēqnomenew||Menominee|| ||menominee||梅诺米尼语|| || |-
+\![mfa](https://zh.wikipedia.org/wiki/ISO_639:mfa "wikilink")  | ||
+||I/L|| || ||Malay, Pattani|| || ||亚维语|| || |-
+\![mfb](https://zh.wikipedia.org/wiki/ISO_639:mfb "wikilink")  | ||
+||I/L|| || ||Lom|| || || || || |-
+\![mfc](https://zh.wikipedia.org/wiki/ISO_639:mfc "wikilink")  | ||
+||I/L|| || ||Mba|| || || || || |-
+\![mfd](https://zh.wikipedia.org/wiki/ISO_639:mfd "wikilink")  | ||
+||I/L|| || ||Mendankwe-Nkwen|| || || || || |-
+\![mfe](https://zh.wikipedia.org/wiki/ISO_639:mfe "wikilink")  | ||
+||I/L|| ||morisyin||Morisyen|| || || || || |-
+\![mff](https://zh.wikipedia.org/wiki/ISO_639:mff "wikilink")  | ||
+||I/L|| || ||Naki|| || || || || |-
+\![mfg](https://zh.wikipedia.org/wiki/ISO_639:mfg "wikilink")  | ||
+||I/L|| || ||Mixifore|| || || || || |-
+\![mfh](https://zh.wikipedia.org/wiki/ISO_639:mfh "wikilink")  | ||
+||I/L|| || ||Matal|| || || || || |-
+\![mfi](https://zh.wikipedia.org/wiki/ISO_639:mfi "wikilink")  | ||
+||I/L|| || ||Wandala|| || || || || |-
+\![mfj](https://zh.wikipedia.org/wiki/ISO_639:mfj "wikilink")  | ||
+||I/L|| || ||Mefele|| || || || || |-
+\![mfk](https://zh.wikipedia.org/wiki/ISO_639:mfk "wikilink")  | ||
+||I/L|| || ||Mofu, North|| || || || || |-
+\![mfl](https://zh.wikipedia.org/wiki/ISO_639:mfl "wikilink")  | ||
+||I/L|| || ||Putai|| || || || || |-
+\![mfm](https://zh.wikipedia.org/wiki/ISO_639:mfm "wikilink")  | ||
+||I/L|| || ||Marghi South|| || || || || |-
+\![mfn](https://zh.wikipedia.org/wiki/ISO_639:mfn "wikilink")  | ||
+||I/L|| || ||Mbembe, Cross River|| || || || || |-
+\![mfo](https://zh.wikipedia.org/wiki/ISO_639:mfo "wikilink")  | ||
+||I/L|| || ||Mbe|| || || || || |-
+\![mfp](https://zh.wikipedia.org/wiki/ISO_639:mfp "wikilink")  | ||
+||I/L|| || ||Malay, Makassar|| || || || || |-
+\![mfq](https://zh.wikipedia.org/wiki/ISO_639:mfq "wikilink")  | ||
+||I/L|| || ||Moba|| || || || || |-
+\![mfr](https://zh.wikipedia.org/wiki/ISO_639:mfr "wikilink")  | ||
+||I/L|| || ||Marithiel|| || || || || |-
+\![mfs](https://zh.wikipedia.org/wiki/ISO_639:mfs "wikilink")  | ||
+||I/L|| || ||Mexican Sign Language|| || ||墨西哥手语|| || |-
+\![mft](https://zh.wikipedia.org/wiki/ISO_639:mft "wikilink")  | ||
+||I/L|| || ||Mokerang|| || || || || |-
+\![mfu](https://zh.wikipedia.org/wiki/ISO_639:mfu "wikilink")  | ||
+||I/L|| || ||Mbwela|| || || || || |-
+\![mfv](https://zh.wikipedia.org/wiki/ISO_639:mfv "wikilink")  | ||
+||I/L|| || ||Mandjak|| || || || || |-
+\![mfw](https://zh.wikipedia.org/wiki/ISO_639:mfw "wikilink")  | ||
+||I/E|| || ||Mulaha|| || || || || |-
+\![mfx](https://zh.wikipedia.org/wiki/ISO_639:mfx "wikilink")  | ||
+||I/L|| || ||Melo|| || || || || |-
+\![mfy](https://zh.wikipedia.org/wiki/ISO_639:mfy "wikilink")  | ||
+||I/L|| ||Caíta||Mayo|| ||mayo||马约语|| || |-
+\![mfz](https://zh.wikipedia.org/wiki/ISO_639:mfz "wikilink")  | ||
+||I/L|| || ||Mabaan|| || || || || |-
+\![mga](https://zh.wikipedia.org/wiki/ISO_639:mga "wikilink")  |
+||mga||I/H|| || ||Irish, Middle (900-1200)||irlandais moyen||irlandés
+medio||中古爱尔兰语||среднеирландский|| |-
+\![mgb](https://zh.wikipedia.org/wiki/ISO_639:mgb "wikilink")  | ||
+||I/L|| || ||Mararit|| || || || || |-
+\![mgc](https://zh.wikipedia.org/wiki/ISO_639:mgc "wikilink")  | ||
+||I/L|| || ||Morokodo|| || || || || |-
+\![mgd](https://zh.wikipedia.org/wiki/ISO_639:mgd "wikilink")  | ||
+||I/L|| || ||Moru|| || || || || |-
+\![mge](https://zh.wikipedia.org/wiki/ISO_639:mge "wikilink")  | ||
+||I/L|| || ||Mango|| || || || || |-
+\![mgf](https://zh.wikipedia.org/wiki/ISO_639:mgf "wikilink")  | ||
+||I/L|| || ||Maklew|| || || || || |-
+\![mgg](https://zh.wikipedia.org/wiki/ISO_639:mgg "wikilink")  | ||
+||I/L|| || ||Mpongmpong|| || || || || |-
+\![mgh](https://zh.wikipedia.org/wiki/ISO_639:mgh "wikilink")  | ||
+||I/L|| || ||Makhuwa-Meetto|| || || || || |-
+\![mgi](https://zh.wikipedia.org/wiki/ISO_639:mgi "wikilink")  | ||
+||I/L|| || ||Lijili|| || || || || |-
+\![mgj](https://zh.wikipedia.org/wiki/ISO_639:mgj "wikilink")  | ||
+||I/L|| || ||Abureni|| || || || || |-
+\![mgk](https://zh.wikipedia.org/wiki/ISO_639:mgk "wikilink")  | ||
+||I/L|| || ||Mawes|| || || || || |-
+\![mgl](https://zh.wikipedia.org/wiki/ISO_639:mgl "wikilink")  | ||
+||I/L|| || ||Maleu-Kilenge|| || || || || |-
+\![mgm](https://zh.wikipedia.org/wiki/ISO_639:mgm "wikilink")  | ||
+||I/L|| || ||Mambae|| || || ||мамбай||Mambae |-
+\![mgn](https://zh.wikipedia.org/wiki/ISO_639:mgn "wikilink")  | ||
+||I/L|| || ||Mbangi|| || || || || |-
+\![mgo](https://zh.wikipedia.org/wiki/ISO_639:mgo "wikilink")  | ||
+||I/L|| || ||Meta'|| || || || || |-
+\![mgp](https://zh.wikipedia.org/wiki/ISO_639:mgp "wikilink")  | ||
+||I/L|| || ||Magar, Eastern|| || || || || |-
+\![mgq](https://zh.wikipedia.org/wiki/ISO_639:mgq "wikilink")  | ||
+||I/L|| || ||Malila|| || || || || |-
+\![mgr](https://zh.wikipedia.org/wiki/ISO_639:mgr "wikilink")  | ||
+||I/L|| || ||Mambwe-Lungu|| || || || || |-
+\![mgs](https://zh.wikipedia.org/wiki/ISO_639:mgs "wikilink")  | ||
+||I/L|| || ||Manda (Tanzania)|| || || ||манда|| |-
+\![mgt](https://zh.wikipedia.org/wiki/ISO_639:mgt "wikilink")  | ||
+||I/L|| || ||Mongol|| || || || || |-
+\![mgu](https://zh.wikipedia.org/wiki/ISO_639:mgu "wikilink")  | ||
+||I/L|| || ||Mailu|| || || || || |-
+\![mgv](https://zh.wikipedia.org/wiki/ISO_639:mgv "wikilink")  | ||
+||I/L|| || ||Matengo|| || || || || |-
+\![mgw](https://zh.wikipedia.org/wiki/ISO_639:mgw "wikilink")  | ||
+||I/L|| || ||Matumbi|| || || ||матумби|| |-
+\!([mgx](https://zh.wikipedia.org/wiki/ISO_639:mgx "wikilink"))  | ||
+||I/L|| || ||Omati|| || || || || |-
+\![mgy](https://zh.wikipedia.org/wiki/ISO_639:mgy "wikilink")  | ||
+||I/L|| || ||Mbunga|| || || || || |-
+\![mgz](https://zh.wikipedia.org/wiki/ISO_639:mgz "wikilink")  | ||
+||I/L|| || ||Mbugwe|| || || ||мбугве|| |-
+\![mha](https://zh.wikipedia.org/wiki/ISO_639:mha "wikilink")  | ||
+||I/L|| || ||Manda (India)|| || || || || |-
+\![mhb](https://zh.wikipedia.org/wiki/ISO_639:mhb "wikilink")  | ||
+||I/L|| || ||Mahongwe|| || || || || |-
+\![mhc](https://zh.wikipedia.org/wiki/ISO_639:mhc "wikilink")  | ||
+||I/L|| || ||Mocho|| || || || || |-
+\![mhd](https://zh.wikipedia.org/wiki/ISO_639:mhd "wikilink")  | ||
+||I/L|| || ||Mbugu|| || || || || |-
+\![mhe](https://zh.wikipedia.org/wiki/ISO_639:mhe "wikilink")  | ||
+||I/L|| || ||Besisi|| || || || || |-
+\![mhf](https://zh.wikipedia.org/wiki/ISO_639:mhf "wikilink")  | ||
+||I/L|| || ||Mamaa|| || || || || |-
+\![mhg](https://zh.wikipedia.org/wiki/ISO_639:mhg "wikilink")  | ||
+||I/L|| || ||Margu|| || || || || |-
+\!([mhh](https://zh.wikipedia.org/wiki/ISO_639:mhh "wikilink"))  | ||
+||I/L|| || ||Maskoy Pidgin|| || || || || |-
+\![mhi](https://zh.wikipedia.org/wiki/ISO_639:mhi "wikilink")  | ||
+||I/L|| || ||Ma'di|| || || || || |-
+\![mhj](https://zh.wikipedia.org/wiki/ISO_639:mhj "wikilink")  | ||
+||I/L|| || ||Mogholi|| || ||莫戈勒语|| || |-
+\![mhk](https://zh.wikipedia.org/wiki/ISO_639:mhk "wikilink")  | ||
+||I/L|| || ||Mungaka|| || || || || |-
+\![mhl](https://zh.wikipedia.org/wiki/ISO_639:mhl "wikilink")  | ||
+||I/L|| || ||Mauwake|| || || || || |-
+\![mhm](https://zh.wikipedia.org/wiki/ISO_639:mhm "wikilink")  | ||
+||I/L|| || ||Makhuwa-Moniga|| || || || || |-
+\![mhn](https://zh.wikipedia.org/wiki/ISO_639:mhn "wikilink")  | ||
+||I/L|| || ||Mócheno|| || ||默切诺语|| || |-
+\![mho](https://zh.wikipedia.org/wiki/ISO_639:mho "wikilink")  | ||
+||I/L|| || ||Mashi (Zambia)|| || || || || |-
+\![mhp](https://zh.wikipedia.org/wiki/ISO_639:mhp "wikilink")  | ||
+||I/L|| || ||Malay, Balinese|| || || || || |-
+\![mhq](https://zh.wikipedia.org/wiki/ISO_639:mhq "wikilink")  | ||
+||I/L|| ||Rų́ʼeta:re||Mandan|| ||mandan|| || || |-
+\![mhr](https://zh.wikipedia.org/wiki/ISO_639:mhr "wikilink")  | ||
+||I/L|| || ||Mari, Eastern|| || ||平地马里语; 东马里语|| || |-
+\![mhs](https://zh.wikipedia.org/wiki/ISO_639:mhs "wikilink")  | ||
+||I/L|| || ||Buru (Indonesia)|| || || ||буру||Buru |-
+\![mht](https://zh.wikipedia.org/wiki/ISO_639:mht "wikilink")  | ||
+||I/L|| || ||Mandahuaca|| || || || || |-
+\![mhu](https://zh.wikipedia.org/wiki/ISO_639:mhu "wikilink")  | ||
+||I/L|| || ||Digaro-Mishmi|| || ||达让-僜语|| || |-
+\!([mhv](https://zh.wikipedia.org/wiki/ISO_639:mhv "wikilink"))  | || ||
+|| || ||Arakanese|| || || || || |-
+\![mhw](https://zh.wikipedia.org/wiki/ISO_639:mhw "wikilink")  | ||
+||I/L|| || ||Mbukushu|| || || || || |-
+\![mhx](https://zh.wikipedia.org/wiki/ISO_639:mhx "wikilink")  | ||
+||I/L|| || ||Maru|| || ||浪速语; 浪峨语|| || |-
+\![mhy](https://zh.wikipedia.org/wiki/ISO_639:mhy "wikilink")  | ||
+||I/L|| || ||Ma'anyan|| || || || || |-
+\![mhz](https://zh.wikipedia.org/wiki/ISO_639:mhz "wikilink")  | ||
+||I/L|| || ||Mor (Mor Islands)|| || || || || |-
+\![mia](https://zh.wikipedia.org/wiki/ISO_639:mia "wikilink")  | ||
+||I/L|| || ||Miami|| || || || || |-
+\![mib](https://zh.wikipedia.org/wiki/ISO_639:mib "wikilink")  | ||
+||I/L|| || ||Mixtec, Atatláhuca|| || || || || |-
+\![mic](https://zh.wikipedia.org/wiki/ISO_639:mic "wikilink")  |
+||mic||I/L|| ||Mi'gmaq||Micmac||micmac||micmac||米克马克语||микмак|| |-
+\![mid](https://zh.wikipedia.org/wiki/ISO_639:mid "wikilink")  | ||
+||I/L|| ||Mandāyì||Mandaic|| || ||曼底安语|| || |-
+\![mie](https://zh.wikipedia.org/wiki/ISO_639:mie "wikilink")  | ||
+||I/L|| || ||Mixtec, Ocotepec|| || || || || |-
+\![mif](https://zh.wikipedia.org/wiki/ISO_639:mif "wikilink")  | ||
+||I/L|| || ||Mofu-Gudur|| || || || || |-
+\![mig](https://zh.wikipedia.org/wiki/ISO_639:mig "wikilink")  | ||
+||I/L|| || ||Mixtec, San Miguel El Grande|| || || || || |-
+\![mih](https://zh.wikipedia.org/wiki/ISO_639:mih "wikilink")  | ||
+||I/L|| || ||Mixtec, Chayuco|| || || || || |-
+\![mii](https://zh.wikipedia.org/wiki/ISO_639:mii "wikilink")  | ||
+||I/L|| || ||Mixtec, Chigmecatitlán|| || || || || |-
+\![mij](https://zh.wikipedia.org/wiki/ISO_639:mij "wikilink")  | ||
+||I/L|| || ||Abar|| || || || || |-
+\![mik](https://zh.wikipedia.org/wiki/ISO_639:mik "wikilink")  | ||
+||I/L|| || ||Mikasuki|| ||mikasuki|| || || |-
+\![mil](https://zh.wikipedia.org/wiki/ISO_639:mil "wikilink")  | ||
+||I/L|| || ||Mixtec, Peñoles|| || || || || |-
+\![mim](https://zh.wikipedia.org/wiki/ISO_639:mim "wikilink")  | ||
+||I/L|| || ||Mixtec, Alacatlatzala|| || || || || |-
+\![min](https://zh.wikipedia.org/wiki/ISO_639:min "wikilink")  |
+||min||I/L|| ||Baso Minangkabau||Minangkabau||minangkabau||
+||米南卡保语||минангкабау||Minangkabau |-
+\![mio](https://zh.wikipedia.org/wiki/ISO_639:mio "wikilink")  | ||
+||I/L|| || ||Mixtec, Pinotepa Nacional|| || || || || |-
+\![mip](https://zh.wikipedia.org/wiki/ISO_639:mip "wikilink")  | ||
+||I/L|| || ||Mixtec, Apasco-Apoala|| || || || || |-
+\![miq](https://zh.wikipedia.org/wiki/ISO_639:miq "wikilink")  | ||
+||I/L|| || ||Mískito|| ||miskito|| || || |-
+\![mir](https://zh.wikipedia.org/wiki/ISO_639:mir "wikilink")  | ||
+||I/L|| || ||Mixe, Isthmus|| || || || || |- \!mis  | ||mis||S/S|| ||
+||Uncoded languages|| || || || || |-
+\![mit](https://zh.wikipedia.org/wiki/ISO_639:mit "wikilink")  | ||
+||I/L|| || ||Mixtec, Southern Puebla|| || || || || |-
+\![miu](https://zh.wikipedia.org/wiki/ISO_639:miu "wikilink")  | ||
+||I/L|| || ||Mixtec, Cacaloxtepec|| || || || || |-
+\!([miv](https://zh.wikipedia.org/wiki/ISO_639:miv "wikilink"))  | || ||
+|| || ||Mimi|| || || || || |-
+\![miw](https://zh.wikipedia.org/wiki/ISO_639:miw "wikilink")  | ||
+||I/L|| || ||Akoye|| || || || || |-
+\![mix](https://zh.wikipedia.org/wiki/ISO_639:mix "wikilink")  | ||
+||I/L|| || ||Mixtec, Mixtepec|| || || || || |-
+\![miy](https://zh.wikipedia.org/wiki/ISO_639:miy "wikilink")  | ||
+||I/L|| || ||Mixtec, Ayutla|| || || || || |-
+\![miz](https://zh.wikipedia.org/wiki/ISO_639:miz "wikilink")  | ||
+||I/L|| || ||Mixtec, Coatzospan|| || || || || |-
+\!([mja](https://zh.wikipedia.org/wiki/ISO_639:mja "wikilink"))  | ||
+||I/L|| || ||Mahei|| || || || || |-
+\![mjb](https://zh.wikipedia.org/wiki/ISO_639:mjb "wikilink")  | ||
+||I/L||Trans–New Guinea|| ||Makalero|| || || || || |-
+\![mjc](https://zh.wikipedia.org/wiki/ISO_639:mjc "wikilink")  | ||
+||I/L|| || ||Mixtec, San Juan Colorado|| || || || || |-
+\![mjd](https://zh.wikipedia.org/wiki/ISO_639:mjd "wikilink")  | ||
+||I/L|| || ||Maidu, Northwest (Konkow)|| || || || || |-
+\![mje](https://zh.wikipedia.org/wiki/ISO_639:mje "wikilink")  | ||
+||I/E|| || ||Muskum|| || || || || |-
+\![mjg](https://zh.wikipedia.org/wiki/ISO_639:mjg "wikilink")  | ||
+||I/L|| || ||Tu|| || ||土族语|| || |-
+\![mjh](https://zh.wikipedia.org/wiki/ISO_639:mjh "wikilink")  | ||
+||I/L|| || ||Mwera (Nyasa)|| || || || || |-
+\![mji](https://zh.wikipedia.org/wiki/ISO_639:mji "wikilink")  | ||
+||I/L|| || ||Kim Mun|| || ||平地瑶话; 金门话|| || |-
+\![mjj](https://zh.wikipedia.org/wiki/ISO_639:mjj "wikilink")  | ||
+||I/L|| || ||Mawak|| || || || || |-
+\![mjk](https://zh.wikipedia.org/wiki/ISO_639:mjk "wikilink")  | ||
+||I/L|| || ||Matukar|| || || || || |-
+\![mjl](https://zh.wikipedia.org/wiki/ISO_639:mjl "wikilink")  | ||
+||I/L|| || ||Mandeali|| || || || || |-
+\![mjm](https://zh.wikipedia.org/wiki/ISO_639:mjm "wikilink")  | ||
+||I/L|| || ||Medebur|| || || || || |-
+\![mjn](https://zh.wikipedia.org/wiki/ISO_639:mjn "wikilink")  | ||
+||I/L|| || ||Ma (Papua New Guinea)|| || || || || |-
+\![mjo](https://zh.wikipedia.org/wiki/ISO_639:mjo "wikilink")  | ||
+||I/L|| || ||Malankuravan|| || || || || |-
+\![mjp](https://zh.wikipedia.org/wiki/ISO_639:mjp "wikilink")  | ||
+||I/L|| || ||Malapandaram|| || || || || |-
+\![mjq](https://zh.wikipedia.org/wiki/ISO_639:mjq "wikilink")  | ||
+||I/E|| || ||Malaryan|| || || || || |-
+\![mjr](https://zh.wikipedia.org/wiki/ISO_639:mjr "wikilink")  | ||
+||I/L|| || ||Malavedan|| || || || || |-
+\![mjs](https://zh.wikipedia.org/wiki/ISO_639:mjs "wikilink")  | ||
+||I/L|| || ||Miship|| || || || || |-
+\![mjt](https://zh.wikipedia.org/wiki/ISO_639:mjt "wikilink")  | ||
+||I/L|| || ||Sauria Paharia|| || || || || |-
+\![mju](https://zh.wikipedia.org/wiki/ISO_639:mju "wikilink")  | ||
+||I/L|| || ||Manna-Dora|| || || || || |-
+\![mjv](https://zh.wikipedia.org/wiki/ISO_639:mjv "wikilink")  | ||
+||I/L|| || ||Mannan|| || || || || |-
+\![mjw](https://zh.wikipedia.org/wiki/ISO_639:mjw "wikilink")  | ||
+||I/L|| || ||Karbi|| || || || || |-
+\![mjx](https://zh.wikipedia.org/wiki/ISO_639:mjx "wikilink")  | ||
+||I/L|| || ||Mahali|| || || || || |-
+\![mjy](https://zh.wikipedia.org/wiki/ISO_639:mjy "wikilink")  | ||
+||I/E|| || ||Mahican|| || || || || |-
+\![mjz](https://zh.wikipedia.org/wiki/ISO_639:mjz "wikilink")  | ||
+||I/L|| || ||Majhi|| || ||摩杰语|| || |-
+\![mka](https://zh.wikipedia.org/wiki/ISO_639:mka "wikilink")  | ||
+||I/L|| || ||Mbre|| || || || || |-
+\![mkb](https://zh.wikipedia.org/wiki/ISO_639:mkb "wikilink")  | ||
+||I/L|| || ||Mal Paharia|| || || || || |-
+\![mkc](https://zh.wikipedia.org/wiki/ISO_639:mkc "wikilink")  | ||
+||I/L|| || ||Siliput|| || || || || |-
+\![mkd](https://zh.wikipedia.org/wiki/ISO_639:mkd "wikilink")
+|mk||mac||I/L||Indo-European||македонски||Macedonian||macédonien||macedonio||马其顿语||македонский||Mazedonisch
+|- \![mke](https://zh.wikipedia.org/wiki/ISO_639:mke "wikilink")  | ||
+||I/L|| || ||Mawchi|| || || || || |-
+\![mkf](https://zh.wikipedia.org/wiki/ISO_639:mkf "wikilink")  | ||
+||I/L|| || ||Miya|| || || || || |-
+\![mkg](https://zh.wikipedia.org/wiki/ISO_639:mkg "wikilink")  | ||
+||I/L|| || ||Mak (China)|| || ||莫语|| || |-
+\![mki](https://zh.wikipedia.org/wiki/ISO_639:mki "wikilink")  | ||
+||I/L|| || ||Dhatki|| || || || || |-
+\![mkj](https://zh.wikipedia.org/wiki/ISO_639:mkj "wikilink")  | ||
+||I/L|| || ||Mokilese|| || || || || |-
+\![mkk](https://zh.wikipedia.org/wiki/ISO_639:mkk "wikilink")  | ||
+||I/L|| || ||Byep|| || || || || |-
+\![mkl](https://zh.wikipedia.org/wiki/ISO_639:mkl "wikilink")  | ||
+||I/L|| || ||Mokole|| || || || || |-
+\![mkm](https://zh.wikipedia.org/wiki/ISO_639:mkm "wikilink")  | ||
+||I/L|| || ||Moklen|| || ||莫肯语|| || |-
+\![mkn](https://zh.wikipedia.org/wiki/ISO_639:mkn "wikilink")  | ||
+||I/L|| || ||Malay, Kupang|| || || || || |-
+\![mko](https://zh.wikipedia.org/wiki/ISO_639:mko "wikilink")  | ||
+||I/L|| || ||Mingang Doso|| || || || || |-
+\![mkp](https://zh.wikipedia.org/wiki/ISO_639:mkp "wikilink")  | ||
+||I/L|| || ||Moikodi|| || || || || |-
+\![mkq](https://zh.wikipedia.org/wiki/ISO_639:mkq "wikilink")  | ||
+||I/E|| || ||Miwok, Bay|| || || || || |-
+\![mkr](https://zh.wikipedia.org/wiki/ISO_639:mkr "wikilink")  | ||
+||I/L|| || ||Malas|| || || || || |-
+\![mks](https://zh.wikipedia.org/wiki/ISO_639:mks "wikilink")  | ||
+||I/L|| || ||Mixtec, Silacayoapan|| || || || || |-
+\![mkt](https://zh.wikipedia.org/wiki/ISO_639:mkt "wikilink")  | ||
+||I/L|| || ||Vamale|| || || || || |-
+\![mku](https://zh.wikipedia.org/wiki/ISO_639:mku "wikilink")  | ||
+||I/L|| || ||Maninka, Konyanka|| || || || || |-
+\![mkv](https://zh.wikipedia.org/wiki/ISO_639:mkv "wikilink")  | ||
+||I/L|| || ||Mafea|| || || || || |-
+\![mkw](https://zh.wikipedia.org/wiki/ISO_639:mkw "wikilink")  | ||
+||I/L|| || ||Kituba (Congo)|| || || || || |-
+\![mkx](https://zh.wikipedia.org/wiki/ISO_639:mkx "wikilink")  | ||
+||I/L|| || ||Manobo, Cinamiguin|| || || || || |-
+\![mky](https://zh.wikipedia.org/wiki/ISO_639:mky "wikilink")  | ||
+||I/L|| || ||Makian, East|| || || || || |-
+\![mkz](https://zh.wikipedia.org/wiki/ISO_639:mkz "wikilink")  | ||
+||I/L|| || ||Makasae|| || || || || |-
+\![mla](https://zh.wikipedia.org/wiki/ISO_639:mla "wikilink")  | ||
+||I/L|| || ||Malo|| || || || || |-
+\![mlb](https://zh.wikipedia.org/wiki/ISO_639:mlb "wikilink")  | ||
+||I/L|| || ||Mbule|| || || || || |-
+\![mlc](https://zh.wikipedia.org/wiki/ISO_639:mlc "wikilink")  | ||
+||I/L|| || ||Cao Lan|| || ||高栏语|| || |-
+\!([mld](https://zh.wikipedia.org/wiki/ISO_639:mld "wikilink"))  | ||
+||I/L|| || ||Malakhel|| || || || || |-
+\![mle](https://zh.wikipedia.org/wiki/ISO_639:mle "wikilink")  | ||
+||I/L|| || ||Manambu|| || || || || |-
+\![mlf](https://zh.wikipedia.org/wiki/ISO_639:mlf "wikilink")  | ||
+||I/L|| || ||Mal|| || || || || |-
+\![mlg](https://zh.wikipedia.org/wiki/ISO_639:mlg "wikilink")
+|mg||mlg||M/L||Austronesian||Malagasy||Malagasy||malgache||mal(a)gache||马达加斯加语、马拉加西语||малагасийский||Madegassisch
+|- \![mlh](https://zh.wikipedia.org/wiki/ISO_639:mlh "wikilink")  | ||
+||I/L|| || ||Mape|| || || || || |-
+\![mli](https://zh.wikipedia.org/wiki/ISO_639:mli "wikilink")  | ||
+||I/L|| || ||Malimpung|| || || || || |-
+\![mlj](https://zh.wikipedia.org/wiki/ISO_639:mlj "wikilink")  | ||
+||I/L|| || ||Miltu|| || || || || |-
+\![mlk](https://zh.wikipedia.org/wiki/ISO_639:mlk "wikilink")  | ||
+||I/L|| || ||Malakote|| || || || || |-
+\![mll](https://zh.wikipedia.org/wiki/ISO_639:mll "wikilink")  | ||
+||I/L|| || ||Malua Bay|| || || || || |-
+\![mlm](https://zh.wikipedia.org/wiki/ISO_639:mlm "wikilink")  | ||
+||I/L|| || ||Mulam|| || ||仫佬语|| || |-
+\![mln](https://zh.wikipedia.org/wiki/ISO_639:mln "wikilink")  | ||
+||I/L|| || ||Malango|| || || || || |-
+\![mlo](https://zh.wikipedia.org/wiki/ISO_639:mlo "wikilink")  | ||
+||I/L|| || ||Mlomp|| || || || || |-
+\![mlp](https://zh.wikipedia.org/wiki/ISO_639:mlp "wikilink")  | ||
+||I/L|| || ||Bargam|| || || || || |-
+\![mlq](https://zh.wikipedia.org/wiki/ISO_639:mlq "wikilink")  | ||
+||I/L|| || ||Maninkakan, Western|| || || || || |-
+\![mlr](https://zh.wikipedia.org/wiki/ISO_639:mlr "wikilink")  | ||
+||I/L|| || ||Vame|| || || || || |-
+\![mls](https://zh.wikipedia.org/wiki/ISO_639:mls "wikilink")  | ||
+||I/L|| || ||Masalit|| || || || || |-
+\![mlt](https://zh.wikipedia.org/wiki/ISO_639:mlt "wikilink")
+|mt||mlt||I/L||Afro-Asiatic||bil-Malta||Maltese||maltais||maltés||马耳他语;
+马尔他语||мальтийский||Maltesisch |-
+\![mlu](https://zh.wikipedia.org/wiki/ISO_639:mlu "wikilink")  | ||
+||I/L|| || ||To'abaita|| || || || ||To'abaita |-
+\![mlv](https://zh.wikipedia.org/wiki/ISO_639:mlv "wikilink")  | ||
+||I/L|| || ||Motlav|| || || || || |-
+\![mlw](https://zh.wikipedia.org/wiki/ISO_639:mlw "wikilink")  | ||
+||I/L|| || ||Moloko|| || || || || |-
+\![mlx](https://zh.wikipedia.org/wiki/ISO_639:mlx "wikilink")  | ||
+||I/L|| || ||Malfaxal|| || || || || |-
+\!([mly](https://zh.wikipedia.org/wiki/ISO_639:mly "wikilink"))  | || ||
+|| || ||Malay (individual language)|| || || || || |-
+\![mlz](https://zh.wikipedia.org/wiki/ISO_639:mlz "wikilink")  | ||
+||I/L|| || ||Malaynon|| || || || || |-
+\![mma](https://zh.wikipedia.org/wiki/ISO_639:mma "wikilink")  | ||
+||I/L|| || ||Mama|| || || || || |-
+\![mmb](https://zh.wikipedia.org/wiki/ISO_639:mmb "wikilink")  | ||
+||I/L|| || ||Momina|| || || || || |-
+\![mmc](https://zh.wikipedia.org/wiki/ISO_639:mmc "wikilink")  | ||
+||I/L|| || ||Mazahua, Michoacán|| || || || || |-
+\![mmd](https://zh.wikipedia.org/wiki/ISO_639:mmd "wikilink")  | ||
+||I/L|| || ||Maonan|| || ||毛南语|| || |-
+\![mme](https://zh.wikipedia.org/wiki/ISO_639:mme "wikilink")  | ||
+||I/L|| || ||Mae|| || || || || |-
+\![mmf](https://zh.wikipedia.org/wiki/ISO_639:mmf "wikilink")  | ||
+||I/L|| || ||Mundat|| || || || || |-
+\![mmg](https://zh.wikipedia.org/wiki/ISO_639:mmg "wikilink")  | ||
+||I/L|| || ||Ambrym, North|| || || || || |-
+\![mmh](https://zh.wikipedia.org/wiki/ISO_639:mmh "wikilink")  | ||
+||I/L|| || ||Mehináku|| || || || || |-
+\![mmi](https://zh.wikipedia.org/wiki/ISO_639:mmi "wikilink")  | ||
+||I/L|| || ||Musar|| || || || || |-
+\![mmj](https://zh.wikipedia.org/wiki/ISO_639:mmj "wikilink")  | ||
+||I/L|| || ||Majhwar|| || || || || |-
+\![mmk](https://zh.wikipedia.org/wiki/ISO_639:mmk "wikilink")  | ||
+||I/L|| || ||Mukha-Dora|| || || || || |-
+\![mml](https://zh.wikipedia.org/wiki/ISO_639:mml "wikilink")  | ||
+||I/L|| || ||Man Met|| || || || || |-
+\![mmm](https://zh.wikipedia.org/wiki/ISO_639:mmm "wikilink")  | ||
+||I/L|| || ||Maii|| || || || || |-
+\![mmn](https://zh.wikipedia.org/wiki/ISO_639:mmn "wikilink")  | ||
+||I/L|| || ||Mamanwa|| || || || || |-
+\![mmo](https://zh.wikipedia.org/wiki/ISO_639:mmo "wikilink")  | ||
+||I/L|| || ||Buang, Mangga|| || || || || |-
+\![mmp](https://zh.wikipedia.org/wiki/ISO_639:mmp "wikilink")  | ||
+||I/L|| || ||Musan|| || || || || |-
+\![mmq](https://zh.wikipedia.org/wiki/ISO_639:mmq "wikilink")  | ||
+||I/L|| || ||Musak|| || || || || |-
+\![mmr](https://zh.wikipedia.org/wiki/ISO_639:mmr "wikilink")  | ||
+||I/L|| || ||Hmong, Western Xiangxi|| || ||西红苗话|| || |-
+\!([mms](https://zh.wikipedia.org/wiki/ISO_639:mms "wikilink"))  | ||
+||I/L|| || ||Mam, Southern|| || || || || |-
+\![mmt](https://zh.wikipedia.org/wiki/ISO_639:mmt "wikilink")  | ||
+||I/L|| || ||Malalamai|| || || || || |-
+\![mmu](https://zh.wikipedia.org/wiki/ISO_639:mmu "wikilink")  | ||
+||I/L|| || ||Mmaala|| || || || || |-
+\![mmv](https://zh.wikipedia.org/wiki/ISO_639:mmv "wikilink")  | ||
+||I/E|| || ||Miriti|| || || || || |-
+\![mmw](https://zh.wikipedia.org/wiki/ISO_639:mmw "wikilink")  | ||
+||I/L|| || ||Emae|| || || || || |-
+\![mmx](https://zh.wikipedia.org/wiki/ISO_639:mmx "wikilink")  | ||
+||I/L|| || ||Madak|| || || || || |-
+\![mmy](https://zh.wikipedia.org/wiki/ISO_639:mmy "wikilink")  | ||
+||I/L|| || ||Migaama|| || || || || |-
+\![mmz](https://zh.wikipedia.org/wiki/ISO_639:mmz "wikilink")  | ||
+||I/L|| || ||Mabaale|| || || || || |-
+\![mna](https://zh.wikipedia.org/wiki/ISO_639:mna "wikilink")  | ||
+||I/L|| || ||Mbula|| || || || || |-
+\![mnb](https://zh.wikipedia.org/wiki/ISO_639:mnb "wikilink")  | ||
+||I/L|| || ||Muna|| || || || ||Muna |-
+\![mnc](https://zh.wikipedia.org/wiki/ISO_639:mnc "wikilink")  |
+||mnc||I/L|| ||||Manchu||mandchou|| ||满语||манчу||Mandschurisch |-
+\![mnd](https://zh.wikipedia.org/wiki/ISO_639:mnd "wikilink")  | ||
+||I/L|| || ||Mondé|| ||mondé|| || || |-
+\![mne](https://zh.wikipedia.org/wiki/ISO_639:mne "wikilink")  | ||
+||I/L|| || ||Naba|| || || || || |-
+\![mnf](https://zh.wikipedia.org/wiki/ISO_639:mnf "wikilink")  | ||
+||I/L|| || ||Mundani|| || || || || |-
+\![mng](https://zh.wikipedia.org/wiki/ISO_639:mng "wikilink")  | ||
+||I/L|| || ||Mnong, Eastern|| || || || || |-
+\![mnh](https://zh.wikipedia.org/wiki/ISO_639:mnh "wikilink")  | ||
+||I/L|| || ||Mono (Democratic Republic of Congo)|| || || || || |-
+\![mni](https://zh.wikipedia.org/wiki/ISO_639:mni "wikilink")  |
+||mni||I/L||
+||মৈইতৈইলোন||Meitei||manipuri||manipurí||曼尼普尔语||манипури||Manipuri
+|- \![mnj](https://zh.wikipedia.org/wiki/ISO_639:mnj "wikilink")  | ||
+||I/L|| || ||Munji|| || || || || |-
+\![mnk](https://zh.wikipedia.org/wiki/ISO_639:mnk "wikilink")  | ||
+||I/L|| || ||Mandinka|| || ||曼丁哥语|| || |-
+\![mnl](https://zh.wikipedia.org/wiki/ISO_639:mnl "wikilink")  | ||
+||I/L|| || ||Tiale|| || || || || |-
+\![mnm](https://zh.wikipedia.org/wiki/ISO_639:mnm "wikilink")  | ||
+||I/L|| || ||Mapena|| || || || || |-
+\![mnn](https://zh.wikipedia.org/wiki/ISO_639:mnn "wikilink")  | ||
+||I/L|| || ||Mnong, Southern|| || || || || |-
+\![mnp](https://zh.wikipedia.org/wiki/ISO_639:mnp "wikilink")  | ||
+||I/L||Chinese||闽北||Min Bei Chinese|| ||
+||[閩北語](https://zh.wikipedia.org/wiki/:闽北语 "wikilink")|| || |-
+\![mnq](https://zh.wikipedia.org/wiki/ISO_639:mnq "wikilink")  | ||
+||I/L|| || ||Minriq|| || || || || |-
+\![mnr](https://zh.wikipedia.org/wiki/ISO_639:mnr "wikilink")  | ||
+||I/L|| || ||Mono (USA)|| ||mono|| ||моно||Mono |-
+\![mns](https://zh.wikipedia.org/wiki/ISO_639:mns "wikilink")  | ||
+||I/L|| ||маньси||Mansi|| ||mansi||曼西语||мансийский||Mansisch |-
+\!([mnt](https://zh.wikipedia.org/wiki/ISO_639:mnt "wikilink"))  | ||
+||I/E|| || ||Maykulan|| || || || || |-
+\![mnu](https://zh.wikipedia.org/wiki/ISO_639:mnu "wikilink")  | ||
+||I/L|| || ||Mer|| || || || || |-
+\![mnv](https://zh.wikipedia.org/wiki/ISO_639:mnv "wikilink")  | ||
+||I/L|| || ||Rennell-Belona|| || || || ||Rennell-Belona |-
+\![mnw](https://zh.wikipedia.org/wiki/ISO_639:mnw "wikilink")  | ||
+||I/L|| ||ဘာသာမန္||Mon|| || ||孟语|| || |-
+\![mnx](https://zh.wikipedia.org/wiki/ISO_639:mnx "wikilink")  | ||
+||I/L|| || ||Manikion|| || || || || |-
+\![mny](https://zh.wikipedia.org/wiki/ISO_639:mny "wikilink")  | ||
+||I/L|| || ||Manyawa|| || || || || |-
+\![mnz](https://zh.wikipedia.org/wiki/ISO_639:mnz "wikilink")  | ||
+||I/L|| || ||Moni|| || || || || |-
+\![moa](https://zh.wikipedia.org/wiki/ISO_639:moa "wikilink")  | ||
+||I/L|| || ||Mwan|| || || || || |-
+\!([mob](https://zh.wikipedia.org/wiki/ISO_639:mob "wikilink"))  | || ||
+|| || ||Moinba|| || || || || |-
+\![moc](https://zh.wikipedia.org/wiki/ISO_639:moc "wikilink")  | ||
+||I/L|| || ||Mocoví|| || || || || |-
+\![mod](https://zh.wikipedia.org/wiki/ISO_639:mod "wikilink")  | ||
+||I/E|| || ||Mobilian|| ||mobilio|| || || |-
+\![moe](https://zh.wikipedia.org/wiki/ISO_639:moe "wikilink")  | ||
+||I/L|| || ||Montagnais|| ||montañés|| || || |-
+\!([mof](https://zh.wikipedia.org/wiki/ISO_639:mof "wikilink"))  | ||
+||I/E|| || ||Mohegan-Montauk-Narragansett|| || || || || |-
+\![mog](https://zh.wikipedia.org/wiki/ISO_639:mog "wikilink")  | ||
+||I/L|| || ||Mongondow|| || || ||монгондо||Mongondow |-
+\![moh](https://zh.wikipedia.org/wiki/ISO_639:moh "wikilink")  |
+||moh||I/L|| ||Kanien’kéha||Mohawk||mohawk||mohawk||莫霍克语||мохаук||Mohawk
+|- \![moi](https://zh.wikipedia.org/wiki/ISO_639:moi "wikilink")  | ||
+||I/L|| || ||Mboi|| || || || || |-
+\![moj](https://zh.wikipedia.org/wiki/ISO_639:moj "wikilink")  | ||
+||I/L|| || ||Monzombo|| || || || || |-
+\![mok](https://zh.wikipedia.org/wiki/ISO_639:mok "wikilink")  | ||
+||I/L|| || ||Morori|| || || || || |-
+\!([mol](https://zh.wikipedia.org/wiki/ISO_639:mol "wikilink"))  | || ||
+|| || ||Moldavian|| || || || || |-
+\![mom](https://zh.wikipedia.org/wiki/ISO_639:mom "wikilink")  | ||
+||I/E|| || ||Monimbo|| || || || || |-
+\![mon](https://zh.wikipedia.org/wiki/ISO_639:mon "wikilink")
+|mn||mon||M/L||Mongolic||монгол||Mongolian||mongol||mongol||蒙古语||монгольский||Mongolisch
+|- \![moo](https://zh.wikipedia.org/wiki/ISO_639:moo "wikilink")  | ||
+||I/L|| || ||Monom|| || || || || |-
+\![mop](https://zh.wikipedia.org/wiki/ISO_639:mop "wikilink")  | ||
+||I/L|| || ||Mopán Maya|| || || || || |-
+\![moq](https://zh.wikipedia.org/wiki/ISO_639:moq "wikilink")  | ||
+||I/L|| || ||Mor (Bomberai Peninsula)|| || || || || |-
+\![mor](https://zh.wikipedia.org/wiki/ISO_639:mor "wikilink")  | ||
+||I/L|| || ||Moro|| || || || || |-
+\![mos](https://zh.wikipedia.org/wiki/ISO_639:mos "wikilink")  |
+||mos||I/L|| ||Mòoré||Mossi||moré|| ||莫西语||моей||Mòoré |-
+\![mot](https://zh.wikipedia.org/wiki/ISO_639:mot "wikilink")  | ||
+||I/L|| || ||Barí|| ||barí|| || || |-
+\![mou](https://zh.wikipedia.org/wiki/ISO_639:mou "wikilink")  | ||
+||I/L|| || ||Mogum|| || || || || |-
+\![mov](https://zh.wikipedia.org/wiki/ISO_639:mov "wikilink")  | ||
+||I/L|| || ||Mohave|| ||mohave||莫哈维语|| || |-
+\![mow](https://zh.wikipedia.org/wiki/ISO_639:mow "wikilink")  | ||
+||I/L|| || ||Moi (Congo)|| || || || || |-
+\![mox](https://zh.wikipedia.org/wiki/ISO_639:mox "wikilink")  | ||
+||I/L|| || ||Molima|| || || || || |-
+\![moy](https://zh.wikipedia.org/wiki/ISO_639:moy "wikilink")  | ||
+||I/L|| || ||Shekkacho|| || || || || |-
+\![moz](https://zh.wikipedia.org/wiki/ISO_639:moz "wikilink")  | ||
+||I/L|| || ||Mukulu|| || || || || |-
+\![mpa](https://zh.wikipedia.org/wiki/ISO_639:mpa "wikilink")  | ||
+||I/L|| || ||Mpoto|| || || || || |-
+\![mpb](https://zh.wikipedia.org/wiki/ISO_639:mpb "wikilink")  | ||
+||I/L|| || ||Mullukmulluk|| || || || || |-
+\![mpc](https://zh.wikipedia.org/wiki/ISO_639:mpc "wikilink")  | ||
+||I/L|| || ||Mangarayi|| || || || || |-
+\![mpd](https://zh.wikipedia.org/wiki/ISO_639:mpd "wikilink")  | ||
+||I/L|| || ||Machinere|| || || || || |-
+\![mpe](https://zh.wikipedia.org/wiki/ISO_639:mpe "wikilink")  | ||
+||I/L|| || ||Majang|| || || || || |-
+\!([mpf](https://zh.wikipedia.org/wiki/ISO_639:mpf "wikilink"))  | ||
+||I/L|| || ||Mam, Tajumulco|| || || || || |-
+\![mpg](https://zh.wikipedia.org/wiki/ISO_639:mpg "wikilink")  | ||
+||I/L|| || ||Marba|| || || || || |-
+\![mph](https://zh.wikipedia.org/wiki/ISO_639:mph "wikilink")  | ||
+||I/L|| || ||Maung|| || || || || |-
+\![mpi](https://zh.wikipedia.org/wiki/ISO_639:mpi "wikilink")  | ||
+||I/L|| || ||Mpade|| || || || || |-
+\![mpj](https://zh.wikipedia.org/wiki/ISO_639:mpj "wikilink")  | ||
+||I/L|| || ||Martu Wangka|| || || || || |-
+\![mpk](https://zh.wikipedia.org/wiki/ISO_639:mpk "wikilink")  | ||
+||I/L|| || ||Mbara (Chad)|| || || || || |-
+\![mpl](https://zh.wikipedia.org/wiki/ISO_639:mpl "wikilink")  | ||
+||I/L|| || ||Watut, Middle|| || || || || |-
+\![mpm](https://zh.wikipedia.org/wiki/ISO_639:mpm "wikilink")  | ||
+||I/L|| || ||Mixtec, Yosondúa|| || || || || |-
+\![mpn](https://zh.wikipedia.org/wiki/ISO_639:mpn "wikilink")  | ||
+||I/L|| || ||Mindiri|| || || || || |-
+\![mpo](https://zh.wikipedia.org/wiki/ISO_639:mpo "wikilink")  | ||
+||I/L|| || ||Miu|| || || || || |-
+\![mpp](https://zh.wikipedia.org/wiki/ISO_639:mpp "wikilink")  | ||
+||I/L|| || ||Migabac|| || || || || |-
+\![mpq](https://zh.wikipedia.org/wiki/ISO_639:mpq "wikilink")  | ||
+||I/L|| || ||Matís|| || || || || |-
+\![mpr](https://zh.wikipedia.org/wiki/ISO_639:mpr "wikilink")  | ||
+||I/L|| || ||Vangunu|| || || || || |-
+\![mps](https://zh.wikipedia.org/wiki/ISO_639:mps "wikilink")  | ||
+||I/L|| || ||Dadibi|| || || || || |-
+\![mpt](https://zh.wikipedia.org/wiki/ISO_639:mpt "wikilink")  | ||
+||I/L|| || ||Mian|| || || || || |-
+\![mpu](https://zh.wikipedia.org/wiki/ISO_639:mpu "wikilink")  | ||
+||I/L|| || ||Makuráp|| ||makuráp|| || || |-
+\![mpv](https://zh.wikipedia.org/wiki/ISO_639:mpv "wikilink")  | ||
+||I/L|| || ||Munkip|| || || || || |-
+\![mpw](https://zh.wikipedia.org/wiki/ISO_639:mpw "wikilink")  | ||
+||I/L|| || ||Mapidian|| || || || || |-
+\![mpx](https://zh.wikipedia.org/wiki/ISO_639:mpx "wikilink")  | ||
+||I/L|| || ||Misima-Paneati|| || || ||мисима-панеати||Misima-Paneati |-
+\![mpy](https://zh.wikipedia.org/wiki/ISO_639:mpy "wikilink")  | ||
+||I/L|| || ||Mapia|| || || || || |-
+\![mpz](https://zh.wikipedia.org/wiki/ISO_639:mpz "wikilink")  | ||
+||I/L|| || ||Mpi|| || || || || |-
+\![mqa](https://zh.wikipedia.org/wiki/ISO_639:mqa "wikilink")  | ||
+||I/L|| || ||Maba (Indonesia)|| || || || || |-
+\![mqb](https://zh.wikipedia.org/wiki/ISO_639:mqb "wikilink")  | ||
+||I/L|| || ||Mbuko|| || || || || |-
+\![mqc](https://zh.wikipedia.org/wiki/ISO_639:mqc "wikilink")  | ||
+||I/L|| || ||Mangole|| || || || || |-
+\!([mqd](https://zh.wikipedia.org/wiki/ISO_639:mqd "wikilink"))  | || ||
+|| || ||Madang|| || || || || |-
+\![mqe](https://zh.wikipedia.org/wiki/ISO_639:mqe "wikilink")  | ||
+||I/L|| || ||Matepi|| || || || || |-
+\![mqf](https://zh.wikipedia.org/wiki/ISO_639:mqf "wikilink")  | ||
+||I/L|| || ||Momuna|| || || || || |-
+\![mqg](https://zh.wikipedia.org/wiki/ISO_639:mqg "wikilink")  | ||
+||I/L|| || ||Malay, Kota Bangun Kutai|| || || || || |-
+\![mqh](https://zh.wikipedia.org/wiki/ISO_639:mqh "wikilink")  | ||
+||I/L|| || ||Mixtec, Tlazoyaltepec|| || || || || |-
+\![mqi](https://zh.wikipedia.org/wiki/ISO_639:mqi "wikilink")  | ||
+||I/L|| || ||Mariri|| || || || || |-
+\![mqj](https://zh.wikipedia.org/wiki/ISO_639:mqj "wikilink")  | ||
+||I/L|| || ||Mamasa|| || || || || |-
+\![mqk](https://zh.wikipedia.org/wiki/ISO_639:mqk "wikilink")  | ||
+||I/L|| || ||Manobo, Rajah Kabunsuwan|| || || || || |-
+\![mql](https://zh.wikipedia.org/wiki/ISO_639:mql "wikilink")  | ||
+||I/L|| || ||Mbelime|| || || || || |-
+\![mqm](https://zh.wikipedia.org/wiki/ISO_639:mqm "wikilink")  | ||
+||I/L|| || ||Marquesan, South|| || ||南马克萨斯语|| || |-
+\![mqn](https://zh.wikipedia.org/wiki/ISO_639:mqn "wikilink")  | ||
+||I/L|| || ||Moronene|| || || || || |-
+\![mqo](https://zh.wikipedia.org/wiki/ISO_639:mqo "wikilink")  | ||
+||I/L|| || ||Modole|| || || || || |-
+\![mqp](https://zh.wikipedia.org/wiki/ISO_639:mqp "wikilink")  | ||
+||I/L|| || ||Manipa|| || || || || |-
+\![mqq](https://zh.wikipedia.org/wiki/ISO_639:mqq "wikilink")  | ||
+||I/L|| || ||Minokok|| || || || || |-
+\![mqr](https://zh.wikipedia.org/wiki/ISO_639:mqr "wikilink")  | ||
+||I/L|| || ||Mander|| || || || || |-
+\![mqs](https://zh.wikipedia.org/wiki/ISO_639:mqs "wikilink")  | ||
+||I/L|| || ||Makian, West|| || || || || |-
+\![mqt](https://zh.wikipedia.org/wiki/ISO_639:mqt "wikilink")  | ||
+||I/L|| || ||Mok|| || || || || |-
+\![mqu](https://zh.wikipedia.org/wiki/ISO_639:mqu "wikilink")  | ||
+||I/L|| || ||Mandari|| || || || || |-
+\![mqv](https://zh.wikipedia.org/wiki/ISO_639:mqv "wikilink")  | ||
+||I/L|| || ||Mosimo|| || || || || |-
+\![mqw](https://zh.wikipedia.org/wiki/ISO_639:mqw "wikilink")  | ||
+||I/L|| || ||Murupi|| || || || || |-
+\![mqx](https://zh.wikipedia.org/wiki/ISO_639:mqx "wikilink")  | ||
+||I/L|| || ||Mamuju|| || || || || |-
+\![mqy](https://zh.wikipedia.org/wiki/ISO_639:mqy "wikilink")  | ||
+||I/L|| || ||Manggarai|| || ||芒加莱语||манггарай||Manggarei |-
+\![mqz](https://zh.wikipedia.org/wiki/ISO_639:mqz "wikilink")  | ||
+||I/L|| || ||Malasanga|| || || || || |-
+\![mra](https://zh.wikipedia.org/wiki/ISO_639:mra "wikilink")  | ||
+||I/L|| || ||Mlabri|| || ||马拉比语|| || |-
+\![mrb](https://zh.wikipedia.org/wiki/ISO_639:mrb "wikilink")  | ||
+||I/L|| || ||Marino|| || || || || |-
+\![mrc](https://zh.wikipedia.org/wiki/ISO_639:mrc "wikilink")  | ||
+||I/L|| || ||Maricopa|| ||maricopa|| || || |-
+\![mrd](https://zh.wikipedia.org/wiki/ISO_639:mrd "wikilink")  | ||
+||I/L|| || ||Magar, Western|| || || || || |-
+\![mre](https://zh.wikipedia.org/wiki/ISO_639:mre "wikilink")  | ||
+||I/E|| || ||Martha's Vineyard Sign Language|| || ||马萨葡萄园手语|| || |-
+\![mrf](https://zh.wikipedia.org/wiki/ISO_639:mrf "wikilink")  | ||
+||I/L|| || ||Elseng|| || || || || |-
+\![mrg](https://zh.wikipedia.org/wiki/ISO_639:mrg "wikilink")  | ||
+||I/L|| || ||Miri|| || || || || |-
+\![mrh](https://zh.wikipedia.org/wiki/ISO_639:mrh "wikilink")  | ||
+||I/L|| || ||Chin, Mara|| || || || || |-
+\![mri](https://zh.wikipedia.org/wiki/ISO_639:mri "wikilink")
+|mi||mao||I/L||Austronesian||te reo
+Māori||Maori||maori||maorí||毛利语||маори||Maori |-
+\![mrj](https://zh.wikipedia.org/wiki/ISO_639:mrj "wikilink")  | ||
+||I/L|| || ||Mari, Western|| || ||山地马里语; 西马里语|| || |-
+\![mrk](https://zh.wikipedia.org/wiki/ISO_639:mrk "wikilink")  | ||
+||I/L|| || ||Hmwaveke|| || || || || |-
+\![mrl](https://zh.wikipedia.org/wiki/ISO_639:mrl "wikilink")  | ||
+||I/L|| || ||Mortlockese|| || || || || |-
+\![mrm](https://zh.wikipedia.org/wiki/ISO_639:mrm "wikilink")  | ||
+||I/L|| || ||Merlav|| || || || || |-
+\![mrn](https://zh.wikipedia.org/wiki/ISO_639:mrn "wikilink")  | ||
+||I/L|| || ||Cheke Holo|| || || || || |-
+\![mro](https://zh.wikipedia.org/wiki/ISO_639:mro "wikilink")  | ||
+||I/L|| || ||Mru|| || || || || |-
+\![mrp](https://zh.wikipedia.org/wiki/ISO_639:mrp "wikilink")  | ||
+||I/L|| || ||Morouas|| || || || || |-
+\![mrq](https://zh.wikipedia.org/wiki/ISO_639:mrq "wikilink")  | ||
+||I/L|| || ||Marquesan, North|| || ||北马克萨斯语||(сев.)
+маркесанский||Nord-Marquesanisch |-
+\![mrr](https://zh.wikipedia.org/wiki/ISO_639:mrr "wikilink")  | ||
+||I/L|| || ||Maria (India)|| || || || || |-
+\![mrs](https://zh.wikipedia.org/wiki/ISO_639:mrs "wikilink")  | ||
+||I/L|| || ||Maragus|| || || || || |-
+\![mrt](https://zh.wikipedia.org/wiki/ISO_639:mrt "wikilink")  | ||
+||I/L|| || ||Marghi Central|| || || || || |-
+\![mru](https://zh.wikipedia.org/wiki/ISO_639:mru "wikilink")  | ||
+||I/L|| || ||Mono (Cameroon)|| || || || || |-
+\![mrv](https://zh.wikipedia.org/wiki/ISO_639:mrv "wikilink")  | ||
+||I/L|| || ||Mangareva|| || || ||мангарева||Mangareva |-
+\![mrw](https://zh.wikipedia.org/wiki/ISO_639:mrw "wikilink")  | ||
+||I/L|| ||Austronesian ||Maranao ||Maranao|| ||马拉瑙语||маранао||Maranao |-
+\![mrx](https://zh.wikipedia.org/wiki/ISO_639:mrx "wikilink")  | ||
+||I/L|| || ||Maremgi|| || || || || |-
+\![mry](https://zh.wikipedia.org/wiki/ISO_639:mry "wikilink")  | ||
+||I/L|| || ||Mandaya, Karaga|| || || || || |-
+\![mrz](https://zh.wikipedia.org/wiki/ISO_639:mrz "wikilink")  | ||
+||I/L|| || ||Marind|| || ||马林德语|| || |-
+\![msa](https://zh.wikipedia.org/wiki/ISO_639:msa "wikilink")
+|ms||may||M/L||Austronesian||bahasa Melayu||Malay
+(generic)||malais||malayo||马来语||малайский||Malaiisch |-
+\![msb](https://zh.wikipedia.org/wiki/ISO_639:msb "wikilink")  | ||
+||I/L|| || ||Masbatenyo|| || || || || |-
+\![msc](https://zh.wikipedia.org/wiki/ISO_639:msc "wikilink")  | ||
+||I/L|| || ||Maninka, Sankaran|| || || || || |-
+\![msd](https://zh.wikipedia.org/wiki/ISO_639:msd "wikilink")  | ||
+||I/L|| || ||Yucatec Maya Sign Language|| || ||尤卡坦玛雅手语|| || |-
+\![mse](https://zh.wikipedia.org/wiki/ISO_639:mse "wikilink")  | ||
+||I/L|| || ||Musey|| || || || || |-
+\![msf](https://zh.wikipedia.org/wiki/ISO_639:msf "wikilink")  | ||
+||I/L|| || ||Mekwei|| || || || || |-
+\![msg](https://zh.wikipedia.org/wiki/ISO_639:msg "wikilink")  | ||
+||I/L|| || ||Moraid|| || || || || |-
+\![msh](https://zh.wikipedia.org/wiki/ISO_639:msh "wikilink")  | ||
+||I/L|| || ||Malagasy, Masikoro|| || || || || |-
+\![msi](https://zh.wikipedia.org/wiki/ISO_639:msi "wikilink")  | ||
+||I/L|| || ||Malay, Sabah|| || || || || |-
+\![msj](https://zh.wikipedia.org/wiki/ISO_639:msj "wikilink")  | ||
+||I/L|| || ||Ma (Democratic Republic of Congo)|| || || || || |-
+\![msk](https://zh.wikipedia.org/wiki/ISO_639:msk "wikilink")  | ||
+||I/L|| || ||Mansaka|| || || || || |-
+\![msl](https://zh.wikipedia.org/wiki/ISO_639:msl "wikilink")  | ||
+||I/L|| || ||Molof|| || || || || |-
+\![msm](https://zh.wikipedia.org/wiki/ISO_639:msm "wikilink")  | ||
+||I/L|| || ||Manobo, Agusan|| || || || || |-
+\![msn](https://zh.wikipedia.org/wiki/ISO_639:msn "wikilink")  | ||
+||I/L|| || ||Mosina|| || || || || |-
+\![mso](https://zh.wikipedia.org/wiki/ISO_639:mso "wikilink")  | ||
+||I/L|| || ||Mombum|| || || || || |-
+\![msp](https://zh.wikipedia.org/wiki/ISO_639:msp "wikilink")  | ||
+||I/E|| || ||Maritsauá|| ||maritsauá|| || || |-
+\![msq](https://zh.wikipedia.org/wiki/ISO_639:msq "wikilink")  | ||
+||I/L|| || ||Caac|| || || || || |-
+\![msr](https://zh.wikipedia.org/wiki/ISO_639:msr "wikilink")  | ||
+||I/L|| || ||Mongolian Sign Language|| || ||蒙古手语|| || |-
+\![mss](https://zh.wikipedia.org/wiki/ISO_639:mss "wikilink")  | ||
+||I/L|| || ||Masela, West|| || || || || |-
+\!([mst](https://zh.wikipedia.org/wiki/ISO_639:mst "wikilink"))  | ||
+||I/L|| || ||Mandaya, Cataelano|| || || || || |-
+\![msu](https://zh.wikipedia.org/wiki/ISO_639:msu "wikilink")  | ||
+||I/L|| || ||Musom|| || || || || |-
+\![msv](https://zh.wikipedia.org/wiki/ISO_639:msv "wikilink")  | ||
+||I/L|| || ||Maslam|| || || || || |-
+\![msw](https://zh.wikipedia.org/wiki/ISO_639:msw "wikilink")  | ||
+||I/L|| || ||Mansoanka|| || || || || |-
+\![msx](https://zh.wikipedia.org/wiki/ISO_639:msx "wikilink")  | ||
+||I/L|| || ||Moresada|| || || || || |-
+\![msy](https://zh.wikipedia.org/wiki/ISO_639:msy "wikilink")  | ||
+||I/L|| || ||Aruamu|| || || || || |-
+\![msz](https://zh.wikipedia.org/wiki/ISO_639:msz "wikilink")  | ||
+||I/L|| || ||Momare|| || || || || |-
+\![mta](https://zh.wikipedia.org/wiki/ISO_639:mta "wikilink")  | ||
+||I/L|| || ||Manobo, Cotabato|| || || || || |-
+\![mtb](https://zh.wikipedia.org/wiki/ISO_639:mtb "wikilink")  | ||
+||I/L|| || ||Anyin Morofo|| || || || || |-
+\![mtc](https://zh.wikipedia.org/wiki/ISO_639:mtc "wikilink")  | ||
+||I/L|| || ||Munit|| || || || || |-
+\![mtd](https://zh.wikipedia.org/wiki/ISO_639:mtd "wikilink")  | ||
+||I/L|| || ||Mualang|| || || || || |-
+\![mte](https://zh.wikipedia.org/wiki/ISO_639:mte "wikilink")  | ||
+||I/L|| || ||Mono (Solomon Islands)|| || || || || |-
+\![mtf](https://zh.wikipedia.org/wiki/ISO_639:mtf "wikilink")  | ||
+||I/L|| || ||Murik|| || || || || |-
+\![mtg](https://zh.wikipedia.org/wiki/ISO_639:mtg "wikilink")  | ||
+||I/L|| || ||Una|| || || || || |-
+\![mth](https://zh.wikipedia.org/wiki/ISO_639:mth "wikilink")  | ||
+||I/L|| || ||Munggui|| || || || || |-
+\![mti](https://zh.wikipedia.org/wiki/ISO_639:mti "wikilink")  | ||
+||I/L|| || ||Maiwa (Papua New Guinea)|| || || || || |-
+\![mtj](https://zh.wikipedia.org/wiki/ISO_639:mtj "wikilink")  | ||
+||I/L|| || ||Moskona|| || || || || |-
+\![mtk](https://zh.wikipedia.org/wiki/ISO_639:mtk "wikilink")  | ||
+||I/L|| || ||Mbe'|| || || || || |-
+\![mtl](https://zh.wikipedia.org/wiki/ISO_639:mtl "wikilink")  | ||
+||I/L|| || ||Montol|| || || || || |-
+\![mtm](https://zh.wikipedia.org/wiki/ISO_639:mtm "wikilink")  | ||
+||I/E|| || ||Mator|| || || || || |-
+\![mtn](https://zh.wikipedia.org/wiki/ISO_639:mtn "wikilink")  | ||
+||I/E|| || ||Matagalpa|| ||matagalpa|| || || |-
+\![mto](https://zh.wikipedia.org/wiki/ISO_639:mto "wikilink")  | ||
+||I/L|| || ||Mixe, Totontepec|| || || || || |-
+\![mtp](https://zh.wikipedia.org/wiki/ISO_639:mtp "wikilink")  | ||
+||I/L|| || ||Wichí Lhamtés Nocten|| || || || || |-
+\![mtq](https://zh.wikipedia.org/wiki/ISO_639:mtq "wikilink")  | ||
+||I/L|| ||Mường||Muong|| || ||芒语|| || |-
+\![mtr](https://zh.wikipedia.org/wiki/ISO_639:mtr "wikilink")  | ||
+||I/L|| || ||Mewari|| || || ||мевари|| |-
+\![mts](https://zh.wikipedia.org/wiki/ISO_639:mts "wikilink")  | ||
+||I/L|| || ||Yora|| ||yora|| || || |-
+\![mtt](https://zh.wikipedia.org/wiki/ISO_639:mtt "wikilink")  | ||
+||I/L|| || ||Mota|| || || ||мота||Mota |-
+\![mtu](https://zh.wikipedia.org/wiki/ISO_639:mtu "wikilink")  | ||
+||I/L|| || ||Mixtec, Tututepec|| || || || || |-
+\![mtv](https://zh.wikipedia.org/wiki/ISO_639:mtv "wikilink")  | ||
+||I/L|| || ||Asaro'o|| || || || || |-
+\![mtw](https://zh.wikipedia.org/wiki/ISO_639:mtw "wikilink")  | ||
+||I/L|| || ||Magahat|| || || || || |-
+\![mtx](https://zh.wikipedia.org/wiki/ISO_639:mtx "wikilink")  | ||
+||I/L|| || ||Mixtec, Tidaá|| || || || || |-
+\![mty](https://zh.wikipedia.org/wiki/ISO_639:mty "wikilink")  | ||
+||I/L|| || ||Nabi|| || || || || |-
+\!([mtz](https://zh.wikipedia.org/wiki/ISO_639:mtz "wikilink"))  | ||
+||I/L|| || ||Tacanec|| ||tacaneco|| || || |-
+\![mua](https://zh.wikipedia.org/wiki/ISO_639:mua "wikilink")  | ||
+||I/L|| || ||Mundang||Moundang || || || || |-
+\![mub](https://zh.wikipedia.org/wiki/ISO_639:mub "wikilink")  | ||
+||I/L|| || ||Mubi|| || || || || |-
+\![muc](https://zh.wikipedia.org/wiki/ISO_639:muc "wikilink")  | ||
+||I/L|| || ||Mbu'|| || || || || |-
+\![mud](https://zh.wikipedia.org/wiki/ISO_639:mud "wikilink")  | ||
+||I/L|| || ||Aleut, Mednyj|| || || || || |-
+\![mue](https://zh.wikipedia.org/wiki/ISO_639:mue "wikilink")  | ||
+||I/L|| || ||Media Lengua|| || || || || |-
+\![mug](https://zh.wikipedia.org/wiki/ISO_639:mug "wikilink")  | ||
+||I/L|| || ||Musgu|| || || || || |-
+\![muh](https://zh.wikipedia.org/wiki/ISO_639:muh "wikilink")  | ||
+||I/L|| || ||Mündü|| || || || || |-
+\![mui](https://zh.wikipedia.org/wiki/ISO_639:mui "wikilink")  | ||
+||I/L|| || ||Musi|| || || || || |-
+\![muj](https://zh.wikipedia.org/wiki/ISO_639:muj "wikilink")  | ||
+||I/L|| || ||Mabire|| || || || || |-
+\![muk](https://zh.wikipedia.org/wiki/ISO_639:muk "wikilink")  | ||
+||I/L|| || ||Mugom|| || || || || |-
+\![mul](https://zh.wikipedia.org/wiki/ISO_639:mul "wikilink")  |
+||mul||S/S|| ||\*||(Multiple)||(multiple)|| || ||разных семей
+языки||(Mehrere) |-
+\![mum](https://zh.wikipedia.org/wiki/ISO_639:mum "wikilink")  | ||
+||I/L|| || ||Maiwala|| || || || || |-
+\![muo](https://zh.wikipedia.org/wiki/ISO_639:muo "wikilink")  | ||
+||I/L|| || ||Nyong|| || || || || |-
+\![mup](https://zh.wikipedia.org/wiki/ISO_639:mup "wikilink")  | ||
+||I/L|| || ||Malvi|| || || || || |-
+\![muq](https://zh.wikipedia.org/wiki/ISO_639:muq "wikilink")  | ||
+||I/L|| || ||Hmong, Eastern Xiangxi|| || ||东红苗话|| || |-
+\![mur](https://zh.wikipedia.org/wiki/ISO_639:mur "wikilink")  | ||
+||I/L|| || ||Murle|| || || || || |-
+\![mus](https://zh.wikipedia.org/wiki/ISO_639:mus "wikilink")  |
+||mus||I/L|| ||Mvskokē||Creek||muskogee||maskoki||克里克语; 穆斯科格语||крик|| |-
+\![mut](https://zh.wikipedia.org/wiki/ISO_639:mut "wikilink")  | ||
+||I/L|| || ||Muria, Western|| || || || || |-
+\![muu](https://zh.wikipedia.org/wiki/ISO_639:muu "wikilink")  | ||
+||I/L|| || ||Yaaku|| || || || || |-
+\![muv](https://zh.wikipedia.org/wiki/ISO_639:muv "wikilink")  | ||
+||I/L|| || ||Muthuvan|| || || || || |-
+\!([muw](https://zh.wikipedia.org/wiki/ISO_639:muw "wikilink"))  | || ||
+|| || ||Mundari|| || || || || |-
+\![mux](https://zh.wikipedia.org/wiki/ISO_639:mux "wikilink")  | ||
+||I/L|| || ||Mbo-Ung|| || || || || |-
+\![muy](https://zh.wikipedia.org/wiki/ISO_639:muy "wikilink")  | ||
+||I/L|| || ||Muyang|| || || || || |-
+\![muz](https://zh.wikipedia.org/wiki/ISO_639:muz "wikilink")  | ||
+||I/L|| || ||Mursi|| || || || || |-
+\![mva](https://zh.wikipedia.org/wiki/ISO_639:mva "wikilink")  | ||
+||I/L|| || ||Manam|| || || || || |-
+\![mvb](https://zh.wikipedia.org/wiki/ISO_639:mvb "wikilink")  | ||
+||I/E|| || ||Mattole|| || || || || |-
+\!([mvc](https://zh.wikipedia.org/wiki/ISO_639:mvc "wikilink"))  | ||
+||I/L|| || ||Mam, Central|| ||mam central|| || || |-
+\![mvd](https://zh.wikipedia.org/wiki/ISO_639:mvd "wikilink")  | ||
+||I/L|| || ||Mamboru|| || || ||мамбору||Mamboru |-
+\![mve](https://zh.wikipedia.org/wiki/ISO_639:mve "wikilink")  | ||
+||I/L|| || ||Marwari (Pakistan)|| || || || || |-
+\![mvf](https://zh.wikipedia.org/wiki/ISO_639:mvf "wikilink")  | ||
+||I/L|| || ||Mongolian, Peripheral|| || ||内蒙古话|| || |-
+\![mvg](https://zh.wikipedia.org/wiki/ISO_639:mvg "wikilink")  | ||
+||I/L|| || ||Mixtec, Yucuañe|| || || || || |-
+\![mvh](https://zh.wikipedia.org/wiki/ISO_639:mvh "wikilink")  | ||
+||I/L|| || ||Mire|| || || || || |-
+\![mvi](https://zh.wikipedia.org/wiki/ISO_639:mvi "wikilink")  | ||
+||I/L|| || ||Miyako|| || ||宫古琉球语|| || |-
+\!([mvj](https://zh.wikipedia.org/wiki/ISO_639:mvj "wikilink"))  | ||
+||I/L|| || ||Mam, Todos Santos Cuchumatán|| || || || || |-
+\![mvk](https://zh.wikipedia.org/wiki/ISO_639:mvk "wikilink")  | ||
+||I/L|| || ||Mekmek|| || || || || |-
+\![mvl](https://zh.wikipedia.org/wiki/ISO_639:mvl "wikilink")  | ||
+||I/E|| || ||Mbara (Australia)|| || || || || |-
+\![mvm](https://zh.wikipedia.org/wiki/ISO_639:mvm "wikilink")  | ||
+||I/L|| || ||Muya|| || ||木雅语|| || |-
+\![mvn](https://zh.wikipedia.org/wiki/ISO_639:mvn "wikilink")  | ||
+||I/L|| || ||Minaveha|| || || || || |-
+\![mvo](https://zh.wikipedia.org/wiki/ISO_639:mvo "wikilink")  | ||
+||I/L|| || ||Marovo|| || || || || |-
+\![mvp](https://zh.wikipedia.org/wiki/ISO_639:mvp "wikilink")  | ||
+||I/L|| || ||Duri|| || || || || |-
+\![mvq](https://zh.wikipedia.org/wiki/ISO_639:mvq "wikilink")  | ||
+||I/L|| || ||Moere|| || || || || |-
+\![mvr](https://zh.wikipedia.org/wiki/ISO_639:mvr "wikilink")  | ||
+||I/L|| || ||Marau|| || || || || |-
+\![mvs](https://zh.wikipedia.org/wiki/ISO_639:mvs "wikilink")  | ||
+||I/L|| || ||Massep|| || || || || |-
+\![mvt](https://zh.wikipedia.org/wiki/ISO_639:mvt "wikilink")  | ||
+||I/L|| || ||Mpotovoro|| || || || || |-
+\![mvu](https://zh.wikipedia.org/wiki/ISO_639:mvu "wikilink")  | ||
+||I/L|| || ||Marfa|| || || || || |-
+\![mvv](https://zh.wikipedia.org/wiki/ISO_639:mvv "wikilink")  | ||
+||I/L|| || ||Tagal Murut|| || || || || |-
+\![mvw](https://zh.wikipedia.org/wiki/ISO_639:mvw "wikilink")  | ||
+||I/L|| || ||Machinga|| || || || || |-
+\![mvx](https://zh.wikipedia.org/wiki/ISO_639:mvx "wikilink")  | ||
+||I/L|| || ||Meoswar|| || || || || |-
+\![mvy](https://zh.wikipedia.org/wiki/ISO_639:mvy "wikilink")  | ||
+||I/L|| || ||Kohistani, Indus|| || || || || |-
+\![mvz](https://zh.wikipedia.org/wiki/ISO_639:mvz "wikilink")  | ||
+||I/L|| || ||Mesqan|| || || || || |-
+\![mwa](https://zh.wikipedia.org/wiki/ISO_639:mwa "wikilink")  | ||
+||I/L|| || ||Mwatebu|| || || || || |-
+\![mwb](https://zh.wikipedia.org/wiki/ISO_639:mwb "wikilink")  | ||
+||I/L|| || ||Juwal|| || || || || |-
+\![mwc](https://zh.wikipedia.org/wiki/ISO_639:mwc "wikilink")  | ||
+||I/L|| || ||Are|| || || || || |-
+\!([mwd](https://zh.wikipedia.org/wiki/ISO_639:mwd "wikilink"))  | ||
+||I/L|| || ||Mudbura|| || || || || |-
+\![mwe](https://zh.wikipedia.org/wiki/ISO_639:mwe "wikilink")  | ||
+||I/L|| || ||Mwera (Chimwera)|| || || || || |-
+\![mwf](https://zh.wikipedia.org/wiki/ISO_639:mwf "wikilink")  | ||
+||I/L|| || ||Murrinh-Patha|| || || || || |-
+\![mwg](https://zh.wikipedia.org/wiki/ISO_639:mwg "wikilink")  | ||
+||I/L|| || ||Aiklep|| || || || || |-
+\![mwh](https://zh.wikipedia.org/wiki/ISO_639:mwh "wikilink")  | ||
+||I/L|| || ||Mouk-Aria|| || || ||моук-ариа||Mouk-Aria |-
+\![mwi](https://zh.wikipedia.org/wiki/ISO_639:mwi "wikilink")  | ||
+||I/L|| || ||Labo|| || || || || |-
+\!([mwj](https://zh.wikipedia.org/wiki/ISO_639:mwj "wikilink"))  | ||
+||I/L|| || ||Maligo|| || || || || |-
+\![mwk](https://zh.wikipedia.org/wiki/ISO_639:mwk "wikilink")  | ||
+||I/L|| || ||Maninkakan, Kita|| || || || || |-
+\![mwl](https://zh.wikipedia.org/wiki/ISO_639:mwl "wikilink")  |
+||mwl||I/L|| ||mirandês||Mirandese||mirandais||mirandés||米兰德斯语||
+||Mirandês |-
+\![mwm](https://zh.wikipedia.org/wiki/ISO_639:mwm "wikilink")  | ||
+||I/L|| || ||Sar|| || || || || |-
+\![mwn](https://zh.wikipedia.org/wiki/ISO_639:mwn "wikilink")  | ||
+||I/L|| || ||Nyamwanga|| || || || || |-
+\![mwo](https://zh.wikipedia.org/wiki/ISO_639:mwo "wikilink")  | ||
+||I/L|| || ||Maewo, Central|| || || || ||Zentral-Maewo |-
+\![mwp](https://zh.wikipedia.org/wiki/ISO_639:mwp "wikilink")  | ||
+||I/L|| || ||Kala Lagaw Ya|| || || || || |-
+\![mwq](https://zh.wikipedia.org/wiki/ISO_639:mwq "wikilink")  | ||
+||I/L|| || ||Chin, Mün|| || || || || |-
+\![mwr](https://zh.wikipedia.org/wiki/ISO_639:mwr "wikilink")  |
+||mwr||M/L|| ||मारवाड़ी||Marwari||marvari||marwari||马尔瓦利语||марвари|| |-
+\![mws](https://zh.wikipedia.org/wiki/ISO_639:mws "wikilink")  | ||
+||I/L|| || ||Mwimbi-Muthambi|| || || || || |-
+\![mwt](https://zh.wikipedia.org/wiki/ISO_639:mwt "wikilink")  | ||
+||I/L|| || ||Moken|| || || || || |-
+\![mwu](https://zh.wikipedia.org/wiki/ISO_639:mwu "wikilink")  | ||
+||I/E|| || ||Mittu|| || || || || |-
+\![mwv](https://zh.wikipedia.org/wiki/ISO_639:mwv "wikilink")  | ||
+||I/L|| || ||Mentawai|| || ||民大威语; 明打威语|| || |-
+\![mww](https://zh.wikipedia.org/wiki/ISO_639:mww "wikilink")  | ||
+||I/L|| || ||Hmong Daw|| || ||白苗话|| || |-
+\!([mwx](https://zh.wikipedia.org/wiki/ISO_639:mwx "wikilink"))  | ||
+||I/L|| || ||Mediak|| || || || || |-
+\!([mwy](https://zh.wikipedia.org/wiki/ISO_639:mwy "wikilink"))  | ||
+||I/L|| || ||Mosiro|| || || || || |-
+\![mwz](https://zh.wikipedia.org/wiki/ISO_639:mwz "wikilink")  | ||
+||I/L|| || ||Moingi|| || || || || |-
+\![mxa](https://zh.wikipedia.org/wiki/ISO_639:mxa "wikilink")  | ||
+||I/L|| || ||Mixtec, Northwest Oaxaca|| || || || || |-
+\![mxb](https://zh.wikipedia.org/wiki/ISO_639:mxb "wikilink")  | ||
+||I/L|| || ||Mixtec, Tezoatlán|| || || || || |-
+\![mxc](https://zh.wikipedia.org/wiki/ISO_639:mxc "wikilink")  | ||
+||I/L|| || ||Manyika|| || || ||маньика|| |-
+\![mxd](https://zh.wikipedia.org/wiki/ISO_639:mxd "wikilink")  | ||
+||I/L|| || ||Modang|| || || ||моданг||Modang |-
+\![mxe](https://zh.wikipedia.org/wiki/ISO_639:mxe "wikilink")  | ||
+||I/L|| || ||Mele-Fila|| || || ||меле-фила||Mele-Fila |-
+\![mxf](https://zh.wikipedia.org/wiki/ISO_639:mxf "wikilink")  | ||
+||I/L|| || ||Malgbe|| || || || || |-
+\![mxg](https://zh.wikipedia.org/wiki/ISO_639:mxg "wikilink")  | ||
+||I/L|| || ||Mbangala|| || || || || |-
+\![mxh](https://zh.wikipedia.org/wiki/ISO_639:mxh "wikilink")  | ||
+||I/L|| || ||Mvuba|| || || || || |-
+\![mxi](https://zh.wikipedia.org/wiki/ISO_639:mxi "wikilink")  | ||
+||I/H|| ||مُزَرَب||Mozarabic|| ||mozárabe||莫札拉布语|| || |-
+\![mxj](https://zh.wikipedia.org/wiki/ISO_639:mxj "wikilink")  | ||
+||I/L|| || ||Miju-Mishmi|| || ||格曼-僜语|| || |-
+\![mxk](https://zh.wikipedia.org/wiki/ISO_639:mxk "wikilink")  | ||
+||I/L|| || ||Monumbo|| || || || || |-
+\![mxl](https://zh.wikipedia.org/wiki/ISO_639:mxl "wikilink")  | ||
+||I/L|| || ||Gbe, Maxi|| || || || || |-
+\![mxm](https://zh.wikipedia.org/wiki/ISO_639:mxm "wikilink")  | ||
+||I/L|| || ||Meramera|| || || || || |-
+\![mxn](https://zh.wikipedia.org/wiki/ISO_639:mxn "wikilink")  | ||
+||I/L|| || ||Moi (Indonesia)|| || || || || |-
+\![mxo](https://zh.wikipedia.org/wiki/ISO_639:mxo "wikilink")  | ||
+||I/L|| || ||Mbowe|| || || || || |-
+\![mxp](https://zh.wikipedia.org/wiki/ISO_639:mxp "wikilink")  | ||
+||I/L|| || ||Mixe, Tlahuitoltepec|| || || || || |-
+\![mxq](https://zh.wikipedia.org/wiki/ISO_639:mxq "wikilink")  | ||
+||I/L|| || ||Mixe, Juquila|| ||mixe de Juquila|| || || |-
+\![mxr](https://zh.wikipedia.org/wiki/ISO_639:mxr "wikilink")  | ||
+||I/L|| || ||Kayan, Murik|| || || || || |-
+\![mxs](https://zh.wikipedia.org/wiki/ISO_639:mxs "wikilink")  | ||
+||I/L|| || ||Mixtec, Huitepec|| || || || || |-
+\![mxt](https://zh.wikipedia.org/wiki/ISO_639:mxt "wikilink")  | ||
+||I/L|| || ||Mixtec, Jamiltepec|| || || || || |-
+\![mxu](https://zh.wikipedia.org/wiki/ISO_639:mxu "wikilink")  | ||
+||I/L|| || ||Mada (Cameroon)|| || || || || |-
+\![mxv](https://zh.wikipedia.org/wiki/ISO_639:mxv "wikilink")  | ||
+||I/L|| || ||Mixtec, Metlatónoc|| || || || || |-
+\![mxw](https://zh.wikipedia.org/wiki/ISO_639:mxw "wikilink")  | ||
+||I/L|| || ||Namo|| || || || || |-
+\![mxx](https://zh.wikipedia.org/wiki/ISO_639:mxx "wikilink")  | ||
+||I/L|| || ||Mahou|| || || || || |-
+\![mxy](https://zh.wikipedia.org/wiki/ISO_639:mxy "wikilink")  | ||
+||I/L|| || ||Mixtec, Southeastern Nochixtlán|| || || || || |-
+\![mxz](https://zh.wikipedia.org/wiki/ISO_639:mxz "wikilink")  | ||
+||I/L|| || ||Masela, Central|| || || ||(центр.) масела|| |-
+\![mya](https://zh.wikipedia.org/wiki/ISO_639:mya "wikilink")
+|my||bur||I/L||Sino-Tibetan||မန္မာစာ||Burmese||birman||birmano||缅甸语||бирманский||Burmesisch
+|- \![myb](https://zh.wikipedia.org/wiki/ISO_639:myb "wikilink")  | ||
+||I/L|| || ||Mbay|| || || || || |-
+\![myc](https://zh.wikipedia.org/wiki/ISO_639:myc "wikilink")  | ||
+||I/L|| || ||Mayeka|| || || || || |-
+\!([myd](https://zh.wikipedia.org/wiki/ISO_639:myd "wikilink"))  | ||
+||I/L|| || ||Maramba|| || || || || |-
+\![mye](https://zh.wikipedia.org/wiki/ISO_639:mye "wikilink")  | ||
+||I/L|| || ||Myene|| || || ||мьене|| |-
+\![myf](https://zh.wikipedia.org/wiki/ISO_639:myf "wikilink")  | ||
+||I/L|| || ||Bambassi|| || || || || |-
+\![myg](https://zh.wikipedia.org/wiki/ISO_639:myg "wikilink")  | ||
+||I/L|| || ||Manta|| || || || || |-
+\![myh](https://zh.wikipedia.org/wiki/ISO_639:myh "wikilink")  | ||
+||I/L|| || ||Makah|| || || || || |-
+\!([myi](https://zh.wikipedia.org/wiki/ISO_639:myi "wikilink"))  | ||
+||I/L|| || ||Mina (India)|| || || || || |-
+\![myj](https://zh.wikipedia.org/wiki/ISO_639:myj "wikilink")  | ||
+||I/L|| || ||Mangayat|| || || || || |-
+\![myk](https://zh.wikipedia.org/wiki/ISO_639:myk "wikilink")  | ||
+||I/L|| || ||Senoufo, Mamara|| || || || || |-
+\![myl](https://zh.wikipedia.org/wiki/ISO_639:myl "wikilink")  | ||
+||I/L|| || ||Moma|| || || || || |-
+\![mym](https://zh.wikipedia.org/wiki/ISO_639:mym "wikilink")  | ||
+||I/L|| || ||Me'en|| || || || || |-
+\![myo](https://zh.wikipedia.org/wiki/ISO_639:myo "wikilink")  | ||
+||I/L|| || ||Anfillo|| || || || || |-
+\![myp](https://zh.wikipedia.org/wiki/ISO_639:myp "wikilink")  | ||
+||I/L|| ||Hi'aiti'ihi'||Pirahã|| ||pirahã||皮拉罕语|| || |-
+\!([myq](https://zh.wikipedia.org/wiki/ISO_639:myq "wikilink"))  | ||
+||I/L|| || ||Maninka, Forest|| || || || || |-
+\![myr](https://zh.wikipedia.org/wiki/ISO_639:myr "wikilink")  | ||
+||I/L|| || ||Muniche|| || || || || |-
+\![mys](https://zh.wikipedia.org/wiki/ISO_639:mys "wikilink")  | ||
+||I/E|| || ||Mesmes|| || || || || |-
+\!([myt](https://zh.wikipedia.org/wiki/ISO_639:myt "wikilink"))  | ||
+||I/L|| || ||Mandaya, Sangab|| || || || || |-
+\![myu](https://zh.wikipedia.org/wiki/ISO_639:myu "wikilink")  | ||
+||I/L|| || ||Mundurukú|| ||mundurukú|| || || |-
+\![myv](https://zh.wikipedia.org/wiki/ISO_639:myv "wikilink")  |
+||myv||I/L|| ||эрзя||Erzya||erza||mordvino||厄尔兹亚语||эрзянский||Ersjanisch
+|- \![myw](https://zh.wikipedia.org/wiki/ISO_639:myw "wikilink")  | ||
+||I/L|| || ||Muyuw|| || || || || |-
+\![myx](https://zh.wikipedia.org/wiki/ISO_639:myx "wikilink")  | ||
+||I/L|| || ||Masaba|| || || ||масаба|| |-
+\![myy](https://zh.wikipedia.org/wiki/ISO_639:myy "wikilink")  | ||
+||I/L|| || ||Macuna|| || || || || |-
+\![myz](https://zh.wikipedia.org/wiki/ISO_639:myz "wikilink")  | ||
+||I/H|| || ||Mandaic, Classical|| || ||古典曼底安语|| || |-
+\![mza](https://zh.wikipedia.org/wiki/ISO_639:mza "wikilink")  | ||
+||I/L|| || ||Mixtec, Santa María Zacatepec|| || || || || |-
+\![mzb](https://zh.wikipedia.org/wiki/ISO_639:mzb "wikilink")  | ||
+||I/L|| ||تومزابت||Tumzabt|| || || || || |-
+\![mzc](https://zh.wikipedia.org/wiki/ISO_639:mzc "wikilink")  | ||
+||I/L|| || ||Madagascar Sign Language|| || ||马达加斯加手语|| || |-
+\![mzd](https://zh.wikipedia.org/wiki/ISO_639:mzd "wikilink")  | ||
+||I/L|| || ||Malimba|| || || || || |-
+\![mze](https://zh.wikipedia.org/wiki/ISO_639:mze "wikilink")  | ||
+||I/L|| || ||Morawa|| || || || || |-
+\!([mzf](https://zh.wikipedia.org/wiki/ISO_639:mzf "wikilink"))  | || ||
+|| || ||Aiku|| || || || || |-
+\![mzg](https://zh.wikipedia.org/wiki/ISO_639:mzg "wikilink")  | ||
+||I/L|| || ||Monastic Sign Language|| || ||修士手语|| || |-
+\![mzh](https://zh.wikipedia.org/wiki/ISO_639:mzh "wikilink")  | ||
+||I/L|| || ||Wichí Lhamtés Güisnay|| || || || || |-
+\![mzi](https://zh.wikipedia.org/wiki/ISO_639:mzi "wikilink")  | ||
+||I/L|| || ||Mazatec, Ixcatlán|| || || || || |-
+\![mzj](https://zh.wikipedia.org/wiki/ISO_639:mzj "wikilink")  | ||
+||I/L|| || ||Manya|| || || || || |-
+\![mzk](https://zh.wikipedia.org/wiki/ISO_639:mzk "wikilink")  | ||
+||I/L|| || ||Mambila, Nigeria|| || || || || |-
+\![mzl](https://zh.wikipedia.org/wiki/ISO_639:mzl "wikilink")  | ||
+||I/L|| || ||Mixe, Mazatlán|| || || || || |-
+\![mzm](https://zh.wikipedia.org/wiki/ISO_639:mzm "wikilink")  | ||
+||I/L|| || ||Mumuye|| || ||穆穆耶语|| || |-
+\![mzn](https://zh.wikipedia.org/wiki/ISO_639:mzn "wikilink")  | ||
+||I/L|| || ||Mazanderani|| || ||马赞德兰语|| || |-
+\![mzo](https://zh.wikipedia.org/wiki/ISO_639:mzo "wikilink")  | ||
+||I/E|| || ||Matipuhy|| ||matipuhy|| || || |-
+\![mzp](https://zh.wikipedia.org/wiki/ISO_639:mzp "wikilink")  | ||
+||I/L|| || ||Movima|| || || || || |-
+\![mzq](https://zh.wikipedia.org/wiki/ISO_639:mzq "wikilink")  | ||
+||I/L|| || ||Mori Atas|| || || || || |-
+\![mzr](https://zh.wikipedia.org/wiki/ISO_639:mzr "wikilink")  | ||
+||I/L|| || ||Marúbo|| || || || || |-
+\![mzs](https://zh.wikipedia.org/wiki/ISO_639:mzs "wikilink")  | ||
+||I/L|| || ||Macanese|| || ||澳门土语|| || |-
+\![mzt](https://zh.wikipedia.org/wiki/ISO_639:mzt "wikilink")  | ||
+||I/L|| || ||Mintil|| || || || || |-
+\![mzu](https://zh.wikipedia.org/wiki/ISO_639:mzu "wikilink")  | ||
+||I/L|| || ||Inapang|| || || || || |-
+\![mzv](https://zh.wikipedia.org/wiki/ISO_639:mzv "wikilink")  | ||
+||I/L|| || ||Manza|| || || || || |-
+\![mzw](https://zh.wikipedia.org/wiki/ISO_639:mzw "wikilink")  | ||
+||I/L|| || ||Deg|| || || || || |-
+\![mzx](https://zh.wikipedia.org/wiki/ISO_639:mzx "wikilink")  | ||
+||I/L|| || ||Mawayana|| || || || || |-
+\![mzy](https://zh.wikipedia.org/wiki/ISO_639:mzy "wikilink")  | ||
+||I/L|| || ||Mozambican Sign Language|| || ||莫桑比克手语|| ||Mozambikanische
+Zeichensprache |-
+\![mzz](https://zh.wikipedia.org/wiki/ISO_639:mzz "wikilink")  | ||
+||I/L|| || ||Maiadomu|| || || || || |}
 
 [Category:ISO_639](https://zh.wikipedia.org/wiki/Category:ISO_639 "wikilink")
-[Category:语言列表](https://zh.wikipedia.org/wiki/Category:语言列表 "wikilink")

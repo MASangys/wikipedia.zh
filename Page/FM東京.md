@@ -16,7 +16,7 @@
   - [JAPAN FM NETWORK](http://www.jfn.co.jp/)
 
 [Category:FM東京](https://zh.wikipedia.org/wiki/Category:FM東京 "wikilink")
-[Category:日本广播电台](https://zh.wikipedia.org/wiki/Category:日本广播电台 "wikilink")
+[Category:關東地方的廣播電台](https://zh.wikipedia.org/wiki/Category:關東地方的廣播電台 "wikilink")
 [Category:1970年開播的電台](https://zh.wikipedia.org/wiki/Category:1970年開播的電台 "wikilink")
 [Category:千代田區公司](https://zh.wikipedia.org/wiki/Category:千代田區公司 "wikilink")
 [Category:麴町](https://zh.wikipedia.org/wiki/Category:麴町 "wikilink")

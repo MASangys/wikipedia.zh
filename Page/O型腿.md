@@ -9,7 +9,7 @@ O型腿的人，比例是比较高的。在中国，平均可以达到40%。
 ## 病理性O型腿
 
   - 布朗特氏病(Blount's disease)
-  - [佝僂病](https://zh.wikipedia.org/wiki/佝僂病 "wikilink")
+  - [佝僂病](../Page/佝僂病.md "wikilink")
   - [先天性骨骼異常](https://zh.wikipedia.org/wiki/先天性骨骼異常 "wikilink")
 
 ## O型腿的矫正

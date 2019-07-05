@@ -2,7 +2,7 @@
 = 160px | screenshot = Screenshot-qt-designer-qwebview.png | screenshot
 size = 300px | caption = Qt Designer | developer = [Riverbank
 Computing](http://www.riverbankcomputing.co.uk/) | latest release
-version = 5.12.1 | latest release date =  | latest preview version = |
+version = 5.12.3 | latest release date =  | latest preview version = |
 latest preview date = | operating system =
 [跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink") | programming
 language = [Python](../Page/Python.md "wikilink")\[1\] | genre = |

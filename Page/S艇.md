@@ -56,6 +56,8 @@ S艇擁有多種衍生設計，第一種是在甲板裝設魚雷發射管：
 ## 服役於納粹德國海軍
 
 [German_motor_torpedo_boat_off_Norway_c1941.jpg](https://zh.wikipedia.org/wiki/File:German_motor_torpedo_boat_off_Norway_c1941.jpg "fig:German_motor_torpedo_boat_off_Norway_c1941.jpg")
+[Schnellbootbegleitschiff_Tsingtau.jpg](https://zh.wikipedia.org/wiki/File:Schnellbootbegleitschiff_Tsingtau.jpg "fig:Schnellbootbegleitschiff_Tsingtau.jpg")
+
 在戰爭爆發前，德國海軍總共製造了18艘S艇，並逐步修改設計符合作戰需求。包括換裝更大口徑的21吋魚雷、使用較安全，燃料來源較不虞匱乏的MAN製7汽缸直列式[柴油引擎](../Page/柴油引擎.md "wikilink")。雖然柴油引擎讓S艇的作戰半徑延長到700[海浬](https://zh.wikipedia.org/wiki/海浬 "wikilink")，不過這種柴油機被認為動力不足，而後換為[戴姆勒-賓士製倒V型](https://zh.wikipedia.org/wiki/戴姆勒-賓士 "wikilink")20汽缸柴油引擎；早期使用的MB501引擎輸出功率2000PS，最高航速39節，後期安裝增壓器的MB518柴油引擎讓S艇的航速提升到42節，打擊半徑從[北海擴大到](../Page/北海_\(大西洋\).md "wikilink")[波羅的海一路直達](https://zh.wikipedia.org/wiki/波羅的海 "wikilink")[芬蘭](https://zh.wikipedia.org/wiki/芬蘭 "wikilink")，S艇最大的優勢就是其高速度，每一個S艇分隊都會以6艘為一組對敵船發動魚雷攻擊，然後「打了就跑」的海上游擊戰。
 
 為了支援S艇作戰，德國海軍特安排了以下9艘魚雷艇母艦用作海上補給：
@@ -67,10 +69,10 @@ S艇擁有多種衍生設計，第一種是在甲板裝設魚雷發射管：
   - 夏爾曼·馮·魏斯曼號
   - 羅馬尼亞號
   - 湯加號
-  - 青島號
+  - [青島號](https://zh.wikipedia.org/wiki/青島號魚雷艇母艦 "wikilink")
   - 多哥號
 
-這9艘魚雷艇母艦幾乎都以德國殖民者或海外殖民地命名，其中的「多哥號」（指德國在東非[坦桑尼亞的殖民地](https://zh.wikipedia.org/wiki/坦桑尼亞 "wikilink")）原本是[中華民國海軍訂購的](../Page/中華民國海軍.md "wikilink")「戚繼光號」，但在1939年歐戰爆發後被德國海軍接收，一艘魚雷艇母艦會支援3支S艇分隊。
+這9艘魚雷艇母艦幾乎都以德國殖民者或海外殖民地命名，其中的「多哥號」（原指德國在東非[坦桑尼亞的殖民地](https://zh.wikipedia.org/wiki/坦桑尼亞 "wikilink")）原本是[中華民國海軍訂購的](../Page/中華民國海軍.md "wikilink")「戚繼光號」，但在1939年歐戰爆發後被德國海軍接收，一艘魚雷艇母艦會支援3支S艇分隊。
 
 1939年歐戰爆發，第1分隊立即去對付波蘭海軍但由於波蘭海軍實力太差而很快被打敗，第1分隊未取得什麼戰果，之後第1分隊被派去克里戈蘭去支援柴油發動機表現不佳的第2分隊，再之後第1和第2分隊參加了[挪威戰役](../Page/挪威戰役.md "wikilink")，他們在[卑爾根擔任巡邏和警戒任務](https://zh.wikipedia.org/wiki/卑爾根 "wikilink")，1940年5月，德國海軍派出S-31號艇、S-32號艇、S-33號艇和S-34號艇去為[沙恩霍斯特號巡洋戰艦護航](../Page/沙恩霍斯特级战列舰.md "wikilink")，其中S-31號艇重創意圖攻擊的英國驅逐艦「凱里號」。
 
@@ -91,6 +93,7 @@ S艇的水兵當中，有23人獲得[騎士鐵十字章](../Page/鐵十字勳章
 ## S艇在中國
 
 [German_motor-torpedo_boat_S13_passing_under_a_bridge_in_the_1930s_(NH_91615).jpg](https://zh.wikipedia.org/wiki/File:German_motor-torpedo_boat_S13_passing_under_a_bridge_in_the_1930s_\(NH_91615\).jpg "fig:German_motor-torpedo_boat_S13_passing_under_a_bridge_in_the_1930s_(NH_91615).jpg")
+[Lot-2275-35_(26583199480).jpg](https://zh.wikipedia.org/wiki/File:Lot-2275-35_\(26583199480\).jpg "fig:Lot-2275-35_(26583199480).jpg")
 S-7是S艇其中一個級別，編號由S-7至S-13，德國人除了自用外還另外再建造去出口給[保加利亞](https://zh.wikipedia.org/wiki/保加利亞 "wikilink")5艘和[南斯拉夫](../Page/南斯拉夫王國.md "wikilink")8艘，[中華民國也在](../Page/中華民國.md "wikilink")1936年向德國訂購了3艘S-7魚雷快艇，此3艘魚雷快艇在1937年交付成為[岳飛分隊](https://zh.wikipedia.org/wiki/岳飛 "wikilink"):
 
   - 岳22(艇長齊鴻章)
@@ -105,7 +108,7 @@ S-7是S艇其中一個級別，編號由S-7至S-13，德國人除了自用外還
 
 1944年8月在廣西一带因内河水淺而無法撤退故而自沉，以免被日軍俘獲
 
-當時中國國民政府還訂購了8艘S-30魚雷快艇和一艘魚雷艇母艦[戚繼光號](https://zh.wikipedia.org/wiki/戚繼光 "wikilink")，準備成立[陸秀夫和許遠兩個中隊](../Page/陸秀夫.md "wikilink")，但當1939年歐戰爆发後被納粹德國海軍徵用，當中戚繼光號改名為「[多哥號](../Page/坦噶.md "wikilink")」（Tanga），二戰後被美軍接收後再賣給[丹麥改名為](https://zh.wikipedia.org/wiki/丹麥 "wikilink")「[埃吉爾](../Page/埃吉爾.md "wikilink")」（Aegir）。
+當時中國國民政府還訂購了8艘S-30魚雷快艇和一艘魚雷艇母艦[戚繼光號](https://zh.wikipedia.org/wiki/戚繼光 "wikilink")，準備成立[陸秀夫和許遠兩個中隊](../Page/陸秀夫.md "wikilink")，但當1939年歐戰爆发後被納粹德國海軍徵用，當中戚繼光號改名為「[多哥號](../Page/多哥號魚雷艇母艦.md "wikilink")」（Tanga），二戰後被美軍接收後再賣給[丹麥改名為](https://zh.wikipedia.org/wiki/丹麥 "wikilink")「[埃吉爾](../Page/埃吉爾.md "wikilink")」（Aegir）。
 
 ## 使用國家
 

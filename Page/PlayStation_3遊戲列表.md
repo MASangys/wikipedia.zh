@@ -11466,7 +11466,7 @@ Store](../Page/PlayStation_Store.md "wikilink")」，以付費或免費形式下
 </tr>
 <tr class="odd">
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/Toy_Home" title="wikilink">Toy Home</a></strong><br />
-<strong><a href="https://zh.wikipedia.org/wiki/玩具之家" title="wikilink">玩具之家</a></strong></p></td>
+<strong><a href="../Page/玩具之家.md" title="wikilink">玩具之家</a></strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Game_Republic" title="wikilink">Game Republic</a></p></td>
 <td><p>2007 - 11 - 01</p></td>
 <td><p>2007年第四季預定</p></td>

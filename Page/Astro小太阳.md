@@ -42,8 +42,6 @@ Astro
   -
   - [Astro小太阳的官方网站](http://www.xuan.com.my/channels/xty.aspx)
 
-  - [Astro小太阳的节目表](http://www.quake.com.my)
-
 [Category:Astro](https://zh.wikipedia.org/wiki/Category:Astro "wikilink")
 [Category:馬來西亞電視台](https://zh.wikipedia.org/wiki/Category:馬來西亞電視台 "wikilink")
 

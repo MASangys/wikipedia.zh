@@ -1,103 +1,210 @@
-## F
-
-| 3字母                 | 639-2（如有） | 639-1（如有） | SIL | 英語名称                           | 中文名称                                                                                                                |
-| ------------------- | --------- | --------- | --- | ------------------------------ | ------------------------------------------------------------------------------------------------------------------- |
-| faa                 |           |           | FAA | Fasu                           |                                                                                                                     |
-| fab                 |           |           | FAB | Fa D'ambu                      |                                                                                                                     |
-| fad                 |           |           | FAD | Wagi                           |                                                                                                                     |
-| faf                 |           |           | FAF | Fagani                         |                                                                                                                     |
-| fag                 |           |           | FAG | Finongan                       |                                                                                                                     |
-| fah                 |           |           | FAH | Baissa Fali                    |                                                                                                                     |
-| fai                 |           |           | FAI | Faiwol                         |                                                                                                                     |
-| faj                 |           |           | FAT | Faita                          |                                                                                                                     |
-| fak                 |           |           | FAK | Fang (Cameroon)                |                                                                                                                     |
-| fal                 |           |           | FAL | South Fali                     |                                                                                                                     |
-| fam                 |           |           | FAM | Fam                            |                                                                                                                     |
-| fan                 | fan       |           | FNG | Fang (Equatorial Guinea)       | [芳語](https://zh.wikipedia.org/wiki/芳語 "wikilink")                                                                   |
-| fao                 | fao       | fo        | FAE | Faroese                        | [法羅斯語](https://zh.wikipedia.org/wiki/法羅斯語 "wikilink")、[法羅語](https://zh.wikipedia.org/wiki/法羅語 "wikilink")           |
-| fap                 |           |           | FAP | Palor                          |                                                                                                                     |
-| far                 |           |           | FAR | Fataleka                       |                                                                                                                     |
-| fas <sub>(m)</sub>  | per; fas  | fa        |     | Persian                        | [波斯語](https://zh.wikipedia.org/wiki/波斯語 "wikilink")                                                                 |
-| fat                 | fat       |           |     | Fanti                          | [芳蒂語](https://zh.wikipedia.org/wiki/芳蒂語 "wikilink")                                                                 |
-| fau                 |           |           | FAU | Fayu                           |                                                                                                                     |
-| fax                 |           |           | FAX | Fala                           | [法拉語](https://zh.wikipedia.org/wiki/法拉語 "wikilink")                                                                 |
-| fay                 |           |           | FAY | Southwestern Fars              |                                                                                                                     |
-| faz                 |           |           | FAZ | Northwestern Fars              |                                                                                                                     |
-| fcs                 |           |           | FCS | Quebec Sign Language           | [魁北克手語](https://zh.wikipedia.org/wiki/魁北克手語 "wikilink")                                                             |
-| fer                 |           |           | FER | Feroge                         |                                                                                                                     |
-| ffi                 |           |           |     | Foia Foia                      |                                                                                                                     |
-| ffm                 |           |           | FUL | Maasina Fulfulde               |                                                                                                                     |
-| fgr                 |           |           | FGR | Fongoro                        |                                                                                                                     |
-| fia                 |           |           | FIA | Nobiin                         |                                                                                                                     |
-| fie                 |           |           | FIE | Fyer                           |                                                                                                                     |
-| fij                 | fij       | fj        | FJI | Fijian                         | [斐濟語](../Page/斐濟語.md "wikilink")                                                                                    |
-| fil                 | fil       |           | FIL | Filipino                       | [菲律賓語](../Page/菲律賓語.md "wikilink")                                                                                  |
-| fin                 | fin       | fi        | FIN | Finnish                        | [芬蘭語](https://zh.wikipedia.org/wiki/芬蘭語 "wikilink")                                                                 |
-| fip                 |           |           | FIP | Fipa                           |                                                                                                                     |
-| fir                 |           |           | FIR | Firan                          |                                                                                                                     |
-| fit                 |           |           | FIT | Tornedalen Finnish             |                                                                                                                     |
-| fiu <sub>(r)</sub>  | fiu       |           |     | Finno-Ugrian (Other)           | [芬蘭-烏戈爾語族](https://zh.wikipedia.org/wiki/芬蘭-烏戈爾語族 "wikilink")                                                       |
-| fiw                 |           |           | FIW | Fiwaga                         |                                                                                                                     |
-| fiz <sub>(rs)</sub> |           |           | FIZ | Izere                          | 被拆分為 gne 和 izr                                                                                                      |
-| fkv                 |           |           | FKV | Kven Finnish                   |                                                                                                                     |
-| fla                 |           |           | FLA | Kalispel-Pend d'Oreille        |                                                                                                                     |
-| flh                 |           |           | FLH | Foau                           |                                                                                                                     |
-| fli                 |           |           | FLI | Fali                           |                                                                                                                     |
-| fll                 |           |           | FLL | North Fali                     |                                                                                                                     |
-| flm <sub>(rs)</sub> |           |           | FLM | Falam Chin                     | 被拆分為 rnl 和 cfm                                                                                                      |
-| fln                 |           |           | FLN | Flinders Island                |                                                                                                                     |
-| flr                 |           |           | FLR | Fuliiru                        |                                                                                                                     |
-| fly                 |           |           | FLY | Tsotsitaal                     |                                                                                                                     |
-| fmp                 |           |           | FMP | Fe'fe'                         |                                                                                                                     |
-| fmu                 |           |           | FMU | Far Western Muria              |                                                                                                                     |
-| fng                 |           |           | FAO | Fanagalo                       |                                                                                                                     |
-| fni                 |           |           | FAN | Fania                          |                                                                                                                     |
-| fod                 |           |           | FOD | Foodo                          |                                                                                                                     |
-| foi                 |           |           | FOI | Foi                            |                                                                                                                     |
-| fom                 |           |           | FOM | Foma                           |                                                                                                                     |
-| fon                 | fon       |           | FOA | Fon                            | [豐語](../Page/豐語.md "wikilink")                                                                                      |
-| for                 |           |           | FOR | Fore                           |                                                                                                                     |
-| fos                 |           |           | FOS | Siraya                         | [西拉雅語](../Page/西拉雅語.md "wikilink")                                                                                  |
-| fox <sub>(f)</sub>  |           |           |     | Formosan languages             | [台灣南島語族](https://zh.wikipedia.org/wiki/台灣南島語族 "wikilink")                                                           |
-| fpe                 |           |           | FPE | Fernando Po Creole English     |                                                                                                                     |
-| fqs                 |           |           | FAS | Fas                            |                                                                                                                     |
-| fra                 | fre; fra  | fr        | FRN | French                         | [法語](https://zh.wikipedia.org/wiki/法語 "wikilink")                                                                   |
-| frc                 |           |           | FRC | Cajun French                   | [卡真法語](https://zh.wikipedia.org/wiki/卡真法語 "wikilink")、[路易斯安那州法語](https://zh.wikipedia.org/wiki/路易斯安那州法語 "wikilink") |
-| frd                 |           |           | FRD | Fordata                        |                                                                                                                     |
-| fre <sub>(b)</sub>  | fre; fra  | fr        | FRN | French                         | [法語](https://zh.wikipedia.org/wiki/法語 "wikilink")                                                                   |
-| fri <sub>(rc)</sub> |           |           | FRI | Western Frisian                | [西弗里西亞語](https://zh.wikipedia.org/wiki/西弗里西亞語 "wikilink")；此碼已取消，改用 fry                                              |
-| frk                 |           |           | FRK | Frankish                       | [古法蘭克語](https://zh.wikipedia.org/wiki/古法蘭克語 "wikilink")                                                             |
-| frm                 | frm       |           |     | Middle French (ca. 1400-1600)  | [中古法語](../Page/中古法語.md "wikilink")                                                                                  |
-| fro                 | fro       |           |     | Old French (842-ca. 1400)      | [古法語](../Page/古法語.md "wikilink")                                                                                    |
-| frp                 |           |           | FRA | Franco-Provençal               | [法蘭克-普羅旺斯語](https://zh.wikipedia.org/wiki/法蘭克-普羅旺斯語 "wikilink")                                                     |
-| frq                 |           |           | FRO | Forak                          |                                                                                                                     |
-| frr                 | frr       |           | FRR | Northern Frisian               | [北弗里西亞語](https://zh.wikipedia.org/wiki/北弗里西亞語 "wikilink")                                                           |
-| frs                 | frs       |           | FRS | Eastern Frisian                | [東弗里西亞語](https://zh.wikipedia.org/wiki/東弗里西亞語 "wikilink")                                                           |
-| frt                 |           |           | FRT | Fortsenal                      |                                                                                                                     |
-| fry                 | fry       | fy        |     | Western Frisian                | [弗里西亞語](https://zh.wikipedia.org/wiki/弗里西亞語 "wikilink")、[西弗里西亞語](https://zh.wikipedia.org/wiki/西弗里西亞語 "wikilink")   |
-| fse                 |           |           | FSE | Finnish Sign Language          | [芬蘭手語](https://zh.wikipedia.org/wiki/芬蘭手語 "wikilink")                                                               |
-| fsl                 |           |           | FSL | French Sign Language           | [法國手語](https://zh.wikipedia.org/wiki/法國手語 "wikilink")                                                               |
-| fss                 |           |           | FSS | Finnish-Swedish Sign Language  | [芬蘭-瑞典手語](https://zh.wikipedia.org/wiki/芬蘭-瑞典手語 "wikilink")                                                         |
-| fub                 |           |           | FUB | Adamawa Fulfulde               |                                                                                                                     |
-| fuc                 |           |           | FUC | Pulaar                         | [弗拉尼語](https://zh.wikipedia.org/wiki/弗拉尼語 "wikilink")                                                               |
-| fud                 |           |           | FUD | East Futuna                    | [東富圖納語](https://zh.wikipedia.org/wiki/東富圖納語 "wikilink")                                                             |
-| fue                 |           |           | FUE | Borgu Fulfulde                 |                                                                                                                     |
-| fuf                 |           |           | FUF | Pular                          |                                                                                                                     |
-| fuh                 |           |           | FUH | Western Niger Fulfulde         | [西尼日爾富拉語](https://zh.wikipedia.org/wiki/西尼日爾富拉語 "wikilink")                                                         |
-| fui                 |           |           | FUI | Bagirmi Fulfulde               |                                                                                                                     |
-| fuj                 |           |           | FUJ | Ko                             |                                                                                                                     |
-| ful <sub>(m)</sub>  | ful       | ff        |     | Fulah                          | [富拉語](../Page/富拉語.md "wikilink")、[弗拉尼語](https://zh.wikipedia.org/wiki/弗拉尼語 "wikilink")                              |
-| fum                 |           |           | FUM | Fum                            |                                                                                                                     |
-| fun                 |           |           | FUN | Fulniô                         |                                                                                                                     |
-| fuq                 |           |           | FUQ | Central-Eastern Niger Fulfulde | [尼日爾中-東部富拉語](https://zh.wikipedia.org/wiki/尼日爾中-東部富拉語 "wikilink")                                                   |
-| fur                 | fur       |           | FRL | Friulian                       | [弗留利語](https://zh.wikipedia.org/wiki/弗留利語 "wikilink")                                                               |
-| fut                 |           |           | FUT | Futuna-Aniwa                   | [西富圖納語](https://zh.wikipedia.org/wiki/西富圖納語 "wikilink")                                                             |
-| fuu                 |           |           | FUU | Furu                           |                                                                                                                     |
-| fuv                 |           |           | FUV | Nigerian Fulfulde              | [尼日利亞富拉語](https://zh.wikipedia.org/wiki/尼日利亞富拉語 "wikilink")                                                         |
-| fuy                 |           |           | FUY | Fuyug                          |                                                                                                                     |
-| fvr                 |           |           | FUR | Fur                            | [富爾語](https://zh.wikipedia.org/wiki/富爾語 "wikilink")                                                                 |
-| fwa                 |           |           | FWA | Fwâi                           |                                                                                                                     |
-| fwe                 |           |           | FWE | Fwe                            |                                                                                                                     |
+|- \![faa](https://zh.wikipedia.org/wiki/ISO_639:faa "wikilink")  | ||
+||I/L|| || ||Fasu|| || || || || |-
+\![fab](https://zh.wikipedia.org/wiki/ISO_639:fab "wikilink")  | ||
+||I/L|| || ||Fa d'Ambu|| || || || || |-
+\![fad](https://zh.wikipedia.org/wiki/ISO_639:fad "wikilink")  | ||
+||I/L|| || ||Wagi|| || || || || |-
+\![faf](https://zh.wikipedia.org/wiki/ISO_639:faf "wikilink")  | ||
+||I/L|| || ||Fagani|| || || || || |-
+\![fag](https://zh.wikipedia.org/wiki/ISO_639:fag "wikilink")  | ||
+||I/L|| || ||Finongan|| || || || || |-
+\![fah](https://zh.wikipedia.org/wiki/ISO_639:fah "wikilink")  | ||
+||I/L|| || ||Fali Of Baissa|| || || || || |-
+\![fai](https://zh.wikipedia.org/wiki/ISO_639:fai "wikilink")  | ||
+||I/L|| || ||Faiwol|| || || || || |-
+\![faj](https://zh.wikipedia.org/wiki/ISO_639:faj "wikilink")  | ||
+||I/L|| || ||Faita|| || || || || |-
+\![fak](https://zh.wikipedia.org/wiki/ISO_639:fak "wikilink")  | ||
+||I/L|| || ||Fang (Cameroon)|| || || || || |-
+\![fal](https://zh.wikipedia.org/wiki/ISO_639:fal "wikilink")  | ||
+||I/L|| || ||Fali, South|| || || || || |-
+\![fam](https://zh.wikipedia.org/wiki/ISO_639:fam "wikilink")  | ||
+||I/L|| || ||Fam|| || || || || |-
+\![fan](https://zh.wikipedia.org/wiki/ISO_639:fan "wikilink")  |
+||fan||I/L|| ||Fang||Fang (Equatorial Guinea)||fang||fangüé||芳语||фанг||
+|- \![fao](https://zh.wikipedia.org/wiki/ISO_639:fao "wikilink")
+|fo||fao||I/L||Indo-European||føroyskt||Faroese||féroïen||feroés||法罗斯语;
+法罗语||фарерский||Färöisch |-
+\![fap](https://zh.wikipedia.org/wiki/ISO_639:fap "wikilink")  | ||
+||I/L|| || ||Palor|| || || || || |-
+\![far](https://zh.wikipedia.org/wiki/ISO_639:far "wikilink")  | ||
+||I/L|| || ||Fataleka|| || || || || |-
+\![fas](https://zh.wikipedia.org/wiki/ISO_639:fas "wikilink")
+|fa||per||M/L||Indo-European||فارسی||Persian||persan||persa||波斯语||персидский||Persisch
+|- \![fat](https://zh.wikipedia.org/wiki/ISO_639:fat "wikilink")  |
+||fat||I/L|| || ||Fanti||fanti|| ||芳蒂语||фанти||Fante |-
+\![fau](https://zh.wikipedia.org/wiki/ISO_639:fau "wikilink")  | ||
+||I/L|| || ||Fayu|| || || || || |-
+\![fax](https://zh.wikipedia.org/wiki/ISO_639:fax "wikilink")  | ||
+||I/L|| ||Fala||Fala|| || ||法拉语|| || |-
+\![fay](https://zh.wikipedia.org/wiki/ISO_639:fay "wikilink")  | ||
+||I/L|| || ||Fars, Southwestern|| || || || || |-
+\![faz](https://zh.wikipedia.org/wiki/ISO_639:faz "wikilink")  | ||
+||I/L|| || ||Fars, Northwestern|| || || || || |-
+\![fbl](https://zh.wikipedia.org/wiki/ISO_639:fbl "wikilink")  | ||
+||I/L|| || ||West Albay Bikol|| || || || || |-
+\![fcs](https://zh.wikipedia.org/wiki/ISO_639:fcs "wikilink")  | ||
+||I/L|| || ||Quebec Sign Language||langue des signes québecoise||
+||魁北克手语|| ||Quebec Zeichensprache |-
+\![fer](https://zh.wikipedia.org/wiki/ISO_639:fer "wikilink")  | ||
+||I/L|| || ||Feroge|| || || || || |-
+\![ffi](https://zh.wikipedia.org/wiki/ISO_639:ffi "wikilink")  | ||
+||I/L|| || ||Foia Foia|| || || || || |-
+\![ffm](https://zh.wikipedia.org/wiki/ISO_639:ffm "wikilink")  | ||
+||I/L||Niger–Congo|| ||Fulfulde, Maasina|| || || || || |-
+\![fgr](https://zh.wikipedia.org/wiki/ISO_639:fgr "wikilink")  | ||
+||I/L|| || ||Fongoro|| || || || || |-
+\![fia](https://zh.wikipedia.org/wiki/ISO_639:fia "wikilink")  | ||
+||I/L|| || ||Nobiin|| || || || || |-
+\![fie](https://zh.wikipedia.org/wiki/ISO_639:fie "wikilink")  | ||
+||I/L|| || ||Fyer|| || || || || |-
+\![fij](https://zh.wikipedia.org/wiki/ISO_639:fij "wikilink")
+|fj||fij||I/L||Austronesian||na vosa
+Vakaviti||Fijian||fidjien||fi(d)jiano||斐济语||фиджи||Fidschianisch |-
+\![fil](https://zh.wikipedia.org/wiki/ISO_639:fil "wikilink")  |
+||fil||I/L||Austronesian||Filipino||Filipino||filipino||filipino||菲律宾语||
+||Filipinisch |-
+\![fin](https://zh.wikipedia.org/wiki/ISO_639:fin "wikilink")
+|fi||fin||I/L||Uralic||suomi||Finnish||finnois||fin(land)és||芬兰语||финский||Finnisch
+|- \![fip](https://zh.wikipedia.org/wiki/ISO_639:fip "wikilink")  | ||
+||I/L|| || ||Fipa|| || || || || |-
+\![fir](https://zh.wikipedia.org/wiki/ISO_639:fir "wikilink")  | ||
+||I/L|| || ||Firan|| || || || || |-
+\![fit](https://zh.wikipedia.org/wiki/ISO_639:fit "wikilink")  | ||
+||I/L||Uralic||meänkieli||Finnish (Tornedalen)||finnois tornedalien|| ||
+||меянкиели||Finnisch |-
+\![fiw](https://zh.wikipedia.org/wiki/ISO_639:fiw "wikilink")  | ||
+||I/L|| || ||Fiwaga|| || || || || |-
+\!([fiz](https://zh.wikipedia.org/wiki/ISO_639:fiz "wikilink"))  | || ||
+|| || ||Izere|| || || || || |-
+\![fkk](https://zh.wikipedia.org/wiki/ISO_639:fkk "wikilink")  | ||
+||I/L|| || ||Kirya-Konzəl|| || || || || |-
+\![fkv](https://zh.wikipedia.org/wiki/ISO_639:fkv "wikilink")  | ||
+||I/L||Uralic|| ||Finnish (Kven)||finnois (Kven)|| || || || |-
+\![fla](https://zh.wikipedia.org/wiki/ISO_639:fla "wikilink")  | ||
+||I/L|| || ||Kalispel-Pend d'Oreille|| || || || || |-
+\![flh](https://zh.wikipedia.org/wiki/ISO_639:flh "wikilink")  | ||
+||I/L|| || ||Foau|| || || || || |-
+\![fli](https://zh.wikipedia.org/wiki/ISO_639:fli "wikilink")  | ||
+||I/L|| || ||Fali|| || || || || |-
+\![fll](https://zh.wikipedia.org/wiki/ISO_639:fll "wikilink")  | ||
+||I/L|| || ||Fali, North|| || || || || |-
+\!([flm](https://zh.wikipedia.org/wiki/ISO_639:flm "wikilink"))  | || ||
+|| || ||Falam Chin|| || || || || |-
+\![fln](https://zh.wikipedia.org/wiki/ISO_639:fln "wikilink")  | ||
+||I/E|| || ||Flinders Island|| || || || || |-
+\![flr](https://zh.wikipedia.org/wiki/ISO_639:flr "wikilink")  | ||
+||I/L|| || ||Fuliiru|| || || || || |-
+\![fly](https://zh.wikipedia.org/wiki/ISO_639:fly "wikilink")  | ||
+||I/L|| || ||Tsotsitaal|| || || || || |-
+\![fmp](https://zh.wikipedia.org/wiki/ISO_639:fmp "wikilink")  | ||
+||I/L|| || ||Fe'fe'|| || || || || |-
+\![fmu](https://zh.wikipedia.org/wiki/ISO_639:fmu "wikilink")  | ||
+||I/L|| || ||Muria, Far Western|| || || || || |-
+\![fnb](https://zh.wikipedia.org/wiki/ISO_639:fnb "wikilink")  | ||
+||I/L||Austronesian|| ||Fanbak|| || || || || |-
+\![fng](https://zh.wikipedia.org/wiki/ISO_639:fng "wikilink")  | ||
+||I/L|| || ||Fanagalo|| || || || || |-
+\![fni](https://zh.wikipedia.org/wiki/ISO_639:fni "wikilink")  | ||
+||I/L|| || ||Fania|| || || || || |-
+\![fod](https://zh.wikipedia.org/wiki/ISO_639:fod "wikilink")  | ||
+||I/L|| || ||Foodo|| || || || || |-
+\![foi](https://zh.wikipedia.org/wiki/ISO_639:foi "wikilink")  | ||
+||I/L|| || ||Foi|| || || || || |-
+\![fom](https://zh.wikipedia.org/wiki/ISO_639:fom "wikilink")  | ||
+||I/L|| || ||Foma|| || || || || |-
+\![fon](https://zh.wikipedia.org/wiki/ISO_639:fon "wikilink")  |
+||fon||I/L|| ||Fɔngbè||Fon||fon|| ||丰语||фон|| |-
+\![for](https://zh.wikipedia.org/wiki/ISO_639:for "wikilink")  | ||
+||I/L|| || ||Fore|| || || || || |-
+\![fos](https://zh.wikipedia.org/wiki/ISO_639:fos "wikilink")  | ||
+||I/E||Austronesian|| ||Siraya|| || ||西拉雅语||сирайя||Siraya |-
+\![fpe](https://zh.wikipedia.org/wiki/ISO_639:fpe "wikilink")  | ||
+||I/L|| || ||Fernando Po Creole English||créole anglais Fernando Po|| ||
+|| || |- \![fqs](https://zh.wikipedia.org/wiki/ISO_639:fqs "wikilink")
+| || ||I/L|| || ||Fas|| || || || || |-
+\![fra](https://zh.wikipedia.org/wiki/ISO_639:fra "wikilink")
+|fr||fre||I/L||Indo-European||français||French||français||francés||法语||французский||Französisch
+|- \![frc](https://zh.wikipedia.org/wiki/ISO_639:frc "wikilink")  | ||
+||I/L||Indo-European|| ||French, Cajun||français (cajun)|| ||卡真法语;
+路易斯安那州法语|| || |-
+\![frd](https://zh.wikipedia.org/wiki/ISO_639:frd "wikilink")  | ||
+||I/L|| || ||Fordata|| || || || || |-
+\!([fri](https://zh.wikipedia.org/wiki/ISO_639:fri "wikilink"))  | || ||
+|| || ||Western Frisian|| || || || || |-
+\![frk](https://zh.wikipedia.org/wiki/ISO_639:frk "wikilink")  | ||
+||I/H||Indo-European||Fränkisch||Frankish|| || ||古法兰克语|| ||Fränkisch |-
+\![frm](https://zh.wikipedia.org/wiki/ISO_639:frm "wikilink")  |
+||frm||I/H||Indo-European|| ||French, Middle (ca.1400-1600)||moyen
+français||francés medio||中古法语||среднефранцузский||Mittelfranzösisch |-
+\![fro](https://zh.wikipedia.org/wiki/ISO_639:fro "wikilink")  |
+||fro||I/H||Indo-European|| ||French, Old (842-Ca.1400)||ancien
+français||francés antiguo||古法语||старофранцузский||Altfranzösisch |-
+\![frp](https://zh.wikipedia.org/wiki/ISO_639:frp "wikilink")  | ||
+||I/L||Indo-European||francoprovensal||Franco-Provençal||franco-provençal||franco-provenzal||法兰克-普罗旺斯语||
+|| |- \![frq](https://zh.wikipedia.org/wiki/ISO_639:frq "wikilink")  |
+|| ||I/L|| || ||Forak|| || || || || |-
+\![frr](https://zh.wikipedia.org/wiki/ISO_639:frr "wikilink")  |
+||frr||I/L||Indo-European||Nordfriisk||Frisian, Northern||frison
+septentrional|| ||北弗里西语||севернофризский||Nordfriesisch |-
+\![frs](https://zh.wikipedia.org/wiki/ISO_639:frs "wikilink")  |
+||frs||I/L||Indo-European|| ||Frisian, Eastern||frison (oriental)||
+||东弗里西亚语|| ||Ostfriesisch |-
+\![frt](https://zh.wikipedia.org/wiki/ISO_639:frt "wikilink")  | ||
+||I/L|| || ||Fortsenal|| || || || || |-
+\![fry](https://zh.wikipedia.org/wiki/ISO_639:fry "wikilink")
+|fy||fry||I/L||Indo-European||Frysk ||Frisian, Western||frison
+(occidental)|| ||弗里西亚语; 西弗里西亚语||западнофризский||Westfriesisch |-
+\![fse](https://zh.wikipedia.org/wiki/ISO_639:fse "wikilink")  | ||
+||I/L|| || ||Finnish Sign Language||langue des signes finnoise||
+||芬兰手语|| ||finnische Zeichensprache |-
+\![fsl](https://zh.wikipedia.org/wiki/ISO_639:fsl "wikilink")  | ||
+||I/L|| || ||French Sign Language||langue des signes française||
+||法国手语|| ||Französische Zeichensprache |-
+\![fss](https://zh.wikipedia.org/wiki/ISO_639:fss "wikilink")  | ||
+||I/L|| || ||Finnish-Swedish Sign Language||langue des signes
+finno-suédoise|| ||芬兰-瑞典手语|| || |-
+\![fub](https://zh.wikipedia.org/wiki/ISO_639:fub "wikilink")  | ||
+||I/L||Niger–Congo|| ||Fulfulde (Adamawa)|| || || || || |-
+\![fuc](https://zh.wikipedia.org/wiki/ISO_639:fuc "wikilink")  | ||
+||I/L|| ||Pulaar||Pulaar|| || || || ||Pulaar |-
+\![fud](https://zh.wikipedia.org/wiki/ISO_639:fud "wikilink")  | ||
+||I/L|| || ||Futuna, East||futunien|| ||东富图纳语||(вост.) футуна|| |-
+\![fue](https://zh.wikipedia.org/wiki/ISO_639:fue "wikilink")  | ||
+||I/L||Niger–Congo|| ||Fulfulde, Borgu|| || || || || |-
+\![fuf](https://zh.wikipedia.org/wiki/ISO_639:fuf "wikilink")  | ||
+||I/L|| || ||Pular|| || || || || |-
+\![fuh](https://zh.wikipedia.org/wiki/ISO_639:fuh "wikilink")  | ||
+||I/L||Niger–Congo|| ||Fulfulde, Western Niger|| || ||西尼日尔富拉语|| || |-
+\![fui](https://zh.wikipedia.org/wiki/ISO_639:fui "wikilink")  | ||
+||I/L||Niger–Congo|| ||Fulfulde, Bagirmi|| || || || || |-
+\![fuj](https://zh.wikipedia.org/wiki/ISO_639:fuj "wikilink")  | ||
+||I/L|| || ||Ko||ko|| || || || |-
+\![ful](https://zh.wikipedia.org/wiki/ISO_639:ful "wikilink")
+|ff||ful||M/L||Niger–Congo||Fulfulde||Fulah||peul|| ||富拉语;
+弗拉尼语||фулах||Ful |-
+\![fum](https://zh.wikipedia.org/wiki/ISO_639:fum "wikilink")  | ||
+||I/L|| || ||Fum|| || || || || |-
+\![fun](https://zh.wikipedia.org/wiki/ISO_639:fun "wikilink")  | ||
+||I/L|| || ||Fulniô|| || || || || |-
+\![fuq](https://zh.wikipedia.org/wiki/ISO_639:fuq "wikilink")  | ||
+||I/L||Niger–Congo|| ||Fulfulde, Central-Eastern Niger|| ||
+||尼日尔中-东部富拉语|| || |-
+\![fur](https://zh.wikipedia.org/wiki/ISO_639:fur "wikilink")  |
+||fur||I/L||Indo-European||furlan||Friulian||frioulan||friulo||弗留利语||фриульский||Friaulisch
+|- \![fut](https://zh.wikipedia.org/wiki/ISO_639:fut "wikilink")  | ||
+||I/L|| || ||Futuna-Aniwa|| || ||西富图纳语||футуна-анива||Futuna-Aniwa |-
+\![fuu](https://zh.wikipedia.org/wiki/ISO_639:fuu "wikilink")  | ||
+||I/L|| || ||Furu|| || || || || |-
+\![fuv](https://zh.wikipedia.org/wiki/ISO_639:fuv "wikilink")  | ||
+||I/L||Niger–Congo|| ||Fulfulde (Nigerian)|| || ||尼日利亚富拉语|| || |-
+\![fuy](https://zh.wikipedia.org/wiki/ISO_639:fuy "wikilink")  | ||
+||I/L|| || ||Fuyug|| || || || || |-
+\![fvr](https://zh.wikipedia.org/wiki/ISO_639:fvr "wikilink")  | ||
+||I/L|| ||fòòr||Fur|| || ||富尔语|| ||Fur |-
+\![fwa](https://zh.wikipedia.org/wiki/ISO_639:fwa "wikilink")  | ||
+||I/L|| || ||Fwâi|| || || || || |-
+\![fwe](https://zh.wikipedia.org/wiki/ISO_639:fwe "wikilink")  | ||
+||I/L|| || ||Fwe|| || || || || |}
 
 [Category:ISO_639](https://zh.wikipedia.org/wiki/Category:ISO_639 "wikilink")
-[Category:语言列表](https://zh.wikipedia.org/wiki/Category:语言列表 "wikilink")

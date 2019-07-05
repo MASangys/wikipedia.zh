@@ -94,8 +94,6 @@ JR-Maglev在[愛知世博會上向公眾展示](https://zh.wikipedia.org/wiki/�
     infos](https://web.archive.org/web/20090302115743/http://magnetbahnforum.de/index.php?id=423,0,0,1,0,0)
   - [A site with MLX01 video and photo (in
     Japanese)](https://web.archive.org/web/20070224192030/http://mlx01.fc2web.com/)
-  - [MLX01
-    Video](http://gvideo.eizou.pref.yamanashi.jp/real/event/Linear2003.ram)
   - [Another MLX01
     video](http://video.google.com/videoplay?docid=2926400396387878713)
   - [Photos of the japanese, chinese and german

@@ -36,3 +36,4 @@ Fincke）。
 [Category:国际空间站](https://zh.wikipedia.org/wiki/Category:国际空间站 "wikilink")
 [Category:联盟计划](https://zh.wikipedia.org/wiki/Category:联盟计划 "wikilink")
 [Category:俄罗斯航天器](https://zh.wikipedia.org/wiki/Category:俄罗斯航天器 "wikilink")
+[Category:2004年發射的太空飛行器](https://zh.wikipedia.org/wiki/Category:2004年發射的太空飛行器 "wikilink")

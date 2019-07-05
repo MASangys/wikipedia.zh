@@ -209,7 +209,7 @@ Android</p></td>
 </tr>
 <tr class="even">
 <td><p>2014年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/精靈寶可夢_終結紅寶石·初始藍寶石" title="wikilink">精靈寶可夢 終結紅寶石·初始藍寶石</a></p></td>
+<td><p><a href="../Page/精靈寶可夢_終極紅寶石·始源藍寶石.md" title="wikilink">精靈寶可夢 終極紅寶石·始源藍寶石</a></p></td>
 <td><p>任天堂</p></td>
 <td><p>Nintendo 3DS</p></td>
 </tr>

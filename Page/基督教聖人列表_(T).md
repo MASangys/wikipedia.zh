@@ -31,7 +31,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Tatiana_of_Rome" title="wikilink">Tatiana of Rome</a></p></td>
+<td></td>
 <td><p> </p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/罗马的塔安娜" title="wikilink">罗马的塔安娜</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/罗马的他提安" title="wikilink">罗马的他提安</a></p></td>
@@ -43,7 +43,7 @@
 <td><p>是</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Tekle_Haymanot" title="wikilink">Tekle Haymanot</a></p></td>
+<td></td>
 <td><p> </p></td>
 <td><p> </p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/特克勒·海马诺特" title="wikilink">特克勒·海马诺特</a></p></td>
@@ -55,7 +55,7 @@
 <td><p> </p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Patriarch_Tarasios_of_Constantinople" title="wikilink">Tarasios of Constantinople</a></p></td>
+<td></td>
 <td><p> </p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/君士坦丁堡宗主教泰拉修" title="wikilink">君士坦丁堡宗主教泰拉修</a></p></td>
 <td><p> </p></td>
@@ -79,7 +79,7 @@
 <td><p> </p></td>
 </tr>
 <tr class="odd">
-<td><p><span style="display:none">Telesphorus</span><a href="https://zh.wikipedia.org/wiki/Pope_Telesphorus" title="wikilink">Pope Telesphorus</a></p></td>
+<td><p><span style="display:none">Telesphorus</span></p></td>
 <td><p> </p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/教宗德肋斯福祿" title="wikilink">教宗德肋斯福祿</a></p></td>
 <td><p> </p></td>
@@ -103,7 +103,7 @@
 <td><p>是</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Teresa_of_Avila" title="wikilink">Teresa of Avila</a></p></td>
+<td></td>
 <td><p> </p></td>
 <td><p>德肋撒（<a href="https://zh.wikipedia.org/wiki/大德兰" title="wikilink">大德兰</a>、<a href="https://zh.wikipedia.org/wiki/亚维拉的德兰" title="wikilink">亚维拉的德兰</a>）</p></td>
 <td><p> </p></td>
@@ -115,7 +115,7 @@
 <td><p>是</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Teresa_de_los_Andes" title="wikilink">Teresa de los Andes</a></p></td>
+<td></td>
 <td><p> </p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/安第斯的德兰" title="wikilink">安第斯的德兰</a></p></td>
 <td><p> </p></td>
@@ -127,7 +127,7 @@
 <td><p>是</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Thecla" title="wikilink">Thecla of Iconium</a></p></td>
+<td></td>
 <td><p> </p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/得卡拉" title="wikilink">依科尼雍的得卡拉</a></p></td>
 <td><p> </p></td>
@@ -163,7 +163,7 @@
 <td><p>是</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Théodore_Guérin" title="wikilink">Théodore Guérin</a></p></td>
+<td></td>
 <td><p> </p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/刁多禄·葛林" title="wikilink">刁多禄·葛林</a></p></td>
 <td><p> </p></td>
@@ -175,7 +175,7 @@
 <td><p>是</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Theodore_Romzha" title="wikilink">Theodore Romzha</a></p></td>
+<td></td>
 <td><p> </p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/刁多禄·罗姆萨" title="wikilink">刁多禄·罗姆萨</a></p></td>
 <td><p> </p></td>
@@ -187,7 +187,7 @@
 <td><p>是</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Theodore_the_Studite" title="wikilink">Theodore the Studite</a></p></td>
+<td></td>
 <td><p> </p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/学者刁多禄" title="wikilink">学者刁多禄</a></p></td>
 <td><p> </p></td>
@@ -199,7 +199,7 @@
 <td><p>是</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Theodosius_of_Kiev" title="wikilink">Theodosius of Kiev</a></p></td>
+<td></td>
 <td><p> </p></td>
 <td><p> </p></td>
 <td><p> </p></td>
@@ -211,7 +211,7 @@
 <td><p> </p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Theophan_the_Recluse" title="wikilink">Theophan the Recluse</a></p></td>
+<td></td>
 <td><p> </p></td>
 <td><p> </p></td>
 <td><p> </p></td>
@@ -223,7 +223,7 @@
 <td><p> </p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Theophanes_the_Confessor" title="wikilink">Theophanes the Confessor</a></p></td>
+<td></td>
 <td><p> </p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/证道者戴法纳" title="wikilink">证道者戴法纳</a></p></td>
 <td><p> </p></td>
@@ -235,7 +235,7 @@
 <td><p>是</p></td>
 </tr>
 <tr class="even">
-<td><p><span style="display:none">Therese</span><a href="https://zh.wikipedia.org/wiki/Thérèse_de_Lisieux" title="wikilink">Thérèse de Lisieux</a></p></td>
+<td><p><span style="display:none">Therese</span></p></td>
 <td><p> </p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/小德肋撒" title="wikilink">小德肋撒</a>（<a href="https://zh.wikipedia.org/wiki/小德兰" title="wikilink">小德兰</a>）</p></td>
 <td><p> </p></td>
@@ -247,7 +247,7 @@
 <td><p>是</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Thomas_the_Apostle" title="wikilink">Thomas the Apostle</a></p></td>
+<td></td>
 <td><p> </p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/宗徒多默" title="wikilink">宗徒多默</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/使徒多马" title="wikilink">使徒多马</a></p></td>
@@ -273,7 +273,7 @@
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/:en:Thomas_Becket" title="wikilink">Thomas Becket</a></p></td>
 <td><p> </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/托马斯·贝克特" title="wikilink">托马斯·贝克特</a></p></td>
+<td><p><a href="../Page/托马斯·贝克特.md" title="wikilink">托马斯·贝克特</a></p></td>
 <td><p> </p></td>
 <td><p> </p></td>
 <td><p>1170</p></td>
@@ -295,7 +295,7 @@
 <td><p>是</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Tikhon_of_Moscow" title="wikilink">Tikhon of Moscow</a></p></td>
+<td></td>
 <td><p> </p></td>
 <td><p> </p></td>
 <td><p> </p></td>
@@ -307,7 +307,7 @@
 <td><p> </p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Tikhon_of_Zadonsk" title="wikilink">Tikhon of Zadonsk</a></p></td>
+<td></td>
 <td><p> </p></td>
 <td><p> </p></td>
 <td><p> </p></td>

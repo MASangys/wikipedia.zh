@@ -9,7 +9,7 @@ V](../Page/Channel_V.md "wikilink")[無敵青春克選秀節目的參賽者身�
 隔年（2009年）參加《[我猜](../Page/我猜我猜我猜猜猜.md "wikilink")》人不可貌相單元的天使系護校美女選拔,備受網友關注，也在節目之後被[華研國際音樂相中](../Page/華研國際音樂.md "wikilink")，並且去公司試唱，由於當時公司有意要栽培新的女子團體的計畫，但因為還尚未定案，因此也讓寶兒等待近三年多的時間，而期間寶兒也有參與外拍和廣告拍攝的活動，甚至在2012年參與電視劇《[智勝鮮師](../Page/智勝鮮師.md "wikilink")》客串演出。
 
 在公司定案要成立新的女子團體之後，於2011年加入[華研國際音樂](../Page/華研國際音樂.md "wikilink")，與[大元](https://zh.wikipedia.org/wiki/林盈臻 "wikilink")、[洪詩](https://zh.wikipedia.org/wiki/洪詩涵_\(藝人\) "wikilink")、[庭萱](https://zh.wikipedia.org/wiki/陳庭萱 "wikilink")、[宇珊所共組五人女子團體](../Page/劉宇珊.md "wikilink")[Popu
-Lady](../Page/Popu_Lady.md "wikilink")，並且正式名為“寶兒”，經過一年與團員合宿培訓，在2012年12月14日發行Popu
+Lady](../Page/Popu_Lady.md "wikilink")，並且正式將藝名定為“寶兒”，經過一年與團員合宿培訓，在2012年12月14日發行Popu
 Lady的首張寫真迷你專輯《一直一直愛》正式出道，現為華研旗下女子團體Popu Lady成員。
 
 ## 音樂作品

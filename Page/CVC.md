@@ -79,7 +79,9 @@
 
   - , Italy
 
-  -  – a high school athletic conference in New Jersey
+  - [Colonial Valley
+    Conference](https://zh.wikipedia.org/wiki/Colonial_Valley_Conference "wikilink") –
+    a high school athletic conference in New Jersey
 
   -  – in Comberton, United Kingdom
 

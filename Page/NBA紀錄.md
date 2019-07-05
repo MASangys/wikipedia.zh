@@ -2605,109 +2605,121 @@
 </thead>
 <tbody>
 <tr class="odd">
+<td><p>季後賽最佳戰績</p></td>
+<td><p><a href="../Page/金州勇士.md" title="wikilink">金州勇士</a><br />
+<a href="https://zh.wikipedia.org/wiki/洛杉磯湖人" title="wikilink">洛杉磯湖人</a><br />
+<a href="https://zh.wikipedia.org/wiki/費城76人" title="wikilink">費城76人</a></p></td>
+<td><p>16勝1負<br />
+15勝1負<br />
+12勝1負</p></td>
+<td><p><a href="../Page/2017年NBA季後賽.md" title="wikilink">2017年NBA季後賽</a><br />
+<a href="https://zh.wikipedia.org/wiki/2001年NBA季後賽" title="wikilink">2001年NBA季後賽</a><br />
+<a href="https://zh.wikipedia.org/wiki/1983年NBA季後賽" title="wikilink">1983年NBA季後賽</a></p></td>
+</tr>
+<tr class="even">
 <td><p>季後賽最多連勝紀錄</p></td>
 <td><p><a href="../Page/金州勇士.md" title="wikilink">金州勇士</a></p></td>
 <td><p>15連勝</p></td>
 <td><p><a href="../Page/2017年NBA季後賽.md" title="wikilink">2017年NBA季後賽</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>季後賽最多連敗紀錄</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/紐約尼克" title="wikilink">紐約尼克</a></p></td>
 <td><p>13連敗</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/2001年NBA季後賽" title="wikilink">2001年NBA季後賽第</a>4戰–<br />
 <a href="../Page/2012年NBA季後賽.md" title="wikilink">2012年NBA季後賽第</a>4戰</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>總冠軍最大領先被逆轉</p></td>
 <td><p><a href="../Page/金州勇士.md" title="wikilink">金州勇士</a></p></td>
 <td><p>3比1</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/2016年NBA總決賽" title="wikilink">2016年NBA總決賽</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>總冠軍最大落差逆轉</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/克里夫蘭騎士" title="wikilink">克里夫蘭騎士</a></p></td>
 <td><p>1勝3負逆轉</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/2016年NBA總決賽" title="wikilink">2016年NBA總決賽</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>第八種子晉級最多輪</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/紐約尼克" title="wikilink">紐約尼克</a></p></td>
 <td><p>晉級到總決賽</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/1999年NBA季後賽" title="wikilink">1999年NBA季後賽</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>季後賽最佳戰績紀錄</p></td>
 <td><p><a href="../Page/金州勇士.md" title="wikilink">金州勇士</a></p></td>
 <td><p>16勝1負</p></td>
 <td><p><a href="../Page/2017年NBA季後賽.md" title="wikilink">2017年NBA季後賽</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>季後賽最佳主场戰績紀錄</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/波士頓塞爾提克" title="wikilink">波士頓塞爾提克</a></p></td>
 <td><p>14勝1負</p></td>
 <td><p><a href="../Page/2008年NBA季後賽.md" title="wikilink">2008年NBA季後賽</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>季後賽最佳客场戰績紀錄</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/洛杉磯湖人" title="wikilink">洛杉磯湖人</a></p></td>
 <td><p>8勝0負</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/2001年NBA季後賽" title="wikilink">2001年NBA季後賽</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>季後賽連續沒有吞下連敗</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/波士頓塞爾提克" title="wikilink">波士頓塞爾提克</a></p></td>
 <td><p>9連勝</p></td>
 <td><p><a href="../Page/2008年NBA季後賽.md" title="wikilink">2008年NBA季後賽</a>、<a href="../Page/2018年NBA季後賽.md" title="wikilink">2018年NBA季後賽</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>季後賽主場最多連勝紀錄</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>季後賽客場最多連勝紀錄</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>季後賽主場最多連敗紀錄</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>季後賽客場最多連敗紀錄</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>獲得最多次總冠軍</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/波士頓塞爾提克" title="wikilink">波士頓塞爾提克</a></p></td>
 <td><p>17次</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>最多次連續總冠軍</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/波士頓塞爾提克" title="wikilink">波士頓塞爾提克</a></p></td>
 <td><p>8次</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>最多次进入季后赛</p></td>
 <td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a></p></td>
 <td><p>56次</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>最少次进入季后赛</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/夏洛特山猫" title="wikilink">夏洛特山猫</a></p></td>
 <td><p>2次</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>最長連續打入季後賽紀錄</p></td>
 <td><p><a href="../Page/费城76人.md" title="wikilink">费城76人</a><br />
 <a href="https://zh.wikipedia.org/wiki/聖安東尼奧馬刺" title="wikilink">聖安東尼奧馬刺</a></p></td>

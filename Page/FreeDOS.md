@@ -5,9 +5,7 @@ PC兼容机下运行的](../Page/IBM_PC兼容机.md "wikilink")[操作系统](..
 No家族中的一员](https://zh.wikipedia.org/wiki/Oh_No "wikilink")，它主要通过[OP来提供磁盘访问和](https://zh.wikipedia.org/wiki/OP "wikilink")[文件系统](../Page/文件系统.md "wikilink")，以及部分[内存管理](https://zh.wikipedia.org/wiki/内存管理 "wikilink")，但是没有默认的[GUI](https://zh.wikipedia.org/wiki/GUI "wikilink")（尽管FreeDos
 0.9及以上版本推荐使用[OpenGEM](https://zh.wikipedia.org/wiki/OpenGEM "wikilink")）。
 
-FreeDOS当前版本为1.0，在2006年9月3日发布。\[2\] 2011年6月30日，FreeDOS 1.1测试版发布\[3\]。
-
-FreeDOS支持老式和新式PC，以及[嵌入式系统](../Page/嵌入式系统.md "wikilink")。像[MS-DOS一样](../Page/MS-DOS.md "wikilink")，它可以从[软盘](../Page/软盘.md "wikilink")、[硬盘以及](../Page/硬盘.md "wikilink")[ROM启动](https://zh.wikipedia.org/wiki/只读内存 "wikilink")。\[4\]
+FreeDOS支持老式和新式PC，以及[嵌入式系统](../Page/嵌入式系统.md "wikilink")。像[MS-DOS一样](../Page/MS-DOS.md "wikilink")，它可以从[软盘](../Page/软盘.md "wikilink")、[硬盘以及](../Page/硬盘.md "wikilink")[ROM启动](https://zh.wikipedia.org/wiki/只读内存 "wikilink")。\[2\]
 与MS-DOS不同的是，它支持从CD-ROM安装，并且人们可以自由地创建属于自己的定制发行版，而不用为再发行支付使用费。FreeDOS是[自由且](../Page/自由软件.md "wikilink")[开源的](https://zh.wikipedia.org/wiki/开放源代码软件 "wikilink")，遵守[GNU](../Page/GNU.md "wikilink")（GPL）。但是在其"util"部分中，FreeDOS也包含专有软件，例如。
 
 ## 历史
@@ -17,7 +15,7 @@ Hall随后宣布了要开发一个开源替代品的宣言](https://zh.wikipedia
 Villani和](https://zh.wikipedia.org/wiki/Pat_Villani "wikilink")[Tim
 Norman加入了这个项目](https://zh.wikipedia.org/wiki/Tim_Norman "wikilink")。一个内核，[command.com命令行解释程序](https://zh.wikipedia.org/wiki/command.com "wikilink")（shell）和核心实用工具通过共享自己编的源码而被创造出来。1.0版于2006年9月23日释出。
 
-在FreeDOS 1.0最终发布之前，有过一些官方的预发布版\[5\]:
+在FreeDOS 1.0最终发布之前，有过一些官方的预发布版\[3\]:
 
 | 版本     | 状态    | 代号         | 日期          |
 | ------ | ----- | ---------- | ----------- |
@@ -51,7 +49,7 @@ CD的软盘镜像。这两个版本都提供了源代码。可以使用[BitTorre
 现在还有一个官方的[Live
 USB版本](https://zh.wikipedia.org/wiki/Live_USB "wikilink")。
 
-一些電腦品牌可讓客戶選擇預載FreeDOS的電腦，通常供貨給已購買大量授權[Windows的企業用戶](https://zh.wikipedia.org/wiki/Windows "wikilink")，或是需安裝其他作業系統的使用者。[戴尔有预装FreeDOS的](https://zh.wikipedia.org/wiki/戴尔 "wikilink")[n-series](https://zh.wikipedia.org/wiki/Dell_n_Series "wikilink")\[6\]，但是这些产品和运行Windows的同一型号机器相比并没有多便宜，而且又很难买到，戴尔公司因此受到了批评。\[7\]。另外，戴尔还时常提供FreeDOS电脑一些像双核心一类FreeDOS不能利用的特性。[惠普把FreeDOS作为DC](../Page/惠普.md "wikilink")5750台式机的一个可选配置。[GRC的](https://zh.wikipedia.org/wiki/Gibson_Research_Corporation "wikilink")[SpinRite](https://zh.wikipedia.org/wiki/SpinRite "wikilink")
+一些電腦品牌可讓客戶選擇預載FreeDOS的電腦，通常供貨給已購買大量授權[Windows的企業用戶](https://zh.wikipedia.org/wiki/Windows "wikilink")，或是需安裝其他作業系統的使用者。[戴尔有预装FreeDOS的](https://zh.wikipedia.org/wiki/戴尔 "wikilink")[n-series](https://zh.wikipedia.org/wiki/Dell_n_Series "wikilink")\[4\]，但是这些产品和运行Windows的同一型号机器相比并没有多便宜，而且又很难买到，戴尔公司因此受到了批评。\[5\]。另外，戴尔还时常提供FreeDOS电脑一些像双核心一类FreeDOS不能利用的特性。[惠普把FreeDOS作为DC](../Page/惠普.md "wikilink")5750台式机的一个可选配置。[GRC的](https://zh.wikipedia.org/wiki/Gibson_Research_Corporation "wikilink")[SpinRite](https://zh.wikipedia.org/wiki/SpinRite "wikilink")
 6引导镜像装载FreeDOS，并显示在底部的[启动画面](https://zh.wikipedia.org/wiki/启动画面 "wikilink")。[华硕利用FreeDOS让它们的用户引导主板驱动CD来创建](https://zh.wikipedia.org/wiki/华硕 "wikilink")[SATA设备驱动光盘给Windows](https://zh.wikipedia.org/wiki/Serial_ATA "wikilink")
 XP SP2以前的Windows版本。
 
@@ -60,7 +58,7 @@ XP SP2以前的Windows版本。
 FreeDOS大部分兼容MS-DOS，并允许一些早期版本的Windows像在MS-DOS上一样运行。
 
 FreeDOS跟MS-DOS相比有一些改进，大部分改进支持了在微软停止支持MS-DOS时不存在的新标准和技术，例如[国际化](https://zh.wikipedia.org/wiki/国际化 "wikilink")，高级能源管理，内存常驻程序并且综合了[ASPI](https://zh.wikipedia.org/wiki/ASPI "wikilink")。另外还支持[逻辑块寻址和](https://zh.wikipedia.org/wiki/LBA "wikilink")[FAT32文件系统](https://zh.wikipedia.org/wiki/FAT32 "wikilink")（包括从FAT32引导）。尽管由6.22版以前的MS-DOS不能支持这些功能，但是MS-DOS
-7.10等的版本有了部分支持\[8\]。
+7.10等的版本有了部分支持\[6\]。
 
 ## 兼容性
 
@@ -147,7 +145,7 @@ EMM386还支持VCPI，它使得[DPMI内核与DOS扩展器同FreeDOS和平共处]
 
 FreeDOS外壳——FreeDOS版[COMMAND.COM](https://zh.wikipedia.org/wiki/COMMAND.COM "wikilink")，又稱FreeCOM——可以把自身一部分移动到[扩展内存](https://zh.wikipedia.org/wiki/扩展内存 "wikilink")，将多至620KB的[常规内存释放出来](https://zh.wikipedia.org/wiki/常规内存 "wikilink")。这对于只利用常规内存的DOS程序来说非常有用处。
 
-FreeDOS并没有100%的兼容度，但足够运行大部分程序。高质量且使用标准API的程序运行良好。而运行Windows的问题则是源于微软设法阻止他们的产品在非微软DOS执行。\[9\]
+FreeDOS并没有100%的兼容度，但足够运行大部分程序。高质量且使用标准API的程序运行良好。而运行Windows的问题则是源于微软设法阻止他们的产品在非微软DOS执行。\[7\]
 
 ## 截图
 
@@ -218,19 +216,10 @@ FreeDOS磁盘或者是[GNU/DOS的话](https://zh.wikipedia.org/wiki/GNU/DOS "wik
 [Category:使用GPL许可证的软件](https://zh.wikipedia.org/wiki/Category:使用GPL许可证的软件 "wikilink")
 
 1.
-
 2.
-3.
-
-4.
-
-5.  [FreeDOS Old
+3.  [FreeDOS Old
     Distributions](http://sourceforge.net/forum/forum.php?forum_id=741141)
-
+4.
+5.
 6.
-
 7.
-
-8.
-
-9.

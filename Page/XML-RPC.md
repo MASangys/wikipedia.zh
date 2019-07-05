@@ -33,64 +33,64 @@ XML-RPC 相類似。
 <tbody>
 <tr class="odd">
 <td><p>array</p></td>
-<td><div class="sourceCode" id="cb1"><pre class="sourceCode xml"><code class="sourceCode xml"><a class="sourceLine" id="cb1-1" title="1"><span class="kw">&lt;array&gt;</span></a>
-<a class="sourceLine" id="cb1-2" title="2">  <span class="kw">&lt;data&gt;</span></a>
-<a class="sourceLine" id="cb1-3" title="3">    <span class="kw">&lt;value&gt;&lt;i4&gt;</span>1404<span class="kw">&lt;/i4&gt;&lt;/value&gt;</span></a>
-<a class="sourceLine" id="cb1-4" title="4">    <span class="kw">&lt;value&gt;&lt;string&gt;</span>Something here<span class="kw">&lt;/string&gt;&lt;/value&gt;</span></a>
-<a class="sourceLine" id="cb1-5" title="5">    <span class="kw">&lt;value&gt;&lt;i4&gt;</span>1<span class="kw">&lt;/i4&gt;&lt;/value&gt;</span></a>
-<a class="sourceLine" id="cb1-6" title="6">  <span class="kw">&lt;/data&gt;</span></a>
-<a class="sourceLine" id="cb1-7" title="7"><span class="kw">&lt;/array&gt;</span></a></code></pre></div></td>
+<td><div class="sourceCode" id="cb1"><pre class="sourceCode xml"><code class="sourceCode xml"><span id="cb1-1"><a href="#cb1-1"></a><span class="kw">&lt;array&gt;</span></span>
+<span id="cb1-2"><a href="#cb1-2"></a>  <span class="kw">&lt;data&gt;</span></span>
+<span id="cb1-3"><a href="#cb1-3"></a>    <span class="kw">&lt;value&gt;&lt;i4&gt;</span>1404<span class="kw">&lt;/i4&gt;&lt;/value&gt;</span></span>
+<span id="cb1-4"><a href="#cb1-4"></a>    <span class="kw">&lt;value&gt;&lt;string&gt;</span>Something here<span class="kw">&lt;/string&gt;&lt;/value&gt;</span></span>
+<span id="cb1-5"><a href="#cb1-5"></a>    <span class="kw">&lt;value&gt;&lt;i4&gt;</span>1<span class="kw">&lt;/i4&gt;&lt;/value&gt;</span></span>
+<span id="cb1-6"><a href="#cb1-6"></a>  <span class="kw">&lt;/data&gt;</span></span>
+<span id="cb1-7"><a href="#cb1-7"></a><span class="kw">&lt;/array&gt;</span></span></code></pre></div></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>base64</p></td>
-<td><div class="sourceCode" id="cb2"><pre class="sourceCode xml"><code class="sourceCode xml"><a class="sourceLine" id="cb2-1" title="1"><span class="kw">&lt;base64&gt;</span>eW91IGNhbid0IHJlYWQgdGhpcyE=<span class="kw">&lt;/base64&gt;</span></a></code></pre></div></td>
+<td><div class="sourceCode" id="cb2"><pre class="sourceCode xml"><code class="sourceCode xml"><span id="cb2-1"><a href="#cb2-1"></a><span class="kw">&lt;base64&gt;</span>eW91IGNhbid0IHJlYWQgdGhpcyE=<span class="kw">&lt;/base64&gt;</span></span></code></pre></div></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>boolean</p></td>
-<td><div class="sourceCode" id="cb3"><pre class="sourceCode xml"><code class="sourceCode xml"><a class="sourceLine" id="cb3-1" title="1"><span class="kw">&lt;boolean&gt;</span>1<span class="kw">&lt;/boolean&gt;</span></a></code></pre></div></td>
+<td><div class="sourceCode" id="cb3"><pre class="sourceCode xml"><code class="sourceCode xml"><span id="cb3-1"><a href="#cb3-1"></a><span class="kw">&lt;boolean&gt;</span>1<span class="kw">&lt;/boolean&gt;</span></span></code></pre></div></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/布尔型" title="wikilink">布尔型邏輯值</a> (0 或 1)</p></td>
 </tr>
 <tr class="even">
 <td><p>date/time</p></td>
-<td><div class="sourceCode" id="cb4"><pre class="sourceCode xml"><code class="sourceCode xml"><a class="sourceLine" id="cb4-1" title="1"><span class="kw">&lt;dateTime.iso8601&gt;</span>19980717T14:08:55<span class="kw">&lt;/dateTime.iso8601&gt;</span></a></code></pre></div></td>
+<td><div class="sourceCode" id="cb4"><pre class="sourceCode xml"><code class="sourceCode xml"><span id="cb4-1"><a href="#cb4-1"></a><span class="kw">&lt;dateTime.iso8601&gt;</span>19980717T14:08:55<span class="kw">&lt;/dateTime.iso8601&gt;</span></span></code></pre></div></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>double</p></td>
-<td><div class="sourceCode" id="cb5"><pre class="sourceCode xml"><code class="sourceCode xml"><a class="sourceLine" id="cb5-1" title="1"><span class="kw">&lt;double&gt;</span>-12.53<span class="kw">&lt;/double&gt;</span></a></code></pre></div></td>
+<td><div class="sourceCode" id="cb5"><pre class="sourceCode xml"><code class="sourceCode xml"><span id="cb5-1"><a href="#cb5-1"></a><span class="kw">&lt;double&gt;</span>-12.53<span class="kw">&lt;/double&gt;</span></span></code></pre></div></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/雙倍精確浮點數" title="wikilink">雙倍精確浮點數</a></p></td>
 </tr>
 <tr class="even">
 <td><p>integer</p></td>
-<td><div class="sourceCode" id="cb6"><pre class="sourceCode xml"><code class="sourceCode xml"><a class="sourceLine" id="cb6-1" title="1"><span class="kw">&lt;i4&gt;</span>42<span class="kw">&lt;/i4&gt;</span></a></code></pre></div>
+<td><div class="sourceCode" id="cb6"><pre class="sourceCode xml"><code class="sourceCode xml"><span id="cb6-1"><a href="#cb6-1"></a><span class="kw">&lt;i4&gt;</span>42<span class="kw">&lt;/i4&gt;</span></span></code></pre></div>
 <p>or</p>
-<div class="sourceCode" id="cb7"><pre class="sourceCode xml"><code class="sourceCode xml"><a class="sourceLine" id="cb7-1" title="1"><span class="kw">&lt;int&gt;</span>42<span class="kw">&lt;/int&gt;</span></a></code></pre></div></td>
+<div class="sourceCode" id="cb7"><pre class="sourceCode xml"><code class="sourceCode xml"><span id="cb7-1"><a href="#cb7-1"></a><span class="kw">&lt;int&gt;</span>42<span class="kw">&lt;/int&gt;</span></span></code></pre></div></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/整數" title="wikilink">整數</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>string</p></td>
-<td><div class="sourceCode" id="cb8"><pre class="sourceCode xml"><code class="sourceCode xml"><a class="sourceLine" id="cb8-1" title="1"><span class="kw">&lt;string&gt;</span>Hello world!<span class="kw">&lt;/string&gt;</span></a></code></pre></div></td>
+<td><div class="sourceCode" id="cb8"><pre class="sourceCode xml"><code class="sourceCode xml"><span id="cb8-1"><a href="#cb8-1"></a><span class="kw">&lt;string&gt;</span>Hello world!<span class="kw">&lt;/string&gt;</span></span></code></pre></div></td>
 <td><p>字符串，必須遵守<a href="https://zh.wikipedia.org/wiki/XML_encoding" title="wikilink">XML encoding</a>（<a href="../Page/XML.md" title="wikilink">XML encoding</a>）的格式。</p></td>
 </tr>
 <tr class="even">
 <td><p>struct</p></td>
-<td><div class="sourceCode" id="cb9"><pre class="sourceCode xml"><code class="sourceCode xml"><a class="sourceLine" id="cb9-1" title="1"><span class="kw">&lt;struct&gt;</span></a>
-<a class="sourceLine" id="cb9-2" title="2">  <span class="kw">&lt;member&gt;</span></a>
-<a class="sourceLine" id="cb9-3" title="3">    <span class="kw">&lt;name&gt;</span>foo<span class="kw">&lt;/name&gt;</span></a>
-<a class="sourceLine" id="cb9-4" title="4">    <span class="kw">&lt;value&gt;&lt;i4&gt;</span>1<span class="kw">&lt;/i4&gt;&lt;/value&gt;</span></a>
-<a class="sourceLine" id="cb9-5" title="5">  <span class="kw">&lt;/member&gt;</span></a>
-<a class="sourceLine" id="cb9-6" title="6">  <span class="kw">&lt;member&gt;</span></a>
-<a class="sourceLine" id="cb9-7" title="7">    <span class="kw">&lt;name&gt;</span>bar<span class="kw">&lt;/name&gt;</span></a>
-<a class="sourceLine" id="cb9-8" title="8">    <span class="kw">&lt;value&gt;&lt;i4&gt;</span>2<span class="kw">&lt;/i4&gt;&lt;/value&gt;</span></a>
-<a class="sourceLine" id="cb9-9" title="9">  <span class="kw">&lt;/member&gt;</span></a>
-<a class="sourceLine" id="cb9-10" title="10"><span class="kw">&lt;/struct&gt;</span></a></code></pre></div></td>
+<td><div class="sourceCode" id="cb9"><pre class="sourceCode xml"><code class="sourceCode xml"><span id="cb9-1"><a href="#cb9-1"></a><span class="kw">&lt;struct&gt;</span></span>
+<span id="cb9-2"><a href="#cb9-2"></a>  <span class="kw">&lt;member&gt;</span></span>
+<span id="cb9-3"><a href="#cb9-3"></a>    <span class="kw">&lt;name&gt;</span>foo<span class="kw">&lt;/name&gt;</span></span>
+<span id="cb9-4"><a href="#cb9-4"></a>    <span class="kw">&lt;value&gt;&lt;i4&gt;</span>1<span class="kw">&lt;/i4&gt;&lt;/value&gt;</span></span>
+<span id="cb9-5"><a href="#cb9-5"></a>  <span class="kw">&lt;/member&gt;</span></span>
+<span id="cb9-6"><a href="#cb9-6"></a>  <span class="kw">&lt;member&gt;</span></span>
+<span id="cb9-7"><a href="#cb9-7"></a>    <span class="kw">&lt;name&gt;</span>bar<span class="kw">&lt;/name&gt;</span></span>
+<span id="cb9-8"><a href="#cb9-8"></a>    <span class="kw">&lt;value&gt;&lt;i4&gt;</span>2<span class="kw">&lt;/i4&gt;&lt;/value&gt;</span></span>
+<span id="cb9-9"><a href="#cb9-9"></a>  <span class="kw">&lt;/member&gt;</span></span>
+<span id="cb9-10"><a href="#cb9-10"></a><span class="kw">&lt;/struct&gt;</span></span></code></pre></div></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/结构体" title="wikilink">结构体</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>nil</p></td>
-<td><div class="sourceCode" id="cb10"><pre class="sourceCode xml"><code class="sourceCode xml"><a class="sourceLine" id="cb10-1" title="1"><span class="kw">&lt;nil/&gt;</span></a></code></pre></div></td>
+<td><div class="sourceCode" id="cb10"><pre class="sourceCode xml"><code class="sourceCode xml"><span id="cb10-1"><a href="#cb10-1"></a><span class="kw">&lt;nil/&gt;</span></span></code></pre></div></td>
 <td></td>
 </tr>
 </tbody>

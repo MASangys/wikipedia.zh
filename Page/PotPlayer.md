@@ -14,7 +14,7 @@
 
 ## 侵权争议
 
-PotPlayer使用[FFmpeg的](../Page/FFmpeg.md "wikilink")[GPL代码作为解码库](https://zh.wikipedia.org/wiki/GNU通用公共授權條款 "wikilink")，但是在安装目录下的License文件中声明其使用FFmpeg的[LGPL部分并提供了和二进制文件不对应的源码](https://zh.wikipedia.org/wiki/GNU較寬鬆公共授權條款 "wikilink")。\[3\]由于开发者并不打算根据GPL协议进行开源\[4\]，PotPlayer已被添加到FFmpeg的耻辱柱。\[5\]
+PotPlayer使用[FFmpeg的](../Page/FFmpeg.md "wikilink")[GPL代码作为解码库](https://zh.wikipedia.org/wiki/GNU通用公共授權條款 "wikilink")，但是在安装目录下的License文件中声明其使用FFmpeg的[LGPL部分并提供了和二进制文件不对应的源码](https://zh.wikipedia.org/wiki/GNU較寬鬆公共授權條款 "wikilink")。\[3\]由于开发者并不打算根据GPL协议进行开源\[4\]，PotPlayer已被添加到FFmpeg的拒絕往來戶。\[5\]
 
 ## 參見
 

@@ -46,7 +46,7 @@ Children](http://en.wikipedia.org/wiki/The_Railway_Children_%28film%29)，1970�
 [Category:1858年出生](https://zh.wikipedia.org/wiki/Category:1858年出生 "wikilink")
 [Category:1924年逝世](https://zh.wikipedia.org/wiki/Category:1924年逝世 "wikilink")
 [Category:英國作家](https://zh.wikipedia.org/wiki/Category:英國作家 "wikilink")
-[Category:奇幻小說家](https://zh.wikipedia.org/wiki/Category:奇幻小說家 "wikilink")
+[Category:英国奇幻小說家](https://zh.wikipedia.org/wiki/Category:英国奇幻小說家 "wikilink")
 [Category:兒童文學作家](https://zh.wikipedia.org/wiki/Category:兒童文學作家 "wikilink")
 [Category:费边社成员](https://zh.wikipedia.org/wiki/Category:费边社成员 "wikilink")
 

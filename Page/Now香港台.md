@@ -70,6 +70,8 @@ now香港台是一條與[now寬頻電視其中一條頻道作同步預覽的頻�
 | 2019年5月1日   | [Food Network](https://zh.wikipedia.org/wiki/w:en:Food_Network "wikilink")              |      |
 | 2019年6月1日   | [BLUE ANT Entertainment](../Page/BLUE_ANT_Entertainment.md "wikilink")                  | 2    |
 |             |                                                                                         |      |
+| 2019年7月1日   | [Da Vinci](https://zh.wikipedia.org/wiki/w:en:Da_Vinci_Learning "wikilink")             | 1    |
+|             |                                                                                         |      |
 
 | 預覽頻道號碼 | 預覽頻道                                                                                   | 預覽次數 |
 | ------ | -------------------------------------------------------------------------------------- | ---- |
@@ -97,6 +99,7 @@ now香港台是一條與[now寬頻電視其中一條頻道作同步預覽的頻�
 | 441    | [Disney Channel](../Page/迪士尼頻道.md "wikilink")                                          |      |
 | 442    | [Disney Junior](https://zh.wikipedia.org/wiki/w:en:Disney_Junior_\(Asia\) "wikilink")  |      |
 | 443    | [Cartoon Network](https://zh.wikipedia.org/wiki/Cartoon_Network "wikilink")            |      |
+| 460    | [Da Vinci](https://zh.wikipedia.org/wiki/w:en:Da_Vinci_Learning "wikilink")            |      |
 | 502    | [BBC Lifestyle](https://zh.wikipedia.org/wiki/BBC_Lifestyle "wikilink")                |      |
 | 508    | [DIVA](../Page/Diva_\(電視網\).md "wikilink")                                             |      |
 | 514    | [索尼台](https://zh.wikipedia.org/wiki/索尼台 "wikilink")                                    |      |

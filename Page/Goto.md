@@ -61,6 +61,11 @@ Start_Again; `.
   - [控制流](https://zh.wikipedia.org/wiki/控制流 "wikilink")
   - [GOSUB](https://zh.wikipedia.org/wiki/GOSUB "wikilink")
   - [三次法則](https://zh.wikipedia.org/wiki/三次法则_\(程序設計\) "wikilink")
+  - [组合子逻辑](../Page/组合子逻辑.md "wikilink")
+  - [柯里化](../Page/柯里化.md "wikilink")
+  - [λ演算](https://zh.wikipedia.org/wiki/λ演算 "wikilink")
+  - [极小化求值](https://zh.wikipedia.org/wiki/极小化求值 "wikilink")
+  - [求值策略](../Page/求值策略.md "wikilink")
 
 ## 参考
 

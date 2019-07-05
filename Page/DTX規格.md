@@ -13,8 +13,8 @@ Express及](../Page/PCI_Express.md "wikilink")[PCI](../Page/外设组件互连�
 則最多只有兩條。這種概念與市售[專屬設計的](https://zh.wikipedia.org/wiki/專屬 "wikilink")[準系統電腦](https://zh.wikipedia.org/wiki/準系統電腦 "wikilink")（如[浩鑫電腦出品的](../Page/浩鑫電腦.md "wikilink")
 [XPC](https://zh.wikipedia.org/wiki/XPC "wikilink")）相似。Mini-DTX
 同樣最多設有兩條插槽，但縮窄至與
-[Mini-ITX](https://zh.wikipedia.org/wiki/Mini-ITX "wikilink") 一樣。這樣使得
-Mini-DTX、DTX 主機板可以用於一般 Micro-ATX 和 ATX
+[Mini-ITX](../Page/Mini-ITX.md "wikilink") 一樣。這樣使得 Mini-DTX、DTX
+主機板可以用於一般 Micro-ATX 和 ATX
 [機箱](https://zh.wikipedia.org/wiki/機箱 "wikilink")；而 Mini-ITX 主機板可以用於
 Mini-DTX、DTX 機箱。
 

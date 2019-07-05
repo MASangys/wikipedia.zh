@@ -1,15 +1,15 @@
 是由[Chunsoft开发](https://zh.wikipedia.org/wiki/Chunsoft "wikilink")，[艾尼克斯](../Page/艾尼克斯.md "wikilink")（今[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")）发行的[电子角色扮演游戏](https://zh.wikipedia.org/wiki/电子角色扮演游戏 "wikilink")，游戏时[勇者斗恶龙系列的第四部作品](https://zh.wikipedia.org/wiki/勇者斗恶龙系列 "wikilink")。游戏最早于1990年2月11日发行于日本[FC游戏机平台](https://zh.wikipedia.org/wiki/FC游戏机 "wikilink")，北美版本由艾尼克斯北美公司本地化，并于1992年10月以“Dragon
 Warrior
-IV”为名发行。游戏由[Heartbeat重制于](https://zh.wikipedia.org/wiki/Heartbeat_\(游戏公司\) "wikilink")[PlayStation平台](../Page/PlayStation.md "wikilink")，同时该版本还作为[Ultimate
+IV”为名发行。游戏由[Heartbeat重制于](https://zh.wikipedia.org/wiki/Heartbeat_\(游戏公司\) "wikilink")[PlayStation平台](../Page/PlayStation.md "wikilink")，同时该版本还作为PS的[Ultimate
 Hit作品发行](https://zh.wikipedia.org/wiki/Ultimate_Hit "wikilink")。之后游戏又由[ArtePiazza重制于](../Page/ArtePiazza.md "wikilink")[任天堂DS平台](../Page/任天堂DS.md "wikilink")，游戏于2007年11月22日在日本发行，2008年9月11日和12日在澳大利亚和欧洲以“Dragon
 Quest: Chapters of the Chosen”为名发行\[1\]，2008年9月16日在北美以“Dragon Quest IV:
-Chapters of the Chosen”为名发行。智能电话版于2014年在日本发行\[2\]。
+Chapters of the Chosen”为名发行。智能手機版于2014年在日本发行\[2\]。
 
-和系列其他作品不同，《勇者斗恶龙IV》将游戏分成了五个独立的章节，每一章都有不同的主角。前四章以勇者将来各个同伴的视角讲述了情节，在第五章和他们将和主角汇合，一起进行拯救世界的冒险\[3\]。PlayStation重制版增加了第六章，DS重制版也延续了这一设定。
+和系列其他作品不同，《勇者斗恶龙IV》将游戏分成了五个独立的章节，每一章都有不同的主角。前四章為将来會成為勇者夥伴的各個角色的故事，在第五章他们将和勇者汇合，一起进行拯救世界的冒险\[3\]。PlayStation重制版增加了第六章，DS重制版也延续了这一设定。
 
 ## 游戏系统
 
-故事由五个章节组成，各自独立，以章节数顺序展开。每章玩家操作的角色都不同，在游戏最开始时，玩家需要决定勇者的姓名和性别。第一章到第四章，被引导者们在各自的国家旅行，活动范围受到一定限制。勇者在第五章登场，此时可以对整个世界进行探索，而前四章的主人公为之后勇者的战斗伙伴。
+故事由五个章节组成，各自独立，以章节数顺序展开。每章玩家操作的角色都不同，在游戏最开始时，玩家需要决定勇者的姓名和性别。第一章到第四章，各章主角在自身的国家中旅行，活动范围受到一定限制。勇者在第五章登场，此时可以对整个世界进行探索，而前四章的主角則成為勇者的战斗伙伴。
 
 《勇者斗恶龙IV》引入了一些前三作没有的新功能，同时也继承了许多前作既有的要素\[4\]。相似的功能包括昼夜系统，通过船和飞行工具（本作为热气球）旅行，以及有盗贼钥匙、魔法钥匙和最终钥匙这三种等级的钥匙。游戏同样使用了可以传送队员到世界地图远方的旅之门。和《[勇者斗恶龙III](https://zh.wikipedia.org/wiki/勇者斗恶龙III "wikilink")》的勇者不同，马车的出现使勇者不必始终呆在队伍成员之中。虽然如此，勇者再度成为了可以使用强力的回复和攻击咒文的角色。许多咒文、武器、防具和商店的功能与前作相同。
 

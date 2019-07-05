@@ -787,7 +787,7 @@
 <td style="text-align: center;"><p><a href="../Page/為尋花而來.md" title="wikilink">為尋花而來</a><br />
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/車太鉉" title="wikilink">車太鉉</a>、<a href="../Page/姜惠貞.md" title="wikilink">姜惠貞</a>、<a href="../Page/孔賢珠.md" title="wikilink">孔賢珠</a>、<a href="../Page/金智勳.md" title="wikilink">金智勳</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/車太鉉.md" title="wikilink">車太鉉</a>、<a href="../Page/姜惠貞.md" title="wikilink">姜惠貞</a>、<a href="../Page/孔賢珠.md" title="wikilink">孔賢珠</a>、<a href="../Page/金智勳.md" title="wikilink">金智勳</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/池英洙" title="wikilink">池英洙</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/尹成熙" title="wikilink">尹成熙</a></p></td>
 <td style="text-align: center;"></td>
@@ -1876,7 +1876,7 @@
 <td style="text-align: center;"><p><a href="../Page/最完美的離婚_(韓國電視劇).md" title="wikilink">最完美的離婚</a><br />
 </p></td>
 <td style="text-align: center;"><p>32</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/車太鉉" title="wikilink">車太鉉</a>、<a href="../Page/裴斗娜.md" title="wikilink">裴斗娜</a>、<a href="../Page/李伊.md" title="wikilink">李伊</a>、<a href="../Page/孫錫久.md" title="wikilink">孫錫久</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/車太鉉.md" title="wikilink">車太鉉</a>、<a href="../Page/裴斗娜.md" title="wikilink">裴斗娜</a>、<a href="../Page/李伊.md" title="wikilink">李伊</a>、<a href="../Page/孫錫久.md" title="wikilink">孫錫久</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/柳賢基" title="wikilink">柳賢基</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/文正民" title="wikilink">文正民</a></p></td>
 <td style="text-align: center;"><p>原作：<a href="../Page/坂元裕二.md" title="wikilink">坂元裕二</a>《<a href="https://zh.wikipedia.org/wiki/最完美的離婚" title="wikilink">最完美的離婚</a>》</p></td>
@@ -1966,8 +1966,8 @@
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>2019年9月－<br />
-2019年</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/綠豆傳" title="wikilink">綠豆傳</a><br />
+2019年11月</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/朝鮮浪漫喜劇-綠豆傳" title="wikilink">朝鮮浪漫喜劇-綠豆傳</a><br />
 </p></td>
 <td style="text-align: center;"><p>40</p></td>
 <td style="text-align: center;"><p><a href="../Page/金所泫.md" title="wikilink">金所泫</a>、<a href="https://zh.wikipedia.org/wiki/張東尹" title="wikilink">張東尹</a></p></td>

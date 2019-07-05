@@ -4,7 +4,7 @@
 ## 發展
 
 1984年3月1日，英國宇航公司宣佈將會以[HS
-748為基礎](https://zh.wikipedia.org/wiki/HS_748 "wikilink")，研發一款先進渦扇飛機（**A**dvanced
+748為基礎](https://zh.wikipedia.org/wiki/HS_748 "wikilink")，研發一款先進渦槳飛機（**A**dvanced
 **T**urpo**P**rop）。ATP的機身橫切面與HS
 748一樣，但加長了機身，使其標準載客量達64人，最高可載72人。飛機採用更具燃油效益、六葉片的[普惠PW](https://zh.wikipedia.org/wiki/普惠 "wikilink")124發動機，達2,150馬力，但後來改用PW126A發動機。ATP的駕駛艙亦現代化，採用四個[電子飛行儀錶系統](https://zh.wikipedia.org/wiki/電子飛行儀錶系統 "wikilink")。飛機機身前後各加設了一個貨門\[2\]。
 

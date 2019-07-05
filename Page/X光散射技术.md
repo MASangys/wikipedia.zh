@@ -9,7 +9,7 @@ diffraction）技术可以用于研究[分子的](../Page/分子.md "wikilink")[
   - [单晶X射线繞射](../Page/X射线晶体学.md "wikilink")：用于解析晶态物质中分子的整体结构，研究范围可以从小的[无机小分子到复杂的](https://zh.wikipedia.org/wiki/无机 "wikilink")[大分子](https://zh.wikipedia.org/wiki/大分子 "wikilink")，如[蛋白质](../Page/蛋白质.md "wikilink")；可用单色性X光（德拜法）或连续波长X光（即“劳厄法”）进行研究。
   - [粉末衍射](https://zh.wikipedia.org/wiki/粉末衍射 "wikilink")：也是一种获得晶体（[微晶](https://zh.wikipedia.org/wiki/微晶 "wikilink")）结构的方法，所用样品为多晶态或粉末固态晶体。粉末繞射通常用于鉴定未知物质，主要通过将衍射数据与[繞射数据国际中心](https://zh.wikipedia.org/wiki/繞射数据国际中心 "wikilink")（International
     Centre for Diffraction
-    Data，ICDD）中的繞射数据库进行比较。这一技术或可用于鉴定非均一态的固体混合物，确定其中含量相对丰富的晶态物质；而且，当与网格修正技术（如Rietveld修正）连用时，还可以提供未知物质的结构信息。粉末繞射也是确定晶态物质[晶系的常用方法](https://zh.wikipedia.org/wiki/晶系 "wikilink")，并可用于测定晶体颗粒的大小。
+    Data，ICDD）中的繞射数据库进行比较。这一技术或可用于鉴定非均一态的固体混合物，确定其中含量相对丰富的晶态物质；而且，当与网格修正技术（如Rietveld修正）连用时，还可以提供未知物质的结构信息。粉末繞射也是确定晶态物质[晶系的常用方法](../Page/晶系.md "wikilink")，并可用于测定晶体颗粒的大小。
   - 薄膜繞射。
   - X射线[极图分析](https://zh.wikipedia.org/wiki/极图 "wikilink")：用于分析和测定晶态薄膜样品中晶态方位。
   - X射线回摆曲线分析法：用于定量测量晶态物质的粒度大小和镶嵌度散布。

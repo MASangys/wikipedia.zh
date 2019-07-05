@@ -1,6 +1,6 @@
-| screenshot = Kdenlive 17.04--breeze dark theme.png | caption =
-Kdenlive 17.04 | developer = | latest release version = 17.08 | latest
-release date =  | status = 活躍 | operating system =
+| screenshot = Kdenlive Screenshot.png | caption = | developer = |
+latest release version = 19.04 | latest release date =  | status = 活躍 |
+operating system =
 [Linux](../Page/Linux.md "wikilink")、[FreeBSD](../Page/FreeBSD.md "wikilink")、[macOS](https://zh.wikipedia.org/wiki/macOS "wikilink")、[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")
 | genre = 影片編輯器 | license =
 [GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")

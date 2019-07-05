@@ -199,8 +199,6 @@ APP、icash・icash2.0）
 
 <!-- end list -->
 
-  - 臺北市：[<font color="#888888">YouBike微笑單車</font>](https://zh.wikipedia.org/wiki/臺北市公共自行車租賃系統 "wikilink")
-  - 新北市：[<font color="#888888">YouBike微笑單車</font>](../Page/新北市公共自行車租賃系統.md "wikilink")
   - 臺南市：[T-Bike](../Page/臺南市公共自行車租賃系統.md "wikilink")
 
 #### 休閒遊憩

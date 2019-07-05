@@ -21,7 +21,7 @@ SPAS-12具有兩個操作模式的系統。
 
 第一個設置是半自動操作，在這個模式下，在SPAS-12的以下的前[護木在較前的位置](https://zh.wikipedia.org/wiki/護木 "wikilink")。氣動式系統會被鎖定並利用發射後的瓦斯氣體來進行上下一發的霰彈並且無需作其他的操作，而且SPAS-12可以以大約每秒4發的射速射擊，當然第一發仍要用力來回拉動把手。
 
-第二個設置是泵动式操作，在這個模式下，在SPAS-12的隔熱罩下的前護木在較後的位置。每次射擊後必須手動用力來回拉動護木以排出彈殼和從[管式彈倉裝載了新一發霰彈](https://zh.wikipedia.org/wiki/彈匣#管式彈倉 "wikilink")。此模式適合用來發射各種低壓[彈藥和](https://zh.wikipedia.org/wiki/彈藥 "wikilink")[非致命性彈藥](../Page/非致命性武器.md "wikilink")，例如[鳥彈](https://zh.wikipedia.org/wiki/鳥彈 "wikilink")、、[豆袋彈](https://zh.wikipedia.org/wiki/豆袋彈 "wikilink")、[催淚彈](../Page/催淚彈.md "wikilink")（[CS氣體槍榴彈](https://zh.wikipedia.org/wiki/CS氣體槍榴彈 "wikilink")）、[鹽彈或](https://zh.wikipedia.org/wiki/鹽彈 "wikilink")等。
+第二個設置是泵动式操作，在這個模式下，在SPAS-12的隔熱罩下的前護木在較後的位置。每次射擊後必須手動用力來回拉動護木以排出彈殼和從[管式彈倉裝載了新一發霰彈](https://zh.wikipedia.org/wiki/彈匣#管式彈倉 "wikilink")。此模式適合用來發射各種低壓[彈藥和](https://zh.wikipedia.org/wiki/彈藥 "wikilink")[非致命性彈藥](../Page/非致命性武器.md "wikilink")，例如[鳥彈](https://zh.wikipedia.org/wiki/鳥彈 "wikilink")、、[豆袋彈](../Page/豆袋彈.md "wikilink")、[催淚彈](../Page/催淚彈.md "wikilink")（[CS氣體槍榴彈](https://zh.wikipedia.org/wiki/CS氣體槍榴彈 "wikilink")）、[鹽彈或](https://zh.wikipedia.org/wiki/鹽彈 "wikilink")等。
 
 射擊模式間的切換是藉由按下前護木下方的按鈕，根據當時情況，可把前護木滑動，稍微的向前或向後，直到它卡入點擊位置，讓旋轉套管打開或關閉其內置的兩個導氣孔。然而，其泵动式操作比其他傳統型泵动式操作霰彈槍相當緩慢和笨拙，這是由於被SPAS-12內部複雜的模式轉換機構和前護木與隔熱罩之間的[摩擦力較大所影響](../Page/摩擦力.md "wikilink")。
 

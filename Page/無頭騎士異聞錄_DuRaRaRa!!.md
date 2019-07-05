@@ -2134,6 +2134,7 @@ Heo Gidong</p></td>
 
 [Category:電擊文庫](https://zh.wikipedia.org/wiki/Category:電擊文庫 "wikilink")
 [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
+[Category:黑幫題材作品](https://zh.wikipedia.org/wiki/Category:黑幫題材作品 "wikilink")
 [Category:驚悚漫畫](https://zh.wikipedia.org/wiki/Category:驚悚漫畫 "wikilink")
 [Category:驚悚動畫](https://zh.wikipedia.org/wiki/Category:驚悚動畫 "wikilink")
 [Category:懸疑漫畫](https://zh.wikipedia.org/wiki/Category:懸疑漫畫 "wikilink")

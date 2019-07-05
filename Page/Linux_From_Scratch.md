@@ -95,7 +95,7 @@ BLFS）的项目，该项目实际是一个Wiki网站，依靠网友的自发贡
 <li><a href="../Page/Libtool.md" title="wikilink">Libtool</a> 1.5.22</li>
 <li><a href="https://zh.wikipedia.org/wiki/Linux_kernel" title="wikilink">Linux</a> 2.6.16.27</li>
 <li>Linux-Libc-Headers 2.6.12.0</li>
-<li><a href="https://zh.wikipedia.org/wiki/M4" title="wikilink">M4</a> 1.4.4</li>
+<li><a href="../Page/M4.md" title="wikilink">M4</a> 1.4.4</li>
 <li><a href="https://zh.wikipedia.org/wiki/make_(software)" title="wikilink">Make</a> 3.80</li>
 <li>Man-DB 2.4.3</li>
 <li><a href="https://zh.wikipedia.org/wiki/Man_pages" title="wikilink">Man-pages</a> 2.34</li>

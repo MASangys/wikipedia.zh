@@ -97,7 +97,7 @@ G](../Page/Moto_G.md "wikilink")\[57\]。2015年，Google Play Edition版步入�
 從2008至2013年，[雨果·巴拉擔任Android產品發言人](../Page/雨果·巴拉.md "wikilink")，參與Google年度開發人員會議的[Google開發者大會](https://zh.wikipedia.org/wiki/Google_I/O "wikilink")。他於2013年8月離開Google，並隨即加入中國手機製造商[小米](../Page/小米集團.md "wikilink")\[58\]\[59\]。在他離任不足六個月前，Google時任[CEO](https://zh.wikipedia.org/wiki/行政總裁 "wikilink")[賴利·佩吉在一篇博客文章中宣布](https://zh.wikipedia.org/wiki/賴利·佩吉 "wikilink")，安迪·鲁宾從Android部門轉移到Google的新項目，而[桑德爾·皮蔡將會成為Android的新主管](https://zh.wikipedia.org/wiki/桑德爾·皮蔡 "wikilink")\[60\]\[61\]。皮蔡本人最終轉換了職位，隨著Google重組大型聯合的[Alphabet集團](../Page/Alphabet.md "wikilink")\[62\]\[63\]，他在2015年8月成為了Google的新任CEO，讓成為Android的新任負責人\[64\]\[65\]。
 
 2014年6月，Google發布了[Android
-One](../Page/Android_One.md "wikilink")，那是一組「硬件參考模型」，這將容許（設備製造商）以低成本輕鬆打造高品質手機，專為發展中國家的消費者而設\[66\]\[67\]\[68\]。同年9月，Google宣布推出首款在印度發布的Android
+One](../Page/Android_One.md "wikilink")，那是一組「硬件參考模型」，這將容許（設備製造商）以低成本輕鬆打造高品質手機\[66\]\[67\]\[68\]。同年9月，Google宣布推出首款在印度發布的Android
 One手機\[69\]\[70\]。然而科技網站《》在2015年6月報導該項目「令人失望」，引用指「消費者和製造夥伴不情願」及「搜索公司不奏效因從未破解硬件」\[71\]。Google計劃於2015年8月重推Android
 One\[72\]，一周之後，該公司宣布非洲成為該計劃的下一個地點\[73\]\[74\]。2017年1月，《資訊（The
 Information）》報導稱Google正在將其低成本的Android One計劃擴展至美國，儘管《邊緣（The

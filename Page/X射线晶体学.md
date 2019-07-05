@@ -29,7 +29,7 @@ X射线的来源主要有两种，一种是在常用X射线仪上使用的，通
 
 ### 數據分析
 
-對記錄到的繞射數據進行分析，可以獲得晶體所屬的[晶系和對應的](https://zh.wikipedia.org/wiki/晶系 "wikilink")[布拉菲晶格以及每個繞射點在](../Page/布拉菲晶格.md "wikilink")[倒晶格上的](https://zh.wikipedia.org/wiki/倒晶格 "wikilink")[密勒指數和對應的強度](https://zh.wikipedia.org/wiki/密勒指數 "wikilink")。
+對記錄到的繞射數據進行分析，可以獲得晶體所屬的[晶系和對應的](../Page/晶系.md "wikilink")[布拉菲晶格以及每個繞射點在](../Page/布拉菲晶格.md "wikilink")[倒晶格上的](https://zh.wikipedia.org/wiki/倒晶格 "wikilink")[密勒指數和對應的強度](https://zh.wikipedia.org/wiki/密勒指數 "wikilink")。
 
 ### 晶体结构解析
 

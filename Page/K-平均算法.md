@@ -1,5 +1,5 @@
 ***k*-平均算法**（英文：*k*-means
-clustering）源于信号处理中的一种[向量量化方法](https://zh.wikipedia.org/wiki/向量量化 "wikilink")，现在则更多地作为一种聚类分析方法流行于[数据挖掘领域](../Page/数据挖掘.md "wikilink")。*k*-平均[聚类的目的是](https://zh.wikipedia.org/wiki/聚类 "wikilink")：把\(n\)个点（可以是样本的一次观察或一个实例）划分到*k*个聚类中，使得每个点都属于离他最近的均值（此即聚类中心）对应的聚类，以之作为聚类的标准。这个问题将归结为一个把数据空间划分为Voronoi
+clustering）源于信号处理中的一种[向量量化方法](../Page/向量量化.md "wikilink")，现在则更多地作为一种聚类分析方法流行于[数据挖掘领域](../Page/数据挖掘.md "wikilink")。*k*-平均[聚类的目的是](https://zh.wikipedia.org/wiki/聚类 "wikilink")：把\(n\)个点（可以是样本的一次观察或一个实例）划分到*k*个聚类中，使得每个点都属于离他最近的均值（此即聚类中心）对应的聚类，以之作为聚类的标准。这个问题将归结为一个把数据空间划分为Voronoi
 cells的问题。
 
 这个问题在计算上是[NP困难的](../Page/NP困难.md "wikilink")，不过存在高效的[启发式算法](https://zh.wikipedia.org/wiki/启发式算法 "wikilink")。一般情况下，都使用效率比较高的启发式算法，它们能够快速收敛于一个[局部最优解](https://zh.wikipedia.org/wiki/局部最优 "wikilink")。这些算法通常类似于通过迭代优化方法处理高斯混合分布的[最大期望算法](../Page/最大期望算法.md "wikilink")（EM算法）。而且，它们都使用聚类中心来为数据建模；然而*k*-平均聚类倾向于在可比较的空间范围内寻找聚类，期望-最大化技术却允许聚类有不同的形状。

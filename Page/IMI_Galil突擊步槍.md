@@ -22,7 +22,7 @@ Forces，IDF）的新一代步槍競標中，在面對許多其他競爭槍種�
 在[以色列本土](../Page/以色列.md "wikilink")，已知[以色列國防軍](../Page/以色列國防軍.md "wikilink")（[英文](../Page/英语.md "wikilink")：Israel
 Defence
 Forces，簡稱：IDF）和[以色列議會衛隊](https://zh.wikipedia.org/wiki/以色列議會衛隊 "wikilink")（英文：Knesset
-Guard）裝備了加利爾。\[1\]\[2\]但目前在以军第一线中加利尔已经被美製[M4步槍所取代](https://zh.wikipedia.org/wiki/M4 "wikilink")，只有炮兵、装甲兵等单位还在使用。
+Guard）裝備了加利爾。\[1\]\[2\]但目前在以军第一线中加利尔已经被美製[M4步槍所取代](../Page/M4.md "wikilink")，只有炮兵、装甲兵等单位还在使用。
 
 此外據說每支加利爾的製作成本比起從美國那裡進口M16為低，因此以色列也把加利爾出口到國外，主要分別是用來賺取[外匯或授權他國生產](https://zh.wikipedia.org/wiki/外匯 "wikilink")，例如當時外交狀況很惡劣的[南非等國](https://zh.wikipedia.org/wiki/南非 "wikilink")。
 

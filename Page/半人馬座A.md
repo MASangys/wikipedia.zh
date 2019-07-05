@@ -29,7 +29,7 @@ A是經由一個大型橢圓星系與一個小螺旋星系碰撞的結果。
 ## 鄰近的星系和星系集團的資料
 
 半人馬座 A位於[半人馬座
-A/M83星系集團的兩個子集團中的一個的中心位置](https://zh.wikipedia.org/wiki/半人馬座_A/M83星系集團 "wikilink")，是一個鄰近的[星系集團](https://zh.wikipedia.org/wiki/星系集團 "wikilink")\[27\]。[M83](https://zh.wikipedia.org/wiki/M83 "wikilink")
+A/M83星系團的兩個子集團中的一個的中心位置](https://zh.wikipedia.org/wiki/半人馬座_A/M83星系團 "wikilink")，是一個鄰近的[星系集團](https://zh.wikipedia.org/wiki/星系集團 "wikilink")\[27\]。[M83](https://zh.wikipedia.org/wiki/M83 "wikilink")
 ([南風車星系](../Page/南風車星系.md "wikilink"))在另一個集團的中心，有時這兩個集團會被視為一個集團\[28\]\[29\]，有時又會被視為兩個集團\[30\]。然而，環繞著半人馬座
 A的星系和環繞著M83實際上是非常接近的，且這兩個集團之間有著相互的運動\[31\]。
 
@@ -170,6 +170,7 @@ around the lobes, particularly to the south (bottom)."\[36\]
 12.
 13.
 14.
+
 15.
 16.
 17.

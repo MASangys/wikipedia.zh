@@ -17,6 +17,8 @@
   - [小雪會墮入地獄嗎](https://zh.wikipedia.org/wiki/小雪會墮入地獄嗎 "wikilink")（[藤原飛呂](../Page/藤原飛呂.md "wikilink")）
   - [Last game
     青春角力賽](../Page/Last_game_青春角力賽.md "wikilink")（[天乃忍](../Page/天乃忍.md "wikilink")）
+  - [你在春天醒來](https://zh.wikipedia.org/wiki/你在春天醒來 "wikilink")（[縞
+    安里](https://zh.wikipedia.org/wiki/縞_安里 "wikilink")）
 
 ## 過去連載作品
 

@@ -42,6 +42,8 @@ South（原名頌富商場／廣場一期）由[鴻運建築興建](https://zh.w
 
   - [Circle K](https://zh.wikipedia.org/wiki/Circle_K "wikilink")
 
+  - [759阿信屋](../Page/759阿信屋.md "wikilink")
+
 ## T Town North
 
 [T_Town_North_GF_201901.jpg](https://zh.wikipedia.org/wiki/File:T_Town_North_GF_201901.jpg "fig:T_Town_North_GF_201901.jpg")
@@ -86,7 +88,7 @@ North其他部分都已在2016年4月被封閉，只保留行人通道，有街�
 
 [T_Market_Fishmonger.jpg](https://zh.wikipedia.org/wiki/File:T_Market_Fishmonger.jpg "fig:T_Market_Fishmonger.jpg")
 [T_MARKET_Food_Street_201901.jpg](https://zh.wikipedia.org/wiki/File:T_MARKET_Food_Street_201901.jpg "fig:T_MARKET_Food_Street_201901.jpg")
-頌富街市原由予現代管理公司負責管理，到2018年10月1日由新承辦商[建華集團以](https://zh.wikipedia.org/wiki/建華集團 "wikilink")「香港街市」品牌營辦，進行三個月裝修後在同年12月30日開幕，命名為「T
+頌富街市原由現代管理公司負責管理，到2018年10月1日由新承辦商[建華集團以](https://zh.wikipedia.org/wiki/建華集團 "wikilink")「香港街市」品牌營辦，進行三個月裝修後在同年12月30日開幕，命名為「T
 MARKET 頌富市場」。街市以日本無印木系為主題，其中小食街引入超過10間的食店，營業至凌晨1點。
 
 ## 圖集

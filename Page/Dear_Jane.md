@@ -289,8 +289,8 @@ Dear Jane靠副業撐住Rock下去</ref> ，並在2017年9月14日誕下女兒�
 </tr>
 <tr class="even">
 <td style="text-align: left;"><p>8th</p></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/The_Timeline_Project" title="wikilink">The Timeline Project</a></p></td>
+<td style="text-align: left;"><p>EP</p></td>
 <td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/華納唱片_(香港)" title="wikilink">華納唱片 (香港)</a></p></td>
 <td style="text-align: left;"><p>--年--月--日</p></td>
 <td style="text-align: left;"><p><strong>CD</strong></p>
@@ -322,6 +322,7 @@ Dear Jane靠副業撐住Rock下去</ref> ，並在2017年9月14日誕下女兒�
 | 2017年7月15日    |
 | 2018年10月16日   |
 | 2019年3月16-17日 |
+| 2019年8月6日     |
 
 ## 派台歌曲成績
 

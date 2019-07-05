@@ -293,7 +293,7 @@
 <tr class="odd">
 <td><p>29</p></td>
 <td><p>2005年8月</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/星野桂" title="wikilink">星野桂</a></p></td>
+<td><p><a href="../Page/星野桂.md" title="wikilink">星野桂</a></p></td>
 <td><p>十二傑賞</p></td>
 <td><p>刀無</p></td>
 <td><p>平方昌宏</p></td>

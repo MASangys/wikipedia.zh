@@ -1012,7 +1012,7 @@ NBA选秀状元随后獲得[NBA最有價值球員獎的球员有](https://zh.wik
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/2019年NBA選秀" title="wikilink">2019</a></p></td>
+<td><p><a href="../Page/2019年NBA選秀.md" title="wikilink">2019</a></p></td>
 <td><p><a href="../Page/錫安·威廉森.md" title="wikilink">錫安·威廉森</a></p></td>
 <td></td>
 <td></td>

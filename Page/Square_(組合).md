@@ -51,7 +51,7 @@ CD
 2.  [為愛而愛](https://zh.wikipedia.org/wiki/為愛而愛 "wikilink")
 3.  [ASAP](https://zh.wikipedia.org/wiki/ASAP "wikilink")
 4.  [今季拍拍拖](https://zh.wikipedia.org/wiki/今季拍拍拖 "wikilink")
-5.  [茶杯裡的愛情](https://zh.wikipedia.org/wiki/茶杯裡的愛情 "wikilink")（[江若琳](https://zh.wikipedia.org/wiki/江若琳 "wikilink")、**Square**合唱）
+5.  [茶杯裡的愛情](https://zh.wikipedia.org/wiki/茶杯裡的愛情 "wikilink")（[江若琳](../Page/江若琳.md "wikilink")、**Square**合唱）
 
 DVD
 

@@ -198,7 +198,7 @@ Find The Light</p></td>
 Feel 100%</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/陳曉東" title="wikilink">陳曉東</a>、<a href="../Page/方力申.md" title="wikilink">方力申</a>、<a href="../Page/蘇永康.md" title="wikilink">蘇永康</a>、<a href="../Page/鄭中基.md" title="wikilink">鄭中基</a><br />
-<a href="../Page/楊千嬅.md" title="wikilink">楊千嬅</a>、<a href="https://zh.wikipedia.org/wiki/李彩華" title="wikilink">李彩華</a>、<a href="https://zh.wikipedia.org/wiki/周麗淇" title="wikilink">周麗淇</a>、<a href="../Page/楊恭如.md" title="wikilink">楊恭如</a></p></td>
+<a href="../Page/楊千嬅.md" title="wikilink">楊千嬅</a>、<a href="../Page/李彩華.md" title="wikilink">李彩華</a>、<a href="https://zh.wikipedia.org/wiki/周麗淇" title="wikilink">周麗淇</a>、<a href="../Page/楊恭如.md" title="wikilink">楊恭如</a></p></td>
 <td style="text-align: center;"><p>朱銳斌</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>

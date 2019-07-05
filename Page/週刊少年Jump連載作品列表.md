@@ -63,7 +63,7 @@
 
 |  |                             |
 |  | --------------------------- |
-|  | 截至2019年6月17日（2019年29號）連載中作品 |
+|  | 截至2019年6月24日（2019年30號）連載中作品 |
 
 <table>
 <thead>
@@ -5086,7 +5086,7 @@
 <tr class="even">
 <td><p>519</p></td>
 <td><p><a href="../Page/驅魔少年.md" title="wikilink">驅魔少年</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/星野桂" title="wikilink">星野桂</a></p></td>
+<td><p><a href="../Page/星野桂.md" title="wikilink">星野桂</a></p></td>
 <td><p>－</p></td>
 <td><p>2004.27</p></td>
 <td><p>2009.22/23</p></td>
@@ -5986,12 +5986,12 @@
 </tr>
 <tr class="even">
 <td><p>611</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/食戟之靈" title="wikilink">食戟之靈</a></strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/食戟之靈" title="wikilink">食戟之靈</a></p></td>
 <td><p>佐伯俊（漫畫）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/附田祐斗" title="wikilink">附田祐斗</a>（原作）<br />
 森崎友紀（協力）</p></td>
 <td><p>2012.52</p></td>
-<td><p>連載中</p></td>
+<td><p>2019.29</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -6781,7 +6781,7 @@
 </tr>
 <tr class="even">
 <td><p>692</p></td>
-<td><p><strong></strong></p></td>
+<td><p>'''<a href="https://zh.wikipedia.org/wiki/雙心的太星" title="wikilink">雙心的太星</a> '''</p></td>
 <td><p>福田健太郎</p></td>
 <td><p>－</p></td>
 <td><p>2019.25</p></td>

@@ -15,7 +15,7 @@
 
 其[轉拴式槍栓閉鎖機構是在槍機前端左右兩側各設有一個鎖耳](../Page/轉拴式槍栓.md "wikilink")（），這種雙閉鎖鎖耳式設計使其具有更高的可靠性，使之能夠與槍管嚙合或分離以實現閉鎖或開鎖。
 
-這同時備有自我調節霰彈藥筒的不同長度和威力的能力。它可以使用及發射不同威力水平及任何組合的2和3英寸麥格農[12鉛徑霰彈藥筒而且不需要經過任何在技術上的調整](https://zh.wikipedia.org/wiki/霰彈 "wikilink")。但很像[木棍彈](https://zh.wikipedia.org/wiki/木棍彈 "wikilink")、[豆袋彈](https://zh.wikipedia.org/wiki/豆袋彈 "wikilink")、[橡膠子彈和](../Page/橡膠子彈.md "wikilink")[催淚彈的那些](../Page/催淚彈.md "wikilink")[非致命性彈藥](../Page/非致命性武器.md "wikilink")，就必須要利用[機匣右手的](https://zh.wikipedia.org/wiki/機匣 "wikilink")作手動式操作。
+這同時備有自我調節霰彈藥筒的不同長度和威力的能力。它可以使用及發射不同威力水平及任何組合的2和3英寸麥格農[12鉛徑霰彈藥筒而且不需要經過任何在技術上的調整](https://zh.wikipedia.org/wiki/霰彈 "wikilink")。但很像[木棍彈](https://zh.wikipedia.org/wiki/木棍彈 "wikilink")、[豆袋彈](../Page/豆袋彈.md "wikilink")、[橡膠子彈和](../Page/橡膠子彈.md "wikilink")[催淚彈的那些](../Page/催淚彈.md "wikilink")[非致命性彈藥](../Page/非致命性武器.md "wikilink")，就必須要利用[機匣右手的](https://zh.wikipedia.org/wiki/機匣 "wikilink")作手動式操作。
 
 [Shotgun_in_training_US_military.jpg](https://zh.wikipedia.org/wiki/File:Shotgun_in_training_US_military.jpg "fig:Shotgun_in_training_US_military.jpg")
 [US_Navy_031106-N-1693W-002_Marines_fire_shotguns_during_weapons_familiarization_training.jpg](https://zh.wikipedia.org/wiki/File:US_Navy_031106-N-1693W-002_Marines_fire_shotguns_during_weapons_familiarization_training.jpg "fig:US_Navy_031106-N-1693W-002_Marines_fire_shotguns_during_weapons_familiarization_training.jpg")士兵。\]\]

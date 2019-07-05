@@ -73,6 +73,7 @@ DeviantArt的社群有一些约定俗成的常用语，了解这些用语可以�
 [Category:网络相册](https://zh.wikipedia.org/wiki/Category:网络相册 "wikilink")
 [Category:數位藝術](https://zh.wikipedia.org/wiki/Category:數位藝術 "wikilink")
 [Category:社交網路服務](https://zh.wikipedia.org/wiki/Category:社交網路服務 "wikilink")
+[Category:被中華人民共和國封鎖的網站](https://zh.wikipedia.org/wiki/Category:被中華人民共和國封鎖的網站 "wikilink")
 
 1.
 

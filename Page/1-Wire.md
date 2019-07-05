@@ -5,7 +5,6 @@
 ## 外部連結
 
   - [1-Wire and iButton](http://www.maxim-ic.com/1-Wire.cfm?CMP=WP-7)
-  - [iButton](http://www.ibutton.com)
   - [1-Wire Weather Station Construction
     (Book)](https://web.archive.org/web/20170920081823/http://weathertoys.net/)
   - [1-Wire Weather Instrument

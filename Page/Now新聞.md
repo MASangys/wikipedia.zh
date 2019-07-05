@@ -206,80 +206,77 @@ now香港台2008年12月12日啟播後至2016年3月18日，該台每日會播�
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/王晶_(記者)" title="wikilink">王晶</a></p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"></td>
-</tr>
-<tr class="odd">
 <td style="text-align: center;"><p><strong>財經組記者</strong></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/潘磊華" title="wikilink">潘磊華</a><br />
 （首席記者）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/黃思行" title="wikilink">黃思行</a><br />
 （高級記者）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/鄧嘉蔚" title="wikilink">鄧嘉蔚</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/黃靜妍" title="wikilink">黃靜妍</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"><p><strong>體育組</strong></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/宋貴玲" title="wikilink">宋貴玲</a><br />
 （首席記者）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"><p><strong>專題組記者／編輯</strong></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center;"><p><a href="../Page/陳偉利.md" title="wikilink">陳偉利</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/陳家俊" title="wikilink">陳家俊</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center;"><p><strong>編導</strong></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/蔡凱珊" title="wikilink">蔡凱珊</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/王佩兒" title="wikilink">王佩兒</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/歐志誠" title="wikilink">歐志誠</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/鄭子韜" title="wikilink">鄭子韜</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/童俊雄" title="wikilink">童俊雄</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/馬立賢" title="wikilink">馬立賢</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/陳毅恒" title="wikilink">陳毅恒</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center;"><p><strong>監製</strong></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/蕭世坤" title="wikilink">蕭世坤</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/麥國華" title="wikilink">麥國華</a><br />
 （港股今日睇）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/杜福良" title="wikilink">杜福良</a><br />
 （大鳴大放）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center;"></td>
 </tr>
 </tbody>

@@ -767,55 +767,55 @@ GM儀器必須遵循以下關於樂器音色（program）以及控制事件（co
 
 在General MIDI中，頻道10被保留作為打擊樂器使用，不論音色編號為何。不同的音符對應到不同的打擊樂器。見下表：
 
-| No. | English         | 中文                                                      |
-| --- | --------------- | ------------------------------------------------------- |
-| 35  | Bass Drum 2     | [大鼓](../Page/大鼓.md "wikilink")2                         |
-| 36  | Bass Drum 1     | [大鼓](../Page/大鼓.md "wikilink")1                         |
-| 37  | Side Stick      | 小鼓鼓邊                                                    |
-| 38  | Snare Drum 1    | [小鼓](../Page/小鼓.md "wikilink")1                         |
-| 39  | Hand Clap       | 拍手                                                      |
-| 40  | Snare Drum 2    | [小鼓](../Page/小鼓.md "wikilink")2                         |
-| 41  | Low Tom 2       | [低音筒鼓](../Page/筒鼓.md "wikilink")2                       |
-| 42  | Closed Hi-hat   | 閉合[開合鈸](https://zh.wikipedia.org/wiki/開合鈸 "wikilink")   |
-| 43  | Low Tom 1       | [低音筒鼓](../Page/筒鼓.md "wikilink")1                       |
-| 44  | Pedal Hi-hat    | 腳踏[開合鈸](https://zh.wikipedia.org/wiki/開合鈸 "wikilink")   |
-| 45  | Mid Tom 2       | [中音筒鼓](../Page/筒鼓.md "wikilink")2                       |
-| 46  | Open Hi-hat     | 開放[開合鈸](https://zh.wikipedia.org/wiki/開合鈸 "wikilink")   |
-| 47  | Mid Tom 1       | [中音筒鼓](../Page/筒鼓.md "wikilink")1                       |
-| 48  | High Tom 2      | [高音筒鼓](../Page/筒鼓.md "wikilink")2                       |
-| 49  | Crash Cymbal 1  | [強音鈸](https://zh.wikipedia.org/wiki/強音鈸 "wikilink")1    |
-| 50  | High Tom 1      | [高音筒鼓](../Page/筒鼓.md "wikilink")1                       |
-| 51  | Ride Cymbal 1   | [打點鈸](https://zh.wikipedia.org/wiki/打點鈸 "wikilink")1    |
-| 52  | Chinese Cymbal  | [鈸](https://zh.wikipedia.org/wiki/鈸 "wikilink")         |
-| 53  | Ride Bell       | 響鈴                                                      |
-| 54  | Tambourine      | [鈴鼓](../Page/鈴鼓.md "wikilink")                          |
-| 55  | Splash Cymbal   | [小鈸銅鈸](https://zh.wikipedia.org/wiki/小鈸銅鈸 "wikilink")   |
-| 56  | Cowbell         | [牛鈴](https://zh.wikipedia.org/wiki/牛鈴 "wikilink")       |
-| 57  | Crash Cymbal 2  | [強音鈸](https://zh.wikipedia.org/wiki/強音鈸 "wikilink")2    |
-| 58  | Vibra Slap      | [噪音器](https://zh.wikipedia.org/wiki/噪音器 "wikilink")     |
-| 59  | Ride Cymbal 2   | [打點鈸](https://zh.wikipedia.org/wiki/打點鈸 "wikilink")2    |
-| 60  | High Bongo      | 高音[邦加鼓](https://zh.wikipedia.org/wiki/邦加鼓 "wikilink")   |
-| 61  | Low Bongo       | 低音[邦加鼓](https://zh.wikipedia.org/wiki/邦加鼓 "wikilink")   |
-| 62  | Mute High Conga | 悶音高音[康加鼓](https://zh.wikipedia.org/wiki/康加鼓 "wikilink") |
-| 63  | Open High Conga | 開放高音[康加鼓](https://zh.wikipedia.org/wiki/康加鼓 "wikilink") |
-| 64  | Low Conga       | 低音[康加鼓](https://zh.wikipedia.org/wiki/康加鼓 "wikilink")   |
-| 65  | High Timbale    | 高音                                                      |
-| 66  | Low Timbale     | 低音                                                      |
-| 67  | High Agogo      | 高音                                                      |
-| 68  | Low Agogo       | 低音                                                      |
-| 69  | Cabasa          | [鐵沙鈴](../Page/鐵沙鈴.md "wikilink")                        |
-| 70  | Maracas         | [沙槌](https://zh.wikipedia.org/wiki/沙槌 "wikilink")       |
-| 71  | Short Whistle   | 短[口哨](https://zh.wikipedia.org/wiki/口哨 "wikilink")      |
-| 72  | Long Whistle    | 長[口哨](https://zh.wikipedia.org/wiki/口哨 "wikilink")      |
-| 73  | Short Guiro     | 短[刮瓜](https://zh.wikipedia.org/wiki/刮瓜 "wikilink")      |
-| 74  | Long Guiro      | 長[刮瓜](https://zh.wikipedia.org/wiki/刮瓜 "wikilink")      |
-| 75  | Claves          | [擊木](../Page/擊木.md "wikilink")                          |
-| 76  | High Wood Block | 高音[木魚](https://zh.wikipedia.org/wiki/木魚 "wikilink")     |
-| 77  | Low Wood Block  | 低音[木魚](https://zh.wikipedia.org/wiki/木魚 "wikilink")     |
-| 78  | Mute            |                                                         |
-| 79  | Open            |                                                         |
-| 80  | Mute Triangle   | 悶音[三角鐵](https://zh.wikipedia.org/wiki/三角鐵 "wikilink")   |
-| 81  | Open Triangle   | 開放[三角鐵](https://zh.wikipedia.org/wiki/三角鐵 "wikilink")   |
+| No. | English         | 中文                                                    |
+| --- | --------------- | ----------------------------------------------------- |
+| 35  | Bass Drum 2     | [大鼓](../Page/大鼓.md "wikilink")2                       |
+| 36  | Bass Drum 1     | [大鼓](../Page/大鼓.md "wikilink")1                       |
+| 37  | Side Stick      | 小鼓鼓邊                                                  |
+| 38  | Snare Drum 1    | [小鼓](../Page/小鼓.md "wikilink")1                       |
+| 39  | Hand Clap       | 拍手                                                    |
+| 40  | Snare Drum 2    | [小鼓](../Page/小鼓.md "wikilink")2                       |
+| 41  | Low Tom 2       | [低音筒鼓](../Page/筒鼓.md "wikilink")2                     |
+| 42  | Closed Hi-hat   | 閉合[開合鈸](https://zh.wikipedia.org/wiki/開合鈸 "wikilink") |
+| 43  | Low Tom 1       | [低音筒鼓](../Page/筒鼓.md "wikilink")1                     |
+| 44  | Pedal Hi-hat    | 腳踏[開合鈸](https://zh.wikipedia.org/wiki/開合鈸 "wikilink") |
+| 45  | Mid Tom 2       | [中音筒鼓](../Page/筒鼓.md "wikilink")2                     |
+| 46  | Open Hi-hat     | 開放[開合鈸](https://zh.wikipedia.org/wiki/開合鈸 "wikilink") |
+| 47  | Mid Tom 1       | [中音筒鼓](../Page/筒鼓.md "wikilink")1                     |
+| 48  | High Tom 2      | [高音筒鼓](../Page/筒鼓.md "wikilink")2                     |
+| 49  | Crash Cymbal 1  | [強音鈸](https://zh.wikipedia.org/wiki/強音鈸 "wikilink")1  |
+| 50  | High Tom 1      | [高音筒鼓](../Page/筒鼓.md "wikilink")1                     |
+| 51  | Ride Cymbal 1   | [打點鈸](https://zh.wikipedia.org/wiki/打點鈸 "wikilink")1  |
+| 52  | Chinese Cymbal  | [鈸](https://zh.wikipedia.org/wiki/鈸 "wikilink")       |
+| 53  | Ride Bell       | 響鈴                                                    |
+| 54  | Tambourine      | [鈴鼓](../Page/鈴鼓.md "wikilink")                        |
+| 55  | Splash Cymbal   | [小鈸銅鈸](https://zh.wikipedia.org/wiki/小鈸銅鈸 "wikilink") |
+| 56  | Cowbell         | [牛鈴](https://zh.wikipedia.org/wiki/牛鈴 "wikilink")     |
+| 57  | Crash Cymbal 2  | [強音鈸](https://zh.wikipedia.org/wiki/強音鈸 "wikilink")2  |
+| 58  | Vibra Slap      | [噪音器](https://zh.wikipedia.org/wiki/噪音器 "wikilink")   |
+| 59  | Ride Cymbal 2   | [打點鈸](https://zh.wikipedia.org/wiki/打點鈸 "wikilink")2  |
+| 60  | High Bongo      | 高音[邦加鼓](https://zh.wikipedia.org/wiki/邦加鼓 "wikilink") |
+| 61  | Low Bongo       | 低音[邦加鼓](https://zh.wikipedia.org/wiki/邦加鼓 "wikilink") |
+| 62  | Mute High Conga | 悶音高音[康加鼓](../Page/康加鼓.md "wikilink")                  |
+| 63  | Open High Conga | 開放高音[康加鼓](../Page/康加鼓.md "wikilink")                  |
+| 64  | Low Conga       | 低音[康加鼓](../Page/康加鼓.md "wikilink")                    |
+| 65  | High Timbale    | 高音                                                    |
+| 66  | Low Timbale     | 低音                                                    |
+| 67  | High Agogo      | 高音                                                    |
+| 68  | Low Agogo       | 低音                                                    |
+| 69  | Cabasa          | [鐵沙鈴](../Page/鐵沙鈴.md "wikilink")                      |
+| 70  | Maracas         | [沙槌](https://zh.wikipedia.org/wiki/沙槌 "wikilink")     |
+| 71  | Short Whistle   | 短[口哨](https://zh.wikipedia.org/wiki/口哨 "wikilink")    |
+| 72  | Long Whistle    | 長[口哨](https://zh.wikipedia.org/wiki/口哨 "wikilink")    |
+| 73  | Short Guiro     | 短[刮瓜](https://zh.wikipedia.org/wiki/刮瓜 "wikilink")    |
+| 74  | Long Guiro      | 長[刮瓜](https://zh.wikipedia.org/wiki/刮瓜 "wikilink")    |
+| 75  | Claves          | [擊木](../Page/擊木.md "wikilink")                        |
+| 76  | High Wood Block | 高音[木魚](https://zh.wikipedia.org/wiki/木魚 "wikilink")   |
+| 77  | Low Wood Block  | 低音[木魚](https://zh.wikipedia.org/wiki/木魚 "wikilink")   |
+| 78  | Mute            |                                                       |
+| 79  | Open            |                                                       |
+| 80  | Mute Triangle   | 悶音[三角鐵](https://zh.wikipedia.org/wiki/三角鐵 "wikilink") |
+| 81  | Open Triangle   | 開放[三角鐵](https://zh.wikipedia.org/wiki/三角鐵 "wikilink") |
 
 ### 控制器事件（Controller events）
 

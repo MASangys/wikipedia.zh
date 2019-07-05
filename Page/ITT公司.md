@@ -61,8 +61,7 @@ Index）。[《财富》杂志一直将其列入](https://zh.wikipedia.org/wiki/
 1.  卫星：宽带填缝Ka-波段卫星地面终端、[GPS Block
     IIR](https://zh.wikipedia.org/wiki/GPS_Block_IIR "wikilink")、[GPS
     III](https://zh.wikipedia.org/wiki/GPS_III "wikilink")、国家极轨环境卫星系统（[NPOESS](https://zh.wikipedia.org/wiki/NPOESS "wikilink")）、[GeoEye-1](https://zh.wikipedia.org/wiki/GeoEye-1 "wikilink")、[GeoEye-2](https://zh.wikipedia.org/wiki/GeoEye-2 "wikilink")、[詹姆斯·韋伯太空望遠鏡](https://zh.wikipedia.org/wiki/詹姆斯·韋伯太空望遠鏡 "wikilink")、[IKONOS](https://zh.wikipedia.org/wiki/IKONOS "wikilink")、[火星偵察軌道器](https://zh.wikipedia.org/wiki/火星偵察軌道器 "wikilink")、[钱德拉太空望远镜](https://zh.wikipedia.org/wiki/钱德拉太空望远镜 "wikilink")、[WorldView-1](https://zh.wikipedia.org/wiki/WorldView-1 "wikilink")、[QUICKBIRD](https://zh.wikipedia.org/wiki/QUICKBIRD "wikilink")
-2.  软件：[IDL](https://zh.wikipedia.org/wiki/互動式數據語言 "wikilink")（Interactive
-    Data
+2.  软件：[IDL](../Page/互動式數據語言.md "wikilink")（Interactive Data
     Language，数据分析和图像化应用程序及编程语言）、[ENVI](https://zh.wikipedia.org/wiki/ENVI "wikilink")
 3.  通讯：下一代士兵通讯系统、WAAS、SINCGARS
 4.  雷达：[AN/SPS-48](https://zh.wikipedia.org/wiki/AN/SPS-48 "wikilink")、[AN/FPS-85](https://zh.wikipedia.org/wiki/AN/FPS-85 "wikilink")、GCA-2000、空中交通控制系统、MACS

@@ -655,7 +655,7 @@
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/茱麗葉的男人" title="wikilink">茱麗葉的男人</a><br />
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/車太鉉" title="wikilink">車太鉉</a>、<a href="../Page/芮智媛.md" title="wikilink">芮智媛</a>、<a href="../Page/池珍熙.md" title="wikilink">池珍熙</a>、<a href="../Page/金成鈴.md" title="wikilink">金成鈴</a>、<a href="../Page/金敏喜.md" title="wikilink">金敏喜</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/車太鉉.md" title="wikilink">車太鉉</a>、<a href="../Page/芮智媛.md" title="wikilink">芮智媛</a>、<a href="../Page/池珍熙.md" title="wikilink">池珍熙</a>、<a href="../Page/金成鈴.md" title="wikilink">金成鈴</a>、<a href="../Page/金敏喜.md" title="wikilink">金敏喜</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/吳鍾錄.md" title="wikilink">吳鍾錄</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/朴繼玉" title="wikilink">朴繼玉</a></p></td>
 <td style="text-align: center;"></td>

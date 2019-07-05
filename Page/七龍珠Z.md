@@ -206,7 +206,7 @@ MANNA
 在那個世界加油</p></td>
 <td><p>照井啓司</p></td>
 <td><p><a href="../Page/橋本光夫.md" title="wikilink">橋本光夫</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/海老澤幸男" title="wikilink">海老澤幸男</a></p></td>
+<td><p><a href="../Page/海老澤幸男.md" title="wikilink">海老澤幸男</a></p></td>
 <td><p>池田祐二<br />
 高田茂祝</p></td>
 </tr>

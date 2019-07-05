@@ -98,6 +98,7 @@ System。無法查看沒有WIC編解碼器的舊版圖像格式，如PCX和WMF�
 ## 外部連結
 
 [Category:Windows組件](https://zh.wikipedia.org/wiki/Category:Windows組件 "wikilink")
+[Category:图片分享网站](https://zh.wikipedia.org/wiki/Category:图片分享网站 "wikilink")
 
 1.
 2.

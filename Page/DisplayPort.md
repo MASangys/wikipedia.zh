@@ -54,6 +54,8 @@ Stream Compression)技術、前向錯誤更正(Forward Error Correction)、高�
 meta transport），聲道也提升到32聲道1536
 KHz取樣頻率，將為筆記型電腦、智慧型手機及AIO一體機帶來8K級別（7680x4320）的60Hz輸出，4K的話則可以上到120Hz。
 
+### 2.0
+
 ## 配套标准
 
 ### Mini DisplayPort

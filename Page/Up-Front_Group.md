@@ -209,7 +209,7 @@ Project內。以下是集團曾舉辦過的一些主要auditions：
 2.  1998年「」合格者：[Ayaka](https://zh.wikipedia.org/wiki/Ayaka "wikilink")、[Mika](https://zh.wikipedia.org/wiki/Mika\(早安少女組\) "wikilink")、、、
 3.  1999年「鄉村少女組。追加成員audition」合格者：
 4.  1998年「淳君Produce藝人新團體audition」合格者：[稻葉貴子](https://zh.wikipedia.org/wiki/稻葉貴子 "wikilink")、[RuRu](https://zh.wikipedia.org/wiki/RuRu "wikilink")、[信田美帆](https://zh.wikipedia.org/wiki/信田美帆 "wikilink")、[小湊美和](https://zh.wikipedia.org/wiki/小湊美和 "wikilink")
-5.  1998年5月3日「早安少女組。追加audition」合格者：[保田圭](../Page/保田圭.md "wikilink")、[矢口真里](../Page/矢口真里.md "wikilink")、[市井紗耶香](https://zh.wikipedia.org/wiki/市井紗耶香 "wikilink")
+5.  1998年5月3日「早安少女組。追加audition」合格者：[保田圭](../Page/保田圭.md "wikilink")、[矢口真里](../Page/矢口真里.md "wikilink")、[市井紗耶香](../Page/市井紗耶香.md "wikilink")
 6.  1999年2月「」合格者：[三佳千夏](https://zh.wikipedia.org/wiki/三佳千夏 "wikilink")
 7.  1999年5月12日「」最終合格者：[柴田步](https://zh.wikipedia.org/wiki/柴田步 "wikilink")、[大谷雅惠](https://zh.wikipedia.org/wiki/大谷雅惠 "wikilink")、[村田惠](https://zh.wikipedia.org/wiki/村田惠 "wikilink")、[齊藤瞳](https://zh.wikipedia.org/wiki/齊藤瞳 "wikilink")
 8.  1999年8月22日「早安少女組。第2回追加audition」合格者：[後藤真希](../Page/後藤真希.md "wikilink")

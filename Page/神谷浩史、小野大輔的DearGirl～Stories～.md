@@ -1105,8 +1105,7 @@ EXPO重新活動。簡稱 MOB（エム・オー・ビー）。目前發行2張�
   - [DGS EXPO](http://www.joqrextend.co.jp/dgsexpo/)
   - [DGS vs MOB LIVE SURVIVE](http://www.joqrextend.co.jp/dgsvsmob/)
 
-[Category:日本廣播節目](https://zh.wikipedia.org/wiki/Category:日本廣播節目 "wikilink")
-[Category:動畫廣播](https://zh.wikipedia.org/wiki/Category:動畫廣播 "wikilink")
+[Category:文化放送A\&G_Zone](https://zh.wikipedia.org/wiki/Category:文化放送A&G_Zone "wikilink")
 
 1.
 2.  作為特典，收錄於2010年10月公映的「Dear Girl〜Stories〜THE MOVIE」電影DVD之中。

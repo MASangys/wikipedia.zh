@@ -369,23 +369,24 @@ Ella Gross(模特儿）
 <!-- end list -->
 
   - [鄭有津](https://zh.wikipedia.org/wiki/S#afla "wikilink")（[S\#afla](https://zh.wikipedia.org/wiki/S#afla "wikilink")）
+  - [金宥娜](https://zh.wikipedia.org/wiki/金宥娜 "wikilink")\[48\]（[KHAN](https://zh.wikipedia.org/wiki/KHAN "wikilink")）
   - [李珠京](https://zh.wikipedia.org/wiki/MyB "wikilink")（[MyB](https://zh.wikipedia.org/wiki/MyB "wikilink")）
   - [瑞淵](https://zh.wikipedia.org/wiki/李瑞淵 "wikilink")（[fromis_9](https://zh.wikipedia.org/wiki/fromis_9 "wikilink")）
   - [美延](https://zh.wikipedia.org/wiki/曹美延 "wikilink")（[(G)I-DLE](../Page/\(G\)I-DLE.md "wikilink")）
-  - [金宥娜](https://zh.wikipedia.org/wiki/金宥娜 "wikilink")\[48\]（[KHAN](https://zh.wikipedia.org/wiki/KHAN "wikilink")）
   - [Jun.
     K](https://zh.wikipedia.org/wiki/金閔俊 "wikilink")（[2PM](https://zh.wikipedia.org/wiki/2PM "wikilink")）
-  - [周藝軒](../Page/周藝軒.md "wikilink")（與[樂華娛樂合作](https://zh.wikipedia.org/wiki/樂華娛樂 "wikilink")、[UNIQ](../Page/UNIQ.md "wikilink")、《[以團之名](https://zh.wikipedia.org/wiki/以團之名 "wikilink")》、[新風暴](../Page/新風暴.md "wikilink")）
+  - [周藝軒](../Page/周藝軒.md "wikilink")（[UNIQ](../Page/UNIQ.md "wikilink")、《[以團之名](https://zh.wikipedia.org/wiki/以團之名 "wikilink")》、[新風暴](../Page/新風暴.md "wikilink")）
   - [金聖柱](../Page/金聖柱.md "wikilink")（[UNIQ](../Page/UNIQ.md "wikilink")）
-  - [李汶翰](../Page/李汶翰.md "wikilink")（與[樂華娛樂合作](https://zh.wikipedia.org/wiki/樂華娛樂 "wikilink")、[UNIQ](../Page/UNIQ.md "wikilink")、《[青春有你](../Page/青春有你.md "wikilink")》、[UNINE](../Page/UNINE.md "wikilink")）
+  - [李汶翰](../Page/李汶翰.md "wikilink")（[UNIQ](../Page/UNIQ.md "wikilink")、《[青春有你](../Page/青春有你.md "wikilink")》、[UNINE](../Page/UNINE.md "wikilink")）
   - [曹承衍](../Page/曹承衍.md "wikilink")（[UNIQ](../Page/UNIQ.md "wikilink")、[M.O.L.A](../Page/M.O.L.A.md "wikilink")、《[PRODUCE
     X 101](../Page/PRODUCE_X_101.md "wikilink")》）
-  - [王一博](https://zh.wikipedia.org/wiki/王一博 "wikilink")（與[樂華娛樂合作](https://zh.wikipedia.org/wiki/樂華娛樂 "wikilink")、[UNIQ](../Page/UNIQ.md "wikilink")）
+  - [王一博](https://zh.wikipedia.org/wiki/王一博 "wikilink")（[UNIQ](../Page/UNIQ.md "wikilink")）
   - [洪碩](https://zh.wikipedia.org/wiki/梁洪硕 "wikilink")（[PENTAGON](../Page/Pentagon_\(男子組合\).md "wikilink")）
+  - [Wow](https://zh.wikipedia.org/wiki/金世潤 "wikilink")（[A.C.E](https://zh.wikipedia.org/wiki/A.C.E "wikilink")）
+  - [金成賢](../Page/金成賢.md "wikilink")（[IN2IT](../Page/IN2IT.md "wikilink")）
   - [Ravn](../Page/金英助.md "wikilink")（[ONEUS](https://zh.wikipedia.org/wiki/ONEUS "wikilink")）
   - [Lee
     Do](https://zh.wikipedia.org/wiki/金建學 "wikilink")（[ONEUS](https://zh.wikipedia.org/wiki/ONEUS "wikilink")）
-  - [Wow](https://zh.wikipedia.org/wiki/金世潤 "wikilink")（[A.C.E](https://zh.wikipedia.org/wiki/A.C.E "wikilink")）
   - [田雄](../Page/全雄.md "wikilink")（[AB6IX](../Page/AB6IX.md "wikilink")）
   - [李炳坤](../Page/李炳坤.md "wikilink")（[CIX](../Page/CIX.md "wikilink")）
   - [金昇勳](../Page/金昇勳.md "wikilink")（[CIX](../Page/CIX.md "wikilink")）
@@ -401,7 +402,7 @@ Ella Gross(模特儿）
   - [凱蒂·金](https://zh.wikipedia.org/wiki/凱蒂·金 "wikilink")\[49\]
   - [柳珠伊](../Page/Cosmic_Girl.md "wikilink")\[50\]
   - [金保亨](../Page/金保亨.md "wikilink")
-  - [金常彬](https://zh.wikipedia.org/wiki/金常彬 "wikilink")（藝名：BIL）
+  - [金常彬](https://zh.wikipedia.org/wiki/金常彬 "wikilink")
 
 <!-- end list -->
 
@@ -420,7 +421,6 @@ Ella Gross(模特儿）
 
   - 《[少年24](../Page/BOYS24.md "wikilink")》
       - 李滄珉
-      - [金成賢](../Page/金成賢.md "wikilink")（[IN2IT](../Page/IN2IT.md "wikilink")）
       - 吳振碩
   - 《[PRODUCE 101
     S2](https://zh.wikipedia.org/wiki/PRODUCE_101_\(第二季\) "wikilink")》
@@ -429,9 +429,6 @@ Ella Gross(模特儿）
       - 朴珍熙 Jinny Park
       - 朴書英 Park Seo Young
   - 《[YG寶石盒](../Page/YG寶石盒.md "wikilink")》
-      - [李炳坤](../Page/李炳坤.md "wikilink")（《[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")》、[CIX](../Page/CIX.md "wikilink")）
-      - [金昇勳](../Page/金昇勳.md "wikilink")（《[Stray
-        Kids](https://zh.wikipedia.org/wiki/Stray_Kids_\(電視節目\) "wikilink")》、[CIX](../Page/CIX.md "wikilink")）
       - 李美談（《[Stray
         Kids](https://zh.wikipedia.org/wiki/Stray_Kids_\(電視節目\) "wikilink")》、《[PRODUCE
         X 101](../Page/PRODUCE_X_101.md "wikilink")》）

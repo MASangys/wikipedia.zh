@@ -957,6 +957,7 @@ ECLARE」[紐約旗艦店於](https://zh.wikipedia.org/wiki/紐約 "wikilink")[�
 [Category:美國女歌手](https://zh.wikipedia.org/wiki/Category:美國女歌手 "wikilink")
 [Category:韓國女歌手](https://zh.wikipedia.org/wiki/Category:韓國女歌手 "wikilink")
 [Category:韓國電視演員](https://zh.wikipedia.org/wiki/Category:韓國電視演員 "wikilink")
+[Category:美國舞者](https://zh.wikipedia.org/wiki/Category:美國舞者 "wikilink")
 [Category:韓國舞者](https://zh.wikipedia.org/wiki/Category:韓國舞者 "wikilink")
 [Category:韓國女性模特兒](https://zh.wikipedia.org/wiki/Category:韓國女性模特兒 "wikilink")
 [Category:韓國音樂劇演員](https://zh.wikipedia.org/wiki/Category:韓國音樂劇演員 "wikilink")

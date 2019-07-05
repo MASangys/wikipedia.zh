@@ -30,7 +30,7 @@ OS平台的[動作角色扮演遊戲](../Page/動作角色扮演遊戲.md "wikil
     聖騎士—屬於李奧瑞克所帶領的衛斯馬屈騎士團（Knights of Westmarch）中的精英士兵，接受的是撒卡蘭姆 - 信仰聖光的教派
     - 的光明教導，他只為他自己的信念而戰。雖然聖騎士們有點狂熱過頭了，但是他們依然追隨著聖光在行動。
 
-而在資料片[暗黑破壞神II：毀滅之王則另外增加以下兩個職業](../Page/暗黑破壞神II：毀滅之王.md "wikilink")：[德鲁伊和](https://zh.wikipedia.org/wiki/德鲁伊 "wikilink")[刺客](https://zh.wikipedia.org/wiki/刺客 "wikilink")
+而在資料片[暗黑破壞神II：毀滅之王則另外增加以下兩個職業](../Page/暗黑破壞神II：毀滅之王.md "wikilink")：[德鲁伊和](https://zh.wikipedia.org/wiki/督伊德 "wikilink")[刺客](https://zh.wikipedia.org/wiki/刺客 "wikilink")
 
 ### 多人游戏
 

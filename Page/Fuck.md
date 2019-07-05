@@ -30,7 +30,7 @@ Dictionary）也認為Fuck的字源已難考究，但主張此字是源自於[�
 
 ### 文獻出處
 
-15世紀時有一首[诗](https://zh.wikipedia.org/wiki/诗 "wikilink")“[跳蚤和](../Page/跳蚤.md "wikilink")[苍蝇](https://zh.wikipedia.org/wiki/苍蝇 "wikilink")”，此诗由[拉丁语和](../Page/拉丁语.md "wikilink")[英语混合写成](../Page/英语.md "wikilink")，讽刺了[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[剑桥的](https://zh.wikipedia.org/wiki/剑桥 "wikilink")[卡尔梅修道士](https://zh.wikipedia.org/wiki/卡尔梅修道士 "wikilink")，其诗名取自第一句“Flen,
+15世紀時有一首[诗](https://zh.wikipedia.org/wiki/诗 "wikilink")“”，此诗由[拉丁语和](../Page/拉丁语.md "wikilink")[英语混合写成](../Page/英语.md "wikilink")，讽刺了[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[剑桥的](https://zh.wikipedia.org/wiki/剑桥 "wikilink")[卡尔梅修道士](https://zh.wikipedia.org/wiki/卡尔梅修道士 "wikilink")，其诗名取自第一句“Flen,
 flyys, and
 freris”，即“跳蚤，苍蝇和[修道士](https://zh.wikipedia.org/wiki/修道士 "wikilink")”。有fuck一词的一行是“Non
 sunt in coeli, quia gxddbov xxkxzt pg ifmk.”其中的拉丁文“Non sunt in coeli,

@@ -34,7 +34,7 @@ Hall舉行](https://zh.wikipedia.org/wiki/EMax#匯星 "wikilink")，主題為「
       - [周柏豪](../Page/周柏豪.md "wikilink")
       - [洪卓立](../Page/洪卓立.md "wikilink")
   - 樂壇新勢力（女歌手）
-      - [江若琳](https://zh.wikipedia.org/wiki/江若琳 "wikilink")
+      - [江若琳](../Page/江若琳.md "wikilink")
       - [鍾舒漫](../Page/鍾舒漫.md "wikilink")
       - [裕美](https://zh.wikipedia.org/wiki/和田裕美 "wikilink")
   - 樂壇新勢力（組合）

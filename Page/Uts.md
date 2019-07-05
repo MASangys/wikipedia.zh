@@ -60,7 +60,6 @@ Untriseptium一詞來自於1979年[IUPAC發表了對元素新命名的建議](ht
     23.[(review)](http://www.rsc.org/Publishing/ChemScience/Volume/2010/11/Extended_elements.asp)
 
 7.
-
 8.
     137|url=<http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.932.3488&rep=rep1&type=pdf>
     |journal=Indian Journal of Science and Technology |volume=Vol.2 No 3

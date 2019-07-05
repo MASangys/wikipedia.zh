@@ -165,7 +165,7 @@ Laughing哥之女友<br />
 <tr class="even">
 <td><p><strong><a href="../Page/元彪.md" title="wikilink">元　彪</a></strong></p></td>
 <td><p><strong>冼Sir</strong></p></td>
-<td><p><a href="../Page/有組織罪案及三合會調查科.md" title="wikilink">有組織罪案及三合會調查科</a><a href="https://zh.wikipedia.org/wiki/高級警司" title="wikilink">高級警司</a><br />
+<td><p><a href="../Page/有組織罪案及三合會調查科.md" title="wikilink">有組織罪案及三合會調查科</a><a href="../Page/高級警司.md" title="wikilink">高級警司</a><br />
 臥底之上司</p></td>
 </tr>
 <tr class="odd">

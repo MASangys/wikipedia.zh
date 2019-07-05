@@ -1,5 +1,5 @@
 [Casio_fx-50FH_II.JPG](https://zh.wikipedia.org/wiki/File:Casio_fx-50FH_II.JPG "fig:Casio_fx-50FH_II.JPG")
-[Casio_fx-50FH_II_HKEAA_APPROVED_box.jpg](https://zh.wikipedia.org/wiki/File:Casio_fx-50FH_II_HKEAA_APPROVED_box.jpg "fig:Casio_fx-50FH_II_HKEAA_APPROVED_box.jpg")
+
 [User's_guide_of_Casio_fx-50FH_II.jpg](https://zh.wikipedia.org/wiki/File:User's_guide_of_Casio_fx-50FH_II.jpg "fig:User's_guide_of_Casio_fx-50FH_II.jpg")
 [Casio_fx-50FH_II_1.jpg](https://zh.wikipedia.org/wiki/File:Casio_fx-50FH_II_1.jpg "fig:Casio_fx-50FH_II_1.jpg")
 [Casio_fx-50FH_II_2.jpg](https://zh.wikipedia.org/wiki/File:Casio_fx-50FH_II_2.jpg "fig:Casio_fx-50FH_II_2.jpg")

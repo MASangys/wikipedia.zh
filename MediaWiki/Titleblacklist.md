@@ -17,7 +17,8 @@
 `# 請注意 newaccountonly 在本地不再有效，請加入至`[`Special:滥用过滤器/194`](https://zh.wikipedia.org/wiki/Special:滥用过滤器/194 "wikilink")
 
 `#未整理`
-`^\d+$ <autoconfirmed|errmsg=Titleblacklist-semiprotected> # 破壞`
+`.*邱士縉.* <errmsg=Titleblacklist-fullprotected> # 持續繞過存廢討論刪除決定`
+`^[\d-]+$ <autoconfirmed|errmsg=Titleblacklist-semiprotected> # X43破壞和韓文廣告或無意義內容破壞`
 `^[^:]*沙盒.*$ `<autoconfirmed>
 `.*水.*玲.* <autoconfirmed|errmsg=Titleblacklist-semiprotected> # 破壞`
 `.*衝上雲霄.* <autoconfirmed|errmsg=Titleblacklist-semiprotected> # 破壞`

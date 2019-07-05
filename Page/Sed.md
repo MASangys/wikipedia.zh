@@ -1,4 +1,5 @@
 **sed**（意为**流编辑器**，源自[英语](../Page/英语.md "wikilink")“”的缩写）是一个使用简单紧凑的编程语言来解析和转换文本[Unix实用程序](../Page/UNIX.md "wikilink")。
+
 sed由[贝尔实验室的Lee](../Page/贝尔实验室.md "wikilink") E. McMahon于1973年至1974年开发，
 \[1\] 并且现在大多数操作系统都可以使用。 \[2\] sed基于交互式编辑器ed（“editor”，1971）和早期qed（“quick
 editor”，1965-66）的脚本功能。sed是最早支持[正则表达式的工具之一](../Page/正则表达式.md "wikilink")，至今仍然用于文本处理，特别是用于替换命令。用于纯文本字符串操作和“流编辑”的常用工具还有[AWK和](../Page/AWK.md "wikilink")[Perl](../Page/Perl.md "wikilink")

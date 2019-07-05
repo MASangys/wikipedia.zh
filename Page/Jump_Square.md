@@ -376,7 +376,7 @@ SQ》編輯的規制較鬆，會有[社會問題](https://zh.wikipedia.org/wiki/
 <tr class="odd">
 <td><p>34</p></td>
 <td><p><a href="../Page/驅魔少年.md" title="wikilink">驅魔少年</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/星野桂" title="wikilink">星野桂</a></p></td>
+<td><p><a href="../Page/星野桂.md" title="wikilink">星野桂</a></p></td>
 <td><p>－</p></td>
 <td><p>2009.12</p></td>
 <td><p>2013.02</p></td>

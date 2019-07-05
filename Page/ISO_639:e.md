@@ -1,128 +1,269 @@
-## E
-
-| 3字母                 | 639-2（如有） | 639-1（如有） | SIL | 英語名称                       | 中文名称                                                                                                  |
-| ------------------- | --------- | --------- | --- | -------------------------- | ----------------------------------------------------------------------------------------------------- |
-| ebg                 |           |           | EBG | Ebughu                     |                                                                                                       |
-| ebo                 |           |           | EBO | Teke-Ebo                   |                                                                                                       |
-| ebr                 |           |           | EBR | Ebrié                      |                                                                                                       |
-| ebu                 |           |           | EBU | Embu                       |                                                                                                       |
-| ecr                 |           |           |     | Eteocretan                 |                                                                                                       |
-| ecs                 |           |           | ECS | Ecuadorian Sign Language   | [厄瓜多爾手語](https://zh.wikipedia.org/wiki/厄瓜多爾手語 "wikilink")                                             |
-| ecy                 |           |           |     | Eteocypriot                |                                                                                                       |
-| eee                 |           |           | EEE | E                          | [五色話](https://zh.wikipedia.org/wiki/五色話 "wikilink")                                                   |
-| eek                 |           |           |     | Estonian                   | [愛沙尼亞語](https://zh.wikipedia.org/wiki/愛沙尼亞語 "wikilink")                                               |
-| efa                 |           |           | EFA | Efai                       |                                                                                                       |
-| efe                 |           |           | EFE | Efe                        |                                                                                                       |
-| efi                 | efi       |           | EFK | Efik                       | [埃菲克語](https://zh.wikipedia.org/wiki/埃菲克語 "wikilink")                                                 |
-| ega                 |           |           | EGA | Ega                        |                                                                                                       |
-| ego                 |           |           | EGO | Eggon                      |                                                                                                       |
-| egx <sub>(f)</sub>  |           |           |     | Egyptian languages         | [埃及語族](https://zh.wikipedia.org/wiki/埃及語族 "wikilink")                                                 |
-| egy                 | egy       |           |     | Egyptian (Ancient)         | [埃及語](https://zh.wikipedia.org/wiki/埃及語 "wikilink")                                                   |
-| ehu                 |           |           | EHU | Ehueun                     |                                                                                                       |
-| eip                 |           |           | EIP | Eipomek                    |                                                                                                       |
-| eit                 |           |           | EIT | Eitiep                     |                                                                                                       |
-| eiv                 |           |           | EIV | Askopan                    |                                                                                                       |
-| eja                 |           |           | EJA | Ejamat                     |                                                                                                       |
-| eka                 | eka       |           | EKA | Ekajuk                     | [埃克丘克語](https://zh.wikipedia.org/wiki/埃克丘克語 "wikilink")                                               |
-| eke                 |           |           | EKE | Ekit                       |                                                                                                       |
-| ekg                 |           |           | EKG | Ekari                      |                                                                                                       |
-| eki                 |           |           | EKI | Eki                        |                                                                                                       |
-| ekl                 | ekl       |           |     | Kol                        |                                                                                                       |
-| ekm                 |           |           | EKM | Elip                       |                                                                                                       |
-| eko                 |           |           | EKO | Koti                       |                                                                                                       |
-| ekp                 |           |           | EKP | Ekpeye                     |                                                                                                       |
-| ekr                 |           |           | EKR | Yace                       |                                                                                                       |
-| eky                 |           |           | EKY | Eastern Kayah              |                                                                                                       |
-| ele                 |           |           | ELE | Elepi                      |                                                                                                       |
-| elh                 |           |           | ELH | El Hugeirat                |                                                                                                       |
-| eli                 |           |           | ELI | Nding                      |                                                                                                       |
-| elk                 |           |           | ELK | Elkei                      |                                                                                                       |
-| ell                 | gre; ell  | el        | GRK | Modern Greek (1453-)       | [現代希臘語](https://zh.wikipedia.org/wiki/現代希臘語 "wikilink")                                               |
-| elm                 |           |           | ELM | Eleme                      |                                                                                                       |
-| elo                 |           |           | ELO | El Molo                    |                                                                                                       |
-| elp                 |           |           | ELP | Elpaputih                  |                                                                                                       |
-| elu                 |           |           | ELU | Elu                        |                                                                                                       |
-| elx                 | elx       |           |     | Elamite                    | [埃蘭語](../Page/埃蘭語.md "wikilink")                                                                      |
-| ema                 |           |           | EMA | Emai-Iuleha-Ora            |                                                                                                       |
-| emb                 |           |           | EMB | Embaloh                    |                                                                                                       |
-| eme                 |           |           | EME | Emerillon                  |                                                                                                       |
-| emg                 |           |           | EMG | Eastern Meohang            |                                                                                                       |
-| emi                 |           |           | EMI | Mussau-Emira               |                                                                                                       |
-| emk                 |           |           | MNI | Eastern Maninkakan         |                                                                                                       |
-| eml <sub>(rs)</sub> |           |           | EML | Emiliano-Romagnolo         | [艾米利亞-羅馬涅語](https://zh.wikipedia.org/wiki/艾米利亞-羅馬涅語 "wikilink")，被拆分為 egl 和 rgn                        |
-| emm                 |           |           |     | Mamulique                  |                                                                                                       |
-| emn                 |           |           | EMN | Eman                       |                                                                                                       |
-| emo                 |           |           | EMO | Emok                       |                                                                                                       |
-| emp                 |           |           | EMP | Northern Emberá            |                                                                                                       |
-| ems                 |           |           | EMS | Pacific Gulf Yupik         | [太平洋灣尤皮克語](https://zh.wikipedia.org/wiki/太平洋灣尤皮克語 "wikilink")                                         |
-| emu                 |           |           | EMU | Eastern Muria              |                                                                                                       |
-| emw                 |           |           | EMW | Emplawas                   |                                                                                                       |
-| emy                 |           |           |     | Epigraphic Mayan           |                                                                                                       |
-| ena                 |           |           | ENA | Apali                      |                                                                                                       |
-| enb                 |           |           | ENB | Markweeta                  |                                                                                                       |
-| enc                 |           |           | ENC | En                         | [儂環語](https://zh.wikipedia.org/wiki/儂環語 "wikilink")                                                   |
-| end                 |           |           | END | Ende                       |                                                                                                       |
-| enf                 |           |           | ENF | Forest Enets               | [森林埃內茨語](https://zh.wikipedia.org/wiki/森林埃內茨語 "wikilink")                                             |
-| eng                 | eng       | en        | ENG | English                    | [英語](https://zh.wikipedia.org/wiki/英語 "wikilink")                                                     |
-| enh                 |           |           | ENH | Tundra Enets               | [凍土埃內茨語](https://zh.wikipedia.org/wiki/凍土埃內茨語 "wikilink")                                             |
-| eni <sub>(rm)</sub> |           |           | ENI | Enim                       | 已合併至 pse                                                                                              |
-| enm                 | enm       |           |     | Middle English (1100-1500) | [中古英語](https://zh.wikipedia.org/wiki/中古英語 "wikilink")                                                 |
-| enn                 |           |           | ENN | Engenni                    |                                                                                                       |
-| eno                 |           |           | ENO | Enggano                    |                                                                                                       |
-| enq                 |           |           | ENQ | Enga                       | [恩加語](https://zh.wikipedia.org/wiki/恩加語 "wikilink")                                                   |
-| enr                 |           |           | ENR | Emumu                      |                                                                                                       |
-| enu                 |           |           |     | Enu                        |                                                                                                       |
-| env                 |           |           | ENX | Enwan (Edu State)          |                                                                                                       |
-| enw                 |           |           | ENW | Enwan (Akwa Ibom State)    |                                                                                                       |
-| eot                 |           |           | EOT | Beti (Côte d'Ivoire)       |                                                                                                       |
-| epi                 |           |           | EPI | Epie                       |                                                                                                       |
-| epo                 | epo       | eo        | ESP | Esperanto                  | [世界語](https://zh.wikipedia.org/wiki/世界語 "wikilink")                                                   |
-| era                 |           |           |     | Eravallan                  |                                                                                                       |
-| erg                 |           |           | ERG | Sie                        |                                                                                                       |
-| erh                 |           |           | ERH | Eruwa                      |                                                                                                       |
-| eri                 |           |           | ERI | Ogea                       |                                                                                                       |
-| erk                 |           |           | ERK | South Efate                |                                                                                                       |
-| ero                 |           |           | ERO | Horpa                      | [爾龔語](https://zh.wikipedia.org/wiki/爾龔語 "wikilink")                                                   |
-| err                 |           |           | ERR | Erre                       |                                                                                                       |
-| ers                 |           |           | ERS | Ersu                       | [爾蘇語](https://zh.wikipedia.org/wiki/爾蘇語 "wikilink")                                                   |
-| ert                 |           |           | BAD | Eritai                     |                                                                                                       |
-| erw                 |           |           | ERW | Erokwanas                  |                                                                                                       |
-| ese                 |           |           | ESE | Ese Ejja                   |                                                                                                       |
-| esh                 |           |           | ESH | Eshtehardi                 |                                                                                                       |
-| esi                 |           |           | ESI | North Alaskan Inupiatun    |                                                                                                       |
-| esk                 |           |           | ESK | Northwest Alaska Inupiatun |                                                                                                       |
-| esl                 |           |           | ESL | Egypt Sign Language        | [埃及手語](https://zh.wikipedia.org/wiki/埃及手語 "wikilink")                                                 |
-| esm                 |           |           | ESM | Esuma                      |                                                                                                       |
-| esn                 |           |           | ESN | Salvadoran Sign Language   | [薩爾瓦多手語](https://zh.wikipedia.org/wiki/薩爾瓦多手語 "wikilink")                                             |
-| eso                 |           |           | ESO | Estonian Sign Language     | [愛沙尼亞手語](https://zh.wikipedia.org/wiki/愛沙尼亞手語 "wikilink")                                             |
-| esq                 |           |           | ESQ | Esselen                    |                                                                                                       |
-| ess                 |           |           | ESS | Central Siberian Yupik     | [中西伯利亞尤皮克語](https://zh.wikipedia.org/wiki/中西伯利亞尤皮克語 "wikilink")                                       |
-| est <sub>(m)</sub>  | est       | et        | EST | Estonian                   | [愛沙尼亞語](https://zh.wikipedia.org/wiki/愛沙尼亞語 "wikilink")                                               |
-| esu                 |           |           | ESU | Central Yupik              | [中尤皮克語](https://zh.wikipedia.org/wiki/中尤皮克語 "wikilink")                                               |
-| esx <sub>(f)</sub>  |           |           |     | Eskimo-Aleut languages     | [愛斯基摩-阿留申語系](https://zh.wikipedia.org/wiki/愛斯基摩-阿留申語系 "wikilink")                                     |
-| etb                 |           |           | ETB | Etebi                      |                                                                                                       |
-| etc                 |           |           |     | Etchemin                   |                                                                                                       |
-| eth                 |           |           | ETH | Ethiopian Sign Language    | [埃塞俄比亞手語](https://zh.wikipedia.org/wiki/埃塞俄比亞手語 "wikilink")                                           |
-| etn                 |           |           | ETN | Eton (Vanuatu)             |                                                                                                       |
-| eto                 |           |           | ETO | Eton (Cameroon)            |                                                                                                       |
-| etr                 |           |           | ETR | Edolo                      |                                                                                                       |
-| ets                 |           |           | ETS | Yekhee                     |                                                                                                       |
-| ett                 |           |           |     | Etruscan                   |                                                                                                       |
-| etu                 |           |           | ETU | Ejagham                    |                                                                                                       |
-| etx                 |           |           | GAN | Eten                       |                                                                                                       |
-| etz                 |           |           | ETZ | Semimi                     |                                                                                                       |
-| euq <sub>(f)</sub>  |           |           |     | Basque languages           | [巴斯克語](../Page/巴斯克語.md "wikilink")（語族）                                                                |
-| eur <sub>(rn)</sub> |           |           | EUR | Europanto                  | 此語言不存在                                                                                                |
-| eus                 | baq; eus  | eu        | BSQ | Basque                     | [巴斯克語](../Page/巴斯克語.md "wikilink")                                                                    |
-| eve                 |           |           | EVE | Even                       | [鄂溫語](../Page/鄂溫語.md "wikilink")                                                                      |
-| evh                 |           |           | EVH | Uvbie                      |                                                                                                       |
-| evn                 |           |           | EVN | Evenki                     | [鄂溫克語](https://zh.wikipedia.org/wiki/鄂溫克語 "wikilink")                                                 |
-| ewe                 | ewe       | ee        | EWE | Ewe                        | [埃維語](https://zh.wikipedia.org/wiki/埃維語 "wikilink")、[幽語](https://zh.wikipedia.org/wiki/幽語 "wikilink") |
-| ewo                 | ewo       |           | EWO | Ewondo                     | [埃翁多語](../Page/埃翁多語.md "wikilink")                                                                    |
-| ext                 |           |           | EXT | Extremaduran               | [埃斯特雷馬杜拉語](../Page/埃斯特雷馬杜拉語.md "wikilink")                                                            |
-| eya                 |           |           | EYA | Eyak                       |                                                                                                       |
-| eyo                 |           |           |     | Keiyo                      |                                                                                                       |
-| eze                 |           |           | EZE | Uzekwe                     |                                                                                                       |
+|- \![eaa](https://zh.wikipedia.org/wiki/ISO_639:eaa "wikilink")  | ||
+||I/E|| || ||Karenggapa|| || || || || |-
+\![ebg](https://zh.wikipedia.org/wiki/ISO_639:ebg "wikilink")  | ||
+||I/L|| || ||Ebughu|| || || || || |-
+\![ebk](https://zh.wikipedia.org/wiki/ISO_639:ebk "wikilink")  | ||
+||I/L|| || ||Eastern Bontok|| || || || || |-
+\![ebo](https://zh.wikipedia.org/wiki/ISO_639:ebo "wikilink")  | ||
+||I/L|| || ||Teke-Ebo|| || || || || |-
+\![ebr](https://zh.wikipedia.org/wiki/ISO_639:ebr "wikilink")  | ||
+||I/L|| || ||Ebrié|| || || || || |-
+\![ebu](https://zh.wikipedia.org/wiki/ISO_639:ebu "wikilink")  | ||
+||I/L|| || ||Embu|| || || || || |-
+\![ecr](https://zh.wikipedia.org/wiki/ISO_639:ecr "wikilink")  | ||
+||I/A|| || ||Eteocretan|| || || || ||Eteokretisch |-
+\![ecs](https://zh.wikipedia.org/wiki/ISO_639:ecs "wikilink")  | ||
+||I/L|| || ||Ecuadorian Sign Language|| || ||厄瓜多尔手语|| ||ecuadorianische
+Zeichensprache |-
+\![ecy](https://zh.wikipedia.org/wiki/ISO_639:ecy "wikilink")  | ||
+||I/A|| || ||Eteocypriot|| || || || || |-
+\![eee](https://zh.wikipedia.org/wiki/ISO_639:eee "wikilink")  | ||
+||I/L|| ||E||E|| || ||五色话|| || |-
+\![efa](https://zh.wikipedia.org/wiki/ISO_639:efa "wikilink")  | ||
+||I/L|| || ||Efai|| || || || || |-
+\![efe](https://zh.wikipedia.org/wiki/ISO_639:efe "wikilink")  | ||
+||I/L|| || ||Efe|| || || || || |-
+\![efi](https://zh.wikipedia.org/wiki/ISO_639:efi "wikilink")  |
+||efi||I/L|| || ||Efik||efik|| ||埃菲克语||эфик|| |-
+\![ega](https://zh.wikipedia.org/wiki/ISO_639:ega "wikilink")  | ||
+||I/L|| || ||Ega|| || || || || |-
+\![egl](https://zh.wikipedia.org/wiki/ISO_639:egl "wikilink")  | ||
+||I/L|| ||emigliàṅ||Emilian|| || || || || |-
+\![ego](https://zh.wikipedia.org/wiki/ISO_639:ego "wikilink")  | ||
+||I/L|| || ||Eggon|| || || || || |-
+\![egy](https://zh.wikipedia.org/wiki/ISO_639:egy "wikilink")  |
+||egy||I/A|| || ||Egyptian||(ancien)
+égyptien||egipcio||埃及语||древнеегипетский||Ägyptisch
+|- \![ehu](https://zh.wikipedia.org/wiki/ISO_639:ehu "wikilink")  | ||
+||I/L|| || ||Ehueun|| || || || || |-
+\![eip](https://zh.wikipedia.org/wiki/ISO_639:eip "wikilink")  | ||
+||I/L|| || ||Eipomek|| || || || || |-
+\![eit](https://zh.wikipedia.org/wiki/ISO_639:eit "wikilink")  | ||
+||I/L|| || ||Eitiep|| || || || || |-
+\![eiv](https://zh.wikipedia.org/wiki/ISO_639:eiv "wikilink")  | ||
+||I/L|| || ||Askopan|| || || || || |-
+\![eja](https://zh.wikipedia.org/wiki/ISO_639:eja "wikilink")  | ||
+||I/L|| || ||Ejamat|| || || || || |-
+\![eka](https://zh.wikipedia.org/wiki/ISO_639:eka "wikilink")  |
+||eka||I/L|| || ||Ekajuk||ekajuk|| ||埃克丘克语||экаджук|| |-
+\![ekc](https://zh.wikipedia.org/wiki/ISO_639:ekc "wikilink")  | ||
+||I/E|| || ||Eastern Karnic|| || || || || |-
+\![eke](https://zh.wikipedia.org/wiki/ISO_639:eke "wikilink")  | ||
+||I/L|| || ||Ekit|| || || || || |-
+\![ekg](https://zh.wikipedia.org/wiki/ISO_639:ekg "wikilink")  | ||
+||I/L|| || ||Ekari|| || || || || |-
+\![eki](https://zh.wikipedia.org/wiki/ISO_639:eki "wikilink")  | ||
+||I/L|| || ||Eki|| || || || || |-
+\![ekk](https://zh.wikipedia.org/wiki/ISO_639:ekk "wikilink")  | ||
+||I/L|| || ||Standard Estonian|| || || || || |-
+\![ekl](https://zh.wikipedia.org/wiki/ISO_639:ekl "wikilink")  | ||
+||I/L|| || ||Kol|| || || || || |-
+\![ekm](https://zh.wikipedia.org/wiki/ISO_639:ekm "wikilink")  | ||
+||I/L|| || ||Elip|| || || || || |-
+\![eko](https://zh.wikipedia.org/wiki/ISO_639:eko "wikilink")  | ||
+||I/L|| || ||Koti|| || || || || |-
+\![ekp](https://zh.wikipedia.org/wiki/ISO_639:ekp "wikilink")  | ||
+||I/L|| || ||Ekpeye|| || || || || |-
+\![ekr](https://zh.wikipedia.org/wiki/ISO_639:ekr "wikilink")  | ||
+||I/L|| || ||Yace|| || || || || |-
+\![eky](https://zh.wikipedia.org/wiki/ISO_639:eky "wikilink")  | ||
+||I/L|| || ||Kayah, Eastern|| || || || || |-
+\![ele](https://zh.wikipedia.org/wiki/ISO_639:ele "wikilink")  | ||
+||I/L|| || ||Elepi|| || || || || |-
+\![elh](https://zh.wikipedia.org/wiki/ISO_639:elh "wikilink")  | ||
+||I/L|| || ||El Hugeirat|| || || || || |-
+\![eli](https://zh.wikipedia.org/wiki/ISO_639:eli "wikilink")  | ||
+||I/E|| || ||Nding|| || || || || |-
+\![elk](https://zh.wikipedia.org/wiki/ISO_639:elk "wikilink")  | ||
+||I/L|| || ||Elkei|| || || || || |-
+\![ell](https://zh.wikipedia.org/wiki/ISO_639:ell "wikilink")
+|el||gre||I/L||Indo-European||Ελληνικά||Greek||grec (moderne)||griego
+(moderno)||现代希腊语||(ново)греческий||Griechisch |-
+\![elm](https://zh.wikipedia.org/wiki/ISO_639:elm "wikilink")  | ||
+||I/L|| || ||Eleme|| || || || || |-
+\![elo](https://zh.wikipedia.org/wiki/ISO_639:elo "wikilink")  | ||
+||I/L|| || ||El Molo|| || || || || |-
+\!([elp](https://zh.wikipedia.org/wiki/ISO_639:elp "wikilink"))  | ||
+||I/L|| || ||Elpaputih|| || || || || |-
+\![elu](https://zh.wikipedia.org/wiki/ISO_639:elu "wikilink")  | ||
+||I/L|| || ||Elu|| || || || || |-
+\![elx](https://zh.wikipedia.org/wiki/ISO_639:elx "wikilink")  |
+||elx||I/A|| || ||Elamite||élamite||elamita||埃兰语||эламский||Elamisch |-
+\![ema](https://zh.wikipedia.org/wiki/ISO_639:ema "wikilink")  | ||
+||I/L|| || ||Emai-Iuleha-Ora|| || || || || |-
+\![emb](https://zh.wikipedia.org/wiki/ISO_639:emb "wikilink")  | ||
+||I/L|| || ||Embaloh|| || || ||эмбало||Embaloh |-
+\![eme](https://zh.wikipedia.org/wiki/ISO_639:eme "wikilink")  | ||
+||I/L|| || ||Emerillon|| ||emerillon|| || || |-
+\![emg](https://zh.wikipedia.org/wiki/ISO_639:emg "wikilink")  | ||
+||I/L|| || ||Meohang, Eastern|| || || || || |-
+\![emi](https://zh.wikipedia.org/wiki/ISO_639:emi "wikilink")  | ||
+||I/L|| || ||Mussau-Emira|| || || ||муссау-эмира||Mussau-Emira |-
+\![emk](https://zh.wikipedia.org/wiki/ISO_639:emk "wikilink")  | ||
+||I/L|| || ||Maninkakan, Eastern|| || || || || |-
+\!([eml](https://zh.wikipedia.org/wiki/ISO_639:eml "wikilink"))  | ||
+||I/L|| || emigliàn e rumagnòl
+||Emiliano-Romagnolo||émilien||emiliano-romañolo||
+||эмилиано-романьоло||Emilia-Romagnolo |-
+\![emm](https://zh.wikipedia.org/wiki/ISO_639:emm "wikilink")  | ||
+||I/E|| || ||Mamulique|| || || || || |-
+\![emn](https://zh.wikipedia.org/wiki/ISO_639:emn "wikilink")  | ||
+||I/L|| || ||Eman|| || || || || |-
+\!([emo](https://zh.wikipedia.org/wiki/ISO_639:emo "wikilink"))  | || ||
+||spurious language|| ||Emok|| || || || || |-
+\![emp](https://zh.wikipedia.org/wiki/ISO_639:emp "wikilink")  | ||
+||I/L|| || ||Emberá, Northern|| || || || || |-
+\![ems](https://zh.wikipedia.org/wiki/ISO_639:ems "wikilink")  | ||
+||I/L|| || ||Yupik, Pacific Gulf|| || ||太平洋湾尤皮克语|| || |-
+\![emu](https://zh.wikipedia.org/wiki/ISO_639:emu "wikilink")  | ||
+||I/L|| || ||Muria, Eastern|| || || || || |-
+\![emw](https://zh.wikipedia.org/wiki/ISO_639:emw "wikilink")  | ||
+||I/L|| || ||Emplawas|| || || || || |-
+\![emx](https://zh.wikipedia.org/wiki/ISO_639:emx "wikilink")  | ||
+||I/L|| || ||Erromintxela|| || || || || |-
+\![emy](https://zh.wikipedia.org/wiki/ISO_639:emy "wikilink")  | ||
+||I/A|| || ||Mayan, Epigraphic|| || || || || |-
+\![ena](https://zh.wikipedia.org/wiki/ISO_639:ena "wikilink")  | ||
+||I/L|| || ||Apali|| || || || || |-
+\![enb](https://zh.wikipedia.org/wiki/ISO_639:enb "wikilink")  | ||
+||I/L|| || ||Endo|| || || || || |-
+\![enc](https://zh.wikipedia.org/wiki/ISO_639:enc "wikilink")  | ||
+||I/L|| || ||En|| || ||侬环语|| || |-
+\![end](https://zh.wikipedia.org/wiki/ISO_639:end "wikilink")  | ||
+||I/L|| || ||Ende|| || || || || |-
+\![enf](https://zh.wikipedia.org/wiki/ISO_639:enf "wikilink")  | ||
+||I/L|| || ||Enets, Forest|| || ||森林埃内茨语|| || |-
+\![eng](https://zh.wikipedia.org/wiki/ISO_639:eng "wikilink")
+|en||eng||I/L||Indo-European||English||English||anglais||inglés||英语||английский||Englisch
+|- \![enh](https://zh.wikipedia.org/wiki/ISO_639:enh "wikilink")  | ||
+||I/L|| || ||Enets, Tundra|| || ||冻土埃内茨语|| || |-
+\!([eni](https://zh.wikipedia.org/wiki/ISO_639:eni "wikilink"))  | || ||
+|| || ||Enim|| || || || || |-
+\![enl](https://zh.wikipedia.org/wiki/ISO_639:enl "wikilink")  | ||
+||I/L||Mascoian|| ||Enlhet|| || || || || |-
+\![enm](https://zh.wikipedia.org/wiki/ISO_639:enm "wikilink")  |
+||enm||I/H|| ||English||English, Middle (1100-1500)||anglais
+moyen||inglés medio||中古英语||среднеанглийский||Mittelenglisch |-
+\![enn](https://zh.wikipedia.org/wiki/ISO_639:enn "wikilink")  | ||
+||I/L|| || ||Engenni|| || || || || |-
+\![eno](https://zh.wikipedia.org/wiki/ISO_639:eno "wikilink")  | ||
+||I/L|| || ||Enggano|| || || || || |-
+\![enq](https://zh.wikipedia.org/wiki/ISO_639:enq "wikilink")  | ||
+||I/L|| || ||Enga|| || ||恩加语|| || |-
+\![enr](https://zh.wikipedia.org/wiki/ISO_639:enr "wikilink")  | ||
+||I/L|| || ||Emumu|| || || || || |-
+\![enu](https://zh.wikipedia.org/wiki/ISO_639:enu "wikilink")  | ||
+||I/L|| || ||Enu|| || || || || |-
+\![env](https://zh.wikipedia.org/wiki/ISO_639:env "wikilink")  | ||
+||I/L|| || ||Enwan (Edu State)|| || || || || |-
+\![enw](https://zh.wikipedia.org/wiki/ISO_639:enw "wikilink")  | ||
+||I/L|| || ||Enwan (Akwa Ibom State)|| || || || || |-
+\![enx](https://zh.wikipedia.org/wiki/ISO_639:enx "wikilink")  | ||
+||I/L||Mascoian|| ||Enxet|| || || || || |-
+\![eot](https://zh.wikipedia.org/wiki/ISO_639:eot "wikilink")  | ||
+||I/L|| || ||Beti (Côte d'Ivoire)|| || || || || |-
+\![epi](https://zh.wikipedia.org/wiki/ISO_639:epi "wikilink")  | ||
+||I/L|| || ||Epie|| || || || || |-
+\![epo](https://zh.wikipedia.org/wiki/ISO_639:epo "wikilink")
+|eo||epo||I/C||constructed||Esperanto||Esperanto||espéranto||esperanto||世界语||эсперанто||Esperanto
+|- \![era](https://zh.wikipedia.org/wiki/ISO_639:era "wikilink")  | ||
+||I/L|| || ||Eravallan|| || || || || |-
+\![erg](https://zh.wikipedia.org/wiki/ISO_639:erg "wikilink")  | ||
+||I/L|| || ||Sie|| || || || || |-
+\![erh](https://zh.wikipedia.org/wiki/ISO_639:erh "wikilink")  | ||
+||I/L|| || ||Eruwa|| || || || || |-
+\![eri](https://zh.wikipedia.org/wiki/ISO_639:eri "wikilink")  | ||
+||I/L|| || ||Ogea|| || || || || |-
+\![erk](https://zh.wikipedia.org/wiki/ISO_639:erk "wikilink")  | ||
+||I/L|| || ||Efate, South|| || || || ||Süd-Efate |-
+\![ero](https://zh.wikipedia.org/wiki/ISO_639:ero "wikilink")  | ||
+||I/L|| || ||Horpa|| || ||尔龚语|| || |-
+\![err](https://zh.wikipedia.org/wiki/ISO_639:err "wikilink")  | ||
+||I/E|| || ||Erre|| || || || || |-
+\![ers](https://zh.wikipedia.org/wiki/ISO_639:ers "wikilink")  | ||
+||I/L|| || ||Ersu|| || ||尔苏语|| || |-
+\![ert](https://zh.wikipedia.org/wiki/ISO_639:ert "wikilink")  | ||
+||I/L|| || ||Eritai|| || || || || |-
+\![erw](https://zh.wikipedia.org/wiki/ISO_639:erw "wikilink")  | ||
+||I/L|| || ||Erokwanas|| || || || || |-
+\![ese](https://zh.wikipedia.org/wiki/ISO_639:ese "wikilink")  | ||
+||I/L|| || ||Ese Ejja|| || || || || |-
+\![esg](https://zh.wikipedia.org/wiki/ISO_639:esg "wikilink")  | ||
+||I/L||Dravidian|| ||Aheri Gondi|| || || || || |-
+\![esh](https://zh.wikipedia.org/wiki/ISO_639:esh "wikilink")  | ||
+||I/L|| || ||Eshtehardi|| || || || || |-
+\![esi](https://zh.wikipedia.org/wiki/ISO_639:esi "wikilink")  | ||
+||I/L|| || ||Inupiatun, North Alaskan|| || || || || |-
+\![esk](https://zh.wikipedia.org/wiki/ISO_639:esk "wikilink")  | ||
+||I/L|| || ||Inupiatun, Northwest Alaska|| || || || || |-
+\![esl](https://zh.wikipedia.org/wiki/ISO_639:esl "wikilink")  | ||
+||I/L|| || ||Egypt Sign Language|| || ||埃及手语|| ||ägyptische
+Zeichensprache |-
+\![esm](https://zh.wikipedia.org/wiki/ISO_639:esm "wikilink")  | ||
+||I/E|| || ||Esuma|| || || || || |-
+\![esn](https://zh.wikipedia.org/wiki/ISO_639:esn "wikilink")  | ||
+||I/L|| || ||Salvadoran Sign Language|| || ||萨尔瓦多手语|| ||salvadorianische
+Zeichensprache |-
+\![eso](https://zh.wikipedia.org/wiki/ISO_639:eso "wikilink")  | ||
+||I/L|| || ||Estonian Sign Language|| || ||爱沙尼亚手语|| ||estonische
+Zeichensprache |-
+\![esq](https://zh.wikipedia.org/wiki/ISO_639:esq "wikilink")  | ||
+||I/E|| || ||Esselen|| ||esselen|| || || |-
+\![ess](https://zh.wikipedia.org/wiki/ISO_639:ess "wikilink")  | ||
+||I/L|| || ||Yupik, Central Siberian|| || ||中西伯利亚尤皮克语|| || |-
+\![est](https://zh.wikipedia.org/wiki/ISO_639:est "wikilink")
+|et||est||M/L||Uralic||eesti||Estonian||estonien||estonio||爱沙尼亚语||эстонский||Estnisch
+|- \![esu](https://zh.wikipedia.org/wiki/ISO_639:esu "wikilink")  | ||
+||I/L|| || ||Yupik, Central|| || ||中尤皮克语|| || |-
+\![esy](https://zh.wikipedia.org/wiki/ISO_639:esy "wikilink")  | ||
+||I/L|| || ||Eskayan|| || || || || |-
+\![etb](https://zh.wikipedia.org/wiki/ISO_639:etb "wikilink")  | ||
+||I/L|| || ||Etebi|| || || || || |-
+\![etc](https://zh.wikipedia.org/wiki/ISO_639:etc "wikilink")  | ||
+||I/E|| || ||Etchemin||etchemin|| || || || |-
+\![eth](https://zh.wikipedia.org/wiki/ISO_639:eth "wikilink")  | ||
+||I/L|| || ||Ethiopian Sign Language|| || ||埃塞俄比亚手语|| ||äthiopische
+Zeichensprache |-
+\![etn](https://zh.wikipedia.org/wiki/ISO_639:etn "wikilink")  | ||
+||I/L|| || ||Eton (Vanuatu)|| || || || || |-
+\![eto](https://zh.wikipedia.org/wiki/ISO_639:eto "wikilink")  | ||
+||I/L|| || ||Eton (Cameroon)|| || || || || |-
+\![etr](https://zh.wikipedia.org/wiki/ISO_639:etr "wikilink")  | ||
+||I/L|| || ||Edolo|| || || || || |-
+\![ets](https://zh.wikipedia.org/wiki/ISO_639:ets "wikilink")  | ||
+||I/L|| || ||Yekhee|| || || || || |-
+\![ett](https://zh.wikipedia.org/wiki/ISO_639:ett "wikilink")  | ||
+||I/A|| || ||Etruscan||étrusque|| || || ||Etruskisch |-
+\![etu](https://zh.wikipedia.org/wiki/ISO_639:etu "wikilink")  | ||
+||I/L|| || ||Ejagham|| || || || || |-
+\![etx](https://zh.wikipedia.org/wiki/ISO_639:etx "wikilink")  | ||
+||I/L|| || ||Eten|| || || || || |-
+\![etz](https://zh.wikipedia.org/wiki/ISO_639:etz "wikilink")  | ||
+||I/L|| || ||Semimi|| || || || || |-
+\!([eur](https://zh.wikipedia.org/wiki/ISO_639:eur "wikilink"))  | ||
+||I/C||constructed||Europanto||Europanto|| || || || || |-
+\![eus](https://zh.wikipedia.org/wiki/ISO_639:eus "wikilink")
+|eu||baq||I/L||isolate||euskara||Basque||basque||euskera;
+vasco||巴斯克语||баскский||Baskisch |-
+\![eve](https://zh.wikipedia.org/wiki/ISO_639:eve "wikilink")  | ||
+||I/L|| ||эвэды||Even|| || ||埃文语||эвенский||Ewenisch |-
+\![evh](https://zh.wikipedia.org/wiki/ISO_639:evh "wikilink")  | ||
+||I/L|| || ||Uvbie|| || || || || |-
+\![evn](https://zh.wikipedia.org/wiki/ISO_639:evn "wikilink")  | ||
+||I/L|| ||орочон||Evenki|| || ||鄂温克语||эвенкийский||Ewenkisch |-
+\![ewe](https://zh.wikipedia.org/wiki/ISO_639:ewe "wikilink")
+|ee||ewe||I/L||Niger–Congo||Eʋegbe||Ewe||éwé||efé||埃维语; 幽语||эве||Ewe |-
+\![ewo](https://zh.wikipedia.org/wiki/ISO_639:ewo "wikilink")  |
+||ewo||I/L|| || ||Ewondo||éwondo||yaundé||埃翁多语||эвондо|| |-
+\![ext](https://zh.wikipedia.org/wiki/ISO_639:ext "wikilink")  | ||
+||I/L|| || ||Extremaduran||estrémègne||extremeño||埃斯特雷马杜拉语|| || |-
+\![eya](https://zh.wikipedia.org/wiki/ISO_639:eya "wikilink")  | ||
+||I/E|| || ||Eyak||eyak|| || || ||Eyak |-
+\![eyo](https://zh.wikipedia.org/wiki/ISO_639:eyo "wikilink")  | ||
+||I/L|| || ||Keiyo|| || || || || |-
+\![eza](https://zh.wikipedia.org/wiki/ISO_639:eza "wikilink")  | ||
+||I/L|| || ||Ezaa|| || || || || |-
+\![eze](https://zh.wikipedia.org/wiki/ISO_639:eze "wikilink")  | ||
+||I/L|| || ||Uzekwe|| || || || || |}
 
 [Category:ISO_639](https://zh.wikipedia.org/wiki/Category:ISO_639 "wikilink")
-[Category:语言列表](https://zh.wikipedia.org/wiki/Category:语言列表 "wikilink")

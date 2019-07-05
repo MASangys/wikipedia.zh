@@ -143,6 +143,7 @@
 [Category:广义相对论](https://zh.wikipedia.org/wiki/Category:广义相对论 "wikilink")
 [Category:物理学实验](https://zh.wikipedia.org/wiki/Category:物理学实验 "wikilink")
 [Category:人造卫星](https://zh.wikipedia.org/wiki/Category:人造卫星 "wikilink")
+[Category:2004年發射的太空飛行器](https://zh.wikipedia.org/wiki/Category:2004年發射的太空飛行器 "wikilink")
 
 1.
 

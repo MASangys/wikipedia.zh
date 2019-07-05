@@ -26,12 +26,12 @@ talk=在您创建一个新的对话[子页面之前](https://zh.wikipedia.org/wi
 
 -----
 
-如果您打算贡献自由版权的中文字词解释、新闻报道、名人语录、文献资料、教学资料及原创研究，请分别至[维基词典](https://zh.wikipedia.org/wiki/wikt: "wikilink")、[维基新闻](https://zh.wikipedia.org/wiki/n: "wikilink")、[维基语录](https://zh.wikipedia.org/wiki/q: "wikilink")、[维基文库](https://zh.wikipedia.org/wiki/s: "wikilink")、[维基教科书及](https://zh.wikipedia.org/wiki/b: "wikilink")[维基学院](https://zh.wikipedia.org/wiki/v:首页 "wikilink")。
+如果您打算贡献自由版权的中文字词解释、新闻报道、名人语录、文献资料、教学资料及原创研究，请分别至[维基词典](https://zh.wikipedia.org/wiki/wikt: "wikilink")、[维基新闻](https://zh.wikipedia.org/wiki/n: "wikilink")、[维基语录](https://zh.wikipedia.org/wiki/q: "wikilink")、[维基文库](https://zh.wikipedia.org/wiki/s: "wikilink")、[维基教科书及](https://zh.wikipedia.org/wiki/b: "wikilink")[维基学院](https://zh.wikipedia.org/wiki/v: "wikilink")。
 
 -----
 
 **[维基百科不是一个广告服务商](https://zh.wikipedia.org/wiki/WP:NOT "wikilink")。**有关您自己，您的朋友，您的公司或产品的宣传稿件，或者创建的条目中含有部分推销或宣传活动的内容，将会根据我们的[删除守则而被删除](https://zh.wikipedia.org/wiki/Wikipedia:删除守则 "wikilink")。如果您之前曾经创建过相同的页面，它可能因为某些原因已经被删除，请参看**\[
-删除日志\]**和我们的[删除守则](https://zh.wikipedia.org/wiki/Wikipedia:删除守则 "wikilink")。
+删除日志\]**和我们的[删除方针](https://zh.wikipedia.org/wiki/Wikipedia:删除方针 "wikilink")。
 {{\#ifeq:||
 
 -----

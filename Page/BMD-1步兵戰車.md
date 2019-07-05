@@ -3,7 +3,7 @@
 
 ## 研发和装备背景
 
-在[二战后直到](../Page/第二次世界大战.md "wikilink")60年代初，苏联空降军仅装备[ASU-57和](https://zh.wikipedia.org/wiki/ASU-57 "wikilink")[ASU-85](https://zh.wikipedia.org/wiki/ASU-85 "wikilink")[空降自行反坦克炮](https://zh.wikipedia.org/wiki/空降自行反坦克炮 "wikilink")，属于[火力支援兵器](https://zh.wikipedia.org/wiki/火力支援 "wikilink")，前苏联空降军急需研制一种可空降的[突击作战兵器](https://zh.wikipedia.org/wiki/突击作战 "wikilink")。在此背景下，BMD-1的研制被提上日程。在[BMP-1](https://zh.wikipedia.org/wiki/BMP-1 "wikilink")[步兵战车的基础上](../Page/步兵战车.md "wikilink")，苏联研发部门将其缩小尺寸，降低重量，并且应用上空投技术，
+在[二战后直到](../Page/第二次世界大战.md "wikilink")60年代初，苏联空降军仅装备[ASU-57和](../Page/ASU-57空降自走炮.md "wikilink")[ASU-85空降自走炮](../Page/ASU-85空降自走炮.md "wikilink")，属于[火力支援兵器](https://zh.wikipedia.org/wiki/火力支援 "wikilink")，前苏联空降军急需研制一种可空降的[突击作战兵器](https://zh.wikipedia.org/wiki/突击作战 "wikilink")。在此背景下，BMD-1的研制被提上日程。在[BMP-1](https://zh.wikipedia.org/wiki/BMP-1 "wikilink")[步兵战车的基础上](../Page/步兵战车.md "wikilink")，苏联研发部门将其缩小尺寸，降低重量，并且应用上空投技术，
 研制出了BMD-1伞兵战车。 这也是BMD系列伞兵战车的特点，和BMP系列步兵战车一一对应。可视为后者的“空降变形车”。
 
 BMD-1步兵战车在1973年11月7日的莫斯科红场阅兵式上正式亮相。随后大批装备前苏联空降军。并有部分出口到其他国家。

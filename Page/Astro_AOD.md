@@ -13,98 +13,6 @@ HD**于2013年6月3日正式启播，该频道备有[粤语及](../Page/粤语.m
 另一方面，该公司另一产品亦是相同名称"Astro On Demand"（亦称 Astro
 Go），为网络点播服务。该台所有戏剧将在首播时间同步更新相关集数。
 
-## 現時Astro AOD、Astro AOD HD播出中的劇集
-
-<table>
-<thead>
-<tr class="header">
-<th><p>日期</p></th>
-<th><p>首播時間</p></th>
-<th><p>現時播出中的劇集</p></th>
-<th><p>接檔的劇集</p></th>
-<th><p>首播頻道</p></th>
-<th><p>備註</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>星期一至五</p></td>
-<td><p>|20:30 - 21:30</p></td>
-<td><p><a href="../Page/倚天屠龍記_(2019年電視劇).md" title="wikilink">倚天屠龍記</a></p></td>
-<td><p><a href="../Page/好日子_(無綫電視劇).md" title="wikilink">好日子</a></p></td>
-<td><p><strong>350<sub>HD</sub></strong><br />
-<strong>351</strong><sub>SD</sub></p></td>
-<td><p>與<a href="https://zh.wikipedia.org/wiki/TVB" title="wikilink">TVB</a><a href="../Page/翡翠台.md" title="wikilink">翡翠台同步播出</a><br />
-<small>*東南亞版TVB翡翠台在馬來西亞<a href="https://zh.wikipedia.org/wiki/Astro" title="wikilink">Astro頻道</a><strong><a href="../Page/翡翠台_(馬來西亞).md" title="wikilink">326<sub>HD</sub></a></strong>及新加坡<a href="../Page/星和视界.md" title="wikilink">StarHub頻道</a><strong><a href="../Page/翡翠台_(新加坡).md" title="wikilink">838<sub>HD</a></strong></small></p></td>
-</tr>
-<tr class="even">
-<td><p>21:30 - 22:30</p></td>
-<td><p><a href="../Page/婚姻合伙人.md" title="wikilink">婚姻合伙人</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/白色强人" title="wikilink">白色强人</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-## 頻道列表
-
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>時段</strong></p></td>
-<td><p><strong>狀態</strong></p></td>
-<td><p><strong>頻道</strong></p></td>
-</tr>
-<tr class="even">
-<td><center>
-<p>星期一至五<br />
-晚上20:30港劇時段</p></td>
-<td><center>
-<p>首播</p></td>
-<td><p>'''</p>
-<center>
-<p>350<sub>HD</sub>'''<br />
-<strong>351</strong><sub>SD</sub></p></td>
-</tr>
-<tr class="odd">
-<td><center>
-<p>重播</p></td>
-<td><p>'''</p>
-<center>
-<p>352'''<sub>SD</sub><br />
-<strong>353</strong><sub>SD</sub></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><center>
-<p>星期一至五<br />
-晚上21:30港劇時段</p></td>
-<td><center>
-<p>首播</p></td>
-<td><p>'''</p>
-<center>
-<p>350<sub>HD</sub>'''<br />
-<strong>361</strong><sub>SD</sub></p></td>
-</tr>
-<tr class="odd">
-<td><center>
-<p>重播</p></td>
-<td><p>'''</p>
-<center>
-<p>362'''<sub>SD</sub><br />
-<strong>363</strong><sub>SD</sub></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
 ## Astro AOD、Astro AOD HD频道
 
 **Astro AOD HD** - 频道350 (HD) **Astro AOD** - 频道351 - 353，频道361 - 363
@@ -184,8 +92,6 @@ AOD播出的剧集，让剧迷们上网投选心目中最爱的艺人和电视�
   - [Astro AOD官方網站](http://www.xuan.com.my/channels/aod.aspx)
 
   -
-  - [Astro AOD节目表](http://www.quake.com.my)
-
 [Category:Astro](https://zh.wikipedia.org/wiki/Category:Astro "wikilink")
 [Category:電視廣播有限公司電視頻道](https://zh.wikipedia.org/wiki/Category:電視廣播有限公司電視頻道 "wikilink")
 [Category:馬來西亞電視台](https://zh.wikipedia.org/wiki/Category:馬來西亞電視台 "wikilink")

@@ -91,7 +91,7 @@
 <tr class="odd">
 <td><p><a href="../Page/埼玉縣.md" title="wikilink">埼玉縣</a></p></td>
 <td><p><strong>NACK5</strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/FM_NACK_FIVE" title="wikilink">FM NACK FIVE</a></p></td>
+<td></td>
 <td><p>★</p></td>
 <td></td>
 </tr>
@@ -118,7 +118,7 @@
 </tr>
 <tr class="odd">
 <td><p><strong>InterFM</strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/FM_INTER_WAVE" title="wikilink">FM INTER WAVE</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/InterFM" title="wikilink">InterFM</a></p></td>
 <td><p>■</p></td>
 <td></td>
 <td></td>

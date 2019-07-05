@@ -59,7 +59,7 @@ Promotion](../Page/Mausu_Promotion.md "wikilink")（舊稱：江崎Production）
 
   - 加藤涉（2015）
 
-  - [神原大地](https://zh.wikipedia.org/wiki/神原大地 "wikilink")（2005）
+  - [神原大地](../Page/神原大地.md "wikilink")（2005）
 
 <!-- end list -->
 
@@ -439,12 +439,11 @@ Enterprise的子公司。2000年成立\[7\]。
 
   - 岩下夏實
 
-  - 植田千尋
+  - [植田千尋](../Page/植田千尋.md "wikilink")
 
   - [神谷早矢佳](../Page/神谷早矢佳.md "wikilink")
 
-  - 木村美-{咲}-
-
+  -
   - 楠原志乃
 
   - 黑田仁美

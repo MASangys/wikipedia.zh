@@ -72,7 +72,7 @@
 <tr class="odd">
 <td><p>6</p></td>
 <td><p>2007年12月</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/星野桂" title="wikilink">星野桂</a></p></td>
+<td><p><a href="../Page/星野桂.md" title="wikilink">星野桂</a></p></td>
 <td><p>佳作</p></td>
 <td><p>BLOODY MARY</p></td>
 <td><p>塚本妖一</p></td>

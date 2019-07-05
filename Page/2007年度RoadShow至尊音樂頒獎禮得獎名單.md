@@ -81,7 +81,7 @@
 
 ### RoadShow至尊女新人（排名不分先後）
 
-  - [江若琳](https://zh.wikipedia.org/wiki/江若琳 "wikilink")
+  - [江若琳](../Page/江若琳.md "wikilink")
   - [鍾舒漫](../Page/鍾舒漫.md "wikilink")
   - [裕美](../Page/裕美.md "wikilink")
 

@@ -78,7 +78,7 @@ S/mileage時期代表色為<font color = #f00>紅色</font>。</p></td>
 <td></td>
 <td><p>A</p></td>
 <td><p><strong>橙</strong></p></td>
-<td><p>S/mileage時期代表色為<span style="color:#ffff33; background-color:#000000">黃色</span>。</p></td>
+<td><p>S/mileage時期代表色為<span style="color:#ffff33; background-color:#000000">黃色</span>、畢業預定。</p></td>
 <td></td>
 <td></td>
 </tr>

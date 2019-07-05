@@ -25,7 +25,7 @@ Melody也在2014年的日本人氣明星網上選舉得到第一名。
 [My_melody_in_the_show.jpg](https://zh.wikipedia.org/wiki/File:My_melody_in_the_show.jpg "fig:My_melody_in_the_show.jpg")
 
   - **名稱**: My Melody（日語全名：マイメロディ，暱稱マイメロ（My Melo），台灣譯名：美樂蒂）
-  - **生日日期**: 1976年1月18日
+  - **生日日期**: 1975年1月18日
   - **生肖**: 兔兔
   - **性別**: 女
   - **星座**：摩羯座

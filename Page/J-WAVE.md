@@ -5,6 +5,6 @@ MHz。現在其總部位於[六本木新城森大樓](https://zh.wikipedia.org/w
 
   - [J-WAVE](http://www.j-wave.co.jp/)
 
-[Category:日本广播电台](https://zh.wikipedia.org/wiki/Category:日本广播电台 "wikilink")
+[Category:關東地方的廣播電台](https://zh.wikipedia.org/wiki/Category:關東地方的廣播電台 "wikilink")
 [Category:1987年建立](https://zh.wikipedia.org/wiki/Category:1987年建立 "wikilink")
 [Category:港區公司_(東京都)](https://zh.wikipedia.org/wiki/Category:港區公司_\(東京都\) "wikilink")

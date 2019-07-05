@@ -1192,7 +1192,7 @@
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/爸爸" title="wikilink">爸爸</a><br />
 </p></td>
 <td style="text-align: center;"><p>18</p></td>
-<td style="text-align: center;"><p><a href="../Page/裴勇浚.md" title="wikilink">裴勇浚</a>、<a href="../Page/李英愛.md" title="wikilink">李英愛</a>、<a href="https://zh.wikipedia.org/wiki/車太鉉" title="wikilink">車太鉉</a>、<a href="../Page/崔允英.md" title="wikilink">崔允英</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/裴勇浚.md" title="wikilink">裴勇浚</a>、<a href="../Page/李英愛.md" title="wikilink">李英愛</a>、<a href="../Page/車太鉉.md" title="wikilink">車太鉉</a>、<a href="../Page/崔允英.md" title="wikilink">崔允英</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/全啟相" title="wikilink">全啟相</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/吳秀妍" title="wikilink">吳秀妍</a>、金英燦</p></td>
 <td style="text-align: center;"></td>
@@ -2269,7 +2269,7 @@
 <td style="text-align: center;"><p><a href="../Page/田禹治_(電視劇).md" title="wikilink">田禹治</a><br />
 </p></td>
 <td style="text-align: center;"><p>24</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/車太鉉" title="wikilink">車太鉉</a>、<a href="https://zh.wikipedia.org/wiki/U-ie" title="wikilink">U-ie</a>、<a href="../Page/李熙俊.md" title="wikilink">李熙俊</a>、<a href="../Page/白珍熙.md" title="wikilink">白珍熙</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/車太鉉.md" title="wikilink">車太鉉</a>、<a href="https://zh.wikipedia.org/wiki/U-ie" title="wikilink">U-ie</a>、<a href="../Page/李熙俊.md" title="wikilink">李熙俊</a>、<a href="../Page/白珍熙.md" title="wikilink">白珍熙</a></p></td>
 <td style="text-align: center;"><p>|姜一修、朴鎮錫</p></td>
 <td style="text-align: center;"><p>趙明珠、朴大英</p></td>
 <td style="text-align: center;"><p>（<strong>特別企劃劇</strong>）</p></td>

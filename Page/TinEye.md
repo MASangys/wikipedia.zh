@@ -1,4 +1,4 @@
-**TinEye**是Idée公司所開發的圖像搜尋網站。2008年5月6日開站，提供使用者依據[URL或上傳的圖檔](../Page/统一资源定位符.md "wikilink")，搜尋網路上近似的圖像與位置。TinEye將搜尋目標與庫存圖像檔作比較，然後找出近似者並列出圖片網址。目前支援的圖像格式包括：[JPEG](../Page/JPEG.md "wikilink")、[PNG及](../Page/PNG.md "wikilink")[GIF格式](../Page/GIF.md "wikilink")。Idée公司於1999年在[加拿大](../Page/加拿大.md "wikilink")[多倫多設立](https://zh.wikipedia.org/wiki/多倫多 "wikilink")，專門發展圖像辨識軟體如PixID，與圖像搜尋引擎TinEye。截至2012年7月18日為止，該公司聲稱其資料庫收錄圖像已達20億張\[1\]。
+**TinEye**（錫眼睛\[1\]）是Idée公司所開發的圖像搜尋網站。2008年5月6日開站，提供使用者依據[URL或上傳的圖檔](../Page/统一资源定位符.md "wikilink")，搜尋網路上近似的圖像與位置。TinEye將搜尋目標與庫存圖像檔作比較，然後找出近似者並列出圖片網址。目前支援的圖像格式包括：[JPEG](../Page/JPEG.md "wikilink")、[PNG及](../Page/PNG.md "wikilink")[GIF格式](../Page/GIF.md "wikilink")。Idée公司於1999年在[加拿大](../Page/加拿大.md "wikilink")[多倫多設立](https://zh.wikipedia.org/wiki/多倫多 "wikilink")，專門發展圖像辨識軟體如PixID，與圖像搜尋引擎TinEye。截至2012年7月18日為止，該公司聲稱其資料庫收錄圖像已達20億張\[2\]。
 
 ## 支援方式
 
@@ -9,7 +9,7 @@
 目前支援[Mozilla
 Firefox及](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")[Internet
 Explorer的浏覽器插件介面](../Page/Internet_Explorer.md "wikilink")。安裝插件之後，於圖像位置按滑鼠右鍵**Search
-Background Image on TinEye**後，會顯示該圖像的解析度及其它相同圖像的URL位置。可在其公司網站下載插件\[2\]。
+Background Image on TinEye**後，會顯示該圖像的解析度及其它相同圖像的URL位置。可在其公司網站下載插件\[3\]。
 
 2010年2月12日增加[Google
 Chrome的插件](https://zh.wikipedia.org/wiki/Google瀏覽器 "wikilink")，但使用方式不同。
@@ -29,7 +29,7 @@ on the
 Idée公司研發的[PixID軟體](https://zh.wikipedia.org/wiki/PixID "wikilink")，可分辨影像或靜態圖像是否在網際網路中出現。Piximilar將類似影像或靜態圖像檔分類，並建立索引檔管理圖像檔案。TinEye
 Mobile利用iPhone攝影機捕捉商品影像，送到Idée公司搜尋相關商品網站及價格。
 
-Google在2010年6月已經在[Google图片搜索加入圖像搜索功能](../Page/Google图片搜索.md "wikilink")\[3\]。TinEye面臨強大競爭。
+Google在2010年6月已經在[Google图片搜索加入圖像搜索功能](../Page/Google图片搜索.md "wikilink")\[4\]。TinEye面臨強大競爭。
 
 ## 参见
 
@@ -55,7 +55,8 @@ Inc.\#TinEye](https://zh.wikipedia.org/wiki/de:Idée_Inc.#TinEye "wikilink")
 [Category:圖像檢索](https://zh.wikipedia.org/wiki/Category:圖像檢索 "wikilink")
 [Category:图片搜索引擎](https://zh.wikipedia.org/wiki/Category:图片搜索引擎 "wikilink")
 
-1.  [TinEye公司概況](http://www.tineye.com/about)
-2.  [TinEye插件下載位置](http://tineye.com/plugin)
-3.  [Google Search by
+1.
+2.  [TinEye公司概況](http://www.tineye.com/about)
+3.  [TinEye插件下載位置](http://tineye.com/plugin)
+4.  [Google Search by
     Image](http://www.google.com/insidesearch/features/images/searchbyimage.html)

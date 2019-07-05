@@ -96,9 +96,5 @@ SECD
 ## 外部链接
 
   - [SECD collection](http://skelet.ludost.net/sec/)
-  - [Original SECD
-    paper](http://www3.oup.co.uk/computer_journal/hdb/Volume_06/Issue_04/060308.sgm.abs.html)，"The
-    Mechanical evaluation of Expressions" P.J. Landin The Computer
-    Journal Vol. 6 pp308-320 1964
 
 [Category:计算模型](https://zh.wikipedia.org/wiki/Category:计算模型 "wikilink")

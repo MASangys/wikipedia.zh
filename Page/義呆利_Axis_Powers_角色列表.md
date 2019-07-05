@@ -767,7 +767,7 @@ Powers裡除了主要國以外的一部份位於歐洲的其他國家](../Page/�
 
 <!-- end list -->
 
-1.  生日：10月26日
+1.  生日：1868年10月26日
 2.  [軍服](https://zh.wikipedia.org/wiki/軍服 "wikilink")：[白色](../Page/白色.md "wikilink")[歐式軍服](https://zh.wikipedia.org/wiki/軍服 "wikilink")+[紫色](../Page/紫色.md "wikilink")[手套](../Page/手套.md "wikilink")
 3.  [便服](https://zh.wikipedia.org/wiki/便服 "wikilink")：[深藍色貴族服裝](../Page/藍色.md "wikilink")+[白色](../Page/白色.md "wikilink")[貴族領巾](https://zh.wikipedia.org/wiki/領巾 "wikilink")
 4.  頭髮：[深褐色](https://zh.wikipedia.org/wiki/褐色 "wikilink")
@@ -778,7 +778,7 @@ Powers裡除了主要國以外的一部份位於歐洲的其他國家](../Page/�
 <!-- end list -->
 
   -
-    喜歡吃蛋糕、練習鋼琴和小提琴的貴族，平時的行為舉止和說話語氣都非常儒雅，但是遇到法國時會露出[SM的一面](https://zh.wikipedia.org/wiki/SM "wikilink")（因為法國曾經到奧地利的家裡去偷拍奧地利的生活照，奧地利不能接受自己不是尊貴的樣子被外人所知道；法國還說[貝多芬是法國人](https://zh.wikipedia.org/wiki/貝多芬 "wikilink")，更加了奧地利用音樂教室的教鞭抽打法國的慾望。）
+    喜歡咖啡、練習鋼琴和小提琴的貴族，平時的行為舉止和說話語氣都非常儒雅，但是遇到法國時會露出[SM的一面](https://zh.wikipedia.org/wiki/SM "wikilink")（因為法國曾經到奧地利的家裡去偷拍奧地利的生活照，奧地利不能接受自己不是尊貴的樣子被外人所知道；法國還說[貝多芬是法國人](https://zh.wikipedia.org/wiki/貝多芬 "wikilink")，更加了奧地利用音樂教室的教鞭抽打法國的慾望。）
     心情不管是好是壞都是貴族少爺，在非常長一段的時間內是[神聖羅馬帝國家的領導者](https://zh.wikipedia.org/wiki/神聖羅馬帝國 "wikilink")，他的家族裡出現過比任何歐洲其他家族的人還多的皇帝；最然住在神聖羅馬帝國家裡，但是神聖羅馬本人也像豆丁北意大利如小孩般要聽從聽奧地利的話。
     對於幼時的義大利非常嚴格，經常不准他吃義大利麵，並用腳踩北義大利的頭；但是當義大利聽他彈鋼琴時，卻會表現出極其溫柔的一面。
     雖然一開始是為了戰爭而被創造的國家，也蠻族[日耳曼的一支](https://zh.wikipedia.org/wiki/日耳曼 "wikilink")、在年齡上亦是德國和普魯士的哥哥，但是經過歲月的洗禮卻變得溫文爾雅；在政治上擅長『皇室聯姻』，一輩子結了非常多次婚，和[匈牙利、法國、西班牙、瑞士、德國等都曾經是夫妻](https://zh.wikipedia.org/wiki/哈布斯堡家族 "wikilink")（夫夫）關係。
@@ -786,6 +786,7 @@ Powers裡除了主要國以外的一部份位於歐洲的其他國家](../Page/�
     看起來很闊綽其實頗節儉，和同樣節儉的瑞士是青梅竹馬，但是[戰爭而分居兩地](../Page/三十年戰爭.md "wikilink")，不過兩人的節儉的好習慣卻一直沒有改變。有一次瑞士和列支敦士登去超市裡買起司，奧地利說要請他們吃飯，結果普魯士從草叢裡跳出來吐槽「這傢伙其實節儉到一個程度啦～哈哈哈哈～！」
     和德國同居時，硬是要德國承認貝多芬是奧地利人而不是德國人；還會看不下去德國要丟掉破洞的內褲，因為不希望德國花錢買內褲、而讓德國繼續穿著已經被自己縫補過五次的老舊內褲，並且對德國說「再這麼浪費的話[亨利三世會被你氣死的](https://zh.wikipedia.org/wiki/亨利三世 "wikilink")！！！」
     因為看不下去德國把義大利拉入[軸心國陣營而用鋼琴表達自己的憤怒](https://zh.wikipedia.org/wiki/軸心國 "wikilink")，卻被德國說：「你的憤怒就是[蕭邦嗎](https://zh.wikipedia.org/wiki/弗里德里克·蕭邦 "wikilink")？」還在意大利、日本、德國漂流的小島上扮演海上鋼琴師。
+    擅長做各式甜點（尤其是[薩赫蛋糕](https://zh.wikipedia.org/wiki/薩赫蛋糕 "wikilink")），對此德國表示：「雖然他不擅長做料理（指正餐），但是甜點卻能做的很美味。」
     雖然在普魯士等國組成的「打爆奧地利」( 也就是惡友組
     )之戰中，和[英國是盟友](https://zh.wikipedia.org/wiki/英國 "wikilink")，但是英國只是爲了揍法國才和他同盟（英國宗旨：法國的敵人就是英國的朋友。），等到英國教訓過法國以後，就拋棄了他。英國誇讚過他家裡的肉餐麵包很好吃，但是他本人卻說「這在我國只是一般庶民吃的食物。」，為此因而有點擔心英國家的飲食情況。
     和波蘭和俄羅斯等東歐國家關係卻很好，曾經好幾次反對列強[瓜分波蘭](../Page/瓜分波蘭.md "wikilink")。
@@ -822,7 +823,7 @@ Powers裡除了主要國以外的一部份位於歐洲的其他國家](../Page/�
 
 <!-- end list -->
 
-1.  生日：6月8日(奧匈帝國妥協憲章)
+1.  生日：1867年6月8日(奧匈帝國妥協憲章)
 2.  [軍服](https://zh.wikipedia.org/wiki/軍服 "wikilink")：[藍綠色軍服](../Page/藍色.md "wikilink")+[白色](../Page/白色.md "wikilink")[貝雷帽](../Page/貝雷帽.md "wikilink")
 3.  [便服](https://zh.wikipedia.org/wiki/便服 "wikilink")：黃底色、黑花紋洋裝+白色頭巾+白色圍兜
 4.  [武器](../Page/武器.md "wikilink")：[平底鍋](https://zh.wikipedia.org/wiki/平底鍋 "wikilink")
@@ -2133,7 +2134,7 @@ Powers裡除了主要國以外的一部份位於歐洲的其他國家](../Page/�
 <!-- end list -->
 
   -
-    和[希臘一樣](https://zh.wikipedia.org/wiki/希臘 "wikilink")，常常在挖掘時發現[母親的遺跡](https://zh.wikipedia.org/wiki/古埃及 "wikilink")，所以還不太能建造現代化事物。
+    和[希臘一樣](https://zh.wikipedia.org/wiki/希臘 "wikilink")，常常在挖掘時發現[母親的遺跡](../Page/古埃及.md "wikilink")，所以還不太能建造現代化事物。
     對本國的文化與[歷史相當自豪](https://zh.wikipedia.org/wiki/埃及歷史 "wikilink")，即使在受異國統治時也能保留下自己的文化。
     謎一般的青年。重視家人，無所謂主義者。鮮少說話，能看到他說話是世界奇觀。出場率也是異常的低。
     曾因為[北義大利興沖沖的跑來攻擊而用一根樹枝將對方打跑](https://zh.wikipedia.org/wiki/北義大利 "wikilink")。
@@ -2235,7 +2236,7 @@ Powers裡除了主要國以外的一部份位於歐洲的其他國家](../Page/�
     古典時期歐洲的霸主，[日耳曼的上級](https://zh.wikipedia.org/wiki/日耳曼 "wikilink")，南北義大利的爺爺。
     性格跟自己的孫子很像，溺愛孫子。
     [在很久以前曾经遇见了年少时期的中国](https://zh.wikipedia.org/wiki/漢朝和羅馬的關係 "wikilink")。
-    相當花心，同時對[古希腊和](../Page/古希腊.md "wikilink")[古埃及兩位美女一見鍾情](https://zh.wikipedia.org/wiki/古埃及 "wikilink")。
+    相當花心，同時對[古希腊和](../Page/古希腊.md "wikilink")[古埃及兩位美女一見鍾情](../Page/古埃及.md "wikilink")。
     在[軸心國快被](https://zh.wikipedia.org/wiki/軸心國 "wikilink")[同盟國打敗之際](https://zh.wikipedia.org/wiki/同盟國 "wikilink")，會突然出現在空中，並以歌聲使同盟國撤退。
     曾為了見[孫子](https://zh.wikipedia.org/wiki/孫子 "wikilink")[北義大利](https://zh.wikipedia.org/wiki/北義大利 "wikilink")，半夜突然出現在[德意志](https://zh.wikipedia.org/wiki/德意志 "wikilink")[床上](../Page/床.md "wikilink")，不但嚇到德意志還被德意志是為可疑人士差點動了[槍](../Page/槍.md "wikilink")，以為德意志只能靠吃生[馬鈴薯維生而請](https://zh.wikipedia.org/wiki/馬鈴薯 "wikilink")[德意志吃](https://zh.wikipedia.org/wiki/德意志 "wikilink")[地中海風味的](../Page/地中海.md "wikilink")[生魚片](../Page/生魚片.md "wikilink")。
     角色歌為Roma Antiqua

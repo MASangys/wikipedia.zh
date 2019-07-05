@@ -59,50 +59,50 @@ O字体显示](https://zh.wikipedia.org/wiki/Linux_Libertine_O "wikilink")[OpenT
 <table>
 <tbody>
 <tr class="odd">
-<td><div class="sourceCode" id="cb1"><pre class="sourceCode latex"><code class="sourceCode latex"><a class="sourceLine" id="cb1-1" title="1"><span class="co">%!Tex Program = xelatex</span></a>
-<a class="sourceLine" id="cb1-2" title="2"><span class="bu">\documentclass</span>[a4paper]{<span class="ex">article</span>}</a>
-<a class="sourceLine" id="cb1-3" title="3"><span class="bu">\usepackage</span>{<span class="ex">xltxtra</span>}</a>
-<a class="sourceLine" id="cb1-4" title="4"><span class="fu">\setmainfont</span>[Mapping=tex-text]{WenQuanYi Micro Hei}</a>
-<a class="sourceLine" id="cb1-5" title="5"><span class="kw">\begin</span>{<span class="ex">document</span>}<span class="fu">\pagestyle</span>{empty}</a>
-<a class="sourceLine" id="cb1-6" title="6"><span class="kw">\section</span>{Unicode support}</a>
-<a class="sourceLine" id="cb1-7" title="7"> </a>
-<a class="sourceLine" id="cb1-8" title="8"><span class="kw">\subsection</span>{English}</a>
-<a class="sourceLine" id="cb1-9" title="9">All human beings are born free and equal in dignity and rights.</a>
-<a class="sourceLine" id="cb1-10" title="10"> </a>
-<a class="sourceLine" id="cb1-11" title="11"><span class="kw">\subsection</span>{Íslenska}</a>
-<a class="sourceLine" id="cb1-12" title="12">Hver maður er borinn frjáls og jafn öðrum að virðingu og réttindum.</a>
-<a class="sourceLine" id="cb1-13" title="13"> </a>
-<a class="sourceLine" id="cb1-14" title="14"><span class="kw">\subsection</span>{Русский}  </a>
-<a class="sourceLine" id="cb1-15" title="15">Все люди рождаются свободными</a>
-<a class="sourceLine" id="cb1-16" title="16">и равными в своем достоинстве и </a>
-<a class="sourceLine" id="cb1-17" title="17">правах.</a>
-<a class="sourceLine" id="cb1-18" title="18"> </a>
-<a class="sourceLine" id="cb1-19" title="19"><span class="kw">\subsection</span>{Tiếng Việt}</a>
-<a class="sourceLine" id="cb1-20" title="20">Tất cả mọi người sinh ra đều được tự do và bình đẳng về nhân phẩm và </a>
-<a class="sourceLine" id="cb1-21" title="21">quyền lợi.</a>
-<a class="sourceLine" id="cb1-22" title="22"></a>
-<a class="sourceLine" id="cb1-23" title="23"><span class="kw">\subsection</span>{简体中文}</a>
-<a class="sourceLine" id="cb1-24" title="24">每个人生来平等，享有相同的地位和权利。</a>
-<a class="sourceLine" id="cb1-25" title="25"></a>
-<a class="sourceLine" id="cb1-26" title="26"><span class="kw">\subsection</span>{繁體中文}</a>
-<a class="sourceLine" id="cb1-27" title="27">每個人生來平等，享有相同的地位和權利。</a>
-<a class="sourceLine" id="cb1-28" title="28"></a>
-<a class="sourceLine" id="cb1-29" title="29"><span class="kw">\subsection</span>{日本語}</a>
-<a class="sourceLine" id="cb1-30" title="30">すべての人間は自由であり、かつ、尊厳と権利とについて平等である。</a>
-<a class="sourceLine" id="cb1-31" title="31"></a>
-<a class="sourceLine" id="cb1-32" title="32"><span class="kw">\section</span>{Legacy syntax}</a>
-<a class="sourceLine" id="cb1-33" title="33">When he goes---``Hello World!&#39;&#39;<span class="fu">\\</span></a>
-<a class="sourceLine" id="cb1-34" title="34">She replies—“Hello dear!”</a>
-<a class="sourceLine" id="cb1-35" title="35"> </a>
-<a class="sourceLine" id="cb1-36" title="36"><span class="kw">\section</span>{Ligatures}</a>
-<a class="sourceLine" id="cb1-37" title="37"><span class="fu">\fontspec</span>[Ligatures={Common, Historical}]{Linux Libertine O Italic}</a>
-<a class="sourceLine" id="cb1-38" title="38"><span class="fu">\fontsize</span>{12pt}{18pt}<span class="fu">\selectfont</span> Questo è strano assai!</a>
-<a class="sourceLine" id="cb1-39" title="39"> </a>
-<a class="sourceLine" id="cb1-40" title="40"><span class="kw">\section</span>{Numerals}</a>
-<a class="sourceLine" id="cb1-41" title="41"><span class="fu">\fontspec</span>[Numbers={OldStyle}]{Linux Libertine O}Old style: 1234567<span class="fu">\\</span></a>
-<a class="sourceLine" id="cb1-42" title="42"><span class="fu">\fontspec</span>[Numbers={Lining}]{Linux Libertine O}Lining: 1234567</a>
-<a class="sourceLine" id="cb1-43" title="43"> </a>
-<a class="sourceLine" id="cb1-44" title="44"><span class="kw">\end</span>{<span class="ex">document</span>}</a></code></pre></div></td>
+<td><div class="sourceCode" id="cb1"><pre class="sourceCode latex"><code class="sourceCode latex"><span id="cb1-1"><a href="#cb1-1"></a><span class="co">%!Tex Program = xelatex</span></span>
+<span id="cb1-2"><a href="#cb1-2"></a><span class="bu">\documentclass</span>[a4paper]{<span class="ex">article</span>}</span>
+<span id="cb1-3"><a href="#cb1-3"></a><span class="bu">\usepackage</span>{<span class="ex">xltxtra</span>}</span>
+<span id="cb1-4"><a href="#cb1-4"></a><span class="fu">\setmainfont</span>[Mapping=tex-text]{WenQuanYi Micro Hei}</span>
+<span id="cb1-5"><a href="#cb1-5"></a><span class="kw">\begin</span>{<span class="ex">document</span>}<span class="fu">\pagestyle</span>{empty}</span>
+<span id="cb1-6"><a href="#cb1-6"></a><span class="kw">\section</span>{Unicode support}</span>
+<span id="cb1-7"><a href="#cb1-7"></a> </span>
+<span id="cb1-8"><a href="#cb1-8"></a><span class="kw">\subsection</span>{English}</span>
+<span id="cb1-9"><a href="#cb1-9"></a>All human beings are born free and equal in dignity and rights.</span>
+<span id="cb1-10"><a href="#cb1-10"></a> </span>
+<span id="cb1-11"><a href="#cb1-11"></a><span class="kw">\subsection</span>{Íslenska}</span>
+<span id="cb1-12"><a href="#cb1-12"></a>Hver maður er borinn frjáls og jafn öðrum að virðingu og réttindum.</span>
+<span id="cb1-13"><a href="#cb1-13"></a> </span>
+<span id="cb1-14"><a href="#cb1-14"></a><span class="kw">\subsection</span>{Русский}  </span>
+<span id="cb1-15"><a href="#cb1-15"></a>Все люди рождаются свободными</span>
+<span id="cb1-16"><a href="#cb1-16"></a>и равными в своем достоинстве и </span>
+<span id="cb1-17"><a href="#cb1-17"></a>правах.</span>
+<span id="cb1-18"><a href="#cb1-18"></a> </span>
+<span id="cb1-19"><a href="#cb1-19"></a><span class="kw">\subsection</span>{Tiếng Việt}</span>
+<span id="cb1-20"><a href="#cb1-20"></a>Tất cả mọi người sinh ra đều được tự do và bình đẳng về nhân phẩm và </span>
+<span id="cb1-21"><a href="#cb1-21"></a>quyền lợi.</span>
+<span id="cb1-22"><a href="#cb1-22"></a></span>
+<span id="cb1-23"><a href="#cb1-23"></a><span class="kw">\subsection</span>{简体中文}</span>
+<span id="cb1-24"><a href="#cb1-24"></a>每个人生来平等，享有相同的地位和权利。</span>
+<span id="cb1-25"><a href="#cb1-25"></a></span>
+<span id="cb1-26"><a href="#cb1-26"></a><span class="kw">\subsection</span>{繁體中文}</span>
+<span id="cb1-27"><a href="#cb1-27"></a>每個人生來平等，享有相同的地位和權利。</span>
+<span id="cb1-28"><a href="#cb1-28"></a></span>
+<span id="cb1-29"><a href="#cb1-29"></a><span class="kw">\subsection</span>{日本語}</span>
+<span id="cb1-30"><a href="#cb1-30"></a>すべての人間は自由であり、かつ、尊厳と権利とについて平等である。</span>
+<span id="cb1-31"><a href="#cb1-31"></a></span>
+<span id="cb1-32"><a href="#cb1-32"></a><span class="kw">\section</span>{Legacy syntax}</span>
+<span id="cb1-33"><a href="#cb1-33"></a>When he goes---``Hello World!&#39;&#39;<span class="fu">\\</span></span>
+<span id="cb1-34"><a href="#cb1-34"></a>She replies—“Hello dear!”</span>
+<span id="cb1-35"><a href="#cb1-35"></a> </span>
+<span id="cb1-36"><a href="#cb1-36"></a><span class="kw">\section</span>{Ligatures}</span>
+<span id="cb1-37"><a href="#cb1-37"></a><span class="fu">\fontspec</span>[Ligatures={Common, Historical}]{Linux Libertine O Italic}</span>
+<span id="cb1-38"><a href="#cb1-38"></a><span class="fu">\fontsize</span>{12pt}{18pt}<span class="fu">\selectfont</span> Questo è strano assai!</span>
+<span id="cb1-39"><a href="#cb1-39"></a> </span>
+<span id="cb1-40"><a href="#cb1-40"></a><span class="kw">\section</span>{Numerals}</span>
+<span id="cb1-41"><a href="#cb1-41"></a><span class="fu">\fontspec</span>[Numbers={OldStyle}]{Linux Libertine O}Old style: 1234567<span class="fu">\\</span></span>
+<span id="cb1-42"><a href="#cb1-42"></a><span class="fu">\fontspec</span>[Numbers={Lining}]{Linux Libertine O}Lining: 1234567</span>
+<span id="cb1-43"><a href="#cb1-43"></a> </span>
+<span id="cb1-44"><a href="#cb1-44"></a><span class="kw">\end</span>{<span class="ex">document</span>}</span></code></pre></div></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:XeTeX样例.png" title="fig:XeTeX样例.png">XeTeX样例.png</a></p></td>
 </tr>
 </tbody>
@@ -125,28 +125,28 @@ O字体显示](https://zh.wikipedia.org/wiki/Linux_Libertine_O "wikilink")[OpenT
 <table>
 <tbody>
 <tr class="odd">
-<td><div class="sourceCode" id="cb1"><pre class="sourceCode latex"><code class="sourceCode latex"><a class="sourceLine" id="cb1-1" title="1"><span class="bu">\documentclass</span>[12pt,fleqn,titlepage,twoside,a4paper]{<span class="ex">book</span>}</a>
-<a class="sourceLine" id="cb1-2" title="2"><span class="bu">\usepackage</span>{<span class="ex">etex</span>}</a>
-<a class="sourceLine" id="cb1-3" title="3"><span class="bu">\usepackage</span>{<span class="ex">amsfonts,amsmath,amssymb,graphicx</span>}</a>
-<a class="sourceLine" id="cb1-4" title="4"><span class="bu">\usepackage</span>{<span class="ex">txfonts</span>}</a>
-<a class="sourceLine" id="cb1-5" title="5"><span class="bu">\usepackage</span>[centering,includeheadfoot,margin=1in]{<span class="ex">geometry</span>}</a>
-<a class="sourceLine" id="cb1-6" title="6"><span class="bu">\usepackage</span>{<span class="ex">tabvar</span>}</a>
-<a class="sourceLine" id="cb1-7" title="7"><span class="bu">\usepackage</span>{<span class="ex">arabxetex</span>}</a>
-<a class="sourceLine" id="cb1-8" title="8"><span class="co">%\newfontfamily{\arabicfont}[Script=Arabic,Scale=1.5]{Traditional Arabic}</span></a>
-<a class="sourceLine" id="cb1-9" title="9"></a>
-<a class="sourceLine" id="cb1-10" title="10"><span class="fu">\parindent</span> = 0pt</a>
-<a class="sourceLine" id="cb1-11" title="11"></a>
-<a class="sourceLine" id="cb1-12" title="12"><span class="kw">\begin</span>{<span class="ex">document</span>}</a>
-<a class="sourceLine" id="cb1-13" title="13"></a>
-<a class="sourceLine" id="cb1-14" title="14"><span class="kw">\begin</span>{<span class="ex">arab</span>}[utf]</a>
-<a class="sourceLine" id="cb1-15" title="15"><span class="kw">\chapter*</span>{<span class="fu">\textarab</span>[utf]{ حِكَم من تَجمـيعي }}</a>
-<a class="sourceLine" id="cb1-16" title="16"><span class="kw">\section*</span>{<span class="fu">\textarab</span>[utf]{   شِعر    }}</a>
-<a class="sourceLine" id="cb1-17" title="17"></a>
-<a class="sourceLine" id="cb1-18" title="18">  أديـن بدين الحـــب أنـى تــوجـهت ركـائبه <span class="fu">\qquad</span> فالحـــب دينــي و إيماني<span class="fu">\\</span></a>
-<a class="sourceLine" id="cb1-19" title="19"> لنا أسوة في بشر هند و اختها و قيس و ليلى <span class="fu">\qquad</span> ثـــــم مـــــي و غـــيــــلان</a>
-<a class="sourceLine" id="cb1-20" title="20"><span class="kw">\end</span>{<span class="ex">arab</span>}</a>
-<a class="sourceLine" id="cb1-21" title="21"></a>
-<a class="sourceLine" id="cb1-22" title="22"><span class="kw">\end</span>{<span class="ex">document</span>}</a></code></pre></div></td>
+<td><div class="sourceCode" id="cb1"><pre class="sourceCode latex"><code class="sourceCode latex"><span id="cb1-1"><a href="#cb1-1"></a><span class="bu">\documentclass</span>[12pt,fleqn,titlepage,twoside,a4paper]{<span class="ex">book</span>}</span>
+<span id="cb1-2"><a href="#cb1-2"></a><span class="bu">\usepackage</span>{<span class="ex">etex</span>}</span>
+<span id="cb1-3"><a href="#cb1-3"></a><span class="bu">\usepackage</span>{<span class="ex">amsfonts,amsmath,amssymb,graphicx</span>}</span>
+<span id="cb1-4"><a href="#cb1-4"></a><span class="bu">\usepackage</span>{<span class="ex">txfonts</span>}</span>
+<span id="cb1-5"><a href="#cb1-5"></a><span class="bu">\usepackage</span>[centering,includeheadfoot,margin=1in]{<span class="ex">geometry</span>}</span>
+<span id="cb1-6"><a href="#cb1-6"></a><span class="bu">\usepackage</span>{<span class="ex">tabvar</span>}</span>
+<span id="cb1-7"><a href="#cb1-7"></a><span class="bu">\usepackage</span>{<span class="ex">arabxetex</span>}</span>
+<span id="cb1-8"><a href="#cb1-8"></a><span class="co">%\newfontfamily{\arabicfont}[Script=Arabic,Scale=1.5]{Traditional Arabic}</span></span>
+<span id="cb1-9"><a href="#cb1-9"></a></span>
+<span id="cb1-10"><a href="#cb1-10"></a><span class="fu">\parindent</span> = 0pt</span>
+<span id="cb1-11"><a href="#cb1-11"></a></span>
+<span id="cb1-12"><a href="#cb1-12"></a><span class="kw">\begin</span>{<span class="ex">document</span>}</span>
+<span id="cb1-13"><a href="#cb1-13"></a></span>
+<span id="cb1-14"><a href="#cb1-14"></a><span class="kw">\begin</span>{<span class="ex">arab</span>}[utf]</span>
+<span id="cb1-15"><a href="#cb1-15"></a><span class="kw">\chapter*</span>{<span class="fu">\textarab</span>[utf]{ حِكَم من تَجمـيعي }}</span>
+<span id="cb1-16"><a href="#cb1-16"></a><span class="kw">\section*</span>{<span class="fu">\textarab</span>[utf]{   شِعر    }}</span>
+<span id="cb1-17"><a href="#cb1-17"></a></span>
+<span id="cb1-18"><a href="#cb1-18"></a>  أديـن بدين الحـــب أنـى تــوجـهت ركـائبه <span class="fu">\qquad</span> فالحـــب دينــي و إيماني<span class="fu">\\</span></span>
+<span id="cb1-19"><a href="#cb1-19"></a> لنا أسوة في بشر هند و اختها و قيس و ليلى <span class="fu">\qquad</span> ثـــــم مـــــي و غـــيــــلان</span>
+<span id="cb1-20"><a href="#cb1-20"></a><span class="kw">\end</span>{<span class="ex">arab</span>}</span>
+<span id="cb1-21"><a href="#cb1-21"></a></span>
+<span id="cb1-22"><a href="#cb1-22"></a><span class="kw">\end</span>{<span class="ex">document</span>}</span></code></pre></div></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Xetex_arabic_text.png" title="fig:Xetex_arabic_text.png">Xetex_arabic_text.png</a></p></td>
 </tr>
 </tbody>

@@ -214,7 +214,7 @@
 <td><p>10.6</p></td>
 <td><p>16-1</p></td>
 <td><p><strong>總冠軍</strong></p></td>
-<td><p>12連勝及14連勝、季后賽僅敗1場（平NBA历史最佳）</p></td>
+<td><p>12連勝及14連勝、季后賽16胜1负（平NBA历史最佳）</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>.805</strong></p></td>

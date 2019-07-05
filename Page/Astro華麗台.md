@@ -8,161 +8,6 @@
 
 從2013年1月13日起，[Astro至尊HD以高清與此頻道同步播出以高清播出的](https://zh.wikipedia.org/wiki/Astro至尊HD "wikilink")[TVB節目](https://zh.wikipedia.org/wiki/TVB "wikilink")。2014年10月6日起，[Astro至尊HD正式被易名為](https://zh.wikipedia.org/wiki/Astro至尊HD "wikilink")[Astro華麗台HD](https://zh.wikipedia.org/wiki/Astro華麗台HD "wikilink")。\[1\]
 
-## 現時播映的黃金時段節目
-
-  - 2019年5月18日 - 2019年5月24日
-
-<table style="width:10%;">
-<colgroup>
-<col style="width: 2%" />
-<col style="width: 1%" />
-<col style="width: 1%" />
-<col style="width: 1%" />
-<col style="width: 1%" />
-<col style="width: 1%" />
-<col style="width: 1%" />
-<col style="width: 1%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th></th>
-<th><p>星期一（20日）</p></th>
-<th><p>星期二（21日）</p></th>
-<th><p>星期三（22日）</p></th>
-<th><p>星期四（23日）</p></th>
-<th><p>星期五（24日）</p></th>
-<th><p>星期六（18日）</p></th>
-<th><p>星期日（19日）</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>6:00pm</p></td>
-<td><p><a href="../Page/流行都市.md" title="wikilink">流行都市</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/宮心計2深宮計" title="wikilink">宮心計2深宮計</a><br />
-<small>(3集連播4:00pm-7:00pm)</small></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>7:00pm</p></td>
-<td><p><a href="../Page/衝上雲霄II.md" title="wikilink">衝上雲霄II</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/美女廚房_(第三輯)" title="wikilink">美女廚房</a></p></td>
-<td><p><a href="../Page/星期二檔案.md" title="wikilink">星期日檔案</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>7:30pm</p></td>
-<td><p><a href="../Page/學是學非.md" title="wikilink">學是學非</a><br />
-<small>（第六季）</small></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>8:00pm</p></td>
-<td><p><a href="../Page/愛·回家之開心速遞.md" title="wikilink">愛·回家之開心速遞</a><br />
-<small>(與TVB翡翠台同步播出)</small></p></td>
-<td><p><a href="../Page/娛樂大家_(無綫電視節目).md" title="wikilink">娛樂大家</a></p></td>
-<td><p><a href="../Page/周遊東京.md" title="wikilink">周遊東京</a><br />
-<small>（第二季）</small></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>8:30pm</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/平安谷之詭谷傳說" title="wikilink">平安谷之詭谷傳說</a></p></td>
-<td><p>旅神ON CALL</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>9:00pm</p></td>
-<td><p><a href="../Page/女人四十_(無綫電視節目).md" title="wikilink">女人四十</a></p></td>
-<td><p><a href="../Page/機動部隊2019.md" title="wikilink">機動部隊2019</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>9:30pm</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/溏心風暴3" title="wikilink">溏心風暴3</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/BB來了" title="wikilink">BB來了</a></p></td>
-<td><p><a href="../Page/廉政行動2019.md" title="wikilink">廉政行動2019</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/:yue:不老傳說" title="wikilink">不老傳說</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>10:00pm</p></td>
-<td><p><a href="../Page/長命百二歲.md" title="wikilink">長命百二歲</a><br />
-<small>（第二季）</small></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>10:30pm</p></td>
-<td><p><a href="../Page/東張西望.md" title="wikilink">東張西望</a></p></td>
-<td><p><a href="../Page/愛·回家之開心速遞.md" title="wikilink">愛·回家之開心速遞</a><br />
-<small>(5集重播10:30pm-1:00am)</small></p></td>
-<td><p><small>影匯萬花筒：</small><br />
-小生夢驚魂</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-<table>
-<tbody>
-<tr class="odd">
-<td><p>劇集</p></td>
-<td><p>娛樂/休閒</p></td>
-<td><p>資訊</p></td>
-<td><p>電影</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
 ## 直播節目
 
 Astro華麗台每年會直播自製大型節目《[Astro國際華裔小姐](https://zh.wikipedia.org/wiki/Astro國際華裔小姐 "wikilink")》以及轉播香港大型節目典禮，例如
@@ -182,11 +27,11 @@ AOD](../Page/Astro_AOD.md "wikilink")）負責轉播，現在改為東南亞版[
     隨選半年前或不超過一年前既TVB劇集播映。
   - 在2008年4月開始播出TVB打對台香港[亞洲電視的節目](../Page/亞洲電視.md "wikilink")，首個節目為亞視外判劇集《[生命有明天](../Page/生命有明天.md "wikilink")》。
   - 在2008年9月開始播出TVB另一家打對台[香港有線電視的節目](../Page/香港有線電視.md "wikilink")，首個節目為《肥媽私房菜》。
-  - 在[Astro至尊HD剛啟播之際](https://zh.wikipedia.org/wiki/Astro至尊HD "wikilink")，Astro華麗台在星期一至星期五21:00起至22:30和星期日21:30起至22:30都會與[Astro至尊HD高清同步播出](https://zh.wikipedia.org/wiki/Astro至尊HD "wikilink")，而在星期一至五14:30起至15:30將會與Astro至尊HD高清同步重播前一天21:30至22:30時段的劇集。
+  - 在[Astro至尊HD剛啟播之際](https://zh.wikipedia.org/wiki/Astro至尊HD "wikilink")，Astro華麗台在平日會與[Astro至尊HD高清同步播出](https://zh.wikipedia.org/wiki/Astro至尊HD "wikilink")。
   - 2013年，由於[Astro至尊HD改革為全粵語頻道](https://zh.wikipedia.org/wiki/Astro至尊HD "wikilink")，因此所有在Astro华丽台播放的節目（特定標清節目除外）將會與Astro至尊HD同步播出。
-  - 早在2014年起，Astro華麗台逐漸同步播出TVB劇集。從2015年7月起開始在同周跟播處境劇[愛·回家(第二輯)](../Page/愛·回家_\(第二輯\).md "wikilink")，8月起同日(比TVB首播遲兩小時)播出該劇。
+  - 早在2014年起，Astro華麗台逐漸同步播出TVB劇集。從2015年7月起開始在同周跟播處境劇[愛·回家(第二輯)](../Page/愛·回家_\(第二輯\).md "wikilink")。
   - 在2016年10月開始播出TVB打對台[香港電視网络](https://zh.wikipedia.org/wiki/香港電視网络 "wikilink")（HKTV）的所有港剧。所有的[香港電視网络](https://zh.wikipedia.org/wiki/香港電視网络 "wikilink")（HKTV）的港剧都早已在[Astro双星播放完畢](https://zh.wikipedia.org/wiki/Astro双星 "wikilink")。
-  - 2018年3月Astro首次投資原創港劇《[陽關道](https://zh.wikipedia.org/wiki/:yue:陽關道 "wikilink")》，由香港製作團隊打造，電視劇於2018年8月11日，晚上10：30與BOO頻道同步首播。每週六兩集連播。
+  - 2018年3月Astro首次投資原創港劇《[陽關道](https://zh.wikipedia.org/wiki/:yue:陽關道 "wikilink")》，由香港製作團隊打造。
   - Astro投資的原創港劇《[陽關道](https://zh.wikipedia.org/wiki/:yue:陽關道 "wikilink")》於2018年12月22日上架到影視平台[Netflix點播](../Page/Netflix.md "wikilink")。
 
 ## Astro華麗-{台}-電視劇列表
@@ -207,13 +52,12 @@ AOD我的最爱颁奖典礼》被由[TVB娱乐新闻台主办](https://zh.wikipe
 
 ### 正在播出電視節目
 
-<table style="width:180%;">
+<table style="width:140%;">
 <colgroup>
 <col style="width: 17%" />
 <col style="width: 18%" />
 <col style="width: 70%" />
 <col style="width: 35%" />
-<col style="width: 40%" />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -221,18 +65,15 @@ AOD我的最爱颁奖典礼》被由[TVB娱乐新闻台主办](https://zh.wikipe
 <td><p><strong>主持人</strong></p></td>
 <td><p><strong>最新一季</strong></p></td>
 <td><p><strong>節目內容</strong></p></td>
-<td><p><strong>網頁</strong></p></td>
 </tr>
 <tr class="even">
 <td><p>旅神ON CALL</p></td>
 <td><p>彭嘉伊、張吟、劉愷欣、林震前</p></td>
 <td><p>2019年5月19日</p></td>
 <td><p>《ASTRO國際華裔小姐2018》三甲彭嘉伊、張吟和劉愷欣3位女神量身定做的旅遊節目，與嘉賓團友林震前一起介紹韓國旅遊景點<br />
-節目於2019年5月19日，星期日8:30PM播出</p></td>
-<td><p><a href="https://web.facebook.com/WahLaiToi/">網頁</a></p></td>
+</p></td>
 </tr>
 <tr class="odd">
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -240,13 +81,6 @@ AOD我的最爱颁奖典礼》被由[TVB娱乐新闻台主办](https://zh.wikipe
 </tr>
 </tbody>
 </table>
-
-### 即將播出電視節目
-
-|          |         |          |          |        |
-| -------- | ------- | -------- | -------- | ------ |
-| **節目名稱** | **主持人** | **最新一季** | **節目內容** | **網頁** |
-|          |         |          |          |        |
 
 ### 暫時播畢電視節目
 
@@ -434,13 +268,13 @@ AOD我的最爱颁奖典礼》被由[TVB娱乐新闻台主办](https://zh.wikipe
 <tr class="odd">
 <td><p>[2]</p></td>
 <td><p><a href="../Page/王貽興.md" title="wikilink">王貽興</a>、<a href="https://zh.wikipedia.org/wiki/:yue:劉翁" title="wikilink">劉　翁</a>、<a href="../Page/陳國邦.md" title="wikilink">陳國邦</a>、<br />
-<a href="https://zh.wikipedia.org/wiki/江若琳" title="wikilink">江若琳</a>、<a href="../Page/艾威.md" title="wikilink">艾　威</a>、<a href="../Page/詹瑞文.md" title="wikilink">詹瑞文</a>、<br />
+<a href="../Page/江若琳.md" title="wikilink">江若琳</a>、<a href="../Page/艾威.md" title="wikilink">艾　威</a>、<a href="../Page/詹瑞文.md" title="wikilink">詹瑞文</a>、<br />
 <a href="../Page/楊淇_(香港演員).md" title="wikilink">楊　淇</a>、<a href="../Page/樓南光.md" title="wikilink">樓南光</a>、<a href="../Page/岑珈其.md" title="wikilink">岑珈其</a>、<br />
 <a href="../Page/黃心美.md" title="wikilink">黃心美</a>、郭　慧、<a href="../Page/駱應鈞.md" title="wikilink">駱應鈞</a>、<br />
 <a href="../Page/黃文標.md" title="wikilink">黃文標</a>、楊鴻俊、<a href="https://zh.wikipedia.org/wiki/:yue:黃定謙" title="wikilink">黃定謙</a>、<br />
 <a href="../Page/陳健朗.md" title="wikilink">陳健朗</a>、酒井瞳、韓　媚</p></td>
 <td><p>13</p></td>
-<td><p>此劇編劇、導演及主演為<a href="../Page/王貽興.md" title="wikilink">王貽興和</a><a href="https://zh.wikipedia.org/wiki/:yue:劉翁" title="wikilink">劉翁</a>。其他演員還有<a href="../Page/陳國邦.md" title="wikilink">陳國邦</a>、<a href="https://zh.wikipedia.org/wiki/江若琳" title="wikilink">江若琳</a>、<a href="../Page/艾威.md" title="wikilink">艾威等</a>。此劇是<a href="https://zh.wikipedia.org/wiki/Astro" title="wikilink">Astro跨國投資的港劇</a>，全香港班底製作及演出，以驚悚懸疑為主軸的電視劇。此劇將於2018年8月11日，每週六晚上10:30Astro華麗台與BOO頻道同步播放,每集30分鐘,2集連播。7月24日於GSC Cinema, Mid Valley Megamall舉辦首映會。<br />
+<td><p>此劇編劇、導演及主演為<a href="../Page/王貽興.md" title="wikilink">王貽興和</a><a href="https://zh.wikipedia.org/wiki/:yue:劉翁" title="wikilink">劉翁</a>。其他演員還有<a href="../Page/陳國邦.md" title="wikilink">陳國邦</a>、<a href="../Page/江若琳.md" title="wikilink">江若琳</a>、<a href="../Page/艾威.md" title="wikilink">艾威等</a>。此劇是<a href="https://zh.wikipedia.org/wiki/Astro" title="wikilink">Astro跨國投資的港劇</a>，全香港班底製作及演出，以驚悚懸疑為主軸的電視劇。此劇將於2018年8月11日，每週六晚上10:30Astro華麗台與BOO頻道同步播放,每集30分鐘,2集連播。7月24日於GSC Cinema, Mid Valley Megamall舉辦首映會。<br />
 此劇在2018年12月22日上架到影視平台<a href="../Page/Netflix.md" title="wikilink">Netflix點播</a>。</p></td>
 <td><p><a href="http://www.xuan.com.my/channels/wlt/article/20695/%E9%98%B3%E5%85%B3%E9%81%93">網頁</a></p></td>
 </tr>
@@ -911,7 +745,6 @@ AOD我的最爱颁奖典礼》被由[TVB娱乐新闻台主办](https://zh.wikipe
   - [英文官方網站 -
     Astro華麗-{台}-](http://whatson.astro.com.my/channels/astro-wah-lai-toi-hd/129/?cat=&lang=&stb=310)
   - [Facebook - Astro華麗-{台}-](http://www.facebook.com/WahLaiToi)
-  - [Astro华丽台节目表](http://www.quake.com.my)
 
 [Category:Astro](https://zh.wikipedia.org/wiki/Category:Astro "wikilink")
 [Category:電視廣播有限公司電視頻道](https://zh.wikipedia.org/wiki/Category:電視廣播有限公司電視頻道 "wikilink")

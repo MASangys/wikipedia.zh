@@ -3306,7 +3306,7 @@ ALIVE**（必需活捉）」的懸賞者。
 <tr class="even">
 <td><p>4</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE_死亡盡頭的冒險#嘉斯帕德" title="wikilink">嘉斯帕德</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#嘉斯帕德海賊團" title="wikilink">嘉斯帕德海賊團</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE_死亡盡頭的冒險#嘉斯帕德海賊團" title="wikilink">嘉斯帕德海賊團</a><br />
 <em>船長</em></p></td>
 <td><p>9,500萬</p></td>
 <td><p>黏黏糖果實</p></td>
@@ -3343,7 +3343,7 @@ ALIVE**（必需活捉）」的懸賞者。
 </tr>
 <tr class="even">
 <td><p>8</p></td>
-<td><p>烏南</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE_黃金島大冒險#烏南" title="wikilink">烏南</a></p></td>
 <td><p>不明<br />
 </p></td>
 <td><p>6,000萬</p></td>
@@ -3354,7 +3354,7 @@ ALIVE**（必需活捉）」的懸賞者。
 <tr class="odd">
 <td><p>9</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE_死亡盡頭的冒險#尼德斯" title="wikilink">尼德斯</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#嘉斯帕德海賊團" title="wikilink">嘉斯帕德海賊團</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE_死亡盡頭的冒險#嘉斯帕德海賊團" title="wikilink">嘉斯帕德海賊團</a></p></td>
 <td><p>5,700萬</p></td>
 <td><p>無</p></td>
 <td><p>嘉斯帕德的親信，身上有刺青的男人，速度奇快，武器是掛在兩手的鐵爪<br />
@@ -3373,7 +3373,7 @@ ALIVE**（必需活捉）」的懸賞者。
 <tr class="odd">
 <td><p>11</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE_死亡盡頭的冒險#威利" title="wikilink">威利</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#威利海賊團" title="wikilink">威利海賊團</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE_死亡盡頭的冒險#威利海賊團" title="wikilink">威利海賊團</a><br />
 <em>船長</em></p></td>
 <td><p>2,000萬</p></td>
 <td><p>無</p></td>
@@ -3393,7 +3393,7 @@ ALIVE**（必需活捉）」的懸賞者。
 <tr class="odd">
 <td><p>13</p></td>
 <td><p>威頓</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#威頓海賊團" title="wikilink">威頓海賊團</a><br />
+<td><p>威頓海賊團<br />
 <em>船長</em></p></td>
 <td><p>1,480萬</p></td>
 <td><p>無</p></td>
@@ -3401,8 +3401,8 @@ ALIVE**（必需活捉）」的懸賞者。
 </tr>
 <tr class="even">
 <td><p>14</p></td>
-<td><p>大熊王</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#撲克牌海賊團" title="wikilink">撲克牌海賊團</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE_發條島的冒險#大熊王" title="wikilink">大熊王</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE_發條島的冒險#撲克牌海賊團" title="wikilink">撲克牌海賊團</a><br />
 <em>船長</em></p></td>
 <td><p>1,160萬</p></td>
 <td><p>硬梆梆果實</p></td>
@@ -3411,8 +3411,8 @@ ALIVE**（必需活捉）」的懸賞者。
 </tr>
 <tr class="odd">
 <td><p>15</p></td>
-<td><p>祭典男爵</p></td>
-<td><p><s><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#紅箭海賊團" title="wikilink">紅箭海賊團</a></s></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE_祭典男爵與神祕島#祭典男爵" title="wikilink">祭典男爵</a></p></td>
+<td><p><s><a href="https://zh.wikipedia.org/wiki/ONE_PIECE_祭典男爵與神祕島#紅箭海賊團" title="wikilink">紅箭海賊團</a></s></p></td>
 <td><p>1,000萬</p></td>
 <td><p>無</p></td>
 <td><p>祭典島的島主，原<a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#紅箭海賊團" title="wikilink">紅箭海賊團船長</a>，22年前在與海賊王見面後沒多久，並因一場暴風雨而失去了所有的夥伴，他則一個人漂流到祭典島，與島上的莉莉康乃馨訂下契約，藉由把人類當成莉莉的食物使夥伴們復活<br />
@@ -3428,8 +3428,8 @@ ALIVE**（必需活捉）」的懸賞者。
 </tr>
 <tr class="odd">
 <td><p>16</p></td>
-<td><p>小丑</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#撲克牌海賊團" title="wikilink">撲克牌海賊團</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE_發條島的冒險#小丑" title="wikilink">小丑</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE_發條島的冒險#撲克牌海賊團" title="wikilink">撲克牌海賊團</a></p></td>
 <td><p>990萬</p></td>
 <td><p>無</p></td>
 <td><p>撲克5兄弟中的一人，在撲克牌中代表的是鬼牌，使用武器為「rapier」曾是索隆的手下敗將<br />
@@ -3437,8 +3437,8 @@ ALIVE**（必需活捉）」的懸賞者。
 </tr>
 <tr class="even">
 <td><p>rowspan=|17</p></td>
-<td><p>紅心皇后</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#撲克牌海賊團" title="wikilink">撲克牌海賊團</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE_發條島的冒險#紅心皇后" title="wikilink">紅心皇后</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE_發條島的冒險#撲克牌海賊團" title="wikilink">撲克牌海賊團</a></p></td>
 <td><p>rowspan=|780萬</p></td>
 <td><p>漿糊果實</p></td>
 <td><p>撲克5兄弟中的一人同時也是唯一的女性，在撲克牌中代表的是皇后<br />
@@ -3446,8 +3446,8 @@ ALIVE**（必需活捉）」的懸賞者。
 </tr>
 <tr class="odd">
 <td><p>18</p></td>
-<td><p>臭鼬</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#撲克牌海賊團" title="wikilink">撲克牌海賊團</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE_發條島的冒險#臭鼬" title="wikilink">臭鼬</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE_發條島的冒險#撲克牌海賊團" title="wikilink">撲克牌海賊團</a></p></td>
 <td><p>600萬</p></td>
 <td><p>無</p></td>
 <td><p>撲克5兄弟中的一人，在撲克牌中代表的是A<br />
@@ -3465,7 +3465,7 @@ ALIVE**（必需活捉）」的懸賞者。
 </tr>
 <tr class="odd">
 <td><p>20</p></td>
-<td><p>毒蛇總裁</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE_珍獸島之喬巴王國#毒蛇總裁" title="wikilink">毒蛇總裁</a></p></td>
 <td><p>未知</p></td>
 <td><p>420萬</p></td>
 <td><p>無</p></td>
@@ -3474,7 +3474,7 @@ ALIVE**（必需活捉）」的懸賞者。
 </tr>
 <tr class="even">
 <td><p>21</p></td>
-<td><p>哥拉斯</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE_黃金島大冒險#哥拉斯" title="wikilink">哥拉斯</a></p></td>
 <td><p>未知</p></td>
 <td><p>400萬</p></td>
 <td><p>無</p></td>
@@ -3482,7 +3482,7 @@ ALIVE**（必需活捉）」的懸賞者。
 懸賞金於劇場版第9部提到</p></td>
 </tr>
 <tr class="odd">
-<td><p>狂犬熱狗</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE_珍獸島之喬巴王國#狂犬熱狗" title="wikilink">狂犬熱狗</a></p></td>
 <td><p>未知</p></td>
 <td><p>無</p></td>
 <td><p>巴特拉伯爵的部下，自稱「全世界最強的男子」，擅長踢擊<br />
@@ -3502,8 +3502,8 @@ ALIVE**（必需活捉）」的懸賞者。
 </tr>
 <tr class="odd">
 <td><p>23</p></td>
-<td><p>豬傑克</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#撲克牌海賊團" title="wikilink">撲克牌海賊團</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE_發條島的冒險#豬傑克" title="wikilink">豬傑克</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE_發條島的冒險#撲克牌海賊團" title="wikilink">撲克牌海賊團</a></p></td>
 <td><p>320萬</p></td>
 <td><p>無</p></td>
 <td><p>撲克5兄弟中的一人，在撲克牌中代表的是J<br />

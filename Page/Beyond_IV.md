@@ -25,7 +25,7 @@ IV》以商業化大碟躋身為樂壇的主流流行樂隊，音樂上亦繼續
 <tr class="odd">
 <td><p>1.</p></td>
 <td><p>真的愛妳</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/小美" title="wikilink">小美</a></p></td>
+<td><p><a href="../Page/小美_(香港).md" title="wikilink">小美</a></p></td>
 <td><p><a href="../Page/黃家駒.md" title="wikilink">黃家駒</a></p></td>
 <td><p>電影《<a href="../Page/開心鬼救開心鬼.md" title="wikilink">開心鬼救開心鬼</a>》 插曲</p></td>
 </tr>

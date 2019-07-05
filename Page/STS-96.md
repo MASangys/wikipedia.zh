@@ -11,7 +11,7 @@
   - **[瓦列里·托卡列夫](../Page/瓦列里·托卡列夫.md "wikilink")**（，[俄罗斯宇航员](../Page/俄罗斯.md "wikilink")，曾执行、[联盟TMA-7以及](../Page/联盟TMA-7.md "wikilink")[远征12号任务](https://zh.wikipedia.org/wiki/远征12号 "wikilink")），任务专家
 
 [Category:1999年美国](https://zh.wikipedia.org/wiki/Category:1999年美国 "wikilink")
-[Category:1999年科學](https://zh.wikipedia.org/wiki/Category:1999年科學 "wikilink")
+[Category:1999年發射的太空飛行器](https://zh.wikipedia.org/wiki/Category:1999年發射的太空飛行器 "wikilink")
 [Category:发现号航天飞机任务](https://zh.wikipedia.org/wiki/Category:发现号航天飞机任务 "wikilink")
 [Category:1999年5月](https://zh.wikipedia.org/wiki/Category:1999年5月 "wikilink")
 [Category:1999年6月](https://zh.wikipedia.org/wiki/Category:1999年6月 "wikilink")

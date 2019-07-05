@@ -61,6 +61,10 @@ Force，零插拔力）插座，插座上有一根拉杆，在安裝和更換CPU
 
   - Rise mp6 166 MHz\~300 MHz
 
+### IBM
+
+  - IBM 6x86MX PR166 MHz\~166 MHz
+
 ## 支持Socket 7的芯片组
 
   - Intel 430FX

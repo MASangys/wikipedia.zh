@@ -15,7 +15,6 @@ Diding）到男童5歲時仍未把他的名字登記，[哈爾姆斯塔德的地
   - [黃宏成台灣阿成世界偉人財神總統](../Page/黃宏成台灣阿成世界偉人財神總統.md "wikilink")
   - [赵C](https://zh.wikipedia.org/wiki/赵C "wikilink")
   - [惡魔命名騷動](../Page/惡魔命名騷動.md "wikilink")
-  - [不通學](https://zh.wikipedia.org/wiki/不通學 "wikilink")
 
 ## 外部連結
 

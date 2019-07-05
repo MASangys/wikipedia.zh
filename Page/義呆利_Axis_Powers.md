@@ -588,7 +588,7 @@ Powers中8個主要[二戰參戰國](https://zh.wikipedia.org/wiki/二戰 "wikil
 2.  **作者明確表示血緣關係的例子**
     1.  **同樣民族的不同國家**：[羅馬帝國和](../Page/羅馬帝國.md "wikilink")[南北義大利](https://zh.wikipedia.org/wiki/義大利 "wikilink")、[普魯士和](../Page/普魯士.md "wikilink")[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")、[挪威和](../Page/挪威.md "wikilink")[冰島](https://zh.wikipedia.org/wiki/冰島 "wikilink")。
     2.  **一國曾被[分割](https://zh.wikipedia.org/wiki/分割 "wikilink")**：南北義大利兄弟的羅馬諾和威尼斯諾。
-    3.  **歷史上巨大國家之後**：[古希臘和兒子](https://zh.wikipedia.org/wiki/古希臘 "wikilink")[希臘](https://zh.wikipedia.org/wiki/希臘 "wikilink")、[古埃及和兒子](https://zh.wikipedia.org/wiki/古埃及 "wikilink")[埃及](../Page/埃及.md "wikilink")、[羅馬帝國與孫子](../Page/羅馬帝國.md "wikilink")[義大利兄弟](https://zh.wikipedia.org/wiki/義大利 "wikilink")。
+    3.  **歷史上巨大國家之後**：[古希臘和兒子](https://zh.wikipedia.org/wiki/古希臘 "wikilink")[希臘](https://zh.wikipedia.org/wiki/希臘 "wikilink")、[古埃及和兒子](../Page/古埃及.md "wikilink")[埃及](../Page/埃及.md "wikilink")、[羅馬帝國與孫子](../Page/羅馬帝國.md "wikilink")[義大利兄弟](https://zh.wikipedia.org/wiki/義大利 "wikilink")。
     4.  **買賣關係**：[瑞典與](../Page/瑞典.md "wikilink")[西蘭公國](https://zh.wikipedia.org/wiki/西蘭公國 "wikilink")。
 3.  **作者明確表示沒有血緣關繫的例子**
     1.  **[裙帶關係](https://zh.wikipedia.org/wiki/裙帶關係 "wikilink")（領土擴大）**：[奧地利與](https://zh.wikipedia.org/wiki/奧地利 "wikilink")[匈牙利](../Page/匈牙利.md "wikilink")、[普魯士](../Page/普魯士.md "wikilink")。

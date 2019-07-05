@@ -216,7 +216,7 @@ ATX的出現，也統一了mini-DIN鍵盤與PS/2滑鼠插座的使用。相比�
 
   - [AT規格](../Page/AT規格.md "wikilink")
   - [BTX規格](../Page/BTX規格.md "wikilink")
-  - [Mini-ITX](https://zh.wikipedia.org/wiki/Mini-ITX "wikilink")
+  - [Mini-ITX](../Page/Mini-ITX.md "wikilink")
   - [Nano-ITX](https://zh.wikipedia.org/wiki/Nano-ITX "wikilink")
   - [Pico-ITX](https://zh.wikipedia.org/wiki/Pico-ITX "wikilink")
 

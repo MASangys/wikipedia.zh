@@ -1,221 +1,464 @@
-## W
-
-| 3字母                 | 639-2（如有） | 639-1（如有） | SIL | 英語名称                   | 中文名称                                                                                                                                                        |
-| ------------------- | --------- | --------- | --- | ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| waa                 |           |           | WAA | Walla Walla            |                                                                                                                                                             |
-| wab                 |           |           | WAB | Wab                    |                                                                                                                                                             |
-| wac                 |           |           | WAC | Wasco-Wishram          |                                                                                                                                                             |
-| wad                 |           |           | WAD | Wandamen               |                                                                                                                                                             |
-| wae                 |           |           | WAE | Walser                 | [瓦爾瑟語](https://zh.wikipedia.org/wiki/瓦爾瑟語 "wikilink")                                                                                                       |
-| waf                 |           |           | WAF | Wakoná                 |                                                                                                                                                             |
-| wag                 |           |           | WAG | Wa'ema                 |                                                                                                                                                             |
-| wah                 |           |           | WAH | Watubela               |                                                                                                                                                             |
-| wai                 |           |           | WAI | Wares                  |                                                                                                                                                             |
-| waj                 |           |           | WAJ | Waffa                  |                                                                                                                                                             |
-| wak <sub>(g)</sub>  | wak       |           |     | Wakashan languages     | [瓦卡什語系](https://zh.wikipedia.org/wiki/瓦卡什語系 "wikilink")                                                                                                     |
-| wal                 | wal       |           | WBC | Wolaytta               | [瓦拉莫語](https://zh.wikipedia.org/wiki/瓦拉莫語 "wikilink")                                                                                                       |
-| wam                 |           |           | WAM | Wampanoag              |                                                                                                                                                             |
-| wan                 |           |           | WAN | Wan                    |                                                                                                                                                             |
-| wao                 |           |           | WAO | Wappo                  |                                                                                                                                                             |
-| wap                 |           |           | WAP | Wapishana              |                                                                                                                                                             |
-| waq                 |           |           | WAQ | Wageman                |                                                                                                                                                             |
-| war                 | war       |           | WRY | Waray (Philippines)    | [瓦賴語](https://zh.wikipedia.org/wiki/瓦賴語 "wikilink")                                                                                                         |
-| was                 | was       |           | WAS | Washo                  | [瓦肖語](https://zh.wikipedia.org/wiki/瓦肖語 "wikilink")                                                                                                         |
-| wat                 |           |           | WAT | Kaninuwa               |                                                                                                                                                             |
-| wau                 |           |           | WAU | Waurá                  |                                                                                                                                                             |
-| wav                 |           |           | WAV | Waka                   |                                                                                                                                                             |
-| waw                 |           |           | WAW | Waiwai                 |                                                                                                                                                             |
-| wax                 |           |           | WAX | Watam                  |                                                                                                                                                             |
-| way                 |           |           | WAY | Wayana                 |                                                                                                                                                             |
-| waz                 |           |           | WAZ | Wampur                 |                                                                                                                                                             |
-| wba                 |           |           | WBA | Warao                  |                                                                                                                                                             |
-| wbb                 |           |           | WBB | Wabo                   |                                                                                                                                                             |
-| wbe                 |           |           | WBE | Waritai                |                                                                                                                                                             |
-| wbf                 |           |           | WBF | Wara                   |                                                                                                                                                             |
-| wbh                 |           |           | WBH | Wanda                  |                                                                                                                                                             |
-| wbi                 |           |           | WBI | Vwanji                 |                                                                                                                                                             |
-| wbj                 |           |           | WBJ | Alagwa                 |                                                                                                                                                             |
-| wbk                 |           |           | WBK | Waigali                |                                                                                                                                                             |
-| wbl                 |           |           | WBL | Wakhi                  | [瓦罕語](https://zh.wikipedia.org/wiki/瓦罕語 "wikilink")                                                                                                         |
-| wbm                 |           |           | WBM | Wa                     | [佤語](../Page/佤語.md "wikilink")                                                                                                                              |
-| wbp                 |           |           | WBP | Warlpiri               |                                                                                                                                                             |
-| wbq                 |           |           | WBQ | Waddar                 |                                                                                                                                                             |
-| wbr                 |           |           | WBR | Wagdi                  |                                                                                                                                                             |
-| wbt                 |           |           | WBT | Wanman                 |                                                                                                                                                             |
-| wbv                 |           |           | WBV | Wajarri                |                                                                                                                                                             |
-| wbw                 |           |           | WBW | Woi                    |                                                                                                                                                             |
-| wca                 |           |           | WCA | Yanomámi               |                                                                                                                                                             |
-| wci                 |           |           | WCI | Waci Gbe               |                                                                                                                                                             |
-| wdd                 |           |           | WDD | Wandji                 |                                                                                                                                                             |
-| wdg                 |           |           | WDG | Wadaginam              |                                                                                                                                                             |
-| wdj                 |           |           | WDJ | Wadjiginy              |                                                                                                                                                             |
-| wdu                 |           |           | WDU | Wadjigu                |                                                                                                                                                             |
-| wea                 |           |           | WEA | Wewaw                  |                                                                                                                                                             |
-| wec                 |           |           | WEC | Wè Western             |                                                                                                                                                             |
-| wed                 |           |           | WED | Wedau                  |                                                                                                                                                             |
-| weh                 |           |           | WEH | Weh                    |                                                                                                                                                             |
-| wei                 |           |           | WEI | Were                   |                                                                                                                                                             |
-| wel <sub>(b)</sub>  | wel; cym  | cy        | WLS | Welsh                  | [威爾士語](https://zh.wikipedia.org/wiki/威爾士語 "wikilink")、[威爾斯語](https://zh.wikipedia.org/wiki/威爾斯語 "wikilink")                                                 |
-| wem                 |           |           | WEM | Weme Gbe               |                                                                                                                                                             |
-| wen <sub>(g)</sub>  | wen       |           |     | Sorbian languages      | [索布諸語言](https://zh.wikipedia.org/wiki/索布諸語言 "wikilink")                                                                                                     |
-| weo                 |           |           | WEO | North Wemale           |                                                                                                                                                             |
-| wep                 |           |           | WEP | Westphalien            | [斯特法倫語](https://zh.wikipedia.org/wiki/斯特法倫語 "wikilink")                                                                                                     |
-| wer                 |           |           | WER | Weri                   |                                                                                                                                                             |
-| wes                 |           |           | WES | Cameroon Pidgin        |                                                                                                                                                             |
-| wet                 |           |           | WET | Perai                  |                                                                                                                                                             |
-| weu                 |           |           | WEL | Welaung                |                                                                                                                                                             |
-| wew                 |           |           | WEW | Wejewa                 |                                                                                                                                                             |
-| wfg                 |           |           | WFG | Yafi                   |                                                                                                                                                             |
-| wga                 |           |           | WGA | Wagaya                 |                                                                                                                                                             |
-| wgg                 |           |           | WGG | Wangganguru            |                                                                                                                                                             |
-| wgi                 |           |           | WAK | Wahgi                  |                                                                                                                                                             |
-| wgo                 |           |           | WGO | Waigeo                 |                                                                                                                                                             |
-| wgw                 |           |           | WGW | Wagawaga               |                                                                                                                                                             |
-| wgy                 |           |           | WGY | Warrgamay              |                                                                                                                                                             |
-| wha                 |           |           | WHA | Manusela               |                                                                                                                                                             |
-| whg                 |           |           | WHG | North Wahgi            |                                                                                                                                                             |
-| whk                 |           |           | WHK | Wahau Kenyah           |                                                                                                                                                             |
-| whu                 |           |           | WHU | Wahau Kayan            |                                                                                                                                                             |
-| wib                 |           |           | WIB | Southern Toussian      |                                                                                                                                                             |
-| wic                 |           |           | WIC | Wichita                |                                                                                                                                                             |
-| wie                 |           |           | WIE | Wik-Epa                |                                                                                                                                                             |
-| wif                 |           |           | WIF | Wik-Keyangan           |                                                                                                                                                             |
-| wig                 |           |           | WIG | Wik-Ngathana           |                                                                                                                                                             |
-| wih                 |           |           | WIH | Wik-Me'anha            |                                                                                                                                                             |
-| wii                 |           |           | WII | Minidien               |                                                                                                                                                             |
-| wij                 |           |           | WIJ | Wik-Iiyanh             |                                                                                                                                                             |
-| wik                 |           |           | WIK | Wikalkan               |                                                                                                                                                             |
-| wil                 |           |           | WIL | Wilawila               |                                                                                                                                                             |
-| wim                 |           |           | WIM | Wik-Mungkan            |                                                                                                                                                             |
-| win                 |           |           | WIN | Ho-Chunk               |                                                                                                                                                             |
-| wir                 |           |           | WIR | Wiraféd                |                                                                                                                                                             |
-| wit                 |           |           | WIT | Wintu                  |                                                                                                                                                             |
-| wiu                 |           |           | WIU | Wiru                   |                                                                                                                                                             |
-| wiv                 |           |           | WIV | Muduapa                |                                                                                                                                                             |
-| wiw                 |           |           | WIW | Wirangu                |                                                                                                                                                             |
-| wiy                 |           |           | WIY | Wiyot                  |                                                                                                                                                             |
-| wja                 |           |           | WJA | Waja                   |                                                                                                                                                             |
-| wji                 |           |           | WJI | Warji                  |                                                                                                                                                             |
-| wka                 |           |           | WKA | Kw'adza                |                                                                                                                                                             |
-| wkb                 |           |           |     | Kumbaran               |                                                                                                                                                             |
-| wkd                 |           |           | WKD | Wakde                  |                                                                                                                                                             |
-| wkl                 |           |           |     | Kalanadi               |                                                                                                                                                             |
-| wku                 |           |           |     | Kunduvadi              |                                                                                                                                                             |
-| wkw                 |           |           | WKW | Wakawaka               |                                                                                                                                                             |
-| wla                 |           |           | WLA | Walio                  |                                                                                                                                                             |
-| wlc                 |           |           | WLV | Mwali Comorian         |                                                                                                                                                             |
-| wle                 |           |           |     | Wolane                 |                                                                                                                                                             |
-| wlg                 |           |           | WLG | Kunbarlang             |                                                                                                                                                             |
-| wli                 |           |           | WLI | Waioli                 |                                                                                                                                                             |
-| wlk                 |           |           | WLK | Wailaki                |                                                                                                                                                             |
-| wll                 |           |           | WLL | Wali (Sudan)           |                                                                                                                                                             |
-| wlm                 |           |           |     | Middle Welsh           | [中古威爾士語](https://zh.wikipedia.org/wiki/中古威爾士語 "wikilink")                                                                                                   |
-| wln                 | wln       | wa        | WLZ | Walloon                | [瓦龍語](https://zh.wikipedia.org/wiki/瓦龍語 "wikilink")、[瓦隆語](https://zh.wikipedia.org/wiki/瓦隆語 "wikilink")、[華隆語](https://zh.wikipedia.org/wiki/華隆語 "wikilink") |
-| wlo                 |           |           | WLO | Wolio                  |                                                                                                                                                             |
-| wlr                 |           |           | WLR | Wailapa                |                                                                                                                                                             |
-| wls                 |           |           | WAL | Wallisian              | [瓦利斯語](https://zh.wikipedia.org/wiki/瓦利斯語 "wikilink")                                                                                                       |
-| wlu                 |           |           | WLU | Wuliwuli               |                                                                                                                                                             |
-| wlv                 |           |           | MAD | Wichí Lhamtés Vejoz    |                                                                                                                                                             |
-| wlw                 |           |           | WLW | Walak                  |                                                                                                                                                             |
-| wlx                 |           |           | WLX | Wali (Ghana)           |                                                                                                                                                             |
-| wly                 |           |           | WLY | Waling                 |                                                                                                                                                             |
-| wma                 |           |           | WMA | Mawa (Nigeria)         |                                                                                                                                                             |
-| wmb                 |           |           | WMB | Wambaya                |                                                                                                                                                             |
-| wmc                 |           |           | WMC | Wamas                  |                                                                                                                                                             |
-| wmd                 |           |           |     | Mamaindé               |                                                                                                                                                             |
-| wme                 |           |           | TSU | Wambule                |                                                                                                                                                             |
-| wmh                 |           |           | WMH | Waima'a                |                                                                                                                                                             |
-| wmi                 |           |           | WMI | Wamin                  |                                                                                                                                                             |
-| wmm                 |           |           | WMM | Maiwa (Indonesia)      |                                                                                                                                                             |
-| wmn                 |           |           | WMN | Waamwang               |                                                                                                                                                             |
-| wmo                 |           |           | WMO | Wom (Papua New Guinea) |                                                                                                                                                             |
-| wms                 |           |           | WMS | Wambon                 |                                                                                                                                                             |
-| wmt                 |           |           | WMT | Walmajarri             |                                                                                                                                                             |
-| wmw                 |           |           | WMW | Mwani                  |                                                                                                                                                             |
-| wmx                 |           |           |     | Womo                   |                                                                                                                                                             |
-| wnb                 |           |           | WLN | Wanambre               |                                                                                                                                                             |
-| wnc                 |           |           | WNC | Wantoat                |                                                                                                                                                             |
-| wnd                 |           |           | WND | Wandarang              |                                                                                                                                                             |
-| wne                 |           |           | WNE | Waneci                 |                                                                                                                                                             |
-| wng                 |           |           | WNG | Wanggom                |                                                                                                                                                             |
-| wni                 |           |           | WNI | Ndzwani Comorian       |                                                                                                                                                             |
-| wnk                 |           |           | WNK | Wanukaka               |                                                                                                                                                             |
-| wnm                 |           |           | WNM | Wanggamala             |                                                                                                                                                             |
-| wno                 |           |           | WNO | Wano                   |                                                                                                                                                             |
-| wnp                 |           |           | WNP | Wanap                  |                                                                                                                                                             |
-| wnu                 |           |           | WNU | Usan                   |                                                                                                                                                             |
-| woa                 |           |           | WOA | Tyaraity               |                                                                                                                                                             |
-| wob                 |           |           | WOB | Wè Northern            |                                                                                                                                                             |
-| woc                 |           |           | WOC | Wogeo                  |                                                                                                                                                             |
-| wod                 |           |           | WOD | Wolani                 |                                                                                                                                                             |
-| woe                 |           |           | WOE | Woleaian               |                                                                                                                                                             |
-| wof                 |           |           | WOF | Gambian Wolof          |                                                                                                                                                             |
-| wog                 |           |           | WOG | Wogamusin              |                                                                                                                                                             |
-| woi                 |           |           | WOI | Kamang                 |                                                                                                                                                             |
-| wok                 |           |           | WOK | Longto                 |                                                                                                                                                             |
-| wol                 | wol       | wo        | WOL | Wolof                  | [沃洛夫語](https://zh.wikipedia.org/wiki/沃洛夫語 "wikilink")、[渥魯夫語](https://zh.wikipedia.org/wiki/渥魯夫語 "wikilink")                                                 |
-| wom                 |           |           | WOM | Wom (Nigeria)          |                                                                                                                                                             |
-| won                 |           |           | WON | Wongo                  |                                                                                                                                                             |
-| woo                 |           |           | WOO | Manombai               |                                                                                                                                                             |
-| wor                 |           |           | WOR | Woria                  |                                                                                                                                                             |
-| wos                 |           |           | WOS | Hanga Hundi            |                                                                                                                                                             |
-| wow                 |           |           | WOW | Wawonii                |                                                                                                                                                             |
-| woy                 |           |           | WOY | Weyto                  |                                                                                                                                                             |
-| wpc                 |           |           | WPC | Maco                   |                                                                                                                                                             |
-| wra                 |           |           | WRA | Warapu                 |                                                                                                                                                             |
-| wrb                 |           |           | WRB | Warluwara              |                                                                                                                                                             |
-| wrd                 |           |           | WRD | Warduji                |                                                                                                                                                             |
-| wre <sub>(rn)</sub> |           |           | WRE | Ware                   | 此語言不存在                                                                                                                                                      |
-| wrg                 |           |           | WRG | Warungu                |                                                                                                                                                             |
-| wrh                 |           |           | WRH | Wiradhuri              |                                                                                                                                                             |
-| wri                 |           |           | WRI | Wariyangga             |                                                                                                                                                             |
-| wrl                 |           |           | WRL | Warlmanpa              |                                                                                                                                                             |
-| wrm                 |           |           | WRM | Warumungu              |                                                                                                                                                             |
-| wrn                 |           |           | WRN | Warnang                |                                                                                                                                                             |
-| wrp                 |           |           | WRP | Waropen                |                                                                                                                                                             |
-| wrr                 |           |           | WRR | Wardaman               |                                                                                                                                                             |
-| wrs                 |           |           | WRS | Waris                  |                                                                                                                                                             |
-| wru                 |           |           | WRU | Waru                   |                                                                                                                                                             |
-| wrv                 |           |           | WRV | Waruna                 |                                                                                                                                                             |
-| wrw                 |           |           | WRW | Gugu Warra             |                                                                                                                                                             |
-| wrx                 |           |           | WRX | Wae Rana               |                                                                                                                                                             |
-| wry                 |           |           | XMR | Merwari                |                                                                                                                                                             |
-| wrz                 |           |           | WRZ | Waray (Australia)      |                                                                                                                                                             |
-| wsa                 |           |           | WSA | Warembori              |                                                                                                                                                             |
-| wsi                 |           |           | WSI | Wusi                   |                                                                                                                                                             |
-| wsk                 |           |           | WSK | Waskia                 |                                                                                                                                                             |
-| wsr                 |           |           | WSR | Owenia                 |                                                                                                                                                             |
-| wss                 |           |           | WSS | Wasa                   |                                                                                                                                                             |
-| wsu                 |           |           | WSU | Wasu                   |                                                                                                                                                             |
-| wsv                 |           |           | WSV | Wotapuri-Katarqalai    |                                                                                                                                                             |
-| wtf                 |           |           | WTF | Dumpu                  |                                                                                                                                                             |
-| wti                 |           |           | WTI | Berta                  |                                                                                                                                                             |
-| wtk                 |           |           | WTK | Watakataui             |                                                                                                                                                             |
-| wtm                 |           |           | XMK | Mewati                 |                                                                                                                                                             |
-| wtw                 |           |           | WTW | Wotu                   |                                                                                                                                                             |
-| wua                 |           |           | WUA | Wikngenchera           |                                                                                                                                                             |
-| wub                 |           |           | WUB | Wunambal               |                                                                                                                                                             |
-| wud                 |           |           | WUD | Wudu                   |                                                                                                                                                             |
-| wuh                 |           |           | WUH | Wutunhua               | [五屯話](https://zh.wikipedia.org/wiki/五屯話 "wikilink")                                                                                                         |
-| wul                 |           |           | WUL | Silimo                 |                                                                                                                                                             |
-| wum                 |           |           | WUM | Wumbvu                 |                                                                                                                                                             |
-| wun                 |           |           | WUN | Bungu                  |                                                                                                                                                             |
-| wur                 |           |           | WUR | Wurrugu                |                                                                                                                                                             |
-| wut                 |           |           | WUT | Wutung                 |                                                                                                                                                             |
-| wuu                 |           |           | WUU | Wu Chinese             | [吳語](https://zh.wikipedia.org/wiki/吳語 "wikilink")                                                                                                           |
-| wuv                 |           |           | WUV | Wuvulu-Aua             |                                                                                                                                                             |
-| wux                 |           |           | WUX | Wulna                  |                                                                                                                                                             |
-| wuy                 |           |           | WUY | Wauyai                 |                                                                                                                                                             |
-| wwa                 |           |           | WWA | Waama                  |                                                                                                                                                             |
-| wwo                 |           |           | WWO | Wetamut                |                                                                                                                                                             |
-| wwr                 |           |           | WWR | Warrwa                 |                                                                                                                                                             |
-| www                 |           |           | WWW | Wawa                   |                                                                                                                                                             |
-| wxa                 |           |           | WXA | Waxianghua             | [瓦鄉話](https://zh.wikipedia.org/wiki/瓦鄉話 "wikilink")                                                                                                         |
-| wya                 |           |           | WYA | Wyandot                |                                                                                                                                                             |
-| wyb                 |           |           | WYB | Wangaaybuwan-Ngiyambaa |                                                                                                                                                             |
-| wym                 |           |           |     | Wymysorys              |                                                                                                                                                             |
-| wyr                 |           |           | WYR | Wayoró                 |                                                                                                                                                             |
-| wyy                 |           |           | WYY | Western Fijian         | [西斐濟語](https://zh.wikipedia.org/wiki/西斐濟語 "wikilink")                                                                                                       |
+|- \![waa](https://zh.wikipedia.org/wiki/ISO_639:waa "wikilink")  | ||
+||I/L|| || ||Walla Walla|| || || || || |-
+\![wab](https://zh.wikipedia.org/wiki/ISO_639:wab "wikilink")  | ||
+||I/L|| || ||Wab|| || || || || |-
+\![wac](https://zh.wikipedia.org/wiki/ISO_639:wac "wikilink")  | ||
+||I/E|| || ||Wasco-Wishram|| || || || || |-
+\![wad](https://zh.wikipedia.org/wiki/ISO_639:wad "wikilink")  | ||
+||I/L|| || ||Wandamen|| || || || ||Wandamen |-
+\![wae](https://zh.wikipedia.org/wiki/ISO_639:wae "wikilink")  | ||
+||I/L|| || ||Walser|| || ||瓦尔瑟语|| || |-
+\![waf](https://zh.wikipedia.org/wiki/ISO_639:waf "wikilink")  | ||
+||I/E|| || ||Wakoná|| || || || || |-
+\![wag](https://zh.wikipedia.org/wiki/ISO_639:wag "wikilink")  | ||
+||I/L|| || ||Wa'ema|| || || || || |-
+\![wah](https://zh.wikipedia.org/wiki/ISO_639:wah "wikilink")  | ||
+||I/L|| || ||Watubela||watubela|| || || ||Watubela |-
+\![wai](https://zh.wikipedia.org/wiki/ISO_639:wai "wikilink")  | ||
+||I/L|| || ||Wares|| || || || || |-
+\![waj](https://zh.wikipedia.org/wiki/ISO_639:waj "wikilink")  | ||
+||I/L|| || ||Waffa|| || || || || |-
+\![wal](https://zh.wikipedia.org/wiki/ISO_639:wal "wikilink")  |
+||wal||I/L|| || ||Wolaitta||wolaitta|| ||瓦拉莫语||воламо|| |-
+\![wam](https://zh.wikipedia.org/wiki/ISO_639:wam "wikilink")  | ||
+||I/E|| || ||Wampanoag|| || || || || |-
+\![wan](https://zh.wikipedia.org/wiki/ISO_639:wan "wikilink")  | ||
+||I/L|| || ||Wan|| || || || || |-
+\![wao](https://zh.wikipedia.org/wiki/ISO_639:wao "wikilink")  | ||
+||I/E|| || ||Wappo|| || || || || |-
+\![wap](https://zh.wikipedia.org/wiki/ISO_639:wap "wikilink")  | ||
+||I/L|| || ||Wapishana|| || || || || |-
+\![waq](https://zh.wikipedia.org/wiki/ISO_639:waq "wikilink")  | ||
+||I/L|| || ||Wageman|| || || || || |-
+\![war](https://zh.wikipedia.org/wiki/ISO_639:war "wikilink")  |
+||war||I/L|| ||Winaray||Waray (Philippines)||waray||
+||瓦赖语||варай||Waray-Waray |-
+\![was](https://zh.wikipedia.org/wiki/ISO_639:was "wikilink")  |
+||was||I/L|| || ||Washo||washo||washo||瓦肖语||вашо||Washoe |-
+\![wat](https://zh.wikipedia.org/wiki/ISO_639:wat "wikilink")  | ||
+||I/L|| || ||Kaninuwa|| || || || || |-
+\![wau](https://zh.wikipedia.org/wiki/ISO_639:wau "wikilink")  | ||
+||I/L|| || ||Waurá|| || || || || |-
+\![wav](https://zh.wikipedia.org/wiki/ISO_639:wav "wikilink")  | ||
+||I/L|| || ||Waka|| || || || || |-
+\![waw](https://zh.wikipedia.org/wiki/ISO_639:waw "wikilink")  | ||
+||I/L|| || ||Waiwai||waiwai|| || || || |-
+\![wax](https://zh.wikipedia.org/wiki/ISO_639:wax "wikilink")  | ||
+||I/L|| || ||Watam|| || || || || |-
+\![way](https://zh.wikipedia.org/wiki/ISO_639:way "wikilink")  | ||
+||I/L|| || ||Wayana||wayana|| || || || |-
+\![waz](https://zh.wikipedia.org/wiki/ISO_639:waz "wikilink")  | ||
+||I/L|| || ||Wampur|| || || || || |-
+\![wba](https://zh.wikipedia.org/wiki/ISO_639:wba "wikilink")  | ||
+||I/L|| || ||Warao|| || || || || |-
+\![wbb](https://zh.wikipedia.org/wiki/ISO_639:wbb "wikilink")  | ||
+||I/L|| || ||Wabo|| || || || || |-
+\![wbe](https://zh.wikipedia.org/wiki/ISO_639:wbe "wikilink")  | ||
+||I/L|| || ||Waritai|| || || || || |-
+\![wbf](https://zh.wikipedia.org/wiki/ISO_639:wbf "wikilink")  | ||
+||I/L|| || ||Wara|| || || || || |-
+\![wbh](https://zh.wikipedia.org/wiki/ISO_639:wbh "wikilink")  | ||
+||I/L|| || ||Wanda|| || || || || |-
+\![wbi](https://zh.wikipedia.org/wiki/ISO_639:wbi "wikilink")  | ||
+||I/L|| || ||Wanji|| || || || || |-
+\![wbj](https://zh.wikipedia.org/wiki/ISO_639:wbj "wikilink")  | ||
+||I/L|| || ||Alagwa|| || || || || |-
+\![wbk](https://zh.wikipedia.org/wiki/ISO_639:wbk "wikilink")  | ||
+||I/L|| || ||Waigali|| || || || || |-
+\![wbl](https://zh.wikipedia.org/wiki/ISO_639:wbl "wikilink")  | ||
+||I/L|| || ||Wakhi|| || ||瓦罕语|| || |-
+\![wbm](https://zh.wikipedia.org/wiki/ISO_639:wbm "wikilink")  | ||
+||I/L|| || ||Wa|| || ||佤语|| || |-
+\![wbp](https://zh.wikipedia.org/wiki/ISO_639:wbp "wikilink")  | ||
+||I/L|| || ||Warlpiri|| || || || || |-
+\![wbq](https://zh.wikipedia.org/wiki/ISO_639:wbq "wikilink")  | ||
+||I/L|| || ||Waddar|| || || || || |-
+\![wbr](https://zh.wikipedia.org/wiki/ISO_639:wbr "wikilink")  | ||
+||I/L|| || ||Wagdi|| || || || || |-
+\![wbs](https://zh.wikipedia.org/wiki/ISO_639:wbs "wikilink")  | ||
+||I/L|| || ||West Bengal Sign Language|| || || || || |-
+\![wbt](https://zh.wikipedia.org/wiki/ISO_639:wbt "wikilink")  | ||
+||I/L|| || ||Wanman|| || || || || |-
+\![wbv](https://zh.wikipedia.org/wiki/ISO_639:wbv "wikilink")  | ||
+||I/L|| || ||Wajarri|| || || || || |-
+\![wbw](https://zh.wikipedia.org/wiki/ISO_639:wbw "wikilink")  | ||
+||I/L|| || ||Woi|| || || || || |-
+\![wca](https://zh.wikipedia.org/wiki/ISO_639:wca "wikilink")  | ||
+||I/L|| || ||Yanomámi|| || || || || |-
+\![wci](https://zh.wikipedia.org/wiki/ISO_639:wci "wikilink")  | ||
+||I/L|| || ||Gbe, Waci|| || || || || |-
+\![wdd](https://zh.wikipedia.org/wiki/ISO_639:wdd "wikilink")  | ||
+||I/L|| || ||Wandji|| || || || || |-
+\![wdg](https://zh.wikipedia.org/wiki/ISO_639:wdg "wikilink")  | ||
+||I/L|| || ||Wadaginam|| || || || || |-
+\![wdj](https://zh.wikipedia.org/wiki/ISO_639:wdj "wikilink")  | ||
+||I/L|| || ||Wadjiginy|| || || || || |-
+\![wdk](https://zh.wikipedia.org/wiki/ISO_639:wdk "wikilink")  | ||
+||I/E|| || ||Wadikali|| || || || || |-
+\![wdu](https://zh.wikipedia.org/wiki/ISO_639:wdu "wikilink")  | ||
+||I/E|| || ||Wadjigu|| || || || || |-
+\![wdy](https://zh.wikipedia.org/wiki/ISO_639:wdy "wikilink")  | ||
+||I/E|| || ||Wadjabangayi|| || || || || |-
+\![wea](https://zh.wikipedia.org/wiki/ISO_639:wea "wikilink")  | ||
+||I/E|| || ||Wewaw|| || || || || |-
+\![wec](https://zh.wikipedia.org/wiki/ISO_639:wec "wikilink")  | ||
+||I/L|| || ||Wè Western|| || || || || |-
+\![wed](https://zh.wikipedia.org/wiki/ISO_639:wed "wikilink")  | ||
+||I/L|| || ||Wedau|| || || || || |-
+\![weg](https://zh.wikipedia.org/wiki/ISO_639:weg "wikilink")  | ||
+||I/L|| || ||Wergaia|| || || || || |-
+\![weh](https://zh.wikipedia.org/wiki/ISO_639:weh "wikilink")  | ||
+||I/L|| || ||Weh|| || || || || |-
+\![wei](https://zh.wikipedia.org/wiki/ISO_639:wei "wikilink")  | ||
+||I/L|| || ||Were|| || || || || |-
+\![wem](https://zh.wikipedia.org/wiki/ISO_639:wem "wikilink")  | ||
+||I/L|| || ||Gbe, Weme|| || || || || |-
+\![weo](https://zh.wikipedia.org/wiki/ISO_639:weo "wikilink")  | ||
+||I/L|| || ||Wemale, North|| || || || || |-
+\![wep](https://zh.wikipedia.org/wiki/ISO_639:wep "wikilink")  | ||
+||I/L|| || ||Westphalien|| || ||斯特法伦语|| || |-
+\![wer](https://zh.wikipedia.org/wiki/ISO_639:wer "wikilink")  | ||
+||I/L|| || ||Weri|| || || || || |-
+\![wes](https://zh.wikipedia.org/wiki/ISO_639:wes "wikilink")  | ||
+||I/L|| || ||Pidgin, Cameroon|| || || || || |-
+\![wet](https://zh.wikipedia.org/wiki/ISO_639:wet "wikilink")  | ||
+||I/L|| || ||Perai|| || || || || |-
+\![weu](https://zh.wikipedia.org/wiki/ISO_639:weu "wikilink")  | ||
+||I/L|| || ||Welaung|| || || || || |-
+\![wew](https://zh.wikipedia.org/wiki/ISO_639:wew "wikilink")  | ||
+||I/L|| || ||Wejewa|| || || || ||Wejewa |-
+\![wfg](https://zh.wikipedia.org/wiki/ISO_639:wfg "wikilink")  | ||
+||I/L|| || ||Yafi|| || || || || |-
+\![wga](https://zh.wikipedia.org/wiki/ISO_639:wga "wikilink")  | ||
+||I/E|| || ||Wagaya|| || || || || |-
+\![wgb](https://zh.wikipedia.org/wiki/ISO_639:wgb "wikilink")  | ||
+||I/L|| || ||Wagawaga|| || || || || |-
+\![wgg](https://zh.wikipedia.org/wiki/ISO_639:wgg "wikilink")  | ||
+||I/E|| || ||Wangganguru|| || || || || |-
+\![wgi](https://zh.wikipedia.org/wiki/ISO_639:wgi "wikilink")  | ||
+||I/L|| || ||Wahgi|| || || || || |-
+\![wgo](https://zh.wikipedia.org/wiki/ISO_639:wgo "wikilink")  | ||
+||I/L|| || ||Waigeo|| || || || || |-
+\![wgu](https://zh.wikipedia.org/wiki/ISO_639:wgu "wikilink")  | ||
+||I/E|| || ||Wirangu|| || || || || |-
+\!([wgw](https://zh.wikipedia.org/wiki/ISO_639:wgw "wikilink"))  | ||
+||I/L|| || ||Wagawaga|| || || || || |-
+\![wgy](https://zh.wikipedia.org/wiki/ISO_639:wgy "wikilink")  | ||
+||I/L|| || ||Warrgamay|| || || || || |-
+\![wha](https://zh.wikipedia.org/wiki/ISO_639:wha "wikilink")  | ||
+||I/L|| || ||Manusela|| || || || || |-
+\![whg](https://zh.wikipedia.org/wiki/ISO_639:whg "wikilink")  | ||
+||I/L|| || ||Wahgi, North|| || || || || |-
+\![whk](https://zh.wikipedia.org/wiki/ISO_639:whk "wikilink")  | ||
+||I/L|| || ||Kenyah, Wahau|| || || || || |-
+\![whu](https://zh.wikipedia.org/wiki/ISO_639:whu "wikilink")  | ||
+||I/L|| || ||Kayan, Wahau|| || || || || |-
+\![wib](https://zh.wikipedia.org/wiki/ISO_639:wib "wikilink")  | ||
+||I/L|| || ||Toussian, Southern|| || || || || |-
+\![wic](https://zh.wikipedia.org/wiki/ISO_639:wic "wikilink")  | ||
+||I/E|| || ||Wichita||wichita||wichita|| || || |-
+\![wie](https://zh.wikipedia.org/wiki/ISO_639:wie "wikilink")  | ||
+||I/E|| || ||Wik-Epa|| || || || || |-
+\![wif](https://zh.wikipedia.org/wiki/ISO_639:wif "wikilink")  | ||
+||I/E|| || ||Wik-Keyangan|| || || || || |-
+\![wig](https://zh.wikipedia.org/wiki/ISO_639:wig "wikilink")  | ||
+||I/L|| || ||Wik-Ngathana|| || || || || |-
+\![wih](https://zh.wikipedia.org/wiki/ISO_639:wih "wikilink")  | ||
+||I/L|| || ||Wik-Me'anha|| || || || || |-
+\![wii](https://zh.wikipedia.org/wiki/ISO_639:wii "wikilink")  | ||
+||I/L|| || ||Wiaki|| || || || || |-
+\![wij](https://zh.wikipedia.org/wiki/ISO_639:wij "wikilink")  | ||
+||I/L|| || ||Wik-Iiyanh|| || || || || |-
+\![wik](https://zh.wikipedia.org/wiki/ISO_639:wik "wikilink")  | ||
+||I/L|| || ||Wikalkan|| || || || || |-
+\![wil](https://zh.wikipedia.org/wiki/ISO_639:wil "wikilink")  | ||
+||I/E|| || ||Wilawila|| || || || || |-
+\![wim](https://zh.wikipedia.org/wiki/ISO_639:wim "wikilink")  | ||
+||I/L|| || ||Wik-Mungkan|| || || || || |-
+\![win](https://zh.wikipedia.org/wiki/ISO_639:win "wikilink")  | ||
+||I/L|| || ||Ho-Chunk|| || || || || |-
+\![wir](https://zh.wikipedia.org/wiki/ISO_639:wir "wikilink")  | ||
+||I/E|| || ||Wiraféd||wiraféd|| || || || |-
+\!([wit](https://zh.wikipedia.org/wiki/ISO_639:wit "wikilink"))  | ||
+||I/L|| || ||Wintu|| || || || || |-
+\![wiu](https://zh.wikipedia.org/wiki/ISO_639:wiu "wikilink")  | ||
+||I/L|| || ||Wiru|| || || || || |-
+\![wiv](https://zh.wikipedia.org/wiki/ISO_639:wiv "wikilink")  | ||
+||I/L|| || ||Muduapa|| || || || ||Muduapa |-
+\!([wiw](https://zh.wikipedia.org/wiki/ISO_639:wiw "wikilink"))  | ||
+||I/L|| || ||Wirangu|| || || || || |-
+\![wiy](https://zh.wikipedia.org/wiki/ISO_639:wiy "wikilink")  | ||
+||I/E|| ||Wiyot||Wiyot||wiyot||wiyot|| || || |-
+\![wja](https://zh.wikipedia.org/wiki/ISO_639:wja "wikilink")  | ||
+||I/L|| || ||Waja|| || || || || |-
+\![wji](https://zh.wikipedia.org/wiki/ISO_639:wji "wikilink")  | ||
+||I/L|| || ||Warji|| || || || || |-
+\![wka](https://zh.wikipedia.org/wiki/ISO_639:wka "wikilink")  | ||
+||I/E|| || ||Kw'adza|| || || || || |-
+\![wkb](https://zh.wikipedia.org/wiki/ISO_639:wkb "wikilink")  | ||
+||I/L|| || ||Kumbaran|| || || || || |-
+\![wkd](https://zh.wikipedia.org/wiki/ISO_639:wkd "wikilink")  | ||
+||I/L|| || ||Wakde|| || || || || |-
+\![wkl](https://zh.wikipedia.org/wiki/ISO_639:wkl "wikilink")  | ||
+||I/L|| || ||Kalanadi|| || || || || |-
+\![wkr](https://zh.wikipedia.org/wiki/ISO_639:wkr "wikilink")  | ||
+||I/L||Pama–Nyungan|| ||Keerray-Woorroong|| || || || || |-
+\![wku](https://zh.wikipedia.org/wiki/ISO_639:wku "wikilink")  | ||
+||I/L|| || ||Kunduvadi|| || || || || |-
+\![wkw](https://zh.wikipedia.org/wiki/ISO_639:wkw "wikilink")  | ||
+||I/E|| || ||Wakawaka|| || || || || |-
+\![wky](https://zh.wikipedia.org/wiki/ISO_639:wky "wikilink")  | ||
+||I/E|| || ||Wangkayutyuru|| || || || || |-
+\![wla](https://zh.wikipedia.org/wiki/ISO_639:wla "wikilink")  | ||
+||I/L|| || ||Walio|| || || || || |-
+\![wlc](https://zh.wikipedia.org/wiki/ISO_639:wlc "wikilink")  | ||
+||I/L|| || ||Comorian, Mwali|| || || || || |-
+\![wle](https://zh.wikipedia.org/wiki/ISO_639:wle "wikilink")  | ||
+||I/L|| || ||Wolane|| || || || || |-
+\![wlg](https://zh.wikipedia.org/wiki/ISO_639:wlg "wikilink")  | ||
+||I/L|| || ||Kunbarlang|| || || || || |-
+\![wli](https://zh.wikipedia.org/wiki/ISO_639:wli "wikilink")  | ||
+||I/L|| || ||Waioli|| || || || || |-
+\![wlk](https://zh.wikipedia.org/wiki/ISO_639:wlk "wikilink")  | ||
+||I/E|| || ||Wailaki|| || || || || |-
+\![wll](https://zh.wikipedia.org/wiki/ISO_639:wll "wikilink")  | ||
+||I/L|| || ||Wali (Sudan)|| || || || || |-
+\![wlm](https://zh.wikipedia.org/wiki/ISO_639:wlm "wikilink")  | ||
+||I/H|| || ||Welsh, Middle|| || ||中古威尔士语|| || |-
+\![wln](https://zh.wikipedia.org/wiki/ISO_639:wln "wikilink")
+|wa||wln||I/L||Indo-European||walon||Walloon||wallon|| ||瓦龙语; 瓦隆语;
+华隆语||валлонский||Wallonisch |-
+\![wlo](https://zh.wikipedia.org/wiki/ISO_639:wlo "wikilink")  | ||
+||I/L|| || ||Wolio|| || || || ||Wolio |-
+\![wlr](https://zh.wikipedia.org/wiki/ISO_639:wlr "wikilink")  | ||
+||I/L|| || ||Wailapa|| || || || || |-
+\![wls](https://zh.wikipedia.org/wiki/ISO_639:wls "wikilink")  | ||
+||I/L|| || ||Wallisian|| || ||瓦利斯语|| || |-
+\![wlu](https://zh.wikipedia.org/wiki/ISO_639:wlu "wikilink")  | ||
+||I/E|| || ||Wuliwuli|| || || || || |-
+\![wlv](https://zh.wikipedia.org/wiki/ISO_639:wlv "wikilink")  | ||
+||I/L|| || ||Wichí Lhamtés Vejoz|| || || || || |-
+\![wlw](https://zh.wikipedia.org/wiki/ISO_639:wlw "wikilink")  | ||
+||I/L|| || ||Walak|| || || || || |-
+\![wlx](https://zh.wikipedia.org/wiki/ISO_639:wlx "wikilink")  | ||
+||I/L|| || ||Wali (Ghana)|| || || || || |-
+\![wly](https://zh.wikipedia.org/wiki/ISO_639:wly "wikilink")  | ||
+||I/E|| || ||Waling|| || || || || |-
+\![wma](https://zh.wikipedia.org/wiki/ISO_639:wma "wikilink")  | ||
+||I/E|| || ||Mawa (Nigeria)|| || || || || |-
+\![wmb](https://zh.wikipedia.org/wiki/ISO_639:wmb "wikilink")  | ||
+||I/L|| || ||Wambaya|| || || || || |-
+\![wmc](https://zh.wikipedia.org/wiki/ISO_639:wmc "wikilink")  | ||
+||I/L|| || ||Wamas|| || || || || |-
+\![wmd](https://zh.wikipedia.org/wiki/ISO_639:wmd "wikilink")  | ||
+||I/L|| || ||Mamaindé|| || || || || |-
+\![wme](https://zh.wikipedia.org/wiki/ISO_639:wme "wikilink")  | ||
+||I/L|| || ||Wambule|| || || || || |-
+\![wmh](https://zh.wikipedia.org/wiki/ISO_639:wmh "wikilink")  | ||
+||I/L|| || ||Waima'a|| || || || || |-
+\![wmi](https://zh.wikipedia.org/wiki/ISO_639:wmi "wikilink")  | ||
+||I/E|| || ||Wamin|| || || || || |-
+\![wmm](https://zh.wikipedia.org/wiki/ISO_639:wmm "wikilink")  | ||
+||I/L|| || ||Maiwa (Indonesia)|| || || || || |-
+\![wmn](https://zh.wikipedia.org/wiki/ISO_639:wmn "wikilink")  | ||
+||I/E|| || ||Waamwang|| || || || || |-
+\![wmo](https://zh.wikipedia.org/wiki/ISO_639:wmo "wikilink")  | ||
+||I/L|| || ||Wom (Papua New Guinea)|| || || || || |-
+\![wms](https://zh.wikipedia.org/wiki/ISO_639:wms "wikilink")  | ||
+||I/L|| || ||Wambon|| || || || || |-
+\![wmt](https://zh.wikipedia.org/wiki/ISO_639:wmt "wikilink")  | ||
+||I/L|| || ||Walmajarri|| || || || || |-
+\![wmw](https://zh.wikipedia.org/wiki/ISO_639:wmw "wikilink")  | ||
+||I/L|| || ||Mwani|| || || || || |-
+\![wmx](https://zh.wikipedia.org/wiki/ISO_639:wmx "wikilink")  | ||
+||I/L|| || ||Womo|| || || || || |-
+\![wnb](https://zh.wikipedia.org/wiki/ISO_639:wnb "wikilink")  | ||
+||I/L|| || ||Wanambre|| || || || || |-
+\![wnc](https://zh.wikipedia.org/wiki/ISO_639:wnc "wikilink")  | ||
+||I/L|| || ||Wantoat|| || || || || |-
+\![wnd](https://zh.wikipedia.org/wiki/ISO_639:wnd "wikilink")  | ||
+||I/E|| || ||Wandarang|| || || || || |-
+\![wne](https://zh.wikipedia.org/wiki/ISO_639:wne "wikilink")  | ||
+||I/L|| || ||Waneci|| || || || || |-
+\![wng](https://zh.wikipedia.org/wiki/ISO_639:wng "wikilink")  | ||
+||I/L|| || ||Wanggom|| || || || || |-
+\![wni](https://zh.wikipedia.org/wiki/ISO_639:wni "wikilink")  | ||
+||I/L|| || ||Comorian, Ndzwani|| || || || || |-
+\![wnk](https://zh.wikipedia.org/wiki/ISO_639:wnk "wikilink")  | ||
+||I/L|| || ||Wanukaka||wanukaka|| || || ||Wanukaka |-
+\![wnm](https://zh.wikipedia.org/wiki/ISO_639:wnm "wikilink")  | ||
+||I/E|| || ||Wanggamala|| || || || || |-
+\![wnn](https://zh.wikipedia.org/wiki/ISO_639:wnn "wikilink")  | ||
+||I/E|| || ||Wunumara|| || || || || |-
+\![wno](https://zh.wikipedia.org/wiki/ISO_639:wno "wikilink")  | ||
+||I/L|| || ||Wano|| || || || || |-
+\![wnp](https://zh.wikipedia.org/wiki/ISO_639:wnp "wikilink")  | ||
+||I/L|| || ||Wanap|| || || || || |-
+\![wnu](https://zh.wikipedia.org/wiki/ISO_639:wnu "wikilink")  | ||
+||I/L|| || ||Usan|| || || || || |-
+\![wnw](https://zh.wikipedia.org/wiki/ISO_639:wnw "wikilink")  | ||
+||I/L|| || ||Wintu|| || || || || |-
+\![wny](https://zh.wikipedia.org/wiki/ISO_639:wny "wikilink")  | ||
+||I/L|| || ||Wanyi|| || || || || |-
+\![woa](https://zh.wikipedia.org/wiki/ISO_639:woa "wikilink")  | ||
+||I/L|| || ||Tyaraity|| || || || || |-
+\![wob](https://zh.wikipedia.org/wiki/ISO_639:wob "wikilink")  | ||
+||I/L|| || ||Wè Northern|| || || || || |-
+\![woc](https://zh.wikipedia.org/wiki/ISO_639:woc "wikilink")  | ||
+||I/L|| || ||Wogeo|| || || || ||Wogeo |-
+\![wod](https://zh.wikipedia.org/wiki/ISO_639:wod "wikilink")  | ||
+||I/L|| || ||Wolani|| || || || || |-
+\![woe](https://zh.wikipedia.org/wiki/ISO_639:woe "wikilink")  | ||
+||I/L|| || ||Woleaian|| || || || || |-
+\![wof](https://zh.wikipedia.org/wiki/ISO_639:wof "wikilink")  | ||
+||I/L|| || ||Wolof, Gambian|| || || || || |-
+\![wog](https://zh.wikipedia.org/wiki/ISO_639:wog "wikilink")  | ||
+||I/L|| || ||Wogamusin|| || || || || |-
+\![woi](https://zh.wikipedia.org/wiki/ISO_639:woi "wikilink")  | ||
+||I/L|| || ||Kamang|| || || || || |-
+\![wok](https://zh.wikipedia.org/wiki/ISO_639:wok "wikilink")  | ||
+||I/L|| || ||Longto|| || || || || |-
+\![wol](https://zh.wikipedia.org/wiki/ISO_639:wol "wikilink")
+|wo||wol||I/L||Niger–Congo||Wolof||Wolof||wolof||volofo||沃洛夫语;
+渥鲁夫语||волоф||Wolof |-
+\![wom](https://zh.wikipedia.org/wiki/ISO_639:wom "wikilink")  | ||
+||I/L|| || ||Wom (Nigeria)|| || || || || |-
+\![won](https://zh.wikipedia.org/wiki/ISO_639:won "wikilink")  | ||
+||I/L|| || ||Wongo|| || || || || |-
+\![woo](https://zh.wikipedia.org/wiki/ISO_639:woo "wikilink")  | ||
+||I/L|| || ||Manombai|| || || || || |-
+\![wor](https://zh.wikipedia.org/wiki/ISO_639:wor "wikilink")  | ||
+||I/L|| || ||Woria|| || || || || |-
+\![wos](https://zh.wikipedia.org/wiki/ISO_639:wos "wikilink")  | ||
+||I/L|| || ||Hanga Hundi|| || || || || |-
+\![wow](https://zh.wikipedia.org/wiki/ISO_639:wow "wikilink")  | ||
+||I/L|| || ||Wawonii|| || || || || |-
+\![woy](https://zh.wikipedia.org/wiki/ISO_639:woy "wikilink")  | ||
+||I/E|| || ||Weyto|| || || || || |-
+\![wpc](https://zh.wikipedia.org/wiki/ISO_639:wpc "wikilink")  | ||
+||I/L|| || ||Maco|| || || || || |-
+\![wra](https://zh.wikipedia.org/wiki/ISO_639:wra "wikilink")  | ||
+||I/L|| || ||Warapu|| || || || || |-
+\![wrb](https://zh.wikipedia.org/wiki/ISO_639:wrb "wikilink")  | ||
+||I/E|| || ||Warluwara|| || || || || |-
+\![wrd](https://zh.wikipedia.org/wiki/ISO_639:wrd "wikilink")  | ||
+||I/L|| || ||Warduji|| || || || || |-
+\!([wre](https://zh.wikipedia.org/wiki/ISO_639:wre "wikilink"))  | || ||
+|| || ||Ware|| || || || || |-
+\![wrg](https://zh.wikipedia.org/wiki/ISO_639:wrg "wikilink")  | ||
+||I/E|| || ||Warungu|| || || || || |-
+\![wrh](https://zh.wikipedia.org/wiki/ISO_639:wrh "wikilink")  | ||
+||I/E|| || ||Wiradhuri|| || || || || |-
+\![wri](https://zh.wikipedia.org/wiki/ISO_639:wri "wikilink")  | ||
+||I/E|| || ||Wariyangga|| || || || || |-
+\![wrk](https://zh.wikipedia.org/wiki/ISO_639:wrk "wikilink")  | ||
+||I/L|| || ||Garrwa|| || || || || |-
+\![wrl](https://zh.wikipedia.org/wiki/ISO_639:wrl "wikilink")  | ||
+||I/L|| || ||Warlmanpa|| || || || || |-
+\![wrm](https://zh.wikipedia.org/wiki/ISO_639:wrm "wikilink")  | ||
+||I/L|| || ||Warumungu|| || || || || |-
+\![wrn](https://zh.wikipedia.org/wiki/ISO_639:wrn "wikilink")  | ||
+||I/L|| || ||Warnang|| || || || || |-
+\![wro](https://zh.wikipedia.org/wiki/ISO_639:wro "wikilink")  | ||
+||I/E|| || ||Worrorra|| || || || || |-
+\![wrp](https://zh.wikipedia.org/wiki/ISO_639:wrp "wikilink")  | ||
+||I/L|| || ||Waropen|| || || || ||Waropen |-
+\![wrr](https://zh.wikipedia.org/wiki/ISO_639:wrr "wikilink")  | ||
+||I/L|| || ||Wardaman|| || || || || |-
+\![wrs](https://zh.wikipedia.org/wiki/ISO_639:wrs "wikilink")  | ||
+||I/L|| || ||Waris|| || || || || |-
+\![wru](https://zh.wikipedia.org/wiki/ISO_639:wru "wikilink")  | ||
+||I/L|| || ||Waru|| || || || || |-
+\![wrv](https://zh.wikipedia.org/wiki/ISO_639:wrv "wikilink")  | ||
+||I/L|| || ||Waruna|| || || || || |-
+\![wrw](https://zh.wikipedia.org/wiki/ISO_639:wrw "wikilink")  | ||
+||I/E|| || ||Gugu Warra|| || || || || |-
+\![wrx](https://zh.wikipedia.org/wiki/ISO_639:wrx "wikilink")  | ||
+||I/L|| || ||Wae Rana|| || || || || |-
+\![wry](https://zh.wikipedia.org/wiki/ISO_639:wry "wikilink")  | ||
+||I/L|| || ||Merwari|| || || || || |-
+\![wrz](https://zh.wikipedia.org/wiki/ISO_639:wrz "wikilink")  | ||
+||I/E|| || ||Waray (Australia)|| || || || || |-
+\![wsa](https://zh.wikipedia.org/wiki/ISO_639:wsa "wikilink")  | ||
+||I/L|| || ||Warembori|| || || || || |-
+\![wsg](https://zh.wikipedia.org/wiki/ISO_639:wsg "wikilink")  | ||
+||I/L||Dravidian|| ||Adilabad Gondi|| || || || || |-
+\![wsi](https://zh.wikipedia.org/wiki/ISO_639:wsi "wikilink")  | ||
+||I/L|| || ||Wusi|| || || || || |-
+\![wsk](https://zh.wikipedia.org/wiki/ISO_639:wsk "wikilink")  | ||
+||I/L|| || ||Waskia|| || || || || |-
+\![wsr](https://zh.wikipedia.org/wiki/ISO_639:wsr "wikilink")  | ||
+||I/L|| || ||Owenia|| || || || || |-
+\![wss](https://zh.wikipedia.org/wiki/ISO_639:wss "wikilink")  | ||
+||I/L|| || ||Wasa|| || || || || |-
+\![wsu](https://zh.wikipedia.org/wiki/ISO_639:wsu "wikilink")  | ||
+||I/E|| || ||Wasu|| || || || || |-
+\![wsv](https://zh.wikipedia.org/wiki/ISO_639:wsv "wikilink")  | ||
+||I/E|| || ||Wotapuri-Katarqalai|| || || || || |-
+\![wtf](https://zh.wikipedia.org/wiki/ISO_639:wtf "wikilink")  | ||
+||I/L|| || ||Dumpu|| || || || || |-
+\![wth](https://zh.wikipedia.org/wiki/ISO_639:wth "wikilink")  | ||
+||I/E|| || ||Wathawurrung|| || || || || |-
+\![wti](https://zh.wikipedia.org/wiki/ISO_639:wti "wikilink")  | ||
+||I/L|| || ||Berta|| || || || ||Berta |-
+\![wtk](https://zh.wikipedia.org/wiki/ISO_639:wtk "wikilink")  | ||
+||I/L|| || ||Watakataui|| || || || || |-
+\![wtm](https://zh.wikipedia.org/wiki/ISO_639:wtm "wikilink")  | ||
+||I/L|| || ||Mewati|| || || || || |-
+\![wtw](https://zh.wikipedia.org/wiki/ISO_639:wtw "wikilink")  | ||
+||I/L|| || ||Wotu|| || || || || |-
+\![wua](https://zh.wikipedia.org/wiki/ISO_639:wua "wikilink")  | ||
+||I/L|| || ||Wikngenchera|| || || || || |-
+\![wub](https://zh.wikipedia.org/wiki/ISO_639:wub "wikilink")  | ||
+||I/L|| || ||Wunambal|| || || || || |-
+\![wud](https://zh.wikipedia.org/wiki/ISO_639:wud "wikilink")  | ||
+||I/L|| || ||Wudu|| || || || || |-
+\![wuh](https://zh.wikipedia.org/wiki/ISO_639:wuh "wikilink")  | ||
+||I/L|| || ||Wutunhua|| || ||五屯话|| || |-
+\![wul](https://zh.wikipedia.org/wiki/ISO_639:wul "wikilink")  | ||
+||I/L|| || ||Silimo|| || || || || |-
+\![wum](https://zh.wikipedia.org/wiki/ISO_639:wum "wikilink")  | ||
+||I/L|| || ||Wumbvu|| || || || || |-
+\![wun](https://zh.wikipedia.org/wiki/ISO_639:wun "wikilink")  | ||
+||I/L|| || ||Bungu|| || || || || |-
+\![wur](https://zh.wikipedia.org/wiki/ISO_639:wur "wikilink")  | ||
+||I/E|| || ||Wurrugu|| || || || || |-
+\![wut](https://zh.wikipedia.org/wiki/ISO_639:wut "wikilink")  | ||
+||I/L|| || ||Wutung|| || || || || |-
+\![wuu](https://zh.wikipedia.org/wiki/ISO_639:wuu "wikilink")  | ||
+||I/L||Chinese||[吴语](https://zh.wikipedia.org/wiki/:wuu:吴语 "wikilink")||Wu
+Chinese|| || ||[吳語](https://zh.wikipedia.org/wiki/:吴语 "wikilink")|| ||
+|- \![wuv](https://zh.wikipedia.org/wiki/ISO_639:wuv "wikilink")  | ||
+||I/L|| || ||Wuvulu-Aua|| || || || ||Wuvulu |-
+\![wux](https://zh.wikipedia.org/wiki/ISO_639:wux "wikilink")  | ||
+||I/L|| || ||Wulna|| || || || || |-
+\![wuy](https://zh.wikipedia.org/wiki/ISO_639:wuy "wikilink")  | ||
+||I/L|| || ||Wauyai|| || || || || |-
+\![wwa](https://zh.wikipedia.org/wiki/ISO_639:wwa "wikilink")  | ||
+||I/L|| || ||Waama|| || || || || |-
+\![wwb](https://zh.wikipedia.org/wiki/ISO_639:wwb "wikilink")  | ||
+||I/E|| || ||Wakabunga|| || || || || |-
+\![wwo](https://zh.wikipedia.org/wiki/ISO_639:wwo "wikilink")  | ||
+||I/L|| || ||Wetamut|| || || || || |-
+\![wwr](https://zh.wikipedia.org/wiki/ISO_639:wwr "wikilink")  | ||
+||I/E|| || ||Warrwa|| || || || || |-
+\![www](https://zh.wikipedia.org/wiki/ISO_639:www "wikilink")  | ||
+||I/L|| || ||Wawa|| || || || || |-
+\![wxa](https://zh.wikipedia.org/wiki/ISO_639:wxa "wikilink")  | ||
+||I/L|| || ||Waxianghua|| || ||瓦乡话|| || |-
+\![wxw](https://zh.wikipedia.org/wiki/ISO_639:wxw "wikilink")  | ||
+||I/E|| || ||Wardandi|| || || || || |-
+\![wya](https://zh.wikipedia.org/wiki/ISO_639:wya "wikilink")  | ||
+||I/L|| || ||Wyandot||wyandot||wyandot|| || || |-
+\![wyb](https://zh.wikipedia.org/wiki/ISO_639:wyb "wikilink")  | ||
+||I/L|| || ||Wangaaybuwan-Ngiyambaa|| || || || || |-
+\![wyi](https://zh.wikipedia.org/wiki/ISO_639:wyi "wikilink")  | ||
+||I/E|| || ||Woiwurrung|| || || || || |-
+\![wym](https://zh.wikipedia.org/wiki/ISO_639:wym "wikilink")  | ||
+||I/L|| ||Wymysiöeryś||Wymysorys|| || || || || |-
+\![wyr](https://zh.wikipedia.org/wiki/ISO_639:wyr "wikilink")  | ||
+||I/L|| || ||Wayoró|| ||wayoró|| || || |-
+\![wyy](https://zh.wikipedia.org/wiki/ISO_639:wyy "wikilink")  | ||
+||I/L|| || ||Fijian, Western|| || ||西斐济语|| || |}
 
 [Category:ISO_639](https://zh.wikipedia.org/wiki/Category:ISO_639 "wikilink")
-[Category:语言列表](https://zh.wikipedia.org/wiki/Category:语言列表 "wikilink")

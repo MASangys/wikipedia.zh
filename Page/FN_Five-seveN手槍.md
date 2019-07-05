@@ -225,7 +225,7 @@ Carbine](../Page/.30卡賓槍彈.md "wikilink")\]\]
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/義大利陸軍" title="wikilink">義大利陸軍</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/意大利陸軍" title="wikilink">意大利陸軍</a></p></td>
 <td><p><em>USG</em></p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>

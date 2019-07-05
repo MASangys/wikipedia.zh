@@ -871,7 +871,7 @@ NBA赛季篮板王称号时已有](https://zh.wikipedia.org/wiki/1997-98_NBA赛�
 <td><p><a href="https://zh.wikipedia.org/wiki/2016-17_NBA赛季" title="wikilink">2016-2017</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/哈桑·懷塞德" title="wikilink">哈桑·懷塞德</a>^</p></td>
 <td><p>C</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Miami_Heat" title="wikilink">Miami Heat</a></p></td>
+<td><p><a href="../Page/迈阿密热火.md" title="wikilink">迈阿密热火</a></p></td>
 <td><p>77</p></td>
 <td><p>293</p></td>
 <td><p>795</p></td>
@@ -881,8 +881,8 @@ NBA赛季篮板王称号时已有](https://zh.wikipedia.org/wiki/1997-98_NBA赛�
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/2017-18_NBA赛季" title="wikilink">2017-2018</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/安德烈·德拉蒙德" title="wikilink">安德烈·德拉蒙德</a>^ (2)</p></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/安德烈·德拉蒙德" title="wikilink">安德烈·德拉蒙德</a>^（2）</p></td>
+<td><p>C</p></td>
 <td><p><a href="../Page/底特律活塞.md" title="wikilink">底特律活塞</a></p></td>
 <td><p>78</p></td>
 <td><p>399</p></td>
@@ -893,15 +893,15 @@ NBA赛季篮板王称号时已有](https://zh.wikipedia.org/wiki/1997-98_NBA赛�
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/2018-19_NBA賽季" title="wikilink">2018-2019</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/安德烈·德拉蒙德" title="wikilink">安德烈·德拉蒙德</a>^ (3)</p></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/安德烈·德拉蒙德" title="wikilink">安德烈·德拉蒙德</a>^（3）</p></td>
+<td><p>C</p></td>
 <td><p><a href="../Page/底特律活塞.md" title="wikilink">底特律活塞</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>79</p></td>
+<td><p>423</p></td>
+<td><p>809</p></td>
+<td><p>1,232</p></td>
+<td><p>15.59</p></td>
+<td><p>[203]</p></td>
 </tr>
 </tbody>
 </table>
@@ -1292,3 +1292,5 @@ NBA赛季篮板王称号时已有](https://zh.wikipedia.org/wiki/1997-98_NBA赛�
 201.
 
 202.
+
+203.

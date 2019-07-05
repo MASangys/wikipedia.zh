@@ -6,8 +6,7 @@
 
 ## 演員
 
-  - 緒方 聰子（おがた さとこ）-
-    [天海祐希](https://zh.wikipedia.org/wiki/天海祐希 "wikilink")
+  - 緒方 聰子（おがた さとこ）- [天海祐希](../Page/天海祐希.md "wikilink")
   - 岡村 恵太朗（おかむら けいたろう）- [藤木直人](../Page/藤木直人.md "wikilink")
   - 森村 奈央（もりむら なお）- [大塚寧寧](../Page/大塚寧寧.md "wikilink")
   - 竹内 瑞恵（たけうち みずえ）- [松下由樹](../Page/松下由樹.md "wikilink")

@@ -1,7 +1,7 @@
 {{ infobox software | name = FreeType | developer =
 大衛·特納、羅伯特·威廉、維納爾·倫貝爾\[1\]\[2\]以及其他FreeType貢獻者
 | logo = Freetype logo new.svg | logo size = 360px | released = \[3\] |
-latest release version = 2.10.0 | latest release date = \[4\] |
+latest release version = 2.10.1 | latest release date = \[4\] |
 operating system = [跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink") |
 programming language = [C](https://zh.wikipedia.org/wiki/C語言 "wikilink")
 | genre = [字体光栅化](../Page/字体光栅化.md "wikilink") | license =

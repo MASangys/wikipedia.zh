@@ -435,7 +435,7 @@ Nisei）是[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedi
 
 ## 外部連結
 
-  - [キン肉マン系列漫畫官方網站](http://www.kinnikuman.jp/)
+  - [キン肉マン系列漫畫官方網站](https://web.archive.org/web/20140714202449/http://www.kinnikuman.jp/)
 
   - [キン肉マンⅡ世動畫官方網站](http://www.toei-anim.co.jp/tv/niku2_um2/)
 

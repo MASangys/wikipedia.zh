@@ -1,178 +1,362 @@
-## O
-
-| 3字母                 | 639-2（如有） | 639-1（如有） | SIL | 英語名称                            | 中文名称                                                                                                                                                                |
-| ------------------- | --------- | --------- | --- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| oaa                 |           |           | OAA | Orok                            | [鄂羅克語](https://zh.wikipedia.org/wiki/鄂羅克語 "wikilink")                                                                                                               |
-| oac                 |           |           | OAC | Oroch                           | [鄂羅奇語](https://zh.wikipedia.org/wiki/鄂羅奇語 "wikilink")                                                                                                               |
-| oar                 |           |           |     | Old Aramaic (up to 700 BCE)     | [古阿拉米語](https://zh.wikipedia.org/wiki/古阿拉米語 "wikilink")                                                                                                             |
-| oav                 |           |           |     | Old Avar                        | [古阿瓦爾語](https://zh.wikipedia.org/wiki/古阿瓦爾語 "wikilink")                                                                                                             |
-| obi                 |           |           | OBI | Obispeño                        |                                                                                                                                                                     |
-| obl                 |           |           | OBL | Oblo                            |                                                                                                                                                                     |
-| obm                 |           |           |     | Moabite                         | [摩押語](https://zh.wikipedia.org/wiki/摩押語 "wikilink")                                                                                                                 |
-| obo                 |           |           | OBO | Obo Manobo                      |                                                                                                                                                                     |
-| obr                 |           |           |     | Old Burmese                     | [古緬甸語](https://zh.wikipedia.org/wiki/古緬甸語 "wikilink")                                                                                                               |
-| obt                 |           |           |     | Old Breton                      | [古布列塔尼語](https://zh.wikipedia.org/wiki/古布列塔尼語 "wikilink")                                                                                                           |
-| obu                 |           |           | OBU | Obulom                          |                                                                                                                                                                     |
-| oca                 |           |           | OCA | Ocaina                          |                                                                                                                                                                     |
-| occ <sub>(rd)</sub> |           |           |     | Occidental                      | [西方國際語](https://zh.wikipedia.org/wiki/西方國際語 "wikilink")；與 ile 重複                                                                                                    |
-| och                 |           |           |     | Old Chinese                     | [上古漢語](https://zh.wikipedia.org/wiki/上古漢語 "wikilink")                                                                                                               |
-| oci                 | oci       | oc        |     | Occitan (post 1500)             | [奧克西唐語](https://zh.wikipedia.org/wiki/奧克西唐語 "wikilink")、[奧克西坦語](https://zh.wikipedia.org/wiki/奧克西坦語 "wikilink")、[奧克語](https://zh.wikipedia.org/wiki/奧克語 "wikilink") |
-| oco                 |           |           |     | Old Cornish                     | [古康沃爾語](https://zh.wikipedia.org/wiki/古康沃爾語 "wikilink")                                                                                                             |
-| ocu                 |           |           | OCU | Atzingo Matlatzinca             |                                                                                                                                                                     |
-| oda                 |           |           | ODA | Odut                            |                                                                                                                                                                     |
-| odk                 |           |           | ODK | Od                              |                                                                                                                                                                     |
-| odt                 |           |           |     | Old Dutch                       | [古荷蘭語](https://zh.wikipedia.org/wiki/古荷蘭語 "wikilink")                                                                                                               |
-| odu                 |           |           | ODU | Odual                           |                                                                                                                                                                     |
-| ofo                 |           |           | OFO | Ofo                             |                                                                                                                                                                     |
-| ofs                 |           |           |     | Old Frisian                     | [古弗里西亞語](https://zh.wikipedia.org/wiki/古弗里西亞語 "wikilink")                                                                                                           |
-| ofu                 |           |           | OFU | Efutop                          |                                                                                                                                                                     |
-| ogb                 |           |           | OGB | Ogbia                           |                                                                                                                                                                     |
-| ogc                 |           |           | OGC | Ogbah                           |                                                                                                                                                                     |
-| oge                 |           |           |     | Old Georgian                    | [古格魯吉亞語](https://zh.wikipedia.org/wiki/古格魯吉亞語 "wikilink")                                                                                                           |
-| ogg                 |           |           | OGG | Ogbogolo                        |                                                                                                                                                                     |
-| ogn <sub>(rm)</sub> |           |           | OGN | Ogan                            | 已合併至 pse                                                                                                                                                            |
-| ogo                 |           |           | OGO | Khana                           |                                                                                                                                                                     |
-| ogu                 |           |           | OGU | Ogbronuagum                     |                                                                                                                                                                     |
-| oht                 |           |           |     | Old Hittite                     | [古赫梯語](https://zh.wikipedia.org/wiki/古赫梯語 "wikilink")                                                                                                               |
-| ohu                 |           |           |     | Old Hungarian                   | [古匈牙利語](https://zh.wikipedia.org/wiki/古匈牙利語 "wikilink")                                                                                                             |
-| oia                 |           |           | OIA | Oirata                          |                                                                                                                                                                     |
-| oin                 |           |           | OIN | Inebu One                       |                                                                                                                                                                     |
-| ojb                 |           |           | OJB | Northwestern Ojibwa             |                                                                                                                                                                     |
-| ojc                 |           |           | OJC | Central Ojibwa                  |                                                                                                                                                                     |
-| ojg                 |           |           | OJG | Eastern Ojibwa                  |                                                                                                                                                                     |
-| oji <sub>(m)</sub>  | oji       | oj        |     | Ojibwa                          | [奧吉布瓦語](https://zh.wikipedia.org/wiki/奧吉布瓦語 "wikilink")                                                                                                             |
-| ojp                 |           |           |     | Old Japanese                    | [古日語](https://zh.wikipedia.org/wiki/古日語 "wikilink")                                                                                                                 |
-| ojs                 |           |           | OJS | Severn Ojibwa                   |                                                                                                                                                                     |
-| ojv                 |           |           | LUN | Ontong Java                     |                                                                                                                                                                     |
-| ojw                 |           |           | OJI | Western Ojibwa                  |                                                                                                                                                                     |
-| oka                 |           |           | OKA | Okanagan                        |                                                                                                                                                                     |
-| okb                 |           |           | OKB | Okobo                           |                                                                                                                                                                     |
-| okd                 |           |           | OKD | Okodia                          |                                                                                                                                                                     |
-| oke                 |           |           | OKE | Okpe (Southwestern Edo)         |                                                                                                                                                                     |
-| okh                 |           |           | OKH | Koresh-e Rostam                 |                                                                                                                                                                     |
-| oki                 |           |           | OKI | Okiek                           |                                                                                                                                                                     |
-| okj                 |           |           | OKJ | Oko-Juwoi                       |                                                                                                                                                                     |
-| okk                 |           |           | OKK | Kwamtim One                     |                                                                                                                                                                     |
-| okl                 |           |           | OKL | Old Kentish Sign Language       | [古肯特手語](https://zh.wikipedia.org/wiki/古肯特手語 "wikilink")                                                                                                             |
-| okm                 |           |           |     | Middle Korean (10th-16th cent.) | [中古朝鮮語](https://zh.wikipedia.org/wiki/中古朝鮮語 "wikilink")                                                                                                             |
-| okn                 |           |           | OKN | Oki-No-Erabu                    | [沖永良部島琉球語](https://zh.wikipedia.org/wiki/沖永良部島琉球語 "wikilink")                                                                                                       |
-| oko                 |           |           |     | Old Korean (3rd-9th cent.)      | [古朝鮮語](../Page/古朝鮮語.md "wikilink")                                                                                                                                  |
-| okr                 |           |           | OKR | Kirike                          |                                                                                                                                                                     |
-| oks                 |           |           | OKS | Oko-Eni-Osayen                  |                                                                                                                                                                     |
-| oku                 |           |           | OKU | Oku                             |                                                                                                                                                                     |
-| okv                 |           |           |     | Orokaiva                        |                                                                                                                                                                     |
-| okx                 |           |           | OKX | Okpe (Northwestern Edo)         |                                                                                                                                                                     |
-| ola                 |           |           | OLA | Walungge                        |                                                                                                                                                                     |
-| old                 |           |           | OLD | Mochi                           |                                                                                                                                                                     |
-| ole                 |           |           | OLE | Olekha                          |                                                                                                                                                                     |
-| olm                 |           |           | OLM | Oloma                           |                                                                                                                                                                     |
-| olo                 |           |           | OLO | Livvi                           |                                                                                                                                                                     |
-| olr                 |           |           |     | Olrat                           |                                                                                                                                                                     |
-| oma                 |           |           | OMA | Omaha-Ponca                     |                                                                                                                                                                     |
-| omb                 |           |           | OMB | East Ambae                      |                                                                                                                                                                     |
-| omc                 |           |           |     | Mochica                         |                                                                                                                                                                     |
-| ome                 |           |           | OME | Omejes                          |                                                                                                                                                                     |
-| omg                 |           |           | OMG | Omagua                          |                                                                                                                                                                     |
-| omi                 |           |           | OMI | Omi                             |                                                                                                                                                                     |
-| omk                 |           |           |     | Omok                            |                                                                                                                                                                     |
-| oml                 |           |           | OML | Ombo                            |                                                                                                                                                                     |
-| omn                 |           |           |     | Minoan                          |                                                                                                                                                                     |
-| omo                 |           |           | OMO | Utarmbung                       |                                                                                                                                                                     |
-| omp                 |           |           |     | Old Manipuri                    | [古曼尼普爾語](https://zh.wikipedia.org/wiki/古曼尼普爾語 "wikilink")                                                                                                           |
-| omq <sub>(f)</sub>  |           |           |     | Oto-Manguean languages          | [奧托-曼格語系](https://zh.wikipedia.org/wiki/奧托-曼格語系 "wikilink")                                                                                                         |
-| omr                 |           |           |     | Old Marathi                     | [古馬拉地語](https://zh.wikipedia.org/wiki/古馬拉地語 "wikilink")                                                                                                             |
-| omt                 |           |           | OMT | Omotik                          |                                                                                                                                                                     |
-| omu                 |           |           | OMU | Omurano                         |                                                                                                                                                                     |
-| omv <sub>(f)</sub>  |           |           |     | Omotic languages                | [奧摩語族](https://zh.wikipedia.org/wiki/奧摩語族 "wikilink")                                                                                                               |
-| omw                 |           |           | OMW | South Tairora                   |                                                                                                                                                                     |
-| omx                 |           |           |     | Old Mon                         | [古孟語](https://zh.wikipedia.org/wiki/古孟語 "wikilink")                                                                                                                 |
-| ona                 |           |           | ONA | Ona                             |                                                                                                                                                                     |
-| onb                 |           |           | ONB | Lingao                          | [臨高語](../Page/臨高語.md "wikilink")                                                                                                                                    |
-| one                 |           |           | ONE | Oneida                          | [奧內達語](https://zh.wikipedia.org/wiki/奧內達語 "wikilink")                                                                                                               |
-| ong                 |           |           | ONG | Olo                             |                                                                                                                                                                     |
-| oni                 |           |           | ONI | Onin                            |                                                                                                                                                                     |
-| onj                 |           |           | ONJ | Onjob                           |                                                                                                                                                                     |
-| onk                 |           |           | ONK | Kabore One                      |                                                                                                                                                                     |
-| onn                 |           |           | ONN | Onobasulu                       |                                                                                                                                                                     |
-| ono                 |           |           | ONO | Onondaga                        |                                                                                                                                                                     |
-| onp                 |           |           |     | Sartang                         |                                                                                                                                                                     |
-| onr                 |           |           | ONR | Northern One                    |                                                                                                                                                                     |
-| ons                 |           |           | ONS | Ono                             |                                                                                                                                                                     |
-| ont                 |           |           | ONT | Ontenu                          |                                                                                                                                                                     |
-| onu                 |           |           | ONU | Unua                            |                                                                                                                                                                     |
-| onw                 |           |           |     | Old Nubian                      | [古努比亞語](https://zh.wikipedia.org/wiki/古努比亞語 "wikilink")                                                                                                             |
-| onx                 |           |           | ONX | Onin Based Pidgin               |                                                                                                                                                                     |
-| ood                 |           |           | PAP | Tohono O'odham                  |                                                                                                                                                                     |
-| oog                 |           |           | OOG | Ong                             |                                                                                                                                                                     |
-| oon                 |           |           | OON | Önge                            |                                                                                                                                                                     |
-| oor                 |           |           | OOR | Oorlams                         |                                                                                                                                                                     |
-| oos                 |           |           |     | Old Ossetic                     | [古奧塞梯語](https://zh.wikipedia.org/wiki/古奧塞梯語 "wikilink")                                                                                                             |
-| opa                 |           |           | OPA | Okpamheri                       |                                                                                                                                                                     |
-| ope <sub>(rd)</sub> |           |           |     | Old Persian                     | [古波斯語](../Page/古波斯語.md "wikilink")；與 peo 重複                                                                                                                         |
-| opk                 |           |           | OPK | Kopkaka                         |                                                                                                                                                                     |
-| opm                 |           |           | OPM | Oksapmin                        |                                                                                                                                                                     |
-| opo                 |           |           | OPO | Opao                            |                                                                                                                                                                     |
-| opt                 |           |           | OPT | Opata                           |                                                                                                                                                                     |
-| opy                 |           |           | OPY | Ofayé                           |                                                                                                                                                                     |
-| ora                 |           |           | ORA | Oroha                           |                                                                                                                                                                     |
-| orc                 |           |           | ORC | Orma                            |                                                                                                                                                                     |
-| ore                 |           |           | ORE | Orejón                          |                                                                                                                                                                     |
-| org                 |           |           | ORI | Oring                           |                                                                                                                                                                     |
-| orh                 |           |           | ORH | Oroqen                          | [鄂倫春語](https://zh.wikipedia.org/wiki/鄂倫春語 "wikilink")                                                                                                               |
-| ori                 | ori       | or        | ORY | Oriya                           | [奧利亞語](https://zh.wikipedia.org/wiki/奧利亞語 "wikilink")、[奧里亞語](https://zh.wikipedia.org/wiki/奧里亞語 "wikilink")                                                         |
-| ork <sub>(rs)</sub> |           |           | ORK | Orokaiva                        | 被拆分為 okv, aez 和 hkk                                                                                                                                                 |
-| orm <sub>(m)</sub>  | orm       | om        |     | Oromo                           | [奧羅莫語](../Page/奧羅莫語.md "wikilink")                                                                                                                                  |
-| orn                 |           |           | ORN | Orang Kanaq                     |                                                                                                                                                                     |
-| oro                 |           |           | ORO | Orokolo                         |                                                                                                                                                                     |
-| orr                 |           |           | ORR | Oruma                           |                                                                                                                                                                     |
-| ors                 |           |           | ORS | Orang Seletar                   |                                                                                                                                                                     |
-| ort                 |           |           | ORT | Adivasi Oriya                   |                                                                                                                                                                     |
-| oru                 |           |           | ORU | Ormuri                          |                                                                                                                                                                     |
-| orv                 |           |           |     | Old Russian                     | [古俄語](https://zh.wikipedia.org/wiki/古俄語 "wikilink")                                                                                                                 |
-| orw                 |           |           | ORW | Oro Win                         |                                                                                                                                                                     |
-| orx                 |           |           | ORX | Oro                             |                                                                                                                                                                     |
-| orz                 |           |           | ORZ | Ormu                            |                                                                                                                                                                     |
-| osa                 | osa       |           | OSA | Osage                           | [奧薩格語](https://zh.wikipedia.org/wiki/奧薩格語 "wikilink")                                                                                                               |
-| osc                 |           |           |     | Oscan                           | [奧斯坎語](https://zh.wikipedia.org/wiki/奧斯坎語 "wikilink")                                                                                                               |
-| osi                 |           |           | OSI | Osing                           |                                                                                                                                                                     |
-| oso                 |           |           | OSS | Ososo                           |                                                                                                                                                                     |
-| osp                 |           |           |     | Old Spanish                     | [古西班牙語](https://zh.wikipedia.org/wiki/古西班牙語 "wikilink")                                                                                                             |
-| oss                 | oss       | os        | OSE | Ossetian                        | [奧塞梯語](../Page/奧塞梯語.md "wikilink")、[奧塞提語](https://zh.wikipedia.org/wiki/奧塞提語 "wikilink")                                                                            |
-| ost                 |           |           | OST | Osatu                           |                                                                                                                                                                     |
-| osu                 |           |           | OSU | Southern One                    |                                                                                                                                                                     |
-| osx                 |           |           |     | Old Saxon                       | [古撒克遜語](../Page/古撒克遜語.md "wikilink")                                                                                                                                |
-| ota                 | ota       |           |     | Ottoman Turkish (1500-1928)     | [奧斯曼土耳其語](https://zh.wikipedia.org/wiki/奧斯曼土耳其語 "wikilink")                                                                                                         |
-| otb                 |           |           |     | Old Tibetan                     | [古藏語](https://zh.wikipedia.org/wiki/古藏語 "wikilink")                                                                                                                 |
-| otd                 |           |           | OTD | Ot Danum                        |                                                                                                                                                                     |
-| ote                 |           |           | OTE | Mezquital Otomi                 |                                                                                                                                                                     |
-| oti                 |           |           | OTI | Oti                             |                                                                                                                                                                     |
-| otk                 |           |           |     | Old Turkish                     | [古突厥語](https://zh.wikipedia.org/wiki/古突厥語 "wikilink")                                                                                                               |
-| otl                 |           |           | OTL | Tilapa Otomi                    |                                                                                                                                                                     |
-| otm                 |           |           | OTM | Eastern Highland Otomi          |                                                                                                                                                                     |
-| otn                 |           |           | OTN | Tenango Otomi                   |                                                                                                                                                                     |
-| oto <sub>(g)</sub>  | oto       |           |     | Otomian languages               | [奧托米安語族](https://zh.wikipedia.org/wiki/奧托米安語族 "wikilink")                                                                                                           |
-| otq                 |           |           | OTQ | Querétaro Otomi                 |                                                                                                                                                                     |
-| otr                 |           |           | OTR | Otoro                           |                                                                                                                                                                     |
-| ots                 |           |           | OTS | Estado de México Otomi          |                                                                                                                                                                     |
-| ott                 |           |           | OTT | Temoaya Otomi                   |                                                                                                                                                                     |
-| otu                 |           |           | OTU | Otuke                           |                                                                                                                                                                     |
-| otw                 |           |           | OTW | Ottawa                          |                                                                                                                                                                     |
-| otx                 |           |           | OTX | Texcatepec Otomi                |                                                                                                                                                                     |
-| oty                 |           |           |     | Old Tamil                       | [古泰米爾語](https://zh.wikipedia.org/wiki/古泰米爾語 "wikilink")                                                                                                             |
-| otz                 |           |           | OTA | Ixtenco Otomi                   |                                                                                                                                                                     |
-| oua                 |           |           | OUA | Tagargrent                      |                                                                                                                                                                     |
-| oub                 |           |           | OUB | Glio-Oubi                       |                                                                                                                                                                     |
-| oue                 |           |           | OUE | Oune                            |                                                                                                                                                                     |
-| oui                 |           |           |     | Old Uighur                      | [回鶻語](https://zh.wikipedia.org/wiki/回鶻語 "wikilink")                                                                                                                 |
-| oum                 |           |           | OUM | Ouma                            |                                                                                                                                                                     |
-| oun                 |           |           | OUN | \!O\!ung                        |                                                                                                                                                                     |
-| owi                 |           |           | OWI | Owiniga                         |                                                                                                                                                                     |
-| owl                 |           |           |     | Old Welsh                       | [古威爾士語](https://zh.wikipedia.org/wiki/古威爾士語 "wikilink")                                                                                                             |
-| oyb                 |           |           | OYB | Oy                              |                                                                                                                                                                     |
-| oyd                 |           |           | OYD | Oyda                            |                                                                                                                                                                     |
-| oym                 |           |           | OYM | Wayampi                         |                                                                                                                                                                     |
-| oyy                 |           |           | OYY | Oya'oya                         |                                                                                                                                                                     |
-| ozm                 |           |           | BJW | Koonzime                        |                                                                                                                                                                     |
+|- \![oaa](https://zh.wikipedia.org/wiki/ISO_639:oaa "wikilink")  | ||
+||I/L|| || ||Orok|| || ||鄂罗克语|| || |-
+\![oac](https://zh.wikipedia.org/wiki/ISO_639:oac "wikilink")  | ||
+||I/L|| || ||Oroch|| || ||鄂罗奇语|| || |-
+\![oar](https://zh.wikipedia.org/wiki/ISO_639:oar "wikilink")  | ||
+||I/A|| || ||Aramaic, Old|| || ||古阿拉米语|| ||Altaramäisch |-
+\![oav](https://zh.wikipedia.org/wiki/ISO_639:oav "wikilink")  | ||
+||I/H|| || ||Avar, Old|| || ||古阿瓦尔语|| || |-
+\![obi](https://zh.wikipedia.org/wiki/ISO_639:obi "wikilink")  | ||
+||I/E|| || ||Obispeño|| || || || || |-
+\![obk](https://zh.wikipedia.org/wiki/ISO_639:obk "wikilink")  | ||
+||I/L|| || ||Southern Bontok|| || || || || |-
+\![obl](https://zh.wikipedia.org/wiki/ISO_639:obl "wikilink")  | ||
+||I/L|| || ||Oblo|| || || || || |-
+\![obm](https://zh.wikipedia.org/wiki/ISO_639:obm "wikilink")  | ||
+||I/A|| || ||Moabite|| || ||摩押语|| || |-
+\![obo](https://zh.wikipedia.org/wiki/ISO_639:obo "wikilink")  | ||
+||I/L|| || ||Manobo, Obo|| || || || || |-
+\![obr](https://zh.wikipedia.org/wiki/ISO_639:obr "wikilink")  | ||
+||I/H|| || ||Burmese, Old|| || ||古缅甸语|| ||Altburmesisch |-
+\![obt](https://zh.wikipedia.org/wiki/ISO_639:obt "wikilink")  | ||
+||I/H|| || ||Breton, Old|| || ||古布列塔尼语|| ||Altbretonisch |-
+\![obu](https://zh.wikipedia.org/wiki/ISO_639:obu "wikilink")  | ||
+||I/L|| || ||Obulom|| || || || || |-
+\![oca](https://zh.wikipedia.org/wiki/ISO_639:oca "wikilink")  | ||
+||I/L|| || ||Ocaina|| ||ocaina|| || || |-
+\!([occ](https://zh.wikipedia.org/wiki/ISO_639:occ "wikilink"))  | || ||
+|| || ||Occidental|| || || || || |-
+\![och](https://zh.wikipedia.org/wiki/ISO_639:och "wikilink")  | ||
+||I/A||Chinese|| ||Old Chinese|| ||
+||[上古漢語](https://zh.wikipedia.org/wiki/:上古汉语 "wikilink")||
+||Altchinesisch |-
+\![oci](https://zh.wikipedia.org/wiki/ISO_639:oci "wikilink")
+|oc||oci||I/L||Indo-European||occitan||Occitan (post 1500)||occitan
+(après 1500)||occitano||奥克西唐语; 奥克西坦语; 奥克语||окситанский||Okzitanisch |-
+\![oco](https://zh.wikipedia.org/wiki/ISO_639:oco "wikilink")  | ||
+||I/H|| || ||Cornish, Old|| || ||古康沃尔语|| || |-
+\![ocu](https://zh.wikipedia.org/wiki/ISO_639:ocu "wikilink")  | ||
+||I/L|| || ||Matlatzinca, Atzingo|| || || || || |-
+\![oda](https://zh.wikipedia.org/wiki/ISO_639:oda "wikilink")  | ||
+||I/L|| || ||Odut|| || || || || |-
+\![odk](https://zh.wikipedia.org/wiki/ISO_639:odk "wikilink")  | ||
+||I/L|| || ||Od|| || || || || |-
+\![odt](https://zh.wikipedia.org/wiki/ISO_639:odt "wikilink")  | ||
+||I/H|| || ||Dutch, Old|| || ||古荷兰语|| || |-
+\![odu](https://zh.wikipedia.org/wiki/ISO_639:odu "wikilink")  | ||
+||I/L|| || ||Odual|| || || || || |-
+\![ofo](https://zh.wikipedia.org/wiki/ISO_639:ofo "wikilink")  | ||
+||I/E|| || ||Ofo||ofo|| || || || |-
+\![ofs](https://zh.wikipedia.org/wiki/ISO_639:ofs "wikilink")  | ||
+||I/H||Friesisch|| ||Frisian, Old|| || ||古弗里西亚语|| ||Altfriesisch |-
+\![ofu](https://zh.wikipedia.org/wiki/ISO_639:ofu "wikilink")  | ||
+||I/L|| || ||Efutop|| || || || || |-
+\![ogb](https://zh.wikipedia.org/wiki/ISO_639:ogb "wikilink")  | ||
+||I/L|| || ||Ogbia|| || || || || |-
+\![ogc](https://zh.wikipedia.org/wiki/ISO_639:ogc "wikilink")  | ||
+||I/L|| || ||Ogbah|| || || || || |-
+\![oge](https://zh.wikipedia.org/wiki/ISO_639:oge "wikilink")  | ||
+||I/H|| || ||Georgian, Old|| || ||古格鲁吉亚语|| ||Altgeorgisch |-
+\![ogg](https://zh.wikipedia.org/wiki/ISO_639:ogg "wikilink")  | ||
+||I/L|| || ||Ogbogolo|| || || || || |-
+\!([ogn](https://zh.wikipedia.org/wiki/ISO_639:ogn "wikilink"))  | || ||
+|| || ||Ogan|| || || || || |-
+\![ogo](https://zh.wikipedia.org/wiki/ISO_639:ogo "wikilink")  | ||
+||I/L|| || ||Khana|| || || || || |-
+\![ogu](https://zh.wikipedia.org/wiki/ISO_639:ogu "wikilink")  | ||
+||I/L|| || ||Ogbronuagum|| || || || || |-
+\![oht](https://zh.wikipedia.org/wiki/ISO_639:oht "wikilink")  | ||
+||I/A|| || ||Hittite, Old|| || ||古赫梯语|| || |-
+\![ohu](https://zh.wikipedia.org/wiki/ISO_639:ohu "wikilink")  | ||
+||I/H|| || ||Hungarian, Old|| || ||古匈牙利语|| || |-
+\![oia](https://zh.wikipedia.org/wiki/ISO_639:oia "wikilink")  | ||
+||I/L|| || ||Oirata|| || || ||оирата|| |-
+\![oin](https://zh.wikipedia.org/wiki/ISO_639:oin "wikilink")  | ||
+||I/L|| || ||One, Inebu|| || || || || |-
+\![ojb](https://zh.wikipedia.org/wiki/ISO_639:ojb "wikilink")  | ||
+||I/L|| || Anishinaabemowin (Ojibwemowin) ||Ojibwa, Northwestern|| || ||
+|| || |- \![ojc](https://zh.wikipedia.org/wiki/ISO_639:ojc "wikilink")
+| || ||I/L|| || Anishinaabemowin (Ojibwemowin) ||Ojibwa, Central|| || ||
+|| || |- \![ojg](https://zh.wikipedia.org/wiki/ISO_639:ojg "wikilink")
+| || ||I/L|| || Nishnaabemwin (Jibwemwin) ||Ojibwa, Eastern|| || || ||
+|| |- \![oji](https://zh.wikipedia.org/wiki/ISO_639:oji "wikilink")
+|oj||oji||M/L||Cree||ᐊᓂᔑᓇᐯᒧᐎᓐ
+(Anishinaabemowin)||Ojibwa||ojibwa||ojibwa||奥吉布瓦语||оджибва|| |-
+\![ojp](https://zh.wikipedia.org/wiki/ISO_639:ojp "wikilink")  | ||
+||I/H|| || ||Japanese, Old|| || ||古日语|| || |-
+\![ojs](https://zh.wikipedia.org/wiki/ISO_639:ojs "wikilink")  | ||
+||I/L|| || ᐊᓂᔑᓂᓂᒧᐎᓐ (Anishininiimowin) ||Ojibwa, Severn|| || || || || |-
+\![ojv](https://zh.wikipedia.org/wiki/ISO_639:ojv "wikilink")  | ||
+||I/L|| || ||Ontong Java|| || || || ||Ontong Java |-
+\![ojw](https://zh.wikipedia.org/wiki/ISO_639:ojw "wikilink")  | ||
+||I/L|| || Anihšināpēmowin (Nakawēmowin) ||Ojibwa, Western|| || || || ||
+|- \![oka](https://zh.wikipedia.org/wiki/ISO_639:oka "wikilink")  | ||
+||I/L|| || ||Okanagan|| || || || || |-
+\![okb](https://zh.wikipedia.org/wiki/ISO_639:okb "wikilink")  | ||
+||I/L|| || ||Okobo|| || || || || |-
+\![okd](https://zh.wikipedia.org/wiki/ISO_639:okd "wikilink")  | ||
+||I/L|| || ||Okodia|| || || || || |-
+\![oke](https://zh.wikipedia.org/wiki/ISO_639:oke "wikilink")  | ||
+||I/L|| || ||Okpe (Southwestern Edo)|| || || || || |-
+\![okg](https://zh.wikipedia.org/wiki/ISO_639:okg "wikilink")  | ||
+||I/E|| || ||Koko Babangk|| || || || || |-
+\![okh](https://zh.wikipedia.org/wiki/ISO_639:okh "wikilink")  | ||
+||I/L|| || ||Koresh-e Rostam|| || || || || |-
+\![oki](https://zh.wikipedia.org/wiki/ISO_639:oki "wikilink")  | ||
+||I/L|| || ||Okiek|| || || || || |-
+\![okj](https://zh.wikipedia.org/wiki/ISO_639:okj "wikilink")  | ||
+||I/E|| || ||Oko-Juwoi|| || || || || |-
+\![okk](https://zh.wikipedia.org/wiki/ISO_639:okk "wikilink")  | ||
+||I/L|| || ||One, Kwamtim|| || || || || |-
+\![okl](https://zh.wikipedia.org/wiki/ISO_639:okl "wikilink")  | ||
+||I/E|| || ||Old Kentish Sign Language|| || ||古肯特手语|| || |-
+\![okm](https://zh.wikipedia.org/wiki/ISO_639:okm "wikilink")  | ||
+||I/H|| || ||Korean, Middle (10th–16th centuries)|| || ||中古朝鲜语||
+||Mittelkoreanisch |-
+\![okn](https://zh.wikipedia.org/wiki/ISO_639:okn "wikilink")  | ||
+||I/L|| || ||Oki-No-Erabu|| || ||冲永良部岛琉球语|| || |-
+\![oko](https://zh.wikipedia.org/wiki/ISO_639:oko "wikilink")  | ||
+||I/H|| || ||Korean, Old (3rd–9th centuries)|| || ||古朝鲜语||
+||Altkoreanisch |-
+\![okr](https://zh.wikipedia.org/wiki/ISO_639:okr "wikilink")  | ||
+||I/L|| || ||Kirike|| || || || || |-
+\![oks](https://zh.wikipedia.org/wiki/ISO_639:oks "wikilink")  | ||
+||I/L|| || ||Oko-Eni-Osayen|| || || || || |-
+\![oku](https://zh.wikipedia.org/wiki/ISO_639:oku "wikilink")  | ||
+||I/L|| || ||Oku|| || || || || |-
+\![okv](https://zh.wikipedia.org/wiki/ISO_639:okv "wikilink")  | ||
+||I/L|| || ||Orokaiva|| || || || || |-
+\![okx](https://zh.wikipedia.org/wiki/ISO_639:okx "wikilink")  | ||
+||I/L|| || ||Okpe (Northwestern Edo)|| || || || || |-
+\![ola](https://zh.wikipedia.org/wiki/ISO_639:ola "wikilink")  | ||
+||I/L|| || ||Walungge|| || || || || |-
+\![old](https://zh.wikipedia.org/wiki/ISO_639:old "wikilink")  | ||
+||I/L|| || ||Mochi|| || || || || |-
+\![ole](https://zh.wikipedia.org/wiki/ISO_639:ole "wikilink")  | ||
+||I/L|| || ||Olekha|| || || || || |-
+\![olk](https://zh.wikipedia.org/wiki/ISO_639:olk "wikilink")  | ||
+||I/E|| || ||Olkol|| || || || || |-
+\![olm](https://zh.wikipedia.org/wiki/ISO_639:olm "wikilink")  | ||
+||I/L|| || ||Oloma|| || || || || |-
+\![olo](https://zh.wikipedia.org/wiki/ISO_639:olo "wikilink")  | ||
+||I/L|| || ||Livvi|| || || || || |-
+\![olr](https://zh.wikipedia.org/wiki/ISO_639:olr "wikilink")  | ||
+||I/L|| || ||Olrat|| || || || || |-
+\![olt](https://zh.wikipedia.org/wiki/ISO_639:olt "wikilink")  | ||
+||I/H||Indo-European|| ||Old Lithuanian|| || || || || |-
+\![olu](https://zh.wikipedia.org/wiki/ISO_639:olu "wikilink")  | ||
+||I/L||Niger–Congo|| ||Kuvale|| || || || || |-
+\![oma](https://zh.wikipedia.org/wiki/ISO_639:oma "wikilink")  | ||
+||I/L|| || ||Omaha-Ponca||omaha-ponca||omaha-ponca|| || || |-
+\![omb](https://zh.wikipedia.org/wiki/ISO_639:omb "wikilink")  | ||
+||I/L|| || ||Ambae, East|| || || || || |-
+\![omc](https://zh.wikipedia.org/wiki/ISO_639:omc "wikilink")  | ||
+||I/E|| || ||Mochica|| || || || || |-
+\!([ome](https://zh.wikipedia.org/wiki/ISO_639:ome "wikilink"))  | ||
+||I/E|| || ||Omejes|| || || || || |-
+\![omg](https://zh.wikipedia.org/wiki/ISO_639:omg "wikilink")  | ||
+||I/L|| || ||Omagua|| ||omagua|| || || |-
+\![omi](https://zh.wikipedia.org/wiki/ISO_639:omi "wikilink")  | ||
+||I/L|| || ||Omi|| || || || || |-
+\![omk](https://zh.wikipedia.org/wiki/ISO_639:omk "wikilink")  | ||
+||I/E|| || ||Omok|| || || || || |-
+\![oml](https://zh.wikipedia.org/wiki/ISO_639:oml "wikilink")  | ||
+||I/L|| || ||Ombo|| || || || || |-
+\![omn](https://zh.wikipedia.org/wiki/ISO_639:omn "wikilink")  | ||
+||I/A|| || ||Minoan|| || || || || |-
+\![omo](https://zh.wikipedia.org/wiki/ISO_639:omo "wikilink")  | ||
+||I/L|| || ||Utarmbung|| || || || || |-
+\![omp](https://zh.wikipedia.org/wiki/ISO_639:omp "wikilink")  | ||
+||I/H|| || ||Manipuri, Old|| || ||古曼尼普尔语|| || |-
+\![omr](https://zh.wikipedia.org/wiki/ISO_639:omr "wikilink")  | ||
+||I/H|| || ||Marathi, Old|| || ||古马拉地语|| || |-
+\![omt](https://zh.wikipedia.org/wiki/ISO_639:omt "wikilink")  | ||
+||I/L|| || ||Omotik|| || || || || |-
+\![omu](https://zh.wikipedia.org/wiki/ISO_639:omu "wikilink")  | ||
+||I/E|| || ||Omurano|| ||omurano|| || || |-
+\![omw](https://zh.wikipedia.org/wiki/ISO_639:omw "wikilink")  | ||
+||I/L|| || ||Tairora, South|| || || || || |-
+\![omx](https://zh.wikipedia.org/wiki/ISO_639:omx "wikilink")  | ||
+||I/H|| || ||Mon, Old|| || ||古孟语|| || |-
+\![ona](https://zh.wikipedia.org/wiki/ISO_639:ona "wikilink")  | ||
+||I/L|| || ||Ona|| || || || || |-
+\![onb](https://zh.wikipedia.org/wiki/ISO_639:onb "wikilink")  | ||
+||I/L|| || ||Lingao|| || ||临高语|| || |-
+\![one](https://zh.wikipedia.org/wiki/ISO_639:one "wikilink")  | ||
+||I/L|| ||Onʌyota’a:ka||Oneida||oneida||oneida||奥内达语|| || |-
+\![ong](https://zh.wikipedia.org/wiki/ISO_639:ong "wikilink")  | ||
+||I/L|| || ||Olo|| || || || || |-
+\![oni](https://zh.wikipedia.org/wiki/ISO_639:oni "wikilink")  | ||
+||I/L|| || ||Onin|| || || || || |-
+\![onj](https://zh.wikipedia.org/wiki/ISO_639:onj "wikilink")  | ||
+||I/L|| || ||Onjob|| || || || || |-
+\![onk](https://zh.wikipedia.org/wiki/ISO_639:onk "wikilink")  | ||
+||I/L|| || ||One, Kabore|| || || || || |-
+\![onn](https://zh.wikipedia.org/wiki/ISO_639:onn "wikilink")  | ||
+||I/L|| || ||Onobasulu|| || || || || |-
+\![ono](https://zh.wikipedia.org/wiki/ISO_639:ono "wikilink")  | ||
+||I/L|| ||Onǫta’kéka’||Onondaga||onondaga||onondaga|| || || |-
+\![onp](https://zh.wikipedia.org/wiki/ISO_639:onp "wikilink")  | ||
+||I/L|| || ||Sartang|| || || || || |-
+\![onr](https://zh.wikipedia.org/wiki/ISO_639:onr "wikilink")  | ||
+||I/L|| || ||One, Northern|| || || || || |-
+\![ons](https://zh.wikipedia.org/wiki/ISO_639:ons "wikilink")  | ||
+||I/L|| || ||Ono|| || || || || |-
+\![ont](https://zh.wikipedia.org/wiki/ISO_639:ont "wikilink")  | ||
+||I/L|| || ||Ontenu|| || || || || |-
+\![onu](https://zh.wikipedia.org/wiki/ISO_639:onu "wikilink")  | ||
+||I/L|| || ||Unua|| || || || || |-
+\![onw](https://zh.wikipedia.org/wiki/ISO_639:onw "wikilink")  | ||
+||I/H|| || ||Nubian, Old|| || ||古努比亚语|| || |-
+\![onx](https://zh.wikipedia.org/wiki/ISO_639:onx "wikilink")  | ||
+||I/L|| || ||Onin Based Pidgin|| || || || || |-
+\![ood](https://zh.wikipedia.org/wiki/ISO_639:ood "wikilink")  | ||
+||I/L|| ||O'odham||Tohono O'odham||papago||pápago|| ||тогоно
+о'одам||Tohono O'odham |-
+\![oog](https://zh.wikipedia.org/wiki/ISO_639:oog "wikilink")  | ||
+||I/L|| || ||Ong|| || || || || |-
+\![oon](https://zh.wikipedia.org/wiki/ISO_639:oon "wikilink")  | ||
+||I/L|| || ||Önge|| || || || || |-
+\![oor](https://zh.wikipedia.org/wiki/ISO_639:oor "wikilink")  | ||
+||I/L|| || ||Oorlams|| || || || || |-
+\![oos](https://zh.wikipedia.org/wiki/ISO_639:oos "wikilink")  | ||
+||I/A|| || ||Ossetic, Old|| || ||古奥塞梯语|| || |-
+\![opa](https://zh.wikipedia.org/wiki/ISO_639:opa "wikilink")  | ||
+||I/L|| || ||Okpamheri|| || || || || |-
+\!([ope](https://zh.wikipedia.org/wiki/ISO_639:ope "wikilink"))  | || ||
+|| || ||Old Persian|| || || || || |-
+\![opk](https://zh.wikipedia.org/wiki/ISO_639:opk "wikilink")  | ||
+||I/L|| || ||Kopkaka|| || || || || |-
+\![opm](https://zh.wikipedia.org/wiki/ISO_639:opm "wikilink")  | ||
+||I/L|| || ||Oksapmin|| || || || || |-
+\![opo](https://zh.wikipedia.org/wiki/ISO_639:opo "wikilink")  | ||
+||I/L|| || ||Opao|| || || || || |-
+\![opt](https://zh.wikipedia.org/wiki/ISO_639:opt "wikilink")  | ||
+||I/E|| || ||Opata|| ||ópata|| || || |-
+\![opy](https://zh.wikipedia.org/wiki/ISO_639:opy "wikilink")  | ||
+||I/L|| || ||Ofayé|| || || || || |-
+\![ora](https://zh.wikipedia.org/wiki/ISO_639:ora "wikilink")  | ||
+||I/L|| || ||Oroha|| || || || || |-
+\![orc](https://zh.wikipedia.org/wiki/ISO_639:orc "wikilink")  | ||
+||I/L|| || ||Orma|| || || || || |-
+\![ore](https://zh.wikipedia.org/wiki/ISO_639:ore "wikilink")  | ||
+||I/L|| || ||Orejón|| ||orejón|| || || |-
+\![org](https://zh.wikipedia.org/wiki/ISO_639:org "wikilink")  | ||
+||I/L|| || ||Oring|| || || || || |-
+\![orh](https://zh.wikipedia.org/wiki/ISO_639:orh "wikilink")  | ||
+||I/L|| || ||Oroqen|| || ||鄂伦春语|| || |-
+\![ori](https://zh.wikipedia.org/wiki/ISO_639:ori "wikilink")
+|or||ori||M/L||Indo-European||ଓଡ଼ିଆ||Oriya||oriya||oriya||奥利亚语;
+奥里亚语||ория||Oriya |-
+\!([ork](https://zh.wikipedia.org/wiki/ISO_639:ork "wikilink"))  | || ||
+|| || ||Orokaiva|| || || || || |-
+\![orm](https://zh.wikipedia.org/wiki/ISO_639:orm "wikilink")
+|om||orm||M/L||Afro-Asiatic||Oromoo||Oromo||galla||oromo||奥罗莫语||оромо||Oromo
+|- \![orn](https://zh.wikipedia.org/wiki/ISO_639:orn "wikilink")  | ||
+||I/L|| || ||Orang Kanaq|| || || || || |-
+\![oro](https://zh.wikipedia.org/wiki/ISO_639:oro "wikilink")  | ||
+||I/L|| || ||Orokolo|| || || || || |-
+\![orr](https://zh.wikipedia.org/wiki/ISO_639:orr "wikilink")  | ||
+||I/L|| || ||Oruma|| || || || || |-
+\![ors](https://zh.wikipedia.org/wiki/ISO_639:ors "wikilink")  | ||
+||I/L|| || ||Orang Seletar|| || || || || |-
+\![ort](https://zh.wikipedia.org/wiki/ISO_639:ort "wikilink")  | ||
+||I/L|| || ||Oriya, Adivasi|| || || || || |-
+\![oru](https://zh.wikipedia.org/wiki/ISO_639:oru "wikilink")  | ||
+||I/L|| || ||Ormuri|| || || || || |-
+\![orv](https://zh.wikipedia.org/wiki/ISO_639:orv "wikilink")  | ||
+||I/H|| || ||Russian, Old|| || ||古俄语|| || |-
+\![orw](https://zh.wikipedia.org/wiki/ISO_639:orw "wikilink")  | ||
+||I/L|| || ||Oro Win|| ||oro win|| || || |-
+\![orx](https://zh.wikipedia.org/wiki/ISO_639:orx "wikilink")  | ||
+||I/L|| || ||Oro|| || || || || |-
+\![ory](https://zh.wikipedia.org/wiki/ISO_639:ory "wikilink")  | ||
+||I/L|| || ||Oriya (individual language)|| || || || || |-
+\![orz](https://zh.wikipedia.org/wiki/ISO_639:orz "wikilink")  | ||
+||I/L|| || ||Ormu|| || || || || |-
+\![osa](https://zh.wikipedia.org/wiki/ISO_639:osa "wikilink")  |
+||osa||I/L|| || ||Osage||osage||osage||奥萨格语||оседжи|| |-
+\![osc](https://zh.wikipedia.org/wiki/ISO_639:osc "wikilink")  | ||
+||I/A|| || ||Oscan||osque||osco||奥斯坎语||оскский||Oskisch |-
+\![osi](https://zh.wikipedia.org/wiki/ISO_639:osi "wikilink")  | ||
+||I/L|| || ||Osing|| || || || || |-
+\![oso](https://zh.wikipedia.org/wiki/ISO_639:oso "wikilink")  | ||
+||I/L|| || ||Ososo|| || || || || |-
+\![osp](https://zh.wikipedia.org/wiki/ISO_639:osp "wikilink")  | ||
+||I/H|| || ||Spanish, Old|| || ||古西班牙语|| || |-
+\![oss](https://zh.wikipedia.org/wiki/ISO_639:oss "wikilink")
+|os||oss||I/L||Indo-European||иронау||Ossetian||ossète||oseto||奥塞梯语;
+奥塞提语||осетинский||Ossetisch |-
+\![ost](https://zh.wikipedia.org/wiki/ISO_639:ost "wikilink")  | ||
+||I/L|| || ||Osatu|| || || || || |-
+\![osu](https://zh.wikipedia.org/wiki/ISO_639:osu "wikilink")  | ||
+||I/L|| || ||One, Southern|| || || || || |-
+\![osx](https://zh.wikipedia.org/wiki/ISO_639:osx "wikilink")  | ||
+||I/H|| || ||Saxon, Old|| || ||古撒克逊语|| || |-
+\![ota](https://zh.wikipedia.org/wiki/ISO_639:ota "wikilink")  |
+||ota||I/H|| ||لسان عثمانى||Turkish, Ottoman (1500–1928)||Turc
+ottoman||Turco-otomano||奥斯曼土耳其语||старотурецкий||Osmanisch |-
+\![otb](https://zh.wikipedia.org/wiki/ISO_639:otb "wikilink")  | ||
+||I/H|| || ||Tibetan, Old|| || ||古藏语|| || |-
+\![otd](https://zh.wikipedia.org/wiki/ISO_639:otd "wikilink")  | ||
+||I/L|| || ||Dohoi|| || || || || |-
+\![ote](https://zh.wikipedia.org/wiki/ISO_639:ote "wikilink")  | ||
+||I/L|| || ||Otomi, Mezquital|| || || || || |-
+\![oti](https://zh.wikipedia.org/wiki/ISO_639:oti "wikilink")  | ||
+||I/E|| || ||Oti|| || || || || |-
+\![otk](https://zh.wikipedia.org/wiki/ISO_639:otk "wikilink")  | ||
+||I/H|| || ||Turkish, Old|| || ||古突厥语|| || |-
+\![otl](https://zh.wikipedia.org/wiki/ISO_639:otl "wikilink")  | ||
+||I/L|| || ||Otomi, Tilapa|| || || || || |-
+\![otm](https://zh.wikipedia.org/wiki/ISO_639:otm "wikilink")  | ||
+||I/L|| || ||Otomi, Eastern Highland|| || || || || |-
+\![otn](https://zh.wikipedia.org/wiki/ISO_639:otn "wikilink")  | ||
+||I/L|| || ||Otomi, Tenango|| || || || || |-
+\![otq](https://zh.wikipedia.org/wiki/ISO_639:otq "wikilink")  | ||
+||I/L|| || ||Otomi, Querétaro|| || || || || |-
+\![otr](https://zh.wikipedia.org/wiki/ISO_639:otr "wikilink")  | ||
+||I/L|| || ||Otoro|| || || || || |-
+\![ots](https://zh.wikipedia.org/wiki/ISO_639:ots "wikilink")  | ||
+||I/L|| || ||Otomi, Estado de México|| || || || || |-
+\![ott](https://zh.wikipedia.org/wiki/ISO_639:ott "wikilink")  | ||
+||I/L|| || ||Otomi, Temoaya|| || || || || |-
+\![otu](https://zh.wikipedia.org/wiki/ISO_639:otu "wikilink")  | ||
+||I/E|| || ||Otuke|| || || || || |-
+\![otw](https://zh.wikipedia.org/wiki/ISO_639:otw "wikilink")  | ||
+||I/L|| || Nishnaabemwin (Daawaamwin) ||Ottawa||ottawa|| || || || |-
+\![otx](https://zh.wikipedia.org/wiki/ISO_639:otx "wikilink")  | ||
+||I/L|| || ||Otomi, Texcatepec|| || || || || |-
+\![oty](https://zh.wikipedia.org/wiki/ISO_639:oty "wikilink")  | ||
+||I/A|| || ||Tamil, Old|| || ||古泰米尔语|| || |-
+\![otz](https://zh.wikipedia.org/wiki/ISO_639:otz "wikilink")  | ||
+||I/L|| || ||Otomi, Ixtenco|| || || || || |-
+\![oua](https://zh.wikipedia.org/wiki/ISO_639:oua "wikilink")  | ||
+||I/L|| || ||Tagargrent|| || || || || |-
+\![oub](https://zh.wikipedia.org/wiki/ISO_639:oub "wikilink")  | ||
+||I/L|| || ||Glio-Oubi|| || || || || |-
+\![oue](https://zh.wikipedia.org/wiki/ISO_639:oue "wikilink")  | ||
+||I/L|| || ||Oune|| || || || || |-
+\![oui](https://zh.wikipedia.org/wiki/ISO_639:oui "wikilink")  | ||
+||I/H|| || ||Uighur, Old|| || ||回鹘语|| || |-
+\![oum](https://zh.wikipedia.org/wiki/ISO_639:oum "wikilink")  | ||
+||I/E|| || ||Ouma|| || || || || |-
+\!([oun](https://zh.wikipedia.org/wiki/ISO_639:oun "wikilink"))  | ||
+||I/L|| || ||\!O\!ung|| || || || || |-
+\![ovd](https://zh.wikipedia.org/wiki/ISO_639:ovd "wikilink")  | ||
+||I/L||Indo-European|| ||Elfdalian, Övdalian|| || || || || |-
+\![owi](https://zh.wikipedia.org/wiki/ISO_639:owi "wikilink")  | ||
+||I/L|| || ||Owiniga|| || || || || |-
+\![owl](https://zh.wikipedia.org/wiki/ISO_639:owl "wikilink")  | ||
+||I/H|| || ||Welsh, Old|| || ||古威尔士语|| || |-
+\![oyb](https://zh.wikipedia.org/wiki/ISO_639:oyb "wikilink")  | ||
+||I/L|| || ||Oy|| || || || || |-
+\![oyd](https://zh.wikipedia.org/wiki/ISO_639:oyd "wikilink")  | ||
+||I/L|| || ||Oyda|| || || || || |-
+\![oym](https://zh.wikipedia.org/wiki/ISO_639:oym "wikilink")  | ||
+||I/L|| || ||Wayampi|| ||wayampi|| || || |-
+\![oyy](https://zh.wikipedia.org/wiki/ISO_639:oyy "wikilink")  | ||
+||I/L|| || ||Oya'oya|| || || || || |-
+\![ozm](https://zh.wikipedia.org/wiki/ISO_639:ozm "wikilink")  | ||
+||I/L|| || ||Koonzime|| || || || || |}
 
 [Category:ISO_639](https://zh.wikipedia.org/wiki/Category:ISO_639 "wikilink")
-[Category:语言列表](https://zh.wikipedia.org/wiki/Category:语言列表 "wikilink")

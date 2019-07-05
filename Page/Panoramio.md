@@ -43,7 +43,7 @@ Panoramio要求用户使用[标签](https://zh.wikipedia.org/wiki/標籤_\(元�
 [Category:Web_2.0](https://zh.wikipedia.org/wiki/Category:Web_2.0 "wikilink")
 [Category:Google](https://zh.wikipedia.org/wiki/Category:Google "wikilink")
 [Category:電子地圖](https://zh.wikipedia.org/wiki/Category:電子地圖 "wikilink")
-[Category:网络相册](https://zh.wikipedia.org/wiki/Category:网络相册 "wikilink")
+[Category:图片分享网站](https://zh.wikipedia.org/wiki/Category:图片分享网站 "wikilink")
 [Category:被防火长城封锁的网站](https://zh.wikipedia.org/wiki/Category:被防火长城封锁的网站 "wikilink")
 [Category:2016年关闭的网站](https://zh.wikipedia.org/wiki/Category:2016年关闭的网站 "wikilink")
 

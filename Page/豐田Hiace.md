@@ -1,4 +1,4 @@
-**豐田Hiace**是由[日本](../Page/日本.md "wikilink")[豐田汽車所生產的一款小型客貨兩用車](https://zh.wikipedia.org/wiki/丰田汽车公司 "wikilink")，於1967年推出市場，至今推出至第5代。
+**豐田Hiace**是由[日本](../Page/日本.md "wikilink")[豐田汽車所生產的一款小型客貨兩用車](https://zh.wikipedia.org/wiki/丰田汽车公司 "wikilink")，於1967年推出市場，至今推出至第6代。
 
 ## 性能概要
 
@@ -105,9 +105,19 @@ SBV，搭配1.8公升4KE引擎。與第四代Hiace同樣被第五代Hiace取代�
 
 [Toyota_Hiace_H200_501.JPG](https://zh.wikipedia.org/wiki/File:Toyota_Hiace_H200_501.JPG "fig:Toyota_Hiace_H200_501.JPG")
 [Toyota_Hiace_H200_505.JPG](https://zh.wikipedia.org/wiki/File:Toyota_Hiace_H200_505.JPG "fig:Toyota_Hiace_H200_505.JPG")
-2004年8月推出市場，車身闊度較上一代增加了190mm，全車長度約4.7米。配用全新2KD-FTV型[柴油渦輪增壓引擎](../Page/柴油引擎.md "wikilink")，容積2494cc，馬力109匹；當然，也有提供2TR-FE型2.7公升柴油引擎和1TR-FE型2.0公升汽油引擎以供選擇。
+2004年8月推出市場，車身闊度較上一代增加了190mm，全車長度約4.7米。配用全新2KD-FTV型[柴油渦輪增壓引擎](../Page/柴油引擎.md "wikilink")，容積2494cc，馬力109匹；也有提供2TR-FE型2.7公升柴油引擎和1TR-FE型2.0公升汽油引擎以供選擇。
 
-2009年作出改款，改用全新歐盟四型2KD-FTE型[柴油渦輪增壓引擎](../Page/柴油引擎.md "wikilink")，容積2494cc，馬力120匹。
+2009年作出改款，改用歐盟四型2KD-FTE型[柴油渦輪增壓引擎](../Page/柴油引擎.md "wikilink")，容積2494cc，馬力120匹。
+
+2013年作出第二次改款，改用歐盟五型1KD-FTV型柴油渦輪增壓引擎，容積2982cc，馬力150匹。
+
+### 第六代（H300系）
+
+2019年2月推出市場，最大的轉變就是採用兩箱式長頭設計，柴油引擎為1GD-FTV，馬力177匹。H300系只限出口，日本本土不會停售H200。
+
+長度大幅增加到 5.265米
+
+轉向半徑 5.5米
 
 <div style="clear: both">
 

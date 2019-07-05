@@ -372,7 +372,7 @@
 
 <!-- end list -->
 
-  - **[哪位香港足球員](../Page/羅繼華.md "wikilink")**在1992/93年與[鍾皓賢一同獲選](../Page/鍾皓賢.md "wikilink")[香港足球明星選舉最佳年青球員](https://zh.wikipedia.org/wiki/香港足球明星選舉 "wikilink")？（[圖](https://zh.wikipedia.org/wiki/:File:HK_LoKaiWah_2009.JPG "wikilink")）
+  - **[哪位香港足球員](../Page/羅繼華.md "wikilink")**在1992/93年與[鍾皓賢一同獲選](../Page/鍾皓賢.md "wikilink")[香港足球明星選舉最佳年青球員](../Page/香港足球明星選舉.md "wikilink")？（[圖](https://zh.wikipedia.org/wiki/:File:HK_LoKaiWah_2009.JPG "wikilink")）
 
 <!-- end list -->
 

@@ -9,6 +9,6 @@
   - **[米歇尔·托尼尼](https://zh.wikipedia.org/wiki/米歇尔·托尼尼 "wikilink")**（，[法国宇航员](https://zh.wikipedia.org/wiki/法国 "wikilink")，曾执行[联盟TM-15](https://zh.wikipedia.org/wiki/联盟TM-15 "wikilink")、[联盟TM-14以及](https://zh.wikipedia.org/wiki/联盟TM-14 "wikilink")任务），任务专家
 
 [Category:1999年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1999年佛罗里达州 "wikilink")
-[Category:1999年科學](https://zh.wikipedia.org/wiki/Category:1999年科學 "wikilink")
+[Category:1999年發射的太空飛行器](https://zh.wikipedia.org/wiki/Category:1999年發射的太空飛行器 "wikilink")
 [Category:哥伦比亚号航天飞机任务](https://zh.wikipedia.org/wiki/Category:哥伦比亚号航天飞机任务 "wikilink")
 [Category:1999年7月](https://zh.wikipedia.org/wiki/Category:1999年7月 "wikilink")

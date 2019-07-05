@@ -1,6 +1,6 @@
 是由[科樂美开发的](../Page/科樂美.md "wikilink")[动作游戏](../Page/动作游戏.md "wikilink")。本作最初于1997年3月20日在[PlayStation平台发售](../Page/PlayStation.md "wikilink")，后又推出了[Sega
 Saturn版](https://zh.wikipedia.org/wiki/Sega_Saturn "wikilink")。該作品为《[惡魔城X
-血之輪迴](../Page/惡魔城X_血之輪迴.md "wikilink")》的续作，被称为恶魔城系列的巅峰之作，也奠定了[类银河战士恶魔城游戏的基本风格](../Page/类银河战士恶魔城游戏.md "wikilink")。作品一改以往风格，大量增加養成與隱藏要素，為當時橫向卷軸遊戲之創舉，也成为后續[恶魔城遊戲的典範與整個系列評價最高的作品](../Page/恶魔城系列.md "wikilink")。
+血之輪迴](../Page/惡魔城X_血之輪迴.md "wikilink")》的续作，被称为恶魔城系列的巅峰之作，也奠定了[类银河战士恶魔城游戏的基本风格](../Page/类银河战士恶魔城游戏.md "wikilink")。作品一改以往风格，大量增加養成與隱藏要素，為當時[橫向捲軸遊戲之創舉](https://zh.wikipedia.org/wiki/橫向捲軸遊戲 "wikilink")，也成为后續[恶魔城遊戲的典範與整個系列評價最高的作品](../Page/恶魔城系列.md "wikilink")。
 
 ## 角色介绍
 
@@ -21,7 +21,7 @@ Saturn版](https://zh.wikipedia.org/wiki/Sega_Saturn "wikilink")。該作品为�
     五年前成功封印德古拉伯爵的最強吸血鬼獵人。但是在一年前的一個[月圓之夜受到夏福特控制成為表惡魔城主](https://zh.wikipedia.org/wiki/月圓 "wikilink")，被外界誤認失蹤下落不明，作為城中的大BOSS迎戰艾卡多。
   - 夏福特（シャフト、Shaft）
     配音：梁田清之
-    本為教會的牧師，後來背叛信仰成為德古拉的心腹。五年前他將德古拉復活後，里希特‧貝爾蒙多雖然把主僕兩人打得淒慘不堪，夏福特卻死裡逃生逃過一劫，後來他暗地把黑暗力量回聚重建惡魔城後，控制里希達掃平入侵者，爭取時間讓德古拉復活。
+    本為教會的[牧師](https://zh.wikipedia.org/wiki/牧師 "wikilink")，後來背叛信仰成為德古拉的心腹。五年前他將德古拉復活後，里希特‧貝爾蒙多雖然把主僕兩人打得淒慘不堪，夏福特卻死裡逃生逃過一劫，後來他暗地把黑暗力量回聚重建惡魔城後，控制里希達掃平入侵者，爭取時間讓德古拉復活。
   - 死神（デス、Death）
     配音：[佐藤正治](../Page/佐藤正治.md "wikilink")
     德古拉伯爵的心腹，會尊稱艾卡多「少爺」。
@@ -54,7 +54,7 @@ Saturn版](https://zh.wikipedia.org/wiki/Sega_Saturn "wikilink")。該作品为�
 
 **主線故事**
 
-艾卡多沒多久遇到伯爵的忠實僕人——死神，並拒絕了勸說，而被奪走身上的所有裝備。艾卡多繼續向城堡深入探索。在城堡中數次遇到了瑪莉雅。瑪莉雅也拜託艾卡多幫忙尋找里希達。
+艾卡多沒多久遇到伯爵的忠實僕人——[死神](../Page/死神.md "wikilink")，並拒絕了勸說，而被奪走身上的所有裝備。艾卡多繼續向城堡深入探索。在城堡中數次遇到了瑪莉雅。瑪莉雅也拜託艾卡多幫忙尋找里希達。
 後來，艾卡多遇到里希達，里希達卻自稱「城主」，並召喚惡魔來襲擊他。擊退惡魔後里希達不知去向。
 
   -
@@ -75,15 +75,13 @@ Saturn版](https://zh.wikipedia.org/wiki/Sega_Saturn "wikilink")。該作品为�
 
 ## 發售
 
-游戏的[Sony](https://zh.wikipedia.org/wiki/Sony "wikilink")[PlayStation版本发行于](../Page/PlayStation.md "wikilink")1997年，相应的[Sega
-Saturn版本发行于](https://zh.wikipedia.org/wiki/Sega_Saturn "wikilink")1998年。2007年3月，移植至[Xbox
+游戏的PlayStation版本发行于1997年，相应的Sega Saturn版本发行于1998年。2007年3月，移植至[Xbox
 360平台](../Page/Xbox_360.md "wikilink")。2007年10月，《[惡魔城X年代記](../Page/惡魔城X年代記.md "wikilink")》於[PlayStation
 Portable平台發售](../Page/PlayStation_Portable.md "wikilink")，其中也收錄了PS版的月下。2018年10月26日，《惡魔城X
 精選集：月下夜想曲＆血之輪迴》於[PlayStation
-4平台發售](../Page/PlayStation_4.md "wikilink")，該版本的月下移植至PSP版遊戲，提供更高的解析度。\[1\]。PlayStation
-Portable與PlayStation
-4版基本上皆以[PlayStation版本進行移植](../Page/PlayStation.md "wikilink")，沒有[Sega
-Saturn版本新增的地圖內容](https://zh.wikipedia.org/wiki/Sega_Saturn "wikilink")。
+4平台發售](../Page/PlayStation_4.md "wikilink")，該版本的月下移植至PlayStation
+Portable版遊戲，提供更高的解析度。\[1\]。PlayStation Portable與PlayStation
+4版基本上皆以PlayStation版本進行移植，沒有Sega Saturn版本新增的地圖內容。
 
 ## 版本差異
 
@@ -93,8 +91,8 @@ Saturn版本新增的地圖內容](https://zh.wikipedia.org/wiki/Sega_Saturn "wi
 
 <!-- end list -->
 
-  - 最初第一批發售的版本，附贈歷代系列作的音樂CD和美術集。\[2\]
-  - 遊戲BUG：怪物圖鑑No.117「葛里芬」（フェンリル）不會掉落道具。
+  - 最初第一批發售的版本，附贈歷代系列作的[音樂CD和美術集](https://zh.wikipedia.org/wiki/音樂CD "wikilink")。\[2\]
+  - 遊戲[BUG](https://zh.wikipedia.org/wiki/BUG "wikilink")：怪物圖鑑No.117「葛里芬」（フェンリル）不會掉落道具。
 
 <!-- end list -->
 
@@ -107,18 +105,19 @@ Saturn版本新增的地圖內容](https://zh.wikipedia.org/wiki/Sega_Saturn "wi
 
 <!-- end list -->
 
-  - 改良版（[The Best版](../Page/The_Best.md "wikilink")、PS one Books版）
+  - 改良版（[The Best版](../Page/The_Best.md "wikilink")、[PS
+    one](https://zh.wikipedia.org/wiki/PS_one "wikilink") Books版）
 
 <!-- end list -->
 
-  - 已修正在通常版中出現的大部分BUG
+  - 已修正在通常版中出現的大部分BUG。
   - 追加「半妖精唱歌」功能，這原本是SS版才有的要素。
 
 ### SS版
 
   - 追加新區域「地下庭園」與「詛咒的牢獄」（呪われた牢獄），兩區都有新的怪物與BOSS。
   - 追加一些新武器、防具與道具。
-  - 追加4首BGM，其中1首為全新曲目，剩下3首則是系列前作的曲目。
+  - 追加4首[BGM](https://zh.wikipedia.org/wiki/BGM "wikilink")，其中1首為全新曲目，剩下3首則是系列前作的曲目。
   - 「瑪莉雅」變為可操作角色（SS版與PSP版的技能招式完全不同），此外在遊戲開頭就能從艾卡多、里希達、瑪莉雅這三人中選擇一位來操作。
   - 流程中新增一場瑪莉雅BOSS戰。
   - 裝備介面中新增「道具」（ホルダー）欄位，可單獨使用一個按鍵直接施放道具。
@@ -135,7 +134,7 @@ Saturn版本新增的地圖內容](https://zh.wikipedia.org/wiki/Sega_Saturn "wi
 
   - 僅透過[Xbox Live
     Arcade發售](https://zh.wikipedia.org/wiki/Xbox_Live_Arcade "wikilink")，完整移植自PS改良版。
-  - 提供原始版&抗鋸齒兩種畫面模式。
+  - 提供原始版&[抗鋸齒兩種畫面模式](https://zh.wikipedia.org/wiki/抗鋸齒 "wikilink")。
   - 新增排行榜與[成就功能](https://zh.wikipedia.org/wiki/成就_\(電子遊戲\) "wikilink")。\[4\]
 
 ### PSP版
@@ -149,7 +148,7 @@ Saturn版本新增的地圖內容](https://zh.wikipedia.org/wiki/Sega_Saturn "wi
 ### PS4版
 
 收錄於2018年的《惡魔城X
-精選集：月下夜想曲＆血之輪迴》，PS4版的月下基本上與PSP《[惡魔城X年代記](../Page/惡魔城X年代記.md "wikilink")》收錄的內容相同，差異在於解析度提升、支援PSN[獎盃](https://zh.wikipedia.org/wiki/成就_\(電子遊戲\) "wikilink")。\[7\]
+精選集：月下夜想曲＆血之輪迴》，PS4版的月下基本上與PSP《[惡魔城X年代記](../Page/惡魔城X年代記.md "wikilink")》收錄的內容相同，差異在於解析度提升、支援[PSN](https://zh.wikipedia.org/wiki/PSN "wikilink")[獎盃](https://zh.wikipedia.org/wiki/成就_\(電子遊戲\) "wikilink")。\[7\]
 
 ## 評價
 
