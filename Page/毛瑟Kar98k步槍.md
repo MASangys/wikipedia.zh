@@ -136,7 +136,7 @@ S及](https://zh.wikipedia.org/wiki/8_x_68_S "wikilink")[9.3 x
 
   - ：使用部份由蘇聯提供及繼承自[納粹德國的Kar](../Page/納粹德國.md "wikilink")98k，直至被當地生產的[AK步槍所取代](https://zh.wikipedia.org/wiki/AK-47突擊步槍 "wikilink")。
 
-      - [國家人民軍](https://zh.wikipedia.org/wiki/國家人民軍 "wikilink")
+      - [國家人民軍](../Page/國家人民軍.md "wikilink")
       - [德國人民警察](https://zh.wikipedia.org/wiki/德國人民警察 "wikilink")
       - [工人階級戰鬥隊](https://zh.wikipedia.org/wiki/工人階級戰鬥隊 "wikilink")
 

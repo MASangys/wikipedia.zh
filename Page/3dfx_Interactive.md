@@ -10,8 +10,8 @@ Systems公司後，其顯示卡的生產開始由自家獨攬，並不授權晶�
 
 ### Voodoo
 
-Voodoo是3dfx第一款纯3D加速芯片，它并非单独的显示卡，而是一块3D子卡，需要配合2D显示卡使用。Voodoo在市场上非常受欢迎，即使其售价和性能高于同时期的[RIVA
-128](https://zh.wikipedia.org/wiki/RIVA_128 "wikilink")、[i740](../Page/Intel740.md "wikilink")
+Voodoo是3dfx第一款纯3D加速芯片，它并非单独的显示卡，而是一块3D子卡，需要配合2D显示卡使用。即使其售价高于同时期的[RIVA
+128](https://zh.wikipedia.org/wiki/RIVA_128 "wikilink")、[i740](../Page/Intel740.md "wikilink")，但因为性能远远领先竞争对手，Voodoo依然在市场上非常受欢迎。
 
 ### Voodoo Rush
 

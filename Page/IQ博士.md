@@ -294,28 +294,284 @@
 
   - 愛藏版
 
-| 巻数 | ISBNコード  | 発売日                |
-| -- | -------- | ------------------ |
-| 1  | 1990年5月  | ISBN 4-08-782501-9 |
-| 2  | 1990年6月  | ISBN 4-08-782502-7 |
-| 3  | 1990年7月  | ISBN 4-08-782503-5 |
-| 4  | 1990年8月  | ISBN 4-08-782504-3 |
-| 5  | 1990年9月  | ISBN 4-08-782505-1 |
-| 6  | 1990年10月 | ISBN 4-08-782506-X |
-| 7  | 1990年11月 | ISBN 4-08-782507-8 |
-| 8  | 1990年12月 | ISBN 4-08-782508-6 |
-| 9  | 1991年1月  | ISBN 4-08-782509-4 |
-|    |          |                    |
+<table>
+<thead>
+<tr class="header">
+<th><p>冊數</p></th>
+<th><p>集英社</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>發售日期</p></td>
+<td><p>ISBN</p></td>
+</tr>
+<tr class="even">
+<td><p>1</p></td>
+<td><p>1990年5月</p></td>
+</tr>
+<tr class="odd">
+<td><p>2</p></td>
+<td><p>1990年6月</p></td>
+</tr>
+<tr class="even">
+<td><p>3</p></td>
+<td><p>1990年7月</p></td>
+</tr>
+<tr class="odd">
+<td><p>4</p></td>
+<td><p>1990年8月</p></td>
+</tr>
+<tr class="even">
+<td><p>5</p></td>
+<td><p>1990年9月</p></td>
+</tr>
+<tr class="odd">
+<td><p>6</p></td>
+<td><p>1990年10月</p></td>
+</tr>
+<tr class="even">
+<td><p>7</p></td>
+<td><p>1990年11月</p></td>
+</tr>
+<tr class="odd">
+<td><p>8</p></td>
+<td><p>1990年12月</p></td>
+</tr>
+<tr class="even">
+<td><p>9</p></td>
+<td><p>1991年1月</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
   - 文庫版
 
-<!-- end list -->
+<table>
+<thead>
+<tr class="header">
+<th><p>冊數</p></th>
+<th><p>集英社</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>發售日期</p></td>
+<td><p>ISBN</p></td>
+</tr>
+<tr class="even">
+<td><p>1</p></td>
+<td><p>1995年7月18日</p></td>
+</tr>
+<tr class="odd">
+<td><p>2</p></td>
+<td><p>ISBN 4-08-617052-3</p></td>
+</tr>
+<tr class="even">
+<td><p>3</p></td>
+<td><p>1995年10月18日</p></td>
+</tr>
+<tr class="odd">
+<td><p>4</p></td>
+<td><p>ISBN 4-08-617054-X</p></td>
+</tr>
+<tr class="even">
+<td><p>5</p></td>
+<td><p>1996年1月18日</p></td>
+</tr>
+<tr class="odd">
+<td><p>6</p></td>
+<td><p>ISBN 408617056-6</p></td>
+</tr>
+<tr class="even">
+<td><p>7</p></td>
+<td><p>1996年4月18日</p></td>
+</tr>
+<tr class="odd">
+<td><p>8</p></td>
+<td><p>ISBN 4-08-617058-2</p></td>
+</tr>
+<tr class="even">
+<td><p>9</p></td>
+<td><p>ISBN 4-08-617059-0</p></td>
+</tr>
+</tbody>
+</table>
 
   - 廉價版
 
-<!-- end list -->
+<table>
+<thead>
+<tr class="header">
+<th><p>副標題</p></th>
+<th><p>集英社</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>發售日期</p></td>
+<td><p>ISBN</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>2001年7月</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>2001年8月</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>2001年9月</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>ISBN 4-08-106083-5</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>2001年12月</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>ISBN 4-08-106131-9</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>2002年1月</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>2002年2月</p></td>
+</tr>
+<tr class="even">
+<td><p>{{lang|ja|ターボくんお誕生<nowiki></p></td>
+<td><p></nowiki>編}}</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>2002年7月</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>2002年8月</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>ISBN 4-08-106258-7</p></td>
+</tr>
+<tr class="even">
+<td><p>{{lang|ja|めちゃんこベスト vol.1 んちゃ<nowiki></p></td>
+<td><p>!</nowiki>編}}</p></td>
+</tr>
+<tr class="odd">
+<td><p>{{lang|ja|めちゃんこベスト vol.2 ほよよ<nowiki></p></td>
+<td><p>?</nowiki>編}}</p></td>
+</tr>
+<tr class="even">
+<td><p>{{lang|ja|めちゃんこベスト vol.3 バイちゃ<nowiki></p></td>
+<td><p>!</nowiki>編}}</p></td>
+</tr>
+</tbody>
+</table>
 
   - 完全版
+
+<table>
+<thead>
+<tr class="header">
+<th><p>冊數</p></th>
+<th><p>集英社</p></th>
+<th><p><a href="../Page/東立出版社.md" title="wikilink">東立出版社</a></p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>發售日期</p></td>
+<td><p>ISBN</p></td>
+<td><p>發售日期</p></td>
+</tr>
+<tr class="even">
+<td><p>1</p></td>
+<td><p>2006年10月4日</p></td>
+<td><p>ISBN 4-08-874174-9</p></td>
+</tr>
+<tr class="odd">
+<td><p>2</p></td>
+<td><p>ISBN 4-08-874175-7</p></td>
+<td><p>2009年8月17日</p></td>
+</tr>
+<tr class="even">
+<td><p>3</p></td>
+<td><p>2006年11月2日</p></td>
+<td><p>ISBN 4-08-874176-5</p></td>
+</tr>
+<tr class="odd">
+<td><p>4</p></td>
+<td><p>2006年12月4日</p></td>
+<td><p>ISBN 4-08-874177-3</p></td>
+</tr>
+<tr class="even">
+<td><p>5</p></td>
+<td><p>2007年1月4日</p></td>
+<td><p>ISBN 978-4-08-874178-1</p></td>
+</tr>
+<tr class="odd">
+<td><p>6</p></td>
+<td><p>2007年2月2日</p></td>
+<td><p>ISBN 978-4-08-874179-X</p></td>
+</tr>
+<tr class="even">
+<td><p>7</p></td>
+<td><p>2007年3月2日</p></td>
+<td><p>ISBN 978-4-08-874180-3</p></td>
+</tr>
+<tr class="odd">
+<td><p>8</p></td>
+<td><p>2007年4月4日</p></td>
+<td><p>ISBN 978-4-08-874181-1</p></td>
+</tr>
+<tr class="even">
+<td><p>9</p></td>
+<td><p>2007年5月2日</p></td>
+<td><p>ISBN 978-4-08-874182-X</p></td>
+</tr>
+<tr class="odd">
+<td><p>10</p></td>
+<td><p>2007年6月4日</p></td>
+<td><p>ISBN 978-4-08-874183-8</p></td>
+</tr>
+<tr class="even">
+<td><p>11</p></td>
+<td><p>2007年7月4日</p></td>
+<td><p>ISBN 978-4-08-874184-6</p></td>
+</tr>
+<tr class="odd">
+<td><p>12</p></td>
+<td><p>2007年8月3日</p></td>
+<td><p>ISBN 978-4-08-874185-4</p></td>
+</tr>
+<tr class="even">
+<td><p>13</p></td>
+<td><p>2007年9月4日</p></td>
+<td><p>ISBN 978-4-08-874186-2</p></td>
+</tr>
+<tr class="odd">
+<td><p>14</p></td>
+<td><p>2007年10月4日</p></td>
+<td><p>ISBN 978-4-08-874187-0</p></td>
+</tr>
+<tr class="even">
+<td><p>15</p></td>
+<td><p>2007年11月2日</p></td>
+<td><p>ISBN 978-4-08-874188-9</p></td>
+</tr>
+</tbody>
+</table>
 
 ## 電視動畫
 

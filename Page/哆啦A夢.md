@@ -599,9 +599,7 @@ Siw的佛寺有哆啦A夢繪製\[42\]。
 syndrome），這是日本針對先天性腦機能障礙中[注意力不足過動症](https://zh.wikipedia.org/wiki/注意力不足過動症 "wikilink")（ADHD）及[注意力缺失症](https://zh.wikipedia.org/wiki/注意力缺失症 "wikilink")（ADD）這類精神官能障礙的名稱。ADD是指***A**ttention
 **D**eficit **D**isorder*，也就是注意力缺失症；ADHD是指***A**ttention-**d**eficit
 **h**yperactivity
-**d**isorder*，也就是俗稱過動兒的過動症。前者所指的就是大雄在書中的性格，注意力不容易集中，散漫以及做事常失敗，而造成容易被[欺侮的對象](../Page/校園霸凌.md "wikilink")。後者所指的就類似胖虎在書中的性格設定一般，衝動、不容易冷靜且有暴力傾向，是個[欺負其他同學的過動兒](../Page/校園霸凌.md "wikilink")\[46\]。
-
-「大雄·胖虎症候群」這種的稱呼的正式出現是由[司馬理英子所出版的兒童精神方面書籍而來](https://zh.wikipedia.org/wiki/司馬理英子 "wikilink")。在《哆啦A夢》中，大雄與胖虎這樣的彩排與設定也是所認為不妥的地方。認為學生不應該閱讀這樣有[校園欺凌現象的書籍](../Page/校園霸凌.md "wikilink")，容易造成小學生有樣學樣的欺侮問題發生。不過這類評價也反駁大雄有哆啦A夢的協助，而且胖虎擁有強烈的正義感，應該不至於有負面影響。同時在大長篇中，有許多情節反而顯露出大雄另一面所隱藏的堅毅與有勇氣的性格，並非一面倒的就能認定大雄等於被欺侮的對象\[47\]。值得注意的是胖虎並不只是欺侮大雄一個，可能因為大雄為絕大部份故事的主角，所以大雄被胖虎欺侮的場面相對其他人物特別地多出很多。
+**d**isorder*，也就是俗稱過動兒的過動症。前者所指的就是大雄在書中的性格，注意力不容易集中，散漫以及做事常失敗，而造成容易被[欺侮的對象](../Page/校園霸凌.md "wikilink")。後者所指的就類似胖虎在書中的性格設定一般，衝動、不容易冷靜且有暴力傾向，是個[欺負其他同學的過動兒](../Page/校園霸凌.md "wikilink")\[46\]。「大雄·胖虎症候群」這種的稱呼的正式出現是由[司馬理英子所出版的兒童精神方面書籍而來](https://zh.wikipedia.org/wiki/司馬理英子 "wikilink")。在《哆啦A夢》中，大雄與胖虎這樣的彩排與設定也是所認為不妥的地方。認為學生不應該閱讀這樣有[校園欺凌現象的書籍](../Page/校園霸凌.md "wikilink")，容易造成小學生有樣學樣的欺侮問題發生。不過這類評價也被反駁為大雄有哆啦A夢的協助，而且胖虎擁有強烈的正義感，應該不至於有負面影響。同時在大長篇中，有許多情節反而顯露出大雄另一面所隱藏的堅毅與有勇氣的性格，並非一面倒的就能認定大雄等於被欺侮的對象\[47\]。值得注意的是胖虎並不只是欺侮大雄一個，可能因為大雄為絕大部份故事的主角，所以大雄被胖虎欺侮的場面相對其他人物特別地多出很多。
 
 ## 周邊商品
 
@@ -610,9 +608,11 @@ syndrome），這是日本針對先天性腦機能障礙中[注意力不足過�
 日本郵政曾經在2004年11月22日發行過題名為的一套以哆啦A夢為主題的[紀念郵票](https://zh.wikipedia.org/wiki/纪念邮票 "wikilink")。另外日本郵政還在1997年5月2日發行了哆啦A夢的問候郵票（Greeting
 Stamp）。[台灣的](https://zh.wikipedia.org/wiki/台灣 "wikilink")[中華郵政也發行過哆啦A夢個性化郵票](https://zh.wikipedia.org/wiki/中華郵政 "wikilink")。
 
-日本當地也有許多哆啦A夢的關聯的事物，例如各知名行業的[電視廣告演出](../Page/電視廣告.md "wikilink")、圖書禮券上的印刷、[銀行存款簿上的樣式等](../Page/銀行.md "wikilink")，甚至還有[朝日新聞也曾經主辦過](../Page/朝日新聞.md "wikilink")「哆啦A夢募款」活動。1983年開始[萬代株式會社也開發出哆啦A夢關聯的遊戲機](../Page/萬代.md "wikilink")，其後[FC遊戲機](https://zh.wikipedia.org/wiki/FC遊戲機 "wikilink")、[PC-Engine](https://zh.wikipedia.org/wiki/PC-Engine "wikilink")、[Game
+日本當地也有許多哆啦A夢的關聯的事物，例如各知名行業的[電視廣告演出](../Page/電視廣告.md "wikilink")、圖書禮券上的印刷、[銀行存款簿上的樣式等](../Page/銀行.md "wikilink")，甚至還有[朝日新聞也曾經主辦過](../Page/朝日新聞.md "wikilink")「哆啦A夢募款」活動。1983年開始[萬代株式會社](../Page/萬代.md "wikilink")(BANDEI)也開發出哆啦A夢關聯的遊戲機，其後[FC遊戲機](https://zh.wikipedia.org/wiki/FC遊戲機 "wikilink")、[PC-Engine](https://zh.wikipedia.org/wiki/PC-Engine "wikilink")、[Game
 Boy](../Page/Game_Boy.md "wikilink")、[超級任天堂](../Page/超級任天堂.md "wikilink")、[Mega
-Drive](../Page/Mega_Drive.md "wikilink")、[任天堂DS](../Page/任天堂DS.md "wikilink")、[任天堂3DS等都有相關的遊戲軟體出現](../Page/任天堂3DS.md "wikilink")。香港也有軟體廠商[Gameone曾經在](https://zh.wikipedia.org/wiki/Gameone "wikilink")1998年12月（2007年2月再版）發售過一套以哆啦A夢為藍本製作過一款電腦遊戲，名為[哆啦A夢大富翁](https://zh.wikipedia.org/wiki/哆啦A夢大富翁 "wikilink")。
+Drive](../Page/Mega_Drive.md "wikilink")、[任天堂DS](../Page/任天堂DS.md "wikilink")、[任天堂3DS](../Page/任天堂3DS.md "wikilink")、[任天堂Switch等遊戲機都有相關的遊戲軟件](../Page/任天堂Switch.md "wikilink")。
+
+香港也有軟體廠商[Gameone曾經在](https://zh.wikipedia.org/wiki/Gameone "wikilink")1998年12月（2007年2月再版）發售過一套以哆啦A夢為藍本製作過一款電腦遊戲，名為[哆啦A夢大富翁](https://zh.wikipedia.org/wiki/哆啦A夢大富翁 "wikilink")。
 
 ### 海底列車
 

@@ -122,9 +122,7 @@ Mac OS X 10.7 "Lion"。
   - [macOS
     v10.14](https://zh.wikipedia.org/wiki/macOS_Mojave "wikilink")
     "Mojave"
-  - [macOS
-    v10.15](https://zh.wikipedia.org/wiki/MacOS_Catalina "wikilink")
-    "Catalina"
+  - [macOS v10.15](../Page/MacOS_Catalina.md "wikilink") "Catalina"
 
 ## 時間線
 

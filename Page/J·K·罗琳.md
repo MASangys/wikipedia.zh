@@ -216,7 +216,7 @@ J.K·羅琳曾獲[聖安德魯斯大學](https://zh.wikipedia.org/wiki/聖安德
   -
 [Category:倫敦榮譽市民](https://zh.wikipedia.org/wiki/Category:倫敦榮譽市民 "wikilink")
 [Category:J·K·羅琳](https://zh.wikipedia.org/wiki/Category:J·K·羅琳 "wikilink")
-[Category:英格蘭科幻小說家](https://zh.wikipedia.org/wiki/Category:英格蘭科幻小說家 "wikilink")
+[Category:英国奇幻小说家](https://zh.wikipedia.org/wiki/Category:英国奇幻小说家 "wikilink")
 [Category:英格兰儿童文学作家](https://zh.wikipedia.org/wiki/Category:英格兰儿童文学作家 "wikilink")
 [Category:英格蘭教育家](https://zh.wikipedia.org/wiki/Category:英格蘭教育家 "wikilink")
 [Category:英格蘭電影監製](https://zh.wikipedia.org/wiki/Category:英格蘭電影監製 "wikilink")

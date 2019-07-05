@@ -1,7 +1,6 @@
-**Smart
-1**或**SMART-1**是[欧洲空间局一个借助](../Page/欧洲空间局.md "wikilink")[太阳能](https://zh.wikipedia.org/wiki/太阳能 "wikilink")[离子推进器进入](https://zh.wikipedia.org/wiki/离子推进器 "wikilink")[月球](../Page/月球.md "wikilink")[轨道的环月](https://zh.wikipedia.org/wiki/轨道 "wikilink")[人造卫星](https://zh.wikipedia.org/wiki/人造卫星 "wikilink")，该探测器由[瑞典负责设计](../Page/瑞典.md "wikilink")，于2003年9月27日23时14分（[UTC](../Page/协调世界时.md "wikilink")）发射升空。'"SMART'"是**用于先进技术研究的小型任务**（**S**mall
+**SMART-1**或**智能1號**是[欧洲空间局一个借助](../Page/欧洲空间局.md "wikilink")[太阳能](https://zh.wikipedia.org/wiki/太阳能 "wikilink")[离子推进器进入](https://zh.wikipedia.org/wiki/离子推进器 "wikilink")[月球](../Page/月球.md "wikilink")[轨道的环月](https://zh.wikipedia.org/wiki/轨道 "wikilink")[人造卫星](https://zh.wikipedia.org/wiki/人造卫星 "wikilink")，该探测器由[瑞典负责设计](../Page/瑞典.md "wikilink")，于2003年9月27日23时14分（[UTC](../Page/协调世界时.md "wikilink")）发射升空。'"SMART'"是**用于先进技术研究的小型任务**（**S**mall
 **M**issions for **A**dvanced **R**esearch in **T**echnology）的缩写。（[LISA
-Pathfinder是SMART](https://zh.wikipedia.org/wiki/LISA_Pathfinder "wikilink")-2的另一个名字，计划其将于2008年发射升空）SMART-1是欧洲第一个飞向[月球的](../Page/月球.md "wikilink")[太空飞船](https://zh.wikipedia.org/wiki/太空飞船 "wikilink")。该飞船于2006年9月3日5时42分（[UTC](../Page/协调世界时.md "wikilink")）成功撞击月球表面，为它的探月任务划上句号。
+Pathfinder是智能](https://zh.wikipedia.org/wiki/LISA_Pathfinder "wikilink")2號的另一个名字，计划其将于2008年发射升空）SMART-1是欧洲第一个飞向[月球的](../Page/月球.md "wikilink")[太空飞船](https://zh.wikipedia.org/wiki/太空飞船 "wikilink")。该飞船于2006年9月3日5时42分（[UTC](../Page/协调世界时.md "wikilink")）成功撞击月球表面，为它的探月任务划上句号。
 
 ## 飞行器设计
 
@@ -17,9 +16,9 @@ SMART-1是[欧洲空间局关于建造比类似](../Page/欧洲空间局.md "wik
 
 ## 任务
 
-作为"用于先进技术研究的小型任务"计划的一部分，SMART-1将会测试新的太空飞行技术。SMART-1主要目的是测试太阳能离子推进器。它也将测试小型科学设备的使用，这些设备可能更为有效。如果成功，这些技术将会在将来的ESA任务中使用。
+作为"用于先进技术研究的小型任务"计划的一部分，SMART-1将会测试新的太空飞行技术。智能1號主要目的是测试太阳能离子推进器。它也将测试小型科学设备的使用，这些设备可能更为有效。如果成功，这些技术将会在将来的ESA任务中使用。
 
-任务的第二个目标是获取关于月球的更多信息，例如其是如何形成的这类问题。SMART-1将会对月球表面进行[X射线和](../Page/X射线.md "wikilink")[红外线遥感采样绘制地图](../Page/红外线.md "wikilink")，从不同的角度拍摂图片并依此即可建立月球表面地图的三维模型。它还将使用X射线[分光镜决定月球的化学组成](https://zh.wikipedia.org/wiki/分光镜 "wikilink")。一个特别的目标是使用红外线搜寻月球南极固态[水的存在](../Page/水.md "wikilink")，那里从未被太阳辐射直接照射过。它也将对月球的[Peak
+任务的第二个目标是获取关于月球的更多信息，例如其是如何形成的这类问题。智能1號将会对月球表面进行[X射线和](../Page/X射线.md "wikilink")[红外线遥感采样绘制地图](../Page/红外线.md "wikilink")，从不同的角度拍摂图片并依此即可建立月球表面地图的三维模型。它还将使用X射线[分光镜决定月球的化学组成](https://zh.wikipedia.org/wiki/分光镜 "wikilink")。一个特别的目标是使用红外线搜寻月球南极固态[水的存在](../Page/水.md "wikilink")，那里从未被太阳辐射直接照射过。它也将对月球的[Peak
 of Eternal
 Light进行地图采样](https://zh.wikipedia.org/wiki/Peak_of_Eternal_Light "wikilink")，该地形的山顶永久性的曝露在太阳辐射之下，而周遭的环形山则永远出于阴影中。
 

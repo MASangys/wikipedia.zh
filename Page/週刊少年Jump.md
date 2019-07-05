@@ -131,15 +131,6 @@ NEXT》連載數集完結篇，緩和爛尾的問題，除此之外還有許多�
 <td><p>2012年12號</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/食戟之靈" title="wikilink">食戟之靈</a></p></td>
-<td></td>
-<td><p><a href="../Page/佐伯俊.md" title="wikilink">佐伯俊</a> </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/附田祐斗" title="wikilink">附田祐斗</a><br />
-</p></td>
-<td><p>2012年52號</p></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p><a href="../Page/火之丸相撲.md" title="wikilink">火之丸相撲</a></p></td>
 <td></td>
 <td></td>
@@ -147,7 +138,7 @@ NEXT》連載數集完結篇，緩和爛尾的問題，除此之外還有許多�
 <td><p>2014年26號</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/我的英雄學院.md" title="wikilink">我的英雄學院</a></p></td>
 <td></td>
 <td><p><a href="../Page/堀越耕平.md" title="wikilink">堀越耕平</a></p></td>
@@ -155,7 +146,7 @@ NEXT》連載數集完結篇，緩和爛尾的問題，除此之外還有許多�
 <td><p>2014年32號</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/黑色五葉草" title="wikilink">-{zh-hant:黑色五葉草;zh-hans:黑色四叶草}-</a></p></td>
 <td></td>
 <td><p><a href="../Page/田畠裕基.md" title="wikilink">田畠裕基</a></p></td>
@@ -163,7 +154,7 @@ NEXT》連載數集完結篇，緩和爛尾的問題，除此之外還有許多�
 <td><p>2015年12號</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/搖曳莊的幽奈小姐.md" title="wikilink">搖曳莊的幽奈小姐</a></p></td>
 <td></td>
 <td><p><a href="../Page/三浦忠弘.md" title="wikilink">三浦忠弘</a></p></td>
@@ -171,7 +162,7 @@ NEXT》連載數集完結篇，緩和爛尾的問題，除此之外還有許多�
 <td><p>2016年10號</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/鬼滅之刃.md" title="wikilink">鬼滅之刃</a></p></td>
 <td></td>
 <td><p><a href="../Page/吾峠呼世晴.md" title="wikilink">吾峠呼世晴</a></p></td>
@@ -179,7 +170,7 @@ NEXT》連載數集完結篇，緩和爛尾的問題，除此之外還有許多�
 <td><p>2016年11號</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/約定的夢幻島.md" title="wikilink">約定的夢幻島</a></p></td>
 <td></td>
 <td></td>
@@ -187,7 +178,7 @@ NEXT》連載數集完結篇，緩和爛尾的問題，除此之外還有許多�
 <td><p>2016年35號</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/我們真的學不來！.md" title="wikilink">我們真的學不來！</a></p></td>
 <td></td>
 <td></td>
@@ -195,7 +186,7 @@ NEXT》連載數集完結篇，緩和爛尾的問題，除此之外還有許多�
 <td><p>2017年10號</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/Dr.STONE_新石紀.md" title="wikilink">Dr.STONE 新石紀</a></p></td>
 <td></td>
 <td><p><a href="../Page/Boichi.md" title="wikilink">Boichi</a></p></td>
@@ -203,7 +194,7 @@ NEXT》連載數集完結篇，緩和爛尾的問題，除此之外還有許多�
 <td><p>2017年14號</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/演員夜凪景_act-age.md" title="wikilink">act-age 新世代演員</a></p></td>
 <td></td>
 <td></td>
@@ -211,7 +202,7 @@ NEXT》連載數集完結篇，緩和爛尾的問題，除此之外還有許多�
 <td><p>2018年8號</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/咒術迴戰.md" title="wikilink">咒術迴戰</a></p></td>
 <td></td>
 <td><p>芥見下下</p></td>
@@ -219,7 +210,7 @@ NEXT》連載數集完結篇，緩和爛尾的問題，除此之外還有許多�
 <td><p>2018年14號</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -227,7 +218,7 @@ NEXT》連載數集完結篇，緩和爛尾的問題，除此之外還有許多�
 <td><p>2019年01號</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/最後的西遊記" title="wikilink">最後的西遊記</a></p></td>
 <td></td>
 <td></td>
@@ -235,7 +226,7 @@ NEXT》連載數集完結篇，緩和爛尾的問題，除此之外還有許多�
 <td><p>2019年14號</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/梳扎頭髮的神緒結衣" title="wikilink">梳扎頭髮的神緒結衣</a></p></td>
 <td></td>
 <td><p><a href="../Page/椎橋寬.md" title="wikilink">椎橋寬</a></p></td>
@@ -243,7 +234,7 @@ NEXT》連載數集完結篇，緩和爛尾的問題，除此之外還有許多�
 <td><p>2019年15號</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/SAMURAI8～機侍_八丸傳" title="wikilink">SAMURAI8～機侍 八丸傳</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/大久保彰" title="wikilink">大久保彰</a></p></td>
@@ -251,15 +242,15 @@ NEXT》連載數集完結篇，緩和爛尾的問題，除此之外還有許多�
 <td><p>2019年24號</p></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td></td>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/雙心的太星" title="wikilink">雙心的太星</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/福田健太郎" title="wikilink">福田健太郎</a></p></td>
 <td><p>－</p></td>
 <td><p>2019年25號</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/Beast_Children" title="wikilink">Beast Children</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/寺坂研人" title="wikilink">寺坂研人</a></p></td>
@@ -267,7 +258,7 @@ NEXT》連載數集完結篇，緩和爛尾的問題，除此之外還有許多�
 <td><p>2019年26號</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/東京忍者小隊" title="wikilink">東京忍者小隊</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/松浦健人" title="wikilink">松浦健人</a></p></td>

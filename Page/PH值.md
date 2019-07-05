@@ -71,7 +71,7 @@ pH的計算公式如下：
 
   - 在待测溶液中加入[pH指示剂](https://zh.wikipedia.org/wiki/pH指示剂 "wikilink")，不同的指示剂根据不同的pH会变化颜色，根据指示剂的研究就可以确定pH的范围。滴定时，可以作精确的pH标准。此外，有多种pH指示剂配制而成的pH试剂。
   - 使用[pH试纸](https://zh.wikipedia.org/wiki/pH试纸 "wikilink")，pH试纸有广泛试纸和精密试纸，用玻棒沾一点待测溶液到试纸上，然后根据试纸的颜色变化并对照比色卡也可以得到溶液的pH。上方的表格就相当于一张比色卡。
-      - [pH试纸不能夠顯示出油份的pH](https://zh.wikipedia.org/wiki/pH试纸 "wikilink")，由於pH试纸以[氫離子來量度待测溶液的pH](https://zh.wikipedia.org/wiki/氫 "wikilink")，但油中沒含有[氫離子](https://zh.wikipedia.org/wiki/氫 "wikilink")，因此[pH试纸不能夠顯示出油份的pH](https://zh.wikipedia.org/wiki/pH试纸 "wikilink")。
+      - [pH试纸不能夠顯示出油份的pH](https://zh.wikipedia.org/wiki/pH试纸 "wikilink")，由於pH试纸以[氫離子來量度待测溶液的pH](https://zh.wikipedia.org/wiki/氫 "wikilink")，但油中没含有[氫離子](https://zh.wikipedia.org/wiki/氫 "wikilink")，因此[pH试纸不能夠顯示出油份的pH](https://zh.wikipedia.org/wiki/pH试纸 "wikilink")。
   - 使用[pH计](https://zh.wikipedia.org/wiki/pH计 "wikilink")，pH计是一种测量溶液pH的仪器，它通过pH选择电极（如玻璃电极）来测量出溶液的pH。pH计可以精确到小数点后三位。
 
 ## pOH

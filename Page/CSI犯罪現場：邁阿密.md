@@ -241,7 +241,7 @@
 
 ## 冷知識
 
-  - 首次出現是在《[CSI犯罪現場](../Page/CSI犯罪現場.md "wikilink")》的第2季（集數編號222「**」），當調查員凱薩琳·韋羅斯（）與華瑞克·布朗（）（分別由[瑪格·海根柏格](https://zh.wikipedia.org/wiki/瑪格·海根柏格 "wikilink")（）與[蓋瑞·杜爾登](https://zh.wikipedia.org/wiki/蓋瑞·杜爾登 "wikilink")（）飾演），在一個殺人兇手挾持一對母女逃離[拉斯維加斯之後](https://zh.wikipedia.org/wiki/拉斯維加斯 "wikilink")，在邁阿密發現小女孩一個人遊蕩，所以前往當地調查。
+  - 首次出現是在《[CSI犯罪現場](../Page/CSI犯罪現場.md "wikilink")》的第2季（集數編號222「**」），當調查員凱薩琳·韋羅斯（）與華瑞克·布朗（）（分別由[瑪格·海根柏格](../Page/瑪格·海根柏格.md "wikilink")（）與[蓋瑞·杜爾登](https://zh.wikipedia.org/wiki/蓋瑞·杜爾登 "wikilink")（）飾演），在一個殺人兇手挾持一對母女逃離[拉斯維加斯之後](https://zh.wikipedia.org/wiki/拉斯維加斯 "wikilink")，在邁阿密發現小女孩一個人遊蕩，所以前往當地調查。
 
 <!-- end list -->
 

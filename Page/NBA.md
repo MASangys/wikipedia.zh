@@ -150,7 +150,12 @@ League）測試。[NBA球員工會也對NBA聯盟聯盟這三項規則修改提�
 
 ## 球队
 
-[NBA_Conferences_Divisions_zh-tw.png](https://zh.wikipedia.org/wiki/File:NBA_Conferences_Divisions_zh-tw.png "fig:NBA_Conferences_Divisions_zh-tw.png")
+<div style="position: relative;font-size:100%">
+
+[Map_of_USA_and_Canada,_NBA,_zoom.svg](https://zh.wikipedia.org/wiki/File:Map_of_USA_and_Canada,_NBA,_zoom.svg "fig:Map_of_USA_and_Canada,_NBA,_zoom.svg")
+
+
+</div>
 
 NBA由成立之初的11隊發展到現在的30隊，當中經歷了許多新球隊的建立，老球隊的變遷或是倒閉。70年歷史中[波士顿凯尔特人是成功的球隊](../Page/波士顿凯尔特人.md "wikilink")，他們一共獲得了17個總冠軍，包括1959－1966年的八連冠。[洛杉磯湖人以](https://zh.wikipedia.org/wiki/洛杉磯湖人 "wikilink")16次總冠軍僅次其後。2012年最值錢的球隊是[洛杉磯湖人](https://zh.wikipedia.org/wiki/洛杉磯湖人 "wikilink")，市值9億美元。2014年，微軟前執行長鮑默爾將以20億美元（約台幣600億元）天價買下快艇，也寫下NBA球隊轉手價格新紀錄。\[21\]
 
@@ -192,8 +197,8 @@ TD Garden</p></td>
 <tr class="odd">
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/布魯克林籃網" title="wikilink">布魯克林籃網</a></strong><br />
 Brooklyn Nets</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/紐約州" title="wikilink">紐約州</a><a href="https://zh.wikipedia.org/wiki/布魯克林" title="wikilink">布魯克林</a><br />
-State of New York, Brooklyn</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/紐約州" title="wikilink">紐約州</a>，<a href="https://zh.wikipedia.org/wiki/紐約市" title="wikilink">紐約市</a>，<a href="https://zh.wikipedia.org/wiki/布魯克林區" title="wikilink">布魯克林區</a><br />
+State of New York, New York, Brooklyn</p></td>
 <td><p><a href="../Page/巴克萊中心.md" title="wikilink">巴克萊中心</a><br />
 Barclays Center</p></td>
 <td><p>1967年<sup>*</sup></p></td>
@@ -203,8 +208,8 @@ Barclays Center</p></td>
 <tr class="even">
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/纽约尼克斯" title="wikilink">纽约尼克斯</a></strong><br />
 New York Knicks</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/紐約州" title="wikilink">紐約州</a><a href="https://zh.wikipedia.org/wiki/紐約市" title="wikilink">紐約市</a><br />
-State of New York, New York</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/紐約州" title="wikilink">紐約州</a>，<a href="https://zh.wikipedia.org/wiki/紐約市" title="wikilink">紐約市</a>，<a href="https://zh.wikipedia.org/wiki/曼哈頓區" title="wikilink">曼哈頓區</a><br />
+State of New York, New York, Manhattan</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/麥迪遜廣場花園" title="wikilink">麥迪遜廣場花園</a><br />
 Madison Square Garden</p></td>
 <td><p>1946年</p></td>
@@ -765,11 +770,14 @@ ZhiZhi.jpg|NBA首位[中國籍](https://zh.wikipedia.org/wiki/中國籍 "wikilin
 [File:YaoMingonoffense2.jpg|首位入選NBA全明星賽亞洲球員、7次NBA全明星賽及名人堂](File:YaoMingonoffense2.jpg%7C首位入選NBA全明星賽亞洲球員、7次NBA全明星賽及名人堂)[中國籍球員](https://zh.wikipedia.org/wiki/中國籍 "wikilink")[姚明](https://zh.wikipedia.org/wiki/姚明 "wikilink")
 <File:Yi> Jianlian Wizards
 2.jpg|NBA[中國籍球員](https://zh.wikipedia.org/wiki/中國籍 "wikilink")[易建聯](../Page/易建聯.md "wikilink")
+<File:San_Antonio_Spurs_2002-2003_roster.jpg>|
+[巴特尔](../Page/孟克·巴特尔.md "wikilink")2003年随马刺夺冠
 <File:Sun> Yue with the Beijing Aoshen
-Olympians.jpg|第二位獲得NBA總冠軍的亞洲球員[中國籍](https://zh.wikipedia.org/wiki/中國籍 "wikilink")[孫悅](../Page/孙悦_\(篮球运动员\).md "wikilink")
-<File:Jeremy> Lin with the Knicks and
-reporters.jpg|NBA首位[台裔球員](https://zh.wikipedia.org/wiki/台裔 "wikilink")[林书豪](https://zh.wikipedia.org/wiki/林书豪 "wikilink")
-[File:ZhouQi2017.png|NBA](File:ZhouQi2017.png%7CNBA)[中國籍球員](https://zh.wikipedia.org/wiki/中國籍 "wikilink")[周琦](../Page/周琦_\(篮球运动员\).md "wikilink")
+Olympians.jpg|第二位獲得[NBA總冠軍的亞洲球員](https://zh.wikipedia.org/wiki/NBA總冠軍 "wikilink")[中國籍](https://zh.wikipedia.org/wiki/中國籍 "wikilink")[孫悅](../Page/孙悦_\(篮球运动员\).md "wikilink")
+<File:ZhouQi2017.png>|
+前NBA[中國籍球員](https://zh.wikipedia.org/wiki/中國籍 "wikilink")[周琦](../Page/周琦_\(篮球运动员\).md "wikilink")
+<File:Jeremy> Lin with the Knicks and reporters.jpg|
+首位獲得[NBA總冠軍的美籍华裔球員](https://zh.wikipedia.org/wiki/NBA總冠軍 "wikilink")[林书豪](https://zh.wikipedia.org/wiki/林书豪 "wikilink")
 
 ## NBA领导人
 

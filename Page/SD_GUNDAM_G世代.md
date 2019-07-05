@@ -1092,8 +1092,6 @@ SD Gundam GGENERATION FRONTIER  SD Gundam GGENERATION RE
   - [SD Gundam GGENERATION
     DS](http://www.bandaigames.channel.or.jp/list/ds_gene/)
   - [SD Gundam GGENERATION CROSS DRIVE](http://www.ggene.jp/crossdrive/)
-  - [SD Gundam GGENERATION
-    MOBILE](http://www.bandainamcogames.co.jp/mobile/content/appli.php?appli_id=2522&site_id=282&carrier=1)
   - [SD Gundam
     GGENERATION-DA](http://www.gundam.channel.or.jp/goods/videogame/pcggeneda/)
   - [SD Gundam GGENERATION GENESIS](http://ggg.ggame.jp/)

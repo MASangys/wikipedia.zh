@@ -14,7 +14,7 @@ MPL既是得到[自由软件基金会承认的](../Page/自由软件基金会.md
 
 使用MPL授權的軟體並不受[專利的限制](https://zh.wikipedia.org/wiki/專利權 "wikilink")，其可以自由使用，出售，並可自由的重新發佈。帶有專利程式碼的版本仍然可以使用，轉讓，甚至出售，但未經許可則不能修改程式碼。此外，MPL並不授予使用者對於開發者[商標的使用權](https://zh.wikipedia.org/wiki/商標 "wikilink")\[13\]。
 
-為了滿足MPL的條款限制，使用者必須負擔一些「責任」，主要是關於散發使用MPL授權的軟體。使用者必須確保重新散發的軟體所有原始碼均以MPL授權，即使是以[執行檔的方式提供或是與其他使用專有軟體授權的原始碼結合也一樣](https://zh.wikipedia.org/wiki/執行檔 "wikilink")。但若跟以[GNU通用公共授權條款](https://zh.wikipedia.org/wiki/GNU通用公共授權條款 "wikilink")、[GNU較寬鬆公共許可證](https://zh.wikipedia.org/wiki/GNU較寬鬆公共許可證 "wikilink")、[Affero通用公共許可證授權的原始碼結合則是例外](https://zh.wikipedia.org/wiki/Affero通用公共許可證 "wikilink")。此時開發者則可選用以上三種更加嚴格的條款來授權\[14\]。
+為了滿足MPL的條款限制，使用者必須負擔一些「責任」，主要是關於散發使用MPL授權的軟體。使用者必須確保重新散發的軟體所有原始碼均以MPL授權，即使是以[執行檔的方式提供或是與其他使用專有軟體授權的原始碼結合也一樣](../Page/執行檔.md "wikilink")。但若跟以[GNU通用公共授權條款](https://zh.wikipedia.org/wiki/GNU通用公共授權條款 "wikilink")、[GNU較寬鬆公共許可證](https://zh.wikipedia.org/wiki/GNU較寬鬆公共許可證 "wikilink")、[Affero通用公共許可證授權的原始碼結合則是例外](https://zh.wikipedia.org/wiki/Affero通用公共許可證 "wikilink")。此時開發者則可選用以上三種更加嚴格的條款來授權\[14\]。
 
 ## 历史
 

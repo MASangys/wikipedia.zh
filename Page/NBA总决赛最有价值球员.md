@@ -391,9 +391,25 @@ Award**），原名NBA总决赛最有价值球员奖，是從1968-69球季開始
       - [沙奎尔·奥尼尔](../Page/沙奎尔·奥尼尔.md "wikilink")，（2000-02）
       - [蒂姆·邓肯](https://zh.wikipedia.org/wiki/蒂姆·邓肯 "wikilink")，（1999，2003，2005）
       - [雷霸龍·詹姆士](https://zh.wikipedia.org/wiki/雷霸龍·詹姆士 "wikilink")，（2012，2013，2016）
+  - 获得二次FMVP的球员共七位，分别是：
+      - [威利斯·里德](../Page/威利斯·里德.md "wikilink")，（1970，1973）
+      - [卡里姆·阿卜杜勒·贾巴尔](https://zh.wikipedia.org/wiki/卡里姆·阿卜杜勒·贾巴尔 "wikilink")，（1971，1985）
+      - [拉里·伯德](https://zh.wikipedia.org/wiki/拉里·伯德 "wikilink")，（1984，1986）
+      - [哈基姆·奥拉朱旺](../Page/哈基姆·奥拉朱旺.md "wikilink")，（1994，1995）
+      - [科比·布莱恩特](../Page/科比·布莱恩特.md "wikilink")，（2009，2010）
+      - [凯文·杜兰特](../Page/凯文·杜兰特.md "wikilink")，（2017，2018）
+      - [科怀·伦纳德](https://zh.wikipedia.org/wiki/科怀·伦纳德 "wikilink")，（2014，2019）
+  - 代表两支不同的球队拿到总决赛最有价值球员奖的球员共三位，分别是：
+      - [卡里姆·阿卜杜勒·贾巴尔](https://zh.wikipedia.org/wiki/卡里姆·阿卜杜勒·贾巴尔 "wikilink")，1971年代表[密尔沃基雄鹿队](https://zh.wikipedia.org/wiki/密尔沃基雄鹿队 "wikilink")、1985年代表[洛杉矶湖人队](https://zh.wikipedia.org/wiki/洛杉矶湖人队 "wikilink")
+      - [雷霸龍·詹姆士](https://zh.wikipedia.org/wiki/雷霸龍·詹姆士 "wikilink")，2012和2013年代表[迈阿密热火队](https://zh.wikipedia.org/wiki/迈阿密热火队 "wikilink")、2016年代表[克利夫兰骑士队](https://zh.wikipedia.org/wiki/克利夫兰骑士队 "wikilink")
+      - [科怀·伦纳德](https://zh.wikipedia.org/wiki/科怀·伦纳德 "wikilink")，2014年代表[圣安东尼奥马刺队](https://zh.wikipedia.org/wiki/圣安东尼奥马刺队 "wikilink")、2019年代表[多伦多猛龙队](https://zh.wikipedia.org/wiki/多伦多猛龙队 "wikilink")
+  - [1980年](../Page/1980年.md "wikilink")，[埃尔文·约翰逊获得该奖项](https://zh.wikipedia.org/wiki/埃尔文·约翰逊 "wikilink")，成为历史上最年轻的获奖者（20岁276天）。
+  - [1982年](../Page/1982年.md "wikilink")，[埃尔文·约翰逊再次获得该奖项](https://zh.wikipedia.org/wiki/埃尔文·约翰逊 "wikilink")，成为历史上最二年轻的获奖者（22岁298天）。
+  - [2014年](https://zh.wikipedia.org/wiki/2014年NBA总决赛 "wikilink")，[科怀·伦纳德获得该奖项](https://zh.wikipedia.org/wiki/科怀·伦纳德 "wikilink")，成为历史上最三年轻的获奖者（22岁351天）。
   - [2007年](../Page/2007年NBA总决赛.md "wikilink")，[托尼·帕克是首位获得该奖项的欧洲球员](../Page/托尼·帕克.md "wikilink")。
   - [2011年](https://zh.wikipedia.org/wiki/2011年NBA总决赛 "wikilink")，[德克·诺维茨基是第二位獲得該獎項的歐洲球員](../Page/德克·诺维茨基.md "wikilink")。
-  - [2015年](https://zh.wikipedia.org/wiki/2015年NBA总决赛 "wikilink")，[安德烈·伊格达拉是唯一在例行賽全無先發過卻拿到FMVP的球員](../Page/安德烈·伊格达拉.md "wikilink")
+  - [2015年](https://zh.wikipedia.org/wiki/2015年NBA总决赛 "wikilink")，[安德烈·伊格达拉是唯一在例行賽全無先發過卻拿到FMVP的球員](../Page/安德烈·伊格达拉.md "wikilink")。
+  - [2019年](https://zh.wikipedia.org/wiki/2019年NBA总决赛 "wikilink")，[科懷·倫納德唯一一位分別在東西區的球隊贏得決賽MVP的球員](https://zh.wikipedia.org/wiki/科懷·倫納德 "wikilink")。
 
 ## 参见
 

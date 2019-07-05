@@ -10,7 +10,7 @@ JAPAN](https://zh.wikipedia.org/wiki/BMG_JAPAN "wikilink")（2007年 -
 1978年7月7日米希亞出身于日本长崎，受到母亲喜爱美国流行音乐、父亲喜爱[爵士乐的影响](../Page/爵士乐.md "wikilink")，11岁时决心当歌手并立志一定要在20岁以前出道。15岁时，被电影[天使唱情歌2中女歌手](https://zh.wikipedia.org/wiki/天使唱情歌2 "wikilink")[Lauren
 Hill所唱的歌曲](https://zh.wikipedia.org/wiki/Lauren_Hill "wikilink")[His Eye
 Is On The
-Sparrow所震撼](https://zh.wikipedia.org/wiki/His_Eye_Is_On_The_Sparrow "wikilink")。高中时的米希亞参加过许许多多的选秀会，但纷纷落选。直到高中时代17岁时向黑人声乐家学习发声训练后，不仅潜力被发觉，且歌唱功力更大幅进展。MISIA在小学时已渴望成为一名歌手，可惜一直没有机会。直至於1997年5月在家乡[福冈参加试演会](../Page/福冈县.md "wikilink")，她天使般的声线引起了各方注意，结识了BMG
+Sparrow所震撼](https://zh.wikipedia.org/wiki/His_Eye_Is_On_The_Sparrow "wikilink")。高中时的米希亞参加过许许多多的选秀会，但纷纷落选。直到高中时代17岁时向黑人声乐家学习发声训练后，不仅潜力被發掘，且歌唱功力更大幅进展。MISIA在小学时已渴望成为一名歌手，可惜一直没有机会。直至於1997年5月在家乡[福冈参加试演会](../Page/福冈县.md "wikilink")，她天使般的声线引起了各方注意，结识了BMG
 FUNHOUSE JAPAN
 A\&R的工作人员，并深受肯定。独具慧眼的唱片公司制作人立刻被米希亞所吸引，认为她是日本少数能将黑人R\&B音乐诠释得这么好的人才，立即将她签下，邀请她去[东京发展](../Page/东京.md "wikilink")，也为她的音乐之路开启了平坦大道。可唱出超過三個八度音，曾演唱經典[海豚音歌曲](https://zh.wikipedia.org/wiki/海豚音 "wikilink")《LOVING
 YOU》。
@@ -103,8 +103,8 @@ THE LIGHT则已成为其演唱会经典招牌歌曲，透过由下而上射向�
     MISIA 星空のライヴVIII
     MISIA 星空のライヴIX PREMIUM LIVE
 
-2013年2月21日迎来出道15周年的歌手米希亚于20号推出了纪念唱片《Super Best Records -15th
-Celebration-》发行第一周销量6.5万张，时隔8年8个月成为ORICON榜单的周销量冠军。MISIA上一次在ORICON榜单夺冠是2004年6月发行的专辑《MISIA
+2013年2月21日迎来出道15周年的歌手米希亞於20號推出了纪念唱片《Super Best Records -15th
+Celebration-》發行第一周銷量6.5萬張，時隔8年8個月成為ORICON榜单的周销量冠军。MISIA上一次在ORICON榜单夺冠是2004年6月发行的专辑《MISIA
 Love &
 Ballads》，这次是她时隔8年8个月再次夺冠。这张纪念唱片中收录了她的出道单曲《深情包围》以及《现在就想见你》、《有阳光的地方》等共计45首歌曲，另外还有她在15周年给粉丝的话，初回限定特典中还有她在15年来一些保留视频。
 另外，20号米希亚还为纪念出道15周年开始了全日本巡演《LAWSON presents MISIA 星空的演唱会VII -15th
@@ -149,8 +149,7 @@ Candle Night 鹿児島・仙厳園）
     2008.09.28 首尔 [奥林匹克公园](../Page/奧林匹克公園_\(首爾\).md "wikilink")
     2008.10.04 香港
     [亚洲国际博览馆](https://zh.wikipedia.org/wiki/亚洲国际博览馆 "wikilink")
-    2008.10.25 上海
-    [闸北体育场](https://zh.wikipedia.org/wiki/闸北体育场 "wikilink")
+    2008.10.25 上海 [闸北体育场](../Page/闸北体育场.md "wikilink")
 
 **MISIA ENCORE 星空 LIVE 2010**
 
@@ -326,6 +325,8 @@ Candle Night 鹿児島・仙厳園）
 32. 僕はペガサス　君はポラリス 02/05/2014
 33. 白色季節/櫻花片片(白い季節／桜ひとひら) 18/02/2015
 34. 孤兒的眼淚(オルフェンズの涙) 25/11/2015
+35. 就在你身旁（君のそばにいるよ）11/2017
+36. 愛的形狀 (アイノカタチ) 8/22/2018
 
 ### 專輯
 
@@ -359,6 +360,7 @@ Candle Night 鹿児島・仙厳園）
 24. MISIA SUPER BEST RECORDS -15th Celebration- - 2/20/2013
 25. 晨曦曙光（NEW MORNING） - 2/4/2014
 26. 美聲愛神（Love Bebop） - 2016
+27. 無盡情深（Life is going on and on） - 12/26/2018
 
 ### 線上發行
 

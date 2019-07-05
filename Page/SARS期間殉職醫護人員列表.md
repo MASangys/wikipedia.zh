@@ -24,41 +24,41 @@
 
 | 姓名                                                               | 職位                                                   | 殉職日期       |
 | ---------------------------------------------------------------- | ---------------------------------------------------- | ---------- |
-| [劉大鈞](https://zh.wikipedia.org/wiki/劉大鈞\(醫生\) "wikilink")（-2003） | 香港兒科私人執業醫生\[14\]                                     | 2003年4月3日  |
-| [劉永佳](https://zh.wikipedia.org/wiki/劉永佳 "wikilink")（1965-2003）   | [屯門醫院胸肺科内科護士](../Page/屯門醫院.md "wikilink")\[15\]      | 2003年4月26日 |
-| [謝婉雯](../Page/謝婉雯.md "wikilink")（1968-2003）                      | 屯門醫院胸肺科內科醫生\[16\]                                    | 2003年5月13日 |
-| [鄧香美](../Page/鄧香美.md "wikilink")（1967-2003）                      | [基督教聯合醫院健康服務助理](../Page/基督教聯合醫院.md "wikilink")\[17\] | 2003年5月16日 |
-| [劉錦蓉](https://zh.wikipedia.org/wiki/劉錦蓉 "wikilink")（1956-2003）   | 基督教聯合醫院健康服務助理\[18\]                                  | 2003年5月27日 |
-| [王庚娣](https://zh.wikipedia.org/wiki/王庚娣 "wikilink")（1950-2003）   | [威爾斯親王醫院健康服務助理](../Page/威爾斯親王醫院.md "wikilink")\[19\] | 2003年5月31日 |
-| [張錫憲](https://zh.wikipedia.org/wiki/張錫憲 "wikilink")（1945-2003）   | 香港耳鼻喉科私人執業醫生\[20\]                                   | 2003年5月31日 |
-| [鄭夏恩](../Page/鄭夏恩.md "wikilink")（1973-2003）                      | [大埔醫院醫生](../Page/大埔醫院.md "wikilink")\[21\]           | 2003年6月1日  |
+| [劉大鈞](https://zh.wikipedia.org/wiki/劉大鈞\(醫生\) "wikilink")（-2003） | 香港兒科私人執業醫生                                           | 2003年4月3日  |
+| [劉永佳](https://zh.wikipedia.org/wiki/劉永佳 "wikilink")（1965-2003）   | [屯門醫院胸肺科内科護士](../Page/屯門醫院.md "wikilink")\[14\]      | 2003年4月26日 |
+| [謝婉雯](../Page/謝婉雯.md "wikilink")（1968-2003）                      | 屯門醫院胸肺科內科醫生\[15\]                                    | 2003年5月13日 |
+| [鄧香美](../Page/鄧香美.md "wikilink")（1967-2003）                      | [基督教聯合醫院健康服務助理](../Page/基督教聯合醫院.md "wikilink")\[16\] | 2003年5月16日 |
+| [劉錦蓉](https://zh.wikipedia.org/wiki/劉錦蓉 "wikilink")（1956-2003）   | 基督教聯合醫院健康服務助理\[17\]                                  | 2003年5月27日 |
+| [王庚娣](https://zh.wikipedia.org/wiki/王庚娣 "wikilink")（1950-2003）   | [威爾斯親王醫院健康服務助理](../Page/威爾斯親王醫院.md "wikilink")\[18\] | 2003年5月31日 |
+| [張錫憲](https://zh.wikipedia.org/wiki/張錫憲 "wikilink")（1945-2003）   | 香港耳鼻喉科私人執業醫生\[19\]                                   | 2003年5月31日 |
+| [鄭夏恩](../Page/鄭夏恩.md "wikilink")（1973-2003）                      | [大埔醫院醫生](../Page/大埔醫院.md "wikilink")\[20\]           | 2003年6月1日  |
 
 ##
 
-  - [卡爾婁·武爾班尼](../Page/卡爾婁·武爾班尼.md "wikilink")（2003年3月14日，義大利籍[世界卫生组织派驻](../Page/世界卫生组织.md "wikilink")[越南](https://zh.wikipedia.org/wiki/越南 "wikilink")[河内医生](https://zh.wikipedia.org/wiki/河内 "wikilink")，亦是首位發現[SARS的醫生](https://zh.wikipedia.org/wiki/SARS "wikilink")）\[22\]
+  - [卡爾婁·武爾班尼](../Page/卡爾婁·武爾班尼.md "wikilink")（2003年3月14日，義大利籍[世界卫生组织派驻](../Page/世界卫生组织.md "wikilink")[越南](https://zh.wikipedia.org/wiki/越南 "wikilink")[河内医生](https://zh.wikipedia.org/wiki/河内 "wikilink")，亦是首位發現[SARS的醫生](https://zh.wikipedia.org/wiki/SARS "wikilink")）\[21\]
 
 ##
 
 | 姓名                                                  | 職位                                                               | 殉職日期             |
 | --------------------------------------------------- | ---------------------------------------------------------------- | ---------------- |
-| [王复赐](https://zh.wikipedia.org/wiki/王复赐 "wikilink") | [陈笃生医院医生](https://zh.wikipedia.org/wiki/陈笃生医院 "wikilink")        | 2003年4月9日\[23\]  |
-| [赵光灏](https://zh.wikipedia.org/wiki/赵光灏 "wikilink") | [中央医院血管外科顾问医生](https://zh.wikipedia.org/wiki/新加坡中央医院 "wikilink") | 2003年4月22日\[24\] |
+| [王复赐](https://zh.wikipedia.org/wiki/王复赐 "wikilink") | [陈笃生医院医生](https://zh.wikipedia.org/wiki/陈笃生医院 "wikilink")        | 2003年4月9日\[22\]  |
+| [赵光灏](https://zh.wikipedia.org/wiki/赵光灏 "wikilink") | [中央医院血管外科顾问医生](https://zh.wikipedia.org/wiki/新加坡中央医院 "wikilink") | 2003年4月22日\[23\] |
 
 ##
 
 | 姓名                                                    | 職位                                                                       | 殉職日期        |
 | ----------------------------------------------------- | ------------------------------------------------------------------------ | ----------- |
-| [陳靜秋](https://zh.wikipedia.org/wiki/陳靜秋 "wikilink")   | 台北[和平醫院護理長](https://zh.wikipedia.org/wiki/和平醫院 "wikilink")\[25\]         | 2003年5月1日   |
-| [陳呂麗玉](https://zh.wikipedia.org/wiki/陳呂麗玉 "wikilink") | 台北和平醫院清潔環保員\[26\]                                                        | 2003年5月3日   |
-| [胡貴芳](https://zh.wikipedia.org/wiki/胡貴芳 "wikilink")   | 台北[仁濟醫院護理師](https://zh.wikipedia.org/wiki/仁濟醫院_\(台北市\) "wikilink")\[27\] | 2003年5月7日   |
-| [林佳鈴](https://zh.wikipedia.org/wiki/林佳鈴 "wikilink")   | 台北和平醫院護理師\[28\]                                                          | 2003年5月11日  |
-| [郭國展](https://zh.wikipedia.org/wiki/郭國展 "wikilink")   | 台北市政府消防局第三救災救護大隊延平分隊救護隊員\[29\]                                           | 2003年5月15日  |
-| [林重威](https://zh.wikipedia.org/wiki/林重威 "wikilink")   | 台北和平醫院醫生\[30\]                                                           | 2003年5月15日  |
-| [林永祥](https://zh.wikipedia.org/wiki/林永祥 "wikilink")   | 高雄[長庚醫院内科医生](https://zh.wikipedia.org/wiki/長庚醫院 "wikilink")\[31\]        | 2003年5月16日  |
-| [鄭雪慧](https://zh.wikipedia.org/wiki/鄭雪慧 "wikilink")   | 台北和平醫院護理部副主任\[32\]                                                       | 2003年5月18日  |
-| [楊淑媜](https://zh.wikipedia.org/wiki/楊淑媜 "wikilink")   | 台北和平醫院護理書記\[33\]                                                         | 2003年5月28日  |
-| [蔡巧妙](https://zh.wikipedia.org/wiki/蔡巧妙 "wikilink")   | 台北和平醫院醫檢師\[34\]                                                          | 2003年6月13日  |
-| [簡惠珍](https://zh.wikipedia.org/wiki/簡惠珍 "wikilink")   | 台北榮民總醫院護理長\[35\]                                                         | 2003年10月13日 |
+| [陳靜秋](https://zh.wikipedia.org/wiki/陳靜秋 "wikilink")   | 台北[和平醫院護理長](https://zh.wikipedia.org/wiki/和平醫院 "wikilink")\[24\]         | 2003年5月1日   |
+| [陳呂麗玉](https://zh.wikipedia.org/wiki/陳呂麗玉 "wikilink") | 台北和平醫院清潔環保員\[25\]                                                        | 2003年5月3日   |
+| [胡貴芳](https://zh.wikipedia.org/wiki/胡貴芳 "wikilink")   | 台北[仁濟醫院護理師](https://zh.wikipedia.org/wiki/仁濟醫院_\(台北市\) "wikilink")\[26\] | 2003年5月7日   |
+| [林佳鈴](https://zh.wikipedia.org/wiki/林佳鈴 "wikilink")   | 台北和平醫院護理師\[27\]                                                          | 2003年5月11日  |
+| [郭國展](https://zh.wikipedia.org/wiki/郭國展 "wikilink")   | 台北市政府消防局第三救災救護大隊延平分隊救護隊員\[28\]                                           | 2003年5月15日  |
+| [林重威](https://zh.wikipedia.org/wiki/林重威 "wikilink")   | 台北和平醫院醫生\[29\]                                                           | 2003年5月15日  |
+| [林永祥](https://zh.wikipedia.org/wiki/林永祥 "wikilink")   | 高雄[長庚醫院内科医生](https://zh.wikipedia.org/wiki/長庚醫院 "wikilink")\[30\]        | 2003年5月16日  |
+| [鄭雪慧](https://zh.wikipedia.org/wiki/鄭雪慧 "wikilink")   | 台北和平醫院護理部副主任\[31\]                                                       | 2003年5月18日  |
+| [楊淑媜](https://zh.wikipedia.org/wiki/楊淑媜 "wikilink")   | 台北和平醫院護理書記\[32\]                                                         | 2003年5月28日  |
+| [蔡巧妙](https://zh.wikipedia.org/wiki/蔡巧妙 "wikilink")   | 台北和平醫院醫檢師\[33\]                                                          | 2003年6月13日  |
+| [簡惠珍](https://zh.wikipedia.org/wiki/簡惠珍 "wikilink")   | 台北榮民總醫院護理長\[34\]                                                         | 2003年10月13日 |
 
 ## 相关作品
 
@@ -101,27 +101,26 @@
 11.
 12.
 13.
-14. [1](http://www.rotary3450.org/district/pdg/peterwan/files/Memorialize%20Rotarian%20Lau%20Tai%20Kun.doc)
-15. [2](http://www.people.com.cn/BIG5/shizheng/18/21/20030507/986142.html)
+14. [1](http://www.people.com.cn/BIG5/shizheng/18/21/20030507/986142.html)
+15.
 16.
 17.
 18.
 19.
 20.
-21.
-22. Donald G. McNeil Jr.: *[Disease's Pioneer Is Mourned as a
+21. Donald G. McNeil Jr.: *[Disease's Pioneer Is Mourned as a
     Victim](http://www.nytimes.com/2003/04/08/science/sciencespecial/08PROF.html)*,
     The New York Times, April 8, 2003
+22.
 23.
-24.
-25. [3](http://www.nownews.com/2003/05/01/10969-1448140.htm)
-26.
-27. [4](http://www.nownews.com/2003/05/07/319-1451237.htm)
-28.
-29. [5](http://enews.nfa.gov.tw/V4one-news.asp?NewsNo=2330)
-30. [6](http://www.nownews.com/2003/05/15/23-1455030.htm)
-31. [7](http://www.nownews.com/2003/09/04/10997-1507979.htm)
-32.
-33. [8](http://www.nownews.com/2003/05/28/23-1461166.htm)
+24. [2](http://www.nownews.com/2003/05/01/10969-1448140.htm)
+25.
+26. [3](http://www.nownews.com/2003/05/07/319-1451237.htm)
+27.
+28. [4](http://enews.nfa.gov.tw/V4one-news.asp?NewsNo=2330)
+29. [5](http://www.nownews.com/2003/05/15/23-1455030.htm)
+30. [6](http://www.nownews.com/2003/09/04/10997-1507979.htm)
+31.
+32. [7](http://www.nownews.com/2003/05/28/23-1461166.htm)
+33.
 34.
-35.

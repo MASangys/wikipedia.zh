@@ -98,8 +98,7 @@ php 7.1 系列，论坛载入速度更快，原来的插件系统已经被扩展
 
   - [Discuz\!](../Page/Discuz!.md "wikilink")
   - [PHPWind](../Page/PHPWind.md "wikilink")
-  - [Invision Power
-    Board](https://zh.wikipedia.org/wiki/Invision_Power_Board "wikilink")
+  - [Invision Power Board](../Page/Invision_Power_Board.md "wikilink")
 
 ## 外部链接
 

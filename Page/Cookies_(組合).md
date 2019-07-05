@@ -7,7 +7,7 @@ Cookies**或**四餅**\[2\]，重組後的四人備受各界好評。而被淘�
 
 2010年8月11日，4名舊成員於[九龍灣展貿中心舉行](https://zh.wikipedia.org/wiki/九龍灣展貿中心 "wikilink")[演唱會](https://zh.wikipedia.org/wiki/演唱會 "wikilink")，[楊愛瑾及](../Page/楊愛瑾.md "wikilink")[吳雨霏結伴到場支持](../Page/吳雨霏.md "wikilink")，[傅穎及](https://zh.wikipedia.org/wiki/傅穎 "wikilink")[鄧麗欣亦有為前隊友打氣](../Page/鄧麗欣.md "wikilink")；前者則送上了花牌，後者則在[微博為她們打氣](../Page/微博.md "wikilink")。\[5\]
 
-2011年，隨著[楊愛瑾與](../Page/楊愛瑾.md "wikilink")[傅穎已離開金牌大風兩年](https://zh.wikipedia.org/wiki/傅穎 "wikilink")，[吳雨霏及](../Page/吳雨霏.md "wikilink")[鄧麗欣先後離開金牌大風](../Page/鄧麗欣.md "wikilink")，轉投其他經理人公司\[6\]\[7\]，Cookies已經沒有任何成員仍然屬於[金牌大風](../Page/金牌大風.md "wikilink")，並且四位成員都屬於不同的經理人公司。
+2011年，[楊愛瑾與](../Page/楊愛瑾.md "wikilink")[傅穎離開金牌大風兩年後](https://zh.wikipedia.org/wiki/傅穎 "wikilink")，[吳雨霏及](../Page/吳雨霏.md "wikilink")[鄧麗欣亦先後離開金牌大風](../Page/鄧麗欣.md "wikilink")，轉投其他經理人公司\[6\]\[7\]，Cookies已經沒有任何成員仍然屬於[金牌大風](../Page/金牌大風.md "wikilink")，並且四位成員都屬於不同的經理人公司。
 
 2012年8月3日，[楊愛瑾](../Page/楊愛瑾.md "wikilink")、[吳雨霏](../Page/吳雨霏.md "wikilink")、[鄧麗欣連同](../Page/鄧麗欣.md "wikilink")4名舊成員為同期出道的組合[Shine於](../Page/Shine.md "wikilink")[九龍灣展貿中心舉行的SHINE](https://zh.wikipedia.org/wiki/九龍灣展貿中心 "wikilink")
 AGAIN
@@ -209,21 +209,20 @@ AGAIN
 
 ## 電影
 
-  - [九個女仔一隻鬼](../Page/九個女仔一隻鬼.md "wikilink")
-  - [百分百感覺2003](../Page/百分百感覺2003.md "wikilink")
+  - [九個女仔一隻鬼](../Page/九個女仔一隻鬼.md "wikilink")（全員參演）
+  - [百分百感覺2003](../Page/百分百感覺2003.md "wikilink")（全員參演）
   - [龍咁威](https://zh.wikipedia.org/wiki/龍咁威 "wikilink")（Stephy參演）
   - [失驚無神](../Page/失驚無神.md "wikilink")（Stephy、Theresa參演）
   - [三更2之餃子](https://zh.wikipedia.org/wiki/三更2之餃子 "wikilink")（Miki參演）
   - [甜絲絲](../Page/甜絲絲.md "wikilink")（Stephy、Kary參演）
   - [B420](https://zh.wikipedia.org/wiki/B420 "wikilink")（Miki參演）
-  - [龍咁威2之皇母娘娘呢](https://zh.wikipedia.org/wiki/龍咁威2之皇母娘娘呢 "wikilink")（Miki參演
-    Theresa客串）
+  - [龍咁威2之皇母娘娘呢](https://zh.wikipedia.org/wiki/龍咁威2之皇母娘娘呢 "wikilink")（全員參演）
   - [雀聖](../Page/雀聖.md "wikilink")（Theresa參演）
   - [春田花花同學會](../Page/春田花花同學會.md "wikilink")（Miki、Theresa、Kary客串）
   - [心想事成](../Page/心想事成.md "wikilink")（Miki參演）
   - [獨家試愛](../Page/獨家試愛.md "wikilink")（Stephy、Theresa參演）
   - [至尊無賴](../Page/至尊無賴.md "wikilink")（Theresa、Miki參演）
-  - [戀愛初歌](../Page/戀愛初歌.md "wikilink")
+  - [戀愛初歌](../Page/戀愛初歌.md "wikilink")（全員參演）
   - [黑拳](https://zh.wikipedia.org/wiki/黑拳 "wikilink")（Miki、Theresa參演）
   - [愛上屍新娘](https://zh.wikipedia.org/wiki/愛上屍新娘 "wikilink")（Miki參演）
   - [阿飛](../Page/阿飛.md "wikilink")（Miki參演）
@@ -319,8 +318,7 @@ AGAIN
     縮水Cookies精選四餅再戰](https://hk.entertainment.appledaily.com/entertainment/daily/article/20030428/3258428)
 3.  [換血重組歌影任發揮
     Cookies四女各奔東西](https://hk.entertainment.appledaily.com/entertainment/daily/article/20050328/4767640)
-4.  [楊愛瑾重回舊東家
-    跑步備戰求翻身](http://ent.sina.com.cn/y/2009-10-05/09062721064.shtml)
+4.  [Miki巧遇側田獲拍頭打氣](http://the-sun.on.cc/cnt/entertainment/20091005/00471_001.html)
 5.  [鄧麗欣、傅穎冇眼睇
     餅碎開騷咪嘴口都唔郁](https://hk.entertainment.appledaily.com/entertainment/daily/article/20100813/14339726)
 6.  [吳雨霏過檔新藝寶

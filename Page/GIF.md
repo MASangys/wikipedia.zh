@@ -7,9 +7,9 @@ Format）是一种[位图](../Page/位图.md "wikilink")[图形文件格式](htt
 
 圖像互換格式格式的原始版本叫做**87a**。1989年，CompuServe發布了一個名為**89a**的增強版本，在这个版本中，为图像互换格式文档扩充了[图形控制区块](https://zh.wikipedia.org/wiki/图形控制区块 "wikilink")、[备注](https://zh.wikipedia.org/wiki/备注 "wikilink")、[说明](https://zh.wikipedia.org/wiki/说明 "wikilink")、[应用程序接口等四个区块](../Page/应用程序接口.md "wikilink")，并提供了对[透明色和](https://zh.wikipedia.org/wiki/透明色 "wikilink")[多帧动画的支持](https://zh.wikipedia.org/wiki/多帧动画 "wikilink")。現在我們一般所說的GIF動畫都是指89a的格式\[1\]。
 
-1995年9月，[Netscape
+隨著1995年9月的[Netscape
 Navigator](https://zh.wikipedia.org/wiki/Netscape_Navigator "wikilink")
-2.0支援讓動畫GIF無限循環的功能\[2\]。
+2.0發佈，Netscape定義了一個GIF格式的應用程式擴充功能，它定義了一個動畫應該循環多少次或是否應該無限次地播放，這導致了動畫GIF的興起\[2\]。
 
 2015年5月，Facebook添加了GIF支持，尽管他们最初不支持在他们的网站上使用GIF。\[3\]\[4\]
 

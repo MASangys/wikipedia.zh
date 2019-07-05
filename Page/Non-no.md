@@ -26,7 +26,7 @@
   - [木下日名子](https://zh.wikipedia.org/wiki/木下日名子 "wikilink")（2013年11月號 -
     ）○
   - [泉春](https://zh.wikipedia.org/wiki/泉春 "wikilink")（2013年11月號 - ）○
-  - [佐藤美希](https://zh.wikipedia.org/wiki/佐藤美希 "wikilink")（2014年3月號 - ）○
+  - [佐藤美希](../Page/佐藤美希.md "wikilink")（2014年3月號 - ）○
   - [新木優子](../Page/新木優子.md "wikilink")（2014年3月號 - ）○
   - [久慈暁子](https://zh.wikipedia.org/wiki/久慈暁子 "wikilink")（2014年11月號 - ）○
   - [鈴木優華](https://zh.wikipedia.org/wiki/鈴木優華 "wikilink")（2014年11月號 - ）○

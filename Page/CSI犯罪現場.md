@@ -274,7 +274,7 @@ Archie Kao</p></td>
 <tr class="odd">
 <td><p><br />
 </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/瑪格·海根柏格" title="wikilink">瑪格·海根柏格</a><br />
+<td><p><a href="../Page/瑪格·海根柏格.md" title="wikilink">瑪格·海根柏格</a><br />
 </p></td>
 <td><p>三級調查員、夜班主管</p></td>
 <td><p>1-12, 14, 16</p></td>

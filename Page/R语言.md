@@ -1,6 +1,6 @@
 **R语言**，一種[自由軟體](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")[程式語言與操作環境](https://zh.wikipedia.org/wiki/程式語言 "wikilink")，主要用于[统计分析](https://zh.wikipedia.org/wiki/统计 "wikilink")、绘图、[数据挖掘](../Page/数据挖掘.md "wikilink")。R本來是由來自[新西蘭](https://zh.wikipedia.org/wiki/新西蘭 "wikilink")[奧克蘭大學的](../Page/奧克蘭大學.md "wikilink")[罗斯·伊哈卡和](../Page/罗斯·伊哈卡.md "wikilink")[罗伯特·杰特曼開發](../Page/罗伯特·杰特曼.md "wikilink")（也因此稱為R），現在由“R開發核心團隊”負責開發。R基于[S语言的一个](https://zh.wikipedia.org/wiki/S语言 "wikilink")[GNU計劃项目](../Page/GNU計劃.md "wikilink")，所以也可以当作S语言的一种实现，通常用S语言编写的代码都可以不作修改的在R环境下运行。R的語法是來自[Scheme](../Page/Scheme.md "wikilink")。
 
-R的[原始碼可自由下載使用](https://zh.wikipedia.org/wiki/原始碼 "wikilink")，亦有已編譯的[執行檔版本可以下載](https://zh.wikipedia.org/wiki/執行檔 "wikilink")，可在多种平台下运行，包括UNIX（也包括FreeBSD和Linux）、Windows和MacOS。R主要是以[命令行操作](../Page/命令行界面.md "wikilink")，同時有人開發了幾種[圖形用戶界面](https://zh.wikipedia.org/wiki/圖形用戶界面 "wikilink")，其中[RStudio是最为广泛使用的](../Page/RStudio.md "wikilink")[整合開發環境](https://zh.wikipedia.org/wiki/整合開發環境 "wikilink")。
+R的[原始碼可自由下載使用](https://zh.wikipedia.org/wiki/原始碼 "wikilink")，亦有已編譯的[執行檔版本可以下載](../Page/執行檔.md "wikilink")，可在多种平台下运行，包括UNIX（也包括FreeBSD和Linux）、Windows和MacOS。R主要是以[命令行操作](../Page/命令行界面.md "wikilink")，同時有人開發了幾種[圖形用戶界面](https://zh.wikipedia.org/wiki/圖形用戶界面 "wikilink")，其中[RStudio是最为广泛使用的](../Page/RStudio.md "wikilink")[整合開發環境](https://zh.wikipedia.org/wiki/整合開發環境 "wikilink")。
 
 ## 功能
 

@@ -173,6 +173,7 @@ X
 [Category:圖像檢視器](https://zh.wikipedia.org/wiki/Category:圖像檢視器 "wikilink")
 [Category:免費軟件](https://zh.wikipedia.org/wiki/Category:免費軟件 "wikilink")
 [Category:已終止開發的Google軟體](https://zh.wikipedia.org/wiki/Category:已終止開發的Google軟體 "wikilink")
+[Category:图片分享网站](https://zh.wikipedia.org/wiki/Category:图片分享网站 "wikilink")
 
 1.  <http://picasa-readme.blogspot.com/2008/08/picasa-30-beta-build-3717.html>
 2.  [Google-Labs-Picasa-for-Linux](http://groups.google.com/group/Google-Labs-Picasa-for-Linux/browse_thread/thread/e0dfa1cb50060174)

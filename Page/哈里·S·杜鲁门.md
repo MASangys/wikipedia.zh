@@ -1,4 +1,4 @@
-**哈里·S·杜鲁门**（，），[美国](../Page/美国.md "wikilink")[民主黨](https://zh.wikipedia.org/wiki/民主黨_\(美國\) "wikilink")[政治家](../Page/政治家.md "wikilink")，第34任[副总统](../Page/美国副总统.md "wikilink")（1945年），隨後接替因病逝世的[富兰克林·罗斯福总统](../Page/富兰克林·德拉诺·罗斯福.md "wikilink")，成为了第33任[美国总统](../Page/美国总统.md "wikilink")（1945年－1953年）。他也是一名[共濟會成員](https://zh.wikipedia.org/wiki/共濟會 "wikilink")。
+**哈里·S·杜鲁门**（，），[美国](../Page/美国.md "wikilink")[民主黨](https://zh.wikipedia.org/wiki/民主黨_\(美國\) "wikilink")[政治家](../Page/政治家.md "wikilink")，第34任[副总统](../Page/美国副总统.md "wikilink")（1945年），隨後接替因病逝世的[富兰克林·罗斯福总统](../Page/富兰克林·德拉诺·罗斯福.md "wikilink")，成为了第33任[美利堅合眾國总统](https://zh.wikipedia.org/wiki/美利堅合眾國总统 "wikilink")（1945年－1953年）。他也是一名[共濟會成員](https://zh.wikipedia.org/wiki/共濟會 "wikilink")。
 
 面對美國國內事務，杜魯門總統正好遇上新一輪混亂的經濟衰退週期，當時物資短缺、有無數罷工事件和有關否決《塔夫脫-哈特利法》的爭議，都是當代的寫照。杜魯門雖於1948年成功連任總統，但卻未能成功掌握國會多數，以致於他的「[良政](https://zh.wikipedia.org/wiki/良政 "wikilink")」計劃幾乎全部流產。然而他曾率先以行政命令在美軍內部施行廢除[種族隔離](https://zh.wikipedia.org/wiki/種族隔離 "wikilink")，並因應形勢主持第二次「[紅色恐慌](https://zh.wikipedia.org/wiki/紅色恐慌 "wikilink")」，從政府部門辭退了數以千計可能影響國政的[共產黨同情者](https://zh.wikipedia.org/wiki/共產黨 "wikilink")。不過，由於受到一連串財政醜聞打擊，有達數百位由他任命的官員必須辭職。
 
@@ -85,9 +85,9 @@ zh-hk:勞埃·C·施塔克;}-當選](https://zh.wikipedia.org/wiki/劳埃德·C�
 
 ### 杜魯門委員會
 
-1941年6月23日，即[納粹德國進攻](../Page/納粹德國.md "wikilink")[蘇聯的第二天](../Page/苏联.md "wikilink")，參議員杜魯門發表到：「假如德國比蘇聯強，我們應該幫助蘇聯一方；但若果佔優的是蘇聯，那我們便應該幫助德國，而且要盡量讓他們大開殺戒，儘管我一直不願看到希特勒在任何情況下取得勝利。」（載於1941年6月24日的《[紐約時報](../Page/纽约时报.md "wikilink")》）杜魯門這段看似美国會支援納粹德國的言論，使自由主義者和保守主義者均感到不安，結果杜魯門很快便收回這段話並作出了澄清。
+1941年6月23日，即[納粹德國進攻](../Page/納粹德國.md "wikilink")[蘇聯的第二天](../Page/苏联.md "wikilink")，參議員杜魯門發表到：「假如德國比蘇聯強，我們應該幫助蘇聯一方；但若果佔優的是蘇聯，那我們便應該幫助德國，而且要盡量讓他們大開殺戒，儘管我一直不願看到希特勒在任何情況下取得勝利。」\[23\]杜魯門這段看似美国會支援納粹德國的言論，使自由主義者和保守主義者均感到不安，結果杜魯門很快便收回這段話並作出了澄清。
 
-杜魯門在戰時領導一個委員會（通稱[杜魯門委員會](https://zh.wikipedia.org/wiki/杜魯門委員會 "wikilink")），负责調查軍方有關行政混亂、浪費和詐騙資源等醜聞，為他搏得了不少名聲和赞誉。其中，他對軍方實施的「常識節流措施」，更使杜魯門受到了廣泛的支持和敬重。最初，这个委员会被认为可能会損害軍隊士氣，但事实證明委員會是一大成功，因為它為軍方总共節省了至少110億美元，而杜魯門更因此出現在了《[時代週刊](https://zh.wikipedia.org/wiki/時代_\(雜誌\) "wikilink")》的封面上。杜魯門曾9次出現在《時代週刊》的封面，其中在1945年和1949年更被選為「風雲人物」\[23\]
+杜魯門在戰時領導一個委員會，通稱[杜魯門委員會](https://zh.wikipedia.org/wiki/杜魯門委員會 "wikilink")，负责調查軍方有關行政混亂、浪費和詐騙資源等醜聞，為他搏得了不少名聲和赞誉。其中，他對軍方實施的「常識節流措施」，更使杜魯門受到了廣泛的支持和敬重。最初，这个委员会被认为可能会損害軍隊士氣，但事实證明委員會是一大成功，因為它為軍方总共節省了至少110億美元，而杜魯門更因此出現在了《[時代週刊](https://zh.wikipedia.org/wiki/時代_\(雜誌\) "wikilink")》的封面上。杜魯門曾9次出現在《時代週刊》的封面，其中在1945年和1949年更被選為「風雲人物」\[24\]
 。
 
 ### 副總統
@@ -113,13 +113,13 @@ zh-hk:勞埃·C·施塔克;}-當選](https://zh.wikipedia.org/wiki/劳埃德·C�
 ### 第二次世界大戰結束前夕
 
 [Bigthree-photofromjapanesewiki.jpg](https://zh.wikipedia.org/wiki/File:Bigthree-photofromjapanesewiki.jpg "fig:Bigthree-photofromjapanesewiki.jpg")，指令日本必須無條件投降。\]\]
-當時，第二次世界大戰已經接近尾聲，杜魯門是在羅斯福的身體健康每况愈下時被任命為副總統的，而任職副總統的時間只有82日，因此他們兩人沒有開展重要的合作，一些主要計劃如[曼哈顿计划](../Page/曼哈顿计划.md "wikilink")，杜魯門亦沒有參與。\[24\]
+當時，第二次世界大戰已經接近尾聲，杜魯門是在羅斯福的身體健康每况愈下時被任命為副總統的，而任職副總統的時間只有82日，因此他們兩人沒有開展重要的合作，一些主要計劃如[曼哈顿计划](../Page/曼哈顿计划.md "wikilink")，杜魯門亦沒有參與。\[25\]
 
-在1945年4月12日，正當杜魯門在國會和議長[山姆·雷伯恩一起的時候](https://zh.wikipedia.org/wiki/山姆·雷伯恩 "wikilink")，杜魯門被傳召到[白宮](../Page/白宮.md "wikilink")。到達白宮後，[埃莉诺·罗斯福告訴他羅斯福已經身故](../Page/埃莉诺·罗斯福.md "wikilink")。於是杜魯門慰問可以為她做甚麼，但這位前第一夫人卻反問道：「**我們**有甚麼事可以為**你**效勞嗎？你現在可正身陷困境。」\[25\]
+在1945年4月12日，正當杜魯門在國會和議長[山姆·雷伯恩一起的時候](https://zh.wikipedia.org/wiki/山姆·雷伯恩 "wikilink")，杜魯門被傳召到[白宮](../Page/白宮.md "wikilink")。到達白宮後，[埃莉诺·罗斯福告訴他羅斯福已經身故](../Page/埃莉诺·罗斯福.md "wikilink")。於是杜魯門慰問可以為她做甚麼，但這位前第一夫人卻反問道：「**我們**有甚麼事可以為**你**效勞嗎？你現在可正身陷困境。」\[26\]
 
 杜魯門曾告訴傳媒：
 
-> 「我的感覺就像月亮、星星和所有星球都要墜落到我身上。」\[26\]
+> 「我的感覺就像月亮、星星和所有星球都要墜落到我身上。」\[27\]
 
 以下摘錄了杜魯門上任後首五個月所發生的大事：
 
@@ -181,7 +181,7 @@ zh-hk:勞埃·C·施塔克;}-當選](https://zh.wikipedia.org/wiki/劳埃德·C�
 自從[重建時期以來](https://zh.wikipedia.org/wiki/美國重建時期 "wikilink")，每屆聯邦政府都沒有再關注民權的發展，而杜魯門正是第一位重新關注民權的總統。在1946年，美國本土發生了數宗殘暴的[私刑](../Page/私刑.md "wikilink")，其中有兩名黑人男子和兩名黑人婦女在[喬治亞州的](../Page/喬治亞州.md "wikilink")[-{zh-hans:沃尔顿县;
 zh-hk:華爾頓縣;}-附近被殺害](https://zh.wikipedia.org/wiki/沃尔顿县_\(佐治亚州\) "wikilink")；另外亦有一名剛從二戰戰場退役的非洲裔軍人遭到虐待，稱為[艾薩克·伍德沃德事件](https://zh.wikipedia.org/wiki/艾薩克·伍德沃德事件 "wikilink")。這些濫用私刑的事件引起了社會對民權的關注，並促使杜魯門在1947年發表一份名為《[保障這些權利](https://zh.wikipedia.org/wiki/保障這些權利 "wikilink")》的報告。該報告對改革民權提出了10點議程，包括將私刑列入[聯邦罪行](https://zh.wikipedia.org/wiki/聯邦罪行 "wikilink")。到了1948年2月，杜魯門總統將這些議程提到國會，並建議設立幾個聯邦政府職位，以專責落實一些如[選舉權和平等](../Page/选举权.md "wikilink")[就業等人權](../Page/僱傭.md "wikilink")。
 
-可是這些改革卻招來南部民主黨員在黨內總統提名大會表達出強烈反對，但杜魯門對此不以為然，並說：「我的祖先是[聯盟國的人](../Page/美利堅聯盟國.md "wikilink")……但當我得知剛從海外歸來的黑人士兵，在[密西西比給拋出軍車之餘](../Page/密西西比州.md "wikilink")，又遭到毒打，我立即感到了反胃。」\[27\]
+可是這些改革卻招來南部民主黨員在黨內總統提名大會表達出強烈反對，但杜魯門對此不以為然，並說：「我的祖先是[聯盟國的人](../Page/美利堅聯盟國.md "wikilink")……但當我得知剛從海外歸來的黑人士兵，在[密西西比給拋出軍車之餘](../Page/密西西比州.md "wikilink")，又遭到毒打，我立即感到了反胃。」\[28\]
 
 ## 總統第二屆（1949年－1953年）
 
@@ -189,10 +189,10 @@ zh-hk:華爾頓縣;}-附近被殺害](https://zh.wikipedia.org/wiki/沃尔顿县
 
 1948年11月2日，在[1948年美國總統選舉中](https://zh.wikipedia.org/wiki/1948年美國總統選舉 "wikilink")，杜魯門出乎眾人預料之外，在大選中勝出。
 
-在民主黨全國黨大會中，杜魯門意圖淡化他在民權方面的政綱，以緩和黨內南北派系的衝突。可是，美國參議院候選人兼[明尼苏达州](https://zh.wikipedia.org/wiki/明尼蘇達州 "wikilink")[明尼阿波利斯市長](https://zh.wikipedia.org/wiki/明尼阿波利斯 "wikilink")[休伯特·汉弗莱在地區黨領袖支持下](../Page/休伯特·汉弗莱.md "wikilink")，在會上建議民主黨應採取更積極進取的人權政策，結果建議被杜魯門全心全意地採納。不出兩星期後，杜魯門簽署了《[行政命令9981號](https://zh.wikipedia.org/wiki/行政命令9981號 "wikilink")》，指令在美國軍隊廢除了種族隔離政策。\[28\]
+在民主黨全國黨大會中，杜魯門意圖淡化他在民權方面的政綱，以緩和黨內南北派系的衝突。可是，美國參議院候選人兼[明尼苏达州](https://zh.wikipedia.org/wiki/明尼蘇達州 "wikilink")[明尼阿波利斯市長](https://zh.wikipedia.org/wiki/明尼阿波利斯 "wikilink")[休伯特·汉弗莱在地區黨領袖支持下](../Page/休伯特·汉弗莱.md "wikilink")，在會上建議民主黨應採取更積極進取的人權政策，結果建議被杜魯門全心全意地採納。不出兩星期後，杜魯門簽署了《[行政命令9981號](https://zh.wikipedia.org/wiki/行政命令9981號 "wikilink")》，指令在美國軍隊廢除了種族隔離政策。\[29\]
 但杜魯門事實上十分擔心支持民權改革會帶來政治風險，至於失去南方迪克西民主黨人的支持，更有可能拖垮民主黨。
 
-當時的共和黨總統候選人、紐約州州長[托马斯·杜威在民意調查中被認定穩操勝券](../Page/托马斯·杜威.md "wikilink")，而[盖洛普民意测验在大選前兩星期](https://zh.wikipedia.org/wiki/盖洛普民意测验 "wikilink")，即使還有14%游離票，也停止了民意調查\[29\]。結果，盖洛普民意测验的創造者[乔治·盖洛普犯了一個在日後不再重蹈的錯誤](https://zh.wikipedia.org/wiki/乔治·盖洛普 "wikilink")，他總結到：「游離票站到了執政者的一方。」
+當時的共和黨總統候選人、紐約州州長[托马斯·杜威在民意調查中被認定穩操勝券](../Page/托马斯·杜威.md "wikilink")，而[盖洛普民意测验在大選前兩星期](https://zh.wikipedia.org/wiki/盖洛普民意测验 "wikilink")，即使還有14%游離票，也停止了民意調查\[30\]。結果，盖洛普民意测验的創造者[乔治·盖洛普犯了一個在日後不再重蹈的錯誤](https://zh.wikipedia.org/wiki/乔治·盖洛普 "wikilink")，他總結到：「游離票站到了執政者的一方。」
 
 杜魯門站在守車車尾，沿著鐵路穿州過省，到各地短暫停留，發表演說的競選手法，取得了一定的成功，在日後更成為每屆總統競選必備的重要環節。
 
@@ -212,12 +212,12 @@ zh-hk:華爾頓縣;}-附近被殺害](https://zh.wikipedia.org/wiki/沃尔顿县
 
 不久，國民政府遷台，美國總統杜魯門於1950年1月5日（隔年）發表「不介入台灣海峽爭端」聲明。
 
-另外，受民主黨传统[左翼思想影响](../Page/左派和右派.md "wikilink")，杜魯門对中國共產黨一度抱有幻想，认为中國共產黨具有[民族主义性质](https://zh.wikipedia.org/wiki/民族主义 "wikilink")，可以容纳[資本主義思想](https://zh.wikipedia.org/wiki/資本主義 "wikilink")，认为有可能将中華人民共和國拉出[苏联阵营](../Page/苏联.md "wikilink")，更试图在1949年與中華人民共和國建交。但1950年初，中国与苏联正式签订了新的《中苏友好同盟条约》，中国投入[苏联怀抱](../Page/苏联.md "wikilink")。1950年1月5日，杜魯門發表聲明，「美國將不以任何方式干預中國目前局勢，或進行足以使美國牽涉於中國內爭的措施。」美國不擬在中國使用武裝力量，不以任何方式干預中國內爭，不予國民政府軍事援助和勸告，但美國政府將繼續給國民政府有限經濟援助。\[30\]
+另外，受民主黨传统[左翼思想影响](../Page/左派和右派.md "wikilink")，杜魯門对中國共產黨一度抱有幻想，认为中國共產黨具有[民族主义性质](https://zh.wikipedia.org/wiki/民族主义 "wikilink")，可以容纳[資本主義思想](https://zh.wikipedia.org/wiki/資本主義 "wikilink")，认为有可能将中華人民共和國拉出[苏联阵营](../Page/苏联.md "wikilink")，更试图在1949年與中華人民共和國建交。但1950年初，中国与苏联正式签订了新的《中苏友好同盟条约》，中国投入[苏联怀抱](../Page/苏联.md "wikilink")。1950年1月5日，杜魯門發表聲明，「美國將不以任何方式干預中國目前局勢，或進行足以使美國牽涉於中國內爭的措施。」美國不擬在中國使用武裝力量，不以任何方式干預中國內爭，不予國民政府軍事援助和勸告，但美國政府將繼續給國民政府有限經濟援助。\[31\]
 
 ### 阿爾傑·希斯與麥卡錫主義的興起
 
 [Truman's_reply_to_McCarthy.gif](https://zh.wikipedia.org/wiki/File:Truman's_reply_to_McCarthy.gif "fig:Truman's_reply_to_McCarthy.gif")
-在1948年8月3日，《[時代週刊](https://zh.wikipedia.org/wiki/時代_\(雜誌\) "wikilink")》資深編輯[惠特克·錢伯斯在](https://zh.wikipedia.org/wiki/惠特克·錢伯斯 "wikilink")[非美活動調查委員會的聽證會上](https://zh.wikipedia.org/wiki/非美活動調查委員會 "wikilink")，提交一份名單，上面載有自1930年代至1940年代於美國政府內暗中活動的共產黨員\[31\]。該名單上載有[阿爾傑·希斯的名字](https://zh.wikipedia.org/wiki/阿爾傑·希斯 "wikilink")，而希斯是國務院的一位官員，曾參與創立聯合國。事後，希斯在1948年8月17日找錢伯斯當面對質\[32\]，白宮的官方回應亦要求終止對希斯的調查，以引開公眾的注意。
+在1948年8月3日，《[時代週刊](https://zh.wikipedia.org/wiki/時代_\(雜誌\) "wikilink")》資深編輯[惠特克·錢伯斯在](https://zh.wikipedia.org/wiki/惠特克·錢伯斯 "wikilink")[非美活動調查委員會的聽證會上](https://zh.wikipedia.org/wiki/非美活動調查委員會 "wikilink")，提交一份名單，上面載有自1930年代至1940年代於美國政府內暗中活動的共產黨員\[32\]。該名單上載有[阿爾傑·希斯的名字](https://zh.wikipedia.org/wiki/阿爾傑·希斯 "wikilink")，而希斯是國務院的一位官員，曾參與創立聯合國。事後，希斯在1948年8月17日找錢伯斯當面對質\[33\]，白宮的官方回應亦要求終止對希斯的調查，以引開公眾的注意。
 
 然而兩人的對質與白宮的回應卻引起了軒然大波。在1948年11月，錢伯斯帶領兩名非美活動調查委員會的調查員到[马里兰州的一塊南瓜田](../Page/马里兰州.md "wikilink")，並在一個空心的南瓜中找到四枚微型膠卷。微型膠卷內所載的資料則在後來被稱為「南瓜文件」。（事件亦使[加里福尼亞州參議員](../Page/加利福尼亚州.md "wikilink")[尼克遜一舉成名](../Page/理查德·尼克松.md "wikilink")，因為他後來對著這些膠卷，擺出一個拿著放大鏡的姿勢，拍攝了幾張廣泛流傳的相片）
 
@@ -229,19 +229,19 @@ zh-hk:惠林;}-的共和黨婦女大會上發言](../Page/惠灵_\(西弗吉尼�
 
 [Truman_initiating_Korean_involvement.jpg](https://zh.wikipedia.org/wiki/File:Truman_initiating_Korean_involvement.jpg "fig:Truman_initiating_Korean_involvement.jpg")的文件。\]\]
 
-1950年6月25日，[朝鮮人民軍南征](https://zh.wikipedia.org/wiki/朝鮮人民軍 "wikilink")[大韩民国](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")，更差不多佔領了整個[朝鮮半島](https://zh.wikipedia.org/wiki/朝鲜半岛 "wikilink")。\[33\]杜魯門立即強烈要求聯合國作出干預，故此以[道格拉斯·麥克阿瑟指揮的](https://zh.wikipedia.org/wiki/道格拉斯·麦克阿瑟 "wikilink")[聯合國軍在](https://zh.wikipedia.org/wiki/聯合國軍 "wikilink")1950年10月成功把朝鮮人民軍退回至中國邊境一帶。
+1950年6月25日，[朝鮮人民軍南征](https://zh.wikipedia.org/wiki/朝鮮人民軍 "wikilink")[大韩民国](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")，更差不多佔領了整個[朝鮮半島](https://zh.wikipedia.org/wiki/朝鲜半岛 "wikilink")。\[34\]杜魯門立即強烈要求聯合國作出干預，故此以[道格拉斯·麥克阿瑟指揮的](https://zh.wikipedia.org/wiki/道格拉斯·麦克阿瑟 "wikilink")[聯合國軍在](https://zh.wikipedia.org/wiki/聯合國軍 "wikilink")1950年10月成功把朝鮮人民軍退回至中國邊境一帶。
 
-1950年10月，中國为保全自身，以朝鮮的名義對戰事作出干預，麥克阿瑟立即建議杜魯門出兵襲擊中國在[鴨綠江一帶的軍事基地](../Page/鸭绿江.md "wikilink")，在必要情況下，更可以動用原子彈。在中國援朝的情況下，聯合國部隊被迫南撤，而戰線在1951年[春天的時候](../Page/春季.md "wikilink")，更退回戰爭爆發時的地區。但杜魯門不同意麥克阿瑟的觀點，擔心他的方案會使蘇聯加入，使大戰升級，最終有爆發核子戰爭的可能。於是麥克阿瑟在總統反對的情況下，公開廣播出他對戰事的意見，表示馬歇爾使華是美國外交史上最大的失誤之一，自由世界現在為此以鮮血和災難付出代價。，而且更不服從杜魯門的指令。結果在1951年4月11日，杜魯門解除了麥克阿瑟的職務，並召他回國。\[34\]
+1950年10月，中國为保全自身，以朝鮮的名義對戰事作出干預，麥克阿瑟立即建議杜魯門出兵襲擊中國在[鴨綠江一帶的軍事基地](../Page/鸭绿江.md "wikilink")，在必要情況下，更可以動用原子彈。在中國援朝的情況下，聯合國部隊被迫南撤，而戰線在1951年[春天的時候](../Page/春季.md "wikilink")，更退回戰爭爆發時的地區。但杜魯門不同意麥克阿瑟的觀點，擔心他的方案會使蘇聯加入，使大戰升級，最終有爆發核子戰爭的可能。於是麥克阿瑟在總統反對的情況下，公開廣播出他對戰事的意見，表示馬歇爾使華是美國外交史上最大的失誤之一，自由世界現在為此以鮮血和災難付出代價。，而且更不服從杜魯門的指令。結果在1951年4月11日，杜魯門解除了麥克阿瑟的職務，並召他回國。\[35\]
 
 此後[韓戰成為了僵局](../Page/朝鲜战争.md "wikilink")，直到[德怀特·艾森豪威尔上任總統後](../Page/德怀特·艾森豪威尔.md "wikilink")，方於1953年7月27日達成了停火協議。
 
-放任中國赤化，而造成韓戰這場原本可能不會發生的戰爭與解除麥克阿瑟的職務，使杜魯門在國內變得極不受歡迎，更促使他在1952年的大選不再尋求連任。根據蓋洛普民意調查，杜魯門在1952年2月的支持率為22%，是有史以來在任美國總統所得到的最低支持率。\[35\]
+放任中國赤化，而造成韓戰這場原本可能不會發生的戰爭與解除麥克阿瑟的職務，使杜魯門在國內變得極不受歡迎，更促使他在1952年的大選不再尋求連任。根據蓋洛普民意調查，杜魯門在1952年2月的支持率為22%，是有史以來在任美國總統所得到的最低支持率。\[36\]
 
 ### 越南
 
 [越戰爆發前](../Page/越南战争.md "wikilink")，美國早已介入[越南問題](https://zh.wikipedia.org/wiki/越南 "wikilink")，而且可追溯至杜魯門任總統的時期。在1945年的[对日战争胜利纪念日](https://zh.wikipedia.org/wiki/第二次世界大战对日战争胜利纪念日 "wikilink")，[胡志明參照美國](../Page/胡志明.md "wikilink")，撰寫了一份[獨立宣言](../Page/越南獨立宣言.md "wikilink")，除了法國勢力外，還將[越南國民黨與蔣介石派到越南受降的國軍部隊視為敵人](../Page/越南國民黨.md "wikilink")。但在同年9月23日，美國為了防止共產主義由中國傳入越南，繼而向世界散佈，聲明支持[法國對越南的管治](https://zh.wikipedia.org/wiki/法國 "wikilink")。
 
-由於遭美國摒棄，胡志明轉移向共產黨求助。在1950年，胡志明宣佈越南獨立，並得到中共和蘇聯的承認，當時他盤踞在接壤中國邊境的一些偏遠地區，而法國仍然佔領餘下的地域。在美國的「圍堵政策」和強烈反共的前提下，美國繼續承認法國對越南的主權，以及確認法國在越南的傀儡政權。因此同樣在1950年，杜魯門對法國發放了一共一千萬[美元的援助](../Page/美元.md "wikilink")，又派出123支非戰鬥部隊到越南，協助處理物資事宜。到了1951年，援助總額上升至一億五千萬美元，至1953年更達至了十億美元（佔美國對外援助總額的1/3，也佔法國一方支出的80%）\[36\]。
+由於遭美國摒棄，胡志明轉移向共產黨求助。在1950年，胡志明宣佈越南獨立，並得到中共和蘇聯的承認，當時他盤踞在接壤中國邊境的一些偏遠地區，而法國仍然佔領餘下的地域。在美國的「圍堵政策」和強烈反共的前提下，美國繼續承認法國對越南的主權，以及確認法國在越南的傀儡政權。因此同樣在1950年，杜魯門對法國發放了一共一千萬[美元的援助](../Page/美元.md "wikilink")，又派出123支非戰鬥部隊到越南，協助處理物資事宜。到了1951年，援助總額上升至一億五千萬美元，至1953年更達至了十億美元（佔美國對外援助總額的1/3，也佔法國一方支出的80%）\[37\]。
 
 ### 翻新白宮
 
@@ -261,7 +261,7 @@ Collazo）的[波多黎各民族主義者](../Page/波多黎各.md "wikilink")�
 在1950年，參議院在[埃斯蒂斯·基福弗](https://zh.wikipedia.org/wiki/埃斯蒂斯·基福弗 "wikilink")（Estes
 Kefauver）的帶領下，對政府高級官員受賄進行調查，當中發現不少官員曾收受過名貴皮草和冰箱一類的物品，而[國稅局更牽涉在內](https://zh.wikipedia.org/wiki/美國國稅局 "wikilink")。結果一共有166名國稅局員工辭職或被解僱，部份人更被司法部控告瞞稅和貪污等罪行。一般歷史學家都同意杜魯門沒有牽涉到國稅局的貪污醜聞，亦相信他對此並不知情—但卻有一次例外。在1945年，一位香水公司總裁送了一部十分昂貴的新型號冰箱給杜魯門太太，該名商人其後在杜魯門和他的好友哈利·佛漢將軍的協助下，在二戰結束後不久取得優先前往歐洲的機票，而那名商人在回程時又與一位傷兵強奪機位，傷兵「被擠下機」。事件在1949年曝光，使杜魯門大為尷尬，但他仍然大力為佛漢將軍作出辯護，可是實際上，佛漢將軍本人當時被一連串的白宮辦公室醜聞纏身。
 
-到了1952年，[德怀特·艾森豪威尔發起一連串運動](../Page/德怀特·艾森豪威尔.md "wikilink")，指政府混入了不少蘇聯特工，再次使杜魯門政府備受困擾。早於1947年，杜魯門設立了一個「效忠委員會」，調查聯邦政府是否混入了間諜。後果是，自1947年至1952年，大約有20,000名公務員遭到調查，當中有約2500人「自願」辭職，400人被辭退\[37\]。另外自1945年至1946年，[約翰·埃德加·胡佛多次向杜魯門作出警告](../Page/約翰·埃德加·胡佛.md "wikilink")，指財政部的助理部長哈利·德克斯特·懷特是蘇聯間諜。加拿大總理亦同樣向[FBI警告要注意懷特](../Page/联邦调查局.md "wikilink")，而來自蘇聯的變節人士也證實了這個情報。最後杜魯門唯有將懷特調任為[國際貨幣基金會的美國代表](../Page/國際貨幣基金組織.md "wikilink")，他又承認設立「效忠委員會」是他當總統犯下的最大失誤。
+到了1952年，[德怀特·艾森豪威尔發起一連串運動](../Page/德怀特·艾森豪威尔.md "wikilink")，指政府混入了不少蘇聯特工，再次使杜魯門政府備受困擾。早於1947年，杜魯門設立了一個「效忠委員會」，調查聯邦政府是否混入了間諜。後果是，自1947年至1952年，大約有20,000名公務員遭到調查，當中有約2500人「自願」辭職，400人被辭退\[38\]。另外自1945年至1946年，[約翰·埃德加·胡佛多次向杜魯門作出警告](../Page/約翰·埃德加·胡佛.md "wikilink")，指財政部的助理部長哈利·德克斯特·懷特是蘇聯間諜。加拿大總理亦同樣向[FBI警告要注意懷特](../Page/联邦调查局.md "wikilink")，而來自蘇聯的變節人士也證實了這個情報。最後杜魯門唯有將懷特調任為[國際貨幣基金會的美國代表](../Page/國際貨幣基金組織.md "wikilink")，他又承認設立「效忠委員會」是他當總統犯下的最大失誤。
 
 ### 曾簽署的重要法案
 
@@ -359,7 +359,7 @@ Kefauver）的帶領下，對政府高級官員受賄進行調查，當中發現
 
 ### 晚年生活
 
-在1956年，杜魯門伉儷出訪歐洲，一時間成為了全球的焦點。在英國，杜魯門獲[牛津大學頒發](../Page/牛津大学.md "wikilink")[民法學榮譽學士學位](../Page/民法.md "wikilink")，並最後一次和朋友[邱吉爾會面](../Page/温斯顿·丘吉尔.md "wikilink")。回程美國前，他又為民主黨總統候選人[阿德萊·史蒂文森作全力支持](https://zh.wikipedia.org/wiki/阿德萊·史蒂文森 "wikilink")（他最初支持紐約州州長[W·艾夫里爾·哈里曼](https://zh.wikipedia.org/wiki/W·埃夫里尔·哈里曼 "wikilink")）。\[38\]
+在1956年，杜魯門伉儷出訪歐洲，一時間成為了全球的焦點。在英國，杜魯門獲[牛津大學頒發](../Page/牛津大学.md "wikilink")[民法學榮譽學士學位](../Page/民法.md "wikilink")，並最後一次和朋友[邱吉爾會面](../Page/温斯顿·丘吉尔.md "wikilink")。回程美國前，他又為民主黨總統候選人[阿德萊·史蒂文森作全力支持](https://zh.wikipedia.org/wiki/阿德萊·史蒂文森 "wikilink")（他最初支持紐約州州長[W·艾夫里爾·哈里曼](https://zh.wikipedia.org/wiki/W·埃夫里尔·哈里曼 "wikilink")）。\[39\]
 
 杜魯門年屆80歲的時候，獲宴請到華盛頓，並準備在參議院發表講話，但因為他在歡迎儀式上大受感動，而不能言語。當時美國在越戰泥足深陷，後來共和黨政府又爆發[水门事件](../Page/水门事件.md "wikilink")，結果使杜魯門的支持度急升，更為參議院候選人助選。在1964年，杜魯門在浴室跌倒，撞傷了額頭，折斷了兩條肋骨，眼鏡也撞碎了。自此，他的身體狀況大不如前，並中斷了以往每天到總統圖書館的習慣。1965年，[约翰逊總統在](../Page/林登·约翰逊.md "wikilink")[杜魯門圖書館簽署了](https://zh.wikipedia.org/wiki/杜魯門總統圖書館 "wikilink")《[醫療保健法案](https://zh.wikipedia.org/wiki/醫療保健_\(美國\) "wikilink")》，並把首兩張醫療保健卡發予杜魯門和妻子貝絲。杜魯門亦曾在任內爭取落實全民醫療保健，然而完全沒有實踐。
 
@@ -398,9 +398,9 @@ Kefauver）的帶領下，對政府高級官員受賄進行調查，當中發現
 Truman**）的[中間名只有一個字母](https://zh.wikipedia.org/wiki/中間名 "wikilink")「S」。這種做法在[南部州份和](../Page/美國南部.md "wikilink")[密蘇里州也十分普遍](../Page/密蘇里州.md "wikilink")，當地人都愛以英文字母來代替名字。杜魯門則表示，他的中間字母是為了紀念他的祖父[安德森·施（普）·杜魯門](https://zh.wikipedia.org/wiki/安德森·施（普）·杜魯門 "wikilink")（Anderson
 Shipp(e)
 Truman）和外祖父[所羅門·楊](https://zh.wikipedia.org/wiki/所羅門·楊 "wikilink")（Solomon
-Young）而起的，因此字母「S」同時代表了「施（普）」（Shipp(e)）和「所羅門」（Solomon）兩個字。他又曾說過，「S」本身就是一個名，不是字母，所以不需加上一點。\[39\]
+Young）而起的，因此字母「S」同時代表了「施（普）」（Shipp(e)）和「所羅門」（Solomon）兩個字。他又曾說過，「S」本身就是一個名，不是字母，所以不需加上一點。\[40\]
 
-然而，應說明的是，按照[英文文法](https://zh.wikipedia.org/wiki/英文文法 "wikilink")，只有縮寫的字詞才需要加上一點。但事實上，不論是[美國政府部門的官方文件](https://zh.wikipedia.org/wiki/美國政府 "wikilink")，抑或是杜魯門的[總統圖書館](https://zh.wikipedia.org/wiki/總統圖書館 "wikilink")，都在「S」字後補上了一點\[40\]。另一方面，[杜魯門圖書館內亦保存了很多他本人的親筆簽名](https://zh.wikipedia.org/wiki/杜魯門圖書館 "wikilink")，而這些[簽名的](https://zh.wikipedia.org/wiki/簽名 "wikilink")「S」字後，大多都附有一點。
+然而，應說明的是，按照[英文文法](https://zh.wikipedia.org/wiki/英文文法 "wikilink")，只有縮寫的字詞才需要加上一點。但事實上，不論是[美國政府部門的官方文件](https://zh.wikipedia.org/wiki/美國政府 "wikilink")，抑或是杜魯門的[總統圖書館](https://zh.wikipedia.org/wiki/總統圖書館 "wikilink")，都在「S」字後補上了一點\[41\]。另一方面，[杜魯門圖書館內亦保存了很多他本人的親筆簽名](https://zh.wikipedia.org/wiki/杜魯門圖書館 "wikilink")，而這些[簽名的](https://zh.wikipedia.org/wiki/簽名 "wikilink")「S」字後，大多都附有一點。
 
 關於杜魯門的字母「S」後應否加上一點，一直以來也引起了廣泛的爭論。不過一般認為，雖然「S」不是縮寫，但仍需在後面加上一點。
 
@@ -422,13 +422,13 @@ Young）而起的，因此字母「S」同時代表了「施（普）」（Shipp
 
   - 於1995年，[HBO發行了一套關於杜魯門的電視電影](../Page/HBO.md "wikilink")，名為，由[蓋瑞·辛尼斯](../Page/蓋瑞·辛尼茲.md "wikilink")（Gary
     Sinise）飾演總統。該影片以[大衛·麥卡洛](https://zh.wikipedia.org/wiki/大衛·麥卡洛 "wikilink")（David
-    McCullough）所作的傳記為底本，主要講述杜魯門如何由一位小鎮的平常人踏上了美國總統之路。該影片獲得了不少獎項\[41\]。
+    McCullough）所作的傳記為底本，主要講述杜魯門如何由一位小鎮的平常人踏上了美國總統之路。該影片獲得了不少獎項\[42\]。
 
 ## 請參見
 
   - [布莱尔宾馆](../Page/布莱尔宫.md "wikilink")
 
-  - [1944年美國總統選舉](https://zh.wikipedia.org/wiki/1944年美國總統選舉 "wikilink")
+  - [1944年美國總統選舉](../Page/1944年美國總統選舉.md "wikilink")
 
   - [1948年美國總統選舉](https://zh.wikipedia.org/wiki/1948年美國總統選舉 "wikilink")
 
@@ -659,46 +659,48 @@ Young）而起的，因此字母「S」同時代表了「施（普）」（Shipp
 
 22.
 
-23. [杜魯門在《時代週刊》的封面](http://www.time.com/time/searchresults?D=Harry+Truman&sid=10AD665DE10C&Ntt=Harry+Truman&Ntk=WithBodyDate&internalid=endeca_dimension&Ntx=mode+matchallpartial&N=46+4294935559&Ns=p_date_sort%7c1&Nty=1)
+23. 載於1941年6月24日的《[紐約時報](../Page/纽约时报.md "wikilink")》
 
+24. [杜魯門在《時代週刊》的封面](http://www.time.com/time/searchresults?D=Harry+Truman&sid=10AD665DE10C&Ntt=Harry+Truman&Ntk=WithBodyDate&internalid=endeca_dimension&Ntx=mode+matchallpartial&N=46+4294935559&Ns=p_date_sort%7c1&Nty=1)
 
-24.
 
 25.
 
 26.
 
-27. 瑪格麗特·杜魯門，*Harry S. Truman*。載於1974年版方便裝第429頁
+27.
 
-28. <http://www.army.mil/cmh-pg/books/integration/IAF-12.htm>
+28. 瑪格麗特·杜魯門，*Harry S. Truman*。載於1974年版方便裝第429頁
+
+29. <http://www.army.mil/cmh-pg/books/integration/IAF-12.htm>
     重刊於2005年6月30日
 
-29. [盖洛普民意测验](http://www.uh.edu/engines/epi1199.htm)，休士頓大學
+30. [盖洛普民意测验](http://www.uh.edu/engines/epi1199.htm)，休士頓大學
 
-30. [張之傑等](https://zh.wikipedia.org/wiki/張之傑 "wikilink")《20世紀臺灣全紀錄》，[台北](https://zh.wikipedia.org/wiki/台北 "wikilink")，[錦繡出版社](https://zh.wikipedia.org/wiki/錦繡出版社 "wikilink")，1991年。
+31. [張之傑等](https://zh.wikipedia.org/wiki/張之傑 "wikilink")《20世紀臺灣全紀錄》，[台北](https://zh.wikipedia.org/wiki/台北 "wikilink")，[錦繡出版社](https://zh.wikipedia.org/wiki/錦繡出版社 "wikilink")，1991年。
 
-31. [錢伯斯的證詞](http://www.law.umkc.edu/faculty/projects/ftrials/hiss/8-3testimony.html)
+32. [錢伯斯的證詞](http://www.law.umkc.edu/faculty/projects/ftrials/hiss/8-3testimony.html)
     ，UMKC法律學院
 
-32. [希斯和錢伯斯的證詞](http://www.law.umkc.edu/faculty/projects/ftrials/hiss/8-17testimony.html)
+33. [希斯和錢伯斯的證詞](http://www.law.umkc.edu/faculty/projects/ftrials/hiss/8-17testimony.html)
     ，UMKC法律學院
-
-33.
 
 34.
 
 35.
 
-36. [Viet Nam Chronology](http://fp.uni.edu/prahl/viet_nam.htm) , UNI
+36.
+
+37. [Viet Nam Chronology](http://fp.uni.edu/prahl/viet_nam.htm) , UNI
     FrontPage Help.
 
-37. [《*By the Bomb's Early Light: American Thought and Culture at the
+38. [《*By the Bomb's Early Light: American Thought and Culture at the
     Dawn of the Atomic
     Age*》](http://books.google.com/books?ie=UTF-8&vid=ISBN0807844802&id=A1UoXscXGBwC&pg=PA103&lpg=PA103&dq=%22loyalty+review%22+truman+fired&vq=20,000&sig=_XaBRhZVcqBv9jgUhCEeamZzd8A)，保羅·布瓦耶著，第103頁
-
-38.
 
 39.
 
 40.
-41. [《杜魯門》的獎項，IMDB.com.](http://www.imdb.com/title/tt0114738/awards)
+
+41.
+42. [《杜魯門》的獎項，IMDB.com.](http://www.imdb.com/title/tt0114738/awards)

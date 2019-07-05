@@ -1,20 +1,33 @@
-[Cosplayer_of_Dark_Magician_Girl,_Yu-Gi-Oh\!_20161029.jpg](https://zh.wikipedia.org/wiki/File:Cosplayer_of_Dark_Magician_Girl,_Yu-Gi-Oh!_20161029.jpg "fig:Cosplayer_of_Dark_Magician_Girl,_Yu-Gi-Oh!_20161029.jpg")角色“黑魔導女孩”的cosplayer\]\]
-**Cosplay**（，[和製英語](../Page/和製英語.md "wikilink")：，簡稱****（Cosplay）），中文一般翻譯為「**角色扮演**\[1\]」或「**扮裝**」，是指利用服裝、飾品、道具還有化妝等手段來扮演動漫、遊戲中人物角色的一種[表演藝術行為](https://zh.wikipedia.org/wiki/表演藝術 "wikilink")。
+**Cosplay**（，[和製英語全稱](../Page/和製英語.md "wikilink")：），中文一般翻譯為「**角色扮演**」\[1\]或「**扮裝**」\[2\]\[3\]，是指利用服裝、飾品、道具還有化妝等手段來扮演動漫、遊戲中人物角色的一種[表演藝術行為](https://zh.wikipedia.org/wiki/表演藝術 "wikilink")。
 
-參與Cosplay行為的扮裝者在日文稱為「」（可簡稱「」），中文一般稱「**扮裝者**」、「**角色扮演者**」或「**角色扮演員**」，英文「cosplayer」或大陸則簡稱「coser」。
+而參與扮裝活動的表演者，中文一般稱「**扮裝者**」\[4\]、「**角色扮演者**」或「**角色扮演員**」。
+
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
 
 Cosplay的名稱起源於1978年[Comic
 Market召集人米澤嘉博氏為場刊撰文時](../Page/Comic_Market.md "wikilink")，以「costume
-Play」來指出裝扮為動漫角色人物的行為，並由日本動畫家於1984年在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[洛杉磯舉行的](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")時確立以和製英語詞語「Cosplay」來表示。
+Play」來指出裝扮為動漫角色人物的行為，並由日本動畫家於1984年在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[洛杉磯舉行的](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")[世界科幻年會時確立以和製英語詞語](https://zh.wikipedia.org/wiki/世界科幻年會 "wikilink")「Cosplay」來表示。
 
 而當代的Cosplay通常被視為一種[次文化活動](../Page/次文化.md "wikilink")，扮演的對象[角色一般來自](../Page/角色.md "wikilink")[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")、[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")、[電子遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")、[輕小說](../Page/輕小說.md "wikilink")、[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")、影集、[特攝](https://zh.wikipedia.org/wiki/特攝 "wikilink")、[偶像團體](https://zh.wikipedia.org/wiki/偶像 "wikilink")、[職業](../Page/職業.md "wikilink")、[歷史](https://zh.wikipedia.org/wiki/歷史 "wikilink")[故事](../Page/故事.md "wikilink")、[社會故事](https://zh.wikipedia.org/wiki/社會 "wikilink")、現實世界中具有傳奇性的獨特事物（或其[擬人化形態](https://zh.wikipedia.org/wiki/擬人化 "wikilink")）、或是其他自創的有形[角色](../Page/角色.md "wikilink")。方法是特意穿戴相似的[服飾](https://zh.wikipedia.org/wiki/服飾 "wikilink")，加上[道具的配搭](https://zh.wikipedia.org/wiki/道具 "wikilink")，[化粧造型](https://zh.wikipedia.org/wiki/化粧 "wikilink")、[身體語言等等](https://zh.wikipedia.org/wiki/身體語言 "wikilink")[參數來模仿該等角色](https://zh.wikipedia.org/wiki/参数 "wikilink")。
 
 ## 词源
 
-在1984年美國[洛杉磯舉行的](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")上，赴會的日本動畫家暨日本藝術工作室「」行政總裁把一種自力演繹角色的扮裝性質表演藝術行為正式以一條[和製英語詞語](../Page/和製英語.md "wikilink")「Cosplay」來表示，Cosplay因而得名。
+[Cosplayer_of_Dark_Magician_Girl,_Yu-Gi-Oh\!_20161029.jpg](https://zh.wikipedia.org/wiki/File:Cosplayer_of_Dark_Magician_Girl,_Yu-Gi-Oh!_20161029.jpg "fig:Cosplayer_of_Dark_Magician_Girl,_Yu-Gi-Oh!_20161029.jpg")角色“黑魔導女孩”的扮裝者\]\]
+在1984年美國[洛杉磯舉行的](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")[世界科幻年會上](https://zh.wikipedia.org/wiki/世界科幻年會 "wikilink")，赴會的日本動畫家暨日本藝術工作室「」行政總裁把一種自力演繹角色的扮裝性質表演藝術行為正式以一條[和製英語詞語](../Page/和製英語.md "wikilink")「Cosplay」來表示，Cosplay因而得名。
 
 之後到1990年代，日本ACG業界成功舉辦了大量的動漫畫展和遊戲展，此時的日本漫畫商和[電玩公司為了宣傳自身產品](https://zh.wikipedia.org/wiki/電玩 "wikilink")，在這些遊戲展和漫畫節中找來一些男男女女裝扮成ACG作品中的角色以吸引參展人群。這一招可以說是與當年和路迪士尼開辦迪士尼樂園的時引客招數如出一轍，由此可見當代Cosplay的顯露成形與蓬勃發展的關鍵是建立在本身ACG商業化的程度之上，可以說正是將Cosplay作為一種商業上的促銷手段，Cosplay其本身才可能得到長足的發展與認識。就因此，Cosplay文化在ACG界熱門化和發揚光大，同時藉著各種Cosplay活動、傳媒的介紹、[互聯網有關Cosplay的大量資訊傳播等](https://zh.wikipedia.org/wiki/互聯網 "wikilink")，使Cosplay的自由參與者激增，Cosplay才漸漸得到了真正的、獨立的發展。更甚者，專門為Cosplay行為而舉行的活動也漸漸出現，形式類似化粧舞會，遂民眾逐漸能在越來越多的場合中看到該批奇裝異服者，並了解到這集服飾、化粧、表演於一體的扮裝文化現象──Cosplay。
-\[2\]
+\[5\]
 
 當代的Cosplay一般以[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")、[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")、[遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink")、[電玩](https://zh.wikipedia.org/wiki/電玩 "wikilink")、[輕小說](../Page/輕小說.md "wikilink")、[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")、影集、[特攝](https://zh.wikipedia.org/wiki/特攝 "wikilink")、[偶像團體](https://zh.wikipedia.org/wiki/偶像 "wikilink")、職業、歷史故事、社會故事或是其他自創的有形[角色為目標](../Page/角色.md "wikilink")，刻意穿著類似的[服飾](https://zh.wikipedia.org/wiki/服飾 "wikilink")，加上[道具的配搭](https://zh.wikipedia.org/wiki/道具 "wikilink")，[化粧造型](https://zh.wikipedia.org/wiki/化粧 "wikilink")、[身體語言等等](https://zh.wikipedia.org/wiki/身體語言 "wikilink")[參數](https://zh.wikipedia.org/wiki/参数 "wikilink")，以人力扮演成一個「活起來」的角色。另一種Cosplay主要是對非人類的動物、軍事武器、交通工具、土木基建、作業系統、網站等進行[擬人化](https://zh.wikipedia.org/wiki/擬人化 "wikilink")，灌以具智慧的靈魂，並以相應服飾、道具、化粧、身體語言等配套來呈現該等擬人化角色，其中一常見手法乃以[萌擬人化形態出場](../Page/萌擬人化.md "wikilink")。
 
@@ -29,7 +42,7 @@ Play」來指出裝扮為動漫角色人物的行為，並由日本動畫家於1
 
 [中國古代的先民也有著歷史悠久的扮裝文化](../Page/中國.md "wikilink")。具有千年傳統的[舞龍儀式可以說是其中最具代表性的活動](../Page/舞龍.md "wikilink")。舞龍在當時往往有兩種寓意，一種是祈求上蒼降甘露給農田，另一種則有祈求五穀豐登、萬象吉祥之意。此活動進行前，首先要選出體格健壯、姿態威武的男性青年若干位，並讓他們穿上黃、紅色的代表喜慶的服飾（有時為貴族表演時衣服上甚至繡有花紋），按照事先的編舞他們將組成一支或多支舞龍隊伍表演出各種方陣圖案，並有[鼓](../Page/鼓.md "wikilink")[鑼聲作為伴奏](https://zh.wikipedia.org/wiki/鑼 "wikilink")。到17世紀左右（即[明末](https://zh.wikipedia.org/wiki/明 "wikilink")[清初](https://zh.wikipedia.org/wiki/清 "wikilink")），由舞龍中又繁衍出了舞獅、[鳳舞龍翔的活動](https://zh.wikipedia.org/wiki/鳳舞龍翔 "wikilink")，這些都與以服飾扮裝某些角色都有著緊密的聯繫。
 
-[西藏民間神話英雄的中國](https://zh.wikipedia.org/wiki/西藏 "wikilink")[藏戲](https://zh.wikipedia.org/wiki/藏戲 "wikilink")、[超渡亡魂到](../Page/超渡.md "wikilink")[極樂凈土和](https://zh.wikipedia.org/wiki/極樂凈土 "wikilink")[印度](../Page/印度.md "wikilink")[佛教中的佛事](../Page/佛教.md "wikilink")、祭祀[山靈](https://zh.wikipedia.org/wiki/山靈 "wikilink")[神器与](https://zh.wikipedia.org/wiki/神器 "wikilink")[日本](../Page/日本.md "wikilink")[神道教](https://zh.wikipedia.org/wiki/神道教 "wikilink")[神社活動](../Page/神社.md "wikilink")，服飾、道具、表演都是這些活動的重要組成元素\[3\]。
+[西藏民間神話英雄的中國](https://zh.wikipedia.org/wiki/西藏 "wikilink")[藏戲](https://zh.wikipedia.org/wiki/藏戲 "wikilink")、[超渡亡魂到](../Page/超渡.md "wikilink")[極樂凈土和](https://zh.wikipedia.org/wiki/極樂凈土 "wikilink")[印度](../Page/印度.md "wikilink")[佛教中的佛事](../Page/佛教.md "wikilink")、祭祀[山靈](https://zh.wikipedia.org/wiki/山靈 "wikilink")[神器与](https://zh.wikipedia.org/wiki/神器 "wikilink")[日本](../Page/日本.md "wikilink")[神道教](https://zh.wikipedia.org/wiki/神道教 "wikilink")[神社活動](../Page/神社.md "wikilink")，服飾、道具、表演都是這些活動的重要組成元素\[6\]。
 
 ### 迪士尼的推廣
 
@@ -88,7 +101,7 @@ Play」來指出裝扮為動漫角色人物的行為，並由日本動畫家於1
 
 後者為動畫、漫畫、遊戲、影視、獨特打扮歌手等相關產品的擁躉群體派系（以下簡稱「[偶像擁躉派](https://zh.wikipedia.org/wiki/偶像 "wikilink")」）把Cosplay品位為一種以「藉在有關感官上模仿角色表達忠於角色的訊息」作為達成慾望手段的興趣行為時所主要採用。
 
-當個別情況尺度標準使用不當，甚至藉此吹毛求疵、指鹿為馬，可能會引發爭議，比如興趣性「偶像擁躉派」為力保勢力範圍情況「一統化」而堅持只使用其尺度與立場來達成淨空異己的目的，甚至否認個別類型的Cosplay行為以及一切純粹「興趣目的先決」以外的Cosplay行為（比如「商業宣傳目的先決」、「宗教儀式目的先決」、「政治目的先決」、「牟利目的先決」、「話劇目的先決」、「戲劇目的先決」、「舞臺劇目的先決」、「攝影目的先決」、「賣弄性感色情目的先決」、「為Cosplay而Cosplay」等Cosplay行為）。\[4\]
+當個別情況尺度標準使用不當，甚至藉此吹毛求疵、指鹿為馬，可能會引發爭議，比如興趣性「偶像擁躉派」為力保勢力範圍情況「一統化」而堅持只使用其尺度與立場來達成淨空異己的目的，甚至否認個別類型的Cosplay行為以及一切純粹「興趣目的先決」以外的Cosplay行為（比如「商業宣傳目的先決」、「宗教儀式目的先決」、「政治目的先決」、「牟利目的先決」、「話劇目的先決」、「戲劇目的先決」、「舞臺劇目的先決」、「攝影目的先決」、「賣弄性感色情目的先決」、「為Cosplay而Cosplay」等Cosplay行為）。\[7\]
 [Cosplay_-_Naruto_e_Kakashi.jpg](https://zh.wikipedia.org/wiki/File:Cosplay_-_Naruto_e_Kakashi.jpg "fig:Cosplay_-_Naruto_e_Kakashi.jpg")的Cosplay\]\]
 
 ### 其他爭議點
@@ -106,7 +119,7 @@ Play」來指出裝扮為動漫角色人物的行為，並由日本動畫家於1
 在[ACG相關活動中](../Page/ACG.md "wikilink")，時常會見到數項類似的盛裝文化現象同時出現，比如Cosplay扮裝文化、
 [蘿莉塔](https://zh.wikipedia.org/wiki/蘿莉塔 "wikilink")（Lolita，日文中為Rorita）服裝服飾風格文化、[龐克](https://zh.wikipedia.org/wiki/龐克 "wikilink")（Punk）服裝服飾風格文化等。
 
-Cosplay扮演者所扮演的目標是以歷史或圖像性文獻中的特定角色（或其變形原體）為主，這跟其他[盛裝現象的法則有所不同](https://zh.wikipedia.org/wiki/盛裝 "wikilink")。禮儀上，Cosplay行為不是借服裝服飾爭妍鬥麗的手段，亦不是任攝影師任意妄為的場合。倘民眾不了解箇中差異，則會易生混淆。\[5\]因此，如純粹穿著指定款式的特定服裝，比如[蘿莉塔](https://zh.wikipedia.org/wiki/蘿莉塔 "wikilink")（Lolita）、[龐克](https://zh.wikipedia.org/wiki/龐克 "wikilink")（Punk）、[女僕服裝](https://zh.wikipedia.org/wiki/女僕 "wikilink")、[校服](../Page/校服.md "wikilink")（如[水手服](../Page/水手服.md "wikilink")、[英倫校服等](../Page/英格兰校服.md "wikilink")）、[巫女服](../Page/巫女.md "wikilink")、[和服浴衣](../Page/和服.md "wikilink")、[SD娃娃服](../Page/SD娃娃.md "wikilink")、英式連衣裙等等，又或者單單穿著一些於圖像性文獻中出現過的服飾，卻沒有扮演某特定角色或複製角色參數到演員身上的意思，則不算是Cosplay。為比如嬰兒或動物穿上某角色的服裝，但如被穿著者卻對有關服裝、角色性格與行為等在腦海中不明所以（即沒有複製角色參數到演員身上的意思），就與Cosplay在技術上的「自力」條件不符，因此也不算是Cosplay。
+Cosplay扮演者所扮演的目標是以歷史或圖像性文獻中的特定角色（或其變形原體）為主，這跟其他[盛裝現象的法則有所不同](https://zh.wikipedia.org/wiki/盛裝 "wikilink")。禮儀上，Cosplay行為不是借服裝服飾爭妍鬥麗的手段，亦不是任攝影師任意妄為的場合。倘民眾不了解箇中差異，則會易生混淆。\[8\]因此，如純粹穿著指定款式的特定服裝，比如[蘿莉塔](https://zh.wikipedia.org/wiki/蘿莉塔 "wikilink")（Lolita）、[龐克](https://zh.wikipedia.org/wiki/龐克 "wikilink")（Punk）、[女僕服裝](https://zh.wikipedia.org/wiki/女僕 "wikilink")、[校服](../Page/校服.md "wikilink")（如[水手服](../Page/水手服.md "wikilink")、[英倫校服等](../Page/英格兰校服.md "wikilink")）、[巫女服](../Page/巫女.md "wikilink")、[和服浴衣](../Page/和服.md "wikilink")、[SD娃娃服](../Page/SD娃娃.md "wikilink")、英式連衣裙等等，又或者單單穿著一些於圖像性文獻中出現過的服飾，卻沒有扮演某特定角色或複製角色參數到演員身上的意思，則不算是Cosplay。為比如嬰兒或動物穿上某角色的服裝，但如被穿著者卻對有關服裝、角色性格與行為等在腦海中不明所以（即沒有複製角色參數到演員身上的意思），就與Cosplay在技術上的「自力」條件不符，因此也不算是Cosplay。
 
 ## 副產品
 
@@ -203,7 +216,7 @@ Cosplay觀念和規則開始受到挑戰。例如成衣[蘿莉與成衣](../Page
 [蘿莉塔](https://zh.wikipedia.org/wiki/蘿莉塔 "wikilink")（Lolita）服裝服飾文化的爭論。守舊派一辭出現，新派與舊派的觀念的爭執持續進行。台灣論壇、巴哈姆特電玩資訊站與蒼穹社群發表聯合聲明，針對Cosplay行為作規範。
 [Getxo_cosplay_coroneles.jpg](https://zh.wikipedia.org/wiki/File:Getxo_cosplay_coroneles.jpg "fig:Getxo_cosplay_coroneles.jpg")的Cosplay|左\]\]
 
-Cosplay的興起也引發社會議論，如[TVBS和](https://zh.wikipedia.org/wiki/TVBS "wikilink")[東森兩家新聞媒體分別以](https://zh.wikipedia.org/wiki/東森 "wikilink")「春光乍現」和「春色無邊」字眼醜化[開拓動漫祭第](../Page/開拓動漫祭.md "wikilink")8屆的場面。台大心理系教授黃光國以當代流行動漫畫未能向人民灌輸任何道德價值為重點，抨擊進行Cosplay的行為就像是吸大麻、荼毒人民心靈\[6\]。
+Cosplay的興起也引發社會議論，如[TVBS和](https://zh.wikipedia.org/wiki/TVBS "wikilink")[東森兩家新聞媒體分別以](https://zh.wikipedia.org/wiki/東森 "wikilink")「春光乍現」和「春色無邊」字眼醜化[開拓動漫祭第](../Page/開拓動漫祭.md "wikilink")8屆的場面。台大心理系教授黃光國以當代流行動漫畫未能向人民灌輸任何道德價值為重點，抨擊進行Cosplay的行為就像是吸大麻、荼毒人民心靈\[9\]。
 
 #### 2010年代
 
@@ -232,7 +245,7 @@ HK先後面世](../Page/Comic_World_HK.md "wikilink")，逐漸催生了更多商
 
 除了大家熟悉的動畫、漫畫作品外，近年在香港出現的Cosplay角色更層出不窮，出現了不少的[擬人化角色](https://zh.wikipedia.org/wiki/擬人化 "wikilink")。
 在Cosplay的範疇分類和手法上主要以品牌服務設施的[萌擬人化角色實體化Cosplay為主](../Page/萌擬人化.md "wikilink")，在當時的日本和美國已有一定的發展並被歸納為一種獨立的範疇分類和手法，甚至有以相關名義販售有關服飾：
-\[7\]\[8\]。但在當時而言，在香港境內則屬於比較新鮮的範疇分類和手法（或是一直以Cosplay以外的名義發展著），謹香港境內有關的實踐歷史缺乏前車可鑑、甚至近乎空白。
+\[10\]\[11\]。但在當時而言，在香港境內則屬於比較新鮮的範疇分類和手法（或是一直以Cosplay以外的名義發展著），謹香港境內有關的實踐歷史缺乏前車可鑑、甚至近乎空白。
 
 此外，由於傳媒於大型Cosplay相關活動採訪漸多，以及藉由互聯網方便Cosplay資訊傳播，參與Cosplay的人數因此不斷增加，而Cosplay文化也因此普及起來。但一些規格較謹守的Cosplay參與者則認為，部份新進的Cosplay參與者的行演標準與表現良莠不齊，會影響到Cosplay的整體整齊性和大眾評價，因此對其出口抨擊；甚至有人產生一些帶[偏見性的空泛詞語](../Page/偏見.md "wikilink")（如「偽Cos」──即「偽Cosplay」（指裝扮者外形與原著呈示角色外形有所偏差）、「衣架人」（指空有外表，不了解甚至不認識他所扮演的角色的行演者）。目前，有一部份規格較謹守的Cosplay參與者正在竭力糾正此歪風，同時推廣Cosplay活動的攝影禮儀。
 
@@ -388,28 +401,28 @@ HK第24屆由於入場機制問題（售票速度較慢，而且售票口很少�
 [澳門由於地方較小](../Page/澳門.md "wikilink")，人口較少，澳門本土的Cosplay文化啟動較其他地方遲，發展總體而言不算十分高調，澳門境內的Cosplayer們也相對較團結與和諧。但由於澳門跟香港與中國大陸的溝通日益頻繁，因此在澳門境內舉辦的Cosplay相關活動也陸續吸引到不少來自澳門、香港、中國大陸的Cosplayer和Cosplay愛好者的青睞。
 
 澳門境內第一個含有當代Cosplay文化成份的Cosplay活動，是在1999年12月於澳門[荷蘭園廣場舉行的](https://zh.wikipedia.org/wiki/荷蘭園 "wikilink")「澳門回歸漫畫繽紛SHOW」活動。當時此活動已設有Cosplay
-[Catwalk](https://zh.wikipedia.org/wiki/Catwalk "wikilink")、才藝表演等環節，帶領日後澳門境內日後的Cosplay活動於其他活動中出現或獨立出現。到了2006年6月，由[社會工作局與民間機構合辦](https://zh.wikipedia.org/wiki/社會工作局_\(澳門\) "wikilink")[國際禁毒日系列活動中的](https://zh.wikipedia.org/wiki/國際禁毒日 "wikilink")「禁毒巡遊響全城之電單車創意比賽」環節，就有一群參賽者以Cosplay姿態參賽，更獲得當場「最具代表性大獎」獎項。\[9\]\[10\]
+[Catwalk](https://zh.wikipedia.org/wiki/Catwalk "wikilink")、才藝表演等環節，帶領日後澳門境內日後的Cosplay活動於其他活動中出現或獨立出現。到了2006年6月，由[社會工作局與民間機構合辦](https://zh.wikipedia.org/wiki/社會工作局_\(澳門\) "wikilink")[國際禁毒日系列活動中的](https://zh.wikipedia.org/wiki/國際禁毒日 "wikilink")「禁毒巡遊響全城之電單車創意比賽」環節，就有一群參賽者以Cosplay姿態參賽，更獲得當場「最具代表性大獎」獎項。\[12\]\[13\]
 
 而在2008年4月27日由[澳門大學學生會動漫研究會和](../Page/澳門大學.md "wikilink")[澳門科技大學學生會美術學會合辦的](../Page/澳門科技大學.md "wikilink")
 「[Illusion
-Feather](https://zh.wikipedia.org/wiki/Illusion_Feather "wikilink")[同人祭](https://zh.wikipedia.org/wiki/同人祭 "wikilink")」（「[澳門青少年動漫文化祭](https://zh.wikipedia.org/wiki/澳門青少年動漫文化祭 "wikilink")」）活動，更蒙澳門特別行政區[教育暨青年局贊助](../Page/教育暨青年局.md "wikilink")\[11\]，這在一定程度也許會有促進澳門Cosplay文化健康發展的作用。
+Feather](https://zh.wikipedia.org/wiki/Illusion_Feather "wikilink")[同人祭](https://zh.wikipedia.org/wiki/同人祭 "wikilink")」（「[澳門青少年動漫文化祭](https://zh.wikipedia.org/wiki/澳門青少年動漫文化祭 "wikilink")」）活動，更蒙澳門特別行政區[教育暨青年局贊助](../Page/教育暨青年局.md "wikilink")\[14\]，這在一定程度也許會有促進澳門Cosplay文化健康發展的作用。
 
 ### 中国大陆
 
 #### 廣東省廣州市
 
-2003年，[YACA動漫協會創立](../Page/YACA.md "wikilink")，孕育中國華南地區第一個Cosplay舞台，每年均有在[廣州市舉行動漫和Cosplay聚會活動](https://zh.wikipedia.org/wiki/廣州市 "wikilink")。\[12\]
+2003年，[YACA動漫協會創立](../Page/YACA.md "wikilink")，孕育中國華南地區第一個Cosplay舞台，每年均有在[廣州市舉行動漫和Cosplay聚會活動](https://zh.wikipedia.org/wiki/廣州市 "wikilink")。\[15\]
 
-2007年，[香港動漫節的主辦商也踏足中國大陸](https://zh.wikipedia.org/wiki/香港動漫節 "wikilink")，在2007年10月3日至2007年10月7日於廣州市舉行首屆《[穗港澳动漫游戏展](https://zh.wikipedia.org/wiki/穗港澳动漫游戏展 "wikilink")》\[13\]。
+2007年，[香港動漫節的主辦商也踏足中國大陸](https://zh.wikipedia.org/wiki/香港動漫節 "wikilink")，在2007年10月3日至2007年10月7日於廣州市舉行首屆《[穗港澳动漫游戏展](https://zh.wikipedia.org/wiki/穗港澳动漫游戏展 "wikilink")》\[16\]。
 
 #### 湖南省长沙市
 
-2005年，[湖南省](../Page/湖南省.md "wikilink")[长沙市在](https://zh.wikipedia.org/wiki/长沙市 "wikilink")1月1日元旦举办了《[2005年长沙新春动漫游戏嘉年华](https://zh.wikipedia.org/wiki/2005年长沙新春动漫游戏嘉年华 "wikilink")》Cosplay活动\[14\]，这是湖南省长沙市第一次举行的大型Cosplay活动，在湖南省开创了先河。
+2005年，[湖南省](../Page/湖南省.md "wikilink")[长沙市在](https://zh.wikipedia.org/wiki/长沙市 "wikilink")1月1日元旦举办了《[2005年长沙新春动漫游戏嘉年华](https://zh.wikipedia.org/wiki/2005年长沙新春动漫游戏嘉年华 "wikilink")》Cosplay活动\[17\]，这是湖南省长沙市第一次举行的大型Cosplay活动，在湖南省开创了先河。
 
 #### 黑龙江省哈尔滨市
 
-2011年，[黑龙江省](../Page/黑龙江省.md "wikilink")[哈尔滨市开始在每年](../Page/哈尔滨市.md "wikilink")1月举办中国冰雪动漫节\[15\]。这也是中国首次把冰雪与动漫文化相结合的Cosplay活动。
-自2012年开始，中国冰雪动漫节举办地变为[冰雪大世界](../Page/冰雪大世界.md "wikilink")\[16\]\[17\]。
+2011年，[黑龙江省](../Page/黑龙江省.md "wikilink")[哈尔滨市开始在每年](../Page/哈尔滨市.md "wikilink")1月举办中国冰雪动漫节\[18\]。这也是中国首次把冰雪与动漫文化相结合的Cosplay活动。
+自2012年开始，中国冰雪动漫节举办地变为[冰雪大世界](../Page/冰雪大世界.md "wikilink")\[19\]\[20\]。
 
 #### China Joy
 
@@ -441,16 +454,16 @@ Indonesia）新增Cosplay作為其中一項主要節目，開始吸引到一些�
 
 西方的角色扮裝（Costuming）起自迪士尼公司帶起的扮裝風潮，許多開發[英雄漫畫的製作公司也紛紛推出了真人扮演](https://zh.wikipedia.org/wiki/英雄漫畫 "wikilink")[超人](../Page/超人.md "wikilink")、[蜘蛛俠](https://zh.wikipedia.org/wiki/蜘蛛俠 "wikilink")、[夜魔俠](../Page/夜魔俠.md "wikilink")、[蝙蝠俠的扮演秀活動](../Page/蝙蝠俠.md "wikilink")，並在美國各地舉行了以愛好者群體為主的類似活動。基於各地固有文化的差異，在美國、加拿大和英國，又或是在亞洲地區的歐美裔或南亞人族群中，Cosplay的發展、選材和應用跟日本的一套有著一些差別──有關《[星艦奇航記](../Page/星艦奇航記.md "wikilink")》、《[星際大戰](../Page/星際大戰.md "wikilink")》、其他[科幻領域](https://zh.wikipedia.org/wiki/科幻 "wikilink")、以及歷史事件（比如[美國內戰](https://zh.wikipedia.org/wiki/美國內戰 "wikilink")）範疇的Cosplay，尤其是科幻故事範疇的Cosplay，遠比在日本多。相反，一些在歐美地區被視為令大眾不悅的角色（比如在一些漫畫和遊戲中含[納粹相關成份服飾的角色等](https://zh.wikipedia.org/wiki/納粹 "wikilink")）則可能會在日本的Cosplay活動中亮相。
 
-西方世界在接近半世紀以來，服飾愛好者團隊一直跟服裝業者同步協調與廣泛發展；從首屆開始，動畫角色服飾現身會場漸多，Cosplay一詞逐漸被用作形容特定類型的角色扮演行為（尤其是來自日本的媒體中的角色）。此外，美國與日本在[第二次世界大戰後建立起來的特殊友好關係](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")，也使得兩國之間的服飾扮裝文化經常互有通融，再加上動漫、遊戲（[ACG](../Page/ACG.md "wikilink")）載體在兩國間高密度的發展，因此美日兩國的Cosplay越來越顯示出同一性、商業性的共同文化特徵\[18\]。日式的Cosplay傳入並影響西方的扮裝方式後，加速了Costuming被改稱為Cosplay；有些人仍將Cosplay一詞限制在扮裝成日本AGC角色的情況。
+西方世界在接近半世紀以來，服飾愛好者團隊一直跟服裝業者同步協調與廣泛發展；從首屆[世界科幻年會開始](https://zh.wikipedia.org/wiki/世界科幻年會 "wikilink")，動畫角色服飾現身會場漸多，Cosplay一詞逐漸被用作形容特定類型的角色扮演行為（尤其是來自日本的媒體中的角色）。此外，美國與日本在[第二次世界大戰後建立起來的特殊友好關係](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")，也使得兩國之間的服飾扮裝文化經常互有通融，再加上動漫、遊戲（[ACG](../Page/ACG.md "wikilink")）載體在兩國間高密度的發展，因此美日兩國的Cosplay越來越顯示出同一性、商業性的共同文化特徵\[21\]。日式的Cosplay傳入並影響西方的扮裝方式後，加速了Costuming被改稱為Cosplay；有些人仍將Cosplay一詞限制在扮裝成日本AGC角色的情況。
 
 [Superman_and_Batman.jpg](https://zh.wikipedia.org/wiki/File:Superman_and_Batman.jpg "fig:Superman_and_Batman.jpg")和[蝙蝠侠的Cosplayer](https://zh.wikipedia.org/wiki/蝙蝠侠 "wikilink")\]\]
 
 ### 北美
 
 [New_York_Comic_Con_2015_-_Yang_(21878006029).jpg](https://zh.wikipedia.org/wiki/File:New_York_Comic_Con_2015_-_Yang_\(21878006029\).jpg "fig:New_York_Comic_Con_2015_-_Yang_(21878006029).jpg")的Cosplayer\]\]
-從2000年代開始，在美國和[加拿大的動畫展覽活動規模漸大](../Page/加拿大.md "wikilink")，也越來越流行。藉著大眾對一些從日本入口的流行動畫系列（比如《[火影忍者](../Page/火影忍者.md "wikilink")》\[19\]、《[鋼之鍊金術師](https://zh.wikipedia.org/wiki/鋼之鍊金術師 "wikilink")》、《[死亡筆記](https://zh.wikipedia.org/wiki/死亡筆記 "wikilink")》、《[犬夜叉](https://zh.wikipedia.org/wiki/犬夜叉 "wikilink")》和《[BLEACH](../Page/BLEACH.md "wikilink")》等）更添注意，角色扮演者與動畫世界一直在主流流行文化中嶄露頭角，或最少以相對較小的規模亮相。而越來越多展覽赴會者扮演成他們喜愛的動畫角色，可見Cosplay文化與動畫文化對更多動畫展覽相繼設立有著足夠影響力以容納不斷增多的角色扮演者。
+從2000年代開始，在美國和[加拿大的動畫展覽活動規模漸大](../Page/加拿大.md "wikilink")，也越來越流行。藉著大眾對一些從日本入口的流行動畫系列（比如《[火影忍者](../Page/火影忍者.md "wikilink")》\[22\]、《[鋼之鍊金術師](https://zh.wikipedia.org/wiki/鋼之鍊金術師 "wikilink")》、《[死亡筆記](https://zh.wikipedia.org/wiki/死亡筆記 "wikilink")》、《[犬夜叉](https://zh.wikipedia.org/wiki/犬夜叉 "wikilink")》和《[BLEACH](../Page/BLEACH.md "wikilink")》等）更添注意，角色扮演者與動畫世界一直在主流流行文化中嶄露頭角，或最少以相對較小的規模亮相。而越來越多展覽赴會者扮演成他們喜愛的動畫角色，可見Cosplay文化與動畫文化對更多動畫展覽相繼設立有著足夠影響力以容納不斷增多的角色扮演者。
 
-北美的展覽一般同時設有Cosplay和服飾的競賽。\[20\]Cosplay，或（Masquerade
+北美的展覽一般同時設有Cosplay和服飾的競賽。\[23\]Cosplay，或（Masquerade
 ball），是一種身穿Cosplay服飾進行的短劇比賽。服飾競賽通常考驗參賽者所發揮的技能、設計、以及觀眾反應。競賽者在舞台上表演（配合觀眾拍掌與否視乎會場禮節而定），賽果乃事先評審或即場評審。日漸普及的展覽扮裝風氣引發了數個較新、以Cosplay為基礎的節目誕生，並結合傳統化粧舞會和會廳盛裝（Hall
 costume）競賽一同舉行。而在同類的節目比如「Anime Dating Game」（動畫約會遊戲）和「Cosplay Human
 Chess」（Cosplay真人戰棋），參與的角色扮演者更能在遊戲中相應地扮演出他們的角色。
@@ -474,7 +487,7 @@ Show）的擁躉都會身披該影片中的角色的服飾出席該影片的放�
 
 ### 澳大利亚
 
-在[澳大利亚](../Page/澳大利亚.md "wikilink")，这种趋势反映了不仅仅源于日本动漫的这一类美式服装。来源是提供了鲜明的人物形象和服装的任何东西，包括美国漫画、电脑游戏、科幻/奇幻小说、电影和电视秀、动画短片、戏剧、小说。通常来说，Cosplay并非完全展现了历史、游戏的准确性。总的来说，澳大利亚的Cosplay常常出现在有很多人的地方，例如首都和城市中心。因为这些庞大的人口支撑着边缘文化的多样性。尽管对于优秀的Cosplayer而言，在整个澳大利亚的大型赛事中进行表演是十分寻常的，但Cosplay展示不因此而局限于大型赛事。除了一些大型表演活动外，许多地方的小团体也会举行他们自己的Cosplay赛事。\[21\]
+在[澳大利亚](../Page/澳大利亚.md "wikilink")，这种趋势反映了不仅仅源于日本动漫的这一类美式服装。来源是提供了鲜明的人物形象和服装的任何东西，包括美国漫画、电脑游戏、科幻/奇幻小说、电影和电视秀、动画短片、戏剧、小说。通常来说，Cosplay并非完全展现了历史、游戏的准确性。总的来说，澳大利亚的Cosplay常常出现在有很多人的地方，例如首都和城市中心。因为这些庞大的人口支撑着边缘文化的多样性。尽管对于优秀的Cosplayer而言，在整个澳大利亚的大型赛事中进行表演是十分寻常的，但Cosplay展示不因此而局限于大型赛事。除了一些大型表演活动外，许多地方的小团体也会举行他们自己的Cosplay赛事。\[24\]
 
 [Aria_H._Kanzaki_by_結佳梨Yukari_03.jpg](https://zh.wikipedia.org/wiki/File:Aria_H._Kanzaki_by_結佳梨Yukari_03.jpg "fig:Aria_H._Kanzaki_by_結佳梨Yukari_03.jpg")偽娘coser扮演[緋彈的亞莉亞中的女主角Aria](../Page/緋彈的亞莉亞.md "wikilink")
 H. Kanzaki\]\]
@@ -507,28 +520,32 @@ Expo）甚至能吸引多達500位角色扮演者赴會Cosplay。而在展覽中
 [Category:電子遊戲術語](https://zh.wikipedia.org/wiki/Category:電子遊戲術語 "wikilink")
 
 1.  有別於cosplay，中文[角色扮演亦可指英語](https://zh.wikipedia.org/wiki/角色扮演 "wikilink")“Role-playing”。
-2.
-3.  <http://acg.gamer.com.tw/acgDetail.php?s=13623>
-4.  杜明等編纂，《an'Cos》，第8、53頁，2008年8月24日，[中國](../Page/中國.md "wikilink")[香港](../Page/香港.md "wikilink")：Angelnights'
+2.  [《【Cosplay經濟學】從扮演中實現自我　動漫扮裝躍升主流》鏡週刊](https://m.mirrormedia.mg/story/20181109int002)
+3.  [《小S一家俏麗搞鬼超吸睛！激萌萬聖節星二代扮裝盤點》Beauty美人圈](https://www.beauty321.com/post/20523)
+4.  [《走进MCM伦敦动漫展
+    看Cosplay扮装者的赚钱之道》BBC中文](https://www.bbc.com/zhongwen/simp/uk-46027874)
+5.
+6.  <http://acg.gamer.com.tw/acgDetail.php?s=13623>
+7.  杜明等編纂，《an'Cos》，第8、53頁，2008年8月24日，[中國](../Page/中國.md "wikilink")[香港](../Page/香港.md "wikilink")：Angelnights'
     Creative Group。
-5.  杜明等編纂，《an'Cos》，第52頁，2008年8月24日，[中國](../Page/中國.md "wikilink")[香港](../Page/香港.md "wikilink")：Angelnights'
+8.  杜明等編纂，《an'Cos》，第52頁，2008年8月24日，[中國](../Page/中國.md "wikilink")[香港](../Page/香港.md "wikilink")：Angelnights'
     Creative Group。
-6.  <http://www.ettoday.com/2006/08/15/327-1978402.htm>
-7.  金城等編纂，《漫友．Cosplay100》，第五輯「少年孵化之聲」，第136\~139頁，2008年4月，[中國](../Page/中國.md "wikilink")[內蒙古](https://zh.wikipedia.org/wiki/內蒙古 "wikilink")[呼和浩特](https://zh.wikipedia.org/wiki/呼和浩特 "wikilink")：漫畫世界雜誌社／內蒙古人民出版社。
-8.  [鐵道車輛擬人化角色《京急娘》扮演用衣裝於網上販賣](http://mia.shop-pro.jp/?pid=3017058)
+9.  <http://www.ettoday.com/2006/08/15/327-1978402.htm>
+10. 金城等編纂，《漫友．Cosplay100》，第五輯「少年孵化之聲」，第136\~139頁，2008年4月，[中國](../Page/中國.md "wikilink")[內蒙古](https://zh.wikipedia.org/wiki/內蒙古 "wikilink")[呼和浩特](https://zh.wikipedia.org/wiki/呼和浩特 "wikilink")：漫畫世界雜誌社／內蒙古人民出版社。
+11. [鐵道車輛擬人化角色《京急娘》扮演用衣裝於網上販賣](http://mia.shop-pro.jp/?pid=3017058)
     、[鐵道車輛擬人化角色《Fastech娘》扮演用衣裝於網上販賣](http://www.rakuten.co.jp/miacos/858406/842575/803346/)
 
-9.  [轉載2006年6月26日《澳門日報》「角色扮演在澳門的發展」](http://darthmic322.spaces.live.com/?_c11_BlogPart_BlogPart=blogview&_c=BlogPart&partqs=amonth%3D6%26ayear%3D2007)
-10. [澳門藝術網：澳門漫畫會](http://www.macauart.net/Organization/ContentC.asp?id=7)
+12. [轉載2006年6月26日《澳門日報》「角色扮演在澳門的發展」](http://darthmic322.spaces.live.com/?_c11_BlogPart_BlogPart=blogview&_c=BlogPart&partqs=amonth%3D6%26ayear%3D2007)
+13. [澳門藝術網：澳門漫畫會](http://www.macauart.net/Organization/ContentC.asp?id=7)
 
-11. [Illusion Feather同人祭活動介紹](http://www.acgmac.org/if/read.php/2.htm)
-12. [YACA網站──YACA動漫協會簡介](http://www.yaca.cn/about/index.htm)
-13.
-14.
-15.
+14. [Illusion Feather同人祭活動介紹](http://www.acgmac.org/if/read.php/2.htm)
+15. [YACA網站──YACA動漫協會簡介](http://www.yaca.cn/about/index.htm)
 16.
 17.
 18.
 19.
 20.
 21.
+22.
+23.
+24.

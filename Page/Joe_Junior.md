@@ -35,6 +35,7 @@ know?」，令他廣為人知。2015年9月，他與[胡楓及女歌手](../Page
       - [先生貴性](../Page/先生貴性.md "wikilink") 飾 梁祖蔭
       - [茶是故鄉濃](../Page/茶是故鄉濃.md "wikilink") 飾 蒙扎特
   - 2000年
+      - [無業樓民](../Page/無業樓民.md "wikilink") 飾 住客
       - [陀槍師姐II](../Page/陀槍師姐II.md "wikilink") 飾 Uncle Roy
       - [倚天屠龍記](https://zh.wikipedia.org/wiki/倚天屠龍記 "wikilink") 飾 平等王
       - [男親女愛](../Page/男親女愛.md "wikilink") 飾 盧亨利

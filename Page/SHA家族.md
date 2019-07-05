@@ -15,7 +15,7 @@ SHA家族的演算法，由[美國國家安全局](https://zh.wikipedia.org/wiki
 
 <!-- end list -->
 
-  - **[SHA-3](../Page/SHA-3.md "wikilink")**：2015年正式发布，SHA-3並不是要取代SHA-2，因為SHA-2目前並沒有出現明顯的弱點。由於對MD5出現成功的破解，以及對SHA-0和SHA-1出現理論上破解的方法，NIST感覺需要一個與之前演算法不同的，可替換的加密雜湊演算法，也就是現在的SHA-3。
+  - **[SHA-3](../Page/SHA-3.md "wikilink")**：2015年正式发布，SHA-3並不是要取代SHA-2，因為SHA-2目前並沒有出現明顯的弱點。由於對MD5出現成功的破解，以及對SHA-0和SHA-1出現理論上破解的方法，[NIST感覺需要一個與之前演算法不同的](https://zh.wikipedia.org/wiki/國家標準暨技術研究院 "wikilink")，可替換的加密雜湊演算法，也就是現在的SHA-3。
 
 ## SHA函数对比
 

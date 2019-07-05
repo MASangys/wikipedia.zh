@@ -428,7 +428,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/傑森·基德" title="wikilink">傑森·基德</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/後衛" title="wikilink">後衛</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/達拉斯小牛" title="wikilink">達拉斯小牛</a></p></td>
+<td><p><a href="../Page/達拉斯獨行俠.md" title="wikilink">達拉斯獨行俠</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -648,6 +648,15 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/費城76人" title="wikilink">費城76人</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/2016年NBA選秀" title="wikilink">2016</a></p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p><a href="../Page/卢卡·东契奇.md" title="wikilink">卢卡·东契奇</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/後衛" title="wikilink">後衛</a>/<a href="https://zh.wikipedia.org/wiki/前鋒" title="wikilink">前鋒</a></p></td>
+<td></td>
+<td><p><a href="../Page/達拉斯獨行俠.md" title="wikilink">達拉斯獨行俠</a></p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/2018年NBA選秀" title="wikilink">2018</a></p></td>
 </tr>
 </tbody>
 </table>

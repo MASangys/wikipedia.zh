@@ -3,7 +3,7 @@ Windows平台編寫的](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilin
 
 ## 功能
 
-它的特性包括同時下載，下載隊列，從多文件[种子中選擇下載單個文件](../Page/种子文件.md "wikilink")，快速恢復下載，磁盤緩存，速度限制，端口映射，代理伺服器和IP地址過濾，[种子市场等](https://zh.wikipedia.org/wiki/种子市场 "wikilink")。最新的版本中加入了公用[DHT網絡的支持和反吸血](https://zh.wikipedia.org/wiki/DHT "wikilink")（针对[迅雷](../Page/迅雷.md "wikilink")）设定。
+它的特性包括同時下載，下載隊列，從多文件[种子中選擇下載單個文件](../Page/种子文件.md "wikilink")，快速恢復下載，-{zh-hant:磁碟快取;zh-hans:磁盘缓存}-，速度限制，-{zh-hant:連接埠映射;zh-hans:端口映射}-，代理伺服器和IP地址過濾，[种子市场等](https://zh.wikipedia.org/wiki/种子市场 "wikilink")。版本0.59中加入了公用[DHT網絡的支持](https://zh.wikipedia.org/wiki/DHT "wikilink")，版本1.01中加入反吸血（针对[迅雷](../Page/迅雷.md "wikilink")）功能。
 
 ## 爭議與批評
 

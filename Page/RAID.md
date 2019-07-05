@@ -187,14 +187,14 @@ RAID 7並非公開的RAID標準，而是Storage Computer Corporation的專利硬
 [RAID_10.svg](https://zh.wikipedia.org/wiki/File:RAID_10.svg "fig:RAID_10.svg")
 [RAID_01.svg](https://zh.wikipedia.org/wiki/File:RAID_01.svg "fig:RAID_01.svg")
 
-RAID 10是先分割資料再鏡射，再將所有硬碟分為兩組，視為是RAID 1的最低組合，然後將這兩組各自視為RAID 0運作。
+RAID 10是先分割資料再鏡像，再將所有硬碟分為兩組，視為是RAID 1的最低組合，然後將這兩組各自視為RAID 0運作。
 
-RAID 01則是跟RAID 10的程序相反，是先鏡射再將資料到分割兩組硬碟。它將所有的硬碟分為兩組，變成RAID
+RAID 01則是跟RAID 10的程序相反，是先鏡像再將資料到分割兩組硬碟。它將所有的硬碟分為兩組，變成RAID
 0的最低組合，而將兩組硬碟各自視為RAID 1運作。
 
 當RAID 10有一個硬碟受損，其餘硬碟會繼續運作。RAID 01-{只}-要有一個硬碟受損，同組RAID
 0的所有硬碟都會停止運作，只剩下其他組的硬碟運作，可靠性較低。如果以六個硬碟建RAID
-01，鏡射再用三個建RAID 0，那麼壞一個硬碟便會有三個硬碟離線。因此，RAID 10遠較RAID
+01，鏡像再用三個建RAID 0，那麼壞一個硬碟便會有三個硬碟離線。因此，RAID 10遠較RAID
 01常用，零售[主機板絕大部份支援RAID](https://zh.wikipedia.org/wiki/主機板 "wikilink")
 0/1/5/10，但不支援RAID 01。 {{-}}
 
@@ -215,7 +215,7 @@ RAID 50由於在上層把多組RAID 5構成Stripe，效能比起單純的RAID
 
 ### RAID 53
 
-它擁有一個鏡射條帶陣列，硬碟裡其中一個條帶就是一個是由3組以上的RAID 5組成RAID 3硬碟陣列。 {{-}}
+它擁有一個鏡像條帶陣列，硬碟裡其中一個條帶就是一個是由3組以上的RAID 5組成RAID 3硬碟陣列。 {{-}}
 
 ### RAID 60
 

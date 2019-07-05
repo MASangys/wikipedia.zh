@@ -436,6 +436,13 @@ Award**），是由[美国](../Page/美国.md "wikilink")[国家篮球协会颁�
 <td><p>59–23</p></td>
 <td><p>常规赛成绩全联盟第二，創下暴龍隊史最多勝。</p></td>
 </tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/2018-19_NBA赛季" title="wikilink">2018-19</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/迈克·布登霍尔泽" title="wikilink">迈克·布登霍尔泽</a>(2)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/密爾瓦基公鹿" title="wikilink">密爾瓦基公鹿</a></p></td>
+<td><p>60–22</p></td>
+<td><p>例行賽成績東區和全联盟第一。</p></td>
+</tr>
 </tbody>
 </table>
 

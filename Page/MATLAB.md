@@ -201,9 +201,9 @@ MATLAB中常用的绘图命令是*plot*，例如描绘一个在\[-4,4\]区间内
 <table>
 <tbody>
 <tr class="odd">
-<td><div class="sourceCode" id="cb1"><pre class="sourceCode matlab"><code class="sourceCode matlab"><a class="sourceLine" id="cb1-1" title="1">&gt;&gt; x = -<span class="fl">4</span>:<span class="fl">0.05</span>:<span class="fl">4</span>;</a>
-<a class="sourceLine" id="cb1-2" title="2">&gt;&gt; y = sin (x);</a>
-<a class="sourceLine" id="cb1-3" title="3">&gt;&gt; plot（x,y）</a></code></pre></div></td>
+<td><div class="sourceCode" id="cb1"><pre class="sourceCode matlab"><code class="sourceCode matlab"><span id="cb1-1"><a href="#cb1-1"></a>&gt;&gt; x = -<span class="fl">4</span>:<span class="fl">0.05</span>:<span class="fl">4</span>;</span>
+<span id="cb1-2"><a href="#cb1-2"></a>&gt;&gt; y = sin (x);</span>
+<span id="cb1-3"><a href="#cb1-3"></a>&gt;&gt; plot（x,y）</span></code></pre></div></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:sine_function.png" title="fig:sine_function.png">sine_function.png</a></p></td>
 </tr>
 </tbody>
@@ -214,12 +214,12 @@ MATLAB中常用的绘图命令是*plot*，例如描绘一个在\[-4,4\]区间内
 <table>
 <tbody>
 <tr class="odd">
-<td><div class="sourceCode" id="cb1"><pre class="sourceCode matlab"><code class="sourceCode matlab"><a class="sourceLine" id="cb1-1" title="1">&gt;&gt; x = <span class="fl">0</span>:<span class="fl">.01</span>:<span class="fl">2</span>*pi;</a>
-<a class="sourceLine" id="cb1-2" title="2">&gt;&gt; y1 = sin (x);</a>
-<a class="sourceLine" id="cb1-3" title="3">&gt;&gt; y2 = sin（<span class="fl">2</span>*x）;</a>
-<a class="sourceLine" id="cb1-4" title="4">&gt;&gt; y3 = sin（<span class="fl">4</span>*x）;</a>
-<a class="sourceLine" id="cb1-5" title="5">&gt;&gt; plot（x, [y1; y2; y3]）</a>
-<a class="sourceLine" id="cb1-6" title="6">&gt;&gt; legend（<span class="st">&#39;y=sin（x）&#39;</span>, <span class="st">&#39;y=sin (2x)&#39;</span>,<span class="st">&#39;y=sin (4x)&#39;</span>)</a></code></pre></div></td>
+<td><div class="sourceCode" id="cb1"><pre class="sourceCode matlab"><code class="sourceCode matlab"><span id="cb1-1"><a href="#cb1-1"></a>&gt;&gt; x = <span class="fl">0</span>:<span class="fl">.01</span>:<span class="fl">2</span>*pi;</span>
+<span id="cb1-2"><a href="#cb1-2"></a>&gt;&gt; y1 = sin (x);</span>
+<span id="cb1-3"><a href="#cb1-3"></a>&gt;&gt; y2 = sin（<span class="fl">2</span>*x）;</span>
+<span id="cb1-4"><a href="#cb1-4"></a>&gt;&gt; y3 = sin（<span class="fl">4</span>*x）;</span>
+<span id="cb1-5"><a href="#cb1-5"></a>&gt;&gt; plot（x, [y1; y2; y3]）</span>
+<span id="cb1-6"><a href="#cb1-6"></a>&gt;&gt; legend（<span class="st">&#39;y=sin（x）&#39;</span>, <span class="st">&#39;y=sin (2x)&#39;</span>,<span class="st">&#39;y=sin (4x)&#39;</span>)</span></code></pre></div></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Multiple_sine_function.png" title="fig:Multiple_sine_function.png">Multiple_sine_function.png</a></p></td>
 </tr>
 </tbody>
@@ -230,22 +230,22 @@ MATLAB中常用的绘图命令是*plot*，例如描绘一个在\[-4,4\]区间内
 <table>
 <tbody>
 <tr class="odd">
-<td><div class="sourceCode" id="cb1"><pre class="sourceCode matlab"><code class="sourceCode matlab"><a class="sourceLine" id="cb1-1" title="1">&gt;&gt; t = linspace（<span class="fl">0</span>, <span class="fl">2</span>*pi, <span class="fl">512</span>）;</a>
-<a class="sourceLine" id="cb1-2" title="2">&gt;&gt; [u,v] = meshgrid (t);</a>
-<a class="sourceLine" id="cb1-3" title="3">&gt;&gt; a = -<span class="fl">0.4</span>; b = <span class="fl">.5</span>; c = <span class="fl">.1</span>;</a>
-<a class="sourceLine" id="cb1-4" title="4">&gt;&gt; n = <span class="fl">3</span>;</a>
-<a class="sourceLine" id="cb1-5" title="5">&gt;&gt; x =（a*(<span class="fl">1</span> - v/(<span class="fl">2</span>*pi）) .*（<span class="fl">1</span>+cos（u）) + c) .* cos（n*v）;</a>
-<a class="sourceLine" id="cb1-6" title="6">&gt;&gt; y =（a*(<span class="fl">1</span> - v/(<span class="fl">2</span>*pi）) .*（<span class="fl">1</span>+cos（u）) + c) .* sin（n*v）;</a>
-<a class="sourceLine" id="cb1-7" title="7">&gt;&gt; z = b*v/（<span class="fl">2</span>*pi） + a*（<span class="fl">1</span> - v/(<span class="fl">2</span>*pi）) .* sin (u);</a>
-<a class="sourceLine" id="cb1-8" title="8">&gt;&gt; surf（x,y,z,y）</a>
-<a class="sourceLine" id="cb1-9" title="9">&gt;&gt; axis off</a>
-<a class="sourceLine" id="cb1-10" title="10">&gt;&gt; axis equal</a>
-<a class="sourceLine" id="cb1-11" title="11">&gt;&gt; colormap（hsv（<span class="fl">1024</span>）)</a>
-<a class="sourceLine" id="cb1-12" title="12">&gt;&gt; shading interp</a>
-<a class="sourceLine" id="cb1-13" title="13">&gt;&gt; material shiny</a>
-<a class="sourceLine" id="cb1-14" title="14">&gt;&gt; lighting phong</a>
-<a class="sourceLine" id="cb1-15" title="15">&gt;&gt; camlight（<span class="st">&#39;left&#39;</span>, <span class="st">&#39;infinite&#39;</span>）</a>
-<a class="sourceLine" id="cb1-16" title="16">&gt;&gt; view（[-<span class="fl">160</span> <span class="fl">25</span>]）</a></code></pre></div></td>
+<td><div class="sourceCode" id="cb1"><pre class="sourceCode matlab"><code class="sourceCode matlab"><span id="cb1-1"><a href="#cb1-1"></a>&gt;&gt; t = linspace（<span class="fl">0</span>, <span class="fl">2</span>*pi, <span class="fl">512</span>）;</span>
+<span id="cb1-2"><a href="#cb1-2"></a>&gt;&gt; [u,v] = meshgrid (t);</span>
+<span id="cb1-3"><a href="#cb1-3"></a>&gt;&gt; a = -<span class="fl">0.4</span>; b = <span class="fl">.5</span>; c = <span class="fl">.1</span>;</span>
+<span id="cb1-4"><a href="#cb1-4"></a>&gt;&gt; n = <span class="fl">3</span>;</span>
+<span id="cb1-5"><a href="#cb1-5"></a>&gt;&gt; x =（a*(<span class="fl">1</span> - v/(<span class="fl">2</span>*pi）) .*（<span class="fl">1</span>+cos（u）) + c) .* cos（n*v）;</span>
+<span id="cb1-6"><a href="#cb1-6"></a>&gt;&gt; y =（a*(<span class="fl">1</span> - v/(<span class="fl">2</span>*pi）) .*（<span class="fl">1</span>+cos（u）) + c) .* sin（n*v）;</span>
+<span id="cb1-7"><a href="#cb1-7"></a>&gt;&gt; z = b*v/（<span class="fl">2</span>*pi） + a*（<span class="fl">1</span> - v/(<span class="fl">2</span>*pi）) .* sin (u);</span>
+<span id="cb1-8"><a href="#cb1-8"></a>&gt;&gt; surf（x,y,z,y）</span>
+<span id="cb1-9"><a href="#cb1-9"></a>&gt;&gt; axis off</span>
+<span id="cb1-10"><a href="#cb1-10"></a>&gt;&gt; axis equal</span>
+<span id="cb1-11"><a href="#cb1-11"></a>&gt;&gt; colormap（hsv（<span class="fl">1024</span>）)</span>
+<span id="cb1-12"><a href="#cb1-12"></a>&gt;&gt; shading interp</span>
+<span id="cb1-13"><a href="#cb1-13"></a>&gt;&gt; material shiny</span>
+<span id="cb1-14"><a href="#cb1-14"></a>&gt;&gt; lighting phong</span>
+<span id="cb1-15"><a href="#cb1-15"></a>&gt;&gt; camlight（<span class="st">&#39;left&#39;</span>, <span class="st">&#39;infinite&#39;</span>）</span>
+<span id="cb1-16"><a href="#cb1-16"></a>&gt;&gt; view（[-<span class="fl">160</span> <span class="fl">25</span>]）</span></code></pre></div></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Complex_3d_plot.png" title="fig:Complex_3d_plot.png">Complex_3d_plot.png</a></p></td>
 </tr>
 </tbody>
@@ -334,7 +334,7 @@ LabVIEW是[美国国家仪器公司开发的可视化编程平台](../Page/國�
 
 #### FreeMat
 
-FreeMat是一个与MATLAB和[互動式數據語言](https://zh.wikipedia.org/wiki/互動式數據語言 "wikilink")（IDL）很类似的数值计算平台及程序语言。最新版本是2009年10月发布的FreeMat
+FreeMat是一个与MATLAB和[互動式數據語言](../Page/互動式數據語言.md "wikilink")（IDL）很类似的数值计算平台及程序语言。最新版本是2009年10月发布的FreeMat
 4.0
 
 #### GNU Octave

@@ -1,6 +1,6 @@
 **NBA年度最佳第六人**（）是[美国国家篮球协会从](../Page/NBA.md "wikilink")[1982-1983年NBA赛季开始颁发的年度奖项](https://zh.wikipedia.org/wiki/1982-83_NBA赛季 "wikilink")，旨在表彰[赛季中表现最优异的替补球员](https://zh.wikipedia.org/wiki/NBA赛季列表 "wikilink")（第六人）。奖项由美加两国各地的体育记者和广播员共同投票选出，每人可以选出自己心目中的第一、第二和第三名。每张第一名选票相当于五分，第二名相当于三分，第三名一分。无论第一名选票归属几何，都是最终得分最高的球员获奖。此外，角逐奖项的球员在整个赛季作为替补球员的比赛场数必须多于首发场次\[1\]。
 
-从奖项设立至2018年止，共有27名球员获得过最佳第六人奖。[贾马尔·克劳福德共有三次获奖](../Page/贾马尔·克劳福德.md "wikilink")，比其他球员都多。[凯文·麦克海尔](https://zh.wikipedia.org/wiki/凯文·麦克海尔 "wikilink")、[里奇·皮尔斯和](https://zh.wikipedia.org/wiki/里奇·皮尔斯 "wikilink")[德特夫·史伦夫都曾两次获奖](https://zh.wikipedia.org/wiki/德特夫·史伦夫 "wikilink")。麦克海尔和[比尔·沃尔顿是所有最佳第六人中仅有的两名已入选](https://zh.wikipedia.org/wiki/比尔·沃尔顿 "wikilink")[篮球名人堂的运动员](../Page/奈史密斯篮球名人纪念堂.md "wikilink")，沃尔顿和[詹姆士·哈登曾获](https://zh.wikipedia.org/wiki/詹姆士·哈登 "wikilink")[NBA最有价值球员奖的球员](https://zh.wikipedia.org/wiki/NBA最有价值球员 "wikilink")\[2\]。
+从奖项设立至2018年止，共有27名球员获得过最佳第六人奖。[贾马尔·克劳福德](../Page/贾马尔·克劳福德.md "wikilink")、[路·威廉姆斯共有三次获奖](https://zh.wikipedia.org/wiki/路·威廉姆斯 "wikilink")，比其他球员都多。[凯文·麦克海尔](https://zh.wikipedia.org/wiki/凯文·麦克海尔 "wikilink")、[里奇·皮尔斯和](https://zh.wikipedia.org/wiki/里奇·皮尔斯 "wikilink")[德特夫·史伦夫都曾两次获奖](https://zh.wikipedia.org/wiki/德特夫·史伦夫 "wikilink")。麦克海尔和[比尔·沃尔顿是所有最佳第六人中仅有的两名已入选](https://zh.wikipedia.org/wiki/比尔·沃尔顿 "wikilink")[篮球名人堂的运动员](../Page/奈史密斯篮球名人纪念堂.md "wikilink")，沃尔顿和[詹姆士·哈登曾获](https://zh.wikipedia.org/wiki/詹姆士·哈登 "wikilink")[NBA最有价值球员奖的球员](https://zh.wikipedia.org/wiki/NBA最有价值球员 "wikilink")\[2\]。
 
 所有获奖球员中，只有[马努·吉诺比利](https://zh.wikipedia.org/wiki/马努·吉诺比利 "wikilink")、史伦夫、[莱昂德罗·巴博萨](../Page/莱昂德罗·巴博萨.md "wikilink")、[托尼·库科奇和](../Page/托尼·库科奇.md "wikilink")[本·戈登不是在美国出生](../Page/本·戈登.md "wikilink")，戈登则是唯一获奖的新手球员\[3\]。全部五名别国出生的球员中有吉诺比利\[4\]、巴博萨和库科奇三人不是在美国完成训练\[5\]\[6\]。史伦夫在华盛顿州[森特勒利亚打过两年高中篮球后进入](../Page/森特勒利亚_\(华盛顿州\).md "wikilink")[华盛顿大学的](https://zh.wikipedia.org/wiki/华盛顿大学 "wikilink")[华盛顿大学爱斯基摩犬队](https://zh.wikipedia.org/wiki/华盛顿大学爱斯基摩犬队 "wikilink")\[7\]，戈登则是在[纽约州](../Page/纽约州.md "wikilink")[弗農山长大](../Page/弗農山_\(紐約州\).md "wikilink")，然后在[康涅狄格大学爱斯基摩犬队效力](https://zh.wikipedia.org/wiki/康涅狄格大学爱斯基摩犬队 "wikilink")\[8\]。
 
@@ -275,6 +275,13 @@
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/2017-18_NBA赛季" title="wikilink">2017-18</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/路·威廉姆斯" title="wikilink">路·威廉姆斯</a>^（2）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/篮球位置" title="wikilink">后卫</a></p></td>
+<td></td>
+<td><p><a href="../Page/洛杉矶快船.md" title="wikilink">洛杉矶快船</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/2018-19_NBA赛季" title="wikilink">2018-19</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/路·威廉姆斯" title="wikilink">路·威廉姆斯</a>^（3）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/篮球位置" title="wikilink">后卫</a></p></td>
 <td></td>
 <td><p><a href="../Page/洛杉矶快船.md" title="wikilink">洛杉矶快船</a></p></td>

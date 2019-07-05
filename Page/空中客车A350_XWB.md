@@ -53,7 +53,7 @@ Hubschman重申。[斯蒂文‧艾德華茲請求空中客车為業界帶來一�
 [A350_variant_sizes.svg](https://zh.wikipedia.org/wiki/File:A350_variant_sizes.svg "fig:A350_variant_sizes.svg")
 [Airbus_Industrie,_F-WLXV,_Airbus_A350-1000.jpg](https://zh.wikipedia.org/wiki/File:Airbus_Industrie,_F-WLXV,_Airbus_A350-1000.jpg "fig:Airbus_Industrie,_F-WLXV,_Airbus_A350-1000.jpg")
 因外界的各項批評，[空中客车於](../Page/空中客车.md "wikilink")2006年中就A350概念作了一次重大的探討研究。有推測指經修訂的飛機將名為A370。2006年7月17日，空中客车於[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[法茵堡航空展上宣佈其經重新設計的飛機將名為](https://zh.wikipedia.org/wiki/范堡罗航空展 "wikilink")**A350
-XWB**（即 e**X**tra **W**ide
+XWB**（即 E**X**tra **W**ide
 **B**ody，超廣體）。其機身橫切面宽度比空中巴士一直沿用的廣體客機机身（用于A300、A310、A330及A340系列）大。空中客车為了要區隔舊的A350計畫與新的A350
 XWB計畫之不同，在所有的場合中都一定會稱全名A350 XWB。原本的A350計畫於2006年10月正式啟動。而A350
 XWB則會將原定的時間表推遲數年，並且使研發成本增加一倍，由53億美元提升至約100億美元\[12\]。
@@ -141,6 +141,8 @@ XWB以及20架選擇購買權。其首席執行官（CEO）[周俊成於聲明�
 2018年12月4日﹐空中巴士交付了首架A350-900予[中國東方航空](https://zh.wikipedia.org/wiki/中國東方航空 "wikilink")\[23\]
 
 2019年6月2日，空中巴士交付了首架A350-900予[日本航空](../Page/日本航空.md "wikilink")
+
+2019年6月29日，空中巴士交付了首架A350-900予[中國南方航空](https://zh.wikipedia.org/wiki/中國南方航空 "wikilink")
 
 ## 型號
 
@@ -460,8 +462,8 @@ XWB將配備更大的[窗戶](../Page/窗.md "wikilink")，機艙內氣壓會被
 <td><p><strong>20</strong></p></td>
 <td></td>
 <td><p><strong>20</strong></p></td>
-<td></td>
-<td><p>2019年至2022年交付</p></td>
+<td><p><strong>1</strong></p></td>
+<td><p>中國南方航空已於2019年6月29日接收首架B-308T</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -680,8 +682,8 @@ XWB將配備更大的[窗戶](../Page/窗.md "wikilink")，機艙內氣壓會被
 <td><p><strong>6</strong></p></td>
 <td></td>
 <td><p><strong>6</strong></p></td>
-<td><p><strong>1</strong></p></td>
-<td><p>預計2019年交付完畢</p></td>
+<td><p><strong>6</strong></p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -845,7 +847,7 @@ XWB將配備更大的[窗戶](../Page/窗.md "wikilink")，機艙內氣壓會被
 <td><p>769</p></td>
 <td><p>185</p></td>
 <td><p>954</p></td>
-<td><p>250</p></td>
+<td><p>256</p></td>
 <td></td>
 </tr>
 </tbody>

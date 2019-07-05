@@ -3,7 +3,7 @@
 ## XnView MP
 
 XnView
-MP是该软件的跨平台版本，支持[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Linux和](../Page/Linux.md "wikilink")[Mac平台](https://zh.wikipedia.org/wiki/Mac "wikilink")。它使用了[Qt库进行开发](../Page/Qt.md "wikilink")，目前正在公開測試，版本是0.92。相比起其旧版程序和其它的免费图像查看器，它的特点是能在默认码表为[ASCII的](../Page/ASCII.md "wikilink")[Unicode操作系统上识别包含有Unicode字符的路径和文件名](https://zh.wikipedia.org/wiki/Unicode "wikilink")，并在全平台上支持多语言界面。XnView社区的成员mezich和thibaud为这款软件贡献了新的工具条按钮和图标。\[1\]
+MP是该软件的跨平台版本，支持[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Linux和](../Page/Linux.md "wikilink")[Mac平台](https://zh.wikipedia.org/wiki/Mac "wikilink")。它使用了[Qt库进行开发](../Page/Qt.md "wikilink")，目前正在公開測試。相比起其旧版程序和其它的免费图像查看器，它的特点是能在默认码表为[ASCII的](../Page/ASCII.md "wikilink")[Unicode操作系统上识别包含有Unicode字符的路径和文件名](https://zh.wikipedia.org/wiki/Unicode "wikilink")，并在全平台上支持多语言界面。XnView社区的成员mezich和thibaud为这款软件贡献了新的工具条按钮和图标。\[1\]
 
 ## 特性
 

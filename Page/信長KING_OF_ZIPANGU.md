@@ -75,7 +75,7 @@ Obrigado\!"（[葡萄牙語](https://zh.wikipedia.org/wiki/葡萄牙語 "wikilin
   - [森坊丸](https://zh.wikipedia.org/wiki/森坊丸 "wikilink")：[蘆田昌太郎](https://zh.wikipedia.org/wiki/蘆田昌太郎 "wikilink")
   - [細川藤孝](../Page/細川藤孝.md "wikilink")：[勝野洋](https://zh.wikipedia.org/wiki/勝野洋 "wikilink")
   - [細川忠興](../Page/細川忠興.md "wikilink")：[小林秀樹](https://zh.wikipedia.org/wiki/小林秀樹 "wikilink")
-  - [玉](https://zh.wikipedia.org/wiki/明智玉子 "wikilink")：[今村惠子](https://zh.wikipedia.org/wiki/今村惠子 "wikilink")
+  - [玉](https://zh.wikipedia.org/wiki/明智玉子 "wikilink")：[今村惠子](../Page/今村惠子.md "wikilink")
   - [毛利新助](https://zh.wikipedia.org/wiki/毛利新助 "wikilink")：[青木健](https://zh.wikipedia.org/wiki/青木健 "wikilink")
   - [服部小平太](../Page/服部一忠.md "wikilink")：[堅田宏](https://zh.wikipedia.org/wiki/堅田宏 "wikilink")
   - [高山右近](../Page/高山右近.md "wikilink")：[富家規政](https://zh.wikipedia.org/wiki/富家規政 "wikilink")

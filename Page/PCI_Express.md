@@ -1,13 +1,11 @@
 **PCI
-Express**，简称**PCI-E**，官方简称**PCIe**，是[電腦匯流排](https://zh.wikipedia.org/wiki/電腦匯流排 "wikilink")[PCI的其中之一](../Page/外设组件互连标准.md "wikilink")，它沿用現有的PCI編程概念及通訊標準，并建基於更快的[串行通信系統](../Page/串行通信.md "wikilink")。
+Express**，简称**PCI-E**，官方简称**PCIe**，是[计算机总线的一个重要分支](../Page/总线.md "wikilink")，它沿用現有的PCI編程概念及信号标准，并建构建了更加高速的[串行通信系統标准](../Page/串行通信.md "wikilink")。目前这一标准有PCI-SIG组织制定和维护。PCIe仅应用于内部互连。由于PCIe是基于现有的[PCI系统](../Page/外设组件互连标准.md "wikilink")，所以只需修改[物理层而无须修改软件就可将现有PCI系统转换为PCIe](../Page/物理层.md "wikilink")。
 
-英特爾是該介面的主要支援者。PCIe仅应用于内部互连。由于PCIe是基于现有的[PCI系统](../Page/外设组件互连标准.md "wikilink")，所以只需修改[物理层而无须修改软件就可将现有PCI系统转换为PCIe](../Page/物理层.md "wikilink")。
-
-PCIe拥有更快的速率，所以几乎取代了以往所有的内部[总线](../Page/总线.md "wikilink")（包括[AGP和PCI](../Page/AGP.md "wikilink")）。現在英特爾和AMD已採用單晶片組技術，取代原有的[南桥](../Page/南桥.md "wikilink")／[北桥方案](../Page/北桥.md "wikilink")。
+PCIe拥有更快的速率，所以几乎取代了以往所有的内部[总线](../Page/总线.md "wikilink")（包括[AGP和PCI](../Page/AGP.md "wikilink")）。現在英特爾和AMD已採用单芯片组技术，取代原有的[南桥](../Page/南桥.md "wikilink")／[北桥方案](../Page/北桥.md "wikilink")。
 
 除此之外，PCIe设备能够支援[热拔插以及](https://zh.wikipedia.org/wiki/热拔插 "wikilink")[热交换特性](https://zh.wikipedia.org/wiki/热交换 "wikilink")，目前支援的三种电压分别为+3.3V、3.3Vaux以及+12V。
 
-考虑到现在顯示卡功耗的日益增加，PCIe而后在规范中改善了直接从插槽中取电的功率限制，16x的最大提供功率一度达到了75W\[1\]，相对于AGP
+考虑到现在显卡功耗的日益增加，PCIe而后在规范中改善了直接从插槽中取电的功率限制，16x的最大提供功率一度达到了75W\[1\]，相对于AGP
 8X接口有了很大的提升。
 
 PCIe只是南桥的扩展总线，它与操作系统无关，所以也保证它与原有PCI的兼容性，也就是说在很长一段时间内在主板上PCIe接口将和PCI接口共存，这也给用户的升级带来方便。由此可见，PCIe最大的意义在于它的通用性，不仅可以让它用于南桥和其他设备的连接，也可以延伸到[芯片组间的连接](../Page/芯片组.md "wikilink")，甚至也可以用于连接圖形處理器，这样，整个[I/O系统重新统一起来](https://zh.wikipedia.org/wiki/I/O "wikilink")，将更进一步简化计算机系统，增加计算机的可移植性和模块化。
@@ -17,10 +15,14 @@ PCIe只是南桥的扩展总线，它与操作系统无关，所以也保证它�
 在2001年的春季[英特尔开发者论坛](https://zh.wikipedia.org/wiki/英特尔开发者论坛 "wikilink")（IDF）上Intel公布取代PCI总线的第三代I/O技术，被称为“[3GIO](https://zh.wikipedia.org/wiki/3GIO "wikilink")”。该总线的规范由Intel支持的[AWG](https://zh.wikipedia.org/wiki/AWG "wikilink")（Arapahoe
 Work Group）负责制定。2002年4月17日，AWG正式宣布3GIO
 1.0规范草稿制定完毕，移交[PCI特殊兴趣组织](https://zh.wikipedia.org/wiki/PCI-SIG "wikilink")（PCI-SIG）进行审核，2002年7月23日经过审核后正式公布，改名为“PCI
-Express”，并根据开发蓝图在2006年正式推出Spec 2.0（2.0规范）。\[2\]\[3\]
+Express”，并根据开发蓝图在2006年正式推出Spec
+2.0（2.0规范）。\[2\]\[3\]2019年5月28日，PCI-SIG官方发布了PCIe
+5.0的1.0版基础规范，规范主要定义了PCIe5.0的架构（architecture）、互联属性规范（interconnect
+attributes）、网络结构管理（fabric management）以及编程接口（programming
+interface）等内容\[4\]。
 
 <table>
-<caption>PCI Express 匯流排效能[4][5]</caption>
+<caption>PCI Express 匯流排效能[5][6]</caption>
 <thead>
 <tr class="header">
 <th><p>PCI Express<br />
@@ -58,7 +60,7 @@ Express”，并根据开发蓝图在2006年正式推出Spec 2.0（2.0规范）�
 <tr class="even">
 <td><p>3.0</p></td>
 <td><p>2010</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/128b/130b" title="wikilink">128b/130b</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/128b/130b_(128-bit_to_130-bit_symbols)" title="wikilink">128b/130b (128-bit to 130-bit symbols)</a></p></td>
 <td><p>8.0 GT/s</p></td>
 <td><p>984.6 MB/s</p></td>
 </tr>
@@ -70,18 +72,18 @@ Express”，并根据开发蓝图在2006年正式推出Spec 2.0（2.0规范）�
 <td><p>1969 MB/s</p></td>
 </tr>
 <tr class="even">
-<td><p>5.0[6][7]</p></td>
-<td><p>2019 Q1[8]</p></td>
-<td><p>128b/130b</p></td>
+<td><p>5.0[7][8]</p></td>
+<td><p>2019[9][10]</p></td>
+<td><p>NRZ 128b/130b</p></td>
 <td><p>32.0 GT/s</p></td>
 <td><p>3938 MB/s</p></td>
 </tr>
 <tr class="odd">
 <td><p>6.0</p></td>
 <td><p>2021</p></td>
-<td><p>PAM4</p></td>
+<td><p>PAM4 &amp; FEC 128b/130b</p></td>
 <td><p>64.0 GT/s</p></td>
-<td><p> MB/s</p></td>
+<td><p>7877 MB/s</p></td>
 </tr>
 </tbody>
 </table>
@@ -97,7 +99,7 @@ Express”，并根据开发蓝图在2006年正式推出Spec 2.0（2.0规范）�
 PCIe的規範主要是為了提升電腦內部所有匯流排的速度，因此[頻寬有多種不同規格標準](https://zh.wikipedia.org/wiki/頻寬 "wikilink")，其中PCIe
 x16是專為顯示卡所設計的部分。AGP的資料傳輸效率最高為2.1GB／s，不過對上PCIe
 x16的8GB／s，很明顯的就分出勝負，但8GB／s只有指資料傳輸的理想值，並不是使用PCIe介面的顯示卡，就能夠有突飛猛進的效能表現，實際的測試數據上並不會有這麼大的差異存在。
-\[9\] \[10\]
+\[11\] \[12\]
 
 | 傳輸通道數 | 腳Pin總數 | 主介面區Pin數 | 總長 度  | 主介面區長度   |
 | ----- | ------ | -------- | ----- | -------- |
@@ -170,9 +172,9 @@ x4
 
 ### 引腳
 
-下表列出在邊緣連接器上的PCI Express卡兩側的導線。在印刷電路板（PCB）的焊接側為A側，並且組件側的B側。\[11\]PRSNT1\#
+下表列出在邊緣連接器上的PCI Express卡兩側的導線。在印刷電路板（PCB）的焊接側為A側，並且組件側的B側。\[13\]PRSNT1\#
 和PRSNT2\# 引腳必須比其餘稍短，以確保熱插入卡完全插入。該WAKE\#
-引腳採用全電壓喚醒計算機，但必須拉高從備用電源，以表明該卡是能夠喚醒。\[12\]
+引腳採用全電壓喚醒計算機，但必須拉高從備用電源，以表明該卡是能夠喚醒。\[14\]
 
 | 引腳                     | B側          | A側         | 描述                                                                                             |               | 引腳            | B側           | A側           | 描述 |
 | ---------------------- | ----------- | ---------- | ---------------------------------------------------------------------------------------------- | ------------- | ------------- | ------------ | ------------ | -- |
@@ -250,7 +252,7 @@ x1卡\]\]
     PCI卡](https://zh.wikipedia.org/wiki/Compact_PCI "wikilink")，支援串行背板拓撲結構基礎。
   - [AMC](https://zh.wikipedia.org/wiki/自適應調變和編碼 "wikilink")：AdvancedTCA規範的補充，支援處理器和I/O模塊在ATCA板上（x1、x2、x4或x8
     PCIe）。
-  - PCI Express外置接線\[13\]。
+  - PCI Express外置接線\[15\]。
   - [Mobile PCI Express
     Module](https://zh.wikipedia.org/wiki/Mobile_PCI_Express_Module "wikilink")（MXM）[英伟达所發明的圖形模塊規範](../Page/英伟达.md "wikilink")。
   - [Advanced eXpress I/O
@@ -312,14 +314,14 @@ Express|NVMe\]\]协议是目前最高效的PCIe SSD协议标准，适用这一�
 3.
 
 4.
+
 5.
 6.
-
 7.
 
 8.
 
-9.
+9.  <https://www.tomshardware.com/news/pci-sig-releases-final-pcie-5-spec,39521.html>
 
 10.
 
@@ -328,3 +330,7 @@ Express|NVMe\]\]协议是目前最高效的PCIe SSD协议标准，适用这一�
 12.
 
 13.
+
+14.
+
+15.

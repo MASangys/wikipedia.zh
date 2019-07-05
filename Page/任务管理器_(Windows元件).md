@@ -94,7 +94,7 @@ Windows 9x 中，Windows
 
 <!-- end list -->
 
-  - 通过右键单击任何进程，可以直接打开进程[執行檔的属性或包含该进程的文件夹](https://zh.wikipedia.org/wiki/執行檔 "wikilink")。
+  - 通过右键单击任何进程，可以直接打开进程[執行檔的属性或包含该进程的文件夹](../Page/執行檔.md "wikilink")。
 
 <!-- end list -->
 

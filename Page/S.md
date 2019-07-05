@@ -28,6 +28,7 @@ s）或中间音*s*。它用于词语的开始或中间；现代形式的短音s
   - S身材表示身材好。
   - S代表[SM之中的施虐傾向者](https://zh.wikipedia.org/wiki/虐戀 "wikilink")（Sadism）
   - 在[日渡早紀的](../Page/日渡早紀.md "wikilink")《[地球守護靈](../Page/地球守護靈.md "wikilink")》，S為主角小林輪所用的匿名
+  - 等級的一種象徵（[S級](https://zh.wikipedia.org/wiki/:en:S-rank "wikilink")），卻也被德國賓士汽車作為一種[汽車品牌序號](../Page/梅赛德斯-奔驰S级.md "wikilink")
 
 ## 参看
 

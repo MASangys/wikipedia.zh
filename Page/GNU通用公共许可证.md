@@ -1,9 +1,11 @@
 **GNU通用公共授權條款**（，縮寫GNU GPL 或
-GPL），是廣泛应用的[自由軟件](https://zh.wikipedia.org/wiki/自由軟件 "wikilink")[許可證](../Page/软件许可证.md "wikilink")，可以保證終端用戶得自由運行、學習、共享和修改軟件。\[1\]許可證最初由GNU項目的[自由軟件基金會的](https://zh.wikipedia.org/wiki/自由軟件基金會 "wikilink")[理查德·斯托曼撰寫](../Page/理查德·斯托曼.md "wikilink")，並授予計算機程序的收件人自由軟件定義的權利。
+GPL），是被廣泛使用的[自由軟件](https://zh.wikipedia.org/wiki/自由軟件 "wikilink")[許可證](../Page/软件许可证.md "wikilink")，给予了終端用戶運行、學習、共享和修改軟件的自由。\[1\]許可證最初由[自由軟件基金會的](https://zh.wikipedia.org/wiki/自由軟件基金會 "wikilink")[理查德·斯托曼为GNU項目所撰寫](../Page/理查德·斯托曼.md "wikilink")，並授予計算機程序的用户自由軟件定義（[The
+Free Software
+Definition](https://zh.wikipedia.org/wiki/The_Free_Software_Definition "wikilink")）的權利。
 \[2\]
 GPL是一個[Copyleft許可證](../Page/Copyleft.md "wikilink")，這意味著衍生作品只能以相同的許可條款分發。
-這與許可自由軟件許可證有所區別
-，其中[BSD許可證和](../Page/BSD.md "wikilink")[MIT許可證是廣泛使用的示例](../Page/MIT許可證.md "wikilink")。
+這與[宽松自由软件许可证有所區別](../Page/寬鬆自由軟體授權條款.md "wikilink")
+，如[BSD許可證和](../Page/BSD许可证.md "wikilink")[MIT許可證就是其中被廣泛使用的例子](../Page/MIT許可證.md "wikilink")。
 GPL是第一個普遍使用的Copyleft許可證。
 
 歷史上，GPL許可證系列一直是自由和開源軟件領域最受歡迎的軟件許可之一。\[3\]\[4\]\[5\]\[6\]\[7\]\[8\]\[9\]\[10\]

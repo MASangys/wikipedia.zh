@@ -68,7 +68,7 @@ NT用户](../Page/Windows_NT.md "wikilink")）；带有目标按纽，只需单�
       - [MJPEG
         video](https://zh.wikipedia.org/wiki/MJPEG_video "wikilink")
         playback from .avi files
-      - [Matroska](../Page/Matroska.md "wikilink")（`.mkv`）
+      - [Matroska](../Page/Matroska.md "wikilink")（`.mkv`）〔版本17之後才支援〕
   - [音訊](https://zh.wikipedia.org/wiki/音訊 "wikilink")：
       - [MP3](../Page/MP3.md "wikilink")（`.mp3`, `.mp2`）
       - [CD音訊](../Page/CD.md "wikilink")（`.cda`）
@@ -85,7 +85,7 @@ NT用户](../Page/Windows_NT.md "wikilink")）；带有目标按纽，只需单�
       - [AU](https://zh.wikipedia.org/wiki/Audio_Units "wikilink")（`.au`）
       - [Panasonic](https://zh.wikipedia.org/wiki/Panasonic "wikilink")
         AAC（`.acp`）
-      - [Matroska](../Page/Matroska.md "wikilink")（`.mka`）
+      - [Matroska](../Page/Matroska.md "wikilink")（`.mka`）〔版本17之後才支援〕
   - 串流：
       - RealTime串流格式（rtsp://）
       - Progressive Networks串流格式（pna://, pnm://）

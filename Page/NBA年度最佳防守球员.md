@@ -282,6 +282,13 @@
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/猶他爵士" title="wikilink">猶他爵士</a></p></td>
 </tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/2018-19_NBA赛季" title="wikilink">2018-19</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/魯迪·戈貝爾" title="wikilink">魯迪·戈貝爾</a>^ (2)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/篮球位置" title="wikilink">中锋</a></p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/猶他爵士" title="wikilink">猶他爵士</a></p></td>
+</tr>
 </tbody>
 </table>
 
@@ -298,6 +305,7 @@
 | [哈基姆·奥拉朱旺](../Page/哈基姆·奥拉朱旺.md "wikilink")                  | [休斯敦火箭](https://zh.wikipedia.org/wiki/休斯敦火箭 "wikilink")       | 1993、1994                                                                                                               |    |                     |
 | [阿朗佐·莫宁](../Page/阿朗佐·莫宁.md "wikilink")                      | [迈阿密热火](../Page/迈阿密热火.md "wikilink")                          | 1999、2000                                                                                                               |    |                     |
 | [科怀·伦纳德](https://zh.wikipedia.org/wiki/科怀·伦纳德 "wikilink")   | [圣安东尼奥马刺](../Page/圣安东尼奥马刺.md "wikilink")                      | 2015、2016                                                                                                               |    |                     |
+| [魯迪·戈貝爾](https://zh.wikipedia.org/wiki/魯迪·戈貝爾 "wikilink")   | [犹他爵士](https://zh.wikipedia.org/wiki/犹他爵士 "wikilink")         | 2018、2019                                                                                                               |    |                     |
 
 ## 参见
 

@@ -154,9 +154,9 @@
     [PowerNow\!](https://zh.wikipedia.org/wiki/PowerNow! "wikilink"),
     [AMD-V](https://zh.wikipedia.org/wiki/AMD-V "wikilink")*
 
-| 型號                                                                          | 頻率       | L2快取   | [HT](../Page/HyperTransport.md "wikilink") | 倍頻    | 核心電壓 | [TDP](https://zh.wikipedia.org/wiki/Thermal_Design_Power "wikilink") | CPU腳位       | 發表時間 |
-| --------------------------------------------------------------------------- | -------- | ------ | ------------------------------------------ | ----- | ---- | -------------------------------------------------------------------- | ----------- | ---- |
-| [Athlon QI-46](http://products.amd.com/en-us/NotebookCPUDetail.aspx?id=505) | 2100 MHz | 512 KB | 1800 MHz                                   | 10.5x |      | 25 W                                                                 | Socket S1g2 |      |
+| 型號           | 頻率       | L2快取   | [HT](../Page/HyperTransport.md "wikilink") | 倍頻    | 核心電壓 | [TDP](https://zh.wikipedia.org/wiki/Thermal_Design_Power "wikilink") | CPU腳位       | 發表時間 |
+| ------------ | -------- | ------ | ------------------------------------------ | ----- | ---- | -------------------------------------------------------------------- | ----------- | ---- |
+| Athlon QI-46 | 2100 MHz | 512 KB | 1800 MHz                                   | 10.5x |      | 25 W                                                                 | Socket S1g2 |      |
 
 ## Athlon 64 X2系列(基於Turion 64 X2)
 

@@ -139,7 +139,6 @@ farm\*.static.flickr.com（\*为3、5、6、7），其他[ISP正常](https://zh.
 {{-}}
 
 [Category:2004年建立的网站](https://zh.wikipedia.org/wiki/Category:2004年建立的网站 "wikilink")
-[Category:网络相册](https://zh.wikipedia.org/wiki/Category:网络相册 "wikilink")
 [Category:雅虎](https://zh.wikipedia.org/wiki/Category:雅虎 "wikilink")
 [Category:Web_2.0](https://zh.wikipedia.org/wiki/Category:Web_2.0 "wikilink")
 [Category:被防火长城封锁的网站](https://zh.wikipedia.org/wiki/Category:被防火长城封锁的网站 "wikilink")
@@ -154,6 +153,7 @@ farm\*.static.flickr.com（\*为3、5、6、7），其他[ISP正常](https://zh.
 [Category:加拿大網站](https://zh.wikipedia.org/wiki/Category:加拿大網站 "wikilink")
 [Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink")
 [Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink")
+[Category:图片分享网站](https://zh.wikipedia.org/wiki/Category:图片分享网站 "wikilink")
 
 1.  [一個已被鎖住討論主題](http://www.flickr.com/forums/help/8280/)，是有關於隱私權法案。可在此找到與愛國者行動法案（The
     Patriot Act）和代號2257（Code 2257）有關的資訊。

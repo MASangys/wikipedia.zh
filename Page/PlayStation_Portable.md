@@ -250,7 +250,7 @@ Store上发布数字版漫画。\[173\]\[174\]运行数字漫画阅读器应用�
 
 PlayStation Store的“漫画”区于2009年12月10日在日本首先开放，获得许可的出版商有[ASCII Media
 Works](../Page/ASCII_Media_Works.md "wikilink")，[Enterbrain](../Page/Enterbrain.md "wikilink")，[角川書店](../Page/角川書店.md "wikilink")，[讲谈社](../Page/讲谈社.md "wikilink")，[集英社](../Page/集英社.md "wikilink")，[小學館](../Page/小學館.md "wikilink")，[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")，（HQ
-Comics），[白泉社](../Page/白泉社.md "wikilink")，[萬代影視](../Page/萬代影視.md "wikilink")，Fujimishobo，[雙葉社和Bunkasha](https://zh.wikipedia.org/wiki/雙葉社 "wikilink")。\[176\]漫画区于2009年12月16日在美国和讲英语的PAL国家开放，但在11月20日时，《Aleister
+Comics），[白泉社](../Page/白泉社.md "wikilink")，[萬代影視](../Page/萬代影視.md "wikilink")，[富士見書房](../Page/富士見書房.md "wikilink")，[雙葉社和](https://zh.wikipedia.org/wiki/雙葉社 "wikilink")。\[176\]漫画区于2009年12月16日在美国和讲英语的PAL国家开放，但在11月20日时，《Aleister
 Arcane》、《[Astro Boy: Movie
 Adaptation](../Page/铁臂阿童木.md "wikilink")》、《[Star Trek:
 Enterprise Experiment](../Page/星艦奇航記.md "wikilink")》和《[Transformers: All

@@ -6,7 +6,7 @@
 Integrated Services Digital
 Network）上传输质量可接受的影片信号。编码程序设计的码率是能够在40kbps到2Mbps之间工作，能够对[CIF和](https://zh.wikipedia.org/wiki/CIF "wikilink")[QCIF分辨率的影片进行编码](https://zh.wikipedia.org/wiki/QCIF "wikilink")，即亮度分辨率分别是352x288和176x144，色度采用[4:2:0采样](https://zh.wikipedia.org/wiki/4:2:0 "wikilink")，分辨率分别是176x144和88x72。在1994年的时候，H.261使用向后兼容的技巧加入了一个能够发送分辨率为704x576的静止图像的技术。
 
-H.261是第一个实用的[数字影片编码标准](https://zh.wikipedia.org/wiki/数字影片 "wikilink")。H.261的设计相当成功，之后的影片编码[国际标准基本上都是基于H](https://zh.wikipedia.org/wiki/国际标准 "wikilink").261相同的设计框架，包括[MPEG-1](../Page/MPEG-1.md "wikilink")，[MPEG-2](../Page/MPEG-2.md "wikilink")／[H.262](https://zh.wikipedia.org/wiki/H.262 "wikilink")，[H.263](../Page/H.263.md "wikilink")，甚至
+H.261是第一个实用的[数字影片编码标准](https://zh.wikipedia.org/wiki/数字影片 "wikilink")。H.261的设计相当成功，之后的影片编码[国际标准基本上都是基于H](https://zh.wikipedia.org/wiki/国际标准 "wikilink").261相同的设计框架，包括[MPEG-1](../Page/MPEG-1.md "wikilink")，[MPEG-2](../Page/MPEG-2.md "wikilink")／[H.262](../Page/H.262.md "wikilink")，[H.263](../Page/H.263.md "wikilink")，甚至
 [H.264](https://zh.wikipedia.org/wiki/H.264 "wikilink")。同样，H.261开发委员会（由Sakae
 Okubo领导，他的日文姓名是大久保榮）的基本的运作方式也被之后的影片编码标准开发组织所继承。H.261使用了混合编码框架，包括了基于[运动补偿的帧间预测](../Page/运动补偿.md "wikilink")，基于[离散余弦变换的空域](../Page/离散余弦变换.md "wikilink")[变换编码](https://zh.wikipedia.org/wiki/变换编码 "wikilink")，[量化](../Page/量化_\(信号处理\).md "wikilink")，[zig-zag扫描和](https://zh.wikipedia.org/wiki/zig-zag扫描 "wikilink")[熵编码](https://zh.wikipedia.org/wiki/熵编码 "wikilink")。
 

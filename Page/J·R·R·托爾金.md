@@ -376,7 +376,6 @@ History of Middle-earth〕
 [Category:牛津大学埃克塞特学院校友](https://zh.wikipedia.org/wiki/Category:牛津大学埃克塞特学院校友 "wikilink")
 [Category:英国作家](https://zh.wikipedia.org/wiki/Category:英国作家 "wikilink")
 [Category:20世纪作家](https://zh.wikipedia.org/wiki/Category:20世纪作家 "wikilink")
-[Category:奇幻小說家](https://zh.wikipedia.org/wiki/Category:奇幻小說家 "wikilink")
 [Category:英格兰儿童文学作家](https://zh.wikipedia.org/wiki/Category:英格兰儿童文学作家 "wikilink")
 [Category:罗马天主教作家](https://zh.wikipedia.org/wiki/Category:罗马天主教作家 "wikilink")
 [Category:CBE勳銜](https://zh.wikipedia.org/wiki/Category:CBE勳銜 "wikilink")
@@ -390,6 +389,7 @@ History of Middle-earth〕
 [Category:英国语言学家](https://zh.wikipedia.org/wiki/Category:英国语言学家 "wikilink")
 [Category:皇家文学学会院士](https://zh.wikipedia.org/wiki/Category:皇家文学学会院士 "wikilink")
 [Category:利兹大学教师](https://zh.wikipedia.org/wiki/Category:利兹大学教师 "wikilink")
+[Category:英国奇幻小说家](https://zh.wikipedia.org/wiki/Category:英国奇幻小说家 "wikilink")
 
 1.  *Biography*, pp. 111, 200, 266.
 

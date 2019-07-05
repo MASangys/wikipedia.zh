@@ -118,6 +118,7 @@ Christianity）則是他的著作中影响最大的一部。
 [Category:愛爾蘭聖公宗教徒](https://zh.wikipedia.org/wiki/Category:愛爾蘭聖公宗教徒 "wikilink")
 [Category:威爾斯裔愛爾蘭人](https://zh.wikipedia.org/wiki/Category:威爾斯裔愛爾蘭人 "wikilink")
 [Category:贝尔法斯特人](https://zh.wikipedia.org/wiki/Category:贝尔法斯特人 "wikilink")
+[Category:英国奇幻小说家](https://zh.wikipedia.org/wiki/Category:英国奇幻小说家 "wikilink")
 
 1.
 

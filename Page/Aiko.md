@@ -1,4 +1,4 @@
-**aiko**（），本名**柳井愛子**（），為[日本女性](../Page/日本.md "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")，出身於[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")[吹田市](../Page/吹田市.md "wikilink")。作曲及作詞皆精通，其中以作詞更為優秀。擅長細膩的情歌以及女性心理的描寫。代表作有《[煙火](../Page/煙火_\(aiko單曲\).md "wikilink")》、《[獨角仙](../Page/獨角仙_\(單曲\).md "wikilink")》、《[亮晶晶](../Page/亮晶晶_\(單曲\).md "wikilink")》等。
+**aiko**（）是[日本女性](../Page/日本.md "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")，出身於[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")[吹田市](../Page/吹田市.md "wikilink")。作曲及作詞皆精通，其中以作詞更為優秀。擅長細膩的情歌以及女性心理的描寫。代表作有《[煙火](../Page/煙火_\(aiko單曲\).md "wikilink")》、《[獨角仙](../Page/獨角仙_\(單曲\).md "wikilink")》、《[亮晶晶](../Page/亮晶晶_\(單曲\).md "wikilink")》等。
 
 aiko的國民度和好感度甚高。日本知名音樂排行榜服務公司[Oricon針對](../Page/Oricon.md "wikilink")20,000個訂戶所作的最受歡迎歌手調查結果顯示，aiko在2005年及2006年皆高居榜首。
 
@@ -846,7 +846,7 @@ aiko的國民度和好感度甚高。日本知名音樂排行榜服務公司[Ori
 <tr class="odd">
 <td><p>2018年/第69回</p></td>
 <td><p>13</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/カブトムシ" title="wikilink">カブトムシ</a></strong></p></td>
+<td><p><strong><a href="../Page/獨角仙_(單曲).md" title="wikilink">獨角仙</a></strong></p></td>
 <td><p>18/29</p></td>
 <td><p><a href="../Page/三浦大知.md" title="wikilink">三浦大知</a></p></td>
 <td></td>

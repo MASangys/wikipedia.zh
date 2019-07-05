@@ -8,7 +8,7 @@
 
 在[北约音标字母中](../Page/北约音标字母.md "wikilink")，使用*Zulu*表示字母Z。
 
-在書寫Z時為了避免與數字[2混淆](../Page/2.md "wikilink")，會在中間加上一小撇。（[Ƶ](https://zh.wikipedia.org/wiki/Ƶ "wikilink")[ƶ](https://zh.wikipedia.org/wiki/ƶ "wikilink")）
+在書寫Z時為了避免與數字[2混淆](../Page/2.md "wikilink")，會在中間加上一小撇。（Ƶƶ）
 
 ## 字符编码
 

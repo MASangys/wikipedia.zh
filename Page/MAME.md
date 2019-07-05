@@ -8,7 +8,7 @@ MAME
 主要是由[C語言寫成的](https://zh.wikipedia.org/wiki/C語言 "wikilink")[跨平台應用程式](https://zh.wikipedia.org/wiki/跨平台 "wikilink")（從
 0.137
 版開始支援[C++語言](https://zh.wikipedia.org/wiki/C++語言 "wikilink")），有許多不同平台的衍生版本，官方只发布对应
-Windows 平台的[執行檔](https://zh.wikipedia.org/wiki/執行檔 "wikilink")。開發目前是以
+Windows 平台的[執行檔](../Page/執行檔.md "wikilink")。開發目前是以
 [Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")
 平台的[命令列版本為主](https://zh.wikipedia.org/wiki/命令列 "wikilink")（在
 0.37b14 版之前的開發是以 [MS-DOS](../Page/MS-DOS.md "wikilink") 平台為主，現已停止發佈），從

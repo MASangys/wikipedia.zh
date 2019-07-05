@@ -658,42 +658,42 @@ descriptors table）的一个包含24位基地址的条目，基地址加上16�
 0000:101C 29 C0
 0000:101E C3
 0000:101F            </code></pre></td>
-<td><div class="sourceCode" id="cb2"><pre class="sourceCode nasm"><code class="sourceCode nasm"><a class="sourceLine" id="cb2-1" title="1"><span class="co">; _memcpy(dst, src, len)</span></a>
-<a class="sourceLine" id="cb2-2" title="2"><span class="co">; Copy a block of memory from one location to another.</span></a>
-<a class="sourceLine" id="cb2-3" title="3"><span class="co">;</span></a>
-<a class="sourceLine" id="cb2-4" title="4"><span class="co">; Entry stack parameters</span></a>
-<a class="sourceLine" id="cb2-5" title="5"><span class="co">;      [BP+6] = len, Number of bytes to copy</span></a>
-<a class="sourceLine" id="cb2-6" title="6"><span class="co">;      [BP+4] = src, Address of source data block</span></a>
-<a class="sourceLine" id="cb2-7" title="7"><span class="co">;      [BP+2] = dst, Address of target data block</span></a>
-<a class="sourceLine" id="cb2-8" title="8"><span class="co">;</span></a>
-<a class="sourceLine" id="cb2-9" title="9"><span class="co">; Return registers</span></a>
-<a class="sourceLine" id="cb2-10" title="10"><span class="co">;      AX = Zero</span></a>
-<a class="sourceLine" id="cb2-11" title="11"></a>
-<a class="sourceLine" id="cb2-12" title="12">            <span class="kw">org</span><span class="bn">     1000h       </span><span class="co">; Start at 0000:1000h</span></a>
-<a class="sourceLine" id="cb2-13" title="13"></a>
-<a class="sourceLine" id="cb2-14" title="14">_memcpy     proc</a>
-<a class="sourceLine" id="cb2-15" title="15">            <span class="kw">push</span>    <span class="kw">bp</span>          <span class="co">; Set up the call frame</span></a>
-<a class="sourceLine" id="cb2-16" title="16">            <span class="kw">mov</span>     <span class="kw">bp</span>,<span class="kw">sp</span></a>
-<a class="sourceLine" id="cb2-17" title="17">            <span class="kw">push</span>    <span class="kw">es</span>          <span class="co">; Save ES</span></a>
-<a class="sourceLine" id="cb2-18" title="18">            <span class="kw">mov</span>     <span class="kw">cx</span>,[<span class="kw">bp</span>+<span class="dv">6</span>]   <span class="co">; Set CX = len</span></a>
-<a class="sourceLine" id="cb2-19" title="19">            <span class="kw">jcxz</span>    done        <span class="co">; If len=0, return</span></a>
-<a class="sourceLine" id="cb2-20" title="20">            <span class="kw">mov</span>     <span class="kw">si</span>,[<span class="kw">bp</span>+<span class="dv">4</span>]   <span class="co">; Set SI = src</span></a>
-<a class="sourceLine" id="cb2-21" title="21">            <span class="kw">mov</span>     <span class="kw">di</span>,[<span class="kw">bp</span>+<span class="dv">2</span>]   <span class="co">; Set DI = dst</span></a>
-<a class="sourceLine" id="cb2-22" title="22">            <span class="kw">push</span>    <span class="kw">ds</span>          <span class="co">; Set ES = DS</span></a>
-<a class="sourceLine" id="cb2-23" title="23">            <span class="kw">pop</span>     <span class="kw">es</span></a>
-<a class="sourceLine" id="cb2-24" title="24"></a>
-<a class="sourceLine" id="cb2-25" title="25"><span class="kw">loop</span>        <span class="kw">mov</span>     <span class="kw">al</span>,[<span class="kw">si</span>]     <span class="co">; Load AL from [src]</span></a>
-<a class="sourceLine" id="cb2-26" title="26">            <span class="kw">mov</span>     [<span class="kw">di</span>],<span class="kw">al</span>     <span class="co">; Store AL to [dst]</span></a>
-<a class="sourceLine" id="cb2-27" title="27">            <span class="kw">inc</span>     <span class="kw">si</span>          <span class="co">; Increment src</span></a>
-<a class="sourceLine" id="cb2-28" title="28">            <span class="kw">inc</span>     <span class="kw">di</span>          <span class="co">; Increment dst</span></a>
-<a class="sourceLine" id="cb2-29" title="29">            <span class="kw">dec</span>     <span class="kw">cx</span>          <span class="co">; Decrement len</span></a>
-<a class="sourceLine" id="cb2-30" title="30">            <span class="kw">jnz</span>     <span class="kw">loop</span>        <span class="co">; Repeat the loop</span></a>
-<a class="sourceLine" id="cb2-31" title="31"></a>
-<a class="sourceLine" id="cb2-32" title="32">done        <span class="kw">pop</span>     <span class="kw">es</span>          <span class="co">; Restore ES</span></a>
-<a class="sourceLine" id="cb2-33" title="33">            <span class="kw">pop</span>     <span class="kw">bp</span>          <span class="co">; Restore previous call frame</span></a>
-<a class="sourceLine" id="cb2-34" title="34">            <span class="kw">sub</span>     <span class="kw">ax</span>,<span class="kw">ax</span>       <span class="co">; Set AX = 0</span></a>
-<a class="sourceLine" id="cb2-35" title="35">            <span class="kw">ret</span>                 <span class="co">; Return</span></a>
-<a class="sourceLine" id="cb2-36" title="36">            end proc</a></code></pre></div></td>
+<td><div class="sourceCode" id="cb2"><pre class="sourceCode nasm"><code class="sourceCode nasm"><span id="cb2-1"><a href="#cb2-1"></a><span class="co">; _memcpy(dst, src, len)</span></span>
+<span id="cb2-2"><a href="#cb2-2"></a><span class="co">; Copy a block of memory from one location to another.</span></span>
+<span id="cb2-3"><a href="#cb2-3"></a><span class="co">;</span></span>
+<span id="cb2-4"><a href="#cb2-4"></a><span class="co">; Entry stack parameters</span></span>
+<span id="cb2-5"><a href="#cb2-5"></a><span class="co">;      [BP+6] = len, Number of bytes to copy</span></span>
+<span id="cb2-6"><a href="#cb2-6"></a><span class="co">;      [BP+4] = src, Address of source data block</span></span>
+<span id="cb2-7"><a href="#cb2-7"></a><span class="co">;      [BP+2] = dst, Address of target data block</span></span>
+<span id="cb2-8"><a href="#cb2-8"></a><span class="co">;</span></span>
+<span id="cb2-9"><a href="#cb2-9"></a><span class="co">; Return registers</span></span>
+<span id="cb2-10"><a href="#cb2-10"></a><span class="co">;      AX = Zero</span></span>
+<span id="cb2-11"><a href="#cb2-11"></a></span>
+<span id="cb2-12"><a href="#cb2-12"></a>            <span class="kw">org</span><span class="bn">     1000h       </span><span class="co">; Start at 0000:1000h</span></span>
+<span id="cb2-13"><a href="#cb2-13"></a></span>
+<span id="cb2-14"><a href="#cb2-14"></a>_memcpy     proc</span>
+<span id="cb2-15"><a href="#cb2-15"></a>            <span class="kw">push</span>    <span class="kw">bp</span>          <span class="co">; Set up the call frame</span></span>
+<span id="cb2-16"><a href="#cb2-16"></a>            <span class="kw">mov</span>     <span class="kw">bp</span>,<span class="kw">sp</span></span>
+<span id="cb2-17"><a href="#cb2-17"></a>            <span class="kw">push</span>    <span class="kw">es</span>          <span class="co">; Save ES</span></span>
+<span id="cb2-18"><a href="#cb2-18"></a>            <span class="kw">mov</span>     <span class="kw">cx</span>,[<span class="kw">bp</span>+<span class="dv">6</span>]   <span class="co">; Set CX = len</span></span>
+<span id="cb2-19"><a href="#cb2-19"></a>            <span class="kw">jcxz</span>    done        <span class="co">; If len=0, return</span></span>
+<span id="cb2-20"><a href="#cb2-20"></a>            <span class="kw">mov</span>     <span class="kw">si</span>,[<span class="kw">bp</span>+<span class="dv">4</span>]   <span class="co">; Set SI = src</span></span>
+<span id="cb2-21"><a href="#cb2-21"></a>            <span class="kw">mov</span>     <span class="kw">di</span>,[<span class="kw">bp</span>+<span class="dv">2</span>]   <span class="co">; Set DI = dst</span></span>
+<span id="cb2-22"><a href="#cb2-22"></a>            <span class="kw">push</span>    <span class="kw">ds</span>          <span class="co">; Set ES = DS</span></span>
+<span id="cb2-23"><a href="#cb2-23"></a>            <span class="kw">pop</span>     <span class="kw">es</span></span>
+<span id="cb2-24"><a href="#cb2-24"></a></span>
+<span id="cb2-25"><a href="#cb2-25"></a><span class="kw">loop</span>        <span class="kw">mov</span>     <span class="kw">al</span>,[<span class="kw">si</span>]     <span class="co">; Load AL from [src]</span></span>
+<span id="cb2-26"><a href="#cb2-26"></a>            <span class="kw">mov</span>     [<span class="kw">di</span>],<span class="kw">al</span>     <span class="co">; Store AL to [dst]</span></span>
+<span id="cb2-27"><a href="#cb2-27"></a>            <span class="kw">inc</span>     <span class="kw">si</span>          <span class="co">; Increment src</span></span>
+<span id="cb2-28"><a href="#cb2-28"></a>            <span class="kw">inc</span>     <span class="kw">di</span>          <span class="co">; Increment dst</span></span>
+<span id="cb2-29"><a href="#cb2-29"></a>            <span class="kw">dec</span>     <span class="kw">cx</span>          <span class="co">; Decrement len</span></span>
+<span id="cb2-30"><a href="#cb2-30"></a>            <span class="kw">jnz</span>     <span class="kw">loop</span>        <span class="co">; Repeat the loop</span></span>
+<span id="cb2-31"><a href="#cb2-31"></a></span>
+<span id="cb2-32"><a href="#cb2-32"></a>done        <span class="kw">pop</span>     <span class="kw">es</span>          <span class="co">; Restore ES</span></span>
+<span id="cb2-33"><a href="#cb2-33"></a>            <span class="kw">pop</span>     <span class="kw">bp</span>          <span class="co">; Restore previous call frame</span></span>
+<span id="cb2-34"><a href="#cb2-34"></a>            <span class="kw">sub</span>     <span class="kw">ax</span>,<span class="kw">ax</span>       <span class="co">; Set AX = 0</span></span>
+<span id="cb2-35"><a href="#cb2-35"></a>            <span class="kw">ret</span>                 <span class="co">; Return</span></span>
+<span id="cb2-36"><a href="#cb2-36"></a>            end proc</span></code></pre></div></td>
 </tr>
 </tbody>
 </table>
@@ -707,8 +707,8 @@ descriptors table）的一个包含24位基地址的条目，基地址加上16�
 <tr class="odd">
 <td><pre><code>0000:1011 F2
 0000:1012 A5         </code></pre></td>
-<td><div class="sourceCode" id="cb2"><pre class="sourceCode nasm"><code class="sourceCode nasm"><a class="sourceLine" id="cb2-1" title="1"><span class="kw">loop</span>        rep                  <span class="co">; Repeat until CX=0</span></a>
-<a class="sourceLine" id="cb2-2" title="2">            <span class="kw">movsw</span>                <span class="co">; Move the data block</span></a></code></pre></div></td>
+<td><div class="sourceCode" id="cb2"><pre class="sourceCode nasm"><code class="sourceCode nasm"><span id="cb2-1"><a href="#cb2-1"></a><span class="kw">loop</span>        rep                  <span class="co">; Repeat until CX=0</span></span>
+<span id="cb2-2"><a href="#cb2-2"></a>            <span class="kw">movsw</span>                <span class="co">; Move the data block</span></span></code></pre></div></td>
 </tr>
 </tbody>
 </table>

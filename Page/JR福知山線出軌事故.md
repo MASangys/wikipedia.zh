@@ -70,9 +70,13 @@ JR西日本依罹難者家屬及受傷者的意見，於事故現場闢建名為
 
 ## 類似事故
 
+### 彎道超速肇禍
+
   - [2013年聖地亞哥-德孔波斯特拉火車事故](../Page/2013年聖地亞哥-德孔波斯特拉火車事故.md "wikilink")：2013年7月24日，一列從西班牙馬德里往聖地亞哥-德孔波斯特拉的Alvia客運列車，在進入聖地亞哥-德孔波斯特拉的車站之前發生出軌事故，造成78人死亡，178人受傷。
   - [2008年膠濟鐵路列車相撞事故](https://zh.wikipedia.org/wiki/2008年膠濟鐵路列車相撞事故 "wikilink")：2008年4月28日發生在[中國](../Page/中國.md "wikilink")[山東省](https://zh.wikipedia.org/wiki/山東省 "wikilink")[淄博市](../Page/淄博市.md "wikilink")[膠濟鐵路王村站附近](../Page/膠濟鐵路.md "wikilink")，因鐵路局間調度命令傳遞混亂造成[T195次司機員使用的IC卡資料未更新](https://zh.wikipedia.org/wiki/T195/196次列車 "wikilink")，王村站亦未通知該列車相關限速，加上司機員未確實瞭望，最後在彎道時超速出軌，車廂並侵入對向路線和5034次列車發生衝突，造成72人死亡，416人受傷。
   - [2018年宜蘭普悠瑪列車出軌事故](https://zh.wikipedia.org/wiki/2018年宜蘭普悠瑪列車出軌事故 "wikilink")：2018年10月21日下午4點50分，一列從[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[樹林車站開往](https://zh.wikipedia.org/wiki/樹林車站 "wikilink")[臺東車站的](../Page/臺東車站.md "wikilink")[普悠瑪](https://zh.wikipedia.org/wiki/普悠瑪 "wikilink")[自強號列車](https://zh.wikipedia.org/wiki/自強號 "wikilink")，於[宜蘭縣](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")[蘇澳鎮](../Page/蘇澳鎮_\(台灣\).md "wikilink")[新馬車站發生列車出軌意外](../Page/新馬車站.md "wikilink")，造成18人死亡，215人（包含司機員）受傷。是普悠瑪號列車開行以來最重大之事故。
+
+### 信號故障
 
 ## 相關條目
 

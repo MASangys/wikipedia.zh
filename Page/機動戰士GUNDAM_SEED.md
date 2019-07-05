@@ -75,7 +75,7 @@ DESTINY》中所有来自T.M.Revolution的歌曲都收录在一张名为《X42S-
 ### 漫画
 
 漫画家岩濑昌嗣以电视动画中发生的事件为基础改编成一系列的[漫画作品](../Page/日本漫画.md "wikilink")。从2003年3月20日到2005年1月21日，[讲谈社出版了](../Page/讲谈社.md "wikilink")5本[单行本](https://zh.wikipedia.org/wiki/单行本 "wikilink")\[67\]\[68\]。北美地区发行的英文版由于2004年1月获得版权授权作为创立后的第一部出版作品出版\[69\]，于2004年4月27日至2005年8月30日之间发行\[70\]\[71\]。另一个衍生系列是《[机动战士高达SEED
-Astray](../Page/機動戰士GUNDAM_SEED_ASTRAY.md "wikilink")》，由千叶智弘撰写[時田洸一负责绘图](../Page/時田洸一.md "wikilink")，主要聚焦3架MBF-P0x系列原型机动战士及其各自的驾驶员和背后的组织。由角川书店于2003年4月28日至2004年2月26日出版3本单行本\[72\]\[73\]。2003年12月，[Tokyopop宣布发行英文版](../Page/TOKYOPOP.md "wikilink")\[74\]，并最终于2004年5月11日至2004年11月9日期间发行\[75\]\[76\]。由山口泰史撰写的一卷本漫画于2005年1月22日由角川书店发行\[77\]。2012年，角川书店推出了一个由石口十绘制的新的漫画系列，名为。这套漫画重述了电视连续剧中的事件，
+Astray](../Page/機動戰士GUNDAM_SEED_ASTRAY.md "wikilink")》，由千叶智弘撰写，[時田洸一负责绘图](../Page/時田洸一.md "wikilink")，主要聚焦3架MBF-P0X系列原型机动战士及其各自的驾驶员和背后的组织。由角川书店于2003年4月28日至2004年2月26日出版3本单行本\[72\]\[73\]。2003年12月，[Tokyopop宣布发行英文版](../Page/TOKYOPOP.md "wikilink")\[74\]，并最终于2004年5月11日至2004年11月9日期间发行\[75\]\[76\]。由山口泰史撰写的一卷本漫画于2005年1月22日由角川书店发行\[77\]。2012年，角川书店推出了一个由石口十绘制的新的漫画系列，名为。这套漫画重述了电视连续剧中的事件，
 目前由角川书店收录成3本单行本发行\[78\]。
 
 此外，还有两部漫画《机动战士高达SEED Astray R》和《[机动战士高达SEED X
@@ -98,26 +98,24 @@ Astray》的外传小说由千叶智弘撰写并于2003年9月1日到2004年7月
 
 ### 电子游戏
 
-已经有多部根据该动画系列改编的[游戏被制作和发售](https://zh.wikipedia.org/wiki/视频游戏 "wikilink")，其中包括：[街机平台上的](../Page/街机.md "wikilink")《》，[GBA](../Page/Game_Boy_Advance.md "wikilink")[平台的](https://zh.wikipedia.org/wiki/Game_Boy_Advance游戏列表 "wikilink")《》以及《》\[95\]\[96\]，[PS2](../Page/PlayStation_2.md "wikilink")[平台的](https://zh.wikipedia.org/wiki/PlayStation_2游戏列表 "wikilink")《》、《》、《》、《》以及《》\[97\]\[98\]\[99\]，[PSP](../Page/PlayStation_Portable.md "wikilink")[平台上发行的](../Page/PlayStation_Portable游戏列表.md "wikilink")《》\[100\]，手机平台上发行的《》\[101\]。开发了[PSV](../Page/PlayStation_Vita.md "wikilink")[平台上首款GUNDAM系列游戏](https://zh.wikipedia.org/wiki/PlayStation_Vita游戏列表 "wikilink")《》，并于2012年6月7日发售，该游戏涵盖了来自《SEED》和《SEED
+已经有多部根据该动画系列改编的[游戏被制作和发售](https://zh.wikipedia.org/wiki/视频游戏 "wikilink")，其中包括：[街机平台上的](../Page/街机.md "wikilink")《》，[GBA](../Page/Game_Boy_Advance.md "wikilink")[平台的](https://zh.wikipedia.org/wiki/Game_Boy_Advance游戏列表 "wikilink")《》以及《》\[95\]\[96\]，[PS2](../Page/PlayStation_2.md "wikilink")[平台的](https://zh.wikipedia.org/wiki/PlayStation_2游戏列表 "wikilink")《》、《》、《》、《》以及《》\[97\]\[98\]\[99\]，[PSP](../Page/PlayStation_Portable.md "wikilink")[平台上发行的](../Page/PlayStation_Portable游戏列表.md "wikilink")《》\[100\]，手机平台上发行的《》\[101\]。开发了[PSV](../Page/PlayStation_Vita.md "wikilink")[平台上首款GUNDAM系列游戏](https://zh.wikipedia.org/wiki/PlayStation_Vita游戏列表 "wikilink")《》，并于2012年6月7日发售。该游戏涵盖了来自《SEED》和《SEED
 Destiny》中的事件\[102\]。
 
 来自《SEED》的人物也出现在GUNDAM系列[跨界游戏中](../Page/跨界作品.md "wikilink")。这其中包括《》《[SD
 Gundam G Generation
 SEED](../Page/SD_GUNDAM_G世代.md "wikilink")》系列、《》系列中的一些游戏、《[高达无双2](../Page/GUNDAM無雙2.md "wikilink")》以及《》\[103\]\[104\]。另外剧中机体还在一些游戏中[客串登场](https://zh.wikipedia.org/wiki/客串 "wikilink")，比如《[超級機器人大戰](../Page/超級機器人大戰系列.md "wikilink")》以及《》和《[异世纪机器人大战：R](../Page/異世紀機器人大戰：R.md "wikilink")》\[105\]\[106\]。
 
-### 其他商品
+### 其它商品
 
 出版商也发行了一系列关于《SEED》的指南书，例如2003年7月10日发行的\[107\]。2003年7月18日，角川书店在日本发行了两本官方指南：以及分别侧重于基拉·大和阿斯兰·萨拉\[108\]\[109\]。同年，一系列有“官方文件（OFFICIAL
 FILE）”字样的指南在日本发售\[110\]\[111\]\[112\]。2004年4月19日出版了一本名为的指南，对故事情节和角色进行了广泛的分析\[113\]。2006年3月出版了一本更详细的指南，名为介绍了《SEED》中的人物、技术和宇宙等\[114\]。2004年7月26日发行了一本名为的画集\[115\]。
 
-## 影响
+## 影响和评价
 
-《SEED》已经成为日本[高达系列中最受欢迎的作品之一](https://zh.wikipedia.org/wiki/GUNDAM系列 "wikilink")，有着很高的电视收视率和DVD销量\[116\]。2004年4月，Bandai
-Visual宣布，《SEED》的DVD在日本已售出100万张，而DVD第一卷已售出10万多张\[117\]。本剧总共创造了8卷DVD曾分别出现在前8部最畅销影片中的记录。同样的记录在2016年才被《[小松先生](https://zh.wikipedia.org/wiki/小松先生 "wikilink")》所复制\[118\]。本剧的音乐CD销量也一直很高\[119\]\[120\]，第一支片尾主题曲的单曲CD甚至成为日本2002年度最畅销的CD之一\[121\]。截至2004年7月，全球已累计售出1000万套《SEED》系列的[塑料模型](../Page/GUNPLA.md "wikilink")\[122\]。在同一个月，万代娱乐公司的市场经理杰瑞·朱（Jerry
+《SEED》已经成为日本[高达系列中最受欢迎的作品之一](https://zh.wikipedia.org/wiki/GUNDAM系列 "wikilink")，有着很高的电视收视率和DVD销量\[116\]。2004年4月，万代影视宣布，《SEED》的DVD在日本已售出100万张，而DVD第一卷已售出10万多张\[117\]。本剧总共创造了8卷DVD曾分别出现在前8部最畅销影片中的记录。同样的记录在2016年才被《[小松先生](https://zh.wikipedia.org/wiki/小松先生 "wikilink")》所复制\[118\]。本剧的音乐CD销量也一直很高\[119\]\[120\]，第一支片尾主题曲的单曲CD甚至成为日本2002年度最畅销的CD之一\[121\]。截至2004年7月，全球已累计售出1000万套《SEED》系列的[塑料模型](../Page/GUNPLA.md "wikilink")\[122\]。在同一个月，万代娱乐公司的市场经理杰里·朱（Jerry
 Chu）表示，大众对《SEED》的反应非常积极，打破了它在日本首播时的评级记录，他同时补充说，在美国市场对《SEED》的反响是万代过去六年来所收到的最热烈的\[123\]。根据的分析师的说法，《SEED》成为高达系列电视剧中首部不仅在“传统高达迷和铁杆[御宅族](../Page/御宅族.md "wikilink")”中，同样也在“日本主流娱乐大众”中获得了广泛好评的作品\[124\]。2002年《SEED》获得《Animage》第二十五届“Anime
 Grand
-Prix”奖，其中基拉·大和和拉克丝·克莱因分别位居男性和女性动漫奖项榜首\[125\]\[126\]。本剧也曾在2003年神户动画奖上拿到了电视剧作品奖\[127\]。在2004年的《[Newtype](../Page/Newtype_\(雜誌\).md "wikilink")》杂志读者调查中，本剧位居排行榜榜首\[128\]。然而，《SEED》并没有受到日本GUNDAM老粉丝的欢迎。2004年2月，SUNRISE的总裁吉井孝幸表示，这是因为《SEED》融入了了时下流行的实景电视剧中部分元素\[129\]。在另一方面，Bandai
-Visual也曾在2004年4月发布信息称《SEED》拥有十分广泛的观众群，包括年轻一代的和年长的观众\[130\]。
+Prix”奖，其中基拉·大和和拉克丝·克莱因分别位居男性和女性动漫奖项榜首\[125\]\[126\]。本剧也曾在2003年神户动画奖上拿到了电视剧作品奖\[127\]。在2004年的《[Newtype](../Page/Newtype_\(雜誌\).md "wikilink")》杂志读者调查中，本剧位居排行榜榜首\[128\]。然而，《SEED》并没有受到日本GUNDAM老粉丝的欢迎。2004年2月，日升动画的时任总裁吉井孝幸表示，这是因为《SEED》融入了了时下流行的实景电视剧中部分元素\[129\]。在另一方面，万代影视也曾在2004年4月发布信息称《SEED》拥有十分广泛的观众群，包括年轻一代的和年长的观众\[130\]。
 
 《SEED》因为在GUNDAM系列中脱颖而出而受到称赞\[131\]\[132\]，[动画新闻网的保罗](https://zh.wikipedia.org/wiki/动画新闻网 "wikilink")·法戈（Paul
 Fargo）称《SEED》“不仅是GUNDAM系列中最佳的替代时间线故事，也是整个[系列中最好的故事之一](https://zh.wikipedia.org/wiki/GUNDAM系列 "wikilink")”\[133\]\[134\]
@@ -127,7 +125,7 @@ Fargo）称《SEED》“不仅是GUNDAM系列中最佳的替代时间线故事�
 Kimlinger）说，《SEED》改编了1979年原版的《[機動戰士GUNDAM](../Page/機動戰士GUNDAM.md "wikilink")》系列以适应现代观众，就像《[機動戰士GUNDAM
 00](../Page/機動戰士GUNDAM_00.md "wikilink")》改编了《[新機動戰記GUNDAM
 W](../Page/新機動戰記GUNDAM_W.md "wikilink")》一样\[143\]。来自同一网站的班勃·东（Bamboo
-Dong）表示，虽然这导致了批评《SEED》这些特点的“铁杆反〈SEED〉狂热者”的出现，但是观看这部动漫并让动漫爱好者进入“高达粉丝圈”还是很有意思的\[144\]。的专栏作家米切尔·哈特维（Mitchell
+Dong）表示，虽然这导致了批评《SEED》这些特点的“铁杆反〈SEED〉狂热者”的出现，但是观看这部动漫并让动漫爱好者进入“高达粉丝圈”还是很有意思的\[144\]。的专栏作家米切尔·海特威（Mitchell
 Hattaway）进一步指出，尽管该片使用了其它动画系列的元素，但它仍“迅速将观众吸引进去”\[145\]。
 
 本剧动画的质量之高，使得THEM Anime Reviews的德里克·L·塔克（Derrick L.
@@ -141,10 +139,14 @@ Tucker）称之为“迄今为止所有高达系列中最好的一部作品”\[
 
 ## 脚注
 
-### 注释和译注
+### 註释和译注
 
 ### 出处
 
+### 参考书籍
+
+  -
+  -
 ### 参考文献
 
   -

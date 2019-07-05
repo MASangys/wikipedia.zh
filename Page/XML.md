@@ -70,7 +70,7 @@ XML处理器（Processor，也称作XML parser）分析标记语言并传递结�
 ### 标记（Markup）与内容（content）
 
 XML文档的字符分为标记（Markup）与内容（content）两类。标记通常以`<`开头，以`>`结尾；或者以字符`&`
-开头，以`;`结尾。不是标记的字符就是内容。但是[CDATA部分](https://zh.wikipedia.org/wiki/CDATA "wikilink")，分解符号与`]]>`是标记，二者之间的文本为内容。
+开头，以`;`结尾。不是标记的字符就是内容。但是[CDATA部分](../Page/CDATA.md "wikilink")，分解符号与`]]>`是标记，二者之间的文本为内容。
 最外界的空白符是标记。
 
 ### 標籤（Tag）

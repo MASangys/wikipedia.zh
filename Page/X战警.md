@@ -30,7 +30,7 @@
 
   - [暴風女](../Page/暴風女.md "wikilink")（Storm）
     原名：奧蘿洛·摩洛（Ororo Munroe）
-    異能：控制天文現象
+    異能：控制天氣變化
     定位：家族傳承異能數千年；於『[烏托邦](https://zh.wikipedia.org/wiki/烏托邦 "wikilink")』任領導層之一，目前已加入了非凡X特攻隊。
 
 <!-- end list -->
@@ -51,6 +51,7 @@
 
   - [野獸](../Page/野獸_\(漫畫\).md "wikilink")（Beast）
     原名：亨利"漢克"·麥考伊（Henry "Hank" McCoy）
+    異能：野獸的外表，超人的體能
     職業：國防部变种管理部長及聯合國大使
     定位：科學顧問，與鐳射眼一言不合離開烏托邦，加入秘密復仇者。而從過去把原始的五位X戰警成員（史考特、琴、野獸他自己、冰人和天使）帶回。
 
@@ -107,14 +108,14 @@
 
   - [萬磁王](../Page/萬磁王.md "wikilink")（Magneto）
     原名：艾瑞克·馬格斯·藍歇爾（Erik Magnus Lehnsherr）
-    異能：控制磁场，高级体能。
+    異能：控制磁场，操縱金屬
     定位：加入『[烏托邦](https://zh.wikipedia.org/wiki/烏托邦 "wikilink")』，成為戰鬥主力之一，任領導層。
 
 #### 反派
 
   - [天啟](https://zh.wikipedia.org/wiki/天啟 "wikilink")（Apocalypse）
     原名：恩·沙巴·努（En Sabah Nur）
-    異能：強大改造力，超级体能，瞬移，飛行及操控能量
+    異能：改造並強化異能，超级体能，瞬移，飛行及操控能量，改變體型
 
 ## 漫畫
 
