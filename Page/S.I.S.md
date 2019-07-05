@@ -134,6 +134,7 @@ Got A Feeling》。
 <li>語言：韓語</li>
 <li>唱片公司：MUSIC&amp;NEW</li>
 <li>格式：CD唱片、數字唱片</li>
+<li>銷量：1,000 +[3]</li>
 </ul></td>
 <td><ol>
 <li><strong>I've Got A Feeling(느낌이 와)</strong></li>
@@ -150,6 +151,7 @@ Got A Feeling》。
 <li>語言：韓語</li>
 <li>唱片公司：<a href="../Page/Kakao_M.md" title="wikilink">LOEN娱乐</a></li>
 <li>格式：CD唱片、數字唱片</li>
+<li>銷量：1,418 +[4]</li>
 </ul></td>
 <td><ol>
 <li><strong>응 (SAY YES)</strong></li>
@@ -218,7 +220,7 @@ Got A Feeling》。
 |      |       |                                                                              |
 | ---- | ----- | ---------------------------------------------------------------------------- |
 | 年份   | 日期    | 歌名                                                                           |
-| 2017 | 8月25日 | **I've Got A Feeling(느낌이 와)**\[3\]<ref>{{Citation|last=S.I.S Official 에스아이에스 |
+| 2017 | 8月25日 | **I've Got A Feeling(느낌이 와)**\[5\]<ref>{{Citation|last=S.I.S Official 에스아이에스 |
 
 ## 影视作品
 
@@ -292,4 +294,6 @@ Got A Feeling》。
 
 1.
 2.
-3.
+3.  [2017年GAON 8月專輯榜100位](http://mobile.gaonchart.co.kr/musicAlbum.gaon?nationGbn=T&serviceGbn=&targetTime=08&hitYear=2017&termGbn=month)
+4.  [2018年GAON 9月專輯榜64位](http://mobile.gaonchart.co.kr/musicAlbum.gaon?nationGbn=T&serviceGbn=&targetTime=09&hitYear=2018&termGbn=month)
+5.

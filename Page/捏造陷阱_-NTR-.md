@@ -1,4 +1,4 @@
-，通稱《**捏造陷阱**》，由日本女性漫畫家[コダマナオコ繪畫的](https://zh.wikipedia.org/wiki/Kodamanaoko "wikilink")[百合漫畫](https://zh.wikipedia.org/wiki/百合_\(文化\) "wikilink")，2014年11月18日開始連載於[一迅社](../Page/一迅社.md "wikilink")《[Comic百合姬](../Page/Comic百合姬.md "wikilink")》\[1\]。
+，通稱《**捏造陷阱**》，由日本女性漫畫家[コダマナオコ繪畫的](../Page/Kodamanaoko.md "wikilink")[百合漫畫](https://zh.wikipedia.org/wiki/百合_\(文化\) "wikilink")，2014年11月18日開始連載於[一迅社](../Page/一迅社.md "wikilink")《[Comic百合姬](../Page/Comic百合姬.md "wikilink")》\[1\]。
 
 ## 概要
 
@@ -92,7 +92,7 @@ ISBN 978-4-7580-7716-3（特裝版）</p></td>
 
 ### 工作人員
 
-  - 原作：[Kodamanaoko](https://zh.wikipedia.org/wiki/Kodamanaoko "wikilink")\[15\]
+  - 原作：[Kodamanaoko](../Page/Kodamanaoko.md "wikilink")\[15\]
   - 總監督：\[16\]
   - 腳本：、内堀優一\[17\]
   - 人物設計：川島勝\[18\]
@@ -144,7 +144,7 @@ ISBN 978-4-7580-7716-3（特裝版）</p></td>
 岩田幸子</p></td>
 <td><p>及川佳那子</p></td>
 <td><p>小野田貴之</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Kodamanaoko" title="wikilink">Kodamanaoko</a></p></td>
+<td><p><a href="../Page/Kodamanaoko.md" title="wikilink">Kodamanaoko</a></p></td>
 </tr>
 <tr class="even">
 <td><p>trap:2</p></td>

@@ -1,10 +1,10 @@
-**高雄捷運環狀輕軌Citadis X-05
+**高雄捷運環狀輕軌Citadis
 305系電聯車**是一款[高雄捷運環狀輕軌上營運的](https://zh.wikipedia.org/wiki/高雄捷運環狀輕軌 "wikilink")[動力分散式電聯車](../Page/動力分散式列車.md "wikilink")，由[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[阿爾斯通Citadis
 X-05系列車輛](../Page/阿爾斯通Citadis.md "wikilink")，首列列車於2018年9月5日運抵高雄前鎮機廠\[1\]，並於同月27日於C15到C17站的路段，開始上線行車測試\[2\]，為中華民國繼[台北捷運](https://zh.wikipedia.org/wiki/台北捷運 "wikilink")[VAL256之後再度購入由](https://zh.wikipedia.org/wiki/VAL256 "wikilink")[法國製造的列車](https://zh.wikipedia.org/wiki/法國 "wikilink")。
 
 ## 概述
 
-**高雄捷運環狀輕軌Citadis X-05
+**高雄捷運環狀輕軌Citadis
 305系電聯車**為[高雄輕軌第二階段的](https://zh.wikipedia.org/wiki/高雄輕軌 "wikilink")15列列車為法國[阿爾斯通Citadis
 X-05系列車輛](../Page/阿爾斯通Citadis.md "wikilink")，首列列車於2018年9月5日運抵高雄前鎮機廠\[3\]，第二輛列車歷經1個多月的海運，2018年12月13日凌晨4點抵達前鎮機廠，並進行車廂卸載作業\[4\]。第三輛列車也正在抵達高雄\[5\]。
 

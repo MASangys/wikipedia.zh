@@ -138,7 +138,7 @@ Sugar Life](../Page/Happy_Sugar_Life.md "wikilink")》的片尾曲。\[6\]
 </tr>
 <tr class="odd">
 <td><p>forget-me-not</p></td>
-<td><p>電視動畫『<a href="https://zh.wikipedia.org/wiki/刀劍神域" title="wikilink">刀劍神域</a> Alicization篇』第二期片尾曲</p></td>
+<td><p>電視動畫『<a href="https://zh.wikipedia.org/wiki/刀劍神域" title="wikilink">刀劍神域 Alicization篇</a>』第二期片尾曲</p></td>
 <td><p>2019年</p></td>
 </tr>
 <tr class="even">

@@ -169,7 +169,7 @@ To New World》，以主打歌《I'm fine》出道\[2\]。
 <ul>
 <li>發行日期：2018年5月23日</li>
 <li>語言：韓語</li>
-<li>專輯銷量：11,123+[19]</li>
+<li>專輯銷量：18,015+[19]</li>
 <li>參與藝人：Victon</li>
 </ul></td>
 <td><ol>
@@ -563,7 +563,7 @@ To New World》，以主打歌《I'm fine》出道\[2\]。
 16. [2017年4月GAON專輯榜17位](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=04&hitYear=2017&termGbn=month)
 17. [2017年9月GAON專輯榜26位](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&termGbn=year)
 18. [2017年12月GAON專輯榜](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=12&hitYear=2017&termGbn=month)
-19. [2018年5月GAON專輯榜17位](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&termGbn=month)
+19. [2018年6月GAON專輯榜26位](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=06&hitYear=2018&termGbn=month)
 20.
 21.
 22.

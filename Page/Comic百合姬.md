@@ -123,7 +123,7 @@
   - 福爾摩斯推理不來（）
 
   - [捏造陷阱
-    -NTR-](../Page/捏造陷阱_-NTR-.md "wikilink")（[Kodamanaoko](https://zh.wikipedia.org/wiki/Kodamanaoko "wikilink")）
+    -NTR-](../Page/捏造陷阱_-NTR-.md "wikilink")（[Kodamanaoko](../Page/Kodamanaoko.md "wikilink")）
 
   - （）
 

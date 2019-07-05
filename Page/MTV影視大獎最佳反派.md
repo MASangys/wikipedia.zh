@@ -408,7 +408,7 @@ Villain）是[MTV影視大獎重要的獎項之一](../Page/MTV影視大獎.md "
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/恐懼鬥室2" title="wikilink">恐懼鬥室2</a></p></td>
+<td><p><a href="../Page/恐懼鬥室2.md" title="wikilink">恐懼鬥室2</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -434,7 +434,7 @@ Villain）是[MTV影視大獎重要的獎項之一](../Page/MTV影視大獎.md "
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/恐懼鬥室3" title="wikilink">恐懼鬥室3</a></p></td>
+<td><p><a href="../Page/恐懼鬥室3.md" title="wikilink">恐懼鬥室3</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -758,6 +758,32 @@ Villain）是[MTV影視大獎重要的獎項之一](../Page/MTV影視大獎.md "
 <tr class="even">
 <td><p><a href="../Page/比爾·斯卡斯加德.md" title="wikilink">比爾·斯卡斯加德</a></p></td>
 <td><p><a href="../Page/牠_(電影).md" title="wikilink">牠</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>'''2019<br />
+(第28屆)</p></td>
+<td><p>'''<a href="../Page/喬許·布洛林.md" title="wikilink">喬許·布洛林</a></p></td>
+<td><p>'''<a href="https://zh.wikipedia.org/wiki/復仇者聯盟：終局之戰" title="wikilink">復仇者聯盟：終局之戰</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/潘·巴奇利.md" title="wikilink">潘·巴奇利</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/朱迪·科默.md" title="wikilink">朱迪·科默</a></p></td>
+<td><p><a href="../Page/殺死伊芙.md" title="wikilink">殺死伊芙</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/約瑟夫·費因斯.md" title="wikilink">約瑟夫·費因斯</a></p></td>
+<td><p><a href="../Page/侍女的故事_(電視劇).md" title="wikilink">侍女的故事</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/露琵塔·尼詠歐" title="wikilink">露琵塔·尼詠歐</a></p></td>
+<td><p><a href="../Page/我們_(2019年電影).md" title="wikilink">我們</a></p></td>
 <td></td>
 </tr>
 </tbody>

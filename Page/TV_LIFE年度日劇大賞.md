@@ -572,7 +572,7 @@
 <td><p><a href="../Page/第19回TV_LIFE年度日劇大賞.md" title="wikilink">2009</a></p></td>
 <td><p><a href="../Page/草彅剛.md" title="wikilink">草彅剛</a> (3)<br />
 <small>《》</small></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/天海祐希" title="wikilink">天海祐希</a><br />
+<td><p><a href="../Page/天海祐希.md" title="wikilink">天海祐希</a><br />
 <small>《<a href="../Page/BOSS_(電視劇).md" title="wikilink">BOSS</a>》</small></p></td>
 <td><p><a href="../Page/水嶋斐呂.md" title="wikilink">水嶋斐呂</a><br />
 <small>《<a href="../Page/東京DOGS.md" title="wikilink">東京DOGS</a>》</small></p></td>

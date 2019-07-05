@@ -29,8 +29,8 @@ MBS電台是[廣播聯播網](https://zh.wikipedia.org/wiki/廣播聯播網 "wik
   - [MBS電台歷史](http://www.homemate-research-radio-station.com/useful/16605_facil_046/)
 
 
-[Category:大阪市北區建築物](https://zh.wikipedia.org/wiki/Category:大阪市北區建築物 "wikilink")
-[Category:日本新聞網_(TBS)](https://zh.wikipedia.org/wiki/Category:日本新聞網_\(TBS\) "wikilink")
-[Category:日本廣播電台](https://zh.wikipedia.org/wiki/Category:日本廣播電台 "wikilink")
-[Category:1951年日本建立](https://zh.wikipedia.org/wiki/Category:1951年日本建立 "wikilink")
+[Category:近畿地方的廣播電台](https://zh.wikipedia.org/wiki/Category:近畿地方的廣播電台 "wikilink")
 [Category:每日放送](https://zh.wikipedia.org/wiki/Category:每日放送 "wikilink")
+[Category:日本新聞網_(TBS)](https://zh.wikipedia.org/wiki/Category:日本新聞網_\(TBS\) "wikilink")
+[Category:1951年日本建立](https://zh.wikipedia.org/wiki/Category:1951年日本建立 "wikilink")
+[Category:大阪市北區建築物](https://zh.wikipedia.org/wiki/Category:大阪市北區建築物 "wikilink")

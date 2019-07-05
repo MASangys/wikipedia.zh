@@ -624,8 +624,8 @@ featuring 康 on Guitar</p></td>
   - 5月19-23日: [I Love You Boyz](../Page/I_Love_You_Boyz.md "wikilink") -
     艾粒拾伍年開光大典（康擔任和音及結他手）
   - 5月20日: [勞嘉怡](../Page/勞嘉怡.md "wikilink") Yuki Lovey,
-    [江若琳](https://zh.wikipedia.org/wiki/江若琳 "wikilink") - JOOX x
-    海港城 Music in the City（偉擔任鼓手）
+    [江若琳](../Page/江若琳.md "wikilink") - JOOX x 海港城 Music in
+    the City（偉擔任鼓手）
   - 5月27日: [何弘軒](../Page/何弘軒.md "wikilink"),
     [連詩雅](https://zh.wikipedia.org/wiki/連詩雅 "wikilink") - JOOX x
     海港城 Music in the City（康擔任結他手，偉擔任鼓手）

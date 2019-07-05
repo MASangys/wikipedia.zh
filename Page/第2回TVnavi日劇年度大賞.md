@@ -65,7 +65,7 @@
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/仲間由紀惠" title="wikilink">仲間由紀惠</a><br />
 《<a href="https://zh.wikipedia.org/wiki/極道鮮師#我miss係大佬Ⅱ" title="wikilink">我miss係大佬Ⅱ</a>》</strong></p></td>
 <td><p>第一位：<a href="https://zh.wikipedia.org/wiki/仲間由紀惠" title="wikilink">仲間由紀惠</a>《<a href="https://zh.wikipedia.org/wiki/極道鮮師#我miss係大佬Ⅱ" title="wikilink">我miss係大佬Ⅱ</a>》<br />
-第二位：<a href="https://zh.wikipedia.org/wiki/天海祐希" title="wikilink">天海祐希</a>　《<a href="../Page/女王的教室.md" title="wikilink">女王的教室</a>》<br />
+第二位：<a href="../Page/天海祐希.md" title="wikilink">天海祐希</a>　《<a href="../Page/女王的教室.md" title="wikilink">女王的教室</a>》<br />
 第三位：<a href="../Page/澤尻英龍華.md" title="wikilink">澤尻英龍華</a>《<a href="../Page/一公升的眼淚_(電視劇).md" title="wikilink">一公升的眼淚</a>》<br />
 第四位：<a href="../Page/井上真央.md" title="wikilink">井上真央</a>　《<a href="https://zh.wikipedia.org/wiki/花樣男子_(日本電視劇)" title="wikilink">花樣男子</a>》<br />
 第五位：<a href="../Page/篠原涼子.md" title="wikilink">篠原涼子</a>　《》</p></td>

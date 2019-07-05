@@ -81,6 +81,11 @@ Q\#在語法上與[C\#和](../Page/C♯.md "wikilink")[F\#類似](../Page/F♯.m
 
 ## 参考文献
 
+## 外部連結
+
+  - [Official
+    documentation](https://docs.microsoft.com/en-us/quantum/quantum-qr-intro?view=qsharp-preview)
+
 [Category:微軟](https://zh.wikipedia.org/wiki/Category:微軟 "wikilink")
 [Category:程式語言小作品](https://zh.wikipedia.org/wiki/Category:程式語言小作品 "wikilink")
 [Category:程序设计语言](https://zh.wikipedia.org/wiki/Category:程序设计语言 "wikilink")

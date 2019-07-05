@@ -25,7 +25,7 @@ TensorFlow是谷歌大脑的第二代[机器学习系统](../Page/机器学习.m
 
 1.0.0版本发布于2017年2月11日。虽然参考实现运行在单台设备，TensorFlow可以运行在多个[CPU和](https://zh.wikipedia.org/wiki/CPU "wikilink")[GPU](../Page/圖形處理器.md "wikilink")（和可选的[CUDA扩展和](../Page/CUDA.md "wikilink")[图形处理器通用计算的](../Page/图形处理器通用计算.md "wikilink")[SYCL扩展](../Page/SYCL.md "wikilink")）。\[11\]TensorFlow可用于64位[Linux](../Page/Linux.md "wikilink")、[macOS和](https://zh.wikipedia.org/wiki/macOS "wikilink")[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")，以及移动计算平台，包括[Android和](../Page/Android.md "wikilink")[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")。
 
-TensorFlow的计算使用有状态的数据流图表示。TensorFlow的名字来源于这类神经网络对多维数组执行的操作。这些多维数组被称为[张量](https://zh.wikipedia.org/wiki/张量 "wikilink")。2016年6月，Jeff
+TensorFlow的计算使用有状态的数据流图表示。TensorFlow的名字来源于这类神经网络对多维数组执行的操作。这些多维数组被称为[张量](https://zh.wikipedia.org/wiki/张量 "wikilink")（Tensor）。2016年6月，Jeff
 Dean称在[GitHub有](../Page/GitHub.md "wikilink")1500个库提到了TensorFlow，其中只有5个来自Google。\[12\]
 
 ### 张量处理单元（TPU）

@@ -1,6 +1,6 @@
 **Yuleum 娛樂**（；）。
 
-現旗下的代表藝人有[金成鈴](../Page/金成鈴.md "wikilink")\[1\]、[都枝寒](../Page/都枝寒.md "wikilink")、[Uie](../Page/Uie.md "wikilink")\[2\][李泰蘭](../Page/李泰蘭.md "wikilink")\[3\]等人。
+現旗下的代表藝人有[金成鈴](../Page/金成鈴.md "wikilink")\[1\]、[都枝寒](../Page/都枝寒.md "wikilink")、[李泰蘭](../Page/李泰蘭.md "wikilink")\[2\]等人。
 
 ## 大事記
 
@@ -44,8 +44,6 @@
 
   - [尹周熙](../Page/尹周熙.md "wikilink")
 
-  - [Uie](../Page/Uie.md "wikilink")
-
   - [李烈音](../Page/李烈音.md "wikilink")
 
   -
@@ -70,4 +68,3 @@
 
 1.
 2.
-3.

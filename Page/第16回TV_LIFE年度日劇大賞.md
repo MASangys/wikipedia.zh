@@ -191,7 +191,7 @@ LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針
 </tr>
 <tr class="even">
 <td><p>第八位</p></td>
-<td><p>　<a href="https://zh.wikipedia.org/wiki/天海祐希" title="wikilink">天海祐希</a></p></td>
+<td><p>　<a href="../Page/天海祐希.md" title="wikilink">天海祐希</a></p></td>
 <td><p>　《<a href="../Page/主播台女王.md" title="wikilink">主播台女王</a>》</p></td>
 </tr>
 <tr class="odd">

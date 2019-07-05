@@ -7,7 +7,12 @@
 
 ## 功能
 
-用户可以在喜马拉雅FM中收听[有声书](../Page/有聲書.md "wikilink")，收听在线广播，观看直播，收听新闻音频和其他用户上传的音频文件。大部分音频内容都是免费的，但也不乏收费内容。
+用户可以在喜马拉雅FM中收听[有声书](../Page/有聲書.md "wikilink")、新闻音频、在线广播、观看直播、以及其他用户上传的音频文件。大部分音频内容都是免费的，但也不乏收费内容。
+
+## 廣告營利模式
+
+1.  正如其他免費型app一樣，會在用戶點及app進入使用時，給用戶看幾秒全螢幕的廣告後，才會進入app的介面。
+2.  當用戶使用一段時間後，會插入贊助廣告的音频，用戶只能選擇聽完廣告，如果不想聽，就啟動手機上的靜音模式或關機。
 
 ## 公司历史
 
@@ -25,7 +30,16 @@
 ## 外部链接
 
   -
-[分类:网络电台](https://zh.wikipedia.org/wiki/分类:网络电台 "wikilink")
+[Category:网络电台](https://zh.wikipedia.org/wiki/Category:网络电台 "wikilink")
+[Category:中國品牌](https://zh.wikipedia.org/wiki/Category:中國品牌 "wikilink")
+
+[Category:中國公司](https://zh.wikipedia.org/wiki/Category:中國公司 "wikilink")
+[Category:2013年成立的公司](https://zh.wikipedia.org/wiki/Category:2013年成立的公司 "wikilink")
+[Category:免费软件](https://zh.wikipedia.org/wiki/Category:免费软件 "wikilink")
+[Category:廣告软件](https://zh.wikipedia.org/wiki/Category:廣告软件 "wikilink")
+[Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink")
+[Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink")
+[Category:在線內容分發](https://zh.wikipedia.org/wiki/Category:在線內容分發 "wikilink")
 
 1.
 

@@ -44,7 +44,7 @@ Pie](https://zh.wikipedia.org/wiki/Android_9 "wikilink")，同日晚間11點，�
 </tr>
 <tr class="even">
 <td><p>系統</p></td>
-<td><p><a href="../Page/Android_Oreo.md" title="wikilink">Android 8.0.0</a>（出廠版本為<a href="../Page/Android_Nougat.md" title="wikilink">Android 7.1.1</a>）</p></td>
+<td><p><a href="../Page/Android_Oreo.md" title="wikilink">Android 8.0.0</a>（出廠版本為<a href="../Page/Android_Nougat.md" title="wikilink">Android 7.1.1</a>）（最新版本為<a href="../Page/Android_Pie.md" title="wikilink">Android 9</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>介面</p></td>

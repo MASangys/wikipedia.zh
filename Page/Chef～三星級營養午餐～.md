@@ -1,8 +1,8 @@
-，為2016年10月起毎週四晚間10:00－10:54於[富士電視台聯播網的](../Page/富士電視台.md "wikilink")「[富士電視台週四連續劇](https://zh.wikipedia.org/wiki/富士電視台週四連續劇 "wikilink")」時段播出的連續劇，由[天海祐希主演](https://zh.wikipedia.org/wiki/天海祐希 "wikilink")\[1\]。
+，為2016年10月起毎週四晚間10:00－10:54於[富士電視台聯播網的](../Page/富士電視台.md "wikilink")「[富士電視台週四連續劇](https://zh.wikipedia.org/wiki/富士電視台週四連續劇 "wikilink")」時段播出的連續劇，由[天海祐希主演](../Page/天海祐希.md "wikilink")\[1\]。
 
 ## 故事概要
 
-原本是[米其林三星級餐廳主廚的星野光子](../Page/米其林指南.md "wikilink")（[天海祐希](https://zh.wikipedia.org/wiki/天海祐希 "wikilink")
+原本是[米其林三星級餐廳主廚的星野光子](../Page/米其林指南.md "wikilink")（[天海祐希](../Page/天海祐希.md "wikilink")
 飾），由於經營理念與餐廳經營者篠田章吾（[小泉孝太郎](../Page/小泉孝太郎.md "wikilink")
 飾）不合，在篠田的陰謀下被迫離開餐廳，到處求職卻處處碰壁。閒賦在家的星野接到CNB電視台節目製作人矢口早紀（
 飾）的電話，邀請星野擔任小學餐廳的主廚，期間經歷了學校經費不足、學生口味不同及營養均衡考量的不同問題，她毅然決定面對這些挑戰，為了讓全校師生能夠享用到「-{zh-hk:無得頂的美味;zh-tw:好吃到極點;}-」而努力。\[2\]
@@ -11,7 +11,7 @@
 
 ### 主要人物
 
-  - 星野光子：[天海祐希](https://zh.wikipedia.org/wiki/天海祐希 "wikilink")（香港配音：[黃玉娟](../Page/黃玉娟.md "wikilink")）
+  - 星野光子：[天海祐希](../Page/天海祐希.md "wikilink")（香港配音：[黃玉娟](../Page/黃玉娟.md "wikilink")）
 
 <!-- end list -->
 
@@ -316,7 +316,7 @@
   - 料理顧問指導：鈴木哲也、伊藤博史、石井剛
   - 營養午餐顧問指導：松丸獎
   - 製作人：長部聰介、高田雄貴
-  - 主題歌：[松任谷由實](../Page/松任谷由實.md "wikilink")、[天海祐希](https://zh.wikipedia.org/wiki/天海祐希 "wikilink")「Smile
+  - 主題歌：[松任谷由實](../Page/松任谷由實.md "wikilink")、[天海祐希](../Page/天海祐希.md "wikilink")「Smile
     for me」\[5\]（EMI RECORDS）
   - 製作：[富士電視台](../Page/富士電視台.md "wikilink")
 

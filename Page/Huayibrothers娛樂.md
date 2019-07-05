@@ -22,7 +22,7 @@ Entertainment**（）是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikili
   - [林允浩](../Page/林允浩.md "wikilink")
   - [李東輝](../Page/李東輝_\(演員\).md "wikilink")
   - [韓宰厚](https://zh.wikipedia.org/wiki/韓宰厚 "wikilink")
-  - [申柱煥](https://zh.wikipedia.org/wiki/申柱煥 "wikilink")
+  - [申柱煥](../Page/申柱煥.md "wikilink")
   - [李韓](https://zh.wikipedia.org/wiki/李韓 "wikilink")
   - [吳賢慶](../Page/吳賢慶.md "wikilink")
   - [金諪恩](https://zh.wikipedia.org/wiki/金諪恩 "wikilink")

@@ -155,29 +155,35 @@ SG 556經典型半自動步槍除了槍管長度不同外，護木也相應縮�
 </tr>
 <tr class="even">
 <td></td>
+<td><p>特種部隊單位</p></td>
+<td><p>SG 556 SBR</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
 <td><p><a href="../Page/大韓民國海洋警察廳.md" title="wikilink">大韓民國海洋警察廳特別對海攻擊隊</a></p></td>
 <td><p>SG 556</p></td>
 <td><p>[6]</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td><p>SG 556</p></td>
 <td><p>[7]</ref>[8]</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>部份地區的武裝特警單位</p></td>
 <td><p>SG 556</p></td>
 <td><p>[9]</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>部份地方警察局的<a href="../Page/特種武器和戰術部隊.md" title="wikilink">特種武器和戰術部隊</a></p></td>
 <td><p>SG 556</p></td>

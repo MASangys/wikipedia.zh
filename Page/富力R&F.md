@@ -1,4 +1,4 @@
-**富力R\&F**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：**R\&F**）為[中國足球會](https://zh.wikipedia.org/wiki/PRC "wikilink")[廣州富力的附屬球隊](https://zh.wikipedia.org/wiki/廣州富力 "wikilink")，現時於[香港超級聯賽派員參賽](https://zh.wikipedia.org/wiki/香港超級聯賽 "wikilink")，亦是現時唯一一支在港超作賽的香港境外球隊。
+**富力R\&F**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：**R\&F**）為[中國足球會](https://zh.wikipedia.org/wiki/PRC "wikilink")[廣州富力的附屬球隊](https://zh.wikipedia.org/wiki/廣州富力 "wikilink")，現時於[香港丙組聯賽派員參賽](../Page/香港丙組聯賽.md "wikilink")，亦是現時唯一一支在港丙作賽的中國球隊。
 
 ## 球隊歷史
 
@@ -173,7 +173,7 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong>--</strong></p></td>
+<td><p><strong>94</strong></p></td>
 <td></td>
 <td><p><a href="../Page/謝家榮_(足球運動員).md" title="wikilink">謝家榮</a>（Tse Ka Wing）</p></td>
 <td><p>1999年9月4日</p></td>
@@ -193,16 +193,6 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong>3</strong></p></td>
-<td></td>
-<td><p><a href="../Page/林俊生.md" title="wikilink">林俊生</a>（Lin Junsheng）</p></td>
-<td><p>1985年1月8日</p></td>
-<td><p>2018年</p></td>
-<td><p></p></td>
-<td><p><strong><em>多重國籍香港球員</em></strong></p></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p><strong>6</strong></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/侯俊傑_(足球運動員)" title="wikilink">侯俊傑</a>（Hou Junjie）</p></td>
@@ -212,7 +202,7 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td><p>大陸球員</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>5</strong></p></td>
 <td></td>
 <td><p><a href="../Page/勞烈斯.md" title="wikilink">勞烈斯</a>（Lilley Nunez Vasudeva Das）</p></td>
@@ -222,7 +212,7 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td><p>香港球員</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>12</strong></p></td>
 <td></td>
 <td><p><a href="../Page/盧均宜.md" title="wikilink">盧均宜</a>（Lo Kwan Yee）</p></td>
@@ -230,9 +220,9 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td><p>2018年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/傑志" title="wikilink">傑志</a></p></td>
 <td><p>香港球員</p></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/File:Captain_sports.svg" title="fig:Captain_sports.svg">Captain_sports.svg</a> 隊長</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>15</strong></p></td>
 <td></td>
 <td><p><a href="../Page/羅拔圖·祖利亞.md" title="wikilink">羅拔圖</a>（Roberto Orlando Affonso Júnior）</p></td>
@@ -242,7 +232,7 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td><p>香港球員</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Captain_sports.svg" title="fig:Captain_sports.svg">Captain_sports.svg</a> 隊長</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>21</strong></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/梁永豐" title="wikilink">梁永豐</a>（Liang Yongfeng）</p></td>
@@ -252,7 +242,7 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td><p>大陸球員</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>24</strong></p></td>
 <td></td>
 <td><p><a href="../Page/梁諾恆.md" title="wikilink">梁諾恆</a>（Leung Nok Hang）</p></td>
@@ -262,27 +252,7 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td><p>香港球員</p></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p><strong>60</strong></p></td>
-<td></td>
-<td><p><a href="../Page/沙沙·諾華高域.md" title="wikilink">沙沙</a>（Saša Novaković）</p></td>
-<td><p>1991年5月27日</p></td>
-<td><p>2018年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/薩拉熱窩足球會" title="wikilink">薩拉熱窩</a></p></td>
-<td><p>外援</p></td>
-<td></td>
-</tr>
 <tr class="odd">
-<td><p><strong>88</strong></p></td>
-<td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李卓翰" title="wikilink">李卓翰</a>（Lee Cheuk Hon）</p></td>
-<td><p>2000年2月21日</p></td>
-<td><p>2018年</p></td>
-<td><p><a href="../Page/自由人足球會.md" title="wikilink">自由人青年軍</a></p></td>
-<td><p>U22香港青年球員</p></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p><strong>--</strong></p></td>
 <td></td>
 <td><p><a href="../Page/方栢倫.md" title="wikilink">方栢倫</a>（Fong Pak Lun）</p></td>
@@ -292,7 +262,7 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td><p>香港球員</p></td>
 <td><p>新加盟</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><font color="black"><strong>中場</strong></p></td>
 <td></td>
 <td></td>
@@ -302,7 +272,7 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>4</strong></p></td>
 <td></td>
 <td><p><a href="../Page/白鶴_(足球運動員).md" title="wikilink">白鶴</a>（Bai He）</p></td>
@@ -312,7 +282,7 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td><p>香港球員</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>7</strong></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/林志堅_(足球運動員)" title="wikilink">林志堅</a>（Lam Zhi Gin Andreas）</p></td>
@@ -322,7 +292,7 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td><p><strong><em>多重國籍香港球員</em></strong></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>8</strong></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/吳偉安" title="wikilink">吳偉安</a>（Wu Weian）</p></td>
@@ -332,7 +302,7 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td><p>大陸球員</p></td>
 <td><p>助教兼球員</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>11</strong></p></td>
 <td></td>
 <td><p><a href="../Page/羅港威.md" title="wikilink">羅港威</a>（Lo Kong Wai）</p></td>
@@ -342,7 +312,7 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td><p>香港球員</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>14</strong></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/寧安_(足球運動員)" title="wikilink">寧安</a>（Ning An）</p></td>
@@ -352,7 +322,7 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td><p>大陸球員</p></td>
 <td><p>外借加盟</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>16</strong></p></td>
 <td></td>
 <td><p><a href="../Page/陳俊樂.md" title="wikilink">陳俊樂</a>（Tan Chun Lok）</p></td>
@@ -362,7 +332,7 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td><p>香港球員</p></td>
 <td><p>外借加盟</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>30</strong></p></td>
 <td></td>
 <td><p><a href="../Page/謝家強.md" title="wikilink">謝家強</a>（Sean Tse）</p></td>
@@ -372,7 +342,7 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td><p><strong><em>多重國籍香港球員</em></strong></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>33</strong></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/王新輝" title="wikilink">王新輝</a>（Wang Xinhui）</p></td>
@@ -382,7 +352,7 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td><p>大陸球員</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>97</strong></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/陳富海" title="wikilink">陳富海</a>（Chen Fuhai）</p></td>
@@ -390,16 +360,6 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td><p>2017年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/廣州富力" title="wikilink">廣州富力預備隊</a></p></td>
 <td><p>大陸球員</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>99</strong></p></td>
-<td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/曾通明" title="wikilink">曾通明</a>（Tsang Tung Ming）</p></td>
-<td><p>1999年7月21日</p></td>
-<td><p>2018年</p></td>
-<td><p><a href="../Page/自由人足球會.md" title="wikilink">自由人青年軍</a></p></td>
-<td><p>U22香港青年球員</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -423,6 +383,16 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td><p>新加盟</p></td>
 </tr>
 <tr class="even">
+<td><p><strong>--</strong></p></td>
+<td></td>
+<td><p>（Adama Guira）</p></td>
+<td><p>1988年4月24日</p></td>
+<td><p>2019年</p></td>
+<td><p></p></td>
+<td><p>外援</p></td>
+<td><p>新加盟</p></td>
+</tr>
+<tr class="odd">
 <td><p><font color="black"><strong>前鋒</strong></p></td>
 <td></td>
 <td></td>
@@ -432,7 +402,7 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>18</strong></p></td>
 <td></td>
 <td><p>（Serges Déblé）</p></td>
@@ -442,7 +412,7 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td><p>外援</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>22</strong></p></td>
 <td></td>
 <td><p><a href="../Page/基奧雲尼·施華.md" title="wikilink">基奧雲尼</a>（Giovane Alves da Silva）</p></td>
@@ -452,7 +422,7 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td><p>香港球員</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>25</strong></p></td>
 <td></td>
 <td><p><a href="../Page/堤亞高·利安高.md" title="wikilink">利安高</a>（Tiago de Leonço）</p></td>
@@ -462,7 +432,7 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td><p>外援</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>--</strong></p></td>
 <td></td>
 <td><p><a href="../Page/伊高·沙托尼.md" title="wikilink">伊高沙托尼</a>（Igor Sartori）</p></td>
@@ -500,7 +470,7 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td><p><a href="../Page/袁振昇.md" title="wikilink">袁振昇</a>（Yuen Chun Sing）</p></td>
 <td><p>前鋒</p></td>
 <td><p>1993年2月16日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/香港飛馬" title="wikilink">香港飛馬</a></p></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -534,6 +504,34 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 </tr>
 <tr class="even">
 <td></td>
+<td><p><a href="../Page/沙沙·諾華高域.md" title="wikilink">沙沙</a>（Saša Novaković）</p></td>
+<td><p>後衛</p></td>
+<td><p>1991年5月27日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李卓翰" title="wikilink">李卓翰</a>（Lee Cheuk Hon）</p></td>
+<td><p>後衛</p></td>
+<td><p>2000年2月21日</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p><a href="../Page/林俊生.md" title="wikilink">林俊生</a>（Lin Junsheng）</p></td>
+<td><p>後衛</p></td>
+<td><p>1985年1月8日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/曾通明" title="wikilink">曾通明</a>（Tsang Tung Ming）</p></td>
+<td><p>中場</p></td>
+<td><p>1999年7月21日</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
 <td><p><a href="../Page/伊達_(足球運動員).md" title="wikilink">伊達</a>（"Ita", Manoel dos Santos Filho, Itaparica）</p></td>
 <td><p>中場</p></td>
 <td><p>1980年7月8日</p></td>
@@ -544,7 +542,7 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td><p><a href="https://zh.wikipedia.org/wiki/麥富城" title="wikilink">麥富城</a>（Mak Fu Shing）</p></td>
 <td><p>前鋒</p></td>
 <td><p>2000年11月14日</p></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/夢想FC" title="wikilink">夢想FC</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -615,113 +613,66 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 
 ### 本地球員
 
-  - [洪流](https://zh.wikipedia.org/wiki/洪流 "wikilink")
-
-  - [黃啟耀](https://zh.wikipedia.org/wiki/黃啟耀 "wikilink")
-
-  - [吳文軒](https://zh.wikipedia.org/wiki/吳文軒 "wikilink")
-
-  - [羅境曦](https://zh.wikipedia.org/wiki/羅境曦 "wikilink")
-
-  - [林衍廷](../Page/林衍廷.md "wikilink")
-
-  - [周綽豐](../Page/周綽豐.md "wikilink")
-
-  - [曾健晃](../Page/曾健晃.md "wikilink")
-
-  - [袁振昇](../Page/袁振昇.md "wikilink")
-
-  - [卓耀國](../Page/卓耀國.md "wikilink")
-
-  - [林雲傑](../Page/林雲傑.md "wikilink")
-
-  - [劉德仁](https://zh.wikipedia.org/wiki/劉德仁 "wikilink")
-
-  - [張國明](../Page/張國明.md "wikilink")
-
-  - [梁家希](../Page/梁家希.md "wikilink")
+<table>
+<thead>
+<tr class="header">
+<th><p><font color="white">富力R&amp;F曾效力球員 - 本地球員</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/洪流" title="wikilink">洪流</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/卓耀國.md" title="wikilink">卓耀國</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/伊達_(足球運動員).md" title="wikilink">伊達</a></p></td>
+</tr>
+</tbody>
+</table>
 
 ### 中國球員
 
-  - [趙銘](https://zh.wikipedia.org/wiki/趙銘_\(足球運動員\) "wikilink")
-
-  - [鐘柯](https://zh.wikipedia.org/wiki/鐘柯 "wikilink")
-
-  - [李鋭](https://zh.wikipedia.org/wiki/李鋭 "wikilink")
-
-  - [荆騰](https://zh.wikipedia.org/wiki/荆騰 "wikilink")
-
-  - [朱迪](https://zh.wikipedia.org/wiki/朱迪 "wikilink")
-
-  - [荆瑜](https://zh.wikipedia.org/wiki/荆瑜 "wikilink")
-
-  - [楊挺](https://zh.wikipedia.org/wiki/楊挺 "wikilink")
-
-  - [倪波](../Page/倪波.md "wikilink")
-
-  - [李雷](https://zh.wikipedia.org/wiki/李雷 "wikilink")
-
-  - [鄺灝堃](https://zh.wikipedia.org/wiki/鄺灝堃 "wikilink")
-
-  - [項文俊](https://zh.wikipedia.org/wiki/項文俊 "wikilink")
-
-  - [梁展浩](https://zh.wikipedia.org/wiki/梁展浩 "wikilink")
-
-  - [梁哲宇](https://zh.wikipedia.org/wiki/梁哲宇 "wikilink")
-
-  - [梁永豐](https://zh.wikipedia.org/wiki/梁永豐 "wikilink")
-
-  - [畢廣恒](https://zh.wikipedia.org/wiki/畢廣恒 "wikilink")
-
-  - [葉鋭文](https://zh.wikipedia.org/wiki/葉鋭文 "wikilink")
-
-  - [黎宇揚](https://zh.wikipedia.org/wiki/黎宇揚 "wikilink")
-
-  - [陳立明](../Page/陳立明.md "wikilink")
-
-  - [何子霖](https://zh.wikipedia.org/wiki/何子霖 "wikilink")
-
-  - [閔俊麟](https://zh.wikipedia.org/wiki/閔俊麟 "wikilink")
-
-  - [王洱多](https://zh.wikipedia.org/wiki/王洱多 "wikilink")
-
-  - [鄧演霖](https://zh.wikipedia.org/wiki/鄧演霖 "wikilink")
-
-  - [梁子成](../Page/梁子成.md "wikilink")
-
-  - [馬偉超](https://zh.wikipedia.org/wiki/馬偉超 "wikilink")
-
-  - [韋宗仁](https://zh.wikipedia.org/wiki/韋宗仁 "wikilink")
-
-  - [塗東旭](https://zh.wikipedia.org/wiki/塗東旭 "wikilink")
-
-  - [閔俊麟](https://zh.wikipedia.org/wiki/閔俊麟 "wikilink")
-
-  - [王洱多](https://zh.wikipedia.org/wiki/王洱多 "wikilink")
-
-  - [鄧演霖](https://zh.wikipedia.org/wiki/鄧演霖 "wikilink")
-
-  - [張嘉傑](https://zh.wikipedia.org/wiki/張嘉傑 "wikilink")
-
-  - [龍文灝](https://zh.wikipedia.org/wiki/龍文灝 "wikilink")
-
-  - [陳佳奇](https://zh.wikipedia.org/wiki/陳佳奇 "wikilink")
-
-  - [符雲龍](https://zh.wikipedia.org/wiki/符雲龍 "wikilink")
-
-  - [麥嘉鍵](https://zh.wikipedia.org/wiki/麥嘉鍵 "wikilink")
-
-  - [黃浩軒](https://zh.wikipedia.org/wiki/黃浩軒 "wikilink")
-
-  - [向嘉馳](https://zh.wikipedia.org/wiki/向嘉馳 "wikilink")
-
-  - [裴晨淞](../Page/裴晨淞.md "wikilink")
+<table>
+<thead>
+<tr class="header">
+<th><p><font color="white">富力R&amp;F曾效力球員 - 中國球員</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/趙銘_(足球運動員)" title="wikilink">趙銘</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/鄺灝堃" title="wikilink">鄺灝堃</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/何子霖" title="wikilink">何子霖</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/王洱多" title="wikilink">王洱多</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/向嘉馳" title="wikilink">向嘉馳</a></p></td>
+</tr>
+</tbody>
+</table>
 
 ### 外援球員
 
-  - [般連奴](../Page/般連奴.md "wikilink")
-
-  - [利安高](../Page/堤亞高·利安高.md "wikilink")
+<table>
+<thead>
+<tr class="header">
+<th><p><font color="white">富力R&amp;F曾效力球員 - 外援球員</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="../Page/般連奴.md" title="wikilink">般連奴</a></p></td>
+</tr>
+</tbody>
+</table>
 
 ## 參考資料
 

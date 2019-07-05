@@ -75,7 +75,7 @@
 <li><em><a href="https://zh.wikipedia.org/wiki/中爪哇" title="wikilink">中爪哇</a>：</em><a href="https://zh.wikipedia.org/wiki/三宝垄" title="wikilink">三宝垄</a>、<a href="https://zh.wikipedia.org/wiki/马格朗" title="wikilink">马格朗</a>、<a href="../Page/普禾加多.md" title="wikilink">普禾加多</a>、<a href="https://zh.wikipedia.org/wiki/北加浪岸" title="wikilink">北加浪岸</a>、、、、、、、、、、巴迪（Pati Regency）、、、、<a href="https://zh.wikipedia.org/wiki/沙拉迪加" title="wikilink">沙拉迪加</a>、</li>
 <li><em><a href="https://zh.wikipedia.org/wiki/東爪哇" title="wikilink">東爪哇</a>：</em><a href="../Page/泗水_(印尼).md" title="wikilink">泗水</a>、<a href="../Page/哥打峇都_(印尼).md" title="wikilink">峇都</a>、<a href="https://zh.wikipedia.org/wiki/谏义里" title="wikilink">谏义里</a>、<a href="https://zh.wikipedia.org/wiki/玛琅" title="wikilink">玛琅</a>、<a href="https://zh.wikipedia.org/wiki/莫佐克托" title="wikilink">莫佐克托</a>、<a href="https://zh.wikipedia.org/wiki/梭罗市" title="wikilink">梭罗市</a>、<a href="https://zh.wikipedia.org/wiki/岩望" title="wikilink">岩望</a>、、、</li>
 </ul>
-<p><strong><a href="https://zh.wikipedia.org/wiki/小巽他群岛" title="wikilink">小巽他群岛</a>：</strong></p>
+<p><strong><a href="../Page/小巽他群岛.md" title="wikilink">小巽他群岛</a>：</strong></p>
 <ul>
 <li><em><a href="https://zh.wikipedia.org/wiki/巴厘島" title="wikilink">巴厘島</a>：</em><a href="https://zh.wikipedia.org/wiki/登巴萨" title="wikilink">登巴萨</a>、、</li>
 <li><em><a href="https://zh.wikipedia.org/wiki/龍目島" title="wikilink">龍目島</a>：</em><a href="https://zh.wikipedia.org/wiki/马塔兰" title="wikilink">马塔兰</a><br />

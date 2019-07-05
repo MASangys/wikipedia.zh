@@ -69,8 +69,9 @@ FANTASY](https://zh.wikipedia.org/wiki/EXILE_LIVE_TOUR_2010_FANTASY "wikilink")�
 [Category:新澤西州人](https://zh.wikipedia.org/wiki/Category:新澤西州人 "wikilink")
 [Category:美國裔日本人](https://zh.wikipedia.org/wiki/Category:美國裔日本人 "wikilink")
 [Category:放浪兄弟](https://zh.wikipedia.org/wiki/Category:放浪兄弟 "wikilink")
-[Category:LDH](https://zh.wikipedia.org/wiki/Category:LDH "wikilink")
+[Category:LDH所屬藝人](https://zh.wikipedia.org/wiki/Category:LDH所屬藝人 "wikilink")
 [Category:日本体育大学校友](https://zh.wikipedia.org/wiki/Category:日本体育大学校友 "wikilink")
+[Category:非洲裔日本人](https://zh.wikipedia.org/wiki/Category:非洲裔日本人 "wikilink")
 
 1.  2014年4月27日放送『[ブラマヨとゆかいな仲間たち
     アツアツっ\!](https://zh.wikipedia.org/wiki/ブラマヨとゆかいな仲間たち_アツアツっ! "wikilink")』より。

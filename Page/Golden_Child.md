@@ -336,12 +336,12 @@ High](../Page/Legal_High.md "wikilink")》演唱第三波原聲帶歌曲 "NEVER"
 
 ### 網路劇
 
-| 年份                                                                  | 播放日期              | 劇名                                                 | 製作公司     | 播放平台                                       | 參演成員 | 角色  | 集數  | 備註 |
-| ------------------------------------------------------------------- | ----------------- | -------------------------------------------------- | -------- | ------------------------------------------ | ---- | --- | --- | -- |
-| 2019年                                                               | 4月25日- (每週四、週日播出) | [A-TEEN 2](../Page/A-TEEN_2_\(電視劇\).md "wikilink") | Playlist | [V LIVE](https://channels.vlive.tv/DEF407) | 普閔   | 柳周河 | 20集 |    |
-| [NAVER TV](https://tv.naver.com/playlist)                           |                   |                                                    |          |                                            |      |     |     |    |
-| [YouTube](https://www.youtube.com/channel/UCid83oPnsL-4ZEo8CyQr6Rg) |                   |                                                    |          |                                            |      |     |     |    |
-| [Facebook](https://www.facebook.com/TeenPlayList/)                  |                   |                                                    |          |                                            |      |     |     |    |
+| 年份                                                                  | 播放日期                   | 劇名                                                 | 製作公司     | 播放平台                                       | 參演成員 | 角色  | 集數  | 備註 |
+| ------------------------------------------------------------------- | ---------------------- | -------------------------------------------------- | -------- | ------------------------------------------ | ---- | --- | --- | -- |
+| 2019年                                                               | 4月25日-6月30日 (每週四、週日播出) | [A-TEEN 2](../Page/A-TEEN_2_\(電視劇\).md "wikilink") | Playlist | [V LIVE](https://channels.vlive.tv/DEF407) | 普閔   | 柳周河 | 20集 |    |
+| [NAVER TV](https://tv.naver.com/playlist)                           |                        |                                                    |          |                                            |      |     |     |    |
+| [YouTube](https://www.youtube.com/channel/UCid83oPnsL-4ZEo8CyQr6Rg) |                        |                                                    |          |                                            |      |     |     |    |
+| [Facebook](https://www.facebook.com/TeenPlayList/)                  |                        |                                                    |          |                                            |      |     |     |    |
 
 ### 電影
 
@@ -1499,15 +1499,17 @@ Christmas 'WCH 쇼! 명랑음악회' V LIVE</p></td>
 
 ### 節目主持
 
-|        |                                                     |                                                                     |                                                                     |            |            |
-| ------ | --------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------- | ---------- | ---------- |
-| 年份     | 日期                                                  | 電視台                                                                 | 節目名稱                                                                | 參與成員       | 備註         |
-| 2017年  | 9月28日                                               | [Mnet](../Page/Mnet媒體.md "wikilink")                                | [M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink") | 普閔         | Special MC |
-| 2018年  | 5月10日－8月2日                                          | MOMO X                                                              | 리쓴 (LISTEN)                                                         | Y、周燦       |            |
-| 8月23日  | [Mnet](../Page/Mnet媒體.md "wikilink")                | [M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink") | 普閔                                                                  | Special MC |            |
-| 10月27日 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")  | 東炫、普閔                                                               |            |            |
-| 11月20日 | SBS MTV                                             | [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")            | 普閔                                                                  |            |            |
-| 11月27日 |                                                     |                                                                     |                                                                     |            |            |
+|        |                                                       |                                                                     |                                                                     |                                         |                       |
+| ------ | ----------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------- | --------------------------------------- | --------------------- |
+| 年份     | 日期                                                    | 電視台                                                                 | 節目名稱                                                                | 參與成員                                    | 備註                    |
+| 2017年  | 9月28日                                                 | [Mnet](../Page/Mnet媒體.md "wikilink")                                | [M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink") | 普閔                                      | Special MC            |
+| 2018年  | 5月10日－8月2日                                            | MOMO X                                                              | 리쓴 (LISTEN)                                                         | Y、周燦                                    |                       |
+| 8月23日  | [Mnet](../Page/Mnet媒體.md "wikilink")                  | [M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink") | 普閔                                                                  | Special MC                              |                       |
+| 10月27日 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")  | 東炫、普閔                                                               |                                         |                       |
+| 11月20日 | SBS MTV                                               | [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")            | 普閔                                                                  |                                         |                       |
+| 11月27日 |                                                       |                                                                     |                                                                     |                                         |                       |
+| 2019年  | 6月19日 -                                               | VLIVE                                                               | 周燦的洪心三說                                                             | 周燦                                      | 為電台節目 於CASPER RADIO播出 |
+| 7月5日 - | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink") | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")   | 普閔                                                                  | 與演員[辛睿恩共同擔任](../Page/辛睿恩.md "wikilink") |                       |
 
 ### 電台節目
 
@@ -1666,7 +1668,7 @@ Christmas 'WCH 쇼! 명랑음악회' V LIVE</p></td>
 <tr class="even">
 <td><p>10月30日</p></td>
 <td><p>CASPER RADIO</p></td>
-<td><p>V LIVE</p></td>
+<td><p>VLIVE</p></td>
 <td><p>全員<br />
 *DJ：知範 周燦</p></td>
 <td></td>
@@ -1710,7 +1712,7 @@ Christmas 'WCH 쇼! 명랑음악회' V LIVE</p></td>
 <tr class="even">
 <td><p>11月8日</p></td>
 <td><p>CASPER RADIO</p></td>
-<td><p>V LIVE</p></td>
+<td><p>VLIVE</p></td>
 <td><p>全員<br />
 *DJ：知範 周燦</p></td>
 <td></td>
@@ -2039,6 +2041,8 @@ Christmas 'WCH 쇼! 명랑음악회' V LIVE</p></td>
 | 4月26日 | 第33屆利川陶瓷祭典                                | Ye's Park 大劇場                              |
 | 5月18日 | 2019 [夢想演唱會](../Page/夢想演唱會.md "wikilink") | [首爾世界盃競技場](../Page/首爾世界盃競技場.md "wikilink") |
 | 5月19日 | 韓國娛樂音樂饗宴                                  | 台北南港展覽館                                    |
+| 8月16日 | 2019 K-WORLD FESTA 開幕公演                   | KSPO DOME (體操競技場)                          |
+| 8月24日 | 越南·韓國文化交流event                            | 河內 美亭國家運動場                                 |
 
 ### 簽售會
 

@@ -1,6 +1,6 @@
 **Nokia
-X5**是一款运行[Android操作系统的诺基亚品牌高](../Page/Android.md "wikilink")-{zh-hans:端;
-zh-hant:階;}-智能手机。3GB RAM + 32GB ROM版本人民幣999元；4GB RAM+64GB
+X5**是一款运行[Android操作系统的诺基亚品牌中高端智能手机](../Page/Android.md "wikilink")。3GB
+RAM + 32GB ROM版本人民幣999元；4GB RAM+64GB
 ROM版本1399元。于北京时间2018年7月18日14:00在北京发布。\[1\]
 
 ## 规格
@@ -16,18 +16,18 @@ ROM。除了内存和存储空间外，其他硬件-{zh-hans:参数; zh-hant:規
 
 ### 软件
 
-这款手机搭载了Android Oreo操作系统（[Android](../Page/Android.md "wikilink")
-8.1），目前已升级為[Android
-P](https://zh.wikipedia.org/wiki/Android_P "wikilink")。\[2\]
+这款手机搭载了[Android
+8.1操作系统](../Page/Android_Oreo.md "wikilink")，目前可升级至[Android
+9](https://zh.wikipedia.org/wiki/Android_9 "wikilink")。\[2\]
 
 ## 参考资料
 
 ## 外部链接
 
   - [-{R|Nokia X5 - 全能体验 | Nokia
-    phones}-](https://www.nokia.com/zh_int/phones/nokia-x5)
+    phones}-](https://www.nokia.com/phones/zh_int/nokia-x5)
   - [-{R|Nokia 5.1 Plus 視界 由我展現 | Nokia
-    phones}-](https://www.nokia.com/zh_tw/phones/nokia-5-plus)
+    phones}-](https://www.nokia.com/phones/zh_tw/nokia-5-plus)
 
 [Category:诺基亚手机](https://zh.wikipedia.org/wiki/Category:诺基亚手机 "wikilink")
 [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink")

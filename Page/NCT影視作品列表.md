@@ -161,7 +161,7 @@
 <tr class="even">
 <td><p>NCT 127 NEO CITY JAPAN－TheOrigin举办纪念SP</p></td>
 <td><p>2019年3月17日－24日</p></td>
-<td><p>泰一、Johnny、泰容、悠太、道英、在玹、昀昀、Mark、廷祐</p></td>
+<td><p>泰一、Johnny、泰容、悠太、道英、在玹、Mark、廷祐</p></td>
 <td><p>AbemaTV</p></td>
 <td></td>
 <td></td>
@@ -169,7 +169,7 @@
 <tr class="odd">
 <td><p>NCT 127 请指教JAPAN!</p></td>
 <td><p>2019年6月9日</p></td>
-<td><p>泰一、Johnny、泰容、悠太、道英、在玹、昀昀、Mark、廷祐</p></td>
+<td><p>泰一、Johnny、泰容、悠太、道英、在玹、Mark、廷祐</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -483,6 +483,12 @@
 </tr>
 <tr class="even">
 <td><p>6月23日</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
+</tr>
+<tr class="even">
+<td><p>7月12日</p></td>
 </tr>
 </tbody>
 </table>
@@ -2458,6 +2464,9 @@ Focus on ver.<br />
 | 5月                    | NYLON                     | 渽民                                                   |                        |                      |                                                                                     |
 | 6月                    | Maps                      | NCT Dream（缺楷燦、辰樂）                                    |                        |                      |                                                                                     |
 | 风度men's uno Young\!   | 中國                        | WayV                                                 |                        |                      |                                                                                     |
+| 7月                    | NYLON China               |                                                      |                        |                      |                                                                                     |
+| 時尚芭莎                  | 電子刊                       |                                                      |                        |                      |                                                                                     |
+| 男人風尚LEON              |                           |                                                      |                        |                      |                                                                                     |
 
 ## 参考文献
 

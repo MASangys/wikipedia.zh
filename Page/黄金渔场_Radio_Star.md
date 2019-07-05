@@ -50,7 +50,7 @@ Star》作为独立节目编排。
 <th style="text-align: center;"><p>2013年</p></th>
 <th><p>2017年</p></th>
 <th><p>2018年</p></th>
-<th><p>2019年</p></th>
+<th style="text-align: center;"><p>2019年</p></th>
 <th style="text-align: center;"><p>至今</p></th>
 </tr>
 </thead>
@@ -67,8 +67,9 @@ Star》作为独立节目编排。
 5日</p></td>
 <td><p>10月<br />
 19日</p></td>
-<td><p>12月</p></td>
-<td style="text-align: center;"><p>5月16日</p></td>
+<td style="text-align: center;"><p>12月</p></td>
+<td style="text-align: center;"><p>5月<br />
+16日</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p><a href="../Page/尹鍾信.md" title="wikilink">尹鍾信</a></p></td>
@@ -79,7 +80,7 @@ Star》作为独立节目编排。
 <td style="text-align: center;"></td>
 <td></td>
 <td></td>
-<td></td>
+<td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
@@ -91,7 +92,7 @@ Star》作为独立节目编排。
 <td style="text-align: center;"></td>
 <td></td>
 <td></td>
-<td></td>
+<td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
@@ -103,7 +104,7 @@ Star》作为独立节目编排。
 <td style="text-align: center;"></td>
 <td></td>
 <td></td>
-<td></td>
+<td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
@@ -115,7 +116,7 @@ Star》作为独立节目编排。
 <td style="text-align: center;"></td>
 <td></td>
 <td></td>
-<td></td>
+<td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
@@ -127,7 +128,7 @@ Star》作为独立节目编排。
 <td style="text-align: center;"></td>
 <td></td>
 <td></td>
-<td></td>
+<td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
@@ -139,7 +140,7 @@ Star》作为独立节目编排。
 <td style="text-align: center;"></td>
 <td></td>
 <td></td>
-<td></td>
+<td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
@@ -151,7 +152,7 @@ Star》作为独立节目编排。
 <td style="text-align: center;"></td>
 <td></td>
 <td></td>
-<td></td>
+<td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
@@ -163,7 +164,7 @@ Star》作为独立节目编排。
 <td style="text-align: center;"></td>
 <td></td>
 <td></td>
-<td></td>
+<td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
@@ -175,7 +176,19 @@ Star》作为独立节目编排。
 <td style="text-align: center;"></td>
 <td></td>
 <td></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p><a href="../Page/安英美.md" title="wikilink">安英美</a></p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
 <td></td>
+<td></td>
+<td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>
 </tbody>
@@ -3558,7 +3571,7 @@ Radio Star**》的播出列表。\[4\]
 <tr class="odd">
 <td><p>416</p></td>
 <td><p>2月3日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/朴娜萊_(喜劇演員)" title="wikilink">朴娜莱</a>、<a href="https://zh.wikipedia.org/wiki/张度妍" title="wikilink">张度妍</a>、<a href="../Page/梁世炯.md" title="wikilink">梁世炯</a>、<a href="../Page/梁世燦.md" title="wikilink">梁世燦</a></p></td>
+<td><p><a href="../Page/朴娜勑.md" title="wikilink">朴娜勑</a>、<a href="../Page/張度練.md" title="wikilink">張度練</a>、<a href="../Page/梁世炯.md" title="wikilink">梁世炯</a>、<a href="../Page/梁世燦.md" title="wikilink">梁世燦</a></p></td>
 <td><p>爱情与战争特辑（上）</p></td>
 <td></td>
 </tr>
@@ -3572,7 +3585,7 @@ Radio Star**》的播出列表。\[4\]
 <tr class="odd">
 <td><p>418</p></td>
 <td><p>2月17日</p></td>
-<td><p><a href="../Page/姜河那.md" title="wikilink">姜河那</a>、<a href="../Page/金信英.md" title="wikilink">金申英</a>、<a href="https://zh.wikipedia.org/wiki/金东炫" title="wikilink">金东炫</a>、</p></td>
+<td><p><a href="../Page/姜河那.md" title="wikilink">姜河那</a>、<a href="../Page/金信英.md" title="wikilink">金信英</a>、<a href="https://zh.wikipedia.org/wiki/金东炫" title="wikilink">金东炫</a>、</p></td>
 <td><p>《你不要担心》特辑</p></td>
 <td></td>
 </tr>
@@ -4561,7 +4574,7 @@ Radio Star**》的播出列表。\[4\]
 <tr class="even">
 <td><p>599</p></td>
 <td><p>1月9日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金吝劝" title="wikilink">金吝劝</a>、<a href="../Page/金基邦.md" title="wikilink">金基邦</a>、、（<a href="../Page/Epik_High.md" title="wikilink">Epik High</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金吝劝" title="wikilink">金吝劝</a>、<a href="../Page/金基邦.md" title="wikilink">金基邦</a>、 (<a href="../Page/Dynamic_Duo.md" title="wikilink">Dynamic Duo</a>)、（<a href="../Page/Epik_High.md" title="wikilink">Epik High</a>）</p></td>
 <td><p>“野兽的隐秘魅力”特辑</p></td>
 <td></td>
 </tr>
@@ -4725,6 +4738,13 @@ Radio Star**》的播出列表。\[4\]
 <td><p>、、 、</p></td>
 <td><p>“Show Me The Trot”特輯</p></td>
 <td><p>(<a href="../Page/MIGHTY_MOUTH.md" title="wikilink">MIGHTY MOUTH</a>)擔任特别主持。</p></td>
+</tr>
+<tr class="even">
+<td><p>623</p></td>
+<td><p>6月26日</p></td>
+<td><p>、<a href="https://zh.wikipedia.org/wiki/金浩英" title="wikilink">金浩英</a>、<a href="../Page/苞娜.md" title="wikilink">苞娜</a> (<a href="https://zh.wikipedia.org/wiki/宇宙少女" title="wikilink">宇宙少女</a>) 、</p></td>
+<td><p>“黄金统领奖”特輯</p></td>
+<td><p>自此期起，安英美作为正式主持加入节目。</p></td>
 </tr>
 </tbody>
 </table>

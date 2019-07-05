@@ -839,7 +839,7 @@ Star》基本相同，不同的是《Video Star》的主持全部由女艺人担
 <tr class="odd">
 <td><p>97</p></td>
 <td><p>6月12日</p></td>
-<td><p><a href="../Page/李尚敏.md" title="wikilink">李尚敏</a>、、、<a href="https://zh.wikipedia.org/wiki/金元植" title="wikilink">金元植</a> （<a href="../Page/VIXX.md" title="wikilink">VIXX</a>）</p></td>
+<td><p><a href="../Page/李尚敏.md" title="wikilink">李尚敏</a>、、、<a href="../Page/金元植.md" title="wikilink">金元植</a> （<a href="../Page/VIXX.md" title="wikilink">VIXX</a>）</p></td>
 <td></td>
 <td></td>
 </tr>

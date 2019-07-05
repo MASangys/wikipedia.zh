@@ -25,6 +25,7 @@ M43是一種類似的設計，具有處理[钢製部件](../Page/钢.md "wikilin
 
   - [Kel-Tec RFB半自動步槍](../Page/Kel-Tec_RFB半自動步槍.md "wikilink")
   - [Kel-Tec KSG泵動式霰彈槍](../Page/Kel-Tec_KSG泵動式霰彈槍.md "wikilink")
+  - [Kel-Tec KS7泵動式霰彈槍](../Page/Kel-Tec_KS7泵動式霰彈槍.md "wikilink")
   - [TKB-022突击步枪](../Page/TKB-022突击步枪.md "wikilink")
   - [TKB-059三管突击步枪](../Page/TKB-059三管突击步枪.md "wikilink")
   - [A-91突击步枪](../Page/A-91突击步枪.md "wikilink")

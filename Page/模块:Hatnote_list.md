@@ -27,7 +27,9 @@ for stringifying lists, usually page lists inside -- the "Y" portion of
 `   separator = "、",`
 `   altSeparator = "；",`
 `   space = "",`
-`   formatted = false`
+`   formatted = false,`
+`   boldfaced = false,`
+`   quotes = false`
 
 }
 
@@ -52,6 +54,13 @@ function stringifyList(list, options)
 `       return string.find(string.sub(t, (string.find(t, '|') or 0) + 1), f)`
 `   end`
 `   for k, v in pairs(list) do`
+`       -- 本地化注意`
+`       if options.boldfaced then`
+`           list[k] = '\'\'\'' .. list[k] .. '\'\'\''`
+`       end`
+`       if options.quotes then`
+`           list[k] = '「' .. list[k] .. '」'`
+`       end`
 `       if searchDisp(v, separator) then`
 `           separator = options.altSeparator`
 `           break`
@@ -69,9 +78,9 @@ function stringifyList(list, options)
 
 end
 
-\--DRY function function conjList (conj, list, fmt)
+\--DRY function -- 本地化注意 function conjList (conj, list, fmt, bold, quo)
 
-`   return stringifyList(list, {conjunction = conj, formatted = fmt})`
+`   return stringifyList(list, {conjunction = conj, formatted = fmt, boldfaced = bold, quotes=quo})`
 
 end
 
@@ -93,7 +102,7 @@ variants.
 `   andKeyword = '和',`
 `   title = mw.title.getCurrentTitle().text,`
 `   otherText = '其他用法',`
-`   forSeeForm = '关于%s，请参见%s。',`
+`   forSeeForm = '关于%s，请见%s。',`
 
 }
 
@@ -191,7 +200,8 @@ p.forSeeTableToString (forSeeTable, options)
 `   if forSeeTable then`
 `       for k, v in pairs(forSeeTable) do`
 `           local useStr = v.use or options.otherText`
-`           local pagesStr = p.andList(v.pages, true) or mHatnote._formatLink(mHatnote.disambiguate(options.title))`
+`           -- 本地化注意`
+`           local pagesStr = p.andList(v.pages, true, true, true) or '「\'\'\'' .. mHatnote._formatLink(mHatnote.disambiguate(options.title)) .. '\'\'\'」'`
 `           local forSeeStr = string.format(options.forSeeForm, useStr, pagesStr)`
 `           forSeeStr = punctuationCollapse(forSeeStr)`
 `           table.insert(strList, forSeeStr)`
@@ -199,7 +209,7 @@ p.forSeeTableToString (forSeeTable, options)
 `   end`
 `   if options.extratext then table.insert(strList, punctuationCollapse(options.extratext..'.')) end`
 `   -- Return the concatenated list`
-`   return table.concat(strList, ' ')`
+`   return table.concat(strList)`
 
 end
 

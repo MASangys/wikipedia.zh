@@ -151,7 +151,7 @@ Brandon Michael Lee Arreaga</p></td>
 <td><p>Summer On You </p></td>
 <td></td>
 <td></td>
-<td><p>rowspan="2" </p></td>
+<td><p>rowspan="5" </p></td>
 <td><p>[14]</p></td>
 </tr>
 <tr class="odd">
@@ -162,6 +162,41 @@ Brandon Michael Lee Arreaga</p></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>Real Friends </p></td>
+<td></td>
+<td></td>
+<td><p>[16]</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Jello </p></td>
+<td></td>
+<td></td>
+<td><p>[17]</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Blind </p></td>
+<td></td>
+<td></td>
+<td><p>[18]</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Phases </p></td>
+<td></td>
+<td></td>
+<td><p><em>Phases EP</em></p></td>
+<td><p>[19]</p></td>
+</tr>
+<tr class="even">
+<td><p>Gone 2 Long </p></td>
+<td></td>
+<td></td>
+<td><p>[20]</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -183,31 +218,42 @@ Brandon Michael Lee Arreaga</p></td>
 </tr>
 <tr class="even">
 <td><p>1</p></td>
-<td><p><strong><em>PRETTYMUCH So Far... EP PRETTYMUCH - 目前為止EP</em></strong>[16]</p>
+<td><p><strong><em>PRETTYMUCH - 目前為止EP</em></strong>[21]</p>
 <ul>
-<li>發行日期:<br />
- (僅日本發行)</li>
+<li>發行日期:  (僅日本發行)</li>
 <li>專輯長度: </li>
-<li>音樂類型: </li>
-<li>發行形式: </li>
+<li>音樂類型: <a href="https://zh.wikipedia.org/wiki/流行音樂" title="wikilink">流行</a></li>
+<li>發行形式: <a href="../Page/數位音樂下載.md" title="wikilink">數位下載</a></li>
 <li>唱片公司: </li>
 </ul></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2</p></td>
-<td><p><strong><em>PRETTYMUCH an EP PRETTYMUCH - 首張EP</em></strong>[17]</p>
+<td><p><strong><em>PRETTYMUCH - 首張EP</em></strong>[22]</p>
 <ul>
 <li>發行日期:<br />
- (僅日本發行)</li>
+</li>
 <li>專輯長度: </li>
-<li>音樂類型: </li>
-<li>發行形式: </li>
-<li>唱片公司: </li>
+<li>音樂類型: <a href="https://zh.wikipedia.org/wiki/流行音樂" title="wikilink">流行</a></li>
+<li>發行形式: <a href="../Page/數位音樂下載.md" title="wikilink">數位下載</a></li>
+<li>唱片公司: <a href="https://zh.wikipedia.org/wiki/賽科音樂" title="wikilink">賽科音樂</a></li>
 </ul></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>3</p></td>
+<td><p><strong><em>Phases EP</em></strong>[23]</p>
+<ul>
+<li>發行日期: </li>
+<li>專輯長度: </li>
+<li>音樂類型: <a href="https://zh.wikipedia.org/wiki/流行音樂" title="wikilink">流行</a></li>
+<li>發行形式: <a href="../Page/數位音樂下載.md" title="wikilink">數位下載</a></li>
+<li>唱片公司: <a href="https://zh.wikipedia.org/wiki/賽科音樂" title="wikilink">賽科音樂</a></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -222,7 +268,7 @@ Brandon Michael Lee Arreaga</p></td>
 #### PrettyMuch 無處不在巡迴演唱會
 
 PrettyMuch 無處不在巡迴演唱會
-()是PrettyMuch與[Fujifilm在](https://zh.wikipedia.org/wiki/富士膠片 "wikilink")2018年合作的巡迴演唱會，一共有九場演出。\[18\]
+()是PrettyMuch與[Fujifilm在](https://zh.wikipedia.org/wiki/富士膠片 "wikilink")2018年合作的巡迴演唱會，一共有九場演出。\[24\]
 
 **場次**
 
@@ -304,6 +350,61 @@ PrettyMuch 無處不在巡迴演唱會
   - 傑克 - 傑克2017巡迴演唱會
   - [哈立德](../Page/哈立德_\(歌手\).md "wikilink") - 樂聲巡迴演唱會
 
+## 獲獎與提名
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>年份</strong></p></td>
+<td><p><strong>頒獎典禮</strong></p></td>
+<td><p><strong>獎項</strong></p></td>
+<td><p><strong>入圍作品</strong></p></td>
+<td><p><strong>結果</strong></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2018年</p></td>
+<td><p>iHeartRadio 音樂大獎</p></td>
+<td><p>最佳男團</p></td>
+<td><p>rowspan="4" </p></td>
+<td><p>rowspan="4" </p></td>
+<td><p>[25]</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/2018年MTV音乐录影带大奖.md" title="wikilink">MTV音樂錄影帶大獎</a></p></td>
+<td><p>年度突破藝人</p></td>
+<td><p>[26]</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/MTV歐洲音樂大獎.md" title="wikilink">MTV歐洲音樂大獎</a></p></td>
+<td><p>最佳突破</p></td>
+<td><p>[27]</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>最佳組合</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ## 備註
 
 ## 參考資料
@@ -331,3 +432,12 @@ PrettyMuch 無處不在巡迴演唱會
 16.
 17.
 18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.

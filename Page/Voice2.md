@@ -708,6 +708,14 @@ Series）\[1\]，由《[失蹤的黑色M](../Page/失蹤的黑色M.md "wikilink"
 
 <!-- end list -->
 
+  - Part.3（發行日期：2018年9月8日）
+
+<!-- end list -->
+
+  - Part.4（發行日期：2018年9月15日）
+
+<!-- end list -->
+
   - Part.4（發行日期：2018年9月15日）
 
 ## 收視率
@@ -824,7 +832,6 @@ Series）\[1\]，由《[失蹤的黑色M](../Page/失蹤的黑色M.md "wikilink"
 [Category:驚悚電視劇](https://zh.wikipedia.org/wiki/Category:驚悚電視劇 "wikilink")
 [Category:電視劇集系列](https://zh.wikipedia.org/wiki/Category:電視劇集系列 "wikilink")
 [Category:電視劇續集](https://zh.wikipedia.org/wiki/Category:電視劇續集 "wikilink")
-[Category:亞洲電視外購劇集](https://zh.wikipedia.org/wiki/Category:亞洲電視外購劇集 "wikilink")
 [Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink")
 
 1.

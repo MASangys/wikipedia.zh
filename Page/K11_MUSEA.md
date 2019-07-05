@@ -1,12 +1,8 @@
-**K11
-MUSEA**（讀音meu-see-ah）（原中文名稱為K11人文藝術購物館）是[香港](../Page/香港.md "wikilink")[尖沙咀海旁的一座將會開放的購物中心](../Page/尖沙咀.md "wikilink")，以購物藝術館為經營理念，位處[新世界集團綜合式大樓](https://zh.wikipedia.org/wiki/新世界集團 "wikilink")[Victoria
-Dockside內](../Page/Victoria_Dockside.md "wikilink")，樓高10層，將於2019年8月開幕。\[1\]\[2\]
+**K11人文藝術購物館**（英文名稱為**K11
+MUSEA**，讀音meu-see-ah）是[香港](../Page/香港.md "wikilink")[尖沙咀海旁的一座將會開放的購物中心](../Page/尖沙咀.md "wikilink")，以購物藝術館為經營理念，位處[新世界集團綜合式大樓](https://zh.wikipedia.org/wiki/新世界集團 "wikilink")[VICTORIA
+DOCKSIDE內](../Page/Victoria_Dockside.md "wikilink")，樓高10層，將於2019年8月開幕。\[1\]\[2\]
 
-項目在2017年正式公佈名稱之前的中文官方名稱為「維港文化匯」，而在2019年1月首次在星光大道向遊客展示的新世界發展官方街道圖亦有寫上項目的中文名稱「維港文化匯」以及該項目內各建築物的中文名稱，而K11
-MUSEA的中文名稱為「K11人文藝術購物館」。值得一提的是，港鐵尖東站J出口原本命為「Victoria
-Dockside」，但及後發展商向港鐵提供項目中文名稱，所以港鐵在2019年6月將J出口更名為「維港文化匯」（英文名稱不變）。但該發展商及項目的官方網站和社交媒體，以及媒體的報道，從來沒有提及過項目的中文名稱。
-
-## 基本概念
+## 基本概念及命名
 
 K11
 MUSEA是由[K11創辦人](https://zh.wikipedia.org/wiki/K11 "wikilink")[鄭志剛帶領團隊構思](../Page/鄭志剛.md "wikilink")，由多位國際建築師和來自本地及海外逾百位設計師及藝術家參與建造，\[3\]以體驗式購物藝術館作為經營理念，開幕時將展出一系列公共藝術品，體現K11將藝術融入群眾的宗旨。\[4\]
@@ -14,6 +10,20 @@ MUSEA是由[K11創辦人](https://zh.wikipedia.org/wiki/K11 "wikilink")[鄭志�
 而K11
 MUSEA名字靈感來自「海邊的希臘女神」，來自古希臘神話主司文學、科學、藝術以及知識泉源的[繆斯女神](https://zh.wikipedia.org/wiki/繆斯 "wikilink")。
 \[5\]
+
+2017年5月25日，新世界集團公佈新世界中心重建項目將改名為「Victoria
+Dockside」。「Victoria」代表香港維多利亞港；「Dockside」就意指地址前身為藍煙囪碼頭。
+而項目在2017年正式公佈名稱時並沒有中文官方名稱，但在2019年1月首次在星光大道內向遊客展示的新世界發展官方街道圖及指示牌寫上項目的中文名稱「維港文化匯」以及該項目內各建築物的中文名稱。
+值得一提的是，港鐵尖東站J出口原本命為「Victoria
+Dockside」，但及後發展商向港鐵提供項目中文名稱，所以港鐵在2019年6月將J出口更名為「維港文化匯」（英文名稱不變）。不過該發展商及項目的官方網站和社交媒體，以及媒體的報道，從來沒有提及過項目的中文名稱。
+
+直至2019年6月下旬，於VICTORIA DOCKSIDE地庫商場內的新指示牌上亦展示了K11
+MUSEA的中文名稱－－「K11人文購物藝術館」，以及VICTORIA
+DOCKSIDE項目內其他建築物的中文名稱。
+
+[VICTORIA_DOCKSIDE_NEW_BOARD.jpg](https://zh.wikipedia.org/wiki/File:VICTORIA_DOCKSIDE_NEW_BOARD.jpg "fig:VICTORIA_DOCKSIDE_NEW_BOARD.jpg")
+
+[VICTORIA_DOCKSIDE_DIRECTORY.jpg](https://zh.wikipedia.org/wiki/File:VICTORIA_DOCKSIDE_DIRECTORY.jpg "fig:VICTORIA_DOCKSIDE_DIRECTORY.jpg")
 
 ## 建築
 
@@ -68,7 +78,7 @@ ASHRAE](https://zh.wikipedia.org/wiki/美國採暖、製冷與空調工程師學
 
 </div>
 
-## 参考資料
+## 參考資料
 
 <references />
 

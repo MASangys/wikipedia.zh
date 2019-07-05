@@ -180,7 +180,8 @@ Heat</a><br />
 
 ## 參考資料
 
-[Category:Discographies_of_American_artists](https://zh.wikipedia.org/wiki/Category:Discographies_of_American_artists "wikilink")
+[Category:美國音樂專輯](https://zh.wikipedia.org/wiki/Category:美國音樂專輯 "wikilink")
+[Category:音樂專輯列表](https://zh.wikipedia.org/wiki/Category:音樂專輯列表 "wikilink")
 
 1.
 

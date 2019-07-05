@@ -70,7 +70,7 @@
 <td><p><strong><a href="../Page/宮崎葵.md" title="wikilink">宮崎葵</a><br />
 《<a href="../Page/篤姬_(電視劇).md" title="wikilink">篤姫</a>》</strong></p></td>
 <td><p>第一位：<a href="../Page/宮崎葵.md" title="wikilink">宮崎葵</a>　　《<a href="../Page/篤姬_(電視劇).md" title="wikilink">篤姫</a>》<br />
-第二位：<a href="https://zh.wikipedia.org/wiki/天海祐希" title="wikilink">天海祐希</a>　《<a href="../Page/Around40.md" title="wikilink">Around40</a>》<br />
+第二位：<a href="../Page/天海祐希.md" title="wikilink">天海祐希</a>　《<a href="../Page/Around40.md" title="wikilink">Around40</a>》<br />
 第三位：<a href="https://zh.wikipedia.org/wiki/仲間由紀惠" title="wikilink">仲間由紀惠</a>《<a href="https://zh.wikipedia.org/wiki/極道鮮師#我miss係大佬Ⅲ" title="wikilink">我miss係大佬Ⅲ</a>》<br />
 第四位：<a href="../Page/香里奈.md" title="wikilink">香里奈</a>　　《<a href="https://zh.wikipedia.org/wiki/至愛寶貝～天使少女的育兒日記～#電視劇" title="wikilink">至愛寶貝～天使少女的育兒日記～</a>》<br />
 第五位：<a href="../Page/貫地谷栞.md" title="wikilink">貫地谷栞</a>　《》<br />

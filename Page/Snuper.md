@@ -163,6 +163,15 @@ Jekyll，我](https://zh.wikipedia.org/wiki/Hyde_Jekyll，我 "wikilink")》演�
 </ul></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p><strong>6th</strong></p></td>
+<td><p>第六張日語單曲《<strong>Come Over</strong>》</p>
+<ul>
+<li>發行日期：2019年8月14日</li>
+<li>語言：日語</li>
+</ul></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

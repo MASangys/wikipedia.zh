@@ -143,7 +143,7 @@ One](../Page/Square_One_\(BLACKPINK單曲\).md "wikilink")》。\[17\]
 </tr>
 <tr class="even">
 <td><p>第14届年度Soompi大獎</p></td>
-<td><p>最佳女歌手</p></td>
+<td><p>最佳女個人歌手</p></td>
 <td><p>Jennie</p></td>
 <td></td>
 <td></td>
@@ -155,6 +155,14 @@ One](../Page/Square_One_\(BLACKPINK單曲\).md "wikilink")》。\[17\]
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>第1届<a href="../Page/M2_X_Genie音樂獎.md" title="wikilink">M2 X Genie音樂獎</a></p></td>
+<td><p>女個人歌手獎</p></td>
+<td><p>Jennie</p></td>
+<td></td>
+<td><p>[26]</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -174,13 +182,13 @@ One](../Page/Square_One_\(BLACKPINK單曲\).md "wikilink")》。\[17\]
 <td><p>2016年</p></td>
 <td><ul>
 <li>年度一百位最美的K-Pop面孔第42名</li>
-<li>TC Candler全球100張最美面孔第22位[26]</li>
+<li>TC Candler全球100張最美面孔第22位[27]</li>
 </ul></td>
 </tr>
 <tr class="even">
 <td><p>2017年</p></td>
 <td><ul>
-<li>年度一百位最美的K-Pop面孔第32名[27]</li>
+<li>年度一百位最美的K-Pop面孔第32名[28]</li>
 <li>TC Candler全球100張最美面孔第18位</li>
 </ul></td>
 </tr>
@@ -255,7 +263,8 @@ One](../Page/Square_One_\(BLACKPINK單曲\).md "wikilink")》。\[17\]
 
 ## 外部連結
 
-  -
+  - [Jennie韓國官方網站](http://www.ygfamily.com/artist/Main.asp?LANGDIV=K&ATYPE=2&ARTIDX=77)
+
 
   -
 [Category:Jennie](https://zh.wikipedia.org/wiki/Category:Jennie "wikilink")
@@ -294,3 +303,4 @@ One](../Page/Square_One_\(BLACKPINK單曲\).md "wikilink")》。\[17\]
 25.
 26.
 27.
+28.

@@ -8,7 +8,7 @@ Buffers**是一種[序列化資料結構的协议](../Page/序列化.md "wikilin
 第三方實作支援[JavaScript](../Page/JavaScript.md "wikilink")。\[2\]
 
 **proto3**提供一個程式產生器，支援[C++](../Page/C++.md "wikilink")、[Java](../Page/Java.md "wikilink")
-(包含JavaNano)、[Python](../Page/Python.md "wikilink")、[Go](https://zh.wikipedia.org/wiki/Go_\(programming_language\) "wikilink")、[Ruby](https://zh.wikipedia.org/wiki/Ruby_\(programming_language\) "wikilink")、[Objective-C和](../Page/Objective-C.md "wikilink")[C\#](https://zh.wikipedia.org/wiki/C_Sharp_\(programming_language\) "wikilink").\[3\]從
+(包含JavaNano)、[Python](../Page/Python.md "wikilink")、[Go](../Page/Go.md "wikilink")、[Ruby](../Page/Ruby.md "wikilink")、[Objective-C和](../Page/Objective-C.md "wikilink")[C\#](https://zh.wikipedia.org/wiki/C_Sharp_\(programming_language\) "wikilink").\[3\]從
 3.0.0 Beta 2 版開始支援JavaScript。\[4\]
 
 第三方實作支援Perl、PHP、Scala和Julia.\[5\]

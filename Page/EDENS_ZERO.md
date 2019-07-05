@@ -324,6 +324,11 @@ Kindle](https://zh.wikipedia.org/wiki/Amazon_Kindle "wikilink")\[8\]。
 <td><p>ISBN 978-4-06-514881-5</p></td>
 </tr>
 <tr class="even">
+<td><p>5</p></td>
+<td><p>2019年6月17日</p></td>
+<td><p>ISBN 978-4-06-515677-3</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>

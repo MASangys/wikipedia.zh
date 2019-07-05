@@ -1,5 +1,5 @@
 **《女·人
-Woman》**是[孫盛希的第三張創作專輯](https://zh.wikipedia.org/wiki/孫盛希 "wikilink")，於2018年7月2日開始預購，2018年7月6日數位上架，7月17日實體發行\[1\]。孫盛希首度挑戰擔綱全專輯製作人，與新銳音樂製作人陳駿翔共同策劃。專輯中作詞陣容包括[姚若龍](https://zh.wikipedia.org/wiki/姚若龍 "wikilink")、[李焯雄](https://zh.wikipedia.org/wiki/李焯雄 "wikilink")、[葛大為](https://zh.wikipedia.org/wiki/葛大為 "wikilink")、[嚴云農](../Page/嚴云農.md "wikilink")、[藍小邪等](https://zh.wikipedia.org/wiki/藍小邪 "wikilink")。
+Woman》**是[孫盛希的第三張創作專輯](https://zh.wikipedia.org/wiki/孫盛希 "wikilink")，於2018年7月2日開始預購，2018年7月6日數位上架，7月17日實體發行\[1\]。孫盛希首度挑戰擔綱全專輯製作人，與新銳音樂製作人[陳駿翔共同策劃](../Page/陳駿翔.md "wikilink")。專輯中作詞陣容包括[姚若龍](https://zh.wikipedia.org/wiki/姚若龍 "wikilink")、[李焯雄](https://zh.wikipedia.org/wiki/李焯雄 "wikilink")、[葛大為](https://zh.wikipedia.org/wiki/葛大為 "wikilink")、[嚴云農](../Page/嚴云農.md "wikilink")、[藍小邪等](https://zh.wikipedia.org/wiki/藍小邪 "wikilink")。
 
 ## 曲目
 
@@ -7,18 +7,18 @@ Woman》**是[孫盛希的第三張創作專輯](https://zh.wikipedia.org/wiki/�
 
 ### 演唱會
 
-| 日期         | 名稱                          | 地點               |
-| ---------- | --------------------------- | ---------------- |
+|     日期     |             名稱              |        地點        |
+| :--------: | :-------------------------: | :--------------: |
 | 2018年8月18日 | 孫盛希【我們 漆黑中存在】Legacy concert | 永豐 Taipei Legacy |
-| 2018年8月21日 | 孫盛希【我們 漆黑中存在】 concert       | 北京疆進酒 OMNI SPACE |
-| 2018年8月23日 | 孫盛希【我們 漆黑中存在】 concert       | 上海育音堂            |
-| 2018年8月25日 | 孫盛希【我們 漆黑中存在】 concert       | 廣州中央車站           |
+| 2018年8月21日 |    孫盛希【我們 漆黑中存在】 concert    | 北京疆進酒 OMNI SPACE |
+| 2018年8月23日 |    孫盛希【我們 漆黑中存在】 concert    |      上海育音堂       |
+| 2018年8月25日 |    孫盛希【我們 漆黑中存在】 concert    |      廣州中央車站      |
 |            |                             |                  |
 
 ### 簽唱會
 
-| 日期         | 名稱                | 地點        |
-| ---------- | ----------------- | --------- |
+|     日期     |        名稱         |    地點     |
+| :--------: | :---------------: | :-------: |
 | 2018年7月21日 | 孫盛希 女·人 Woman 簽唱會 | 高雄夢時代夢想廣場 |
 |            |                   |           |
 

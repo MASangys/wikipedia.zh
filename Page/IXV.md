@@ -46,7 +46,7 @@ IXV的第一次成功，成歐洲太空科技發展帶來了巨大的進步，�
 
 [Category:歐洲太空總署](https://zh.wikipedia.org/wiki/Category:歐洲太空總署 "wikilink")
 [Category:太空飛機](https://zh.wikipedia.org/wiki/Category:太空飛機 "wikilink")
-[Category:2015年发射的人造卫星](https://zh.wikipedia.org/wiki/Category:2015年发射的人造卫星 "wikilink")
+[Category:2015年发射的太空飞行器](https://zh.wikipedia.org/wiki/Category:2015年发射的太空飞行器 "wikilink")
 
 1.
 2.

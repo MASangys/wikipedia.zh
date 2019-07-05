@@ -341,7 +341,6 @@ TV從5月2日起每週三、四中午12:00更新。港澳地區則由[亞洲電�
 [Category:翻拍電視劇](https://zh.wikipedia.org/wiki/Category:翻拍電視劇 "wikilink")
 [Category:韓國犯罪劇](https://zh.wikipedia.org/wiki/Category:韓國犯罪劇 "wikilink")
 [Category:韓國懸疑劇](https://zh.wikipedia.org/wiki/Category:韓國懸疑劇 "wikilink")
-[Category:亞洲電視外購劇集](https://zh.wikipedia.org/wiki/Category:亞洲電視外購劇集 "wikilink")
 [Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink")
 
 1.  [韓佳人產後複出！暌違6年接拍新劇：翻拍英劇《Mistresses》主演班底確定](https://www.koreastardaily.com/tc/news/103352)，韓星網，2018-03-07

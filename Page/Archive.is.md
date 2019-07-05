@@ -89,19 +89,18 @@ Machine*）的主动性[網路蜘蛛](https://zh.wikipedia.org/wiki/網路蜘蛛
 
 7.
 
-8.  [Firefox附加元件：Archiveror](https://addons.mozilla.org/firefox/addon/archiveror)
+8.
 
-9.  [Chrome線上應用程式商店：archive.is
-    Button](https://chrome.google.com/webstore/detail/archiveis-button/cgjpabpjaocpgppajkeplhbipbdippdm)
+9.
 
 10.
 11. ["archive.is"](http://mementoweb.org/depot/native/archiveis/)
     *Memento Protocol Information*. Memento Development Group. Retrieved
     17 September 2013.
 
-12. [Twitter推文](https://twitter.com/archiveis/status/623524336184524800)
+12.
 
-13. <https://twitter.com/rylorjs/status/624587735982944256>
+13.
 
 14. [archive.is - webpage
     capture](http://webcache.googleusercontent.com/custom?inlang=ja&client=pub-&hl=ja&q=cache:iKUcXEywpPAJ:http://archive.is/)
@@ -117,14 +116,12 @@ Machine*）的主动性[網路蜘蛛](https://zh.wikipedia.org/wiki/網路蜘蛛
 
 17.
 
-18. [Dear GamerGate: Please Stop Stealing Our
-    Shit](http://motherboard.vice.com/read/dear-gamergate-please-stop-stealing-our-shit)
+18.
 
 19. [Julian Assange - When Google Met
     WikiLeaks](https://pdf.yt/d/iZiFQpms8I1pKFs7)
 
-20. [Julian Assange - Google Is Not What It
-    Seems](https://wikileaks.org/google-is-not-what-it-seems/#ftn1)
+20.
 
 21.
 

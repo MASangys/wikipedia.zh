@@ -1,11 +1,8 @@
-**Xargon**（本名：**張瑋**，遊戲代號：**Xargon0731**，別名：**殺梗**）[實況主](../Page/現場直播.md "wikilink")、[電子競技](https://zh.wikipedia.org/wiki/電子競技 "wikilink")《[絕對武力](https://zh.wikipedia.org/wiki/絕對武力 "wikilink")》前[國手](https://zh.wikipedia.org/wiki/職業選手 "wikilink")。
-2004年踏入[電競圈](https://zh.wikipedia.org/wiki/電競 "wikilink")，代表[臺灣參加](../Page/臺灣.md "wikilink")
-WCG[世界電子競技大賽](https://zh.wikipedia.org/wiki/世界電子競技大賽 "wikilink")、IEM[英特爾極限高手盃](https://zh.wikipedia.org/wiki/英特爾極限高手盃 "wikilink")、ACON5世界電腦遊戲大賽、[ESWC](https://zh.wikipedia.org/wiki/ESWC "wikilink")
-等國際賽事，於服兵役後退居幕後。
+**Xargon**（本名：**張瑋**，遊戲代號：**Xargon0731**，別名：**殺梗**），台湾[實況主](../Page/現場直播.md "wikilink")、[電子競技](https://zh.wikipedia.org/wiki/電子競技 "wikilink")《[絕對武力](https://zh.wikipedia.org/wiki/絕對武力 "wikilink")》前職業選手。2004年踏入[電競圈](https://zh.wikipedia.org/wiki/電競 "wikilink")，代表[臺灣參加WCG](../Page/臺灣.md "wikilink")[世界電子競技大賽](https://zh.wikipedia.org/wiki/世界電子競技大賽 "wikilink")、IEM[英特爾極限高手盃](https://zh.wikipedia.org/wiki/英特爾極限高手盃 "wikilink")、ACON5世界電腦遊戲大賽、[ESWC等國際賽事](https://zh.wikipedia.org/wiki/ESWC "wikilink")，於服兵役後退居幕後。
 
-退役後曾擔任[台灣電子競技聯盟](https://zh.wikipedia.org/wiki/台灣電子競技聯盟 "wikilink")（TeSL）賽事部部長、[Garena電競館館長](https://zh.wikipedia.org/wiki/Garena "wikilink")、電競網站[4Gamers節目企劃](../Page/4Gamers.md "wikilink")、[eXtreme
+退役後曾擔任[台灣電子競技聯盟](https://zh.wikipedia.org/wiki/台灣電子競技聯盟 "wikilink")（TeSL）賽事部部長、[Garena電競館館長](https://zh.wikipedia.org/wiki/Garena "wikilink")、電競網站[4Gamers節目企劃](../Page/4Gamers.md "wikilink")、eXtreme
 Gamers eSport
-Club](https://www.facebook.com/XGamersESportClub/)副領隊，同時也是台灣[Twitch知名實況主](../Page/Twitch.md "wikilink")，平均每個小時約3000人在線觀看，於2016年5月1日起正式轉為全職實況主，常玩[Steam新遊戲](../Page/Steam.md "wikilink")，[遊戲類型風格廣](https://zh.wikipedia.org/wiki/電子遊戲類型 "wikilink")，除了本身擅長的[FPS類](https://zh.wikipedia.org/wiki/FPS "wikilink")，其他類型遊戲也都曾出現在實況上，其中因駕駛像是汽車、聯結車等操作造成撞車、翻車和停車障礙，帶給觀眾印象深刻的表演效果，而獲得常態性迴響。\[1\]
+Club副領隊，同時也是台灣[Twitch知名實況主](../Page/Twitch.md "wikilink")，於2016年5月1日起正式轉為全職實況主。常玩[Steam新遊戲](../Page/Steam.md "wikilink")，[遊戲類型風格廣](https://zh.wikipedia.org/wiki/電子遊戲類型 "wikilink")，除了本身擅長的[FPS類](https://zh.wikipedia.org/wiki/FPS "wikilink")，其他類型遊戲也都曾出現在實況上，其中因駕駛像是汽車、聯結車等操作造成撞車、翻車和停車障礙，帶給觀眾印象深刻的表演效果，而獲得常態性迴響。\[1\]
 
 ## 職業生涯成績
 
@@ -162,14 +159,6 @@ Club](https://www.facebook.com/XGamersESportClub/)副領隊，同時也是台灣
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>SF 個人賽 台北區</p></td>
-<td><center>
-<p>第2名</p>
-</center></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p>SF 個人賽 宜蘭區</p></td>
 <td><center>
 <p>第2名</p>
@@ -177,7 +166,7 @@ Club](https://www.facebook.com/XGamersESportClub/)副領隊，同時也是台灣
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>SF 團體賽 台中網路聖堂</p></td>
 <td><center>
 <p>第1名</p>
@@ -185,7 +174,7 @@ Club](https://www.facebook.com/XGamersESportClub/)副領隊，同時也是台灣
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>SF 團體賽 台北麗華行</p></td>
 <td><center>
 <p>第1名</p>
@@ -193,7 +182,7 @@ Club](https://www.facebook.com/XGamersESportClub/)副領隊，同時也是台灣
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>SF 第一屆網咖盟主爭霸賽</p></td>
 <td><center>
 <p>第1名</p>
@@ -201,7 +190,7 @@ Club](https://www.facebook.com/XGamersESportClub/)副領隊，同時也是台灣
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>SF 第一屆世界總決賽</p></td>
 <td><center>
 <p>第3名</p>
@@ -209,7 +198,7 @@ Club](https://www.facebook.com/XGamersESportClub/)副領隊，同時也是台灣
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>CS 彩虹 3C 死鬥個人賽 台北區</p></td>
 <td><center>
 <p>第1名</p>
@@ -217,7 +206,7 @@ Club](https://www.facebook.com/XGamersESportClub/)副領隊，同時也是台灣
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>WCG 三合一大賽</p></td>
 <td><center>
 <p>第1名</p>
@@ -225,7 +214,7 @@ Club](https://www.facebook.com/XGamersESportClub/)副領隊，同時也是台灣
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><center>
 <p>2009年</p>
 </center></td>
@@ -235,7 +224,7 @@ Club](https://www.facebook.com/XGamersESportClub/)副領隊，同時也是台灣
 </center></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>TwPokerGamer 北區 Dota Allstar 賽</p></td>
 <td><center>
 <p>第1名</p>
@@ -243,7 +232,7 @@ Club](https://www.facebook.com/XGamersESportClub/)副領隊，同時也是台灣
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>IEM 亞洲總決賽</p></td>
 <td><center>
 <p>第7~8名</p>
@@ -251,7 +240,7 @@ Club](https://www.facebook.com/XGamersESportClub/)副領隊，同時也是台灣
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -264,22 +253,10 @@ Club](https://www.facebook.com/XGamersESportClub/)副領隊，同時也是台灣
 
 ### 2016年
 
-<div class="mw-collapsible mw-collapsed" data-collapsetext="點此隱藏內文" data-expandtext="點此開啟內文">
-
 **01月**
 
   - 26日 參加《戰爭學院》人格保衛戰，主持人[SoBaDRush](../Page/張軒齊.md "wikilink")。\[2\]
-  - 29日 TGS台北電玩展 IEM/Zowie/Twitch攤位。
-  - 30日 TGS台北電玩展
-    [攤位體驗分享](https://www.facebook.com/pg/Xargonlol/videos/?ref=page_internal)。
-  - 30日 TGS台北電玩展 zowie攤位，播報小鬼老實說、電競包子-曾昊宇，與小咪、Gura、Ying-Tsang "EygisK"
-    Huang。
-  - 31日 TGS台北電玩展 Wargaming攤位。
   - 31日 TGS台北電玩展 簽名見面會。
-
-**02月**
-
-  - 01日 TGS台北電玩展 googleplay攤位《夢三國》，與[鳥屎](../Page/蘇志翔.md "wikilink")。
 
 **03月**
 
@@ -311,19 +288,15 @@ Club](https://www.facebook.com/XGamersESportClub/)副領隊，同時也是台灣
 
   - 05日
     與[統神於台北三創生活園區參加](https://zh.wikipedia.org/wiki/張嘉航 "wikilink")《HIT：英雄之戰》活動。\[5\]
-  - 08日 受邀於[明新科技大學演講](../Page/明新科技大學.md "wikilink") :
-    [開拓夢想的第二站](https://www.facebook.com/MUSTESC/photos/a.419739128129160.1073741828.322870867815987/702213853215018/?type=3&theater)。
+  - 08日 受邀於[明新科技大學演講](../Page/明新科技大學.md "wikilink") : 開拓夢想的第二站。
   - 12日 媒體報導受訪\[中天調查報告:雲端上的競技場\]。
   - 14～16日 受邀參加美國[E3
     2016](https://zh.wikipedia.org/wiki/E3_2016 "wikilink")，與Joeman、QK癮電玩（qksniper／劉彥宏），並於媒體報導中受訪【非凡新聞
     楊智捷 +范育禎 】 -"2016美國E3電玩展" 實況主Xargon 試玩給您瞧。
-  - 22日 《eSport
-    人物誌「就肆電競」》[專訪](https://www.youtube.com/watch?v=IqWGFX1QZ3Y)。
+  - 22日 《eSport 人物誌「就肆電競」》專訪。
 
 **07月**
 
-  - 09日 [新電玩快打](../Page/電玩快打.md "wikilink") -
-    [實況主要來大解密](https://www.youtube.com/watch?v=uFIawQ4DtrU)來賓。
   - 17日 隊伍「訂閱寺典韭韭鎂」挑戰聯賽《百萬獎金網咖盃》取得優勝。
   - 22日 獲[Ahq e-Sports
     Club冠名贊助所屬隊伍](https://zh.wikipedia.org/wiki/Ahq_e-Sports_Club "wikilink")「訂閱寺典韭韭鎂」。\[6\]
@@ -376,25 +349,14 @@ Club](https://www.facebook.com/XGamersESportClub/)副領隊，同時也是台灣
 **12月**
 
   - 10日、11日 於YouTube Gaming鬥陣特攻亞太邀請賽擔任賽評。\[12\]
-  - 22日 公司年度自辦"[4GAMERS 2016
-    聖誕禮物大亂鬥](https://www.facebook.com/4GamersTaiwan/posts/726620457503806)"，和Mist小嵐、內子宮崎葵搭配主持。
-
-</div>
 
 ### 2017年
 
-<div class="mw-collapsible mw-collapsed" data-collapsetext="點此隱藏內文" data-expandtext="點此開啟內文">
-
 **01月**
 
-  - **01日
-    與[優格姐姐](https://www.facebook.com/photo.php?fbid=852412338233688&set=a.110784159063180.15412.100003947889563&type=3&theater)公布[喜訊](https://www.facebook.com/Xargonlol/photos/a.443027419148407.1073741827.433144256803390/1145805732203902/?type=3&theater)**。\[13\]\[14\]
+  - 1日 與優格姐姐公布喜訊。\[13\]\[14\]
   - 20日 2017台北電玩展《七龍珠 異戰2》舞台活動、《For Honor》舞台活動。\[15\]
-  - 21日
-    2017台北電玩展《[空戰奇兵7](https://zh.wikipedia.org/wiki/空戰奇兵7 "wikilink")》來賓，與製作人「河野一聰」、Twitch《便當來囉！Twitch放飯食況》、ZOWIE《OverWatch挑戰賽》。
-  - 22日 2017台北電玩展《加速世界 VS 刀劍神域 千年的黃昏》、《大蜜蜂 復仇之戰 Galaga Wars》來賓。
-  - 23日
-    2017台北電玩展《獵神》實況主表演賽、[萬代南夢宮攤位導覽FB直播](https://www.facebook.com/Xargonlol/videos/1165673833550425/)、Twitch夥伴粉絲[見面會](https://www.facebook.com/TwitchTW/photos/a.1551761078461493.1073741828.1550606871910247/1651737578463842/?type=3&theater)。\[16\]
+  - 23日 2017台北電玩展《獵神》實況主表演賽、Twitch夥伴粉絲見面會。\[16\]
 
 **04月**
 
@@ -403,17 +365,10 @@ Club](https://www.facebook.com/XGamersESportClub/)副領隊，同時也是台灣
 **05月**
 
   - 05日 《ETtoday遊戲雲 | 鳳梨不累OnlinePlay 》: 宅男公敵殺梗Xargon 準爸爸的大考驗。\[18\]
-  - 31日 《絕地求生》與電競選手Destiny雙排表演賽於汐止富信大飯店。
 
 **06月**
 
-  - 01日 《[【NVIDIA @ 2017
-    Computex】](https://www.facebook.com/NVIDIATaiwan/videos/10155555538821564/?hc_ref=PAGES_TIMELINE)》特派員:
-    \[小熊 Yuniko 以及 Xargon 現場直擊\]。
-  - 03日 《[【NVIDIA @ 2017
-    Computex】限量六月三日粉絲專屬導覽團](https://www.facebook.com/Xargonlol/photos/a.443027419148407.1073741827.433144256803390/1298467256937748/?type=3&theater)》\[和實況主人氣表姊小葵、[鳥屎](../Page/蘇志翔.md "wikilink")、Xargon、沁沁以及[SoBaDRush](../Page/張軒齊.md "wikilink")\]。
-  - 12日
-    《[【公益活動】與優格姊姊＆殺梗吃飯聊毛孩](https://www.facebook.com/events/134961570398047/?hc_location=ufi)》反棄養公益聚餐。
+  - 12日 《【公益活動】與優格姊姊＆殺梗吃飯聊毛孩》反棄養公益聚餐。
   - 14日 [Asus](../Page/華碩.md "wikilink")【[ZenFone
     AR上市窩聚日](../Page/華碩ZenFone_AR.md "wikilink")】，遊戲體驗介紹。\[19\]
 
@@ -443,13 +398,8 @@ Club](https://www.facebook.com/XGamersESportClub/)副領隊，同時也是台灣
   - 09日 掛名[ahq](https://zh.wikipedia.org/wiki/Ahq電子競技俱樂部 "wikilink")，聯同
     KO、溫拿石頭（W1nner）、以及澳門實況主
     Waisun，率隊參加中國《[絕地求生](../Page/絕地求生.md "wikilink")》電競賽。\[21\]
-  - 24日 [WIRFORCE
-    2017於花博爭艷館](../Page/WirForce.md "wikilink")，率隊參加[ahq](https://zh.wikipedia.org/wiki/Ahq電子競技俱樂部 "wikilink")
-    [PUBG戰隊成立大會](../Page/絕地求生.md "wikilink")。
-  - 25日 [WIRFORCE
-    2017於](../Page/WirForce.md "wikilink")[HyperX攤位](../Page/金士頓科技.md "wikilink")，[PUBG表演賽](../Page/絕地求生.md "wikilink")。
-  - 25日 [WIRFORCE
-    2017於](../Page/WirForce.md "wikilink")[Asus攤位](../Page/華碩.md "wikilink")，[ahq戰隊簽名會](https://zh.wikipedia.org/wiki/Ahq電子競技俱樂部 "wikilink")。
+  - 24日 [WIRFORCE 2017於花博爭艷館](../Page/WirForce.md "wikilink")，率隊參加ahq
+    PUBG戰隊成立大會。
   - 25日 [WIRFORCE 2017](../Page/WirForce.md "wikilink")
     [AORUS](../Page/AORUS.md "wikilink") X
     [PUBG](../Page/絕地求生.md "wikilink") FIGHT 總決賽。\[22\]
@@ -464,11 +414,8 @@ Club](https://www.facebook.com/XGamersESportClub/)副領隊，同時也是台灣
   - 12日
     受邀參加[Xbox](../Page/Xbox.md "wikilink")《[PUBG](../Page/絕地求生.md "wikilink")🐔挑戰賽》實況主同樂活動。
   - 18日 《加加屋 [PUBG](../Page/絕地求生.md "wikilink") 十二月 線上賽》 第三週，擔任賽評。
-  - 20日 公司年度自辦"[4GAMERS 2017
-    聖誕禮物大亂鬥](https://www.facebook.com/4GamersTaiwan/posts/980581108774405)"，和內子宮崎葵搭配於上半場主持。
+  - 20日 公司年度自辦"4GAMERS 2017 聖誕禮物大亂鬥"，和內子宮崎葵搭配於上半場主持。
   - 26日 受邀參加[Xbox](../Page/Xbox.md "wikilink")《今晚吃個雞吧》實況主同樂活動。
-
-</div>
 
 ### 2018年
 

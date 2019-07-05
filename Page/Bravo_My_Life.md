@@ -618,13 +618,13 @@ Life**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[S
   - [Bravo My
     Life-NAVER](https://m.search.naver.com/search.naver?sm=mtb_sug.top&where=m&query=%EB%B8%8C%EB%9D%BC%EB%B3%B4+%EB%A7%88%EC%9D%B4+%EB%9D%BC%EC%9D%B4%ED%94%84&oquery=%EB%82%98%EC%81%9C+%EB%85%80%EC%84%9D%EB%93%A4+%3A+%EC%95%85%EC%9D%98+%EB%8F%84%EC%8B%9C&tqi=TEn2IlpVuqossbUkErZssssssnZ-271182&qdt=0&acq=%EB%B8%8C%EB%9D%BC%EB%B3%B4+%EB%A7%88%EC%9D%B4+%EB%9D%BC%EC%9D%B4%ED%94%84&acr=1)
   - [香港有線電視官方網站](http://epg.i-cable.com/ci/program/intro/551/美好人生)
-  - [八大戲劇台
-    喝采的人生官方網站](https://www.gtv.com.tw/Program/P2019031902/index.html)
+  - [八大戲劇台官方網站](https://www.gtv.com.tw/Program/P2019031902/index.html)
 
 [Category:2017年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2017年韓國電視劇集 "wikilink")
 [Category:電視台背景作品](https://zh.wikipedia.org/wiki/Category:電視台背景作品 "wikilink")
 [Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink")
 [Category:八大電視外購韓劇](https://zh.wikipedia.org/wiki/Category:八大電視外購韓劇 "wikilink")
+[Category:奇妙電視外購劇集](https://zh.wikipedia.org/wiki/Category:奇妙電視外購劇集 "wikilink")
 
 1.
 2.

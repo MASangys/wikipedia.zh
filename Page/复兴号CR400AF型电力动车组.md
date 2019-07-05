@@ -1,4 +1,4 @@
-**复兴号CR400AF型电力动车组**，是[中国高速铁路](https://zh.wikipedia.org/wiki/中国高速铁路 "wikilink")[复兴号的车型之一](../Page/复兴号电力动车组.md "wikilink")，是[中国铁路总公司向](../Page/中国铁路总公司.md "wikilink")[中车青岛四方机车车辆订购的](../Page/中车青岛四方机车车辆.md "wikilink")[高速铁路](https://zh.wikipedia.org/wiki/中国高速铁路 "wikilink")[动车组](https://zh.wikipedia.org/wiki/电力动车组 "wikilink")\[1\]。中国铁路总公司将所有由[中国中车自主研发](../Page/中国中车.md "wikilink")，完全具有自主知识产权，营运于中国铁路客运专线及高速铁路的电力动车组均命名为「**[复兴号](../Page/复兴号电力动车组.md "wikilink")**」\[2\]。
+**复兴号CR400AF型电力动车组**，是[中国高速铁路](https://zh.wikipedia.org/wiki/中国高速铁路 "wikilink")[复兴号的车型之一](../Page/复兴号电力动车组.md "wikilink")，是[中国国家铁路集团有限公司向](https://zh.wikipedia.org/wiki/中国国家铁路集团有限公司 "wikilink")[中车青岛四方机车车辆订购的](../Page/中车青岛四方机车车辆.md "wikilink")[高速铁路](https://zh.wikipedia.org/wiki/中国高速铁路 "wikilink")[动车组](https://zh.wikipedia.org/wiki/电力动车组 "wikilink")\[1\]。中国国家铁路集团有限公司将所有由[中国中车自主研发](../Page/中国中车.md "wikilink")，完全具有自主知识产权，营运于中国铁路客运专线及高速铁路的电力动车组均命名为「**[复兴号](../Page/复兴号电力动车组.md "wikilink")**」\[2\]。
 
 ## 发展历程
 
@@ -164,48 +164,56 @@ Station.jpg|caption3=配属广州局集团的CR400AF-A担当G6511次列车停靠
 <td><p>2183～2185装有LKJ列车运行监控装置</p></td>
 </tr>
 <tr class="odd">
-<td><p>25</p></td>
-<td><p>2003、2004、2007、2008、2010、2013、2015～2017、2021、2023、2030、2032、2034、2048～2052、2058、2142～2146</p></td>
+<td><p>24</p></td>
+<td><p>2001～2003、2007～2010、2014～2017、2023、2025、2030、2032、2034、2047～2052、2057、2058</p></td>
 <td><p>北京南</p></td>
 <td><p><a href="../Page/京沪高速铁路.md" title="wikilink">京沪高速铁路</a>、<a href="../Page/京广高速铁路.md" title="wikilink">京广高速铁路</a>、<a href="../Page/武九客运专线.md" title="wikilink">武九客运专线</a>、<a href="https://zh.wikipedia.org/wiki/昌九城际铁路" title="wikilink">昌九城际铁路</a>、<a href="../Page/合福客运专线.md" title="wikilink">合福客运专线</a>、<a href="../Page/石太客运专线.md" title="wikilink">石太客运专线</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>15</p></td>
+<td><p>11</p></td>
 <td><p>0207、0208、<br />
-2001、2002、2005、2006、2009、2011、2012、2014、2025、2031、2033、2047、2057</p></td>
+2004～2006、2011～2013、2021、2031、2033</p></td>
 <td><p>石家庄</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/京港客运专线" title="wikilink">京广-广深港高铁</a>、<a href="https://zh.wikipedia.org/wiki/柳南客运专线" title="wikilink">柳南客运专线</a>、<a href="../Page/衡柳铁路.md" title="wikilink">衡柳铁路</a>、<a href="../Page/徐兰客运专线.md" title="wikilink">徐兰客运专线</a>、<a href="../Page/京沪高速铁路.md" title="wikilink">京沪高速铁路</a></p></td>
 <td><p>0207、0208为样版车。</p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>5</p></td>
+<td><p>2142～2146</p></td>
+<td><p>北京西</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/广州局集团" title="wikilink">广州局集团</a></p></td>
-<td><p>26</p></td>
+<td><p>25</p></td>
 <td><p>1006～1018、<br />
-2022、2024、2026～2028、2040、2041、2044、2046、2055、2062～2064</p></td>
+2022、2024、2026～2028、2040、2044、2046、2062～2064、2130</p></td>
 <td><p>广州南</p></td>
 <td><p>京广-广深港高铁、<a href="../Page/徐兰客运专线.md" title="wikilink">徐兰客运专线</a>、<a href="https://zh.wikipedia.org/wiki/沪汉蓉客运专线" title="wikilink">沪汉蓉客运专线</a>、<a href="../Page/沪昆客运专线.md" title="wikilink">沪昆客运专线</a></p></td>
 <td><p>1006原车号1001。</p></td>
 </tr>
-<tr class="even">
-<td><p>13</p></td>
-<td><p>2035～2039、2043、2045、2053、2054、2056、2059～2061</p></td>
+<tr class="odd">
+<td><p>15</p></td>
+<td><p>2035～2039、2041、2043、2045、2053～2056、2059～2061</p></td>
 <td><p>深圳北</p></td>
 <td><p>京广-广深港高铁、徐兰客运专线</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p>6</p></td>
-<td><p>2042、2129～2133</p></td>
+<tr class="even">
+<td><p>5</p></td>
+<td><p>2042、2129、2131～2133</p></td>
 <td><p>長沙南</p></td>
 <td><p>京广-广深港高铁、沪昆客运专线</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/济南局集团" title="wikilink">济南局集团</a></p></td>
 <td><p>7</p></td>
 <td><p>2085～2089、2162、2163</p></td>
@@ -213,7 +221,7 @@ Station.jpg|caption3=配属广州局集团的CR400AF-A担当G6511次列车停靠
 <td><p><a href="../Page/青荣城际铁路.md" title="wikilink">青荣城际铁路</a>、<a href="../Page/济青高速铁路.md" title="wikilink">济青高速铁路</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>13</p></td>
 <td><p>2090～2094、2134～2141</p></td>
 <td><p>济南东</p></td>
@@ -221,7 +229,7 @@ Station.jpg|caption3=配属广州局集团的CR400AF-A担当G6511次列车停靠
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/武汉局集团" title="wikilink">武汉局集团</a></p></td>
 <td><p>20</p></td>
 <td><p>2124～2128、2147～2161</p></td>
@@ -229,7 +237,7 @@ Station.jpg|caption3=配属广州局集团的CR400AF-A担当G6511次列车停靠
 <td><p><a href="../Page/京广高速铁路.md" title="wikilink">京广高速铁路</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/中国铁路总公司.md" title="wikilink">中国铁路总公司</a></p></td>
 <td><p>3</p></td>
 <td><p>2018、2019、2808</p></td>
@@ -237,7 +245,7 @@ Station.jpg|caption3=配属广州局集团的CR400AF-A担当G6511次列车停靠
 <td></td>
 <td><p>公务车，配属专運处。2808测试中。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>colspan = 6 | <font color=white><strong>CR400AF-A</strong></font></p></td>
 <td></td>
 <td></td>
@@ -245,7 +253,7 @@ Station.jpg|caption3=配属广州局集团的CR400AF-A担当G6511次列车停靠
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/广州局集团" title="wikilink">广州局集团</a></p></td>
 <td><p>20</p></td>
 <td><p>1001～1005、<br />
@@ -254,7 +262,7 @@ Station.jpg|caption3=配属广州局集团的CR400AF-A担当G6511次列车停靠
 <td><p>京广-广深港高铁、<a href="../Page/渝贵铁路.md" title="wikilink">渝贵铁路</a>、<a href="../Page/贵广客运专线.md" title="wikilink">贵广客运专线</a>、<a href="../Page/合蚌客运专线.md" title="wikilink">合蚌客运专线</a>、<a href="https://zh.wikipedia.org/wiki/沪汉蓉客运专线" title="wikilink">沪汉蓉客运专线</a></p></td>
 <td><p>1001原车号1002。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>15</p></td>
 <td><p>2069、2073～2077、2079、2080、2095～2100、2103</p></td>
 <td><p>长沙南</p></td>
@@ -262,7 +270,7 @@ Station.jpg|caption3=配属广州局集团的CR400AF-A担当G6511次列车停靠
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/济南局集团" title="wikilink">济南局集团</a></p></td>
 <td><p>8</p></td>
 <td><p>2101、2102、2107～2110、2114、2115</p></td>
@@ -270,7 +278,7 @@ Station.jpg|caption3=配属广州局集团的CR400AF-A担当G6511次列车停靠
 <td><p>胶济客运专线、青荣城际铁路、济青高速铁路、京沪高速铁路、<a href="../Page/宁杭客运专线.md" title="wikilink">宁杭客运专线</a>、沪昆客运专线、<a href="../Page/金温铁路.md" title="wikilink">金温铁路</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>3</p></td>
 <td><p>2111～2113</p></td>
 <td><p>青岛</p></td>
@@ -278,7 +286,7 @@ Station.jpg|caption3=配属广州局集团的CR400AF-A担当G6511次列车停靠
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -286,7 +294,7 @@ Station.jpg|caption3=配属广州局集团的CR400AF-A担当G6511次列车停靠
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>colspan = 6 | <font color=white><strong>CR400AF-B</strong></font></p></td>
 <td></td>
 <td></td>
@@ -294,7 +302,7 @@ Station.jpg|caption3=配属广州局集团的CR400AF-A担当G6511次列车停靠
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/北京局集团" title="wikilink">北京局集团</a></p></td>
 <td><p>8</p></td>
 <td><p>2116～2123</p></td>

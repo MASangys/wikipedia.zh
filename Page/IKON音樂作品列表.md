@@ -478,6 +478,7 @@ Dig.</a></p></td>
 <li></li>
 <li></li>
 <li></li>
+<li></li>
 </ul>
 <p></ref></p></td>
 <td></td>
@@ -495,19 +496,12 @@ Dig.</a></p></td>
 <li></li>
 <li></li>
 <li></li>
-</ul>
-<ul>
+<li></li>
 <li></li>
 </ul>
 <p></ref></p></td>
 <td><p><br />
-<ref>告示牌韓國流行音樂百大單曲排行榜：</p>
-<ul>
-<li></li>
-<li></li>
-<li></li>
-</ul>
-<p></ref></p></td>
+[1]</p></td>
 <td><p><br />
 <ref>日本公信榜專輯排行榜：</p>
 <ul>
@@ -632,20 +626,27 @@ Dig.</a></p></td>
 <td><p>—</p></td>
 </tr>
 <tr class="even">
+<td><p>"I'm OK"</p></td>
+<td><p>2019</p></td>
+<td><p>31</p></td>
+<td><p>25</p></td>
+<td><p>—</p></td>
+</tr>
+<tr class="odd">
 <td><p>Japanese</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>"<a href="https://zh.wikipedia.org/wiki/Dumb_&amp;_Dumber_(song)" title="wikilink">Dumb &amp; Dumber</a>"</p></td>
 <td><p>2016</p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><small>"—" 表示該專輯/單曲未有在榜上排名或未有資料或沒有在當地發行</small></p></td>
 <td></td>
 <td></td>
@@ -887,3 +888,5 @@ Dig.</a></p></td>
 [Category:iKON](https://zh.wikipedia.org/wiki/Category:iKON "wikilink")
 [Category:韓國音樂作品列表](https://zh.wikipedia.org/wiki/Category:韓國音樂作品列表 "wikilink")
 [Category:流行音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行音樂作品列表 "wikilink")
+
+1.

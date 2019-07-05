@@ -1136,14 +1136,14 @@
 <tr class="odd">
 <td><p>2015年10月20日</p></td>
 <td><p>Like OOH-AHH</p></td>
-<td><p>The Story Begins</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/The_Story_Begins" title="wikilink">The Story Begins</a>》</p></td>
 <td><p>娜璉</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2016年4月25日</p></td>
 <td><p>珍貴的愛情</p></td>
-<td><p>PAGE TWO</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/Page_Two_(TWICE迷你專輯)" title="wikilink">PAGE TWO</a>》</p></td>
 <td><p>彩瑛</p></td>
 <td></td>
 </tr>
@@ -1158,21 +1158,21 @@
 <tr class="even">
 <td><p>2016年10月24日</p></td>
 <td><p>Jelly Jelly</p></td>
-<td><p>TWICEcoaster: LANE 1</p></td>
+<td><p>《<a href="../Page/TWICEcoaster:_LANE_1.md" title="wikilink">TWICEcoaster: LANE 1</a>》</p></td>
 <td><p>多賢</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2017年5月15日</p></td>
 <td><p>Eye Eye Eyes</p></td>
-<td><p>SIGNAL</p></td>
+<td><p>《<a href="../Page/SIGNAL.md" title="wikilink">SIGNAL</a>》</p></td>
 <td><p>志效、彩瑛</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2017年10月30日</p></td>
 <td><p>LIKEY</p></td>
-<td><p>Twicetagram</p></td>
+<td><p>《<a href="../Page/Twicetagram.md" title="wikilink">Twicetagram</a>》</p></td>
 <td><p>Momo</p></td>
 <td></td>
 </tr>
@@ -1223,7 +1223,7 @@
 <tr class="odd">
 <td><p>2018年4月9日</p></td>
 <td><p>Sweet Talker</p></td>
-<td><p>What Is Love</p></td>
+<td><p>《<a href="../Page/What_is_Love?.md" title="wikilink">What is Love?</a>》</p></td>
 <td><p>定延、彩瑛</p></td>
 <td></td>
 </tr>
@@ -1237,14 +1237,14 @@
 <tr class="odd">
 <td><p>2018年7月9日</p></td>
 <td><p>Shot thru the heart</p></td>
-<td><p>Summer Nights</p></td>
+<td><p>《<a href="../Page/Summer_Nights.md" title="wikilink">Summer Nights</a>》</p></td>
 <td><p>Momo、Sana、Mina</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2018年11月5日</p></td>
 <td><p>LALALA</p></td>
-<td><p>YES or YES</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/YES_or_YES" title="wikilink">YES or YES</a>》</p></td>
 <td><p>定延</p></td>
 <td></td>
 </tr>
@@ -1272,7 +1272,7 @@
 <tr class="even">
 <td><p>2019年4月22日</p></td>
 <td><p>GIRLS LIKE US</p></td>
-<td><p>FANCY YOU</p></td>
+<td><p>《<a href="../Page/FANCY_YOU.md" title="wikilink">FANCY YOU</a>》</p></td>
 <td><p>志效</p></td>
 <td></td>
 </tr>
@@ -1298,10 +1298,10 @@
 <td></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>2019年7月17日</p></td>
+<td><p>HAPPY HAPPY</p></td>
+<td><p>《<a href="../Page/HAPPY_HAPPY_(TWICE單曲).md" title="wikilink">HAPPY HAPPY</a>》</p></td>
+<td><p>彩瑛</p></td>
 <td></td>
 </tr>
 </tbody>

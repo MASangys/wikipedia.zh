@@ -384,8 +384,8 @@ Romance**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikili
 
 ## 記事
 
-  - 此劇是[金所炫成年後的第一部作品](https://zh.wikipedia.org/wiki/金所炫 "wikilink")。
-  - 此劇是[金所炫及](https://zh.wikipedia.org/wiki/金所炫 "wikilink")[尹斗俊繼廣告合作及電視劇](../Page/尹斗俊.md "wikilink")《[打架吧鬼神](../Page/打架吧鬼神.md "wikilink")》主角及客串演出後的合作。
+  - 此劇是[金所泫成年後的第一部作品](../Page/金所泫.md "wikilink")。
+  - 此劇是[金所泫及](../Page/金所泫.md "wikilink")[尹斗俊繼廣告合作及電視劇](../Page/尹斗俊.md "wikilink")《[打架吧鬼神](../Page/打架吧鬼神.md "wikilink")》主角及客串演出後的合作。
 
 ## 腳註
 

@@ -95,8 +95,8 @@ Romeo1[反射式瞄準鏡](../Page/紅點鏡.md "wikilink") \[6\] 。
 2017年1月19日，SIG Sauer P320模組化手槍系統（Modular Handgun
 System，簡稱：MHS）勝出了美軍的模組化手槍系統招標，並將會以“M17”的名義在軍隊中服役。儘管該手槍仍然發射9毫米魯格彈，合約中容許陸軍和其他部門購買SIG
 Sauer所推介的XM1152全金屬披甲彈和XM1153特別用途彈藥 \[10\]\[11\]
-。該手槍發射的彈種為“溫徹斯特披甲[中空彈](../Page/中空彈.md "wikilink")”。2017年5月，美國陸軍宣佈第一個接收M17的單位為[第101空降師](https://zh.wikipedia.org/wiki/第101空降師 "wikilink")，這些手槍已經在11月末列裝該部隊\[12\]。與此同時，其餘美軍部門也表明他們希望引進這款手槍，意味著M17將成為整個美軍部隊的制式手槍。目前美軍打算購入一共421,000枝手槍；其中195,000枝手槍為陸軍使用、130,000枝為[空軍使用](https://zh.wikipedia.org/wiki/美國空軍 "wikilink")、61,000枝為[海軍使用](../Page/美國海軍.md "wikilink")（只採用XM18緊湊型），35,000枝為[海軍陸戰隊使用](https://zh.wikipedia.org/wiki/美國海軍陸戰隊 "wikilink")
-\[13\]\[14\] 。
+。該手槍發射的彈種為“溫徹斯特披甲[中空彈](../Page/中空彈.md "wikilink")”。2017年5月，美國陸軍宣佈第一個接收M17的單位為[第101空降師](https://zh.wikipedia.org/wiki/第101空降師 "wikilink")，這些手槍已經在11月末列裝該部隊\[12\]。與此同時，其餘美軍部門也表明他們希望引進這款手槍，意味著M17將成為整個美軍部隊的制式手槍。目前美軍打算購入一共421,000枝手槍；其中195,000枝手槍為陸軍使用、130,000枝為[空軍使用](https://zh.wikipedia.org/wiki/美國空軍 "wikilink")、61,000枝為[海軍使用](../Page/美國海軍.md "wikilink")（只採用XM18緊湊型），35,000枝為[海軍陸戰隊使用](https://zh.wikipedia.org/wiki/美國海軍陸戰隊 "wikilink")（採用M18）\[13\]\[14\]
+。
 
 ## 潛在的掉落擊發風險
 
@@ -111,7 +111,11 @@ Sauer所推介的XM1152全金屬披甲彈和XM1153特別用途彈藥 \[10\]\[11\
 
   -   - [泰國皇家警察](https://zh.wikipedia.org/wiki/泰國皇家警察 "wikilink")（152,468枝P320SP\[22\]\[23\]）
 
-  -   - [美國陸軍](https://zh.wikipedia.org/wiki/美國陸軍 "wikilink")\[24\]\[25\]
+  -   - [美國陸軍](https://zh.wikipedia.org/wiki/美國陸軍 "wikilink")（M17）\[24\]\[25\]
+
+      - [美國海軍陸戰隊](https://zh.wikipedia.org/wiki/美國海軍陸戰隊 "wikilink")（M18）
+
+      - [美國空軍](https://zh.wikipedia.org/wiki/美國空軍 "wikilink")（M18）
 
       - \[26\]
 

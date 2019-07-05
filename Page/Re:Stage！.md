@@ -205,6 +205,8 @@ for Dream」的活動會場中宣布改編為電視動畫\[2\]。
 
   - 片頭曲「Don’t think,\!\!」
     作詞：高瀨愛虹，作曲、編曲：伊藤翼，主唱：[KiRaRe](https://zh.wikipedia.org/wiki/#KiRaRe "wikilink")
+  - 片尾曲「憧れFuture Sign（Piano Strings Arrange）」
+    作詞：，作曲、編曲：伊藤翼，主唱：KiRaRe
 
 ## 參考資料
 

@@ -739,7 +739,7 @@ Origin\>；美国巡演期间出席了不少当地电视和电台节目，包括
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2019年6月22－24日</p></td>
+<td><p>2019年6月21－23日</p></td>
 <td><p><a href="../Page/曼谷.md" title="wikilink">曼谷站</a></p></td>
 <td></td>
 <td></td>

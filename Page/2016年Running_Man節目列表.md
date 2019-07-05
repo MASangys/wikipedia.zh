@@ -1252,7 +1252,7 @@ Gary獲得由Running Man成員們贈送的紀念品[36]</p></td>
 <small>（463）</small></p></td>
 <td><p>12月25日<br />
 <small>（12月5日）</small></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金所炫" title="wikilink">金所炫</a></p></td>
+<td><p><a href="../Page/金所泫.md" title="wikilink">金所泫</a></p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS三稜鏡大樓</a><br />
 <small>（<a href="https://zh.wikipedia.org/wiki/首爾特別市" title="wikilink">首爾特別市</a><br />
 <a href="../Page/麻浦區.md" title="wikilink">麻浦區</a>）</small></p></td>
@@ -1684,6 +1684,6 @@ Man**》單獨收視及《[星期天真好](../Page/星期天真好.md "wikilink
 35. 本集為[Gary最後一次以成員身份參與錄影](../Page/Gary_\(韓國歌手\).md "wikilink")。
 36. 本集為[Gary離隊後首次以嘉賓身份參與錄影](../Page/Gary_\(韓國歌手\).md "wikilink")。
 37. 宣傳電影《[哥哥](../Page/哥哥_\(電影\).md "wikilink")》。
-38. [金所炫於本集以嘉賓主持身份出演](https://zh.wikipedia.org/wiki/金所炫 "wikilink")。
+38. [金所泫於本集以嘉賓主持身份出演](../Page/金所泫.md "wikilink")。
 39. 由此週開始收視調查公司改為分別公佈星期天真好1部跟2部收視。
 40. 此週開始[MBC同時段播放新節目](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")《[隱秘而偉大](https://zh.wikipedia.org/wiki/隱秘而偉大_\(綜藝節目\) "wikilink")》，取代《[真正的男人](../Page/真正的男人.md "wikilink")》。

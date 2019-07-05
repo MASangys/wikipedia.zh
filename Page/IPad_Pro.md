@@ -22,12 +22,10 @@ Pro，最大容量512GB，也是第一款提供512GB配置的iOS装置，屏幕�
 
 [Apple_iPad_Pro_11.jpg](https://zh.wikipedia.org/wiki/File:Apple_iPad_Pro_11.jpg "fig:Apple_iPad_Pro_11.jpg")
 [IPad_Pro_11_silver.jpg](https://zh.wikipedia.org/wiki/File:IPad_Pro_11_silver.jpg "fig:IPad_Pro_11_silver.jpg")
-2018年10月30日，苹果在纽约发布第三代iPad Pro。第三代iPad Pro采用了全新设计， 屏幕大小為11吋及12.9吋，
-使用了全面屏、Face ID、类似[iPad
-第一代的硬朗外观](https://zh.wikipedia.org/wiki/iPad_第一代 "wikilink")、[USB-C接口与A](https://zh.wikipedia.org/wiki/USB-C "wikilink")12X
-仿生
-处理器，存储空间最高达到1[TB](https://zh.wikipedia.org/wiki/TB "wikilink")，是第一款提供1TB配置的iOS裝置。此外，Apple
-Pencil与Smart Keyboard也被更新到了第2代。
+2018年10月30日，苹果在纽约发布第三代iPad Pro。第三代iPad
+Pro采用全新设计，屏幕大小為11吋及12.9吋，使用全面屏、Face
+ID、类似iPad第一代的硬朗外观、[USB-C接口与A](https://zh.wikipedia.org/wiki/USB-C "wikilink")12X仿生处理器，存储空间最高达到1[TB](https://zh.wikipedia.org/wiki/TB "wikilink")，是第一款提供1TB配置的iOS裝置。此外，Apple
+Pencil与Smart Keyboard也被更新到第2代。
 
 ## 特色
 

@@ -15,7 +15,7 @@ at Apple讲座、Genius Bar天才吧等服务。\[2\]
 在开业前，苹果为Apple
 西湖的外墙张贴了王冬龄创作的[苏轼作品](../Page/苏轼.md "wikilink")《饮湖上初晴后雨》的书法。\[5\]开业前夜不少苹果爱好者通宵排队，也引起了一些对于非理性“果粉”行为的争议。\[6\]苹果亦为该店开业拍摄了[纪录片](http://apple.youku.com/play/XOTA4NzAxOTUy/)。
 
-开业当日，距离最近的[地铁](https://zh.wikipedia.org/wiki/杭州地铁 "wikilink")[龙翔桥站为避开其造成的极大客流临时封站](https://zh.wikipedia.org/wiki/龙翔桥站 "wikilink")，列车通过不停靠。
+开业当日，距离最近的[地铁](../Page/杭州地铁.md "wikilink")[龙翔桥站为避开其造成的极大客流临时封站](https://zh.wikipedia.org/wiki/龙翔桥站 "wikilink")，列车通过不停靠。
 
 ## 参见
 

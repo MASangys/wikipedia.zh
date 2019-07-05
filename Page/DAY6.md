@@ -764,6 +764,14 @@ K：10010197\[58\]、元弼：10010555\[59\]及度雲：10010557。\[60\]
 <td><p>高麗大學華亭體育館</p></td>
 <td><p>[66]</p></td>
 </tr>
+<tr class="even">
+<td><p>2019年</p></td>
+<td><p>6月29日</p></td>
+<td><p>DAY6 "You Made My Day" Ep.2 'Scentographer</p></td>
+<td><p>首爾</p></td>
+<td><p>蠶室室內體育館</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

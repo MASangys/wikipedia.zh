@@ -85,7 +85,9 @@ imprint已与Migos签定管理合约。但2017年1月，该组合表示其并不
 Kanye West 厂牌。\[31\]\[32\]
 
 2016年10月28日，Migos 发布了他们即将发布的第二张录音室专辑中第一首单曲《Bad and Boujee》。此曲由 Lil Uzi
-Vert 担任客串并由 Metro Boomin 参与制作。其MV在10月31日发布。这首单曲问鼎告示牌百強單曲榜榜首，也成为了 Migos
+Vert 担任客串并由 [Metro
+Boomin](https://zh.wikipedia.org/wiki/Metro_Boomin "wikilink")
+参与制作。其MV在10月31日发布。这首单曲问鼎告示牌百強單曲榜榜首，也成为了 Migos
 第一首在美国排名第一的歌曲。\[33\]他们的第二张专辑《Culture》于2017年1月27日发布。\[34\]2017年4月，Migos
 在[凯蒂·佩里的第五张录音室专辑](https://zh.wikipedia.org/wiki/凯蒂·佩里 "wikilink")《Witness》中的单曲《[Bon
 Appétit](https://zh.wikipedia.org/wiki/Bon_Appétit "wikilink")》担任客串。
@@ -97,8 +99,8 @@ II》的第一首单曲。2017年12月20日，Migos发布《Culture II》的第�
 Williams也參與歌曲的製作](../Page/法瑞尔·威廉姆斯.md "wikilink")。
 
 2018年1月26日，Migos发布有24首歌曲的第三张专辑《Culture II》，[Travis
-Scott](https://zh.wikipedia.org/wiki/:en:Travis_Scott "wikilink")、Metro
-Boomin等人也有參與专辑的製作，而[Nicki
+Scott](https://zh.wikipedia.org/wiki/:en:Travis_Scott "wikilink")、[Metro
+Boomin等人也有參與专辑的製作](https://zh.wikipedia.org/wiki/Metro_Boomin "wikilink")，而[Nicki
 Minaj](https://zh.wikipedia.org/wiki/妮琪·米娜 "wikilink")、[Drake](https://zh.wikipedia.org/wiki/德雷克 "wikilink")、[Post
 Malone](https://zh.wikipedia.org/wiki/:en:Post_Malone "wikilink")、[21
 Savage則是合唱专辑裏期中的歌曲](https://zh.wikipedia.org/wiki/:en:21_Savage "wikilink")。

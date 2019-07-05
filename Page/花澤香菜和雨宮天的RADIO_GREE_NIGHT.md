@@ -14,7 +14,7 @@ NIGHT**（）是由[文化放送推出的一档](../Page/文化放送_\(日本\)
   -
 ## 参考
 
-[Category:日本廣播節目](https://zh.wikipedia.org/wiki/Category:日本廣播節目 "wikilink")
+[Category:文化放送A\&G_Zone](https://zh.wikipedia.org/wiki/Category:文化放送A&G_Zone "wikilink")
 
 1.  [花澤香菜＆雨宮天、日曜深夜のラジオ10月から](http://natalie.mu/music/news/126701) ナタリー
     2014年9月22日、同10月23日閲覧。

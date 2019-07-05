@@ -11,11 +11,11 @@ TVB。\[1\]\[2\]\[3\]
 <thead>
 <tr class="header">
 <th><p>頻道名稱</p></th>
-<th><p>加拿大</p></th>
-<th><p>澳洲</p></th>
-<th><p>英國或歐洲</p></th>
-<th><p>新西蘭</p></th>
-<th><p>澳門</p></th>
+<th></th>
+<th></th>
+<th><p>或</p></th>
+<th></th>
+<th></th>
 <th><p>其他地區</p></th>
 </tr>
 </thead>

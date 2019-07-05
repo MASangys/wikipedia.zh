@@ -17,18 +17,22 @@
 <col style="width: 1%" />
 <col style="width: 1%" />
 <col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
 </colgroup>
 <tbody>
 <tr class="odd">
 <td><p><strong>演員</strong></p></td>
 <td><p><strong>角色</strong></p></td>
 <td><p><strong>介紹</strong></p></td>
-<td><p><strong>粵語配音</strong> |-王牌</p></td>
+<td><p><strong>粵語配音</strong></p></td>
+<td><p><strong>國語配音</strong> |-王牌</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/張東健" title="wikilink">張東健</a></p></td>
 <td><p>崔江錫/崔剛皙</p></td>
 <td style="text-align: left;"><p>姜&amp;咸律師事務所的首席合夥律師兼王牌律師。<br />
 韓國其中一個最頂級的資深律師，閱人能力很強，曾經當過檢察官任期檢察官期間有不好的錯誤事情發生。</p></td>
 <td><p><a href="../Page/蔡忠衛.md" title="wikilink">蔡忠衛</a></p></td>
+<td><p><a href="../Page/宋克軍.md" title="wikilink">宋克軍</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/朴炯植.md" title="wikilink">朴炯植</a></p></td>
@@ -36,9 +40,11 @@
 <td><p>姜&amp;咸律師事務所的新入職律師。<br />
 擁有怪物般記憶力的新人律師。實際上並無任何律師資格，也非正統法大畢業，喜歡智娜。</p></td>
 <td><p><a href="../Page/簡懷甄.md" title="wikilink">簡懷甄</a></p></td>
+<td><p><a href="../Page/李世揚.md" title="wikilink">李世揚</a></p></td>
 <td></td>
 <td></td>
 <td style="text-align: left;"></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -49,7 +55,9 @@
 <td><p><a href="../Page/馮詠恩.md" title="wikilink">馮詠恩</a></p></td>
 <td></td>
 <td></td>
+<td></td>
 <td style="text-align: left;"></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -60,7 +68,9 @@
 <td><p><a href="../Page/王慧珠.md" title="wikilink">王慧珠</a></p></td>
 <td></td>
 <td></td>
+<td></td>
 <td style="text-align: left;"></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -71,7 +81,9 @@
 <td><p><a href="../Page/石梓晴.md" title="wikilink">石梓晴</a></p></td>
 <td></td>
 <td></td>
+<td></td>
 <td style="text-align: left;"></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -82,7 +94,9 @@
 <td><p><a href="../Page/黃志明_(香港).md" title="wikilink">黃志明</a></p></td>
 <td></td>
 <td></td>
+<td></td>
 <td style="text-align: left;"></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>
@@ -314,6 +328,11 @@
 <!-- end list -->
 
   - Part.8（發行日期：2018年6月13日）
+
+## 其他搭配歌曲
+
+  - 台灣[東森戲劇台版本](../Page/東森戲劇台.md "wikilink")
+      - 片頭曲：[信](../Page/信_\(歌手\).md "wikilink")《煉金術》
 
 ## 收視率
 

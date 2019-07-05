@@ -66,7 +66,7 @@ LIGHT》，主打歌名為〈SOMETHING SPECIAL〉，並於同日下午公開專�
 ## 商業成績
 
 專輯發行當日，雙主打歌之一的〈SOMETHING
-SPECIAL〉登上[Mnet](../Page/Mnet媒體.md "wikilink")、[NAVER](../Page/NAVER.md "wikilink")、等主要排行榜實時榜單第一，另一首主打歌〈SMILE〉則位列第二\[18\]。另外在、[Mnet](../Page/Mnet媒體.md "wikilink")、[NAVER](../Page/NAVER.md "wikilink")、、[Genie](https://zh.wikipedia.org/wiki/韓國通訊 "wikilink")、[BUGS六大音樂排行榜上](../Page/Neowiz.md "wikilink")，新專輯中收錄的九首新歌全部進入榜單前列。而此專輯在[香港](../Page/香港.md "wikilink")、[菲律賓](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[台灣海外四個國家與地區的](https://zh.wikipedia.org/wiki/台灣 "wikilink")[iTunes專輯榜上排名第一位](https://zh.wikipedia.org/wiki/iTunes "wikilink")，[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")、[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")、[越南](https://zh.wikipedia.org/wiki/越南 "wikilink")、[印尼榜單位居第二](https://zh.wikipedia.org/wiki/印尼 "wikilink")，在[亞洲地區排在榜單最前列](https://zh.wikipedia.org/wiki/亞洲 "wikilink")。在10月首週（發行日期為2017年10月14日），專輯登上[美國音樂榜單](https://zh.wikipedia.org/wiki/美國 "wikilink")[Billboard](../Page/告示牌榜單.md "wikilink")「世界專輯（World
+SPECIAL〉登上[Mnet](../Page/Mnet媒體.md "wikilink")、[NAVER](../Page/NAVER.md "wikilink")、等主要排行榜實時榜單第一，另一首主打歌〈SMILE〉則位列第二\[18\]。另外在[MelOn](../Page/Melon.md "wikilink")、[Mnet](../Page/Mnet媒體.md "wikilink")、[NAVER](../Page/NAVER.md "wikilink")、、[Genie](https://zh.wikipedia.org/wiki/韓國通訊 "wikilink")、[Bugs六大音樂排行榜上](../Page/Neowiz.md "wikilink")，新專輯中收錄的九首新歌全部進入榜單前列。而此專輯在[香港](../Page/香港.md "wikilink")、[菲律賓](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[台灣海外四個國家與地區的](https://zh.wikipedia.org/wiki/台灣 "wikilink")[iTunes專輯榜上排名第一位](https://zh.wikipedia.org/wiki/iTunes "wikilink")，[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")、[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")、[越南](https://zh.wikipedia.org/wiki/越南 "wikilink")、[印尼榜單位居第二](https://zh.wikipedia.org/wiki/印尼 "wikilink")，在[亞洲地區排在榜單最前列](https://zh.wikipedia.org/wiki/亞洲 "wikilink")。在10月首週（發行日期為2017年10月14日），專輯登上[美國音樂榜單](https://zh.wikipedia.org/wiki/美國 "wikilink")[Billboard](../Page/告示牌榜單.md "wikilink")「世界專輯（World
 Albums）」榜第十位\[19\]。10月11日，主打歌〈SOMETHING SPECIAL〉奪得[Gaon
 Chart的](https://zh.wikipedia.org/wiki/Gaon_Chart "wikilink")[數位排行榜及BGM排行榜週榜](../Page/2017年Gaon單曲冠軍作品列表.md "wikilink")（9月24日—9月30日）冠軍，成為二冠王\[20\]。10月26日，〈SOMETHING
 SPECIAL〉再次奪得[Gaon
@@ -137,6 +137,78 @@ SPECIAL〉音樂錄影帶由GDW導演操刀，突顯出[水晶男孩的重大轉
 | [SBS](../Page/SBS_\(韓國\).md "wikilink") |
 
 ## 榜單成績
+
+### 音源榜單排名
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>地區</p></td>
+<td><p>榜單</p></td>
+<td><p>類型</p></td>
+<td><p>參考資料</p></td>
+</tr>
+<tr class="even">
+<td><p>實時榜</p></td>
+<td><p>日榜</p></td>
+<td><p>週榜</p></td>
+<td><p>月榜</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p><a href="../Page/Melon.md" title="wikilink">MelOn</a></p></td>
+<td><p>22</p></td>
+<td><p>69</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/韓國通訊" title="wikilink">Genie</a></p></td>
+<td><p><strong>1</strong></p></td>
+<td><p>2</p></td>
+<td><p>8</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/Neowiz.md" title="wikilink">Bugs</a></p></td>
+<td><p>2</p></td>
+<td><p>6</p></td>
+<td><p>54</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/Mnet媒體.md" title="wikilink">Mnet</a></p></td>
+<td><p><strong>1</strong></p></td>
+<td><p>14</p></td>
+<td><p>21</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/NAVER.md" title="wikilink">NAVER</a></p></td>
+<td><p><strong>1</strong></p></td>
+<td><p>2</p></td>
+<td><p>9</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p><strong>1</strong></p></td>
+<td><p>2</p></td>
+<td><p>8</p></td>
+</tr>
+<tr class="odd">
+<td><ul>
+<li>上標字「<sup>2</sup>」：兩天或兩週冠軍</li>
+<li>上標字「<sup>3</sup>」：三天或三週冠軍</li>
+<li>上標字「<sup>4</sup>」：四天或四週冠軍</li>
+<li>上標字「<sup>5</sup>」：五天或五週冠軍</li>
+<li>以上如此類推</li>
+</ul>
+<ul>
+<li>「*」：打榜中</li>
+<li>「/」：未入榜</li>
+<li>「<span style="background:#808080">　</span>」：該段時期未設立排行榜</li>
+</ul></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ### Gaon Chart
 

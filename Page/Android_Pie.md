@@ -38,7 +38,7 @@ P的首個开发者预览版本（即测试版）在2018年3月7日發行並提�
 
 ## 可用设备
 
-### **以下设备自发售之日起搭载Android 9：**
+\===自发售之日起搭载Android 9===
 
   - Google Pixel
       - [Pixel 3](../Page/Pixel_3.md "wikilink")
@@ -73,8 +73,7 @@ P的首個开发者预览版本（即测试版）在2018年3月7日發行並提�
         A40](https://zh.wikipedia.org/wiki/三星Galaxy_A40 "wikilink")
       - [三星Galaxy
         A40s](https://zh.wikipedia.org/wiki/三星Galaxy_A40s "wikilink")
-      - [三星Galaxy
-        A50](https://zh.wikipedia.org/wiki/三星Galaxy_A50 "wikilink")
+      - [三星Galaxy A50](../Page/三星Galaxy_A50.md "wikilink")
       - [三星Galaxy A60](../Page/三星Galaxy_A60.md "wikilink")
       - [三星Galaxy A70](../Page/三星Galaxy_A70.md "wikilink")
       - [三星Galaxy A80](../Page/三星Galaxy_A80.md "wikilink")
@@ -123,7 +122,7 @@ P的首個开发者预览版本（即测试版）在2018年3月7日發行並提�
       - [HTC 5G
         Hub](https://zh.wikipedia.org/wiki/HTC_5G_Hub "wikilink")
 
-### **Android 9正式支持下列设备：**
+### 正式支持
 
   - [Google Pixel](../Page/Pixel_\(智能手机\).md "wikilink")（2018年8月6日）
 
@@ -157,6 +156,8 @@ P的首個开发者预览版本（即测试版）在2018年3月7日發行並提�
     Plus](https://zh.wikipedia.org/wiki/Nokia_3.1_Plus "wikilink")（2019年2月26日）
 
   - [HTC U11](../Page/HTC_U11.md "wikilink")（2019年5月27日）
+
+  - [HTC U12+](../Page/HTC_U12+.md "wikilink") (2019年6月29日）
 
   - [Nokia
     3](https://zh.wikipedia.org/wiki/Nokia_3 "wikilink")（2019年6月4日）
@@ -220,6 +221,8 @@ P的首個开发者预览版本（即测试版）在2018年3月7日發行並提�
         8](../Page/三星Galaxy_Note_8.md "wikilink")（2019年4月1日）
       - [三星Galaxy A9
         (2018)](../Page/三星Galaxy_A9_\(2018\).md "wikilink")(2019年4月25日)
+      - [三星Galaxy
+        A6+](../Page/三星Galaxy_A6_\(2018\).md "wikilink")(2019年4月26日)
       - [三星Galaxy
         A8+(2018)](../Page/三星Galaxy_A8+\(2018\).md "wikilink")(2019年5月2日)
       - [三星Galaxy A7

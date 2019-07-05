@@ -14,34 +14,35 @@ src.substring(0, index) + toAdd + src.substring(index, src.length); };
 var site = { DYKCPage: 'Wikipedia:新条目推荐/候选', apiUrl:
 mw.util.wikiScript('api'), articlePage: mw.config.get('wgArticlePath'),
 parse: function(wikitext, extraPara, doneFunc, failFunc) { var dataObj =
-{ action: 'parse', title: 'A', text: wikitext, prop: 'text', format:
-'json' }; $.extend(dataObj, extraPara); $.ajax({ url: site.apiUrl, data:
-dataObj }).done(function (data) { var parsedHTML = null; if (data.parse)
-{ if (data.parse.text) { parsedHTML = $.trim(data.parse.text\['\*'\]); }
-} if (parsedHTML \!== null) { if ($.isFunction(doneFunc))
-doneFunc(parsedHTML); } else { if ($.isFunction(failFunc)) failFunc(data
-&& data.error && data.error.code ? data.error.code : 'unknown'); }
-}).fail(function(jqXHR, textStatus, errorThrown) { console.log('Error
-when parsing wikitext: ' + errorThrown); if ($.isFunction(failFunc))
-failFunc('network'); }); }, loadPage: function(pageTitle, doneFunc,
-failFunc) { $.ajax({ url: site.apiUrl, data: { action: 'query', prop:
-'revisions', titles: pageTitle, rvprop: 'content', format: 'json' }
-}).done(function(data) { var content = null; if (data.query) { if
-(data.query.pages) { for (var id in data.query.pages) { if
-(data.query.pages\[id\]) { var page = data.query.pages\[id\]; if
-(page.revisions && page.revisions.length) { if
-(page.revisions\[0\]\['\*'\]) { content = page.revisions\[0\]\['\*'\]; }
-} } } } } if (content \!== null) { if ($.isFunction(doneFunc))
-doneFunc(content); } else { if ($.isFunction(failFunc))
-failFunc('missing'); } }).fail(function(jqXHR, textStatus, errorThrown)
-{ console.log('Error when loading page ' + pageTitle + ': ' +
+{ action: 'parse', title: site.DYKCPage, text: wikitext, prop: 'text',
+format: 'json' }; $.extend(dataObj, extraPara); $.ajax({ url:
+site.apiUrl, data: dataObj }).done(function (data) { var parsedHTML =
+null; if (data.parse) { if (data.parse.text) { parsedHTML =
+$.trim(data.parse.text\['\*'\]); } } if (parsedHTML \!== null) { if
+($.isFunction(doneFunc)) doneFunc(parsedHTML); } else { if
+($.isFunction(failFunc)) failFunc(data && data.error && data.error.code
+? data.error.code : 'unknown'); } }).fail(function(jqXHR, textStatus,
+errorThrown) { console.log('Error when parsing wikitext: ' +
 errorThrown); if ($.isFunction(failFunc)) failFunc('network'); }); },
-edit: function(pageTitle, newRevision, doneFunc, failFunc) { $.ajax({
-url: site.apiUrl, dataType: 'json', type: 'POST', data: { action:
-'edit', title: pageTitle, summary: msg.edit_summary, text: newRevision,
-token: mw.user.tokens.get('editToken'), format: 'json' }
-}).done(function(data) { if (data && data.edit && data.edit.result ===
-'Success') { if ($.isFunction(doneFunc)) doneFunc(content); } else { if
+loadPage: function(pageTitle, doneFunc, failFunc) { $.ajax({ url:
+site.apiUrl, data: { action: 'query', prop: 'revisions', titles:
+pageTitle, rvprop: 'content', format: 'json' } }).done(function(data) {
+var content = null; if (data.query) { if (data.query.pages) { for (var
+id in data.query.pages) { if (data.query.pages\[id\]) { var page =
+data.query.pages\[id\]; if (page.revisions && page.revisions.length) {
+if (page.revisions\[0\]\['\*'\]) { content =
+page.revisions\[0\]\['\*'\]; } } } } } } if (content \!== null) { if
+($.isFunction(doneFunc)) doneFunc(content); } else { if
+($.isFunction(failFunc)) failFunc('missing'); } }).fail(function(jqXHR,
+textStatus, errorThrown) { console.log('Error when loading page ' +
+pageTitle + ': ' + errorThrown); if ($.isFunction(failFunc))
+failFunc('network'); }); }, edit: function(pageTitle, newRevision,
+doneFunc, failFunc) { $.ajax({ url: site.apiUrl, dataType: 'json', type:
+'POST', data: { action: 'edit', title: pageTitle, summary:
+msg.edit_summary, text: newRevision, token:
+mw.user.tokens.get('editToken'), format: 'json' } }).done(function(data)
+{ if (data && data.edit && data.edit.result === 'Success') { if
+($.isFunction(doneFunc)) doneFunc(content); } else { if
 ($.isFunction(failFunc)) { if (data && data.error) {
 failFunc(data.error.code ? data.error.code : 'unknown'); } else if (data
 && data.edit && data.edit.code) { var code = data.edit.code; if (code

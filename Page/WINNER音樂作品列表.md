@@ -169,6 +169,23 @@ S/S](https://zh.wikipedia.org/wiki/2014_S/S "wikilink")》在2014年8月17日正
 <td><p>63</p></td>
 </tr>
 <tr class="odd">
+<td><p>日本</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/WE_(WINNER日語迷你專輯)" title="wikilink">WE</a></p></td>
+<td><ul>
+<li>發行日期：2019年8月7日</li>
+<li>製作公司：<a href="../Page/YG娛樂.md" title="wikilink">YG娛樂</a></li>
+<li>發行公司：<a href="https://zh.wikipedia.org/wiki/YGEX" title="wikilink">YGEX</a></li>
+<li>形式：<a href="../Page/CD.md" title="wikilink">CD</a>、<a href="../Page/數位音樂下載.md" title="wikilink">數位音樂下載</a></li>
+</ul></td>
+<td><p>colspan="6" </p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><small>"—" 表示該專輯/單曲未有在榜上排名或未有資料或沒有在當地發行</small></p></td>
 <td></td>
 <td></td>

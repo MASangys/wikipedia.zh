@@ -43,10 +43,8 @@ X570晶片組可支援[PCI Express](../Page/PCI_Express.md "wikilink") 4.0。
 
 首個使用Socket
 AM4的[FCH晶片組是B](https://zh.wikipedia.org/wiki/AMD_FCH "wikilink")350、A320，用於核心代號為「Bristol
-Ridge」的AMD加速處理器。這些[晶片組支援](https://zh.wikipedia.org/wiki/晶片組 "wikilink")[PCIe
-3.0](https://zh.wikipedia.org/wiki/PCIe "wikilink")、[USB
-3.1](../Page/USB_3.1.md "wikilink")、[SATA
-Express](../Page/SATA_Express.md "wikilink")（支援[NVMe](../Page/NVM_Express.md "wikilink")/[AHCI邏輯界面](../Page/AHCI.md "wikilink")）等功能。AMD
+Ridge」的AMD加速處理器。這些[晶片組支援](https://zh.wikipedia.org/wiki/晶片組 "wikilink")[USB
+3.1](../Page/USB_3.1.md "wikilink")、[SATA](../Page/SATA.md "wikilink")、[NVMe等功能](https://zh.wikipedia.org/wiki/NVMe "wikilink")。AMD
 Ryzen發表時還有性能級型號X370發表，\[15\]\[16\]\[17\]\[18\]這些晶片組是AMD委託台灣祥碩科技設計而來。\[19\]主機板尺寸除了[ATX](../Page/ATX規格.md "wikilink")、[M-ATX以外](../Page/MicroATX.md "wikilink")，還有以往極其罕見的基於AMD旗艦CPU系統平台的[ITX尺寸的導入使用](../Page/Mini-ITX.md "wikilink")。\[20\]
 
 ### 微處理器
@@ -62,7 +60,7 @@ Ridge」的AMD APU。\[21\]這些CPU都內建了南橋的功能，但是可以�
 2017年3月初美商超微發表的AMD Ryzen，是首款採用Zen微架構的處理器系列，核心代號「Summit
 Ridge」，桌上型電腦使用的Ryzen 3、5、7系列全部使用採用了Socket
 AM4，後續推出的核心代號為「Raven Ridge」的桌上型APU產品線、「Pinnacle
-Ridge」改進型Ryzen系列也使用這個插槽，全爲4核心至8核心、雙通道記憶體支援、24條PCIe通道的規格。不過8核心以上配置的Ryzen
+Ridge」改進型Ryzen系列也使用這個插槽，全為4核心至8核心、雙通道記憶體支援、由處理器提供的16條或8條PCIe通道。不過8核心以上配置的Ryzen
 Threadripper系列則是採用了[Socket
 TR4介面](../Page/Socket_TR4.md "wikilink")；行動型處理器Ryzen
 Mobile系列採用輕薄化的BGA封裝（即Socket FP5介面）\[24\]。

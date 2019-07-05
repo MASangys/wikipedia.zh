@@ -99,7 +99,7 @@ ONE MUSIC（第二季、第三季）</p></td>
 </tr>
 <tr class="odd">
 <td><p>動畫製作</p></td>
-<td><p><a href="../Page/David_Production.md" title="wikilink">David Production</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/david_production" title="wikilink">david production</a></p></td>
 </tr>
 <tr class="even">
 <td><p>代理發行</p></td>
@@ -138,8 +138,8 @@ JoJo的奇妙冒險DU製作委員會（第三季）</p></td>
 </tbody>
 </table>
 
-《**JoJo的奇妙冒險**》（）電視動畫是由[荒木飛呂彥原作的](../Page/荒木飛呂彥.md "wikilink")[同名日本漫畫改編](https://zh.wikipedia.org/wiki/JoJo的奇妙冒險 "wikilink")，由[David
-Production製作的作品](../Page/David_Production.md "wikilink")。目前預定計畫製作播放JoJo系列原作第一部至第六部\[1\]。
+《**JoJo的奇妙冒險**》（）電視動畫是由[荒木飛呂彥原作的](../Page/荒木飛呂彥.md "wikilink")[同名日本漫畫改編](https://zh.wikipedia.org/wiki/JoJo的奇妙冒險 "wikilink")，由[david
+production製作的作品](https://zh.wikipedia.org/wiki/david_production "wikilink")。目前預定計畫製作播放JoJo系列原作第一部至第六部\[1\]。
 
 第一季自2012年10月播放至2013年3月，第二季上半部自2014年4月播放至同年9月，下半部自2015年1月播放至同年6月，第三季自2016年4月播放至同年12月。第四季自2018年10月起開播。
 
@@ -2837,7 +2837,7 @@ SHIN HYUNG WOO<br />
 田中春香<br />
 小島惠理<br />
 </p></td>
-<td><p>6月21日&lt;!--</p></td>
+<td><p>6月21日</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2847,13 +2847,35 @@ SHIN HYUNG WOO<br />
 （第149話）</p></td>
 <td></td>
 <td><p>迪亞波羅現身</p></td>
+<td><p>吉田泰三</p></td>
+<td><p>龜井隆廣</p></td>
+<td><p>長田伸二<br />
+木下由衣<br />
+森田莉奈<br />
+橫山謙次<br />
+SHIN HYUNG WOO<br />
+高阪雅基<br />
+柴田和紀<br />
+田中宏紀<br />
+石本峻一<br />
+田中春香</p></td>
+<td><p>岩崎安利</p></td>
+<td><p>6月28日&lt;!--</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Episodio 37<br />
+（第150話）</p></td>
+<td></td>
+<td><p>王中之王</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td><p>6月日--&gt;</p></td>
+<td><p>月日--&gt;</p></td>
 </tr>
 </tbody>
 </table>

@@ -6,7 +6,7 @@ MOMOLAND를
 七名成員。
 
 2017年3月28日，加入在[《SURVIVAL MOMOLAND를
-찾아서》落選](../Page/尋找MOMOLAND.md "wikilink")，[JYP娛樂練習生出身的](../Page/JYP娛樂.md "wikilink")[DAISY](https://zh.wikipedia.org/wiki/DAISY "wikilink")。
+찾아서》落選](../Page/尋找MOMOLAND.md "wikilink")，[JYP娛樂練習生出身的DAISY](../Page/JYP娛樂.md "wikilink")。
 
 2017年4月10日，加入[PRODUCE
 101](../Page/PRODUCE_101.md "wikilink")、[STARSHIP娛樂練習生](../Page/STARSHIP娛樂.md "wikilink")、[宇宙少女預備成員出身的](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")（[JYJ成員](../Page/JYJ.md "wikilink")[金俊秀的堂妹](../Page/金俊秀.md "wikilink")）。
@@ -42,7 +42,7 @@ Company發表聲明，因受傷無限期暫休，接下來這段日子MOMOLAND�
 ### 2017年：加入新成員、《Wonderful love》、《Freeze\!》
 
 3月28日，加入一起參與[《SURVIVAL MOMOLAND를
-찾아서》出道節目](../Page/尋找MOMOLAND.md "wikilink")，曾是[JYP娛樂練習生的](../Page/JYP娛樂.md "wikilink")[DAISY](https://zh.wikipedia.org/wiki/DAISY "wikilink")\[7\]。DAISY直到11歲都在加拿大溫哥華生活，有良好的外語及芭蕾舞實力。
+찾아서》出道節目](../Page/尋找MOMOLAND.md "wikilink")，曾是[JYP娛樂練習生的DAISY](../Page/JYP娛樂.md "wikilink")\[7\]。DAISY直到11歲都在加拿大溫哥華生活，有良好的外語及芭蕾舞實力。
 
 4月10日，再加入[PRODUCE
 101](../Page/PRODUCE_101.md "wikilink")、[STARSHIP娛樂練習生](../Page/STARSHIP娛樂.md "wikilink")、[宇宙少女預備成員出身的](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")，也預計在26日發行全新單曲《非常非常
@@ -111,7 +111,7 @@ Asia Song Festival亞洲音樂節」活動上歸隊。
 ### 2019年：《Show Me》、DAISY及泰河暫停活動
 
 3月20日，發表第五張迷你專輯《[Show
-Me](../Page/Show_Me_\(MOMOLAND專輯\).md "wikilink")》，但[DAISY與](https://zh.wikipedia.org/wiki/DAISY "wikilink")將不參與該迷你專輯的活動。
+Me](../Page/Show_Me_\(MOMOLAND專輯\).md "wikilink")》，但DAISY與將不參與該迷你專輯的活動。
 
 3月31日，公開《I'm So Hot -Japanese ver.-》MV。5月8日，發行日本單曲《I'm So Hot -Japanese
 ver.-》。
@@ -158,7 +158,7 @@ ver.-》。
 <td><p><a href="https://zh.wikipedia.org/wiki/娜允" title="wikilink">娜允</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/DAISY" title="wikilink">DAISY</a></p></td>
+<td><p>DAISY</p></td>
 </tr>
 <tr class="odd">
 <td><p>戴西·柳</p></td>

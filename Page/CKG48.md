@@ -1,4 +1,5 @@
-**CKG48**是一個在2017年於[重慶成立的中國大型女子偶像組合](https://zh.wikipedia.org/wiki/重慶 "wikilink")，為[SNH48的姊妹團體](https://zh.wikipedia.org/wiki/SNH48 "wikilink")，隸屬於[重慶絲芭文化傳媒集團有限公司](https://zh.wikipedia.org/wiki/絲芭傳媒 "wikilink")。CKG48的基本定位同樣是秉承SNH48的基本定位，基於「可面對面偶像」的造星理念，具備互聯網思維和參與感精神的近距離養成式大型女子偶像團體，充分吸收SNH48的模式特色和運營經驗，並進行區域化改造\[1\]。
+**CKG48**是一個在2017年於[重慶成立的中國大型女子偶像組合](https://zh.wikipedia.org/wiki/重慶 "wikilink")，為[SNH48的姊妹團體](https://zh.wikipedia.org/wiki/SNH48 "wikilink")，隸屬於[重慶絲芭文化傳媒集團有限公司](https://zh.wikipedia.org/wiki/絲芭傳媒 "wikilink")。CKG48的基本定位同樣是秉承SNH48的基本定位，基於「可面對面偶像」的造星理念，具備互聯網思維和參與感精神的近距離養成式大型女子偶像團體，充分吸收SNH48的模式特色和運營經驗，並進行區域化改造\[1\]。CKG48目前共有31名成員，擁有「IDOLS
+Ft」一項計畫。
 
 ## 概要
 
@@ -18,7 +19,7 @@ CKG48是一個以[重庆為中心活動的](https://zh.wikipedia.org/wiki/重庆
   - 11月4日，Team K舉行《奇幻加冕禮》首演\[7\]。
   - 12月3日，CKG48聯合SNH48、BEJ48、GNZ48、SHY48開始招募SNH48十期生、BEJ48五期生、GNZ48五期生、SHY48五期生、CKG48三期生\[8\]。
   - 12月24日，發行第1張EP《[甜蜜盛典](https://zh.wikipedia.org/wiki/SNH48原創發行作品列表#甜蜜盛典 "wikilink")》\[9\]。
-  - 12月28日，CKG48「星夢校園行」活動開始啟動，與SNH48「星夢校園行」活動模式相同\[10\]。
+  - 12月28日，CKG48「星夢校園行」活動啟動，與SNH48「星夢校園行」活動模式相同\[10\]。
 
 <!-- end list -->
 
@@ -70,7 +71,7 @@ CKG48是一個以[重庆為中心活動的](https://zh.wikipedia.org/wiki/重庆
   - 5月1日，CKG48在成都乐空间举行《奇妙的加冕旅程》首演。
   - 6月2日，在重慶寅派動力舉辦「盛夏好声音·CKG48夏季限定演出」，同時有以下事項發表：
       - SHY48一期生杨允涵通過CKG48對於IDOLS Ft成員的考核，正式加入CKG48。
-  - 6月22日，SHY48一期生张幼宁通過CKG48的考核，正式加入CKG48。
+  - 6月22日，SHY48一期生张幼柠通過CKG48的考核，正式加入CKG48。
 
 ## 成員名單
 
@@ -101,7 +102,28 @@ CKG48是一個以[重庆為中心活動的](https://zh.wikipedia.org/wiki/重庆
 | 左欣   |
 | 张幼柠  |
 
-### 過往成員
+### 暂休成员
+
+  - 正規成員若因學業問題、身體問題、合約問題、個人原因以致無法繼續參與CKG48團內活動，將被計算作為暂休成员。
+
+| 暫休  |
+| --- |
+| 姓名  |
+| 李恩锐 |
+| 李澤亞 |
+| 陶菀瑞 |
+| 周源  |
+| 艾芷亦 |
+| 樊曦月 |
+| 刘炅然 |
+| 夏文倩 |
+| 章宇阳 |
+| 吳曉桐 |
+| 余夢露 |
+| 鄒冰清 |
+|     |
+
+### 過往正式成員
 
 <table>
 <thead>
@@ -335,126 +357,6 @@ CKG48是一個以[重庆為中心活動的](https://zh.wikipedia.org/wiki/重庆
 <td><p>Team K</p></td>
 <td><p>2019年1月19日</p></td>
 <td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>李恩锐</p></td>
-<td></td>
-<td></td>
-<td><p>1期</p></td>
-<td><p>Team C</p></td>
-<td><p>2019年4月15日</p></td>
-<td><p>资料删除</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>李澤亞</p></td>
-<td></td>
-<td><p>12月27日</p></td>
-<td><p>1期</p></td>
-<td><p>Team C</p></td>
-<td><p>2019年4月15日</p></td>
-<td><p>资料删除</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>陶菀瑞</p></td>
-<td></td>
-<td></td>
-<td><p>1期</p></td>
-<td><p>Team C</p></td>
-<td><p>2019年4月15日</p></td>
-<td><p>资料删除</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>周源</p></td>
-<td></td>
-<td><p>10月24日</p></td>
-<td><p>1期</p></td>
-<td><p>Team C</p></td>
-<td><p>2019年4月15日</p></td>
-<td><p>资料删除</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>艾芷亦</p></td>
-<td></td>
-<td></td>
-<td><p>1期</p></td>
-<td><p>Team K</p></td>
-<td><p>2019年4月15日</p></td>
-<td><p>资料删除</p></td>
-<td><p>CKG48 第7名</p></td>
-</tr>
-<tr class="even">
-<td><p>樊曦月</p></td>
-<td></td>
-<td><p>2月22日</p></td>
-<td><p>1期</p></td>
-<td><p>Team K</p></td>
-<td><p>2019年4月15日</p></td>
-<td><p>资料删除</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>刘炅然</p></td>
-<td></td>
-<td></td>
-<td><p>SNH48 3期</p></td>
-<td><p>Team K</p></td>
-<td><p>2019年4月15日</p></td>
-<td><p>资料删除</p></td>
-<td><p>15</p></td>
-</tr>
-<tr class="even">
-<td><p>夏文倩</p></td>
-<td></td>
-<td></td>
-<td><p>1期</p></td>
-<td><p>Team K</p></td>
-<td><p>2019年4月15日</p></td>
-<td><p>资料删除</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>章宇阳</p></td>
-<td></td>
-<td><p>8月18日</p></td>
-<td><p>1期</p></td>
-<td><p>Team K</p></td>
-<td><p>2019年4月15日</p></td>
-<td><p>资料删除</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>吳曉桐</p></td>
-<td></td>
-<td><p>12月7日</p></td>
-<td><p>2期</p></td>
-<td><p>预备生</p></td>
-<td><p>2019年4月15日</p></td>
-<td><p>资料删除</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>余夢露</p></td>
-<td></td>
-<td></td>
-<td><p>2期</p></td>
-<td><p>预备生</p></td>
-<td><p>2019年4月15日</p></td>
-<td><p>资料删除</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>鄒冰清</p></td>
-<td></td>
-<td><p>11月1日</p></td>
-<td><p>2期</p></td>
-<td><p>预备生</p></td>
-<td><p>2019年4月15日</p></td>
-<td><p>资料删除</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -692,42 +594,34 @@ Team C陶菀瑞，Team K刘炅然，预备生余梦露暂休</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>4月15日</p></td>
-<td><p>12名暂休成员资料删除</p></td>
-<td><p>-12</p></td>
-<td><p>19</p></td>
-<td><p>(19)</p></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>5月10日</p></td>
 <td><p>IDOLS Ft赵思雨结束于CKG48的活动</p></td>
 <td><p>-1</p></td>
-<td><p>18</p></td>
+<td><p>30</p></td>
 <td><p>(18)</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>6月2日</p></td>
-<td><p>IDOLS Ft楊允涵加入CKG48</p></td>
-<td><p>+1</p></td>
-<td><p>19</p></td>
-<td><p>(19)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>6月8日</p></td>
-<td><p>IDOLS Ft戴紫薇请辞</p></td>
-<td><p>-1</p></td>
-<td><p>18</p></td>
-<td><p>(18)</p></td>
+<td><p>6月2日</p></td>
+<td><p>IDOLS Ft楊允涵加入CKG48</p></td>
+<td><p>+1</p></td>
+<td><p>31</p></td>
+<td><p>(19)</p></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>6月8日</p></td>
+<td><p>IDOLS Ft戴紫薇请辞</p></td>
+<td><p>-1</p></td>
+<td><p>30</p></td>
+<td><p>(18)</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>6月22日</p></td>
-<td><p>SHY48 1期生张幼宁加入CKG48</p></td>
+<td><p>SHY48 1期生张幼柠加入CKG48</p></td>
 <td><p>+1</p></td>
-<td><p>19</p></td>
+<td><p>31</p></td>
 <td><p>(19)</p></td>
 <td></td>
 </tr>

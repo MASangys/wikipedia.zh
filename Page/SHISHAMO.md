@@ -33,7 +33,7 @@
 2010年，宫崎和松本入读设计系，加入[轻音乐部后组成乐队](https://zh.wikipedia.org/wiki/轻音乐 "wikilink")。同班的吉川后来加入。最初乐队起名为[汉字](../Page/日本汉字.md "wikilink")“柳叶鱼”，起名的是宫崎的姐姐，理由是“读起来很可爱，文字写出来很帅气”。但是因为这三字的组合在日语中不属于常用词，大多数人并不能正确的读出来。乐队成立初期以演奏他人乐曲为主，直到2011年8月，宫崎完成了第一首原创歌曲《作业没做完》。
 
 2012年5月13日，TEENS ROCK IN HITACHINAKA
-2012音乐节上，《作业没做完》首次演出，获得了音乐节优秀奖和主唱奖\[1\]。此后乐队改名为[罗马字的](../Page/拉丁字母.md "wikilink")“SHISHAMO”。开始受到音乐界的关注，音乐杂志《》的主编、乐评人表示“找到了高中生乐队中从未见过的人才\[2\]。”10月17日，原创CD《作业没做完》试听版限量发售\[3\]，在[ORICON未出道榜单中排名第](../Page/Oricon公信榜.md "wikilink")7。11月10日，SHISHAMO担当[日本放送广播](../Page/日本放送.md "wikilink")节目主持人，引起网络讨论。网络上更有“[ANN史上最无名的主持人](../Page/全日本新聞網.md "wikilink")”之说，一度占据新闻前列\[4\]。
+2012音乐节上，《作业没做完》首次演出，获得了音乐节优秀奖和主唱奖\[1\]。此后乐队改名为[罗马字的](../Page/拉丁字母.md "wikilink")“SHISHAMO”。开始受到音乐界的关注，音乐杂志《》的主编、乐评人表示“找到了高中生乐队中从未见过的人才\[2\]。”10月17日，原创CD《作业没做完》试听版限量发售\[3\]，在[ORICON未出道榜单中排名第](../Page/Oricon公信榜.md "wikilink")7。11月10日，SHISHAMO担当[日本放送广播节目](../Page/日本放送.md "wikilink")主持人，引起网络讨论，网络上更有“史上最无名的主持人”之说，一度占据新闻前列\[4\]。
 
 2013年1月23日，专辑《毕业制作》发布\[5\]。3月开始11场的专题巡回演唱会，最后一场在家乡川崎的演唱会大获成功。6月，高校毕业后，开始正式音乐活动，连续参与了多个音乐演出。8月，与经纪公司[FAITH
 MUSIC
@@ -42,16 +42,16 @@ ENTERTAINMENT签约并正式出道](https://zh.wikipedia.org/wiki/FAITH_MUSIC_EN
 2014年5月24日-6月29日，2014春季巡回演唱会进行，共10场。7月2日，单曲《你与夏日音乐节》发售。9月11日，在乐队结成时说过“20岁时结束乐队活动”的松本彩退出乐队，同时[大阪出身的](../Page/大阪市.md "wikilink")[贝斯手松冈彩在宫崎的邀请下加入](https://zh.wikipedia.org/wiki/贝斯手 "wikilink")\[7\]。10月1日，单曲《量产型男友》发售。10月4日-11月28日，2014秋季巡回演唱会进行，共19场。
 
 2015年3月4日，专辑《[SHISHAMO
-2](../Page/SHISHAMO_2.md "wikilink")》发售。4月4日-6月13日，2015春季巡回演唱会进行，共16场。8月5日，单曲《热带夜》发售。10月5日-11月29日，2015秋季巡回演唱会进行，共15场。11月27日，首次作为嘉宾出演朝日电视台“[MUSIC
-STATION](../Page/MUSIC_STATION.md "wikilink")”节目，这也是SHISHAMO首次在电视节目中演出歌曲\[8\]。12月2日，单曲《你与滑雪场》发售。
+2](../Page/SHISHAMO_2.md "wikilink")》发售。4月4日-6月13日，2015春季巡回演唱会进行，共16场。8月5日，单曲《热带夜》发售。10月5日-11月29日，2015秋季巡回演唱会进行，共15场。11月27日，首次作为嘉宾出演朝日电视台直播音樂節目《[MUSIC
+STATION](../Page/MUSIC_STATION.md "wikilink")》，这也是SHISHAMO首次在电视节目中演出歌曲\[8\]。12月2日，单曲《你与滑雪场》发售。
 
-2016年1月4日，首次在[日本武道馆举行单独公演](../Page/日本武道館.md "wikilink")\[9\]。3月2日，专辑《[SHISHAMO
+2016年1月4日，首次在[日本武道館举行单独公演](../Page/日本武道館.md "wikilink")\[9\]。3月2日，专辑《[SHISHAMO
 3](../Page/SHISHAMO_3.md "wikilink")》发售。4月6日，首个影像作品《SHISHAMO NO
 BUDOKAN\!\!\!》蓝光盘发售。4月9日-5月15日，2016春季巡回演唱会进行，共11场。6月25日，在举行公演\[10\]。7月16、17日，在[东京](../Page/东京.md "wikilink")举行公演\[11\]。9月7日，抒情单曲《夏季的恋人》发售。11月11日-12月11日，2016秋季巡回演唱会进行，共13场。
 
 2017年2月22日，专辑《[SHISHAMO
 4](../Page/SHISHAMO_4.md "wikilink")》发售。3月5日，参加了[J联赛](https://zh.wikipedia.org/wiki/J联赛 "wikilink")[川崎前锋与](../Page/川崎前鋒.md "wikilink")[鸟栖砂岩比赛的开球仪式](../Page/鳥栖砂岩.md "wikilink")\[12\]，同日还同时发售了由宫崎设计的SHISHAMO×川崎前锋俱乐部联名商品。歌曲《明天也》成为川崎前锋队的支援歌\[13\]。3月18日-6月22日，2017春季巡回演唱会进行，共19场。7月1日、17日，分别在大阪城音乐厅和东京日比谷野外大音乐堂举行演唱会\[14\]。8月2日，单曲《BYE
-BYE》发售。10月21日，为[新垣结衣和](../Page/新垣結衣.md "wikilink")[瑛太主演的电影](../Page/瑛太.md "wikilink")《[恋爱回旋](https://zh.wikipedia.org/wiki/恋爱回旋 "wikilink")（）》创作的主题曲《看那笑容》和插曲《仙人掌》随电影公开，这也是SHISHAMO首次为电影作曲\[15\]。10月25日，单曲《看那笑容》发售。11月6日-12月9日，2017秋季巡回演唱会进行，共11场。12月5日，被任命为“川崎市市民文化大使”\[16\]\[17\]。12月22日，首次参加[朝日电视台](../Page/朝日電視台.md "wikilink")[MUSIC
+BYE》发售。10月21日，为\[\[新垣結衣\]和\[\[瑛太|新垣結衣\]和[瑛太主演的电影](../Page/瑛太.md "wikilink")《[恋爱回旋](https://zh.wikipedia.org/wiki/恋爱回旋 "wikilink")》（）创作的主题曲《看那笑容》和插曲《仙人掌》随电影公开，这也是SHISHAMO首次为电影作曲\[15\]。10月25日，单曲《看那笑容》发售。11月6日-12月9日，2017秋季巡回演唱会进行，共11场。12月5日，被任命为“川崎市市民文化大使”\[16\]\[17\]。12月22日，首次参加[朝日电视台](../Page/朝日電視台.md "wikilink")[MUSIC
 STATION SUPER LIVE
 2017演唱会](../Page/MUSIC_STATION_SUPER_LIVE.md "wikilink")\[18\]。12月29日，三位成员一起参演的[NTT
 docomo年末三天限定电视广告播出](../Page/NTT_DOCOMO.md "wikilink")，三人饰演酒馆服务员，广告歌为《明天也》\[19\]。12月31日，首次参加[第68届NHK红白歌会](../Page/第68回NHK紅白歌合戰.md "wikilink")，与80人的高中生管乐队共同演出了《明天也》\[20\]。
@@ -292,11 +292,10 @@ cittadella中央喷泉广场举行免费招待制演唱会，只要持专辑《S
   -
   - [SHISHAMO LINE BLOG](https://lineblog.me/shishamo_official/)
 
-[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink")
-[Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink")
-[Category:日本摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本摇滚乐团 "wikilink")
-[Category:川崎市出身人物](https://zh.wikipedia.org/wiki/Category:川崎市出身人物 "wikilink")
 [Category:SHISHAMO](https://zh.wikipedia.org/wiki/Category:SHISHAMO "wikilink")
+[Category:日本摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本摇滚乐团 "wikilink")
+[Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink")
+[Category:川崎市出身人物](https://zh.wikipedia.org/wiki/Category:川崎市出身人物 "wikilink")
 [Category:環球唱片旗下藝人](https://zh.wikipedia.org/wiki/Category:環球唱片旗下藝人 "wikilink")
 
 1.

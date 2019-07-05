@@ -67,9 +67,9 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/天海祐希" title="wikilink">天海祐希</a><br />
+<td><p><strong><a href="../Page/天海祐希.md" title="wikilink">天海祐希</a><br />
 《<a href="../Page/BOSS_(電視劇).md" title="wikilink">BOSS</a>》</strong></p></td>
-<td><p>第一位：<a href="https://zh.wikipedia.org/wiki/天海祐希" title="wikilink">天海祐希</a>　《<a href="../Page/BOSS_(電視劇).md" title="wikilink">BOSS</a>》<br />
+<td><p>第一位：<a href="../Page/天海祐希.md" title="wikilink">天海祐希</a>　《<a href="../Page/BOSS_(電視劇).md" title="wikilink">BOSS</a>》<br />
 第二位：<a href="../Page/菅野美穗.md" title="wikilink">菅野美穗</a>　《<a href="../Page/破案天才奇娜.md" title="wikilink">破案天才奇娜</a>》<br />
 第三位：<a href="https://zh.wikipedia.org/wiki/仲間由紀惠" title="wikilink">仲間由紀惠</a>《<a href="../Page/Untouchable_(電視劇).md" title="wikilink">Untouchable</a>》、《<a href="../Page/平凡的奇蹟.md" title="wikilink">平凡的奇蹟</a>》<br />
 第四位：<a href="../Page/松嶋菜菜子.md" title="wikilink">松嶋菜菜子</a>《<a href="https://zh.wikipedia.org/wiki/急症群英#救急病棟24小時IV" title="wikilink">急症群英4</a>》<br />

@@ -102,33 +102,34 @@ Big小明星2017》\[5\]\[6\]\[7\]進入該節目\[8\]。
 
 ### 2019年
 
-|        |                                      |                              |
-| ------ | ------------------------------------ | ---------------------------- |
-| **集數** | **播映日期**                             | **主題**                       |
-| 80     | [1月5日](../Page/1月5日.md "wikilink")   | 「Big Big小明星」－重溫伊健30年前兒童節目    |
-| 81     | [1月12日](../Page/1月12日.md "wikilink") | 「Big Big小明星」－生命遇上的陶笛伯樂       |
-| 82     | [1月19日](../Page/1月19日.md "wikilink") | 「Big Big小明星」－「桌遊校園」玩在起跑線     |
-| 83     | [1月26日](../Page/1月26日.md "wikilink") | 「Big Big KIDs」－五位小主持吸睛亮相     |
-| 84     | [2月2日](../Page/2月2日.md "wikilink")   | 「Big Big KIDs」－開箱Share幻化創意城堡 |
-| 85     | [2月9日](../Page/2月9日.md "wikilink")   | 「Big Big KIDs」－最搞笑小主持得主      |
-| 86     | [2月16日](../Page/2月16日.md "wikilink") | 「Big Big KIDs」－創意豬頭風景畫       |
-| 87     | [2月23日](../Page/2月23日.md "wikilink") | 「Big Big KIDs」－細說特殊睡覺癖好      |
-| 88     | [3月2日](../Page/3月2日.md "wikilink")   | 「Big Big KIDs」－小汽球堆砌奇幻森林     |
-| 89     | [3月9日](../Page/3月9日.md "wikilink")   | 「Big Big KIDs」－五花八門的興趣班      |
-| 90     | [3月16日](../Page/3月16日.md "wikilink") | 「Big Big KIDs」－小主持合力「改建高樓」   |
-| 91     | [3月23日](../Page/3月23日.md "wikilink") | 「Big Big KIDs」－Linus初登小廚房    |
-| 92     | [3月30日](../Page/3月30日.md "wikilink") | 「Big Big KIDs」－Max、瑪沙炮製家鄉小菜  |
-| 93     | [4月6日](../Page/4月6日.md "wikilink")   | 「Big Big KIDs」－小主持壞習慣大公開     |
-| 94     | [4月13日](../Page/4月13日.md "wikilink") | 「Big Big KIDs」－洪永城突襲「搗亂」     |
-| 95     | [4月20日](../Page/4月20日.md "wikilink") | 「Big Big KIDs」－「淡定王」出動改建高樓   |
-| 96     | [4月27日](../Page/4月27日.md "wikilink") | 「Big Big KIDs」－蝦頭考驗小主持演技     |
-| 97     | [5月4日](../Page/5月4日.md "wikilink")   | 「Big Big KIDs」－小主持的旅遊經歷      |
-| 98     | [5月11日](../Page/5月11日.md "wikilink") | 「Big Big KIDs」－DIY創意母親節禮物    |
-| 99     | [5月18日](../Page/5月18日.md "wikilink") | 「Big Big KIDs」－蝦頭似開心果？       |
-| 100    | [5月25日](../Page/5月25日.md "wikilink") | 「Big Big KIDs」－家有寵物的樂趣       |
-| 101    | [6月1日](../Page/6月1日.md "wikilink")   | 「Big Big KIDs」－小主持搗蛋暗黑史      |
-| 102    | [6月8日](../Page/6月8日.md "wikilink")   | 「Big Big KIDs」－誰激嬲小主持？       |
-| 103    | [6月15日](../Page/6月15日.md "wikilink") | 「Big Big KIDs」－小主持最重要的東西是甚麼？ |
+|        |                                      |                              |                                                                                          |
+| ------ | ------------------------------------ | ---------------------------- | ---------------------------------------------------------------------------------------- |
+| **集數** | **播映日期**                             | **主題**                       | **嘉賓**                                                                                   |
+| 80     | [1月5日](../Page/1月5日.md "wikilink")   | 「Big Big小明星」－重溫伊健30年前兒童節目    | —                                                                                        |
+| 81     | [1月12日](../Page/1月12日.md "wikilink") | 「Big Big小明星」－生命遇上的陶笛伯樂       | —                                                                                        |
+| 82     | [1月19日](../Page/1月19日.md "wikilink") | 「Big Big小明星」－「桌遊校園」玩在起跑線     | —                                                                                        |
+| 83     | [1月26日](../Page/1月26日.md "wikilink") | 「Big Big KIDs」－五位小主持吸睛亮相     | [何遠東](../Page/何遠東.md "wikilink")                                                         |
+| 84     | [2月2日](../Page/2月2日.md "wikilink")   | 「Big Big KIDs」－開箱Share幻化創意城堡 | 何遠東                                                                                      |
+| 85     | [2月9日](../Page/2月9日.md "wikilink")   | 「Big Big KIDs」－最搞笑小主持得主      | 何遠東                                                                                      |
+| 86     | [2月16日](../Page/2月16日.md "wikilink") | 「Big Big KIDs」－創意豬頭風景畫       | 何遠東                                                                                      |
+| 87     | [2月23日](../Page/2月23日.md "wikilink") | 「Big Big KIDs」－細說特殊睡覺癖好      | 何遠東                                                                                      |
+| 88     | [3月2日](../Page/3月2日.md "wikilink")   | 「Big Big KIDs」－小汽球堆砌奇幻森林     | 何遠東                                                                                      |
+| 89     | [3月9日](../Page/3月9日.md "wikilink")   | 「Big Big KIDs」－五花八門的興趣班      | 何遠東                                                                                      |
+| 90     | [3月16日](../Page/3月16日.md "wikilink") | 「Big Big KIDs」－小主持合力「改建高樓」   | 何遠東                                                                                      |
+| 91     | [3月23日](../Page/3月23日.md "wikilink") | 「Big Big KIDs」－Linus初登小廚房    | 何遠東                                                                                      |
+| 92     | [3月30日](../Page/3月30日.md "wikilink") | 「Big Big KIDs」－Max、瑪沙炮製家鄉小菜  | 何遠東                                                                                      |
+| 93     | [4月6日](../Page/4月6日.md "wikilink")   | 「Big Big KIDs」－小主持壞習慣大公開     | 何遠東                                                                                      |
+| 94     | [4月13日](../Page/4月13日.md "wikilink") | 「Big Big KIDs」－洪永城突襲「搗亂」     | 何遠東、[洪永城](../Page/洪永城.md "wikilink")                                                     |
+| 95     | [4月20日](../Page/4月20日.md "wikilink") | 「Big Big KIDs」－「淡定王」出動改建高樓   | 何遠東、洪永城                                                                                  |
+| 96     | [4月27日](../Page/4月27日.md "wikilink") | 「Big Big KIDs」－蝦頭考驗小主持演技     | 何遠東、[楊詩敏](https://zh.wikipedia.org/wiki/楊詩敏 "wikilink")                                  |
+| 97     | [5月4日](../Page/5月4日.md "wikilink")   | 「Big Big KIDs」－小主持的旅遊經歷      | 何遠東、洪永城、[張寶兒](../Page/張寶兒.md "wikilink")                                                 |
+| 98     | [5月11日](../Page/5月11日.md "wikilink") | 「Big Big KIDs」－DIY創意母親節禮物    | 何遠東、[林溥來](../Page/林溥來.md "wikilink")                                                     |
+| 99     | [5月18日](../Page/5月18日.md "wikilink") | 「Big Big KIDs」－蝦頭似開心果？       | 何遠東、楊詩敏、張寶兒                                                                              |
+| 100    | [5月25日](../Page/5月25日.md "wikilink") | 「Big Big KIDs」－家有寵物的樂趣       | 何遠東、林溥來、楊詩敏                                                                              |
+| 101    | [6月1日](../Page/6月1日.md "wikilink")   | 「Big Big KIDs」－小主持搗蛋暗黑史      | 何遠東、林溥來、[何依婷](../Page/何依婷.md "wikilink")                                                 |
+| 102    | [6月8日](../Page/6月8日.md "wikilink")   | 「Big Big KIDs」－誰激嬲小主持？       | 何遠東、何依婷                                                                                  |
+| 103    | [6月15日](../Page/6月15日.md "wikilink") | 「Big Big KIDs」－小主持最重要的東西是甚麼？ | 何遠東、[朱千雪](../Page/朱千雪.md "wikilink")、[陳凱琳](https://zh.wikipedia.org/wiki/陳凱琳 "wikilink") |
+| 104    | [6月22日](../Page/6月22日.md "wikilink") | 「Big Big KIDs」－小主持的志願        | 何遠東、朱千雪                                                                                  |
 
 ## 主持
 

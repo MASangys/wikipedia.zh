@@ -120,7 +120,7 @@ LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針
 <td></td>
 </tr>
 <tr class="even">
-<td><p>　<a href="https://zh.wikipedia.org/wiki/天海祐希" title="wikilink">天海祐希</a></p></td>
+<td><p>　<a href="../Page/天海祐希.md" title="wikilink">天海祐希</a></p></td>
 <td><p>　《<a href="../Page/偽裝的夫婦.md" title="wikilink">偽裝的夫婦</a>》</p></td>
 <td></td>
 </tr>

@@ -256,7 +256,7 @@ WILD）是[OLM製作的](../Page/OLM.md "wikilink")[日本](../Page/日本.md "w
 
 :: 填詞：Skypeace，作曲：宮川拓、Skypeace，編曲：宮川拓，主唱：Skypeace
 
-:; 「」（第39話－）
+:; 「」（第39話－第50話）
 
   -
 
@@ -280,7 +280,7 @@ RESEARCH
 :: 填詞：葉澄草子，作曲：鴇崎聰，編曲：Akihito Tanaka、Seiji
 Motoyama，主唱：[noovy](https://zh.wikipedia.org/wiki/noovy "wikilink")
 
-:;「best friends」（第39話－）
+:;「best friends」（第39話－第49話）
 
   -
 
@@ -290,7 +290,7 @@ Motoyama，主唱：[noovy](https://zh.wikipedia.org/wiki/noovy "wikilink")
 
   - 插入曲
 
-:;「WILD BLUE」（第1話－第35話、第37話－第41話、第43話－）
+:;「WILD BLUE」（除第36話及第42話以外的所有話數，第50話作為片尾曲使用）
 
   -
 
@@ -670,7 +670,7 @@ Jo Yong Joo</p></td>
 <tr class="odd">
 <td><p>第33話</p></td>
 <td></td>
-<td></td>
+<td><p>隨波逐流 瞬間攻擊與-{索斯獸}-博士</p></td>
 <td><p>高木聖子</p></td>
 <td><p>飯島正勝</p></td>
 <td><p>中野彰子</p></td>
@@ -881,6 +881,23 @@ Joung Jin Young</p></td>
 <td><p>粟井重紀</p></td>
 <td><p>田內亞矢子</p></td>
 <td><p>村上李香</p></td>
+</tr>
+<tr class="even">
+<td><p>第50話</p></td>
+<td></td>
+<td></td>
+<td><p>須藤典彥<br />
+深澤幸司<br />
+北村翔太郎</p></td>
+<td><p>宮井加奈<br />
+宍戸久美子<br />
+松村康功<br />
+岡田繪里香<br />
+本田隆</p></td>
+<td><p>村上李香<br />
+高橋瑞香</p></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>

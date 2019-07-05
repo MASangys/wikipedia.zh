@@ -94,6 +94,7 @@ Records](https://zh.wikipedia.org/wiki/Sony_Music_Associated_Records "wikilink")
 [Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink")
 [Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink")
 [Category:二人組](https://zh.wikipedia.org/wiki/Category:二人組 "wikilink")
+[Category:LDH所屬藝人](https://zh.wikipedia.org/wiki/Category:LDH所屬藝人 "wikilink")
 
 1.
 2.

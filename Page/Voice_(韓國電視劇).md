@@ -393,7 +393,7 @@ Series），台灣於1月15日起每周日一上午10點於[愛奇藝台灣站](
 </tr>
 <tr class="odd">
 <td></td>
-<td></td>
+<td><p>高光洙</p></td>
 <td><p><a href="../Page/黃啟明.md" title="wikilink">黃啟明</a></p></td>
 <td></td>
 </tr>

@@ -9,9 +9,6 @@
   -
   - [台灣公司資料](http://company.g0v.ronny.tw/id/28710621)
 
-  - [和億Q4再拓新品牌 全年徵500人
-    員工享推薦獎金、春酒人人有獎](https://happiness.1111.com.tw/discussTopic.asp?id=216663)
-
 [Category:2015年台灣建立](https://zh.wikipedia.org/wiki/Category:2015年台灣建立 "wikilink")
 [Category:2015年開業商場](https://zh.wikipedia.org/wiki/Category:2015年開業商場 "wikilink")
 [Category:台北市商場](https://zh.wikipedia.org/wiki/Category:台北市商場 "wikilink")

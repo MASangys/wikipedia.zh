@@ -28,9 +28,6 @@ MOMO購物網2016年營收達新台幣205.8億元，僅小於[PChome網路家庭
 
   - [momo 富邦媒體科技股份有限公司](http://www.fmt.com.tw/)
 
-  - [合併營收年增26.4%
-    富邦媒招募6類儲備幹部](https://happiness.1111.com.tw/discussTopic.asp?id=214340)
-
 [Category:台灣的電視頻道](https://zh.wikipedia.org/wiki/Category:台灣的電視頻道 "wikilink")
 [Category:2005年成立的公司](https://zh.wikipedia.org/wiki/Category:2005年成立的公司 "wikilink")
 [Category:購物網站](https://zh.wikipedia.org/wiki/Category:購物網站 "wikilink")

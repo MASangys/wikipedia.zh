@@ -354,12 +354,18 @@ FRIENDS\! Ver.」（第37話）
 
 :; 「あるがまま」（第61話）
 
+:: 作詞：松原さらり（onetrap），作曲、編曲：Maozon、YUKI FUNAKOSHI（Digz, Inc. Group）
+
+:: 主唱：[アリシア](../Page/大西沙織.md "wikilink")（艾麗西亞·夏洛特） from BEST
+FRIENDS！（第61話）
+
+:; 「強く美しく優しく」（第63話）
+
   -
 
       -
-        作詞：松原さらり（onetrap），作曲、編曲：Maozon、YUKI FUNAKOSHI（Digz, Inc. Group）
-        主唱：[アリシア](../Page/大西沙織.md "wikilink")（艾麗西亞·夏洛特） from BEST
-        FRIENDS！（第61話）
+        作詞：松原さらり（onetrap），作曲、編曲：
+        主唱：カレン（神城凱倫） from BEST FRIENDS！（第63話）
 
 <!-- end list -->
 
@@ -1091,17 +1097,18 @@ FRIENDS\! Ver.」（第37話）
 <td><p>倉富康平</p></td>
 <td><p>小川玖理周<br />
 志賀祐香</p></td>
-<td><p>6月27日 &lt;!--</p></td>
+<td><p>6月27日</p></td>
 </tr>
 <tr class="even">
 <td><p>第64話</p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td><p>7月4日 --&gt;</p></td>
+<td><p>Honey Cat上銀河☆</p></td>
+<td><p>守護このみ</p></td>
+<td><p>佐藤照雄</p></td>
+<td><p>進藤陽平</p></td>
+<td><p>三橋妙子<br />
+細田沙織</p></td>
+<td><p>7月4日</p></td>
 </tr>
 </tbody>
 </table>

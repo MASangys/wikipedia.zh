@@ -420,6 +420,8 @@ EXO-L-JAPAN限定版（CD、DVD）</p></td>
 | 11月4日  | Dream Concert 夢想演唱會                   | 平昌冬季奧林匹克廣場\[48\]                         |                                          |
 | 2018   | 9月9日                                  | 2018 SPECTRUM Dance Music Festival\[49\] | [首爾綜合運動場](../Page/首爾綜合運動場.md "wikilink") |
 | 10月6日  | 2018江南 Festival K-Pop 演唱會\[50\]       | SM Town Media                            |                                          |
+| 11月24日 | K－CONCERT in MACAU                    | 澳門東亞場館                                   |                                          |
+| 12月9日  | Maya Music Festival\[51\]             | 曼谷Oasis Arena                            |                                          |
 
 ## 粉絲見面會
 
@@ -475,7 +477,7 @@ EXO-L-JAPAN限定版（CD、DVD）</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/甜瓜音樂獎.md" title="wikilink">Melon Music Awards</a>[51]</p></td>
+<td><p><a href="../Page/甜瓜音樂獎.md" title="wikilink">Melon Music Awards</a>[52]</p></td>
 <td><p>舞蹈獎（男子部門）</p></td>
 <td><p>Blooming Day</p></td>
 <td></td>
@@ -504,7 +506,7 @@ EXO-L-JAPAN限定版（CD、DVD）</p></td>
 </tr>
 <tr class="even">
 <td><p>2019年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金唱片獎" title="wikilink">金唱片獎</a>[52]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金唱片獎" title="wikilink">金唱片獎</a>[53]</p></td>
 <td><p>唱片部門－本賞</p></td>
 <td><p><a href="../Page/Blooming_Days.md" title="wikilink">Blooming Days</a></p></td>
 <td></td>
@@ -517,7 +519,7 @@ EXO-L-JAPAN限定版（CD、DVD）</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Gaon_Chart_K-POP大獎.md" title="wikilink">Gaon Chart K-POP大獎</a>[53]</p></td>
+<td><p><a href="../Page/Gaon_Chart_K-POP大獎.md" title="wikilink">Gaon Chart K-POP大獎</a>[54]</p></td>
 <td><p>年度歌手賞-第二季專輯部門</p></td>
 <td></td>
 <td></td>
@@ -728,3 +730,5 @@ EXO-L-JAPAN限定版（CD、DVD）</p></td>
 52.
 
 53.
+
+54.

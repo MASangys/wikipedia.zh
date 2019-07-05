@@ -671,7 +671,7 @@ Class Flower兼任</p></td>
 <td></td>
 <td></td>
 <td><p>上海</p></td>
-<td><p>1期</p></td>
+<td><p>3期</p></td>
 <td><p>2019年5月19日</p></td>
 <td><p>Class Bridge</p></td>
 </tr>

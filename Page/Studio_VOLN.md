@@ -6,10 +6,10 @@ VOLN**（，）於2014年成立，是[日本一家](../Page/日本.md "wikilink"
 Studio
 VOLN是一家以執行動畫的企畫和製作為主要事業內容的動畫製作工作室。2014年8月12日，由[MADHOUSE動畫製作人一職出身的三田圭志成立](../Page/MADHOUSE.md "wikilink")\[1\]。
 
-次年2015年7月至2016年6月播映，與（同樣從MADHOUSE獨立）[MAPPA共同製作的電視動畫](../Page/MAPPA.md "wikilink")《[潮與虎](https://zh.wikipedia.org/wiki/潮與虎 "wikilink")》第一次投入統包製作\[2\]。
+2015年7月至2016年6月為止播映，與（同樣從MADHOUSE獨立）[MAPPA共同製作的電視動畫](../Page/MAPPA.md "wikilink")《[潮與虎](https://zh.wikipedia.org/wiki/潮與虎 "wikilink")》第一次投入統包製作\[2\]。
 
-2018年10月起目前播映的另一齣電視動畫《[傀儡馬戲團](https://zh.wikipedia.org/wiki/傀儡馬戲團 "wikilink")》開始，Studio
-VOLN全面挑戰獨自統包製作。
+另一部從2018年10月至2016年6月為止播映的電視動畫《[傀儡馬戲團](https://zh.wikipedia.org/wiki/傀儡馬戲團 "wikilink")》是Studio
+VOLN第一次全面獨自統包製作。
 
 其公司命名來自成語「溫故知新」的英文「**V**isiting **O**ld **L**earn
 **N**ew」中的首字母，表達出「繼承傳統動畫的生產精神，挑戰嶄新的可能性」的理念\[3\]。
@@ -57,7 +57,7 @@ VOLN全面挑戰獨自統包製作。
 <td><p>2018年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/傀儡馬戲團" title="wikilink">傀儡馬戲團</a></p></td>
 <td></td>
-<td><p>10月－<strong>播放中</strong></p></td>
+<td><p>10月－2019年6月</p></td>
 <td><p>西村聰</p></td>
 <td><p>漫畫</p></td>
 <td><p>－</p></td>

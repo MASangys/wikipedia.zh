@@ -30,6 +30,7 @@
   -
   -
 [Category:日本流行音樂歌手](https://zh.wikipedia.org/wiki/Category:日本流行音樂歌手 "wikilink")
+[Category:LDH所屬藝人](https://zh.wikipedia.org/wiki/Category:LDH所屬藝人 "wikilink")
 
 1.
 2.

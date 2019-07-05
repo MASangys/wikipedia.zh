@@ -474,7 +474,7 @@ FOX Family Movies為所有年齡層觀眾帶來各大電影公司精彩和全面
 <tr class="odd">
 <td><p>512<sub>HD</sub></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/BBC_Lifestyle" title="wikilink">BBC Lifestyle</a> HD</p></td>
-<td><p>Ultimate 配套</p></td>
+<td><p>Ultimate 配套/宝红 Plus 配套/Aneka Plus 配套/Varnam 配套</p></td>
 <td></td>
 <td></td>
 <td><p>BBC Lifestyle 旨在透過家居設計、時裝、健康、個人發展、育兒及美食節目，啟發觀眾進一步享受生活。為喜歡娛樂及啟發性節目的觀眾提供緊貼潮流的內容。由BBC媒体制作。</p></td>
@@ -740,7 +740,7 @@ FOX Family Movies為所有年齡層觀眾帶來各大電影公司精彩和全面
 ## 视频点播
 
   - BBC First HD
-  - now 华剧台 (独称, 預定取代Hypp经典台)
+  - now 华剧台 (独称Hypp经典台)
   - Hypp Flicks Plus
   - Top Movies of the week\!
   - Hypp Play
@@ -754,16 +754,13 @@ FOX Family Movies為所有年齡層觀眾帶來各大電影公司精彩和全面
 
   - CNN HD (604频道) (8月开播)
 
-  - [HITS HD](https://zh.wikipedia.org/wiki/Hits_\(电视频道\) "wikilink")
-    (452频道) (9月開播)
-
   - WakuWaku Japan HD (216频道)
 
   - Sony GEM HD (217频道)
 
-  - 东森亚洲台 (234频道)
+  - 东森亚洲台 (230频道)
 
-  - 中天亚洲台 (235频道)
+  - 中天亚洲台 (242频道)
 
   - 东森亚洲新闻台 (261频道)
 
@@ -782,6 +779,9 @@ FOX Family Movies為所有年齡層觀眾帶來各大電影公司精彩和全面
   - (456频道)
 
   - DIVA HD (457频道)
+
+  - [HITS HD](https://zh.wikipedia.org/wiki/Hits_\(电视频道\) "wikilink")
+    (459频道)
 
   - ITV Choice HD (475頻道)
 
@@ -855,9 +855,9 @@ FOX Family Movies為所有年齡層觀眾帶來各大電影公司精彩和全面
 
 **Unifi中文频道**
 
-  - Hypp 长城台 (233, 大陆华语综合频道，预定取代now Jelli紫金国际台)
-  - 优化影院台 (225, 中文电影频道與本地，新加波，香港，台湾和大陆, 包含日文电影和韩文電影+中文字幕，预定取代now爆谷台)
-  - Hypp 黄金台 (231, 香港粤语综合频道, 预定取代now International)
+  - Hypp 长城台 (234, 大陆华语综合频道)
+  - 优化影院台 (227, 中文电影频道與本地，新加波，香港，台湾和大陆, 包含日文电影和韩文電影+中文字幕。)
+  - Hypp 黄金台 (235, 香港粤语综合频道)
 
 **Unifi馬來語原創頻道**
 
@@ -868,9 +868,9 @@ FOX Family Movies為所有年齡層觀眾帶來各大電影公司精彩和全面
   - Dunia Niaga HD (127,馬來語資訊頻道)
   - Hypp Komedi HD (129, 馬來語喜劇頻道)
 
-**即將來臨的本地開播頻道**
+**即将来临的地面电视频道**
 
-  - TV Okey HD (8月开播)
+  - TV Okey HD
   - RTM HD SPORTS
   - ACTV
   - ACTV 2

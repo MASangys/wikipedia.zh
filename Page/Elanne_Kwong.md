@@ -1,5 +1,5 @@
 《**Elanne
-Kwong**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[江若琳的第](https://zh.wikipedia.org/wiki/江若琳 "wikilink")4張音樂專輯、第1張國語專輯，於2011年1月5日推出。
+Kwong**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[江若琳的第](../Page/江若琳.md "wikilink")4張音樂專輯、第1張國語專輯，於2011年1月5日推出。
 
 ## 曲目列表
 

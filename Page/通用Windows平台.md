@@ -32,9 +32,8 @@ Studio
 Studio项目以移植到Windows 10 Mobile。\[8\]\[9\]\[10\]Windows Bridge for
 iOS的一个早期版本已使用[MIT许可证在](../Page/MIT許可證.md "wikilink")2015年8月6日发布为一个开源软件，而Android版本仍在内部测试。\[11\]
 
-2016年2月，微软宣布已经收购了位于旧金山的开发软件的公司。\[12\]此次收购后不久，微软宣布将放弃Android
-bridge项目，并计划支持在Windows 10上运行Android應用程式。他们的关注重点将主要集中在iOS
-bridge。\[13\]
+2016年2月，微软宣布已经收购了位于旧金山的开发[Xamarin软件的公司](https://zh.wikipedia.org/wiki/Xamarin "wikilink")。\[12\]此次收购后不久，微软宣布将放弃Android
+bridge项目，并计划支持在Windows 10上运行Android應用程式。他们的关注重点将主要集中在iOS bridge。\[13\]
 
 ## 开发
 
@@ -51,7 +50,9 @@ Games创办人Tim](../Page/Epic_Games.md "wikilink")
 Sweeney批评UWP是一个“[围墙花园](../Page/封閉平臺.md "wikilink")”，默认情况下，UWP软件只能通过[Windows應用程式商店安装](https://zh.wikipedia.org/wiki/Windows商店 "wikilink")，必须更改系统设置才能启用外部應用程式的安装（[Android系统有类似的设计](../Page/Android.md "wikilink")）。此外，某些系统功能只能在UWP中调用，不能在基于[Win32的软件中使用](../Page/Windows_API.md "wikilink")，这包括大多数PC电子游戏。Sweeny表示这些是“微软在以有史以来最激进的动作”，试图将PC转变为一个封闭平台，并且这些举动注定将使[Steam等第三方商店处于劣势](../Page/Steam.md "wikilink")，微软在削减了用户自由安装全功能PC软件的自由，破坏开发者及发行商与其客户之间保持直接关系的权利。因此，Sweeney称[最终用户应该可以直接下载UWP软件并以桌面软件相同的方式安装它](https://zh.wikipedia.org/wiki/最终用户 "wikilink")。\[17\]
 
 在Build 2016期间，微软Xbox部门负责人Phil
-Spencer宣布公司正在尝试解决一些问题，以改进UWP对PC游戏的能力。其指出微软正在“致力于达到或超过全屏游戏的性能预期，以及提供包括覆盖层、模组等附加功能的支持。”，同时也宣布提供禁用[垂直同步的支持](https://zh.wikipedia.org/wiki/垂直同步 "wikilink")，以及和技术的支持，这将在[Windows
+Spencer宣布公司正在尝试解决一些问题，以改进UWP对PC游戏的能力。其指出微软正在“致力于达到或超过全屏游戏的性能预期，以及提供包括覆盖层、模组等附加功能的支持。”，同时也宣布提供禁用[垂直同步的支持](https://zh.wikipedia.org/wiki/垂直同步 "wikilink")，以及[AMD
+FreeSync和](../Page/FreeSync.md "wikilink")[Nvidia
+G-Sync技术的支持](../Page/Nvidia_G-Sync.md "wikilink")，这将在[Windows
 10的未来更新中添加](../Page/Windows_10.md "wikilink")。\[18\]
 
 ## 参考资料

@@ -10,7 +10,9 @@
 
   -
     首次採用以世界歷史中存在的偉人英靈作為變身元素，主角設定上同樣為死者。\[1\]\[2\]\[3\]
-    本作世界觀設定與前作《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》和續作《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》相連\[4\]，在《[劇場版
+    本作世界觀設定與前作《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》和續作《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》相連\[4\]，之後於2017年上映的《[假面騎士平成Generations
+    FINAL Build & EX-AID with
+    傳說騎士](../Page/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士.md "wikilink")》得知《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》至《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》實为同一世界觀，在《[劇場版
     假面騎士Drive SURPRISE
     FUTURE](https://zh.wikipedia.org/wiki/劇場版_假面騎士Drive_SURPRISE_FUTURE "wikilink")》裡先行現身，亦繼後在劇中再次使用「**假面騎士**」一詞稱呼。
     雖然有明確使用「**假面騎士**」一詞，但相對其它有使用「**假面騎士**」的作品，本作除第1、49、50話及每話開頭前男主角的旁白外基本上沒有提及。而各假面騎士的名稱在劇中同樣甚少提及，即使變身後各假面騎士及敵方亦會直呼變身者的名字。
@@ -3975,8 +3977,7 @@ Ghost驅動器使用時音效為「Let's Go！Kakugo！Gho・Gho・Gho・Ghost�
 
 3.  [新ライダーはいきなり死亡\!?ジュノンボーイ・西銘駿が「仮面ライダーゴースト」襲名](http://www.cinemacafe.net/article/2015/08/18/33486.html)
 
-4.  最終話特別篇，之後於2017年上映的《[假面騎士平成Generations FINAL Build & EX-AID with
-    傳說騎士](../Page/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士.md "wikilink")》得知《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》至《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》實为同一世界觀
+4.  最終話特別篇
 
 5.  『東映ヒーローMAX』VOLUME 52（2015 autumn）
 

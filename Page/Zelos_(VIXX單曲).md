@@ -1,5 +1,5 @@
 《**Zelos**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[VIXX的第六張韓語實體](../Page/VIXX.md "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")（不計算特別單曲則為第五張），以[Simon
-Janlov](https://zh.wikipedia.org/wiki/Simon_Janlov "wikilink")、、[MELODESIGN作曲](https://zh.wikipedia.org/wiki/MELODESIGN "wikilink")、[Misfit與](https://zh.wikipedia.org/wiki/Misfit "wikilink")[RAVI作詞的](https://zh.wikipedia.org/wiki/金元植 "wikilink")《炸藥》（，直譯為｢Dynamite｣）主打曲，並在2016年4月19日推出\[1\]。
+Janlov](https://zh.wikipedia.org/wiki/Simon_Janlov "wikilink")、、[MELODESIGN作曲](https://zh.wikipedia.org/wiki/MELODESIGN "wikilink")、[Misfit與](https://zh.wikipedia.org/wiki/Misfit "wikilink")[RAVI作詞的](../Page/金元植.md "wikilink")《炸藥》（，直譯為｢Dynamite｣）主打曲，並在2016年4月19日推出\[1\]。
 
 ## 背景
 

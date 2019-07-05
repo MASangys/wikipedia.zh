@@ -27,7 +27,7 @@ RAP / 台灣饒舌「最火 TOP.10」 第一名高達 6
 
 2017年製作了[三星NOTE8發佈記者會的單曲演出](https://zh.wikipedia.org/wiki/三星NOTE8 "wikilink")。同年也和[故宮博物院合作](https://zh.wikipedia.org/wiki/故宮博物院 "wikilink")，打造前所未見的結合動畫、嘻哈音樂及國寶文物的單曲[MV](https://zh.wikipedia.org/wiki/MV "wikilink")。
 
-2018年年正式將公司搬遷至南港，目前旗下正式簽約的歌手有iM(蚊子&曼萍)、Boiii P、Hon J、Yellow Peace。
+2018年年正式將公司搬遷至南港，目前旗下正式簽約的歌手有iM(蚊子&曼萍)。
 
 ## 發行作品
 

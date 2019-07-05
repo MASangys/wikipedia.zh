@@ -884,7 +884,7 @@ Level 4</strong></p></td>
 踢擊力：t<br />
 跳躍力：m<br />
 行動速度：m / 秒</p></td>
-<td><p>全身以 色為主</p></td>
+<td><p>全身以豹紋色為主</p></td>
 <td><p>以「Quest Gamer Level 2」作爲基礎再以「Safari Gamer」進行武裝的形態。</p></td>
 <td><p><strong>Night of Critical Strike</strong><br />
 原文： |-:</p></td>
@@ -1281,10 +1281,8 @@ Level 5<br />
 四人聯合的必殺技。發動時向敵人發出強力的斬擊及射擊。</p></td>
 </tr>
 <tr class="even">
-<td><p>style="text-align:center”|<strong>Chambara Gamer<br />
-Level X</strong><br />
-<strong>劍擊玩家<br />
-Level X</strong></p></td>
+<td><p>style="text-align:center”|<strong>Kamen Rider LazerX</strong><br />
+<strong>假面騎士LazerX</strong></p></td>
 <td></td>
 <td></td>
 <td></td>

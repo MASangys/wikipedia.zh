@@ -1,12 +1,9 @@
-**《ONE PIECE FILM
-GOLD》**（）是改编自[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[尾田榮一郎的著名漫畫](https://zh.wikipedia.org/wiki/尾田榮一郎 "wikilink")《[ONE
+**《航海王電影：GOLD》**（）是改编自[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[尾田榮一郎的著名漫畫](https://zh.wikipedia.org/wiki/尾田榮一郎 "wikilink")《[ONE
 PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版系列的第](https://zh.wikipedia.org/wiki/劇場版 "wikilink")13部作品，由作者[尾田榮一郎擔任製作總指揮](https://zh.wikipedia.org/wiki/尾田榮一郎 "wikilink")，日本於2016年7月23日上映。
 
 ## 本作特色
 
-自2012年12月《[ONE PIECE FILM
-Z](../Page/航海王電影：Z.md "wikilink")》上映的3年半後，官方決定製作新劇場版《ONE
-PIECE FILM GOLD》，作者尾田榮一郎親自參與製作，以「那是、統率世界的力量」為標語，並用金色作為主題。
+自2012年12月《[航海王電影：Z](../Page/航海王電影：Z.md "wikilink")》上映的3年半後，官方決定製作新劇場版《航海王電影：GOLD》，作者尾田榮一郎親自參與製作，以「那是、統率世界的力量」為標語，並用金色作為主題。
 
 本作舞台是被稱為世界政府無法干預的絕對聖域，世界最大娛樂城市，其掌門人是吃了黃金果實的黃金大帝基爾德·泰佐羅，他無窮的野心即將撼動新世界的勢力版圖。
 
@@ -691,11 +688,10 @@ Mine）在新世界繼續冒險旅程的草帽海賊團，乘著巴特洛馬的�
 
 ### 黃金之心
 
-**《ONE PIECE 特別篇 ～黃金之心～》**（）是電視動畫《[ONE
+**《航海王特別篇：黃金之心》**（）是電視動畫《[ONE
 PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")》的特別節目，於2016年7月16日在日本[富士電視台播出](../Page/富士電視台.md "wikilink")。
 
-該2小時特別節目為為電影版《[ONE PIECE FILM
-GOLD](../Page/ONE_PIECE_FILM_GOLD.md "wikilink")》公開記念特別企畫，為電影版故事的前傳。為「週六PREMIUM」時段播出的《[ONE
+該2小時特別節目為為電影版《航海王電影：GOLD》公開記念特別企畫，為電影版故事的前傳。為「週六PREMIUM」時段播出的《[ONE
 PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")》電視特別篇第八彈。
 
 本作主題曲為「Destiny」，由同樣擔任電視動畫版第二首片尾曲的[大槻真希所擔任作詞](../Page/大槻真希.md "wikilink")、作曲及演唱，編曲為大槻隆。插入曲為「」由飾演本作新角色的奧爾嘉聲優[濱邊美波演唱](../Page/濱邊美波.md "wikilink")。特別來賓邀請到知名[俳優的](https://zh.wikipedia.org/wiki/俳優 "wikilink")[小栗旬出演](../Page/小栗旬.md "wikilink")，飾演本作反派史上最凶殘最瘋狂的尋寶獵人。
@@ -706,9 +702,7 @@ PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")》電視�
     聲優：[小栗旬](../Page/小栗旬.md "wikilink")\[37\]（日本）；[陳彥鈞](../Page/陳彥鈞.md "wikilink")（台灣）
     托雷傑海賊團的領袖。寶藏獵人，史上最凶殘最瘋狂的尋寶者。有著張揚的紅髮和纏滿全身的鎖鏈的特徵。笑聲很有特點，「沙拉拉拉拉」～（jarararara）。
     實力超群，**超人系「[鎖鍊果實](../Page/惡魔果實.md "wikilink")」**（
-    ）的能力者\[38\]。體內可以自由伸出鎖鏈的「[鎖鏈人](https://zh.wikipedia.org/wiki/鎖 "wikilink")」。也在《[ONE
-    PIECE FILM
-    GOLD](../Page/ONE_PIECE_FILM_GOLD.md "wikilink")》中登場，曾經抓過娜美與卡莉娜。
+    ）的能力者\[38\]。體內可以自由伸出鎖鏈的「[鎖鏈人](https://zh.wikipedia.org/wiki/鎖 "wikilink")」。也在《航海王電影：GOLD》中登場，曾經抓過娜美與卡莉娜。
     為得到寶藏「PURE
     GOLD」而追捕著知道方法與地點的少女奧爾加。被泰佐羅僱傭來尋找**「純金」**，曾對田中先生表示自己相當喜歡尋寶時過程的刺激，本身對寶藏沒什麼興趣。在本劇中，與魯夫在燈籠大人體內的「阿爾凱米」展開激戰，戰鬥中認為夥伴只不就是利用了就丟的東西，同時引起魯夫的憤怒被三檔象槍擊敗。最後與夥伴生存在燈籠大神的體內。
   -

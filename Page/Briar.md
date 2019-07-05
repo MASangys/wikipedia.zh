@@ -6,6 +6,10 @@
 
 ## 参考资料
 
+## 外部链接
+
+[Briar 官网](https://briarproject.org/)
+
 [Category:通讯软件](https://zh.wikipedia.org/wiki/Category:通讯软件 "wikilink")
 
 1.

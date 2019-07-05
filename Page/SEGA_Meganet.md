@@ -35,7 +35,8 @@ Anser」相似的銀行帳號管理套件也有推出\[11\]。
 ## 遊戲
 
 SEGA
-Meganet服務共支援約30款遊戲，其中多數遊戲從未以卡帶形式推出，不過像《》、《》、《》及《》等遊戲後來也有因應需求推出卡帶版本；部分遊戲也於1994年在[Mega-CD平台上推出的合輯性質作品](../Page/Mega-CD.md "wikilink")《》中登場。基於當時網路速度的限制，大部分SEGA
+Meganet服務共支援約30款遊戲，其中多數遊戲從未以卡帶形式推出，不過像《》、《》、《》及《》等遊戲後來也有因應需求推出卡帶版本；部分遊戲也於1994年在[Mega-CD平台上推出的合輯性質作品](../Page/Mega-CD.md "wikilink")《》（後來以《SEGA遊戲大合輯
+超值版》名義移植回Mega Drive平臺）中登場。基於當時網路速度的限制，大部分SEGA
 Meganet遊戲容量都不到128[KB](../Page/千字节.md "wikilink")\[12\]。下載一款遊戲約費時5至8分鐘\[13\]。
 
 大多數支援SEGA Meganet服務的遊戲皆需透過「Mega
@@ -43,7 +44,7 @@ Modem」專用的《世嘉遊戲圖書館》軟體遊玩。當時長距離輸送
 Meganet遊戲數量稀少\[14\]。
 
 <table>
-<caption>SEGA Meganet 遊戲列表[15][16]</caption>
+<caption>SEGA Meganet支援遊戲列表[15][16]</caption>
 <thead>
 <tr class="header">
 <th><p>原文標題╱其他譯名</p></th>

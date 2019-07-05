@@ -363,7 +363,7 @@ HTTP 头字段根据实际用途被分为以下 4 种类型：
 </tr>
 <tr class="even">
 <td><p><span class="nowrap" contenteditable="false">Content-Security-Policy</span>, <span class="nowrap" contenteditable="false"><em>X-Content-Security-Policy</em></span><span class="nowrap" contenteditable="false"></span>, <span class="nowrap" contenteditable="false"><em>X-WebKit-CSP</em></span><span class="nowrap" contenteditable="false"></span>[41]</p></td>
-<td><p>内容安全策略定义。</p></td>
+<td><p><a href="../Page/内容安全策略.md" title="wikilink">内容安全策略定义</a>。</p></td>
 <td><p><code>X-WebKit-CSP: default-src 'self'</code></p></td>
 </tr>
 <tr class="odd">

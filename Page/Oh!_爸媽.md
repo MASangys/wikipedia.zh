@@ -52,7 +52,6 @@ Tsang](https://zh.wikipedia.org/wiki/Ian_Tsang "wikilink"),
 
 [Category:中文網站](https://zh.wikipedia.org/wiki/Category:中文網站 "wikilink")
 [Category:香港媒體](https://zh.wikipedia.org/wiki/Category:香港媒體 "wikilink")
-[Category:香港民間媒體](https://zh.wikipedia.org/wiki/Category:香港民間媒體 "wikilink")
 [Category:香港網站](https://zh.wikipedia.org/wiki/Category:香港網站 "wikilink")
 [Category:2015年建立的網站](https://zh.wikipedia.org/wiki/Category:2015年建立的網站 "wikilink")
 [Category:星島新聞集團](https://zh.wikipedia.org/wiki/Category:星島新聞集團 "wikilink")

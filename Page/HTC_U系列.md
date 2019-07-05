@@ -19,7 +19,7 @@ Ultra已於](../Page/HTC_U_Ultra.md "wikilink")2017年1月12日發表。
   - [U11 EYEs](https://zh.wikipedia.org/wiki/HTC_U11_EYEs "wikilink")
   - [U12+](../Page/HTC_U12+.md "wikilink")
   - [U12 Life](https://zh.wikipedia.org/wiki/HTC_U12_Life "wikilink")
-  - U12 EXODUS 1
+  - [EXODUS 1](https://zh.wikipedia.org/wiki/HTC_EXODUS_1 "wikilink")
 
 ### 2019年
 

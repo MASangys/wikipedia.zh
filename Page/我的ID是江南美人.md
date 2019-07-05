@@ -114,7 +114,7 @@ webtoon的同名網路漫畫](https://zh.wikipedia.org/wiki/Naver_webtoon "wikil
 </tbody>
 </table>
 
-### 韓國大學同學
+### 韓國大學其他同學
 
 <table style="width:70%;">
 <colgroup>
@@ -130,7 +130,7 @@ webtoon的同名網路漫畫](https://zh.wikipedia.org/wiki/Naver_webtoon "wikil
 </tr>
 <tr class="even">
 <td><p><a href="../Page/朴宥娜.md" title="wikilink">朴宥娜</a></p></td>
-<td><p>崔儒恩</p></td>
+<td><p>劉恩[7]</p></td>
 <td><p>重考三年，今年錄取化學系成為新生，一年級系代表。由於家境一般，故需要靠著自己打工來獲得零用錢。與姜美來還有崔正芬是交情不錯的同學，成熟和時尚的性格獲得很多女性朋友，同時透過人脈網絡知道很多人的秘密，也是第一個發現秀兒秘密的人。</p></td>
 </tr>
 <tr class="odd">
@@ -151,7 +151,7 @@ webtoon的同名網路漫畫](https://zh.wikipedia.org/wiki/Naver_webtoon "wikil
 <tr class="even">
 <td><p><a href="../Page/徐智慧_(1996年).md" title="wikilink">徐智慧</a></p></td>
 <td><p>盧敏雅</p></td>
-<td><p>化學系的學姐，負責在新生報到處將資料交給新生；與高藝娜等人在新生晚會時與都慶錫在同一小組，並站在都炅錫身旁以手機拍攝姜美來跳《New Face》等。同時也有參加「開講派對」[7]；以及在走廊上請玄秀兒多多找朋友來參與化學系的慶典活動等。</p></td>
+<td><p>化學系的學姐，負責在新生報到處將資料交給新生；與高藝娜等人在新生晚會時與都慶錫在同一小組，並站在都炅錫身旁以手機拍攝姜美來跳《New Face》等。同時也有參加「開講派對」[8]；以及在走廊上請玄秀兒多多找朋友來參與化學系的慶典活動等。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/裴多彬.md" title="wikilink">裴多彬</a></p></td>
@@ -161,7 +161,7 @@ webtoon的同名網路漫畫](https://zh.wikipedia.org/wiki/Naver_webtoon "wikil
 <tr class="even">
 <td><p><a href="../Page/李藝琳.md" title="wikilink">李藝琳</a></p></td>
 <td><p>金泰熙</p></td>
-<td><p>化學系二年級的學姐，樣貌可愛，但因為身材稍微豐腴，常常被學長與男同學改名為「肉泰熙」，喜歡具泰英並且告白成功，但因為秀兒的關係交往一段時間後就分手。[8][9][10]。</p></td>
+<td><p>化學系二年級的學姐，樣貌可愛，但因為身材稍微豐腴，常常被學長與男同學改名為「肉泰熙」，喜歡具泰英並且告白成功，但因為秀兒的關係交往一段時間後就分手。[9][10][11]。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/白秀敏.md" title="wikilink">白秀敏</a></p></td>
@@ -258,7 +258,7 @@ webtoon的同名網路漫畫](https://zh.wikipedia.org/wiki/Naver_webtoon "wikil
 <tr class="even">
 <td></td>
 <td></td>
-<td><p>電影院顧客，坐在美來和慶錫後排，看到他們穿著高中制服誤以他們真的是高中生而出言批評。</p></td>
+<td><p>電影院顧客，坐在美來和慶錫後排，看到他們身穿國中同校的制服卻直接在公眾場合做出情侶互動，誤以為他們真的是國中生逕自出言批評，顯擺出「國中年紀的學生不應該談戀愛」的主觀態度，儘管說話音量較小卻還是被美來聽到了，並慘遭駁斥。</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -318,7 +318,7 @@ webtoon的同名網路漫畫](https://zh.wikipedia.org/wiki/Naver_webtoon "wikil
 <td><p>崔成範<br />
 （本劇導演）</p></td>
 <td><p>香水店老闆</p></td>
-<td><p>美來和賢貞前往購賣製作香水材料的香水店老闆[11]</p></td>
+<td><p>美來和賢貞前往購賣製作香水材料的香水店老闆[12]</p></td>
 <td><p>4</p></td>
 </tr>
 <tr class="even">
@@ -411,7 +411,7 @@ webtoon的同名網路漫畫](https://zh.wikipedia.org/wiki/Naver_webtoon "wikil
 <tr class="header">
 <th><p>集數</p></th>
 <th><p>播出日期</p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/AC尼爾森" title="wikilink">AGB收視率</a>[12]</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/AC尼爾森" title="wikilink">AGB收視率</a>[13]</p></th>
 </tr>
 </thead>
 <tbody>
@@ -582,9 +582,10 @@ webtoon的同名網路漫畫](https://zh.wikipedia.org/wiki/Naver_webtoon "wikil
 4.  在韓文中，原網路漫畫標題中的ID是以「英文」撰寫，但電視劇則改以「韓文」的ID（）來作為標題。
 5.  「姜美來」的漢字名於劇集中有完整顯示，在第一集美來出示身分證時，字樣為「姜美來」。
 6.  但第11集出現的韓名字名為정명훈，取「鄭」(정)這是韓國常見單字姓較合理。
-7.  新生迎新酒吧活動。
-8.  [韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[綜藝教父](https://zh.wikipedia.org/wiki/綜藝 "wikilink")[李敬揆的女兒](../Page/李敬揆.md "wikilink")，特別為此劇增胖9公斤
-9.
+7.  在劇集第12集當中，劉恩身著的實驗袍有繡上名字且清楚標示「유은」兩字，因此可知姓氏為「유」、名字為「은」。或譯「柳恩」，韓國姓氏「유」無特定專指「劉」或「柳」氏，兩者皆通用。
+8.  新生迎新酒吧活動。
+9.  [韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[綜藝教父](https://zh.wikipedia.org/wiki/綜藝 "wikilink")[李敬揆的女兒](../Page/李敬揆.md "wikilink")，特別為此劇增胖9公斤
 10.
-11. 官方公開花絮中提及並有拍攝導演化妝，並與演員對戲的過程。
-12.
+11.
+12. 官方公開花絮中提及並有拍攝導演化妝，並與演員對戲的過程。
+13.

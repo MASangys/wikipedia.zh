@@ -479,7 +479,7 @@
 <tr class="even">
 <td><p>61</p></td>
 <td><p>11月13日</p></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/申升勋" title="wikilink">申升勋</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -500,7 +500,7 @@
 <tr class="odd">
 <td><p>64</p></td>
 <td><p>12月4日</p></td>
-<td><p>、<a href="https://zh.wikipedia.org/wiki/卞眞燮" title="wikilink">卞眞燮</a>、</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/申升勋" title="wikilink">申升勋</a>、<a href="https://zh.wikipedia.org/wiki/卞眞燮" title="wikilink">卞眞燮</a>、</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -733,7 +733,7 @@
 <tr class="even">
 <td><p>95</p></td>
 <td><p>7月9日</p></td>
-<td><p>、<a href="../Page/張東民.md" title="wikilink">張東民</a>、</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/刘世允" title="wikilink">刘世允</a>、<a href="../Page/張東民.md" title="wikilink">張東民</a>、</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1099,7 +1099,7 @@
 <tr class="odd">
 <td><p>145</p></td>
 <td><p>6月24日</p></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李芝娟" title="wikilink">李芝娟</a></p></td>
 <td><p>援助青少年明星</p></td>
 <td></td>
 </tr>
@@ -2828,7 +2828,7 @@
 <tr class="even">
 <td><p>407</p></td>
 <td><p>12月8日</p></td>
-<td><p>、、<a href="https://zh.wikipedia.org/wiki/Sleepy" title="wikilink">Sleepy</a></p></td>
+<td><p>、<a href="https://zh.wikipedia.org/wiki/文世允" title="wikilink">文世允</a>、<a href="https://zh.wikipedia.org/wiki/Sleepy" title="wikilink">Sleepy</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

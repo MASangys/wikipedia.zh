@@ -594,9 +594,9 @@ Gary、宋智孝、李相侖<br />
 <strong>Running Man隊</strong><br />
 池錫辰、宋智孝、Gary、俊昊、金鐘國、韓孝周、劉在錫</p></td>
 <td><p><strong>死亡筆記隊</strong><br />
-按數字順序擊敗Running Man隊<br />
+按順序擊敗Running Man隊<br />
 <strong>Running Man隊</strong><br />
-擊敗死神</p></td>
+先關閉108部閉路電視後擊敗死神</p></td>
 </tr>
 <tr class="even">
 <td><p>152<br />

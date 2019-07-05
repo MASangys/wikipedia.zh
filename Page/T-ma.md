@@ -1,5 +1,7 @@
 **馬敬恆**（**Terrence
-Ma**），[香港](../Page/香港.md "wikilink")[音樂製作人](https://zh.wikipedia.org/wiki/音樂 "wikilink")，主要以筆名**T-ma**發表作品，近年主要為香港流行歌曲創作，並負責編曲、監製等。
+Ma**），[香港](../Page/香港.md "wikilink")[音樂製作人](https://zh.wikipedia.org/wiki/音樂 "wikilink")，業內常稱T-Ma。1990年6月8日出生於香港，14歲開始寫歌，16歲簽約日本Sony,與友人組成樂隊amplified出道，單曲《Mr.Raindrop》為日本動畫片《銀魂》片尾曲，一年發完兩張碟後解約遠走美國深造。畢業返港受香港著名監製Edward
+Chan賞識，進入旗下工作室學習，於2018年成立個人工作室Blue Moon
+Production，轉做獨立幕後音樂人。近年主要為香港流行歌曲創作，並負責編曲、監製等。
 
 ## 作品列表
 
@@ -152,7 +154,7 @@ Ma**），[香港](../Page/香港.md "wikilink")[音樂製作人](https://zh.wik
 </tr>
 <tr class="even">
 <td><ul>
-<li><a href="https://zh.wikipedia.org/wiki/ALBS" title="wikilink">ALBS</a> - Dream On（曲、編）</li>
+<li><a href="../Page/ALBS.md" title="wikilink">ALBS</a> - Dream On（曲、編）</li>
 <li><a href="../Page/A-Lin.md" title="wikilink">A-Lin</a> - 一直走（Go）（曲、編）</li>
 <li><a href="../Page/江海迦.md" title="wikilink">AGA</a>、<a href="https://zh.wikipedia.org/wiki/Gin_Lee" title="wikilink">Gin Lee</a>、<a href="../Page/王灝兒.md" title="wikilink">JW</a>、<a href="../Page/鄭欣宜.md" title="wikilink">鄭欣宜</a> - 星足印（曲、編、監）</li>
 <li><a href="https://zh.wikipedia.org/wiki/JUDE" title="wikilink">JUDE</a> - 他他他（曲、編、監）</li>
@@ -234,6 +236,8 @@ Ma**），[香港](../Page/香港.md "wikilink")[音樂製作人](https://zh.wik
 </tr>
 </tbody>
 </table>
+
+曾詠熙-對愛說 （曲、編、監）
 
 ## 外部連結
 

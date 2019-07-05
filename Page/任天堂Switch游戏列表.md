@@ -2077,8 +2077,8 @@ Crash Bandicoot N. Sane Trilogy</p></td>
 <td><p>Cyberstep</p></td>
 <td></td>
 <td><p>2018年7月5日</p></td>
-<td></td>
-<td></td>
+<td><p>2018年7月5日</p></td>
+<td><p>2018年7月5日</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/光明之響.md" title="wikilink">光明之響 龍奏回音</a><br />
@@ -2116,7 +2116,7 @@ Captain Toad: Treasure Tracker for Switch</p></td>
 <td><p>2018年7月13日</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/八方旅人" title="wikilink">八方旅人(官譯:歧路旅人)</a><br />
+<td><p><a href="../Page/八方旅人.md" title="wikilink">八方旅人(官譯:歧路旅人)</a><br />
 Octopath Traveler<br />
 オクトパストラベラー</p></td>
 <td><p>角色扮演</p></td>
@@ -2710,6 +2710,18 @@ Ultimate Chicken Horse</p></td>
 <td><p>2018年9月25日</p></td>
 </tr>
 <tr class="even">
+<td><p>傳奇小釣手<br />
+Legendary Fishing<br />
+レジェンダリー フィッシング</p></td>
+<td><p>體育(釣魚)</p></td>
+<td><p>Ubisoft</p></td>
+<td><p>Ubisoft</p></td>
+<td></td>
+<td></td>
+<td><p>2018年9月18日</p></td>
+<td><p>2018年9月18日</p></td>
+</tr>
+<tr class="odd">
 <td><p>大戰略 PERFECT 4.0<br />
 大戦略パーフェクト4.0</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/戰略遊戲" title="wikilink">模擬戰略</a></p></td>
@@ -2720,7 +2732,7 @@ Ultimate Chicken Horse</p></td>
 <td><p>2018年9月20日</p></td>
 <td><p>2018年9月20日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>ニルアドミラリの天秤<br />
 色ドリ撫子</p></td>
 <td><p>戀愛冒險<br />
@@ -2732,7 +2744,7 @@ Ultimate Chicken Horse</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>最悪なる災厄人間に捧ぐ</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/文字冒險遊戲" title="wikilink">ADV冒險</a></p></td>
 <td><p>KemcoGames</p></td>
@@ -2742,7 +2754,7 @@ Ultimate Chicken Horse</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>The Gardens Between</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/休閒遊戲" title="wikilink">益智休閒</a>、冒險解謎、合作</p></td>
 <td><p>The Voxel Agents</p></td>
@@ -2752,7 +2764,7 @@ Ultimate Chicken Horse</p></td>
 <td><p>2018年9月20日</p></td>
 <td><p>2018年9月20日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>彩京精選 Vol.1<br />
 Zerodiv Psikyo Collection Vol.1</p></td>
 <td><p>娛樂</p></td>
@@ -2763,7 +2775,7 @@ Zerodiv Psikyo Collection Vol.1</p></td>
 <td><p>2018年9月21日</p></td>
 <td><p>2018年9月21日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/異度神劍2" title="wikilink">異度神劍2 黃金之國伊拉</a><br />
 (ゼノブレイド2 黄金の国イーラ)<br />
 Xenoblade Chronicles 2 The Golden Country</p></td>
@@ -2775,7 +2787,7 @@ Xenoblade Chronicles 2 The Golden Country</p></td>
 <td><p>2018年9月21日</p></td>
 <td><p>2018年9月21日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/傳說對決.md" title="wikilink">傳說對決</a><br />
 Arena of Valor</p></td>
 <td><p>動作角色扮演</p></td>
@@ -2786,7 +2798,7 @@ Arena of Valor</p></td>
 <td><p>2018年9月25日</p></td>
 <td><p>2018年9月25日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>這就是警察2<br />
 This Is the Police 2</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/策略遊戲" title="wikilink">策略</a></p></td>
@@ -2797,7 +2809,7 @@ This Is the Police 2</p></td>
 <td><p>2018年9月25日</p></td>
 <td><p>2018年9月25日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/南方公園：真理之杖" title="wikilink">南方公園：真理之杖</a><br />
 South Park: The Stick of Truth</p></td>
 <td><p>角色扮演</p></td>
@@ -2808,7 +2820,7 @@ South Park: The Stick of Truth</p></td>
 <td><p>2018年9月25日</p></td>
 <td><p>2018年9月25日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Rooms: The Adventure of Anne &amp; George</p></td>
 <td><p>解謎</p></td>
 <td><p>HandMade</p></td>
@@ -2818,7 +2830,7 @@ South Park: The Stick of Truth</p></td>
 <td><p>2018年9月27日</p></td>
 <td><p>2018年9月27日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/战场女武神4" title="wikilink">戰場女武神4</a><br />
 戦場のヴァルキュリア4</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/戰略角色扮演遊戲" title="wikilink">战略角色扮演</a></p></td>
@@ -2829,7 +2841,7 @@ South Park: The Stick of Truth</p></td>
 <td><p>2018年9月25日</p></td>
 <td><p>2018年9月25日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/戰場女武神" title="wikilink">戰場女武神1重置版</a><br />
 戦場のヴァルキュリア</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/戰略角色扮演遊戲" title="wikilink">战略角色扮演</a></p></td>
@@ -2840,7 +2852,7 @@ South Park: The Stick of Truth</p></td>
 <td><p>2018年9月25日</p></td>
 <td><p>2018年9月25日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/魯弗蘭的地下迷宮與魔女的旅團.md" title="wikilink">魯弗蘭的地下迷宮與魔女的旅團</a><br />
 ルフランの地下迷宮と魔女ノ旅団<br />
 Labyrinth of Refrain: Coven of Dusk</p></td>
@@ -2853,7 +2865,7 @@ SEGA:(亞洲版)</p></td>
 <td><p>2018年9月18日</p></td>
 <td><p>2018年9月21日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/這個美妙的世界.md" title="wikilink">美妙世界 最終混音</a><br />
 すばらしきこのせかい -Final Remix-<br />
 It's a Wonderful World -Final Remix-</p></td>
@@ -2866,7 +2878,7 @@ It's a Wonderful World -Final Remix-</p></td>
 <td><p>2018年10月12日</p></td>
 <td><p>2018年10月12日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>神怒之日(怒りの日)<br />
 Dies irae: Amantes amentes</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/視覺小說" title="wikilink">視覺小說</a></p></td>
@@ -2877,7 +2889,7 @@ Dies irae: Amantes amentes</p></td>
 <td><p>2018年9月27日</p></td>
 <td><p>2018年9月27日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>龍珠戰士Z<br />
 DRAGON BALL FighterZ</p></td>
 <td><p>格斗、角色扮演</p></td>
@@ -2888,7 +2900,7 @@ DRAGON BALL FighterZ</p></td>
 <td><p>2018年9月27日</p></td>
 <td><p>2018年9月27日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/無雙OROCHI系列.md" title="wikilink">OROCHI 大蛇無雙3</a><br />
 </p></td>
 <td><p>砍殺</p></td>
@@ -2899,7 +2911,7 @@ DRAGON BALL FighterZ</p></td>
 <td><p>2018年9月27日</p></td>
 <td><p>2018年9月27日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>ノルン+ノネットfor Switch<br />
 NORN9 LOFN for Nintendo Switch</p></td>
 <td><p>戀愛冒險<br />
@@ -2911,7 +2923,7 @@ NORN9 LOFN for Nintendo Switch</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/FIFA_19.md" title="wikilink">FIFA 19</a><br />
 </p></td>
 <td><p>體育</p></td>
@@ -2922,7 +2934,7 @@ NORN9 LOFN for Nintendo Switch</p></td>
 <td><p>2018年9月28日</p></td>
 <td><p>2018年9月28日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>南宮夢街機及食鬼合集博物館<br />
 Namco Museum Arcade Pac</p></td>
 <td><p>合集</p></td>
@@ -2933,7 +2945,7 @@ Namco Museum Arcade Pac</p></td>
 <td><p>2018年9月28日</p></td>
 <td><p>2018年9月28日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/洛克人11_命運的齒輪！！.md" title="wikilink">洛克人11 命運的齒輪！！</a><br />
 ロックマン11 運命の歯車！！<br />
 ROCKMAN 11(MEGAMAN 11)</p></td>
@@ -2945,7 +2957,7 @@ ROCKMAN 11(MEGAMAN 11)</p></td>
 <td><p>2018年10月2日</p></td>
 <td><p>2018年10月2日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/角落小夥伴.md" title="wikilink">角落生物 邀請到訪角落城鎮</a><br />
 すみっコぐらし<br />
 あつまれ！すみっコタウン</p></td>
@@ -2957,7 +2969,7 @@ ROCKMAN 11(MEGAMAN 11)</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>動物朋友 方塊繪拼<br />
 けものフレンズピクロス</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/休閒遊戲" title="wikilink">益智休閒</a></p></td>
@@ -2968,7 +2980,7 @@ ROCKMAN 11(MEGAMAN 11)</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>工作WORK×WORK使命<br />
 WORK×WORK(RPG)</p></td>
 <td><p>角色扮演</p></td>
@@ -2979,7 +2991,7 @@ WORK×WORK(RPG)</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/超級瑪利歐派對" title="wikilink">超級瑪利歐派對</a><br />
 スーパー マリオパーティ<br />
 Super Mario Party</p></td>
@@ -2991,7 +3003,7 @@ Super Mario Party</p></td>
 <td><p>2018年10月5日</p></td>
 <td><p>2018年10月5日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/刺客教條：奧德賽" title="wikilink">刺客教條：奧德賽 雲端版</a><br />
 ASSASSIN'S CREED ODYSSEY CLOUD VERSION</p></td>
 <td><p>動作</p></td>
@@ -3002,7 +3014,7 @@ ASSASSIN'S CREED ODYSSEY CLOUD VERSION</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/墨西哥英雄大混戰.md" title="wikilink">墨西哥英雄大混戰：超級渦輪冠軍版</a><br />
 Guacamelee! Super Turbo Championship Edition</p></td>
 <td><p>類銀河戰士惡魔城系</p></td>
@@ -3013,8 +3025,8 @@ Guacamelee! Super Turbo Championship Edition</p></td>
 <td><p>2018年10月8日</p></td>
 <td><p>2018年10月8日</p></td>
 </tr>
-<tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/光之子" title="wikilink">光之子 終極版</a><br />
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/光之子" title="wikilink">光明之子 終極版</a><br />
 Child of Light® Ultimate Edition</p></td>
 <td><p>動作</p></td>
 <td><p>育碧</p></td>
@@ -3024,7 +3036,7 @@ Child of Light® Ultimate Edition</p></td>
 <td><p>2018年10月11日</p></td>
 <td><p>2018年10月11日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/遊戲發展國" title="wikilink">遊戲發展國++</a><br />
 ゲーム発展国++</p></td>
 <td><p>模擬經營</p></td>
@@ -3035,7 +3047,7 @@ Child of Light® Ultimate Edition</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>暖暖溫泉鄉<br />
 ゆけむり温泉郷</p></td>
 <td><p>模擬經營</p></td>
@@ -3046,7 +3058,7 @@ Child of Light® Ultimate Edition</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>冒險村物語<br />
 冒険ダンジョン村</p></td>
 <td><p>模擬經營</p></td>
@@ -3057,7 +3069,7 @@ Child of Light® Ultimate Edition</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>馬德利卡不動產<br />
 <br />
 (Madorica Real Estate)</p></td>
@@ -3069,7 +3081,7 @@ Child of Light® Ultimate Edition</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>NBA 2K 熱血街球場2<br />
 </p></td>
 <td><p>體育</p></td>
@@ -3080,7 +3092,7 @@ Child of Light® Ultimate Edition</p></td>
 <td><p>2018年10月16日</p></td>
 <td><p>2018年10月16日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>樂高DC 超級反派<br />
 LEGO DC Super-Villains</p></td>
 <td><p>動作冒險</p></td>
@@ -3091,7 +3103,7 @@ LEGO DC Super-Villains</p></td>
 <td><p>2018年10月16日</p></td>
 <td><p>2018年10月16日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><br />
 <a href="../Page/星際火狐系列.md" title="wikilink">(星際火狐限定)</a><br />
 Starlink: Battle for Atlas<br />
@@ -3104,7 +3116,7 @@ Starlink: Battle for Atlas<br />
 <td><p>2018年10月16日</p></td>
 <td><p>2018年10月16日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>巴斯戶外體育用品世界:<br />
 釣客錦標賽<br />
 Bass Pro Shops:<br />
@@ -3118,7 +3130,7 @@ The Strike-Championship<br />
 <td><p>2018年10月16日</p></td>
 <td><p>2018年11月2日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>西伯利亞之謎III<br />
 Syberia III</p></td>
 <td><p>冒险</p></td>
@@ -3129,7 +3141,7 @@ Syberia III</p></td>
 <td><p>2018年10月18日</p></td>
 <td><p>2018年10月18日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>舞力全開2019<br />
 </p></td>
 <td><p>節奏</p></td>
@@ -3140,7 +3152,7 @@ Syberia III</p></td>
 <td><p>2018年10月23日</p></td>
 <td><p>2018年10月23日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>摩天大樓建設與管理計劃<br />
 Project Highrise: Architect’s Edition</p></td>
 <td><p>模擬經營</p></td>
@@ -3151,7 +3163,7 @@ Project Highrise: Architect’s Edition</p></td>
 <td><p>2018年11月13日</p></td>
 <td><p>2018年10月23日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>飛盤選手<br />
 Windjammers</p></td>
 <td><p>運動</p></td>
@@ -3162,7 +3174,7 @@ Windjammers</p></td>
 <td><p>2018年10月23日</p></td>
 <td><p>2018年10月23日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/尼克國際兒童頻道" title="wikilink">尼克頻道系列角色卡丁車</a><br />
 Nickelodeon Kart Racers</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/賽車遊戲" title="wikilink">競速(卡丁車)</a></p></td>
@@ -3173,7 +3185,7 @@ Nickelodeon Kart Racers</p></td>
 <td><p>2018年10月23日</p></td>
 <td><p>2018年10月23日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/魔法氣泡系列.md" title="wikilink">噗喲噗喲 E-sports<br />
 (魔法氣泡)</a><br />
 Puyo Puyo Esports</p></td>
@@ -3185,7 +3197,7 @@ Puyo Puyo Esports</p></td>
 <td><p>2018年10月25日</p></td>
 <td><p>2018年10月25日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/爆旋陀螺_擊爆戰魂" title="wikilink">爆旋陀螺Burst Battle Zero</a><br />
 ベイブレード バトルゼロ</p></td>
 <td><p>競賽、角色扮演</p></td>
@@ -3196,7 +3208,7 @@ Puyo Puyo Esports</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Cendrillon　PalicaA<br />
 サンドリヨンパリカ</p></td>
 <td><p>戀愛冒險<br />
@@ -3208,7 +3220,7 @@ Puyo Puyo Esports</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/野良與皇女與流浪貓之心.md" title="wikilink">野良與皇女與流浪貓之心 HD</a><br />
 ノラと皇女と野良猫ハート HD</p></td>
 <td><p>戀愛冒險</p></td>
@@ -3219,7 +3231,7 @@ Puyo Puyo Esports</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/告別回憶_-無垢少女-" title="wikilink">(秋之回憶8)告別回憶-無垢少女-</a><br />
 メモリーズオフ(最終作) -Innocent Fille-</p></td>
 <td><p>戀愛冒險</p></td>
@@ -3231,7 +3243,7 @@ Puyo Puyo Esports</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/夜迴.md" title="wikilink">夜迴與深夜迴 漫漫長夜合集</a><br />
 <br />
 Yomawari: The Long Night Collection</p></td>
@@ -3243,7 +3255,7 @@ Yomawari: The Long Night Collection</p></td>
 <td><p>2018年10月30日</p></td>
 <td><p>2018年10月26日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>(世界名曲音樂家)Pianista - Legendary virtuoso</p></td>
 <td><p>節奏</p></td>
 <td><p>PIANISTA</p></td>
@@ -3253,7 +3265,7 @@ Yomawari: The Long Night Collection</p></td>
 <td><p>2018年10月25日</p></td>
 <td><p>2018年10月25日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>樂高哈利波特合輯<br />
 LEGO Harry Potter Collection</p></td>
 <td><p>冒險、角色扮演</p></td>
@@ -3264,7 +3276,7 @@ LEGO Harry Potter Collection</p></td>
 <td><p>2018年10月30日</p></td>
 <td><p>2018年10月30日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>運動派對 SPORTS PARTY<br />
 スポーツパーティー</p></td>
 <td><p>運動</p></td>
@@ -3275,7 +3287,7 @@ LEGO Harry Potter Collection</p></td>
 <td><p>2018年10月26日</p></td>
 <td><p>2018年10月26日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>ネコ・トモ<br />
 nekotomo</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/休閒遊戲" title="wikilink">休閒</a></p></td>
@@ -3286,7 +3298,7 @@ nekotomo</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/暗黑破壞神III.md" title="wikilink">暗黑破壞神III 永恆之戰版</a><br />
 Diablo III: Eternal Collection</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/動作角色扮演" title="wikilink">動作角色扮演</a></p></td>
@@ -3297,7 +3309,7 @@ Diablo III: Eternal Collection</p></td>
 <td><p>2018年11月2日</p></td>
 <td><p>2018年11月2日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Moonlighter 夜勤人</p></td>
 <td><p>動作冒險、模擬經營</p></td>
 <td><p>Digital Sun</p></td>
@@ -3307,7 +3319,7 @@ Diablo III: Eternal Collection</p></td>
 <td><p>2018年11月5日</p></td>
 <td><p>2018年11月5日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Brawlhalla</p></td>
 <td><p>動作</p></td>
 <td><p>育碧</p></td>
@@ -3317,7 +3329,7 @@ Diablo III: Eternal Collection</p></td>
 <td><p>2018年11月6日</p></td>
 <td><p>2018年11月6日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>GRIP: Combat Racing</p></td>
 <td><p>競速</p></td>
 <td><p>Caged Element Inc.</p></td>
@@ -3327,7 +3339,7 @@ Diablo III: Eternal Collection</p></td>
 <td><p>2018年11月6日</p></td>
 <td><p>2018年11月6日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>The Shapeshifting Detective</p></td>
 <td><p>冒險</p></td>
 <td><p>D'Avekki Studios</p></td>
@@ -3337,7 +3349,7 @@ Diablo III: Eternal Collection</p></td>
 <td><p>2018年11月6日</p></td>
 <td><p>2018年11月6日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>體感嘉年華<br />
 カーニバルゲームズ<br />
 Carnival Games</p></td>
@@ -3349,7 +3361,7 @@ Carnival Games</p></td>
 <td><p>2018年11月6日</p></td>
 <td><p>2018年11月6日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/最終幻想世界Maxima" title="wikilink">最終幻想世界Maxima</a><br />
 WORLD OF FINAL FANTASY MAXIA</p></td>
 <td><p>角色扮演</p></td>
@@ -3360,7 +3372,7 @@ WORLD OF FINAL FANTASY MAXIA</p></td>
 <td><p>2018年11月6日</p></td>
 <td><p>2018年11月6日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/英勇之心：偉大戰爭.md" title="wikilink">英勇之心：偉大戰爭</a><br />
 Valiant Hearts: The Great War</p></td>
 <td><p>動作</p></td>
@@ -3371,7 +3383,7 @@ Valiant Hearts: The Great War</p></td>
 <td><p>2018年11月8日</p></td>
 <td><p>2018年11月8日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/三位一體_(遊戲)" title="wikilink">三位一體(初代)-魔幻結界</a><br />
 TRINE:Enchanted Edition</p></td>
 <td><p>動作冒險</p></td>
@@ -3382,7 +3394,7 @@ TRINE:Enchanted Edition</p></td>
 <td><p>2018年11月9日</p></td>
 <td><p>2018年11月9日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/SNK.md" title="wikilink">SNK40週年 遊戲收藏合集</a><br />
 SNK 40th Anniversary Collection</p></td>
 <td><p>合集<br />
@@ -3394,7 +3406,7 @@ SNK 40th Anniversary Collection</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/美好世界.md" title="wikilink">WILL：美好世界</a><br />
 WILL: 素晴らしき世界<br />
 WILL: A Wonderful World</p></td>
@@ -3406,7 +3418,7 @@ WILL: A Wonderful World</p></td>
 <td><p>2018年10月18日</p></td>
 <td><p>2018年10月18日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/RPG_Maker_MV.md" title="wikilink">RPG製作大師Multi-View Trinity</a><br />
 RPG Maker MV Trinity<br />
 RPGツクールMV Trinity</p></td>
@@ -3418,7 +3430,7 @@ RPGツクールMV Trinity</p></td>
 <td><p>2019年2月26日</p></td>
 <td><p>2019年2月26日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/精靈寶可夢_Let&#39;s_Go_皮卡丘/伊布" title="wikilink">精靈寶可夢 Let's Go 皮卡丘/伊布版</a><br />
 ポケットモンスター Pokémon<br />
 Let's Go! ピカチュウ・Let's Go! イーブイ<br />
@@ -3432,7 +3444,7 @@ Pokémon: Let's Go, Eevee!</p></td>
 <td><p>2018年11月16日</p></td>
 <td><p>2018年11月16日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/文明帝國6" title="wikilink">文明帝國6</a><br />
 Civilization VI</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/即時戰略遊戲" title="wikilink">即時戰略</a></p></td>
@@ -3443,7 +3455,7 @@ Civilization VI</p></td>
 <td><p>2018年11月16日</p></td>
 <td><p>2018年11月16日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>童真變身樂園系列<br />
 <a href="https://zh.wikipedia.org/wiki/超人力霸王R_/_B" title="wikilink">超人力霸王 羅布</a><br />
 なりキッズパーク<br />
@@ -3456,7 +3468,7 @@ Civilization VI</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>童真變身樂園系列<br />
 <a href="../Page/快盜戰隊魯邦連者VS警察戰隊巡邏連者.md" title="wikilink">快盜戰隊魯邦連者<br />
 VS警察戰隊巡邏連者</a><br />
@@ -3471,7 +3483,7 @@ VS警察戦隊パトレンジャー</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>童真變身樂園系列<br />
 <a href="https://zh.wikipedia.org/wiki/HUG！光之美少女" title="wikilink">HUG！光之美少女</a><br />
 なりキッズパーク<br />
@@ -3484,7 +3496,7 @@ HUGっと！プリキュア</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/戰甲神兵.md" title="wikilink">戰甲神兵(星際戰甲)</a><br />
 Warframe</p></td>
 <td><p>第三人稱射擊</p></td>
@@ -3495,7 +3507,7 @@ Warframe</p></td>
 <td><p>2018年11月22日</p></td>
 <td><p>2018年11月22日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>三国恋戦記オトメの兵法</p></td>
 <td><p>戀愛冒險<br />
 (乙女)</p></td>
@@ -3508,7 +3520,7 @@ Warframe</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>彩京精選 Vol.2<br />
 Zerodiv Psikyo Collection Vol.2</p></td>
 <td><p>娛樂</p></td>
@@ -3519,7 +3531,7 @@ Zerodiv Psikyo Collection Vol.2</p></td>
 <td><p>2018年11月16日</p></td>
 <td><p>2018年11月16日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/這是我的戰爭" title="wikilink">這是我的戰爭:完整版</a><br />
 This War of Mine:Complete Edition</p></td>
 <td><p>生存遊戲、模擬策略</p></td>
@@ -3530,7 +3542,7 @@ This War of Mine:Complete Edition</p></td>
 <td><p>2018年11月27日</p></td>
 <td><p>2018年11月27日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>足球經理 2019<br />
 Football Manager 2019</p></td>
 <td><p>經營、角色扮演</p></td>
@@ -3541,7 +3553,7 @@ Football Manager 2019</p></td>
 <td><p>2018年11月27日</p></td>
 <td><p>2018年12月6日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>億萬富翁之路<a href="../Page/桃太郎電鐵系列.md" title="wikilink">(桃鐵大富翁)</a><br />
 【桃鉄】ビリオンロード<br />
 Billion Road</p></td>
@@ -3553,7 +3565,7 @@ Billion Road</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>秋葉原崩潰！123 Stage+1<br />
 秋葉原！123 Stage+1<br />
 Akihabara Crash! 123 Stage+1</p></td>
@@ -3565,7 +3577,7 @@ Akihabara Crash! 123 Stage+1</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>上海 Refresh<br />
 (上海麻雀連連看)<br />
 Billion Road</p></td>
@@ -3577,7 +3589,7 @@ Billion Road</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/假面騎士系列#平成時期（2000－2009年）" title="wikilink">(平成幪面超人)KAMEN RIDER 巔峰亂鬥</a><br />
 Kamen Rider: Climax Scramble<br />
 仮面ライダー クライマックススクランブル ジオウ</p></td>
@@ -3589,7 +3601,7 @@ Kamen Rider: Climax Scramble<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>超逃走中&amp;超戰鬥中 W 超・逃走中＆超・戦闘中 ダブルパック</p></td>
 <td><p>解謎、動作</p></td>
 <td><p>萬代南夢宮製作室</p></td>
@@ -3599,7 +3611,7 @@ Kamen Rider: Climax Scramble<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>瑪蕾尼亞國的冒險酒場~帕特與愛吃之神~<br />
 マレニア国の冒険酒場～パティアと腹ペコの神～<br />
 Marenian Tavern Story: Patty and the Hungry God</p></td>
@@ -3611,7 +3623,7 @@ Marenian Tavern Story: Patty and the Hungry God</p></td>
 <td><p>2018年11月29日</p></td>
 <td><p>2018年11月29日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>東方天空競技場・幻想鄉空戰姬-MATSURI- CLIMAX<br />
 東方スカイアリーナ-MATSURI- CLIMAX</p></td>
 <td><p>角色扮演</p></td>
@@ -3622,7 +3634,7 @@ Marenian Tavern Story: Patty and the Hungry God</p></td>
 <td><p>2018年11月29日</p></td>
 <td><p>2018年11月29日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/方舟：生存進化" title="wikilink">方舟：生存進化</a><br />
 ARK: Survival Evolved</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/生存模式" title="wikilink">生存模式</a>、動作</p></td>
@@ -3633,7 +3645,7 @@ ARK: Survival Evolved</p></td>
 <td><p>2018年11月30日</p></td>
 <td><p>2018年11月30日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>平台動作冒險</p></td>
 <td><p>Game Atelier</p></td>
@@ -3643,7 +3655,7 @@ ARK: Survival Evolved</p></td>
 <td><p>2018年12月4日</p></td>
 <td><p>2018年12月3日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/鍊金術士系列.md" title="wikilink">鍊金工房～亞蘭德的鍊金術士<br />
 1.2.3～DX</a><br />
 アトリエ～アーランドの<br />
@@ -3656,7 +3668,7 @@ ARK: Survival Evolved</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/蒼藍雷霆_鋼佛特.md" title="wikilink">蒼藍雷霆GUNVOLT 強襲合輯</a><br />
 蒼き雷霆ガンヴォルトストライカーパック</p></td>
 <td><p>動作</p></td>
@@ -3667,7 +3679,7 @@ ARK: Survival Evolved</p></td>
 <td><p>2017年8月31日</p></td>
 <td><p>2017年8月31日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>CAPCOM 街機動作遊戲系列合集(實體)<br />
 CAPCOM BELT ACTION COLLECTION</p></td>
 <td><p>合集(實體)</p></td>
@@ -3678,7 +3690,7 @@ CAPCOM BELT ACTION COLLECTION</p></td>
 <td><p>2018年12月6日</p></td>
 <td><p>2018年12月6日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/任天堂明星大亂鬥_特別版.md" title="wikilink">任天堂明星大亂鬥 特別版</a><br />
 大乱闘スマッシュブラザーズ SPECIAL<br />
 Super Smash Bros. Ultimate<br />
@@ -3692,7 +3704,7 @@ Super Smash Bros. Ultimate<br />
 <td><p>2018年12月7日</p></td>
 <td><p>2018年12月7日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/你好，鄰居" title="wikilink">你好，鄰居:捉迷藏</a><br />
 Hello Neighbor: Hide and Seek</p></td>
 <td><p>第一人稱動作、冒險解謎、恐怖</p></td>
@@ -3703,7 +3715,7 @@ Hello Neighbor: Hide and Seek</p></td>
 <td><p>2018年12月7日</p></td>
 <td><p>2018年12月7日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>塊魂安可 塊魂アンコール</p></td>
 <td><p>動作</p></td>
 <td><p>萬代南夢宮製作室</p></td>
@@ -3713,7 +3725,7 @@ Hello Neighbor: Hide and Seek</p></td>
 <td><p>2018年12月7日</p></td>
 <td><p>2018年12月7日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><br />
 Guacamelee! 2</p></td>
 <td><p>類銀河戰士惡魔城系</p></td>
@@ -3724,7 +3736,7 @@ Guacamelee! 2</p></td>
 <td><p>2018年12月10日</p></td>
 <td><p>2018年12月10日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Everspace 恆星版<br />
 Everspace: Stellar Edition</p></td>
 <td><p>模擬(太空)、飛行射擊</p></td>
@@ -3735,7 +3747,7 @@ Everspace: Stellar Edition</p></td>
 <td><p>2018年12月11日</p></td>
 <td><p>2018年12月11日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/眾神之鬥" title="wikilink">眾神之鬥</a><br />
 Fight of Gods</p></td>
 <td><p>格鬥</p></td>
@@ -3746,7 +3758,7 @@ Fight of Gods</p></td>
 <td><p>2018年12月13日</p></td>
 <td><p>2018年12月13日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>極速俱樂部 無限2<br />
 Gear Club Unlimited 2</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/賽車遊戲" title="wikilink">競速(賽車)</a></p></td>
@@ -3757,7 +3769,7 @@ Gear Club Unlimited 2</p></td>
 <td><p>2018年12月4日</p></td>
 <td><p>2018年12月4日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Gris</p></td>
 <td><p>平台、解謎</p></td>
 <td><p>ARC SYSTEM WORKS</p></td>
@@ -3767,7 +3779,7 @@ Gear Club Unlimited 2</p></td>
 <td><p>2018年12月13日</p></td>
 <td><p>2018年12月13日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/V拉力.md" title="wikilink">V拉力賽車4</a><br />
 V-Rally 4</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/賽車遊戲" title="wikilink">競速(賽車)</a></p></td>
@@ -3778,7 +3790,7 @@ V-Rally 4</p></td>
 <td><p>2019年3月6日</p></td>
 <td><p>2018年12月13日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/看火人.md" title="wikilink">救火者/看火人</a><br />
 Firewatch</p></td>
 <td><p>模擬、冒險</p></td>
@@ -3789,7 +3801,7 @@ Firewatch</p></td>
 <td><p>2018年12月17日</p></td>
 <td><p>2018年12月17日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>古怪日式馬拉松<br />
 Nippon Marathon</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/聚會遊戲" title="wikilink">聚會</a>、動作競賽、運動</p></td>
@@ -3800,7 +3812,7 @@ Nippon Marathon</p></td>
 <td><p>2018年12月17日</p></td>
 <td><p>2018年12月17日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/戰機少女系列.md" title="wikilink">勇者戰機少女海王星<br />
 世界啊，宇宙啊，刮目相看吧！！<br />
 終極 RPG 宣言！！</a><br />
@@ -3814,7 +3826,7 @@ Nippon Marathon</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>國夫君 世界經典收藏(熱血系列)<br />
 くにおくん ザ・ワールド<br />
 クラシックスコレクション</p></td>
@@ -3826,7 +3838,7 @@ Nippon Marathon</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>百花百狼 戰國忍法帖<br />
 百花百狼 ～戦国忍法帖～</p></td>
 <td><p>戀愛冒險<br />
@@ -3838,7 +3850,7 @@ Nippon Marathon</p></td>
 <td><p>2018年12月20日</p></td>
 <td><p>2018年12月20日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>吉原彼岸花　久遠の契り</p></td>
 <td><p>戀愛冒險<br />
 (乙女)</p></td>
@@ -3851,7 +3863,7 @@ Nippon Marathon</p></td>
 <td><p>2018年12月20日</p></td>
 <td><p>2018年12月20日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/方根書簡.md" title="wikilink">方根書簡 最後的答案</a><br />
 ルートレター √Letter</p></td>
 <td><p>視覺小說</p></td>
@@ -3862,7 +3874,7 @@ Nippon Marathon</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>加藤一二三九段監修ひふみんの将棋道場</p></td>
 <td><p>棋藝(將棋)</p></td>
 <td><p>Pocket</p></td>
@@ -3872,7 +3884,7 @@ Nippon Marathon</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>減重拳擊/健身拳擊<br />
 (有氧拳擊系列)<br />
 フィットボクシング<br />
@@ -3886,7 +3898,7 @@ Fitness Boxing/Fit Boxing</p></td>
 <td><p>2019年1月4日</p></td>
 <td><p>2018年12月20日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/鬼武者.md" title="wikilink">鬼武者:軍閥<br />
 (鬼武者初代重置版)</a><br />
 Onimusha：Warlords (Onimusha Remaster)</p></td>
@@ -3898,18 +3910,18 @@ Onimusha：Warlords (Onimusha Remaster)</p></td>
 <td><p>2019年1月15日</p></td>
 <td><p>2019年1月15日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/真·三國無雙7.md" title="wikilink">真·三國無雙7 with 猛將傳DX</a><br />
 </p></td>
 <td><p>砍殺</p></td>
 <td><p>光榮特庫摩</p></td>
 <td><p>光榮特庫摩</p></td>
 <td></td>
-<td><p>2018年12月29日</p></td>
+<td><p>2018年12月27日</p></td>
 <td><p>2018年12月29日</p></td>
 <td><p>2018年12月29日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Crazy Justice</p></td>
 <td><p>第三人稱射擊<br />
 (單人/多人合作)</p></td>
@@ -3920,7 +3932,7 @@ Onimusha：Warlords (Onimusha Remaster)</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>聖女戰旗<br />
 Banner of the Maid</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/戰略角色扮演遊戲" title="wikilink">戰略角色扮演</a></p></td>
@@ -3931,7 +3943,7 @@ Banner of the Maid</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>永恒之柱 2：死亡之火<br />
 Pillars of Eternity II：Deadfire</p></td>
 <td><p>動作角色扮演</p></td>
@@ -3942,7 +3954,7 @@ Pillars of Eternity II：Deadfire</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/行屍：第二季.md" title="wikilink">行屍:第二季度</a><br />
 The Walking Dead: Season Two</p></td>
 <td><p>冒險、動作</p></td>
@@ -3953,7 +3965,7 @@ The Walking Dead: Season Two</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/行屍_(遊戲).md" title="wikilink">行屍:第三季度</a><br />
 The Walking Dead: Season Three</p></td>
 <td><p>冒險、動作</p></td>
@@ -3964,7 +3976,7 @@ The Walking Dead: Season Three</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>上古卷軸 傳奇<br />
 The Elder Scrolls: Legends</p></td>
 <td><p>卡牌對戰</p></td>
@@ -3977,7 +3989,7 @@ The Elder Scrolls: Legends</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/超級運動會" title="wikilink">超級運動會R(Hyper Sports R)</a><br />
 ハイパースポーツR</p></td>
 <td><p>運動</p></td>
@@ -3988,7 +4000,7 @@ The Elder Scrolls: Legends</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/宵星傳奇.md" title="wikilink">宵星傳說Remaster</a> テイルズ オブ ヴェスペリアRemaster<br />
 Tales of Vesperia Remaster</p></td>
 <td><p>角色扮演</p></td>
@@ -3999,7 +4011,7 @@ Tales of Vesperia Remaster</p></td>
 <td><p>2019年1月11日</p></td>
 <td><p>2019年1月11日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/新_超級瑪利歐兄弟U#新超級瑪利歐兄弟U豪華版" title="wikilink">新超級瑪利奧兄弟UDX豪華版</a> NewスーパーマリオブラザーズU デラックス<br />
 New Super Mario Bros. U Deluxe</p></td>
 <td><p>平台</p></td>
@@ -4009,18 +4021,6 @@ New Super Mario Bros. U Deluxe</p></td>
 <td><p>2019年1月11日</p></td>
 <td><p>2019年1月11日</p></td>
 <td><p>2019年1月11日</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/妖精劍士f.md" title="wikilink">妖精劍士f 邪神降臨</a><br />
-<br />
-Fairy Fencer F™: Advent Dark Force</p></td>
-<td><p>角色扮演</p></td>
-<td><p><a href="../Page/Compile_Heart.md" title="wikilink">Compile Heart</a></p></td>
-<td><p>Compile Heart</p></td>
-<td></td>
-<td><p>2019年1月17日</p></td>
-<td><p>2019年1月17日</p></td>
-<td><p>2019年1月17日</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/任天堂LABO" title="wikilink">任天堂LABO-01組合套裝</a><br />
@@ -4709,7 +4709,7 @@ Unravel Two</p></td>
 <td><p>3DClouds.it</p></td>
 <td><p>SOEDESCO</p></td>
 <td></td>
-<td><p>2019年3月26日</p></td>
+<td><p>2019年7月11日</p></td>
 <td><p>2019年3月26日</p></td>
 <td><p>2019年3月26日</p></td>
 </tr>
@@ -5250,8 +5250,8 @@ PEACH BALL 閃乱カグラ</p></td>
 SEGA(亞洲版)</p></td>
 <td></td>
 <td><p>2018年12月13日</p></td>
-<td></td>
-<td></td>
+<td><p>2019年7月9日</p></td>
+<td><p>2019年7月9日</p></td>
 </tr>
 <tr class="odd">
 <td><p>極限凸記萌萌編年史Ｈ<br />
@@ -5324,6 +5324,18 @@ Thief Simulator</p></td>
 <td><p>2019年5月16日</p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="../Page/睡夢之中.md" title="wikilink">睡夢之中 加強版</a><br />
+Among the Sleep<br />
+Enhanced Edition</p></td>
+<td><p>冒險、<a href="../Page/恐怖遊戲.md" title="wikilink">恐怖</a></p></td>
+<td><p>Krillbite Studio</p></td>
+<td><p>SOEDESCO</p></td>
+<td></td>
+<td></td>
+<td><p>2019年5月18日</p></td>
+<td><p>2019年5月18日</p></td>
+</tr>
+<tr class="even">
 <td><p><a href="../Page/鍊金術士系列.md" title="wikilink">露露亞的鍊金工房 亞蘭德之煉金術士4</a><br />
 ルルアのアトリエ　～アーランドの錬金術士４～</p></td>
 <td><p>角色扮演、冒險</p></td>
@@ -5334,7 +5346,7 @@ Thief Simulator</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/刺客教條III" title="wikilink">刺客教條III</a> + <a href="../Page/刺客教條III：自由使命.md" title="wikilink">自由使命</a><br />
 復刻重置版<br />
 Assassin's Creed III<br />
@@ -5347,7 +5359,7 @@ Assassin's Creed III<br />
 <td><p>2019年5月21日</p></td>
 <td><p>2019年5月21日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/生化危機_(2002年遊戲)" title="wikilink">生化危機初代(重製版)</a><br />
 Resident Evil</p></td>
 <td><p>第三人稱射擊</p></td>
@@ -5358,7 +5370,7 @@ Resident Evil</p></td>
 <td><p>2019年5月21日</p></td>
 <td><p>2019年5月21日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/生化危機0.md" title="wikilink">生化危機0(HD版)</a><br />
 Resident Evil 0(HDver)</p></td>
 <td><p>第三人稱射擊</p></td>
@@ -5369,7 +5381,7 @@ Resident Evil 0(HDver)</p></td>
 <td><p>2019年5月21日</p></td>
 <td><p>2019年5月21日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/生化危機4.md" title="wikilink">生化危機4</a><br />
 Resident Evil 4</p></td>
 <td><p>第三人稱射擊</p></td>
@@ -5380,7 +5392,7 @@ Resident Evil 4</p></td>
 <td><p>2019年5月21日</p></td>
 <td><p>2019年5月21日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/生化危機系列.md" title="wikilink">生化危機起源合集</a><br />
 Resident Evil Origins Collection<br />
 (生化危機0+1、不包括上述的4)</p></td>
@@ -5393,7 +5405,7 @@ Resident Evil Origins Collection<br />
 <td><p>2019年5月21日</p></td>
 <td><p>2019年5月21日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>索尼克賽車團隊錦標賽<br />
 TEAM SONIC RACING</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/賽車遊戲" title="wikilink">競速(賽車)</a></p></td>
@@ -5404,7 +5416,7 @@ TEAM SONIC RACING</p></td>
 <td><p>2019年5月21日</p></td>
 <td><p>2019年5月21日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>大家的倉庫番(推箱子)<br />
 みんなの倉庫番</p></td>
 <td><p><a href="../Page/倉庫番.md" title="wikilink">倉庫番(益智)</a></p></td>
@@ -5415,7 +5427,7 @@ TEAM SONIC RACING</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>(偵探 神宮寺三郎)代達洛斯：黃金爵士樂的覺醒<br />
 (探偵 神宮寺三郎)ダイダロス：ジ・アウェイクニング<br />
 ・オブ・ゴールデンジャズ</p></td>
@@ -5427,7 +5439,7 @@ TEAM SONIC RACING</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>私立凡爾賽玫瑰學園<br />
 <br />
 ～ベルサイユのばらRe*imagination～</p></td>
@@ -5440,7 +5452,7 @@ TEAM SONIC RACING</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>曼島TT賽<br />
 (曼島旅行者大獎賽)<br />
 TT Isle of Man</p></td>
@@ -5452,7 +5464,7 @@ TT Isle of Man</p></td>
 <td><p>2019年5月23日</p></td>
 <td><p>2019年5月23日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/神奇男孩_(遊戲)" title="wikilink">Wonder Boy Returns Remix</a><br />
 (<a href="../Page/高橋名人之冒險島.md" title="wikilink">冒險島起源作</a>)</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/平台遊戲" title="wikilink">平台動作</a></p></td>
@@ -5463,7 +5475,7 @@ TT Isle of Man</p></td>
 <td><p>2019年5月23日</p></td>
 <td><p>2019年5月23日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>超現實麻雀P六<br />
 スーパーリアル麻雀PVI<br />
 Super Real Mahjong P6</p></td>
@@ -5475,7 +5487,7 @@ Super Real Mahjong P6</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>プチコン4 SmileBASIC<br />
 ぷちこんふぉー すまいるべーしっく</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/編程" title="wikilink">編寫程式(教育)</a></p></td>
@@ -5485,6 +5497,18 @@ Super Real Mahjong P6</p></td>
 <td><p>2019年5月23日</p></td>
 <td></td>
 <td></td>
+</tr>
+<tr class="even">
+<td><p>Destiny Connect<br />
+命運聯動</p></td>
+<td><p>角色扮演</p></td>
+<td><p>日本一</p></td>
+<td><p>日本一<br />
+世嘉(亞洲版)</p></td>
+<td></td>
+<td><p>2019年3月14日</p></td>
+<td><p>2019年3月14日</p></td>
+<td><p>2019年3月14日</p></td>
 </tr>
 <tr class="odd">
 <td><p>LOVE LOVE 甜點 ~你和我的秘密食譜~<br />
@@ -5502,18 +5526,6 @@ WAKU WAKU SWEETS<br />
 <td><p>2018年11月22日</p></td>
 </tr>
 <tr class="even">
-<td><p>Destiny Connect<br />
-命運聯動</p></td>
-<td><p>角色扮演</p></td>
-<td><p>日本一</p></td>
-<td><p>日本一<br />
-世嘉(亞洲版)</p></td>
-<td></td>
-<td><p>2019年3月14日</p></td>
-<td><p>2019年3月14日</p></td>
-<td><p>2019年3月14日</p></td>
-</tr>
-<tr class="odd">
 <td><p><a href="../Page/VA-11_HALL-A.md" title="wikilink">VA-11 Hall-A<br />
 賽博朋克酒保行動</a><br />
 Cyberpunk Bartender Action</p></td>
@@ -5525,7 +5537,7 @@ Cyberpunk Bartender Action</p></td>
 <td><p>2019年5月2日</p></td>
 <td><p>2019年5月2日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>彩京精選 Vol.3<br />
 Zerodiv Psikyo Collection Vol.3</p></td>
 <td><p>娛樂</p></td>
@@ -5536,7 +5548,7 @@ Zerodiv Psikyo Collection Vol.3</p></td>
 <td><p>2019年5月30日</p></td>
 <td><p>2019年5月30日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>馴獸師與王子殿下~花與雪~<br />
 </p></td>
 <td><p>戀愛冒險<br />
@@ -5548,7 +5560,7 @@ Zerodiv Psikyo Collection Vol.3</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>貓咪機甲 Gato Roboto</p></td>
 <td><p>類銀河戰士惡魔城系</p></td>
 <td><p>doinksoft</p></td>
@@ -5558,18 +5570,18 @@ Zerodiv Psikyo Collection Vol.3</p></td>
 <td><p>2019年5月30日</p></td>
 <td><p>2019年5月30日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>方塊方舟<br />
 PixARK</p></td>
 <td><p>生存模式、沙盒</p></td>
 <td><p>Studio Wildcard</p></td>
 <td><p>Studio Wildcard</p></td>
 <td></td>
-<td></td>
+<td><p>2019年7月4日</p></td>
 <td><p>2019年5月31日</p></td>
 <td><p>2019年5月31日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Kotodama: The 7 Mysteries of Fujisawa<br />
 (言靈:藤澤的七大不可思議)</p></td>
 <td><p>消除、<a href="https://zh.wikipedia.org/wiki/文字冒險遊戲" title="wikilink">ADV冒險</a>、戀愛冒險</p></td>
@@ -5581,7 +5593,7 @@ PQube</p></td>
 <td><p>2019年6月4日</p></td>
 <td><p>2019年5月31日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/殺戮尖塔" title="wikilink">殺戮尖塔</a><br />
 Slay the Spire</p></td>
 <td><p>卡牌</p></td>
@@ -5592,7 +5604,7 @@ Slay the Spire</p></td>
 <td><p>2019年6月6日</p></td>
 <td><p>2019年6月6日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/魂斗羅系列" title="wikilink">魂斗羅週年合集</a><br />
 Contra Anniversary Collection</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/清版射擊遊戲" title="wikilink">跑動射擊</a></p></td>
@@ -5603,7 +5615,7 @@ Contra Anniversary Collection</p></td>
 <td><p>2019年6月11日</p></td>
 <td><p>2019年6月11日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>夢現:ReMaster</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/視覺小說" title="wikilink">視覺小說</a>、戀愛冒險</p></td>
 <td><p>工画堂スタジオ</p></td>
@@ -5613,7 +5625,7 @@ Contra Anniversary Collection</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>超現實麻雀P七<br />
 スーパーリアル麻雀PVII<br />
 Super Real Mahjong P7</p></td>
@@ -5625,23 +5637,24 @@ Super Real Mahjong P7</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p>節奏海拉魯-薩爾達傳說<br />
+<tr class="even">
+<td><p><a href="../Page/凱登絲勇闖海拉魯.md" title="wikilink">節奏海拉魯-薩爾達傳說<br />
 *(節奏地牢系列新作)<br />
 凱登絲勇闖海拉魯：<br />
 死靈舞師地牢<br />
-薩爾達傳說 合作鉅獻<br />
+薩爾達傳說 合作鉅獻</a><br />
 Crypt of the NecroDancer<br />
 Featuring The Legend of Zelda</p></td>
 <td><p>節奏、策略</p></td>
 <td><p>Spike Chunsoft</p></td>
-<td><p>Spike Chunsoft</p></td>
+<td><p>Spike Chunsoft<br />
+任天堂</p></td>
 <td></td>
 <td><p>2019年6月14日</p></td>
 <td><p>2019年6月14日</p></td>
 <td><p>2019年6月14日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/妖怪手錶4" title="wikilink">妖怪手錶4<br />
 我們在仰望同一天空</a><br />
 妖怪ウォッチ4<br />
@@ -5654,8 +5667,8 @@ Featuring The Legend of Zelda</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p><a href="../Page/Muse_Dash.md" title="wikilink">Muse Dash</a><br />
+<tr class="even">
+<td><p><a href="../Page/Muse_Dash.md" title="wikilink">Muse Dash 喵斯快跑</a><br />
 ミューズダッシュ</p></td>
 <td><p>節奏、平台動作</p></td>
 <td><p>PeroPeroGame</p></td>
@@ -5665,12 +5678,23 @@ Featuring The Legend of Zelda</p></td>
 <td><p>2019年6月20日</p></td>
 <td><p>2019年6月20日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>My Friend Pedro<br />
 我的朋友香蕉佩德羅</p></td>
 <td><p>動作</p></td>
 <td><p>DeadToast Entertainment</p></td>
 <td><p>Devolver Digital</p></td>
+<td></td>
+<td><p>2019年6月20日</p></td>
+<td><p>2019年6月20日</p></td>
+<td><p>2019年6月20日</p></td>
+</tr>
+<tr class="even">
+<td><p>夜班<br />
+Late Shift</p></td>
+<td><p><a href="../Page/互動式電影.md" title="wikilink">互動電影</a></p></td>
+<td><p>Ctrl Movie</p></td>
+<td><p>Wales Interactive</p></td>
 <td></td>
 <td><p>2019年6月20日</p></td>
 <td><p>2019年6月20日</p></td>
@@ -5694,7 +5718,7 @@ Bloodstained: Ritual of the Night</p></td>
 <td><p>Inti Creates、Artplay</p></td>
 <td><p>505 Games</p></td>
 <td></td>
-<td><p>2019年6月25日</p></td>
+<td></td>
 <td><p>2019年6月25日</p></td>
 <td><p>2019年6月25日</p></td>
 </tr>
@@ -5721,26 +5745,26 @@ Devil May Cry HD</p></td>
 <td><p>2019年6月25日</p></td>
 </tr>
 <tr class="odd">
-<td><p>致予各方人類(致全人類)<br />
-じんるいのみなさまへ</p></td>
-<td><p>生存冒險、模擬生活</p></td>
-<td><p>日本一</p></td>
-<td><p>日本一</p></td>
+<td><p><a href="../Page/妖精劍士f.md" title="wikilink">妖精劍士f 邪神降臨</a><br />
+<br />
+Fairy Fencer F™: Advent Dark Force</p></td>
+<td><p>角色扮演</p></td>
+<td><p><a href="../Page/Compile_Heart.md" title="wikilink">Compile Heart</a></p></td>
+<td><p>Compile Heart</p></td>
 <td></td>
-<td><p>2019年6月27日</p></td>
-<td></td>
-<td></td>
+<td><p>2019年1月17日</p></td>
+<td><p>2019年1月17日</p></td>
+<td><p>2019年1月17日</p></td>
 </tr>
 <tr class="even">
+<td><p>MotoGP 19</p></td>
+<td><p>賽車競速(摩托)</p></td>
+<td><p>Milestone S.r.l.</p></td>
+<td><p>Milestone S.r.l.</p></td>
 <td></td>
-<td><p>戀愛冒險<br />
-(乙女)</p></td>
-<td><p><a href="../Page/Idea_Factory.md" title="wikilink">Otomate</a></p></td>
-<td><p>Otomate</p></td>
-<td></td>
+<td><p>2018年6月28日</p></td>
 <td><p>2019年6月27日</p></td>
-<td></td>
-<td></td>
+<td><p>2019年6月27日</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/實況野球系列.md" title="wikilink">實況野球(2019新作)</a><br />
@@ -5752,6 +5776,50 @@ Devil May Cry HD</p></td>
 <td><p>2019年6月27日</p></td>
 <td></td>
 <td></td>
+</tr>
+<tr class="even">
+<td><p>致予各方人類(致全人類)<br />
+じんるいのみなさまへ</p></td>
+<td><p>生存冒險、模擬生活</p></td>
+<td><p>日本一</p></td>
+<td><p>日本一</p></td>
+<td></td>
+<td><p>2019年6月27日</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>戀愛冒險<br />
+(乙女)</p></td>
+<td><p><a href="../Page/Idea_Factory.md" title="wikilink">Otomate</a></p></td>
+<td><p>Otomate</p></td>
+<td></td>
+<td><p>2019年6月27日</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/NEKOPARA" title="wikilink">NEKOPARA VOL.3</a><br />
+ネコぱら VOL.3</p></td>
+<td><p>戀愛冒險</p></td>
+<td><p>NEKO WORKs</p></td>
+<td><p>NEKO WORKs</p></td>
+<td></td>
+<td><p>2019年6月27日</p></td>
+<td><p>2019年6月27日</p></td>
+<td><p>2019年6月27日</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://www.facebook.com/hellwarderschinese/">煉獄圍城</a><br />
+Hell Warders</p></td>
+<td><p>動作角色扮演、<a href="https://zh.wikipedia.org/wiki/塔防遊戲" title="wikilink">塔防策略</a></p></td>
+<td><p>Anti Gravity</p></td>
+<td><p>PQube</p></td>
+<td></td>
+<td><p>2019年6月27日</p></td>
+<td><p>2019年6月27日</p></td>
+<td><p>2019年6月27日</p></td>
 </tr>
 <tr class="even">
 <td><p>戰爭鬥士<br />
@@ -5820,8 +5888,8 @@ Attack on Titan 2-Final Battle-<br />
 <td><p>光榮特庫摩</p></td>
 <td></td>
 <td><p>2019年7月4日</p></td>
-<td><p>2019年7月4日</p></td>
-<td><p>2019年7月4日</p></td>
+<td><p>2019年7月5日</p></td>
+<td><p>2019年7月5日</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/噬神者.md" title="wikilink">噬神者3<br />
@@ -5832,8 +5900,8 @@ GOD EATER 3</a><br />
 <td><p>萬代南夢宮娛樂</p></td>
 <td></td>
 <td><p>2019年7月11日</p></td>
-<td><p>2019年7月11日</p></td>
-<td><p>2019年7月11日</p></td>
+<td><p>2019年7月12日</p></td>
+<td><p>2019年7月12日</p></td>
 </tr>
 <tr class="odd">
 <td><p>FUZE4<br />
@@ -5945,7 +6013,8 @@ MARVEL ULTIMATE ALLIANCE 3: The Black Order</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/多啦A夢牧場物語" title="wikilink">多啦A夢 大雄的牧場物語</a><br />
 ドラえもん のび太の牧場物語</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/模擬經營遊戲" title="wikilink">模擬經營</a>、角色扮演</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Marvelous_Entertainment" title="wikilink">Marvelous Entertainment</a></p></td>
+<td><p>Brownies<br />
+<a href="https://zh.wikipedia.org/wiki/Marvelous_Entertainment" title="wikilink">Marvelous</a></p></td>
 <td><p>萬代南夢宮娛樂</p></td>
 <td></td>
 <td><p>2019年6月13日</p></td>
@@ -5990,7 +6059,7 @@ Ace Angler(打魚機)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/火焰之纹章_风花雪月.md" title="wikilink">火焰之纹章 風花雪月</a><br />
-ファイアーエムブレム 風花雪月<br />
+<br />
 <em>Fire Emblem Three Houses</em></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/戰略角色扮演遊戲" title="wikilink">戰略角色扮演</a></p></td>
 <td><p><a href="../Page/Intelligent_Systems.md" title="wikilink">Intelligent Systems</a><br />
@@ -6203,6 +6272,18 @@ Bubsy: Paws on Fire</p></td>
 <td><p>2019年8月29日</p></td>
 </tr>
 <tr class="even">
+<td><p>亡命或回校<br />
+(女校生殭屍獵人)<br />
+DEAD OR SCHOOL</p></td>
+<td><p>恐怖、動作射擊、類銀河惡魔城系</p></td>
+<td><p>Studio Nanafushi</p></td>
+<td><p>Studio Nanafushi</p></td>
+<td></td>
+<td><p>2019年8月29日</p></td>
+<td><p>2019年8月29日</p></td>
+<td><p>2019年8月29日</p></td>
+</tr>
+<tr class="odd">
 <td><p><a href="../Page/星際鏈鎖.md" title="wikilink">星際鏈鎖</a><br />
 ASTRAL CHAIN<br />
 (アストラルチェイン)</p></td>
@@ -6214,7 +6295,7 @@ ASTRAL CHAIN<br />
 <td><p>2019年8月30日</p></td>
 <td><p>2019年8月30日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>被囚禁的掌心Dx<br />
 </p></td>
 <td><p>戀愛冒險<br />
@@ -6226,7 +6307,7 @@ ASTRAL CHAIN<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>GRID Autosport<br />
 (超級房車賽)</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/賽車遊戲" title="wikilink">競速(賽車)</a></p></td>
@@ -6237,7 +6318,7 @@ ASTRAL CHAIN<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Creature in the Well<br />
 (井底生物)</p></td>
 <td><p>動作</p></td>
@@ -6248,7 +6329,7 @@ ASTRAL CHAIN<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>BloodRoots<br />
 (血桶)</p></td>
 <td><p>動作</p></td>
@@ -6259,7 +6340,7 @@ ASTRAL CHAIN<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/去月球.md" title="wikilink">去月球</a><br />
 To the Moon</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/視覺小說" title="wikilink">視覺小說</a>、<a href="https://zh.wikipedia.org/wiki/冒險遊戲" title="wikilink">冒險</a></p></td>
@@ -6270,7 +6351,7 @@ To the Moon</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>夕鬼：零<br />
 Yuoni:ゼロ<br />
 *</p></td>
@@ -6282,7 +6363,7 @@ Yuoni:ゼロ<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/狂彈風暴.md" title="wikilink">狂彈風暴:毀滅公爵專屬版</a><br />
 (<a href="https://zh.wikipedia.org/wiki/永遠的毀滅公爵" title="wikilink">毀滅公爵NS專強化內容</a>)<br />
 Bulletstorm: Duke of Switch Edition</p></td>
@@ -6294,7 +6375,7 @@ Bulletstorm: Duke of Switch Edition</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>狼與辛香料VR<br />
 狼と香辛料VR<br />
 *</p></td>
@@ -6307,7 +6388,7 @@ Gemdrops</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>影之回廊<br />
 シャドーコリドー 影の回廊<br />
 Shadow Corridor</p></td>
@@ -6319,7 +6400,7 @@ Shadow Corridor</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>寶貝龍斯派羅:重燃三部曲<br />
 Spyro: Reignited Trilogy</p></td>
 <td><p>體育</p></td>
@@ -6330,7 +6411,7 @@ Spyro: Reignited Trilogy</p></td>
 <td><p>2019年9月3日</p></td>
 <td><p>2019年9月3日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>NBA 2K20<br />
 </p></td>
 <td><p>體育</p></td>
@@ -6341,7 +6422,7 @@ Spyro: Reignited Trilogy</p></td>
 <td><p>2019年9月6日</p></td>
 <td><p>2019年9月6日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/AMNESIA_失憶症" title="wikilink">AMNESIA 失憶症</a><br />
 アムネシア<br />
 AMNESIA<br />
@@ -6355,7 +6436,7 @@ AMNESIA<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>星球大戰彈珠台<br />
 Star Wars Pinball</p></td>
 <td><p><a href="../Page/立體彈珠台.md" title="wikilink">模擬類(彈珠台)</a></p></td>
@@ -6367,9 +6448,9 @@ Zen Studios</p></td>
 <td><p>2019年9月13日</p></td>
 <td><p>2019年9月13日</p></td>
 </tr>
-<tr class="even">
-<td><p>惡魔x機甲(暫名)<br />
-DAEMON X MACHINA<br />
+<tr class="odd">
+<td><p><a href="../Page/DAEMON_X_MACHINA.md" title="wikilink">惡魔x機甲(暫名)<br />
+DAEMON X MACHINA</a><br />
 (デモンエクスマキナ)</p></td>
 <td><p>第三人稱射擊、動作</p></td>
 <td><p><a href="../Page/Marvelous.md" title="wikilink">Marvelous</a></p></td>
@@ -6379,7 +6460,7 @@ DAEMON X MACHINA<br />
 <td><p>2019年9月13日</p></td>
 <td><p>2019年9月13日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>戀愛冒險<br />
 (乙女)</p></td>
@@ -6390,7 +6471,7 @@ DAEMON X MACHINA<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>[[卡片鬥爭</p></td>
 <td><p>_先導者|卡片鬥爭</p></td>
 <td><p>先導者 EX]]<br />
@@ -6401,7 +6482,7 @@ DAEMON X MACHINA<br />
 <td></td>
 <td><p>2019年9月19日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>AI: 夢幻檔案<br />
 AI: The Sominum Files<br />
 AI: ソムニウムファイル<br />
@@ -6414,7 +6495,7 @@ AI: ソムニウムファイル<br />
 <td><p>2019年9月19日</p></td>
 <td><p>2019年9月19日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/薩爾達傳說_織夢島.md" title="wikilink">薩爾達傳說 織夢島</a><br />
 ゼルダの伝説 夢をみる島<br />
 The Legend of Zelda:<br />
@@ -6428,7 +6509,7 @@ Link's Awakening</p></td>
 <td><p>2019年9月20日</p></td>
 <td><p>2019年9月20日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/第二國度_白色聖灰的女王.md" title="wikilink">二之國 白色聖灰的女王</a><br />
 二ノ国 白き聖灰の女王</p></td>
 <td><p>角色扮演</p></td>
@@ -6439,7 +6520,7 @@ Link's Awakening</p></td>
 <td><p>2019年9月20日</p></td>
 <td><p>2019年9月20日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/黎明殺機" title="wikilink">黎明死線/黎明殺機</a><br />
 Dead by Daylight</p></td>
 <td><p>恐怖、生存</p></td>
@@ -6450,7 +6531,7 @@ Dead by Daylight</p></td>
 <td><p>2019年9月24日</p></td>
 <td><p>2019年9月24日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>黑貓偵探<br />
 Blacksad: Under the Skin</p></td>
 <td><p>解謎、冒險</p></td>
@@ -6461,7 +6542,7 @@ Blacksad: Under the Skin</p></td>
 <td><p>2019年9月26日</p></td>
 <td><p>2019年9月26日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>蒼藍雷霆 白き鋼鉄のＸ（イクス）<br />
 Gunvolt Chronicles: Luminous Avenger iX</p></td>
 <td><p>動作</p></td>
@@ -6471,6 +6552,17 @@ Gunvolt Chronicles: Luminous Avenger iX</p></td>
 <td><p>2019年9月26日</p></td>
 <td><p>2019年9月26日</p></td>
 <td><p>2019年9月26日</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/鍊金術士系列.md" title="wikilink">萊莎的鍊金工房 常暗女王與秘密藏身處</a><br />
+ライザのアトリエ ～常闇の女王と秘密の隠れ家～</p></td>
+<td><p>角色扮演、冒險</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/GUST" title="wikilink">GUST</a></p></td>
+<td><p>光榮特庫摩</p></td>
+<td></td>
+<td><p>2019年9月26日</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/薄櫻鬼_～新選組奇譚～" title="wikilink">薄櫻鬼 真改 月影之抄</a><br />
@@ -6598,6 +6690,30 @@ Arc System Works(亞洲版)</p></td>
 <td><p>2019年10月10日</p></td>
 </tr>
 <tr class="odd">
+<td><p>世界終焉的物語<br />
+アークオブアルケミスト<br />
+Arc of Alchemist</p></td>
+<td><p>角色扮演</p></td>
+<td><p>Compile Heart</p></td>
+<td><p>Compile Heart</p></td>
+<td></td>
+<td><p>2019年10月10日</p></td>
+<td><p>2019年10月10日</p></td>
+<td><p>2019年10月10日</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/魔界戰記4.md" title="wikilink">魔界戰記4完全版</a><br />
+魔界戦記ディスガイア4+<br />
+Disgaea 4 Complete+</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/戰略角色扮演遊戲" title="wikilink">戰略角色扮演</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/日本一" title="wikilink">日本一</a></p></td>
+<td><p>日本一</p></td>
+<td></td>
+<td><p>2019年10月29日</p></td>
+<td><p>2019年10月29日</p></td>
+<td><p>2019年10月29日</p></td>
+</tr>
+<tr class="odd">
 <td><p>Overpass</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/賽車遊戲" title="wikilink">競速(賽車)</a></p></td>
 <td><p>Bigben Games</p></td>
@@ -6661,29 +6777,6 @@ Dusk Diver</p></td>
 <td><p>動作</p></td>
 <td><p>JERA Game Studio</p></td>
 <td><p>JFi Games</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/鍊金術士系列.md" title="wikilink">萊莎的鍊金工房 常暗女王與秘密藏身處</a><br />
-ライザのアトリエ ～常闇の女王と秘密の隠れ家～</p></td>
-<td><p>角色扮演、冒險</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/GUST" title="wikilink">GUST</a></p></td>
-<td><p>光榮特庫摩</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/魔界戰記4.md" title="wikilink">魔界戰記4完全版</a><br />
-魔界戦記ディスガイア4+<br />
-Disgaea 4 Complete+</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/戰略角色扮演遊戲" title="wikilink">戰略角色扮演</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/日本一" title="wikilink">日本一</a></p></td>
-<td><p>日本一</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6806,6 +6899,18 @@ DOOM ETERNAL</p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><a href="../Page/歌之王子殿下.md" title="wikilink">歌之☆王子殿下♪Repeat LOVE</a><br />
+うたの☆プリンスさまっ♪Repeat LOVE</p></td>
+<td><p>戀愛冒險<br />
+(乙女)</p></td>
+<td><p>日本一</p></td>
+<td><p>BROCCOLI</p></td>
+<td></td>
+<td><p>2019年12月18日</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><a href="../Page/飛龍騎士_(電子遊戲).md" title="wikilink">飛龍騎士 完全重製</a><br />
 Panzer Dragoon 士Remake</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/清版射擊遊戲" title="wikilink">軌道射擊</a></p></td>
@@ -6816,7 +6921,7 @@ Panzer Dragoon 士Remake</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/侍魂系列.md" title="wikilink">侍魂 曉(新作2019)</a><br />
 Samurai Shodown(new2019)</p></td>
 <td><p>格鬥</p></td>
@@ -6827,7 +6932,7 @@ Samurai Shodown(new2019)</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>不屈不撓/無畏<br />
 Dauntless</p></td>
 <td><p>動作角色扮演</p></td>
@@ -6838,7 +6943,7 @@ Dauntless</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>天穗種稻姬<br />
 天穂のサクナヒメ</p></td>
 <td><p><a href="../Page/生活模擬遊戲.md" title="wikilink">模擬生活</a>、<a href="https://zh.wikipedia.org/wiki/模擬經營遊戲" title="wikilink">模擬經營</a>、動作角色扮演</p></td>
@@ -6849,7 +6954,7 @@ Dauntless</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/最終幻想水晶編年史系列" title="wikilink">最終幻想 水晶編年史 高清重置版</a><br />
 FINAL FANTASY CRYSTAL CHRONICLES Remaster EDITION HD</p></td>
 <td><p>角色扮演</p></td>
@@ -6860,7 +6965,7 @@ FINAL FANTASY CRYSTAL CHRONICLES Remaster EDITION HD</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/最終幻想VIII" title="wikilink">最終幻想8 HD</a><br />
 FINAL FANTASY VIII HD</p></td>
 <td><p>角色扮演</p></td>
@@ -6871,7 +6976,7 @@ FINAL FANTASY VIII HD</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/閃電十一人_戰神的天秤.md" title="wikilink">閃電十一人 戰神的天秤</a><br />
 イナズマイレブン アレスの天秤</p></td>
 <td><p>足球</p></td>
@@ -6882,7 +6987,7 @@ FINAL FANTASY VIII HD</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/侍魂系列.md" title="wikilink">侍魂NeoGeo合集</a><br />
 Samurai Shodown NeoGeo Collection</p></td>
 <td><p>格鬥</p></td>
@@ -6893,7 +6998,7 @@ Samurai Shodown NeoGeo Collection</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/女神異聞錄5.md" title="wikilink">女神異聞錄5S</a><br />
 Persona5 Scramble<br />
 ペルソナ5 スクランブル ザ・ファントムストライカーズ</p></td>
@@ -6905,7 +7010,7 @@ Persona5 Scramble<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>TOWN（暫定名稱）</p></td>
 <td><p>角色扮演</p></td>
 <td><p><a href="../Page/Game_Freak.md" title="wikilink">Game Freak</a></p></td>
@@ -6915,7 +7020,7 @@ Persona5 Scramble<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/華特迪士尼動畫工作室.md" title="wikilink">迪士尼TusmTusm嘉年華</a><br />
 ディズニー ツムツム フェスティバル</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/聚會遊戲" title="wikilink">聚會</a></p></td>
@@ -6926,7 +7031,7 @@ Persona5 Scramble<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/狙击精英III.md" title="wikilink">狙擊之神3<br />
 (狙擊精英3)</a><br />
 Sniper Elite III</p></td>
@@ -6938,7 +7043,7 @@ Sniper Elite III</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>鋼鐵蒼狼：混沌之戰XD<br />
 Metal Wolf Chaos XD</p></td>
 <td><p>動作角色扮演</p></td>
@@ -6950,7 +7055,7 @@ General Arcade</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/捉鬼敢死隊" title="wikilink">捉鬼敢死隊重製版</a><br />
 Ghostbusters：The Video Game Remastered</p></td>
 <td><p>動作冒險</p></td>
@@ -6961,7 +7066,7 @@ Ghostbusters：The Video Game Remastered</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/狂野飆車9：競速傳奇.md" title="wikilink">狂野飆車9：競速傳奇</a><br />
 Asphalt 9: Legends</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/賽車遊戲" title="wikilink">競速(賽車)</a></p></td>
@@ -6972,7 +7077,7 @@ Asphalt 9: Legends</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>慘劇沙盒(暫名)<br />
 惨劇サンドボックス（仮）<br />
 (<a href="../Page/龍騎士07.md" title="wikilink">龍騎士07</a> x <a href="../Page/樋上至.md" title="wikilink">樋上至</a>-新作)</p></td>
@@ -6984,13 +7089,27 @@ Asphalt 9: Legends</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>尤卡萊莉大冒險 不可能的巢穴<br />
 Yooka-Laylee and the Impossible Lair<br />
 ユーカレイリー</p></td>
 <td><p>平台動作</p></td>
 <td><p>Playtonic Games</p></td>
 <td><p>Team17</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>蘭島物語 少女的約定 復刻<br />
+レアランドストーリー少女の約定Remake<br />
+Lair Land Remake</p></td>
+<td><p>戀愛冒險</p></td>
+<td><p>CIRCLE<br />
+Initory Studios<br />
+Arc System Works</p></td>
+<td><p>CIRCLE</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7391,6 +7510,42 @@ Wonderful White World<br />
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><a href="../Page/歌之王子殿下.md" title="wikilink">歌之☆王子殿下♪Amazing Aria ＆ Sweet Serenade LOVE</a><br />
+うたの☆プリンスさまっ♪Amazing Aria ＆ Sweet Serenade LOVE</p></td>
+<td><p>戀愛冒險<br />
+(乙女)</p></td>
+<td><p>日本一</p></td>
+<td><p>BROCCOLI</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/歌之王子殿下.md" title="wikilink">歌之☆王子殿下♪Dolce</a><br />
+うたの☆プリンスさまっ♪Dolce</p></td>
+<td><p>戀愛冒險<br />
+(乙女)</p></td>
+<td><p>日本一</p></td>
+<td><p>BROCCOLI</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/歌之王子殿下.md" title="wikilink">歌之☆王子殿下♪Dolce Vita</a><br />
+うたの☆プリンスさまっ♪Dolce Vita</p></td>
+<td><p>戀愛冒險<br />
+(乙女)</p></td>
+<td><p>日本一</p></td>
+<td><p>BROCCOLI</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>(東方)幻想のヴァルキューレ (仮題)</p></td>
 <td><p>動作</p></td>
 <td><p>領域ZERO</p></td>
@@ -7400,7 +7555,7 @@ Wonderful White World<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>褻瀆神明<br />
 Blasphemous</p></td>
 <td><p>類銀河戰士惡魔城系</p></td>
@@ -7411,7 +7566,7 @@ Blasphemous</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/魯弗蘭的地下迷宮與魔女的旅團.md" title="wikilink">迦雷里雅的地下迷宮與魔女的旅團</a><br />
 ガレリアの地下迷宮と魔女ノ旅団<br />
 Labyrinth of Galleria: Coven of Dusk</p></td>
@@ -7424,7 +7579,7 @@ SEGA:(亞洲版)</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Cake Bash<br />
 (蛋糕甜品亂鬥)</p></td>
 <td><p>動作、<a href="https://zh.wikipedia.org/wiki/休閒遊戲" title="wikilink">休閒</a>、<a href="https://zh.wikipedia.org/wiki/聚會遊戲" title="wikilink">聚會</a></p></td>
@@ -7435,7 +7590,7 @@ SEGA:(亞洲版)</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Biomutant<br />
 (生化變種)</p></td>
 <td><p>動作</p></td>
@@ -7446,7 +7601,7 @@ SEGA:(亞洲版)</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>海綿寶寶：為比奇堡而戰 -重新灌水-<br />
 SpongeBob SquarePants:<br />
 Battle for Bikini Bottom - Rehydrated -</p></td>
@@ -7458,7 +7613,7 @@ Battle for Bikini Bottom - Rehydrated -</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>暗黑血统(末世騎士)起源<br />
 Darksiders Genesis</p></td>
 <td><p>砍殺、動作冒險</p></td>
@@ -7469,7 +7624,7 @@ Darksiders Genesis</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>泡泡糖忍戰<br />
 (Ninjala ニンジャラ)</p></td>
 <td><p>格鬥、動作</p></td>
@@ -7480,7 +7635,7 @@ Darksiders Genesis</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/英雄不再.md" title="wikilink">英雄不再III</a><br />
 No More HeroesIII</p></td>
 <td><p>動作</p></td>
@@ -7491,25 +7646,11 @@ No More HeroesIII</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/空洞騎士.md" title="wikilink">空洞騎士 絲綢之歌</a> Hollow Knight Silksong</p></td>
 <td><p>類銀河戰士惡魔城系</p></td>
 <td><p>Team Cherry</p></td>
 <td><p>Team Cherry</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>蘭島物語 少女的約定 復刻<br />
-レアランドストーリー少女の約定Remake<br />
-Lair Land Remake</p></td>
-<td><p>戀愛冒險</p></td>
-<td><p>CIRCLE<br />
-Initory Studios<br />
-Arc System Works</p></td>
-<td><p>CIRCLE</p></td>
 <td></td>
 <td></td>
 <td></td>

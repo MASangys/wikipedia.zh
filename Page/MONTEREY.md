@@ -38,6 +38,13 @@ MONTEREY面積約4萬方呎，將提供室內及室外游泳池、私人專屬�
 
 2018年10月，[豐泰地產向會德豐購入MONTEREY](../Page/豐泰地產.md "wikilink") Place。
 
+2019年6月，新加坡國際學校Invictus School在MONTEREY
+Place開辦香港首間幼稚園及小學，校舍總面積超過3萬平方呎，包括16間課室、一間圖書館、一個多用途禮堂和一個室内遊樂場
+
+### 主要商店
+
+  - 新加坡Invictus School
+
 ## 宣傳
 
 廣告宣傳以「Breathe in the sea. Breathe out the

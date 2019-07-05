@@ -198,6 +198,13 @@ Ariel Project
 <td><p><strong><em>おやすみセカイ首次選取《桜色メモリー》作為cover曲</em></strong></p></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>7</p></td>
+<td><p>1</p></td>
+<td><p><strong><em>Yura轉到同公司的姊妹組合ERЯOR，並改以新藝名「Aika」成為粉紅色擔當</em></strong></p></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

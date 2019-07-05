@@ -379,12 +379,12 @@ Level Billion</strong></p></td>
     原為假面騎士Ex-Aid 雙重動作玩家Level XX的專用武器。可變換劍、槍與斧三種武器模式。
     劍模式的聲效『Jaja-ja-Kin\!』（原文：）；槍模式的聲效『Zu-kyu-kyu-kyun\!』（原文：）；斧模式的聲效『Su-pa-pa-pan\!』（原文：）
 
-#### 假面騎士Lazer
+#### 假面騎士LazerX
 
 變身者：九条貴利矢（替身演員：藤田慧、CV：小野塚勇人）
 
   -
-    原文： / *Kamen Rider Lazer*\[16\]
+    原文： / *Kamen Rider LazerX*
 
 ##### 變身模式
 
@@ -398,11 +398,9 @@ Level Billion</strong></p></td>
 <td><p><strong>必殺技</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><strong>Chambara Gamer<br />
-Level X</strong><br />
-<strong>劍擊玩家<br />
-Level X</strong></p></td>
-<td><p>原文：<br />
+<td><p><strong>Default</strong><br />
+<strong>通常型態</strong></p></td>
+<td><p>等級：<br />
 使用「Buggle Driver II」時搭配「Giri Giri Chambara」卡帶變身的形態<br />
 身高：205.0cm<br />
 體重：151.5kg<br />
@@ -410,7 +408,7 @@ Level X</strong></p></td>
 踢擊力：95.1t<br />
 跳躍力：94.7m<br />
 行動速度：100m / 0.7秒</p></td>
-<td><p>全身以青藍色為主，本身擁有部分青紫色的紋樣，外型上與劍擊機車玩家 Level 3相似[17]</p></td>
+<td><p>全身以青藍色為主，本身擁有部分青紫色的紋樣，外型上與劍擊機車玩家 Level 3相似[16]</p></td>
 <td><p>本身素質相比於劍擊機車玩家 Level 3來說更加提升，此外由於檀正宗有在Gashacon Bugviser II注入力量，使出必殺技的時候將對方的能力重置的力量。</p></td>
 <td><p><strong>Critical Crews-Aid</strong><br />
 原文：</p></td>
@@ -476,7 +474,7 @@ Level X</strong></p></td>
 （日文原文，中文意思「最高等級的神之才能！Kuroto Dan！Kuroto Dan！」）。<br />
 開啟Level Billion時音效為「God Maximum Power X!」<br />
 （日文原文，中文意思「神極限力量X！」）。<br />
-最後檀黎斗透過該卡帶重編程九条貴利矢的身體使其變回人類[18]，之後由八乙女紗衣子將此卡帶拿去作為再生醫療的研究用途。</p></td>
+最後檀黎斗透過該卡帶重編程九条貴利矢的身體使其變回人類[17]，之後由八乙女紗衣子將此卡帶拿去作為再生醫療的研究用途。</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -566,6 +564,5 @@ Level X</strong></p></td>
 13. 但是於小說《假面騎士EX-AID》中判明儘管可以在數值上壓制無敵玩家，但由於無敵玩家對一切攻擊的無效化及不存在騎士值上限，作為變身者的永夢=天才玩家M依然有攻略神極限玩家的可能性
 14. 分離裝甲戰鬥，另外分離時除了靈敏速度外嘴巴也能吐出喪屍的毒氣將一切進入範圍內的攻擊無效化。在裝甲狀態時手腳伸長攻擊，裝甲的眼睛放出雷射等等
 15. 裝甲本身腳上擁有著推進器可以進行空中戰
-16. 官方正式名稱為仮面ライダーレーサーX
-17. 為檀正宗利用自己剩餘的力量改寫並饋贈於九条貴利矢的禮物。
-18. 據紗衣子述說得知此卡帶內有運用到『培育崩源體！』的遊戲設定
+16. 為檀正宗利用自己剩餘的力量改寫並饋贈於九条貴利矢的禮物。
+17. 據紗衣子述說得知此卡帶內有運用到『培育崩源體！』的遊戲設定

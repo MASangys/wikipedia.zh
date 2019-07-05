@@ -1417,8 +1417,7 @@ Academia的兼職講師\[14\]。
   - （Cupid〈[Kevin Pollak](../Page/凱文·波拉克.md "wikilink") 飾演〉）
 
   -
-  - [奪魂鋸](https://zh.wikipedia.org/wiki/恐懼鬥室 "wikilink")（Brett〈Benito
-    Martinez 飾演〉、刑事1）
+  - [奪魂鋸](../Page/恐懼鬥室.md "wikilink")（Brett〈Benito Martinez 飾演〉、刑事1）
 
   - [驚聲尖叫](../Page/驚聲尖叫.md "wikilink")（Fred〈[Wes
     Craven](https://zh.wikipedia.org/wiki/韋斯·克拉文 "wikilink") 飾演〉）

@@ -11,6 +11,9 @@
 
 <references />
 
+[Category:黄素酶](https://zh.wikipedia.org/wiki/Category:黄素酶 "wikilink")
+[Category:已知结构的酶](https://zh.wikipedia.org/wiki/Category:已知结构的酶 "wikilink")
+
 1.
 2.
 3.

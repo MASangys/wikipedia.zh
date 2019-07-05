@@ -43,6 +43,13 @@
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Star_System" title="wikilink">Star System</a>[6]</p></td>
 </tr>
+<tr class="odd">
+<td><p>2019年6月26日</p></td>
+<td><p>Uh-Oh</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=I66oFXdf0KU">(G)I-DLE</a>、<a href="https://www.youtube.com/watch?v=ycYLPbtxU1Q">1theK</a></p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Star_System" title="wikilink">Star System</a>[7]</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -106,7 +113,7 @@
 <td><p>Jelly</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/田小娟" title="wikilink">田小娟</a></p></td>
 <td><p>穗珍</p></td>
-<td><p>饰演面具女孩[7]，<a href="https://www.youtube.com/watch?v=azY7skjwg6Y">官方视频</a></p></td>
+<td><p>饰演面具女孩[8]，<a href="https://www.youtube.com/watch?v=azY7skjwg6Y">官方视频</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2018年2月28日</p></td>
@@ -127,7 +134,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/POP/STARS" title="wikilink">POP/STARS</a></p></td>
 <td><p>K/DA</p></td>
 <td><p>美延、小娟</p></td>
-<td><p>动作捕捉[8]，<a href="https://www.youtube.com/watch?v=UOxkGD8qRB4">官方视频</a></p></td>
+<td><p>动作捕捉[9]，<a href="https://www.youtube.com/watch?v=UOxkGD8qRB4">官方视频</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2018年11月18日</p></td>
@@ -162,7 +169,7 @@
 <td><p>The loveless</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/田小娟" title="wikilink">田小娟</a></p></td>
 <td><p>小娟</p></td>
-<td><p>图画视频[9]，<a href="https://www.youtube.com/watch?v=0Hk8qGSoHnA">官方视频</a></p></td>
+<td><p>图画视频[10]，<a href="https://www.youtube.com/watch?v=0Hk8qGSoHnA">官方视频</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -644,7 +651,7 @@
 <tr class="odd">
 <td><p>5月23日-</p></td>
 <td><p>SBS PLUS</p></td>
-<td><p>梦想演唱会幕后[10]</p></td>
+<td><p>梦想演唱会幕后[11]</p></td>
 <td><p>全体</p></td>
 <td></td>
 </tr>
@@ -1060,6 +1067,53 @@
 </tbody>
 </table>
 
+<table>
+<thead>
+<tr class="header">
+<th><p>电视台</p></th>
+<th><p>节目名称</p></th>
+<th><p>播出日期</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><strong>Uh-Oh</strong></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p><a href="../Page/THE_SHOW_(SBS_MTV節目).md" title="wikilink">THE SHOW</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/MBC_Plus_Media.md" title="wikilink">MBC Music</a></p></td>
+<td><p><a href="../Page/Show_Champion.md" title="wikilink">Show Champion</a></p></td>
+<td><p><a href="https://www.youtube.com/watch?v=aXumrr0B-2A">6月26日</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
+<td><p><a href="https://www.youtube.com/watch?v=JWf7YhXTkaM">6月27日</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/KBS第2频道.md" title="wikilink">KBS2</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/音乐银行" title="wikilink">音乐银行</a></p></td>
+<td><p><a href="https://www.youtube.com/watch?v=A5JEXf4hd3U">6月28日</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Show!_音乐中心" title="wikilink">Show! 音乐中心</a></p></td>
+<td><p>6月29日</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/SBS" title="wikilink">SBS</a></p></td>
+<td><p><a href="../Page/人气歌谣.md" title="wikilink">人气歌谣</a></p></td>
+<td><p>6月30日</p></td>
+</tr>
+</tbody>
+</table>
+
 ### 特别舞台
 
 | 播出日期        | 电视台                                                               | 节目名称                                                                   | 歌曲名称                                                              | 参与成员                                                             | 备注                                                         |
@@ -1098,17 +1152,20 @@
 6.  [(G)I-DLE 2ND MINI ALBUM I MADE\#SENORITA CHOREO BY
     @starsystem_kor](https://www.instagram.com/p/BuVurrZnRmA/).
     ins@starsystem_kor. February 27,2019.
-7.  ['LATATA' 뮤직비디오와 함께 아이들
+7.  [(여자)아이들 Uh-Oh CHOREO BY
+    @starsystem_kor](https://www.instagram.com/p/BzKz_K-BMyF/).
+    ins@starsystem_kor. June 26,2019.
+8.  ['LATATA' 뮤직비디오와 함께 아이들
     감상\!（08:00起：在我MV里出现的狐狸）](https://www.vlive.tv/video/70732).
     V LIVE (G)I-DLE频道. May 11,2018.
-8.  [Soyeon and Miyeon used motion capture equipment to perform in the
+9.  [Soyeon and Miyeon used motion capture equipment to perform in the
     K/DA “POP/STARS” music
     video](https://dotesports.com/league-of-legends/news/soyeon-and-miyeon-used-motion-capture-equipment-to-perform-in-the-k-da-pop-stars-music-video).
     DOT ESPORTS. November 5, 2018.
-9.  [(여자)아이들((G)I-DLE) - 소확행 \#2 : 소연이의 '애정결핍' 드로잉 비디오
+10. [(여자)아이들((G)I-DLE) - 소확행 \#2 : 소연이의 '애정결핍' 드로잉 비디오
     제작기](https://www.youtube.com/watch?v=7U26LjgodYU). United
     CUBE. June 18, 2019.
-10. [Self-cam](https://www.youtube.com/watch?v=rJjMP4stNg0)、[Behind
+11. [Self-cam](https://www.youtube.com/watch?v=rJjMP4stNg0)、[Behind
     Part.1](https://www.youtube.com/watch?v=dFoXDP1E_Mo)、[Behind
     Part.2](https://www.youtube.com/watch?v=rBnlxgfGGTI). The K-POP :
     SBS PLUS. May 23, 2019-.

@@ -2,7 +2,7 @@
 就肆電競旗下目前有專精電競解決方案的 4Gamers、專責廣告代理的 Redark entertainment 、專注社群與實況經紀的
 Elemental Totem 等子品牌。
 
-除每月推出「4GAMERS」電競數位雜誌，就肆電競也多次與[英特爾](../Page/英特尔.md "wikilink")、[Nvidia](../Page/英伟达.md "wikilink")、[微星科技](../Page/微星科技.md "wikilink")、[暴雪娛樂](../Page/暴雪娛樂.md "wikilink")、[羅技等遊戲原廠合作](../Page/羅技.md "wikilink")，推出[《戰車世界》](../Page/坦克世界.md "wikilink")、[《星海爭霸II》](../Page/星际争霸II：虚空之遗.md "wikilink")、[《爐石戰記》](https://zh.wikipedia.org/wiki/炉石传说：魔兽英雄传 "wikilink")、[《鬥陣特攻》以及](../Page/鬥陣特攻.md "wikilink")[《英雄聯盟》等賽事](../Page/英雄联盟.md "wikilink")，目前台灣甲組電競賽事的社群操作，有半數以上的主導權在就肆電競。\[5\]\[6\]
+除每月推出「4GAMERS」電競數位雜誌，就肆電競也多次與[英特爾](../Page/英特尔.md "wikilink")、[Nvidia](../Page/英伟达.md "wikilink")、[微星科技](../Page/微星科技.md "wikilink")、[暴雪娛樂](../Page/暴雪娛樂.md "wikilink")、[羅技等遊戲原廠合作](../Page/羅技.md "wikilink")，推出[《戰車世界》](../Page/坦克世界.md "wikilink")、[《星海爭霸II》](../Page/星际争霸II：虚空之遗.md "wikilink")、[《爐石戰記》](https://zh.wikipedia.org/wiki/炉石传说：魔兽英雄传 "wikilink")、[《鬥陣特攻》以及](../Page/鬥陣特攻.md "wikilink")[《英雄聯盟》等賽事](../Page/英雄联盟.md "wikilink")，\[5\]\[6\]
 
 就肆電競並於2014年8月舉辦台灣首次以BYOC為主軸的 [LAN
 Party](https://zh.wikipedia.org/wiki/LAN_Party "wikilink")[「WirForce」](../Page/WirForce.md "wikilink")。\[7\]\[8\]

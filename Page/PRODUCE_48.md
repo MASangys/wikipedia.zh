@@ -2653,9 +2653,12 @@ Very Very Raspberry</p></td>
 
   - [PRODUCE 48](http://produce48.mnet.com/) - 官方网站
 
-  -
-  -
-  -
+  - （节目播出时）
+
+  - （节目播出时）
+
+  - （节目播出时）
+
   - [PRODUCE 48](https://tv.naver.com/cjenm.produce48)的[NAVER频道](../Page/NAVER.md "wikilink")
 
 [Category:PRODUCE_101](https://zh.wikipedia.org/wiki/Category:PRODUCE_101 "wikilink")

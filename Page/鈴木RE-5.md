@@ -67,7 +67,8 @@ Salon de la moto 2011 - Suzuki - RE5 Rotary - 001.jpg Image:Suzuki RE5
 [Category:日本汽車技術240選](https://zh.wikipedia.org/wiki/Category:日本汽車技術240選 "wikilink")
 
 1.  [WANKEL ROTARY COMBUSTION ENGINE
-    MOTORCYCLES](http://www.geocities.co.jp/HeartLand-Suzuran/6261/wrce_motorcycles.html)。
+    MOTORCYCLES](http://www.geocities.co.jp/HeartLand-Suzuran/6261/wrce_motorcycles.html)
+    。
 2.  [Total Motorcycle.com: Kawasaki
     X99](http://www.totalmotorcycle.com/photos/prototype-spy-concept/Kawasaki-X99.htm)。
 3.  〈[The Ten Worst

@@ -291,6 +291,10 @@ CARAT](https://zh.wikipedia.org/wiki/17_Carat_\(Seventeen迷你專輯\) "wikilin
 | Come To Me (나에게로 와)                           | 100002221424                                                 | ✓                             | ✓            | ✓  |    |    |
 | MOONWALKER                                    | 100002221450                                                 | ✓                             | ✓            |    |    |    |
 | Our Dawn Is Hotter Than Day (우리의 새벽은 낮보다 뜨겁다) | 100002221451                                                 | ✓                             | ✓            |    |    |    |
+| 2019年1月21日                                    | 《YOU MADE MY DAWN 》                                          | Good To Me                    | 100002420892 | ✓  | ✓  |    |
+| **Home**                                      | 100002420893                                                 | ✓                             | ✓            |    |    |    |
+| Hug (포옹)                                      | 100002420894                                                 | ✓                             | ✓            |    |    |    |
+| Getting Closer (숨이 차)                         | 100002420978                                                 | ✓                             | ✓            |    |    |    |
 
 ### 所屬團體之歌曲 (光碟)
 
@@ -423,6 +427,18 @@ CARAT](https://zh.wikipedia.org/wiki/17_Carat_\(Seventeen迷你專輯\) "wikilin
 <td><p>✓</p></td>
 <td></td>
 <td><p><a href="../Page/姜東昊.md" title="wikilink">白虎Solo曲</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2018年</p></td>
+<td><p>8月13日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SEVENTEEN" title="wikilink">SEVENTEEN</a></p></td>
+<td><p>《A-TEEN Part.3》</p></td>
+<td><p>A TEEN</p></td>
+<td><p>100002302435</p></td>
+<td><p>✓</p></td>
+<td><p>✓</p></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>

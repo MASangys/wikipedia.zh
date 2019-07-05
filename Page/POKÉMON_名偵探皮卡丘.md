@@ -72,7 +72,7 @@ the movie XY\&Z 波爾凱尼恩與機關人偶
 
 ## 評價
 
-電影得到了褒貶不一的評價，生物設計和雷諾斯的表演受到好評，但回收情節而得到了些批評。[爛番茄根據](../Page/爛番茄.md "wikilink")266條評論，獲得66%的新鮮度，平均得分5.96／10\[25\]。在[Metacritic上](../Page/Metacritic.md "wikilink")，根據48條評論，電影獲得了53分\[26\]。據[CinemaScore調查](https://zh.wikipedia.org/wiki/CinemaScore "wikilink")，觀眾的平均評價於A+至F間落於「A-」。在[雅虎日本上](../Page/雅虎日本.md "wikilink")，根據795條評論，電影平均得分3.95／5\[27\]。
+電影得到了褒貶不一的評價，生物設計和雷諾斯的表演受到好評，但回收情節而得到了些批評。[爛番茄根據](../Page/爛番茄.md "wikilink")269條評論，獲得67%的新鮮度，平均得分5.96／10\[25\]。在[Metacritic上](../Page/Metacritic.md "wikilink")，根據48條評論，電影獲得了53分\[26\]。據[CinemaScore調查](https://zh.wikipedia.org/wiki/CinemaScore "wikilink")，觀眾的平均評價於A+至F間落於「A-」。在[雅虎日本上](../Page/雅虎日本.md "wikilink")，根據795條評論，電影平均得分3.95／5\[27\]。
 
 ## 票房
 

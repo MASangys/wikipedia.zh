@@ -12,7 +12,7 @@
 
 第一個設置是半自動操作，在這個模式下，氣動式系統會被鎖定並利用發射後的火藥瓦斯氣體自動完成拋殼和裝填下一發霰彈藥筒的動作而且無需作其他的操作，這時第一發需要用力向後手拉拉機柄。
 
-第二個設置是泵动式操作，在這個模式下，每次射擊以後必須手動用力來回拉動護木以排出彈殼和從[管式彈倉裝載了新一發霰彈藥筒](https://zh.wikipedia.org/wiki/彈匣#管式彈倉 "wikilink")。此模式適合用來發射各種低壓[彈藥和](https://zh.wikipedia.org/wiki/彈藥 "wikilink")[非致命性彈藥](../Page/非致命性武器.md "wikilink")，例如[鳥彈](https://zh.wikipedia.org/wiki/鳥彈 "wikilink")、[木棍彈](https://zh.wikipedia.org/wiki/木棍彈 "wikilink")、[豆袋彈](https://zh.wikipedia.org/wiki/豆袋彈 "wikilink")、[催淚彈](../Page/催淚彈.md "wikilink")（[CS氣體槍榴彈](https://zh.wikipedia.org/wiki/CS氣體槍榴彈 "wikilink")）、[鹽彈或](https://zh.wikipedia.org/wiki/鹽彈 "wikilink")[塑膠棒式子彈等](https://zh.wikipedia.org/wiki/塑膠棒式子彈 "wikilink")。
+第二個設置是泵动式操作，在這個模式下，每次射擊以後必須手動用力來回拉動護木以排出彈殼和從[管式彈倉裝載了新一發霰彈藥筒](https://zh.wikipedia.org/wiki/彈匣#管式彈倉 "wikilink")。此模式適合用來發射各種低壓[彈藥和](https://zh.wikipedia.org/wiki/彈藥 "wikilink")[非致命性彈藥](../Page/非致命性武器.md "wikilink")，例如[鳥彈](https://zh.wikipedia.org/wiki/鳥彈 "wikilink")、[木棍彈](https://zh.wikipedia.org/wiki/木棍彈 "wikilink")、[豆袋彈](../Page/豆袋彈.md "wikilink")、[催淚彈](../Page/催淚彈.md "wikilink")（[CS氣體槍榴彈](https://zh.wikipedia.org/wiki/CS氣體槍榴彈 "wikilink")）、[鹽彈或](https://zh.wikipedia.org/wiki/鹽彈 "wikilink")[塑膠棒式子彈等](https://zh.wikipedia.org/wiki/塑膠棒式子彈 "wikilink")。
 
 兩種操作模式之間的轉換是由內部轉換機構完成的，該轉換機構則是由護手前方右側的轉換鈕來控制。將轉換鈕扳向下方位置，轉換機構卡住槍機，使之在霰彈發射後不會自行後坐，這便是泵动式操作方式。將轉換鈕扳向上方位置，轉換裝置不再卡住槍機，槍機在霰彈發射後坐，這便是半自動方式。
 　　

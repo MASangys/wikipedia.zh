@@ -53,7 +53,7 @@ Needle」{{\#tag:ref|原文為Brainstorm，中文譯名為「蟹甲智多星」�
   -
   - [The dress](https://zh.wikipedia.org/wiki/The_dress "wikilink")
 
-  - [自由或豬爭論](https://zh.wikipedia.org/wiki/自由或豬爭論 "wikilink")
+  - [自由或豬爭論](../Page/自由或豬爭論.md "wikilink")
 
 [Category:2018年面世的網路迷因](https://zh.wikipedia.org/wiki/Category:2018年面世的網路迷因 "wikilink")
 [Category:2018年5月](https://zh.wikipedia.org/wiki/Category:2018年5月 "wikilink")

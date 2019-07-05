@@ -1,4 +1,5 @@
 [链接=<https://zh.wikipedia.org/wiki/File:Jp_themesong_2.webm>](https://zh.wikipedia.org/wiki/File:Jp_themesong_2.webm "fig:链接=https://zh.wikipedia.org/wiki/File:Jp_themesong_2.webm")可以發音日本語(00:26-04:19)和英語(04:38-06:34)。\]\]
+
 以下是已發佈的[Vocaloid軟體產品列表](https://zh.wikipedia.org/wiki/Vocaloid "wikilink")，以發佈日期爲序。
 
 ## 製品
@@ -299,173 +300,6 @@ Internet有限公司<br />
 </tbody>
 </table>
 
-### VocaloWitter
-
-<table style="width:300%;">
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-<col style="width: 50%" />
-<col style="width: 50%" />
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p>製品</p></th>
-<th><p>開發商</p></th>
-<th><p>語言</p></th>
-<th><p>性別</p></th>
-<th><p>聲音采樣</p></th>
-<th><p>發佈日期</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>[41][42]</p></td>
-<td><p>山葉公司/Bplats</p></td>
-<td><p>日語</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/中性_(性別)" title="wikilink">中性</a>（“女性”聲音）</p></td>
-<td></td>
-<td><p>2010年12月</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><p>i-Style Project<br />
-山葉公司/Bplats</p></td>
-<td><p>日語</p></td>
-<td><p>女性</p></td>
-<td><p>江口菜子</p></td>
-<td><p>2012年12月</p></td>
-</tr>
-</tbody>
-</table>
-
-### iVocaloid
-
-<table style="width:300%;">
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-<col style="width: 50%" />
-<col style="width: 50%" />
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p>製品</p></th>
-<th><p>開發商</p></th>
-<th><p>語言</p></th>
-<th><p>性別</p></th>
-<th><p>聲音采樣</p></th>
-<th><p>發佈日期</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>[43][44]</p></td>
-<td><p>山葉公司/Bplats</p></td>
-<td><p>日語</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/中性_(性別)" title="wikilink">中性</a>（“女性”聲音）</p></td>
-<td></td>
-<td><p>2010年12月</p></td>
-</tr>
-<tr class="even">
-<td><p>[45][46]</p></td>
-<td><p>山葉公司/Bplats</p></td>
-<td><p>日語</p></td>
-<td><p>中性（“男性”聲音）</p></td>
-<td></td>
-<td><p>2011年12月</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td><p>i-Style Project<br />
-山葉公司/Bplats</p></td>
-<td><p>日語</p></td>
-<td><p>女性</p></td>
-<td><p>江口菜子</p></td>
-<td><p>2012年12月</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><p>i-Style Project<br />
-山葉公司/Bplats</p></td>
-<td><p>日語</p></td>
-<td><p>女性</p></td>
-<td><p>鐮田美沙紀</p></td>
-<td><p>2014年4月</p></td>
-</tr>
-</tbody>
-</table>
-
-### eVocaloid
-
-<table style="width:300%;">
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-<col style="width: 50%" />
-<col style="width: 50%" />
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p>製品</p></th>
-<th><p>開發商</p></th>
-<th><p>語言</p></th>
-<th><p>性別</p></th>
-<th><p>聲音采樣</p></th>
-<th><p>發佈日期</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td><p>山葉公司/Bplats</p></td>
-<td><p>日語</p></td>
-<td><p>中性（“女性”聲音）</p></td>
-<td></td>
-<td><p>2014年2月</p></td>
-</tr>
-<tr class="even">
-<td><p>[47]</p></td>
-<td><p>Crypton Future Media</p></td>
-<td><p>日語</p></td>
-<td><p>女性</p></td>
-<td><p><a href="../Page/藤田咲.md" title="wikilink">藤田咲</a></p></td>
-<td><p>2014年4月3日</p></td>
-</tr>
-<tr class="odd">
-<td><p><ref name="ITmedia2012-04-29"></p>
-<p><code>   {{cite web</code></p></td>
-<td><p>author = 松尾公也 [Matsuo, Kimiya]</p></td>
-<td><p>date = </p></td>
-<td><p>title = ニコニコ超会議: フリックにしなかった理由は？　ビブラートはどうするの？　VOCALOIDキーボード開発者に話を聞いてきた</p></td>
-<td><p>trans-title=Nico Nico Super Conference: Vocaloid Keyboard developer interview - Why not adopt the flick-input ? How to vibrato ?</p></td>
-<td><p>url = <a href="http://nlab.itmedia.co.jp/nl/articles/1204/29/news007.html">http://nlab.itmedia.co.jp/nl/articles/1204/29/news007.html</a></p></td>
-</tr>
-</tbody>
-</table>
-
 ### Vocaloid 3
 
 <table style="width:300%;">
@@ -505,7 +339,7 @@ Internet有限公司<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>[48]</p></td>
+<td><p>[41]</p></td>
 <td><p>山葉公司/Bplats</p></td>
 <td><p>日語</p></td>
 <td><p>女性</p></td>
@@ -513,7 +347,7 @@ Internet有限公司<br />
 <td><p>2011年10月21日</p></td>
 </tr>
 <tr class="even">
-<td><p>[49]</p></td>
+<td><p>[42]</p></td>
 <td></td>
 <td><p>韓語和日語</p></td>
 <td><p>女性</p></td>
@@ -522,12 +356,12 @@ Internet有限公司<br />
 2011年12月16日（日本）</p></td>
 </tr>
 <tr class="odd">
-<td><p>[50]</p></td>
+<td><p>[43]</p></td>
 <td><p>Internet有限公司</p></td>
 <td><p>日語</p></td>
 <td><p>女性</p></td>
 <td><p>中島愛</p></td>
-<td><p>October 21, 2011[51]</p></td>
+<td><p>October 21, 2011[44]</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -547,7 +381,7 @@ Internet有限公司<br />
 <td><p>2011年10月21日</p></td>
 </tr>
 <tr class="even">
-<td><p>[52]</p></td>
+<td><p>[45]</p></td>
 <td><p>PowerFX/VocaTone</p></td>
 <td><p>英語</p></td>
 <td><p>男性</p></td>
@@ -555,7 +389,7 @@ Internet有限公司<br />
 <td><p>2011年12月21日</p></td>
 </tr>
 <tr class="odd">
-<td><p>[53]</p></td>
+<td><p>[46]</p></td>
 <td><p>Internet有限公司</p></td>
 <td><p>日語</p></td>
 <td><p>女性</p></td>
@@ -563,7 +397,7 @@ Internet有限公司<br />
 <td><p>2011年12月22日</p></td>
 </tr>
 <tr class="even">
-<td><p>[54]</p></td>
+<td><p>[47]</p></td>
 <td><p>AH-Software</p></td>
 <td><p>日語</p></td>
 <td><p>女性</p></td>
@@ -571,7 +405,7 @@ Internet有限公司<br />
 <td><p>2011年12月22日</p></td>
 </tr>
 <tr class="odd">
-<td><p>[55]</p></td>
+<td><p>[48]</p></td>
 <td><p>Voctro Labs, S.L</p></td>
 <td><p>西班牙語</p></td>
 <td><p>男性</p></td>
@@ -579,7 +413,7 @@ Internet有限公司<br />
 <td><p>2011年12月24日</p></td>
 </tr>
 <tr class="even">
-<td><p>[56]</p></td>
+<td><p>[49]</p></td>
 <td><p>Voctro Labs, S.L</p></td>
 <td><p>西班牙語</p></td>
 <td><p>女性</p></td>
@@ -587,7 +421,7 @@ Internet有限公司<br />
 <td><p>2011年12月24日</p></td>
 </tr>
 <tr class="odd">
-<td><p>[57]</p></td>
+<td><p>[50]</p></td>
 <td><p>1st Place</p></td>
 <td><p>日語</p></td>
 <td><p>女性</p></td>
@@ -595,7 +429,7 @@ Internet有限公司<br />
 <td><p>2012年1月27日</p></td>
 </tr>
 <tr class="even">
-<td><p>[58]</p></td>
+<td><p>[51]</p></td>
 <td><p>Internet有限公司</p></td>
 <td><p>日語</p></td>
 <td><p>女性</p></td>
@@ -603,7 +437,7 @@ Internet有限公司<br />
 <td><p>2012年3月15日</p></td>
 </tr>
 <tr class="odd">
-<td><p>[59]</p></td>
+<td><p>[52]</p></td>
 <td><p>i-Style Project<br />
 山葉公司/Bplats</p></td>
 <td><p>日語</p></td>
@@ -705,7 +539,7 @@ Maui（Wil）</p></td>
 <td><p>2013年7月11日</p></td>
 </tr>
 <tr class="odd">
-<td><p>[60]</p></td>
+<td><p>[53]</p></td>
 <td><p>Crypton Future Media</p></td>
 <td><p>英語</p></td>
 <td><p>女性</p></td>
@@ -723,7 +557,7 @@ Maui（Wil）</p></td>
 2013年9月17日（零售）</p></td>
 </tr>
 <tr class="odd">
-<td><p>[61][62]</p></td>
+<td><p>[54][55]</p></td>
 <td><p>Crypton Future Media</p></td>
 <td><p>日語</p></td>
 <td><p>女性</p></td>
@@ -740,7 +574,7 @@ Maui（Wil）</p></td>
 2014年1月31日（零售）</p></td>
 </tr>
 <tr class="odd">
-<td><p>[63]</p></td>
+<td><p>[56]</p></td>
 <td><p>i-Style Project<br />
 山葉公司/Bplats</p></td>
 <td><p>日語</p></td>
@@ -750,7 +584,7 @@ Maui（Wil）</p></td>
 2014年2月5日（零售）</p></td>
 </tr>
 <tr class="even">
-<td><p>[64]</p></td>
+<td><p>[57]</p></td>
 <td><p>MI7<br />
 山葉公司/Bplats</p></td>
 <td><p>日語和英語</p></td>
@@ -759,7 +593,7 @@ Maui（Wil）</p></td>
 <td><p>2014年1月31日</p></td>
 </tr>
 <tr class="odd">
-<td><p>[65]</p></td>
+<td><p>[58]</p></td>
 <td><p>Crypton Future Media</p></td>
 <td><p>日語和英語</p></td>
 <td><p>女性</p></td>
@@ -916,7 +750,7 @@ Maui（Wil）</p></td>
 <td><p>2014年12月17日</p></td>
 </tr>
 <tr class="even">
-<td><p>[66]</p></td>
+<td><p>[59]</p></td>
 <td><p>山葉公司/Bplats</p></td>
 <td><p>英語</p></td>
 <td><p>女性</p></td>
@@ -980,7 +814,7 @@ Maui（Wil）</p></td>
 <td><p>2015年7月27日</p></td>
 </tr>
 <tr class="even">
-<td><p>Arsloid[67]</p></td>
+<td><p>Arsloid[60]</p></td>
 <td><p>山葉公司<br />
 環球唱片日本</p></td>
 <td><p>日語</p></td>
@@ -1051,7 +885,7 @@ Maui（Wil）</p></td>
 <td><p>女性（鈴）<br />
 男性（連）</p></td>
 <td><p>下田麻美</p></td>
-<td><p>2015年12月24日[68]</p></td>
+<td><p>2015年12月24日[61]</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -1072,12 +906,12 @@ Maui（Wil）</p></td>
 <td><p>2016年1月14日</p></td>
 </tr>
 <tr class="odd">
-<td><p>[69]</p></td>
+<td><p>[62]</p></td>
 <td><p>山葉公司</p></td>
 <td><p>日語和英語</p></td>
 <td><p>男性</p></td>
 <td><p><a href="../Page/SEKAI_NO_OWARI.md" title="wikilink">深瀬慧</a></p></td>
-<td><p>2016年1月28日[70]</p></td>
+<td><p>2016年1月28日[63]</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -1086,7 +920,7 @@ Maui（Wil）</p></td>
 <td><p>漢語</p></td>
 <td><p>女性</p></td>
 <td><p>茶理理</p></td>
-<td><p>2016年4月13日[71]</p></td>
+<td><p>2016年4月13日[64]</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -1138,7 +972,7 @@ MTK</p></td>
 <td><p>2016年12月15日</p></td>
 </tr>
 <tr class="odd">
-<td></td>
+<td><p>UNI</p></td>
 <td><p>ST Media</p></td>
 <td><p>韓語</p></td>
 <td><p>女性</p></td>
@@ -1192,10 +1026,10 @@ MTK</p></td>
 <td><p>日語</p></td>
 <td><p>女性</p></td>
 <td><p><a href="../Page/大原沙耶香.md" title="wikilink">大原沙耶香</a></p></td>
-<td><p>2017年8月30日[72]</p></td>
+<td><p>2017年8月30日[65]</p></td>
 </tr>
 <tr class="even">
-<td><p>心華 V4</p></td>
+<td><p><a href="../Page/心華.md" title="wikilink">心華</a> V4</p></td>
 <td><p>GYNOID<br />
 上海望乘</p></td>
 <td><p>漢語</p></td>
@@ -1212,7 +1046,7 @@ MTK</p></td>
 <td><p>2017年9月10日</p></td>
 </tr>
 <tr class="even">
-<td><p>心華 V4 日語版[73]</p></td>
+<td><p>心華 V4 日語版[66]</p></td>
 <td><p>GYNOID</p></td>
 <td><p>日語</p></td>
 <td><p>女性</p></td>
@@ -1236,27 +1070,319 @@ MTK</p></td>
 <td><p>2018年4月26日</p></td>
 </tr>
 <tr class="odd">
-<td><p>洛天依 日语</p></td>
+<td><p>洛天依 V4 日语版</p></td>
 <td><p>上海禾念</p></td>
 <td><p>日语</p></td>
 <td><p>女性</p></td>
 <td><p>山新，鹿乃</p></td>
 <td><p>2018年5月21日</p></td>
 </tr>
+<tr class="even">
+<td><p>ミライ小町</p></td>
+<td><p>山葉公司</p></td>
+<td><p>日语</p></td>
+<td><p>女性</p></td>
+<td></td>
+<td><p>2018年5月24日</p></td>
+</tr>
+<tr class="odd">
+<td><p>徵羽摩柯</p></td>
+<td><p>上海禾念</p></td>
+<td><p>漢語</p></td>
+<td><p>男性</p></td>
+<td><p>蘇尚卿</p></td>
+<td><p>2018年5月30日</p></td>
+</tr>
+<tr class="even">
+<td><p>墨清弦</p></td>
+<td><p>上海禾念</p></td>
+<td><p>漢語</p></td>
+<td><p>女性</p></td>
+<td><p>冥月</p></td>
+<td><p>2018年6月14日</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
 ### Vocaloid 5
 
-| 製品    | 開發商  | 語言 | 性別 | 聲音采樣 | 發佈日期       |
-| ----- | ---- | -- | -- | ---- | ---------- |
-|       |      |    |    |      |            |
-|       |      |    |    |      |            |
-| Amy   | 山葉公司 | 英語 | 女性 |      | 2018年7月12日 |
-| Chris | 山葉公司 | 英語 | 男性 |      | 2018年7月12日 |
-| Kaori | 山葉公司 | 日語 | 女性 |      | 2018年7月12日 |
-| Ken   | 山葉公司 | 日語 | 男性 |      | 2018年7月12日 |
-|       |      |    |    |      |            |
+<table style="width:300%;">
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+<col style="width: 50%" />
+<col style="width: 50%" />
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>製品</p></th>
+<th><p>開發商</p></th>
+<th><p>語言</p></th>
+<th><p>性別</p></th>
+<th><p>聲音采樣</p></th>
+<th><p>發佈日期</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Amy</p></td>
+<td><p>山葉公司</p></td>
+<td><p>英語</p></td>
+<td><p>女性</p></td>
+<td></td>
+<td><p>2018年7月12日</p></td>
+</tr>
+<tr class="even">
+<td><p>Chris</p></td>
+<td><p>山葉公司</p></td>
+<td><p>英語</p></td>
+<td><p>男性</p></td>
+<td></td>
+<td><p>2018年7月12日</p></td>
+</tr>
+<tr class="odd">
+<td><p>Kaori</p></td>
+<td><p>山葉公司</p></td>
+<td><p>日語</p></td>
+<td><p>女性</p></td>
+<td></td>
+<td><p>2018年7月12日</p></td>
+</tr>
+<tr class="even">
+<td><p>Ken</p></td>
+<td><p>山葉公司</p></td>
+<td><p>日語</p></td>
+<td><p>男性</p></td>
+<td></td>
+<td><p>2018年7月12日</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/櫻乃空" title="wikilink">櫻乃空</a></p></td>
+<td><p>AH-Software</p></td>
+<td><p>日語</p></td>
+<td><p>女性</p></td>
+<td><p>井上喜久子</p></td>
+<td><p>2018年7月26日</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/鳴花姬、尊" title="wikilink">鳴花姬、尊</a></p></td>
+<td><p>Gynoid</p></td>
+<td><p>日語</p></td>
+<td><p>女性（姬）<br />
+男性（尊）</p></td>
+<td></td>
+<td><p>2019年3月30日</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### VocaloWitter
+
+<table style="width:300%;">
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+<col style="width: 50%" />
+<col style="width: 50%" />
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>製品</p></th>
+<th><p>開發商</p></th>
+<th><p>語言</p></th>
+<th><p>性別</p></th>
+<th><p>聲音采樣</p></th>
+<th><p>發佈日期</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>[67][68]</p></td>
+<td><p>山葉公司/Bplats</p></td>
+<td><p>日語</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中性_(性別)" title="wikilink">中性</a>（“女性”聲音）</p></td>
+<td></td>
+<td><p>2010年12月</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>i-Style Project<br />
+山葉公司/Bplats</p></td>
+<td><p>日語</p></td>
+<td><p>女性</p></td>
+<td><p>江口菜子</p></td>
+<td><p>2012年12月</p></td>
+</tr>
+</tbody>
+</table>
+
+### iVocaloid
+
+<table style="width:300%;">
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+<col style="width: 50%" />
+<col style="width: 50%" />
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>製品</p></th>
+<th><p>開發商</p></th>
+<th><p>語言</p></th>
+<th><p>性別</p></th>
+<th><p>聲音采樣</p></th>
+<th><p>發佈日期</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>[69][70]</p></td>
+<td><p>山葉公司/Bplats</p></td>
+<td><p>日語</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中性_(性別)" title="wikilink">中性</a>（“女性”聲音）</p></td>
+<td></td>
+<td><p>2010年12月</p></td>
+</tr>
+<tr class="even">
+<td><p>[71][72]</p></td>
+<td><p>山葉公司/Bplats</p></td>
+<td><p>日語</p></td>
+<td><p>中性（“男性”聲音）</p></td>
+<td></td>
+<td><p>2011年12月</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>i-Style Project<br />
+山葉公司/Bplats</p></td>
+<td><p>日語</p></td>
+<td><p>女性</p></td>
+<td><p>江口菜子</p></td>
+<td><p>2012年12月</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>i-Style Project<br />
+山葉公司/Bplats</p></td>
+<td><p>日語</p></td>
+<td><p>女性</p></td>
+<td><p>鐮田美沙紀</p></td>
+<td><p>2014年4月</p></td>
+</tr>
+</tbody>
+</table>
+
+### eVocaloid
+
+<table style="width:300%;">
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+<col style="width: 50%" />
+<col style="width: 50%" />
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>製品</p></th>
+<th><p>開發商</p></th>
+<th><p>語言</p></th>
+<th><p>性別</p></th>
+<th><p>聲音采樣</p></th>
+<th><p>發佈日期</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>[73]</p></td>
+<td><p>山葉公司/Bplats</p></td>
+<td><p>日語</p></td>
+<td><p>中性（“女性”聲音）</p></td>
+<td><p>未公開</p></td>
+<td><p>2013年10月24日</p></td>
+</tr>
+<tr class="even">
+<td><p>[74][75][76]</p></td>
+<td><p>山葉公司</p></td>
+<td><p>日語</p></td>
+<td></td>
+<td><p>2013年10月31日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>[77]</p></td>
+<td><p>Crypton Future Media</p></td>
+<td><p>日語</p></td>
+<td><p>女性</p></td>
+<td><p><a href="../Page/藤田咲.md" title="wikilink">藤田咲</a></p></td>
+<td><p>2014年4月3日</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ### Mobile Vocaloid Editor
 
@@ -1570,7 +1696,7 @@ Maui（Wil）</p></td>
 <td><p>2013年12月18日</p></td>
 </tr>
 <tr class="odd">
-<td><p>[74]</p></td>
+<td><p>[78]</p></td>
 <td><p>AH-Software</p></td>
 <td><p>日語</p></td>
 <td><p>女性</p></td>
@@ -1749,7 +1875,7 @@ Maui（Wil）</p></td>
 <td><p>2015年3月18日</p></td>
 </tr>
 <tr class="odd">
-<td><p>[75]</p></td>
+<td><p>[79]</p></td>
 <td><p>Crypton Future Media</p></td>
 <td><p>日語和英語</p></td>
 <td><p>女性</p></td>
@@ -1797,7 +1923,7 @@ Maui（Wil）</p></td>
 <td><p>2015年7月27日</p></td>
 </tr>
 <tr class="odd">
-<td><p>Arsloid[76]</p></td>
+<td><p>Arsloid[80]</p></td>
 <td><p>山葉公司<br />
 環球唱片日本</p></td>
 <td><p>日語</p></td>
@@ -1871,7 +1997,7 @@ Maui（Wil）</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>[77]</p></td>
+<td><p>[81]</p></td>
 <td><p>Crypton Future Media</p></td>
 <td><p>日語</p></td>
 <td><p>女性</p></td>
@@ -1879,7 +2005,7 @@ Maui（Wil）</p></td>
 <td><p>未知</p></td>
 </tr>
 <tr class="odd">
-<td><p>[78]</p></td>
+<td><p>[82]</p></td>
 <td><p>Crypton Future Media</p></td>
 <td><p>日語</p></td>
 <td><p>男性</p></td>
@@ -1887,7 +2013,7 @@ Maui（Wil）</p></td>
 <td><p>未知</p></td>
 </tr>
 <tr class="even">
-<td><p>[79]</p></td>
+<td><p>[83]</p></td>
 <td><p>Crypton Future Media</p></td>
 <td><p>日語</p></td>
 <td><p>中性（“女性”聲音）</p></td>
@@ -1903,7 +2029,7 @@ Maui（Wil）</p></td>
 <td><p>取消</p></td>
 </tr>
 <tr class="even">
-<td><p>[80]</p></td>
+<td><p>[84]</p></td>
 <td><p>山葉公司<br />
 <a href="../Page/羅森_(便利店).md" title="wikilink">羅森</a></p></td>
 <td><p>日語</p></td>
@@ -1946,7 +2072,7 @@ Bplats</p></td>
 <td><p>未知</p></td>
 </tr>
 <tr class="odd">
-<td><p>[81]</p></td>
+<td><p>[85]</p></td>
 <td><p>山葉公司<br />
 VocaNext</p></td>
 <td><p>日語</p></td>
@@ -1955,7 +2081,7 @@ VocaNext</p></td>
 <td><p>取消</p></td>
 </tr>
 <tr class="even">
-<td><p>[82][83]</p></td>
+<td><p>[86][87]</p></td>
 <td><p>山葉公司<br />
 VocaNext</p></td>
 <td><p>日語</p></td>
@@ -1999,6 +2125,8 @@ VocaNext</p></td>
 </tbody>
 </table>
 
+## 註釋
+
 ## 參考文獻
 
 ## 外部連結
@@ -2019,9 +2147,14 @@ VocaNext</p></td>
 <!-- end list -->
 
   - [ボーカロイ製品一覧](https://net.vocaloid.com/products)
-      - [Vocaloid Product List](https://www.vocaloid.com/en/)
+      - [Vocaloid Product List](https://www.vocaloid.com/en/products)
 
 [Category:软件列表](https://zh.wikipedia.org/wiki/Category:软件列表 "wikilink")
+[Category:Vocaloid](https://zh.wikipedia.org/wiki/Category:Vocaloid "wikilink")
+[Category:虛構歌手](https://zh.wikipedia.org/wiki/Category:虛構歌手 "wikilink")
+[Category:富士電視台](https://zh.wikipedia.org/wiki/Category:富士電視台 "wikilink")
+[Category:網易](https://zh.wikipedia.org/wiki/Category:網易 "wikilink")
+[Category:日本索尼音樂娛樂](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂 "wikilink")
 
 1.
 
@@ -2104,19 +2237,23 @@ VocaNext</p></td>
 40.
 
 41.
+
 42.
+
 43.
+
 44.
+
 45.
+
 46.
+
 47.
 
 48.
 
 49.
-
 50.
-
 51.
 
 52.
@@ -2128,7 +2265,9 @@ VocaNext</p></td>
 55.
 
 56.
+
 57.
+
 58.
 
 59.
@@ -2148,17 +2287,11 @@ VocaNext</p></td>
 66.
 
 67.
-
 68.
-
 69.
-
 70.
-
 71.
-
 72.
-
 73.
 
 74.
@@ -2166,6 +2299,7 @@ VocaNext</p></td>
 75.
 
 76.
+
 77.
 
 78.
@@ -2173,8 +2307,15 @@ VocaNext</p></td>
 79.
 
 80.
-
 81.
+
 82.
 
 83.
+
+84.
+
+85.
+86.
+
+87.

@@ -399,6 +399,29 @@ V app 播出。
 | 2  | 2019年1月18日 |      |
 | 3  | 2019年1月25日 |      |
 
+### TWICE TV 花絮合輯
+
+此TWICE TV
+以花絮為主並無特定主題，特此整合，於2019年2月1日起，不定時在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink")
+V app 播出。
+
+|            |                         |          |
+| ---------- | ----------------------- | -------- |
+| 播放日期       | 參與成員                    | 備註       |
+| 2019年2月1日  | 全體                      | MBC歌謠大祭典 |
+| 2019年2月8日  | SBS歌謠大戰                 |          |
+| 2019年2月15日 | KBS歌謠盛典                 |          |
+| 2019年2月22日 | 第33屆金唱片頒獎典禮             |          |
+| 2019年2月28日 | 第33屆金唱片頒獎典禮 2           |          |
+| 2019年3月8日  | 第28屆首爾歌謠大賞              |          |
+| 2019年3月15日 | TWICE與ONCE的全家福          |          |
+| 2019年3月22日 | GAON CHART MUSIC AWARDS |          |
+| 2019年3月29日 | 保礦力水特                   |          |
+| 2019年4月5日  | 保礦力水特 IN 泰國             |          |
+| 2019年4月12日 | V re:memVer PARTY       |          |
+| 2019年4月23日 | TOKYO DOME              |          |
+| 2019年5月24日 | FANCY SHOWCASE          |          |
+
 ### TWICE "Star Road"
 
 TWICE "Star
@@ -435,8 +458,8 @@ V app 播出。
 
 ### TWICE Vlog"FANCY"
 
-TWICE
-Vlog"FANCY"於2019年4月8日起，每週一、三、五在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink")
+TWICE Vlog "FANCY" 主要由成員 [彩瑛](../Page/彩瑛.md "wikilink")
+拍攝並剪輯，於2019年4月8日起，每週一、三、五在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink")
 V app 播出。
 
 |    |            |                            |
@@ -454,14 +477,36 @@ V app 播出。
 
 ### TWICE TV "FANCY"
 
-TWICE
-Vlog"FANCY"於2019年4月30日起，在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink")
+TWICE TV
+"FANCY"於2019年4月30日起，在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink")
+V app 播出。
+
+|    |            |       |     |
+| -- | ---------- | ----- | --- |
+| 集數 | 播放日期       | 參與成員  | 備註  |
+| 1  | 2019年4月30日 | 全體    | 娜璉篇 |
+| 2  | 2019年5月2日  | 定延篇   |     |
+| 3  | 2019年5月4日  | MOMO篇 |     |
+| 4  | 2019年5月7日  | SANA篇 |     |
+| 5  | 2019年5月9日  | 志效篇   |     |
+| 6  | 2019年5月11日 | MINA篇 |     |
+| 7  | 2019年5月14日 | 多賢篇   |     |
+| 8  | 2019年5月17日 | 彩瑛篇   |     |
+| 9  | 2019年5月18日 | 子瑜篇   |     |
+
+### TWICE TV "FANCY" COMEBACK WEEK
+
+TWICE TV
+"FANCY"於2019年5月31日起，在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink")
 V app 播出。
 
 |    |            |      |
 | -- | ---------- | ---- |
 | 集數 | 播放日期       | 參與成員 |
-| 1  | 2019年4月30日 | 全體   |
+| 1  | 2019年5月31日 | 全體   |
+| 2  | 2019年6月14日 |      |
+| 3  | 2019年6月21日 |      |
+| 4  | 2019年6月28日 |      |
 
 ## 註釋
 

@@ -316,7 +316,7 @@ One自](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")2017年出道至今�
 <tr class="even">
 <td><p>1月22日</p></td>
 <td><p>SBS</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/同床異夢2_-_你是我的命運" title="wikilink">同床異夢2 - 你是我的命運</a>》</p></td>
+<td><p>《<a href="../Page/同床異夢2_-_你是我的命運.md" title="wikilink">同床異夢2 - 你是我的命運</a>》</p></td>
 <td><p>全體</p></td>
 <td><p>驚喜出演</p></td>
 </tr>

@@ -284,7 +284,7 @@ Hero）是[MTV影視大獎重要的獎項之一](../Page/MTV影視大獎.md "wik
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/蓋兒·加朵" title="wikilink">蓋兒·加朵</a></p></td>
-<td><p>黛安娜·普林斯／神力女超人</p></td>
+<td><p>黛安娜·普林斯/神力女超人</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/神力女超人_(2017年電影)" title="wikilink">神力女超人</a></p></td>
 <td></td>
 </tr>
@@ -298,6 +298,38 @@ Hero）是[MTV影視大獎重要的獎項之一](../Page/MTV影視大獎.md "wik
 <td><p><a href="../Page/黛西·蕾德莉.md" title="wikilink">黛西·蕾德莉</a></p></td>
 <td><p>芮</p></td>
 <td><p><a href="../Page/STAR_WARS：最後的絕地武士.md" title="wikilink">STAR WARS：最後的絕地武士</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>'''2019<br />
+(第28屆)<br />
+</p></td>
+<td><p>'''<a href="https://zh.wikipedia.org/wiki/羅拔·唐尼" title="wikilink">羅拔·唐尼</a></p></td>
+<td><p>'''鐵甲奇俠 / 東尼·史達</p></td>
+<td><p>'''<a href="https://zh.wikipedia.org/wiki/復仇者聯盟：終局之戰" title="wikilink">復仇者聯盟：終局之戰</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/貝兒·娜森" title="wikilink">貝兒·娜森</a></p></td>
+<td><p>驚奇隊長/嘉露·丹弗斯</p></td>
+<td><p><a href="../Page/驚奇隊長_(電影).md" title="wikilink">驚奇隊長</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/約翰·大衛·華盛頓.md" title="wikilink">約翰·大衛·華盛頓</a></p></td>
+<td><p>羅恩·史塔爾沃斯</p></td>
+<td><p><a href="../Page/黑色黨徒.md" title="wikilink">黑色黨徒</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/麦茜·威廉姆斯.md" title="wikilink">麦茜·威廉姆斯</a></p></td>
+<td><p>艾莉亞·史塔克</p></td>
+<td><p><a href="../Page/权力的游戏_(电视剧).md" title="wikilink">权力的游戏</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/柴克·萊威.md" title="wikilink">柴克·萊威</a></p></td>
+<td><p>沙贊/威廉·比利·貝特森</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/沙贊！_(電影)" title="wikilink">沙贊！</a></p></td>
 <td></td>
 </tr>
 </tbody>

@@ -570,7 +570,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/朴娜莱_(喜剧演员)" title="wikilink">朴娜莱</a></p></td>
+<td><p><a href="../Page/朴娜勑.md" title="wikilink">朴娜勑</a></p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/COMEDY_BIG_LEAGUE" title="wikilink">COMEDY BIG LEAGUE</a>》</p></td>
 <td></td>
 </tr>

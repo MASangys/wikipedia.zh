@@ -15,6 +15,11 @@ BiSH（ビッシュ）是日本的音樂團體、女子偶像組合、「不演�
 
 ### 2019年
 
+  - 1月3日 –
+    [赤坂BLITZ舉行](../Page/赤坂BLITZ.md "wikilink")「WACKなりの甲子園」，同時宣佈「WACK合宿型徵選2019」的公布，而BiSH一同參與，最後決定由AYUNi
+    D參加。
+  - 3月26日 –3月30日 – AYUNi D將作為導師參加「WACK合宿型徵選2019」。
+
 ## 成員
 
 ### 現任成員
@@ -36,7 +41,8 @@ BiSH（ビッシュ）是日本的音樂團體、女子偶像組合、「不演�
 <td></td>
 <td><p>東京都八王子市</p></td>
 <td><p>本名為蒼井ちひろ<br />
-是BiSH的隊長亦是創始成員</p></td>
+是BiSH的隊長亦是創始成員<br />
+是前HOLY SHiTS的成員。</p></td>
 <td><p>看起來很嚴肅，是惡女<br />
 即使這樣，也只有兩個男朋友<br />
 我的妹妹哪有這麼可愛（2015-2016）</p></td>
@@ -48,7 +54,8 @@ BiSH（ビッシュ）是日本的音樂團體、女子偶像組合、「不演�
 <td><p>大阪府豊中市</p></td>
 <td><p>本名為飯谷愛菜<br />
 是創始成員<br />
-舞蹈指導</p></td>
+舞蹈指導<br />
+是<a href="../Page/SAiNT_SEX.md" title="wikilink">SAiNT SEX的成員</a>。</p></td>
 <td><p>禮儀師</p></td>
 <td><p><span style="color:#E74C3C"><strong>■</strong></span> 紅色</p></td>
 </tr>
@@ -88,7 +95,8 @@ BiSH（ビッシュ）是日本的音樂團體、女子偶像組合、「不演�
 <td><p>本名為伊藤亜佑子<br />
 是追加成員<br />
 2016年8月開始活動。<br />
-並從千與千尋Chittiii那裡繼承了担当和LiNG LiNG的那裡繼承了白色。</p></td>
+是<a href="../Page/SAiNT_SEX.md" title="wikilink">SAiNT SEX的成員</a>。<br />
+並從千與千尋Chittiii那裡偷了担当和LiNG LiNG的那裡繼承了白色。</p></td>
 <td><p>我的妹妹哪有這麼可愛</p></td>
 <td><p><span style="color:#FFFFFF"><strong>■</strong></span> 白色</p></td>
 </tr>
@@ -1412,6 +1420,10 @@ BiSH（ビッシュ）是日本的音樂團體、女子偶像組合、「不演�
 
   - 北海道新聞夕刊（2016年11月15日）
 
+## 參考資料
+
+<references />
+
 ## 外部連結
 
   -
@@ -1424,10 +1436,7 @@ BiSH（ビッシュ）是日本的音樂團體、女子偶像組合、「不演�
   -
   -
   -
-## 參考資料
-
-<references />
-
+[Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink")
 [Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink")
 
 1.  團體名稱來自Brand-new Idol SHit (新生クソアイドル)

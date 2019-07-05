@@ -180,6 +180,8 @@ Radio』介紹下，於[Facebook獲得超過](../Page/Facebook.md "wikilink")120
 
   - 4月1日，再次在YouTube上傳愚人節的新MV「[祇園町
     "Gion-cho"](https://www.youtube.com/watch?v=umSt7oMUMcs)」\[71\]，舞妓樂團BAND-MAIKO再次襲來，並以京都方言寫作歌詞，MV取景也選擇京都祇園「花街」之景色。
+  - 7月13日，「BAND-MAID WORLD DOMINATION TOUR 2019 【激動】
+    \~gekidou\~」世界巡演台北站，於台北花漾Hana展演空間演出。
 
 ## 音樂作品
 

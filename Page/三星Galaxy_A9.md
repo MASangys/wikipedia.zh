@@ -9,6 +9,9 @@ A7（2016）同時發布](../Page/三星Galaxy_A7_\(2016\).md "wikilink")，運�
 GB儲存空間組成，最大可以擴充到128
 GB的MicroSD記憶卡，電池為不可拆卸式4000mAh，支援快充。另外，這款手機並未在台灣上市。\[2\]\[3\]
 
+三星Galaxy A9（2016）开箱即用，运行Android 5.1.1 Lollipop。 计划发布Android 6.0.1
+Marshmallow，已经发布了针对中国和香港TGY变体的更新。 它正在等待升级到Android Nougat
+
 ## 技術規格
 
   - 後置攝像頭：1300萬像素

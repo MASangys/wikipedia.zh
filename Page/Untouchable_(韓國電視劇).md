@@ -268,10 +268,12 @@
 ## 外部連結
 
   - [韓國JTBC官方網站](http://tv.jtbc.joins.com/trailer/pr10010519/pm10045367/vo10189520/view)
+  - [香港有線電視官方網站](http://epg.i-cable.com/ci/program/intro/599/權慾都市)
 
 [Category:2017年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2017年韓國電視劇集 "wikilink")
 [Category:虛構聚居地背景作品](https://zh.wikipedia.org/wiki/Category:虛構聚居地背景作品 "wikilink")
 [Category:奇妙電視外購劇集](https://zh.wikipedia.org/wiki/Category:奇妙電視外購劇集 "wikilink")
+[Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink")
 
 1.  [더패키지 후속 ‘언터처블’ 대본리딩 현장 공개..진구-김성균 연기
     맞대결\!](http://www.imaeil.com/sub_news/sub_news_view.php?news_id=44504&yy=2017)

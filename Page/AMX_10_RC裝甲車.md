@@ -6,7 +6,8 @@ RC**名稱中的**RC**是[法語](https://zh.wikipedia.org/wiki/法語 "wikilink
 值得注意的是，AMX 10
 RC裝甲車與[AMX-10P步兵戰車不應被混淆](../Page/AMX-10P步兵戰車.md "wikilink")；它們除了使用共通的動力套件外，其他設計及在戰場上的角色定位都大不相同。AMX
 10
-RC是[兩棲裝甲車](https://zh.wikipedia.org/wiki/兩棲裝甲車 "wikilink")，並擁有相當優秀的機動性能。它通常被用於於危險環境中執行偵察任務，或是提供直接火力支援。
+P是[兩棲裝甲車](https://zh.wikipedia.org/wiki/兩棲裝甲車 "wikilink")，並擁有相當優秀的機動性能、而AMX
+10 RC通常被用於於危險環境中執行偵察任務，或是提供直接火力支援。
 
 ## 設計
 

@@ -30,7 +30,7 @@ GUM月刊展開了漫畫作品《[鋼鐵少女](../Page/钢铁少女.md "wikilin
     部分角色設定/插圖/原畫—扶桑號戰艦
   - 《[艦隊Collection](../Page/艦隊Collection.md "wikilink")》網頁遊戲 -
     部分角色設定/插圖/原畫—塞繆爾·B·羅伯茨號（USS Samuel B. Roberts，
-    DE-413）、約翰斯頓號（USS Johnston， DD-557）
+    DE-413）、約翰斯頓號（USS Johnston， DD-557）、弗莱彻号（USS Fletcher，DD-445）
   - 《[這一次冥婚辦完，我們家就可以湊一桌麻將了呢！](https://zh.wikipedia.org/wiki/這一次冥婚辦完，我們家就可以湊一桌麻將了呢！ "wikilink")》輕小說
     - 封面設計/插圖
 

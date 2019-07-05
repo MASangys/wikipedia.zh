@@ -242,8 +242,8 @@
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p>2019年7月－<br />
-2019年</p></td>
+<td style="text-align: center;"><p>2019年7月13日－<br />
+2019年9月</p></td>
 <td style="text-align: center;"><p><a href="../Page/德魯納酒店.md" title="wikilink">德魯納酒店</a><br />
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
@@ -253,8 +253,8 @@
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p>2019年－<br />
-2019年</p></td>
+<td style="text-align: center;"><p>2019年9月－<br />
+2019年9月</p></td>
 <td style="text-align: center;"><p><a href="../Page/阿斯達年代記.md" title="wikilink">阿斯達年代記</a>（第3部）<br />
 </p></td>
 <td style="text-align: center;"><p>6</p></td>
@@ -272,6 +272,26 @@
 <td style="text-align: center;"><p><a href="../Page/池昌旭.md" title="wikilink">池昌旭</a>、<a href="../Page/元真兒.md" title="wikilink">元真兒</a>、<a href="../Page/尹世雅.md" title="wikilink">尹世雅</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/申宇哲.md" title="wikilink">申宇哲</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/白美瓊" title="wikilink">白美瓊</a></p></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>2019年11月－<br />
+2019年</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/愛的迫降" title="wikilink">愛的迫降</a><br />
+</p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/玄彬" title="wikilink">玄彬</a>、<a href="https://zh.wikipedia.org/wiki/孫藝珍" title="wikilink">孫藝珍</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李政孝" title="wikilink">李政孝</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/朴智恩_(編劇).md" title="wikilink">朴智恩</a></p></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>
 </tbody>

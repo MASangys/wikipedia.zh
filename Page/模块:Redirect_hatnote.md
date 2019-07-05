@@ -4,7 +4,7 @@
 --](https://zh.wikipedia.org/wiki/--_This_module_produces_a_"redirect"_hatnote._It_looks_like_this:_--_'"X"_redirects_here._For_other_uses,_see_Y.'_--_It_implements_the_{{redirect}}_template._-- "wikilink")
 
 local mHatnote = require('Module:Hatnote') local mHatList =
-require('Module:Hatnote list2') local mArguments --lazily initialize
+require('Module:Hatnote list') local mArguments --lazily initialize
 local libraryUtil = require('libraryUtil') local checkType =
 libraryUtil.checkType local checkTypeMulti = libraryUtil.checkTypeMulti
 

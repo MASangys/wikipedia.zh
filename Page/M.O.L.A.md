@@ -139,7 +139,6 @@ M.O.L.A 連結
 [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
 [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
 [Category:2015年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年成立的音樂團體 "wikilink")
-[Category:PENTAGON](https://zh.wikipedia.org/wiki/Category:PENTAGON "wikilink")
 
 1.  [M.O.L.A (15&'s Park Ji Min, UNIQ's Seungyoun, & Nathan) drop sick
     collaboration track 'My

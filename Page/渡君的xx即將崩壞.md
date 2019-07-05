@@ -3,7 +3,7 @@ Ace](../Page/Young_Ace.md "wikilink")》\[1\]，後來於2015年11月20日移籍
 
 ## 概要
 
-《渡君的xx即將崩壞》是的第5部作品，前作為已改編為電視劇的《[愛吃拉麵的小泉同學](../Page/愛吃拉麵的小泉同學.md "wikilink")》\[3\]。作品在2014年8月於[漫畫月刊](../Page/日本漫畫雜誌.md "wikilink")《[Young
+《渡君的xx即將崩壞》是[鳴見奈留的第](../Page/鳴見奈留.md "wikilink")5部作品，前作為已改編為電視劇的《[愛吃拉麵的小泉同學](../Page/愛吃拉麵的小泉同學.md "wikilink")》\[3\]。作品在2014年8月於[漫畫月刊](../Page/日本漫畫雜誌.md "wikilink")《[Young
 Ace](../Page/Young_Ace.md "wikilink")》連載，後來於2015年11月移籍至[講談社旗下的](https://zh.wikipedia.org/wiki/講談社 "wikilink")《》\[4\]。[角川書店出版的](../Page/角川書店.md "wikilink")[單行本第](https://zh.wikipedia.org/wiki/單行本 "wikilink")1集於2015年2月12日發售，但後來因移籍的關係，講談社決定重印第1冊，內頁亦與角川版有許多的不同\[5\]。而第1冊與第2冊的發行時間也相差逾1年半。
 
 ## 故事簡介

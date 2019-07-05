@@ -1,27 +1,22 @@
 **TRCNG**（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[TS
-Entertainment公司於](https://zh.wikipedia.org/wiki/TS_Entertainment "wikilink")2017年推出的十人男子團體，也是[TS娛樂距](../Page/TS娛樂.md "wikilink")[B.A.P時隔五年所推出的男團](../Page/B.A.P.md "wikilink")。
-成員包含JI HUN、HA YOUNG、TAE SEON、HAK MIN、WOO YEOP、JI SUNG、HYUN WOO、SI WOO、HO
-HYEON、KANG MIN共十人，2017年10月10日以《Spectrum》正式出道。
+Entertainment公司於](https://zh.wikipedia.org/wiki/TS_Entertainment "wikilink")2017年推出的十人男子團體，
+成員包括JI HUN、HA YOUNG、TAE SEON、HAK MIN、WOO YEOP、JI SUNG、HYUN WOO、SI WOO、HO
+HYEON、KANG MIN共十人。2017年10月10日以《Spectrum》正式出道。
+
+## 團隊資料
+
+### 團名由來
 
 「**TRCNG**」為「Teen Rising Champion in a New
-Generation」的縮寫，意謂著將成為新世代中崛起的青少年冠軍。\[1\]
+Generation」的縮寫，意謂著將成為新世代中崛起的青少年冠軍，\[1\]，目標成為20歲以下的新世代青少年世界頂尖意志。
 
-## 經歷
-
-### 2017年
-
-2017年8月17日，[TS娛樂宣布將推出十人組新男團](../Page/TS娛樂.md "wikilink")，目前正以下半年出道為目標準備當中，並透過官方
-Facebook 公開神秘預告照。9月20日，公開三位成員KANG MIN、HO HYEON、SI
-WOO個人概念照。9月23日，公開剩餘七位成員個人概念照，並宣布將在10月10日發行首張迷你專輯《NEW
-GENERATION》正式出道。\[2\]
-
-## 成員資料
+### 成員資料
 
 <table>
 <tbody>
 <tr class="odd">
 <td><p>英文</p></td>
-<td><p>藝名[3]</p></td>
+<td><p>藝名[2]</p></td>
 <td><p>諺文</p></td>
 <td><p>本名</p></td>
 <td><p>羅馬拼音</p></td>
@@ -153,6 +148,27 @@ GENERATION》正式出道。\[2\]
 </tbody>
 </table>
 
+## 活動經歷
+
+### 2017年
+
+8月17日，[TS娛樂宣布將推出十人組新男團](../Page/TS娛樂.md "wikilink")，目前正以下半年出道為目標準備當中，並透過官方
+Facebook 公開神秘預告照。
+
+9月20日，公開三位成員KANG MIN、HO HYEON、SI WOO個人概念照。
+
+9月23日，公開剩餘七位成員個人概念照。
+
+10月10日，發行首張迷你專輯《NEW GENERATION》正式出道。
+
+### 2018年
+
+1月2日，發行單曲專輯《WHO AM I》。\[3\]
+
+### 2019年
+
+6月14日，宣布將會推出音源專輯《PARADISE》，並釋出相片。 \[4\]
+
 ## 音樂作品
 
 ### 迷你專輯
@@ -170,7 +186,7 @@ GENERATION》正式出道。\[2\]
 <ul>
 <li>發行日期：2017年10月10日</li>
 <li>語言：韓語</li>
-<li>專輯銷量：7,385+[4][5]</li>
+<li>專輯銷量：7,385+[5][6]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -346,8 +362,9 @@ GENERATION》正式出道。\[2\]
 [Category:2017年韓國建立](https://zh.wikipedia.org/wiki/Category:2017年韓國建立 "wikilink")
 
 1.  [TRCNG、日本デビューシングル「SPECTRUM」4月4日発売決定！](http://news.kstyle.com/article.ksn?articleNo=2087295)
-2.  <http://kpopn.niusnews.com/=K2quq9s3>
-3.  [環球音樂
+2.  [環球音樂
     J-POP在Facebook貼文上為TRCNG正名](https://m.facebook.com/TaiwanUniversalJapanMusic/posts/1819138588385983)
-4.  [2017年10月GAON專輯榜34位](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=10&hitYear=2017&termGbn=month)
-5.  [2017年11月GAON專輯榜43位](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=11&hitYear=2017&termGbn=month)
+3.
+4.
+5.  [2017年10月GAON專輯榜34位](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=10&hitYear=2017&termGbn=month)
+6.  [2017年11月GAON專輯榜43位](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=11&hitYear=2017&termGbn=month)

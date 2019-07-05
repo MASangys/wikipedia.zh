@@ -1,5 +1,4 @@
-**ShopBack
-是一間總部設於新加坡的電子商務網站，**該網站利用現金返還計劃獎勵線上購物者\[1\]。它讓網上購物者可以通過此項服務，在購買產品時，把一部分的消費轉變為他們的現金回饋(cashback)。。
+**ShopBack**是一間總部設於[新加坡的電子商務網站](../Page/新加坡.md "wikilink")，該網站利用現金返還計劃獎勵線上購物者\[1\]。它讓網上購物者可以通過此項服務，在購買產品時，把一部分的消費轉變為他們的現金回饋。
 
 ## 歷史
 
@@ -11,10 +10,6 @@ Internet\[2\]。按照ShopBack網站說法，這項服務聲稱能幫助網上�
 
 ## 媒體報導
 
-  - [非凡新聞報導](https://www.youtube.com/watch?v=h2drlzxXx6E&index=1&list=PLwlY8HdFm9lkF-oTdB7dkHV2QUtWmChXR)
-  - [TVBS](http://news.tvbs.com.tw/life/688064)
-  - [東森新聞](https://www.youtube.com/watch?v=jp7pX_X2eO4)
-  - [udn聯合新聞網](http://udn.com/news/story/9/2051763)
   - [數位時代網站報導](http://www.bnext.com.tw/article/view/id/41102)
   - [30雜誌](http://www.30.com.tw/article_content_32133.html)
 

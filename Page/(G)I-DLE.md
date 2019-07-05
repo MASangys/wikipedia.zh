@@ -21,7 +21,7 @@ Live直播選出，意思是童話[彼得潘裡的虛構之島](../Page/彼得�
 <table>
 <thead>
 <tr class="header">
-<th><p>colspan="9" style="" |成員列表</p></th>
+<th><p>colspan="10" style="" |成員列表</p></th>
 </tr>
 </thead>
 <tbody>
@@ -57,7 +57,7 @@ Live直播選出，意思是童話[彼得潘裡的虛構之島](../Page/彼得�
 
 ### 出道前
 
-**曹薇娟**
+**赵美延**
 
 2010至2015年，曾在[YG娛樂練習](../Page/YG娛樂.md "wikilink")5年，是女團[BLACKPINK的預備成員](../Page/BLACKPINK.md "wikilink")，離開後於歌唱學院學習音樂。\[9\]2016年，9月曾與[林瑟雍公演](../Page/林瑟雍.md "wikilink")\[10\]，12月曾參與[林瑟雍演唱會](../Page/林瑟雍.md "wikilink")。\[11\]\[12\]
 2017年，7月參與《YOU》Cover。\[13\]參加Cube面試時，表演是結他自彈自唱、舞蹈。 2018年，2月參與《Missing
@@ -168,15 +168,21 @@ made](../Page/I_made.md "wikilink")》全輯音源及主打《Senorita》，並�
 
 3月6日，在音樂節目《[Show
 Champion](../Page/Show_Champion.md "wikilink")》以主打歌《Senorita》取得回歸後首個一位，宣傳期間獲得一個一位。\[78\]3月7日，迷你二輯《[I
-made](../Page/I_made.md "wikilink")》取得[美國](../Page/美国.md "wikilink")[Billboard的](../Page/公告牌音乐奖.md "wikilink")「世界專輯榜」第五名。\[79\]
+made](../Page/I_made.md "wikilink")》取得[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[Billboard的](../Page/公告牌音乐奖.md "wikilink")「世界專輯榜」第五名。\[79\]
 
 **第二張數位單曲《Uh-Oh》**
 
 6月13日，CUBE娛樂相關人士表示，(G)I-DLE確定於6月26日以數位單曲《Uh-Oh》回歸，並釋出將進行MV拍攝的消息。\[80\]6月16日，官方社群帳號發佈首波回歸預告照。\[81\]
 
+6月26日，韓國時間下午6點，公開第二張數位單曲《[Uh-Oh](../Page/Uh-Oh.md "wikilink")》，並於同日舉行回歸Showcase。\[82\]
+
+6月27日，第二張數位單曲《Uh-Oh》登上台灣、日本、澳洲、美國、加拿大、英國等 17 個國家拿下iTunes K-pop
+單曲榜第一名，另在哥斯達黎加、約旦、蒙古、瑞典及尼加拉瓜等 5
+個國家拿下iTunes綜合歌曲榜第一名。\[83\]\[84\]
+
 **日本出道、日語迷你一輯《LATATA》**
 
-5月20日，日本官方網站宣布7月23日將在東京舉行日本出道Showcase，7月31日正式发行日本出道迷你专辑《LATATA》。\[82\]
+5月20日，日本官方網站宣布7月23日將在東京舉行日本出道Showcase，7月31日正式發行日本出道迷你專輯《LATATA》。\[85\]
 
 ## 音乐作品
 
@@ -203,7 +209,7 @@ made](../Page/I_made.md "wikilink")》取得[美國](../Page/美国.md "wikilink
 
 #### 迷你專輯
 
-  - 2019年：《[LATATA](https://zh.wikipedia.org/wiki/LATATA_（日语专辑） "wikilink")》
+  - 2019年：《[LATATA](../Page/LATATA.md "wikilink")》
 
 ## 媒体作品
 
@@ -211,12 +217,12 @@ made](../Page/I_made.md "wikilink")》取得[美國](../Page/美国.md "wikilink
 
 | 年份                                                         | 产品名称                 | 参与成员         | 备注  |
 | ---------------------------------------------------------- | -------------------- | ------------ | --- |
-| 2016年                                                      | GMarket 8秒服装\[83\]   | 小娟           | 出道前 |
-| 2017年                                                      | Rising Star化妆品\[84\] | Minnie、雨琦、舒華 |     |
-| 2019年                                                      | Kaja化妆品\[85\]        | 全体           |     |
-| 安慕希酸奶\[86\]                                                | 雨琦                   | 奔跑吧          |     |
-| 唯兰颂面膜\[87\]                                                | 代言人                  |              |     |
-| 米读小说\[88\]                                                 | 奔跑吧                  |              |     |
+| 2016年                                                      | GMarket 8秒服装\[86\]   | 小娟           | 出道前 |
+| 2017年                                                      | Rising Star化妆品\[87\] | Minnie、雨琦、舒華 |     |
+| 2019年                                                      | Kaja化妆品\[88\]        | 全体           |     |
+| 安慕希酸奶\[89\]                                                | 雨琦                   | 奔跑吧          |     |
+| 唯兰颂面膜\[90\]                                                | 代言人                  |              |     |
+| 米读小说\[91\]                                                 | 奔跑吧                  |              |     |
 | [LG U+ 5G](https://zh.wikipedia.org/wiki/LG_U+ "wikilink") | 全体                   |              |     |
 
 ## 演唱會及大型公演
@@ -293,6 +299,14 @@ made](../Page/I_made.md "wikilink")》取得[美國](../Page/美国.md "wikilink
 <td><p>Senorita</p></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>7月2日</p></td>
+<td></td>
+<td><p><a href="../Page/THE_SHOW_(SBS_MTV節目).md" title="wikilink">THE SHOW</a></p></td>
+<td><p>Uh-Oh</p></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -350,7 +364,7 @@ made](../Page/I_made.md "wikilink")》取得[美國](../Page/美国.md "wikilink
 | ------------------------------------ |
 | [Mnet](../Page/Mnet媒體.md "wikilink") |
 | 2                                    |
-| 一位總數：7                               |
+| 一位總數：8                               |
 
 ## 備註與參考資料
 
@@ -518,3 +532,6 @@ made](../Page/I_made.md "wikilink")》取得[美國](../Page/美国.md "wikilink
 86.
 87.
 88.
+89.
+90.
+91.

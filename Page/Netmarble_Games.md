@@ -32,6 +32,7 @@ Hit娛樂28.84%股份，列入Netmarble聯營公司。\[3\]\[4\]
   - [傳說對決 (韓版)](https://zh.wikipedia.org/wiki/傳說對決_\(韓版\) "wikilink")
   - [迪士尼魔法骰子](https://zh.wikipedia.org/wiki/迪士尼魔法骰子 "wikilink")
   - [釣魚大亨](https://zh.wikipedia.org/wiki/釣魚大亨 "wikilink")
+  - [BTS WORLD](https://zh.wikipedia.org/wiki/BTS_WORLD "wikilink")
 
 ## 相關條目
 

@@ -18,8 +18,8 @@ GB的[MicroSD記憶卡](../Page/MicroSD.md "wikilink")，支援4G+3G雙卡雙待
   - 電池：3000 mAh
   - 尺寸：5.5寸
   - 處理器：[聯發科 Helio](../Page/聯發科技曦力.md "wikilink") P25
-  - 操作系統：基於Android 7.1 Nougat系統的[Grace
-    UX](../Page/TouchWiz.md "wikilink") 介面
+  - 操作系統：基於Android 8.1 Oreo系統的[Grace UX](../Page/TouchWiz.md "wikilink")
+    介面
   - 重量：180克
   - 螢幕：1080p Full HD [Super
     AMOLED](https://zh.wikipedia.org/wiki/Super_AMOLED "wikilink")

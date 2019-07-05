@@ -21,19 +21,22 @@ OS进行开发与测试\[12\]\[13\]\[14\]。
 
 2018年4月，Fuchsia的原始碼出現在[AOSP的](https://zh.wikipedia.org/wiki/AOSP "wikilink")[ART當中](https://zh.wikipedia.org/wiki/ART "wikilink")，疑似是AOSP已經開始將ART移植至Fuchsia上，但原始碼仍處於被註釋處理的狀態。\[15\]
 
+2019年6月28日，Fuchsia OS的开发者网站Fuchsia.dev上线。\[16\]
+
 ## 特性
 
 Fuchsia的[用户界面与](../Page/用户界面.md "wikilink")[应用使用](https://zh.wikipedia.org/wiki/移动应用程序 "wikilink")“[Flutter](https://zh.wikipedia.org/wiki/Flutter_\(软件\) "wikilink")”开发。Flutter是一个能为Fuchsia、[Android和](../Page/Android.md "wikilink")[iOS进行跨平台开发的开发框架](https://zh.wikipedia.org/wiki/iOS "wikilink")，基于[Dart创建应用](../Page/Dart.md "wikilink")，能让应用达到120[FPS的高性能](../Page/帧率.md "wikilink")。
 
 得益于Flutter提供的跨平台能力，用户可以在Android设备上安装一部分Fuchsia。[Ars
-Technica注意到尽管用户可以测试Fuchsia](../Page/Ars_Technica.md "wikilink")，但是并不“可用”。他们还补充，尽管能看出Fuchsia与Android的界面有很多相似之处，比如应用屏幕、设置彩蛋和同时浏览多个应用的分屏功能等，但“全都只是占据位置而不可用”\[16\]。
+Technica注意到尽管用户可以测试Fuchsia](../Page/Ars_Technica.md "wikilink")，但是并不“可用”。他们还补充，尽管能看出Fuchsia与Android的界面有很多相似之处，比如应用屏幕、设置彩蛋和同时浏览多个应用的分屏功能等，但“全都只是占据位置而不可用”\[17\]。
 
-Ars Technica注意到Fuchsia的很多部分都能工作，尤其是硬件支持\[17\]。
+Ars Technica注意到Fuchsia的很多部分都能工作，尤其是硬件支持\[18\]。
 
 ## 参考文献
 
 ## 外部链接
 
+  - [Fuchsia OS开发者网站](https://fuchsia.dev)
   - [GitHub上的](../Page/GitHub.md "wikilink")[Fuchsia-mirror](https://github.com/fuchsia-mirror)
   - [Fuchsia的源代码库](https://fuchsia.googlesource.com/)
   - [(非官方）Google Fuchsia
@@ -87,3 +90,4 @@ Ars Technica注意到Fuchsia的很多部分都能工作，尤其是硬件支持\
 15.
 16.
 17.
+18.

@@ -1,9 +1,10 @@
+[SMAP_2008_Super_Modern_Artistic_Performance_Tour.jpg](https://zh.wikipedia.org/wiki/File:SMAP_2008_Super_Modern_Artistic_Performance_Tour.jpg "fig:SMAP_2008_Super_Modern_Artistic_Performance_Tour.jpg")'''（摄于2008年）
+（左起：[中居正广](https://zh.wikipedia.org/wiki/中居正广 "wikilink")、[香取慎吾](../Page/香取慎吾.md "wikilink")、[草彅刚](https://zh.wikipedia.org/wiki/草彅刚 "wikilink")、[稲垣吾郎](https://zh.wikipedia.org/wiki/稲垣吾郎 "wikilink")、[木村拓哉](../Page/木村拓哉.md "wikilink")）\]\]
+[Johnnys.jpg](https://zh.wikipedia.org/wiki/File:Johnnys.jpg "fig:Johnnys.jpg")原总部外观。\]\]
+
 **SMAP解散风波**指的是围绕2016年[日本经纪公司](../Page/日本.md "wikilink")[杰尼斯事务所旗下](https://zh.wikipedia.org/wiki/杰尼斯事务所 "wikilink")[偶像](../Page/偶像_\(日本\).md "wikilink")[男子组合](../Page/男子音乐组合.md "wikilink")[SMAP在传出解散危机并最终解散过程中所引发的相关争议和社会讨论](../Page/SMAP.md "wikilink")。\[1\]\[2\]\[3\]\[4\]\[5\]
 
 ## 事件概要
-
-[缩略图](https://zh.wikipedia.org/wiki/File:SMAP_2008_Super_Modern_Artistic_Performance_Tour.jpg "fig:缩略图")
-[缩略图](https://zh.wikipedia.org/wiki/File:Johnnys.jpg "fig:缩略图")
 
 [SMAP于](../Page/SMAP.md "wikilink")1988年结成并于1991年9月9日通过[单曲](../Page/单曲.md "wikilink")《[Can't
 Stop\!\!
@@ -169,6 +170,11 @@ YEARS～”。该特别纪念节目将原本属于该台的四档常规节目打
 
 ### 解散之后的余波
 
+在SMAP正式解散之后紧接着播出的[杰尼斯事务所年度节目](https://zh.wikipedia.org/wiki/杰尼斯事务所 "wikilink")《[杰尼斯跨年演唱会](https://zh.wikipedia.org/wiki/杰尼斯跨年演唱会 "wikilink")》上，在常规的环节“杰尼斯组曲混合唱（）”中，事务所的后辈艺人演唱了属于SMAP的《[Original
+Smile](../Page/Original_Smile.md "wikilink")》。此外，在电视转播结束后的告别环节上，一些同事务所的艺人发起了向SMAP致意的鼓掌环节。\[71\]需要注意的是，杰尼斯事务所有着后辈艺人翻唱前辈艺人歌曲的习惯，因此不少事务所的后辈艺人都曾在SMAP解散前翻唱过他们的歌曲。可能在SMAP解散后，事务所依旧会安排后辈艺人翻唱他们的歌曲，并通过电视播送。
+
+2017年1月5日，5人最后一次在杰尼斯事务所官网的SMAP专页内更新了各自的留言。\[72\]\[73\]
+
 ## 各方反響
 
 ## 社會影響
@@ -181,23 +187,23 @@ YEARS～”。该特别纪念节目将原本属于该台的四档常规节目打
 
 2016年12月21日，根据粉丝投票选择的[精选辑](https://zh.wikipedia.org/wiki/精选辑 "wikilink")《[SMAP
 25
-YEARS](../Page/SMAP_25_YEARS.md "wikilink")》正式发行。该专辑在2017年1月2日、1月9日两周的时间内连续两周成为[公信榜销量第一](https://zh.wikipedia.org/wiki/公信榜 "wikilink")。\[71\]\[72\]
-发行第三周级达成百万销量，实际销量100.7万张。\[73\] 目前，该专辑销量已经突破113万张。
+YEARS](../Page/SMAP_25_YEARS.md "wikilink")》正式发行。该专辑在2017年1月2日、1月9日两周的时间内连续两周成为[公信榜销量第一](https://zh.wikipedia.org/wiki/公信榜 "wikilink")。\[74\]\[75\]
+发行第三周级达成百万销量，实际销量100.7万张。\[76\] 目前，该专辑销量已经突破113万张。
 
-2016年12月6日，日本首家誓言重建组织“日本誓言重建组织（）”所推出的活动“VRJ最佳重新启誓日2016”中将12月21日定为“SMAP精选集发行纪念日”。\[74\]
+2016年12月6日，日本首家誓言重建组织“日本誓言重建组织（）”所推出的活动“VRJ最佳重新启誓日2016”中将12月21日定为“SMAP精选集发行纪念日”。\[77\]
 
 ### 影像辑
 
 2016年12月28日，SMAP影像专辑《》开始发行。短短四天内，该影像专辑首周销量达到[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")
 19.2万张、[BD](../Page/藍光光碟.md "wikilink")
 28.9万张，荣登[公信榜DVD](https://zh.wikipedia.org/wiki/公信榜 "wikilink")/BD部门周排行综合第一名。凭借DVD和BD的综合销量，该专辑拿下视频部门音乐类BD周榜、音乐类DVD周榜和数字音乐周榜三个部门的冠军。《Clip\!
-Smap\! 全单曲精选》DVD拿下连续三周音乐类DVD周榜第一，这是SMAP首次有作品获得此成就。\[75\]
+Smap\! 全单曲精选》DVD拿下连续三周音乐类DVD周榜第一，这是SMAP首次有作品获得此成就。\[78\]
 
-本作收录了SMAP历年发售的55张[单曲中的](../Page/单曲.md "wikilink")63首[A面曲的视频](https://zh.wikipedia.org/wiki/A面曲 "wikilink")，其中包括SMAP初次出道的珍贵影像等未公开的内容。\[76\]
+本作收录了SMAP历年发售的55张[单曲中的](../Page/单曲.md "wikilink")63首[A面曲的视频](https://zh.wikipedia.org/wiki/A面曲 "wikilink")，其中包括SMAP初次出道的珍贵影像等未公开的内容。\[79\]
 
 ### 服装展示
 
-就在[SMAP](../Page/SMAP.md "wikilink")[精选辑发行的同期](https://zh.wikipedia.org/wiki/精选辑 "wikilink")，SMAP成员所穿着的衣物也在部分唱片店内展示。这其中包括：[淘儿唱片](https://zh.wikipedia.org/wiki/淘儿唱片 "wikilink")[新宿店](../Page/新宿.md "wikilink")、淘儿唱片[涉谷店](https://zh.wikipedia.org/wiki/涉谷 "wikilink")、淘儿唱片[福冈PARCO店](../Page/福冈县.md "wikilink")、淘儿唱片大高店（[名古屋市](../Page/名古屋市.md "wikilink")）、、[HMV](../Page/HMV.md "wikilink")[札幌](https://zh.wikipedia.org/wiki/札幌 "wikilink")店、[大阪](https://zh.wikipedia.org/wiki/大阪 "wikilink")、天神站前福冈大厦、[函馆](https://zh.wikipedia.org/wiki/函馆 "wikilink")连锁店等。\[77\]
+就在[SMAP](../Page/SMAP.md "wikilink")[精选辑发行的同期](https://zh.wikipedia.org/wiki/精选辑 "wikilink")，SMAP成员所穿着的衣物也在部分唱片店内展示。这其中包括：[淘儿唱片](https://zh.wikipedia.org/wiki/淘儿唱片 "wikilink")[新宿店](../Page/新宿.md "wikilink")、淘儿唱片[涉谷店](https://zh.wikipedia.org/wiki/涉谷 "wikilink")、淘儿唱片[福冈PARCO店](../Page/福冈县.md "wikilink")、淘儿唱片大高店（[名古屋市](../Page/名古屋市.md "wikilink")）、、[HMV](../Page/HMV.md "wikilink")[札幌](https://zh.wikipedia.org/wiki/札幌 "wikilink")店、[大阪](https://zh.wikipedia.org/wiki/大阪 "wikilink")、天神站前福冈大厦、[函馆](https://zh.wikipedia.org/wiki/函馆 "wikilink")连锁店等。\[80\]
 
 详细内容可以访问SMAP于[JVC建伍胜利娱乐公司官方页面查询](https://zh.wikipedia.org/wiki/胜利娱乐 "wikilink")，以下列表仅供参考。
 
@@ -475,14 +481,20 @@ Smap\! 全单曲精选》DVD拿下连续三周音乐类DVD周榜第一，这是S
 
 72.
 
-73. [SMAPベストが3週目でミリオン達成](https://www.oricon.co.jp/news/2084305/amp/)ORICON
-    STYLE 2017年1月10日
+73.
 
 74.
 
-75. [【オリコン】SMAP映像集も好調 3週連続DVD総合1位](https://www.oricon.co.jp/news/2084656/amp/),ORICON
-    STYLE 2017-01-18
+75.
 
-76.
+76. [SMAPベストが3週目でミリオン達成](https://www.oricon.co.jp/news/2084305/amp/)ORICON
+    STYLE 2017年1月10日
 
 77.
+
+78. [【オリコン】SMAP映像集も好調 3週連続DVD総合1位](https://www.oricon.co.jp/news/2084656/amp/),ORICON
+    STYLE 2017-01-18
+
+79.
+
+80.

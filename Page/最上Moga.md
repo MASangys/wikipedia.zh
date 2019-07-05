@@ -60,6 +60,9 @@ New Romantic（）\[33\]。2014年7月 -
     Android．One Zero（Mana）\[57\]
   - [重版出来\!](https://zh.wikipedia.org/wiki/重版出来! "wikilink")（2016年4月、[TBS电视台](https://zh.wikipedia.org/wiki/TBS电视台 "wikilink")）-饰演
     梨音
+  - 恋愛香港（2017年10月9日 - 10月30日、毎日放送） - エリー 役
+
+<https://ja.m.wikipedia.org/wiki/%E6%81%8B%E3%81%99%E3%82%8B%E9%A6%99%E6%B8%AF>
 
 ### 電影
 

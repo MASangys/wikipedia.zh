@@ -236,7 +236,7 @@ Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》中以10,091
 <tr class="odd">
 <td><p>M! Countdown</p></td>
 <td><p>Mnet</p></td>
-<td><p><a href="https://www.youtube.com/watch?v=9eicUofyUyA">9月14日</a>、<a href="https://www.youtube.com/watch?v=cdrTluzL_sk">9月21日</a><a href="https://www.youtube.com/watch?v=vnpbJSWd8xw">(1位)</a></p></td>
+<td><p><a href="https://www.youtube.com/watch?v=9eicUofyUyA">9月14日</a>、<a href="https://www.youtube.com/watch?v=cdrTluzL_sk">9月21日</a><a href="https://www.youtube.com/watch?v=FaozDZsCoQQ">(1位)</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Simply K-Pop</p></td>

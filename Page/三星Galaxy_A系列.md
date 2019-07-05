@@ -3,7 +3,7 @@ A系列**是由[三星Galaxy系列分拆出的低中高端](https://zh.wikipedia
 S系列及](../Page/三星Galaxy_S系列.md "wikilink")[三星Galaxy
 Note系列以數字順序命名的方式不同](../Page/三星Galaxy_Note系列.md "wikilink")。
 
-在2019年4月8日，[三星電子宣布將](../Page/三星電子.md "wikilink")[三星Galaxy
+在2019年4月8日，為簡化生產線，[三星電子宣布將](../Page/三星電子.md "wikilink")[三星Galaxy
 J系列與本系列合併](https://zh.wikipedia.org/wiki/三星Galaxy_J系列 "wikilink")\[1\]。
 
 ## 旗下手機產品
@@ -69,15 +69,17 @@ J系列與本系列合併](https://zh.wikipedia.org/wiki/三星Galaxy_J系列 "w
   - [Samsung Galaxy
     A10](https://zh.wikipedia.org/wiki/三星Galaxy_A10 "wikilink")
   - [Samsung Galaxy
+    A20s](https://zh.wikipedia.org/wiki/三星Galaxy_A20s "wikilink")
+  - [Samsung Galaxy
     A20](https://zh.wikipedia.org/wiki/三星Galaxy_A20 "wikilink")
   - [Samsung Galaxy
     A30](https://zh.wikipedia.org/wiki/三星Galaxy_A30 "wikilink")
   - [Samsung Galaxy
     A40](https://zh.wikipedia.org/wiki/三星Galaxy_A40 "wikilink")
   - [Samsung Galaxy
-    A40s](https://zh.wikipedia.org/wiki/三星Galaxy_M30 "wikilink")
-  - [Samsung Galaxy
-    A50](https://zh.wikipedia.org/wiki/三星Galaxy_A50 "wikilink")
+    A40s](https://zh.wikipedia.org/wiki/三星Galaxy_A40s "wikilink")
+    (國際版M30)
+  - [Samsung Galaxy A50](../Page/三星Galaxy_A50.md "wikilink")
   - [Samsung Galaxy A60](../Page/三星Galaxy_A60.md "wikilink")
   - [Samsung Galaxy A60 元氣版(中國版A60)](../Page/三星Galaxy_A60.md "wikilink")
   - [Samsung Galaxy A70](../Page/三星Galaxy_A70.md "wikilink")

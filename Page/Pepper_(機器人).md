@@ -82,6 +82,7 @@ Pepper的目的是
       - 雀巢咖啡-台中中友百貨B棟10樓
       - Plaza６＋ 廣場 - 新竹高鐵旁購物中心
       - [三軍總醫院](../Page/三軍總醫院.md "wikilink")
+      - [高雄捐血中心](http://www.ks.blood.org.tw/Internet/Kaohsiung/index.aspx)
       - 致理未來超市
 
   - [歌詩達郵輪](https://zh.wikipedia.org/wiki/歌詩達郵輪 "wikilink")　

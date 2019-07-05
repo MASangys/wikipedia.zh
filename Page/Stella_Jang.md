@@ -1218,6 +1218,12 @@ Stella Jang (韓語：스텔라장，1991年11月18日－)\[1\]，本名蔣星�
 <td></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>6月20日</p></td>
+<td></td>
+<td><p>鄭永鎮和崔旭的Mae Bul Show</p></td>
+<td><p>[90]</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -1233,27 +1239,27 @@ Stella Jang (韓語：스텔라장，1991年11月18日－)\[1\]，本名蔣星�
 
 | 年份    | 日期     | 演唱會名稱       | 地點                      | 備註     |
 | ----- | ------ | ----------- | ----------------------- | ------ |
-| 2017年 | 6月17日  | 〈똑똑〉        | Hyundai Card Understage | \[90\] |
-| 2018年 | 11月18日 | 〈Bon Anniv〉 | CJ azit                 | \[91\] |
-| 2019年 | 3月30日  | 〈有害物質〉      | 共鳴中心                    | \[92\] |
+| 2017年 | 6月17日  | 〈똑똑〉        | Hyundai Card Understage | \[91\] |
+| 2018年 | 11月18日 | 〈Bon Anniv〉 | CJ azit                 | \[92\] |
+| 2019年 | 3月30日  | 〈有害物質〉      | 共鳴中心                    | \[93\] |
 
 ### 其他活動/大型公演/演唱會
 
 | 日期    | 公演/演唱會名稱             | 地點         | 備註         |
 | ----- | -------------------- | ---------- | ---------- |
-| 8月28日 | Ja Mezz Showcase     | Club Crack | \[93\]     |
-| 9月19日 | 2015 M.I.SEA CONCERT | 濟州島漢拿體育館   | 特別嘉賓\[94\] |
+| 8月28日 | Ja Mezz Showcase     | Club Crack | \[94\]     |
+| 9月19日 | 2015 M.I.SEA CONCERT | 濟州島漢拿體育館   | 特別嘉賓\[95\] |
 
 | 日期     | 公演/演唱會名稱                | 地點              | 備註         |
 | ------ | ----------------------- | --------------- | ---------- |
 | 6月20日  | 加平同心慰問公演                |                 | 軍隊活動       |
 | 8月9日   | 51師同心慰問公演               |                 | 軍隊活動       |
 | 8月25日  | 25師同心慰問公演               |                 | 軍隊活動       |
-| 10月20日 | 新村Arisu Straw Busking   | 新村Arisu Straw劇場 | \[95\]     |
-| 11月19日 | 嶺南大學獨島Music Art CONCERT | 嶺南大學天然草坪球場      | \[96\]     |
+| 10月20日 | 新村Arisu Straw Busking   | 新村Arisu Straw劇場 | \[96\]     |
+| 11月19日 | 嶺南大學獨島Music Art CONCERT | 嶺南大學天然草坪球場      | \[97\]     |
 | 11月22日 | 鐵原同心慰問公演                |                 | 軍隊活動       |
-| 12月7日  | 抱川同心慰問公演                |                 | 軍隊活動\[97\] |
-| 12月31日 | Grandline Show          | HanaTour V Hall | \[98\]     |
+| 12月7日  | 抱川同心慰問公演                |                 | 軍隊活動\[98\] |
+| 12月31日 | Grandline Show          | HanaTour V Hall | \[99\]     |
 
 <table>
 <thead>
@@ -1269,19 +1275,19 @@ Stella Jang (韓語：스텔라장，1991年11月18日－)\[1\]，本名蔣星�
 <td><p>2月15日</p></td>
 <td><p>大明文化工廠情人節週罷工演唱會</p></td>
 <td><p>yes24 Stage1館 </p></td>
-<td><p>[99]</p></td>
+<td><p>[100]</p></td>
 </tr>
 <tr class="even">
 <td><p>4月8日</p></td>
 <td><p>健康保險40週年紀念健康競走大會暨健康音樂會 </p></td>
 <td><p>水原長安公園 </p></td>
-<td><p>[100]</p></td>
+<td><p>[101]</p></td>
 </tr>
 <tr class="odd">
 <td><p>4月30日</p></td>
 <td><p>KFM京畿廣播 公開放送 </p></td>
 <td><p>利川樂天Premium Outlet </p></td>
-<td><p>[101]</p></td>
+<td><p>[102]</p></td>
 </tr>
 <tr class="even">
 <td><p>5月16日</p></td>
@@ -1293,7 +1299,7 @@ Stella Jang (韓語：스텔라장，1991年11月18日－)\[1\]，本名蔣星�
 <td><p>5月17日</p></td>
 <td><p>梨花女子大學大同祭 </p></td>
 <td><p> </p></td>
-<td><p>大學活動[102]</p></td>
+<td><p>大學活動[103]</p></td>
 </tr>
 <tr class="even">
 <td><p>5月21日</p></td>
@@ -1305,49 +1311,49 @@ Stella Jang (韓語：스텔라장，1991年11月18日－)\[1\]，本名蔣星�
 <td><p>5月27日</p></td>
 <td><p>第12屆東豆川市青少年 Music Festival </p></td>
 <td><p>東豆川市綜合體育場輔助球場露天特設舞臺 </p></td>
-<td><p>[103][104]</p></td>
+<td><p>[104][105]</p></td>
 </tr>
 <tr class="even">
 <td><p>5月28日</p></td>
 <td><p>第11屆抱川日東不倒翁同心慶典 </p></td>
 <td><p>日東高級中學 </p></td>
-<td><p>軍隊活動[105][106]</p></td>
+<td><p>軍隊活動[106][107]</p></td>
 </tr>
 <tr class="odd">
 <td><p>6月10日</p></td>
 <td><p>清淨園x宗家FOODIE GROUND FESTTIVAL </p></td>
 <td><p>建國大學Common Ground廣場 </p></td>
-<td><p>[107]</p></td>
+<td><p>[108]</p></td>
 </tr>
 <tr class="even">
 <td><p>7月8日</p></td>
 <td><p>NBA BUZZER BEAT FESTIVAL 2017 </p></td>
 <td><p>KBS Arena </p></td>
-<td><p>[108]</p></td>
+<td><p>[109]</p></td>
 </tr>
 <tr class="odd">
 <td><p>7月28日</p></td>
 <td><p>2017 蔚珍Music Farm Festival </p></td>
 <td><p>蔚珍EXPO公園露天特設舞臺 </p></td>
-<td><p>第一天(Green Energy Concert)[109]</p></td>
+<td><p>第一天(Green Energy Concert)[110]</p></td>
 </tr>
 <tr class="even">
 <td><p>8月17日</p></td>
 <td><p>Another Nice Day #13 </p></td>
 <td><p>FORMTEC WorksHall </p></td>
-<td><p>[110]</p></td>
+<td><p>[111]</p></td>
 </tr>
 <tr class="odd">
 <td><p>8月19日</p></td>
 <td><p>2017 慶北SNS朋友邀請 擺脫酷暑的共鳴脫口秀演唱會 </p></td>
 <td><p>慶尚北道廳 </p></td>
-<td><p>[111][112]</p></td>
+<td><p>[112][113]</p></td>
 </tr>
 <tr class="even">
 <td><p>8月25日</p></td>
 <td><p>KIA BEAT360 BEAT LIVE </p></td>
 <td><p>BEAT 360 Cafe </p></td>
-<td><p>Cafe Stage [113]</p></td>
+<td><p>Cafe Stage [114]</p></td>
 </tr>
 <tr class="odd">
 <td><p>8月26日—27日</p></td>
@@ -1359,63 +1365,63 @@ Stella Jang (韓語：스텔라장，1991年11月18日－)\[1\]，本名蔣星�
 <td><p>9月23日</p></td>
 <td><p>釜山市民公園開放音樂會 </p></td>
 <td><p>釜山市民公園 海厄利亞草坪廣場 </p></td>
-<td><p>[114][115]</p></td>
+<td><p>[115][116]</p></td>
 </tr>
 <tr class="odd">
 <td><p>10月14日</p></td>
 <td><p>2017 KT&amp;G 想象實現FESTIVAL </p></td>
 <td><p>KT&amp;G 想象廣場春川藝術中心 </p></td>
-<td><p>[116][117]</p></td>
+<td><p>[117][118]</p></td>
 </tr>
 <tr class="even">
 <td><p>10月21日</p></td>
 <td><p>青春 2017,COFFEE FESTIVAL </p></td>
 <td><p>蠶室樂天世界塔 </p></td>
-<td><p>[118][119]</p></td>
+<td><p>[119][120]</p></td>
 </tr>
 <tr class="odd">
 <td><p>GRAND MINT FESTIVAL 2017 </p></td>
 <td><p>cafe Blossom House<br />
 (手球競技場2-1 Gate前) </p></td>
-<td><p>[120][121][122]</p></td>
+<td><p>[121][122][123]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>11月5日</p></td>
 <td><p>2017 想象univing day:你再次對我4th </p></td>
 <td><p>KT&amp;G 春川想象廣場 </p></td>
-<td><p>[123][124]</p></td>
+<td><p>[124][125]</p></td>
 </tr>
 <tr class="odd">
 <td><p>11月11日</p></td>
 <td><p>暖男HIGH演唱會 - 甜蜜的秋天 </p></td>
 <td><p>GonGam Center</p></td>
-<td><p>[125][126]</p></td>
+<td><p>[126][127]</p></td>
 </tr>
 <tr class="even">
 <td><p>11月26日</p></td>
 <td><p>2017 大韓民國我們的酒大慶典(2017 K-Sool Music Festival) </p></td>
 <td><p>良才站aT中心第二展廳</p></td>
-<td><p>[127]</p></td>
+<td><p>[128]</p></td>
 </tr>
 <tr class="odd">
 <td><p>12月3日</p></td>
 <td><p>V LIVE ROOKIE STAGE 2017 [PEEKAVOO＆VOOM STAGE] </p></td>
 <td><p>YES24 LIVE HALL</p></td>
 <td><p>HIDDEN TRACK NO.V<br />
-晚上8點開始[128]</p></td>
+晚上8點開始[129]</p></td>
 </tr>
 <tr class="even">
 <td><p>12月15日</p></td>
 <td><p>第2屆BELLON BELLON 聖誕音樂會 </p></td>
 <td><p>Playce Camp Jeju</p></td>
-<td><p>晚上6點30分開始[129]</p></td>
+<td><p>晚上6點30分開始[130]</p></td>
 </tr>
 <tr class="odd">
 <td><p>12月23日</p></td>
 <td><p>COEX 2017 WINTER Festival </p></td>
 <td><p>COEX東門大廳</p></td>
-<td><p>晚上6點~7點[130][131]</p></td>
+<td><p>晚上6點~7點[131][132]</p></td>
 </tr>
 </tbody>
 </table>
@@ -1434,23 +1440,23 @@ Stella Jang (韓語：스텔라장，1991年11月18日－)\[1\]，本名蔣星�
 <td><p>1月28日</p></td>
 <td><p>Time Square 1月文化公演 </p></td>
 <td><p>永登浦Time Square</p></td>
-<td><p>晚上5點開始[132][133]</p></td>
+<td><p>晚上5點開始[133][134]</p></td>
 </tr>
 <tr class="even">
 <td><p>2月9日</p></td>
 <td><p>Hoegaarden Rosée x Pink Terrace Live Concert </p></td>
 <td><p>聖水洞 Layer57</p></td>
-<td><p>晚上8點到8點40分[134]</p></td>
+<td><p>晚上8點到8點40分[135]</p></td>
 </tr>
 <tr class="odd">
 <td><p>3月23日</p></td>
 <td><p>[2018 Indie Wall Hall vol.1] Indie In the Spring </p></td>
 <td><p>釜山 思想Indie Station</p></td>
-<td><p>晚上8點開始[135][136]</p></td>
+<td><p>晚上8點開始[136][137]</p></td>
 </tr>
 <tr class="even">
 <td><p>3月27日</p></td>
-<td><p>Francophonie Music Tour[137][138]</p></td>
+<td><p>Francophonie Music Tour[138][139]</p></td>
 <td><p>首爾 CJ azit </p></td>
 <td><p>晚上7點開始</p></td>
 </tr>
@@ -1475,7 +1481,7 @@ Stella Jang (韓語：스텔라장，1991年11月18日－)\[1\]，本名蔣星�
 <tr class="even">
 <td><p>3月31日</p></td>
 <td><p>大田 Alliance Francaise 'Entrepôt</p></td>
-<td><p>晚上6點開始[139]</p></td>
+<td><p>晚上6點開始[140]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1483,121 +1489,121 @@ Stella Jang (韓語：스텔라장，1991年11月18日－)\[1\]，本名蔣星�
 <td><p>Have A Nice Day #6 </p></td>
 <td><p>首爾 蘭芝漢江公園</p></td>
 <td><p>TSINGTAO Terminal 2<br />
-晚上4點30分~5點05分[140][141]</p></td>
+晚上4點30分~5點05分[141][142]</p></td>
 </tr>
 <tr class="even">
 <td><p>4月27日</p></td>
 <td><p>2018 BLOSSOM MUSIC FESTA </p></td>
 <td><p>Platform 倉洞61 Red Box</p></td>
-<td><p>晚上8點開始[142][143]</p></td>
+<td><p>晚上8點開始[143][144]</p></td>
 </tr>
 <tr class="odd">
 <td><p>4月28日</p></td>
 <td><p>Hana Tour V Hall 10週年紀念演唱會 </p></td>
 <td><p>Hana Tour V Hall</p></td>
 <td><p>V's PICK vol.5<br />
-晚上7點開始[144]</p></td>
+晚上7點開始[145]</p></td>
 </tr>
 <tr class="even">
 <td><p>5月4日</p></td>
 <td><p>第32屆利川陶瓷節 </p></td>
 <td><p>藝's Park 露天舞台</p></td>
-<td><p>晚上5點開始[145][146]</p></td>
+<td><p>晚上5點開始[146][147]</p></td>
 </tr>
 <tr class="odd">
 <td><p>5月15日</p></td>
 <td><p>2018 大邱韓醫大學 大同祭 </p></td>
 <td><p>大邱韓醫大學 大運動場</p></td>
-<td><p>[147]</p></td>
+<td><p>[148]</p></td>
 </tr>
 <tr class="even">
 <td><p>5月22日</p></td>
 <td><p>2018 高麗大學 石塔大同祭: KUniverse </p></td>
 <td><p>高麗大學 民主廣場</p></td>
-<td><p>晚上3點30分開始[148][149]</p></td>
+<td><p>晚上3點30分開始[149][150]</p></td>
 </tr>
 <tr class="odd">
 <td><p>5月25日</p></td>
 <td><p>第38屆LIVE CLUB DAY </p></td>
 <td><p>Hana Tour V Hall</p></td>
 <td><p>Legend Stage<br />
-晚上8點~8點40分 [150]</p></td>
+晚上8點~8點40分 [151]</p></td>
 </tr>
 <tr class="even">
 <td><p>5月31日</p></td>
 <td><p>2018 韓國外國語大學 大同祭:QUINQUATRIA </p></td>
 <td><p>韓國外國語大學 草坪廣場</p></td>
-<td><p>晚上4點開始 [151][152]</p></td>
+<td><p>晚上4點開始 [152][153]</p></td>
 </tr>
 <tr class="odd">
 <td><p>6月23日</p></td>
 <td><p>閃亮的創作歌手 - Stella Jang X Today's Radio </p></td>
 <td><p>合井 甜美的音樂廳</p></td>
-<td><p>晚上7點40分開始[153]</p></td>
+<td><p>晚上7點40分開始[154]</p></td>
 </tr>
 <tr class="even">
 <td><p>8月5日</p></td>
 <td><p>HIPHOP HACK-A-THON SHOW &amp; PROVE 5 </p></td>
 <td><p>CJ azit</p></td>
-<td><p>晚上7點開始[154][155]</p></td>
+<td><p>晚上7點開始[155][156]</p></td>
 </tr>
 <tr class="odd">
 <td><p>8月12日</p></td>
 <td><p>第14屆堤川國際音樂電影節:3rd Night. Gold Night </p></td>
 <td><p>義林池舞台</p></td>
-<td><p>晚上6點30分開始 [156][157][158]</p></td>
+<td><p>晚上6點30分開始 [157][158][159]</p></td>
 </tr>
 <tr class="even">
 <td><p>8月15日</p></td>
 <td><p>李承桓Acoustic演唱會 &lt;15日的Summer&gt; </p></td>
 <td><p>HanaTour V Hall</p></td>
 <td><p>嘉賓<br />
-晚上5點30分~5點55分[159][160][161]</p></td>
+晚上5點30分~5點55分[160][161][162]</p></td>
 </tr>
 <tr class="odd">
 <td><p>9月11日</p></td>
 <td><p>秋季感性,小劇場演唱會 </p></td>
 <td><p>始興市 終身教育學院</p></td>
-<td><p>晚上7點30分開始[162][163]</p></td>
+<td><p>晚上7點30分開始[163][164]</p></td>
 </tr>
 <tr class="even">
 <td><p>9月15日</p></td>
 <td><p>2018 JOY OLPARK FESTIVAL </p></td>
 <td><p>奧林匹克公園</p></td>
-<td><p>下午12點55分~1點25分[164][165][166][167]</p></td>
+<td><p>下午12點55分~1點25分[165][166][167][168]</p></td>
 </tr>
 <tr class="odd">
 <td><p>9月18日</p></td>
 <td><p>YAMAHA Studio Live Listening Session #6 </p></td>
 <td><p>Tone Studio</p></td>
 <td><p>Special Guest Vocal，與JANE BAND合作<br />
-下午3點開始[168]</p></td>
+下午3點開始[169]</p></td>
 </tr>
 <tr class="even">
 <td><p>10月13日</p></td>
 <td><p>Sunset River Festa </p></td>
 <td><p>京仁Ara運河始川江邊</p></td>
 <td><p>晚霞Stage<br />
-晚上7點開始[169]</p></td>
+晚上7點開始[170]</p></td>
 </tr>
 <tr class="odd">
 <td><p>10月20日</p></td>
 <td><p>Grand Mint Festival 2018 </p></td>
 <td><p>TSINGTAO LOVING FOREST GARDEN<br />
 (88號水邊舞臺)</p></td>
-<td><p>下午3點30分~4點10分[170][171] [172][173]</p></td>
+<td><p>下午3點30分~4點10分[171][172] [173][174]</p></td>
 </tr>
 <tr class="even">
 <td><p>11月23日</p></td>
 <td><p>第18屆昌寧郡青少年慶典 </p></td>
 <td><p>昌寧郡民體育館</p></td>
-<td><p>[174][175]</p></td>
+<td><p>[175][176]</p></td>
 </tr>
 <tr class="odd">
 <td><p>12月15日</p></td>
 <td><p>ONSTAGEX 12月公演 DIGGING CLUB SEOUL </p></td>
 <td><p>DDP 設計2館</p></td>
-<td><p>晚上5點~9點[176][177]</p></td>
+<td><p>晚上5點~9點[177][178]</p></td>
 </tr>
 <tr class="even">
 <td><p>12月21日</p></td>
@@ -1605,30 +1611,30 @@ Stella Jang (韓語：스텔라장，1991年11月18日－)\[1\]，本名蔣星�
 &lt;YOLO (YOU ONLY LOVE ONCE)&gt; </p></td>
 <td><p>HanaTour V Hall</p></td>
 <td><p>特別嘉賓<br />
-晚上8點開始[178][179]</p></td>
+晚上8點開始[179][180]</p></td>
 </tr>
 <tr class="odd">
 <td><p>12月27日</p></td>
 <td><p>INDIE NURI 8 <Stella Jang> </p></td>
 <td><p>金海文化殿堂 Nuri Hall</p></td>
-<td><p>晚上7點30分開始[180]</p></td>
+<td><p>晚上7點30分開始[181]</p></td>
 </tr>
 <tr class="even">
 <td><p>12月28日</p></td>
 <td><p>束草文化演唱會 "束草啊 玩吧" </p></td>
 <td><p>束草文化藝術會館大禮堂</p></td>
-<td><p>晚上7點30分開始[181]</p></td>
+<td><p>晚上7點30分開始[182]</p></td>
 </tr>
 <tr class="odd">
 <td><p>12月29日</p></td>
 <td><p>2018 Soundberry Theater -  ＆ Stella Jang </p></td>
 <td><p>誠信女子大學雲亭校區大禮堂</p></td>
-<td><p>下午3點開始[182][183]</p></td>
+<td><p>下午3點開始[183][184]</p></td>
 </tr>
 <tr class="even">
 <td><p>2018 Soundberry Theater - ADOY ＆ Stella Jang </p></td>
 <td><p>誠信女子大學雲亭校區大禮堂</p></td>
-<td><p>晚上7點開始[184][185]</p></td>
+<td><p>晚上7點開始[185][186]</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -1648,90 +1654,114 @@ Stella Jang (韓語：스텔라장，1991年11月18日－)\[1\]，本名蔣星�
 <td><p>1月13日</p></td>
 <td><p>Times Square 文化公演 </p></td>
 <td><p>永登浦時代廣場</p></td>
-<td><p>下午5點開始[186]</p></td>
+<td><p>下午5點開始[187]</p></td>
 </tr>
 <tr class="even">
 <td><p>4月6日</p></td>
 <td><p>2019 LOVESOME FESTIVAL </p></td>
 <td><p>延世大學露天劇場</p></td>
 <td><p>下午3點20分~4點<br />
-同時參與下午4點40分~5點40分的SIGN EVENT[187][188] [189]</p></td>
+同時參與下午4點40分~5點40分的SIGN EVENT[188][189] [190]</p></td>
 </tr>
 <tr class="odd">
 <td><p>4月7日</p></td>
 <td><p>2019 大清湖大德音樂節 </p></td>
 <td><p>大清公園</p></td>
-<td><p>下午5點~6點 [190][191][192]</p></td>
+<td><p>下午5點~6點 [191][192][193]</p></td>
 </tr>
 <tr class="even">
 <td><p>4月27日</p></td>
 <td><p>2019 李承煥 FESTIVAL </p></td>
 <td><p>倉洞市立運動場</p></td>
-<td><p>下午2點05分~2點40分[193][194]</p></td>
+<td><p>下午2點05分~2點40分[194][195]</p></td>
 </tr>
 <tr class="odd">
 <td><p>5月11日</p></td>
 <td><p>Beautiful Mint Life 2019 </p></td>
 <td><p>奧林匹克公園</p></td>
 <td><p>Mint Breeze Stage<br />
-下午3點10分~4點[195][196][197]</p></td>
+下午3點10分~4點[196][197][198]</p></td>
 </tr>
 <tr class="even">
 <td><p>5月18日</p></td>
 <td><p>2019 YAMAHA FESTIVAL </p></td>
 <td><p>三千浦大橋公園</p></td>
-<td><p>晚上5點~6點30分[198][199]</p></td>
+<td><p>晚上5點~6點30分[199][200]</p></td>
 </tr>
 <tr class="odd">
 <td><p>5月25日</p></td>
 <td><p>第23屆安陽市青少年慶典 </p></td>
 <td><p>坪村中央公園主舞臺</p></td>
-<td><p>下午2點~8點30分[200][201]</p></td>
+<td><p>下午2點~8點30分[201][202]</p></td>
 </tr>
 <tr class="even">
 <td><p>6月1日–2日</p></td>
 <td><p>2019 Rainbow &amp; Music Festival </p></td>
 <td><p>京畿道加平郡鱉島</p></td>
 <td><p>FOREST STAGE<br />
-下午3點~3點30分[202][203][204]</p></td>
+下午3點~3點30分[203][204][205]</p></td>
 </tr>
 <tr class="odd">
 <td><p>6月9日</p></td>
 <td><p>2019 DMZ Peace Train Music Festival </p></td>
 <td><p>江原道 鐵原孤石亭</p></td>
 <td><p>PLAY STAGE<br />
-下午6點10分~6點40分[205][206][207][208][209]</p></td>
+下午6點10分~6點40分[206][207][208][209][210]</p></td>
 </tr>
 <tr class="even">
 <td><p>6月14日</p></td>
 <td><p>2019 桑達公園夜間演唱會 - 濟州 </p></td>
 <td><p>桑達公園</p></td>
-<td><p>Thank you for the music主題[210]</p></td>
+<td><p>Thank you for the music主題[211]</p></td>
 </tr>
 <tr class="odd">
 <td><p>7月2日</p></td>
 <td><p>2019 Matinee Concert<br />
 <PUDDITORIUM的Cinema Brunch Season2> </p></td>
 <td><p>電影殿堂天空劇場</p></td>
-<td><p>[211]</p></td>
+<td><p>[212]</p></td>
 </tr>
 <tr class="even">
 <td><p>7月6日–7日</p></td>
 <td><p>2019 Uuban Music Festival </p></td>
 <td><p>世宗大學Convention Center及大洋Hall</p></td>
-<td><p>[212][213][214][215]</p></td>
+<td><p>[213][214][215][216]</p></td>
 </tr>
 <tr class="odd">
-<td><p>7月20日–21日</p></td>
-<td><p>GREEN PLUGGED DONGHAE 2019 </p></td>
-<td><p>東海 望祥海水浴場</p></td>
-<td><p>[216][217]</p></td>
+<td><p>7月14日</p></td>
+<td><p>2019 光州SoundPark Festival </p></td>
+<td><p>5.18民主廣場</p></td>
+<td></td>
 </tr>
 <tr class="even">
+<td><p>7月21日</p></td>
+<td><p>GREEN PLUGGED DONGHAE 2019 </p></td>
+<td><p>東海 望祥海水浴場</p></td>
+<td><p>[217][218]</p></td>
+</tr>
+<tr class="odd">
+<td><p>7月24日</p></td>
+<td><p>2019 蔚山Summer Festival </p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>9月21日</p></td>
+<td><p>2019 始興市梨花慶典 </p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>9月28日</p></td>
-<td><p>2019昌原文化FESTA </p></td>
+<td><p>2019 昌原文化FESTA </p></td>
 <td><p>城山藝術廳</p></td>
-<td><p>[218][219][220]</p></td>
+<td><p>[219][220][221]</p></td>
+</tr>
+<tr class="even">
+<td><p>9月29日</p></td>
+<td><p>2019 VOYAGE to Jarasum </p></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -1981,3 +2011,4 @@ Stella Jang (韓語：스텔라장，1991年11月18日－)\[1\]，本名蔣星�
 218.
 219.
 220.
+221.

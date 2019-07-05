@@ -237,7 +237,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/申柱煥" title="wikilink">申柱煥</a></p></td>
+<td><p><a href="../Page/申柱煥.md" title="wikilink">申柱煥</a></p></td>
 <td><p>金海日</p></td>
 <td><p>建宇的秘書</p></td>
 <td></td>

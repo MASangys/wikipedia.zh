@@ -18,32 +18,26 @@ E\&M簽訂合約成為合作夥伴。
 <tr class="even">
 <td><p>2014年</p></td>
 <td><p>朴允夏</p></td>
-<td><p>女</p></td>
+<td><p>rowspan="2| 女</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>rowspan="2|2016年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金元植" title="wikilink">Ravi</a></p></td>
-<td><p>男</p></td>
-<td><p><a href="../Page/VIXX.md" title="wikilink">VIXX</a></p></td>
-</tr>
-<tr class="even">
+<td><p>rowspan="1|2016年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/金世正" title="wikilink">金世正</a></p></td>
-<td><p>女</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/gugudan" title="wikilink">gugudan</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2018年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/鄭澤運" title="wikilink">Leo</a></p></td>
-<td><p>男</p></td>
+<td><p>rowspan="2|男</p></td>
 <td><p><a href="../Page/VIXX.md" title="wikilink">VIXX</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2019年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/韓相爀" title="wikilink">Hyuk</a></p></td>
-<td><p>男</p></td>
 <td><p><a href="../Page/VIXX.md" title="wikilink">VIXX</a></p></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -67,7 +61,7 @@ E\&M簽訂合約成為合作夥伴。
 <td><p><a href="../Page/VIXX.md" title="wikilink">VIXX</a></p></td>
 <td><p>男</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/車學沇" title="wikilink">N</a>、<a href="https://zh.wikipedia.org/wiki/鄭澤運" title="wikilink">Leo</a>、<a href="https://zh.wikipedia.org/wiki/李宰煥" title="wikilink">Ken</a><br />
-<a href="https://zh.wikipedia.org/wiki/金元植" title="wikilink">Ravi</a>、<a href="../Page/李弘彬.md" title="wikilink">弘彬</a>、<a href="https://zh.wikipedia.org/wiki/韓相爀" title="wikilink">爀</a></p></td>
+<a href="../Page/金元植.md" title="wikilink">Ravi</a>、<a href="../Page/李弘彬.md" title="wikilink">弘彬</a>、<a href="https://zh.wikipedia.org/wiki/韓相爀" title="wikilink">爀</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/車學沇" title="wikilink">N</a></p></td>
 <td><p>活動中</p></td>
 <td><p>ST★RLIGHT</p></td>
@@ -104,7 +98,7 @@ E\&M簽訂合約成為合作夥伴。
 |            |                                                                           |    |                                                                                                                                      |                                                     |     |                                                             |                 |             |
 | ---------- | ------------------------------------------------------------------------- | -- | ------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------- | --- | ----------------------------------------------------------- | --------------- | ----------- |
 | 出道日期       | 組合名稱                                                                      | 性別 | 成員                                                                                                                                   | 隊長                                                  | 狀況  | 所屬團體                                                        | 官方粉絲名           | 官方應援物       |
-| 2015年8月7日  | [VIXX LR](../Page/VIXX_LR.md "wikilink")                                  | 男  | [Leo](https://zh.wikipedia.org/wiki/鄭澤運 "wikilink")、[Ravi](https://zh.wikipedia.org/wiki/金元植 "wikilink")                             | [Leo](https://zh.wikipedia.org/wiki/鄭澤運 "wikilink") | 活動中 | [VIXX](../Page/VIXX.md "wikilink")                          | ST★RLIGHT       | 星光棒手燈、應援毛巾  |
+| 2015年8月7日  | [VIXX LR](../Page/VIXX_LR.md "wikilink")                                  | 男  | [Leo](https://zh.wikipedia.org/wiki/鄭澤運 "wikilink")、[Ravi](../Page/金元植.md "wikilink")                                                | [Leo](https://zh.wikipedia.org/wiki/鄭澤運 "wikilink") | 活動中 | [VIXX](../Page/VIXX.md "wikilink")                          | ST★RLIGHT       | 星光棒手燈、應援毛巾  |
 | 2017年8月10日 | [gugudan OGUOGU](https://zh.wikipedia.org/wiki/gugudan_OGUOGU "wikilink") | 女  | [美娜](https://zh.wikipedia.org/wiki/康美娜 "wikilink")、[慧妍](https://zh.wikipedia.org/wiki/趙慧妍 "wikilink")                                | [美娜](https://zh.wikipedia.org/wiki/康美娜 "wikilink")  | 解散  | [gugudan](https://zh.wikipedia.org/wiki/gugudan "wikilink") | 단짝（Dear Friend） | rowspan="2" |
 | 2018年7月10日 | [gugudan SEMINA](https://zh.wikipedia.org/wiki/gugudan_SEMINA "wikilink") | 女  | [娜英](../Page/娜英.md "wikilink")、[世正](https://zh.wikipedia.org/wiki/金世正 "wikilink")、[美娜](https://zh.wikipedia.org/wiki/康美娜 "wikilink") | [娜英](../Page/娜英.md "wikilink")                      | 活動中 |                                                             |                 |             |
 
@@ -160,6 +154,7 @@ E\&M簽訂合約成為合作夥伴。
   - [高允](../Page/高允_\(演員\).md "wikilink")
   - [徐仁國](../Page/徐仁國.md "wikilink")
   - [成始璄](../Page/成始璄.md "wikilink")
+  - [Ravi](../Page/金元植.md "wikilink")
 
 ## 練習生
 

@@ -38,6 +38,7 @@ ID**\[1\]\[2\]
 
 [Category:認證方法](https://zh.wikipedia.org/wiki/Category:認證方法 "wikilink")
 [Category:IOS](https://zh.wikipedia.org/wiki/Category:IOS "wikilink")
+[Category:指纹](https://zh.wikipedia.org/wiki/Category:指纹 "wikilink")
 
 1.  <http://www.sohu.com/a/201753489_114760>
 2.  <https://www.hksilicon.com/articles/1464410>

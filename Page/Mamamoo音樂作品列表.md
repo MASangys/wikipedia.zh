@@ -732,7 +732,7 @@
 <td><ul>
 <li>韓國：</li>
 </ul></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/tvN" title="wikilink">tvN</a>《<a href="https://zh.wikipedia.org/wiki/請輸入檢索詞：WWW" title="wikilink">請輸入檢索詞：WWW</a>》OST</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/tvN" title="wikilink">tvN</a>《<a href="../Page/請輸入檢索詞WWW.md" title="wikilink">請輸入檢索詞WWW</a>》OST</p></td>
 </tr>
 <tr class="even">
 <td><p><small>"—" 表示該專輯/單曲未有在榜上排名或未有資料或沒有在當地發行</small></p></td>
@@ -937,6 +937,7 @@
 | Egotistic                                                                                                                                         | \[53\]                                   |                     |                          |
 | 하늘하늘 (청순)                                                                                                                                         | \[54\]                                   |                     |                          |
 | Wind flower                                                                                                                                       | \[55\]                                   |                     |                          |
+| 2019年                                                                                                                                             | 고고베베(gogobebe)                           | {{tsl|en|Zanybros   | Zanybros}}               |
 |                                                                                                                                                   |                                          |                     |                          |
 
 ## 外部連結

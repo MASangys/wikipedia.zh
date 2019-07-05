@@ -322,7 +322,7 @@ local list = {
 `   { 'Mike8411251995', 205 },`
 `   { 'Mikepanhu', 13 },`
 `   { 'Millionhere', 1 },   `
-`   { 'Milkypine', 60 },`
+`   { 'Milkypine', 65 },`
 `   { 'Milopo23', 2 },`
 `   { 'Milotic', 1 },`
 `   { 'Minbean', 32 },`
@@ -438,7 +438,7 @@ local list = {
 `   { 'Shyuan09050905', 9 },`
 `   { 'Signmin', 29 },`
 `   { 'Siliral', 6 },`
-`   { 'SilverReaper', 171},`
+`   { 'SilverReaper', 179},`
 `   { 'Sinaskn', 28 },`
 `   { 'Sirabyousi', 1 },`
 `   { 'Siuho0514', 1 },`

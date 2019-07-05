@@ -58,7 +58,7 @@ Angels擔任](../Page/Fubon_Angels.md "wikilink")[啦啦隊](../Page/啦啦隊.m
 [Category:世新大學校友](https://zh.wikipedia.org/wiki/Category:世新大學校友 "wikilink")
 [Category:台灣女性模特兒](https://zh.wikipedia.org/wiki/Category:台灣女性模特兒 "wikilink")
 [Category:臺灣女舞者](https://zh.wikipedia.org/wiki/Category:臺灣女舞者 "wikilink")
-[Category:啦啦隊](https://zh.wikipedia.org/wiki/Category:啦啦隊 "wikilink")
+[Category:台灣啦啦隊](https://zh.wikipedia.org/wiki/Category:台灣啦啦隊 "wikilink")
 [Category:李姓](https://zh.wikipedia.org/wiki/Category:李姓 "wikilink")
 
 1.  [從LamiGirls到富邦天使　高人氣女神Amis卸啦啦隊身份](https://sports.ettoday.net/news/1389453)，ETtoday運動雲

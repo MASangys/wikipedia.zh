@@ -456,7 +456,7 @@ One](../Page/Square_One_\(BLACKPINK單曲\).md "wikilink")》在2016年8月8日�
 <td><p>245</p></td>
 </tr>
 <tr class="even">
-<td></td>
+<td><p><a href="../Page/Forever_Young_(BLACKPINK歌曲).md" title="wikilink">Forever Young</a></p></td>
 <td><p>2018</p></td>
 <td><p>2</p></td>
 <td><p>2</p></td>
@@ -477,7 +477,7 @@ One](../Page/Square_One_\(BLACKPINK單曲\).md "wikilink")》在2016年8月8日�
 <td><p>—</p></td>
 </tr>
 <tr class="odd">
-<td></td>
+<td><p><a href="../Page/Don&#39;t_Know_What_to_Do.md" title="wikilink">Don't Know What to Do</a></p></td>
 <td><p>2019</p></td>
 <td><p>38</p></td>
 <td><p>9</p></td>
@@ -705,31 +705,10 @@ One](../Page/Square_One_\(BLACKPINK單曲\).md "wikilink")》在2016年8月8日�
 
 ## 外部連結
 
-  -
+  - [韓國官方網站歷年唱片總覽](http://www.ygfamily.com/artist/Album.asp?LANGDIV=K&ATYPE=2&ARTIDX=70)
 
-  -
+  - [日本官方網站歷年唱片總覽](https://ygex.jp/blackpink/discography/archive.php)
 
-  - [BLACKPINK的官方Cafe](http://cafe.daum.net/BLACKPINK1)
-
-  -
-  -
-  -
-  - [BLACKPINK的V Live頻道](http://www.vlive.tv/channels/F001E5)
-
-  -
-<!-- end list -->
-
-  - ;所屬經紀公司官方網站
-
-<!-- end list -->
-
-  - [YG Entertainment 韓國官方網站](http://www.ygfamily.com/)
-
-  - [YG Entertainment 日本官方網站](http://www.ygfamily.jp/)
-
-  - [YG LIFE 官方部落格](http://www.yg-life.com/)
-
-  -
 [Category:BLACKPINK](https://zh.wikipedia.org/wiki/Category:BLACKPINK "wikilink")
 [Category:韓國音樂作品列表](https://zh.wikipedia.org/wiki/Category:韓國音樂作品列表 "wikilink")
 [Category:流行音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行音樂作品列表 "wikilink")

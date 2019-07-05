@@ -12,7 +12,7 @@ JavaScript，[Python](../Page/Python.md "wikilink")，[PHP](../Page/PHP.md "wiki
 ## 历史
 
 Blockly 的发展始于 2011 年夏天，首次是在 2012 年的 Maker Faire 公开发布。Blockly 最初是为了替代 App
-Inventor 的 OpenBlocks 所设计的。\[2\] Neil Fraser 负责启动这个计画，并且与 Quynh
+Inventor 的 OpenBlocks 所设计的。\[2\] Neil Fraser 负责启动这个计划，并且与 Quynh
 Neutron、Ellen Spertus 以及 Mark Friedman 一同为主要贡献者。
 
 ## 使用者介面

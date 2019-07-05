@@ -67,8 +67,7 @@ Global以](../Page/HMD_Global.md "wikilink")“Nokia”的品牌製造設備。�
   - Nokia 5系列：[Nokia
     5](https://zh.wikipedia.org/wiki/Nokia_5 "wikilink")、[Nokia
     5.1](../Page/Nokia_5.1.md "wikilink")、-{zh-hans:[Nokia
-    X5](https://zh.wikipedia.org/wiki/Nokia_X5_\(2018年\) "wikilink");
-    zh-hant:[Nokia 5.1
+    X5](../Page/Nokia_X5_\(2018年\).md "wikilink"); zh-hant:[Nokia 5.1
     Plus](https://zh.wikipedia.org/wiki/Nokia_5.1_Plus "wikilink");}-
   - Nokia 4系列：[Nokia
     4.2](https://zh.wikipedia.org/wiki/Nokia_4.2 "wikilink")

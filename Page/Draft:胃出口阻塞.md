@@ -5,18 +5,9 @@ obstruction，GOO）是描述[幽门阻塞的情形](https://zh.wikipedia.org/wi
 
 胃出口阻塞的治療會依照病因而不同，若是潰瘍和[幽門螺桿菌有關](../Page/幽門螺桿菌.md "wikilink")，可能會用抗生素進行治療\[2\]，其他治療方式包括[內視鏡治療](../Page/內視鏡.md "wikilink")（例如置入氣球或是來擴張阻塞部位）、其他藥物或是手術等。
 
-## Signs and symptoms
+## 體徵及症狀
 
-The main symptom is vomiting, which typically occurs after meals of
-undigested food, devoid of any bile. A history of previous peptic ulcers
-and loss of weight is not uncommon. In advanced cases, signs to look for
-on physical examination are  and
-[dehydration](../Page/脱水.md "wikilink").  from left to right may be
-present.  is a splash-like sound heard over the stomach in the left
-upper quadrant of the abdomen on shaking the patient, with or without
-the [stethoscope](../Page/聽診器.md "wikilink"). Bowel sound may be
-increased due to excessive peristaltic action of stomach. Fullness in
-left  may also be present.
+胃出口阻塞的主要症狀是嘔吐，一般是在吃完飯，還沒消化時現，嘔吐中沒有膽汁。有時也會有些消化性潰瘍和體重減輕的病史。若是較嚴重的情形，在體檢中會確認是否有及[脱水的症狀](../Page/脱水.md "wikilink")。可能會有從左到右的。在晃動患者時，在胃的左上部可能會有或類似splash的聲音，不論是否用[聽診器都會聽到](../Page/聽診器.md "wikilink")。因為胃部蠕动的增加，腸鳴也可能會增加。左也可能會有緊實感。
 
 ## Causes
 

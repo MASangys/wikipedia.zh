@@ -210,13 +210,13 @@ Gaming的BO3，那场比赛中IG以2-0获胜，之后王思聪便宣告退役。
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>李浩成（이호성）</p></td>
+<td><p>李浩成</p></td>
 <td><p>Duke</p></td>
 <td><p>上单</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>姜承録（강승록）</p></td>
+<td><p>姜承録</p></td>
 <td><p>TheShy</p></td>
 <td><p>上单</p></td>
 <td></td>
@@ -228,30 +228,36 @@ Gaming的BO3，那场比赛中IG以2-0获胜，之后王思聪便宣告退役。
 <td></td>
 </tr>
 <tr class="even">
-<td><p>宋义进（송의진）</p></td>
+<td><p>宋义进</p></td>
 <td><p>Rookie</p></td>
 <td><p>中单</p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>邓杰</p></td>
+<td><p>Forge</p></td>
+<td><p>中单</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>王柳羿</p></td>
 <td><p>Baolan</p></td>
 <td><p>辅助</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>喻文波</p></td>
 <td><p>JackeyLove</p></td>
 <td><p>下路</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>陈龙</p></td>
 <td><p>West</p></td>
 <td><p>下路</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>

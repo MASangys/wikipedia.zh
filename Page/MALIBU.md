@@ -1,5 +1,7 @@
 **MALIBU**是一個[香港](../Page/香港.md "wikilink")[新界](../Page/新界.md "wikilink")[將軍澳東南部的臨海豪華私人屋苑](../Page/將軍澳.md "wikilink")，是港鐵大型臨海住宅區[日出康城第](../Page/日出康城.md "wikilink")5期，亦為[會德豐地產O](../Page/會德豐地產.md "wikilink")'
-East系列首個臨海住宅項目，由[會德豐地產及](../Page/會德豐地產.md "wikilink")[港鐵公司共同發展](https://zh.wikipedia.org/wiki/港鐵公司 "wikilink")，建築師為[呂元祥建築師事務所](../Page/呂元祥建築師事務所.md "wikilink")，承建商為[協興建築](../Page/協興建築.md "wikilink")，將於2020年5月落成及入伙。MALIBU命名源自[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加州海濱滑浪城市](https://zh.wikipedia.org/wiki/加州 "wikilink")[馬利布](https://zh.wikipedia.org/wiki/馬利布 "wikilink")，配合日出康城這個全新海濱住宅區。MALIBU層樓最高達71層(1A、1B座)，落成後將成為新界區第二高的住宅大樓(僅次於日出康城2B期[領峯](https://zh.wikipedia.org/wiki/領峯 "wikilink"))。
+East系列首個臨海住宅項目，由[會德豐地產及](../Page/會德豐地產.md "wikilink")[港鐵公司共同發展](https://zh.wikipedia.org/wiki/港鐵公司 "wikilink")，建築師為[呂元祥建築師事務所](../Page/呂元祥建築師事務所.md "wikilink")，承建商為[協興建築](../Page/協興建築.md "wikilink")，將於2020年5月落成及入伙。MALIBU以The
+Touch of Urban
+Nature為主題，命名源自[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加州海濱滑浪城市](https://zh.wikipedia.org/wiki/加州 "wikilink")[馬利布](https://zh.wikipedia.org/wiki/馬利布 "wikilink")，配合日出康城這個全新海濱住宅區。MALIBU層樓最高達71層(1A、1B座)，落成後將成為新界區第二高的住宅大樓(僅次於日出康城2B期[領峯](https://zh.wikipedia.org/wiki/領峯 "wikilink"))。
 
 MALIBU共提供1,600伙，面積介乎356至1,344平方呎。MALIBU首批單位折實平均呎價14,347元，較2017年10月同區晉海II首批均價14,598元略低約2%。其中有70-72樓頂層連空中平台特色戶以招標推出，實用呎價達26,700元，創[日出康城新高](../Page/日出康城.md "wikilink")。\[1\]項目於2018年3月1日開售，示範單位設於[尖沙咀](../Page/尖沙咀.md "wikilink")[港威大廈一座十樓](../Page/港威大廈.md "wikilink")。
 
@@ -45,6 +47,7 @@ LOHAS上蓋，享有優越臨海地段，能飽覽臨海景致，區內的綠化
   - 日出康城VIIB期：GRAND MONTARA
   - 日出康城IXA期：(未命名)
   - 日出康城IXB期：(未命名)
+  - 日出康城IXC期：(未命名)
 
 ## 鄰近地方
 

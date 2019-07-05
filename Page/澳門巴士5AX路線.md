@@ -15,9 +15,9 @@
 ### 收費
 
   - 全程收費：澳門幣6圓。
-  - 使用澳門通全民卡，全程澳門幣3圓
-  - 使用澳門通學生卡，全程澳門幣2圓
-  - 使用澳門通長者卡及殘疾卡，全程一律免費
+  - 使用澳門通全民卡，全程一律扣減車費4.0圓，餘額由政府支助。
+  - 使用澳門通學生卡，全程一律扣減車費2.0圓，餘額由政府支助。
+  - 使用澳門通長者卡及殘疾卡，全程一律免費，餘額由政府支助。
 
 ### 服務時間及班距
 
@@ -31,28 +31,28 @@
 
 [Macau_bus_route_5AX.jpg](https://zh.wikipedia.org/wiki/File:Macau_bus_route_5AX.jpg "fig:Macau_bus_route_5AX.jpg")
 
-|         |                                                                                                            |
-| :-----: | :--------------------------------------------------------------------------------------------------------: |
-| **5AX** |                                             **旅遊塔** ↺ **華大新村**                                             |
-|   編號    |                                                    循環線                                                     |
-|    1    |                                                  旅遊塔／行車隧道                                                  |
-|    2    |                                     [媽閣總站](../Page/媽閣總站.md "wikilink")                                     |
-|    3    |                                                  河邊新街／凱泉灣                                                  |
-|    4    |                                                  河邊新街／李道巷                                                  |
-|    5    |                        [十六浦](https://zh.wikipedia.org/wiki/十六浦 "wikilink")(改停；火船頭街)                        |
-|    6    |                          [筷子基社屋](https://zh.wikipedia.org/wiki/筷子基社屋 "wikilink")                           |
-|    7    |                                                    台山街市                                                    |
-|    8    |                                                    華大新村                                                    |
-|    9    |                         [提督馬路](https://zh.wikipedia.org/wiki/提督馬路 "wikilink")／雅廉訪                          |
-|   10    | [高士德](https://zh.wikipedia.org/wiki/高士德 "wikilink")／[賈伯樂](https://zh.wikipedia.org/wiki/賈伯樂提督街 "wikilink") |
-|   11    |                           [東方拱門](https://zh.wikipedia.org/wiki/東方拱門 "wikilink")                            |
-|   12    |                                    [治安警察局](../Page/治安警察局.md "wikilink")                                    |
-|   13    |                                   [教育暨青年局](../Page/教育暨青年局.md "wikilink")                                   |
-|   14    |                         中區／[殷皇子馬路](https://zh.wikipedia.org/wiki/殷皇子馬路 "wikilink")                         |
-|   15    |                                              金碧文娛中心(改停；粵通碼頭)                                               |
-|   16    |                           [司打口](https://zh.wikipedia.org/wiki/司打口總站 "wikilink")                            |
-|   17    |                                                  河邊新街／下環                                                   |
-|   18    |                          [澳門旅遊塔](https://zh.wikipedia.org/wiki/澳門旅遊塔 "wikilink")                           |
+|         |                                                                                                                |
+| :-----: | :------------------------------------------------------------------------------------------------------------: |
+| **5AX** |                                               **旅遊塔** ↺ **華大新村**                                               |
+|   編號    |                                                      循環線                                                       |
+|    1    |                                                M182/2 旅遊塔／行車隧道                                                 |
+|    2    |                                    M3/2 [媽閣總站](../Page/媽閣總站.md "wikilink")                                     |
+|    3    |                                                M183/2 河邊新街／凱泉灣                                                 |
+|    4    |                                                M140/2 河邊新街／李道巷                                                 |
+|    5    |                M132/1 [十六浦](https://zh.wikipedia.org/wiki/十六浦 "wikilink")(停用；改停靠**M137/1火船頭街**)                |
+|    6    |                         M108/2 [筷子基社屋](https://zh.wikipedia.org/wiki/筷子基社屋 "wikilink")                         |
+|    7    |                                                   M10/1 台山街市                                                   |
+|    8    |                                                   M284 華大新村                                                    |
+|    9    |                        M16/2 [提督馬路](https://zh.wikipedia.org/wiki/提督馬路 "wikilink")／雅廉訪                         |
+|   10    | M88 [高士德](https://zh.wikipedia.org/wiki/高士德 "wikilink")／[賈伯樂](https://zh.wikipedia.org/wiki/賈伯樂提督街 "wikilink") |
+|   11    |                           M155 [東方拱門](https://zh.wikipedia.org/wiki/東方拱門 "wikilink")                           |
+|   12    |                                  M157/2 [治安警察局](../Page/治安警察局.md "wikilink")                                   |
+|   13    |                      M169 [教育暨青年局](../Page/教育暨青年局.md "wikilink")(停用；改停靠**M173/1約翰四世大馬路**)                      |
+|   14    |                       M171/1 中區／[殷皇子馬路](https://zh.wikipedia.org/wiki/殷皇子馬路 "wikilink")                        |
+|   15    |                                       M142 金碧文娛中心(停靠；改停靠**M136/1粤通碼頭**)                                        |
+|   16    |                          M139/2 [司打口](https://zh.wikipedia.org/wiki/司打口總站 "wikilink")                          |
+|   17    |                                                  M188 河邊新街／下環                                                  |
+|   18    |                          M177 [澳門旅遊塔](https://zh.wikipedia.org/wiki/澳門旅遊塔 "wikilink")                          |
 
 ## 參考資料
 

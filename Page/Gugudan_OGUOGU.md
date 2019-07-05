@@ -9,7 +9,7 @@ CHU》正式出道。
 2017年8月10日，发布单曲《ICE CHU》，并在[M
 Countdown首次亮相](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")。\[2\]
 
-2018年10月25日，專屬公司Jellyfish發布因健康因素退團。\[3\]
+2018年4月8日，專屬公司Jellyfish發布因車禍逝世退團。\[3\]
 
 ## 成员
 

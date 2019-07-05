@@ -1,3 +1,5 @@
+[BOSS_Great_Wall.jpg](https://zh.wikipedia.org/wiki/File:BOSS_Great_Wall.jpg "fig:BOSS_Great_Wall.jpg")
+
 **BOSS長城**（），也可稱為波斯長城或老板長城(暫譯)，簡稱**BGW**，為星系團之間組成的巨牆，迄今宇宙觀測中最為巨大的「非結構」體，2016年3月由西班牙天文物理學研究所的Heidi
 Lietzen，與其團隊成員 E. Tempel，L. J. Liivamägi，A. Montero-Dorta，M. Einasto， A.
 Streblyanska，C. Maraston，J. A. Rubiño-Martín，E.
@@ -15,7 +17,7 @@ Wall為宇宙間由超星系團組成的[星系團複合體](https://zh.wikipedi
 主要由兩道巨大的宇宙長城，分別為186h <small>−1</small>百萬秒差距， 173h <small>−1</small>
 百萬秒差距，中等質量超星系團(64h <small>-1</small>百萬秒差距，91h
 <small>-1</small>百萬秒差距)，以及數個小型超星系團所組成，前者佔有星系總數的百分之70。Heidi
-Lietzen等人的研究發現，BOSS長城比先前發現的宇宙長城有著更複雜的結構，主要為具有數個分開的核心(星系密集處)，以及分散的[超星系團複合體](https://zh.wikipedia.org/wiki/超星系團複合體 "wikilink")，不同於史隆長城，由單一的核心，與數個相互鏈接的超星系團所組成。
+Lietzen等人的研究發現，BOSS長城比先前發現的宇宙長城有著更複雜的結構，主要為具有數個分開的核心(星系密集處)，以及分散的[超星系團複合體](https://zh.wikipedia.org/wiki/超星系團複合體 "wikilink")，不同於[史隆長城](../Page/史隆長城.md "wikilink")(SGW)，由單一的核心，與數個相互鏈接的超星系團所組成。
 
 ## BOSS長城基本資訊
 

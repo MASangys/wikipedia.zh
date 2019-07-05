@@ -3,10 +3,10 @@
   - [瑪利歐賽車7](../Page/瑪利歐賽車7.md "wikilink")（1,752万）\[1\]
   - [神奇寶貝
     X·Y](https://zh.wikipedia.org/wiki/神奇寶貝_X·Y "wikilink")（1,634万）\[2\]
-  - [神奇寶貝
-    太陽·月亮](https://zh.wikipedia.org/wiki/神奇寶貝_太陽·月亮 "wikilink")（1,613万）\[3\]
-  - [神奇寶貝
-    終結紅寶石·初始藍寶石](https://zh.wikipedia.org/wiki/神奇寶貝_終結紅寶石·初始藍寶石 "wikilink")（1,413万）\[4\]
+  - [精靈寶可夢
+    太陽·月亮](https://zh.wikipedia.org/wiki/精靈寶可夢_太陽·月亮 "wikilink")（1,613万）\[3\]
+  - [精靈寶可夢
+    終極紅寶石·始源藍寶石](../Page/精靈寶可夢_終極紅寶石·始源藍寶石.md "wikilink")（1,413万）\[4\]
   - [新超級馬里奧兄弟2](https://zh.wikipedia.org/wiki/新超級馬里奧兄弟2 "wikilink")（1,282万）\[5\]
   - [超級瑪利歐3D樂園](../Page/超級瑪利歐3D樂園.md "wikilink")（1,222万）\[6\]
   - [來吧！動物之森](https://zh.wikipedia.org/wiki/來吧！動物之森 "wikilink")（1,194万）\[7\]

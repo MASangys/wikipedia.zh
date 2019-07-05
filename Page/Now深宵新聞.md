@@ -107,6 +107,7 @@
   - 2019年2月5日：報道農曆新年除夕夜香港的情況（主播：[鄧文瀚](https://zh.wikipedia.org/wiki/鄧文瀚 "wikilink")）
   - 2019年6月10日：直播[2019年6月反對逃犯條例修訂草案遊行於深夜有示威者衝擊立法會的情況](../Page/2019年6月反對逃犯條例修訂草案遊行.md "wikilink")（主播：[曾埸琛](https://zh.wikipedia.org/wiki/曾埸琛 "wikilink")、[黃浩霖](https://zh.wikipedia.org/wiki/黃浩霖 "wikilink")）
   - 2019年6月16日：報道[反對逃犯條例修訂草案遊行結束之後參與者集結於金鐘一帶的情況](../Page/2019年6月反對逃犯條例修訂草案遊行.md "wikilink")（主播：[饒慧珊](https://zh.wikipedia.org/wiki/饒慧珊 "wikilink")，使用細螢幕）
+  - 2019年7月1日：報道示威者[衝擊立法會及警方在立法會一帶清場情況](../Page/香港特別行政區成立二十二周年衝突.md "wikilink")（主播：[李臻](../Page/李臻.md "wikilink")，使用細螢幕）
 
 ## 節目調動（ViuTV）
 
@@ -230,9 +231,9 @@
   - 2016年8月2日（星期二）：由於[颱風妮妲襲港](https://zh.wikipedia.org/wiki/颱風妮妲_\(2016年\) "wikilink")，天文台發出[八號烈風或暴風信號](../Page/八號烈風或暴風信號.md "wikilink")，當日《[Driving
     in Hong
     Kong](../Page/Driving_in_Hong_Kong.md "wikilink")》暫停播映，改為與[now新聞台畫面聯播](https://zh.wikipedia.org/wiki/now新聞台 "wikilink")《Now深宵新聞》。
-  - 2019年6月10日（星期一）：由於當日深夜有示威者於[6月9日反送中遊行後衝擊立法會](../Page/2019年6月反對逃犯條例修訂草案遊行.md "wikilink")，ViuTV改為於00:30-03:00與[Now新聞台聯播](../Page/Now新聞台.md "wikilink")《Now特別新聞報道》（在ViuTV節目表以《新聞報道》名義播出）及於03:00-06:00與[Now新聞台聯播](../Page/Now新聞台.md "wikilink")《深宵新聞》，而ViuTV原定重播的《[玩
-    X 爆泰國](../Page/玩_X_爆泰國.md "wikilink")》、《View》及《輝哥的饌賞》等節目則暫停播映。
-  - 2019年6月16日（星期日）：因應當日有大批市民參與[6月16日反送中遊行](../Page/2019年6月反對逃犯條例修訂草案遊行.md "wikilink")，ViuTV改為於22:30-23:30與[Now新聞台聯播](../Page/Now新聞台.md "wikilink")《Now新聞報道》及於23:30-00:30與[Now新聞台聯播](../Page/Now新聞台.md "wikilink")《Now深宵新聞》（在ViuTV節目表兩者均以《新聞報道》名義播出）。
+  - 2019年6月10日（星期一）：由於當日深夜有示威者於[6月9日反送中遊行後衝擊立法會](../Page/2019年6月反對逃犯條例修訂草案遊行.md "wikilink")，ViuTV改為於00:30-03:00與[Now新聞台聯播](../Page/Now新聞台.md "wikilink")《Now深宵新聞》（ViuTV播出片頭顯示為《now特別新聞報道》，節目表以《新聞報道》名義播出）及於03:00-06:00與[Now新聞台聯播](../Page/Now新聞台.md "wikilink")《深宵新聞》，而ViuTV原定重播的《[玩X爆泰國](https://zh.wikipedia.org/wiki/玩X爆泰國 "wikilink")》、《View》及《輝哥的饌賞》等節目則暫停播映。
+  - 2019年6月16日（星期日）：因應當日有大批市民參與[6月16日反送中遊行](../Page/2019年6月反對逃犯條例修訂草案遊行.md "wikilink")，ViuTV改為於23:30-00:30與[Now新聞台聯播](../Page/Now新聞台.md "wikilink")《Now深宵新聞》（在ViuTV節目表以《新聞報道》名義播出）。
+  - 2019年7月1日至2日（星期一至二）：因應報導7月1日示威者[衝擊立法會消息](../Page/香港特別行政區成立二十二周年衝突.md "wikilink")、隨後的警方清場行動及政府官員會見傳媒，ViuTV改為於7月1日23:00至7月2日01:30、7月2日02:00-03:00及04:00-04:30與[Now新聞台聯播](../Page/Now新聞台.md "wikilink")《Now深宵新聞》（在ViuTV節目表分別以《新聞報道》及《深宵新聞》名義播出，當中02:00一節為ViuTV常規播映時段；而00:00-01:00片頭顯示為《Now特別新聞報道》）。
 
 ## 相關節目
 

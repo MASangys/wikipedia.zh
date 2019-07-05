@@ -1,7 +1,7 @@
-**BLACKPINK**（風格化為**BLΛƆKPIИK**，，）是[YG娛樂於](../Page/YG娛樂.md "wikilink")2016年推出的[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，也是繼2009年[2NE1後該經紀公司時隔](../Page/2NE1.md "wikilink")7年再次推出的女子偶像團體，由[Jisoo](../Page/金智秀_\(歌手\).md "wikilink")、[Jennie](../Page/Jennie_\(韓國歌手\).md "wikilink")、[Rosé與](../Page/Rosé_\(韓國歌手\).md "wikilink")[Lisa共四名成員組成](../Page/Lisa_\(泰國歌手\).md "wikilink")，而她們也在YG娛樂各自經歷了4年到7年的練習生生涯。
+**BLACKPINK**（風格化為**BLΛƆKPIИK**，，）是[YG娛樂於](../Page/YG娛樂.md "wikilink")2016年推出的[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，也是繼2009年[2NE1後該經紀公司時隔](../Page/2NE1.md "wikilink")7年再次推出的女子偶像團體，由[Jisoo](../Page/金智秀_\(歌手\).md "wikilink")、[Jennie](../Page/Jennie_\(韓國歌手\).md "wikilink")、[Rosé與](../Page/Rosé_\(韓國歌手\).md "wikilink")[Lisa共四名成員組成](../Page/Lisa_\(泰國歌手\).md "wikilink")，她們在YG娛樂各自經歷了4年到7年的練習生生涯。
 
 BLACKPINK原定於2012年出道，且最初的女團計劃原定有九人，官方在當時除了預示著即將推出女團外，並陸續釋出練習影像及成員身份，然而到了2014年仍舊尚未出道，直至2016年中旬才正式透過官方公開了成員名單、組合名稱及出道日期。2016年8月8日以單曲專輯《[Square
-One](https://zh.wikipedia.org/wiki/Square_One_\(BLACKPINK單曲\) "wikilink")》雙主打曲《[口哨](https://zh.wikipedia.org/wiki/口哨_\(BLACKPINK歌曲\) "wikilink")》、《[Boombayah](https://zh.wikipedia.org/wiki/Boombayah "wikilink")》正式出道，8月14日登上[SBS](../Page/SBS_\(韓國\).md "wikilink")《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》出道舞台。
+One](../Page/Square_One_\(BLACKPINK單曲\).md "wikilink")》雙主打曲《[口哨](https://zh.wikipedia.org/wiki/口哨_\(BLACKPINK歌曲\) "wikilink")》、《[Boombayah](https://zh.wikipedia.org/wiki/Boombayah "wikilink")》正式出道，8月14日登上[SBS](../Page/SBS_\(韓國\).md "wikilink")《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》出道舞台。
 
 ## 組合資料
 
@@ -85,7 +85,7 @@ Rapstar
 
 [Black_Pink_on_Melon_Music_Awards_2016.jpg](https://zh.wikipedia.org/wiki/File:Black_Pink_on_Melon_Music_Awards_2016.jpg "fig:Black_Pink_on_Melon_Music_Awards_2016.jpg")上表演《Playing
 with Fire》。\]\] 2016年8月8日，BLACKPINK於下午3時舉行出道Showcase並公開首張單曲《[Square
-One](https://zh.wikipedia.org/wiki/Square_One_\(BLACKPINK單曲\) "wikilink")》收錄的《[口哨](https://zh.wikipedia.org/wiki/口哨_\(BLACKPINK歌曲\) "wikilink")》、《[Boombayah](https://zh.wikipedia.org/wiki/Boombayah "wikilink")》音樂錄影帶及拍攝花絮\[49\]，當日晚間8時正式通過各大音源網站公開。發行後，BLACKPINK憑藉此張出道單曲打破多項新人組合紀錄，兩首歌曲在發佈後隨即空降韓國主要音源網站的實時榜第一及第二名的位置\[50\]，其中《口哨》一曲則連續16日佔據八大數位音樂網站音源排行榜冠軍以及同時包攬了六大月榜第一位，並在韓國最具權威的音樂綜合榜單[加翁排行榜](https://zh.wikipedia.org/wiki/加翁排行榜 "wikilink")8月份的[數位單曲](../Page/2016年Gaon單曲冠軍作品列表.md "wikilink")、[數位下載](../Page/2016年Gaon數位下載冠軍作品列表.md "wikilink")、[流媒體](../Page/2016年Gaon流媒體冠軍作品列表.md "wikilink")、移動通信均獲得週榜及月榜一位，海外的部分以《Boombayah》取得了美國告示牌世界單曲榜冠軍。做為新人，BLACKPINK創下了韓國流行音樂數個「最初」及「最短」的紀錄，包括第一組以出道曲在iChart榜單上達成「Perfect
+One](../Page/Square_One_\(BLACKPINK單曲\).md "wikilink")》收錄的《[口哨](https://zh.wikipedia.org/wiki/口哨_\(BLACKPINK歌曲\) "wikilink")》、《[Boombayah](https://zh.wikipedia.org/wiki/Boombayah "wikilink")》音樂錄影帶及拍攝花絮\[49\]，當日晚間8時正式通過各大音源網站公開。發行後，BLACKPINK憑藉此張出道單曲打破多項新人組合紀錄，兩首歌曲在發佈後隨即空降韓國主要音源網站的實時榜第一及第二名的位置\[50\]，其中《口哨》一曲則連續16日佔據八大數位音樂網站音源排行榜冠軍以及同時包攬了六大月榜第一位，並在韓國最具權威的音樂綜合榜單[加翁排行榜](https://zh.wikipedia.org/wiki/加翁排行榜 "wikilink")8月份的[數位單曲](../Page/2016年Gaon單曲冠軍作品列表.md "wikilink")、[數位下載](../Page/2016年Gaon數位下載冠軍作品列表.md "wikilink")、[流媒體](../Page/2016年Gaon流媒體冠軍作品列表.md "wikilink")、移動通信均獲得週榜及月榜一位，海外的部分以《Boombayah》取得了美國告示牌世界單曲榜冠軍。做為新人，BLACKPINK創下了韓國流行音樂數個「最初」及「最短」的紀錄，包括第一組以出道曲在iChart榜單上達成「Perfect
 All-Kill」的組合\[51\]；憑藉《Boombayah》截至目前仍保持著韓國「最快破億的出道曲」及「瀏覽數最多的出道曲」音樂錄影帶記錄\[52\]\[53\]；僅出道14天便贏得了她們在《人氣歌謠》的第一座獎杯\[54\]，並締造了韓國所有團體用時最短登頂美國iTunes排行榜\[55\]\[56\]、告示牌榜單的歌手\[57\]。其亮眼的成績與受到認可的實力，BLACKPINK成為繼WINNER、iKON之後被大眾廣泛譽為「怪物新人」的偶像團體。\[58\]\[59\]
 
 隨著出道大獲成功，BLACKPINK在11月1日攜第二張單曲專輯《[Square
@@ -154,31 +154,31 @@ BLACKPINK在出道初期已有過小成功，在她們的第一張單曲發行�
   -
   -
   -
-</ref>，並獲[韓國《富比士》名人榜評選為](../Page/韩国福布斯名人榜.md "wikilink")2019年最具影響力的公眾人物\[123\]。
+</ref>，期間也獲[韓國《富比士》名人榜評選為](../Page/韩国福布斯名人榜.md "wikilink")2019年最具影響力的公眾人物\[123\]。
 
 團體的成功也不限於韓國，[文化產業振興院在](https://zh.wikipedia.org/wiki/韓國經濟#文化产业 "wikilink")「海外韓流現狀」的調查結果顯示中，BLACKPINK是國際最受歡迎的歌手之一\[124\]，而另一份由美國《[告示牌](../Page/告示牌_\(雜誌\).md "wikilink")》依據25萬張選票並綜合當地和全球各項指標數據所做出的調查報告，BLACKPINK在其分析結果中是全球成長最高的女性\[125\]，反映出她們在其它國家有著高水平的公眾辨識度。此外，在BLACKPINK於《告示牌》的主榜[二百大專輯榜和](../Page/公告牌二百强专辑榜.md "wikilink")[百大單曲榜均成為歷史上排名最高的韓國女團後](../Page/告示牌百强单曲榜.md "wikilink")，《告示牌》發布了一篇題為「應知道的關於BLACKPINK的10個真實」的報導，探討該團體對韓國流行音樂的影響力與重要性，並敬稱她們是「本時代最具影響力的組合之一」\[126\]。而已累積高知名度和識別度的BLACKPINK，進而在2019年成為首組登上《告示牌》雜誌封面人物的女子團體\[127\]，《告示牌》亦開創先例，特別為BLACKPINK推出獨家限量雜誌盒\[128\]。
 
 [190112_BLINK_'Pink_Ocean'_during_Blackpink_in_Your_Area_tour_in_Thailand.jpg](https://zh.wikipedia.org/wiki/File:190112_BLINK_'Pink_Ocean'_during_Blackpink_in_Your_Area_tour_in_Thailand.jpg "fig:190112_BLINK_'Pink_Ocean'_during_Blackpink_in_Your_Area_tour_in_Thailand.jpg")
-BLACKPINK的影響力也延伸至[影音分享網站](https://zh.wikipedia.org/wiki/影音分享網站 "wikilink")、[社群媒體和音樂](https://zh.wikipedia.org/wiki/社群媒體 "wikilink")[串流媒體服務平臺](https://zh.wikipedia.org/wiki/串流媒體 "wikilink")。她們的[YouTube官方頻道擁有超過](../Page/YouTube.md "wikilink")2600萬人訂閱，是YouTube上來自韓國的頻道中[訂閱人數最多的用戶](../Page/在YouTube上訂閱人數最多的用戶列表.md "wikilink")\[129\]，總觀看次數則達到60億\[130\]，兩者均位居全球女團之冠\[131\]\[132\]，《[Ddu-Du
+BLACKPINK的影響力也延伸至[影音分享網站](https://zh.wikipedia.org/wiki/影音分享網站 "wikilink")、[社群媒體和音樂](https://zh.wikipedia.org/wiki/社群媒體 "wikilink")[串流媒體服務平臺](https://zh.wikipedia.org/wiki/串流媒體 "wikilink")。她們的[YouTube官方頻道擁有超過](../Page/YouTube.md "wikilink")2700萬人訂閱，是YouTube上來自韓國的頻道中[訂閱人數最多的用戶](../Page/在YouTube上訂閱人數最多的用戶列表.md "wikilink")\[129\]，總觀看次數則達到60億\[130\]，兩者均位居全球女團之冠\[131\]\[132\]，《[Ddu-Du
 Ddu-Du](https://zh.wikipedia.org/wiki/Ddu-Du_Ddu-Du "wikilink")》和《[Kill
 This
 Love](https://zh.wikipedia.org/wiki/Kill_This_Love_\(歌曲\) "wikilink")》的影片發佈後均一度成為[24小時內觀看次數最多的韓國音樂錄影帶](../Page/發布後24小時內觀看次數最多的網路影片列表.md "wikilink")，其中《Kill
 This
 Love》一度躍升成為全球首日觀看最多的影片並以979,000人次同時在線觀看的峰值創造了史上最大的YouTube首映的歷史記錄，《Ddu-Du
-Ddu-Du》則是現今[觀看次數最多的韓團音樂影片](../Page/观看次数最多的YouTube韩国音乐视频列表.md "wikilink")\[133\]，擁有超過8億觀看次數。[Spotify方面](../Page/Spotify.md "wikilink")，她們在其串流媒體平臺上是訂閱人數和累積播放量最多的韓國女子組合\[134\]，並且擁有四首歌曲同時包攬播放量最多的女團歌曲前四位\[135\]，現時她們的歌曲已有超過10億的點播量\[136\]。BLACKPINK還是[Instagram上擁有最多追隨者的韓國團體](../Page/Instagram.md "wikilink")\[137\]，其帳戶的追隨用戶超過1900萬人\[138\]。
+Ddu-Du》則是現今[觀看次數最多的韓團音樂影片](../Page/观看次数最多的YouTube韩国音乐视频列表.md "wikilink")\[133\]，擁有超過8億觀看次數。[Spotify方面](../Page/Spotify.md "wikilink")，她們在其串流媒體平臺上是訂閱人數和累積播放量最多的韓國女子組合\[134\]，而她們與[杜娃·黎波合作的歌曲](../Page/杜娃·黎波.md "wikilink")《》則成為了韓國藝人在Spotify上流媒播放次數最多的歌曲\[135\]。BLACKPINK還是[Instagram上擁有最多追隨者的韓國團體](../Page/Instagram.md "wikilink")\[136\]，其帳戶的追隨用戶超過1900萬人\[137\]。
 
-出道至今，BLACKPINK在[韓國流行音樂上已經成為一個顯赫的人物](../Page/韓國流行音樂.md "wikilink")，因其對[韓國文化的貢獻](https://zh.wikipedia.org/wiki/韓國文化 "wikilink")，[CNN](https://zh.wikipedia.org/wiki/CNN "wikilink")\[139\]、《[好萊塢報導](https://zh.wikipedia.org/wiki/好萊塢報導 "wikilink")》\[140\]、《[富比士](../Page/福布斯.md "wikilink")》\[141\]、《告示牌》\[142\]等主流媒體公認BLACKPINK在推動[韓流中扮演重要角色](../Page/韓流.md "wikilink")，她們亦被認可是成功帶領K-Pop挺進曾被認為是堅不可催的歐美音樂市場的韓國歌手之一\[143\]，並打破了世人對「能在美國取得成功的K-Pop組合都是男子組合」的[刻板印象](../Page/刻板印象.md "wikilink")\[144\]。鑒於這些成就，BLACKPINK的顯赫聲望令她們獲得「K-Pop女王」的美譽\[145\]\[146\]，並入選《富比士》亞洲30歲以下娛樂&體育領軍人物\[147\]（2019年\[148\]）榜單，成為亞洲第一組入榜的女團。
+出道至今，BLACKPINK在[韓國流行音樂上已經成為一個顯赫的人物](../Page/韓國流行音樂.md "wikilink")，因其對[韓國文化的貢獻](https://zh.wikipedia.org/wiki/韓國文化 "wikilink")，[CNN](https://zh.wikipedia.org/wiki/CNN "wikilink")\[138\]、《[好萊塢報導](https://zh.wikipedia.org/wiki/好萊塢報導 "wikilink")》\[139\]、《[富比士](../Page/福布斯.md "wikilink")》\[140\]、《告示牌》\[141\]等主流媒體公認BLACKPINK在推動[韓流中扮演重要角色](../Page/韓流.md "wikilink")，她們亦被認可是成功帶領K-Pop挺進曾被認為是堅不可催的歐美音樂市場的韓國歌手之一\[142\]，並打破了世人對「能在美國取得成功的K-Pop組合都是男子組合」的[刻板印象](../Page/刻板印象.md "wikilink")\[143\]。鑒於這些成就，BLACKPINK的顯赫聲望令她們獲得「K-Pop女王」的美譽\[144\]\[145\]，並入選《富比士》亞洲30歲以下娛樂&體育領軍人物\[146\]（2019年\[147\]）榜單，成為亞洲第一組入榜的女團。
 
 ## 獎項與榮譽
 
 [180125_서울가요대상_-_블랙핑크.png](https://zh.wikipedia.org/wiki/File:180125_서울가요대상_-_블랙핑크.png "fig:180125_서울가요대상_-_블랙핑크.png")
 BLACKPINK於2016年8月8日正式出道，推出的出道專輯《Square
-One》為[韓國流行音樂書寫了多項紀錄](../Page/韓國流行音樂.md "wikilink")，她們是迄今為止通過出道音樂作品最快登頂美國告示牌榜單的歌手、締造K-Pop最短時間摘得美國iTunes專輯排行榜冠軍的團體，並且成為繼美國女子組合[五佳人後世界上唯二登頂iTunes世界專輯榜的女團](../Page/五佳人.md "wikilink")\[149\]，以及與同經紀公司的G-Dragon是第二個登頂該榜單的韓國歌手，同年11月1日，BLACKPINK趁勝追擊推出第二張單曲《Square
+One》為[韓國流行音樂書寫了多項紀錄](../Page/韓國流行音樂.md "wikilink")，她們是迄今為止通過出道音樂作品最快登頂美國告示牌榜單的歌手、締造K-Pop最短時間摘得美國iTunes專輯排行榜冠軍的團體，並且成為繼美國女子組合[五佳人後世界上唯二登頂iTunes世界專輯榜的女團](../Page/五佳人.md "wikilink")\[148\]，以及與同經紀公司的G-Dragon是第二個登頂該榜單的韓國歌手，同年11月1日，BLACKPINK趁勝追擊推出第二張單曲《Square
 Two》，這張單曲則為韓國樂壇帶來以女團身份最初登上加拿大百強單曲榜的成績，而她們也作為2016年出道的新人，成功包攬韓國大型頒獎典禮的新人獎項，包括在「[甜瓜音樂獎](../Page/甜瓜音樂獎.md "wikilink")」、「[亞洲明星盛典](../Page/亞洲明星盛典.md "wikilink")」、「KpopStarz大賞」、「年度Soompi大獎」、「[金唱片獎](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")」、「[首爾音樂獎](https://zh.wikipedia.org/wiki/首爾音樂獎 "wikilink")」及「[Gaon
 Chart
-K-POP大獎](../Page/Gaon_Chart_K-POP大獎.md "wikilink")」均獲頒新人獎\[150\]\[151\]\[152\]\[153\]\[154\]。2017年發行的第三張單曲《As
+K-POP大獎](../Page/Gaon_Chart_K-POP大獎.md "wikilink")」均獲頒新人獎\[149\]\[150\]\[151\]\[152\]\[153\]。2017年發行的第三張單曲《As
 If It's Your
-Last》為組合進一步提升全球知名度，使BLACKPINK在美國告示牌50強社交榜居於第15位\[155\]，2018年年初則憑藉這首單曲獲頒「第32屆金唱片獎」音源部門的本賞及「第27屆首爾歌謠大賞」本賞\[156\]\[157\]，而至今所發表的音樂作品，讓BLACKPINK在音樂頒獎典禮中共獲頒18座大獎及49項的獎項提名，在韓國音樂放送節目則取得19次的冠軍紀錄。
+Last》為組合進一步提升全球知名度，使BLACKPINK在美國告示牌50強社交榜居於第15位\[154\]，2018年年初則憑藉這首單曲獲頒「第32屆金唱片獎」音源部門的本賞及「第27屆首爾歌謠大賞」本賞\[155\]\[156\]，而至今所發表的音樂作品，讓BLACKPINK在音樂頒獎典禮中共獲頒18座大獎及49項的獎項提名，在韓國音樂放送節目則取得19次的冠軍紀錄。
 
 ## 音樂作品
 
@@ -193,7 +193,7 @@ Last》為組合進一步提升全球知名度，使BLACKPINK在美國告示牌5
 #### 數位單曲
 
   - 2016年《[Square
-    One](https://zh.wikipedia.org/wiki/Square_One_\(BLACKPINK單曲\) "wikilink")》
+    One](../Page/Square_One_\(BLACKPINK單曲\).md "wikilink")》
   - 2016年《[Square
     Two](https://zh.wikipedia.org/wiki/Square_Two "wikilink")》
   - 2017年《[As If It's Your
@@ -252,26 +252,26 @@ Last》為組合進一步提升全球知名度，使BLACKPINK在美國告示牌5
 <td><p>彩妝</p></td>
 <td><p>「Moonshot」</p></td>
 <td><p>rowspan="10" </p></td>
-<td><p>[158]</p></td>
+<td><p>[157]</p></td>
 </tr>
 <tr class="even">
 <td><p>體育用品</p></td>
 <td><p>「<a href="https://zh.wikipedia.org/wiki/銳跑" title="wikilink">Reebok</a>」Reebok Classic系列</p></td>
-<td><p>[159]</p></td>
+<td><p>[158]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>休閒包</p></td>
 <td><p>「St.Scott LONDON」</p></td>
-<td><p>[160]</p></td>
+<td><p>[159]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>俱樂部</p></td>
 <td><p>「Club C Exclusive」</p></td>
-<td><p>[161]</p></td>
+<td><p>[160]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -285,35 +285,35 @@ Last》為組合進一步提升全球知名度，使BLACKPINK在美國告示牌5
 <tr class="even">
 <td><p><a href="../Page/消費電子產品.md" title="wikilink">消費電子產品</a></p></td>
 <td><p>「LG」，型號「<a href="../Page/LG_G6.md" title="wikilink">LG G6</a>」</p></td>
-<td><p>[162]</p></td>
+<td><p>[161]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>飲品</p></td>
 <td><p>「Trevi」</p></td>
-<td><p>[163]</p></td>
+<td><p>[162]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/法国" title="wikilink">法國</a><a href="../Page/奢侈品.md" title="wikilink">奢侈品品牌</a></p></td>
 <td><p>「<a href="../Page/克里斯汀·迪奧_(品牌).md" title="wikilink">Dior</a>」，彩妝系列「Rogue Dior Liquid」</p></td>
-<td><p>[164]</p></td>
+<td><p>[163]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>體育用品</p></td>
 <td><p>「<a href="../Page/耐克.md" title="wikilink">Nike</a>」</p></td>
-<td><p>[165]</p></td>
+<td><p>[164]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2018年</p></td>
 <td><p>「<a href="../Page/PUMA.md" title="wikilink">PUMA</a>」</p></td>
-<td><p>[166]</p></td>
+<td><p>[165]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -321,26 +321,26 @@ Last》為組合進一步提升全球知名度，使BLACKPINK在美國告示牌5
 <td><p>飲品</p></td>
 <td><p>「<a href="../Page/雪碧.md" title="wikilink">雪碧</a>」</p></td>
 <td><p><a href="../Page/禹棹煥.md" title="wikilink">禹棹煥</a></p></td>
-<td><p>[167]</p></td>
+<td><p>[166]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>體育用品</p></td>
 <td><p>「<a href="../Page/愛迪達.md" title="wikilink">愛迪達</a>」</p></td>
 <td><p>rowspan="9" </p></td>
-<td><p>[168]</p></td>
+<td><p>[167]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/隱形眼鏡.md" title="wikilink">隱形眼鏡</a></p></td>
 <td><p>「OLENS」</p></td>
-<td><p>[169]</p></td>
+<td><p>[168]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>「CRUUM」</p></td>
-<td><p>[170]</p></td>
+<td><p>[169]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -348,13 +348,13 @@ Last》為組合進一步提升全球知名度，使BLACKPINK在美國告示牌5
 <tr class="odd">
 <td><p><a href="../Page/染髮.md" title="wikilink">染髮劑</a></p></td>
 <td><p>「Hello Bubble」</p></td>
-<td><p>[171]</p></td>
+<td><p>[170]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>「Mise En Scène」</p></td>
-<td><p>[172]</p></td>
+<td><p>[171]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -362,21 +362,21 @@ Last》為組合進一步提升全球知名度，使BLACKPINK在美國告示牌5
 <tr class="odd">
 <td><p>服飾</p></td>
 <td><p>「Guess」</p></td>
-<td><p>[173]</p></td>
+<td><p>[172]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>彩妝</p></td>
 <td><p>「<a href="../Page/資生堂.md" title="wikilink">資生堂</a>」</p></td>
-<td><p>[174]</p></td>
+<td><p>[173]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/電子商務" title="wikilink">電子商務</a></p></td>
 <td><p>「<a href="../Page/蝦皮購物.md" title="wikilink">蝦皮購物</a>」</p></td>
-<td><p>[175]</p></td>
+<td><p>[174]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -384,27 +384,27 @@ Last》為組合進一步提升全球知名度，使BLACKPINK在美國告示牌5
 <td><p>2019年</p></td>
 <td><p>金融</p></td>
 <td><p>「<a href="../Page/友利銀行.md" title="wikilink">友利銀行</a>」</p></td>
-<td><p>[176]</p></td>
+<td><p>[175]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/度假村" title="wikilink">度假村</a></p></td>
 <td><p>仁川永宗島綜合度假村「Paradise City」</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/南柱赫" title="wikilink">南柱赫</a></p></td>
-<td><p>[177]</p></td>
+<td><p>[176]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>消費電子產品</p></td>
 <td><p>「<a href="../Page/三星電子.md" title="wikilink">三星</a>」</p></td>
 <td><p>rowspan="2" </p></td>
-<td><p>[178]</p></td>
+<td><p>[177]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>染髮劑</p></td>
 <td><p>「Likeithair」</p></td>
-<td><p>[179]</p></td>
+<td><p>[178]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -436,7 +436,7 @@ Last》為組合進一步提升全球知名度，使BLACKPINK在美國告示牌5
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>《<a href="https://zh.wikipedia.org/wiki/Square_One_(BLACKPINK單曲)" title="wikilink">Square One</a>》</p></td>
+<td><p>《<a href="../Page/Square_One_(BLACKPINK單曲).md" title="wikilink">Square One</a>》</p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/口哨_(BLACKPINK歌曲)" title="wikilink">口哨</a>》</p></td>
 <td><p><strong>1</strong></p></td>
 </tr>
@@ -812,6 +812,7 @@ Last》為組合進一步提升全球知名度，使BLACKPINK在美國告示牌5
 134.
 
 135.
+
 136.
 
 137.
@@ -829,8 +830,8 @@ Last》為組合進一步提升全球知名度，使BLACKPINK在美國告示牌5
 143.
 
 144.
-
 145.
+
 146.
 
 147.
@@ -838,12 +839,12 @@ Last》為組合進一步提升全球知名度，使BLACKPINK在美國告示牌5
 148.
 
 149.
-
 150.
 151.
 152.
 153.
 154.
+
 155.
 
 156.
@@ -854,10 +855,10 @@ Last》為組合進一步提升全球知名度，使BLACKPINK在美國告示牌5
 
 159.
 
-160.
-
-161.  BLACK PINK x REEBOK
+160.  BLACK PINK x REEBOK
      CLASSIC|deadurl=no|archiveurl=[https://web.archive.org/web/20180331141341/https://www.instagram.com/p/BMaiL4-gLdx/|archivedate=2018-03-31](https://web.archive.org/web/20180331141341/https://www.instagram.com/p/BMaiL4-gLdx/%7Carchivedate=2018-03-31)}}
+
+161.
 
 162.
 
@@ -892,5 +893,3 @@ Last》為組合進一步提升全球知名度，使BLACKPINK在美國告示牌5
 177.
 
 178.
-
-179.

@@ -45,6 +45,7 @@ NOIR》主打歌《GANGSTA》正式出道。成員其中金淵國、柳晧淵、
 <ul>
 <li>發行日期：2018年4月9日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
+<li>銷量：1,533 +[1]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -54,6 +55,7 @@ NOIR》主打歌《GANGSTA》正式出道。成員其中金淵國、柳晧淵、
 <ul>
 <li>發行日期：2018年10月2日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
+<li>銷量：1,226 +[2]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -198,3 +200,6 @@ NOIR》主打歌《GANGSTA》正式出道。成員其中金淵國、柳晧淵、
 [Category:2018年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2018年成立的音樂團體 "wikilink")
 [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
 [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
+
+1.  [2018年GAON 4月專輯榜64位](http://mobile.gaonchart.co.kr/musicAlbum.gaon?nationGbn=T&serviceGbn=&targetTime=04&hitYear=2018&termGbn=month)
+2.  [2018年GAON 10月專輯榜91位](http://mobile.gaonchart.co.kr/musicAlbum.gaon?nationGbn=T&serviceGbn=&targetTime=10&hitYear=2018&termGbn=month)

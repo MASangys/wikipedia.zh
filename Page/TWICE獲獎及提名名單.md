@@ -941,6 +941,34 @@
 </tbody>
 </table>
 
+### [M2 X Genie音樂獎（M2 X Genie Music Awards）](../Page/M2_X_Genie音樂獎.md "wikilink")
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>屆份</p></td>
+<td><p>年份</p></td>
+<td><p>提名項目</p></td>
+<td><p>獎項</p></td>
+<td><p>結果</p></td>
+</tr>
+<tr class="even">
+<td><p>第1届</p></td>
+<td><p>2019年</p></td>
+<td><p>TWICE</p></td>
+<td><p>最佳女團體</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>The Performing Artist Female</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ## 日本音樂頒獎典禮
 
 ### [日本金唱片大獎](../Page/日本金唱片大獎.md "wikilink")

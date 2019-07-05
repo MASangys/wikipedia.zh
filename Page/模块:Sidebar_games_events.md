@@ -13,7 +13,7 @@ function p.sidebar(frame, args)
 `   if not args then`
 `       args = getArgs(frame)`
 `   end`
-`   `
+`       `
 `   local root = mw.html.create()`
 
 `   root = root`
@@ -45,6 +45,7 @@ function p.sidebar(frame, args)
 `       k = '' .. k`
 `       local num = k:match('^event(%d+)$') `
 `           or k:match('^image(%d+)$')`
+`           or k:match('^title(%d+)$')`
 `           or k:match('^type(%d+)[a-e]$')`
 `           or k:match('^event(%d+)%.%d+$')`
 `           or k:match('^results(%d+)%.%d+[a-e]?$')`
@@ -157,6 +158,17 @@ function p.sidebar(frame, args)
 `       local heading = nil`
 `       local event = args['event' .. num]`
 `       local image = args['image' .. num]`
+`       local title = args['title' .. num]`
+`       if title then`
+`           root:tag('tr')`
+`                   :tag('th')`
+`                       :css('padding', '0.1em')`
+`                       :css('background', '#99badd')`
+`                       :css('border-top', '1px solid #f5faff')`
+`                       :attr('colspan', cols)`
+`                       :wikitext(title)`
+`       end`
+`       `
 `       if event and image then`
 `           heading = event .. '`
 `' .. image`
@@ -253,6 +265,7 @@ function p.sidebar(frame, args)
 `           end`
 `       end`
 `   end`
+`       `
 `   if args.below then`
 `       root`
 `           :tag('tr')`
@@ -261,6 +274,20 @@ function p.sidebar(frame, args)
 `                   :attr('colspan', cols)`
 `                   :cssText(args.belowstyle)`
 `                   :wikitext(args.below)`
+`   end`
+
+`   if args.prev or args.next then`
+`       local row = root:tag('tr'):tag('td')`
+`                   :css('border-top', 'solid 1px #deeaf6')`
+`                   :attr('colspan', cols)`
+`                       :tag('div')`
+`                           :css('width', '100%')`
+`       row:tag('div')`
+`           :cssText('float: left; text-align:left;padding-right:0.5em;')`
+`           :wikitext('← '..args.prev)`
+`       row:tag('div')`
+`           :cssText('float: right; text-align:right;padding-left:0.5em;')`
+`           :wikitext(args.next..' →')`
 `   end`
 
 `   local navbarArg = args.navbar or args.tnavbar`
@@ -279,9 +306,12 @@ function p.sidebar(frame, args)
 `                       fontstyle = args.navbarfontstyle or args.tnavbarfontstyle`
 `                   })`
 `   end`
-
+`   `
+`   if mw.title.getCurrentTitle().namespace == 10 and (args.name ~= mw.title.getCurrentTitle().text) and not (mw.title.getCurrentTitle().text:match('Sidebar games events')) then`
+`       root:wikitext("")`
+`   end `
 `   return tostring(root)`
 
-end
+end return p
 
-return p
+[Category:Articles_using_sidebar_games_events_without_correct_name](https://zh.wikipedia.org/wiki/Category:Articles_using_sidebar_games_events_without_correct_name "wikilink")

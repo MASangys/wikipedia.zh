@@ -102,7 +102,6 @@ AIR**》（）是一档在[日本的](../Page/日本.md "wikilink")[谈话类电
 
 ## 参考资料
 
-[Category:日本廣播節目](https://zh.wikipedia.org/wiki/Category:日本廣播節目 "wikilink")
 [Category:2017年日本广播节目](https://zh.wikipedia.org/wiki/Category:2017年日本广播节目 "wikilink")
 [Category:日本放送的广播节目](https://zh.wikipedia.org/wiki/Category:日本放送的广播节目 "wikilink")
 [Category:中居正广所主持电台节目](https://zh.wikipedia.org/wiki/Category:中居正广所主持电台节目 "wikilink")

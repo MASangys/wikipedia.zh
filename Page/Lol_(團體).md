@@ -312,7 +312,7 @@ AVCD-94117</p></td>
 </tr>
 <tr class="odd">
 <td><p>9</p></td>
-<td><p>2019年1月30日</p></td>
+<td><p>2019年3月20日</p></td>
 <td><p><strong>サヨナラの季節/lolli-lolli</strong></p></td>
 <td><p>01 サヨナラの季節<br />
 02 lolli-lolli<br />
@@ -332,6 +332,18 @@ AVCD-94387<br />
 AVCD-94388</p></td>
 <td><p>週間12位<br />
 </p></td>
+</tr>
+<tr class="even">
+<td><p>10</p></td>
+<td><p>2019年7月31日</p></td>
+<td><p>'''brave up</p></td>
+<td><p>feat.DJ KOO'''</p></td>
+<td><p>01 brave up</p></td>
+<td><p>feat. DJ KOO<br />
+02 like that</p></td>
+<td><p><br />
+03 bring back<br />
+04 brave up</p></td>
 </tr>
 </tbody>
 </table>

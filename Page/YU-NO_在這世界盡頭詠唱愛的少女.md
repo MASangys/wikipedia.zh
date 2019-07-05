@@ -73,6 +73,7 @@ Diverge Mapping System）的系統，以輔助了解劇情的分歧和展開。\
   -
     聲：[久川綾](https://zh.wikipedia.org/wiki/久川綾 "wikilink")（SS版）、[園崎未惠](../Page/園崎未惠.md "wikilink")（成人動畫）、[小林優](../Page/小林優.md "wikilink")（重製版/電視動畫）
     境町學園的校醫兼拓也班上的導師。
+    真正身分是別個世界的次元監査官，與同世界的阿貝爾是同事並且已是戀人關係。
   -
     聲：[根谷美智子](../Page/根谷美智子.md "wikilink")（SS版）、[安達茉莉](https://zh.wikipedia.org/wiki/安達茉莉 "wikilink")（成人動畫）、[前田玲奈](../Page/前田玲奈.md "wikilink")（重製版/電視動畫）
     當紅人氣新聞記者[主播](https://zh.wikipedia.org/wiki/主播 "wikilink")，認為在境町的海岸相次出現的神秘落雷是GEO會社的原因，所以一直對身為責任者的亞由美糾纏。
@@ -93,6 +94,9 @@ Diverge Mapping System）的系統，以輔助了解劇情的分歧和展開。\
   -
     聲：[青野武](../Page/青野武.md "wikilink")（SS版）、[上田燿司](../Page/上田燿司.md "wikilink")（重製版/電視動畫）
     興信所〈等同[徵信社](https://zh.wikipedia.org/wiki/徵信社 "wikilink")〉的職員，受幸三委託，調查廣大的行蹤。
+  -
+    聲：KENN（重製版/電視動畫）
+    僅電視動畫登場，與繪里子同樣擔當次元監査官。
 
 ### 異世界篇
 
@@ -102,6 +106,8 @@ Diverge Mapping System）的系統，以輔助了解劇情的分歧和展開。\
     聲：[古山貴實子](../Page/古山貴實子.md "wikilink")（SS版/成人動畫）、[小澤亞李](../Page/小澤亞李.md "wikilink")（重製版/電視動畫）
   -
     聲：[勝生真沙子](../Page/勝生真沙子.md "wikilink")（SS版）、[坂井恭子](https://zh.wikipedia.org/wiki/坂井恭子 "wikilink")（重製版/電視動畫）
+  -
+    僅小說版登場，近衛兵隊長
 
 ## OVA
 
@@ -325,9 +331,20 @@ Diverge Mapping System）的系統，以輔助了解劇情的分歧和展開。\
 <td><p>大知慶一郎</p></td>
 <td><p>出合小都美</p></td>
 <td><p>室谷靖</p></td>
-<td><p>手島典子<br />
-藪田裕希</p></td>
+<td><p>手島典子、藪田裕希</p></td>
 <td><p>大塚舞</p></td>
+</tr>
+<tr class="odd">
+<td><p>第13話</p></td>
+<td></td>
+<td><p>命中注定</p></td>
+<td><p>猪原健太</p></td>
+<td><p>平川哲生</p></td>
+<td><p>西村大樹</p></td>
+<td><p>日高真由美、山﨑正和<br />
+森悦史、川島尚<br />
+村上直紀、佐藤元昭</p></td>
+<td><p>藤崎賢二 &lt;!--|-</p></td>
 </tr>
 </tbody>
 </table>

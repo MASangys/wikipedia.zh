@@ -1,5 +1,5 @@
 《**Hades**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[VIXX的第七張韓語實體](../Page/VIXX.md "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")（不計算特別單曲則為第六張），以[Devine
-Channel作曲](https://zh.wikipedia.org/wiki/Devine_Channel "wikilink")、金美辰（）與[RAVI作詞的](https://zh.wikipedia.org/wiki/金元植 "wikilink")《Fantasy》作主打曲，並在2016年8月12日推出\[1\]。
+Channel作曲](https://zh.wikipedia.org/wiki/Devine_Channel "wikilink")、金美辰（）與[RAVI作詞的](../Page/金元植.md "wikilink")《Fantasy》作主打曲，並在2016年8月12日推出\[1\]。
 
 ## 背景
 

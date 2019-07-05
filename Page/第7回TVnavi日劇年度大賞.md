@@ -77,7 +77,7 @@
 第六位：<a href="https://zh.wikipedia.org/wiki/戶田惠梨香" title="wikilink">戶田惠梨香</a>《<a href="../Page/SPEC～警視廳公安部公安第五課_未詳事件特別對策係事件簿～.md" title="wikilink">SPEC～警視廳公安部公安第五課 未詳事件特別對策係事件簿～</a>》<br />
 第七位：<a href="../Page/鈴木京香.md" title="wikilink">鈴木京香</a>　《》<br />
 第八位：<a href="../Page/吉高由里子.md" title="wikilink">吉高由里子</a>《<a href="https://zh.wikipedia.org/wiki/美丘#電視劇" title="wikilink">美丘</a>》<br />
-第九位：<a href="https://zh.wikipedia.org/wiki/天海祐希" title="wikilink">天海祐希</a>　《<a href="../Page/GOLD.md" title="wikilink">GOLD</a>》<br />
+第九位：<a href="../Page/天海祐希.md" title="wikilink">天海祐希</a>　《<a href="../Page/GOLD.md" title="wikilink">GOLD</a>》<br />
 第十位：<a href="../Page/篠原涼子.md" title="wikilink">篠原涼子</a>　《<a href="../Page/黃金豬～會計檢察廳·特別調查課～.md" title="wikilink">黃金豬～會計檢察廳·特別調查課～</a>》</p></td>
 </tr>
 </tbody>

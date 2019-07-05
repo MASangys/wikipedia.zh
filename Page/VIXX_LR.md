@@ -4,12 +4,12 @@ Liar](../Page/Beautiful_Liar_\(迷你專輯\).md "wikilink")》。
 
 ## 成員列表
 
-| 成員列表                                                 |
-| ---------------------------------------------------- |
-| 藝名                                                   |
-| 原文                                                   |
-| [LEO](https://zh.wikipedia.org/wiki/鄭澤運 "wikilink")  |
-| [RAVI](https://zh.wikipedia.org/wiki/金元植 "wikilink") |
+| 成員列表                                                |
+| --------------------------------------------------- |
+| 藝名                                                  |
+| 原文                                                  |
+| [LEO](https://zh.wikipedia.org/wiki/鄭澤運 "wikilink") |
+| [RAVI](../Page/金元植.md "wikilink")                   |
 
 ## 作品
 

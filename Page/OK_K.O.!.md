@@ -9,7 +9,7 @@ Imaishi绘制](https://zh.wikipedia.org/wiki/Hiroyuki_Imaishi "wikilink")。
 
 ## 故事簡介
 
-未來201X年，主角KO與他最好的朋友和同事阿肌以及帥妮在英雄商店的英雄供應店工作，同時成為世界上最偉大英雄而努力。
+未來201X年，主角K.O.與他最好的朋友和同事阿肌以及帥妮在英雄商店的英雄供應店工作，同時成為世界上最偉大英雄而努力。
 
 ## 角色
 
@@ -22,15 +22,16 @@ Imaishi绘制](https://zh.wikipedia.org/wiki/Hiroyuki_Imaishi "wikilink")。
     英雄等級：0.1 (第一季结尾升級為1级，"Dendy's Power"中升級為3級)
     全名Kaio O. "K.O." Kincaid。故事主角，年約六至十一歲，衣著有點像七、八十年代的動作遊戲主角，於Mr.
     Gar經營的英雄供應店Bodega中工作，母親為Carol。
-    喜歡收集戰力卡(Pow-cards)。
-    和超KO和解後能使用其一部份能力。
+    喜歡收集戰力卡(Pow Cards)。
+    和超K.O.和解後能使用其一部份能力。
 
 **Enid**(帥妮)
 
   -
     配音： Mena Suvari , Ashly Burch
     英雄等級：3
-    紫色頭髮的人類女生，於英雄供應店嘎樂福擔任收銀員。平時使用忍術戰鬥，聲稱自己父母是偉大的忍者。其實父母是狼人和吸血鬼，而本身實際則是女巫。
+    全名Enid
+    Reverie。紫色頭髮的人類女生，於英雄供應店嘎樂福擔任收銀員。平時使用忍術戰鬥，聲稱自己父母是偉大的忍者。其實父母是狼人和吸血鬼，而本身實際則是女巫。
     "Point to the Plaza"中被邀請加入威猛局。
 
 **Rad**(阿肌)
@@ -40,13 +41,13 @@ Imaishi绘制](https://zh.wikipedia.org/wiki/Hiroyuki_Imaishi "wikilink")。
     英雄等級： 2
     全名Radicles "Rad" X.。於英雄供應店嘎樂福工作，專門負上貨的藍色外星人，能力是令物件懸浮。
 
-**Mr. Gar**(嘎Sir)
+**Mr. Gar**(嘎先生)
 
   -
     配音： David Herman
     英雄等級： 11
     全名Eugene "El-Bow" Garcia-Gar。體型强健的中年男性，英雄供應店嘎樂福的老闆，一直暗戀K.O.母親薇柔。
-    在"Legends of Mr. Gar," 中透露他們所在的商場其實是一個小小機械人，變成商場是為了能幫助像嘎Sir的其他英雄。
+    在"Legends of Mr. Gar," 中透露他們所在的商場其實是一個小小機器人，變成商場是為了能幫助像嘎先生的其他英雄。
     曾經與薇柔為英雄團隊威猛局的成員。因為一次行動中只顧向薇柔送出三明治沒做好支援導致雷射砲喪生而一直非常內疚。
     "Point to the Plaza"跟過去威猛局的成員相處不愉快，原因並未提及。
 
@@ -56,7 +57,7 @@ Imaishi绘制](https://zh.wikipedia.org/wiki/Hiroyuki_Imaishi "wikilink")。
     配音： Kate Flannery
     英雄等級： 11
     全名Carol "Silver Spark" Kincaid。K.O.的母親，健身中心Fitness Dojo的老闆。
-    曾經與嘎Sir為英雄團隊威猛局的成員，當時名字為銀燿。
+    曾經與嘎Mr. Gar為英雄團隊威猛局的成員，當時名字為銀燿。
     在S01E40最後面在與不明人士連繫時透露雷射砲可能還存在。
 
 **Dendy**(嬌娃)
@@ -70,60 +71,61 @@ Imaishi绘制](https://zh.wikipedia.org/wiki/Hiroyuki_Imaishi "wikilink")。
     跟K.O.一樣也很喜歡收集戰力卡。
     "Dendy's Power"中透露有彈跳能力，而背包操控則屬於科學裝備。
 
-**超KO**
+**超K.O.**
 
   -
-    KO的黑暗面，戰力極強。
-    由KO的負面思想誕生的「野獸」，在故事中是個較複雜的角色，不能將其認定為反派或正派，是劇情發展的關鍵人物。
-    以KO開朗、樂觀為比較，超KO則較為厭世、黑暗，類似青春期叛逆的少年,在TKO's House裡,可以看得出來他很喜歡搖滾這類的東西。
+    K.O.的黑暗面，戰力極強。
+    由K.O.的負面思想誕生的「野獸」，在故事中是個較複雜的角色，不能將其認定為反派或正派，是劇情發展的關鍵人物。
+    以K.O.開朗、樂觀為比較，超K.O.則較為厭世、黑暗，類似青春期叛逆的少年,在T.K.O.'s
+    House裡,可以看得出來他很喜歡搖滾這類的東西。
 
 ### 反派
 
-**Great Lord Boxman, Sr.**(邪門博士)
+**Lord Boxman, Sr.**(大邪門博士)
 
   -
     配音： [Jim
     Cummings](https://zh.wikipedia.org/wiki/Jim_Cummings "wikilink")
     英雄等級： -10
-    全名Boxy Boxman-Voxy,
-    Sr.。主要反派，英雄供應店嘎樂福對面邪門區的老闆。時常派他的機器人騷擾廣場，在第一季结尾被打上太陽。
+    全名Lad Boxman-Boxy,
+    Sr.-Voxy。主要反派，英雄供應店嘎樂福對面邪門區的老闆。時常派他的機器人騷擾廣場，在第一季结尾被打上太陽。
 
-**Shannon**(香農)
+**Shannon Boxman**(香農·邪門)
 
   -
     配音： [Kari
     Wahlgren](https://zh.wikipedia.org/wiki/Kari_Wahlgren "wikilink")
     英雄等級: -3
-    全名Shannon Boxman-Voxy。一個全身橙色的女性青少年機械人，邪門製造的機械人女兒。
+    全名Shannon Boxman-Voxy。一個全身橙色的女性青少年機器人，邪門製造的機器人女兒。
     最初代替Darrell偽裝哄騙K.O.說闖進邪門區打敗邪門博士可以讓阿肌和帥妮驕傲。
     "Rad Likes Robots"中因為被閃電打中而和阿肌相戀。被閃電打中後眼精睛由紅色轉為紫紅色
     身體可變為網子,雙手可變為圓鋸和錘子，待增
 
-**Darrell**(大目)
+**Darrell Boxman**(大目·邪門)
 
   -
     配音： [Ian
     Jones-Quartey](https://zh.wikipedia.org/wiki/Ian_Jones-Quartey "wikilink")
     英雄等級: -4
-    全名Darrell Boxman-Voxy。一個全身紅色的男性青少年機械人，頭上的綠色透明玻璃中有一顆腦袋,Lord Boxman
-    製造的機械人兒子。要攻擊時可以變大，變形。在第一季结尾背叛Boxman(父親)接手Boxmore,成為公司的新老板。
+    全名Darrell Boxman-Voxy。一個全身紅色的男性青少年機器人，頭上的綠色透明玻璃中有一顆腦袋,Lord Boxman
+    製造的機器人兒子。要攻擊時可以變大，變形。在第一季结尾背叛Boxman(父親)接手Boxmore,成為公司的新老板。
 
-**Raymond**(太子)
+**Raymond Boxman**(太子·邪門)
 
   -
     配音：Robbie Daymond
     英雄等級：-4
-    全名Raymond Boxman-Voxy。一個全身綠色的男性青少年機械人，頭部呈三角型，Lord
+    全名Raymond "Ray" Boxman-Voxy。一個全身綠色的男性青少年機器人于R.A.Y.系列，頭部呈三角型，Lord
     Boxman的機器人兒子，主要使用運動裝備進行戰鬥，非常喜歡玫瑰。與其他兄弟姐妹相比實力較強。
     "Plaza Prom" 中因其性格喜歡炫耀而無法抵抗參加派對。
     儘管他們性格陰險，但他們表現出關心某些人和事。
     如Shannons出現故障並且愛上了Rad，Raymonds表現出自己為Shannons幸福著想。並且儘管遭受了Boxman的虐待，還是對他們的創造者表現出如父子的關心。
 
-**Lord Boxman, Jr.**(小邪門)
+**Lord Boxman, Jr.**(小邪門博士)
 
   -
-    全名Boxy Boxman-Voxy, Jr.。Lord
-    Boxman因為機械人孩子們失敗太多而製作的機械人小兒子，使用了毒液教授給予的邪惡芯片以運作。
+    全名Lad Boxman-Boxy, Jr.。Lord
+    Boxman因為機器人孩子們失敗太多而製作的機器人小兒子，使用了毒液教授給予的邪惡芯片以運作。
 
 ### 其他
 
@@ -133,7 +135,7 @@ Imaishi绘制](https://zh.wikipedia.org/wiki/Hiroyuki_Imaishi "wikilink")。
     配音： Melissa Villaseñor
     英雄等級： 3
     一位綠色頭髮的女拳擊手。曾經擔任K.O.保母。\[4\]
-    "Gar Trains Punching Judy"中提到她相當祟拜嘎Sir，以及他來自神拳家族，全家族都長了一雙強壯拳擊手臂。
+    "Gar Trains Punching Judy"中提到她相當祟拜嘎Mr. Gar，以及他來自神拳家族，全家族都長了一雙強壯拳擊手臂。
 
 **Red Action**(赤红行动)
 
@@ -170,7 +172,7 @@ Imaishi绘制](https://zh.wikipedia.org/wiki/Hiroyuki_Imaishi "wikilink")。
   -
     配音：Ashly Burch
     英雄等級：5
-    一個可愛的女性木乃伊，住在酒窖的後面。
+    全名Mommy Mummy。一個可愛的女性木乃伊，住在酒窖的後面。
     她喜歡住在那裡是因為她可以使用那裡的所有商品，當中衛生紙對她來說就像挑選一件衣服。每個人似乎都忘記了她居住在酒窖。
     她的母親被證明是一個帶尾巴的棕色皮膚女士，暗示她自己的外表其實只是一種裝扮風格。
 

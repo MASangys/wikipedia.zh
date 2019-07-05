@@ -1,24 +1,17 @@
-韓國[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")**[Stray
-Kids](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")**迄今共發行4張[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")。2017年成員透過節目《[Stray
-Kids](https://zh.wikipedia.org/wiki/Stray_Kids_\(電視節目\) "wikilink")》實現全員出道，出道前先行專輯《[Mixtape](../Page/Mixtape_\(Stray_Kids迷你專輯\).md "wikilink")》於2018年1月8日發行，專輯空降韓國[Gaon音樂榜](https://zh.wikipedia.org/wiki/Gaon音樂榜 "wikilink")、美國告示牌世界專輯榜第2名。包含先行專輯在內，Stray
-Kids於2018年共發行了4張迷你專輯。正式出道專輯《[I am
-NOT](../Page/I_am_NOT_\(Stray_Kids迷你專輯\).md "wikilink")》於同年3月26日發行，韓國Gaon音樂榜首週獲第4名，並首次進入[法國專輯排行榜](../Page/法國唱片出版業公會.md "wikilink")。2018年第3張專輯《[I
-am
-WHO](../Page/I_am_WHO_\(Stray_Kids迷你專輯\).md "wikilink")》於8月6日公開，同樣進入臺、韓等地排行榜。2018年10月22日，《[I
-am YOU](../Page/I_am_YOU_\(Stray_Kids迷你專輯\).md "wikilink")》正式發行。
-2019年3月25日發行迷你4輯《[Clé 1 :
-MIROH](../Page/Clé_1_:_MIROH.md "wikilink")》，專輯空降韓國Gaon音樂榜與台灣5大金榜榜首，首週銷量也突破十萬張。
+**Stray
+Kids音樂作品列表**，主要列舉韓國[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")**[Stray
+Kids](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")**歷年發行的各類音樂專輯及歌曲。
 
 ## Stray Kids
 
 ### 迷你專輯
 
-<table style="width:128%;">
+<table style="width:138%;">
 <colgroup>
-<col style="width: 36%" />
+<col style="width: 45%" />
 <col style="width: 10%" />
-<col style="width: 72%" />
 <col style="width: 9%" />
+<col style="width: 72%" />
 </colgroup>
 <thead>
 <tr class="header">
@@ -127,12 +120,12 @@ MIROH](../Page/Clé_1_:_MIROH.md "wikilink")》，專輯空降韓國Gaon音樂�
 
 ### 特別專輯
 
-<table style="width:101%;">
+<table style="width:176%;">
 <colgroup>
 <col style="width: 9%" />
-<col style="width: 10%" />
+<col style="width: 13%" />
+<col style="width: 81%" />
 <col style="width: 72%" />
-<col style="width: 9%" />
 </colgroup>
 <thead>
 <tr class="header">
@@ -145,13 +138,29 @@ MIROH](../Page/Clé_1_:_MIROH.md "wikilink")》，專輯空降韓國Gaon音樂�
 <tbody>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/Gaon_Chart" title="wikilink">韓</a><br />
-[1]</p></td>
+<ref></p>
+<ul>
+<li></li>
+</ul>
+<p></ref></p></td>
 <td><p><a href="../Page/法國唱片出版業公會.md" title="wikilink">法</a><br />
-[2]</p></td>
+<ref></p>
+<ul>
+<li></li>
+</ul>
+<p></ref></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/公信榜" title="wikilink">日</a><br />
-[3]</p></td>
+<ref></p>
+<ul>
+<li></li>
+</ul>
+<p></ref></p></td>
 <td><p>臺<br />
-[4]</p></td>
+<ref></p>
+<ul>
+<li></li>
+</ul>
+<p>可在頁面下方選單，選取年份及週次瀏覽排行資料。 </ref></p></td>
 </tr>
 <tr class="even">
 <td><p>《<a href="../Page/Clé_2_:_Yellow_Wood.md" title="wikilink">Clé 2 : Yellow Wood</a>》</p></td>
@@ -160,8 +169,8 @@ MIROH](../Page/Clé_1_:_MIROH.md "wikilink")》，專輯空降韓國Gaon音樂�
 <li>唱片廠牌：JYP娛樂、<a href="https://zh.wikipedia.org/wiki/iRiver" title="wikilink">Dreamus</a></li>
 <li>唱片格式：CD、下載、串流</li>
 </ul></td>
-<td><p>*</p></td>
-<td><p>*</p></td>
+<td><p>2</p></td>
+<td><p>69</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -189,11 +198,12 @@ MIROH](../Page/Clé_1_:_MIROH.md "wikilink")》，專輯空降韓國Gaon音樂�
 <tbody>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/Gaon_Chart" title="wikilink">韓</a><br />
-[5]</p></td>
+[1]</p></td>
 <td><p><a href="../Page/告示牌榜單.md" title="wikilink">美<br />
 世界</a><br />
 <ref></p>
 <ul>
+<li></li>
 <li></li>
 <li></li>
 <li></li>
@@ -242,9 +252,9 @@ MIROH](../Page/Clé_1_:_MIROH.md "wikilink")》，專輯空降韓國Gaon音樂�
 </tr>
 <tr class="odd">
 <td><p>《부작용》</p></td>
-<td><p>*</p></td>
-<td><p>* </p></td>
-<td><p>*</p></td>
+<td><p>—</p></td>
+<td><p>16 </p></td>
+<td><p>—</p></td>
 <td><p>《<a href="../Page/Clé_2_:_Yellow_Wood.md" title="wikilink">Clé 2 : Yellow Wood</a>》</p></td>
 </tr>
 <tr class="even">
@@ -271,7 +281,3 @@ MIROH](../Page/Clé_1_:_MIROH.md "wikilink")》，專輯空降韓國Gaon音樂�
 [Category:韩国音乐作品列表](https://zh.wikipedia.org/wiki/Category:韩国音乐作品列表 "wikilink")
 
 1.
-2.
-3.
-4.   可在頁面下方選單，選取年份及週次瀏覽排行資料。
-5.

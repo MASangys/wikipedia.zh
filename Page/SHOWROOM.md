@@ -17,7 +17,7 @@
 
   -
 
-  - [SHOWROOM株式會社](http://showroom.co.jp)
+  - [SHOWROOM株式會社](https://showroom.co.jp)
 
 [Category:日本網站](https://zh.wikipedia.org/wiki/Category:日本網站 "wikilink")
 [Category:多語言網站](https://zh.wikipedia.org/wiki/Category:多語言網站 "wikilink")

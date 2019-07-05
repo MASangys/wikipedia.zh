@@ -437,7 +437,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/傑倫·羅斯" title="wikilink">杰倫·羅斯</a></p></td>
+<td><p><a href="../Page/傑倫·羅斯.md" title="wikilink">杰倫·羅斯</a></p></td>
 <td></td>
 <td><p>[71]</p></td>
 </tr>

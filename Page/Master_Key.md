@@ -92,10 +92,10 @@ Key》的固定成員\[5\]。該節目原本預定為12集，后改爲13集並�
 <td><p>10月28日</p></td>
 <td><p><span style="color:orange"><strong>橘隊</strong></span>：<br />
 <a href="../Page/李壽根.md" title="wikilink">李壽根</a>、<a href="../Page/金鍾旼.md" title="wikilink">金鍾旼</a>、<a href="https://zh.wikipedia.org/wiki/燦盛" title="wikilink">燦盛</a> (<a href="https://zh.wikipedia.org/wiki/2PM" title="wikilink">2PM</a>)、<a href="../Page/李伊利雅.md" title="wikilink">李伊利雅</a>、<a href="../Page/李洪基.md" title="wikilink">李洪基</a> (<a href="../Page/FTIsland.md" title="wikilink">FTIsland</a>)、<a href="../Page/P.O.md" title="wikilink">P.O</a> (<a href="../Page/Block_B.md" title="wikilink">Block B</a>) <strong>白隊</strong>：<br />
-<a href="https://zh.wikipedia.org/wiki/全炫茂" title="wikilink">全炫茂</a>、<a href="../Page/劉憲華.md" title="wikilink">HENRY</a>、<a href="../Page/銀赫.md" title="wikilink">銀赫</a> (<a href="../Page/Super_Junior.md" title="wikilink">Super Junior</a>)、<a href="../Page/CNU_(歌手).md" title="wikilink">CNU</a> (<a href="../Page/B1A4.md" title="wikilink">B1A4</a>)、<a href="https://zh.wikipedia.org/wiki/Hani" title="wikilink">Hani</a> (<a href="https://zh.wikipedia.org/wiki/EXID" title="wikilink">EXID</a>)、<a href="https://zh.wikipedia.org/wiki/金玟奎" title="wikilink">玟奎</a> (<a href="../Page/Seventeen_(組合).md" title="wikilink">SEVENTEEN</a>)</p></td>
+<a href="https://zh.wikipedia.org/wiki/全炫茂" title="wikilink">全炫茂</a>、<a href="../Page/劉憲華.md" title="wikilink">HENRY</a>、<a href="../Page/銀赫.md" title="wikilink">銀赫</a> (<a href="../Page/Super_Junior.md" title="wikilink">Super Junior</a>)、<a href="../Page/CNU_(歌手).md" title="wikilink">CNU</a> (<a href="../Page/B1A4.md" title="wikilink">B1A4</a>)、<a href="https://zh.wikipedia.org/wiki/Hani" title="wikilink">Hani</a> (<a href="https://zh.wikipedia.org/wiki/EXID" title="wikilink">EXID</a>)、<a href="../Page/金珉奎.md" title="wikilink">珉奎</a> (<a href="../Page/Seventeen_(組合).md" title="wikilink">SEVENTEEN</a>)</p></td>
 <td><p><small>全炫茂、銀赫</small></p></td>
 <td><p><small><strong>無人</strong>獲勝</small></p></td>
-<td><p>玟奎</p></td>
+<td><p>珉奎</p></td>
 </tr>
 </tbody>
 </table>
@@ -215,7 +215,7 @@ Key》的固定成員\[5\]。該節目原本預定為12集，后改爲13集並�
 <td><p>8</p></td>
 <td><p>12月2日</p></td>
 <td><p><span style="color:#4169E1"><strong>藍隊</strong></span>：<br />
-<a href="../Page/李壽根.md" title="wikilink">李壽根</a>、<a href="../Page/姜丹尼爾.md" title="wikilink">姜丹尼爾</a> (<a href="https://zh.wikipedia.org/wiki/Wanna_One" title="wikilink">Wanna One</a>)、<a href="https://zh.wikipedia.org/wiki/Key_(歌手)" title="wikilink">Key</a> (<a href="../Page/SHINee.md" title="wikilink">SHINee</a>)、<a href="../Page/孝定.md" title="wikilink">孝定</a> (<a href="https://zh.wikipedia.org/wiki/Oh_My_Girl" title="wikilink">Oh My Girl</a>)、<a href="https://zh.wikipedia.org/wiki/金鐘炫" title="wikilink">JR</a> (<a href="../Page/NU&#39;EST.md" title="wikilink">NU'EST</a>)、<a href="https://zh.wikipedia.org/wiki/玟奎" title="wikilink">玟奎</a> (<a href="https://zh.wikipedia.org/wiki/SEVENTEEN" title="wikilink">SEVENTEEN</a>) <strong>白隊</strong>：<br />
+<a href="../Page/李壽根.md" title="wikilink">李壽根</a>、<a href="../Page/姜丹尼爾.md" title="wikilink">姜丹尼爾</a> (<a href="https://zh.wikipedia.org/wiki/Wanna_One" title="wikilink">Wanna One</a>)、<a href="https://zh.wikipedia.org/wiki/Key_(歌手)" title="wikilink">Key</a> (<a href="../Page/SHINee.md" title="wikilink">SHINee</a>)、<a href="../Page/孝定.md" title="wikilink">孝定</a> (<a href="https://zh.wikipedia.org/wiki/Oh_My_Girl" title="wikilink">Oh My Girl</a>)、<a href="https://zh.wikipedia.org/wiki/金鐘炫" title="wikilink">JR</a> (<a href="../Page/NU&#39;EST.md" title="wikilink">NU'EST</a>)、<a href="https://zh.wikipedia.org/wiki/珉奎" title="wikilink">珉奎</a> (<a href="https://zh.wikipedia.org/wiki/SEVENTEEN" title="wikilink">SEVENTEEN</a>) <strong>白隊</strong>：<br />
 <a href="https://zh.wikipedia.org/wiki/全炫茂" title="wikilink">全炫茂</a>、<a href="https://zh.wikipedia.org/wiki/邕聖祐" title="wikilink">邕聖祐</a> (<a href="https://zh.wikipedia.org/wiki/Wanna_One" title="wikilink">Wanna One</a>)、<a href="../Page/金鍾旼.md" title="wikilink">金鍾旼</a>、<a href="../Page/珉豪.md" title="wikilink">珉豪</a> (<a href="../Page/SHINee.md" title="wikilink">SHINee</a>)、<a href="https://zh.wikipedia.org/wiki/珉雅" title="wikilink">珉雅</a> (<a href="../Page/Girl&#39;s_Day.md" title="wikilink">Girl's Day</a>)、<a href="../Page/河成雲.md" title="wikilink">河成雲</a> (<a href="https://zh.wikipedia.org/wiki/Wanna_One" title="wikilink">Wanna One</a>)</p></td>
 <td><p><small>全炫茂</small></p></td>
 <td><p><small>JR</small></p></td>
@@ -299,7 +299,7 @@ Key》的固定成員\[5\]。該節目原本預定為12集，后改爲13集並�
 <tr class="odd">
 <td><p>13</p></td>
 <td><p>1月6日</p></td>
-<td><p><a href="../Page/李壽根.md" title="wikilink">李壽根</a>、<a href="https://zh.wikipedia.org/wiki/全炫茂" title="wikilink">全炫茂</a>、<a href="../Page/金桐俊.md" title="wikilink">金桐俊</a> (<a href="../Page/ZE:A.md" title="wikilink">ZE:A</a>)、<a href="https://zh.wikipedia.org/wiki/金鐘炫" title="wikilink">JR</a>、<a href="../Page/崔珉起.md" title="wikilink">Ren</a> (<a href="../Page/NU&#39;EST.md" title="wikilink">NU'EST</a>)、<a href="https://zh.wikipedia.org/wiki/玟奎" title="wikilink">玟奎</a> (<a href="https://zh.wikipedia.org/wiki/SEVENTEEN" title="wikilink">SEVENTEEN</a>)、<a href="../Page/高聖熙.md" title="wikilink">高聖熙</a></p></td>
+<td><p><a href="../Page/李壽根.md" title="wikilink">李壽根</a>、<a href="https://zh.wikipedia.org/wiki/全炫茂" title="wikilink">全炫茂</a>、<a href="../Page/金桐俊.md" title="wikilink">金桐俊</a> (<a href="../Page/ZE:A.md" title="wikilink">ZE:A</a>)、<a href="https://zh.wikipedia.org/wiki/金鐘炫" title="wikilink">JR</a>、<a href="../Page/崔珉起.md" title="wikilink">Ren</a> (<a href="../Page/NU&#39;EST.md" title="wikilink">NU'EST</a>)、<a href="https://zh.wikipedia.org/wiki/珉奎" title="wikilink">珉奎</a> (<a href="https://zh.wikipedia.org/wiki/SEVENTEEN" title="wikilink">SEVENTEEN</a>)、<a href="../Page/高聖熙.md" title="wikilink">高聖熙</a></p></td>
 <td><p>/</p></td>
 <td><p>/</p></td>
 <td><p>全員獲勝</p></td>

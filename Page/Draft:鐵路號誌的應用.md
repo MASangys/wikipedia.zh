@@ -73,7 +73,7 @@
 
 附屬號誌可以在部分已占用的軌道路段給予行動指令。這類號誌通常被設立在終點站以給予兩列或以上的火車指令進入單一月台。
 
-## Junction signalling
+## 連接點的號誌安排
 
 The driver of a train approaching a diverging junction must be made
 aware of which direction the train will take, so that its speed can be

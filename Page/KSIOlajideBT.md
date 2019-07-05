@@ -98,7 +98,7 @@ Weller），以1分30秒，在第三回合[技術性擊倒對手](https://zh.wik
 
 ## 個人生活
 
-KSI父親的名字是吉德（Jide），母親則名叫恩卡（Yinka），兩人在[倫敦認識後結婚成家](https://zh.wikipedia.org/wiki/倫敦 "wikilink")，他們有時候會跟KSI一起拍影片\[31\]。KSI有一個名叫丹吉（Deji）的弟弟，他也是1位YouTuber，頻道名稱為Deji，截至2016年9月，其頻道已有超過720萬的訂閱者與21億5600萬觀看數\[32\]。KSI的前女友名叫許娜·卡斯伯特（Seana
+KSI父親的名字是吉德（Jide），母親則名叫因卡（Yinka），兩人在[倫敦認識後結婚成家](https://zh.wikipedia.org/wiki/倫敦 "wikilink")，他們有時候會跟KSI一起拍影片\[31\]。KSI有一個名叫丹吉（Deji）的弟弟，他也是1位YouTuber，頻道名稱為Deji，截至2016年9月，其頻道已有超過720萬的訂閱者與21億5600萬觀看數\[32\]。KSI的前女友名叫西娅娜·卡斯伯特（Seana
 Cuthbert），KSI形容她是他人生中看過個性最酷的女生，他們最後因各自理想及忙於事業而分手，但仍是很好的朋友\[33\]。
 
 KSI出生於倫敦，之後與家人一起搬到[沃特福德居住](https://zh.wikipedia.org/wiki/沃特福德 "wikilink")\[34\]，並在當地附近的就讀，他亦在那裡遇到Miniminter\[35\]

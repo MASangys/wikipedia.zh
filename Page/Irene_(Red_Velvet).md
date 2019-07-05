@@ -191,6 +191,13 @@ SR14G</p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>2018年</p></td>
+<td><p>11月18日</p></td>
+<td><p>《<a href="../Page/Running_Man.md" title="wikilink">Running Man</a>》</p></td>
+<td><p><a href="../Page/Joy_(Red_Velvet).md" title="wikilink">Joy</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>2019年</p></td>
 <td><p>2月14日</p></td>
 <td><p>《<a href="../Page/俘獲芳心頻道.md" title="wikilink">俘獲芳心頻道</a>》</p></td>

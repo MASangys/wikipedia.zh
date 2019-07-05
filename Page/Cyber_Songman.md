@@ -46,7 +46,6 @@ SONGMAN专用的用户词典，可制作出自然的美式英语歌声。\[6\]
 ## 参考资料
 
 [Category:Vocaloid4引擎产品](https://zh.wikipedia.org/wiki/Category:Vocaloid4引擎产品 "wikilink")
-[Category:Vocaloid5引擎产品](https://zh.wikipedia.org/wiki/Category:Vocaloid5引擎产品 "wikilink")
 [Category:音樂軟件](https://zh.wikipedia.org/wiki/Category:音樂軟件 "wikilink")
 
 1.

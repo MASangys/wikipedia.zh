@@ -115,7 +115,7 @@ Go\!\!的活動或週邊販售宣傳也曾在本節目進行。
 
   -
 [Category:日本網路廣播節目](https://zh.wikipedia.org/wiki/Category:日本網路廣播節目 "wikilink")
-[Category:日本廣播節目](https://zh.wikipedia.org/wiki/Category:日本廣播節目 "wikilink")
+[Category:文化放送的廣播節目](https://zh.wikipedia.org/wiki/Category:文化放送的廣播節目 "wikilink")
 
 1.  [【新節目的告知】『三上枝織のみかっしょ！』2015年10月5日開始](http://marine-e.seesaa.net/article/426932777.html)
 2.  [マリコレlive2016 公官方網站](http://www.marine-e.net/sp/marikore2016/)

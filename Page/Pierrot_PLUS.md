@@ -164,7 +164,7 @@ PLUS”、“Pierrot+”\[3\]表示。在商標著作上則以“Studio Pierrot+
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/拾又之国" title="wikilink">拾又之国</a></p></td>
+<td><p><a href="../Page/拾又之国.md" title="wikilink">拾又之国</a></p></td>
 <td></td>
 <td><p>Studio Pirrot+名義。</p></td>
 <td></td>

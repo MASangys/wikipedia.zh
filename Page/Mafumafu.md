@@ -22,9 +22,8 @@ Rain的歌唱](../Page/After_the_Rain.md "wikilink")、作詞、作曲、編曲�
 ## 軼事
 
   - 本人提到形象的設計是從電腦的程式錯誤誕生的，只要掃描左邊臉頰上的條碼的話，就會召喚出三次元的まふまふ。
-  - 職業是『魔法師』・出身是『‪從二次元的電腦世界和左邊臉頰的條碼做PC連接來到了三次元』・‪喜好是『睡覺』、『在夜空中騎著掃把四處飛』等發表於自己的推特\[3\]。
-  - Twitter用戶名「uni_mafumafu」中的"uni"是從海產物[海膽的日文來的](../Page/海膽.md "wikilink")\[4\]。
-  - 喜歡貓，但是和[そらる一起去貓咪咖啡廳的時候才知道自己對貓過敏](https://zh.wikipedia.org/wiki/そらる "wikilink")\[5\]。現在養了兩隻貓，貓名分別為いろは和ぽてと。
+  - Twitter用戶名「uni_mafumafu」中的"uni"是從海產物[海膽的日文來的](../Page/海膽.md "wikilink")\[3\]。
+  - 喜歡貓，但是和[そらる一起去貓咪咖啡廳的時候才知道自己對貓過敏](https://zh.wikipedia.org/wiki/そらる "wikilink")\[4\]。現在養了兩隻貓，貓名分別為いろは和ぽてと。
   - 偶而會上傳和歌手[そらる](https://zh.wikipedia.org/wiki/そらる "wikilink")、[うらたぬき](https://zh.wikipedia.org/wiki/浦田涉 "wikilink")、一起玩遊戲的實況影片，四人合稱為「」。
 
 ## 音樂作品
@@ -152,7 +151,7 @@ Rain的歌唱](../Page/After_the_Rain.md "wikilink")、作詞、作曲、編曲�
 <tr class="even">
 <td><p>4th</p></td>
 <td><p>2017年10月18日</p></td>
-<td><p>明日色ワールドエンド[6]</p></td>
+<td><p>明日色ワールドエンド[5]</p></td>
 <td><p><a href="../Page/NBC環球娛樂.md" title="wikilink">NBC環球娛樂</a></p></td>
 <td><p>初回限定盤A（付特典DVD）</p></td>
 <td><p>GNCL-1274</p></td>
@@ -379,7 +378,7 @@ Rain的歌唱](../Page/After_the_Rain.md "wikilink")、作詞、作曲、編曲�
 <tbody>
 <tr class="odd">
 <td><p>2017年1月15日 - 2月5日</p></td>
-<td><p><strong>ひきこもりでもLIVEがしたい！</strong> [7][8]</p></td>
+<td><p><strong>ひきこもりでもLIVEがしたい！</strong> [6][7]</p></td>
 <td><div class="NavFrame collapsed" style="clear:both;border:0;">
 <div class="NavHead">
 <p>全國4處公演</p>
@@ -402,10 +401,14 @@ Rain的歌唱](../Page/After_the_Rain.md "wikilink")、作詞、作曲、編曲�
 
 ### 主辦活動
 
-| 日程                 | 名稱                                            | 公演規模・會場                                               |
-| ------------------ | --------------------------------------------- | ----------------------------------------------------- |
-| 2017年5月7日          | **ひきこもりたちでもフェスがしたい！** \[9\]                   | 埼玉縣 [埼玉超級競技場](../Page/埼玉超級競技場.md "wikilink")          |
-| 2018年3月20日 - 3月21日 | **ひきこもりでもLIVEがしたい！～明日色ワールドエンド発売記念公演～** \[10\] | 千葉縣 [幕張メッセ国際展示場](../Page/幕張展覽館.md "wikilink")9・10・11館 |
+| 日程                 | 名稱                                                                              | 公演規模・會場                                               |
+| ------------------ | ------------------------------------------------------------------------------- | ----------------------------------------------------- |
+| 2017年5月7日          | **ひきこもりたちでもフェスがしたい！** \[8\]                                                     | 埼玉縣 [埼玉超級競技場](../Page/埼玉超級競技場.md "wikilink")          |
+| 2018年3月20日 - 3月21日 | **ひきこもりでもLIVEがしたい！～明日色ワールドエンド発売記念公演～** \[9\]                                    | 千葉縣 [幕張メッセ国際展示場](../Page/幕張展覽館.md "wikilink")9・10・11館 |
+| 2019年6月22日         | **ひきこもりでもLIVEがしたい！〜すーぱーまふまふわーるど2019@メットライフドーム〜[1](https://hikikomoridemo.jp/)** | 埼玉縣 [西武ドーム](../Page/西武巨蛋.md "wikilink")               |
+| 2019年6月23日         | **ひきこもりたちでもフェスがしたい！〜世界征服 I @メットライフドーム〜[2](https://hikikomoridemo.jp/)**         | 埼玉縣 [西武ドーム](../Page/西武巨蛋.md "wikilink")               |
+
+
 
 ### 參演活動
 
@@ -467,6 +470,7 @@ Rain的歌唱](../Page/After_the_Rain.md "wikilink")、作詞、作曲、編曲�
 
 </div>
 
+  -
 ## 演出作品
 
 ### 電視動畫
@@ -501,7 +505,7 @@ Rain的歌唱](../Page/After_the_Rain.md "wikilink")、作詞、作曲、編曲�
 
 ### 小說
 
-在Niconico動畫播放次數總計超越40萬次的人氣歌曲『永眠童話』、『幻想世界與玩具的心臟』的創作者まふまふ的監督下改編的原創小說化。\[11\]
+在Niconico動畫播放次數總計超越40萬次的人氣歌曲『永眠童話』、『幻想世界與玩具的心臟』的創作者まふまふ的監督下改編的原創小說化。\[10\]
 
   - 著『永眠童話 -幻想世界與玩具的心臟-』 KADOKAWA
 
@@ -540,13 +544,12 @@ Rain的歌唱](../Page/After_the_Rain.md "wikilink")、作詞、作曲、編曲�
 1.  [After the
     Rain(そらる×まふまふ)の売上ランキング](http://www.oricon.co.jp/prof/668054/rank/)
 2.
-3.  發表自2014年1月12日的推文
-4.  [發表自2017年8月7日的推文](https://twitter.com/uni_mafumafu/status/894527345045917696)
-5.  [【そらる×まふまふ】ひきこもらないラジオ【第４回】-残酷な現実-](https://www.youtube.com/watch?v=tb9Z8oXZKzg)
-6.  [Album『明日色ワールドエンド』特設網站](http://nbcuni-music.com/mafumafu/)
+3.  [發表自2017年8月7日的推文](https://twitter.com/uni_mafumafu/status/894527345045917696)
+4.  [【そらる×まふまふ】ひきこもらないラジオ【第４回】-残酷な現実-](https://www.youtube.com/watch?v=tb9Z8oXZKzg)
+5.  [Album『明日色ワールドエンド』特設網站](http://nbcuni-music.com/mafumafu/)
+6.
 7.
 8.
 9.
-10.
-11. [小說『永眠童話
+10. [小說『永眠童話
     -幻想世界與玩具的心臟-』特集網站](http://www.enterbrain.co.jp/kcg/special/201504_eimindouwa.html)

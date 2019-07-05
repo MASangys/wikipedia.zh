@@ -1,4 +1,4 @@
-**复兴号CR400BF型电力动车组**，是[中国高速铁路](https://zh.wikipedia.org/wiki/中国高速铁路 "wikilink")[复兴号的车型之一](../Page/复兴号电力动车组.md "wikilink")，是[中国铁路总公司向](../Page/中国铁路总公司.md "wikilink")[中车长春轨道客车及](../Page/中车长春轨道客车.md "wikilink")[中车唐山机车车辆订购的](../Page/中车唐山机车车辆.md "wikilink")[高速铁路](https://zh.wikipedia.org/wiki/中国高速铁路 "wikilink")[动车组](https://zh.wikipedia.org/wiki/电力动车组 "wikilink")\[1\]。中国铁路总公司将所有由[中国中车自主研发](../Page/中国中车.md "wikilink")，完全具有自主知识产权，营运于中国铁路客运专线及高速铁路的电力动车组均命名为「**[复兴号](../Page/复兴号电力动车组.md "wikilink")**」\[2\]。
+**复兴号CR400BF型电力动车组**，是[中国高速铁路](https://zh.wikipedia.org/wiki/中国高速铁路 "wikilink")[复兴号的车型之一](../Page/复兴号电力动车组.md "wikilink")，是[中国国家铁路集团有限公司向](https://zh.wikipedia.org/wiki/中国国家铁路集团有限公司 "wikilink")[中车长春轨道客车及](../Page/中车长春轨道客车.md "wikilink")[中车唐山机车车辆订购的](../Page/中车唐山机车车辆.md "wikilink")[高速铁路](https://zh.wikipedia.org/wiki/中国高速铁路 "wikilink")[动车组](https://zh.wikipedia.org/wiki/电力动车组 "wikilink")\[1\]。中国国家铁路集团有限公司将所有由[中国中车自主研发](../Page/中国中车.md "wikilink")，完全具有自主知识产权，营运于中国铁路客运专线及高速铁路的电力动车组均命名为「**[复兴号](../Page/复兴号电力动车组.md "wikilink")**」\[2\]。
 
 ## 发展历程
 
@@ -128,7 +128,7 @@ Station.jpg|caption4=CR400BF-A-5057担当的[G100次列车于](../Page/沪港高
 
 ### 配属概况
 
-至2019年6月，总共已有184组CR400BF系列动车组出厂。
+至2019年6月，总共已有190组CR400BF系列动车组出厂。
 
   - 车号0XXX，为样版车
   - 车号3XXX，为中车唐山机车车辆生产的列车
@@ -163,9 +163,9 @@ Station.jpg|caption4=CR400BF-A-5057担当的[G100次列车于](../Page/沪港高
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>42</p></td>
+<td><p>40</p></td>
 <td><p>0503、0507、<br />
-5006、5022、5025～5042、5047、5068～5079、5106～5112</p></td>
+5006、5022、5025～5042、5047、5068～5077、5106～5112</p></td>
 <td><p>曹庄</p></td>
 <td><p><a href="../Page/京沪高速铁路.md" title="wikilink">京沪高速铁路</a>、<a href="../Page/京津城际铁路.md" title="wikilink">京津城际铁路</a>、<a href="https://zh.wikipedia.org/wiki/津秦客运专线" title="wikilink">津秦客运专线</a>、<a href="../Page/秦沈客运专线.md" title="wikilink">秦沈客运专线</a>、<a href="../Page/哈大客运专线.md" title="wikilink">哈大高速铁路</a>、<a href="../Page/沈丹客运专线.md" title="wikilink">沈丹客运专线</a></p></td>
 <td><p>0503、0507为样板车。</p></td>
@@ -181,15 +181,15 @@ Station.jpg|caption4=CR400BF-A-5057担当的[G100次列车于](../Page/沪港高
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/上海局集团" title="wikilink">上海局集团</a></p></td>
-<td><p>28</p></td>
-<td><p>5001～5005、5007～5021、5023、5024、5043～5046、5080、5081</p></td>
+<td><p>30</p></td>
+<td><p>5001～5005、5007～5021、5023、5024、5043～5046、5078～5081</p></td>
 <td><p>上海虹桥</p></td>
 <td><p><a href="../Page/京沪高速铁路.md" title="wikilink">京沪高速铁路</a>、<a href="https://zh.wikipedia.org/wiki/京港客运专线" title="wikilink">京广-广深港高铁</a>、<a href="../Page/沪宁城际铁路.md" title="wikilink">沪宁城际铁路</a>、<a href="../Page/宁安客运专线.md" title="wikilink">宁安客运专线</a>、<a href="../Page/宁杭客运专线.md" title="wikilink">宁杭客运专线</a>、<a href="../Page/杭甬客运专线.md" title="wikilink">杭甬客运专线</a>、<a href="../Page/沪昆客运专线.md" title="wikilink">沪昆客运专线</a>、<a href="https://zh.wikipedia.org/wiki/新金温铁路" title="wikilink">新金温铁路</a>、<a href="../Page/合福客运专线.md" title="wikilink">合福客运专线</a>、<a href="../Page/福厦铁路.md" title="wikilink">福厦铁路</a>、<a href="../Page/衡柳铁路.md" title="wikilink">衡柳铁路</a>、<a href="../Page/柳南城际铁路.md" title="wikilink">柳南城际铁路</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>43</p></td>
-<td><p>3001～3023、3034～3049、3073～3076</p></td>
+<td><p>49</p></td>
+<td><p>3001～3023、3034～3049、3059～3061、3063～3065、3073～3076</p></td>
 <td><p>南京南</p></td>
 <td><p><a href="../Page/沪昆客运专线.md" title="wikilink">沪昆客运专线</a>、<a href="../Page/京广高速铁路.md" title="wikilink">京广高速铁路</a>、<a href="../Page/衡柳铁路.md" title="wikilink">衡柳铁路</a>、<a href="../Page/柳南城际铁路.md" title="wikilink">柳南城际铁路</a></p></td>
 <td></td>
@@ -222,16 +222,16 @@ Station.jpg|caption4=CR400BF-A-5057担当的[G100次列车于](../Page/沪港高
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/上海局集团" title="wikilink">上海局集团</a></p></td>
-<td><p>28</p></td>
-<td><p>5048～5066、5088～5096</p></td>
+<td><p>24</p></td>
+<td><p>5048～5054、5057～5066、5090～5096</p></td>
 <td><p>上海虹桥</p></td>
 <td><p><a href="../Page/沪宁城际铁路.md" title="wikilink">沪宁城际铁路</a>、<a href="../Page/宁安客运专线.md" title="wikilink">宁安客运专线</a>、<a href="../Page/京沪高速铁路.md" title="wikilink">京沪高速铁路</a>、<a href="../Page/沪昆客运专线.md" title="wikilink">沪昆客运专线</a>、<a href="https://zh.wikipedia.org/wiki/京港客运专线" title="wikilink">京广-广深港高铁</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>5</p></td>
+<td><p>9</p></td>
 <td><p>3026、3027、3057、3058、<br />
-5067</p></td>
+5055、5056、5067、5088、5089</p></td>
 <td><p>南京南</p></td>
 <td></td>
 <td></td>
@@ -287,14 +287,14 @@ Station.jpg|caption4=CR400BF-A-5057担当的[G100次列车于](../Page/沪港高
 </tr>
 <tr class="even">
 <td><p><a href="../Page/中国铁路沈阳局集团有限公司.md" title="wikilink">沈阳局集团</a></p></td>
-<td><p>30</p></td>
-<td><p>5113～5142</p></td>
+<td><p>3</p></td>
+<td><p>5113～5115</p></td>
 <td><p>瀋陽南</p></td>
 <td><p><a href="../Page/京哈客运专线.md" title="wikilink">京哈客运专线</a></p></td>
-<td><p>5116～5142未正式配屬動車所</p></td>
+<td></td>
 </tr>
 <tr class="odd">
-<td><p>colspan = 6 | <font color=white><strong>CR400BF-E(型号待确认)</strong></font></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -302,6 +302,14 @@ Station.jpg|caption4=CR400BF-A-5057担当的[G100次列车于](../Page/沪港高
 <td></td>
 </tr>
 <tr class="even">
+<td><p>colspan = 6 | <font color=white><strong>CR400BF-E(型号待确认)</strong></font></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td><p>1</p></td>
 <td><p>0306</p></td>

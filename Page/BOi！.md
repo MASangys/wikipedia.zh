@@ -244,7 +244,7 @@
   - [BOi\! Instagram](https://www.instagram.com/boii.official/)
   - [王翔永FACEBOOK](https://www.facebook.com/soarever)
   - [王翔永instagram](https://www.instagram.com/everboii/)
-  - [陳信維FACEBOOK](https://www.facebook.com/chenshinweicurtis)
+  - [陳信維FACEBOOK](https://www.facebook.com/cuzyboiiflysohigh/)
   - [陳信維instagram](https://www.instagram.com/cuzyboii/)
 
 [Category:台灣樂團](https://zh.wikipedia.org/wiki/Category:台灣樂團 "wikilink")

@@ -10,13 +10,13 @@ Japan Debut Special Live in OSAKA》音樂會\[4\]。
 2017年4月，官方宣布成員佑錫因需照顧祖母，決定完成4月的活動後離團\[12\]。
 
 2018年12月23日，團體舉行《CODE-V LAST LIVE～The Final Harmony きみがくれた奇跡～supported
-by WIZY》演唱會後宣布解散\[13\]。
+by WIZY》演唱會後宣布解散\[13\]，惟子團體Niiisan's依然繼續活動\[14\]。
 
 CODE-V的團名分別代表著「Vision,Voice,Vital,Variety,Visual」，粉絲名稱為「MIRACLE」。
 
 ## 成員資料
 
-資料來自日本官方網站\[14\]，成員本名尚未正名，**隊長**以粗體表示。
+資料來自日本官方網站\[15\]，成員本名尚未正名，**隊長**以粗體表示。
 
 |              |
 | ------------ |
@@ -332,6 +332,15 @@ CODE-V的團名分別代表著「Vision,Voice,Vital,Variety,Visual」，粉絲�
 </ul></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>-</p></td>
+<td><p>分隊Niiisan's迷你專輯《<strong>1%</strong>》</p>
+<ul>
+<li>發行日期：2019年8月28日</li>
+<li>語言：日語</li>
+</ul></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -495,3 +504,5 @@ CODE-V的團名分別代表著「Vision,Voice,Vital,Variety,Visual」，粉絲�
 13.
 
 14.
+
+15.

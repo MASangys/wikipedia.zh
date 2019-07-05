@@ -10,6 +10,8 @@ Records旗下公司](../Page/國王唱片.md "wikilink")）發行。
 
 《Shuffle》是奧井她自從1996年發行的個人第8張單曲《[naked
 mind](https://zh.wikipedia.org/wiki/naked_mind "wikilink")》到此作為止，由奧井作詞兼合音，作曲&編曲由長年與奧井合作的[矢吹俊郎負責的最後一張單曲](../Page/矢吹俊郎.md "wikilink")。在那以後，奧井她的單曲都由她自己企劃製作，而矢吹則離開了以往和奧井所屬的唱片公司並自行獨立（如2003年由[聲優](../Page/聲優.md "wikilink")[水樹奈奈主唱的單曲](../Page/水樹奈奈.md "wikilink")《》就不是奧井和矢吹共同作業）。
+此外，還有邀請美國樂團[Mr.Big](../Page/大人物樂團.md "wikilink")
+Bass手[比利·席恩以及多名國外樂手參加錄音](../Page/比利·席恩.md "wikilink")。
 
 還有從此作到2005年的單曲《[TRUST/A confession of
 TOKIO](https://zh.wikipedia.org/wiki/TRUST/A_confession_of_TOKIO "wikilink")》以前，奧井的單曲則是在動畫以外的節目進行主打。

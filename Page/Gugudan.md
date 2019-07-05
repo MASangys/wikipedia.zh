@@ -1,7 +1,8 @@
 **gugudan**（）是[Jellyfish娛樂於](../Page/Jellyfish娛樂.md "wikilink")2016年推出的九人女子團體，出道時成員包括美美、HANA、、
 [娜英](../Page/娜英.md "wikilink")、[世正](../Page/世正.md "wikilink")、[SALLY](https://zh.wikipedia.org/wiki/劉些寧 "wikilink")、、[美娜](../Page/美娜.md "wikilink")、。官方粉絲名為：단짝(摯友)(Dear
 Friend)。 2016年6月28日推出首張迷你專輯《Act.1 The Little
-Mermaid》正式出道。2018年10月25日，經紀公司[Jellyfish娛樂發布](../Page/Jellyfish娛樂.md "wikilink")因健康和學業原因暫時停止活動，但不離開[Jellyfish娛樂](../Page/Jellyfish娛樂.md "wikilink")，故此因gugudan日後將以八人女子團體繼續活動\[1\]。
+Mermaid》正式出道。2018年10月25日，經紀公司[Jellyfish娛樂發布](../Page/Jellyfish娛樂.md "wikilink")
+將退出[gugudan](https://zh.wikipedia.org/wiki/gugudan "wikilink")（但不離開[Jellyfish娛樂](../Page/Jellyfish娛樂.md "wikilink")），將集中學業和健康恢復，故此因gugudan日後將以八人女子團體繼續活動\[1\]。
 
 ## 經歷
 
@@ -53,19 +54,9 @@ Chococo Factory》。
 
 6月28日，在SNS公開新子團SEMINA消息，從符號以及隔天照片可知成員為[金世正](https://zh.wikipedia.org/wiki/金世正 "wikilink")、[康美娜](https://zh.wikipedia.org/wiki/康美娜 "wikilink")、[金娜英](https://zh.wikipedia.org/wiki/金娜英 "wikilink")，並於7月10日正式出道。
 
-10月25日，HYEYEON於官咖公開手寫信，因學業和健康原因退團，日後故此gugudan將以8人體制繼續活動。\[17\]
-
 11月2日，宣佈gugudan將於11月6日攜迷你三輯《Act.5 New Action》，主打歌《NOT THAT TYPE》。
 
 [thumb](https://zh.wikipedia.org/wiki/file:181106_구구단\(gugudan\)_미니앨범_'Act_5_New_Action'_쇼케이스.jpg "wikilink")
-
-### 2019年：一天成員MANDY加入、發佈《NOT THAT TYPE》9人版本
-
-1月，Jellyfish娛樂邀請[MANDY蒞臨面試及成為](../Page/黃智雯.md "wikilink")「一天成員」。為迎接一天成員MANDY，gugudan
-特意重新編排《Not That Type》9人版本。\[18\]\[19\] \[20\]
-
-2月10日，電視播出《NOT THAT TYPE》9人 Perfomance
-Version，該影片於[翡翠台的](../Page/翡翠台.md "wikilink")《[一個因去跳舞](../Page/一個因去跳舞.md "wikilink")》節目中首播亮相。\[21\]節目播出後，MANDY完成其gugudan一天成員活動。
 
 ## 組合資料
 
@@ -76,12 +67,12 @@ Version，該影片於[翡翠台的](../Page/翡翠台.md "wikilink")《[一個�
 
 ### 吉祥物
 
-吉祥物（劇團團長）為擁有一雙長耳和戴著眼鏡的精靈Gyu（뀨）。\[22\]
+吉祥物（劇團團長）為擁有一雙長耳和戴著眼鏡的精靈Gyu（뀨）。\[17\]
 
 ### 粉絲名稱
 
 粉絲名稱是단짝（摯友），這代表著 gugudan和粉絲將會是最好的朋友，而這份友誼亦將會一直持續直到永遠，希望“摯友”们能和
-gugudan一起製造更多美好、愉快的回憶。\[23\]
+gugudan一起製造更多美好、愉快的回憶。\[18\]
 
 ## 成員資料
 
@@ -128,9 +119,6 @@ gugudan一起製造更多美好、愉快的回憶。\[23\]
 <td><p><strong>已退出成員</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/黃智雯.md" title="wikilink">MANDY</a></p></td>
-</tr>
-<tr class="odd">
 <td></td>
 </tr>
 </tbody>
@@ -237,10 +225,10 @@ LineData =
 <ul>
 <li>發行日期：2016年6月28日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
-<li>專輯銷量: 22,217+[24]</li>
+<li>專輯銷量: 22,217+[19]</li>
 </ul></td>
 <td></td>
-<td><p>《<a href="../Page/美人魚_(童話).md" title="wikilink">小魚仙</a>》</p></td>
+<td><p>《<a href="../Page/美人魚_(童話).md" title="wikilink">美人魚</a>》</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>2nd</strong></p></td>
@@ -248,7 +236,7 @@ LineData =
 <ul>
 <li>發行日期：2017年2月27日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
-<li>專輯銷量: 29,113+[25]</li>
+<li>專輯銷量: 29,113+[20]</li>
 </ul></td>
 <td></td>
 <td><p>《<a href="../Page/納西瑟斯.md" title="wikilink">納西瑟斯</a>》</p></td>
@@ -259,10 +247,10 @@ LineData =
 <ul>
 <li>發行日期：2018年11月6日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
-<li>專輯銷量: 9,813+[26]</li>
+<li>專輯銷量: 9,813+[21]</li>
 </ul></td>
 <td></td>
-<td><p>《<a href="../Page/瞞天過海：八面玲瓏.md" title="wikilink">盜海豪情：8美千嬌</a>》</p></td>
+<td><p>《<a href="../Page/瞞天過海：八面玲瓏.md" title="wikilink">瞞天過海：八面玲瓏</a>》</p></td>
 </tr>
 </tbody>
 </table>
@@ -285,7 +273,7 @@ LineData =
 <ul>
 <li>發行日期：2017年11月8日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
-<li>專輯銷量: 20,435+[27]</li>
+<li>專輯銷量: 20,435+[22]</li>
 <li>備注：Soyee未參與回歸但有參與錄音</li>
 </ul></td>
 <td></td>
@@ -325,7 +313,7 @@ LineData =
 <td><p>12月17日</p></td>
 <td><p>數位單曲</p></td>
 <td><p>《PRODUCE 101 - PICK ME》</p></td>
-<td><p>PICK ME[28]</p></td>
+<td><p>PICK ME[23]</p></td>
 <td><p>NAYOUNG、SEJEONG、MINA</p></td>
 <td><p><a href="../Page/PRODUCE_101.md" title="wikilink">PRODUCE 101全體練習生</a></p></td>
 </tr>
@@ -351,7 +339,7 @@ LineData =
 <td><p>11月23日</p></td>
 <td><p>《<a href="../Page/Flower_Way_(金世正單曲).md" title="wikilink">Jelly Box - 꽃길 (Prod. By 지코(ZICO))</a>)》</p></td>
 <td><p>꽃길<br />
-(Flower Way) [29]</p></td>
+(Flower Way) [24]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Zico_(歌手)" title="wikilink">ZICO</a> <small>（作詞曲）</small></p></td>
 <td></td>
 <td></td>
@@ -369,7 +357,7 @@ LineData =
 <tr class="even">
 <td><p>11月30日</p></td>
 <td><p>《<a href="../Page/浪漫醫生金師傅.md" title="wikilink">浪漫醫生金師傅</a> OST Part.2》</p></td>
-<td><p>Forever Love[30]</p></td>
+<td><p>Forever Love[25]</p></td>
 <td><p>HAEBIN</p></td>
 <td></td>
 <td></td>
@@ -389,7 +377,7 @@ LineData =
 <td><p>1月12日</p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/藍色海洋的傳說" title="wikilink">藍色海洋的傳說</a> OST Part.10 》</p></td>
 <td><p>If Only<br />
-(만에 하나)[31]</p></td>
+(만에 하나)[26]</p></td>
 <td><p>SEJEONG</p></td>
 <td></td>
 <td></td>
@@ -407,7 +395,7 @@ LineData =
 <td><p>5月31日</p></td>
 <td><p>《Story About : Some，一個月 Episode 1》</p></td>
 <td><p>사랑일 것 같더라<br />
-（Perhaps Love）[32]</p></td>
+（Perhaps Love）[27]</p></td>
 <td><p>全員</p></td>
 <td></td>
 <td></td>
@@ -416,7 +404,7 @@ LineData =
 <tr class="odd">
 <td><p>6月12日</p></td>
 <td><p>《좋아한다 안 한다》</p></td>
-<td><p>좋아한다 안 한다(Like or Not)[33]</p></td>
+<td><p>좋아한다 안 한다(Like or Not)[28]</p></td>
 <td><p>SEJEONG</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/泰欥" title="wikilink">泰欥</a>（<a href="../Page/Block_B.md" title="wikilink">Block B</a>）</p></td>
 <td></td>
@@ -425,7 +413,7 @@ LineData =
 <tr class="even">
 <td><p>7月17日</p></td>
 <td><p>《<a href="../Page/學校2017.md" title="wikilink">學校2017</a> OST Part.1》</p></td>
-<td><p>이 순간을 믿을게（相信這一瞬間）[34]</p></td>
+<td><p>이 순간을 믿을게（相信這一瞬間）[29]</p></td>
 <td><p>全員</p></td>
 <td></td>
 <td></td>
@@ -434,7 +422,7 @@ LineData =
 <tr class="odd">
 <td><p>8月10日</p></td>
 <td><p>《ICE CHU》</p></td>
-<td><p>ICE CHU[35]</p></td>
+<td><p>ICE CHU[30]</p></td>
 <td><p>MINA、HYEYEON</p></td>
 <td></td>
 <td></td>
@@ -452,7 +440,7 @@ LineData =
 <tr class="odd">
 <td><p>10月13日</p></td>
 <td><p>《<a href="../Page/SM_STATION.md" title="wikilink">SM STATION Season 2</a>》</p></td>
-<td><p>星光綻放時(Star Blossom)[36]</p></td>
+<td><p>星光綻放時(Star Blossom)[31]</p></td>
 <td><p>SEJEONG</p></td>
 <td><p><a href="../Page/道英.md" title="wikilink">道英</a>（<a href="../Page/NCT.md" title="wikilink">NCT</a>）</p></td>
 <td></td>
@@ -471,7 +459,7 @@ LineData =
 <td><p>2018</p></td>
 <td><p>1月15日</p></td>
 <td><p>《<a href="../Page/Two_Yoo_Project_-_Sugar_Man.md" title="wikilink">Two Yoo Project - Sugar Man 2</a> Part.1 》</p></td>
-<td><p>情（정）[37]</p></td>
+<td><p>情（정）[32]</p></td>
 <td><p>HANA、MIMI、SEJEONG 、MINA、HYEYEON</p></td>
 <td></td>
 <td></td>
@@ -488,7 +476,7 @@ LineData =
 <tr class="odd">
 <td><p>3月13日</p></td>
 <td><p>《<a href="../Page/Radio_Romance.md" title="wikilink">Radio Romance</a> OST Part.6》</p></td>
-<td><p>길에서 (在路上)[38]</p></td>
+<td><p>길에서 (在路上)[33]</p></td>
 <td><p>HAEBIN</p></td>
 <td></td>
 <td></td>
@@ -497,7 +485,7 @@ LineData =
 <tr class="even">
 <td><p>5月28日</p></td>
 <td><p>《2018 足球國家代表隊 應援專輯 `We, the Reds`》</p></td>
-<td><p>우리는 하나(We, the Reds)[39]</p></td>
+<td><p>우리는 하나(We, the Reds)[34]</p></td>
 <td><p>SEJEONG</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/鄭澤運" title="wikilink">Leo</a>（<a href="../Page/VIXX.md" title="wikilink">VIXX</a>）</p></td>
 <td></td>
@@ -525,7 +513,7 @@ LineData =
 <td><p>2019</p></td>
 <td><p>1月15日</p></td>
 <td><p>《<a href="../Page/赤月青日.md" title="wikilink">赤月青日</a> OST Part.5 》</p></td>
-<td><p>從那時起（그때부터）[40]</p></td>
+<td><p>從那時起（그때부터）[35]</p></td>
 <td><p>HAEBIN</p></td>
 <td></td>
 <td></td>
@@ -696,7 +684,7 @@ LineData =
 <td><p><a href="../Page/Mnet亞洲音樂大獎.md" title="wikilink">Mnet亞洲音樂大獎</a></p></td>
 <td><p>女子新人獎</p></td>
 <td></td>
-<td><p>[41]</p></td>
+<td><p>[36]</p></td>
 </tr>
 <tr class="even">
 <td><p>最佳年度歌手</p></td>
@@ -861,9 +849,10 @@ LineData =
 
 16.
 
-17.
+17. [뀨](https://twitter.com/gu9udan/status/747794374155599874) twitter
 
-18.
+18. [gugudan 粉絲名：Dear Friend！](http://kpopn.niusnews.com/=K2ed7s61)
+    kpopn
 
 19.
 
@@ -871,10 +860,9 @@ LineData =
 
 21.
 
-22. [뀨](https://twitter.com/gu9udan/status/747794374155599874) twitter
+22.
 
-23. [gugudan 粉絲名：Dear Friend！](http://kpopn.niusnews.com/=K2ed7s61)
-    kpopn
+23.
 
 24.
 
@@ -901,13 +889,3 @@ LineData =
 35.
 
 36.
-
-37.
-
-38.
-
-39.
-
-40.
-
-41.

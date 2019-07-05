@@ -90,7 +90,7 @@ WOMAN](../Page/RICH_MAN,_POOR_WOMAN.md "wikilink")》，講述一個患有面盲
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/MYTEEN.md" title="wikilink">李泰彬</a></p></td>
-<td><p>李英才</p></td>
+<td><p>李才英</p></td>
 <td><p>支持有燦的小小股東</p></td>
 <td></td>
 </tr>

@@ -9,7 +9,7 @@ ISIS酱最初源於一些2ch网民对于[中东地区](https://zh.wikipedia.org/
 
 ## 特征
 
-[Cantaloupes_muskmelons.jpg](https://zh.wikipedia.org/wiki/File:Cantaloupes_muskmelons.jpg "fig:Cantaloupes_muskmelons.jpg")
+[Cantaloupes.jpg](https://zh.wikipedia.org/wiki/File:Cantaloupes.jpg "fig:Cantaloupes.jpg")
 
   - 十九岁。\[15\]\[16\]
   - [绿瞳](../Page/眼睛色彩.md "wikilink")。\[17\]\[18\]\[19\]\[20\]

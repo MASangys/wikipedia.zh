@@ -28,8 +28,8 @@ Bang](https://zh.wikipedia.org/wiki/Big_Bang "wikilink")、[2NE1等](../Page/2NE
     interview](https://web.archive.org/web/20081021025150/http://metropolis.co.jp/tokyointerview/359/tokyointerviewinc.htm)
 
 [Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink")
-[Category:嘻哈](https://zh.wikipedia.org/wiki/Category:嘻哈 "wikilink")
 [Category:日本嘻哈團體](https://zh.wikipedia.org/wiki/Category:日本嘻哈團體 "wikilink")
+[Category:LDH所屬藝人](https://zh.wikipedia.org/wiki/Category:LDH所屬藝人 "wikilink")
 
 1.  [J-POP／早安J-POP：嘻哈天團 m-flo「come
     again」](https://www.ettoday.net/news/20150130/458871.htm)

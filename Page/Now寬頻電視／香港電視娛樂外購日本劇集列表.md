@@ -1209,7 +1209,7 @@
 <td><p>8月7日</p></td>
 <td><p><a href="../Page/ViuTV.md" title="wikilink">ViuTV</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/以我為名的變奏曲" title="wikilink">以我為名的變奏曲</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/天海祐希" title="wikilink">天海祐希</a></p></td>
+<td><p><a href="../Page/天海祐希.md" title="wikilink">天海祐希</a></p></td>
 <td><p><br />
 <a href="../Page/遠藤憲一.md" title="wikilink">遠藤憲一</a><br />
 <a href="../Page/夏木麻里.md" title="wikilink">夏木麻里</a><br />

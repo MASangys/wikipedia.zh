@@ -520,11 +520,11 @@ SUPER網上直播及節目重溫，而網上直播及節目重溫則與電視播
 <td><p>1993/10/06</p></td>
 <td><p>東京都</p></td>
 <td><p>高尾諾爾</p></td>
-<td><p>孤高而閃耀的快盗</p></td>
+<td><p>孤高而光芒四射的快盜</p></td>
 <td><p>魯邦X[58]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/伊藤茂騎" title="wikilink"><font color="black">伊藤茂騎</font></a></p></td>
-<td></td>
-<td><p>待公布</p></td>
+<td><p><a href="../Page/梁偉德.md" title="wikilink"><font color="black">梁偉德</font></a></p></td>
+<td><p><a href="../Page/王辰驊.md" title="wikilink"><font color="black">王辰驊</font></a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -543,11 +543,11 @@ SUPER網上直播及節目重溫，而網上直播及節目重溫則與電視播
 <td><p>1993/10/06</p></td>
 <td><p>東京都</p></td>
 <td><p>高尾諾爾</p></td>
-<td><p>崇高而耀眼的警察</p></td>
+<td><p>高貴眩目的警察</p></td>
 <td><p>巡邏連X</p></td>
 <td><p>伊藤茂騎</p></td>
-<td></td>
-<td><p>待公布</p></td>
+<td><p><a href="../Page/梁偉德.md" title="wikilink"><font color="black">梁偉德</font></a></p></td>
+<td><p><a href="../Page/王辰驊.md" title="wikilink"><font color="black">王辰驊</font></a></p></td>
 </tr>
 <tr class="even">
 <td><dl>
@@ -720,7 +720,7 @@ Lupin**（アルセーヌ・ルパン）<small>（[澤木郁也聲](../Page/澤�
     第30話得知為了避免魯邦珍藏的強大力量被濫用，而將部份珍藏贈與和他有來往的女性友人。
     第44話得知他收養了身為孤兒的諾爾，並教他改造魯邦珍藏方法，後來他的藏寶窟遭Gangler摧毀，而他本人亦遭Gangler殺死。
 
-**-{梁}-上信太**（-{梁}-上信太）<small>（[相島一之](https://zh.wikipedia.org/wiki/相島一之 "wikilink")／香港CV：）</small>
+**-{梁}-上信太**（-{梁}-上信太）<small>（[相島一之](https://zh.wikipedia.org/wiki/相島一之 "wikilink")／香港CV：[招世亮](../Page/招世亮.md "wikilink")）</small>
 
   -
     國際警察的審議官，也是Hilltop的上司，但經常把Hilltop的名字叫錯。
@@ -1230,7 +1230,7 @@ Sudaru・Urukyu</p></td>
 <td><p>頭部<br />
 （3 7 1）</p></td>
 <td><p>19</p></td>
-<td></td>
+<td><p><a href="../Page/麥皓豐.md" title="wikilink">麥皓豐</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>札爾丹・霍<br />
@@ -1255,7 +1255,7 @@ Zarudan・Ho</p></td>
 背部<br />
 （5 9 1）</p></td>
 <td><p>20</p></td>
-<td></td>
+<td><p><a href="../Page/葉振聲.md" title="wikilink">葉振聲</a></p></td>
 </tr>
 <tr class="even">
 <td><p>加巴特・卡巴巴奇<br />
@@ -1636,9 +1636,9 @@ Narizuma・Shibonzu</p></td>
 <td><p>海馬型怪人</p></td>
 <td></td>
 <td><p>左胸<br />
-（）<br />
+（9 3 0）<br />
 右胸<br />
-（）</p></td>
+（3 1 0）</p></td>
 <td><p>43 - 44</p></td>
 <td></td>
 </tr>
@@ -1657,7 +1657,7 @@ Samon・Shakekisutanchin</p></td>
 <td><p>大麻哈魚型怪人</p></td>
 <td></td>
 <td><p>腹部<br />
-（）</p></td>
+（4 1 9）</p></td>
 <td><p>45</p></td>
 <td></td>
 </tr>
@@ -1674,7 +1674,7 @@ Kazemi</p></td>
 <td><p>翠鳥型怪人</p></td>
 <td></td>
 <td><p>腹部<br />
-（）</p></td>
+（5 0 2）</p></td>
 <td><p>51</p></td>
 <td></td>
 </tr>
@@ -1795,10 +1795,13 @@ Zonic・Lee</p></td>
 
 ### 集團兵卒
 
+**波達曼 Podaman（ポーダマン）／波達曼（赤） Podaman（Red）（ポーダマン（赤））**
+
   -
-    **波達曼 Podaman（ポーダマン）**
+
       -
         本作中的雜兵，負責協助怪人們到處犯罪和戰鬥，同樣能以人類外皮的樣貌行動，目前出現有持銃和持劍兩種類型。
+        第50話出現紅色的巨大波達曼。
 
 <!-- end list -->
 
@@ -1819,7 +1822,7 @@ Zonic・Lee</p></td>
 <!-- end list -->
 
   -
-    **改造波達曼（赤）（改造ポーダマン（赤））**
+    **改造波達曼（赤） Podaman Custom（Red）（改造ポーダマン（赤））**
       -
         身高：184cm
         體重：188kg
@@ -3947,7 +3950,8 @@ Morphin Brace</p></td>
 <td><p>#19</p></td>
 <td></td>
 <td><p>違反命令的代價</p>
-<hr/></td>
+<hr/>
+<p>違反命令的代價</p></td>
 <td><p>巡邏連者</p></td>
 <td><p>スダル・ウルキュー（斯達魯・烏魯丘）（<a href="https://zh.wikipedia.org/wiki/鹽口量平" title="wikilink">鹽口量平</a>）</p></td>
 <td><p>2.5%</p></td>
@@ -3956,12 +3960,13 @@ Morphin Brace</p></td>
 </tr>
 <tr class="even">
 <td><p>2018/06/24</p></td>
-<td></td>
+<td><p>2019/06/30</p></td>
 <td><p>2019/09/07</p></td>
 <td><p>#20</p></td>
 <td></td>
 <td><p>新的快盜是警察官</p>
-<hr/></td>
+<hr/>
+<p>新的快盜是警察</p></td>
 <td><p>魯邦連者<br />
 巡邏連者<br />
 魯邦X/巡邏連X</p></td>
@@ -3972,7 +3977,7 @@ Morphin Brace</p></td>
 </tr>
 <tr class="odd">
 <td><p>2018/07/01</p></td>
-<td></td>
+<td><p>2019/07/07</p></td>
 <td><p>2019/09/14</p></td>
 <td><p>#21</p></td>
 <td></td>
@@ -4455,7 +4460,8 @@ Morphin Brace</p></td>
 <td><p>魯邦連者<br />
 巡邏連者<br />
 魯邦X/巡邏連X</p></td>
-<td></td>
+<td><p>ポーダマン（赤）（波達曼（赤））<br />
+ザミーゴ・デルマ （札米戈・廸魯瑪）（入江甚儀）</p></td>
 <td></td>
 <td></td>
 <td></td>

@@ -499,7 +499,7 @@
 
   - [週刊少年Sunday「棒球大聯盟2nd」作品網頁](https://websunday.net/rensai/major2nd/)
 
-  - [電視動畫「棒球大聯盟2nd」官方網頁](http://www.shopro.co.jp/tv/major2nd/)
+  - [電視動畫「棒球大聯盟2nd」官方網頁](https://www6.nhk.or.jp/anime/program/detail.html?i=major2nd/)
 
   -
 [Category:MAJOR](https://zh.wikipedia.org/wiki/Category:MAJOR "wikilink")

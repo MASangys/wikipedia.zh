@@ -113,7 +113,7 @@ Live](https://zh.wikipedia.org/wiki/LoveLive!_\(動畫\) "wikilink")\!》的第�
 
   - 原作：[矢立肇](https://zh.wikipedia.org/wiki/矢立肇 "wikilink")
   - 原案：[公野櫻子](https://zh.wikipedia.org/wiki/公野櫻子 "wikilink")
-  - 監督：
+  - 監督：[京極尚彥](../Page/京極尚彥.md "wikilink")
   - 腳本：[花田十輝](https://zh.wikipedia.org/wiki/花田十輝 "wikilink")
   - 角色設計：室田雄平
   - 服裝設計：高橋武之

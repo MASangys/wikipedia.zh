@@ -21,3 +21,4 @@ CRS-4还包括用于轨道有效载荷系统的空间站综合动能发射器（
 
 [Category:SpaceX](https://zh.wikipedia.org/wiki/Category:SpaceX "wikilink")
 [Category:天龍號太空船](https://zh.wikipedia.org/wiki/Category:天龍號太空船 "wikilink")
+[Category:2014年發射的太空飛行器](https://zh.wikipedia.org/wiki/Category:2014年發射的太空飛行器 "wikilink")

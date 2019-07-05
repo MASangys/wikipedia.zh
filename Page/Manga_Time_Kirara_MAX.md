@@ -228,7 +228,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td></td>
 </tr>
 <tr class="even">
-<td></td>
+<td><p>艾恩与由香里</p></td>
 <td></td>
 <td></td>
 <td><p>2019年1-3月号</p></td>
@@ -305,6 +305,15 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>2014年10月号</p></td>
 <td><p>未出版单行本</p></td>
 </tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td><p>浪咲</p></td>
+<td><p>2013年11-12月号</p></td>
+<td><p>2014年6月号</p></td>
+<td><p>2015年3月号</p></td>
+<td><p>未出版单行本</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -342,7 +351,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td></td>
 <td></td>
 <td></td>
-<td><p>rowspan=17 </p></td>
+<td><p>rowspan=18 </p></td>
 <td><p>Vol. 1</p></td>
 <td><p>2009年6月号</p></td>
 <td></td>
@@ -429,6 +438,15 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td></td>
 </tr>
 <tr class="odd">
+<td></td>
+<td></td>
+<td><p>神武</p></td>
+<td><p>2006年3月号</p></td>
+<td><p>单行本由<a href="../Page/一迅社.md" title="wikilink">一迅社出版</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/铃铃妹妹！" title="wikilink">铃铃妹妹！</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/石见翔子" title="wikilink">石见翔子</a></p></td>
@@ -437,7 +455,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td><p>鸡子</p></td>
@@ -446,7 +464,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -455,7 +473,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td><p>一智啓</p></td>
@@ -464,7 +482,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/白雪诗音" title="wikilink">白雪诗音</a></p></td>
@@ -473,7 +491,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -482,7 +500,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -490,6 +508,15 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>2009年5月号</p></td>
 <td></td>
 <td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td><p>高藤</p></td>
+<td><p>2004年12月号</p></td>
+<td><p>2005年1月号</p></td>
+<td><p>2006年3月号</p></td>
+<td><p>未出版单行本</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/落花流水.md" title="wikilink">落花流水</a></p></td>
@@ -565,6 +592,15 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td></td>
 </tr>
 <tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>2006年2月号</p></td>
+<td><p>之前连载于姐妹杂志</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/迷糊探险队" title="wikilink">迷糊探险队</a></p></td>
 <td></td>
 <td></td>
@@ -573,7 +609,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td><p>永和</p></td>
@@ -582,7 +618,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>2006年11月号</p></td>
 <td><p>未出版单行本</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -591,7 +627,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>2010年6月号</p></td>
 <td><p>曾同时连载于姐妹杂志</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td><p>神武</p></td>
@@ -600,7 +636,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>2007年1月号</p></td>
 <td><p>未出版单行本</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td><p>高藤</p></td>
@@ -609,7 +645,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>2007年2月号</p></td>
 <td><p>未出版单行本</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td><p>松平鶴次郎侍</p></td>
@@ -618,7 +654,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>2006年7月号</p></td>
 <td><p>未出版单行本</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -627,7 +663,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>2011年1月号</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -636,7 +672,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -645,7 +681,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>2007年7月号</p></td>
 <td><p>单行本由<a href="../Page/JIVE.md" title="wikilink">JIVE出版</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td><p>荒木風羽</p></td>
@@ -654,7 +690,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>未出版单行本</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -663,7 +699,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -672,7 +708,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>2010年12月号</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -681,7 +717,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>单行本由<a href="https://zh.wikipedia.org/wiki/enterbrain" title="wikilink">enterbrain出版</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td><p>藍川</p></td>
@@ -690,7 +726,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>2007年8月号</p></td>
 <td><p>收录至<a href="../Page/JIVE.md" title="wikilink">JIVE出版的</a>《もえくりこ》</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td><p>浅叶</p></td>
@@ -699,7 +735,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>2008年2月号</p></td>
 <td><p>未出版单行本</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td><p>氏家</p></td>
@@ -708,7 +744,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>2007年11月号</p></td>
 <td><p>未出版单行本</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/加奈日记" title="wikilink">加奈日记</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/石见翔子" title="wikilink">石见翔子</a></p></td>
@@ -718,7 +754,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>曾短期集中连载于姐妹杂志<br />
 曾长期休载</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td><p>rowspan=2 </p></td>
@@ -727,7 +763,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>我们就这样成了一家</p></td>
 <td></td>
 <td><p>荒木風羽</p></td>
@@ -736,7 +772,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td><p>RikaON</p></td>
@@ -745,7 +781,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>2008年3月号</p></td>
 <td><p>未出版单行本</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -754,7 +790,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>2008年12月号</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -763,7 +799,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>2008年10月号</p></td>
 <td><p>未出版单行本</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td><p>浅叶</p></td>
@@ -772,7 +808,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/超级龙虎娘" title="wikilink">超级龙虎娘</a></p></td>
 <td></td>
 <td><p>加藤夕清</p></td>
@@ -781,7 +817,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>2010年5月号</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td><p>大和狸</p></td>
@@ -790,7 +826,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>2008年10月号</p></td>
 <td><p>未出版单行本</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>表色89X系 GIRLS COLOR CHART</p></td>
 <td></td>
 <td><p>柴田燕</p></td>
@@ -799,7 +835,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>2010年8月号</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -808,7 +844,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>2010年9月号</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td><p>樱</p></td>
@@ -817,7 +853,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td><p>kodomo兎</p></td>
@@ -826,7 +862,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>2010年9月号</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -835,7 +871,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>2010年12月号</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>PHz</p></td>
 <td><p>藤島製1号</p></td>
@@ -844,7 +880,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td><p>香椎</p></td>
@@ -853,7 +889,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -863,7 +899,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>2009年9月号</p></td>
 <td><p>未出版单行本</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/白雪诗音" title="wikilink">白雪诗音</a></p></td>
@@ -872,7 +908,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>2010年10月号</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -881,7 +917,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>未出版单行本</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -890,7 +926,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>2012年10月号</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td><p>猫豆腐</p></td>
@@ -899,7 +935,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>2011年1月号</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/LUCKY_滚球美眉" title="wikilink">LUCKY 滚球美眉</a></p></td>
 <td></td>
 <td></td>
@@ -908,7 +944,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -917,7 +953,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td><p><a href="../Page/渡真仁.md" title="wikilink">渡真仁</a></p></td>
@@ -926,7 +962,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td><p>蛇足</p></td>
@@ -935,7 +971,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>2012年1月号</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -944,7 +980,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>2012年1月号</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td><p>樱</p></td>
@@ -953,7 +989,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>2010年10月号</p></td>
 <td><p>未出版单行本</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/社团萌娘" title="wikilink">社团萌娘</a></p></td>
 <td></td>
 <td></td>
@@ -962,7 +998,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>2011年11月号</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td><p>ica</p></td>
@@ -971,7 +1007,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>未出版单行本</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td><p>4224</p></td>
@@ -980,7 +1016,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>2011年3月号</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td><p>2010年1月号</p></td>
@@ -989,7 +1025,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -998,7 +1034,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>2014年6月号</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -1007,7 +1043,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>2012年5月号</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td><p><a href="../Page/柚木Gao.md" title="wikilink">柚木Gao</a></p></td>
@@ -1016,7 +1052,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>2011年10月号</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -1025,7 +1061,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>2013年1月号</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td><p><br />
@@ -1036,7 +1072,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>2012年1月号</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -1045,7 +1081,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>2014年5月号</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -1054,7 +1090,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>2014年4月号</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td><p><a href="../Page/南野彼方.md" title="wikilink">田仲康二</a></p></td>
@@ -1063,7 +1099,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>2013年5月号</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td><p>器械</p></td>
@@ -1072,7 +1108,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>2013年4月号</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -1081,7 +1117,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>Smile Lesson!</p></td>
 <td></td>
@@ -1090,7 +1126,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>2012年3月号</p></td>
 <td><p>未出版单行本</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -1099,7 +1135,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>2013年12月号</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>GAN</p></td>
 <td><p>2010年12月号</p></td>
@@ -1108,7 +1144,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>曾长期休载</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td><p>方密</p></td>
@@ -1117,7 +1153,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>2014年1月号</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td><p>羽咋</p></td>
@@ -1126,7 +1162,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>2013年5月号</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -1135,7 +1171,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td><p>鴨鳴</p></td>
@@ -1144,7 +1180,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>2014年3月号</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -1153,7 +1189,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>2016年3月号</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -1163,7 +1199,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>2014年8月号</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td><p><a href="../Page/荒井切利.md" title="wikilink">荒井切利</a></p></td>
@@ -1172,7 +1208,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>2018年3月号</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -1181,7 +1217,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>2015年4月号</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td><p>青田</p></td>
@@ -1190,7 +1226,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>2015年7月号</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>乐园☆爱的小窝</p></td>
 <td></td>
 <td><p>枕边</p></td>
@@ -1199,7 +1235,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>2015年11月号</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -1208,7 +1244,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>2015年9月号</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -1217,7 +1253,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>2016年4月号</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td><p>器械</p></td>
@@ -1226,7 +1262,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -1235,7 +1271,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>小学生的头脑中</p></td>
 <td></td>
 <td><p><a href="../Page/石見翔子.md" title="wikilink">石見翔子</a></p></td>
@@ -1244,7 +1280,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>2017年11月号</p></td>
 <td><p>曾长期休载</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -1253,7 +1289,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -1262,7 +1298,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>2015年2月号</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -1271,7 +1307,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -1280,7 +1316,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>军师姬</p></td>
 <td></td>
 <td><p>吉野贝</p></td>
@@ -1289,7 +1325,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>2016年8月号</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td><p>原作：冰坂透<br />
@@ -1299,7 +1335,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>2016年9月号</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -1308,7 +1344,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>2016年5月号</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -1317,7 +1353,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>2017年10月号</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td><p>有馬</p></td>
@@ -1326,7 +1362,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td><p>佐古新佑</p></td>
@@ -1335,7 +1371,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>2017年8月号</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>指挥家！</p></td>
 <td></td>
 <td></td>
@@ -1344,7 +1380,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>2017年10月号</p></td>
 <td><p>作者设有主页[1]</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -1353,7 +1389,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/学园度假村！" title="wikilink">学园度假村！</a></p></td>
 <td></td>
 <td></td>
@@ -1362,7 +1398,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>2017年12月号</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/魔法少女的華麗餘生.md" title="wikilink">魔法少女的華麗餘生</a></p></td>
 <td></td>
 <td><p><a href="../Page/晴濑浩贵.md" title="wikilink">晴濑浩贵</a></p></td>
@@ -1371,7 +1407,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>2019年1月号</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -1380,7 +1416,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>2019年4月号</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td><p><a href="../Page/昆布裙帶菜.md" title="wikilink">昆布裙帶菜</a></p></td>
@@ -1389,7 +1425,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>2018年3月号</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/为什么我进了美术科啊！？.md" title="wikilink">为什么我进了美术科啊！？</a></p></td>
 <td></td>
 <td></td>
@@ -1398,7 +1434,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>2019年5月号</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>哥特萝莉JK无人岛漂流记</p></td>
 <td></td>
 <td></td>
@@ -1407,7 +1443,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>2018年6月号</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td><p>2016年5-6月号</p></td>
@@ -1416,7 +1452,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -1425,7 +1461,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td><p>春雨</p></td>
@@ -1434,7 +1470,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>吸血鬼在瞄准。</p></td>
 <td></td>
 <td></td>
@@ -1443,7 +1479,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>2018年1月号</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -1452,7 +1488,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>2019年7月号</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -1461,7 +1497,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>2019年7月号</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>

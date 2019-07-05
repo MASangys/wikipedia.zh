@@ -40,7 +40,7 @@ Wire上宣布将黑图斯克工作室更名为The Coalition。\[7\]
 <em>Gears of War 5</em></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Microsoft_Studios" title="wikilink">Microsoft Studios</a></p></td>
 <td><p><a href="../Page/Xbox_One.md" title="wikilink">Xbox One</a>、<a href="../Page/Windows_10.md" title="wikilink">Windows 10</a></p></td>
-<td><p>2019年預定</p></td>
+<td><p>2019年9月10日發售預定</p></td>
 </tr>
 </tbody>
 </table>

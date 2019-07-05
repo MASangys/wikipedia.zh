@@ -5,7 +5,7 @@ Liar》\[1\]。
 
 ## 背景
 
-2015年8月5日，[Jellyfish娛樂突然在VIXX的官方網站放置一個計時器](../Page/Jellyfish娛樂.md "wikilink")\[2\]，後來在8月7日證實是由VIXX成員[LEO與](https://zh.wikipedia.org/wiki/鄭澤運 "wikilink")[RAVI將組成子團體進行打歌活動](https://zh.wikipedia.org/wiki/金元植 "wikilink")\[3\]。
+2015年8月5日，[Jellyfish娛樂突然在VIXX的官方網站放置一個計時器](../Page/Jellyfish娛樂.md "wikilink")\[2\]，後來在8月7日證實是由VIXX成員[LEO與](https://zh.wikipedia.org/wiki/鄭澤運 "wikilink")[RAVI將組成子團體進行打歌活動](../Page/金元植.md "wikilink")\[3\]。
 
 次日（8月8日），官方公布子團體組合名稱為「VIXX LR」，會於8月17日推出首張迷你專輯，以《Beautiful
 Liar》作主打曲；同時也釋放一張概念照片\[4\]。到8月10日，曲目完整名單出爐\[5\]。

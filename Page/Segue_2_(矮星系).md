@@ -17,9 +17,9 @@ Segue
 2靠近[人馬座星流的邊緣](../Page/人馬座星流.md "wikilink")，與它有著相同的距離。它可能是[人馬座矮橢球星系的一個衛星星系](../Page/人馬座矮橢球星系.md "wikilink")，或是它的星團\[13\]。
 
 2013年6月的[天文物理期刊發表的論文說Segue](../Page/天文物理期刊.md "wikilink")
-2和[暗物質的範圍在一起](https://zh.wikipedia.org/wiki/暗物質 "wikilink")\[14\]\[15\]\[16\]。
+2和[暗物質的範圍在一起](https://zh.wikipedia.org/wiki/暗物質 "wikilink")\[14\]\[15\]。
 
-這個星系內應該有大約1,000顆的恆星\[17\]。
+這個星系內應該有大約1,000顆的恆星\[16\]。
 
 ## 註解
 
@@ -51,11 +51,4 @@ Segue
 
 15.
 
-16. [UCI Scientists Size Up Universe’s Most Lightweight Dwarf Galaxy
-    with Keck
-    Observatory](http://keckobservatory.org/news/uci_scientists_size_up_universes_most_lightweight_dwarf_galaxy_with_keck_ob)
-    Steve Steve, [W. M. Keck
-    Observatory](https://zh.wikipedia.org/wiki/W._M._Keck_Observatory "wikilink")
-    updated June 7, 2013
-
-17.
+16.

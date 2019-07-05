@@ -3353,7 +3353,7 @@
 <td><p>賀年</p></td>
 <td></td>
 <td><p>主持：<a href="../Page/ERROR_(香港男子組合).md" title="wikilink">ERROR</a><br />
-嘉賓：、<a href="../Page/劉美君.md" title="wikilink">劉美君</a>、<a href="../Page/唐寧_(香港).md" title="wikilink">唐寧</a>、<a href="https://zh.wikipedia.org/wiki/江若琳" title="wikilink">江若琳</a>、<a href="../Page/蔡卓妍.md" title="wikilink">蔡卓妍</a>、<a href="../Page/李幸倪.md" title="wikilink">Gin Lee</a>、<a href="../Page/劉浩龍.md" title="wikilink">劉浩龍</a>、<a href="../Page/黃劍文.md" title="wikilink">黃劍文</a>、<a href="../Page/李健宏.md" title="wikilink">KB</a>、<a href="https://zh.wikipedia.org/wiki/雲文子" title="wikilink">雲文子</a>、<a href="https://zh.wikipedia.org/wiki/MIRROR" title="wikilink">MIRROR</a><br />
+嘉賓：、<a href="../Page/劉美君.md" title="wikilink">劉美君</a>、<a href="../Page/唐寧_(香港).md" title="wikilink">唐寧</a>、<a href="../Page/江若琳.md" title="wikilink">江若琳</a>、<a href="../Page/蔡卓妍.md" title="wikilink">蔡卓妍</a>、<a href="../Page/李幸倪.md" title="wikilink">Gin Lee</a>、<a href="../Page/劉浩龍.md" title="wikilink">劉浩龍</a>、<a href="../Page/黃劍文.md" title="wikilink">黃劍文</a>、<a href="../Page/李健宏.md" title="wikilink">KB</a>、<a href="https://zh.wikipedia.org/wiki/雲文子" title="wikilink">雲文子</a>、<a href="https://zh.wikipedia.org/wiki/MIRROR" title="wikilink">MIRROR</a><br />
 演出：、、、</p></td>
 <td></td>
 <td></td>
@@ -3475,7 +3475,7 @@
 <td></td>
 <td><p>兒童</p></td>
 <td></td>
-<td><p>主持：、、、</p></td>
+<td><p>主持：、、、、</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -3664,9 +3664,9 @@
 <tr class="even">
 <td><p>6月23日</p></td>
 <td><p>5</p></td>
-<td><p>資訊</p></td>
+<td><p>訪談</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/有個保險_Friend" title="wikilink">有個保險 Friend</a></p></td>
-<td><p>主持：</p></td>
+<td><p>主持：<a href="../Page/張堅庭.md" title="wikilink">張堅庭</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -3675,7 +3675,7 @@
 <td></td>
 <td><p>旅遊</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/眾神的大陸" title="wikilink">眾神的大陸</a></p></td>
-<td><p>主持：<a href="../Page/洪助昇.md" title="wikilink">洪助昇</a>、<br />
+<td><p>演出：<a href="../Page/洪助昇.md" title="wikilink">洪助昇</a>、<br />
 旁白：<a href="../Page/東方昇.md" title="wikilink">東方昇</a></p></td>
 <td></td>
 <td></td>
@@ -3685,7 +3685,8 @@
 <td><p>15</p></td>
 <td><p>旅遊</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/厲害了！蘇哥兒" title="wikilink">厲害了！蘇哥兒</a></p></td>
-<td><p>主持：<a href="../Page/蘇施黃.md" title="wikilink">蘇施黃</a>、<a href="../Page/和泉素行.md" title="wikilink">和泉素行</a></p></td>
+<td><p>主持：<a href="../Page/蘇施黃.md" title="wikilink">蘇施黃</a>、<a href="../Page/和泉素行.md" title="wikilink">和泉素行</a><br />
+旁白：</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -3693,7 +3694,7 @@
 <td><p>7月8日</p></td>
 <td><p>15</p></td>
 <td><p>飲食</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/AUNTIE_GIGI_美味駕到" title="wikilink">AUNTIE GIGI 美味駕到</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Cooking_Gigi_台灣篇" title="wikilink">Cooking Gigi 台灣篇</a></p></td>
 <td><p>主持：<a href="../Page/黃淑儀.md" title="wikilink">黃淑儀</a>、、</p></td>
 <td></td>
 <td></td>
@@ -3729,7 +3730,7 @@
 <td><p>7月21日</p></td>
 <td></td>
 <td><p>長者</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/義工無限期" title="wikilink">義工無限期</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/義工冇限耆" title="wikilink">義工冇限耆</a></p></td>
 <td><p>主持：</p></td>
 <td></td>
 <td></td>
@@ -3766,7 +3767,7 @@
 <td></td>
 <td><p>遊戲</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/估你唔到" title="wikilink">估你唔到</a></p></td>
-<td><p>主持：<a href="../Page/林曉峰.md" title="wikilink">林曉峰</a>、<a href="https://zh.wikipedia.org/wiki/朱柏康" title="wikilink">朱柏康</a>、、</p></td>
+<td><p>主持：<a href="../Page/林曉峰.md" title="wikilink">林曉峰</a>、<a href="https://zh.wikipedia.org/wiki/朱栢康" title="wikilink">朱栢康</a>、、</p></td>
 <td></td>
 <td></td>
 </tr>

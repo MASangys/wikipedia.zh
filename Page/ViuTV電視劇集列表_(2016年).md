@@ -1077,7 +1077,7 @@ The Sparks</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/以我為名的變奏曲" title="wikilink">以我為名的變奏曲</a><br />
 Variations Of My Name</p></td>
 <td style="text-align: center;"><p>1</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/天海祐希" title="wikilink">天海祐希</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/天海祐希.md" title="wikilink">天海祐希</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>

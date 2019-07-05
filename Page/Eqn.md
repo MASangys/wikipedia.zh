@@ -39,7 +39,7 @@ eqn 的特色是使用口語化的語法，意思是它撰寫起來和如何讀�
 <td><p><span class="math inline">$\sum_{k=1}^N k^2$</span></p></td>
 </tr>
 <tr class="odd">
-<td><div class="sourceCode" id="cb1"><pre class="sourceCode latex"><code class="sourceCode latex"><a class="sourceLine" id="cb1-1" title="1"><span class="ss">$ x = {-b </span><span class="sc">\pm</span><span class="ss"> </span><span class="sc">\sqrt</span><span class="ss">{b^2 - 4ac} </span><span class="sc">\over</span><span class="ss"> 2a} $</span></a></code></pre></div></td>
+<td><div class="sourceCode" id="cb1"><pre class="sourceCode latex"><code class="sourceCode latex"><span id="cb1-1"><a href="#cb1-1"></a><span class="ss">$ x = {-b </span><span class="sc">\pm</span><span class="ss"> </span><span class="sc">\sqrt</span><span class="ss">{b^2 - 4ac} </span><span class="sc">\over</span><span class="ss"> 2a} $</span></span></code></pre></div></td>
 <td><p><code>x={-b +- sqrt{b sup 2 - 4ac}} over 2a</code></p></td>
 <td><p><span class="math inline">$x= {-b \pm \sqrt{b^2 - 4ac} \over 2a}$</span></p></td>
 </tr>

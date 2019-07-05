@@ -7,7 +7,7 @@ trax發行](../Page/Avex_trax.md "wikilink")。
       -
         作詞：小幡英之、作曲：宮崎歩、編曲：[宗像仁志](https://zh.wikipedia.org/wiki/宗像仁志 "wikilink")
         [哆啦A夢電影第](https://zh.wikipedia.org/wiki/哆啦A夢電影 "wikilink")25篇——[大雄的貓狗時空傳的主題曲](../Page/大雄的貓狗時空傳.md "wikilink")。
-        粵語版為[江若琳的](https://zh.wikipedia.org/wiki/江若琳 "wikilink")《夢境日和》。
+        粵語版為[江若琳的](../Page/江若琳.md "wikilink")《夢境日和》。
 2.  **Holy Story**
       -
         作詞：六ツ見純代、作曲：川端正美、編曲：宗像仁志

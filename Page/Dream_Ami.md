@@ -85,3 +85,4 @@ Ami”的名義單獨出道，推出首張個人專輯。
 [Category:日本女舞者](https://zh.wikipedia.org/wiki/Category:日本女舞者 "wikilink")
 [Category:Dream](https://zh.wikipedia.org/wiki/Category:Dream "wikilink")
 [Category:E-Girls](https://zh.wikipedia.org/wiki/Category:E-Girls "wikilink")
+[Category:LDH所屬藝人](https://zh.wikipedia.org/wiki/Category:LDH所屬藝人 "wikilink")

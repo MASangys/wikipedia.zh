@@ -6,15 +6,15 @@ Type-C**，又稱**USB-C**，是一種[通用序列匯流排](https://zh.wikiped
 USB
 Type-C規範1.0由[USB開發者論壇](../Page/USB開發者論壇.md "wikilink")（[USB-IF](https://zh.wikipedia.org/wiki/USB-IF "wikilink")）發布，並於2014年8月完成\[1\]。與[USB
 3.1規格大致相同](../Page/USB_3.1.md "wikilink")。但現實USB-C的設備不一定支援USB 3.1或[Power
-Delivery](https://zh.wikipedia.org/wiki/Power_Delivery "wikilink")\[2\]\[3\]。自從2014年USB-C規範發佈後，許多新款的Android行動裝置、筆記型電腦、桌上型電腦甚至是遊戲機等3C裝置開始使用這種連接埠。
+Delivery](https://zh.wikipedia.org/wiki/Power_Delivery "wikilink")\[2\]\[3\]。自從2014年USB-C規範發佈後，許多新款的[Android](../Page/Android.md "wikilink")[行動裝置](https://zh.wikipedia.org/wiki/行動裝置 "wikilink")、[筆記型電腦](../Page/筆記型電腦.md "wikilink")、[桌上型電腦甚至是](../Page/桌上型電腦.md "wikilink")[遊戲機等](https://zh.wikipedia.org/wiki/遊戲機 "wikilink")3C裝置開始使用這種連接埠。
 
 ## 簡介
 
 [USB-C.png](https://zh.wikipedia.org/wiki/File:USB-C.png "fig:USB-C.png")
-USB-C介面尺寸為8.3×2.5毫米，小於當前[PC的](../Page/PC.md "wikilink")[USB介面](https://zh.wikipedia.org/wiki/通用串行總線 "wikilink")，但略大於許多手機採用的尺寸6.85×1.8毫米的micro-USB介面。至於電力傳輸規格，線材標準為直流電5[V](../Page/伏特.md "wikilink")、5[A](../Page/安培.md "wikilink")，而連接器為3A。Type-C由於不相容現有的任何類型，因此需要額外設計轉接設備。全球首套USB
-3.1主控端與裝置端原型，則由[祥碩科技於](https://zh.wikipedia.org/wiki/祥碩科技 "wikilink")2014年的USB-IF年會中發表，但因速度僅較USB
-3.0快一倍（理論值，實際上不到一倍），因此眾多大廠仍以主流規格[USB
-3.0為主及設備端廠商也極少願意跟進投入開發對應的USB](../Page/USB_3.0.md "wikilink")3.1產品。\[4\]
+USB-C介面尺寸為8.3×2.5毫米，小於當前PC的USB介面，但略大於許多手機採用的尺寸6.85×1.8毫米的micro-USB介面。至於電力傳輸規格，線材標準為直流電5[V](../Page/伏特.md "wikilink")、5[A](../Page/安培.md "wikilink")，而連接器為3A。Type-C由於不相容現有的任何類型，因此需要額外設計轉接設備。全球首套USB
+3.1主控端與裝置端原型，則由[祥碩科技於](https://zh.wikipedia.org/wiki/祥碩科技 "wikilink")2014年的USB-IF年會中發表，但因速度僅較[USB
+3.0快一倍](../Page/USB_3.0.md "wikilink")（理論值，實際上不到一倍），因此眾多大廠仍以主流規格USB
+3.0為主及設備端廠商也極少願意跟進投入開發對應的USB3.1產品。\[4\]
 
 USB 3.0 Promoter Group主席Brad
 Saunders在接受採訪時表示：「雖然USB技術在設備連接和設備充電中是最受歡迎的，但是我們仍然意識到我們需要開發一個新的接頭來滿足不斷發展的設計趨勢，比如設備尺寸和可用性的進步。新的USB-C接頭將迎合市場的需求並為未來的USB版本奠定一個基礎。」

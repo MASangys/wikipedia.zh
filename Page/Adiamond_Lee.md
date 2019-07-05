@@ -2,8 +2,6 @@
 Lee**（），台灣[導演](https://zh.wikipedia.org/wiki/導演 "wikilink")，執導《[深藍與月光](../Page/深藍與月光.md "wikilink")》、《[富錦街-這條街上的那些故事](../Page/富錦街-這條街上的那些故事.md "wikilink")》、《[著魔](../Page/HIStory_\(2017年電視劇\).md "wikilink")》、《[窩在妳的情慾裡縱火](https://zh.wikipedia.org/wiki/窩在妳的情慾裡縱火 "wikilink")》、《[控八控控超展開音樂控](https://zh.wikipedia.org/wiki/控八控控超展開音樂控 "wikilink")》、《[異始。慾言](https://zh.wikipedia.org/wiki/異始。慾言 "wikilink")》、《[急觸Rushly
 Landed](https://zh.wikipedia.org/wiki/急觸Rushly_Landed "wikilink")》等。
 
-《深藍與月光》與《著魔》皆破高點擊率，作品的瀏覽遍及中國、日本、韓國、泰國、美國、義大利、西班牙、越南、馬來西亞、緬甸等國，皆上微博熱搜與yahoo奇摩搜尋榜,《著魔》更遠赴日本電影院東京與名古屋上映。鑽導執導的BL作品《深藍與月光》與《著魔》在腐女與同志族群LGBT中，深獲好評。
-
 ## 導演作品
 
   - 2017《[深藍與月光](../Page/深藍與月光.md "wikilink")》│編劇
@@ -50,10 +48,6 @@ Landed](https://zh.wikipedia.org/wiki/急觸Rushly_Landed "wikilink")》等。
     《著魔》Adiamond繼續談純愛](https://web.archive.org/web/20171107025851/https://www.msn.com/zh-tw/news/other/%E7%8D%A8%EF%BC%8F%E5%90%8C%E5%BF%97%E6%88%80%E6%9B%B2%E7%A2%8E%E5%BF%83-%E3%80%8A%E8%91%97%E9%AD%94%E3%80%8Badiamond%E7%B9%BC%E7%BA%8C%E8%AB%87%E7%B4%94%E6%84%9B/ar-BBE9hpg)
   - [Adiamond Lee
     愛的紀錄者](http://www.sheaspire.com.tw/p2-weekly_column-detail.php?PKey=46d2-yBe_k8N8dTWufmbx8DBYK8qaqkScC4OkbveoLo)
-
-## 書籍採訪
-
-《拉拉手在一起》紀錄台灣女同志的生命故事，不同世代、職業、不同族群的女同志,現身訴說她們內心的真正想法與面臨難題。
 
 ## 外部連結
 

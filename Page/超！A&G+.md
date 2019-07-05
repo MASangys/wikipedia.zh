@@ -16,7 +16,7 @@ Zone）”。2008年10月6日，“超！A\&G+”开始在部分节目中增加�
   - [超！A\&G+官网](http://www.agqr.jp/)
 
 [Category:日本配音員](https://zh.wikipedia.org/wiki/Category:日本配音員 "wikilink")
-[Category:日本動畫](https://zh.wikipedia.org/wiki/Category:日本動畫 "wikilink")
 
-[Category:日本广播电台](https://zh.wikipedia.org/wiki/Category:日本广播电台 "wikilink")
+[Category:文化放送](https://zh.wikipedia.org/wiki/Category:文化放送 "wikilink")
 [Category:御宅族](https://zh.wikipedia.org/wiki/Category:御宅族 "wikilink")
+[Category:動畫廣播](https://zh.wikipedia.org/wiki/Category:動畫廣播 "wikilink")

@@ -136,7 +136,9 @@ APA酒店被選為今年札幌亞洲冬季運動會的選手村酒店之一，�
 [分類:2017年日本](https://zh.wikipedia.org/wiki/分類:2017年日本 "wikilink")
 [分類:2017年中國](https://zh.wikipedia.org/wiki/分類:2017年中國 "wikilink")
 [分類:中華人民共和國反日情緒](https://zh.wikipedia.org/wiki/分類:中華人民共和國反日情緒 "wikilink")
-[分類:反中情緒](https://zh.wikipedia.org/wiki/分類:反中情緒 "wikilink")
+[分類:日本反中情緒](https://zh.wikipedia.org/wiki/分類:日本反中情緒 "wikilink")
+
+[Category:日本极右翼政治](https://zh.wikipedia.org/wiki/Category:日本极右翼政治 "wikilink")
 
 1.
 

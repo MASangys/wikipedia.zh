@@ -1,6 +1,7 @@
 **C.T.O**是[臺灣](../Page/臺灣.md "wikilink")[創造力娛樂旗下的六人](https://zh.wikipedia.org/wiki/創造力娛樂 "wikilink")[男子音樂團體](https://zh.wikipedia.org/wiki/男子音樂團體 "wikilink")。C.T.O全名為「Create
 Top
 One」，意指「創造頂尖的精神」，粉絲名為「CEO」。\[1\]由4名臺灣成員及2名[中國大陆成員組成](https://zh.wikipedia.org/wiki/中國大陆 "wikilink")，每個月的團長為猜拳的贏家擔任\[2\]。2018年6月11日，官方[Facebook粉絲團正式啟動](../Page/Facebook.md "wikilink")，成員分別於2018年6月19日起連續6日依次公布。C.T.O首支同名歌曲於2018年6月27日在[HitFM首播](https://zh.wikipedia.org/wiki/HitFM "wikilink")\[3\]，其[音樂錄影帶則在同月](../Page/音樂錄影帶.md "wikilink")29日公開。
+C.T.O 2019年7月5日 發行全新專輯《START IT》。
 
 ## 經歷
 
@@ -210,7 +211,7 @@ IDEA專輯歌曲](https://zh.wikipedia.org/wiki/NO_IDEA "wikilink")：我的世�
 
 ## 演唱會及其他演出
 
-### 見面會
+### 簽唱會
 
 |                                                          |                                                              |
 | -------------------------------------------------------- | ------------------------------------------------------------ |
@@ -219,13 +220,16 @@ IDEA專輯歌曲](https://zh.wikipedia.org/wiki/NO_IDEA "wikilink")：我的世�
 | 2018年7月28日                                               | [台中](https://zh.wikipedia.org/wiki/台中 "wikilink") 廣三SOGO     |
 | [中壢](https://zh.wikipedia.org/wiki/中壢 "wikilink") 遠東SOGO |                                                              |
 | [桃園](https://zh.wikipedia.org/wiki/桃園 "wikilink") 光南桃園門市 |                                                              |
-| 2018年7月29日                                               | [高雄](https://zh.wikipedia.org/wiki/高雄 "wikilink") 夢時代        |
+| 2018年7月29日                                               | [高雄](https://zh.wikipedia.org/wiki/高雄 "wikilink") 夢時代-夢想廣場   |
 | [台南](https://zh.wikipedia.org/wiki/台南 "wikilink") 南方公園   |                                                              |
 | [嘉義](https://zh.wikipedia.org/wiki/嘉義 "wikilink") 光南嘉義門市 |                                                              |
 | 2018年9月23日                                               | [東莞](https://zh.wikipedia.org/wiki/東莞 "wikilink") 長安萬科廣場     |
 | 2018年12月22日                                              | [成都龍泉新城吾悅廣場](https://zh.wikipedia.org/wiki/成都 "wikilink")    |
 | 2018年12月23日                                              | [北京華聯同成街購物中心](https://zh.wikipedia.org/wiki/北京 "wikilink")   |
 | 2018年12月24日                                              | [上海仲盛世界商城花卉廣場](https://zh.wikipedia.org/wiki/上海 "wikilink")  |
+| 2019年7月20日                                               | [高雄](https://zh.wikipedia.org/wiki/高雄 "wikilink") 夢時代-夢想廣場   |
+| [台中](https://zh.wikipedia.org/wiki/台中 "wikilink") 廣三SOGO |                                                              |
+| 2019年7月21日                                               | [台北](https://zh.wikipedia.org/wiki/台北 "wikilink") 西門町聯合醫院前廣場 |
 
 ### 舞台演出
 
@@ -248,6 +252,7 @@ IDEA專輯歌曲](https://zh.wikipedia.org/wiki/NO_IDEA "wikilink")：我的世�
 | 2019年3月2日   | |永利澳門 創造力演唱會                                                    |
 | 2019年5月5日   | |[QQ音樂](https://zh.wikipedia.org/wiki/QQ音樂 "wikilink") 大音樂+超級現場 |
 | 2019年5月26日  | |冰淇淋音樂節                                                         |
+| 2019年7月4日   | |花蓮[夏戀嘉年華](../Page/夏戀嘉年華.md "wikilink")                         |
 
 ### 綜藝節目
 
@@ -267,6 +272,7 @@ IDEA專輯歌曲](https://zh.wikipedia.org/wiki/NO_IDEA "wikilink")：我的世�
 | 2018年8月24日                                                 | 我們上床吧([完全娛樂](https://zh.wikipedia.org/wiki/完全娛樂 "wikilink"))                                  | C.T.O全員 |
 | 2018年9月7日                                                  | [中國音樂公告牌](../Page/中國音樂公告牌.md "wikilink")([愛奇藝](https://zh.wikipedia.org/wiki/愛奇藝 "wikilink")) | C.T.O全員 |
 | 2018年9月9日                                                  | 天天向上                                                                                          | C.T.O全員 |
+| 2019年6月26日                                                 | [娛樂百分百](https://zh.wikipedia.org/wiki/娛樂百分百 "wikilink") LIVE                                  | C.T.O全員 |
 
 ### 電台節目
 

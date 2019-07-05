@@ -105,7 +105,6 @@ House、Powerstomp和[Hardstyle](https://zh.wikipedia.org/wiki/Hardstyle "wikili
   - [Progressive
     Фактор](https://zh.wikipedia.org/wiki/Progressive_Фактор "wikilink")
   - [Jutonish](https://zh.wikipedia.org/wiki/Jutonish "wikilink")
-  - DJ blyatman
 
 ## 參考資料
 

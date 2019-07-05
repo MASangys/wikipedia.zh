@@ -70,18 +70,18 @@ Viola是第一个拥有如下功能的浏览器\[11\]：
                  align=center
 
 &lt;/nowiki&gt;</code></pre></td>
-<td><div class="sourceCode" id="cb2"><pre class="sourceCode css"><code class="sourceCode css"><a class="sourceLine" id="cb2-1" title="1"> body<span class="op">,</span> input<span class="op">,</span> p {</a>
-<a class="sourceLine" id="cb2-2" title="2">  <span class="kw">color</span>: <span class="cn">black</span><span class="op">;</span></a>
-<a class="sourceLine" id="cb2-3" title="3">  <span class="kw">background-color</span>: <span class="cn">#707070</span><span class="op">;</span></a>
-<a class="sourceLine" id="cb2-4" title="4">  <span class="kw">text-align</span>: <span class="dv">left</span><span class="op">;</span></a>
-<a class="sourceLine" id="cb2-5" title="5">}</a>
-<a class="sourceLine" id="cb2-6" title="6"></a>
-<a class="sourceLine" id="cb2-7" title="7"> h1 {</a>
-<a class="sourceLine" id="cb2-8" title="8">  <span class="kw">color</span>: <span class="cn">white</span><span class="op">;</span></a>
-<a class="sourceLine" id="cb2-9" title="9">  <span class="kw">background-color</span>: <span class="cn">red</span><span class="op">;</span></a>
-<a class="sourceLine" id="cb2-10" title="10">  <span class="kw">border</span>: <span class="dv">solid</span> <span class="dv">1</span><span class="dt">px</span> <span class="cn">black</span><span class="op">;</span></a>
-<a class="sourceLine" id="cb2-11" title="11">  <span class="kw">text-align</span>: <span class="dv">center</span><span class="op">;</span></a>
-<a class="sourceLine" id="cb2-12" title="12">}</a></code></pre></div></td>
+<td><div class="sourceCode" id="cb2"><pre class="sourceCode css"><code class="sourceCode css"><span id="cb2-1"><a href="#cb2-1"></a> body<span class="op">,</span> input<span class="op">,</span> p {</span>
+<span id="cb2-2"><a href="#cb2-2"></a>  <span class="kw">color</span>: <span class="cn">black</span><span class="op">;</span></span>
+<span id="cb2-3"><a href="#cb2-3"></a>  <span class="kw">background-color</span>: <span class="cn">#707070</span><span class="op">;</span></span>
+<span id="cb2-4"><a href="#cb2-4"></a>  <span class="kw">text-align</span>: <span class="dv">left</span><span class="op">;</span></span>
+<span id="cb2-5"><a href="#cb2-5"></a>}</span>
+<span id="cb2-6"><a href="#cb2-6"></a></span>
+<span id="cb2-7"><a href="#cb2-7"></a> h1 {</span>
+<span id="cb2-8"><a href="#cb2-8"></a>  <span class="kw">color</span>: <span class="cn">white</span><span class="op">;</span></span>
+<span id="cb2-9"><a href="#cb2-9"></a>  <span class="kw">background-color</span>: <span class="cn">red</span><span class="op">;</span></span>
+<span id="cb2-10"><a href="#cb2-10"></a>  <span class="kw">border</span>: <span class="dv">solid</span> <span class="dv">1</span><span class="dt">px</span> <span class="cn">black</span><span class="op">;</span></span>
+<span id="cb2-11"><a href="#cb2-11"></a>  <span class="kw">text-align</span>: <span class="dv">center</span><span class="op">;</span></span>
+<span id="cb2-12"><a href="#cb2-12"></a>}</span></code></pre></div></td>
 </tr>
 </tbody>
 </table>
@@ -117,12 +117,12 @@ Viola是第一个拥有如下功能的浏览器\[11\]：
 \width {100}
 \height {50} \
 &lt;/nowiki&gt;</code></pre></td>
-<td><div class="sourceCode" id="cb2"><pre class="sourceCode javascript"><code class="sourceCode javascript"><a class="sourceLine" id="cb2-1" title="1"><span class="kw">function</span> <span class="at">showTimeInDoc</span>() <span class="op">{</span></a>
-<a class="sourceLine" id="cb2-2" title="2">  <span class="kw">var</span> theTime <span class="op">=</span> <span class="va">document</span>.<span class="at">getElementById</span>(<span class="st">&#39;theTime&#39;</span>)<span class="op">;</span></a>
-<a class="sourceLine" id="cb2-3" title="3">  <span class="kw">var</span> date <span class="op">=</span> <span class="kw">new</span> <span class="at">Date</span>()<span class="op">;</span></a>
-<a class="sourceLine" id="cb2-4" title="4">  <span class="va">theTime</span>.<span class="at">innerHTML</span> <span class="op">=</span> <span class="va">date</span>.<span class="at">getHours</span>() <span class="op">+</span> <span class="st">&quot;:&quot;</span> <span class="op">+</span> <span class="va">date</span>.<span class="at">getMinutes</span>() <span class="op">+</span> <span class="st">&quot;:&quot;</span> <span class="op">+</span> <span class="va">date</span>.<span class="at">getSeconds</span>()<span class="op">;</span></a>
-<a class="sourceLine" id="cb2-5" title="5">  <span class="at">setTimeout</span>(showTimeInDoc<span class="op">,</span> <span class="dv">1000</span>)<span class="op">;</span></a>
-<a class="sourceLine" id="cb2-6" title="6"><span class="op">}</span></a></code></pre></div></td>
+<td><div class="sourceCode" id="cb2"><pre class="sourceCode javascript"><code class="sourceCode javascript"><span id="cb2-1"><a href="#cb2-1"></a><span class="kw">function</span> <span class="at">showTimeInDoc</span>() <span class="op">{</span></span>
+<span id="cb2-2"><a href="#cb2-2"></a>  <span class="kw">var</span> theTime <span class="op">=</span> <span class="va">document</span>.<span class="at">getElementById</span>(<span class="st">&#39;theTime&#39;</span>)<span class="op">;</span></span>
+<span id="cb2-3"><a href="#cb2-3"></a>  <span class="kw">var</span> date <span class="op">=</span> <span class="kw">new</span> <span class="at">Date</span>()<span class="op">;</span></span>
+<span id="cb2-4"><a href="#cb2-4"></a>  <span class="va">theTime</span>.<span class="at">innerHTML</span> <span class="op">=</span> <span class="va">date</span>.<span class="at">getHours</span>() <span class="op">+</span> <span class="st">&quot;:&quot;</span> <span class="op">+</span> <span class="va">date</span>.<span class="at">getMinutes</span>() <span class="op">+</span> <span class="st">&quot;:&quot;</span> <span class="op">+</span> <span class="va">date</span>.<span class="at">getSeconds</span>()<span class="op">;</span></span>
+<span id="cb2-5"><a href="#cb2-5"></a>  <span class="at">setTimeout</span>(showTimeInDoc<span class="op">,</span> <span class="dv">1000</span>)<span class="op">;</span></span>
+<span id="cb2-6"><a href="#cb2-6"></a><span class="op">}</span></span></code></pre></div></td>
 </tr>
 <tr class="even">
 <td><p>将脚本插入网页</p></td>

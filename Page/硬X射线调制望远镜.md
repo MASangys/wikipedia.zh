@@ -34,4 +34,4 @@
 [Category:中国人造卫星](https://zh.wikipedia.org/wiki/Category:中国人造卫星 "wikilink")
 [Category:中国望远镜](https://zh.wikipedia.org/wiki/Category:中国望远镜 "wikilink")
 [Category:空间望远镜](https://zh.wikipedia.org/wiki/Category:空间望远镜 "wikilink")
-[Category:2017年发射的人造卫星](https://zh.wikipedia.org/wiki/Category:2017年发射的人造卫星 "wikilink")
+[Category:2017年发射的太空飞行器](https://zh.wikipedia.org/wiki/Category:2017年发射的太空飞行器 "wikilink")
