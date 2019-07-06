@@ -45,4 +45,7 @@ Gmbh享有少量股权。Finam全球投资基金负责30多家企业的投资，
   - <http://www.crunchbase.com/company/badoo>
   - <http://www.prnewswire.com/news-releases/finam-invests-10-million-in-im-139228669.html>
 
-[Category:俄羅斯公司](https://zh.wikipedia.org/wiki/Category:俄羅斯公司 "wikilink")
+[Category:俄罗斯金融公司](https://zh.wikipedia.org/wiki/Category:俄罗斯金融公司 "wikilink")
+[Category:莫斯科公司](https://zh.wikipedia.org/wiki/Category:莫斯科公司 "wikilink")
+[Category:线上公司](https://zh.wikipedia.org/wiki/Category:线上公司 "wikilink")
+[Category:1994年成立的公司](https://zh.wikipedia.org/wiki/Category:1994年成立的公司 "wikilink")

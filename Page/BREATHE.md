@@ -545,6 +545,7 @@ BREATHE OFFICIAL FAN CLUB LIVE TOUR 2015 “LOVE”\[14\]\[15\]
 [Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink")
 [Category:Rhythm_zone](https://zh.wikipedia.org/wiki/Category:Rhythm_zone "wikilink")
 [Category:2011年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2011年成立的音樂團體 "wikilink")
+[Category:LDH所屬藝人](https://zh.wikipedia.org/wiki/Category:LDH所屬藝人 "wikilink")
 
 1.
 2.  [松尾潔](https://twitter.com/kiyoshimatsuo/status/725934684660584448?lang=ja)

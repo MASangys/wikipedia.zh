@@ -174,6 +174,7 @@ EXILE](https://zh.wikipedia.org/wiki/THE_SECOND_from_EXILE "wikilink")」的成�
 [Category:J_Soul_Brothers](https://zh.wikipedia.org/wiki/Category:J_Soul_Brothers "wikilink")
 [Category:EXILE_THE_SECOND](https://zh.wikipedia.org/wiki/Category:EXILE_THE_SECOND "wikilink")
 [Category:神奈川縣出身人物](https://zh.wikipedia.org/wiki/Category:神奈川縣出身人物 "wikilink")
+[Category:LDH所屬藝人](https://zh.wikipedia.org/wiki/Category:LDH所屬藝人 "wikilink")
 
 1.  2012年6月24日廣播『RADIO MASHUP』
 2.

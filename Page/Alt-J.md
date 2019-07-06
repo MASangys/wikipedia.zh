@@ -23,7 +23,6 @@ Wave](https://zh.wikipedia.org/wiki/An_Awesome_Wave "wikilink")*与2013年5月�
 <ul>
 <li>For all except where noted: </li>
 <li>For "Tessellate": </li>
-<li>For "Something Good": </li>
 </ul>
 <p></ref></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ARIA_Charts" title="wikilink">AUS</a><br />

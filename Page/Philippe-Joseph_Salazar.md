@@ -53,7 +53,7 @@ Statement](http://www.rhetoricafrica.org/index.asp))。与其在巴黎时一样�
 他的工作的独创性在于关注修辞学的技巧及其对民主的力量\[10\]，并改变了人们对修辞学在当代民主中发挥作用的认识。[*Truth in
 Politics*](https://openaccess.leidenuniv.nl/handle/1887/9463)
 其*Hyperpolitique* (2009)
-一书开创了一个新领域：修辞学研究作为力量的哲学，他同时也在研究修辞学作为生活中不易察觉而作用巨大的一种力量\[11\]。他的工作在其领域享有世界声誉[5](http://www.justice.gouv.fr/art_pix/scpc2004.pdf)，曾在世界范围内进行讲座，签名售书，参加多次享负盛誉的世界级学术论坛。他还在法国电视台进行点评[France-Culture](http://www.franceculture.com/emission-du-grain-a-moudre-suffit-il-de-se-reconcilier-pour-avoir-la-paix-2011-09-28.html)，[Public-Senat](https://web.archive.org/web/20120609224424/http://www.publicsenat.fr/vod/deshabillons-les/primaire-ps-le-club-des-six/remi-lefebvre,stephen-bunard,dominique-maingueneau,philippe-joseph-salazar/69616)。
+一书开创了一个新领域：修辞学研究作为力量的哲学，他同时也在研究修辞学作为生活中不易察觉而作用巨大的一种力量\[11\]。他的工作在其领域享有世界声誉[5](http://www.justice.gouv.fr/art_pix/scpc2004.pdf)，曾在世界范围内进行讲座，签名售书，参加多次享负盛誉的世界级学术论坛。他还在法国电视台进行点评，[Public-Senat](https://web.archive.org/web/20120609224424/http://www.publicsenat.fr/vod/deshabillons-les/primaire-ps-le-club-des-six/remi-lefebvre,stephen-bunard,dominique-maingueneau,philippe-joseph-salazar/69616)。
 
 ## 出版物
 

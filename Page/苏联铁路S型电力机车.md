@@ -2,7 +2,7 @@
 
 ## 发展历史
 
-1920年代末，苏联决定对[外高加索铁路在](https://zh.wikipedia.org/wiki/外高加索铁路 "wikilink")[格鲁吉亚境内的](../Page/格鲁吉亚.md "wikilink")[泽斯塔波尼至](https://zh.wikipedia.org/wiki/泽斯塔波尼 "wikilink")[哈舒里区段进行电气化改造](https://zh.wikipedia.org/wiki/哈舒里 "wikilink")，该区段为典型的山区铁路，穿越[苏拉姆山口](https://zh.wikipedia.org/wiki/苏拉姆山口 "wikilink")（Сурамский
+1920年代末，苏联决定对[外高加索铁路在](../Page/外高加索铁路.md "wikilink")[格鲁吉亚境内的](../Page/格鲁吉亚.md "wikilink")[泽斯塔波尼至](https://zh.wikipedia.org/wiki/泽斯塔波尼 "wikilink")[哈舒里区段进行电气化改造](https://zh.wikipedia.org/wiki/哈舒里 "wikilink")，该区段为典型的山区铁路，穿越[苏拉姆山口](https://zh.wikipedia.org/wiki/苏拉姆山口 "wikilink")（Сурамский
 перевал），
 线路最大坡度达到29‰，还有许多小半径曲线。当时决定在此区段采用3000伏[直流电的牵引供电制式](https://zh.wikipedia.org/wiki/直流电 "wikilink")，并与[美国](../Page/美国.md "wikilink")[通用电气公司签订了进口八台直流电力机车的合同](https://zh.wikipedia.org/wiki/通用电气公司 "wikilink")。根据合同规定，通用电气公司为苏联提供八台电力机车，其中两台机车（01、03）装用通用电气原厂的[牵引电动机](https://zh.wikipedia.org/wiki/牵引电动机 "wikilink")，其余六台机车（02、04～08）的牵引电动机由通用电气公司提供必要的设计图纸和技术文件，在莫斯科的[迪纳摩工厂生产](https://zh.wikipedia.org/wiki/迪纳摩工厂 "wikilink")。这种电力机车被定型为S型，意为“苏拉姆斯基”（Сурамского）。
 

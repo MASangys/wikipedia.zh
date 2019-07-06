@@ -40,7 +40,7 @@ Tomcat、tc Server、Groovy/Grails的教学服务。
 4.  为[Groovy和](../Page/Groovy.md "wikilink")提供服务。
 5.
 6.  提供了监视Java应用和环境的工具。
-7.  一家[平台即服务提供商](https://zh.wikipedia.org/wiki/平台即服务 "wikilink")。
+7.  一家[平台即服务提供商](../Page/平台即服务.md "wikilink")。
 8.  构建（开发），运行（部署），管理。
 9.
 10. 一款开源的[高级消息队列协议](../Page/高级消息队列协议.md "wikilink")（AMQP）的消息代理（Message

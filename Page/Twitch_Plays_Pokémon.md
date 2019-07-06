@@ -89,7 +89,7 @@ Twitch
 |      | 寶可夢[黑版](https://zh.wikipedia.org/wiki/神奇寶貝_黑、白 "wikilink")             | 2014年6月15日  | 2014年6月27日  |
 |      | 寶可夢[黑2版](https://zh.wikipedia.org/wiki/神奇寶貝_黑2·白2 "wikilink")          | 2014年7月6日   | 2014年7月22日  |
 |      | 寶可夢[X版](https://zh.wikipedia.org/wiki/神奇寶貝_X·Y "wikilink")             | 2014年7月27日  | 2014年8月1日   |
-|      | 寶可夢[終結紅寶石版](https://zh.wikipedia.org/wiki/神奇寶貝_終結紅寶石·初始藍寶石 "wikilink") | 2014年11月22日 | 2014年11月29日 |
+|      | 寶可夢[終極紅寶石版](../Page/精靈寶可夢_終極紅寶石·始源藍寶石.md "wikilink")                   | 2014年11月22日 | 2014年11月29日 |
 | 第二季  |                                                                        |             |             |
 |      | 寶可夢[紅版](https://zh.wikipedia.org/wiki/神奇寶貝_紅·綠 "wikilink")             | 2015年2月12日  | 2015年3月23日  |
 |      | 寶可夢[戰鬥革命](https://zh.wikipedia.org/wiki/神奇寶貝戰鬥革命 "wikilink")           | 未知          | 未知          |

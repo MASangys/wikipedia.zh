@@ -1,4 +1,4 @@
-**FANZA成人獎**（，）是[日本](../Page/日本.md "wikilink")[FANZA所主辦與](../Page/DMM.com.md "wikilink")[AV女優及](../Page/AV女優.md "wikilink")[成人影片產業相關的獎項](https://zh.wikipedia.org/wiki/成人影片 "wikilink")，自2014年開辦自今，被中文世界媒體稱為暗黑[奧斯卡獎](https://zh.wikipedia.org/wiki/奧斯卡獎 "wikilink")
+**FANZA成人獎**（，）是[日本](../Page/日本.md "wikilink")[FANZA所主辦與](../Page/DMM.com.md "wikilink")[AV女優及](../Page/AV女優.md "wikilink")[成人影片產業相關的獎項](https://zh.wikipedia.org/wiki/成人影片 "wikilink")，自2014年開辦自今。
 
 ## 概要
 
@@ -214,6 +214,12 @@ DEBUT**》（2018年5月24日、[SOD](https://zh.wikipedia.org/wiki/SOD "wikilin
 ## 相關條目
 
   - [成人廣播獎](../Page/成人廣播獎.md "wikilink")
+  - [ピンク大賞](https://zh.wikipedia.org/wiki/ピンク大賞 "wikilink")
+  - [スカパー\!アダルト放送大賞](https://zh.wikipedia.org/wiki/スカパー!アダルト放送大賞 "wikilink")
+  - [AV
+    OPEN](https://zh.wikipedia.org/wiki/AV_OPEN〜あなたが決める!セルアダルトビデオ日本一決定戦〜 "wikilink")
+  - [AV30](https://zh.wikipedia.org/wiki/AV30 "wikilink")
+  - [AVNアワード](https://zh.wikipedia.org/wiki/AVNアワード "wikilink")
 
 ## 參考資料
 

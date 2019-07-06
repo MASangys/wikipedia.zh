@@ -120,7 +120,7 @@
 </tr>
 <tr class="even">
 <td><p>重播[1]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/NHK廣播第1頻率" title="wikilink">第1頻率</a></p></td>
+<td><p><a href="../Page/NHK廣播第1頻率.md" title="wikilink">第1頻率</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>OP曲</p></td>

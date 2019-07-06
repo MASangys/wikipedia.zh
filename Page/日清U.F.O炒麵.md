@@ -20,7 +20,7 @@
   - [川崎麻世](https://zh.wikipedia.org/wiki/川崎麻世 "wikilink")
   - [南方之星](../Page/南方之星.md "wikilink")
   - [島田紳助](https://zh.wikipedia.org/wiki/島田紳助 "wikilink")
-  - [三原順子](https://zh.wikipedia.org/wiki/三原順子 "wikilink")
+  - [三原順子](../Page/三原順子.md "wikilink")
   - [美保純](https://zh.wikipedia.org/wiki/美保純 "wikilink")
   - [杏里](https://zh.wikipedia.org/wiki/杏里 "wikilink")
   - [隧道二人組](../Page/隧道二人組.md "wikilink")

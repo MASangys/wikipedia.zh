@@ -11,7 +11,7 @@
   - [乔治·哈里森](../Page/乔治·哈里森.md "wikilink") –
     吉他、[沙锤](../Page/沙锤.md "wikilink")
   - [林哥·史達](https://zh.wikipedia.org/wiki/林哥·史達 "wikilink") –
-    架子鼓、[康加鼓](https://zh.wikipedia.org/wiki/康加鼓 "wikilink")、钢琴（结尾和音）
+    架子鼓、[康加鼓](../Page/康加鼓.md "wikilink")、钢琴（结尾和音）
 
 ## 脚注
 

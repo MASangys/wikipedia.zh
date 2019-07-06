@@ -175,6 +175,7 @@ Store中仍可以正常下载](../Page/App_Store_\(iOS\).md "wikilink")\[58\]。
 [Category:Windows_Phone软件](https://zh.wikipedia.org/wiki/Category:Windows_Phone软件 "wikilink")
 [Category:社交網路服務](https://zh.wikipedia.org/wiki/Category:社交網路服務 "wikilink")
 [Category:被防火长城封锁的网站](https://zh.wikipedia.org/wiki/Category:被防火长城封锁的网站 "wikilink")
+[Category:图片分享网站](https://zh.wikipedia.org/wiki/Category:图片分享网站 "wikilink")
 
 1.
 2.

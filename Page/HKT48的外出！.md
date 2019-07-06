@@ -478,7 +478,7 @@
 <tr class="odd">
 <td></td>
 <td><p><a href="../Page/TBS電視台.md" title="wikilink">TBS電視台</a></p></td>
-<td><p>製作電視台</p></td>
+<td><p>製作台</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/福岡縣" title="wikilink">福岡縣</a></p></td>

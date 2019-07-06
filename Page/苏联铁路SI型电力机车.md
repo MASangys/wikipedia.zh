@@ -3,7 +3,7 @@ Italiano-Brown-Boweri，TIBB）设计制造。
 
 ## 发展历史
 
-1920年代末，苏联决定对[外高加索铁路在](https://zh.wikipedia.org/wiki/外高加索铁路 "wikilink")[格鲁吉亚境内的](../Page/格鲁吉亚.md "wikilink")[泽斯塔波尼至](https://zh.wikipedia.org/wiki/泽斯塔波尼 "wikilink")[哈舒里区段进行电气化改造](https://zh.wikipedia.org/wiki/哈舒里 "wikilink")，该区段为典型的山区铁路，穿越[苏拉姆山口](https://zh.wikipedia.org/wiki/苏拉姆山口 "wikilink")（Сурамский
+1920年代末，苏联决定对[外高加索铁路在](../Page/外高加索铁路.md "wikilink")[格鲁吉亚境内的](../Page/格鲁吉亚.md "wikilink")[泽斯塔波尼至](https://zh.wikipedia.org/wiki/泽斯塔波尼 "wikilink")[哈舒里区段进行电气化改造](https://zh.wikipedia.org/wiki/哈舒里 "wikilink")，该区段为典型的山区铁路，穿越[苏拉姆山口](https://zh.wikipedia.org/wiki/苏拉姆山口 "wikilink")（Сурамский
 перевал），
 线路最大坡度达到29‰，还有许多小半径曲线。经过研究和论证，[苏联交通人民委员部决定在此区段采用已经在](https://zh.wikipedia.org/wiki/苏联交通人民委员部 "wikilink")[欧洲和](../Page/欧洲.md "wikilink")[美国逐步普及的](../Page/美国.md "wikilink")3000伏[直流电供电制式](https://zh.wikipedia.org/wiki/直流电 "wikilink")，并从美国和欧洲引进国外先进的直流电力机车。当时的[意大利王国是欧洲最早采用](https://zh.wikipedia.org/wiki/意大利王国 "wikilink")3000伏直流电气化铁路的国家之一，[意大利布朗·包维利技术机械公司也具有较多设计和生产直流电力机车的经验](https://zh.wikipedia.org/wiki/意大利布朗·包维利技术机械公司 "wikilink")。1929年，苏联与美国[通用电气公司签订了八台](https://zh.wikipedia.org/wiki/通用电气公司 "wikilink")[S型电力机车的采购合同](../Page/苏联铁路S型电力机车.md "wikilink")，另外又和意大利布朗·包维利技术机械公司签订了七台S<sup>I</sup>型电力机车的采购合同。
 

@@ -1,7 +1,7 @@
 **《特種部隊2
-Online》**（）-{zh-cn:原名;zh-tw:即}-**《特种部队2》**（，）-{zh-cn:，;zh-tw:。中國因代理商等原因，名稱為《**風暴戰區**》，}-是《[特种部队Online](https://zh.wikipedia.org/wiki/特种部队Online "wikilink")》的第2代作品，亦是一款采用[虚幻3引擎的](../Page/虚幻引擎.md "wikilink")[第一人称射击游戏](../Page/第一人称射击游戏.md "wikilink")\[1\]，游戏内的[光效是采用](https://zh.wikipedia.org/wiki/光效 "wikilink")技术模拟制作的。
+Online》**（）-{zh-cn:原名;zh-tw:即}-**《特种部队2》**（，）-{zh-cn:，;zh-tw:。中國因代理商等原因，名稱為《**風暴戰區**》，}-是《[特种部队Online](https://zh.wikipedia.org/wiki/特种部队Online "wikilink")》的第2代作品，亦是一款采用[虚幻3引擎的](../Page/虚幻引擎.md "wikilink")[第一人称射击游戏](../Page/第一人称射击游戏.md "wikilink")\[1\]，游戏内的[光效采用](https://zh.wikipedia.org/wiki/光效 "wikilink")技术模拟制成。
 
-本作的亮点之一是游戏之中的部分枪械的[射击音效是游戏制作团队与](https://zh.wikipedia.org/wiki/射击 "wikilink")[好莱坞的声效工作室合作前往美国](../Page/好莱坞.md "wikilink")[拉斯维加斯的](../Page/拉斯维加斯.md "wikilink")[沙漠之中录制真实枪械子弹出膛声音制成的](../Page/沙漠.md "wikilink")\[2\]。
+本作的特色之一是游戏之中的部分枪械的[射击音效是游戏制作团队与](https://zh.wikipedia.org/wiki/射击 "wikilink")[好莱坞的声效工作室合作前往美国](../Page/好莱坞.md "wikilink")[拉斯维加斯的](../Page/拉斯维加斯.md "wikilink")[沙漠之中录制真实枪械子弹出膛声音制成](../Page/沙漠.md "wikilink")\[2\]。
 
 ## 历史
 

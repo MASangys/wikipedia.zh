@@ -1,8 +1,5 @@
 **Spotify**（Spotify Technology
-SA）（中文名：**聲田**、**声破天**、**斯波蒂菲**）是一個起源於[瑞典的音樂](../Page/瑞典.md "wikilink")[串流服務公司](https://zh.wikipedia.org/wiki/串流 "wikilink")，也是目前全球最大的串流音樂服務商，提供包括[Sony
-Music](https://zh.wikipedia.org/wiki/Sony_Music "wikilink")、[EMI](../Page/EMI.md "wikilink")、[Warner
-Music
-Group和](https://zh.wikipedia.org/wiki/Warner_Music_Group "wikilink")[Universal四大唱片公司及眾多獨立廠牌所授權](https://zh.wikipedia.org/wiki/Universal_Music_Group "wikilink")、由[数字版权管理](../Page/数字版权管理.md "wikilink")（DRM）保護的音樂\[1\]，使用用戶在2019年4月已經達到2.17億以上\[2\]。
+SA）（中文名：**聲田**、**声破天**、**斯波蒂菲**）是一個起源於[瑞典的音樂](../Page/瑞典.md "wikilink")[串流服務公司](https://zh.wikipedia.org/wiki/串流 "wikilink")，也是目前全球最大的串流音樂服務商，提供包括[環球音樂集團](../Page/环球音乐集团.md "wikilink")、[索尼音樂娛樂](../Page/索尼音樂娛樂.md "wikilink")、[華納音樂集團全球三大唱片公司及眾多獨立唱片公司所授權](../Page/華納音樂集團.md "wikilink")、由[数字版权管理](../Page/数字版权管理.md "wikilink")（DRM）保護的音樂\[1\]，使用用戶在2019年4月已經達到2.17億以上\[2\]。
 
 該公司以一種[免費增值的企業型態創立](../Page/免費增值.md "wikilink")，提供兩種等級之串流音樂：Spotify
 Free（160kbit/s）和Spotify Premium
@@ -171,11 +168,11 @@ OS](../Page/Chrome_OS.md "wikilink")、[macOS和](https://zh.wikipedia.org/wiki/
 
 ## 爭議
 
-Spotify和其他[串流媒體行業共同面臨著](https://zh.wikipedia.org/wiki/串流媒體 "wikilink")，因為串流媒體造成專輯銷售下滑，導致演出者聲稱得到不公平的工作報酬作等一些批評。Spotify會與藝人進行收入分為3：7，即為唱片公司和藝人獲得收入的70%，而Spotify抽30%。Spotify會將應支付的版稅全部一起-{zh-tw:透過;zh-hk:通過;zh-hans:通过}-算法去計算，每位藝人應當獲得多少的比例。解釋起來很簡單，但操作時並不容易。\[16\]除了上述的版稅支付差異之外，唱片公司和藝人還認為，免費服務帶來了更大的問題，因為Spotify為這類服務支付的版稅太低。
+Spotify和其他[串流媒體行業共同面臨著](https://zh.wikipedia.org/wiki/串流媒體 "wikilink")，因為串流媒體造成實體專輯銷售下滑，導致歌手及詞曲作家聲稱得到不公平的工作報酬作等一些批評。Spotify會與藝人進行收入分為3：7，即為唱片公司和藝人獲得收入的70%，而Spotify抽30%。Spotify會將應支付的版稅全部一起-{zh-tw:透過;zh-hk:通過;zh-hans:通过}-算法去計算，每位藝人應當獲得多少的比例。解釋起來很簡單，但操作時並不容易。\[16\]除了上述的版稅支付差異之外，唱片公司和藝人還認為，免費服務帶來了更大的問題，因為Spotify為這類服務支付的版稅太低。
 
 亞太區總監Sunita
-Kaur澄清，Spotify取得授權只面對版權所有人，如唱片公司、廠牌、發行單位、著作權集體管理團體等居中、匯聚內容單位，Spotify也只會與匯聚所有音樂版權、將音樂數位化的版權所有人進行分潤。Sunita
-Kaur強調平台不會直接面對音樂人、樂團或創作者，是由這些版權所有人自行與音樂人協商分潤，Spotify一直以來都無從置喙。而Spotify近年都如實支出七成以上的營收都作為權利金，支付給版權所有人；所以在版權所有者與音樂人之間如何溝通分潤、比率，並不是Spotify卸責，是因為此類合議行為平台根本無權居中干涉。「Spotify為求公開透明，自2013年開始便提供上架的音樂人申請帳號進入後台、瀏覽Dashboard的服務，讓音樂人直接了解自己的作品被串流的次數等數據，方便與權利所有人進行款項核對，音樂人有所疑慮皆可主動申請此項服務\[17\]。
+Kaur澄清，Spotify取得授權只面對版權所有人，如唱片公司、發行單位、著作權集體管理團體等居中、匯聚內容單位，Spotify也只會與匯聚所有音樂版權、將音樂數位化的版權所有人進行分潤。Sunita
+Kaur強調平台不會直接面對歌手、樂團或詞曲作家，是由這些版權所有人自行與音樂人協商分潤，Spotify一直以來都無從置喙。而Spotify近年都如實支出七成以上的營收都作為權利金，支付給版權所有人；所以在版權所有者與音樂人之間如何溝通分潤、比率，並不是Spotify卸責，是因為此類合議行為平台根本無權居中干涉。「Spotify為求公開透明，自2013年開始便提供上架的音樂人申請帳號進入後台、瀏覽Dashboard的服務，讓音樂人直接了解自己的作品被串流的次數等數據，方便與權利所有人進行款項核對，音樂人有所疑慮皆可主動申請此項服務\[17\]。
 
 ## 参考资料
 

@@ -22,23 +22,25 @@
 
 於2018年中，On發佈重製GROW系列的消息，並宣佈改用HTML5編程，而非原本的FLASH，原因是FLASH在他的網站上崩潰了，且難以將FLASH遊戲移植至手機平台上。On也展開了一個募款活動，至今共籌得逾一萬美元。\[15\]
 
+2018年6月21日，On宣佈自己需要動心臟手術，GROW系列的未來路向將會取決於該手術的結果。\[16\]
+
 ## 評價
 
-儘管遊戲簡單，但《GROW》系列收到的評論基本上都是正面的。\[16\]《[PC
+儘管遊戲簡單，但《GROW》系列收到的評論基本上都是正面的。\[17\]《[PC
 Gamer](https://zh.wikipedia.org/wiki/PC_Gamer "wikilink")》的賈茲·麥克杜格爾指出遊戲簡單的卡通視覺效果為玩家們產生了一個超現實的遊戲體驗
-，並建議系列中部份較複雜的遊戲可以設置[多人模式](https://zh.wikipedia.org/wiki/多人遊戲 "wikilink")。\[17\][岩石、紙、獵槍的亞歷克](https://zh.wikipedia.org/wiki/岩石、紙、獵槍 "wikilink")·米爾把此遊戲系列描述為「可愛的」和「夢一般的」\[18\]，而《[衛報](../Page/衛報.md "wikilink")》的納奧米·阿爾德曼則把它描述為「迷人的」、「異想天開的」、以及「兒童友好的」。\[19\]Indiegames.com的邁克爾·羅斯指出《GROW》系列遊戲讓玩家「感覺一切都很好」，並把遊戲體驗描述為「在博物館的展覽內按下按鈕……以觀賞世界的發展」。\[20\][GameSetWatch的埃里克](https://zh.wikipedia.org/wiki/GameSetWatch "wikilink")·沙威利則稱讚On在遊戲中利用幽默鼓勵正在摸索的玩家。\[21\]On有規律性地上載《GROW》系列遊戲亦吸引不同的評論家，如《[纽约时报](../Page/纽约时报.md "wikilink")》的查爾斯·赫羅爾德、\[22\]遊戲開發者[戴文·葛羅斯曼](../Page/戴文·葛羅斯曼.md "wikilink")\[23\]、以及遊戲開發商[Spry
-Fox](https://zh.wikipedia.org/wiki/Spry_Fox "wikilink")。\[24\]
+，並建議系列中部份較複雜的遊戲可以設置[多人模式](https://zh.wikipedia.org/wiki/多人遊戲 "wikilink")。\[18\][岩石、紙、獵槍的亞歷克](https://zh.wikipedia.org/wiki/岩石、紙、獵槍 "wikilink")·米爾把此遊戲系列描述為「可愛的」和「夢一般的」\[19\]，而《[衛報](../Page/衛報.md "wikilink")》的納奧米·阿爾德曼則把它描述為「迷人的」、「異想天開的」、以及「兒童友好的」。\[20\]Indiegames.com的邁克爾·羅斯指出《GROW》系列遊戲讓玩家「感覺一切都很好」，並把遊戲體驗描述為「在博物館的展覽內按下按鈕……以觀賞世界的發展」。\[21\][GameSetWatch的埃里克](https://zh.wikipedia.org/wiki/GameSetWatch "wikilink")·沙威利則稱讚On在遊戲中利用幽默鼓勵正在摸索的玩家。\[22\]On有規律性地上載《GROW》系列遊戲亦吸引不同的評論家，如《[纽约时报](../Page/纽约时报.md "wikilink")》的查爾斯·赫羅爾德、\[23\]遊戲開發者[戴文·葛羅斯曼](../Page/戴文·葛羅斯曼.md "wikilink")\[24\]、以及遊戲開發商[Spry
+Fox](https://zh.wikipedia.org/wiki/Spry_Fox "wikilink")。\[25\]
 
 另一方面，《GROW》系列獲得的負面評論則主要批評系列中所有遊戲過於公式化，每個遊戲的差別不大。但是，他們亦承認《GROW
-大砲》\[25\]及《GROW
-RPG》能夠增添系列的新鮮感，使玩家們仍然對此遊戲系列感興趣。\[26\]\[27\][影音俱樂部的遊戲公會亦批評缺乏重玩性](../Page/影音俱樂部.md "wikilink")，並指出「再次玩《GROW》遊戲的樂趣不大」。\[28\]
+大砲》\[26\]及《GROW
+RPG》能夠增添系列的新鮮感，使玩家們仍然對此遊戲系列感興趣。\[27\]\[28\][影音俱樂部的遊戲公會亦批評缺乏重玩性](../Page/影音俱樂部.md "wikilink")，並指出「再次玩《GROW》遊戲的樂趣不大」。\[29\]
 
 ## 《GROW》系列
 
 ### 主要系列
 
-  - 《GROW 第1版》（2006年12月；\[29\]重製：2008年5月-7月）\[30\]\[31\]\[32\]
-  - 《GROW 第2版》（2006年6月）\[33\]
+  - 《GROW 第1版》（2006年12月；\[30\]重製：2008年5月-7月）\[31\]\[32\]\[33\]
+  - 《GROW 第2版》（2006年6月）\[34\]
 
 <!-- end list -->
 
@@ -47,27 +49,27 @@ RPG》能夠增添系列的新鮮感，使玩家們仍然對此遊戲系列感�
 
 <!-- end list -->
 
-  - 《GROW 第3版》（2002年2月；\[34\]重製：2009年6月）\[35\]
-  - 《GROW RPG》（2005年7月）\[36\]
-  - 《GROW 立方》（2005年9月）\[37\]
-  - 《GROW 島嶼》（2007年9月）\[38\]
-  - 《GROW 塔樓》（2009年1月）\[39\]
-  - 《GROW 山谷》（2010年8月）\[40\]
-  - 《GROW 大砲》（2011年1月）\[41\]
-  - 《GROW 森林》（2012年12月，取消）\[42\]
-  - 《GROW 迷宮》（2013年3月）\[43\]
-  - 《GROW 黏土》（2014年2月）\[44\]
+  - 《GROW 第3版》（2002年2月；\[35\]重製：2009年6月）\[36\]
+  - 《GROW RPG》（2005年7月）\[37\]
+  - 《GROW 立方》（2005年9月）\[38\]
+  - 《GROW 島嶼》（2007年9月）\[39\]
+  - 《GROW 塔樓》（2009年1月）\[40\]
+  - 《GROW 山谷》（2010年8月）\[41\]
+  - 《GROW 大砲》（2011年1月）\[42\]
+  - 《GROW 森林》（2012年12月，取消）\[43\]
+  - 《GROW 迷宮》（2013年3月）\[44\]
+  - 《GROW 黏土》（2014年2月）\[45\]
   - 《GROW 公園》（2015年8月）
   - 《GROW 灰姑娘》（2016年）
   - 《GROW 感謝》（2018年11月）
 
 ### MiniGROW系列
 
-  - 《GROW 飾品》（2005年12月）\[45\]
-  - 《GROW 奈米 第0版》（2006年7月）\[46\]
-  - 《GROW 奈米 第1版》（2006年8月）\[47\]
-  - 《GROW 奈米 第2版》（2007年2月）\[48\]
-  - 《GROW 奈米 第3版》（2008年2月）\[49\]
+  - 《GROW 飾品》（2005年12月）\[46\]
+  - 《GROW 奈米 第0版》（2006年7月）\[47\]
+  - 《GROW 奈米 第1版》（2006年8月）\[48\]
+  - 《GROW 奈米 第2版》（2007年2月）\[49\]
+  - 《GROW 奈米 第3版》（2008年2月）\[50\]
 
 <!-- end list -->
 
@@ -76,7 +78,7 @@ RPG》能夠增添系列的新鮮感，使玩家們仍然對此遊戲系列感�
 
 <!-- end list -->
 
-  - 《GROW 奈米 第4版》（2011年5月）\[50\]
+  - 《GROW 奈米 第4版》（2011年5月）\[51\]
 
 ## 外部連結
 
@@ -143,135 +145,138 @@ RPG》能夠增添系列的新鮮感，使玩家們仍然對此遊戲系列感�
 15. [GROW revival project -
     Indiegogo](https://www.indiegogo.com/projects/grow-revival-project#/)
 
-16. W., Tim. [Best of Indie Games: Zero Point
+16. [want to have a heart surgery -
+    Indiegogo](https://www.indiegogo.com/projects/i-want-to-have-a-heart-surgery#/)
+
+17. W., Tim. [Best of Indie Games: Zero Point
     Cubes\!](http://www.gamasutra.com/view/news/110134/Best_Of_Indie_Games_Zero_Point_Cubes.php).
     Gamasutra. 2008-06-27.
 
-17.
 18.
-19. Alderman, Naomi. [If we deny children access to all computer games,
+19.
+20. Alderman, Naomi. [If we deny children access to all computer games,
     we deprive them of a rich and magical
     experience](http://www.guardian.co.uk/commentisfree/2008/apr/10/games.childprotection).
     *The Guardian*. 2008-04-09.
 
-20. Rose, Michael. [Browser Game Pick: GROW Valley
+21. Rose, Michael. [Browser Game Pick: GROW Valley
     (Eyezmaze)](http://indiegames.com/2010/08/browser_game_pick_grow_valley.html).
     Indiegames.com. 2010-08-27.
 
-21. Caoili, Eric. [Eyezmaze Releases Grow
+22. Caoili, Eric. [Eyezmaze Releases Grow
     Cannon](http://www.gamesetwatch.com/2011/02/eyezmaze_releases_grow_cannon.php).
     [GameSetWatch](https://zh.wikipedia.org/wiki/GameSetWatch "wikilink").
     2011-02-01.
 
-22. Herold, Charles. "[Personal Tech: Game Theory - Politics,
+23. Herold, Charles. "[Personal Tech: Game Theory - Politics,
     Spreadsheets and More Are All Grist for the (Free) Game
     Mill](http://www.nytimes.com/2008/01/03/technology/personaltech/03games.html?_r=0)".
     *New York Times*. 2008-01-03.
 
-23. Wallis, Alistair. [Media Consumption: Telltale Games' Dave
+24. Wallis, Alistair. [Media Consumption: Telltale Games' Dave
     Grossman](http://www.gamasutra.com/php-bin/news_index.php?story=11970).
     Gamasutra. 2006-12-05.
 
-24. Cook, Daniel. [Triple Town released for the Amazon
+25. Cook, Daniel. [Triple Town released for the Amazon
     Kindle](http://www.lostgarden.com/2010/10/triple-town-released-for-amazon-kindle.html).
     LostGarden. 2010-10-15.
 
-25. Rose, Michael. [Browser Game Pick: Grow Cannon
+26. Rose, Michael. [Browser Game Pick: Grow Cannon
     (Eyezmaze)](http://indiegames.com/2011/02/browser_game_pick_grow_cannon.html).
     Indiegames.com. 2011-02-01.
 
-26. Meer, Alec. [Life-Gun: GROW
+27. Meer, Alec. [Life-Gun: GROW
     Cannon](http://www.rockpapershotgun.com/2011/02/01/grow-cannon).
     Rock, Paper, Shotgun. 2011-02-01.
 
-27. Meer, Alec. [Tower Of
+28. Meer, Alec. [Tower Of
     Grow](http://www.rockpapershotgun.com/2009/01/28/tower-of-grow).
     Rock, Paper, Shotgun. 28 January 2009.
 
-28. Agnello, Anthony John, et. al. [Sawbuck Gamer - February 21, 2011:
+29. Agnello, Anthony John, et. al. [Sawbuck Gamer - February 21, 2011:
     Grow Cannon](http://www.avclub.com/articles/february-21-2011,52045).
     The A.V. Club - Gameological Society. 2011-02-21.
 
-29. [GROW
+30. [GROW
     ver.1(GAME)](http://www.eyezmaze.com/eyezblog_en/blog/2006/12/grow_ver1.html).
     Eyezmaze.com. 2006-12-10.
 
-30. [GROW ver.1 Added a fork in the
+31. [GROW ver.1 Added a fork in the
     road](http://www.eyezmaze.com/eyezblog_en/blog/2008/05/grow_ver1_added_a_fork_in_the_road.html).
     Eyezmaze.com. 2008-05-08.
 
-31. [GROW ver.1 Added a fork in the
+32. [GROW ver.1 Added a fork in the
     road](http://www.eyezmaze.com/eyezblog_en/blog/2008/06/grow_ver1_added_a_fork_in_the_road_1.html).
     Eyezmaze.com. 2008-06-12.
 
-32. [GROW ver.1 Added a fork in the
+33. [GROW ver.1 Added a fork in the
     road](http://www.eyezmaze.com/eyezblog_en/blog/2008/07/grow_ver1_added_a_fork_in_the_road_2.html).
     Eyezmaze.com. 2008-07-05.
 
-33.
-34. [GROW
+34.
+35. [GROW
     ver.3(GAME)](http://www.eyezmaze.com/eyezblog_en/blog/2002/02/grow_ver3.html).
     Eyezmaze.com. 2002-02-07.
 
-35. [The remake of GROW
+36. [The remake of GROW
     ver.3](http://www.eyezmaze.com/eyezblog_en/blog/2009/06/grow_ver3_remake.html).
     Eyezmaze.com. 2010-08-23.
 
-36. [GROW RPG(GAME)](http://www.eyezmaze.com/grow/RPG/index.html#more).
+37. [GROW RPG(GAME)](http://www.eyezmaze.com/grow/RPG/index.html#more).
     Eyezmaze.com. 2005-07.
 
-37. [GROW
+38. [GROW
     CUBE(GAME)](http://www.eyezmaze.com/eyezblog_en/blog/2005/09/grow_cube.html).
     Eyezmaze.com. 2005-09-15.
 
-38. [GROW ISLAND
+39. [GROW ISLAND
     (GAME)](http://www.eyezmaze.com/eyezblog_en/blog/2007/09/grow_island_game.html).
     Eyezmaze.com. 2007-09-13.
 
-39. [GROW
+40. [GROW
     TOWER(GAME)](http://www.eyezmaze.com/eyezblog_en/blog/2009/01/grow_tower.html).
     Eyezmaze.com. 2009-01-21.
 
-40. [GROW Valley
+41. [GROW Valley
     (GAME)](http://www.eyezmaze.com/eyezblog_en/blog/2010/08/grow_valley.html).
     Eyezmaze.com. 2010-08-23.
 
-41. [GROW CANNON
+42. [GROW CANNON
     (GAME)](http://www.eyezmaze.com/eyezblog_en/blog/2011/01/grow_cannon.html).
     Eyezmaze.com. 2011-01-31.
 
-42. [For now, I gave
+43. [For now, I gave
     up...](http://www.eyezmaze.com/eyezblog_en/blog/2012/12/for_now_i_gave_up.html).
     Eyezmaze.com. 2012-12-30.
 
-43. [GROW Maze
+44. [GROW Maze
     (GAME)](http://www.eyezmaze.com/eyezblog_en/blog/2013/03/grow_maze_game.html).
     Eyezmaze.com. 2013-03-13.
 
-44. [GROW CLAY
+45. [GROW CLAY
     (GAME)](http://www.eyezmaze.com/eyezblog_en/blog/2014/02/grow_clay.html).
     Eyezmaze.com. 2014-02-10.
 
-45. [GROW
+46. [GROW
     ORNAMENT(GAME)](http://www.eyezmaze.com/eyezblog_en/blog/2005/12/grow_ornament.html).
     Eyezmaze.com. 2005-12-17.
 
-46. [GROW nano
+47. [GROW nano
     ver.0(GAME)](http://www.eyezmaze.com/eyezblog_en/blog/2006/07/grow_nano_ver0.html).
     Eyezmaze.com. 2006-07-17.
 
-47. [GROW nano
+48. [GROW nano
     vol.1(GAME)](http://www.eyezmaze.com/eyezblog_en/blog/2006/08/grow_nano_vol1.html).
     Eyezmaze.com. 2006-08-05.
 
-48. [GROW nano
+49. [GROW nano
     vol.2(GAME)](http://www.eyezmaze.com/eyezblog_en/blog/2007/02/grow_nano_vol2.html).
     Eyezmaze.com. 2007-02-21.
 
-49. [GROW nano
+50. [GROW nano
     vol.3(GAME)](http://www.eyezmaze.com/eyezblog_en/blog/2008/02/grow_nano_vol3.html).
     Eyezmaze.com. 2008-02-20.
 
-50. [GROW nano4
+51. [GROW nano4
     (GAME)](http://www.eyezmaze.com/eyezblog_en/blog/2011/05/grow_nano4.html).
     Eyezmaze.com. 2011-05-02.

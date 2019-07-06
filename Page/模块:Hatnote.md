@@ -100,7 +100,7 @@ function p.makeWikitextError(msg, helpLink, addTrackingCategory, title)
 `   -- Make the help link text.`
 `   local helpText`
 `   if helpLink then`
-`       helpText = ' (`[`帮助`](https://zh.wikipedia.org/wiki/'_.._helpLink_.._' "wikilink")`)'`
+`       helpText = '（`[`帮助`](https://zh.wikipedia.org/wiki/'_.._helpLink_.._' "wikilink")`）'`
 `   else`
 `       helpText = ''`
 `   end`
@@ -138,10 +138,10 @@ end
 
 -----
 
-\-- Format link -- -- Makes a wikilink from the given link and display
-values. Links are escaped -- with colons if necessary, and links to
-sections are detected and displayed -- with " § " as a separator rather
-than the standard MediaWiki "\#". Used in -- the  template.
+\-- Format link 格式化链接 -- -- Makes a wikilink from the given link and
+display values. Links are escaped -- with colons if necessary, and links
+to sections are detected and displayed -- with " § " as a separator
+rather than the standard MediaWiki "\#". Used in -- the  template.
 
 -----
 
@@ -152,11 +152,12 @@ function p.formatLink(frame)
 `   local display = args[2]`
 `   if not link then`
 `       return p.makeWikitextError(`
-`           'no link specified',`
-`           'Template:Format hatnote link#Errors',`
+`           'link参数缺失',`
+`           'Template:Format hatnote link#错误',`
 `           args.category`
 `       )`
 `   end`
+`   `
 `   return p._formatLink(link, display)`
 
 end
@@ -165,10 +166,12 @@ function p._formatLink(link, display)
 
 `   checkType('_formatLink', 1, link, 'string')`
 `   checkType('_formatLink', 2, display, 'string', true)`
-`   -- Don't change anything for interlanguage links.`
+`   `
+`   -- ignore transwiki link`
 `   if link:match('<span class="ilh-') then`
 `       return link`
 `   end`
+
 `   -- Remove the initial colon for links where it was specified manually.`
 `   link = removeInitialColon(link)`
 
@@ -180,7 +183,7 @@ function p._formatLink(link, display)
 `       display = postPipe`
 `   end`
 
-`   -- Find the display value.`
+`   -- Find the display value. `
 `   if not display then`
 `       local page, section = link:match('^(.-)#(.*)$')`
 `       if page then`
@@ -203,8 +206,8 @@ end
 
 -----
 
-\-- Hatnote -- -- Produces standard hatnote text. Implements the
-template.
+\-- Hatnote 顶注 -- -- Produces standard hatnote text. Implements the
+template. -- 产生标准顶注文字。实现模板
 
 -----
 
@@ -215,7 +218,7 @@ function p.hatnote(frame)
 `   local options = {}`
 `   if not s then`
 `       return p.makeWikitextError(`
-`           '没有输入文字',`
+`           'text参数缺失',`
 `           'Template:Hatnote#错误',`
 `           args.category`
 `       )`

@@ -11,7 +11,7 @@ picture_format =
 [高畫質電視](https://zh.wikipedia.org/wiki/高畫質電視 "wikilink")
 | audio_format = [立體聲](../Page/立體聲.md "wikilink") | first_run =  |
 imdb_id = 10267156 }}
-《**出租情人**》（），為[臺灣](../Page/臺灣.md "wikilink")[公共電視的](https://zh.wikipedia.org/wiki/公共電視文化事業基金會 "wikilink")[第八屆學生劇展](https://zh.wikipedia.org/wiki/第八屆學生劇展 "wikilink")，張耕聞、陳冠頤導演，由[李維維](../Page/李維維.md "wikilink")、[李至正](../Page/李至正.md "wikilink")、[王琄](../Page/王琄.md "wikilink")、[沈昶宏主演](../Page/沈昶宏.md "wikilink")。2012年8月開拍，2013年5月26日晚間11點30分於公共電視台上映。
+《**出租情人**》（），為[臺灣](../Page/臺灣.md "wikilink")[公共電視的](../Page/公共電視文化事業基金會.md "wikilink")[第八屆學生劇展](https://zh.wikipedia.org/wiki/第八屆學生劇展 "wikilink")，張耕聞、陳冠頤導演，由[李維維](../Page/李維維.md "wikilink")、[李至正](../Page/李至正.md "wikilink")、[王琄](../Page/王琄.md "wikilink")、[沈昶宏主演](../Page/沈昶宏.md "wikilink")。2012年8月開拍，2013年5月26日晚間11點30分於公共電視台上映。
 
 
 ## 劇情摘要

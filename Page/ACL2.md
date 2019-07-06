@@ -21,14 +21,14 @@ Common Lisp
 实现而继承了其高效率；作为归纳验证基础的同一规范亦可以被编译器[编译及优化](https://zh.wikipedia.org/wiki/编译 "wikilink")，进而在本地执行。
 
 2005年，Boyer-Moore 系列证明器（包括
-ACL2）的开发者获得了[ACM软件系统奖](https://zh.wikipedia.org/wiki/ACM软件系统奖 "wikilink")，获奖理由是“作为最高效的定理证明器的先驱和工程师……开发了能够用于验证硬件和软件可靠性的形式化工具。”\[1\]\[2\]
+ACL2）的开发者获得了[ACM软件系统奖](https://zh.wikipedia.org/wiki/ACM软件系统奖 "wikilink")，获奖理由是“作为最高效的定理证明器的先驱和工程师……开发了能够用于验证硬件和软件可靠性的形式化工具。”\[1\]
 
 ## 证明
 
-ACL2在若干领域得以应用。\[3\]\[4\]例如，在 [Pentium FDIV
+ACL2在若干领域得以应用。\[2\]\[3\]例如，在 [Pentium FDIV
 bug](https://zh.wikipedia.org/wiki/Pentium_FDIV_bug "wikilink") 被曝光之后，J
 Strother Moore 和 Matt Kaufmann 运用ACL2证明了[AMD
-K5处理器的浮点数除法运算的正确性](../Page/AMD_K5.md "wikilink")。\[5\]
+K5处理器的浮点数除法运算的正确性](../Page/AMD_K5.md "wikilink")。\[4\]
 在ACL2文档的[有趣的应用](http://www.cs.utexas.edu/users/moore/acl2/v6-2/INTERESTING-APPLICATIONS.html)页面里有一些关于其实际应用的简介。
 
 ACL2的工业级用户包括了[AMD](https://zh.wikipedia.org/wiki/AMD "wikilink")、[Centaur
@@ -52,11 +52,9 @@ Collins](../Page/罗克韦尔柯林斯.md "wikilink")。
 [Category:LISP程式語言](https://zh.wikipedia.org/wiki/Category:LISP程式語言 "wikilink")
 [Category:程序设计语言](https://zh.wikipedia.org/wiki/Category:程序设计语言 "wikilink")
 
-1.  [ACM: Press Release,
-    March 15, 2006](http://campus.acm.org/public/pressroom/press_releases/3_2006/software.cfm)
-2.
-3.  [Books and Papers about ACL2 and Its
+1.
+2.  [Books and Papers about ACL2 and Its
     Applications](http://www.cs.utexas.edu/users/moore/publications/acl2-papers.html)
-4.  [The ACL2 Workshop
+3.  [The ACL2 Workshop
     Series](http://www.cs.utexas.edu/users/moore/acl2/workshops.html)
-5.
+4.

@@ -191,7 +191,7 @@ CANYON](https://zh.wikipedia.org/wiki/PONY_CANYON "wikilink")。
     2011年10月2日　從開播到2011年3月播出時間為星期一至星期四20時50分-20時57分，從5月之後到結束播出時間為星期日25時30分-26時00分、日本放送）
   - bump.y radio（2010年10月27日 - 2011年12月21日、WEB廣播）
   - [FUTURESCAPE](https://zh.wikipedia.org/wiki/FUTURESCAPE "wikilink")（2010年11月27日、FM橫濱）
-  - 渋マガZ（2012年3月18日、25日、[NHK廣播第1頻率](https://zh.wikipedia.org/wiki/NHK廣播第1頻率 "wikilink")）
+  - 渋マガZ（2012年3月18日、25日、[NHK廣播第1頻率](../Page/NHK廣播第1頻率.md "wikilink")）
 
 ### 舞台
 

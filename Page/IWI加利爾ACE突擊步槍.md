@@ -313,32 +313,40 @@ L更使用了全尺寸頂部整體式戰術導軌，將[機匣蓋頂部和護木
 [VII_Cumbre_Alianza_del_Pacífico_(8754541903).jpg](https://zh.wikipedia.org/wiki/File:VII_Cumbre_Alianza_del_Pacífico_\(8754541903\).jpg "fig:VII_Cumbre_Alianza_del_Pacífico_(8754541903).jpg")
 [Galil_ACE_32.jpg](https://zh.wikipedia.org/wiki/File:Galil_ACE_32.jpg "fig:Galil_ACE_32.jpg")
 
-  - ：被選為智利陸軍的新型5.56毫米標準制式步槍。\[16\]2014年，加利爾ACE開始在智利軍隊中部署。\[17\]
+  -   - \[16\]：於2014年開始部署。\[17\]
 
-  - \[18\]：被[哥倫比亞武裝部隊和](https://zh.wikipedia.org/wiki/哥倫比亞武裝部隊 "wikilink")[哥倫比亞警察所採用](https://zh.wikipedia.org/wiki/哥倫比亞警察 "wikilink")。\[19\]\[20\]由當地經授權的生產。
+  - —由當地經授權的生產。\[18\]
+
+      -
+      - \[19\]\[20\]
 
   - \[21\]
 
-  - ：3,000枝ACE
-    31被[危地馬拉國家民警所採用](https://zh.wikipedia.org/wiki/危地馬拉國家民警 "wikilink")。\[22\]
+  -   - ：3,000枝ACE 31\[22\]。
 
-  - ：被某些[海地警察所採用](https://zh.wikipedia.org/wiki/海地警察 "wikilink")。\[23\]
+  -   - \[23\]
 
-  - ：ACE
-    21被[洪都拉斯陸軍](https://zh.wikipedia.org/wiki/洪都拉斯陸軍 "wikilink")、[空軍和](https://zh.wikipedia.org/wiki/洪都拉斯空軍 "wikilink")[國家警察所採用](https://zh.wikipedia.org/wiki/洪都拉斯國家警察 "wikilink")。
+  - —採用ACE 21。
+
+      - 洪都拉斯陸軍
+
+      -
+      -
+  -
+  -   - \[24\]
 
   -
-  - ：被[墨西哥聯邦警察的一部份人員所採用](https://zh.wikipedia.org/wiki/墨西哥聯邦警察 "wikilink")。\[24\]
+  - —當地政府亦計劃由FAMAE特許生產，建立一間每月生產產量可達2,000枝加利爾ACE的[生產工廠](../Page/大量生產.md "wikilink")\[25\]\[26\]。
 
-  -
-  - ：被[秘魯陸軍和](https://zh.wikipedia.org/wiki/秘魯陸軍 "wikilink")[海軍](https://zh.wikipedia.org/wiki/秘魯海軍 "wikilink")[特種部隊所採用](../Page/特種部隊.md "wikilink")，當地政府亦計劃由FAMAE特許生產，建立一間每月生產產量可達2,000枝加利爾ACE的[生產工廠](../Page/大量生產.md "wikilink")。\[25\]\[26\]
+      -
+      - [秘魯海軍](https://zh.wikipedia.org/wiki/秘魯海軍 "wikilink")
 
-  - ：被[南蘇丹武裝部隊所採用](https://zh.wikipedia.org/wiki/南蘇丹武裝部隊 "wikilink")。\[27\]
+  -   - [蘇丹人民解放軍](https://zh.wikipedia.org/wiki/南蘇丹武裝力量 "wikilink")\[27\]
 
-  - ：ACE
-    31和32已被選定為[越南軍隊新型制式突擊步槍](../Page/越南人民军.md "wikilink")，以逐步取代它們目前的[AK-47系列的衍生武器](https://zh.wikipedia.org/wiki/AK-47突击步枪 "wikilink")。\[28\]合同價值約1億[美元](../Page/美元.md "wikilink")，當中包括由IWI在[越南國防部協助以下設在北部](https://zh.wikipedia.org/wiki/越南國防部 "wikilink")[清化省的Z](../Page/清化省.md "wikilink")111兵工廠，為越南人民軍本土生產數目不詳加利爾ACE突擊步槍。\[29\]\[30\]
+  -   - [越南人民军](../Page/越南人民军.md "wikilink")：ACE
+        31和32已被選定為新型制式突擊步槍，以逐步取代目前裝備的[AK-47系列衍生武器](https://zh.wikipedia.org/wiki/AK-47突击步枪 "wikilink")。\[28\]合同價值約1億[美元](../Page/美元.md "wikilink")，當中包括由IWI在[越南國防部協助以下設在北部](https://zh.wikipedia.org/wiki/越南國防部 "wikilink")[清化省的Z](../Page/清化省.md "wikilink")111兵工廠，為越南人民軍本土生產數目不詳的加利爾ACE突擊步槍。\[29\]\[30\]
 
-  - ：自2014年8月授權生產，ACE 22和ACE 31分別命名為“Fort-227”\[31\]和“Fort-228”\[32\]。
+  - —自2014年8月授權生產，ACE 22和ACE 31分別命名為“Fort-227”\[31\]和“Fort-228”\[32\]。
 
 ### 潛在客戶
 

@@ -56,6 +56,8 @@ Company，3月，成立為[D1CE專屬部門公司D](../Page/D1CE.md "wikilink")1
 
   - 黃世真（[WANNA.B](../Page/WANNA.B.md "wikilink")）
   - 方賢雅（琳雅，前Bella4預備成員，[WANNA.B](../Page/WANNA.B.md "wikilink")）
+  - 韓聖熙
+    (SUNMI、TWICE的伴舞,https://instagram.com/hs.hee?igshid=1itzmdkc5aulg)
   - 朴喜晙（[VAV](../Page/VAV.md "wikilink")）
   - 李承桓（[ROMEO](../Page/ROMEO_\(韓國組合\).md "wikilink")）
   - 《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》

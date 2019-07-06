@@ -270,9 +270,9 @@ function box:setBoxParameters(cfg, args)
 `       else`
 `           local sect`
 `           if args.sect == '' then`
-`               sect = '本' .. (cfg.sectionDefault or '頁面')`
+`               sect = '此' .. (cfg.sectionDefault or '頁面')`
 `           elseif type(args.sect) == 'string' then`
-`               sect = '本' .. args.sect`
+`               sect = '此' .. args.sect`
 `           end`
 `           local issue = args.issue`
 `           issue = type(issue) == 'string' and issue ~= '' and issue or nil`
@@ -630,7 +630,7 @@ function box:export()
 `       root`
 `           :tag('div')`
 `               :css('text-align', 'center')`
-`               :wikitext(format('本訊息框使用無效的「type=%s」參數，需要修復。', self.type or ''))`
+`               :wikitext(format('此訊息框使用無效的「type=%s」參數，需要修復。', self.type or ''))`
 `   end`
 
 `   -- Add categories.`

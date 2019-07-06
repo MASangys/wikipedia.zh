@@ -2,7 +2,7 @@
 Format：**HDF**）是设计用来存储和组织大量数据的一组文件格式（**HDF4**，**HDF5**）。它最初开发于美国[国家超级计算应用中心](../Page/国家超级电脑应用中心.md "wikilink")，现在由非营利社团HDF
 Group支持，其任务是确保HDF5技术的持续开发和存储在HDF中数据的持续可访问性。
 
-伴随着这个目标，HDF库和相关工具可在自由的类BSD许可证下获得用于一般使用。HDF被很多商业和非商业软件平台所支持，包括[Java](../Page/Java.md "wikilink")、[MATLAB](../Page/MATLAB.md "wikilink")、[Scilab](../Page/Scilab.md "wikilink")、[Octave](../Page/GNU_Octave.md "wikilink")、[Mathematica](https://zh.wikipedia.org/wiki/Mathematica "wikilink")、[IDL](https://zh.wikipedia.org/wiki/互動式數據語言 "wikilink")、[Python](../Page/Python.md "wikilink"),
+伴随着这个目标，HDF库和相关工具可在自由的类BSD许可证下获得用于一般使用。HDF被很多商业和非商业软件平台所支持，包括[Java](../Page/Java.md "wikilink")、[MATLAB](../Page/MATLAB.md "wikilink")、[Scilab](../Page/Scilab.md "wikilink")、[Octave](../Page/GNU_Octave.md "wikilink")、[Mathematica](https://zh.wikipedia.org/wiki/Mathematica "wikilink")、[IDL](../Page/互動式數據語言.md "wikilink")、[Python](../Page/Python.md "wikilink"),
 [R](../Page/R语言.md "wikilink"),
 [Fortran和](../Page/Fortran.md "wikilink")[Julia](../Page/Julia_\(编程语言\).md "wikilink")。可免费获得的HDF发行中包括了库，命令行实用程序，测试套件源代码，Java接口，和基于Java的HDF查看器（HDFView）\[1\]。
 
@@ -81,7 +81,7 @@ schema）更简单和快速。
   - [Go语言](../Page/Go.md "wikilink")，通过[gonum](https://github.com/gonum)的[hdf5](https://github.com/gonum/hdf5)包。
   - [HDFql](http://www.hdfql.com)使用户能用C、C++、Java、Python、C\#、Fortran和R语言通过高层语言（类似SQL）管理HDF5文件。
   - [Huygens软件](https://svi.nl/HomePage)自从版本3.5使用HDF5作为主存储。
-  - [IDL](https://zh.wikipedia.org/wiki/互動式數據語言 "wikilink")。
+  - [IDL](../Page/互動式數據語言.md "wikilink")。
   - [IGOR
     Pro](https://www.wavemetrics.com/products/igorpro)提供对HDF5文件的完全支持\[7\]。
   - [JHDF5库](https://wiki-bsse.ethz.ch/display/JHDF5)，是一个可替代的[Java绑定](../Page/Java.md "wikilink")，采用了与官方HDF5

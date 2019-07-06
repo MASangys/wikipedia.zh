@@ -78,7 +78,7 @@ George David Weiss</p></td>
 <tr class="odd">
 <td><p>08</p></td>
 <td><p>Sunflower</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Neil_Diamond" title="wikilink">Neil Diamond</a></p></td>
+<td><p><a href="../Page/尼爾·戴門.md" title="wikilink">Neil Diamond</a></p></td>
 <td><p>Neil Diamond</p></td>
 <td><p>David Maurice</p></td>
 <td></td>

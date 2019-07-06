@@ -1,4 +1,4 @@
-**菲利克斯·阿爾維德·烏爾夫·谢尔贝格**\[1\]\[2\]（，\[3\]  \[4\]、
+**费利克斯·阿爾維德·烏爾夫·谢尔柏格**\[1\]\[2\]（，\[3\]  \[4\]、
 、\[5\]，），網名**PewDiePie**（、），[瑞典籍](../Page/瑞典.md "wikilink")[YouTuber](../Page/YouTuber.md "wikilink")，以拍攝遊戲遊玩（）與評論影片聞名，後來主要集中上傳一些關於[網路迷因的影片](https://zh.wikipedia.org/wiki/網路迷因 "wikilink")。他的YouTube頻道崛起速度極快，頻道訂閱人數在2013年由350萬迅速爬升到1,200萬，於2013年8月成為[在YouTube上訂閱人數最多的頻道](../Page/在YouTube上訂閱人數最多的用戶列表.md "wikilink")；除了在2013年11月及12月期間兩度被YouTube的官方頻道「[YouTube
 Spotlight](../Page/YouTube聚光燈.md "wikilink")」超越外，他的頻道一直居於訂閱數榜首\[6\]。2019年3月27日，經歷2019年2月至3月中的後，PewDiePie正式被印度影音公司「[T-Series](../Page/T-Series.md "wikilink")」超越，第三度成為YouTube的第二多訂閲數的頻道，雖然曾在同年4月1日重奪YouTube第一多訂閱數頻道的寳座，但13天後又再度移主。在拉鋸戰的過程中，他發布了兩首單曲，一為《婊子千層麵》（*Bitch
 lasagna*)，二為《恭喜》（*Congratulations*) ，且兩首單曲也已破億觀看。

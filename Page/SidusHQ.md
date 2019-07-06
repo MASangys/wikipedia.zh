@@ -79,7 +79,7 @@ Entertainment**（）是韓國一間[經紀公司](../Page/經紀公司.md "wiki
   - [金秉玉](https://zh.wikipedia.org/wiki/金秉玉 "wikilink")
   - [金基邦](../Page/金基邦.md "wikilink")
   - [金男珍](../Page/金男珍.md "wikilink")
-  - [金所炫](https://zh.wikipedia.org/wiki/金所炫 "wikilink")
+  - [金所泫](../Page/金所泫.md "wikilink")
   - [金秀路](../Page/金秀路.md "wikilink")
   - [金瑞亨](../Page/金瑞亨.md "wikilink")
   - [金宣兒](../Page/金宣兒.md "wikilink")
@@ -216,7 +216,7 @@ Entertainment**（）是韓國一間[經紀公司](../Page/經紀公司.md "wiki
 
   - [車秀妍](../Page/車秀妍.md "wikilink")
 
-  - [車太鉉](https://zh.wikipedia.org/wiki/車太鉉 "wikilink")
+  - [車太鉉](../Page/車太鉉.md "wikilink")
 
   - 최원형
 

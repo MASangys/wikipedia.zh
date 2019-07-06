@@ -31,84 +31,90 @@ Bileckiy和俄罗斯的Vladislav Isenbaev。
 </thead>
 <tbody>
 <tr class="odd">
+<td><p>2018</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Gennady_Korotkevich" title="wikilink">Gennady Korotkevich</a></p></td>
+<td><p>Kamil Debowski</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Makoto_Soejima" title="wikilink">Makoto Soejima</a></p></td>
+</tr>
+<tr class="even">
 <td><p>2017</p></td>
 <td><p>Gennady Korotkevich</p></td>
 <td><p>Konstantin Semenov</p></td>
 <td><p>Vladislav Epifanov</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2016</p></td>
 <td><p>Gennady Korotkevich</p></td>
 <td><p>Kevin Charles Atienza</p></td>
 <td><p>Egor Kulikov</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2015</p></td>
 <td><p>Gennady Korotkevich</p></td>
 <td><p>副島真</p></td>
 <td><p>Bruce Merry</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2014</p></td>
 <td><p>Gennady Korotkevich</p></td>
 <td><p>Evgeny Kapun</p></td>
 <td><p>顾昱洲</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2013</p></td>
 <td><p>Ivan Metelsky</p></td>
 <td><p>Vasil Bileckiy</p></td>
 <td><p>Vladislav Isenbaev</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2012</p></td>
 <td><p>Jakub Pachocki</p></td>
 <td><p>Neal Wu</p></td>
 <td><p>Michal Forišek</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2011</p></td>
 <td><p>副島真</p></td>
 <td><p>Ivan Metelsky</p></td>
 <td><p>Jakub Pachocki</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2010</p></td>
 <td><p>Egor Kulikov</p></td>
 <td><p>Erik-Jan Krijgsman</p></td>
 <td><p>Sergey Kopeliovich</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2009</p></td>
 <td><p>楼天城</p></td>
 <td><p>漆子超</p></td>
 <td><p>岩田陽一</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2008</p></td>
 <td><p>楼天城</p></td>
 <td><p>朱泽园</p></td>
 <td><p>Bruce Merry</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2006</p></td>
 <td><p>Petr Mitrichev</p></td>
 <td><p>Ying Wang</p></td>
 <td><p>Andrey Stankevich</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2005</p></td>
 <td><p>Marek Cygan</p></td>
 <td><p>Erik-Jan Krijgsman</p></td>
 <td><p>Petr Mitrichev</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2004</p></td>
 <td><p>Sergio Sancho</p></td>
 <td><p>Po Ruh Loh</p></td>
 <td><p>Reid Barton</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2003</p></td>
 <td><p>Jimmy Mårdell</p></td>
 <td><p>Christopher Hendrie</p></td>
@@ -131,7 +137,7 @@ Bileckiy和俄罗斯的Vladislav Isenbaev。
 <tbody>
 <tr class="odd">
 <td><p>白俄羅斯</p></td>
-<td><p>5</p></td>
+<td><p>7</p></td>
 <td><p>1</p></td>
 <td><p>0</p></td>
 </tr>
@@ -150,14 +156,14 @@ Bileckiy和俄罗斯的Vladislav Isenbaev。
 <tr class="even">
 <td><p>波蘭</p></td>
 <td><p>2</p></td>
-<td><p>0</p></td>
+<td><p>1</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
 <td><p>日本</p></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
-<td><p>1</p></td>
+<td><p>2</p></td>
 </tr>
 <tr class="even">
 <td><p>阿根廷</p></td>

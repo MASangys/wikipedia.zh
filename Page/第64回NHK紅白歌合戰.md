@@ -25,7 +25,7 @@
 ## 轉播媒體
 
   - [NHK綜合頻道](../Page/NHK綜合頻道.md "wikilink")
-  - [NHK廣播第1頻率](https://zh.wikipedia.org/wiki/NHK廣播第1頻率 "wikilink")
+  - [NHK廣播第1頻率](../Page/NHK廣播第1頻率.md "wikilink")
   - 海外：[緯來日本台於](../Page/緯來日本台.md "wikilink")2014年1月5日晚間六點，以[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")[字幕播出](../Page/字幕.md "wikilink")《第64屆紅白歌唱大賽》。
 
 ## 主持人

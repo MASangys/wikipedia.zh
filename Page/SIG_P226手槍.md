@@ -1002,7 +1002,7 @@ P226同時出現在不少[电影](../Page/电影.md "wikilink")、[电视剧](..
       - 全不鏽鋼底把型P226被羅曼·皮爾斯（Roman
         Pierce，[泰利斯·吉布森飾演](https://zh.wikipedia.org/wiki/泰利斯·吉布森 "wikilink")）所使用。
   - 2004年—《[-{zh-cn:电锯惊魂; zh-tw:奪魂鋸;
-    zh-hk:恐懼鬥室;}-](https://zh.wikipedia.org/wiki/恐懼鬥室 "wikilink")》：型號為全黑色底把型P226，被大衞·泰普警探（Detective
+    zh-hk:恐懼鬥室;}-](../Page/恐懼鬥室.md "wikilink")》：型號為全黑色底把型P226，被大衞·泰普警探（Detective
     David
     Tapp，[丹尼·葛洛佛飾演](../Page/丹尼·葛洛佛.md "wikilink")）在回想片段中闖入「拼圖殺人狂」的倉庫時所使用。
   - 2004年—《[火線救援](../Page/火線救援.md "wikilink")》：型號為全黑色底把型P226，被約翰·W·克里西（John
@@ -1015,7 +1015,7 @@ P226同時出現在不少[电影](../Page/电影.md "wikilink")、[电视剧](..
       - P226R裝上[戰術燈並且被凱爾](../Page/戰術燈.md "wikilink")·斯蒂爾（Kyle
         Steele，[斯科特·斯比德曼飾演](../Page/斯科特·斯比德曼.md "wikilink")）、其他[國家安全局特工和](https://zh.wikipedia.org/wiki/美國國家安全局 "wikilink")[特警隊隊員所使用](../Page/特種武器和戰術部隊.md "wikilink")。
   - 2005年—《[-{zh-cn:电锯惊魂2; zh-tw:奪魂鋸2;
-    zh-hk:恐懼鬥室2死亡困局;}-](https://zh.wikipedia.org/wiki/恐懼鬥室2 "wikilink")》：型號為全黑色底把型P226，被艾莉森·凱莉（Allison
+    zh-hk:恐懼鬥室2死亡困局;}-](../Page/恐懼鬥室2.md "wikilink")》：型號為全黑色底把型P226，被艾莉森·凱莉（Allison
     Kerry，[笛娜·梅耶飾演](https://zh.wikipedia.org/wiki/笛娜·梅耶 "wikilink")）警探作為所使用。
   - 2005年—《[-{zh-hans:我爱上流; zh-hk:賊壇新人王;
     zh-tw:我愛上流;}-](../Page/我愛上流.md "wikilink")》：型號為全黑色底把型P226，分別被狄克·哈普（Dick
@@ -1030,7 +1030,7 @@ P226同時出現在不少[电影](../Page/电影.md "wikilink")、[电视剧](..
   - 2006年—《[-{zh:無間道風雲; zh-hans:无间道风云; zh-tw:神鬼無間;
     zh-hk:無間道風雲;}-](https://zh.wikipedia.org/wiki/神鬼無間 "wikilink")》：型號為全黑色底把型P226，被馬薩諸塞州警察，包括布朗警探（Brown，[安東尼·安德森飾演](https://zh.wikipedia.org/wiki/安東尼·安德森 "wikilink")）所使用。
   - 2006年—《[-{zh-cn:电锯惊魂3; zh-tw:奪魂鋸3;
-    zh-hk:恐懼鬥室3死神在齒;}-](https://zh.wikipedia.org/wiki/恐懼鬥室3 "wikilink")》：型號為全黑色底把型P226，被艾莉森·凱莉（Allison
+    zh-hk:恐懼鬥室3死神在齒;}-](../Page/恐懼鬥室3.md "wikilink")》：型號為全黑色底把型P226，被艾莉森·凱莉（Allison
     Kerry，[笛娜·梅耶飾演](https://zh.wikipedia.org/wiki/笛娜·梅耶 "wikilink")）警探作為所使用。
   - 2006年—《[-{zh-cn:007：大战皇家赌场; zh-tw:007首部曲：皇家夜總會; zh-hk:新鐵金剛智破皇家賭場;
     zh-mo:新鐵金剛智破皇家賭場;}-](../Page/007大战皇家赌场.md "wikilink")》（Casino

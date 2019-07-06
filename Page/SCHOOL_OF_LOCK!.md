@@ -96,3 +96,4 @@ LOCK\!**》是日本[FM東京製播的](../Page/FM東京.md "wikilink")[廣播](
     - ITmedia
 
 [Category:SCHOOL_OF_LOCK\!](https://zh.wikipedia.org/wiki/Category:SCHOOL_OF_LOCK! "wikilink")
+[Category:FM東京的廣播節目](https://zh.wikipedia.org/wiki/Category:FM東京的廣播節目 "wikilink")

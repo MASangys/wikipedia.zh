@@ -79,7 +79,7 @@ Man的成員們也同樣感覺到的村上真都raul三人，作為新成員加�
 </tr>
 <tr class="odd">
 <td><p><strong>村上真都ラウール</strong><small>（村上真都raul / むらかみまいとらうーる）</small></p></td>
-<td><p>2003年6月27日（15歳）</p></td>
+<td><p>2003年6月27日（16歳）</p></td>
 <td><p>日本东京都</p></td>
 <td><p>不明</p></td>
 <td><p>白色</p></td>

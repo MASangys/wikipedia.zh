@@ -4,12 +4,14 @@
 
 2015年12月9日，微软发布了[iOS和](https://zh.wikipedia.org/wiki/iOS "wikilink")[Android版本的小娜](../Page/Android.md "wikilink")。2019年1月起，[Windows
 Phone
-8.1版的小娜停止服务](../Page/Windows_Phone_8.1.md "wikilink")。而截止2019年2月，在中国大陆\[1\]及港澳地区與中華民國暂无法使用移动版小娜，而在1月，iOS/Android的小娜已不可用，现时在Windows端已恢复一部分功能。
+8.1版的小娜停止服务](../Page/Windows_Phone_8.1.md "wikilink")。而截止2019年2月，在中国大陆\[1\]及港澳地区與台湾暂无法使用移动版小娜，而在1月，iOS/Android的小娜已不可用，现时在Windows端已恢复一部分功能。
 
 ## 发展历史
 
 2009年，小娜的开发由Microsoft
-Speech产品团队的总经理[齐格·塞拉芬](https://zh.wikipedia.org/wiki/齐格·塞拉芬 "wikilink")（）和首席科学家开始。两人为这个正在开发的微软个人数字助理建立了愿景、使命和长远规划，他们建立了一个具有专业知识的团队来建立小娜的初始原型。\[2\]为了开发小娜，这个团队采访了几位人类的私人助理。这些采访激发了小娜许多独特的功能，包括“[记事本](https://zh.wikipedia.org/wiki/小娜#记事本 "wikilink")”功能。小娜的[自然语言处理能力来自](../Page/自然语言处理.md "wikilink")（该公司于2007年被微软收购），并与一个名为Satori的[语义搜索](https://zh.wikipedia.org/wiki/语义搜索 "wikilink")[数据库相结合](../Page/数据库.md "wikilink")。\[3\]-{Cortana}-这一名字来源于由微软发行的[第一人称射击游戏](../Page/第一人称射击游戏.md "wikilink")《[-{zh-hans:光环系列;zh-hant:最後一戰系列}-](../Page/最後一戰系列.md "wikilink")》中同名的[人工智能角色](../Page/人工智能.md "wikilink")“”\[4\]\[5\]。该角色的[配音演员](https://zh.wikipedia.org/wiki/配音演员 "wikilink")[珍·泰勒为小娜在](../Page/珍·泰勒.md "wikilink")[美国的版本配音](../Page/美国.md "wikilink")\[6\]。最初“-{Cortana}-”只是一个[代号](https://zh.wikipedia.org/wiki/代号 "wikilink")，但是在网站上的一份请愿书，证明这一代号很受欢迎，使得代号成为了正式的名称。\[7\]\[8\]
+Speech产品团队的总经理[齐格·塞拉芬](https://zh.wikipedia.org/wiki/齐格·塞拉芬 "wikilink")（）和首席科学家开始。两人为这个正在开发的微软个人数字助理建立了愿景、使命和长远规划，他们建立了一个具有专业知识的团队来建立小娜的初始原型。\[2\]为了开发小娜，这个团队采访了几位人类的私人助理。这些采访激发了小娜许多独特的功能，包括“[记事本](https://zh.wikipedia.org/wiki/小娜#记事本 "wikilink")”功能。小娜的[自然语言处理能力来自](../Page/自然语言处理.md "wikilink")（该公司于2007年被微软收购），并与一个名为Satori的[语义搜索](https://zh.wikipedia.org/wiki/语义搜索 "wikilink")[数据库相结合](../Page/数据库.md "wikilink")。\[3\]
+
+\-{Cortana}-这一名字来源于由微软发行的[第一人称射击游戏](../Page/第一人称射击游戏.md "wikilink")《[-{zh-hans:光环系列;zh-hant:最後一戰系列}-](../Page/最後一戰系列.md "wikilink")》中同名的[人工智能角色](../Page/人工智能.md "wikilink")“”\[4\]\[5\]。该角色的[配音演员](https://zh.wikipedia.org/wiki/配音演员 "wikilink")[珍·泰勒为小娜在](../Page/珍·泰勒.md "wikilink")[美国的版本配音](../Page/美国.md "wikilink")\[6\]。最初“-{Cortana}-”只是一个[代号](https://zh.wikipedia.org/wiki/代号 "wikilink")，但是在网站上的一份请愿书，证明这一代号很受欢迎，使得代号成为了正式的名称。\[7\]\[8\]
 
 小娜的首次展示是在[美国](../Page/美国.md "wikilink")[旧金山举行的](../Page/旧金山.md "wikilink")[2014年](https://zh.wikipedia.org/wiki/Build_\(开发者大会\)#Build_2014 "wikilink")[微软Build开发者大会上](../Page/Build_\(开发者大会\).md "wikilink")。是次大会于2014年4月2日至4日举行，微软全球副总裁[乔北峰于该大会首日向公众展示并发布了小娜这一产品](../Page/乔北峰.md "wikilink")。小娜的Windows
 Phone
@@ -94,7 +96,7 @@ Band连接](../Page/Microsoft_Band.md "wikilink")，并通过小娜发出提醒�
 Phone系统，这使得微软能够以更快的速度提供新功能\[73\]\[74\]。但并不是所有与小娜相关的功能都可以用这种方式更新，因为一些功能需要Windows
 Phone的更新服务和[高通骁龙技术等](https://zh.wikipedia.org/wiki/高通骁龙 "wikilink")\[75\]。
 
-小娜的[视觉表现形式基于两只相嵌的动态](https://zh.wikipedia.org/wiki/視覺 "wikilink")[环形](../Page/环形.md "wikilink")，其转动的状态象征著当前的搜索或对话等活动。主要的配色方案包括黑色或白色背景，以及圆圈的蓝色阴影（这一颜色随使用者对Windows的主题颜色而定）。\[76\]
+小娜的默认[视觉表现形式基于两只相嵌的动态](https://zh.wikipedia.org/wiki/視覺 "wikilink")[环形](../Page/环形.md "wikilink")，其转动的状态象征著当前的搜索或对话等活动。主要的配色方案包括黑色或白色背景，动态环形的颜色随使用者对Windows的主题颜色而定。\[76\]
 
 ## 争议
 

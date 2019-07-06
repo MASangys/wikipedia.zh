@@ -406,6 +406,7 @@ Story](../Page/Love_Story_\(TAKAHIRO單曲\).md "wikilink")」。4月1日開始�
 [Category:放浪兄弟](https://zh.wikipedia.org/wiki/Category:放浪兄弟 "wikilink")
 [Category:日本男歌手](https://zh.wikipedia.org/wiki/Category:日本男歌手 "wikilink")
 [Category:長崎縣出身人物](https://zh.wikipedia.org/wiki/Category:長崎縣出身人物 "wikilink")
+[Category:LDH所屬藝人](https://zh.wikipedia.org/wiki/Category:LDH所屬藝人 "wikilink")
 
 1.  2011年3月27日播映的「[ひるザイル](https://zh.wikipedia.org/wiki/ひるザイル "wikilink")」
 2.  2012年11月20日播映的「[スター☆ドラフト会議](https://zh.wikipedia.org/wiki/スター☆ドラフト会議 "wikilink")」

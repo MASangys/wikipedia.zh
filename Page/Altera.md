@@ -17,7 +17,7 @@ II的](https://zh.wikipedia.org/wiki/Altera_Quartus "wikilink")[电子设计自�
 1.   \[2015-10-25\]
 
 2.  Zacks Equity Research, NASDAQ. "[Altera Shipping 28-nm
-    FPGAs](http://community.nasdaq.com/News/2012-04/altera-shipping-28nm-fpgas-analyst-blog.aspx?storyid=133782)."
+    FPGAs](https://web.archive.org/web/20170911204820/http://www.nasdaq.com/article/altera-shipping-28nm-fpgas-analyst-blog-cm133782)."
     April 13, 2012. Retrieved May 8, 2012.
 
 3.  Source: \["Key Companies Shake Up This Year's Top Employers,

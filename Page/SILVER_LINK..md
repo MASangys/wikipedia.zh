@@ -326,7 +326,7 @@ LINK.設立於2007年12月，是動畫公司フロントライン（FRONTLINE）
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/賢者之孫" title="wikilink">賢者之孫</a></p></td>
+<td><p><a href="../Page/賢者之孫.md" title="wikilink">賢者之孫</a></p></td>
 <td></td>
 <td><p>4月10日－</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/田村正文" title="wikilink">田村正文</a></p></td>

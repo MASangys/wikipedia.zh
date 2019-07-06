@@ -90,12 +90,14 @@ Desire系列**是[宏達電旗下的產品系列](https://zh.wikipedia.org/wiki/
     830](https://zh.wikipedia.org/wiki/HTC_Desire_830 "wikilink")
   - [Desire 10 pro](../Page/HTC_Desire_10_pro.md "wikilink")
   - [Desire 10 lifestyle](../Page/HTC_Desire_10_lifestyle.md "wikilink")
-  - [htc desire
-    12](https://zh.wikipedia.org/wiki/htc_desire_12 "wikilink")
-  - [htc desire
-    12+](https://zh.wikipedia.org/wiki/htc_desire_12+ "wikilink")
-  - [htc desire
-    12s](https://zh.wikipedia.org/wiki/htc_desire_12s "wikilink")
+  - [HTC Desire
+    12](https://zh.wikipedia.org/wiki/HTC_Desire_12 "wikilink")
+  - [HTC Desire
+    12+](https://zh.wikipedia.org/wiki/HTC_Desire_12+ "wikilink")
+  - [HTC Desire
+    12s](https://zh.wikipedia.org/wiki/HTC_Desire_12s "wikilink")
+  - [HTC Desire
+    19+](https://zh.wikipedia.org/wiki/HTC_Desire_19+ "wikilink")
 
 <table>
 <thead>

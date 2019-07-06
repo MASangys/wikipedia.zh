@@ -294,6 +294,7 @@ DARUMA一起結成「[PKCZ](https://zh.wikipedia.org/wiki/PKCZ "wikilink")」。
 [Category:日本男舞者](https://zh.wikipedia.org/wiki/Category:日本男舞者 "wikilink")
 [Category:日本電視主持人](https://zh.wikipedia.org/wiki/Category:日本電視主持人 "wikilink")
 [Category:神奈川縣出身人物](https://zh.wikipedia.org/wiki/Category:神奈川縣出身人物 "wikilink")
+[Category:LDH所屬藝人](https://zh.wikipedia.org/wiki/Category:LDH所屬藝人 "wikilink")
 
 1.  [EXILE眞木大輔、アルマーニ国内初の男性イメージモデルに起用](http://beauty.oricon.co.jp/news/72831/?id=TOP1)
 2.  [HIRO著](https://zh.wikipedia.org/wiki/五十嵐広行 "wikilink")『[Bボーイサラリーマン](https://zh.wikipedia.org/wiki/Bボーイサラリーマン "wikilink")』より。

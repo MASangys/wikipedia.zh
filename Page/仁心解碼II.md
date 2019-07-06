@@ -49,7 +49,7 @@
 法醫精神科高級醫生→顧問醫生<br />
 Franco前女友<br />
 高立仁之同事，於第25集起为其妻<br />
-盧應奇、王世邦、陳思家、陸日勤、何年月之上司</p></td>
+盧應奇、梁启荣、王世邦、陳思家、陸日勤、何年月之上司</p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/李成昌.md" title="wikilink">李成昌</a></strong></p></td>
@@ -578,7 +578,7 @@ Franco前女友<br />
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/黃耀煌" title="wikilink">黃耀煌</a></p></td>
 <td><p>張展博</p></td>
-<td><p>變童者<br />
+<td><p>孌童者<br />
 於第10集被曹啟超推出馬路而車禍身亡</p></td>
 </tr>
 <tr class="even">

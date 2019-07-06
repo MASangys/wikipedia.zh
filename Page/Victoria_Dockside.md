@@ -1,12 +1,29 @@
 [Victoria_Dockside_viewed_from_Tsim_Sha_Tsui_Promenade.jpg](https://zh.wikipedia.org/wiki/File:Victoria_Dockside_viewed_from_Tsim_Sha_Tsui_Promenade.jpg "fig:Victoria_Dockside_viewed_from_Tsim_Sha_Tsui_Promenade.jpg")\]\]
-**Victoria Dockside**（原中文名稱為*' 維港文化匯*'
-）位於[香港](../Page/香港.md "wikilink")[九龍](../Page/九龍.md "wikilink")[尖沙咀](../Page/尖沙咀.md "wikilink")[梳士巴利道](../Page/梳士巴利道.md "wikilink")18號，毗鄰[梳士巴利花園](../Page/梳士巴利花園.md "wikilink")、[香港藝術館](../Page/香港藝術館.md "wikilink")、[星光大道和](../Page/星光大道_\(香港\).md "wikilink")[香港太空館](../Page/香港太空館.md "wikilink")，是位於尖沙咀核心地段的綜合型發展項目，總樓面面積達300萬平方呎，預計於2019年全面啟用。項目的第一期[K11
-Atelier已於](../Page/K11_Atelier.md "wikilink")2018年4月底正式開幕，銳意將該區發展成國際級創意藝術設計新地標。Victoria
-Dockside前身為於1978年12月建成的[新世界中心](../Page/新世界中心.md "wikilink")，是全港首個集合[商場](../Page/商場.md "wikilink")、[酒店及](../Page/酒店.md "wikilink")[服務式住宅為一的綜合商住區](https://zh.wikipedia.org/wiki/服務式住宅 "wikilink")，在八、九十年代一度成為文化藝術及時尚潮人的集中地，其後於1997年建成地下商場——[名店城](../Page/名店城.md "wikilink")，兩者均於2009年至2011年被拆卸，於2012年年底起分階段重建，Victoria
-Dockside耗資200億港元，2019年全面落成啟用後建築面積達32萬平方米，包括藝術、設計及消閒體驗，為[新世界發展目前規模最龐大的項目](../Page/新世界發展.md "wikilink")。\[1\]
+**VICTORIA DOCKSIDE （維港文化匯）**
+位於[香港](../Page/香港.md "wikilink")[九龍](../Page/九龍.md "wikilink")[尖沙咀](../Page/尖沙咀.md "wikilink")[梳士巴利道](../Page/梳士巴利道.md "wikilink")18號，毗鄰[梳士巴利花園](../Page/梳士巴利花園.md "wikilink")、[香港藝術館](../Page/香港藝術館.md "wikilink")、[星光大道和](../Page/星光大道_\(香港\).md "wikilink")[香港太空館](../Page/香港太空館.md "wikilink")，是位於尖沙咀核心地段的綜合型發展項目，總樓面面積達300萬平方呎，預計於2019年全面啟用。項目的第一期[K11
+ATELIER已於](../Page/K11_ATELIER.md "wikilink")2018年4月底正式開幕，銳意將該區發展成國際級創意藝術設計新地標。VICTORIA
+DOCKSIDE前身為於1978年12月建成的[新世界中心](../Page/新世界中心.md "wikilink")，是全港首個集合[商場](../Page/商場.md "wikilink")、[酒店及](../Page/酒店.md "wikilink")[服務式住宅為一的綜合商住區](https://zh.wikipedia.org/wiki/服務式住宅 "wikilink")，在八、九十年代一度成為文化藝術及時尚潮人的集中地，其後於1997年建成地下商場——[名店城](../Page/名店城.md "wikilink")，兩者均於2009年至2011年被拆卸，於2012年年底起分階段重建，VICTORIA
+DOCKSIDE耗資200億港元，2019年全面落成啟用後建築面積達32萬平方米，包括藝術、設計及消閒體驗，為[新世界發展目前規模最龐大的項目](../Page/新世界發展.md "wikilink")。\[1\]
 
-項目在2017年正式公佈名稱之前的中文官方名稱為「維港文化匯」，而在2019年1月首次在[星光大道內向遊客展示的](https://zh.wikipedia.org/wiki/星光大道 "wikilink")[新世界發展官方街道圖亦有寫上項目的中文名稱](../Page/新世界發展.md "wikilink")「維港文化匯」以及該項目內各建築物的中文名稱。值得一提的是，港鐵尖東站J出口原本命為「Victoria
-Dockside」，但及後發展商向港鐵提供項目中文名稱，所以港鐵在2019年6月將J出口更名為「維港文化匯」（英文名稱不變）。但該發展商及項目的官方網站和社交媒體，以及媒體的報道，從來沒有提及過項目的中文名稱。
+## 命名
+
+2017年5月25日，新世界集團公佈新世界中心重建項目將改名為「Victoria
+Dockside」。「Victoria」代表香港維多利亞港；「Dockside」就意指地址前身為藍煙囪碼頭。
+
+而項目在2017年正式公佈名稱時並沒有中文官方名稱，但在2019年1月首次在[星光大道內向遊客展示的](https://zh.wikipedia.org/wiki/星光大道 "wikilink")[新世界發展官方街道圖及指示牌寫上項目的中文名稱](../Page/新世界發展.md "wikilink")「維港文化匯」以及該項目內各建築物的中文名稱。
+
+值得一提的是，港鐵尖東站J出口原本命為「Victoria
+Dockside」，但及後發展商向港鐵提供項目中文名稱，所以港鐵在2019年6月將J出口更名為「維港文化匯」（英文名稱不變）。不過該發展商及項目的官方網站和社交媒體，以及媒體的報道，從來沒有提及過項目的中文名稱。
+
+直至2019年6月下旬，於VICTORIA
+DOCKSIDE地庫商場內的新指示牌上亦展示項目的中文名稱－－「維港文化匯」，以及項目其他建築物的中文名稱，而且場內所有官方英文指示以及港鐵站J出口的英文名稱亦已換上大寫，由「Victoria
+Dockside」改為「VICTORIA DOCKSIDE」。
+
+[East_TST_Station_Victoria_Dockside.jpg](https://zh.wikipedia.org/wiki/File:East_TST_Station_Victoria_Dockside.jpg "fig:East_TST_Station_Victoria_Dockside.jpg")
+
+[VICTORIA_DOCKSIDE_NEW_BOARD.jpg](https://zh.wikipedia.org/wiki/File:VICTORIA_DOCKSIDE_NEW_BOARD.jpg "fig:VICTORIA_DOCKSIDE_NEW_BOARD.jpg")
+
+[VICTORIA_DOCKSIDE_DIRECTORY.jpg](https://zh.wikipedia.org/wiki/File:VICTORIA_DOCKSIDE_DIRECTORY.jpg "fig:VICTORIA_DOCKSIDE_DIRECTORY.jpg")
 
 ## 沿革
 
@@ -25,7 +42,7 @@ Dockside」，但及後發展商向港鐵提供項目中文名稱，所以港鐵
 2017年第一季，台灣金融機構[台北富邦銀行洽租](https://zh.wikipedia.org/wiki/台北富邦銀行 "wikilink")16樓\[6\]。
 
 2017年5月，項目主樓已基本完工，但商埸及服務式住宅部分仍在建造。同月25日，[新世界集團公佈新世界中心重建項目將改名為](https://zh.wikipedia.org/wiki/新世界集團 "wikilink")「Victoria
-Dockside」。「Victoria」代表香港[維多利亞港](../Page/維多利亞港.md "wikilink")；「Dockside」就意指地址前身為[藍煙囪碼頭](https://zh.wikipedia.org/wiki/藍煙囪碼頭 "wikilink")。\[7\]其中寫字樓部分連同新世界發展轄下其他重點項目寫字樓一併命名為「K11
+Dockside」。「Victoria」代表香港[維多利亞港](../Page/維多利亞港.md "wikilink")；「Dockside」就意指地址前身為[藍煙囪碼頭](https://zh.wikipedia.org/wiki/藍煙囪碼頭 "wikilink")。\[7\]，後來改為為全大寫。其中寫字樓部分連同新世界發展轄下其他重點項目寫字樓一併命名為「K11
 ATELIER」。
 
 2018年4月26日，第一期正式開幕。\[8\]
@@ -37,37 +54,37 @@ K11辦公大樓（英文名稱為**K11
 ATELIER**）為寫字樓部分，總面積達435,156平方呎，佔整座物業15層（7-21樓），直至2017年11月，已出租70%面積\[9\]；而剩餘未租出面積，發展商將繼續傾向以全層租賃方式出租，主要租予金融機構。K11
 ATELIER在2017年第四季開始交付使用，並於同年11月29日正式啟用。[台北富邦銀行香港分行已在](https://zh.wikipedia.org/wiki/台北富邦銀行 "wikilink")11月13日遷入16樓。另外，瑞穗銀行及瑞穗證券目前亦已遷入10-15樓。\[10\]8樓全層設27,500平方呎的跨國共享工作間。寫字樓部分於2018年尾間悉數租出。大堂由日本室內設計公司Simplicity設計，裝修運用天然木材紋理，並設有咖啡室Ideaology。
 
-## K11 MUSEA
+## K11人文購物藝術館
 
-商場名為**K11
-MUSEA**，名字靈感來自古希臘神話主司文學、科學、藝術以及知識泉源的繆斯女神。商場樓高10層，將在2019年第三季開幕。場內將匯聚多個國際品牌，當中不少為首度進駐香港、以全新概念登場的限定店及旗艦店。場外近梳士巴利道位置設2,000平方呎的下沉圓形露天廣場，廣場設有動態水幕牆，並裝上噴霧系統。上方設有25呎高的巨型LED屏幕，可作放映電影或舉行現場音樂會。而外牆為全球最大的綠化牆之一。
+商場名為**K11人文購物藝術館**（英文名稱為**K11
+MUSEA**），名字靈感來自古希臘神話主司文學、科學、藝術以及知識泉源的繆斯女神。商場樓高10層，將在2019年第三季開幕。場內將匯聚多個國際品牌，當中不少為首度進駐香港、以全新概念登場的限定店及旗艦店。場外近梳士巴利道位置設2,000平方呎的下沉圓形露天廣場，廣場設有動態水幕牆，並裝上噴霧系統。上方設有25呎高的巨型LED屏幕，可作放映電影或舉行現場音樂會。而外牆為全球最大的綠化牆之一。
 
 場內亦揉合文化、商業、住宅、酒店及親子空間，並提供一系列藝術及設計課程。
 
-## K11 ARTUS
+## K11寓館
 
-服務式住宅名為**K11
-ARTUS**（原中文名稱為**K11寓館**），樓高14層、設287個單位，提供開放式至3房間格，於2019年夏季開幕。其中園景則由曼谷園藝設計公司
+服務式住宅名為**K11寓館**（英文名稱為**K11
+ARTUS**），樓高14層、設287個單位，提供開放式至3房間格，於2019年夏季開幕。其中園景則由曼谷園藝設計公司
 P Landscape（PLA）負責，室內設計由香港建築師Andre
 Fu及其設計團隊AFSO負責。住客對象以中國富豪及外籍高級行政人員為主。2019年5月，一個面積1,284平方呎望海的兩房單位，以14.5萬元租出，成為全港最貴租的兩房單位。\[11\]
 
 ## 香港瑰麗酒店
 
-香港瑰麗酒店（英文名稱為**Rosewood
-Hotel**），開幕日期由2018年9月延至2019年3月17日開幕，佔27層（24-40樓），提供413間客房、八家餐廳及酒廊、健身中心、游泳池。
+**香港瑰麗酒店**（英文名稱為**Rosewood Hotel Hong
+Kong**），開幕日期由2018年9月延至2019年3月17日開幕，佔27層（24-40樓），提供413間客房、八家餐廳及酒廊、健身中心、游泳池。
 
 酒店亦設11個活動場地，室內和室外總面積達33,880平方呎，包括宴會大禮堂和四樓「麗府」，並設可飽覽維港美景的戶外草坪、7間會議廳和1,990平方呎附設私人露台的尊尚套房。
 
-## 瑰麗府邸
+## 香港瑰麗府邸
 
-瑰麗府邸（英文名稱為**Rosewood
-Residences**）為服務式住宅，位於大樓最高的19層（43-54樓和58-65樓），將設有186間豪華客房。設休閒酒廊、室內游泳池、健身中心及多項尊貴服務。
+**香港瑰麗府邸**（英文名稱為**Rosewood Residences Hong
+Kong**）為服務式住宅，位於大樓最高的19層（43-54樓和58-65樓），將設有186間豪華客房。設休閒酒廊、室內游泳池、健身中心及多項尊貴服務。
 
 ## 建築配置
 
 下列僅列出主樓的樓層配置。
 
-| Victoria Dockside主樓樓層配置表 |
+| VICTORIA DOCKSIDE主樓樓層配置表 |
 | ------------------------ |
 |                          |
 | 樓層                       |
@@ -185,7 +202,7 @@ Site View 201508.jpg|2015年8月 New World Centre Remodeling Site View
 
 新世界中心重建項目被指欠缺透明度，新世界集團到2017年即將竣工時才對外公開規劃佈局及概念圖。而活化尖沙咀[星光大道計劃的文件中](https://zh.wikipedia.org/wiki/星光大道 "wikilink")，亦刻意將重建項目位置完全清空。讓外界質疑政府有意協助新世界製造無敵大海景，為未來新項目締造無形的經濟效益。\[17\]
 
-## 参考文献
+## 參考文獻
 
 ## 外部連結
 

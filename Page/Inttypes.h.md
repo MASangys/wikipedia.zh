@@ -2,9 +2,34 @@
 
 ## 宏
 
-下述定义的宏用于`stdint.h`中定义的各种位宽的整形在格式化输入输出时的格式标志。
+下述定义的宏用于`stdint.h`中定义的各种位宽的整形在格式化输入/输出时的格式标志。
 
-下列符号末尾的斜体*N*表示整型的位宽。d、i表示有符号整型；u表示无符号整型；o表示8进制无符号整型；x、X表示16进制无符号整型。LEAST、FAST、MAX表示`stdint.h`中定义的整数类型。PTR表示指针类型。
+  - 前3个字符：
+      - PRI 用于printf format
+      - SCN 用于scanf format
+  - 第4个字符
+      - x 用于hexadecimal formatting
+      - u 用于unsigned formatting
+      - o 用于octal formatting
+      - i 用于integer formatting
+      - d 用于decimal formatting
+  - 其他字符
+      - 8 用于eight bit
+      - 16 用于sixteen bit
+      - 32 用于thirty-two bit
+      - 64 用于sixty-four bit
+      - FAST8 用于"fast" eight bit
+      - FAST16 用于"fast" sixteen bit
+      - FAST32 用于"fast" thirty-two bit
+      - FAST64 用于"fast" sixty-four bit
+      - LEAST8 用于"least" eight bit
+      - LEAST16 用于"least" sixteen bit
+      - LEAST32 用于"least" thirty-two bit
+      - LEAST64 用于"least" sixty-four bit
+      - PTR 用于指针
+      - MAX 用于maximum supported bit size
+
+下列符号末尾的斜体*N*表示整型的位宽8、16、32、64等。
 
 例如PRIdFAST32可用于作为打印输出int_fast32_t整型的格式标志。
 

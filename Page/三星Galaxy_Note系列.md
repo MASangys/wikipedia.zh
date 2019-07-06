@@ -1,9 +1,11 @@
 **三星Galaxy
-Note系列**是由[三星電子旗下的](../Page/三星電子.md "wikilink")[三星Galaxy系列所分拆成的旗舰级](../Page/三星Galaxy.md "wikilink")[平板手机和](../Page/平板手机.md "wikilink")[平板电脑系列](https://zh.wikipedia.org/wiki/平板电脑 "wikilink")。本系列及[三星Galaxy
+Note系列**是由[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[三星電子旗下的](../Page/三星電子.md "wikilink")[三星Galaxy系列所分拆成的旗舰级](../Page/三星Galaxy.md "wikilink")[平板手机和](../Page/平板手机.md "wikilink")[平板电脑系列](https://zh.wikipedia.org/wiki/平板电脑 "wikilink")。本系列及[三星Galaxy
 S系列均定位爲](../Page/三星Galaxy_S系列.md "wikilink")[三星Galaxy中的旗艦級手機](../Page/三星Galaxy.md "wikilink")，與[三星Galaxy
-S系列不同的是](../Page/三星Galaxy_S系列.md "wikilink")，本系列手機屏幕較大，且機身帶有 S-pen。由
-[三星Galaxy Note 7/FE](../Page/三星Galaxy_Note_7.md "wikilink")
-開始，本系列的所有手機型號均支持虹膜辨識。
+S系列不同的是](../Page/三星Galaxy_S系列.md "wikilink")，本系列手機屏幕較大，且機身帶有
+S-pen。由[三星Galaxy Note
+7/FE開始](../Page/三星Galaxy_Note_7.md "wikilink")，本系列的所有手機型號均支持虹膜辨識，但[Galaxy
+Note
+10系列取消這項功能](https://zh.wikipedia.org/wiki/三星Galaxy_Note_10 "wikilink")。
 
 ## 旗下產品
 
@@ -33,6 +35,10 @@ S系列不同的是](../Page/三星Galaxy_S系列.md "wikilink")，本系列手�
   - [Samsung Galaxy
     Note8](../Page/三星Galaxy_Note_8.md "wikilink")（2017）\[10\]
   - [Samsung Galaxy Note9](../Page/三星Galaxy_Note_9.md "wikilink")（2018）
+  - [Samsung Galaxy
+    Note10](https://zh.wikipedia.org/wiki/三星Galaxy_Note_10 "wikilink")（2019）
+  - [Samsung Galaxy
+    Note10+](https://zh.wikipedia.org/wiki/三星Galaxy_Note_10 "wikilink")（2019）
 
 ### 平板電腦
 

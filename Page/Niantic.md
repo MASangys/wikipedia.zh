@@ -22,8 +22,7 @@ Inc.后](https://zh.wikipedia.org/wiki/Alphabet_Inc. "wikilink")，Niantic也宣
     《[Pokémon
     GO](https://zh.wikipedia.org/wiki/Pokémon_GO "wikilink")》，為一智慧手機之擴增實境遊戲。
   - 2016年7月6日，《Pokémon GO》在澳大利亚和新西兰正式发售。
-  - 2017年11月9日，Niantic与[華納兄弟互動娛樂宣布合作开发](../Page/華納兄弟互動娛樂.md "wikilink")《Harry
-    Potter: Wizards Unite》\[12\]
+  - 2019年6月22日，Niantic与[華納兄弟互動娛樂合作開發的](../Page/華納兄弟互動娛樂.md "wikilink")《[哈利波特：巫師聯盟](../Page/哈利波特：巫师联盟.md "wikilink")》正式推出\[12\]
   - 未来，Niantic Labs将会随一套书籍和电影推出新游戏Endgame: Ancient Truth。\[13\]
 
 ## 参考资料

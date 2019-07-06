@@ -159,6 +159,8 @@ EXILE](https://zh.wikipedia.org/wiki/THE_SECOND_from_EXILE "wikilink")」的成�
 [Category:熊本縣出身人物](https://zh.wikipedia.org/wiki/Category:熊本縣出身人物 "wikilink")
 [Category:日裔混血兒](https://zh.wikipedia.org/wiki/Category:日裔混血兒 "wikilink")
 [Category:非洲裔混血兒](https://zh.wikipedia.org/wiki/Category:非洲裔混血兒 "wikilink")
+[Category:LDH所屬藝人](https://zh.wikipedia.org/wiki/Category:LDH所屬藝人 "wikilink")
+[Category:非洲裔日本人](https://zh.wikipedia.org/wiki/Category:非洲裔日本人 "wikilink")
 
 1.
 2.  『[月刊EXILE](../Page/月刊EXILE.md "wikilink")』2012年12月号 P143より

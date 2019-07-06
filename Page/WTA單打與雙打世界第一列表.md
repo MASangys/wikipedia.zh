@@ -937,10 +937,20 @@
 <td><p>| </p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/西莫娜·哈莉普" title="wikilink">西莫娜·哈莉普</a> (3) *</p></td>
 <td><p>2018年2月26日</p></td>
-<td><p>至今</p></td>
+<td></td>
 <td><p>16</p></td>
 <td><p><strong>32</strong></p></td>
 <td></td>
+</tr>
+<tr class="even">
+<td><center>
+<p>27</p></td>
+<td></td>
+<td><p><a href="../Page/阿什莉·巴蒂.md" title="wikilink">阿什莉·巴蒂</a></p></td>
+<td><p>2019年6月23日</p></td>
+<td><p>至今</p></td>
+<td><p>1</p></td>
+<td><p><strong>1</strong></p></td>
 </tr>
 </tbody>
 </table>

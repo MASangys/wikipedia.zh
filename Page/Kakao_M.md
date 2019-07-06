@@ -349,9 +349,12 @@ Playground for Music and You” 。\[12\]\[13\]
 
 ## [E\&T Story娛樂](https://zh.wikipedia.org/wiki/E&T_Story娛樂 "wikilink")
 
-  - 韓語：이앤티스토리
-  - 2017年建立
-  - [金所炫](https://zh.wikipedia.org/wiki/金所炫 "wikilink")
+  - 韓語：이앤티스토리 엔터테인먼트
+  - 2018年建立
+
+### 演員
+
+  - [金所泫](../Page/金所泫.md "wikilink")
 
 ## 其他相關公司
 

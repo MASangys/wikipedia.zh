@@ -413,12 +413,15 @@ You](../Page/Eyes_On_You.md "wikilink")》之後的第三張，讓GOT7成為韓�
 6月15、16連續兩日，GOT7首度唱進[首爾奧林匹克體操競技場](https://zh.wikipedia.org/wiki/首爾奧林匹克體操競技場 "wikilink")，為2019年世界巡演「KEEP
 SPINNING」拉開了華麗的序幕。本次演唱會與[Make-A-Wish基金會韓國分部合作啟動](../Page/願望成真基金.md "wikilink")「KEEP
 SPINNING，KEEP DREAMING with
-GOT7」專案，為全世界罕見疾病兒童的夢想應援。GOT7邀請患病兒童和家屬觀賞首爾演唱會，實現海外病童想要見到GOT7的夢想，也爲患病的孩子提供勇氣和力量，具有社會意義\[110\]。
+GOT7」專案，為全世界罕見疾病兒童的夢想應援。GOT7邀請患病兒童和家屬觀賞首爾演唱會，實現海外病童想要見到GOT7的夢想，也爲患病的孩子提供勇氣和力量，具有社會意義\[110\]。6月底，GOT7前往北美繼續世巡行程。6月26日，他們成為第一個登上美國全國電視網「[NBC](https://zh.wikipedia.org/wiki/全國廣播公司 "wikilink")」知名晨間節目《[Today
+Show](../Page/今天_\(NBC\).md "wikilink")》的韓國團體，表演特別準備的《ECLIPSE》英文版舞台，同時接受紐約直播節目《BUILD
+Series》專訪，並時隔一年重返紐約「FOX5頻道」晨間新聞節目《Good Day New York》，顯示海外的高人氣\[111\]。
 
 **日語迷你四輯LOVE LOOP**
 
-6月7日，官方宣佈將於2019年7月31日發行第四張日語迷你專輯《LOVE LOOP》，並發佈專輯封面照片和將7月進行的日本巡演定名為《GOT7
-Japan Tour 2019 "Our Loop"》\[111\]。
+6月7日，官方宣布7月31日發行第四張日語迷你專輯《[LOVE
+LOOP](../Page/LOVE_LOOP.md "wikilink")》並公開專輯封面照，同時將7月日本巡演定名為《GOT7
+Japan Tour 2019 "Our Loop"》\[112\]。日本時間6月26日0時，公開主打歌《LOVE LOOP》MV。
 
 ## 音樂作品
 
@@ -692,16 +695,37 @@ Japan Tour 2019 "Our Loop"》\[111\]。
 <td><p>5</p></td>
 </tr>
 <tr class="even">
-<td><p>6月17日-</p></td>
-<td><p>STARK、U+ Idol Live</p></td>
-<td><p>GOT7 of Golden Key</p></td>
-<td><p>播出中</p></td>
+<td><p>3月28日-4月25日</p></td>
+<td><p>Youtube</p></td>
+<td><p>[GOT7 TOURGRAPH] WORLD TOUR 'EYES ON YOU'</p></td>
+<td><p>7</p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>5月26日-6月8日</p></td>
+<td><p>Youtube、V LIVE</p></td>
+<td><p>GOT7 MONOGRAPH "SPINNING TOP : BETWEEN SECURITY &amp; INSECURITY"</p></td>
+<td><p>4</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>5月28日- 6月20日</p></td>
+<td><p>Youtube、V LIVE</p></td>
+<td><p>GOT7_PAGE</p></td>
+<td><p>22</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>6月17日- 現在</p></td>
+<td><p>STARK、U+ Idol Live</p></td>
+<td><p>GOT7 of Golden Key</p></td>
 <td></td>
 <td></td>
-<td></td>
+</tr>
+<tr class="even">
+<td><p>7月1日- 現在</p></td>
+<td><p>Vlive、YouTube</p></td>
+<td><p>GOT2day 2019</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -808,23 +832,23 @@ Japan Tour 2019 "Our Loop"》\[111\]。
 
 | 年份                                                        | 廣告名稱                                                                         | 代言地區                                                    | 合作藝人 |
 | --------------------------------------------------------- | ---------------------------------------------------------------------------- | ------------------------------------------------------- | ---- |
-| 2014年                                                     | Black Yak Walk Fit運動鞋\[112\]                                                 | 韓國                                                      |      |
+| 2014年                                                     | Black Yak Walk Fit運動鞋\[113\]                                                 | 韓國                                                      |      |
 | Natuur POP冰淇淋                                             |                                                                              |                                                         |      |
-| Smart 校服\[113\]                                           | [B1A4](../Page/B1A4.md "wikilink")、[CLC](../Page/CLC.md "wikilink")          |                                                         |      |
+| Smart 校服\[114\]                                           | [B1A4](../Page/B1A4.md "wikilink")、[CLC](../Page/CLC.md "wikilink")          |                                                         |      |
 | J.ESTINA友情戒指                                              |                                                                              |                                                         |      |
-| 2016年                                                     | NBA Style 2016春夏服飾\[114\]                                                    | [TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink") |      |
-| NBA Style 2016秋冬服飾\[115\]                                 |                                                                              |                                                         |      |
-| Bausch + Lomb 博士倫隱形眼鏡\[116\]                              | 泰國                                                                           |                                                         |      |
-| CGV Combo 合作活動\[117\]                                     | 韓國                                                                           |                                                         |      |
-| 2016-18年                                                  | It'S SKIN 韓系保養品\[118\]                                                       | 全球                                                      |      |
-| est 可樂\[119\]                                             | 泰國                                                                           |                                                         |      |
-| 2017-19年                                                  | 潮流前線\[120\]                                                                  | 中國                                                      |      |
-| 2017-18年                                                  | 小老板海苔\[121\]                                                                 | 泰國                                                      |      |
-| [FWD保險](../Page/富衛.md "wikilink")\[122\]                  |                                                                              |                                                         |      |
-| 2018年                                                     | [愛迪達Originals品牌全球大使](https://zh.wikipedia.org/wiki/adidas "wikilink")\[123\] | 韓國                                                      |      |
-| 2018-19年                                                  | 韓國消防廳宣傳大使\[124\]                                                             | 韓國                                                      |      |
-| [新世界免稅店](../Page/新世界百貨_\(韓國\).md "wikilink")\[125\]       |                                                                              |                                                         |      |
-| [THE FACE SHOP 韓系保養彩妝](../Page/菲詩小舖.md "wikilink")\[126\] | 全球                                                                           |                                                         |      |
+| 2016年                                                     | NBA Style 2016春夏服飾\[115\]                                                    | [TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink") |      |
+| NBA Style 2016秋冬服飾\[116\]                                 |                                                                              |                                                         |      |
+| Bausch + Lomb 博士倫隱形眼鏡\[117\]                              | 泰國                                                                           |                                                         |      |
+| CGV Combo 合作活動\[118\]                                     | 韓國                                                                           |                                                         |      |
+| 2016-18年                                                  | It'S SKIN 韓系保養品\[119\]                                                       | 全球                                                      |      |
+| est 可樂\[120\]                                             | 泰國                                                                           |                                                         |      |
+| 2017-19年                                                  | 潮流前線\[121\]                                                                  | 中國                                                      |      |
+| 2017-18年                                                  | 小老板海苔\[122\]                                                                 | 泰國                                                      |      |
+| [FWD保險](../Page/富衛.md "wikilink")\[123\]                  |                                                                              |                                                         |      |
+| 2018年                                                     | [愛迪達Originals品牌全球大使](https://zh.wikipedia.org/wiki/adidas "wikilink")\[124\] | 韓國                                                      |      |
+| 2018-19年                                                  | 韓國消防廳宣傳大使\[125\]                                                             | 韓國                                                      |      |
+| [新世界免稅店](../Page/新世界百貨_\(韓國\).md "wikilink")\[126\]       |                                                                              |                                                         |      |
+| [THE FACE SHOP 韓系保養彩妝](../Page/菲詩小舖.md "wikilink")\[127\] | 全球                                                                           |                                                         |      |
 
 ## 演唱會及其他演出
 
@@ -1006,7 +1030,7 @@ Japan Tour 2019 "Our Loop"》\[111\]。
 | 2017年4月20日                                               | 悉尼站       | Luna Park, Big Top                                        |
 | 2017年4月21日                                               | 布里斯班站     | Royal International Convention Centre                     |
 | 2017年4月23日                                               | 墨爾本站      | The Plenary, Melbourne (MCEC)                             |
-| 2017年4月24日                                               | 伯斯站       | Riverside Theatre, Perth Exhibition and Convention Centre |
+| 2017年4月24日                                               | 珀斯站       | Riverside Theatre, Perth Exhibition and Convention Centre |
 | 2017年7月1日                                                | 香港站       | Asia World Expo Arena                                     |
 | GOT7 ♥ I GOT7 MINI FANMEETING <YOU ARE MY BABY BIRD>     |           |                                                           |
 | 2017年10月21日                                              | 首爾站       | Woori Financial Art Hall                                  |
@@ -1849,3 +1873,5 @@ MBC 上岩洞 新社屋</p></td>
 125.
 
 126.
+
+127.

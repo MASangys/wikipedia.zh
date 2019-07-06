@@ -1,5 +1,6 @@
-《**Do You Ever Shine？**》是臺灣樂團[五月天為日劇](../Page/五月天.md "wikilink")《[Bitter
-Blood](../Page/Bitter_Blood.md "wikilink")》演唱的主題曲，由主唱[阿信作曲](../Page/陳信宏.md "wikilink")、[日本知名製作人](../Page/日本.md "wikilink")[小林武史作詞](../Page/小林武史.md "wikilink")，分為英文（戲劇版）及日文兩種版本。實體單曲分為初回限定盤（CD+DVD）及通常盤（CD）形式推出，是五月天在日本正式出道的第一張日文單曲，2014年6月4日於日本正式發行。
+《**Do You Ever
+Shine？**》是臺灣樂團[五月天的首張](../Page/五月天.md "wikilink")[日文單曲](https://zh.wikipedia.org/wiki/日文 "wikilink")，也是日劇《[Bitter
+Blood](../Page/Bitter_Blood.md "wikilink")》的主題曲，由主唱[阿信作曲](../Page/陳信宏.md "wikilink")、[日本知名製作人](../Page/日本.md "wikilink")[小林武史作詞](../Page/小林武史.md "wikilink")，分為英文（戲劇版）及日文兩種版本。實體單曲分為初回限定盤（CD+DVD）及通常盤（CD）形式推出，是五月天在日本正式出道的第一張日文單曲，2014年6月4日於日本正式發行。
 
 ## 收录内容
 

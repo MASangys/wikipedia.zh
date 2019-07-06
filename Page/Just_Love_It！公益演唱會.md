@@ -1,5 +1,5 @@
 《**Just Love
-It！公益演唱會**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[五月天所舉辦的公益演唱會](../Page/五月天.md "wikilink")，2012年3月3日於[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[國立台灣體育運動大學台中校址田徑場揭開](https://zh.wikipedia.org/wiki/國立台灣體育運動大學 "wikilink")
+It！公益演唱會**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[五月天所舉辦的公益演唱會](../Page/五月天.md "wikilink")，首次於2012年3月3日於[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[國立台灣體育運動大學台中校址田徑場舉行](https://zh.wikipedia.org/wiki/國立台灣體育運動大學 "wikilink")。
 
 ## 場次
 

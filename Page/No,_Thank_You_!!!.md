@@ -1,5 +1,5 @@
 《**No, Thank You
-\!\!\!**》是日本公司Parade於2013年6月28日發售的[成人](../Page/日本成人遊戲.md "wikilink")[BL](https://zh.wikipedia.org/wiki/BL "wikilink")[視覺小說](https://zh.wikipedia.org/wiki/視覺小說 "wikilink")\[1\]，2014年8月29日發售通常版\[2\]。英語版由發售\[3\]\[4\]\[5\]。
+\!\!\!**》是日本公司Parade於2013年6月28日發售的[成人](../Page/日本成人遊戲.md "wikilink")[BL](https://zh.wikipedia.org/wiki/BL "wikilink")[視覺小說](https://zh.wikipedia.org/wiki/視覺小說 "wikilink")\[1\]，2014年8月29日發售通常版\[2\]。英語版由[MangaGamer發售](../Page/MangaGamer.md "wikilink")\[3\]\[4\]\[5\]。
 
 ## 參考資料
 

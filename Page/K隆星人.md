@@ -405,7 +405,7 @@ Land》的讀者投稿產生，設定為K隆軍特殊部隊、實驗部隊出身
 **Sababa**（　配音：[佐佐木望](../Page/佐佐木望.md "wikilink")）
 
   -
-    在動畫版220集登場，身體是砂礫構成的古代人造K隆星人。額頭和肚子上的記號是一個類似盤旋的蛇圖案，右手裝備鉤丁，能製造砂分身、吸收生物會巨大化。[古埃及時期封印在金字塔裡](https://zh.wikipedia.org/wiki/古埃及 "wikilink")，[Keroro無意間踩到地板的開關](../Page/Keroro.md "wikilink")、釋放Sababa出來。[Sababa並以](https://zh.wikipedia.org/wiki/Sababa "wikilink")[Keroro為主人](../Page/Keroro.md "wikilink")，之後[Keroro要求Sababa建造自己的獅身人面及金字塔](../Page/Keroro.md "wikilink")，Sababa卻建造自己以示反叛，此時冬樹發現了Sababa的秘密，卻不小心被Sababa吸進體內，不過已成功瓦解Sababa並拿到核心，後來被封印在沙漏裡成[556的杯麵計時器](https://zh.wikipedia.org/wiki/556 "wikilink")。
+    在動畫版220集登場，身體是砂礫構成的古代人造K隆星人。額頭和肚子上的記號是一個類似盤旋的蛇圖案，右手裝備鉤丁，能製造砂分身、吸收生物會巨大化。[古埃及時期封印在金字塔裡](../Page/古埃及.md "wikilink")，[Keroro無意間踩到地板的開關](../Page/Keroro.md "wikilink")、釋放Sababa出來。[Sababa並以](https://zh.wikipedia.org/wiki/Sababa "wikilink")[Keroro為主人](../Page/Keroro.md "wikilink")，之後[Keroro要求Sababa建造自己的獅身人面及金字塔](../Page/Keroro.md "wikilink")，Sababa卻建造自己以示反叛，此時冬樹發現了Sababa的秘密，卻不小心被Sababa吸進體內，不過已成功瓦解Sababa並拿到核心，後來被封印在沙漏裡成[556的杯麵計時器](https://zh.wikipedia.org/wiki/556 "wikilink")。
 
 **Meruru**（　配音：日本→[松岡由貴](../Page/松岡由貴.md "wikilink")；香港→[黃紫嫻](https://zh.wikipedia.org/wiki/黃紫嫻 "wikilink")）
 

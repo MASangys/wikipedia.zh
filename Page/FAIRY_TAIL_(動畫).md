@@ -3665,6 +3665,26 @@ Kim Ki Yeob</p></td>
 <td><p>314</p></td>
 <td></td>
 <td><p>極限附加術</p></td>
+<td><p>志茂文彦</p></td>
+<td><p>鈴木勇士</p></td>
+<td><p>岡部實、岡垣優<br />
+</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>315</p></td>
+<td></td>
+<td><p>是龍還是惡魔</p></td>
+<td><p>米村正二</p></td>
+<td><p>橋本直人</p></td>
+<td><p>森本由布希、正木優太<br />
+森悦史</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>316</p></td>
+<td></td>
+<td><p>格雷的王牌</p></td>
 <td></td>
 <td></td>
 <td></td>

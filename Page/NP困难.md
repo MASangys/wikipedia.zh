@@ -5,7 +5,7 @@
 **NP困难**（**NP-hardness**, non-deterministic polynomial-time
 hardness）问题是[计算复杂性理论中最重要的](https://zh.wikipedia.org/wiki/计算复杂性理论 "wikilink")[复杂性类之一](../Page/复杂性类.md "wikilink")。如果所有[NP问题都可以](../Page/NP_\(複雜度\).md "wikilink")[多项式时间归约到某个问题](https://zh.wikipedia.org/wiki/多项式时间归约 "wikilink")，则称该问题为NP困难。
 
-因为NP困难问题未必可以在多项式的时间内验证一个解的正确性（即不一定是NP问题），因此即使[NP完全问题有多项式时间的解](../Page/NP完全.md "wikilink")（[P=NP](https://zh.wikipedia.org/wiki/P/NP问题#P=NP "wikilink")），NP困难问题依然可能没有多项式时间的解。因此NP困难问题“至少与NP完全问题一样难”。
+因为NP困难问题未必可以在[多项式时间内验证一个解的正确性](https://zh.wikipedia.org/wiki/多项式时间 "wikilink")（即不一定是NP问题），因此即使[NP完全问题有多项式时间的解](../Page/NP完全.md "wikilink")（[P=NP](https://zh.wikipedia.org/wiki/P/NP问题#P=NP "wikilink")），NP困难问题依然可能没有多项式时间的解。因此NP困难问题“至少与NP完全问题一样难”。
 
 ## 参见
 

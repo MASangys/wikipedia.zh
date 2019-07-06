@@ -34,7 +34,7 @@ Channel”（）的主持人是二人搞笑組合[「香蕉人」](../Page/香�
 ## 轉播媒體
 
   - [NHK綜合頻道](../Page/NHK綜合頻道.md "wikilink")
-  - [NHK廣播第1頻率](https://zh.wikipedia.org/wiki/NHK廣播第1頻率 "wikilink")
+  - [NHK廣播第1頻率](../Page/NHK廣播第1頻率.md "wikilink")
   - [日本国际广播](../Page/日本国际广播电台.md "wikilink")
   - [NHK世界台](../Page/NHK_World_Premium.md "wikilink")
   - [緯來日本台](../Page/緯來日本台.md "wikilink")：2015年1月3日下午6點，以[繁体中文](https://zh.wikipedia.org/wiki/繁体中文 "wikilink")[字幕播出](../Page/字幕.md "wikilink")。

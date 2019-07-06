@@ -154,7 +154,7 @@ Core進行回歸舞台](https://zh.wikipedia.org/wiki/Music_Core "wikilink")。�
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/金導慪" title="wikilink">導慪</a><br />
-（舊名亨坤）</p></td>
+（舊名<strong>亨坤</strong>）</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/孟允永" title="wikilink">允永</a></p></td>
@@ -175,7 +175,8 @@ Core進行回歸舞台](https://zh.wikipedia.org/wiki/Music_Core "wikilink")。�
 <td><p><a href="https://zh.wikipedia.org/wiki/徐在亨" title="wikilink">在亨</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/文智厚" title="wikilink">智厚</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/文智厚" title="wikilink">智厚</a><br />
+（舊名<strong>孝準</strong>）</p></td>
 </tr>
 </tbody>
 </table>

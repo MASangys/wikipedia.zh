@@ -1,5 +1,5 @@
 **S.M. The
-Performance**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SM娛樂限定企劃組合](../Page/SM娛樂.md "wikilink")，成員包括[瑜鹵允浩](../Page/鄭允浩.md "wikilink")、[銀赫](../Page/銀赫.md "wikilink")、[東海](../Page/東海_\(藝人\).md "wikilink")、[Lay](../Page/張藝興.md "wikilink")、[珉豪](../Page/珉豪.md "wikilink")、[泰民](../Page/泰民.md "wikilink")、[Kai](../Page/Kai.md "wikilink")、[Ten](../Page/Ten_\(歌手\).md "wikilink")。組合集結了旗下當紅男子組合中的舞蹈精英，是為了2012年12月29日[SBS歌謠大戰而組成的最強舞蹈組合](../Page/SBS_\(韓國\).md "wikilink")。
+Performance**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SM娛樂](../Page/SM娛樂.md "wikilink")[限定企劃組合](https://zh.wikipedia.org/wiki/限定企劃組合 "wikilink")，成員包括[瑜鹵允浩](../Page/鄭允浩.md "wikilink")、[銀赫](../Page/銀赫.md "wikilink")、[東海](../Page/東海_\(藝人\).md "wikilink")、[Lay](../Page/張藝興.md "wikilink")、[珉豪](../Page/珉豪.md "wikilink")、[泰民](../Page/泰民.md "wikilink")、[Kai](../Page/Kai.md "wikilink")、[Ten](../Page/Ten_\(歌手\).md "wikilink")。組合集結了旗下當紅男子組合中的舞蹈精英，是為了2012年12月29日[SBS歌謠大戰而組成的最強舞蹈組合](../Page/SBS_\(韓國\).md "wikilink")。
 
 2017年，[SM娛樂宣布重啟](../Page/SM娛樂.md "wikilink")**S.M. The
 Performance**企劃，並加入[NCT成員](../Page/NCT.md "wikilink")[Ten作為新成員](../Page/Ten_\(歌手\).md "wikilink")\[1\]。
@@ -146,6 +146,7 @@ Performance**企劃，並加入[NCT成員](../Page/NCT.md "wikilink")[Ten作為�
 [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
 [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
 [Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink")
+[Category:期間限定團體](https://zh.wikipedia.org/wiki/Category:期間限定團體 "wikilink")
 
 1.  [NCT's Ten releases 'Dream In A Dream' for 'SM Station'
     season 2](http://www.allkpop.com/article/2017/04/ncts-ten-releases-dream-in-a-dream-for-sm-station-season-2)

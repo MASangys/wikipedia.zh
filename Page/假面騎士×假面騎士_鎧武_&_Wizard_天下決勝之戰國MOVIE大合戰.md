@@ -144,7 +144,7 @@
     街舞團體「鎧武隊」成員。
     常在隊伍中製造氣氛而成為亮點，有時會因任意妄為的舉動導致受傷。
 
-**Zack（）**（[松田岳飾](https://zh.wikipedia.org/wiki/:ja:松田岳_\(俳優\) "wikilink")）
+**Zack（）**（飾）
 
   -
     **假面騎士納高爾**的變身者。
@@ -576,7 +576,7 @@ Fourze鎧甲</p></td>
 <!-- end list -->
 
   - \* **[食人魔](../Page/食人魔.md "wikilink")（）** （替身演員：、CV：）
-    :宿主為大須賀的魅影。使用長劍作武器；左肩長出的口部可舌食其他魅影並化作自身的能力使用，已具有[巴力西卜](../Page/巴力西卜.md "wikilink")、進化體、[彌諾陶洛斯](https://zh.wikipedia.org/wiki/彌諾陶洛斯 "wikilink")、[美杜莎及](../Page/美杜莎.md "wikilink")[雷吉翁的能力](https://zh.wikipedia.org/wiki/:ja:レギオン "wikilink")。
+    :宿主為大須賀的魅影。使用長劍作武器；左肩長出的口部可舌食其他魅影並化作自身的能力使用，已具有[巴力西卜](../Page/巴力西卜.md "wikilink")、進化體、[彌諾陶洛斯](https://zh.wikipedia.org/wiki/彌諾陶洛斯 "wikilink")、[美杜莎及](../Page/美杜莎.md "wikilink")的能力。
     \* **卡巴克魯（）**
 
       -
@@ -756,9 +756,7 @@ Fourze鎧甲</p></td>
   - Chucky - [津山香音](https://zh.wikipedia.org/wiki/津山香音 "wikilink") 飾
   - Rika -  飾
   - Rat - [小澤廉](https://zh.wikipedia.org/wiki/小澤廉 "wikilink") 飾
-  - Zack -
-    [松田岳](https://zh.wikipedia.org/wiki/:ja:松田岳_\(俳優\) "wikilink")
-    飾
+  - Zack - 松田岳 飾
   - Peco -  飾
   - 初瀬亮二 / 假面騎士黑影 -  飾/聲
   - 城乃内秀保 / 假面騎士古列頓 -  飾/聲

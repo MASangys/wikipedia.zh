@@ -44,6 +44,7 @@ Snapchat已经获得了超过6000万美元的[风险投资](../Page/风险投资
 [Category:2011年建立](https://zh.wikipedia.org/wiki/Category:2011年建立 "wikilink")
 [Category:斯坦福大学](https://zh.wikipedia.org/wiki/Category:斯坦福大学 "wikilink")
 [Category:被防火长城封锁的网站](https://zh.wikipedia.org/wiki/Category:被防火长城封锁的网站 "wikilink")
+[Category:图片分享网站](https://zh.wikipedia.org/wiki/Category:图片分享网站 "wikilink")
 
 1.
 

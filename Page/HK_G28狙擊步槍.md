@@ -202,6 +202,8 @@ Range）、L3-Insight被動紅外觀察裝置（CNVD-T3）、[激光測距儀](h
 
   -   - [葡萄牙武裝部隊](https://zh.wikipedia.org/wiki/葡萄牙軍事 "wikilink")（標準型）\[17\]
 
+  -   - 特別安全部隊
+
   -   - [憲兵特別行動司令部](https://zh.wikipedia.org/wiki/憲兵特別行動司令部 "wikilink")（標準型）
 
   -   - [偵察傘兵突擊隊](https://zh.wikipedia.org/wiki/偵察傘兵突擊隊 "wikilink")（巡邏型、標準型）

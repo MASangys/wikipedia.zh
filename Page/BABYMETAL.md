@@ -43,7 +43,7 @@ Store搖滾音樂專輯下載榜排行前十名](https://zh.wikipedia.org/wiki/i
 
 3月，在[日本武道館舉行連續兩天專場公演](../Page/日本武道館.md "wikilink")\[58\]，共計吸引二萬人入場，以平均14.7歲的年齡更新女藝人出演武道館最年少的紀錄\[59\]。首日公演雖發生跌落2米舞台及跌傷事故，成員仍敬業繼續完成演出\[60\]。第二日公演結束之際，透過螢幕影片宣布樂團將開始海外巡迴活動\[61\]。4月3日，美國YouTube娛樂頻道「Fine
 Brothers
-Entertainment」上傳一段美國人在看見BABYMETAL音樂影像後發出驚訝反應的影片\[62\]，吸引超過1600萬人瀏覽\[63\]。
+Entertainment」上傳一段美國人在看見BABYMETAL音樂影像後發出驚訝反應的影片\[62\]，吸引超過1900萬人瀏覽\[63\]。
 
 ### 金屬抗爭第二章
 
@@ -568,7 +568,7 @@ BABYMETAL已收到許多音樂圈內的公開支持，如：
   - <small>「殭屍鬼才」[羅伯·殭屍](../Page/羅伯·殭屍.md "wikilink")</small>
   - <small>搖滾樂團[大人物貝斯手](https://zh.wikipedia.org/wiki/大人物合唱團 "wikilink")
     [比利·席漢](https://zh.wikipedia.org/wiki/比利·席漢 "wikilink")</small>
-  - <small>搖滾樂團 </small>
+  - <small>搖滾樂團 [廉價把戲](../Page/廉價把戲.md "wikilink")</small>
   - <small>流行歌手 </small>
   - <small>流行歌手
     [亞莉安娜·格蘭德](https://zh.wikipedia.org/wiki/亞莉安娜·格蘭德 "wikilink")</small>

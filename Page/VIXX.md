@@ -1,4 +1,4 @@
-**VIXX**（；）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Jellyfish娛樂於](../Page/Jellyfish娛樂.md "wikilink")2012年所推出的六人男子團體，由[N](https://zh.wikipedia.org/wiki/N_\(韓國歌手\) "wikilink")、[LEO](https://zh.wikipedia.org/wiki/鄭澤運 "wikilink")、[KEN](../Page/李宰焕.md "wikilink")、[RAVI](https://zh.wikipedia.org/wiki/金元植 "wikilink")、[HONGBIN](../Page/李弘彬.md "wikilink")、[HYUK六名成員組成](https://zh.wikipedia.org/wiki/韓相爀 "wikilink")。
+**VIXX**（；）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Jellyfish娛樂於](../Page/Jellyfish娛樂.md "wikilink")2012年所推出的六人男子團體，由[N](https://zh.wikipedia.org/wiki/N_\(韓國歌手\) "wikilink")、[LEO](https://zh.wikipedia.org/wiki/鄭澤運 "wikilink")、[KEN](../Page/李宰焕.md "wikilink")、[RAVI](../Page/金元植.md "wikilink")、[HONGBIN](../Page/李弘彬.md "wikilink")、[HYUK六名成員組成](https://zh.wikipedia.org/wiki/韓相爀 "wikilink")。
 
 團名寓意「Voice, Visual, Value In
 Excelsis」，代表最佳的聲音，視覺和價值，寓意要成為歌壇的最佳。出道前粉絲就已破千人，有「霸道之聲」的美譽。出道前透過[Mnet實境節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《Mydol》紀錄練習生生活，並於2012年5月24日在《[M\!
@@ -65,7 +65,7 @@ Joo發行歌曲Let This Die；N、Leo、Ravi出演徐仁國的Shake It Up；Hong
   - 3月-5月，舉行第二次單獨演唱會*VIXX LIVE FANTASIA
     \[UTOPIA\]*並且在南韓、日本、菲律濱、新加坡等地進行巡迴演出。
   - 7月7日在中國大陸的音樂平台QQ與台灣KKBOX上發佈了《ERROR》的中文版單曲。
-  - 8月7日，在官方Youtube頻道發布預告，片段中播放成員Leo和Ravi在演唱會的片段，最後二人名字的首字母融為一體，正式宣布團體出道以來首個子團誕生，子團成員為[Leo及](https://zh.wikipedia.org/wiki/鄭澤運 "wikilink")[Ravi](https://zh.wikipedia.org/wiki/金元植 "wikilink")，名為*[VIXX
+  - 8月7日，在官方Youtube頻道發布預告，片段中播放成員Leo和Ravi在演唱會的片段，最後二人名字的首字母融為一體，正式宣布團體出道以來首個子團誕生，子團成員為[Leo及](https://zh.wikipedia.org/wiki/鄭澤運 "wikilink")[Ravi](../Page/金元植.md "wikilink")，名為*[VIXX
     LR](../Page/VIXX_LR.md "wikilink")*。
   - 8月17日，正式發佈[VIXX LR首張迷你專輯](../Page/VIXX_LR.md "wikilink")《[Beautiful
     Liar](../Page/Beautiful_Liar_\(迷你專輯\).md "wikilink")》，同名主打歌《Beautiful
@@ -138,7 +138,7 @@ Joo發行歌曲Let This Die；N、Leo、Ravi出演徐仁國的Shake It Up；Hong
 | [N](https://zh.wikipedia.org/wiki/N_\(韓國歌手\) "wikilink") |
 | [LEO](https://zh.wikipedia.org/wiki/鄭澤運 "wikilink")      |
 | [KEN](../Page/李宰焕.md "wikilink")                         |
-| [RAVI](https://zh.wikipedia.org/wiki/金元植 "wikilink")     |
+| [RAVI](../Page/金元植.md "wikilink")                        |
 | [HONGBIN](../Page/李弘彬.md "wikilink")                     |
 | [HYUK](https://zh.wikipedia.org/wiki/韓相爀 "wikilink")     |
 
@@ -164,12 +164,11 @@ Joo發行歌曲Let This Die；N、Leo、Ravi出演徐仁國的Shake It Up；Hong
     Liar](../Page/Beautiful_Liar_\(迷你專輯\).md "wikilink")（[VIXX
     LR](../Page/VIXX_LR.md "wikilink")）
   - 2016年：[Kratos](../Page/Kratos_\(VIXX迷你專輯\).md "wikilink")
-  - 2017年：R.EAL1ZE（[RAVI](https://zh.wikipedia.org/wiki/金元植 "wikilink")）
+  - 2017年：R.EAL1ZE（[RAVI](../Page/金元植.md "wikilink")）
   - 2017年：[桃源境](../Page/桃源境.md "wikilink")
   - 2017年：Whisper（[VIXX LR](../Page/VIXX_LR.md "wikilink")）
   - 2018年：CANVAS（[LEO](https://zh.wikipedia.org/wiki/鄭澤運 "wikilink")）
-  - 2019年：R.OOK
-    BOOK（[RAVI](https://zh.wikipedia.org/wiki/金元植 "wikilink")）
+  - 2019年：R.OOK BOOK（[RAVI](../Page/金元植.md "wikilink")）
 
 #### 單曲專輯
 
@@ -183,16 +182,15 @@ Joo發行歌曲Let This Die；N、Leo、Ravi出演徐仁國的Shake It Up；Hong
 
 #### 混音帶
 
-  - 2016年：R.EBIRTH（[RAVI](https://zh.wikipedia.org/wiki/金元植 "wikilink")）
-  - 2018年：NIRVANA（[RAVI](https://zh.wikipedia.org/wiki/金元植 "wikilink")）
-  - 2018年：K1TCHEN（[RAVI](https://zh.wikipedia.org/wiki/金元植 "wikilink")）
+  - 2016年：R.EBIRTH（[RAVI](../Page/金元植.md "wikilink")）
+  - 2018年：NIRVANA（[RAVI](../Page/金元植.md "wikilink")）
+  - 2018年：K1TCHEN（[RAVI](../Page/金元植.md "wikilink")）
 
 #### 數位單曲
 
   - 2019年：Boy with a
     Star（[HYUK](https://zh.wikipedia.org/wiki/韓相爀 "wikilink")）
-  - 2019年：live
-    (Feat.청하)（[RAVI](https://zh.wikipedia.org/wiki/金元植 "wikilink")）
+  - 2019年：live (Feat.청하)（[RAVI](../Page/金元植.md "wikilink")）
 
 ### 日語作品
 

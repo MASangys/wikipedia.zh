@@ -277,4 +277,4 @@ TIME](../Page/柏木由紀的YUKIRIN_TIME.md "wikilink")」（2012年10月6日 -
 
 [Category:AKB48](https://zh.wikipedia.org/wiki/Category:AKB48 "wikilink")
 [Category:東日本大震災慈善活動](https://zh.wikipedia.org/wiki/Category:東日本大震災慈善活動 "wikilink")
-[Category:日本廣播節目](https://zh.wikipedia.org/wiki/Category:日本廣播節目 "wikilink")
+[Category:FM東京的廣播節目](https://zh.wikipedia.org/wiki/Category:FM東京的廣播節目 "wikilink")

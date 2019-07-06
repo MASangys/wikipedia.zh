@@ -1,4 +1,4 @@
-**PeoPo公民新聞**是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[公共電視文化事業基金會於](https://zh.wikipedia.org/wiki/公共電視文化事業基金會 "wikilink")2007年4月30日成立的[公民新聞平台](https://zh.wikipedia.org/wiki/公民新聞 "wikilink")，為台灣第一個公民自主影音新聞平台，開台時口號為「你的小故事，我的大新聞」。相類似的著名平台機制有[南韓的](https://zh.wikipedia.org/wiki/南韓 "wikilink")[OhmyNews及](../Page/OhmyNews.md "wikilink")[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[有線電視新聞網的](https://zh.wikipedia.org/wiki/有線電視新聞網 "wikilink")[CNN
+**PeoPo公民新聞**是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[公共電視文化事業基金會於](../Page/公共電視文化事業基金會.md "wikilink")2007年4月30日成立的[公民新聞平台](https://zh.wikipedia.org/wiki/公民新聞 "wikilink")，為台灣第一個公民自主影音新聞平台，開台時口號為「你的小故事，我的大新聞」。相類似的著名平台機制有[南韓的](https://zh.wikipedia.org/wiki/南韓 "wikilink")[OhmyNews及](../Page/OhmyNews.md "wikilink")[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[有線電視新聞網的](https://zh.wikipedia.org/wiki/有線電視新聞網 "wikilink")[CNN
 iReport等](https://zh.wikipedia.org/wiki/CNN_iReport "wikilink")\[1\]。
 
 ## 定位

@@ -8,7 +8,9 @@
 Casting System而進入公司成為練習生。當練習生的時間大約為五年
 ，是EXO第五位公開的成員，同時公佈藝名為*世勳*，亦屬於[EXO-K小分隊](../Page/EXO-K.md "wikilink")。在[EXO和](../Page/EXO.md "wikilink")[EXO-K裡排行老么](../Page/EXO-K.md "wikilink")，是年紀最小的成員，即忙內擔當。2012年4月8日以男子組合[EXO一員出道](../Page/EXO.md "wikilink")。因出眾的時尚感聞名。
 
-## 出道後
+## 演藝經歷
+
+### 2012年至今：戲劇發展、EXO-SC
 
 2015年10月12日世勳出席於首爾江南區林蔭路舉辦的EXR旗艦店開幕活動\[2\]。
 
@@ -24,13 +26,17 @@ League
 Baseball旗艦店開幕活動。5月4日，世勳首檔固定綜藝節目《[犯人就是你](https://zh.wikipedia.org/wiki/犯人就是你 "wikilink")》於[Netflix開始播出](../Page/Netflix.md "wikilink")\[9\]。5月，世勳確定將出演樂天免稅店網絡劇《女神締造者》並擔任男主角之一\[10\]。9月7日，世勳主演的網絡電影《獨孤Rewind》上映，世勳在電影中飾演男主角姜赫\[11\]。同年9月，世勳與[陳偉霆共同擔任義大利頂級男裝品牌Ermenegildo](../Page/陳偉霆.md "wikilink")
 Zegna XXX系列服飾的品牌全球形象代言人\[12\]。
 
+2019年6月28日，[SM娛樂宣佈世勳將與](../Page/SM娛樂.md "wikilink")[燦烈組成EXO第二個小分隊](../Page/Chanyeol.md "wikilink")[EXO-SC並將於](../Page/EXO-SC.md "wikilink")7月22日發行首張迷你專輯《What
+a life》出道\[13\]。7月2日，世勳成為泰國海苔品牌《Tao Kae
+Noi（小老闆）》代言人。消息一公開，**\#TaokaenoiXSehun**便占據熱搜\[14\]。
+
 ## 國際評價
 
 2017年3月，世勳受邀出席於[巴黎舉辦的](../Page/巴黎.md "wikilink")「2017[路易威登秋冬時裝秀](../Page/路易威登.md "wikilink")」時，獲[VOGUE美國版評選為](https://zh.wikipedia.org/wiki/时尚_\(杂志\) "wikilink")“Best
-Dressed Man”，贏得國際媒體盛讚。\[13\]
+Dressed Man”，贏得國際媒體盛讚。\[15\]
 
 2018年5月，世勳再次出席於巴黎舉辦的「2019[路易威登早春秀](../Page/路易威登.md "wikilink")」，並再次獲Vogue選為“Best
-Dressed Man”。\[14\]
+Dressed Man”。\[16\]
 
 ## 學歷
 
@@ -73,7 +79,7 @@ Dressed Man”。\[14\]
 |           |                  |    |    |      |
 | --------- | ---------------- | -- | -- | ---- |
 | 上映日期      | 電影名稱             | 角色 | 性質 | 備註   |
-| 2018年9月7日 | 《獨孤Rewind》\[15\] | 姜赫 | 主角 | 網絡電影 |
+| 2018年9月7日 | 《獨孤Rewind》\[17\] | 姜赫 | 主角 | 網絡電影 |
 | 待上映       | 《我愛喵星人》          | 梁渠 |    |      |
 
 ### 電視劇
@@ -118,26 +124,26 @@ Dressed Man”。\[14\]
 | 年份    | 期數               | 發行地區                                                                            | 雜志名稱                                                                                                | 備注                                                                                                    |
 | 2012年 | 1月刊              |                                                                                 | 韓國                                                                                                  | W Live                                                                                                |
 | 6月刊   |                  | Vogue Girl                                                                      | 與[Baekhyun](https://zh.wikipedia.org/wiki/Baekhyun "wikilink")、Kai                                  |                                                                                                       |
-| 2014年 | 2月刊              |                                                                                 | The Celebrity                                                                                       | \[16\]                                                                                                |
-| 3月刊   |                  | 與Baekhyun、[黃子韜](../Page/黃子韜.md "wikilink")、[湯唯](../Page/汤唯.md "wikilink")\[17\] |                                                                                                     |                                                                                                       |
+| 2014年 | 2月刊              |                                                                                 | The Celebrity                                                                                       | \[18\]                                                                                                |
+| 3月刊   |                  | 與Baekhyun、[黃子韜](../Page/黃子韜.md "wikilink")、[湯唯](../Page/汤唯.md "wikilink")\[19\] |                                                                                                     |                                                                                                       |
 | 8月刊   |                  | GRAZIA                                                                          | 與Kai                                                                                                |                                                                                                       |
-| 9月刊   |                  | 香港                                                                              | ELLE MEN                                                                                            | 與[Chanyeol](../Page/Chanyeol.md "wikilink")、[Lay](https://zh.wikipedia.org/wiki/Lay "wikilink")\[18\] |
+| 9月刊   |                  | 香港                                                                              | ELLE MEN                                                                                            | 與[Chanyeol](../Page/Chanyeol.md "wikilink")、[Lay](https://zh.wikipedia.org/wiki/Lay "wikilink")\[20\] |
 | 2015年 | 8月刊              |                                                                                 | 韓國                                                                                                  | Ceci                                                                                                  |
-| 12月刊  |                  | Vogue                                                                           | 與[Suho](../Page/Suho.md "wikilink")、Kai、[Chen](https://zh.wikipedia.org/wiki/Chen "wikilink")\[19\] |                                                                                                       |
-| 2016年 | 2月刊              |                                                                                 | Ceci                                                                                                | 與[Irene](https://zh.wikipedia.org/wiki/裴柱現 "wikilink")\[20\]                                          |
-| 11月刊  |                  | 日本                                                                              | Vivi                                                                                                | \[21\]                                                                                                |
+| 12月刊  |                  | Vogue                                                                           | 與[Suho](../Page/Suho.md "wikilink")、Kai、[Chen](https://zh.wikipedia.org/wiki/Chen "wikilink")\[21\] |                                                                                                       |
+| 2016年 | 2月刊              |                                                                                 | Ceci                                                                                                | 與[Irene](https://zh.wikipedia.org/wiki/裴柱現 "wikilink")\[22\]                                          |
+| 11月刊  |                  | 日本                                                                              | Vivi                                                                                                | \[23\]                                                                                                |
 | 2017年 | 1月刊              | 開年刊                                                                             | 韓國                                                                                                  | Vogue                                                                                                 |
-| 3月刊   |                  | 泰國                                                                              | L'Optimum                                                                                           | 3封面\[22\]                                                                                             |
-| 7月刊   |                  | 韓國                                                                              | Marie Claire                                                                                        | 封面\[23\]                                                                                              |
-| 7月刊   | 全球版              | 加拿大                                                                             | TOM Magazine                                                                                        | 封面\[24\]                                                                                              |
+| 3月刊   |                  | 泰國                                                                              | L'Optimum                                                                                           | 3封面\[24\]                                                                                             |
+| 7月刊   |                  | 韓國                                                                              | Marie Claire                                                                                        | 封面\[25\]                                                                                              |
+| 7月刊   | 全球版              | 加拿大                                                                             | TOM Magazine                                                                                        | 封面\[26\]                                                                                              |
 | 8月刊   | 創刊號              | 中國                                                                              | SuperELLE                                                                                           | 封面                                                                                                    |
 | 12月刊  | 壓軸刊              | 韓國                                                                              | 1st Look Vol.145                                                                                    | 封面                                                                                                    |
 | 2018年 | 1月刊              | 開年刊                                                                             | Leon                                                                                                | 封面                                                                                                    |
 | 8月刊   | 週年刊              | Vogue Korea                                                                     | 6封面                                                                                                 |                                                                                                       |
-| 9月刊   | 金九               | 內頁\[25\]                                                                        |                                                                                                     |                                                                                                       |
-| 10月刊  | 銀十               | Arena Homme+                                                                    | 2封面\[26\]                                                                                           |                                                                                                       |
+| 9月刊   | 金九               | 內頁\[27\]                                                                        |                                                                                                     |                                                                                                       |
+| 10月刊  | 銀十               | Arena Homme+                                                                    | 2封面\[28\]                                                                                           |                                                                                                       |
 | 2019年 | 3月刊              |                                                                                 | 中國                                                                                                  | Rouge Fashion Book Issue 4                                                                            |
-| 開季刊   | Madame Figaro中文版 | 封面\[27\]                                                                        |                                                                                                     |                                                                                                       |
+| 開季刊   | Madame Figaro中文版 | 封面\[29\]                                                                        |                                                                                                     |                                                                                                       |
 | 4月刊   |                  | 時尚COSMO                                                                         | 封面                                                                                                  |                                                                                                       |
 | 7月刊   |                  | 韓國                                                                              | W Korea                                                                                             | 與Chanyeol、封面                                                                                          |
 
@@ -158,7 +164,8 @@ Dressed Man”。\[14\]
 |       |                         |                                  |
 | ----- | ----------------------- | -------------------------------- |
 | 年份    | 產品名稱                    | 合作藝人                             |
-| 2018年 | Ermenegildo Zegna\[28\] | [陳偉霆](../Page/陳偉霆.md "wikilink") |
+| 2018年 | Ermenegildo Zegna\[30\] | [陳偉霆](../Page/陳偉霆.md "wikilink") |
+| 2019年 | Tao Kae Noi（小老闆）        |                                  |
 
 ## 獎項
 
@@ -210,7 +217,7 @@ Dressed Man”。\[14\]
 </tr>
 <tr class="odd">
 <td><p>2019年</p></td>
-<td><p>14th Annual Soompi Awards[29]</p></td>
+<td><p>14th Annual Soompi Awards[31]</p></td>
 <td><p>Best Idol Actor</p></td>
 <td><p>《獨孤Rewind》</p></td>
 <td></td>
@@ -230,9 +237,9 @@ Dressed Man”。\[14\]
 |                                                   |                           |
 | ------------------------------------------------- | ------------------------- |
 | 年份                                                | 獲獎項目                      |
-| 2016年                                             | K-Pop一百張最帥面孔 第5名\[30\]    |
+| 2016年                                             | K-Pop一百張最帥面孔 第5名\[32\]    |
 | 2017年                                             | TC Candler全球100張最帥面孔 第9名  |
-| 2017 Instagram Awards - 2017 Top 5 Accounts\[31\] |                           |
+| 2017 Instagram Awards - 2017 Top 5 Accounts\[33\] |                           |
 | 2018年                                             | TC Candler全球100張最帥面孔 第15名 |
 
 ## 參考資料
@@ -281,10 +288,10 @@ Dressed Man”。\[14\]
 11.
 12.
 13.
+
 14.
 
 15.
-
 16.
 
 17.
@@ -316,3 +323,7 @@ Dressed Man”。\[14\]
 30.
 
 31.
+
+32.
+
+33.

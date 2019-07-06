@@ -1,4 +1,4 @@
-《**HKT48的炸牛蒡！**》（）是一個[西日本電視台於](https://zh.wikipedia.org/wiki/西日本電視台 "wikilink")2014年5月24日開播的[綜藝節目](../Page/綜藝節目.md "wikilink")，是以[福岡為活動據點的女子](../Page/福岡市.md "wikilink")[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[HKT48的冠名節目之一](../Page/HKT48.md "wikilink")。於每週六中午12時播出半個小時的此節目是HKT48第一個常態性的日間冠名節目，由福岡當地的[搞笑藝人雙人組](https://zh.wikipedia.org/wiki/搞笑藝人 "wikilink")（）主持。
+《**HKT48的炸牛蒡！**》（）是一個[西日本電視台於](https://zh.wikipedia.org/wiki/西日本電視台 "wikilink")2014年5月24日至2016年3月27日播出的[綜藝節目](../Page/綜藝節目.md "wikilink")，是以[福岡為活動據點的女子](../Page/福岡市.md "wikilink")[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[HKT48的冠名節目之一](../Page/HKT48.md "wikilink")。於每週六中午12時播出半個小時的此節目是HKT48第一個常態性的日間冠名節目，由福岡當地的[搞笑藝人雙人組](https://zh.wikipedia.org/wiki/搞笑藝人 "wikilink")（）主持。
 
 ## 簡介
 

@@ -211,7 +211,7 @@ turbocharged system），並附中冷器。受限於引擎室緊湊的空間，�
 
 #### EJ20H型
 
-[Subaru_EJ20TT.jpg](https://zh.wikipedia.org/wiki/File:Subaru_EJ20TT.jpg "fig:Subaru_EJ20TT.jpg")
+[Subaru_EJ20G.jpg](https://zh.wikipedia.org/wiki/File:Subaru_EJ20G.jpg "fig:Subaru_EJ20G.jpg")
 最大馬力為250ps / 6,500rpm，最大扭力則是31.5kg·m /
 5,000rpm。兩顆大小不同的渦輪增壓器置於引擎附近，低中轉速時排氣集中於主渦輪，等到超過轉速4,000rpm便開始改由副渦輪增壓。車型：
 

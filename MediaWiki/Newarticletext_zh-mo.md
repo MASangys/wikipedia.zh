@@ -1,7 +1,7 @@
 <div class="plainlinks" id="newarticletext" style="margin-bottom: 5px; border: 1px solid #cccccc; padding: 7px; font-size: 95%;">
 
 {{\#ifeq:|User
-talk|**沒有消息**發送給這個用戶。|**維基百科目前還沒有名為「」的{{\#switch:|Category=[分類](https://zh.wikipedia.org/wiki/Wikipedia:分類 "wikilink")|Help=[幫助頁面](https://zh.wikipedia.org/wiki/Help:目錄 "wikilink")|Image=[圖像](https://zh.wikipedia.org/wiki/Wikipedia:圖像 "wikilink")|MediaWiki=[MediaWiki頁面](https://zh.wikipedia.org/wiki/Wikipedia:MediaWiki名字空間 "wikilink")|Portal=[主題](https://zh.wikipedia.org/wiki/Wikipedia:主題 "wikilink")|Template=[模板](https://zh.wikipedia.org/wiki/Wikipedia:模板 "wikilink")|User=[用戶頁](https://zh.wikipedia.org/wiki/Wikipedia:用戶頁 "wikilink")|Wikipedia=維基百科頁面|Talk=[討論頁](https://zh.wikipedia.org/wiki/Wikipedia:討論頁 "wikilink")|Category
+talk|**沒有訊息**傳送給這個用戶。|**維基百科目前還沒有名為「」的{{\#switch:|Category=[分類](https://zh.wikipedia.org/wiki/Wikipedia:分類 "wikilink")|Help=[幫助頁面](https://zh.wikipedia.org/wiki/Help:目錄 "wikilink")|Image=[圖像](https://zh.wikipedia.org/wiki/Wikipedia:圖像 "wikilink")|MediaWiki=[MediaWiki頁面](https://zh.wikipedia.org/wiki/Wikipedia:MediaWiki命名空間 "wikilink")|Portal=[主題](https://zh.wikipedia.org/wiki/Wikipedia:主題 "wikilink")|Template=[模板](https://zh.wikipedia.org/wiki/Wikipedia:模板 "wikilink")|User=[用戶頁](https://zh.wikipedia.org/wiki/Wikipedia:用戶頁 "wikilink")|Wikipedia=維基百科頁面|Talk=[討論頁](https://zh.wikipedia.org/wiki/Wikipedia:討論頁 "wikilink")|Category
 talk=[討論頁](https://zh.wikipedia.org/wiki/Wikipedia:討論頁 "wikilink")|Help
 talk=[討論頁](https://zh.wikipedia.org/wiki/Wikipedia:討論頁 "wikilink")|Image
 talk=[討論頁](https://zh.wikipedia.org/wiki/Wikipedia:討論頁 "wikilink")|MediaWiki
@@ -9,29 +9,29 @@ talk=[討論頁](https://zh.wikipedia.org/wiki/Wikipedia:討論頁 "wikilink")|P
 talk=[討論頁](https://zh.wikipedia.org/wiki/Wikipedia:討論頁 "wikilink")|Template
 talk=[討論頁](https://zh.wikipedia.org/wiki/Wikipedia:討論頁 "wikilink")|Wikipedia
 talk=[討論頁](https://zh.wikipedia.org/wiki/Wikipedia:討論頁 "wikilink")|條目}}。**
-{{\#switch:|={{\#switch:|Category=為避免重複，請瀏覽[頁面分類後再創建此頁](https://zh.wikipedia.org/wiki/Wikipedia:頁面分類 "wikilink")。|Help=為避免重複，請瀏覽[現存的幫助頁面後再創建此頁](https://zh.wikipedia.org/wiki/Help:目錄 "wikilink")。|Image=請不要手工創建這個頁面。如果您上載的圖像叫做**，請參看[Wikipedia:圖像使用守則](https://zh.wikipedia.org/wiki/Wikipedia:圖像使用守則 "wikilink")。|MediaWiki=|Portal=請瀏覽[現存主題查找類似的主題](https://zh.wikipedia.org/wiki/wikipedia:主題 "wikilink")。建立一個新的主題，請參看[Wikipedia:主題上的指引](https://zh.wikipedia.org/wiki/Wikipedia:主題 "wikilink")。|Template=為避免重複，請瀏覽[現存模板後再創建此頁](https://zh.wikipedia.org/wiki/Wikipedia:頁面模板 "wikilink")。|User=一般來說，這個頁面應該由[User:創建和編輯](https://zh.wikipedia.org/wiki/User:{{PAGENAME}} "wikilink")。如果中文維基百科根本不存在這位註冊用戶，請不要創建。|Wikipedia=在您創建之前，請確定本頁面內容與中文維基百科的方針、政策、指引或者站務有關。|Talk=在創建這個頁面之前，請檢查是否存在一個叫做[的頁面](https://zh.wikipedia.org/wiki/{{PAGENAME}} "wikilink")。|Category
-talk=在您創建一個新的對話[子頁面之前](https://zh.wikipedia.org/wiki/Wikipedia:子頁面 "wikilink")，請檢查是否存在一個叫做[:category:的頁面](https://zh.wikipedia.org/wiki/Category:{{PAGENAME}} "wikilink")。|Help
-talk=在您創建一個新的對話[子頁面之前](https://zh.wikipedia.org/wiki/Wikipedia:子頁面 "wikilink")，請檢查是否存在一個叫做[help:的頁面](https://zh.wikipedia.org/wiki/help:{{PAGENAME}} "wikilink")。|Image
-talk=在您創建一個新的對話[子頁面之前](https://zh.wikipedia.org/wiki/Wikipedia:子頁面 "wikilink")，請檢查是否存在一個叫做[:File:的頁面](https://zh.wikipedia.org/wiki/:File:{{PAGENAME}} "wikilink")。|MediaWiki
-talk=在您創建一個新的對話[子頁面之前](https://zh.wikipedia.org/wiki/Wikipedia:子頁面 "wikilink")，請檢查是否存在一個叫做[mediawiki:的頁面](https://zh.wikipedia.org/wiki/mediawiki:{{PAGENAME}} "wikilink")。|Portal
-talk=在您創建一個新的對話[子頁面之前](https://zh.wikipedia.org/wiki/Wikipedia:子頁面 "wikilink")，請檢查是否存在一個叫做[Portal:的頁面](https://zh.wikipedia.org/wiki/Portal:{{PAGENAME}} "wikilink")。|Template
-talk=在您創建一個新的對話[子頁面之前](https://zh.wikipedia.org/wiki/Wikipedia:子頁面 "wikilink")，請檢查是否存在一個叫做[template:的頁面](https://zh.wikipedia.org/wiki/template:{{PAGENAME}} "wikilink")。|Wikipedia
-talk=在您創建一個新的對話[子頁面之前](https://zh.wikipedia.org/wiki/Wikipedia:子頁面 "wikilink")，請檢查是否存在一個叫做[wikipedia:的頁面](https://zh.wikipedia.org/wiki/wikipedia:{{PAGENAME}} "wikilink")。|請在創建這個頁面之前先[在維基百科上搜尋「」](https://zh.wikipedia.org/wiki/Special:Search/{{PAGENAME}} "wikilink")，檢查標題是否重複或寫錯。}}|在創建本頁前，請先參看[Wikipedia:子頁面](https://zh.wikipedia.org/wiki/Wikipedia:子頁面 "wikilink")。}}}}
+{{\#switch:|={{\#switch:|Category=為避免重複，請瀏覽[頁面分類後再建立此頁](https://zh.wikipedia.org/wiki/Wikipedia:頁面分類 "wikilink")。|Help=為避免重複，請瀏覽[現存的幫助頁面後再建立此頁](https://zh.wikipedia.org/wiki/Help:目錄 "wikilink")。|Image=請不要手工建立這個頁面。如果您上載的圖像叫做**，請參看[Wikipedia:圖像使用守則](https://zh.wikipedia.org/wiki/Wikipedia:圖像使用守則 "wikilink")。|MediaWiki=|Portal=請瀏覽[現存主題尋找類似的主題](https://zh.wikipedia.org/wiki/wikipedia:主題 "wikilink")。建立一個新的主題，請參看[Wikipedia:主題上的指引](https://zh.wikipedia.org/wiki/Wikipedia:主題 "wikilink")。|Template=為避免重複，請瀏覽[現存模板後再建立此頁](https://zh.wikipedia.org/wiki/Wikipedia:頁面模板 "wikilink")。|User=一般來說，這個頁面應該由[User:建立和編輯](https://zh.wikipedia.org/wiki/User:{{PAGENAME}} "wikilink")。如果中文維基百科根本不存在這位註冊用戶，請不要建立。|Wikipedia=在您建立之前，請確定本頁面內容與中文維基百科的方針、政策、指引或者站務有關。|Talk=在建立這個頁面之前，請檢查是否存在一個叫做[的頁面](https://zh.wikipedia.org/wiki/{{PAGENAME}} "wikilink")。|Category
+talk=在您建立一個新的對話[子頁面之前](https://zh.wikipedia.org/wiki/Wikipedia:子頁面 "wikilink")，請檢查是否存在一個叫做[:category:的頁面](https://zh.wikipedia.org/wiki/Category:{{PAGENAME}} "wikilink")。|Help
+talk=在您建立一個新的對話[子頁面之前](https://zh.wikipedia.org/wiki/Wikipedia:子頁面 "wikilink")，請檢查是否存在一個叫做[help:的頁面](https://zh.wikipedia.org/wiki/help:{{PAGENAME}} "wikilink")。|Image
+talk=在您建立一個新的對話[子頁面之前](https://zh.wikipedia.org/wiki/Wikipedia:子頁面 "wikilink")，請檢查是否存在一個叫做[:File:的頁面](https://zh.wikipedia.org/wiki/:File:{{PAGENAME}} "wikilink")。|MediaWiki
+talk=在您建立一個新的對話[子頁面之前](https://zh.wikipedia.org/wiki/Wikipedia:子頁面 "wikilink")，請檢查是否存在一個叫做[mediawiki:的頁面](https://zh.wikipedia.org/wiki/mediawiki:{{PAGENAME}} "wikilink")。|Portal
+talk=在您建立一個新的對話[子頁面之前](https://zh.wikipedia.org/wiki/Wikipedia:子頁面 "wikilink")，請檢查是否存在一個叫做[Portal:的頁面](https://zh.wikipedia.org/wiki/Portal:{{PAGENAME}} "wikilink")。|Template
+talk=在您建立一個新的對話[子頁面之前](https://zh.wikipedia.org/wiki/Wikipedia:子頁面 "wikilink")，請檢查是否存在一個叫做[template:的頁面](https://zh.wikipedia.org/wiki/template:{{PAGENAME}} "wikilink")。|Wikipedia
+talk=在您建立一個新的對話[子頁面之前](https://zh.wikipedia.org/wiki/Wikipedia:子頁面 "wikilink")，請檢查是否存在一個叫做[wikipedia:的頁面](https://zh.wikipedia.org/wiki/wikipedia:{{PAGENAME}} "wikilink")。|請在建立這個頁面之前先[在維基百科上搜尋「」](https://zh.wikipedia.org/wiki/Special:Search/{{PAGENAME}} "wikilink")，檢查標題是否重複或寫錯。}}|在建立本頁前，請先參看[Wikipedia:子頁面](https://zh.wikipedia.org/wiki/Wikipedia:子頁面 "wikilink")。}}}}
 
-  - <small>請先查找是否具有相應的簡體/繁體版本，相同內容的條目可能已經存在相應的簡體/繁體版本，此時您可以使用[重定向來連接兩個版本](https://zh.wikipedia.org/wiki/Help:重定向 "wikilink")。</small>
-  - <small>要創建該頁面，請在下面的編輯框中輸入內容（詳情參見**[幫助頁面](https://zh.wikipedia.org/wiki/Help:目錄 "wikilink")**）並保存。您添加到維基百科中的內容在保存後將立即生效。</small>
-  - <small>如果您還不十分確定如何編輯頁面，請參見[Wikipedia:如何編輯頁面](https://zh.wikipedia.org/wiki/Wikipedia:如何編輯頁面 "wikilink")，並**在[沙盒中試驗](https://zh.wikipedia.org/wiki/Wikipedia:沙盒 "wikilink")**，**在新建的頁面中提交任何測試的文本都會很快被刪除**。</small>
+  - <small>請先尋找是否具有相應的簡體/繁體版本，相同內容的條目可能已經存在相應的簡體/繁體版本，此時您可以使用[重新導向來連接兩個版本](https://zh.wikipedia.org/wiki/Help:重新導向 "wikilink")。</small>
+  - <small>要建立該頁面，請在下面的編輯框中輸入內容（詳情參見**[幫助頁面](https://zh.wikipedia.org/wiki/Help:目錄 "wikilink")**）並儲存。您添加到維基百科中的內容在儲存後將立即生效。</small>
+  - <small>如果您還不十分確定如何編輯頁面，請參見[Wikipedia:如何編輯頁面](https://zh.wikipedia.org/wiki/Wikipedia:如何編輯頁面 "wikilink")，並**在[沙盒中試驗](https://zh.wikipedia.org/wiki/Wikipedia:沙盒 "wikilink")**，**在新建的頁面中提交任何測試的文字都會很快被刪除**。</small>
   - <small>請不要添加宣傳您自己、或您的公司及朋友的頁面（請參看[Wikipedia:方針與指引](https://zh.wikipedia.org/wiki/Wikipedia:方針與指引 "wikilink")）。</small>
-  - <small><font color="#FF0000">注意：請勿加入受版權保護的文字，**包括從其他網站中轉載的文字**，（請參見[Wikipedia:版權信息和](https://zh.wikipedia.org/wiki/Wikipedia:版權信息 "wikilink")[Wikipedia:簡明版權信息](https://zh.wikipedia.org/wiki/Wikipedia:簡明版權信息 "wikilink")）。謝謝您的合作！</font></small>
+  - <small><font color="#FF0000">注意：請勿加入受著作權保護的文字，**包括從其他網站中轉載的文字**，（請參見[Wikipedia:著作權資訊和](https://zh.wikipedia.org/wiki/Wikipedia:著作權資訊 "wikilink")[Wikipedia:簡明著作權資訊](https://zh.wikipedia.org/wiki/Wikipedia:簡明著作權資訊 "wikilink")）。謝謝您的合作！</font></small>
 
 -----
 
-如果您打算貢獻自由版權的中文字詞解釋、新聞報道、名人語錄、文獻資料、教學資料及原創研究，請分別至[維基詞典](https://zh.wikipedia.org/wiki/wikt: "wikilink")、[維基新聞](https://zh.wikipedia.org/wiki/n: "wikilink")、[維基語錄](https://zh.wikipedia.org/wiki/q: "wikilink")、[維基文庫](https://zh.wikipedia.org/wiki/s: "wikilink")、[維基教科書及](https://zh.wikipedia.org/wiki/b: "wikilink")[維基學院](https://zh.wikipedia.org/wiki/v:首頁 "wikilink")。
+如果您打算貢獻自由著作權的中文字詞解釋、新聞報道、名人語錄、文獻資料、教學資料及原創研究，請分別至[維基詞典](https://zh.wikipedia.org/wiki/wikt: "wikilink")、[維基新聞](https://zh.wikipedia.org/wiki/n: "wikilink")、[維基語錄](https://zh.wikipedia.org/wiki/q: "wikilink")、[維基文庫](https://zh.wikipedia.org/wiki/s: "wikilink")、[維基教科書及](https://zh.wikipedia.org/wiki/b: "wikilink")[維基學院](https://zh.wikipedia.org/wiki/v: "wikilink")。
 
 -----
 
-**[維基百科不是一個廣告服務商](https://zh.wikipedia.org/wiki/WP:NOT "wikilink")。**有關您自己，您的朋友，您的公司或產品的宣傳稿件，或者創建的條目中含有部分推銷或宣傳活動的內容，將會根據我們的[刪除守則而被刪除](https://zh.wikipedia.org/wiki/Wikipedia:刪除守則 "wikilink")。如果您之前曾經創建過相同的頁面，它可能因為某些原因已經被刪除，請參看**\[
-刪除日誌\]**和我們的[刪除守則](https://zh.wikipedia.org/wiki/Wikipedia:刪除守則 "wikilink")。
+**[維基百科不是一個廣告服務商](https://zh.wikipedia.org/wiki/WP:NOT "wikilink")。**有關您自己，您的朋友，您的公司或產品的宣傳稿件，或者建立的條目中含有部分推銷或宣傳活動的內容，將會根據我們的[刪除守則而被刪除](https://zh.wikipedia.org/wiki/Wikipedia:刪除守則 "wikilink")。如果您之前曾經建立過相同的頁面，它可能因為某些原因已經被刪除，請參看**\[
+刪除日誌\]**和我們的[刪除方針](https://zh.wikipedia.org/wiki/Wikipedia:刪除方針 "wikilink")。
 {{\#ifeq:||
 
 -----

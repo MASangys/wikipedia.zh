@@ -201,6 +201,7 @@ UTS-15的外型頗具有科幻色彩，因而同時出現在多隻[电影](../Pa
   - [高標M10](../Page/高標10型半自動霰彈槍.md "wikilink")
   - [HK CAWS](https://zh.wikipedia.org/wiki/黑克勒&科赫HK_CAWS霰彈槍 "wikilink")
   - [Jackhammer](../Page/Jackhammer轉輪式自動霰彈槍.md "wikilink")
+  - [Kel-Tec KS7](../Page/Kel-Tec_KS7泵動式霰彈槍.md "wikilink")
   - [Kel-Tec KSG](../Page/Kel-Tec_KSG泵動式霰彈槍.md "wikilink")
   - [KS-23K](../Page/KS-23霰彈槍.md "wikilink")
   - [莫斯伯格500犢牛式](../Page/莫斯伯格500泵動式霰彈槍.md "wikilink")

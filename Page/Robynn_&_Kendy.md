@@ -1429,6 +1429,14 @@ x I Swear》晉級楊坤組8強。
 <td><p>2019年6月6日</p></td>
 <td><p>牛池灣文娛中心 《HKUSPACE CCSU Singing Contest》</p></td>
 </tr>
+<tr class="odd">
+<td><p>2019年6月22日</p></td>
+<td><p>大館 洗衣場石階《周六階聲作樂》</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年6月30日</p></td>
+<td><p>中環 LOFT22《蘭桂坊Music Lounge音樂空間》</p></td>
+</tr>
 </tbody>
 </table>
 

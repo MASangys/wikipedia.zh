@@ -2,7 +2,7 @@ tvN}}   **tvN Asia**原為tvN Southeast Asia及Channel
 M，針對[亞洲播放的](https://zh.wikipedia.org/wiki/亞洲 "wikilink")[電視頻道](https://zh.wikipedia.org/wiki/電視頻道 "wikilink")，由[Mnet媒體和](../Page/Mnet媒體.md "wikilink")[新闻集团旗下](../Page/新闻集团_\(1979－2013年\).md "wikilink")[星空传媒](https://zh.wikipedia.org/wiki/星空传媒 "wikilink")（现时的[福斯國際電視網](https://zh.wikipedia.org/wiki/福斯國際電視網 "wikilink")）共同創辦，於2009年10月26日開播。该频道提供了各种各样的节目组合，从
 [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")，[Mnet](../Page/Mnet媒體.md "wikilink")，OtvN,
 Champ TV（动画频道），[OCN](https://zh.wikipedia.org/wiki/OCN "wikilink")，DIA
-TV，XTM，SBS MTV，[MBN](../Page/每日广播.md "wikilink")，OLIVE，和
+TV，XtvN，SBS MTV，[MBN](../Page/每日广播.md "wikilink")，OLIVE，和
 [OnStyle](../Page/OnStyle.md "wikilink")。
 
 ## 歷史

@@ -285,14 +285,38 @@ Dynamics大多數時間都花在設計外星人身上，實在忙不過來，於
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/美国作曲家、作家和发行商协会.md" title="wikilink">ASCAP影視音樂大獎</a></p></td>
-<td><p>1999年</p></td>
-<td><p>最佳賣座電影</p></td>
-<td><p>《X檔案：征服未來》</p></td>
+<td></td>
+<td><p>1998年</p></td>
+<td><p>最佳原創配樂——恐怖/驚悚電影</p></td>
+<td></td>
 <td></td>
 <td><p>[124]</p></td>
 </tr>
 <tr class="even">
+<td></td>
+<td><p>最佳音效剪輯——劇情長片</p></td>
+<td><p>蕭恩·加恩哈特（）</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1999年</p></td>
+<td><p>最佳音效剪輯</p></td>
+<td><p>《X檔案：征服未來》</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/美国作曲家、作家和发行商协会.md" title="wikilink">ASCAP影視音樂大獎</a></p></td>
+<td><p>最佳賣座電影</p></td>
+<td><p>《X檔案：征服未來》</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td><p>最受喜愛女演員——科幻類</p></td>
 <td><p><a href="../Page/吉蓮·安德森.md" title="wikilink">吉蓮·安德森</a></p></td>
@@ -300,7 +324,7 @@ Dynamics大多數時間都花在設計外星人身上，實在忙不過來，於
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>——</p></td>
 <td><p>《X檔案：征服未來》</p></td>
@@ -308,7 +332,39 @@ Dynamics大多數時間都花在設計外星人身上，實在忙不過來，於
 <td></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td></td>
+<td><p>最佳混音——劇情長片</p></td>
+<td><p><a href="../Page/安迪·尼尔森.md" title="wikilink">安迪·尼爾森</a>、<a href="../Page/安娜·贝尔默.md" title="wikilink">安娜·贝尔默與</a><a href="../Page/杰弗里·帕特森.md" title="wikilink">杰弗里·帕特森</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 <tr class="even">
+<td><p>線上影視協會獎</p></td>
+<td><p>最佳科幻/奇幻/驚悚電影女主角</p></td>
+<td><p>吉蓮·安德森</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>最佳音樂和原創科幻/奇幻/驚悚電影配樂</p></td>
+<td><p>馬克·史諾與<a href="../Page/麦克·欧菲尔德.md" title="wikilink">麦克·欧菲尔德</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>最佳科幻/奇幻/驚悚電影群戲</p></td>
+<td><p>《X檔案：征服未來》</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><a href="../Page/土星獎.md" title="wikilink">土星獎</a></p></td>
 <td></td>
 <td><p><a href="../Page/土星獎最佳科幻電影.md" title="wikilink">最佳科幻電影</a></p></td>
@@ -316,7 +372,7 @@ Dynamics大多數時間都花在設計外星人身上，實在忙不過來，於
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/土星獎最佳電影男主角.md" title="wikilink">最佳男主角</a></p></td>
 <td><p><a href="../Page/大衛·杜考夫尼.md" title="wikilink">大衛·杜考夫尼</a></p></td>
 <td></td>
@@ -324,7 +380,7 @@ Dynamics大多數時間都花在設計外星人身上，實在忙不過來，於
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/土星獎最佳電影女主角.md" title="wikilink">最佳女主角</a></p></td>
 <td><p>吉蓮·安德森</p></td>
 <td></td>
@@ -332,7 +388,7 @@ Dynamics大多數時間都花在設計外星人身上，實在忙不過來，於
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -340,7 +396,7 @@ Dynamics大多數時間都花在設計外星人身上，實在忙不過來，於
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>艾力克·吉利斯（）、、與</p></td>
 <td></td>

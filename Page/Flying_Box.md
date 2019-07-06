@@ -19,7 +19,7 @@ Box和屬於同一體系，不過後者主要負責[模特兒的部分](../Page/
 
 ## 過去所屬藝人
 
-  - [天海祐希](https://zh.wikipedia.org/wiki/天海祐希 "wikilink") -
+  - [天海祐希](../Page/天海祐希.md "wikilink") -
     後轉往[研音](../Page/研音.md "wikilink")
   - [高岡蒼佑](https://zh.wikipedia.org/wiki/高岡蒼甫 "wikilink") - 後轉往[Stardust
     Promotion](https://zh.wikipedia.org/wiki/Stardust_Promotion "wikilink")

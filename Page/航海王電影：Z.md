@@ -1,5 +1,4 @@
-**《ONE PIECE FILM
-Z》**（）是改编自[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[尾田榮一郎的著名漫畫](https://zh.wikipedia.org/wiki/尾田榮一郎 "wikilink")《[ONE
+**《航海王電影：Z》**（）是改编自[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[尾田榮一郎的著名漫畫](https://zh.wikipedia.org/wiki/尾田榮一郎 "wikilink")《[ONE
 PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版系列的第](https://zh.wikipedia.org/wiki/劇場版 "wikilink")12部作品。於2012年12月15日在日本首映的動畫電影\[1\]\[2\]，台灣於2013年1月25日上映\[3\]。
 
 由原作者[尾田榮一郎擔任總合製作人](https://zh.wikipedia.org/wiki/尾田榮一郎 "wikilink")、動畫家[長峯達也執導](https://zh.wikipedia.org/wiki/長峯達也 "wikilink")、腳本家[鈴木收編劇](../Page/鈴木收.md "wikilink")，[田中真弓](../Page/田中真弓.md "wikilink")、[中井和哉](../Page/中井和哉.md "wikilink")、[岡村明美](../Page/岡村明美.md "wikilink")、[山口勝平](../Page/山口勝平.md "wikilink")、[平田廣明](../Page/平田廣明.md "wikilink")、[大谷育江](../Page/大谷育江.md "wikilink")、[山口由里子](../Page/山口由里子.md "wikilink")、[矢尾一樹](../Page/矢尾一樹.md "wikilink")、[長等人為片中的主要角色](https://zh.wikipedia.org/wiki/チョー "wikilink")[草帽海賊團配音](https://zh.wikipedia.org/wiki/草帽海賊團 "wikilink")，此外還有本作的中心人物由[大塚芳忠配音的前海軍上將](../Page/大塚芳忠.md "wikilink")「Z」，以及[篠原涼子和](../Page/篠原涼子.md "wikilink")[香川照之則飾演](../Page/香川照之.md "wikilink")「Z」的跟隨者。

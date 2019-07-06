@@ -1,12 +1,10 @@
 **《柏木由紀的YUKRIN
-TIME》**（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink"):**柏木由紀のYUKIRIN
-TIME**），是在[FM東京所播放的深夜廣播](../Page/FM東京.md "wikilink")[談話節目](https://zh.wikipedia.org/wiki/談話節目 "wikilink")，每週六24:00
--
-24:30播出，由團體[AKB48成員](../Page/AKB48.md "wikilink")[柏木由紀主持](../Page/柏木由紀.md "wikilink")。
+TIME》**（），是在[FM東京所播放的深夜廣播](../Page/FM東京.md "wikilink")[談話節目](https://zh.wikipedia.org/wiki/談話節目 "wikilink")，每週六24:00
+- 24:30播出，由[柏木由紀主持](../Page/柏木由紀.md "wikilink")。
 
 ## 概要
 
-  - 是[AKB48](../Page/AKB48.md "wikilink")[柏木由紀的首個冠名定期廣播節目](../Page/柏木由紀.md "wikilink")。
+  - 是[柏木由紀的首個冠名定期廣播節目](../Page/柏木由紀.md "wikilink")。
   - 播放時段原節目為柏木所屬的子團體[French
     Kiss節目](https://zh.wikipedia.org/wiki/French_Kiss "wikilink")[French
     Kiss的Kiss廣播\!](../Page/French_Kiss的Kiss廣播!.md "wikilink")（延至每週日25:00
@@ -36,7 +34,7 @@ TIME**），是在[FM東京所播放的深夜廣播](../Page/FM東京.md "wikili
 ### 過去單元
 
   - 五十音Talk
-    順序以「あ」「い」「う」「え」「お」五十音為首的單詞進行Talk。
+    順序以[五十音為首的單詞進行Talk](../Page/五十音.md "wikilink")。
 
 <!-- end list -->
 
@@ -105,9 +103,9 @@ TIME**），是在[FM東京所播放的深夜廣播](../Page/FM東京.md "wikili
 
 ## 外部連結
 
-  - [柏木由紀的YUKRIN
-    TIME](https://web.archive.org/web/20121004235300/http://www.tfm.co.jp/yukirin/index.html)
+  - [柏木由紀的YUKRIN TIME](https://www.tfm.co.jp/yukirin/)
 
 [Category:AKB48](https://zh.wikipedia.org/wiki/Category:AKB48 "wikilink")
 [Category:東日本大震災慈善活動](https://zh.wikipedia.org/wiki/Category:東日本大震災慈善活動 "wikilink")
-[Category:日本廣播節目](https://zh.wikipedia.org/wiki/Category:日本廣播節目 "wikilink")
+[Category:FM東京的廣播節目](https://zh.wikipedia.org/wiki/Category:FM東京的廣播節目 "wikilink")
+[Category:2012年日本廣播節目](https://zh.wikipedia.org/wiki/Category:2012年日本廣播節目 "wikilink")

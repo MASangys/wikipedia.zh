@@ -88,6 +88,14 @@ NBA赛季得到此奖](https://zh.wikipedia.org/wiki/2014-15_NBA赛季 "wikilink
 <td><p><a href="https://zh.wikipedia.org/wiki/明尼蘇達灰狼" title="wikilink">明尼蘇達灰狼</a></p></td>
 <td><p>[15]</p></td>
 </tr>
+<tr class="odd">
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/邁克·康利" title="wikilink">邁克·康利</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/雙能衛" title="wikilink">後衛</a></p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/曼菲斯灰熊" title="wikilink">曼菲斯灰熊</a></p></td>
+<td><p>[16]</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -130,3 +138,5 @@ NBA赛季得到此奖](https://zh.wikipedia.org/wiki/2014-15_NBA赛季 "wikilink
 14. <https://nba.udn.com/nba/story/6780/2548714>
 
 15. <https://nba.udn.com/nba/story/6780/3219125>
+
+16. <https://www.chinatimes.com/realtimenews/20190625001433-260403?chdtv>

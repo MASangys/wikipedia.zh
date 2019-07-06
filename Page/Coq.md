@@ -1,7 +1,7 @@
 [CoqProofOfDecidablityOfEqualityOnNaturalNumbers.png](https://zh.wikipedia.org/wiki/File:CoqProofOfDecidablityOfEqualityOnNaturalNumbers.png "fig:CoqProofOfDecidablityOfEqualityOnNaturalNumbers.png")
 
 **Coq**
-是一个交互式的定理证明辅助工具。它允许用户输入包含数学断言的表达式、机械化地对这些断言执行检查、帮助构造形式化的证明、并从其形式化描述的[构造性证明中提取出可验证的](https://zh.wikipedia.org/wiki/构造性证明 "wikilink")（certified）程序。Coq
+是一个交互式的定理证明辅助工具。它允许用户输入包含数学断言的表达式、机械化地对这些断言执行检查、帮助构造形式化的证明、并从其形式化描述的[构造性证明中提取出可验证的](../Page/构造性证明.md "wikilink")（certified）程序。Coq
 的理论基础是[归纳构造演算](https://zh.wikipedia.org/wiki/归纳构造演算 "wikilink")（calculus
 of inductive
 constructions）、一种[构造演算](../Page/构造演算.md "wikilink")（calculus

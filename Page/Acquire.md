@@ -65,7 +65,7 @@ Acquire」。\[4\]以下為Acquire開發的遊戲\[5\]：
   - [雨](https://zh.wikipedia.org/wiki/雨_\(遊戲\) "wikilink")（2013）
   - [屠龙之路](https://zh.wikipedia.org/wiki/屠龙之路 "wikilink")（2013）
   - [神圣之门](https://zh.wikipedia.org/wiki/神圣之门 "wikilink")（2013）
-  - [八方旅人](https://zh.wikipedia.org/wiki/八方旅人 "wikilink")（2018）
+  - [八方旅人](../Page/八方旅人.md "wikilink")（2018）
 
 ## 參考資料
 

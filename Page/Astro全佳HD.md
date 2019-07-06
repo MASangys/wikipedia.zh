@@ -1,4 +1,4 @@
-**Astro全佳HD**是[马来西亚](../Page/马来西亚.md "wikilink")[Astro拥有的第二个](../Page/Astro集團.md "wikilink")[中文](../Page/汉语.md "wikilink")[高清频道](../Page/高清电视.md "wikilink")，全天候24小时播出。该频道主要播出来自[中国大陸电视剧](https://zh.wikipedia.org/wiki/中国大陸 "wikilink")、纪录片、旅游、休闲、综艺、生活、养生及饮食烹饪节目等等。该频道备有[中文](../Page/汉语.md "wikilink")、[英文及](../Page/英语.md "wikilink")[马来文字幕服务](https://zh.wikipedia.org/wiki/马来文 "wikilink")。
+**Astro全佳HD**是[马来西亚](../Page/马来西亚.md "wikilink")[Astro拥有的第二个](../Page/Astro集團.md "wikilink")[中文](../Page/汉语.md "wikilink")[高清频道](../Page/高清电视.md "wikilink")，全天候24小时播出。该频道主要播出来自[中国大陸电视剧](https://zh.wikipedia.org/wiki/中国大陸 "wikilink")、纪录片、综艺节目等等。该频道备有[中文](../Page/汉语.md "wikilink")、[英文及](../Page/英语.md "wikilink")[马来文字幕服务](https://zh.wikipedia.org/wiki/马来文 "wikilink")。
 
 其与[湖南广播电视台的](../Page/湖南广播电视台.md "wikilink")[湖南卫视和](../Page/湖南卫视.md "wikilink")[芒果TV系主力合作服务对象](../Page/芒果TV.md "wikilink")，与此同时亦购买了[浙江卫视和](../Page/浙江卫视.md "wikilink")[爱奇艺部分节目的在大马地区的首播权](../Page/爱奇艺.md "wikilink")。
 
@@ -8,10 +8,10 @@
 
 **Astro全佳HD**所播放的综艺节目大多来自**湖南广播电视台**旗下的**湖南卫视**和**芒果TV**
 
-  - [快乐大本营](../Page/快乐大本营.md "wikilink")（逢周日晚上20:00播出）
-  - [快乐中国湖南卫视跨年演唱会](https://zh.wikipedia.org/wiki/快乐中国湖南卫视跨年演唱会 "wikilink")（逢年12月31日同步直播）
-  - [湖南卫视春节联欢晚会](https://zh.wikipedia.org/wiki/湖南卫视春节联欢晚会 "wikilink")（逢年除夕夜播出）
-  - [元宵喜乐会](https://zh.wikipedia.org/wiki/元宵喜乐会 "wikilink")（逢年农历正月十五同步直播）
+  - [快乐大本营](../Page/快乐大本营.md "wikilink")
+  - [快乐中国湖南卫视跨年演唱会](https://zh.wikipedia.org/wiki/快乐中国湖南卫视跨年演唱会 "wikilink")
+  - [湖南卫视春节联欢晚会](https://zh.wikipedia.org/wiki/湖南卫视春节联欢晚会 "wikilink")
+  - [元宵喜乐会](https://zh.wikipedia.org/wiki/元宵喜乐会 "wikilink")
   - [亲爱的客栈](https://zh.wikipedia.org/wiki/亲爱的客栈 "wikilink")
   - [我是歌手](../Page/我是歌手.md "wikilink")/[歌手](../Page/歌手_\(湖南卫视\).md "wikilink")
 
@@ -31,83 +31,6 @@
   - [非凡搭档](https://zh.wikipedia.org/wiki/非凡搭档 "wikilink")（江苏卫视本身已停播）
   - [明星大侦探](https://zh.wikipedia.org/wiki/明星大侦探 "wikilink")
 
-## 现时节目
-
-<table>
-<thead>
-<tr class="header">
-<th><p>日期</p></th>
-<th><p>播出時间</p></th>
-<th><p>现时节目</p></th>
-<th><p>备注</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>星期一至五</p></td>
-<td><p>19:00 - 20:00</p></td>
-<td><p><a href="../Page/怒海潜沙&amp;秦岭神树.md" title="wikilink">怒海潜沙&amp;秦岭神树</a></p></td>
-<td><p>6月24日起</p></td>
-</tr>
-<tr class="even">
-<td><p>星期一至四</p></td>
-<td><p>23:30 - 01:30</p></td>
-<td><p><a href="../Page/沙海.md" title="wikilink">沙海</a>（重播）</p></td>
-<td><p>2集连播</p></td>
-</tr>
-<tr class="odd">
-<td><p>星期五</p></td>
-<td><p>20:55 - 23:00</p></td>
-<td><p><a href="../Page/奔跑吧.md" title="wikilink">奔跑吧（第三季）</a></p></td>
-<td><p>与<a href="../Page/浙江卫视.md" title="wikilink">浙江卫视同步播出</a></p></td>
-</tr>
-<tr class="even">
-<td><p>星期六</p></td>
-<td><p>20:30 - 22:30</p></td>
-<td><p><a href="../Page/巅峰之夜.md" title="wikilink">巅峰之夜</a></p></td>
-<td><p>与<a href="../Page/湖南卫视.md" title="wikilink">湖南卫视</a>24小时内同日播出</p></td>
-</tr>
-<tr class="odd">
-<td><p>22:30 - 00:30</p></td>
-<td><p><a href="../Page/中国新说唱.md" title="wikilink">中国新说唱2019</a></p></td>
-<td><p>6月22日起，与<a href="../Page/爱奇艺.md" title="wikilink">爱奇艺同日播出</a><br />
-6月21日 23:00 - 00:00（马来西亚海选）<br />
-6月22日 18:30 - 20:00（第一集）</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>星期日</p></td>
-<td><p>20:00 - 21:45</p></td>
-<td><p><a href="../Page/快乐大本营.md" title="wikilink">快乐大本营</a></p></td>
-<td><p>与<a href="../Page/湖南卫视.md" title="wikilink">湖南卫视</a>24小时内同日播出</p></td>
-</tr>
-<tr class="odd">
-<td><p>21:45 - 23:30</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/我最爱的女人们" title="wikilink">我最爱的女人们</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>即将播出</p></td>
-<td><p><a href="../Page/九州缥缈录.md" title="wikilink">九州缥缈录</a></p></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-## 新春节目
-
-| 日期            | 播出時间                                                                  | 现时节目                                                                           | 备注 |
-| ------------- | --------------------------------------------------------------------- | ------------------------------------------------------------------------------ | -- |
-| 2月4日（除夕）      | 17:00 - 20:40                                                         | 2019湖南卫视春节联欢晚会                                                                 |    |
-| 21:30 - 23:30 | [梦想的声音3 巅峰晚会](https://zh.wikipedia.org/wiki/梦想的声音_\(第三季\) "wikilink") | 重播                                                                             |    |
-| 2月5日（年初一）     | 14:00 - 18:00                                                         | 浙江卫视领跑2019跨年演唱会                                                                |    |
-| 2月6日（年初二）     | 14:00 - 16:30                                                         | 四海同春.2019全球华侨华人春节大联欢                                                           |    |
-| 2月7日（年初三）     | 14:00 - 17:30                                                         | 2018[国剧盛典](../Page/国剧盛典.md "wikilink")                                         |    |
-| 2月8日（年初四）     | 14:00 - 18:30                                                         | [2018 - 2019湖南卫视跨年演唱会](https://zh.wikipedia.org/wiki/快乐中国湖南卫视跨年演唱会 "wikilink") | 重播 |
-| 2月19日（年初十五）   | 19:30 - 23:00                                                         | 元宵喜乐会                                                                          | 直播 |
-
 ## 直播節目列表
 
 ## 相关条目
@@ -120,7 +43,5 @@
   - [Astro全佳HD官方網站](http://www.xuan.com.my/channels/qjhd.aspx)
 
   -
-  - [Astro全佳HD节目表](http://www.quake.com.my)
-
 [Category:馬來西亞廣播電視](https://zh.wikipedia.org/wiki/Category:馬來西亞廣播電視 "wikilink")
 [Category:2013年成立的电视台或电视频道](https://zh.wikipedia.org/wiki/Category:2013年成立的电视台或电视频道 "wikilink")

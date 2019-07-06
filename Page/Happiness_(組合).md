@@ -216,3 +216,4 @@ Time"」、主音MAYU因為感染「傳染性單核球症」而延期。後來MA
     [YouTube](../Page/YouTube.md "wikilink")
 
 [Category:日本演唱團體](https://zh.wikipedia.org/wiki/Category:日本演唱團體 "wikilink")
+[Category:LDH所屬藝人](https://zh.wikipedia.org/wiki/Category:LDH所屬藝人 "wikilink")

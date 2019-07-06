@@ -31,7 +31,7 @@ Zenrin在公司的主办公楼14楼设立了地图博物馆。平日10​​:00-
   - [Zenrin 欧洲公司](http://www.zenrin-europe.com/)
   - [地图博物馆](http://www.zenrin.co.jp/mapgallery/)
 
-[Category:地图公司](https://zh.wikipedia.org/wiki/Category:地图公司 "wikilink")
+[Category:地圖公司](https://zh.wikipedia.org/wiki/Category:地圖公司 "wikilink")
 [Category:日本公司](https://zh.wikipedia.org/wiki/Category:日本公司 "wikilink")
 [Category:日本软件公司](https://zh.wikipedia.org/wiki/Category:日本软件公司 "wikilink")
 [Category:日本媒體公司](https://zh.wikipedia.org/wiki/Category:日本媒體公司 "wikilink")

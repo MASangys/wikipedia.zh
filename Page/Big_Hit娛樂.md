@@ -109,6 +109,7 @@ Lab](http://belift.kr/?fbclid=IwAR2-vsj-Urt31AHCGtlKs1qE37-NCIQ-cL61n0QPMXAK7T9k
       - 《Burn the Stage: the Movie》
   - 2019年
       - 《LOVE YOURSELF IN SEOUL》
+      - 《BRING THE SOUL : THE MOVIE》
 
 ## 過去旗下藝人
 
@@ -149,7 +150,7 @@ Lab](http://belift.kr/?fbclid=IwAR2-vsj-Urt31AHCGtlKs1qE37-NCIQ-cL61n0QPMXAK7T9k
   - [鄭友榮](../Page/鄭友榮.md "wikilink")（[ATEEZ](../Page/ATEEZ.md "wikilink")）
   - 姜呂尚（[ATEEZ](../Page/ATEEZ.md "wikilink")）
   - [金相均](../Page/金相均.md "wikilink")（[JBJ95](https://zh.wikipedia.org/wiki/JBJ95 "wikilink")）\[20\]
-  - 金民錫（[ONF](https://zh.wikipedia.org/wiki/ONF "wikilink")）\[21\]
+  - [金民錫](../Page/金民錫_\(ONF\).md "wikilink")（[ONF](https://zh.wikipedia.org/wiki/ONF "wikilink")）\[21\]
   - 李秀雄（[少年共和國](../Page/少年共和國.md "wikilink")）\[22\]
   - [李俊相](../Page/李俊相.md "wikilink")（[PLT](../Page/PLT_\(男子團體\).md "wikilink")）
 

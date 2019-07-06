@@ -3056,7 +3056,7 @@ Weekly Idol 8周年特辑 (暑假特辑2)</p></td>
 <tr class="even">
 <td><p>405</p></td>
 <td><p>5月1日</p></td>
-<td><p><a href="../Page/NU&#39;EST.md" title="wikilink">NU'EST</a><sup>2nd</sup></p></td>
+<td><p><a href="../Page/NU&#39;EST.md" title="wikilink">NU'EST</a><sup>3rd</sup></p></td>
 <td></td>
 </tr>
 <tr class="odd">

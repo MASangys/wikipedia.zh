@@ -230,7 +230,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td></td>
+<td><p><a href="../Page/陳亭嘉.md" title="wikilink">陳亭嘉</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -255,7 +255,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td></td>
+<td><p><a href="../Page/司徒暉.md" title="wikilink">司徒暉</a></p></td>
 <td><p>燈光師</p></td>
 <td></td>
 </tr>

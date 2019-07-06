@@ -103,10 +103,10 @@ MMC改用Lazzerini Citylight座椅。
 九巴現時擁有兩輛樣版車，首輛Enviro 500
 MMC樣版車（車牌號碼︰RZ5946，車隊編號︰ATENU1，底盤編號︰2553）已於2013年4月23日出牌並入籍屯門車廠，並於2013年4月30日首航[58X線](https://zh.wikipedia.org/wiki/九龍巴士58X線 "wikilink")。而量產型Enviro
 500
-MMC亦於同年5月起陸續出牌及投入服務，初期首69輛出牌車輛全部分配至屯門車廠行走屯門區長途路線，如[58X](https://zh.wikipedia.org/wiki/九龍巴士58X線 "wikilink")、[59X](https://zh.wikipedia.org/wiki/九龍巴士59X線 "wikilink")、[960及](https://zh.wikipedia.org/wiki/過海隧道巴士960線 "wikilink")[961](https://zh.wikipedia.org/wiki/過海隧道巴士961線 "wikilink")，其中在2015年10月至翌年4月期間樣板車ATENU1因需披上全車身廣告而借調往九龍灣廠服務（九龍灣廠則以ATENU130/SH1334作交換，目前ATENU130披上九巴仔廣告，ATENU1廣告期限完結後換上九巴83周年全車身廣告回歸屯門，目前披上另一個全車身商業廣告並行走[60X線](https://zh.wikipedia.org/wiki/九龍巴士60X線 "wikilink")）。2013年8月起其他車廠亦獲分配新車\[21\]，現時大部分車輛主要行走長途、高客量、過海、以及途經低排放區的路線。
+MMC亦於同年5月起陸續出牌及投入服務，初期首69輛出牌車輛全部分配至屯門車廠行走屯門區長途路線，如[58X](https://zh.wikipedia.org/wiki/九龍巴士58X線 "wikilink")、[59X](https://zh.wikipedia.org/wiki/九龍巴士59X線 "wikilink")、[960及](../Page/過海隧道巴士960線.md "wikilink")[961](https://zh.wikipedia.org/wiki/過海隧道巴士961線 "wikilink")，其中在2015年10月至翌年4月期間樣板車ATENU1因需披上全車身廣告而借調往九龍灣廠服務（九龍灣廠則以ATENU130/SH1334作交換，目前ATENU130披上九巴仔廣告，ATENU1廣告期限完結後換上九巴83周年全車身廣告回歸屯門，目前披上另一個全車身商業廣告並行走[60X線](https://zh.wikipedia.org/wiki/九龍巴士60X線 "wikilink")）。2013年8月起其他車廠亦獲分配新車\[21\]，現時大部分車輛主要行走長途、高客量、過海、以及途經低排放區的路線。
 
 九巴另一輛Enviro 500
-MMC樣板車（車牌號碼︰SH2747，車隊編號︰ATENU135，底盤編號︰2457）於2013年9月11日抵港，為ADL廠方生產的首三輛E50D新車之一（另一輛為城巴的8320，餘下的供ADL內部使用）。新車於同年10月31日出牌並入籍屯門車廠，並於2013年11月1日首航[960線](https://zh.wikipedia.org/wiki/九龍巴士960線 "wikilink")，上層車頭不設電視預留組件，而入油位置亦不設掩蓋。惟此車曾於2013年11月5日行駛[N260線期間](../Page/九龍巴士N260線.md "wikilink")，在屯門公路油柑頭段與三部貨車相撞（當時此車僅出牌行走第5天），導致下層車頭嚴重損毀，其後在2014年4月3日復出行走。2015年2月，九巴在此車的上層車頭安裝電視預留組件。
+MMC樣板車（車牌號碼︰SH2747，車隊編號︰ATENU135，底盤編號︰2457）於2013年9月11日抵港，為ADL廠方生產的首三輛E50D新車之一（另一輛為城巴的8320，餘下的供ADL內部使用）。新車於同年10月31日出牌並入籍屯門車廠，並於2013年11月1日首航[960線](https://zh.wikipedia.org/wiki/九龍巴士960線 "wikilink")，上層車頭不設電視預留組件，而入油位置亦不設掩蓋。惟此車曾於2013年11月5日行駛[N260線期間](../Page/九龍巴士N260線.md "wikilink")，在屯門公路油柑頭段與三部貨車相撞（當時此車僅出牌行走第5天），導致下層車頭嚴重損毀，其後在2014年4月3日復出行走。2015年2月，九巴在此車的上層車頭安裝電視預留組件，其後在2019年6月起陸續拆除。
 
 ##### ATENU1-ATENU198
 
@@ -300,7 +300,7 @@ DIWA 864.5波箱，其餘採用ZF Ecolife 6AP1700B六前速波箱。
 
 首部新車在2014年4月24日運抵香港，採用ZF Ecolife
 6AP1700B六前速波箱，並於兩日後進行首次驗車。首部新車與另一輛[富豪B9TL](https://zh.wikipedia.org/wiki/富豪B9TL "wikilink")
-12.8米樣板車一同於6月2日在[九巴月輪街車廠參與記者招待會](https://zh.wikipedia.org/wiki/九巴月輪街車廠 "wikilink")，[九巴稱會安排這兩輛巴士試驗行走](https://zh.wikipedia.org/wiki/九巴 "wikilink")[43X](https://zh.wikipedia.org/wiki/九龍巴士43X線 "wikilink")、[49X](https://zh.wikipedia.org/wiki/九龍巴士49X線 "wikilink")、[277X和](https://zh.wikipedia.org/wiki/九龍巴士277X線 "wikilink")[279X線](https://zh.wikipedia.org/wiki/九龍巴士279X線 "wikilink")，以收集行車數據\[32\]\[33\]\[34\]。座位方面，新車下層非低地台區域座椅使用Vogel
+12.8米樣板車一同於6月2日在[九巴月輪街車廠參與記者招待會](https://zh.wikipedia.org/wiki/九巴月輪街車廠 "wikilink")，[九巴稱會安排這兩輛巴士試驗行走](https://zh.wikipedia.org/wiki/九巴 "wikilink")[43X](https://zh.wikipedia.org/wiki/九龍巴士43X線 "wikilink")、[49X](https://zh.wikipedia.org/wiki/九龍巴士49X線 "wikilink")、[277X和](https://zh.wikipedia.org/wiki/九龍巴士277X線 "wikilink")[279X線](../Page/九龍巴士279X線.md "wikilink")，以收集行車數據\[32\]\[33\]\[34\]。座位方面，新車下層非低地台區域座椅使用Vogel
 Revo S440巴士仔圖案座椅，而下層低地台區域則使用Vogel Revo S400座椅，所有座椅配上黑色巴士仔圖案，上層使用Vogel
 Revo
 S480座椅。新車改用Hanover橙色LED路線顯示器，上層車頭改用全新設計的電視預留組件（俗稱「檔布」），而電視組件下方的扶手柱，車輛採用「十」字設計。車頂也預留了用作遮掩GPS自動報站系統及GPRS收發天線的保護罩，並改用方形樓梯以增加載客量。新車改用新款的上海凱倫自動報站機，顯示屏可顯示8個中文字。車尾額外加裝了四盞LED燈。
@@ -370,7 +370,8 @@ City）塗裝。全數新車底盤由ADL馬來西亞廠房生產。全數巴士�
 #### 未知編號
 
 2018年1月，載通國際為九巴訂購209輛歐盟六型巴士訂單之中，其中34輛為歐盟六型Enviro 500 MMC
-12.8米巴士，新巴士採用與Enviro 400 XLB相似的玻璃樓梯設計。
+12.8米巴士。此款巴士採用類似配上Wright Eclipse Gemini
+3的[富豪B8L相似的玻璃樓梯設計](https://zh.wikipedia.org/wiki/富豪B8L "wikilink")。
 
 #### ATH
 

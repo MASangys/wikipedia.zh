@@ -1,4 +1,4 @@
-**SBS日日連續劇**（），亦稱**SBS日日劇**，[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS電視台每逢週一至週五晚間播放的](../Page/SBS_\(韓國\).md "wikilink")[電視連續劇系列](https://zh.wikipedia.org/wiki/電視連續劇 "wikilink")，創立於1991年12月。自《愛情的讚歌》才正式成為SBS的劇種之一。《去郊遊的女人》於2004年10月8日播畢後，SBS取消此劇種，直至2007年10月8日，《[那女人好可怕](../Page/殘酷的愛.md "wikilink")》首播，SBS才重啟此劇種的播出，結束長達3年左右的收播。2017年4月，SBS表示因為廣告費縮減，為了可以集中製作電視節目，決定於《[一滴一滴的愛](../Page/一滴一滴的愛.md "wikilink")》播畢後再次收播，原定接檔劇《[想品嚐一下味道嗎？](../Page/想品嚐一下味道嗎？.md "wikilink")》取消播放。\[1\]
+**SBS日日連續劇**（），亦稱**SBS日日劇**，[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS電視台每逢週一至週五晚間播放的](../Page/SBS_\(韓國\).md "wikilink")[電視連續劇系列](https://zh.wikipedia.org/wiki/電視連續劇 "wikilink")，創立於1991年12月。自《愛情的讚歌》才正式成為SBS的劇種之一。《去郊遊的女人》於2004年10月8日播畢後，SBS取消此劇種，直至2007年10月8日，《[那女人好可怕](../Page/殘酷的愛.md "wikilink")》首播，SBS才重啟此劇種的播出，結束長達3年左右的收播。2017年4月，SBS表示因為廣告費縮減，為了可以集中製作電視節目，決定於《[一滴一滴的愛](../Page/一滴一滴的愛.md "wikilink")》播畢後再次收播，原定接檔劇《[想品嚐一下味道嗎？](../Page/想品嚐一下味道嗎？.md "wikilink")》取消播放。
 
 ## 播映時間
 
@@ -901,6 +901,3 @@
 [Category:SBS日日連續劇](https://zh.wikipedia.org/wiki/Category:SBS日日連續劇 "wikilink")
 [Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink")
 [Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink")
-
-1.  [SBS '맛 좀 보실래요' 제작 무산… 일일극 폐지
-    확정](http://entertain.naver.com/ranking/read?oid=241&aid=0002661253)，naver，2017-04-10

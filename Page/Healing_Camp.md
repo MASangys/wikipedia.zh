@@ -52,7 +52,7 @@ vs 1（嘉賓）」形式主持，節目名稱改為。
 <tr class="odd">
 <td><p>6</p></td>
 <td><p>8月22日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/車太鉉" title="wikilink">車太鉉</a></p></td>
+<td><p><a href="../Page/車太鉉.md" title="wikilink">車太鉉</a></p></td>
 </tr>
 <tr class="even">
 <td><p>7</p></td>
@@ -1168,7 +1168,7 @@ vs 1（嘉賓）」形式主持，節目名稱改為。
 <tr class="even">
 <td><p>207</p></td>
 <td><p>11月2日</p></td>
-<td><p><span style=color:#008000>新婚營地</span>：<a href="../Page/安在旭.md" title="wikilink">安在旭</a>、<a href="https://zh.wikipedia.org/wiki/徐章勋" title="wikilink">徐章煇</a>、光熙 (<a href="../Page/ZE:A.md" title="wikilink">ZE:A</a>)、<a href="https://zh.wikipedia.org/wiki/車太鉉" title="wikilink">車太鉉</a>(視頻出演)、崔賢珠(聲音出演)</p></td>
+<td><p><span style=color:#008000>新婚營地</span>：<a href="../Page/安在旭.md" title="wikilink">安在旭</a>、<a href="https://zh.wikipedia.org/wiki/徐章勋" title="wikilink">徐章煇</a>、光熙 (<a href="../Page/ZE:A.md" title="wikilink">ZE:A</a>)、<a href="../Page/車太鉉.md" title="wikilink">車太鉉</a>(視頻出演)、崔賢珠(聲音出演)</p></td>
 </tr>
 <tr class="odd">
 <td><p>208</p></td>

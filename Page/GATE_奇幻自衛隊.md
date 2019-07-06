@@ -790,7 +790,7 @@ MX播出](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")，全12話。第二
 
   - 原作：[柳内たくみ](https://zh.wikipedia.org/wiki/柳内たくみ "wikilink")（）
   - 原作插畫：Daisuke Izuka、黒獅子（文庫版）
-  - 監督：
+  - 監督：[京極尚彥](../Page/京極尚彥.md "wikilink")
   - 系列構成：[浦畑達彦](https://zh.wikipedia.org/wiki/浦畑達彦 "wikilink")
   - 角色設計、總作畫監督：[中井準](https://zh.wikipedia.org/wiki/中井準 "wikilink")
   - 設定協力: 細越裕治

@@ -1,6 +1,6 @@
 [Agda_proof.jpg](https://zh.wikipedia.org/wiki/File:Agda_proof.jpg "fig:Agda_proof.jpg")
 
-**Agda**是一个[依赖类型的](../Page/依赖类型.md "wikilink")[函数式编程语言](https://zh.wikipedia.org/wiki/函数式编程语言 "wikilink")，同时亦可作为一个用于构建[构造性证明的](https://zh.wikipedia.org/wiki/构造性证明 "wikilink")[证明辅助工具](https://zh.wikipedia.org/wiki/证明辅助工具 "wikilink")。Agda最早由[瑞典](../Page/瑞典.md "wikilink")[查尔摩斯工学院的](https://zh.wikipedia.org/wiki/查尔摩斯工学院 "wikilink")
+**Agda**是一个[依赖类型的](../Page/依赖类型.md "wikilink")[函数式编程语言](https://zh.wikipedia.org/wiki/函数式编程语言 "wikilink")，同时亦可作为一个用于构建[构造性证明的](../Page/构造性证明.md "wikilink")[证明辅助工具](https://zh.wikipedia.org/wiki/证明辅助工具 "wikilink")。Agda最早由[瑞典](../Page/瑞典.md "wikilink")[查尔摩斯工学院的](https://zh.wikipedia.org/wiki/查尔摩斯工学院 "wikilink")
 Ulf Norell 设计并开发，作为他的博士论文课题\[1\]。目前的版本，Agda 2，则在第一版的基础上完全重写。
 
 Agda体现了[柯里-霍华德同构](../Page/柯里-霍华德同构.md "wikilink")（Curry-Howard

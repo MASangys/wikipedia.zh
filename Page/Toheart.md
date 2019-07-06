@@ -1,7 +1,7 @@
 [INFINITE](../Page/INFINITE.md "wikilink") | 現任成員 =
 [Key](https://zh.wikipedia.org/wiki/Key_\(歌手\) "wikilink"){{·}}[優鉉](https://zh.wikipedia.org/wiki/南優鉉 "wikilink")
 }}
-**Toheart**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SM娛樂與旗下獨立品牌公司](../Page/SM娛樂.md "wikilink")[Woollim娛樂合作於](../Page/Woollim娛樂.md "wikilink")2014年推出的特別企劃組合，由SM娛樂的[Key](https://zh.wikipedia.org/wiki/Key_\(歌手\) "wikilink")（[SHINee](../Page/SHINee.md "wikilink")）及Woollim
+**Toheart**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SM娛樂與旗下獨立品牌公司](../Page/SM娛樂.md "wikilink")[Woollim娛樂合作於](../Page/Woollim娛樂.md "wikilink")2014年推出的[限定企劃組合](https://zh.wikipedia.org/wiki/限定企劃組合 "wikilink")，由SM娛樂的[Key](https://zh.wikipedia.org/wiki/Key_\(歌手\) "wikilink")（[SHINee](../Page/SHINee.md "wikilink")）及Woollim
 Entertainment的[優鉉](../Page/南優賢.md "wikilink")（[INFINITE](../Page/INFINITE.md "wikilink")）組成。隊名含意為「Two
 Heart」及「To Heart」。
 

@@ -86,7 +86,7 @@ Phantasm\~**》，是同人社團[滿福神社創作的](https://zh.wikipedia.or
   - 故事取材：[東方紅魔鄉](https://zh.wikipedia.org/wiki/東方紅魔鄉 "wikilink")&[東方地靈殿](https://zh.wikipedia.org/wiki/東方地靈殿 "wikilink")
   - 片頭曲：（原曲：）
   - 片尾曲：（原曲：）
-  - 發佈：第11回博丽神社秋大祭
+  - 發佈：2014年11月24日 第十一屆博麗神社秋大祭
 
 <!-- end list -->
 
@@ -97,7 +97,7 @@ Phantasm\~**》，是同人社團[滿福神社創作的](https://zh.wikipedia.or
   - 故事取材：[東方花映塚](https://zh.wikipedia.org/wiki/東方花映塚 "wikilink")
   - 片頭曲：（原曲：）
   - 片尾曲：（原曲：）
-  - 發佈：満福神社ファン感謝祭＆東方樂祭
+  - 發佈：2015年5月19日滿福神社ファン(愛好者）感謝祭暨東方樂祭
 
 <!-- end list -->
 
@@ -108,7 +108,7 @@ Phantasm\~**》，是同人社團[滿福神社創作的](https://zh.wikipedia.or
   - 故事取材：[東方花映塚](https://zh.wikipedia.org/wiki/東方花映塚 "wikilink")
   - 片頭曲：（原曲：）
   - 片尾曲：（原曲：）
-  - 發佈：待補
+  - 發佈：2015年10月18日 博麗神社秋大祭
 
 <!-- end list -->
 
@@ -119,7 +119,7 @@ Phantasm\~**》，是同人社團[滿福神社創作的](https://zh.wikipedia.or
   - 故事取材：[東方非想天則](../Page/东方非想天则_～_追寻特大型人偶之谜.md "wikilink")
   - 片頭曲：（原曲：）
   - 片尾曲：（原曲：）
-  - 發佈：待補
+  - 發佈：2016年5月21日 滿福神社愛好者感謝祭暨東方樂祭
 
 <!-- end list -->
 
@@ -153,6 +153,39 @@ Phantasm\~**》，是同人社團[滿福神社創作的](https://zh.wikipedia.or
   - 片頭曲：（原曲：）
   - 片尾曲：（原曲：）
   - 發佈:2017年12月29日（[C93](../Page/Comic_Market.md "wikilink")）
+
+<!-- end list -->
+
+  - 第11話：永夜異變之章（后篇②）（）
+
+<!-- end list -->
+
+  - 故事取材：[東方永夜抄](https://zh.wikipedia.org/wiki/東方永夜抄 "wikilink")
+  - 片頭曲：（原曲：）
+  - 片尾曲：（原曲：）
+  - 發佈:2018年5月6日 第十五屆博麗神社例大祭
+
+<!-- end list -->
+
+  - 第12話：試膽大會之章（前篇）（）
+
+<!-- end list -->
+
+  - 故事取材：[東方永夜抄](https://zh.wikipedia.org/wiki/東方永夜抄 "wikilink")
+  - 片頭曲：（原曲：）
+  - 片尾曲：（原曲：）
+  - 發佈:2018年12月30日（[C95](../Page/Comic_Market.md "wikilink")）
+
+<!-- end list -->
+
+  - 第13話：試膽大會之章（后篇）（）
+
+<!-- end list -->
+
+  - 故事取材：[東方永夜抄](https://zh.wikipedia.org/wiki/東方永夜抄 "wikilink")
+  - 片頭曲：（原曲：）
+  - 片尾曲：（原曲：）
+  - 發佈:2019年5月5日 第十六屆博麗神社例大祭
 
 ## 參考資料
 

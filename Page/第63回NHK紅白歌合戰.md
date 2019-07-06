@@ -30,7 +30,7 @@
 ## 轉播媒體
 
   - [NHK綜合頻道](../Page/NHK綜合頻道.md "wikilink")
-  - [NHK廣播第1頻率](https://zh.wikipedia.org/wiki/NHK廣播第1頻率 "wikilink")
+  - [NHK廣播第1頻率](../Page/NHK廣播第1頻率.md "wikilink")
 
 ## 主持人
 

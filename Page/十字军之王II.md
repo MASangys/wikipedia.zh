@@ -91,7 +91,7 @@ DLC包括下列內容：\[11\]\[12\]
 <td><p>允許玩家使用包括<a href="../Page/威尼斯共和国.md" title="wikilink">威尼斯在內的</a><a href="../Page/海上共和国.md" title="wikilink">商業共和國</a>，體驗完全不同於封建領主的玩法，包括選舉繼承、商業拓展、<a href="https://zh.wikipedia.org/wiki/禁運" title="wikilink">禁運戰爭</a>…等。</p></td>
 </tr>
 <tr class="odd">
-<td><p>The Old Gods 逝往神灵</p></td>
+<td><p>The Old Gods 遠古諸神</p></td>
 <td><p>2013年5月28日[18]</p></td>
 <td><p>允許玩家扮演信仰<a href="../Page/原始宗教.md" title="wikilink">原始宗教以及</a><a href="../Page/琐罗亚斯德教.md" title="wikilink">祆教的角色</a>，並將原始宗教重新設計為<a href="../Page/北欧神话.md" title="wikilink">日耳曼多神教</a>、<a href="../Page/腾格里.md" title="wikilink">長生天</a>、<a href="../Page/斯拉夫神話.md" title="wikilink">斯拉夫多神教</a>…等各具特色的不同宗教。</p>
 <p>原始信仰諸國在開局時處於未開化的部落狀態，在初期以快攻擴張國力、改革原始宗教並將國家改革為封建制度或共和制度以在後期與先進國家抗衡。<br />
@@ -134,7 +134,7 @@ DLC包括下列內容：\[11\]\[12\]
 原來的王權法重製為君主和御前議會的權力拉鋸，後者將藉由投票或是叛亂等方式爭奪包括立法、開戰、處刑…等權力。</p></td>
 </tr>
 <tr class="even">
-<td><p>The Reaper's Due 死神索命</p></td>
+<td><p>The Reaper's Due 死神索債</p></td>
 <td><p>2016年8月25日[25]</p></td>
 <td><p>修改舊有生病機制，並增加許多疾病及症狀，使玩家更容易因病而去世；而同时加入的職務宫廷医师將與玩家一同對抗病魔，採用特殊的實驗療法可能使玩家活得更久或死得更快，疾病將不再是可輕易忽略的因素。</p>
 <p>新增傳染病機制，玩家將能夠體驗到歷史上的各種恐怖傳染病，包括可怕的黑死病，也有一些非史實的傳染病。</p>

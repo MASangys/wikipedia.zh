@@ -72,6 +72,7 @@ Kel-Tec已計劃製成四個版本，分別有不同的槍管長度、總長度�
 
   - [Kel-Tec KSG泵動式霰彈槍](../Page/Kel-Tec_KSG泵動式霰彈槍.md "wikilink")
   - [Kel-Tec RDB半自動步槍](../Page/Kel-Tec_RDB半自動步槍.md "wikilink")
+  - [Kel-Tec KS7泵動式霰彈槍](../Page/Kel-Tec_KS7泵動式霰彈槍.md "wikilink")
   - [TKB-022突击步枪](../Page/TKB-022突击步枪.md "wikilink")
   - [TKB-059三管突击步枪](../Page/TKB-059三管突击步枪.md "wikilink")
   - [A-91突击步枪](../Page/A-91突击步枪.md "wikilink")

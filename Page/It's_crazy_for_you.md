@@ -1,6 +1,5 @@
-**It's crazy for
-you**是女性歌手[愛内里菜的第二張](https://zh.wikipedia.org/wiki/愛内里菜 "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。CD
-CODE為GZCA-1033。
+《**It's crazy for
+you**》是日本女性歌手[愛内里菜的第二張](https://zh.wikipedia.org/wiki/愛内里菜 "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。编号GZCA-1033。
 
 ## 概要
 

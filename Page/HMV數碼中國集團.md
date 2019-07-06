@@ -216,7 +216,7 @@ Records**代理出品，[華納唱片代理發行](../Page/香港華納唱片.md
 <td><p><strong>歌星</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/李彩華" title="wikilink">李彩華</a></p></td>
+<td><p><a href="../Page/李彩華.md" title="wikilink">李彩華</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>組合</strong></p></td>
@@ -1186,7 +1186,7 @@ Sexy Central</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/李彩華" title="wikilink">李彩華</a></p></td>
+<td><p><a href="../Page/李彩華.md" title="wikilink">李彩華</a></p></td>
 <td><p><a href="../Page/人造雨_(專輯).md" title="wikilink">人造雨</a></p></td>
 <td><p>9月15日</p></td>
 <td><p>December Rain</p></td>

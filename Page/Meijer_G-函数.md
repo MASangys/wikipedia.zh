@@ -1,5 +1,5 @@
-在[特殊函数中](https://zh.wikipedia.org/wiki/特殊函数 "wikilink")，**Meijer
--函数**是[广义超几何函数的推广](../Page/广义超几何函数.md "wikilink")，绝大多数的特殊函数都可以用
+**Meijer
+G-函数**是荷兰数学家[梅耶尔引入的一种](../Page/科内利斯·西蒙·梅耶尔.md "wikilink")[特殊函数](https://zh.wikipedia.org/wiki/特殊函数 "wikilink")。它是[广义超几何函数的推广](../Page/广义超几何函数.md "wikilink")，绝大多数的特殊函数都可以用
 Meijer -函数表示出来。
 
 ## 定义

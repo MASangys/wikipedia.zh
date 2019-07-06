@@ -169,6 +169,7 @@ BOYZ](https://zh.wikipedia.org/wiki/HONEST_BOYZ "wikilink")\[6\]。
 [Category:日本男舞者](https://zh.wikipedia.org/wiki/Category:日本男舞者 "wikilink")
 [Category:日本男演員](https://zh.wikipedia.org/wiki/Category:日本男演員 "wikilink")
 [Category:埼玉縣出身人物](https://zh.wikipedia.org/wiki/Category:埼玉縣出身人物 "wikilink")
+[Category:LDH所屬藝人](https://zh.wikipedia.org/wiki/Category:LDH所屬藝人 "wikilink")
 
 1.
 

@@ -772,7 +772,7 @@
   - 監督：[松尾衡](../Page/松尾衡.md "wikilink")
   - 系列構成：[大河內一樓](../Page/大河內一樓.md "wikilink")
   - 副系列構成：三木一馬、熊剛
-  - 角色原案：[星野桂](https://zh.wikipedia.org/wiki/星野桂 "wikilink")
+  - 角色原案：[星野桂](../Page/星野桂.md "wikilink")
   - 角色設計：鈴木龍也
   - 機械設計：石渡誠（[Nitro+](../Page/Nitro+.md "wikilink")）、鷲尾直廣、寺岡賢司、宮本崇、[柳瀨敬之](../Page/柳瀨敬之.md "wikilink")、[大河原邦男](../Page/大河原邦男.md "wikilink")
   - 機械動畫設計：鈴木卓也

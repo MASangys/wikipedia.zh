@@ -1,20 +1,20 @@
 《**少年-{zh-hant:Pi;zh-cn:派;zh-sg:Pi;}-的奇幻漂流**》（；簡稱《**少年-{zh-hant:Pi;zh-cn:派;zh-sg:Pi;}-**》）是一部[李安执导的](../Page/李安.md "wikilink")[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[3D电影](https://zh.wikipedia.org/wiki/3D电影 "wikilink")，于2012年11月21日上映，编剧[David
-Magee根据](https://zh.wikipedia.org/wiki/David_Magee "wikilink")[加拿大作家](../Page/加拿大.md "wikilink")[扬·马特尔于](https://zh.wikipedia.org/wiki/扬·马特尔 "wikilink")2001年发表的[同名小说改编而成](../Page/少年Pi的奇幻漂流.md "wikilink")。印度演員[苏拉·沙玛飾演主角](../Page/苏拉·沙玛.md "wikilink")「-{Pi}-」（又譯「-{派}-」）。
+Magee根据](https://zh.wikipedia.org/wiki/David_Magee "wikilink")[加拿大作家](../Page/加拿大.md "wikilink")[扬·马特尔于](https://zh.wikipedia.org/wiki/扬·马特尔 "wikilink")2001年发表的[同名小说改编而成](../Page/少年Pi的奇幻漂流.md "wikilink")。印度演員[苏拉·沙玛飾演主角](../Page/苏拉·沙玛.md "wikilink")「-{Pi}-」（又譯「-{派}-」、埤）。
 
 影片收获了很好的口碑和6.09亿美元的全球票房，本片为摄影师[克劳迪奥·米兰达赢得多个影评人协会奖的最佳摄影奖](../Page/克劳迪奥·米兰达.md "wikilink")，更获得[第85届奥斯卡金像奖最佳导演](https://zh.wikipedia.org/wiki/第85届奥斯卡金像奖 "wikilink")、摄影、配乐和视觉效果四个奖项，让李安继《[断背山](https://zh.wikipedia.org/wiki/断背山 "wikilink")》后赢得第二座[奥斯卡最佳导演奖](../Page/奥斯卡最佳导演奖.md "wikilink")。
 
 ## 剧情简介
 
-派西尼·莫利托·帕特尔（綽號「-{Pi}-」）是個出身[印度的男孩](../Page/印度.md "wikilink")，他熱愛宗教（他同時信仰[基督教](../Page/基督教.md "wikilink")、[印度教及](../Page/印度教.md "wikilink")[伊斯蘭教](https://zh.wikipedia.org/wiki/伊斯蘭教 "wikilink")），由于家裡開[動物園](../Page/動物園.md "wikilink")，對[動物十分了解](https://zh.wikipedia.org/wiki/動物 "wikilink")，有一對愛他的父母跟一個哥哥拉維。1976年2月，印度的[塔米納杜政府解體](../Page/泰米尔纳德邦.md "wikilink")，皮辛的爸爸認為這是[甘地夫人踏上極權](https://zh.wikipedia.org/wiki/甘地夫人 "wikilink")[專制之路的最](../Page/專制.md "wikilink")-{zh:後;zh-hans:后;zh-hant:後;}-一擊，於是決定舉家遷移到[加拿大](../Page/加拿大.md "wikilink")。
+派西尼·莫利托·帕特尔（綽號「-{Pi}-」）是個出身[印度的男孩](../Page/印度.md "wikilink")，他熱愛宗教（他同時信仰[基督教](../Page/基督教.md "wikilink")、[印度教及](../Page/印度教.md "wikilink")[伊斯蘭教](https://zh.wikipedia.org/wiki/伊斯蘭教 "wikilink")），由于家裡開[動物園](../Page/動物園.md "wikilink")，對[動物十分了解](https://zh.wikipedia.org/wiki/動物 "wikilink")，有一對愛他的父母跟一個哥哥拉維。1976年2月，印度的[塔米納杜政府解體](../Page/泰米尔纳德邦.md "wikilink")，埤辛的爸爸認為這是[甘地夫人踏上極權](https://zh.wikipedia.org/wiki/甘地夫人 "wikilink")[專制之路的最](../Page/專制.md "wikilink")-{zh:後;zh-hans:后;zh-hant:後;}-一擊，於是決定舉家遷移到[加拿大](../Page/加拿大.md "wikilink")。
 
 在前往加拿大的過程中，他們以及他們動物園的動物所搭乘的[輪船](../Page/輪船.md "wikilink")「奇桑號」因為一場[暴風雨意外沉沒](https://zh.wikipedia.org/wiki/暴風雨 "wikilink")。在混亂之中，Pi
 被[水手丟上一艘載滿動物的](../Page/水手.md "wikilink")[救生艇](https://zh.wikipedia.org/wiki/救生艇 "wikilink")，上面有一隻[斑馬](../Page/斑馬.md "wikilink")、一隻[鬣狗](https://zh.wikipedia.org/wiki/鬣狗 "wikilink")、一隻[紅毛猩猩及一隻](https://zh.wikipedia.org/wiki/紅毛猩猩 "wikilink")[孟加拉虎Richard](../Page/孟加拉虎.md "wikilink")
 Parker。Pi
 運用他的動物知識與動物和平共處，靠著宗教信仰堅定意志，开始了他在[太平洋的奇幻漂流](https://zh.wikipedia.org/wiki/太平洋 "wikilink")。
 
-Pi 獲救之後，日本海運公司人員來到 Pi 的病床來了解狀況。Pi 照實說出了動物版本：鬣狗殺了斑馬和猩猩之後被孟加拉虎殺掉，剩下 Pi
-和老虎共存在船上。海運公司人員沒有相信，并再三要求 Pi 說出真相。Pi 隨後就說了人類版本：廚師殺了水手跟 Pi 的母親之後被
-Pi 殺掉；鬣狗代表廚師，斑馬代表水手，猩猩代表母親，而老虎就代表 Pi 的獸性本能。
+Pi 獲救之後，日本海運公司事故鑑識人員來到 Pi 的病床來了解狀況。Pi 照實說出了動物版本：鬣狗殺了斑馬和猩猩之後被孟加拉虎殺掉，剩下 Pi
+和老虎共存在船上。海運公司人員沒有相信，并再三要求 Pi 說出真相。Pi 隨後就說了人類版本：廚師殺了水手跟 Pi 的母親之後被 Pi
+殺掉；聽者聽後表示，鬣狗代表廚師，斑馬代表水手，猩猩代表母親，而老虎就代表 Pi。
 
 ## 故事版本差異
 

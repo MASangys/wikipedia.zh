@@ -392,7 +392,9 @@ Hits标签发行的[PlayStation作品](https://zh.wikipedia.org/wiki/PlayStation
   -
   -
   -
-  -
+  - [Destroy All
+    Humans\!](https://zh.wikipedia.org/wiki/Destroy_All_Humans! "wikilink")
+
   -
   - [Devil May Cry](https://zh.wikipedia.org/wiki/惡魔獵人 "wikilink")
 

@@ -234,6 +234,7 @@ PARTY正式成員](https://zh.wikipedia.org/wiki/DANCE_EARTH_PARTY "wikilink")�
 [Category:日本男演員](https://zh.wikipedia.org/wiki/Category:日本男演員 "wikilink")
 [Category:EXILE_THE_SECOND](https://zh.wikipedia.org/wiki/Category:EXILE_THE_SECOND "wikilink")
 [Category:神奈川縣出身人物](https://zh.wikipedia.org/wiki/Category:神奈川縣出身人物 "wikilink")
+[Category:LDH所屬藝人](https://zh.wikipedia.org/wiki/Category:LDH所屬藝人 "wikilink")
 
 1.  2012年4月30日播映『[週刊EXILE](../Page/週刊EXILE.md "wikilink")』。
 

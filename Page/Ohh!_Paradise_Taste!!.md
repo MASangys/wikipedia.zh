@@ -1,6 +1,5 @@
-**Ohh\! Paradise
-Taste\!\!**是女性歌手[愛内里菜的第三張](https://zh.wikipedia.org/wiki/愛内里菜 "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。CD
-CODE為GZCA-1041。
+《**Ohh\! Paradise
+Taste\!\!**》是日本女性歌手[愛内里菜的第三張](https://zh.wikipedia.org/wiki/愛内里菜 "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。CD编号為GZCA-1041。
 
 ## 曲目
 

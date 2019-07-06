@@ -259,7 +259,7 @@ Festival》（）為[MBC製作之獨幕劇](https://zh.wikipedia.org/wiki/文化
 <a href="https://zh.wikipedia.org/wiki/成宥彬" title="wikilink">成宥彬</a> 飾演 俊<br />
 <a href="https://zh.wikipedia.org/wiki/尹錫鉉" title="wikilink">尹錫鉉</a> 飾演 賢秀<br />
 <a href="https://zh.wikipedia.org/wiki/洪堯燁" title="wikilink">洪堯燁</a> 飾演 會遠<br />
-<a href="https://zh.wikipedia.org/wiki/車太鉉" title="wikilink">車太鉉</a> 飾演 申英勳<br />
+<a href="../Page/車太鉉.md" title="wikilink">車太鉉</a> 飾演 申英勳<br />
 <a href="../Page/金材昱.md" title="wikilink">金材昱</a> 飾演 俊<br />
 <a href="https://zh.wikipedia.org/wiki/朴孝珍" title="wikilink">Narsha</a><br />
 <a href="../Page/尹朱尚.md" title="wikilink">尹朱尚</a></p></td>

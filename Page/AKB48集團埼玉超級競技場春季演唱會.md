@@ -211,7 +211,7 @@
     吉田、白間、小笠原、市川、小谷、西村、林、古賀、谷川、高野、東、武井、薮下、加藤、太田、渋谷
 21. 《[我們的發現](../Page/我們的發現.md "wikilink")》（） - 同上
 22. 《[初戀的去向和玩球](../Page/海岸邊最可愛的女孩！.md "wikilink")》（） -
-    山本（彈奏[吉他](../Page/吉他.md "wikilink")）、村瀨（彈奏吉他）、上西（演奏[康加鼓](https://zh.wikipedia.org/wiki/康加鼓 "wikilink")）
+    山本（彈奏[吉他](../Page/吉他.md "wikilink")）、村瀨（彈奏吉他）、上西（演奏[康加鼓](../Page/康加鼓.md "wikilink")）
 23. 《[太陽鏡和知心話](../Page/大蔥鴨們.md "wikilink")》（） - 研究生
 24. 《[杏仁羊角麵包計劃](https://zh.wikipedia.org/wiki/尖端頂點之上！ "wikilink")》（） -
     旧Team BII

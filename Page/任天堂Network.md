@@ -30,7 +30,6 @@ Network服务上的玩家[社交服务](../Page/社会网络.md "wikilink")。�
 
 [Category:Nintendo_Network](https://zh.wikipedia.org/wiki/Category:Nintendo_Network "wikilink")
 [Category:任天堂](https://zh.wikipedia.org/wiki/Category:任天堂 "wikilink")
-[Category:線上遊戲服務](https://zh.wikipedia.org/wiki/Category:線上遊戲服務 "wikilink")
 [Category:多人遊戲服務](https://zh.wikipedia.org/wiki/Category:多人遊戲服務 "wikilink")
 [Category:虛擬社群](https://zh.wikipedia.org/wiki/Category:虛擬社群 "wikilink")
 [Category:任天堂3DS家族](https://zh.wikipedia.org/wiki/Category:任天堂3DS家族 "wikilink")

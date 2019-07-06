@@ -285,6 +285,12 @@ A系列為OPPO的中低端手機系列，以前置相機自拍美顏及獨立三
 <td><p>聯發科 MT6771V（Helio P70）</p></td>
 <td><p>發表於2019年</p></td>
 </tr>
+<tr class="odd">
+<td><p>A9x</p></td>
+<td><p> ''' '''</p></td>
+<td><p>聯發科MT6771V (Helio P70)</p></td>
+<td><p>發表於2019年</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -310,11 +316,12 @@ OPPO在特定市場為其手機邀請明星代言人，擴大產品與品牌知�
   - [李易峰](../Page/李易峰.md "wikilink")
   - [楊洋](https://zh.wikipedia.org/wiki/杨洋 "wikilink")
   - TFBOYS [王俊凱](../Page/王俊凯.md "wikilink")
+  - [TFBOYS](../Page/TFBOYS.md "wikilink")
   - [迪麗熱巴](https://zh.wikipedia.org/wiki/迪丽热巴 "wikilink") (包括 馬來西亞 市場）
   - [陳偉霆](../Page/陳偉霆.md "wikilink")
   - [張一山](../Page/张一山.md "wikilink")
   - [楊紫](../Page/杨紫.md "wikilink")
-  - [鄭凱](../Page/郑凯.md "wikilink")
+  - 郑恺
 
 **台灣**
 

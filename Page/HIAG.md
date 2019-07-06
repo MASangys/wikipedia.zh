@@ -23,6 +23,7 @@ HIAG组织在20世纪60年代达到其顶峰。当时生活在[西德的约](../
     project](http://www.uni-bielefeld.de/Universitaet/Einrichtungen/Pressestelle/dokumente/pressedienst-forschung/26_2006/Wilke%20HIAG%2019.5.pdf)
 
 [Category:二战战争后果](https://zh.wikipedia.org/wiki/Category:二战战争后果 "wikilink")
+[Category:德国极右翼政治](https://zh.wikipedia.org/wiki/Category:德国极右翼政治 "wikilink")
 
 1.  Karsten Wilke: *Die »Hilfsgemeinschaft auf Gegenseitigkeit« (HIAG).
     Veteranen der Waffen-SS in der Bundesrepublik.* Schöningh, Paderborn

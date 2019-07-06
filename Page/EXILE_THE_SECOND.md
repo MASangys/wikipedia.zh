@@ -489,6 +489,7 @@ EX FAMILY限定\! THE SECOND from EXILE "キックオフミーティング"\[14\
 [Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink")
 [Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink")
 [Category:EXILE_TRIBE](https://zh.wikipedia.org/wiki/Category:EXILE_TRIBE "wikilink")
+[Category:LDH所屬藝人](https://zh.wikipedia.org/wiki/Category:LDH所屬藝人 "wikilink")
 
 1.  [EXILE TRIBE NEW UNIT “THE SECOND”
     始動！](http://exile.jp/news/201207011.html)

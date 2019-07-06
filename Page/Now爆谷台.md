@@ -12,7 +12,7 @@ Movie**）是[now寬頻電視旗下的一條電影頻道](https://zh.wikipedia.o
 
 ## 合作
 
-**now爆谷台**由now寬頻電視及[華誼兄弟](https://zh.wikipedia.org/wiki/華誼兄弟 "wikilink")、[安樂影片](../Page/安樂影片.md "wikilink")、[我們製作](https://zh.wikipedia.org/wiki/我們製作 "wikilink")[陳可辛監製導演及合作](../Page/陳可辛.md "wikilink")，是唯一一條頻道由四大公司合作\[2\]。
+now爆谷台由now寬頻電視及[華誼兄弟](https://zh.wikipedia.org/wiki/華誼兄弟 "wikilink")、[安樂影片](../Page/安樂影片.md "wikilink")、[我們製作](https://zh.wikipedia.org/wiki/我們製作 "wikilink")[陳可辛監製導演及合作](../Page/陳可辛.md "wikilink")，是唯一一條頻道由四大公司合作\[2\]。
 
 ## 播放節目
 

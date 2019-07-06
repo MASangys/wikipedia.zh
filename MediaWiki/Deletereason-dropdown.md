@@ -6,6 +6,7 @@
       - 已移动至维基教科书
       - 已移动至维基语录
       - 已移动至维基文库
+      - 已移动至维基学院
   - 常规删除理由
       - [G1](https://zh.wikipedia.org/wiki/WP:CSD#G1 "wikilink"):
         没有实际内容的页面

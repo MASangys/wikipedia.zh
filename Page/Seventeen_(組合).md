@@ -1223,6 +1223,34 @@ School於](../Page/After_School.md "wikilink")2009年拿到[人氣歌謠一位�
 <td></td>
 </tr>
 <tr class="even">
+<td><p>2019 《SEVENTEEN WORLD TOUR "ODE TO YOU"》</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年8月30日</p></td>
+<td></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a></p></td>
+<td><p><a href="../Page/首尔奥林匹克体操竞技场.md" title="wikilink">首爾奧林匹克體操競技場</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年8月31日</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年9月1日</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>

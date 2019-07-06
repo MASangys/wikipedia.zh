@@ -113,7 +113,7 @@ B?](https://zh.wikipedia.org/wiki/Do_U_Wanna_B? "wikilink")》正式出道。
 | 2019年3月21日      | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink") | [歡樂在一起](../Page/歡樂在一起.md "wikilink")                                      | EP581   |
 | 2019年4月3日       | [JTBC](../Page/JTBC.md "wikilink")                    | [請給一頓飯Show](https://zh.wikipedia.org/wiki/請給一頓飯Show "wikilink")           | EP121   |
 | 2019年4月4日       | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")   | [人生酒館](https://zh.wikipedia.org/wiki/人生酒館 "wikilink")                     | EP117   |
-| 2019年4月7日       | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   | [超人回來了](https://zh.wikipedia.org/wiki/超人回來了 "wikilink")                   | EP272   |
+| 2019年4月7日       | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   | [超人回來了](https://zh.wikipedia.org/wiki/超人回來了 "wikilink")                   | EP280   |
 
 #### 固定綜藝
 

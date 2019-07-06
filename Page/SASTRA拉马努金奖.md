@@ -1,4 +1,4 @@
-**SASTRA拉马努金奖**（）是为纪念[印度著名数学家](../Page/印度.md "wikilink")[拉马努金而设立的奖项](https://zh.wikipedia.org/wiki/拉马努金 "wikilink")，由位于拉马努金故乡[贡伯戈讷姆的Shanmugha文理工研究院](https://zh.wikipedia.org/wiki/贡伯戈讷姆 "wikilink")（简称SASTRA）所颁发。该奖项自2005年起每年颁发一次，授予在拉马努金的研究领域中作出杰出贡献的年轻数学家。获奖者的年龄需在32岁以下（拉马努金去世时的年龄），奖金为10000美元。\[1\]
+**SASTRA拉马努金奖**（）是为纪念[印度著名数学家](../Page/印度.md "wikilink")[拉马努金而设立的奖项](https://zh.wikipedia.org/wiki/拉马努金 "wikilink")，由位于拉马努金故乡[贡伯戈讷姆的Shanmugha文理工研究院](../Page/贡伯戈讷姆.md "wikilink")（简称SASTRA）所颁发。该奖项自2005年起每年颁发一次，授予在拉马努金的研究领域中作出杰出贡献的年轻数学家。获奖者的年龄需在32岁以下（拉马努金去世时的年龄），奖金为10000美元。\[1\]
 
 ## 历届获奖者
 

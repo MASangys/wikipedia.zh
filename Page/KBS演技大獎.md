@@ -323,7 +323,7 @@
 <a href="../Page/金秀賢_(男演員).md" title="wikilink">金秀賢</a>（<a href="../Page/製作人_(韓國電視劇).md" title="wikilink">製作人</a>）</p></td>
 <td><p><a href="../Page/蘇志燮.md" title="wikilink">蘇志燮</a>（<a href="../Page/Oh_My_Venus.md" title="wikilink">Oh My Venus</a>）</p></td>
 <td><p><a href="../Page/蔡時那.md" title="wikilink">蔡時那</a>（<a href="https://zh.wikipedia.org/wiki/不善良的女人們" title="wikilink">不善良的女人們</a>）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/車太鉉" title="wikilink">車太鉉</a>（<a href="../Page/製作人_(韓國電視劇).md" title="wikilink">製作人</a>）<br />
+<td><p><a href="../Page/車太鉉.md" title="wikilink">車太鉉</a>（<a href="../Page/製作人_(韓國電視劇).md" title="wikilink">製作人</a>）<br />
 <a href="../Page/張赫_(韓國).md" title="wikilink">張赫</a>（<a href="../Page/生意之神－客主2015.md" title="wikilink">生意之神－客主2015</a>）<br />
 <a href="../Page/金甲洙.md" title="wikilink">金甲洙</a>（<a href="../Page/拜託了，媽媽.md" title="wikilink">拜託了，媽媽</a>）<br />
 <a href="../Page/金太祐.md" title="wikilink">金太祐</a>（<a href="../Page/懲毖錄_(電視劇).md" title="wikilink">懲毖錄</a>）<br />
@@ -362,7 +362,7 @@
 <td><p><a href="../Page/劉東根.md" title="wikilink">劉東根</a>（<a href="../Page/一起生活吧.md" title="wikilink">一起生活吧</a>）<br />
 <a href="../Page/金明民.md" title="wikilink">金明民</a>（<a href="https://zh.wikipedia.org/wiki/我们遇见的奇迹" title="wikilink">我们遇见的奇迹</a>）</p></td>
 <td><p><a href="../Page/崔秀宗.md" title="wikilink">崔秀宗</a>（<a href="https://zh.wikipedia.org/wiki/我唯一的守护者" title="wikilink">我唯一的守护者</a>）<br />
-<a href="https://zh.wikipedia.org/wiki/車太鉉" title="wikilink">車太鉉</a>（<a href="https://zh.wikipedia.org/wiki/最完美的离婚_(韩国电视剧)" title="wikilink">最完美的离婚</a>）</p></td>
+<a href="../Page/車太鉉.md" title="wikilink">車太鉉</a>（<a href="https://zh.wikipedia.org/wiki/最完美的离婚_(韩国电视剧)" title="wikilink">最完美的离婚</a>）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/张美姬" title="wikilink">张美姬</a>（<a href="../Page/一起生活吧.md" title="wikilink">一起生活吧</a>）<br />
 <a href="https://zh.wikipedia.org/wiki/车和娟" title="wikilink">车和娟</a>（<a href="https://zh.wikipedia.org/wiki/我唯一的守护者" title="wikilink">我唯一的守护者</a>）</p></td>
 <td><p><a href="../Page/张东健.md" title="wikilink">张东健</a>（<a href="https://zh.wikipedia.org/wiki/Suits_(韩国电视剧)" title="wikilink">Suits</a>）<br />
@@ -1969,7 +1969,7 @@
 </tr>
 <tr class="even">
 <td><p>男子迷你劇優秀演技獎</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/車太鉉" title="wikilink">車太鉉</a>（<a href="../Page/製作人_(韓國電視劇).md" title="wikilink">製作人</a>）</p></td>
+<td><p><a href="../Page/車太鉉.md" title="wikilink">車太鉉</a>（<a href="../Page/製作人_(韓國電視劇).md" title="wikilink">製作人</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>女子迷你劇優秀演技獎</p></td>
@@ -2314,7 +2314,7 @@
 <tr class="even">
 <td><p>男子最優秀演技獎</p></td>
 <td><p><a href="../Page/崔秀宗.md" title="wikilink">崔秀宗</a>（<a href="https://zh.wikipedia.org/wiki/我唯一的守护者" title="wikilink">我唯一的守护者</a>）<br />
-<a href="https://zh.wikipedia.org/wiki/車太鉉" title="wikilink">車太鉉</a>（<a href="https://zh.wikipedia.org/wiki/最完美的离婚_(韩国电视剧)" title="wikilink">最完美的离婚</a>）</p></td>
+<a href="../Page/車太鉉.md" title="wikilink">車太鉉</a>（<a href="https://zh.wikipedia.org/wiki/最完美的离婚_(韩国电视剧)" title="wikilink">最完美的离婚</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>女子最優秀演技獎</p></td>
@@ -2403,7 +2403,7 @@
 <td><p><a href="../Page/徐康俊.md" title="wikilink">徐康俊</a>&amp;<a href="https://zh.wikipedia.org/wiki/孔昇延" title="wikilink">孔昇延</a>（<a href="https://zh.wikipedia.org/wiki/你也是人类吗" title="wikilink">你也是人类吗</a>）<br />
 <a href="../Page/崔丹尼尔.md" title="wikilink">崔丹尼尔</a>&amp;<a href="../Page/白珍熙.md" title="wikilink">白珍熙</a>（<a href="../Page/Jugglers.md" title="wikilink">Jugglers</a>）<br />
 <a href="../Page/金明民.md" title="wikilink">金明民</a>&amp;<a href="https://zh.wikipedia.org/wiki/罗美兰" title="wikilink">罗美兰</a>（<a href="https://zh.wikipedia.org/wiki/我们遇见的奇迹" title="wikilink">我们遇见的奇迹</a>）<br />
-<a href="https://zh.wikipedia.org/wiki/車太鉉" title="wikilink">車太鉉</a>&amp;<a href="../Page/裴斗娜.md" title="wikilink">裴斗娜</a>（<a href="https://zh.wikipedia.org/wiki/最完美的离婚_(韩国电视剧)" title="wikilink">最完美的离婚</a>）<br />
+<a href="../Page/車太鉉.md" title="wikilink">車太鉉</a>&amp;<a href="../Page/裴斗娜.md" title="wikilink">裴斗娜</a>（<a href="https://zh.wikipedia.org/wiki/最完美的离婚_(韩国电视剧)" title="wikilink">最完美的离婚</a>）<br />
 <a href="../Page/劉東根.md" title="wikilink">劉東根</a>&amp;<a href="https://zh.wikipedia.org/wiki/张美姬" title="wikilink">张美姬</a>（<a href="../Page/一起生活吧.md" title="wikilink">一起生活吧</a>）<br />
 <a href="../Page/李章宇.md" title="wikilink">李章宇</a>&amp;<a href="https://zh.wikipedia.org/wiki/金幽珍" title="wikilink">金幽珍</a>（<a href="https://zh.wikipedia.org/wiki/我唯一的守护者" title="wikilink">我唯一的守护者</a>）<br />
 <a href="../Page/崔秀宗.md" title="wikilink">崔秀宗</a>&amp;<a href="https://zh.wikipedia.org/wiki/陳慶_(南韓)" title="wikilink">陳慶</a>（<a href="https://zh.wikipedia.org/wiki/我唯一的守护者" title="wikilink">我唯一的守护者</a>）</p></td>

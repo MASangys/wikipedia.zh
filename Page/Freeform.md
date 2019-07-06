@@ -22,7 +22,7 @@ Family將於2016年1月12日起更名為Freeform。\[5\]\[6\]
 
 ### 福斯家庭（1998年－2001年）
 
-[Fox_Family_Channel_original_logo_JPG.jpg](https://zh.wikipedia.org/wiki/File:Fox_Family_Channel_original_logo_JPG.jpg "fig:Fox_Family_Channel_original_logo_JPG.jpg")
+[Fox_Family_Channel_original_logo.jpg](https://zh.wikipedia.org/wiki/File:Fox_Family_Channel_original_logo.jpg "fig:Fox_Family_Channel_original_logo.jpg")
 1998年，全球家庭娛樂出售家庭頻道。[新聞集團開始進入關於買下家庭頻道股份並與全球家庭娛樂合作事宜的討論](https://zh.wikipedia.org/wiki/新聞集團_\(1979－2013年\) "wikilink")，並利用該頻道帶出電視製作公司廣大的兒童節目庫。\[14\]
 同年6月12日，全球家庭娛樂被新聞集團與賽班娛樂合資創造的福斯兒童全球公司（）收購，並更名為福斯家庭全球公司（），而家庭頻道於1998年8月15日正式更名為**福斯家庭**（）。\[15\]\[16\]
 由於所有權的變更，福斯家庭的運營從[弗吉尼亞州](https://zh.wikipedia.org/wiki/弗吉尼亞州 "wikilink")[維珍尼亞海灘](../Page/維珍尼亞海灘.md "wikilink")（視博恩總部）遷移至新聞集團旗下其他有線電視網位在[洛杉磯的公司](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")。

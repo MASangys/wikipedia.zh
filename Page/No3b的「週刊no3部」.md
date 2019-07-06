@@ -64,7 +64,7 @@ HIGH》結束，此節目移動到每週星期五24:40至25:00播出。2014年1�
   - [ノースリーブス公式サイト](http://www.no3b.net/)（Epic Records Japan）
 
 [Category:AKB48](https://zh.wikipedia.org/wiki/Category:AKB48 "wikilink")
-[Category:日本廣播節目](https://zh.wikipedia.org/wiki/Category:日本廣播節目 "wikilink")
+[Category:日本放送的广播节目](https://zh.wikipedia.org/wiki/Category:日本放送的广播节目 "wikilink")
 
 1.  [公式サイト](http://www.allnightnippon.com/program/no3b/)
 2.  [2014 新春特別プログラムのご案内](http://www.1242.com/2013_2014/?03)

@@ -400,6 +400,7 @@ EXILE SHOKICHI LIVE TOUR 2019 "UNDERDOGG"\[45\]
 [Category:日本創作歌手](https://zh.wikipedia.org/wiki/Category:日本創作歌手 "wikilink")
 [Category:日本作詞家](https://zh.wikipedia.org/wiki/Category:日本作詞家 "wikilink")
 [Category:日本作曲家](https://zh.wikipedia.org/wiki/Category:日本作曲家 "wikilink")
+[Category:LDH所屬藝人](https://zh.wikipedia.org/wiki/Category:LDH所屬藝人 "wikilink")
 
 1.
 

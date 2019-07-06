@@ -561,7 +561,7 @@
 <tr class="even">
 <td><p>男子新人獎</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/金相慶" title="wikilink">金相慶</a>（）<br />
-<a href="https://zh.wikipedia.org/wiki/車太鉉" title="wikilink">車太鉉</a>（）</p></td>
+<a href="../Page/車太鉉.md" title="wikilink">車太鉉</a>（）</p></td>
 </tr>
 <tr class="odd">
 <td><p>女子新人獎</p></td>

@@ -199,6 +199,7 @@ SECOND](../Page/EXILE_THE_SECOND.md "wikilink")。
 [Category:日本電影演員](https://zh.wikipedia.org/wiki/Category:日本電影演員 "wikilink")
 [Category:神奈川縣出身人物](https://zh.wikipedia.org/wiki/Category:神奈川縣出身人物 "wikilink")
 [Category:靜岡縣出身人物](https://zh.wikipedia.org/wiki/Category:靜岡縣出身人物 "wikilink")
+[Category:LDH所屬藝人](https://zh.wikipedia.org/wiki/Category:LDH所屬藝人 "wikilink")
 
 1.
 2.  [EXILE・AKIRAが『日本映画批評家大賞』新人賞映画関連初受賞に喜びひとしお](http://career.oricon.co.jp/news/76012/full/)

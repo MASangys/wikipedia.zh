@@ -9,7 +9,7 @@ ROOKIES](../Page/SM_ROOKIES.md "wikilink")」計劃的女子團體。\[1\]
 
 該團體起初由[Irene](../Page/Irene_\(Red_Velvet\).md "wikilink")、[Seulgi](../Page/瑟琪.md "wikilink")、[Wendy](../Page/Wendy_\(Red_Velvet\).md "wikilink")、[Joy四名成員組成](../Page/Joy_\(Red_Velvet\).md "wikilink")。2014年8月1日，在[KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")《[音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")》以數位單曲《[Happiness](https://zh.wikipedia.org/wiki/Happiness_\(Red_Velvet單曲\) "wikilink")》一曲正式出道。\[2\]2015年3月，加入新成員[Yeri](../Page/Yeri.md "wikilink")\[3\]，成為五人形式的女子組合，並發行首張迷你專輯《[Ice
 Cream
-Cake](https://zh.wikipedia.org/wiki/Ice_Cream_Cake "wikilink")》。同年3月27號在[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《[音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")》拿下首次音樂節目冠軍，距離出道時間至首次音樂節目冠軍只有238天（成員Yeri僅出道11天）。\[4\]
+Cake](https://zh.wikipedia.org/wiki/Ice_Cream_Cake "wikilink")》。同年3月27號在[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《[音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")》拿下首次音樂節目冠軍，距離出道時間至首次音樂節目冠軍為238天（成員Yeri出道11天）。\[4\]
 
 Red Velvet 的問候口號為：「Happiness！大家好，我們是Red
 Velvet。」（），並在說Happiness時兩手食指在嘴前畫出笑容。
@@ -291,7 +291,7 @@ JAPAN演唱會](../Page/REDMARE.md "wikilink")」，共計超過45,000觀眾參�
 
 6月4日，官方公佈回歸照，宣佈於6月19日攜帶新專輯《[The ReVe Festival: Day
 1](../Page/The_ReVe_Festival:_Day_1.md "wikilink")》回歸。甫推出，登上iTunes综合專輯榜美国、加拿大、巴西等共28個國家和地區1位，是第一個韓國女子團體登上美國iTunes綜合專輯榜第一位。而主打歌《Zimzalabim》的MV為Red
-Velvet作品中發佈後最快獲得1,000,000的YouTube觀看次數。\[100\]
+Velvet作品中發佈後最快獲得10,000,000的YouTube觀看次數。\[100\]
 
 ## 音樂作品
 
@@ -585,13 +585,13 @@ Velvet》再次在美國[告示牌世界專輯榜中奪下第一](https://zh.wik
 <td><p><a href="../Page/韓國放送公社.md" title="wikilink">KBS</a></p></td>
 </tr>
 <tr class="even">
-<td><p>13</p></td>
-<td><p>8</p></td>
+<td><p>14</p></td>
+<td><p>9</p></td>
 </tr>
 <tr class="odd">
-<td><p>一位總數：53<br />
+<td><p>一位總數：58<br />
 四台冠軍歌曲總數：3<br />
-五台冠軍歌曲總數：3<br />
+五台冠軍歌曲總數：4<br />
 六台冠軍歌曲總數：2</p></td>
 <td><p>HOT3歌曲總數：4</p></td>
 </tr>

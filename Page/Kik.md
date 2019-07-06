@@ -23,6 +23,15 @@ Kik Messenger 的基本功能有：
 
 在這之後全世界依賴這些套件的軟體都建置失敗，包含babel、react-native、ember等大型專案。一個商標爭議就此成為全世界JavaScript開發者社群的軟體災難與公眾事件。\[6\]
 
+## 参见
+
+  - [即時通訊](../Page/即時通訊.md "wikilink")
+  - [即时通讯软件列表](https://zh.wikipedia.org/wiki/即时通讯软件列表 "wikilink")
+  - [LINE](https://zh.wikipedia.org/wiki/连我 "wikilink")
+  - [微信](../Page/微信.md "wikilink")
+  - [KakaoTalk](../Page/KakaoTalk.md "wikilink")
+  - [TalkBox](https://zh.wikipedia.org/wiki/TalkBox_語音聊 "wikilink")
+
 ## 参考文献
 
 ## 外部链接

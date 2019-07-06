@@ -383,6 +383,7 @@ PRESENT》兩版本年曆。
 | Rocky     | Rocky                                               |                                                          |     |     |     |
 | 尹產賀       | 尹產賀                                                 |                                                          |     |     |     |
 | 2018      | [YouTube](../Page/YouTube.md "wikilink")            | [Top Management](../Page/Top_Management.md "wikilink")   | 車銀優 | 禹延宇 | 男主角 |
+| 2019      |                                                     | 愛情公式11M                                                  | 尹產賀 | 泰吳  | 男主角 |
 
 ### 電視劇
 

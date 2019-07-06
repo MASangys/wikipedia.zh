@@ -560,7 +560,7 @@ SHOW』是[日本](../Page/日本.md "wikilink")[特攝的](https://zh.wikipedia
 
   - 日期：2018年1月24日
   - 地點：日本武道館
-  - 演員：宇宙戰隊九連者、[假面騎士Build](../Page/假面騎士Build.md "wikilink")
+  - 演員：[宇宙戰隊九連者](https://zh.wikipedia.org/wiki/宇宙戰隊九連者 "wikilink")、[假面騎士Build](../Page/假面騎士Build.md "wikilink")
 
 <!-- end list -->
 

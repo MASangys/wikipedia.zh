@@ -201,7 +201,7 @@ THE MOVIE
 <tr class="odd">
 <td><p>2014</p></td>
 <td><p>第3届<a href="https://zh.wikipedia.org/wiki/光點日本奖" title="wikilink">光點日本奖</a></p></td>
-<td><p>头等奖</p></td>
+<td><p>3D技術運用头等奖</p></td>
 <td><p>《哆啦A梦：伴我同行》</p></td>
 <td></td>
 <td><p>[24]</p></td>
@@ -223,12 +223,61 @@ THE MOVIE
 <td><p>[26]</p></td>
 </tr>
 <tr class="even">
+<td><p>2014</p></td>
+<td><p>第31届黃金收入獎</p></td>
+<td><p>最優秀金獎</p></td>
+<td><p>《哆啦A梦：伴我同行》</p></td>
+<td></td>
+<td><p>[27]</p></td>
+</tr>
+<tr class="odd">
+<td><p>2014</p></td>
+<td><p>第24届<a href="../Page/日本電影影評人大獎.md" title="wikilink">日本電影影評人大獎</a></p></td>
+<td><p>終身成就獎</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梅澤道彦" title="wikilink">梅澤道彦</a>（製片人）、<br />
+<a href="https://zh.wikipedia.org/wiki/阿部秀司" title="wikilink">阿部秀司</a></p></td>
+<td></td>
+<td><p>[28]</p></td>
+</tr>
+<tr class="even">
+<td><p>2014</p></td>
+<td><p>第1屆<a href="../Page/豆瓣.md" title="wikilink">豆瓣電影年度榜單</a></p></td>
+<td><p>评分最高的动画片</p></td>
+<td><p>《哆啦A梦：伴我同行》</p></td>
+<td></td>
+<td><p>[29]</p></td>
+</tr>
+<tr class="odd">
+<td><p>2014</p></td>
+<td><p>第68届<a href="../Page/每日電影獎.md" title="wikilink">每日電影獎</a></p></td>
+<td><p>最佳動画電影</p></td>
+<td><p>《哆啦A梦：伴我同行》</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2014</p></td>
+<td><p>第18屆</p></td>
+<td><p>日本電影獎</p></td>
+<td><p>《哆啦A梦：伴我同行》</p></td>
+<td></td>
+<td><p>[30]</p></td>
+</tr>
+<tr class="odd">
+<td><p>難忘作品獎</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>2015</p></td>
 <td><p>夕張國際奇幻電影節</p></td>
 <td><p>VFX日本大獎</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/八木龙一" title="wikilink">八木龙一</a></p></td>
 <td></td>
-<td><p>[27]</p></td>
+<td><p>[31]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2015</p></td>
@@ -236,7 +285,7 @@ THE MOVIE
 <td><p>外國動畫評審團獎</p></td>
 <td><p>《哆啦A梦：伴我同行》</p></td>
 <td></td>
-<td><p>[28]</p></td>
+<td><p>[32]</p></td>
 </tr>
 <tr class="even">
 <td><p>2015</p></td>
@@ -244,7 +293,7 @@ THE MOVIE
 <td><p>最佳动画片奖</p></td>
 <td><p>《哆啦A梦：伴我同行》</p></td>
 <td></td>
-<td><p>[29]</p></td>
+<td><p>[33]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2015</p></td>
@@ -257,33 +306,57 @@ THE MOVIE
 <tr class="even">
 <td><p>2015</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/东京动画奖" title="wikilink">东京动画奖</a></p></td>
-<td><p>年度最佳动画、剧场版电影类优秀奖</p></td>
+<td><p>年度最佳动画</p></td>
 <td><p>《哆啦A梦：伴我同行》</p></td>
 <td></td>
-<td><p>[30]</p></td>
+<td><p>[34]</p></td>
 </tr>
 <tr class="odd">
+<td><p>剧场版电影类优秀奖</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>2015</p></td>
 <td><p>第20届AMD大奖</p></td>
 <td><p>優秀獎</p></td>
 <td><p>《哆啦A梦：伴我同行》</p></td>
 <td></td>
-<td><p>[31]</p></td>
+<td><p>[35]</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2015</p></td>
 <td><p>第34届藤本賞</p></td>
 <td><p>大獎</p></td>
 <td><p>《哆啦A梦：伴我同行》</p></td>
 <td></td>
-<td><p>[32]</p></td>
+<td><p>[36]</p></td>
+</tr>
+<tr class="even">
+<td><p>2015</p></td>
+<td><p>ISUM新娘音樂獎2015</p></td>
+<td><p>婚禮中最受歡迎歌曲/藝術家</p></td>
+<td><p><a href="../Page/秦基博.md" title="wikilink">秦基博</a>《向日葵的約定》</p></td>
+<td></td>
+<td><p>[37]</p></td>
+</tr>
+<tr class="odd">
+<td><p>2015</p></td>
+<td><p>JOYSOUND年度綜合排名</p></td>
+<td><p>第一位</p></td>
+<td></td>
+<td><p>[38]</p></td>
+<td></td>
 </tr>
 </tbody>
 </table>
 
 ## 与原作的差异
 
-在電影版中，哆啦A夢被設定為只要大雄感到幸福，哆啦A夢就必須在48小時內強制回到未來世界，如果哆啦A夢不從命令，系統會給予電擊。這種對哆啦A夢造成傷害的設計是原作中從來不曾出現過、也完全沒有相關設定的，這個設計甚至被質疑違反作者的本意\[33\]。
+在電影版中，哆啦A夢被設定為只要大雄感到幸福，哆啦A夢就必須在48小時內強制回到未來世界，如果哆啦A夢不從命令，系統會給予電擊。這種對哆啦A夢造成傷害的設計是原作中從來不曾出現過、也完全沒有相關設定的，這個設計甚至被質疑違反作者的本意\[39\]。
 
 此电影与原作的差异
 
@@ -306,7 +379,7 @@ THE MOVIE
 ## 軼事
 
   - 在[香港](../Page/香港.md "wikilink")，為紀念多年來為多啦A夢配音的資深[配音員](../Page/配音員.md "wikilink")[林保全](../Page/林保全.md "wikilink")，電影開始前加插了一段由其女兒[林芷筠讀出的獨白](../Page/林芷筠.md "wikilink")。
-  - 2015年4月27日，作为中国大陆上映前宣传，推出中国风宣传海报，海报将哆啦A梦、大雄、静香与中国京剧元素结合在一起\[34\]。
+  - 2015年4月27日，作为中国大陆上映前宣传，推出中国风宣传海报，海报将哆啦A梦、大雄、静香与中国京剧元素结合在一起\[40\]。
 
 ## 参考资料
 
@@ -391,20 +464,35 @@ THE MOVIE
 
 26.
 
-27. [「STAND BY ME
-    ドラえもん」などVFX－JAPANアワード2015最優秀賞決定](http://s.animeanime.jp/article/2015/02/23/22094.html)
+27. [《電影哆啦A夢：大雄的金銀島》:繼《STAND BY ME 哆啦A夢》睽違 4
+    年再度獲得「黃金收入獎」的殊榮](https://chinesedora.com/news/8292.htm)
 
 28.
 
-29.
+29. [第1届豆瓣电影年度榜单 The 1st Douban Film Annual Awards
+    (2014)](https://movie.douban.com/awards/doubanfilm_annual/1/)
 
-30.
+30. [第19回(2014年)日本インターネット映画大賞結果](http://www.movieawards.jp/00300a2014.html)
 
-31.
+31. [「STAND BY ME
+    ドラえもん」などVFX－JAPANアワード2015最優秀賞決定](http://s.animeanime.jp/article/2015/02/23/22094.html)
 
 32.
 
-33. [\[影評](http://chinesedora.com/news/4561.htm) 《STAND BY ME
-    哆啦A夢》：大作後的劇情爭議\]
+33.
 
 34.
+
+35.
+
+36.
+
+37. [ISUMブライダルミュージックアワード2015開催 ～「ひまわりの約束」秦基博さん と「永遠」BENIさん
+    が受賞](https://prtimes.jp/main/html/rd/p/000000010.000009021.html)
+
+38. [2015年JOYSOUNDカラオケ年間ランキング｜JOYSOUND.com](https://www.joysound.com/web/s/karaoke/contents/annual_ranking/2015)
+
+39. [\[影評](http://chinesedora.com/news/4561.htm) 《STAND BY ME
+    哆啦A夢》：大作後的劇情爭議\]
+
+40.

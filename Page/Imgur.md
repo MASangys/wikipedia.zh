@@ -21,8 +21,8 @@ Services](https://zh.wikipedia.org/wiki/Amazon_Web_Services "wikilink")（2011�
 ## 外部連結
 
   -
-[Category:網絡相冊](https://zh.wikipedia.org/wiki/Category:網絡相冊 "wikilink")
 [Category:2009年創建的互聯網](https://zh.wikipedia.org/wiki/Category:2009年創建的互聯網 "wikilink")
+[Category:图片分享网站](https://zh.wikipedia.org/wiki/Category:图片分享网站 "wikilink")
 
 1.
 2.

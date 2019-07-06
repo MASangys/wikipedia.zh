@@ -96,13 +96,14 @@ Farrells及](https://zh.wikipedia.org/wiki/TFP_Farrell "wikilink")[瑞士建築�
 
 2018年11月30日 M+正式平頂
 
-## 工程圖片
+## 興建圖片
 
 <File:Entrance> of M+ Museum Construction Site.JPG|M+地基工程（2015年12月）
 <File:M+> Museum Site 201702.jpg|M+地盤（2017年2月） <File:M> Plus under
 construction in November 2017 (better contrast).jpg|M+地盤（2017年11月）
 <File:M+> 201801.jpg|M+地盤（2018年1月） <File:M+> under construction in July
-2018.jpg|M+地盤（2018年7月） M+ 201810.jpg|M+地盤（2018年10月）
+2018.jpg|M+地盤（2018年7月） <File:M+>
+201810.jpg|alt=更換承建商,所以M+的棚架大部分都拆掉了,但等到同年12月，棚架又再搭上了。）|M+地盤（2018年10月）
 
 ## 館藏
 

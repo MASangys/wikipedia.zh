@@ -21,14 +21,15 @@ PROMOTION"**\[2\]。,並舉行4埸公演。
 2015年3月15日於 弘大 BeZzang Hall 舉行 '''ALPHABAT FANMEETING IN KOREA "+A & -B
 " '''。另外 隊長 ''' 베타 B:eta ''' 會在這次FM之後入伍, 是次將會入伍前最後一次和 Alpha 相見。
 
-隊長 베타 池河龍
-已於2015年3月31日在第十七步兵師團參與新兵訓練營，2015年5月7日軍隊結業式中以一等成績結業，預計之後將於2016年12月30日退伍。
+隊長 베타 B:eta
+已於2015年3月31日在第十七步兵師團參與新兵訓練營，2015年5月7日軍隊結業式中以一等成績結業，並於2016年12月30日退伍。
 
-2015年5月30日 Simtong Entertainment發聲明表示 成員 코드 金湘訓 因腰傷及肩傷
+2015年5月30日 Simtong Entertainment發聲明表示 成員 코드 C:ode 因腰傷及肩傷
 暫時進入休息期,而下張專輯,由餘下7位成員完成。
 
-2015年7月28日公佈 於 2015年8月1日舉行兩場小型演唱會。 2018年10月宣佈加入新成員 L:amda
-成為五人團體發行新作品《新世界 (신세계)》回歸，並發布同名主打歌 MV 。
+2015年7月28日公佈 於 2015年8月1日舉行兩場小型演唱會。
+
+2018年10月宣佈加入新成員 L:ambda 成為五人團體發行新作品《新世界 (신세계)》回歸，並發布同名主打歌 MV 。
 AlphaBAT團體名稱意思\[3\]：BAT 令人聯想起BAT MAN，BAT
 MAN也就是英雄，表示他們希望成為英雄，能守護**Alpha**（**알파**）。
 
@@ -37,13 +38,14 @@ MAN也就是英雄，表示他們希望成為英雄，能守護**Alpha**（**알
   -
     <small>各成員的詳細資料請參閱各成員之頁面。</small>
 
-| 成員列表                                                          |
-| ------------------------------------------------------------- |
-| 藝名                                                            |
-| [B:eta](https://zh.wikipedia.org/wiki/池河龍 "wikilink")（베타）     |
-| [E:psilon](https://zh.wikipedia.org/wiki/劉泳進 "wikilink")（엡실론） |
-| K:appa（카파）                                                    |
-| [G:amma](https://zh.wikipedia.org/wiki/金俊洙 "wikilink")（감마）    |
+| 成員列表                                                           |
+| -------------------------------------------------------------- |
+| 藝名                                                             |
+| [B:eta](https://zh.wikipedia.org/wiki/池河龍 "wikilink")\[4\]（베타） |
+| [E:psilon](https://zh.wikipedia.org/wiki/劉泳進 "wikilink")（엡실론）  |
+| L:ambda\[5\]（람다）                                               |
+| K:appa（카파）                                                     |
+| [G:amma](https://zh.wikipedia.org/wiki/金俊洙 "wikilink")（감마）     |
 
 ### 前任成員
 
@@ -166,9 +168,9 @@ MAN也就是英雄，表示他們希望成為英雄，能守護**Alpha**（**알
 
 ## 問候口號
 
-  - **WHO's THE BEST?\! WHO\! ALPHABAT\!** ( AB City 時期 )\[4\]
-  - **ATTENTION\! WHO's THE BEST?\! WHO\! ALPHABAT\!** ( 딴따라 時期 )\[5\]
-  - **1\!2\!3\! WHO's THE BEST?\! WHO\! ALPHABAT\!** ( 답정너 時期 )\[6\]
+  - **WHO's THE BEST?\! WHO\! ALPHABAT\!** ( AB City 時期 )\[6\]
+  - **ATTENTION\! WHO's THE BEST?\! WHO\! ALPHABAT\!** ( 딴따라 時期 )\[7\]
+  - **1\!2\!3\! WHO's THE BEST?\! WHO\! ALPHABAT\!** ( 답정너 時期 )\[8\]
 
 ## 演出舞台
 
@@ -440,6 +442,8 @@ TV](https://www.youtube.com/watch?v=Km0jiWSiw3c&index=1&list=PLoKhrWwiWf4Z6LId3r
 1.
 2.
 3.
-4.
-5.
+4.  前[HITT成員](../Page/HITT.md "wikilink")
+5.  前[B2M娛樂練習生](../Page/B2M娛樂.md "wikilink")
 6.
+7.
+8.

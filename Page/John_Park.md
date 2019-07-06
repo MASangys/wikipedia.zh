@@ -195,6 +195,7 @@ K](https://zh.wikipedia.org/wiki/Superstar_K "wikilink")》第二季中獲得亞
   - 2017年：O'live 和 tvN《[岛剑客](../Page/岛剑客.md "wikilink")》13-17集
   - 2018年：[Netflix](../Page/Netflix.md "wikilink") 《Busted\!
     [明星來解謎](../Page/明星來解謎.md "wikilink") 》EP6 飾演 天才偵探團的偵探
+  - 2019: tvN 《在當地也吃的開嗎？美國篇》全集
 
 ## 獎項
 

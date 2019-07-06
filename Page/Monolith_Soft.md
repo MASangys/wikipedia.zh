@@ -13,7 +13,7 @@ Soft，\[1\]杉浦博英担任公司总裁兼首席执行官，公司地址位�
 Soft的96%股份中的8成出售给[任天堂](../Page/任天堂.md "wikilink")，此交易已于2007年5月1日完成。\[2\]2011年，任天堂终于将剩余的16%股份全部收购，至此Monolith
 Soft成为任天堂旗下的子公司，将专注于为任天堂及其硬件平台开发游戏软件。
 
-2011年7月8日，公司宣布在日本[京都市的四条烏丸成立了一个新的研发工作室](../Page/京都市.md "wikilink")。\[3\]京都市是任天堂总部的所在地，此前Monolith
+2011年7月8日，公司宣布在日本[京都市的四条烏丸成立了一个新的研发工作室](../Page/京都市.md "wikilink")。\[3\]\[4\]京都市是任天堂总部的所在地，此前Monolith
 Soft的总部一直在[东京都的](https://zh.wikipedia.org/wiki/东京都 "wikilink")[目黑區](../Page/目黑區.md "wikilink")。此举被看作是加强与任天堂总部的联系。
 
 ## 开发作品
@@ -80,14 +80,14 @@ Soft的总部一直在[东京都的](https://zh.wikipedia.org/wiki/东京都 "wi
 ## 协作开发作品
 
   - 《[地獄犬的輓歌：最終幻想VII](https://zh.wikipedia.org/wiki/地獄犬的輓歌：最終幻想VII "wikilink")》（[PlayStation
-    2](../Page/PlayStation_2.md "wikilink")，2006年1月26日，作为第三方承包游戏背景绘制）\[4\]
-  - 《[任天堂明星大亂鬥X](https://zh.wikipedia.org/wiki/任天堂明星大亂鬥X "wikilink")》（[Wii](../Page/Wii.md "wikilink")，2008年1月31日，协力开发、公司创始人之一的本根康之负责冒险模式『亜空の使者』的地图设计）\[5\]
+    2](../Page/PlayStation_2.md "wikilink")，2006年1月26日，作为第三方承包游戏背景绘制）\[5\]\[6\]
+  - 《[任天堂明星大亂鬥X](https://zh.wikipedia.org/wiki/任天堂明星大亂鬥X "wikilink")》（[Wii](../Page/Wii.md "wikilink")，2008年1月31日，协力开发、公司创始人之一的本根康之负责冒险模式『亜空の使者』的地图设计）\[7\]
   - 《[薩爾達傳說
     天空之劍](../Page/薩爾達傳說_天空之劍.md "wikilink")》（[Wii](../Page/Wii.md "wikilink")，2011年11月23日，受委托开发）
   - 《[走出戶外
     動物之森](https://zh.wikipedia.org/wiki/走出戶外_動物之森 "wikilink")》（[任天堂3DS](../Page/任天堂3DS.md "wikilink")，2012年11月8日，协力开发）
   - 《[皮克敏3](https://zh.wikipedia.org/wiki/皮克敏3 "wikilink")》（[Wii
-    U](../Page/Wii_U.md "wikilink")，2013年7月13日，协力开发）\[6\]
+    U](../Page/Wii_U.md "wikilink")，2013年7月13日，协力开发）\[8\]
   - 《[塞尔达传说
     众神的三角力量2](../Page/塞尔达传说_众神的三角力量2.md "wikilink")》（任天堂3DS，2013年11月22日，协力开发）
   - 《[Splatoon](../Page/Splatoon.md "wikilink")》（Wii U，2015年5月28日，协力开发）
@@ -95,7 +95,7 @@ Soft的总部一直在[东京都的](https://zh.wikipedia.org/wiki/东京都 "wi
     快乐之家设计师](../Page/动物之森_快乐之家设计师.md "wikilink")》（任天堂3DS，2015年7月30日，受委托开发）
   - 《[薩爾達傳說
     曠野之息](https://zh.wikipedia.org/wiki/薩爾達傳說_曠野之息 "wikilink")》（Wii
-    U、[任天堂Switch](../Page/任天堂Switch.md "wikilink")，2017年3月3日，协力开发）\[7\]
+    U、[任天堂Switch](../Page/任天堂Switch.md "wikilink")，2017年3月3日，协力开发）\[9\]
 
 ## 主要成员
 
@@ -113,20 +113,25 @@ Soft的总部一直在[东京都的](https://zh.wikipedia.org/wiki/东京都 "wi
   -
   -
 [Category:1999年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1999年開業電子遊戲公司 "wikilink")
-[Category:南梦宫](https://zh.wikipedia.org/wiki/Category:南梦宫 "wikilink")
-[Category:萬代南夢宮控股](https://zh.wikipedia.org/wiki/Category:萬代南夢宮控股 "wikilink")
 [Category:任天堂的部门与子公司](https://zh.wikipedia.org/wiki/Category:任天堂的部门与子公司 "wikilink")
 [Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink")
+[Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
 [Category:目黑區公司](https://zh.wikipedia.org/wiki/Category:目黑區公司 "wikilink")
+[Category:1999年日本建立](https://zh.wikipedia.org/wiki/Category:1999年日本建立 "wikilink")
 
 1.
+
 2.
-3.  <https://archive.is/20120720140849/www.andriasang.com/e/blog/2011/07/08/monolith_kyoto/>
-4.  [1](http://www.starpulse.com/Video_Games/Dirge_of_Cerberus:_Final_Fantasy_VII/gameinfo/Dirge_of_Cerberus:_Final_Fantasy_VII/H47278/C/)
+
+3.
+4.
+5.  [1](http://www.starpulse.com/Video_Games/Dirge_of_Cerberus:_Final_Fantasy_VII/gameinfo/Dirge_of_Cerberus:_Final_Fantasy_VII/H47278/C/)
     . *Dirge of Cerberus: Final Fantasy VII (PlayStation 2) Credits*.
-5.  [大乱闘スマッシュブラザーズX まとめwiki -
+
+6.
+7.  [大乱闘スマッシュブラザーズX まとめwiki -
     スタッフ・声優](http://www13.atwiki.jp/sumaburax/pages/232.html)
-6.  [Nintendo-Online.de](http://www.nintendo-online.de/wiiu/news/12342/monolith-soft-half-bei-pikmin-3-mit)
-7.  [Nintendo's getting help from Monolith on Legend of Zelda: Breath of
-    the
-    Wild](http://www.polygon.com/e3/2016/6/20/11978514/legend-of-zelda-breath-of-the-wild-monolith-soft).Polygon.2016-06-20.\[2016-06-26\].
+
+8.  [Nintendo-Online.de](http://www.nintendo-online.de/wiiu/news/12342/monolith-soft-half-bei-pikmin-3-mit)
+
+9.

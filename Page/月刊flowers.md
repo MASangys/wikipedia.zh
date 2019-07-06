@@ -18,6 +18,8 @@
 
   - [エンジェル・トランペット](https://zh.wikipedia.org/wiki/:ja:エンジェル・トランペット "wikilink")（[赤石路代](../Page/赤石路代.md "wikilink")）
 
+  - 輝夜伝（[齊藤千穗](../Page/齊藤千穗.md "wikilink")）
+
   - [風光る](https://zh.wikipedia.org/wiki/:ja:風光る_\(渡辺多恵子\) "wikilink")（[渡邊多惠子](../Page/渡邊多惠子.md "wikilink")）
 
   - 黄色い猫の夢日記（[奈知未佐子](../Page/奈知未佐子.md "wikilink")）
@@ -31,14 +33,12 @@
 
   - [月影ベイベ](https://zh.wikipedia.org/wiki/:ja:月影ベイベ "wikilink")（[小玉ユキ](https://zh.wikipedia.org/wiki/:ja:小玉ユキ "wikilink")）
 
-  - [とりかえ・ばや](https://zh.wikipedia.org/wiki/:ja:とりかえ・ばや "wikilink")（[齊藤千穗](../Page/齊藤千穗.md "wikilink")）
-
   - 逃げても逃げても（[ねむようこ](https://zh.wikipedia.org/wiki/:ja:ねむようこ "wikilink")）
 
   - 都の昼寝物語（[秋里和國](https://zh.wikipedia.org/wiki/:ja:秋里和国 "wikilink")）
 
   - [夢幻遊戲
-    白虎仙記](../Page/夢幻遊戲_白虎仙記.md "wikilink")（[渡瀨悠宇](../Page/渡瀨悠宇.md "wikilink")）
+    白虎仙記](../Page/夢幻遊戲_白虎仙記.md "wikilink")（[渡瀨悠宇](../Page/渡瀨悠宇.md "wikilink")）（休載中）
 
 ## 過去連載作品
 
@@ -72,6 +72,7 @@
   - とりあえず地球が滅びる前に（[ねむようこ](https://zh.wikipedia.org/wiki/:ja:ねむようこ "wikilink")）
   - ドリームスケープ（江平洋巳）
   - 薄幸日和（[グレゴリ青山](https://zh.wikipedia.org/wiki/:ja:グレゴリ青山 "wikilink")）
+  - [とりかえ・ばや](https://zh.wikipedia.org/wiki/:ja:とりかえ・ばや "wikilink")（[齊藤千穗](../Page/齊藤千穗.md "wikilink")）
   - [羽衣ミシン](https://zh.wikipedia.org/wiki/:ja:羽衣ミシン "wikilink")（小玉ユキ）
   - [沉睡的秘境](https://zh.wikipedia.org/wiki/沉睡的秘境 "wikilink") (萩尾望都)
   - [光之海](https://zh.wikipedia.org/wiki/:ja:光の海_\(漫画\) "wikilink")（小玉ユキ）

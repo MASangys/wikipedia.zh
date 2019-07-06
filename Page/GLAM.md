@@ -1,5 +1,5 @@
-**GLAM**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Big Hit
-Entertainment公司與](https://zh.wikipedia.org/wiki/Big_Hit_Entertainment "wikilink")[Source
+**GLAM**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Big
+Hit娱乐與](https://zh.wikipedia.org/wiki/Big_Hit娱乐 "wikilink")[Source
 Music公司聯手打造於](https://zh.wikipedia.org/wiki/Source_Music "wikilink")2012年推出的女子團體。成員由朴智妍、Zinni、多喜、美笑組成，四人皆擁有與生俱來的歌唱、舞蹈及樂器等方面的天分，是一組實力及外貌兼具的個性派偶像。2012年7月16日以〈Party
 (XXO)〉正式出道。
 

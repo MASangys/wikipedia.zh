@@ -1478,6 +1478,7 @@ LIVE TOUR 2014「BLUE IMPACT」</p></td>
 [Category:Japan_Hot_100年榜冠軍獲得者](https://zh.wikipedia.org/wiki/Category:Japan_Hot_100年榜冠軍獲得者 "wikilink")
 [Category:日本有線大獎獲獎者](https://zh.wikipedia.org/wiki/Category:日本有線大獎獲獎者 "wikilink")
 [Category:Oricon卡拉OK年榜冠軍獲得者](https://zh.wikipedia.org/wiki/Category:Oricon卡拉OK年榜冠軍獲得者 "wikilink")
+[Category:LDH所屬藝人](https://zh.wikipedia.org/wiki/Category:LDH所屬藝人 "wikilink")
 
 1.
 

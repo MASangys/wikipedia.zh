@@ -5,8 +5,9 @@ War）系列、《[無盡之劍](https://zh.wikipedia.org/wiki/無盡之劍 "wik
 
 ## 歷史
 
+### Epic MegaGames（1991–1999）
 
-\===Epic MegaGames（1991–1999）=== 1991年Tim
+1991年Tim
 Sweeney在[馬里蘭州的](https://zh.wikipedia.org/wiki/馬里蘭州 "wikilink")[羅克維爾創立了Epic](https://zh.wikipedia.org/wiki/羅克維爾 "wikilink")
 MegaGames，依託於波托馬克計算機系統。同年通過波托馬克電腦系統公佈其旗艦產品：。打響了Epic
 MegaGames在業界的知名度。接著Epic

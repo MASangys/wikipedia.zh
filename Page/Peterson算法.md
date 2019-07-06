@@ -14,22 +14,22 @@ Peterson算法是基于双线程互斥访问的LockOne与LockTwo算法而来。\
 <table>
 <tbody>
 <tr class="odd">
-<td><div class="sourceCode" id="cb1"><pre class="sourceCode cpp"><code class="sourceCode cpp"><a class="sourceLine" id="cb1-1" title="1"><span class="co">//flag[] is boolean array; and turn is an integer</span></a>
-<a class="sourceLine" id="cb1-2" title="2">flag[<span class="dv">0</span>]   = <span class="kw">false</span>;</a>
-<a class="sourceLine" id="cb1-3" title="3">flag[<span class="dv">1</span>]   = <span class="kw">false</span>;</a>
-<a class="sourceLine" id="cb1-4" title="4"><span class="dt">int</span> turn;</a></code></pre></div></td>
+<td><div class="sourceCode" id="cb1"><pre class="sourceCode cpp"><code class="sourceCode cpp"><span id="cb1-1"><a href="#cb1-1"></a><span class="co">//flag[] is boolean array; and turn is an integer</span></span>
+<span id="cb1-2"><a href="#cb1-2"></a>flag[<span class="dv">0</span>]   = <span class="kw">false</span>;</span>
+<span id="cb1-3"><a href="#cb1-3"></a>flag[<span class="dv">1</span>]   = <span class="kw">false</span>;</span>
+<span id="cb1-4"><a href="#cb1-4"></a><span class="dt">int</span> turn;</span></code></pre></div></td>
 </tr>
 <tr class="even">
-<td><div class="sourceCode" id="cb2"><pre class="sourceCode cpp"><code class="sourceCode cpp"><a class="sourceLine" id="cb2-1" title="1">P0: flag[<span class="dv">0</span>] = <span class="kw">true</span>;</a>
-<a class="sourceLine" id="cb2-2" title="2">    turn = <span class="dv">1</span>;</a>
-<a class="sourceLine" id="cb2-3" title="3">    <span class="cf">while</span> (flag[<span class="dv">1</span>] == <span class="kw">true</span> &amp;&amp; turn == <span class="dv">1</span>)</a>
-<a class="sourceLine" id="cb2-4" title="4">    {</a>
-<a class="sourceLine" id="cb2-5" title="5">        <span class="co">// busy wait</span></a>
-<a class="sourceLine" id="cb2-6" title="6">    }</a>
-<a class="sourceLine" id="cb2-7" title="7">    <span class="co">// critical section</span></a>
-<a class="sourceLine" id="cb2-8" title="8">    ...</a>
-<a class="sourceLine" id="cb2-9" title="9">    <span class="co">// end of critical section</span></a>
-<a class="sourceLine" id="cb2-10" title="10">    flag[<span class="dv">0</span>] = <span class="kw">false</span>;</a></code></pre></div></td>
+<td><div class="sourceCode" id="cb2"><pre class="sourceCode cpp"><code class="sourceCode cpp"><span id="cb2-1"><a href="#cb2-1"></a>P0: flag[<span class="dv">0</span>] = <span class="kw">true</span>;</span>
+<span id="cb2-2"><a href="#cb2-2"></a>    turn = <span class="dv">1</span>;</span>
+<span id="cb2-3"><a href="#cb2-3"></a>    <span class="cf">while</span> (flag[<span class="dv">1</span>] == <span class="kw">true</span> &amp;&amp; turn == <span class="dv">1</span>)</span>
+<span id="cb2-4"><a href="#cb2-4"></a>    {</span>
+<span id="cb2-5"><a href="#cb2-5"></a>        <span class="co">// busy wait</span></span>
+<span id="cb2-6"><a href="#cb2-6"></a>    }</span>
+<span id="cb2-7"><a href="#cb2-7"></a>    <span class="co">// critical section</span></span>
+<span id="cb2-8"><a href="#cb2-8"></a>    ...</span>
+<span id="cb2-9"><a href="#cb2-9"></a>    <span class="co">// end of critical section</span></span>
+<span id="cb2-10"><a href="#cb2-10"></a>    flag[<span class="dv">0</span>] = <span class="kw">false</span>;</span></code></pre></div></td>
 </tr>
 </tbody>
 </table>

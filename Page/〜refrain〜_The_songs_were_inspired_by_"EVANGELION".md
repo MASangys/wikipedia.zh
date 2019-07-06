@@ -15,7 +15,7 @@ ME TO THE MOON （On the Street）。
 2.  [残酷天使的行动纲领](../Page/残酷天使的行动纲领.md "wikilink") （Ambivalence Mix）
     \[4:01\]
       -
-        作詞：[及川眠子](https://zh.wikipedia.org/wiki/及川眠子 "wikilink")、作曲：[佐藤英敏](https://zh.wikipedia.org/wiki/佐藤英敏 "wikilink")、編曲：大森俊之
+        作詞：[及川眠子](../Page/及川眠子.md "wikilink")、作曲：[佐藤英敏](https://zh.wikipedia.org/wiki/佐藤英敏 "wikilink")、編曲：大森俊之
 3.  希望の空へ \[4:49\]
       -
         作詞：叶アニス、作曲：大森俊之、編曲：大森俊之
