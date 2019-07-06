@@ -263,7 +263,7 @@ tears](../Page/真實之淚_true_tears_\(動畫\).md "wikilink")》，並藉此�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/道別的早晨就用約定之花點綴吧" title="wikilink">道別的早晨就用約定之花點綴吧</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/道別的早晨就用約定之花點綴吧" title="wikilink">道別的早晨就用約定之花點綴吧</a>/<a href="https://zh.wikipedia.org/wiki/朝花夕誓" title="wikilink">朝花夕誓</a></p></td>
 <td></td>
 <td><p>2018年2月24日</p></td>
 <td><p>岡田麿里</p></td>

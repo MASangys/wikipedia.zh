@@ -78,7 +78,7 @@ Yosemite的](../Page/OS_X_Yosemite.md "wikilink")[Safari的搜尋引擎選項之
 2018年1月23日，DuckDuckGo改進了其瀏覽器擴展和流動應用程式，確保用戶「在搜尋框以外」同樣安全。經過改進的擴展和應用程式包括一個評級工具，它會根據網站有否加密及跟蹤器的多寡進行評級，此外還會對跟蹤器進行封鎖\[65\]。該瀏覽器擴展還會提供摘自評分服務「服務條款；不看」（Terms
 of Service; Didn't Read）的網站服務條款摘要\[66\]。
 
-2018年12月，Google將域名Duck.com的所有權轉讓給DuckDuckGo。目前尚不清楚DuckDuckGo有沒為該域名付錢\[67\]。
+2018年12月，Google將域名Duck.com的所有權轉讓給DuckDuckGo。目前尚不清楚DuckDuckGo是否曾為該域名付錢\[67\]。
 
 2019年1月15日，DuckDuckGo宣布所有與地圖和地址有關的搜尋皆將由[Apple
 Maps提供部分資訊](https://zh.wikipedia.org/wiki/Apple_Maps "wikilink")，範圍涵蓋[桌上電腦和](https://zh.wikipedia.org/wiki/桌上電腦 "wikilink")[移动设备](../Page/移动设备.md "wikilink")\[68\]。

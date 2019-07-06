@@ -644,6 +644,7 @@ DEEP名義
 
 [Category:2004年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2004年成立的音樂團體 "wikilink")
 [Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink")
+[Category:LDH所屬藝人](https://zh.wikipedia.org/wiki/Category:LDH所屬藝人 "wikilink")
 
 1.
 

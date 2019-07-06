@@ -1,6 +1,6 @@
 在[三角函数中](../Page/三角函数.md "wikilink")，两个参数的[函数](../Page/函数.md "wikilink")\(\operatorname{atan2}\)是[正切函数](https://zh.wikipedia.org/wiki/正切函数 "wikilink")\(\tan\)的一个变种。对于任意不同时等于0的实参数\(x\)和\(y\)，\(\operatorname{atan2}(y,x)\)所表达的意思是坐标原点为起点，指向\((x,y)\)的射线在坐标平面上与x轴正方向之间的角的角度。当\(y>0\)时，射线与x轴正方向的所得的角的角度指的是x轴正方向绕逆时针方向到达射线旋转的角的角度；而当\(y<0\)时，射线与x轴正方向所得的角的角度指的是x轴正方向绕顺时针方向达到射线旋转的角的角度。
 
-在几何意义上，\(\operatorname{atan2}(y,x)\)等价于\(\operatorname{atan2}(\frac{y}{x})\)，但\(\operatorname{atan2}\)的最大优势是可以正确处理\(x=0\)而\(y\neq 0\)的情况，而不必进行会引发[除零异常的](../Page/除以零.md "wikilink")\(\frac{y}{x}\)操作。
+在几何意义上，\(\operatorname{atan2}(y,x)\)等价于\(\operatorname{atan}(\frac{y}{x})\)，但\(\operatorname{atan2}\)的最大优势是可以正确处理\(x=0\)而\(y\neq 0\)的情况，而不必进行会引发[除零异常的](../Page/除以零.md "wikilink")\(\frac{y}{x}\)操作。
 
 \(\operatorname{atan2}\)函数最初在计算机编程语言中被引入，但是现在它的应用在科学和工程等其他多个领域十分常见。他的出现最早可以追溯到[FORTRAN语言](https://zh.wikipedia.org/wiki/FORTRAN "wikilink")\[1\]，并且可以在[C语言的数学标准库的math](https://zh.wikipedia.org/wiki/C语言 "wikilink").h文件中找到，此外在[Java数学库](../Page/Java.md "wikilink")、[.NET的System](https://zh.wikipedia.org/wiki/.NET "wikilink").Math（可应用于[C\#](../Page/C♯.md "wikilink")、[VB.NET等语言](https://zh.wikipedia.org/wiki/VB.NET "wikilink")）、[Python的数学模块以及其他地方都可以找到atan](../Page/Python.md "wikilink")2的身影。许多脚本语言，比如[Perl](../Page/Perl.md "wikilink")，也包含了C语言风格的atan2函数<ref>The
 [Linux Programmer's

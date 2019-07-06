@@ -13,30 +13,33 @@ Entertainment組長](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")�
   - 金太完
 
   -
-### 練習生（與合作）
-
-  - [姜丹尼爾](../Page/姜丹尼爾.md "wikilink") \[1\]（[PRODUCE 101
-    (第二季)](https://zh.wikipedia.org/wiki/PRODUCE_101_\(第二季\) "wikilink")、[Wanna
-    One](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")）
-  - [尹智聖](../Page/尹智聖.md "wikilink") \[2\]（[PRODUCE 101
-    (第二季)](https://zh.wikipedia.org/wiki/PRODUCE_101_\(第二季\) "wikilink")、[Wanna
-    One](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")）
-  - 崔泰熊\[3\]（[PRODUCE 101
-    (第二季)](https://zh.wikipedia.org/wiki/PRODUCE_101_\(第二季\) "wikilink")）
-
 ## 已離開藝人
 
   - [許永生](../Page/許永生.md "wikilink")
   - [金圭鐘](https://zh.wikipedia.org/wiki/金圭鐘 "wikilink")
   - [SPICA](../Page/SPICA_\(組合\).md "wikilink")
   - [李孝利](../Page/李孝利.md "wikilink")
-  - 朱抮玗 ([PRODUCE 101
-    (第二季)](https://zh.wikipedia.org/wiki/PRODUCE_101_\(第二季\) "wikilink"))
+  - [姜丹尼爾](../Page/姜丹尼爾.md "wikilink")\[1\]（[PRODUCE 101
+    (第二季)](https://zh.wikipedia.org/wiki/PRODUCE_101_\(第二季\) "wikilink")、[Wanna
+    One](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")）
+  - [尹智聖](../Page/尹智聖.md "wikilink")\[2\]（[PRODUCE 101
+    (第二季)](https://zh.wikipedia.org/wiki/PRODUCE_101_\(第二季\) "wikilink")、[Wanna
+    One](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")）
 
 ## 已離開練習生
 
-  - 金宰漢\[4\]（OneVoices、[PRODUCE 101
+  - 金宰漢\[3\]（OneVoices、[PRODUCE 101
     (第二季)](https://zh.wikipedia.org/wiki/PRODUCE_101_\(第二季\) "wikilink")、WYNN娛樂、Spectrum）
+  - 崔泰熊\[4\]（[PRODUCE 101
+    (第二季)](https://zh.wikipedia.org/wiki/PRODUCE_101_\(第二季\) "wikilink")、[Chrome娛樂](https://zh.wikipedia.org/wiki/Chrome娛樂 "wikilink")、青空少年）
+  - \-{朱閜晋\[5\]}- (朱抮玗，[PRODUCE 101
+    (第二季)](https://zh.wikipedia.org/wiki/PRODUCE_101_\(第二季\) "wikilink")、Finecut娛樂)
+  - [林昭瑛](../Page/林昭瑛.md "wikilink")（The Entertainment
+    Pascal、[Stellar](../Page/Stellar.md "wikilink")）
+  - [李慧彬](../Page/慧彬.md "wikilink")（MLD娛樂、[MOMOLAND](../Page/MOMOLAND.md "wikilink")）
+  - 李耀漢（AIVAN，Evermore Music）
+  - 李然偶（L:ambda，W娛樂、[AlphaBAT](../Page/AlphaBAT.md "wikilink")）
+  - 李娥允（MAXIM娛樂、模特兒）
 
 ## 音樂
 
@@ -70,5 +73,7 @@ NAM和SPICA同屬CJ E\&M與B2M娛樂雙方共同擁有性質。
 1.  [Mnet
     Official官方微博相關貼文](http://tw.weibo.com/MnetOfficial/4084115391275760)
 2.  [粉絲已向本人確認正名](http://ww4.sinaimg.cn/bmiddle/d2d7d628gy1fdmnvtbwblj20c808zq54.jpg)
-3.  [粉絲已向本人確認正名](http://ww4.sinaimg.cn/bmiddle/d2d7d628gy1fdmnvu7v8hj20c706ujth.jpg)
-4.  [本人更新INS簡介確認正名](http://wx1.sinaimg.cn/bmiddle/005OJgHngy1fhhdj2n21rj30ku0kuac7.jpg)
+3.  [本人更新INS簡介確認正名](http://wx1.sinaimg.cn/bmiddle/005OJgHngy1fhhdj2n21rj30ku0kuac7.jpg)
+4.  [粉絲已向本人確認正名](http://ww4.sinaimg.cn/bmiddle/d2d7d628gy1fdmnvu7v8hj20c706ujth.jpg)
+5.  [Joo Ha
+    Jin官方網站中的正名為**朱閜晋**](http://finecutent.com/html/artist_artist_profile.php?no=1)

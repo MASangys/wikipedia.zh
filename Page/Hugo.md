@@ -115,8 +115,8 @@ Hugo是欧洲最常见的人名之一，在西班牙排名第9，\[2\]在比利�
     Schmeisser，1884－1953），德国武器设计师
   - [胡戈·施佩勒](../Page/胡戈·施佩勒.md "wikilink")（Hugo
     Sperrle，1885－1953），德国陆军元帅
-  - [阿克塞尔·胡戈·特奥多尔·特奥雷尔](https://zh.wikipedia.org/wiki/胡戈·特奥雷尔 "wikilink")（Axel
-    Hugo Theodor Theorell，1903－1982），瑞典科学家、诺贝尔生理学或医学奖获得者
+  - [阿克塞尔·胡戈·特奥多尔·特奥雷尔](../Page/胡戈·特奥雷尔.md "wikilink")（Axel Hugo Theodor
+    Theorell，1903－1982），瑞典科学家、诺贝尔生理学或医学奖获得者
   - [胡戈·馮·瓦爾代爾-哈茨](https://zh.wikipedia.org/wiki/胡戈·馮·瓦爾代爾-哈茨 "wikilink")（Hugo
     von Waldeyer-Hartz，1876－1942），德國軍事家
   - [胡戈·沃尔夫](../Page/胡戈·沃尔夫.md "wikilink")（Hugo Wolf，1860－1903），奧地利作曲家

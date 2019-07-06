@@ -246,7 +246,7 @@ P30的另一個選擇是可以明顯地看見的[空彈匣指示器](https://zh.
     Chan，[余男飾演](../Page/余男.md "wikilink")）所使用。
   - 2013年—《[家園防線](https://zh.wikipedia.org/wiki/家園防線 "wikilink")》（Homefront）：被一名殺手（[羅恩·敘勒飾演](https://zh.wikipedia.org/wiki/羅恩·敘勒 "wikilink")）所使用。
   - 2014年—《[-{zh-cn:疾速追杀; zh-tw:捍衛任務; zh-hk:殺神John
-    Wick;}-](https://zh.wikipedia.org/wiki/捍衛任務 "wikilink")》（John
+    Wick;}-](../Page/捍衛任務.md "wikilink")》（John
     Wick）：型號為P30L，为享有“巴巴亚加”（又称夜魔）之名的该片主角约翰·威克（[基努·里维斯饰演](../Page/基努·里维斯.md "wikilink")）主用手枪。
   - 2014年—《[痞子英雄2：黎明再起](https://zh.wikipedia.org/wiki/痞子英雄2：黎明再起 "wikilink")》（Black
     & White: The Dawn of

@@ -310,6 +310,7 @@ Days](../Page/School_Days.md "wikilink")》（桂言葉）、《[初音島II](..
 **2019年**
 
   - 金色Loveriche -Golden Time-（市松千惠華）
+  - 真・戀姬†夢想 -革命- 劉旗的大望（張角）
 
 ### OVA
 

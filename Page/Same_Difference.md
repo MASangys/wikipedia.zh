@@ -62,6 +62,5 @@ One"；2008年12月1日，发行首张专辑——*[Pop](https://zh.wikipedia.or
   - [官方Bebo页](http://www.bebo.com/samedifference)
   - [官方Facebook页](http://www.facebook.com/pages/Same-Difference/13113993919)
   - [官方YouTube频道](http://www.youtube.com/samedifferenceworld)
-  - [歌迷站](http://www.samedifferencefans.co.uk)
 
 [Category:英国乐团](https://zh.wikipedia.org/wiki/Category:英国乐团 "wikilink")

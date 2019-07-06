@@ -24,7 +24,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><div class="sourceCode" id="cb1"><pre class="sourceCode sql"><code class="sourceCode sql"><a class="sourceLine" id="cb1-1" title="1"><span class="kw">SELECT</span> <span class="op">*</span> <span class="kw">FROM</span> T;</a></code></pre></div></td>
+<td><div class="sourceCode" id="cb1"><pre class="sourceCode sql"><code class="sourceCode sql"><span id="cb1-1"><a href="#cb1-1"></a><span class="kw">SELECT</span> <span class="op">*</span> <span class="kw">FROM</span> T;</span></code></pre></div></td>
 <td><table>
 <tbody>
 <tr class="odd">
@@ -52,7 +52,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><div class="sourceCode" id="cb1"><pre class="sourceCode sql"><code class="sourceCode sql"><a class="sourceLine" id="cb1-1" title="1"><span class="kw">SELECT</span> C1 <span class="kw">FROM</span> T;</a></code></pre></div></td>
+<td><div class="sourceCode" id="cb1"><pre class="sourceCode sql"><code class="sourceCode sql"><span id="cb1-1"><a href="#cb1-1"></a><span class="kw">SELECT</span> C1 <span class="kw">FROM</span> T;</span></code></pre></div></td>
 <td><table>
 <tbody>
 <tr class="odd">
@@ -80,7 +80,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><div class="sourceCode" id="cb1"><pre class="sourceCode sql"><code class="sourceCode sql"><a class="sourceLine" id="cb1-1" title="1"><span class="kw">SELECT</span> <span class="op">*</span> <span class="kw">FROM</span> T <span class="kw">WHERE</span> C1 <span class="op">=</span> <span class="st">&#39;wiki&#39;</span>;</a></code></pre></div></td>
+<td><div class="sourceCode" id="cb1"><pre class="sourceCode sql"><code class="sourceCode sql"><span id="cb1-1"><a href="#cb1-1"></a><span class="kw">SELECT</span> <span class="op">*</span> <span class="kw">FROM</span> T <span class="kw">WHERE</span> C1 <span class="op">=</span> <span class="st">&#39;wiki&#39;</span>;</span></code></pre></div></td>
 <td><table>
 <tbody>
 <tr class="odd">
@@ -104,7 +104,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><div class="sourceCode" id="cb1"><pre class="sourceCode sql"><code class="sourceCode sql"><a class="sourceLine" id="cb1-1" title="1"><span class="kw">SELECT</span> <span class="op">*</span> <span class="kw">FROM</span> T <span class="kw">WHERE</span> C1 <span class="kw">like</span> <span class="st">&#39;wiki%&#39;</span>;</a></code></pre></div></td>
+<td><div class="sourceCode" id="cb1"><pre class="sourceCode sql"><code class="sourceCode sql"><span id="cb1-1"><a href="#cb1-1"></a><span class="kw">SELECT</span> <span class="op">*</span> <span class="kw">FROM</span> T <span class="kw">WHERE</span> C1 <span class="kw">like</span> <span class="st">&#39;wiki%&#39;</span>;</span></code></pre></div></td>
 <td><table>
 <tbody>
 <tr class="odd">
@@ -132,7 +132,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><div class="sourceCode" id="cb1"><pre class="sourceCode sql"><code class="sourceCode sql"><a class="sourceLine" id="cb1-1" title="1"><span class="kw">SELECT</span> <span class="op">*</span> <span class="kw">FROM</span> T <span class="kw">WHERE</span> C2 <span class="op">&gt;</span> <span class="dv">50</span>;</a></code></pre></div></td>
+<td><div class="sourceCode" id="cb1"><pre class="sourceCode sql"><code class="sourceCode sql"><span id="cb1-1"><a href="#cb1-1"></a><span class="kw">SELECT</span> <span class="op">*</span> <span class="kw">FROM</span> T <span class="kw">WHERE</span> C2 <span class="op">&gt;</span> <span class="dv">50</span>;</span></code></pre></div></td>
 <td><table>
 <tbody>
 <tr class="odd">

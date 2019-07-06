@@ -361,6 +361,8 @@ AKS是AKB48、HKT48、NGT48的營運者及經紀公司，但並非個別成員�
 
 ## 外部連結
 
+  - [AKS官方網站](https://aks-corp.com/)
+
   - [会社概要（AKB48官網）](http://www.akb48.co.jp/company/)
 
   - [会社概要（SKE48官網）](http://www.ske48.co.jp/company/)

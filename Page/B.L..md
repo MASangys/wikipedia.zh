@@ -164,6 +164,7 @@ Luck的縮寫），為[台灣男性](https://zh.wikipedia.org/wiki/台灣 "wikil
 
   - 《[冰雪奇缘](../Page/冰雪奇缘.md "wikilink")》
   - 《[勇敢傳說](../Page/勇敢傳說.md "wikilink")》
+  - 《[玩具總動員4](../Page/玩具總動員4.md "wikilink")》：鴨霸
 
 ### 海外電影
 

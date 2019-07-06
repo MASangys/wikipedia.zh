@@ -1,5 +1,4 @@
-mw.loader.using(\['jquery.colorUtil',
-'mediawiki.special.block'\]).then(function() {
+mw.loader.using( 'ext.gadget.site-lib', function () {
 
 `   // 保護選項校正`
 `   if ( mw.config.get( 'wgAction' ) === 'protect' ) {`

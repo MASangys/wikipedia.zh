@@ -1,7 +1,7 @@
 **Kazaky**是一組結合舞蹈、音樂、時尚的烏克蘭男子舞蹈樂團，成員有：**Oleg Zhezhel**、**Artur
 Gaspar**、**Kyryll Fedorenko**及**Artemy Lazarev**。整體舞蹈風格以《acro
 dance》、《waacking》和《Jazz Funk》為主。2012年10月22日首張專輯"THE HILLS
-CHRONICLES"正式發行。
+CHRONICLES"正式發行。2019年新增兩位生力軍**Zhenja Goncharenko**及**Vlad Koval**。
 
 ## 簡介
 
@@ -58,6 +58,8 @@ Myway"編舞老師--"Artemy Lazarev"成為新團員。並一同參與新巡迴"T
 
 2016年烏克蘭時間06月4日晚間，KAZAKY於官方臉書宣布團員間因個人事業追求與發展，將無期限暫停KAZAKY的活動。但不排除將來仍有機會以團體之姿再次上台，故6月18日以及7月8日將會是最後的公開演出。
 
+2019年全新KAZAKY2.0版正式重新出發。
+
 ## 成員
 
 <table>
@@ -71,6 +73,8 @@ Myway"編舞老師--"Artemy Lazarev"成為新團員。並一同參與新巡迴"T
 <th><p>2014.10.30</p></th>
 <th><p>2015</p></th>
 <th><p>2016.04</p></th>
+<th><p>2016.07~2019.06</p></th>
+<th><p>2019.06</p></th>
 </tr>
 </thead>
 <tbody>
@@ -78,6 +82,8 @@ Myway"編舞老師--"Artemy Lazarev"成為新團員。並一同參與新巡迴"T
 <td></td>
 <td><p><strong>Oleg Zhezhel</strong><br />
 <small>(2010.09–至今)</small></p></td>
+<td></td>
+<td><p>暫停活動</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -95,11 +101,15 @@ Myway"編舞老師--"Artemy Lazarev"成為新團員。並一同參與新巡迴"T
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p><strong>Kyryll Fedorenko</strong><br />
 <small>(2010.09–至今)</small></p></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -117,6 +127,34 @@ Myway"編舞老師--"Artemy Lazarev"成為新團員。並一同參與新巡迴"T
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p><strong>Zhenja Goncharenko</strong><br />
+<small>(2019.06-至今)</small></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p><strong>Vlad Koval</strong><br />
+<small>(2019.06-至今)</small></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -128,11 +166,15 @@ Myway"編舞老師--"Artemy Lazarev"成為新團員。並一同參與新巡迴"T
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>Francesco Borgato<br />
 <small>(2011.08–2013.02)</small></p></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -254,6 +296,10 @@ Myway"編舞老師--"Artemy Lazarev"成為新團員。並一同參與新巡迴"T
 1.  *Your Style*
 2.  *Your Style(Artem Pivovarov Version)*
 3.  *Ride*
+
+24.04.2019
+
+1.  *Push*
 
 ### MV
 

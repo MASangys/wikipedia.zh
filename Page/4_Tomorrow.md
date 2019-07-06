@@ -7,7 +7,7 @@ School的](../Page/After_School.md "wikilink")[U-IE以及來自](https://zh.wiki
 ## 背景資料
 
 帶著「女聲組合夢之隊」之稱，組合的創立是為了推廣韓國[三星電子期下品牌的](../Page/三星電子.md "wikilink")[Anycall流動電話](https://zh.wikipedia.org/wiki/Anycall "wikilink")。她們的首張出數位單曲《扑通扑通Tomorrow》（두근두근
-Tomorrow）於2009年10月6日推出\[1\]。
+Tomorrow）於2009年10月6日推出。
 
 ## 成員資料
 
@@ -67,14 +67,5 @@ Tomorrow）於2009年10月6日推出\[1\]。
 5.  《東健的希望》
 6.  《JAM Concert 最終篇》
 
-## 參考資料
-
 [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
 [Category:2009年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2009年成立的音樂團體 "wikilink")
-
-1.   [복받은 이동건, 가인-한승연-유이-현아와 무슨관계? ‘4투모로우 뮤비 출연’ (*Lucky Lee Dong-gun,
-    What Connection with Gain-Han Seungyeon-Uee-Hyuna? "4Tomorrow Music
-    Video
-    Participation"*)](http://news.joins.com/article/551/3819551.html?ctg=15).
-    *[Joins.com](https://zh.wikipedia.org/wiki/JoongAng_Ilbo "wikilink")*/*Newsen*.
-    2009年10月12日. 於2010年1月16日查閱.

@@ -105,16 +105,21 @@ Entertainment](https://zh.wikipedia.org/wiki/Victor_Entertainment "wikilink")。
 <td><p>電視動畫《<a href="../Page/終末的伊澤塔.md" title="wikilink">終末的伊澤塔</a>》片頭曲</p></td>
 </tr>
 <tr class="odd">
+<td><p>IRREPLACEABLE</p></td>
+<td><p>IRREPLACEABLE</p></td>
+<td><p>電視動畫《納米核心》</p></td>
+</tr>
+<tr class="even">
 <td><p>另一半的明月</p></td>
 <td></td>
 <td><p>電視動畫《<a href="../Page/魔法使的新娘.md" title="wikilink">魔法使的新娘</a>》片尾曲</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>What am I Fighting for</p></td>
 <td><p>What am I Fighting for</p></td>
 <td><p>手機遊戲《<a href="https://zh.wikipedia.org/wiki/少女前線" title="wikilink">少女前線</a>》2018冬季活動關卡「塌縮點」原聲音樂</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>白樺樹的光</p></td>
 <td><p>シラカバの光</p></td>
 <td><p>手機遊戲《<a href="https://zh.wikipedia.org/wiki/少女前線" title="wikilink">少女前線</a>》2019冬季活動關卡「異構體」原聲音樂</p></td>

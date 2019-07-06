@@ -63,8 +63,7 @@ Talk Show，每集約80分鐘。
 | 20 | 2011年3月28日 | [尹度玹](../Page/尹度玹.md "wikilink")、[宋昌義](https://zh.wikipedia.org/wiki/宋昌義 "wikilink")                                                                                                                                                                                                                                                                                                                       |                          |
 | 21 | 2011年4月4日  | [IU](https://zh.wikipedia.org/wiki/IU "wikilink")、[閔孝琳](https://zh.wikipedia.org/wiki/閔孝琳 "wikilink")、[簡美妍](../Page/簡美妍.md "wikilink")、[玄英](https://zh.wikipedia.org/wiki/玄英 "wikilink")、[姜秀智](https://zh.wikipedia.org/wiki/姜秀智 "wikilink")                                                                                                                                                               |                          |
 | 22 | 2011年4月11日 | [金烔完](../Page/金烔完.md "wikilink")([神話](https://zh.wikipedia.org/wiki/神話 "wikilink"))、Alex (Clazziquai)、[澤演](https://zh.wikipedia.org/wiki/澤演 "wikilink") ([2PM](https://zh.wikipedia.org/wiki/2PM "wikilink"))、[佑榮](https://zh.wikipedia.org/wiki/佑榮 "wikilink") ([2PM](https://zh.wikipedia.org/wiki/2PM "wikilink"))、[瑟雍](https://zh.wikipedia.org/wiki/瑟雍 "wikilink") ([2AM](../Page/2AM.md "wikilink")) |                          |
-
-|-
+|    |            |                                                                                                                                                                                                                                                                                                                                                                                                            |                          |
 
 [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
 [Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")

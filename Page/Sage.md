@@ -36,7 +36,7 @@ Sage的功能包括\[1\]
   - 使用[Sphinx的文档管理](https://zh.wikipedia.org/wiki/Sphinx "wikilink")
   - 一个自动化测试套件，允许计算机终端用户进行测试
 
-虽然不是Sage直接提供的功能，但Sage可以从Mathematica内部调用。\[2\][Mathematica的一个记事本可用于此](https://zh.wikipedia.org/wiki/Mathematica "wikilink")。\[3\]
+虽然不是Sage直接提供的功能，但Sage可以从Mathematica内部调用。[Mathematica的一个记事本可用于此](https://zh.wikipedia.org/wiki/Mathematica "wikilink")。
 
 ## 设计理念
 
@@ -45,7 +45,7 @@ Sage的功能包括\[1\]
 
 因此，Sage（用[Python和](../Page/Python.md "wikilink")[Cython实现的](../Page/Cython.md "wikilink")）将所有专用的数学软件集成到一个通用的接口而不是从头开发。用户只需要了解[Python](../Page/Python.md "wikilink")。
 
-Sage由学生和专业人士开发。Sage的开发由志愿工作和赠款支持。 \[4\]
+Sage由学生和专业人士开发。Sage的开发由志愿工作和赠款支持。 \[2\]
 
 ## 性能
 
@@ -172,7 +172,7 @@ P, Q = E.gens()
 
 ## 历史
 
-只列出了主要发布版本。Sage采用的“早发布，常发布”的理念，每两至三个星期发布一次。\[5\]
+只列出了主要发布版本。Sage采用的“早发布，常发布”的理念，每两至三个星期发布一次。\[3\]
 
 | 版本        | 发布日期      | 说明                                                              |
 | --------- | --------- | --------------------------------------------------------------- |
@@ -191,7 +191,7 @@ P, Q = E.gens()
 Sage版本
 
 2007年，Sage赢得自由软件的国际竞争中科学软件部分的Les Trophées du Libre首奖 ，一Trophées都免费 。
-\[6\]
+\[4\]
 
 ## 参见
 
@@ -225,10 +225,6 @@ Sage版本
 [Category:Python科学库](https://zh.wikipedia.org/wiki/Category:Python科学库 "wikilink")
 
 1.  [Sage文档](http://www.sagemath.org/help.html)
-2.  <http://facstaff.unca.edu/mcmcclur/Mathematica/Sage/Calling> Sage
-    from Mathematica
-3.  <http://facstaff.unca.edu/mcmcclur/Mathematica/Sage/UsingSage.nb> A
-    Mathematica notebook to call Sage from Mathematica.
+2.
+3.
 4.
-5.
-6.

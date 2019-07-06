@@ -2355,6 +2355,15 @@ Team 4选秀研究生 多田京加昇格至所属队伍</p></td>
 <td><p>23<br />
 (5/2/3)</p></td>
 </tr>
+<tr class="odd">
+<td><p>6月28日</p></td>
+<td><p>Team K选秀研究生勝又彩央里活动辞退</p></td>
+<td><p>-1</p></td>
+<td><p>102</p></td>
+<td><p>87</p></td>
+<td><p>23<br />
+(5/2/3)</p></td>
+</tr>
 </tbody>
 </table>
 

@@ -101,7 +101,7 @@ P置换将32位的半块数据重新排列。
 
 align="top"|PC-1
 
-上表的“左”和“右”两部分表现了输入[密钥组成密钥调度状态中左右两部分的过程](https://zh.wikipedia.org/wiki/密钥 "wikilink")。主要输入的64位数据中只用到了56位，剩余的8位可以用于[奇偶校验](https://zh.wikipedia.org/wiki/奇偶校验 "wikilink")。
+上表的“左”和“右”两部分表现了输入[密钥组成密钥调度状态中左右两部分的过程](../Page/密钥.md "wikilink")。主要输入的64位数据中只用到了56位，剩余的8位可以用于[奇偶校验](https://zh.wikipedia.org/wiki/奇偶校验 "wikilink")。
 
 ## 选择置换2(PC-2)
 

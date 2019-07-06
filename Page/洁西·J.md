@@ -1,4 +1,4 @@
-**潔西卡‧艾倫‧柯妮許**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：**Jessica
+**潔西卡‧艾倫‧科尼什**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：**Jessica
 Ellen Cornish**；），以她的藝名**潔西·J**（**Jessie
 J）**更廣為人知，是一名英國歌手及詞曲作家，在英國[倫敦出生長大](https://zh.wikipedia.org/wiki/倫敦 "wikilink")。11岁开始自己的事业，出演伦敦西区剧院音乐剧《微风轻哨》。她获得2011年度[全英音樂獎的](../Page/全英音樂獎.md "wikilink")《樂評人選擇獎》及BBC年度新声。
 
@@ -23,12 +23,10 @@ Late Sleepers》\[6\]
 2003年，Jessie
 J十五歲時，她贏得了電視秀[英國傑出天才大賽中](https://zh.wikipedia.org/wiki/英國傑出天才大賽 "wikilink")「最佳流行歌手」的獎項。\[7\]16歲時，開始就讀英國全英演艺学校（The
 BRIT
-School）。17歲加入一個女子乐团[靈魂深處](https://zh.wikipedia.org/wiki/靈魂深處 "wikilink")（Soul
-Deep）。2006年和同学[愛黛兒](../Page/愛黛兒.md "wikilink")
+School）。17歲时加入一個女子乐团[靈魂深處](https://zh.wikipedia.org/wiki/靈魂深處 "wikilink")（Soul
+Deep），2006年和同学[愛黛兒](../Page/愛黛兒.md "wikilink")
 及[里歐娜畢業於全英演艺学校](https://zh.wikipedia.org/wiki/里歐娜 "wikilink")。\[8\]
-
-Jessie
-J罹患[沃夫巴金森懷特症候群](../Page/沃夫巴金森懷特症候群.md "wikilink")，為一種先天心律不整的疾病，她曾在18歲得過一次小[中風](../Page/中風.md "wikilink")。\[9\]她表示艺名J无特别含义。\[10\]
+18歲时她得過一次小[中風](../Page/中風.md "wikilink")。\[9\]她表示艺名J无特别含义。\[10\]
 
 ## 職業生涯
 
@@ -131,18 +129,16 @@ Tour*之后，潔西·J称她的粉丝們为“heartbeats”。她曾说过：�
 
 2014年，因為想把傳媒焦點集中在她的工作，她移居洛杉磯。她曾称自己为双性恋\[59\]\[60\]，后来放弃。\[61\]2014年11月她和美国歌手约会，\[62\]2015年10月他们分手，但仍是好友。2018年10月起，她與美國演員[查寧·塔圖約會](https://zh.wikipedia.org/wiki/查尼·泰坦 "wikilink")\[63\]。她认为自己是[女权主义者](https://zh.wikipedia.org/wiki/女权主义 "wikilink")，并认为平等权利应該成為常态，也认为作为一名女性的責任包括“要有信心，不要因為任何的指責而使自尊心受到傷害”。\[64\]
 
-2014年，Jessie J被诊断出无法生育，并且需要立即切除子宫，不过当时拒绝。\[65\]
-
 ## 慈善活动
 
 她出现在英国主要的慈善电视节目，[BBC的](../Page/英国广播公司.md "wikilink")《》和《[喜劇救濟](https://zh.wikipedia.org/wiki/喜劇救濟 "wikilink")》中。
 
-2011年11月，她在[曼徹斯特競技場举办的名為](https://zh.wikipedia.org/wiki/曼徹斯特競技場 "wikilink")《》的慈善音乐会上演唱《》为2011年《》筹集资金。\[66\]\[67\]J
+2011年11月，她在[曼徹斯特競技場举办的名為](https://zh.wikipedia.org/wiki/曼徹斯特競技場 "wikilink")《》的慈善音乐会上演唱《》为2011年《》筹集资金。\[65\]\[66\]J
 
 2012年7月，她与一名患有[白血病的](https://zh.wikipedia.org/wiki/白血病 "wikilink")7岁粉丝丹尼尔·沙利文（Daniel
-Sullivan）一起在舞台上演出了《》，丹尼尔将在四个月后去世。\[68\]
+Sullivan）一起在舞台上演出了《》，丹尼尔将在四个月后去世。\[67\]
 
-2013年3月15日，洁西·J的头发在期间剃光了，为了帮助《[喜劇救濟](https://zh.wikipedia.org/wiki/喜劇救濟 "wikilink")》筹集资金。\[69\]\[70\]
+2013年3月15日，洁西·J的头发在期间剃光了，为了帮助《[喜劇救濟](https://zh.wikipedia.org/wiki/喜劇救濟 "wikilink")》筹集资金。\[68\]\[69\]
 
 ## 作品
 
@@ -227,8 +223,8 @@ Sullivan）一起在舞台上演出了《》，丹尼尔将在四个月后去世
 
   - (2017–2018)
 
-  - The Lasty Tour (2019)\[71\]（4月起歐亞，紀念她2018/12去世的密友兼保鏢Dave
-    Last“Lasty”\[72\]）
+  - The Lasty Tour (2019)\[70\]（4月起歐亞，紀念她2018/12去世的密友兼保鏢Dave
+    Last“Lasty”\[71\]）
 
 ### 开场
 
@@ -357,7 +353,6 @@ Sullivan）一起在舞台上演出了《》，丹尼尔将在四个月后去世
 67.
 68.
 69.
-70.
-71.  Zermatt Switzerland 🇨🇭 \#thelastytour \#crewlove \#family 📸 :
+70.  Zermatt Switzerland 🇨🇭 \#thelastytour \#crewlove \#family 📸 :
     @nickpopemedia”|url=[https://www.instagram.com/p/BwM_-Ksn0_-/|language=en|website=Instagram|access-date=2019-04-29](https://www.instagram.com/p/BwM_-Ksn0_-/%7Clanguage=en%7Cwebsite=Instagram%7Caccess-date=2019-04-29)}}
-72.
+71.

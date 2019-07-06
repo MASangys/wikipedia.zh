@@ -113,7 +113,7 @@ Patchrom将该固件移植至其他手机品牌的智能手机上。
   - [Redmi 7A](https://zh.wikipedia.org/wiki/Redmi_7A "wikilink")
   - [Redmi K20
     Pro](https://zh.wikipedia.org/wiki/Redmi_K20_Pro "wikilink")
-  - [Redmi K20](https://zh.wikipedia.org/wiki/Redmi_K20 "wikilink")
+  - [Redmi K20](../Page/Redmi_K20.md "wikilink")
 
 #### POCOPHONE
 

@@ -246,7 +246,7 @@ BEE發售的](https://zh.wikipedia.org/wiki/HONEY_BEE "wikilink")[日本](../Pag
     星座 - [處女座](https://zh.wikipedia.org/wiki/處女座 "wikilink")
     星月學園弓道部新入部員。神話科一年級。
   -
-    聲 - [神原大地](https://zh.wikipedia.org/wiki/神原大地 "wikilink")
+    聲 - [神原大地](../Page/神原大地.md "wikilink")
     星座 - [金牛座](../Page/金牛座.md "wikilink")
     星月學園弓道部新入部員。西洋占星術科一年級。
   -

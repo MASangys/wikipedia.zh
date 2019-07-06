@@ -195,7 +195,7 @@ M200干預型狙擊步槍同時出現在[电影](../Page/电影.md "wikilink")�
     Phantoms）：型號為M-200，命名為“M-200”，7發[彈匣](../Page/彈匣.md "wikilink")，攜彈量為35發。
   - 2016年—《[-{zh-hans:使命召唤：无限战争;
     zh-hant:決勝時刻：無盡戰爭;}-](../Page/使命召唤：无限战争.md "wikilink")》：命名為「TF-141」，歸類為“經典”武器。此外還有一種叫“Widowmaker”的虛構衍生型，使用12發彈匣，每次射擊為兩發點放，發射後需重新上膛。
-  - 2019年—《[少女前線](https://zh.wikipedia.org/wiki/少女前線 "wikilink")》：2019年加入。
+  - 2019年—《[少女前線](https://zh.wikipedia.org/wiki/少女前線 "wikilink")》：2019年加入，命為「M200」為五星步槍人形，可由普通製造中獲得。
 
 ### 動畫
 

@@ -56,7 +56,7 @@ V國際頻道在](https://zh.wikipedia.org/wiki/Channel_V國際頻道 "wikilink"
 <td><p>2</p></td>
 <td><p>2000年</p></td>
 <td><p>11月24日（星期五）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/車太鉉" title="wikilink">車太鉉</a>、<a href="../Page/金賢珠.md" title="wikilink">金賢珠</a></p></td>
+<td><p><a href="../Page/車太鉉.md" title="wikilink">車太鉉</a>、<a href="../Page/金賢珠.md" title="wikilink">金賢珠</a></p></td>
 <td></td>
 <td></td>
 <td></td>

@@ -3,3 +3,4 @@
 [Category:下級勳位爵士](https://zh.wikipedia.org/wiki/Category:下級勳位爵士 "wikilink")
 [Category:英国历史学家](https://zh.wikipedia.org/wiki/Category:英国历史学家 "wikilink")
 [Category:軍事學家](https://zh.wikipedia.org/wiki/Category:軍事學家 "wikilink")
+[Category:研究第二次世界大战的历史学家](https://zh.wikipedia.org/wiki/Category:研究第二次世界大战的历史学家 "wikilink")

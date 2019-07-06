@@ -2,7 +2,7 @@
 
 ## 歷史
 
-用陽光作治療由來已久，[古埃及人和](https://zh.wikipedia.org/wiki/古埃及 "wikilink")[古希臘人均曾利用日照來治療疾病](https://zh.wikipedia.org/wiki/古希臘 "wikilink")。\[1\]\[2\]1895年可謂是現代光照治療的開始，[尼尔斯·吕贝里·芬森首次使用](https://zh.wikipedia.org/wiki/尼尔斯·吕贝里·芬森 "wikilink")[碳弧光源來治療尋常](https://zh.wikipedia.org/wiki/碳弧光源 "wikilink")[狼瘡](https://zh.wikipedia.org/wiki/狼瘡 "wikilink")。\[3\]1923年，Goeckerman設計出寬頻紫外線B加上煤焦油的方法來治療乾癬；Ingram則在1953年使用[蒽酚蠟和寬頻紫外線B治療](https://zh.wikipedia.org/wiki/蒽酚 "wikilink")，他也發現了只使用紫外線B也可以達到治療皮膚病的效果。\[4\]1976年，Parish與Jaenicke定義出一個動態的光譜，其波峰為313[奈米波長的窄帶人工紫外線B](https://zh.wikipedia.org/wiki/奈米 "wikilink")，有助治療乾癬。另外，他們也認為295奈米波長以下的紫外線是沒有任何治療效果的。\[5\]Van
+用陽光作治療由來已久，[古埃及人和](../Page/古埃及.md "wikilink")[古希臘人均曾利用日照來治療疾病](https://zh.wikipedia.org/wiki/古希臘 "wikilink")。\[1\]\[2\]1895年可謂是現代光照治療的開始，[尼尔斯·吕贝里·芬森首次使用](https://zh.wikipedia.org/wiki/尼尔斯·吕贝里·芬森 "wikilink")[碳弧光源來治療尋常](https://zh.wikipedia.org/wiki/碳弧光源 "wikilink")[狼瘡](https://zh.wikipedia.org/wiki/狼瘡 "wikilink")。\[3\]1923年，Goeckerman設計出寬頻紫外線B加上煤焦油的方法來治療乾癬；Ingram則在1953年使用[蒽酚蠟和寬頻紫外線B治療](https://zh.wikipedia.org/wiki/蒽酚 "wikilink")，他也發現了只使用紫外線B也可以達到治療皮膚病的效果。\[4\]1976年，Parish與Jaenicke定義出一個動態的光譜，其波峰為313[奈米波長的窄帶人工紫外線B](https://zh.wikipedia.org/wiki/奈米 "wikilink")，有助治療乾癬。另外，他們也認為295奈米波長以下的紫外線是沒有任何治療效果的。\[5\]Van
 Weelden在1984年證實了窄頻的紫外線B的確有其[臨床治療效果](https://zh.wikipedia.org/wiki/臨床治療 "wikilink")，之後有更多研究證實窄頻比寬頻紫外線B在不同的皮膚疾病上更有治療效果，也因此窄頻紫外線也廣泛地被使用。\[6\]
 
 ## 光線物理性質

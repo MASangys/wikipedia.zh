@@ -92,7 +92,7 @@ Mode中，即使玩家只玩一種樂器，他仍可設定其他6種樂器供系
       - [大鼓](../Page/大鼓.md "wikilink")
       - [銅鑼](https://zh.wikipedia.org/wiki/銅鑼 "wikilink")
   - [太鼓](https://zh.wikipedia.org/wiki/太鼓 "wikilink")
-  - [康加鼓](https://zh.wikipedia.org/wiki/康加鼓 "wikilink")
+  - [康加鼓](../Page/康加鼓.md "wikilink")
 
 </div>
 
@@ -103,7 +103,7 @@ Mode中，即使玩家只玩一種樂器，他仍可設定其他6種樂器供系
 <!-- end list -->
 
   - 爆音響鑼
-  - 電子音[康加鼓](https://zh.wikipedia.org/wiki/康加鼓 "wikilink")
+  - 電子音[康加鼓](../Page/康加鼓.md "wikilink")
   - Djembe
   - Timbales
   - 沙鎚

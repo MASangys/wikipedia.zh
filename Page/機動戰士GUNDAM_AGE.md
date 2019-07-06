@@ -459,7 +459,7 @@ Garden）／歌：[飛蘭](https://zh.wikipedia.org/wiki/飛蘭 "wikilink")（La
 <td><p><a href="https://zh.wikipedia.org/wiki/中瀨理香" title="wikilink">中瀨理香</a><br />
 日野晃博</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/寺岡巖" title="wikilink">寺岡巖</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/京極尚彥" title="wikilink">京極尚彥</a></p></td>
+<td><p><a href="../Page/京極尚彥.md" title="wikilink">京極尚彥</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/新保卓郎" title="wikilink">新保卓郎</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/松田寬" title="wikilink">松田寬</a></p></td>
 <td><p>榭魯艾斯</p></td>

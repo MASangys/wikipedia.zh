@@ -14,10 +14,11 @@ yet和](../Page/Not_yet.md "wikilink")[DiVA](../Page/DiVA.md "wikilink")。
   - 选拔次数不计算AKB48在独立制作时期的《[櫻花花瓣](https://zh.wikipedia.org/wiki/櫻花花瓣 "wikilink")》和《[裙襬飄飄](../Page/裙襬飄飄.md "wikilink")》两张单曲。
   - 名單排列順序：先以前屬隊伍分類，再依加入AKB48的期數或48集團的時間排列，最後再依日文的50音排列，兼任成員則以加入48集團的時間排列。
 
-### 岡部Team A（21）
+### 岡部Team A（18）
 
-新編制的Team A經常會冠上隊長岡部麟的名義，而稱為「岡部Team A」，為第六代Team A，至於分隊創立時的第一代Team
-A則會稱作「元Team A」（）或初代Team A。隊伍代表色為「粉紅色」。
+现編制的Team A經常會冠上隊長岡部麟的名義，而稱為「岡部Team A」，為第六代Team A，之前各代Team
+A也常冠以队长姓氏称呼，而分隊創立時的第一代Team A則會稱作「元Team
+A」（）或初代Team A。隊伍代表色為「粉紅色」。
 
 <table>
 <thead>
@@ -186,14 +187,6 @@ A則會稱作「元Team A」（）或初代Team A。隊伍代表色為「粉紅�
 <td><p>未加入</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/谷川圣" title="wikilink">谷川圣</a></p></td>
-<td><p>2014年4月3日</p></td>
-<td><p>心意告示牌</p></td>
-<td><p>-</p></td>
-<td><p>未加入</p></td>
-<td><p>未加入</p></td>
-</tr>
-<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/吉田華恋" title="wikilink">吉田華恋</a></p></td>
 <td><p>2015年4月3日</p></td>
 <td><p>紅唇Be My Baby</p></td>
@@ -201,7 +194,7 @@ A則會稱作「元Team A」（）或初代Team A。隊伍代表色為「粉紅�
 <td><p>未加入</p></td>
 <td><p>未加入</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/奥本陽菜" title="wikilink">奥本陽菜</a></p></td>
 <td><p>2017年9月2日</p></td>
 <td><p><a href="../Page/Teacher_Teacher.md" title="wikilink">Teacher Teacher</a></p></td>
@@ -209,7 +202,7 @@ A則會稱作「元Team A」（）或初代Team A。隊伍代表色為「粉紅�
 <td><p>未加入</p></td>
 <td><p>未加入</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>组阁时自研究生升格</p></td>
 <td></td>
 <td></td>
@@ -217,7 +210,7 @@ A則會稱作「元Team A」（）或初代Team A。隊伍代表色為「粉紅�
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/鈴木久留美" title="wikilink">鈴木久留美</a></p></td>
 <td><p>16期</p></td>
 <td><p>＃就是喜歡你</p></td>
@@ -225,7 +218,7 @@ A則會稱作「元Team A」（）或初代Team A。隊伍代表色為「粉紅�
 <td><p>未加入</p></td>
 <td><p>未加入</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/田口愛佳" title="wikilink">田口愛佳</a></p></td>
 <td><p>16期</p></td>
 <td><p>＃就是喜歡你</p></td>
@@ -233,7 +226,7 @@ A則會稱作「元Team A」（）或初代Team A。隊伍代表色為「粉紅�
 <td><p>未加入</p></td>
 <td><p>未加入</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/前田彩佳" title="wikilink">前田彩佳</a></p></td>
 <td><p>16期</p></td>
 <td><p>＃就是喜歡你</p></td>
@@ -241,7 +234,7 @@ A則會稱作「元Team A」（）或初代Team A。隊伍代表色為「粉紅�
 <td><p>未加入</p></td>
 <td><p>未加入</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2018年12月8日自研究生升格</p></td>
 <td></td>
 <td></td>
@@ -249,7 +242,7 @@ A則會稱作「元Team A」（）或初代Team A。隊伍代表色為「粉紅�
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/山根涼羽" title="wikilink">山根涼羽</a></p></td>
 <td><p>16期</p></td>
 <td><p>＃就是喜歡你</p></td>
@@ -260,10 +253,11 @@ A則會稱作「元Team A」（）或初代Team A。隊伍代表色為「粉紅�
 </tbody>
 </table>
 
-### 込山Team K（25）
+### 込山Team K（19）
 
-新編制的Team K經常會冠上隊長込山榛香的名義，而稱為「込山Team K」，為第六代Team K，至於由二期生組成、創隊時的第一代Team
-K則通常會稱作「元Team K」（）或初代Team K。隊伍代表色為「綠色」。
+现編制的Team K經常會冠上隊長込山榛香的名義，而稱為「込山Team K」，為第六代Team K，之前各代Team
+K也常冠以队长姓氏称呼，而由二期生組成、創隊時的第一代Team K則通常會稱作「元Team
+K」（）或初代Team K。隊伍代表色為「綠色」。
 
 <table>
 <thead>
@@ -304,14 +298,6 @@ K則通常會稱作「元Team K」（）或初代Team K。隊伍代表色為「�
 <td><p>14</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/藤田奈那.md" title="wikilink">藤田奈那</a></p></td>
-<td><p>10期</p></td>
-<td><p>變成櫻花樹</p></td>
-<td><p>-</p></td>
-<td><p>未加入</p></td>
-<td><p>未加入</p></td>
-</tr>
-<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/武藤十夢" title="wikilink">武藤十夢</a></p></td>
 <td><p>12期</p></td>
 <td><p>風正在吹</p></td>
@@ -319,7 +305,7 @@ K則通常會稱作「元Team K」（）或初代Team K。隊伍代表色為「�
 <td><p>未加入</p></td>
 <td><p>未加入</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/茂木忍.md" title="wikilink">茂木忍</a></p></td>
 <td><p>13期</p></td>
 <td><p>1830m</p></td>
@@ -327,7 +313,7 @@ K則通常會稱作「元Team K」（）或初代Team K。隊伍代表色為「�
 <td><p>未加入</p></td>
 <td><p>未加入</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/下口緋奈奈" title="wikilink">下口緋奈奈</a></p></td>
 <td><p>選秀1期</p></td>
 <td><p>拉布拉多獵犬</p></td>
@@ -335,7 +321,7 @@ K則通常會稱作「元Team K」（）或初代Team K。隊伍代表色為「�
 <td><p>未加入</p></td>
 <td><p>未加入</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/市川愛美.md" title="wikilink">市川愛美</a></p></td>
 <td><p>15期</p></td>
 <td><p><a href="../Page/真心電流.md" title="wikilink">真心電流</a></p></td>
@@ -343,7 +329,7 @@ K則通常會稱作「元Team K」（）或初代Team K。隊伍代表色為「�
 <td><p>未加入</p></td>
 <td><p>未加入</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/湯本亚美" title="wikilink">湯本亚美</a></p></td>
 <td><p>15期</p></td>
 <td><p>真心電流</p></td>
@@ -351,7 +337,7 @@ K則通常會稱作「元Team K」（）或初代Team K。隊伍代表色為「�
 <td><p>未加入</p></td>
 <td><p>未加入</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>高橋Team 4成員</p></td>
 <td></td>
 <td></td>
@@ -359,7 +345,7 @@ K則通常會稱作「元Team K」（）或初代Team K。隊伍代表色為「�
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong><a href="../Page/込山榛香.md" title="wikilink">込山榛香</a></strong></p></td>
 <td><p>15期</p></td>
 <td><p>真心電流</p></td>
@@ -367,7 +353,7 @@ K則通常會稱作「元Team K」（）或初代Team K。隊伍代表色為「�
 <td><p>未加入</p></td>
 <td><p>未加入</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Team 8兼任成員</p></td>
 <td></td>
 <td></td>
@@ -375,7 +361,7 @@ K則通常會稱作「元Team K」（）或初代Team K。隊伍代表色為「�
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/小田繪里奈" title="wikilink">小田繪里奈</a></p></td>
 <td><p>2014年4月3日</p></td>
 <td><p>心意告示牌</p></td>
@@ -383,7 +369,7 @@ K則通常會稱作「元Team K」（）或初代Team K。隊伍代表色為「�
 <td><p>未加入</p></td>
 <td><p>未加入</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/倉野尾成美.md" title="wikilink">倉野尾成美</a></p></td>
 <td><p>2014年4月3日</p></td>
 <td><p>心意告示牌</p></td>
@@ -391,7 +377,7 @@ K則通常會稱作「元Team K」（）或初代Team K。隊伍代表色為「�
 <td><p>未加入</p></td>
 <td><p>未加入</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/橋本陽菜" title="wikilink">橋本陽菜</a></p></td>
 <td><p>2014年4月3日</p></td>
 <td><p>心意告示牌</p></td>
@@ -399,19 +385,11 @@ K則通常會稱作「元Team K」（）或初代Team K。隊伍代表色為「�
 <td><p>未加入</p></td>
 <td><p>未加入</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/左伴彩佳" title="wikilink">左伴彩佳</a></p></td>
 <td><p>2014年4月3日</p></td>
 <td><p>心意告示牌</p></td>
 <td><p>-</p></td>
-<td><p>未加入</p></td>
-<td><p>未加入</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/山田菜菜美.md" title="wikilink">山田菜菜美</a></p></td>
-<td><p>2014年4月3日</p></td>
-<td><p>心意告示牌</p></td>
-<td><p>1</p></td>
 <td><p>未加入</p></td>
 <td><p>未加入</p></td>
 </tr>
@@ -498,10 +476,11 @@ K則通常會稱作「元Team K」（）或初代Team K。隊伍代表色為「�
 </tbody>
 </table>
 
-### 高橋朱里/岩立Team B（24）
+### 岩立Team B（21）
 
-新編制的Team B經常會冠上前任隊長高橋朱里、或現任隊長岩立沙穗的名義，而稱為「高橋朱里Team B」或「岩立Team B」，為第六代Team
-B；至於主要由3期生組成、創立時的Team B，則經常被稱為「元Team B」（）或初代Team B。隊伍代表色為「藍色」。
+现編制的Team B經常會冠上隊長岩立沙穗的名義，而稱為「岩立Team B」，為第六代Team B；之前各代Team
+B也常冠以队长姓氏称呼，而主要由3期生組成、創立時的Team B，則經常被稱為「元Team
+B」（）或初代Team B。隊伍代表色為「藍色」。
 
 <table>
 <thead>
@@ -744,10 +723,10 @@ B；至於主要由3期生組成、創立時的Team B，則經常被稱為「元
 </tbody>
 </table>
 
-### 村山Team 4（25）
+### 村山Team 4（24）
 
-新編制的Team 4經常會冠上隊長村山彩希的名義，而稱為「村山Team 4」，為第五代Team
-4，過去於2011年6月6日至2012年11月1日間曾存在過，全由9至12期研究生組成、由大場美奈擔任隊長的大場Team
+现編制的Team 4經常會冠上隊長村山彩希的名義，而稱為「村山Team 4」，為第五代Team 4，之前各代Team
+4也常冠以队长姓氏称呼，而過去於2011年6月6日至2012年11月1日間曾存在過，全由9至12期研究生組成、由大場美奈擔任隊長的大場Team
 4，則經常被稱為「元Team 4」（）或初代Team 4。隊伍代表色為「黄色」。
 
 <table>
@@ -1023,10 +1002,10 @@ B；至於主要由3期生組成、創立時的Team B，則經常被稱為「元
 </tbody>
 </table>
 
-### Team 8（46）
+### Team 8（38）
 
 「Team
-8」於2014年4月3日正式披露，成員是由日本47個[都道府縣中各選出一名代表所組成](../Page/日本行政區劃.md "wikilink")，故成員人數固定為47人，是AKB48的第5組分隊，合作企業為[TOYOTA](../Page/丰田汽车.md "wikilink")，是AKB48首組有企業[贊助的分隊](https://zh.wikipedia.org/wiki/贊助 "wikilink")\[1\]\[2\]。2014年5月起正式在日本全國20個地方活動，之後在同年8月5日首次在[AKB48劇場舉行公演](../Page/AKB48劇場.md "wikilink")\[3\]。隊伍代表色為「深藍色」，全員的經紀公司皆隸屬於AKS。當有Team
+8」於2014年4月3日正式披露，成員是由日本47個[都道府縣中各選出一名代表所組成](../Page/日本行政區劃.md "wikilink")，故成員满编时為47人，是AKB48的第5組分隊，合作企業為[TOYOTA](../Page/丰田汽车.md "wikilink")，是AKB48首組有企業[贊助的分隊](https://zh.wikipedia.org/wiki/贊助 "wikilink")\[1\]\[2\]。2014年5月起正式在日本全國20個地方活動，之後在同年8月5日首次在[AKB48劇場舉行公演](../Page/AKB48劇場.md "wikilink")\[3\]。隊伍代表色為「深藍色」，全員的經紀公司皆隸屬於AKS。當有Team
 8成員畢業時，將會在該都道府縣舉辦徵選以補上缺額。此外，Team 8也是AKB48唯一沒有隊長制度的分隊。
 
 <table>
@@ -1577,7 +1556,7 @@ B；至於主要由3期生組成、創立時的Team B，則經常被稱為「元
 
 ### 研究生
 
-  - 16期研究生（6人）
+  - 16期研究生（3人）
 
 2016年12月8日，於AKB48劇場11週年特別記念公演上首次披露16期研究生\[5\]。在2017年12月8日所宣布的組閣中，未升格至正式隊伍的研究生則分別被分配為隊伍的所屬研究生。
 
@@ -1671,15 +1650,6 @@ B；至於主要由3期生組成、創立時的Team B，則經常被稱為「元
 <td><p>AKS</p></td>
 </tr>
 <tr class="even">
-<td><p>勝又彩央里</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td><p>未加入</p></td>
-<td><p>圈外</p></td>
-<td><p>-</p></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>小林蘭</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
@@ -1688,7 +1658,7 @@ B；至於主要由3期生組成、創立時的Team B，則經常被稱為「元
 <td><p>-</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>末永祐月</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
@@ -1697,7 +1667,7 @@ B；至於主要由3期生組成、創立時的Team B，則經常被稱為「元
 <td><p>-</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>永野惠</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
@@ -1706,7 +1676,7 @@ B；至於主要由3期生組成、創立時的Team B，則經常被稱為「元
 <td><p>-</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Team B</p></td>
 <td></td>
 <td></td>
@@ -1715,7 +1685,7 @@ B；至於主要由3期生組成、創立時的Team B，則經常被稱為「元
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>大竹瞳</p></td>
 <td><p>選秀<br />
 3期</p></td>
@@ -1725,7 +1695,7 @@ B；至於主要由3期生組成、創立時的Team B，則經常被稱為「元
 <td><p>圈外</p></td>
 <td><p>AKS</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>齋藤陽菜</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
@@ -1734,7 +1704,7 @@ B；至於主要由3期生組成、創立時的Team B，則經常被稱為「元
 <td><p>-</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Team 4</p></td>
 <td></td>
 <td></td>
@@ -1743,7 +1713,7 @@ B；至於主要由3期生組成、創立時的Team B，則經常被稱為「元
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>石綿星南</p></td>
 <td><p>選秀<br />
 3期</p></td>
@@ -1753,7 +1723,7 @@ B；至於主要由3期生組成、創立時的Team B，則經常被稱為「元
 <td><p>圈外</p></td>
 <td><p>AKS</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>藏本美結</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
@@ -1762,7 +1732,7 @@ B；至於主要由3期生組成、創立時的Team B，則經常被稱為「元
 <td><p>-</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>吉橋柚花</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
@@ -4506,9 +4476,9 @@ Team B第五任隊長<br />
 <td><p>心意告示牌</p></td>
 <td><p>-</p></td>
 <td><p>圈外</p></td>
-<td><p>rowspan="8|AKS</p></td>
+<td><p>rowspan="9|AKS</p></td>
 <td><p>2月2日</p></td>
-<td><p>rowspan="7|畢業</p></td>
+<td><p>rowspan="8|畢業</p></td>
 <td><p>畢業前兼任Team A[245][246]</p></td>
 </tr>
 <tr class="odd">
@@ -4588,8 +4558,8 @@ Team B第五任隊長<br />
 <td><p>山田菜菜美</p></td>
 <td><p>-</p></td>
 <td><p>6月22日</p></td>
-<td><p>畢業（預定）</p></td>
 <td><p>畢業前兼任Team K[254]</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5524,9 +5494,9 @@ SKE48 Team S第二任隊長[263]<br />
 <td><p>-</p></td>
 <td><p>未參加</p></td>
 <td><p>-</p></td>
-<td><p>-</p></td>
-<td><p>請辭（預定）</p></td>
-<td><p>所屬隊伍為Team K[302]</p></td>
+<td><p>6月28日</p></td>
+<td><p>所屬隊伍為Team K[302][303]</p></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -5572,8 +5542,8 @@ SKE48 Team S第二任隊長[263]<br />
 <td><p>9月1日</p></td>
 <td><p>畢業</p></td>
 <td><p>與<a href="../Page/江崎固力果.md" title="wikilink">江崎固力果合作的</a>「大人AKB」企劃出道，<br />
-企劃結束時畢業[303]<br />
-[304]</p></td>
+企劃結束時畢業[304]<br />
+[305]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2015年</p></td>
@@ -5596,7 +5566,7 @@ SKE48 Team S第二任隊長[263]<br />
 <td><p>2月28日</p></td>
 <td><p>打工AKB企劃<br />
 的活動契約結束</p></td>
-<td><p>[305]<br />
+<td><p>[306]<br />
 曾入選第二屆AKB48集團選秀會議候選者，<br />
 最終未能入選成為第2期選秀生</p></td>
 </tr>
@@ -5605,7 +5575,7 @@ SKE48 Team S第二任隊長[263]<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[306]</p></td>
+<td><p>[307]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5616,7 +5586,7 @@ SKE48 Team S第二任隊長[263]<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[307]</p></td>
+<td><p>[308]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5627,7 +5597,7 @@ SKE48 Team S第二任隊長[263]<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[308]</p></td>
+<td><p>[309]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5638,7 +5608,7 @@ SKE48 Team S第二任隊長[263]<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[309]</p></td>
+<td><p>[310]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5649,7 +5619,7 @@ SKE48 Team S第二任隊長[263]<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[310]</p></td>
+<td><p>[311]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5660,7 +5630,7 @@ SKE48 Team S第二任隊長[263]<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[311]</p></td>
+<td><p>[312]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5671,7 +5641,7 @@ SKE48 Team S第二任隊長[263]<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[312]<br />
+<td><p>[313]<br />
 AKB48集團第2期選秀生<br />
 後成為SKE48 Team S成員，2018年12月28日畢業</p></td>
 <td></td>
@@ -5684,7 +5654,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[313]</p></td>
+<td><p>[314]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5695,7 +5665,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[314]</p></td>
+<td><p>[315]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5706,7 +5676,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[315]</p></td>
+<td><p>[316]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5717,7 +5687,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[316]</p></td>
+<td><p>[317]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5728,9 +5698,9 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[317]<br />
+<td><p>[318]<br />
 AKB48集團第2期選秀生<br />
-現為NGT48 Team NIII副隊長[318]</p></td>
+現為NGT48 Team NIII副隊長[319]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5742,7 +5712,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[319]</p></td>
+<td><p>[320]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5753,7 +5723,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[320]</p></td>
+<td><p>[321]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5764,7 +5734,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[321]</p></td>
+<td><p>[322]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5775,7 +5745,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[322]<br />
+<td><p>[323]<br />
 曾入選第二屆AKB48集團選秀會議候選者，<br />
 最終未能入選成為第2期選秀生</p></td>
 <td></td>
@@ -5788,7 +5758,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[323]</p></td>
+<td><p>[324]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5799,7 +5769,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[324]</p></td>
+<td><p>[325]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5810,7 +5780,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[325]</p></td>
+<td><p>[326]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5821,7 +5791,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[326]</p></td>
+<td><p>[327]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5832,7 +5802,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[327]<br />
+<td><p>[328]<br />
 曾入選第二屆AKB48集團選秀會議候選者，<br />
 最終未能入選成為第2期選秀生<br />
 現為NGT48 Team G成員</p></td>
@@ -5846,7 +5816,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[328]</p></td>
+<td><p>[329]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5857,7 +5827,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[329]</p></td>
+<td><p>[330]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5868,7 +5838,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[330]</p></td>
+<td><p>[331]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5879,7 +5849,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[331]</p></td>
+<td><p>[332]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5901,7 +5871,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[332]<br />
+<td><p>[333]<br />
 現為偶像團體Dream Ability成員</p></td>
 <td></td>
 <td></td>
@@ -5913,9 +5883,9 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[333]<br />
+<td><p>[334]<br />
 曾為AKB48集團第2期選秀生<br />
-後成為NMB48研究生，2016年5月3日畢業[334]</p></td>
+後成為NMB48研究生，2016年5月3日畢業[335]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5926,7 +5896,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[335]</p></td>
+<td><p>[336]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5937,7 +5907,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[336]<br />
+<td><p>[337]<br />
 曾入選第二屆AKB48集團選秀會議候選者，<br />
 最終未能入選成為第2期選秀生<br />
 現為NGT48 Team NIII成員</p></td>
@@ -5951,7 +5921,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[337]</p></td>
+<td><p>[338]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5962,7 +5932,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[338]</p></td>
+<td><p>[339]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5973,7 +5943,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[339]</p></td>
+<td><p>[340]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5984,7 +5954,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[340]</p></td>
+<td><p>[341]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5995,7 +5965,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[341]</p></td>
+<td><p>[342]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6006,7 +5976,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[342]</p></td>
+<td><p>[343]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6017,7 +5987,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[343]</p></td>
+<td><p>[344]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6028,7 +5998,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[344]</p></td>
+<td><p>[345]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6039,7 +6009,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[345]<br />
+<td><p>[346]<br />
 AKB48集團第2期選秀生<br />
 現為NGT48 Team NIII成員</p></td>
 <td></td>
@@ -6052,7 +6022,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[346]<br />
+<td><p>[347]<br />
 現為偶像團體Re：Girl's成員</p></td>
 <td></td>
 <td></td>
@@ -6064,7 +6034,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[347]</p></td>
+<td><p>[348]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6075,7 +6045,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[348]</p></td>
+<td><p>[349]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6087,7 +6057,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[349]<br />
+<td><p>[350]<br />
 AKB48集團第2期選秀生<br />
 現為HKT48 Team TII成員</p></td>
 <td></td>
@@ -6100,7 +6070,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[350]</p></td>
+<td><p>[351]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6111,7 +6081,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[351]</p></td>
+<td><p>[352]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6122,7 +6092,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[352]<br />
+<td><p>[353]<br />
 曾入選第二屆AKB48集團選秀會議候選者，<br />
 最終未能入選成為第2期選秀生</p></td>
 <td></td>
@@ -6135,7 +6105,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[353]</p></td>
+<td><p>[354]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6146,7 +6116,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[354]</p></td>
+<td><p>[355]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6174,14 +6144,14 @@ AKB48集團第2期選秀生<br />
 <td><p>打工AKB企劃<br />
 （Paruru選拔）<br />
 的活動契約結束</p></td>
-<td><p>[355]</p></td>
+<td><p>[356]</p></td>
 </tr>
 <tr class="odd">
 <td><p>日出有香</p></td>
 <td><p>-</p></td>
 <td><p>LOVE TRIP/分享幸福</p></td>
 <td><p>-</p></td>
-<td><p>[356]</p></td>
+<td><p>[357]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6207,7 +6177,7 @@ AKB48集團第2期選秀生<br />
 <td><p>JKT48 Project</p></td>
 <td><p>10月15日</p></td>
 <td><p>短期留學結束</p></td>
-<td><p>[357]<br />
+<td><p>[358]<br />
 時為JKT48 Team J成员</p></td>
 </tr>
 <tr class="even">
@@ -6216,7 +6186,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>BNK48 Office</p></td>
-<td><p>[358]<br />
+<td><p>[359]<br />
 時為BNK48 Team BIII成员</p></td>
 <td></td>
 <td></td>
@@ -6774,6 +6744,7 @@ AKB48集團第2期選秀生<br />
 304.
 
 305.
+
 306.
 307.
 308.
@@ -6787,8 +6758,8 @@ AKB48集團第2期選秀生<br />
 316.
 317.
 318.
-
 319.
+
 320.
 321.
 322.
@@ -6804,8 +6775,8 @@ AKB48集團第2期選秀生<br />
 332.
 333.
 334.
-
 335.
+
 336.
 337.
 338.
@@ -6826,8 +6797,9 @@ AKB48集團第2期選秀生<br />
 353.
 354.
 355.
-
 356.
-357.
 
+357.
 358.
+
+359.

@@ -201,6 +201,15 @@
   - 第13集：(名人隊)：[陳譚新](../Page/陳譚新.md "wikilink")、[黃偉賢](../Page/黃偉賢.md "wikilink")、[陳康泰](https://zh.wikipedia.org/wiki/陳康泰 "wikilink")(2850分)；(藝人隊):
     [羅嘉良](../Page/羅嘉良.md "wikilink")、[廖啟智](../Page/廖啟智.md "wikilink")、[古巨基](../Page/古巨基.md "wikilink")(2090分)；勝方：名人隊
 
+<!-- end list -->
+
+  - 第14集：嘉賓：[陳任](../Page/陳任.md "wikilink")、[葉玉卿](../Page/葉玉卿.md "wikilink")、[高志森](../Page/高志森.md "wikilink")
+  - 第15集：嘉賓：[鄭丹瑞](../Page/鄭丹瑞.md "wikilink")、[羅家英](../Page/羅家英.md "wikilink")、[簡而清](../Page/簡而清.md "wikilink")
+  - 第16集：嘉賓：[安德尊](../Page/安德尊.md "wikilink")、[程介南](../Page/程介南.md "wikilink")、[黃子華](../Page/黃子華.md "wikilink")
+  - 第17集：嘉賓：[何家勁](../Page/何家勁.md "wikilink")、[顧修全](../Page/顧修全.md "wikilink")、[林夕](../Page/林夕.md "wikilink")
+  - 第18集：嘉賓：[尹志強](../Page/尹志強.md "wikilink")、[蕭若元](../Page/蕭若元.md "wikilink")、[張之珏](../Page/張之珏.md "wikilink")
+  - 第19集：嘉賓：[李汝大](../Page/李汝大.md "wikilink")、[溫兆倫](../Page/溫兆倫.md "wikilink")、[廖啟智](../Page/廖啟智.md "wikilink")
+
 ## 全港狀元爭霸戰
 
 1995年5月8日晚上8時播出，才子隊：[楚原](../Page/楚原.md "wikilink")、[劉天賜](../Page/劉天賜.md "wikilink")、[陳小寶](https://zh.wikipedia.org/wiki/陳小寶 "wikilink")；佳人隊：[白韻琹](../Page/白韻琹.md "wikilink")、[鄭裕玲](../Page/鄭裕玲.md "wikilink")、[毛舜筠](../Page/毛舜筠.md "wikilink")。勝方：才子隊。

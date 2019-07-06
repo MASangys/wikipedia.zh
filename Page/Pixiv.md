@@ -58,7 +58,7 @@ pixiv會因應[元旦](../Page/元旦.md "wikilink")、[日本七夕](https://zh
   -
 [Category:2007年建立的网站](https://zh.wikipedia.org/wiki/Category:2007年建立的网站 "wikilink")
 [Category:社交網路服務](https://zh.wikipedia.org/wiki/Category:社交網路服務 "wikilink")
-[Category:网络相册](https://zh.wikipedia.org/wiki/Category:网络相册 "wikilink")
+[Category:图片分享网站](https://zh.wikipedia.org/wiki/Category:图片分享网站 "wikilink")
 [Category:艺术网站](https://zh.wikipedia.org/wiki/Category:艺术网站 "wikilink")
 [Category:數位藝術](https://zh.wikipedia.org/wiki/Category:數位藝術 "wikilink")
 [Category:日本網站](https://zh.wikipedia.org/wiki/Category:日本網站 "wikilink")

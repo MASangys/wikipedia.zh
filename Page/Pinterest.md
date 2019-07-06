@@ -17,7 +17,6 @@ Sharp。2010年正式上线。「Pinterest」是由「[Pin](https://zh.wikipedia
 
   -
 [Category:2010年建立的網站](https://zh.wikipedia.org/wiki/Category:2010年建立的網站 "wikilink")
-[Category:網路相冊](https://zh.wikipedia.org/wiki/Category:網路相冊 "wikilink")
 [Category:社交網路服務](https://zh.wikipedia.org/wiki/Category:社交網路服務 "wikilink")
 [Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink")
 [Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink")
@@ -25,5 +24,6 @@ Sharp。2010年正式上线。「Pinterest」是由「[Pin](https://zh.wikipedia
 [Category:被防火长城封锁的网站](https://zh.wikipedia.org/wiki/Category:被防火长城封锁的网站 "wikilink")
 [Category:2010年加利福尼亞州建立](https://zh.wikipedia.org/wiki/Category:2010年加利福尼亞州建立 "wikilink")
 [Category:2019年IPO](https://zh.wikipedia.org/wiki/Category:2019年IPO "wikilink")
+[Category:图片分享网站](https://zh.wikipedia.org/wiki/Category:图片分享网站 "wikilink")
 
 1.

@@ -2,7 +2,7 @@
 **Tuttminx**，又稱**足球魔術方塊**，是一種32軸的32面[魔術方塊](https://zh.wikipedia.org/wiki/魔術方塊 "wikilink")，外形為[截角二十面體](../Page/截角二十面體.md "wikilink")。2005年，Lee
 Tutt發表Tuttminx，Tuttminx曾經榮獲十大“客製”方塊(The Top 10 Greatest Custom Twisty
 Puzzles of All Time)第8名\[1\]。
-Tuttminx有32個面，分別為12個[五邊形面和](https://zh.wikipedia.org/wiki/五邊形 "wikilink")20個[六邊形面](https://zh.wikipedia.org/wiki/六邊形 "wikilink")，六边形的面必須轉180度才可以轉其他面。
+Tuttminx有32個面，分別為12個[五邊形面和](https://zh.wikipedia.org/wiki/五邊形 "wikilink")20個[六邊形面](https://zh.wikipedia.org/wiki/六邊形 "wikilink")，六边形的面必須轉120度才可以轉其他面。
 
 ## 歷史
 

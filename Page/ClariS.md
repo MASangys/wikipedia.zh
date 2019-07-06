@@ -395,6 +395,55 @@ ISBN 978-4789735421</p></td>
 | **PRIMALove**    | 電視動畫『[沒有心跳的少女 BEATLESS](../Page/沒有心跳的少女_BEATLESS.md "wikilink")』片尾曲                                                                                            | 2018年 |
 | **CheerS**       | 電視動畫『[工作細胞](../Page/工作細胞.md "wikilink")』片尾曲                                                                                                                    |       |
 
+## 国内公演
+
+| 年月日              | タイトル                                                                                           | 会場                                                                         |
+| ---------------- | ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| 単独公演             |                                                                                                |                                                                            |
+| 2014年1月5日        | ClariS presents 「2014 New Year's Festival 〜始まりの予感…〜」                                           | [Zepp Tokyo](https://zh.wikipedia.org/wiki/Zepp "wikilink")（東京都）           |
+| 2015年7月31日       | ClariS 1st Live 〜扉の先へ〜                                                                         | Zepp Tokyo（東京都）                                                            |
+| 2016年3月6日        | ClariS 1st Tour 〜夢の1ページ…〜                                                                      | Zepp Nagoya（愛知県）                                                           |
+| 2016年3月12日       | Zepp Namba（大阪府）                                                                                |                                                                            |
+| 2016年3月19日・20日   | Zepp Tokyo（東京都）                                                                                |                                                                            |
+| 2016年9月17日・18日   | ClariS 1st HALL CONCERT in パシフィコ横浜国立大ホール 〜星に願いを… 月に祈りを…〜                                       | [パシフィコ横浜国立大ホール](https://zh.wikipedia.org/wiki/横浜国際平和会議場 "wikilink")（神奈川県）  |
+| 2017年2月10日       | ClariS 1st 武道館コンサート 〜2つの仮面と失われた太陽〜                                                             | [日本武道館](../Page/日本武道館.md "wikilink")（東京都）                                  |
+| 2017年9月16日       | ClariS 2nd HALL CONCERT in パシフィコ横浜国立大ホール 〜さよならの先へ...はじまりのメロディ〜                                 | パシフィコ横浜国立大ホール（神奈川県）                                                        |
+| 2018年3月29日・30日   | ClariS 3rd HALL CONCERT in 舞浜アンフィシアター ♪over the rainbow ～虹の彼方に～♬                               | [舞浜アンフィシアター](https://zh.wikipedia.org/wiki/舞浜アンフィシアター "wikilink")（千葉県）     |
+| 2018年4月29日       | ClariS 2nd Zepp Tour in 東名阪 〜Best of ClariS〜                                                   | Zepp Osaka Bayside（大阪府）                                                    |
+| 2018年4月30日       | Zepp Nagoya（愛知県）                                                                               |                                                                            |
+| 2018年5月2日・3日     | Zepp Tokyo（東京都）                                                                                |                                                                            |
+| 2019年3月2日        | ClariS 1st HALL CONCERT TOUR ～Fairy Party～                                                     | 三郷市文化会館大ホール（埼玉県）                                                           |
+| 2019年3月8日・9日     | [昭和女子大学人見記念講堂](https://zh.wikipedia.org/wiki/昭和女子大学人見記念講堂 "wikilink")（東京都）                     |                                                                            |
+| 2019年3月17日       | [NHK大阪ホール](https://zh.wikipedia.org/wiki/NHK大阪ホール "wikilink")（大阪府）                             |                                                                            |
+| 2019年4月5日        | [中野サンプラザ](https://zh.wikipedia.org/wiki/中野サンプラザ "wikilink")（東京都）                               |                                                                            |
+| 2019年9月28日       | rowspan="5“|ClariS LIVE Tour 2019 〜libero〜                                                     | [仙台PIT](https://zh.wikipedia.org/wiki/仙台PIT "wikilink")                    |
+| 2019年10月5日       | [Zepp Nagoya](https://zh.wikipedia.org/wiki/Zepp_Nagoya "wikilink")                            |                                                                            |
+| 2019年10月6日       | [Zepp Namba](https://zh.wikipedia.org/wiki/Zepp_Namba "wikilink")                              |                                                                            |
+| 2019年10月11日      | [Zepp Tokyo](https://zh.wikipedia.org/wiki/Zepp_Tokyo "wikilink")                              |                                                                            |
+| 2019年10月12日      | [Zepp Tokyo](https://zh.wikipedia.org/wiki/Zepp_Tokyo "wikilink")                              |                                                                            |
+| その他のClariS参加イベント |                                                                                                |                                                                            |
+| 2015年1月25日       | [リスアニ！LIVE-5](https://zh.wikipedia.org/wiki/リスアニ!_LIVE "wikilink") "SUNDAY STAGE" （1月25日）      | 日本武道館（東京都）                                                                 |
+| 2017年5月27日・28日   | [SME MUSIC THEATER 2017](https://smemusictheater.jp/)                                          | [さいたまスーパーアリーナ](https://zh.wikipedia.org/wiki/さいたまスーパーアリーナ "wikilink")（埼玉県） |
+| 2017年8月25日       | [Animelo Summer Live 2017 -THE CARD-](../Page/Animelo_Summer_Live.md "wikilink") （8月25日）       | さいたまスーパーアリーナ（埼玉県）                                                          |
+| 2017年11月12日      | エロマンガFes（TVアニメ「[エロマンガ先生](https://zh.wikipedia.org/wiki/エロマンガ先生 "wikilink")」のイベント）              | 舞浜アンフィシアター（千葉県）                                                            |
+| 2017年11月23日      | [ANIMAX MUSIX 2017 YOKOHAMA](https://zh.wikipedia.org/wiki/ANIMAX_MUSIX "wikilink") 【横浜公演】     | [横浜アリーナ](https://zh.wikipedia.org/wiki/横浜アリーナ "wikilink")（神奈川県）            |
+| 2018年1月27日       | [リスアニ！LIVE 2018](https://zh.wikipedia.org/wiki/リスアニ!_LIVE "wikilink") "SATURDAY STAGE" （1月27日） | 日本武道館（東京都）                                                                 |
+| 2018年11月18日      | はたらく祭典（TVアニメ「[はたらく細胞](https://zh.wikipedia.org/wiki/はたらく細胞 "wikilink")」のイベント）                  | 舞浜アンフィシアター（千葉県）                                                            |
+| 2019年5月18日・19日   | [SACRA MUSIC FES.2019-NEW GENERATION-](http://sacramusic.jp/fes/)                              | [幕張メッセ](https://zh.wikipedia.org/wiki/幕張メッセ "wikilink") イベントホール（千葉県）       |
+
+## 海外公演
+
+| 年月日         | タイトル                 | 開催国                                                       |
+| ----------- | -------------------- | --------------------------------------------------------- |
+| 2017年11月25日 | C3AFA Singapore 2017 | [シンガポール](https://zh.wikipedia.org/wiki/シンガポール "wikilink") |
+
+## 書籍
+
+| 発売日                                                                      | タイトル                  | 規格品番                   | 発売元                                                                       |
+| ------------------------------------------------------------------------ | --------------------- | ---------------------- | ------------------------------------------------------------------------- |
+| [2012年](../Page/2012年.md "wikilink")[9月14日](../Page/9月14日.md "wikilink") | **コレクション**            | ISBN 978-4-7897-3542-1 | [エムオン・エンタテインメント](https://zh.wikipedia.org/wiki/エムオン・エンタテインメント "wikilink") |
+| [2017年](../Page/2017年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink")   | ”illusion 〜ひかりに包まれて〜“ | ISBN 978-4789736800    | [エムオン・エンタテインメント](https://zh.wikipedia.org/wiki/エムオン・エンタテインメント "wikilink") |
+
 ## [Niconico上的翻唱作品](https://zh.wikipedia.org/wiki/Niconico "wikilink")
 
 <table>

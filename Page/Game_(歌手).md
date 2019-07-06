@@ -99,6 +99,10 @@ Hop Jam节\]\]
 [Category:嘻哈](https://zh.wikipedia.org/wiki/Category:嘻哈 "wikilink")
 [Category:美國饒舌歌手](https://zh.wikipedia.org/wiki/Category:美國饒舌歌手 "wikilink")
 [Category:康普顿高中校友](https://zh.wikipedia.org/wiki/Category:康普顿高中校友 "wikilink")
+[Category:非裔美国男性饶舌歌手](https://zh.wikipedia.org/wiki/Category:非裔美国男性饶舌歌手 "wikilink")
+[Category:血帮](https://zh.wikipedia.org/wiki/Category:血帮 "wikilink")
+[Category:21世纪美国饶舌歌手](https://zh.wikipedia.org/wiki/Category:21世纪美国饶舌歌手 "wikilink")
+[Category:来自洛杉矶的饶舌歌手](https://zh.wikipedia.org/wiki/Category:来自洛杉矶的饶舌歌手 "wikilink")
 
 1.
 

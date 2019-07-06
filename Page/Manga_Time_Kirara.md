@@ -466,7 +466,7 @@
 <tr class="odd">
 <td></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Naphthalene水嶋" title="wikilink">Naphthalene水嶋</a></p></td>
+<td><p><a href="../Page/Naphthalene水嶋.md" title="wikilink">Naphthalene水嶋</a></p></td>
 <td><p>2006年7月号</p></td>
 <td></td>
 <td></td>
@@ -764,7 +764,7 @@
 <tr class="odd">
 <td></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Naphthalene水嶋" title="wikilink">Naphthalene水嶋</a></p></td>
+<td><p><a href="../Page/Naphthalene水嶋.md" title="wikilink">Naphthalene水嶋</a></p></td>
 <td><p>2007年2月号</p></td>
 <td><p>未出版单行本</p></td>
 <td></td>

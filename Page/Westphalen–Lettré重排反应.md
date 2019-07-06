@@ -1,13 +1,15 @@
 **Westphalen-Lettré重排反应**（Westphalen-Lettré rearrangement）
 
-[胆甾烷](https://zh.wikipedia.org/wiki/胆甾烷 "wikilink")-3β,5α,6β-三醇二乙酸酯用[乙酸酐和](../Page/乙酸酐.md "wikilink")[硫酸处理时](../Page/硫酸.md "wikilink")，失去一分子水，在
-C10-C11 间生成双键，并且 C10 的甲基迁移至 C5。\[1\]\[2\] \[3\]
+[胆甾烷](../Page/胆甾烷.md "wikilink")-3β,5α,6β-三醇二乙酸酯用[乙酸酐和](../Page/乙酸酐.md "wikilink")[硫酸处理时](../Page/硫酸.md "wikilink")，失去一分子水，在
+C10-C11 间生成双键，并且 C10 连接的甲基（C19）迁移至 C5。\[1\]\[2\] \[3\]
 
 
 [Westphalen-Lettré_rearrangement.png](https://zh.wikipedia.org/wiki/File:Westphalen-Lettré_rearrangement.png "fig:Westphalen-Lettré_rearrangement.png")
 反应在过量 硫酸存在时对甾类是一级反应。\[4\]
 反应机理可能为首先生成相应的[硫酸酯](https://zh.wikipedia.org/wiki/硫酸酯 "wikilink")，并在
 C5 生成[碳正离子](../Page/碳正离子.md "wikilink")，然后再发生重排。
+
+[Westphalen_Umlagerung_Reaktionsmechanismus_V1.svg](https://zh.wikipedia.org/wiki/File:Westphalen_Umlagerung_Reaktionsmechanismus_V1.svg "fig:Westphalen_Umlagerung_Reaktionsmechanismus_V1.svg")
 
 ## 参见
 

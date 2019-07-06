@@ -30,7 +30,7 @@
 E.U.</p></td>
 <td style="text-align: center;"><p>30</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/苗僑偉" title="wikilink">苗僑偉</a>、<a href="../Page/周海媚.md" title="wikilink">周海媚</a>、<a href="../Page/吳卓羲.md" title="wikilink">吳卓羲</a>、<br />
-<a href="https://zh.wikipedia.org/wiki/陳鍵鋒" title="wikilink">陳鍵鋒</a>、<a href="../Page/謝天華.md" title="wikilink">謝天華</a>、<a href="https://zh.wikipedia.org/wiki/江若琳" title="wikilink">江若琳</a>、<br />
+<a href="https://zh.wikipedia.org/wiki/陳鍵鋒" title="wikilink">陳鍵鋒</a>、<a href="../Page/謝天華.md" title="wikilink">謝天華</a>、<a href="../Page/江若琳.md" title="wikilink">江若琳</a>、<br />
 <a href="../Page/梁嘉琪.md" title="wikilink">梁嘉琪</a>、<a href="../Page/林嘉華.md" title="wikilink">林嘉華</a>、<a href="../Page/盧宛茵.md" title="wikilink">盧宛茵</a>、<br />
 <a href="../Page/金剛_(藝人).md" title="wikilink">金　剛</a>、<a href="../Page/白彪.md" title="wikilink">白　彪</a>、<a href="../Page/林利.md" title="wikilink">林　利</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/黃偉聲.md" title="wikilink">黃偉聲</a></p></td>

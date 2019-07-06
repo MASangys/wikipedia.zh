@@ -3,7 +3,7 @@
 
 ## 發展
 
-1990年代末，KSVK大口徑重型[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")（[反器材步槍](../Page/反器材步槍.md "wikilink")）由總部設在[俄罗斯](../Page/俄罗斯.md "wikilink")[科夫罗夫的](https://zh.wikipedia.org/wiki/科夫罗夫 "wikilink")研發。它是基於使用[.50俄羅斯](../Page/12.7×108mm.md "wikilink")（12.7×108毫米）[步枪](../Page/步枪.md "wikilink")[子彈的SVN](../Page/子彈.md "wikilink")-98（，意為：尼古拉可狙擊步槍98型）試驗型反器材步槍，後者以[Kord重機槍的槍管製造出來](../Page/Kord重機槍.md "wikilink")，而兩腳架是直接採用[PKM通用機槍](https://zh.wikipedia.org/wiki/PK通用機槍#PKM "wikilink")。由于當時SVN-98-{只}-發射普通機槍彈，因此[精度較差](../Page/準確與精密.md "wikilink")，在300[公尺](../Page/米_\(单位\).md "wikilink")（328.08[码](https://zh.wikipedia.org/wiki/码 "wikilink")）平均散佈達到160毫米。
+1990年代末，KSVK大口徑重型[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")（[反器材步槍](../Page/反器材步槍.md "wikilink")）由總部設在[俄罗斯](../Page/俄罗斯.md "wikilink")[科夫罗夫的](https://zh.wikipedia.org/wiki/科夫罗夫 "wikilink")研發。它是基於使用[12.7×108毫米俄羅斯](../Page/12.7×108mm.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")（.50俄羅斯）[步枪](../Page/步枪.md "wikilink")[子彈的SVN](../Page/子彈.md "wikilink")-98（，意為：尼古拉可狙擊步槍98型）試驗型反器材步槍，後者以[Kord重機槍的槍管製造出來](../Page/Kord重機槍.md "wikilink")，而兩腳架是直接採用[PKM通用機槍](https://zh.wikipedia.org/wiki/PK通用機槍#PKM "wikilink")。由于當時SVN-98-{只}-發射普通機槍彈，因此[精度較為差劣](../Page/準確與精密.md "wikilink")，在300[公尺](../Page/米_\(单位\).md "wikilink")（328.08[码](https://zh.wikipedia.org/wiki/码 "wikilink")）平均散佈達到160毫米。
 
 最初的KSVK又命名為ASVK（，意為：大口徑軍用狙擊步槍）。目前有少量的KSVK被位於[車臣的](../Page/车臣共和国.md "wikilink")[俄羅斯特種部隊所使用](https://zh.wikipedia.org/wiki/俄羅斯特種部隊 "wikilink")，作為反狙擊步槍，因為其威力能夠貫穿厚厚的[磚](../Page/磚.md "wikilink")[墙或](../Page/墙.md "wikilink")[木板牆並且殺傷躲在牆壁後方的車臣武裝分子](../Page/木材.md "wikilink")（不論是穿上[防彈衣與否](https://zh.wikipedia.org/wiki/護甲 "wikilink")）。
 
@@ -11,7 +11,7 @@
 
 ## 設計
 
-KSVK是一枝採用[犢牛式結構](../Page/犢牛式_\(槍械\).md "wikilink")、[手動槍機操作和](../Page/手動槍機.md "wikilink")5發可拆式[彈匣供彈的](../Page/彈匣.md "wikilink")[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")（[反器材步槍](../Page/反器材步槍.md "wikilink")）。它的[槍口配備了大型槍口裝置](https://zh.wikipedia.org/wiki/槍口 "wikilink")，同時具有[槍口制退器和减音器的效能](../Page/砲口制動器.md "wikilink")。和大部份俄羅斯槍械一樣，KSVK的左側（握把上方）配備了俄羅斯標準的[瞄準鏡](https://zh.wikipedia.org/wiki/瞄準鏡 "wikilink")，可以加裝各種白天和黑夜使用的光學瞄準具。KSVK亦配備可調整高度和可摺疊的[兩腳架和後備的摺疊式](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")[機械瞄具以用作緊急用途](../Page/機械瞄具.md "wikilink")。
+KSVK是一枝採用[犢牛式結構](../Page/犢牛式_\(槍械\).md "wikilink")、[手動槍機操作和](../Page/手動槍機.md "wikilink")5發可拆式[彈匣供彈的](../Page/彈匣.md "wikilink")[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")（[反器材步槍](../Page/反器材步槍.md "wikilink")）。它的[槍口配備了大型槍口裝置](https://zh.wikipedia.org/wiki/槍口 "wikilink")，同時具有[槍口制退器和减音器的效能](../Page/砲口制動器.md "wikilink")。和大部份俄羅斯槍械一樣，KSVK的左側（握把上方）配備了俄羅斯標準的[瞄準鏡](https://zh.wikipedia.org/wiki/瞄準鏡 "wikilink")，可以加裝各種白天和黑夜使用的光學瞄準具，例如制式的[1P71-1「超子」](../Page/超子光學瞄準鏡.md "wikilink")（）3—10×42倍可變放大倍率型望遠瞄準鏡。KSVK亦配備可調整高度和可摺疊的[兩腳架和後備的摺疊式](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")[機械瞄具以用作緊急用途](../Page/機械瞄具.md "wikilink")。
 
 KSVK發射[.50俄羅斯](../Page/12.7×108mm.md "wikilink")（12.7×108毫米）[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")，而這種子彈亦可以給[DShK](../Page/DShK重機槍.md "wikilink")、[NSV這兩種俄羅斯的](../Page/NSV重機槍.md "wikilink")[重機槍所使用](https://zh.wikipedia.org/wiki/重機槍 "wikilink")。據報導所指，圖拉[彈藥工廠為KSVK特別生產了命名為SPB](https://zh.wikipedia.org/wiki/彈藥 "wikilink")-12.7（）的高精度子彈，有不錯的射擊精度。就算不使用高精度狙擊彈，KSVK亦能夠於300[公尺](../Page/米_\(单位\).md "wikilink")（328.08[码](https://zh.wikipedia.org/wiki/码 "wikilink")）的距離擊中了[直径](../Page/直径.md "wikilink")16厘米的[環](../Page/圆.md "wikilink")。
 

@@ -58,7 +58,7 @@ PlotData=
 ` bar:16 from:0 till:94.143 color:barcolor text:"`[`16-17`](https://zh.wikipedia.org/wiki/2016-17_NBA賽季 "wikilink")` 94.143百萬美元"`
 ` bar:17 from:0 till:99.093 color:barcolor text:"`[`17-18`](../Page/2017-18_NBA賽季.md "wikilink")` 99.093百萬美元"`
 ` bar:18 from:0 till:108 color:green text:"`[`18-19`](https://zh.wikipedia.org/wiki/2018-19_NBA賽季 "wikilink")` 108*百萬美元"`
-` bar:19 from:0 till:109 color:green text:"`[`19-20`](https://zh.wikipedia.org/wiki/2019-20_NBA賽季 "wikilink")` 109*百萬美元"`
+` bar:19 from:0 till:109 color:green text:"`[`19-20`](../Page/2019-20_NBA賽季.md "wikilink")` 109*百萬美元"`
 ` bar:20 from:0 till:114 color:green text:"`[`20-21`](https://zh.wikipedia.org/wiki/2020-21_NBA賽季 "wikilink")` 114*百萬美元"`
 
 ScaleMajor = gridcolor:line unit:year increment:10 start:0

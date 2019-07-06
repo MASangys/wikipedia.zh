@@ -1,5 +1,14 @@
 **Java平台**即由[Java程式語言所撰寫的軟體賴以執行的平台](../Page/Java.md "wikilink")，是Java軟體和電腦系統的中介，最初被設計用在 Applet 等桌面端程式，不過後來逐漸轉移到伺服端的運用。
 
+## Java 平台版本
+
+  - Java SE
+  - Java EE
+  - JAVA ME
+  - JAVA EMBEDDED
+  - JAVA CARD
+  - JAVA TV
+
 ## Java 執行環境
 
 **Java 執行環境**，即 **J**ava **R**untime

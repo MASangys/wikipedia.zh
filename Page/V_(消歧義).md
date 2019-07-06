@@ -23,7 +23,7 @@
       - [V怪客
         (漫畫)](https://zh.wikipedia.org/wiki/V怪客_\(漫畫\) "wikilink")（），上述电影的漫画原作
       - [V
-        (漫畫角色)](https://zh.wikipedia.org/wiki/V_\(漫畫角色\) "wikilink")，上述电影和漫画的主角
+        (漫画人物)](https://zh.wikipedia.org/wiki/V_\(漫画人物\) "wikilink")，上述电影和漫画的主角
   - [Channel
     V](../Page/Channel_V.md "wikilink")，[星空传媒旗下国际音乐电视频道](https://zh.wikipedia.org/wiki/星空传媒 "wikilink")
 

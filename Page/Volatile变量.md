@@ -108,56 +108,56 @@ void bar (void) {
 <td><p>不使用volatile</p></td>
 </tr>
 <tr class="even">
-<td><div class="sourceCode" id="cb1"><pre class="sourceCode c"><code class="sourceCode c"><a class="sourceLine" id="cb1-1" title="1"><span class="pp">#include </span><span class="im">&lt;stdio.h&gt;</span></a>
-<a class="sourceLine" id="cb1-2" title="2"></a>
-<a class="sourceLine" id="cb1-3" title="3"><span class="dt">int</span> main() {</a>
-<a class="sourceLine" id="cb1-4" title="4">    <span class="dt">int</span> a = <span class="dv">10</span>, b = <span class="dv">100</span>, c = <span class="dv">0</span>, d = <span class="dv">0</span>;</a>
-<a class="sourceLine" id="cb1-5" title="5"></a>
-<a class="sourceLine" id="cb1-6" title="6">    printf(<span class="st">&quot;%d&quot;</span>, a + b);</a>
-<a class="sourceLine" id="cb1-7" title="7"></a>
-<a class="sourceLine" id="cb1-8" title="8">    a = b;</a>
-<a class="sourceLine" id="cb1-9" title="9">    c = b;</a>
-<a class="sourceLine" id="cb1-10" title="10">    d = b;</a>
-<a class="sourceLine" id="cb1-11" title="11"></a>
-<a class="sourceLine" id="cb1-12" title="12">    printf(<span class="st">&quot;%d&quot;</span>, c + d);</a>
-<a class="sourceLine" id="cb1-13" title="13"></a>
-<a class="sourceLine" id="cb1-14" title="14">    <span class="cf">return</span> <span class="dv">0</span>;</a>
-<a class="sourceLine" id="cb1-15" title="15">}</a></code></pre></div></td>
+<td><div class="sourceCode" id="cb1"><pre class="sourceCode c"><code class="sourceCode c"><span id="cb1-1"><a href="#cb1-1"></a><span class="pp">#include </span><span class="im">&lt;stdio.h&gt;</span></span>
+<span id="cb1-2"><a href="#cb1-2"></a></span>
+<span id="cb1-3"><a href="#cb1-3"></a><span class="dt">int</span> main() {</span>
+<span id="cb1-4"><a href="#cb1-4"></a>    <span class="dt">int</span> a = <span class="dv">10</span>, b = <span class="dv">100</span>, c = <span class="dv">0</span>, d = <span class="dv">0</span>;</span>
+<span id="cb1-5"><a href="#cb1-5"></a></span>
+<span id="cb1-6"><a href="#cb1-6"></a>    printf(<span class="st">&quot;%d&quot;</span>, a + b);</span>
+<span id="cb1-7"><a href="#cb1-7"></a></span>
+<span id="cb1-8"><a href="#cb1-8"></a>    a = b;</span>
+<span id="cb1-9"><a href="#cb1-9"></a>    c = b;</span>
+<span id="cb1-10"><a href="#cb1-10"></a>    d = b;</span>
+<span id="cb1-11"><a href="#cb1-11"></a></span>
+<span id="cb1-12"><a href="#cb1-12"></a>    printf(<span class="st">&quot;%d&quot;</span>, c + d);</span>
+<span id="cb1-13"><a href="#cb1-13"></a></span>
+<span id="cb1-14"><a href="#cb1-14"></a>    <span class="cf">return</span> <span class="dv">0</span>;</span>
+<span id="cb1-15"><a href="#cb1-15"></a>}</span></code></pre></div></td>
 </tr>
 <tr class="odd">
 <td><p>gcc -O3 -S without.c -o without.s</p></td>
 </tr>
 <tr class="even">
-<td><div class="sourceCode" id="cb2"><pre class="sourceCode asm"><code class="sourceCode fasm"><a class="sourceLine" id="cb2-1" title="1">    .<span class="dt">file</span>   <span class="st">&quot;without.c&quot;</span></a>
-<a class="sourceLine" id="cb2-2" title="2">    .<span class="bu">section</span>    .rodata.str1<span class="fl">.1</span>,<span class="st">&quot;aMS&quot;</span>,@progbits,<span class="dv">1</span></a>
-<a class="sourceLine" id="cb2-3" title="3"><span class="fu">.LC0:</span></a>
-<a class="sourceLine" id="cb2-4" title="4">    .string <span class="st">&quot;%d&quot;</span></a>
-<a class="sourceLine" id="cb2-5" title="5">    .text</a>
-<a class="sourceLine" id="cb2-6" title="6">    .p2align <span class="dv">4</span>,,<span class="dv">15</span></a>
-<a class="sourceLine" id="cb2-7" title="7">.globl main</a>
-<a class="sourceLine" id="cb2-8" title="8">    .type   main, @function</a>
-<a class="sourceLine" id="cb2-9" title="9"><span class="fu">main:</span></a>
-<a class="sourceLine" id="cb2-10" title="10">    leal    <span class="dv">4</span>(%<span class="kw">esp</span>), %<span class="kw">ecx</span></a>
-<a class="sourceLine" id="cb2-11" title="11">    andl    <span class="dv">$</span>-<span class="dv">16</span>, %<span class="kw">esp</span></a>
-<a class="sourceLine" id="cb2-12" title="12">    pushl   <span class="dv">-4</span>(%<span class="kw">ecx</span>)</a>
-<a class="sourceLine" id="cb2-13" title="13">    pushl   %<span class="kw">ebp</span></a>
-<a class="sourceLine" id="cb2-14" title="14">    movl    %<span class="kw">esp</span>, %<span class="kw">ebp</span></a>
-<a class="sourceLine" id="cb2-15" title="15">    pushl   %<span class="kw">ecx</span></a>
-<a class="sourceLine" id="cb2-16" title="16">    subl<span class="bn">    $20, </span>%<span class="kw">esp</span></a>
-<a class="sourceLine" id="cb2-17" title="17">    movl<span class="bn">    $110, </span><span class="dv">4</span>(%<span class="kw">esp</span>)</a>
-<a class="sourceLine" id="cb2-18" title="18">    movl    <span class="dv">$</span>.LC0, (%<span class="kw">esp</span>)</a>
-<a class="sourceLine" id="cb2-19" title="19">    <span class="bu">call</span>    printf</a>
-<a class="sourceLine" id="cb2-20" title="20">    movl<span class="bn">    $200, </span><span class="dv">4</span>(%<span class="kw">esp</span>)</a>
-<a class="sourceLine" id="cb2-21" title="21">    movl    <span class="dv">$</span>.LC0, (%<span class="kw">esp</span>)</a>
-<a class="sourceLine" id="cb2-22" title="22">    <span class="bu">call</span>    printf</a>
-<a class="sourceLine" id="cb2-23" title="23">    addl<span class="bn">    $20, </span>%<span class="kw">esp</span></a>
-<a class="sourceLine" id="cb2-24" title="24">    xorl    %<span class="kw">eax</span>, %<span class="kw">eax</span></a>
-<a class="sourceLine" id="cb2-25" title="25">    popl    %<span class="kw">ecx</span></a>
-<a class="sourceLine" id="cb2-26" title="26">    popl    %<span class="kw">ebp</span></a>
-<a class="sourceLine" id="cb2-27" title="27">    leal    <span class="dv">-4</span>(%<span class="kw">ecx</span>), %<span class="kw">esp</span></a>
-<a class="sourceLine" id="cb2-28" title="28">    <span class="bu">ret</span></a>
-<a class="sourceLine" id="cb2-29" title="29">    .size   main, .-main</a>
-<a class="sourceLine" id="cb2-30" title="30">    .ident  <span class="st">&quot;GCC: (GNU) 4.2.1 20070719  [FreeBSD]&quot;</span></a></code></pre></div></td>
+<td><div class="sourceCode" id="cb2"><pre class="sourceCode asm"><code class="sourceCode fasm"><span id="cb2-1"><a href="#cb2-1"></a>    .<span class="dt">file</span>   <span class="st">&quot;without.c&quot;</span></span>
+<span id="cb2-2"><a href="#cb2-2"></a>    .<span class="bu">section</span>    .rodata.str1<span class="fl">.1</span>,<span class="st">&quot;aMS&quot;</span>,@progbits,<span class="dv">1</span></span>
+<span id="cb2-3"><a href="#cb2-3"></a><span class="fu">.LC0:</span></span>
+<span id="cb2-4"><a href="#cb2-4"></a>    .string <span class="st">&quot;%d&quot;</span></span>
+<span id="cb2-5"><a href="#cb2-5"></a>    .text</span>
+<span id="cb2-6"><a href="#cb2-6"></a>    .p2align <span class="dv">4</span>,,<span class="dv">15</span></span>
+<span id="cb2-7"><a href="#cb2-7"></a>.globl main</span>
+<span id="cb2-8"><a href="#cb2-8"></a>    .type   main, @function</span>
+<span id="cb2-9"><a href="#cb2-9"></a><span class="fu">main:</span></span>
+<span id="cb2-10"><a href="#cb2-10"></a>    leal    <span class="dv">4</span>(%<span class="kw">esp</span>), %<span class="kw">ecx</span></span>
+<span id="cb2-11"><a href="#cb2-11"></a>    andl    <span class="dv">$</span>-<span class="dv">16</span>, %<span class="kw">esp</span></span>
+<span id="cb2-12"><a href="#cb2-12"></a>    pushl   <span class="dv">-4</span>(%<span class="kw">ecx</span>)</span>
+<span id="cb2-13"><a href="#cb2-13"></a>    pushl   %<span class="kw">ebp</span></span>
+<span id="cb2-14"><a href="#cb2-14"></a>    movl    %<span class="kw">esp</span>, %<span class="kw">ebp</span></span>
+<span id="cb2-15"><a href="#cb2-15"></a>    pushl   %<span class="kw">ecx</span></span>
+<span id="cb2-16"><a href="#cb2-16"></a>    subl<span class="bn">    $20, </span>%<span class="kw">esp</span></span>
+<span id="cb2-17"><a href="#cb2-17"></a>    movl<span class="bn">    $110, </span><span class="dv">4</span>(%<span class="kw">esp</span>)</span>
+<span id="cb2-18"><a href="#cb2-18"></a>    movl    <span class="dv">$</span>.LC0, (%<span class="kw">esp</span>)</span>
+<span id="cb2-19"><a href="#cb2-19"></a>    <span class="bu">call</span>    printf</span>
+<span id="cb2-20"><a href="#cb2-20"></a>    movl<span class="bn">    $200, </span><span class="dv">4</span>(%<span class="kw">esp</span>)</span>
+<span id="cb2-21"><a href="#cb2-21"></a>    movl    <span class="dv">$</span>.LC0, (%<span class="kw">esp</span>)</span>
+<span id="cb2-22"><a href="#cb2-22"></a>    <span class="bu">call</span>    printf</span>
+<span id="cb2-23"><a href="#cb2-23"></a>    addl<span class="bn">    $20, </span>%<span class="kw">esp</span></span>
+<span id="cb2-24"><a href="#cb2-24"></a>    xorl    %<span class="kw">eax</span>, %<span class="kw">eax</span></span>
+<span id="cb2-25"><a href="#cb2-25"></a>    popl    %<span class="kw">ecx</span></span>
+<span id="cb2-26"><a href="#cb2-26"></a>    popl    %<span class="kw">ebp</span></span>
+<span id="cb2-27"><a href="#cb2-27"></a>    leal    <span class="dv">-4</span>(%<span class="kw">ecx</span>), %<span class="kw">esp</span></span>
+<span id="cb2-28"><a href="#cb2-28"></a>    <span class="bu">ret</span></span>
+<span id="cb2-29"><a href="#cb2-29"></a>    .size   main, .-main</span>
+<span id="cb2-30"><a href="#cb2-30"></a>    .ident  <span class="st">&quot;GCC: (GNU) 4.2.1 20070719  [FreeBSD]&quot;</span></span></code></pre></div></td>
 </tr>
 </tbody>
 </table>

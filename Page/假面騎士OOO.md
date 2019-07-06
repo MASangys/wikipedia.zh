@@ -5,7 +5,9 @@
 ## 本作特色
 
   - 本作首次以[硬幣為主题](../Page/硬幣.md "wikilink")，除了這個，还围绕著[欲望和](https://zh.wikipedia.org/wiki/欲望 "wikilink")[内褲等关键字](https://zh.wikipedia.org/wiki/内褲 "wikilink")。
-  - 本作的世界觀設定和後作《[假面騎士Fourze](../Page/假面騎士Fourze.md "wikilink")》\[1\]有所關聯。
+  - 本作的世界觀設定和後作《[假面騎士Fourze](../Page/假面騎士Fourze.md "wikilink")》\[1\]有所關聯，之後於2017年上映的《[假面騎士平成Generations
+    FINAL Build & EX-AID with
+    傳說騎士](../Page/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士.md "wikilink")》得知《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》至《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》實为同一世界觀。
   - 本作主角騎士所使用的相关道具為類似[自動販賣機的裝置](../Page/自動販賣機.md "wikilink")，當投入不同[代幣就可以變身成不同的戰鬥型態](../Page/代幣.md "wikilink")，若需要時可按下騎士機車成為一臺自動販賣機，再次投入代幣後可再變成騎士機車或得到其他不同機器。
   - 本作结合了历代平成假面騎士的相关元素，其中《[假面騎士空我](../Page/假面騎士空我.md "wikilink")》就占大多数：
       - 本作繼《[假面騎士空我](../Page/假面騎士空我.md "wikilink")》後，主角騎士的变身腰带来自远古时期，同時最终形態被設定為「會因陷入失控而有生命危險的形態」。
@@ -2506,9 +2508,7 @@ Ankh用來維持手部1枚，於第48話碎成兩半<br />
 [Category:動物題材電視劇](https://zh.wikipedia.org/wiki/Category:動物題材電視劇 "wikilink")
 [Category:鍊金術題材作品](https://zh.wikipedia.org/wiki/Category:鍊金術題材作品 "wikilink")
 
-1.  假面騎士OOO第48集片尾曾經顯示過假面騎士Fourze中的角色與Fourze所用的Switch，之後於2017年上映的《[假面騎士平成Generations
-    FINAL Build & EX-AID with
-    傳說騎士](../Page/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士.md "wikilink")》得知《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》至《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》實为同一世界觀。
+1.  假面騎士OOO第48集片尾曾經顯示過假面騎士Fourze中的角色與Fourze所用的Switch。
 
 2.  幹巧的怪人形態在故事开始前本来就有，且才专属劇場版時被公布出来；而劍崎則是为了避免世界被毁灭而自愿变化的
 

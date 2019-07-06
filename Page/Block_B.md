@@ -209,8 +209,7 @@ Seasons正式發表官方聲明宣布ZICO確定不續約\[108\]，ZICO將來會�
 B，Seven Seasons其後澄清：「雖然ZICO與Seven Seasons的合約到期，但不是退出Block
 B，之後的活動相關還沒有確定。」\[109\]
 
-12 月
-22、23日，[泰欥在奧林匹克公園的K](https://zh.wikipedia.org/wiki/泰欥 "wikilink")-Art廳舉行出道七年首場個人演唱會《TALE
+12月22及23日，[泰欥在奧林匹克公園的K](https://zh.wikipedia.org/wiki/泰欥 "wikilink")-Art廳舉行出道七年首場個人演唱會《TALE
 20》。
 
 ## 成員

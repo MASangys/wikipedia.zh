@@ -45,3 +45,6 @@
 <references/>
 
 [Category:香港男子演唱團體](https://zh.wikipedia.org/wiki/Category:香港男子演唱團體 "wikilink")
+[Category:2010年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2010年成立的音樂團體 "wikilink")
+[Category:粵語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:粵語流行音樂歌手 "wikilink")
+[Category:華語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:華語流行音樂歌手 "wikilink")

@@ -12,7 +12,7 @@ TSUTAYA是日本最大的音樂、影像軟體租賃連鎖店（部門營業額�
 
 其中[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[澀谷站西北側的](https://zh.wikipedia.org/wiki/澀谷站 "wikilink")，宣稱擁有日本最完整的音樂、影音軟體出租庫藏。例如「[戰爭電影](https://zh.wikipedia.org/wiki/戰爭電影 "wikilink")」在普通的店鋪中並未繼續細分，但在澀谷店中則進一步分類為古代、二次大戰以前、二次大戰、太平洋戰爭、戰後和反戰、二次大戰以後、架空和未來戰爭等等。
 
-除了部份的店鋪外，會員卡已可共通使用，一間店的會員可在多間店鋪租借影片。部份店鋪還有經營[漫畫出租業務](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。此外，如支付保證金，可使用[FamilyMart和](../Page/FamilyMart.md "wikilink")[BookOFF發行的](https://zh.wikipedia.org/wiki/BookOFF "wikilink")[T-CARD租借](https://zh.wikipedia.org/wiki/T-POINT "wikilink")。
+除了部份的店鋪外，會員卡已可共通使用，一間店的會員可在多間店鋪租借影片。部份店鋪還有經營[漫畫出租業務](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。此外，如支付保證金，可使用[FamilyMart和](../Page/FamilyMart.md "wikilink")發行的[T-CARD租借](https://zh.wikipedia.org/wiki/T-POINT "wikilink")。
 
 「TSUTAYA
 DISCAS」則是[線上影片租賃事業](https://zh.wikipedia.org/wiki/線上影片租賃 "wikilink")，會員人數約有一百萬人（2010年9月），是日本同類服務中最多的會員人數。\[2\]。

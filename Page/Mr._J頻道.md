@@ -102,7 +102,7 @@ Channel）是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[中天電
 <td><p>12</p></td>
 <td><p>11</p></td>
 <td><p>2011年1月22日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/游松澤" title="wikilink">游松澤</a>、<a href="https://zh.wikipedia.org/wiki/詹宇豪" title="wikilink">詹宇豪</a>、<a href="../Page/蔡康永.md" title="wikilink">蔡康永</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/游松澤" title="wikilink">游松澤</a>、<a href="../Page/詹宇豪.md" title="wikilink">詹宇豪</a>、<a href="../Page/蔡康永.md" title="wikilink">蔡康永</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

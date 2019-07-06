@@ -1,5 +1,5 @@
 《**相信希望fight &
-smile賑災募款晚會**》（），是[台灣的](https://zh.wikipedia.org/wiki/台灣 "wikilink")[日本311大地震賑災特別節目](../Page/2011年日本東北地方太平洋近海地震.md "wikilink")，由[華視](../Page/中華電視公司.md "wikilink")、[中視](https://zh.wikipedia.org/wiki/中國電視公司 "wikilink")、[公視基金會](https://zh.wikipedia.org/wiki/公共電視文化事業基金會 "wikilink")、[中華民國紅十字會等共同製作](https://zh.wikipedia.org/wiki/中華民國紅十字會 "wikilink")。\[1\]
+smile賑災募款晚會**》（），是[台灣的](https://zh.wikipedia.org/wiki/台灣 "wikilink")[日本311大地震賑災特別節目](../Page/2011年日本東北地方太平洋近海地震.md "wikilink")，由[華視](../Page/中華電視公司.md "wikilink")、[中視](https://zh.wikipedia.org/wiki/中國電視公司 "wikilink")、[公視基金會](../Page/公共電視文化事業基金會.md "wikilink")、[中華民國紅十字會等共同製作](https://zh.wikipedia.org/wiki/中華民國紅十字會 "wikilink")。\[1\]
 
 ## 提要
 

@@ -59,6 +59,19 @@ HOUSE）創刊的『[平凡パンチ](https://zh.wikipedia.org/wiki/平凡パン
   - [山森利之](https://zh.wikipedia.org/wiki/山森利之 "wikilink")
   - [五十嵐洋](https://zh.wikipedia.org/wiki/五十嵐洋 "wikilink")（創刊号）
 
+## 関連項目
+
+  - [グラビアJAPAN](https://zh.wikipedia.org/wiki/グラビアJAPAN "wikilink")（『[週刊ヤングジャンプ](https://zh.wikipedia.org/wiki/週刊ヤングジャンプ "wikilink")』との共同開催による次世代アイドル発掘オーディション）
+  - [ミス週プレ](https://zh.wikipedia.org/wiki/ミス週プレ "wikilink")
+      - [ビキニプリンセス](https://zh.wikipedia.org/wiki/ビキニプリンセス "wikilink")
+  - [月刊プレイボーイ](https://zh.wikipedia.org/wiki/月刊プレイボーイ "wikilink")
+  - [欽ちゃんのドンといってみよう](https://zh.wikipedia.org/wiki/欽ドン! "wikilink") -
+    プレイボーイ賞が賞のひとつとしてあった。
+  - [プレイガール
+    (テレビドラマ)](https://zh.wikipedia.org/wiki/プレイガール_\(テレビドラマ\) "wikilink")
+  - [朝霞自衛官殺害事件](https://zh.wikipedia.org/wiki/朝霞自衛官殺害事件 "wikilink") -
+    記者が犯行の証憑を湮滅したとされている事件。
+
 ## 外部連結
 
   - [週プレNEWS](http://wpb.shueisha.co.jp/) - 週刊Playboy官方新聞網站

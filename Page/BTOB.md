@@ -494,7 +494,7 @@ RADIO](../Page/IDOL_RADIO.md "wikilink")》的試播DJ，是首位主持廣播�
 2013年1月15日，BTOB於第27屆韓國[金唱片獎獲得](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")「Next
 Generation獎」。 2016年1月14日，於第30屆韓國金唱片獎獲得「唱片部門最佳歌唱獎（Best Vocal
 Group）」。2016年1月21日，於第25屆[首爾歌謠大賞獲得](https://zh.wikipedia.org/wiki/首爾歌謠大賞 "wikilink")「最佳抒情歌曲獎（R\&B／Balled）」。
-2017年11月3日，於《[韓國大眾文化藝術獎](../Page/韓國大眾文化藝術獎.md "wikilink")》獲得「文化體育觀光部長官表彰」殊榮
+2017年11月3日，於[韓國大眾文化藝術獎獲得](../Page/韓國大眾文化藝術獎.md "wikilink")「文化體育觀光部長官表彰」殊榮
 \[158\]。 2018年1月10日，於第32屆韓國金唱片獎獲得「音源部門最佳男子團體獎（Best Male Group）」。
 2018年1月25日，於第27屆首爾歌謠大賞獲得「本賞」。
 2018年12月1日，於[甜瓜音樂獎首次獲得](../Page/甜瓜音樂獎.md "wikilink")「TOP10」。\[159\]

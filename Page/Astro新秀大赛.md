@@ -37,7 +37,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/李玉钦" title="wikilink">李玉钦</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/马嘉轩" title="wikilink">马嘉轩</a></p></td>
 <td><p><a href="../Page/曹格.md" title="wikilink">曹格</a></p></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/林忠彪" title="wikilink">林忠彪</a></p></td>
 <td></td>
 <td><p>最佳才艺表演奖: <a href="https://zh.wikipedia.org/wiki/林忠彪" title="wikilink">林忠彪</a></p></td>
 </tr>
@@ -534,9 +534,21 @@ MY FM 最受欢迎Astro新秀单曲: <a href="https://zh.wikipedia.org/wiki/江�
 <td><p>冠军</p></td>
 </tr>
 <tr class="even">
+<td><p>2017年 <a href="https://zh.wikipedia.org/wiki/The_Voice_決戰好聲_(第一季)" title="wikilink">The Voice 決戰好聲 (第一季)</a></p></td>
+<td><p>盲選賽</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年 <a href="https://zh.wikipedia.org/wiki/Astro經典名曲歌唱大賽2019" title="wikilink">Astro經典名曲歌唱大賽2019</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>2000年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/利慧君" title="wikilink">利慧君</a></p></td>
-<td><p>2018年 Astro經典名曲歌唱大賽</p></td>
+<td><p>2018年 <a href="https://zh.wikipedia.org/wiki/Astro經典名曲歌唱大賽" title="wikilink">Astro經典名曲歌唱大賽</a></p></td>
 <td><p>國內賽18強（融會貫通）</p></td>
 </tr>
 <tr class="odd">
@@ -840,6 +852,7 @@ MY FM 最受欢迎Astro新秀单曲: <a href="https://zh.wikipedia.org/wiki/江�
 ## 参见
 
   - [TVB全球华人新秀歌唱大賽](https://zh.wikipedia.org/wiki/TVB全球华人新秀歌唱大賽 "wikilink")
+  - [Astro經典名曲歌唱大賽](https://zh.wikipedia.org/wiki/Astro經典名曲歌唱大賽 "wikilink")
 
 ## 外部連結
 

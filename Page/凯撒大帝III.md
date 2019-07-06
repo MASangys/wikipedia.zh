@@ -109,7 +109,7 @@
   - [伊特拉斯坎](../Page/伊特拉斯坎文明.md "wikilink")：[塔連登和](../Page/塔兰托.md "wikilink")[范倫提亞](../Page/瓦倫西亞.md "wikilink")
   - [希臘](../Page/希臘人.md "wikilink")：[西那庫斯和](https://zh.wikipedia.org/wiki/锡拉库萨 "wikilink")[美里塔司](../Page/米利都.md "wikilink")
   - [帕加马](../Page/帕加马.md "wikilink")：[塔瑟斯](https://zh.wikipedia.org/wiki/大數 "wikilink")
-  - [埃及](https://zh.wikipedia.org/wiki/古埃及 "wikilink")：[大馬士革](https://zh.wikipedia.org/wiki/大馬士革 "wikilink")
+  - [埃及](../Page/古埃及.md "wikilink")：[大馬士革](https://zh.wikipedia.org/wiki/大馬士革 "wikilink")
   - [努米底亞](../Page/努米底亞.md "wikilink")：[丁吉斯和](../Page/丹吉尔.md "wikilink")[西撒利亞](../Page/歇爾謝爾.md "wikilink")
   - [高盧](https://zh.wikipedia.org/wiki/高盧 "wikilink")：[巴黎和](../Page/巴黎.md "wikilink")[瑪西利亞](https://zh.wikipedia.org/wiki/馬賽 "wikilink")
   - [哥德](https://zh.wikipedia.org/wiki/哥德 "wikilink")：[撒米塞吉圖撒](https://zh.wikipedia.org/wiki/撒米塞吉圖撒 "wikilink")

@@ -38,7 +38,7 @@
 <tr class="even">
 <td></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/古埃及" title="wikilink">古埃及</a><a href="../Page/王室.md" title="wikilink">王室親信僕役</a></p></td>
+<td><p><a href="../Page/古埃及.md" title="wikilink">古埃及</a><a href="../Page/王室.md" title="wikilink">王室親信僕役</a></p></td>
 <td></td>
 <td><p>妻：Khenut</p></td>
 <td><p>墓穴壁畫描繪兩人親密相擁的模樣，其名字皆取自造物與陶藝之神<a href="../Page/庫努牡.md" title="wikilink">庫努牡</a>[12][13]</p></td>
@@ -46,7 +46,7 @@
 <tr class="odd">
 <td><p><a href="../Page/佩皮二世.md" title="wikilink">佩皮二世</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/古埃及" title="wikilink">古埃及</a><a href="../Page/法老.md" title="wikilink">法老</a></p></td>
+<td><p><a href="../Page/古埃及.md" title="wikilink">古埃及</a><a href="../Page/法老.md" title="wikilink">法老</a></p></td>
 <td><p>將軍</p></td>
 <td><p>妻：等人</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/法老王" title="wikilink">法老王</a>悄悄到將軍的住所幽會，在太陽神<a href="../Page/拉_(埃及神祇).md" title="wikilink">拉和死神</a><a href="https://zh.wikipedia.org/wiki/歐西里斯" title="wikilink">歐西里斯會合的深夜時刻</a>[14][15]</p></td>

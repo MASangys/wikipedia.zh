@@ -784,8 +784,7 @@ CD</small></p></td>
 
   - （2010年10月9日 - 2012年3月10日 、[日本放送](../Page/日本放送.md "wikilink")）
 
-  - （2013年4月6日 -
-    4月27日、[NHK廣播第1頻率](https://zh.wikipedia.org/wiki/NHK廣播第1頻率 "wikilink")）
+  - （2013年4月6日 - 4月27日、[NHK廣播第1頻率](../Page/NHK廣播第1頻率.md "wikilink")）
 
 ### 網上節目
 

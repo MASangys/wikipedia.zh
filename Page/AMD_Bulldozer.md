@@ -2,8 +2,8 @@
 Bulldozer微架構**\[1\]（）是美商[超微繼](https://zh.wikipedia.org/wiki/超微 "wikilink")[K10微架構之後](https://zh.wikipedia.org/wiki/K10 "wikilink")，所推出的[中央處理器](https://zh.wikipedia.org/wiki/中央處理器 "wikilink")[微架構](../Page/微架構.md "wikilink")\[2\]。該微架構主要應用於[桌上型平台](https://zh.wikipedia.org/wiki/台式机 "wikilink")、[伺服器平台乃至](https://zh.wikipedia.org/wiki/伺服器 "wikilink")[超級計算機的微處理器核心上](https://zh.wikipedia.org/wiki/超級計算機 "wikilink")。Bulldozer在歷經數次[跳票後於](https://zh.wikipedia.org/wiki/跳票 "wikilink")2011年9月19日發布，其首發產品是核心代號為“Zambezi”的[AMD
 FX](../Page/AMD_FX.md "wikilink")。
 
-Bulldozer微架構從一個早期已擱置的微架構設計發展而來，\[3\]主攻[熱設計功耗為](https://zh.wikipedia.org/wiki/熱設計功耗 "wikilink")10瓦至125瓦的處理器平台。AMD預期認為，基於Bulldozer架構的處理器在實際應用中每個「推土機」（Bulldozer）核心每瓦效能可達到[高效能計算](../Page/超级计算机.md "wikilink")（High-performance
-computing，HPC）的水準。屆時每個“推土機”核心會支援[Intel絕大部分的指令集](https://zh.wikipedia.org/wiki/Intel "wikilink")（包括[SSE4.1](../Page/SSE.md "wikilink")、SSE4.2、[AES](../Page/AES指令集.md "wikilink")、[CLMUL以及](https://zh.wikipedia.org/wiki/CLMUL指令集 "wikilink")[AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")），以及AMD自有的指令集（包括由SSE5拆分而來的[XOP](https://zh.wikipedia.org/wiki/XOP指令集 "wikilink")、[FMA4](https://zh.wikipedia.org/wiki/FMA "wikilink")、[CVT16](https://zh.wikipedia.org/wiki/CVT16指令集 "wikilink")）.\[4\]\[5\]
+Bulldozer微架構從一個早期已擱置的微架構設計發展而來\[3\]，主攻[熱設計功耗為](https://zh.wikipedia.org/wiki/熱設計功耗 "wikilink")10瓦至125瓦的處理器平台。AMD預期認為，基於Bulldozer架構的處理器在實際應用中每個「推土機」（Bulldozer）核心每瓦效能可達到[高效能計算](../Page/超级计算机.md "wikilink")（High-performance
+computing，HPC）的水準。屆時每個“推土機”核心會支援[Intel絕大部分的指令集](https://zh.wikipedia.org/wiki/Intel "wikilink")（包括[SSE4.1](../Page/SSE.md "wikilink")、SSE4.2、[AES](../Page/AES指令集.md "wikilink")、[CLMUL以及](https://zh.wikipedia.org/wiki/CLMUL指令集 "wikilink")[AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")），以及AMD自有的指令集（包括由SSE5拆分而來的[XOP](https://zh.wikipedia.org/wiki/XOP指令集 "wikilink")、[FMA4](https://zh.wikipedia.org/wiki/FMA "wikilink")、[CVT16](https://zh.wikipedia.org/wiki/CVT16指令集 "wikilink")）\[4\]\[5\]。
 
 ## 基本介紹
 
@@ -223,17 +223,7 @@ GHz成績，榮登[金氏世界紀錄](https://zh.wikipedia.org/wiki/金氏世�
 AMD在2011年發布2012年的財政預算以及2012年的產品路線圖時宣布，在2012年的第三季度發布Bulldozer微架構的改進版[Piledriver](../Page/AMD_Piledriver.md "wikilink")。首批基於Piledriver的處理器是核心代號「[Trinity](../Page/三位一體.md "wikilink")」的AMD
 A系列處理器（APU）行動版本和桌面版本；新FX和Opteron在2012年9月發布。\[106\]\[107\]
 
-## 註腳
-
-## 參見
-
-  - [AMD CPU微架構列表](../Page/AMD_CPU微架構列表.md "wikilink")
-  - [AMD FX](../Page/AMD_FX.md "wikilink")
-  - [AMD Piledriver](../Page/AMD_Piledriver.md "wikilink")
-  - [AMD Fusion](https://zh.wikipedia.org/wiki/AMD_Fusion "wikilink")
-  - [AMD Bobcat](../Page/AMD_Bobcat.md "wikilink")
-  - [SSE5](https://zh.wikipedia.org/wiki/SSE#SSE5 "wikilink")
-  - [多晶片模組](../Page/多晶片模組.md "wikilink")
+## 参考文献
 
 ## 外部連結
 
@@ -263,8 +253,19 @@ A系列處理器（APU）行動版本和桌面版本；新FX和Opteron在2012年
   -
   -
   -
+## 參見
+
+  - [AMD CPU微架構列表](../Page/AMD_CPU微架構列表.md "wikilink")
+  - [AMD FX](../Page/AMD_FX.md "wikilink")
+  - [AMD Piledriver](../Page/AMD_Piledriver.md "wikilink")
+  - [AMD Fusion](https://zh.wikipedia.org/wiki/AMD_Fusion "wikilink")
+  - [AMD Bobcat](../Page/AMD_Bobcat.md "wikilink")
+  - [SSE5](https://zh.wikipedia.org/wiki/SSE#SSE5 "wikilink")
+  - [多晶片模組](../Page/多晶片模組.md "wikilink")
+
+{{-}}
+
 [Category:X86架構](https://zh.wikipedia.org/wiki/Category:X86架構 "wikilink")
-[Category:AMD](https://zh.wikipedia.org/wiki/Category:AMD "wikilink")
 [Category:AMD處理器](https://zh.wikipedia.org/wiki/Category:AMD處理器 "wikilink")
 [Category:世界之最](https://zh.wikipedia.org/wiki/Category:世界之最 "wikilink")
 

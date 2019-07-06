@@ -1513,7 +1513,7 @@ Award）和[最有价值球员](https://zh.wikipedia.org/wiki/NBA最有价值球
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/盧卡·唐西奇" title="wikilink">盧卡·唐西奇</a>^</p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/盧卡·唐西奇" title="wikilink">盧卡·唐西奇</a>^</strong></p></td>
 <td><p><a href="../Page/達拉斯獨行俠.md" title="wikilink">達拉斯獨行俠</a> (10)</p></td>
 </tr>
 <tr class="odd">

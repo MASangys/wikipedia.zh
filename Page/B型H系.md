@@ -300,8 +300,8 @@ JUMP](../Page/週刊YOUNG_JUMP.md "wikilink")》2004年20號至2011年10號期�
 <td><p>Boy♂Meets♀Girl<br />
 你的「第一次」給我吧！！</p></td>
 <td><p>西園悟</p></td>
-<td><p>山本裕介</p></td>
-<td><p>津田尚克<br />
+<td><p><a href="../Page/山本裕介.md" title="wikilink">山本裕介</a></p></td>
+<td><p><a href="../Page/津田尚克.md" title="wikilink">津田尚克</a><br />
 山本裕介</p></td>
 <td><p>阿部智之</p></td>
 </tr>

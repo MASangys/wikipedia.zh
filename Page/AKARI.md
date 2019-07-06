@@ -1,4 +1,4 @@
-**AKARI**（[日文](https://zh.wikipedia.org/wiki/日文 "wikilink")：****，**ASTRO-F**）是由[日本](../Page/日本.md "wikilink")[宇宙航空研究开发机构](https://zh.wikipedia.org/wiki/宇宙航空研究开发机构 "wikilink")（JAXA）和[欧洲](../Page/欧洲.md "wikilink")、[韩国部分机构合作开发的](https://zh.wikipedia.org/wiki/韩国 "wikilink")[红外线](../Page/红外线.md "wikilink")[空间望远镜卫星](../Page/空间望远镜.md "wikilink")，于2006年2月21日[协调世界时](../Page/协调世界时.md "wikilink")21:28在日本[鹿儿岛县的](../Page/鹿儿岛县.md "wikilink")[内之浦宇宙空间观测所由](https://zh.wikipedia.org/wiki/内之浦宇宙空间观测所 "wikilink")[M-V火箭发射至](https://zh.wikipedia.org/wiki/M-V火箭 "wikilink")[太阳同步轨道](../Page/太阳同步轨道.md "wikilink")。
+**AKARI**（，ASTRO-F）是由[日本](../Page/日本.md "wikilink")[宇宙航空研究开发机构](https://zh.wikipedia.org/wiki/宇宙航空研究开发机构 "wikilink")（JAXA）和[欧洲](../Page/欧洲.md "wikilink")、[韩国部分机构合作开发的](https://zh.wikipedia.org/wiki/韩国 "wikilink")[红外线](../Page/红外线.md "wikilink")[空间望远镜卫星](../Page/空间望远镜.md "wikilink")，于2006年2月21日[协调世界时](../Page/协调世界时.md "wikilink")21:28在日本[鹿儿岛县的](../Page/鹿儿岛县.md "wikilink")[内之浦宇宙空间观测所由](https://zh.wikipedia.org/wiki/内之浦宇宙空间观测所 "wikilink")[M-V火箭发射至](https://zh.wikipedia.org/wiki/M-V火箭 "wikilink")[太阳同步轨道](../Page/太阳同步轨道.md "wikilink")。
 
 AKARI的设计工作开始于1996年，根据日本[人造卫星的排序命名](https://zh.wikipedia.org/wiki/人造卫星 "wikilink")，其最初的名字是ASTRO-F；而由于它主要用于红外的巡天观测，所以又被称为IRIS（Infrared
 Imaging
@@ -70,6 +70,7 @@ AKARI的运行分为四个阶段\[7\]：
 [Category:空间望远镜](https://zh.wikipedia.org/wiki/Category:空间望远镜 "wikilink")
 [Category:红外天文卫星](https://zh.wikipedia.org/wiki/Category:红外天文卫星 "wikilink")
 [Category:日本人造衛星](https://zh.wikipedia.org/wiki/Category:日本人造衛星 "wikilink")
+[Category:2006年發射的太空飛行器](https://zh.wikipedia.org/wiki/Category:2006年發射的太空飛行器 "wikilink")
 
 1.  [AKARI赤外線天文衛星](http://www.ir.isas.jaxa.jp/ASTRO-F/Outreach/index_e.html)
 

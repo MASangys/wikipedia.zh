@@ -71,6 +71,9 @@ accessories、Antoshimo、[MOS
 Burger及](https://zh.wikipedia.org/wiki/MOS_Burger "wikilink")6IXTY
 8IGH。目前該層有不少商舖處於空置狀態。
 
+到2018年至19年起，Panash Bakery &
+Cafe和部分時裝店結業，改為[翠河餐廳和十和田](https://zh.wikipedia.org/wiki/翠河餐廳 "wikilink")。
+
 ### L1
 
 一樓主要租戶包括佔地3,200呎的Metrobooks書店，是首間注入繽紛色調的分店，特設兒童及青少年書籍專區，並有落地玻璃的座位，到2017年結業。家品概念店Colour@life以「生活

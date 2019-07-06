@@ -1071,6 +1071,7 @@ Girl](../Page/Best_Friend's_Girl.md "wikilink")」；另包括一首新歌「片
 [Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink")
 [Category:Rhythm_zone](https://zh.wikipedia.org/wiki/Category:Rhythm_zone "wikilink")
 [Category:EXILE_TRIBE](https://zh.wikipedia.org/wiki/Category:EXILE_TRIBE "wikilink")
+[Category:LDH所屬藝人](https://zh.wikipedia.org/wiki/Category:LDH所屬藝人 "wikilink")
 
 1.
 2.

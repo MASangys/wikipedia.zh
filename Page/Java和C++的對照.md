@@ -146,99 +146,99 @@ C++
 </thead>
 <tbody>
 <tr class="odd">
-<td><div class="sourceCode" id="cb1"><pre class="sourceCode cpp"><code class="sourceCode cpp"><a class="sourceLine" id="cb1-1" title="1"><span class="kw">class</span> Foo {          <span class="co">// 声明 Foo 类</span></a>
-<a class="sourceLine" id="cb1-2" title="2"><span class="kw">public</span>:</a>
-<a class="sourceLine" id="cb1-3" title="3">    <span class="dt">int</span> x;           <span class="co">// 成員變量</span></a>
-<a class="sourceLine" id="cb1-4" title="4"></a>
-<a class="sourceLine" id="cb1-5" title="5">    Foo(): x(<span class="dv">0</span>) {    <span class="co">// Foo 的构造函数Constructor for Foo,</span></a>
-<a class="sourceLine" id="cb1-6" title="6">    }                <span class="co">//  初始化 x</span></a>
-<a class="sourceLine" id="cb1-7" title="7"></a>
-<a class="sourceLine" id="cb1-8" title="8">    <span class="dt">int</span> bar(<span class="dt">int</span> i) { <span class="co">// 成员函数 bar()</span></a>
-<a class="sourceLine" id="cb1-9" title="9">        <span class="cf">return</span> <span class="dv">3</span>*i + x;</a>
-<a class="sourceLine" id="cb1-10" title="10">    }</a>
-<a class="sourceLine" id="cb1-11" title="11">};</a></code></pre></div></td>
-<td><div class="sourceCode" id="cb2"><pre class="sourceCode java"><code class="sourceCode java"><a class="sourceLine" id="cb2-1" title="1"><span class="kw">class</span> Foo {               <span class="co">// 定义类 Foo</span></a>
-<a class="sourceLine" id="cb2-2" title="2">    <span class="kw">public</span> <span class="dt">int</span> x = <span class="dv">0</span>;     <span class="co">// 成员变量,</span></a>
-<a class="sourceLine" id="cb2-3" title="3">                          <span class="co">//  以及其值的初始化</span></a>
-<a class="sourceLine" id="cb2-4" title="4">    <span class="kw">public</span> <span class="fu">Foo</span>() {        <span class="co">// Foo的 构造函数</span></a>
-<a class="sourceLine" id="cb2-5" title="5">    }</a>
-<a class="sourceLine" id="cb2-6" title="6"></a>
-<a class="sourceLine" id="cb2-7" title="7">    <span class="kw">public</span> <span class="dt">int</span> <span class="fu">bar</span>(<span class="dt">int</span> i) {<span class="co">// 成员方法 bar()</span></a>
-<a class="sourceLine" id="cb2-8" title="8">        <span class="kw">return</span> <span class="dv">3</span>*i + x;</a>
-<a class="sourceLine" id="cb2-9" title="9">    }</a>
-<a class="sourceLine" id="cb2-10" title="10">}</a></code></pre></div></td>
+<td><div class="sourceCode" id="cb1"><pre class="sourceCode cpp"><code class="sourceCode cpp"><span id="cb1-1"><a href="#cb1-1"></a><span class="kw">class</span> Foo {          <span class="co">// 声明 Foo 类</span></span>
+<span id="cb1-2"><a href="#cb1-2"></a><span class="kw">public</span>:</span>
+<span id="cb1-3"><a href="#cb1-3"></a>    <span class="dt">int</span> x;           <span class="co">// 成員變量</span></span>
+<span id="cb1-4"><a href="#cb1-4"></a></span>
+<span id="cb1-5"><a href="#cb1-5"></a>    Foo(): x(<span class="dv">0</span>) {    <span class="co">// Foo 的构造函数Constructor for Foo,</span></span>
+<span id="cb1-6"><a href="#cb1-6"></a>    }                <span class="co">//  初始化 x</span></span>
+<span id="cb1-7"><a href="#cb1-7"></a></span>
+<span id="cb1-8"><a href="#cb1-8"></a>    <span class="dt">int</span> bar(<span class="dt">int</span> i) { <span class="co">// 成员函数 bar()</span></span>
+<span id="cb1-9"><a href="#cb1-9"></a>        <span class="cf">return</span> <span class="dv">3</span>*i + x;</span>
+<span id="cb1-10"><a href="#cb1-10"></a>    }</span>
+<span id="cb1-11"><a href="#cb1-11"></a>};</span></code></pre></div></td>
+<td><div class="sourceCode" id="cb2"><pre class="sourceCode java"><code class="sourceCode java"><span id="cb2-1"><a href="#cb2-1"></a><span class="kw">class</span> Foo {               <span class="co">// 定义类 Foo</span></span>
+<span id="cb2-2"><a href="#cb2-2"></a>    <span class="kw">public</span> <span class="dt">int</span> x = <span class="dv">0</span>;     <span class="co">// 成员变量,</span></span>
+<span id="cb2-3"><a href="#cb2-3"></a>                          <span class="co">//  以及其值的初始化</span></span>
+<span id="cb2-4"><a href="#cb2-4"></a>    <span class="kw">public</span> <span class="fu">Foo</span>() {        <span class="co">// Foo的 构造函数</span></span>
+<span id="cb2-5"><a href="#cb2-5"></a>    }</span>
+<span id="cb2-6"><a href="#cb2-6"></a></span>
+<span id="cb2-7"><a href="#cb2-7"></a>    <span class="kw">public</span> <span class="dt">int</span> <span class="fu">bar</span>(<span class="dt">int</span> i) {<span class="co">// 成员方法 bar()</span></span>
+<span id="cb2-8"><a href="#cb2-8"></a>        <span class="kw">return</span> <span class="dv">3</span>*i + x;</span>
+<span id="cb2-9"><a href="#cb2-9"></a>    }</span>
+<span id="cb2-10"><a href="#cb2-10"></a>}</span></code></pre></div></td>
 </tr>
 <tr class="even">
-<td><div class="sourceCode" id="cb3"><pre class="sourceCode cpp"><code class="sourceCode cpp"><a class="sourceLine" id="cb3-1" title="1">Foo a;</a>
-<a class="sourceLine" id="cb3-2" title="2"><span class="co">// 声明 a 为一个 Foo 类的对象值,</span></a>
-<a class="sourceLine" id="cb3-3" title="3"><span class="co">// 使用其缺省的构造函数</span></a>
-<a class="sourceLine" id="cb3-4" title="4"><span class="co">// 如果你想要用其他的构造函数,</span></a>
-<a class="sourceLine" id="cb3-5" title="5"><span class="co">// 你可以用 &quot;Foo a(args);&quot; </span></a></code></pre></div></td>
-<td><div class="sourceCode" id="cb4"><pre class="sourceCode java"><code class="sourceCode java"><a class="sourceLine" id="cb4-1" title="1">Foo a;</a>
-<a class="sourceLine" id="cb4-2" title="2"><span class="co">// 声明 a 为一个 Foo 类的对象的引用</span></a>
-<a class="sourceLine" id="cb4-3" title="3">a = <span class="kw">new</span> <span class="fu">Foo</span>();</a>
-<a class="sourceLine" id="cb4-4" title="4"><span class="co">// 使用缺省的构造函数初始化</span></a>
-<a class="sourceLine" id="cb4-5" title="5"><span class="co">// 如果你想要用其他的构造函数,</span></a>
-<a class="sourceLine" id="cb4-6" title="6"><span class="co">// 你可以用 &quot;Foo a = new Foo(args);&quot; </span></a></code></pre></div></td>
+<td><div class="sourceCode" id="cb3"><pre class="sourceCode cpp"><code class="sourceCode cpp"><span id="cb3-1"><a href="#cb3-1"></a>Foo a;</span>
+<span id="cb3-2"><a href="#cb3-2"></a><span class="co">// 声明 a 为一个 Foo 类的对象值,</span></span>
+<span id="cb3-3"><a href="#cb3-3"></a><span class="co">// 使用其缺省的构造函数</span></span>
+<span id="cb3-4"><a href="#cb3-4"></a><span class="co">// 如果你想要用其他的构造函数,</span></span>
+<span id="cb3-5"><a href="#cb3-5"></a><span class="co">// 你可以用 &quot;Foo a(args);&quot; </span></span></code></pre></div></td>
+<td><div class="sourceCode" id="cb4"><pre class="sourceCode java"><code class="sourceCode java"><span id="cb4-1"><a href="#cb4-1"></a>Foo a;</span>
+<span id="cb4-2"><a href="#cb4-2"></a><span class="co">// 声明 a 为一个 Foo 类的对象的引用</span></span>
+<span id="cb4-3"><a href="#cb4-3"></a>a = <span class="kw">new</span> <span class="fu">Foo</span>();</span>
+<span id="cb4-4"><a href="#cb4-4"></a><span class="co">// 使用缺省的构造函数初始化</span></span>
+<span id="cb4-5"><a href="#cb4-5"></a><span class="co">// 如果你想要用其他的构造函数,</span></span>
+<span id="cb4-6"><a href="#cb4-6"></a><span class="co">// 你可以用 &quot;Foo a = new Foo(args);&quot; </span></span></code></pre></div></td>
 </tr>
 <tr class="odd">
-<td><div class="sourceCode" id="cb5"><pre class="sourceCode cpp"><code class="sourceCode cpp"><a class="sourceLine" id="cb5-1" title="1">Foo b = a;</a>
-<a class="sourceLine" id="cb5-2" title="2"><span class="co">// 拷贝 a 的内容到一个新的 Foo 类的变量 b 当中;</span></a>
-<a class="sourceLine" id="cb5-3" title="3"><span class="co">// 另一种可以选择的语法是 &quot;Foo b(a)&quot;</span></a></code></pre></div></td>
-<td><div class="sourceCode" id="cb6"><pre class="sourceCode java"><code class="sourceCode java"><a class="sourceLine" id="cb6-1" title="1">Foo b = a.<span class="fu">clone</span>();</a>
-<a class="sourceLine" id="cb6-2" title="2"><span class="co">// 拷贝所有a这个实例的成员到b,当且仅当,</span></a>
-<a class="sourceLine" id="cb6-3" title="3"><span class="co">// Foo 实现了一个 public 的 clone() 方法,</span></a>
-<a class="sourceLine" id="cb6-4" title="4"><span class="co">// 并且 clone() 返回一个新的这个对象的拷贝</span></a></code></pre></div></td>
+<td><div class="sourceCode" id="cb5"><pre class="sourceCode cpp"><code class="sourceCode cpp"><span id="cb5-1"><a href="#cb5-1"></a>Foo b = a;</span>
+<span id="cb5-2"><a href="#cb5-2"></a><span class="co">// 拷贝 a 的内容到一个新的 Foo 类的变量 b 当中;</span></span>
+<span id="cb5-3"><a href="#cb5-3"></a><span class="co">// 另一种可以选择的语法是 &quot;Foo b(a)&quot;</span></span></code></pre></div></td>
+<td><div class="sourceCode" id="cb6"><pre class="sourceCode java"><code class="sourceCode java"><span id="cb6-1"><a href="#cb6-1"></a>Foo b = a.<span class="fu">clone</span>();</span>
+<span id="cb6-2"><a href="#cb6-2"></a><span class="co">// 拷贝所有a这个实例的成员到b,当且仅当,</span></span>
+<span id="cb6-3"><a href="#cb6-3"></a><span class="co">// Foo 实现了一个 public 的 clone() 方法,</span></span>
+<span id="cb6-4"><a href="#cb6-4"></a><span class="co">// 并且 clone() 返回一个新的这个对象的拷贝</span></span></code></pre></div></td>
 </tr>
 <tr class="even">
-<td><div class="sourceCode" id="cb7"><pre class="sourceCode cpp"><code class="sourceCode cpp"><a class="sourceLine" id="cb7-1" title="1">a.x = <span class="dv">5</span>; <span class="co">// 修改 a 对象</span></a></code></pre></div></td>
-<td><div class="sourceCode" id="cb8"><pre class="sourceCode java"><code class="sourceCode java"><a class="sourceLine" id="cb8-1" title="1">a.<span class="fu">x</span> = <span class="dv">5</span>; <span class="co">// 修改 a 对象</span></a></code></pre></div></td>
+<td><div class="sourceCode" id="cb7"><pre class="sourceCode cpp"><code class="sourceCode cpp"><span id="cb7-1"><a href="#cb7-1"></a>a.x = <span class="dv">5</span>; <span class="co">// 修改 a 对象</span></span></code></pre></div></td>
+<td><div class="sourceCode" id="cb8"><pre class="sourceCode java"><code class="sourceCode java"><span id="cb8-1"><a href="#cb8-1"></a>a.<span class="fu">x</span> = <span class="dv">5</span>; <span class="co">// 修改 a 对象</span></span></code></pre></div></td>
 </tr>
 <tr class="odd">
-<td><div class="sourceCode" id="cb9"><pre class="sourceCode cpp"><code class="sourceCode cpp"><a class="sourceLine" id="cb9-1" title="1">cout &lt;&lt; b.x &lt;&lt; endl;</a>
-<a class="sourceLine" id="cb9-2" title="2"><span class="co">// 输出 0,因为 b 和 a 是两个对象</span></a></code></pre></div></td>
-<td><div class="sourceCode" id="cb10"><pre class="sourceCode java"><code class="sourceCode java"><a class="sourceLine" id="cb10-1" title="1"><span class="bu">System</span>.<span class="fu">out</span>.<span class="fu">println</span>(b.<span class="fu">x</span>);</a>
-<a class="sourceLine" id="cb10-2" title="2"><span class="co">// 输出 0,因为 b 和 a 是两个对象</span></a></code></pre></div></td>
+<td><div class="sourceCode" id="cb9"><pre class="sourceCode cpp"><code class="sourceCode cpp"><span id="cb9-1"><a href="#cb9-1"></a>cout &lt;&lt; b.x &lt;&lt; endl;</span>
+<span id="cb9-2"><a href="#cb9-2"></a><span class="co">// 输出 0,因为 b 和 a 是两个对象</span></span></code></pre></div></td>
+<td><div class="sourceCode" id="cb10"><pre class="sourceCode java"><code class="sourceCode java"><span id="cb10-1"><a href="#cb10-1"></a><span class="bu">System</span>.<span class="fu">out</span>.<span class="fu">println</span>(b.<span class="fu">x</span>);</span>
+<span id="cb10-2"><a href="#cb10-2"></a><span class="co">// 输出 0,因为 b 和 a 是两个对象</span></span></code></pre></div></td>
 </tr>
 <tr class="even">
-<td><div class="sourceCode" id="cb11"><pre class="sourceCode cpp"><code class="sourceCode cpp"><a class="sourceLine" id="cb11-1" title="1">Foo *c;</a>
-<a class="sourceLine" id="cb11-2" title="2"><span class="co">// 声明 c 为指向一个 Foo 类对象的指针(初始值是</span></a>
-<a class="sourceLine" id="cb11-3" title="3"><span class="co">// 未定义的;可能指向任何地方)</span></a></code></pre></div></td>
-<td><div class="sourceCode" id="cb12"><pre class="sourceCode java"><code class="sourceCode java"><a class="sourceLine" id="cb12-1" title="1">Foo c;</a>
-<a class="sourceLine" id="cb12-2" title="2"><span class="co">// 声明 c 为一个指向 Foo 对象的指针</span></a>
-<a class="sourceLine" id="cb12-3" title="3"><span class="co">// (如果 c 是一个类的成员,那么初始值为空;</span></a>
-<a class="sourceLine" id="cb12-4" title="4"><span class="co">// 如果 c 是一个局部变量那么你在使用之前必须</span></a>
-<a class="sourceLine" id="cb12-5" title="5"><span class="co">// 对它进行初始化)</span></a></code></pre></div></td>
+<td><div class="sourceCode" id="cb11"><pre class="sourceCode cpp"><code class="sourceCode cpp"><span id="cb11-1"><a href="#cb11-1"></a>Foo *c;</span>
+<span id="cb11-2"><a href="#cb11-2"></a><span class="co">// 声明 c 为指向一个 Foo 类对象的指针(初始值是</span></span>
+<span id="cb11-3"><a href="#cb11-3"></a><span class="co">// 未定义的;可能指向任何地方)</span></span></code></pre></div></td>
+<td><div class="sourceCode" id="cb12"><pre class="sourceCode java"><code class="sourceCode java"><span id="cb12-1"><a href="#cb12-1"></a>Foo c;</span>
+<span id="cb12-2"><a href="#cb12-2"></a><span class="co">// 声明 c 为一个指向 Foo 对象的指针</span></span>
+<span id="cb12-3"><a href="#cb12-3"></a><span class="co">// (如果 c 是一个类的成员,那么初始值为空;</span></span>
+<span id="cb12-4"><a href="#cb12-4"></a><span class="co">// 如果 c 是一个局部变量那么你在使用之前必须</span></span>
+<span id="cb12-5"><a href="#cb12-5"></a><span class="co">// 对它进行初始化)</span></span></code></pre></div></td>
 </tr>
 <tr class="odd">
-<td><div class="sourceCode" id="cb13"><pre class="sourceCode cpp"><code class="sourceCode cpp"><a class="sourceLine" id="cb13-1" title="1">c = <span class="kw">new</span> Foo();</a>
-<a class="sourceLine" id="cb13-2" title="2"><span class="co">// 将 c 绑定为一个新的 Foo 对象的引用</span></a></code></pre></div></td>
-<td><div class="sourceCode" id="cb14"><pre class="sourceCode java"><code class="sourceCode java"><a class="sourceLine" id="cb14-1" title="1">c = <span class="kw">new</span> <span class="fu">Foo</span>();</a>
-<a class="sourceLine" id="cb14-2" title="2"><span class="co">// 将 c 绑定为一个新的 Foo 对象的引用</span></a></code></pre></div></td>
+<td><div class="sourceCode" id="cb13"><pre class="sourceCode cpp"><code class="sourceCode cpp"><span id="cb13-1"><a href="#cb13-1"></a>c = <span class="kw">new</span> Foo();</span>
+<span id="cb13-2"><a href="#cb13-2"></a><span class="co">// 将 c 绑定为一个新的 Foo 对象的引用</span></span></code></pre></div></td>
+<td><div class="sourceCode" id="cb14"><pre class="sourceCode java"><code class="sourceCode java"><span id="cb14-1"><a href="#cb14-1"></a>c = <span class="kw">new</span> <span class="fu">Foo</span>();</span>
+<span id="cb14-2"><a href="#cb14-2"></a><span class="co">// 将 c 绑定为一个新的 Foo 对象的引用</span></span></code></pre></div></td>
 </tr>
 <tr class="even">
-<td><div class="sourceCode" id="cb15"><pre class="sourceCode cpp"><code class="sourceCode cpp"><a class="sourceLine" id="cb15-1" title="1">Foo *d = c;</a>
-<a class="sourceLine" id="cb15-2" title="2"><span class="co">// 将 d 绑定为和 c 同一个对象的引用</span></a></code></pre></div></td>
-<td><div class="sourceCode" id="cb16"><pre class="sourceCode java"><code class="sourceCode java"><a class="sourceLine" id="cb16-1" title="1">Foo d = c;</a>
-<a class="sourceLine" id="cb16-2" title="2"><span class="co">// 将 d 绑定为和 c 同一个对象的引用</span></a></code></pre></div></td>
+<td><div class="sourceCode" id="cb15"><pre class="sourceCode cpp"><code class="sourceCode cpp"><span id="cb15-1"><a href="#cb15-1"></a>Foo *d = c;</span>
+<span id="cb15-2"><a href="#cb15-2"></a><span class="co">// 将 d 绑定为和 c 同一个对象的引用</span></span></code></pre></div></td>
+<td><div class="sourceCode" id="cb16"><pre class="sourceCode java"><code class="sourceCode java"><span id="cb16-1"><a href="#cb16-1"></a>Foo d = c;</span>
+<span id="cb16-2"><a href="#cb16-2"></a><span class="co">// 将 d 绑定为和 c 同一个对象的引用</span></span></code></pre></div></td>
 </tr>
 <tr class="odd">
-<td><div class="sourceCode" id="cb17"><pre class="sourceCode cpp"><code class="sourceCode cpp"><a class="sourceLine" id="cb17-1" title="1">c-&gt;x = <span class="dv">5</span>;</a>
-<a class="sourceLine" id="cb17-2" title="2"><span class="co">// 修改 c 指向的对象</span></a></code></pre></div></td>
-<td><div class="sourceCode" id="cb18"><pre class="sourceCode java"><code class="sourceCode java"><a class="sourceLine" id="cb18-1" title="1">c.<span class="fu">x</span> = <span class="dv">5</span>;</a>
-<a class="sourceLine" id="cb18-2" title="2"><span class="co">// 修改 c 指向的对象</span></a></code></pre></div></td>
+<td><div class="sourceCode" id="cb17"><pre class="sourceCode cpp"><code class="sourceCode cpp"><span id="cb17-1"><a href="#cb17-1"></a>c-&gt;x = <span class="dv">5</span>;</span>
+<span id="cb17-2"><a href="#cb17-2"></a><span class="co">// 修改 c 指向的对象</span></span></code></pre></div></td>
+<td><div class="sourceCode" id="cb18"><pre class="sourceCode java"><code class="sourceCode java"><span id="cb18-1"><a href="#cb18-1"></a>c.<span class="fu">x</span> = <span class="dv">5</span>;</span>
+<span id="cb18-2"><a href="#cb18-2"></a><span class="co">// 修改 c 指向的对象</span></span></code></pre></div></td>
 </tr>
 <tr class="even">
-<td><div class="sourceCode" id="cb19"><pre class="sourceCode cpp"><code class="sourceCode cpp"><a class="sourceLine" id="cb19-1" title="1">a.bar(<span class="dv">5</span>);  <span class="co">// 对 a 调用 Foo::bar()</span></a>
-<a class="sourceLine" id="cb19-2" title="2">c-&gt;bar(<span class="dv">5</span>); <span class="co">// 对 *c 调用 Foo::bar()</span></a></code></pre></div></td>
-<td><div class="sourceCode" id="cb20"><pre class="sourceCode java"><code class="sourceCode java"><a class="sourceLine" id="cb20-1" title="1">a.<span class="fu">bar</span>(<span class="dv">5</span>); <span class="co">// 对 a 调用 Foo.bar()</span></a>
-<a class="sourceLine" id="cb20-2" title="2">c.<span class="fu">bar</span>(<span class="dv">5</span>); <span class="co">// 对 c 调用 Foo.bar()</span></a></code></pre></div></td>
+<td><div class="sourceCode" id="cb19"><pre class="sourceCode cpp"><code class="sourceCode cpp"><span id="cb19-1"><a href="#cb19-1"></a>a.bar(<span class="dv">5</span>);  <span class="co">// 对 a 调用 Foo::bar()</span></span>
+<span id="cb19-2"><a href="#cb19-2"></a>c-&gt;bar(<span class="dv">5</span>); <span class="co">// 对 *c 调用 Foo::bar()</span></span></code></pre></div></td>
+<td><div class="sourceCode" id="cb20"><pre class="sourceCode java"><code class="sourceCode java"><span id="cb20-1"><a href="#cb20-1"></a>a.<span class="fu">bar</span>(<span class="dv">5</span>); <span class="co">// 对 a 调用 Foo.bar()</span></span>
+<span id="cb20-2"><a href="#cb20-2"></a>c.<span class="fu">bar</span>(<span class="dv">5</span>); <span class="co">// 对 c 调用 Foo.bar()</span></span></code></pre></div></td>
 </tr>
 <tr class="odd">
-<td><div class="sourceCode" id="cb21"><pre class="sourceCode cpp"><code class="sourceCode cpp"><a class="sourceLine" id="cb21-1" title="1">cout &lt;&lt; d-&gt;x &lt;&lt; endl;</a>
-<a class="sourceLine" id="cb21-2" title="2"><span class="co">// 输出 5,因为 d 引用的对象和 c 一样</span></a></code></pre></div></td>
-<td><div class="sourceCode" id="cb22"><pre class="sourceCode java"><code class="sourceCode java"><a class="sourceLine" id="cb22-1" title="1"><span class="bu">System</span>.<span class="fu">out</span>.<span class="fu">println</span>(d.<span class="fu">x</span>);</a>
-<a class="sourceLine" id="cb22-2" title="2"><span class="co">// 输出 5,因为 d 引用的对象和 c 一样</span></a></code></pre></div></td>
+<td><div class="sourceCode" id="cb21"><pre class="sourceCode cpp"><code class="sourceCode cpp"><span id="cb21-1"><a href="#cb21-1"></a>cout &lt;&lt; d-&gt;x &lt;&lt; endl;</span>
+<span id="cb21-2"><a href="#cb21-2"></a><span class="co">// 输出 5,因为 d 引用的对象和 c 一样</span></span></code></pre></div></td>
+<td><div class="sourceCode" id="cb22"><pre class="sourceCode java"><code class="sourceCode java"><span id="cb22-1"><a href="#cb22-1"></a><span class="bu">System</span>.<span class="fu">out</span>.<span class="fu">println</span>(d.<span class="fu">x</span>);</span>
+<span id="cb22-2"><a href="#cb22-2"></a><span class="co">// 输出 5,因为 d 引用的对象和 c 一样</span></span></code></pre></div></td>
 </tr>
 </tbody>
 </table>
@@ -258,36 +258,36 @@ C++
 </thead>
 <tbody>
 <tr class="odd">
-<td><div class="sourceCode" id="cb1"><pre class="sourceCode cpp"><code class="sourceCode cpp"><a class="sourceLine" id="cb1-1" title="1"><span class="at">const</span> Foo *a; <span class="co">// 你不能通过 a 修改 a 指向的对象</span></a></code></pre></div></td>
-<td><div class="sourceCode" id="cb2"><pre class="sourceCode java"><code class="sourceCode java"><a class="sourceLine" id="cb2-1" title="1"><span class="dt">final</span> Foo a; <span class="co">// 你可以通过 a 修改 a 指向的对象</span></a></code></pre></div></td>
+<td><div class="sourceCode" id="cb1"><pre class="sourceCode cpp"><code class="sourceCode cpp"><span id="cb1-1"><a href="#cb1-1"></a><span class="at">const</span> Foo *a; <span class="co">// 你不能通过 a 修改 a 指向的对象</span></span></code></pre></div></td>
+<td><div class="sourceCode" id="cb2"><pre class="sourceCode java"><code class="sourceCode java"><span id="cb2-1"><a href="#cb2-1"></a><span class="dt">final</span> Foo a; <span class="co">// 你可以通过 a 修改 a 指向的对象</span></span></code></pre></div></td>
 </tr>
 <tr class="even">
-<td><div class="sourceCode" id="cb3"><pre class="sourceCode cpp"><code class="sourceCode cpp"><a class="sourceLine" id="cb3-1" title="1">a = <span class="kw">new</span> Foo();</a></code></pre></div></td>
-<td><div class="sourceCode" id="cb4"><pre class="sourceCode java"><code class="sourceCode java"><a class="sourceLine" id="cb4-1" title="1">a = <span class="kw">new</span> <span class="fu">Foo</span>(); <span class="co">// 只能在构造函数里</span></a></code></pre></div></td>
+<td><div class="sourceCode" id="cb3"><pre class="sourceCode cpp"><code class="sourceCode cpp"><span id="cb3-1"><a href="#cb3-1"></a>a = <span class="kw">new</span> Foo();</span></code></pre></div></td>
+<td><div class="sourceCode" id="cb4"><pre class="sourceCode java"><code class="sourceCode java"><span id="cb4-1"><a href="#cb4-1"></a>a = <span class="kw">new</span> <span class="fu">Foo</span>(); <span class="co">// 只能在构造函数里</span></span></code></pre></div></td>
 </tr>
 <tr class="odd">
-<td><div class="sourceCode" id="cb5"><pre class="sourceCode cpp"><code class="sourceCode cpp"><a class="sourceLine" id="cb5-1" title="1">a-&gt;x = <span class="dv">5</span>;</a>
-<a class="sourceLine" id="cb5-2" title="2"><span class="co">// 非法</span></a></code></pre></div></td>
-<td><div class="sourceCode" id="cb6"><pre class="sourceCode java"><code class="sourceCode java"><a class="sourceLine" id="cb6-1" title="1">a.<span class="fu">x</span> = <span class="dv">5</span>;</a>
-<a class="sourceLine" id="cb6-2" title="2"><span class="co">// 合法, 你仍然可以修改这个对象</span></a></code></pre></div></td>
+<td><div class="sourceCode" id="cb5"><pre class="sourceCode cpp"><code class="sourceCode cpp"><span id="cb5-1"><a href="#cb5-1"></a>a-&gt;x = <span class="dv">5</span>;</span>
+<span id="cb5-2"><a href="#cb5-2"></a><span class="co">// 非法</span></span></code></pre></div></td>
+<td><div class="sourceCode" id="cb6"><pre class="sourceCode java"><code class="sourceCode java"><span id="cb6-1"><a href="#cb6-1"></a>a.<span class="fu">x</span> = <span class="dv">5</span>;</span>
+<span id="cb6-2"><a href="#cb6-2"></a><span class="co">// 合法, 你仍然可以修改这个对象</span></span></code></pre></div></td>
 </tr>
 <tr class="even">
-<td><div class="sourceCode" id="cb7"><pre class="sourceCode cpp"><code class="sourceCode cpp"><a class="sourceLine" id="cb7-1" title="1">Foo *<span class="at">const</span> b = <span class="kw">new</span> Foo();</a>
-<a class="sourceLine" id="cb7-2" title="2"><span class="co">// 你可以声明一个 &quot;const&quot; 指针</span></a></code></pre></div></td>
-<td><div class="sourceCode" id="cb8"><pre class="sourceCode java"><code class="sourceCode java"><a class="sourceLine" id="cb8-1" title="1"><span class="dt">final</span> Foo b = <span class="kw">new</span> <span class="fu">Foo</span>();</a>
-<a class="sourceLine" id="cb8-2" title="2"><span class="co">// 你可以声明一个 &quot;final&quot; 引用</span></a></code></pre></div></td>
+<td><div class="sourceCode" id="cb7"><pre class="sourceCode cpp"><code class="sourceCode cpp"><span id="cb7-1"><a href="#cb7-1"></a>Foo *<span class="at">const</span> b = <span class="kw">new</span> Foo();</span>
+<span id="cb7-2"><a href="#cb7-2"></a><span class="co">// 你可以声明一个 &quot;const&quot; 指针</span></span></code></pre></div></td>
+<td><div class="sourceCode" id="cb8"><pre class="sourceCode java"><code class="sourceCode java"><span id="cb8-1"><a href="#cb8-1"></a><span class="dt">final</span> Foo b = <span class="kw">new</span> <span class="fu">Foo</span>();</span>
+<span id="cb8-2"><a href="#cb8-2"></a><span class="co">// 你可以声明一个 &quot;final&quot; 引用</span></span></code></pre></div></td>
 </tr>
 <tr class="odd">
-<td><div class="sourceCode" id="cb9"><pre class="sourceCode cpp"><code class="sourceCode cpp"><a class="sourceLine" id="cb9-1" title="1">b = <span class="kw">new</span> Foo();</a>
-<a class="sourceLine" id="cb9-2" title="2"><span class="co">// 非法, 你不能对它再次绑定</span></a></code></pre></div></td>
-<td><div class="sourceCode" id="cb10"><pre class="sourceCode java"><code class="sourceCode java"><a class="sourceLine" id="cb10-1" title="1">b = <span class="kw">new</span> <span class="fu">Foo</span>();</a>
-<a class="sourceLine" id="cb10-2" title="2"><span class="co">// 非法, 你不能对它再次绑定</span></a></code></pre></div></td>
+<td><div class="sourceCode" id="cb9"><pre class="sourceCode cpp"><code class="sourceCode cpp"><span id="cb9-1"><a href="#cb9-1"></a>b = <span class="kw">new</span> Foo();</span>
+<span id="cb9-2"><a href="#cb9-2"></a><span class="co">// 非法, 你不能对它再次绑定</span></span></code></pre></div></td>
+<td><div class="sourceCode" id="cb10"><pre class="sourceCode java"><code class="sourceCode java"><span id="cb10-1"><a href="#cb10-1"></a>b = <span class="kw">new</span> <span class="fu">Foo</span>();</span>
+<span id="cb10-2"><a href="#cb10-2"></a><span class="co">// 非法, 你不能对它再次绑定</span></span></code></pre></div></td>
 </tr>
 <tr class="even">
-<td><div class="sourceCode" id="cb11"><pre class="sourceCode cpp"><code class="sourceCode cpp"><a class="sourceLine" id="cb11-1" title="1">b-&gt;x = <span class="dv">5</span>;</a>
-<a class="sourceLine" id="cb11-2" title="2"><span class="co">// 合法,你还是可以修改这个对象</span></a></code></pre></div></td>
-<td><div class="sourceCode" id="cb12"><pre class="sourceCode java"><code class="sourceCode java"><a class="sourceLine" id="cb12-1" title="1">b.<span class="fu">x</span> = <span class="dv">5</span>;</a>
-<a class="sourceLine" id="cb12-2" title="2"><span class="co">// 合法,你还是可以修改这个对象</span></a></code></pre></div></td>
+<td><div class="sourceCode" id="cb11"><pre class="sourceCode cpp"><code class="sourceCode cpp"><span id="cb11-1"><a href="#cb11-1"></a>b-&gt;x = <span class="dv">5</span>;</span>
+<span id="cb11-2"><a href="#cb11-2"></a><span class="co">// 合法,你还是可以修改这个对象</span></span></code></pre></div></td>
+<td><div class="sourceCode" id="cb12"><pre class="sourceCode java"><code class="sourceCode java"><span id="cb12-1"><a href="#cb12-1"></a>b.<span class="fu">x</span> = <span class="dv">5</span>;</span>
+<span id="cb12-2"><a href="#cb12-2"></a><span class="co">// 合法,你还是可以修改这个对象</span></span></code></pre></div></td>
 </tr>
 </tbody>
 </table>

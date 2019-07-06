@@ -69,3 +69,4 @@
   - [中澤堅司](https://web.archive.org/web/20110602001034/http://nakazawa.main.jp/)
 
 [Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink")
+[Category:前Amuse所屬藝人](https://zh.wikipedia.org/wiki/Category:前Amuse所屬藝人 "wikilink")

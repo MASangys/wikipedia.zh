@@ -469,7 +469,7 @@ Twinkle☆](../Page/寶石寵物_Twinkle☆.md "wikilink")》的角色。
 <!-- end list -->
 
   - 籃球隊副隊長（名字不詳）（）
-    [配音員](../Page/配音員.md "wikilink")：日：[神原大地](https://zh.wikipedia.org/wiki/神原大地 "wikilink")／港：[張裕東](https://zh.wikipedia.org/wiki/張裕東 "wikilink")
+    [配音員](../Page/配音員.md "wikilink")：日：[神原大地](../Page/神原大地.md "wikilink")／港：[張裕東](https://zh.wikipedia.org/wiki/張裕東 "wikilink")
     ／台：[林谷珍](../Page/林谷珍.md "wikilink")
     跟籃球隊隊長一起拜託祐馬來幫忙。
 

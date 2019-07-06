@@ -713,7 +713,7 @@
 | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ------------------------- |
 | Ca(AlH<sub>4</sub>)<sub>2</sub>                                         | [氢化铝钙](https://zh.wikipedia.org/wiki/氢化铝钙 "wikilink")、四氢合铝酸钙                                      | 16941-10-9                |
 | CaAl<sub>2</sub>O<sub>4</sub>                                           | [铝酸钙](../Page/铝酸钙.md "wikilink")、偏铝酸钙                                                             | 12042-68-1                |
-| CaB<sub>6</sub>                                                         | [六硼化钙](https://zh.wikipedia.org/wiki/六硼化钙 "wikilink")                                             | 12007-99-7                |
+| CaB<sub>6</sub>                                                         | [六硼化钙](../Page/六硼化钙.md "wikilink")                                                                | 12007-99-7                |
 | CaBr<sub>2</sub>                                                        | [溴化钙](../Page/溴化钙.md "wikilink")                                                                  | 7789-41-5                 |
 | Ca(CHO<sub>2</sub>)<sub>2</sub>                                         | [甲酸钙](../Page/甲酸钙.md "wikilink")                                                                  | 544-17-2                  |
 | Ca(CN)<sub>2</sub>                                                      | [氰化钙](../Page/氰化钙.md "wikilink")                                                                  | 592-01-8                  |
@@ -729,7 +729,7 @@
 | CaCl<sub>2</sub>                                                        | [氯化鈣](../Page/氯化鈣.md "wikilink")                                                                  | 10043-52-4                |
 | CaCl<sub>2</sub>·6H<sub>2</sub>O                                        | [氯化钙六水合物](https://zh.wikipedia.org/wiki/氯化钙 "wikilink")                                           | 7774-34-7                 |
 | CaCl<sub>2</sub>O<sub>2</sub>                                           | [次氯酸钙](../Page/次氯酸钙.md "wikilink")                                                                | 7778-54-3                 |
-| CaCrO<sub>4</sub>                                                       | [铬酸钙](https://zh.wikipedia.org/wiki/铬酸钙 "wikilink")                                               | 13765-19-0                |
+| CaCrO<sub>4</sub>                                                       | [铬酸钙](../Page/铬酸钙.md "wikilink")                                                                  | 13765-19-0                |
 | CaCr<sub>2</sub>O<sub>7</sub>                                           | [重铬酸钙](https://zh.wikipedia.org/wiki/重铬酸钙 "wikilink")                                             | 14307-33-6                |
 | CaF<sub>2</sub>                                                         | [氟化钙](../Page/氟化钙.md "wikilink")                                                                  | 7789-75-5                 |
 | CaHPO<sub>4</sub>                                                       | [磷酸氢钙](https://zh.wikipedia.org/wiki/磷酸氢钙 "wikilink")                                             | 7757-93-9                 |
@@ -3160,7 +3160,7 @@ Fe<sub>2</sub>TiO<sub>4</sub></p></td>
 | SrWO<sub>4</sub>                                        | [strontium tungstate](https://zh.wikipedia.org/wiki/strontium_tungstate "wikilink")                                           | 13451-05-3      |
 | SrZrO<sub>3</sub>                                       | [锆酸锶](https://zh.wikipedia.org/wiki/锆酸锶 "wikilink")                                                                           | 12036-39-4      |
 | Sr\[ZrF<sub>6</sub>\]                                   | [六氟锆酸锶](https://zh.wikipedia.org/wiki/六氟锆酸锶 "wikilink")                                                                       |                 |
-| Sr<sub>3</sub>P<sub>2</sub>                             | [磷化锶](https://zh.wikipedia.org/wiki/磷化锶 "wikilink")                                                                           | 12504-16-4      |
+| Sr<sub>3</sub>P<sub>2</sub>                             | [磷化锶](../Page/磷化锶.md "wikilink")                                                                                              | 12504-16-4      |
 |                                                         |                                                                                                                               |                 |
 
 ## T

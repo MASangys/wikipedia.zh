@@ -57,6 +57,9 @@ Koala）和](../Page/Ubuntu.md "wikilink")[Fedora
 
 ## 其他
 
+  - [即時通訊软件列表](https://zh.wikipedia.org/wiki/即時通訊软件列表 "wikilink")、[即時通訊软件比較](https://zh.wikipedia.org/wiki/即時通訊软件比較 "wikilink")
+  - [即時通訊協定比較](https://zh.wikipedia.org/wiki/即時通訊協定比較 "wikilink")
+
 ## 参考
 
 ## 外部链接

@@ -209,9 +209,12 @@ iPhone*的應用程序。這款應用程序可以讓[iPhone和](https://zh.wikip
 touch用戶在他們自己的iPhone或iPod](https://zh.wikipedia.org/wiki/iPod_touch "wikilink")
 touch上瀏覽Kindle的內容，目前已经支持[iPad](https://zh.wikipedia.org/wiki/iPad "wikilink")。除此之外，用户亦可于Amazon网站下载适用于自己设备的Kindle应用程序，目前支持平台有[Android](../Page/Android.md "wikilink")/[Windows
 Phone](../Page/Windows_Phone.md "wikilink")/[BlackBerry](https://zh.wikipedia.org/wiki/BlackBerry "wikilink")/[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")
-XP，7，8/[Mac](https://zh.wikipedia.org/wiki/Mac "wikilink")。
+XP，7，8/[Mac](https://zh.wikipedia.org/wiki/Mac "wikilink")，和[Windows
+10](../Page/Windows_10.md "wikilink")
 
 ## 评价
+
+Kindle是一种跨平台，多端同步的电子书阅读器。它可在安卓，苹果，微软Win10,Win7,WinXp等平台运行，拥有大量出版社的授权电子书。每个kindle帐号可在5-6台设备上同步(由出版商决定).
 
 ## 参见
 

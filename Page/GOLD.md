@@ -4,7 +4,7 @@
 
 ## 概要
 
-透過一名撫養了4個子女的女性，描寫最終的家庭之愛的[家庭劇](https://zh.wikipedia.org/wiki/家庭劇 "wikilink")。編劇為富士電視台系列《[沒有薔薇的花店](https://zh.wikipedia.org/wiki/沒有玫瑰的花店 "wikilink")》等的[野島伸司](../Page/野島伸司.md "wikilink")。[天海祐希繼](https://zh.wikipedia.org/wiki/天海祐希 "wikilink")《[BOSS女王](https://zh.wikipedia.org/wiki/BOSS "wikilink")》以來的主演作品，繼《[不毛地帶](../Page/不毛地帶.md "wikilink")》以來的[木曜劇場作品](https://zh.wikipedia.org/wiki/富士電視台週四連續劇 "wikilink")。
+透過一名撫養了4個子女的女性，描寫最終的家庭之愛的[家庭劇](https://zh.wikipedia.org/wiki/家庭劇 "wikilink")。編劇為富士電視台系列《[沒有薔薇的花店](https://zh.wikipedia.org/wiki/沒有玫瑰的花店 "wikilink")》等的[野島伸司](../Page/野島伸司.md "wikilink")。[天海祐希繼](../Page/天海祐希.md "wikilink")《[BOSS女王](https://zh.wikipedia.org/wiki/BOSS "wikilink")》以來的主演作品，繼《[不毛地帶](../Page/不毛地帶.md "wikilink")》以來的[木曜劇場作品](https://zh.wikipedia.org/wiki/富士電視台週四連續劇 "wikilink")。
 
 [廣告標語為](../Page/廣告標語.md "wikilink")「**天海祐希，以金牌為目標。**」
 
@@ -12,7 +12,7 @@
 
 ### 早乙女家
 
-  - 早乙女悠里 - [天海祐希](https://zh.wikipedia.org/wiki/天海祐希 "wikilink")
+  - 早乙女悠里 - [天海祐希](../Page/天海祐希.md "wikilink")
 
 <!-- end list -->
 

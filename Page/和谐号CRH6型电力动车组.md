@@ -343,10 +343,8 @@ CRH6A-A车型为CRH6A的4辆小编组版本，最大载客量达688人。该车�
 ### CRH6F（160km/h）
 
 [201712_CRH6F-0433_at_Changshaxi_Station.jpg](https://zh.wikipedia.org/wiki/File:201712_CRH6F-0433_at_Changshaxi_Station.jpg "fig:201712_CRH6F-0433_at_Changshaxi_Station.jpg")使用的CRH6F列车停靠在[长沙西站](../Page/长沙西站.md "wikilink")\]\]
+[201712_Interior_of_CRH6F-0433.jpg](https://zh.wikipedia.org/wiki/File:201712_Interior_of_CRH6F-0433.jpg "fig:201712_Interior_of_CRH6F-0433.jpg")
 CRH6F车型定员载客量达1502人（包括座席及站席，按每平方米站立4人计算），超员载客量达1998人（包括座席及站席，按每平方米站立6人计算）。列车座位同样采用2+2布置，但座椅不可调节或翻转；列车在3、6号车设[卫生间](https://zh.wikipedia.org/wiki/洗手間 "wikilink")。与CRH6A不同，车门采用宽阔的对开塞拉门，每节车辆侧设有3个塞拉门（头尾车辆有2个，其中一个为驾驶室门）。该车牵引制动性能比CRH6A更优、载客量更大，更适合较短站间距的城际线路和站站停模式使用。
-
-<File:201712> Interior of CRH6F-0433.jpg|CRH6F列车内部
-[File:城际列车车厢连接处.jpg|车厢连接处](File:城际列车车厢连接处.jpg%7C车厢连接处)
 
   - CRH6F型編组方式
 
@@ -467,6 +465,7 @@ CRH6F车型定员载客量达1502人（包括座席及站席，按每平方米�
 
 ### CRH6F-A（160km/h）
 
+[201906_CRH6F-A-0450_at_Changsha_Station.jpg](https://zh.wikipedia.org/wiki/File:201906_CRH6F-A-0450_at_Changsha_Station.jpg "fig:201906_CRH6F-A-0450_at_Changsha_Station.jpg")使用的CRH6F-A于[长沙站](../Page/长沙站.md "wikilink")\]\]
 CRH6F-A车型为CRH6F的4辆小编组版本，最大载客量达875人\[11\]。
 
   - CRH6F-A型編組方式
@@ -552,10 +551,10 @@ CRH6F-A车型为CRH6F的4辆小编组版本，最大载客量达875人\[11\]。
 </tbody>
 </table>
 
-### 基于Cinova城际列车平台衍生的市域动车组（140km/h）
+### 市域动车组（140km/h）
 
 [WZMTR_S1_Train_with_CRH380B.jpg](https://zh.wikipedia.org/wiki/File:WZMTR_S1_Train_with_CRH380B.jpg "fig:WZMTR_S1_Train_with_CRH380B.jpg")市域动车组列车于[动车南站](../Page/动车南站_\(温州市\).md "wikilink")\]\]
-市域动车组车型定员载客量达765人，（包括座席及站席，按每平方米站立4人计算），超员载客量达1322人，座椅為一般城市軌道交通設計；列车在5号车厢设残疾人乘坐空间，列车不设洗手间，目前投入至[温州市域铁路S1线的运营](../Page/温州市域铁路S1线.md "wikilink")。
+基于Cinova城际列车平台衍生的市域动车组时速140千米/每小时，定员载客量达765人，（包括座席及站席，按每平方米站立4人计算），超员载客量达1322人，座椅為一般城市軌道交通設計；列车在5号车厢设残疾人乘坐空间，列车不设洗手间，目前投入至[温州市域铁路S1线的运营](../Page/温州市域铁路S1线.md "wikilink")。
 
 ## 运用
 
@@ -587,6 +586,8 @@ CRH6F-A车型为CRH6F的4辆小编组版本，最大载客量达875人\[11\]。
 
 2019年1月23日，基于Cinova城际列车平台衍生的市域动车组在[温州市域铁路S1线投入试运营](../Page/温州市域铁路S1线.md "wikilink")。\[32\]
 
+2019年6月27日，為[海南東環鐵路提供的首四列CRH](https://zh.wikipedia.org/wiki/海南東環鐵路 "wikilink")6F市域動車組，以[甲種運送及](https://zh.wikipedia.org/wiki/車輛運送#甲種運送/無火回送 "wikilink")[四車重聯方式交付](../Page/機車重聯.md "wikilink")（本務為濟局濟段的[HXD3C](https://zh.wikipedia.org/wiki/和諧3C型電力機車 "wikilink")、鄭局鄭段的[SS8-0102](https://zh.wikipedia.org/wiki/韶山8型電力機車 "wikilink")、武局南段的[HXD1D](https://zh.wikipedia.org/wiki/和諧1D型電力機車 "wikilink")、廣鐵廣段的[DF11-0018及](../Page/東風11型柴油機車.md "wikilink")[DF4B-2315](../Page/東風4B型柴油機車.md "wikilink")），並於兩日後抵達海南島。
+
 <File:CRH6A-0439@LXI>
 (20180630070543).jpg|用于[北京市郊铁路城市副中心线的CRH](../Page/北京市郊铁路城市副中心线.md "wikilink")6A型动车组通过[良乡站](../Page/良乡站.md "wikilink")
 <File:201806> CRH6A-0420 operates as C3660 enters into Shanghainan
@@ -606,7 +607,7 @@ Station.jpg|[成灌铁路使用CRH](../Page/成灌铁路.md "wikilink")6A-A停�
 
 ## 车辆配属概况
 
-截至2019年4月，总共已有93组CRH6系列动车组列车出厂，编号分别0002、0003、4002、4003、4502、0401～0443、0445～0460、0601～0623、4132～4137。
+截至2019年6月，总共已有97组CRH6系列动车组列车出厂，编号分别0002、0003、4002、4003、4502、0401～0443、0445～0464、0601～0623、4132～4137。
 
 <table>
 <thead>
@@ -808,6 +809,15 @@ Station.jpg|[成灌铁路使用CRH](../Page/成灌铁路.md "wikilink")6A-A停�
 <td></td>
 </tr>
 <tr class="even">
+<td><p>4</p></td>
+<td><p>0461～0467</p></td>
+<td><p>海口城際</p></td>
+<td><p>海口市域鐵路（<a href="https://zh.wikipedia.org/wiki/海南東環鐵路" title="wikilink">海南東環鐵路海口至美蘭段</a>）</p></td>
+<td><p>0461～0464分别被命名为「木棉花号、蜂虎鸟号、白鹈鹕号、水菜花号」<br />
+0465~0467將於2019年9月到齊，分别被命名为「水蕨菜号、三角梅号、椰子树号」[35]</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -815,7 +825,7 @@ Station.jpg|[成灌铁路使用CRH](../Page/成灌铁路.md "wikilink")6A-A停�
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>colspan = 6 | <font color=white><strong>CRH6S（140km/h）</strong></font></p></td>
 <td></td>
 <td></td>
@@ -926,3 +936,5 @@ CRH6采用了和中国铁路其余长途动车组相同的车轴设计和超载�
 33.
 
 34.
+
+35.

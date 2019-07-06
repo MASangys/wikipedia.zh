@@ -10,7 +10,7 @@ Call 36小時II](../Page/On_Call_36小時II.md "wikilink")》。
 
 ### 慈愛醫院
 
-#### 神經外科
+#### 神經外科(NES)
 
 <table>
 <tbody>
@@ -135,7 +135,7 @@ Call 36小時II](../Page/On_Call_36小時II.md "wikilink")》。
 </tbody>
 </table>
 
-#### 心胸肺外科 CTU
+#### 心胸肺外科 CTS
 
 <table>
 <tbody>

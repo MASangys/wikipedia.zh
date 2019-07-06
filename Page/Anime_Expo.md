@@ -29,7 +29,7 @@ AX的主辦者SPJA是一家在美國聯邦政府和加州登記的非營利組�
 數年來，AX曾支付過重要員工（包含會長和部門領導）薪水。在2006年，部門領導們和他們的助手曾領過薪水。AX會長職在2005和2006年間曾是一個給薪的職位。這些付給他們的薪水其實並沒有達到全職薪水的標準（亦即支付他們的薪水低於美國法律規定的時薪），但這些薪水其實代表了給那些幾乎全職為活動規劃的重要員工的獎勵。
 
 AX的創始組織SPJA則有全職的職業經理，SPJA的[執行長和](https://zh.wikipedia.org/wiki/執行長 "wikilink")[財務官也有給薪](https://zh.wikipedia.org/wiki/CFO "wikilink")，此外處理諸如公共關係和擔任法律顧問一類的業務外包問題的顧問人士當然也是給薪的。在2009年3月27日，擔任了11年SPJA執行長的唐橋楚里（Trulee
-Karahashi）離開了SPJA。\[5\]\[6\]
+Karahashi）離開了SPJA。\[5\]
 
 自Anime Expo 2008的展覽會起，SPJA和活動計畫公司 Experient 簽訂合約，令其主持和準備展覽會。
 
@@ -53,6 +53,3 @@ Karahashi）離開了SPJA。\[5\]\[6\]
 5.  [To: SPJA Executive Members, Convention Committee, Anime Expo
     Managers, Staff and Volunteers](http://www.spja.org/), March 28,
     2009
-6.  [Chief Executive Officer (CEO) for The Society for the Promotion of
-    Japanese Animation
-    “(SPJA)”](http://www.spja.org/career/chief-executive-officer-ceo-for-the-society-for-the-promotion-of-japanese-animation-spja/)

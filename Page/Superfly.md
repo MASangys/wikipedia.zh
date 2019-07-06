@@ -1,4 +1,4 @@
-**Superfly**（）是一支2007年出道的日本樂團，組成時包括吉他手[多保孝一](https://zh.wikipedia.org/wiki/多保孝一 "wikilink")（；）與主唱[越智志帆](https://zh.wikipedia.org/wiki/越智志帆 "wikilink")（；），現時僅有越智一人以的形式運作，多保則在離團後繼續提供作曲及作詞。其歌曲主要以搖滾風格為主，演唱風格具有極強爆發力的特徵。
+**Superfly**（）是一支2007年出道的日本樂團，組成時包括吉他手（；）與主唱[越智志帆](https://zh.wikipedia.org/wiki/越智志帆 "wikilink")（；），現時僅有越智一人以的形式運作，多保則在離團後繼續提供作曲及作詞。其歌曲主要以搖滾風格為主，演唱風格具有極強爆發力的特徵。
 
 ## 履歷
 
@@ -6,7 +6,7 @@ Superfly原有的兩名成員越智志帆與多保孝一于2004年的時候在�
 Hello》出道。在數月后，第二張單曲《Manifesto》發行，但于同年11月8日，多保孝一宣布會淡出樂團活動，但仍然會為樂團提供作曲及作詞。其後，越智志帆繼續使用Superfly名義進行個人音樂活動。11月28日，Superfly發行了與澳洲樂隊[Jet合作的單曲](../Page/Jet_\(樂隊\).md "wikilink")《I
 Spy I Spy》。
 
-越智志帆的歌曲風格深受[卡洛爾·金](../Page/卡洛爾·金.md "wikilink")，[瑪麗亞·馬爾道](https://zh.wikipedia.org/wiki/瑪麗亞·馬爾道 "wikilink")，[滾石樂隊及搖滾女歌手Janis](https://zh.wikipedia.org/wiki/滾石樂隊 "wikilink")
+越智志帆的歌曲風格深受[卡洛爾·金](../Page/卡洛爾·金.md "wikilink")，，[滾石樂隊及搖滾女歌手Janis](https://zh.wikipedia.org/wiki/滾石樂隊 "wikilink")
 Joplin影響。她于2008年時獲邀前往美國三藩市與搖滾樂團Big Brother and the Holding Company的成員Sam
 Andrew見面，作為參與紀錄片拍攝《the Steps of
 Janis》的一部分。于2009年紐約站的[胡士托音樂節紀念巡回演唱會](../Page/胡士托音樂節.md "wikilink")，越智志帆也與Big
@@ -90,6 +90,8 @@ Shiho。
 | 21st | 2016年9月14日  | **[Good-bye](https://zh.wikipedia.org/wiki/Good-bye "wikilink")**                                                                               | 7                        | 10                        | 26   |
 | 22nd | 2016年11月23日 | **[99](https://zh.wikipedia.org/wiki/99_\(單曲\) "wikilink")**                                                                                    | 5                        | 7                         | 27   |
 | 23rd | 2018年6月6日   | **[Bloom](https://zh.wikipedia.org/wiki/Bloom_\(單曲\) "wikilink")**                                                                              | 5                        | —                         | —    |
+| 24th | 2018年10月10日 | **Gifts**                                                                                                                                       | —                        | —                         | —    |
+| 25th | 2019年6月12日  | **Ambitious**                                                                                                                                   | —                        | —                         | —    |
 |      |             |                                                                                                                                                 |                          |                           |      |
 
   - <sup></sup>由於捆綁專輯發售關係，此單曲被算進專輯榜計算。

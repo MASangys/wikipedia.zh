@@ -6,7 +6,7 @@
 
 自本次起，红白歌合战新增了[吉祥物](https://zh.wikipedia.org/wiki/吉祥物 "wikilink")“Uta♪Wookie”（）。
 
-[NHK在日本國內轉播的頻道與以往相同](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")，[电视为](../Page/电视.md "wikilink")[NHK综合频道](https://zh.wikipedia.org/wiki/NHK综合频道 "wikilink")（数字、模拟）、[BS2](https://zh.wikipedia.org/wiki/NHK衛星第2頻道 "wikilink")（数字、模拟）、[BShi共三台](https://zh.wikipedia.org/wiki/NHK數位衛星高清頻道 "wikilink")，[广播为](https://zh.wikipedia.org/wiki/電台 "wikilink")[NHK廣播第1頻率](https://zh.wikipedia.org/wiki/NHK廣播第1頻率 "wikilink")，总共4個頻道进行播送。面向国外的则是[NHK
+[NHK在日本國內轉播的頻道與以往相同](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")，[电视为](../Page/电视.md "wikilink")[NHK综合频道](https://zh.wikipedia.org/wiki/NHK综合频道 "wikilink")（数字、模拟）、[BS2](https://zh.wikipedia.org/wiki/NHK衛星第2頻道 "wikilink")（数字、模拟）、[BShi共三台](https://zh.wikipedia.org/wiki/NHK數位衛星高清頻道 "wikilink")，[广播为](https://zh.wikipedia.org/wiki/電台 "wikilink")[NHK廣播第1頻率](../Page/NHK廣播第1頻率.md "wikilink")，总共4個頻道进行播送。面向国外的则是[NHK
 World
 Premium以及](../Page/NHK_World_Premium.md "wikilink")[日本国际广播电台](../Page/日本国际广播电台.md "wikilink")（NHK
 World Radio

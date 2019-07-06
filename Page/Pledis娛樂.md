@@ -36,8 +36,8 @@ Record娱乐，正式接管[IZ\*ONE和](../Page/IZ*ONE.md "wikilink")[fromis_9�
   - [E-Young](https://zh.wikipedia.org/wiki/盧俐英 "wikilink")
   - [李佳恩](https://zh.wikipedia.org/wiki/李佳恩 "wikilink")
   - [周潔瓊](../Page/周潔瓊.md "wikilink")
-  - 金譽媛
-  - 裵成嬿
+  - [金譽媛](https://zh.wikipedia.org/wiki/PRISTIN "wikilink")
+  - [裵成娫](https://zh.wikipedia.org/wiki/PRISTIN "wikilink")
 
 ### 組合
 

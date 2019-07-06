@@ -2825,7 +2825,7 @@ PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(动画\) "wikilink")》集数�
 </tr>
 <tr class="even">
 <td><p>347</p></td>
-<td><p>殘餘的騎士道！守護娜美的倒戈殭屍</p></td>
+<td><p>遺留的騎士精神 守護娜美的倒戈殭屍</p></td>
 <td><p>古賀直樹</p></td>
 <td><p>宮元宏彰</p></td>
 <td><p>井上榮作</p></td>
@@ -7042,14 +7042,14 @@ PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(动画\) "wikilink")》集数�
 </tr>
 <tr class="odd">
 <td><p>883</p></td>
-<td><p>夢想的一步 白星在太陽底下！</p></td>
+<td><p>夢想的一步 白星來到太陽下</p></td>
 <td></td>
 <td><p>米村正二</p></td>
 <td><p>所勝美</p></td>
 </tr>
 <tr class="even">
 <td><p>884</p></td>
-<td><p>想見你 薇薇和蕾貝卡的思念</p></td>
+<td><p>好想見面 薇薇與蕾貝卡的思念</p></td>
 <td></td>
 <td><p>中山-{}-智博</p></td>
 <td><p>中島豊</p></td>

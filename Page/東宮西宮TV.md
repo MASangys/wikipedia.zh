@@ -163,7 +163,7 @@ Jobs模仿[蘋果公司](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[
 
 ### Sew Ⅰ之至黑心
 
-模仿《[恐懼鬥室](https://zh.wikipedia.org/wiki/恐懼鬥室 "wikilink")》。一个[80后男性被人割断双手](https://zh.wikipedia.org/wiki/80后 "wikilink")、双脚、双眼和舌头后，仍然没钱买[置安心单位](https://zh.wikipedia.org/wiki/置安心 "wikilink")。只出现在第2集。
+模仿《[恐懼鬥室](../Page/恐懼鬥室.md "wikilink")》。一个[80后男性被人割断双手](https://zh.wikipedia.org/wiki/80后 "wikilink")、双脚、双眼和舌头后，仍然没钱买[置安心单位](https://zh.wikipedia.org/wiki/置安心 "wikilink")。只出现在第2集。
 
 ### 西九记之西即是九
 

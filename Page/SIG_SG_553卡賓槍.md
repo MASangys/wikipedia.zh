@@ -180,23 +180,29 @@ SG 553 SB</p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/瑞士軍事.md" title="wikilink">瑞士武裝部隊</a></p></td>
+<td><p>特種部隊單位</p></td>
 <td><p>SG 553</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td></td>
+<td><p><a href="../Page/瑞士軍事.md" title="wikilink">瑞士武裝部隊</a></p></td>
+<td><p>SG 553</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
 <td><p>部份地方警察局的武裝特警單位</p></td>
 <td><p>SG 553 SOW</p></td>
 <td><p>[11][12]</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p><a href="../Page/美国缉毒局.md" title="wikilink">美国缉毒局</a></p></td>
 <td><p>SG 553 SOW</p></td>
 <td><p>[13][14]</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>

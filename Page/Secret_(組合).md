@@ -476,7 +476,7 @@ PlotData =
 | 2010年8月11日           | 《[申政煥PD的藝能製造局](https://zh.wikipedia.org/wiki/申政煥PD的藝能製造局 "wikilink")》                                                                                          |      |
 | 2010年9月12日           | 《[金諪恩的巧克力](../Page/金諪恩的巧克力.md "wikilink")》                                                                                                                     |      |
 | 2010年9月14日           | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[中秋運動會](https://zh.wikipedia.org/wiki/中秋運動會 "wikilink")》                                                   |      |
-| 2010年10月16日          | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《[明星金鐘](https://zh.wikipedia.org/wiki/明星金鐘 "wikilink")》                                                     |      |
+| 2010年10月16日          | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《[明星金鐘](../Page/明星金鐘.md "wikilink")》                                                                        |      |
 | 2010年10月30日          | [SBS](../Page/SBS_\(韓國\).md "wikilink")《[Starking](https://zh.wikipedia.org/wiki/Starking "wikilink")》                                                         |      |
 | 2011年2月2日            | 《[他們來了](https://zh.wikipedia.org/wiki/他們來了 "wikilink")》                                                                                                        |      |
 | 2011年2月4日            | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[明星偶像7080歌手王](https://zh.wikipedia.org/wiki/明星偶像7080歌手王 "wikilink")》                                       |      |

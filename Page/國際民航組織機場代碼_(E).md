@@ -795,7 +795,7 @@
   - **ESNU**：[於默奧機場](https://zh.wikipedia.org/wiki/於默奧機場 "wikilink")（[於默奧](https://zh.wikipedia.org/wiki/於默奧 "wikilink")）
   - **ESNV**：[威廉敏娜機場](https://zh.wikipedia.org/wiki/威廉敏娜機場 "wikilink")（[威廉敏娜](https://zh.wikipedia.org/wiki/威廉敏娜 "wikilink")）
   - **ESNX**：[阿爾維斯堯爾機場](https://zh.wikipedia.org/wiki/阿爾維斯堯爾機場 "wikilink")（[阿爾維斯堯爾](https://zh.wikipedia.org/wiki/阿爾維斯堯爾 "wikilink")）
-  - **ESNY**：[瑟德港機場](https://zh.wikipedia.org/wiki/瑟德港機場 "wikilink")（[瑟德港](https://zh.wikipedia.org/wiki/瑟德港 "wikilink")）
+  - **ESNY**：[瑟德港機場](https://zh.wikipedia.org/wiki/瑟德港機場 "wikilink")（[瑟德港](../Page/瑟德港.md "wikilink")）
   - **ESNZ**：[厄斯特松德機場](https://zh.wikipedia.org/wiki/厄斯特松德機場 "wikilink")（[厄斯特松德](../Page/厄斯特松德.md "wikilink")）
   - **ESOE**：[厄勒布魯機場](https://zh.wikipedia.org/wiki/厄勒布魯機場 "wikilink")（[厄勒布魯](https://zh.wikipedia.org/wiki/厄勒布魯 "wikilink")）
   - **ESOH**：[哈福斯機場](https://zh.wikipedia.org/wiki/哈福斯機場 "wikilink")（[哈福斯](https://zh.wikipedia.org/wiki/哈福斯 "wikilink")）

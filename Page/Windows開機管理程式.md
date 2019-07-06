@@ -10,12 +10,12 @@ NT 5.x。
 開機組態資料庫是一個儲存啟動組態且獨立於硬體的[資料庫](https://zh.wikipedia.org/wiki/資料庫 "wikilink")。它替代了由舊版使用的[`NTLDR`](../Page/NTLDR.md "wikilink")之開機組態檔案[`boot.ini`](https://zh.wikipedia.org/wiki/boot.ini "wikilink")。
 
 開機組態資料庫的檔案結構是與登錄資料庫完全相同的。
-\[1\]在使用了[統一可延伸韌體介面](../Page/統一可延伸韌體介面.md "wikilink")（）開機方式的電腦上，這個檔案儲存在[EFI系统分割區](https://zh.wikipedia.org/wiki/EFI系统分割區 "wikilink")（ESP）；在使用Legacy
+\[1\]在使用了[統一可延伸韌體介面](../Page/統一可延伸韌體介面.md "wikilink")（）開機方式的電腦上，BCD檔案儲存在[EFI系统分區](https://zh.wikipedia.org/wiki/EFI系统分區 "wikilink")（ESP）；在使用Legacy
 BIOS開機方式的電腦上，有可能儲存在系统分割區下的"`\Boot"目錄下的bcd檔案中`，如果是[Windows
 7與後續版本](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")，也有可能儲存在一個隱藏的開機分割區（200MB左右）中（尤其是在沒有任何磁碟分割的硬碟中安裝Windows
 7/8/10的情況下）。
 
-目前內建用於管理組態資料庫的公用程式為"`bcdedit.exe`"\[2\]；若要快速設定系統分割區或是修復錯誤的開機選項則使用"`bcdboot.exe`"\[3\]公用程式；其他用於管理的工具還有[EasyBCD](https://zh.wikipedia.org/wiki/EasyBCD "wikilink")、[Bootice或是](https://zh.wikipedia.org/wiki/Bootice "wikilink")[WMI等工具修改](https://zh.wikipedia.org/wiki/WMI "wikilink")。
+內建於Windows，用於設定BCD的公用程式為"`bcdedit.exe`"\[2\]；若要快速設定系統分割區或是修復錯誤的開機選項則使用"`bcdboot.exe`"\[3\]公用程式；其他用於管理的工具還有[EasyBCD](https://zh.wikipedia.org/wiki/EasyBCD "wikilink")、[Bootice或是](https://zh.wikipedia.org/wiki/Bootice "wikilink")[WMI等工具修改](https://zh.wikipedia.org/wiki/WMI "wikilink")。
 
 開機組態資料庫包含開機管理程式的選單及控制管理程式的行為，就像包含所使用`boot.ini`。這些選單的內容是：
 
@@ -23,8 +23,6 @@ BIOS開機方式的電腦上，有可能儲存在系统分割區下的"`\Boot"�
   - 透過呼叫`winresume.exe`或`winresume.efi`使從休眠中啟動的選項。
   - 透過呼叫`NTLDR`来启动先前版本的選項。
   - 載入和執行一個[分割區啟動紀錄的選項](https://zh.wikipedia.org/wiki/分割區啟動紀錄 "wikilink")。
-
-開機組態資料庫允許第三方應用的整合，所以任何人都可以加入自己的診斷和修復選項工具。
 
 ##
 
@@ -35,7 +33,7 @@ BIOS開機方式的電腦上，有可能儲存在系统分割區下的"`\Boot"�
 ### winrsume.exe
 
 当电脑从休眠模式恢复至正常模式时，`bootmgr`則调用`winresume.exe`。并使用与以往有别的启动模式和页面（Windows 7
-系统则显示「正在恢复Windows」）以快速恢复系统先前並的工作进度。在UEFI系统中，應用程序套件名为`winresume.efi`，通常位于`\windows\system32\boot`
+系统则显示「正在恢复Windows」）以快速恢复系统先前並的工作进度。在UEFI系统中，應用程序套件名为`winresume.efi`，通常位于`\windows\system32`
 。
 
 ## 进阶启动

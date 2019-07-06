@@ -8,7 +8,7 @@
 
 ## 管理歸屬
 
-[中華民國法律](../Page/中華民國法律.md "wikilink")《藥事法》規定，保力達B屬於含酒精的內服藥劑，其成分含有[中藥萃取物及](../Page/科學中藥.md "wikilink")[胺基酸等內容物](https://zh.wikipedia.org/wiki/胺基酸 "wikilink")，屬「醫事指示用藥」，只允許在[藥局或](https://zh.wikipedia.org/wiki/藥房 "wikilink")[藥房販售](https://zh.wikipedia.org/wiki/藥房 "wikilink")。但實際上，一般藍領勞工購置管道多來自[檳榔攤或](../Page/檳榔西施.md "wikilink")[雜貨店](../Page/雜貨店.md "wikilink")。\[2\]
+[中華民國法律](../Page/中華民國法律.md "wikilink")《藥事法》規定，保力達B屬於含酒精的內服藥劑，其成分含有[中藥萃取物及](../Page/科學中藥.md "wikilink")[胺基酸等內容物](https://zh.wikipedia.org/wiki/胺基酸 "wikilink")，屬「醫事指示用藥」，只允許在[藥局或](../Page/藥房.md "wikilink")[藥房販售](../Page/藥房.md "wikilink")。但實際上，一般藍領勞工購置管道多來自[檳榔攤或](../Page/檳榔西施.md "wikilink")[雜貨店](../Page/雜貨店.md "wikilink")。\[2\]
 
 ## 調查紀錄
 

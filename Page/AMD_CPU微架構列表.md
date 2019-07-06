@@ -48,7 +48,7 @@
     指令集。後期的K8增加[SSE3](../Page/SSE3.md "wikilink")。K8是首個兼容64位Windows的微處理器，在2003年4月22日上市。[超線程通訊結構](https://zh.wikipedia.org/wiki/超線程 "wikilink")(HyperTransport
     communication
     fabric)取代傳統的[前端總線](https://zh.wikipedia.org/wiki/前端總線 "wikilink")(Font-side
-    bus),讓CUP直接和[主存](https://zh.wikipedia.org/wiki/主存 "wikilink")(main
+    bus),讓CPU直接和[主存](https://zh.wikipedia.org/wiki/主存 "wikilink")(main
     memory)鏈接，
       - Dual core K8 -
         [雙核心](https://zh.wikipedia.org/wiki/雙核心 "wikilink")

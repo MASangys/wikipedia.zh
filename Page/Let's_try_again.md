@@ -89,7 +89,7 @@ Para風格的舞蹈](../Page/Para_Para.md "wikilink")。\[2\]4月20日開放網�
   - [Team Amuse\!\!
     特設網站](https://web.archive.org/web/20110424000955/http://www.amuse.co.jp/teamamuse/)
 
-[Category:Amuse所屬藝人](https://zh.wikipedia.org/wiki/Category:Amuse所屬藝人 "wikilink")
+[Category:AMUSE](https://zh.wikipedia.org/wiki/Category:AMUSE "wikilink")
 [Category:桑田佳祐歌曲](https://zh.wikipedia.org/wiki/Category:桑田佳祐歌曲 "wikilink")
 [Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink")
 [Category:2011年日本東北地方太平洋近海地震](https://zh.wikipedia.org/wiki/Category:2011年日本東北地方太平洋近海地震 "wikilink")

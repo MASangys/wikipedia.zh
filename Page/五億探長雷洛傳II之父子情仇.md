@@ -70,3 +70,4 @@
 [Category:永盛电影](https://zh.wikipedia.org/wiki/Category:永盛电影 "wikilink")
 [Category:嘉禾电影](https://zh.wikipedia.org/wiki/Category:嘉禾电影 "wikilink")
 [Category:呂樂](https://zh.wikipedia.org/wiki/Category:呂樂 "wikilink")
+[Category:貪污相關電影](https://zh.wikipedia.org/wiki/Category:貪污相關電影 "wikilink")

@@ -72,7 +72,7 @@ color）3色進行構成。
       - 收錄於電視動畫《通靈王》的廣播劇CD《與恐山會面〜prologue to shaman〜』（2002年發售）。
 14. **[殘酷的天使](https://zh.wikipedia.org/wiki/殘酷天使的行動綱領 "wikilink")
     \[A.D.2001\]** <bonus track>（）
-      - 作詞：[及川眠子](https://zh.wikipedia.org/wiki/及川眠子 "wikilink")、作曲：[佐藤英敏](https://zh.wikipedia.org/wiki/佐藤英敏 "wikilink")、編曲：[大森俊之](https://zh.wikipedia.org/wiki/大森俊之 "wikilink")
+      - 作詞：[及川眠子](../Page/及川眠子.md "wikilink")、作曲：[佐藤英敏](https://zh.wikipedia.org/wiki/佐藤英敏 "wikilink")、編曲：[大森俊之](https://zh.wikipedia.org/wiki/大森俊之 "wikilink")
       - 電視動畫《[新世紀福音戰士](https://zh.wikipedia.org/wiki/新世紀福音戰士 "wikilink")》的企劃專輯《ANGELION
         -THE BIRTHDAY OF Rei AYANAMI-》中收錄的樂曲。
 

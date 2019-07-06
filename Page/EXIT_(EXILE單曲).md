@@ -3,7 +3,7 @@
 ## 解說
 
   - 與前作「[HERO](../Page/HERO_\(EXILE單曲\).md "wikilink")」相隔約8個月的新單曲。
-  - [天海祐希主演的連續劇](https://zh.wikipedia.org/wiki/天海祐希 "wikilink")「[女王的教室](../Page/女王的教室.md "wikilink")」（[日本電視台](../Page/日本電視台.md "wikilink")）主題歌。
+  - [天海祐希主演的連續劇](../Page/天海祐希.md "wikilink")「[女王的教室](../Page/女王的教室.md "wikilink")」（[日本電視台](../Page/日本電視台.md "wikilink")）主題歌。
   - 「EXIT」的PV在沖繩拍攝。
   - 初回盤「CD＋DVD」、「CD ONLY」為紙盒包裝。
   - 4th錄音室專輯「[ASIA](https://zh.wikipedia.org/wiki/ASIA_\(EXILE專輯\) "wikilink")」收錄[音樂錄影帶的製作片段](../Page/音樂錄影帶.md "wikilink")。

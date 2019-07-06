@@ -318,7 +318,7 @@
     星期五部份
   - [AKB48的"我們的故事"](https://zh.wikipedia.org/wiki/AKB48的"我們的故事" "wikilink")（2010年8月14日・10月11日・2011年1月2日・4月1日
     -
-    、[NHK-FM](https://zh.wikipedia.org/wiki/NHK-FM放送 "wikilink")・[NHK廣播第1頻率](https://zh.wikipedia.org/wiki/NHK廣播第1頻率 "wikilink")）
+    、[NHK-FM](https://zh.wikipedia.org/wiki/NHK-FM放送 "wikilink")・[NHK廣播第1頻率](../Page/NHK廣播第1頻率.md "wikilink")）
   - [AKB廣播劇劇場](../Page/AKB廣播劇劇場.md "wikilink")（2011年10月3日 - 、日本放送）
   - [Wktkラヂオ学園](https://zh.wikipedia.org/wiki/Wktkラヂオ学園 "wikilink")（2012年4月8日
     - 、[NHKラジオ第一](https://zh.wikipedia.org/wiki/NHKラジオ第一 "wikilink")） -

@@ -408,7 +408,7 @@ Team KIII在2013年6月25日成立。
 <td></td>
 <td><p>2期</p></td>
 <td><p>2013年6月25日</p></td>
-<td><p>預定畢業</p></td>
+<td><p>預定於2019年7月20日畢業</p></td>
 <td><p>24</p></td>
 </tr>
 <tr class="even">
@@ -533,7 +533,8 @@ Team T在2015年1月25日成立。
 前Team J（初代→Shania）<br />
 <strong>Team T隊長（第3任）</strong><br />
 2018年4月1日起解除兼任<br />
-前Team KIII（Ratu、Viviyona）</p></td>
+前Team KIII（Ratu、Viviyona）<br />
+預定畢業</p></td>
 <td><p>2</p></td>
 </tr>
 <tr class="even">
@@ -675,6 +676,294 @@ Kyla</p></td>
 </thead>
 <tbody>
 <tr class="odd">
+<td><p>Aiko Harumi</p></td>
+<td><p>Aiko</p></td>
+<td></td>
+<td><p>7期</p></td>
+<td><p>2018年12月18日</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
+<td><p>Amanina Afiqah</p></td>
+<td><p>Afiqah</p></td>
+<td></td>
+<td><p>8期</p></td>
+<td><p>2019年5月26日</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="odd">
+<td><p>Amirah Fatin</p></td>
+<td><p>Mira</p></td>
+<td></td>
+<td><p>8期</p></td>
+<td><p>2019年6月30日</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
+<td><p>Anastasya Narwastu Tety Handuran</p></td>
+<td><p>Tasya</p></td>
+<td></td>
+<td><p>6期</p></td>
+<td><p>2018年6月10日</p></td>
+<td><p>預定於2019年7月21日昇格至Team KIII</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="odd">
+<td><p>Angelina Christy</p></td>
+<td><p>Christy</p></td>
+<td></td>
+<td><p>7期</p></td>
+<td><p>2018年10月28日</p></td>
+<td><p>預定於2019年7月21日昇格至Team KIII</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
+<td><p>Aurel Mayori</p></td>
+<td><p>Yori</p></td>
+<td></td>
+<td><p>7期</p></td>
+<td><p>2018年10月28日</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="odd">
+<td><p>Azizi Asadel</p></td>
+<td><p>Zee</p></td>
+<td></td>
+<td><p>7期</p></td>
+<td><p>2018年10月28日</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
+<td><p>Cornelia Vanisa</p></td>
+<td><p>Oniel</p></td>
+<td></td>
+<td><p>8期</p></td>
+<td><p>2019年5月26日</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="odd">
+<td><p>Devytha Maharani</p></td>
+<td><p>Devytha</p></td>
+<td></td>
+<td><p>8期</p></td>
+<td><p>2019年6月30日</p></td>
+<td></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
+<td><p>Dhea Angelia</p></td>
+<td><p>Dey</p></td>
+<td></td>
+<td><p>7期</p></td>
+<td><p>2018年10月28日</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="odd">
+<td><p>Eriena Kartika</p></td>
+<td><p>Erichan</p></td>
+<td></td>
+<td><p>8期</p></td>
+<td><p>2019年5月26日</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
+<td><p>Febi Komaril</p></td>
+<td><p>Febi</p></td>
+<td></td>
+<td><p>7期</p></td>
+<td><p>2018年10月28日</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="odd">
+<td><p>Febrina Diponegoro</p></td>
+<td><p>Bri</p></td>
+<td></td>
+<td><p>7期</p></td>
+<td><p>2018年12月18日</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
+<td><p>Febriola Sinambela</p></td>
+<td><p>Olla</p></td>
+<td></td>
+<td><p>7期</p></td>
+<td><p>2018年12月18日</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="odd">
+<td><p>Fiony Alveria</p></td>
+<td><p>Fiony</p></td>
+<td></td>
+<td><p>8期</p></td>
+<td><p>2019年6月30日</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
+<td><p>Freya Jayawardana</p></td>
+<td><p>Freya</p></td>
+<td></td>
+<td><p>7期</p></td>
+<td><p>2018年12月18日</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="odd">
+<td><p>Gabriel Angelina</p></td>
+<td><p>Brielle</p></td>
+<td></td>
+<td><p>7期</p></td>
+<td><p>2018年10月28日</p></td>
+<td><p>預定於2019年7月21日昇格至Team KIII</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
+<td><p>Gabriella Stevany</p></td>
+<td><p>Vany</p></td>
+<td></td>
+<td><p>8期</p></td>
+<td><p>2019年6月</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="odd">
+<td><p>Gita Sekar Andarini</p></td>
+<td><p>Gita</p></td>
+<td></td>
+<td><p>6期</p></td>
+<td><p>2018年8月13日</p></td>
+<td><p>預定於2019年7月21日昇格至Team KIII</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
+<td><p>Helisma Putri</p></td>
+<td><p>Eli</p></td>
+<td></td>
+<td><p>7期</p></td>
+<td><p>2018年10月28日</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="odd">
+<td><p>Jessica Chandra</p></td>
+<td><p>Jessi</p></td>
+<td></td>
+<td><p>7期</p></td>
+<td><p>2019年1月26日</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
+<td><p>Jesslyn Callista</p></td>
+<td><p>Jesslyn</p></td>
+<td></td>
+<td><p>7期</p></td>
+<td><p>2018年12月18日</p></td>
+<td></td>
+<td><p>-</p></td>
+</tr>
+<tr class="odd">
+<td><p>Keisya Ramadhani</p></td>
+<td><p>Keisya</p></td>
+<td></td>
+<td><p>8期</p></td>
+<td><p>2019年6月30日</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
+<td><p>Lulu Salsabila</p></td>
+<td><p>Lulu</p></td>
+<td></td>
+<td><p>8期</p></td>
+<td><p>2019年6月</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="odd">
+<td><p>Mutiara Azzahra</p></td>
+<td><p>Muthe</p></td>
+<td></td>
+<td><p>7期</p></td>
+<td><p>2018年10月28日</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
+<td><p>Nabila Fitriana</p></td>
+<td><p>Lala</p></td>
+<td></td>
+<td><p>7期</p></td>
+<td><p>2018年10月28日</p></td>
+<td><p>預定於2019年7月21日昇格至Team KIII</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="odd">
+<td><p>Pamela Krysanthe</p></td>
+<td><p>Pamela</p></td>
+<td></td>
+<td><p>8期</p></td>
+<td><p>2019年6月</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
+<td><p>Reva Adriana</p></td>
+<td><p>Reva</p></td>
+<td></td>
+<td><p>8期</p></td>
+<td><p>2019年5月26日</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="odd">
+<td><p>Reva Fidela</p></td>
+<td><p>Adel</p></td>
+<td></td>
+<td><p>8期</p></td>
+<td><p>2019年6月30日</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
+<td><p>Rifa Fatmasari</p></td>
+<td><p>Rifa</p></td>
+<td></td>
+<td><p>7期</p></td>
+<td><p>2018年10月28日</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="odd">
+<td><p>Salma Annisa</p></td>
+<td><p>Alma</p></td>
+<td></td>
+<td><p>8期</p></td>
+<td><p>2019年6月</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
+<td><p>Shalza Grasita</p></td>
+<td><p>Shalza</p></td>
+<td></td>
+<td><p>6期</p></td>
+<td><p>2018年6月10日</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td><p>Stefi</p></td>
 <td></td>
@@ -688,256 +977,31 @@ Kyla</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>Anastasya Narwastu Tety Handuran</p></td>
-<td><p>Tasya</p></td>
-<td></td>
-<td><p>6期</p></td>
-<td><p>2018年6月10日</p></td>
-<td><p>預定於2019年7月21日昇格至Team KIII</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="odd">
-<td><p>Shalza Grasita</p></td>
-<td><p>Shalza</p></td>
-<td></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Gita Sekar Andarini</p></td>
-<td><p>Gita</p></td>
-<td></td>
-<td><p>2018年8月13日</p></td>
-<td><p>預定於2019年7月21日昇格至Team KIII</p></td>
-<td><p>-</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Aiko Harumi Nangin</p></td>
-<td><p>Aiko</p></td>
-<td></td>
-<td><p>7期</p></td>
-<td><p>2018年12月18日</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="even">
-<td><p>Angelina Christy</p></td>
-<td><p>Christy</p></td>
-<td></td>
-<td><p>2018年10月28日</p></td>
-<td><p>預定於2019年7月21日昇格至Team KIII</p></td>
-<td><p>-</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Aurel Mayori</p></td>
-<td><p>Yori</p></td>
-<td></td>
-<td></td>
-<td><p>-</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Azizi Asadel</p></td>
-<td><p>Zee</p></td>
-<td></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Dhea Angelia</p></td>
-<td><p>Dey</p></td>
-<td></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Febi Komaril</p></td>
-<td><p>Febi</p></td>
-<td></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Febrina Diponegoro</p></td>
-<td><p>Bri</p></td>
-<td></td>
-<td><p>2018年12月18日</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Febriola Sinambela</p></td>
-<td><p>Olla</p></td>
-<td></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Freyana Jayawardana</p></td>
-<td><p>Freya</p></td>
-<td></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Gabriel Angelina</p></td>
-<td><p>Brielle</p></td>
-<td></td>
-<td><p>2018年10月28日</p></td>
-<td><p>預定於2019年7月21日昇格至Team T</p></td>
-<td><p>-</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Helisma Putri</p></td>
-<td><p>Eli</p></td>
-<td></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Jessica Chandra</p></td>
-<td><p>Jessi</p></td>
-<td></td>
-<td><p>2019年1月26日</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Mutiara Azzahra</p></td>
-<td><p>Muthe</p></td>
-<td></td>
-<td><p>2018年10月28日</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Nabila Fitriana</p></td>
-<td><p>Lala</p></td>
-<td></td>
-<td><p>預定於2019年7月21日昇格至Team T</p></td>
-<td><p>-</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Rifa Fatmasari</p></td>
-<td><p>Rifa</p></td>
-<td></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p>Viona Fadrin</p></td>
 <td><p>Vivi</p></td>
 <td></td>
+<td><p>7期</p></td>
+<td><p>2018年10月28日</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>Yessica Tamara</p></td>
 <td><p>Chika</p></td>
 <td></td>
+<td><p>7期</p></td>
+<td><p>2018年10月28日</p></td>
 <td><p>預定於2019年7月21日昇格至Team KIII</p></td>
 <td><p>-</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Amanina Afiqah</p></td>
-<td><p>Afiqah</p></td>
-<td></td>
-<td><p>8期</p></td>
-<td><p>2019年5月26日</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="odd">
-<td><p>Cornelia Vanisa</p></td>
-<td><p>Onil</p></td>
-<td></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Eriena Kartika</p></td>
-<td><p>Erichan</p></td>
-<td></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Gabriela Stefany</p></td>
-<td><p>Vany</p></td>
-<td></td>
-<td><p>2019年6月</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Lulu Salsabila</p></td>
-<td><p>Lulu</p></td>
-<td></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Pamela Krysanthe</p></td>
-<td><p>Pamela</p></td>
-<td></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>Zahra Nur</p></td>
 <td><p>Ara</p></td>
 <td></td>
+<td><p>8期</p></td>
+<td><p>2019年5月26日</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 </tbody>
 </table>
@@ -959,48 +1023,16 @@ Kyla</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>Amirah Fatin</p></td>
-<td><p>Mira</p></td>
-<td></td>
-<td><p>8期</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="even">
 <td><p>Cindy Nugroho</p></td>
 <td><p>Nunu</p></td>
 <td></td>
+<td><p>8期</p></td>
 <td><p>AKB48集團最年少</p></td>
 <td><p>-</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Devytha Maharani</p></td>
-<td><p>Devytha</p></td>
-<td></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td></td>
 </tr>
 <tr class="even">
-<td><p>Fiony Alveria</p></td>
-<td><p>Fiony</p></td>
-<td></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>Flora Shafiq</p></td>
 <td><p>Flora</p></td>
-<td></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Keisya Ramadhani</p></td>
-<td><p>Keisya</p></td>
 <td></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
@@ -1015,14 +1047,6 @@ Kyla</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Reva Fidela</p></td>
-<td><p>Adel</p></td>
-<td></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>Umega Maulana</p></td>
 <td><p>Ume</p></td>
 <td></td>
@@ -1030,7 +1054,7 @@ Kyla</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -2975,6 +2999,14 @@ Team T Made Devi Ranita Ningtara畢業</p></td>
 <td><p>6月15日</p></td>
 <td><p>Class A Graciella Ruth Wiranto請辭</p></td>
 <td><p>-1</p></td>
+<td><p>82</p></td>
+<td><p>42</p></td>
+<td><p>13</p></td>
+</tr>
+<tr class="even">
+<td><p>6月30日</p></td>
+<td><p>Class B的5名成員晉級至Class A</p></td>
+<td></td>
 <td><p>82</p></td>
 <td><p>42</p></td>
 <td><p>13</p></td>

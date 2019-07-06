@@ -62,10 +62,8 @@ DC漫畫公司於1972年時，得到了驚奇家族角色的出版權後，並�
 <!-- end list -->
 
   - 《SHAZAM\!》：1974年到1976年電視劇\[12\]。
-
-<!-- end list -->
-
-  - 《[沙贊！](https://zh.wikipedia.org/wiki/沙贊！_\(電影\) "wikilink")》：2019年電影（**[DC擴展宇宙](../Page/DC擴展宇宙.md "wikilink")**）。2014年4月28日，《[華爾街日報](https://zh.wikipedia.org/wiki/華爾街日報 "wikilink")》透露華納兄弟最快有望於2016年發布《沙贊》電影\[13\]\[14\]\[15\]。[巨石強森在](../Page/巨石強森.md "wikilink")2014年8月20日證實他會與該片有所交涉\[16\]，2014年9月3日，才正式宣布他將飾演[黑亞當](../Page/黑亞當.md "wikilink")\[17\]。《沙贊！》將由新線影業製作和華納兄弟發行\[18\]，[陶比·艾默里奇擔任執行製片人](https://zh.wikipedia.org/wiki/陶比·艾默里奇 "wikilink")，而《[傑克：巨人戰紀](../Page/傑克：巨人戰紀.md "wikilink")》和《[渦輪方程式](https://zh.wikipedia.org/wiki/渦輪方程式 "wikilink")》的編劇達倫·萊姆克已被聘請撰寫劇本\[19\]。艾默里奇受《[娛樂周刊](https://zh.wikipedia.org/wiki/娛樂周刊 "wikilink")》採訪時表示，電影將有一個從《[蝙蝠俠對超人：正義曙光](https://zh.wikipedia.org/wiki/蝙蝠俠對超人：正義曙光 "wikilink")》中所沒有的基調，有幽默和風趣的感覺，和反英雄角色黑亞當有著利害關係\[20\]。2014年10月15日，華納兄弟宣布《沙贊！》將於2019年4月5日上映並作為[DC擴展宇宙的第七部作品](../Page/DC擴展宇宙.md "wikilink")\[21\]。2017年7月，[大衛·F·桑德柏格被聘來擔任導演](../Page/大衛·F·桑德柏格.md "wikilink")\[22\]。2017年10月27日，宣布[柴克·萊威被選為沙贊的演員](../Page/柴克·萊威.md "wikilink")\[23\]。電影定於2019年4月5日在美國上映。
+  - **[DC擴展宇宙](../Page/DC擴展宇宙.md "wikilink")**
+      - 2019年電影《[沙贊！](https://zh.wikipedia.org/wiki/沙贊！_\(電影\) "wikilink")》：由[柴克·萊威及](../Page/柴克·萊威.md "wikilink")[艾許·安傑飾演](../Page/艾許·安傑.md "wikilink")。
 
 ### 動畫
 
@@ -73,6 +71,7 @@ DC漫畫公司於1972年時，得到了驚奇家族角色的出版權後，並�
   - 《[超人/蝙蝠侠：公众之敌](https://zh.wikipedia.org/wiki/超人/蝙蝠侠：公众之敌 "wikilink")》：2009年動畫電影。未掛名登場。由[瑞秋·麥克法蘭配音比利](https://zh.wikipedia.org/wiki/瑞秋·麥克法蘭 "wikilink")·巴特森。
   - 《[超人/沙贊！：黑亞當歸來](https://zh.wikipedia.org/wiki/超人/沙贊！：黑亞當歸來 "wikilink")》：2010年動畫電影。由[傑瑞·奧康奈爾配音](https://zh.wikipedia.org/wiki/傑瑞·奧康奈爾 "wikilink")。
   - 《[正義聯盟：閃電俠之逆轉](https://zh.wikipedia.org/wiki/正義聯盟：閃電俠之逆轉 "wikilink")》：2011年動畫電影。由[坎迪·米洛和](https://zh.wikipedia.org/wiki/坎迪·米洛 "wikilink")[珍妮弗·海爾配音佩德羅](https://zh.wikipedia.org/wiki/珍妮弗·海爾 "wikilink")·潘納與比利·巴特森，並由[史蒂文·布盧姆為雷霆隊長](https://zh.wikipedia.org/wiki/史蒂文·布盧姆 "wikilink")（另一平行世界的沙贊）配音。
+  - 《[少年正義聯盟](../Page/少年正義聯盟_\(動畫\).md "wikilink")》：2011年動畫劇。協助少年正義聯盟。
   - 《[正義聯盟：開戰](https://zh.wikipedia.org/wiki/正義聯盟：開戰 "wikilink")》：2014年動畫電影。由[西恩·艾斯汀配音](https://zh.wikipedia.org/wiki/西恩·艾斯汀 "wikilink")，而比利則由扎克·凱里森配音。
   - 《[正義聯盟：亞特蘭提斯的王位](https://zh.wikipedia.org/wiki/正義聯盟：亞特蘭提斯的王位 "wikilink")》：2015年動畫電影。仍由西恩·艾斯汀配音。
 
@@ -185,24 +184,3 @@ DC漫畫公司於1972年時，得到了驚奇家族角色的出版權後，並�
 11. <https://www.youtube.com/watch?v=iLpotsnvjoQ>
 
 12. <https://www.rottentomatoes.com/tv/shazam_>
-
-13.
-
-14.
-
-15.
-
-16.
-
-17.
-
-18.
-
-19.
-20.
-
-21.
-
-22.
-
-23.

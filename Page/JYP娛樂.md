@@ -817,7 +817,7 @@ Han Shin Young</p></td>
   - [Pentagon](../Page/Pentagon_\(男子組合\).md "wikilink")
       - [李會澤](../Page/李會澤.md "wikilink")
       - [安達祐人](https://zh.wikipedia.org/wiki/安達祐人 "wikilink")
-  - [R1SE](https://zh.wikipedia.org/wiki/R1SE "wikilink")
+  - [R1SE](../Page/R1SE.md "wikilink")
       - [周震南](../Page/周震南.md "wikilink")
   - [RAINZ](../Page/RAINZ.md "wikilink")
       - 李基遠
@@ -831,6 +831,10 @@ Han Shin Young</p></td>
   - 女子團體
 
 <!-- end list -->
+
+  - [2EYES](../Page/2EYES.md "wikilink")
+
+      - 金慧潾
 
   - [After School](../Page/After_School.md "wikilink")
 
@@ -1002,7 +1006,6 @@ Han Shin Young</p></td>
   - 《[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")》
       - 黃金率
       - 尹瑞彬
-      - [李美談](../Page/李美談.md "wikilink")
       - 姜碩華
       - Steven Kim
 
@@ -1068,9 +1071,9 @@ Han Shin Young</p></td>
   - 2017年：K-STAR《[2PM Wild
     Beat](../Page/2PM_Wild_Beat.md "wikilink")》（與iHQ共同製作）
   - 2018年：JYP PICTURES官方Youtube頻道《四方旅行：西澳洲篇》（演出：裴智煥(攝影師)、金明勛(歌手Ulala
-    Session)、Kebee(歌手Eluphant)、[朴珪瑛](../Page/朴珪瑛.md "wikilink")(演員)、[鄭乾柱](https://zh.wikipedia.org/wiki/鄭乾柱 "wikilink")(演員)）
+    Session)、Kebee(歌手Eluphant)、[朴珪瑛](../Page/朴珪瑛.md "wikilink")(演員)、[鄭乾柱](../Page/鄭乾柱.md "wikilink")(演員)）
   - 2018年：JYP
-    PICTURES官方Youtube頻道《四方旅行夏日休假：智異山篇》（演出：裴智煥(攝影師)、俞彩蓮(模特)、[柳承秀](../Page/柳承秀.md "wikilink")(演員)、[鄭乾柱](https://zh.wikipedia.org/wiki/鄭乾柱 "wikilink")(演員)）
+    PICTURES官方Youtube頻道《四方旅行夏日休假：智異山篇》（演出：裴智煥(攝影師)、俞彩蓮(模特)、[柳承秀](../Page/柳承秀.md "wikilink")(演員)、[鄭乾柱](../Page/鄭乾柱.md "wikilink")(演員)）
   - 2018年：JYP
     PICTURES官方Youtube頻道《四方旅行：新加坡篇》（演出：裴智煥(攝影師)、[李廷鎮](../Page/李廷鎮.md "wikilink")(演員)、[柳承秀](../Page/柳承秀.md "wikilink")(演員)、[Eluphant](https://zh.wikipedia.org/wiki/Eluphant "wikilink")、李歐艾琳(李惠敏，[Nine
     Muses前成員E](https://zh.wikipedia.org/wiki/Nine_Muses "wikilink") U
@@ -1079,7 +1082,7 @@ Han Shin Young</p></td>
   - 2019年：JYP
     PICTURES官方Youtube頻道《四方旅行：南法篇》（演出：[朴珪瑛](../Page/朴珪瑛.md "wikilink")(演員)、[金志珉](../Page/金志珉.md "wikilink")(演員)）
   - 2019年：JYP
-    PICTURES官方Youtube頻道《四方旅行：西班牙篇》（演出：[尹博](../Page/尹博.md "wikilink")(演員)、[辛睿恩](../Page/辛睿恩.md "wikilink")(演員)、[辛睿恩](../Page/辛睿恩.md "wikilink")(演員)、[姜勛](https://zh.wikipedia.org/wiki/姜勛 "wikilink")(演員)）
+    PICTURES官方Youtube頻道《四方旅行：西班牙篇》（演出：[尹博](../Page/尹博.md "wikilink")(演員)、[辛睿恩](../Page/辛睿恩.md "wikilink")(演員)、[姜勛](https://zh.wikipedia.org/wiki/姜勛 "wikilink")(演員)）
 
 ### 出道實境節目
 

@@ -484,7 +484,7 @@
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/朴志訓" title="wikilink">朴志訓</a>、<a href="../Page/孔升妍.md" title="wikilink">孔升妍</a>、<a href="../Page/金旻載.md" title="wikilink">金旻載</a></p></td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金佳藍" title="wikilink">金佳藍</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>

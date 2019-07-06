@@ -348,7 +348,7 @@ Busters的得力夥伴。
 <td><p>早乙女麗花</p></td>
 <td><p>Pink Buster</p></td>
 <td><p><a href="../Page/無.md" title="wikilink"><font color="black">無</font></a></p></td>
-<td><p><a href="../Page/薛晴.md" title="wikilink"><font color="black">薛晴</font></a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/連宓均" title="wikilink"><font color="black">連宓均</font></a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/柚子蜜_(配音員)" title="wikilink"><font color="black">柚子蜜</font></a></p></td>
 </tr>
 <tr class="even">

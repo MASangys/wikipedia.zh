@@ -130,9 +130,9 @@ Model S 75 Front.jpg|特斯拉 Model S 小改款
   - 2016年1月，[京港澳高速公路河北](../Page/京港澳高速公路.md "wikilink")[邯郸段一辆MODEL](https://zh.wikipedia.org/wiki/邯郸 "wikilink")
     S在自动驾驶状态下撞上一辆正在作业的道路清扫车，MODEL S当场损坏，司机不幸身亡\[18\]。
   - 2019年4月21日，上海市[徐汇区文定路泰德花苑小区停在地下车库内的一辆MODEL](../Page/徐汇区.md "wikilink")
-    S突然发生自燃，附近的三辆汽车也遭到波及而烧毁，所幸的是车主当时并不在车内，事故没有造成人员伤亡\[19\]。
+    S突然发生自燃，附近的三辆汽车也遭到波及而烧毁，所幸的是车主当时并不在车内，事故没有造成人员伤亡\[19\]。经调查事故是由单个电池模组引起\[20\]。
   - 2019年5月12日，停泊在[新蒲崗廣場地下車庫的一輛Model](https://zh.wikipedia.org/wiki/新蒲崗#商場 "wikilink")
-    S在充電時電池突然冒煙起火，隨後火勢被消防人員撲滅，未造成人員傷亡\[20\]。
+    S在充電時電池突然冒煙起火，隨後火勢被消防人員撲滅，未造成人員傷亡\[21\]。
 
 ## 參見
 
@@ -199,4 +199,7 @@ Model S 75 Front.jpg|特斯拉 Model S 小改款
     想想都后怕](http://newsxmwb.xinmin.cn/shanghaitan/2019/04/22/31518663.html?spm=C73544894212.P99790479609.0.0)
 
 19.
-20. [本港首宗Tesla離奇爆炸　新蒲崗停車場泊30分鐘後突然自焚](https://topick.hket.com/article/2349020/%E6%9C%AC%E6%B8%AF%E9%A6%96%E5%AE%97Tesla%E9%9B%A2%E5%A5%87%E7%88%86%E7%82%B8%E3%80%80%E6%96%B0%E8%92%B2%E5%B4%97%E5%81%9C%E8%BB%8A%E5%A0%B4%E6%B3%8A30%E5%88%86%E9%90%98%E5%BE%8C%E7%AA%81%E7%84%B6%E8%87%AA%E7%84%9A?mtc=10045)
+20. [特斯拉：上海Model
+    S自燃事件是由单个电池模组故障引起](https://cn.engadget.com/2019/06/28/tesla-issues-statement-regarding-shanghai-model-s-fire-accident/)
+
+21. [本港首宗Tesla離奇爆炸　新蒲崗停車場泊30分鐘後突然自焚](https://topick.hket.com/article/2349020/%E6%9C%AC%E6%B8%AF%E9%A6%96%E5%AE%97Tesla%E9%9B%A2%E5%A5%87%E7%88%86%E7%82%B8%E3%80%80%E6%96%B0%E8%92%B2%E5%B4%97%E5%81%9C%E8%BB%8A%E5%A0%B4%E6%B3%8A30%E5%88%86%E9%90%98%E5%BE%8C%E7%AA%81%E7%84%B6%E8%87%AA%E7%84%9A?mtc=10045)

@@ -2478,7 +2478,7 @@ Toffler。\[1\]
 ## 参见
 
   -
-[Category:Vocaloid](https://zh.wikipedia.org/wiki/Category:Vocaloid "wikilink")
+[Category:Vocaloid角色](https://zh.wikipedia.org/wiki/Category:Vocaloid角色 "wikilink")
 
 1.
 2.

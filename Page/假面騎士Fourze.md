@@ -14,7 +14,9 @@
     同時也是紀念人類太空飛行50週年的紀念作，因此加入了**「太空」**和**「校園生活」**兩種新元素。
     騎士最大的特點是主角的飛機頭和Fourze的火箭頭，還有濃濃的[宇宙和](../Page/宇宙.md "wikilink")[青春元素](https://zh.wikipedia.org/wiki/青春 "wikilink")。所以本作是屬於校園輕喜劇。
     本作的主要背景地點「天之川學園高中」，天之川的日文之意為「天上的星河」，即「銀河」之意，十分切合宇宙這個主題。
-    值得一提的是，本作的世界觀設定和前作《[假面騎士OOO](../Page/假面騎士OOO.md "wikilink")》\[1\]及後作《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》\[2\]有所關聯\[3\]。
+    值得一提的是，本作的世界觀設定和前作《[假面騎士OOO](../Page/假面騎士OOO.md "wikilink")》\[1\]及後作《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》\[2\]有所關聯，之後於2017年上映的《[假面騎士平成Generations
+    FINAL Build & EX-AID with
+    傳說騎士](../Page/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士.md "wikilink")》得知《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》至《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》實为同一世界觀。
     自《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》至《假面騎士Fourze》,
     一連3部的片頭曲都是女性歌手主唱,是假面騎士系列首次。
 
@@ -985,7 +987,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 
   -
     原文： / *Starlight Shower*
-    Meteor Galaxy插入天文裝置後發動，用右手一次過打出無數拳擊的必殺技，合計破壞力為17T，此招也能以遠程形式撃出\[4\]。
+    Meteor Galaxy插入天文裝置後發動，用右手一次過打出無數拳擊的必殺技，合計破壞力為17T，此招也能以遠程形式撃出\[3\]。
 
 <!-- end list -->
 
@@ -1055,7 +1057,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 <!-- end list -->
 
   -
-    原為OSTO（外宇宙技術開發機構）所研發之月面作業用途，大型作業可變形的[動力服](../Page/動力服.md "wikilink")\[5\]，現為用作支援Fourze戰鬥使用。
+    原為OSTO（外宇宙技術開發機構）所研發之月面作業用途，大型作業可變形的[動力服](../Page/動力服.md "wikilink")\[4\]，現為用作支援Fourze戰鬥使用。
     戰鬥模式時以雙腳移動，載具模式時可以高速行駛，而發射台模式會變成[質量投射器令Machine](../Page/質量投射器.md "wikilink")
     Massigler升空。
     除了由一人在裡面控制駕駛外，並可由天文裝置呼叫出動。駕駛者也需要具備良好的體力和運動能力才能順利操作。
@@ -1237,7 +1239,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 <td><p>配合武器Meteor Storm Shaft，在第44話亦可以配合BARIZUN SWORD進行斬擊及吸收爆炸的能量。最終話時連按3次啟動「Max Power」的聲效，之後連續使用兩次 Meteor Storm Punisher。</p></td>
 </tr>
 <tr class="odd">
-<td><p>S-1[6]</p></td>
+<td><p>S-1[5]</p></td>
 <td><p>雙腕</p></td>
 <td><p>style="color:#FFFAFA” rowspan="1"|Rocket-Super</p></td>
 <td><p>style="color:#FFFAFA” rowspan="1"|スーパーロケット</p></td>
@@ -1248,7 +1250,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 <td><p>於劇場版《<a href="../Page/假面騎士×假面騎士_Fourze_&amp;_OOO_Movie大戰_Mega_Max.md" title="wikilink">假面騎士×假面騎士 Fourze &amp; OOO Movie大戰 Mega Max</a>》登場，由宇宙生命體SOLU(美咲撫子)自行製造出來。擁有能改變States的力量，變成Rocket States；於劇場版《<a href="https://zh.wikipedia.org/wiki/假面騎士x超級戰隊_超級英雄大戰" title="wikilink">假面騎士x超級戰隊 超級英雄大戰</a>》再度登場，作為<a href="../Page/特命戰隊Go_Busters.md" title="wikilink">特命戰隊Go Busters中的Go</a> Busters王雙手強化部件。於TV版第41話及最終話亦有登場。</p></td>
 </tr>
 <tr class="even">
-<td><p>S-3[7]</p></td>
+<td><p>S-3[6]</p></td>
 <td><p>雙腳</p></td>
 <td><p>style="color:#000000” rowspan="1"|Drill-Super</p></td>
 <td><p>style="color:#000000” rowspan="1"|スーパードリル</p></td>
@@ -1395,7 +1397,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 <tr class="odd">
 <td><p>10</p></td>
 <td><p>右腕</p></td>
-<td><p>style="color:#FFFAFA” rowspan="1"|Elek[8]</p></td>
+<td><p>style="color:#FFFAFA” rowspan="1"|Elek[7]</p></td>
 <td><p>style="color:#FFFAFA” rowspan="1"|エレキ</p></td>
 <td><p>電氣</p></td>
 <td><p>手把式</p></td>
@@ -2059,7 +2061,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 <th><p>中文標題</p></th>
 <th><p>日本原文標題</p></th>
 <th><p>登場敵方怪人（CV）</p></th>
-<th><p>關東收視率[9]</p></th>
+<th><p>關東收視率[8]</p></th>
 <th><p>編劇</p></th>
 <th><p>監督</p></th>
 </tr>
@@ -2184,7 +2186,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2011/11/13[10]</p></td>
+<td><p>2011/11/13[9]</p></td>
 <td><p>2014/8/30</p></td>
 <td><p>2014/11/9</p></td>
 <td><p>10</p></td>
@@ -2274,7 +2276,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2012/1/8[11]</p></td>
+<td><p>2012/1/8[10]</p></td>
 <td><p>2014/10/18</p></td>
 <td><p>2014/12/28</p></td>
 <td><p>17</p></td>
@@ -2509,7 +2511,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 </tr>
 <tr class="odd">
 <td><p>2012/5/13</p></td>
-<td><p>2015/2/28[12]</p></td>
+<td><p>2015/2/28[11]</p></td>
 <td><p>2015/5/3</p></td>
 <td><p>35</p></td>
 <td><p>-{zh-hk:怪・人・廣・播;zh-tw:怪・人・放・送;zh-cn:怪・人・放・送;zh-sg:怪・人・放・送}-</p></td>
@@ -2574,7 +2576,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2012/6/24[13]</p></td>
+<td><p>2012/6/24[12]</p></td>
 <td><p>2015/4/4</p></td>
 <td><p>2015/6/7</p></td>
 <td><p>40</p></td>
@@ -2638,7 +2640,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2012/8/5[14]</p></td>
+<td><p>2012/8/5[13]</p></td>
 <td><p>2015/5/9</p></td>
 <td><p>2015/7/12</p></td>
 <td><p>45</p></td>
@@ -2864,13 +2866,13 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 作詞：[藤林聖子](../Page/藤林聖子.md "wikilink") / 作／編曲： /
 歌：[土屋安娜](../Page/土屋安娜.md "wikilink")
 
-  - \-{『**假面騎士Switch On！**』}-（台灣版）\[15\]
+  - \-{『**假面騎士Switch On！**』}-（台灣版）\[14\]
 
 作詞：[香蕉哥哥](../Page/香蕉哥哥.md "wikilink") / 作曲： /
 編曲：[西瓜哥哥](../Page/西瓜哥哥.md "wikilink") /
 歌：[草莓姐姐](../Page/草莓姐姐.md "wikilink")
 
-  - 『**幪面超人Switch On！**』（香港版）\[16\]
+  - 『**幪面超人Switch On！**』（香港版）\[15\]
 
 作詞：[天　旋](../Page/天旋.md "wikilink") / 作曲： /
 編曲：[徐洛鏘](../Page/徐洛鏘.md "wikilink") /
@@ -2985,18 +2987,16 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 
 1.  在OOO最終話ED時曾出現手握天文裝置的歌星和城島二人，顯見兩部作品之關聯性。
 2.  《假面騎士Fourze》最終話時操真晴人出現在大文字隼對風城美羽求婚。
-3.  之後於2017年上映的《[假面騎士平成Generations FINAL Build & EX-AID with
-    傳說騎士](../Page/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士.md "wikilink")》得知《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》至《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》實为同一世界觀
-4.  在第22話中曾以此攻擊處女座
-5.  特攝Newtype THE LIVE 2011年10月號。
-6.  S 是代表Super，S-1 只是強化後的No.1 Rocket Switch。
-7.  S 是代表Super，S-3 只是強化後的No.3 Drill Switch。
-8.  本來的英文為Electric，但官方譯為Elek。
-9.  日本關東地區平均收視率。
-10. 11月6日停播一次。
-11. 1月1日停播一次。
-12. 2月21日翡翠台因當日播映綜藝節目「[譚詠麟笑唱人生四十年足本放送](../Page/譚詠麟.md "wikilink")」而暫停播映一次。
-13. 6月17日停播一次。
-14. 7月29日停播一次。
-15. 歌名及歌星資料來自東森幼幼台節目
-16. [歌曲由星夢娛樂集團有限公司提供](https://zh.wikipedia.org/wiki/:星夢娛樂 "wikilink")
+3.  在第22話中曾以此攻擊處女座
+4.  特攝Newtype THE LIVE 2011年10月號。
+5.  S 是代表Super，S-1 只是強化後的No.1 Rocket Switch。
+6.  S 是代表Super，S-3 只是強化後的No.3 Drill Switch。
+7.  本來的英文為Electric，但官方譯為Elek。
+8.  日本關東地區平均收視率。
+9.  11月6日停播一次。
+10. 1月1日停播一次。
+11. 2月21日翡翠台因當日播映綜藝節目「[譚詠麟笑唱人生四十年足本放送](../Page/譚詠麟.md "wikilink")」而暫停播映一次。
+12. 6月17日停播一次。
+13. 7月29日停播一次。
+14. 歌名及歌星資料來自東森幼幼台節目
+15. [歌曲由星夢娛樂集團有限公司提供](https://zh.wikipedia.org/wiki/:星夢娛樂 "wikilink")

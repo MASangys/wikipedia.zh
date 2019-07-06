@@ -61,7 +61,7 @@ Out服務。
 ### Line Mobile
 
   - Line Mobile 是 Line
-    提供的電信服務，提供消費者通話及[行動網路服務](https://zh.wikipedia.org/wiki/行動網路 "wikilink")。在台灣地區，為[遠傳電信配合](../Page/遠傳電信.md "wikilink")，在日本為
+    提供的電信服務，提供消費者通話及[行動網路服務](https://zh.wikipedia.org/wiki/行動網路 "wikilink")。在台灣為[遠傳電信配合](../Page/遠傳電信.md "wikilink")，在日本為
     [Softbank](https://zh.wikipedia.org/wiki/Softbank "wikilink") 及 [NTT
     Docomo](https://zh.wikipedia.org/wiki/NTT_Docomo "wikilink")
     配合，[泰國為](https://zh.wikipedia.org/wiki/泰國 "wikilink")
@@ -392,7 +392,6 @@ LINE隨後對[Android及電腦客戶端作出幾次技術調整](../Page/Android
   - [LINE (公司)](../Page/LINE_\(公司\).md "wikilink")
   - [貼圖](../Page/貼圖.md "wikilink")
   - [即時通訊軟體比較](https://zh.wikipedia.org/wiki/即時通訊軟體比較 "wikilink")
-  - [即时通讯软件列表](https://zh.wikipedia.org/wiki/即时通讯软件列表 "wikilink")
 
 ### 相似服務
 

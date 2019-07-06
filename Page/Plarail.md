@@ -10,6 +10,7 @@ Tomy公司推出作為](https://zh.wikipedia.org/wiki/Takara_Tomy "wikilink")[�
 
   - 部份[JR列車](../Page/JR.md "wikilink")（含日本[國鐵時代](../Page/日本國有鐵道.md "wikilink")）
   - [新幹線](../Page/新幹線.md "wikilink")
+  - [Plarail超級系列](../Page/Plarail超級系列.md "wikilink")
   - [新幹線戰士](../Page/新幹線戰士.md "wikilink")
   - 部份私鐵列車
   - 部份地下鐵列車

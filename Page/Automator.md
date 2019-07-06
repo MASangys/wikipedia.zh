@@ -1,5 +1,5 @@
 **Automator**是苹果公司为他们的Mac OS
-X系统开发的一款软件。只要通过点击拖拽鼠标等操作就可以将一系列动作组合成一个工作流程，从而帮助你自动的（可重复的）完成一些复杂的工作。Automator还能横跨很多不同种类的程序，包括：查找器、Safari网络浏览器、iCal、地址簿或者其他的一些程序。它还能和一些第三方的程序一起工作，如微软的Office、Adobe公司的Photoshop或者Pixelmator等。Automator第一次发布是在Mac
+X系统开发的一款软件。只要通过点击拖拽鼠标等操作就可以将一系列动作组合成一个工作流程，从而帮助你自动的（可重复的）完成一些复杂的工作。Automator还能横跨很多不同种类的程序，包括：访达（Finder）、Safari网络浏览器、iCal、地址簿或者其他的一些程序。它还能和一些第三方的程序一起工作，如微软的Office、Adobe公司的[Photoshop或者](https://zh.wikipedia.org/wiki/Photoshop "wikilink")[Pixelmator等](../Page/Pixelmator.md "wikilink")。Automator第一次发布是在Mac
 OS X Tiger（10.4）系统。
 
 ## 接口

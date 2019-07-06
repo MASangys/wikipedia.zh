@@ -1,4 +1,4 @@
-**JOO**（；），本名為**鄭慜珠**（）改名為**鄭아린**(鄭雅璘)（），[韓國女歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")，第一張單曲為“少女”。她的親弟弟為[Cube娛樂旗下男團](../Page/Cube娛樂.md "wikilink")[BTOB成員](../Page/BTOB.md "wikilink")[鄭鎰勳](../Page/鄭鎰勳.md "wikilink")。2015年一月結束與經紀公司[JYP娛樂的七年合約](../Page/JYP娛樂.md "wikilink")，並不再續約\[1\]，於同年加入[Woollim
+**JOO**（；），本名為**鄭慜珠**（）改名為**鄭아린**(鄭雅璘)（），[韓國女歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")，第一張單曲為“少女”。她的親弟弟為[Cube娛樂旗下男團](../Page/Cube娛樂.md "wikilink")[BTOB成員](../Page/BTOB.md "wikilink")[鄭鎰勳](../Page/鄭鎰勳.md "wikilink")。2015年一月結束與經紀公司[JYP娛樂的七年合約](../Page/JYP娛樂.md "wikilink")，並不再續約，於同年加入[Woollim
 Entertainment](https://zh.wikipedia.org/wiki/Woollim_Entertainment "wikilink")。
 
 ## 簡歷
@@ -22,7 +22,7 @@ Entertainment](https://zh.wikipedia.org/wiki/Woollim_Entertainment "wikilink")�
   - 2017年 參加KBS選秀節目「[The
     Unit](../Page/The_Unit.md "wikilink")」，於第11集被淘汰，最終排名33名。
   - 2019年 5月4日
-    與同齡的圈外男友步入婚姻，並舉行非公開婚禮。[BTOB擔任伴郎並為其演唱祝歌](../Page/BTOB.md "wikilink")。\[2\]
+    與同齡的圈外男友步入婚姻，並舉行非公開婚禮。[BTOB擔任伴郎並為其演唱祝歌](../Page/BTOB.md "wikilink")。\[1\]
 
 ## 音樂
 
@@ -173,7 +173,4 @@ Entertainment](https://zh.wikipedia.org/wiki/Woollim_Entertainment "wikilink")�
 [Category:鄭姓](https://zh.wikipedia.org/wiki/Category:鄭姓 "wikilink")
 [Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink")
 
-1.  [JOO結束七年合約
-    將退出JYP](http://cn.allthatstar.com/zh-hant/joo%E7%B5%90%E6%9D%9F%E4%B8%83%E5%B9%B4%E5%90%88%E7%B4%84-%E5%B0%87%E9%80%80%E5%87%BAjyp/)全星網.
-    2015-01-20
-2.
+1.

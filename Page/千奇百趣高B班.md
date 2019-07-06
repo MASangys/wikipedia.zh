@@ -222,13 +222,13 @@
 <td><p>12</p></td>
 <td><p>6月2日</p></td>
 <td><p><a href="../Page/敖嘉年.md" title="wikilink">敖嘉年</a>、<a href="../Page/何傲芝.md" title="wikilink">何傲芝</a><br />
-<a href="https://zh.wikipedia.org/wiki/江若琳" title="wikilink">江若琳</a>、<a href="https://zh.wikipedia.org/wiki/梁烈唯" title="wikilink">梁烈唯</a><br />
+<a href="../Page/江若琳.md" title="wikilink">江若琳</a>、<a href="https://zh.wikipedia.org/wiki/梁烈唯" title="wikilink">梁烈唯</a><br />
 <a href="../Page/李璧琦.md" title="wikilink">李璧琦</a>、<a href="../Page/陳智燊.md" title="wikilink">陳智燊</a></p></td>
 <td><p>北極熊捉企鵝(朦眼扑目標)</p></td>
 <td><p>0<br />
 -40<br />
 80</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/江若琳" title="wikilink">江若琳</a></p></td>
+<td><p><a href="../Page/江若琳.md" title="wikilink">江若琳</a></p></td>
 <td><p>沖沖涼 食食麵（30）<br />
 路宿街頭電視機（30）</p></td>
 </tr>

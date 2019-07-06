@@ -1,7 +1,7 @@
 **中華電信多媒體內容傳輸平台**（簡稱**中華電信MOD**；；Multimedia On Demand of Chunghwa
 Telecom），是[中華電信推出的一種](https://zh.wikipedia.org/wiki/中華電信 "wikilink")[隨選視訊的](../Page/隨選視訊.md "wikilink")[多媒體平台](https://zh.wikipedia.org/wiki/多媒體 "wikilink")（[IPTV服務](../Page/IPTV.md "wikilink")），開台時名稱為**中華電信大電視**。該服務是透過雙向的[寬頻網路將各種影音資訊傳至](../Page/寬頻.md "wikilink")[機上盒](https://zh.wikipedia.org/wiki/機上盒 "wikilink")，再呈現在電視機上。目前提供207個頻道（包含[高畫質電視頻道](https://zh.wikipedia.org/wiki/高畫質電視 "wikilink")180個以上）\[1\]。2019年起可自行組合頻道，增進用戶多元選擇\[2\]。
 
-目前中華電信MOD的適用法律是《電信法》與《固定通-{}-信業務管理規則》，故中華電信MOD不適用《[有線廣播電視法](https://zh.wikipedia.org/wiki/有線廣播電視法 "wikilink")》有關台灣[地面電視五大台](../Page/地面電視.md "wikilink")（[台視](https://zh.wikipedia.org/wiki/台視 "wikilink")、[中視](https://zh.wikipedia.org/wiki/中視 "wikilink")、[華視](https://zh.wikipedia.org/wiki/華視 "wikilink")、[民視](../Page/民間全民電視公司.md "wikilink")、[公視](https://zh.wikipedia.org/wiki/公共電視文化事業基金會 "wikilink")）節目[強制授權的規定](https://zh.wikipedia.org/wiki/強制授權 "wikilink")；2009年上半年起至今的中華電信MOD蓋台事件，即與此有關\[3\]。
+目前中華電信MOD的適用法律是《電信法》與《固定通-{}-信業務管理規則》，故中華電信MOD不適用《[有線廣播電視法](https://zh.wikipedia.org/wiki/有線廣播電視法 "wikilink")》有關台灣[地面電視五大台](../Page/地面電視.md "wikilink")（[台視](https://zh.wikipedia.org/wiki/台視 "wikilink")、[中視](https://zh.wikipedia.org/wiki/中視 "wikilink")、[華視](https://zh.wikipedia.org/wiki/華視 "wikilink")、[民視](../Page/民間全民電視公司.md "wikilink")、[公視](../Page/公共電視文化事業基金會.md "wikilink")）節目[強制授權的規定](https://zh.wikipedia.org/wiki/強制授權 "wikilink")；2009年上半年起至今的中華電信MOD蓋台事件，即與此有關\[3\]。
 
 ## 概要
 

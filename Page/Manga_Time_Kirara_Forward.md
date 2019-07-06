@@ -61,6 +61,8 @@ Kirara](../Page/Manga_Time_Kirara.md "wikilink")》的內容。
   - [摇曳露营△](https://zh.wikipedia.org/wiki/摇曳露营△ "wikilink") -
     2018年1月-3月播放
   - [遥的接球](https://zh.wikipedia.org/wiki/遥的接球 "wikilink") - 2018年7月-9月播放
+  - [球詠](https://zh.wikipedia.org/wiki/球詠 "wikilink") -
+    2019年8月號公布動畫化消息，播放時期未定。
 
 ### Motion Comic化作品
 

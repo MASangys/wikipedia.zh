@@ -19,7 +19,7 @@ BusyBox的網站上可以找到所有功能的列表。\[8\]
 
 ### 單一可執行檔
 
-典型的電腦程式對每個應用程式都有個別的[二進制](https://zh.wikipedia.org/wiki/二進制檔案 "wikilink")（[執行檔](https://zh.wikipedia.org/wiki/執行檔 "wikilink")）檔案。BusyBox
+典型的電腦程式對每個應用程式都有個別的[二進制](https://zh.wikipedia.org/wiki/二進制檔案 "wikilink")（[執行檔](../Page/執行檔.md "wikilink")）檔案。BusyBox
 是一單一二進制程式，這是許多應用程式的集合，在適當參數的特定方法下，每個都可透過以不同的名稱（每個不同的名字藉由[符号链接或](../Page/符号链接.md "wikilink")支援\[9\]）呼叫單一
 BusyBox 二進制程式來存取。
 

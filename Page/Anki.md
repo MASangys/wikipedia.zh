@@ -11,6 +11,14 @@ Anki英文文档:<https://apps.ankiweb.net/docs/manual.html>
 
 Anki中文用户手册:<http://www.ankichina.net/anki20.html>
 
+### 附加元件
+
+用於電腦版
+
+| **元件代碼**   | **功能**            |
+| ---------- | ----------------- |
+| 1496166067 | 將 Anki 使用環境變為黑底白字 |
+
 ### 夜間模式
 
 Anki也支援黑底白字的卡片夜間模式

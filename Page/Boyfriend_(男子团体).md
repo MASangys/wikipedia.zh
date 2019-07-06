@@ -1,5 +1,5 @@
 **BOYFRIEND**（，），為[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子團體](https://zh.wikipedia.org/wiki/男子團體 "wikilink")，於2011年5月24日在[Mnet節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M\!Pick](https://zh.wikipedia.org/wiki/M!Pick "wikilink")》首次亮相，並於同年5月26日在《[M\!
-Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》正式出道。團體由[東玄](https://zh.wikipedia.org/wiki/金東玄 "wikilink")、賢星、正珉、榮旻、光旻以及珉玗六位成員所組成，所屬公司為[STARSHIP娱乐](../Page/STARSHIP娛樂.md "wikilink")。
+Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》正式出道。團體由[東玄](../Page/金東玄.md "wikilink")、賢星、正珉、榮旻、光旻以及珉玗六位成員所組成，所屬公司為[STARSHIP娱乐](../Page/STARSHIP娛樂.md "wikilink")。
 \[1\]No Yun Ho跟TNT雖是原先公佈的成員之一，但在出道前成員更換成賢星和正珉。
 
 Boyfriend的韓國歌迷名稱為Best friend（）。
@@ -14,7 +14,7 @@ friend，但不常使用。**
 
 ### 出道前
 
-2010年，[東玄](https://zh.wikipedia.org/wiki/金東玄 "wikilink")、[榮旻](https://zh.wikipedia.org/wiki/榮旻 "wikilink")、[光旻出演SISTAR](https://zh.wikipedia.org/wiki/光旻 "wikilink")《Push
+2010年，[東玄](../Page/金東玄.md "wikilink")、[榮旻](https://zh.wikipedia.org/wiki/榮旻 "wikilink")、[光旻出演SISTAR](https://zh.wikipedia.org/wiki/光旻 "wikilink")《Push
 Push》MV。原先公佈的成員之一卢允浩跟TNT，变更为賢星和正珉。
 
 ### 2011年：首张單曲《Boyfriend》、韩国出道
@@ -71,16 +71,16 @@ Debut 7th Anniversary Fan Meeting \[Time Capsule\] - 並肩走來的七枚足跡
 
 ### 现任成员
 
-| 已離開成員                                              |
-| -------------------------------------------------- |
-| 藝名                                                 |
-| 漢字                                                 |
-| [東玄](https://zh.wikipedia.org/wiki/金東玄 "wikilink") |
-| 賢星                                                 |
-| 正珉                                                 |
-| 榮旻                                                 |
-| 光旻                                                 |
-| 珉玗                                                 |
+| 已離開成員                           |
+| ------------------------------- |
+| 藝名                              |
+| 漢字                              |
+| [東玄](../Page/金東玄.md "wikilink") |
+| 賢星                              |
+| 正珉                              |
+| 榮旻                              |
+| 光旻                              |
+| 珉玗                              |
 
 ### 出道前预备成员
 
@@ -101,7 +101,7 @@ Debut 7th Anniversary Fan Meeting \[Time Capsule\] - 並肩走來的七枚足跡
 | 2006年                                                       | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | [不可阻擋的High Kick！](../Page/不可阻擋的High_Kick！.md "wikilink")                                                                                              | [榮旻](https://zh.wikipedia.org/wiki/榮旻 "wikilink")                                                   | 李允豪(幼年)                    |
 | 2007年                                                       | [SBS](../Page/SBS_\(韓國\).md "wikilink")             | Ghost Pang Pang                                                                                                                                       | [珉玗](https://zh.wikipedia.org/wiki/珉玗 "wikilink")                                                   | KIM CHUL DOO               |
 | 2008年                                                       | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | Wife and woman                                                                                                                                        | KWON SEUNG IL                                                                                       |                            |
-| [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")         | Elephant                                            | [东玄](https://zh.wikipedia.org/wiki/金東玄 "wikilink")                                                                                                    | 客串                                                                                                  |                            |
+| [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")         | Elephant                                            | [东玄](../Page/金東玄.md "wikilink")                                                                                                                       | 客串                                                                                                  |                            |
 | 2011年                                                       | [全部我的愛](../Page/金枝玉葉向錢衝.md "wikilink")              | [榮旻](https://zh.wikipedia.org/wiki/榮旻 "wikilink")、[光旻](https://zh.wikipedia.org/wiki/光旻 "wikilink")、[珉玗](https://zh.wikipedia.org/wiki/珉玗 "wikilink") |                                                                                                     |                            |
 | 2014年                                                       | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | 魔法千字文                                                                                                                                                 | [光旻](https://zh.wikipedia.org/wiki/光旻 "wikilink")                                                   | 李朗                         |
 | 2015年                                                       | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | [不善良的女人們](https://zh.wikipedia.org/wiki/不善良的女人們 "wikilink")                                                                                           | 全體                                                                                                  | 偶像                         |
@@ -120,18 +120,18 @@ Debut 7th Anniversary Fan Meeting \[Time Capsule\] - 並肩走來的七枚足跡
 
 ### 音樂劇
 
-|       |                    |                                                    |       |
-| ----- | ------------------ | -------------------------------------------------- | ----- |
-| 年份    | 劇名                 | 參演成員                                               | 角色    |
-| 2013年 | 第一千個男人             | [東玄](https://zh.wikipedia.org/wiki/金東玄 "wikilink") | 恩碩    |
-| 2015年 | 小伙子蔬菜店             | 崔允珉                                                |       |
-| 2015年 | 兄弟是勇敢的             | 朱峰                                                 |       |
-| 2015年 | 共同警備區域JSA          | 賢星                                                 | 金秀赫   |
-| 2016年 | PESTE              | 正珉                                                 | GRAND |
-| 2016年 | ROMEO & JULIET     | [東玄](https://zh.wikipedia.org/wiki/金東玄 "wikilink") | ROMEO |
-| 2017年 | My Bucket List     | 崔江九                                                |       |
-| 2017年 | 偉大的蓋茲比(The Catsby) | 賢星                                                 | 夏雲斗   |
-| 2018年 | 辛酉戀歌               | 正珉                                                 |       |
+|       |                    |                                 |       |
+| ----- | ------------------ | ------------------------------- | ----- |
+| 年份    | 劇名                 | 參演成員                            | 角色    |
+| 2013年 | 第一千個男人             | [東玄](../Page/金東玄.md "wikilink") | 恩碩    |
+| 2015年 | 小伙子蔬菜店             | 崔允珉                             |       |
+| 2015年 | 兄弟是勇敢的             | 朱峰                              |       |
+| 2015年 | 共同警備區域JSA          | 賢星                              | 金秀赫   |
+| 2016年 | PESTE              | 正珉                              | GRAND |
+| 2016年 | ROMEO & JULIET     | [東玄](../Page/金東玄.md "wikilink") | ROMEO |
+| 2017年 | My Bucket List     | 崔江九                             |       |
+| 2017年 | 偉大的蓋茲比(The Catsby) | 賢星                              | 夏雲斗   |
+| 2018年 | 辛酉戀歌               | 正珉                              |       |
 
 ### 舞台劇
 
@@ -143,13 +143,13 @@ Debut 7th Anniversary Fan Meeting \[Time Capsule\] - 並肩走來的七枚足跡
 
 ### 網路劇
 
-|       |             |                                                    |     |    |
-| ----- | ----------- | -------------------------------------------------- | --- | -- |
-| 年份    | 劇名          | 參演成員                                               | 角色  | 性質 |
-| 2015年 | 1km他與我的距離   | [東玄](https://zh.wikipedia.org/wiki/金東玄 "wikilink") | 朴載宇 | 主演 |
-| 2016年 | 奇蹟          | 潘海星                                                | 主演  |    |
-| 2017年 | 早安雙層巴士      | 鄭東玄                                                | 主演  |    |
-| 2018年 | 有品位女兵的施工浪漫史 | 金秀炫                                                | 主演  |    |
+|       |             |                                 |     |    |
+| ----- | ----------- | ------------------------------- | --- | -- |
+| 年份    | 劇名          | 參演成員                            | 角色  | 性質 |
+| 2015年 | 1km他與我的距離   | [東玄](../Page/金東玄.md "wikilink") | 朴載宇 | 主演 |
+| 2016年 | 奇蹟          | 潘海星                             | 主演  |    |
+| 2017年 | 早安雙層巴士      | 鄭東玄                             | 主演  |    |
+| 2018年 | 有品位女兵的施工浪漫史 | 金秀炫                             | 主演  |    |
 
 ### 寫真集
 

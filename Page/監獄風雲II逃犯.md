@@ -31,7 +31,7 @@
 | [馮國輝](https://zh.wikipedia.org/wiki/馮國輝 "wikilink")    | 骷髏頭（粵語配音：[張炳強](../Page/張炳強.md "wikilink")）                  |
 | [羅樹祺](https://zh.wikipedia.org/wiki/羅樹祺 "wikilink")    | 高級監督                                                        |
 | [伍國健](https://zh.wikipedia.org/wiki/伍國健 "wikilink")    | 強哥（粵語配音：[陳欣](https://zh.wikipedia.org/wiki/陳欣 "wikilink")）  |
-| [張耀揚](../Page/張耀揚.md "wikilink")（客串）                   | 殺手雄，懲教主任（粵語配音：[梁政平](../Page/梁政平.md "wikilink")）             |
+| [張耀揚](../Page/張耀揚.md "wikilink")（客串）                   | 鬼見愁 ，懲教主任（粵語配音：[梁政平](../Page/梁政平.md "wikilink")）            |
 
 ## 外部連結
 

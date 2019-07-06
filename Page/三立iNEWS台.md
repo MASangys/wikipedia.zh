@@ -78,6 +78,7 @@
   - [李昕芸](https://zh.wikipedia.org/wiki/李昕芸 "wikilink")（現為[三立新聞台主播](../Page/三立新聞台.md "wikilink")）
   - [蔡韋葶](https://zh.wikipedia.org/wiki/蔡韋葶 "wikilink")
   - [陳儀潔](https://zh.wikipedia.org/wiki/陳儀潔 "wikilink")
+  - [陳書賢](https://zh.wikipedia.org/wiki/陳書賢 "wikilink")
 
 ## 已停播節目
 

@@ -80,7 +80,7 @@ KSG同時出現在不少[电影](../Page/电影.md "wikilink")、[电视剧](../
     zh-hk:國定殺戮日：全民瘋殺;}-](../Page/國定殺戮日：無法無天.md "wikilink")》（The
     Purge: Anarchy）：裝上[紅點鏡](../Page/紅點鏡.md "wikilink")，被「老爹」的行刑隊黨羽所使用。
   - 2014年—《[-{zh-cn:疾速追杀; zh-tw:捍衛任務; zh-hk:殺神John
-    Wick;}-](https://zh.wikipedia.org/wiki/捍衛任務 "wikilink")》（John
+    Wick;}-](../Page/捍衛任務.md "wikilink")》（John
     Wick）：裝上，由維果·塔拉索夫的手下所使用，其中一枝被約翰·維克（John
     Wick，[基努·里维斯饰演](../Page/基努·里维斯.md "wikilink")）所奪取。
   - 2015年—《[-{zh-cn:终结者：创世纪; zh-tw:魔鬼終結者：創世契機;
@@ -172,8 +172,7 @@ KSG同時出現在不少[电影](../Page/电影.md "wikilink")、[电视剧](../
   - [標準製造DP12](../Page/標準製造DP12泵動式雙管霰彈槍.md "wikilink")
   - [犢牛式槍械列表](../Page/犢牛式槍械列表.md "wikilink")
   - [GSG-41泵動式霰彈槍](https://zh.wikipedia.org/wiki/GSG-41泵動式霰彈槍 "wikilink")
-  - [Kel-Tec
-    KS7泵動式霰彈槍](https://zh.wikipedia.org/wiki/Kel-Tec_KS7泵動式霰彈槍 "wikilink")
+  - [Kel-Tec KS7泵動式霰彈槍](../Page/Kel-Tec_KS7泵動式霰彈槍.md "wikilink")
   - [Kel-Tec RDB半自動步槍](../Page/Kel-Tec_RDB半自動步槍.md "wikilink")
   - [Kel-Tec RFB半自動步槍](../Page/Kel-Tec_RFB半自動步槍.md "wikilink")
 

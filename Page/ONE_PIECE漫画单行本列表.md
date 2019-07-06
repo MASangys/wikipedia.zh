@@ -659,16 +659,16 @@ PIECE》。以下仅记录13位[ISBN序号](https://zh.wikipedia.org/wiki/ISBN "
 <tr class="even">
 <td><p>92</p></td>
 <td></td>
-<td><p>922-929</p></td>
+<td><p>922-931</p></td>
 <td><p>2019年3月4日</p></td>
 <td><p>ISBN 978-4-08-881758-3</p></td>
 </tr>
 <tr class="odd">
+<td><p>93</p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>932-942</p></td>
+<td><p>2019年7月4日</p></td>
+<td><p>ISBN 978-4-08-881877-1</p></td>
 </tr>
 </tbody>
 </table>

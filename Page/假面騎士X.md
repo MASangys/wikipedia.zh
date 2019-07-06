@@ -122,8 +122,7 @@ of Darkness）的缩写。
     Hilter）
   - クモナポレオン/[拿破仑](https://zh.wikipedia.org/wiki/拿破仑 "wikilink")（Spider
     Napoleon）
-  - カメレオンファントマ/[方托馬](https://zh.wikipedia.org/wiki/:en:Fantômas "wikilink")（Chameleon
-    Phantom）
+  - カメレオンファントマ/（Chameleon Phantom）
   - ヒルドラキュラ/[德拉库拉](../Page/弗拉德三世.md "wikilink")（Leech Dracula）
   - トカゲバイキング/[维京人](https://zh.wikipedia.org/wiki/维京人 "wikilink")（Lizard
     Viking）

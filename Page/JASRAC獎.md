@@ -276,7 +276,7 @@ ZOOM ZOOM」在2003年度到2008年度六連霸。
   - 銀獎：[Ti
     Amo](https://zh.wikipedia.org/wiki/The_Birthday_～Ti_Amo～ "wikilink")（作詞：[松尾潔](https://zh.wikipedia.org/wiki/松尾潔 "wikilink")；作曲：[松尾潔](https://zh.wikipedia.org/wiki/松尾潔 "wikilink")、[Jin
     Nakamura](https://zh.wikipedia.org/wiki/Jin_Nakamura "wikilink")）
-  - 銅獎：[殘酷天使的行動綱領](https://zh.wikipedia.org/wiki/殘酷天使的行動綱領 "wikilink")（作詞：[及川眠子](https://zh.wikipedia.org/wiki/及川眠子 "wikilink")；作曲：[佐藤英敏](https://zh.wikipedia.org/wiki/佐藤英敏 "wikilink")）
+  - 銅獎：[殘酷天使的行動綱領](https://zh.wikipedia.org/wiki/殘酷天使的行動綱領 "wikilink")（作詞：[及川眠子](../Page/及川眠子.md "wikilink")；作曲：[佐藤英敏](https://zh.wikipedia.org/wiki/佐藤英敏 "wikilink")）
   - 國際獎：[哆啦A夢背景音樂](../Page/哆啦A夢.md "wikilink")（作曲：[菊池俊輔](../Page/菊池俊輔.md "wikilink")）
   - 外國作品獎：ALL YOU NEED IS
     LOVE（作詞、作曲：[約翰·列儂](https://zh.wikipedia.org/wiki/約翰·列儂 "wikilink")、[保羅·麥卡特尼](https://zh.wikipedia.org/wiki/保羅·麥卡特尼 "wikilink")）
@@ -285,7 +285,7 @@ ZOOM ZOOM」在2003年度到2008年度六連霸。
 
 #### 2010年
 
-  - 金獎：[殘酷天使的行動綱領](https://zh.wikipedia.org/wiki/殘酷天使的行動綱領 "wikilink")（作詞：[及川眠子](https://zh.wikipedia.org/wiki/及川眠子 "wikilink")；作曲：[佐藤英敏](https://zh.wikipedia.org/wiki/佐藤英敏 "wikilink")）
+  - 金獎：[殘酷天使的行動綱領](https://zh.wikipedia.org/wiki/殘酷天使的行動綱領 "wikilink")（作詞：[及川眠子](../Page/及川眠子.md "wikilink")；作曲：[佐藤英敏](https://zh.wikipedia.org/wiki/佐藤英敏 "wikilink")）
   - 銀獎：[Butterfly](../Page/Butterfly_\(木村KAELA單曲\).md "wikilink")（作詞：[木村KAELA](../Page/木村KAELA.md "wikilink")；作曲：[末光篤](https://zh.wikipedia.org/wiki/末光篤 "wikilink")）
   - 銅獎：[再次愛上你](https://zh.wikipedia.org/wiki/再次愛上你 "wikilink")（作詞：[松井五郎](https://zh.wikipedia.org/wiki/松井五郎 "wikilink")；作曲：[森正明](../Page/森正明.md "wikilink")）
   - 國際獎：[奇妙家庭變形豆劇中音樂](../Page/奇妙家庭變形豆.md "wikilink")（作曲：[神尾憲一](https://zh.wikipedia.org/wiki/神尾憲一 "wikilink")）

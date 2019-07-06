@@ -1,4 +1,4 @@
-**Faylan**（旧称****，，），[日本的](../Page/日本.md "wikilink")[女性](../Page/女性.md "wikilink")[歌手](../Page/歌手.md "wikilink")、[音樂家](https://zh.wikipedia.org/wiki/音樂家 "wikilink")。[日本](../Page/日本.md "wikilink")[埼玉縣出身](../Page/埼玉縣.md "wikilink")。[血型A型](https://zh.wikipedia.org/wiki/血型 "wikilink")。[Lantis所屬](../Page/Lantis.md "wikilink")。
+**Faylan**（旧称****，，），[日本的](../Page/日本.md "wikilink")[女性](../Page/女性.md "wikilink")[歌手](../Page/歌手.md "wikilink")、[音樂家](https://zh.wikipedia.org/wiki/音樂家 "wikilink")。[日本](../Page/日本.md "wikilink")[埼玉縣出身](../Page/埼玉縣.md "wikilink")。[Lantis所屬](../Page/Lantis.md "wikilink")。
 
 ## 人物经历
 
@@ -10,7 +10,7 @@ Faylan之前所用的艺名“”由[上松範康所取](../Page/上松範康.md
 
 2015年9月1日，Faylan将艺名由之前的****改为**Faylan**\[3\]。
 
-Faylan於2016年1月27日在官方網站上，發表了自己因[自體免疫性疾病將長期休養的消息](../Page/自體免疫性疾病.md "wikilink")，所以未來所有相關工作都將暫時停止。同年9月2日，Faylan在官方網站上称自己經過休養，已經順利回復，並且開始回歸工作，首次復出則是在10月29日在新潟舉行的「-{がたふぇす2016中夜祭}-」。
+Faylan於2016年1月27日在官方網站上，發表了自己因[自體免疫性疾病將長期休養的消息](../Page/自體免疫性疾病.md "wikilink")，所以未來所有相關工作都將暫時停止。同年9月2日，Faylan在官方網站上称自己經過休養，已經順利回復，並且開始回歸工作。
 
 ## 音乐作品
 

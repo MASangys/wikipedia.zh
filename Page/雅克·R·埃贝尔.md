@@ -78,7 +78,7 @@ couvent de la Conception)”的修女。
 7月13日，雅各賓領導人之一的[讓-保爾·馬拉被同情吉倫特派的](https://zh.wikipedia.org/wiki/讓-保爾·馬拉 "wikilink")[夏綠蒂·科黛刺殺身亡](https://zh.wikipedia.org/wiki/夏綠蒂·科黛 "wikilink")，[新聞從業員以他們煽動性的](https://zh.wikipedia.org/wiki/新聞從業員 "wikilink")[修辭渲染](https://zh.wikipedia.org/wiki/修辭學 "wikilink")，使雅各賓派的政治影響力進一步增強。\[6\][喬治·雅克·丹敦](https://zh.wikipedia.org/wiki/喬治·雅克·丹敦 "wikilink")，[八月十日事件的領導人](../Page/八月十日事件.md "wikilink")，暴力對抗[國王](https://zh.wikipedia.org/wiki/國王 "wikilink")，從[公共安全委員會](https://zh.wikipedia.org/wiki/公共安全委員會 "wikilink")
 中被排除。
 7月27日，被譽為“廉潔”的[馬克西米連·羅伯斯庇爾](https://zh.wikipedia.org/wiki/馬克西米連·羅伯斯庇爾 "wikilink")，得以加入，並迅速成為委員會裡最有影響力的成員，委員會也轉變為對國內外反革命的敵人採取激進的措施。\[7\]於此同時，
-6月24日，[國民公會修編完成第一部共和憲法](https://zh.wikipedia.org/wiki/國民公會 "wikilink")，。它經由[公民投票認可批准](../Page/公民投票.md "wikilink")，但從未付諸實施;
+6月24日，[國民公會修編完成第一部共和憲法](https://zh.wikipedia.org/wiki/國民公會 "wikilink")，[法蘭西1793年憲法](https://zh.wikipedia.org/wiki/法蘭西1793年憲法 "wikilink")。它經由[公民投票認可批准](../Page/公民投票.md "wikilink")，但從未付諸實施;
 像其他的法律，它被10月的法令無限期中止，現時法蘭西政府是“革命性的，直到得到和平”。
 最終[督政府的憲法是完全不同的](../Page/督政府.md "wikilink")。
 

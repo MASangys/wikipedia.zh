@@ -1,6 +1,6 @@
 [JAPS_QUIT.jpg](https://zh.wikipedia.org/wiki/File:JAPS_QUIT.jpg "fig:JAPS_QUIT.jpg")高舉「JAPS
 QUIT（小日本投降了）」[號外的](https://zh.wikipedia.org/wiki/號外 "wikilink")[美軍士兵](https://zh.wikipedia.org/wiki/美軍 "wikilink")\]\]
-[Anti-Japan2.png](https://zh.wikipedia.org/wiki/File:Anti-Japan2.png "fig:Anti-Japan2.png")暴行及美國報紙有關此事報道的反日宣傳畫，上面的宣傳文字為「**關於這件事你打算怎麼做？堅守崗位直到所有小日本殺人兇手被徹底消滅！**」，其中用到了Jap一詞\]\]
+[Anti-Japan2.png](https://zh.wikipedia.org/wiki/File:Anti-Japan2.png "fig:Anti-Japan2.png")暴行及美國報紙有關此事報道的反日宣傳畫，報道的標題為「**5200名美軍戰俘在菲律賓死於小日本嚴刑拷打；殘酷的『死亡行軍』被描述**」，而上面的宣傳文字為「**關於這件事你打算怎麼做？堅守崗位直到所有小日本殺人兇手被徹底消滅！**」，兩者均用到了Jap一詞\]\]
 
 **Jap**為[英文中对Japanese的略稱](https://zh.wikipedia.org/wiki/英文 "wikilink")，泛指[日本人](../Page/日本人.md "wikilink")、[日本語及](https://zh.wikipedia.org/wiki/日本語 "wikilink")[日本國等](https://zh.wikipedia.org/wiki/日本國 "wikilink")，當今這個詞在某些情況下會視為帶有種族歧視的意涵，[日裔美國人認為這是帶有爭議或冒犯的術語](../Page/日裔美國人.md "wikilink")，即使是被用作[縮寫亦是如此](../Page/縮寫.md "wikilink")\[1\]。
 

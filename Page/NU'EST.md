@@ -384,10 +384,10 @@ One\#廣告代言](https://zh.wikipedia.org/wiki/Wanna_One#.E5.BB.A3.E5.91.8A.E4
 | 2018年第1季              | JILLSTUART SPORT                     | PLAY YOUTH LIFE             |                |
 | 2018年10月              | Spoonz                               | 合作單曲及MV                     |                |
 | 2018年11月-             | NeNe炸雞                               | 與SEVENTEEN共同代言 2018年11月電視廣告 |                |
-| 2018年12月-             | SUGARLOLO 슈가로로                       |                             |                |
-| 2018年12月-2019年6月      | CHC                                  |                             |                |
+| 2018年12月-2019年6月      | SUGARLOLO 슈가로로                       |                             |                |
+| CHC                   |                                      |                             |                |
 | 2019年3月-              | HANG TEN                             | 全體                          | 韓國區全品牌代言       |
-| 2019年4月-              | Spoonz                               |                             |                |
+| 2019年4月-              | Spoonz                               | NU'EST版合作單曲                 |                |
 
 ### 宣傳大使
 
@@ -754,6 +754,12 @@ One\#廣告代言](https://zh.wikipedia.org/wiki/Wanna_One#.E5.BB.A3.E5.91.8A.E4
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/Happily_Ever_After.md" title="wikilink">Happily Ever After</a></p></td>
+</tr>
+<tr class="even">
+<td><p>BET BET</p></td>
+</tr>
+<tr class="odd">
+<td><p>Segno</p></td>
 </tr>
 <tr class="even">
 <td><ul>

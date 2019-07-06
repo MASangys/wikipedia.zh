@@ -74,6 +74,36 @@ Tracteur）”的衍生型号共制造了数百台，许多保存至今的半履
 2时常出现在各种二战题材的电影电视剧中，其中最为出名的出镜当属1998年[斯蒂芬·斯皮尔伯格导演](../Page/斯蒂芬·斯皮尔伯格.md "wikilink")、[湯姆·汉克斯主演的美国电影](../Page/汤姆·汉克斯.md "wikilink")《[拯救大兵瑞恩](https://zh.wikipedia.org/wiki/拯救大兵瑞恩 "wikilink")》。剧中美军以半履带摩托为诱饵，引诱德军进入埋伏圈，其表现出的高超机动性给许多观众留下了深刻印象\[22\]。受此启发，日本漫画家在其2014年的[末日幻想题材作品](../Page/末日幻想.md "wikilink")《[少女終末旅行](../Page/少女終末旅行.md "wikilink")》中，也将SdKfz
 2作为主角千都和优梨的主要交通工具\[23\]。
 
+### 登場作品一覽
+
+#### 电影
+
+  - [拯救大兵瑞恩](https://zh.wikipedia.org/wiki/拯救大兵瑞恩 "wikilink")
+
+#### 特攝
+
+  - [幪面超人W](https://zh.wikipedia.org/wiki/幪面超人W "wikilink")
+
+#### 動漫
+
+  -
+  - [少女終末旅行](../Page/少女終末旅行.md "wikilink")
+
+  - [噬血狂襲](../Page/噬血狂襲.md "wikilink")
+
+  - [南瓜剪刀](../Page/南瓜剪刀.md "wikilink")
+
+  -
+#### 遊戲
+
+  - [使命召喚：尖峰時刻](https://zh.wikipedia.org/wiki/決勝時刻系列#相關遊戲 "wikilink")
+  - [戰地風雲1942](../Page/戰地風雲1942.md "wikilink")
+  - [戰地風雲5](https://zh.wikipedia.org/wiki/戰地風雲5 "wikilink")
+
+#### 電視節目
+
+  - （2012年3月23日播出）
+
 ## 参考资料
 
 ## 延伸阅读

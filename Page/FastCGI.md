@@ -14,7 +14,7 @@ CGI使外部程式與Web伺服器之間交互成為可能。CGI程式運行在�
 connection（FastCGI进程在远端的[server
 farm](https://zh.wikipedia.org/wiki/server_farm "wikilink")）传递给FastCGI进程。
 
-## 使用FastCGI的網頁伺服器
+## \-{zh:实现;zh-hans:实现;zh-hant:實作;}-FastCGI的網頁伺服器
 
   - [Apache HTTP Server](../Page/Apache_HTTP_Server.md "wikilink")
     *(部分)*
