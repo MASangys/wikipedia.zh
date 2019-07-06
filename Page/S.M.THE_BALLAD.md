@@ -1,5 +1,5 @@
 **S.M. THE BALLAD**（），是韓國經紀公司[SM
-Entertainment於](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")2010年成立的限定企劃組合。第一代成員由、[圭賢](../Page/圭賢.md "wikilink")、[鐘鉉及](https://zh.wikipedia.org/wiki/金鐘鉉_\(歌手\) "wikilink")[JINO所組成](../Page/趙珍虎.md "wikilink")，首張迷你專輯《S.M.
+Entertainment於](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")2010年成立的[限定企劃組合](https://zh.wikipedia.org/wiki/限定企劃組合 "wikilink")。第一代成員由、[圭賢](../Page/圭賢.md "wikilink")、[鐘鉉及](https://zh.wikipedia.org/wiki/金鐘鉉_\(歌手\) "wikilink")[JINO所組成](../Page/趙珍虎.md "wikilink")，首張迷你專輯《S.M.
 THE BALLAD Vol.1–Miss You》於2010年11月29日發售。
 
 2014年2月4日，[SM
