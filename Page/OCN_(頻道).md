@@ -143,20 +143,20 @@ E\&M旗下的一個有線電視頻道。
 </tr>
 <tr class="odd">
 <td><p>5</p></td>
+<td><p><a href="../Page/Voice3.md" title="wikilink">Voice3</a></p></td>
+<td><p>16</p></td>
+<td><p>5.517%</p></td>
+<td></td>
+<td><p>2019/06/30</p></td>
+<td><p>週末</p></td>
+</tr>
+<tr class="even">
+<td><p>6</p></td>
 <td><p><a href="../Page/Voice_(韓國電視劇).md" title="wikilink">Voice</a></p></td>
 <td><p>3</p></td>
 <td><p>5.406%</p></td>
 <td></td>
 <td><p>2017/01/21</p></td>
-<td><p>週末</p></td>
-</tr>
-<tr class="even">
-<td><p>6</p></td>
-<td><p><a href="../Page/Voice3.md" title="wikilink">Voice3</a></p></td>
-<td><p>6</p></td>
-<td><p>5.357%</p></td>
-<td></td>
-<td><p>2019/05/26</p></td>
 <td><p>週末</p></td>
 </tr>
 <tr class="odd">

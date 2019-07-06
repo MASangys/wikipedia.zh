@@ -2,12 +2,12 @@
 Systems开发](../Page/Intelligent_Systems.md "wikilink")，任天堂于2001年在[Game
 Boy
 Advance发行的](../Page/Game_Boy_Advance.md "wikilink")[卡丁车](https://zh.wikipedia.org/wiki/卡丁车 "wikilink")[竞速游戏](https://zh.wikipedia.org/wiki/竞速游戏 "wikilink")。这是[马里奥赛车系列的第三作](https://zh.wikipedia.org/wiki/马里奥赛车系列 "wikilink")，也是系列首部[掌上游戏机作品](https://zh.wikipedia.org/wiki/掌上游戏机 "wikilink")。游戏前作为1996年[任天堂64上的](../Page/任天堂64.md "wikilink")《[马里奥赛车64](../Page/马里奥赛车64.md "wikilink")》，续作为2003年[任天堂GameCube作品](../Page/任天堂GameCube.md "wikilink")《[马里奥赛车
-双重冲击！！](../Page/马里奥赛车_双重冲击！！.md "wikilink")》。游戏继承了前作的传统马里奥赛车要素，发行后获得舆论好评。
+双重冲击！！](../Page/马里奥赛车_双重冲击！！.md "wikilink")》。游戏继承前作的传统马里奥赛车要素，发行后获得舆论好评。
 
 游戏2011年于[任天堂3DS](../Page/任天堂3DS.md "wikilink") [Virtual
 Console大使计划再版](../Page/Virtual_Console.md "wikilink")，2014年于北美[Wii
 U](../Page/Wii_U.md "wikilink") Virtual
-Console再版。本作曾被任天堂在中国大陆的合作伙伴[神游科技进行了中文化并译为](../Page/神游科技.md "wikilink")“**马力欧卡丁车
+Console再版。本作曾被任天堂在中国大陆的合作伙伴[神游科技进行中文化并译为](../Page/神游科技.md "wikilink")“**马力欧卡丁车
 超级赛道**”，但是并没有正式发售。
 
 ## 开发历史

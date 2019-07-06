@@ -4,7 +4,8 @@ In Love**》音源。
 
 團名「UNIQ」結合「UNIQUE (獨特)」以及「UNICORN
 (獨角獸)」的英文單字，期許團體能夠成為樂壇「獨一無二的存在」，並以獨角獸的純潔、高傲，作為團體的精神象徵。官方歌迷名稱亦是「UNICORN（獨角獸）」。團體問候口號是「大家好\!我們是U
-& I，UNIQ\!」\[1\]\[2\]\[3\] 官方應援色是富有浪漫色彩的「星空紫」。\[4\] 官方應援物是「獨角獸紫星應援燈」。
+& I，UNIQ\!」\[1\]\[2\]\[3\] 官方應援色是富有浪漫色彩的「星空紫」。\[4\]
+官方應援物是「獨角獸紫星」應援燈。\[5\]
 
 ## 成員資料
 
@@ -20,7 +21,7 @@ In Love**》音源。
 
 ## 經歷
 
-UNIQ是[樂華娛樂推出的中韓男子團體](https://zh.wikipedia.org/wiki/樂華娛樂 "wikilink")，出道前曾與[YG娛樂合作訓練](../Page/YG娛樂.md "wikilink")，聖柱與承衍原為YG練習生，其後成為UNIQ出道組，各成員練習2至5年不等。\[5\]\[6\]\[7\]
+UNIQ是[樂華娛樂推出的中韓男子團體](https://zh.wikipedia.org/wiki/樂華娛樂 "wikilink")，出道前曾與[YG娛樂合作訓練](../Page/YG娛樂.md "wikilink")，聖柱與承衍原為YG練習生，其後成為UNIQ出道組，各成員練習2至5年不等。\[6\]\[7\]\[8\]
 
 2014年9月15日，公開出道預告。 10月10日，GQ style雜誌個人畫報發布。
 10月16日，組合登陸[韓國節目](https://zh.wikipedia.org/wiki/韓國 "wikilink")《[M\!
@@ -44,6 +45,27 @@ To Fight**》MV首發。
 2018年4月19日，組合第三張數位單曲《不曾離開過》公開。 12月24日，第四張數位單曲《Monster》公開。
 
 ## 音樂作品
+
+### 迷你專輯
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>專輯 #</p></td>
+<td><p>專輯資料</p></td>
+<td><p>曲目</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>1st</strong></p></td>
+<td><p>首張迷你專輯《<strong>EOEO</strong>》</p>
+<ul>
+<li>發行日期：2015年4月24日</li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a>、<a href="https://zh.wikipedia.org/wiki/國語" title="wikilink">國語</a></li>
+</ul></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ### 數位單曲
 
@@ -93,27 +115,6 @@ To Fight**》MV首發。
 </tbody>
 </table>
 
-### 迷你專輯
-
-<table>
-<tbody>
-<tr class="odd">
-<td><p>專輯 #</p></td>
-<td><p>專輯資料</p></td>
-<td><p>曲目</p></td>
-</tr>
-<tr class="even">
-<td><p><strong>1st</strong></p></td>
-<td><p>首張迷你專輯《<strong>EOEO</strong>》</p>
-<ul>
-<li>發行日期：2015年4月24日</li>
-<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a>、<a href="https://zh.wikipedia.org/wiki/國語" title="wikilink">國語</a></li>
-</ul></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
 ### 其他單曲
 
 |             |               |                 |       |                                                                        |
@@ -127,6 +128,36 @@ To Fight**》MV首發。
 | 2017年1月28日  | 新年快乐2017      | Chinese version |       |                                                                        |
 | 2017年8月7日   | 告白情歌          | Chinese version | 與群星合唱 | 《[二次初戀](https://zh.wikipedia.org/wiki/二次初戀 "wikilink")》推廣曲             |
 | 2018年8月3日   | My Special    | Chinese version |       | 網路劇《[我和两个他](../Page/我和两个他.md "wikilink")》片尾曲                           |
+
+### 日語單曲
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>單曲 #</p></td>
+<td><p>單曲資料</p></td>
+<td><p>曲目</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>1st</strong></p></td>
+<td><p>單曲《<strong>Best Friend (Japanese Ver.)</strong>》</p>
+<ul>
+<li>發行日期：2015年11月15日</li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>2nd</strong></p></td>
+<td><p>單曲《<strong>Falling In Love(Japanese Ver.)</strong>》</p>
+<ul>
+<li>發行日期：2016年12月10日</li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
+</ul></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ### 周藝軒作品
 
@@ -208,12 +239,12 @@ To Fight**》MV首發。
 | "Falling In Love"       | English version       | 3:35            |        |       |
 | "Celebrate"             | English version       | 3:17            |        |       |
 | "Celebrate"             | Dance version         | 3:11            |        |       |
-| 2015                    | "EOEO"                | Korean version  | 3:12   | \[8\] |
+| 2015                    | "EOEO"                | Korean version  | 3:12   | \[9\] |
 | "EOEO"                  | Chinese version       | 3:12            |        |       |
 | "EOEO"                  | Dance version         | 3:09            |        |       |
-| "Luv Again"             | Korean version        | 3:42            | \[9\]  |       |
+| "Luv Again"             | Korean version        | 3:42            | \[10\] |       |
 | "Luv Again"             | Chinese version       | 3:42            |        |       |
-| "Best Friend"           | Korean version        | 3:06            | \[10\] |       |
+| "Best Friend"           | Korean version        | 3:06            | \[11\] |       |
 | "Best Friend"           | Chinese version       | 3:06            |        |       |
 | "Erase Your Little Sad" | Chinese version       | 3:38            |        |       |
 | "Happy New Year"        | Chinese version       | 4:05            |        |       |
@@ -248,11 +279,11 @@ To Fight**》MV首發。
 | [優酷網劇](https://zh.wikipedia.org/wiki/優酷 "wikilink")   | 熱血書院                                                          | 李汶翰                                                           | 李璟玉  | 男配角   |       |
 | MBC                                                   | [我身後的陶斯](../Page/我身後的陶斯.md "wikilink")                        | 金聖柱                                                           | 羅斗宇  | 男配角   |       |
 | 2019年                                                 | 芒果TV                                                          | 陪你到世界之巔                                                       | 王一博  | 季向空   | 第一男主角 |
+| [爱奇艺网剧](../Page/爱奇艺.md "wikilink")                    | 追球                                                            | 李汶翰                                                           | 云高洋  | 男配角   |       |
 | 待播                                                    | [樂視網](../Page/乐视网.md "wikilink")                              | [時光之城](https://zh.wikipedia.org/wiki/時光之城_\(電視劇\) "wikilink") | 周藝軒  | 沈欣言   | 男配角   |
 | 腾讯视频                                                  | 陈情令                                                           | 王一博                                                           | 藍忘機  | 第二男主角 |       |
 |                                                       | 私立蜀山学园                                                        | 王一博                                                           | 滕净   | 第一男主角 |       |
-| [爱奇艺网剧](../Page/爱奇艺.md "wikilink")                    | 追球                                                            | 李汶翰                                                           | 云高洋  | 男配角   |       |
-| 拍摄中                                                   |                                                               | 超凡天赋                                                          | 王一博  | 蔚逸晨   | 第一男主角 |
+| 拍摄中                                                   | 超凡天赋                                                          | 王一博                                                           | 蔚逸晨  | 第一男主角 |       |
 |                                                       |                                                               |                                                               |      |       |       |
 
 ### 電影
@@ -278,9 +309,9 @@ To Fight**》MV首發。
 | ------------------------ | --------------------------------------------------- | ------------------ | ---- | --------- |
 | 日期                       | 頻道                                                  | 節目名稱               | 參與成員 | 集數        |
 | 2015年1月5日 - 2015年1月9日    | [MTV](https://zh.wikipedia.org/wiki/MTV "wikilink") | MTV.天籁村            | 全體   | 5         |
-| 2015年2月26日 - 2016年2月5日   | UNIQ Youtube                                        | UNIQ LIFE          | 全體   | 12 \[11\] |
-| 2016年3月21日 - 2016年12月20日 | UNIQ Youtube                                        | ONE TAKE           | 全體   | 28 \[12\] |
-| 2016年11月4日 - 2016年12月16日 | UNIQ Youtube                                        | UNIQ LIFE SEASON 2 | 全體   | 7 \[13\]  |
+| 2015年2月26日 - 2016年2月5日   | UNIQ Youtube                                        | UNIQ LIFE          | 全體   | 12 \[12\] |
+| 2016年3月21日 - 2016年12月20日 | UNIQ Youtube                                        | ONE TAKE           | 全體   | 28 \[13\] |
+| 2016年11月4日 - 2016年12月16日 | UNIQ Youtube                                        | UNIQ LIFE SEASON 2 | 全體   | 7 \[14\]  |
 
 ### 固定綜藝
 
@@ -349,40 +380,28 @@ To Fight**》MV首發。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2014年11月7日</p></td>
-<td><p><a href="../Page/阿里郎电视台.md" title="wikilink">Arirang TV</a></p></td>
-<td><p>Simply K-Pop</p></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p>2014年11月28日</p></td>
 <td><p><a href="../Page/爱奇艺.md" title="wikilink">爱奇艺</a></p></td>
 <td><p>彬彬有理</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2014年11月29日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TVBS" title="wikilink">TVBS</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/全球中文音樂榜上榜" title="wikilink">全球中文音樂榜上榜</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2014年12月2日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p>IDOL SCHOOL</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2014年12月2日、12月16日、12月23日</p></td>
 <td><p>愛奇藝</p></td>
 <td><p>我爱大牌之UNIQ最强出道</p></td>
 <td><p>EP1-3</p></td>
-</tr>
-<tr class="even">
-<td><p>2014年12月5日</p></td>
-<td><p>|<a href="../Page/阿里郎电视台.md" title="wikilink">Arirang TV</a></p></td>
-<td><p>Simply K-Pop</p></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>2014年12月6日</p></td>
@@ -524,167 +543,167 @@ To Fight**》MV首發。
 </tr>
 <tr class="even">
 <td><p>2015年5月5日</p></td>
-<td></td>
-<td><p>star king</p></td>
+<td><p>SBS</p></td>
+<td><p><a href="../Page/驚人的大會-Star_King.md" title="wikilink">驚人的大會-Star King</a></p></td>
 <td><p>金聖柱、曹承衍</p></td>
 </tr>
 <tr class="odd">
-<td><p>2015年5月8日</p></td>
-<td><p><a href="../Page/阿里郎电视台.md" title="wikilink">Arirang TV</a></p></td>
-<td><p>Simply K-Pop</p></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p>2015年5月12日</p></td>
 <td><p><a href="../Page/阿里郎电视台.md" title="wikilink">Arirang TV</a></p></td>
 <td><p>After School Club</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2015年6月5日</p></td>
 <td></td>
 <td><p>韓 ON!</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2015年6月13日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TVBS" title="wikilink">TVBS</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/全球中文音樂榜上榜" title="wikilink">全球中文音樂榜上榜</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2015年6月19日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/湖南衛視" title="wikilink">湖南衛視</a></p></td>
 <td><p><a href="../Page/天天向上.md" title="wikilink">天天向上</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2015年6月19日</p></td>
 <td><p><a href="../Page/MBC_Plus_Media.md" title="wikilink">MBC every1</a></p></td>
 <td><p><a href="../Page/Weekly_Idol.md" title="wikilink">Weekly Idol</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2015年6月19日</p></td>
 <td></td>
 <td><p>韓 ON!</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2015年6月24日</p></td>
 <td><p>BTV-2</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/音樂風雲榜" title="wikilink">音樂風雲榜</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2015年7月3、10日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/音悦台" title="wikilink">音悦台</a></p></td>
 <td><p>音悅大來賓</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2015年8月10日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC偶像明星運動會" title="wikilink">MBC偶像明星運動會</a></p></td>
 <td><p>李汶翰、周藝軒</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2015年8月12、25日</p></td>
 <td><p>GTV</p></td>
 <td><p>Hello Korea</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2015年8月11日</p></td>
 <td></td>
 <td><p>vivo最音樂</p></td>
 <td><p>缺金聖柱</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2015年8月18日、<br />
 9月15、22日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS2" title="wikilink">KBS2</a></p></td>
 <td><p><a href="../Page/我們小區藝體能.md" title="wikilink">我們小區藝體能</a></p></td>
 <td><p>李汶瀚</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2015年9月7日</p></td>
 <td><p><a href="../Page/芒果TV.md" title="wikilink">芒果TV</a></p></td>
 <td><p>偶像萬萬碎</p></td>
 <td><p>缺金聖柱</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2015年10月12日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td><p>危機逃出no.1</p></td>
 <td><p>金聖柱、曹承衍</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2015年10月14日</p></td>
 <td><p><a href="../Page/爱奇艺.md" title="wikilink">爱奇艺</a></p></td>
 <td><p>大牌對王牌</p></td>
 <td><p>金聖柱</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2015年10月19日、<br />
 11月2、16日</p></td>
 <td></td>
 <td><p>|<a href="../Page/一站到底.md" title="wikilink">一站到底</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2015年10月25日</p></td>
 <td><p>|<a href="https://zh.wikipedia.org/wiki/四川衛視" title="wikilink">四川衛視</a></p></td>
 <td><p>咱们穿越吧</p></td>
 <td><p>|</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2015年11月10日</p></td>
 <td></td>
 <td><p>Star Dust</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2015年11月20、27日</p></td>
 <td></td>
 <td><p>玲安对话好莱坞</p></td>
 <td><p>缺金聖柱</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2015年12月18日</p></td>
 <td></td>
 <td><p>STAR!调查团</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2015年12月20日</p></td>
 <td></td>
 <td><p>偶.ME</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2016年</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2016年4月23日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/浙江衛視" title="wikilink">浙江衛視</a></p></td>
 <td><p><a href="../Page/一路上有你_(電視節目).md" title="wikilink">一路上有你第二季</a></p></td>
 <td><p>|王一博、李汶翰、周艺轩</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2016年5月6日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/音悦台" title="wikilink">音悦台</a></p></td>
 <td><p>音悅大來賓</p></td>
 <td><p>缺王一博</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2016年5月13、20、27日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
 <td><p>Show Me The Money 5</p></td>
 <td><p>曹承衍</p></td>
+</tr>
+<tr class="even">
+<td><p>2016年5月30日、6月10日</p></td>
+<td><p>Newsade</p></td>
+<td><p>汶翰X承衍的東廟Attack</p></td>
+<td><p>曹承衍、李汶翰</p></td>
 </tr>
 <tr class="odd">
 <td><p>2016年7月31日、8月14日</p></td>
@@ -708,7 +727,7 @@ To Fight**》MV首發。
 <td><p>2016年9月5日</p></td>
 <td><p>Heyo TV</p></td>
 <td><p>朴素賢的偶像TV</p></td>
-<td><p>金聖柱、曹承衍 [14]</p></td>
+<td><p>金聖柱、曹承衍 [15]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2016年12月13日</p></td>
@@ -775,7 +794,7 @@ To Fight**》MV首發。
 <td><p>2018年8月5日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/湖南衛視" title="wikilink">湖南衛視</a></p></td>
 <td><p><a href="../Page/天天向上.md" title="wikilink">天天向上</a></p></td>
-<td><p>周艺轩 李汶翰 王一博</p></td>
+<td><p>周艺轩、李汶翰、王一博</p></td>
 </tr>
 <tr class="even">
 <td><p>2018年12月24日</p></td>
@@ -822,9 +841,9 @@ To Fight**》MV首發。
 |                  |                                                     |                                                                         |                               |
 | ---------------- | --------------------------------------------------- | ----------------------------------------------------------------------- | ----------------------------- |
 | 日期               | 電台                                                  | 節目                                                                      | 參演成員<small>（空白表示全體參與）</small> |
+| 2014年11月3日       | Arirang Radio                                       | K-Popping                                                               |                               |
 | 2014年11月15、22日   | [MBC Music](../Page/MBC_Plus_Media.md "wikilink")   | [偶像本色](../Page/偶像本色.md "wikilink")                                      | 王一博、李汶瀚、周艺轩                   |
 | 2014年12月4日       | POP Radio                                           | What's up music                                                         |                               |
-| 2014年12月5日       | Arirang TV                                          | Simply K-Pop                                                            |                               |
 | 2014年12月10日      |                                                     | I Like Radio 娱乐e世代                                                      |                               |
 | 2014年12月17日      | Arirang Radio                                       | Super K-pop                                                             |                               |
 | 2015年1月11日       | Hitfm                                               | Hit DJ                                                                  |                               |
@@ -917,23 +936,27 @@ To Fight**》MV首發。
 
 ### 演唱會
 
-|                                        |       |                   |
-| -------------------------------------- | ----- | ----------------- |
-| 日期                                     | 演唱會站次 | 舉行地點              |
-| UNIQ 首场粉絲見面會《UNIQ 1ST 獨一無二 FANMEETING》 |       |                   |
-| 2014年11月23日                            | 首爾    | 奧林匹克公園體操競技場       |
-| 2014年11月25日                            | 北京    | 北京万事达汇源空间         |
-| 2015年3月7日                              | 曼谷    | Scala Theater     |
-| 《UNIQ SHOWCASE IN JAPAN》               |       |                   |
-| 2015年7月19日                             | 大阪    | 大阪シアターBRAVA\!     |
-| 2015年7月20日                             | 東京    | 東京北とぴあ さくらホール     |
-| UNIQ 首場巡迴粉絲見面會《2015 UNIQ 1ST BIRTHDAY》 |       |                   |
-| 2015年10月18日                            | 上海    | 上海淺水灣藝術中心\[15\]   |
-| 2015年11月28日                            | 北京    | 萬事達中心匯源空間         |
-| 《UNIQ FANMEETING IN BRAZIL》            |       |                   |
-| 2016年6月25日                             | 聖保羅   | Tropical Butanta  |
-| 《UNIQ LIVE & MEET 2016 IN JAPAN》       |       |                   |
-| 2016年12月10日                            | 涉谷    | KLAB LIVE CAMELOT |
+|                                        |       |                     |
+| -------------------------------------- | ----- | ------------------- |
+| 日期                                     | 演唱會站次 | 舉行地點                |
+| UNIQ 首场粉絲見面會《UNIQ 1ST 獨一無二 FANMEETING》 |       |                     |
+| 2014年11月23日                            | 首爾    | 奧林匹克公園體操競技場         |
+| 2014年11月25日                            | 北京    | 北京万事达汇源空间           |
+| 2015年3月7日                              | 曼谷    | Scala Theater       |
+| 《UNIQ SHOWCASE IN JAPAN》               |       |                     |
+| 2015年7月19日                             | 大阪    | 大阪シアターBRAVA\!       |
+| 2015年7月20日                             | 東京    | 東京北とぴあ さくらホール       |
+| UNIQ 首場巡迴粉絲見面會《2015 UNIQ 1ST BIRTHDAY》 |       |                     |
+| 2015年10月18日                            | 上海    | 上海淺水灣藝術中心\[16\]     |
+| 2015年11月15日                            | 名古屋   | ELL Nagoya          |
+| 2015年11月16日                            | 大阪    | BIGCAT Osaka        |
+| 2015年11月19日                            | 福岡    | BEATSTATION Fukuoka |
+| 2015年11月20日                            | 東京    | LIQUDROOM Tokyo     |
+| 2015年11月28日                            | 北京    | 萬事達中心匯源空間           |
+| 《UNIQ FANMEETING IN BRAZIL》            |       |                     |
+| 2016年6月25日                             | 聖保羅   | Tropical Butanta    |
+| 《UNIQ LIVE & MEET 2016 IN JAPAN》       |       |                     |
+| 2016年12月10日                            | 涉谷    | KLAB LIVE CAMELOT   |
 
 ### 其他大型演唱會
 
@@ -1142,3 +1165,4 @@ To Fight**》MV首發。
 13.
 14.
 15.
+16.

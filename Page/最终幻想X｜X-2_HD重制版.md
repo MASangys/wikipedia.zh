@@ -14,9 +14,11 @@ platforms = [PlayStation 4](../Page/PlayStation_4.md "wikilink")
 [PlayStation Vita](../Page/PlayStation_Vita.md "wikilink")
 [Microsoft
 Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")
-[任天堂Switch](../Page/任天堂Switch.md "wikilink")\[2\] | released = | genre =
-[角色扮演](https://zh.wikipedia.org/wiki/电子角色扮演游戏 "wikilink") | modes =
-[单人](https://zh.wikipedia.org/wiki/单人电子游戏 "wikilink") }}
+[任天堂Switch](../Page/任天堂Switch.md "wikilink")\[2\]
+[Xbox One](../Page/Xbox_One.md "wikilink") | released = | genre =
+[角色扮演](https://zh.wikipedia.org/wiki/电子角色扮演游戏 "wikilink") |
+modes = [单人](https://zh.wikipedia.org/wiki/单人电子游戏 "wikilink")
+|original=|japanese=|engine=|shutdown=|onlinegame=|designer=|programmer=|composer=}}
 
 是[电子角色扮演游戏](https://zh.wikipedia.org/wiki/电子角色扮演游戏 "wikilink")《[最终幻想X](../Page/最终幻想X.md "wikilink")》和《[最终幻想X-2](../Page/最终幻想X-2.md "wikilink")》的[高清强化移植合辑](https://zh.wikipedia.org/wiki/PlayStation游戏机的高清强化移植 "wikilink")，原游戏由[史克威尔艾尼克斯开发](../Page/史克威尔艾尼克斯.md "wikilink")，并分别于2001年和2003年在[PlayStation
 2平台发行](../Page/PlayStation_2.md "wikilink")。合集沿用了之前《国际版》新增的故事内容，并加入設定于《X-2》数年后新故事的新广播剧。中国大陆工作室[维塔士负责大部分开发工作](../Page/维塔士.md "wikilink")，史克威尔艾尼克斯协助开发與发行合辑。游戏于2013年12月在日本[PlayStation

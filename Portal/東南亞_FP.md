@@ -14,7 +14,7 @@
 <center style="padding:6px;">
 </center>
 <center style="font-size: 90%; ">
-<p><a href="https://zh.wikipedia.org/wiki/老撾" title="wikilink">老撾的國家象徵</a>，位於<a href="../Page/永珍.md" title="wikilink">-{zh-hans:万象; zh-hant:萬象; zh-tw:永珍}-的</a><a href="https://zh.wikipedia.org/wiki/塔鑾" title="wikilink">塔鑾</a>，以及位於塔鑾左方的<a href="https://zh.wikipedia.org/wiki/塞塔提臘" title="wikilink">塞塔提臘國王像</a></p>
+<p><a href="https://zh.wikipedia.org/wiki/老撾" title="wikilink">老撾的國家象徵</a>，位於<a href="../Page/永珍.md" title="wikilink">-{zh-hans:万象; zh-hant:萬象; zh-tw:永珍}-的</a><a href="../Page/塔鑾.md" title="wikilink">塔鑾</a>，以及位於塔鑾左方的<a href="https://zh.wikipedia.org/wiki/塞塔提臘" title="wikilink">塞塔提臘國王像</a></p>
 </center></td>
 <td><p>2=</p>
 <center style="padding:6px;">

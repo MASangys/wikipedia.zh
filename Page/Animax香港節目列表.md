@@ -3861,13 +3861,13 @@ JoJo的奇妙冒險：星塵遠征軍</a></p></td>
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/請讓我撒嬌，仙狐大人！" title="wikilink">請讓我撒嬌，仙狐大人！</a></strong></p></td>
 <td><p>4月11日</p></td>
 <td></td>
-<td><p>預定12</p></td>
+<td><p>12</p></td>
 <td><p>星期四 20:30－21:00</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/妖怪手錶" title="wikilink">妖怪手錶</a> 第四季</p></td>
 <td><p>4月24日</p></td>
-<td><p>#170-預定214</p></td>
+<td><p>#170-214</p></td>
 <td><p>45</p></td>
 <td><p>星期一至五 18:00－18:30</p></td>
 </tr>
@@ -3877,6 +3877,20 @@ JoJo的奇妙冒險：星塵遠征軍</a></p></td>
 <td></td>
 <td><p>49</p></td>
 <td></td>
+</tr>
+<tr class="even">
+<td><p><em><a href="../Page/獵獸神兵.md" title="wikilink">獵獸神兵</a></em></p></td>
+<td><p>7月2日</p></td>
+<td></td>
+<td><p>預定12</p></td>
+<td><p>星期二 20:30－21:00</p></td>
+</tr>
+<tr class="odd">
+<td><p><em><a href="../Page/異世界超能魔術師.md" title="wikilink">異世界超能魔術師</a></em></p></td>
+<td><p>7月11日</p></td>
+<td></td>
+<td><p>預定12</p></td>
+<td><p>星期四 20:30－21:00</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>註釋:</strong></p>

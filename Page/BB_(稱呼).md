@@ -2,8 +2,8 @@
 
 ## 源頭
 
-  - 女藝人[李彩華於](https://zh.wikipedia.org/wiki/李彩華 "wikilink")2003年發行的流行歌
-    "你唔愛我啦" 中的一句歌詞﹕"淨係想聽多一次BB好愛你"。\[1\]
+  - 女藝人[李彩華於](../Page/李彩華.md "wikilink")2003年發行的流行歌 "你唔愛我啦"
+    中的一句歌詞﹕"淨係想聽多一次BB好愛你"。\[1\]
   - 女藝人[林嘉欣](../Page/林嘉欣.md "wikilink")、[李嘉欣於](../Page/李嘉欣.md "wikilink")2010年先後結婚並在隨後產子，因此被簡稱作嘉欣BB，意指嘉欣的BB。\[2\]\[3\]
   - 女藝人[鍾嘉欣於](https://zh.wikipedia.org/wiki/鍾嘉欣 "wikilink")2011年始被稱為嘉欣BB，全因其清純的氣質及形象，加上她在2011年演活了劇集《[點解阿Sir係阿Sir](../Page/點解阿Sir係阿Sir.md "wikilink")》中的角色Miss
     Koo。\[4\]\[5\]

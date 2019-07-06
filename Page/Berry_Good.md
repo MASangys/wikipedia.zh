@@ -89,7 +89,7 @@ Oh\!》MV。
 
 <timeline> ImageSize = width:650 height:300 PlotArea = width:500
 height:250 left:75 bottom:35 Alignbars = justify DateFormat = mm/dd/yyyy
-Period = from:2014 till:2018 TimeAxis = orientation:horizontal
+Period = from:2014 till:2019 TimeAxis = orientation:horizontal
 format:mm/yyyy
 
 Colors =
@@ -104,7 +104,7 @@ orientation:horizontal position:bottom
 
 BarData =
 
-` bar:Subin  text:秀彬`
+` bar:Subin text:秀彬`
 ` bar:Iera text:Iera`
 ` bar:Nayeon text:娜妍`
 ` bar:Taeha text:邰賀`
@@ -120,7 +120,7 @@ PlotData =
 ` bar:Subin   from:start till:01/23/2015 `
 ` bar:Iera    from:start till:01/23/2015 `
 ` bar:Nayeon  from:start till:01/23/2015 `
-` bar:Taeha   from:start till:end`
+` bar:Taeha   from:start till:05/27/2019 `
 ` bar:Gowoon  from:start till:end `
 `color:purple width:10 textcolor:black align:left anchor:from`
 ` bar:Seoyul  from:01/23/2015 till:end `

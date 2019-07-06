@@ -1,5 +1,5 @@
 [Shadowsocks_for_Android_(logo).png](https://zh.wikipedia.org/wiki/File:Shadowsocks_for_Android_\(logo\).png "fig:Shadowsocks_for_Android_(logo).png")
-**Shadowsocks**（简称**SS**）是一種基於[Socks5代理方式的加密傳輸協定](https://zh.wikipedia.org/wiki/SOCKS#SOCK5 "wikilink")，也可以指實作這個協定的各種开发包。目前套件使用[Python](../Page/Python.md "wikilink")、[C](https://zh.wikipedia.org/wiki/C語言 "wikilink")、[C++](../Page/C++.md "wikilink")、[C\#](../Page/C♯.md "wikilink")、[Go语言等程式語言开发](https://zh.wikipedia.org/wiki/Go语言 "wikilink")，大部分主要實作（[iOS平台的除外](https://zh.wikipedia.org/wiki/iOS "wikilink")）採用[Apache许可证](../Page/Apache许可证.md "wikilink")、[GPL](https://zh.wikipedia.org/wiki/GPL "wikilink")、[MIT許可證等多種](../Page/MIT許可證.md "wikilink")[自由軟體許可協定](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")[開放原始碼](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")。Shadowsocks分为服务器端和客户端，在使用之前，需要先将服务器端程序部署到服务器上面，然后通过客户端连接并建立本地代理。
+**Shadowsocks**（简称**SS**）是一種基於[Socks5代理方式的加密傳輸协议](https://zh.wikipedia.org/wiki/SOCKS#SOCK5 "wikilink")，也可以指实现這個协议的各種开发包。目前套件使用[Python](../Page/Python.md "wikilink")、[C](https://zh.wikipedia.org/wiki/C語言 "wikilink")、[C++](../Page/C++.md "wikilink")、[C\#](../Page/C♯.md "wikilink")、[Go语言等程式語言开发](https://zh.wikipedia.org/wiki/Go语言 "wikilink")，大部分主要实现（[iOS平台的除外](https://zh.wikipedia.org/wiki/iOS "wikilink")）採用[Apache许可证](../Page/Apache许可证.md "wikilink")、[GPL](https://zh.wikipedia.org/wiki/GPL "wikilink")、[MIT許可證等多種](../Page/MIT許可證.md "wikilink")[自由軟體許可協定](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")[開放原始碼](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")。Shadowsocks分为服务器端和客户端，在使用之前，需要先将服务器端程序部署到服务器上面，然后通过客户端连接并建立本地代理。
 
 在中国大陆，本工具广泛用于突破[防火长城](../Page/防火长城.md "wikilink")（GFW），以浏览被封锁、遮蔽或干扰的内容。2015年8月22日，Shadowsocks原作者Clowwindy稱受到了[中国政府的压力](../Page/中华人民共和国网络审查.md "wikilink")，宣布停止维护此计划（项目）并移除其个人页面所存储的源代码\[1\]\[2\]。
 
@@ -22,7 +22,7 @@ Shadowsocks的运行原理与其他代理工具基本相同，使用特定的中
 
 ### 安全性
 
-Shadowsocks的最初设计目的只是为了绕过GFW，而不是提供密码学意义的安全，所以Shadowsocks自行设计的加密协议对双方的身份验证仅限于，亦无[完全前向保密](https://zh.wikipedia.org/wiki/完全前向保密 "wikilink")，也未曾有安全专家公开分析或评估协议及其实现。如果是監聽類型的國家內想進行科學上網，基本上Shadowsocks功能不夠完善，應該使用隱密性更高的工具。\[5\]
+Shadowsocks的最初设计目的只是为了绕过GFW，而不是提供密码学意义的安全，所以Shadowsocks自行设计的加密协议对双方的身份验证仅限于，亦无[完全前向保密](https://zh.wikipedia.org/wiki/完全前向保密 "wikilink")，也未曾有安全专家公开分析或评估协议及其实现。如果是在監聽類型的國家內想更加安全的上网，基本上Shadowsocks功能不夠完善，應該使用隱密性更高的工具。\[5\]
 
 Shadowsocks本质上只是设置了密码的专用[网络代理协议](../Page/代理服务器.md "wikilink")，不能替代[TLS或者](https://zh.wikipedia.org/wiki/TLS "wikilink")[VPN](https://zh.wikipedia.org/wiki/VPN "wikilink")，不能用作[匿名通信方案](../Page/匿名.md "wikilink")，该协议的目标不在于提供完整的通信安全机制，主要是为了协助上网用户在[严苛的网络环境中突破封锁](../Page/互联网审查.md "wikilink")。
 
@@ -36,9 +36,9 @@ Traffic》的论文在[IEEE发表](https://zh.wikipedia.org/wiki/IEEE "wikilink"
 
 ## 项目转手
 
-2015年8月22日，其作者Clowwindy在GitHub上稱，警察在兩日前要求他停止開發Shadowsocks專案並刪除其所有代碼。\[11\]之後，作者停止維護Shadowsocks，其[GitHub專案頁面已被清空](../Page/GitHub.md "wikilink")。\[12\]\[13\]消-{}-息传出后，许多中国和外国开发商，以及Shadowsocks用户，在GitHub中对作者表示了致谢，对已清空原始碼的项目頁面加星标，因此在当时Shadowsocks成为了GitHub上的热门项目（Trending）。\[14\]但另有消-{}-息，原作者曾作出的据称「透露中國社會現狀」的發言可能遭到某些中國政府支持者的檢舉，從而為後來被要求撤下專案原始碼的事件埋下伏筆，而類似的因個人網路發言不當而被檢舉的事件在中國大陸也「時有發生」。\[15\]
+2015年8月22日，其作者Clowwindy在GitHub上稱，警察在兩日前要求他停止開發Shadowsocks專案並刪除其所有代碼。\[11\]之後，作者停止維護Shadowsocks，其[GitHub專案頁面已被清空](../Page/GitHub.md "wikilink")。\[12\]\[13\]消-{}-息传出后，许多中国和外国开发商，以及Shadowsocks用户，在GitHub中对作者表示了致谢，对已清空原始碼的项目頁面加星标，因此在当时Shadowsocks成为了GitHub上的热门项目（Trending）。\[14\]但另有消-{}-息，原作者曾作出的据称「透露中國社會現狀」的發言可能遭到某些中國政府支持者的檢舉，從而為後來被要求撤下專案原始碼的事件埋下伏筆，而類似的因個人網路發言而被檢舉的事件在中國大陸也「時有發生」。\[15\]
 
-8月25日，另一个用于突破网络审查的[GoAgent项目也被作者自行删除](../Page/GoAgent.md "wikilink")。删除后几小时之内，[GitHub即遭到了来自中国的](../Page/GitHub.md "wikilink")[DDoS攻击](https://zh.wikipedia.org/wiki/DDoS "wikilink")，據報这次攻击与中国政府有关，因為當局此前曾要求Github移除兩個反對網絡審查的項目但沒有被接受。\[16\]
+8月25日，另一个用于突破网络审查的[GoAgent项目也被作者自行删除](../Page/GoAgent.md "wikilink")。删除后几小时之内，[GitHub遭到了来自中国的](../Page/GitHub.md "wikilink")[DDoS攻击](https://zh.wikipedia.org/wiki/DDoS "wikilink")。據報这次攻击与中国政府有关，因為當局此前曾要求Github移除兩個反對網絡審查的項目但沒有被接受。\[16\]
 
 2015年8月28日，[电子前哨基金会针对Shadowsocks和GoAgent被删除一事发表评论](../Page/电子前哨基金会.md "wikilink")，对中国政府针对翻墙软件作者的打击表示“强烈谴责”。\[17\]
 
@@ -61,13 +61,11 @@ news裡转发了深圳市启用SS协议检测的消息并被大量用户转发�
 
 ## 外部链接
 
-  -
-  - [Shadowsocks各平台的客户端-{列表}-](https://shadowsocks.org/en/download/clients.html)
-
-  -
-  - （已停止）
-
-  - （ShadowsocksR的新版本）
+  - [Shadowsocks 在 github 的主页](https://github.com/shadowsocks)
+  - [shadowsocks-windows 在 github
+    的下载页面](https://github.com/Shadowsocks/Shadowsocks-windows/releases)
+  - [SSRR-Windows 在 github
+    的下载页面](https://github.com/Anankke/SSRR-Windows/releases)
 
 [Category:2012年软件](https://zh.wikipedia.org/wiki/Category:2012年软件 "wikilink")
 [Category:代理服务器](https://zh.wikipedia.org/wiki/Category:代理服务器 "wikilink")

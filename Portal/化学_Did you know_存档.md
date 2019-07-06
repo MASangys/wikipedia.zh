@@ -1,3 +1,23 @@
+## 2019年
+
+### 4月至6月
+
+  - **[哪种化合物](../Page/［2-［二\(三甲基硅基\)甲基］-3-苯基-2H-氮杂磷杂环丙烯］五羰基钨.md "wikilink")**同时含有[羰基](../Page/羰基.md "wikilink")、[苯环以及由碳](https://zh.wikipedia.org/wiki/苯环 "wikilink")、磷、氮三种元素构成的三元环，且化学式为C<sub>19</sub>H<sub>24</sub>NO<sub>5</sub>PSi<sub>2</sub>W？
+  - [碘化铵的四个氢原子全部被](../Page/碘化铵.md "wikilink")[甲基取代](https://zh.wikipedia.org/wiki/甲基 "wikilink")，可以得到**[哪种化合物](../Page/四甲基碘化铵.md "wikilink")**？
+  - 曾经在台湾生物竞赛中出现过的**[哪种荧光染料](../Page/DAPI.md "wikilink")**被广泛应用于[DNA的染色](https://zh.wikipedia.org/wiki/DNA "wikilink")？
+  - 已知**[氢含量最高的固体化合物](../Page/硼氢化铵.md "wikilink")**是什么？
+  - [万古霉素和](https://zh.wikipedia.org/wiki/万古霉素 "wikilink")[博来霉素依化学本质属于](../Page/博来霉素.md "wikilink")**[哪一大类抗生素](../Page/糖肽类抗生素.md "wikilink")**？
+  - **[哪种无机化合物](../Page/二氯二氧化钼.md "wikilink")**的化学式为MoO<sub>2</sub>Cl<sub>2</sub>？
+
+### 1月至3月
+
+  - 金属有机化合物二(富瓦烯)二铁**[又称作什么](../Page/1,1'-联二茂铁.md "wikilink")**？
+  - 截至2019年3月，已知[原子序最高的](https://zh.wikipedia.org/wiki/原子序 "wikilink")[化學元素是](../Page/化學元素.md "wikilink")**[哪一個](../Page/鿫.md "wikilink")**？
+  - [**哪位英国化学家**于](../Page/斯图尔特·亚当斯.md "wikilink")2019年1月逝世，曾对止痛药物[布洛芬的研制做出了重要贡献](../Page/布洛芬.md "wikilink")？
+  - **[哪種混合物](../Page/乾水.md "wikilink")**裡的水分子被二氧化矽包覆以致於看起來像食鹽，但實際上有95％是液態水組成的「粉狀液體」？
+  - **[哪些化學試驗](../Page/硝酸鹽試驗.md "wikilink")**可以用於測試溶液中[硝酸根離子的存在](https://zh.wikipedia.org/wiki/硝酸根 "wikilink")？
+  - [**哪一個指標**用於標示能夠支持](../Page/極限氧指數.md "wikilink")[聚合物](../Page/聚合物.md "wikilink")[燃燒的](https://zh.wikipedia.org/wiki/燃燒 "wikilink")[氧氣的最小](https://zh.wikipedia.org/wiki/氧氣 "wikilink")[濃度](https://zh.wikipedia.org/wiki/濃度 "wikilink")？
+
 ## 2018年
 
 ### 10月至12月

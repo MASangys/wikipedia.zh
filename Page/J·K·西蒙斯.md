@@ -136,6 +136,8 @@ Simmons\[1\]\[2\]\[3\]。他成长于[俄亥俄州的](../Page/俄亥俄州.md "
   - 2018：《The Boxcar Children: Surprise Island》-Dr. Moore（配音）
   - 2018：《[爆料世代](../Page/爆料世代.md "wikilink")》-Bill Dixon
   - 2019：《[暴走曼哈頓](../Page/暴走曼哈頓.md "wikilink")》
+  - 2019
+    :《[蜘蛛俠：決戰千里](https://zh.wikipedia.org/wiki/蜘蛛俠：決戰千里 "wikilink")》J·喬納·詹姆森
 
 ### 電視劇
 

@@ -214,6 +214,7 @@ MEDIA官方的同意之下](https://zh.wikipedia.org/wiki/CRYPTON_FUTURE_MEDIA "
   - [SURPRISE PARTY](http://www.nanameue.com/index.php) - 斜め上P
   - [daigomanのblog](http://daigoman.ldblog.jp/) - daigoman
 
+[Category:Vocaloid](https://zh.wikipedia.org/wiki/Category:Vocaloid "wikilink")
 [Category:Vocaloid角色](https://zh.wikipedia.org/wiki/Category:Vocaloid角色 "wikilink")
 [Category:虛構角色列表](https://zh.wikipedia.org/wiki/Category:虛構角色列表 "wikilink")
 

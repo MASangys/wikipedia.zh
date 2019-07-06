@@ -1342,6 +1342,17 @@ SHOW;zh-cn:韩秀榜}-**》（；）是[韓國](https://zh.wikipedia.org/wiki/�
   - 06.18 -
     [宇宙少女](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")<sup>3rd</sup>
     - Boogie Up<sup>2nd</sup> \[7,210分\]
+  - 06.25 - [ATEEZ](../Page/ATEEZ.md "wikilink")<sup>1st</sup> -
+    Wave<sup>1st</sup> \[6,207分\]
+
+<!-- end list -->
+
+  - 七月
+
+<!-- end list -->
+
+  - 07.02 - [(G)I-DLE](../Page/\(G\)I-DLE.md "wikilink")<sup>4th</sup> -
+    Uh-Oh<sup>1st</sup> \[7,505分\]
 
 ## 藝人成就
 
@@ -1363,13 +1374,13 @@ SHOW;zh-cn:韩秀榜}-**》（；）是[韓國](https://zh.wikipedia.org/wiki/�
 | 7th                                                               | [CNBLUE](../Page/CNBLUE.md "wikilink")                            | 4次  | 2010 |
 | [MONSTA X](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")     | 2015                                                              |     |      |
 | [IZ\*ONE](../Page/IZ*ONE.md "wikilink")                           | 2018                                                              |     |      |
+| [(G)I-DLE](../Page/\(G\)I-DLE.md "wikilink")                      | 2018                                                              |     |      |
 | 8th                                                               | [鐘鉉](https://zh.wikipedia.org/wiki/金鐘鉉_\(歌手\) "wikilink")         | 3次  | 2015 |
 | [FTIsland](../Page/FTIsland.md "wikilink")                        | 2007                                                              |     |      |
 | [B.A.P](../Page/B.A.P.md "wikilink")                              | 2012                                                              |     |      |
 | [Lovelyz](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")       | 2014                                                              |     |      |
 | [NCT Dream](https://zh.wikipedia.org/wiki/NCT_Dream "wikilink")   | 2016                                                              |     |      |
 | [SHINee](../Page/SHINee.md "wikilink")                            | 2008                                                              |     |      |
-| [(G)I-DLE](../Page/\(G\)I-DLE.md "wikilink")                      | 2018                                                              |     |      |
 | [NCT 127](https://zh.wikipedia.org/wiki/NCT_127 "wikilink")       | 2016                                                              |     |      |
 | [MOMOLAND](../Page/MOMOLAND.md "wikilink")                        | 2016                                                              |     |      |
 | [Oh My Girl](https://zh.wikipedia.org/wiki/Oh_My_Girl "wikilink") | 2015                                                              |     |      |

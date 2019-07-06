@@ -79,7 +79,7 @@
 
   - 最佳作品獎：《[仁醫](https://zh.wikipedia.org/wiki/仁醫 "wikilink")》
   - 最佳男主角獎：[大澤隆夫](../Page/大澤隆夫.md "wikilink")（仁醫）\[1\]
-  - 最佳女主角獎：[天海祐希](https://zh.wikipedia.org/wiki/天海祐希 "wikilink")（[BOSS女王](https://zh.wikipedia.org/wiki/BOSS女王 "wikilink")）
+  - 最佳女主角獎：[天海祐希](../Page/天海祐希.md "wikilink")（[BOSS女王](https://zh.wikipedia.org/wiki/BOSS女王 "wikilink")）
   - 最佳男配角獎：[內野聖陽](../Page/內野聖陽.md "wikilink")（仁醫）
   - 最佳女配角獎：[綾瀨遙](../Page/綾瀨遙.md "wikilink")（仁醫）
   - 新人獎：[中丸雄一](../Page/中丸雄一.md "wikilink")（[RESCUE～特別高度救助隊](../Page/RESCUE～特別高度救助隊.md "wikilink")）

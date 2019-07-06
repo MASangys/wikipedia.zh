@@ -48,7 +48,7 @@
 
 [河谷会战后](https://zh.wikipedia.org/wiki/河谷会战 "wikilink")，雷诺兹花了两个月时间养病，再于1863年1月成为中部战争部和[第8军总工程师](https://zh.wikipedia.org/wiki/第8军_\(南北战争\) "wikilink")。1863年3月，雷诺兹已晋升测绘工兵队[少校](../Page/少校.md "wikilink")，[罗伯特·李在](https://zh.wikipedia.org/wiki/罗伯特·李 "wikilink")[盖茨堡战役期间率领](https://zh.wikipedia.org/wiki/盖茨堡战役 "wikilink")[邦联](https://zh.wikipedia.org/wiki/美利坚联盟国 "wikilink")[陆军第二次向北方突袭时对西弗吉尼亚州战略地位非常重要的](https://zh.wikipedia.org/wiki/美利坚联盟国陆军 "wikilink")[哈珀斯费里构成威胁](../Page/哈珀斯费里_\(西弗吉尼亚州\).md "wikilink")，雷诺兹则负责城池防守。\[48\]1863年3月31日，测绘工兵队取消独立编制，并入工兵队，雷诺兹继续在陆军工兵队任职。两支部队的军官都根据晋升时间保留原有军衔。\[49\]
 
-随着内战尾声临近，[拉科塔族的威胁逐渐浮现](https://zh.wikipedia.org/wiki/拉科塔族 "wikilink")，雷诺德对[五大湖地区的知识和经验就变得比指挥防守哈珀斯费里更为重要](https://zh.wikipedia.org/wiki/五大湖地区 "wikilink")。1864年4月，他返回五大湖，成为测绘工作和灯塔建设的主管工程师，此后再也没有返回战场。\[50\]就在战争正式结束前，雷诺兹于1865年3月13日因立功表现晋升[准将](https://zh.wikipedia.org/wiki/准将 "wikilink")\[51\]。
+随着内战尾声临近，[拉科塔族的威胁逐渐浮现](../Page/拉科塔族.md "wikilink")，雷诺德对[五大湖地区的知识和经验就变得比指挥防守哈珀斯费里更为重要](https://zh.wikipedia.org/wiki/五大湖地区 "wikilink")。1864年4月，他返回五大湖，成为测绘工作和灯塔建设的主管工程师，此后再也没有返回战场。\[50\]就在战争正式结束前，雷诺兹于1865年3月13日因立功表现晋升[准将](https://zh.wikipedia.org/wiki/准将 "wikilink")\[51\]。
 
 ### 战后经历
 

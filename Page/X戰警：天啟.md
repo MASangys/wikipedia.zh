@@ -6,7 +6,7 @@
 
 ## 劇情
 
-[西元前](https://zh.wikipedia.org/wiki/西元前 "wikilink")3600年，人類世界首位變種人「[天啟](../Page/天啟_\(漫威漫畫\).md "wikilink")」恩·沙巴·奴爾統治[古埃及](https://zh.wikipedia.org/wiki/古埃及 "wikilink")，被人民集體膜拜為「神」，長久以來靠轉移[意識至年輕軀體而長生不老](https://zh.wikipedia.org/wiki/意識 "wikilink")，由此累積許多其他變種人力量。但一群受盡他統治的，在他進行意識轉移的儀式當天發動[起義](https://zh.wikipedia.org/wiki/起義 "wikilink")，破壞金字塔[地基而將其活埋入地底](../Page/地基.md "wikilink")。天啟身邊的死前用能力守護他的新軀體，使他倖免於難且陷入沉睡，其歷史從此被抹除。
+[西元前](https://zh.wikipedia.org/wiki/西元前 "wikilink")3600年，人類世界首位變種人「[天啟](../Page/天啟_\(漫威漫畫\).md "wikilink")」恩·沙巴·奴爾統治[古埃及](../Page/古埃及.md "wikilink")，被人民集體膜拜為「神」，長久以來靠轉移[意識至年輕軀體而長生不老](https://zh.wikipedia.org/wiki/意識 "wikilink")，由此累積許多其他變種人力量。但一群受盡他統治的，在他進行意識轉移的儀式當天發動[起義](https://zh.wikipedia.org/wiki/起義 "wikilink")，破壞金字塔[地基而將其活埋入地底](../Page/地基.md "wikilink")。天啟身邊的死前用能力守護他的新軀體，使他倖免於難且陷入沉睡，其歷史從此被抹除。
 
 1983年，人類和變種人和平共處十年，在[埃及](../Page/埃及.md "wikilink")[開羅仍存有一小部分膜拜天啟的](https://zh.wikipedia.org/wiki/開羅 "wikilink")[狂熱份子](https://zh.wikipedia.org/wiki/宗教狂熱 "wikilink")，他們挖出其墓穴帶入大量陽光，天啟因此從地底甦醒，走出去後遇到以偷竊為生的變種人[奧洛羅·夢洛](../Page/暴風女.md "wikilink")，其能夠控制[氣象](https://zh.wikipedia.org/wiki/氣象 "wikilink")。天啟透過她的電視瞭解現今社會的歷史，靠觸碰來提升奧洛羅的能力，將她作為自己的第一位騎士。[瑞雯·達克霍自從在](../Page/魔形女.md "wikilink")[華盛頓的壯舉後成為變種人的模範](https://zh.wikipedia.org/wiki/X戰警：未來昔日 "wikilink")，她於[柏林的地下格鬥場救出一名能](../Page/柏林.md "wikilink")[瞬間移動的男孩](../Page/瞬間移動.md "wikilink")[寇特·華格納](../Page/夜行者_\(漫畫\).md "wikilink")，通過黑市經營者的偽造身份而將他偷渡至美國，安頓在[查爾斯·賽維爾的變種人學院](../Page/X教授.md "wikilink")。而查爾斯的前戰友[亞歷克斯·桑瑪斯將他同是變種人的弟弟](../Page/衝擊波_\(漫畫\).md "wikilink")[史考特也送到學校](../Page/獨眼龍_\(漫威漫畫\).md "wikilink")，其眼睛會失控性地發射強大激光，查爾斯便給他一副深色墨鏡抑制住，他跟一位有強大心電感應能力的女孩[琴·葛雷成為朋友](../Page/琴·葛雷.md "wikilink")。
 

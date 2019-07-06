@@ -339,7 +339,8 @@ Sport (CBA-ZC33S-VBRM) interior.jpg Image:Suzuki SWIFT Sport
     Dzire印度搶先曝光](http://4men.com.tw/cgi-bin/view.cgi?/news/2012/1/b2010569.ti+a2+a3+a4+a5+b1+/news/2012/1/b2010569+/car/S50070002+b3+d6+c1+c2+c3+e1+e2+e3+e5+f1)
     。
 22. [Suzuki Philippines launches upgraded Swift 1.2 and
-    Dzire](http://jamesdeakin.ph/suzuki-philippines-launches-upgraded-swift-1-2-and-dzire)。
+    Dzire](http://jamesdeakin.ph/suzuki-philippines-launches-upgraded-swift-1-2-and-dzire)
+    。
 23. [スズキ株式会社：スズキ「スイフト」が世界累計販売300万台を達成](http://www.suzuki.co.jp/release/d/2012/0130/index.html)。
 24. [スズキ株式会社：スズキ、小型乗用車「スイフト」に新開発「デュアルジェット エンジン」と「エネチャージ」搭載車を設定
     －走りの楽しさと低燃費を高次元で両立－](http://www.suzuki.co.jp/release/a/2013/0717/index.html)。

@@ -12,6 +12,8 @@ Online Services Pvt. Ltd.”。\[4\]
 
 2018年5月9日[沃爾瑪為主導的財團以](https://zh.wikipedia.org/wiki/沃爾瑪 "wikilink")160億美元收購Flipkart約77％股權，其餘股份由Flipkart共同創辦人班薩爾、騰訊、微軟、老虎全球管理公司等股東持有。
 
+2018年11月，[沃爾瑪將Flipkart股權增加到](https://zh.wikipedia.org/wiki/沃爾瑪 "wikilink")81.3％
+
 ## 參考文獻
 
   - Goyal, Anuradha (2014). *The Mouse Charmers - Digital Pioneers of

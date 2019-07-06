@@ -108,9 +108,10 @@ PlotData =
 （第三代）</p></td>
 <td><p>Freeyon</p></td>
 <td><p>2017年4月19日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/STEM出創意" title="wikilink">STEM出創意</a>（S）<br />
+</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/三年N班實驗室" title="wikilink">三年N班實驗室</a>（Naughty）<br />
-<a href="https://zh.wikipedia.org/wiki/STEM出創意" title="wikilink">STEM出創意</a>（S）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/搶住嚟答通識比賽" title="wikilink">搶住嚟答通識比賽</a>[4]<br />
+<a href="https://zh.wikipedia.org/wiki/搶住嚟答通識比賽" title="wikilink">搶住嚟答通識比賽</a>[4]<br />
 <a href="https://zh.wikipedia.org/wiki/Think_Big冒險之旅" title="wikilink">Think Big冒險之旅</a>（自戀王子）[5]<br />
 <a href="../Page/Big_Big小明星.md" title="wikilink">Big Big小明星</a></p></td>
 <td><p>STEM出創意顏色：</p></td>

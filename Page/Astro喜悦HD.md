@@ -1,95 +1,7 @@
-**Astro喜悅HD**是[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[NJOI首個免費](https://zh.wikipedia.org/wiki/NJOI "wikilink")24小時[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")[高清頻道](https://zh.wikipedia.org/wiki/高清 "wikilink")，也是[Astro第七個中文高清頻道](https://zh.wikipedia.org/wiki/Astro "wikilink")。除了[NJOI用戶以外](https://zh.wikipedia.org/wiki/NJOI "wikilink")，擁有高清解碼器的**Astro
-B.yond**用戶也可以观看此頻道。該頻道主要播出其他Astro旗下的中文頻道：（[Astro AEC
-HD](../Page/Astro_AEC.md "wikilink")、[Astro双星HD](https://zh.wikipedia.org/wiki/Astro双星HD "wikilink")、[Astro全佳HD](../Page/Astro全佳HD.md "wikilink")、[Astro华丽台HD](https://zh.wikipedia.org/wiki/Astro华丽台HD "wikilink")、[Astro欢喜台HD](https://zh.wikipedia.org/wiki/Astro歡喜台 "wikilink")）已播出过的中文節目和最新的中文節目，该频道备有[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")，[英文及](https://zh.wikipedia.org/wiki/英文 "wikilink")[马来语字幕服务](../Page/马来语.md "wikilink")。
-每星期日晚上八點半將會播放香港經典電影，除此之外，還有播放各大音樂、電視及電影頒獎典禮、電視劇、紀錄片、烹飪、旅遊、綜藝及Astro自製節目。
-
-## 现时节目
-
-<table>
-<thead>
-<tr class="header">
-<th><p>日期</p></th>
-<th><p>首播時间</p></th>
-<th><p>现时播出中的節目</p></th>
-<th><p>接檔的節目</p></th>
-<th><p>備註</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>rowspan|星期一至五</p></td>
-<td><p>18:00 - 19:02</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/致亲爱的法官大人" title="wikilink">致亲爱的法官</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>每日</p></td>
-<td><p>13:00 - 16:00</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/龙飞凤舞" title="wikilink">龙飞凤舞</a></p></td>
-<td></td>
-<td><p>每日播出<br />
-連播三集</p></td>
-</tr>
-<tr class="odd">
-<td><p>16:00 - 18:00</p></td>
-<td><p><a href="../Page/加油！美玲.md" title="wikilink">加油！美玲</a></p></td>
-<td></td>
-<td><p>每日播出<br />
-連播兩集</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>星期六</p></td>
-<td><p>18:00 - 18:30</p></td>
-<td><p>吃饱没2</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>18:30 - 20:30</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/综艺大集合" title="wikilink">综艺大集合</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>20:30 - 23:30</p></td>
-<td><p>|<a href="../Page/我們戰鬥吧.md" title="wikilink">我們戰鬥吧</a></p></td>
-<td></td>
-<td><p>連播兩集</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>星期日</p></td>
-<td><p>18:00 - 19:30</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/超级夜总会" title="wikilink">超级夜总会</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>20:30 - 22:30</p></td>
-<td><p>八点半电影</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>22:30 - 00:00</p></td>
-<td><p><a href="../Page/王牌对王牌.md" title="wikilink">王牌对王牌</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**Astro喜悅HD**是[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[NJOI首個免費](https://zh.wikipedia.org/wiki/NJOI "wikilink")24小時[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")[高清頻道](https://zh.wikipedia.org/wiki/高清 "wikilink")，也是[Astro第七個中文高清頻道](https://zh.wikipedia.org/wiki/Astro "wikilink")。除了[NJOI用戶以外](https://zh.wikipedia.org/wiki/NJOI "wikilink")，擁有高清解碼器的Astro
+B.yond用戶也可以观看此頻道。該頻道主要播出其他Astro旗下的中文頻道：（[Astro AEC
+HD](../Page/Astro_AEC.md "wikilink")、[Astro双星HD](https://zh.wikipedia.org/wiki/Astro双星HD "wikilink")、[Astro全佳HD](../Page/Astro全佳HD.md "wikilink")、[Astro华丽台HD](https://zh.wikipedia.org/wiki/Astro华丽台HD "wikilink")、[Astro欢喜台HD](https://zh.wikipedia.org/wiki/Astro歡喜台 "wikilink")）已播出过的中文節目和最新的中文節目，该频道备有[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")，[英文及](https://zh.wikipedia.org/wiki/英文 "wikilink")[马来语字幕服务](../Page/马来语.md "wikilink")。頻道播放各類節目以及Astro自製節目。2019年6月30日起
+, Astro喜悅HD停播。
 
 ## 直播節目
 
@@ -99,7 +11,7 @@ HD](../Page/Astro_AEC.md "wikilink")、[Astro双星HD](https://zh.wikipedia.org/
   - [金曲獎頒獎典禮](../Page/金曲獎.md "wikilink")
   - [金馬獎頒獎典禮](../Page/金馬獎.md "wikilink")
   - [紅星大獎](../Page/红星大奖.md "wikilink")
-  - [KKBOX香港風云榜](https://zh.wikipedia.org/wiki/KKBOX風云榜 "wikilink")
+  - [KKBOX香港風云榜](https://zh.wikipedia.org/wiki/KKBOX香港風云榜 "wikilink")
 
 其他非固定轉播大型直播節目，包括
 
@@ -111,7 +23,6 @@ HD](../Page/Astro_AEC.md "wikilink")、[Astro双星HD](https://zh.wikipedia.org/
 ## 外部链接
 
   - [XUAN 官网](http://www.xuan.com.my)
-  - [Astro喜悦HD节目表](http://www.quake.com.my)
 
 ## 註明
 

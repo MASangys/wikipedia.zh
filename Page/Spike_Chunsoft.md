@@ -39,7 +39,8 @@ Chunsoft还负责了一些西方游戏在日本地区的发行工作。
 <td><p>冒险</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/iOS" title="wikilink">iOS</a><br />
 <a href="../Page/Android.md" title="wikilink">Android</a><br />
-PlayStation Portable</p></td>
+PlayStation Portable<br />
+Windows</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -47,7 +48,8 @@ PlayStation Portable</p></td>
 </p></td>
 <td><p>2012年7月26日（日本）</p></td>
 <td><p><a href="../Page/冒险游戏.md" title="wikilink">冒险</a></p></td>
-<td><p>PlayStation Portable</p></td>
+<td><p>PlayStation Portable<br />
+Windows</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -168,7 +170,9 @@ PlayStation Vita</p></td>
 </p></td>
 <td><p>2014年9月25日（日本）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/第三人稱射擊遊戲" title="wikilink">第三人稱射擊冒险</a></p></td>
-<td><p>PlayStation Vita</p></td>
+<td><p>PlayStation 4<br />
+PlayStation Vita<br />
+Windows</p></td>
 <td></td>
 </tr>
 <tr class="even">

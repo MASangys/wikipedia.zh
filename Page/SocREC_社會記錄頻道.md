@@ -34,3 +34,4 @@ Channel，縮寫：SocREC）**，是[香港一間](../Page/香港.md "wikilink")
 
 [Category:香港媒體](https://zh.wikipedia.org/wiki/Category:香港媒體 "wikilink")
 [Category:香港網絡電視](https://zh.wikipedia.org/wiki/Category:香港網絡電視 "wikilink")
+[Category:香港民間媒體](https://zh.wikipedia.org/wiki/Category:香港民間媒體 "wikilink")

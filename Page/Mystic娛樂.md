@@ -341,7 +341,8 @@ ALL I KNOW MUSIC(簡稱：AIKM)是旗下嘻哈音樂廠牌。
   - [金秀賢](https://zh.wikipedia.org/wiki/金秀賢_\(2000年\) "wikilink")
     ([PRODUCE 101](../Page/PRODUCE_101.md "wikilink")、[MIX
     NINE](https://zh.wikipedia.org/wiki/MIX_NINE "wikilink")、[A-TEEN
-    (電視劇)](../Page/A-TEEN_\(電視劇\).md "wikilink")、已簽專屬合約)
+    (電視劇)](../Page/A-TEEN_\(電視劇\).md "wikilink")、已簽專屬合約、並於2019年6月29日發表第一首單曲around
+    the world)
   - 黃知敏 ([MIX NINE](https://zh.wikipedia.org/wiki/MIX_NINE "wikilink"))
   - 金承閔 ([MIX NINE](https://zh.wikipedia.org/wiki/MIX_NINE "wikilink"))
   - 李道允 ([K-pop

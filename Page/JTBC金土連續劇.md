@@ -417,7 +417,7 @@
 <td style="text-align: center;"><p><a href="../Page/林秀香.md" title="wikilink">林秀香</a>、<a href="../Page/車銀優.md" title="wikilink">車銀優</a>、<a href="../Page/趙宇麗.md" title="wikilink">趙宇麗</a>、<a href="../Page/郭東延.md" title="wikilink">郭東延</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/崔成範" title="wikilink">崔成範</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/崔秀英_(編劇)" title="wikilink">崔秀英</a></p></td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;"><p>原作：淇萌琪《我的ID是江南美人》</p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>2018年9月28日-<br />
@@ -478,7 +478,7 @@
 <td style="text-align: center;"><p><a href="../Page/晉久.md" title="wikilink">晉久</a>、<a href="../Page/徐恩秀.md" title="wikilink">徐恩秀</a>、<a href="../Page/蔡貞安.md" title="wikilink">蔡貞安</a>、<a href="../Page/尹博.md" title="wikilink">尹博</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金正賢" title="wikilink">金正賢</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/朴成鎮" title="wikilink">朴成鎮</a></p></td>
-<td style="text-align: center;"><p>原作：《<a href="../Page/Legal_High.md" title="wikilink">Legal High</a>》</p></td>
+<td style="text-align: center;"><p>原作：<a href="../Page/古澤良太.md" title="wikilink">古澤良太</a>《<a href="../Page/Legal_High.md" title="wikilink">Legal High</a>》</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>2019年4月5日-<br />
@@ -492,8 +492,8 @@
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p>2019年5月31日-<br />
-2019年6月29日</p></td>
+<td style="text-align: center;"><p>2019年6月14日-<br />
+2019年7月13日</p></td>
 <td style="text-align: center;"><p><a href="../Page/輔佐官–改變世界的人們.md" title="wikilink">輔佐官–改變世界的人們</a><br />
 </p></td>
 <td style="text-align: center;"><p>10</p></td>

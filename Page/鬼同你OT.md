@@ -316,7 +316,7 @@ Annie、Angie、Anna之上司<br />
 於第28集入獄</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/王志康" title="wikilink">王志康</a></p></td>
+<td><p><a href="../Page/王志康.md" title="wikilink">王志康</a></p></td>
 <td><p>Bevis</p></td>
 <td></td>
 </tr>
@@ -596,7 +596,7 @@ Annie、Angie、Anna之上司<br />
 <td><p>在下元秋</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/王志康" title="wikilink">王志康</a></p></td>
+<td><p><a href="../Page/王志康.md" title="wikilink">王志康</a></p></td>
 <td><p>Bevis</p></td>
 <td><p>90後</p></td>
 </tr>

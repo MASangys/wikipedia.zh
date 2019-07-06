@@ -83,6 +83,7 @@ flower》，MV於4月1日零時公開，所有音源於當天下午六時發行�
 | 2017年1月23日                   | 《Mixxxture Project Vol.1》                                                          | 기다렸다 가（nosedive）                   | [Dynamic Duo](../Page/Dynamic_Duo.md "wikilink")              |
 | 2017年11月3日                   | 《[SM STATION S2](https://zh.wikipedia.org/wiki/SM_STATION_2 "wikilink")》           | Bye Babe                           | [10cm](../Page/10cm.md "wikilink")                            |
 | 2019年5月13日                   |                                                                                    | May We Bye                         | 林韓星                                                           |
+| 2019年7月2日                    | 《butterFLY》                                                                        | LOVE                               | [Ailee](https://zh.wikipedia.org/wiki/李藝真 "wikilink")         |
 
 ### OST
 

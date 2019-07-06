@@ -2,8 +2,12 @@
 Party**》是香港男歌手[陳奕迅於](../Page/陳奕迅.md "wikilink")2007年推出的歌曲，由[黎小田作曲](../Page/黎小田.md "wikilink")、[褚鎮東編曲](https://zh.wikipedia.org/wiki/褚鎮東 "wikilink")、[黃偉文填詞](https://zh.wikipedia.org/wiki/黃偉文 "wikilink")，收錄於專輯《[Listen
 to Eason
 Chan](https://zh.wikipedia.org/wiki/Listen_to_Eason_Chan "wikilink")》內，是當中唯一的抒情慢歌。歌曲甫推出便大受歡迎，播放率極高，在叱咤頒獎禮獲得「叱咤十大
-專業推介
-第二位」，及後更成為四台冠軍歌。[MV於同年發布](../Page/音樂錄影帶.md "wikilink")，有兩版：莊少榮導演版和[TVB版](https://zh.wikipedia.org/wiki/TVB "wikilink")。
+專業推介 第二位」，及後更成為四台冠軍歌。
+
+[MV於同年發布](../Page/音樂錄影帶.md "wikilink")，有兩版：莊少榮導演版和[TVB版](https://zh.wikipedia.org/wiki/TVB "wikilink")。
+
+2008年，陳奕迅發行精選《[Solidays](../Page/Solidays.md "wikilink")》，收錄了此曲的big band
+jazz版。
 
 ## 簡介
 

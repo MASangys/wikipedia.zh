@@ -31,7 +31,7 @@ Town"。成員的平均身高為181cm，除了音樂活動之外，還曾出演�
 </p></td>
 </tr>
 <tr class="odd">
-<td><p>OOON<br />
+<td><p>OooN<br />
 <br />
 </p></td>
 </tr>

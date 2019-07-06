@@ -1,5 +1,6 @@
-**GFRIEND**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Source
-Music公司推出的六人女子組合](https://zh.wikipedia.org/wiki/Source_Music "wikilink")，成員包括隊長[所願](../Page/Sowon.md "wikilink")、[睿隣](../Page/Yerin.md "wikilink")、[銀河](../Page/Eunha.md "wikilink")、[裕株](../Page/Yuju.md "wikilink")、[信飛及](../Page/SinB.md "wikilink")[嚴智](../Page/Umji.md "wikilink")。2015年1月16日，GFRIEND於[Music
+**GFRIEND**（韓文:여자친구 發音:Yeoja Chingu 對應漢字:女子親舊 日文:ジーフランド或ヨジャチング
+）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Source
+Music公司推出的六人女子組合](https://zh.wikipedia.org/wiki/Source_Music "wikilink")，成員包括[所願](../Page/Sowon.md "wikilink")、[睿隣](../Page/Yerin.md "wikilink")、[銀河](../Page/Eunha.md "wikilink")、[裕株](../Page/Yuju.md "wikilink")、[信飛及](../Page/SinB.md "wikilink")[嚴智](../Page/Umji.md "wikilink")。2015年1月16日，GFRIEND於[Music
 Bank以](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")《[Glass
 Bead](../Page/Season_of_Glass.md "wikilink")》一曲正式出道\[1\]。
 
@@ -175,8 +176,8 @@ Music特別於](https://zh.wikipedia.org/wiki/Source_Music "wikilink")19年3月1
 : Back To The
 Past〉企劃，特別在企劃中播出GFRIEND以前的各表演花絮。企劃最終回於5月23日公開，整個系列以演唱會上小分隊的表演作結尾。
 
-Source Music 在6月10日上午閃電宣布：「GFRIEND 將於 2019 年 7 月 1 日帶著第七張迷你專輯〈Fever
-Season〉回歸！」
+Source Music在6月10日上午宣布GFRIEND將於2019年7月1日帶著第七張迷你專輯《[Fever
+Season](../Page/Fever_Season.md "wikilink")》回歸。
 
 ## 成員資料
 
@@ -218,7 +219,7 @@ Season〉回歸！」
   - 2017-09-13《[Rainbow](https://zh.wikipedia.org/wiki/PARALLEL "wikilink")》（改版專輯）
   - 2018-04-30《[Time For The Moon
     Night](../Page/Time_For_The_Moon_Night.md "wikilink")》
-  - 2019-07-01《Fever Season》
+  - 2019-07-01《[Fever Season](../Page/Fever_Season.md "wikilink")》
 
 <!-- end list -->
 
@@ -427,6 +428,13 @@ Season〉回歸！」
 <td><p>GFRIEND The 2nd Album Comeback Showcase</p></td>
 <td><p><a href="../Page/首爾.md" title="wikilink">首爾</a><a href="../Page/廣津區.md" title="wikilink">廣津區YES</a> 24 LIVE HALL</p></td>
 <td><p>第二張正規專輯《<a href="../Page/Time_for_us.md" title="wikilink">Time for us</a>》</p></td>
+</tr>
+<tr class="even">
+<td><p>7月1日</p></td>
+<td><p>GFRIEND The 7th Mini Album FEVER SEASON Comeback Showcase</p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a><a href="../Page/廣津區.md" title="wikilink">廣津區YES</a> 24 LIVE HALL</p></td>
+<td><p>第七張迷你專輯《FEVER SEASON》</p></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -1032,7 +1040,7 @@ SHOW;zh-hans:韓秀榜}-](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")》�
 <td><p><a href="../Page/Time_for_us.md" title="wikilink">Time for us</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>Fever Season</p></td>
+<td><p><a href="../Page/Fever_Season.md" title="wikilink">Fever Season</a></p></td>
 </tr>
 <tr class="even">
 <td><ul>

@@ -209,8 +209,11 @@ Sales）。\[55\] 8月3日，迷你六輯《FREE'SM》，主打歌《在哪裡�
 2月1日，數位單曲《To The Sky》發行。2月22日，迷你七輯《Black Dress》回歸。\[58\]
 3月10日，参与师兄[BTOB的](../Page/BTOB.md "wikilink")[郑镒勋的首张迷你专辑](../Page/鄭鎰勳.md "wikilink")《[Big
 Wave](../Page/Big_Wave_\(專輯\).md "wikilink")》回归舞台。4月3日，公開收录曲《Distance》MV。
-11月23日，Elkie首張Solo單曲 《I dream》發行。\[59\] 12月，Billboard's The 20 Best
-K-pop Songs of 2018，《Black Dress》排名14位。 \[60\]
+5月22日，睿恩成为[SBS
+MTV电视台音乐节目](https://zh.wikipedia.org/wiki/SBS_MTV "wikilink")《[The
+Show](https://zh.wikipedia.org/wiki/The_Show "wikilink")》固定主持人。
+11月23日，Elkie首張Solo單曲 《I dream》發行。\[59\] 12月，Billboard's The 20
+Best K-pop Songs of 2018，《Black Dress》排名14位。 \[60\]
 
 ### 2019年
 

@@ -881,6 +881,9 @@
 <tr class="odd">
 <td><p>6月22日</p></td>
 </tr>
+<tr class="even">
+<td><p>6月29日</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -1564,6 +1567,12 @@ Chen、Kai</p></td>
 <td><p>MBC FM4U</p></td>
 <td><p>金申英正午的希望曲</p></td>
 <td></td>
+</tr>
+<tr class="odd">
+<td><p>7月2日</p></td>
+<td><p>KBS Cool FM</p></td>
+<td><p>鄭恩地的歌謠廣場</p></td>
+<td><p>Suho</p></td>
 </tr>
 </tbody>
 </table>

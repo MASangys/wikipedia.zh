@@ -494,7 +494,7 @@ Lee**}-為[加州出生局顯示的英文本名](https://zh.wikipedia.org/wiki/�
     《[請給一頓飯show](https://zh.wikipedia.org/wiki/請給一頓飯show "wikilink")》
     與[俞利共同出演](https://zh.wikipedia.org/wiki/權俞利 "wikilink")
   - 9月11日 [SBS](../Page/SBS_\(韓國\).md "wikilink") 《[同床異夢2 -
-    你是我的命運](https://zh.wikipedia.org/wiki/同床異夢2_-_你是我的命運 "wikilink")》
+    你是我的命運](../Page/同床異夢2_-_你是我的命運.md "wikilink")》
   - 9月16日 [SBS](../Page/SBS_\(韓國\).md "wikilink") 《[朴軫永的Party
     People](https://zh.wikipedia.org/wiki/朴軫永的Party_People "wikilink")》
   - 9月29日 [Channel A](../Page/Channel_A.md "wikilink")
@@ -854,8 +854,10 @@ Lee**}-為[加州出生局顯示的英文本名](https://zh.wikipedia.org/wiki/�
 [Category:少女時代](https://zh.wikipedia.org/wiki/Category:少女時代 "wikilink")
 [Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink")
 [Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink")
+[Category:美國女歌手](https://zh.wikipedia.org/wiki/Category:美國女歌手 "wikilink")
 [Category:韓國女歌手](https://zh.wikipedia.org/wiki/Category:韓國女歌手 "wikilink")
 [Category:韓國女性模特兒](https://zh.wikipedia.org/wiki/Category:韓國女性模特兒 "wikilink")
+[Category:美國舞者](https://zh.wikipedia.org/wiki/Category:美國舞者 "wikilink")
 [Category:韓國舞者](https://zh.wikipedia.org/wiki/Category:韓國舞者 "wikilink")
 [Category:韓國電視主持人](https://zh.wikipedia.org/wiki/Category:韓國電視主持人 "wikilink")
 [Category:韓國廣播主持人](https://zh.wikipedia.org/wiki/Category:韓國廣播主持人 "wikilink")

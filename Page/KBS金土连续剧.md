@@ -62,7 +62,7 @@
 <td><p><a href="../Page/製作人_(韓國電視劇).md" title="wikilink">製作人</a><br />
 </p></td>
 <td><p>12</p></td>
-<td><p><a href="../Page/金秀賢_(男演員).md" title="wikilink">金秀賢</a>、<a href="https://zh.wikipedia.org/wiki/車太鉉" title="wikilink">車太鉉</a>、<a href="../Page/孔曉振.md" title="wikilink">孔曉振</a>、<a href="https://zh.wikipedia.org/wiki/IU_(歌手)" title="wikilink">IU</a></p></td>
+<td><p><a href="../Page/金秀賢_(男演員).md" title="wikilink">金秀賢</a>、<a href="../Page/車太鉉.md" title="wikilink">車太鉉</a>、<a href="../Page/孔曉振.md" title="wikilink">孔曉振</a>、<a href="https://zh.wikipedia.org/wiki/IU_(歌手)" title="wikilink">IU</a></p></td>
 <td><p><a href="../Page/表民秀.md" title="wikilink">表民秀</a>、<a href="../Page/徐秀旻.md" title="wikilink">徐秀旻</a>、<a href="https://zh.wikipedia.org/wiki/朴哲律" title="wikilink">朴哲律</a>、<a href="https://zh.wikipedia.org/wiki/李東勛" title="wikilink">李東勛</a></p></td>
 <td><p><a href="../Page/朴智恩_(編劇).md" title="wikilink">朴智恩</a>、<a href="https://zh.wikipedia.org/wiki/金志善" title="wikilink">金志善</a></p></td>
 <td></td>
@@ -98,8 +98,8 @@
 <td><p><a href="../Page/最佳的一擊.md" title="wikilink">最佳的一擊</a><br />
 </p></td>
 <td><p>32</p></td>
-<td><p><a href="../Page/尹施允.md" title="wikilink">尹施允</a>、<a href="https://zh.wikipedia.org/wiki/車太鉉" title="wikilink">車太鉉</a>、<a href="../Page/金旻載.md" title="wikilink">金旻載</a>、<a href="../Page/尹孫河.md" title="wikilink">尹孫河</a>、<a href="https://zh.wikipedia.org/wiki/李世榮" title="wikilink">李世榮</a></p></td>
-<td><p>、<a href="https://zh.wikipedia.org/wiki/車太鉉" title="wikilink">車太鉉</a></p></td>
+<td><p><a href="../Page/尹施允.md" title="wikilink">尹施允</a>、<a href="../Page/車太鉉.md" title="wikilink">車太鉉</a>、<a href="../Page/金旻載.md" title="wikilink">金旻載</a>、<a href="../Page/尹孫河.md" title="wikilink">尹孫河</a>、<a href="https://zh.wikipedia.org/wiki/李世榮" title="wikilink">李世榮</a></p></td>
+<td><p>、<a href="../Page/車太鉉.md" title="wikilink">車太鉉</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/李英哲" title="wikilink">李英哲</a></p></td>
 <td></td>
 </tr>

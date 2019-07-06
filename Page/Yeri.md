@@ -23,7 +23,7 @@ Fragrance (보랏빛 향기)》與《No No No No No》等歌曲。
 
 2015年3月11日，[SM娛樂宣佈金藝琳加入](../Page/SM娛樂.md "wikilink")[Red
 Velvet](../Page/Red_Velvet.md "wikilink")\[3\]。3月18日，金藝琳以**YERI**為藝名在Naver
-Music的《Red Velvet 的 Ice Cream TV》出道。隊内擔當為忙内、領舞、副唱。
+Music的《Red Velvet 的 Ice Cream TV》出道。隊内擔當為末内、領舞、副唱。
 
 ### 出道後
 

@@ -233,7 +233,7 @@ production**是日本一家以執行動畫的企畫和製作為主要事業內�
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/星之夢.md" title="wikilink">planetarian ～星之人～</a></p></td>
+<td><p><a href="../Page/Planetarian～星之人～.md" title="wikilink">planetarian ～星之人～</a></p></td>
 <td></td>
 <td><p>2016年9月3日</p></td>
 <td><p>津田尚克</p></td>

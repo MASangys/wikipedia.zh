@@ -448,17 +448,6 @@ NGT48最年長</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>高澤朋花</p></td>
-<td></td>
-<td></td>
-<td><p>新潟縣<br />
-新潟市[73]</p></td>
-<td><p>2期</p></td>
-<td><p>AKS</p></td>
-<td><p>将于2019年6月30日辭退活動</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/高橋七實" title="wikilink">高橋七實</a></p></td>
 <td></td>
 <td></td>
@@ -469,7 +458,7 @@ NGT48最年長</p></td>
 <td><p>第三屆選秀會議Team NIII第三輪指名</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/對馬優菜子" title="wikilink">對馬優菜子</a></p></td>
 <td></td>
 <td></td>
@@ -480,41 +469,41 @@ NGT48最年長</p></td>
 <td><p>第三屆選秀會議Team NIII第一輪指名</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>寺田陽菜</p></td>
 <td></td>
 <td></td>
 <td><p>新潟縣<br />
-新潟市[74]</p></td>
+新潟市[73]</p></td>
+<td><p>2期</p></td>
+<td><p>AKS</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
+<td><p>富永夢有</p></td>
+<td></td>
+<td></td>
+<td><p>新潟縣<br />
+<a href="../Page/長岡市.md" title="wikilink">長岡市</a>[74]</p></td>
 <td><p>2期</p></td>
 <td><p>AKS</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>富永夢有</p></td>
-<td></td>
-<td></td>
-<td><p>新潟縣<br />
-<a href="../Page/長岡市.md" title="wikilink">長岡市</a>[75]</p></td>
-<td><p>2期</p></td>
-<td><p>AKS</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/藤崎未夢" title="wikilink">藤崎未夢</a></p></td>
 <td></td>
 <td></td>
 <td><p>新潟縣<br />
-新潟市[76]</p></td>
+新潟市[75]</p></td>
 <td><p>選秀<br />
 3期</p></td>
 <td><p>AKS</p></td>
 <td><p>第三屆選秀會議Team NIII第五輪指名</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>古澤愛</p></td>
 <td></td>
 <td></td>
@@ -524,7 +513,7 @@ NGT48最年長</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>古館葵</p></td>
 <td></td>
 <td></td>
@@ -534,7 +523,7 @@ NGT48最年長</p></td>
 <td><p>2期生暨NGT48最年少</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>真下華穗</p></td>
 <td></td>
 <td></td>
@@ -544,7 +533,7 @@ NGT48最年長</p></td>
 <td><p>2期生最年長</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>三村妃乃</p></td>
 <td></td>
 <td></td>
@@ -554,26 +543,26 @@ NGT48最年長</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>諸橋姫向</p></td>
 <td></td>
 <td></td>
 <td><p>新潟縣<br />
-<a href="../Page/彌彥村.md" title="wikilink">彌彥村</a>[77]</p></td>
+<a href="../Page/彌彥村.md" title="wikilink">彌彥村</a>[76]</p></td>
 <td><p>2期</p></td>
 <td><p>AKS</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
-<td><p>渡邉步咲</p></td>
+<tr class="odd">
 <td></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/山形縣" title="wikilink">山形縣</a></p></td>
-<td><p>2期</p></td>
-<td><p>AKS</p></td>
-<td><p>将于2019年6月30日辭退活動</p></td>
-<td><p>-</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -609,14 +598,14 @@ NGT48最年長</p></td>
 <td><p>AKB48<br />
 5期</p></td>
 <td><p>NIII</p></td>
-<td><p>2018年4月30日[78]</p></td>
+<td><p>2018年4月30日[77]</p></td>
 <td><p><a href="../Page/太田製作.md" title="wikilink">太田製作</a></p></td>
 <td><p>前Team NIII隊長暨NGT48總隊長<br />
 初代Team A<br />
 柏木Team B<br />
 曾兼任SKE48 Team S<br />
 大島、橫山Team K<br />
-4月18日畢業公演[79][80]</p></td>
+4月18日畢業公演[78][79]</p></td>
 <td><p>10</p></td>
 </tr>
 <tr class="even">
@@ -624,10 +613,10 @@ NGT48最年長</p></td>
 <td></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/新潟縣" title="wikilink">新潟縣</a><br />
-<a href="../Page/長岡市.md" title="wikilink">長岡市</a>[81]</p></td>
+<a href="../Page/長岡市.md" title="wikilink">長岡市</a>[80]</p></td>
 <td><p>1期</p></td>
 <td><p>NIII</p></td>
-<td><p>2018年8月7日[82][83]</p></td>
+<td><p>2018年8月7日[81][82]</p></td>
 <td><p>-</p></td>
 <td><p>8月6日畢業公演</p></td>
 <td><p>70</p></td>
@@ -637,10 +626,10 @@ NGT48最年長</p></td>
 <td></td>
 <td></td>
 <td><p>新潟縣<br />
-<a href="https://zh.wikipedia.org/wiki/小千谷市" title="wikilink">小千谷市</a>[84]</p></td>
+<a href="https://zh.wikipedia.org/wiki/小千谷市" title="wikilink">小千谷市</a>[83]</p></td>
 <td><p>1期</p></td>
 <td><p>NIII</p></td>
-<td><p>2018年10月6日[85][86]</p></td>
+<td><p>2018年10月6日[84][85]</p></td>
 <td><p>-</p></td>
 <td><p>10月5日畢業公演</p></td>
 <td><p>-</p></td>
@@ -666,12 +655,12 @@ NGT48最年長</p></td>
 <td></td>
 <td></td>
 <td><p>新潟縣<br />
-<a href="https://zh.wikipedia.org/wiki/聖籠町" title="wikilink">聖籠町</a>[87]</p></td>
+<a href="https://zh.wikipedia.org/wiki/聖籠町" title="wikilink">聖籠町</a>[86]</p></td>
 <td><p>1期</p></td>
 <td><p>1期生</p></td>
 <td><p>2019年5月19日</p></td>
 <td><p>-</p></td>
-<td><p>5月18日畢業公演[88]</p></td>
+<td><p>5月18日畢業公演[87]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -679,11 +668,11 @@ NGT48最年長</p></td>
 <td></td>
 <td></td>
 <td><p>新潟縣<br />
-<a href="../Page/胎內市.md" title="wikilink">胎內市</a>[89]</p></td>
+<a href="../Page/胎內市.md" title="wikilink">胎內市</a>[88]</p></td>
 <td><p>1期</p></td>
 <td><p>1期生</p></td>
 <td><p>Crocodile</p></td>
-<td><p>5月18日畢業公演[90]</p></td>
+<td><p>5月18日畢業公演[89]</p></td>
 <td><p>77</p></td>
 <td></td>
 </tr>
@@ -696,7 +685,7 @@ NGT48最年長</p></td>
 <td><p>1期</p></td>
 <td><p>1期生</p></td>
 <td><p><a href="../Page/研音.md" title="wikilink">研音</a></p></td>
-<td><p>5月18日畢業公演[91]<br />
+<td><p>5月18日畢業公演[90]<br />
 前Team G副隊長</p></td>
 <td><p>53</p></td>
 <td></td>
@@ -739,13 +728,13 @@ NGT48最年長</p></td>
 <td></td>
 <td></td>
 <td><p>新潟縣<br />
-<a href="../Page/新潟市.md" title="wikilink">新潟市</a>[92]</p></td>
+<a href="../Page/新潟市.md" title="wikilink">新潟市</a>[91]</p></td>
 <td><p>1期</p></td>
 <td><p>2017年3月31日</p></td>
 <td><p>-</p></td>
 <td><p>1期生最年長<br />
 擁有保姆及幼兒園教師資格證書<br />
-3月25日畢業公演[93]</p></td>
+3月25日畢業公演[92]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -753,11 +742,11 @@ NGT48最年長</p></td>
 <td></td>
 <td></td>
 <td><p>新潟縣<br />
-新潟市[94]</p></td>
+新潟市[93]</p></td>
 <td><p>2017年10月31日</p></td>
 <td><p>NEW BRiGHT PRODUCTION</p></td>
 <td><p>10月22日最終握手會<br />
-10月29日畢業公演[95][96]</p></td>
+10月29日畢業公演[94][95]</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
@@ -769,8 +758,8 @@ NGT48最年長</p></td>
 <td><p>2期</p></td>
 <td><p>2019年3月10日</p></td>
 <td><p>-</p></td>
-<td><p>2018年12月26日起因違規暫停活動[97]<br />
-請辭[98]</p></td>
+<td><p>2018年12月26日起因違規暫停活動[96]<br />
+請辭[97]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -781,19 +770,31 @@ NGT48最年長</p></td>
 <td><p>2期</p></td>
 <td><p>2019年6月12日</p></td>
 <td><p>-</p></td>
-<td><p>請辭[99]</p></td>
+<td><p>請辭[98]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
+<td><p>高澤朋花</p></td>
 <td></td>
 <td></td>
+<td><p>新潟縣<br />
+新潟市[99]</p></td>
+<td><p>2期</p></td>
+<td><p>2019年6月30日</p></td>
+<td><p>-</p></td>
+<td><p>請辭<ref>{{Cite web|url=<a href="https://ngt48.jp/news/detail/100003316%7Cscript-title=ja:NGT48研究生">https://ngt48.jp/news/detail/100003316|script-title=ja:NGT48研究生</a> 高沢朋花 活動辞退のご報告|work=NGT48 Offcial site|publisher=AKS</p></td>
+<td><p>accessdate=2019-06-22}}</ref></p></td>
+</tr>
+<tr class="even">
+<td><p>渡邉步咲</p></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/山形縣" title="wikilink">山形縣</a></p></td>
+<td><p>2期</p></td>
+<td><p>-</p></td>
+<td><p>請辭<ref>{{Cite web|url=<a href="https://ngt48.jp/news/detail/100003317%7Cscript-title=ja:NGT48研究生">https://ngt48.jp/news/detail/100003317|script-title=ja:NGT48研究生</a> 渡邉歩咲 活動辞退のご報告|work=NGT48 Offcial site|publisher=AKS</p></td>
+<td><p>accessdate=2019-06-22}}</ref></p></td>
+<td><p>-</p></td>
 </tr>
 </tbody>
 </table>
@@ -1021,8 +1022,16 @@ AKB48 Team B柏木由紀兼任發表</p></td>
 <tr class="even">
 <td><p>5月21日</p></td>
 <td><p>研究生山崎美里衣請辭</p></td>
-<td><p>1</p></td>
+<td><p>-1</p></td>
 <td><p>36</p></td>
+<td><p>16</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="odd">
+<td><p>6月30日</p></td>
+<td><p>研究生高澤朋花、渡邉步咲請辭</p></td>
+<td><p>-2</p></td>
+<td><p>34</p></td>
 <td><p>16</p></td>
 <td><p>-</p></td>
 </tr>
@@ -1218,7 +1227,7 @@ AKB48 Team B柏木由紀兼任發表</p></td>
 **最終合格者**（粗體字者為在籍成員）
 
   -
-    **大塚七海**、**小越春花**、**川越紗彩**、**小見山沙空**、**曾我部優芽**、**高澤朋花**、**寺田陽菜**、**富永夢有**、羽切瑠菜、**古澤愛**、**古館葵**、**真下華穗**、**三村妃乃**、**諸橋姫向**、山崎美里衣、**渡邉步咲**
+    **大塚七海**、**小越春花**、**川越紗彩**、**小見山沙空**、**曾我部優芽**、高澤朋花、**寺田陽菜**、**富永夢有**、羽切瑠菜、**古澤愛**、**古館葵**、**真下華穗**、**三村妃乃**、**諸橋姫向**、山崎美里衣、渡邉步咲
 
 ### AKB48家族選秀會議
 
@@ -1991,32 +2000,33 @@ NGT48劇場是NGT48劇場公演的專用場地，位於[新潟市](../Page/新�
 75.
 76.
 77.
+
 78.
-
 79.
-80.
 
+80.
 81.
+
 82.
 
 83.
-
 84.
+
 85.
 
 86.
-
 87.
-88.
 
+88.
 89.
 90.
+
 91.
-
 92.
-93.
 
+93.
 94.
+
 95.
 
 96.
@@ -2026,7 +2036,6 @@ NGT48劇場是NGT48劇場公演的專用場地，位於[新潟市](../Page/新�
 98.
 
 99.
-
 100.
 101.
 102.

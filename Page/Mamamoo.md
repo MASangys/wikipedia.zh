@@ -176,7 +176,9 @@ MAMAMOO CONCERT 4season S/S」。\[35\]
 11月8日，官方宣布MAMAMOO將於29日發行以頌樂為概念的第八張迷你專輯《BLUE;S》，此專輯為本年度四季四色計畫中的第三項計畫。\[39\]
 11月29日，韓國標準時間(KST)晚上6點，MAMAMOO發行第八張迷你專輯《BLUE;S》，主打歌為《Wind flower》。
 
-### 2019年：日本第二張單曲《Wind flower》、華莎個人單曲《멍청이(TWIT)》、迷你九輯《White Wind》、《4season F/W》演唱會、日本第一張正規專輯《4colors》
+
+\===2019年：日本第二張單曲《Wind flower》、華莎個人單曲《멍청이(TWIT)》、迷你九輯《White
+Wind》、《4season F/W》演唱會、日本第一張正規專輯《4colors》===
 
 2月6日，MAMAMOO發行第二張日文單曲《Wind flower》。\[40\]
 
@@ -193,10 +195,13 @@ MAMAMOO CONCERT 4season F/W IN TAIWAN」演唱會，臺灣也成為MAMAMOO此次
 
 6月22、23日，MAMAMOO在建國大學入口站的樂天電影院 8 館舉行出道五週年紀念放映會《SIX NINETEEN》。\[46\]
 
-7月13日，MAMAMOO將於高麗大學化汀體育館舉辦2019 MAMAMOO FAN MEETING 「무무전:
+6月24日，迷你六輯《Yellow Flower》中主打歌《星光閃耀的夜晚(Starry
+Night)》在MAMAMOO官方頻道與1thek頻道點閱率合計破億，成為MAMAMOO首支破億MV。
+
+7月13日，MAMAMOO於高麗大學化汀體育館舉辦2019 MAMAMOO FAN MEETING 「무무전:
 장원쟁탈기(MOOMOO傳：狀元爭奪記)」。\[47\]\[48\]
 
-7月27、28日，MAMAMOO將於大邱舉辦「2019 MAMAMOO CONCERT 4season F/W」安可演唱會。\[49\]
+7月27、28日，MAMAMOO於大邱舉辦「2019 MAMAMOO CONCERT 4season F/W」安可演唱會。\[49\]
 
 8月7日，MAMAMOO於日本發行第一張正規專輯《4colors》。8月11日、13日，分別於日本東京、大阪舉行「MAMAMOO 2nd
 CONCERT TOUR in JAPAN ：4season Final」。\[50\]
@@ -233,6 +238,11 @@ FESTIVAL，[頌樂在彩排時腰部不慎受傷](../Page/頌樂.md "wikilink")�
 2018年6月23日，RBW發表公開聲明，內容為[玟星在練習回歸舞蹈時感覺腰背部疼痛](../Page/玟星.md "wikilink")，當下立即送至醫院檢查。官方表示只要接受適當的治療和肌肉運動，[玟星便能康復](../Page/玟星.md "wikilink")。在與當事人討論過後，[玟星仍敬業的以坐在椅子上的方式進行各項活動演出](../Page/玟星.md "wikilink")。\[59\]\[60\]
 
 2018年12月28日，RBW發表聲明，[輝人在](../Page/輝人.md "wikilink")27日當日行程結束後不慎在樓梯間摔倒，導致腳踝扭傷。[MAMAMOO於](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")28日在越南舉辦的見面會，可以看到[輝人坐在椅子上敬業完成演出](../Page/輝人.md "wikilink")。\[61\]29日則坐著輪椅返韓，當晚參與「MBC演藝大賞」也是坐在椅子上完成演出。\[62\]
+
+### MV點閱率紀錄
+
+2019年6月24日，迷你六輯《Yellow Flower》中主打歌《星光閃耀的夜晚(Starry
+Night)》在MAMAMOO官方頻道與1thek頻道點閱率合計破億，成為MAMAMOO首支破億MV。
 
 ## 音樂作品
 
@@ -308,6 +318,7 @@ FESTIVAL，[頌樂在彩排時腰部不慎受傷](../Page/頌樂.md "wikilink")�
 | EGOIST (日本服飾品牌)         |                      |
 | 2019                    | DAVICH眼鏡             |
 | EVERBIKINI (減肥食品)       |                      |
+| FNB Cash Leaflet        |                      |
 |                         |                      |
 
 ## 演唱會及其他演出

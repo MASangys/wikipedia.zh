@@ -78,7 +78,7 @@
 <td><p><a href="../Page/樂園追放_-Expelled_from_Paradise-.md" title="wikilink">樂園追放 -Expelled from Paradise-</a></p></td>
 <td></td>
 <td><p>11月5日</p></td>
-<td><p>[水島精二]]</p></td>
+<td><p><a href="../Page/水島精二.md" title="wikilink">水島精二</a></p></td>
 <td><p>原創</p></td>
 <td></td>
 </tr>

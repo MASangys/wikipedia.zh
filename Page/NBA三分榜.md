@@ -145,7 +145,7 @@
 </tr>
 <tr class="even">
 <td><p>11</p></td>
-<td><p><a href="../Page/德克·诺维茨基.md" title="wikilink">德克·诺维茨基</a>^</p></td>
+<td><p><a href="../Page/德克·诺维茨基.md" title="wikilink">德克·诺维茨基</a>†</p></td>
 <td><p>大前鋒/ 中鋒</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/达拉斯小牛" title="wikilink">达拉斯小牛</a></p></td>
 <td><p>1918</p></td>
