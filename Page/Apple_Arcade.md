@@ -16,8 +16,7 @@ Apple Arcade包括以下功能：
 ## 相關條目
 
   - [Game Center](../Page/Game_Center.md "wikilink")
-  - [Google
-    Stadia](https://zh.wikipedia.org/wiki/Google_Stadia "wikilink")
+  - [Google Stadia](../Page/Google_Stadia.md "wikilink")
 
 ## 参考資料
 

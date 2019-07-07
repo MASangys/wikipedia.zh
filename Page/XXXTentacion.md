@@ -1,5 +1,5 @@
 **賈西·德韦恩·里卡多·昂弗莱**（英文：Jahseh Dwayne Ricardo
-Onfroy，），藝名**XXXTentacion**（\[1\]，通常被簡稱為**X**），[美国](../Page/美国.md "wikilink")[饒舌歌手和](../Page/饒舌.md "wikilink")[詞曲作家](../Page/詞曲作家.md "wikilink")。昂弗莱是嘻哈行業裡其中一位備受爭議的人物，他因其對年輕粉絲群的影響以及他在短暫職業生涯中的受歡迎程度而被認為留下了“巨大的音樂足跡”\[2\]。昂弗莱出生於[佛羅里達州](../Page/佛罗里达州.md "wikilink")[種植園](../Page/种植园_\(佛罗里达州\).md "wikilink")，大部分時間都在[劳德希尔度過](https://zh.wikipedia.org/wiki/劳德希尔 "wikilink")。他從青少年拘留中心獲釋後開始创作音樂\[3\]，並於2013年6月在[SoundCloud上發布了他的第一首歌曲](../Page/SoundCloud.md "wikilink")\[4\]“News/Flock”，不久后成为了SoundCloud说唱——
+Onfroy，），藝名**XXXTentacion**（\[1\]，通常被簡稱為**X**），[美国](../Page/美国.md "wikilink")[饒舌歌手和](../Page/饒舌.md "wikilink")[詞曲作家](../Page/詞曲作家.md "wikilink")。昂弗莱是嘻哈行業裡其中一位備受爭議的人物，他因其對年輕粉絲群的影響以及他在短暫職業生涯中的受歡迎程度而被認為留下了“巨大的音樂足跡”\[2\]。昂弗莱出生於[佛羅里達州](../Page/佛罗里达州.md "wikilink")[種植園](../Page/种植园_\(佛罗里达州\).md "wikilink")，大部分時間都在[劳德希尔度過](../Page/劳德希尔.md "wikilink")。他從青少年拘留中心獲釋後開始创作音樂\[3\]，並於2013年6月在[SoundCloud上發布了他的第一首歌曲](../Page/SoundCloud.md "wikilink")\[4\]“News/Flock”，不久后成为了SoundCloud说唱——
 一種採用低保真音樂和粗糙、刺耳的808鼓机曲風元素的[陷阱音樂](../Page/陷阱音樂.md "wikilink") ——
 的圈子中的一個受歡迎的人物\[5\]\[6\]\[7\] 。
 
@@ -19,7 +19,7 @@ Cry”中献声。在他去世幾個月後，他在BET嘻哈獎中獲得了最�
 賈西·德韋恩·里卡多·昂弗莱於1998年1月23日在[佛罗里达州](../Page/佛罗里达州.md "wikilink")[普兰泰申出生](../Page/普兰泰申_\(佛罗里达州\).md "wikilink")，他的父母為牙買加人德韋恩·里卡多·昂弗莱（Dwayne
 Ricardo Onfroy）和克莱奥帕特拉·伯納德（Cleopatra
 Bernard）\[13\]。他有三個兄弟姐妹，其中一個是同父異母的\[14\]。由於他母親的經濟狀況\[15\]，昂弗莱主要由他的祖母科萊特·瓊斯所照顧（Collette
-Jones）\[16\]，並居住在[佛羅里達州的](../Page/佛罗里达州.md "wikilink")[龐帕諾比奇和](https://zh.wikipedia.org/wiki/龐帕諾比奇_\(佛羅里達州\) "wikilink")[劳德希尔](https://zh.wikipedia.org/wiki/劳德希尔 "wikilink")。在他六歲時，他試圖刺傷一名正試圖攻擊他母親的男子，最后他在被迫與祖母一起生活前參加了青少年計劃（Youth
+Jones）\[16\]，並居住在[佛羅里達州的](../Page/佛罗里达州.md "wikilink")[龐帕諾比奇和](https://zh.wikipedia.org/wiki/龐帕諾比奇_\(佛羅里達州\) "wikilink")[劳德希尔](../Page/劳德希尔.md "wikilink")。在他六歲時，他試圖刺傷一名正試圖攻擊他母親的男子，最后他在被迫與祖母一起生活前參加了青少年計劃（Youth
 program）。
 
 昂弗莱對音樂的興趣最初是在他的姨媽說服他開始上學和後來的教堂合唱團之後開始的。可是他在其後因攻擊另一名學生而很快被趕出學校合唱團\[17\]。昂弗莱後來入讀馬蓋特中學（Margate
@@ -31,7 +31,7 @@ School）直到他在十年級時選擇退學\[20\]。在那段時間裡，他�
 ## 死亡
 
 [XXXTentacion_Memorial_1.png](https://zh.wikipedia.org/wiki/File:XXXTentacion_Memorial_1.png "fig:XXXTentacion_Memorial_1.png")
-2018年6月18日，昂弗莱離開位於[佛罗里达州](../Page/佛罗里达州.md "wikilink")[迪尔菲尔德比奇的Riva](https://zh.wikipedia.org/wiki/迪尔菲尔德比奇 "wikilink")
+2018年6月18日，昂弗莱離開位於[佛罗里达州](../Page/佛罗里达州.md "wikilink")[迪尔菲尔德比奇的Riva](../Page/迪尔菲尔德比奇.md "wikilink")
 Motorsports摩托車經銷店，大約下午3點55分，昂弗莱被一輛黑色SUV擋出停車場.\[23\]。當其中兩名持槍兇徒坐在駕駛座上時，另外兩名持槍兇徒離開了SUV並接近昂弗莱，發生了短暫的扭打。其中一名持槍兇徒進入昂弗莱的車內偷了一個小路易威登包，並多次射擊昂弗莱。槍手們其後立刻登上他們的黑色SUV中逃離現場，昂弗莱被醫護人員運送到迪尔菲尔德比奇附近的布勞沃德健康醫院北院（Broward
 Health
 North），並在那裡被宣布死亡\[24\]。而[布劳沃德县警察辦公室於下午](https://zh.wikipedia.org/wiki/布劳沃德县 "wikilink")5:30左右正式宣布昂弗莱的死亡\[25\]\[26\]。

@@ -198,7 +198,7 @@
 </tr>
 <tr class="odd">
 <td><p>7月8日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/布宜諾斯艾利斯_(單曲)" title="wikilink">布宜諾斯艾利斯</a></p></td>
+<td><p><a href="../Page/布宜諾斯艾利斯_(單曲).md" title="wikilink">布宜諾斯艾利斯</a></p></td>
 <td><p><a href="../Page/IZ*ONE.md" title="wikilink">IZ*ONE</a></p></td>
 <td><p>21.6</p></td>
 <td><p>1</p></td>

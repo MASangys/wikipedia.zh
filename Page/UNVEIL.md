@@ -12,7 +12,7 @@ Kids於每次回歸前所舉辦的Showcase](https://zh.wikipedia.org/wiki/Stray_
 | 《Stray Kids UNVEIL \[Op. 01 : [I am NOT](../Page/I_am_NOT_\(Stray_Kids迷你專輯\).md "wikilink")\]》 | 2018年3月25日  | 首爾站                                                               | [獎忠體育館](https://zh.wikipedia.org/wiki/獎忠體育館 "wikilink") | 3500\[2\]                           | 出道Showcase\[3\]\[4\] |
 | 《Stray Kids UNVEIL \[Op. 02 : [I am WHO](../Page/I_am_WHO_\(Stray_Kids迷你專輯\).md "wikilink")\]》 | 2018年8月5日   | [慶熙大學和平殿堂](../Page/慶熙大學.md "wikilink")                            |                                                         | 回歸Showcase\[5\]\[6\]\[7\]\[8\]\[9\] |                      |
 | 《Stray Kids UNVEIL \[Op. 03 : [I am YOU](../Page/I_am_YOU_\(Stray_Kids迷你專輯\).md "wikilink")\]》 | 2018年10月21日 | [奧林匹克公園奧林匹克大廳](https://zh.wikipedia.org/wiki/首爾奧林匹克公園 "wikilink") |                                                         | 回歸Showcase\[10\]\[11\]\[12\]        |                      |
-| 《UNVEIL THE [MIROH](https://zh.wikipedia.org/wiki/Clé_1:_Miroh "wikilink")》                    | 2019年3月25日  | YES24 Live Hall                                                   |                                                         | 回歸Showcase\[13\]\[14\]\[15\]        |                      |
+| 《UNVEIL THE [MIROH](../Page/Clé_1:_Miroh.md "wikilink")》                                       | 2019年3月25日  | YES24 Live Hall                                                   |                                                         | 回歸Showcase\[13\]\[14\]\[15\]        |                      |
 
 ## 歌單
 

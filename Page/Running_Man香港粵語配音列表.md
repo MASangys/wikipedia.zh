@@ -109,7 +109,7 @@ Man](../Page/Running_Man.md "wikilink")》節目於2010年7月11日啟播，初�
 </tr>
 <tr class="even">
 <td><p>特別出演</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/車太鉉" title="wikilink">車太鉉</a>(#8.02)、<a href="../Page/文世潤.md" title="wikilink">文世潤</a>(#11.25)</p></td>
+<td><p><a href="../Page/車太鉉.md" title="wikilink">車太鉉</a>(#8.02)、<a href="../Page/文世潤.md" title="wikilink">文世潤</a>(#11.25)</p></td>
 <td></td>
 </tr>
 <tr class="odd">

@@ -1,6 +1,6 @@
 **Cherry
 Bullet**（；），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[FNC娛樂旗下的十人女子組合](../Page/FNC娛樂.md "wikilink")。成員從2018年11月21日依次公開
-：由六名韓國成員[海允](../Page/海允.md "wikilink")、[裕姝](../Page/裕姝.md "wikilink")、[未來](../Page/金京主.md "wikilink")、[紫蘿](https://zh.wikipedia.org/wiki/紫蘿 "wikilink")、[智媛](../Page/智媛.md "wikilink")、[彩麟](../Page/彩麟.md "wikilink")，三名日本成員[KOKORO](../Page/KOKORO.md "wikilink")、[莉美](https://zh.wikipedia.org/wiki/REMI_\(Cherry_Bullet\) "wikilink")、[MAY](../Page/MAY_\(Cherry_Bullet\).md "wikilink")，以及一名台灣成員[粼粼所組成](../Page/黃姿婷.md "wikilink")\[1\]\[2\]\[3\]。2019年1月21日以首張單曲專輯《[Let's
+：由六名韓國成員[海允](../Page/海允.md "wikilink")、[裕姝](../Page/裕姝.md "wikilink")、[未來](../Page/金京主.md "wikilink")、[紫蘿](../Page/紫蘿.md "wikilink")、[智媛](../Page/智媛.md "wikilink")、[彩麟](../Page/彩麟.md "wikilink")，三名日本成員[KOKORO](../Page/KOKORO.md "wikilink")、[莉美](https://zh.wikipedia.org/wiki/REMI_\(Cherry_Bullet\) "wikilink")、[MAY](../Page/MAY_\(Cherry_Bullet\).md "wikilink")，以及一名台灣成員[粼粼所組成](../Page/黃姿婷.md "wikilink")\[1\]\[2\]\[3\]。2019年1月21日以首張單曲專輯《[Let's
 Play Cherry
 Bullet](../Page/Let's_Play_Cherry_Bullet.md "wikilink")》正式出道\[4\]\[5\]。
 
@@ -17,7 +17,7 @@ Bullet](../Page/Let's_Play_Cherry_Bullet.md "wikilink")》正式出道\[4\]\[5\]
 | [海允](../Page/海允.md "wikilink")                     |
 | [裕姝](../Page/裕姝.md "wikilink")                     |
 | **[未來](../Page/金京主.md "wikilink")**                |
-| [紫蘿](https://zh.wikipedia.org/wiki/紫蘿 "wikilink")  |
+| [紫蘿](../Page/紫蘿.md "wikilink")                     |
 | [智媛](../Page/智媛.md "wikilink")                     |
 | [KOKORO](../Page/KOKORO.md "wikilink")             |
 | [莉美](../Page/Remi_\(Cherry_Bullet\).md "wikilink") |

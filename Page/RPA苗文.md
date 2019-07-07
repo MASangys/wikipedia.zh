@@ -6,7 +6,7 @@
 ### 创制
 
 20世纪50年代初，[法国](https://zh.wikipedia.org/wiki/法国 "wikilink")[天主教](../Page/天主教.md "wikilink")[传教士伊夫](../Page/传教士.md "wikilink")·伯尔特赖（Yves
-Bertrais）神父在[老挝](../Page/老挝.md "wikilink")[琅勃拉邦省的](../Page/琅勃拉邦省.md "wikilink")[苗族人中间](https://zh.wikipedia.org/wiki/苗族人 "wikilink")[传教](https://zh.wikipedia.org/wiki/传教 "wikilink")，为了方便传教工作，他创制了一种基于[法语拼写的](../Page/法语.md "wikilink")[苗文](https://zh.wikipedia.org/wiki/苗文 "wikilink")。与此同时，在[川圹省传教的](../Page/川圹省.md "wikilink")[美国](../Page/美国.md "wikilink")[新教传教士林伍德](../Page/新教.md "wikilink")·巴尼[牧师](../Page/牧师.md "wikilink")（Linwood
+Bertrais）神父在[老挝](../Page/老挝.md "wikilink")[琅勃拉邦省的](../Page/琅勃拉邦省.md "wikilink")[苗族人中间](https://zh.wikipedia.org/wiki/苗族人 "wikilink")[传教](https://zh.wikipedia.org/wiki/传教 "wikilink")，为了方便传教工作，他创制了一种基于[法语拼写的](../Page/法语.md "wikilink")[苗文](../Page/苗文.md "wikilink")。与此同时，在[川圹省传教的](../Page/川圹省.md "wikilink")[美国](../Page/美国.md "wikilink")[新教传教士林伍德](../Page/新教.md "wikilink")·巴尼[牧师](../Page/牧师.md "wikilink")（Linwood
 Barney）在语言学家威廉·斯莫利牧师（William
 Smalley）的协助下也设计了一种苗文。1952年，三人在[琅勃拉邦会面商讨苗文统一的问题并在](../Page/琅勃拉邦.md "wikilink")1953年完成了RPA苗文方案。\[2\]
 

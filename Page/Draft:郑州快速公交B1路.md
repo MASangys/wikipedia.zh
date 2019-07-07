@@ -1,4 +1,4 @@
-**B1路**是[郑州快速公交来往于电厂路公交站和](../Page/郑州快速公交.md "wikilink")[中州大道](https://zh.wikipedia.org/wiki/中州大道 "wikilink")[农业路的一条主干线路](https://zh.wikipedia.org/wiki/农业路 "wikilink")，开通于2009年5月28日，是郑州第一条全线均设有[公交专用道的快速公交主线](https://zh.wikipedia.org/wiki/公交专用道 "wikilink")。
+**B1路**是[郑州快速公交来往于电厂路公交站和](../Page/郑州快速公交.md "wikilink")[中州大道](../Page/中州大道.md "wikilink")[农业路的一条主干线路](https://zh.wikipedia.org/wiki/农业路 "wikilink")，开通于2009年5月28日，是郑州第一条全线均设有[公交专用道的快速公交主线](https://zh.wikipedia.org/wiki/公交专用道 "wikilink")。
 
 ## 线路历史
 
@@ -11,8 +11,8 @@
 
 ### 线路走向
 
-  - 上行：[陇海西路](https://zh.wikipedia.org/wiki/陇海路_\(郑州\) "wikilink")[西三环](../Page/郑州三环路.md "wikilink")→[郑州东站](../Page/郑州东站.md "wikilink")
-      - 自陇海西路西三环起，经[陇海西路](https://zh.wikipedia.org/wiki/陇海路_\(郑州\) "wikilink")、陇海中路、陇海东路、永平路、[农业南路](https://zh.wikipedia.org/wiki/农业路 "wikilink")、商鼎路、中兴南路至[郑州东站止](../Page/郑州东站.md "wikilink")。
+  - 上行：[陇海西路](../Page/陇海路_\(郑州\).md "wikilink")[西三环](../Page/郑州三环路.md "wikilink")→[郑州东站](../Page/郑州东站.md "wikilink")
+      - 自陇海西路西三环起，经[陇海西路](../Page/陇海路_\(郑州\).md "wikilink")、陇海中路、陇海东路、永平路、[农业南路](https://zh.wikipedia.org/wiki/农业路 "wikilink")、商鼎路、中兴南路至[郑州东站止](../Page/郑州东站.md "wikilink")。
   - 下行：郑州东站→陇海西路西三环
       - 自[郑州东站起](../Page/郑州东站.md "wikilink")，经[东三环辅路](../Page/郑州三环路.md "wikilink")、商鼎路、[农业南路](https://zh.wikipedia.org/wiki/农业路 "wikilink")、永平路、陇海东路、陇海中路、陇海西路至西三环止。
 
@@ -62,7 +62,7 @@ B5路各停靠站点如下表所示\[5\]：
 <tr class="even">
 <td><p>1</p></td>
 <td><p>陇海西路西三环</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/陇海路_(郑州)" title="wikilink">陇海西路</a></p></td>
+<td><p><a href="../Page/陇海路_(郑州).md" title="wikilink">陇海西路</a></p></td>
 <td><p>112、B302、B502</p></td>
 <td></td>
 <td></td>
@@ -118,7 +118,7 @@ B5路各停靠站点如下表所示\[5\]：
 <tr class="odd">
 <td><p>8</p></td>
 <td><p>陇海路嵩山路</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/陇海路_(郑州)" title="wikilink">陇海中路</a></p></td>
+<td><p><a href="../Page/陇海路_(郑州).md" title="wikilink">陇海中路</a></p></td>
 <td><p>B502、<a href="../Page/郑州公交1路.md" title="wikilink">1</a>、216</p></td>
 <td></td>
 <td><p>兴华中学、泰德城</p></td>
@@ -158,7 +158,7 @@ B5路各停靠站点如下表所示\[5\]：
 <tr class="even">
 <td><p>13</p></td>
 <td><p>陇海路一马路</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/陇海路_(郑州)" title="wikilink">陇海东路</a></p></td>
+<td><p><a href="../Page/陇海路_(郑州).md" title="wikilink">陇海东路</a></p></td>
 <td><p>B501、<a href="../Page/郑州公交1路.md" title="wikilink">1</a>、38、216</p></td>
 <td></td>
 <td><p>郑州世贸购物中心</p></td>
@@ -305,7 +305,7 @@ B5路各停靠站点如下表所示\[5\]：
 ## 另见
 
   - [郑州公交](../Page/郑州公交.md "wikilink")
-  - [郑州公交线路列表](https://zh.wikipedia.org/wiki/郑州公交线路列表 "wikilink")
+  - [郑州公交线路列表](../Page/郑州公交线路列表.md "wikilink")
 
 ## 参考资料
 

@@ -120,7 +120,7 @@ GR PRAC 75毫米。
 
   -
   -
-  - [68號反坦克槍榴彈](https://zh.wikipedia.org/wiki/68號反坦克槍榴彈 "wikilink")
+  - [68號反坦克槍榴彈](../Page/68號反坦克槍榴彈.md "wikilink")
 
   - [M31反坦克槍榴彈](../Page/M31反坦克槍榴彈.md "wikilink")
 

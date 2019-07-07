@@ -17,8 +17,7 @@ M系列暫時會以[印度作銷售市場](../Page/印度.md "wikilink")，採�
     M10](https://zh.wikipedia.org/wiki/三星Galaxy_M10 "wikilink")
   - [三星Galaxy
     M20](https://zh.wikipedia.org/wiki/三星Galaxy_M20 "wikilink")
-  - [三星Galaxy
-    M30](https://zh.wikipedia.org/wiki/三星Galaxy_M30 "wikilink")
+  - [三星Galaxy M30](../Page/三星Galaxy_M30.md "wikilink")
   - [三星Galaxy
     M40](https://zh.wikipedia.org/wiki/三星Galaxy_M40 "wikilink")
 

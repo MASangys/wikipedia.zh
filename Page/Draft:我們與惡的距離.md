@@ -1,4 +1,4 @@
-《**我們與惡的距離**》（）為[臺灣](../Page/臺灣.md "wikilink")[公共電視於](https://zh.wikipedia.org/wiki/公共電視文化事業基金會 "wikilink")2019年推出的社會寫實劇，由[林君陽執導](../Page/林君陽.md "wikilink")、[金鐘](../Page/金鐘獎.md "wikilink")[編劇](../Page/金鐘獎戲劇節目編劇獎.md "wikilink")[呂蒔媛執筆](../Page/呂蒔媛.md "wikilink")，主演为[賈靜雯](../Page/賈靜雯.md "wikilink")、[溫昇豪](../Page/溫昇豪.md "wikilink")、[吳慷仁](../Page/吳慷仁.md "wikilink")、[周采詩](../Page/周采詩.md "wikilink")、[林予晞](../Page/林予晞.md "wikilink")、[施名帥](../Page/施名帥.md "wikilink")、[-{洪}-都拉斯](../Page/洪都拉斯_\(藝人\).md "wikilink")、[陳妤](../Page/陳妤.md "wikilink")、[曾沛慈](../Page/曾沛慈.md "wikilink")、[林哲熹](../Page/林哲熹.md "wikilink")、[-{于}-卉喬](../Page/于卉喬.md "wikilink")、[檢場與](../Page/檢場.md "wikilink")[謝瓊煖](../Page/謝瓊煖.md "wikilink")。本剧於2018年4月20日開拍，7月16日殺青。故事著重描繪[無差別殺人事件中](https://zh.wikipedia.org/wiki/無差別殺人 "wikilink")，加害者與被害人各家屬的心理狀態。
+《**我們與惡的距離**》（）為[臺灣](../Page/臺灣.md "wikilink")[公共電視於](../Page/公共電視文化事業基金會.md "wikilink")2019年推出的社會寫實劇，由[林君陽執導](../Page/林君陽.md "wikilink")、[金鐘](../Page/金鐘獎.md "wikilink")[編劇](../Page/金鐘獎戲劇節目編劇獎.md "wikilink")[呂蒔媛執筆](../Page/呂蒔媛.md "wikilink")，主演为[賈靜雯](../Page/賈靜雯.md "wikilink")、[溫昇豪](../Page/溫昇豪.md "wikilink")、[吳慷仁](../Page/吳慷仁.md "wikilink")、[周采詩](../Page/周采詩.md "wikilink")、[林予晞](../Page/林予晞.md "wikilink")、[施名帥](../Page/施名帥.md "wikilink")、[-{洪}-都拉斯](../Page/洪都拉斯_\(藝人\).md "wikilink")、[陳妤](../Page/陳妤.md "wikilink")、[曾沛慈](../Page/曾沛慈.md "wikilink")、[林哲熹](../Page/林哲熹.md "wikilink")、[-{于}-卉喬](../Page/于卉喬.md "wikilink")、[檢場與](../Page/檢場.md "wikilink")[謝瓊煖](../Page/謝瓊煖.md "wikilink")。本剧於2018年4月20日開拍，7月16日殺青。故事著重描繪[無差別殺人事件中](https://zh.wikipedia.org/wiki/無差別殺人 "wikilink")，加害者與被害人各家屬的心理狀態。
 
 ## 播出地区
 
@@ -51,7 +51,7 @@
 
 ## 製作
 
-此剧的出品方为[公視](https://zh.wikipedia.org/wiki/公共電視文化事業基金會 "wikilink")，由兩屆[金鐘獎](../Page/金鐘獎.md "wikilink")[戲劇節目編劇獎得主](../Page/金鐘獎戲劇節目編劇獎.md "wikilink")[呂蒔媛執筆](../Page/呂蒔媛.md "wikilink")\[1\]\[2\]\[3\]，[大慕影藝國際事業有限公司負責執掌本劇的製作](https://zh.wikipedia.org/wiki/大慕影藝國際事業有限公司 "wikilink")\[4\]\[5\]，由金鐘獎[攝影獎入圍者](../Page/金鐘獎攝影獎.md "wikilink")[林君陽執導](../Page/林君陽.md "wikilink")，[湯昇榮共同擔任製作人](https://zh.wikipedia.org/wiki/湯昇榮 "wikilink")\[6\]\[7\]。
+此剧的出品方为[公視](../Page/公共電視文化事業基金會.md "wikilink")，由兩屆[金鐘獎](../Page/金鐘獎.md "wikilink")[戲劇節目編劇獎得主](../Page/金鐘獎戲劇節目編劇獎.md "wikilink")[呂蒔媛執筆](../Page/呂蒔媛.md "wikilink")\[1\]\[2\]\[3\]，[大慕影藝國際事業有限公司負責執掌本劇的製作](https://zh.wikipedia.org/wiki/大慕影藝國際事業有限公司 "wikilink")\[4\]\[5\]，由金鐘獎[攝影獎入圍者](../Page/金鐘獎攝影獎.md "wikilink")[林君陽執導](../Page/林君陽.md "wikilink")，[湯昇榮共同擔任製作人](https://zh.wikipedia.org/wiki/湯昇榮 "wikilink")\[6\]\[7\]。
 
 劇組耗資百萬制作了新聞部主場景\[8\]。
 

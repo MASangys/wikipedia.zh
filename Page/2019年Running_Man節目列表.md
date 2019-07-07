@@ -21,7 +21,7 @@
 
 另外，节目曾于6月30日因直播[第三次-{zh-cn:朝美; zh-tw:北韓－美國; zh-hk:美朝;
 zh-sg:美朝}--{zh-cn:首脑会晤; zh-tw:高峰會; zh-hk:首腦會談;
-zh-sg:首脑会晤}-而停播一周](https://zh.wikipedia.org/wiki/2019年6月朝美首腦會談 "wikilink")。
+zh-sg:首脑会晤}-而停播一周](../Page/2019年6月朝美首腦會談.md "wikilink")。
 
 ## 集數
 
@@ -569,8 +569,8 @@ colspan="2" |<span style="font-size:110%">**第4章－看到了奇蹟**</span>
 李光洙及薛仁雅分別因為資金破產及"R"幣數目最少而落敗，同時薛仁雅選擇與池錫辰聯同落敗的李光洙一同接受水炸彈懲罰 |- \!
 colspan="9" |因直播[第三次-{zh-cn:朝美; zh-tw:北韓－美國; zh-hk:美朝;
 zh-sg:美朝}--{zh-cn:首脑会晤; zh-tw:高峰會; zh-hk:首腦會談;
-zh-sg:首脑会晤}-](https://zh.wikipedia.org/wiki/2019年6月朝美首腦會談 "wikilink")，節目停播一週。
-|- \!392 \!458 |7月7日<small>
+zh-sg:首脑会晤}-](../Page/2019年6月朝美首腦會談.md "wikilink")，節目停播一週。 |-
+\!392 \!458 |7月7日<small>
 （6月18日）</small> | |
 <small>（
 ）</small> | colspan="2"
@@ -758,7 +758,7 @@ zh-sg:首脑会晤}-](https://zh.wikipedia.org/wiki/2019年6月朝美首腦會�
 <td><p>5.6%</p></td>
 </tr>
 <tr class="odd">
-<td><p>因直播<a href="https://zh.wikipedia.org/wiki/2019年6月朝美首腦會談" title="wikilink">第三次-{zh-cn:朝美; zh-tw:北韓－美國; zh-hk:美朝; zh-sg:美朝}--{zh-cn:首脑会晤; zh-tw:高峰會; zh-hk:首腦會談; zh-sg:首脑会晤}-</a>，節目暫停放送一週。</p></td>
+<td><p>因直播<a href="../Page/2019年6月朝美首腦會談.md" title="wikilink">第三次-{zh-cn:朝美; zh-tw:北韓－美國; zh-hk:美朝; zh-sg:美朝}--{zh-cn:首脑会晤; zh-tw:高峰會; zh-hk:首腦會談; zh-sg:首脑会晤}-</a>，節目暫停放送一週。</p></td>
 <td></td>
 <td></td>
 <td></td>

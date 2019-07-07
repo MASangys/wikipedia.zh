@@ -27,7 +27,7 @@ RECORDS發行的第](../Page/VERMILLION_RECORDS.md "wikilink")5張迷你專輯�
         "SURVIVE"」「B'z LIVE-GYM 2008 "ACTION"」。
 3.  **傷心** (5:04)
       -
-        被起用作為[朝日電視台系](../Page/朝日電視台.md "wikilink")「」的初代片頭曲。原先是被作為本作的先行[單曲製作](https://zh.wikipedia.org/wiki/單曲 "wikilink")，但由於「在原本曲數就不多的迷你專輯中包含已知的歌曲，會很令人乏味吧？{{\#tag:ref||group="原文"}}」這樣的理由而收進了專輯收錄曲。[音色沈穩的吉他](../Page/音色.md "wikilink")[獨奏及](https://zh.wikipedia.org/wiki/獨奏 "wikilink")[長笛成為其特徵](https://zh.wikipedia.org/wiki/長笛 "wikilink")，採用[節奏組以](https://zh.wikipedia.org/wiki/節奏組_\(音樂\) "wikilink")[康加鼓等現場樂器賦予鮮活的生命力等等](https://zh.wikipedia.org/wiki/康加鼓 "wikilink")，是與先前的B'z樂曲截然不同的手法。
+        被起用作為[朝日電視台系](../Page/朝日電視台.md "wikilink")「」的初代片頭曲。原先是被作為本作的先行[單曲製作](https://zh.wikipedia.org/wiki/單曲 "wikilink")，但由於「在原本曲數就不多的迷你專輯中包含已知的歌曲，會很令人乏味吧？{{\#tag:ref||group="原文"}}」這樣的理由而收進了專輯收錄曲。[音色沈穩的吉他](../Page/音色.md "wikilink")[獨奏及](https://zh.wikipedia.org/wiki/獨奏 "wikilink")[長笛成為其特徵](https://zh.wikipedia.org/wiki/長笛 "wikilink")，採用[節奏組以](https://zh.wikipedia.org/wiki/節奏組_\(音樂\) "wikilink")[康加鼓等現場樂器賦予鮮活的生命力等等](../Page/康加鼓.md "wikilink")，是與先前的B'z樂曲截然不同的手法。
         在年末所播放的『MUSIC STATION SPECIAL SUPERLIVE
         96』上，與前曲「SNOW」被一同披露。此外，由於在LIVE-GYM上未曾演奏，因此在該節目上成為了唯一的演奏披露。
         2014年在粉絲俱樂部會報誌實施的「雖然自身還未曾聽過，但夢想總有一天能在LIVE-GYM上聽到的歌曲{{\#tag:ref||group="原文"}}」問卷調查中票選第10名。

@@ -4,7 +4,7 @@
 HEAD機動救急警察**』為標題，自2017年4月15日起至12月23日為止在TBS系列『』動畫時段第2部播出，與同時段的上一個節目『』同樣為[TBS與](../Page/TBS.md "wikilink")[Takara
 Tomy共同企劃的動畫系列](https://zh.wikipedia.org/wiki/Takara_Tomy "wikilink")。前身為Takara
 Tomy於2016年推出的産品系列與網路動畫『[多美卡超級系列 NEXT
-STAGE](https://zh.wikipedia.org/wiki/多美卡超級系列_NEXT_STAGE "wikilink")』。
+STAGE](../Page/多美卡超級系列_NEXT_STAGE.md "wikilink")』。
 
 ## 故事簡介
 

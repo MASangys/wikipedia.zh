@@ -8,12 +8,12 @@ G·L·莫瑞是羽球運動早期最重要的選手之一。她曾經贏得4次[
 | 年份   | 賽事                                                               | 項目   | 名次 | 搭檔                                                              |
 | ---- | ---------------------------------------------------------------- | ---- | -- | --------------------------------------------------------------- |
 | 1906 | [全英錦標賽](https://zh.wikipedia.org/wiki/1906年全英羽球錦標賽 "wikilink")   | 混合雙打 | 2  | [諾曼·伍德](https://zh.wikipedia.org/wiki/諾曼·伍德 "wikilink")         |
-| 1907 | [全英錦標賽](https://zh.wikipedia.org/wiki/1907年全英羽球錦標賽 "wikilink")   | 混合雙打 | 1  | [喬治·艾倫·湯姆斯](https://zh.wikipedia.org/wiki/喬治·艾倫·湯姆斯 "wikilink") |
-| 1907 | [全英錦標賽](https://zh.wikipedia.org/wiki/1907年全英羽球錦標賽 "wikilink")   | 女子雙打 | 1  | [梅莉爾·盧卡斯](https://zh.wikipedia.org/wiki/梅莉爾·盧卡斯 "wikilink")     |
+| 1907 | [全英錦標賽](../Page/1907年全英羽球錦標賽.md "wikilink")                      | 混合雙打 | 1  | [喬治·艾倫·湯姆斯](https://zh.wikipedia.org/wiki/喬治·艾倫·湯姆斯 "wikilink") |
+| 1907 | [全英錦標賽](../Page/1907年全英羽球錦標賽.md "wikilink")                      | 女子雙打 | 1  | [梅莉爾·盧卡斯](https://zh.wikipedia.org/wiki/梅莉爾·盧卡斯 "wikilink")     |
 | 1907 | [蘇格蘭公開賽](https://zh.wikipedia.org/wiki/1907年蘇格蘭羽球公開賽 "wikilink") | 混合雙打 | 1  | 喬治·艾倫·湯姆斯                                                       |
-| 1908 | [全英錦標賽](https://zh.wikipedia.org/wiki/1908年全英羽球錦標賽 "wikilink")   | 女子雙打 | 1  | 梅莉爾·盧卡斯                                                         |
-| 1908 | [全英錦標賽](https://zh.wikipedia.org/wiki/1908年全英羽球錦標賽 "wikilink")   | 女子單打 | 2  |                                                                 |
-| 1908 | [全英錦標賽](https://zh.wikipedia.org/wiki/1908年全英羽球錦標賽 "wikilink")   | 混合雙打 | 2  | 喬治·艾倫·湯姆斯                                                       |
+| 1908 | [全英錦標賽](../Page/1908年全英羽球錦標賽.md "wikilink")                      | 女子雙打 | 1  | 梅莉爾·盧卡斯                                                         |
+| 1908 | [全英錦標賽](../Page/1908年全英羽球錦標賽.md "wikilink")                      | 女子單打 | 2  |                                                                 |
+| 1908 | [全英錦標賽](../Page/1908年全英羽球錦標賽.md "wikilink")                      | 混合雙打 | 2  | 喬治·艾倫·湯姆斯                                                       |
 | 1908 | [蘇格蘭公開賽](https://zh.wikipedia.org/wiki/1908年蘇格蘭羽球公開賽 "wikilink") | 女子雙打 | 1  | 梅莉爾·盧卡斯                                                         |
 | 1909 | [蘇格蘭公開賽](https://zh.wikipedia.org/wiki/1909年蘇格蘭羽球公開賽 "wikilink") | 混合雙打 | 1  | 喬治·艾倫·湯姆斯                                                       |
 | 1909 | [全英錦標賽](https://zh.wikipedia.org/wiki/1909年全英羽球錦標賽 "wikilink")   | 女子雙打 | 1  | 梅莉爾·盧卡斯                                                         |

@@ -2008,7 +2008,7 @@ Garden）、宫崎京一，OA：[ZONE](../Page/ZONE.md "wikilink")
 :\#\* 歌：Roselia［湊友希那（[相羽亞衣奈](../Page/相羽亞衣奈.md "wikilink")）］
 
 :\#\*
-作詞：[及川眠子](https://zh.wikipedia.org/wiki/及川眠子 "wikilink")，作曲：[大森俊之](https://zh.wikipedia.org/wiki/大森俊之 "wikilink")，編曲：都丸椋太（Elements
+作詞：[及川眠子](../Page/及川眠子.md "wikilink")，作曲：[大森俊之](https://zh.wikipedia.org/wiki/大森俊之 "wikilink")，編曲：都丸椋太（Elements
 Garden）、加納望，OA：[高橋洋子](../Page/高橋洋子.md "wikilink")
 
 :\# [ETERNAL BLAZE](../Page/ETERNAL_BLAZE.md "wikilink")

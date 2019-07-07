@@ -18,7 +18,7 @@ SSH协议[版本2还引入了对](../Page/Secure_Shell.md "wikilink")[DSA算法�
 （NSA）有关，因此[爱德华·斯诺登的](../Page/爱德华·斯诺登.md "wikilink")[全球监控披露对其安全性方面提出了质疑](https://zh.wikipedia.org/wiki/Global_surveillance_disclosures_\(2013–present\) "wikilink")，特别是考虑到[Bullrun解密计划](https://zh.wikipedia.org/wiki/Bullrun_\(decryption_program\) "wikilink")。
 
 随后，
-[OpenSSH增加了对第三种数字签名算法](../Page/OpenSSH.md "wikilink")[ECDSA](https://zh.wikipedia.org/wiki/椭圆曲线数字签名算法 "wikilink")（这种密钥格式不再使用以前的[PEM文件格式用于私钥](https://zh.wikipedia.org/wiki/Privacy-enhanced_Electronic_Mail "wikilink")，也不依赖于[OpenSSL库来提供加密实现](../Page/OpenSSL.md "wikilink")）的支持
+[OpenSSH增加了对第三种数字签名算法](../Page/OpenSSH.md "wikilink")[ECDSA](../Page/椭圆曲线数字签名算法.md "wikilink")（这种密钥格式不再使用以前的[PEM文件格式用于私钥](https://zh.wikipedia.org/wiki/Privacy-enhanced_Electronic_Mail "wikilink")，也不依赖于[OpenSSL库来提供加密实现](../Page/OpenSSL.md "wikilink")）的支持
 。
 使用[ed25519支持第四种格式](https://zh.wikipedia.org/wiki/ed25519 "wikilink")，最初由独立密码学研究员[Daniel
 J.

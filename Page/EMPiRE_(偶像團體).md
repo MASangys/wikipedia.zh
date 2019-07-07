@@ -4,7 +4,7 @@
 ## 概要
 
 2017年4月2日於[橫濱紅磚倉庫活動廣舉行的](../Page/橫濱紅磚倉庫.md "wikilink")「[WACK
-EXHiBiTiON](https://zh.wikipedia.org/wiki/WACK_EXHiBiTiON "wikilink")」中，WACK宣布展開與[愛貝克思娛樂合作的偶像計畫](../Page/愛貝克思娛樂.md "wikilink")「Project
+EXHiBiTiON](../Page/WACK_EXHiBiTiON.md "wikilink")」中，WACK宣布展開與[愛貝克思娛樂合作的偶像計畫](../Page/愛貝克思娛樂.md "wikilink")「Project
 aW」，成員除了徵選合格者GAMIYASAKI（ガミヤサキ，現YUKA
 EMPiRE）與MOMOKOGUMIinc（モモコグミinc，現YU-Ki
 EMPiRE）之外。還將舉行追加成員徵選\[1\]。

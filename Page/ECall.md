@@ -27,7 +27,7 @@ Bukholczer表示，eCall是减少欧洲道路上死亡人数和伤害严重度�
 
 eCall倡议计划在所有车辆中部署安装一台设备，该设备在发生严重交通事故时将自动拨打[國際求救電話](../Page/國際求救電話.md "wikilink")（112），并通过[無線通訊发送](../Page/無線通訊.md "wikilink")[安全气囊展开和撞击传感器信息](https://zh.wikipedia.org/wiki/安全气囊 "wikilink")，以及[全球定位系统](../Page/全球定位系统.md "wikilink")（GPS）或[伽利略定位系統坐标到当地](../Page/伽利略定位系統.md "wikilink")[应急机构](https://zh.wikipedia.org/wiki/灾难应对 "wikilink")。其也提供手动的呼-{}-叫按钮。eCall建立在[E112基础上](../Page/國際求救電話.md "wikilink")。根据某些估计，eCall技术可以将城市地区的紧急响应时间缩短40%，乡村地区缩短50%。\[11\]
 
-许多公司参与了eCall的[远程信息处理技术在不同方面的应用](https://zh.wikipedia.org/wiki/車載資訊系統 "wikilink")，包括车载系统、无线数据传输以及公共安全应答点系统。通信协议标准化和人类语言问题是项目的一大障碍。原型已经成功通过[GPRS和](../Page/GPRS.md "wikilink")[蜂窝网络上的](../Page/蜂窝网络.md "wikilink")测试通过。与此同时，[BMW](../Page/BMW.md "wikilink")、[标致雪铁龙和](../Page/标致雪铁龙集团.md "wikilink")[富豪汽車等汽车制造商已开始采用依赖于](../Page/富豪汽車.md "wikilink")[簡訊](../Page/簡訊.md "wikilink")（SMS）的专有eCall解决方案。进入全面部署阶段后，其他远程信息处理服务（如路线咨询和交通信息）预计将有爆发式增长。
+许多公司参与了eCall的[远程信息处理技术在不同方面的应用](../Page/車載資訊系統.md "wikilink")，包括车载系统、无线数据传输以及公共安全应答点系统。通信协议标准化和人类语言问题是项目的一大障碍。原型已经成功通过[GPRS和](../Page/GPRS.md "wikilink")[蜂窝网络上的](../Page/蜂窝网络.md "wikilink")测试通过。与此同时，[BMW](../Page/BMW.md "wikilink")、[标致雪铁龙和](../Page/标致雪铁龙集团.md "wikilink")[富豪汽車等汽车制造商已开始采用依赖于](../Page/富豪汽車.md "wikilink")[簡訊](../Page/簡訊.md "wikilink")（SMS）的专有eCall解决方案。进入全面部署阶段后，其他远程信息处理服务（如路线咨询和交通信息）预计将有爆发式增长。
 
 该项目也得到了（ACEA）的支持，该协会是欧洲轿车、公共汽车和卡车制造商以及的利益组合体。许多涉及远程信息处理技术的利益相关公司都是ERTICO或ACEA的成员。这使eCall标准的开发进展得到了提升。
 

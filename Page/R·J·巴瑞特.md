@@ -1,4 +1,4 @@
-**小羅溫·亞歷山大·巴瑞特**（，），通稱**R·J·巴雷特**（），出生於[安大略省](../Page/安大略省.md "wikilink")[多倫多](https://zh.wikipedia.org/wiki/多倫多 "wikilink")，美國現役隊員。場上主要位置為[小前鋒](https://zh.wikipedia.org/wiki/小前鋒 "wikilink")，[2019年NBA選秀的探花](https://zh.wikipedia.org/wiki/2019年NBA選秀 "wikilink")。
+**小羅溫·亞歷山大·巴瑞特**（，），通稱**R·J·巴雷特**（），出生於[安大略省](../Page/安大略省.md "wikilink")[多倫多](https://zh.wikipedia.org/wiki/多倫多 "wikilink")，美國現役隊員。場上主要位置為[小前鋒](https://zh.wikipedia.org/wiki/小前鋒 "wikilink")，[2019年NBA選秀的探花](../Page/2019年NBA選秀.md "wikilink")。
 
 巴瑞特為的成員，曾隨隊獲得金牌，自身亦榮獲[U19世界青年籃球錦標賽最有價值球員殊榮](https://zh.wikipedia.org/wiki/U19世界青年籃球錦標賽 "wikilink")。
 

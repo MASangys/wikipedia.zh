@@ -94,7 +94,7 @@ S<sub>1</sub>状态通常被描述为“暗稳定”。 S<sub>1</sub>状态主�
 ## 参见
 
   - [放氧](https://zh.wikipedia.org/wiki/放氧 "wikilink")
-  - [P680](https://zh.wikipedia.org/wiki/P680 "wikilink")
+  - [P680](../Page/P680.md "wikilink")
   - [光合作用](../Page/光合作用.md "wikilink")
   - [光系统](../Page/光系统.md "wikilink")
   - [光系统 I](https://zh.wikipedia.org/wiki/光系统_I "wikilink")
