@@ -3144,7 +3144,7 @@
 <td><p>BSA</p></td>
 <td><p>HCMF</p></td>
 <td><p><a href="../Page/班達卡西姆國際機場.md" title="wikilink">班達卡西姆國際機場</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/巴里州" title="wikilink">巴里州</a><a href="https://zh.wikipedia.org/wiki/博薩索" title="wikilink">博薩索</a></p></td>
+<td><p><a href="../Page/巴里州.md" title="wikilink">巴里州</a><a href="https://zh.wikipedia.org/wiki/博薩索" title="wikilink">博薩索</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -3571,14 +3571,14 @@
 <td><p>BUN</p></td>
 <td><p>SKBU</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/考卡山谷省" title="wikilink">考卡山谷省</a><a href="../Page/布埃納文圖拉.md" title="wikilink">布埃納文圖拉</a></p></td>
+<td><p><a href="../Page/考卡山谷省.md" title="wikilink">考卡山谷省</a><a href="../Page/布埃納文圖拉.md" title="wikilink">布埃納文圖拉</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>BUO</p></td>
 <td><p>HCMV</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/托格代爾州" title="wikilink">托格代爾州</a><a href="../Page/布拉奧.md" title="wikilink">布拉奧</a></p></td>
+<td><p><a href="../Page/托格代爾州.md" title="wikilink">托格代爾州</a><a href="../Page/布拉奧.md" title="wikilink">布拉奧</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

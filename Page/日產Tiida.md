@@ -48,7 +48,7 @@ Navi導航系統。
 在[新加坡](../Page/新加坡.md "wikilink")，不論二廂式五門掀背車型或三廂式四門轎車型一律稱作**Latio**。在[印尼](https://zh.wikipedia.org/wiki/印尼 "wikilink")，1.6L四門轎車型僅能作為[計程車](https://zh.wikipedia.org/wiki/出租车 "wikilink")，1.8L掀背車型則為私家車。
 
 2007年 - 6月5日日本發表特別仕樣車「Plus navi
-HDD」，搭載日產汽車開發的Carwings[車載資訊系統](https://zh.wikipedia.org/wiki/車載資訊系統 "wikilink")，另外增加了黑色內裝。由於[中國大陸汽車市場的迅速發展](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")，11月該地比原產國日本更早發表小改款：騏達增加金、藍、銀三種車色，頤達則增加銀、紫二種車色。至於進氣壩從黑色改成銀色，並加上亮銀色飾件。全車系將四輪[碟煞和儀表油耗顯示列為標準配備](../Page/煞車.md "wikilink")，主力車型標配六片式[CD播放機](../Page/CD.md "wikilink")、自動啟閉式大燈、恆溫空調等，頂級車型另增側邊安全氣簾\[3\]。自同年起，Tiida開始向[歐洲某些國家地區投放](https://zh.wikipedia.org/wiki/歐洲 "wikilink")。有趣的是，日產汽車並未在[英國市場正式上市](https://zh.wikipedia.org/wiki/英國 "wikilink")，但[蘇格蘭汽車貿易商](../Page/蘇格蘭.md "wikilink")（Arnold
+HDD」，搭載日產汽車開發的Carwings[車載資訊系統](../Page/車載資訊系統.md "wikilink")，另外增加了黑色內裝。由於[中國大陸汽車市場的迅速發展](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")，11月該地比原產國日本更早發表小改款：騏達增加金、藍、銀三種車色，頤達則增加銀、紫二種車色。至於進氣壩從黑色改成銀色，並加上亮銀色飾件。全車系將四輪[碟煞和儀表油耗顯示列為標準配備](../Page/煞車.md "wikilink")，主力車型標配六片式[CD播放機](../Page/CD.md "wikilink")、自動啟閉式大燈、恆溫空調等，頂級車型另增側邊安全氣簾\[3\]。自同年起，Tiida開始向[歐洲某些國家地區投放](https://zh.wikipedia.org/wiki/歐洲 "wikilink")。有趣的是，日產汽車並未在[英國市場正式上市](https://zh.wikipedia.org/wiki/英國 "wikilink")，但[蘇格蘭汽車貿易商](../Page/蘇格蘭.md "wikilink")（Arnold
 Clark Automobiles
 Limited）卻透過管道自2009年3月起引進英國與[愛爾蘭](https://zh.wikipedia.org/wiki/愛爾蘭 "wikilink")（後者的時速表與里程表採用[公制單位](../Page/国际单位制.md "wikilink")）。
 

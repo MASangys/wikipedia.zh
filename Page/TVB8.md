@@ -103,7 +103,7 @@
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p><a href="../Page/水果冰淇淋.md" title="wikilink">水果冰淇淋</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/公共電視文化事業基金會" title="wikilink">公共電視節目</a>，於2003年播出[2]</p></td>
+<td style="text-align: center;"><p><a href="../Page/公共電視文化事業基金會.md" title="wikilink">公共電視節目</a>，於2003年播出[2]</p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p><a href="../Page/文化中國.md" title="wikilink">文化中國</a></p></td>

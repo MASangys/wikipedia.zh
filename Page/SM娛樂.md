@@ -260,7 +260,7 @@ Entertainment](https://zh.wikipedia.org/wiki/Woollim_Entertainment "wikilink")\[
       - *[EXO-K](../Page/EXO-K.md "wikilink")*
       - *[EXO-M](../Page/EXO-M.md "wikilink")*
       - *[EXO-CBX](../Page/EXO-CBX.md "wikilink")*
-      - [EXO-SC](https://zh.wikipedia.org/wiki/EXO-SC "wikilink")
+      - [EXO-SC](../Page/EXO-SC.md "wikilink")
   - [NCT](../Page/NCT.md "wikilink")
       - [NCT U](../Page/NCT.md "wikilink")
       - [NCT 127](../Page/NCT.md "wikilink")
@@ -472,7 +472,7 @@ Entertainment](https://zh.wikipedia.org/wiki/Woollim_Entertainment "wikilink")\[
   - [张玉安](../Page/张玉安.md "wikilink")
 
   -
-  - [朴聖光](https://zh.wikipedia.org/wiki/朴聖光 "wikilink")
+  - [朴聖光](../Page/朴聖光.md "wikilink")
 
 **女藝人**
 

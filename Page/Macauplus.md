@@ -4,8 +4,7 @@
 ## 網站歷史
 
 2002年初，論壇程式[phpBB十分流行](https://zh.wikipedia.org/wiki/phpBB "wikilink")。創辦人之一的CCUBE製作了一個可以整合phpBB的網站管理程式，取名SITEngine。在當年這個程式是除[PHP-Nuke和某些phpBB插件外唯一可以整合phpBB系統的中文網站程式](https://zh.wikipedia.org/wiki/PHP-Nuke "wikilink")。2003年，Macauplus的前身Macauweb.net成立，Macauweb.net的中文名稱是「。咩」，是受當年很流行的[微軟](https://zh.wikipedia.org/wiki/微軟 "wikilink")「[.NET](https://zh.wikipedia.org/wiki/.NET "wikilink")」和[蘋果電腦](https://zh.wikipedia.org/wiki/蘋果電腦 "wikilink")「[.mac](https://zh.wikipedia.org/wiki/.mac "wikilink")」影響而得名的。不久網站迅速發展，原有的伺服器不勝負荷而故障，令網站被迫暫停近一個月。其後，Macauweb.net改名為Macauplus，也租用了新主機，連結速度有所提升。2004年，網站推出多項會員服務，包括網站登錄、免費短域名和個人新聞台等服務，其中個人新聞台服務大受好評，不久於[澳門日報電腦版上刊登](../Page/澳門日報.md "wikilink")\[1\]。2005年中旬，網站的討論區遭[黑客入侵](../Page/黑客.md "wikilink")，最後轉用安全性較高的商業版[Invision
-Power
-Board取代原來的phpBB](https://zh.wikipedia.org/wiki/Invision_Power_Board "wikilink")。
+Power Board取代原來的phpBB](../Page/Invision_Power_Board.md "wikilink")。
 
 2007年4月，Macauplus的域名由「macauplus.com」改成「macauplus.net」。
 
@@ -48,8 +47,7 @@ Macauplus雖然人流量不大，但一直存在管理上的問題。管理員�
 
   - [澳門媒體](../Page/澳門媒體.md "wikilink")
   - [澳門互聯網站](../Page/Qoos.md "wikilink")
-  - [Invision Power
-    Board](https://zh.wikipedia.org/wiki/Invision_Power_Board "wikilink")
+  - [Invision Power Board](../Page/Invision_Power_Board.md "wikilink")
   - [phpBB](https://zh.wikipedia.org/wiki/phpBB "wikilink")
 
 ## 外部連結

@@ -409,7 +409,7 @@
 
 预选赛于2018年4月2-7日在韩国举行\[6\]\[7\] 预选赛出线名单：\[8\]
 
-  - ：[时越](../Page/时越.md "wikilink")、[钟文靖](https://zh.wikipedia.org/wiki/钟文靖 "wikilink")、[杨鼎新](../Page/杨鼎新.md "wikilink")、[范胤](../Page/范胤.md "wikilink")、[彭立尧](https://zh.wikipedia.org/wiki/彭立尧 "wikilink")、[唐韦星](../Page/唐韦星.md "wikilink")、[俞斌](../Page/俞斌.md "wikilink")、[范蕴若](../Page/范蕴若.md "wikilink")、[江维杰](https://zh.wikipedia.org/wiki/江维杰 "wikilink")、[赵晨宇](https://zh.wikipedia.org/wiki/赵晨宇 "wikilink")、[孟泰龄](https://zh.wikipedia.org/wiki/孟泰龄 "wikilink")、[范廷钰](../Page/范廷钰.md "wikilink")
+  - ：[时越](../Page/时越.md "wikilink")、[钟文靖](../Page/钟文靖.md "wikilink")、[杨鼎新](../Page/杨鼎新.md "wikilink")、[范胤](../Page/范胤.md "wikilink")、[彭立尧](https://zh.wikipedia.org/wiki/彭立尧 "wikilink")、[唐韦星](../Page/唐韦星.md "wikilink")、[俞斌](../Page/俞斌.md "wikilink")、[范蕴若](../Page/范蕴若.md "wikilink")、[江维杰](https://zh.wikipedia.org/wiki/江维杰 "wikilink")、[赵晨宇](https://zh.wikipedia.org/wiki/赵晨宇 "wikilink")、[孟泰龄](https://zh.wikipedia.org/wiki/孟泰龄 "wikilink")、[范廷钰](../Page/范廷钰.md "wikilink")
 
   - ：[李元荣](https://zh.wikipedia.org/wiki/李元荣 "wikilink")、[卞相壹](../Page/卞相壹.md "wikilink")、[朴永训](../Page/朴永训.md "wikilink")、[崔哲瀚](../Page/崔哲瀚.md "wikilink")
 

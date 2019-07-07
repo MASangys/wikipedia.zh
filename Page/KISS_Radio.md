@@ -22,7 +22,7 @@ Radio的台呼由多位歌手演唱，也有一些台呼由現有歌曲改編，
     Radio跨足[數位廣播](https://zh.wikipedia.org/wiki/數位廣播 "wikilink")（[DAB](https://zh.wikipedia.org/wiki/DAB "wikilink")），並致力發展[網路電台](https://zh.wikipedia.org/wiki/網路電台 "wikilink")。同年與台北淡水河廣播電台（FM89.7）簽約聯播。
   - 2001年，KISS Radio與淡水河電台解約，淡水河電台轉型為閩南語電台。
   - 2006年，KISS
-    Radio與[公共電視文化事業基金會合作](https://zh.wikipedia.org/wiki/公共電視文化事業基金會 "wikilink")，播出《公視晚間新聞》的[聲音部分](https://zh.wikipedia.org/wiki/聲音 "wikilink")。(之後和[中天電視合作](../Page/中天電視.md "wikilink")，由中天主播播報當天的新聞（合作至2016年12月底）)
+    Radio與[公共電視文化事業基金會合作](../Page/公共電視文化事業基金會.md "wikilink")，播出《公視晚間新聞》的[聲音部分](https://zh.wikipedia.org/wiki/聲音 "wikilink")。(之後和[中天電視合作](../Page/中天電視.md "wikilink")，由中天主播播報當天的新聞（合作至2016年12月底）)
   - 2006年，「網路音樂台」正式開播，並持續榮登HiNet網路廣播金榜的榜首。
   - 2006年，與新加坡動力883（的前身）進行節目交流，聯合製播《KISS發燒榜－華語榜》節目於新加坡播出。
   - 2007年，「KISS美少女啦啦隊全國選拔賽」，入圍廣播金鐘獎「電台行銷創新獎」。

@@ -1835,7 +1835,7 @@
 <td><p>CLO</p></td>
 <td><p>SKCL</p></td>
 <td></td>
-<td><p><a href="../Page/卡利.md" title="wikilink">卡利</a>，<a href="https://zh.wikipedia.org/wiki/考卡山谷省" title="wikilink">考卡山谷省</a></p></td>
+<td><p><a href="../Page/卡利.md" title="wikilink">卡利</a>，<a href="../Page/考卡山谷省.md" title="wikilink">考卡山谷省</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2682,7 +2682,7 @@
 <td><p>CRC</p></td>
 <td><p>SKGO</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/卡塔戈_(考卡山谷省)" title="wikilink">卡塔戈</a>，<a href="https://zh.wikipedia.org/wiki/考卡山谷省" title="wikilink">考卡山谷省</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/卡塔戈_(考卡山谷省)" title="wikilink">卡塔戈</a>，<a href="../Page/考卡山谷省.md" title="wikilink">考卡山谷省</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -3627,7 +3627,7 @@
 <td><p>CXN</p></td>
 <td><p>HCMC</p></td>
 <td></td>
-<td><p><a href="../Page/甘達拉.md" title="wikilink">甘達拉</a>，<a href="https://zh.wikipedia.org/wiki/巴里州" title="wikilink">巴里州</a></p></td>
+<td><p><a href="../Page/甘達拉.md" title="wikilink">甘達拉</a>，<a href="../Page/巴里州.md" title="wikilink">巴里州</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

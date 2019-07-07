@@ -34,7 +34,7 @@ Del算子在[数学中用于指代](../Page/数学.md "wikilink")[梯度算符](
 
 ## 参见
 
-  - [在圆柱和球坐标系中的del](https://zh.wikipedia.org/wiki/在圆柱和球坐标系中的del "wikilink")
+  - [在圆柱和球坐标系中的del](../Page/在圆柱和球坐标系中的del.md "wikilink")
 
 ## 參考
 

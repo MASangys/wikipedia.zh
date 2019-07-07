@@ -479,7 +479,7 @@ News（世界新聞）](../Page/晚間新聞.md "wikilink")」 |- | 23:00-00:00 
   - 檐下温情 <small>*Helping Hands Season*</small>
   - 敢敢挑战II <small>*Feel Good Feel Cook*</small>
   - 女人占尚風 <small>*Women's Zone*</small>
-  - 誰來晚餐（[公視](https://zh.wikipedia.org/wiki/公共電視文化事業基金會 "wikilink")）<small>*Guess
+  - 誰來晚餐（[公視](../Page/公共電視文化事業基金會.md "wikilink")）<small>*Guess
     Who*</small>
   - 阳光行动2 <small>*Project Sunshine 2*</small>
   - 開心就好II <small>*Shout Out\! It's Show Time Se2*</small>

@@ -228,7 +228,7 @@ Ball）若命中則為兩分，所以總分為30分。从[2014年NBA全明星赛
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/2019-20_NBA賽季" title="wikilink">2020</a></p></td>
+<td><p><a href="../Page/2019-20_NBA賽季.md" title="wikilink">2020</a></p></td>
 <td></td>
 <td></td>
 <td></td>

@@ -1793,7 +1793,7 @@
 <td><p>ALU</p></td>
 <td><p>HCMA</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/巴里州" title="wikilink">巴里州</a></p></td>
+<td><p><a href="../Page/巴里州.md" title="wikilink">巴里州</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
