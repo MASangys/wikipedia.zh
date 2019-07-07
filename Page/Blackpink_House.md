@@ -241,8 +241,8 @@ Jennie和Rosé在濟州市涯月邑 的咖啡廳看夕陽，四人合體，Jisoo
 
 加映日期：2018年3月18日
 
-加映標題：《\#[最後的晚餐](https://zh.wikipedia.org/wiki/最后的晚餐 "wikilink")
-\#Goodbye To BlackPink House\[24\]》
+加映標題：《\#[最後的晚餐](../Page/最后的晚餐.md "wikilink") \#Goodbye To BlackPink
+House\[24\]》
 
 正當Jisoo、Jennie烹調食物時，忙內組回宿舍。Rosé幫忙切配菜，酒保Jisoo繼第4集回歸，教Jennie炮製櫻桃無酒精雞尾酒。但到了第100天，才真的整天待在屋裡。回憶裡，多天下雨、下雪時間，即使到泰國、濟州島如是。飯後甜品：第一天剩下的馬卡龍。最後讀出成員們各自為彼此寫的信。
 

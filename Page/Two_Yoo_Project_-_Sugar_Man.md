@@ -554,7 +554,7 @@ OOON、載庸（<a href="../Page/HALO_(韓國組合).md" title="wikilink">HALO</
 <td><p>17</p></td>
 <td><p><small>2月9日</small></p></td>
 <td><p>在錫隊</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/車太鉉" title="wikilink">車太鉉</a></p></td>
+<td><p><a href="../Page/車太鉉.md" title="wikilink">車太鉉</a></p></td>
 <td><p>I Love You</p></td>
 <td><p><a href="../Page/鄭俊英.md" title="wikilink">鄭俊英</a></p></td>
 <td></td>
@@ -1140,7 +1140,7 @@ Linzy（<a href="../Page/FIESTAR.md" title="wikilink">FIESTAR</a>）</p></td>
 <td><p><small>7月12日</small></p></td>
 <td><center>
 <p><strong>Sugar Man，在那之後</strong><br />
-<a href="https://zh.wikipedia.org/wiki/車太鉉" title="wikilink">車太鉉</a>、<a href="https://zh.wikipedia.org/wiki/洪京民" title="wikilink">洪京民</a>、（、<a href="https://zh.wikipedia.org/wiki/姜斗" title="wikilink">姜斗</a>）、金賢廷（）、<a href="../Page/Diva_(音樂團體).md" title="wikilink">Diva</a>（<a href="../Page/金佳英.md" title="wikilink">Vicky</a>、、）、（）、、<br />
+<a href="../Page/車太鉉.md" title="wikilink">車太鉉</a>、<a href="https://zh.wikipedia.org/wiki/洪京民" title="wikilink">洪京民</a>、（、<a href="https://zh.wikipedia.org/wiki/姜斗" title="wikilink">姜斗</a>）、金賢廷（）、<a href="../Page/Diva_(音樂團體).md" title="wikilink">Diva</a>（<a href="../Page/金佳英.md" title="wikilink">Vicky</a>、、）、（）、、<br />
 <a href="../Page/SISTAR.md" title="wikilink">SISTAR</a>、<a href="https://zh.wikipedia.org/wiki/MONSTA_X" title="wikilink">MONSTA X</a>、、吳真成（）、<a href="../Page/金多炫.md" title="wikilink">金多炫</a>（）、、、、高載根（）、（朴俊植、<a href="../Page/智鉉寓.md" title="wikilink">智鉉寓</a>）、<br />
 （）、<a href="https://zh.wikipedia.org/wiki/李承鉉" title="wikilink">李承鉉</a>（<a href="../Page/TAKE_(音樂團體).md" title="wikilink">TAKE</a>）、<a href="../Page/戚薇.md" title="wikilink">戚薇出演</a>；、影像出演</p></td>
 <td></td>

@@ -17,7 +17,7 @@
 |             |                                                       |                                                   |                                                         |             |
 
   - 2016年12月21日台北場為[五月天 Just Rock
-    It！就是世界巡迴演唱會的一部分](https://zh.wikipedia.org/wiki/五月天_Just_Rock_It！就是世界巡迴演唱會 "wikilink")。
+    It！就是世界巡迴演唱會的一部分](../Page/五月天_Just_Rock_It！就是世界巡迴演唱會.md "wikilink")。
 
 ## 參考來源
 

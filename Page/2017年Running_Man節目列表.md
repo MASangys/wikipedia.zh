@@ -2606,7 +2606,7 @@ b. 餵飼鱷魚期間完成合照 新西蘭隊：<br />
 18. [朴寶英驚喜聲演](https://zh.wikipedia.org/wiki/朴寶英 "wikilink")。
 19. 朴成俊（曆術家）特別出演。
 20. 《星期天真好》時段於本集播出後取消。
-21. [洪錫天](https://zh.wikipedia.org/wiki/洪錫天 "wikilink")、[千成文](../Page/千成文.md "wikilink")（宋智孝弟弟）、、、[朴正民](../Page/朴正民.md "wikilink")、[車太鉉特別出演](https://zh.wikipedia.org/wiki/車太鉉 "wikilink")；[李棟旭](../Page/李棟旭.md "wikilink")、李宗浩（李光洙爸爸）、[趙寅成](../Page/趙寅成.md "wikilink")、[宋仲基特別聲演](../Page/宋仲基.md "wikilink")；[孫賢周](../Page/孫賢周.md "wikilink")、[朴寶劍驚喜出演](../Page/朴寶劍.md "wikilink")。
+21. [洪錫天](https://zh.wikipedia.org/wiki/洪錫天 "wikilink")、[千成文](../Page/千成文.md "wikilink")（宋智孝弟弟）、、、[朴正民](../Page/朴正民.md "wikilink")、[車太鉉特別出演](../Page/車太鉉.md "wikilink")；[李棟旭](../Page/李棟旭.md "wikilink")、李宗浩（李光洙爸爸）、[趙寅成](../Page/趙寅成.md "wikilink")、[宋仲基特別聲演](../Page/宋仲基.md "wikilink")；[孫賢周](../Page/孫賢周.md "wikilink")、[朴寶劍驚喜出演](../Page/朴寶劍.md "wikilink")。
 22. 宣傳電影《》。
     本集尾段提前播放下集，播放[全昭旻和](../Page/全昭旻.md "wikilink")[梁世燦介紹片段](../Page/梁世燦.md "wikilink")。[梁世炯驚喜出演](../Page/梁世炯.md "wikilink")。
 23. 本集為[全昭旻和](../Page/全昭旻.md "wikilink")[梁世燦開始以成員身份正式參與錄影](../Page/梁世燦.md "wikilink")。

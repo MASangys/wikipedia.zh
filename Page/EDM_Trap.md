@@ -33,7 +33,7 @@ Jon發布了單曲"Turn Down For
 What"，這首歌在好幾個國家都登上熱門排行榜並且成為熱門話題，[滾石雜誌投票將其選為](https://zh.wikipedia.org/wiki/滾石 "wikilink")2014年第二名的歌曲。
 
 [EDM
-Trap在國際上享有盛名](https://zh.wikipedia.org/wiki/EDM_Trap "wikilink")，特別是在[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")。2014年11月，來自韓國男子音樂組合[BIGBANG的](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")[G-Dragon和](../Page/G-Dragon.md "wikilink")[Taeyang發行了他們的單曲](https://zh.wikipedia.org/wiki/Taeyang "wikilink")"Good
+Trap在國際上享有盛名](../Page/EDM_Trap.md "wikilink")，特別是在[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")。2014年11月，來自韓國男子音樂組合[BIGBANG的](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")[G-Dragon和](../Page/G-Dragon.md "wikilink")[Taeyang發行了他們的單曲](https://zh.wikipedia.org/wiki/Taeyang "wikilink")"Good
 Boy"，其中融入了大量的陷阱和電子音樂元素。單曲在不到24小時內獲得了200萬次觀看，並得到了音樂評論家的積極評價。2015年6月，當[BIGBANG發布他們的熱門單曲](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")"Bang,
 Bang, Bang"時，EDM
 Trap再次在K-pop領域獲得關注，該單曲在韓國取得了商業上的成功，在2015年8月之前銷售了超過100萬張的數位單曲。2019年4月，韓國女子音樂組合[Blackpink發行了專輯](https://zh.wikipedia.org/wiki/Blackpink "wikilink")"[Kill

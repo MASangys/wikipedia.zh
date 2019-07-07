@@ -29,7 +29,7 @@
 <td><p><a href="../Page/Now香港台.md" title="wikilink">Now香港台</a></p></td>
 <td><p><strong><a href="../Page/綜合醫院2.md" title="wikilink">綜合醫院2</a></strong></p></td>
 <td><p><a href="../Page/金廷恩.md" title="wikilink">金廷恩</a><br />
-<a href="https://zh.wikipedia.org/wiki/車太鉉" title="wikilink">車太鉉</a><br />
+<a href="../Page/車太鉉.md" title="wikilink">車太鉉</a><br />
 <a href="../Page/柳鎮_(韓國).md" title="wikilink">柳鎮</a><br />
 <a href="https://zh.wikipedia.org/wiki/李在龍_(演員)" title="wikilink">李在龍</a><br />
 <a href="../Page/都知嫄.md" title="wikilink">都知嫄</a><br />
@@ -566,7 +566,7 @@
 <td><p>6月11日</p></td>
 <td><p><a href="../Page/Now_101台.md" title="wikilink">Now 101台</a></p></td>
 <td><p><strong><a href="../Page/田禹治_(電視劇).md" title="wikilink">田禹治</a></strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/車太鉉" title="wikilink">車太鉉</a><br />
+<td><p><a href="../Page/車太鉉.md" title="wikilink">車太鉉</a><br />
 <a href="https://zh.wikipedia.org/wiki/U-ie" title="wikilink">U-ie</a><br />
 <a href="../Page/李熙俊.md" title="wikilink">李熙俊</a></p></td>
 <td></td>

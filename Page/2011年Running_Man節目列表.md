@@ -785,7 +785,7 @@ Gary<br />
 <small>(189)</small></p></td>
 <td><p>8月21日<br />
 <small>(<em>8月15日</em>)</small></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/車太鉉" title="wikilink">車太鉉</a>、<a href="../Page/申世景.md" title="wikilink">申世景</a></p></td>
+<td><p><a href="../Page/車太鉉.md" title="wikilink">車太鉉</a>、<a href="../Page/申世景.md" title="wikilink">申世景</a></p></td>
 <td><p><a href="http://www.iccjeju.co.kr/ZH/Main">濟州國際會議中心</a><br />
 <small>(<a href="../Page/濟州特別自治道.md" title="wikilink">濟州特別自治道</a><br />
 <a href="../Page/西歸浦市.md" title="wikilink">西歸浦市</a>)</small></p></td>

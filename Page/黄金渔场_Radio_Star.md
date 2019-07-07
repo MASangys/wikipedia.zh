@@ -36,8 +36,7 @@ Star》作为独立节目编排。
   - [圭賢](../Page/圭賢.md "wikilink")（2011年10月19日 -
     2017年5月31日\[2\]\[3\]）：因服[兵役而退出](https://zh.wikipedia.org/wiki/兵役 "wikilink")
 
-  - [車太鉉](https://zh.wikipedia.org/wiki/車太鉉 "wikilink")（2018年1月3日 -
-    2019年3月20日）：因高爾夫球賭博風坡退出
+  - [車太鉉](../Page/車太鉉.md "wikilink")（2018年1月3日 - 2019年3月20日）：因高爾夫球賭博風坡退出
 
 <table>
 <thead>
@@ -168,7 +167,7 @@ Star》作为独立节目编排。
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/車太鉉" title="wikilink">車太鉉</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/車太鉉.md" title="wikilink">車太鉉</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
@@ -487,7 +486,7 @@ Radio Star**》的播出列表。\[4\]
 <tr class="odd">
 <td><p>37</p></td>
 <td><p>2月13日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/車太鉉" title="wikilink">车太贤</a></p></td>
+<td><p><a href="../Page/車太鉉.md" title="wikilink">车太贤</a></p></td>
 <td><p>事故诱发者...<br />
 （上）</p></td>
 <td><p>录制中期<a href="https://zh.wikipedia.org/wiki/洪京民" title="wikilink">洪京民特别演出</a>。</p></td>
@@ -3031,7 +3030,7 @@ Radio Star**》的播出列表。\[4\]
 <tr class="odd">
 <td><p>347</p></td>
 <td><p>9月24日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/車太鉉" title="wikilink">车太贤</a>、<a href="../Page/金康鉉.md" title="wikilink">金江贤</a>、<a href="https://zh.wikipedia.org/wiki/金英卓_(导演)" title="wikilink">金英卓</a></p></td>
+<td><p><a href="../Page/車太鉉.md" title="wikilink">车太贤</a>、<a href="../Page/金康鉉.md" title="wikilink">金江贤</a>、<a href="https://zh.wikipedia.org/wiki/金英卓_(导演)" title="wikilink">金英卓</a></p></td>
 <td><p>想咬你一口特辑<br />
 (电影《Slow Video》特辑)</p></td>
 <td></td>
@@ -3648,7 +3647,7 @@ Radio Star**》的播出列表。\[4\]
 <tr class="even">
 <td><p>427</p></td>
 <td><p>4月27日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/車太鉉" title="wikilink">車太鉉</a>、<a href="https://zh.wikipedia.org/wiki/裴晟佑" title="wikilink">裴晟佑</a>、<a href="../Page/宋茜.md" title="wikilink">宋茜</a> (<a href="../Page/F(x)_(組合).md" title="wikilink">f(x)</a>)、<a href="../Page/崔鎮鎬.md" title="wikilink">崔鎮鎬</a></p></td>
+<td><p><a href="../Page/車太鉉.md" title="wikilink">車太鉉</a>、<a href="https://zh.wikipedia.org/wiki/裴晟佑" title="wikilink">裴晟佑</a>、<a href="../Page/宋茜.md" title="wikilink">宋茜</a> (<a href="../Page/F(x)_(組合).md" title="wikilink">f(x)</a>)、<a href="../Page/崔鎮鎬.md" title="wikilink">崔鎮鎬</a></p></td>
 <td><p>“成为粉丝了~”特辑</p></td>
 <td></td>
 </tr>
@@ -4158,7 +4157,7 @@ Radio Star**》的播出列表。\[4\]
 <td><p>11月22日</p></td>
 <td><p>、<a href="../Page/姜均成.md" title="wikilink">姜均成</a>、、</p></td>
 <td><p>“祈祷 祈祷 祝愿顺利播出”特輯</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/車太鉉" title="wikilink">車太鉉擔任特别主持</a>。</p></td>
+<td><p><a href="../Page/車太鉉.md" title="wikilink">車太鉉擔任特别主持</a>。</p></td>
 </tr>
 <tr class="odd">
 <td><p>545</p></td>
@@ -4193,7 +4192,7 @@ Radio Star**》的播出列表。\[4\]
 <td><p>12月27日</p></td>
 <td><p>、<a href="../Page/JooE.md" title="wikilink">JooE</a> (<a href="../Page/MOMOLAND.md" title="wikilink">MOMOLAND</a>)、、<a href="../Page/權玄彬.md" title="wikilink">權玄彬</a> (<a href="../Page/JBJ.md" title="wikilink">JBJ</a>)、<a href="https://zh.wikipedia.org/wiki/洪錫天" title="wikilink">洪錫天</a></p></td>
 <td><p>“2018走起~！”特辑</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/車太鉉" title="wikilink">車太鉉担任特别主持</a></p></td>
+<td><p><a href="../Page/車太鉉.md" title="wikilink">車太鉉担任特别主持</a></p></td>
 </tr>
 </tbody>
 </table>

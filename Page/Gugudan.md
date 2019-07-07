@@ -329,7 +329,7 @@ LineData =
 <tr class="odd">
 <td><p>Fingertips</p></td>
 <td><p>SEJEONG</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/林娜榮" title="wikilink">林娜榮</a>、<a href="https://zh.wikipedia.org/wiki/金請夏" title="wikilink">金請夏</a>、<a href="../Page/吳思佳.md" title="wikilink">吳思佳</a>、<a href="../Page/奇熙賢.md" title="wikilink">奇熙賢</a>、<a href="https://zh.wikipedia.org/wiki/鄭銀雨" title="wikilink">鄭銀雨</a>、</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/林娜榮" title="wikilink">林娜榮</a>、<a href="https://zh.wikipedia.org/wiki/金請夏" title="wikilink">金請夏</a>、<a href="../Page/吳思佳.md" title="wikilink">吳思佳</a>、<a href="../Page/奇熙賢.md" title="wikilink">奇熙賢</a>、<a href="../Page/鄭銀雨.md" title="wikilink">鄭銀雨</a>、</p></td>
 <td></td>
 <td></td>
 <td></td>

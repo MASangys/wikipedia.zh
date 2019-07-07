@@ -151,7 +151,7 @@ Man**成員，或當日暫代缺席參演的**Running Man**成員中的暫代主
 <td><p>2</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/車太鉉" title="wikilink">車太鉉</a>（차태현）</p></td>
+<td><p><a href="../Page/車太鉉.md" title="wikilink">車太鉉</a>（차태현）</p></td>
 <td><p>演員（男）</p></td>
 <td><p>010、057-058</p></td>
 <td><p>3</p></td>

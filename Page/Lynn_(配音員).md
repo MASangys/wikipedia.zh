@@ -102,8 +102,7 @@
 **2018年**
 
   - [比宇宙還遠的地方](https://zh.wikipedia.org/wiki/比宇宙還遠的地方 "wikilink")（鮫島弓子）
-  - [精靈寶可夢 太陽&月亮](https://zh.wikipedia.org/wiki/精靈寶可夢_太陽&月亮 "wikilink")
-    (サーラ)
+  - [精靈寶可夢 太陽&月亮](../Page/精靈寶可夢_太陽&月亮.md "wikilink") (サーラ)
   - [愛吃拉麵的小泉同學](../Page/愛吃拉麵的小泉同學.md "wikilink")（女性記者）
   - [童話魔法使](../Page/童話魔法使.md "wikilink")（**尤米莉雅·卡贊**\[19\]）
   - [七美德](https://zh.wikipedia.org/wiki/sin_七大罪 "wikilink")（**拉斐爾**\[20\]）

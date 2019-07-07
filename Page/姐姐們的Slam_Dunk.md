@@ -235,10 +235,10 @@ up》。
 <tr class="odd">
 <td><p>1</p></td>
 <td><p>2016年4月8日</p></td>
-<td><p><a href="../Page/Defconn.md" title="wikilink">Defconn</a>、<a href="https://zh.wikipedia.org/wiki/車太鉉" title="wikilink">車太鉉</a>、<a href="../Page/金鍾旼.md" title="wikilink">金鍾旼</a><br />
+<td><p><a href="../Page/Defconn.md" title="wikilink">Defconn</a>、<a href="../Page/車太鉉.md" title="wikilink">車太鉉</a>、<a href="../Page/金鍾旼.md" title="wikilink">金鍾旼</a><br />
 <small>(<a href="../Page/宋一國.md" title="wikilink">宋一國與三胞胎驚喜聲演</a>)</small></p></td>
 <td><p><strong>成員們初次見面 第一代幫主誕生</strong><br />
-成員們初次見面并接受綜藝前輩們<a href="../Page/Defconn.md" title="wikilink">Defconn</a>、<a href="https://zh.wikipedia.org/wiki/車太鉉" title="wikilink">車太鉉</a>、<a href="../Page/金鍾旼.md" title="wikilink">金鍾旼的指點</a>；獲得夢想經費和抽選第一代夢想幫主—金淑；幫主發表夢想，Jessi陪同挑戰；成員分兩組行動：駕照隊(金淑、Jessi、Tiffany)和邀請隊(羅美蘭、洪真慶、閔孝琳)；駕照隊前去報名考取大型駕照，邀請隊負責邀請大型駕照導師、準備大型巴士和巴士司機服裝。</p></td>
+成員們初次見面并接受綜藝前輩們<a href="../Page/Defconn.md" title="wikilink">Defconn</a>、<a href="../Page/車太鉉.md" title="wikilink">車太鉉</a>、<a href="../Page/金鍾旼.md" title="wikilink">金鍾旼的指點</a>；獲得夢想經費和抽選第一代夢想幫主—金淑；幫主發表夢想，Jessi陪同挑戰；成員分兩組行動：駕照隊(金淑、Jessi、Tiffany)和邀請隊(羅美蘭、洪真慶、閔孝琳)；駕照隊前去報名考取大型駕照，邀請隊負責邀請大型駕照導師、準備大型巴士和巴士司機服裝。</p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
@@ -586,7 +586,7 @@ Jessi的第一次演戲，笑果不斷。張鎮導演下海客串漁夫。</p></
 <tr class="odd">
 <td><p>15</p></td>
 <td><p>2017年5月19日</p></td>
-<td><p>金亨碩、張真英、金花英、雙奎、崔俊熙（洪真慶侄女）、韓元鐘、<a href="https://zh.wikipedia.org/wiki/李瑞元" title="wikilink">李瑞元</a>、<a href="https://zh.wikipedia.org/wiki/安率濱" title="wikilink">率濱</a>、<a href="../Page/金度延.md" title="wikilink">金度延</a>、<a href="../Page/磪有情.md" title="wikilink">磪有情</a>、<a href="https://zh.wikipedia.org/wiki/鄭彩娟" title="wikilink">鄭彩娟</a>、<a href="../Page/Triple_H_(企劃組合).md" title="wikilink">Triple H</a>、<a href="https://zh.wikipedia.org/wiki/Lovelyz" title="wikilink">Lovelyz</a>、<a href="../Page/羅美蘭.md" title="wikilink">羅美蘭</a>、<a href="../Page/闵孝琳.md" title="wikilink">閔孝琳</a>（第一代Unnies成員）、<a href="https://zh.wikipedia.org/wiki/車太鉉" title="wikilink">車太鉉</a>、Minzy媽媽和小狗、<a href="../Page/金永哲_(藝人).md" title="wikilink">金永哲</a>（藝人，近期也與洪真英合作，以個人<a href="https://zh.wikipedia.org/wiki/韓國演歌" title="wikilink">Trot歌手身份出道</a>。）、金明俊（韓彩英的經紀公司理事，也是慫恿她參加計劃的推薦人。）</p></td>
+<td><p>金亨碩、張真英、金花英、雙奎、崔俊熙（洪真慶侄女）、韓元鐘、<a href="https://zh.wikipedia.org/wiki/李瑞元" title="wikilink">李瑞元</a>、<a href="https://zh.wikipedia.org/wiki/安率濱" title="wikilink">率濱</a>、<a href="../Page/金度延.md" title="wikilink">金度延</a>、<a href="../Page/磪有情.md" title="wikilink">磪有情</a>、<a href="https://zh.wikipedia.org/wiki/鄭彩娟" title="wikilink">鄭彩娟</a>、<a href="../Page/Triple_H_(企劃組合).md" title="wikilink">Triple H</a>、<a href="https://zh.wikipedia.org/wiki/Lovelyz" title="wikilink">Lovelyz</a>、<a href="../Page/羅美蘭.md" title="wikilink">羅美蘭</a>、<a href="../Page/闵孝琳.md" title="wikilink">閔孝琳</a>（第一代Unnies成員）、<a href="../Page/車太鉉.md" title="wikilink">車太鉉</a>、Minzy媽媽和小狗、<a href="../Page/金永哲_(藝人).md" title="wikilink">金永哲</a>（藝人，近期也與洪真英合作，以個人<a href="https://zh.wikipedia.org/wiki/韓國演歌" title="wikilink">Trot歌手身份出道</a>。）、金明俊（韓彩英的經紀公司理事，也是慫恿她參加計劃的推薦人。）</p></td>
 <td><p>《音樂銀行》錄影，官方 V Live 重播，第二主打曲公開，《對嗎？》橫掃音源榜。第二代Unnies與 <a href="../Page/Triple_H_(企劃組合).md" title="wikilink">Triple H</a> 正式一起出道，Unnies和Dongsaeng混合自製版《對嗎？》MV公開。</p></td>
 </tr>
 <tr class="even">

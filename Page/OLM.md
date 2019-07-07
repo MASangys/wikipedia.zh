@@ -102,7 +102,7 @@ Magic**）是一家日本動畫制作公司，[日本動畫協會正會員](../P
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/精靈寶可夢_太陽&amp;月亮" title="wikilink">精靈寶可夢 太陽&amp;月亮</a></p></td>
+<td><p><a href="../Page/精靈寶可夢_太陽&amp;月亮.md" title="wikilink">精靈寶可夢 太陽&amp;月亮</a></p></td>
 <td><p>遊戲改編</p></td>
 <td><p>2016年11月17日</p></td>
 <td><p>湯山邦彥(總導演)、冨安大貴(導演)</p></td>

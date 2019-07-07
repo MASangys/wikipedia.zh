@@ -3,7 +3,7 @@ Doraemon），或譯、等等，[臺灣填词版名為](../Page/臺灣.md "wikil
 
 ## 日語原版
 
-於2007年5月11日至今\[1\]作為[水田版電視動畫的](https://zh.wikipedia.org/wiki/哆啦A夢動畫集數列表_\(2005年至今\) "wikilink")[片頭曲](https://zh.wikipedia.org/wiki/片頭曲 "wikilink")。2008年至2014年，2016至2017年的水田版電影也以它為片頭曲。台灣[華視播出的水田版動畫也是以它為片頭曲](https://zh.wikipedia.org/wiki/華視 "wikilink")。
+於2007年5月11日至今\[1\]作為[水田版電視動畫的](../Page/哆啦A夢動畫集數列表_\(2005年至今\).md "wikilink")[片頭曲](https://zh.wikipedia.org/wiki/片頭曲 "wikilink")。2008年至2014年，2016至2017年的水田版電影也以它為片頭曲。台灣[華視播出的水田版動畫也是以它為片頭曲](https://zh.wikipedia.org/wiki/華視 "wikilink")。
 
 ### 制作
 

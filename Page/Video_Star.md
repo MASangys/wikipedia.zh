@@ -431,7 +431,7 @@ Star》基本相同，不同的是《Video Star》的主持全部由女艺人担
 <tr class="odd">
 <td><p>44</p></td>
 <td><p>5月9日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/車太鉉" title="wikilink">車太鉉</a> &amp; <a href="https://zh.wikipedia.org/wiki/车在莞" title="wikilink">车在莞</a>、<a href="../Page/前進_(藝人).md" title="wikilink">JunJin</a> (<a href="https://zh.wikipedia.org/wiki/神话_(组合)" title="wikilink">神话</a>) &amp; 、<a href="https://zh.wikipedia.org/wiki/艺仁" title="wikilink">艺仁</a> (<a href="https://zh.wikipedia.org/wiki/Melody_Day" title="wikilink">Melody Day</a>) &amp; 、<a href="../Page/昭彌.md" title="wikilink">昭彌</a> &amp; <a href="https://zh.wikipedia.org/wiki/Matthew_Douma" title="wikilink">Matthew Douma</a>、</p></td>
+<td><p><a href="../Page/車太鉉.md" title="wikilink">車太鉉</a> &amp; <a href="https://zh.wikipedia.org/wiki/车在莞" title="wikilink">车在莞</a>、<a href="../Page/前進_(藝人).md" title="wikilink">JunJin</a> (<a href="https://zh.wikipedia.org/wiki/神话_(组合)" title="wikilink">神话</a>) &amp; 、<a href="https://zh.wikipedia.org/wiki/艺仁" title="wikilink">艺仁</a> (<a href="https://zh.wikipedia.org/wiki/Melody_Day" title="wikilink">Melody Day</a>) &amp; 、<a href="../Page/昭彌.md" title="wikilink">昭彌</a> &amp; <a href="https://zh.wikipedia.org/wiki/Matthew_Douma" title="wikilink">Matthew Douma</a>、</p></td>
 <td><p>“双亲节特辑 爸爸很奇怪”特辑</p></td>
 <td></td>
 </tr>

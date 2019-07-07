@@ -215,7 +215,7 @@
 <small>(142)</small></p></td>
 <td><p>9月12日<br />
 <small>(<em>8月30日</em>)</small></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/車太鉉" title="wikilink">車太鉉</a>、<a href="../Page/尹世雅.md" title="wikilink">尹世雅</a></p></td>
+<td><p><a href="../Page/車太鉉.md" title="wikilink">車太鉉</a>、<a href="../Page/尹世雅.md" title="wikilink">尹世雅</a></p></td>
 <td><p><a href="../Page/國立現代美術館.md" title="wikilink">國立現代美術館</a><br />
 <small>(<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/果川市.md" title="wikilink">果川市</a><br />
 )</small></p></td>

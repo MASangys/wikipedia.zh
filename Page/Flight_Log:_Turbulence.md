@@ -18,7 +18,7 @@ Carry》兩首新歌，27日音源與實體專輯同步發行。
 此張專輯為FLIGHT LOG系列的第二張作品，是上張迷你專輯《FLIGHT
 LOG：DEPARTURE》的續篇，無論從專輯名稱上還是視覺設計上，均沿用了“耀眼飛翔，衝破阻礙”的理念。\[7\]共收錄13首新歌，其中11首歌由GOT7全體成員參與作曲填詞，主打歌曲《Hard
 Carry》由寫過《Fly》的作曲家earattack量身打造，結合[EDM
-Trap曲風與](https://zh.wikipedia.org/wiki/EDM_Trap "wikilink")特有的重低音節奏\[8\]，服裝造型上大量使用撕裂感的[牛仔布素材](https://zh.wikipedia.org/wiki/牛仔布 "wikilink")，呈現出GOT7不同於以往的霸氣、粗曠的男人美。
+Trap曲風與](../Page/EDM_Trap.md "wikilink")特有的重低音節奏\[8\]，服裝造型上大量使用撕裂感的[牛仔布素材](https://zh.wikipedia.org/wiki/牛仔布 "wikilink")，呈現出GOT7不同於以往的霸氣、粗曠的男人美。
 
 歌名「Hard
 Carry」（硬核心）為網路遊戲的流行用語，意指在遊戲中那些裝備強大、能瞬間完結遊戲並帶領團隊奪取最終勝利的核心人物，也可引申為「能為你排除一切困難並全心倚靠的朋友、夥伴」之意。此次MV中成員們紛紛化身為[珍榮的Hard](../Page/朴珍榮.md "wikilink")

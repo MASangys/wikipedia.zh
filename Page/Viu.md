@@ -3191,7 +3191,7 @@ Movies合作，於東南亞地區送上亞洲電影，並加入各國的Viu Orig
 </tbody>
 </table>
 
-[公共電視文化事業基金會](https://zh.wikipedia.org/wiki/公共電視文化事業基金會 "wikilink")
+[公共電視文化事業基金會](../Page/公共電視文化事業基金會.md "wikilink")
 
 <table style="width:91%;">
 <colgroup>

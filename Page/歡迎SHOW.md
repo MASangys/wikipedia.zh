@@ -121,7 +121,7 @@ Yoni P</p></td>
 <small><em>(5月25日)</em></small></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/洪京民" title="wikilink">洪京民</a><br />
 <small>(歌手、音樂人、演員)</small><br />
-<a href="https://zh.wikipedia.org/wiki/車太鉉" title="wikilink">車太鉉</a><br />
+<a href="../Page/車太鉉.md" title="wikilink">車太鉉</a><br />
 <small>(演員、綜藝主持)</small><br />
 <a href="https://zh.wikipedia.org/wiki/朴娜萊_(喜劇演員)" title="wikilink">朴娜萊</a><br />
 <small>(搞笑藝人)</small><br />
@@ -368,7 +368,7 @@ Zico</p></td>
 <td><p>——</p></td>
 <td><p>盧弘喆、洪錫天 勝出<br />
 特別演出：<a href="../Page/朴明洙.md" title="wikilink">朴明洙</a>、<a href="https://zh.wikipedia.org/wiki/朴智允" title="wikilink">朴智允</a>、、、<a href="../Page/許卿煥.md" title="wikilink">許卿煥</a>、<br />
-崔秀敏 (聲優、車太鉉母親)、<a href="https://zh.wikipedia.org/wiki/車太鉉" title="wikilink">車太鉉聲音</a>(電話)特別出演</p></td>
+崔秀敏 (聲優、車太鉉母親)、<a href="../Page/車太鉉.md" title="wikilink">車太鉉聲音</a>(電話)特別出演</p></td>
 </tr>
 <tr class="even">
 <td><p>金鍾國<br />

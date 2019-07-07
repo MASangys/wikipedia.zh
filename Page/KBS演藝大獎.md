@@ -511,7 +511,7 @@
 <td><p><a href="../Page/柳喜烈.md" title="wikilink">柳喜烈</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/車太鉉" title="wikilink">車太鉉</a></p></td>
+<td><p><a href="../Page/車太鉉.md" title="wikilink">車太鉉</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>10</p></td>

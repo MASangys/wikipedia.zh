@@ -30,7 +30,7 @@
   - 導演・演出・分鏡：[吉川惣司](https://zh.wikipedia.org/wiki/吉川惣司 "wikilink")
   - 編劇：大和屋竺、吉川惣司
   - 監製：大塚康生
-  - 人物設計：[芝山努](https://zh.wikipedia.org/wiki/芝山努 "wikilink")
+  - 人物設計：[芝山努](../Page/芝山努.md "wikilink")
   - 作畫監督：椛島義夫、青木悠三
   - 美術：阿部行夫
   - 攝影監督：黑木敬七

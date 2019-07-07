@@ -194,7 +194,7 @@
 
   - 《[文茜的世界周報](../Page/文茜的世界周報.md "wikilink")》（[中天新聞台同类节目](../Page/中天新聞台.md "wikilink")）
   - 《[李四端的雲端世界](https://zh.wikipedia.org/wiki/李四端的雲端世界 "wikilink")》（[東森新闻台同类节目](https://zh.wikipedia.org/wiki/東森新闻台 "wikilink")）
-  - 《[全球現場](../Page/全球現場.md "wikilink")》（[公視同类节目](https://zh.wikipedia.org/wiki/公共電視文化事業基金會 "wikilink")）
+  - 《[全球現場](../Page/全球現場.md "wikilink")》（[公視同类节目](../Page/公共電視文化事業基金會.md "wikilink")）
 
 ## 参考文献
 

@@ -7,7 +7,7 @@
 姜藝彬喜歡表演和唱歌，得到父母的支持，成為一名練習生\[4\]。
 
 2015年，參與《[Show Me The Money
-4](../Page/Show_Me_The_Money_4.md "wikilink")》\[5\]，並與[洁琼](../Page/周潔瓊.md "wikilink")、[银雨出演了](https://zh.wikipedia.org/wiki/鄭銀雨 "wikilink")[SEVENTEEN](https://zh.wikipedia.org/wiki/SEVENTEEN "wikilink")〈MANSAE〉的MV。
+4](../Page/Show_Me_The_Money_4.md "wikilink")》\[5\]，並與[洁琼](../Page/周潔瓊.md "wikilink")、[银雨出演了](../Page/鄭銀雨.md "wikilink")[SEVENTEEN](https://zh.wikipedia.org/wiki/SEVENTEEN "wikilink")〈MANSAE〉的MV。
 
 2016年3月成為PLEDIS Girlz的成員\[6\]，五月至九月間每周六都在PLEDIS Girlz Concert中演出\[7\]。
 
