@@ -164,7 +164,7 @@ Comic](../Page/Big_Comic.md "wikilink")》等面向成人的漫畫雜志繪畫SF
 
   - [楠部大吉郎](../Page/楠部大吉郎.md "wikilink")
 
-  - [芝山努](https://zh.wikipedia.org/wiki/芝山努 "wikilink")
+  - [芝山努](../Page/芝山努.md "wikilink")
 
   - [中村英一](https://zh.wikipedia.org/wiki/中村英一 "wikilink")
 

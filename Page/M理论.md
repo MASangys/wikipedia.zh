@@ -73,7 +73,7 @@ Minasian）和他們的研究團隊從1991年開始研究弦理論的一種特�
 
 [Uniform_tiling_433-t0_(formatted).svg](https://zh.wikipedia.org/wiki/File:Uniform_tiling_433-t0_\(formatted\).svg "fig:Uniform_tiling_433-t0_(formatted).svg")上組成的[鑲嵌](../Page/交錯八邊形鑲嵌.md "wikilink")。\]\]
 
-一些物體具有時間空間範圍，如[電磁場等](https://zh.wikipedia.org/wiki/電磁場 "wikilink")，而應用在這些物體上的量子力學就是量子場論。量子場論是[粒子物理學研究基本粒子的基礎理論](../Page/粒子物理學.md "wikilink")，而其中這些粒子是由基本場的激發所描述。而[凝聚態物理學也會使用量子場論來模擬類似於粒子的](https://zh.wikipedia.org/wiki/凝聚態物理學 "wikilink")[準粒子](https://zh.wikipedia.org/wiki/準粒子 "wikilink")。
+一些物體具有時間空間範圍，如[電磁場等](https://zh.wikipedia.org/wiki/電磁場 "wikilink")，而應用在這些物體上的量子力學就是量子場論。量子場論是[粒子物理學研究基本粒子的基礎理論](../Page/粒子物理學.md "wikilink")，而其中這些粒子是由基本場的激發所描述。而[凝聚態物理學也會使用量子場論來模擬類似於粒子的](https://zh.wikipedia.org/wiki/凝聚態物理學 "wikilink")[準粒子](../Page/準粒子.md "wikilink")。
 
 物理學家們可以透過[反德西特/共形場論（AdS/CFT）對偶來表述M理論及研究其性質](https://zh.wikipedia.org/wiki/AdS/CFT對偶 "wikilink")。AdS/CFT對偶由[胡安·馬爾達西那於](https://zh.wikipedia.org/wiki/胡安·馬爾達西那 "wikilink")1997年末提出，這項理論結果意味着在某些個案中M理論是等同於一種量子場論。AdS/CFT對偶除了為數學家和物理學家就弦和M理論的數學結構提供了啟發之外，它還為解決在傳統計算技巧無效區間中的量子場論提供了多方面的線索。
 
