@@ -163,7 +163,7 @@ Kong Toolbar，有強迫安裝軟件之嫌。
       - [七∞](https://zh.wikipedia.org/wiki/七∞ "wikilink")（[擒七打8](https://zh.wikipedia.org/wiki/擒七打8 "wikilink")）[3](http://www.881903.com/Page/ZH-TW/tarzan.aspx)，網上音樂頻道，由[泰山主持](https://zh.wikipedia.org/wiki/泰山_\(DJ\) "wikilink")，每天不停播放70及80年代的流行音樂。
       - [聽不停](https://zh.wikipedia.org/wiki/聽不停 "wikilink")[4](http://www.facebook.com/buttontan)，網上音樂頻道，由[昆頓主持](https://zh.wikipedia.org/wiki/昆頓 "wikilink")，每天不停播放本地及外國流行音樂。
       - [叱咤咤](https://zh.wikipedia.org/wiki/叱咤咤 "wikilink")[5](https://web.archive.org/web/20081216234002/http://www.my903.com/my903/my903SongElection/mainPlayList.jsp)，網上音樂頻道，由[梁文禮主持](../Page/梁文禮.md "wikilink")，每天不停播放最新派台歌。
-      - [星火燎原](https://zh.wikipedia.org/wiki/星火燎原 "wikilink")[6](http://www.881903.com/Page/ZH-TW/Pro881_73.aspx)，雷霆881節目，由[火燎森及](https://zh.wikipedia.org/wiki/火燎森 "wikilink")[孫柏文主持](../Page/孫柏文.md "wikilink")，談論中港歐美經濟形勢，提供最近3集的節目重播。
+      - [星火燎原](https://zh.wikipedia.org/wiki/星火燎原 "wikilink")[6](http://www.881903.com/Page/ZH-TW/Pro881_73.aspx)，雷霆881節目，由[火燎森及](../Page/火燎森.md "wikilink")[孫柏文主持](../Page/孫柏文.md "wikilink")，談論中港歐美經濟形勢，提供最近3集的節目重播。
       - [串](https://zh.wikipedia.org/wiki/串_\(廣播節目\) "wikilink")[7](http://www.881903.com/Page/ZH-TW/Pro881_72.aspx)，雷霆881節目，由[潘小濤主持](../Page/潘小濤.md "wikilink")，每晚探討全球華人關心的社會話題，每晚直播並提供最近5集的節目重播。
       - [早霸王](../Page/早霸王.md "wikilink")[8](http://www.881903.com/Page/ZH-TW/Pro903_77.aspx)，叱咤903節目，由[森美及](https://zh.wikipedia.org/wiki/森美 "wikilink")[小儀主持](https://zh.wikipedia.org/wiki/小儀 "wikilink")，提供最近3集的節目重播。
 
