@@ -155,7 +155,7 @@
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/方平_(演員)" title="wikilink">方平</a></p></td>
 <td><p>曾玉明</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/警務處副處長" title="wikilink">警務處副處長</a><br />
+<td><p><a href="../Page/警務處副處長.md" title="wikilink">警務處副處長</a><br />
 黃文彬之上司</p></td>
 </tr>
 <tr class="even">

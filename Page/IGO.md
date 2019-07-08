@@ -1,5 +1,5 @@
 **iGO**乃是由[匈牙利商NNG軟體發展與商業公司](../Page/匈牙利.md "wikilink")（舊名Nav N
-Go，以下簡稱NNG公司）所研發的離線[衛星導航](../Page/卫星导航系统.md "wikilink")[軟體](https://zh.wikipedia.org/wiki/软件#应用软件 "wikilink")，使用者可預先將[電子地圖資料儲存於](https://zh.wikipedia.org/wiki/電子地圖 "wikilink")[記憶卡以供瀏覽](../Page/記憶卡.md "wikilink")。NNG公司的銷售對象非但是一般[消費者](https://zh.wikipedia.org/wiki/消費者 "wikilink")，也有[車載資訊系統](https://zh.wikipedia.org/wiki/車載資訊系統 "wikilink")、[可攜式導航裝置](../Page/便携式导航器.md "wikilink")（portable
+Go，以下簡稱NNG公司）所研發的離線[衛星導航](../Page/卫星导航系统.md "wikilink")[軟體](https://zh.wikipedia.org/wiki/软件#应用软件 "wikilink")，使用者可預先將[電子地圖資料儲存於](https://zh.wikipedia.org/wiki/電子地圖 "wikilink")[記憶卡以供瀏覽](../Page/記憶卡.md "wikilink")。NNG公司的銷售對象非但是一般[消費者](https://zh.wikipedia.org/wiki/消費者 "wikilink")，也有[車載資訊系統](../Page/車載資訊系統.md "wikilink")、[可攜式導航裝置](../Page/便携式导航器.md "wikilink")（portable
 navigation
 device，以下簡稱成PND）、交通運輸應用裝置等產品製造商，甚至包含[汽車製造廠](https://zh.wikipedia.org/wiki/汽車 "wikilink")，因此像、[歌樂](../Page/歌樂.md "wikilink")、[先鋒](https://zh.wikipedia.org/wiki/先鋒公司 "wikilink")、[三星](../Page/三星电机.md "wikilink")、[沃達豐](https://zh.wikipedia.org/wiki/沃達豐 "wikilink")、[福斯汽車等公司的產品上皆能見到其蹤影](https://zh.wikipedia.org/wiki/大众汽车 "wikilink")\[1\]。
 

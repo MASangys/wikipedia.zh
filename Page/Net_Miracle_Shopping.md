@@ -31,7 +31,7 @@ Shopping**》，是[每日放送](https://zh.wikipedia.org/wiki/MBS電視台 "wi
 <!-- end list -->
 
   - 男性ナレーター
-    配音員：[河內孝博](https://zh.wikipedia.org/wiki/河內孝博 "wikilink")
+    配音員：[河內孝博](../Page/河內孝博.md "wikilink")
 
 <!-- end list -->
 
