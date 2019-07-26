@@ -87,7 +87,8 @@ Shortcut技術，兩張顯示卡的溝通可以變得更直接。在以往，顯
 
 SLI不能在多重顯示器的環境下運作，使用者只能使用單一顯示器作為主顯示卡的輸出。同時，使用SLI的顯示卡在型號方面必須相同。與ATI的[FireGL不同](https://zh.wikipedia.org/wiki/FireGL "wikilink")，專業的[Quadro系列](../Page/Quadro.md "wikilink")[顯示卡亦可以支援SLI加速技術](https://zh.wikipedia.org/wiki/顯示卡 "wikilink")。
 
-NVIDIA的主要競爭對手[ATI](https://zh.wikipedia.org/wiki/ATI "wikilink")，也推出一種相類的多重GPU的技術，名為[CrossFire](https://zh.wikipedia.org/wiki/CrossFire "wikilink")。
+NVIDIA的主要競爭對手[ATI](https://zh.wikipedia.org/wiki/ATI "wikilink")，也推出一種相類的多重GPU的技術，名為[AMD
+CrossFire](../Page/AMD_CrossFire.md "wikilink")。
 
 ### Intel晶片組支援SLI的狀況
 

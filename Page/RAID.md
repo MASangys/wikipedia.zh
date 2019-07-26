@@ -187,10 +187,11 @@ RAID 7並非公開的RAID標準，而是Storage Computer Corporation的專利硬
 [RAID_10.svg](https://zh.wikipedia.org/wiki/File:RAID_10.svg "fig:RAID_10.svg")
 [RAID_01.svg](https://zh.wikipedia.org/wiki/File:RAID_01.svg "fig:RAID_01.svg")
 
-RAID 10是先分割資料再鏡像，再將所有硬碟分為兩組，視為是RAID 1的最低組合，然後將這兩組各自視為RAID 0運作。
+RAID 10是先分割資料再鏡像，再將所有硬碟分為兩組，視為以RAID 1作为最低組合，然後將每组RAID 1视为一个“硬盘”组合为RAID
+0運作。
 
-RAID 01則是跟RAID 10的程序相反，是先鏡像再將資料到分割兩組硬碟。它將所有的硬碟分為兩組，變成RAID
-0的最低組合，而將兩組硬碟各自視為RAID 1運作。
+RAID 01則是跟RAID 10的程序相反，是先鏡像再將資料到分割兩組硬碟。它將所有的硬碟分為兩組，每组各自构成为RAID
+0作为最低組合，而將兩組硬碟组合为RAID 1運作。
 
 當RAID 10有一個硬碟受損，其餘硬碟會繼續運作。RAID 01-{只}-要有一個硬碟受損，同組RAID
 0的所有硬碟都會停止運作，只剩下其他組的硬碟運作，可靠性較低。如果以六個硬碟建RAID

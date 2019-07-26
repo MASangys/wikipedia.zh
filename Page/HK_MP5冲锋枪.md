@@ -377,8 +377,8 @@ MP5\]\]
   -   - [菲律賓武裝部隊](https://zh.wikipedia.org/wiki/菲律賓軍事 "wikilink")
       - [菲律賓國家警察](https://zh.wikipedia.org/wiki/菲律賓國家警察 "wikilink")
 
-  -   - [波蘭武裝部隊特種部隊單位](https://zh.wikipedia.org/wiki/波蘭武裝部隊 "wikilink")
-
+  -   -
+      -
       -
       -
   -   - [特別行動組](https://zh.wikipedia.org/wiki/特別行動組_\(葡萄牙\) "wikilink")

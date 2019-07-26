@@ -468,7 +468,7 @@ End Sub
 
 下面这两份功能一致的代码展现出了VB.NET与C\#的很多不同之处：
 
-  - Visual Basic：
+  - VB.NET：
 
 <!-- end list -->
 
@@ -656,11 +656,12 @@ Visual Basic 2015（VB 14.0）於2015年7月20日發佈。
 
 ## 参考資料
 
-### 参见
+## 参见
 
-[Visual Basic](../Page/Visual_Basic.md "wikilink") [Visual
-Studio](https://zh.wikipedia.org/wiki/Visual_Studio "wikilink")
-[C\#](../Page/Microsoft_Visual_C♯.md "wikilink")
+  - [C\#](../Page/Microsoft_Visual_C♯.md "wikilink")
+  - [Visual Basic](../Page/Visual_Basic.md "wikilink")
+  - [Visual
+    Studio](https://zh.wikipedia.org/wiki/Visual_Studio "wikilink")
 
 ## 外部链接
 

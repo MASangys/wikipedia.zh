@@ -1,6 +1,6 @@
 **aiko**（）是[日本女性](../Page/日本.md "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")，出身於[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")[吹田市](../Page/吹田市.md "wikilink")。作曲及作詞皆精通，其中以作詞更為優秀。擅長細膩的情歌以及女性心理的描寫。代表作有《[煙火](../Page/煙火_\(aiko單曲\).md "wikilink")》、《[獨角仙](../Page/獨角仙_\(單曲\).md "wikilink")》、《[亮晶晶](../Page/亮晶晶_\(單曲\).md "wikilink")》等。
 
-aiko的國民度和好感度甚高。日本知名音樂排行榜服務公司[Oricon針對](../Page/Oricon.md "wikilink")20,000個訂戶所作的最受歡迎歌手調查結果顯示，aiko在2005年及2006年皆高居榜首。
+aiko的國民度和好感度甚高。日本知名娛樂服務公司[Oricon針對](../Page/Oricon.md "wikilink")20,000個訂戶所作的最受歡迎歌手調查結果顯示，aiko在2005年及2006年皆高居榜首。
 
 ## 發行作品
 
@@ -862,10 +862,23 @@ aiko的國民度和好感度甚高。日本知名音樂排行榜服務公司[Ori
 </tbody>
 </table>
 
-## 戲劇演出
+## 媒體演出
+
+### 電視劇
 
   - 2014年：《[出色的選TAXI](../Page/出色的選TAXI.md "wikilink")》─第9話 /
     角色：沼越宏美（客串）\[5\]
+
+### 廣播節目
+
+  - （1997年10月 - 1999年9月28日，[MBS電台](../Page/MBS電台.md "wikilink")）
+
+  - （1996年4月 - 2001年12月29日，）
+
+  - （1999年11月17日 - 2003年3月26日，[日本放送](../Page/日本放送.md "wikilink")）
+
+      - 常規播出結束後，曾以「aiko的All Night Nippon」名稱做為單發特別節目播出
+        ：2004年7月16日、2007年8月22日、2008年2月24日、2011年2月22日、2013年7月26日、2019年7月6日。
 
 ## 書籍
 
@@ -875,7 +888,7 @@ aiko的國民度和好感度甚高。日本知名音樂排行榜服務公司[Ori
 
 ## 獲獎
 
-  - 青年大獎 / 文部大臣奖励将（Teen's Music Festival Final, 1995年）
+  - 青年大獎 / 文部大臣獎勵獎（Teen's Music Festival Final, 1995年）
   - 優秀獎（Music Quest Japan Final, 1996年）
       - Pony Canyon獎 (Music Quest Japan Final, 1996)
   - 盛开的花朵奖，音樂部门（[大阪市](../Page/大阪市.md "wikilink")、2000年）
@@ -893,7 +906,7 @@ aiko的國民度和好感度甚高。日本知名音樂排行榜服務公司[Ori
 
 ## 外部連結
 
-  - [aiko official website](http://aiko.com/)（日本）- 官方網站
+  - [aiko official website](http://aiko.com/) - 官方網站
   - [ポニーキャニオン -
     aiko](https://web.archive.org/web/20080502072124/http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_ART_1010&CMD=DSP&DSP_ATSCOD=30059900)（日本）-
     PONY CANYON專屬頁面
@@ -910,14 +923,10 @@ aiko的國民度和好感度甚高。日本知名音樂排行榜服務公司[Ori
     ミュージック</span>](http://www.oricon.co.jp/artists/27083/)（日本）
 
 [Category:Aiko](https://zh.wikipedia.org/wiki/Category:Aiko "wikilink")
-[Category:日本創作歌手](https://zh.wikipedia.org/wiki/Category:日本創作歌手 "wikilink")
-[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink")
-[Category:日本流行音樂歌手](https://zh.wikipedia.org/wiki/Category:日本流行音樂歌手 "wikilink")
+[Category:日本女性創作歌手](https://zh.wikipedia.org/wiki/Category:日本女性創作歌手 "wikilink")
 [Category:NHK紅白歌合戰出场歌手](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰出场歌手 "wikilink")
 [Category:20世纪歌手](https://zh.wikipedia.org/wiki/Category:20世纪歌手 "wikilink")
 [Category:21世纪歌手](https://zh.wikipedia.org/wiki/Category:21世纪歌手 "wikilink")
-[Category:日本作詞家](https://zh.wikipedia.org/wiki/Category:日本作詞家 "wikilink")
-[Category:日本作曲家](https://zh.wikipedia.org/wiki/Category:日本作曲家 "wikilink")
 [Category:日本廣播主持人](https://zh.wikipedia.org/wiki/Category:日本廣播主持人 "wikilink")
 [Category:大阪府出身人物](https://zh.wikipedia.org/wiki/Category:大阪府出身人物 "wikilink")
 

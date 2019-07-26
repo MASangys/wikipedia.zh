@@ -27,11 +27,12 @@ ipsum版本外，網上還有不同長度和不同語言的版本可供使用。
 
 ## 外部連結
 
-  - [中文Lorem Ipsum產生器](http://www.richyli.com/tool/loremipsum/)
+  - [中文 Lorem Ipsum 產生器](http://www.richyli.com/tool/loremipsum/)
+  - [中文假文產生器](https://textgen.cqd.tw)
   - [Multilingual Lorem Ipsum
     Generator](http://www.blindtextgenerator.com)
-  - [出现在 Word 帮助中的文字“Lorem ipsum dolor sit
-    amet”的说明](http://support.microsoft.com/kb/114222)
+  - [出现在 Word 帮助中的文字 “Lorem ipsum dolor sit amet”
+    的说明](http://support.microsoft.com/kb/114222)
 
 [Category:出版業](https://zh.wikipedia.org/wiki/Category:出版業 "wikilink")
 [Category:设计](https://zh.wikipedia.org/wiki/Category:设计 "wikilink")

@@ -1,7 +1,7 @@
 [Web_2.0_Map.svg](https://zh.wikipedia.org/wiki/File:Web_2.0_Map.svg "fig:Web_2.0_Map.svg")\]\]
 
 **Web
-2.0**，指的是一個利用[万维网](../Page/万维网.md "wikilink")（Web）的平台，由用户主导而生成内容的互联网产品模式，为了区别传统由网站雇员主导生成的内容而定义为web2.0。\[1\]
+2.0**，指的是一個利用[万维网](../Page/万维网.md "wikilink")（Web）的平台，一个由用户主导而生成内容的互联网产品模式，且为了区别传统由网站雇员主导生成的内容而定义为web2.0。\[1\]
 
 Web 2.0 是资源平等的体现。Web
 2.0的应用可以让人了解到目前万维网正在进行的一种改变——从一系列[网站到一个成熟的为](https://zh.wikipedia.org/wiki/网站 "wikilink")[最终用户提供网络应用的服务平台](https://zh.wikipedia.org/wiki/最终用户 "wikilink")。这种概念的支持者期望Web
@@ -22,7 +22,7 @@ O'Reilly提到他與工作夥伴在一次[腦力激盪中提出了](../Page/腦�
 IBM的社群網路分析師，[Dario de
 Judicibus](https://zh.wikipedia.org/wiki/Dario_de_Judicibus "wikilink")，提出不一樣的定義，特別是在社群互動和架構現實上。
 
-将纷繁芜杂的Web 2.0现象放置于科技发展与社会变革的大视野，Web
+将纷繁芜杂的Web 2.0现象放置于科技发展与社会变革的大视野中，Web
 2.0可以说是信息通讯技术引发信息革命、知识社会所带来的面向未来、以人为本的[创新2.0模式在互联网领域的典型体现](https://zh.wikipedia.org/wiki/创新2.0 "wikilink")，是由专业人员织网到所有用户参与织网的创新民主化进程的生动注释。\[4\]
 
 ## Web 1.0

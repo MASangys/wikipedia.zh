@@ -41,6 +41,8 @@ Boyz成立15周年實在非常難得及感恩，並指這場演唱會為艾粒�
 Moment](https://zh.wikipedia.org/wiki/Supper_Moment "wikilink")（4月5日）、[C
 AllStar](../Page/C_AllStar.md "wikilink")（4月6日）和[BOY'Z](https://zh.wikipedia.org/wiki/BOY'Z "wikilink")（4月5-6日）擔任嘉賓，為二人的演藝生涯寫下光輝一頁。\[7\]
 
+2019年7月與TVB合約藝人。
+
 ## 派台歌曲與成績
 
 | **派台歌曲成績**                                                                              |
@@ -200,7 +202,7 @@ Summer](https://zh.wikipedia.org/wiki/愚樂_I_Love_You_Summer "wikilink")》更
 [Category:單飛不解散團體](https://zh.wikipedia.org/wiki/Category:單飛不解散團體 "wikilink")
 [Category:香港男子演唱團體](https://zh.wikipedia.org/wiki/Category:香港男子演唱團體 "wikilink")
 [Category:惡搞文化](https://zh.wikipedia.org/wiki/Category:惡搞文化 "wikilink")
-[Category:前無綫電視男藝員](https://zh.wikipedia.org/wiki/Category:前無綫電視男藝員 "wikilink")
+[Category:無綫電視男藝員](https://zh.wikipedia.org/wiki/Category:無綫電視男藝員 "wikilink")
 
 1.
 2.  [1](https://web.archive.org/web/20060410102839/http://hk.geocities.com/yccchris/LukKaChun.htm)

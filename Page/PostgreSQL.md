@@ -1,8 +1,6 @@
-**PostgreSQL**是[自由的](../Page/自由软件.md "wikilink")[对象-关系型数据库服务器](https://zh.wikipedia.org/wiki/对象-关系型数据库 "wikilink")（[数据库管理系统](../Page/数据库管理系统.md "wikilink")），在灵活的[BSD许可证下发行](../Page/BSD许可证.md "wikilink")。它在其他开放源代码数据库系统（比如[MySQL和](../Page/MySQL.md "wikilink")[Firebird](../Page/Firebird_\(数据库\).md "wikilink")），和[专有系统](../Page/专有软件.md "wikilink")（比如[Oracle](../Page/甲骨文公司.md "wikilink")、[Sybase](../Page/Sybase.md "wikilink")、IBM的[DB2和](https://zh.wikipedia.org/wiki/DB2 "wikilink")[Microsoft
-SQL
-Server](https://zh.wikipedia.org/wiki/Microsoft_SQL_Server "wikilink")）之外，为用户提供了又一种选择。
+**PostgreSQL**是[自由的](../Page/自由软件.md "wikilink")[对象-关系型数据库服务器](https://zh.wikipedia.org/wiki/对象-关系型数据库 "wikilink")（[数据库管理系统](../Page/数据库管理系统.md "wikilink")），在[BSD许可证下发行](../Page/BSD许可证.md "wikilink")。
 
-PostgreSQL這個單字的拼法讓有些人覺得很難唸，特别是那些把[SQL唸作](../Page/SQL.md "wikilink")"sequel"的人。PostgreSQL开发者把它唸作"post-gress-Q-L"。（[Audio
+PostgreSQL這個單字的拼法讓有些人覺得很難读，特别是那些把[SQL唸作](../Page/SQL.md "wikilink")"sequel"的人。PostgreSQL开发者把它唸作"post-gress-Q-L"。（[Audio
 sample](http://www.postgresql.org/files/postgresql.mp3)，5.6k
 MP3）。它也经常被简略唸为"postgres"。
 

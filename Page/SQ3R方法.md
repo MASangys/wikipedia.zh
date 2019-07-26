@@ -31,12 +31,6 @@ Study*有所提及，主要用於精讀課文\[1\]\[2\] \[3\]
 
 ## 參考
 
-<div class="references-small">
-
-<references/>
-
-</div>
-
 ## 外部連結
 
   - [SQ3R方法的Blog](https://web.archive.org/web/20040104205225/http://blogbus.com/blogbus/blog/diary.php?diaryid=54498)

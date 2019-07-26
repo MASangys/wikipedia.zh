@@ -302,6 +302,7 @@ broker等的自動服務。\[23\]組態隧道通常比自動隧道更容易去�
 
   - [OSI模型](../Page/OSI模型.md "wikilink")
   - [IPv4](../Page/IPv4.md "wikilink")
+  - [IPv9](../Page/IPv9.md "wikilink")
   - [TCP/IP协议](https://zh.wikipedia.org/wiki/TCP/IP协议 "wikilink")
   - [CNGI](https://zh.wikipedia.org/wiki/CNGI "wikilink")
 

@@ -4,16 +4,16 @@
 
 ## 開啟Cool'n'Quiet的先決條件
 
-  - 支援Cool'n'Quiet的处理器。
+  - 支援Cool'n'Quiet的AMD处理器。
   - 支援Cool'n'Quiet的主机板以及相应的[BIOS](../Page/BIOS.md "wikilink")。
   - 在BIOS開啟該項功能。
-  - 支援的[操作系统](../Page/操作系统.md "wikilink")。
+  - 支援的[操作系统](../Page/操作系统.md "wikilink")\[1\]。
   - 如果操作系统不支援，则需要相应的[驱动程式](https://zh.wikipedia.org/wiki/驱动程式 "wikilink")。
   - 正确的系统设置。
 
-注意：如果使用者倾向性能而非省電，則不建議開啟Cool'n'Quiet。於控制台的電源配置選擇“高效能”即可关闭Cool'n'Quiet功能。
+注意：如果使用者倾向性能而非省電，則不建議開啟Cool'n'Quiet。於控制台的「電源選項」選擇“高效能”即可关闭Cool'n'Quiet功能。
 
-## 支援Enabled的處理器
+## 支援Cool'n'Quiet的處理器
 
   - [速龍 Athlon 64](https://zh.wikipedia.org/wiki/Athlon_64 "wikilink") -
     全部型號
@@ -21,7 +21,7 @@
     X2](https://zh.wikipedia.org/wiki/Athlon_64_X2 "wikilink") - 全部型號
   - [速龍 Athlon X4](https://zh.wikipedia.org/wiki/Athlon_X4 "wikilink") -
     全部型號
-  - [速龍 Athlon 64FX](../Page/Athlon_64_FX.md "wikilink") - FX-53 或更高（僅
+  - [速龍 Athlon 64 FX](../Page/Athlon_64_FX.md "wikilink") - FX-53 或更高（僅
     [Socket 939](../Page/Socket_939.md "wikilink")）
   - [閃龍 Sempron](https://zh.wikipedia.org/wiki/Sempron "wikilink") -
     3000+ 或更高（K8核心）
@@ -39,6 +39,10 @@
   - [羿龍 Phenom](https://zh.wikipedia.org/wiki/Phenom "wikilink") - 全部型號
   - [羿龍II Phenom II](https://zh.wikipedia.org/wiki/Phenom_II "wikilink")
     - 全部型號
+  - [Athlon II](https://zh.wikipedia.org/wiki/Athlon_II "wikilink")
+  - [AMD APU](https://zh.wikipedia.org/wiki/AMD_APU "wikilink")
+  - [AMD FX](../Page/AMD_FX.md "wikilink")
+  - [AMD Ryzen](../Page/AMD_Ryzen.md "wikilink")
 
 ## 参见
 
@@ -54,3 +58,5 @@
 [Category:微處理器](https://zh.wikipedia.org/wiki/Category:微處理器 "wikilink")
 [Category:AMD](https://zh.wikipedia.org/wiki/Category:AMD "wikilink")
 [Category:计算机硬件调校](https://zh.wikipedia.org/wiki/Category:计算机硬件调校 "wikilink")
+
+1.  <https://archive.is/20120719223708/http://www.asus.com/999/html/events/mb/cnq.htm>

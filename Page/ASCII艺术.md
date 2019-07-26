@@ -77,8 +77,7 @@ ASCII艺术用于当文字比图像更稳定和更快显示的场合。包括打
 `    //`
 `   (/`
 
-</span>
-[Figlet程序](https://zh.wikipedia.org/wiki/Figlet "wikilink")（以及其他支持其标准的程式）允许设计和使用ASCII字体。
+</span> 程序（以及其他支持其标准的程式）允许设计和使用ASCII字体。
 <span style="font-family: Courier New;font-size:16px;line-height: 16px;">
 
 `        _____ ___ ____ _      _   `

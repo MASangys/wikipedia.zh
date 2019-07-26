@@ -357,9 +357,13 @@ BUILD4版本的基础上开发出來的GTK+版本，它集成了建模/模拟工
 
 #### NumPy與SciPy
 
-NumPy是[Python語言的一個擴充程式庫](../Page/Python.md "wikilink")。支援高階大量的維度陣列與矩陣運算，此外也針對陣列運算提供大量的數學函式函式庫。
+NumPy是[Python語言的一個擴充程式庫](../Page/Python.md "wikilink")。支援高階大量的維度陣列與[矩陣運算](https://zh.wikipedia.org/wiki/矩陣 "wikilink")，此外也針對陣列運算提供大量的數學函式[函式庫](../Page/函式庫.md "wikilink")。
 
-SciPy是一個開源，基於NumPy的Python演算法庫和數學工具包，包含的模組有最佳化、線性代數、積分、插值、特殊函式、快速傅立葉變換、訊號處理和圖像處理、常微分方程求解和其他科學與工程中常用的計算。
+SciPy是一個[開源](https://zh.wikipedia.org/wiki/開源 "wikilink")，基於NumPy的Python演算法庫和數學工具包，包含的模組有[最佳化](https://zh.wikipedia.org/wiki/最佳化 "wikilink")、[線性代數](https://zh.wikipedia.org/wiki/線性代數 "wikilink")、[積分](https://zh.wikipedia.org/wiki/積分 "wikilink")、[插值](../Page/插值.md "wikilink")、特殊函式、[快速傅立葉變換](https://zh.wikipedia.org/wiki/快速傅立葉變換 "wikilink")、[訊號處理和](https://zh.wikipedia.org/wiki/訊號處理 "wikilink")[圖像處理](https://zh.wikipedia.org/wiki/圖像處理 "wikilink")、[常微分方程求解和其他科學與工程中常用的計算](../Page/常微分方程.md "wikilink")。
+
+#### Julia
+
+Julia是一种[高级](https://zh.wikipedia.org/wiki/高级语言 "wikilink")[通用語言](../Page/通用编程语言.md "wikilink")。
 
 ## 注释
 

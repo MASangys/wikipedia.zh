@@ -5,7 +5,7 @@ Virgos之后又一风靡全球的歌手](../Page/圣女天团.md "wikilink")。�
 
 ## 簡要生平
 
-小的時候在祖父的影響下學習演奏[手風琴](https://zh.wikipedia.org/wiki/手風琴 "wikilink")，並在祖父的帶領下經常在位於[烏克蘭境內的](https://zh.wikipedia.org/wiki/烏克蘭 "wikilink")[敖德薩進行業餘演出](../Page/敖德薩.md "wikilink")。十幾歲的時候（具體的年份仍無法確定）進入敖德薩音樂學院學習。其音樂學院院長安那托利·帕多卡驚嘆Vitas是“上天賜予的禮物”。Vitas於2006年與交往7年的女友結婚,
+(一说出生是在1981年）小的時候在祖父的影響下學習演奏[手風琴](https://zh.wikipedia.org/wiki/手風琴 "wikilink")，並在祖父的帶領下經常在位於[烏克蘭境內的](https://zh.wikipedia.org/wiki/烏克蘭 "wikilink")[敖德薩進行業餘演出](../Page/敖德薩.md "wikilink")。十幾歲的時候（具體的年份仍無法確定）進入敖德薩音樂學院學習。其音樂學院院長安那托利·帕多卡驚嘆Vitas是“上天賜予的禮物”。Vitas於2006年與交往7年的女友結婚,
 目前育有一女一子。
 
 從敖德薩將Vitas發掘出來的是[俄羅斯著名音樂製作人](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")[謝爾蓋·普多夫金](https://zh.wikipedia.org/wiki/謝爾蓋·普多夫金 "wikilink")（）。普多夫金在敖德薩聽過演唱的錄音帶之後，慨嘆自己“發現了俄羅斯音樂的天才”。很快，就隨普多夫金來到[莫斯科](../Page/莫斯科.md "wikilink")，並正式開始以Vitas為藝名登上俄羅斯樂壇。

@@ -4,7 +4,7 @@
 
 Copyleft授權方式雖然與常見的著作權授權模式不同：選擇Copyleft授權方式並不代表作者放棄著作權，但與目前限制著作內容傳播的著作權體制不同，Copyleft是贯彻始终，强制被授权者使用同样授权发布衍生作品，copyleft授權條款不反對著作權的基本體制，卻是透過利用著作權法來進一步地促進創作自由，與保障著作內容傳播。
 
-Copyleft，不是[反著作權運動](../Page/反著作權運動.md "wikilink")，不主張廢止著作權，也不是[公有領域](https://zh.wikipedia.org/wiki/公有領域 "wikilink")
+Copyleft，不是[反著作權運動](../Page/反著作權運動.md "wikilink")，不主張廢止著作權，也不是[公有領域](https://zh.wikipedia.org/wiki/公有領域 "wikilink")。
 
 ## 授權方式
 

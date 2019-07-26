@@ -926,7 +926,8 @@ Xbox One、PS4 及 PC 平台上繼續採用「Frostbite」寒霜引擎 ，而新
 Switch](https://zh.wikipedia.org/wiki/Nintendo_Switch "wikilink")
 則採用其他引擎開發。今年《FIFA
 18》擁有更逼真的臨場氣氛、球場及球員的細緻度均有所提高，而且更引入新玩家控制模式及新的團隊風格，增強了遊戲的可玩性。此外，廠方指出球員的人物特性將更進一步，透過找來球星們進行度身的
-motion capture，像 C罗標誌性奔跑、斯特林獨特的轉身或基士文的特別都能夠如實還原出來，不論控球在腳或是無球走動時均會更加真實。
+motion capture，像
+C罗標誌性奔跑、斯特林獨特的轉身或基士文的特別都能夠如實還原出來，不論控球在腳或是無球走動時均會更加真實，与此同时首次加入了对简体中文的支持。
 
 《FIFA 17》加入的剧情模式「The Journey」來到《FIFA 18》，緊接上集 「The Journey」 故事贏得 FA CUP
 之後亦來到續集: The Journey 2 : Hunter Returns。玩家將會繼續使用 Alex Hunter

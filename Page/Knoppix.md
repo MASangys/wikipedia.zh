@@ -15,22 +15,27 @@ Distro，當中還包括[文鼎字型和](https://zh.wikipedia.org/wiki/文鼎 "
 
   - [LXDE](../Page/LXDE.md "wikilink")，一个轻量级的[X11](https://zh.wikipedia.org/wiki/X11 "wikilink")[桌面环境](../Page/桌面环境.md "wikilink")（默认为6.0.1和更高版本），或[KDE
     3](https://zh.wikipedia.org/wiki/KDE_3 "wikilink")，一个更多特性的桌面环境，默认为5.3.1和更早的版本。
+
   - [MPlayer](../Page/MPlayer.md "wikilink")，带有[MP3和](../Page/MP3.md "wikilink")[Ogg
     Vorbis音频播放支持](https://zh.wikipedia.org/wiki/Ogg_Vorbis "wikilink")。
-  - [Internet
-    access软件](https://zh.wikipedia.org/wiki/:en:Internet_access "wikilink")，包括[KPPP拨号器和](https://zh.wikipedia.org/wiki/KPPP "wikilink")[综合业务数字网实用程序](../Page/综合业务数字网.md "wikilink")
-  - [Iceweasel网络浏览器](https://zh.wikipedia.org/wiki/:en:Iceweasel "wikilink")（基于[Mozilla
+
+  - [網路存取软件](https://zh.wikipedia.org/wiki/網路存取 "wikilink")，包括[KPPP拨号器和](https://zh.wikipedia.org/wiki/KPPP "wikilink")[综合业务数字网实用程序](../Page/综合业务数字网.md "wikilink")
+
+  - [Iceweasel网络浏览器](../Page/Iceweasel.md "wikilink")（基于[Mozilla
     Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")）
-  - [Icedove](https://zh.wikipedia.org/wiki/:en:Icedove "wikilink")
-    e-mail客户端（基于[Mozilla
+
+  - e-mail客户端（基于[Mozilla
     Thunderbird](../Page/Mozilla_Thunderbird.md "wikilink")）
+
   - [GIMP](../Page/GIMP.md "wikilink")，一个图像处理程序
+
   - 数据拯救和系统修理工具
+
   - 网络分析和管理工具
-  - [LibreOffice](https://zh.wikipedia.org/wiki/LibreOffice "wikilink")，一个完整的[office
-    suite](https://zh.wikipedia.org/wiki/:en:office_suite "wikilink")
-  - [Terminal
-    server](https://zh.wikipedia.org/wiki/:en:Terminal_server "wikilink")
+
+  - [LibreOffice](https://zh.wikipedia.org/wiki/LibreOffice "wikilink")，一个完整的办公套件
+
+  - [终端](https://zh.wikipedia.org/wiki/终端 "wikilink")
 
 ## 歷史版本
 
@@ -417,15 +422,17 @@ Knoppix對中日韓環境的支援極差，在系統預建的漢字字型檔裡�
 ## 参见
 
   - [Linux套件列表](https://zh.wikipedia.org/wiki/Linux套件列表 "wikilink")
+
   - [LiveCD](https://zh.wikipedia.org/wiki/LiveCD "wikilink")
-  - [Comparison of Linux
-    distributions](https://zh.wikipedia.org/wiki/:en:Comparison_of_Linux_distributions "wikilink")
+
+  - [Linux发行版比较](../Page/Linux发行版比较.md "wikilink")
+
   - [Damn Small
     Linux](https://zh.wikipedia.org/wiki/Damn_Small_Linux "wikilink")
-  - [Debian
-    Live](https://zh.wikipedia.org/wiki/:en:Debian_Live "wikilink")
-  - [Iskolinux](https://zh.wikipedia.org/wiki/:en:Iskolinux "wikilink")
 
+  - [Debian](../Page/Debian.md "wikilink")
+
+  -
 ## 参考文献
 
 ## 外部链接

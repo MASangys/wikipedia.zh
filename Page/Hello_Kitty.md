@@ -150,9 +150,9 @@ Kitty共同策劃[發行跨品牌商品](http://www.damanwoo.com/node/55805)。
   - 安森尼（或安東尼；Anthony White）：Hello Kitty的爺爺，最喜歡畫畫。
   - 瑪格麗特（或瑪嘉烈；Margaret White）：Hello Kitty的奶奶，最喜歡作手工藝和刺繡。
 
-## Hello Kitty的男友
+## Hello Kitty的老公
 
-  - 丹尼爾（Daniel Dear）：Hello Kitty的青梅竹馬兼男朋友。職業是舞者。
+  - 丹尼爾（Daniel Dear）：Hello Kitty的青梅竹馬兼老公。職業是舞者。
 
 ## Hello Kitty的好友們
 

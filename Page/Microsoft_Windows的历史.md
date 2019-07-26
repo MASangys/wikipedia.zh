@@ -475,6 +475,7 @@ Windows Server 2016於2016年9月26日正式推出，於同年10月12日正式�
   - Windows Server 2012 R2（Windows NT 6.3）
   - Windows 10（Windows NT 6.4/10.0）
   - Windows Server 2016 (Windows NT 10)
+  - Windows Server 2019 (Windows NT 10)
 
 ## 重要里程
 

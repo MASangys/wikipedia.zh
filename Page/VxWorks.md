@@ -7,7 +7,7 @@ i960](https://zh.wikipedia.org/wiki/Intel_i960 "wikilink")、[SPARC](../Page/SPA
 [StrongARM以及](../Page/StrongARM.md "wikilink")[xScale](https://zh.wikipedia.org/wiki/xScale "wikilink")
 CPU。
 
-它以其良好的可靠性和卓越的实时性被广泛地应用在通信、军事、航空、航天等高精尖技术及实时性要求极高的领域中，如卫星通讯、军事演习、弹道制导、飞机导航等。
+它以其良好的可靠性和卓越的实时性被广泛地应用在通信、军事、航空、-{zh-tw:航太;zh-cn:航天}-等高精尖技术及实时性要求极高的领域中，如卫星通讯、军事演习、弹道制导、飞机导航等。
 
 美国的[F-16](../Page/F-16戰隼戰鬥機.md "wikilink")、[F/A-18战斗机](https://zh.wikipedia.org/wiki/F-18 "wikilink")、[B-2隐形轰炸机和](https://zh.wikipedia.org/wiki/B-2幽灵隐形战略轰炸机 "wikilink")[爱国者导弹](https://zh.wikipedia.org/wiki/爱国者导弹 "wikilink")，[火星探測器如](https://zh.wikipedia.org/wiki/火星探測器 "wikilink")1997年7月登陆的火星探测器，2008年5月登陆的[凤凰号](https://zh.wikipedia.org/wiki/凤凰号 "wikilink")\[1\]、2012年8月登陸的[好奇號都使用到了VxWorks](../Page/火星科学实验室.md "wikilink")。
 

@@ -1,4 +1,4 @@
-《**再見了，可魯**》是[日本作家](https://zh.wikipedia.org/wiki/日本作家 "wikilink")[石黑谦吾和](https://zh.wikipedia.org/wiki/石黑谦吾 "wikilink")[攝影師](https://zh.wikipedia.org/wiki/攝影師 "wikilink")[秋元良平根據真人實事所合著的](https://zh.wikipedia.org/wiki/秋元良平 "wikilink")[小說](https://zh.wikipedia.org/wiki/小說 "wikilink")。並改编為同名[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，於2003年6月在[NHK播出](https://zh.wikipedia.org/wiki/NHK "wikilink")；同名[电影于](../Page/电影.md "wikilink")2004年3月13日在[日本上映](../Page/日本.md "wikilink")，并于2004年9月25日发行了DVD。2019年香港根據小說改編拍攝電影《[小Q](../Page/小Q.md "wikilink")》。
+《**再見了，可魯**》是[日本](../Page/日本.md "wikilink")[作家](https://zh.wikipedia.org/wiki/作家 "wikilink")[石黑谦吾和](https://zh.wikipedia.org/wiki/石黑谦吾 "wikilink")[攝影師](https://zh.wikipedia.org/wiki/攝影師 "wikilink")[秋元良平根據真人實事所合著的](https://zh.wikipedia.org/wiki/秋元良平 "wikilink")[小說](https://zh.wikipedia.org/wiki/小說 "wikilink")。並改编為同名[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，於2003年6月在[NHK播出](https://zh.wikipedia.org/wiki/NHK "wikilink")；同名[电影于](../Page/电影.md "wikilink")2004年3月13日在[日本上映](../Page/日本.md "wikilink")，并于2004年9月25日发行了DVD。2019年香港根據小說改編拍攝電影《[小Q](../Page/小Q.md "wikilink")》。
 
 ## 剧情介绍
 
@@ -68,32 +68,32 @@
 
 ### 主要演員
 
-  - 渡邊滿：小林薰
-  - 多和田悟：椎名桔平
-  - 仁井勇：香川照之
-  - 仁井三都子：寺島忍
-  - 渡邊祺子：戶田惠子
-  - 久保マスミ：黑谷友香
-  - 渡邊美津子：櫻谷由貴花
-  - 渡邊悅男：松田和
-  - 水戸レン：名取裕子
-  - 戸塚裕史：石田太郎
-  - 酒井雄一：水橋研二
-  - 蒲田洋子：坂上智恵
-  - 矢口京子：谷川清美
-  - 高橋光夫：吉田康平
-  - 水戸乾二：寺井健人
-  - 塚本徹：落合充
-  - 片岡智則：野村克也
-  - 川本：小市慢太郎
-  - 吉永：宇宙亭くいだおれ
-  - 石橋：佐藤貢三
-  - 金子：日出行雄
-  - 高野：中川智弘
-  - 平田：山崎清秀
-  - 櫻井：仁枝玲子
-  - 獸醫：山田昭彦
-  - 民家的主婦：宮本毬子
+  - 渡邊滿：[小林薰](../Page/小林薰.md "wikilink")
+  - 多和田悟：[椎名桔平](../Page/椎名桔平.md "wikilink")
+  - 仁井勇：[香川照之](../Page/香川照之.md "wikilink")
+  - 仁井三都子：[寺島忍](https://zh.wikipedia.org/wiki/寺島忍 "wikilink")
+  - 渡邊祺子：[戶田惠子](../Page/戶田惠子.md "wikilink")
+  - 久保マスミ：[黑谷友香](../Page/黑谷友香.md "wikilink")
+  - 渡邊美津子：[櫻谷由貴花](https://zh.wikipedia.org/wiki/櫻谷由貴花 "wikilink")
+  - 渡邊悅男：[松田和](https://zh.wikipedia.org/wiki/松田和 "wikilink")
+  - 水戸レン：[名取裕子](https://zh.wikipedia.org/wiki/名取裕子 "wikilink")
+  - 戸塚裕史：[石田太郎](https://zh.wikipedia.org/wiki/石田太郎 "wikilink")
+  - 酒井雄一：[水橋研二](https://zh.wikipedia.org/wiki/水橋研二 "wikilink")
+  - 蒲田洋子：[坂上智恵](https://zh.wikipedia.org/wiki/坂上智恵 "wikilink")
+  - 矢口京子：[谷川清美](https://zh.wikipedia.org/wiki/谷川清美 "wikilink")
+  - 高橋光夫：[吉田康平](https://zh.wikipedia.org/wiki/吉田康平 "wikilink")
+  - 水戸乾二：[寺井健人](https://zh.wikipedia.org/wiki/寺井健人 "wikilink")
+  - 塚本徹：[落合充](https://zh.wikipedia.org/wiki/落合充 "wikilink")
+  - 片岡智則：[野村克也](https://zh.wikipedia.org/wiki/野村克也 "wikilink")
+  - 川本：[小市慢太郎](../Page/小市慢太郎.md "wikilink")
+  - 吉永：[宇宙亭くいだおれ](https://zh.wikipedia.org/wiki/宇宙亭くいだおれ "wikilink")
+  - 石橋：[佐藤貢三](https://zh.wikipedia.org/wiki/佐藤貢三 "wikilink")
+  - 金子：[日出行雄](https://zh.wikipedia.org/wiki/日出行雄 "wikilink")
+  - 高野：[中川智弘](https://zh.wikipedia.org/wiki/中川智弘 "wikilink")
+  - 平田：[山崎清秀](https://zh.wikipedia.org/wiki/山崎清秀 "wikilink")
+  - 櫻井：[仁枝玲子](https://zh.wikipedia.org/wiki/仁枝玲子 "wikilink")
+  - 獸醫：[山田昭彦](https://zh.wikipedia.org/wiki/山田昭彦 "wikilink")
+  - 民家的主婦：[宮本毬子](https://zh.wikipedia.org/wiki/宮本毬子 "wikilink")
   - 可魯：チビチビクー（幼犬）、ビート（3個月時）、チビクー（7個月時）、ラフィー（成犬）、ユマ（老犬）
 
 ### 票房

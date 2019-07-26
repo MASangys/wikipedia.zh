@@ -18,7 +18,8 @@ Windows
 3.1发行于1992年3月18日，添加了对声音输入输出的基本[多媒体的支持和一个CD音频播放器](../Page/多媒体.md "wikilink")，以及对[桌面出版很有用的](../Page/桌面出版.md "wikilink")[TrueType字体](../Page/TrueType.md "wikilink")，并开始有了[虚拟内存和](../Page/虚拟内存.md "wikilink")[屏幕保护程序](https://zh.wikipedia.org/wiki/屏幕保护程序 "wikilink")。TrueType取代了曾在Windows
 3.0版非常流行的[Adobe Type
 Manager](https://zh.wikipedia.org/wiki/Adobe_Type_Manager "wikilink")（ATM）的市場地位，Windows
-3.1是第一版沒有提供真實模式的Windows操作系统。这是微软视窗涉足简体中文的第一个版本，其简体中文版发布于1993年，多基于对英文版的简体中文化，提供了两种常用的输入法——[拼音和GB](../Page/拼音输入法.md "wikilink")2313区位用于录入汉字。
+3.1是第一版沒有提供真實模式的Windows操作系统。这是微软 Windows
+开始涉足中文市场的第一个版本，其简体中文版发布于1993年，多基于对英文版的简体中文化，提供了两种常用的输入法——[拼音和GB](../Page/拼音输入法.md "wikilink")2313区位用于录入汉字。
 
 Windows 3.11于不久后发布，作了一些小更新。
 

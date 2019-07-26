@@ -18,7 +18,7 @@ Compare的強項在於可以設定成為[git的difftool或mergetool的預設比�
 ## 開發平台
 
 Beyond
-Compare是一套以[Delphi及](../Page/Delphi.md "wikilink")[Kylix開發的軟件](../Page/Kylix.md "wikilink")\[3\].。
+Compare是一套以[Delphi及](../Page/Delphi.md "wikilink")[Kylix開發的軟件](../Page/Kylix.md "wikilink")\[3\]。
 
 ## 參考資料
 

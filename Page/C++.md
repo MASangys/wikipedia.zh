@@ -1,4 +1,4 @@
-**C++**是一种使用广泛的计算机程序设计语言。它是一种通用[程序設計語言](https://zh.wikipedia.org/wiki/程式設計語言 "wikilink")，支援[多重编程模式](https://zh.wikipedia.org/wiki/多重编程范式 "wikilink")，例如[程序化程序設計](https://zh.wikipedia.org/wiki/程序化程式設計 "wikilink")、[数据抽象](../Page/抽象化_\(計算機科學\).md "wikilink")、[面向对象程序設計](https://zh.wikipedia.org/wiki/物件導向程式設計 "wikilink")、[泛型程序設計和](https://zh.wikipedia.org/wiki/泛型程式設計 "wikilink")[设计模式等](../Page/设计模式_\(计算机\).md "wikilink")。
+**C++**是一种被广泛使用的计算机程序设计语言。它是一种通用[程序設計語言](https://zh.wikipedia.org/wiki/程式設計語言 "wikilink")，支援[多重编程模式](https://zh.wikipedia.org/wiki/多重编程范式 "wikilink")，例如[程序化程序設計](https://zh.wikipedia.org/wiki/程序化程式設計 "wikilink")、[数据抽象](../Page/抽象化_\(計算機科學\).md "wikilink")、[面向对象程序設計](https://zh.wikipedia.org/wiki/物件導向程式設計 "wikilink")、[泛型程序設計和](https://zh.wikipedia.org/wiki/泛型程式設計 "wikilink")[设计模式等](../Page/设计模式_\(计算机\).md "wikilink")。
 
 **C++**是一种获广泛使用的计算机编程语言。它是一种通用[编程语言](../Page/编程语言.md "wikilink")，支援[多重编程模式](https://zh.wikipedia.org/wiki/多重编程范式 "wikilink")，例如[程序化程序設計](https://zh.wikipedia.org/wiki/程序化程式設計 "wikilink")、[数据抽象](../Page/抽象化_\(計算機科學\).md "wikilink")、[面向对象程序設計](https://zh.wikipedia.org/wiki/物件導向程式設計 "wikilink")、[泛型程序設計和](https://zh.wikipedia.org/wiki/泛型程式設計 "wikilink")[设计模式等](../Page/设计模式_\(计算机\).md "wikilink")。
 
@@ -137,7 +137,8 @@ int a[max_len];
 
 此前C语言并不支持这样的用法，直到[C99允许用变量作为数组长度](https://zh.wikipedia.org/wiki/C99 "wikilink")（需要注意的是[C99中的](https://zh.wikipedia.org/wiki/C99 "wikilink")支持运行期确定数组长度，但C++从未支持）。此外，C++中，命名空间作用域的对象的名称隐含内部链接。这意味着直接在头文件里定义对象被多个源文件包含时，也不会重定义。
 
-在C++11及之后的C++标准中，推荐使用拥有更严格语义的`constexpr`限定符来表示一个可以出现在常量表达式中的变量。
+在C++11及之后的C++标准中，推荐使用拥有更严格语义的`constexpr`限定符来表示一个可以出现在常量表达式中的变量。const可区分为顶层const(top-level
+const)和底层const(low-level const)。
 
 实际上，在语义表达方面，const更多表示为“只读”，constexpr才表示编译期常量。
 

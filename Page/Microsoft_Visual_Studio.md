@@ -358,6 +358,16 @@ RC版于2016年11月16日发布\[52\]。
 
 ### Visual Studio 2019
 
+2018年6月6日，Microsoft宣布了Visual Studio 2019 (version 16)。
+
+2018年12月4日Visual Studio 2019 Preview 1 发布。 \[53\] 2019年1月24日， Visual
+Studio 2019 Preview 2 发布。 \[54\]2019年2月13日 Visual Studio 2019 Preview 3
+发布。\[55\]
+
+2019年2月27日 Visual Studio 2019 RC 发布。 \[56\]
+
+2019年4月2日正式发布。\[57\]可下载后离线安装。\[58\]
+
 ## 参考文献
 
 ## 参见
@@ -480,3 +490,16 @@ RC版于2016年11月16日发布\[52\]。
 51. <https://www.visualstudio.com/news/vs15-preview-vs>
 
 52.
+
+53.
+
+54.
+
+55.
+
+56.
+
+57.
+
+58. [Create an offline installation of Visual
+    Studio](https://docs.microsoft.com/en-us/visualstudio/install/create-an-offline-installation-of-visual-studio?view=vs-2019)

@@ -28,7 +28,7 @@ Window和一个相应的桌面环境](https://zh.wikipedia.org/wiki/X_Window "wi
 「Li」中「i」的發音類似於「Minix」中「i」的發音，而「nux」中「u」的發音類似於英文單詞「profess」中「o」的發音。依照國際音標應該是\['linэks\]\[ˈlɪnəks\]。\[7\]
 
 此外有一份林纳斯·托瓦兹本人說話的錄音，錄音內容為「Hello, this is Linus Torvalds, and I pronounce
-Linux as *Linux*」，也表明了作者对单词的读法。
+Linux as *Linux*」，也表明了作者对单词的读法。（ ）
 
 ## 歷史
 
@@ -160,7 +160,7 @@ Source)向Linux移植，比如[Filezilla](https://zh.wikipedia.org/wiki/Filezill
 <File:CDE> Debian Workspace 1.png|[CDE](../Page/CDE.md "wikilink")
 <File:Fedora> Showing Gnome 3.22.2 showing
 overview.png|[GNOME](../Page/GNOME.md "wikilink") <File:Ubuntu> Mate
-traditional.png|[MATE](../Page/MATE.md "wikilink") <File:KDE> plasma
+traditional.png|[MATE](../Page/MATE.md "wikilink") <File:KDE> Plasma
 5.png|[KDE Plasma](../Page/KDE_Plasma_5.md "wikilink")
 <File:XFCE-4.12-Desktop-standard.png>|[Xfce](../Page/Xfce.md "wikilink")
 <File:Lxde-desktop-full.png>|[LXDE](../Page/LXDE.md "wikilink")
@@ -270,6 +270,20 @@ Linux主張命名為Linux](https://zh.wikipedia.org/wiki/Yggdrasil_Linux "wikili
   -
   -
   -
+## 参见
+
+  - [作業系統列表](https://zh.wikipedia.org/wiki/作業系統列表 "wikilink")、[Microsoft
+    Windows与Linux的比较](../Page/Microsoft_Windows與Linux的比較.md "wikilink")
+
+  - [Linux内核](../Page/Linux内核.md "wikilink")
+
+  - [Linux發行版](https://zh.wikipedia.org/wiki/Linux發行版 "wikilink")：[Linux發行版列表](../Page/Linux发行版列表.md "wikilink")
+
+  - [Tux](../Page/Tux.md "wikilink")
+
+  - [Linux的採用](../Page/Linux的採用.md "wikilink")
+
+  -
 ## 外部連結
 
   - [Linux内核官方网站](https://www.kernel.org/)
@@ -278,15 +292,6 @@ Linux主張命名為Linux](https://zh.wikipedia.org/wiki/Yggdrasil_Linux "wikili
   - [The Linux文档项目](https://www.tldp.org/)
   - [Linux25 週年：專訪 Linux 之父 Linus
     Torvalds](https://www.inside.com.tw/2016/04/04/linux-at-25-qa-with-linus-torvalds)
-
-## 参见
-
-  - [作業系統列表](https://zh.wikipedia.org/wiki/作業系統列表 "wikilink")、[Microsoft
-    Windows与Linux的比较](../Page/Microsoft_Windows與Linux的比較.md "wikilink")
-  - [Linux内核](../Page/Linux内核.md "wikilink")
-  - [Linux發行版](https://zh.wikipedia.org/wiki/Linux發行版 "wikilink")：[Linux發行版列表](../Page/Linux发行版列表.md "wikilink")
-  - [Tux](../Page/Tux.md "wikilink")
-  - [Linux的採用](../Page/Linux的採用.md "wikilink")
 
 {{-}}
 

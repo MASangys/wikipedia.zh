@@ -97,9 +97,10 @@ Delphi本身是极其优秀的编译器，比C++易学，比VB强大，曾经在
 ## 歷史演變
 
 Delphi發展一直到Windows 98出現時候，當時推出的Delphi
-5.0才成熟穩定，當時同類型的最大對手是Microsoft的資料庫軟體Visual
-FoxPro與剛視覺化的Visual Basic，這時是BDE（Borland Database
-Engine）與Delphi做資料庫配搭最全盛的時候，之後版本支援ADO，SQL，dbExpress等等都是要取代16位元的BDE資料庫，在Visual
+5.0才成熟穩定，當時同類型的最大對手是Microsoft的資料庫軟體[Visual
+FoxPro與剛視覺化的Visual](../Page/Visual_FoxPro.md "wikilink")
+Basic，這時是BDE（[Borland Database
+Engine](https://zh.wikipedia.org/wiki/Borland_Database_Engine "wikilink")）與Delphi做資料庫配搭最全盛的時候，之後版本支援ADO、SQL、[dbExpress等等都是要取代](https://zh.wikipedia.org/wiki/dbExpress "wikilink")16位元的BDE資料庫，在Visual
 Basic大量推行下，視覺化的Delphi又有新程式語言Java可選擇，開Pascal課程的學校越來越少，市面上願意出版Delphi的參考書本也越來越少，相對的找不到參考書籍的使用群也減少了。
 
 ## 參考文獻

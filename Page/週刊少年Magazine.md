@@ -195,22 +195,6 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/賭徒遊行" title="wikilink">賭徒遊行</a></p></td>
-<td></td>
-<td><p><a href="../Page/中山敦支.md" title="wikilink">中山敦支</a></p></td>
-<td></td>
-<td><p>2018年45號</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/七八五十六" title="wikilink">七八五十六</a></p></td>
-<td></td>
-<td></td>
-<td><p>工藤哲孝</p></td>
-<td><p>2018年48號</p></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td></td>
 <td></td>
 <td><p><a href="../Page/山本崇一朗.md" title="wikilink">山本崇一朗</a></p></td>

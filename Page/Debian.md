@@ -5,7 +5,7 @@
 
 **Debian**（\[1\]）是完全由自由軟件組成的[类UNIX](https://zh.wikipedia.org/wiki/类UNIX "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，其包含的多数软件使用[GNU通用公共许可协议授權](https://zh.wikipedia.org/wiki/GNU通用公共许可协议 "wikilink")，并由Debian计划的参与者组成团队对其进行打包、开发与维护。
 
-Debian計畫最初由[伊恩·默多克于](../Page/伊恩·默多克.md "wikilink")1993年发起，Debian
+Debian计划最初由[伊恩·默多克于](../Page/伊恩·默多克.md "wikilink")1993年发起，Debian
 0.01版在1993年9月15日发布\[2\]，而其第一个稳定版本则在1996年发布。\[3\]
 
 该计划的具体工作在互联网上协调完成，由[Debian计划领导人带领一个志愿者团队开展工作](https://zh.wikipedia.org/wiki/Debian计划领导人 "wikilink")，并以三份奠基性质的文档作为工作指导：、Debian宪章和[Debian自由软件指导方针](../Page/Debian自由软件指导方针.md "wikilink")。操作系统版本定期进行更新，候选发布版本将在经历过一定时间的之后进行发布。
@@ -93,7 +93,7 @@ GNU/NetBSD](https://zh.wikipedia.org/wiki/Debian_GNU/NetBSD "wikilink")，但现
 
 Debian主要分三个版本：稳定版本（stable）、测试版本（testing）、不稳定版本（unstable）。
 
-目前的稳定版本为Debian Stretch，上一个稳定版本是 Jessie，不稳定版本永远为[Debian
+目前的稳定版本为Debian Buster，上一个稳定版本是 Stretch，不稳定版本永远为[Debian
 sid](https://zh.wikipedia.org/wiki/Debian_sid "wikilink")。到目前為止所有開發代號均出自[Pixar的電影](https://zh.wikipedia.org/wiki/Pixar "wikilink")[-{zh-hans:玩具总动员;zh-hk:反斗奇兵;zh-tw:玩具總動員;}-](../Page/玩具总动员.md "wikilink")。
 
 |  |

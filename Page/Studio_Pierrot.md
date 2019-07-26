@@ -1295,7 +1295,7 @@ Ltd.，皮乐中国），進軍中國大陸授權市場\[15\]。
 </tr>
 <tr class="even">
 <td><p>1985年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/橙路#劇場版" title="wikilink">劇場版 橙路</a></p></td>
+<td><p><a href="../Page/橙路.md" title="wikilink">橙路</a></p></td>
 <td></td>
 <td><p><a href="../Page/Jump_Festa.md" title="wikilink">Jump Festa版上映作品</a></p></td>
 <td></td>
@@ -1316,7 +1316,7 @@ Ltd.，皮乐中国），進軍中國大陸授權市場\[15\]。
 </tr>
 <tr class="odd">
 <td><p>1988年</p></td>
-<td><p>橙路：但願回到過去</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/橙路#劇場版" title="wikilink">橙路：但願回到過去</a></p></td>
 <td></td>
 <td></td>
 <td></td>

@@ -396,7 +396,7 @@ Windows 版本）
 
 Office應用程式的一個主要特性是用戶和第三方業者可以編寫以[COM為基礎的](https://zh.wikipedia.org/wiki/COM "wikilink")*Office套件*，來擴充應用程式的功能，以及新增自訂的命令和界面。
 
-### 基于互联网的服务
+### 以網路為基礎的服务
 
   - [Microsoft Office
     Website](https://zh.wikipedia.org/wiki/Microsoft_Office_Website "wikilink")——网站。包含在Microsoft

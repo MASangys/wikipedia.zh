@@ -24,7 +24,7 @@ hoc](https://zh.wikipedia.org/wiki/Ad_hoc網路 "wikilink")）的方式进行，
 Station，BS）或者访问点（Access Point，AP）的协调下进行。1999年加上了两个补充版本：802.11a定义了一个在5GHz
 ISM频段上的数据传输速率可达54Mbit/s的物理层，802.11b定义了一个在2.4GHz的ISM频段上但数据传输速率高达11Mbit/s的物理层。
 
-2.4GHz的[ISM频段为世界上绝大多数国家通用](../Page/ISM频段.md "wikilink")，因此802.11b得到了最为广泛的应用。[苹果公司把自己开发的](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")802.11标准起名叫[AirPort](../Page/AirPort.md "wikilink")。1999年工业界成立了[Wi-Fi联盟](../Page/Wi-Fi联盟.md "wikilink")，致力解决符合802.11标准的产品的生产和设备兼容性问题。Wi-Fi為制定802.11無線網路的組織，並非代表[無線網路](https://zh.wikipedia.org/wiki/無線網路 "wikilink")。
+2.4GHz的[ISM频段为世界上绝大多数国家通用](../Page/ISM频段.md "wikilink")，因此802.11b得到了最为广泛的应用。[苹果公司把自己开发的](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")802.11标准起名叫[AirPort](../Page/AirPort.md "wikilink")。1999年工业界成立了[Wi-Fi联盟](../Page/Wi-Fi联盟.md "wikilink")，致力解决符合802.11标准的产品的生产和设备兼容性问题。Wi-Fi為制定802.11無線網路的組織，並非代表[無線網路](https://zh.wikipedia.org/wiki/無線網路 "wikilink")。F
 
 ### 802.11标准和补充
 

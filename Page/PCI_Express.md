@@ -8,7 +8,7 @@ PCIe拥有更快的速率，所以几乎取代了以往所有的内部[总线](.
 考虑到现在显卡功耗的日益增加，PCIe而后在规范中改善了直接从插槽中取电的功率限制，16x的最大提供功率一度达到了75W\[1\]，相对于AGP
 8X接口有了很大的提升。
 
-PCIe只是南桥的扩展总线，它与操作系统无关，所以也保证它与原有PCI的兼容性，也就是说在很长一段时间内在主板上PCIe接口将和PCI接口共存，这也给用户的升级带来方便。由此可见，PCIe最大的意义在于它的通用性，不仅可以让它用于南桥和其他设备的连接，也可以延伸到[芯片组间的连接](../Page/芯片组.md "wikilink")，甚至也可以用于连接圖形處理器，这样，整个[I/O系统重新统一起来](https://zh.wikipedia.org/wiki/I/O "wikilink")，将更进一步简化计算机系统，增加计算机的可移植性和模块化。
+PCIe保证了相容性，支援PCI的作業系統無需進行任何更改即可支援PCIe總線。这也给用户的升级带来方便。由此可见，PCIe最大的意义在于它的通用性，不仅可以让它用于南桥和其他设备的连接，也可以延伸到[芯片组间的连接](../Page/芯片组.md "wikilink")，甚至也可以用于连接圖形處理器，这样，整个[I/O系统重新统一起来](https://zh.wikipedia.org/wiki/I/O "wikilink")，将更进一步简化计算机系统，增加计算机的可移植性和模块化。
 
 ## 历史
 
@@ -117,11 +117,11 @@ x16的8GB／s，很明顯的就分出勝負，但8GB／s只有指資料傳輸的
 | AGP 2X         | 32位元  | 66 MHz         | \*2=532 MB/s      |
 | AGP 4X         | 32位元  | 66 MHz         | \*4=1.0 GB/s      |
 | AGP 8X         | 32位元  | 66 MHz         | \*8=2.1 GB/s      |
-| PCI-E 1.0 X1   | 1位元   | 2.5 GHz        | 500 MB/s（双工，文稿数据） |
-| PCI-E 1.0 X2   | 2位元   | 2.5 GHz        | 1 GB/s（双工）        |
-| PCI-E 1.0 X4   | 4位元   | 2.5 GHz        | 2 GB/s（双工）        |
-| PCI-E 1.0 X8   | 8位元   | 2.5 GHz        | 4 GB/s（双工）        |
-| PCI-E 1.0 X16  | 16位元  | 2.5 GHz        | 8 GB/s（双工）        |
+| PCI-E 2.0 X1   | 1位元   | 2.5 GHz        | 500 MB/s          |
+| PCI-E 2.0 X2   | 2位元   | 2.5 GHz        | 1 GB/s            |
+| PCI-E 2.0 X4   | 4位元   | 2.5 GHz        | 2 GB/s            |
+| PCI-E 2.0 X8   | 8位元   | 2.5 GHz        | 4 GB/s            |
+| PCI-E 2.0 X16  | 16位元  | 2.5 GHz        | 8 GB/s            |
 
 计算公式：PCI-E串行总线带宽（MB/s） = 串行总线时钟频率（MHz）\* 串行总线位宽（bit/8 = B）\* 串行总线管线\*
 编码方式\* 每时钟传输几组数据（cycle），例：双工PCI-E 1.0 X1，其带宽 =
@@ -244,7 +244,7 @@ x1卡\]\]
     Card](https://zh.wikipedia.org/wiki/PCI_Express_Mini_Card "wikilink")：用以代替[Mini
     PCI卡](../Page/外设组件互连标准.md "wikilink")（支援x1 PCIe、USB 2.0和SMBus总线接口）。
   - [ExpressCard](../Page/ExpressCard.md "wikilink")：类似[PC卡接口标准](../Page/PC卡.md "wikilink")（支援x1
-    PCIe、USB 2.0、热插拔）。
+    PCIe、USB 2.0/3.0、热插拔）。
   - PCI Express ExpressModule：支援熱插拔的接口標準，用於伺服器和工作站上。
   - [XMC](https://zh.wikipedia.org/wiki/XMC "wikilink")：類似[CMC](https://zh.wikipedia.org/wiki/CMC "wikilink")／[PMC接口標準](https://zh.wikipedia.org/wiki/PMC "wikilink")（支援x4
     PCIe或串行RapidI/O）。
@@ -262,7 +262,7 @@ x1卡\]\]
 
 ## 竞争协议
 
-基于高速序列构架产生了很多传输标准。包括[HyperTransport](../Page/HyperTransport.md "wikilink")、[InfiniBand](../Page/InfiniBand.md "wikilink")、[RapidIO和](https://zh.wikipedia.org/wiki/RapidIO "wikilink")[StarFabric等等](https://zh.wikipedia.org/wiki/StarFabric "wikilink")。这些标准均有业界的不同企业支援，背后也都有大量的资金投入标准的研究开发，所以每一标准都声称自己与众不同，独占优势。主要的差异在于可扩展性、灵活性与反应时间、单位成本的取舍平衡各不相同。其中的一个例子是在传输包上增加一个复杂的头信息以支援复杂路由传输（PCI
+基于高速序列构架产生了很多传输标准，包括[HyperTransport](../Page/HyperTransport.md "wikilink")、[InfiniBand](../Page/InfiniBand.md "wikilink")、[RapidIO和](https://zh.wikipedia.org/wiki/RapidIO "wikilink")[StarFabric等等](https://zh.wikipedia.org/wiki/StarFabric "wikilink")。这些标准均有业界的不同企业支援，背后也都有大量的资金投入标准的研究开发，所以每一标准都声称自己与众不同，独占优势。主要的差异在于可扩展性、灵活性与反应时间、单位成本的取舍平衡各不相同。其中的一个例子是在传输包上增加一个复杂的头信息以支援复杂路由传输（PCI
 Express不支援这种方式）。这样的信息增加降低了接口的有效带宽也使传输更复杂，但是相应创造了新的软件支援此功能。这种架构下需要软件追踪网络拓扑结构的变化以实现系统支援热插拔。InfiniBand和StarFabric标准即能实现这一功能。另一个例子是缩小信息包以减少反应时间。较小的信息包意味着包头占用了包的更大百分比，这样又降低了有效带宽。能实现此功能的标准是RapidIO和HyperTransport。PCI
 Express取中庸之道，定位于设计成一种[系统互连接口而非一种设备接口或路由网络协议](../Page/总线.md "wikilink")。另外为了针对软件透明，它的设计目标限制了它作为协议，也在某种程度上增加了它的反应时间。
 
@@ -270,18 +270,18 @@ Express取中庸之道，定位于设计成一种[系统互连接口而非一种
 
 [Gigabyte_GV-NX62TC256D8_Rev_1.0.jpg](https://zh.wikipedia.org/wiki/File:Gigabyte_GV-NX62TC256D8_Rev_1.0.jpg "fig:Gigabyte_GV-NX62TC256D8_Rev_1.0.jpg")GV-NX62TC256D8顯示卡，採用PCI
 Express x16插槽\]\]
-在2005年，PCIe已近乎成为新的个人电脑[主機板标准](https://zh.wikipedia.org/wiki/主機板 "wikilink")。关于此有不少评论，但最基本的原因是它对于[软件开发者完全透明](../Page/软件.md "wikilink")——为PCI所设计的操作系统可以不做任何代码修改来启动PCIe设备。其二，它能增强系统性能，还有强有力的品牌认知。各类网卡、声卡、显卡，以及当下的NVMe闪存卡都使用了PCIe标准。下面为主流的使用PCIe
+在2005年，PCIe已近乎成为新的个人电脑[主機板标准](https://zh.wikipedia.org/wiki/主機板 "wikilink")。关于此有不少评论，但最基本的原因是它对于[软件开发者完全透明](../Page/软件.md "wikilink")——为PCI所设计的操作系统可以不做任何代码修改来启动PCIe设备。其二，它能增强系统性能，还有强有力的品牌认知。各类网卡、声卡、显卡，以及当下的NVMe[固態硬碟都使用了PCIe标准](https://zh.wikipedia.org/wiki/固態硬碟 "wikilink")。下面为主流的使用PCIe
 的外设产品。
 
 #### 显卡
 
-大部分新型的AMD或英伟达显卡都使用PCIe标准。英伟达在它新开发的[SLI上采用PCIe的高速数据传输](../Page/NVIDIA_SLI.md "wikilink")，这使得两块相同[芯片组显卡可同时工作于一台电脑之上](../Page/芯片组.md "wikilink")。AMD公司也基于PCIe开发一种两个[GPU一同運作的技術](https://zh.wikipedia.org/wiki/GPU "wikilink")，称为[CrossFire](../Page/AMD_CrossFire.md "wikilink")。ExpressCard刚刚出现在笔记本电脑上，但由于大部分笔记本电脑仅有一个插槽，目前无法将现有的Cardbus接口完全淘汰，升级成新的快速卡插槽。桌上型電腦就没有这种问题，因为它的多个插槽可以同时支援PCIe和舊版PCI。
+大部分新型的AMD或NVIDIA显卡都使用PCIe标准。NVIDIA在它新开发的[SLI上采用PCIe的高速数据传输](../Page/NVIDIA_SLI.md "wikilink")，这使得两块相同[芯片组显卡可同时工作于一台电脑之上](../Page/芯片组.md "wikilink")。AMD公司也基于PCIe开发一种两个[GPU一同運作的技術](https://zh.wikipedia.org/wiki/GPU "wikilink")，称为[CrossFire](../Page/AMD_CrossFire.md "wikilink")。ExpressCard刚刚出现在笔记本电脑上，但由于大部分笔记本电脑仅有一个插槽，目前无法将现有的Cardbus接口完全淘汰，升级成新的快速卡插槽。桌上型電腦就没有这种问题，因为它的多个插槽可以同时支援PCIe和舊版PCI。
 
 #### 硬盘
 
-当下主流的固態硬盘介面有[M.2](../Page/M.2.md "wikilink")、[U.2](https://zh.wikipedia.org/wiki/U.2 "wikilink")、PCIe、[SATA
-Express等](../Page/SATA_Express.md "wikilink")。M.2和U.2可選PCIe介面。NVM
-Express|NVMe\]\]协议是目前最高效的PCIe SSD协议标准，适用这一标准的SSD也被称为NVMe SSD。
+当下主流的固態硬盘介面有[M.2](../Page/M.2.md "wikilink")、[U.2](https://zh.wikipedia.org/wiki/U.2 "wikilink")、PCIe、[SATA](../Page/SATA.md "wikilink")、[SATA
+Express等](../Page/SATA_Express.md "wikilink")。M.2和U.2可選PCIe介面\[16\]。[NVMe协议是目前最高效的PCIe](https://zh.wikipedia.org/wiki/NVMe "wikilink")
+SSD协议标准。
 
 ## 參考文獻
 
@@ -334,3 +334,5 @@ Express|NVMe\]\]协议是目前最高效的PCIe SSD协议标准，适用这一�
 14.
 
 15.
+
+16. <https://www.dell.com/support/article/us/en/04/sln301626/how-to-distinguish-the-differences-between-m2-cards?lang=en>

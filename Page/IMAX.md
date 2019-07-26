@@ -622,6 +622,16 @@ IMAX公司全球第1000家IMAX®影院</p></td>
 <td><p>12聲道音響系統</p></td>
 </tr>
 <tr class="odd">
+<td><p>沖縄県浦添市-ユナイテッド・シネマ PARCO CITY 浦添</p></td>
+<td><p>新一代IMAX激光</p></td>
+<td><p>2019年6月27日</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>12聲道音響系統</p></td>
+</tr>
+<tr class="even">
 <td><p>北京英皇电影城(英皇中心店)</p></td>
 <td><p>新一代IMAX激光</p></td>
 <td><p>2018年4月29日<br />
@@ -632,7 +642,7 @@ IMAX公司全球第1000家IMAX®影院</p></td>
 <td><p>354</p></td>
 <td><p>12聲道音響系統</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>包头万达影城（青山万达广场店）</p></td>
 <td><p>新一代IMAX激光</p></td>
 <td><p>2011年11月10日<br />
@@ -643,7 +653,7 @@ IMAX公司全球第1000家IMAX®影院</p></td>
 <td><p>314</p></td>
 <td><p>12聲道音響系統</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>绵阳万达影城（涪城万达广场店）</p></td>
 <td><p>新一代IMAX激光</p></td>
 <td><p>2012年12月21日<br />
@@ -654,7 +664,7 @@ IMAX公司全球第1000家IMAX®影院</p></td>
 <td><p>347</p></td>
 <td><p>12聲道音響系統</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>宁波万达影城（鄞州万达广场店）</p></td>
 <td><p>新一代IMAX激光</p></td>
 <td><p>2011年7月21日<br />
@@ -663,16 +673,6 @@ IMAX公司全球第1000家IMAX®影院</p></td>
 <td></td>
 <td></td>
 <td><p>336</p></td>
-<td><p>12聲道音響系統</p></td>
-</tr>
-<tr class="odd">
-<td><p>沖縄県浦添市-ユナイテッド・シネマ PARCO CITY 浦添</p></td>
-<td><p>新一代IMAX激光</p></td>
-<td><p>预计2019年7月</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td><p>12聲道音響系統</p></td>
 </tr>
 <tr class="even">
@@ -771,6 +771,29 @@ IMAX中國第8家IMAX影院</p></td>
 <td><p>10.058</p></td>
 <td><p>196.53332</p></td>
 <td><p>291</p></td>
+<td><p>12聲道音響系統</p></td>
+</tr>
+<tr class="even">
+<td><p>北京万达影城（CBD万达广场店）</p></td>
+<td><p>新一代IMAX激光</p></td>
+<td><p>2011年1月11日(IMAX数字)<br />
+预计2019年</p></td>
+<td><p>16.86</p></td>
+<td><p>8.39</p></td>
+<td><p>141.4554</p></td>
+<td><p>359<br />
+328</p></td>
+<td><p>12聲道音響系統</p></td>
+</tr>
+<tr class="odd">
+<td><p>昆明万达影城(西山万达广场店)</p></td>
+<td><p>新一代IMAX激光</p></td>
+<td><p>2014年10月31日<br />
+预计2019年</p></td>
+<td><p>21.3</p></td>
+<td><p>11.91</p></td>
+<td><p>253.683</p></td>
+<td><p>352</p></td>
 <td><p>12聲道音響系統</p></td>
 </tr>
 <tr class="even">

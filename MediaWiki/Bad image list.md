@@ -10,9 +10,6 @@
   - [:<File:Decomposing_possum.jpg>](https://zh.wikipedia.org/wiki/:File:Decomposing_possum.jpg "wikilink")
     except on [蛆](https://zh.wikipedia.org/wiki/蛆 "wikilink")
   - [:<File:69ing.png>](https://zh.wikipedia.org/wiki/:File:69ing.png "wikilink")
-  - [:<File:A_male_masturbating_with_lubricant.JPG>](https://zh.wikipedia.org/wiki/:File:A_male_masturbating_with_lubricant.JPG "wikilink")
-    except on [自慰](../Page/自慰.md "wikilink")
-  - [:<File:Male_genital.jpg>](https://zh.wikipedia.org/wiki/:File:Male_genital.jpg "wikilink")
   - [:<File:Uncircumsized_male_masturbating.ogv>](https://zh.wikipedia.org/wiki/:File:Uncircumsized_male_masturbating.ogv "wikilink")
     except on [自慰](../Page/自慰.md "wikilink")
   - [:<File:Circpn.jpg>](https://zh.wikipedia.org/wiki/:File:Circpn.jpg "wikilink")
@@ -58,8 +55,6 @@
 
 以下内容复制自英文维基百科（更新至2018/08/02）。请参阅[讨论页上的介绍](https://zh.wikipedia.org/wiki/MediaWiki_talk:Bad_image_list "wikilink")。
 
-  - [:<File:00.A> fully
-    erect3.png](https://zh.wikipedia.org/wiki/:File:00.A_fully_erect3.png "wikilink")
   - [:<File:001-full-erect.jpg>](https://zh.wikipedia.org/wiki/:File:001-full-erect.jpg "wikilink")
   - [:<File:001-full-erect>
     (cropped).jpg](https://zh.wikipedia.org/wiki/:File:001-full-erect_\(cropped\).jpg "wikilink")
@@ -86,19 +81,9 @@
     Series.JPG](https://zh.wikipedia.org/wiki/:File:A_Foreskin_Retraction_Series.JPG "wikilink")
     except on [龟头](../Page/龟头.md "wikilink"),
     [陰莖包皮](https://zh.wikipedia.org/wiki/陰莖包皮 "wikilink")
-  - [:<File:A> male fingering female's
-    clitoris.jpg](https://zh.wikipedia.org/wiki/:File:A_male_fingering_female's_clitoris.jpg "wikilink")
-  - [:<File:A> male
-    masturbating.JPG](https://zh.wikipedia.org/wiki/:File:A_male_masturbating.JPG "wikilink")
-  - [:<File:A> male masturbating and fingering his
-    anus.jpg](https://zh.wikipedia.org/wiki/:File:A_male_masturbating_and_fingering_his_anus.jpg "wikilink")
-  - [:<File:A> male masturbating with
-    lubricant.JPG](https://zh.wikipedia.org/wiki/:File:A_male_masturbating_with_lubricant.JPG "wikilink")
   - [:<File:A>
     vulva.jpeg](https://zh.wikipedia.org/wiki/:File:A_vulva.jpeg "wikilink")
-    except on [Vulva](https://zh.wikipedia.org/wiki/Vulva "wikilink")
-  - [:<File:After>
-    ejaculation.JPG](https://zh.wikipedia.org/wiki/:File:After_ejaculation.JPG "wikilink")
+    except on [女陰](../Page/女陰.md "wikilink")
   - [:<File:Agenor> fait un
     levage.ogv](https://zh.wikipedia.org/wiki/:File:Agenor_fait_un_levage.ogv "wikilink")
   - [:<File:Amateur>
@@ -177,8 +162,6 @@
     masculin.jpg](https://zh.wikipedia.org/wiki/:File:Anus_masculin.jpg "wikilink")
   - [:<File:Anus> of
     male.jpg](https://zh.wikipedia.org/wiki/:File:Anus_of_male.jpg "wikilink")
-  - [:<File:Anus> to
-    glands.JPG](https://zh.wikipedia.org/wiki/:File:Anus_to_glands.JPG "wikilink")
   - [:<File:APA> Piercing
     \!.jpg](https://zh.wikipedia.org/wiki/:File:APA_Piercing_!.jpg "wikilink")
   - [:<File:Apadravya> & Pubic Surface Genital
@@ -215,8 +198,6 @@
   - [:<File:Beautyvagina.JPG>](https://zh.wikipedia.org/wiki/:File:Beautyvagina.JPG "wikilink")
   - [:<File:Beheaded>
     dick-in-mouth.jpg](https://zh.wikipedia.org/wiki/:File:Beheaded_dick-in-mouth.jpg "wikilink")
-  - [:<File:Benglis> -
-    Artforum.jpg](https://zh.wikipedia.org/wiki/:File:Benglis_-_Artforum.jpg "wikilink")
   - [:<File:Black> and white photopgraph of a
     fellatio.jpg](https://zh.wikipedia.org/wiki/:File:Black_and_white_photopgraph_of_a_fellatio.jpg "wikilink")
   - [:<File:Black>
@@ -249,7 +230,6 @@
     male.jpg](https://zh.wikipedia.org/wiki/:File:Buttocks_male.jpg "wikilink")
   - [:<File:Camara> Natural
     055.jpg](https://zh.wikipedia.org/wiki/:File:Camara_Natural_055.jpg "wikilink")
-  - [:<File:CannibalHolocaustimpale.jpg>](https://zh.wikipedia.org/wiki/:File:CannibalHolocaustimpale.jpg "wikilink")
   - [:<File:Caucasian> man
     masturbating.jpg](https://zh.wikipedia.org/wiki/:File:Caucasian_man_masturbating.jpg "wikilink")
   - [:<File:Chancres> on the penile shaft due to a primary syphilitic
@@ -285,8 +265,6 @@
     piercing](https://zh.wikipedia.org/wiki/Genital_piercing "wikilink")
   - [:<File:Chrome> steel donut
     cockring.JPG](https://zh.wikipedia.org/wiki/:File:Chrome_steel_donut_cockring.JPG "wikilink")
-  - [:<File:Circ>
-    Penis.jpg](https://zh.wikipedia.org/wiki/:File:Circ_Penis.jpg "wikilink")
   - [:<File:Circpn> - circumcised
     penis.jpg](https://zh.wikipedia.org/wiki/:File:Circpn_-_circumcised_penis.jpg "wikilink")
   - [:<File:Circumcised> and uncircumcised
@@ -308,8 +286,6 @@
     labelled.jpg](https://zh.wikipedia.org/wiki/:File:Circumcised_penis_labelled.jpg "wikilink")
     except on [Human
     penis](https://zh.wikipedia.org/wiki/Human_penis "wikilink")
-  - [:<File:Circumsised> penis - Flacid and Erect - High
-    Res.jpg](https://zh.wikipedia.org/wiki/:File:Circumsised_penis_-_Flacid_and_Erect_-_High_Res.jpg "wikilink")
   - [:<File:Circumcision>
     surgery.jpg](https://zh.wikipedia.org/wiki/:File:Circumcision_surgery.jpg "wikilink")
   - [:<File:Clean> intermittent
@@ -365,7 +341,6 @@
   - [:<File:Cumfac>
     01.png](https://zh.wikipedia.org/wiki/:File:Cumfac_01.png "wikilink")
   - [:<File:Cumfac-01.svg>](https://zh.wikipedia.org/wiki/:File:Cumfac-01.svg "wikilink")
-  - [:<File:Cumshot.gif>](https://zh.wikipedia.org/wiki/:File:Cumshot.gif "wikilink")
   - [:<File:Cunnilingus.JPG>](https://zh.wikipedia.org/wiki/:File:Cunnilingus.JPG "wikilink")
   - [:<File:Cunnilingus00.jpg>](https://zh.wikipedia.org/wiki/:File:Cunnilingus00.jpg "wikilink")
   - [:<File:Cunnilingus01.jpg>](https://zh.wikipedia.org/wiki/:File:Cunnilingus01.jpg "wikilink")
@@ -404,8 +379,6 @@
     except on [Dildo](https://zh.wikipedia.org/wiki/Dildo "wikilink")
   - [:<File:Dirty>
     toilet.JPG](https://zh.wikipedia.org/wiki/:File:Dirty_toilet.JPG "wikilink")
-  - [:<File:Divine> in Heaven
-    T-shirt.jpg](https://zh.wikipedia.org/wiki/:File:Divine_in_Heaven_T-shirt.jpg "wikilink")
   - [:<File:Dog>
     feces.jpg](https://zh.wikipedia.org/wiki/:File:Dog_feces.jpg "wikilink")
   - [:<File:Doggy>
@@ -481,10 +454,6 @@
     penis.jpg](https://zh.wikipedia.org/wiki/:File:Ejaculation_of_penis.jpg "wikilink")
   - [:<File:Ejaculation>
     semen.png](https://zh.wikipedia.org/wiki/:File:Ejaculation_semen.png "wikilink")
-  - [:<File:En>
-    bouche.jpg](https://zh.wikipedia.org/wiki/:File:En_bouche.jpg "wikilink")
-  - [:<File:Enjoy> Porn
-    Advert.png](https://zh.wikipedia.org/wiki/:File:Enjoy_Porn_Advert.png "wikilink")
   - [:<File:Erect> human
     penis.jpg](https://zh.wikipedia.org/wiki/:File:Erect_human_penis.jpg "wikilink")
   - [:<File:Erect>
@@ -560,11 +529,6 @@
     vaginale.gif](https://zh.wikipedia.org/wiki/:File:Exemple_de_pénétration_vaginale.gif "wikilink")
   - [:<File:External> Genital Organs
     (Female).jpg](https://zh.wikipedia.org/wiki/:File:External_Genital_Organs_\(Female\).jpg "wikilink")
-  - [:<File:Facesitting124.jpg>](https://zh.wikipedia.org/wiki/:File:Facesitting124.jpg "wikilink")
-    except on [颜面骑乘](https://zh.wikipedia.org/wiki/颜面骑乘 "wikilink")
-  - [:<File:Facesitting-facesitting--Couple--domination--2>
-    large.jpg](https://zh.wikipedia.org/wiki/:File:Facesitting-facesitting--Couple--domination--2_large.jpg "wikilink")
-    except on [颜面骑乘](https://zh.wikipedia.org/wiki/颜面骑乘 "wikilink")
   - [:<File:Facial.jpg>](https://zh.wikipedia.org/wiki/:File:Facial.jpg "wikilink")
   - [:<File:Facial00.JPG>](https://zh.wikipedia.org/wiki/:File:Facial00.JPG "wikilink")
   - [:<File:Facial>
@@ -588,8 +552,6 @@
   - [:<File:Fellatio>
     3.jpg](https://zh.wikipedia.org/wiki/:File:Fellatio_3.jpg "wikilink")
   - [:<File:Fellatio>
-    4.jpg](https://zh.wikipedia.org/wiki/:File:Fellatio_4.jpg "wikilink")
-  - [:<File:Fellatio>
     gay.jpg](https://zh.wikipedia.org/wiki/:File:Fellatio_gay.jpg "wikilink")
     except on
     [Fellatio](https://zh.wikipedia.org/wiki/Fellatio "wikilink")
@@ -599,7 +561,6 @@
     [口交](../Page/口交.md "wikilink"),
     [性交体位](../Page/性交体位.md "wikilink"),
     [Autofellatio](https://zh.wikipedia.org/wiki/Autofellatio "wikilink")
-  - [:<File:Fellatio05.JPG>](https://zh.wikipedia.org/wiki/:File:Fellatio05.JPG "wikilink")
   - [:<File:Fellatio06.JPG>](https://zh.wikipedia.org/wiki/:File:Fellatio06.JPG "wikilink")
   - [:<File:Fellatio07.JPG>](https://zh.wikipedia.org/wiki/:File:Fellatio07.JPG "wikilink")
   - [:<File:Fellatio>
@@ -614,8 +575,6 @@
     Rick-2.jpg](https://zh.wikipedia.org/wiki/:File:Fellation_Tracy_and_Rick-2.jpg "wikilink")
   - [:<File:Fellation> Tracy and
     Rick-3.jpg](https://zh.wikipedia.org/wiki/:File:Fellation_Tracy_and_Rick-3.jpg "wikilink")
-  - [:<File:Female> unshaved
-    Vagina.jpg](https://zh.wikipedia.org/wiki/:File:Female_unshaved_Vagina.jpg "wikilink")
   - [:<File:Female> and male
     anus.jpg](https://zh.wikipedia.org/wiki/:File:Female_and_male_anus.jpg "wikilink")
     except on [肛门](../Page/肛门.md "wikilink")
@@ -643,14 +602,15 @@
     arousal.JPG](https://zh.wikipedia.org/wiki/:File:Female_sexual_arousal.JPG "wikilink")
     except on [性刺激](../Page/性刺激.md "wikilink"),
     [勃起](https://zh.wikipedia.org/wiki/勃起 "wikilink"),
-    [阴蒂勃起](../Page/阴蒂勃起.md "wikilink"),[女陰](../Page/女陰.md "wikilink")
+    [阴蒂勃起](../Page/阴蒂勃起.md "wikilink"),
+    [女陰](../Page/女陰.md "wikilink"),
+    [阴唇](../Page/阴唇.md "wikilink")
   - [:<File:Female>
     vagina.jpg](https://zh.wikipedia.org/wiki/:File:Female_vagina.jpg "wikilink")
   - [:<File:Femdom> at Eros
     Pyramide.png](https://zh.wikipedia.org/wiki/:File:Femdom_at_Eros_Pyramide.png "wikilink")
   - [:<File:Fingering>
     2.jpg](https://zh.wikipedia.org/wiki/:File:Fingering_2.jpg "wikilink")
-  - [:<File:Firstplane.jpg>](https://zh.wikipedia.org/wiki/:File:Firstplane.jpg "wikilink")
   - [:<File:Fisting>
     close-up.jpg](https://zh.wikipedia.org/wiki/:File:Fisting_close-up.jpg "wikilink")
     except on [拳交](../Page/拳交.md "wikilink")
@@ -671,8 +631,6 @@
     except on [勃起](https://zh.wikipedia.org/wiki/勃起 "wikilink"),
     [Circumcision](https://zh.wikipedia.org/wiki/Circumcision "wikilink"),
     [Human penis](https://zh.wikipedia.org/wiki/Human_penis "wikilink")
-  - [:<File:Flacid> and
-    erects.jpg](https://zh.wikipedia.org/wiki/:File:Flacid_and_erects.jpg "wikilink")
   - [:<File:Flacid>
     Penis.jpg](https://zh.wikipedia.org/wiki/:File:Flacid_Penis.jpg "wikilink")
   - [:<File:Flaccid>
@@ -745,10 +703,6 @@
     except on [女陰](../Page/女陰.md "wikilink")
   - [:<File:Genital>
     herpes.jpg](https://zh.wikipedia.org/wiki/:File:Genital_herpes.jpg "wikilink")
-  - [:<File:GG> spread thighs, shaved
-    Brazilian.jpg](https://zh.wikipedia.org/wiki/:File:GG_spread_thighs,_shaved_Brazilian.jpg "wikilink")
-  - [:<File:GG> spread thighs, shaved Brazilian
-    (cropped).jpg](https://zh.wikipedia.org/wiki/:File:GG_spread_thighs,_shaved_Brazilian_\(cropped\).jpg "wikilink")
   - [:<File:Girl> with butt
     plug.jpg](https://zh.wikipedia.org/wiki/:File:Girl_with_butt_plug.jpg "wikilink")
   - [:<File:Givingthefinger.jpg>](https://zh.wikipedia.org/wiki/:File:Givingthefinger.jpg "wikilink")
@@ -808,8 +762,6 @@
     (色情用語)](https://zh.wikipedia.org/wiki/Talk:變態_\(色情用語\) "wikilink"),
     [Wikipedia:互助客栈/方针/存档/2011年9月](https://zh.wikipedia.org/wiki/Wikipedia:互助客栈/方针/存档/2011年9月 "wikilink"),
     [User:KOKUYO/工作區46](https://zh.wikipedia.org/wiki/User:KOKUYO/工作區46 "wikilink")
-  - [:<File:Hezbollah>
-    Flag.svg](https://zh.wikipedia.org/wiki/:File:Hezbollah_Flag.svg "wikilink")
   - [:<File:Hippie>
     Hollow.jpg](https://zh.wikipedia.org/wiki/:File:Hippie_Hollow.jpg "wikilink")
   - [:<File:Hirsuties> papillaris coronae
@@ -1041,8 +993,6 @@
     except on [脐带](../Page/脐带.md "wikilink")
   - [:<File:L'heure> du
     thé.ogv](https://zh.wikipedia.org/wiki/:File:L'heure_du_thé.ogv "wikilink")
-  - [:<File:Licking> natural
-    pussy00.jpg](https://zh.wikipedia.org/wiki/:File:Licking_natural_pussy00.jpg "wikilink")
   - [:<File:Lingchi>
     (cropped).jpg](https://zh.wikipedia.org/wiki/:File:Lingchi_\(cropped\).jpg "wikilink")
     except on [富珠哩](https://zh.wikipedia.org/wiki/富珠哩 "wikilink"),
@@ -1275,8 +1225,6 @@
     except on [坏死性筋膜炎](../Page/坏死性筋膜炎.md "wikilink")
   - [:<File:Nekrose>
     avk01.jpg](https://zh.wikipedia.org/wiki/:File:Nekrose_avk01.jpg "wikilink")
-  - [:<File:No> Love Deep Web
-    artwork.png](https://zh.wikipedia.org/wiki/:File:No_Love_Deep_Web_artwork.png "wikilink")
   - [:<File:Nude> Gas Mask Girl 1 by Mjranum
     Stock.jpg](https://zh.wikipedia.org/wiki/:File:Nude_Gas_Mask_Girl_1_by_Mjranum_Stock.jpg "wikilink")
   - [:<File:Nude> woman with
@@ -1317,7 +1265,6 @@
   - [:<File:Pearly-penile-papules-glans.jpg>](https://zh.wikipedia.org/wiki/:File:Pearly-penile-papules-glans.jpg "wikilink")
     except on [Hirsuties coronae
     glandis](https://zh.wikipedia.org/wiki/Hirsuties_coronae_glandis "wikilink")
-  - [:<File:Pedobear.png>](https://zh.wikipedia.org/wiki/:File:Pedobear.png "wikilink")
   - [:<File:Peeing.jpg>](https://zh.wikipedia.org/wiki/:File:Peeing.jpg "wikilink")
   - [:<File:Pegging>
     cropped.jpg](https://zh.wikipedia.org/wiki/:File:Pegging_cropped.jpg "wikilink")
@@ -1330,8 +1277,6 @@
     penis](https://zh.wikipedia.org/wiki/Human_penis "wikilink")
   - [:<File:Penile>
     vaginal.JPG](https://zh.wikipedia.org/wiki/:File:Penile_vaginal.JPG "wikilink")
-  - [:<File:Penile-vaginal>
-    intercourse2.JPG](https://zh.wikipedia.org/wiki/:File:Penile-vaginal_intercourse2.JPG "wikilink")
   - [:<File:Penile> vaginal sexual
     act..JPG](https://zh.wikipedia.org/wiki/:File:Penile_vaginal_sexual_act..JPG "wikilink")
   - [:<File:Penile> Itcrs
@@ -1344,8 +1289,6 @@
     2.jpg](https://zh.wikipedia.org/wiki/:File:Penis_2.jpg "wikilink")
   - [:<File:Penis>
     anatomy.jpg](https://zh.wikipedia.org/wiki/:File:Penis_anatomy.jpg "wikilink")
-  - [:<File:Penis> and anus from
-    below.jpg](https://zh.wikipedia.org/wiki/:File:Penis_and_anus_from_below.jpg "wikilink")
   - [:<File:Penis> asiatischer
     Elefant.JPG](https://zh.wikipedia.org/wiki/:File:Penis_asiatischer_Elefant.JPG "wikilink")
     except on [阴茎](../Page/阴茎.md "wikilink")
@@ -1429,8 +1372,6 @@
     except on [包莖](../Page/包莖.md "wikilink")
   - [:<File:Phimosis>
     pre-ejaculate.JPG](https://zh.wikipedia.org/wiki/:File:Phimosis_pre-ejaculate.JPG "wikilink")
-  - [:<File:Photoshooting> with my wife Marija ass and
-    pussy.JPG](https://zh.wikipedia.org/wiki/:File:Photoshooting_with_my_wife_Marija_ass_and_pussy.JPG "wikilink")
   - [:<File:Picture> of an erect penis curved to the left due to an
     injury.jpg](https://zh.wikipedia.org/wiki/:File:Picture_of_an_erect_penis_curved_to_the_left_due_to_an_injury.jpg "wikilink")
   - [:<File:Pierced.JPG>](https://zh.wikipedia.org/wiki/:File:Pierced.JPG "wikilink")
@@ -1453,8 +1394,6 @@
     waxing](https://zh.wikipedia.org/wiki/Bikini_waxing "wikilink"),
     [Mons pubis](https://zh.wikipedia.org/wiki/Mons_pubis "wikilink"),
     [陰毛](../Page/陰毛.md "wikilink")
-  - [:<File:Pornhub> main page
-    screenshot.png](https://zh.wikipedia.org/wiki/:File:Pornhub_main_page_screenshot.png "wikilink")
   - [:<File:Post-vasectomy.jpg>](https://zh.wikipedia.org/wiki/:File:Post-vasectomy.jpg "wikilink")
     except on [输精管切除术](../Page/输精管切除术.md "wikilink")
   - [:<File:Pre>
@@ -1561,8 +1500,6 @@
     Kondom)-01.jpg](https://zh.wikipedia.org/wiki/:File:Semen_in_condom_\(Sperma_im_Kondom\)-01.jpg "wikilink")
   - [:<File:Semen> in
     vagina.JPG](https://zh.wikipedia.org/wiki/:File:Semen_in_vagina.JPG "wikilink")
-  - [:<File:Semen> on partner's
-    body.jpg](https://zh.wikipedia.org/wiki/:File:Semen_on_partner's_body.jpg "wikilink")
   - [:<File:Semfac01.png>](https://zh.wikipedia.org/wiki/:File:Semfac01.png "wikilink")
     except on [颜射](../Page/颜射.md "wikilink")
   - [:<File:SemfacUpdate01.png>](https://zh.wikipedia.org/wiki/:File:SemfacUpdate01.png "wikilink")
@@ -1628,8 +1565,6 @@
     04.jpg](https://zh.wikipedia.org/wiki/:File:Sexy_dancer_04.jpg "wikilink")
   - [:<File:Shaved>
     Vagina.jpg](https://zh.wikipedia.org/wiki/:File:Shaved_Vagina.jpg "wikilink")
-  - [:<File:Shaved> Vulva
-    1.jpg](https://zh.wikipedia.org/wiki/:File:Shaved_Vulva_1.jpg "wikilink")
   - [:<File:Shavedtesticles.jpg>](https://zh.wikipedia.org/wiki/:File:Shavedtesticles.jpg "wikilink")
   - [:<File:Shirtless> man whipping two nude
     women.jpg](https://zh.wikipedia.org/wiki/:File:Shirtless_man_whipping_two_nude_women.jpg "wikilink")
@@ -1665,7 +1600,6 @@
     [单纯疱疹](../Page/单纯疱疹.md "wikilink")
   - [:<File:SOA-non> specific
     Urethritis-male.jpg](https://zh.wikipedia.org/wiki/:File:SOA-non_specific_Urethritis-male.jpg "wikilink")
-  - [:<File:Sodomie.jpg>](https://zh.wikipedia.org/wiki/:File:Sodomie.jpg "wikilink")
   - [:<File:Sodomie> masculine à l'aide d'un concombre inséré dans le
     rectum.jpg](https://zh.wikipedia.org/wiki/:File:Sodomie_masculine_à_l'aide_d'un_concombre_inséré_dans_le_rectum.jpg "wikilink")
   - [:<File:Specola>
@@ -1702,8 +1636,6 @@
     shot.jpg](https://zh.wikipedia.org/wiki/:File:Taric_Alani_Cum_shot.jpg "wikilink")
   - [:<File:Taric> Alani Self
     sucker.jpg](https://zh.wikipedia.org/wiki/:File:Taric_Alani_Self_sucker.jpg "wikilink")
-  - [:<File:Tattooed> woman spreading her butt
-    cheeks.jpg](https://zh.wikipedia.org/wiki/:File:Tattooed_woman_spreading_her_butt_cheeks.jpg "wikilink")
   - [:<File:Testicles.jpg>](https://zh.wikipedia.org/wiki/:File:Testicles.jpg "wikilink")
   - [:<File:Testiclesinscrotum.jpg>](https://zh.wikipedia.org/wiki/:File:Testiclesinscrotum.jpg "wikilink")
     except on
@@ -1716,7 +1648,6 @@
     Shankbone.jpg](https://zh.wikipedia.org/wiki/:File:The_Taint_by_David_Shankbone.jpg "wikilink")
     except on
     [Perineum](https://zh.wikipedia.org/wiki/Perineum "wikilink")
-  - [:<File:ThomasShippAbramSmith.jpg>](https://zh.wikipedia.org/wiki/:File:ThomasShippAbramSmith.jpg "wikilink")
   - [:<File:Threesome> (one man and two
     women).jpg](https://zh.wikipedia.org/wiki/:File:Threesome_\(one_man_and_two_women\).jpg "wikilink")
   - [:<File:Threesome> gay
@@ -1791,7 +1722,7 @@
     07.jpg](https://zh.wikipedia.org/wiki/:File:Vagina_collage_07.jpg "wikilink")
   - [:<File:Vagina> collage
     12.jpg](https://zh.wikipedia.org/wiki/:File:Vagina_collage_12.jpg "wikilink")
-    except on [阴唇](https://zh.wikipedia.org/wiki/阴唇 "wikilink"),
+    except on [阴唇](../Page/阴唇.md "wikilink"),
     [女陰](../Page/女陰.md "wikilink")
   - [:<File:Vagina>
     fingering.JPG](https://zh.wikipedia.org/wiki/:File:Vagina_fingering.JPG "wikilink")
@@ -1854,7 +1785,7 @@
   - [:<File:Vulva> with tiny labia
     minora.jpg](https://zh.wikipedia.org/wiki/:File:Vulva_with_tiny_labia_minora.jpg "wikilink")
     except on [生殖器](../Page/生殖器.md "wikilink"),
-    [阴唇](https://zh.wikipedia.org/wiki/阴唇 "wikilink")
+    [阴唇](../Page/阴唇.md "wikilink")
   - [:<File:Vulva1.jpg>](https://zh.wikipedia.org/wiki/:File:Vulva1.jpg "wikilink")
     except on [Vulva](https://zh.wikipedia.org/wiki/Vulva "wikilink")
   - [:<File:Vulva2beschr.jpg>](https://zh.wikipedia.org/wiki/:File:Vulva2beschr.jpg "wikilink")
@@ -1960,9 +1891,6 @@
     Taiwan.png](https://zh.wikipedia.org/wiki/:File:Emblem_of_Green_Party_Taiwan.png "wikilink")
     except on [綠黨
     (臺灣)](https://zh.wikipedia.org/wiki/綠黨_\(臺灣\) "wikilink")
-    [綠黨社會民主黨聯盟](../Page/綠黨社會民主黨聯盟.md "wikilink")
-  - [:<File:Sdparty.png>](https://zh.wikipedia.org/wiki/:File:Sdparty.png "wikilink")
-    except on [社會民主黨 (臺灣)](../Page/社會民主黨_\(臺灣\).md "wikilink")
     [綠黨社會民主黨聯盟](../Page/綠黨社會民主黨聯盟.md "wikilink")
   - [:<File:TFN>
     Seal.png](https://zh.wikipedia.org/wiki/:File:TFN_Seal.png "wikilink")

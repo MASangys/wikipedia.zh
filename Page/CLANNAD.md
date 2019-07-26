@@ -1433,12 +1433,6 @@ STORY～**》在中國ACG圈被譽為“人生”、“神作”，是许多ACG�
 
 ## 参考资料
 
-<div class="references-small">
-
-</div>
-
-<references/>
-
 ## 外部連結
 
   - [劇場版 CLANNAD OFFICIAL SITE](http://www.clannad-movie.jp/)

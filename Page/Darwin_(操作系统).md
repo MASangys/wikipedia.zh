@@ -6,8 +6,7 @@ Darwin是一種[類Unix作業系統](https://zh.wikipedia.org/wiki/類Unix "wiki
 - 核心 -
 的複雜度。在過去的微核心實作上，這種複雜度有時候會導致很難分離核心效能的問題。因此，採用Mach微核心會伴隨風險，但它有潛在的好處是廣泛的可移植性。以Darwin可移植性的具體例子來說，在2005年6月，蘋果電腦宣佈它會於2006年在Mac電腦上開始採用[Intel處理器](https://zh.wikipedia.org/wiki/Intel "wikilink")。
 
-Darwin的開發者在2000年決定採用一個[吉祥物](https://zh.wikipedia.org/wiki/吉祥物 "wikilink")，選擇了鴨嘴獸[Hexley而不是它的競爭對手](https://zh.wikipedia.org/wiki/Hexley "wikilink")，像是一隻[Aqua](../Page/Aqua_\(GUI\).md "wikilink")
-Darwin fish、Clarus和一隻海怪。蘋果電腦也沒有把Hexley認可為Darwin的一個標誌。
+Darwin的開發者在2000年決定採用一個[吉祥物](https://zh.wikipedia.org/wiki/吉祥物 "wikilink")，選擇了鴨嘴獸[Hexley](https://zh.wikipedia.org/wiki/Hexley "wikilink")。蘋果電腦也沒有把Hexley認可為Darwin的一個標誌。
 
 在2002年4月，在網際網路軟體論壇（Internet Software Consortium,
 ISC）上，Apple成立OpenDarwin.org，是一個協助合作Darwin發展的社群。[OpenDarwin建立它自己釋出的Darwin作業系統](../Page/OpenDarwin.md "wikilink")。值得注意的是OpenDarwin子計畫中包含了DarwinPorts，目標是組合下一世代的port集合給Darwin使用（對於長期而言，也給其他的BSD所衍生的作業系統）。OpenDarwin專案於2006年中止，2007年另一個[PureDarwin專案成立去接手OpenDarwin之前的目標](https://zh.wikipedia.org/wiki/PureDarwin "wikilink")。

@@ -1,4 +1,8 @@
-**NEXON**（；；中文：**納-{}-克森**）是一家於1994年12月成立於[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")\[1\]的[電腦遊戲股控公司](https://zh.wikipedia.org/wiki/電腦遊戲 "wikilink")，Nexon總部曾設於[首爾](../Page/首爾.md "wikilink")，在2011年12月以控股公司方式，搬移營運總部至[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")\[2\]，實際控制權轉移至[濟州島的NXC公司](https://zh.wikipedia.org/wiki/濟州島 "wikilink")。
+**NEXON**（；；中文：**納-{}-克森**）是一家韩国[電腦遊戲股控公司](https://zh.wikipedia.org/wiki/電腦遊戲 "wikilink")。
+
+## 历史
+
+於1994年12月成立於[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")\[1\]總部曾設於[首爾](../Page/首爾.md "wikilink")，在2011年12月以控股公司方式，搬移營運總部至[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")\[2\]，實際控制權轉移至[濟州島的NXC公司](https://zh.wikipedia.org/wiki/濟州島 "wikilink")。
 
 并擅长开发休闲类的[网络游戏](../Page/网络游戏.md "wikilink")，目前主要的作品有[泡泡堂](https://zh.wikipedia.org/wiki/泡泡堂 "wikilink")、[跑跑卡丁车](../Page/跑跑卡丁车.md "wikilink")、[泡泡战士](../Page/泡泡战士.md "wikilink")、[天翼之鍊](../Page/天翼之鍊.md "wikilink")、[神之領域](../Page/神之領域.md "wikilink")、[新楓之谷](../Page/新楓之谷.md "wikilink")、[瑪奇](https://zh.wikipedia.org/wiki/瑪奇 "wikilink")、[天涯明月刀等](https://zh.wikipedia.org/wiki/天涯明月刀 "wikilink")。在[港](../Page/香港.md "wikilink")[澳](../Page/澳門.md "wikilink")[台地區](https://zh.wikipedia.org/wiki/台灣 "wikilink")，大部分NEXON遊戲均由[遊戲橘子代理運營](https://zh.wikipedia.org/wiki/遊戲橘子數位科技 "wikilink")；而[中國大陸則分別由](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[盛大網絡及](https://zh.wikipedia.org/wiki/盛大網絡 "wikilink")[世紀天成代理運營](https://zh.wikipedia.org/wiki/世紀天成 "wikilink")。2011年12月14日起在[東京上市](https://zh.wikipedia.org/wiki/東京 "wikilink")，總部移往[日本](../Page/日本.md "wikilink")，原[首爾本部改為](../Page/首爾.md "wikilink")，成為
 （Nexon K.K.)
@@ -215,13 +219,14 @@ NXC公司過半持有。
   - [Nexon台湾官方网站](https://tw.nexon.com/main/zh)
   - [nxc韓國官方网站](http://nxc.com/)
 
+[Category:纳克森](https://zh.wikipedia.org/wiki/Category:纳克森 "wikilink")
 [Category:韓國電子遊戲公司](https://zh.wikipedia.org/wiki/Category:韓國電子遊戲公司 "wikilink")
 [Category:總部在日本的跨國公司](https://zh.wikipedia.org/wiki/Category:總部在日本的跨國公司 "wikilink")
-[Category:1994年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1994年開業電子遊戲公司 "wikilink")
 [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
 [Category:電子遊戲公司](https://zh.wikipedia.org/wiki/Category:電子遊戲公司 "wikilink")
 [Category:電子遊戲發行商](https://zh.wikipedia.org/wiki/Category:電子遊戲發行商 "wikilink")
 [Category:中央區公司_(東京都)](https://zh.wikipedia.org/wiki/Category:中央區公司_\(東京都\) "wikilink")
+[Category:1994年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1994年開業電子遊戲公司 "wikilink")
 
 1.  [1](http://company.nexon.com/Eng/Company/AboutUs/History/History_1990s.aspx)
 2.  [納克森執行長崔承祐：從第一天起

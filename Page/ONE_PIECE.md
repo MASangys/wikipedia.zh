@@ -1,8 +1,8 @@
 《**ONE
-PIECE**》（，中文譯名：海賊王、航海王）是[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[尾田榮一郎創作的一部著名的](https://zh.wikipedia.org/wiki/尾田榮一郎 "wikilink")[少年漫畫作品](https://zh.wikipedia.org/wiki/少年漫畫 "wikilink")，至今仍連載中，該作品內容為描述一名少年**[蒙其·D·魯夫](../Page/蒙其·D·魯夫.md "wikilink")**想要得到「**ONE
+PIECE**》（，中文譯名：海賊王、航海王）是[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[尾田榮一郎創作的一部](https://zh.wikipedia.org/wiki/尾田榮一郎 "wikilink")[少年漫畫作品](https://zh.wikipedia.org/wiki/少年漫畫 "wikilink")，至今還在連載，該作品描述一名少年**[蒙其·D·魯夫](../Page/蒙其·D·魯夫.md "wikilink")**想要得到「**ONE
 PIECE**」和成為「**海賊王**」的[故事](../Page/故事.md "wikilink")。
 
-該作於[1997年起在日本](../Page/1997年.md "wikilink")[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》（[集英社](../Page/集英社.md "wikilink")）定期連載，之後被改編為各種系列的[衍生作品](https://zh.wikipedia.org/wiki/ONE_PIECE#衍生作品 "wikilink")，主要包括同名的[電視動畫](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")、[電影](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\)#電影 "wikilink")、[小說和](https://zh.wikipedia.org/wiki/ONE_PIECE#輕小說 "wikilink")[電子遊戲等周邊](https://zh.wikipedia.org/wiki/ONE_PIECE#電子遊戲 "wikilink")[媒體產品](https://zh.wikipedia.org/wiki/媒體 "wikilink")。
+該作於[1997年在日本](../Page/1997年.md "wikilink")[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》（[集英社](../Page/集英社.md "wikilink")）定期連載，之後被改編為各種系列的[衍生作品](https://zh.wikipedia.org/wiki/ONE_PIECE#衍生作品 "wikilink")，主要包括同名的[電視動畫](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")、[電影](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\)#電影 "wikilink")、[小說和](https://zh.wikipedia.org/wiki/ONE_PIECE#輕小說 "wikilink")[電子遊戲等周邊](https://zh.wikipedia.org/wiki/ONE_PIECE#電子遊戲 "wikilink")[媒體產品](https://zh.wikipedia.org/wiki/媒體 "wikilink")。
 
 ## 作品概述
 
@@ -39,7 +39,7 @@ PIECE》成為日本[Oricon排行榜從](../Page/Oricon.md "wikilink")2008年4�
   -
     草帽海賊團踏入魔幻的三桅帆船地帶，遇見神秘的骷髏人**[布魯克](../Page/布魯克_\(ONE_PIECE\).md "wikilink")**，並與王下七武海之一的[月光·摩利亞產生衝突](../Page/月光·摩利亞.md "wikilink")。最後魯夫擊敗了摩利亞，布魯克也以音樂家的身分加入草帽海賊團。
   -
-    草帽海賊團進入偉大航道前半段的最末端夏波帝諸島，和世界貴族[天龍人起了衝突](https://zh.wikipedia.org/wiki/ONE_PIECE角色列表#世界貴族「天龍人」 "wikilink")，之後遇到[海軍上將](../Page/海軍_\(ONE_PIECE\).md "wikilink")[黃猿](https://zh.wikipedia.org/wiki/黃猿 "wikilink")、[戰桃丸以及改造人攻擊](https://zh.wikipedia.org/wiki/海軍_\(ONE_PIECE\)#戰桃丸 "wikilink")，到最後[巴索羅謬·大熊利用果實幫助草帽海賊團逃脫](https://zh.wikipedia.org/wiki/革命軍_\(ONE_PIECE\)#巴索羅謬·大熊 "wikilink")，把各個船員擊飛至不同的島嶼。
+    草帽海賊團進入偉大航道前半段的最末端夏波帝諸島，和世界貴族[天龍人起了衝突](https://zh.wikipedia.org/wiki/ONE_PIECE角色列表#世界貴族「天龍人」 "wikilink")，之後遇到[海軍上將](../Page/海軍_\(ONE_PIECE\).md "wikilink")[黃猿](https://zh.wikipedia.org/wiki/黃猿 "wikilink")、[戰桃丸以及改造人攻擊](https://zh.wikipedia.org/wiki/海軍_\(ONE_PIECE\)#戰桃丸 "wikilink")，到最後[巴索羅繆·大熊利用果實幫助草帽海賊團逃脫](https://zh.wikipedia.org/wiki/革命軍_\(ONE_PIECE\)#巴索羅謬·大熊 "wikilink")，把各個船員擊飛至不同的島嶼。
   -
     被擊飛至女人島的魯夫遇見島上的[「海賊女帝」波雅·漢考克](../Page/波雅·漢考克.md "wikilink")，又得知自己的兄長[「火拳」波特卡斯·D·艾斯要被處決](https://zh.wikipedia.org/wiki/白鬍子海賊團#波特卡斯·D·艾斯 "wikilink")，便請蛇姬將自己偷渡至海底大監獄「推進城」。
   -
@@ -390,107 +390,134 @@ PIECE》成為日本[Oricon排行榜從](../Page/Oricon.md "wikilink")2008年4�
 </tbody>
 </table>
 
+#### 圖鑑卡片
+
   -
+    航海王圖鑑卡片，裡面有故事中所有角色的個人基本資料、介紹、過去經歷以及作者的設定稿等等。
 
 <table>
 <thead>
 <tr class="header">
 <th><p>標題</p></th>
 <th><p><a href="../Page/集英社.md" title="wikilink">集英社</a></p></th>
+<th><p><a href="../Page/東立出版社.md" title="wikilink">東立出版社</a></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
 <td><p>ISBN</p></td>
+<td><p>發售日期</p></td>
 </tr>
 <tr class="even">
 <td><p>STARTER SET Vol.1</p></td>
 <td><p>2018年9月4日</p></td>
+<td><p>ISBN 978-4-08-908320-8</p></td>
 </tr>
 <tr class="odd">
-<td><p>BOOSTER SET 「東の海」の猛者達</p></td>
+<td><p>BOOSTER PACK東方藍的強者們</p></td>
 <td></td>
+<td><p>2018年10月4日</p></td>
 </tr>
 <tr class="even">
 <td><p>BOOSTER SET 集結! 「超新星」</p></td>
 <td></td>
+<td><p>ISBN 978-4-08-908322-2</p></td>
 </tr>
 <tr class="odd">
 <td><p>BOOSTER SET アーロン一味とココヤシ村の人々</p></td>
 <td><p>2018年11月2日</p></td>
+<td><p>ISBN 978-4-08-908323-9</p></td>
 </tr>
 <tr class="even">
 <td><p>BOOSTER SET インペルダウンの番人VS囚人達</p></td>
 <td></td>
+<td><p>ISBN 978-4-08-908324-6</p></td>
 </tr>
 <tr class="odd">
 <td><p>BOOSTER SET 砂の王国・アラバスタの精鋭</p></td>
 <td></td>
+<td><p>2018年12月4日</p></td>
 </tr>
 <tr class="even">
 <td><p>BOOSTER SET “四皇”白ひげ海賊団</p></td>
 <td></td>
+<td><p>ISBN 978-4-08-908326-0</p></td>
 </tr>
 <tr class="odd">
 <td><p>BOOSTER SET 結集! 秘密結社バロックワークス</p></td>
 <td><p>2019年1月4日</p></td>
+<td><p>ISBN 978-4-08-908327-7</p></td>
 </tr>
 <tr class="even">
 <td><p>BOOSTER SET 海底の楽園・魚人島の住人達</p></td>
 <td></td>
+<td><p>ISBN 978-4-08-908328-4</p></td>
 </tr>
 <tr class="odd">
 <td><p>BOOSTER SET ~空島の強敵達~</p></td>
 <td><p>2019年2月4日</p></td>
+<td><p>ISBN 978-4-08-908329-1</p></td>
 </tr>
 <tr class="even">
 <td><p>BOOSTER SET ~魚人島の強敵達~</p></td>
 <td><p>ISBN 978-4-08-908330-7</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>STARTER SET Vol.2</p></td>
 <td><p>2019年3月4日</p></td>
+<td><p>ISBN 978-4-08-908331-4</p></td>
 </tr>
 <tr class="even">
 <td><p>BOOSTER SET シャンドラの戦士VS神の軍勢</p></td>
 <td></td>
+<td><p>2018年4月4日</p></td>
 </tr>
 <tr class="odd">
 <td><p>BOOSTER SET パンクハザードの脅威</p></td>
 <td></td>
+<td><p>ISBN 978-4-08-908345-1</p></td>
 </tr>
 <tr class="even">
 <td><p>BOOSTER SET 世界一の船大工!ガレーラカンパニー</p></td>
 <td></td>
+<td><p>2018年5月2日</p></td>
 </tr>
 <tr class="odd">
 <td><p>BOOSTER SET 恐怖の支配者! ドンキホーテファミリー</p></td>
 <td></td>
+<td><p>ISBN 978-4-08-908347-5</p></td>
 </tr>
 <tr class="even">
 <td><p>BOOSTER SET “闇の正義”の執行人!CP9</p></td>
 <td></td>
+<td><p>2018年6月4日</p></td>
 </tr>
 <tr class="odd">
 <td><p>BOOSTER SET 激突!コロシアムの闘士達</p></td>
 <td></td>
+<td><p>ISBN 978-4-08-908349-9</p></td>
 </tr>
 <tr class="even">
 <td><p>BOOSTER SET 悪夢!スリラーバークの怪人達</p></td>
 <td></td>
+<td><p>2019年7月4日</p></td>
 </tr>
 <tr class="odd">
 <td><p>BOOSTER SET 天性の戦士!モコモ公国のミンク族</p></td>
 <td></td>
+<td><p>ISBN 978-4-08-908351-2</p></td>
 </tr>
 <tr class="even">
 <td><p>BOOSTER SET “北の海”の戦争屋・ジェルマ66</p></td>
 <td></td>
+<td><p>2019年8月4日</p></td>
 </tr>
 <tr class="odd">
 <td><p>BOOSTER SET “四皇”ビッグ・マム海賊団</p></td>
 <td></td>
+<td><p>ISBN 978-4-08-908353-6</p></td>
 </tr>
 </tbody>
 </table>
@@ -604,10 +631,11 @@ PIECE》成為日本[Oricon排行榜從](../Page/Oricon.md "wikilink")2008年4�
 
 ### 小說
 
-  - 小說化系列
-    作者為[濱崎達也](https://zh.wikipedia.org/wiki/濱崎達也 "wikilink")，主要改編自尾田榮一郎《ONE
-    PIECE》電影版和動畫原創的故事將其小說化，目前已出版16部。日本由集英社（JUMP
-    j-BOOKS）發行；台灣目前只有代理5部，由[東立出版社發行](../Page/東立出版社.md "wikilink")；中國由[上海譯文出版社出版](https://zh.wikipedia.org/wiki/上海譯文出版社 "wikilink")。
+#### 劇場版系列
+
+作者為[濱崎達也](https://zh.wikipedia.org/wiki/濱崎達也 "wikilink")，主要改編自尾田榮一郎《ONE
+PIECE》電影版和動畫原創的故事將其小說化，目前已出版16部。日本由集英社（JUMP
+j-BOOKS）發行；台灣目前只有代理5部，由[東立出版社發行](../Page/東立出版社.md "wikilink")；中國由[上海譯文出版社出版](https://zh.wikipedia.org/wiki/上海譯文出版社 "wikilink")。
 
 <table>
 <thead>
@@ -740,15 +768,7 @@ PIECE》成為日本[Oricon排行榜從](../Page/Oricon.md "wikilink")2008年4�
 </tbody>
 </table>
 
-  -
-    原作：尾田榮一郎，小說：（第一卷）、浜崎達也（第二卷），插畫：[寺田克也](https://zh.wikipedia.org/wiki/寺田克也 "wikilink")。目前出版兩卷，最初於「ONE
-    PIECE magazine」連載，日本由集英社發行書籍版本，台灣目前尚未代理。
-    內容是以[波特卡斯·D·艾斯為主軸的外傳小說](https://zh.wikipedia.org/wiki/波特卡斯·D·艾斯 "wikilink")，描述艾斯在原作裡沒出現的劇情、他最初的夥伴以及如何獲得火焰果實的能力的故事。
-    {| class=wikitable style="font-size:small;"
-
-\!rowspan="2"|卷數 \!rowspan="2"|標題 \!colspan="2"| JUMP j-BOOKS |-
-\!發售日期\!\!ISBN |- \! 1 |  | 2018年4月4日 | ISBN 978-4-08-703445-5
-|- \! 2 |  | 2018年6月4日 | ISBN 978-4-08-703449-3 |}
+#### novel系列
 
   -
     原作：尾田榮一郎，小說：[大崎知仁](../Page/大崎知仁.md "wikilink")。目前全一卷，最初於「ONE PIECE
@@ -758,34 +778,44 @@ PIECE》成為日本[Oricon排行榜從](../Page/Oricon.md "wikilink")2008年4�
 
 \!rowspan="2"|卷數 \!rowspan="2"|標題 \!colspan="2"| JUMP j-BOOKS
 \!colspan="2"| [東立出版社](../Page/東立出版社.md "wikilink") |-
-\!發售日期\!\!ISBN\!\!發售日期\!\!ISBN |- \! 全 |  | 2017年11月2日 | ISBN
+\!發售日期\!\!ISBN\!\!發售日期\!\!ISBN |- \! 全 |
+<small>ONE PIECE Novel航海王小說: 草帽故事集</small> | 2017年11月2日 | ISBN
 978-4-08-703434-9 | 2018年9月3日 | ISBN 978-957-261-030-5 |}
 
-### 繪本
-
   -
-    原作：尾田榮一郎，繪本：長田真作。目前全一卷，最初於「ONE PIECE
-    magazine」連載，日本由集英社發行書籍版本，台灣目前尚未代理。
-    以繪本形式描述魯夫與艾斯與薩波這個永遠三兄弟的組合的故事。
+    原作：尾田榮一郎，小說：（第一卷）、浜崎達也（第二卷），插畫：[寺田克也](https://zh.wikipedia.org/wiki/寺田克也 "wikilink")
+    (第1章)、[西村絹](../Page/西村絹.md "wikilink")
+    (第2章)、[高橋和哉](https://zh.wikipedia.org/wiki/高橋和哉 "wikilink")
+    (第3章)。目前全兩卷，最初於「ONE PIECE magazine」連載，日本由集英社發行書籍版本，台灣為東立出版代理。
+    內容是以[波特卡斯·D·艾斯為主軸的外傳小說](https://zh.wikipedia.org/wiki/波特卡斯·D·艾斯 "wikilink")，描述艾斯在原作裡沒出現的劇情、他最初的夥伴以及如何獲得火焰果實的能力的故事。
     {| class=wikitable style="font-size:small;"
 
-\!rowspan="2"|卷數 \!colspan="2"| [集英社](../Page/集英社.md "wikilink") |-
-\!發售日期\!\!ISBN |- \! 全 | 2018年3月2日 | ISBN 978-4-08-780835-3 |}
+\!rowspan="2"|卷數 \!rowspan="2"|標題 \!colspan="2"| JUMP j-BOOKS
+\!colspan="2"| [東立出版社](../Page/東立出版社.md "wikilink") |-
+\!發售日期\!\!ISBN\!\!發售日期\!\!ISBN |- \! 1 |
+<small>ONE PIECE Novel航海王小說A 1: 黑桃海賊團成立篇</small> | 2018年4月4日 | ISBN
+978-4-08-703445-5 | 2019年7月22日 | ISBN 978-957-262-213-1 |- \! 2 |  |
+2018年6月4日 | ISBN 978-4-08-703449-3 | | |}
 
-### 雜誌特刊
+### 特刊
 
   -
-    原作：尾田榮一郎，編輯：V‧JUMP編輯部。全3冊，日本由集英社發行，台灣由東立出版社發行。
-    本系列書籍為連載20周年超特別企劃書本，收錄了對魯夫和艾斯的評價，艾斯成名前的經歷小說和海兵觀點的頂點戰爭小說，已及艾斯薩波魯夫三兄弟的繪本，航海王粉絲的日常漫畫，介紹尾田仔的短篇漫畫，現實中的海盜介紹和故事中的惡魔果實介紹，專訪尾田榮一郎以及公開原稿設定圖等。
+    原作：尾田榮一郎，編輯：V‧JUMP編輯部。日本由集英社發行，台灣由東立出版社發行。
+    本系列書籍為連載20周年超特別企劃書本，收錄了對魯夫和艾斯的評價，艾斯成名前的經歷小說和海兵觀點的頂點戰爭小說，以及艾斯薩波魯夫三兄弟的繪本，航海王粉絲的日常漫畫，介紹尾田仔的短篇漫畫，現實中的海盜介紹和故事中的惡魔果實介紹，專訪尾田榮一郎以及公開原稿設定圖等。2018年起改為季度性刊物。
     {| class=wikitable style="font-size:small;"
 
-\!rowspan="2"|卷數 \!colspan="2"| [集英社](../Page/集英社.md "wikilink") ―
-SHUEISHA ― \!colspan="2"| [東立出版社](../Page/東立出版社.md "wikilink") |-
-\!發售日期\!\!ISBN\!\!發售日期\!\!ISBN |- \! vol.1 |2017年7月7日 |ISBN
-978-4-08-102232-8 |2018年2月12日 |ISBN 201-801-235-350-0（首刷附錄版） |- \! vol.2
-|2017年8月4日 |ISBN 978-4-08-102233-5 |2018年6月15日 |ISBN 978-986-486-994-7
-|- \! vol.3 |2017年9月1日 |ISBN 978-4-08-102234-2 |2018年8月14日 |ISBN
-978-986-486-995-4 |}
+\!rowspan="2"|卷數 \!colspan="2"| [集英社](../Page/集英社.md "wikilink")
+\!colspan="2"| [東立出版社](../Page/東立出版社.md "wikilink") |-
+\!發售日期\!\!ISBN\!\!發售日期\!\!EAN / ISBN |- \! 1 | 2017年7月7日 | ISBN
+978-4-08-102232-8 | 2018年2月12日
+2019年1月2日 | EAN 471094555404-4<small>（首刷附錄版）</small>
+ISBN 978-986-486-993-0 |- \! 2 | 2017年8月4日 | ISBN 978-4-08-102233-5 |
+2018年6月15日 | ISBN 978-986-486-994-7 |- \! 3 | 2017年9月1日 | ISBN
+978-4-08-102234-2 | 2018年8月14日 | ISBN 978-986-486-995-4 |- \! 4 |
+2018年10月19日 | ISBN 978-4-08-102273-1 | 2019年8月18日 | ISBN
+978-9-57-262603-0 |- \! 5 | 2019年1月25日 | ISBN 978-4-08-102274-8 | | |-
+\! 6 | 2019年6月17日 | ISBN 978-4-08-102275-5 | | |- \! 7 | 2019年8月9日 |
+ISBN 978-4-08-102294-6 | | |}
 
 ### 電影漫畫
 
@@ -910,8 +940,7 @@ SHUEISHA ― \!colspan="2"| [東立出版社](../Page/東立出版社.md "wikili
 
 ### 外傳漫畫
 
-由為[安藤英著作](https://zh.wikipedia.org/wiki/安藤英 "wikilink")，目前已出版4卷，日本由集英社JUMP
-j-BOOKS發行，台灣由東立出版社發行。內容是以航海王外傳漫畫的短篇搞笑故事集，在本書當中可以看到各種IF（平行世界）故事，包括了草帽一行人再戰CP9、薇薇再次與草帽一行人聯手戰鬥、草帽一行人的成立秘辛、以及夢幻般的魯夫艾斯薩波三兄弟齊聚一堂等故事，以歡樂方式呈現給讀者。
+由為[安藤英著作](https://zh.wikipedia.org/wiki/安藤英 "wikilink")，目前已出版5卷，日本由集英社發行，台灣由東立出版社發行。內容是以航海王外傳漫畫的短篇搞笑故事集，在本書當中可以看到各種IF（平行世界）故事。
 
   -
     {| class=wikitable style="font-size:small;"
@@ -923,7 +952,8 @@ COMICS） \!colspan="2"| [東立出版社](../Page/東立出版社.md "wikilink"
 2016年7月4日 | ISBN 978-4-08-880732-4 | 2016年11月3日 | ISBN
 978-986-348-533-9 |- \! 3 | 2017年8月4日 | ISBN 978-4-08-881199-4 |
 2017年12月22日 | ISBN 978-986-486-725-7 |- \! 4 | 2018年6月4日 | ISBN
-978-4-08-881507-7 |2018年11月 日 |ISBN 978-957-261-414-3 |}
+978-4-08-881507-7 | 2018年11月16日 | ISBN 978-957-261-414-3 |- \! 5 |
+2019年3月4日 | ISBN 978-4-08-881776-7 | 2019年 | |}
 
 ### 其他書籍
 
@@ -1007,14 +1037,25 @@ COMICS) \!colspan="2"| [東立出版社](../Page/東立出版社.md "wikilink") 
 978-4-08-780751-6 |2016年1月11日 |ISBN 978-986-431-977-0 |}
 
   -
-    原作：尾田榮一郎。目前已出版2冊，日本由集英社發行，香港由天下出版發行，台灣目前尚未代理。
+    原作：尾田榮一郎，繪本：長田真作。全一卷，最初於「ONE PIECE
+    magazine」連載，日本由集英社發行繪本，台灣目前尚未代理。以繪本形式描述魯夫與艾斯與薩波這個永遠三兄弟的組合的故事。
+    {| class=wikitable style="font-size:small;"
+
+\!rowspan="2"|卷數 \!colspan="2"| [集英社](../Page/集英社.md "wikilink") |-
+\!發售日期\!\!ISBN |- \! 全 | 2018年3月2日 | ISBN 978-4-08-780835-3 |}
+
+  -
+    原作：尾田榮一郎。目前已出版2冊，日本由集英社發行，香港由[天下出版發行](../Page/天下出版.md "wikilink")，台灣由[東立出版社代理](../Page/東立出版社.md "wikilink")。
     {| class="wikitable" style="font-size:small;"
 
 \! rowspan="2" |卷數 \! colspan="2" | [集英社](../Page/集英社.md "wikilink")
-(JUMP COMICS) \! colspan="2" | 天下出版 |- \!發售日期\!\!ISBN\!\!發售日期\!\!ISBN |-
-\! 1 | 2018年6月4日 || ISBN 978-4-08-881559-6 | 2018年10月12日 || ISBN
-978-988-8217-38-0 |- \! 2 | 2018年7月4日 || ISBN 978-4-08-881560-2 |
-2019年3月29日 || |}
+(JUMP COMICS) \! colspan="2" | [天下出版](../Page/天下出版.md "wikilink") \!
+colspan="2" | [東立出版社](../Page/東立出版社.md "wikilink") |-
+\!發售日期\!\!ISBN\!\!發售日期\!\!ISBN\!\!發售日期\!\!ISBN |- \! 1 |
+2018年6月4日 || ISBN 978-4-08-881559-6 | 2018年10月12日 || ISBN
+978-988-8217-38-0 | 2019年1月11日 || ISBN 978-957-2620-54-0 |- \! 2 |
+2018年7月4日 || ISBN 978-4-08-881560-2 | 2019年3月29日 || | 2019年7月12日 ||
+ISBN 978-957-2620-55-7 |}
 
 ## 衍生作品
 

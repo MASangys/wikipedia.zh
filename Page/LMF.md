@@ -64,17 +64,35 @@ LMF自1999年推出首張EP後，因歌詞有不少[粗口內容](https://zh.wik
 
 ## 唱片列表
 
-  - 1996年：《V.A. 自主音樂圖鑑》—「同床」
-  - 1999年：《Lazy Mutha Fucka》（EP）
+### 錄音室專輯
+
   - 2000年：《大懶堂》
-  - 2001年：《LMFamiglia》（EP）
+  - 2001年：《AROOM REPRESENTS THE REALAZY MOFO DBF》
   - 2002年：《Crazy Children》
+  - 2003年：《Finalazy》
+
+### EP
+
+  - 1999年：《Lazy Mutha Fucka》
+  - 2001年：《LMFamiglia》
+
+### 精選輯
+
   - 2002年：《嘻武門》（精選+新曲）
-  - 2002年：《LMF VIDEOPHILE》（影碟）
-  - 2003年：《Finalazy》（CD + Bonus CD）
-  - 2003年：《LMFsHits Greatest Hits》（精選，2CD）
-  - 2009年：《揸緊中指》（白版 Promotion CD）
-  - 2009年：《The Ultimate_s...Hits》（精選，3CD）
+  - 2003年：《LMFsHits Greatest Hits》
+  - 2009年：《The Ultimate_s...Hits》
+  - 2016年：《LMFSHITS》
+
+### 單曲
+
+  - 1996年：《同床》— 收錄於「自主音樂圖鑑」
+  - 2009年：《揸緊中指》
+  - 2014年：《惡世紀》
+
+### 現場專輯/DVD
+
+  - 2002年：《LMF VIDEOPHILE》
+  - 2011年：《LMF FLASHBACK OF THE OLD DAYS》
 
 ### 個別成員作品
 

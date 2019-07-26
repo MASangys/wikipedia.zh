@@ -120,10 +120,11 @@ LL/XL是[NDSi的改良版](https://zh.wikipedia.org/wiki/NDSi "wikilink")，主�
 
 ## 外部連結
 
-  - [Nintendo DS](http://www.nintendo.co.jp/ds/)（任天堂公司網站內的NDS網頁）
-  - [iQue
-    DS](https://web.archive.org/web/20160310062113/http://ds.ique.com/DSi/DS_Series.htm)（神遊科技iDS系列官方網頁）
-  - [Nintendo Wi-Fi](http://wifi.nintendo.co.jp/)（任天堂Wi-Fi無線網路服務網頁）
+  - [任天堂DS](https://www.nintendo.tw/ds/ds_index.htm)（任天堂溥天台灣NDS官方網頁）
+  - [任天堂DS](https://www.nintendo.com.hk/ds/ds_index.htm)（任天堂香港NDS官方網頁）
+  - [神游DS](https://www.ique.com/DS/)（神游科技中国NDS官方網頁）
+  - [ニンテンドーDS](http://www.nintendo.co.jp/ds/)（任天堂公司網站內的NDS網頁）
+  - [ニンテンドーWi-Fiコネクション](http://wifi.nintendo.co.jp/)（任天堂Wi-Fi無線網路服務網頁）
   - [Nintendo Inside](http://www.nintendo-inside.jp/)（日本任天堂新聞）
 
 [Category:掌上遊戲機](https://zh.wikipedia.org/wiki/Category:掌上遊戲機 "wikilink")

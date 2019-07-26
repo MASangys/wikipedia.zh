@@ -1,4 +1,6 @@
-**马绍尔·布鲁斯·马瑟斯三世**（，），以藝名**阿姆**（英語：）較為人知\[1\]，是一位美國著名[饒舌歌手](https://zh.wikipedia.org/wiki/饒舌歌手 "wikilink")、[詞曲作家](../Page/詞曲作家.md "wikilink")、[唱片製作人](../Page/音樂製作人.md "wikilink")、演員及電影製作人。他在1997年被饒舌歌手兼製作人[Dr.
+**马绍尔·-{布鲁斯}-·马瑟斯三世**（，），知名于其艺名**-{zh-cn:埃米纳姆; zh-tw:阿姆;
+zh-hk:Eminem;}-**（-{zh-cn:Eminem; zh-tw:Eminem;
+zh-hk:阿姆;}-）\[1\]，是一位美國著名[饒舌歌手](https://zh.wikipedia.org/wiki/饒舌歌手 "wikilink")、[詞曲作家](../Page/詞曲作家.md "wikilink")、[唱片製作人](../Page/音樂製作人.md "wikilink")、演員及電影製作人。他在1997年被饒舌歌手兼製作人[Dr.
 Dre發掘](../Page/Dr._Dre.md "wikilink")，其後簽約至所屬的唱片公司。在其音樂生涯中，至今共獲得十五次格萊美獎，以及[奧斯卡最佳電影歌曲獎項](https://zh.wikipedia.org/wiki/奧斯卡金像獎 "wikilink")。他一直被認為是嘻哈史上最偉大，最有影響力的饒舌歌手之一，也被稱為「饒舌之神」(Rap
 God)
 
@@ -13,7 +15,7 @@ God)
 ### 1972–1997：早期生涯和《Infinite》
 
 生於[密蘇里州聖約瑟夫](../Page/密蘇里州.md "wikilink")（St.
-Joseph），出生不久後，父親便離開了他的家庭。在12歲之前，母親帶著他多次搬家，如[堪薩斯](https://zh.wikipedia.org/wiki/堪薩斯 "wikilink")、莎凡娜（Savannah）等地，直到後來他們在[密歇根州](../Page/密歇根州.md "wikilink")[底特律的郊區](https://zh.wikipedia.org/wiki/底特律 "wikilink")[沃倫市定居](https://zh.wikipedia.org/wiki/沃倫_\(密西根州\) "wikilink")。在聽過[Beastie
+Joseph），出生不久後，父親便離開了他的家庭。在12歲之前，母親帶著他多次搬家，如[堪薩斯](https://zh.wikipedia.org/wiki/堪薩斯 "wikilink")、[薩凡納等地](../Page/薩凡納.md "wikilink")，直到後來他們在[密歇根州](../Page/密歇根州.md "wikilink")[底特律的郊區](https://zh.wikipedia.org/wiki/底特律 "wikilink")[沃倫市定居](https://zh.wikipedia.org/wiki/沃倫_\(密西根州\) "wikilink")。在聽過[Beastie
 Boys的專輯](https://zh.wikipedia.org/wiki/Beastie_Boys "wikilink")《Licensed
 to
 Ill》以及舅舅所送的一首Ice-T的單曲之後，阿姆對[嘻哈樂產生了興趣](../Page/嘻哈.md "wikilink")，14歲便第一次登臺演出。[高中時期經常參加嘻哈比賽](https://zh.wikipedia.org/wiki/高中 "wikilink")（freestyle
@@ -45,8 +47,7 @@ Down" 。所以，Dr. Dre會在阿姆的工作室製作的所有Aftermath廠牌�
 ### 2000–2001: 《The Marshall Mathers LP》
 
 阿姆的第二張專輯《The Marshall Mathers
-LP》於2000年5月發行。在發行後一周內就賣出了176萬張，打破了著名美國饒舌歌手【Snoop
-Dogg史努比狗狗）】的《Doggystyle》保持的最快銷售嘻哈專輯記錄和[小甜甜布蘭妮](../Page/布蘭妮·斯皮爾斯.md "wikilink")《...Baby
+LP》於2000年5月發行。在發行後一周內就賣出了176萬張，打破了著名美國饒舌歌手[史努比狗狗的](../Page/史努比狗狗.md "wikilink")《Doggystyle》保持的最快銷售嘻哈專輯記錄和[小甜甜布蘭妮](../Page/布蘭妮·斯皮爾斯.md "wikilink")《...Baby
 One More Time》保持的最快銷售個人專輯記錄。《The Marshall Mathers LP》裡最先發行的歌曲"The Real
 Slim
 Shady"很成功，不過也帶來一些爭議，因為阿姆在這首歌中侮辱了和懷疑了許多明星，其中之一是他提及到[克莉絲汀·阿奎萊拉為Carson](../Page/克莉絲汀·阿奎萊拉.md "wikilink")
@@ -176,29 +177,46 @@ LP》狂放不羈的形象,連頭髮再度染成金色。
 
 ## 影響
 
-許多藝術家都認為阿姆具有影響力，包括Regina Spektor，The Weeknd，Crooked I，Tech
-N9ne，Logic，Lil Wayne，Nicki Minaj，TI，BoB，JhenéAiko，50 Cent，Usher，Earl
-Sweatshirt，Ab-Soul，Freddie Gibbs，Kendrick Lamar，Ed Sheeran，Lana Del Rey，
-Big Sean，J. Cole，Skylar Gray，Bubba Sparxxx，Asher Roth，Phresher，BlocBoy
-JB，Machine Gun Kelly，Yelawolf，Hopsin，Tyler，The Creator，Hollywood
-Undead，Kiiara，Chris Webby，Charles Hamilton，Chance the Rapper，Jon
-Connor，Snow Tha Product，Stalley，Royce da 5'9“，Joyner Lucas，Joe
-Budden，Tony Yayo，The Game，Juice WRLD，和BTS。
+許多艺人都認為阿姆具有影響力、包括Regina Spektor、[威肯](../Page/威肯.md "wikilink")、Crooked
+I、Tech
+N9ne、[Logic](../Page/Logic_\(饶舌歌手\).md "wikilink")、[小韋恩](../Page/小韋恩.md "wikilink")、[妮琪·米娜](https://zh.wikipedia.org/wiki/妮琪·米娜 "wikilink")、[T.I.](../Page/T.I..md "wikilink")、[B.o.B](../Page/B.o.B.md "wikilink")、[洁妮·爱子](../Page/洁妮·爱子.md "wikilink")、[50
+Cent](https://zh.wikipedia.org/wiki/50_Cent "wikilink")、[亚瑟小子](../Page/亚瑟小子.md "wikilink")、Earl
+Sweatshirt、Ab-Soul、Freddie
+Gibbs、[肯德里克·拉马尔](../Page/肯德里克·拉马尔.md "wikilink")、[紅髮艾德](../Page/紅髮艾德.md "wikilink")、[拉娜·德雷](../Page/拉娜·德雷.md "wikilink")、[大肖恩](../Page/大肖恩.md "wikilink")、[J·科尔](../Page/J·科尔.md "wikilink")、[斯盖拉·格蕾](../Page/斯盖拉·格蕾.md "wikilink")、Bubba
+Sparxxx、Asher Roth、Phresher、BlocBoy
+JB、[机关枪凯利](https://zh.wikipedia.org/wiki/机关枪凯利_\(饶舌歌手\) "wikilink")、Yelawolf、Hopsin、[造物主泰勒](../Page/造物主泰勒.md "wikilink")、Hollywood
+Undead、[基娅拉](https://zh.wikipedia.org/wiki/基娅拉 "wikilink")、Chris
+Webby、Charles
+Hamilton、[饶舌者钱斯](https://zh.wikipedia.org/wiki/饶舌者钱斯 "wikilink")、Jon
+Connor、Snow Tha Product、Stalley、Royce da
+5'9"、[乔伊纳·卢卡斯](../Page/乔伊纳·卢卡斯.md "wikilink")、Joe
+Budden、Tony Yayo、[The
+Game](../Page/Game_\(歌手\).md "wikilink")、[朱斯·沃尔德和BTS](https://zh.wikipedia.org/wiki/朱斯·沃尔德 "wikilink")。
 
-說唱歌手David Banner，Tech N9ne，Hopsin，G-Eazy，Boosie Badazz，Wiz Khalifa，Kevin
-Gates，Drake，50 Cent，Talib Kweli，Kool G. Rap，Charles Hamilton， King
-Los，Logic，J. Cole，Redman，Kurupt，E-40，Dr。Dre，Ice Cube，Nas，Young
-Jeezy，NORE，Joe Budden，Ab-Soul，Big Sean， Kendrick Lamar， Fabolous，Jon
-Connor， Royce Da 5'9“， Big Daddy Kane，Rakim， TI， Kanye West，Masta
-Ace，Bow Wow，Joyner Lucas， B-Real， Willie D， Busta Rhymes， Phresher，
-Akon，Stalley，The Game，Dave East，MI Abaga，Chuck D，Joell Ortiz，Crooked
-I，Jadakiss，Fat Joe， Twista， Lil B，Lupe Fiasco，Cormega，Flavor Flav，
-Remy Ma，Russ，Nick Cannon，The DOC， CeeLo Green， Pharoahe Monch， Ty Dolla
-Sign，Machine Gun Kelly，Yelawolf，和 Jay-Z 各自稱Eminem是有史以來最偉大的說唱歌手之一。
+說唱歌手David Banner、Tech
+N9ne、Hopsin、[G-Eazy](../Page/G-Eazy.md "wikilink")、Boosie
+Badazz、[维兹·卡利法](../Page/维兹·卡利法.md "wikilink")、Kevin
+Gates、[德雷克](../Page/德雷克_\(歌手\).md "wikilink")、[50
+Cent](https://zh.wikipedia.org/wiki/50_Cent "wikilink")、Talib Kweli、Kool
+G. Rap、Charles Hamilton、 King
+Los、[Logic](../Page/Logic_\(饶舌歌手\).md "wikilink")、[J·科尔](../Page/J·科尔.md "wikilink")、Redman、Kurupt、E-40、[Dr.
+Dre](../Page/Dr._Dre.md "wikilink")、[艾斯·库伯](../Page/艾斯·库伯.md "wikilink")、[纳斯](../Page/纳斯.md "wikilink")、[Young
+Jeezy](../Page/杰伊·詹金斯.md "wikilink")、NORE、Joe
+Budden、Ab-Soul、[大肖恩](../Page/大肖恩.md "wikilink")、[肯德里克·拉马尔](../Page/肯德里克·拉马尔.md "wikilink")、[神奇小子](../Page/神奇小子_\(歌手\).md "wikilink")、Jon
+Connor、 Royce Da 5'9"、Big Daddy
+Kane、Rakim、[T.I.](../Page/T.I..md "wikilink")、[肯伊·威斯特](../Page/肯伊·威斯特.md "wikilink")、Masta
+Ace、Bow Wow、[乔伊纳·卢卡斯](../Page/乔伊纳·卢卡斯.md "wikilink")、 B-Real、 Willie
+D、[巴斯达韵](../Page/巴斯达韵.md "wikilink")、 Phresher、 Akon、Stalley、[The
+Game](../Page/Game_\(歌手\).md "wikilink")、Dave East、MI Abaga、Chuck
+D、Joell Ortiz、Crooked I、[賈達基斯](../Page/賈達基斯.md "wikilink")、Fat Joe、
+Twista、 Lil B、[卢佩·菲亚斯科](../Page/卢佩·菲亚斯科.md "wikilink")、Cormega、Flavor
+Flav、Remy Ma、Russ、Nick Cannon、The DOC、 CeeLo Green、Pharoahe Monch、 Ty
+Dolla
+Sign、[机关枪凯利](https://zh.wikipedia.org/wiki/机关枪凯利_\(饶舌歌手\) "wikilink")、Yelawolf和[Jay-Z各自稱Eminem是有史以來最偉大的饒舌歌手之一](../Page/杰斯.md "wikilink")。
 
-【 世界紀錄 】
+### 世界紀錄
 
-  - Rap God《饒舌之神》一曲，創下「最多文字的流行歌曲」的金氏世界紀錄
+  - 《饒舌之神》（Rap God）一曲、創下「最多文字的流行歌曲」的金氏世界紀錄
 
 ## 作品
 
@@ -365,6 +383,7 @@ Eminem 的經典歌曲“Stan”。
 [Category:21世紀美國男演員](https://zh.wikipedia.org/wiki/Category:21世紀美國男演員 "wikilink")
 [Category:Mnet亞洲音樂大獎獲得者](https://zh.wikipedia.org/wiki/Category:Mnet亞洲音樂大獎獲得者 "wikilink")
 [Category:日本富士搖滾音樂祭參加歌手](https://zh.wikipedia.org/wiki/Category:日本富士搖滾音樂祭參加歌手 "wikilink")
+[Category:来自底特律的饶舌歌手](https://zh.wikipedia.org/wiki/Category:来自底特律的饶舌歌手 "wikilink")
 
 1.
 

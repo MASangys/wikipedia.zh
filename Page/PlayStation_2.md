@@ -34,7 +34,7 @@ PlayStation 2
   - 是[PlayStation的繼承機種](../Page/PlayStation.md "wikilink")，
   - 銷售統計資料：
       - 2000年3月4日開始於[日本販售](../Page/日本.md "wikilink")，販售後僅過了三日，[日本當地就創下約](../Page/日本.md "wikilink")98萬部以上的生產銷售紀錄。
-      - 2003年1月,PS2全球銷量突破五千萬部。
+      - 2003年1月，PS2全球銷量突破五千萬部。
       - 2004年1月1日，PlayStation
         2在因故延遲十多日後，终於在2004年[元旦於](../Page/元旦.md "wikilink")[中国大陸開賣](https://zh.wikipedia.org/wiki/中国大陸 "wikilink")。
       - 2005年11月在全球創下一億部的生產銷售部數紀錄。

@@ -9,6 +9,9 @@ Maid）在[日本推出了这款面向儿童及青少年的饮料](../Page/日�
 
 在曾經銷售過此品牌飲料的市場中，臺灣自2005年前後逐漸減少鋪貨而淡出市場，並由同屬可口可樂旗下的[美粒果填補果汁產品市場的空缺](https://zh.wikipedia.org/wiki/美粒果 "wikilink")。
 
+在2019年，與韓國人氣女團[TWICE合作](https://zh.wikipedia.org/wiki/TWICE "wikilink")，推出日本[Qoo誕生](../Page/Qoo.md "wikilink")20周年特別企劃「Qoo
+& TWICE 期間限定果汁」
+
 ## 參考文獻
 
 ## 外部連結

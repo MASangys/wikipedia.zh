@@ -1,5 +1,4 @@
-\[\[[File:MaplesoftCorporateHeadquarters.jpg|thumb|300px|加拿大](File:MaplesoftCorporateHeadquarters.jpg%7Cthumb%7C300px%7C加拿大)
-MAPLE是一個通用计算机
+MAPLE是一個符號運算和數值計算平臺
 
 ## 總覽
 
@@ -455,6 +454,8 @@ eqn:= f(x)-3\*Integrate((x\*y+x^2\*y^2)\*f(y), y=-1..1) = h(x):
   - [GNU Octave](../Page/GNU_Octave.md "wikilink")
 
   - [Scilab](../Page/Scilab.md "wikilink")
+
+  - [Mathematica](https://zh.wikipedia.org/wiki/Mathematica "wikilink")
 
 [Category:C軟體](https://zh.wikipedia.org/wiki/Category:C軟體 "wikilink")
 [Category:计算笔记本](https://zh.wikipedia.org/wiki/Category:计算笔记本 "wikilink")

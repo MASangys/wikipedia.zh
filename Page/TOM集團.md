@@ -18,8 +18,7 @@ Online。
 
   - [郵樂控股](https://zh.wikipedia.org/wiki/郵樂控股 "wikilink") 44.24%
   - [华娱卫视](../Page/华娱卫视.md "wikilink") 99.99%
-  - [城邦媒體控股集團](https://zh.wikipedia.org/wiki/城邦媒體控股集團 "wikilink") -
-    [城邦文化](../Page/城邦文化.md "wikilink")
+  - [城邦媒體控股集團](../Page/城邦文化.md "wikilink")
   - [TOM在線](https://zh.wikipedia.org/wiki/TOM在線 "wikilink")
   - TOM戶外傳媒集團
   - [易趣](https://zh.wikipedia.org/wiki/易趣 "wikilink")

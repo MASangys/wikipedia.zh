@@ -1,12 +1,12 @@
-  - [2019年5月](https://zh.wikipedia.org/wiki/Wikipedia:新条目推荐/存档/2019年5月 "wikilink")
+  - [2019年6月](https://zh.wikipedia.org/wiki/Wikipedia:新条目推荐/存档/2019年6月 "wikilink")
 
 <!-- end list -->
 
-  - 臺灣[澎湖群島](../Page/澎湖群島.md "wikilink")**[哪間廟宇](../Page/虎井觀音廟.md "wikilink")**，為[虎井嶼漁村的地方公廟](../Page/虎井嶼.md "wikilink")，並主祀[觀世音菩薩](../Page/觀世音菩薩.md "wikilink")？
-  - **[哪一種小型豬種](../Page/蘭嶼豬.md "wikilink")**是原產於蘭嶼，並且為台灣唯一的小型豬種原？
-  - [臺灣](../Page/臺灣.md "wikilink")[屏東縣](../Page/屏東縣.md "wikilink")[新埤鄉的](https://zh.wikipedia.org/wiki/新埤鄉 "wikilink")**[哪一處眷村](../Page/玉環新村.md "wikilink")**以[浙江省](../Page/浙江省.md "wikilink")[玉環縣的](https://zh.wikipedia.org/wiki/玉環縣 "wikilink")[披山島移民為人口大宗](https://zh.wikipedia.org/wiki/披山島 "wikilink")？
-  - [臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[東勢區](../Page/東勢區.md "wikilink")**[哪座廟宇](../Page/東勢巧聖仙師祖廟.md "wikilink")**被視為臺灣主祀[魯班的開基祖廟](https://zh.wikipedia.org/wiki/魯班 "wikilink")？
-  - 台灣工地工程師[林立青在](../Page/林立青_\(作家\).md "wikilink")2017年推出**[哪一本描寫台灣勞工的散文集](../Page/做工的人.md "wikilink")**，不但獲得優異的銷量，還被改編為電視劇？
+  - [臺灣](../Page/臺灣.md "wikilink")[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[瑞芳區](../Page/瑞芳區.md "wikilink")**[哪座淨土宗佛寺](../Page/金瓜石金泉寺.md "wikilink")**，祭祀[浙江](https://zh.wikipedia.org/wiki/浙江 "wikilink")[平陽](https://zh.wikipedia.org/wiki/平陽縣 "wikilink")、[瑞安](../Page/瑞安市.md "wikilink")、[玉環等地的](../Page/玉环市.md "wikilink")[金瓜石礦工](../Page/金瓜石.md "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[大溪區](https://zh.wikipedia.org/wiki/大溪區 "wikilink")、[台3線附近有](../Page/台3線.md "wikilink")**[哪座姑娘廟](../Page/德賢祠.md "wikilink")**祭祀一位傳說的採茶女？
+  - [臺灣](../Page/臺灣.md "wikilink")[苗栗縣](../Page/苗栗縣.md "wikilink")[苗栗市](../Page/苗栗市.md "wikilink")**[哪間陰廟](../Page/苗栗市萬善祠暨范苟祠.md "wikilink")**曾被列為[苗栗縣文化資產](../Page/苗栗縣文化資產.md "wikilink")，但不到半年就除名？
+  - [臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[清水區](https://zh.wikipedia.org/wiki/清水區_\(臺灣\) "wikilink")**[哪一座觀音寺](../Page/清水紫雲巖.md "wikilink")**為清水區的信仰中心，由當地的三十二個里輪流舉行中元普渡？
+  - **[哪一位台灣運動員](../Page/許仁豪.md "wikilink")**綽號「許胖」，曾四奪[中華民國全國羽球排名賽男子單打冠軍](../Page/中華民國全國羽球排名賽.md "wikilink")？
 
 <noinclude>
 請將過去與台灣有關的「**[你知道嗎?](https://zh.wikipedia.org/wiki/WP:DYK "wikilink")**」存檔。月份依登上DYK的日期為準。
@@ -16,6 +16,14 @@
 ### 2019年
 
 #### 5月
+
+  - [臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[南屯區](../Page/南屯區.md "wikilink")**[哪座媽祖廟](../Page/萬和宮_\(台中市\).md "wikilink")**有祭祀一位姓廖的媽祖，其建築與祭祀分別被列為[臺中市文化資產的](../Page/臺中市文化資產.md "wikilink")[古蹟](https://zh.wikipedia.org/wiki/臺中市文化資產#直轄市定古蹟 "wikilink")、無形文化資產，在[端午節附近居民會穿木屐叫醒當地傳說中的穿山甲](https://zh.wikipedia.org/wiki/端午節 "wikilink")？
+  - 臺灣[澎湖群島](../Page/澎湖群島.md "wikilink")**[哪間廟宇](../Page/虎井觀音廟.md "wikilink")**，為[虎井嶼漁村的地方公廟](../Page/虎井嶼.md "wikilink")，並主祀[觀世音菩薩](../Page/觀世音菩薩.md "wikilink")？
+  - **[哪座水庫](../Page/小池水庫.md "wikilink")**是[臺灣](../Page/臺灣.md "wikilink")[澎湖縣](../Page/澎湖縣.md "wikilink")[西嶼鄉唯一的](https://zh.wikipedia.org/wiki/西嶼鄉 "wikilink")[水庫](../Page/水庫.md "wikilink")？
+  - **[哪一種小型豬種](../Page/蘭嶼豬.md "wikilink")**是原產於蘭嶼，並且為台灣唯一的小型豬種原？
+  - [臺灣](../Page/臺灣.md "wikilink")[屏東縣](../Page/屏東縣.md "wikilink")[新埤鄉的](https://zh.wikipedia.org/wiki/新埤鄉 "wikilink")**[哪一處眷村](../Page/玉環新村.md "wikilink")**以[浙江省](../Page/浙江省.md "wikilink")[玉環縣的](https://zh.wikipedia.org/wiki/玉環縣 "wikilink")[披山島移民為人口大宗](https://zh.wikipedia.org/wiki/披山島 "wikilink")？
+  - [臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[東勢區](../Page/東勢區.md "wikilink")**[哪座廟宇](../Page/東勢巧聖仙師祖廟.md "wikilink")**被視為臺灣主祀[魯班的開基祖廟](https://zh.wikipedia.org/wiki/魯班 "wikilink")？
+  - 台灣工地工程師[林立青在](../Page/林立青_\(作家\).md "wikilink")2017年推出**[哪一本描寫台灣勞工的散文集](../Page/做工的人.md "wikilink")**，不但獲得優異的銷量，還被改編為電視劇？
 
 #### 4月
 
@@ -1593,7 +1601,7 @@
 
 #### 3月
 
-  - **[哪一個台灣廣播節目](https://zh.wikipedia.org/wiki/為人民服務_\(央廣\) "wikilink")**連線採訪許多中國維權人士，促進兩岸人權對話，被主持人[楊憲宏形容為](../Page/楊憲宏.md "wikilink")「中國的地下電台」？
+  - **[哪一個台灣廣播節目](https://zh.wikipedia.org/wiki/為人民服務·楊憲宏時間\) "wikilink")**連線採訪許多中國維權人士，促進兩岸人權對話，被主持人[楊憲宏形容為](../Page/楊憲宏.md "wikilink")「中國的地下電台」？
   - 臺灣**[哪位校長](../Page/蔡炳坤.md "wikilink")**是[建國中學與](https://zh.wikipedia.org/wiki/建國中學 "wikilink")[台中一中的首名非官派校長](https://zh.wikipedia.org/wiki/台中一中 "wikilink")？
   - [臺灣](../Page/臺灣.md "wikilink")[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[八里區有](https://zh.wikipedia.org/wiki/八里區 "wikilink")**[哪座廟](../Page/漢民祠.md "wikilink")**以祭祀[廖添丁聞名](../Page/廖添丁.md "wikilink")？
   - **[哪一位金門人](../Page/王世傑_\(金門\).md "wikilink")**是清康熙年間帶領漢人在臺灣竹塹地區（今[新竹市一帶](https://zh.wikipedia.org/wiki/新竹市 "wikilink")）開墾農地、建立聚落的領袖？

@@ -2422,6 +2422,66 @@
 <td><p>12月11日</p></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p><strong><big>小魔女doremi搞笑劇場</big></strong></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第1话</p></td>
+<td><p>結成！ お笑いMAHO堂</p></td>
+<td><p>結成！ 搞笑魔法堂</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>第2话</p></td>
+<td><p>今は昔 パート1</p></td>
+<td><p>很久很久以前 Part1</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第3话</p></td>
+<td><p>誰が突っ込み？</p></td>
+<td><p>誰才是吐槽役？</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>第4话</p></td>
+<td><p>連想クイズ</p></td>
+<td><p>聯想測試</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第5话</p></td>
+<td><p>ステーキの呪い</p></td>
+<td><p>牛排的詛咒</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

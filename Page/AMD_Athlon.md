@@ -113,7 +113,7 @@ AM1](../Page/Socket_AM1.md "wikilink")[插座](../Page/CPU插座.md "wikilink")�
 ## Zen Athlon
 
 於2018年推出的Zen
-Athlon，採用[Zen微架構](https://zh.wikipedia.org/wiki/Zen微架構 "wikilink")，主要面向低階家用市場，競爭對手是[Pentium](https://zh.wikipedia.org/wiki/Pentium "wikilink")。首款產品Athlon
+Athlon，採用[Zen微架構](https://zh.wikipedia.org/wiki/Zen微架構 "wikilink")，主要面向低階家用市場，競爭對手是[Pentium和](https://zh.wikipedia.org/wiki/Pentium "wikilink")[Celeron](https://zh.wikipedia.org/wiki/Celeron "wikilink")。首款產品Athlon
 200GE採用雙核四執行緒設計。中高階產品則是[AMD Ryzen](../Page/AMD_Ryzen.md "wikilink")。
 
 ## 优点与缺点

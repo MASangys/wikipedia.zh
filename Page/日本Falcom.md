@@ -1,12 +1,11 @@
-**日本Falcom股份有限公司**（；）是主要開發及販售[電腦](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")[遊戲軟體的日本公司](https://zh.wikipedia.org/wiki/遊戲軟體 "wikilink")，其代表作品有《[Dragon
+**日本Falcom股份有限公司**（；）是主要開發及販售[电脑游戏的日本公司](../Page/电脑游戏.md "wikilink")，其代表作品有《[Dragon
 Slayer系列](../Page/Dragon_Slayer系列.md "wikilink")》、《[伊蘇系列](https://zh.wikipedia.org/wiki/伊蘇系列 "wikilink")》和《[英雄傳說系列](../Page/英雄傳說系列.md "wikilink")》等。
 
 ## 概要
 
 [Toshihiro_Kondo.jpg](https://zh.wikipedia.org/wiki/File:Toshihiro_Kondo.jpg "fig:Toshihiro_Kondo.jpg")
 
-1981年3月由[加藤正幸創立](https://zh.wikipedia.org/wiki/加藤正幸 "wikilink")，最早為[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[蘋果電腦在日本的代理經銷商](https://zh.wikipedia.org/wiki/蘋果電腦 "wikilink")。Falcom的名稱來至於《[星際大戰](../Page/星際大戰.md "wikilink")》中的[千年隼號](https://zh.wikipedia.org/wiki/千年隼號 "wikilink")（Millennium
-Falcon）與[電腦](https://zh.wikipedia.org/wiki/電腦 "wikilink")（Computer）的「COM」結合而成。
+，。
 
 2001年遊戲部門從公司內單獨分割出來，成為了現在的「日本Falcom股份有限公司」。2003年12月2日在[東京證券交易所上市](../Page/東京證券交易所.md "wikilink")，而原公司則更名為「股份有限公司Falcom」，經營方向為[資訊科技和投資事業](https://zh.wikipedia.org/wiki/資訊科技 "wikilink")。現址位於[東京都](../Page/東京都.md "wikilink")[立川市](../Page/立川市.md "wikilink")[曙町](https://zh.wikipedia.org/wiki/曙町 "wikilink")，現任代表社長為[近藤季洋](https://zh.wikipedia.org/wiki/近藤季洋 "wikilink")。
 
@@ -66,8 +65,11 @@ jdk](https://zh.wikipedia.org/wiki/Falcom_Sound_Team_jdk "wikilink")》為旗下
             海之槛歌](https://zh.wikipedia.org/wiki/英雄传说V_海之槛歌 "wikilink")
             1999年
       - [軌跡系列](https://zh.wikipedia.org/wiki/軌跡系列 "wikilink") 2004年－
-          - [英雄傳說VI 空之軌跡](../Page/英雄傳說VI_空之軌跡.md "wikilink") （含FC、SC、the
-            3rd三部作品）2004年－2007年
+          - [英雄傳說VI](../Page/英雄傳說VI_空之軌跡.md "wikilink")
+              - [英雄传说 空之轨迹FC](../Page/英雄傳說VI_空之軌跡.md "wikilink") 2004年
+              - [英雄传说 空之轨迹SC](../Page/英雄傳說VI_空之軌跡.md "wikilink") 2006年
+              - [英雄传说 空之轨迹the](../Page/英雄傳說VI_空之軌跡.md "wikilink") 3rd
+                2007年
           - [英雄傳說VII](../Page/英雄傳說VII.md "wikilink")\[1\]\[2\]
               - [英雄傳說
                 零之軌跡](https://zh.wikipedia.org/wiki/英雄傳說_零之軌跡 "wikilink")
@@ -75,23 +77,25 @@ jdk](https://zh.wikipedia.org/wiki/Falcom_Sound_Team_jdk "wikilink")》為旗下
               - [英雄傳說
                 碧之軌跡](https://zh.wikipedia.org/wiki/英雄傳說_碧之軌跡 "wikilink")
                 2011年
-          - [英雄傳說 閃之軌跡](../Page/英雄傳說_閃之軌跡.md "wikilink") 2013年
-          - [英雄傳說
-            閃之軌跡2](https://zh.wikipedia.org/wiki/英雄傳說_閃之軌跡#閃之軌跡II "wikilink")
-            2014年
+          - [英雄傳說Ⅷ](../Page/英雄傳說_閃之軌跡.md "wikilink")
+              - [閃之軌跡1](https://zh.wikipedia.org/wiki/英雄傳說_閃之軌跡#閃之軌跡II "wikilink")
+                2013年
+              - [閃之軌跡2](https://zh.wikipedia.org/wiki/英雄傳說_閃之軌跡#閃之軌跡II "wikilink")
+                2014年
+              - [閃之軌跡3](https://zh.wikipedia.org/wiki/英雄傳說_閃之軌跡#閃之軌跡III "wikilink")
+                2017年
+              - [闪之轨迹4 -THE END OF
+                SAGA-](https://zh.wikipedia.org/wiki/英雄傳說_閃之軌跡#閃之軌跡IV_-THE_END_OF_SAGA- "wikilink")
+                2018年
           - [英雄传说
             晓之轨迹](https://zh.wikipedia.org/wiki/英雄传说_晓之轨迹 "wikilink")
             2016年
-          - [英雄傳說
-            閃之軌跡3](https://zh.wikipedia.org/wiki/英雄傳說_閃之軌跡#閃之軌跡III "wikilink")
-            2017年
-          - [英雄传说 闪之轨迹4 -THE END OF
-            SAGA-](https://zh.wikipedia.org/wiki/英雄傳說_閃之軌跡#閃之軌跡IV_-THE_END_OF_SAGA- "wikilink")
-            2018年
 
   - 1990年
 
-      - DINOSAUR ～Resurrection～ 2002年
+      - [DINOSAUR
+        ～Resurrection～](https://zh.wikipedia.org/wiki/DINOSAUR_～Resurrection～ "wikilink")
+        2002年
 
   - [Brandish](https://zh.wikipedia.org/wiki/Brandish "wikilink")（撼天神塔系列）1991年－2009年
 

@@ -1,11 +1,13 @@
-**Windows Defender**，曾用名**Microsoft
-AntiSpyware**，是用来移除、隔离和预防[间谍软件的程序](../Page/间谍软件.md "wikilink")，可以运行在[Windows
+**Windows Defender**（[Windows
+10创意者更新后名为](https://zh.wikipedia.org/wiki/Windows_10#版本_1703（創意者更新） "wikilink")**Windows
+Defender Antivirus**），曾用名**Microsoft
+AntiSpyware**，最初是用来移除、隔离和预防[间谍软件的程序](../Page/间谍软件.md "wikilink")，可以运行在[Windows
 XP以及更高版本的操作系统上](../Page/Windows_XP.md "wikilink")，並已經內置在[Windows
-Vista以及以後的版本中](../Page/Windows_Vista.md "wikilink")。测试版于[2005年](../Page/2005年.md "wikilink")[1月6日发布](../Page/1月6日.md "wikilink")，在2005年[6月23日](../Page/6月23日.md "wikilink")、[2006年](../Page/2006年.md "wikilink")[2月17日微软又发布了更新的测试版本](../Page/2月17日.md "wikilink")。Windows
+Vista以及以後的版本中](../Page/Windows_Vista.md "wikilink")。Windows
 Defender的定义库更新很频繁。在[Windows
-8中与](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")[Microsoft
+8及之后的系统中取代](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")[Microsoft
 Security
-Essentials整合](../Page/Microsoft_Security_Essentials.md "wikilink")。
+Essentials](../Page/Microsoft_Security_Essentials.md "wikilink")，成为一款全面反病毒软件。
 
 Windows
 Defender不像某些其他同类免费产品一样只能扫描系统，还可以对系统进行实时监控，移除已經安装的[ActiveX插件](../Page/ActiveX.md "wikilink")\[1\]，清除大多数微软的程序和其他常用程序的历史纪录。

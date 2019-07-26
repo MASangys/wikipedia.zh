@@ -1,6 +1,4 @@
-**SMAP**是[日本活跃于](../Page/日本.md "wikilink")1988年至2016年期间的[偶像](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[男子组合](../Page/男子音乐组合.md "wikilink")，隶属于[杰尼斯事务所](https://zh.wikipedia.org/wiki/杰尼斯事务所 "wikilink")，由[JVC建伍胜利娱乐株式会社发行其唱片](../Page/勝利娛樂.md "wikilink")。\[1\]\[2\]
-在组合活动的28年期间内，得到了日本国民的喜爱，\[3\]\[4\] 并获得了“国民团体”的美誉。\[5\]\[6\]\[7\]
-2011年5月21日，获得时任[中华人民共和国国家](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")[总理](../Page/总理.md "wikilink")[温家宝的接见](../Page/温家宝.md "wikilink")，成为中国领导人多年来首次单独会晤的日本艺人。\[8\]
+**SMAP**是[日本活跃于](../Page/日本.md "wikilink")1988年至2016年期间的[偶像](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[男子组合](../Page/男子音乐组合.md "wikilink")，隶属于[杰尼斯事务所](https://zh.wikipedia.org/wiki/杰尼斯事务所 "wikilink")，由[JVC建伍胜利娱乐株式会社发行其唱片](../Page/勝利娛樂.md "wikilink")。\[1\]\[2\]在组合活动的28年期间内，得到了日本国民的喜爱\[3\]\[4\]，并获得了“国民团体”的美誉。\[5\]\[6\]\[7\]2011年5月21日，获得时任[中华人民共和国国家](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")[总理](../Page/总理.md "wikilink")[温家宝的接见](../Page/温家宝.md "wikilink")，成为中国领导人多年来首次单独会晤的日本艺人。\[8\]
 2016年12月31日，组合正式解散。\[9\]\[10\]
 
 ## 组合成员

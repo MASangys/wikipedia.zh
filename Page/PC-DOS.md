@@ -1,6 +1,6 @@
 [PC-DOS-7-Cover-72dpi.png](https://zh.wikipedia.org/wiki/File:PC-DOS-7-Cover-72dpi.png "fig:PC-DOS-7-Cover-72dpi.png")
 **PC-DOS**是[IBM
-PC](../Page/IBM_PC.md "wikilink")[个人电脑上使用的一种](../Page/个人电脑.md "wikilink")[DOS](../Page/DOS.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")，由[微软为](../Page/微软.md "wikilink")[IBM开发](../Page/IBM.md "wikilink")。同时[微软也以](../Page/微软.md "wikilink")[MS-DOS名销售同一软件](../Page/MS-DOS.md "wikilink")。
+PC](../Page/IBM_PC.md "wikilink")[个人电脑使用的](../Page/个人电脑.md "wikilink")[DOS](../Page/DOS.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")，由[微软为](../Page/微软.md "wikilink")[IBM开发](../Page/IBM.md "wikilink")。同时[微软也以](../Page/微软.md "wikilink")[MS-DOS之名销售同一软件](../Page/MS-DOS.md "wikilink")。
 
 自1993年的IBM PC DOS 6.1起，IBM與微軟分道揚鑣，開始獨立發展。
 

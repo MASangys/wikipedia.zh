@@ -20,7 +20,7 @@ Enviro
 DIWA864.3E四前速波箱或[ZF](https://zh.wikipedia.org/wiki/ZF "wikilink")
 5HP602C五前速波箱。自2003年起，亦可配搭Voith DIWA864.5D4四前速或ZF
 6HP602C六前速波箱（2007年打後改為ZF 6HP604C六前速波箱）。Enviro
-500與前代的丹尼士三叉戟三型相同，以中軸為驅動軸。巴士的所有車軸設有氣墊懸掛系統，唯平衡系统仍為舊式機械控制，在起伏道路的行車穩定性不如採用主動平衡系統的[富豪B10TL及](https://zh.wikipedia.org/wiki/富豪B10TL "wikilink")[富豪B9TL等競爭對手](https://zh.wikipedia.org/wiki/富豪B9TL "wikilink")。
+500與前代的丹尼士三叉戟三型相同，以中軸為驅動軸。巴士的所有車軸設有氣墊懸掛系統，唯平衡系统仍為舊式機械控制，在起伏道路的行車穩定性不如採用主動平衡系統的[富豪B10TL及](https://zh.wikipedia.org/wiki/富豪B10TL "wikilink")[富豪B9TL等競爭對手](../Page/富豪B9TL.md "wikilink")。
 
 ### 車身
 
@@ -32,7 +32,7 @@ President車身相似，而車身的地台架亦會預裝在底盤上。2003年�
 II），而此車身於其後改大上層車尾的指揮燈。2009年，廠方推出電視檔（俗稱：底褲）供買家選用。2010年，廠方重新設計空調機散熱口。
 
 Enviro 500 MK II
-車身亦可以安裝在[富豪B9TL底盤上](https://zh.wikipedia.org/wiki/富豪B9TL "wikilink")。[香港的](../Page/香港.md "wikilink")[九龍巴士](../Page/九龍巴士.md "wikilink")、[龍運巴士及](../Page/龍運巴士.md "wikilink")[愛爾蘭](https://zh.wikipedia.org/wiki/愛爾蘭共和國 "wikilink")[都柏林的都柏林巴士公司均有採用相似組合](../Page/都柏林.md "wikilink")。
+車身亦可以安裝在[富豪B9TL底盤上](../Page/富豪B9TL.md "wikilink")。[香港的](../Page/香港.md "wikilink")[九龍巴士](../Page/九龍巴士.md "wikilink")、[龍運巴士及](../Page/龍運巴士.md "wikilink")[愛爾蘭](https://zh.wikipedia.org/wiki/愛爾蘭共和國 "wikilink")[都柏林的都柏林巴士公司均有採用相似組合](../Page/都柏林.md "wikilink")。
 
 ### 長度版本
 
@@ -102,7 +102,7 @@ DIWA864.5D4波箱，其餘30部則採用ZF
 5HP602波箱。由第三批巴士開始，上層車頭的報站機外殼由灰色改為白色，而所有連接天花和座椅的扶手俱裝設下車鐘（首批120部車輛上層只於右邊扶手設下車鐘）。而第四批巴士車廂則改用透光度較高的光管罩。
 
 由於2003年九廣西鐵（今[西鐵綫](../Page/西鐵綫.md "wikilink")）和2004年馬鞍山鐵路（今[馬鞍山綫](../Page/馬鞍山綫.md "wikilink")）啟用，運輸署要求九巴減少巴士車隊數量；因此這兩批Enviro
-500抵港後需要延遲登記，並停放在各車廠。其中112輛巴士在2003年11月到2005年6月投入服務，而餘下的3輛巴士已於2005年8月出牌前轉讓予同集團的[龍運巴士成為](../Page/龍運巴士.md "wikilink")801-803。
+500抵港後需要延遲登記，並停放在各車廠。其中112輛巴士在2003年11月到2005年6月投入服務，而餘下的3輛巴士已於2005年8月出牌前轉讓予同母公司的[龍運巴士成為](../Page/龍運巴士.md "wikilink")801-803。
 
 2005年，載通國際訂購30輛配Enviro 500 Mark II的Enviro
 500，下層樓梯後雙人位由橫向改為向前。這批新車有25輛使用Voith

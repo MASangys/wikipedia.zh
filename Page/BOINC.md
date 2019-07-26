@@ -22,9 +22,9 @@ Conjecture和](https://zh.wikipedia.org/wiki/Collatz_Conjecture "wikilink")[DNET
 ### 生物學、醫學
 
   - [Docking@Home](../Page/Docking@Home.md "wikilink")—研究更深入的[蛋白質鍵結和反應的](https://zh.wikipedia.org/wiki/蛋白質 "wikilink")[原子等級構造和細節](../Page/原子.md "wikilink")，並藉由其研究結果來研發藥物以治療人類疾病，目前已停止運作。
-  - [DrugDiscovery@Home](https://zh.wikipedia.org/wiki/DrugDiscovery@Home "wikilink")—研發藥物以治療人類疾病。
+  - [DrugDiscovery@Home](https://zh.wikipedia.org/wiki/DrugDiscovery@Home "wikilink")—研發藥物以治療人類疾病，目前已停止運作。
   - [Malaria
-    Control](https://zh.wikipedia.org/wiki/Malaria_Control "wikilink")—模擬[瘧疾的影響及控制](https://zh.wikipedia.org/wiki/瘧疾 "wikilink")。
+    Control](https://zh.wikipedia.org/wiki/Malaria_Control "wikilink")—模擬[瘧疾的影響及控制](https://zh.wikipedia.org/wiki/瘧疾 "wikilink")，目前已停止運作。
   - [Predictor@home](https://zh.wikipedia.org/wiki/Predictor@home "wikilink")—預測蛋白質的結構，目前已停止運作。
   - [Proteins@home](https://web.archive.org/web/20080325060652/http://biology.polytechnique.fr/proteinsathome/)—推論[DNA的次序](https://zh.wikipedia.org/wiki/去氧核醣核酸 "wikilink")，目前已停止運作。
   - [GPUGRID.net](http://www.gpugrid.net/index.php)—研究[分子生物](https://zh.wikipedia.org/wiki/分子生物 "wikilink")[動力學相關的研究](../Page/動力學.md "wikilink")，主要運行環境為支援[CUDA的NVidia](../Page/CUDA.md "wikilink")
@@ -39,17 +39,17 @@ Conjecture和](https://zh.wikipedia.org/wiki/Collatz_Conjecture "wikilink")[DNET
     Proteins](https://web.archive.org/web/20080625060947/http://boinc.bio.wzw.tum.de/boincsimap/)）－
     一个蛋白質同源計算序列並可以對這些序列數據提供專業的檢索工具的數據庫，目前已停止運作。
   - [TANPAKU](https://zh.wikipedia.org/wiki/TANPAKU "wikilink")—利用[布朗動力學方法計算蛋白質的結構](https://zh.wikipedia.org/wiki/布朗動力學 "wikilink")，目前已停止運作。
-  - [POEM@HOME](https://zh.wikipedia.org/wiki/POEM@HOME "wikilink")—利用能量法來研究蛋白質的結構。
+  - [POEM@HOME](https://zh.wikipedia.org/wiki/POEM@HOME "wikilink")—利用能量法來研究蛋白質的結構，目前已停止運作。
   - [MindModeling@Home](https://zh.wikipedia.org/wiki/MindModeling@Home "wikilink")—研究人類腦部的[認知科學](https://zh.wikipedia.org/wiki/認知科學 "wikilink")。
-  - [Superlink@Technion](https://zh.wikipedia.org/wiki/Superlink@Technion "wikilink")—幫助科學家研究人類[基因及其異常所產生的疾病](../Page/基因.md "wikilink")。
+  - [Superlink@Technion](https://zh.wikipedia.org/wiki/Superlink@Technion "wikilink")—幫助科學家研究人類[基因及其異常所產生的疾病](../Page/基因.md "wikilink")，目前已停止運作。
   - [The Lattice
-    Project](https://zh.wikipedia.org/wiki/The_Lattice_Project "wikilink")—[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[馬里蘭大學的研究](https://zh.wikipedia.org/wiki/馬里蘭大學 "wikilink")[生物資訊學領域相關的分布式計算平台](https://zh.wikipedia.org/wiki/生物資訊學 "wikilink")。
+    Project](https://zh.wikipedia.org/wiki/The_Lattice_Project "wikilink")—[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[馬里蘭大學的研究](https://zh.wikipedia.org/wiki/馬里蘭大學 "wikilink")[生物資訊學領域相關的分布式計算平台](https://zh.wikipedia.org/wiki/生物資訊學 "wikilink")，目前已停止運作。
   - [Virtual
     Prairie](https://zh.wikipedia.org/wiki/Virtual_Prairie "wikilink")
   - [Cels@Home](https://zh.wikipedia.org/wiki/Cels@Home "wikilink")
   - [RNA
     world](https://zh.wikipedia.org/wiki/RNA_world "wikilink")—研究分析生物中[RNA的分子結構](https://zh.wikipedia.org/wiki/核醣核酸 "wikilink")。
-  - [DNA@Home](https://zh.wikipedia.org/wiki/DNA@Home "wikilink")—研究有關生物中DNA的基因調控作用。
+  - [DNA@Home](https://zh.wikipedia.org/wiki/DNA@Home "wikilink")—研究有關生物中DNA的基因調控作用，目前已停止運作。
   - [FightNeglectedDiseases@Home](https://zh.wikipedia.org/wiki/FightNeglectedDiseases@Home "wikilink")（FiND@Home）
 
 ### 氣象學、地球科學

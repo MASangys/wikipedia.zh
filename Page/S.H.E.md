@@ -9,37 +9,15 @@
 | 出道作 =
 專輯《[女生宿舍](https://zh.wikipedia.org/wiki/女生宿舍_\(S.H.E\) "wikilink")》
 | 代表作 = 〈戀人未滿〉
-〈Remember〉
 〈熱帶雨林〉
-〈美麗新世界〉
 〈花都開好了〉
-〈遠方〉
-〈Super Star〉
-〈波斯貓〉
-〈痛快〉
-〈不想長大〉
-〈天灰〉
-〈怎麼辦〉
-〈中國話〉
-〈老婆〉
-〈宇宙小姐〉
-〈安靜了〉
-〈SHERO〉
-〈愛上你〉
-〈我愛雨夜花〉
-〈花又開好了〉
-〈心還是熱的〉
-〈你曾是少年〉
-〈永遠都在〉
-〈十七〉 | 活躍年代 = 2001年－至今 | 唱片公司 =
+〈Super Star〉〈十七〉 | 活躍年代 = 2001年－至今 | 唱片公司 =
 [華研國際音樂](../Page/華研國際音樂.md "wikilink")（2000年－2018年10月）
 田馥甄：[何樂音樂](../Page/何樂音樂.md "wikilink")（2019年4月30日－至今） | 經紀公司 =
 [華研國際音樂](../Page/華研國際音樂.md "wikilink")（2000年－2018年9月30日）
 任家萱：[任真美好](https://zh.wikipedia.org/wiki/任真美好有限公司 "wikilink")（2018年10月－至今）
 田馥甄：[樂來樂好](../Page/樂來樂好有限公司.md "wikilink")（2018年10月－至今）
-陳嘉樺：[勁樺娛樂](../Page/勁樺娛樂有限公司.md "wikilink")（2018年10月－至今） | 網站 =
-[華研國際音樂官方網站](http://www.him.com.tw/artistscon2.php?tid=9)
-| 現任成員 =
+陳嘉樺：[勁樺娛樂](../Page/勁樺娛樂有限公司.md "wikilink")（2018年10月－至今） | 網站 = | 現任成員 =
 [任家萱](../Page/任家萱.md "wikilink")(**S**elina)、[田馥甄](../Page/田馥甄.md "wikilink")(**H**ebe)、[陳嘉樺](../Page/陳嘉樺.md "wikilink")(**E**lla)
 | goldenmelodyawards =
 **[第14屆金曲獎](https://zh.wikipedia.org/wiki/第14屆金曲獎 "wikilink")[最佳重唱組合獎](../Page/最佳演唱組合獎_\(金曲獎\).md "wikilink")**
@@ -53,7 +31,7 @@
 2013年 年度最佳組合獎
 [HITO流行音樂獎](https://zh.wikipedia.org/wiki/HITO流行音樂獎 "wikilink")
 2013年 年度HITO最佳團體
-(更多於得獎與提名) | imdb = 1997035 }}
+(更多[得獎與提名](../Page/S.H.E得獎與提名列表.md "wikilink")) | imdb = 1997035 }}
 
 **S.H.E**，為[臺灣知名](../Page/臺灣.md "wikilink")[女子演唱團體](https://zh.wikipedia.org/wiki/女子演唱團體 "wikilink")，其團名取自三位成員[英文名字的首個](https://zh.wikipedia.org/wiki/英文名字 "wikilink")[字母](../Page/英文字母.md "wikilink")，是由[**S**elina](../Page/任家萱.md "wikilink")（任家萱）、[**H**ebe](../Page/田馥甄.md "wikilink")（田馥甄）和[**E**lla](../Page/陳嘉樺.md "wikilink")（陳嘉樺）三位成員組成。三人在2000年參加《宇宙2000實力美少女爭霸戰》選秀比賽，之後被[宇宙唱片](../Page/華研國際音樂.md "wikilink")（現名[華研國際音樂](../Page/華研國際音樂.md "wikilink")）簽下培訓後，於2001年9月11日正式出道，發行首張專輯《[女生宿舍](../Page/女生宿舍_\(專輯\).md "wikilink")》。
 

@@ -403,10 +403,15 @@ Love
 Mr.Children」則發起2月2日的手幅應援活動，在安可曲唱畢後舉出，現場共有8,740名歌迷參與。此舉令Mr.Children與工作人員相當感動，隔天在Father\&Mother（Fan
 Club）及官方Facebook貼出手幅照片表達致謝之意。另外，據稱還有日、台、港的藝人與歌手紛紛前來「朝聖」，如[嵐的](../Page/嵐.md "wikilink")[櫻井翔](../Page/櫻井翔.md "wikilink")、[五月天的](../Page/五月天.md "wikilink")[阿信及](https://zh.wikipedia.org/wiki/阿信 "wikilink")[瑪莎夫婦](https://zh.wikipedia.org/wiki/瑪莎 "wikilink")、[楊丞琳](../Page/楊丞琳.md "wikilink")、[炎亞綸](../Page/炎亞綸.md "wikilink")、[余文樂](../Page/余文樂.md "wikilink")、[何韻詩等](https://zh.wikipedia.org/wiki/何韻詩 "wikilink")。
 
-4月19日，宣佈將於6月26日發行最新LIVE DVD & Blu-ray 《Mr.Children Tour 2018-19 重力と呼吸》。
+4月8日，「Mr.Children Dome Tour 2019 "Against All
+GRAVITY"」巡迴宣布於6月1、2日在沖繩追加公演。
 
-5月27日，公開最新LIVE DVD & Blu-ray 《Mr.Children Tour 2018-19
+4月19日，宣佈將於6月26日發行最新LIVE DVD & Blu-ray《Mr.Children Tour 2018-19 重力と呼吸》。
+
+5月27日，公開最新LIVE DVD & Blu-ray《Mr.Children Tour 2018-19
 重力と呼吸》的宣傳影片，分別有15秒、30秒及1分43秒3個版本，並公佈將收錄首次海外在台北單獨公演的影像，長度約19分鐘。同時公告在台灣開設官方的網路商店，台灣歌迷可利用官方網路商店購買到最新的作品。
+
+6月26日正式發行《Mr.Children Tour 2018-19 重力と呼吸》，首週共銷售8.5萬張，獲Oricon榜第一位。\[82\]
 
 ## 作品列表
 
@@ -540,8 +545,8 @@ Club）及官方Facebook貼出手幅照片表達致謝之意。另外，據稱�
 <tr class="odd">
 <td style="text-align: left;"><p>1994</p></td>
 <td style="text-align: left;"><ul>
-<li>第3回<a href="../Page/日劇學院賞.md" title="wikilink">日劇學院賞</a> 主題曲賞：《<a href="../Page/Tomorrow_never_knows_(Mr.Children單曲).md" title="wikilink">Tomorrow never knows</a>》[82]</li>
-<li>第36回<a href="../Page/日本唱片大獎.md" title="wikilink">日本唱片大獎</a>[83]
+<li>第3回<a href="../Page/日劇學院賞.md" title="wikilink">日劇學院賞</a> 主題曲賞：《<a href="../Page/Tomorrow_never_knows_(Mr.Children單曲).md" title="wikilink">Tomorrow never knows</a>》[83]</li>
+<li>第36回<a href="../Page/日本唱片大獎.md" title="wikilink">日本唱片大獎</a>[84]
 <ul>
 <li>日本唱片大獎：《<a href="https://zh.wikipedia.org/wiki/innocent_world" title="wikilink">innocent world</a>》</li>
 <li>最佳專輯獎：《<a href="../Page/Atomic_Heart.md" title="wikilink">Atomic Heart</a>》</li>
@@ -551,35 +556,35 @@ Club）及官方Facebook貼出手幅照片表達致謝之意。另外，據稱�
 <tr class="even">
 <td style="text-align: left;"><p>1995</p></td>
 <td style="text-align: left;"><ul>
-<li>第9回<a href="../Page/日本金唱片大獎.md" title="wikilink">日本金唱片大獎</a>[84]
+<li>第9回<a href="../Page/日本金唱片大獎.md" title="wikilink">日本金唱片大獎</a>[85]
 <ul>
 <li>五大最佳藝人</li>
 <li>最佳單曲大獎：《<a href="../Page/Tomorrow_never_knows_(Mr.Children單曲).md" title="wikilink">Tomorrow never knows</a>》</li>
 <li>五大最佳單曲：《Tomorrow never knows》、《<a href="https://zh.wikipedia.org/wiki/innocent_world" title="wikilink">innocent world</a>》</li>
 <li>最佳專輯獎：《<a href="../Page/Atomic_Heart.md" title="wikilink">Atomic Heart</a>》</li>
 </ul></li>
-<li>第13回<a href="../Page/JASRAC獎.md" title="wikilink">JASRAC獎</a> 銀獎：《innocent world》[85]</li>
-<li>第37回<a href="../Page/日本唱片大獎.md" title="wikilink">日本唱片大獎</a> 優秀作品賞：《<a href="../Page/See-Saw_Game_～勇敢的戀曲～.md" title="wikilink">See-Saw Game ～勇敢的戀曲～</a>》[86]</li>
+<li>第13回<a href="../Page/JASRAC獎.md" title="wikilink">JASRAC獎</a> 銀獎：《innocent world》[86]</li>
+<li>第37回<a href="../Page/日本唱片大獎.md" title="wikilink">日本唱片大獎</a> 優秀作品賞：《<a href="../Page/See-Saw_Game_～勇敢的戀曲～.md" title="wikilink">See-Saw Game ～勇敢的戀曲～</a>》[87]</li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><p>1996</p></td>
 <td style="text-align: left;"><ul>
-<li>第10回<a href="../Page/日本金唱片大獎.md" title="wikilink">日本金唱片大獎</a> 五大最佳單曲：《<a href="../Page/See-Saw_Game_～勇敢的戀曲～.md" title="wikilink">See-Saw Game ～勇敢的戀曲～</a>》[87]</li>
+<li>第10回<a href="../Page/日本金唱片大獎.md" title="wikilink">日本金唱片大獎</a> 五大最佳單曲：《<a href="../Page/See-Saw_Game_～勇敢的戀曲～.md" title="wikilink">See-Saw Game ～勇敢的戀曲～</a>》[88]</li>
 </ul></td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"><p>1997</p></td>
 <td style="text-align: left;"><ul>
-<li>第11回<a href="../Page/日本金唱片大獎.md" title="wikilink">日本金唱片大獎</a> [88]
+<li>第11回<a href="../Page/日本金唱片大獎.md" title="wikilink">日本金唱片大獎</a> [89]
 <ul>
 <li>五大最佳藝人</li>
 <li>最佳單曲大獎：《<a href="../Page/無名的詩.md" title="wikilink">無名的詩</a>》</li>
 <li>五大最佳單曲：《<a href="../Page/花_-Mémento-Mori-.md" title="wikilink">花 -Mémento-Mori-</a>》、《無名的詩》</li>
 <li>最佳專輯獎：《<a href="../Page/深海_(專輯).md" title="wikilink">深海</a>》</li>
 </ul></li>
-<li>第15回<a href="../Page/JASRAC獎.md" title="wikilink">JASRAC獎</a> 銀獎：《無名的詩》[89]</li>
-<li><a href="https://zh.wikipedia.org/wiki/國際唱片業協會#香港" title="wikilink">IFPIHK金唱片獎項</a>[90]
+<li>第15回<a href="../Page/JASRAC獎.md" title="wikilink">JASRAC獎</a> 銀獎：《無名的詩》[90]</li>
+<li><a href="https://zh.wikipedia.org/wiki/國際唱片業協會#香港" title="wikilink">IFPIHK金唱片獎項</a>[91]
 <ul>
 <li>International Gold Disc：《<a href="https://zh.wikipedia.org/wiki/LAND_IN_ASIA" title="wikilink">LAND IN ASIA</a>》</li>
 <li>International Platinum Disc：《<a href="../Page/BOLERO_(專輯).md" title="wikilink">BOLERO</a>》、《LAND IN ASIA》、《深海》</li>
@@ -589,56 +594,56 @@ Club）及官方Facebook貼出手幅照片表達致謝之意。另外，據稱�
 <tr class="odd">
 <td style="text-align: left;"><p>1998</p></td>
 <td style="text-align: left;"><ul>
-<li>第12回<a href="../Page/日本金唱片大獎.md" title="wikilink">日本金唱片大獎</a> 年度搖滾專輯：《<a href="../Page/BOLERO_(專輯).md" title="wikilink">BOLERO</a>》[91]</li>
+<li>第12回<a href="../Page/日本金唱片大獎.md" title="wikilink">日本金唱片大獎</a> 年度搖滾專輯：《<a href="../Page/BOLERO_(專輯).md" title="wikilink">BOLERO</a>》[92]</li>
 </ul></td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"><p>1999</p></td>
 <td style="text-align: left;"><ul>
-<li>第13回<a href="../Page/日本金唱片大獎.md" title="wikilink">日本金唱片大獎</a> 年度最佳歌曲：《<a href="../Page/無盡的旅程.md" title="wikilink">無盡的旅程</a>》[92]</li>
+<li>第13回<a href="../Page/日本金唱片大獎.md" title="wikilink">日本金唱片大獎</a> 年度最佳歌曲：《<a href="../Page/無盡的旅程.md" title="wikilink">無盡的旅程</a>》[93]</li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><p>2000</p></td>
 <td style="text-align: left;"><ul>
-<li>第14回<a href="../Page/日本金唱片大獎.md" title="wikilink">日本金唱片大獎</a> 年度搖滾專輯：《<a href="../Page/DISCOVERY_(Mr.Children專輯).md" title="wikilink">DISCOVERY</a>》[93]</li>
+<li>第14回<a href="../Page/日本金唱片大獎.md" title="wikilink">日本金唱片大獎</a> 年度搖滾專輯：《<a href="../Page/DISCOVERY_(Mr.Children專輯).md" title="wikilink">DISCOVERY</a>》[94]</li>
 </ul></td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"><p>2001</p></td>
 <td style="text-align: left;"><ul>
-<li>第15回<a href="../Page/日本金唱片大獎.md" title="wikilink">日本金唱片大獎</a> 年度搖滾專輯：《<a href="../Page/Q_(專輯).md" title="wikilink">Q</a>》[94]</li>
+<li>第15回<a href="../Page/日本金唱片大獎.md" title="wikilink">日本金唱片大獎</a> 年度搖滾專輯：《<a href="../Page/Q_(專輯).md" title="wikilink">Q</a>》[95]</li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><p>2002</p></td>
 <td style="text-align: left;"><ul>
-<li>第16回<a href="../Page/日本金唱片大獎.md" title="wikilink">日本金唱片大獎</a> 年度搖滾專輯：《<a href="../Page/Mr.Children_1992-1995.md" title="wikilink">Mr.Children 1992-1995</a>》、《<a href="../Page/Mr.Children_1996-2000.md" title="wikilink">Mr.Children 1996-2000</a>》[95]</li>
-<li>SPACE SHOWER Music Video Awards - BEST GROUP VIDEO：《<a href="https://zh.wikipedia.org/wiki/youthful_days" title="wikilink">youthful days</a>》[96]</li>
-<li><a href="../Page/MTV日本音樂錄影帶大獎.md" title="wikilink">MTV日本音樂錄影帶大獎</a> 年度最佳音樂錄影帶獎、最佳導演：《<a href="../Page/喜歡你_(Mr.Children單曲).md" title="wikilink">喜歡你</a>》[97]</li>
-<li>第31回<a href="../Page/日劇學院賞.md" title="wikilink">日劇學院賞</a> 主題曲賞：《youthful days》[98]</li>
+<li>第16回<a href="../Page/日本金唱片大獎.md" title="wikilink">日本金唱片大獎</a> 年度搖滾專輯：《<a href="../Page/Mr.Children_1992-1995.md" title="wikilink">Mr.Children 1992-1995</a>》、《<a href="../Page/Mr.Children_1996-2000.md" title="wikilink">Mr.Children 1996-2000</a>》[96]</li>
+<li>SPACE SHOWER Music Video Awards - BEST GROUP VIDEO：《<a href="https://zh.wikipedia.org/wiki/youthful_days" title="wikilink">youthful days</a>》[97]</li>
+<li><a href="../Page/MTV日本音樂錄影帶大獎.md" title="wikilink">MTV日本音樂錄影帶大獎</a> 年度最佳音樂錄影帶獎、最佳導演：《<a href="../Page/喜歡你_(Mr.Children單曲).md" title="wikilink">喜歡你</a>》[98]</li>
+<li>第31回<a href="../Page/日劇學院賞.md" title="wikilink">日劇學院賞</a> 主題曲賞：《youthful days》[99]</li>
 </ul></td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"><p>2003</p></td>
 <td style="text-align: left;"><ul>
-<li>第17回<a href="../Page/日本金唱片大獎.md" title="wikilink">日本金唱片大獎</a> 年度最佳搖滾·流行專輯：《<a href="../Page/IT&#39;S_A_WONDERFUL_WORLD.md" title="wikilink">IT'S A WONDERFUL WORLD</a>》[99]</li>
-<li>SPACE SHOWER Music Video Awards - BEST ANIMATION VIDEO：《<a href="../Page/HERO_(Mr.Children單曲).md" title="wikilink">-{HERO}-</a>》[100]</li>
+<li>第17回<a href="../Page/日本金唱片大獎.md" title="wikilink">日本金唱片大獎</a> 年度最佳搖滾·流行專輯：《<a href="../Page/IT&#39;S_A_WONDERFUL_WORLD.md" title="wikilink">IT'S A WONDERFUL WORLD</a>》[100]</li>
+<li>SPACE SHOWER Music Video Awards - BEST ANIMATION VIDEO：《<a href="../Page/HERO_(Mr.Children單曲).md" title="wikilink">-{HERO}-</a>》[101]</li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><p>2004</p></td>
 <td style="text-align: left;"><ul>
-<li>第18回<a href="../Page/日本金唱片大獎.md" title="wikilink">日本金唱片大獎</a> 年度最佳歌曲：《<a href="https://zh.wikipedia.org/wiki/掌/Kurumi" title="wikilink">掌/Kurumi</a>》[101]</li>
-<li>SPACE SHOWER Music Video Awards - BEST VIDEO OF THE YEAR、BEST GROUP VIDEO：《Kurumi》[102]</li>
-<li>第41回<a href="../Page/日劇學院賞.md" title="wikilink">日劇學院賞</a> 主題曲賞：《<a href="../Page/Sign_(Mr.Children單曲).md" title="wikilink">Sign</a>》[103]</li>
-<li>第46回<a href="../Page/日本唱片大獎.md" title="wikilink">日本唱片大獎</a> 日本唱片大獎、金獎：《Sign》[104][105]</li>
+<li>第18回<a href="../Page/日本金唱片大獎.md" title="wikilink">日本金唱片大獎</a> 年度最佳歌曲：《<a href="https://zh.wikipedia.org/wiki/掌/Kurumi" title="wikilink">掌/Kurumi</a>》[102]</li>
+<li>SPACE SHOWER Music Video Awards - BEST VIDEO OF THE YEAR、BEST GROUP VIDEO：《Kurumi》[103]</li>
+<li>第41回<a href="../Page/日劇學院賞.md" title="wikilink">日劇學院賞</a> 主題曲賞：《<a href="../Page/Sign_(Mr.Children單曲).md" title="wikilink">Sign</a>》[104]</li>
+<li>第46回<a href="../Page/日本唱片大獎.md" title="wikilink">日本唱片大獎</a> 日本唱片大獎、金獎：《Sign》[105][106]</li>
 </ul></td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"><p>2005</p></td>
 <td style="text-align: left;"><ul>
-<li>第19回<a href="../Page/日本金唱片大獎.md" title="wikilink">日本金唱片大獎</a> [106]
+<li>第19回<a href="../Page/日本金唱片大獎.md" title="wikilink">日本金唱片大獎</a> [107]
 <ul>
 <li>年度最佳歌曲：《<a href="../Page/Sign_(Mr.Children單曲).md" title="wikilink">Sign</a>》</li>
 <li>年度最佳搖滾·流行專輯：《<a href="../Page/至福之音.md" title="wikilink">至福之音</a>》</li>
@@ -649,20 +654,20 @@ Club）及官方Facebook貼出手幅照片表達致謝之意。另外，據稱�
 <tr class="odd">
 <td style="text-align: left;"><p>2006</p></td>
 <td style="text-align: left;"><ul>
-<li>第20回<a href="../Page/日本金唱片大獎.md" title="wikilink">日本金唱片大獎</a> 年度最佳搖滾·流行專輯：《<a href="../Page/I_♥_U.md" title="wikilink">I ♥ U</a>》、《<a href="../Page/四次元_Four_Dimensions.md" title="wikilink">四次元 Four Dimensions</a>》[107]</li>
+<li>第20回<a href="../Page/日本金唱片大獎.md" title="wikilink">日本金唱片大獎</a> 年度最佳搖滾·流行專輯：《<a href="../Page/I_♥_U.md" title="wikilink">I ♥ U</a>》、《<a href="../Page/四次元_Four_Dimensions.md" title="wikilink">四次元 Four Dimensions</a>》[108]</li>
 </ul></td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"><p>2007</p></td>
 <td style="text-align: left;"><ul>
-<li>第21回<a href="../Page/日本金唱片大獎.md" title="wikilink">日本金唱片大獎</a> 十大最佳單曲：《<a href="../Page/印記_(Mr.Children單曲).md" title="wikilink">印記</a>》、《<a href="../Page/箒星.md" title="wikilink">箒星</a>》[108]</li>
-<li>SPACE SHOWER Music Video Awards - BEST VIDEO OF THE YEAR、BEST GROUP VIDEO：《印記》[109]</li>
+<li>第21回<a href="../Page/日本金唱片大獎.md" title="wikilink">日本金唱片大獎</a> 十大最佳單曲：《<a href="../Page/印記_(Mr.Children單曲).md" title="wikilink">印記</a>》、《<a href="../Page/箒星.md" title="wikilink">箒星</a>》[109]</li>
+<li>SPACE SHOWER Music Video Awards - BEST VIDEO OF THE YEAR、BEST GROUP VIDEO：《印記》[110]</li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><p>2008</p></td>
 <td style="text-align: left;"><ul>
-<li>第22回<a href="../Page/日本金唱片大獎.md" title="wikilink">日本金唱片大獎</a>[110]
+<li>第22回<a href="../Page/日本金唱片大獎.md" title="wikilink">日本金唱片大獎</a>[111]
 <ul>
 <li>十大最佳單曲：《<a href="../Page/啟程之歌.md" title="wikilink">啟程之歌</a>》</li>
 <li>十大最佳專輯：《<a href="../Page/HOME_(Mr.Children專輯).md" title="wikilink">HOME</a>》</li>
@@ -674,22 +679,22 @@ Club）及官方Facebook貼出手幅照片表達致謝之意。另外，據稱�
 
 ### Oricon公信榜紀錄
 
-  - 唱片總銷量：，約5497.9萬張（截至2011年8月，史上第二位）\[111\]
+  - 唱片總銷量：，約5497.9萬張（截至2011年8月，史上第二位）\[112\]
   - 單曲首周最高銷量：約120.8萬張（《[無名的詩](../Page/無名的詩.md "wikilink")》，史上第五位）
   - 沒有[商業搭配的單曲最高銷量](../Page/商業搭配.md "wikilink")：約181.2萬張（《[See-Saw Game
     ～勇敢的戀曲～](../Page/See-Saw_Game_～勇敢的戀曲～.md "wikilink")》，史上第一位）
   - 銷量破百萬的單曲有12張，專輯有10張（史上第二位）
   - 銷量破二百萬的單曲數目：2張（跟[恰克與飛鳥並列史上第一位](../Page/恰克與飛鳥.md "wikilink")）
-  - 獲得周榜首位的單曲數目、連續獲得周榜首位的單曲數目：31張（截至2012年5月，連續紀錄史上第三位）\[112\]
+  - 獲得周榜首位的單曲數目、連續獲得周榜首位的單曲數目：31張（截至2012年5月，連續紀錄史上第三位）\[113\]
   - 單曲連續獲得周榜首位的年數：15年（史上第二位）
   - 單曲於發售一段時間後再次獲得周榜首位的單曲數目：3張（並列史上第一位）
   - 獲得年榜首位的單曲數目：2張（並列史上第一位）
   - 獲得年榜頭10位的單曲數目：14張（包括《[奇蹟的地球](../Page/奇蹟的地球.md "wikilink")》，史上第二位）
   - 單曲連續獲得年榜頭10位的年數：6年（史上第一位）
   - 獲得男性藝人上半年榜首的專輯數目：3張（並列史上第一位）
-  - 連續獲得周榜首位的音樂DVD數目：10張（截至2012年5月，史上第一位）\[113\]
+  - 連續獲得周榜首位的音樂DVD數目：10張（截至2012年5月，史上第一位）\[114\]
   - 連續獲得音樂DVD周榜首位的年數：7年（史上第一位）
-  - [Oricon公信榜史上首組藝人能於同一周獲得單曲](../Page/Oricon公信榜.md "wikilink")、DVD和藍光光碟榜首。\[114\]
+  - [Oricon公信榜史上首組藝人能於同一周獲得單曲](../Page/Oricon公信榜.md "wikilink")、DVD和藍光光碟榜首。\[115\]
 
 ## 參考資料
 
@@ -878,11 +883,12 @@ Club）及官方Facebook貼出手幅照片表達致謝之意。另外，據稱�
 81. \[<https://www.cna.com.tw/news/amov/201902010279.aspx>
     Mr.Children相隔24年訪台開唱 台日粉絲齊追星，2019-2-1。
 
-82.
+82. \[<https://www.oricon.co.jp/news/2139148/full/.aspx>
+    Mr.Children、最新ライブ映像が通算4作目の3部門同時1位を獲得，2019-07-04。
 
 83.
-84.
 
+84.
 85.
 
 86.
@@ -892,8 +898,8 @@ Club）及官方Facebook貼出手幅照片表達致謝之意。另外，據稱�
 88.
 
 89.
-90.
 
+90.
 91.
 
 92.
@@ -907,9 +913,9 @@ Club）及官方Facebook貼出手幅照片表達致謝之意。另外，據稱�
 96.
 
 97.
+
 98.
 99.
-
 100.
 
 101.
@@ -917,9 +923,9 @@ Club）及官方Facebook貼出手幅照片表達致謝之意。另外，據稱�
 102.
 
 103.
+
 104.
 105.
-
 106.
 
 107.
@@ -931,6 +937,8 @@ Club）及官方Facebook貼出手幅照片表達致謝之意。另外，據稱�
 110.
 
 111.
+
 112.
 113.
 114.
+115.

@@ -104,8 +104,7 @@ Kids中選出八名成員組成](../Page/Hello!_Project_Kids.md "wikilink")，20
 ## 名稱由来
 
   - 由berry演化而来：berry→berries→berryz→Berryz工房。
-  - berry是草莓類水果的通稱，通常具有體積小，多水分的特徵。
-  - 這個名字是希望Berryz工房表達出的音樂能有相似的感覺。
+  - berry是草莓類水果的通稱，通常具有體積小，多水分的特徵。這個名字是希望Berryz工房表達出的音樂能有相似的感覺。
 
 ## 歷史
 

@@ -141,7 +141,7 @@ security
 advice](https://web.archive.org/web/20050701014313/http://www.microsoft.com/security/default.mspx)
 
 人们所知道的第一个感染Microsoft
-Word文档的病毒叫做概念病毒，一个相对危害很小的病毒，它的出现是为了证明[巨集病毒出现的可能性](https://zh.wikipedia.org/wiki/巨集病毒 "wikilink")。
+Word文档的病毒叫做概念病毒，一个相对危害很小的病毒，它的出现是为了证明[巨集病毒出现的可能性](https://zh.wikipedia.org/wiki/巨集病毒 "wikilink")。。
 
 ## 版本
 

@@ -308,7 +308,7 @@ Workstation版本），使用者在未正確設定（或者未關閉）SELinux�
 
 [Category:自由作業系統](https://zh.wikipedia.org/wiki/Category:自由作業系統 "wikilink")
 [Category:Linux發行版](https://zh.wikipedia.org/wiki/Category:Linux發行版 "wikilink")
-[Category:Red_Hat](https://zh.wikipedia.org/wiki/Category:Red_Hat "wikilink")
+[Category:红帽公司](https://zh.wikipedia.org/wiki/Category:红帽公司 "wikilink")
 
 1.  [Enterprise Linux or
     Fedora?](http://www.redhat.com/en_us/USA/rhel/migrate/whichlinux)

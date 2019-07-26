@@ -1,4 +1,4 @@
-****（簡稱，中文通稱**火狐**）是一個[自由及開放原始碼的](https://zh.wikipedia.org/wiki/自由及開放原始碼軟體 "wikilink")[網頁瀏覽器](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")\[1\]，由[Mozilla基金會及其子公司](../Page/Mozilla基金會.md "wikilink")[Mozilla公司開發](../Page/Mozilla公司.md "wikilink")。Firefox支援[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[macOS及](https://zh.wikipedia.org/wiki/macOS "wikilink")[Linux](../Page/Linux.md "wikilink")，其行動版支援[Android及](../Page/Firefox_for_Android.md "wikilink")[Firefox
+，通稱，中文也通稱**火狐**，是一個[自由及開放原始碼的](https://zh.wikipedia.org/wiki/自由及開放原始碼軟體 "wikilink")[網頁瀏覽器](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")\[1\]，由[Mozilla基金會及其子公司](../Page/Mozilla基金會.md "wikilink")[Mozilla公司開發](../Page/Mozilla公司.md "wikilink")。Firefox支援[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[macOS及](https://zh.wikipedia.org/wiki/macOS "wikilink")[Linux](../Page/Linux.md "wikilink")，其行動版支援[Android及](../Page/Firefox_for_Android.md "wikilink")[Firefox
 OS](../Page/Firefox_OS.md "wikilink")，這些版本的Firefox使用[Gecko來排版網頁](../Page/Gecko.md "wikilink")，Gecko是一個執行當前與預期之[網頁標準的](../Page/網頁標準.md "wikilink")[排版引擎](../Page/排版引擎.md "wikilink")\[2\]，而在2015年釋出的[Firefox
 for iOS則非使用Gecko](../Page/Firefox_for_iOS.md "wikilink")。
 
@@ -95,6 +95,8 @@ x64版上都有可執行的Firefox編譯檔。在其他比較小型的作業系�
 
 Firefox使用統一的設定檔格式，因此不同作業系統的Firefox可以共享相同的設定，不過可能會遭遇一些問題，特別是附加元件的使用上。
 
+<File:Mozilla> Firefox Developer Edition unter Windows 10.png|[Windows
+10下執行Firefox](../Page/Windows_10.md "wikilink") Developer Edition 69.0b3
 <File:Mozilla> Firefox 29 Windows 8.1.png|[Windows
 8.1下執行Firefox](../Page/Windows_8.1.md "wikilink") 29
 <File:Firefox> 30.0 on OS X Mavericks.png|[OS X

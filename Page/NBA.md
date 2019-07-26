@@ -159,7 +159,7 @@ League）測試。[NBA球員工會也對NBA聯盟聯盟這三項規則修改提�
 
 NBA由成立之初的11隊發展到現在的30隊，當中經歷了許多新球隊的建立，老球隊的變遷或是倒閉。70年歷史中[波士顿凯尔特人是成功的球隊](../Page/波士顿凯尔特人.md "wikilink")，他們一共獲得了17個總冠軍，包括1959－1966年的八連冠。[洛杉磯湖人以](https://zh.wikipedia.org/wiki/洛杉磯湖人 "wikilink")16次總冠軍僅次其後。2012年最值錢的球隊是[洛杉磯湖人](https://zh.wikipedia.org/wiki/洛杉磯湖人 "wikilink")，市值9億美元。2014年，微軟前執行長鮑默爾將以20億美元（約台幣600億元）天價買下快艇，也寫下NBA球隊轉手價格新紀錄。\[21\]
 
-現時NBA不是以自己身處城市名稱作為球隊名，而是以州份名稱作為球隊名的球隊，為[明尼蘇達灰狼](https://zh.wikipedia.org/wiki/明尼蘇達灰狼 "wikilink")、[猶他爵士](https://zh.wikipedia.org/wiki/猶他爵士 "wikilink")、[印第安納溜馬和](https://zh.wikipedia.org/wiki/印第安納溜馬 "wikilink")[金州勇士](../Page/金州勇士.md "wikilink")(使用了[加利福尼亞州的別名](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")**金州**)。
+現時NBA不是以自己身處城市名稱作為球隊名，而是以州份名稱作為球隊名的球隊，為[明尼蘇達灰狼](https://zh.wikipedia.org/wiki/明尼蘇達灰狼 "wikilink")、[猶他爵士](https://zh.wikipedia.org/wiki/猶他爵士 "wikilink")、[印第安納溜馬和](https://zh.wikipedia.org/wiki/印第安納溜馬 "wikilink")[金州勇士](../Page/金州勇士.md "wikilink")（使用了[加利福尼亞州的別名](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")**金州**）。其中洛杉磯、紐約兩城市各擁有兩隻球隊。
 
 NBA目前採用的是[2004-05賽季劃分的區域](https://zh.wikipedia.org/wiki/2004-05_NBA賽季 "wikilink")，分為東西2個聯盟，每個聯盟各有3個賽區，每個賽區各有5隊。
 
@@ -770,14 +770,10 @@ ZhiZhi.jpg|NBA首位[中國籍](https://zh.wikipedia.org/wiki/中國籍 "wikilin
 [File:YaoMingonoffense2.jpg|首位入選NBA全明星賽亞洲球員、7次NBA全明星賽及名人堂](File:YaoMingonoffense2.jpg%7C首位入選NBA全明星賽亞洲球員、7次NBA全明星賽及名人堂)[中國籍球員](https://zh.wikipedia.org/wiki/中國籍 "wikilink")[姚明](https://zh.wikipedia.org/wiki/姚明 "wikilink")
 <File:Yi> Jianlian Wizards
 2.jpg|NBA[中國籍球員](https://zh.wikipedia.org/wiki/中國籍 "wikilink")[易建聯](../Page/易建聯.md "wikilink")
-<File:San_Antonio_Spurs_2002-2003_roster.jpg>|
-[巴特尔](../Page/孟克·巴特尔.md "wikilink")2003年随马刺夺冠
 <File:Sun> Yue with the Beijing Aoshen
 Olympians.jpg|第二位獲得[NBA總冠軍的亞洲球員](https://zh.wikipedia.org/wiki/NBA總冠軍 "wikilink")[中國籍](https://zh.wikipedia.org/wiki/中國籍 "wikilink")[孫悅](../Page/孙悦_\(篮球运动员\).md "wikilink")
 <File:ZhouQi2017.png>|
 前NBA[中國籍球員](https://zh.wikipedia.org/wiki/中國籍 "wikilink")[周琦](../Page/周琦_\(篮球运动员\).md "wikilink")
-<File:Jeremy> Lin with the Knicks and reporters.jpg|
-首位獲得[NBA總冠軍的美籍华裔球員](https://zh.wikipedia.org/wiki/NBA總冠軍 "wikilink")[林书豪](https://zh.wikipedia.org/wiki/林书豪 "wikilink")
 
 ## NBA领导人
 

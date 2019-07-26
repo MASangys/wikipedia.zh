@@ -89,6 +89,6 @@ Core條目](https://zh.wikipedia.org/wiki/Fedora_Core "wikilink")*
   - [Red Hat首頁](http://www.redhat.com/)
 
 [Category:Linux](https://zh.wikipedia.org/wiki/Category:Linux "wikilink")
-[Category:Red_Hat](https://zh.wikipedia.org/wiki/Category:Red_Hat "wikilink")
+[Category:红帽公司](https://zh.wikipedia.org/wiki/Category:红帽公司 "wikilink")
 
 1.

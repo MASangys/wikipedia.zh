@@ -50,9 +50,9 @@ struct trie_node_st {
         struct trie_node_st *next[TREE_WIDTH];
 };
 
-static struct trie_node_st root={0, {NULL}};
+static struct trie_node_st root={0, 0, {NULL}};
 
-static char *spaces=" \t\n/.\"\'()";
+static const char *spaces=" \t\n/.\"\'()";
 
 void myfree(struct trie_node_st * rt)
 {
@@ -151,7 +151,7 @@ main (void)
         free (linebuf);
 
     for(int i=0; i<TREE_WIDTH; i++){
-        if(root.next[i]!=0){
+        if(root.next[i]!=NULL){
             myfree(root.next[i]);
         }
     }

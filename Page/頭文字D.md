@@ -1,5 +1,5 @@
 《**頭文字D**》（英語：**INITIAL D**，假名：**イニシャル・ディー**
-）是一部以[山道](https://zh.wikipedia.org/wiki/山道 "wikilink")[飆車為題材的](https://zh.wikipedia.org/wiki/飆車 "wikilink")[日本](../Page/日本.md "wikilink")[青年漫畫](https://zh.wikipedia.org/wiki/青年漫畫 "wikilink")，以及以[漫畫改編的](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[動畫系列](https://zh.wikipedia.org/wiki/動畫 "wikilink")（包含[電視版](https://zh.wikipedia.org/wiki/電視 "wikilink")、[OVA與](https://zh.wikipedia.org/wiki/OVA "wikilink")[電影版](https://zh.wikipedia.org/wiki/電影 "wikilink")）。漫畫作者為，自1995年起開始在[講談社的](https://zh.wikipedia.org/wiki/講談社 "wikilink")《[週刊Young
+）是一部以[山道](https://zh.wikipedia.org/wiki/山道 "wikilink")[競速為題材的](https://zh.wikipedia.org/wiki/競速 "wikilink")[日本](../Page/日本.md "wikilink")[青年漫畫](https://zh.wikipedia.org/wiki/青年漫畫 "wikilink")，以及以[漫畫改編的](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[動畫系列](https://zh.wikipedia.org/wiki/動畫 "wikilink")（包含[電視版](https://zh.wikipedia.org/wiki/電視 "wikilink")、[OVA與](https://zh.wikipedia.org/wiki/OVA "wikilink")[電影版](https://zh.wikipedia.org/wiki/電影 "wikilink")）。漫畫作者為，自1995年起開始在[講談社的](https://zh.wikipedia.org/wiki/講談社 "wikilink")《[週刊Young
 Magazine](../Page/週刊Young_Magazine.md "wikilink")》上連載，連載至2013年7月結束，單行本全48卷，還有多本探討[汽車駕駛技巧的周邊專書](https://zh.wikipedia.org/wiki/汽車 "wikilink")。
 
 作者重野秀一決定結束在《周刊Young

@@ -220,7 +220,7 @@ standards解決方案](https://zh.wikipedia.org/wiki/Web_standard "wikilink")。
 | [flv](https://zh.wikipedia.org/wiki/FLV "wikilink")          | Flash Video的簡稱，FLV串流媒體格式是一種視頻格式，它的出現有效地解決了視頻文件導入Flash後，使導出的SWF文件體積龐大，不能在網路上有效使用等缺點。                                                                                                                                                                                    |
 | [exe](https://zh.wikipedia.org/wiki/EXE "wikilink")          | 匯出Flash的時候的執行檔。要傳送Flash動畫給別人，要把它存成執行檔。目前支援至Windows 8 。                                                                                                                                                                                                                 |
 | [apk](../Page/APK.md "wikilink")                             | 匯出適用Android平台檔案，可單獨安裝執行；或送至Google Play平台審核，成為可搜尋下載軟件。詳見[Adobe AIR](../Page/Adobe_AIR.md "wikilink")。                                                                                                                                                                   |
-| [ipa](https://zh.wikipedia.org/wiki/IPA "wikilink")          | 匯出適用IOS平台檔案，送至App store平台審核，成為可搜尋下載軟件。詳見[Adobe AIR](../Page/Adobe_AIR.md "wikilink")。                                                                                                                                                                                  |
+| ipa                                                          | 匯出適用IOS平台檔案，送至App store平台審核，成為可搜尋下載軟件。詳見[Adobe AIR](../Page/Adobe_AIR.md "wikilink")。                                                                                                                                                                                  |
 
 ## 参见
 

@@ -1,16 +1,17 @@
-**SQL**（\[1\]或\[2\]，**结构化查询语言**\[3\]\[4\]\[5\]\[6\]）是一种[特定目的程式语言](https://zh.wikipedia.org/wiki/特定目的程式语言 "wikilink")，用于管理[关系数据库管理系统](https://zh.wikipedia.org/wiki/关系数据库管理系统 "wikilink")（RDBMS），或在[关系流数据管理系统](https://zh.wikipedia.org/wiki/关系流数据管理系统 "wikilink")（RDSMS）中进行流处理。
+**SQL**（\[1\]或\[2\]，**Structured Query
+Language:结构化查询语言**\[3\]\[4\]\[5\]\[6\]）是一种[特定目的程式语言](https://zh.wikipedia.org/wiki/特定目的程式语言 "wikilink")，用于管理[关系数据库管理系统](https://zh.wikipedia.org/wiki/关系数据库管理系统 "wikilink")（RDBMS），或在[关系流数据管理系统](https://zh.wikipedia.org/wiki/关系流数据管理系统 "wikilink")（RDSMS）中进行流处理。
 
 SQL基于[关系代数和](https://zh.wikipedia.org/wiki/关系代数_\(数据库\) "wikilink")[元组关系演算](../Page/元组关系演算.md "wikilink")，包括一个[数据定义语言和](https://zh.wikipedia.org/wiki/数据定义语言 "wikilink")[数据操纵语言](https://zh.wikipedia.org/wiki/数据操纵语言 "wikilink")。SQL的范围包括数据插入、查询、更新和删除，[数据库模式创建和修改](../Page/Schema_\(数据库\).md "wikilink")，以及数据访问控制。尽管SQL经常被描述为，而且很大程度上是一种[声明式编程](https://zh.wikipedia.org/wiki/声明式编程 "wikilink")（[4GL](https://zh.wikipedia.org/wiki/第四代程式语言 "wikilink")），但是其也含有[过程式编程的元素](https://zh.wikipedia.org/wiki/过程式编程 "wikilink")。
 
-SQL是对[埃德加·科德的](../Page/埃德加·科德.md "wikilink")[关系模型的第一个商业化语言实现](../Page/关系模型.md "wikilink")，这一模型在其1970年的一篇具有影响力的论文《一个对于大型共享型数据库的关系模型》\[7\]中被描述。尽管SQL并非完全按照[科德的关系模型设计](../Page/科德十二定律.md "wikilink")，但其依然成为最为广泛运用的数据库语言。
+SQL是对[埃德加·科德的](../Page/埃德加·科德.md "wikilink")[关系模型的第一个商业化语言实现](../Page/关系模型.md "wikilink")，这一模型在其1970年的一篇具有影响力的[论文](../Page/论文.md "wikilink")《一个对于大型共享型数据库的关系模型》\[7\]中被描述。尽管SQL并非完全按照[科德的关系模型设计](../Page/科德十二定律.md "wikilink")，但其依然成为最为广泛运用的数据库语言。
 \[8\]\[9\]
 
-SQL在1986年成为[美国国家标准学会](https://zh.wikipedia.org/wiki/美国国家标准学会 "wikilink")（ANSI）的一项[标准](../Page/标准.md "wikilink")，在1987年成为[国际标准化组织](https://zh.wikipedia.org/wiki/国际标准化组织 "wikilink")（ISO）标准\[10\]</ref>。此后，这一标准经过了一系列的增订，加入了大量新特性。虽然有这一标准的存在，但大部分的SQL代码在不同的数据库系统中并不具有完全的跨平台性。
+SQL在1986年成为[美国国家标准学会](https://zh.wikipedia.org/wiki/美国国家标准学会 "wikilink")（ANSI）的一项[标准](../Page/标准.md "wikilink")，在1987年成为[国际标准化组织](https://zh.wikipedia.org/wiki/国际标准化组织 "wikilink")（ISO）标准\[10\]</ref>。此后，这一标准经过了一系列的增订，加入了大量新特性。虽然有这一标准的存在，但大部分的SQL代码在不同的数据库系统中并不具有完全的[跨平台性](https://zh.wikipedia.org/wiki/跨平台 "wikilink")。
 
 ## 歷史
 
 在1970年代初，由[IBM公司San](../Page/IBM.md "wikilink")
-Jose,California研究實驗室的[埃德加·科德發表將資料組成表格的應用原則](../Page/埃德加·科德.md "wikilink")（Codd's
+Jose,California[研究](../Page/研究.md "wikilink")[實驗室的](https://zh.wikipedia.org/wiki/實驗室 "wikilink")[埃德加·科德發表將資料組成表格的應用原則](../Page/埃德加·科德.md "wikilink")（Codd's
 Relational Algebra）。1974年，同一實驗室的D.D.Chamberlin和R.F. Boyce對Codd's
 Relational Algebra在研制关系数据库管理系统System R中，研制出一套規範語言-SEQUEL（Structured
 English Query Language），並在1976年11月的IBM Journal of
