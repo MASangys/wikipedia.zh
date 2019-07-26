@@ -161,6 +161,15 @@ E\&M旗下的一個有線電視頻道。
 </tr>
 <tr class="odd">
 <td><p>7</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Watcher" title="wikilink">Watcher</a></p></td>
+<td><p>6</p></td>
+<td><p>5.405%</p></td>
+<td></td>
+<td><p>2019/07/21</p></td>
+<td><p>週末</p></td>
+</tr>
+<tr class="even">
+<td><p>8</p></td>
 <td><p><a href="../Page/壞傢伙們：惡的都市.md" title="wikilink">壞傢伙們：惡的都市</a></p></td>
 <td><p>16</p></td>
 <td><p>4.797%</p></td>
@@ -168,8 +177,8 @@ E\&M旗下的一個有線電視頻道。
 <td><p>2018/02/04</p></td>
 <td><p>週末</p></td>
 </tr>
-<tr class="even">
-<td><p>7</p></td>
+<tr class="odd">
+<td><p>8</p></td>
 <td><p><a href="../Page/救救我.md" title="wikilink">救救我</a></p></td>
 <td><p>16</p></td>
 <td><p>4.797%</p></td>
@@ -177,23 +186,14 @@ E\&M旗下的一個有線電視頻道。
 <td><p>2017/09/24</p></td>
 <td><p>週末</p></td>
 </tr>
-<tr class="odd">
-<td><p>9</p></td>
+<tr class="even">
+<td><p>10</p></td>
 <td><p><a href="../Page/38師機動隊.md" title="wikilink">38師機動隊</a></p></td>
 <td><p>16</p></td>
 <td><p>4.559%</p></td>
 <td></td>
 <td><p>2016/08/06</p></td>
 <td><p>金土</p></td>
-</tr>
-<tr class="even">
-<td><p>10</p></td>
-<td><p><a href="../Page/Black_(韓國電視劇).md" title="wikilink">Black</a></p></td>
-<td><p>4</p></td>
-<td><p>4.318%</p></td>
-<td></td>
-<td><p>2017/10/22</p></td>
-<td><p>週末</p></td>
 </tr>
 <tr class="odd">
 <td></td>

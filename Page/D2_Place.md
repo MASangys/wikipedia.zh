@@ -83,7 +83,7 @@ Café。3樓為特色美食廣場。
 
 <!-- end list -->
 
-  - [荃灣綫](../Page/荃灣綫.md "wikilink")：[荔枝角站D](../Page/荔枝角站.md "wikilink")2出入口
+  - <font color="{{荃灣綫色彩}}">█</font>[荃灣綫](../Page/荃灣綫.md "wikilink")：[荔枝角站D](../Page/荔枝角站.md "wikilink")2出入口
 
 <!-- end list -->
 

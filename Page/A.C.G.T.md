@@ -717,6 +717,24 @@ ENTERTAINMENT的舊址](../Page/RADIX_ACE_ENTERTAINMENT.md "wikilink")，數年�
 <td><p>玩具廠商<a href="../Page/多美_(公司).md" title="wikilink">TAKARA</a>《多美卡超救援》系列動畫作品。</p></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>2019年</p></td>
+<td><p><strong>播出中</strong></p></td>
+<td><p><a href="../Page/科學一方通行.md" title="wikilink">科學一方通行</a></p></td>
+<td></td>
+<td><p>J.C.STAFF</p></td>
+<td><p>漫畫</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/普通攻擊是全體二連擊，這樣的媽媽你喜歡嗎？" title="wikilink">普通攻擊是全體二連擊，這樣的媽媽你喜歡嗎？</a></p></td>
+<td></td>
+<td><p>小說</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

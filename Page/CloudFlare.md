@@ -91,11 +91,11 @@ Cloudflare 的網路在全球擁有許多連線到網際網路交換點的連線
 
 ### 中国大陆服务
 
-Cloudflare 与[百度及降维安全实验室](../Page/百度.md "wikilink")（johnwick.io）建立合作伙伴关系,
-为中国和世界各地的客户提供更快速、安全的互联网体验。Cloudflare
-现已推出了中国大陆地区的服务，帮助所有企业改善他们的互联网应用的性能及安全，
-扩展其全球业务。Cloudflare 和百度的合作将百度大陆的22个中心地区节点与 Cloudflare
-全球的86个节点结合起来，实现了真正的资源优化整合。\[25\]
+Cloudflare
+与[百度及降维安全实验室](../Page/百度.md "wikilink")（johnwick.io）建立合作伙伴关系。Cloudflare
+现已推出了中国大陆地区的服务，帮助所有企业改善他们的互联网应用的性能及安全， 扩展其全球业务。Cloudflare
+和百度的合作将百度大陆的22个中心地区节点与 Cloudflare
+全球的86个节点结合起来。\[25\]
 
 ### Project Galileo
 

@@ -23,7 +23,7 @@ It](https://zh.wikipedia.org/wiki/:en:I_Love_It_\(Icona_Pop_song\) "wikilink")"
 查莉於 1992 年 8 月 2
 日出生于[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[剑桥](https://zh.wikipedia.org/wiki/剑桥 "wikilink")\[1\]，父亲是[苏格兰人](https://zh.wikipedia.org/wiki/苏格兰 "wikilink")，母亲是印度人，来自乌干达。她在[赫特福德郡长大](../Page/赫特福德郡.md "wikilink")。\[2\]查莉在
 14 歲時就開始創作了。\[3\]之後她進入了 Bishop's Stortford 大學，並於 2010 年離開。\[4\] 隨後進入
-Slade School of Fine Art 学校，也於学位课程的第二年離開了這所學校。\[5\]
+UCL攻读美术学位，一年后退学。\[5\]
 
 ## 職業生涯
 

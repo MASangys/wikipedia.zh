@@ -633,9 +633,9 @@ Lee**}-為[加州出生局顯示的英文本名](https://zh.wikipedia.org/wiki/�
 <td><p>與、<a href="../Page/梁世炯.md" title="wikilink">梁世炯</a>、<a href="../Page/利特.md" title="wikilink">利特</a>、<a href="../Page/徐恩光.md" title="wikilink">徐恩光</a>、<a href="https://zh.wikipedia.org/wiki/韓銀貞" title="wikilink">韓銀貞</a>、<a href="https://zh.wikipedia.org/wiki/張度妍" title="wikilink">張度妍</a>、<a href="https://zh.wikipedia.org/wiki/金請夏" title="wikilink">金請夏主持</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>2019年5月12日 -</p></td>
+<td><p>2019年5月12日 - 7月14日</p></td>
 <td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a></p></td>
-<td><p>Shall We Chicken</p></td>
+<td><p><a href="../Page/Shall_We_Chicken.md" title="wikilink">Shall We Chicken</a></p></td>
 <td><p>與、<a href="../Page/李奎翰.md" title="wikilink">李奎翰</a>、柳泰桓（主廚） 主持</p></td>
 </tr>
 </tbody>

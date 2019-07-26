@@ -259,7 +259,7 @@ Supernova*）\[38\]。2017年2月，蘇菲·特納透露，下一部電影的製
 10.
 11.
 12. [1](https://twitter.com/BryanSinger/status/55843750831567872)
-13. <http://indiatoday.intoday.in/story/jennifer-lawrence-to-quit-x-men-franchise-after-apocalypse/1/425734.html>
+13.
 14.
 15.
 16.
@@ -272,7 +272,7 @@ Supernova*）\[38\]。2017年2月，蘇菲·特納透露，下一部電影的製
 23.
 24.
 25.
-26. [《X战警：天启》電影介紹](http://piaofang.maoyan.com/movie/246177) 貓眼票房
+26. [《X战警：天启》電影介紹](http://piaofang.maoyan.com/movie/246177)  貓眼票房
 27.
 28.
 29.

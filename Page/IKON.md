@@ -10,8 +10,6 @@ Chart
 K-POP大獎的新人賞](../Page/Gaon_Chart_K-POP大獎.md "wikilink")，完成「新人賞大滿貫」\[9\]。2016年1月13日於日本出道後，亦獲得最佳新人賞的殊榮。2018年1月25日發布的第二張正規專輯《[Return](../Page/Return_\(iKON專輯\).md "wikilink")》之主打歌《Love
 Scenario》\[10\]除了橫掃韓國Melon等7大音樂排行榜外，更連續位居實時榜單一位達41日，突破近十年來韓國樂壇史的最長紀錄\[11\]。同年2月9日更被美國《時代雜誌》選為現時K-POP（韓國流行音樂）界中的6大團體之一\[12\]。
 
-2019年6月12日，成员[B.I因毒品事件而退出组合](../Page/B.I.md "wikilink")。
-
 ## 團名由來
 
 由YG娛樂社長[梁鉉錫所命名](../Page/梁鉉錫.md "wikilink")，「iKON」來自於英文單字「ICON」，「ICON」有"標誌""象徵"之意，社長將C換成代表韓國的K，帶有希望iKON能成為K-POP樂壇的指標性團體、音樂、人物的期許\[13\]。團體問候語為「Get
@@ -348,10 +346,11 @@ iTunes 排行榜冠軍\[199\]\[200\]。
 
   - 2016：[iKONCERT 2016：Showtime
     Tour](../Page/IKoncert_2016：Showtime_Tour.md "wikilink")
-  - 2016–2017：Japan Tour
-  - 2017：Japan Dome Tour
+  - 2016–2017：iKON Japan Tour 2016-2017
+  - 2017：iKON Japan Dome Tour
   - 2018：iKON Japan Tour 2018
   - 2018：iKON 2018 CONTINUE TOUR
+  - 2019：iKON Japan Tour 2019
 
 ## 廣告代言
 

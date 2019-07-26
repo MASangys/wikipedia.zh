@@ -884,6 +884,30 @@
 <tr class="even">
 <td><p>6月29日</p></td>
 </tr>
+<tr class="odd">
+<td><p>7月11日</p></td>
+</tr>
+<tr class="even">
+<td><p>7月12日</p></td>
+</tr>
+<tr class="odd">
+<td><p>7月13日</p></td>
+</tr>
+<tr class="even">
+<td><p>7月14日</p></td>
+</tr>
+<tr class="odd">
+<td><p>7月15日</p></td>
+</tr>
+<tr class="even">
+<td><p>7月16日</p></td>
+</tr>
+<tr class="odd">
+<td><p>7月18日</p></td>
+</tr>
+<tr class="even">
+<td><p>Netflix Korea</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -1573,6 +1597,18 @@ Chen、Kai</p></td>
 <td><p>KBS Cool FM</p></td>
 <td><p>鄭恩地的歌謠廣場</p></td>
 <td><p>Suho</p></td>
+</tr>
+<tr class="even">
+<td><p>7月10日</p></td>
+<td><p>Melon Radio</p></td>
+<td><p>Star DJ</p></td>
+<td><p>Baekhyun</p></td>
+</tr>
+<tr class="odd">
+<td><p>7月22日</p></td>
+<td><p>Chanyeol、Sehun</p></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>

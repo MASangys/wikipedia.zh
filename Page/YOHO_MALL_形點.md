@@ -19,13 +19,14 @@ YOHO
 Midtown商場在2013年10月15日起進行重舖地台及翻新假天花工程，已於2015年9月1日開業。另一方面，自2011年下半年起，新地亦斥資約3.6億元為[新元朗中心商場分為三個階段進行翻新工程](https://zh.wikipedia.org/wiki/新元朗中心商場 "wikilink")。\[4\]商場第一期翻新部份於2013年11月開業。第二期翻新部份於2014年12月完成，商店於2015年1月中至2月陸續開業（已延期）。第三期翻新部份於2016年2月完成，商店於同年3月中至4月陸續開業。
 
 <File:YOHO> Midtown Shopping Centre Enterance1 201010.jpg|Yoho
-Midtown商場入口（2010年） <File:YOHO> Mall GF Vacant Shops
-201010.jpg|地下食肆內所有店舖尚未開業（2010年） <File:YOHO> Midtown Shopping
-Centre Level 1 201010.jpg|1樓商場內所有店舖尚未開業（2010年） <File:YOHO> Midtown
-Shopping Arcade Atrium 201010.jpg|商場中庭正裝修中（2010年） <File:YOHO> Midtown
-Shopping Centre Access To Phase 1.jpg|商場往YOHO Town第一期通道 <File:YOHO> Mall
-Level 1 Access 201508.jpg|1樓商場內所有店舖正進行裝修（2015年8月） <File:YOHO> Mall Level
-1 Access view 201508.jpg|1樓商場食肆正進行裝修（2015年8月）
+Midtown商場入口（2010年） <File:YOHO> Midtown Shopping Centre Level 1
+201010.jpg|地下食肆及1樓商場內所有店舖尚未開業（2010年） <File:YOHO> Midtown Shopping Arcade
+Atrium 201010.jpg|商場中庭正裝修中（2010年） <File:YOHO> Midtown Shopping Centre
+Access To Phase 1.jpg|商場往YOHO Town第一期通道 <File:YOHO> Mall Level 1 Access
+201508.jpg|1樓商場內所有店舖正進行裝修（2015年8月） <File:YOHO> Mall Level 1 Access view
+201508.jpg|1樓商場食肆正進行裝修（2015年8月）
+
+元朗2019年7月21日晚有一群白衣人穿過西鐵站進入商場手持長棍及開山刀攻擊市民，最少7人受傷，包括前TVB男主播[柳俊江及一名](../Page/柳俊江.md "wikilink")[蘋果日報男記者](https://zh.wikipedia.org/wiki/蘋果日報 "wikilink")。
 
 ## 設計
 
@@ -162,7 +163,7 @@ YOHO Midtown地下廣場部份範圍劃為綠化空間Midtown
 Garden，戶外綠化空間達15萬平方呎，商場和LAAB實現室合作，在2015年9月1日至2016年初（逢星期一暫停開放），舉行「玩．藝」之旅，在露天空間擺放多件可作遊樂設施的藝術裝置，裝置不設額外收費。商場一樓則設24小時通道連接YOHO
 Town第一期及第三期商場。\[12\]
 
-而 Grand YOHO 商場一樓及二樓設有公眾平台
+而Grand YOHO商場一樓及二樓設有公眾平台。
 
 ## 宣傳推廣
 
@@ -173,7 +174,7 @@ Chandon推出商場特別版香檳，亦展示水墨畫家[廖永雄](http://www
 
 ## 流動應用程式
 
-商場推出流動應用程式，除提供商場及商戶資訊，亦可透過應用程式預訂食肆座位、尋找汽車停泊位置、交通指南等服務。
+商場推出[流動應用程式](../Page/流動應用程式.md "wikilink")，除提供商場及商戶資訊，亦可透過應用程式預訂食肆座位、尋找汽車停泊位置、交通指南等服務。
 
 ## 批評
 
@@ -184,7 +185,7 @@ Chandon推出商場特別版香檳，亦展示水墨畫家[廖永雄](http://www
 ### 外牆造成光污染
 
 YOHO
-MALL外牆多個部份採用[發光二極管設計](../Page/發光二極管.md "wikilink")，並於晚上時段開啟。唯有元朗居民投訴造成滋擾。商場管理處其後馬上降低光度，並在晚上關閉燈光。\[14\]
+MALL外牆多個部份採用[發光二極管設計](../Page/發光二極管.md "wikilink")，並於晚上時段開啟。惟有元朗居民投訴造成滋擾。商場管理處其後馬上降低光度，並在晚上關閉燈光。\[14\]
 
 ### 疑違公契將行人天橋天花作廣告用途
 
@@ -194,16 +195,12 @@ MALL外牆多個部份採用[發光二極管設計](../Page/發光二極管.md "
 
 商場停車場經常爆滿，車輛需輪候多時進入停車場，引致區內交通擠塞問題嚴重，甚至影響進入元朗區的市民。\[16\]
 
-## 事件
-
-2018年9月25日早上8時許，地下交通交匯處疑有人刻意按動消防警鐘，導致消防灑水系統不停灑水，車輛需涉水而行，乘客需繞道到其他巴士站乘車。\[17\]
-
 ## 未來發展
 
-新地在2016年投得[西鐵綫](../Page/西鐵綫.md "wikilink")[元朗站上蓋項目](../Page/元朗站_\(西鐵綫\).md "wikilink")，已將項目的107,000平方呎商業樓面納入形點範圍。\[18\]
+新地在2016年投得[西鐵綫](../Page/西鐵綫.md "wikilink")[元朗站上蓋項目](../Page/元朗站_\(西鐵綫\).md "wikilink")，已將項目的107,000平方呎商業樓面納入形點範圍。\[17\]
 
-2017年5月，新地公布將同區鳳翔路的[交通廣場納入YOHO](https://zh.wikipedia.org/wiki/交通廣場 "wikilink")
-MALL之列，計劃興建行人天橋接駁YOHO MALL及交通廣場。\[19\]
+2017年5月，新地公布將同區[鳳翔路的](https://zh.wikipedia.org/wiki/鳳翔路 "wikilink")[交通廣場納入YOHO](https://zh.wikipedia.org/wiki/交通廣場 "wikilink")
+MALL之列，計劃興建行人天橋接駁YOHO MALL及交通廣場。\[18\]
 
 ## 交通
 
@@ -236,7 +233,7 @@ MALL之列，計劃興建行人天橋接駁YOHO MALL及交通廣場。\[19\]
 
 </dl>
 <ul>
-<li>元朗至上水線[20]</li>
+<li>元朗至上水線[19]</li>
 <li><a href="../Page/爾巒.md" title="wikilink">爾巒至元朗線</a></li>
 </ul>
 <dl>
@@ -293,10 +290,9 @@ MALL之列，計劃興建行人天橋接駁YOHO MALL及交通廣場。\[19\]
     [港生活](../Page/港生活.md "wikilink")
 13. [新地「YOHO MALL形點」首階段全數租出率先開業 慶祝活動浪接浪體驗YOHO
     Moment互動驚喜](http://www.shkp.com/zh-HK/Pages/press-release-detail/2217)
-14. [](https://www.facebook.com/photo.php?fbid=10153124034949080&set=o.327046987407943&type=3&theater)
+14. [盡在元朗facebook專頁](https://www.facebook.com/photo.php?fbid=10153124034949080&set=o.327046987407943&type=3&theater)
 15. [元朗：天橋掛滿宣傳牌招不滿 2015年9月30日](http://orientaldaily.on.cc/cnt/news/20150930/00196_003.html)
 16.
-17.
-18. [新地93.2億元奪西鐵元朗站上蓋項目](https://hk.news.yahoo.com/%E9%A0%85%E7%9B%AE%E9%96%8B%E6%A8%99-%E6%96%B0%E5%9C%B093-2%E5%84%84%E5%85%83%E5%A5%AA%E8%A5%BF%E9%90%B5%E5%85%83%E6%9C%97%E7%AB%99%E4%B8%8A%E8%93%8B%E9%A0%85%E7%9B%AE-102700498--finance.html)
-19.
-20. [元朗水車館街—上水新發街](http://www.16seats.net/chi/rmb/r_n17.html)
+17. [新地93.2億元奪西鐵元朗站上蓋項目](https://hk.news.yahoo.com/%E9%A0%85%E7%9B%AE%E9%96%8B%E6%A8%99-%E6%96%B0%E5%9C%B093-2%E5%84%84%E5%85%83%E5%A5%AA%E8%A5%BF%E9%90%B5%E5%85%83%E6%9C%97%E7%AB%99%E4%B8%8A%E8%93%8B%E9%A0%85%E7%9B%AE-102700498--finance.html)
+18.
+19. [元朗水車館街—上水新發街](http://www.16seats.net/chi/rmb/r_n17.html)

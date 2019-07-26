@@ -11,8 +11,8 @@ Growler）是一款艦載型電子攻擊機，由2007年開始生產，並於200
   - 2006年9月22日，運到位於馬里蘭州的[Naval Air Station Patuxent
     River](https://en.wikipedia.org/wiki/Naval_Air_Station_Patuxent_River)美國海軍基地進行實驗室測試。
   - 2006年11月10日，第二架試驗機EA-2首飛。
-  - 2006年11月29日，運往[Naval Air Station Patuxent
-    River美國海軍基地](https://zh.wikipedia.org/wiki/Naval_Air_Station_Patuxent_River "wikilink")。
+  - 2006年11月29日，運往[帕圖森河海軍航空站](https://zh.wikipedia.org/wiki/帕圖森河海軍航空站 "wikilink")（Naval
+    Air Station Patuxent River）美國海軍基地。
 
 ## 規格（EA-18G）
 

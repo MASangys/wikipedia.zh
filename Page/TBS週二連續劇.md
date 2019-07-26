@@ -239,6 +239,17 @@
     原作：[佐佐木倫子](../Page/佐佐木倫子.md "wikilink")
     劇本：[吉田惠里香](https://zh.wikipedia.org/wiki/吉田惠里香 "wikilink")
 
+<!-- end list -->
+
+  - 10月－：**[G弦上的你和我](https://zh.wikipedia.org/wiki/G弦上的你和我 "wikilink")**（）
+
+<!-- end list -->
+
+  -
+    主演：[波瑠](../Page/波瑠.md "wikilink")
+    原作：[育江綾](../Page/育江綾.md "wikilink")
+    劇本：[安達奈緒子](https://zh.wikipedia.org/wiki/安達奈緒子 "wikilink")
+
 ## 平均收視率最高5位
 
 |     |                                                             |       |       |
@@ -247,7 +258,7 @@
 | 第2位 | [繼母與女兒的藍調](../Page/繼母與女兒的藍調.md "wikilink")                  | 2018年 | 14.2% |
 | 第3位 | [其實並不在乎你](https://zh.wikipedia.org/wiki/其實並不在乎你 "wikilink") | 2017年 | 11.2% |
 | 第4位 | [神奈小姐](../Page/神奈小姐.md "wikilink")                          | 2017年 | 10.1% |
-| 第5位 | [拜託請愛我](../Page/請和這個沒用的我談戀愛.md "wikilink")                  | 2016年 | 9.5%  |
+| 第5位 | [我要準時下班](../Page/我要準時下班.md "wikilink")                      | 2019年 | 9.7%  |
 
 ## 單集收視率最高5位
 
@@ -257,7 +268,7 @@
 | 第2位 | [繼母與女兒的藍調](../Page/繼母與女兒的藍調.md "wikilink")                  | 2018年 | 19.2%（最終話） |
 | 第3位 | [其實並不在乎你](https://zh.wikipedia.org/wiki/其實並不在乎你 "wikilink") | 2017年 | 14.8%（最終話） |
 | 第4位 | [神奈小姐](../Page/神奈小姐.md "wikilink")                          | 2017年 | 12.6%（第2話） |
-| 第5位 | [四重奏](../Page/四重奏_\(日本電視劇\).md "wikilink")                  | 2017年 | 11.0%（第9話） |
+| 第5位 | [我要準時下班](../Page/我要準時下班.md "wikilink")                      | 2019年 | 12.5%（最終話） |
 
 ## 播出台
 

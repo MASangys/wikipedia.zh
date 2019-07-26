@@ -1,5 +1,5 @@
-**GFRIEND**（韓文:여자친구 發音:Yeoja Chingu 對應漢字:女子親舊 日文:ジーフランド或ヨジャチング
-）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Source
+**GFRIEND**（韓文:여자친구 發音:Yeoja Chingu 對應漢字:女子親舊
+日文:ジーフランド或ヨジャチング）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Source
 Music公司推出的六人女子組合](https://zh.wikipedia.org/wiki/Source_Music "wikilink")，成員包括[所願](../Page/Sowon.md "wikilink")、[睿隣](../Page/Yerin.md "wikilink")、[銀河](../Page/Eunha.md "wikilink")、[裕株](../Page/Yuju.md "wikilink")、[信飛及](../Page/SinB.md "wikilink")[嚴智](../Page/Umji.md "wikilink")。2015年1月16日，GFRIEND於[Music
 Bank以](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")《[Glass
 Bead](../Page/Season_of_Glass.md "wikilink")》一曲正式出道\[1\]。
@@ -165,25 +165,26 @@ Facebook 及 Youtube
 (JP
 ver.)](../Page/SUNRISE_\(GFRIEND單曲\).md "wikilink")》正式版MV。2月16日，日本官方發出消息，3月13日將發行第三張日本單曲《[FLOWER](../Page/FLOWER.md "wikilink")》，並公開曲目為《FLOWER》及《Beautiful》。
 
-4月24日，公開GFRIEND二代應援手燈。
-
-4月25日，發行GFRIEND FIRST PHOTOBOOK。
+4月24日，公開GFRIEND二代應援手燈。4月25日，發行GFRIEND FIRST PHOTOBOOK。
 
 5月19日及5月20日，在首爾舉行第二次亞洲巡迴演唱會《GO GO GFRIEND\!》的首個場次，演唱從2015出道到2019《Time
-for us》中許多歌曲，也首次表演多首歌曲，隊長Sowon更透露，原本出道曲原是演唱會上小分隊的表演曲目，會來才改成以《[Glass
+for us》中許多歌曲，也首次表演多首歌曲，隊長Sowon更透露，原本出道曲原是演唱會上小分隊的表演曲目，後來才改成以《[Glass
 Bead](../Page/Season_of_Glass.md "wikilink")》出作為出道曲。為此所屬公司[Source
 Music特別於](https://zh.wikipedia.org/wiki/Source_Music "wikilink")19年3月1日公開〈GFRIEND
 : Back To The
 Past〉企劃，特別在企劃中播出GFRIEND以前的各表演花絮。企劃最終回於5月23日公開，整個系列以演唱會上小分隊的表演作結尾。
 
 Source Music在6月10日上午宣布GFRIEND將於2019年7月1日帶著第七張迷你專輯《[Fever
-Season](../Page/Fever_Season.md "wikilink")》回歸。
+Season](../Page/Fever_Season.md "wikilink")》回歸，並在6月16日開始釋出新 LOGO
+及個人、團體預告照，6月19日、28日釋出 MV 預告\[91\]\[92\]，7月1日釋出完整 MV
+並公開專輯完整音源\[93\]。 7月14日《Fever》在SBS人氣歌謠拿下回歸舞台後第6個一位，繼《Sunrise》後
+再度達成六台音樂節目冠軍All Kill 。
 
 ## 成員資料
 
   - 名字**粗體**為隊長
 
-| 成員資料 \[91\]                              |
+| 成員資料 \[94\]                              |
 | ---------------------------------------- |
 | 藝名                                       |
 | 羅馬拼音                                     |
@@ -323,7 +324,7 @@ Season](../Page/Fever_Season.md "wikilink")》回歸。
 
 | 日期                                       | 種類                                                                        | 商品名稱                                 | 合作藝人         | 來源           |
 | ---------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------ | ------------ | ------------ |
-| 2015年                                    | 休閒服飾                                                                      | 「Akiii Classic 運動鞋」                  | rowspan="17" | \[92\]\[93\] |
+| 2015年                                    | 休閒服飾                                                                      | 「Akiii Classic 運動鞋」                  | rowspan="17" | \[95\]\[96\] |
 | 食品                                       | 「Hosigi Chicken 炸雞」                                                       |                                      |              |              |
 | 手機遊戲                                     | 「[艾爾之光線上遊戲](../Page/艾爾之光.md "wikilink")」                                  |                                      |              |              |
 | 「[王牌對決線上遊戲](../Page/王牌對決.md "wikilink")」 |                                                                           |                                      |              |              |
@@ -332,7 +333,7 @@ Season](../Page/Fever_Season.md "wikilink")》回歸。
 | 休閒服飾                                     | 「American Tourister 旅行箱」                                                  |                                      |              |              |
 | 化妝產品                                     | 「Etude House 化妝品」                                                         |                                      |              |              |
 | 手機遊戲                                     | 「棒球經理 手機遊戲」                                                               |                                      |              |              |
-| 線上遊戲                                     | 「[突擊風暴線上遊戲](https://zh.wikipedia.org/wiki/突擊風暴 "wikilink")」               | \[94\]                               |              |              |
+| 線上遊戲                                     | 「[突擊風暴線上遊戲](https://zh.wikipedia.org/wiki/突擊風暴 "wikilink")」               | \[97\]                               |              |              |
 | 食品                                       | 「Hosigi Chicken炸雞」                                                        |                                      |              |              |
 | 手錶品牌                                     | 「Swatch 手錶」                                                               |                                      |              |              |
 | 眼鏡品牌                                     | 「Red Bull Eyewear 眼鏡」                                                     |                                      |              |              |
@@ -340,14 +341,14 @@ Season](../Page/Fever_Season.md "wikilink")》回歸。
 | 休閒服飾                                     | 「樂天世界水上樂園」                                                                |                                      |              |              |
 | 化妝產品                                     | 「CLINIQUE」                                                                |                                      |              |              |
 | 應用程式                                     | 「Poolus APP移動應用程式」                                                        |                                      |              |              |
-| 休閒服飾                                     | 「Smart 服飾」                                                                | [防彈少年團](../Page/防彈少年團.md "wikilink") | \[95\]       |              |
+| 休閒服飾                                     | 「Smart 服飾」                                                                | [防彈少年團](../Page/防彈少年團.md "wikilink") | \[98\]       |              |
 | 2017年                                    | 電訊品牌                                                                      | 「SKtelecom T world」                  | rowspan="2"  |              |
-| 隱形眼鏡品牌                                   | 「LENS NINE」                                                               | \[96\]                               |              |              |
-| 2018年                                    | 電訊品牌                                                                      | 「Celebon」                            | rowspan="3"  |              |
+| 隱形眼鏡品牌                                   | 「LENS NINE」                                                               | \[99\]                               |              |              |
+| 2018年                                    | 化妝品牌                                                                      | 「Celebon」                            | rowspan="3"  |              |
 | 空氣清淨機品牌                                  | 「DK 空氣清淨機」                                                                |                                      |              |              |
-| 運動鞋品牌                                    | 「Reebok 運動鞋」                                                              | \[97\]                               |              |              |
+| 運動鞋品牌                                    | 「Reebok 運動鞋」                                                              | \[100\]                              |              |              |
 | 2019年                                    | 化妝產品                                                                      | 「Innisfree 化妝品」                      | rowspan="2"  |              |
-| 汽車品牌                                     | 「Hyundai 汽車」                                                              | \[98\]                               |              |              |
+| 汽車品牌                                     | 「Hyundai 汽車」                                                              | \[101\]                              |              |              |
 
 ## 演唱會
 
@@ -382,21 +383,21 @@ Season](../Page/Fever_Season.md "wikilink")》回歸。
 <td><p>9月3日</p></td>
 <td><p>GFRIEND L.O.L Singapore Showcase 2016</p></td>
 <td></td>
-<td><p>[99]</p></td>
+<td><p>[102]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>9月4日</p></td>
 <td><p>GFRIEND L.O.L Manila Showcase 2016</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/馬尼拉" title="wikilink">馬尼拉</a></p></td>
-<td><p>[100]</p></td>
+<td><p>[103]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>10月1日</p></td>
 <td><p>2016 GFRIEND 1st Showcase in Taiwan</p></td>
 <td><p><a href="../Page/台北國際會議中心.md" title="wikilink">台北國際會議中心</a></p></td>
-<td><p>[101]</p></td>
+<td><p>[104]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -744,7 +745,7 @@ Season](../Page/Fever_Season.md "wikilink")》回歸。
 <td><p>9月11日</p></td>
 <td><p>Open Concert</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/釜山" title="wikilink">釜山</a></p></td>
-<td><p>10月4日KBS放送[102]</p></td>
+<td><p>10月4日KBS放送[105]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -752,18 +753,18 @@ Season](../Page/Fever_Season.md "wikilink")》回歸。
 <td><p>6月4日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Dream_Concert" title="wikilink">Dream Concert</a> 夢想演唱會</p></td>
 <td><p><a href="../Page/首爾世界盃競技場.md" title="wikilink">首爾世界盃競技場</a></p></td>
-<td><p>第22屆[103]</p></td>
+<td><p>第22屆[106]</p></td>
 </tr>
 <tr class="odd">
 <td><p>6月17日</p></td>
-<td><p>SUWON K-POP SUPER CONCERT [104]</p></td>
+<td><p>SUWON K-POP SUPER CONCERT [107]</p></td>
 <td><p><a href="../Page/水原世界盃競技場.md" title="wikilink">水原世界盃競技場</a></p></td>
 <td><p>6月21日、28日<a href="https://zh.wikipedia.org/wiki/THE_SHOW" title="wikilink">THE SHOW特輯</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>7月25日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/文化廣播_(韓國)" title="wikilink">MBC</a> <a href="https://zh.wikipedia.org/wiki/Show!_音樂中心" title="wikilink">Show! 音樂中心</a> 蔚山夏季音樂節[105]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/文化廣播_(韓國)" title="wikilink">MBC</a> <a href="https://zh.wikipedia.org/wiki/Show!_音樂中心" title="wikilink">Show! 音樂中心</a> 蔚山夏季音樂節[108]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/蔚山" title="wikilink">蔚山綜合運動場</a></p></td>
 <td><p>7月30日<a href="https://zh.wikipedia.org/wiki/Show!_音樂中心" title="wikilink">Show! 音樂中心特輯</a></p></td>
 <td></td>
@@ -772,7 +773,7 @@ Season](../Page/Fever_Season.md "wikilink")》回歸。
 <td><p>8月14日</p></td>
 <td><p>2016 MBC DMZ 和平演唱會</p></td>
 <td><p><a href="../Page/京畿道.md" title="wikilink">京畿道和平公園</a></p></td>
-<td><p>8月15日MBC放送[106]</p></td>
+<td><p>8月15日MBC放送[109]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -898,16 +899,16 @@ Season](../Page/Fever_Season.md "wikilink")》回歸。
 </tr>
 <tr class="even">
 <td><p>5月28日</p></td>
-<td><p>M! Countdown in China 亞洲強音盛典[107]</p></td>
+<td><p>M! Countdown in China 亞洲強音盛典[110]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/上海" title="wikilink">上海</a><a href="https://zh.wikipedia.org/wiki/梅賽德斯-奔馳文化中心" title="wikilink">世博文化中心</a></p></td>
 <td><p>6月2日<a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown特輯</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>7月30日</p></td>
-<td><p>KCON 2016 USA [108][109]</p></td>
+<td><p>KCON 2016 USA [111][112]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/洛杉磯" title="wikilink">洛杉磯</a></p></td>
-<td><p>8月9日<a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown放送</a>[110][111]</p></td>
+<td><p>8月9日<a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown放送</a>[113][114]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -955,7 +956,7 @@ Season](../Page/Fever_Season.md "wikilink")》回歸。
 <tr class="even">
 <td><p>4月14日</p></td>
 <td><p>KCON 2018 Japan</p></td>
-<td><p>4月19日M! Countdown放送[112][113]</p></td>
+<td><p>4月19日M! Countdown放送[115][116]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -978,9 +979,9 @@ Season](../Page/Fever_Season.md "wikilink")》回歸。
 
 ## 獎項
 
-GFRIEND於2015年11月7日贏得首個獎項，在[甜瓜音樂獎頒獎典禮上](../Page/甜瓜音樂獎.md "wikilink")，她們獲得當屆的「新人獎」\[114\]。2016年2月2日，GFRIEND憑著《Rough》於《[-{zh-hk:THE
+GFRIEND於2015年11月7日贏得首個獎項，在[甜瓜音樂獎頒獎典禮上](../Page/甜瓜音樂獎.md "wikilink")，她們獲得當屆的「新人獎」\[117\]。2016年2月2日，GFRIEND憑著《Rough》於《[-{zh-hk:THE
 SHOW;zh-tw:THE
-SHOW;zh-hans:韓秀榜}-](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")》上取得出道以來首個音樂節目獎項，其後更贏得15個冠軍；同年，亦憑著《NAVILLERA》贏得14個冠軍，一年內共取得29個冠軍，打破韓國女子團體一年內取得最多音樂節目冠軍的紀錄\[115\]，直至2017年此記錄才被改寫。
+SHOW;zh-hans:韓秀榜}-](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")》上取得出道以來首個音樂節目獎項，其後更贏得15個冠軍；同年，亦憑著《NAVILLERA》贏得14個冠軍，一年內共取得29個冠軍，打破韓國女子團體一年內取得最多音樂節目冠軍的紀錄\[118\]，直至2017年此記錄才被改寫。
 
 ### 主要音樂節目榜單排名
 
@@ -1075,8 +1076,8 @@ SHOW;zh-hans:韓秀榜}-](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")》�
 <td><p><a href="../Page/韓國放送公社.md" title="wikilink">KBS</a></p></td>
 </tr>
 <tr class="even">
-<td><p>9</p></td>
-<td><p>11</p></td>
+<td><p>10</p></td>
+<td><p>12</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -1085,7 +1086,7 @@ SHOW;zh-hans:韓秀榜}-](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")》�
 <tr class="even">
 <td><p>四台冠軍歌曲總數：1<br />
 五台冠軍歌曲總數：2<br />
-六台冠軍歌曲總數：2</p></td>
+六台冠軍歌曲總數：3</p></td>
 <td><p>HOT3歌曲總數：3</p></td>
 </tr>
 </tbody>
@@ -1214,25 +1215,28 @@ SHOW;zh-hans:韓秀榜}-](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")》�
 96.
 97.
 98.
-99. [Gfriend L.O.L Singapore
-    Showcase 2016](http://x-clusive.sg/2016/07/12/gfriend-lol-singapore-showcase-2016/)
-100. [GFriend to hold showcase in
+99.
+100.
+101.
+102. [Gfriend L.O.L Singapore
+     Showcase 2016](http://x-clusive.sg/2016/07/12/gfriend-lol-singapore-showcase-2016/)
+103. [GFriend to hold showcase in
      Manila](http://www.mb.com.ph/gfriend-to-hold-showcase-in-manila/)
-101. [國民女團GFriend 10/1即將來台！
+104. [國民女團GFriend 10/1即將來台！
      全區近距離擊掌！](http://www.koreastardaily.com/tc/news/82726)
-102. [GFRIEND - Me Gustas
+105. [GFRIEND - Me Gustas
      Tu](https://www.youtube.com/watch?v=eCT6x_pExvE)
-103.
-104.
-105.
-106. [GFRIEND - NAVILLERA](https://www.youtube.com/watch?v=26Om4JYTVvQ)
+106.
 107.
 108.
-109.
-110. [GFRIEND-INTRO+NAVILLERA](https://www.youtube.com/watch?v=63PXew5bpHQ)
-111. [GFRIEND-Black Cat](https://www.youtube.com/watch?v=fUAFcZDBPxg)
-112. [LOVE WHISPER](https://www.youtube.com/watch?v=UJ0GFdgQqtE)
-113. [EUNHA\&YUJU - Spring Is Gone By Chance +
+109. [GFRIEND - NAVILLERA](https://www.youtube.com/watch?v=26Om4JYTVvQ)
+110.
+111.
+112.
+113. [GFRIEND-INTRO+NAVILLERA](https://www.youtube.com/watch?v=63PXew5bpHQ)
+114. [GFRIEND-Black Cat](https://www.youtube.com/watch?v=fUAFcZDBPxg)
+115. [LOVE WHISPER](https://www.youtube.com/watch?v=UJ0GFdgQqtE)
+116. [EUNHA\&YUJU - Spring Is Gone By Chance +
      jet'aime](https://www.youtube.com/watch?v=Q6GqT97aAGs)
-114.
-115.
+117.
+118.

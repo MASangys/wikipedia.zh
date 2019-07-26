@@ -4,6 +4,11 @@ Watch预售的新商品发布）。
 新一代的MacBook去除了一切接口，只留下耳機插口和新加入的[USB
 Type-C](../Page/USB_3.1.md "wikilink") 端口，並移除散热风扇，将最厚度减小到了1.31厘米。
 
+2019年7月9日，Apple從官網商店下架該產品，並同時下架上一代MacBook Air，以新款[MacBook
+Air](../Page/MacBook_Air.md "wikilink") 代替。\[1\]
+
+
+
 ## 简介
 
 在2015年3月，MacBook 的機身被重新設計成比前一代的 MacBook 以及 [MacBook
@@ -17,7 +22,7 @@ Air](../Page/MacBook_Air.md "wikilink") 笔记本電腦外再添加了一款新�
 [Mac](https://zh.wikipedia.org/wiki/Mac "wikilink")。新MacBook採用 Intel
 Core M
 處理器，代號[Broadwell-Y](../Page/Broadwell微架構.md "wikilink")，熱設計功率只有4.5W。作為對比，MacBook
-Air採用的 Core i5 處理器，其規格為15W，可配置9.5W。\[1\]此外，新版的Macbook也配置有Force
+Air採用的 Core i5 處理器，其規格為15W，可配置9.5W。\[2\]此外，新版的Macbook也配置有Force
 Touch触摸板（译为：感应力触摸板），此也是笔记本上一次新的设计观念。
 
 ## 设计
@@ -34,7 +39,7 @@ Mechanism）的全新設計，使按键的深度降低了40％，可以更穩定
 ### 显示屏
 
 显示屏也经过重新设计，升級為[Retina顯示屏](https://zh.wikipedia.org/wiki/Retina顯示屏 "wikilink")，分辨率为2304
-X 1440，長寬比為16:10。\[2\]
+X 1440，長寬比為16:10。\[3\]
 
 ### 外表
 
@@ -185,3 +190,4 @@ NT$51,900</p></td>
 
 1.
 2.
+3.

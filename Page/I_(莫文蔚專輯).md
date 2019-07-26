@@ -29,16 +29,13 @@ Music后發行的首張專輯](https://zh.wikipedia.org/wiki/Sony_Music "wikilin
   - [中國報](https://zh.wikipedia.org/wiki/中國報 "wikilink")（馬來西亞）-
     2002年心水之選十大中文專輯
   - **愛**（歌曲）：
-      - 2002年[勁歌金曲季選第二季](https://zh.wikipedia.org/wiki/勁歌金曲季選 "wikilink")
-        - 最受歡迎國語歌曲獎
+      - [2002年勁歌金曲第二季季選](../Page/2002年勁歌金曲第二季季選得獎名單.md "wikilink") -
+        最受歡迎國語歌曲獎
       - [第二十五屆十大中文金曲得獎名單](../Page/第二十五屆十大中文金曲得獎名單.md "wikilink") -
         優秀國語歌曲銅獎
       - [2002年度新城勁爆頒獎禮得獎名單](../Page/2002年度新城勁爆頒獎禮得獎名單.md "wikilink")：新城勁爆國語歌曲
       - [2002年度新城國語力頒獎禮得獎名單](../Page/2002年度新城國語力頒獎禮得獎名單.md "wikilink")：新城國語力歌曲
-      - [2003年度音樂風雲榜頒獎盛典得獎名單](../Page/2003年度音樂風雲榜頒獎盛典得獎名單.md "wikilink")
-        - 港臺年度十大金曲
-      - 第九屆[Channel
-        V](../Page/Channel_V.md "wikilink")[全球華語音樂榜中榜](https://zh.wikipedia.org/wiki/全球華語音樂榜中榜 "wikilink")
+      - [第9屆全球華語音樂榜中榜](https://zh.wikipedia.org/wiki/全球華語音樂榜中榜 "wikilink")
         - 港臺最受歡迎十首歌曲
       - 2010蒙牛酸乳[音樂風雲榜十年盛典](https://zh.wikipedia.org/wiki/音樂風雲榜 "wikilink")：十年港臺十大金曲
       - 第一屆[東南勁爆音樂榜](https://zh.wikipedia.org/wiki/東南勁爆音樂榜 "wikilink") -
@@ -46,10 +43,17 @@ Music后發行的首張專輯](https://zh.wikipedia.org/wiki/Sony_Music "wikilin
       - 臺灣[Hit FM電台](https://zh.wikipedia.org/wiki/Hit_FM "wikilink")：
         Hit Fm年度百首單曲（第50位）
   - **單人房雙人床**（歌曲）：
-      - 第三屆[華語音樂傳媒大獎](https://zh.wikipedia.org/wiki/華語音樂傳媒大獎 "wikilink")
+      - [第3屆華語音樂傳媒大獎](https://zh.wikipedia.org/wiki/華語音樂傳媒大獎 "wikilink")
         - 十大華語歌曲
       - [2002年度TVB8金曲榜頒獎典禮得獎名單](../Page/2002年度TVB8金曲榜頒獎典禮得獎名單.md "wikilink")
         - 金曲獎
+
+<!-- end list -->
+
+  - [2003年度音樂風雲榜頒獎盛典](../Page/2003年度音樂風雲榜頒獎盛典得獎名單.md "wikilink")（提名）：
+      - 年度最佳女歌手(港台)
+      - 年度最佳錄影帶 - 《愛》
+      - 港台年度十大金曲 - 《愛》（獲獎）
 
 ## 其他翻唱版本
 

@@ -61,14 +61,16 @@ Vegas》。該部小說於1998年被拍成同名電影，中文片名翻譯有�
     Up」作為《[霸穹封神演義](https://zh.wikipedia.org/wiki/霸穹封神演義 "wikilink")》的主題曲。
   - 2018 年 6 月 30 日，在官方網站上宣布了 Sxun 因為個人原因退出的消息。\[1\]
   - 2019 年 1 月 12 日，Kei 深夜因急性心臟衰竭於家中過世，原本預計 13 日參加的『NO MATTER
-    LIVE』也因故取消\[2\]。目前樂團活動暫時中止。\[3\]
+    LIVE』也因故取消\[2\]。樂團活動暫時中止。\[3\]
+  - 2019 年 6 月 7 日，在大阪舉行了追悼公演『Thanks to You All』。
+  - 2019 年 6 月 29日，在官方網站上宣布了新成員Tetsuya的加入，並正式重新開始樂團活動。
 
 ## 成員
 
   -
     **So** -
     [主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")、[嘶吼](https://zh.wikipedia.org/wiki/嘶吼 "wikilink")、Vocoder（[效果器](../Page/效果器.md "wikilink")）、[編程](https://zh.wikipedia.org/wiki/編程 "wikilink")
-    本名**竹田蒼**，關西學院大學理工學部情報學科，加古川東高等學校，1990年生。
+    關西學院大學理工學部情報學科，加古川東高等學校，1990年生。
     2009年高中畢業後才加入樂團，原先是「**Bomb
     Religion**」的主唱兼[吉他手](../Page/吉他.md "wikilink")，特徵是短褲與隨時更換髮型和髮色的頭髮。
     弟弟是樂團「**Scene In A Moment**」的主唱**Ryota**。
@@ -78,7 +80,7 @@ Vegas》。該部小說於1998年被拍成同名電影，中文片名翻譯有�
   -
     **Minami** -
     [主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")、[嘶吼](https://zh.wikipedia.org/wiki/嘶吼 "wikilink")、[鍵盤](https://zh.wikipedia.org/wiki/鍵盤 "wikilink")、[合成器](../Page/合成器.md "wikilink")（[電子琴](../Page/電子琴.md "wikilink")）
-    本名未知，關西學院大學理工學部，1990年生。
+    關西學院大學理工學部，1990年生。
     特徵是一頭黑色捲髮和煙燻妝，在學生時期與「[Crossfaith](../Page/Crossfaith.md "wikilink")」的貝斯手**Hiroki**曾組名為「**BlankTime**」的樂團。
 
 <!-- end list -->
@@ -86,16 +88,21 @@ Vegas》。該部小說於1998年被拍成同名電影，中文片名翻譯有�
   -
     **Taiki** -
     [吉他](../Page/吉他.md "wikilink")、[和聲](https://zh.wikipedia.org/wiki/和聲 "wikilink")
-    本名未知
     是樂團的節奏吉他手，特徵是濃密的鬍子與各種誇張的服裝造型。
-    學生時期屬於「**Ending for a Start**」這組樂團。
+    曾與**Sxun**、**Tomonori**同屬於「**Ending for a Start**」這組樂團。
 
 <!-- end list -->
 
   -
     **Tomonori** - [鼓](../Page/鼓.md "wikilink")
-    本名未知，平常會戴著一頂黑色鴨舌帽，底下是一頭長髮，很少露出面部。
+    平常會戴著一頂黑色鴨舌帽，底下是一頭長髮，很少露出面部。
     學生時期與**Sxun**、**Taiki**同屬「**Ending for a Start**」這組樂團。
+
+<!-- end list -->
+
+  -
+    **Tetsuya** - [貝斯](https://zh.wikipedia.org/wiki/貝斯 "wikilink")
+    來歷暫未清楚，只知道他是當**Kei**離開大家後，Falilv重新開始舉辦活動的時候加入的，如果想了解更多，請到他的Twitter。
 
 ## 前任成員
 
@@ -109,18 +116,19 @@ Vegas》。該部小說於1998年被拍成同名電影，中文片名翻譯有�
   -
     **Sxun** -
     [吉他](../Page/吉他.md "wikilink")、[和聲](https://zh.wikipedia.org/wiki/和聲 "wikilink")
-    本名未知，6月12日生，和**Tomonori**、**Kei**讀同一間大學。
+    6月12日生，和**Tomonori**、**Kei**讀同一間大學。
     是樂團的主音吉他手兼團長，也是LIVE表演時的MC擔當。特徵是雙手的刺青，在**So**加入之前是負責主唱的位置。
-    學生時期屬於「**Ending for a Start**」這組樂團。
+    學生時期與**Taiki**、**Tomonori**同屬於「**Ending for a Start**」這組樂團。
     2018 年因個人因素退出，有粉絲懷疑退出的原因是因為跟他之前演出時需要坐輪椅的事情有關。
     退出後跟**DJ Fox**有合作，並且發佈了四首歌曲，其中最著名的是
+    **DJ Fox** - GOOD BYE feat. **Sxun**
 
-**DJ Fox** - GOOD BYE feat. **Sxun**
+<!-- end list -->
 
   -
     **Kei** -
     [貝斯](https://zh.wikipedia.org/wiki/貝斯 "wikilink")、[和聲](https://zh.wikipedia.org/wiki/和聲 "wikilink")
-    本名未知，在前任貝斯手**Mashu**退出後加入。
+    在前任貝斯手**Mashu**退出後加入。
     與**Tomonori**私交甚篤，曾指導過**Mashu**的貝斯。
     2019 年 1 月 12 日深夜，因急性心臟衰竭於家中過世。
 
@@ -220,6 +228,19 @@ VPCC-82656 (Premium Edition)</p></td>
 <li>Something to Gain After the Pain</li>
 </ol></td>
 <td><p>WPCL-12672</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>7th</p></td>
+<td><p>2018年5月2日</p></td>
+<td><p><strong>Greedy</strong></p></td>
+<td><ol>
+<li>Greedy</li>
+<li>Keep the Heat and Fire Yourself Up</li>
+<li>Treasure in Your Hands</li>
+</ol></td>
+<td><p>WPCL-12870 (Normal Edition)<br />
+WPZL-31440/1 (Special Edition)</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -431,11 +452,55 @@ VPCC-82656 (Premium Edition)</p></td>
 
 ### DVD/BD
 
-| 順序  | 發售日        | 作品名                          | 曲目       | 標準編號       | 最高排名 |
-| --- | ---------- | ---------------------------- | -------- | ---------- | ---- |
-| 1st | 2013年6月26日 | **The Animals in Screen**    | **全29曲** | VPBQ-19076 | 13位  |
-| 2nd | 2016年4月27日 | **The Animals in Screen II** | **全29曲** | VPBQ-19096 |      |
-|     |            |                              |          |            |      |
+<table>
+<thead>
+<tr class="header">
+<th><p>順序</p></th>
+<th><p>發售日</p></th>
+<th><p>作品名</p></th>
+<th><p>曲目</p></th>
+<th><p>標準編號</p></th>
+<th><p>最高排名</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1st</p></td>
+<td><p>2013年6月26日</p></td>
+<td><p><strong>The Animals in Screen</strong></p></td>
+<td><p><strong>全29曲</strong></p></td>
+<td><p>VPBQ-19076 (DVD)<br />
+VPXQ-79001 (Blu-ray)</p></td>
+<td><p>13位</p></td>
+</tr>
+<tr class="even">
+<td><p>2nd</p></td>
+<td><p>2016年4月27日</p></td>
+<td><p><strong>The Animals in Screen Ⅱ</strong></p></td>
+<td><p><strong>全29曲</strong></p></td>
+<td><p>VPBQ-19096 (DVD)<br />
+VPXQ-79007 (Blu-ray)</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>3rd</p></td>
+<td><p>2019年1月16日</p></td>
+<td><p><strong>The Animals in Screen Ⅲ</strong></p></td>
+<td><p><strong>全30曲</strong></p></td>
+<td><p>WPBL-90493 (DVD)<br />
+WPXL-90192 (Blu-ray)</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ### 地下樂團時期
 
@@ -574,22 +639,51 @@ VPCC-82656 (Premium Edition)</p></td>
         more
   - 2014年12月19日 - Fear, and Loathing in Las Vegas「PHASE 2」Release Tour
     Final
+  - 2015年6月11日-14日（3公演）- Fear, and Loathing in Las
+    Vegas×dustbox×UZMK「3×3 Short Tour 2015 in TOHOKU」
+  - 2015年10月9日-2016年1月7日（24公演）Fear, and Loathing in Las Vegas Feeling of
+    Unity Release Tour One Man Show
+  - 2016年4月26日-5月7日（4公演）- Fear, and Loathing in Las Vegas First Oon Man
+    Shows Tour 2016
+  - 2016年10月22日-12月9日（16公演）- 2 Man Shows Tour 2016
   - 2017年6月14日 - SINGLE「SHINE」Release Special One Man Show
+  - 2017年11月7日-2018年3月31日（47公演） - Album「New Sunrise」Release Tour 2017-18
+  - 2018年4月14日 -「New Sunrise」 Release Tour 2017-2018 Grand Final Special
+    One Man Show
+  - 2018年4月24日-25日 - Fear, and Loathing in Las Vegas Short Tour 2018
+  - 2018年10月5日-12月6日（18公演）- Fear, and Loathing in Las Vegas Move Ahead
+    Tour 2018
+  - 2018年12月12日 - Fear, and Loathing in Las Vegas Move Ahead Tour 2018
+    Back Final
+  - 2019年6月7日 - 追悼公演「Thanks to You All」
+  - 2019年9月19日-26日（3公演）-「Carry on FaLiLV」One Man Show Short Tour（預計）
+
+
 
 ### 參加音樂祭
 
-  - 2011年5月4日 - COMIN'KOBE11
+2011年
+
+  - 2011年5月4日 - COMIN' KOBE'11
   - 2011年7月23日 - JOIN ALIVE 2011
   - 2011年8月14日 - [SUMMER SONIC](../Page/SUMMER_SONIC.md "wikilink") 2011
   - 2011年10月13日 - 電撃バップ vol.1
   - 2011年12月28日 - COUNTDOWN JAPAN 11/12
+
+
+2012年
+
   - 2012年2月25日 - DEVILOCK NIGHT THE FINAL
   - 2012年3月31日\~04月1日 - PUNKSPRING 2012
-  - 2012年5月5日 - COMIN'KOBE12
+  - 2012年5月5日 - COMIN' KOBE'12
   - 2012年7月22日 - JOIN ALIVE 2012
   - 2012年7月28日 - EGG BRAIN「50 PUSH\!\! ALL AROUND JAPAN TOUR 2012」
   - 2012年8月8日 - Livemasters \&CREATIVEMAN presents 【VOL.0】
   - 2012年8月19日 - SUMMER SONIC 2012
+
+
+2013年
+
   - 2013年2月23日 - TOYOTA BIG AIR 2013 LIVE ACT
   - 2013年3月30日,31日 - PUNKSPRING 2013
   - 2013年4月10日 - New Audiogram ver.6.2
@@ -599,6 +693,10 @@ VPCC-82656 (Premium Edition)</p></td>
   - 2013年8月10日 - SUMMER SONIC 2013
   - 2013年9月23日 - MADOllie2013
   - 2013年12月28日 - RADIO CRAZY 2013
+
+
+2014年
+
   - 2014年1月13日 - GO LIVE VOL.1 〜a loud celebration〜
   - 2014年2月9日 - TRIPLE VISION entertainment presents SCREAM OUT FEST
     2014
@@ -606,19 +704,93 @@ VPCC-82656 (Premium Edition)</p></td>
   - 2014年3月15日 - NO MATTER LIVE 2014
   - 2014年4月15日 - MONSTER ENERGY OUTBURN TOUR 2014
   - 2014年5月6日 - FOUR SEASONS FESTIVAL'14
+  - 2014年6月13日 - ULTRA KOREA 2014
   - 2014年7月20日 - JOIN ALIVE 2014
   - 2014年7月24日 - New Audiogram ver.8
   - 2014年7月26日 - OGA NAMAHAGE ROCK FESTIVAL VOL.5
-  - 2014年8月16日,17日 - SUMMER SONIC 2014
+  - 2014年8月16日 - SUMMER SONIC 2014
   - 2014年8月23日 - WILD BUNCH FEST. 2014
   - 2014年8月24日 - MONSTER baSH 2014
   - 2014年8月30日 - SPACE SHOWER SWEET LOVE SHOWER 2014
-  - 2015年6月27日 - LUNATIC_FEST. 2015
+
+
+2015年
+
+  - 2015年1月18日 - PUNISHER'S NIGHT 2015
+  - 2015年4月25日 - ARABAKI ROCK FEST.15
+  - 2015年4月29日 - COMIN' KOBE'15
+  - 2015年6月7日 - 百万石音楽祭 2015 ～ミリオンロックフェスティバル～
+  - 2015年6月20日 - SATANIC CARNIVAL’15
+  - 2015年6月27日 - LUNATIC FEST. 2015
+  - 2015年8月1日 - ROCK IN JAPAN FESTIVAL 2015
+  - 2015年8月7日 - INCHEON PENTAPORT ROCK FESTIVAL 2015 韓國
+  - 2015年8月14日 - RISING SUN ROCK FESTIVAL 2015
+  - 2015年8月16日 - SUMMER SONIC 2015
+  - 2015年8月23日 - MONSTER baSH 2015
+  - 2015年8月28日 - SWEET LOVE SHOWER 2015
+  - 2015年8月30日 - FREEDOM aozora 2015
+  - 2015年9月6日 - TREASURE05X 2015
   - 2015年9月19日 - Inazuma Rock Fest. 2015
+  - 2015年10月3日 - マグロック 2015
+  - 2015年10月31日 - DOGIMAZUN 2015
+  - 2015年11月22日 - Ozzfest Japan 2015
+
+
+2016年
+
+  - 2016年1月23日 - NO MATTER LIVE 2016
+  - 2016年5月29日 - MUSIC APPLE LIVE 2016
+  - 2016年6月5日 - 百万石音楽祭2016 ～ミリオンロックフェスティバル～
+  - 2016年7月2日 - 京都大作戦2016～吸収年\!栄養満点\!音のお野祭\!～
+  - 2016年7月16日 - JOIN ALIVE 2016
+  - 2016年8月21日 - WILD BUNCH FEST. 2016
+  - 2016年9月3日 - TREASURE05X 2016
+  - 2016年9月27日 - Monster Rock Tour 2016
+  - 2016年11月6日 - バズリズム LIVE 2016
+  - 2016年12月25日 - ポルノ超特急2016
+
+
+2017年
+
   - 2017年3月26日 - [大港開唱](../Page/大港開唱.md "wikilink") 2017
-  - 2017年5月4日 - NIGATA RAINBOW ROCK 2017
-  - 2017年5月19日 - TOKYO METROPOLITAN ROCKFESTIVAL 2017
+  - 2017年4月1日 - MEGA VEGAS 2017
+  - 2017年4月30日 - Strawberry Music Festival 2017 上海
+  - 2017年5月5日 - NIGATA RAINBOW ROCK 2017
+  - 2017年5月7日 - COMIN' KOBE'17
+  - 2017年5月20日 - TOKYO METROPOLITAN ROCKFESTIVAL 2017
   - 2017年6月18日 - SATANIC CARNIVAL'17
+  - 2017年8月5日 - WEST GIGANTIC CITYLAND ‘17
+  - 2017年8月19日 - SUMMER SONIC 2017
+  - 2017年8月22日 - Dim The Lights Tour 2017
+  - 2017年8月26日 - SPACE SHOWER SWEET LOVE SHOWER
+  - 2017年9月3 日 - TREASURE05X 2017
+  - 2017年9月16日 - イナズマロック フェス 2017
+  - 2017年10月28日 - DOGIMAZUN HELLOWEEN PARTY 2017
+  - 2017年11月4日 - NO MATTER LIVE Special 2017
+  - 2017年12月23日 - ポルノ超特急2017
+  - 2017年12月28日 - FM802 ROCK FESTIVAL RADIO CRAZY 2017
+  - 2017年12月29日 - COUNTDOWN JAPAN 17/18
+
+
+2018年
+
+  - 2018年4月29日 - COMING' KOBE'18
+  - 2018年5月19日 - OSAKA METROPOLITAN ROCK FESTIVAL 2018
+  - 2018年5月26日 - TOKYO METROPOLITAN ROCK FESTIVAL 2018
+  - 2018年6月2日 - 百万石音楽祭 2018 〜ミリオンロックフェスティバル〜
+  - 2018年6月16日 - SATANIC CARNIVAL'18
+  - 2018年7月15日 - JOIN ALIVE 2018
+  - 2018年7月28日 - WILD BUNCH FEST. 2018
+  - 2018年8月5日 - ジャイガ OSAKA MAISHIMA ROCK FES 2018
+  - 2018年8月19日 - SUMMER SONIC 2018
+  - 2018年8月31日 - SWEET LOVE SHOWER 2018
+  - 2018年9月9日 - TREASURE05X 2018
+  - 2018年9月15日 - AMBITIOUS TOHOKU FES 2018
+  - 2018年9月23日 - イナズマロック フェス 2018
+  - 2018年11月3日 - バズリズム LIVE 2018
+  - 2018年12月22日 - ポルノ超特急2018
+  - 2018年12月23日 - MERRY ROCK PARADE 2018
+  - 2018年12月30日 - COUNTDOWN JAPAN 18/19
 
 ## 參考資料
 
@@ -638,6 +810,7 @@ VPCC-82656 (Premium Edition)</p></td>
 
 [Category:2008年日本建立](https://zh.wikipedia.org/wiki/Category:2008年日本建立 "wikilink")
 [Category:VAP旗下藝人](https://zh.wikipedia.org/wiki/Category:VAP旗下藝人 "wikilink")
+[Category:日本龐克搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本龐克搖滾樂團 "wikilink")
 
 1.  <http://www.lasvegas-jp.com/topics/4908>
 2.  13 日時，原本僅臨時宣布因「團員的諸多事情」而缺席；在 16 日時才宣布了 Kei 的死訊。

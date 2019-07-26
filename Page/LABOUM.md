@@ -415,6 +415,7 @@ PlotData =
 | ----- | ---------- | ---- | --- | --- | ------ |
 | 2016年 | 《對決》       | 率濱   |     | |配角 | \[18\] |
 | 2019年 | 《生存者偏向的錯誤》 | 成智娜  | 女主角 |     |        |
+| 2019年 | 《賭上了一切》    | ZN   | 賽綸  | 配角  | \[19\] |
 
 ### 電視劇
 
@@ -448,10 +449,10 @@ PlotData =
 <td></td>
 <td><p><a href="../Page/Brown_Eyed_Girls.md" title="wikilink">Brown Eyed Girls</a></p></td>
 <td><p>率濱</p></td>
-<td><p>《The Original》單曲預告[19]</p></td>
+<td><p>《The Original》單曲預告[20]</p></td>
 </tr>
 <tr class="odd">
-<td><p>One summer night[20]</p></td>
+<td><p>One summer night[21]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -459,20 +460,20 @@ PlotData =
 </tr>
 <tr class="even">
 <td><p>2013年</p></td>
-<td><p>Standing Still[21]</p></td>
+<td><p>Standing Still[22]</p></td>
 <td><p><a href="../Page/U-KISS.md" title="wikilink">U-KISS</a></p></td>
 <td><p>律喜</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Inside of Me[22]</p></td>
+<td><p>Inside of Me[23]</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Open the Door[23]</p></td>
+<td><p>Open the Door[24]</p></td>
 <td><p><a href="../Page/任昌丁.md" title="wikilink">任昌丁</a></p></td>
 <td></td>
 <td></td>
@@ -480,13 +481,13 @@ PlotData =
 </tr>
 <tr class="odd">
 <td><p>2014年</p></td>
-<td><p>Pit a Pat[24]</p></td>
+<td><p>Pit a Pat[25]</p></td>
 <td><p>LABOUM</p></td>
 <td><p>全員</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>What about you[25]</p></td>
+<td><p>What about you[26]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -494,13 +495,13 @@ PlotData =
 </tr>
 <tr class="odd">
 <td><p>2015年</p></td>
-<td><p>SUGAR SUGAR[26]</p></td>
+<td><p>SUGAR SUGAR[27]</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>AALOW AALOW[27]</p></td>
+<td><p>AALOW AALOW[28]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -508,41 +509,41 @@ PlotData =
 </tr>
 <tr class="odd">
 <td><p>2016年</p></td>
-<td><p>MS. BURGUNDY[28]</p></td>
+<td><p>MS. BURGUNDY[29]</p></td>
 <td></td>
 <td><p>律喜</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Journey to Atlantis[29]</p></td>
+<td><p>Journey to Atlantis[30]</p></td>
 <td><p>LABOUM</p></td>
 <td><p>全員</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Stalker[30]</p></td>
+<td><p>Stalker[31]</p></td>
 <td><p><a href="../Page/U-KISS.md" title="wikilink">U-KISS</a></p></td>
 <td><p>率濱</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>푱푱 (Shooting Love)[31]</p></td>
+<td><p>푱푱 (Shooting Love)[32]</p></td>
 <td><p>LABOUM</p></td>
 <td><p>全員</p></td>
 <td><p>|</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Thank You[32]</p></td>
+<td><p>Thank You[33]</p></td>
 <td><p>DJ Hanmin、Flawless、DizzySunn</p></td>
 <td><p>昭娟</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>겨울동화 (Winter Story)[33]</p></td>
+<td><p>겨울동화 (Winter Story)[34]</p></td>
 <td><p>LABOUM</p></td>
 <td><p>全員</p></td>
 <td><p>|</p></td>
@@ -550,34 +551,34 @@ PlotData =
 </tr>
 <tr class="odd">
 <td><p>2017年</p></td>
-<td><p>휘휘 (Hwi Hwi)[34]</p></td>
+<td><p>휘휘 (Hwi Hwi)[35]</p></td>
 <td><p>LABOUM</p></td>
 <td><p>全員</p></td>
 <td><p>|</p></td>
 </tr>
 <tr class="even">
-<td><p>My Turn[35]</p></td>
+<td><p>My Turn[36]</p></td>
 <td><p>THE UNI+</p></td>
 <td><p>柔廷、ZN、海仁</p></td>
 <td><p>THE UNIT節目主題曲</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>SHINE[36]</p></td>
+<td><p>SHINE[37]</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Cherry On Top[37]</p></td>
+<td><p>Cherry On Top[38]</p></td>
 <td><p>THE UNI+ G (10시45분)</p></td>
 <td><p>海仁</p></td>
 <td><p>THE UNIT節目任務</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Always[38]</p></td>
+<td><p>Always[39]</p></td>
 <td><p>THE UNI+ G (블루밍)</p></td>
 <td><p>柔廷</p></td>
 <td></td>
@@ -585,34 +586,34 @@ PlotData =
 </tr>
 <tr class="even">
 <td><p>2018年</p></td>
-<td><p>넘어(No More)[39]</p></td>
+<td><p>넘어(No More)[40]</p></td>
 <td><p><a href="../Page/UNI.T.md" title="wikilink">UNI.T</a></p></td>
 <td><p>ZN</p></td>
 <td><p>|</p></td>
 </tr>
 <tr class="odd">
-<td><p>XOXO[40]</p></td>
+<td><p>XOXO[41]</p></td>
 <td><p>朴宰正 X 昭娟</p></td>
 <td><p>昭娟</p></td>
 <td><p>兩人合作的單曲</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>체온 (Between Us)[41]</p></td>
+<td><p>체온 (Between Us)[42]</p></td>
 <td><p>LABOUM</p></td>
 <td><p>全員</p></td>
 <td><p>|</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Hwi hwi -Japanese Ver.-[42]</p></td>
+<td><p>Hwi hwi -Japanese Ver.-[43]</p></td>
 <td><p>LABOUM</p></td>
 <td><p>全員</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>불을 켜(Turn It On)[43]</p></td>
+<td><p>불을 켜(Turn It On)[44]</p></td>
 <td><p>LABOUM</p></td>
 <td><p>全員</p></td>
 <td></td>
@@ -620,13 +621,13 @@ PlotData =
 </tr>
 <tr class="odd">
 <td><p>2019年</p></td>
-<td><p>災難賠償責任保險[44]</p></td>
+<td><p>災難賠償責任保險[45]</p></td>
 <td><p>LABOUM</p></td>
 <td><p>全員</p></td>
 <td><p>韓國行政安全部門宣導歌曲</p></td>
 </tr>
 <tr class="even">
-<td><p>코리안드림 (Korean Dream)[45]</p></td>
+<td><p>코리안드림 (Korean Dream)[46]</p></td>
 <td><p>One K Stars</p></td>
 <td><p>全員</p></td>
 <td><p>韓國3.1運動100周年紀念歌曲</p></td>
@@ -686,221 +687,6 @@ PlotData =
 </tbody>
 </table>
 
-### 廣播節目
-
-| 2014年廣播節目列表 |
-| ----------- |
-|             |
-| 日期          |
-| 9月29日       |
-| 10月11日      |
-| 11月7日       |
-| 11月29日      |
-| 12月15日      |
-
-| 2015年廣播節目列表 |
-| ----------- |
-|             |
-| 日期          |
-| 3月24日       |
-| 4月3日        |
-| 4月6日        |
-| 4月12日       |
-| 5月28日       |
-| 11月30日      |
-| 12月6日       |
-| 12月7日       |
-| 12月10日      |
-
-| 2016年廣播節目列表 |
-| ----------- |
-|             |
-| 日期          |
-| 1月26日       |
-| 3月1日        |
-| 4月7日        |
-| 4月7日        |
-| 4月18日       |
-| 4月21日       |
-| 4月25日       |
-| 5月5日        |
-| 5月16日       |
-| 5月30日       |
-| 6月18日       |
-| 7月9日        |
-| 7月23日       |
-| 8月28日       |
-| 8月29日       |
-| 8月31日       |
-| 9月1日        |
-| 9月2日        |
-| 9月5日        |
-| 9月7日        |
-| 9月7日        |
-| 9月10日       |
-| 10月7日       |
-| 10月9日       |
-| 10月21日      |
-| 12月8日       |
-| 12月11日      |
-| 12月19日      |
-| 12月19日      |
-
-| 2017年廣播節目列表 |
-| ----------- |
-|             |
-| 日期          |
-| 1月26日       |
-| 2月1日        |
-| 3月9日        |
-| 4月20日       |
-| 4月22日       |
-| 4月26日       |
-| 4月28日       |
-| 5月1日        |
-| 5月3日        |
-| 5月7日        |
-| 5月8日        |
-| 5月10日       |
-| 5月11日       |
-| 5月25日       |
-| 6月18日       |
-| 6月25日       |
-| 7月28日       |
-| 7月31日       |
-| 8月10日       |
-| 8月16日       |
-
-| 2018年廣播節目列表 |
-| ----------- |
-|             |
-| 日期          |
-| 1月22日       |
-| 7月31日       |
-| 8月5日        |
-| 8月9日        |
-| 8月10日       |
-| 8月13日       |
-| 8月16日       |
-| 8月18日       |
-| 8月28日       |
-| 10月31日      |
-| 12月12日      |
-| 12月17日      |
-| 12月22日      |
-
-| 2019年廣播節目列表 |
-| ----------- |
-|             |
-| 日期          |
-| 1月3日        |
-| 1月10日       |
-| 3月17日       |
-|             |
-
-### 綜藝節目
-
-| 2014年綜藝節目列表   |
-| ------------- |
-|               |
-| 播出日期          |
-| 10月28日－11月11日 |
-| 11月18日        |
-| 11月18日        |
-| 11月30日        |
-
-| 2015年綜藝節目列表 |
-| ----------- |
-| 播出日期        |
-| 1月5日        |
-| 3月29日       |
-| 4月22日       |
-| 6月19日－9月4日  |
-| 6月28日       |
-| 12月14日      |
-
-| 2016年綜藝節目列表 |
-| ----------- |
-|             |
-| 播出日期        |
-| 1月4日        |
-| 4月5日、16日    |
-| 4月13日       |
-| 4月13日       |
-| 4月17日       |
-| 4月17日       |
-| 7月19日－9月27日 |
-| 8月11日       |
-| 8月31日       |
-| 9月3日        |
-| 9月5日        |
-| 9月19日       |
-| 10月16日      |
-| 12月14日      |
-
-| 2017年綜藝節目列表       |
-| ----------------- |
-|                   |
-| 播出日期              |
-| 1月16日             |
-| 1月27日             |
-| 1月30日             |
-| 3月9、16日           |
-| 4月17日             |
-| 5月9日              |
-| 5月14日             |
-| 5月17日             |
-| 5月21日             |
-| 6月25日             |
-| 7月8日              |
-| 8月19日             |
-| 10月28日－2018年2月10日 |
-| 12月1日－2018年1月26日  |
-| 12月9日             |
-|                   |
-
-| 2018年綜藝節目列表                            |
-| -------------------------------------- |
-|                                        |
-| 播出日期                                   |
-| 1月7日                                   |
-| 2月15日、16日                              |
-| 4月11日                                  |
-| 5月11日、18日                              |
-| 5月19日、26日                              |
-| 5月20日                                  |
-| 《[搞笑演唱會](../Page/搞笑演唱會.md "wikilink")》 |
-| 6月20日                                  |
-| 6月30日                                  |
-| 5月28日-7月30日                            |
-| 7月11日                                  |
-| 8月8日                                   |
-| 8月9日                                   |
-| 8月13日                                  |
-| 8月17日                                  |
-| 8月20日                                  |
-| 8月27日、9月3日                             |
-| 8月28日                                  |
-| 9月5日                                   |
-| 11月30日                                 |
-| 11月31日                                 |
-| 12月9日                                  |
-| 12月9日                                  |
-| 12月31日                                 |
-|                                        |
-
-| 2019年綜藝節目列表 |
-| ----------- |
-|             |
-| 播出日期        |
-| 1月31日       |
-| 2月5日、6日     |
-| 2月22日       |
-| 2月26日－3月26日 |
-| 3月17日、3月24日 |
-| 4月2日        |
-|             |
-
 ## 主持
 
 ### 節目主持
@@ -915,7 +701,7 @@ PlotData =
 | 2017年5月11日－2017年6月8日  | 동아TV                                                  | 《BEAUTY & LOVELY》                                                        | 海仁   | 固定MC       |
 | 2018年8月9日             | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | 《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》 | 率濱   | Special MC |
 | 2019年4月2日－2019年4月23日  | Olive                                                 | 《One Pick Road》                                                          | 固定MC |            |
-| 2019年4月8日－            | JTBC4                                                 | 《Beauty Room》                                                            |      |            |
+| 2019年4月8日－2019年6月10日  | JTBC4                                                 | 《Beauty Room》                                                            |      |            |
 
 ## 代言
 
@@ -1267,6 +1053,8 @@ PlotData =
 | 5月25日       |
 | 5月31日       |
 | 6月8日        |
+| 7月16日       |
+| 7月18日       |
 
 ## 大型拼盤演唱會
 
@@ -1505,3 +1293,5 @@ PlotData =
 44.
 
 45.
+
+46.

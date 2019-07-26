@@ -144,6 +144,8 @@
 [Category:外星生命題材作品](https://zh.wikipedia.org/wiki/Category:外星生命題材作品 "wikilink")
 [Category:机器人超级英雄](https://zh.wikipedia.org/wiki/Category:机器人超级英雄 "wikilink")
 [Category:1973年電視劇集](https://zh.wikipedia.org/wiki/Category:1973年電視劇集 "wikilink")
+[Category:车辆题材作品](https://zh.wikipedia.org/wiki/Category:车辆题材作品 "wikilink")
+[Category:航空题材作品](https://zh.wikipedia.org/wiki/Category:航空题材作品 "wikilink")
 
 1.  メカデザインも担当。
 

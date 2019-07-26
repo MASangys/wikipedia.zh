@@ -175,11 +175,9 @@ Pro研修生](../Page/Hello!_Pro研修生.md "wikilink")）。
 
 ## 團體名
 
-[日本辛夷為日本原產的花](https://zh.wikipedia.org/wiki/日本辛夷 "wikilink")。“kobushi”這個花名，拳頭也是由來。
-希望成為好像[日本辛夷似的既](https://zh.wikipedia.org/wiki/日本辛夷 "wikilink")“優美”，又“力量大”的團體，包括那樣的思想，命名了。[日本辛夷這朵花象征](https://zh.wikipedia.org/wiki/日本辛夷 "wikilink")
-“友誼”“信賴”“歡迎”。
-成員互相增進“友誼”與“信賴”，很多人“歡迎”的團體為目標。
-[Berryz工房停止活動以後](../Page/Berryz工房.md "wikilink")，就職了“[早安家族顧問](../Page/早安家族.md "wikilink")（adviser）”的[清水佐紀也參與了命名的工作](https://zh.wikipedia.org/wiki/清水佐紀 "wikilink")。希望能繼承下去[Berryz工房的精神](../Page/Berryz工房.md "wikilink")（spirit）——“Factory（工廠）”則包括了那樣的思想。
+[日本辛夷象征](https://zh.wikipedia.org/wiki/日本辛夷 "wikilink")“友誼”“信賴”“歡迎”。希望成為[日本辛夷似的既](https://zh.wikipedia.org/wiki/日本辛夷 "wikilink")“優美”又“强大”的團體，成員互相增進“友誼”與“信賴”，受“歡迎”。
+
+[Berryz工房停止活動以後](../Page/Berryz工房.md "wikilink")，就職了“[早安家族顧問](../Page/早安家族.md "wikilink")（adviser）”的[清水佐紀也參與了命名的工作](https://zh.wikipedia.org/wiki/清水佐紀 "wikilink")。希望能繼承[Berryz工房的精神](../Page/Berryz工房.md "wikilink")（spirit）——“Factory（工廠）包括了那樣的思想。
 \[1\]
 
 ## 歷史

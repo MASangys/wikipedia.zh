@@ -1,10 +1,10 @@
 {{ external media | float = right | width = 300px | video1 =
 [BEYOND【海闊天空】Official Music
 Video](https://www.youtube.com/watch?v=qu_FSptjRic) 滾石唱片 }}
-《**海闊天空**》是[香港殿堂級搖滾樂隊](../Page/香港.md "wikilink")[Beyond的著名歌曲之一](../Page/Beyond.md "wikilink")，於1993年創作，收錄於《[樂與怒](../Page/樂與怒.md "wikilink")》大碟，作曲、作詞及主音均為樂隊靈魂人物[黃家駒](../Page/黃家駒.md "wikilink")。此曲至今仍然在香港及華人地區保持極高知名度，與《[Amani](../Page/Amani.md "wikilink")》及《[光輝歲月](https://zh.wikipedia.org/wiki/光輝歲月 "wikilink")》等具有國際視野及人文關懷的歌曲不同，此曲是具本土情懷及勵志的歌曲。
+《**海闊天空**》是[香港搖滾樂隊](../Page/香港.md "wikilink")[Beyond的著名歌曲之一](../Page/Beyond.md "wikilink")，於1993年創作，收錄於《[樂與怒](../Page/樂與怒.md "wikilink")》大碟，亦是[香港電台電視節目](../Page/香港電台.md "wikilink")《驕陽歲月》的主題曲，作曲、作詞及主音均為樂隊靈魂人物[黃家駒](../Page/黃家駒.md "wikilink")。歌曲以追求音樂夢想為主題，也滲入了Beyond成立10年的感情；與《[Amani](../Page/Amani.md "wikilink")》及《[光輝歲月](https://zh.wikipedia.org/wiki/光輝歲月 "wikilink")》等具有國際視野及人文關懷的歌曲不同，富有本土情懷。
 
-此曲以追求音樂夢想為主題，也滲入了Beyond成立10年的感情，同時亦錄製了日文版的日本[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")《[遙かなる夢に～Far
-away～](https://zh.wikipedia.org/wiki/遙かなる夢に～Far_away～ "wikilink")》。《海闊天空》是[香港電台電視節目](../Page/香港電台.md "wikilink")《驕陽歲月》的主題曲。可惜黃家駒在完成此曲後不足2個月，在該年6月30日便於日本意外死亡，此曲亦成為他的絕響。
+Beyond同時亦錄製了日文版的[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")《[遙かなる夢に～Far
+away～](https://zh.wikipedia.org/wiki/遙かなる夢に～Far_away～ "wikilink")》。此曲製作完成後不足2個月，黃家駒於日本意外身故，成為其絕響作。及後見於籌款節目、示威活動等多種場合，至今仍然在香港及華人地區保持極高知名度。
 
 ## 創作
 

@@ -1,5 +1,9 @@
 **Big Huge
-Games**是一個[電子遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")[開發商](https://zh.wikipedia.org/wiki/開發商 "wikilink")，總部位於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[馬里蘭州](https://zh.wikipedia.org/wiki/馬里蘭州 "wikilink")[巴爾的摩郡](https://zh.wikipedia.org/wiki/巴爾的摩郡_\(馬里蘭州\) "wikilink")。公司由四個遊戲開發者共同成立於2000年2月：[Tim
+Games**是一個[電子遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")[開發商](https://zh.wikipedia.org/wiki/開發商 "wikilink")，總部位於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[馬里蘭州](https://zh.wikipedia.org/wiki/馬里蘭州 "wikilink")[巴爾的摩郡](https://zh.wikipedia.org/wiki/巴爾的摩郡_\(馬里蘭州\) "wikilink")。
+
+## 历史
+
+公司由四個遊戲開發者共同成立於2000年2月：[Tim
 Train](https://zh.wikipedia.org/wiki/Tim_Train "wikilink")、[David
 Inscore](https://zh.wikipedia.org/wiki/David_Inscore "wikilink")、[Jason
 Coleman和](https://zh.wikipedia.org/wiki/Jason_Coleman "wikilink")[Brian
@@ -10,6 +14,7 @@ Games」這個名字在2014年10月被Reynolds和Train合資成立的新公司�
 ## 參考來源
 
 [Category:美國電子遊戲公司](https://zh.wikipedia.org/wiki/Category:美國電子遊戲公司 "wikilink")
+[Category:纳克森](https://zh.wikipedia.org/wiki/Category:纳克森 "wikilink")
 
 1.
 2.

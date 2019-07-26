@@ -12,13 +12,13 @@ Days](../Page/Three_Days.md "wikilink")》）與[金元錫導演](../Page/金元
 
 ### 主要人物
 
-<table style="width:10%;">
+<table style="width:72%;">
 <colgroup>
-<col style="width: 1%" />
-<col style="width: 1%" />
-<col style="width: 5%" />
-<col style="width: 1%" />
-<col style="width: 1%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 37%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
 </colgroup>
 <tbody>
 <tr class="odd">

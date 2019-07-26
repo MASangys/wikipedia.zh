@@ -1,4 +1,4 @@
-是原由[任天堂EAD创作的未来派](https://zh.wikipedia.org/wiki/任天堂EAD "wikilink")[竞速游戏系列](https://zh.wikipedia.org/wiki/竞速游戏 "wikilink")，几部续作由多家外部公司开发。游戏首作于1990年登陆[超级任天堂](https://zh.wikipedia.org/wiki/超级任天堂 "wikilink")，任天堂又在之后几部游戏机上创作了续作\[1\]。
+是原由[任天堂情報開發本部创作的未来派](../Page/任天堂情報開發本部.md "wikilink")[竞速游戏系列](https://zh.wikipedia.org/wiki/竞速游戏 "wikilink")，几部续作由多家外部公司开发。游戏首作于1990年登陆[超级任天堂](https://zh.wikipedia.org/wiki/超级任天堂 "wikilink")，任天堂又在之后几部游戏机上创作了续作\[1\]。
 
 系列以高速赛车、独特的角色和设定、困难的游戏性，以及突破技术推动当时高时速竞速游戏极限而知名。[系列首作影响了](https://zh.wikipedia.org/wiki/F-Zero_\(游戏\) "wikilink")《[梦游美国](https://zh.wikipedia.org/wiki/梦游美国 "wikilink")》和[反重力赛车系列等游戏的创作](https://zh.wikipedia.org/wiki/反重力赛车系列 "wikilink")\[2\]\[3\]\[4\]。
 

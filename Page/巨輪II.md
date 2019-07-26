@@ -1,5 +1,5 @@
 《**巨輪II**》（英语：**Brother's Keeper
-II**），[香港](../Page/香港.md "wikilink")[電視廣播有限公司拍攝製作的時裝商戰](../Page/電視廣播有限公司.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，故事背景以商业竞争為題。由[蕭正楠](../Page/蕭正楠.md "wikilink")、[田蕊妮及](../Page/田蕊妮.md "wikilink")[陳凱琳領銜主演](https://zh.wikipedia.org/wiki/陳凱琳 "wikilink")，由[陳展鵬](https://zh.wikipedia.org/wiki/陳展鵬 "wikilink")、[鍾嘉欣及](https://zh.wikipedia.org/wiki/鍾嘉欣 "wikilink")[李亞男特別演出](https://zh.wikipedia.org/wiki/李亞男 "wikilink")，並由[楊明](../Page/楊明.md "wikilink")、[吳岱融](../Page/吳岱融.md "wikilink")、[阮兆祥及](../Page/阮兆祥.md "wikilink")[梁琤聯合主演](../Page/梁琤.md "wikilink")，監製[王心慰](../Page/王心慰.md "wikilink")。
+II**），[香港](../Page/香港.md "wikilink")[電視廣播有限公司拍攝製作的時裝倫理](../Page/電視廣播有限公司.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，故事背景以商业竞争為題。由[蕭正楠](../Page/蕭正楠.md "wikilink")、[田蕊妮及](../Page/田蕊妮.md "wikilink")[陳凱琳領銜主演](https://zh.wikipedia.org/wiki/陳凱琳 "wikilink")，由[陳展鵬](https://zh.wikipedia.org/wiki/陳展鵬 "wikilink")、[鍾嘉欣及](https://zh.wikipedia.org/wiki/鍾嘉欣 "wikilink")[李亞男特別演出](https://zh.wikipedia.org/wiki/李亞男 "wikilink")，並由[楊明](../Page/楊明.md "wikilink")、[吳岱融](../Page/吳岱融.md "wikilink")、[阮兆祥及](../Page/阮兆祥.md "wikilink")[梁琤聯合主演](../Page/梁琤.md "wikilink")，監製[王心慰](../Page/王心慰.md "wikilink")。
 
 此劇是《[巨輪](../Page/巨輪.md "wikilink")》的續集，亦繼續由[钜記餅家冠名贊助](https://zh.wikipedia.org/wiki/钜記餅家 "wikilink")，並於[澳門](../Page/澳門.md "wikilink")、[香港](../Page/香港.md "wikilink")、[日本取景](../Page/日本.md "wikilink")。
 
@@ -420,7 +420,7 @@ Michelle Fabio之專屬時裝設計師<br />
 龍廣鑫、阮淑娥之媳婦<br />
 羅威信之前女友兼生意拍檔<br />
 卓靜、郭凱琳之好友<br />
-高天鷲天敵<br />
+高天鷲之天敵<br />
 沈美華、高先柏之天敵，後和好<br />
 徐知力之暗戀對象<br />
 於第39集被龍飛勸服下決定留在澳門繼續經營羅信記</p></td>
@@ -2771,6 +2771,7 @@ Noon之表哥<br />
   - 此劇亦是[煒烈再次以](../Page/煒烈.md "wikilink")「特約演員」身份參演，最初在其出場集數末尾的演員表並無留名，直至第36集末尾演員表上留名。
   - 此劇為2016年[無綫月曆之一](../Page/無綫月曆.md "wikilink")。
   - 此劇男女主角原定由[陳展鵬](https://zh.wikipedia.org/wiki/陳展鵬 "wikilink")、[鍾嘉欣主演](https://zh.wikipedia.org/wiki/鍾嘉欣 "wikilink")，但因[鍾嘉欣的檔期問題](https://zh.wikipedia.org/wiki/鍾嘉欣 "wikilink")，故改由[蕭正楠以及](../Page/蕭正楠.md "wikilink")[田蕊妮為男女主角](../Page/田蕊妮.md "wikilink")，[陳凱琳為女二](https://zh.wikipedia.org/wiki/陳凱琳 "wikilink")，喬天生與卓靜故事結局未能更加圓滿，只能夠客串1-5集。
+  - 此劇的主題曲《誰可改變》名稱與1984年劇集《[天師執位](../Page/天師執位.md "wikilink")》的主題曲相同名稱，但歌詞內容沒有關聯，而兩者的演唱者也不是同一人。
 
 ## 迴響
 

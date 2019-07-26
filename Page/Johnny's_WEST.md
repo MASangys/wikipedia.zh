@@ -238,7 +238,7 @@ WEST**（）是[日本](../Page/日本.md "wikilink")[傑尼斯事務所旗下�
 | 6 | 2017年5月24日  | **[ジャニーズWEST 1stドーム LIVE ♡24(ニシ)から感謝🎄届けます♡](https://zh.wikipedia.org/wiki/ジャニーズWEST_1stドーム_LIVE_24から感謝届けます "wikilink")**        | 1位       |
 | 7 | 2017年10月25日 | **[ジャニーズWEST LIVE TOUR 2017 なうぇすと](https://zh.wikipedia.org/wiki/ジャニーズWEST_LIVE_TOUR_2017_なうぇすと "wikilink")**                   | 1位\[17\] |
 | 8 | 2018年10月24日 | **[ジャニーズWEST LIVE TOUR 2018 WESTival](https://zh.wikipedia.org/wiki/ジャニーズWEST_LIVE_TOUR_2018_WESTival "wikilink")**             | 1位\[18\] |
-| 9 | 2019年7月10日  | **[ジャニーズWEST LIVE TOUR 2019 WESTV\!](https://zh.wikipedia.org/wiki/ジャニーズWEST_LIVE_TOUR_2019_WESTV! "wikilink")**                | 尚未發行     |
+| 9 | 2019年7月10日  | **[ジャニーズWEST LIVE TOUR 2019 WESTV\!](https://zh.wikipedia.org/wiki/ジャニーズWEST_LIVE_TOUR_2019_WESTV! "wikilink")**                | 1位       |
 
 ### 寫真書
 

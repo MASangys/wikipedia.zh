@@ -27,8 +27,8 @@ Tkiv
 
   - [莫辛-納甘步槍](../Page/莫辛-納甘步槍.md "wikilink")
   - [SVD狙擊步槍](../Page/SVD狙擊步槍.md "wikilink")
-  - [沙科TRG狙擊步槍](../Page/沙科TRG狙擊步槍.md "wikilink")
-  - [沙科蒂卡T3步槍](../Page/沙科蒂卡T3步槍.md "wikilink")
+  - [薩科TRG狙擊步槍](https://zh.wikipedia.org/wiki/薩科TRG狙擊步槍 "wikilink")
+  - [薩科蒂卡T3步槍](https://zh.wikipedia.org/wiki/薩科蒂卡T3步槍 "wikilink")
 
 [Category:栓動式步槍](https://zh.wikipedia.org/wiki/Category:栓動式步槍 "wikilink")
 [Category:狙擊步槍](https://zh.wikipedia.org/wiki/Category:狙擊步槍 "wikilink")

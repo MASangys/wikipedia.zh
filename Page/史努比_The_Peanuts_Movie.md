@@ -120,7 +120,7 @@ Movie**》（，在部分國家記作）是一部於2015年上映的[美國](htt
 
 ### 專業評價
 
-[爛番茄新鮮度](../Page/爛番茄.md "wikilink")87%，基於155條評論，平均分為7.1/10，而在[Metacritic上得到](../Page/Metacritic.md "wikilink")67分，[IMDB上得](https://zh.wikipedia.org/wiki/IMDB "wikilink")7.2分，大獲好評。
+[爛番茄新鮮度](../Page/爛番茄.md "wikilink")87%，基於192條評論，平均分為7.06/10，而在[Metacritic上得到](../Page/Metacritic.md "wikilink")67分，[IMDB上得](https://zh.wikipedia.org/wiki/IMDB "wikilink")7.2分，大獲好評。
 
 ### 獲獎
 

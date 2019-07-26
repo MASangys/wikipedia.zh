@@ -141,7 +141,7 @@ TV自](https://zh.wikipedia.org/wiki/LINE_\(應用程式\) "wikilink")2015年5�
 <td><p>朴鍾漢</p></td>
 <td><p><strong>國情院現場人員</strong><br />
 是鍾赫的左膀右臂，對於所有事情都按照指示處理。</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/莊汶錡" title="wikilink">莊汶錡</a></p></td>
+<td><p>莊汶錡</p></td>
 </tr>
 </tbody>
 </table>
@@ -167,7 +167,7 @@ TV自](https://zh.wikipedia.org/wiki/LINE_\(應用程式\) "wikilink")2015年5�
 <td><p>正浩</p></td>
 <td><p><strong>北韓南派間諜</strong><br />
 如影子版輔佐奇哲的南派間諜組織的行動成員。</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/莊汶錡" title="wikilink">莊汶錡</a></p></td>
+<td><p>莊汶錡</p></td>
 </tr>
 <tr class="odd">
 <td></td>

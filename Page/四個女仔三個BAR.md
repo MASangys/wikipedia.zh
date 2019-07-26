@@ -1010,7 +1010,7 @@ Adrian之女友</p></td>
 ## 軼事
 
   - 此劇是[陳凱琳首次擔任第一女主角的電視劇](https://zh.wikipedia.org/wiki/陳凱琳 "wikilink")。
-  - 此劇為2013年香港小姐冠軍[陳凱琳](https://zh.wikipedia.org/wiki/陳凱琳 "wikilink")、季軍[劉佩玥及殿軍](../Page/劉佩玥.md "wikilink")[劉溫馨的首部電視劇](../Page/劉溫馨.md "wikilink")。
+  - 此劇為2013年香港小姐冠軍[陳凱琳](https://zh.wikipedia.org/wiki/陳凱琳 "wikilink")、季軍[劉佩玥及殿軍](../Page/劉佩玥.md "wikilink")[劉溫馨的首度同時合作一劇](../Page/劉溫馨.md "wikilink")。
   - 此劇「張慧芸」原定由[蘇玉華飾演](../Page/蘇玉華.md "wikilink")，因她要拍攝《梟雄》而辭演，後改由[姚子羚飾演](https://zh.wikipedia.org/wiki/姚子羚 "wikilink")。
   - 此劇「霍紫凝」原定由[王敏奕飾演](../Page/王敏奕.md "wikilink")，後改由[陈滢飾演](https://zh.wikipedia.org/wiki/陈滢 "wikilink")。
 

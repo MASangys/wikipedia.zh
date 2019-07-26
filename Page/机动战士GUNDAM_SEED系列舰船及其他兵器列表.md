@@ -74,7 +74,7 @@ STARGAZER](../Page/机动战士GUNDAM_SEED_C.E.73_STARGAZER.md "wikilink")》及
 \*;
 
   -
-    全长300米的宇宙母舰。名称来源自希腊国王[阿伽门农](https://zh.wikipedia.org/wiki/阿伽门农 "wikilink")，早期型和後期型最大的差異在於艦首的線性彈射器（基於MS的實用化而進行改良導入的）。
+    全长300米的宇宙母舰。名称来源自希腊国王[阿伽门农](../Page/阿伽门农.md "wikilink")，早期型和後期型最大的差異在於艦首的線性彈射器（基於MS的實用化而進行改良導入的）。
       -
     <!-- end list -->
       -

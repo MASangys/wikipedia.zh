@@ -21,7 +21,7 @@ In Love**》音源。
 
 ## 經歷
 
-UNIQ是[樂華娛樂推出的中韓男子團體](https://zh.wikipedia.org/wiki/樂華娛樂 "wikilink")，出道前曾與[YG娛樂合作訓練](../Page/YG娛樂.md "wikilink")，聖柱與承衍原為YG練習生，其後成為UNIQ出道組，各成員練習2至5年不等。\[6\]\[7\]\[8\]
+UNIQ是[樂華娛樂推出的中韓男子團體](https://zh.wikipedia.org/wiki/樂華娛樂 "wikilink")，出道前曾與[YG娛樂合作訓練](../Page/YG娛樂.md "wikilink")，聖柱與承衍原為YG練習生，其後成為UNIQ出道組，各成員練習4至5年不等。\[6\]\[7\]\[8\]
 
 2014年9月15日，公開出道預告。 10月10日，GQ style雜誌個人畫報發布。
 10月16日，組合登陸[韓國節目](https://zh.wikipedia.org/wiki/韓國 "wikilink")《[M\!
@@ -280,8 +280,8 @@ To Fight**》MV首發。
 | MBC                                                   | [我身後的陶斯](../Page/我身後的陶斯.md "wikilink")                        | 金聖柱                                                           | 羅斗宇  | 男配角   |       |
 | 2019年                                                 | 芒果TV                                                          | 陪你到世界之巔                                                       | 王一博  | 季向空   | 第一男主角 |
 | [爱奇艺网剧](../Page/爱奇艺.md "wikilink")                    | 追球                                                            | 李汶翰                                                           | 云高洋  | 男配角   |       |
+| 腾讯视频                                                  | [陈情令](../Page/陈情令.md "wikilink")                              | 王一博                                                           | 藍忘機  | 雙男主之一 |       |
 | 待播                                                    | [樂視網](../Page/乐视网.md "wikilink")                              | [時光之城](https://zh.wikipedia.org/wiki/時光之城_\(電視劇\) "wikilink") | 周藝軒  | 沈欣言   | 男配角   |
-| 腾讯视频                                                  | 陈情令                                                           | 王一博                                                           | 藍忘機  | 第二男主角 |       |
 |                                                       | 私立蜀山学园                                                        | 王一博                                                           | 滕净   | 第一男主角 |       |
 | 拍摄中                                                   | 超凡天赋                                                          | 王一博                                                           | 蔚逸晨  | 第一男主角 |       |
 |                                                       |                                                               |                                                               |      |       |       |
@@ -328,7 +328,7 @@ To Fight**》MV首發。
 | 2018年4月21日－6月23日  | [腾讯视频](../Page/腾讯视频.md "wikilink")                    | [创造101](https://zh.wikipedia.org/wiki/创造101 "wikilink") | 王一博     | 全             |
 | 2019年1月17日－3月28日  | [优酷](../Page/优酷.md "wikilink")                        | [以团之名](https://zh.wikipedia.org/wiki/以团之名 "wikilink")   | 周藝軒     | 全             |
 | 2019年1月21日－4月6日   | [爱奇艺](../Page/爱奇艺.md "wikilink")                      | [青春有你](../Page/青春有你.md "wikilink")                      | 李汶翰     | 全             |
-| 2019年5月3日－        | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | [PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")    | 曹承衍     |               |
+| 2019年5月3日－7月20日   | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | [PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")    | 曹承衍     | 全             |
 
 ### 主持
 
@@ -838,25 +838,25 @@ To Fight**》MV首發。
 
 ### 電台
 
-|                  |                                                     |                                                                         |                               |
-| ---------------- | --------------------------------------------------- | ----------------------------------------------------------------------- | ----------------------------- |
-| 日期               | 電台                                                  | 節目                                                                      | 參演成員<small>（空白表示全體參與）</small> |
-| 2014年11月3日       | Arirang Radio                                       | K-Popping                                                               |                               |
-| 2014年11月15、22日   | [MBC Music](../Page/MBC_Plus_Media.md "wikilink")   | [偶像本色](../Page/偶像本色.md "wikilink")                                      | 王一博、李汶瀚、周艺轩                   |
-| 2014年12月4日       | POP Radio                                           | What's up music                                                         |                               |
-| 2014年12月10日      |                                                     | I Like Radio 娱乐e世代                                                      |                               |
-| 2014年12月17日      | Arirang Radio                                       | Super K-pop                                                             |                               |
-| 2015年1月11日       | Hitfm                                               | Hit DJ                                                                  |                               |
-| 2015年1月9、16、23日  | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | Kiss the Radio                                                          | 曹承衍                           |
-| 2015年3月3、6日      | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | Kiss the Radio                                                          | 曹承衍                           |
-| 2015年3月6日        |                                                     | Tofu Pop Radio                                                          |                               |
-| 2015年3月13、20、27日 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | Kiss the Radio                                                          | 曹承衍                           |
-| 2015年5月7日        | Arirang Radio                                       | Music Access                                                            |                               |
-| 2015年5月8日        | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | Kiss the Radio                                                          |                               |
-| 2015年5月9日        | SBS POWER FM                                        | 金昌烈的Old School                                                          | 金聖柱、曹承衍                       |
-| 2019年1月1日        | SBS PowerFM                                         | John Park的Music High                                                    | 曹承衍                           |
-| 2019年1月23日       | SBS PowerFM                                         | [朴素賢的Love Game](https://zh.wikipedia.org/wiki/朴素賢的Love_Game "wikilink") | 金聖柱                           |
-| 2019年2月20日       | MBC FM4U                                            | 2點的約會，我是池錫辰                                                             | 曹承衍                           |
+|                    |                                                     |                                                                         |                               |
+| ------------------ | --------------------------------------------------- | ----------------------------------------------------------------------- | ----------------------------- |
+| 日期                 | 電台                                                  | 節目                                                                      | 參演成員<small>（空白表示全體參與）</small> |
+| 2014年11月3日         | Arirang Radio                                       | K-Popping                                                               |                               |
+| 2014年11月15、22日     | [MBC Music](../Page/MBC_Plus_Media.md "wikilink")   | [偶像本色](../Page/偶像本色.md "wikilink")                                      | 王一博、李汶瀚、周艺轩                   |
+| 2014年12月4日         | POP Radio                                           | What's up music                                                         |                               |
+| 2014年12月10日        |                                                     | I Like Radio 娱乐e世代                                                      |                               |
+| 2014年12月17日        | Arirang Radio                                       | Super K-pop                                                             |                               |
+| 2015年1月11日         | Hitfm                                               | Hit DJ                                                                  |                               |
+| 2015年1月9、16、23、30日 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | Kiss the Radio                                                          | 曹承衍 葡語教室                      |
+| 2015年3月3           | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | Kiss the Radio                                                          | 曹承衍                           |
+| 2015年3月6日          |                                                     | Tofu Pop Radio                                                          |                               |
+| 2015年3月6、13、20、27日 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | Kiss the Radio                                                          | 曹承衍 葡語教室                      |
+| 2015年5月7日          | Arirang Radio                                       | Music Access                                                            |                               |
+| 2015年5月8日          | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | Kiss the Radio                                                          |                               |
+| 2015年5月9日          | SBS POWER FM                                        | 金昌烈的Old School                                                          | 金聖柱、曹承衍                       |
+| 2019年1月1日          | SBS PowerFM                                         | John Park的Music High                                                    | 曹承衍                           |
+| 2019年1月23日         | SBS PowerFM                                         | [朴素賢的Love Game](https://zh.wikipedia.org/wiki/朴素賢的Love_Game "wikilink") | 金聖柱                           |
+| 2019年2月20日         | MBC FM4U                                            | 2點的約會，我是池錫辰                                                             | 曹承衍                           |
 
 ## 廣告及雜誌
 
@@ -880,43 +880,73 @@ To Fight**》MV首發。
 <small>（空白表示全體參與）</small></p></td>
 </tr>
 <tr class="even">
-<td><p>2014年12月</p></td>
-<td><p>STARAZ 12月</p></td>
-<td></td>
+<td><p>2014年10月</p></td>
+<td><p>GQ Style</p></td>
+<td><p>曹承衍、出道前</p></td>
 </tr>
 <tr class="odd">
 <td><p>2014年12月</p></td>
-<td><p>TRENDY Magazine Issue 56</p></td>
+<td><p>STARAZ - 12月</p></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>2014年12月</p></td>
+<td><p>TRENDY Magazine - Issue 56</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>2015年2月</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/時尚芭莎" title="wikilink">時尚芭莎</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2015年2月</p></td>
-<td><p>BAZAAR Men</p></td>
+<td><p>BAZAAR Men - February Issue</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2015年2月</p></td>
 <td><p>My Color</p></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>2015年3月</p></td>
+<td><p>風度 men's uno</p></td>
+<td></td>
+</tr>
 <tr class="odd">
 <td><p>2015年3月</p></td>
-<td><p>風度men's uno</p></td>
+<td><p>時尚 COSMOPOLITAN</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2015年3月</p></td>
-<td><p>時尚COSMOPOLITAN</p></td>
+<td><p>伊周 Femina Weekly Magazine - Issue #324</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2015年4月</p></td>
-<td><p>Ok! Magazine Thailand</p></td>
+<td><p>MARIE CLAIRE CHINA</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2015年4月</p></td>
+<td><p>Ok! Magazine Thailand - ISSUE #247</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2015年4月</p></td>
+<td><p>CECI THAILAND - ISSUE #29</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2015年4月</p></td>
+<td><p>Genie Magazine</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2015年5月</p></td>
+<td><p>RIVERIVER MAGAZINE</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -926,8 +956,53 @@ To Fight**》MV首發。
 </tr>
 <tr class="odd">
 <td><p>2015年7月</p></td>
-<td><p>For Him magazine</p></td>
+<td><p>For Him Magazine</p></td>
 <td></td>
+</tr>
+<tr class="even">
+<td><p>2015年8月</p></td>
+<td><p>時裝 L'OFFICIEL - August Issue</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2015年8月</p></td>
+<td><p>星速客 SHOOT MAGAZINE</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2016年2月</p></td>
+<td><p>YOHO! GIRL Magazine</p></td>
+<td><p>金聖柱、王一博</p></td>
+</tr>
+<tr class="odd">
+<td><p>2016年3月</p></td>
+<td><p>YOHO!潮流志 Magazine - April issue</p></td>
+<td><p>周藝軒、曹承衍</p></td>
+</tr>
+<tr class="even">
+<td><p>2016年3月</p></td>
+<td><p>HARU HANA - Vol.34</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2017年7月</p></td>
+<td><p>小資 Chic Magazine</p></td>
+<td><p>周藝軒、李汶翰、王一博</p></td>
+</tr>
+<tr class="even">
+<td><p>2017年7月</p></td>
+<td><p>Highcut Magazine - Vol. 195</p></td>
+<td><p>金聖柱</p></td>
+</tr>
+<tr class="odd">
+<td><p>2017年11月</p></td>
+<td><p>Ceci Korea</p></td>
+<td><p>金聖柱、曹承衍</p></td>
+</tr>
+<tr class="even">
+<td><p>2018年6月</p></td>
+<td><p>DAZED Korea - June issue</p></td>
+<td><p>曹承衍</p></td>
 </tr>
 </tbody>
 </table>
@@ -972,7 +1047,7 @@ To Fight**》MV首發。
 | 2015年4月23日  | 2015酷音乐亚洲盛典   | 北京万事达中心 |
 | 2015年6月24日  | 2015电影新力量盛典   | 北京科技大學  |
 | 2015年8月30日  | 嘻哈潮流文化節       | 鄭州體育場   |
-| 2019年6月2日   | 樂華十周年演唱會      | 澳門      |
+| 2019年6月2日   | 樂華娛樂十周年紀念演唱會  | 澳門      |
 
 ## 獎項
 
@@ -1071,14 +1146,13 @@ To Fight**》MV首發。
 
 <!-- end list -->
 
-  - [UNIQ
-    官方网站](http://www.yhfamily.co.kr/?module=Goods&action=SiteGoods&sMode=VIEW_FORM&sCurrSortCd=001001001&CurrentPage=1)
-  - [UNIQ Daum Cafe](http://cafe.daum.net/UNIQ5)
-  - [UNIQ Twitter](https://twitter.com/UNIQ_5)
-  - [UNIQ Instagram](https://www.instagram.com/official_uniq5)
-  - [UNIQ Facebook](https://www.facebook.com/official.UNIQ5)
-  - [UNIQ Youtube](https://www.youtube.com/user/officialuniq5)
-  - [UNIQ V Live](https://channels.vlive.tv/F88D5)
+  - [UNIQ的官方网站](http://www.yhfamily.co.kr/?module=Goods&action=SiteGoods&sMode=VIEW_FORM&sCurrSortCd=001001001&CurrentPage=1)
+  - [UNIQ的Daum Cafe](http://cafe.daum.net/UNIQ5)
+  - [UNIQ的Twitter](https://twitter.com/UNIQ_5)
+  - [UNIQ的Instagram](https://www.instagram.com/official_uniq5)
+  - [UNIQ的Facebook](https://www.facebook.com/official.UNIQ5)
+  - [UNIQ的Youtube](https://www.youtube.com/user/officialuniq5)
+  - [UNIQ的V Live](https://channels.vlive.tv/F88D5)
 
 <!-- end list -->
 
@@ -1086,8 +1160,9 @@ To Fight**》MV首發。
 
 <!-- end list -->
 
-  - [UNIQ 微博](http://www.weibo.com/officialuniq)
-  - [UNIQ MV](http://www.yinyuetai.com/fanclub/35880)
+  - [UNIQ的新浪微博](http://www.weibo.com/officialuniq)
+  - [UNIQ的新浪微博](http://tw.weibo.com/officialuniq)
+  - [UNIQ的MV](http://www.yinyuetai.com/fanclub/35880)
 
 <!-- end list -->
 
@@ -1095,10 +1170,9 @@ To Fight**》MV首發。
 
 <!-- end list -->
 
-  - [UNIQ 官方網站](http://uniq-japan.com)
-  - [UNIQ Twitter](https://twitter.com/uniq5_japan)
-  - [UNIQ
-    Youtube](https://www.youtube.com/channel/UCL9DEOt5V7aM5diUiINtJ0g)
+  - [UNIQ的官方網站](http://uniq-japan.com)
+  - [UNIQ的Twitter](https://twitter.com/uniq5_japan)
+  - [UNIQ的Youtube](https://www.youtube.com/channel/UCL9DEOt5V7aM5diUiINtJ0g)
 
 <!-- end list -->
 
@@ -1107,6 +1181,8 @@ To Fight**》MV首發。
 <!-- end list -->
 
   -
+  - [藝軒的新浪微博](http://tw.weibo.com/5619779382)
+
 <!-- end list -->
 
   - 聖柱連結
@@ -1114,6 +1190,8 @@ To Fight**》MV首發。
 <!-- end list -->
 
   -
+  - [聖柱的新浪微博](http://tw.weibo.com/5623374073)
+
   -
 <!-- end list -->
 
@@ -1122,6 +1200,8 @@ To Fight**》MV首發。
 <!-- end list -->
 
   -
+  - [藝軒的新浪微博](http://tw.weibo.com/5619426492)
+
 <!-- end list -->
 
   - 承衍連結
@@ -1141,6 +1221,29 @@ To Fight**》MV首發。
 
 <!-- end list -->
 
+  -
+  - [一博的新浪微博](http://tw.weibo.com/5492443184)
+
+<!-- end list -->
+
+  - 樂華娛樂（中）
+
+<!-- end list -->
+
+  -
+  -
+  - [樂華娛樂的新浪微博](https://tw.weibo.com/yuehuamusic)
+
+  -
+<!-- end list -->
+
+  - Yuehua Korea（韓）
+
+<!-- end list -->
+
+  -
+  -
+  -
   -
 [Category:UNIQ](https://zh.wikipedia.org/wiki/Category:UNIQ "wikilink")
 [Category:乐华娱乐](https://zh.wikipedia.org/wiki/Category:乐华娱乐 "wikilink")

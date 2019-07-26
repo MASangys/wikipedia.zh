@@ -314,30 +314,30 @@ PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")》電視�
 
   -
     聲優：[岩田光央](../Page/岩田光央.md "wikilink")（日本）；[宋克軍](../Page/宋克軍.md "wikilink")（台灣）；待查詢（香港）
-    瓦爾德海賊團殘存的一員。古洛塞亞迪號（右側）的輪機員兼戰鬥員，是吃了**超人系「[魔方果實](../Page/惡魔果實.md "wikilink")」**能力者，可以'''把任何物體都變成方塊形狀，並移動、堆積，武器是巨大的鐵鎚。
-    瓦爾德被捕後，與賽巴斯蒂安、奈琴等一起藏了起來，期間，設計並製造了古洛塞亞迪號。最後在與巴其一行人的戰鬥中被突如其來的漢考克以芳香腳打敗。
+    瓦爾德海賊團殘存的一員。古洛塞亞迪號（右側）的輪機員兼戰鬥員，是吃了**超人系「[立方果實](../Page/惡魔果實.md "wikilink")」**能力者，可以'''把任何物體都變成方塊形狀，並移動、堆積，武器是巨大的鐵鎚。
+    瓦爾德被捕後，與賽巴斯汀、奈琴等一起藏了起來，期間，設計並製造了古洛塞亞迪號。最後在與巴其一行人的戰鬥中被突如其來的漢考克以芳香腳打敗。
 
-:\*;魔方錯亂
+:\*;立方錯亂
 
 ::能使接觸到的物體分裂成許多像魔方一樣整齊地排列的小正方體。
 
-:\*;魔方 加速塊
+:\*;立方 加速塊
 
 ::使接觸到的東西方塊化後進行加速沖撞亂人，可將人撞壓在牆面上壓成紙一樣薄。
 
-:\*;空氣魔方
+:\*;空氣立方
 
 ::將空氣壓縮成方塊狀。
 
-:\*;空氣魔方 加速塊
+:\*;空氣立方 加速塊
 
 ::用雙手將空氣集結，魔方扔向敵人爆炸。
 
-:\*;圖騰魔方
+:\*;圖騰立方
 
 ::將形成四方形的物體用大鐵鎚錘散。
 
-:\*;魔方變形
+:\*;立方變形
 
   -
 
@@ -349,7 +349,7 @@ PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")》電視�
   -
     聲優：[水谷優子](../Page/水谷優子.md "wikilink")（日本）；[許淑嬪](../Page/許淑嬪.md "wikilink")（台灣）；[鄧潔麗](../Page/鄧潔麗.md "wikilink")（香港）
     瓦爾德海賊團殘存的一員。瓦爾德海賊團的女船醫（兼左側輪機員）。使用自編的中醫拳法，有很多以藥物命名的招術。通過藥物變得年輕，不用藥的話會回到68歲的模樣。
-    與賽巴斯蒂安、蓋拉姆等一起藏了起來，期間，設計並製造了古洛塞亞迪號，最後被漢考克變成石像。
+    與賽巴斯汀、蓋拉姆等一起藏了起來，期間，設計並製造了古洛塞亞迪號，最後被漢考克變成石像。
 
 :\*;漢方拳法 毒苦地獄
 
@@ -454,7 +454,6 @@ PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")》電視�
   - [《ONE
     PIECE》電視動畫已播映15周年紀念特別篇](https://web.archive.org/web/20141006144427/http://j-books.shueisha.co.jp/news_newrelease/onepice_3d2y)
 
-[Category:ONE_PIECE](https://zh.wikipedia.org/wiki/Category:ONE_PIECE "wikilink")
 [Category:ONE_PIECE特別篇](https://zh.wikipedia.org/wiki/Category:ONE_PIECE特別篇 "wikilink")
 [Category:2014年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2014年日本電視動畫 "wikilink")
 [Category:富士電視台動畫](https://zh.wikipedia.org/wiki/Category:富士電視台動畫 "wikilink")

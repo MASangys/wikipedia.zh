@@ -1,5 +1,5 @@
 《**Bang
-Bang**》是由Viki离队作独立发展，换入新成员優熙后[Dal★Shabet的首张正规专辑](../Page/Dal★Shabet.md "wikilink")。主打歌「Mr.
+Bang**》是2012年韓國[Dal★Shabet的音樂作品](../Page/Dal★Shabet.md "wikilink")。由Viki离队作独立发展，换入新成员優熙后[Dal★Shabet的首张正规专辑](../Page/Dal★Shabet.md "wikilink")。主打歌「Mr.
 Bang Bang」为可爱的舞曲，描写女生踏前一步主动向男生告白。另收入单曲「Supa Dupa Diva」、「Pink
 Rocket」、「Bling Bling」和「Hit U」。
 

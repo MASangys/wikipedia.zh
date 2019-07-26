@@ -1,49 +1,63 @@
-《**K歌之王**》是香港男歌手[陳奕迅於](../Page/陳奕迅.md "wikilink")2000年推出的一首經典歌曲，收錄於專輯《[打得火熱](../Page/打得火熱.md "wikilink")》內，作曲、編曲、監製[陳輝陽](../Page/陳輝陽.md "wikilink")，填詞[林夕](../Page/林夕.md "wikilink")。歌曲特別之處是有混合多首經典流行曲的元素，例如歌名和前奏等。《K歌之王》是陳奕迅的首本名曲之一，推出後極受歡迎，流行度極高，亦取得多個樂壇獎項，如叱咤樂壇至尊歌曲大獎等。
+《**K歌之王**》是香港男歌手[陳奕迅於](../Page/陳奕迅.md "wikilink")2000年推出的一首經典歌曲，有粵、國語兩版，分別收錄於專輯《[打得火熱](../Page/打得火熱.md "wikilink")》及《[反正是我](../Page/反正是我.md "wikilink")》內，均由[陳輝陽作曲](../Page/陳輝陽.md "wikilink")、編曲、監製，[林夕填詞](../Page/林夕.md "wikilink")。歌曲的特別之處是揉合了多首流行曲的元素，例如歌名和旋律等。
 
-## 簡介
+此歌推出後極受歡迎，亦取得多個樂壇獎項，如叱咤樂壇至尊歌曲大獎和十大中文金曲。
 
-《K歌之王》作曲[陳輝陽](../Page/陳輝陽.md "wikilink")，填詞[林夕](../Page/林夕.md "wikilink")，是向華語流行曲致敬的一首歌曲。除了使用到多首華語流行曲\[1\]歌名作為歌詞，亦有使用不同經典歌曲作為音樂，例如前奏為[王菲的](../Page/王菲.md "wikilink")《約定》。\[2\]\[3\]\[4\]
+## 背景
 
-### 歌名列表
+陳輝陽憶述，陳奕迅新公司英皇娛樂要求他創作比以前更商業化的歌曲，他就構想出一個故事藍本：
+有個男孩很喜歡唱[卡拉OK](../Page/卡拉OK.md "wikilink")，想用歌聲感動心儀的女孩，對方卻對他無感，認為他只是「K歌之王」，以及一個點子：歌詞要含有多首K歌的歌名。陳輝陽又認為陳奕迅的唱功了得，所以寫一首很難唱的歌給他，「演繹像情感上的[過山車般](../Page/雲霄飛車.md "wikilink")」。\[1\]
 
-按「出場」順序排列，**粗體**代表直接套用歌詞內。
+## 音樂特徵
 
-| 次序 | 歌名         | 歌手                                                                                   | 註釋 / 相關歌詞          |
-| -- | ---------- | ------------------------------------------------------------------------------------ | ------------------ |
-| 01 | **我願意**    | [王菲](../Page/王菲.md "wikilink")                                                       | 我願意和你約定至死          |
-| 02 | **你**      | 王菲                                                                                   | 我願意和你約定至死          |
-| 03 | **約定**     | 王菲                                                                                   | **前奏** / 我願意和你約定至死 |
-| 04 | 下世紀再嬉戲     | [黃耀明](../Page/黃耀明.md "wikilink")                                                     | 我只想嬉戲唱遊到下世紀        |
-| 05 | **奉獻**     | [蘇芮](../Page/蘇芮.md "wikilink")                                                       | 請你別嫌我將這煽情奉獻給你      |
-| 06 | **憑什麼**    | [梅艷芳](../Page/梅艷芳.md "wikilink")                                                     | 還能憑甚麼              |
-| 07 | **擁抱**     | [譚詠麟](../Page/譚詠麟.md "wikilink")                                                     | 擁抱若未能令你興奮          |
-| 08 | **情歌**     | [草蜢](../Page/草蜢_\(組合\).md "wikilink")                                                | 寫在情歌的性感            |
-| 09 | **愛**      | [莫文蔚](../Page/莫文蔚.md "wikilink")                                                     | 要是愛不可感動人           |
-| 10 | **感動**     | [郭富城](../Page/郭富城.md "wikilink")                                                     | 要是愛不可感動人           |
-| 11 | **相信**     | [林憶蓮](../Page/林憶蓮.md "wikilink")                                                     | 誰人又相信一世一生這膚淺對白     |
-| 12 | **一世一生**   | [黄凯芹](https://zh.wikipedia.org/wiki/黄凯芹 "wikilink")、[田蕊妮](../Page/田蕊妮.md "wikilink") | 誰人又相信一世一生這膚淺對白     |
-| 13 | **對白**     | [劉若英](https://zh.wikipedia.org/wiki/劉若英 "wikilink")                                  | 誰人又相信一世一生這膚淺對白     |
-| 14 | 來吧123      | [湯寶如](../Page/湯寶如.md "wikilink")                                                     | 來吧送給你叫幾百萬人流淚過的歌    |
-| 15 | **這一曲送給你** | [許冠傑](../Page/許冠傑.md "wikilink")                                                     | 來吧送給你叫幾百萬人流淚過的歌    |
-| 16 | **誓言**     | [王菲](../Page/王菲.md "wikilink")                                                       | 如從未聽過誓言如幸福摩天輪      |
-| 17 | **幸福摩天輪**  | [陳奕迅](../Page/陳奕迅.md "wikilink")                                                     | 如從未聽過誓言如幸福摩天輪      |
-| 18 | **心血**     | [許志安](../Page/許志安.md "wikilink")                                                     | 將我漫天心血一一拋到銀河       |
-| 20 | 你是我的銀河     | 許志安                                                                                  | 將我漫天心血一一拋到銀河       |
-| 21 | **垃圾**     | [盧巧音](https://zh.wikipedia.org/wiki/盧巧音 "wikilink")                                  | 誰是垃圾               |
-| 22 | 你怎麼捨得我難過   | [黃品源](../Page/黃品源.md "wikilink")                                                     | 誰不捨我難過             |
-| 23 | 再見二丁目      | [楊千嬅](../Page/楊千嬅.md "wikilink")                                                     | **間奏** / 分一丁目贈我    |
-| 24 | **眼淚**     | [范曉萱](../Page/范曉萱.md "wikilink")                                                     | 我唱出心裡話時眼淚會流        |
-| 25 | 千言萬語       | [鄧麗君](../Page/鄧麗君.md "wikilink")                                                     | 我只得千語萬言放在你心        |
-| 26 | **渴望**     | 郭富城                                                                                  | 比渴望地老天荒更簡單未算罕有     |
-| 27 | **地老天荒**   | [關淑怡](../Page/關淑怡.md "wikilink")                                                     | 比渴望地老天荒更簡單未算罕有     |
-| 28 | 愛很簡單       | [陶喆](../Page/陶喆.md "wikilink")                                                       | 比渴望地老天荒更簡單未算罕有     |
-| 29 | **不捨不棄**   | 林憶蓮                                                                                  | 給你用力作二十首不捨不棄       |
-| 30 | **過火**     | [張信哲](../Page/張信哲.md "wikilink")                                                     | 還附送你愛得過火           |
-| 31 | **真心真意**   | 許志安                                                                                  | 給你賣力唱二十首真心真意       |
-| 32 | **K歌之王**   | 陳奕迅                                                                                  | 你怎麼竟然說K歌之王         |
-| 33 | **我**      | [張國榮](../Page/張國榮.md "wikilink")                                                     | 是我                 |
-| 34 | **未來**     | [鄭秀文](../Page/鄭秀文.md "wikilink")                                                     | 我只想跟你未來浸在愛河        |
-| 35 | **絕**      | [傅佩嘉](https://zh.wikipedia.org/wiki/傅佩嘉 "wikilink")                                  | **尾聲** / 絕到溶掉我     |
+以[D大調寫成](https://zh.wikipedia.org/wiki/D大調 "wikilink")，無[轉調](https://zh.wikipedia.org/wiki/转调 "wikilink")，[行板](../Page/速度_\(音樂\).md "wikilink")，[音域為](https://zh.wikipedia.org/wiki/音域 "wikilink")14度，曲式結構為AABBCCAA。\[2\]
+\[3\]
+
+### 其他製作人員
+
+<table style="width:70%;">
+<colgroup>
+<col style="width: 42%" />
+<col style="width: 27%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><ul>
+<li><a href="https://zh.wikipedia.org/wiki/鍵盤" title="wikilink">鍵盤</a>、<a href="https://zh.wikipedia.org/wiki/鋼琴" title="wikilink">鋼琴</a>：陳輝陽@好好笑</li>
+<li><a href="https://zh.wikipedia.org/wiki/貝斯" title="wikilink">貝斯</a>：何俊傑</li>
+<li><a href="../Page/吉他.md" title="wikilink">吉他</a>：<a href="../Page/锺庆鸿.md" title="wikilink">鍾慶鴻</a></li>
+<li>鼓：Anthony Fernandes</li>
+<li><a href="https://zh.wikipedia.org/wiki/弦樂" title="wikilink">弦樂</a>：陳屹洲弦樂團</li>
+</ul></td>
+<td><ul>
+<li>弦樂編曲：陳輝陽@好好笑、<a href="../Page/金培達.md" title="wikilink">金培達</a></li>
+<li>混音：袁家揚</li>
+<li>錄音：陳輝陽@好好笑</li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+
+### 致敬元素
+
+\[4\]
+
+  - 以流行歌名入詞：
+
+粵語版：《憑什麼》\[5\]（[梅艷芳](../Page/梅艷芳.md "wikilink")）、《擁抱》\[6\]（[譚詠麟](../Page/譚詠麟.md "wikilink")）、
+《幸福摩天輪》\[7\]（[陳奕迅](../Page/陳奕迅.md "wikilink")）、《你怎麼捨得我難過》\[8\]（[黃品源](../Page/黃品源.md "wikilink")）、《垃圾》\[9\]（
+[盧巧音](https://zh.wikipedia.org/wiki/盧巧音 "wikilink")）、《不捨不棄》（[林憶蓮](../Page/林憶蓮.md "wikilink")）、《真心真意》（[許志安](../Page/許志安.md "wikilink")）、《愛得過火》（[伍思凱](../Page/伍思凱.md "wikilink")）等
+
+國語版：《用心良苦》（[張宇](../Page/張宇.md "wikilink")）、《當愛已成往事》（[林憶蓮](../Page/林憶蓮.md "wikilink")）、明天我要嫁給你（[周華健](https://zh.wikipedia.org/wiki/周華健 "wikilink")）、愛如潮水（[張信哲](../Page/張信哲.md "wikilink")）、《忘了我是誰》（王海玲）、《我一個人住》（蘇慧倫）等，並化用歌詞：「有些人我永遠不必等」出自[陳淑樺的](../Page/陳淑樺.md "wikilink")《夢醒時分》。
+
+  - 化用旋律：
+
+粵語版：前奏為[王菲的](../Page/王菲.md "wikilink")《約定》，間奏為[楊千嬅的](../Page/楊千嬅.md "wikilink")《再見二丁目》，尾聲為[傅佩嘉的](https://zh.wikipedia.org/wiki/傅佩嘉 "wikilink")《絕》。
+
+國語版：前奏為[張宇的](../Page/張宇.md "wikilink")《用心良苦》，間奏為[張信哲的](../Page/張信哲.md "wikilink")《愛如潮水》，尾聲為[辛曉琪的](../Page/辛曉琪.md "wikilink")《領悟》。
+
+## 評論
+
+詞評人朱耀偉指詞人運用了中國古典詩詞的集句手法，又認為：「寫來既用了不少K歌，但當中又以『俗套的歌詞』和『膚淺對白』作自我拆解，或許可以理解作一種戲謔」，比一般K歌有更豐富的涵義\[10\]。更有評論指它反諷K歌泛濫的樂壇現象，是自省之作\[11\]，但林夕表示是誤會，這並非其原意\[12\]。
 
 ## 獎項
 
@@ -76,30 +90,42 @@
 
 ## 其他版本
 
-除了有同名的國語版本外，亦有不少翻唱，包括
+| 年份   | 歌手                                                                                   | 專輯/場合                                                                                                                                                              |
+| ---- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2001 | [李克勤](../Page/李克勤.md "wikilink")                                                     | 《港樂.克勤 LIVE》                                                                                                                                                       |
+| 2002 | [彭羚](../Page/彭羚.md "wikilink")                                                       | 《[給我唱過的男孩們](../Page/給我唱過的男孩們.md "wikilink")》，前奏為《[卡農 (帕海貝爾)](../Page/卡農_\(帕海貝爾\).md "wikilink")》，間奏為《[匈牙利舞曲第五號](../Page/匈牙利舞曲.md "wikilink")》。                     |
+| 2002 | [陳奕迅](../Page/陳奕迅.md "wikilink")                                                     | 《The Easy Ride演唱會》，前奏為[謝霆鋒的](../Page/謝霆鋒.md "wikilink")《玉蝴蝶》，間奏為[周杰倫的](../Page/周杰倫.md "wikilink")《龍捲風》，尾聲為陳奕迅的《天下無雙》。                                              |
+| 2007 | [陳奕迅](../Page/陳奕迅.md "wikilink")                                                     | 《Eason Moving On Stage 1》，編曲配合舞台演出，變成[華爾茲](https://zh.wikipedia.org/wiki/華爾茲 "wikilink")、[巴薩諾瓦](../Page/巴薩諾瓦.md "wikilink")、[爵士等曲風的大雜繪](../Page/爵士.md "wikilink")。 |
+| 2008 | [黃宗澤](https://zh.wikipedia.org/wiki/黃宗澤 "wikilink")、[陳奕迅](../Page/陳奕迅.md "wikilink") | 《勁歌金曲頒獎禮》                                                                                                                                                          |
+| 2016 | [胡杏兒](../Page/胡杏兒.md "wikilink")                                                     | 《[跨界歌王](../Page/跨界歌王.md "wikilink")》                                                                                                                               |
+| 2018 | [許靖韻](../Page/許靖韻.md "wikilink")                                                     | 《[創造101](https://zh.wikipedia.org/wiki/創造101 "wikilink")》                                                                                                          |
+| 2019 | [黃宗澤](https://zh.wikipedia.org/wiki/黃宗澤 "wikilink")                                  | 重新填詞編曲成[百老匯廣告歌](../Page/百老滙攝影器材.md "wikilink")《發夢之王》                                                                                                               |
 
-  - [黃宗澤](https://zh.wikipedia.org/wiki/黃宗澤 "wikilink")(2008) -
-    於勁歌金曲頒獎禮獻唱
-  - [許靖韻](../Page/許靖韻.md "wikilink")(2018)
-
-## 參考來源
-
-## 外部链接
-
-  - [【K歌之王】歌词是由哪些歌名组成的（国、粤皆有）](http://www.douban.com/group/topic/7864746/)
-  - [一首《K歌之王》居然包含這麼多秘密](https://web.archive.org/web/20150402143547/http://info.wenweipo.com/index.php?action-viewnews-itemid-8253)
-  - [K歌之王- Eason Chan Music Wiki
-    迅音樂：陳奕迅音樂維基](http://www.easonmusic.com/wiki/K%E6%AD%8C%E4%B9%8B%E7%8E%8B)
+## 參考資料
 
 [Category:華語流行歌曲](https://zh.wikipedia.org/wiki/Category:華語流行歌曲 "wikilink")
+[Category:粵語歌曲](https://zh.wikipedia.org/wiki/Category:粵語歌曲 "wikilink")
 [Category:2000年歌曲](https://zh.wikipedia.org/wiki/Category:2000年歌曲 "wikilink")
 [Category:陳奕迅歌曲](https://zh.wikipedia.org/wiki/Category:陳奕迅歌曲 "wikilink")
 [Category:香港歌曲](https://zh.wikipedia.org/wiki/Category:香港歌曲 "wikilink")
 [Category:叱咤樂壇我最喜愛的歌曲](https://zh.wikipedia.org/wiki/Category:叱咤樂壇我最喜愛的歌曲 "wikilink")
 [Category:林夕詞作](https://zh.wikipedia.org/wiki/Category:林夕詞作 "wikilink")
 
-1.  有不同版本，現列出各版本的所有歌曲
-2.  [【K歌之王】歌词是由哪些歌名组成的（国、粤皆有）](http://www.douban.com/group/topic/7864746/)
+1.
+
+2.
+
 3.
-4.  [K歌之王- Eason Chan Music Wiki
-    迅音樂：陳奕迅音樂維基](http://www.easonmusic.com/wiki/K%E6%AD%8C%E4%B9%8B%E7%8E%8B)
+
+4.  [【K歌之王】歌词是由哪些歌名组成的（国、粤皆有）](http://www.douban.com/group/topic/7864746/)
+
+5.
+6.
+7.
+8.
+9.
+10.
+
+11.
+
+12.

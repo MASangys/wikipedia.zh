@@ -261,16 +261,16 @@ SHOOTER](../Page/BLACK★ROCK_SHOOTER.md "wikilink")》建立人脈基礎（全�
 <tr class="even">
 <td><p><a href="../Page/深夜的超自然公務員.md" title="wikilink">深夜的超自然公務員</a></p></td>
 <td></td>
-<td><p>4月－<strong>播出中</strong></p></td>
+<td><p>4月－6月</p></td>
 <td><p>渡邊哲哉</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/魔術學姐" title="wikilink">魔術學姐</a></p></td>
 <td></td>
-<td></td>
-<td><p>7月－未定</p></td>
+<td><p>7月－<strong>播出中</strong></p></td>
 <td><p>臼井文明</p></td>
 <td></td>
 <td></td>
@@ -279,10 +279,19 @@ SHOOTER](../Page/BLACK★ROCK_SHOOTER.md "wikilink")》建立人脈基礎（全�
 <tr class="even">
 <td></td>
 <td></td>
+<td><p>10月－未定</p></td>
+<td><p><a href="../Page/今泉賢一.md" title="wikilink">今泉賢一</a></p></td>
 <td></td>
 <td></td>
 <td></td>
+</tr>
+<tr class="odd">
+<td><p>2020年</p></td>
+<td><p>啄木鳥偵探處</p></td>
 <td></td>
+<td><p>春天</p></td>
+<td><p>江崎慎平（總導演）</p></td>
+<td><p>小說</p></td>
 <td></td>
 </tr>
 </tbody>

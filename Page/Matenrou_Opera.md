@@ -160,5 +160,5 @@ Disc2 (DVD)
 ## 參考資料
 
 [Category:2006年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2006年成立的音樂團體 "wikilink")
-[Category:視覺系樂團](https://zh.wikipedia.org/wiki/Category:視覺系樂團 "wikilink")
+[Category:視覺系](https://zh.wikipedia.org/wiki/Category:視覺系 "wikilink")
 [Category:日本重金屬樂團](https://zh.wikipedia.org/wiki/Category:日本重金屬樂團 "wikilink")

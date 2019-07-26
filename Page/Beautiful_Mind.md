@@ -494,20 +494,18 @@ Mind**》（）為[KBS2於](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilin
     ：《[Doctors](../Page/Doctors.md "wikilink")》
   - [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")：《[Monster](../Page/Monster_\(電視劇\).md "wikilink")》
 
-## 獎項
+## 提名&獲獎列表
 
 <table>
-<thead>
-<tr class="header">
-<th><p>年度</p></th>
-<th><p>大獎</p></th>
-<th><p>獎項</p></th>
-<th><p>入圍者</p></th>
-<th><p>結果</p></th>
-</tr>
-</thead>
 <tbody>
 <tr class="odd">
+<td><p>年度</p></td>
+<td><p>頒獎典禮</p></td>
+<td><p>獎項</p></td>
+<td><p>入圍者</p></td>
+<td><p>結果</p></td>
+</tr>
+<tr class="even">
 <td><p>2016年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/2016_KBS演技大賞" title="wikilink">KBS演技大賞</a></p></td>
 <td><p>迷你電視劇部門<br />
@@ -515,24 +513,24 @@ Mind**》（）為[KBS2於](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilin
 <td><p><a href="https://zh.wikipedia.org/wiki/張赫" title="wikilink">張赫</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>女子新人賞</p></td>
 <td><p><a href="../Page/朴素淡.md" title="wikilink">朴素淡</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>男子青少年賞</p></td>
 <td><p><a href="../Page/白承煥.md" title="wikilink">白承煥</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>網絡女子人氣賞</p></td>
 <td><p><a href="../Page/朴素淡.md" title="wikilink">朴素淡</a></p></td>
-<td><p>空缺</p></td>
+<td><p>從缺</p></td>
 <td></td>
 <td></td>
 </tr>

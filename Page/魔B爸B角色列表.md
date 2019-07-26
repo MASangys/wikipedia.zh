@@ -1559,8 +1559,6 @@ night下川」見狀深表同情，並表示願意暫代位置，以便湊齊人
 ## 參考資料
 
 [Category:日本動漫角色列表](https://zh.wikipedia.org/wiki/Category:日本動漫角色列表 "wikilink")
-[Category:不良少年及少女主角題材作品](https://zh.wikipedia.org/wiki/Category:不良少年及少女主角題材作品 "wikilink")
-[Category:魔王主角題材作品](https://zh.wikipedia.org/wiki/Category:魔王主角題材作品 "wikilink")
 
 1.  據本人所說「零點幾秒的時間就像過了幾十秒」
 2.  漫畫第126話

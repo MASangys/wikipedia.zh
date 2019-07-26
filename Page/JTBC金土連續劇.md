@@ -1,6 +1,6 @@
 **JTBC金土連續劇**（），是逢星期五、六韓國晚間在[JTBC電視台播映的電視劇](../Page/JTBC.md "wikilink")。
 
-## 播出時間更動表
+## 播出時間變動
 
 <table>
 <thead>
@@ -27,7 +27,7 @@
 <p>星期五、六 20:30</p></td>
 </tr>
 <tr class="even">
-<td><p>2017年2月24日－現在</p></td>
+<td><p>2017年2月24日－至今</p></td>
 <td><center>
 <p>星期五、六 23:00</p></td>
 </tr>
@@ -470,7 +470,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><p>2019年2月8日-<br />
+<td style="text-align: center;"><p>2019年2月8日–<br />
 2019年3月30日</p></td>
 <td style="text-align: center;"><p><a href="../Page/Legal_High_(韓國電視劇).md" title="wikilink">Legal High</a><br />
 </p></td>
@@ -481,7 +481,7 @@
 <td style="text-align: center;"><p>原作：<a href="../Page/古澤良太.md" title="wikilink">古澤良太</a>《<a href="../Page/Legal_High.md" title="wikilink">Legal High</a>》</p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p>2019年4月5日-<br />
+<td style="text-align: center;"><p>2019年4月5日–<br />
 2019年5月25日</p></td>
 <td style="text-align: center;"><p><a href="../Page/美麗的世界.md" title="wikilink">美麗的世界</a><br />
 </p></td>
@@ -492,7 +492,7 @@
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p>2019年6月14日-<br />
+<td style="text-align: center;"><p>2019年6月14日–<br />
 2019年7月13日</p></td>
 <td style="text-align: center;"><p><a href="../Page/輔佐官–改變世界的人們.md" title="wikilink">輔佐官–改變世界的人們</a><br />
 </p></td>
@@ -503,6 +503,17 @@
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
+<td style="text-align: center;"><p>2019年8月9日–<br />
+2019年9月28日</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Melo體質" title="wikilink">Melo體質</a><br />
+</p></td>
+<td style="text-align: center;"><p>16</p></td>
+<td style="text-align: center;"><p><a href="../Page/千玗嬉.md" title="wikilink">千玗嬉</a>、、<a href="../Page/韓智恩.md" title="wikilink">韓智恩</a>、<a href="../Page/安宰弘.md" title="wikilink">安宰弘</a>、<a href="../Page/孔明_(藝人).md" title="wikilink">孔明</a></p></td>
+<td style="text-align: center;"><p>李炳憲、金惠英</p></td>
+<td style="text-align: center;"><p>李炳憲、金英英</p></td>
+<td style="text-align: center;"><p>改編自電影《<a href="../Page/二十行不行.md" title="wikilink">二十行不行</a>》</p></td>
+</tr>
+<tr class="odd">
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>

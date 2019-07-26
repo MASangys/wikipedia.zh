@@ -66,318 +66,58 @@ SHOW;zh-cn:韩秀榜}-**》（；）是[韓國](https://zh.wikipedia.org/wiki/�
 
 ### 代班MC
 
-<table>
-<thead>
-<tr class="header">
-<th><p>季數</p></th>
-<th><p>節目名稱</p></th>
-<th><p>播出日期</p></th>
-<th><p>代班／特別主持</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>第4季</p></td>
-<td><p>-{zh-hans:THE SHOW;zh-hant:THE SHOW;zh-cn:韩秀榜}-</p></td>
-<td><p>2015年5月12日－2015年6月2日</p></td>
-<td><p><a href="../Page/咸𤨒晶.md" title="wikilink">𤨒晶</a>[9]</p></td>
-</tr>
-<tr class="even">
-<td><p>2015年6月9日</p></td>
-<td><p><a href="../Page/許齡智.md" title="wikilink">齡智</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2015年7月21日</p></td>
-<td><p><a href="../Page/尹普美.md" title="wikilink">普美</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2015年8月11日</p></td>
-<td><p><a href="../Page/滑川康男.md" title="wikilink">康男</a>、<a href="../Page/金永哲.md" title="wikilink">金永哲</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2015年10月20日</p></td>
-<td><p><a href="../Page/金有謙.md" title="wikilink">有謙</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2015年10月27日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/MONSTA_X" title="wikilink">亨源</a>、<a href="https://zh.wikipedia.org/wiki/MONSTA_X" title="wikilink">周憲</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2015年11月10日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李在真" title="wikilink">李在真</a>、<a href="https://zh.wikipedia.org/wiki/金宰鉉" title="wikilink">金宰鉉</a>、<a href="../Page/酉奈.md" title="wikilink">酉奈</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2015年11月17日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/爀" title="wikilink">爀</a>、<a href="../Page/滑川康男.md" title="wikilink">康男</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2015年11月24日</p></td>
-<td><p><a href="../Page/VIXX.md" title="wikilink">爀</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2015年12月1日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/力燦" title="wikilink">力燦</a>、<a href="https://zh.wikipedia.org/wiki/永才" title="wikilink">永才</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>第5季</p></td>
-<td><p>2016年1月26日</p></td>
-<td><p><a href="../Page/Yerin.md" title="wikilink">睿隣</a>、<a href="https://zh.wikipedia.org/wiki/李燦熺" title="wikilink">天地</a>、<a href="../Page/創造_(歌手).md" title="wikilink">創造</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2016年2月23日</p></td>
-<td><p><a href="../Page/SinB.md" title="wikilink">SinB</a>、<a href="../Page/強仁.md" title="wikilink">強仁</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2016年3月8日、11月22日及29日</p></td>
-<td><p>永才</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2016年3月15日</p></td>
-<td><p>永才、<a href="https://zh.wikipedia.org/wiki/大賢" title="wikilink">大賢</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2016年3月22日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/MAMAMOO" title="wikilink">頌樂</a>、<a href="https://zh.wikipedia.org/wiki/MAMAMOO" title="wikilink">輝人</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2016年4月5日至19日、10月18日</p></td>
-<td><p><a href="../Page/金有謙.md" title="wikilink">有謙</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2016年4月26日</p></td>
-<td><p><a href="../Page/VIXX.md" title="wikilink">N</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2016年5月3日</p></td>
-<td><p><a href="../Page/李宰焕.md" title="wikilink">Ken</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2016年5月10日</p></td>
-<td><p><a href="../Page/VIXX.md" title="wikilink">爀</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2016年5月17日至24日</p></td>
-<td><p><a href="../Page/UP10TION.md" title="wikilink">宇信</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2016年6月21日</p></td>
-<td><p><a href="../Page/希澈.md" title="wikilink">希澈</a>、<a href="../Page/Momo_(TWICE).md" title="wikilink">Momo</a>、<a href="../Page/彩瑛.md" title="wikilink">彩瑛</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2016年7月12日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/KNK" title="wikilink">承俊</a>、<a href="https://zh.wikipedia.org/wiki/車銀優_(韓國歌手)" title="wikilink">車銀優</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2016年8月2日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金世正" title="wikilink">世正</a>、宇信</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2016年8月9日</p></td>
-<td><p>車銀優</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2016年8月16日</p></td>
-<td><p>弘彬</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2016年8月23日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/車學沇" title="wikilink">N</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2016年8月30日</p></td>
-<td><p><a href="../Page/VIXX.md" title="wikilink">爀</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2016年9月6日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/丁恩妃" title="wikilink">Eunha</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2016年9月13日</p></td>
-<td><p>齡智、<a href="../Page/Homme.md" title="wikilink">Homme</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2016年9月20日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/孫勝完" title="wikilink">Wendy</a>、<a href="https://zh.wikipedia.org/wiki/旼泫" title="wikilink">旼泫</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2017年3月7日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/SF9" title="wikilink">達淵</a>、<a href="https://zh.wikipedia.org/wiki/金錫" title="wikilink">路雲</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2017年4月18日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/TEEN_TOP" title="wikilink">天地</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2017年5月2日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/EXID" title="wikilink">EXID</a>（<a href="../Page/率智.md" title="wikilink">率智除外</a>）</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2017年6月27日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/芝妍" title="wikilink">芝妍</a>、<a href="https://zh.wikipedia.org/wiki/ASTRO" title="wikilink">MJ</a>、<a href="https://zh.wikipedia.org/wiki/文彬" title="wikilink">文彬</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2017年8月1日</p></td>
-<td><p><a href="../Page/安炯燮.md" title="wikilink">安炯燮</a>、<a href="../Page/李義雄_(韓國).md" title="wikilink">李義雄</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2017年9月19日</p></td>
-<td><p>永才、<a href="https://zh.wikipedia.org/wiki/池秀娟" title="wikilink">秀娟</a>、<a href="../Page/金度延.md" title="wikilink">度延</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2017年9月26日</p></td>
-<td><p>度延、<a href="https://zh.wikipedia.org/wiki/魯孝靜" title="wikilink">Lucy</a>、<a href="../Page/金始炫.md" title="wikilink">始炫</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2017年11月7日</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2017年12月26日</p></td>
-<td><p>睿隣、<a href="https://zh.wikipedia.org/wiki/MONSTA_X" title="wikilink">民赫</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2018年1月23日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Oh_My_Girl" title="wikilink">Arin</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2018年3月27日</p></td>
-<td><p>力燦</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2018年4月10日</p></td>
-<td><p>民赫</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2018年5月1日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金昭希_(歌手)" title="wikilink">昭希</a>、<a href="https://zh.wikipedia.org/wiki/THE_BOYZ" title="wikilink">泳勛</a>、<a href="https://zh.wikipedia.org/wiki/THE_BOYZ" title="wikilink">善旴</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2018年8月21日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/雨琦" title="wikilink">雨琦</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2018年9月25日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金東漢" title="wikilink">金東漢</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2018年10月2日</p></td>
-<td><p><a href="../Page/Luda.md" title="wikilink">Luda</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2018年10月30日</p></td>
-<td><p>亨源</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2018年11月13日</p></td>
-<td><p><a href="../Page/金相均.md" title="wikilink">金相均</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2018年11月20日、27日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/崔普閔" title="wikilink">普閔</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2018年12月4日</p></td>
-<td><p><a href="../Page/道英.md" title="wikilink">道英</a>、<a href="../Page/在玹.md" title="wikilink">在玹</a></p></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| 季數                   | 節目名稱                                                                                                                                                                      | 播出日期                                                                                                                       | 代班／特別主持                              |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+| 第4季                  | \-{zh-hans:THE SHOW;zh-hant:THE SHOW;zh-cn:韩秀榜}-                                                                                                                          | 2015年5月12日－2015年6月2日                                                                                                       | [𤨒晶](../Page/咸𤨒晶.md "wikilink")\[9\] |
+| 2015年6月9日            | [齡智](../Page/許齡智.md "wikilink")                                                                                                                                           |                                                                                                                            |                                      |
+| 2015年7月21日           | [普美](../Page/尹普美.md "wikilink")                                                                                                                                           |                                                                                                                            |                                      |
+| 2015年8月11日           | [康男](../Page/滑川康男.md "wikilink")、[金永哲](../Page/金永哲.md "wikilink")                                                                                                         |                                                                                                                            |                                      |
+| 2015年10月20日          | [有謙](../Page/金有謙.md "wikilink")                                                                                                                                           |                                                                                                                            |                                      |
+| 2015年10月27日          | [亨源](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")、[周憲](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")                                                           |                                                                                                                            |                                      |
+| 2015年11月10日          | [李在真](https://zh.wikipedia.org/wiki/李在真 "wikilink")、[金宰鉉](https://zh.wikipedia.org/wiki/金宰鉉 "wikilink")、[酉奈](../Page/酉奈.md "wikilink")                                    |                                                                                                                            |                                      |
+| 2015年11月17日          | [爀](https://zh.wikipedia.org/wiki/爀 "wikilink")、[康男](../Page/滑川康男.md "wikilink")                                                                                          |                                                                                                                            |                                      |
+| 2015年11月24日          | [爀](../Page/VIXX.md "wikilink")                                                                                                                                           |                                                                                                                            |                                      |
+| 2015年12月1日           | [力燦](https://zh.wikipedia.org/wiki/力燦 "wikilink")、[永才](https://zh.wikipedia.org/wiki/永才 "wikilink")                                                                       |                                                                                                                            |                                      |
+| 第5季                  | 2016年1月26日                                                                                                                                                                | [睿隣](../Page/Yerin.md "wikilink")、[天地](https://zh.wikipedia.org/wiki/李燦熺 "wikilink")、[創造](../Page/創造_\(歌手\).md "wikilink") |                                      |
+| 2016年2月23日           | [SinB](../Page/SinB.md "wikilink")、[強仁](../Page/強仁.md "wikilink")                                                                                                         |                                                                                                                            |                                      |
+| 2016年3月8日、11月22日及29日 | 永才                                                                                                                                                                        |                                                                                                                            |                                      |
+| 2016年3月15日           | 永才、[大賢](https://zh.wikipedia.org/wiki/大賢 "wikilink")                                                                                                                      |                                                                                                                            |                                      |
+| 2016年3月22日           | [頌樂](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")、[輝人](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")                                                             |                                                                                                                            |                                      |
+| 2016年4月5日至19日、10月18日 | [有謙](../Page/金有謙.md "wikilink")                                                                                                                                           |                                                                                                                            |                                      |
+| 2016年4月26日           | [N](../Page/VIXX.md "wikilink")                                                                                                                                           |                                                                                                                            |                                      |
+| 2016年5月3日            | [Ken](../Page/李宰焕.md "wikilink")                                                                                                                                          |                                                                                                                            |                                      |
+| 2016年5月10日           | [爀](../Page/VIXX.md "wikilink")                                                                                                                                           |                                                                                                                            |                                      |
+| 2016年5月17日至24日       | [宇信](../Page/UP10TION.md "wikilink")                                                                                                                                      |                                                                                                                            |                                      |
+| 2016年6月21日           | [希澈](../Page/希澈.md "wikilink")、[Momo](../Page/Momo_\(TWICE\).md "wikilink")、[彩瑛](../Page/彩瑛.md "wikilink")                                                                |                                                                                                                            |                                      |
+| 2016年7月12日           | [承俊](https://zh.wikipedia.org/wiki/KNK "wikilink")、[車銀優](https://zh.wikipedia.org/wiki/車銀優_\(韓國歌手\) "wikilink")                                                           |                                                                                                                            |                                      |
+| 2016年8月2日            | [世正](https://zh.wikipedia.org/wiki/金世正 "wikilink")、宇信                                                                                                                     |                                                                                                                            |                                      |
+| 2016年8月9日            | 車銀優                                                                                                                                                                       |                                                                                                                            |                                      |
+| 2016年8月16日           | 弘彬                                                                                                                                                                        |                                                                                                                            |                                      |
+| 2016年8月23日           | [N](https://zh.wikipedia.org/wiki/車學沇 "wikilink")                                                                                                                         |                                                                                                                            |                                      |
+| 2016年8月30日           | [爀](../Page/VIXX.md "wikilink")                                                                                                                                           |                                                                                                                            |                                      |
+| 2016年9月6日            | [Eunha](https://zh.wikipedia.org/wiki/丁恩妃 "wikilink")                                                                                                                     |                                                                                                                            |                                      |
+| 2016年9月13日           | 齡智、[Homme](../Page/Homme.md "wikilink")                                                                                                                                   |                                                                                                                            |                                      |
+| 2016年9月20日           | [Wendy](https://zh.wikipedia.org/wiki/孫勝完 "wikilink")、[旼泫](https://zh.wikipedia.org/wiki/旼泫 "wikilink")                                                                   |                                                                                                                            |                                      |
+| 2017年3月7日            | [達淵](https://zh.wikipedia.org/wiki/SF9 "wikilink")、[路雲](https://zh.wikipedia.org/wiki/金錫 "wikilink")                                                                     |                                                                                                                            |                                      |
+| 2017年4月18日           | [天地](https://zh.wikipedia.org/wiki/TEEN_TOP "wikilink")                                                                                                                   |                                                                                                                            |                                      |
+| 2017年5月2日            | [EXID](https://zh.wikipedia.org/wiki/EXID "wikilink")（[率智除外](../Page/率智.md "wikilink")）                                                                                   |                                                                                                                            |                                      |
+| 2017年6月27日           | [芝妍](https://zh.wikipedia.org/wiki/芝妍 "wikilink")、[MJ](../Page/Astro_\(韓國音樂團體\).md "wikilink")、[文彬](https://zh.wikipedia.org/wiki/文彬 "wikilink")                          |                                                                                                                            |                                      |
+| 2017年8月1日            | [安炯燮](../Page/安炯燮.md "wikilink")、[李義雄](../Page/李義雄_\(韓國\).md "wikilink")                                                                                                  |                                                                                                                            |                                      |
+| 2017年9月19日           | 永才、[秀娟](https://zh.wikipedia.org/wiki/池秀娟 "wikilink")、[度延](../Page/金度延.md "wikilink")                                                                                     |                                                                                                                            |                                      |
+| 2017年9月26日           | 度延、[Lucy](https://zh.wikipedia.org/wiki/魯孝靜 "wikilink")、[始炫](../Page/金始炫.md "wikilink")                                                                                   |                                                                                                                            |                                      |
+| 2017年11月7日           | [DinDin](https://zh.wikipedia.org/wiki/DinDin "wikilink")                                                                                                                 |                                                                                                                            |                                      |
+| 2017年12月26日          | 睿隣、[民赫](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")                                                                                                                |                                                                                                                            |                                      |
+| 2018年1月23日           | [Arin](https://zh.wikipedia.org/wiki/Oh_My_Girl "wikilink")                                                                                                               |                                                                                                                            |                                      |
+| 2018年3月27日           | 力燦                                                                                                                                                                        |                                                                                                                            |                                      |
+| 2018年4月10日           | 民赫                                                                                                                                                                        |                                                                                                                            |                                      |
+| 2018年5月1日            | [昭希](https://zh.wikipedia.org/wiki/金昭希_\(歌手\) "wikilink")、[泳勛](https://zh.wikipedia.org/wiki/THE_BOYZ "wikilink")、[善旴](https://zh.wikipedia.org/wiki/THE_BOYZ "wikilink") |                                                                                                                            |                                      |
+| 2018年8月21日           | [雨琦](https://zh.wikipedia.org/wiki/雨琦 "wikilink")                                                                                                                         |                                                                                                                            |                                      |
+| 2018年9月25日           | [金東漢](https://zh.wikipedia.org/wiki/金東漢 "wikilink")                                                                                                                       |                                                                                                                            |                                      |
+| 2018年10月2日           | [Luda](../Page/Luda.md "wikilink")                                                                                                                                        |                                                                                                                            |                                      |
+| 2018年10月30日          | 亨源                                                                                                                                                                        |                                                                                                                            |                                      |
+| 2018年11月13日          | [金相均](../Page/金相均.md "wikilink")                                                                                                                                          |                                                                                                                            |                                      |
+| 2018年11月20日、27日      | [普閔](https://zh.wikipedia.org/wiki/崔普閔 "wikilink")                                                                                                                        |                                                                                                                            |                                      |
+| 2018年12月4日           | [道英](../Page/道英.md "wikilink")、[在玹](../Page/在玹.md "wikilink")                                                                                                             |                                                                                                                            |                                      |
 
 ## 評定基準
 
@@ -1177,8 +917,8 @@ SHOW;zh-cn:韩秀榜}-**》（；）是[韓國](https://zh.wikipedia.org/wiki/�
     [Leo](https://zh.wikipedia.org/wiki/鄭澤運 "wikilink")<sup>1st</sup>
     - Touch & Sketch<sup>1st</sup> \[7,490分\]
   - 08.14 -
-    [DIA](https://zh.wikipedia.org/wiki/DIA "wikilink")<sup>1st</sup> -
-    Woo Woo<sup>1st</sup> \[7,390分\]
+    [DIA](https://zh.wikipedia.org/wiki/DIA_\(韓國音樂團體\) "wikilink")<sup>1st</sup>
+    - Woo Woo<sup>1st</sup> \[7,390分\]
   - 08.21 - [Red Velvet](../Page/Red_Velvet.md "wikilink")<sup>7th</sup>
     - Power Up<sup>1st</sup> \[8,832分\]
   - 08.28 - \[重播2018/08/21之內容\]
@@ -1260,7 +1000,7 @@ SHOW;zh-cn:韩秀榜}-**》（；）是[韓國](https://zh.wikipedia.org/wiki/�
   - 01.22 - [GFRIEND](../Page/GFRIEND.md "wikilink")<sup>11th</sup> -
     Sunrise<sup>1st</sup> \[8,617分\]
   - 01.29 -
-    [ASTRO](https://zh.wikipedia.org/wiki/ASTRO "wikilink")<sup>1st</sup>
+    [ASTRO](../Page/Astro_\(韓國音樂團體\).md "wikilink")<sup>1st</sup>
     - All Night<sup>1st</sup> \[8,170分\]
 
 <!-- end list -->
@@ -1353,6 +1093,11 @@ SHOW;zh-cn:韩秀榜}-**》（；）是[韓國](https://zh.wikipedia.org/wiki/�
 
   - 07.02 - [(G)I-DLE](../Page/\(G\)I-DLE.md "wikilink")<sup>4th</sup> -
     Uh-Oh<sup>1st</sup> \[7,505分\]
+  - 07.09 - [GFRIEND](../Page/GFRIEND.md "wikilink")<sup>12th</sup> -
+    Fever<sup>1st</sup> \[9,100分\]
+  - 07.16 - [河成雲](../Page/河成雲.md "wikilink")<sup>1st</sup> -
+    Blue<sup>1st</sup> \[8,150分\]
+  - 07.23 - 停播
 
 ## 藝人成就
 
@@ -1363,7 +1108,7 @@ SHOW;zh-cn:韩秀榜}-**》（；）是[韓國](https://zh.wikipedia.org/wiki/�
 | 等級                                                                | 歌手                                                                | 統計  | 出道年份 |
 | ----------------------------------------------------------------- | ----------------------------------------------------------------- | --- | ---- |
 | 1st                                                               | [VIXX](../Page/VIXX.md "wikilink")                                | 14次 | 2012 |
-| 2nd                                                               | [GFRIEND](../Page/GFRIEND.md "wikilink")                          | 11次 | 2015 |
+| 2nd                                                               | [GFRIEND](../Page/GFRIEND.md "wikilink")                          | 12次 | 2015 |
 | 3rd                                                               | [EXID](https://zh.wikipedia.org/wiki/EXID "wikilink")             | 8次  | 2012 |
 | 4th                                                               | [Apink](../Page/Apink.md "wikilink")                              | 7次  | 2011 |
 | [GOT7](../Page/GOT7.md "wikilink")                                | 2014                                                              |     |      |

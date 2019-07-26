@@ -55,9 +55,11 @@ ShadowsocksR（简称SSR）是网名为breakwa11的用户發起的Shadowsocks分
 ShadowsocksR開始時曾有过违反[GPL](../Page/GNU通用公共许可证.md "wikilink")、发放二进制时不发放源码的争议，使得原開發作者不滿\[21\]不过后来ShadowsocksR项目由breakwa11转为了與Shadowsocks相同的GPL、Apache許可證、MIT許可證等多重自由軟體許可协-{}-议。
 
 2017年7月19日，ShadowsocksR作者breakwa11在Telegram频道ShadowsocksR
-news裡转发了深圳市启用SS协议检测的消息并被大量用户转发，引发恐慌\[22\]。7月24日，breakwa11发布了闭源的SS被动检测程序，引发争议\[23\]。7月27日，breakwa11遭到自称“ESU.TV”（[恶俗TV](https://zh.wikipedia.org/wiki/恶俗维基 "wikilink")）的不明身份人士人身攻击，对方宣称如果不停止开发并阻止用户讨论此事件将发布更多包含个人隐私的资料\[24\]，随后breakwa11表示遭到对方人肉搜索并公开个人资料的是无关人士，为了防止对方继续伤害无关人士，breakwa11将删除GitHub上的所有代码、解散相关交流群组，停止ShadowsocksR项目。但项目已被多人fork，并有人在其基础上继续发布新的版本，例如较为知名的[SSRR](https://github.com/shadowsocksrr)（ShadowsocksRR）。
+news裡转发了深圳市启用SS协议检测的消息并被大量用户转发，引发恐慌\[22\]。7月24日，breakwa11发布了闭源的SS被动检测程序，引发争议\[23\]。7月27日，breakwa11遭到自称“ESU.TV”（恶俗TV）的不明身份人士人身攻击，对方宣称如果不停止开发并阻止用户讨论此事件将发布更多包含个人隐私的资料\[24\]，随后breakwa11表示遭到对方人肉搜索并公开个人资料的是无关人士，为了防止对方继续伤害无关人士，breakwa11将删除GitHub上的所有代码、解散相关交流群组，停止ShadowsocksR项目。但项目已被多人fork，并有人在其基础上继续发布新的版本，例如较为知名的[SSRR](https://github.com/shadowsocksrr)（ShadowsocksRR）。
 
 ## 參考資料
+
+## 注解
 
 ## 外部链接
 
