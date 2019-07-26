@@ -34,7 +34,7 @@ Tablet S 推出時採用 Android 3.1
 版本作業系統，其後索尼提供 3.2 版本系統升級。\[7\]
 
 日本索尼已確認將於2012年4月，為 Tablet S 提供 Android 4.0
-[ICS](https://zh.wikipedia.org/wiki/ICS "wikilink")
+[ICS](https://zh.wikipedia.org/wiki/Android歷史版本#Android_4.0.x "wikilink")
 官方系統升級。此升級亦會加入多項新功能，包括可在待機介面直接[拍照](https://zh.wikipedia.org/wiki/拍照 "wikilink")、圖片庫編輯功能及[全景拍攝模式等](https://zh.wikipedia.org/wiki/全景拍攝 "wikilink")。亦會加入
 Small
 Apps，可以在執行程式時呼叫出[計算機](https://zh.wikipedia.org/wiki/計算機 "wikilink")、[遙控器](https://zh.wikipedia.org/wiki/遙控器 "wikilink")、[瀏覽器等常用小工具](https://zh.wikipedia.org/wiki/瀏覽器 "wikilink")。\[8\]

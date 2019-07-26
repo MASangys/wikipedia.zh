@@ -5,7 +5,8 @@
 2009年12月3日，在[Git上對CoffeeScript做出了第一筆提交](../Page/Git.md "wikilink")「這是這個神秘語言最初的提交。（initial
 commit of the mystery
 language.）」\[4\]當時的編譯器由Ruby語言所寫成。在同年12月24日，Ashkenas做出了第一個上標籤與歸檔的版本－0.1.0。2010年2月21日，他釋出了0.5版，此版本將原先由Ruby撰寫的編譯器改寫為純CoffeeScript撰寫。當時吸引了[GitHub上的許多貢獻者](../Page/GitHub.md "wikilink")，每日約有300人次造訪該專案的頁面。2010年12月24日，Askenas釋出了1.0.0穩定版本，並在Hacker
-News上發表。Hacker News也是當時此專案第一次發表的網站。\[5\]\[6\]
+News上發表。[Hacker
+News也是當時此專案第一次發表的網站](../Page/Hacker_News.md "wikilink")。\[5\]\[6\]
 
 ## 語法
 

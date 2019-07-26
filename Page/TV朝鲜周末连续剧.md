@@ -256,7 +256,7 @@
 </p></td>
 <td style="text-align: center;"><p><a href="../Page/朝鮮生存記.md" title="wikilink">朝鮮生存記</a><br />
 </p></td>
-<td style="text-align: center;"><p>20</p></td>
+<td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="../Page/姜至奐.md" title="wikilink">姜至奐</a>、<a href="../Page/宋元錫.md" title="wikilink">宋元錫</a>、<a href="../Page/景收真.md" title="wikilink">景收真</a>、<a href="../Page/朴世婉.md" title="wikilink">朴世婉</a></p></td>
 <td style="text-align: center;"><p>張容宇</p></td>
 <td style="text-align: center;"><p>朴敏宇</p></td>

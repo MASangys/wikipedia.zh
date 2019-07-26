@@ -42,7 +42,7 @@ OURs](../Page/YOUNG_KING_OURs.md "wikilink")》上连载。新故事的时间是
 
 
 
-## 角色
+## 登場角色
 
 **威席·史坦畢特**（Vash the
 Stampede）是一位嘗試推廣「愛與和平」的輕快的神槍手。他是一位快活的人，並討厭正經，但實際上他卻是位十分正經及有深度的人。他經常展露笑容，而伍夫伍德稱之為「虛偽的笑容」。在他笑容下是他痛苦與負重擔的靈魂。
@@ -65,6 +65,188 @@ Wolfwood）是一位技術高超的槍手，其技幾乎相等於威席本人，
 **蕾萌‧圣蕾姆**(Rem ) ,威席的導師及青梅竹馬，並教導他生命的價值。
 
 **Gung-Ho Guns**，一團超級人類殺手組織。全部組織成員有超能力及裝備。其領導人為雷卡特（Legato Bluesummers）。
+
+## 用語
+
+## 出版書籍
+
+### TRIGUN
+
+  - 單行本
+
+<table>
+<thead>
+<tr class="header">
+<th><p>卷數</p></th>
+<th><p><a href="../Page/德間書店.md" title="wikilink">德間書店</a></p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>發售日期</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
+</tr>
+<tr class="even">
+<td><p>1</p></td>
+<td><p>1996年4月25日</p></td>
+</tr>
+<tr class="odd">
+<td><p>2</p></td>
+<td><p>1996年10月30日</p></td>
+</tr>
+<tr class="even">
+<td><p>3</p></td>
+<td><p>1999年1月20日</p></td>
+</tr>
+</tbody>
+</table>
+
+  - 完全版
+
+<table>
+<thead>
+<tr class="header">
+<th><p>卷數</p></th>
+<th><p><a href="../Page/少年畫報社.md" title="wikilink">少年畫報社</a></p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>發售日期</p></td>
+<td><p>ISBN</p></td>
+</tr>
+<tr class="even">
+<td><p>1</p></td>
+<td><p>2000年6月26日</p></td>
+</tr>
+<tr class="odd">
+<td><p>2</p></td>
+<td><p>ISBN 4-7859-2006-8</p></td>
+</tr>
+</tbody>
+</table>
+
+### TRIGUN MAXIMUM
+
+  - 單行本
+
+<table>
+<thead>
+<tr class="header">
+<th><p>卷數</p></th>
+<th><p>少年畫報社</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>發售日期</p></td>
+<td><p>ISBN</p></td>
+</tr>
+<tr class="even">
+<td><p>1</p></td>
+<td><p>1998年7月1日</p></td>
+</tr>
+<tr class="odd">
+<td><p>2</p></td>
+<td><p>1999年2月1日</p></td>
+</tr>
+<tr class="even">
+<td><p>3</p></td>
+<td><p>1999年10月22日</p></td>
+</tr>
+<tr class="odd">
+<td><p>4</p></td>
+<td><p>2000年7月1日</p></td>
+</tr>
+<tr class="even">
+<td><p>5</p></td>
+<td><p>2001年2月1日</p></td>
+</tr>
+<tr class="odd">
+<td><p>6</p></td>
+<td><p>2001年10月1日</p></td>
+</tr>
+<tr class="even">
+<td><p>7</p></td>
+<td><p>2002年8月7日</p></td>
+</tr>
+<tr class="odd">
+<td><p>8</p></td>
+<td><p>2003年4月25日</p></td>
+</tr>
+<tr class="even">
+<td><p>9</p></td>
+<td><p>2003年10月24日</p></td>
+</tr>
+<tr class="odd">
+<td><p>10</p></td>
+<td><p>2004年12月27日</p></td>
+</tr>
+<tr class="even">
+<td><p>11</p></td>
+<td><p>ISBN 4-7859-2498-5</p></td>
+</tr>
+<tr class="odd">
+<td><p>12</p></td>
+<td><p>2006年7月26日</p></td>
+</tr>
+<tr class="even">
+<td><p>13</p></td>
+<td><p>2007年11月9日</p></td>
+</tr>
+<tr class="odd">
+<td><p>14</p></td>
+<td><p>2008年2月27日</p></td>
+</tr>
+</tbody>
+</table>
+
+  - 完全版
+
+<table>
+<thead>
+<tr class="header">
+<th><p>卷數</p></th>
+<th><p>少年畫報社</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>發售日期</p></td>
+<td><p>ISBN</p></td>
+</tr>
+<tr class="even">
+<td><p>1</p></td>
+<td><p>2010年1月30日</p></td>
+</tr>
+<tr class="odd">
+<td><p>2</p></td>
+<td><p>ISBN 978-4-78-593306-7</p></td>
+</tr>
+<tr class="even">
+<td><p>3</p></td>
+<td><p>2010年4月24日</p></td>
+</tr>
+<tr class="odd">
+<td><p>4</p></td>
+<td><p>ISBN 978-4-78-593349-4</p></td>
+</tr>
+<tr class="even">
+<td><p>5</p></td>
+<td><p>2010年8月2日</p></td>
+</tr>
+<tr class="odd">
+<td><p>6</p></td>
+<td><p>ISBN 978-4-78-593369-2</p></td>
+</tr>
+<tr class="even">
+<td><p>7</p></td>
+<td><p>2010年9月30日</p></td>
+</tr>
+</tbody>
+</table>
+
+## 電視動畫
 
 ## 參考
 

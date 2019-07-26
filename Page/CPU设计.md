@@ -153,7 +153,7 @@ per dollar", and "deterministic response" much worse, and vice versa.
 
   - [精简指令集](../Page/精简指令集.md "wikilink")
 
-  - [复杂指令集](https://zh.wikipedia.org/wiki/复杂指令集 "wikilink")
+  - [复杂指令集](../Page/复杂指令集.md "wikilink")
 
   -
   - [高级综合](../Page/高级综合.md "wikilink")
